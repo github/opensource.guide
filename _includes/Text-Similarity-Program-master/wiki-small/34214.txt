@@ -1,0 +1,77 @@
+X Multimedia System (XMMS) is an audio player for Unix-like systems released under a free software license.
+
+1. History
+
+XMMS was originally written as X11Amp by Peter and Mikael Alm in November 1997. The player was made to resemble Winamp, which was first released in May that year. As such, XMMS has supported Winamp 2 "classic" skins since its release. Though the original release was made under a license that did not provide any access to the program's source code, it is now released under the GNU General Public License.
+
+On June 10, 1999, 4Front Technologies decided to sponsor X11Amp development and the project was renamed to XMMS - the name being an acronym for X MultiMedia System. Most XMMS users take this to mean "X11 MultiMedia System" or "X Window System MultiMedia System"; the official interpretation of the "X" is "Cross-platform".
+
+1.1. Forks
+
+XMMS has continued to use GTK+ 1.x toolkit, despite a major revision of GTK (2.x) being available for several years. The primary reason for this reluctance to upgrade is that many XMMS plugins (written by third parties) are dependent on the older version of GTK+ to properly function, e.g., "about" boxes and configuration dialogs. Many software developers also consider the XMMS codebase to be poorly designed and difficult to maintain. These factors led to various forks and related projects:
+
+The Beep Media Player, a fork of XMMS code that uses GTK+ 2, started around 2003
+
+, the remade continuation of Beep Media Player, started around the end of 2005
+
+Audacious, a fork from Beep Media Player started around 2005 when Beep Media Player development ceased in favor of Youki
+
+GTK+2 based fork by Mohammed Sameer, named XMMS2.
+
+2. Features
+
+XMMS currently supports the following audio and video file formats:
+
+AAC support is provided by the FAAD2 library, supporting m4a files
+
+APE Monkey's Audio Codec .ape files — support provided by the mac-port project plugin
+
+Audio CD, including CDDB via FreeDB lookup
+
+FLAC support is provided by a plugin in the FLAC library
+
+Icecast and SHOUTcast streaming supported, and is compatible with Winamp 2 skins.
+
+libmikmod supported formats (including .XM, .MOD, .IT) See:
+
+JACK plug-in for support of the JACK Audio Connection Kit.
+
+ModPlug plug-in for playing .MOD, .S3M, .XM, .IT and other famous tracker formats.
+
+mp3PRO support is provided by a third party plugin (which does not support SHOUTcast title streaming)
+
+MPEG Layer 1,2 and 3 (Also known as MP3), using the mpg123 library
+
+Musepack support using XMMS-Musepack plugin.
+
+OGG Vorbis support is provided by a plug-in provided by xiph.org
+
+SHN support is provided by a plug-in provided by etree.
+
+speex high quality & ratio speech compression format via plugin
+
+TTA support is provided by a third party plugin
+
+UADE plug-in provides support for most Amiga music formats
+
+WAV
+
+WavPack with support provided by a third party plugin
+
+WMA Limited support provided by third party plugin.
+
+3. Skins
+
+XMMS has a default skin provided, but it is also possible to use any classic skins to enhance the graphic attractiveness of the player. (see attached image)
+
+4. Coverviewer
+
+xmms-coverviewer is an XMMS plugin which allows XMMS to display album art and further enhance the graphical interface of the player. (see attached image)
+
+5. See also
+
+LMMS
+
+6. References
+
+7. External links

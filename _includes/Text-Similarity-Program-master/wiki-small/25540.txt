@@ -1,0 +1,95 @@
+A Request for Comments (RFC) is a publication of the Internet Engineering Task Force (IETF) and the Internet Society, the principal technical development and standards-setting bodies for the Internet.
+
+An RFC is authored by engineers and computer scientists in the form of a memorandum describing methods, behaviors, research, or innovations applicable to the working of the Internet and Internet-connected systems. It is submitted either for peer review or simply to convey new concepts, information, or (occasionally) engineering humor. The IETF adopts some of the proposals published as RFCs as Internet standards.
+
+Request for Comments documents were invented by Steve Crocker in 1969 to help record unofficial notes on the development of ARPANET. RFCs have since become official documents of Internet specifications, communications protocols, procedures, and events.
+
+1. History
+
+The inception of the RFC format occurred in 1969 as part of the seminal ARPANET project. Today, it is the official publication channel for the Internet Engineering Task Force (IETF), the Internet Architecture Board (IAB), and — to some extent — the global community of computer network researchers in general.
+
+The authors of the first RFCs typewrote their work and circulated hard copies among the ARPA researchers. Unlike the modern RFCs, many of the early RFCs were actual requests for comments and were titled as such to avoid sounding too declarative and to encourage discussion. The RFC leaves questions open and is written in a less formal style. This less formal style is now typical of Internet Draft documents, the precursor step before being approved as an RFC.
+
+In December 1969, researchers began distributing new RFCs via the newly operational ARPANET. RFC 1, entitled "Host Software", was written by Steve Crocker of the University of California, Los Angeles (UCLA), and published on April 7, 1969. Although written by Steve Crocker, the RFC emerged from an early working group discussion between Steve Crocker, Steve Carr and Jeff Rulifson.
+
+In RFC 3, which first defined the RFC series, Crocker started attributing the RFC series to the Network Working Group. Rather than being a formal committee, it was a loose association of researchers interested in the ARPANET project. In effect, it included anyone who wanted to join the meetings and discussions about the project.
+
+Many of the subsequent RFCs of the 1970s also came from UCLA, because UCLA was one of the first Interface Message Processors (IMPs) on ARPANET. The Augmentation Research Center (ARC) at Stanford Research Institute, directed by Douglas Engelbart, was another of the four first ARPANET nodes and the source of early RFCs. The ARC became the first network information center (InterNIC), which was managed by Elizabeth J. Feinler to distribute the RFCs along with other network information. From 1969 until 1998, Jon Postel served as the RFC editor. On his death in 1998, his obituary was published as RFC 2468.
+
+Following the expiration of the original ARPANET contract with the U.S. federal government, the Internet Society, acting on behalf of the IETF, contracted with the Networking Division of the University of Southern California (USC) Information Sciences Institute (ISI) to assume the editorship and publishing responsibilities under the direction of the IAB. Sandy Ginoza joined USC/ISI in 1999 to work on RFC editing, and Alice Hagens in 2005. Bob Braden took over the role of RFC project lead, while Joyce K. Reynolds continued to be part of the team until October 13, 2006.
+
+In July 2007, streams of RFCs were defined, so that the editing duties could be divided. IETF documents came from IETF working groups or submissions sponsored by an IETF area director from the Internet Engineering Steering Group. The IAB can publish its own documents. A research stream of documents comes from the Internet Research Task Force (IRTF), and an independent stream from other outside sources. A new model was proposed in 2008, refined, and published in August 2009, splitting the task into several roles, including the RFC Series Advisory Group (RSAG). (The model was updated in 2012 ) The streams were also refined in December 2009, with standards defined for their style. In January 2010 the RFC editor function was moved to a contractor, Association Management Solutions, with Glenn Kowack serving as interim series editor. In late 2011, Heather Flanagan was hired as the permanent RFC Series Editor. Also at that time, an RFC Series Oversight Committee (RSOC) was created.
+
+2. Production and evolution
+
+The RFC Editor assigns each RFC a serial number. Once assigned a number and published, an RFC is never rescinded or modified; if the document requires amendments, the authors publish a revised document. Therefore, some RFCs supersede others; the superseded RFCs are said to be deprecated, obsolete, or obsoleted by the superseding RFC. Together, the serialized RFCs compose a continuous historical record of the evolution of Internet standards and practices. The RFC process is documented in RFC 2026 (The Internet Standards Process, Revision 3)
+
+The RFC production process differs from the standardization process of formal standards organizations such as ISO. Internet technology experts may submit an Internet Draft without support from an external institution. Standards-track RFCs are published with approval from the IETF, and are usually produced by experts participating in working groups, which first publish an Internet Draft. This approach facilitates initial rounds of peer review before documents mature into RFCs.
+
+The RFC tradition of pragmatic, experience-driven, after-the-fact standards authorship accomplished by individuals or small working groups can have important advantages over the more formal, committee-driven process typical of ISO and national standards bodies.
+
+Most RFCs use a common set of terms such as "MUST" and "NOT RECOMMENDED" (as defined by RFC 2119), Augmented Backus–Naur Form (ABNF) (RFC 5234) as a meta-language, and simple text-based formatting, in order to keep the RFCs consistent and easy to understand.
+
+2.1. Sub-series
+
+The RFC series contains three sub-series for IETF RFCs: ;BCP: Best Current Practice; mandatory IETF RFCs not on standards track, see below. ;FYI: For Your Information; informational RFCs promoted by the IETF as specified in RFC 1150 (FYI 1). In 2011, RFC 6360 obsoleted FYI 1 and concluded this sub-series. ;STD: Standard; this used to be the third and highest maturity level of the IETF standards track specified in RFC 2026 (BCP 9). In 2011 RFC 6410 (a new part of BCP 9) reduced the standards track to two maturity levels.
+
+2.2. Streams
+
+There are four streams of RFCs: (1) IETF, (2) IRTF, (3) IAB, and (4) independent submission. Only the IETF creates BCPs and RFCs on standards track. An independent submission is checked by the IESG for conflicts with IETF work; the quality is assessed by an independent submission editorial board. In other words, IRTF and independent  RFCs are supposed to contain relevant info or experiments for the Internet at large not in conflict with IETF work; compare RFC 4846, RFC 5742, and RFC 5744.
+
+3. Obtaining RFCs
+
+The official source for RFCs on the World Wide Web is the . Almost any published RFC can be retrieved via a URL of the form , shown for RFC 5000.
+
+Every RFC is submitted as plain ASCII text and is published in that form, but may also be available in other formats. However, the definitive version of any standards-track specification is the ASCII version.
+
+For easy access to the metadata of an RFC, including abstract, keywords, author(s), publication date, errata, status, and especially later updates, the RFC Editor site offers a search form with many features. A redirection sets some efficient parameters, example:
+
+The official International Standard Serial Number (ISSN) of the RFC series is 2070-1721.
+
+4. Status
+
+Not all RFCs are standards. Each RFC is assigned a designation with regard to status within the Internet standardization process. This status is one of the following: Informational, Experimental, Best Current Practice (BCP), Standards Track, or Historic (sic). Standards-track documents are further divided into Proposed Standard, Draft Standard, and Internet Standard documents. The term Historic is applied to deprecated standards-track documents or obsolete RFCs that were published before the standards track was established. Only the IETF, represented by the Internet Engineering Steering Group (IESG), can approve standards-track RFCs.
+
+Each RFC is static; if the document is changed, it is submitted again and assigned a new RFC number. If an RFC becomes an Internet Standard (STD), it is assigned an STD number but retains its RFC number; however, when an Internet Standard is updated, its number stays the same and it simply refers to a different RFC or set of RFCs. A given Internet Standard, STD n, may be RFCs x and y at a given time, but later the same standard may be updated to be RFC z instead. For example, in 2007 RFC 3700 was an Internet Standard—STD 1—and in May 2008 it was replaced with RFC 5000, so RFC 3700 changed to Historic, RFC 5000 became an Internet Standard, and STD 1 is RFC 5000. When STD 1 is updated again, it will simply refer to a newer RFC that will have completed the standards track, but it will still be STD 1. Best Current Practices work in a similar fashion; BCP n refers to a certain RFC or set of RFCs, but which RFC or RFCs may change over time.
+
+The definitive list of Internet Standards is itself an Internet Standard, STD 1: Internet Official Protocol Standards.
+
+4.1. Status "informational"
+
+An informational RFC can be nearly anything from April 1 jokes over proprietary protocols up to widely recognized essential RFCs like Domain Name System Structure and Delegation (RFC 1591). Some informational RFCs formed the FYI sub-series.
+
+4.2. Status "experimental"
+
+An experimental RFC can be an IETF document or an individual submission to the 'RFC Editor'. A draft is designated experimental if it is unclear the proposal will work as intended or unclear if the proposal will be widely adopted. Experimental RFCs may be promoted to standards track if it becomes popular and works well.
+
+4.3. Status "best current practice"
+
+The best current practice (BCP) subseries collects administrative documents and other texts which are considered as official rules and not only informational, but which do not affect over the wire data. The border between standards track and BCP is often unclear. If a document only affects the Internet Standards Process, like BCP 9, or IETF administration, it is clearly a BCP. If it only defines rules and regulations for Internet Assigned Numbers Authority (IANA) registries it is less clear; most of these documents are BCPs, but some are on the standards track.
+
+The BCP series also covers technical recommendations for how to practice Internet standards; for instance the recommendation to use source filtering to make DoS attacks more difficult (RFC 2827: "Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing") is [//tools.ietf.org/html/bcp38 BCP 38].
+
+4.4. Status "historic"
+
+A historic RFC one that has been made obsolete by a newer version, documents a protocol that is not considered interesting in the current Internet, or has been removed from the standards track for other reasons. Some obsolete RFCs are not classified as historic, because the Internet standards process generally does not allow normative references from a standards track RFC to another RFC with lower status. Also, few are interested in working through the required procedural details to get RFCs classified as historic and update all RFCs normatively depending on it.
+
+4.5. Status "unknown"
+
+Status unknown is used for some very old RFCs, where it is unclear which status the document would get if it were published today. Some of these RFCs would not be published at all today; an early RFC was often just that: a simple request for comments, not intended to specify a protocol, administrative procedure, or anything else for which the RFC series is used today.
+
+5. See also
+
+April Fools' Day RFC
+
+Internet Experiment Note
+
+List of RFCs
+
+6. References
+
+7. External links
+
+(text)
+
+(HTML) With the text of each RFC, also mentions what other RFCs this one "updates" or is "updated by".

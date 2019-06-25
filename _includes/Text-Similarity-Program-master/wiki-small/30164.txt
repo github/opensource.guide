@@ -1,0 +1,35 @@
+This article is about communications systems in Tonga.
+
+1. Telephone
+
+Main lines in use: 30,000 (2012)
+
+Telephones - mobile cellular: 56,000 (2012)
+
+Telephone system:
+
+Fixed PSTN, GSM 900
+domestic: NA
+international: satellite earth station - 2 Intelsat (Pacific Ocean))
+
+2. Radio
+
+Broadcast stations: AM 1 (2005), FM 5 (2005), shortwave 1 (1998)
+
+Radios: 61,000 (1997)
+
+3. Television
+
+Broadcast stations: 4 (2005)
+
+Televisions: 2,000 (1997)
+
+At April 2002 Tongasat company started the own satellite telecommunication service when obtained the Esiafi 1 (former private American Comstar D4) satellite (launched in 1981) that was moved to Tonga’s owned geostationary point.
+
+4. Internet
+
+Internet Service Providers (ISPs): 2 (2005)
+
+Country code (Top level domain): .to
+
+5. Notes

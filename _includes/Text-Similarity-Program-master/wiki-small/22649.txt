@@ -1,0 +1,81 @@
+Observation is the active acquisition of information from a primary source. In living beings, observation employs the senses. In science, observation can also involve the recording of data via the use of instruments. The term may also refer to any data collected during the scientific activity.
+
+1. Observation in science
+
+The scientific method requires observations of nature to formulate and test hypotheses. It consists of these steps:
+
+Asking a question about a natural phenomenon
+
+Making observations of the phenomenon
+
+Hypothesizing an explanation for the phenomenon
+
+Predicting a logical consequence of the hypothesis
+
+Testing the hypothesis by an experiment, an observational study, or a field study
+
+Creating a conclusion with data gathered in the experiment, or forming a revised/new hypothesis and repeating the process Observations play a role in the second and fifth steps of the scientific method. However the need for reproducibility requires that observations by different observers can be comparable. Human sense impressions are subjective and qualitative making them difficult to record or compare. The idea of measurement evolved to allow recording and comparison of observations made at different times and places by different people. Measurement consists of using observation to compare the thing being measured to a standard; an artifact, process or definition which can be duplicated or shared by all observers, and counting how many of the standard units are comparable to the object. Measurement reduces an observation to a number which can be recorded, and two observations which result in the same number are equal within the resolution of the process.
+
+Senses are limited, and are subject to errors in perception such as optical illusions. Scientific instruments were developed to magnify human powers of observation, such as weighing scales, clocks, telescopes, microscopes, thermometers, cameras, and tape recorders, and also translate into perceptible form events that are unobservable by human senses, such as indicator dyes, voltmeters, spectrometers, infrared cameras, oscilloscopes, interferometers, geiger counters, x-ray machines, and radio receivers.
+
+One problem encountered throughout scientific fields is that the observation may affect the process being observed, resulting in a different outcome than if the process was unobserved. This is called the observer effect. For example, it is not normally possible to check the air pressure in an automobile tire without letting out some of the air, thereby changing the pressure. However, in most fields of science it is possible to reduce the effects of observation to insignificance by using better instruments.
+
+Considered as a physical process itself, all forms of observation (human or instrumental) involve amplification and are thus thermodynamically irreversible processes, increasing entropy.
+
+2. Observational paradoxes
+
+In some specific fields of science the results of observation differ depending on factors which are not important in everyday observation. These are usually illustrated with "paradoxes" in which an event appears different when observed from two different points of view, seeming to violate "common sense".
+
+Relativity: In relativistic physics which deals with velocities close to the speed of light, it is found that different observers may observe different values for the length, time rates, mass, and many other properties of an object, depending on the observer's velocity relative to the object. For example, in the twin paradox one twin goes on a trip near the speed of light and comes home younger than the twin who stayed at home. This is not a paradox: time passes at a slower rate when measured from a frame moving with respect to the object. In relativistic physics, an observation must always be qualified by specifying the state of motion of the observer, its reference frame.
+
+Quantum mechanics: In quantum mechanics, which deals with the behavior of very small objects, it is not possible to observe a system without changing the system, and the "observer" must be considered part of the system being observed. In isolation, quantum objects are represented by a wave function which often exists in a superposition or mixture of different states. However, when an observation is made to determine the actual location or state of the object, it always finds the object in a single state, not a "mixture". The interaction of the observation process appears to "collapse" the wave function into a single state. So any interaction between an isolated wave function and the external world that results in this wave function collapse is called an observation or measurement, whether or not it is part of a deliberate observation process.
+
+3. Biases
+
+The human senses do not function like a video camcorder, impartially recording all observations. Human perception occurs by a complex, unconscious process of abstraction, in which certain details of the incoming sense data are noticed and remembered, and the rest forgotten. What is kept and what is thrown away depends on an internal model or representation of the world, called by psychologists a schema, that is built up over our entire lives. The data is fitted into this schema. Later when events are remembered, memory gaps may even be filled by "plausible" data the mind makes up to fit the model; this is called reconstructive memory. How much attention the various perceived data are given depends on an internal value system, which judges how important it is to the individual. Thus two people can view the same event and come away with entirely different perceptions of it, even disagreeing about simple facts. This is why eyewitness testimony is notoriously unreliable.
+
+Several of the more important ways observations can be affected by human psychology are given below.
+
+3.1. Confirmation bias
+
+Human observations are biased toward confirming the observer's conscious and unconscious expectations and view of the world; we "see what we expect to see". In psychology, this is called confirmation bias. Since the object of scientific research is the discovery of new phenomena, this bias can and has caused new discoveries to be overlooked. One example is the discovery of x-rays. It can also result in erroneous scientific support for widely held cultural myths, for example the scientific racism that supported ideas of racial superiority in the early 20th century. Correct scientific technique emphasizes careful recording of observations, separating experimental observations from the conclusions drawn from them, and techniques such as blind or double blind experiments, to minimize observational bias.
+
+3.2. "Cargo cult" science
+
+Another bias, which has become more prevalent with the advent of "big science" and the large rewards of new discoveries, is bias in favor of the researcher's desired hypothesis or outcome; we "see what we want to see". Called pathological science and cargo cult science, this is different from deliberate falsification of results, and can happen to good-faith researchers. Researchers with a great incentive or desire for a given outcome can misinterpret or misjudge results, or even persuade themselves they have seen something they haven't. Possible examples of mistaken discoveries caused by this bias are Martian "canals", N rays, polywater, cold fusion, and perpetual motion machines. Recent decades have seen scientific scandals caused by researchers playing "fast and loose" with observational methods in order to get their pet theories published. This type of bias is rampant in pseudoscience, where correct scientific techniques are not followed. The main defense against this bias, besides correct research techniques, is peer review and repetition of the experiment, or the observation, by other researchers with no incentive to bias. For example, an emerging practice in the competitive field of biotechnology is to require the physical results of experiments, such as serums and tissue cultures, be made available to competing laboratories for independent testing.
+
+3.3. Processing bias
+
+Modern scientific instruments can extensively process "observations" before they are presented to the human senses, and particularly with computerized instruments, there is sometimes a question as to where in the data processing chain "observing" ends and "drawing conclusions" begins. This has recently become an issue with digitally enhanced images published as experimental data in papers in scientific journals. The images are enhanced to bring out features that the researcher wants to emphasize, but this also has the effect of supporting the researcher's conclusions. This is a form of bias that is difficult to quantify. Some scientific journals have begun to set detailed standards for what types of image processing are allowed in research results. Computerized instruments often keep a copy of the "raw data" from sensors before processing, which is the ultimate defense against processing bias, and similarly scientific standards require preservation of the original unenhanced "raw" versions of images used as research data.
+
+3.4. Observational bias
+
+An observational bias occurs when researchers only look where they think they will find positive results, or where it is easy to record observations. This is called the "streetlight effect".
+
+4. Observations in philosophy
+
+Observation in philosophical terms is the process of filtering sensory information through the thought process. Input is received via hearing, sight, smell, taste, or touch and then analyzed through either rational or irrational thought. You see a parent beat their child; you observe that such an action is either good or bad. Deductions about what behaviors are good or bad may be based in no way on preferences about building relationships, or study of the consequences resulting from the observed behavior. With the passage of time, impressions stored in the consciousness about many related observations, together with the resulting relationships and consequences, permit the individual to build a construct about the moral implications of behavior.
+
+5. See also
+
+Introspection
+
+List of cognitive biases
+
+Naturalistic observation
+
+Observational astronomy
+
+Observational learning
+
+Observational study
+
+Observations and Measurements
+
+Observatory
+
+Observer effect
+
+Uncertainty principle
+
+6. References

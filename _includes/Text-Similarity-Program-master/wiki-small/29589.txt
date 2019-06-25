@@ -1,0 +1,151 @@
+The single transferable vote (STV) is a voting system designed to achieve proportional representation through ranked voting in multi-seat constituencies (voting districts). Under STV, an elector has a single vote that is initially allocated to their most preferred candidate and, as the count proceeds and candidates are either elected or eliminated, is transferred to other candidates according to the voter's stated preferences, in proportion to any surplus or discarded votes. The exact method of reapportioning votes can vary (see Counting methods).
+
+The system provides approximately proportional representation, enables votes to be cast for individual candidates rather than for closed party lists, and minimizes "wasted" votes by transferring votes to other candidates that would otherwise be wasted on sure losers or sure winners.
+
+Hare–Clark is the name given to STV in lower house elections in two Australian states and territories, Tasmania and the Australian Capital Territory. The name is derived from Thomas Hare, who initially developed the system, and the Tasmanian Attorney General, Andrew Inglis Clark, who modified the counting method on introducing it to Tasmania. Hare–Clark has been subsequently changed to use rotating ballot papers (the Robson Rotation). The upper houses of New South Wales, Victoria, Western Australia and South Australia, as well as the upper house of the Parliament of Australia, use a variant of STV allowing "group voting".
+
+STV is the system of choice of groups such as the Proportional Representation Society of Australia (which calls it quota-preferential proportional representation), the Electoral Reform Society in the United Kingdom and FairVote in the USA (which calls it choice voting). Its critics contend that some voters find the mechanisms behind STV difficult to understand but this does not make it more difficult for voters to "rank the list of candidates in order of preference" on an STV ballot paper (see Voting).
+
+1. Adoption
+
+STV has had its widest adoption in the English-speaking world. , in government elections, STV is used for:
+
+In British Columbia, Canada, STV was recommended for provincial elections by the BC Citizens' Assembly on Electoral Reform (British Columbia). In a 2005 provincial referendum, it received 57.69% support and passed in 77 of 79 electoral districts. It was not adopted, however, because it fell short of the 60% threshold requirement the Liberal government had set for the referendum to be binding. In a second referendum, on 12 May 2009, STV was defeated 60.91% to 39.09%
+
+STV has also been used historically in several other jurisdictions. For a more complete list, see History and use of the Single Transferable Vote.
+
+2. Terminology
+
+When STV is used for single-winner elections, it is equivalent to the instant-runoff voting (alternative vote) method. To differentiate them, STV used for multi-winner elections is sometimes called proportional representation through the single transferable vote, or PR-STV. STV usually refers to the multi-winner version, as it does in this article. In Australia STV is known as the Hare–Clark Proportional method, while in the United States it is sometimes called choice voting, preferential voting or preference voting (preferential voting can also refer to a broader category, ranked voting systems).
+
+3. Voting
+
+In STV, each voter ranks the list of candidates in order of preference. In the most common ballot design, they place a '1' beside their most preferred candidate, a '2' beside their second most preferred, and so on. The completed ballot paper therefore contains an ordinal list of candidates. In the ballot paper in the image on the right, the preferences of the voter are as follows:
+
+John Citizen
+
+Mary Hill
+
+Jane Doe
+
+4. Counting the votes
+
+4.1. Setting the quota
+
+In an STV election, a candidate requires a minimum number of votes – the quota (or threshold) – to be elected. A number of different quotas can be used; the most common is the Droop quota, given by the formula:
+
+where the quota is an integer. When the quota is not an integer it is rounded down; that is, its fractional part is discarded. The Droop quota is an extension of requiring a 50% + 1 majority in single winner elections. For example, at most 3 people can have 25% + 1 in 3 winner elections, 9 can have 10% + 1 in 9 winner elections, and so on.
+
+4.2. Finding the winners
+
+An STV election proceeds according to the following steps:
+
+A candidate who has reached or exceeded the quota is declared elected.
+
+If a candidate has more votes than the quota, surplus votes are transferred to other candidates. Votes that would have gone to the winner go to the next preference.
+
+If no-one new meets the quota, the candidate with the fewest votes is eliminated and those votes are transferred.
+
+This process repeats until either a winner is found for every seat or there are as many seats as remaining candidates. There are variations, such as how to transfer surplus votes from winning candidates and whether to transfer votes to already elected candidates. When the number of votes to transfer from a losing candidate is too small to change the ordering of remaining candidates, more than one candidate can be eliminated simultaneously.
+
+Because votes cast for losing candidates and excess votes cast for winning candidates are transferred to voters' next choice candidates, STV is said to minimize wasted votes.
+
+4.3. Example
+
+Suppose a food election is conducted to determine what to serve at a party. There are 5 candidates, 3 of which will be chosen. The candidates are: Oranges, Pears, Chocolate, Strawberries, and Sweets. The 20 guests at the party have their ballots marked according to the table below. In this example, a second choice is needed by only some of the voters; however, with a different vote distribution additional preferences may be needed.
+
+First, the quota is calculated. Using the Droop quota, with 20 voters and 3 winners to be found, the number of votes required to be elected is:
+
+When ballots are counted the election proceeds as follows:
+
+Result: The winners are Chocolate, Oranges and Strawberries.
+
+5. Counting methods
+
+STV systems primarily differ in how they transfer votes and the size of the quota used for determining winners. For this reason some have suggested that STV can be considered a family of voting systems rather than a single system. The Droop quota is the most commonly used quota. This ensures majority rule (except in rare cases) while maintaining the condition that no more candidates can reach a quota than there are seats to be filled. As originally conceived STV used the Hare quota, but this is now generally considered to be technically inferior. New Zealand uses a quota similar to the Droop quota – see: Electoral system of New Zealand.
+
+The simplest methods of transferring surpluses involve an element of randomness; partially random systems are used in the Republic of Ireland (except Senate elections) and Malta, among other places. The Gregory method (also known as Newland-Britain or Senatorial rules) eliminates randomness by allowing for the transfer of fractions of votes. Gregory is in use in Northern Ireland, Republic of Ireland (Senate elections) and Australia. Both Gregory and earlier methods have the problem that in some circumstances they do not treat all votes equally. For this reason Meek's method, Warren's method and the Wright system have been invented. While simpler methods can usually be counted by hand, except in a very small election Meek and Warren require counting to be conducted by computer. The Wright system is a refinement of the Australian Senate system replacing the process of distribution and segmentation of preferences by a reiterative counting process where the count is reset and restarted on every exclusion. Meek is used in local body elections in New Zealand.
+
+6. History and current use
+
+The concept of transferable voting was first proposed by Thomas Wright Hill in 1821. The system remained unused in real elections until 1855, when Carl Andræ proposed a transferable vote system for elections in Denmark, and his system was used in 1856 to elect the Rigsraad and from 1866 it was also adapted for indirect elections to the second chamber, the Landsting, until 1915.
+
+Although he was not the first to propose transferable votes, the English barrister Thomas Hare is generally credited with the conception of STV, and he may have independently developed the idea in 1857. Hare's view was that STV should be a means of "making the exercise of the suffrage a step in the elevation of the individual character, whether it be found in the majority or the minority." In Hare's original system, he further proposed that electors should have the opportunity of discovering which candidate their vote had ultimately counted for, to improve their personal connection with voting. This is unnecessary in modern elections, as a voter can discover how their vote was distributed by viewing detailed election results. This is particularly easy to do using Meek's method, where only the final weightings of each candidate need to be published.
+
+The noted political essayist John Stuart Mill was a friend of Hare and an early proponent of STV, praising it at length in his essay Considerations on Representative Government, in which he writes, "Of all modes in which a national representation can possibly be constituted, this one affords the best security for the intellectual qualifications desirable in the representatives. At present... the only persons who can get elected are those who possess local influence, or make their way by lavish expenditure...." His contemporary, Walter Bagehot, also praised the Hare system for allowing everyone to elect an MP, even ideological minorities, but also argued that the Hare system would create more problems than it solved: "[the Hare system] is inconsistent with the extrinsic independence as well as the inherent moderation of a Parliament – two of the conditions we have seen, are essential to the bare possibility of parliamentary government."
+
+Advocacy of STV spread through the British Empire, leading it to be sometimes known as British Proportional Representation. In 1896, Andrew Inglis Clark was successful in persuading the Tasmanian House of Assembly to be the first parliament in the world elected by what became known as the Hare–Clark system, named after himself and Thomas Hare. H.G. Wells was a strong advocate, calling it "Proportional Representation."
+
+Meek also considered a variant on his system which would have allowed for equal preferences to be expressed.
+
+STV was also adopted in the first half of the 20th century to elect several city councils in the United States. More than twenty cities used STV, including Cleveland, Cincinnati and New York City. As of January 2010, it is used to elect the city council and school committee in Cambridge, Massachusetts and the park board in Minneapolis, Minnesota.
+
+7. Issues
+
+The degree of proportionality of STV election results depends directly on the district magnitude. While Ireland originally had a median district magnitude of five (ranging from three to nine) in 1923, successive governments lowered this. Systemically lowering the number of representatives from a given district directly benefits larger parties at the expense of smaller ones.
+
+In a nine-seat district the quota or threshold is 10% (plus one vote), 25% (plus one vote) in a three seater.
+
+A parliamentary committee in 2010 discussed the "increasing trend towards the creation of three-seat constituencies in Ireland" and recommended not less than four-seaters, except where the geographic size of such a constituency would be disproportionately large.
+
+A frequent concern is its complexity compared with plurality voting methods. Before the advent of computers, this complexity would have made ballot-counting more difficult than some other voting methods.
+
+Some opponents argue that larger, multi-seat districts would require more campaign funds to reach the voters. Proponents argue that STV can lower campaign costs because like-minded candidates can share some expenses. In addition, unlike in at-large plurality elections, candidates do not have to secure the support of at least 50% of voters, allowing candidates to focus campaign spending primarily on supportive voters.
+
+STV differs from all other proportional representation systems in that candidates of one party can be elected on transfers from voters for other parties. Hence, STV may reduce the role of political parties in the electoral process and corresponding partisanship in the resulting government. A district only needs to have four members to be proportional for the major parties, but may under-represent smaller parties, even though they may well be more likely to be elected under STV than under First Past The Post. Also, while small parties seen as reasonable second preferences by others (such as the Green Party in Ireland) more easily get elected, parties seen as more extreme by others (such as Sinn Féin in Ireland) find it harder to attract second preferences and therefore find it harder to win seats.
+
+As STV is a multi-member system, filling vacancies between elections can be problematic, and a variety of responses has been devised. The countback method is used in the Australian Capital Territory, Tasmania, Victoria, Malta, and Cambridge, Massachusetts. Casual vacancies are filled re-examining the ballot papers data from the previous election. Another option is to have a head official or remaining members of the elected body appoint a new member to fulfil the vacancy. A third alternative to fulfil a vacancy is to hold a single-winner by-election (effectively instant-runoff); this allows each party to choose a new candidate and all voters to participate. Another alternative is to have the candidates themselves create an ordered list of successors before leaving their seat. In the European Parliament, a departing Republic of Ireland or Northern Ireland member is replaced with the top eligible name from a replacement list submitted by the candidate at the time of the original election. This method was also used in the Northern Ireland Assembly, changed in 2009 to allow political parties to nominate new MLAs in the event of a vacancy. Independent MLAs may still draw up a list of potential replacements. For its 2009 European elections, Malta set a one-off policy to elect the candidate eliminated last for filling the prospective vacancy for the extra seat to arise from the Lisbon Treaty.
+
+If there are not enough candidates to represent one of the priorities the electorate vote for (such as a party), all of them may be elected in the early stages, with votes being transferred to candidates with other views. Putting up too many candidates might result in first-preference votes being spread too thinly among them, and consequently several potential winners with broad second-preference appeal may be eliminated before others are elected and their second-preference votes distributed. In practice, the majority of voters express preference for candidates from the same party in order, which minimises the impact of this potential effect of STV.
+
+The outcome of voting under STV is proportional within a single election to the collective preference of voters, assuming voters have ranked their real preferences and vote along strict party lines (assuming parties and no individual independents participate in the election). However, due to other voting mechanisms usually used in conjunction with STV, such as a district or constituency system, an election using STV may not guarantee proportionality across all districts put together.
+
+STV systems vary, both in ballot design and in whether or not voters are obliged to provide a full list of preferences. In jurisdictions such as the Republic of Ireland and Northern Ireland, voters may rank as many or as few candidates as they wish. Consequently voters sometimes, for example, rank only the candidates of a single party, or of their most preferred parties. A minority of voters, especially if they do not fully understand the system, may even "bullet vote", only expressing a first preference. Allowing voters to rank only as many candidates as they wish grants them greater freedom but can also lead to some voters ranking so few candidates that their vote eventually becomes "exhausted"–that is, at a certain point during the count it can no longer be transferred and therefore loses an opportunity to influence the result.
+
+STV provides proportionality by transferring votes to minimise waste, and therefore also minimises the number of unrepresented or disenfranchised voters.
+
+According to the Gibbard-Satterthwaite theorem tactical voting is possible in all non-dictatorial deterministic voting systems. A number of methods of tactical or strategic voting exist that can be used in STV elections. In general these methods are effective only in marginal districts and affect only the allocation of a single seat per district.
+
+Academic analysis of voting systems such as STV generally centers on the voting system criteria that they pass. No preference voting system satisfies all the criteria in Arrow's impossibility theorem: in particular, STV fails to achieve independence of irrelevant alternatives (like most other vote-based ordering systems) and monotonicity.
+
+8. See also
+
+9. References
+
+10. External links
+
+10.1. Information and summaries
+
+– from
+
+by Antony Green (Australian Broadcasting Corporation)
+
+– modification to ensure provide a majority result proportional to mandate
+
+10.2. Simulations and software
+
+Interactive Flash program that lets the user assign votes and see the results as per STV.
+
+— uses Excel scatter plots of voter and candidate positions to explain transferring votes.
+
+— proprietary software for computing the single transferable vote (source code available under a restrictive license)
+
+— open source software for computing the single transferable vote written in
+
+lists a dozen programs for computing the single transferable vote.
+
+10.3. Articles and publications
+
+. Paper by Jeffrey C. O'Neill, Voting matters.
+
+, also Electoral Studies 24:2 June 2005. Article by Chris Geller.
+
+, by John J. Bartholdi, III and James B. Orlin.
+
+10.4. Proponent groups
+
+(British Columbia)
+
+(USA, formerly the Center for Voting and Democracy)
+
+See also the Wikipedia article

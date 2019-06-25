@@ -1,0 +1,145 @@
+Manganese is a chemical element with symbol Mn and atomic number 25. It is not found as a free element in nature; it is often found in combination with iron, and in many minerals. Manganese is a metal with important industrial metal alloy uses, particularly in stainless steels.
+
+Historically, manganese is named for various black minerals (such as pyrolusite) from the same region of Magnesia in Greece which gave names to similar-sounding magnesium, Mg, and magnetite, an ore of the element iron, Fe. By the mid-18th century, Swedish chemist Carl Wilhelm Scheele had used pyrolusite to produce chlorine. Scheele and others were aware that pyrolusite (now known to be manganese dioxide) contained a new element, but they were not able to isolate it. Johan Gottlieb Gahn was the first to isolate an impure sample of manganese metal in 1774, by reducing the dioxide with carbon.
+
+Manganese phosphating is used as a treatment for rust and corrosion prevention on steel. Depending on their oxidation state, manganese ions have various colors and are used industrially as pigments. The permanganates of alkali and alkaline earth metals are powerful oxidizers. Manganese dioxide is used as the cathode (electron acceptor) material in zinc-carbon and alkaline batteries.
+
+In biology, manganese(II) ions function as cofactors for a large variety of enzymes with many functions. Manganese enzymes are particularly essential in detoxification of superoxide free radicals in organisms that must deal with elemental oxygen. Manganese also functions in the oxygen-evolving complex of photosynthetic plants. The element is a required trace mineral for all known living organisms. In larger amounts, and apparently with far greater activity by inhalation, it can cause a poisoning syndrome in mammals, with neurological damage which is sometimes irreversible.
+
+1. Characteristics
+
+1.1. Physical properties
+
+Manganese is a silvery-gray metal that resembles iron. It is hard and very brittle, difficult to fuse, but easy to oxidize. Manganese metal and its common ions are paramagnetic. Manganese tarnishes slowly in air and "rusts" like iron, in water containing dissolved oxygen.
+
+1.2. Isotopes
+
+Naturally occurring manganese is composed of one stable isotope, 55Mn. Eighteen radioisotopes have been characterized, with the most stable being 53Mn with a half-life of 3.7 million years, 54Mn with a half-life of 312.3 days, and 52Mn with a half-life of 5.591 days. All of the remaining radioactive isotopes have half-lives that are less than three hours and the majority of these have half-lives that are less than one minute. This element also has three meta states. Manganese is part of the iron group of elements, which are thought to be synthesized in large stars shortly before the supernova explosion. 53Mn decays to 53Cr with a half-life of 3.7 million years. Because of its relatively short half-life, 53Mn occurs only in tiny amounts due to the action of cosmic rays on iron in rocks. Manganese isotopic contents are typically combined with chromium isotopic contents and have found application in isotope geology and radiometric dating. Mn–Cr isotopic ratios reinforce the evidence from 26Al and 107Pd for the early history of the solar system. Variations in 53Cr/52Cr and Mn/Cr ratios from several meteorites indicate an initial 53Mn/55Mn ratio that suggests Mn–Cr isotopic composition must result from in situ decay of 53Mn in differentiated planetary bodies. Hence 53Mn provides additional evidence for nucleosynthetic processes immediately before coalescence of the solar system. The isotopes of manganese range in atomic weight from 46 u (46Mn) to 65 u (65Mn). The primary decay mode before the most abundant stable isotope, 55Mn, is electron capture and the primary mode after is beta decay.
+
+1.3. Chemical properties
+
+The most common oxidation states of manganese are +2, +3, +4, +6 and +7, though oxidation states from −3 to +7 are observed. Mn2+ often competes with Mg2+ in biological systems. Manganese compounds where manganese is in oxidation state +7, which are restricted to the unstable oxide Mn2O7 and compounds of the intensely purple permanganate anion MnO4−, are powerful oxidizing agents. Compounds with oxidation states +5 (blue) and +6 (green) are strong oxidizing agents and are vulnerable to disproportionation.
+
+The most stable oxidation state for manganese is +2, which has a pale pink color, and many manganese(II) compounds are known, such as manganese(II) sulfate (MnSO4) and manganese(II) chloride (MnCl2). This oxidation state is also seen in the mineral rhodochrosite (manganese(II) carbonate). The +2 oxidation of Mn results from removal of the two 4s electrons, leaving a "high spin" ion in which all five of the 3d orbitals contain a single electron. Absorption of visible light by this ion is accomplished only by a spin-forbidden transition in which one of the d electrons must pair with another, to give the atom a change in spin of two units. The unlikeliness of such a transition is seen in the uniformly pale and almost colorless nature of Mn(II) compounds relative to other oxidation states of manganese.
+
+The +3 oxidation state is known in compounds like manganese(III) acetate, but these are quite powerful oxidizing agents and also prone to disproportionation in solution to manganese(II) and manganese(IV). Solid compounds of manganese(III) are characterized by their preference for distorted octahedral coordination due to the Jahn-Teller effect and its strong purple-red color. The oxidation state 5+ can be obtained if manganese dioxide is dissolved in molten sodium nitrite. Manganate (VI) salts can also be produced by dissolving Mn compounds, such as manganese dioxide, in molten alkali while exposed to air. Permanganate (+7 oxidation state) compounds are purple, and can give glass a violet color. Potassium permanganate, sodium permanganate and barium permanganate are all potent oxidizers. Potassium permanganate, also called Condy's crystals, is a commonly used laboratory reagent because of its oxidizing properties and finds use as a topical medicine (for example, in the treatment of fish diseases). Solutions of potassium permanganate were among the first stains and fixatives to be used in the preparation of biological cells and tissues for electron microscopy.
+
+2. History
+
+The origin of the name manganese is complex. In ancient times, two black minerals from Magnesia in what is now modern Greece, were both called magnes from their place of origin, but were thought to differ in gender. The male magnes attracted iron, and was the iron ore we now know as lodestone or magnetite, and which probably gave us the term magnet. The female magnes ore did not attract iron, but was used to decolorize glass. This feminine magnes was later called magnesia, known now in modern times as pyrolusite or manganese dioxide. Neither this mineral nor manganese itself is magnetic. In the 16th century, manganese dioxide was called manganesum (note the two n's instead of one) by glassmakers, possibly as a corruption and concatenation of two words, since alchemists and glassmakers eventually had to differentiate a magnesia negra (the black ore) from magnesia alba (a white ore, also from Magnesia, also useful in glassmaking). Michele Mercati called magnesia negra manganesa, and finally the metal isolated from it became known as manganese (German: Mangan). The name magnesia eventually was then used to refer only to the white magnesia alba (magnesium oxide), which provided the name magnesium for that free element, when it was eventually isolated, much later.
+
+Several oxides of manganese, for example manganese dioxide, are abundant in nature, and owing to their color, these oxides have been used as pigments since the Stone Age. The cave paintings in Gargas contain manganese as pigments and these cave paintings are 30,000 to 24,000 years old.
+
+Manganese compounds were used by Egyptian and Roman glassmakers, to either remove color from glass or add color to it. The use as "glassmakers soap" continued through the Middle Ages until modern times and is evident in 14th-century glass from Venice.
+
+Because of the use in glassmaking, manganese dioxide was available to alchemists, the first chemists, and was used for experiments. Ignatius Gottfried Kaim (1770) and Johann Glauber (17th century) discovered that manganese dioxide could be converted to permanganate, a useful laboratory reagent. By the mid-18th century, the Swedish chemist Carl Wilhelm Scheele used manganese dioxide to produce chlorine. First, hydrochloric acid, or a mixture of dilute sulfuric acid and sodium chloride was made to react with manganese dioxide, later hydrochloric acid from the Leblanc process was used and the manganese dioxide was recycled by the Weldon process. The production of chlorine and hypochlorite containing bleaching agents was a large consumer of manganese ores.
+
+Scheele and other chemists were aware that manganese dioxide contained a new element, but they were not able to isolate it. Johan Gottlieb Gahn was the first to isolate an impure sample of manganese metal in 1774, by reducing the dioxide with carbon.
+
+The manganese content of some iron ores used in Greece led to the speculations that the steel produced from that ore contains inadvertent amounts of manganese, making the Spartan steel exceptionally hard. Around the beginning of the 19th century, manganese was used in steelmaking and several patents were granted. In 1816, it was noted that adding manganese to iron made it harder, without making it any more brittle. In 1837, British academic James Couper noted an association between heavy exposures to manganese in mines with a form of Parkinson's disease. In 1912, manganese phosphating electrochemical conversion coatings for protecting firearms against rust and corrosion were patented in the United States, and have seen widespread use ever since.
+
+The invention of the Leclanché cell in 1866 and the subsequent improvement of the batteries containing manganese dioxide as cathodic depolarizer increased the demand of manganese dioxide. Until the introduction of the nickel-cadmium battery and lithium-containing batteries, most batteries contained manganese. The zinc-carbon battery and the alkaline battery normally use industrially produced manganese dioxide, because natural occurring manganese dioxide contains impurities. In the 20th century, manganese dioxide has seen wide commercial use as the chief cathodic material for commercial disposable dry cells and dry batteries of both the standard (zinc-carbon) and alkaline types.
+
+3. Occurrence and production
+
+Manganese makes up about 1000 ppm (0.1%) of the Earth's crust, making it the 12th most abundant element there. Soil contains 7–9000 ppm of manganese with an average of 440 ppm. Seawater has only 10 ppm manganese and the atmosphere contains 0.01 µg/m3. Manganese occurs principally as pyrolusite (MnO2), braunite, (Mn2+Mn3+6)(SiO12), psilomelane (Ba,H2O)2Mn5O10, and to a lesser extent as rhodochrosite (MnCO3).
+
+The most important manganese ore is pyrolusite (MnO2). Other economically important manganese ores usually show a close spatial relation to the iron ores. Land-based resources are large but irregularly distributed. About 80% of the known world manganese resources are found in South Africa; other important manganese deposits are in Ukraine, Australia, India, China, Gabon and Brazil. In 1978, 500 billion tons of manganese nodules were estimated to exist on the ocean floor. Attempts to find economically viable methods of harvesting manganese nodules were abandoned in the 1970s.
+
+In South Africa most identified deposits are located near Hotazel in the Northern Cape Province with an estimated 15 billion tons in 2011. In 2011 South Africa was the world's largest producer of manganese producing 3.4 million tons.
+
+Manganese is mined in South Africa, Australia, China, Brazil, Gabon, Ukraine, India and Ghana and Kazakhstan. US Import Sources (1998–2001): Manganese ore: Gabon, 70%; South Africa, 10%; Australia, 9%; Mexico, 5%; and other, 6%. Ferromanganese: South Africa, 47%; France, 22%; Mexico, 8%; Australia, 8%; and other, 15%. Manganese contained in all manganese imports: South Africa, 31%; Gabon, 21%; Australia, 13%; Mexico, 8%; and other, 27%.
+
+For the production of ferromanganese, the manganese ore is mixed with iron ore and carbon, and then reduced either in a blast furnace or in an electric arc furnace. The resulting ferromanganese has a manganese content of 30 to 80%. Pure manganese used for the production of iron-free alloys is produced by leaching manganese ore with sulfuric acid and a subsequent electrowinning process.
+
+A more progressive extraction process involves directly reducing manganese ore in a heap leach. This is done by percolating natural gas through the bottom of the heap; the natural gas provides the heat (needs to be at least 850 °C) and the reducing agent (carbon monoxide). This reduces all of the manganese ore to manganese oxide (MnO), which is a leachable form. The ore then travels through a grinding circuit to reduce the particle size of the ore to between 150–250 μm, this increases the surface area to aid in the leaching process. The ore is then added to a leach tank, which contains sulfuric acid and ferrous iron (Fe2+) in a 1.6:1 ratio. The iron reacts with the manganese dioxide to form iron hydroxide and elemental manganese. This process yields approximately 92% recovery of the manganese. For further purification, the manganese can then be sent to an electrowinning facility.
+
+In 1972 the CIA's Project Azorian, through billionaire Howard Hughes, commissioned the ship Hughes Glomar Explorer with the cover story of harvesting manganese nodules from the sea floor. That triggered a rush of activity to attempt to collect manganese nodules, which was not actually practical. The real mission of Hughes Glomar Explorer was to raise a sunken Soviet submarine, the K-129, with the goal of retrieving Soviet code books.
+
+4. Applications
+
+Manganese has no satisfactory substitute in its major applications, which are related to metallurgical alloy use. In minor applications, (e.g., manganese phosphating), zinc and sometimes vanadium are viable substitutes.
+
+4.1. Steel
+
+Manganese is essential to iron and steel production by virtue of its sulfur-fixing, deoxidizing, and alloying properties. Steelmaking, including its ironmaking component, has accounted for most manganese demand, presently in the range of 85% to 90% of the total demand. Among a variety of other uses, manganese is a key component of low-cost stainless steel formulations.
+
+Small amounts of manganese improve the workability of steel at high temperatures, because it forms a high-melting sulfide and therefore prevents the formation of a liquid iron sulfide at the grain boundaries. If the manganese content reaches 4%, the embrittlement of the steel becomes a dominant feature. The embrittlement decreases at higher manganese concentrations and reaches an acceptable level at 8%. Steel containing 8 to 15% of manganese can have a high tensile strength of up to 863 MPa. Steel with 12% manganese was used for British steel helmets. This steel composition was discovered in 1882 by Robert Hadfield and is still known as Hadfield steel.
+
+4.2. Aluminium alloys
+
+The second large application for manganese is as an alloying agent for aluminium. Aluminium with a manganese content of roughly 1.5% has an increased resistance against corrosion due to the formation of grains absorbing impurities which would lead to galvanic corrosion. The corrosion-resistant aluminium alloys 3004 and 3104 with a manganese content of 0.8 to 1.5% are the alloys used for most of the beverage cans. Before year 2000, more than 1.6 million tonnes have been used of those alloys; with a content of 1% manganese, this amount would need 16,000 tonnes of manganese.
+
+4.3. Other uses
+
+Methylcyclopentadienyl manganese tricarbonyl is used as an additive in unleaded gasoline to boost octane rating and reduce engine knocking. The manganese in this unusual organometallic compound is in the +1 oxidation state.
+
+Manganese(IV) oxide (manganese dioxide, MnO2) is used as a reagent in organic chemistry for the oxidation of benzylic alcohols (i.e. adjacent to an aromatic ring). Manganese dioxide has been used since antiquity to oxidatively neutralize the greenish tinge in glass caused by trace amounts of iron contamination. MnO2 is also used in the manufacture of oxygen and chlorine, and in drying black paints. In some preparations, it is a brown pigment that can be used to make paint and is a constituent of natural umber.
+
+Manganese(IV) oxide was used in the original type of dry cell battery as an electron acceptor from zinc, and is the blackish material found when opening carbon–zinc type flashlight cells. The manganese dioxide is reduced to the manganese oxide-hydroxide MnO(OH) during discharging, preventing the formation of hydrogen at the anode of the battery.
+
+The same material also functions in newer alkaline batteries (usually battery cells), which use the same basic reaction, but a different electrolyte mixture. In 2002, more than 230,000 tons of manganese dioxide was used for this purpose.
+
+The metal is very occasionally used in coins; until 2000, the only United States coin to use manganese was the "wartime" nickel from 1942 to 1945. An alloy of 75% copper and 25% nickel was traditionally used for the production of nickel coins. However, because of shortage of nickel metal during the war, it was substituted by more available silver and manganese, thus resulting in an alloy of 56% copper, 35% silver and 9% manganese. Since 2000, dollar coins, for example the Sacagawea dollar and the Presidential $1 coins, are made from a brass containing 7% of manganese with a pure copper core. In both cases of nickel and dollar, the use of manganese in the coin was to duplicate the electromagnetic properties of a previous identically sized and valued coin, for vending purposes. In the case of the later U.S. dollar coins, the manganese alloy was an attempt to duplicate properties of the copper/nickel alloy used in the previous Susan B. Anthony dollar.
+
+Manganese compounds have been used as pigments and for the coloring of ceramics and glass. The brown color of ceramic is sometimes based on manganese compounds. In the glass industry, manganese compounds are used for two effects. Manganese(III) reacts with iron(II) to induce a strong green color in glass by forming less-colored iron(III) and slightly pink manganese(II), compensating for the residual color of the iron(III). Larger amounts of manganese are used to produce pink colored glass.
+
+5. Biological role
+
+Manganese is an important metal for human health, being absolutely necessary for development, metabolism, and the antioxidant system. Nevertheless, excessive exposure or intake may lead to a condition known as manganism, a neurodegenerative disorder that causes dopaminergic neuronal death and parkinsonian- like symptoms. The classes of enzymes that have manganese cofactors are very broad, and include oxidoreductases, transferases, hydrolases, lyases, isomerases, ligases, lectins, and integrins. The reverse transcriptases of many retroviruses (though not lentiviruses such as HIV) contain manganese. The best-known manganese-containing polypeptides may be arginase, the diphtheria toxin, and Mn-containing superoxide dismutase (Mn-SOD).
+
+Mn-SOD is the type of SOD present in eukaryotic mitochondria, and also in most bacteria (this fact is in keeping with the bacterial-origin theory of mitochondria). The Mn-SOD enzyme is probably one of the most ancient, for nearly all organisms living in the presence of oxygen use it to deal with the toxic effects of superoxide (), formed from the 1-electron reduction of dioxygen. Exceptions include a few kinds of bacteria, such as Lactobacillus plantarum and related lactobacilli, which use a different nonenzymatic mechanism, involving manganese (Mn2+) ions complexed with polyphosphate directly for this task, indicating how this function possibly evolved in aerobic life.
+
+The manganese dietary reference intake for a 44 y.o. human male is 2.3 mg per day from food, with 11 mg estimated as the tolerable upper limit for daily intake to avoid toxicity. Estimates for females and children are generally less. The essential minimum intake is unknown since manganese deficiency is so rare. The human body contains about 12 mg of manganese, which is stored mainly in the bones. The remaining manganese in soft tissue is mostly concentrated in the liver and kidneys. In the human brain, the manganese is bound to manganese metalloproteins, most notably glutamine synthetase in astrocytes.
+
+Manganese is also important in photosynthetic oxygen evolution in chloroplasts in plants. The oxygen-evolving complex (OEC) is a part of photosystem II contained in the thylakoid membranes of chloroplasts; it is responsible for the terminal photooxidation of water during the light reactions of photosynthesis, and has a metalloenzyme core containing four atoms of manganese. For this reason, most broad-spectrum plant fertilizers contain manganese.
+
+6. Precautions
+
+Manganese compounds are less toxic than those of other widespread metals, such as nickel and copper. However, exposure to manganese dusts and fumes should not exceed the ceiling value of 5 mg/m3 even for short periods because of its toxicity level. Manganese poisoning has been linked to impaired motor skills and cognitive disorders.
+
+The permanganate exhibits a higher toxicity than the manganese(II) compounds. The fatal dose is about 10 g, and several fatal intoxications have occurred. The strong oxidative effect leads to necrosis of the mucous membrane. For example, the esophagus is affected if the permanganate is swallowed. Only a limited amount is absorbed by the intestines, but this small amount shows severe effects on the kidneys and on the liver.
+
+In 2005, a study suggested a possible link between manganese inhalation and central nervous system toxicity in rats.
+
+Manganese exposure in United States is regulated by Occupational Safety and Health Administration.
+
+Generally, exposure to ambient Mn air concentrations in excess of 5 μg Mn/m3 can lead to Mn-induced symptoms. Increased ferroportin protein expression in human embryonic kidney (HEK293) cells is associated with decreased intracellular Mn concentration and attenuated cytotoxicity, characterized by the reversal of Mn-reduced glutamate uptake and diminished lactate dehydrogenase leakage.
+
+7. Environmental health concerns
+
+7.1. Manganese in drinking water
+
+Waterborne manganese has a greater bioavailability than dietary manganese. According to results from a 2010 study, higher levels of exposure to manganese in drinking water are associated with increased intellectual impairment and reduced intelligence quotients in school-age children. It is hypothesized that long-term exposure to the naturally occurring manganese in shower water puts up to 8.7 million Americans at risk.
+
+7.2. Manganese in gasoline
+
+Methylcyclopentadienyl manganese tricarbonyl (MMT) is a gasoline additive used to replace lead compounds for unleaded gasolines, to improve the octane number in low octane number petrol distillates. It functions as an antiknock agent by the action of the carbonyl groups. Fuels containing manganese tend to form manganese carbides, which damage exhaust valves. The need to use lead or manganese compounds is merely historic, as the availability of reformation processes which create high-octane rating fuels increased. The use of such fuels directly or in mixture with non-reformed distillates is universal in developed countries (EU, Japan, etc.). In USA the imperative to provide the lowest possible price per volume on motor fuels (low fuel taxation rate) and lax legislation of fuel content (before 2000) caused refineries to use MMT. Compared to 1953, levels of manganese in air have dropped. Many racing competitions specifically ban manganese compounds in racing fuel (cart, minibike). MMT contains 24.4–25.2% manganese. There is strong correlation between elevated atmospheric manganese concentrations and automobile traffic density.
+
+8. Role in neurological disorders
+
+8.1. Manganism
+
+Manganese overexposure is most frequently associated with manganism, a rare neurological disorder associated with excessive manganese ingestion or inhalation. Historically, persons employed in the production or processing of manganese alloys have been at risk for developing manganism; however, current health and safety regulations protect workers in developed nations. The disorder was first described in 1837 by British academic John Couper, who studied two patients who were manganese grinders.
+
+Manganism is a biphasic disorder. In its early stages, an intoxicated person may experience depression, mood swings, compulsive behaviors, and psychosis. Early neurological symptoms give way to late-stage manganism, which resembles Parkinson's disease. Symptoms include weakness, monotone and slowed speech, an expressionless face, tremor, forward-leaning gait, inability to walk backwards without falling, rigidity, and general problems with dexterity, gait and balance. Unlike Parkinson's disease, manganism is not associated with loss of smell and patients are typically unresponsive to treatment with L-DOPA. Symptoms of late-stage manganism become more severe over time even if the source of exposure is removed and brain manganese levels return to normal.
+
+8.2. Childhood developmental disorders
+
+Several recent studies attempt to examine the effects of chronic low-dose manganese overexposure on development in children. The earliest study of this kind was conducted in the Chinese province of Shanxi. Drinking water there had been contaminated through improper sewage irrigation and contained 240–350 µg Mn/L. Although WMn concentrations at or below 300 µg Mn/L are considered safe by the US EPA and 400 µg Mn/L are considered safe by the World Health Organization, the 92 children sampled (between 11 and 13 years of age) from this province displayed lower performance on tests of manual dexterity and rapidity, short-term memory, and visual identification when compared to children from an uncontaminated area. More recently, a study of 10-year-old children in Bangladesh showed a relationship between WMn concentration in well water and diminished IQ scores. A third study conducted in Quebec examined school children between the ages of 6 and 15 living in homes that received water from a well containing 610 µg Mn/L; controls lived in homes that received water from a 160 µg Mn/L well. Children in the experimental group showed increased hyperactive and oppositional behaviors.
+
+8.3. Neurodegenerative diseases
+
+A protein called DMT1 is the major transporter involved in manganese absorption from the intestine, and may be the major transporter of manganese across the blood–brain barrier. DMT1 also transports inhaled manganese across the nasal epithelium. The putative mechanism of action is that manganese overexposure and/or dysregulation lead to oxidative stress, mitochondrial dysfunction, glutamate-mediated excitoxicity, and aggregation of proteins.
+
+9. See also
+
+Parkerizing
+
+10. References
+
+11. External links
+
+at The Periodic Table of Videos (University of Nottingham)
+
+by A Sánchez Jiménez and others. Institute of Occupational Medicine Research Report TM/10/04. (This study compares the concentrations of inhalable and respirable Manganese collected with three airborne samples: the CIS (Conical Inhalable Sampler), IOM ( the Institute of Occupational Medicine) and the Higgins Dewell cyclone.)

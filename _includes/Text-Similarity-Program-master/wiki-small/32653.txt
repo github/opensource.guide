@@ -1,0 +1,245 @@
+A vaccine is a biological preparation that improves immunity to a particular disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins or one of its surface proteins. The agent stimulates the body's immune system to recognize the agent as foreign, destroy it, and keep a record of it, so that the immune system can more easily recognize and destroy any of these microorganisms that it later encounters.
+
+Vaccines can be prophylactic (example: to prevent or ameliorate the effects of a future infection by any natural or "wild" pathogen), or therapeutic (e.g., vaccines against cancer are also being investigated; see cancer vaccine).
+
+The terms vaccine and vaccination are derived from Variolae vaccinae (smallpox of the cow), the term devised by Edward Jenner to denote cowpox. He used it in 1798 in the long title of his Inquiry into the...Variolae vaccinae...known...[as]...the Cow Pox, in which he described the protective effect of cowpox against smallpox. In 1881, to honour Jenner, Louis Pasteur proposed that the terms should be extended to cover the new protective inoculations then being developed.
+
+1. Effectiveness
+
+Vaccines have historically been the most effective means to fight and eradicate infectious diseases. Limitations to their effectiveness, nevertheless, exist. Sometimes, protection fails because the host's immune system simply does not respond adequately or at all. Lack of response commonly results from clinical factors such as diabetes, steroid use, HIV infection or age. However it also might fail for genetic reasons if the host's immune system includes no strains of B cells that can generate antibodies suited to reacting effectively and binding to the antigens associated with the pathogen.
+
+Even if the host does develop antibodies, protection might not be adequate; immunity might develop too slowly to be effective in time, the antibodies might not disable the pathogen completely, or there might be multiple strains of the pathogen, not all of which are equally susceptible to the immune reaction. However, even a partial, late, or weak immunity, such as a one resulting from cross-immunity to a strain other than the target strain, may mitigate an infection, resulting in a lower mortality rate, lower morbidity and faster recovery.
+
+Adjuvants commonly are used to boost immune response, particularly for older people (50–75 years and up), whose immune response to a simple vaccine may have weakened. The efficacy or performance of the vaccine is dependent on a number of factors:
+
+the disease itself (for some diseases vaccination performs better than for others)
+
+the strain of vaccine (some vaccines are specific to, or at least most effective against, particular strains of the disease)
+
+whether the vaccination schedule has been properly observed.
+
+idiosyncratic response to vaccination; some individuals are "non-responders" to certain vaccines, meaning that they do not generate antibodies even after being vaccinated correctly.
+
+assorted factors such as ethnicity, age, or genetic predisposition. If a vaccinated individual does develop the disease vaccinated against, the disease is likely to be less virulent than in unvaccinated victims.
+
+The following are important considerations in the effectiveness of a vaccination program:
+
+careful modelling to anticipate the impact that an immunization campaign will have on the epidemiology of the disease in the medium to long term
+
+ongoing surveillance for the relevant disease following introduction of a new vaccine
+
+maintenance of high immunization rates, even when a disease has become rare. In 1958, there were 763,094 cases of measles in the United States; 552 deaths resulted. After the introduction of new vaccines, the number of cases dropped to fewer than 150 per year (median of 56). In early 2008, there were 64 suspected cases of measles. Fifty-four of those infections were associated with importation from another country, although only 13% were actually acquired outside the United States; 63 of the 64 individuals either had never been vaccinated against measles or were uncertain whether they had been vaccinated.
+
+2. Adverse effects
+
+Vaccination given during childhood are generally safe. Adverse effects if any are generally mild. The rate of side effects depends on the vaccine in question. Some potential side effects include: fever, pain around the injection site, and muscle aches. Severe side effects are extremely rare.
+
+3. Types
+
+Vaccines are dead or inactivated organisms or purified products derived from them.
+
+There are several types of vaccines in use. These represent different strategies used to try to reduce risk of illness, while retaining the ability to induce a beneficial immune response.
+
+3.1. Inactivated
+
+Some vaccines contain inactivated, but previously virulent, micro-organisms that have been destroyed with chemicals, heat, radioactivity, or antibiotics. Examples are influenza, cholera, bubonic plague, polio, hepatitis A, and rabies.
+
+3.2. Attenuated
+
+Some vaccines contain live, attenuated microorganisms. Many of these are active viruses that have been cultivated under conditions that disable their virulent properties, or that use closely related but less dangerous organisms to produce a broad immune response. Although most attenuated vaccines are viral, some are bacterial in nature. Examples include the viral diseases yellow fever, measles, rubella, and mumps, and the bacterial disease typhoid. The live Mycobacterium tuberculosis vaccine developed by Calmette and Guérin is not made of a contagious strain, but contains a virulently modified strain called "BCG" used to elicit an immune response to the vaccine. The live attenuated vaccine-containing strain Yersinia pestis EV is used for plague immunization. Attenuated vaccines have some advantages and disadvantages. They typically provoke more durable immunological responses and are the preferred type for healthy adults. But they may not be safe for use in immunocompromised individuals, and may rarely mutate to a virulent form and cause disease.
+
+3.3. Toxoid
+
+Toxoid vaccines are made from inactivated toxic compounds that cause illness rather than the micro-organism. Examples of toxoid-based vaccines include tetanus and diphtheria. Toxoid vaccines are known for their efficacy. Not all toxoids are for micro-organisms; for example, Crotalus atrox toxoid is used to vaccinate dogs against rattlesnake bites.
+
+3.4. Subunit
+
+Protein subunit – rather than introducing an inactivated or attenuated micro-organism to an immune system (which would constitute a "whole-agent" vaccine), a fragment of it can create an immune response. Examples include the subunit vaccine against Hepatitis B virus that is composed of only the surface proteins of the virus (previously extracted from the blood serum of chronically infected patients, but now produced by recombination of the viral genes into yeast), the virus-like particle (VLP) vaccine against human papillomavirus (HPV) that is composed of the viral major capsid protein, and the hemagglutinin and neuraminidase subunits of the influenza virus. Subunit vaccine is being used for plague immunization.
+
+3.5. Conjugate
+
+Conjugate – certain bacteria have polysaccharide outer coats that are poorly immunogenic. By linking these outer coats to proteins (e.g., toxins), the immune system can be led to recognize the polysaccharide as if it were a protein antigen. This approach is used in the Haemophilus influenzae type B vaccine.
+
+3.6. Experimental
+
+A number of innovative vaccines are also in development and in use:
+
+Dendritic cell vaccines combine dendritic cells with antigens in order to present the antigens to the body's white blood cells, thus stimulating an immune reaction. These vaccines have shown some positive preliminary results for treating brain tumors.
+
+Recombinant Vector – by combining the physiology of one micro-organism and the DNA of the other, immunity can be created against diseases that have complex infection processes
+
+DNA vaccination – in recent years a new type of vaccine called DNA vaccination, created from an infectious agent's DNA, has been developed. It works by insertion (and expression, enhanced by the use of electroporation, triggering immune system recognition) of viral or bacterial DNA into human or animal cells. Some cells of the immune system that recognize the proteins expressed will mount an attack against these proteins and cells expressing them. Because these cells live for a very long time, if the pathogen that normally expresses these proteins is encountered at a later time, they will be attacked instantly by the immune system. One advantage of DNA vaccines is that they are very easy to produce and store. As of 2006, DNA vaccination is still experimental.
+
+T-cell receptor peptide vaccines are under development for several diseases using models of Valley Fever, stomatitis, and atopic dermatitis. These peptides have been shown to modulate cytokine production and improve cell mediated immunity.
+
+Targeting of identified bacterial proteins that are involved in complement inhibition would neutralize the key bacterial virulence mechanism. While most vaccines are created using inactivated or attenuated compounds from micro-organisms, synthetic vaccines are composed mainly or wholly of synthetic peptides, carbohydrates, or antigens.
+
+3.7. Valence
+
+Vaccines may be monovalent (also called univalent) or multivalent (also called polyvalent). A monovalent vaccine is designed to immunize against a single antigen or single microorganism. A multivalent or polyvalent vaccine is designed to immunize against two or more strains of the same microorganism, or against two or more microorganisms. The valency of a multivalent vaccine may be denoted with a Greek or Latin prefix (e.g., tetravalent or quadrivalent). In certain cases a monovalent vaccine may be preferable for rapidly developing a strong immune response.
+
+3.8. Heterotypic
+
+Also known as Heterologous or "Jennerian" vaccines these are vaccines that are pathogens of other animals that either do not cause disease or cause mild disease in the organism being treated. The classic example is Jenner's use of cowpox to protect against smallpox. A current example is the use of BCG vaccine made from Mycobacterium bovis to protect against human tuberculosis.
+
+4. Developing immunity
+
+The immune system recognizes vaccine agents as foreign, destroys them, and "remembers" them. When the virulent version of an agent is encountered, the body recognizes the protein coat on the virus, and thus is prepared to respond, by (1) neutralizing the target agent before it can enter cells, and (2) recognizing and destroying infected cells before that agent can multiply to vast numbers.
+
+When two or more vaccines are mixed together in the same formulation, the two vaccines can interfere. This most frequently occurs with live attenuated vaccines, where one of the vaccine components is more robust than the others and suppresses the growth and immune response to the other components. This phenomenon was first noted in the trivalent Sabin polio vaccine, where the amount of serotype 2 virus in the vaccine had to be reduced to stop it from interfering with the "take" of the serotype 1 and 3 viruses in the vaccine. This phenomenon has also been found to be a problem with the dengue vaccines currently being researched, where the DEN-3 serotype was found to predominate and suppress the response to DEN-1, −2 and −4 serotypes.
+
+Vaccines have contributed to the eradication of smallpox, one of the most contagious and deadly diseases known to man. Other diseases such as rubella, polio, measles, mumps, chickenpox, and typhoid are nowhere near as common as they were a hundred years ago. As long as the vast majority of people are vaccinated, it is much more difficult for an outbreak of disease to occur, let alone spread. This effect is called herd immunity. Polio, which is transmitted only between humans, is targeted by an extensive eradication campaign that has seen endemic polio restricted to only parts of three countries (Afghanistan, Nigeria, and Pakistan). The difficulty of reaching all children as well as cultural misunderstandings, however, have caused the anticipated eradication date to be missed several times.
+
+5. Schedule
+
+In order to provide best protection, children are recommended to receive vaccinations as soon as their immune systems are sufficiently developed to respond to particular vaccines, with additional "booster" shots often required to achieve "full immunity". This has led to the development of complex vaccination schedules. In the United States, the Advisory Committee on Immunization Practices, which recommends schedule additions for the Centers for Disease Control and Prevention, recommends routine vaccination of children against: hepatitis A, hepatitis B, polio, mumps, measles, rubella, diphtheria, pertussis, tetanus, HiB, chickenpox, rotavirus, influenza, meningococcal disease and pneumonia. The large number of vaccines and boosters recommended (up to 24 injections by age two) has led to problems with achieving full compliance. In order to combat declining compliance rates, various notification systems have been instituted and a number of combination injections are now marketed (e.g., Pneumococcal conjugate vaccine and MMRV vaccine), which provide protection against multiple diseases.
+
+Besides recommendations for infant vaccinations and boosters, many specific vaccines are recommended at other ages or for repeated injections throughout life—most commonly for measles, tetanus, influenza, and pneumonia. Pregnant women are often screened for continued resistance to rubella. The human papillomavirus vaccine is recommended in the U.S. (as of 2011) and UK (as of 2009). Vaccine recommendations for the elderly concentrate on pneumonia and influenza, which are more deadly to that group. In 2006, a vaccine was introduced against shingles, a disease caused by the chickenpox virus, which usually affects the elderly.
+
+6. History
+
+Prior to the introduction of vaccination with material from cases of cowpox (heterotypic immunisation), smallpox could be prevented by deliberate inoculation of smallpox virus, later referred to as variolation to distinguish it from smallpox vaccination. This information was brought to the West in 1721 by Lady Mary Wortley Montagu, who showed it to Hans Sloane, the (British) King's physician.
+
+Sometime during the late 1760s whilst serving his apprenticeship as a surgeon/apothecary Edward Jenner learned of the story, common in rural areas, that dairy workers would never have the often-fatal or disfiguring disease smallpox, because they had already had cowpox, which has a very mild effect in humans. In 1796, Jenner took pus from the hand of a milkmaid with cowpox, scratched it into the arm of an 8-year-old boy, and six weeks later inoculated (variolated) the boy with smallpox, afterwards observing that he did not catch smallpox. Jenner extended his studies and in 1798 reported that his vaccine was safe in children and adults and could be transferred from arm-to-arm reducing reliance on uncertain supplies from infected cows. Since vaccination with cowpox was much safer than smallpox inoculation, the latter, though still widely practised in England, was banned in 1840. The second generation of vaccines was introduced in the 1880s by Louis Pasteur who developed vaccines for chicken cholera and anthrax, and from the late nineteenth century vaccines were considered a matter of national prestige, and compulsory vaccination laws were passed.
+
+The twentieth century saw the introduction of several successful vaccines, including those against diphtheria, measles, mumps, and rubella. Major achievements included the development of the polio vaccine in the 1950s and the eradication of smallpox during the 1960s and 1970s. Maurice Hilleman was the most prolific of the developers of the vaccines in the twentieth century. As vaccines became more common, many people began taking them for granted. However, vaccines remain elusive for many important diseases, including herpes simplex, malaria, and HIV.
+
+6.1. Landmarks in history of vaccines
+
+7. Society and culture
+
+7.1. Opposition to vaccination
+
+Opposition to vaccination, from a wide array of vaccine critics, has existed since the earliest vaccination campaigns. Although the benefits of preventing suffering and death from serious infectious diseases greatly outweigh the risks of rare adverse effects following immunization, disputes have arisen over the morality, ethics, effectiveness, and safety of vaccination. Some vaccination critics say that vaccines are ineffective against disease or that vaccine safety studies are inadequate. Some religious groups do not allow vaccination, and some political groups oppose mandatory vaccination on the grounds of individual liberty. In response, concern has been raised that spreading unfounded information about the medical risks of vaccines increases rates of life-threatening infections, not only in the children whose parents refused vaccinations, but also in those who cannot be vaccinated due to age or immunodeficiency, who could contract infections from unvaccinated carriers (see herd immunity). Some parents believe vaccinations cause autism, although the scientific consensus has rejected this idea. In 2011, Andrew Wakefield, a leading proponent of one of the main controversies regarding a purported link between autism and vaccines, was found to have been financially motivated to falsify research data and was subsequently stripped of his medical license.
+
+7.2. Economics of development
+
+One challenge in vaccine development is economic: Many of the diseases most demanding a vaccine, including HIV, malaria and tuberculosis, exist principally in poor countries. Pharmaceutical firms and biotechnology companies have little incentive to develop vaccines for these diseases, because there is little revenue potential. Even in more affluent countries, financial returns are usually minimal and the financial and other risks are great.
+
+Most vaccine development to date has relied on "push" funding by government, universities and non-profit organizations. Many vaccines have been highly cost effective and beneficial for public health. The number of vaccines actually administered has risen dramatically in recent decades. This increase, particularly in the number of different vaccines administered to children before entry into schools may be due to government mandates and support, rather than economic incentive.
+
+7.3. Patents
+
+The filing of patents on vaccine development processes can also be viewed as an obstacle to the development of new vaccines. Because of the weak protection offered through a patent on the final product, the protection of the innovation regarding vaccines is often made through the patent of processes used on the development of new vaccines as well as the protection of secrecy.
+
+8. Production
+
+Vaccine production has several stages. First, the antigen itself is generated. Viruses are grown either on primary cells such as chicken eggs (e.g., for influenza) or on continuous cell lines such as cultured human cells (e.g., for hepatitis A). Bacteria are grown in bioreactors (e.g., Haemophilus influenzae type b). Likewise, a recombinant protein derived from the viruses or bacteria can be generated in yeast, bacteria, or cell cultures. After the antigen is generated, it is isolated from the cells used to generate it. A virus may need to be inactivated, possibly with no further purification required. Recombinant proteins need many operations involving ultrafiltration and column chromatography. Finally, the vaccine is formulated by adding adjuvant, stabilizers, and preservatives as needed. The adjuvant enhances the immune response of the antigen, stabilizers increase the storage life, and preservatives allow the use of multidose vials. Combination vaccines are harder to develop and produce, because of potential incompatibilities and interactions among the antigens and other ingredients involved.
+
+Vaccine production techniques are evolving. Cultured mammalian cells are expected to become increasingly important, compared to conventional options such as chicken eggs, due to greater productivity and low incidence of problems with contamination. Recombination technology that produces genetically detoxified vaccine is expected to grow in popularity for the production of bacterial vaccines that use toxoids. Combination vaccines are expected to reduce the quantities of antigens they contain, and thereby decrease undesirable interactions, by using pathogen-associated molecular patterns.
+
+In 2010, India produced 60 percent of the world's vaccine worth about $900 million(€670 million).
+
+8.1. Excipients
+
+Beside the active vaccine itself, the following excipients are commonly present in vaccine preparations:
+
+Aluminum salts or gels are added as adjuvants. Adjuvants are added to promote an earlier, more potent response, and more persistent immune response to the vaccine; they allow for a lower vaccine dosage.
+
+Antibiotics are added to some vaccines to prevent the growth of bacteria during production and storage of the vaccine.
+
+Egg protein is present in influenza and yellow fever vaccines as they are prepared using chicken eggs. Other proteins may be present.
+
+Formaldehyde is used to inactivate bacterial products for toxoid vaccines. Formaldehyde is also used to inactivate unwanted viruses and kill bacteria that might contaminate the vaccine during production.
+
+Monosodium glutamate (MSG) and 2-phenoxyethanol are used as stabilizers in a few vaccines to help the vaccine remain unchanged when the vaccine is exposed to heat, light, acidity, or humidity.
+
+Thimerosal is a mercury-containing preservative that is added to vials of vaccine that contain more than one dose to prevent contamination and growth of potentially harmful bacteria. Due to the controversy surrounding thimerosal it has been removed from most vaccines.
+
+8.2. Role of preservatives
+
+Many vaccines need preservatives to prevent serious adverse effects such as Staphylococcus infection, which in one 1928 incident killed 12 of 21 children inoculated with a diphtheria vaccine that lacked a preservative. Several preservatives are available, including thiomersal, phenoxyethanol, and formaldehyde. Thiomersal is more effective against bacteria, has a better shelf-life, and improves vaccine stability, potency, and safety; but, in the U.S., the European Union, and a few other affluent countries, it is no longer used as a preservative in childhood vaccines, as a precautionary measure due to its mercury content. Although controversial claims have been made that thiomersal contributes to autism, no convincing scientific evidence supports these claims.
+
+9. Delivery systems
+
+The development of new delivery systems raises the hope of vaccines that are safer and more efficient to deliver and administer. Lines of research include liposomes and ISCOM (immune stimulating complex).
+
+Notable developments in vaccine delivery technologies have included oral vaccines. Early attempts to apply oral vaccines showed varying degrees of promise, beginning early in the 20th century, at a time when the very possibility of an effective oral antibacterial vaccine was controversial. By the 1930s there was increasing interest in the prophylactic value of an oral typhoid fever vaccine for example.
+
+An oral polio vaccine turned out to be effective when vaccinations were administered by volunteer staff without formal training; the results also demonstrated increased ease and efficiency of administering the vaccines. Effective oral vaccines have many advantages; for example there is no risk of blood contamination. Vaccines intended for oral administration need not be liquid, and as solids they commonly are stabler and less prone to damage or to spoilage by freezing in transport and storage. Such stability reduces the need for a "cold chain": the resources required to keep vaccines within a restricted temperature range from the manufacturing stage to the point of administration, which, in turn, may decrease costs of vaccines.
+
+A microneedle approach, which is still in stages of development, uses "pointed projections fabricated into arrays that can create vaccine delivery pathways through the skin".
+
+A nanopatch is a needle-free vaccine delivery system that is under development. A stamp-size patch similar to an adhesive bandage contains about 20,000 microscopic projections per square inch. When worn on the skin, it will deliver vaccine directly to the skin, which has a higher concentration of immune cells than the muscle tissue does, which is one of the tissues where injections commonly deliver vaccines. Dermal administration by nanopatches thus increases the effectiveness of vaccination, while requiring less vaccine than injection.
+
+9.1. Plasmids
+
+The use of plasmids has been validated in preclinical studies as a protective vaccine strategy for cancer and infectious diseases. However, in human studies this approach has failed to provide clinically relevant benefit. The overall efficacy of plasmid DNA immunization depends on increasing the plasmid's immunogenicity while also correcting for factors involved in the specific activation of immune effector cells.
+
+10. Use in veterinary medicine
+
+Vaccinations of animals are used both to prevent their contracting diseases and to prevent transmission of disease to humans. Both animals kept as pets and animals raised as livestock are routinely vaccinated. In some instances, wild populations may be vaccinated. This is sometimes accomplished with vaccine-laced food spread in a disease-prone area and has been used to attempt to control rabies in raccoons.
+
+Where rabies occurs, rabies vaccination of dogs may be required by law. Other canine vaccines include canine distemper, canine parvovirus, infectious canine hepatitis, adenovirus-2, leptospirosis, bordatella, canine parainfluenza virus, and Lyme disease, among others.
+
+11. DIVA vaccines
+
+DIVA (Differentiating Infected from Vaccinated Animals) vaccines make it possible to differentiate between infected and vaccinated animals.
+
+DIVA vaccines carry at least one epitope less than the microorganisms circulating in the field. An accompanying diagnostic test that detects antibody against that epitope allows us to actually make that differentiation.
+
+11.1. The first DIVA vaccines
+
+The first DIVA vaccines (formerly termed marker vaccines and since 1999 coined as DIVA vaccines) and companion diagnostic tests have been developed by J.T. van Oirschot and colleagues at the Central Veterinary Institute in Lelystad, The Netherlands. They found that some existing vaccines against pseudorabies (also termed Aujeszky’s disease) had deletions in their viral genome (among which the gE gene). Monoclonal antibodies were produced against that deletion and selected to develop an ELISA that demonstrated antibodies against gE. In addition, novel genetically engineered gE-negative vaccines were constructed. Along the same lines, DIVA vaccines and companion diagnostic tests against bovine herpesvirus 1 infections have been developed.
+
+11.2. Use in practice
+
+The DIVA strategy has been applied in various countries and successfully eradicated pseudorabies virus. Swine populations were intensively vaccinated and monitored by the companion diagnostic test and subsequently the infected pigs were removed from the population. Bovine herpesvirus 1 DIVA vaccines are also widely used in practice.
+
+11.3. Other DIVA vaccines (under development)
+
+Scientists have put and still are putting much effort in applying the DIVA principle to a wide range of infectious diseases, such as, for example, classical swine fever, avian influenza, Actinobacillus pleuropneumonia and Salmonella infections in pigs.
+
+12. Trends
+
+Vaccine development has several trends:
+
+Until recently, most vaccines were aimed at infants and children, but adolescents and adults are increasingly being targeted.
+
+Combinations of vaccines are becoming more common; vaccines containing five or more components are used in many parts of the world. In 2013, Biofarma has released a new product called Pentabio, which is combination vaccine of Diphtheria, Tetanus, Pertussis, Hepatitis B, and Haemophilus Influenzae Type B for baby/infant in Indonesia's Immunization Program.
+
+New methods of administering vaccines are being developed, such as skin patches, aerosols via inhalation devices, and eating genetically engineered plants.
+
+Vaccines are being designed to stimulate innate immune responses, as well as adaptive.
+
+Attempts are being made to develop vaccines to help cure chronic infections, as opposed to preventing disease.
+
+Vaccines are being developed to defend against bioterrorist attacks such as anthrax, plague, and smallpox.
+
+Appreciation for sex and pregnancy differences in vaccine responses "might change the strategies used by public health officials".
+
+Scientists are now trying to develop synthetic vaccines by reconstructing the outside structure of a virus. Principles that govern the immune response can now be used in tailor-made vaccines against many noninfectious human diseases, such as cancers and autoimmune disorders. For example, the experimental vaccine CYT006-AngQb has been investigated as a possible treatment for high blood pressure. Factors that have impact on the trends of vaccine development include progress in translatory medicine, demographics, regulatory science, political, cultural, and social responses.
+
+12.1. Plants as bioreactors for vaccine production
+
+Transgenic plants have been identified as promising expression systems for vaccine production. Complex plants such as tobacco, potato, tomato, and banana can have genes inserted that cause them to produce vaccines usable for humans. Bananas have been developed that produce a human vaccine against Hepatitis B. Another example is the expression of a fusion protein in alfalfa transgenic plants for the selective directioning to antigen presenting cells, therefore increasing vaccine potency against Bovine Viral Diarrhea Virus (BVDV).
+
+13. See also
+
+Flying syringe
+
+The Horse Named Jim
+
+Immunization registry
+
+Immunotherapy
+
+List of vaccine ingredients
+
+List of vaccine topics
+
+OPV AIDS hypothesis
+
+Reverse vaccinology
+
+TA-CD
+
+Virosome
+
+Vaccinov
+
+14. References
+
+15. External links
+
+, from the College of Physicians of Philadelphia

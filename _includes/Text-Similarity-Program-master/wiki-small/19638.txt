@@ -1,0 +1,242 @@
+Microelectromechanical systems (MEMS) (also written as micro-electro-mechanical, MicroElectroMechanical or microelectronic and microelectromechanical systems and the related micromechatronics) is the technology of very small devices; it merges at the nano-scale into nanoelectromechanical systems (NEMS) and nanotechnology. MEMS are also referred to as micromachines (in Japan), or micro systems technology – MST (in Europe).
+
+MEMS are separate and distinct from the hypothetical vision of molecular nanotechnology or molecular electronics. MEMS are made up of components between 1 to 100 micrometres in size (i.e. 0.001 to 0.1 mm), and MEMS devices generally range in size from 20 micrometres (20 millionths of a metre) to a millimetre (i.e. 0.02 to 1.0 mm). They usually consist of a central unit that processes data (the microprocessor) and several components that interact with the surroundings such as microsensors. At these size scales, the standard constructs of classical physics are not always useful. Because of the large surface area to volume ratio of MEMS, surface effects such as electrostatics and wetting dominate over volume effects such as inertia or thermal mass.
+
+The potential of very small machines was appreciated before the technology existed that could make them—see, for example, Richard Feynman's famous 1959 lecture There's Plenty of Room at the Bottom. MEMS became practical once they could be fabricated using modified semiconductor device fabrication technologies, normally used to make electronics. These include molding and plating, wet etching (KOH, TMAH) and dry etching (RIE and DRIE), electro discharge machining (EDM), and other technologies capable of manufacturing small devices. An early example of a MEMS device is the resonistor – an electromechanical monolithic resonator.
+
+1. Materials for MEMS manufacturing
+
+The fabrication of MEMS evolved from the process technology in semiconductor device fabrication, i.e. the basic techniques are deposition of material layers, patterning by photolithography and etching to produce the required shapes.
+
+1.1. Silicon
+
+Silicon is the material used to create most integrated circuits used in consumer electronics in the modern industry. The economies of scale, ready availability of cheap high-quality materials and ability to incorporate electronic functionality make silicon attractive for a wide variety of MEMS applications. Silicon also has significant advantages engendered through its material properties. In single crystal form, silicon is an almost perfect Hookean material, meaning that when it is flexed there is virtually no hysteresis and hence almost no energy dissipation. As well as making for highly repeatable motion, this also makes silicon very reliable as it suffers very little fatigue and can have service lifetimes in the range of billions to trillions of cycles without breaking.
+
+1.2. Polymers
+
+Even though the electronics industry provides an economy of scale for the silicon industry, crystalline silicon is still a complex and relatively expensive material to be produced. Polymers on the other hand can be produced in huge volumes, with a great variety of material characteristics. MEMS devices can be made from polymers by processes such as injection molding, embossing or stereolithography and are especially well suited to microfluidic applications such as disposable blood testing cartridges.
+
+1.3. Metals
+
+Metals can also be used to create MEMS elements. While metals do not have some of the advantages displayed by silicon in terms of mechanical properties, when used within their limitations, metals can exhibit very high degrees of reliability. Metals can be deposited by electroplating, evaporation, and sputtering processes. Commonly used metals include gold, nickel, aluminium, copper, chromium, titanium, tungsten, platinum, and silver.
+
+1.4. Ceramics
+
+The nitrides of silicon, aluminium and titanium as well as silicon carbide and other ceramics are increasingly applied in MEMS fabrication due to advantageous combinations of material properties. AlN crystallizes in the wurtzite structure and thus shows pyroelectric and piezoelectric properties enabling sensors, for instance, with sensitivity to normal and shear forces. TiN, on the other hand, exhibits a high electrical conductivity and large elastic modulus allowing to realize electrostatic MEMS actuation schemes with ultrathin membranes. Moreover, the high resistance of TiN against biocorrosion qualifies the material for applications in biogenic environments and in biosensors.
+
+2. MEMS basic processes
+
+2.1. Deposition processes
+
+One of the basic building blocks in MEMS processing is the ability to deposit thin films of material with a thickness anywhere between a few nanometres to about 100 micrometres. There are two types of deposition processes, as follows.
+
+2.1.1. Physical deposition
+
+Physical vapor deposition ("PVD") consists of a process in which a material is removed from a target, and deposited on a surface. Techniques to do this include the process of sputtering, in which an ion beam liberates atoms from a target, allowing them to move through the intervening space and deposit on the desired substrate, and Evaporation (deposition), in which a material is evaporated from a target using either heat (thermal evaporation) or an electron beam (e-beam evaporation) in a vacuum system.
+
+2.1.2. Chemical deposition
+
+Chemical deposition techniques include chemical vapor deposition ("CVD"), in which a stream of source gas reacts on the substrate to grow the material desired. This can be further divided into categories depending on the details of the technique, for example, LPCVD (Low Pressure chemical vapor deposition) and PECVD (Plasma Enhanced chemical vapor deposition).
+
+Oxide films can also be grown by the technique of thermal oxidation, in which the (typically silicon) wafer is exposed to oxygen and/or steam, to grow a thin surface layer of silicon dioxide.
+
+2.2. Patterning
+
+Patterning in MEMS is the transfer of a pattern into a material.
+
+2.2.1. Lithography
+
+Lithography in MEMS context is typically the transfer of a pattern into a photosensitive material by selective exposure to a radiation source such as light. A photosensitive material is a material that experiences a change in its physical properties when exposed to a radiation source. If a photosensitive material is selectively exposed to radiation (e.g. by masking some of the radiation) the pattern of the radiation on the material is transferred to the material exposed, as the properties of the exposed and unexposed regions differs.
+
+This exposed region can then be removed or treated providing a mask for the underlying substrate. Photolithography is typically used with metal or other thin film deposition, wet and dry etching.
+
+2.3. Photolithography
+
+Photolithography is the process of transferring geometric shapes on a mask to the surface of a silicon wafer. The steps involved in the photolithographic process are wafer cleaning; barrier layer formation; photoresist application; soft baking; mask alignment; exposure and development; and hard-baking.
+
+2.3.1. Wafer Cleaning, Barrier Formation and Photoresist Application
+
+In the first step, the wafers are chemically cleaned to remove particulate matter on the surface as well as any traces of organic, ionic, and metallic impurities. After cleaning, silicon dioxide, which serves as a barrier layer, is deposited on the surface of the wafer. After the formation of the SiO2 layer, photoresist is applied to the surface of the wafer. High-speed centrifugal whirling of silicon wafers is the standard method for applying photoresist coatings in IC manufacturing. This technique, known as "Spin Coating," produces a thin uniform layer of photoresist on the wafer surface. Another method for applying photoresist coatings onto MEMs wafers with high aspect ratio trenches uses an ultrasonic nozzle to spray micron-sized atomized droplets of photoresist directly onto the wafer surface.
+
+2.3.2. Positive and Negative Photoresist
+
+There are two types of photoresist: positive and negative. For positive resists, the resist is exposed with UV light wherever the underlying material is to be removed. In these resists, exposure to the UV light changes the chemical structure of the resist so that it becomes more soluble in the developer. The exposed resist is then washed away by the developer solution, leaving windows of the bare underlying material. In other words, "whatever shows, goes." The mask, therefore, contains an exact copy of the pattern which is to remain on the wafer.
+
+Negative resists behave in just the opposite manner. Exposure to the UV light causes the negative resist to become polymerized, and more difficult to dissolve. Therefore, the negative resist remains on the surface wherever it is exposed, and the developer solution removes only the unexposed portions. Masks used for negative photoresists, therefore, contain the inverse (or photographic "negative") of the pattern to be transferred. The figure below shows the pattern differences generated from the use of positive and negative resist.
+
+2.3.3. Electron beam lithography
+
+Electron beam lithography (often abbreviated as e-beam lithography) is the practice of scanning a beam of electrons in a patterned fashion across a surface covered with a film (called the resist), ("exposing" the resist) and of selectively removing either exposed or non-exposed regions of the resist ("developing"). The purpose, as with photolithography, is to create very small structures in the resist that can subsequently be transferred to the substrate material, often by etching. It was developed for manufacturing integrated circuits, and is also used for creating nanotechnology architectures.
+
+The primary advantage of electron beam lithography is that it is one of the ways to beat the diffraction limit of light and make features in the nanometer region. This form of maskless lithography has found wide usage in photomask-making used in photolithography, low-volume production of semiconductor components, and research & development.
+
+The key limitation of electron beam lithography is throughput, i.e., the very long time it takes to expose an entire silicon wafer or glass substrate. A long exposure time leaves the user vulnerable to beam drift or instability which may occur during the exposure. Also, the turn-around time for reworking or re-design is lengthened unnecessarily if the pattern is not being changed the second time.
+
+2.3.4. Ion beam lithography
+
+It is known that focused-ion-beam lithography has the capability of writing extremely fine lines (less than 50 nm line and space has been achieved) without proximity effect. However, because the writing field in ion-beam lithography is quite small, large area patterns must be created by stitching together the small fields.
+
+2.3.5. Ion track technology
+
+Ion track technology is a deep cutting tool with a resolution limit around 8 nm applicable to radiation resistant minerals, glasses and polymers. It is capable to generate holes in thin films without any development process. Structural depth can be defined either by ion range or by material thickness. Aspect ratios up to several 104 can be reached. The technique can shape and texture materials at a defined inclination angle. Random pattern, single-ion track structures and aimed pattern consisting of individual single tracks can be generated.
+
+2.3.6. X-ray lithography
+
+X-ray lithography, is a process used in electronic industry to selectively remove parts of a thin film. It uses X-rays to transfer a geometric pattern from a mask to a light-sensitive chemical photoresist, or simply "resist," on the substrate. A series of chemical treatments then engraves the produced pattern into the material underneath the photoresist.
+
+2.3.7. Diamond patterning
+
+A simple way to carve or create patterns on the surface of nanodiamonds without damaging them could lead to a new photonic devices.
+
+Diamond patterning is a method of forming diamond MEMS. It is achieved by the lithographic application of diamond films to a substrate such as silicon. The patterns can be formed by selective deposition through a silicon dioxide mask, or by deposition followed by micromachining or focused ion beam milling.
+
+2.4. Etching processes
+
+There are two basic categories of etching processes: wet etching and dry etching. In the former, the material is dissolved when immersed in a chemical solution. In the latter, the material is sputtered or dissolved using reactive ions or a vapor phase etchant. for a somewhat dated overview of MEMS etching technologies.
+
+2.4.1. Wet etching
+
+Wet chemical etching consists in selective removal of material by dipping a substrate into a solution that dissolves it. The chemical nature of this etching process provides a good selectivity, which means the etching rate of the target material is considerably higher than the mask material if selected carefully.
+
+2.4.1.1. Isotropic etching
+
+Etching progresses at the same speed in all directions. Long and narrow holes in a mask will produce v-shaped grooves in the silicon. The surface of these grooves can be atomically smooth if the etch is carried out correctly, with dimensions and angles being extremely accurate.
+
+2.4.1.2. Anisotropic etching
+
+Some single crystal materials, such as silicon, will have different etching rates depending on the crystallographic orientation of the substrate. This is known as anisotropic etching and one of the most common examples is the etching of silicon in KOH (potassium hydroxide), where Si <111> planes etch approximately 100 times slower than other planes (crystallographic orientations). Therefore, etching a rectangular hole in a (100)-Si wafer results in a pyramid shaped etch pit with 54.7° walls, instead of a hole with curved sidewalls as with isotropic etching.
+
+2.4.1.3. HF etching
+
+Hydrofluoric acid is commonly used as an aqueous etchant for silicon dioxide (, also known as BOX for SOI), usually in 49% concentrated form, 5:1, 10:1 or 20:1 BOE (buffered oxide etchant) or BHF (Buffered HF). They were first used in medieval times for glass etching. It was used in IC fabrication for patterning the gate oxide until the process step was replaced by RIE.
+
+Hydrofluoric acid is considered one of the more dangerous acids in the cleanroom. It penetrates the skin upon contact and it diffuses straight to the bone. Therefore the damage is not felt until it is too late.
+
+2.4.1.4. Electrochemical etching
+
+Electrochemical etching (ECE) for dopant-selective removal of silicon is a common method to automate and to selectively control etching. An active p-n diode junction is required, and either type of dopant can be the etch-resistant ("etch-stop") material. Boron is the most common etch-stop dopant. In combination with wet anisotropic etching as described above, ECE has been used successfully for controlling silicon diaphragm thickness in commercial piezoresistive silicon pressure sensors. Selectively doped regions can be created either by implantation, diffusion, or epitaxial deposition of silicon.
+
+2.4.2. Dry etching
+
+2.4.2.1. Vapor etching
+
+2.4.2.1.1. Xenon difluoride
+
+Xenon difluoride () is a dry vapor phase isotropic etch for silicon originally applied for MEMS in 1995 at University of California, Los Angeles. Primarily used for releasing metal and dielectric structures by undercutting silicon, has the advantage of a stiction-free release unlike wet etchants. Its etch selectivity to silicon is very high, allowing it to work with photoresist, , silicon nitride, and various metals for masking. Its reaction to silicon is "plasmaless", is purely chemical and spontaneous and is often operated in pulsed mode. Models of the etching action are available, and university laboratories and various commercial tools offer solutions using this approach.
+
+2.4.2.1.2. Hydrogen fluoride (HF)
+
+2.4.2.2. Plasma etching
+
+Modern VLSI processes avoid wet etching, and use plasma etching instead. Plasma etchers can operate in several modes by adjusting the parameters of the plasma. Ordinary plasma etching operates between 0.1 and 5 Torr. (This unit of pressure, commonly used in vacuum engineering, equals approximately 133.3 pascals.) The plasma produces energetic free radicals, neutrally charged, that react at the surface of the wafer. Since neutral particles attack the wafer from all angles, this process is isotropic.
+
+Plasma etching can be isotropic, i.e., exhibiting a lateral undercut rate on a patterned surface approximately the same as its downward etch rate, or can be anisotropic, i.e., exhibiting a smaller lateral undercut rate than its downward etch rate. Such anisotropy is maximized in deep reactive ion etching. The use of the term anisotropy for plasma etching should not be conflated with the use of the same term when referring to orientation-dependent etching.
+
+The source gas for the plasma usually contains small molecules rich in chlorine or fluorine. For instance, carbon tetrachloride (CCl4) etches silicon and aluminium, and trifluoromethane etches silicon dioxide and silicon nitride. A plasma containing oxygen is used to oxidize ("ash") photoresist and facilitate its removal.
+
+Ion milling, or sputter etching, uses lower pressures, often as low as 10−4 Torr (10 mPa). It bombards the wafer with energetic ions of noble gases, often Ar+, which knock atoms from the substrate by transferring momentum. Because the etching is performed by ions, which approach the wafer approximately from one direction, this process is highly anisotropic. On the other hand, it tends to display poor selectivity. Reactive-ion etching (RIE) operates under conditions intermediate between sputter and plasma etching (between 10−3 and 10−1 Torr). Deep reactive-ion etching (DRIE) modifies the RIE technique to produce deep, narrow features.
+
+2.4.2.2.1. Sputtering
+
+2.4.2.2.2. Reactive ion etching (RIE)
+
+In reactive ion etching (RIE), the substrate is placed inside a reactor, and several gases are introduced. A plasma is struck in the gas mixture using an RF power source, which breaks the gas molecules into ions. The ions accelerate towards, and react with, the surface of the material being etched, forming another gaseous material. This is known as the chemical part of reactive ion etching. There is also a physical part, which is similar to the sputtering deposition process. If the ions have high enough energy, they can knock atoms out of the material to be etched without a chemical reaction. It is a very complex task to develop dry etch processes that balance chemical and physical etching, since there are many parameters to adjust. By changing the balance it is possible to influence the anisotropy of the etching, since the chemical part is isotropic and the physical part highly anisotropic the combination can form sidewalls that have shapes from rounded to vertical. RIE can be deep (Deep RIE or deep reactive ion etching (DRIE)).
+
+Deep RIE (DRIE) is a special subclass of RIE that is growing in popularity. In this process, etch depths of hundreds of micrometres are achieved with almost vertical sidewalls. The primary technology is based on the so-called "Bosch process", named after the German company Robert Bosch, which filed the original patent, where two different gas compositions alternate in the reactor. Currently there are two variations of the DRIE. The first variation consists of three distinct steps (the Bosch Process as used in the Plasma-Therm tool) while the second variation only consists of two steps (ASE used in the STS tool).
+In the 1st Variation, the etch cycle is as follows:
+(i) isotropic etch;
+(ii) passivation;
+(iii) anisoptropic etch for floor cleaning.
+In the 2nd variation, steps (i) and (iii) are combined.
+
+Both variations operate similarly. The creates a polymer on the surface of the substrate, and the second gas composition ( and ) etches the substrate. The polymer is immediately sputtered away by the physical part of the etching, but only on the horizontal surfaces and not the sidewalls. Since the polymer only dissolves very slowly in the chemical part of the etching, it builds up on the sidewalls and protects them from etching. As a result, etching aspect ratios of 50 to 1 can be achieved. The process can easily be used to etch completely through a silicon substrate, and etch rates are 3–6 times higher than wet etching.
+
+2.5. Die preparation
+
+After preparing a large number of MEMS devices on a silicon wafer, individual dies have to be separated, which is called die preparation in semiconductor technology. For some applications, the separation is preceded by wafer backgrinding in order to reduce the wafer thickness. Wafer dicing may then be performed either by sawing using a cooling liquid or a dry laser process called stealth dicing.
+
+3. MEMS manufacturing technologies
+
+3.1. Bulk micromachining
+
+Bulk micromachining is the oldest paradigm of silicon based MEMS. The whole thickness of a silicon wafer is used for building the micro-mechanical structures. Silicon is machined using various etching processes. Anodic bonding of glass plates or additional silicon wafers is used for adding features in the third dimension and for hermetic encapsulation. Bulk micromachining has been essential in enabling high performance pressure sensors and accelerometers that changed the sensor industry in the 1980s and 90's.
+
+3.2. Surface micromachining
+
+Surface micromachining uses layers deposited on the surface of a substrate as the structural materials, rather than using the substrate itself. Surface micromachining was created in the late 1980s to render micromachining of silicon more compatible with planar integrated circuit technology, with the goal of combining MEMS and integrated circuits on the same silicon wafer. The original surface micromachining concept was based on thin polycrystalline silicon layers patterned as movable mechanical structures and released by sacrificial etching of the underlying oxide layer. Interdigital comb electrodes were used to produce in-plane forces and to detect in-plane movement capacitively. This MEMS paradigm has enabled the manufacturing of low cost accelerometers for e.g. automotive air-bag systems and other applications where low performance and/or high g-ranges are sufficient. Analog Devices have pioneered the industrialization of surface micromachining and have realized the co-integration of MEMS and integrated circuits.
+
+3.3. High aspect ratio (HAR) silicon micromachining
+
+Both bulk and surface silicon micromachining are used in the industrial production of sensors, ink-jet nozzles, and other devices. But in many cases the distinction between these two has diminished. A new etching technology, deep reactive-ion etching, has made it possible to combine good performance typical of bulk micromachining with comb structures and in-plane operation typical of surface micromachining. While it is common in surface micromachining to have structural layer thickness in the range of 2 µm, in HAR silicon micromachining the thickness can be from 10 to 100 µm. The materials commonly used in HAR silicon micromachining are thick polycrystalline silicon, known as epi-poly, and bonded silicon-on-insulator (SOI) wafers although processes for bulk silicon wafer also have been created (SCREAM). Bonding a second wafer by glass frit bonding, anodic bonding or alloy bonding is used to protect the MEMS structures. Integrated circuits are typically not combined with HAR silicon micromachining.
+
+4. Applications
+
+In one viewpoint MEMS application is categorized by type of use.
+
+Sensor
+
+Actuator
+
+Structure In another view point MEMS applications are categorized by the field of application (commercial applications include):
+
+Inkjet printers, which use piezoelectrics or thermal bubble ejection to deposit ink on paper.
+
+Accelerometers in modern cars for a large number of purposes including airbag deployment in collisions.
+
+Accelerometers and MEMS gyroscopes in radio controlled, or autonomous, helicopters, planes and multirotors (also known as drones), used for automatically sensing and balancing flying characteristics of roll, pitch and yaw.
+
+Accelerometers in consumer electronics devices such as game controllers (Nintendo Wii), personal media players / cell phones (Apple iPhone, various Nokia mobile phone models, various HTC PDA models) and a number of Digital Cameras (various Canon Digital IXUS models). Also used in PCs to park the hard disk head when free-fall is detected, to prevent damage and data loss.
+
+MEMS gyroscopes used in modern cars and other applications to detect yaw; e.g., to deploy a roll over bar or trigger dynamic stability control
+
+MEMS microphones in portable devices, e.g., mobile phones, head sets and laptops.
+
+Silicon pressure sensors e.g., car tire pressure sensors, and disposable blood pressure sensors
+
+Displays e.g., the DMD chip in a projector based on DLP technology, which has a surface with several hundred thousand micromirrors or single micro-scanning-mirrors also called microscanners
+
+Optical switching technology, which is used for switching technology and alignment for data communications
+
+Bio-MEMS applications in medical and health related technologies from Lab-On-Chip to MicroTotalAnalysis (biosensor, chemosensor), or embedded in medical devices e.g. stents.
+
+Interferometric modulator display (IMOD) applications in consumer electronics (primarily displays for mobile devices), used to create interferometric modulation − reflective display technology as found in mirasol displays
+
+Fluid acceleration such as for micro-cooling
+
+Micro-scale Energy harvesting including piezoelectric, electrostatic and electromagnetic micro harvesters.
+
+Micromachined Ultrasound Transducer including Piezoelectric Micromachined Ultrasonic Transducers and Capacitive Micromachined Ultrasonic Transducers. Companies with strong MEMS programs come in many sizes. The larger firms specialize in manufacturing high volume inexpensive components or packaged solutions for end markets such as automobiles, biomedical, and electronics. The successful small firms provide value in innovative solutions and absorb the expense of custom fabrication with high sales margins. In addition, both large and small companies work in R&D to explore MEMS technology.
+
+5. Industry structure
+
+The global market for micro-electromechanical systems, which includes products such as automobile airbag systems, display systems and inkjet cartridges totaled $40 billion in 2006 according to Global MEMS/Microsystems Markets and Opportunities, a research report from SEMI and Yole Developpement and is forecasted to reach $72 billion by 2011.
+
+MEMS devices are defined as die-level components of first-level packaging, and include pressure sensors, accelerometers, gyroscopes, microphones, digital mirror displays, microfluidic devices, etc. The materials and equipment used to manufacture MEMS devices topped $1 billion worldwide in 2006. Materials demand is driven by substrates, making up over 70 percent of the market, packaging coatings and increasing use of chemical mechanical planarization (CMP). While MEMS manufacturing continues to be dominated by used semiconductor equipment, there is a migration to 200 mm lines and select new tools, including etch and bonding for certain MEMS applications.
+
+6. See also
+
+Brain–computer interface
+
+Cantilever one of the most common forms of MEMS.
+
+Electrostatic motors used where coils are difficult to fabricate
+
+Kelvin probe force microscope
+
+MEMS sensor generations
+
+MEMS thermal actuator MEMS actuation created by thermal expansion
+
+Micro-opto-electromechanical systems, MEMS including optical elements
+
+Micropower Hydrogen generators, gas turbines, and electrical generators made of etched silicon
+
+Millipede memory, a MEMS technology for non-volatile data storage of more than a terabit per square inch
+
+Nanoelectromechanical systems are similar to MEMS but smaller
+
+Scratch Drive Actuator MEMS actuation using repeatedly applied voltage differences
+
+7. References
+
+8. External links

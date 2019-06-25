@@ -1,0 +1,229 @@
+Magnetism is a class of physical phenomena that are mediated by magnetic fields. Electric currents and the fundamental magnetic moments of elementary particles give rise to a magnetic field, which acts on other currents and magnetic moments. All materials are influenced to some extent by a magnetic field. The most familiar effect is on permanent magnets, which have persistent magnetic moments caused by ferromagnetism. Most materials do not have permanent moments. Some are attracted to a magnetic field (paramagnetism); others are repulsed by a magnetic field (diamagnetism); others have a much more complex relationship with an applied magnetic field (spin glass behavior and antiferromagnetism). Substances that are negligibly affected by magnetic fields are known as non-magnetic substances. They include copper, aluminium, gases, and plastic. Pure oxygen exhibits magnetic properties when cooled to a liquid state.
+
+The magnetic state (or phase) of a material depends on temperature (and other variables such as pressure and the applied magnetic field) so that a material may exhibit more than one form of magnetism depending on its temperature, etc.
+
+1. History
+
+Aristotle attributed the first of what could be called a scientific discussion on magnetism to Thales of Miletus, who lived from about 625 BC to about 545 BC. Around the same time, in ancient India, the Indian surgeon, Sushruta, was the first to make use of the magnet for surgical purposes.
+
+In ancient China, the earliest literary reference to magnetism lies in a 4th-century BC book named after its author, The Master of Demon Valley (鬼谷子): "The lodestone makes iron come or it attracts it." The earliest mention of the attraction of a needle appears in a work composed between AD 20 and 100 (Louen-heng): "A lodestone attracts a needle." The Chinese scientist Shen Kuo (1031–1095) was the first person to write of the magnetic needle compass and that it improved the accuracy of navigation by employing the astronomical concept of true north (Dream Pool Essays, AD 1088), and by the 12th century the Chinese were known to use the lodestone compass for navigation. They sculpted a directional spoon from lodestone in such a way that the handle of the spoon always pointed south.
+
+Alexander Neckam, by 1187, was the first in Europe to describe the compass and its use for navigation. In 1269, Peter Peregrinus de Maricourt wrote the Epistola de magnete, the first extant treatise describing the properties of magnets. In 1282, the properties of magnets and the dry compass were discussed by Al-Ashraf, a Yemeni physicist, astronomer, and geographer.
+
+In 1600, William Gilbert published his De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure (On the Magnet and Magnetic Bodies, and on the Great Magnet the Earth). In this work he describes many of his experiments with his model earth called the terrella. From his experiments, he concluded that the Earth was itself magnetic and that this was the reason compasses pointed north (previously, some believed that it was the pole star (Polaris) or a large magnetic island on the north pole that attracted the compass).
+
+An understanding of the relationship between electricity and magnetism began in 1819 with work by Hans Christian Ørsted, a professor at the University of Copenhagen, who discovered more or less by accident that an electric current could influence a compass needle. This landmark experiment is known as Ørsted's Experiment. Several other experiments followed, with André-Marie Ampère, who in 1820 discovered that the magnetic field circulating in a closed-path was related to the current flowing through the perimeter of the path; Carl Friedrich Gauss; Jean-Baptiste Biot and Félix Savart, both of whom in 1820 came up with the Biot–Savart law giving an equation for the magnetic field from a current-carrying wire; Michael Faraday, who in 1831 found that a time-varying magnetic flux through a loop of wire induced a voltage, and others finding further links between magnetism and electricity. James Clerk Maxwell synthesized and expanded these insights into Maxwell's equations, unifying electricity, magnetism, and optics into the field of electromagnetism. In 1905, Einstein used these laws in motivating his theory of special relativity, requiring that the laws held true in all inertial reference frames.
+
+Electromagnetism has continued to develop into the 21st century, being incorporated into the more fundamental theories of gauge theory, quantum electrodynamics, electroweak theory, and finally the standard model.
+
+2. Sources of magnetism
+
+Magnetism, at its root, arises from two sources:
+
+Electric current (see electron magnetic dipole moment).
+
+Nuclear magnetic moments of atomic nuclei. These moments are typically thousands of times smaller than the electrons' magnetic moments, so they are negligible in the context of the magnetization of materials. Nuclear magnetic moments are very important in other contexts, particularly in nuclear magnetic resonance (NMR) and magnetic resonance imaging (MRI). Ordinarily, the enormous number of electrons in a material are arranged such that their magnetic moments (both orbital and intrinsic) cancel out. This is due, to some extent, to electrons combining into pairs with opposite intrinsic magnetic moments as a result of the Pauli exclusion principle (see electron configuration), or combining into filled subshells with zero net orbital motion. In both cases, the electron arrangement is so as to exactly cancel the magnetic moments from each electron. Moreover, even when the electron configuration is such that there are unpaired electrons and/or non-filled subshells, it is often the case that the various electrons in the solid will contribute magnetic moments that point in different, random directions, so that the material will not be magnetic.
+
+However, sometimes—either spontaneously, or owing to an applied external magnetic field—each of the electron magnetic moments will be, on average, lined up. Then the material can produce a net total magnetic field, which can potentially be quite strong.
+
+The magnetic behavior of a material depends on its structure, particularly its electron configuration, for the reasons mentioned above, and also on the temperature. At high temperatures, random thermal motion makes it more difficult for the electrons to maintain alignment.
+
+3. Topics
+
+3.1. Diamagnetism
+
+Diamagnetism appears in all materials, and is the tendency of a material to oppose an applied magnetic field, and therefore, to be repelled by a magnetic field. However, in a material with paramagnetic properties (that is, with a tendency to enhance an external magnetic field), the paramagnetic behavior dominates. Thus, despite its universal occurrence, diamagnetic behavior is observed only in a purely diamagnetic material. In a diamagnetic material, there are no unpaired electrons, so the intrinsic electron magnetic moments cannot produce any bulk effect. In these cases, the magnetization arises from the electrons' orbital motions, which can be understood classically as follows:
+
+Note that this description is meant only as an heuristic; a proper understanding requires a quantum-mechanical description.
+
+Note that all materials undergo this orbital response. However, in paramagnetic and ferromagnetic substances, the diamagnetic effect is overwhelmed by the much stronger effects caused by the unpaired electrons.
+
+3.2. Paramagnetism
+
+In a paramagnetic material there are unpaired electrons, i.e. atomic or molecular orbitals with exactly one electron in them. While paired electrons are required by the Pauli exclusion principle to have their intrinsic ('spin') magnetic moments pointing in opposite directions, causing their magnetic fields to cancel out, an unpaired electron is free to align its magnetic moment in any direction. When an external magnetic field is applied, these magnetic moments will tend to align themselves in the same direction as the applied field, thus reinforcing it.
+
+3.3. Ferromagnetism
+
+A ferromagnet, like a paramagnetic substance, has unpaired electrons. However, in addition to the electrons' intrinsic magnetic moment's tendency to be parallel to an applied field, there is also in these materials a tendency for these magnetic moments to orient parallel to each other to maintain a lowered-energy state. Thus, even in the absence of an applied field, the magnetic moments of the electrons in the material spontaneously line up parallel to one another.
+
+Every ferromagnetic substance has its own individual temperature, called the Curie temperature, or Curie point, above which it loses its ferromagnetic properties. This is because the thermal tendency to disorder overwhelms the energy-lowering due to ferromagnetic order.
+
+Ferromagnetism only occurs in a few substances; the common ones are iron, nickel, cobalt, their alloys, and some alloys of rare earth metals.
+
+3.3.1. Magnetic domains
+
+The magnetic moment of atoms in a ferromagnetic material cause them to behave something like tiny permanent magnets. They stick together and align themselves into small regions of more or less uniform alignment called magnetic domains or Weiss domains. Magnetic domains can be observed with a magnetic force microscope to reveal magnetic domain boundaries that resemble white lines in the sketch. There are many scientific experiments that can physically show magnetic fields.
+
+When a domain contains too many molecules, it becomes unstable and divides into two domains aligned in opposite directions so that they stick together more stably as shown at the right.
+
+When exposed to a magnetic field, the domain boundaries move so that the domains aligned with the magnetic field grow and dominate the structure (dotted yellow area) as shown at the left. When the magnetizing field is removed, the domains may not return to an unmagnetized state. This results in the ferromagnetic material's being magnetized, forming a permanent magnet.
+
+When magnetized strongly enough that the prevailing domain overruns all others to result in only one single domain, the material is magnetically saturated. When a magnetized ferromagnetic material is heated to the Curie point temperature, the molecules are agitated to the point that the magnetic domains lose the organization and the magnetic properties they cause cease. When the material is cooled, this domain alignment structure spontaneously returns, in a manner roughly analogous to how a liquid can freeze into a crystalline solid.
+
+3.4. Antiferromagnetism
+
+In an antiferromagnet, unlike a ferromagnet, there is a tendency for the intrinsic magnetic moments of neighboring valence electrons to point in opposite directions. When all atoms are arranged in a substance so that each neighbor is 'anti-aligned', the substance is antiferromagnetic. Antiferromagnets have a zero net magnetic moment, meaning no field is produced by them. Antiferromagnets are less common compared to the other types of behaviors, and are mostly observed at low temperatures. In varying temperatures, antiferromagnets can be seen to exhibit diamagnetic and ferrimagnetic properties.
+
+In some materials, neighboring electrons want to point in opposite directions, but there is no geometrical arrangement in which each pair of neighbors is anti-aligned. This is called a spin glass, and is an example of geometrical frustration.
+
+3.5. Ferrimagnetism
+
+Like ferromagnetism, ferrimagnets retain their magnetization in the absence of a field. However, like antiferromagnets, neighboring pairs of electron spins like to point in opposite directions. These two properties are not contradictory, because in the optimal geometrical arrangement, there is more magnetic moment from the sublattice of electrons that point in one direction, than from the sublattice that points in the opposite direction.
+
+Most ferrites are ferrimagnetic. The first discovered magnetic substance, magnetite, is a ferrite and was originally believed to be a ferromagnet; Louis Néel disproved this, however, after discovering ferrimagnetism.
+
+3.6. Superparamagnetism
+
+When a ferromagnet or ferrimagnet is sufficiently small, it acts like a single magnetic spin that is subject to Brownian motion. Its response to a magnetic field is qualitatively similar to the response of a paramagnet, but much larger.
+
+3.7. Electromagnet
+
+An electromagnet is a type of magnet whose magnetism is produced by the flow of electric current. The magnetic field disappears when the current ceases.
+
+3.8. Other types of magnetism
+
+Molecular magnet
+
+Metamagnetism
+
+Molecule-based magnet
+
+Spin glass
+
+4. Magnetism, electricity, and special relativity
+
+As a consequence of Einstein's theory of special relativity, electricity and magnetism are fundamentally interlinked. Both magnetism lacking electricity, and electricity without magnetism, are inconsistent with special relativity, due to such effects as length contraction, time dilation, and the fact that the magnetic force is velocity-dependent. However, when both electricity and magnetism are taken into account, the resulting theory (electromagnetism) is fully consistent with special relativity. In particular, a phenomenon that appears purely electric or purely magnetic to one observer may be a mix of both to another, or more generally the relative contributions of electricity and magnetism are dependent on the frame of reference. Thus, special relativity "mixes" electricity and magnetism into a single, inseparable phenomenon called electromagnetism, analogous to how relativity "mixes" space and time into spacetime.
+
+All observations on electromagnetism apply to what might be considered to be primarily magnetism, e.g. perturbations in the magnetic field are necessarily accompanied by a nonzero electric field, and propagate at the speed of light.
+
+5. Magnetic fields in a material
+
+In a vacuum,
+
+where is the vacuum permeability.
+
+In a material,
+
+The quantity is called magnetic polarization.
+
+If the field is small, the response of the magnetization in a diamagnet or paramagnet is approximately linear:
+
+the constant of proportionality being called the magnetic susceptibility. If so,
+
+In a hard magnet such as a ferromagnet, is not proportional to the field and is generally nonzero even when is zero (see Remanence).
+
+6. Magnetic force
+
+The phenomenon of magnetism is "mediated" by the magnetic field. An electric current or magnetic dipole creates a magnetic field, and that field, in turn, imparts magnetic forces on other particles that are in the fields.
+
+Maxwell's equations, which simplify to the Biot–Savart law in the case of steady currents, describe the origin and behavior of the fields that govern these forces. Therefore magnetism is seen whenever electrically charged particles are in motion—for example, from movement of electrons in an electric current, or in certain cases from the orbital motion of electrons around an atom's nucleus. They also arise from "intrinsic" magnetic dipoles arising from quantum-mechanical spin.
+
+The same situations that create magnetic fields—charge moving in a current or in an atom, and intrinsic magnetic dipoles—are also the situations in which a magnetic field has an effect, creating a force. Following is the formula for moving charge; for the forces on an intrinsic dipole, see magnetic dipole.
+
+When a charged particle moves through a magnetic field B, it feels a Lorentz force F given by the cross product:
+
+where
+
+Because this is a cross product, the force is perpendicular to both the motion of the particle and the magnetic field. It follows that the magnetic force does no work on the particle; it may change the direction of the particle's movement, but it cannot cause it to speed up or slow down. The magnitude of the force is
+
+where is the angle between v and B.
+
+One tool for determining the direction of the velocity vector of a moving charge, the magnetic field, and the force exerted is labeling the index finger "V", the middle finger "B", and the thumb "F" with your right hand. When making a gun-like configuration, with the middle finger crossing under the index finger, the fingers represent the velocity vector, magnetic field vector, and force vector, respectively. See also right hand rule.
+
+7. Magnetic dipoles
+
+A very common source of magnetic field shown in nature is a dipole, with a "South pole" and a "North pole", terms dating back to the use of magnets as compasses, interacting with the Earth's magnetic field to indicate North and South on the globe. Since opposite ends of magnets are attracted, the north pole of a magnet is attracted to the south pole of another magnet. The Earth's North Magnetic Pole (currently in the Arctic Ocean, north of Canada) is physically a south pole, as it attracts the north pole of a compass. A magnetic field contains energy, and physical systems move toward configurations with lower energy. When diamagnetic material is placed in a magnetic field, a magnetic dipole tends to align itself in opposed polarity to that field, thereby lowering the net field strength. When ferromagnetic material is placed within a magnetic field, the magnetic dipoles align to the applied field, thus expanding the domain walls of the magnetic domains.
+
+7.1. Magnetic monopoles
+
+Since a bar magnet gets its ferromagnetism from electrons distributed evenly throughout the bar, when a bar magnet is cut in half, each of the resulting pieces is a smaller bar magnet. Even though a magnet is said to have a north pole and a south pole, these two poles cannot be separated from each other. A monopole—if such a thing exists—would be a new and fundamentally different kind of magnetic object. It would act as an isolated north pole, not attached to a south pole, or vice versa. Monopoles would carry "magnetic charge" analogous to electric charge. Despite systematic searches since 1931, , they have never been observed, and could very well not exist.
+
+Nevertheless, some theoretical physics models predict the existence of these magnetic monopoles. Paul Dirac observed in 1931 that, because electricity and magnetism show a certain symmetry, just as quantum theory predicts that individual positive or negative electric charges can be observed without the opposing charge, isolated South or North magnetic poles should be observable. Using quantum theory Dirac showed that if magnetic monopoles exist, then one could explain the quantization of electric charge—that is, why the observed elementary particles carry charges that are multiples of the charge of the electron.
+
+Certain grand unified theories predict the existence of monopoles which, unlike elementary particles, are solitons (localized energy packets). The initial results of using these models to estimate the number of monopoles created in the big bang contradicted cosmological observations—the monopoles would have been so plentiful and massive that they would have long since halted the expansion of the universe. However, the idea of inflation (for which this problem served as a partial motivation) was successful in solving this problem, creating models in which monopoles existed but were rare enough to be consistent with current observations.
+
+8. Quantum-mechanical origin of magnetism
+
+In principle all kinds of magnetism originate (similar to superconductivity) from specific quantum-mechanical phenomena (e.g. Mathematical formulation of quantum mechanics, in particular the chapters on spin and on the Pauli principle). A successful model was developed already in 1927, by Walter Heitler and Fritz London, who derived quantum-mechanically, how hydrogen molecules are formed from hydrogen atoms, i.e. from the atomic hydrogen orbitals and centered at the nuclei A and B, see below. That this leads to magnetism is not at all obvious, but will be explained in the following.
+
+According to the Heitler-London theory, so-called two-body molecular -orbitals are formed, namely the resulting orbital is:
+
+Here the last product means that a first electron, r1, is in an atomic hydrogen-orbital centered at the second nucleus, whereas the second electron runs around the first nucleus. This "exchange" phenomenon is an expression for the quantum-mechanical property that particles with identical properties cannot be distinguished. It is specific not only for the formation of chemical bonds, but as we will see, also for magnetism, i.e. in this connection the term exchange interaction arises, a term which is essential for the origin of magnetism, and which is stronger, roughly by factors 100 and even by 1000, than the energies arising from the electrodynamic dipole-dipole interaction.
+
+As for the spin function , which is responsible for the magnetism, we have the already mentioned Pauli's principle, namely that a symmetric orbital (i.e. with the + sign as above) must be multiplied with an antisymmetric spin function (i.e. with a − sign), and vice versa. Thus:
+
+I.e., not only and must be substituted by α and β, respectively (the first entity means "spin up", the second one "spin down"), but also the sign + by the − sign, and finally ri by the discrete values si (= ±½); thereby we have and . The "singlet state", i.e. the − sign, means: the spins are antiparallel, i.e. for the solid we have antiferromagnetism, and for two-atomic molecules one has diamagnetism. The tendency to form a (homoeopolar) chemical bond (this means: the formation of a symmetric molecular orbital, i.e. with the + sign) results through the Pauli principle automatically in an antisymmetric spin state (i.e. with the − sign). In contrast, the Coulomb repulsion of the electrons, i.e. the tendency that they try to avoid each other by this repulsion, would lead to an antisymmetric orbital function (i.e. with the − sign) of these two particles, and complementary to a symmetric spin function (i.e. with the + sign, one of the so-called "triplet functions"). Thus, now the spins would be parallel (ferromagnetism in a solid, paramagnetism in two-atomic gases).
+
+The last-mentioned tendency dominates in the metals iron, cobalt and nickel, and in some rare earths, which are ferromagnetic. Most of the other metals, where the first-mentioned tendency dominates, are nonmagnetic (e.g. sodium, aluminium, and magnesium) or antiferromagnetic (e.g. manganese). Diatomic gases are also almost exclusively diamagnetic, and not paramagnetic. However, the oxygen molecule, because of the involvement of π-orbitals, is an exception important for the life-sciences.
+
+The Heitler-London considerations can be generalized to the Heisenberg model of magnetism (Heisenberg 1928).
+
+The explanation of the phenomena is thus essentially based on all subtleties of quantum mechanics, whereas the electrodynamics covers mainly the phenomenology.
+
+9. Units of electromagnetism
+
+9.1. SI units related to magnetism
+
+9.2. Other units
+
+gauss – The gauss is the centimeter-gram-second (CGS) unit of magnetic field (denoted B).
+
+oersted – The oersted is the CGS unit of magnetizing field (denoted H).
+
+maxwell – The maxwell is the CGS unit for magnetic flux.
+
+gamma – is a unit of magnetic flux density that was commonly used before the tesla came into use (1.0 gamma = 1.0 nanotesla)
+
+μ0 – common symbol for the permeability of free space (4π×10−7 newton/(ampere-turn)2).
+
+10. Living things
+
+Some organisms can detect magnetic fields, a phenomenon known as magnetoception. Magnetobiology studies magnetic fields as a medical treatment; fields naturally produced by an organism are known as biomagnetism.
+
+11. See also
+
+Coercivity
+
+Magnetic hysteresis
+
+Magnetar
+
+Magnetic bearing
+
+Magnetic circuit
+
+Magnetic cooling
+
+Magnetic field viewing film
+
+Magnetic stirrer
+
+Magnetic structure
+
+Magnetism and temperature
+
+Micromagnetism
+
+Neodymium magnet
+
+Plastic magnet
+
+Rare-earth magnet
+
+Spin wave
+
+Spontaneous magnetization
+
+Vibrating sample magnetometer
+
+Gravitomagnetism
+
+12. References
+
+13. Further reading
+
+14. External links
+
+- a chapter from an online textbook
+
+First scientific book on magnetism by the father of electrical engineering. Full English text, full text search.

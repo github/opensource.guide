@@ -1,0 +1,79 @@
+In computer science, an online algorithm is one that can process its input piece-by-piece in a serial fashion, i.e., in the order that the input is fed to the algorithm, without having the entire input available from the start.
+
+In contrast, an offline algorithm is given the whole problem data from the beginning and is required to output an answer which solves the problem at hand.
+
+Some "offline vs online" algorithms:
+
+Not all of online algorithm have an offline counterpart.
+
+1. Explaining
+
+Because it does not know the whole input, an online algorithm is forced to make decisions that may later turn out not to be optimal, and the study of online algorithms has focused on the quality of decision-making that is possible in this setting. Competitive analysis formalizes this idea by comparing the relative performance of an online and offline algorithm for the same problem instance. Specifically, the competitive ratio of an algorithm, is defined as the worst-case ratio of its cost divided by the optimal cost, over all possible inputs. The competitive ratio of an online problem is the best competitive ratio achieved by an online algorithm. Intuitively, the competitive ratio of an algorithm gives a measure on the quality of solutions produced by this algorithm, while the competitive ratio of a problem shows the importance of knowing the future for this problem.
+
+1.1. Other interpretations
+
+For other points of view on online inputs to algorithms, see
+
+streaming algorithm: focusing on the amount of memory needed to accurately represent past inputs;
+
+dynamic algorithm: focusing on the time complexity of maintaining solutions to problems with online inputs.
+
+1.2. Examples
+
+Some online algorithms:
+
+Insertion sort
+
+Perceptron
+
+Reservoir sampling
+
+Greedy algorithm
+
+Adversary model
+
+Metrical task systems
+
+Odds algorithm
+
+Page replacement algorithm
+
+Algorithms for calculating variance
+
+Ukkonen's algorithm
+
+2. Online problems
+
+A problem exemplifying the concepts of online algorithms is the Canadian Traveller Problem. The goal of this problem is to minimize the cost of reaching a target in a weighted graph where some of the edges are unreliable and may have been removed from the graph. However, that an edge has been removed (failed) is only revealed to the traveller when she/he reaches one of the edge's endpoints. The worst case for this problem is simply that all of the unreliable edges fail and the problem reduces to the usual Shortest Path Problem. An alternative analysis of the problem can be made with the help of competitive analysis. For this method of analysis, the offline algorithm knows in advance which edges will fail and the goal is to minimize the ratio between the online and offline algorithms' performance. This problem is PSPACE-complete.
+
+There are many formal problems that offers more than one online algorthm as solution:
+
+K-server problem
+
+Job shop scheduling problem
+
+List update problem
+
+Bandit problem
+
+Secretary problem
+
+Search games
+
+Ski rental problem
+
+Linear search problem
+
+3. See also
+
+dynamic algorithm
+
+Streaming algorithm
+
+Real-time computing
+
+Online machine learning/Offline learning
+
+4. References
+
+5. External links

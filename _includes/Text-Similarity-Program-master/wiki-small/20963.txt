@@ -1,0 +1,105 @@
+In mathematics, the classic Möbius inversion formula was introduced into number theory during the 19th century by August Ferdinand Möbius.
+
+Other Möbius inversion formulas are obtained when different locally finite partially ordered sets replace the classic case of the natural numbers ordered by divisibility; for an account of those, see incidence algebra.
+
+1. Statement of the formula
+
+The classic version states that if g and f are arithmetic functions satisfying
+
+then
+
+where μ is the Möbius function and the sums extend over all positive divisors d of n. In effect, the original f(n) can be determined given g(n) by using the inversion formula. The two sequences are said to be Möbius transforms of each other.
+
+The formula is also correct if f and g are functions from the positive integers into some abelian group (viewed as a -module).
+
+In the language of Dirichlet convolutions, the first formula may be written as
+
+where * denotes the Dirichlet convolution, and 1 is the constant function . The second formula is then written as
+
+Many specific examples are given in the article on multiplicative functions.
+
+The theorem follows because is (commutative and) associative, and , where is the identity function for the Dirichlet convolution, taking values for all . Thus .
+
+2. Series relations
+
+Let
+
+so that
+
+is its transform. The transforms are related by means of series: the Lambert series
+
+and the Dirichlet series:
+
+where is the Riemann zeta function.
+
+3. Repeated transformations
+
+Given an arithmetic function, one can generate a bi-infinite sequence of other arithmetic functions by repeatedly applying the first summation.
+
+For example, if one starts with Euler's totient function , and repeatedly applies the transformation process, one obtains:
+
+the totient function
+
+where is the identity function
+
+, the divisor function If the starting function is the Möbius function itself, the list of functions is:
+
+, the Möbius function
+
+where is the unit function
+
+, the constant function
+
+, where is the number of divisors of n, (see divisor function). Both of these lists of functions extend infinitely in both directions. The Möbius inversion formula enables these lists to be traversed backwards.
+
+As an example the sequence starting in is:
+
+The generated sequences can perhaps be more easily understood by considering the corresponding Dirichlet series: each repeated application of the transform corresponds to multiplication by the Riemann zeta function.
+
+4. Generalizations
+
+A related inversion formula more useful in combinatorics is as follows: suppose F(x) and G(x) are complex-valued functions defined on the interval such that
+
+then
+
+Here the sums extend over all positive integers n which are less than or equal to x.
+
+This in turn is a special case of a more general form. If is an arithmetic function possessing a Dirichlet inverse , then if one defines
+
+then
+
+The previous formula arises in the special case of the constant function , whose Dirichlet inverse is .
+
+A particular application of the first of these extensions arises if we have (complex-valued) functions f(n) and g(n) defined on the positive integers, with
+
+By defining and , we deduce that
+
+A simple example of the use of this formula is counting the number of reduced fractions 0 < a/b < 1, where a and b are coprime and b≤n. If we let f(n) be this number, then g(n) is the total number of fractions 0 < a/b < 1 with b≤n, where a and b are not necessarily coprime. (This is because every fraction a/b with gcd(a,b) = d and b≤n can be reduced to the fraction (a/d)/(b/d) with b/d ≤ n/d, and vice versa.) Here it is straightforward to determine g(n) = n(n-1)/2, but f(n) is harder to compute.
+
+Another inversion formula is (where we assume that the series involved are absolutely convergent):
+
+As above, this generalises to the case where is an arithmetic function possessing a Dirichlet inverse :
+
+5. Multiplicative notation
+
+As Möbius inversion applies to any abelian group, it makes no difference whether the group operation is written as addition or as multiplication. This gives rise to the following notational variant of the inversion formula:
+
+6. Proofs of generalizations
+
+The first generalization can be proved as follows. We use Iverson's convention that [condition] is the indicator function of the condition, being 1 if the condition is true and 0 if false. We use the result that , that is, 1*μ=i.
+
+We have the following:
+
+The proof in the more general case where α(n) replaces 1 is essentially identical, as is the second generalisation.
+
+7. See also
+
+Farey sequence
+
+8. References
+
+K. Ireland, M. Rosen. A Classical Introduction to Modern Number Theory, (1990) Springer-Verlag.
+
+9. External links
+
+ru:Функция Мёбиуса#Обращение Мёбиуса

@@ -1,0 +1,317 @@
+Old English (Ænglisc, Anglisc, Englisc) or Anglo-Saxon is an early form of the English language that was spoken and written by the Anglo-Saxons and their descendants in parts of what are now England and southern and eastern Scotland between at least the mid-5th century and the mid-12th century.
+
+It is a West Germanic language closely related to Old Frisian and Old Saxon. In most respects, including its grammar, it was much closer to modern German and Icelandic than to modern English. It was fully inflected with five grammatical cases (nominative, accusative, genitive, dative, and instrumental), three grammatical numbers (singular, plural, and dual) and three grammatical genders (masculine, feminine, and neuter).
+
+Adjectives, pronouns and (sometimes) participles agreed with their antecedent nouns in case, number and gender. Finite verbs agreed with their subject in person and number.
+
+Nouns came in numerous declensions (with deep parallels in Latin, Ancient Greek and Sanskrit). Verbs came in nine main conjugations (seven strong and two weak), each with numerous subtypes, as well as a few additional less common conjugations and a handful of irregular verbs. The main difference from other ancient Indo-European languages, such as Latin, is that verbs can be conjugated in only two tenses (vs. the six "tenses" – really tense/aspect combinations – of Latin), and have no synthetic passive voice.
+
+Old English nouns also had grammatical gender, while nouns in modern English have only natural gender. That is, the grammatical gender of a given noun did not necessarily correspond to its natural gender, even for nouns referring to people. For example, sēo sunne (the Sun) was feminine, se mōna (the Moon) was masculine, and þæt wīf "the woman/wife" was neuter. (Compare German cognates die Sonne, der Mond, das Weib.) Pronominal usage could reflect either natural or grammatical gender, when it conflicted.
+
+Written Old English encompasses many literary registers in both poetry and prose. From the 9th century, Old English experienced heavy influence from Old Norse, a member of the related North Germanic group of languages.
+
+1. History
+
+Old English was not static, and its usage covered a period of 700 years, from the Anglo-Saxon settlement of Britain in the 5th century to the late 11th century, some time after the Norman invasion.
+
+Old English is a West Germanic language, developing out of Ingvaeonic (also known as North Sea Germanic) dialects from the 5th century. Anglo-Saxon literacy developed after Christianisation in the late 7th century. The oldest surviving text of Old English literature is Cædmon's Hymn, composed between 658 and 680. There is a limited corpus of runic inscriptions from the 5th to 7th centuries, but the oldest coherent runic texts (notably Franks Casket) date to the 8th century.
+
+The history of Old English can be subdivided into:
+
+Prehistoric Old English (c. 450 to 650); for this period, Old English is mostly a reconstructed language as no literary witnesses survive (with the exception of limited epigraphic evidence). This language, or bloc of languages, spoken by the Angles, Saxons, and Jutes, and pre-dating documented Old English or Anglo-Saxon, has also been called Primitive Old English.
+
+Early Old English (c. 650 to 900), the period of the oldest manuscript traditions, with authors such as Cædmon, Bede, Cynewulf and Aldhelm.
+
+Late Old English (c. 900 to 1066), the final stage of the language leading up to the Norman conquest of England and the subsequent transition to Early Middle English. The Old English period is followed by Middle English (12th to 15th century), Early Modern English (c. 1480 to 1650) and finally Modern English (after 1650).
+
+2. Influence of other languages
+
+In the course of the Early Middle Ages, Old English assimilated some aspects of a few languages with which it came in contact, such as the two dialects of Old Norse from the contact with the Norsemen or "Danes" who by the late 9th century controlled large tracts of land in northern and eastern England, which came to be known as the Danelaw.
+
+2.1. Latin influence
+
+A large percentage of the educated and literate population of the time were competent in Latin, which was the scholarly and diplomatic lingua franca of Europe. It is sometimes possible to give approximate dates for the entry of individual Latin words into Old English based on which patterns of linguistic change they have undergone. There were at least three notable periods of Latin influence. The first occurred before the ancestral Angles and Saxons left continental Europe for Britain. The second began when the Anglo-Saxons were converted to Christianity and Latin-speaking priests became widespread. See Latin influence in English: Early Middle Ages for details.
+
+The third and largest single transfer of Latin-based words happened after the Norman Conquest of 1066, when an enormous number of Norman (Old French) words began to influence the language. Most of these Oïl language words were themselves derived from Old French and ultimately from classical Latin, although a notable stock of Norse words were introduced or re-introduced in Norman form. The Norman Conquest approximately marks the end of Old English and the advent of Middle English.
+
+One of the ways the influence of Latin can be seen is that many Latin words for activities came to also be used to refer to the people engaged in those activities, an idiom carried over from Anglo-Saxon but using Latin words. This can be seen in words like militia, assembly, movement, and service.
+
+The language was further altered by the transition away from the runic alphabet (also known as futhorc or fuþorc) to the Latin alphabet, which was also a significant factor in the developmental pressures brought to bear on the language. Old English words were spelled, more or less, as they were pronounced. Often, the Latin alphabet fell short of being able to adequately represent Anglo-Saxon phonetics. Spellings, therefore, can be thought of as best-attempt approximations of how the language actually sounded.
+
+The "silent" letters in many Modern English words were pronounced in Old English: for example, the c and h in cniht, the Old English ancestor of the modern knight, were pronounced. Another side-effect of spelling Old English words phonetically using the Latin alphabet was that spelling was extremely variable. A word's spelling could also reflect differences in the phonetics of the writer's regional dialect. Words also endured idiosyncratic spelling choices of individual authors, some of whom varied spellings between works. Thus, for example, the word and could be spelt either and or ond.
+
+2.2. Norse influence
+
+The second major source of loanwords to Old English were the Scandinavian words introduced during the Viking invasions of the 9th and 10th centuries. In addition to a great many place names, these consist mainly of items of basic vocabulary, and words concerned with particular administrative aspects of the Danelaw (that is, the area of land under Viking control, which included extensive holdings all along the eastern coast of England and Scotland).
+
+The Vikings spoke Old Norse, a language related to Old English in that both derived from the same ancestral Proto-Germanic language. It is very common for the intermixing of speakers of different dialects, such as those that occur during times of political unrest, to result in a mixed language, and one theory holds that exactly such a mixture of Old Norse and Old English helped accelerate the decline of case endings in Old English.
+
+Apparent confirmation of this is the fact that simplification of the case endings occurred earliest in the north and latest in the south-west, the area farthest away from Viking influence. Regardless of the truth of this theory, the influence of Old Norse on the lexicon of the English language has been profound: responsible for such basic vocabulary items as sky, leg, the pronoun they, the verb form are, and hundreds of other words.
+
+2.3. Celtic influence
+
+Traditionally, and following the Anglo-Saxon preference prevalent in the 19th century, many maintain that the influence of Brythonic Celtic on English has been small, citing the small number of Celtic loanwords taken into the language. The number of Celtic loanwords is of a lower order than either Latin or Scandinavian. However, a more recent and still minority view is that distinctive Celtic traits can be discerned in syntax from the post-Old English period, such as the regular progressive construction and analytic word order in opposition to the Germanic languages.
+
+3. Dialects
+
+Old English should not be regarded as a single monolithic entity just as Modern English is also not monolithic. It emerged over time out of the many dialects and languages of the colonising tribes, and it was not until the later Anglo-Saxon period that they fused together into Old English. Even then, it continued to exhibit local language variation, remnants of which remain in Modern English dialects.
+
+Thus it is misleading, for example, to consider Old English as having a single sound system. Rather, there were multiple Old English sound systems. Old English has variation along regional lines as well as variation across different times.
+
+For example, the language attested in Wessex during the time of Æthelwold of Winchester, which is named Late West Saxon (or Æthelwoldian Saxon), is considerably different from the language attested in Wessex during the time of Alfred the Great's court, which is named Early West Saxon (or Classical West Saxon or Alfredian Saxon). Furthermore, the difference between Early West Saxon and Late West Saxon is of such a nature that Late West Saxon is not directly descended from Early West Saxon (despite what the similarity in name implies).
+
+The four main dialectal forms of Old English were Mercian, Northumbrian, Kentish, and West Saxon. Each of those dialects was associated with an independent kingdom on the island. Of these, Northumbria south of the Tyne and most of Mercia were overrun by the Vikings during the 9th century. The portion of Mercia that was successfully defended and all of Kent were then integrated into Wessex.
+
+After the process of unification of the diverse Anglo-Saxon kingdoms in 878 by Alfred the Great, there is a marked decline in the importance of regional dialects. This is not because they stopped existing, as evidenced both by the existence of Middle and later Modern English dialects.
+
+However, the bulk of the surviving documents from the Anglo-Saxon period are written in the dialect of Wessex, Alfred's kingdom. It seems likely that with consolidation of power, it became necessary to standardise the language of government to reduce the difficulty of administering the more remote areas of the kingdom. As a result, documents were written in the West Saxon dialect. Not only this, but Alfred was passionate about the spread of the vernacular, and brought many scribes to his region from Mercia to record previously unwritten texts.
+
+The Church was affected likewise, especially since Alfred initiated an ambitious programme to translate religious materials into English. To retain his patronage and ensure the widest circulation of the translated materials, the monks and priests engaged in the programme worked in his dialect. Alfred himself seems to have translated books out of Latin and into English, notably Pope Gregory I's treatise on administration, Pastoral Care.
+
+Because of the centralisation of power and the Viking invasions, there is little or no written evidence for the development of non-Wessex dialects after Alfred's unification.
+
+Thomas Spencer Baynes claimed in 1856 that, owing to its position at the heart of the Kingdom of Wessex, the relics of Anglo-Saxon accent, idiom and vocabulary were best preserved in the Somerset dialect.
+
+Even after the maximum Anglo-Saxon expansion, Old English was never spoken all over the Kingdom of England; not only was Medieval Cornish spoken all over Cornwall, it was also spoken in adjacent parts of Devon into the age of the Plantagenets, long after the Norman Conquest. Cumbric may have survived into the 12th century in parts of Cumbria and Welsh may have been spoken on the English side of the Anglo-Welsh border. In addition to the Celtic languages, Norse was spoken in some areas under Danish law.
+
+4. Phonology
+
+The inventory of classical Old English (i.e. Late West Saxon) surface phones, as usually reconstructed, is as follows.
+
+The sounds marked in parentheses in the chart above are allophones:
+
+is an allophone of occurring after and when geminated
+
+is an allophone of occurring before and
+
+are allophones of respectively, occurring between vowels or voiced consonants
+
+are allophones of occurring in coda position after front and back vowels respectively
+
+is an allophone of occurring after a vowel, and, at an earlier stage of the language, in the syllable onset. The front mid rounded vowels occur in some dialects of Old English, but not in the best attested Late West Saxon dialect.
+
+Vowels were not the only letters and sounds different from Modern English. In Old English, c always sounded like the modern k, never that of s. G sounded like the y in yes when it was before or after a palatal vowel or any diphthong, but it sounded approximately like the g in go when it was before or after a guttural vowel or a mixed vowel.
+
+Letters that are present in Modern English but are completely absent from Old English include j, q, v, and z. The letter k was used, but only rarely.
+
+5. Sound changes
+
+The sound change in "one" is, however, somewhat reminiscent of other cases of "smearing" or breaking of short o, as in Spanish fuerte, puerto, (originally forte, porto, as in Italian), as well as in Kashubian, where the letter ò also represents /wɛ/.
+
+6. Grammar
+
+6.1. Morphology
+
+Unlike Modern English, Old English is a language rich with morphological diversity. It maintains several distinct cases: the nominative, accusative, genitive, dative and (vestigially) instrumental. The only remnants of this system in Modern English are in a few pronouns (the meanings of I (nominative) my (genitive) and me (accusative/dative) in the first person provide an example) and in the possessive ending "-'s", which derives from the genitive ending "-es".
+
+The verb identifies person, number, tense, and mood. Verbs have three moods (Indicative, Subjunctive, and Imperative). They have two numbers (Singular and Plural), three genders (Masculine, Feminine, and Neuter), and only two synthetic tenses (simple present and simple past). Old English grammar also does not contain a synthetic passive. However, Old English does occasionally use compound constructions to express other verbal aspects, the future and the passive voice; in these we see the beginnings of the compound tenses of Modern English.
+
+Old English verbs are separated into two categories according to how they form tenses. Strong verbs change tense by altering the root vowel (like irregular verbs in Modern English) and weak verbs change tense by adding a suffix to the end of the verb (like the –ed or -s in regular verbs in Modern English). Throughout time, however, most of the strong verbs of Old English had either shifted into regular verbs in Modern English or disappeared from the English language altogether. According to linguist Edward Finegan, the number of strong verbs in English has dropped from 333, including "burn" and "help", to 68 irregular verbs today, though conversely, there are also a few weak verbs that have shifted into irregular form, such as "dive" and "wear", and there are also some verbs which have debatable regularity status, such as "sneaked" and "snuck" for "sneak". In comparison to Modern English, Old English had far more irregularity in verb conjugation.
+
+6.2. Syntax
+
+Old English syntax was similar in many ways to that of modern English. However, there were some important differences. Some were simply consequences of the greater level of nominal and verbal inflection – e.g., word order was generally freer. In addition:
+
+The default word order was verb-second and more like modern German than modern English.
+
+There was no do-support in questions and negatives.
+
+Multiple negatives could stack up in a sentence, and intensified each other (negative concord), which is not always the case in modern English.
+
+Sentences with subordinate clauses of the type "when X, Y" (e.g. "When I got home, I ate dinner") did not use a wh-type conjunction, but rather used a th-type correlative conjunction (e.g. þā X, þā Y in place of "when X, Y"). The wh-type conjunctions were used only as interrogative pronouns and indefinite pronouns.
+
+Similarly, wh- forms were not used as relative pronouns (as in "the man who saw me" or "the car that I bought"). Instead, an indeclinable word þe was used, often in conjunction with the definite article (which was declined for case, number and gender).
+
+7. Orthography
+
+Old English was first written in runes (futhorc) but shifted to a (minuscule) half-uncial script of the Latin alphabet introduced by Irish Christian missionaries from around the 9th century. This was replaced by insular script, a cursive and pointed version of the half-uncial script. This was used until the end of the 12th century when continental Carolingian minuscule (also known as Caroline) replaced the insular.
+
+The letter ðæt (called eth or edh in modern English) was an alteration of Latin , and the runic letters thorn and wynn are borrowings from futhorc. Also used was a symbol for the conjunction and, a character similar to the number seven (, called a Tironian note), and a symbol for the relative pronoun þæt, a thorn with a crossbar through the ascender (). Macrons over vowels were rarely used to indicate long vowels. Also used occasionally were abbreviations for a following m or n. All of the sound descriptions below are given using IPA symbols.
+
+7.1. Conventions of modern editions
+
+A number of changes are traditionally made in published modern editions of the original Old English manuscripts. Some of these conventions include the introduction of punctuation and the substitutions of symbols. The symbols , , , , are used in modern editions, although their shapes in the insular script are considerably different. The long s is substituted by its modern counterpart . Insular is usually substituted with its modern counterpart (which is ultimately a Carolingian symbol).
+
+Additionally, modern editions often distinguish between a velar and palatal and with diacritic dots above the putative palatals: , . The wynn symbol is usually replaced with . Macrons are usually found in modern editions to indicate putative long vowels, while they are usually lacking in the originals. In older printed editions of Old English works, an acute accent mark was used to maintain cohesion between Old English and Old Norse printing.
+
+The alphabetical symbols found in Old English writings and their substitute symbols found in modern editions are listed below:
+
+Doubled consonants are geminated; the geminate fricatives /, and cannot be voiced.
+
+8. Literature
+
+Old English literature, though more abundant than literature of the continent before AD 1000 is nonetheless scant. In his supplementary article to the 1935 posthumous edition of Bright's Anglo-Saxon Reader, Dr. James Hulbert writes:
+
+Some of the most important surviving works of Old English literature are Beowulf, an epic poem; the Anglo-Saxon Chronicle, a record of early English history; the Franks Casket, an inscribed early whalebone artefact; and Caedmon's Hymn, a Christian religious poem. There are also a number of extant prose works, such as sermons and saints' lives, biblical translations, and translated Latin works of the early Church Fathers, legal documents, such as laws and wills, and practical works on grammar, medicine, and geography. Still, poetry is considered the heart of Old English literature. Nearly all Anglo-Saxon authors are anonymous, with a few exceptions, such as Bede and Caedmon.
+
+9. Text samples
+
+9.1. Beowulf
+
+The first example is taken from the opening lines of the epic poem Beowulf. This passage describes how Hrothgar's legendary ancestor Scyld was found as a baby, washed ashore, and adopted by a noble family. The translation is literal and represents the original poetic word order. As such, it is not typical of Old English prose. The modern cognates of original words have been used whenever practical to give a close approximation of the feel of the original poem.
+
+The words in brackets are implied in the Old English by noun case and the bold words in brackets are explanations of words that have slightly different meanings in a modern context. Notice how what is used by the poet where a word like lo or behold would be expected. This usage is similar to what-ho!, both an expression of surprise and a call to attention.
+
+A semi-fluent translation in Modern English would be:
+
+Lo! We have heard of majesty of the Spear-Danes, of those nation-kings in the days of yore, and how those noblemen promoted zeal. Scyld Scefing took away mead-benches from bands of enemies, from many tribes; he terrified earls. Since he was first found destitute (he gained consolation for that) he grew under the heavens, prospered in honours, until each of those who lived around him over the sea had to obey him, give him tribute. That was a good king!
+
+9.2. The Lord's Prayer
+
+This text of the Lord's Prayer is presented in the standardised West Saxon literary dialect, with added macrons for vowel length, markings for probable palatalized consonants, modern punctuation, and the replacement of the letter wynn with w.
+
+9.3. Charter of Cnut
+
+This is a proclamation from King Cnut the Great to his earl Thorkell the Tall and the English people written in AD 1020. Unlike the previous two examples, this text is prose rather than poetry. For ease of reading, the passage has been divided into sentences while the pilcrows represent the original division.
+
+10. Old English as a living language
+
+Like other historical languages, Old English has been used by scholars and enthusiasts of later periods to create texts either imitating Anglo-Saxon literature or deliberately transferring it to a different cultural context. Examples include Alistair Campbell and J. R. R. Tolkien. A number of websites devoted to Neo-Paganism and Historical Reenactment offer reference material and forums promoting the active use of Old English. By far the most ambitious project is the Old English Wikipedia, but most of the Neo-Old English texts published online bear little resemblance to the historical model and are riddled with very basic grammatical mistakes.
+
+11. See also
+
+Exeter Book
+
+Go (verb)
+
+History of the Scots language
+
+I-mutation
+
+Ingvaeonic nasal spirant law Anglo-Frisian nasal spirant law
+
+List of generic forms in place names in the United Kingdom and Ireland
+
+List of Germanic and Latinate equivalents in English
+
+12. Notes
+
+13. Bibliography
+
+13.1. Sources
+
+Whitelock, Dorothy (ed.) (1955) English Historical Documents; vol. I: c. 500–1042. London: Eyre & Spottiswoode
+
+13.2. General
+
+Baugh, Albert C; & Cable, Thomas. (1993). A History of the English Language (4th ed.). London: Routledge.
+
+Campbell, A. (1959). Old English Grammar. Oxford: Clarendon Press.
+
+(Reissue of one of 4 eds. 1877–1902)
+
+Euler, Wolfram (2013). Das Westgermanische [rest of title missing] (West Germanic: from its Emergence in the 3rd up until its Dissolution in the 7th Century CE: Analyses and Reconstruction). 244 p., in German with English summary, London/Berlin 2013, ISBN 978-3-9812110-7-8.
+
+Hogg, Richard M. (ed.). (1992). The Cambridge History of the English Language: (Vol 1): the Beginnings to 1066. Cambridge: Cambridge University Press.
+
+Hogg, Richard; & Denison, David (eds.) (2006) A History of the English Language. Cambridge: Cambridge University Press.
+
+Jespersen, Otto (1909–1949) A Modern English Grammar on Historical Principles. 7 vols. Heidelberg: C. Winter & Copenhagen: Ejnar Munksgaard
+
+Lass, Roger (1987) The Shape of English: structure and history. London: J. M. Dent & Sons
+
+Quirk, Randolph; & Wrenn, C. L. (1957). An Old English Grammar (2nd ed.) London: Methuen.
+
+Ringe, Donald R. and Taylor, Ann (2014). The Development of Old English - A Linguistic History of English, vol. II, 632p. ISBN 978-0199207848. Oxford.
+
+Strang, Barbara M. H. (1970) A History of English. London: Methuen.
+
+13.3. External history
+
+Bremmer Jr, Rolf H. (2009). An Introduction to Old Frisian. History, Grammar, Reader, Glossary. Amsterdam and Philadelphia: John Benjamins.
+
+Stenton, F. M. (1971). Anglo-Saxon England (3rd ed.). Oxford: Clarendon Press.
+
+13.4. Orthography/Palaeography
+
+Bourcier, Georges. (1978). L'orthographie de l'anglais: Histoire et situation actuelle. Paris: Presses Universitaires de France.
+
+Elliott, Ralph W. V. (1959). Runes: An introduction. Manchester: Manchester University Press.
+
+Keller, Wolfgang. (1906). Angelsächsische Paleographie, I: Einleitung. Berlin: Mayer & Müller.
+
+Ker, N. R. (1957). A Catalogue of Manuscripts Containing Anglo-Saxon. Oxford: Clarendon Press.
+
+Ker, N. R. (1957: 1990). A Catalogue of Manuscripts Containing Anglo-Saxon; with supplement prepared by Neil Ker originally published in Anglo-Saxon England; 5, 1957. Oxford: Clarendon Press ISBN 0-19-811251-3
+
+Page, R. I. (1973). . London: Methuen.
+
+Scragg, Donald G. (1974). A History of English Spelling. Manchester: Manchester University Press.
+
+13.5. Phonology
+
+Anderson, John M; & Jones, Charles. (1977). Phonological structure and the history of English. North-Holland linguistics series (No. 33). Amsterdam: North-Holland.
+
+Brunner, Karl. (1965). Altenglische Grammatik (nach der angelsächsischen Grammatik von Eduard Sievers neubearbeitet) (3rd ed.). Tübingen: Max Niemeyer.
+
+Campbell, A. (1959). Old English Grammar. Oxford: Clarendon Press.
+
+Cercignani, Fausto (1983). "The Development of */k/ and */sk/ in Old English". Journal of English and Germanic Philology, 82 (3): 313–323.
+
+Girvan, Ritchie. (1931). Angelsaksisch Handboek; E. L. Deuschle (transl.). (Oudgermaansche Handboeken; No. 4). Haarlem: Tjeenk Willink.
+
+Halle, Morris; & Keyser, Samuel J. (1971). English Stress: its form, its growth, and its role in verse. New York: Harper & Row.
+
+Hogg, Richard M. (1992). A Grammar of Old English, I: Phonology. Oxford: Basil Blackwell.
+
+Kuhn, Sherman M. (1970). "On the consonantal phonemes of Old English". In: J. L. Rosier (ed.) Philological Essays: studies in Old and Middle English language and literature in honour of Herbert Dean Merritt (pp. 16–49). The Hague: Mouton.
+
+Lass, Roger; & Anderson, John M. (1975). Old English Phonology. (Cambridge studies in linguistics; No. 14). Cambridge: Cambridge University Press.
+
+Luick, Karl. (1914–1940). Historische Grammatik der englischen Sprache. Stuttgart: Bernhard Tauchnitz.
+
+Moulton, W. G. (1972). "The Proto-Germanic non-syllabics (consonants)". In: F. van Coetsem & H. L. Kufner (Eds.), Toward a Grammar of Proto-Germanic (pp. 141–173). Tübingen: Max Niemeyer.
+
+Sievers, Eduard (1893). Altgermanische Metrik. Halle: Max Niemeyer.
+
+Wagner, Karl Heinz (1969). Generative Grammatical Studies in the Old English language. Heidelberg: Julius Groos.
+
+13.6. Morphology
+
+Brunner, Karl. (1965). Altenglische Grammatik (nach der angelsächsischen Grammatik von Eduard Sievers neubearbeitet) (3rd ed.). Tübingen: Max Niemeyer.
+
+Campbell, A. (1959). Old English grammar. Oxford: Clarendon Press.
+
+Wagner, Karl Heinz. (1969). Generative grammatical studies in the Old English language. Heidelberg: Julius Groos.
+
+13.7. Syntax
+
+Brunner, Karl. (1962). Die englische Sprache: ihre geschichtliche Entwicklung (Vol. II). Tübingen: Max Niemeyer.
+
+Kemenade, Ans van. (1982). Syntactic Case and Morphological Case in the History of English. Dordrecht: Foris.
+
+MacLaughlin, John C. (1983). Old English Syntax: a handbook. Tübingen: Max Niemeyer.
+
+Mitchell, Bruce. (1985). Old English Syntax (Vols. 1–2). Oxford: Clarendon Press (no more published)
+
+Vol.1: Concord, the parts of speech and the sentence
+
+Vol.2: Subordination, independent elements, and element order
+
+Mitchell, Bruce. (1990) A Critical Bibliography of Old English Syntax to the end of 1984, including addenda and corrigenda to "Old English Syntax" . Oxford: Blackwell
+
+Timofeeva, Olga. (2010) Non-finite Constructions in Old English, with Special Reference to Syntactic Borrowing from Latin, PhD dissertation, Mémoires de la Société Néophilologique de Helsinki, vol. LXXX, Helsinki: Société Néophilologique.
+
+Traugott, Elizabeth Closs. (1972). A History of English Syntax: a transformational approach to the history of English sentence structure. New York: Holt, Rinehart & Winston.
+
+Visser, F. Th. (1963–1973). An Historical Syntax of the English Language (Vols. 1–3). Leiden: E. J. Brill.
+
+13.8. Lexicons
+
+;Bosworth-Toller
+
+Bosworth, J; & Toller, T. Northcote. (1898). An Anglo-Saxon Dictionary. Oxford: Clarendon Press. (Based on Bosworth's 1838 dictionary, his papers & additions by Toller)
+
+Toller, T. Northcote. (1921). An Anglo-Saxon Dictionary: Supplement. Oxford: Clarendon Press.
+
+Campbell, A. (1972). An Anglo-Saxon Dictionary: Enlarged addenda and corrigenda. Oxford: Clarendon Press. ;Clark Hall-Merritt
+
+Clark Hall, J. R; & Merritt, H. D. (1969). A Concise Anglo-Saxon Dictionary (4th ed.). Cambridge: Cambridge University Press. ;Toronto
+
+Cameron, Angus, et al. (ed.) (1983) Dictionary of Old English. Toronto: Published for the Dictionary of Old English Project, Centre for Medieval Studies, University of Toronto by the Pontifical Institute of Medieval Studies, 1983/1994. (Issued on microfiche and subsequently as a CD-ROM and on the .)
+
+14. External links
+
+(Unicode, HTML entities, etc.)
+
+(video link)

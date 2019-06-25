@@ -1,0 +1,115 @@
+Pioneer 11 (also known as Pioneer G) is a 259 kilogram (569 lb) robotic space probe launched by NASA on April 6, 1973 to study the asteroid belt, the environment around Jupiter and Saturn, solar wind, cosmic rays, and eventually the far reaches of the solar system and heliosphere. It was the first probe to encounter Saturn and the second to fly through the asteroid belt and by Jupiter. Due to power constraints and the vast distance to the probe, last contact with the spacecraft was on September 30, 1995.
+
+1. Mission background
+
+1.1. History
+
+Approved in February 1969, Pioneer 11 and its twin probe Pioneer 10 were the first to be designed for exploring the outer solar system. Yielding to multiple proposals throughout the 1960s, early mission objectives were defined as:
+
+Explore the interplanetary medium beyond the orbit of Mars
+
+Investigate the nature of the asteroid belt from the scientific standpoint and assess the belt's possible hazard to missions to the outer planets.
+
+Explore the environment of Jupiter. Subsequent planning for an encounter with Saturn added many more goals:
+
+Map the magnetic field of Saturn and determine its intensity, direction, and structure.
+
+Determine how many electrons and protons of various energies are distributed along the trajectory of the spacecraft through the Saturn system.
+
+Map the interaction of the Saturn system with the solar wind.
+
+Measure the temperature of Saturn's atmosphere and that of Titan, the largest satellite of Saturn.
+
+Determine the structure of the upper atmosphere of Saturn where molecules are expected to be electrically charged and form an ionosphere.
+
+Map the thermal structure of Saturn's atmosphere by infrared observations coupled with radio occultation data.
+
+Obtain spin-scan images of the Saturnian system in two colors during the encounter sequence and polarimetry measurements of the planet.
+
+Probe the ring system and the atmosphere of Saturn with S-band radio occultation.
+
+Determine more precisely the masses of Saturn and its larger satellites by accurate observations of the effects of their gravitational fields on the motion of the spacecraft.
+
+As a precursor to the Mariner Jupiter/Saturn mission, verify the environment of the ring plane to find out where it may be safely crossed by the Mariner spacecraft without serious damage. Pioneer 11 was built by TRW and managed as part of the Pioneer program by NASA Ames Research Center. A backup unit, Pioneer H, is currently on display in the "Milestones of Flight" exhibit at the National Air and Space Museum in Washington, D.C.. Many elements of the mission proved to be critical in the planning of the Voyager Program.
+
+1.2. Spacecraft design
+
+The Pioneer 11 bus measured 36 centimeters deep and with six 76-centimeters-long panels forming the hexagonal structure. The bus housed propellant to control the orientation of the probe and eight of the twelve scientific instruments. The spacecraft had a mass of 260 kilograms.
+
+1.2.1. Attitude control and propulsion
+
+1.2.2. Communications
+
+1.2.3. Power
+
+1.2.4. Computer
+
+1.2.5. Scientific instruments
+
+2. Mission profile
+
+2.1. Launch and trajectory
+
+The Pioneer 11 probe was launched on April 6, 1973 at 02:11:00 UTC, by the National Aeronautics and Space Administration from Space Launch Complex 36A at Cape Canaveral, Florida aboard an Atlas-Centaur launch vehicle. Its twin probe, Pioneer 10, had launched a year earlier on March 3, 1972. Pioneer 11 was launched on a trajectory directly aimed at Jupiter without any prior gravitational assists.
+
+2.2. Encounter with Jupiter
+
+Pioneer 11 flew past Jupiter in November and December 1974. During its closest approach, on December 2, Pioneer 11 passed above the cloud tops. The probe obtained detailed images of the Great Red Spot, transmitted the first images of the immense polar regions, and determined the mass of Jupiter's moon Callisto. Using the gravitational pull of Jupiter, a gravity assist was used to alter the trajectory of the probe towards Saturn.
+
+2.3. Saturn encounter
+
+Pioneer 11 passed by Saturn on September 1, 1979, at a distance of 21,000 km from Saturn's cloud tops.
+
+By this time Voyager 1 and Voyager 2 had already passed Jupiter and were also en route to Saturn, so it was decided to target Pioneer 11 to pass through the Saturn ring plane at the same position that the soon-to-come Voyager probes would use in order to test the route before the Voyagers arrived. If there were faint ring particles that could damage a probe in that area, mission planners felt it was better to learn about it via Pioneer. Thus, Pioneer 11 was acting as a "pioneer" in a true sense of the word; if danger was detected, then the Voyager probes could be rerouted further away from the rings, but missing the opportunity to visit Uranus and Neptune in the process.
+
+Pioneer 11 imaged and nearly collided with one of Saturn's small moons, passing at a distance of no more than . The object was tentatively identified as Epimetheus, a moon discovered the previous day from Pioneer's imaging, and suspected from earlier observations by Earth-based telescopes. After the Voyager flybys, it became known that there are two similarly-sized moons (Epimetheus and Janus) in the same orbit, so there is some uncertainty about which one was the object of Pioneer's near-miss. Pioneer 11 encountered Janus on September 1, 1979 at 14:52 UTC at a distance of 2500 km and Mimas at 16:20 UTC the same day at 103000 km.
+
+Besides Epimetheus, instruments located another previously undiscovered small moon and an additional ring, charted Saturn's magnetosphere and magnetic field and found its planet-size moon, Titan, to be too cold for life. Hurtling underneath the ring plane, Pioneer 11 sent back pictures of Saturn's rings. The rings, which normally seem bright when observed from Earth, appeared dark in the Pioneer pictures, and the dark gaps in the rings seen from Earth appeared as bright rings.
+
+2.4. Interstellar mission
+
+2.4.1. Pioneer anomaly
+
+Analysis of the radio tracking data from the Pioneer 10 and 11 spacecraft at distances between 20–70 AU from the Sun has consistently indicated the presence of a small but anomalous Doppler frequency drift. The drift can be interpreted as due to a constant acceleration of directed towards the Sun. Although it is suspected that there is a systematic origin to the effect, none was found. As a result, there is sustained interest in the nature of this so-called "Pioneer anomaly". Extended analysis of mission data by Slava Turyshev and colleagues has determined the source of the anomaly to be asymmetric thermal radiation and the resulting thermal recoil force acting on the face of the Pioneers away from the Sun, and in July 2012 the group of researchers published their results in a scientific journal.
+
+2.5. NASA ends operations
+
+On September 29, 1995, NASA's Ames Research Center, responsible for managing the project, issued a press release that began, "After nearly 22 years of exploration out to the farthest reaches of the Solar System, one of the most durable and productive space missions in history will come to a close." It indicated NASA would use its Deep Space Network antennas to listen "once or twice a month" for the spacecraft's signal, until "some time in late 1996" when "its transmitter will fall silent altogether." NASA Administrator Daniel Goldin characterized Pioneer 11 as "the little spacecraft that could, a venerable explorer that has taught us a great deal about the Solar System and, in the end, about our own innate drive to learn. Pioneer 11 is what NASA is all about 舑 exploration beyond the frontier." Besides announcing the end of operations, the dispatch provided a historical list of Pioneer 11 mission achievements.
+
+3. Current status
+
+On September 9, 2012, Pioneer 11 was from the Earth and from the Sun; and traveling at (relative to the Sun) and traveling outward at about 2.400 AU per year. Sunlight takes 11.92 hours to get to Pioneer 11. The brightness of the Sun from the spacecraft is magnitude -17.0. Pioneer 11 is heading in the direction of the constellation Scutum.
+
+Pioneer 11 has now been overtaken by the two Voyager probes, launched in 1977, and Voyager 1 is now the most distant object built by humans.
+
+3.1. Pioneer plaque
+
+Pioneer 10 and Pioneer 11 carry a gold-anodized aluminum plaque in the event that either spacecraft is ever found by intelligent lifeforms from other planetary systems. The plaques feature the nude figures of a human male and female along with several symbols that are designed to provide information about the origin of the spacecraft.
+
+4. See also
+
+Cassini–Huygens
+
+New Horizons
+
+Pioneer 10
+
+S band
+
+Unmanned space missions
+
+Voyager 1
+
+Voyager 2
+
+Voyager program
+
+List of artificial objects escaping from the Solar System
+
+5. References
+
+6. External links
+
+by
+
+- This is an entire book about the Pioneer 10 and 11 project, with all pictures and diagrams, on-line! Scroll down to click on the "Table of Contents" link.

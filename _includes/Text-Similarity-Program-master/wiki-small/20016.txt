@@ -1,0 +1,33 @@
+Myrinet, ANSI/VITA 26-1998, is a high-speed local area networking system designed by Myricom to be used as an interconnect between multiple machines to form computer clusters. Myrinet has much lower protocol overhead than standards such as Ethernet, and therefore provides better throughput, less interference, and lower latency while using the host CPU. Although it can be used as a traditional networking system, Myrinet is often used directly by programs that "know" about it, thereby bypassing a call into the operating system.
+
+Myrinet physically consists of two fibre optic cables, upstream and downstream, connected to the host computers with a single connector. Machines are connected via low-overhead routers and switches, as opposed to connecting one machine directly to another. Myrinet includes a number of fault-tolerance features, mostly backed by the switches. These include flow control, error control, and "heartbeat" monitoring on every link. The newest, "fourth-generation" Myrinet, called Myri-10G, supports a 10 Gbit/s data rate and is interoperable with 10 Gigabit Ethernet on PHY, the physical layer (cables, connectors, distances, signaling). Myri-10G started shipping at the end of 2005.
+
+1. Performance
+
+Myrinet is a lightweight protocol with little overhead that allows it to operate with throughput close to the basic signaling speed of the physical layer. On the latest 2.0 Gbit/s links, Myrinet often runs at 1.98 Gbit/s of sustained throughput, considerably better than what Ethernet offers, which varies from 0.6 to 1.9 Gbit/s, depending on load. However, for supercomputing, the low latency of Myrinet is even more important than its throughput performance, since, according to Amdahl's law, a high-performance parallel system tends to be bottlenecked by its slowest sequential process, which in all but the most embarrassingly parallel supercomputer workloads is often the latency of message transmission across the network.
+
+2. Deployment
+
+According to Myricom, 141 (28.2%) of the June 2005 TOP500 supercomputers used Myrinet technology. In the November 2005 TOP500, the number of supercomputers using Myrinet was down to 101 computers, or 20.2%, in November 2006, 79 (15.8%), and by November 2007, 18 (3.6%), a long way behind gigabit Ethernet at 54% and Infiniband at 24.2%.
+
+In the latest TOP500 list (June 2014), the number of supercomputers using Myrinet interconnect is 1 (0.2%).
+
+3. See also
+
+HIPPI
+
+Infiniband
+
+List of device bandwidths
+
+NUMAlink
+
+Q&shy;rics
+
+RapidIO
+
+Scalable Coherent Interconnect (SCI)
+
+4. References
+
+5. External links

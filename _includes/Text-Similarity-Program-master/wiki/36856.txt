@@ -1,0 +1,131 @@
+Vertebrates are animals that are any species of animals within the subphylum Vertebrata (chordates with backbones). Vertebrates represent the overwhelming majority of the phylum Chordata, with currently about 64,000 species described. Vertebrates include the jawless fish and the jawed vertebrates, which includes the cartilaginous fish (sharks and rays) and the bony fish. A bony fish clade known as the lobe-finned fishes includes the tetrapods, which are divided into amphibians, reptiles, mammals, and birds. Extant vertebrates range in size from the frog species Paedophryne amauensis, at as little as , to the blue whale, at up to . Vertebrates make up about 4% of all described animal species; the rest are invertebrates, which lack backbones.
+
+The vertebrates traditionally include the hagfish, which do not have proper vertebrae, though their closest living relatives, the lampreys, do. Hagfish do, however, possess a cranium. For this reason, the vertebrate subphylum is sometimes referred to as "Craniata" when discussing morphology. Molecular analysis since 1992 has suggested that the hagfish are most closely related to lampreys, and so also are vertebrates in a monophyletic sense. Others consider them a sister group of vertebrates in the common taxon of Craniata.
+
+1. Etymology
+
+The word vertebrate derives from the Latin word vertebratus (Pliny), meaning joint of the spine. It is closely related to the word vertebra, which refers to any of the bones or segments of the spinal column.
+
+2. Anatomy and morphology
+
+All vertebrates are built along the basic chordate body plan: a stiff rod running through the length of the animal (vertebral column or notochord), with a hollow tube of nervous tissue (the spinal cord) above it and the gastrointestinal tract below. In all vertebrates, the mouth is found at, or right below, the anterior end of the animal, while the anus opens to the exterior before the end of the body. The remaining part of the body continuing after of the anus forms a tail with vertebrae and spinal cord, but no gut.
+
+2.1. Vertebral column
+
+The defining characteristic of a vertebrate is the vertebral column, in which the notochord (a stiff rod of uniform composition) found in all chordates has been replaced by a segmented series of stiffer elements (vertebrae) separated by mobile joints (intervertebral discs, derived embryonically and evolutionarily from the notochord). However, a few vertebrates have secondarily lost this anatomy, retaining the notochord into adulthood, such as the sturgeon and the Latimeria. Jawed vertebrates are typified by paired appendages (fins or legs, which may be secondarily lost), but this is not part of the definition of vertebrates as a whole.
+
+2.2. Gills
+
+All basal vertebrates breathe with gills. The gills are carried right behind the head, bordering the posterior margins of a series of openings from the esophagus to the exterior. Each gill is supported by a cartilagenous or bony gill arch. The bony fish have three pairs of arches, cartilaginous fish have five to seven pairs, while the primitive jawless fish have seven. The vertebrate ancestor no doubt had more arches, as some of their chordate relatives have more than 50 pairs of gills.
+
+In amphibians and some primitive bony fishes, the larvae bear external gills, branching off from the gill arches. These are reduced in adulthood, their function taken over by the gills proper in fishes and by lungs in most amphibians. Some amphibans retain the external larval gills in adulthood, the complex internal gill system as seen in fish apparently being irrevocably lost very early in the evolution of tetrapods.
+
+While the higher vertebrates do not have gills, the gill arches form during fetal development, and lay the basis of essential structures such as jaws, the thyroid gland, the larynx, the columella (corresponding to the stapes in mammals) and in mammals the malleus and incus.
+
+2.3. Central nervous system
+
+The central nervous system of vertebrates is based on a hollow nerve cord running along the length of the animal. Of particular importance and unique to vertebrates is the presence of neural crest cells. These are progenitors of stem cells, and critical to coordinating the functions of cellular components. Neural crest cells migrate through the body from the nerve cord during development, and initiate the formation of neural ganglia and structures such as the jaws and skull.
+
+The vertebrates are the only chordate group to exhibit cephalisation, the concentration of brain functions in the head. A slight swelling of the anterior end of the nerve cord is found in the lancelet, though it lacks the eyes and other complex sense organs comparable to those of vertebrates. Other chordates do not show any trends towards cephalisation.
+
+A peripheral nervous system branches out from the nerve cord to innervate the various systems. The front end of the nerve tube is expanded by a thickening of the walls and expansion of the central canal of spinal cord into three primary brain vesicles: The prosencephalon (forebrain), mesencephalon (midbrain) and rhombencephalon (hindbrain), further differentiated in the various vertebrate groups. Two laterally placed eyes form around outgrows from the midbrain, except in hagfish, though this may be a secondary loss. The forebrain is well developed and subdivided in most tetrapods, while the midbrain dominate in many fish and some salamanders. Vesicles of the forebrain are usually paired, giving rise to hemispheres like the cerebral hemispheres in mammals.
+
+The resulting anatomy of the central nervous system, with a single hollow nerve cord topped by a series of (often paired) vesicles, is unique to vertebrates. All invertebrates with well-developed brains, such as insects, spiders and squids, have a ventral rather than dorsal system of ganglions, with a split brain stem running on each side of the mouth or gut.
+
+3. Evolutionary history
+
+3.1. First vertebrates
+
+Vertebrates originated about 525 million years ago during the Cambrian explosion, which saw the rise in organism diversity. The earliest known vertebrate is believed to be the Myllokunmingia. Another early vertebrate is Haikouichthys ercaicunensis. Unlike the other fauna that dominated the Cambrian, these groups had the basic vertebrate body plan: a notochord, rudimentary vertebrae, and a well-defined head and tail. All of these early vertebrates lacked jaws in the common sense and relied on filter feeding close to the seabed. A vertebrate group of uncertain phylogeny, small-eel-like conodonts, are known from microfossils of their paired tooth segments from the late Cambrian to the end of the Triassic.
+
+3.2. From fish to amphibians
+
+The first jawed vertebrates appeared in the latest Ordovician and became common in the Devonian, often known as the "Age of Fishes". The two groups of bony fishes, the actinopterygii and sarcopterygii, evolved and became common. The Devonian also saw the demise of virtually all jawless fishes, save for lampreys and hagfish, as well as the Placodermi, a group of armoured fish that dominated much of the late Silurian. The Devonian also saw the rise of the first labyrinthodonts, which was a transitional form between fishes and amphibians.
+
+3.3. Mesozoic vertebrates
+
+The reptiles appeared from labyrinthodonts in the subsequent Carboniferous period. The anapsid and synapsid reptiles were common during the late Paleozoic, while the diapsids became dominant during the Mesozoic. In the sea, the bony fishes became dominant. The dinosaurs gave rise to the birds in the Jurassic. The demise of the dinosaurs at the end of the Cretaceous promoted expansion of the mammals, which had evolved from the therapsids, a group of synapsid reptiles, during the late Triassic Period.
+
+3.4. After the Mesozoic
+
+The Cenozoic world has seen great diversification of bony fishes, frogs, birds and mammals.
+
+Over half of all living vertebrate species (about 32,000 species) are fishes (non-tetrapod craniates), a diverse set of lineages that inhabit all the world's aquatic ecosystems, from snow minnows (Cypriniformes) in Himalayan lakes at elevations over to flatfishes (order Pleuronectiformes) in the Challenger Deep, the deepest ocean trench at about . Fishes of myriad varieties are the main predators in most of the world’s water bodies, both freshwater and marine. The rest of the vertebrate species are tetrapods, a single lineage that includes amphibians (with roughly 7,000 species); mammals (with approximately 5,500 species); and reptiles and birds (with about 20,000 species divided evenly between the two classes). Tetrapods comprise the dominant megafauna of most terrestrial environments and also include many partially or fully aquatic groups (e.g., sea snakes, penguins, cetaceans).
+
+4. Classification
+
+There are several ways of classifying animals. Evolutionary systematics relies on anatomy, physiology and evolutionary history, which is determined through similarities in anatomy and, if possible, the genetics of organisms. Phylogenetic classification is based solely on phylogeny. Evolutionary systematics gives an overview; phylogenetic systematics gives detail. The two systems are thus complementary rather than opposed.
+
+4.1. Traditional classification
+
+Conventional classification has living vertebrates grouped into seven classes based on traditional interpretations of gross anatomical and physiological traits. This classification is the one most commonly encountered in school textbooks, overviews, non-specialist, and popular works. The extant vertebrates are:
+
+Subphylum Vertebrata
+
+Class Agnatha (jawless fishes)
+
+Class Chondrichthyes (cartilaginous fishes)
+
+Class Osteichthyes (bony fishes)
+
+Class Amphibia (amphibians)
+
+Class Reptilia (reptiles)
+
+Class Aves (birds)
+
+Class Mammalia (mammals) In addition to these comes two classes of extinct armoured fishes, the Placodermi and the Acanthodii. Other ways of classifying the vertebrates have been devised, particularly with emphasis on the phylogeny on early amphibians and reptiles. An example based on Janvier (1981, 1997), Shu et al. (2003), and Benton (2004) is given here:
+
+Subphylum Vertebrata
+
+Superclass Agnatha or Cephalaspidomorphi (lampreys and other jawless fishes)
+
+Infraphylum Gnathostomata (vertebrates with jaws)
+
+Class †Placodermi (extinct armoured fishes)
+
+Class Chondrichthyes (cartilaginous fishes)
+
+Class †Acanthodii (extinct spiny "sharks")
+
+Superclass Osteichthyes (bony fishes)
+
+Class Actinopterygii (ray-finned bony fishes)
+
+Class Sarcopterygii (lobe-finned fishes, some ancestral to tetrapods)
+
+Superclass Tetrapoda (four-limbed vertebrates)
+
+Class Amphibia (amphibians, some ancestral to the amniotes)
+
+Class †Synapsida (extinct mammal-like "reptiles", some ancestral to mammals, sometimes classed with Reptilia)
+
+Class Reptilia (reptiles, some ancestral to birds)
+
+Class Aves (birds)
+
+Class Mammalia (mammals) While this traditional classification is orderly, most of the groups are paraphyletic, i.e. do not contain all descendants of the class' common ancestor. For instance, descendants of the first reptiles include modern reptiles as well as mammals and birds. Most of the classes listed are not "complete" (and therefore paraphyletic) taxa, meaning they do not include all the descendants of the first representative of the group. For example, the agnathans have given rise to the jawed vertebrates; the bony fishes have given rise to the land vertebrates; the traditional "amphibians" have given rise to the reptiles (traditionally including the synapsids, or mammal-like "reptiles"), which in turn have given rise to the mammals and birds. Most scientists working with vertebrates use a classification based purely on phylogeny, organized by their known evolutionary history and sometimes disregarding the conventional interpretations of their anatomy and physiology.
+
+4.2. Phylogenetic relationships
+
+In phylogenetic taxonomy, the relationships between animals are not typically divided into ranks, but illustrated as a nested "family tree" known as a cladogram. Phylogenetic groups are given definitions based on their relationship to one another, rather than purely on physical traits such as the presence of a backbone. This nesting pattern is often combined with traditional taxonomy (as above), in a practice known as evolutionary taxonomy.
+
+The cladogram presented below is based on studies compiled by Philippe Janvier and others for the Tree of Life Web Project.
+
+5. See also
+
+Invertebrate
+
+Marine vertebrate
+
+6. References
+
+7. Bibliography
+
+8. External links
+
+chapter in United States Environmental Protection Agency and University of Florida/Institute of Food and Agricultural Sciences National Public Health Pesticide Applicator Training Manual
+
+Marc W. Kirschner, iBioSeminars, 2008.
+
+ml:നട്ടെല്ലുള്ള ജീവികള്‍

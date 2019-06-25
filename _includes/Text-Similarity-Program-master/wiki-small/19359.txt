@@ -1,0 +1,213 @@
+Mandarin (; ) is a group of related varieties of Chinese spoken across most of northern and southwestern China. Because most Mandarin dialects are found in the north, the group is also referred to as the "northern dialect(s)". When the Mandarin group is taken as one language, as is often done in academic literature, it has more native speakers (nearly a billion) than any other language.
+
+A northeastern-dialect speaker and a southwestern-dialect speaker may have difficulty communicating except through the standard language. Nonetheless, there is much less variation across the huge Mandarin area than between the non-Mandarin varieties of southeast China. This is attributed to the greater ease of travel and communication in the North China Plain compared to the more mountainous south, combined with the relatively recent spread of Mandarin to frontier areas.
+
+For most of Chinese history, the capital has been within the Mandarin area, making these dialects very influential. Some form of Mandarin has served as a national lingua franca since the 14th century. In the early 20th century, a standard form based on the Beijing dialect, with elements from other Mandarin dialects, was adopted as the national language. Standard Chinese, which is also referred to as "Mandarin", is the official language of the People's Republic of China and the Republic of China and one of the four official languages of Singapore. It is also one of the most frequently used varieties of Chinese among Chinese diaspora communities internationally.
+
+1. Name
+
+The English word "mandarin" (from Portuguese mandarim, from Malay menteri, from Sanskrit mantrin, meaning "minister or counsellor") originally meant an official of the Ming and Qing empires. Since their native varieties were often mutually unintelligible, these officials communicated using a koiné based on various northern varieties. When Jesuit missionaries learned this standard language in the 16th century, they called it "Mandarin", from its Chinese name Guānhuà (), or "language of the officials".
+
+In everyday English, "Mandarin" refers to Standard Chinese, which is often called simply "Chinese". Standard Chinese is based on the particular Mandarin dialect spoken in Beijing, with some lexical and syntactic influence from other Mandarin dialects. It is the official spoken language of the People's Republic of China (PRC), the official language of the Republic of China (ROC/Taiwan), and one of the four official languages of the Republic of Singapore. It also functions as the language of instruction in the PRC and in Taiwan. It is one of the six official languages of the United Nations, under the name "Chinese". Chinese speakers refer to the modern standard language as
+
+Pǔtōnghuà (, literally "common speech") in China,
+
+Guóyǔ (, literally "national language") in Taiwan, or
+
+Huáyǔ () in Malaysia, Singapore and Philippines, but not as Guānhuà.
+
+This article uses the term "Mandarin" in the sense used by linguists, referring to the diverse group of dialects spoken in northern and southwestern China, which Chinese linguists call Guānhuà. The alternative term Běifānghuà (), or "Northern dialect(s)", is used less and less among Chinese linguists. By extension, the term "Old Mandarin" is used by linguists to refer to the northern dialects recorded in materials from the Yuan dynasty.
+
+Native speakers who are not academic linguists may not recognize that the variants they speak are classified in linguistics as members of "Mandarin" (or so-called "Northern dialects") in a broader sense. Within Chinese social or cultural discourse, there is not a common "Mandarin" identity based on language; rather, there are strong regional identities centred on individual dialects because of the wide geographical distribution and cultural diversity of their speakers. Speakers of forms of Mandarin other than the standard typically refer to the variety they speak by a geographic name—for example Sichuan dialect, Hebei dialect or Northeastern dialect, all being regarded as distinct from the standard language.
+
+As with all other varieties of the Chinese language, there is significant dispute as to whether Mandarin is a language or a dialect. See Varieties of Chinese for more on this issue.
+
+2. History
+
+The present Chinese language varieties developed from regional variants of Old Chinese and Middle Chinese. Traditionally, seven major groups of dialects have been recognized. Aside from Mandarin, the other six are Wu, Gan and Xiang in central China, and Min, Hakka and Yue on the southeast coast. More recently, other more specific groups have been recognized.
+
+2.1. Old Mandarin
+
+After the fall of the Northern Song dynasty, and during the reign of the Jin (Jurchen) and Yuan (Mongol) dynasties in northern China, a common speech developed based on the dialects of the North China Plain around the capital, a language referred to as Old Mandarin. New genres of vernacular literature were based on this language, including verse, drama and story forms, such as the qu and sanqu.
+
+The rhyming conventions of the new verse were codified in a rhyme dictionary called the Zhongyuan Yinyun (1324). A radical departure from the rhyme table tradition that had evolved over the previous centuries, this dictionary contains a wealth of information on the phonology of Old Mandarin. Further sources are the 'Phags-pa script based on the Tibetan alphabet, which was used to write several of the languages of the Mongol empire, including Chinese, and the Menggu Ziyun, a rhyme dictionary based on 'Phags-pa. The rhyme books differ in some details, but overall show many of the features characteristic of modern Mandarin dialects, such as the reduction and disappearance of final plosives and the reorganization of the Middle Chinese tones.
+
+In Middle Chinese, initial plosives and affricates showed a three-way contrast between tenuis, voiceless aspirated and voiced consonants. There were four tones, with the fourth, or "entering tone", comprising syllables ending in plosives (-p, -t or -k). Syllables with voiced initials tended to be pronounced with a lower pitch, and by the late Tang dynasty, each of the tones had split into two registers conditioned by the initials. When voicing was lost in all dialects except the Wu group, this distinction became phonemic, and the system of initials and tones was rearranged differently in each of the major groups.
+
+The Zhongyuan Yinyun shows the typical Mandarin four-tone system resulting from a split of the "even" tone and loss of the entering tone, with its syllables distributed across the other tones (though their different origin is marked in the dictionary). Similarly, voiced plosives and affricates have become voiceless aspirates in the "even" tone and voiceless non-aspirates in others, another distinctive Mandarin development. However, the language still retained a final -m, which has merged with -n in modern dialects, and initial voiced fricatives. It also retained the distinction between velars and alveolar sibilants in palatal environments, which later merged in most Mandarin dialects to yield a palatal series (rendered j-, q- and x- in pinyin).
+
+The flourishing vernacular literature of the period also shows distinctively Mandarin vocabulary and syntax, though some, such as the third-person pronoun tā (他), can be traced back to the Tang dynasty.
+
+2.2. Vernacular literature
+
+Until the early 20th century, formal writing and even much poetry and fiction was done in Literary Chinese, which was modelled on the classics of the Warring States period and Han dynasty. Over time, the various spoken varieties diverged greatly from Literary Chinese, which was learned and composed as a special language. Preserved from the sound changes that affected the various spoken varieties, its economy of expression was greatly valued. For instance, (yì, wing) is unambiguous in written Chinese, but has over 75 homophones in spoken Mandarin.
+
+The literary language was less appropriate for recording materials that were meant to be reproduced in oral presentations, materials such as plays and grist for the professional story-teller's mill. From at least the Yuan dynasty, plays that recounted the subversive tales of China's Robin Hoods to the Ming dynasty novels such as Water Margin, on down to the Qing dynasty novel Dream of the Red Chamber and beyond, there developed a literature in written vernacular Chinese (; báihuà). In many cases, this written language reflected Mandarin varieties, and since pronunciation differences were not conveyed in this written form, this tradition had a unifying force across all the Mandarin-speaking regions and beyond.
+
+Hu Shih, a pivotal figure of the first half of the twentieth century, wrote an influential and perceptive study of this literary tradition, entitled Báihuà Wénxuéshǐ (A History of Vernacular Literature).
+
+2.3. Koiné of the Late Empire
+
+Until the mid-20th century, most Chinese people living in many parts of southern China spoke only their local language. As a practical measure, officials of the Ming and Qing dynasties carried out the administration of the empire using a common language based on Mandarin varieties, known as Guānhuà. Knowledge of this language was thus essential for an official career, but it was never formally defined.
+
+Officials varied widely in their pronunciation; in 1728, the Yongzheng emperor, unable to understand the accents of officials from Guangdong and Fujian, issued a decree requiring the governors of those provinces to provide for the teaching of proper pronunciation. Although the resulting Academies for Correct Pronunciation (, Zhèngyīn Shūyuàn) were short-lived, the decree did spawn a number of textbooks that give some insight into the ideal pronunciation. Common features included:
+
+loss of the Middle Chinese voiced initials except for v-
+
+merger of -m finals with -n
+
+the characteristic Mandarin four-tone system in open syllables, but retaining a final glottal stop in "entering tone" syllables
+
+retention of the distinction between palatalized velars and dental affricates, the source of the spellings "Peking" and "Tientsin" for modern "Beijing" and "Tianjin". As the last two of these features indicate, this language was a koiné based on dialects spoken in the Nanjing area, though not identical to any single dialect. This form remained prestigious long after the capital moved to Beijing in 1421, though the speech of the new capital emerged as a rival standard. As late as 1815, Robert Morrison based the first English–Chinese dictionary on this koiné as the standard of the time, though he conceded that the Beijing dialect was gaining in influence. By the middle of the 19th century, the Beijing dialect had become dominant and was essential for any business with the imperial court.
+
+2.4. Standard Chinese
+
+In the early years of the Republic of China, intellectuals of the New Culture Movement, such as Hu Shih and Chen Duxiu, successfully campaigned for the replacement of Literary Chinese as the written standard by written vernacular Chinese, which was based on northern dialects. A parallel priority was the definition of a standard national language (). After much dispute between proponents of northern and southern dialects and an abortive attempt at an artificial pronunciation, the National Language Unification Commission finally settled on the Beijing dialect in 1932. The People's Republic founded in 1949 retained this standard, calling it pǔtōnghuà ().
+
+The national language is now used in education, the media, and formal situations in both the PRC and the R.O.C. (but not in Hong Kong and Macau). This standard can now be spoken intelligibly by most younger people in Mainland China and Taiwan, with various regional accents. In Hong Kong and Macau, because of their colonial and linguistic history, the language of education, the media, formal speech and everyday life remains the local Cantonese, although the standard language is now very influential and taught in schools. In Mandarin-speaking areas such as Sichuan, the local dialect is the mother tongue of most of the population. The era of mass education in Standard Chinese has not erased these regional differences, and people may be either diglossic or speak the standard language with a notable accent.
+
+From an official point of view, the PRC and ROC governments maintain their own forms of the standard under different names. Technically, both Pǔtōnghuà and Guóyǔ base their phonology on the Beijing accent, though Pǔtōnghuà also takes some elements from other sources. Comparison of dictionaries produced in the two areas will show that there are few substantial differences. However, both versions of "school-standard" Chinese are often quite different from the Mandarin dialects that are spoken in accordance with regional habits, and neither is wholly identical to the Beijing dialect. Pǔtōnghuà and Guóyǔ also have some differences from the Beijing dialect in vocabulary, grammar, and pragmatics.
+
+The written forms of Standard Chinese are also essentially equivalent, although simplified characters are used in Mainland China, Malaysia and Singapore while people in Taiwan, Macau and Hong Kong generally use traditional characters.
+
+3. Geographic distribution and dialects
+
+Most Han Chinese living in northern and southwestern China are native speakers of a dialect of Mandarin. The North China Plain provided few barriers to migration, leading to relative linguistic homogeneity over a wide area in northern China. In contrast, the mountains and rivers of southern China have spawned the other six major groups of Chinese languages, with great internal diversity, particularly in Fujian.
+
+However, the varieties of Mandarin cover a huge area containing nearly a billion people. As a result, there are pronounced regional variations in pronunciation, vocabulary, and grammar, and many Mandarin varieties are not mutually intelligible.
+
+Most of northeastern China, except for Liaoning, did not receive significant settlements by Han Chinese until the 18th century, and as a result the Northeastern Mandarin dialects spoken there differ little from Beijing Mandarin. The Manchu people of the area now speak these dialects exclusively. The frontier areas of Northwest and Southwest China were colonized by speakers of Mandarin dialects at the same time, and the dialects in those areas similarly closely resemble their relatives in the core Mandarin area. However, long-established cities even very close to Beijing, such as Tianjin, Baoding, Shenyang, and Dalian, have markedly different dialects.
+
+Unlike their compatriots on the south-east coast, few speakers of Mandarin dialects emigrated from China until the late 20th century, but there are now significant communities of them in cities across the world.
+
+3.1. Classification
+
+The classification of Chinese dialects evolved during the 20th century, and many points remain unsettled. Early classifications tended to follow provincial boundaries or major geographical features. In 1936, Wang Li produced the first classification based on phonetic criteria, principally the evolution of Middle Chinese voiced initials. His Guānhuà group included dialects of northern and southwestern China, as well as those of Hunan and northern Jiangxi. Li Fang-Kuei's classification of 1937 distinguished the latter two groups as Xiang and Gan, while splitting the remaining Guānhuà into Northern, Lower Yangtze and Southwestern Guānhuà groups. The widely accepted seven-group classification of Yuan Jiahua in 1960 kept Xiang and Gan separate, with Mandarin divided into Northern, Northwestern, Southwestern and Jiang舑Huai (Lower Yangtze) dialects.
+
+The linguist Li Rong proposed that the northwestern dialects of Shanxi and neighbouring areas that retain a final glottal stop in the Middle Chinese entering tone (plosive-final) category should constitute a separate top-level group called Jin. He used this classification in the Language Atlas of China (1987). Many other linguists continue to include these dialects in the Mandarin group, pointing out that the Jiang舑Huai dialects also retain the glottal stop.
+
+The Language Atlas of China calls the remainder of Mandarin a "supergroup", divided into eight dialect groups distinguished by their treatment of the Middle Chinese entering tone (see Tones below):
+
+Northeastern, spoken in the northeast of China (Manchuria), except the Liaodong Peninsula. This dialect is closely related to Standard Chinese, with little variation in lexicon and very few tonal differences.
+
+Beijing and environs, such as Chengde and Hebei. Beijing dialect forms the basis of Standard Chinese. Some people in areas of recent large-scale immigration, such as northern Xinjiang, speak the Beijing dialect or something very close to it.
+
+Ji舑Lu, spoken in Hebei ("Ji") and Shandong ("Lu") provinces, except the Jiaodong Peninsula, including Tianjin dialect. Tones and vocabulary are markedly different. In general, there is little intelligibility with Beijing Mandarin.
+
+Jiao舑Liao, spoken in Shandong (Jiaodong) Peninsula and Liaodong Peninsula. Very noticeable tonal changes, different in "flavour" from Ji舑Lu Mandarin, but with more variance. There is significant, but not full intelligibility with Beijing.
+
+Zhongyuan (lit. "central plain"), spoken in Henan province, the central parts of Shaanxi in the Yellow River valley, and southern Xinjiang. There are significant phonological differences, with partial intelligibility with Beijing. The Dungan language spoken in Kazakhstan and Kyrgyzstan belongs to this group. Dungan speakers such as the poet Iasyr Shivaza have reported being understood by speakers of the Beijing dialect, but not vice versa.
+
+Lan舑Yin, spoken in Gansu province (with capital Lanzhou) and Ningxia autonomous region (with capital Yinchuan), as well as northern Xinjiang.
+
+Jiang舑Huai (or Xiajiang), spoken in the parts of Jiangsu and Anhui on the north bank of the Yangtze, as well as some areas on the south bank, such as Nanjing in Jiangsu, Jiujiang in Jiangxi, etc. There are significant phonological and lexical changes to varied degrees, and intelligibility with Beijing is limited. Jiang舑Huai has been significantly influenced by Wu Chinese.
+
+Southwestern, spoken in the provinces of Hubei, Sichuan, Guizhou, Yunnan, and the Mandarin-speaking areas of Hunan, Guangxi and southern Shaanxi. There are sharp phonological, lexical, and tonal changes, and intelligibility with Beijing is limited to varying degrees. The Atlas also includes several unclassified Mandarin dialects spoken in scattered pockets across southeastern China, such as Nanping in Fujian and Dongfang on Hainan.
+
+4. Phonology
+
+Syllables consist maximally of an initial consonant, a glide, a vowel, a final, and tone. Not every syllable that is possible according to this rule actually exists in Mandarin, as there are rules prohibiting certain phonemes from appearing with others, and in practice there are only a few hundred distinct syllables.
+
+Phonological features that are generally shared by the Mandarin dialects include:
+
+the palatalization of velars and alveolar sibilants when they occur before palatal glides;
+
+the disappearance of final plosives and /-m/ (although in many Jiang舑Huai Mandarin and Jin dialects, an echo of the final plosives is preserved as a glottal stop);
+
+the reduction of the six tones inherited from Middle Chinese after the tone split to four tones;
+
+the presence of retroflex consonants (although these are absent in many dialects of Southwestern and Northeastern Mandarin);
+
+the historical devoicing of plosives and sibilants (also common to most non-Mandarin varieties).
+
+4.1. Initials
+
+The maximal inventory of initials of a Mandarin dialect is as follows, with bracketed pinyin spellings given for those present in the standard language:
+
+Most Mandarin-speaking areas distinguish between the retroflex initials from the apical sibilants , though they often have a different distribution than in the standard language. In many dialects of the northeast and southeast the retroflex initials have merged with the alveolar sibilants, so that zhi becomes zi, chi becomes ci, and shi becomes si.
+
+The alveolo-palatal sibilants are the result of merger between the historical palatalized velars and palatalized alveolar sibilants . In about 20% of dialects, the alveolar sibilants failed to palatalize, remaining separate from the alveolo-palatal initials. (The unique pronunciation used in Beijing opera falls into this category.) On the other side, in some dialects of eastern Shandong, the velar initials have failed to palatalize.
+
+Many southwestern Mandarin dialects mix and , substituting one for the other in some or all cases. For example, fei "to fly" and hui "dust" may be merged in these areas.
+
+In some dialects, initial and are not distinguished. In Southwestern Mandarin, these sounds usually merge to ; in Jiang舑Huai Mandarin, they usually merge to .
+
+People in many Mandarin-speaking areas may use different initial sounds where Beijing uses initial r- . Common variants include , , and .
+
+Some dialects have initial corresponding to the zero initial of the standard language. This initial is the result of a merger of the Middle Chinese zero initial with and .
+
+Many dialects of Northwestern and Central Plains Mandarin have where Beijing has . Examples include "pig" for standard zhū , "water" for standard shuǐ , "soft" for standard ruǎn .
+
+4.2. Finals
+
+Most Mandarin dialects have three medial glides , and (spelled i, u and ü in pinyin), though their incidence varies. The medial , is lost after apical initials in several areas. Thus Southwestern Mandarin has "right" where the standard language has dui . Southwestern Mandarin also has in some words where the standard has jie qie xie . This is a stereotypical feature of southwestern Mandarin, since it is so easily noticeable. E.g. hai "shoe" for standard xie, gai "street" for standard jie.
+
+Mandarin dialects typically have relatively few vowels. Syllabic fricatives, as in standard zi and zhi, are common in Mandarin dialects, though they also occur elsewhere. The Middle Chinese off-glides and are generally preserved in Mandarin dialects, yielding several diphthongs and triphthongs in contrast to the larger sets of monophthongs common in other dialect groups (and some widely scattered Mandarin dialects).
+
+The Middle Chinese coda was still present in Old Mandarin, but has merged with in the modern dialects. In some areas (especially the southwest) final has also merged with . This is especially prevalent in the rhyme pairs -en/-eng and -in/-ing . As a result, jīn "gold" and jīng "capital" merge in those dialects.
+
+The Middle Chinese final stops have undergone a variety of developments in different Mandarin dialects (see Tones below). In Jiang舑Huai dialects and some north-western dialects they have merged as a final glottal stop. In other dialects they have been lost, with varying effects on the vowel. As a result, Beijing Mandarin and Northeastern Mandarin underwent more vowel mergers than many other varieties of Mandarin. For example:
+
+R-coloring, a characteristic feature of Mandarin, works quite differently in the southwest. Whereas Beijing dialect generally removes only a final or when adding the rhotic final -r , in the southwest the -r replaces nearly the entire rhyme.
+
+4.3. Tones
+
+In general, no two Mandarin-speaking areas have exactly the same set of tone values, but most Mandarin-speaking areas have very similar tone distribution. For example, the dialects of Jinan, Chengdu, Xi'an and so on all have four tones that correspond quite well to the Beijing tones of (55), (35), (214), and (51). The exception to this rule lies in the distribution of syllables formerly ending in a stop consonant, which are treated differently in different dialects of Mandarin.
+
+Middle Chinese stops and affricates had a three-way distinction between tenuis, voiceless aspirate and voiced (or breathy voiced) consonants. In Mandarin dialects the voicing is generally lost, yielding voiceless aspirates in syllables with a Middle Chinese level tone and non-aspirates is other syllables. Of the four tones of Middle Chinese, the level, rising and departing tones have also developed into four modern tones in a uniform way across Mandarin dialects: the Middle Chinese level tone has split into two registers, conditioned on voicing of the Middle Chinese initial, while rising tone syllables with voiced obstruent initials have shifted to the departing tone. The following examples from the standard language illustrate the regular development common to Mandarin dialects (recall that pinyin d denotes a non-aspirate , while t denotes an aspirate ):
+
+In traditional Chinese phonology, syllables that ended in a stop in Middle Chinese (i.e. /p/, /t/ or /k/) were considered to belong to a special category known as the "entering tone". These final stops have disappeared in most Mandarin dialects, with the syllables distributed over the other four modern tones in different ways in the various Mandarin subgroups. In the Beijing dialect that underlies the standard language, syllables beginning with original voiceless consonants were redistributed across the four tones in a completely random pattern. For example, the three characters , all tsjek in Middle Chinese (William H. Baxter's transcription), are now pronounced jī, jǐ and jì respectively. Older dictionaries such as Mathews' Chinese–English Dictionary mark characters whose pronunciation formerly ended with a plosive with a superscript 5; however, this tone number is more commonly used for syllables that always have a neutral tone (see below).
+
+In Jiang舑Huai dialects, a minority of Southwestern dialects (e.g. Minjiang) and Jin (sometimes considered non-Mandarin), former final plosives were not deleted entirely, but were reduced to a glottal stop . This development is shared with the non-Mandarin Wu dialects, and is thought to represent the pronunciation of Old Mandarin. In line with traditional Chinese phonology, dialects such as Jiang舑Huai and Minjiang are thus said to have five tones instead of four. However, modern linguistics considers these syllables as having no phonemic tone at all.
+
+While the system of tones is common across Mandarin dialects, their realization as tone contours varies widely:
+
+Dialects in and around the Nantong area typically have many more than 4 tones, due to influence from the neighbouring Wu dialects.
+
+Mandarin dialects frequently employ neutral tones in the second syllables of words, creating syllables whose tone contour is so short and light that it is difficult or impossible to discriminate. These atonal syllables also occur in non-Mandarin dialects, but in many southern dialects the tones of all syllables are made clear.
+
+5. Vocabulary
+
+There are more polysyllabic words in Mandarin than in all other major varieties of Chinese except Shanghainese. This is partly because Mandarin has undergone many more sound changes than have southern varieties of Chinese, and has needed to deal with many more homophones. New words have been formed by adding affixes such as lao- (老), -zi (子), -(e)r (兒/儿), and -tou (頭/头), or by compounding, e.g. by combining two words of similar meaning as in cōngmáng (匆忙), made from elements meaning "hurried" and "busy". A distinctive feature of southwestern Mandarin is its frequent use of noun reduplication, which is hardly used in Beijing. In Sichuan, one hears baobao "handbag" where Beijing uses bao'r. There are also a small number of words that have been polysyllabic since Old Chinese, such as húdié (蝴蝶) "butterfly".
+
+The singular pronouns in Mandarin are wǒ (我) "I", nǐ (你/妳) "you", nín (您) "you (formal)", and tā (他/她/它) "he/she/it", with -men (們/们) added for the plural. Further, there is a distinction between the plural first-person pronoun zánmen (咱們/咱们), which is inclusive of the listener, and wǒmen (我們/我们), which may be exclusive of the listener. Dialects of Mandarin agree with each other quite consistently on these pronouns. While the first and second person singular pronouns are cognate with forms in other varieties of Chinese, the rest of the pronominal system is a Mandarin innovation (e.g., Shanghainese has 侬/儂 non "you" and 伊 yi "he/she").
+
+Because of contact with Mongolian and Manchurian peoples, Mandarin (especially the Northeastern varieties) has some loanwords from these languages not present in other varieties of Chinese, such as hútòng (胡同) "alley". Southern Chinese varieties have borrowed from Tai, Austroasiatic, and Austronesian languages.
+
+In general, the greatest variation occurs in slang, in kinship terms, in names for common crops and domesticated animals, for common verbs and adjectives, and other such everyday terms. The least variation occurs in "formal" vocabulary—terms dealing with science, law, or government.
+
+6. Grammar
+
+Chinese varieties of all periods have traditionally been considered prime examples of analytic languages, relying on word order and particles instead of inflection or affixes to provide grammatical information such as person, number, tense, mood, or case. Although modern varieties, including the Mandarin dialects, use a small number of particles in a similar fashion to suffixes, they are still strongly analytic.
+
+The basic word order of subject–verb–object is common across Chinese dialects, but there are variations in the order of the two objects of ditransitive sentences. In northern dialects the indirect object precedes the direct object (as in English), for example in the Standard Chinese sentence:
+
+In southern dialects, as well as many southwestern and Jiang舑Huai dialects, the objects occur in the reverse order. Most varieties of Chinese use post-verbal particles to indicate aspect, but the particles used vary. Most Mandarin dialects use the particle -le (了) to indicate the perfective aspect and -zhe (著/着) for the progressive aspect. Other Chinese varieties tend to use different particles, e.g. Cantonese jo2 咗 and gan2 緊/紧 respectively. The experiential aspect particle -guo (過/过) is used more widely, except in Southern Min.
+
+The subordinative particle de (的) is characteristic of Mandarin dialects. Some southern dialects, and a few Jiang舑Huai dialects, preserve an older pattern of subordination without a marking particle, while in others a classifier fulfils the role of the Mandarin particle.
+
+Especially in conversational Chinese, sentence-final particles alter the inherent meaning of a sentence. Like much vocabulary, particles can vary a great deal with regards to the locale. For example, the particle ma (嘛), which is used in most northern dialects to denote obviousness or contention, is replaced by yo (哟) in southern usage.
+
+7. See also
+
+Chinese dictionary
+
+Transcription into Chinese characters
+
+Written Chinese
+
+List of languages by number of native speakers
+
+8. Notes
+
+9. References
+
+;Works cited
+
+10. Further reading
+
+10.1. Historical Western language texts
+
+11. External links
+
+Comprehensive tone comparison charts for 523 Mandarin dialects. (Compiled by James Campbell) – Internet Archive mirror

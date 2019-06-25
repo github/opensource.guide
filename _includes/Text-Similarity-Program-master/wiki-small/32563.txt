@@ -1,0 +1,79 @@
+A velodrome is an arena for track cycling. Modern velodromes feature steeply banked oval tracks, consisting of two 180-degree circular bends connected by two straights. The straights transition to the circular turn through a moderate easement curve.
+
+1. History
+
+The first velodromes were constructed during the mid-late 19th century. Some were purpose-built just for cycling, and others were built as part of facilities for other sports; many were built around athletics tracks or other grounds and any banking was shallow. Reflecting the then-lack of international standards, sizes varied and not all were built as ovals: for example, the oldest velodrome in the UK, at Preston Park, Brighton (1877), is long and features four straights linked by banked curves, while the Portsmouth velodrome, in Portsmouth, has a single straight linked by one long curve. Early surfaces included cinders or shale, though concrete, asphalt and tarmac later became more common.
+
+Indoor velodromes were also common particularly in the late 19th and early 20th century. For example, the Vélodrome d'hiver was built in Paris in 1909 and featured a indoor track with a wooden surface.
+
+International competitions such as the Olympic Games led to more standardisation: two-straight oval tracks quickly became the norm, and gradually lap lengths reduced. The Vélodrome de Vincennes, used for the 1896 (and 1924) Games was per lap, while Antwerp's Vélodrome d'Anvers Zuremborg, used in 1920, and Helsinki Velodrome, used in 1952, were both . By the 1960s, tracks of length were commonly used for international competitions (e.g.: the Agustín Melgar Olympic Velodrome used for track cycling events at the 1968 Summer Olympics, and Leicester's Saffron Lane velodrome used at the 1970 and 1982 Track Cycling World Championships). Since 1990, such events are usually held on velodromes with laps. London’s 2012 Olympic velodrome and a new velodrome in Turkmenistan's capital city Ashgabat both have a 250 m track and a 6,000-seat spectator capacity.
+
+2. Technical aspects
+
+Banking in the turns, called superelevation, allows riders to keep their bikes relatively perpendicular to the surface while riding at speed. When travelling through the turns at racing speed, which may exceed , the banking attempts to match the natural lean of a bicycle moving through that curve. At the ideal speed, the net force of the centrifugal force (outward) and gravity (downward) is angled down through the bicycle, perpendicular to the riding surface.
+
+Riders are not always travelling at full speed or at a specific radius. Most events have riders all over the track. Team races (like the madison) have some riders at speed and others riding more slowly. In match sprints riders may come to a stop by performing a 'track stand' in which they balance the bicycle on the sloped surface while keeping their feet locked into the pedals. For these reasons, the banking tends to be 10 to 15 degrees less than physics predicts. Also, the straights are banked 10 to 15 degrees more than physics would predict. These compromises make the track ridable at a range of speeds.
+
+From the straight, the curve of the track increases gradually into the circular turn. This section of decreasing radius is called the easement spiral or transition. It allows bicycles to follow the track around the corner at a constant radial position. Thus riders can concentrate on tactics rather than steering.
+
+3. Bicycles and track design
+
+Bicycles for velodromes have no brakes. They employ a single fixed rear gear, or cog, that does not freewheel. This helps maximise speed, reduces weight, and avoids sudden braking while nevertheless allowing the rider to slow by pushing back against the pedals.
+
+Modern velodromes are constructed by specialised designers. The Schuermann architects in Germany have built more than 125 tracks worldwide. Most of Schuermann's outdoor tracks are made of wood trusswork with a surface of strips of the rare rain-forest wood Afzelia. Indoor velodromes are built with less expensive pine surfaces. Other designers have been moving away from traditional materials. The 1996 Atlanta Olympics saw the introduction of synthetic surfaces supported by steel frames.
+
+The track is measured along a line up from the bottom. Olympic and World Championship velodromes must measure . Other events on the UCI International Calendar may be held in velodromes that measure between and , with a length such that a whole or half number of laps give a distance of .
+
+The velodrome at Calshot, Hampshire, UK is only and has especially steep banking because it was built to fit inside an aircraft hangar. Forest City Velodrome in London, Ontario, Canada, is the world's shortest at . Built to fit a hockey arena, it too has steep banking.
+
+The smaller the track, the steeper the banking. A track banks around 45°, while a track banks around 32°. Some older velodromes were built to imperial standards. The Dick Lane Velodrome in East Point, Georgia USA, is .
+
+Velodrome tracks can be surfaced with different materials, including timber, synthetics and concrete. Shorter, newer, and Olympic quality tracks tend to be timber or synthetics; longer, older, or inexpensive tracks are concrete, macadam, or even cinder.
+
+4. Track markings
+
+Important cycling events are usually held on tracks which have lines laid out in a specified arrangement. Some other tracks also follow these protocols, but others have a different arrangement of lines to suit their facility and to assist riders in holding a straight line and in avoiding drifting onto the flatter section below the bankings where they risk their tyres sliding out.
+
+Between the infield (sometimes referred to as an apron) and the actual track is the blue band (called "côte d'azur") which is typically 10% of the surface. The blue band is not technically a part of the track; although it is not illegal to ride there, moving into it to shortcut another rider will result in disqualification. During time trials, pursuits or other timed events, the blue band is obstructed with sponges or other objects. The blue band is a warning to cyclists that they may scrape their pedal along the infield when in a curve, which can easily result in a crash.
+
+20 cm above the blue band is the black measurement line. The inner edge of this 5 cm line defines the length of the track. 90 cm above the inside of the track is the outside of the 5 cm wide red sprinter's line. The zone between black and red lines is sprinter's lane, which is the optimum route around the track. A rider leading in the sprinter's lane may not be passed on the inside; other riders must pass on the longer outside route.
+
+Minimum 250 cm (or half the track width) above the inside of the track is the blue stayer's line. This line serves in races behind motorbikes as a separation line. Stayers below the blue line may not be overtaken on the inside. In Madison races (named after six-day races at Madison Square Garden in New York City, New York and also known as "the American"), the team's relief rider rests above the stayer’s line by riding slowly until his or her teammate comes around the track and throws him or her back into the race.
+
+The finish line is black on a wide white band and near the end of the home straight. Red lines are marked in the exact centre of each straight as start and finish line for pursuit races. A white 200 m line marks 200 m before the finish.
+
+5. Track construction
+
+Velodromes may be indoors or outdoors. In the heyday of velodrome racing (1890–1920), indoor tracks were common. When hosting six-day races, they were popular for revellers and urban sophisticates to congregate in the early hours after the bars had closed. Indoor tracks are not affected by weather and are more comfortable for spectators. They ride smoother and last longer. Despite the advantages of indoor tracks, outdoor velodromes are more common, as an outdoor venue does not require a building, making it more affordable, especially when new. Today, although many classic indoor tracks have been torn out of buildings and replaced by venues for more popular sports, velodromes are still sometimes built into indoor venues, particularly where track racing can generate enough to cover the expense of dedicating a building to it.
+
+6. Race formats
+
+There are a variety of formats in velodrome races. A typical event will consist of several races of varying distances and structures.
+
+The most straightforward is the "scratch race," where riders compete over a specified distance and the order of finish determines the winners.
+
+Points races assign value to specific laps throughout a race, e.g. every tenth lap. Generally the leading rider and sometimes the second place rider will be awarded points. The structure and timing of points races varies greatly, but the winner is determined by the accumulation of points and not necessarily the rider crossing the line first at the end of the race.
+
+Elimination races, also known as "devil take the hindmost" or "miss and out" removes the last place rider from each lap (every second lap on shorter tracks) until only three to five riders remain. The final standings are then determined by a sprint over the last two laps.
+
+Madison races team up pairs of riders in a tag-team format. Riders "sling" their teammate forward to facilitate alternating sprints that keep the pace very high during typically long races (, or more, compared to for most other races). The name is taken from Madison Square Garden where the format was popular in the early 1900s. Since partners can trade as often as they like, this is a very busy race format, with half of the racers racing and half circulating around the track at any time.
+
+Keirin races involve pacing 6 to 9 riders with a motorcycle known as a Derny. The Derny gradually accelerates until the last lap and a half when it pulls off the track and a sprint for the finish determines the winner.
+
+Omnium competition assigns a point value to final standings of each race and riders accumulate points over the course of an event or series of events. This is not a specific race, but a competition that ties races and events together.
+
+7. See also
+
+Board track racing
+
+Centrifugal force
+
+List of cycling topics
+
+List of velodromes
+
+Superelevation
+
+8. References
+
+9. External links

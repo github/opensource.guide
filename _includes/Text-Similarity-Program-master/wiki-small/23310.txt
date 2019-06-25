@@ -1,0 +1,111 @@
+The Pleistocene (symbol PS) is the geological epoch which lasted from about 2,588,000 to 11,700 years ago, spanning the world's recent period of repeated glaciations.
+
+Charles Lyell introduced this term in 1839 to describe strata in Sicily that had at least 70% of their molluscan fauna still living today. This distinguished it from the older Pliocene Epoch, which Lyell had originally thought to be the youngest fossil rock layer. He constructed the name "Pleistocene" ("Most New" or "Newest") from the Greek πλεῖστος, pleīstos, "most", and καινός, kainós (latinized as cænus), "new"; this contrasting with the immediately preceding Pleiocene ("More New" or "Newer", from πλείων, pleíōn, "more", and kainós; usual spelling: Pliocene), and the immediately subsequent Holocene ("wholly new" or "entirely new", from ὅλος, hólos, "whole", and kainós) epoch, which extends to the present time.
+
+The Pleistocene is the first epoch of the Quaternary Period or sixth epoch of the Cenozoic Era. The end of the Pleistocene corresponds with the end of the last glacial period. It also corresponds with the end of the Paleolithic age used in archaeology. In the ICS timescale, the Pleistocene is divided into four stages or ages, the Gelasian, Calabrian, Ionian and Tarantian. All of these stages were defined in southern Europe. In addition to this international subdivision, various regional subdivisions are often used.
+
+Before a change finally confirmed in 2009 by the International Union of Geological Sciences, the time boundary between the Pleistocene and the preceding Pliocene was regarded as being at 1.806 million years before the present, as opposed to the currently accepted 2.588 million years BP: publications from the preceding years may use either definition of the period.
+
+1. Dating
+
+The Pleistocene has been dated from 2.588 million (±.005) to 11,700 years before present (BP), with the end date expressed in radiocarbon years as 10,000 carbon-14 years BP. It covers most of the latest period of repeated glaciation, up to and including the Younger Dryas cold spell. The end of the Younger Dryas has been dated to about 9640 BC (11,654 calendar years BP). It was not until after the development of radiocarbon dating, however, that Pleistocene archaeological excavations shifted to stratified caves and rock-shelters as opposed to open-air river-terrace sites.
+
+In 2009 the International Union of Geological Sciences (IUGS) confirmed a change in time period for the Pleistocene, changing the start date from 1.806 to 2.588 million years BP, and accepted the base of the Gelasian as the base of the Pleistocene, namely the base of the Monte San Nicola GSSP. The IUGS has yet to approve a type section, Global Boundary Stratotype Section and Point (GSSP), for the upper Pleistocene/Holocene boundary (i.e. the upper boundary). The proposed section is the North Greenland Ice Core Project ice core 75° 06' N 42° 18' W. The lower boundary of the Pleistocene Series is formally defined magnetostratigraphically as the base of the Matuyama (C2r) chronozone, isotopic stage 103. Above this point there are notable extinctions of the calcareous nanofossils: Discoaster pentaradiatus and Discoaster surculus.
+
+The Pleistocene covers the recent period of repeated glaciations. The name Plio-Pleistocene has in the past been used to mean the last ice age. The revised definition of the Quaternary, by pushing back the start date of the Pleistocene to 2.58 Ma, results in the inclusion of all the recent repeated glaciations within the Pleistocene.
+
+2. Paleogeography and climate
+
+The modern continents were essentially at their present positions during the Pleistocene, the plates upon which they sit probably having moved no more than 100 km relative to each other since the beginning of the period.
+
+According to Mark Lynas (through collected data), the Pleistocene's overall climate could be characterized as a continuous El Niño with trade winds in the south Pacific weakening or heading east, warm air rising near Peru, warm water spreading from the west Pacific and the Indian Ocean to the east Pacific, and other El Niño markers.
+
+2.1. Glacial features
+
+Pleistocene climate was marked by repeated glacial cycles in which continental glaciers pushed to the 40th parallel in some places. It is estimated that, at maximum glacial extent, 30% of the Earth's surface was covered by ice. In addition, a zone of permafrost stretched southward from the edge of the glacial sheet, a few hundred kilometres in North America, and several hundred in Eurasia. The mean annual temperature at the edge of the ice was ; at the edge of the permafrost, .
+
+Each glacial advance tied up huge volumes of water in continental ice sheets thick, resulting in temporary sea-level drops of or more over the entire surface of the Earth. During interglacial times, such as at present, drowned coastlines were common, mitigated by isostatic or other emergent motion of some regions.
+
+The effects of glaciation were global. Antarctica was ice-bound throughout the Pleistocene as well as the preceding Pliocene. The Andes were covered in the south by the Patagonian ice cap. There were glaciers in New Zealand and Tasmania. The current decaying glaciers of Mount Kenya, Mount Kilimanjaro, and the Ruwenzori Range in east and central Africa were larger. Glaciers existed in the mountains of Ethiopia and to the west in the Atlas mountains.
+
+In the northern hemisphere, many glaciers fused into one. The Cordilleran ice sheet covered the North American northwest; the east was covered by the Laurentide. The Fenno-Scandian ice sheet rested on northern Europe, including Great Britain; the Alpine ice sheet on the Alps. Scattered domes stretched across Siberia and the Arctic shelf. The northern seas were ice-covered.
+
+South of the ice sheets large lakes accumulated because outlets were blocked and the cooler air slowed evaporation. When the Laurentide ice sheet retreated, north central North America was totally covered by Lake Agassiz. Over a hundred basins, now dry or nearly so, were overflowing in the North American west. Lake Bonneville, for example, stood where Great Salt Lake now does. In Eurasia, large lakes developed as a result of the runoff from the glaciers. Rivers were larger, had a more copious flow, and were braided. African lakes were fuller, apparently from decreased evaporation. Deserts on the other hand were drier and more extensive. Rainfall was lower because of the decrease in oceanic and other evaporation.
+
+2.2. Major events
+
+Over 11 major glacial events have been identified, as well as many minor glacial events. A major glacial event is a general glacial excursion, termed a "glacial." Glacials are separated by "interglacials". During a glacial, the glacier experiences minor advances and retreats. The minor excursion is a "stadial"; times between stadials are "interstadials".
+
+These events are defined differently in different regions of the glacial range, which have their own glacial history depending on latitude, terrain and climate. There is a general correspondence between glacials in different regions. Investigators often interchange the names if the glacial geology of a region is in the process of being defined. However, it is generally incorrect to apply the name of a glacial in one region to another.
+
+For most of the 20th century only a few regions had been studied and the names were relatively few. Today the geologists of different nations are taking more of an interest in Pleistocene glaciology. As a consequence, the number of names is expanding rapidly and will continue to expand. Many of the advances and stadials remain unnamed. Also, the terrestrial evidence for some of them has been erased or obscured by larger ones, but evidence remains from the study of cyclical climate changes.
+
+The glacials in the following tables show historical usages, are a simplification of a much more complex cycle of variation in climate and terrain, and are generally no longer used. These names have been abandoned in favor of numeric data because many of the correlations were found to be either inexact or incorrect and more than four major glacials have been recognized since the historical terminology was established.
+
+Corresponding to the terms glacial and interglacial, the terms pluvial and interpluvial are in use (Latin: pluvia, rain). A pluvial is a warmer period of increased rainfall; an interpluvial, of decreased rainfall. Formerly a pluvial was thought to correspond to a glacial in regions not iced, and in some cases it does. Rainfall is cyclical also. Pluvials and interpluvials are widespread.
+
+There is no systematic correspondence of pluvials to glacials, however. Moreover, regional pluvials do not correspond to each other globally. For example, some have used the term "Riss pluvial" in Egyptian contexts. Any coincidence is an accident of regional factors. Only a few of the names for pluvials in restricted regions have been strategraphically defined.
+
+2.3. Palaeocycles
+
+The sum of transient factors acting at the Earth's surface is cyclical: climate, ocean currents and other movements, wind currents, temperature, etc. The waveform response comes from the underlying cyclical motions of the planet, which eventually drag all the transients into harmony with them. The repeated glaciations of the Pleistocene were caused by the same factors.
+
+2.3.1. Milankovitch cycles
+
+Glaciation in the Pleistocene was a series of glacials and interglacials, stadials and interstadials, mirroring periodic changes in climate. The main factor at work in climate cycling is now believed to be Milankovitch cycles. These are periodic variations in regional and planetary solar radiation reaching the Earth caused by several repeating changes in the Earth's motion.
+
+Milankovitch cycles cannot be the sole factor responsible for the variations in climate since they explain neither the long term cooling trend over the Plio-Pleistocene, nor the millennial variations in the Greenland Ice Cores. Milankovitch pacing seems to best explain glaciation events with periodicity of 100,000, 40,000, and 20,000 years. Such a pattern seems to fit the information on climate change found in oxygen isotope cores. The timing of our present interglacial interval (known as the Holocene, Postglacial, or the Present Interglacial) to that of the previous interglacial, beginning about 130,000 years ago (The Eemian Interglacial), suggests that the next glacial might begin in about 3,000 years.
+
+2.3.2. Oxygen isotope ratio cycles
+
+In oxygen isotope ratio analysis, variations in the ratio of to (two isotopes of oxygen) by mass (measured by a mass spectrometer) present in the calcite of oceanic core samples is used as a diagnostic of ancient ocean temperature change and therefore of climate change. Cold oceans are richer in , which is included in the tests of the microorganisms (foraminifera) contributing the calcite.
+
+A more recent version of the sampling process makes use of modern glacial ice cores. Although less rich in than sea water, the snow that fell on the glacier year by year nevertheless contained and in a ratio that depended on the mean annual temperature.
+
+Temperature and climate change are cyclical when plotted on a graph of temperature versus time. Temperature coordinates are given in the form of a deviation from today's annual mean temperature, taken as zero. This sort of graph is based on another of isotope ratio versus time. Ratios are converted to a percentage difference from the ratio found in standard mean ocean water (SMOW).
+
+The graph in either form appears as a waveform with overtones. One half of a period is a Marine isotopic stage (MIS). It indicates a glacial (below zero) or an interglacial (above zero). Overtones are stadials or interstadials.
+
+According to this evidence, Earth experienced 102 MIS stages beginning at about 2.588 Ma BP in the Early Pleistocene Gelasian. Early Pleistocene stages were shallow and frequent. The latest were the most intense and most widely spaced.
+
+By convention, stages are numbered from the Holocene, which is MIS1. Glacials receive an even number; interglacials, odd. The first major glacial was MIS2-4 at about 85–11 ka BP. The largest glacials were 2, 6, 12, and 16; the warmest interglacials, 1, 5, 9 and 11. For matching of MIS numbers to named stages, see under the articles for those names.
+
+3. Fauna
+
+Both marine and continental faunas were essentially modern and many animals, specifically, mammals were much larger in body form than their modern relatives . The severe climatic changes during the ice age had major impacts on the fauna and flora. With each advance of the ice, large areas of the continents became totally depopulated, and plants and animals retreating southward in front of the advancing glacier faced tremendous stress. The most severe stress resulted from drastic climatic changes, reduced living space, and curtailed food supply. A major extinction event of large mammals (megafauna), which included mammoths, mastodons, saber-toothed cats, glyptodons, ground sloths, Irish elk, cave bears, and short-faced bears, began late in the Pleistocene and continued into the Holocene. Neanderthals also became extinct during this period. At the end of the last ice age, cold-blooded animals, smaller mammals like wood mice, migratory birds, and swifter animals like whitetail deer had replaced the megafauna and migrated north.
+
+The extinctions were especially severe in North America where native horses and camels were eliminated.
+
+Asian land mammal ages (ALMA) include Zhoukoudianian, Nihewanian, and Yushean.
+
+European land mammal ages (ELMA) include Gelasian (2.5—1.8 Ma).
+
+North American land mammal ages (NALMA) include Blancan (4.75–1.8), Irvingtonian (1.8–0.24) and Rancholabrean (0.24–0.01) in millions of years. The Blancan extends significantly back into the Pliocene.
+
+South American land mammal ages (SALMA) include Uquian (2.5–1.5), Ensenadan (1.5–0.3) and Lujanian (0.3–0.01) in millions of years. The Uquian previously extended significantly back into the Pliocene, although the new definition places it entirely within the Pleistocene.
+
+4. Humans
+
+Scientific evidence indicates that humans evolved into their present form during the Pleistocene. In the beginning of the Pleistocene Paranthropus species are still present, as well as early human ancestors, but during the lower Palaeolithic they disappeared, and the only hominid species found in fossilic records is Homo erectus for much of the Pleistocene. The Middle and late Palaeolithic saw the appearance of new types of humans, as well as the development of more elaborate tools than found in previous eras. According to mitochondrial timing techniques, modern humans migrated from Africa after the Riss glaciation in the middle Palaeolithic during the Eemian Stage, spreading all over the ice-free world during the late Pleistocene. A 2005 study posits that humans in this migration interbred with archaic human forms already outside of Africa by the late Pleistocene, incorporating archaic human genetic material into the modern human gene pool.
+
+5. Deposits
+
+Pleistocene non-marine sediments are found primarily in fluvial deposits, lakebeds, slope and loess deposits as well as in the large amounts of material moved about by glaciers. Less common are cave deposits, travertines and volcanic deposits (lavas, ashes). Pleistocene marine deposits are found primarily in shallow marine basins mostly (but with important exceptions) in areas within a few tens of kilometers of the modern shoreline. In a few geologically active areas such as the Southern California coast, Pleistocene marine deposits may be found at elevations of several hundred meters.
+
+6. See also
+
+Climate state
+
+Geologic time scale
+
+Pleistocene megafauna
+
+Timeline of glaciation
+
+7. References
+
+Ogg, Jim; June, 2004, Overview of Global Boundary Stratotype Sections and Points (GSSP's, , Accessed April 30, 2006.
+
+8. External links
+
+The digital collection of anthropological and archaeological monographs contains .

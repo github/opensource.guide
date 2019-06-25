@@ -1,0 +1,271 @@
+The Vulgate () is a late fourth-century Latin translation of the Bible that became, during the 16th century, the Catholic Church's officially promulgated Latin version of the Bible.
+
+The translation was largely the work of St. Jerome, who, in 382, was commissioned by Pope Damasus I to revise the ("Old Latin") collection of Biblical texts in Latin then in use by the Church. Once published, it was widely adopted and eventually eclipsed the and, by the 13th century, was known as the ""舁 (the "version commonly-used") or, more simply, in Latin as or in Greek as ("Vulgate").
+
+It was made the Catholic Church's official Latin Bible as a consequence of the Council of Trent (1545–63).
+
+1. Authorship
+
+The Vulgate has a compound text that is not entirely the work of Jerome. Its components include:
+
+Jerome's independent translation from the Hebrew: the books of the Hebrew Bible, usually not including his translation of the Psalms. This was completed in 405.
+
+Translation from the Greek of Theodotion by Jerome: The three additions to the Book of Daniel; Song of the Three Children, Story of Susanna, and The Idol Bel and the Dragon. The Song of the Three Children was retained within the narrative of Daniel, the other two additions Jerome moved to the end of the book.
+
+Translation from the Septuagint by Jerome: the Rest of Esther. Jerome gathered all these additions together at the end of the book of Esther.
+
+Translation from the Hexaplar Septuagint by Jerome: his Gallican version of the Book of Psalms. Jerome's Hexaplaric revisions of other books of Old Testament continued to circulate in Italy for several centuries, but only Job and fragments of other books survive.
+
+Free translation by Jerome from a secondary Aramaic version: Tobias and Judith.
+
+Revision by Jerome of the Old Latin, corrected with reference to the oldest Greek manuscripts available: the Gospels.
+
+Old Latin, more or less revised by a person or persons unknown: Baruch, Letter of Jeremiah, 3 Esdras, Acts, Epistles, and the Apocalypse.
+
+Old Latin, wholly unrevised: Epistle to the Laodiceans, Prayer of Manasses, 4 Esdras, Wisdom, Ecclesiasticus, and 1 and 2 Maccabees.
+
+1.1. Translation
+
+Jerome did not embark on the work with the intention of creating a new version of the whole Bible, but the changing nature of his program can be tracked in his voluminous correspondence. He had been commissioned by Damasus I in 382 to revise the Old Latin text of the four Gospels from the best Greek texts, and by the time of Damasus' death in 384 he had thoroughly completed this task, together with a more cursory revision from the Greek Septuagint of the Old Latin text of the Psalms in the Roman Psalter which is now lost. How much of the rest of the New Testament he then revised is difficult to judge today, but little of his work survived in the Vulgate text.
+
+In 385, Jerome was forced out of Rome, and eventually settled in Bethlehem, where he was able to use a surviving manuscript of the Hexapla, likely from the nearby Theological Library of Caesarea Maritima, a columnar comparison of the variant versions of the Old Testament undertaken 150 years before by Origen. Jerome first embarked on a revision of the Psalms, translated from the revised Septuagint Greek column of the Hexapla, which later came to be called the Gallican version. He also appears to have undertaken further new translations into Latin from the Hexaplar Septuagint column for other books. But from 390 to 405, Jerome translated anew from the Hebrew all 39 books in the Hebrew Bible, including a further version of the Psalms. This new translation of the Psalms was labelled by him as "" (i.e. "close to the Hebrews", "immediately following the Hebrews"), and was commonly found in the Vulgate, until it was widely replaced by his Gallican psalms beginning in the 9th century.
+
+The Vulgate is usually credited as being the first translation of the Old Testament into Latin directly from the Hebrew Tanakh, rather than the Greek Septuagint. Jerome's extensive use of exegetical material written in Greek, on the other hand, as well as his use of the Aquiline and Theodotiontic columns of the Hexapla, along with the somewhat paraphrastic style in which he translated makes it difficult to determine exactly how direct the conversion of Hebrew to Latin was.
+
+As Jerome completed his translations of each book of the Bible, he recorded his observations and comments in an extensive correspondence with other scholars; and these letters were subsequently collected and appended as prologues to the Vulgate text for those books where they survived. In these letters, Jerome described those books or portions of books in the Septuagint that were not found in the Hebrew as being non-canonical: he called them apocrypha. Jerome's views did not, however, prevail; and all complete manuscripts and editions of the Vulgate include some or all of these books. Of the Old Testament texts not found in the Hebrew, Jerome translated Tobit and Judith anew from the Aramaic; and from the Greek, the additions to Esther from the Septuagint, and the additions to Daniel from Theodotion. Other books; Baruch, Letter of Jeremiah, Wisdom, Ecclesiasticus, 1 and 2 Maccabees are variously found in Vulgate manuscripts with texts derived from the Old Latin; sometimes together with Latin versions of other texts found neither in the Hebrew Bible, nor in the Septuagint, 4 Esdras, the Prayer of Manasses and Laodiceans. Their style is still markedly distinguishable from Jerome's. In the Vulgate text, Jerome's translations from the Greek of the additions to Esther and Daniel are combined with his separate translations of these books from the Hebrew.
+
+1.2. Critical value
+
+In translating the 39 books of the Hebrew Bible, Jerome was relatively free in rendering their text into Latin, but it is possible to determine that the oldest surviving complete manuscripts of the Masoretic Text, which date from nearly 600 years after Jerome, nevertheless transmit a consonantal Hebrew text very close to that used by Jerome. Consequently, these books of the Vulgate – though of high literary quality – have little independent interest in text critical debate. Jerome translated the books of Judith and Tobit under sufferance, engaging a Jewish intermediary to render the Aramaic into oral Hebrew, for him then to paraphrase into Latin. Their textual value is small. The Vulgate Old Testament texts that were translated from the Greek – whether by Jerome himself, or preserving revised or unrevised Old Latin versions – are however early and important secondary witnesses to the Septuagint.
+
+Damasus had instructed Jerome to be conservative in his revision of the Old Latin Gospels, and it is possible to see Jerome's obedience to this injunction in the preservation in the Vulgate of variant Latin vocabulary for the same Greek terms. Hence, "high priest" is rendered in Vulgate Matthew; as in Vulgate Mark; and as in Vulgate John. Comparison of Jerome's Gospel texts with those in Old Latin witnesses, suggests that his revision was substantially concerned with redacting the expanded phraseology characteristic of the Western text-type, in accordance with Alexandrian, or possibly early Byzantine, witnesses. Given Jerome's conservative methods, and that manuscript evidence from outside Egypt at this early date is very rare; these Vulgate readings have considerable critical interest. More interesting still—because effectively untouched by Jerome —are the Vulgate books of the rest of the New Testament; which demonstrate rather more of supposed "Western" expansions, and otherwise transmit a very early Old Latin text. Most valuable of all from a text-critical perspective is the Vulgate text of the Apocalypse, a book where there is no clear majority text in the surviving Greek witnesses.
+
+1.3. Prologues
+
+In addition to the biblical text the Vulgate contains 17 prologues, 16 of which were written by Jerome. Jerome's prologues were written not so much as prologues than as cover letters to specific individuals to accompany copies of his translations. Because they were not intended for a general audience, some of his comments in them are quite cryptic. These prologues are to the Pentateuch, to Joshua, and to Kings, which is also called the Prologus Galeatus. Following these are prologues to Chronicles, Ezra, Tobias, Judith, Esther, Job, the Gallican Psalms, Song of Songs, Isaiah, Jeremiah, Ezekiel, Daniel, the minor prophets, the gospels, and the final prologue which is to the Pauline epistles and is better known as . Related to these are Jerome's Notes on the Rest of Esther and his Prologue to the Hebrew Psalms. In addition to Jerome's prologue to the Gallican version of the Psalms, which is commonly found in Vulgate manuscripts, his prologues also survive for the translations from the Hexaplar Septuagint of the books of Job, Ecclesiastes, Song of Songs and Chronicles.
+
+A recurring theme of the Old Testament prologues is Jerome's preference for the (i.e., Hebrew truth) to the Septuagint, a preference which he defended from his detractors. He stated that the Hebrew text more clearly prefigures Christ than the Greek. Among the most remarkable of these prologues is the , in which Jerome described an Old Testament canon of 22 books, which he found represented in the 22-letter Hebrew alphabet. Alternatively, he numbered the books as 24, which he described as the 24 elders in the Book of Revelation casting their crowns before the Lamb.
+
+Also of note is the , which defended the Pauline authorship of the Epistle to the Hebrews, and compared Paul's ten letters to the churches with the ten commandments. The author of the is unknown. The editors of the Stuttgart Vulgate remark that this version of the epistles first became popular among the Pelagians.
+
+In addition to , many manuscripts contain brief notes to each of the epistles indicating where they were written, with notes about where the recipients dwelt. Adolf von Harnack, citing De Bruyne, argued that these notes were written by Marcion of Sinope or one of his followers.
+
+2. Relation with the Old Latin Bible
+
+The Latin Biblical texts in use before the Latin Vulgate are usually referred to collectively as the , or "Old Latin Bible", or occasionally the "Old Latin Vulgate". (Here "Old Latin" means that they are older than the Vulgate and written in Latin, not that they are written in Old Latin. Likewise the Latin Vulgate was so named because it was the Latin counterpart to the Greek Vulgate; it was not written in Vulgar Latin.) The translations in the Vetus Latina had accumulated piecemeal over a century or more; they were not translated by a single person or institution, nor uniformly edited. The individual books varied in quality of translation and style, and different manuscripts witness wide variations in readings. Jerome, in his preface to the Vulgate gospels, commented that there were "as many [translations] as there are manuscripts". The Old Testament books of the Vetus Latina were translated from the Greek Septuagint, not from the Hebrew.
+
+Jerome's earliest efforts in translation, his revision of the four Gospels, was dedicated to Damasus; but his version had little or no official recognition. Jerome's translated texts had to make their way on their own merits. The Old Latin versions continued to be copied and used alongside the Vulgate versions. Bede, writing in 8th century Northumbria, records Abbot Ceolfrid quoting Genesis 1:16 according to both the Vulgate and the Old Latin text, as the new and former editions. Nevertheless, the superior quality of the Vulgate texts led to their increasingly superseding the Old Latin; although the loss of familiar phrases and expressions still aroused hostility in congregations; and, especially in North Africa and Spain, favourite Old Latin readings were often re-introduced by copyists, while individual books within Spanish Vulgate Bibles are sometimes found to retain the Old Latin text. Spanish biblical traditions, with many Old Latin borrowings, were influential in Ireland; while both Irish and Spanish influences are found in Vulgate texts in northern France. In Italy and southern France, by contrast, a much purer Vulgate text predominated; and this is the version of the Bible that became established in England following the mission of Augustine of Canterbury. As late as the 13th century, the Codex Gigas retained an Old Latin text for the Apocalypse and the Acts of the Apostles.
+
+Throughout Late Antiquity and most of the Middle Ages, the name Vulgata was applied to the Greek Vulgate and the Vetus Latina, but as the acceptance of Jerome's version overtook that of the Vetus Latina in the Western church, it too began to be called an editio vulgata, a Latin analogue to the older Greek editio vulgata. The earliest known use of the term Vulgata to describe the new Latin translation was made by Roger Bacon in the 13th century.
+
+Wordsworth and White suggested that Jerome used Old Latin text close to Codex Brixianus as the basis for his New Testament and corrected it with the Alexandrian manuscripts.
+
+3. Influence on Western culture
+
+For over a thousand years (c. AD 400–1530), the Vulgate was the definitive edition of the most influential text in Western European society. Indeed, for most Western Christians, it was the only version of the Bible ever encountered. The Vulgate's influence throughout the Middle Ages and the Renaissance into the Early Modern Period is even greater than that of the King James Version in English; for Christians during these times the phraseology and wording of the Vulgate permeated all areas of the culture.
+
+Aside from its use in prayer, liturgy and private study, the Vulgate served as inspiration for ecclesiastical art and architecture, hymns, countless paintings, and popular mystery plays.
+
+3.1. Reformation
+
+While the Genevan Reformed tradition sought to introduce vernacular versions translated from the original languages, it nevertheless retained and extended the use of the Vulgate in theological debate. In both the published Latin sermons of John Calvin, and the Greek New Testament editions of Theodore Beza, the accompanying Latin reference text is the Vulgate; and where Protestant churches took their lead from the Genevan example – as in England and Scotland – the result was a broadening appreciation of Jerome's translation in its dignified style and flowing prose. The closest equivalent in English, the King James Version or Authorized Version, shows a marked influence from the Vulgate, especially by comparison with the earlier vernacular version of Tyndale, in respect of Jerome's demonstration of how a technically exact Latinate religious vocabulary may be combined with dignified prose and vigorous poetic rhythms.
+
+The Vulgate continued to be regarded as the standard scholarly Bible throughout most of the 17th Century. Walton's London Polyglot of 1657 disregards the English Language entirely. Walton's reference text throughout is the Vulgate. The Vulgate Latin is also found as the standard text of scripture in Thomas Hobbes Leviathan of 1651, indeed Hobbes gives Vulgate chapter and verse numbers (e.g., Job 41:24, not Job 41:33) for his head text. In Chapter 35: 'The Signification in Scripture of Kingdom of God, Hobbes discusses Exodus 19:5, first in his own translation of the 'Vulgar Latin, and then subsequently as found in the versions he terms "...the English translation made in the beginning of the reign of King James", and "The Geneva French" (i.e. Olivetan). Hobbes advances detailed critical arguments why the Vulgate rendering is to be preferred. It remained the assumption of Protestant scholars that, while it had been of vital importance to provide the scriptures in the vernacular for ordinary people, nevertheless for those with sufficient education to do so, biblical study was best undertaken within the international common medium of the Latin Vulgate.
+
+3.2. Council of Trent
+
+The Vulgate was given an official capacity by the Council of Trent (1545–1563) as the touchstone of the Biblical canon concerning which parts of books are canonical. When the council listed the books included in the canon, it qualified the books as being "entire with all their parts, as they have been used to be read in the Catholic Church, and as they are contained in the old Latin vulgate edition". There are 76 books in the edition authorized by the council: 46 in the Old Testament, 27 in the New Testament, and three in the Apocrypha. This decree was clarified somewhat by Pope Pius XI on June 2, 1927, who allowed that the Comma Johanneum was open to dispute, and it was further explicated by Pope Pius XII's encyclical .
+
+The council cited Sacred Tradition in support of the Vulgate's magisterial authority:
+
+Moreover, this sacred and holy Synod,—considering that no small utility may accrue to the Church of God, if it be made known which out of all the Latin editions, now in circulation, of the sacred books, is to be held as authentic,—ordains and declares, that the said old and vulgate edition, which, by the lengthened usage of so many years, has been approved of in the Church, be, in public lectures, disputations, sermons and expositions, held as authentic; and that no one is to dare, or presume to reject it under any pretext whatever.
+
+3.3. Translations
+
+Before the publication of Pius XII's , the Vulgate was the source text used for many translations of the Bible into vernacular languages. In English, the interlinear translation of the Lindisfarne Gospels as well as other Old English Bible translations, the translation of John Wycliffe, the Douay-Rheims Bible, the Confraternity Bible, and Ronald Knox's translation were all made from the Vulgate.
+
+3.4. Influence on the English language
+
+The Vulgate had a large influence on the development of the English language, especially in matters of religion. Many Latin words were taken from the Vulgate into English nearly unchanged in meaning or spelling: creatio (e.g. Genesis 1:1, Heb 9:11), salvatio (e.g. Is 37:32, Eph 2:5), justificatio (e.g. Rom 4:25, Heb 9:1), testamentum (e.g. Mt 26:28), sanctificatio (1 Ptr 1:2, 1 Cor 1:30), regeneratio (Mt 19:28), and raptura (from a noun form of the verb rapiemur in 1 Thes 4:17). The word "publican" comes from the Latin publicanus (e.g., Mt 10:3), and the phrase "far be it" is a translation of the Latin expression absit (e.g., Mt 16:22 in the King James Bible). Other examples include apostolus, ecclesia, evangelium, Pascha, and angelus.
+
+4. Texts
+
+4.1. Manuscripts and early editions
+
+A number of early manuscripts containing or reflecting the Vulgate survive today. Dating from the 8th century, the Codex Amiatinus is the earliest surviving manuscript of the complete Vulgate Bible. The Codex Fuldensis, dating from around 545, contains most of the New Testament in the Vulgate version, but the four gospels are harmonized into a continuous narrative derived from the Diatessaron.
+
+Over the course of the Middle Ages, the Vulgate had succumbed to the inevitable changes wrought by human error in the countless copies made of the text in monasteries across Europe. From its earliest days, readings from the Old Latin were introduced. Marginal notes were erroneously interpolated into the text. No one copy was the same as any other as scribes added, removed, misspelled, or miscorrected verses in the Latin Bible.
+
+Alcuin of York oversaw efforts to make an improved Vulgate, which he presented to Charlemagne in 801; although he concentrated mainly on correcting inconsistencies of grammar and orthography, many of which were in the original text. More scholarly attempts were made by Theodulphus, Bishop of Orléans (787?–821); Lanfranc, Archbishop of Canterbury (1070–1089); Stephen Harding, Abbot of Cîteaux (1109–1134); and Deacon Nicolaus Maniacoria (about the beginning of the 13th century). The University of Paris, the Dominicans, and the Franciscans following Roger Bacon assembled lists of correctoria; approved readings where variants had been noted. Many of the readings that were recommended were later found to be interpolations, or survivals of the Old Latin text, since medieval correctors commonly sought to adjust the Vulgate text into consistency with Bible quotations found in Early Church Fathers.
+
+Though the advent of printing greatly reduced the potential of human error and increased the consistency and uniformity of the text, the earliest editions of the Vulgate merely reproduced the manuscripts that were readily available to the publishers. Of the hundreds of early editions, the most notable today is Mazarin edition published by Johann Gutenberg and Johann Fust in 1455, famous for its beauty and antiquity. In 1504 the first Vulgate with variant readings was published in Paris. One of the texts of the Complutensian Polyglot was an edition of the Vulgate made from ancient manuscripts and corrected to agree with the Greek.
+
+Erasmus published an edition corrected to agree better with the Greek and Hebrew in 1516. Other corrected editions were published by Xanthus Pagninus in 1518, Cardinal Cajetan, Augustinus Steuchius in 1529, Abbot Isidorus Clarius (Venice, 1542), and others. In 1528, Robertus Stephanus published the first of a series of critical editions, which formed the basis of the later Sistine and Clementine editions. The critical edition of John Hentenius of Louvain followed in 1547.
+
+In 1550, Stephanus fled to Geneva where in 1555 he issued his final critical edition of the Vulgate, which was the first complete Bible with full chapter and verse divisions, and which became the standard Biblical reference text for late 16th century Reformed theology.
+
+4.2. Clementine Vulgate
+
+The Clementine Vulgate () is the edition most familiar to Catholics who have lived prior to the liturgical reforms following Vatican II.
+
+After the Reformation, when the Catholic Church strove to counter the attacks and refute the doctrines of Protestantism, the Vulgate was reaffirmed in the Council of Trent as the sole, authorized Latin text of the Bible. To fulfill this declaration, the council commissioned the pope to make a standard text of the Vulgate out of the countless editions produced during the Renaissance and manuscripts produced during the Middle Ages. The actual first manifestation of this authorized text did not appear until 1590. It was sponsored by Pope Sixtus V (1585–90) and established by scholars and cardinals under the guidance of Antonio Carafa. The new text was presented in 1589 but the pope was unsatisfied with the result, judging that it was too far from the original material: he had substantial changes made to the text, using the edition of Robertus Stephanus corrected to agree with the Greek, but this revised version was hurried into print and suffered from many printing errors. It came out in 1590 and is known as Sistine Vulgate. But Sixtus V died the same year and the commission for the Vulgate presided by Carafa immediately suspended the printing and diffusion of this revised version.
+
+The Sistine edition was soon replaced by Clement VIII (1592–1605) who had ordered Franciscus Toletus, Augustinus Valerius, Fredericus Borromaeus, Robertus Bellarmino, Antonius Agellius, and Petrus Morinus to make corrections and a revision. This new revised version was based more on the Hentenian edition. It is called today the Sixto-Clementine Vulgate, or simply the Clementine, although it is Sixtus' name which appears on the title page. Clement published three printings of this edition, in 1592, 1593, and 1598.
+
+The Clementine differed from the manuscripts on which it was ultimately based in that it grouped the various prefaces of St. Jerome together at the beginning, and it removed 3 and 4 Esdras and the Prayer of Manasses from the Old Testament and placed them as Apocrypha into an appendix following the New Testament.
+
+The Psalter of the Clementine Vulgate, like that of almost all earlier printed editions, is the Gallicanum, omitting Psalm 151. It follows the Greek numbering of the Psalms, which differs from that in versions translated directly from the Hebrew.
+
+The Clementine Vulgate of 1592 became the standard Bible text of the Roman Rite of the Roman Catholic Church until 1979, when the Nova Vulgata was promulgated.
+
+4.2.1. Later printings
+
+After Clement's 1598 printing of the Vulgate, the Vatican issued no other official printings, leaving the task to other printers. Although the other printers of the Clementine Vulgate faithfully reproduced the words of the official edition, they were often quite free in matters of spelling, punctuation, capitalization, and paragraph boundaries. In 1906, Capuchin friar Fr. Michael Hetzenauer produced an edition restoring the original Clementine text while taking into account variations in Clement's three printings as well as correctoria officially issued by the Vatican.
+
+In 1959, Biblioteca de Autores Cristianos issued a printing of the Clementine Vulgate omitting the Apocrypha, but containing excerpts from various magisterial documents and the Piana version of the psalms in addition to the vulgate version.
+
+4.3. Modern critical editions
+
+The official status of the Clementine Vulgate and the mass of manuscript material discouraged the creation of a critical edition of the Vulgate. In 1734 Vallarsi published a corrected edition of the Vulgate. Most other later editions were limited to the New Testament and did not present a full critical apparatus, most notably Karl Lachmann's editions of 1842 and 1850 based primarily on the Codex Amiatinus and Codex Fuldensis, Fleck's edition of 1840, and Constantin von Tischendorf's edition of 1864. In 1906 Eberhard Nestle published Novum Testamentum Latine, which presented the Clementine Vulgate text with a critical apparatus comparing it to the editions of Sixtus V (1590), Lachman (1842), Tischendorf (1854), and Wordsworth and White (1889), as well as the Codex Amiatinus and Codex Fuldensis.
+
+To make a text available representative of the earliest copies of the Vulgate and summarize the most common variants between the various manuscripts, Anglican scholars at the University of Oxford began to edit the New Testament in 1878 (completed in 1954), while the Benedictines of Rome began an edition of the Old Testament in 1907 (completed in 1995). Their findings were condensed into an edition of both the Old and New Testaments first published at Stuttgart in 1969, created with the participation of members from both projects. These books are the standard editions of the Vulgate used by scholars.
+
+4.3.1. Wordsworth and White (Oxford) New Testament
+
+As a result of the inaccuracy of existing editions of the Vulgate, the delegates of Oxford University Press accepted in 1878 a proposal from classicist John Wordsworth to produce a critical edition of the New Testament. This was eventually published as Nouum Testamentum Domini nostri Iesu Christi Latine, secundum editionem sancti Hieronymi in three volumes between 1889 and 1954. Along with Wordsworth and Henry Julian White, the completed work lists on its title pages Alexander Ramsbotham, Hedley Frederick Davis Sparks, Claude Jenkins, and Arthur White Adams.
+
+As preliminary work to the full edition, Wordsworth published the text of certain important manuscripts in the series Old-Latin Biblical Texts, with the help of William Sanday, White (professor of New Testament studies at King's College, London), and other scholars. Wordsworth was consecrated Bishop of Salisbury in 1885, and White assumed co-editorship of the edition, which began to be published in fascicles with the Gospel of Matthew in 1889; the first volume, with an extensive epilogue discussing the history of the manuscripts and the text, was completed in 1898. Acts, forming the beginning of the third volume, was published in 1905. These volumes established the standard method of presenting the text found in all later critical editions of the Vulgate, using only line breaks to reproduce the original punctuation the text per cola et commata; a break in the line indicates a new layer of sense, and no commas or periods are used. In 1911, Wordsworth and White produced a smaller editio minor with the complete text of the New Testament and a limited apparatus, but using modern punctuation. Only its text of the First Epistle to the Corinthians differs from the completed edition.
+
+Wordsworth died in 1911. Nonetheless, even with the death of some of those involved in the project during the First World War, the second volume (containing the Pauline epistles) had been published as far as the Second Epistle to the Corinthians by 1926. In 1933, White enlisted Sparks to assist him in the work, who after White's death in 1934 assumed primary responsibility for the edition. After its completion, he served on the editorial board for the Stuttgart edition of the Vulgate, beginning in 1959.
+
+4.3.2. Benedictine (Rome) Old Testament
+
+In 1907 Pope Pius X commissioned the Benedictine monks to prepare a critical edition of Jerome's Vulgate, entitled Biblia Sacra iuxta latinam vulgatam versionem. This text was originally planned as the basis of a new official text for the Roman Catholic church to replace the Clementine edition, in the spirit of the ressourcement of the early twentieth century. The first volume, completed in 1926, lists as primary editor Henri Quentin, whose editorial methods, described in his book Mémoire sur l'établissement du texte de la Vulgate, proved to be somewhat controversial.
+
+In 1933, Pope Pius XI established the Pontifical Abbey of St Jerome-in-the-City to complete the work. By the 1970s, as a result of liturgical changes that had spurred the Vatican to produce a new translation of the Latin Bible, the Nova Vulgata, the Benedictine edition was no longer required for official purposes, and the abbey was suppressed in 1984. Five monks were nonetheless allowed to complete the final two volumes of the Old Testament, which were published under the abbey's name in 1987 and 1995.
+
+4.3.3. Weber-Gryson (Stuttgart) edition
+
+Based on the editions of Oxford and Rome with independent examination of manuscript evidence, the Württembergische Bibelanstalt, later the Deutsche Bibelgesellschaft (German Bible Society), based in Stuttgart, first published a critical edition of the complete Vulgate in 1969. The work has since continued to be updated, with a fifth edition appearing in 2007. The project was originally directed by Robert Weber (a monk of the same Benedictine abbey responsible for the Rome edition), with the collaborators Bonifatius Fischer, Jean Gribomont, Hedley Frederick Davis Sparks (also responsible for the completion of the Oxford edition), and Walter Thiele. Roger Gryson has been responsible for the most recent editions. It is thus marketed by its publisher as the "Weber-Gryson" edition, but is also frequently referred to as the Stuttgart edition.
+
+This edition, alternatively titled Biblia Sacra Vulgata or Biblia Sacra iuxta vulgatam versionem, is a "manual edition" in that it reduces much of the information in the large multivolume critical editions of Oxford and Rome into a handheld format, providing variant readings from the more significant Vulgate manuscripts and printed editions. The first editions were published as two volumes, but the fourth (1994) and fifth (2007) editions were published as a single volume with smaller pages. The text has not been modified substantially since the third edition of 1983, but the apparatus has been rewritten for many books in more recent editions, based for example on new findings concerning the Vetus Latina from the work of the Vetus Latina Institute, Beuron. Like the editions of Oxford and Rome, it attempts, through critical comparison of the most significant historical manuscripts of the Vulgate, to recreate an early text, cleansed of the scribal errors of a millennium. It does not thus always represent what might have been read in the later Middle Ages.
+
+An important feature of the Weber-Gryson edition for those studying the Vulgate is its inclusion of Jerome's prologues, typically included in medieval copies of the Vulgate. It also includes the Eusebian Canons. It does not, however, provide any of the other prefatory material often found in medieval Bible manuscripts, such as chapter headings, some of which are included in the large editions of Oxford and Rome.
+
+In its spelling, it retains medieval Latin orthography, sometimes using oe rather than ae, and having more proper nouns beginning with H (e.g., Helimelech instead of Elimelech). Unlike the edition of Rome, it standardizes the spelling of proper names rather than attempting to reproduce the idiosyncrasies of each passage. It also follows the medieval manuscripts in using line breaks, rather than the modern system of punctuation marks, to indicate the structure of each verse, following the practice of the Oxford and Rome editions, though it initially presents an unfamiliar appearance to readers accustomed to the Clementine text.
+
+It contains two Psalters, both the traditional Gallicanum and the juxta Hebraicum, which are printed on facing pages to allow easy comparison and contrast between the two versions. It has an expanded Apocrypha, containing Psalm 151 and the Epistle to the Laodiceans in addition to 3 and 4 Esdras and the Prayer of Manasses. In addition, its modern prefaces (in Latin, German, French, and English) are a source of valuable information about the history of the Vulgate.
+
+This edition's early popularity can in part be attributed to a concordance based on the second edition of the book by Bonifatius Fischer, which was a key reference tool before the availability of personal computers. More recently, it has become the text of the Vulgate most commonly disseminated on the Internet. This electronic version, however, is commonly mutilated, lacking all formatting, notes, prefaces and apparatus, and often lacking the Gallican Psalter and Apocrypha. Moreover, the protocanonical part of Daniel following chapter 3 is commonly missing. Because all line breaks have been removed from most online editions, this effectively removes all punctuation. Corrected digital versions of the text that additionally include the text's apparatus are available for purchase.
+
+A translation of the text into German is currently in preparation, with a planned publication date of 2018.
+
+4.4. Nova Vulgata
+
+The Nova Vulgata (Bibliorum Sacrorum nova vulgata editio), also called the Neo-Vulgate, is the official Latin edition of the Bible published by the Holy See for use in the contemporary Roman rite. It is not an edition of the historical Vulgate, but a revision of the text intended to accord with modern critical Hebrew and Greek texts and produce a style closer to classical Latin.
+
+The Second Vatican Council in Sacrosanctum Concilium mandated a revision of the Latin Psalter in accord with modern textual and linguistic studies, while preserving or refining its Christian Latin style. In 1965 Pope Paul VI appointed a commission to revise the rest of the Vulgate following the same principles. The Commission published its work in eight annotated sections, inviting criticism from Catholic scholars as the sections were published. The Latin Psalter was published in 1969; the New Testament was completed by 1971 and the entire Nova Vulgata was published as a single volume edition for the first time in 1979.
+
+The foundational text of most of the Old Testament is the critical edition done by the monks of the Benedictine Abbey of St. Jerome under Pope St. Pius X. The foundational text of the books of Tobit and Judith are from manuscripts of the Vetus Latina rather than the Vulgate. The New Testament was based on the 1969 edition of the Stuttgart Vulgate. All of these base texts were revised to accord with the modern critical editions in Greek, Hebrew, and Aramaic. There are also a number of changes where the modern scholars felt that Jerome had failed to grasp the meaning of the original languages, or had rendered it obscurely.
+
+The Nova Vulgata does not contain some books found in the earlier editions but omitted by the Canon promulgated by the Council of Trent, namely the Prayer of Manasses, the 3rd and 4th Book of Esdras (sometimes known by different names: see naming conventions of Esdras) and the Epistle to the Laodiceans.
+
+In 1979, after decades of preparation, the Nova Vulgata was published and promulgated as the Catholic Church's current official Latin version in the Apostolic constitution Scripturarum Thesaurus promulgated by the Pope John Paul II. The Nova Vulgata is the translation used in the latest editions of the Roman Lectionary, Liturgy of the Hours, and Roman Ritual.
+
+A second edition was published in 1986; this second edition added a Preface to the reader, an Introduction to the principles used in producing the Nova Vulgata as well as an appendix containing 3 historical documents from the Council of Trent and the Clementine Vulgate. In addition, the second edition included the footnotes to the Latin text found in the 8 annotated sections published before 1979; it also replaced the few occurrences of the form Iahveh, when translating the Tetragrammaton, with Dominus, in keeping with an ancient tradition.
+
+The Nova Vulgata has not been widely embraced by conservative Catholics, many of whom see it as being in some verses of the Old Testament a new translation rather than a revision of Jerome's work. Also, some of its readings sound unfamiliar to those who are accustomed to the Clementine.
+
+In 2001, the Vatican released the instruction , establishing the Nova Vulgata as a point of reference for all translations of the liturgy of the Roman rite into the vernacular from the original languages, "in order to maintain the tradition of interpretation that is proper to the Latin Liturgy".
+
+4.4.1. Novum Testamentum Latine
+
+In 1984 and 1992 Kurt and Barbara Aland updated and entirely revised Nestle's Latin New Testament of 1906 and republished it under the same name, Novum Testamentum Latine. The text is a reprint of the New Testament of the Nova Vulgata to which has been added a critical apparatus giving the variant readings of earlier printed editions: the Stuttgart edition, the Gutenberg Bible (1452), the Latin text of the Complutensian Polyglot (1514), the edition from Wittenberg favoured by Luther (1529), and those of Desiderius Erasmus (1527), Robertus Stephanus (1540), Hentenius of Louvain (1547), Christophorus Plantinus (1583), Pope Sixtus V (1590), Pope Clement VIII (1592), and Wordsworth and White (1911, 1954). The text has been formatted to fit with the Novum Testamentum Graece, and is available as a volume containing both texts.
+
+4.5. Electronic versions
+
+The title "Vulgate" is currently applied to three distinct online texts which can be found from various sources on the Internet. Which text is used can be ascertained from the spelling of Eve's name in Genesis 3:20.
+
+Heva: the Clementine Vulgate
+
+Hava: the Stuttgart edition of the Vulgate; this text is the one most widely distributed on the internet
+
+Eva: the Nova Vulgata
+
+4.6. Contents
+
+By the end of the 4th century the New Testament had been established in both Greek and Latin Bibles as containing the 27 books familiar to this day; and these are the books found in all Vulgate New Testaments. Over 100 late antique and medieval Vulgate texts also include the concocted Epistle to the Laodiceans (accepted as a genuine letter of Paul by many Latin commentators), although often with a note to the effect that it was not counted as canonical.
+
+The Vulgate Old Testament from the first comprised the 39 books (as counted in Christian tradition) of the Hebrew Bible, but always also including books from the Septuagint tradition, which by this date had ceased to be used by Jews, but which was copied in Greek Bibles as the Old Testament. The Septuagint, however, was not then definitively fixed; no two surviving Greek Old Testaments of this period agree. Consequently Vulgate Old Testaments continued to vary in their content throughout the medieval period.
+
+Although Jerome preferred the books of the Hebrew Bible, he deferred to church authority in accepting as scripture not only the Greek additions to Esther and Daniel, but also an extra five 'apocryphal' books in Judith, Tobit, Wisdom, Ecclesiasticus and the two books of Maccabees, which in his listing of the Old Testament in the prologus galeatus he placed after the Hebrew canon. But, as Jerome explained in the prologue to Jeremias, he continued to exclude altogether the Book of Baruch (and with it the letter of Jeremiah); and indeed these two books are not found in the Vulgate before the 9th century, and only in a minority of manuscripts before the 13th century. The 71 biblical books as listed by Jerome, although not in his order, formed the standard text of the Vulgate as it became established in Italy in the 5th and 6th centuries. No Italian manuscript of the whole Vulgate Bible survives, and such pandect Bibles were always rare in this period; but the Codex Amiatinus written in Northumbria from Italian exemplars around 700 and intended to be presented to the Pope, represents the complete Bible according to the Italian Vulgate tradition. It contains the standard 71 books; with the Psalms according to Jerome's translation from the Hebrew, except for Psalm 151 which is translated from the Greek.
+
+The early Vulgate text in Spain tended to vary much further from Jerome's original, specifically in the retention of many Old Latin readings, in the expansion of the text of the Book of Proverbs, and in the incorporation into the first epistle of John of the Comma Johanneum. Spanish Bibles, on occasion, also included additional apocryphal texts, including the Book of Baruch, the Letter of Jeremiah, 3 Esdras and 4 Esdras. Spanish, Italian and Irish Vulgate traditions were all reflected in Bibles created in northern France, which by the end of the 8th century featured a wide variety of highly variable texts. Under prompting from the emperor Charlemegne, several scholars attempted in the 9th century to reform the French Vulgate. The English scholar Alcuin produced a text substantially based on Italian exemplars (although also including the Comma Johanneum), but with the major change of substituting Jerome's Gallican version of the psalms for his third version from the Hebrew that had previously predominated in Bible texts. In the 50 years after Alcuin's death, the abbey of Tours reproduced his text in standardised pandect Bibles, of which over 40 survive. Alcuin's contemporary Theodulf of Orleans produced a second independent reformed recension of the Vulgate, also based largely on Italian exemplars, but with variant readings, from Spanish texts and patristic citations, indicated in the margin. Theodulf kept Jerome's Hebraic version of the Psalms, and also incorporated the Book of Baruch and the Letter of Jeremiah within the book of Jeremiah. However, otherwise Theodulf adopted Jerome's proposed order of the Old Testament, with the five books from the Septuagint at the end. Theodulf's text was widely influential. A Vulgate revision was also undertaken in the early 9th century by scholars in the Abbey of Corbie, and Bibles from this abbey are the first in France to include the books of 3 Esdras and 4 Esdras, though this practice remained rare.
+
+Although a large number of Bible manuscripts resulted from all this work, no standard Vulgate text was to be established for another three centuries. Marsden points out, in discussing the process by which the Gallican version from the Psalter came to become established as the text of the psalms in the Vulgate Bible; "Its dominant position was in fact not assured before the early 13th century, and even then was not universal". However, the explosive growth of medieval universities, especially the University of Paris during the 12th century created a demand for a new sort of Vulgate. University scholars needed the entire Bible in a single, portable and comprehensive volume; which they could rely on to include all biblical texts which they might encounter in partristic references. The result was the Paris Bible, which reached its final form around 1230. The text of the Paris Bible owed most to Alcuin's revision and always presented the psalms in the Gallican version; but readings throughout were in many places adjusted to be more consistent with patristic citations (which would very frequently have been based on Old Latin or Greek texts). The book of Baruch and Letter of Jeremiah were now always included, as too were 3 Esdras, and usually (appended to the book of Chronicles) the Prayer of Manasses. Less commonly included was 4 Esdras.
+
+The early printings of the Latin Bible took examples of the Paris Bible as their base text, culminating in the successive critical Vulgate editions of Robert Estienne (Stephanus). Estienne's Geneva Vulgate of 1555, the first Bible to be subdivided throughout into chapters and verses, remained the standard Latin Bible for Reformed Protestantism; and established the content of the Vulgate as 76 books; 27 New Testament, 39 Hebrew Bible, plus Tobit, Judith, Wisdom, Ecclesiasticus, Baruch, I and II Maccabees, 3 Esdras, 4 Esdras and the Prayer of Manasses. At the Council of Trent it was agreed that seven of these books: all except 3 Esdras, 4 Esdras and the Prayer of Manasses, should be considered inspired scripture; and the term "deuterocanonical", first applied by Sixtus of Siena, was adopted to categorise them. The Council also requested that the Pope should undertake the production of definitive editions of the Latin, Greek and Hebrew scriptures conforming to their definition of the Biblical Canon; and this resulted, after several false starts, in the publication of the Clementine Vulgate of 1592. The Clementine Vulgate incorporates the books of Trent's Deuterocanon in the main Bible text; but also introduces, following the New Testament, a section of Apocrypha, containing the Prayer of Manasses, 3 Esdras, and 4 Esdras of which only the first two are found in the Septuagint.
+
+5. See also
+
+; Related articles
+
+Bible translations into Latin
+
+Biblia Pauperum
+
+Books of the Latin Vulgate
+
+Gutenberg Bible
+
+Jerome
+
+Poor Man's Bible
+
+Ferdinand Cavallera ; Some manuscripts
+
+List of New Testament Latin manuscripts
+
+Codex Sangallensis 1395
+
+Codex Amiatinus
+
+Codex Complutensis I
+
+Codex Fuldensis
+
+Codex Gigas
+
+6. References
+
+7. Further reading
+
+(London 1872).
+
+Samuel Berger, (Paris 1893).
+
+R. Draguet, "Le Maître louvainiste, [Jean] Driedo, inspirateur du décret de Trente sur la Vulgate", in Festschrift volume, Miscellenea historica in honorem Alberti de Meyer (Louvain: Bibliothèque universitaire, 1946), p. 836-854.
+
+Richard Gameson ed. The Early Medieval Bible, Cambridge University Press, 1994
+
+G.W.M. Lampe ed. The Cambridge History of the Bible. Vol 2 Cambridge University Press 1969.
+
+Richard Marsden, The Text of the Old Testament in Anglo-Saxon England, Cambridge University Press, 1995
+
+C. H. Turner, (The Clarendon Press: Oxford 1931).
+
+8. External links
+
+, the complete Latin Vulgate. Includes the complete Apocrypha – Esdras 3 and 4
+
+, online text of the Stuttgart edition from the German Bible Society
+
+, Stuttgart edition, but missing 3 and 4 Esdras, Manasses, Psalm 151, and Laodiceans.
+
+– Version 4.1.6 (2009). Michael Tweedale, et alii. Other installable modules include Weber's Stuttgart Vulgate. Missing 3 and 4 Esdras, and Manasses.
+
+, from the Vatican
+
+Vulgate text of Laodiceans including a parallel English translation
+
+Latin text

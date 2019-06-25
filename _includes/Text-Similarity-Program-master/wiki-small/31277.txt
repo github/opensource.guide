@@ -1,0 +1,209 @@
+The Bell Curve: Intelligence and Class Structure in American Life is a 1994 book by American psychologist Richard J. Herrnstein (who died before the book was released) and American political scientist Charles Murray. Herrnstein and Murray's central argument is that human intelligence is substantially influenced by both inherited and environmental factors and is a better predictor of many personal dynamics, including financial income, job performance, birth out of wedlock, and involvement in crime than are an individual's parental socioeconomic status, or education level. They also argue that those with high intelligence, the "cognitive elite", are becoming separated from those of average and below-average intelligence.
+
+The book was controversial, especially where the authors wrote about racial differences in intelligence and discussed the implications of those differences. The authors were reported throughout the popular press as arguing that these IQ differences are genetic. They wrote in chapter 13: "It seems highly likely to us that both genes and the environment have something to do with racial differences." The introduction to the chapter more cautiously states, "The debate about whether and how much genes and environment have to do with ethnic differences remains unresolved."
+
+The book's title comes from the bell-shaped normal distribution of intelligence quotient (IQ) scores in a population.
+
+Shortly after publication, many people rallied both in criticism and defense of the book. A number of critical texts were written in response to the work.
+
+1. Content
+
+The Bell Curve, published in 1994, was written by Richard Herrnstein and Charles Murray to explain the variations in intelligence in American society, warn of some consequences of that variation, and propose social policies for mitigating the worst of the consequences. Many of the arguments put forth by the authors are controversial, ranging from the relationships between low measured intelligence and anti-social behavior, to a genetically-driven explanation of the low observed test scores for African-American (compared to whites and East Asians). The book was heavily publicized as it was released, just after the death of Herrnstein. In the first several months of its release, 400,000 copies of the book were sold around the world. Hundreds of reviews and commentaries were written about the book soon after its publication. The Bell Curve argues that:
+
+Intelligence exists and is accurately measurable across racial, language, and national boundaries.
+
+Intelligence is one of, if not the most, important factors correlated to economic, social, and overall success in the United States, and its importance is increasing.
+
+Intelligence is largely (40% to 80%) heritable.
+
+No one has so far been able to manipulate IQ to a significant degree through changes in environmental factors—except for child adoption—and in the light of these failures, future successful manipulations are unlikely.
+
+The United States has been in denial of these facts. A better public understanding of the nature of intelligence and its social correlates is necessary to guide future policy decisions. The book's argument is based on the authors' analysis of data compiled in the National Longitudinal Study of Youth (NLSY), a study conducted by the United States Department of Labor's Bureau of Labor Statistics tracking thousands of Americans starting in the 1980s. All participants in the NLSY took the Armed Services Vocational Aptitude Battery (ASVAB), a battery of ten tests taken by all who apply for entry into the armed services. (Some had taken an IQ test in high school, and the median correlation of the Armed Forces Qualification Test (AFQT) scores and those IQ test scores was .81). Participants were later evaluated for social and economic outcomes. In general, IQ/AFQT scores were a better predictor of life outcomes than social class background. Similarly, after statistically controlling for differences in IQ, many outcome differences between racial-ethnic groups disappeared.
+
+1.1. Policy recommendations
+
+The book argued the average genetic IQ of the United States is declining due to the tendency of the more intelligent to have fewer children than the less intelligent, the generation length to be shorter for the less intelligent, and the large-scale immigration to the United States of those with low intelligence. Discussing a possible future political outcome of an intellectually stratified society, the authors stated that they "fear that a new kind of conservatism is becoming the dominant ideology of the affluent – not in the social tradition of an Edmund Burke or in the economic tradition of an Adam Smith but 'conservatism' along Latin American lines, where to be conservative has often meant doing whatever is necessary to preserve the mansions on the hills from the menace of the slums below." Moreover, they fear that increasing welfare will create a "custodial state" in "a high-tech and more lavish version of the Indian reservation for some substantial minority of the nation's population." They also predict increasing totalitarianism: "It is difficult to imagine the United States preserving its heritage of individualism, equal rights before the law, free people running their own lives, once it is accepted that a significant part of the population must be made permanent wards of the states."
+
+Herrnstein and Murray recommended the elimination of welfare policies that encourage poor women to have babies:
+
+The book also argued for reducing immigration into the U.S. which was argued to lower the average national IQ. It also recommended against policies of affirmative action.
+
+2. Reception
+
+2.1. Media response
+
+A 1995 article by Fairness and Accuracy in Reporting writer Jim Naureckas analyzed the media response. The Bell Curve received a great deal of media attention. He wrote "While many of these discussions included sharp criticisms of the book, media accounts showed a disturbing tendency to accept Murray and Herrnstein's premises and evidence even while debating their conclusions" and "their critics were sometimes identified with censorious political correctness". Naureckas criticized these assumptions. He also argued that the book was part of a campaign to justify racism and against welfare and immigration.
+
+2.2. Peer review
+
+An early criticism was that Herrnstein and Murray did not submit their work to peer review before publication. Many scholarly reviews of the book arrived later as discussed below. Richard Lynn (1999) wrote that "The book has been the subject of several hundred critical reviews, a number of which have been collected in edited volumes".
+
+2.3. "Mainstream Science on Intelligence"
+
+Fifty-two professors, most of them researchers in intelligence and related fields, signed an opinion statement titled "Mainstream Science on Intelligence" endorsing a number of the views presented in The Bell Curve. The statement was written by psychologist Linda Gottfredson and published in The Wall Street Journal in 1994 and subsequently reprinted in Intelligence, an academic journal. Of the 131 who were invited by mail to sign the document, 100 responded, with 52 agreeing to sign and 48 declining. Eleven of the 48 dissenters claimed that the statement or some part thereof did not represent the mainstream view of intelligence.
+
+2.4. APA task force report
+
+In response to the growing controversy surrounding The Bell Curve, the American Psychological Association's Board of Scientific Affairs established a special task force to publish an investigative report on the research presented in the book. In their final report, titled Intelligence: Knowns and Unknowns, some of the task force's findings supported or were consistent with statements from The Bell Curve. They agreed that:
+
+IQ scores have high predictive validity for individual differences in school achievement.
+
+IQ scores have predictive validity for adult occupational status, even when variables such as education and family background have been statistically controlled.
+
+There is little evidence to show that childhood diet influences intelligence except in cases of severe malnutrition. Regarding Murray and Herrnstein's claims about racial differences and genetics, the APA task force stated:
+
+Regarding statements about other explanations for racial differences, the APA task force stated [emphasis added]:
+
+The APA journal that published the statement, American Psychologist, subsequently published eleven critical responses in January 1997.
+
+2.5. Criticisms
+
+2.5.1. The validity of IQ and general intelligence, g
+
+One part of the criticism of The Bell Curve focused on the validity of IQ and g. William J. Matthews and Stephen Jay Gould (1994) listed four basic assumptions of The Bell Curve. According to Gould, if any of these premises are false, then their entire argument disintegrates (Gould, 1994).
+
+Intelligence must be reducible to a single number.
+
+Intelligence must be capable of rank ordering people in a linear order.
+
+Intelligence must be primarily genetically based.
+
+Intelligence must be essentially immutable. Similarly, anthropologist C. Loring Brace in a review wrote that The Bell Curve made six basic assumptions at the beginning of the book. He argued that there are faults in every one of these assumptions.
+
+Human Cognitive ability is a single general entity, depictable as a single number.
+
+Cognitive ability has a heritability of between 40 and 80 percent and is therefore primarily genetically based.
+
+IQ is essentially immutable, fixed over the course of a life span.
+
+IQ tests measure how "smart" or "intelligent" people are and are capable of rank ordering people in a linear order.
+
+IQ tests can measure this accurately.
+
+IQ tests are not biased with regard to race, ethnic group or socioeconomic status.
+
+2.5.2. Relationship between IQ and outcomes
+
+The Nobel Memorial Prize–winning economist James Heckman writes that two assumptions made in the book are questionable: that g accounts for correlation across test scores and performance in society, and that g cannot be manipulated. Heckman writes that a reanalysis of the evidence used in The Bell Curve contradicts this story. The factors that explain wages receive different weights than the factors that explain test scores. More than g is required to explain either. Other factors besides g contribute to social performance, and they can be manipulated. Murray argued that this was a straw man and that the book does not argue that g or IQ are totally immutable or the only factors affecting outcomes.
+
+In a 2005 interview, Heckman praised The Bell Curve for breaking "a taboo by showing that differences in ability existed and predicted a variety of socioeconomic outcomes" and for playing "a very important role in raising the issue of differences in ability and their importance." However, he also maintained that Herrnstein and Murray overestimated the role of heredity in determining intelligence differences, while admitting to being "a bigger fan of [The Bell Curve] than you might think."
+
+Michael Hout of the University of California, Berkeley, along with five colleagues, recalculated the effect of socioeconomic status, using the same variables as The Bell Curve, but weighting them differently. They found that if IQ scores are corrected, as Herrnstein and Murray did, to eliminate the effect of education, the ability of IQ to predict poverty can be made to look dramatically overstated, by as much as 61 percent for whites and 74 percent for blacks. In other words, according to Hout et al., Herrnstein and Murray's finding, that IQ predicts poverty much better than socioeconomic status does, is substantially a result of the way they handled the statistics.
+
+In August 1995, at the National Bureau of Economic Research economist Sanders Korenman and Harvard University sociologist Christopher Winship found certain errors in Herrnstein's methodology. Korenman and Winship concluded:"... there is evidence of substantial bias due to measurement error in their estimates of the effects of parents' socioeconomic status. In addition, Herrnstein and Murray's measure of parental socioeconomic status (SES) fails to capture the effects of important elements of family background (such as single-parent family structure at age 14). As a result, their analysis gives an exaggerated impression of the importance of IQ relative to parents' SES, and relative to family background more generally. Estimates based on a variety of methods, including analyses of siblings, suggest that parental family background is at least as important, and may be more important than IQ in determining socioeconomic success in adulthood."
+
+One early critical book was The Bell Curve Debate.
+
+In the book Intelligence, Genes, and Success: Scientists Respond to The Bell Curve, a group of social scientists and statisticians analyzes the genetics-intelligence link, the concept of intelligence, the malleability of intelligence and the effects of education, the relationship between cognitive ability, wages and meritocracy, pathways to racial and ethnic inequalities in health, and the question of public policy. This work argues that much of the public response was polemic, and failed to analyze the details of the science and validity of the statistical arguments underlying the book's conclusions.
+
+William J. Matthews writes that part of The Bell Curve's analysis is based on the AFQT "which is not an IQ test but designed to predict performance of certain criterion variables". Heckman observed that the AFQT was designed only to predict success in military training schools and that most of these tests appear to be achievement tests rather than ability tests, measuring factual knowledge and not pure ability. He continues:
+
+Janet Currie and Duncan Thomas presented evidence suggesting AFQT scores are likely better markers for family background than "intelligence" in a 1999 Study:
+
+Charles R. Tittle and Thomas Rotolo found that the more that written, IQ-like examinations are used as screening devices for occupational access, the stronger the relationship between IQ and income. Thus, rather than higher IQ leading to status attainment because it indicates skills needed in a modern society, IQ may reflect the same test-taking abilities used in artificial screening devices by which status groups protect their domains.
+
+Min-Hsiung Huang and Robert M. Hauser write that Herrnstein and Murray provide scant evidence of growth in cognitive sorting. Using data from the General Social Survey, they tested each of these hypotheses using a short verbal ability test which was administered to about 12,500 American adults between 1974 and 1994; the results provided no support for any of the trend hypotheses advanced by Herrnstein and Murray. One chart in The Bell Curve purports to show that people with IQs above 120 have become "rapidly more concentrated" in high-IQ occupations since 1940. But Robert Hauser and his colleague Min-Hsiung Huang retested the data and came up with estimates that fell "well below those of Herrnstein and Murray." They add that the data, properly used, "do not tell us anything except that selected, highly educated occupation groups have grown rapidly since 1940."
+
+In 1972, Noam Chomsky questioned Herrnstein's idea that society was developing towards a meritocracy. Chomsky criticized the assumptions that people only seek occupations based on material gain. He argued that Herrnstein would not want to become a baker or lumberjack even if he could earn more money that way. He also criticized the assumption that such a society would be fair with pay based on value of contributions. He argued that because there are already unjust great inequalities, people will often be paid, not for valuable contributions to society, but to preserve such inequalities.
+
+In 1995, Chomsky directly criticized the book and its assumptions on IQ. He takes issue with the idea that IQ is 60% heritable saying, the "statement is meaningless" since heritability doesn't have to be genetic. He gives the example of women wearing earrings:
+
+He goes on to say there is almost no evidence of a genetic link, and greater evidence that environmental issues are what determine IQ differences.
+
+2.5.3. Race and intelligence
+
+One part of the controversy concerned the parts of the book which dealt with racial group differences on IQ and the consequences of this. The authors were reported throughout the popular press as arguing that these IQ differences are genetic, and they did indeed write in chapter 13: "It seems highly likely to us that both genes and the environment have something to do with racial differences." The introduction to the chapter more cautiously states, "The debate about whether and how much genes and environment have to do with ethnic differences remains unresolved."
+
+Economist Thomas Sowell criticized the book's conclusions about race and the malleability of IQ, writing:
+
+Rushton (1997) as well as Cochran et al. (2005) have argued that also the early testing does in fact support a high average Jewish IQ.
+
+Columnist Bob Herbert, writing for The New York Times, described the book as "a scabrous piece of racial pornography masquerading as serious scholarship." "Mr. Murray can protest all he wants," wrote Herbert; "his book is just a genteel way of calling somebody a nigger."
+
+One prominent critic of The Bell Curve was the late Stephen Jay Gould, who in 1996 released a revised and expanded edition of his 1981 book The Mismeasure of Man intended to more directly refute many of The Bell Curve's claims regarding race and intelligence. Specifically, Gould argued that the then-current evidence showing heritability of IQ did not indicate a genetic origin to group differences in intelligence. This book has in turn been criticized.
+
+Psychologist David Marks has suggested that the ASVAB test battery used in the analyses of The Bell Curve correlates highly with measures of literacy, and argues that the ASVAB test in fact is not a measure of general intelligence but of literacy.
+
+Melvin Konner, professor of anthropology and associate professor of psychiatry and neurology at Emory University, called Bell Curve a "deliberate assault on efforts to improve the school performance of African-Americans":
+
+In 1995, Noam Chomsky criticized the book's accusations about race, saying that there is little evidence that IQ is genetic but that it is influenced by the environment. He goes on to criticize the notion that Blacks and people with lower IQs having more children is even a problem and criticized solutions the authors propose to stop it:
+
+Rutledge M. Dennis suggests that through soundbites of works like Jensen's famous study on the achievement gap, and Herrnstein and Murray's book The Bell Curve, the media "paints a picture of Blacks and other people of color as collective biological illiterates—as not only intellectually unfit but evil and criminal as well," thus providing, he says "the logic and justification for those who would further disenfranchise and exclude racial and ethnic minorities."
+
+Critic Charles Lane pointed out that 17 of the researchers whose work is referenced by the book have also contributed to Mankind Quarterly, a journal of anthropology founded in 1960 in Edinburgh, which has been viewed as supporting the theory of the genetic superiority of the whites.
+
+In his book The Bell Curve Wars: Race, Intelligence, and the Future of America, Steven Fraser writes that "by scrutinizing the footnotes and bibliography in The Bell Curve, readers can more easily recognize the project for what it is: a chilly synthesis of the work of disreputable race theorists and eccentric eugenicists".
+
+Since the book provided statistical data supporting the assertion that blacks were, on average, less intelligent than whites, some people have feared that The Bell Curve could be used by extremists to justify genocide and hate crimes. Much of the work referenced by the Bell Curve was funded by the Pioneer Fund, which aims to advance the scientific study of heredity and human differences, and has been accused of promoting scientific racism.
+
+Evolutionary biologist Joseph L. Graves described The Bell Curve as an example of racist science, containing all the types of errors in the application of scientific method that have characterized the history of scientific racism:
+
+claims that are not supported by the data given
+
+errors in calculation that invariably support the hypothesis
+
+no mention of data that contradicts the hypothesis
+
+no mention of theories and data that conflict with core assumptions
+
+bold policy recommendations that are consistent with those advocated by racists.
+
+2.5.4. Author's follow-up
+
+Murray responded to specific criticisms of the analysis of the practical importance of IQ compared to socio-economic status (Part II of The Bell Curve) in a 1998 book Income Inequality and IQ. To circumvent criticisms surrounding their use of a statistical control for socioeconomic status (SES), Murray adopted a sibling design. Rather than statistically controlling for parental SES, Murray compared life outcome differences among full sibling pairs who met a number of criteria, in which one member of the pair has an IQ in the "normal" range and the other siblings has an IQ in a higher or lower IQ category. According to Murray, this design controls for all aspects of family background (full siblings share the same family background, growing up together in the same home and the same community).
+
+3. The Global Bell Curve
+
+The Global Bell Curve: Race, IQ, and Inequality Worldwide is a book by Professor Richard Lynn, published by Washington Summit Publishers in 2008. As its title implies, it builds upon The Bell Curve.
+
+While Lynn and Vanhanen's IQ and Global Inequality (2006) focus on differences in the development and wealth of nations, The Global Bell Curve presents claims of race-based social hierarchies in its selected countries and regions.
+
+Lynn writes that there are several theories regarding such differences. Structuralism and discrimination theories assert that those with power maintain their dominance by discriminating against subordinate races. However, notes Lynn, Japanese, Chinese and Jewish immigrants all suffered from discrimination, yet rose above the other communities in Brazil, Britain, Canada, the Netherlands and the United States. Cultural value theorists argue for factors such as work ethic, "achievement syndrome" and an ability to delay gratification. Human capital theories argue that groups secure dominant positions through investments in education.
+
+Lynn argues that racial differences in IQ map directly to all of these worldwide social hierarchies. He also notes that an explanation based on differences in IQ explain why mixed-race populations consistently fall between their parent populations, in terms of social problems and achievements.
+
+Behavior genetics researcher Wendy Johnson reviewed The Global Bell Curve in the journal Intelligence and concluded the book presents a lot of correct data with very dubious interpretation.
+
+4. The Bell Curve Wars
+
+The Bell Curve Wars: Race, Intelligence, and the Future of America is a collection of articles published in reaction to the book. Edited by Steven Fraser, it contains articles by Howard Gardner, Henry Louis Gates, Jr., Nathan Glazer, Stephen Jay Gould, Andrew Hacker, Jacqueline Jones, John Judis, Mickey Kaus, Randall Kennedy, Michael Lind, Richard Nisbett, Orlando Patterson, Hugh Pearson, Martin Peretz, Dante Ramos, Jeffrey Rosen and Charlie Lane, Thomas Sowell, Leon Wieseltier, and Alan Wolfe.
+
+As stated in the introduction, the writers of these essays do not have a specific viewpoint concerning the content of The Bell Curve, but express their own critiques of various aspects of the book, including the research methods used, the alleged hidden biases in the research and the policies suggested as a result of the conclusions drawn by the authors.
+
+5. Notes
+
+6. References
+
+Claude S. Fischer et al. Inequality by Design: Cracking the Bell Curve Myth Princeton University Press, 1996, ISBN 0-691-02898-2.
+
+Bernie Devlin et al. Intelligence, Genes, and Success: Scientists Respond to The Bell Curve. Copernicus Books, 1997, ISBN 0-387-94986-0.
+
+Weiss, Volkmar (1995). Mankind Quarterly 35, 373–90.
+
+7. Further reading
+
+8. External links
+
+. By political scientist Charles Murray.
+
+The Open Mind interview with Charles Murray &
+
+from the Internet Archive.
+
+8.1. Responses to The Bell Curve
+
+Full text of American Psychological Association report in response to The Bell Curve]
+
+The Wall Street Journal, December 13, 1994, p. A18
+
+An article by Alan Reifman, which reviews pertinent research on the genetic contribution to intelligence, the relative contributions of intelligence and social factors to success in life, and the potential of educational experience to improve cognitive ability.
+
+by Nicholas Lemann in Slate magazine, January 18, 1997
+
+Fairness and Accuracy in Reporting,
+
+Nobel Prize-winner James Heckman, "", Journal of Political Economy, October 1995.
+
+Marks, D.F. (2010). "IQ variations across time, race, and nationality: an artifact of differences in literacy skills". Psychological Reports, 106, 643–64.
+
+by Rick Nevin, 9 February 2012.

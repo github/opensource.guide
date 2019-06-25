@@ -1,0 +1,233 @@
+MPEG-1 or MPEG-2 Audio Layer III, more commonly referred to as MP3, is an audio coding format for digital audio which uses a form of lossy data compression. It is a common audio format for consumer audio streaming or storage, as well as a de facto standard of digital audio compression for the transfer and playback of music on most digital audio players.
+
+MP3 is an audio-specific format that was designed by the Moving Picture Experts Group (MPEG) as part of its MPEG-1 standard and later extended in the MPEG-2 standard. The first MPEG subgroup – Audio group was formed by several teams of engineers at Fraunhofer IIS, University of Hannover, AT&T-Bell Labs, Thomson-Brandt, CCETT, and others. MPEG-1 Audio (MPEG-1 Part 3), which included MPEG-1 Audio Layer I, II and III was approved as a committee draft of ISO/IEC standard in 1991, finalised in 1992 and published in 1993 (ISO/IEC 11172-3:1993). Backwards compatible MPEG-2 Audio (MPEG-2 Part 3) with additional bit rates and sample rates was published in 1995 (ISO/IEC 13818-3:1995).
+
+The use in MP3 of a lossy compression algorithm is designed to greatly reduce the amount of data required to represent the audio recording and still sound like a faithful reproduction of the original uncompressed audio for most listeners. An MP3 file that is created using the setting of 128 kbit/s will result in a file that is about 1/11 the size of the CD file created from the original audio source. An MP3 file can also be constructed at higher or lower bit rates, with higher or lower resulting quality.
+
+The compression works by reducing accuracy of certain parts of sound that are considered to be beyond the auditory resolution ability of most people. This method is commonly referred to as perceptual coding. It uses psychoacoustic models to discard or reduce precision of components less audible to human hearing, and then records the remaining information in an efficient manner.
+
+1. History
+
+1.1. Development
+
+The MP3 lossy audio data compression algorithm takes advantage of a perceptual limitation of human hearing called auditory masking. In 1894, the American physicist Alfred M. Mayer reported that a tone could be rendered inaudible by another tone of lower frequency. In 1959, Richard Ehmer described a complete set of auditory curves regarding this phenomenon. Ernst Terhardt et al. created an algorithm describing auditory masking with high accuracy. This work added to a variety of reports from authors dating back to Fletcher, and to the work that initially determined critical ratios and critical bandwidths.
+
+The psychoacoustic masking codec was first proposed in 1979, apparently independently, by Manfred R. Schroeder, et al. from Bell Telephone Laboratories, Inc. in Murray Hill, NJ, and M. A. Krasner both in the United States. Krasner was the first to publish and to produce hardware for speech (not usable as music bit compression), but the publication of his results as a relatively obscure Lincoln Laboratory Technical Report did not immediately influence the mainstream of psychoacoustic codec development. Manfred Schroeder was already a well-known and revered figure in the worldwide community of acoustical and electrical engineers, but his paper was not much noticed, since it described negative results due to the particular nature of speech and the linear predictive coding (LPC) gain present in speech. Both Krasner and Schroeder built upon the work performed by Eberhard F. Zwicker in the areas of tuning and masking of critical bands, that in turn built on the fundamental research in the area from Bell Labs of Harvey Fletcher and his collaborators. A wide variety of (mostly perceptual) audio compression algorithms were reported in IEEE's refereed Journal on Selected Areas in Communications. That journal reported in February 1988 on a wide range of established, working audio bit compression technologies, some of them using auditory masking as part of their fundamental design, and several showing real-time hardware implementations.
+
+The immediate predecessors of MP3 were "Optimum Coding in the Frequency Domain" (OCF), and Perceptual Transform Coding (PXFM). These two codecs, along with block-switching contributions from Thomson-Brandt, were merged into a codec called ASPEC, which was submitted to MPEG, and which won the quality competition, but that was mistakenly rejected as too complex to implement. The first practical implementation of an audio perceptual coder (OCF) in hardware (Krasner's hardware was too cumbersome and slow for practical use), was an implementation of a psychoacoustic transform coder based on Motorola 56000 DSP chips.
+
+As a doctoral student at Germany's University of Erlangen-Nuremberg, Karlheinz Brandenburg began working on digital music compression in the early 1980s, focusing on how people perceive music. He completed his doctoral work in 1989. MP3 is directly descended from OCF and PXFM, representing the outcome of the collaboration of Brandenburg - working as a postdoc at AT&T-Bell Labs with James D. (JJ) Johnston of AT&T-Bell Labs - with the Fraunhofer Institut for Integrated Circuits, Erlangen, with relatively minor contributions from the MP2 branch of psychoacoustic sub-band coders. In 1990, Brandenburg became an assistant professor at Erlangen-Nuremberg. While there, he continued to work on music compression with scientists at the Fraunhofer Society (in 1993 he joined the staff of the Fraunhofer Institute).
+
+The song "Tom's Diner" by Suzanne Vega was the first song used by Karlheinz Brandenburg to develop the MP3. Brandenburg adopted the song for testing purposes, listening to it again and again each time refining the scheme, making sure it did not adversely affect the subtlety of Vega's voice.
+
+1.1.1. Standardization
+
+In 1991, there were only two proposals available that could be completely assessed for an MPEG audio standard: Musicam (Masking pattern adapted Universal Subband Integrated Coding And Multiplexing) and ASPEC (Adaptive Spectral Perceptual Entropy Coding). The Musicam technique, as proposed by Philips (the Netherlands), CCETT (France) and Institut für Rundfunktechnik (Germany) was chosen due to its simplicity and error robustness, as well as its low computational power associated with the encoding of high quality compressed audio. The Musicam format, based on sub-band coding, was the basis of the MPEG Audio compression format (sampling rates, structure of frames, headers, number of samples per frame).
+
+Much of its technology and ideas were incorporated into the definition of ISO MPEG Audio Layer I and Layer II and the filter bank alone into Layer III (MP3) format as part of the computationally inefficient hybrid filter bank. Under the chairmanship of Professor Musmann (University of Hannover) the editing of the standard was made under the responsibilities of Leon van de Kerkhof (Layer I) and Gerhard Stoll (Layer II).
+
+ASPEC was the joint proposal of AT&T Bell Laboratories, Thomson Consumer Electronics, Fraunhofer Society and CNET. It provided the highest coding efficiency.
+
+A working group consisting of Leon van de Kerkhof (The Netherlands), Gerhard Stoll (Germany), Leonardo Chiariglione (Italy), Yves-François Dehery (France), Karlheinz Brandenburg (Germany) and James D. Johnston (USA) took ideas from ASPEC, integrated the filter bank from Layer 2, added some of their own ideas and created MP3, which was designed to achieve the same quality at 128 kbit/s as MP2 at 192 kbit/s.
+
+All algorithms for MPEG-1 Audio Layer I, II and III were approved in 1991 and finalized in 1992 as part of MPEG-1, the first standard suite by MPEG, which resulted in the international standard ISO/IEC 11172-3 (a.k.a. MPEG-1 Audio or MPEG-1 Part 3), published in 1993.
+
+Further work on MPEG audio was finalized in 1994 as part of the second suite of MPEG standards, MPEG-2, more formally known as international standard ISO/IEC 13818-3 (a.k.a. MPEG-2 Part 3 or backwards compatible MPEG-2 Audio or MPEG-2 Audio BC), originally published in 1995. MPEG-2 Part 3 (ISO/IEC 13818-3) defined additional bit rates and sample rates for MPEG-1 Audio Layer I, II and III. The new sampling rates are exactly half that of those originally defined in MPEG-1 Audio. This reduction in sampling rate serves to cut the available frequency fidelity in half while likewise cutting the bitrate by 50%. MPEG-2 Part 3 also enhanced MPEG-1's audio by allowing the coding of audio programs with more than two channels, up to 5.1 multichannel.
+
+An additional extension to MPEG-2 is named MPEG-2.5 audio, as MPEG-3 already had a different meaning. This extension was developed at Fraunhofer IIS, the registered MP3 patent holders. Like MPEG-2, MPEG-2.5 adds new sampling rates exactly half of that previously possible with MPEG-2. It thus widens the scope of MP3 to include human speech and other applications requiring only 25% of the frequency reproduction possible with MPEG-1. While not an ISO recognized standard, MPEG-2.5 is widely supported by both inexpensive and brand name digital audio players as well as computer software based MP3 encoders and decoders. A sample rate comparison between MPEG-1, 2 and 2.5 is given further down. MPEG-2.5 was not developed by MPEG and was never approved as an international standard. MPEG-2.5 is thus an unofficial or proprietary extension to the MP3 format.
+
+Note: The ISO standard ISO/IEC 11172-3 (a.k.a. MPEG-1 Audio) defined three formats: the MPEG-1 Audio Layer I, Layer II and Layer III. The ISO standard ISO/IEC 13818-3 (a.k.a. MPEG-2 Audio) defined extended version of the MPEG-1 Audio – MPEG-2 Audio Layer I, Layer II and Layer III. MPEG-2 Audio (MPEG-2 Part 3) should not be confused with MPEG-2 AAC (MPEG-2 Part 7 – ISO/IEC 13818-7).
+
+Compression efficiency of encoders is typically defined by the bit rate, because compression ratio depends on the bit depth and sampling rate of the input signal. Nevertheless, compression ratios are often published. They may use the Compact Disc (CD) parameters as references (44.1 kHz, 2 channels at 16 bits per channel or 2×16 bit), or sometimes the Digital Audio Tape (DAT) SP parameters (48 kHz, 2×16 bit). Compression ratios with this latter reference are higher, which demonstrates the problem with use of the term compression ratio for lossy encoders.
+
+Karlheinz Brandenburg used a CD recording of Suzanne Vega's song "Tom's Diner" to assess and refine the MP3 compression algorithm. This song was chosen because of its nearly monophonic nature and wide spectral content, making it easier to hear imperfections in the compression format during playbacks. Some refer to Suzanne Vega as "The mother of MP3". Some more critical audio excerpts (glockenspiel, triangle, accordion, etc.) were taken from the EBU V3/SQAM reference compact disc and have been used by professional sound engineers to assess the subjective quality of the MPEG Audio formats. This particular track has an interesting property in that the two channels are almost, but not completely, the same, leading to a case where Binaural Masking Level Depression causes spatial unmasking of noise artifacts unless the encoder properly recognizes the situation and applies corrections similar to those detailed in the MPEG-2 AAC psychoacoustic model.
+
+1.2. Going public
+
+A reference simulation software implementation, written in the C language and later known as ISO 11172-5, was developed (in 1991–1996) by the members of the ISO MPEG Audio committee in order to produce bit compliant MPEG Audio files (Layer 1, Layer 2, Layer 3). It was approved as a committee draft of ISO/IEC technical report in March 1994 and printed as document CD 11172-5 in April 1994. It was approved as a draft technical report (DTR/DIS) in November 1994, finalized in 1996 and published as international standard ISO/IEC TR 11172-5:1998 in 1998. The reference software in C language was later published as a freely available ISO standard. Working in non-real time on a number of operating systems, it was able to demonstrate the first real time hardware decoding (DSP based) of compressed audio. Some other real time implementation of MPEG Audio encoders were available for the purpose of digital broadcasting (radio DAB, television DVB) towards consumer receivers and set top boxes.
+
+On 7 July 1994, the Fraunhofer Society released the first software MP3 encoder called l3enc. The filename extension .mp3 was chosen by the Fraunhofer team on 14 July 1995 (previously, the files had been named .bit). With the first real-time software MP3 player WinPlay3 (released 9 September 1995) many people were able to encode and play back MP3 files on their PCs. Because of the relatively small hard drives back in that time (~ 500–1000 MB) lossy compression was essential to store non-instrument based (see tracker and MIDI) music for playback on computer.
+
+As sound scholar Jonathan Sterne notes, "An Australian hacker acquired l3enc using a stolen credit card. The hacker then reverse-engineered the software, wrote a new user interface, and redistributed it for free, naming it "thank you Fraunhofer"".
+
+1.3. Internet
+
+In the second half of '90s, MP3 files began to spread on the Internet. The popularity of MP3s began to rise rapidly with the advent of Nullsoft's audio player Winamp, released in 1997. In 1998, the first portable solid state digital audio player MPMan, developed by SaeHan Information Systems which is headquartered in Seoul, South Korea, was released and the Rio PMP300 was sold afterwards in 1998, despite legal suppression efforts by the RIAA.
+
+In November 1997, the website mp3.com was offering thousands of MP3s created by independent artists for free. The small size of MP3 files enabled widespread peer-to-peer file sharing of music ripped from CDs, which would have previously been nearly impossible. The first large peer-to-peer filesharing network, Napster, was launched in 1999.
+
+The ease of creating and sharing MP3s resulted in widespread copyright infringement. Major record companies argued that this free sharing of music reduced sales, and called it "music piracy". They reacted by pursuing lawsuits against Napster (which was eventually shut down and later sold) and against individual users who engaged in file sharing.
+
+Despite the popularity of the MP3 format, online music retailers often use other proprietary formats that are encrypted or obfuscated in order to make it difficult to use purchased music files in ways not specifically authorized by the record companies. Attempting to control the use of files in this way is known as Digital Rights Management. Record companies argue that this is necessary to prevent the files from being made available on peer-to-peer file sharing networks. This has other side effects, though, such as preventing users from playing back their purchased music on different types of devices. However, the audio content of these files can usually be converted into an unencrypted format. For instance, users are often allowed to burn files to audio CD, which requires conversion to an unencrypted audio format.
+
+Unauthorized MP3 file sharing continues on next-generation peer-to-peer networks. Some authorized services, such as Beatport, Bleep, Juno Records, eMusic, Zune Marketplace, Walmart.com, Rhapsody, the recording industry approved re-incarnation of Napster, and Amazon.com sell unrestricted music in the MP3 format.
+
+2. Encoding audio
+
+The MPEG-1 standard does not include a precise specification for an MP3 encoder, but does provide example psychoacoustic models, rate loop, and the like in the non-normative part of the original standard. At present, these suggested implementations are quite dated. Implementers of the standard were supposed to devise their own algorithms suitable for removing parts of the information from the audio input. As a result, there are many different MP3 encoders available, each producing files of differing quality. Comparisons are widely available, so it is easy for a prospective user of an encoder to research the best choice. An encoder that is proficient at encoding at higher bit rates (such as LAME) is not necessarily as good at lower bit rates.
+
+During encoding, 576 time-domain samples are taken and are transformed to 576 frequency-domain samples. If there is a transient, 192 samples are taken instead of 576. This is done to limit the temporal spread of quantization noise accompanying the transient. (See psychoacoustics.)
+
+3. Decoding audio
+
+Decoding, on the other hand, is carefully defined in the standard. Most decoders are "bitstream compliant", which means that the decompressed output that they produce from a given MP3 file will be the same, within a specified degree of rounding tolerance, as the output specified mathematically in the ISO/IEC high standard document (ISO/IEC 11172-3). Therefore, comparison of decoders is usually based on how computationally efficient they are (i.e., how much memory or CPU time they use in the decoding process).
+
+4. Audio quality
+
+When performing lossy audio encoding, such as creating an MP3 file, there is a trade-off between the amount of space used and the sound quality of the result. Typically, the creator is allowed to set a bit rate, which specifies how many kilobits the file may use per second of audio. The higher the bit rate, the larger the compressed file will be, and, generally, the closer it will sound to the original file.
+
+With too low a bit rate, compression artifacts (i.e., sounds that were not present in the original recording) may be audible in the reproduction. Some audio is hard to compress because of its randomness and sharp attacks. When this type of audio is compressed, artifacts such as ringing or pre-echo are usually heard. A sample of applause compressed with a relatively low bit rate provides a good example of compression artifacts.
+
+Besides the bit rate of an encoded piece of audio, the quality of MP3 files also depends on the quality of the encoder itself, and the difficulty of the signal being encoded. As the MP3 standard allows quite a bit of freedom with encoding algorithms, different encoders may feature quite different quality, even with identical bit rates. As an example, in a public listening test featuring two different MP3 encoders at about 128 kbit/s, one scored 3.66 on a 1–5 scale, while the other scored only 2.22.
+
+Quality is dependent on the choice of encoder and encoding parameters.
+
+The simplest type of MP3 file uses one bit rate for the entire file – this is known as Constant Bit Rate (CBR) encoding. Using a constant bit rate makes encoding simpler and faster. However, it is also possible to create files where the bit rate changes throughout the file. These are known as Variable Bit Rate (VBR) files. The idea behind this is that, in any piece of audio, some parts will be much easier to compress, such as silence or music containing only a few instruments, while others will be more difficult to compress. So, the overall quality of the file may be increased by using a lower bit rate for the less complex passages and a higher one for the more complex parts. With some encoders, it is possible to specify a given quality, and the encoder will vary the bit rate accordingly. Users who know a particular "quality setting" that is transparent to their ears can use this value when encoding all of their music, and generally speaking not need to worry about performing personal listening tests on each piece of music to determine the correct bit rate.
+
+Perceived quality can be influenced by listening environment (ambient noise), listener attention, and listener training and in most cases by listener audio equipment (such as sound cards, speakers and headphones).
+
+A test given to new students by Stanford University Music Professor Jonathan Berger showed that student preference for MP3-quality music has risen each year. Berger said the students seem to prefer the 'sizzle' sounds that MP3s bring to music.
+
+5. Bit rate
+
+Several bit rates are specified in the MPEG-1 Audio Layer III standard: 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256 and 320 kbit/s, with available sampling frequencies of 32, 44.1 and 48 kHz. MPEG-2 Audio Layer III allows bit rates of 8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 112, 128, 144, 160 kbit/s with sampling frequencies of 16, 22.05 and 24 kHz. MPEG-2.5 Audio Layer III is restricted to bit rates of 8, 16, 24, 32, 40, 48, 56 and 64 kbit/s with sampling frequencies of 8, 11.025, and 12 kHz. Because of the Nyquist/Shannon theorem, frequency reproduction is always strictly less than half of the sampling frequency, and imperfect filters requires a larger margin for error (noise level versus sharpness of filter), so 8 kHz sampling rate limits the maximum frequency to 4 kHz, while 48 kHz maximum sampling rate limits an MP3 to 24 kHz sound reproduction.
+
+A sample rate of 44.1 kHz is almost always used, because this is also used for CD audio, the main source used for creating MP3 files. A greater variety of bit rates are used on the Internet. The rate of 128 kbit/s is commonly used, at a compression ratio of 11:1, offering adequate audio quality in a relatively small space. As Internet bandwidth availability and hard drive sizes have increased, higher bit rates up to 320 kbit/s are widespread.
+
+Uncompressed audio as stored on an audio-CD has a bit rate of 1,411.2 kbit/s, so the bitrates 128, 160 and 192 kbit/s represent compression ratios of approximately 11:1, 9:1 and 7:1 respectively.
+
+Non-standard bit rates up to 640 kbit/s can be achieved with the LAME encoder and the freeformat option, although few MP3 players can play those files. According to the ISO standard, decoders are only required to be able to decode streams up to 320 kbit/s.
+
+5.1. CBR
+
+Early MPEG Layer III encoders used what is now called Constant Bit Rate (CBR). The software was only able to use a uniform bitrate on all frames in an MP3 file.
+
+5.2. ABR
+
+Later more sophisticated MP3 encoders were able to use the bit reservoir to target an average bit rate selecting the encoding rate for each frame based on the complexity of the sound in that portion of the recording.
+
+5.3. VBR
+
+A more sophisticated MP3 encoder can produce variable bitrate audio. MPEG audio may use bitrate switching on a per-frame basis, but only layer III decoders must support it. VBR is used when the goal is to achieve a fixed level of quality. The final file size of a VBR encoding is less predictable than with constant bitrate. Average bitrate is VBR implemented as a compromise between the two – the bitrate is allowed to vary for more consistent quality, but is controlled to remain near an average value chosen by the user, for predictable file sizes. Although an MP3 decoder must support VBR to be standards compliant, historically some decoders have bugs with VBR decoding, particularly before VBR encoders became widespread.
+
+Layer III audio can also use a "bit reservoir", a partially full frame's ability to hold part of the next frame's audio data, allowing temporary changes in effective bitrate, even in a constant bitrate stream.
+
+6. File structure
+
+An MP3 file is made up of multiple MP3 frames, which consist of a header and a data block. This sequence of frames is called an elementary stream. Due to the "byte reservoir", frames are not independent items and cannot usually be extracted on arbitrary frame boundaries. The MP3 Data blocks contain the (compressed) audio information in terms of frequencies and amplitudes. The diagram shows that the MP3 Header consists of a sync word, which is used to identify the beginning of a valid frame. This is followed by a bit indicating that this is the MPEG standard and two bits that indicate that layer 3 is used; hence MPEG-1 Audio Layer 3 or MP3. After this, the values will differ, depending on the MP3 file. ISO/IEC 11172-3 defines the range of values for each section of the header along with the specification of the header. Most MP3 files today contain ID3 metadata, which precedes or follows the MP3 frames, as noted in the diagram.
+
+7. Design limitations
+
+There are several limitations inherent to the MP3 format that cannot be overcome by any MP3 encoder. Newer audio compression formats such as AAC, WMA Pro and Vorbis are generally free of a number of these limitations.
+
+In technical terms, some limitations include:
+
+Time resolution can be too low for highly transient signals and may cause smearing of percussive sounds.
+
+Due to the tree structure of the filter bank, pre-echo problems are made worse, as the combined impulse response of the two filter banks does not, and cannot, provide an optimum solution in time/frequency resolution.
+
+The combining of the two filter banks' outputs creates aliasing problems that must be handled partially by the "aliasing compensation" stage; however, that creates excess energy to be coded in the frequency domain, thereby decreasing coding efficiency.
+
+Frequency resolution is limited by the small long block window size, which decreases coding efficiency.
+
+There is no scale factor band for frequencies above 15.5/15.8 kHz.
+
+Joint stereo is done only on a frame-to-frame basis.
+
+Internal handling of the bit reservoir increases encoding delay.
+
+Encoder/decoder overall delay is not defined, which means there is no official provision for gapless playback. However, some encoders such as LAME can attach additional metadata that will allow players that can handle it to deliver seamless playback.
+
+The data stream can contain an optional checksum, but the checksum only protects the header data, not the audio data.
+
+8. ID3 and other tags
+
+A "tag" in an audio file is a section of the file that contains metadata such as the title, artist, album, track number or other information about the file's contents. The MP3 standards do not define tag formats for MP3 files, nor is there a standard container format that would support metadata and obviate the need for tags.
+
+However, several de facto standards for tag formats exist. As of 2010, the most widespread are ID3v1 and ID3v2, and the more recently introduced APEv2. These tags are normally embedded at the beginning or end of MP3 files, separate from the actual MP3 frame data. MP3 decoders either extract information from the tags, or just treat them as ignorable, non-MP3 junk data.
+
+Playing & editing software often contains tag editing functionality, but there are also tag editor applications dedicated to the purpose.
+
+Aside from metadata pertaining to the audio content, tags may also be used for DRM.
+
+9. Volume normalization
+
+Since volume levels of different audio sources can vary greatly, due to the loudness war and other factors, it is sometimes desirable to adjust the playback volume of audio files such that a consistent average loudness is perceived. This normalization, while similar in purpose, is distinct from dynamic range compression.
+
+ReplayGain is one standard for measuring and storing the loudness of an MP3 file in its metadata tag, enabling a ReplayGain-compliant player to automatically adjust the overall playback volume for each file. MP3Gain may be used to reversibly modify files based on ReplayGain measurements so that adjusted playback can be achieved on players without ReplayGain capability.
+
+10. Licensing and patent issues
+
+Many organizations have claimed ownership of patents related to MP3 decoding or encoding. These claims have led to a number of legal threats and actions from a variety of sources, resulting in uncertainty about which patents must be licensed in order to create MP3 products without committing patent infringement in countries that allow software patents.
+
+The initial near-complete MPEG-1 standard (parts 1, 2 and 3) was publicly available on 6 December 1991 as ISO CD 11172. In most countries, patents cannot be filed after prior art has been made public, and patents expire 20 years after the initial filing date, which can be up to 12 months later for filings in other countries. As a result, patents required to implement MP3 expired in most countries by December 2012, 21 years after the publication of ISO CD 11172.
+
+An exception is the United States, where patents filed prior to 8 June 1995 expire 17 years after the publication date of the patent, but application extensions make it possible for a patent to issue much later than normally expected (see submarine patents). The various MP3-related patents expire on dates ranging from 2007 to 2017 in the U.S. Patents filed for anything disclosed in ISO CD 11172 a year or more after its publication are questionable. If only the known MP3 patents filed by December 1992 are considered, then MP3 decoding may be patent-free in the US by September 2015 when expires which had a PCT filing in Oct 1992.
+
+Technicolor (formerly called Thomson Consumer Electronics) claims to control MP3 licensing of the Layer 3 patents in many countries, including the United States, Japan, Canada and EU countries. Technicolor has been actively enforcing these patents.
+
+MP3 license revenues generated about €100 million for the Fraunhofer Society in 2005.
+
+In September 1998, the Fraunhofer Institute sent a letter to several developers of MP3 software stating that a license was required to "distribute and/or sell decoders and/or encoders". The letter claimed that unlicensed products "infringe the patent rights of Fraunhofer and Thomson. To make, sell and/or distribute products using the [MPEG Layer-3] standard and thus our patents, you need to obtain a license under these patents from us."
+
+Sisvel S.p.A. and its U.S. subsidiary Audio MPEG, Inc. previously sued Thomson for patent infringement on MP3 technology, but those disputes were resolved in November 2005 with Sisvel granting Thomson a license to their patents. Motorola followed soon after, and signed with Sisvel to license MP3-related patents in December 2005.
+
+In September 2006, German officials seized MP3 players from SanDisk's booth at the IFA show in Berlin after an Italian patents firm won an injunction on behalf of Sisvel against SanDisk in a dispute over licensing rights. The injunction was later reversed by a Berlin judge, but that reversal was in turn blocked the same day by another judge from the same court, "bringing the Patent Wild West to Germany" in the words of one commentator.
+
+In February 2007, Texas MP3 Technologies sued Apple, Samsung Electronics and Sandisk in eastern Texas federal court, claiming infringement of a portable MP3 player patent that Texas MP3 said it had been assigned. Apple, Samsung, and Sandisk all settled the claims against them in January 2009.
+
+Alcatel-Lucent has asserted several MP3 coding and compression patents, allegedly inherited from AT&T-Bell Labs, in litigation of its own. In November 2006, before the companies' merger, Alcatel sued Microsoft for allegedly infringing seven patents. On 23 February 2007, a San Diego jury awarded Alcatel-Lucent US $1.52 billion in damages for infringement of two of them. The court subsequently tossed the award, however, finding that one patent had not been infringed and that the other was not even owned by Alcatel-Lucent; it was co-owned by AT&T and Fraunhofer, who had licensed it to Microsoft, the judge ruled. That defense judgment was upheld on appeal in 2008. See Alcatel-Lucent v. Microsoft for more information.
+
+11. Alternative technologies
+
+Other lossy formats exist. Among these, mp3PRO, AAC, and MP2 are all members of the same technological family as MP3 and depend on roughly similar psychoacoustic models. The Fraunhofer Gesellschaft owns many of the basic patents underlying these formats as well, with others held by Dolby Labs, Sony, Thomson Consumer Electronics, and AT&T. In addition, there are also the open source compression formats Opus and Vorbis that have been available free of charge and without any known patent restrictions.
+
+Besides lossy compression methods, lossless codecs are a significant alternative for MP3, as well as for lossy codecs in their entirety, because they provide unaltered audio content, although with an increased file size compared to lossy compression. Lossless codecs include FLAC, a free lossless codec, Apple Lossless and others.
+
+12. See also
+
+Audio compression (data)
+
+Bach Technology
+
+Comparison of audio coding formats
+
+Digital audio player
+
+DJ digital controller
+
+Ogg
+
+Podcast
+
+LRC (file format)
+
+Media player
+
+MP3 blog
+
+MP3 Surround
+
+MP3HD
+
+MPEG
+
+MPEG-4 Part 14
+
+Streaming media
+
+13. Notes
+
+14. References
+
+15. External links
+
+, The Story of MP3 — How MP3 was invented, by Fraunhofer IIS
+
+, MPEG Official Web site
+
+, MP3
+
+RFC 3119, A More Loss-Tolerant RTP Payload Format for MP3 Audio
+
+RFC 3003, The audio/mpeg Media Type

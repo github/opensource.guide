@@ -1,0 +1,492 @@
+PL/I ("Programming Language One", pronounced ) is a procedural, imperative computer programming language designed for scientific, engineering, business and systems programming applications. It has been used by various academic, commercial and industrial organizations since it was introduced in the 1960s, and continues to be actively used .
+
+PL/I's principal domains are data processing, numerical computation, scientific computing, and systems programming; it supports recursion, structured programming, linked data structure handling, fixed-point, floating-point, complex, character string handling, and bit string handling. The language syntax is English-like and suited for describing complex data formats, with a wide set of functions available to verify and manipulate them.
+
+1. Early history
+
+In the 1950s and early 1960s business and scientific users programmed for different computer hardware using different programming languages. Business users were moving from Autocoders via COMTRAN to COBOL, while scientific users programmed in General Interpretive Programme (GIP), Fortran, ALGOL, GEORGE, and others. The IBM System/360 (announced in 1964 but not delivered until 1966) was designed as a common machine architecture for both groups of users, superseding all existing IBM architectures. Similarly, IBM wanted a single programming language for all users. It hoped that Fortran could be extended to include the features needed by commercial programmers. In October 1963 a committee was formed composed originally of 3 IBMers from New York and 3 members of SHARE, the IBM scientific users group, to propose these extensions to Fortran. Given the constraints of Fortran, they were unable to do this and embarked on the design of a “new programming language” based loosely on Algol labeled “NPL". This acronym conflicted with that of the UK’s National Physical Laboratory and was replaced briefly by MPPL (MultiPurpose Programming Language) and, in 1965, with PL/I (with a Roman numeral “I” ). The first definition appeared in April 1964.
+
+IBM took NPL as a starting point and completed the design to a level that the first compiler could be written: the NPL definition was incomplete in scope and in detail. Control of the PL/I language was vested initially in the New York Programming Center and later at the IBM UK Laboratory at Hursley. The SHARE and GUIDE user groups were involved in extending the language and had a role in IBM’s process for controlling the language through their PL/I Projects. The experience of defining such a large language showed the need for a formal definition of PL/I. A project was set up in 1967 in IBM Vienna to make an unambiguous and complete specification. This led in turn to one of the first large scale Formal Methods for development, VDM.
+
+The language was first specified in detail in the manual “PL/I Language Specifications. C28-6571” written in New York from 1965 and superseded by “PL/I Language Specifications. GY33-6003” written in Hursley from 1967. IBM continued to develop PL/I in the late sixties and early seventies, publishing it in the GY33-6003 manual. These manuals were used by the Multics group and other early implementers.
+
+The first compiler was delivered in 1966. The Standard for PL/I was approved in 1976.
+
+2. Goals and principles
+
+The SHARE 3by3 committee set these goals for NPL:
+
+“Scope of usefulness to include that of current FORTRAN, extended to include additional applications - character strings and bit strings, extensive I/O operations, and dynamic response to trap conditions such as overflow and end-of-file.”
+
+“Clarity of language. Arbitrary restrictions and unnatural punctuation that had plagued Fortran users were to be removed. The resulting language would be easier to teach and easier to use.”
+
+“Bring the language in line with current practice of machine use - I/O control systems, trap (i.e. exception) supervision, monitored operation and multiprogramming”. (Other implementers did not endorse the "multiprogramming" features since their operating systems differed from IBM's in this area.) These goals evolved during the early development of the language. Competitiveness with COBOL’s record handling and report writing capabilities was needed. The “scope of usefulness” of the language grew to include system programming and event-driven programming. The additional goals for PL/I were:
+
+Performance of compiled code competitive with that of Fortran (but this was not achieved).
+
+Be extensible, for new hardware and new application areas
+
+Improve the productivity and time scales of the programming process, transferring effort from the programmer to the compiler
+
+Be machine-independent and operate effectively across the main hardware and operating system ranges To meet these goals PL/I borrowed ideas from contemporary languages while adding substantial new capabilities and casting it with a distinctive concise and readable syntax. A number of principles and capabilities combined to give the language its character and were key in meeting the goals:
+
+Block structure, with underlying semantics (including recursion), à la Algol 60. PL/I passes Donald Knuth's man or boy test. Arguments are passed using call by reference, using dummy variables for values where needed (call by value).
+
+A wide range of computational data types, program control data types, and forms of data structure (strong typing).
+
+Dynamic extents for arrays and strings with inheritance of extents by procedure parameters.
+
+Concise syntax for expressions, declarations, and statements with permitted abbreviations. Suitable for a character set of 60 glyphs and sub-settable to 48.
+
+An extensive structure of defaults in statements, options, and declarations to hide some complexities and facilitate extending the language while minimizing keystrokes.
+
+Powerful iterative processing with good support for structured programming.
+
+No reserved words. New attributes, statements and statement options could be added to PL/I without invalidating existing programs. Not even IF, THEN, ELSE, and DO were reserved.
+
+Orthogonality: each capability to be independent of other capabilities and freely combined with other capabilities wherever meaningful. Each capability to be available in all contexts where meaningful, to exploit it as widely as possible and to avoid “arbitrary restrictions”. Orthogonality helps makes the language "large".
+
+Exception handling capabilities for controlling and intercepting exceptional conditions at run time.
+
+Programs divided into separately compilable sections, with extensive compile-time facilities (a.k.a. macros), not part of the standard, for tailoring and combining sections of source code into complete programs. External names to bind separately compiled procedures into a single program.
+
+Debugging facilities integrated into the main language. These principles inevitably resulted in a large language which would need compilers substantially more complex than those for COBOL or Fortran. This was not seen as a drawback since though the few—the compiler writers—would have more work, the many—the programmers—would have less.
+
+3. Language summary
+
+The language is designed to be all things to all programmers. The summary is extracted from the ANSI PL/I Standard and the ANSI PL/I General-Purpose Subset Standard.
+
+A PL/I program consists of a set of procedures, each of which is written as a sequence of statements. The %INCLUDE construct is used to include text from other sources during program translation. All of the statement types are summarized here in groupings which give an overview of the language (the Standard uses this organization).
+
+(Features such as multi-tasking and the PL/I preprocessor are not in the Standard but are supported in the PL/I F compiler and some other implementations are discussed in the Language evolution section.)
+
+Names may be declared to represent data of the following types, either as single values, or as aggregates in the form of arrays, with a lower-bound and upper-bound per dimension, or structures (comprising nested structure, array and scalar variables):
+
+The arithmetic type comprises these attributes:
+
+The base, scale, precision and scale factor of the Picture-for-arithmetic type is encoded within the picture-specification. The mode is specified separately, with the picture specification applied to both the real and the imaginary parts.
+
+Values are computed by expressions written using a specific set of operations and builtin functions, most of which may be applied to aggregates as well as to single values, together with user-defined procedures which, likewise, may operate on and return aggregate as well as single values. The assignment statement assigns values to one or more variables.
+
+There are no reserved words in PL/I. A statement is terminated by a semi-colon. The maximum length of a statement is implementation defined. A comment may appear anywhere in a program where a space is permitted and is preceded by the characters forward slash, asterisk and is terminated by the characters asterisk, forward slash (i.e. ). Statements may have a label-prefix introducing an entry name (ENTRY and PROCEDURE statements) or label name, and a condition prefix enabling or disabling a computational condition - e.g. (NOSIZE)). Entry and label names may be single identifiers or identifiers followed by a subscript list of constants (as in L(12,2):A=0;).
+
+A sequence of statements becomes a group when preceded by a DO statement and followed by an END statement. Groups may include nested groups and begin blocks. The IF statement specifies a group or a single statement as the THEN part and the ELSE part (see the sample program). The group is the unit of iteration. The begin block (BEGIN; stmt-list END;) may contain declarations for names and internal procedures local to the block. A procedure starts with a PROCEDURE statement and is terminated syntactically by an END statement. The body of a procedure is a sequence of blocks, groups, and statements and contains declarations for names and procedures local to the procedure or EXTERNAL to the procedure.
+
+An on-unit is a single statement or block of statements written to be executed when one or more of these conditions occur:
+
+a computational condition,
+
+or an Input/Output condition,
+
+or one of the conditions:
+
+AREA, CONDITION(identifier), ERROR, FINISH A declaration of an identifier may contain one or more of the following attributes (but they need to be mutually consistent):
+
+Current compilers from Kednos, Micro Focus, and particularly that from IBM implement many extensions over the standardized version of the language. The IBM extensions are summarised in the Implementation sub-section for the compiler later. Although there are some extensions common to these compilers the lack of a current standard means that compatibility is not guaranteed.
+
+4. Standardization
+
+Language standardization began in April 1966 in Europe with ECMA TC10. In 1969 ANSI established a "Composite Language Development Committee", nicknamed "Kludge", which fortunately was renamed X3J1 PL/I. Standardization became a joint effort of ECMA TC/10 and ANSI X3J1. A subset of the GY33-6003 document was offered to the joint effort by IBM and became the base document for standardization. The major features omitted from the base document were multitasking and the attributes for program optimization (e.g. NORMAL and ABNORMAL).
+
+Proposals to change the base document were voted upon by both committees. In the event that the committees disagreed, the chairs, initially Michael Marcotty of General Motors and C.A.R. Hoare representing ICL had to resolve the disagreement. In addition to IBM, Honeywell, CDC, Data General, Digital Equipment, Prime Computer, Burroughs, RCA, and Univac served on X3J1 along with major users Eastman Kodak, MITRE, Union Carbide, Bell Laboratories, and various government and university representatives. Further development of the language occurred in the standards bodies, with continuing improvements in structured programming and internal consistency, and with the omission of the more obscure or contentious features.
+
+As language development neared an end, X3J1/TC10 realized that there were a number of problems with a document written in English text. Discussion of a single item might appear in multiple places which might or might not agree. It was difficult to determine if there were omissions as well as inconsistencies. Consequently, David Beech (IBM), Robert Freiburghouse (Honeywell), Milton Barber (CDC), M. Donald MacLaren (Argonne National Laboratory), Craig Franklin (Data General), Lois Frampton (Digital Equipment), and editor, D.J. Andrews of IBM undertook to rewrite the entire document, each producing one or more complete chapters. The standard is couched as a formal definition using a "PL/I Machine" to specify the semantics. It was the first, and possibly the only, programming language standard to be written as a semi-formal definition.
+
+A "PL/I General-Purpose Subset" ("Subset-G") standard was issued by ANSI in 1981 and a revision published in 1987. The General Purpose subset was widely adopted as the kernel for PL/I implementations.
+
+5. Implementations
+
+5.1. IBM PL/I F and D compilers
+
+PL/I was first implemented by IBM, at its Hursley Laboratories in the United Kingdom, as part of the development of System/360. The first production PL/I compiler was the PL/I F compiler for the OS/360 Operating System, built by John Nash's team at Hursley in the UK: the runtime library team was managed by I.M. (Nobby) Clarke. The PL/I F compiler was written entirely in System/360 assembly language. Release 1 shipped in 1966. OS/360 was a real-memory environment and the compiler was designed for systems with as little as 64 kilobytes of real storage – F being 64 kB in S/360 parlance. To fit a large compiler into the 44 kilobytes of memory available on a 64-kilobyte machine, the compiler consisted of a control phase and a large number of compiler phases (approaching 100). The phases were brought into memory from disk, and released, one at a time to handle particular language features and aspects of compilation.
+
+Aspects of the language were still being designed as PL/I F was implemented, so some were omitted until later releases. PL/I RECORD I/O was shipped with PL/I F Release 2. The list processing functions - Based Variables, Pointers, Areas and Offsets and LOCATE-mode I/O - were first shipped in Release 4. In a major attempt to speed up PL/I code to compete with Fortran object code, PL/I F Release 5 did substantial program optimization of DO-loops facilitated by the REORDER option on procedures.
+
+A version of PL/I F was released on the TSS/360 timesharing operating system for the System/360 Model 67, adapted at the IBM Mohansic Lab. The IBM La Gaude Lab in France developed “Language Conversion Programs” to convert Fortran, Cobol, and Algol programs to the PL/I F level of PL/I.
+
+The PL/I D compiler, using 16 kilobytes of memory, was developed by IBM Germany for the DOS/360 low end operating system. It implemented a subset of the PL/I language requiring all strings and arrays to have fixed extents, thus simplifying the run-time environment. Reflecting the underlying operating system it lacked dynamic storage allocation and the controlled storage class. It was shipped within a year of PL/I F.
+
+5.2. Multics PL/I and derivatives
+
+Compilers were implemented by several groups in the early 1960s. The Multics project at MIT, one of the first to develop an operating system in a high level language, used Early PL/I (EPL), a subset dialect of PL/I, as their implementation language in 1964. EPL was developed at Bell Labs and MIT by Douglas McIlroy, Robert Morris, and others. The influential Multics PL/I compiler, described on the "Multicians" website, was the source of compiler technology used by a number of manufacturers and software groups.
+
+The Honeywell PL/I compiler (for Series 60) was an implementation of the full ANSI X3J1 standard.
+
+5.3. IBM PL/I optimizing and checkout compilers
+
+The PL/I Optimizer and Checkout compilers produced in Hursley supported a common level of PL/I language and aimed to replace the PL/I F compiler. The checkout compiler was a rewrite of PL/I F in BSL, IBM's PL/I-like proprietary implementation language (later PL/S). The performance objectives set for the compilers are shown in an IBM presentation to the BCS. The compilers had to produce identical results - the Checkout Compiler was used to debug programs that would then be submitted to the Optimizer. Given that the compilers had entirely different designs and were handling the full PL/I language this goal was challenging: it was achieved.
+
+The PL/I optimizing compiler took over from the PL/I F compiler and was IBM’s workhorse compiler from the 1970s to the 1990s. Like PL/I F, it was a multiple pass compiler with a 44 kilobyte design point, but it was an entirely new design. Unlike the F compiler, it had to perform compile time evaluation of constant expressions using the run-time library, reducing the maximum memory for a compiler phase to 28 kilobytes. A second-time around design, it succeeded in eliminating the annoyances of PL/I F such as cascading diagnostics. It was written in S/360 Macro Assembler by a team, led by Tony Burbridge, most of whom had worked on PL/I F. Macros were defined to automate common compiler services and to shield the compiler writers from the task of managing real-mode storage, allowing the compiler to be moved easily to other memory models. The gamut of program optimization techniques developed for the contemporary IBM Fortran H compiler were deployed: the Optimizer equaled Fortran execution speeds in the hands of good programmers. Announced with the IBM S/370 in 1970, it shipped first for the DOS/360 operating system in August 1971, and shortly afterward for OS/360, and the first virtual memory IBM operating systems OS/VS1, MVS, and VM/CMS. (The developers were unaware that while they were shoehorning the code into 28 kb sections, IBM Poughkeepsie was finally ready to ship virtual memory support in OS/360). It supported the batch programming environments and, under TSO and CMS, it could be run interactively. This compiler went through many versions covering all mainframe operating systems including the operating systems of the Japanese PCMs.
+
+The compiler has been superseded by "IBM PL/I for OS/2, AIX, Linux, z/OS" below.
+
+The PL/I checkout compiler, (colloquially "The Checker") announced in August 1970 was designed to speed and improve the debugging of PL/I programs. The team was led by Brian Marks. The three-pass design cut the time to compile a program to 25% of that taken by the F Compiler. It was run from an interactive terminal, converting PL/I programs into an internal format, “H-text”. This format was interpreted by the Checkout compiler at run-time, detecting virtually all types of errors. Pointers were represented in 16 bytes, containing the target address and a description of the referenced item, thus permitting "bad" pointer use to be diagnosed. In a conversational environment when an error was detected, control was passed to the user who could inspect any variables, introduce debugging statements and edit the source program. Over time the debugging capability of mainframe programming environments developed most of the functions offered by this compiler and it was withdrawn (in the 1990s?)
+
+5.4. DEC PL/I
+
+Perhaps the most commercially successful implementation aside from IBM's was Digital Equipment's 1988 release of the ANSI PL/I 1987 subset. The implementation is "a strict superset of the ANSI X3.4-1981 PL/I General Purpose Subset and provides most of the features of the new ANSI X3.74-1987 PL/I General Purpose Subset". The front end was designed by Robert Freiburghouse, and the code generator was implemented by Dave Cutler, who managed the design and implementation of VAX/VMS. It runs on VMS on VAX and ALPHA and on Tru64. UniPrise Systems, Inc., was responsible for the compiler; it is currently supported by Kednos Corporation.
+
+5.5. Teaching subset compilers
+
+In the late 1960s and early 1970s, many US and Canadian Universities were establishing time-sharing services on campus and needed conversational compiler/interpreters for use in teaching science, mathematics, engineering, and computer science. Dartmouth were developing BASIC, but PL/I was a popular choice, as it was concise and easy to teach. As the IBM offerings were unsuitable, a number of schools built their own subsets of PL/I and their own interactive support. Examples are:
+
+A compiler developed at Cornell University for teaching a dialect called PL/C, which had the unusual capability of never failing to compile any program through the use of extensive automatic correction of many syntax errors and by converting any remaining syntax errors to output statements. The language was almost all of PL/I as implemented by IBM. PL/C was a very fast compiler.
+
+PLAGO, created at the Polytechnic Institute of Brooklyn, used a simplified subset of the PL/I language and focused on good diagnostic error messages and fast compilation times.
+
+The Computer Systems Research Group of the University of Toronto produced the SP/k compilers which supported a sequence of subsets of PL/I called SP/1, SP/2, SP/3, ..., SP/8 for teaching programming. Programs that ran without errors under the SP/k compilers produced the same results under other contemporary PL/I compilers such as IBM's PL/I F compiler, IBM's checkout compiler or Cornell University's PL/C compiler.
+
+Other examples are PL0 by P. Grouse at the University of New South Wales, PLUM by Marvin Zelkowitz at the University of Maryland., and PLUTO from the University of Toronto.
+
+5.6. IBM PL/I for OS/2, AIX, Linux, z/OS
+
+In a major revamp of PL/I, IBM Santa Teresa in California launched an entirely new compiler in 1992. The initial shipment was for OS/2 and included most ANSI-G features and many new PL/I features. Subsequent releases covered additional platforms (MVS, VM, OS/390, AIX and Windows) and continued to add functions to make PL/I fully competitive with other languages offered on the PC (particularly C and C++) in areas where it had been overtaken. The corresponding “IBM Language Environment" supports inter-operation of PL/I programs with Database and Transaction systems, and with programs written in C, C++, and COBOL, the compiler supports all the data types needed for intercommunication with these languages.
+
+The PL/I design principles were retained and withstood this major extension comprising several new data types, new statements and statement options, new exception conditions, and new organisations of program source. The resulting language is a compatible super-set of the PL/I Standard and of the earlier IBM compilers. Major topics added to PL/I were:
+
+New attributes for better support of object-oriented programming – the DEFINE ALIAS, ORDINAL, and DEFINE STRUCTURE statement to introduce user-defined types, the HANDLE locator data type, the TYPE data type itself, the UNION data type, and built-in functions for manipulating the new types.
+
+Additional data types and attributes corresponding to common PC data types (e.g. UNSIGNED, VARYINGZ).
+
+Improvements in readability of programs – often rendering implied usages explicit (e.g. BYVALUE attribute for parameters)
+
+Additional structured programming constructs.
+
+Interrupt handling additions.
+
+Compile time preprocessor extended to offer almost all PL/I string handling features and to interface with the Application Development Environment
+
+5.6.1. Object orientation
+
+ORDINAL is a new computational data type. The ordinal facilities are like those in Pascal, e.g. DEFINE ORDINAL Colour (red, yellow, green, blue, violet); but in addition the name and internal values are accessible via built-in functions. Built-in functions provide access to an ordinal value's predecessor and successor.
+
+The DEFINE-statement (see below) allows additional TYPEs to be declared composed from PL/I's built-in attributes.
+
+The HANDLE(data structure) locator data type is similar to the POINTER data type, but strongly typed to bind only to a particular data structure. The => operator is used to select a data structure using a handle.
+
+The UNION attribute (equivalent to CELL in early PL/I specifications) permits several scalar variables, arrays, or structures to share the same storage in a unit that occupies the amount of storage needed for the largest alternative.
+
+5.6.2. Competitiveness on PC and with C
+
+These attributes were added:
+
+The string attributes VARYINGZ (for zero-terminated character strings), HEXADEC, WIDECHAR, and GRAPHIC.
+
+The optional arithmetic attributes UNSIGNED and SIGNED, BIGENDIAN and LITTLEENDIAN. UNSIGNED necessitated the UPTHRU and DOWNTHRU option on iterative groups enabling a counter-controlled loop to be executed without exceeding the limit value (also essential for ORDINALs and good for documenting loops.
+
+The DATE(pattern) attribute for controlling date representations and additions to bring time and date to best current practice. New functions for manipulating dates include - DAYS and DAYSTODATE for converting between dates and number of days, and a general DATETIME function for changing date formats. New string-handling functions were added - to centre text, to edit using a picture format, and to trim blanks or selected characters from the head or tail of text, VERIFYR to VERIFY from the right. and SEARCH and TALLY functions.
+
+Compound assignment operators a la C e.g. +=, &=, -=, ||= were added. A+=1 is equivalent to A=A+1.
+
+Additional parameter descriptors and attributes were added for omitted arguments and variable length argument lists.
+
+5.6.3. Program readability – making intentions explicit
+
+The VALUE attribute declares an identifier as a constant (derived from a specific literal value or restricted expression).
+
+Parameters can have the BYADDR (pass by address) or BYVALUE (pass by value) attributes.
+
+The ASSIGNABLE and NONASSIGNABLE attributes prevent unintended assignments.
+
+DO FOREVER; obviates the need for the contrived construct DO WHILE ( '1'B );.
+
+The DEFINE-statement introduces user-specified names (e.g. INTEGER) for combinations of built-in attributes (e.g. FIXED BINARY(31,0)). Thus DEFINE ALIAS INTEGER FIXED BINARY(31.0) creates the TYPE name INTEGER as an alias for the set of built-in attributes FIXED BINARY(31.0). DEFINE STRUCTURE applies to structures and their members; it provides a TYPE name for a set of structure attributes and corresponding substructure member declarations for use in a structure declaration (a generalisation of the LIKE attribute).
+
+5.6.4. Structured programming additions
+
+A LEAVE statement to exit a loop, and an ITERATE to continue with the next iteration of a loop.
+
+UPTHRU and DOWNTHRU options on iterative groups.
+
+The package construct consisting of a set of procedures and declarations for use as a unit. Variables declared outside of the procedures are local to the package, and can use STATIC, BASED or CONTROLLED storage. Procedure names used in the package also are local, but can be made external by means of the EXPORTS option of the PACKAGE-statement.
+
+5.6.5. Interrupt handling
+
+The RESIGNAL-statement executed in an ON-unit terminates execution of the ON-unit, and raises the condition again in the procedure that called the current one (thus passing control to the corresponding ON-unit for that procedure).
+
+The INVALIDOP condition handles invalid operation codes detected by the PC processor, as well as illegal arithmetic operations such as subtraction of two infinite values.
+
+The ANYCONDITION condition is provided to intercept conditions for which no specific ON-unit has been provided in the current procedure.
+
+The STORAGE condition is raised when an ALLOCATE statement is unable to obtain sufficient storage.
+
+5.7. Other mainframe and minicomputer compilers
+
+A number of vendors produced compilers to compete with IBM PL/I F or Optimizing compiler on mainframes and minicomputers in the 1970s. In the 1980s the target was usually the emerging ANSI-G subset.
+
+In 1974 Burroughs Corporation announced PL/I for the B6700 and B7700.
+
+UNIVAC released a UNIVAC PL/I, and in the 1970s also used a variant of PL/I, PL/I PLUS, for systems programming.
+
+From 1978 Data General provided PL/I on its Eclipse and Eclipse MV platforms running the AOS, AOS/VS & AOS/VS II operating systems. A number of operating system utility programs were written in the language.
+
+CDC delivered an optimizing subset PL/I compiler for Cyber 70, 170 and 6000 series.
+
+Fujitsu delivered a PL/I compiler equivalent to the PL/I Optimizer.
+
+Prime Computer utilized PL/P in the later years of the 50 series to implement the portions of PRIMOS that were not still written in Fortran IV.
+
+Stratus Technologies PL/I is an ANSI G implementation.
+
+5.8. PL/I compilers for Microsoft .NET
+
+In 2011, Raincode designed a full legacy compiler for the Microsoft .NET platform, named Raincode PL/I.
+
+5.9. PL/I compilers for personal computers and Unix
+
+In 1972 Gary Kildall implemented a subset "PL/M" for Intel. PL/M was used to write the CP/M operating system proper - and much application software running on CP/M and MP/M. Digital Research sold a PL/I compiler for the Personal Computer written in PL/M. PL/M was used to write much other software at Intel for the 8080, 8085, and Z-80 processors during the 1970s.
+
+PL/M-86 was a version of the PL/M language for the 8086 and 8088 microprocessor. It was heavily used by Daisy Systems for electronic design automation software on the "Logician" family of special-purpose workstations.
+
+Micro Focus implemented Open PL/I for Windows and UNIX/Linux systems, which they acquired from Liant.
+
+IBM delivered PL/I for OS/2 (1994).
+
+Iron Spring PL/I for OS/2 and later Linux was introduced in 2007.
+
+5.10. Special purpose and system PL/I compilers
+
+A subset of PL/P was used to write new portions of Prime Computer PRIMOS at all rings of protection in its later revisions.
+
+IBM delivered PL/I for the Series/1 computer family in the 1970s.
+
+Paul Abrahams of NYU's Courant Institute of Mathematical Sciences wrote CIMS PL/I in 1972 in PL/I, bootstrapping via PL/I F. It supported "about 70%" of PL/I compiling to the CDC 6600
+
+PL/8 (or PL.8), so-called because it was about 80% of PL/I,was developed by IBM Research in the 1970s by compiler group, under Martin Hopkins, within a major research program that led to the IBM RISC architecture. Written in PL/I and bootstrapped via the PL/I Optimizing compiler, it was an alternative to PL/S for system programming, compiling initially to an intermediate machine-independent language with symbolic registers and machine-like operations. It applied machine-independent program optimization techniques to this intermediate language to produce exceptionally good object code. The intermediate language was mapped by the back-end to the target machine's register architecture and instruction set. The first back-end was for POWER/PC; other back-ends were written for S/370 and Motorola 68XX. A version was used on IBM mainframes as a development tool for software that was being designed for the AS/400, as well as to write the S/390 microcode.
+
+Honeywell, Inc. developed PL-6 for use in creating the CP-6 operating system.
+
+5.11. PL/I dialect compilers
+
+PL/S, a dialect of PL/I, initially called BSL was developed in the late 1960s and became the IBM systems programming language. Almost all IBM mainframe system software in the 1970s and 1980s was written in PL/S. It differed from PL/I in that there were no data type conversions, no run-time environment, structures were mapped differently, and assignment was a byte by byte copy. All strings and arrays had fixed extents, or used the REFER option. IBM uses an improved and renamed PL/S for internal work on current operating systems, OS/390 and now z/OS.
+
+XPL is a dialect of XPL used to write other compilers using the XPL compiler techniques. XPL added a heap string datatype to its small subset of PL/I.
+
+HAL/S is a real-time aerospace programming language, best known for its use in the Space Shuttle program. It was designed by Intermetrics in the 1970s for NASA. HAL/S was implemented in XPL.
+
+IBM and various subcontractors also developed another PL/I variant in the early 1970s to support signal processing for the Navy called SPL/I.
+
+SabreTalk, a real-time dialect of PL/I used to program the Sabre airline reservation system.
+
+6. Usage
+
+PL/I implementations were developed for mainframes from the late 1960s, mini computers in the 1970s, and personal computers in the 1980s and 1990s. Although its main use has been on mainframes, there are PL/I versions for DOS, Microsoft Windows, OS/2, AIX, OpenVMS, and Unix.
+
+It has been widely used in business data processing and for system use for authoring operating systems on certain platforms. Very complex and powerful systems have been built with PL/I:
+
+The SAS System was initially written in PL/I; the SAS data step is still modeled on PL/I syntax.
+
+The pioneering online airline reservation system Sabre was originally written for the IBM 7090 in assembler. The S/360 version was largely written using SabreTalk, a purpose built subset PL/I compiler for a dedicated control program.
+
+PL/I was used to write an executable formal definition to interpret IBM's System Network Architecture
+
+PL/I did not fulfill its supporters' hopes that it would displace Fortran and COBOL and become the major player on mainframes. It remained a minority but significant player. There cannot be a definitive explanation for this, but some trends in the 1970s and 1980s militated against its success by progressively reducing the territory on which PL/I enjoyed a competitive advantage.
+
+First, the nature of the mainframe software environment changed. Application subsystems for database and transaction processing (CICS and IMS and Oracle on System 370) and application generators became the focus of mainframe users' application development. Significant parts of the language became irrelevant because of the need to use the corresponding native features of the subsystems (such as tasking and much of input/output). Fortran was not used in these application areas, confining PL/I to COBOL’s territory; most users stayed with COBOL. But as the PC became the dominant environment for program development Fortran, COBOL and PL/I all became minority languages overtaken by C++, Java and the like.
+
+Second, PL/I was overtaken in the systems programming field. The IBM system programming community was not ready to use PL/I; instead, IBM developed and adopted a proprietary dialect of PL/I for system programming. – PL/S. With the success of PL/S inside IBM, and of C outside IBM, the unique PL/I strengths for system programming became less valuable.
+
+Third, the development environments grew capabilities for interactive software development that, again, made the unique PL/I interactive and debugging strengths less valuable.
+
+Fourth, COBOL and Fortran added features such as structured programming, character string operations, and object orientation, that further reduced PL/I's relative advantages.
+
+On mainframes there were substantial business issues at stake too. IBM’s hardware competitors had little to gain and much to lose from success of PL/I. Compiler development was expensive, and the IBM compiler groups had an in-built competitive advantage. Many IBM users wished to avoid being locked into proprietary solutions. With no early support for PL/I by other vendors it was best to avoid PL/I.
+
+7. Evolution of the PL/I language
+
+This article uses the PL/I standard as the reference point for language features. But a number of features of significance in the early implementations were not in the Standard; and some were offered by non-IBM compilers. And the de facto language continued to grow after the standard, ultimately driven by developments on the Personal Computer.
+
+7.1. Significant features omitted from the standard
+
+7.1.1. Multi tasking
+
+Multi tasking was implemented by PL/I F, the Optimizer and the newer AIX and Z/OS compilers. It comprised the data types EVENT and TASK, the TASK-option on the CALL-statement (Fork), the WAIT-statement (Join), the DELAY(delay-time), EVENT-options on the record I/O statements and the UNLOCK statement to unlock locked records on EXCLUSIVE files. Event data identify a particular event and indicate whether it is complete ('1'B) or incomplete ('0'B): task data items identify a particular task (or process) and indicate its priority relative to other tasks.
+
+7.1.2. Preprocessor
+
+The first IBM Compile time preprocessor was built by the IBM Boston Advanced Programming Center located in Cambridge, Mass, and shipped with the PL/I F compiler. The %INCLUDE statement was in the Standard, but the rest of the features were not. The DEC and Kednos PL/I compilers implemented much the same set of features as IBM, with some additions of their own. IBM has continued to add preprocessor features to its compilers. The preprocessor treats the written source program as a sequence of tokens, copying them to an output source file or acting on them. When a % token is encountered the following compile time statement is executed: when an identifier token is encountered and the identifier has been DECLAREd, ACTIVATEd, and assigned a compile time value, the identifier is replaced by this value. Tokens are added to the output stream if they do not require action (e.g. +), as are the values of ACTIVATEd compile time expressions. Thus a compile time variable PI could be declared, activated, and assigned using %PI='3.14159265'. Subsequent occurrences of PI would be replaced by 3.14159265.
+
+The data type supported are FIXED DECIMAL integers and CHARACTER strings of varying length with no maximum length. The structure statements are
+
+%[label-list:]DO iteration: statements; %[label-list:]END;
+
+%procedure-name: PROCEDURE (parameter list) RETURNS (type); statements...;* %[label-list:]END;
+
+%[label-list:]IF...%THEN...%ELSE.. and the simple statements, which also may have a [label-list:]
+
+%ACTIVATE(identifier-list) and %DEACTIVATE
+
+assignment statement
+
+%DECLARE identifier-attribute-list
+
+%GO TO label
+
+%INCLUDE
+
+null statement The feature allowed programmers to use identifiers for constants - e.g. product part numbers or mathematical constants - and was superseded in the standard by named constants for computational data. Conditional compiling and iterative generation of source code, possible with compile-time facilities, was not supported by the standard. Several manufacturers implemented these facilities.
+
+7.1.3. Structured programming additions
+
+Structured programming additions were made to PL/I during standardization but were not accepted into the standard. These features were the LEAVE-statement to exit from an iterative DO, the UNTIL-option and REPEAT-option added to DO, and a case statement of the general form: SELECT (expression) {WHEN (expression) group}... OTHERWISE group
+These features were all included in DEC PL/I.
+
+7.1.4. Debug facilities
+
+PL/I F had offered some debug facilities that were not put forward for the standard but were implemented by others - notably the CHECK(variable-list) condition prefix, CHECK on-condition and the SNAP option. The IBM Optimizing and Checkout compilers added additional features appropriate to the conversational mainframe programming environment (e.g. an ATTENTION condition).
+
+7.2. Significant features developed since the standard
+
+Several attempts had been made to design a structure member type that could have one of several datatypes (CELL in early IBM). With the growth of classes in programming theory, approaches to this became possible on a PL/I base - UNION, TYPE etc. have been added by several compilers.
+
+PL/I had been conceived in a single byte character world. With support for Japanese and Chinese language becoming essential, and the developments on International Code Pages, the character string concept was expanded to accommodate wide non-ASCII/EBCDIC strings.
+
+TIME and DATE handling were overhauled to deal with the millennium problem.
+
+8. Criticisms
+
+8.1. Implementation issues
+
+Though the language was easy to learn and use, implementing a PL/I compiler was difficult and time-consuming. A language as large as PL/I needed subsets that most vendors could produce and most users master. This was not resolved until "ANSI G" was published. The compile time facilities, unique to PL/I, took added implementation effort and additional compiler passes. A PL/I compiler was two to four times as large as comparable Fortran or COBOL compilers, and also that much slower - fortunately offset by gains in programmer productivity. This was anticipated in IBM before the first compilers were written.
+
+Some argued that PL/I was unusually hard to parse. The PL/I keywords were not reserved so programmers could use them as variable or procedure names in programs. Because the original PL/I F compiler attempted auto-correction when it encountered a keyword used in an incorrect context, it often assumed it was a variable name. This led to "cascading diagnostics", a problem solved by later compilers.
+
+The effort needed to produce good object code was perhaps underestimated during the initial design of the language. Program optimization (needed to compete with the excellent program optimization carried out by available Fortran compilers) was unusually complex due to side effects and pervasive problems with aliasing of variables. Unpredictable modification can occur asynchronously for ABNORMAL data, or in exception handlers, which may be provided by "ON statements" in (unseen) callers. Together, these make it difficult to reliably predict when a program's variables might be modified at runtime.
+
+It contained many rarely used features, such as multitasking support, which added cost and complexity to the compiler, and its co-processing facilities required a multi-programming environment with support for non-blocking multiple threads for processes by the operating system. Compiler writers were free to select whether to implement these features.
+
+An undeclared variable was by default being declared by first occurrence - thus misspelling might lead to unpredictable results.
+
+8.2. Programmer issues
+
+Many programmers were slow to move from COBOL or Fortran due to a perceived complexity of the language and immaturity of the PL/I F compiler. Programmers were sharply divided into scientific programmers (who used Fortran) and business programmers (who used COBOL), with significant tension and even dislike between the groups. PL/I syntax borrowed from both COBOL and Fortran syntax. So instead of noticing features that would make their job easier, Fortran programmers of the time noticed COBOL syntax and had the opinion that it was a business language, while COBOL programmers noticed Fortran syntax and looked on it as a scientific language.
+
+Both COBOL and Fortran programmers viewed it as a "bigger" version of their own language, and both were somewhat intimidated by the language and disinclined to adopt it. Another factor was pseudo-similarities to COBOL, Fortran, and ALGOL. These were PL/I elements that looked similar to one of those languages, but worked differently in PL/I. Such frustrations left many experienced programmers with a jaundiced view of PL/I, and often an active dislike for the language. An early UNIX fortune file contained the following tongue-in-cheek description of the language:
+
+Speaking as someone who has delved into the intricacies of PL/I, I am sure that only Real Men could have written such a machine-hogging, cycle-grabbing, all-encompassing monster. Allocate an array and free the middle third? Sure! Why not? Multiply a character string times a bit string and assign the result to a float decimal? Go ahead! Free a controlled variable procedure parameter and reallocate it before passing it back? Overlay three different types of variable on the same memory location? Anything you say! Write a recursive macro? Well, no, but Real Men use rescan. How could a language so obviously designed and written by Real Men not be intended for Real Man use? On the positive side, full support for pointers to all data types (including pointers to structures), recursion, multitasking, string handling, and extensive built-in functions PL/I was indeed quite a leap forward compared to the programming languages of its time. However, these were not enough to convince a majority of programmers or shops to switch to PL/I.
+
+The PL/I F compiler's compile time preprocessor was unusual (outside the Lisp world) in using its target language's syntax and semantics (e.g. as compared to the C preprocessor's "#" directives).
+
+9. Special topics in PL/I
+
+9.1. Storage classes
+
+PL/I provides several 'storage classes' to indicate how the lifetime of variables' storage is to be managed - AUTOMATIC, STATIC, CONTROLLED and BASED. The simplest to implement is STATIC, which indicates that memory is allocated and initialized at load-time, as is done in COBOL "working-storage" and Fortran IV. But this is only the default for EXTERNAL variables. PL/I's default storage class for INTERNAL variables is AUTOMATIC, similar to that of other block-structured languages influenced by ALGOL, like the "auto" storage class in the C language, and default storage allocation in Pascal and "local-storage" in IBM COBOL. Storage for AUTOMATIC variables is allocated upon entry into the BEGIN-block, procedure, or on-unit in which they are declared. The compiler and runtime system allocate memory for a stack frame to contain them and other housekeeping information. If a variable is declared with an INITIAL-attribute, code to set it to an initial value is executed at this time. Care is required to manage the use of initialization properly. Large amounts of code can be executed to initialize variables every time a scope is entered, especially if the variable is an array or structure. Storage for AUTOMATIC variables is freed at block exit: STATIC, CONTROLLED or BASED variables are used to retain variables' contents between invocations of a procedure or block. CONTROLLED storage is also managed using a stack, but the pushing and popping of allocations on the stack is managed by the programmer, using ALLOCATE and FREE statements. Storage for BASED variables is managed using ALLOCATE/FREE, but instead of a stack these allocations have independent lifetimes and are addressed through OFFSET or POINTER variables.
+
+9.2. Storage type sharing
+
+There are several ways of accessing allocated storage through different data declarations. Some of these are well defined and safe, some can be used safely with careful programming, and some are inherently unsafe and/or machine dependent.
+
+Passing a variable as an argument to a parameter by reference allows the argument's allocated storage to be referenced using the parameter. The DEFINED attribute (e.g. DCL A(10,10), B(2:9,2:9) DEFINED A) allows part or all of a variable's storage to be used with a different, but consistent, declaration. These two usages are safe and machine independent.
+
+Record I/O and list processing produce situations where the programmer needs to fit a declaration to the storage of the next record or item, before knowing what type of data structure it has. Based variables and pointers are key to such programs. The data structures must be designed appropriately, typically using fields in a data structure to encode information about its type and size. The fields can be held in the preceding structure or, with some constraints, in the current one. Where the encoding is in the preceding structure, the program needs to allocate a based variable with a declaration that matches the current item (using expressions for extents where needed). Where the type and size information are to be kept in the current structure ("self defining structures") the type-defining fields must be ahead of the type dependent items and in the same place in every version of the data structure. The REFER-option is used for self-defining extents (e.g. string lengths as in DCL 1 A BASED, 2 N BINARY, 2 B CHAR(LENGTH REFER A.N), etc - where LENGTH is used to allocate instances of the data structure. For self-defining structures, any typing and REFERed fields are placed ahead of the "real" data. If the records in a data set, or the items in a list of data structures, are organised this way they can be handled safely in a machine independent way.
+
+PL/I implementations do not (except for the PL/I Checkout compiler) keep track of the data structure used when storage is first allocated. Any BASED declaration can be used with a pointer into the storage to access the storage - inherently unsafe and machine dependent. However this usage has become important for "pointer arithmetic" (typically adding a certain amount to a known address). This has been a contentious subject in computer science. In addition to the problem of wild references and buffer overruns, issues arise due to the alignment and length for data types used with particular machines and compilers. Many cases where pointer arithmetic might be needed involve finding a pointer to an element inside a larger data structure. The ADDR function computes such pointers, safely and machine independently.
+
+Pointer arithmetic may be accomplished by aliasing a binary variable with a pointer as in
+DCL P POINTER, N FIXED BINARY(31) BASED(ADDR(P)); N=N+255;
+It relies on pointers being the same length as FIXED BINARY(31) integers and aligned on the same boundaries.
+
+With the prevalence of C and its free and easy attitude to pointer arithmetic, recent IBM PL/I compilers allow pointers to be used with the addition and subtraction operators to giving the simplest syntax (but compiler options can disallow these practices where safety and machine independence are paramount).
+
+9.3. On-Units and exception handling
+
+When PL/I was designed, programs only ran in batch mode, with no possible intervention from the programmer at a terminal. An exceptional condition such as division by zero would abort the program yielding only a hexadecimal core dump. PL/I exception handling, via on-units, allowed the program to stay in control in the face of hardware or operating system exceptions and to recover debugging information before closing down more gracefully. As a program became properly debugged most of the exception handling could be removed or disabled: this level of control became less important when conversational execution became commonplace.
+
+Computational exception handling is enabled and disabled per PL/I condition by condition prefixes on statements, blocks(including on-units) and procedures. – e.g. (SIZE, NOSUBSCRIPTRANGE): A(I)=B(I)*C; . Operating system exceptions for Input/Output and storage management are always enabled.
+
+The on-unit is a single statement or BEGIN-block introduced by an ON-statement and is established for a particular condition. When the exception for this condition occurs and the condition is enabled, an on-unit for the condition is executed. On-units are inherited down the call chain. When a block, procedure or on-unit is activated, the on-units established by the invoking activation are inherited by the new activation. They may be over-ridden by another ON-statement and can be reestablished by the REVERT-statement. The exception can be simulated using the SIGNAL-statement – e.g. to help debug the exception handlers. The dynamic inheritance principle for on-units allows a routine to handle the exceptions occurring within the subroutines it uses.
+
+If no on-unit is in effect when a condition is raised a standard system action is taken (often this is to raise the ERROR condition). The system action can be reestablished using the SYSTEM option of the ON-statement. With some conditions it is possible to complete executing an on-unit and return to the point of interrupt (the CONVERT, AREA and FILE conditions) and resume normal execution. With other conditions (ZERODIVIDE, SIZE) the ERROR condition is raised when this is attempted. An on-unit may be terminated with a GO TO preventing a return to the point of interrupt.
+
+An on-unit needs to be designed to deal with exceptions that occur in the on-unit itself. The ON ERROR SYSTEM; statement allows a nested error trap; if an error occurs within an on-unit, control passes to the operating system where a system dump might be produced.
+
+The PL/I RECORD I/O statements have relatively simple syntax as they do not offer options for the many situations from end-of-file to record transmission errors that can occur when a record is read or written. Instead, these complexities are handled in the on-units for the various file conditions. The same approach was adopted for AREA sub-allocation and the AREA condition.
+
+The existence of exception handling on-units makes the task of optimizing PL/I programs particularly difficult. Variables can be inspected or altered in ON-units, and the flow of control may be very hard to analyze. This is discussed in the section on Implementation Issues above.
+
+10. Sample programs
+
+10.1. Hello world program
+
+Hello2: proc options(main);
+
+end Hello2;
+
+10.2. Search for a string
+
+/* Read in a line, which contains a string, /* and then print every subsequent line that contains that string. */
+
+find_strings: procedure options (main);
+
+end find_strings;
+
+11. See also
+
+List of programming languages
+
+Timeline of programming languages
+
+12. Notes
+
+13. References
+
+13.1. Textbooks
+
+13.2. Standards
+
+ANSI ANSI X3.53-1976 (R1998) Information Systems - Programming Language - PL/I
+
+ANSI ANSI X3.74-1981 (R1998) Information Systems - Programming Language - PL/I General-Purpose Subset
+
+ECMA 50 Programming Language PL/I, 1st edition, December 1976
+
+ISO 6160:1979 Programming languages—PL/I
+
+ISO/IEC 6522:1992 Information technology—Programming languages—PL/I general purpose subset
+
+13.3. Reference manuals
+
+Burroughs Corporation, "B 6700 / B 7700 PL/I Language Reference", 5001530, Detroit, 1977.
+
+CDC. R. A. Vowels, "PL/I for CDC Cyber". Optimizing compiler for the CDC Cyber 70 series.
+
+Digital Equipment Corporation, "decsystem10 Conversational Programming Language User's Manual", DEC-10-LCPUA-A-D, Maynard, 1975.
+
+Fujitsu Ltd, "Facom OS IV PL/I Reference Manual", 70SP5402E-1,1974. 579 pages. PL/I F subset.
+
+Honeywell, Inc., "Multics PL/I Language Specification", AG94-02, 1981.
+
+IBM Operating System/360 PL/I: Language Specifications. C28-6571 1965.
+
+IBM PL/I Checkout and Optimizing Compilers: Language Reference Manual. GC33-0009 1970.
+
+IBM, "NPL Technical Report", December 1964.
+
+Enterprise PL/I for z/OS Version 4 Release 1 Language Reference Manual. SC14-7285-00. 2010.
+
+IBM OS/2 PL/I Version 2: Programming: Language Reference, 3rd Ed., Form SC26-4308, San Jose. 1994.
+
+Kednos PL/I for OpenVMS Systems. Reference Manual. AA-H952E-TM. Nov 2003. [ftp://kednos.com/pub/PLIDOCS/vms/reference/6291pro.pdf kednos.com]
+
+Liant Software Corporation (1994), Open PL/I Language Reference Manual, Rev. Ed., Framingham (Mass.).
+
+Nixdorf Computer, "Terminalsystem 8820 Systemtechnischer Teil PL/I-Subset",05001.17.8.93-01, 1976.
+
+Ing. C. Olivetti, "Mini PL/I Reference Manual", 1975, No. 3970530 V
+
+Q1 Corporation, "The Q1/LMC Systems Software Manual", Farmingdale, 1978.
+
+14. External links
+
+for z/OS, AIX, MVS, VM and VSE
+
+, PL/I for Linux and OS/2
+
+for OpenVMS and Tru64
+
+, PL/I editor for Eclipse
+
+, a side-by-side comparison of PL/I and C.
+
+, Online PL/I compiler for small experiments and tinkering.

@@ -1,0 +1,35 @@
+Theoretical chemistry seeks to provide explanations to chemical and physical observations. Theoretical chemistry includes the fundamental laws of physics Coulomb's law, Kinetic energy, Potential energy, the Virial Theorem, Planck's Law, Pauli exclusion principle and many others to explain but also predict chemical observed phenomena.
+
+In order to explain an observation one has to choose the "appropriate level of theory". For example, some theoretical methods (DFT) may not be appropriate to solve magnetic coupling or electron transitions properties. Instead, there are reports like Multireference configuration interaction (MRCI), which accurately and thoroughly explain the observed phenomena by means of the fundamental interactions.
+
+Major components include quantum chemistry, the application of quantum mechanics to the understanding of valence, molecular dynamics, statistical thermodynamics and theories of electrolyte solutions, reaction networks, polymerization, catalysis, molecular magnetism and spectroscopy.
+
+1. Branches of theoretical chemistry
+
+;Quantum chemistry: The application of quantum mechanics or fundamental interactions to chemical and physico-chemical problems. Spectroscopic and magnetic properties are between the most frequently modelled. ;Computational chemistry: The application of computer codes to chemistry, involving approximation schemes such as Hartree–Fock, post-Hartree–Fock, density functional theory, semiempirical methods (such as PM3) or force field methods. Molecular shape is the most frequently predicted property. Computers can also predict vibrational spectra and vibronic coupling, but also acquire and Fourier transform Infra-red Data into frequency information. The comparison with predicted vibrations supports the predicted shape. ;Molecular modelling: Methods for modelling molecular structures without necessarily referring to quantum mechanics. Examples are molecular docking, protein-protein docking, drug design, combinatorial chemistry. The fitting of shape and electric potential are the driving factor in this graphical approach. ;Molecular dynamics: Application of classical mechanics for simulating the movement of the nuclei of an assembly of atoms and molecules. The rearrangement of molecules within an ensemble is controlled by Van der Waals forces and promoted by temperature. ;Molecular mechanics: Modelling of the intra- and inter-molecular interaction potential energy surfaces via empirical potentials. The latter are usually parameterized from ab initio calculations. ;Mathematical chemistry: Discussion and prediction of the molecular structure using mathematical methods without necessarily referring to quantum mechanics. Topology is a branch of mathematics that allows to predict properties of flexible finite size bodies like clusters. ;Theoretical chemical kinetics: Theoretical study of the dynamical systems associated to reactive chemicals, the activated complex and their corresponding differential equations. ;Cheminformatics (also known as chemoinformatics): The use of computer and informational techniques, applied to crop information to solve problems in the field of chemistry.
+
+2. Closely related disciplines
+
+Historically, the major field of application of theoretical chemistry has been in the following fields of research:
+
+Atomic physics: The discipline dealing with electrons and atomic nuclei.
+
+Molecular physics: The discipline of the electrons surrounding the molecular nuclei and of movement of the nuclei. This term usually refers to the study of molecules made of a few atoms in the gas phase. But some consider that molecular physics is also the study of bulk properties of chemicals in terms of molecules.
+
+Physical chemistry and chemical physics: Chemistry investigated via physical methods like laser techniques, scanning tunneling microscope, etc. The formal distinction between both fields is that physical chemistry is a branch of chemistry while chemical physics is a branch of physics. In practice this distinction is quite vague.
+
+Many-body theory: The discipline studying the effects which appear in systems with large number of constituents. It is based on quantum physics – mostly second quantization formalism – and quantum electrodynamics. Hence, the theoretical chemistry discipline is sometimes seen as a branch of those fields of research. Nevertheless, more recently, with the rise of the density functional theory and other methods like molecular mechanics, the range of application has been extended to chemical systems which are relevant to other fields of chemistry and physics like biochemistry, condensed matter physics, nanotechnology or molecular biology.
+
+3. See also
+
+List of unsolved problems in chemistry
+
+4. Bibliography
+
+Attila Szabo and Neil S. Ostlund, Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory, Dover Publications; New Ed edition (1996) ISBN 0-486-69186-1, ISBN 978-0-486-69186-2
+
+Robert G. Parr and Weitao Yang, Density-Functional Theory of Atoms and Molecules, Oxford Science Publications; first published in 1989; ISBN 0-19-504279-4, ISBN 0-19-509276-7
+
+D. J. Tannor, V. Kazakov and V. Orlov, Control of Photochemical Branching: Novel Procedures for Finding Optimal Pulses and Global Upper Bounds, in Time Dependent Quantum Molecular Dynamics, J. Broeckhove and L. Lathouwers, eds., 347-360 (Plenum, 1992)
+
+5. References

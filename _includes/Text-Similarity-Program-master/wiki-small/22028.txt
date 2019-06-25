@@ -1,0 +1,63 @@
+Nephrology (from Greek νεφρός nephros "kidney", combined with the suffix -logy, "the study of") is a specialty of medicine and pediatrics that concerns itself with the study of normal kidney function, kidney problems, the treatment of kidney problems and renal replacement therapy (dialysis and kidney transplantation). Systemic conditions that affect the kidneys (such as diabetes and autoimmune disease) and systemic problems that occur as a result of kidney problems (such as renal osteodystrophy and hypertension) are also studied in nephrology. A physician who has undertaken additional training to become an expert in nephrology may call themselves a nephrologist or renal physician.
+
+1. Scope
+
+Nephrology concerns the diagnosis and treatment of kidney diseases, including electrolyte disturbances and hypertension, and the care of those requiring renal replacement therapy, including dialysis and renal transplant patients. Many diseases affecting the kidney are systemic disorders not limited to the organ itself, and may require special treatment. Examples include acquired conditions such as systemic vasculitides (e.g. ANCA vasculitis) and autoimmune diseases (e.g., lupus), as well as congenital or genetic conditions such as polycystic kidney disease.
+
+Patients are referred to nephrology specialists for various reasons, such as acute renal failure, chronic kidney disease, hematuria, proteinuria, kidney stones, hypertension, and disorders of acid/base or electrolytes.
+
+2. Nephrologist
+
+A nephrologist is a physician who has undertaken additional training to become an expert in nephrology. Additionally, due to their unique skills, nephrologists may provide care to people without kidney problems and may work in general/internal medicine, transplant medicine, immunosuppression management, intensive care medicine, clinical pharmacology, perioperative medicine, or pediatric nephrology.
+
+Nephrologists may further sub-specialise in dialysis, kidney transplantation, chronic kidney disease, cancer-related kidney diseases (Onconephrology), procedural nephrology or other non-nephrology areas as described above.
+
+Procedures a nephrologist may perform include native kidney and transplant kidney biopsy, dialysis access insertion (temporary vascular access lines, tunnelled vascular access lines, peritoneal dialysis access lines), fistula management (angiographic or surgical fistulogram and plasty), and .
+
+2.1. Training
+
+2.1.1. Australia and New Zealand
+
+Nephrology training in Australia and New Zealand typically includes completion of a medical degree (Bachelor of Medicine, Bachelor of Surgery: 4–6 years), internship (1 year), Basic Physician Training (3 years minimum), successful completion of the Royal Australasian College of Physicians written and clinical examinations, and Advanced Physician Training in Nephrology (2–3 years). The training pathway is overseen and accredited by the Royal Australasian College of Physicians. Increasingly, nephrologists may additionally complete of a post-graduate degree (usually a PhD) in a nephrology research interest (3–4 years). Finally, all Australian and New Zealand nephrologists participate in career-long professional and personal development through the Royal Australasian College of Physicians and other bodies such as the and the .
+
+2.1.2. United Kingdom
+
+In the United Kingdom, nephrology (or often renal medicine) is a subspecialty of general medicine. A nephrologist has completed medical school, foundation year posts (FY1 and FY2) and core medical training (CMT) and passed the Membership of the Royal College of Physicians (MRCP) exam before competing for a National Training Number (NTN) in renal medicine. The typical subspecialty training is five years and leads to a Certificate of Completion of Training (CCT) in both renal medicine and general (internal) medicine. Subspecialty trainees often interrupt their clinical training to obtain research degrees (MD/PhD).
+
+2.1.3. United States
+
+Nephrology training can be accomplished through one of two routes. The first being through an internal medicine pathway leading to an Internal Medicine/Nephrology specialty, and sometimes known as "adult nephrology". The second pathway being through Pediatrics leading to a speciality in Pediatric Nephrology. In the United States, after medical school adult nephrologists complete a three year residency in internal medicine followed by a two year (or longer) fellowship in nephrology. Complementary to an adult nephrologist, a pediatric nephrologist will complete a three year pediatric residency after medical school or a four year Combined Internal Medicine and Pediatrics residency. This is followed by a three year fellowship in Pediatic Nephrology. Once training is satisfactorily completed, the physician is eligible to take the American Board of Internal Medicine (ABIM) or American Osteopathic Board of Internal Medicine (AOBIM) nephrology examination. Nephrologists must be approved by one of these boards. To be approved, the physician must fulfill the requirements for education and training in nephrology in order to qualify to take the board's examination. If a physician passes the examination, then he or she can become a nephrology specialist. Typically, nephrologists also need two to three years of training in an ACGME or AOA accredited fellowship in nephrology. Nearly all programs train nephrologists in continuous renal replacement therapy; fewer than half in the United States train in the provision of plasmapheresis. Only pediatric trained physicians are able to train in pediatric nephrology, and internal medicine (adult) trained physicians may enter general (adult) nephrology fellowships.
+
+3. Diagnosis
+
+History and physical examination are central to the diagnostic workup in nephrology. This may include inquires regarding family history, general medical history, diet, medication use, drug use and occupation. Examination typically includes an assessment of volume state, blood pressure, skin, joints, abdomen and flank.
+
+Examination of the urine (urinalysis) allows a direct assessment for possible kidney problems, which may be suggested by appearance of blood in the urine (haematuria), protein in the urine (proteinuria), pus cells in the urine (pyuria) or cancer cells in the urine. A 24-hour urine collection can be used to quantify daily protein loss (see proteinuria), urine output, creatinine clearance or electrolyte handling by the renal tubules.
+
+Basic blood tests can be used to check the concentration of hemoglobin, platelets, sodium, potassium, chloride, bicarbonate, urea, creatinine, calcium, magnesium or phosphate in the blood. All of these may be affected by kidney problems. The serum creatinine concentration can be used to estimate the function of the kidney, called the creatinine clearance or estimated glomerular filtration rate (GFR). More specialized tests can be ordered to discover or link certain systemic diseases to kidney failure such as infections (hepatitis B, hepatitis C), autoimmune conditions (systemic lupus erythematosus, ANCA vasculitis), paraproteinemias (amyloidosis, multiple myeloma) and metabolic diseases (diabetes, cystinosis).
+
+Structural abnormalities of the kidneys are identified with imaging tests. These may include Medical ultrasonography/ultrasound, computed axial tomography (CT), scintigraphy (nuclear medicine), angiography or magnetic resonance imaging (MRI).
+
+In certain circumstances, less invasive testing may not provide a certain diagnosis. Where definitive diagnosis is required, a biopsy of the kidney (renal biopsy) may be performed. This typically involves the insertion, under local anaesthetic and ultrasound or CT guidance, of a core biopsy needle into the kidney to obtain a small sample of kidney tissue. The kidney tissue is then examined under a microscope, allowing direct visualization of the changes occurring within the kidney. Additionally, the pathology may also stage a problem affecting the kidney, allowing some degree of prognostication. In some circumstances, kidney biopsy will also be used to monitor response to treatment and identify early relapse.
+
+4. Treatment
+
+Treatments in nephrology can include medications, blood products, surgical interventions (urology, vascular or surgical procedures), renal replacement therapy (dialysis or kidney transplantation) and plasma exchange. Kidney problems can have significant impact on quality and length of life, and so psychological support, health education and advanced care planning play key roles in nephrology.
+
+Chronic kidney disease is typically managed with treatment of causative conditions (such as diabetes), avoidance of substances toxic to the kidneys (nephrotoxins like radiologic contrast and non-steroidal anti-inflammatory drugs), antihypertensives, diet and weight modification and planning for end-stage renal failure. Impaired kidney function has systemic effects on the body. An erythropoetin stimulating agent may be required to ensure adequate production of red blood cells, activated vitamin D supplements and phosphate binders may be required to counteract the effects of kidney failure on bone metabolism, and blood volume and electrolyte disturbance may need correction.
+
+Auto-immune and inflammatory kidney disease, such as vasculitis or transplant rejection, may be treated with immunosuppression. Commonly used agents are prednisone, mycophenolate, cyclophosphamide, cyclosporine, tacrolimus, everolimus, thymoglobulin and sirolimus. Newer, so-called "biologic drugs" or monoclonal antibodies, are also used in these conditions and include rituximab, basiliximab and eculizumab. Blood products including intravenous immunoglobulin and a process known as plasma exchange can also be employed.
+
+When the kidneys are no longer able to sustain the demands of the body, end-stage renal failure is said to have occurred. Without renal replacement therapy, death from renal failure will eventually result. Dialysis is an artificial method of replacing some kidney function to prolong life. Renal transplantation replaces kidney function by inserting into the body a healthier kidney from an organ donor and inducing immunologic tolerance of that organ with immunosuppression. At present, renal transplantation is the most effective treatment for end-stage renal failure although its world-wide availability is limited by lack of availability of donor organs.
+
+Most kidney conditions are chronic conditions and so long term followup with a nephrologist is usually necessary.
+
+5. Organizations
+
+The International Society of Nephrology is the largest global society representing medical professionals engaged in advancing kidney care worldwide. In the USA, the National Kidney Foundation is a national organization representing patients and professionals who treat kidney diseases. Founded in 1966, the American Society of Nephrology (ASN) is the world’s largest professional society devoted to the study of kidney disease. The American Nephrology Nurses' Association (ANNA), founded in 1969, promotes excellence in and appreciation of nephrology nursing to make a positive difference for patients with kidney disease. The American Association of Kidney Patients (AAKP) is a non-profit, patient-centric group focused on improving the health and well-being of CKD and dialysis patients. The American Kidney Fund directly provides financial support to patients in need, as well as participating in health education and prevention efforts. ASDIN (American Society of Diagnostic and Interventional Nephrology) is the main organization of interventional nephrologists. Other organizations include CIDA, VASA etc. which deal with dialysis vascular access. The Renal Support Network (RSN) is a nonprofit, patient-focused, patient-run organization that provides non-medical services to those affected by chronic kidney disease (CKD).
+
+In the United Kingdom, the UK National Kidney Federation represents patients, and the Renal Association represents renal physicians and works closely with the National Service Framework for kidney disease.
+
+6. References
+
+7. External links

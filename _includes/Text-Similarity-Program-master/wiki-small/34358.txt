@@ -1,0 +1,35 @@
+Yacc is a computer program for the Unix operating system. The name is an acronym for "Yet Another Compiler Compiler". It is a LALR parser generator, generating a parser, the part of a compiler that tries to make syntactic sense of the source code, specifically a LALR parser, based on an analytic grammar written in a notation similar to BNF. It was originally developed in the early 1970s by Stephen C. Johnson at AT&T Corporation and written in the B programming language, but soon rewritten in C. A full description of Yacc was published in 1975.
+
+Yacc and similar programs (largely reimplementations) have been very popular. Yacc itself used to be available as the default parser generator on most Unix systems, though it has since been supplanted as the default by more recent, largely compatible, programs such as Berkeley Yacc, GNU bison, MKS Yacc and Abraxas PCYACC. An updated version of the original AT&T version is included as part of Sun's OpenSolaris project. Each offers slight improvements and additional features over the original Yacc, but the concept and syntax have remained the same. Yacc has also been rewritten for other languages, including OCaml, Ratfor, ML, Ada, Pascal, Java, Python, Ruby, Go and Common Lisp.
+
+Yacc produces only a parser (phrase analyzer); for full syntactic analysis this requires an external lexical analyzer to perform the first tokenization stage (word analysis), which is then followed by the parsing stage proper. Lexical analyzer generators, such as Lex or Flex are widely available. The IEEE POSIX P1003.2 standard defines the functionality and requirements for both Lex and Yacc.
+
+Some versions of AT&T Yacc have become open source. For example, source code (for different implementations) is available with the standard distributions of Plan 9 and OpenSolaris.
+
+1. See also
+
+Berkeley Yacc: The Berkeley implementation of Yacc quickly became more popular than AT&T Yacc itself because of lack of reuse restrictions and performance.
+
+LALR parser: The underlying parsing algorithm in Yacc-generated parsers.
+
+Bison: The GNU version of Yacc.
+
+Lex (and Flex lexical analyser), the token parser commonly used in conjunction with Yacc (and Bison).
+
+BNF, is a metasyntax used to express context-free grammars: that is, a formal way to describe context-free languages.
+
+2. References
+
+3. External links
+
+a Yacc version for the Standard ML language.
+
+, a LALR(1)parser generator for Common Lisp.
+
+a Yacc version for Python
+
+a Yacc version for OCaml.
+
+a Yacc version for Ruby.
+
+Paper "" by Gary H. Merrill

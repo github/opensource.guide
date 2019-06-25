@@ -1,0 +1,121 @@
+Theodicy (), in its most common form, is the attempt to answer the question of why a good God permits the manifestation of evil. Theodicy attempts to resolve the evidential problem of evil by reconciling the traditional divine characteristics of omnibenevolence, omnipotence, and omniscience, in either their absolute or relative form, with the occurrence of evil or suffering in the world. Unlike a defense, which tries to demonstrate that God's existence is logically possible in the light of evil, a theodicy provides a framework which claims to make God's existence probable. The term was coined in 1710 by German philosopher Gottfried Leibniz in his work, Théodicée, though various responses to the problem of evil had been previously proposed. The British philosopher John Hick traced the history of moral theodicy in his work, Evil and the God of Love, identifying three major traditions: the Plotinian theodicy, named after Plotinus, the Augustinian theodicy, which Hick based on the writings of Augustine of Hippo, and the Irenaean theodicy, which Hick developed, based on the thinking of St Irenaeus. Other philosophers have suggested that theodicy is a modern discipline because deities in the ancient world were often imperfect.
+
+German philosopher Max Weber saw theodicy as a social problem, based on the human need to explain puzzling aspects of the world; sociologist Peter L. Berger argued that religion arose out of a need for social order, and theodicy developed to sustain it. Following the Holocaust, a number of Jewish theologians developed a new response to the problem of evil, sometimes called anti-theodicy, which maintains that God cannot be meaningfully justified. As an alternative to theodicy, a defence may be proposed, which is limited to showing the logical possibility of God's existence. American philosopher Alvin Plantinga presented a version of the free will defence which argued that the coexistence of God and evil is not logically impossible, and that free will further explains the existence of evil without threatening the existence of God. Similar to a theodicy, a cosmodicy attempts to justify the fundamental goodness of the universe, and an anthropodicy attempts to justify the goodness of humanity.
+
+1. Definition and etymology
+
+As defined by Alvin Plantinga, theodicy is the "answer to the question of why God permits evil." Theodicy is defined as a theological construct that attempts to vindicate God in response to the evidential problem of evil that militates against the existence of an omnipotent and omnibenevolent deity. The word theodicy derives from the Greek words Θεός Τheos and δίκη dikē. Theos is translated "God" and dikē can be translated as either "trial" or "judgement." Thus, theodicy literally means “justifying God.”
+
+In the Internet Encyclopedia of Philosophy, Nick Trakakis proposed an additional three requirements which must be contained within a theodicy:
+
+Common sense views of the world.
+
+Widely held historical and scientific opinion.
+
+Plausible moral principles. As a response to the problem of evil, a theodicy is distinct from a defence. A defence attempts to demonstrate that the occurrence of evil does not contradict God's existence, but it does not propose that rational beings are able to understand why God permits evil. A theodicy seeks to show that it is reasonable to believe in God despite evidence of evil in the world and offers a framework which can account for why evil exists. A theodicy is often based on a prior natural theology, which attempts to prove the existence of God, and seeks to demonstrate that God's existence remains probable after the problem of evil is posed by giving a justification for God's permitting evil to happen. Defences propose solutions to the logical problem of evil, while theodicies attempt to answer the evidential problem.
+
+2. Reasons for theodicy
+
+German philosopher Max Weber interpreted theodicy as a social problem, and viewed theodicy as a "problem of meaning". Weber argued that, as human society became increasingly rational, the need to explain why good people suffered and evil people prospered became more important because religion casts the world as a "meaningful cosmos". Weber framed the problem of evil as the dilemma that the good can suffer and the evil can prosper, which became more important as religion became more sophisticated. He identified two purposes of theodicy: to explain why good people suffer (a theodicy of suffering), and why people prosper (a theodicy of good fortune). A theodicy of good fortune seeks to justify the good fortune of people in society; Weber believed that those who are successful are not satisfied unless they can justify why they deserve to be successful. For theodicies of suffering, Weber argued that three different kinds of theodicy emerged—predestination, dualism, and karma—all of which attempt to satisfy the human need for meaning, and he believed that the quest for meaning, when considered in light of suffering, becomes the problem of suffering.
+
+Sociologist Peter L. Berger characterised religion as the human attempt to build order out of a chaotic world. He believed that humans could not accept that anything in the world was meaningless and saw theodicy as an assertion that the cosmos has meaning and order, despite evidence to the contrary. Berger presented an argument similar to that of Weber, but suggested that the need for theodicy arose primarily out of the situation of human society. He believed that theodicies existed to allow individuals to transcend themselves, denying the individual in favour of the social order.
+
+3. History
+
+The term theodicy was coined by German philosopher Gottfried Leibniz in his 1710 work, written in French, Essais de Théodicée sur la bonté de Dieu, la liberté de l'homme et l'origine du mal (Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil). Leibniz's Théodicée was a response to skeptical Protestant philosopher Pierre Bayle, who wrote in his work Dictionnaire Historique et Critique that, after rejecting three attempts to solve it, he saw no rational solution to the problem of evil. Bayle argued that, because the Bible asserts the coexistence of God and evil, this state of affairs must simply be accepted.
+
+French philosopher Voltaire criticised Leibniz's concept of theodicy in his Poème sur le désastre de Lisbonne (Poem on the Lisbon disaster), suggesting that the massive destruction of innocent lives caused by the Lisbon earthquake demonstrated that God was not providing the "best of all possible worlds". Voltaire also includes the earthquake/theodicy theme in his novel, Candide.
+
+In The Catholic Encyclopedia (1914), Constantine Kempf argued that, following Leibniz's work, philosophers called their works on the problem of evil "theodicies", and philosophy about God was brought under the discipline of theodicy. He argued that theodicy began to include all of natural theology, meaning that theodicy came to consist of the human knowledge of God through the systematic use of reason.
+
+In 1966, British philosopher John Hick published Evil and the God of Love, in which he surveyed various Christian responses to the problem of evil, before developing his own. In his work, Hick identified and distinguished between three types of theodicy: Plotinian, which was named after Plotinus, Augustinian, which had dominated Western Christianity for many centuries, and Irenaean, which was developed by the Eastern Church Father Irenaeus, a version of which Hick subscribed to himself.
+
+In his dialogue "Is God a Taoist?", published in 1977 in his book "The Tao is Silent", Raymond Smullyan proves that it is logically impossible to have sentient beings without allowing evil, even for God, just as it is impossible for him to create a triangle in the Euclidean plane having an angular sum other than 180°. So the capability of feeling implies free will, which in turn may produce evil, understood here as hurting other sentient beings. The problem of evil happening to good people is not addressed directly here, but both reincarnation and karma are hinted at.
+
+3.1. Ancient religions
+
+Dr Philip Irving Mitchell of the Dallas Baptist University notes that some philosophers have cast the pursuit of theodicy as a modern one, as earlier scholars used the problem of evil to support the existence of one particular god over another, explain wisdom, or explain a conversion, rather than to justify God's goodness. Professor Sarah Iles Johnston argues that ancient civilizations, such as the ancient Mesopotamians, Greeks, Romans, and Egyptians held polytheistic beliefs that may have enabled them to deal with the concept of theodicy differently. These religions taught the existence of many gods and goddesses who controlled various aspects of daily life. These early religions may have avoided the question of theodicy by endowing their deities with the same flaws and jealousies that plagued humanity. No one god or goddess was fundamentally good or evil; this explained that bad things could happen to good people if they angered a deity because the gods could exercise the same free will that humankind possesses. Such religions taught that some gods were more inclined to be helpful and benevolent, while others were more likely to be spiteful and aggressive. In this sense, the evil gods could be blamed for misfortune, while the good gods could be petitioned with prayer and sacrifices to make things right. There was still a sense of justice in that individuals that were right with the gods could avoid punishment.
+
+3.2. Biblical theodicy
+
+The biblical account of the justification of evil and suffering in the presence of God has both similarities and contrasts in the Hebrew bible and the Greek bible of the New Testament. For the Hebrew bible, the Book of Job is often quoted as the authoritative source of discussion.
+
+On the question of the absolute or relative form of the issue of theodicy prevailing in biblical theology as such, the prevailing account is predominantly in the relative form of theodicy in general. The Book of Isaiah in chapter 45 states; This does not allow the absolute form of omnibenevolence required for the consideration of the absolute form of theodicy in general. A similar account is found in the New Testament epistles where in 2 Thessalonians 1:8-9 (King James Version) the distinction between the elect of God and the non-elect is clearly distinguished stating: "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:/ Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power." Therein everlasting punishment upon the non-elect does not allow the absolute form of omnibenevolence required for the absolute form of theodicy when discussed on the basis of the New Testament narratives as well.
+
+3.3. Augustinian theodicy
+
+The Protestant and Reformed reading of Augustinian theodicy, as promoted primarily by John Hick, is based on the writings of Augustine of Hippo, a Christian philosopher and theologian who lived from AD 354 to 430. The catholic (pre-Reformation) formulation of the same issue is substantially different and is outlined below. In Hick's approach, this form of theodicy argues that evil does not exist except as a privation—or corruption of—goodness, and therefore God did not create evil. Augustinian scholars have argued that God created the world perfectly, with no evil or human suffering. Evil entered the world through the disobedience of Adam and Eve and the theodicy casts the existence of evil as a just punishment for this original sin. The theodicy argues that humans have an evil nature in as much as it is deprived of its original goodness, form, order, and measure due to the inherited original sin of Adam and Eve, but still ultimately remains good due to existence coming from God, for if a nature was completely evil (deprived of the good), it would cease to exist. It maintains that God remains blameless and good.
+
+In the catholic reading of Augustine, the issue of just war as developed in his book The City of God substantially established his position concerning the positive justification of killing, suffering and pain as inflicted upon an enemy when encountered in war for a just cause. Augustine asserted that peacefulness in the face of a grave wrong that could only be stopped by violence would be a sin. Defense of one's self or others could be a necessity, especially when authorized by a legitimate authority. While not elaborating the conditions necessary for war to be just, Augustine nonetheless originated the very phrase, itself, in his work The City of God. In essence, the pursuit of peace must include the option of fighting with all of its eventualities in order to preserve peace in the long-term. Such a war could not be pre-emptive, but defensive, to restore peace. Thomas Aquinas, centuries later, used the authority of Augustine's arguments in an attempt to define the conditions under which a war could be just.
+
+3.4. Irenaean theodicy
+
+Irenaeus (died c. 202), born in the early second century, expressed ideas which explained the existence of evil as necessary for human development. Irenaeus argued that human creation comprised two parts: humans were made first in the image, then in the likeness, of God. The image of God consists of having the potential to achieve moral perfection, whereas the likeness of God is the achievement of that perfection. To achieve moral perfection, Irenaeus suggested that humans must have free will. To achieve such free will, humans must experience suffering and God must be at an epistemic distance (a distance of knowledge) from humanity. Therefore, evil exists to allow humans to develop as moral agents. In the twentieth century, John Hick collated the ideas of Irenaeus into a distinct theodicy. He argued that the world exists as a "vale of soul-making" (a phrase that he drew from John Keats), and that suffering and evil must therefore occur. He argued that human goodness develops through the experience of evil and suffering.
+
+3.5. Origenian theodicy
+
+In direct response to John Hick's description of theodicy, Mark Scott has indicated that neither Augustine nor Irenaeus provide an appropriate context for the discussion of Hick's theistic version of theodicy. As a theologian supporting universal salvation among the discredited Church Fathers, Origen provides a more direct theological comparison for the discussion of Hick's presentation of universal salvation and theodicy. Neither Irenaeus nor Augustine endorsed a theology of universal salvation in any form comparable to that of John Hick.
+
+3.6. Relatively minor theodicies
+
+Michael Martin summarizes what he calls “relatively minor” theodicies.
+
+4. Alternatives
+
+4.1. Jewish anti-theodicy
+
+In 1998, Jewish theologian Zachary Braiterman coined the term anti-theodicy in his book (God) After Auschwitz to describe Jews, both in a biblical and post-Holocaust context, whose response to the problem of evil is protest and refusal to investigate the relationship between God and suffering. An anti-theodicy acts in opposition to a theodicy and places full blame for all experience of evil onto God, but must rise from an individual's belief in and love of God. Anti-theodicy has been likened to Job's protests in the Book of Job. Braiterman wrote that an anti-theodicy rejects the idea that there is a meaningful relationship between God and evil or that God could be justified for the experience of evil.
+
+The Holocaust prompted a reconsideration of theodicy in some Jewish circles. French Jewish philosopher Emmanuel Levinas, who had himself been a prisoner of war in Nazi Germany, declared theodicy to be "blasphemous", arguing that it is the "source of all immorality", and demanded that the project of theodicy be ended. Levinas asked whether the idea of absolutism survived after the Holocaust, which he proposed it did. He argued that humans are not called to justify God in the face of evil, but to attempt to live godly lives; rather than considering whether God was present during the Holocaust, the duty of humans is to build a world where goodness will prevail.
+
+Professor of theology David R. Blumenthal, in his book Facing the Abusing God, supports the "theology of protest", which he saw as presented in the play, The Trial of God. He supports the view that survivors of the Holocaust cannot forgive God and so must protest about it. Blumenthal believes that a similar theology is presented in the book of Job, in which Job does not question God's existence or power, but his morality and justice. Other prominent voices in the Jewish tradition commenting on the justification of God in the presence of the Holocaust have been the Nobel prize winning author Elie Wiesel and Richard L. Rubinstein in his book The Cunning of History.
+
+4.2. Christian alternatives to theodicy
+
+A number of Christian writers oppose theodicies. Todd Billings deems constructing theodicies to be a “destructive practice.” In the same vein, Nick Trakakis observes that “theodical discourse can only add to the world’s evils, not remove or illuminate them.” As an alternative to theodicy, some theologians have advocated “reflection on tragedy” as a more befitting reply to evil. For example, Wendy Farley believes that “a desire for justice” and “anger and pity at suffering” should replace “theodicy’s cool justifications of evil.” Sarah K. Pinnock opposes abstract theodicies that would legitimize evil and suffering. However, she endorses theodicy discussions in which people ponder God, evil, and suffering from a practical faith perspective.
+
+Karl Barth viewed the evil of human suffering as ultimately in the “control of divine providence.” Given this view, Barth deemed it impossible for humans to devise a theodicy that establishes "the idea of the goodness of God." For Barth only the crucifixion could establish the goodness of God. In the crucifixion, God bears and suffers what humanity suffers. This suffering by God Himself makes human theodicies anticlimactic. Barth found a “twofold justification” in the crucifixion: the justification of sinful humanity and “the justification in which God justifies Himself.”
+
+Christian Science offers a rational, though widely unacceptable, solution to the problem by denying that evil ultimately exists. Eddy, and Mark Twain had some contrasting views on theodicy and suffering, which are well-described by Stephen Gottschalk. Gottschalk authored an essay "Theodicy after Auschwitz and the Reality of God," Union Seminary Quarterly Review 1987, nos. 3–4, pp. 77–91.
+
+4.3. Free will defense
+
+As an alternative to a theodicy, a defence may be offered as a response to the problem of evil. A defence attempts to show that God's existence is not made logically impossible by the existence of evil; it does not need to be true or plausible, merely logically possible. American philosopher Alvin Plantinga offers a free will defence which argues that human free will sufficiently explains the existence of evil while maintaining that God's existence remains logically possible. He argues that, if God's existence and the existence of evil are to be logically inconsistent, a premise must be provided which, if true, would make them inconsistent; as none has been provided, the existence of God and evil must be consistent. Free will furthers this argument by providing a premise which, in conjunction with the existence of evil, entails that God's existence remains consistent. A common rebuttal to this defence is the inconsistency between omniscience and free will. If God is omniscient, then humans merely have the illusion of free will. Since the Bible states that God created humans, it logically follows that God created humans with the knowledge of every action and decision that they will make. The question of who then is ultimately responsible for evil points back towards God.
+
+4.4. Cosmodicy and anthropodicy
+
+A cosmodicy attempts to justify the fundamental goodness of the universe in the face of evil, and an anthropodicy attempts to justify the fundamental goodness of human nature in the face of the evils produced by humans.
+
+Considering the relationship between theodicy and cosmodicy, Johannes van der Ven argued that the choice between theodicy and cosmodicy is a false dilemma. Philip E. Devenish proposed what he described as "a nuanced view in which theodicy and cosmodicy are rendered complementary, rather than alternative concepts". Theologian J. Matthew Ashley described the relationship between theodicy, cosmodicy and anthropodicy:
+
+Cosmodicy has been identified as a major theme in the philosophy of Friedrich Nietzsche.
+
+5. See also
+
+Dystheism
+
+Misotheism
+
+Problem of evil
+
+Problem of hell
+
+Theodicy and the Bible
+
+6. References
+
+7. Bibliography
+
+8. External links
+
+Brown, Paterson. , Mind, 1963.
+
+Brown, Paterson. , Mind, 1964.
+
+Brown, Paterson. , Religious Studies, 1967.
+
+.
+
+: Science, Faith, and the Search for Meaning (Edited by Thomas Jay Oord) (SPCK and Templeton Foundation Press, 2010) ISBN 1-59947-315-1 and ISBN 978-0-281-06053-5.
+
+Article discussing men's responsibility on the one hand and his powerlessness regarding natural disasters on the other hand.

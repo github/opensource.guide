@@ -1,0 +1,143 @@
+Sir Roger Penrose (born 8 August 1931), is an English mathematical physicist, mathematician and philosopher of science. He is the Emeritus Rouse Ball Professor of Mathematics at the Mathematical Institute of the University of Oxford, as well as an Emeritus Fellow of Wadham College.
+
+Penrose is known for his work in mathematical physics, in particular for his contributions to general relativity and cosmology. He has received a number of prizes and awards, including the 1988 Wolf Prize for physics, which he shared with Stephen Hawking for their contribution to our understanding of the universe.
+
+1. Early life and academia
+
+Born in Colchester, Essex, England, Roger Penrose is a son of psychiatrist and mathematician Lionel Penrose and Margaret Leathes, and the grandson of the physiologist John Beresford Leathes. His uncle was artist Roland Penrose, whose son with photographer Lee Miller is Antony Penrose. Penrose is the brother of mathematician Oliver Penrose and of chess Grandmaster Jonathan Penrose. Penrose attended University College School and University College, London, where he graduated with a first class degree in mathematics. In 1955, while still a student, Penrose reintroduced the E. H. Moore generalised matrix inverse, also known as the Moore–Penrose inverse, after it had been reinvented by Arne Bjerhammar (1951). Penrose earned his PhD at Cambridge (St John's College) in 1958, writing a thesis on "tensor methods in algebraic geometry" under algebraist and geometer John A. Todd. He devised and popularised the Penrose triangle in the 1950s, describing it as "impossibility in its purest form" and exchanged material with the artist M. C. Escher, whose earlier depictions of impossible objects partly inspired it. Escher's Waterfall, and Ascending and Descending were in turn inspired by Penrose. As reviewer Manjit Kumar puts it: In 1965, at Cambridge, Penrose proved that singularities (such as black holes) could be formed from the gravitational collapse of immense, dying stars. This work was extended by Hawking to prove the Penrose–Hawking singularity theorems.
+
+In 1967, Penrose invented the twistor theory which maps geometric objects in Minkowski space into the 4-dimensional complex space with the metric signature (2,2). In 1969, he conjectured the cosmic censorship hypothesis. This proposes (rather informally) that the universe protects us from the inherent unpredictability of singularities (such as the one in the centre of a black hole) by hiding them from our view behind an event horizon. This form is now known as the "weak censorship hypothesis"; in 1979, Penrose formulated a stronger version called the "strong censorship hypothesis". Together with the BKL conjecture and issues of nonlinear stability, settling the censorship conjectures is one of the most important outstanding problems in general relativity. Also from 1979 dates Penrose's influential Weyl curvature hypothesis on the initial conditions of the observable part of the Universe and the origin of the second law of thermodynamics. Penrose and James Terrell independently realised that objects travelling near the speed of light will appear to undergo a peculiar skewing or rotation. This effect has come to be called the Terrell rotation or Penrose–Terrell rotation.
+
+Penrose is well known for his 1974 discovery of Penrose tilings, which are formed from two tiles that can only tile the plane nonperiodically, and are the first tilings to exhibit fivefold rotational symmetry. Penrose developed these ideas based on the article Deux types fondamentaux de distribution statistique (1938; an English translation Two Basic Types of Statistical Distribution) by Czech geographer, demographer and statistician Jaromír Korčák. In 1984, such patterns were observed in the arrangement of atoms in quasicrystals. Another noteworthy contribution is his 1971 invention of spin networks, which later came to form the geometry of spacetime in loop quantum gravity. He was influential in popularising what are commonly known as Penrose diagrams (causal diagrams).
+
+In 1983, Penrose was invited to teach at Rice University in Houston, by the then provost Bill Grodon. Roger Penrose worked at Rice University from 1983 to 1987.
+
+2. Later activity
+
+In 2004 Penrose released The Road to Reality: A Complete Guide to the Laws of the Universe, a 1,099-page book aimed at giving a comprehensive guide to the laws of physics. He has proposed a novel interpretation of quantum mechanics.
+
+Penrose is the Francis and Helen Pentz Distinguished (visiting) Professor of Physics and Mathematics at Pennsylvania State University. He is also a member of the Astronomical Review Editorial Board.
+
+3. An earlier universe
+
+In 2010, Penrose reported possible evidence, based on concentric circles found in WMAP data of the CMB sky, of an earlier universe existing before the Big Bang of our own present universe. He mentions this evidence in the epilogue of his 2010 book Cycles of Time, a book in which he presents his reasons, to do with Einstein's field equations, the Weyl curvature C, and the Weyl curvature hypothesis, that the transition at the Big Bang could have been smooth enough for a previous universe to survive it. He made several conjectures about C and the WCH, some of which were subsequently proved by others, and the smoothness is real. In simple terms, he believes that the singularity in Einstein's field equation at the Big Bang is only an apparent singularity, similar to the well-known apparent singularity at the event horizon of a black hole. The latter singularity can be removed by a change of coordinate system, and Penrose proposes a different change of coordinate system that will remove the singularity at the big bang. This was a daring step, relying on certain conjectures being proved, but these have subsequently been proved. One implication of this is that the major events at the Big Bang can be understood without unifying general relativity and quantum mechanics, and therefore we are not necessarily constrained by the Wheeler–DeWitt equation, which disrupts time. Alternatively, one can use the Einstein–Maxwell–Dirac equations.
+
+4. Physics and consciousness
+
+Penrose has written books on the connection between fundamental physics and human (or animal) consciousness. In The Emperor's New Mind (1989), he argues that known laws of physics are inadequate to explain the phenomenon of consciousness. Penrose proposes the characteristics this new physics may have and specifies the requirements for a bridge between classical and quantum mechanics (what he calls correct quantum gravity). Penrose uses a variant of Turing's halting theorem to demonstrate that a system can be deterministic without being algorithmic. (For example, imagine a system with only two states, ON and OFF. If the system's state is ON when a given Turing machine halts and OFF when the Turing machine does not halt, then the system's state is completely determined by the machine; nevertheless, there is no algorithmic way to determine whether the Turing machine stops.)
+
+Penrose believes that such deterministic yet non-algorithmic processes may come into play in the quantum mechanical wave function reduction, and may be harnessed by the brain. He argues that the present computer is unable to have intelligence because it is an algorithmically deterministic system. He argues against the viewpoint that the rational processes of the mind are completely algorithmic and can thus be duplicated by a sufficiently complex computer. This contrasts with supporters of strong artificial intelligence, who contend that thought can be simulated algorithmically. He bases this on claims that consciousness transcends formal logic because things such as the insolubility of the halting problem and Gödel's incompleteness theorem prevent an algorithmically based system of logic from reproducing such traits of human intelligence as mathematical insight. These claims were originally espoused by the philosopher John Lucas of Merton College, Oxford.
+
+The Penrose/Lucas argument about the implications of Gödel's incompleteness theorem for computational theories of human intelligence has been widely criticised by mathematicians, computer scientists and philosophers, and the consensus among experts in these fields seems to be that the argument fails, though different authors may choose different aspects of the argument to attack. Marvin Minsky, a leading proponent of artificial intelligence, was particularly critical, stating that Penrose "tries to show, in chapter after chapter, that human thought cannot be based on any known scientific principle." Minsky's position is exactly the opposite – he believes that humans are, in fact, machines, whose functioning, although complex, is fully explainable by current physics. Minsky maintains that "one can carry that quest [for scientific explanation] too far by only seeking new basic principles instead of attacking the real detail. This is what I see in Penrose's quest for a new basic principle of physics that will account for consciousness."
+
+Penrose responded to criticism of The Emperor's New Mind with his follow up 1994 book Shadows of the Mind, and in 1997 with The Large, the Small and the Human Mind. In those works, he also combined his observations with that of anesthesiologist Stuart Hameroff.
+
+Penrose and Hameroff have argued that consciousness is the result of quantum gravity effects in microtubules, which they dubbed Orch-OR (orchestrated objective reduction). Max Tegmark, in a paper in Physical Review E, calculated that the time scale of neuron firing and excitations in microtubules is slower than the decoherence time by a factor of at least 10,000,000,000. The reception of the paper is summed up by this statement in Tegmark's support: "Physicists outside the fray, such as IBM's John A. Smolin, say the calculations confirm what they had suspected all along. 'We're not working with a brain that's near absolute zero. It's reasonably unlikely that the brain evolved quantum behavior'". Tegmark's paper has been widely cited by critics of the Penrose–Hameroff position.
+
+In their reply to Tegmark's paper, also published in Physical Review E, the physicists Scott Hagan, Jack Tuszynski and Hameroff claimed that Tegmark did not address the Orch-OR model, but instead a model of his own construction. This involved superpositions of quanta separated by 24 nm rather than the much smaller separations stipulated for Orch-OR. As a result, Hameroff's group claimed a decoherence time seven orders of magnitude greater than Tegmark's, but still well short of the 25 ms required if the quantum processing in the theory was to be linked to the 40 Hz gamma synchrony, as Orch-OR suggested. To bridge this gap, the group made a series of proposals. It was supposed that the interiors of neurons could alternate between liquid and gel states. In the gel state, it was further hypothesized that the water electrical dipoles are oriented in the same direction, along the outer edge of the microtubule tubulin subunits. Hameroff et al. proposed that this ordered water could screen any quantum coherence within the tubulin of the microtubules from the environment of the rest of the brain. Each tubulin also has a tail extending out from the microtubules, which is negatively charged, and therefore attracts positively charged ions. It is suggested that this could provide further screening. Further to this, there was a suggestion that the microtubules could be pumped into a coherent state by biochemical energy. Finally, it is suggested that the configuration of the microtubule lattice might be suitable for quantum error correction, a means of holding together quantum coherence in the face of environmental interaction. In the last decade, some researchers who are sympathetic to Penrose's ideas have proposed an alternative scheme for quantum processing in microtubules based on the interaction of tubulin tails with microtubule-associated proteins, motor proteins and presynaptic scaffold proteins. These proposed alternative processes have the advantage of taking place within Tegmark's time to decoherence.
+
+Hameroff, in a lecture in part of a Google Tech talks series exploring quantum biology, gave an overview of current research in the area, and responded to subsequent criticisms of the Orch-OR model. In addition to this, a recent 2011 paper by Roger Penrose and Stuart Hameroff gives an updated model of their Orch-OR theory, in light of criticisms, and discusses the place of consciousness within the universe.
+
+Phillip Tetlow, although himself supportive of Penrose's views, acknowledges that Penrose's ideas about the human thought process are at present a minority view in scientific circles, citing Minsky's criticisms and quoting science journalist Charles Seife's description of Penrose as "one of a handful of scientists" who believe that the nature of consciousness suggests a quantum process.
+
+In January 2014 Hameroff and Penrose announced that a discovery of quantum vibrations in microtubules by Anirban Bandyopadhyay of the National Institute for Materials Science in Japan confirms the hypothesis of Orch-OR theory. A reviewed and updated version of the theory was published along with critical commentary and debate in the March 2014 issue of Physics of Life Reviews.
+
+5. Personal life
+
+5.1. Family life
+
+Penrose is married to Vanessa Thomas, head of mathematics at Abingdon School, with whom he has one son. He has three sons from a previous marriage to American Joan Isabel Wedge, whom he married in 1959. He is the elder brother of Jonathan Penrose, the chessplayer.
+
+5.2. Religious views
+
+Penrose does not hold to any religious doctrine, and refers to himself as an atheist. In the film A Brief History of Time, he said, "I think I would say that the universe has a purpose, it's not somehow just there by chance ... some people, I think, take the view that the universe is just there and it runs along – it's a bit like it just sort of computes, and we happen somehow by accident to find ourselves in this thing. But I don't think that's a very fruitful or helpful way of looking at the universe, I think that there is something much deeper about it." Penrose is a Distinguished Supporter of the British Humanist Association.
+
+6. Awards and honours
+
+Penrose has been awarded many prizes for his contributions to science. He was elected a Fellow of the Royal Society of London in 1972. In 1975, Stephen Hawking and Penrose were jointly awarded the Eddington Medal of the Royal Astronomical Society. In 1985, he was awarded the Royal Society Royal Medal. Along with Stephen Hawking, he was awarded the prestigious Wolf Foundation Prize for Physics in 1988. In 1989 he was awarded the Dirac Medal and Prize of the British Institute of Physics. In 1990 Penrose was awarded the Albert Einstein Medal for outstanding work related to the work of Albert Einstein by the Albert Einstein Society. In 1991, he was awarded the Naylor Prize of the London Mathematical Society. From 1992 to 1995 he served as President of the . In 1994, Penrose was knighted for services to science. In the same year he was also awarded an Honorary Degree (Doctor of Science) by the University of Bath. In 1998, he was elected Foreign Associate of the United States National Academy of Sciences. In 2000 he was appointed to the Order of Merit. In 2004 he was awarded the De Morgan Medal for his wide and original contributions to mathematical physics. To quote the citation from the London Mathematical Society:
+
+In 2005 Penrose was awarded an honorary doctorate by Warsaw University and Katholieke Universiteit Leuven (Belgium), and in 2006 by the University of York. In 2008 Penrose was awarded the Copley Medal. He is also a Distinguished Supporter of the British Humanist Association and one of the patrons of the Oxford University Scientific Society. In 2011, Penrose was awarded the Fonseca Prize by the University of Santiago de Compostela. In 2012, Penrose was awarded the Richard R. Ernst Medal by ETH Zürich for his contributions to science and strengthening the connection between science and society.
+
+7. Works
+
+Techniques of Differential Topology in Relativity (1972, ISBN 0-89871-005-7)
+
+Spinors and Space-Time: Volume 1, Two-Spinor Calculus and Relativistic Fields (with Wolfgang Rindler, 1987) ISBN 0-521-33707-0 (paperback)
+
+Spinors and Space-Time: Volume 2, Spinor and Twistor Methods in Space-Time Geometry (with Wolfgang Rindler, 1988) (reprint), ISBN 0-521-34786-6 (paperback)
+
+The Emperor's New Mind: Concerning Computers, Minds, and The Laws of Physics (1989, ISBN 0-14-014534-6 (paperback); it received the Rhone-Poulenc science book prize in 1990)
+
+Shadows of the Mind: A Search for the Missing Science of Consciousness (1994, ISBN 0-19-853978-9 (hardback))
+
+The Nature of Space and Time (with Stephen Hawking, 1996, ISBN 0-691-03791-4 (hardback), ISBN 0-691-05084-8 (paperback))
+
+The Large, the Small and the Human Mind (with Abner Shimony, Nancy Cartwright, and Stephen Hawking, 1997, ISBN 0-521-56330-5 (hardback), ISBN 0-521-65538-2 (paperback), Canto edition: ISBN 0-521-78572-3)
+
+White Mars or, The Mind Set Free (with Brian W. Aldiss, 1999, ISBN 978-0-316-85243-2 (hardback))
+
+The Road to Reality: A Complete Guide to the Laws of the Universe (2004, ISBN 0-224-04447-8 (hardcover), ISBN 0-09-944068-7 (paperback))
+
+Cycles of Time: An Extraordinary New View of the Universe (Bodley Head (23 September 2010) ISBN 978-0-224-08036-1)
+
+Foreword to , written by Meg Weston Smith. Published by World Scientific Publishing Co in June 2013.
+
+Foreword to Quantum Aspects of Life by Derek Abbott, Paul C. W. Davies, and Arun K. Pati. Published by Imperial College Press in 2008.
+
+Foreword to by Anthony Zee's. Published by Princeton University Press in 2007.
+
+Foreword to [//www.worldscientific.com/worldscibooks/10.1142/8306"A Computable Universe"] by Hector Zenil. Published by World Scientific Publishing Co in December 2012.
+
+8. See also
+
+Astronomical Review
+
+Conformal cyclic cosmology
+
+Illumination problem
+
+Orchestrated objective reduction
+
+Quantum Aspects of Life
+
+Quantum mind
+
+Penrose graphical notation
+
+9. References
+
+10. Further reading
+
+Ferguson, Kitty (1991). Stephen Hawking: Quest For A Theory of Everything. Franklin Watts. ISBN 0-553-29895-X.
+
+(See Box 34.2.)
+
+11. External links
+
+- Roger Penrose debates how the most elusive of faculties - creativity - has helped us unlock the country of the mind and the mysteries of the cosmos with Bonnie Greer.
+
+– Penrose was one of the principal interviewees in a BBC documentary about the mathematics of infinity directed by David Malone
+
+Penrose's new theory "Aeons Before the Big Bang?":
+
+Original 2005 lecture: (Isaac Newton Institute for Mathematical Sciences, Cambridge, 11 Nov 2005).
+
+Original publication: Proceedings of EPAC 2006. Edinburgh. 2759–2762 (cf. also Hill, C.D. & Nurowski, P. (2007) . Ithaca)
+
+Revised 2009 lecture: (Georgia Institute of Technology, Center for Relativistic Astrophysics)
+
+on The Forum
+
+"" – (a disputation of Tegmark's result by Hagan, Hameroff, and Tuszyński)
+
+– D. Trull about Penrose's lawsuit concerning the use of his Penrose tilings on toilet paper
+
+(Plus Magazine)
+
+, Ideas Roadshow, 2013
+
+, filmed event at the Royal Institution, October 2013
+
+with Andrew Hodges." These two films explore the development of Sir Roger Penrose’s thought over more than 60 years, ending with his most recent theories and predictions. 51 min and 42 min. (Mathematical Institute)
+
+as:ষ্টিফেন হকিং

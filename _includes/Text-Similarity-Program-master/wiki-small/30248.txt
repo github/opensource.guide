@@ -1,0 +1,119 @@
+Theory of justification is a part of epistemology that attempts to understand the justification of propositions and beliefs. Epistemologists are concerned with various epistemic features of belief, which include the ideas of justification, warrant, rationality, and probability. Of these four terms, the term that has been most widely used and discussed by the early 21st century is "warrant". Loosely speaking, justification is the reason that someone (properly) holds a belief.
+
+When a claim is in doubt, justification can be used to support the claim and reduce or remove the doubt. Justification can use empiricism (the evidence of the senses), authoritative testimony (the appeal to criteria and authority), or logical deduction.
+
+1. Subjects of justification
+
+Many things can be justified: beliefs, actions, emotions, claims, laws, theories and so on. Epistemology focuses on beliefs. This is in part because of the influence of the definition of knowledge as "justified true belief" often associated with a theory discussed near the end of the Socratic dialogue Theaetetus. More generally, theories of justification focus on the justification of statements or propositions.
+
+2. Justifications and explanations
+
+Justification is the reason why someone properly holds a belief, the explanation as to why the belief is a true one, or an account of how one knows what one knows. In much the same way arguments and explanations may be confused with each other, as may explanations and justifications. Statements which are justifications of some action take the form of arguments. For example attempts to justify a theft usually explain the motives (e.g., to feed a starving family).
+
+It is important to be aware when an explanation is not a justification. A criminal profiler may offer an explanation of a suspect's behavior (e.g.; the person lost his or her job, the person got evicted, etc.), and such statements may help us understand why the person committed the crime. An uncritical listener may believe the speaker is trying to gain sympathy for the person and his or her actions, but it does not follow that a person proposing an explanation has any sympathy for the views or actions being explained. This is an important distinction because we need to be able to understand and explain terrible events and behavior in attempting to discourage it.
+
+3. Justification is a normative activity
+
+One way of explaining the theory of justification is to say that a justified belief is one that we are "within our rights" in holding. The rights in question are neither political nor moral, however, but intellectual.
+
+In some way, each of us is responsible for what we believe. Beliefs are not typically formed completely at random, and thus we have an intellectual responsibility, or obligation, to try to believe what is true and to avoid believing what is false. An intellectually responsible act is within one's intellectual rights in believing something; performing it, one is justified in one's belief.
+
+Thus, justification is a normative notion. The standard definition is that a concept is normative if it is a concept regarding or depending on the norms, or obligations and permissions (very broadly construed), involved in human conduct. It is generally accepted that the concept of justification is normative, because it is defined as a concept regarding the norms of belief.
+
+4. Theories of justification
+
+There are several different views as to what entails justification, mostly focusing on the question "How sure do we need to be that our beliefs correspond to the actual world?" Different theories of justification require different amounts and types of evidence before a belief can be considered justified. Interestingly, theories of justification generally include other aspects of epistemology, such as knowledge.
+
+The main theories of justification include:
+
+Coherentism - Beliefs are justified if they cohere with other beliefs a person holds, each belief is justified if it coheres with the overall system of beliefs.
+
+Externalism - Outside sources of knowledge can be used to justify a belief.
+
+Foundationalism - Self-evident basic beliefs justify other, non-basic beliefs.
+
+Foundherentism - A combination of foundationalism and coherentism, proposed by Susan Haack.
+
+Infinitism - Beliefs are justified by infinite chains of reasons.
+
+Internalism - The believer must be able to justify a belief through internal knowledge. Minority viewpoints include:
+
+Reformed epistemology - Beliefs are warranted by proper cognitive function, proposed by Alvin Plantinga.
+
+Skepticism - A variety of viewpoints questioning the possibility of knowledge.
+
+truth skepticism - Questions the possibility of true knowledge, but not of justified knowledge
+
+epistemological skepticism - Questions the possibility of justified knowledge, but not true knowledge
+
+Evidentialism - Beliefs depend solely on the evidence for them
+
+5. Justifiers
+
+If a belief is justified, there is something that justifies it, which can be called its "justifier". If a belief is justified, then it has at least one justifier. An example of a justifier would be an item of evidence. For example, if a woman is aware that her husband returned from a business trip smelling like perfume, and that his shirt has smudged lipstick on its collar, the perfume and the lipstick can be evidence for her belief that her husband is having an affair. In that case, the justifiers are the woman's awareness of the perfume and the lipstick, and the belief that is justified is her belief that her husband is having an affair.
+
+Not all justifiers have to be what can properly be called "evidence"; there may be some substantially different kinds of justifiers available. Regardless, to be justified, a belief has to have a justifier.
+
+Three things that have been suggested as justifiers are:
+
+Beliefs only.
+
+Beliefs together with other conscious mental states.
+
+Beliefs, conscious mental states, and other facts about us and our environment (which one may or may not have access to). At least sometimes, the justifier of a belief is another belief. When, to return to the earlier example, the woman believes that her husband is having an affair, she bases that belief on other beliefs—namely, beliefs about the lipstick and perfume. Strictly speaking, her belief isn't based on the evidence itself—after all, what if she did not believe it? What if she thought that all of that evidence were just a hoax? What if her husband commonly wears perfume and lipstick on business trips? For that matter, what if the evidence existed, but she did not know about it? Then, of course, her belief that her husband is having an affair wouldn't be based on that evidence, because she did not know it was there at all; or, if she thought that the evidence were a hoax, then surely her belief couldn't be based on that evidence.
+
+Consider a belief P. Either P is justified or P is not justified. If P is justified, then another belief Q may be justified by P. If P is not justified, then P cannot be a justifier for any other belief: neither for Q, nor for Q's negation.
+
+For example, suppose someone might believe that there is intelligent life on Mars, and base this belief on a further belief, that there is a feature on the surface of Mars that looks like a face, and that this face could only have been made by intelligent life. So the justifying belief is: that face-like feature on Mars could only have been made by intelligent life. And the justified belief is: there is intelligent life on Mars.
+
+But suppose further that the justifying belief is itself unjustified. It would in no way be one's intellectual right to suppose that this face-like feature on Mars could have only been made by intelligent life; that view would be irresponsible, intellectually speaking. Thus, such a belief is unjustified because the justifier on which it depends is itself not justified.
+
+5.1. Commonly used justifiers
+
+Abductive reasoning
+
+Deduction
+
+Empiricism
+
+Induction
+
+Occam's Razor
+
+Pragmatism
+
+Probability theory
+
+Scientific method
+
+Logical positivism
+
+6. Criticisms
+
+The major opposition against the theory of justification (also called ‘justificationism’ in this context) is nonjustificational criticism (a synthesis of skepticism and absolutism) which is most notably held by some of the proponents of critical rationalism: W. W. Bartley, David Miller and Karl Popper. (But not all proponents of critical rationalism oppose justificationism; it is supported most prominently by John W. N. Watkins.)
+
+In justificationism, criticism consists of trying to show that a claim cannot be reduced to the authority or criteria that it appeals to. That is, it regards the justification of a claim as primary, while the claim itself is secondary. By contrast, nonjustificational criticism works towards attacking claims themselves.
+
+Bartley also refers to a third position, which he calls critical rationalism in a more specific sense, claimed to have been Popper's view in his Open Society. It has given up justification, but not yet adopted nonjustificational criticism. Instead of appealing to criteria and authorities, it attempts to describe and explicate them.
+
+Fogelin claims to detect a suspicious resemblance between the Theories of Justification and Agrippa's five modes leading to the suspension of belief. He concludes that the modern proponents have made no significant progress in responding to the ancient modes of pyrrhonic skepticism.
+
+7. Notes
+
+8. References
+
+William W. Bartley: . In Mario Bunge (Ed.): The Critical Approach to Science and Philosophy (The Free Press of Glencoe, 1964)
+
+David Miller: A critique of good reasons. Critical rationalism (1994)
+
+David Miller: . Pli 9 (2000), 156舑73.
+
+David Miller: . (2007)
+
+Karl Popper: On the sources of knowledge and ignorance. Conjectures and Refutations (1963).
+
+David Stove. Popper and After: . Oxford: Pergamon Press, 1982.
+
+Swinburne, R: Epistemic justification (2001)
+
+9. External links

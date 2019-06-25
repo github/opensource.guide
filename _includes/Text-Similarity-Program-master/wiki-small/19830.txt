@@ -1,0 +1,127 @@
+In physics, particularly statistical mechanics, the Maxwell–Boltzmann distribution or Maxwell speed distribution describes particle speeds in idealized gases where the particles move freely inside a stationary container without interacting with one another, except for very brief collisions in which they exchange energy and momentum with each other or with their thermal environment. Particle in this context refers to gaseous atoms or molecules, and the system of particles is assumed to have reached thermodynamic equilibrium.
+
+The distribution is a probability distribution for the speed of a particle within the gas - the magnitude of its velocity. This probability distribution indicates which speeds are more likely: a particle will have a speed selected randomly from the distribution, and is more likely to be within one range of speeds than another. The distribution depends on the temperature of the system and the mass of the particle.
+
+The Maxwell–Boltzmann distribution applies to the classical ideal gas, which is an idealization of real gases. In real gases, there are various effects (e.g., van der Waals interactions, vortical flow, relativistic speed limits, and quantum exchange interactions) that make their speed distribution sometimes very different from the Maxwell–Boltzmann form. However, rarefied gases at ordinary temperatures behave very nearly like an ideal gas and the Maxwell speed distribution is an excellent approximation for such gases. Thus, it forms the basis of the kinetic theory of gases, which provides a simplified explanation of many fundamental gaseous properties, including pressure and diffusion.
+
+The distribution is named after James Clerk Maxwell and Ludwig Boltzmann. While the distribution was first derived by Maxwell in 1860 on basic grounds, Boltzmann later carried out significant investigations into the physical origins of this distribution.
+
+1. Distribution function
+
+The Maxwell–Boltzmann distribution is the function
+
+where is the particle mass and is the product of Boltzmann's constant and thermodynamic temperature.
+
+This probability density function gives the probability, per unit speed, of finding the particle with a speed near . This equation is simply the Maxwell distribution (given in the infobox) with distribution parameter . In probability theory the Maxwell–Boltzmann distribution is a chi distribution with three degrees of freedom and scale parameter .
+
+The simplest ordinary differential equation satisfied by the distribution is:
+
+or in unitless presentation:
+
+2. Typical speeds
+
+The mean speed, most probable speed (mode), and root-mean-square can be obtained from properties of the Maxwell distribution.
+
+The typical speeds are related as follows:
+
+3. Derivation and related distributions
+
+The original derivation in 1860 by James Clerk Maxwell was an argument based on demanding certain symmetries in the speed distribution function. After Maxwell, Ludwig Boltzmann in 1872 derived the distribution on more mechanical grounds by using the assumptions of his kinetic theory, and showed that gases should over time tend toward this distribution, due to collisions (see H-theorem). He later (1877) derived the distribution again under the framework of statistical thermodynamics. The derivations in this section are along the lines of Boltzmann's 1877 derivation, starting with result known as Maxwell–Boltzmann statistics (from statistical thermodynamics). Maxwell–Boltzmann statistics give the average number of particles found in a given single-particle microstate, under certain assumptions:
+
+where:
+
+i and j are indices (or labels) of the single-particle microstates.
+
+Ni is the average number of particles in the single-particle microstate i.
+
+N is the total number of particles in the system.
+
+Ei is the energy of microstate i.
+
+T is the equilibrium temperature of the system.
+
+k is the Boltzmann constant. The assumptions of this equation are that the particles do not interact, and that they are classical; this means that each particle's state can be considered independently from the other particles' states. Additionally, the particles are assumed to be in thermal equilibrium. The denominator in Equation () is simply a normalizing factor so that the Ni/N add up to 1 — in other words it is a kind of partition function (for the single-particle system, not the usual partition function of the entire system).
+
+Because velocity and speed are related to energy, Equation () can be used to derive relationships between temperature and the speeds of gas particles. All that is needed is to discover the density of microstates in energy, which is determined by dividing up momentum space into equal sized regions.
+
+3.1. Distribution for the momentum vector
+
+The potential energy is taken to be zero, so that all energy is in the form of kinetic energy. The relationship between kinetic energy and momentum for massive non-relativistic particles is
+
+where p2 is the square of the momentum vector p = [px, py, pz]. We may therefore rewrite Equation () as:
+
+where Z is the partition function, corresponding to the denominator in Equation (). Here m is the molecular mass of the gas, T is the thermodynamic temperature and k is the Boltzmann constant. This distribution of Ni/N is proportional to the probability density function fp for finding a molecule with these values of momentum components, so:
+
+The normalizing constant c, can be determined by recognizing that the probability of a molecule having some momentum must be 1. Therefore the integral of equation () over all px, py, and pz must be 1.
+
+It can be shown that:
+
+Substituting Equation () into Equation () gives:
+
+The distribution is seen to be the product of three independent normally distributed variables , , and , with variance . Additionally, it can be seen that the magnitude of momentum will be distributed as a Maxwell–Boltzmann distribution, with . The Maxwell–Boltzmann distribution for the momentum (or equally for the velocities) can be obtained more fundamentally using the H-theorem at equilibrium within the kinetic theory framework.
+
+3.2. Distribution for the energy
+
+Using p² = 2mE, and the distribution function for the magnitude of the momentum, we get the energy distribution:
+
+Since the energy is proportional to the sum of the squares of the three normally distributed momentum components, this distribution is a gamma distribution; in particular, it is a chi-squared distribution with three degrees of freedom.
+
+By the equipartition theorem, this energy is evenly distributed among all three degrees of freedom, so that the energy per degree of freedom is distributed as a chi-squared distribution with one degree of freedom:
+
+where is the energy per degree of freedom. At equilibrium, this distribution will hold true for any number of degrees of freedom. For example, if the particles are rigid mass dipoles of fixed dipole moment, they will have three translational degrees of freedom and two additional rotational degrees of freedom. The energy in each degree of freedom will be described according to the above chi-squared distribution with one degree of freedom, and the total energy will be distributed according to a chi-squared distribution with five degrees of freedom. This has implications in the theory of the specific heat of a gas.
+
+The Maxwell–Boltzmann distribution can also be obtained by considering the gas to be a type of quantum gas.
+
+3.3. Distribution for the velocity vector
+
+Recognizing that the velocity probability density fv is proportional to the momentum probability density function by
+
+and using p = mv we get
+
+which is the Maxwell–Boltzmann velocity distribution. The probability of finding a particle with velocity in the infinitesimal element [dvx, dvy, dvz] about velocity v = [vx, vy, vz] is
+
+Like the momentum, this distribution is seen to be the product of three independent normally distributed variables , , and , but with variance . It can also be seen that the Maxwell–Boltzmann velocity distribution for the vector velocity [vx, vy, vz] is the product of the distributions for each of the three directions:
+
+where the distribution for a single direction is
+
+Each component of the velocity vector has a normal distribution with mean and standard deviation , so the vector has a 3-dimensional normal distribution, a particular kind of multivariate normal distribution, with mean and standard deviation .
+
+The Maxwell–Boltzmann distribution for the speed follows immediately from the distribution of the velocity vector, above. Note that the speed is
+
+and the volume element in spherical coordinates
+
+where and are the "course" (azimuth of the velocity vector) and "path angle" (elevation angle of the velocity vector). Integration of the normal probability density function of the velocity, above, over the course (from 0 to ) and path angle (from 0 to ), with substitution of the speed for the sum of the squares of the vector components, yields the speed distribution.
+
+4. See also
+
+Maxwell–Boltzmann statistics
+
+Maxwell-Jüttner distribution
+
+Boltzmann distribution
+
+Boltzmann factor
+
+Rayleigh distribution
+
+Kinetic theory
+
+5. References
+
+6. Further reading
+
+Physics for Scientists and Engineers - with Modern Physics (6th Edition), P. A. Tipler, G. Mosca, Freeman, 2008, ISBN 0-7167-8964-7
+
+Thermodynamics, From Concepts to Applications (2nd Edition), A. Shavit, C. Gutfinger, CRC Press (Taylor and Francis Group, USA), 2009, ISBN (13-) 978-1-4200-7368-3
+
+Chemical Thermodynamics, D.J.G. Ives, University Chemistry, Macdonald Technical and Scientific, 1971, ISBN 0-356-03736-3
+
+Elements of Statistical Thermodynamics (2nd Edition), L.K. Nash, Principles of Chemistry, Addison-Wesley, 1974, ISBN 0-201-05229-6
+
+Ward, CA & Fang, G 1999, 'Expression for predicting liquid evaporation flux: Statistical rate theory approach', Physical Review E, vol. 59, no. 1, pp. 429-40.
+
+Rahimi, P & Ward, CA 2005, 'Kinetics of Evaporation: Statistical Rate Theory Approach', Int. J. of Thermodynamics, vol. 8, no. 9, pp. 1-14.
+
+7. External links
+
+from The Wolfram Demonstrations Project at Mathworld

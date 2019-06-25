@@ -1,0 +1,99 @@
+Phospholipids are a class of lipids that are a major component of all cell membranes as they can form lipid bilayers. Most phospholipids contain a diglyceride, a phosphate group, and a simple organic molecule such as choline; one exception to this rule is sphingomyelin, which is derived from sphingosine instead of glycerol. The first phospholipid identified as such in biological tissues was lecithin, or phosphatidylcholine, in the egg yolk, by Theodore Nicolas Gobley, a French chemist and pharmacist, in 1847. The structure of the phospholipid molecule generally consists of hydrophobic tails and a hydrophilic head. Biological membranes in eukaryotes also contain another class of lipid, sterol, interspersed among the phospholipids and together they provide membrane fluidity and mechanical strength. Purified phospholipids are produced commercially and have found applications in nanotechnology and materials science.
+
+1. Amphipathic character
+
+The 'head' is hydrophilic (attracted to water), while the hydrophobic 'tails' are repelled by water and are forced to aggregate. The hydrophilic head contains the negatively charged phosphate group, and glycerol. The hydrophobic tail usually consists of 2 long fatty acid hydrocarbon chains. When placed in water, phospholipids form a variety of structures depending on the specific properties of the phospholipid. These specific properties allow phospholipids to play an important role in the phospholipid bilayer. In biological systems, the phospholipids often occur with other molecules (e.g., proteins, glycolipids, sterols) in a bilayer such as a cell membrane. Lipid bilayers occur when hydrophobic tails line up against one another, forming a membrane of hydrophilic heads on both sides facing the water.
+
+Such movement can be described by the fluid mosaic model, that describes the membrane as a mosaic of lipid molecules that act as a solvent for all the substances and proteins within it, so proteins and lipid molecules are then free to diffuse laterally through the lipid matrix and migrate over the membrane. Sterols contribute to membrane fluidity by hindering the packing together of phospholipids. However, this model has now been superseded, as through the study of lipid polymorphism it is now known that the behaviour of lipids under physiological (and other) conditions is not simple.
+
+1.1. Diacylglyceride structures
+
+Phosphatidic acid (phosphatidate) (PA)
+
+Phosphatidylethanolamine (cephalin) (PE)
+
+Phosphatidylcholine (lecithin) (PC)
+
+Phosphatidylserine (PS)
+
+Phosphoinositides:
+
+Phosphatidylinositol (PI)
+
+Phosphatidylinositol phosphate (PIP)
+
+Phosphatidylinositol bisphosphate (PIP2) and
+
+Phosphatidylinositol triphosphate (PIP3)
+
+1.2. Phosphosphingolipids
+
+Ceramide phosphorylcholine (Sphingomyelin) (SPH)
+
+Ceramide phosphorylethanolamine (Sphingomyelin) (Cer-PE)
+
+Ceramide phosphoryllipid
+
+2. Applications
+
+Phospholipids have been widely used to prepare liposomal, ethosomal and other nanoformulations of topical, oral and parenteral drugs for differing reasons like improved bio-availability, reduced toxicity and increased penetration. Ethosomal formulation of ketoconazole using Phospholipids showed good entrapment efficiency, stability profile and is a promising option for transdermal delivery with potential for topical application in fungal infections. Liposomes are often composed of phosphatidylcholine-enriched phospholipids and may also contain mixed Phospholipid chains with surfactant properties.
+
+3. Simulations
+
+Computational simulations of phospholipids are often performed using molecular dynamics with force fields such as GROMOS, CHARMM, or AMBER.
+
+4. Characterization
+
+Phospholipids are optically highly birefringent, i.e. their refractive index is different along their axis as opposed to perpendicular to it. Measurement of birefringence can be achieved using cross polarisers in a microscope to obtain an image of e.g. vesicle walls or using techniques such as dual polarisation interferometry to quantify lipid order or disruption in supported bilayers.
+
+4.1. Analysis
+
+There are no simple methods available for analysis of Phospholipids since the close range of polarity between different phospholipid species makes detection difficult. Oil chemists often use spectroscopy to determine total Phosphorus content and then calculate content of Phospholipids based on molecular weight of expected fatty acid species. Lipidomists use more absolute methods of analysis of with nuclear magnetic resonance spectroscopy (NMR), particularly 31P-NMR, while HPLC-ELSD provides relative values.
+
+5. Phospholipid synthesis
+
+Phospholipid synthesis occurs in the cytosol adjacent to ER membrane that is studded with proteins that act in synthesis (GPAT and LPAAT acyl transferases, phosphatase and choline phosphotransferase) and allocation (flippase and floppase). Eventually a vesicle will bud off from the ER containing phospholipids destined for the cytoplasmic cellular membrane on its exterior leaflet and phospholipids destined for the exoplasmic cellular membrane on its inner leaflet.
+
+6. Sources
+
+Common sources of industrially produced phospholipids are soya, rapeseed, sunflower, chicken eggs, bovine milk, fish eggs etc. Each source has a unique profile of individual phospholipid species and consequently differing applications in food, nutrition, pharmaceuticals, cosmetics and drug delivery.
+
+7. In signal transduction
+
+Some types of phospholipid can be split to produce products that function as second messengers in signal transduction. Examples include phosphatidylinositol (4,5)-bisphosphate (PIP2), that can be split by the enzyme Phospholipase C into inositol triphosphate (IP3) and diacylglycerol (DAG), which both carry out the functions of the Gq type of G protein in response to various stimuli and intervene in various processes from long term depression in neurons to leukocyte signal pathways started by chemokine receptors.
+
+Phospholipids also intervene in prostaglandin signal pathways as the raw material used by lipase enzymes to produce the prostaglandin precursors. In plants they serve as the raw material to produce Jasmonic acid, a plant hormone similar in structure to prostaglandins that mediates defensive responses against pathogens.
+
+8. Food technology
+
+Phospholipids can act as an emulsifier, enabling oils to form a colloid with water. Phospholipids are one of the components of lecithin which is found in egg-yolks, as well as being extracted from soy beans, and is used as a food additive in many products, and can be purchased as a dietary supplement. Lysolecithins are typically used for WO emulsions like margarine due to their higher HLB ratio.
+
+9. Phospholipid derivatives
+
+Natural phospholipid derivates:
+
+Synthetic phospholipid derivates:
+
+Phosphatidic acid (DMPA, DPPA, DSPA)
+
+Phosphatidylcholine (DDPC, DLPC, DMPC, DPPC, DSPC, DOPC, POPC, DEPC)
+
+Phosphatidylglycerol (DMPG, DPPG, DSPG, POPG)
+
+Phosphatidylethanolamine (DMPE, DPPE, DSPE DOPE)
+
+Phosphatidylserine (DOPS)
+
+PEG phospholipid (mPEG-phospholipid, polyglycerin-phospholipid, funcitionalized-phospholipid, terminal activated-phospholipid)
+
+10. Abbreviations used and chemical information of glycerophospholipids
+
+11. See also
+
+Cable theory
+
+Galactolipid
+
+Sulfolipid
+
+12. References

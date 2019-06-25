@@ -1,0 +1,259 @@
+X-radiation (composed of X-rays) is a form of electromagnetic radiation. Most X-rays have a wavelength ranging from 0.01 to 10 nanometers, corresponding to frequencies in the range 30 petahertz to 30 exahertz (3×1016 Hz to 3×1019 Hz) and energies in the range 100 eV to 100 keV. X-ray wavelengths are shorter than those of UV rays and typically longer than those of gamma rays. In many languages, X-radiation is referred to with terms meaning Röntgen radiation, after Wilhelm Röntgen, who is usually credited as its discoverer, and who had named it X-radiation to signify an unknown type of radiation. Spelling of X-ray(s) in the English language includes the variants x-ray(s), xray(s) and X ray(s).
+
+X-rays with photon energies above 5–10 keV (below 0.2–0.1 nm wavelength) are called hard X-rays, while those with lower energy are called soft X-rays. Due to their penetrating ability, hard X-rays are widely used to image the inside of objects, e.g., in medical radiography and airport security. As a result, the term X-ray is metonymically used to refer to a radiographic image produced using this method, in addition to the method itself. Since the wavelengths of hard X-rays are similar to the size of atoms they are also useful for determining crystal structures by X-ray crystallography. By contrast, soft X-rays are easily absorbed in air and the attenuation length of 600 eV (~2 nm) X-rays in water is less than 1 micrometer.
+
+There is no universal consensus for a definition distinguishing between X-rays and gamma rays. One common practice is to distinguish between the two types of radiation based on their source: X-rays are emitted by electrons, while gamma rays are emitted by the atomic nucleus. This definition has several problems; other processes also can generate these high energy photons, or sometimes the method of generation is not known. One common alternative is to distinguish X- and gamma radiation on the basis of wavelength (or equivalently, frequency or photon energy), with radiation shorter than some arbitrary wavelength, such as 10−11 m (0.1 Å), defined as gamma radiation. This criterion assigns a photon to an unambiguous category, but is only possible if wavelength is known. (Some measurement techniques do not distinguish between detected wavelengths.) However, these two definitions often coincide since the electromagnetic radiation emitted by X-ray tubes generally has a longer wavelength and lower photon energy than the radiation emitted by radioactive nuclei. Occasionally, one term or the other is used in specific contexts due to historical precedent, based on measurement (detection) technique, or based on their intended use rather than their wavelength or source. Thus, gamma-rays generated for medical and industrial uses, for example radiotherapy, in the ranges of 6–20 MeV, can in this context also be referred to as X-rays.
+
+1. Properties
+
+X-ray photons carry enough energy to ionize atoms and disrupt molecular bonds. This makes it a type of ionizing radiation, and therefore harmful to living tissue. A very high radiation dose over a short amount of time causes radiation sickness, while lower doses can give an increased risk of radiation-induced cancer. In medical imaging this increased cancer risk is generally greatly outweighed by the benefits of the examination. The ionizing capability of X-rays can be utilized in cancer treatment to kill malignant cells using radiation therapy. It is also used for material characterization using X-ray spectroscopy.
+
+Hard X-rays can traverse relatively thick objects without being much absorbed or scattered. For this reason, X-rays are widely used to image the inside of visually opaque objects. The most often seen applications are in medical radiography and airport security scanners, but similar techniques are also important in industry (e.g. industrial radiography and industrial CT scanning) and research (e.g. small animal CT). The penetration depth varies with several orders of magnitude over the X-ray spectrum. This allows the photon energy to be adjusted for the application so as to give sufficient transmission through the object and at the same time good contrast in the image.
+
+X-rays have much shorter wavelength than visible light, which makes it possible to probe structures much smaller than what can be seen using a normal microscope. This can be used in X-ray microscopy to acquire high resolution images, but also in X-ray crystallography to determine the positions of atoms in crystals.
+
+2. Interaction with matter
+
+X-rays interact with matter in three main ways, through photoabsorption, Compton scattering, and Rayleigh scattering. The strength of these interactions depend on the energy of the X-rays and the elemental composition of the material, but not much on chemical properties since the X-ray photon energy is much higher than chemical binding energies. Photoabsorption or photoelectric absorption is the dominant interaction mechanism in the soft X-ray regime and for the lower hard X-ray energies. At higher energies, Compton scattering dominates.
+
+2.1. Photoelectric absorption
+
+The probability of a photoelectric absorption per unit mass is approximately proportional to Z3/E3, where Z is the atomic number and E is the energy of the incident photon. This rule is not valid close to inner shell electron binding energies where there are abrupt changes in interaction probability, so called absorption edges. However, the general trend of high absorption coefficients and thus short penetration depths for low photon energies and high atomic numbers is very strong. For soft tissue photoabsorption dominates up to about 26 keV photon energy where Compton scattering takes over. For higher atomic number substances this limit is higher. The high amount of calcium (Z=20) in bones together with their high density is what makes them show up so clearly on medical radiographs.
+
+A photoabsorbed photon transfers all its energy to the electron with which it interacts, thus ionizing the atom to which the electron was bound and producing a photoelectron that is likely to ionize more atoms in its path. An outer electron will fill the vacant electron position and the produce either a characteristic photon or an Auger electron. These effects can be used for elemental detection through X-ray spectroscopy or Auger electron spectroscopy.
+
+2.2. Compton scattering
+
+Compton scattering is the predominant interaction between X-rays and soft tissue in medical imaging. Compton scattering is an inelastic scattering of the X-ray photon by an outer shell electron. Part of the energy of the photon is transferred to the scattering electron, thereby ionizing the atom and increasing the wavelength of the X-ray. The scattered photon can go in any direction, but a direction similar to the original direction is a bit more likely, especially for high-energy X-rays. The probability for different scattering angles are described by the Klein–Nishina formula. The transferred energy can be directly obtained from the scattering angle from the conservation of energy and momentum.
+
+2.3. Rayleigh scattering
+
+Rayleigh scattering is the dominant elastic scattering mechanism in the X-ray regime. The inelastic forward scattering is what gives rise to the refractive index, which for X-rays is only slightly below 1.
+
+3. Sources
+
+Since X-rays are emitted by electrons, they can be generated by an X-ray tube, a vacuum tube that uses a high voltage to accelerate the electrons released by a hot cathode to a high velocity. The high velocity electrons collide with a metal target, the anode, creating the X-rays. In medical X-ray tubes the target is usually tungsten or a more crack-resistant alloy of rhenium (5%) and tungsten (95%), but sometimes molybdenum for more specialized applications, such as when softer X-rays are needed as in mammography. In crystallography, a copper target is most common, with cobalt often being used when fluorescence from iron content in the sample might otherwise present a problem.
+
+The maximum energy of the produced X-ray photon is limited by the energy of the incident electron, which is equal to the voltage on the tube times the electron charge, so an 80 kV tube cannot create X-rays with an energy greater than 80 keV. When the electrons hit the target, X-rays are created by two different atomic processes:
+
+X-ray fluorescence: If the electron has enough energy it can knock an orbital electron out of the inner electron shell of a metal atom, and as a result electrons from higher energy levels then fill up the vacancy and X-ray photons are emitted. This process produces an emission spectrum of X-rays at a few discrete frequencies, sometimes referred to as the spectral lines. The spectral lines generated depend on the target (anode) element used and thus are called characteristic lines. Usually these are transitions from upper shells into K shell (called K lines), into L shell (called L lines) and so on.
+
+Bremsstrahlung: This is radiation given off by the electrons as they are scattered by the strong electric field near the high-Z (proton number) nuclei. These X-rays have a continuous spectrum. The intensity of the X-rays increases linearly with decreasing frequency, from zero at the energy of the incident electrons, the voltage on the X-ray tube. So the resulting output of a tube consists of a continuous bremsstrahlung spectrum falling off to zero at the tube voltage, plus several spikes at the characteristic lines. The voltages used in diagnostic X-ray tubes range from roughly 20 to 150 kV and thus the highest energies of the X-ray photons range from roughly 20 to 150 keV.
+
+Both of these X-ray production processes are inefficient, with a production efficiency of only about one percent, and hence, to produce a usable flux of X-rays, most of the electric power consumed by the tube is released as waste heat. The X-ray tube must be designed to dissipate this excess heat.
+
+Short nanosecond bursts of X-rays peaking at 15-keV in energy may be reliably produced by peeling pressure-sensitive adhesive tape from its backing in a moderate vacuum. This is likely to be the result of recombination of electrical charges produced by triboelectric charging. The intensity of X-ray triboluminescence is sufficient for it to be used as a source for X-ray imaging. Using sources considerably more advanced than sticky tape, at least one startup firm is exploiting tribocharging in the development of highly portable, ultra-miniaturized X-ray devices.
+
+A specialized source of X-rays which is becoming widely used in research is synchrotron radiation, which is generated by particle accelerators. Its unique features are X-ray outputs many orders of magnitude greater than those of X-ray tubes, wide X-ray spectra, excellent collimation, and linear polarization.
+
+4. Detectors
+
+X-ray detectors vary in shape and function depending on their purpose. Imaging detectors such as those used for radiography were originally based on photographic plates and later photographic film but are now mostly replaced by various digital detector types such as image plates or flat panel detectors. For radiation protection direct exposure hazard is often evaluated using ionization chambers, while dosimeters are used to measure the radiation dose a person has been exposed to. X-ray spectra can be measured either by energy dispersive or wavelength dispersive spectrometers.
+
+5. Medical uses
+
+Since Röntgen's discovery that X-rays can identify bone structures, X-rays have been used for medical imaging. The first medical use was less than a month after his paper on the subject.Up until 2010, 5 billion medical imaging studies have been conducted worldwide. Radiation exposure from medical imaging in 2006 made up about 50% of total ionizing radiation exposure in the United States.
+
+5.1. Radiographs
+
+A radiograph is an X-ray image obtained by placing a part of the patient in front of an X-ray detector and then illuminating it with a short X-ray pulse. Bones contain much calcium, which due to its relatively high atomic number absorbs x-rays efficiently. This reduces the amount of X-rays reaching the detector in the shadow of the bones, making them clearly visible on the radiograph. The lungs and trapped gas also show up clearly because of lower absorption compared to tissue, while differences between tissue types are harder to see.
+
+Radiographs are useful in the detection of pathology of the skeletal system as well as for detecting some disease processes in soft tissue. Some notable examples are the very common chest X-ray, which can be used to identify lung diseases such as pneumonia, lung cancer or pulmonary edema, and the abdominal x-ray, which can detect bowel (or intestinal) obstruction, free air (from visceral perforations) and free fluid (in ascites). X-rays may also be used to detect pathology such as gallstones (which are rarely radiopaque) or kidney stones which are often (but not always) visible. Traditional plain X-rays are less useful in the imaging of soft tissues such as the brain or muscle.
+
+Dental radiography is commonly used in the diagnoses of common oral problems, such as cavities.
+
+In medical diagnostic applications, the low energy (soft) X-rays are unwanted, since they are totally absorbed by the body, increasing the radiation dose without contributing to the image. Hence, a thin metal sheet, often of aluminium, called an X-ray filter, is usually placed over the window of the X-ray tube, absorbing the low energy part in the spectrum. This is called hardening the beam since it shifts the center of the spectrum towards higher energy (or harder) x-rays.
+
+To generate an image of the cardiovascular system, including the arteries and veins (angiography) an initial image is taken of the anatomical region of interest. A second image is then taken of the same region after an iodinated contrast agent has been injected into the blood vessels within this area. These two images are then digitally subtracted, leaving an image of only the iodinated contrast outlining the blood vessels. The radiologist or surgeon then compares the image obtained to normal anatomical images to determine if there is any damage or blockage of the vessel.
+
+5.2. Computed tomography
+
+Computed tomography (CT scanning) is a medical imaging modality where tomographic images or slices of specific areas of the body are obtained from a large series of two-dimensional X-ray images taken in different directions. These cross-sectional images can be combined into a three-dimensional image of the inside of the body and used for diagnostic and therapeutic purposes in various medical disciplines.
+
+5.3. Fluoroscopy
+
+Fluoroscopy is an imaging technique commonly used by physicians or radiation therapists to obtain real-time moving images of the internal structures of a patient through the use of a fluoroscope. In its simplest form, a fluoroscope consists of an X-ray source and fluorescent screen between which a patient is placed. However, modern fluoroscopes couple the screen to an X-ray image intensifier and CCD video camera allowing the images to be recorded and played on a monitor. This method may use a contrast material. Examples include cardiac catheterization (to examine for coronary artery blockages) and barium swallow (to examine for esophageal disorders).
+
+5.4. Radiotherapy
+
+The use of X-rays as a treatment is known as radiation therapy and is largely used for the management (including palliation) of cancer; it requires higher radiation energies than for imaging alone.
+
+6. Adverse effects
+
+Diagnostic X-rays (primarily from CT scans due to the large dose used) increase the risk of developmental problems and cancer in those exposed. X rays are classified as a carcinogen by both the World Health Organization's International Agency for Research on Cancer and the U.S. government. It is estimated that 0.4% of current cancers in the United States are due to computed tomography (CT scans) performed in the past and that this may increase to as high as 1.5-2% with 2007 rates of CT usage.
+
+Experimental and epidemiological data currently do not support the proposition that there is a threshold dose of radiation below which there is no increased risk of cancer. However, this is under increasing doubt. It is estimated that the additional radiation will increase a person's cumulative risk of getting cancer by age 75 by 0.6–1.8%. The amount of absorbed radiation depends upon the type of X-ray test and the body part involved. CT and fluoroscopy entail higher doses of radiation than do plain X-rays.
+
+To place the increased risk in perspective, a plain chest X-ray will expose a person to the same amount from background radiation that we are exposed to (depending upon location) every day over 10 days, while exposure from a dental X-ray is approximately equivalent to 1 day of environmental background radiation. Each such X-ray would add less than 1 per 1,000,000 to the lifetime cancer risk. An abdominal or chest CT would be the equivalent to 2–3 years of background radiation to the whole body, or 4–5 years to the abdomen or chest, increasing the lifetime cancer risk between 1 per 1,000 to 1 per 10,000. This is compared to the roughly 40% chance of a US citizen developing cancer during their lifetime. For instance, the effective dose to the torso from a CT scan of the chest is about 5 mSv, and the absorbed dose is about 14 mGy. A head CT scan (1.5mSv, 64mGy) that is performed once with and once without contrast agent, would be equivalent to 40 years of background radiation to the head. Accurate estimation of effective doses due to CT is difficult with the estimation uncertainty range of about ±19% to ±32% for adult head scans depending upon the method used.
+
+The risk of radiation is greater to unborn babies, so in pregnant patients, the benefits of the investigation (X-ray) should be balanced with the potential hazards to the unborn fetus. In the US, there are an estimated 62 million CT scans performed annually, including more than 4 million on children. Avoiding unnecessary X-rays (especially CT scans) will reduce radiation dose and any associated cancer risk.
+
+Medical X-rays are a significant source of man-made radiation exposure. In 1987, they accounted for 58% of exposure from man-made sources in the United States. Since man-made sources accounted for only 18% of the total radiation exposure, most of which came from natural sources (82%), medical X-rays only accounted for 10% of total American radiation exposure; medical procedures as a whole (including nuclear medicine) accounted for 14% of total radiation exposure. By 2006, however, medical procedures in the United States were contributing much more ionizing radiation than was the case in the early 1980s. In 2006, medical exposure constituted nearly half of the total radiation exposure of the U.S. population from all sources. The increase is traceable to the growth in the use of medical imaging procedures, in particular computed tomography (CT), and to the growth in the use of nuclear medicine.
+
+Dosage due to dental X-rays varies significantly depending on the procedure and the technology (film or digital). Depending on the procedure and the technology, a single dental X-ray of a human results in an exposure of 0.5 to 4 mrem. A full mouth series may therefore result in an exposure of up to 6 (digital) to 18 (film) mrem, for a yearly average of up to 40 mrem.
+
+7. Other uses
+
+Other notable uses of X-rays include
+
+X-ray crystallography in which the pattern produced by the diffraction of X-rays through the closely spaced lattice of atoms in a crystal is recorded and then analysed to reveal the nature of that lattice. A related technique, fiber diffraction, was used by Rosalind Franklin to discover the double helical structure of DNA.
+
+X-ray astronomy, which is an observational branch of astronomy, which deals with the study of X-ray emission from celestial objects.
+
+X-ray microscopic analysis, which uses electromagnetic radiation in the soft X-ray band to produce images of very small objects.
+
+X-ray fluorescence, a technique in which X-rays are generated within a specimen and detected. The outgoing energy of the X-ray can be used to identify the composition of the sample.
+
+Industrial radiography uses X-rays for inspection of industrial parts, particularly welds.
+
+Industrial CT (computed tomography) is a process which uses X-ray equipment to produce three-dimensional representations of components both externally and internally. This is accomplished through computer processing of projection images of the scanned object in many directions.
+
+Paintings are often X-rayed to reveal the underdrawing and pentimenti or alterations in the course of painting, or by later restorers. Many pigments such as lead white show well in X-ray photographs.
+
+X-ray spectromicroscopy has been used to analyse the reactions of pigments in paintings. For example, in analysing colour degradation in the paintings of van Gogh
+
+Airport security luggage scanners use X-rays for inspecting the interior of luggage for security threats before loading on aircraft.
+
+Border control truck scanners use X-rays for inspecting the interior of trucks.
+
+X-ray art and fine art photography, artistic use of X-rays, for example the works by Stane Jagodič
+
+X-ray hair removal, a method popular in the 1920s but now banned by the FDA.
+
+Shoe-fitting fluoroscopes were popularized in the 1920s, banned in the US in the 1960s, banned in the UK in the 1970s, and even later in continental Europe.
+
+Roentgen stereophotogrammetry is used to track movement of bones based on the implantation of markers
+
+X-ray photoelectron spectroscopy is a chemical analysis technique relying on the photoelectric effect, usually employed in surface science.
+
+8. History
+
+8.1. Discovery
+
+German physicist Wilhelm Röntgen is usually credited as the discoverer of X-rays in 1895, because he was the first to systematically study them, though he is not the first to have observed their effects. He is also the one who gave them the name "X-rays" (signifying an unknown quantity) though many others referred to these as "Röntgen rays" (and the associated X-ray radiograms as, "Röntgenograms") for several decades after their discovery and even to this day in some languages, including Röntgen's native German. X-rays were found emanating from Crookes tubes, experimental discharge tubes invented around 1875, by scientists investigating the cathode rays, that is energetic electron beams, that were first created in the tubes. Crookes tubes created free electrons by ionization of the residual air in the tube by a high DC voltage of anywhere between a few kilovolts and 100 kV. This voltage accelerated the electrons coming from the cathode to a high enough velocity that they created X-rays when they struck the anode or the glass wall of the tube. Many of the early Crookes tubes undoubtedly radiated X-rays, because early researchers noticed effects that were attributable to them, as detailed below. Wilhelm Röntgen was the first to systematically study them, in 1895.
+
+8.2. Early research
+
+Both William Crookes (in the 1880s) and German physicist Johann Hittorf, a co-inventor and early researcher of the Crookes tube, found that photographic plates placed near the tube became unaccountably fogged or flawed by shadows. Neither found the cause nor investigated this effect.
+
+In 1877 Ukrainian-born Ivan Pulyui, a lecturer in experimental physics at the University of Vienna, constructed various designs of vacuum discharge tube to investigate their properties. He continued his investigations when appointed professor at the Prague Polytechnic and in 1886 he found that sealed photographic plates became dark when exposed to the emanations from the tubes. Early in 1896, just a few weeks after Röntgen published his first X-ray photograph, Pulyui published high-quality X-ray images in journals in Paris and London. Although Pulyui had studied with Röntgen at the University of Strasbourg in the years 1873–75, his biographer Gaida (1997) asserts that his subsequent research was conducted independently.
+
+X-rays were generated and detected by Fernando Sanford (1854–1948), the foundation Professor of Physics at Stanford University, in 1891. From 1886 to 1888 he had studied in the Hermann Helmholtz laboratory in Berlin, where he became familiar with the cathode rays generated in vacuum tubes when a voltage was applied across separate electrodes, as previously studied by Heinrich Hertz and Philipp Lenard. His letter of January 6, 1893 (describing his discovery as "electric photography") to The Physical Review was duly published and an article entitled Without Lens or Light, Photographs Taken With Plate and Object in Darkness appeared in the San Francisco Examiner.
+
+Starting in 1888, Philipp Lenard, a student of Heinrich Hertz, conducted experiments to see whether cathode rays could pass out of the Crookes tube into the air. He built a Crookes tube (later called a "Lenard tube") with a "window" in the end made of thin aluminum, facing the cathode so the cathode rays would strike it. He found that something came through, that would expose photographic plates and cause fluorescence. He measured the penetrating power of these rays through various materials. It has been suggested that at least some of these "Lenard rays" were actually X-rays.
+
+Hermann von Helmholtz formulated mathematical equations for X-rays. He postulated a dispersion theory before Röntgen made his discovery and announcement. It was formed on the basis of the electromagnetic theory of light. However, he did not work with actual X-rays.
+
+In 1894 the Serbian-American engineer and inventor Nikola Tesla noticed damaged film in his lab that seemed to be associated with Crookes tube experiments and began investigating this radiant energy of "invisible" kinds After Röntgen identified the x-ray Tesla began making X-ray images of his own using high voltages and tubes of his own design, as well as Crookes tubes.
+
+8.3. Wilhelm Röntgen
+
+On November 8, 1895, German physics professor Wilhelm Röntgen stumbled on X-rays while experimenting with Lenard and Crookes tubes and began studying them. He wrote an initial report "On a new kind of ray: A preliminary communication" and on December 28, 1895 submitted it to the Würzburg's Physical-Medical Society journal. This was the first paper written on X-rays. Röntgen referred to the radiation as "X", to indicate that it was an unknown type of radiation. The name stuck, although (over Röntgen's great objections) many of his colleagues suggested calling them Röntgen rays. They are still referred to as such in many languages, including German, Danish, Polish, Swedish, Finnish, Estonian, Russian, Japanese, Dutch, and Norwegian. Röntgen received the first Nobel Prize in Physics for his discovery.
+
+There are conflicting accounts of his discovery because Röntgen had his lab notes burned after his death, but this is a likely reconstruction by his biographers: Röntgen was investigating cathode rays using a fluorescent screen painted with barium platinocyanide and a Crookes tube which he had wrapped in black cardboard so the visible light from the tube would not interfere. He noticed a faint green glow from the screen, about 1 meter away. Röntgen realized some invisible rays coming from the tube were passing through the cardboard to make the screen glow. He found they could also pass through books and papers on his desk. Röntgen threw himself into investigating these unknown rays systematically. Two months after his initial discovery, he published his paper.
+
+Röntgen discovered its medical use when he made a picture of his wife's hand on a photographic plate formed due to X-rays. The photograph of his wife's hand was the first photograph of a human body part using X-rays. When she saw the picture, she said "I have seen my death."
+
+8.4. Advances in radiology
+
+In 1895, Thomas Edison investigated materials' ability to fluoresce when exposed to X-rays, and found that calcium tungstate was the most effective substance. Around March 1896, the fluoroscope he developed became the standard for medical X-ray examinations. Nevertheless, Edison dropped X-ray research around 1903, even before the death of Clarence Madison Dally, one of his glassblowers. Dally had a habit of testing X-ray tubes on his hands, and acquired a cancer in them so tenacious that both arms were amputated in a futile attempt to save his life.
+
+In 1901, U.S. President William McKinley was shot twice in an assassination attempt. While one bullet only grazed his sternum, another had lodged somewhere deep inside his abdomen and could not be found. "A worried McKinley aide sent word to inventor Thomas Edison to rush an X-ray machine to Buffalo to find the stray bullet. It arrived but wasn't used." While the shooting itself had not been lethal, "gangrene had developed along the path of the bullet, and McKinley died of septic shock due to bacterial infection" six days later.
+
+The first use of X-rays under clinical conditions was by John Hall-Edwards in Birmingham, England on 11 January 1896, when he radiographed a needle stuck in the hand of an associate. On 14 February 1896 Hall-Edwards was also the first to use X-rays in a surgical operation. In early 1896, several weeks after Röntgen's discovery, Ivan Romanovich Tarkhanov irradiated frogs and insects with X-rays, concluding that the rays "not only photograph, but also affect the living function".
+
+The first medical X-ray made in the United States was obtained using a discharge tube of Pulyui's design. In January 1896, on reading of Röntgen's discovery, Frank Austin of Dartmouth College tested all of the discharge tubes in the physics laboratory and found that only the Pulyui tube produced X-rays. This was a result of Pulyui's inclusion of an oblique "target" of mica, used for holding samples of fluorescent material, within the tube. On 3 February 1896 Gilman Frost, professor of medicine at the college, and his brother Edwin Frost, professor of physics, exposed the wrist of Eddie McCarthy, whom Gilman had treated some weeks earlier for a fracture, to the X-rays and collected the resulting image of the broken bone on gelatin photographic plates obtained from Howard Langill, a local photographer also interested in Röntgen's work.
+
+8.5. Dangers
+
+With the widespread experimentation with x‑rays after their discovery in 1895 by scientists, physicians, and inventors came many stories of burns, hair loss and worse in technical journals of the time. In February 1896 Professor John Daniel and Dr. William Lofland Dudley of Vanderbilt University reported hair loss after Dr. Dudley was X-rayed. In August 1896 Dr. H/D. Hawks, a graduate of Columbia College, suffered severe hand and chest burns in an x-ray demonstration. It was reported in Electrical Review and led to many other reports of problems associated with x-rays being sent in to the publication. Many experimenters including Elihu Thomson at Edison's lab, William J. Morton, and Nikola Tesla also reported burns. Elihu Thomson deliberately exposed a finger to an x-ray tube over a period of time and suffered pain, swelling, and blistering. Other effects were sometime blamed for the damage including ultraviolet rays and (according to Tesla) ozone. Many physicians claimed there were no effects from x-ray exposure at all.
+
+8.6. 20th century and beyond
+
+The many applications of X-rays immediately generated enormous interest. Workshops began making specialized versions of Crookes tubes for generating X-rays and these first generation cold cathode or Crookes X-ray tubes were used until about 1920.
+
+Crookes tubes were unreliable. They had to contain a small quantity of gas (invariably air) as a current will not flow in such a tube if they are fully evacuated. However, as time passed the X-rays caused the glass to absorb the gas, causing the tube to generate "harder" X-rays until it soon stopped operating. Larger and more frequently used tubes were provided with devices for restoring the air, known as "softeners". These often took the form of a small side tube which contained a small piece of mica: a mineral that traps relatively large quantities of air within its structure. A small electrical heater heated the mica and this caused it to release a small amount of air, thus restoring the tube's efficiency. However, the mica had a limited life, and the restoration process was consequently difficult to control.
+
+In 1904, John Ambrose Fleming invented the thermionic diode, the first kind of a vacuum tube. This used a hot cathode that caused an electric current to flow in a vacuum. This idea was quickly applied to X-ray tubes, and hence heated-cathode X-ray tubes, called "Coolidge tubes", completely replaced the troublesome cold cathode tubes by about 1920.
+
+In about 1906, the physicist Charles Barkla discovered that X-rays could be scattered by gases, and that each element had a characteristic X-ray. He won the 1917 Nobel Prize in Physics for this discovery.
+
+In 1912, Max von Laue, Paul Knipping, and Walter Friedrich first observed the diffraction of X-rays by crystals. This discovery, along with the early work of Paul Peter Ewald, William Henry Bragg, and William Lawrence Bragg, gave birth to the field of X-ray crystallography.
+
+The Coolidge X-ray tube was invented during the following year by William D. Coolidge. It made possible the continuous emissions of X-rays. X-ray tubes similar to this are still in use in 2012.
+
+The use of X-rays for medical purposes (which developed into the field of radiation therapy) was pioneered by Major John Hall-Edwards in Birmingham, England. Then in 1908, he had to have his left arm amputated because of the spread of X-ray dermatitis on his arm.
+
+The X-ray microscope was developed during the 1950s.
+
+The Chandra X-ray Observatory, launched on July 23, 1999, has been allowing the exploration of the very violent processes in the universe which produce X-rays. Unlike visible light, which gives a relatively stable view of the universe, the X-ray universe is unstable. It features stars being torn apart by black holes, galactic collisions, and novae or neutron stars that build up layers of plasma that then explode into space.
+
+An X-ray laser device was proposed as part of the Reagan Administration's Strategic Defense Initiative in the 1980s, but the only test of the device (a sort of laser "blaster", or death ray, powered by a thermonuclear explosion) gave inconclusive results. For technical and political reasons, the overall project (including the X-ray laser) was de-funded (though was later revived by the second Bush Administration as National Missile Defense using different technologies).
+
+Phase-contrast X-ray imaging refers to a variety of techniques that use phase information of a coherent x-ray beam to image soft tissues. It has become an important method for visualizing cellular and histological structures in a wide range of biological and medical studies. There are several technologies being used for x-ray phase-contrast imaging, all utilizing different principles to convert phase variations in the x-rays emerging from an object into intensity variations. These include propagation-based phase contrast, talbot interferometry, refraction-enhanced imaging, and x-ray interferometry. These methods provide higher contrast compared to normal absorption-contrast x-ray imaging, making it possible to see smaller details. A disadvantage is that these methods require more sophisticated equipment, such as synchrotron or microfocus x-ray sources, x-ray optics and high resolution x-ray detectors.
+
+9. Visibility
+
+While generally considered invisible to the human eye, in special circumstances X-rays can be visible. Brandes, in an experiment a short time after Röntgen's landmark 1895 paper, reported after dark adaptation and placing his eye close to an X-ray tube, seeing a faint "blue-gray" glow which seemed to originate within the eye itself. Upon hearing this, Röntgen reviewed his record books and found he too had seen the effect. When placing an X-ray tube on the opposite side of a wooden door Röntgen had noted the same blue glow, seeming to emanate from the eye itself, but thought his observations to be spurious because he only saw the effect when he used one type of tube. Later he realized that the tube which had created the effect was the only one powerful enough to make the glow plainly visible and the experiment was thereafter readily repeatable. The knowledge that X-rays are actually faintly visible to the dark-adapted naked eye has largely been forgotten today; this is probably due to the desire not to repeat what would now be seen as a recklessly dangerous and potentially harmful experiment with ionizing radiation. It is not known what exact mechanism in the eye produces the visibility: it could be due to conventional detection (excitation of rhodopsin molecules in the retina), direct excitation of retinal nerve cells, or secondary detection via, for instance, X-ray induction of phosphorescence in the eyeball with conventional retinal detection of the secondarily produced visible light.
+
+Though X-rays are otherwise invisible it is possible to see the ionization of the air molecules if the intensity of the X-ray beam is high enough. The beamline from the wiggler at the at ESRF is one example of such high intensity.
+
+10. Units of measure and exposure
+
+The measure of X-rays ionizing ability is called the exposure:
+
+The coulomb per kilogram (C/kg) is the SI unit of ionizing radiation exposure, and it is the amount of radiation required to create one coulomb of charge of each polarity in one kilogram of matter.
+
+The roentgen (R) is an obsolete traditional unit of exposure, which represented the amount of radiation required to create one electrostatic unit of charge of each polarity in one cubic centimeter of dry air. 1 roentgen = 2.58×10−4 C/kg. However, the effect of ionizing radiation on matter (especially living tissue) is more closely related to the amount of energy deposited into them rather than the charge generated. This measure of energy absorbed is called the absorbed dose:
+
+The gray (Gy), which has units of (joules/kilogram), is the SI unit of absorbed dose, and it is the amount of radiation required to deposit one joule of energy in one kilogram of any kind of matter.
+
+The rad is the (obsolete) corresponding traditional unit, equal to 10 millijoules of energy deposited per kilogram. 100 rad = 1 gray. The equivalent dose is the measure of the biological effect of radiation on human tissue. For X-rays it is equal to the absorbed dose.
+
+The Roentgen equivalent man (rem) is the traditional unit of equivalent dose. For X-rays it is equal to the rad, or, in other words, 10 millijoules of energy deposited per kilogram. 100 rem = 1 Sv.
+
+The sievert (Sv) is the SI unit of equivalent dose, and also of effective dose. For X-rays the "equivalent dose" is numerically equal to a Gray (Gy). 1 Sv = 1 Gy. For the "effective dose" of X-rays, it is usually not equal to the Gray (Gy).
+
+11. See also
+
+Abnormal reflection
+
+Backscatter X-ray
+
+Detective quantum efficiency
+
+High energy X-rays
+
+N ray
+
+Neutron radiation
+
+NuSTAR
+
+Radiographer
+
+Resonant inelastic X-ray scattering (RIXS)
+
+Small angle X-ray scattering (SAXS)
+
+X-ray absorption spectroscopy
+
+X-ray marker
+
+X-ray nanoprobe
+
+X-ray reflectivity
+
+X-ray vision
+
+X-ray welding
+
+12. References
+
+13. External links
+
+a simple tutorial
+
+MedPix medical image database
+
+– slideshow by Life

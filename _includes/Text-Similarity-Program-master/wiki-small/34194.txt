@@ -1,0 +1,105 @@
+The superorder Xenarthra is a group of placental mammals (infraclass Eutheria), extant today only in the Americas and represented by anteaters, tree sloths, and armadillos. The origins of the order can be traced as far back as the Paleocene, as early as 59 million years ago in South America. Xenarthrans developed and diversified extensively in South America during its long period of isolation. They invaded the Antilles by the early Miocene and, starting about 9 Mya, they spread to Central and North America as part of the Great American Interchange. Nearly all of the formerly abundant megafaunal xenarthrans, such as ground sloths, glyptodonts, and pampatheres, became extinct at the end of the Pleistocene.
+
+Xenarthrans share several characteristics not present in other placental mammals. The name Xenarthra, which means "strange joints", was chosen because their vertebral joints have extra articulations and are unlike those of any other mammals — a character referred to as "xenarthry" — and ischiosacral fusion. The males have internal testicles, which are located between the bladder and the rectum. Also, xenarthrans have the lowest metabolic rates among the therians.
+
+1. Evolutionary relationships
+
+Xenarthrans were previously classified alongside the pangolins and aardvarks in the order Edentata (meaning toothless, because the members do not have front incisor teeth and lack, or have poorly developed, molars). Subsequently, Edentata was found to be a polyphyletic grouping whose New World and Old World taxa are unrelated, and it was split up to reflect their true phylogeny. Aardvarks and pangolins are now placed in individual orders, and the new order Xenarthra was erected to group the remaining families (which are all related). The name Xenarthra means "strange joints", and was chosen because their vertebral joints have extra articulations and are unlike those of any other mammals. Because they lack characteristics believed to be present in the common ancestor of other known eutherian mammals, some weak morphological evidence suggests Xenarthra is outside Epitheria, the group that contains all other eutherians known today. Some even place xenarthrans outside of placentals, in the separate group Paratheria.
+
+The morphology of xenarthrans generally suggests the anteaters and sloths are more closely related to each other than either is to the armadillos; this is upheld by molecular studies. Since its conception, Xenarthra has increasingly come to be considered to be of a higher rank than 'order'; some authorities consider it to be a cohort, while others consider it to be a superorder. Whatever the rank, Xenarthra is now generally considered to be divided into two orders: Cingulata, which contains the armadillos; and Pilosa, which contains the Vermilingua (anteaters) and Folivora (sloths; previously known as Tardigrada or Phyllophaga).
+
+Xenarthra may be most closely related to either Afrotheria (in the group Atlantogenata), or Epitheria (comprising Afrotheria and Boreoeutheria). In other words, it may be nested within Eutheria or it may be the basal extant group. A comprehensive phylogeny by Goloboff et al. includes xenarthrans as a sister clade of Euarchontoglires within Boreoeutheria (Laurasiatheria+Euarchontoglires).
+
+2. Classification
+
+XENARTHRA
+
+Order Cingulata
+
+Family Dasypodidae: armadillos
+
+Pink fairy armadillo, Chlamyphorus truncatus
+
+Northern naked-tailed armadillo, Cabassous centralis
+
+Chacoan naked-tailed armadillo, Cabassous chacoensis
+
+Southern naked-tailed armadillo, Cabassous unicinctus
+
+Greater naked-tailed armadillo, Cabassous tatouay
+
+Screaming hairy armadillo, Chaetophractus vellerosus
+
+Big hairy armadillo, Chaetophractus villosus
+
+Andean hairy armadillo, Chaetophractus nationi
+
+Nine-banded armadillo or long-nosed armadillo, Dasypus novemcinctus
+
+Seven-banded armadillo, Dasypus septemcinctus
+
+Southern long-nosed armadillo, Dasypus hybridus
+
+Llanos long-nosed armadillo, Dasypus sabanicola
+
+Great long-nosed armadillo, Dasypus kappleri
+
+Hairy long-nosed armadillo, Dasypus pilosus
+
+Six-banded armadillo or yellow armadillo, Euphractus sexcinctus
+
+Giant armadillo, Priodontes maximus
+
+Southern three-banded armadillo, Tolypeutes matacus
+
+Brazilian three-banded armadillo, Tolypeutes tricinctus
+
+Pichi or dwarf armadillo, Zaedyus pichiy
+
+Family †Glyptodontidae: glyptodonts
+
+Family †Pampatheriidae: pampatheres
+
+Order Pilosa
+
+Suborder Folivora : sloths
+
+Family Bradypodidae: three-toed sloths
+
+Pygmy three-toed sloth, Bradypus pygmaeus
+
+Brown-throated three-toed sloth, Bradypus variegatus
+
+Pale-throated three-toed sloth, Bradypus tridactylus
+
+Maned three-toed sloth, Bradypus torquatus
+
+Family Megalonychidae: two-toed sloths and extinct megalonychid ground sloths
+
+Hoffman's two-toed sloth, Choloepus hoffmanni
+
+Linnaeus's two-toed sloth or southern two-toed sloth, Choloepus didactylus
+
+Family †Megatheriidae: megatheriid ground sloths
+
+Family †Mylodontidae: mylodontid ground sloths
+
+Family †Nothrotheriidae: nothrotheriid ground sloths and aquatic sloths
+
+Suborder Vermilingua : anteaters
+
+Family Cyclopedidae: silky anteaters
+
+Silky anteater, Cyclopes didactylus
+
+Family Myrmecophagidae: anteaters
+
+Giant anteater, Myrmecophaga tridactyla
+
+Northern tamandua, Tamandua mexicana
+
+Southern tamandua, Tamandua tetradactyla
+
+3. References
+
+4. External links

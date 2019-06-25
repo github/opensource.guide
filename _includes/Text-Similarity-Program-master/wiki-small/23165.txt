@@ -1,0 +1,21 @@
+Position in poker refers to the order in which players are seated around the table and the related poker strategy implications. Players who act first are in "early position"; players who act later are in "late position"; players who act in between are in "middle position". A player "has position" on opponents acting before him and is "out of position" to opponents acting after him. Because players act in clockwise order, a player "has position" on opponents seated to his right, except when the opponent has the button and certain cases in the first betting round of games with blinds.
+
+1. Position in Texas hold 'em
+
+The primary advantage held by a player in late position is that he will have more information with which to make better decisions than players in early position, who will have to act first, without the benefit of this extra information. This advantage has led to many players in heads-up play raising on the button with an extremely wide range of hands because of this positional advantage. Also, as earlier opponents fold, the probability of a hand being the best goes up as the number of opponents goes down.
+
+The blinds are the least desirable position because a player is forced to contribute to the pot and they must act first on all betting rounds after the flop. Although the big blind has a big advantage on the first round of betting, it is on average the biggest money losing position.
+
+2. Texas hold 'em example
+
+There are 10 players playing $4/$8 fixed limit. Alice pays the $2 small blind. Bob pays the $4 big blind. Carol is under the gun (first to act). If Carol has a hand like K♥ J♠, she may choose to fold. With 9 opponents remaining to act, there is approximately a 40% chance that at least one of them will have a better hand than Carol's like A-A, K-K, Q-Q, J-J, A-K, A-Q, A-J or K-Q. And even if no one does, seven of them (all but the two players in the blind) will have position on Carol in the next three betting rounds.
+
+Now instead, suppose David in the cut-off position (to the right of the button) has the same K♥ J♠ and all players fold to him. In this situation, there are only three opponents left to act, so the odds that one of them has a better hand are considerably less (only around 16%). Secondly, two of those three (Alice and Bob) will be out of position to David on later betting rounds. A common play would be for David to raise and hope that the button (the only player who has position on David) folds. David's raise might simply steal the blinds if they don't have playable hands, but if they do play, David will be in good shape to take advantage of his position in later betting rounds.
+
+3. See also
+
+Poker jargon
+
+4. References
+
+5. External links

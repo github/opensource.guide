@@ -1,0 +1,5 @@
+The KAB-500KR is an electro-optical TV-guided fire and forget bomb developed by the Soviet Air Force in the 1980s. It remains in service with the CIS and various export customers.
+
+The KAB-500KR is analogous to the American GBU-15 weapon. It uses a standard Soviet/Russian FAB-500 general-purpose bomb, with a nominal weight of 500 kg (1,102 lb), as a warhead, adding a low-light television seeker and guidance fins to turn it into a guided, unpowered glide bomb.
+
+The bomb is 3.05 m (10 ft) long and weighs 560 kg (1,234 lb), of which 380 kg (837 lb) is a hardened, armor-piercing warhead capable of penetrating up to 1.5 m (4 ft 11 in) of reinforced concrete. The weapon's seeker can lock onto a target at ranges of up to 15 to 17 km (9.4 to 10.6 miles), depending on visibility. The technology of KAB-500KR is also used for larger bombs, such as KAB-1500KR based on the 1500 kg class FAB-1500 iron bomb.

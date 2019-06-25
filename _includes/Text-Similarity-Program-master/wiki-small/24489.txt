@@ -1,0 +1,381 @@
+The following outline is provided as an overview of and topical guide to physics:
+
+Physics – natural science that involves the study of matter and its motion through spacetime, along with related concepts such as energy and force. More broadly, it is the general analysis of nature, conducted in order to understand how the universe behaves.
+
+1. What type of thing is physics?
+
+Physics can be described as all of the following:
+
+An academic discipline – one with academic departments, curricula and degrees; national and international societies; and specialized journals.
+
+A scientific field (a branch of science) – widely-recognized category of specialized expertise within science, and typically embodies its own terminology and nomenclature. Such a field will usually be represented by one or more scientific journals, where peer-reviewed research is published.
+
+A natural science – one that seeks to elucidate the rules that govern the natural world using empirical and scientific method.
+
+A physical science – one that studies non-living systems.
+
+A biological science – one that studies the role of physical processes in living organisms. See Outline of biophysics.
+
+2. Branches of physics
+
+Acoustics – study of mechanical waves in solids, liquids, and gases (such as vibration and sound)
+
+Agrophysics – study of physics applied to agroecosystems
+
+Soil physics – study of soil physical properties and processes.
+
+Astrophysics – study of the physical aspects of celestial objects
+
+Astronomy – studies the universe beyond Earth, including its formation and development, and the evolution, physics, chemistry, meteorology, and motion of celestial objects (such as galaxies, planets, etc.) and phenomena that originate outside the atmosphere of Earth (such as the cosmic background radiation).
+
+Astrodynamics – application of ballistics and celestial mechanics to the practical problems concerning the motion of rockets and other spacecraft.
+
+Astrometry – branch of astronomy that involves precise measurements of the positions and movements of stars and other celestial bodies.
+
+Cosmology – discipline that deals with the nature of the Universe as a whole.
+
+Extragalactic astronomy – branch of astronomy concerned with objects outside our own Milky Way Galaxy
+
+Galactic astronomy – study of our own Milky Way galaxy and all its contents.
+
+Physical cosmology – study of the largest-scale structures and dynamics of the universe and is concerned with fundamental questions about its formation and evolution.
+
+Planetary science – scientific study of planets (including Earth), moons, and planetary systems, in particular those of the Solar System and the processes that form them.
+
+Stellar astronomy – natural science that deals with the study of celestial objects (such as stars, planets, comets, nebulae, star clusters and galaxies) and phenomena that originate outside the atmosphere of Earth (such as cosmic background radiation)
+
+Atmospheric physics – study of the application of physics to the atmosphere
+
+Atomic, molecular, and optical physics – study of how matter and light interact
+
+Biophysics – study of physical processes relating to biology
+
+Medical physics – application of physics concepts, theories and methods to medicine.
+
+Neurophysics – branch of biophysics dealing with the nervous system.
+
+Chemical physics – branch of physics that studies chemical processes from the point of view of physics.
+
+Classical physics 舑
+
+Computational physics – study and implementation of numerical algorithms to solve problems in physics for which a quantitative theory already exists.
+
+Condensed matter physics – study of the physical properties of condensed phases of matter.
+
+Cryogenics – cryogenics is the study of the production of very low temperature (below −150 °C, −238 °F or 123K) and the behavior of materials at those temperatures.
+
+Dynamics – study of the causes of motion and changes in motion
+
+Econophysics – interdisciplinary research field, applying theories and methods originally developed by physicists in order to solve problems in economics
+
+Electromagnetism – branch of science concerned with the forces that occur between electrically charged particles.
+
+Geophysics – the physics of the Earth and its environment in space; also the study of the Earth using quantitative physical methods
+
+Materials physics – use of physics to describe materials in many different ways such as force, heat, light and mechanics.
+
+Mathematical physics – application of mathematics to problems in physics and the development of mathematical methods for such applications and for the formulation of physical theories.
+
+Mechanics – branch of physics concerned with the behavior of physical bodies when subjected to forces or displacements, and the subsequent effects of the bodies on their environment.
+
+Aerodynamics 舑
+
+Biomechanics – study of the structure and function of biological systems such as humans, animals, plants, organs, and cells by means of the methods of mechanics.
+
+Classical mechanics – one of the two major sub-fields of mechanics, which is concerned with the set of physical laws describing the motion of bodies under the action of a system of forces.
+
+Kinematics 舑 branch of classical mechanics that describes the motion of points, bodies (objects) and systems of bodies (groups of objects) without consideration of the causes of motion.
+
+Continuum mechanics – branch of mechanics that deals with the analysis of the kinematics and the mechanical behavior of materials modeled as a continuous mass rather than as discrete particles.
+
+Fluid mechanics – study of fluids and the forces on them.
+
+Fluid statics 舑 study of fluids at rest
+
+Fluid kinematics 舑 study of fluids in motion
+
+Fluid dynamics 舑 study of the effect of forces on fluid motion
+
+Quantum mechanics – branch of physics which describes tiny discrete quantities of matter and energy, where action is on the order of Planck's constant.
+
+Thermodynamics – branch of physical science concerned with heat and its relation to other forms of energy and work.
+
+Nuclear physics – field of physics that studies the building blocks and interactions of atomic nuclei.
+
+Optics – branch of physics which involves the behavior and properties of light, including its interactions with matter and the construction of instruments that use or detect it.
+
+Particle physics – branch of physics that studies the properties and interactions of the fundamental constituents of matter and energy.
+
+Psychophysics – quantitatively investigates the relationship between physical stimuli and the sensations and perceptions they affect.
+
+Plasma physics – the study of plasma, a state of matter similar to gas in which a certain portion of the particles are ionized.
+
+Polymer physics – field of physics that studies polymers, their fluctuations, mechanical properties, as well as the kinetics of reactions involving degradation and polymerisation of polymers and monomers respectively.
+
+Quantum physics – branch of physics dealing with physical phenomena where the action is on the order of the Planck constant.
+
+Relativity – theory of physics which describes the relationship between space and time.
+
+Statics – branch of mechanics concerned with the analysis of loads (force, torque/moment) on physical systems in static equilibrium, that is, in a state where the relative positions of subsystems do not vary over time, or where components and structures are at a constant velocity.
+
+Solid state physics – study of rigid matter, or solids, through methods such as quantum mechanics, crystallography, electromagnetism, and metallurgy.
+
+Theoretical physics 舑 the pursuit of describing physical phenomena with rigorous mathematical models and physical abstractions in order to analyze, explain, and predict natural processes.
+
+Vehicle dynamics – dynamics of vehicles, here assumed to be ground vehicles.
+
+3. History of physics
+
+History of physics – history of the physical science that studies matter and its motion through space-time, and related concepts such as energy and force
+
+History of acoustics – history of the study of mechanical waves in solids, liquids, and gases (such as vibration and sound)
+
+History of agrophysics – history of the study of physics applied to agroecosystems
+
+History of soil physics – history of the study of soil physical properties and processes.
+
+History of astrophysics – history of the study of the physical aspects of celestial objects
+
+History of astronomy – history of the studies the universe beyond Earth, including its formation and development, and the evolution, physics, chemistry, meteorology, and motion of celestial objects (such as galaxies, planets, etc.) and phenomena that originate outside the atmosphere of Earth (such as the cosmic background radiation).
+
+History of astrodynamics – history of the application of ballistics and celestial mechanics to the practical problems concerning the motion of rockets and other spacecraft.
+
+History of astrometry – history of the branch of astronomy that involves precise measurements of the positions and movements of stars and other celestial bodies.
+
+History of cosmology – history of the discipline that deals with the nature of the Universe as a whole.
+
+History of extragalactic astronomy – history of the branch of astronomy concerned with objects outside our own Milky Way Galaxy
+
+History of galactic astronomy – history of the study of our own Milky Way galaxy and all its contents.
+
+History of physical cosmology – history of the study of the largest-scale structures and dynamics of the universe and is concerned with fundamental questions about its formation and evolution.
+
+History of planetary science – history of the scientific study of planets (including Earth), moons, and planetary systems, in particular those of the Solar System and the processes that form them.
+
+History of stellar astronomy – history of the natural science that deals with the study of celestial objects (such as stars, planets, comets, nebulae, star clusters and galaxies) and phenomena that originate outside the atmosphere of Earth (such as cosmic background radiation)
+
+History of atmospheric physics – history of the study of the application of physics to the atmosphere
+
+History of atomic, molecular, and optical physics – history of the study of how matter and light interact
+
+History of biophysics – history of the study of physical processes relating to biology
+
+History of medical physics – history of the application of physics concepts, theories and methods to medicine.
+
+History of neurophysics – history of the branch of biophysics dealing with the nervous system.
+
+History of chemical physics – history of the branch of physics that studies chemical processes from the point of view of physics.
+
+History of computational physics – history of the study and implementation of numerical algorithms to solve problems in physics for which a quantitative theory already exists.
+
+History of condensed matter physics – history of the study of the physical properties of condensed phases of matter.
+
+History of cryogenics – history of the cryogenics is the study of the production of very low temperature (below −150 °C, −238 °F or 123K) and the behavior of materials at those temperatures.
+
+Dynamics – history of the study of the causes of motion and changes in motion
+
+History of econophysics – history of the interdisciplinary research field, applying theories and methods originally developed by physicists in order to solve problems in economics
+
+History of electromagnetism – history of the branch of science concerned with the forces that occur between electrically charged particles.
+
+History of geophysics – history of the physics of the Earth and its environment in space; also the study of the Earth using quantitative physical methods
+
+History of materials physics – history of the use of physics to describe materials in many different ways such as force, heat, light and mechanics.
+
+History of mathematical physics – history of the application of mathematics to problems in physics and the development of mathematical methods for such applications and for the formulation of physical theories.
+
+History of mechanics – history of the branch of physics concerned with the behavior of physical bodies when subjected to forces or displacements, and the subsequent effects of the bodies on their environment.
+
+History of biomechanics – history of the study of the structure and function of biological systems such as humans, animals, plants, organs, and cells by means of the methods of mechanics.
+
+History of classical mechanics – history of the one of the two major sub-fields of mechanics, which is concerned with the set of physical laws describing the motion of bodies under the action of a system of forces.
+
+History of continuum mechanics – history of the branch of mechanics that deals with the analysis of the kinematics and the mechanical behavior of materials modeled as a continuous mass rather than as discrete particles.
+
+History of fluid mechanics – history of the study of fluids and the forces on them.
+
+History of quantum mechanics – history of the branch of physics dealing with physical phenomena where the action is on the order of the Planck constant.
+
+History of thermodynamics – history of the branch of physical science concerned with heat and its relation to other forms of energy and work.
+
+History of nuclear physics – history of the field of physics that studies the building blocks and interactions of atomic nuclei.
+
+History of optics – history of the branch of physics which involves the behavior and properties of light, including its interactions with matter and the construction of instruments that use or detect it.
+
+History of particle physics – history of the branch of physics that studies the existence and interactions of particles that are the constituents of what is usually referred to as matter or radiation.
+
+History of psychophysics – history of the quantitatively investigates the relationship between physical stimuli and the sensations and perceptions they affect.
+
+History of plasma physics – history of the state of matter similar to gas in which a certain portion of the particles are ionized.
+
+History of polymer physics – history of the field of physics that studies polymers, their fluctuations, mechanical properties, as well as the kinetics of reactions involving degradation and polymerisation of polymers and monomers respectively.
+
+History of quantum physics – history of the branch of physics dealing with physical phenomena where the action is on the order of the Planck constant.
+
+Relativity –
+
+History of statics – history of the branch of mechanics concerned with the analysis of loads (force, torque/moment) on physical systems in static equilibrium, that is, in a state where the relative positions of subsystems do not vary over time, or where components and structures are at a constant velocity.
+
+History of solid state physics – history of the study of rigid matter, or solids, through methods such as quantum mechanics, crystallography, electromagnetism, and metallurgy.
+
+History of vehicle dynamics – history of the dynamics of vehicles, here assumed to be ground vehicles.
+
+4. General concepts of physics
+
+4.1. Basic principles of physics
+
+Physics 舑 branch of science that studies matter and its motion through space and time, along with related concepts such as energy and force. Physics is one of the "fundamental sciences" because the other natural sciences (like biology, geology etc.) deal with systems that seem to obey the laws of physics. According to physics, the physical laws of matter, energy and the fundamental forces of nature govern the interactions between particles and physical entities (such as planets, molecules, atoms or the subatomic particles). Some of the basic pursuits of physics, which include some of the most prominent developments in modern science in the last millennium, include:
+
+Describing the nature, measuring and quantifying of bodies and their motion, dynamics etc.
+
+Newton's laws of motion
+
+Mass, force and weight
+
+Momentum and conservation of energy
+
+Gravity, theories of gravity
+
+Energy, work, and their relationship
+
+Motion, position, and energy
+
+Different forms of Energy, their interconversion and the inevitable loss of energy in the form of heat (Thermodynamics)
+
+Energy conservation, conversion, and transfer.
+
+Energy source the transfer of energy from one source to work in another.
+
+Kinetic molecular theory
+
+Phases of matter and phase transitions
+
+Temperature and thermometers
+
+Energy and heat
+
+Heat flow: conduction, convection, and radiation
+
+The three laws of thermodynamics
+
+The principles of waves and sound
+
+The principles of electricity, magnetism, and electromagnetism
+
+The principles, sources, and properties of light
+
+Basic quantities
+
+Acceleration
+
+Electric charge
+
+Energy
+
+Entropy
+
+Force
+
+Length
+
+Mass
+
+Matter
+
+Momentum
+
+Potential energy
+
+Space
+
+Temperature
+
+Time
+
+Velocity Gravity, light, physical system, physical observation, physical quantity, physical state, physical unit, physical theory, physical experiment
+
+Theoretical concepts Mass–energy equivalence, particle, physical field, physical interaction, physical law, fundamental force, physical constant, wave
+
+4.2. Overview
+
+This is a list of the primary theories in physics, major subtopics, and concepts.
+
+4.3. Concepts by field
+
+5. Famous physicists
+
+Archimedes – discovered the laws of flotation and developed Archimedes' principle.
+
+Ibn al-Haytham – Father of optics and discovered reflection and refraction.
+
+Galileo Galilei – "Father of modern physics.".
+
+Isaac Newton – Laid the groundwork for classical mechanics, made significant contributions to the field of optics and co-invented calculus. Often considered the greatest physicist of all time.
+
+James Clerk Maxwell - Formulated a set of equations that united previously unrelated observations, experiments, and equations of electricity, magnetism, and optics into a consistent theory.
+
+Albert Einstein – Generally considered greatest scientist of the 20th century. Developed both the Special and General theories of relativity and proved the existence of atoms beyond doubt.
+
+Niels Bohr – made fundamental contributions to understanding atomic structure and quantum mechanics. Widely considered one of the greatest physicists of the 20th century.
+
+Robert Oppenheimer – "Father of the atomic bomb."
+
+Richard Feynman – Expanded the theory of quantum electrodynamics, and developed the tool known as Feynman diagrams.
+
+Stephen Hawking – made fundamental contributions to black hole physics and cosmology. Also authored popular books on these subjects.
+
+6. Lists
+
+List of common physics notations
+
+List of equations in classical mechanics
+
+List of important publications in physics
+
+List of laws in science
+
+List of letters used in mathematics and science
+
+List of noise topics
+
+List of optical topics
+
+List of physicists
+
+List of physics journals
+
+List of scientific units named after people
+
+Index of wave articles
+
+Variables commonly used in physics
+
+7. See also
+
+Elementary physics formulae
+
+Glossary of classical physics
+
+List of physics concepts in primary and secondary education curricula
+
+8. Notes
+
+9. External links
+
+is the website of the American Institute of Physics
+
+is the website of the Institute of Physics
+
+is the website of the American Physical Society
+
+is the website of the American Society of Physics Students
+
+is the website of the Canadian Association of Physicists
+
+is the website of the European Physical Society
+
+, 3 vols., free online, Caltech & The Feynman Lectures Website
+
+Stack Exchange
+
+zh:物理學分支

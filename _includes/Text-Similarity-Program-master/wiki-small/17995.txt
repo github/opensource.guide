@@ -1,0 +1,122 @@
+Long-term memory (LTM) is the final stage of the dual memory model proposed by Atkinson and Shiffrin, in which data can be stored for long periods of time. While short-term and working memory persists for only about 20 to 30 seconds, information can remain in long term memory indefinitely.
+
+According to Mazur (2006), long-term memory has also been called reference memory, because an individual must refer to the information in long-term memory when performing almost any task.
+
+Long term memory is commonly broken down into explicit memory (declarative), which includes episodic memory, semantic memory, and autobiographical memory, and implicit memory (procedural memory).
+
+1. Dual-store memory model
+
+According to Miller, whose paper in 1956 popularized the theory of the "magic number seven", short-term memory is limited to a certain number of chunks of information, while long-term memory has a limitless store.
+
+1.1. Atkinson-Shiffrin memory model
+
+According to the dual store memory model proposed by Richard C. Atkinson and Richard Shiffrin in 1968, memories can reside in the short-term "buffer" for a limited time while they are simultaneously strengthening their associations in long-term memory. When items are first presented, they enter short-term memory, but due to its limited space, as new items enter, older ones are pushed out. However, each time an item in short term memory is rehearsed, it is strengthened in long term memory. Similarly, the longer an item stays in short-term memory, the stronger its association becomes in long-term memory.
+
+1.2. Baddeley's model of working memory
+
+In 1974 Baddeley and Hitch proposed an alternative theory of short term memory: Baddeley's model of working memory. According to this theory, short-term memory is divided into different slave systems for different types of input items, and there is an executive control supervising what items enter and exit those systems. The slave systems include the phonological loop, the visuo-spatial sketchpad, and the episodic buffer (later added by Baddeley).
+
+2. Encoding of information
+
+Long-term memory encodes information semantically for storage, as researched by Baddeley. In vision, the information needs to enter working memory before it can be stored into long-term memory. This is evidenced by the fact that the speed with which information is stored into long-term memory is determined by the amount of information that can be fit, at each step, into visual working memory. In other words, the larger the capacity of working memory for certain stimuli, the faster will these materials be learned.
+
+Synaptic Consolidation is the process by which items are transferred from short term to long term memory. Within the first minutes or hours after acquisition, the engram (memory trace) is encoded within synapses, becoming resistant (though not immune) to interference from outside sources.
+
+As long-term memory is subject to fading in the natural forgetting process, maintenance rehearsal (several recalls/retrievals of memory) may be needed to preserve long term memories. Individual retrievals can take place in increasing intervals in accordance with the principle of spaced repetition. This can happen quite naturally through reflection or deliberate recall (also known as recapitulation), often dependent on the perceived importance of the material.
+
+2.1. Sleep
+
+Some theories consider sleep to be an important factor in establishing well-organized long-term memories. (See also sleep and learning.) Sleep plays a key function in the consolidation of new memories.
+
+According to Tarnow's theory, long-term memories are stored in dream format (reminiscent of the Penfield & Rasmussen’s findings that electrical excitations of cortex give rise to experiences similar to dreams). During waking life an executive function interprets long-term memory consistent with reality checking . It is further proposed in the theory that the information stored in memory, no matter how it was learned, can affect performance on a particular task without the subject being aware that this memory is being used. Newly acquired declarative memory traces are believed to be reactivated during NonREM sleep to promote their hippocampo-neocortical transfer for long-term storage. Specifically new declarative memories are better remembered if recall follows Stage II non-rapid eye movement sleep. The reactivation of memories during sleep can lead to lasting synaptic changes within certain neural networks. It is the high spindle activity, low oscillation activity, and delta wave activity during NREM sleep that helps to contribute to declarative memory consolidation. In learning before sleep spindles are redistributed to neuronally active upstates within slow oscillations. Sleep spindles are thought to induce synaptic changes and thereby contribute to memory consolidation during sleep. Here, we examined the role of sleep in the object-place recognition task, a task closely comparable to tasks typically applied for testing human declarative memory: It is a one-trial task, hippocampus-dependent, not stressful and can be repeated within the same animal. Sleep deprivation reduces vigilance or arousal levels, affecting the efficiency of certain cognitive functions such as learning and memory.
+
+The theory that sleep benefits memory retention is not a new idea. It has been around since Ebbinghaus's experiment on forgetting in 1885. More recently studies have been done by Payne and colleagues and Holtz and colleagues. In Payne and colleague's experiment participants were randomly selected and split into two groups. Both groups were given semantically related or unrelated word pairs, but one group was given the information at 9am and the other group received theirs at 9pm. Participants were then tested on the word pairs at one of three intervals 30 minutes, 12 hours, or 24 hours later. It was found that participants who had a period of sleep between the learning and testing sessions did better on the memory tests. This information is similar to other results found by previous experiments by Jenkins and Dallenbach (1924). It has also been found that many domains of declarative memory are affected by sleep such as emotional memory, semantic memory, and direct encoding.
+
+Holtz found that not only does sleep affect consolidation of declarative memories, but also procedural memories. In this experiment fifty adolescent participants were taught either word pairs (which represents declarative memory) and a finger taping task(procedural memory) at one of two different times of day. What they found was that the procedural finger taping task was best encoded and remembered directly before sleep, but the declarative word pairs task was better remembered and encoded if learned at 3 in the afternoon.
+
+3. Divisions of long term memory
+
+The brain does not store memories in one unified structure, as might be seen in a computer's hard disk drive. Instead, different types of memory are stored in different regions of the brain. Long term memory is typically divided up into two major headings: explicit memory and implicit memory.
+
+3.1. Explicit memory
+
+Explicit memory (declarative memory) refers to all memories that are consciously available. These are encoded by the hippocampus, entorhinal cortex, and perirhinal cortex, but consolidated and stored elsewhere. The precise location of storage is unknown, but the temporal cortex has been proposed as a likely candidate. Research by Meulemans and Van der Linden (2003) found that amnesiac patients with damage to the medial temporal lobe performed more poorly on explicit learning tests than did healthy controls. However, these same amnesiac patients performed at the same rate as healthy controls on implicit learning tests. This implies that the medial temporal lobe is heavily involved in explicit learning, but not in implicit learning.
+
+Declarative memory has three major subdivisions:
+
+3.1.1. Episodic memory
+
+Episodic memory refers to memory for specific events in time, as well as supporting their formation and retrieval. Some examples of episodic memory would be remembering someone's name and what happened at your last interaction with each other. Experiments conducted by Spaniol and colleagues indicated that older adults have worse episodic memories than younger adults because episodic memory requires context dependent memory.
+
+3.1.2. Semantic memory
+
+Semantic memory refers to knowledge about factual information, such as the meaning of words. Semantic memory is independent information such as information remembered for a test. In contrast with episodic memory, older adults and younger adults do not show much of a difference in semantic memory, presumably because semantic memory does not depend on context memory.
+
+3.1.3. Autobiographical memory
+
+Autobiographical memory refers to knowledge about events and personal experiences from an individual's own life. Though similar to episodic memory, it differs in that it contains only those experience which directly pertain to the individual, from across his lifespan. Conway and Pleydell-Pearce (2000) argue that this is one component of the self-memory system.
+
+3.2. Implicit memory
+
+Implicit memory (procedural memory) refers to the use of objects or movements of the body, such as how exactly to use a pencil, drive a car, or ride a bicycle. This type of memory is encoded and it is presumed stored by the striatum and other parts of the basal ganglia. The basal ganglia is believed to mediate procedural memory and other brain structures and is largely independent of the hippocampus. Research by Manelis, Hanson, and Hanson (2011) found that the reactivation of the parietal and occipital regions was associated with implicit memory. Procedural memory is considered non-declarative memory or unconscious memory which includes priming and non-associative learning.
+
+Other categories of memory may also be relevant to the discussion of long term memory. For example:
+
+Emotional memory, the memory for events that evoke a particularly strong emotion, is a domain that can involve both declarative and procedural memory processes. Emotional memories are consciously available, but elicit a powerful, unconscious physiological reaction. Research indicates that the amygdala is extremely active during emotional situations, and acts with the hippocampus and prefrontal cortex in the encoding and consolidation of emotional events.
+
+Working memory is not part of long term memory, but is important for long term memory to function. Working memory holds and manipulates information for a short period of time, before it is either forgotten or encoded into long term memory. Then, in order to remember something from long term memory, it must be brought back into working memory. If working memory is overloaded it can affect the encoding of long term memory. If one has a good working memory they may have a better long term memory encoding.
+
+4. Disorders of memory
+
+Minor everyday slips and lapses of memory are fairly commonplace, and may increase naturally with age, when ill, or when under stress. Some women may experience more memory lapses following the onset of the menopause. In general, more serious problems with memory occur due to traumatic brain injury or neurodegenerative disease.
+
+4.1. Traumatic brain injury
+
+The majority of findings about memory have been the result of studies that lesioned specific brain regions in rats or primates, but some of the most important work has been the result of accidental or inadvertent brain trauma. The most famous case in recent memory studies is the case study of HM, who had parts of his hippocampus, parahippocampal cortices, and surrounding tissue removed in an attempt to cure his epilepsy. His subsequent total anterograde amnesia and partial retrograde amnesia provided the first evidence for the localization of memory function, and further clarified the differences between declarative and procedural memory.
+
+4.2. Neurodegenerative diseases
+
+Many neurodegenerative diseases can cause memory loss. Some of the most prevalent (and, as a consequence, most intensely researched) include Alzheimer's disease, dementia, Huntington's disease, multiple sclerosis, Parkinson's disease, and schizophrenia. None act specifically on memory; instead, memory loss is often a casualty of generalized neuronal deterioration. Currently, these illnesses are irreversible, but research into stem cells, psychopharmacology, and genetic engineering holds much promise.
+
+Those with Alzheimer's disease generally display symptoms such as getting momentarily lost on familiar routes, placing possessions in inappropriate locations and distortions of existing memories or completely forgetting memories. Researchers have often used the Deese–Roediger–McDermott paradigm (DRM) to study the effects of Alzheimer's disease on memory. The DRM paradigm presents a list of words such as doze, pillow, bed, dream, nap, etc., with a theme word that is not presented. In this case the theme word would have been sleep. Alzheimer's disease patients are more likely to recall the theme word as being part of the original list than healthy adults. There is a possible link between longer encoding time and increased false memory in LTM. The patients end up relying on the gist of information instead of the specific words themselves. Alzheimer's leads to an uncontrolled inflammatory response brought on by extensive amyloid depostion in the brain, which leads to cell death in the brain. This gets worse over time and eventually leads to cognitive decline, after the loss of memory. Pioglitazone may improve cognitive impairments, including memory loss and may help protect long-term and visiospatial memory from neurodegenerative disease.
+
+Parkinson's disease patients have problems with cognitive performance; these issues resemble what is seen in frontal lobe patients and can often lead to dementia. It is thought that Parkinson's disease is caused by degradation of the dopaminergic mesocorticolimbic projection originating from the ventral tegmental area. It has also been indicated that the hippocampus plays an important role in episodic and spatial (parts of LTM) memory and Parkinson’s disease patients have abnormal hippocampuses resulting in abnormal functioning of LTM. L-dopa injections are often used to try to relieve Parkinson's disease symptoms as well as behavioral therapy.
+
+Schizophrenia patients have trouble with attention and executive functions which in turn affects long term memory consolidation and retrieval. They cannot encode or retrieve temporal information properly, which causes them to select inappropriate social behaviors. They cannot effectively use the information they possess. The prefrontal cortex, where schizophrenia patients have structural abnormalities, is involved with the temporal lobe and also affects the hippocampus, which causes their difficulty in encoding and retrieving temporal information (including long term memory). Schizophrenia patients are very hard to treat. Their symptoms can be controlled with medication, but as many schizophrenics are paranoid, they believe the medication is to hurt them not help them
+
+5. Biological underpinnings at the cellular level
+
+Long-term memory, unlike short-term memory, is dependent upon the construction of new proteins. This occurs within the cellular body, and concerns in particular transmitters, receptors, and new synapse pathways that reinforce the communicative strength between neurons. The production of new proteins devoted to synapse reinforcement is triggered after the release of certain signaling substances (such as calcium within hippocampal neurons) in the cell. In the case of hippocampal cells, this release is dependent upon the expulsion of magnesium (a binding molecule) that is expelled after significant and repetitive synaptic signaling. The temporary expulsion of magnesium frees NMDA receptors to release calcium in the cell, a signal that leads to gene transcription and the construction of reinforcing proteins. For more information, see long-term potentiation (LTP).
+
+One of the newly synthesized proteins in LTP is also critical for maintaining long-term memory. This protein is an autonomously active form of the enzyme protein kinase C (PKC), known as PKMζ. PKMζ maintains the activity-dependent enhancement of synaptic strength and inhibiting PKMζ erases established long-term memories, without affecting short-term memory or, once the inhibitor is eliminated, the ability to encode and store new long-term memories is restored.
+
+Also, BDNF is important for the persistence of long-term memories.
+
+The long-term stabilization of synaptic changes is also determined by a parallel increase of pre- and postsynaptic structures such as axonal bouton, dendritic spine and postsynaptic density. On the molecular level, an increase of the postsynaptic scaffolding proteins PSD-95 and Homer1c has been shown to correlate with the stabilization of synaptic enlargement.
+
+6. Contradictory evidence
+
+A couple of studies have had results that contradict the dual-store memory model. Studies showed that in spite of using distractors, there was still both a recency effect for a list of items and a contiguity effect.
+Another study revealed that how long an item spends in short-term memory is not the key determinant in its strength in long-term memory. Instead, whether the participant actively tries to remember the item while elaborating on its meaning determines the strength of its store in long-term memory.
+
+7. Single-store memory model
+
+An alternative theory is that there is only one memory store with associations among items and their contexts. In this model, the context serves as a cue for retrieval, and the recency effect is greatly caused by the factor of context. Immediate and delayed free-recall will have the same recency effect because the relative similarity of the contexts still exist. Also, the contiguity effect still occurs because contiguity also exists between similar contexts.
+
+8. See also
+
+Aging and memory
+
+Emotion and memory
+
+Intermediate-term memory
+
+Neurogenesis
+
+9. Footnotes
+
+10. References
+
+11. Further reading
+
+de:Langzeitgedächtnis is:Langtímaminni

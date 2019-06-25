@@ -1,0 +1,63 @@
+In propositional logic, modus ponendo ponens (Latin for "the way that affirms by affirming"; often abbreviated to MP or modus ponens) or implication elimination is a valid, simple argument form and rule of inference. It can be summarized as "P implies Q; P is asserted to be true, so therefore Q must be true." The history of modus ponens goes back to antiquity.
+
+While modus ponens is one of the most commonly used concepts in logic it must not be mistaken for a logical law; rather, it is one of the accepted mechanisms for the construction of deductive proofs that includes the "rule of definition" and the "rule of substitution". Modus ponens allows one to eliminate a conditional statement from a logical proof or argument (the antecedents) and thereby not carry these antecedents forward in an ever-lengthening string of symbols; for this reason modus ponens is sometimes called the rule of detachment. Enderton, for example, observes that "modus ponens can produce shorter formulas from longer ones", and Russell observes that "the process of the inference cannot be reduced to symbols. Its sole record is the occurrence of ⊦q [the consequent] . . . an inference is the dropping of a true premise; it is the dissolution of an implication".
+
+A justification for the "trust in inference is the belief that if the two former assertions [the antecedents] are not in error, the final assertion [the consequent] is not in error". In other words: if one statement or proposition implies a second one, and the first statement or proposition is true, then the second one is also true. If P implies Q and P is true, then Q is true. An example is:
+
+Modus ponens can be stated formally as:
+
+where the rule is that whenever an instance of "P → Q" and "P" appear by themselves on lines of a logical proof, Q can validly be placed on a subsequent line; furthermore, the premise P and the implication "dissolves", their only trace being the symbol Q that is retained for use later e.g. in a more complex deduction.
+
+It is closely related to another valid form of argument, modus tollens. Both have apparently similar but invalid forms such as affirming the consequent, denying the antecedent, and evidence of absence. Constructive dilemma is the disjunctive version of modus ponens. Hypothetical syllogism is closely related to modus ponens and sometimes thought of as "double modus ponens."
+
+1. Formal notation
+
+The modus ponens rule may be written in sequent notation:
+
+where ⊢ is a metalogical symbol meaning that Q is a syntactic consequence of P → Q and P in some logical system;
+
+or as the statement of a truth-functional tautology or theorem of propositional logic:
+
+where P, and Q are propositions expressed in some formal system.
+
+2. Explanation
+
+The argument form has two premises (hypothesis). The first premise is the "if–then" or conditional claim, namely that P implies Q. The second premise is that P, the antecedent of the conditional claim, is true. From these two premises it can be logically concluded that Q, the consequent of the conditional claim, must be true as well. In artificial intelligence, modus ponens is often called forward chaining.
+
+An example of an argument that fits the form modus ponens:
+
+This argument is valid, but this has no bearing on whether any of the statements in the argument are true; for modus ponens to be a sound argument, the premises must be true for any true instances of the conclusion. An argument can be valid but nonetheless unsound if one or more premises are false; if an argument is valid and all the premises are true, then the argument is sound. For example, John might be going to work on Wednesday. In this case, the reasoning for John's going to work (because it is Wednesday) is unsound. The argument is not only sound on Tuesdays (when John goes to work), but valid on every day of the week. A propositional argument using modus ponens is said to be deductive.
+
+In single-conclusion sequent calculi, modus ponens is the Cut rule. The cut-elimination theorem for a calculus says that every proof involving Cut can be transformed (generally, by a constructive method) into a proof without Cut, and hence that Cut is admissible.
+
+The Curry–Howard correspondence between proofs and programs relates modus ponens to function application: if f is a function of type P → Q and x is of type P, then f x is of type Q.
+
+3. Relation to Modus Tollens
+
+Any Modus Ponens rule can be proved using a Modus Tollens rule and transposition.
+
+4. Justification via truth table
+
+The validity of modus ponens in classical two-valued logic can be clearly demonstrated by use of a truth table.
+
+In instances of modus ponens we assume as premises that p → q is true and p is true. Only one line of the truth table—the first—satisfies these two conditions (p and p → q). On this line, q is also true. Therefore, whenever p → q is true and p is true, q must also be true.
+
+5. See also
+
+What the Tortoise Said to Achilles
+
+Condensed detachment
+
+6. References
+
+7. Sources
+
+Alfred Tarski 1946 Introduction to Logic and to the Methodology of the Deductive Sciences 2nd Edition, reprinted by Dover Publications, Mineola NY. ISBN 0-486-28462-X (pbk).
+
+Alfred North Whitehead and Bertrand Russell 1927 Principia Mathematica to *56 (Second Edition) paperback edition 1962, Cambridge at the University Press, London UK. No ISBN, no LCCCN.
+
+Herbert B. Enderton, 2001, A Mathematical Introduction to Logic Second Edition, Harcourt Academic Press, Burlington MA, ISBN 978-0-12-238452-3.
+
+8. External links
+
+at Wolfram MathWorld

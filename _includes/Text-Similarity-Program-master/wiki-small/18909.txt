@@ -1,0 +1,241 @@
+Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the Periodic table: they each have the same electron configuration in their outer electron shell to explain their similar crystal structure.
+
+Magnesium is the ninth most abundant element in the universe because it is synthesized in large, aging stars from the sequential addition of three helium nuclei to a carbon nucleus. When such a star explodes as a supernova, much of its magnesium is expelled into the interstellar medium, where it can be recycled into new star systems. Consequently, magnesium is the eighth most abundant element in the Earth's crust and the fourth most common element in the Earth (below iron, oxygen and silicon), making up 13% of the planet's mass and a large fraction of the planet's mantle. It is the third most abundant element dissolved in seawater, after sodium and chloride.
+
+Magnesium only occurs naturally in combination with other elements, where it uniformly takes on the +2 oxidation state. The free element (metal) can be produced artificially, and is highly reactive (though once produced, it is coated in a thin layer of oxide (see passivation), which partly masks this reactivity). The free metal burns with a characteristic brilliant-white light, making it a useful ingredient in flares. The metal is now obtained mainly by electrolysis of magnesium salts obtained from brine. In commerce, the chief use for the metal is as an alloying agent to make aluminium-magnesium alloys, sometimes called magnalium or magnelium. Since magnesium is less dense than aluminium, this alloy is prized for its properties of lightness combined with strength.
+
+Magnesium is the eleventh most abundant element by mass in the human body. Its ions are essential to all cells. They interact with polyphosphate compounds such as ATP, DNA, and RNA. Hundreds of enzymes require magnesium ions to function. Magnesium compounds are used medicinally as common laxatives, antacids (e.g., milk of magnesia), and to stabilize abnormal nerve excitation or blood vessel spasm such as in eclampsia. Magnesium ions are sour to the taste, and in low concentrations they help to impart a natural tartness to fresh mineral waters. Magnesium is the metallic ion at the center of chlorophyll, and is a common additive to fertilizers.
+
+1. Characteristics
+
+1.1. Physical properties
+
+Elemental magnesium is a gray-white light-weight metal, two-thirds the density of aluminium. It tarnishes slightly when exposed to air, although, unlike the other alkali metals, an oxygen-free environment is unnecessary for storage because magnesium is protected by a thin layer of oxide that is fairly impermeable and difficult to remove. Magnesium reacts with water at room temperature, though it reacts much more slowly than the similar earth alkali metal calcium. When submerged in water, hydrogen bubbles almost unnoticeably begin to form on the surface of the metal—though, if powdered, it reacts much more rapidly. The reaction occurs faster with higher temperatures (see precautions). Magnesium's ability to react with water can be harnessed to produce energy and run a magnesium-based engine. Magnesium also reacts exothermically with most acids, such as hydrochloric acid (HCl). As with aluminium, zinc, and many other metals, the reaction with HCl produces the chloride of the metal and releases hydrogen gas.
+
+1.2. Chemical properties
+
+Magnesium is a highly flammable metal, especially when powdered or shaved into thin strips. It is, however, difficult to ignite in mass or bulk. Once ignited, it is difficult to extinguish, being able to burn in nitrogen (forming magnesium nitride), carbon dioxide (forming magnesium oxide, and carbon) and water (forming magnesium oxide and hydrogen). This property was used in incendiary weapons used in the firebombing of cities in World War II, the only practical civil defense being to smother a burning flare under dry sand to exclude the atmosphere. On burning in air, magnesium produces a brilliant-white light that includes strong ultraviolet. Thus, magnesium powder (flash powder) was used as a source of illumination in the early days of photography. Later, magnesium ribbon was used in electrically ignited flashbulbs. Magnesium powder is used in the manufacture of fireworks and marine flares where a brilliant white light is required. Flame temperatures of magnesium and magnesium alloys can reach , although flame height above the burning metal is usually less than . Magnesium may be used as an ignition source for thermite, a mixture of aluminium and iron oxide powder that is otherwise difficult to ignite.
+
+1.3. Occurrence
+
+Magnesium is the eighth-most-abundant element in the Earth's crust by mass and tied in seventh place with iron in terms of molarity. It is found in large deposits of magnesite, dolomite, and other minerals, and in mineral waters, where magnesium ion is soluble.
+
+Although magnesium is found in over 60 minerals, only dolomite, magnesite, brucite, carnallite, talc, and olivine are of commercial importance.
+
+The cation is the second-most-abundant cation in seawater (occurring at about 12% of the mass of sodium there), which makes seawater and sea-salt an attractive commercial source of Mg. To extract the magnesium, calcium hydroxide is added to seawater to form magnesium hydroxide precipitate.
+
+Magnesium hydroxide (brucite) is insoluble in water, so it can be filtered out and reacted with hydrochloric acid to obtain concentrated magnesium chloride.
+
+From magnesium chloride, electrolysis produces magnesium.
+
+2. Forms
+
+2.1. Alloy
+
+As of 2013, magnesium alloy consumption is less than one million tons per year, compared with 50 million tons of aluminum alloys. Its use has been historically limited by its tendency to corrode, high-temperature creep, and flammability.
+
+2.1.1. Corrosion
+
+The presence of iron, nickel, copper, and cobalt strongly activates corrosion. This is due to their low solid solubility limits (above a very small percentage, they precipitate out as intermetallic compounds) and because they behave as active cathodic sites that reduce water and cause the loss of magnesium. Reducing the quantity of these metals improves corrosion resistance. Sufficient manganese overcomes the corrosive effects of iron. This requires precise control over composition, increasing costs. Adding a cathodic poison captures atomic hydrogen within the structure of a metal. This prevents the formation of free hydrogen gas, which is required for corrosive chemical processes. The addition of about one-third of a percent of arsenic reduces its corrosion rate in a salt solution by a factor of nearly ten.
+
+2.1.2. High-temperature creep and flammability
+
+Research and development eliminated magnesium's tendency toward high-temperature creep by inclusion of scandium and gadolinium. Flammability was greatly reduced by introducing a small amount of calcium into the mix.
+
+2.2. Compounds
+
+Magnesium forms a variety of industrially and biologically important compounds, including magnesium carbonate, magnesium chloride, magnesium citrate, magnesium hydroxide (milk of magnesia), magnesium oxide, magnesium sulfate, and magnesium sulfate heptahydrate (Epsom salts).
+
+2.3. Isotopes
+
+Magnesium has three stable isotopes: 24Mg, 25Mg and 26Mg. All are present in significant amounts (see table of isotopes above). About 79% of Mg is 24Mg. The isotope 28Mg is radioactive and in the 1950s to 1970s was made commercially by several nuclear power plants for use in scientific experiments. This isotope has a relatively short half-life (21 hours) and so its use was limited by shipping times.
+
+26Mg has found application in isotopic geology, similar to that of aluminium. 26Mg is a radiogenic daughter product of 26Al, which has a half-life of 717,000 years. Large enrichments of stable 26Mg have been observed in the Ca-Al-rich inclusions of some carbonaceous chondrite meteorites. The anomalous abundance of 26Mg is attributed to the decay of its parent 26Al in the inclusions. Therefore, the meteorite must have formed in the solar nebula before the 26Al had decayed. Hence, these fragments are among the oldest objects in the solar system and have preserved information about its early history.
+
+It is conventional to plot 26Mg/24Mg against an Al/Mg ratio. In an isochron dating plot, the Al/Mg ratio plotted is27Al/24Mg. The slope of the isochron has no age significance, but indicates the initial 26Al/27Al ratio in the sample at the time when the systems were separated from a common reservoir.
+
+3. Production
+
+China is the dominant supplier of magnesium, with approximately 80% of the world market share. China is almost completely reliant on the silicothermic Pidgeon process (the reduction of the oxide at high temperatures with silicon, often provided by a ferrosilicon alloy in which the iron is but a spectator in the reactions) to obtain the metal. The process can also be carried out with carbon at approx 2300 °C:
+
+In the United States, magnesium is obtained principally with the Dow process, by electrolysis of fused magnesium chloride from brine and sea water. A saline solution containing Mg2+ ions is first treated with lime (calcium oxide) and the precipitated magnesium hydroxide is collected:
+
+The hydroxide is then converted to a partial hydrate of magnesium chloride by treating the hydroxide with hydrochloric acid and heating of the product:
+
+The salt is then electrolyzed in the molten state. At the cathode, the ion is reduced by two electrons to magnesium metal:
+
+At the anode, each pair of ions is oxidized to chlorine gas, releasing two electrons to complete the circuit:
+
+A new process, solid oxide membrane technology, involves the electrolytic reduction of MgO. At the cathode, ion is reduced by two electrons to magnesium metal. The electrolyte is Yttria-stabilized zirconia (YSZ). The anode is a liquid metal. At the YSZ/liquid metal anode is oxidized. A layer of graphite borders the liquid metal anode, and at this interface carbon and oxygen react to form carbon monoxide. When silver is used as the liquid metal anode, there is no reductant carbon or hydrogen needed, and only oxygen gas is evolved at the anode. It has been reported that this method provides a 40% reduction in cost per pound over the electrolytic reduction method. This method is more environmentally sound than others because there is much less carbon dioxide emitted.
+
+The United States has traditionally been the major world supplier of this metal, supplying 45% of world production even as recently as 1995. Today, the US market share is at 7%, with a single domestic producer left, US Magnesium, a Renco Group company in Utah born from now-defunct Magcorp.
+
+4. History
+
+The name magnesium originates from the Greek word for a district in Thessaly called Magnesia. It is related to magnetite and manganese, which also originated from this area, and required differentiation as separate substances. See manganese for this history.
+
+In 1618, a farmer at Epsom in England attempted to give his cows water from a well there. The cows refused to drink because of the water's bitter taste, but the farmer noticed that the water seemed to heal scratches and rashes. The substance became known as Epsom salts and its fame spread. It was eventually recognized as hydrated magnesium sulfate, MgSO4·7H2O.
+
+The metal itself was first produced by Sir Humphry Davy in England in 1808. He used electrolysis on a mixture of magnesia and mercuric oxide. Antoine Bussy prepared it in coherent form in 1831. Davy's first suggestion for a name was magnium, but the name magnesium is now used.
+
+5. Uses
+
+5.1. As a metal
+
+Magnesium is the third-most-commonly-used structural metal, following iron and aluminium. It has been called the lightest useful metal by The Periodic Table of Videos.
+
+The main applications of magnesium are, in order: component of aluminium alloys, in die-casting (alloyed with zinc), to remove sulfur in the production of iron and steel, the production of titanium in the Kroll process.
+
+Historically, magnesium was one of the main aerospace construction metals and was used for German military aircraft as early as World War I and extensively for German aircraft in World War II.
+
+The Germans coined the name "Elektron" for magnesium alloy. The term is still used today. The application of magnesium in the commercial aerospace industry was generally restricted to engine-related components, due either to perceived hazards with magnesium parts in the event of fire or to corrosion. Currently, the use of magnesium alloys in aerospace is increasing, mostly driven by the increasing importance of fuel economy and the need to reduce weight. The development and testing of new magnesium alloys continues, notably Elektron 21, which has successfully undergone extensive aerospace testing for suitability in engine and internal and airframe components. The European Community runs three R&D magnesium projects in the Aerospace priority of Six Framework Program.
+
+5.1.1. Aircraft
+
+Wright Aeronautical used a magnesium crankcase in the WWII-era Wright Duplex Cyclone aviation engine. This presented a serious problem for the earliest examples of the Boeing B-29 heavy bomber, as engine fires in flight could ignite the engine crankcases, literally "torching" the wing spar apart.
+
+5.1.2. Automotive
+
+Mercedes-Benz used the alloy Elektron in the body of an early model Mercedes-Benz 300 SLR; these cars ran (with successes) at Le Mans, the Mille Miglia, and other world-class race events in 1955.
+
+Porsche used magnesium alloy frames in the 917/053 that won Le Mans in 1971, and continues to use magnesium alloys for its engine blocks due to the weight advantage.
+
+Volkswagen Group has used magnesium in its engine components for many years.
+
+Mitsubishi Motors also uses magnesium for its paddle shifters.
+
+BMW used magnesium alloy engine blocks in the 2006 325i and 330i models, including an aluminium alloy insert for the cylinder walls and cooling jackets surrounded by a high-temperature magnesium alloy AJ62A.
+
+Chevrolet used the magnesium alloy AE44 in the 2006 Corvette Z06. Both AJ62A and AE44 are recent developments in high-temperature low-creep magnesium alloys. The general strategy for such alloys is to form intermetallic precipitates at the grain boundaries, for example by adding mischmetal or calcium. New alloy development and lower costs that make magnesium competitive with aluminium will increase the number of automotive applications.
+
+5.1.3. Electronics
+
+Because of low weight and good mechanical and electrical properties, magnesium is widely used for manufacturing of mobile phones, laptop and tablet computers, cameras, and other electronic components.
+
+5.1.4. Niche uses of the metal
+
+Magnesium, being readily available and relatively nontoxic, has a variety of uses:
+
+Magnesium is flammable, burning at a temperature of approximately , and the autoignition temperature of magnesium ribbon is approximately . It produces intense, bright, white light when it burns. Magnesium's high combustion temperature makes it a useful tool for starting emergency fires. Other uses include flash photography, flares, pyrotechnics, and fireworks sparklers. Magnesium is also often used to ignite thermite or other materials that require a high ignition temperature.
+
+In the form of turnings or ribbons, to prepare Grignard reagents, which are useful in organic synthesis.
+
+As an additive agent in conventional propellants and the production of nodular graphite in cast iron.
+
+As a reducing agent to separate uranium and other metals from their salts.
+
+As a sacrificial (galvanic) anode to protect underground tanks, pipelines, buried structures, and water heaters.
+
+Alloyed with zinc to produce the zinc sheet used in photoengraving plates in the printing industry, dry-cell battery walls, and roofing.
+
+As a metal, this element's principal use is as an alloying additive to aluminium with these aluminium-magnesium alloys being used mainly for beverage cans, sports equipment such as golf clubs, fishing reels, and archery bows and arrows.
+
+Specialty, high-grade car wheels of magnesium alloy are called "mag wheels", although the term is often more broadly misapplied to include aluminium wheels. Many car and aircraft manufacturers have made engine and body parts from magnesium.
+
+5.2. In compounds
+
+Magnesium compounds, primarily magnesium oxide (MgO), are used as a refractory material in furnace linings for producing iron, steel, nonferrous metals, glass, and cement. Magnesium oxide and other magnesium compounds are also used in the agricultural, chemical, and construction industries. Magnesium oxide from calcination is used as an electrical insulator in fire-resistant cables.
+
+Magnesium reacted with an alkyl halide gives a Grignard reagent, which is a very useful tool for preparing alcohols.
+
+Magnesium salts are frequently included in various foods, fertilizers (magnesium is a component of chlorophyll), and culture media.
+
+Magnesium sulfite is used in the manufacture of paper (sulfite process).
+
+Magnesium phosphate is used to fireproof wood used in construction.
+
+Magnesium hexafluorosilicate is used in mothproofing of textiles.
+
+In the form of turnings or ribbons, Mg is useful in purification of solvents, for example the preparation of super-dry ethanol.
+
+5.2.1. Biological
+
+Pharmaceutical preparations of magnesium are used to treat magnesium deficiency and hypomagnesemia, as well as eclampsia. Usually in lower dosages, magnesium is commonly included in dietary mineral preparations, including many multivitamin preparations.
+
+Sorted by type of magnesium salt, biological applications of magnesium include:
+
+Magnesium sulfate, as the heptahydrate called Epsom salts, is used as bath salts, as a laxative, and as a highly soluble fertilizer.
+
+Magnesium hydroxide, suspended in water, is used in milk of magnesia antacids and laxatives.
+
+Magnesium chloride, oxide, gluconate, malate, orotate, glycinate and citrate are all used as oral magnesium supplements. Some have claimed that oral magnesium supplements are therapeutic for restless leg syndrome (RLS) in some individuals.
+
+Magnesium borate, magnesium salicylate, and magnesium sulfate are used as antiseptics.
+
+Magnesium bromide is used as a mild sedative (this action is due to the bromide, not the magnesium).
+
+Magnesium stearate is a slightly flammable white powder with lubricating properties. In pharmaceutical technology, it is used in the manufacturing of numerous kinds of tablets to prevent the tablets from sticking to the equipment during the tablet compression process (i.e., when the tablet's substance is pressed into tablet form).
+
+Magnesium carbonate powder is used by athletes such as gymnasts, weightlifters, and climbers to eliminate moisture and improving the grip on a gymnastic apparatus, lifting bar, and climbing rocks.
+
+Magnesium L-threonate is used a dietary magnesium supplement
+
+6. Biological roles
+
+6.1. Mechanism of action
+
+Because of the important interaction between phosphate and magnesium ions, magnesium ions are essential to the basic nucleic acid chemistry of life, and thus are essential to all cells of all known living organisms. Over 300 enzymes require the presence of magnesium ions for their catalytic action, including all enzymes utilizing or synthesizing ATP, or those that use other nucleotides to synthesize DNA and RNA. ATP exists in cells normally as a chelate of ATP and a magnesium ion.
+
+6.2. Dietary sources, recommended intake, and supplementation
+
+Numerous pharmaceutical preparations of magnesium, as well as magnesium dietary supplements are available. Magnesium oxide, one of the most common forms in magnesium dietary supplements because it has high magnesium content per weight, has been reported the least bioavailable.
+
+Spices, nuts, cereals, coffee, cocoa, tea, and vegetables are rich sources of magnesium. Green leafy vegetables such as spinach are also rich in magnesium since they contain chlorophyll.
+
+The UK recommended daily values for magnesium is 300 mg for men and 270 mg for women. Observations of reduced dietary magnesium intake in modern Western countries compared to earlier generations may be related to food refining and modern fertilizers that contain no magnesium.
+
+Numerous pharmaceutical preparations of magnesium, as well as magnesium dietary supplements are available. Magnesium oxide, one of the most common forms in magnesium dietary supplements because it has high magnesium content per weight, has been reported the least bioavailable.
+
+There is limited evidence that magnesium supplementation may play a role in the prevention and treatment of migraine.
+
+6.3. Metabolism
+
+An adult has 22-26 grams of magnesium, with 60% in the skeleton, 39% intracellular (20% in skeletal muscle), and 1% extracellular. Serum levels are typically 0.7–1.0 mmol/L or 1.8–2.4 mEq/L. Serum magnesium levels may be normal even when intracellular magnesium is deficient. The mechanisms for maintaining the magnesium level in the serum are varying gastrointestinal absorption and renal excretion. Intracellular magnesium is correlated with intracellular potassium. Increased magnesium lowers calcium and can either prevent hyercalcemia or cause hypocalcemia depending on the initial level. Low and high protein intake inhibit magnesium absorption, as does the amount of phosphate, phytate, and fat in the gut. Excess dietary magnesium is excreted in feces, urine, and sweat. Magnesium status may be assessed via serum and erythrocyte magnesium concentrations coupled with urinary and fecal magnesium content, but intravenous magnesium loading tests are more accurate and practical. A retention of 20% or more of the injected amount indicates deficiency. No biomarker has been established for magnesium.
+
+6.4. Detection in serum and plasma
+
+Magnesium concentrations in plasma or serum may be measured to monitor for efficacy and safety in those receiving the drug therapeutically, to confirm the diagnosis in potential poisoning victims or to assist in the forensic investigation in a case of fatal overdosage. The newborn children of mothers having received parenteral magnesium sulfate during labor may exhibit toxicity with normal serum magnesium levels.
+
+6.5. Deficiency
+
+Magnesium is an essential component of the human diet. Human magnesium deficiency (including conditions that show few overt symptoms) is relatively rare although only 32% of people in the United States meet the ; low levels of magnesium have been associated with the development of a number of human illnesses such as asthma, diabetes, and osteoporosis. Alcoholism can produce a magnesium deficiency, which is reversible by oral or parenteral administration, depending on the degree of deficiency. Low serum magnesium levels are associated with metabolic syndrome, diabetes mellitus type 2 and hypertension.
+
+6.6. Therapy
+
+Magnesium therapy is recommended by the ACC/AHA/ESC 2006 Guidelines for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death for patients with ventricular arrhythmia associated with torsades de pointes who present with long QT syndrome as well as for the treatment of patients with digoxin intoxication-induced arrhythmias. Magnesium is also the drug of choice in the management of pre-eclampsia and eclampsia.
+
+6.7. Overdose
+
+Excess magnesium in the blood is freely filtered at the kidneys, and for this reason it is difficult to overdose on magnesium from dietary sources alone. With supplements, overdose is possible, in particular in people with poor renal function; occasionally, with use of high cathartic doses of magnesium salts, severe hypermagnesemia has been reported to occur even without renal dysfunction.
+
+Since the kidneys are responsible for the excretion of magnesium, anyone with a heart or kidney disorder should not take magnesium supplementation except under their doctor's direction. It is very rare to overdose on magnesium from food, however, ingestion of large amounts of milk of magnesia (as a laxative or antacid), Epsom salts (as a laxative or tonic), or magnesium supplements may overdose, especially if they suffer from kidney problems. Too much magnesium can cause several serious health problems, including nausea, vomiting, severely lowered blood pressure, confusion, slowed heart rate, respiratory paralysis, deficiencies of other minerals, coma, cardiac arrhythmia, cardiac arrest, and eventually death. The most common side effects of magnesium toxicity are stomach upset and diarrhea.
+
+6.8. Function in plants
+
+Plants have an additional use for magnesium in that chlorophylls are magnesium-centered porphyrins. Magnesium deficiency in plants causes late-season yellowing between leaf veins, especially in older leaves, and can be corrected by applying Epsom salts (which is rapidly leached), or else crushed dolomitic limestone to the soil.
+
+7. Safety precautions for the metal
+
+Magnesium metal and its alloys are explosive hazards; they are highly flammable in their pure form when molten or in powder or ribbon form. Burning or molten magnesium metal reacts violently with water. When working with powdered magnesium, safety glasses with welding eye protection are employed, because the bright-white light produced by burning magnesium contains ultraviolet light that can permanently damage the retinas of the eyes.
+
+Magnesium is capable of reducing water to highly flammable hydrogen gas:
+
+As a result, water cannot extinguish magnesium fires. The hydrogen gas produced only intensifies the fire. Dry sand is an effective smothering agent, but only on relatively level and flat surfaces.
+
+Magnesium also reacts with carbon dioxide to form magnesium oxide and carbon:
+
+hence, carbon dioxide fire extinguishers cannot be used for extinguishing magnesium fires, either.
+
+Burning magnesium is usually quenched by using a Class D dry chemical fire extinguisher, or by covering the fire with sand or magnesium foundry flux to remove its air source.
+
+8. See also
+
+9. Notes
+
+10. References
+
+11. External links
+
+at The Periodic Table of Videos (University of Nottingham)
+
+(MP3) from the Royal Society of Chemistry's Chemistry World:

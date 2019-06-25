@@ -1,0 +1,147 @@
+Multimedia refers to content that uses a combination of different content forms. This contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material. Multimedia includes a combination of text, audio, still images, animation, video, or interactivity content forms.
+
+Multimedia is usually recorded and played, displayed, or accessed by information content processing devices, such as computerized and electronic devices, but can also be part of a live performance. Multimedia devices are electronic media devices used to store and experience multimedia content. Multimedia is distinguished from mixed media in fine art; by including audio, for example, it has a broader scope. The term "rich media" is synonymous for interactive multimedia. Hypermedia can be considered one particular multimedia application.
+
+1. Categorization of multimedia
+
+Multimedia may be broadly divided into linear and non-linear categories. Linear active content progresses often without any navigational control for the viewer such as a cinema presentation. Non-linear uses interactivity to control progress as with a video game or self-paced computer based training. Hypermedia is an example of non-linear content.
+
+Multimedia presentations can be live or recorded. A recorded presentation may allow interactivity via a navigation system. A live multimedia presentation may allow interactivity via an interaction with the presenter or performer.
+
+2. Major characteristics of multimedia
+
+Multimedia presentations may be viewed by person on stage, projected, transmitted, or played locally with a media player. A broadcast may be a live or recorded multimedia presentation. Broadcasts and recordings can be either analog or digital electronic media technology. Digital online multimedia may be downloaded or streamed. Streaming multimedia may be live or on-demand.
+
+Multimedia games and simulations may be used in a physical environment with special effects, with multiple users in an online network, or locally with an offline computer, game system, or simulator.
+
+The various formats of technological or digital multimedia may be intended to enhance the users' experience, for example to make it easier and faster to convey information. Or in entertainment or art, to transcend everyday experience.
+
+Enhanced levels of interactivity are made possible by combining multiple forms of media content. Online multimedia is increasingly becoming object-oriented and data-driven, enabling applications with collaborative end-user innovation and personalization on multiple forms of content over time. Examples of these range from multiple forms of content on Web sites like photo galleries with both images (pictures) and title (text) user-updated, to simulations whose co-efficients, events, illustrations, animations or videos are modifiable, allowing the multimedia "experience" to be altered without reprogramming. In addition to seeing and hearing, Haptic technology enables virtual objects to be felt. Emerging technology involving illusions of taste and smell may also enhance the multimedia experience.
+
+3. Terminology
+
+3.1. History of the term
+
+The term multimedia was coined by singer and artist Bob Goldstein (later 'Bobb Goldsteinn') to promote the July 1966 opening of his "LightWorks at L'Oursin" show at Southampton, Long Island. Goldstein was perhaps aware of a British artist named Dick Higgins, who had two years previously discussed a new approach to art-making he called "intermedia."
+
+On August 10, 1966, Richard Albarino of Variety borrowed the terminology, reporting: "Brainchild of songscribe-comic Bob ('Washington Square') Goldstein, the 'Lightworks' is the latest multi-media music-cum-visuals to debut as discothèque fare." Two years later, in 1968, the term "multimedia" was re-appropriated to describe the work of a political consultant, David Sawyer, the husband of Iris Sawyer—one of Goldstein’s producers at L’Oursin.
+
+In the intervening forty years, the word has taken on different meanings. In the late 1970s, the term referred to presentations consisting of multi-projector slide shows timed to an audio track. However, by the 1990s 'multimedia' took on its current meaning.
+
+In the 1993 first edition of McGraw-Hill’s Multimedia: Making It Work, Tay Vaughan declared “Multimedia is any combination of text, graphic art, sound, animation, and video that is delivered by computer. When you allow the user – the viewer of the project – to control what and when these elements are delivered, it is interactive multimedia. When you provide a structure of linked elements through which the user can navigate, interactive multimedia becomes hypermedia.”
+
+The German language society, Gesellschaft für deutsche Sprache, decided to recognize the word's significance and ubiquitousness in the 1990s by awarding it the title of 'Word of the Year' in 1995. The institute summed up its rationale by stating "[Multimedia] has become a central word in the wonderful new media world"
+
+In common usage, multimedia refers to an electronically delivered combination of media including video, still images, audio, text in such a way that can be accessed interactively. Much of the content on the web today falls within this definition as understood by millions. Some computers which were marketed in the 1990s were called "multimedia" computers because they incorporated a CD-ROM drive, which allowed for the delivery of several hundred megabytes of video, picture, and audio data. That era saw also a boost in the production of educational multimedia CD-ROMs.
+
+3.2. Word usage and context
+
+Since media is the plural of medium, the term "multimedia" is used to describe multiple occurrences of only one form of media such as a collection of audio CDs. This is why it's important that the word "multimedia" is used exclusively to describe multiple forms of media and content.
+
+The term "multimedia" is also ambiguous. Static content (such as a paper book) may be considered multimedia if it contains both pictures and text or may be considered interactive if the user interacts by turning pages at will. Books may also be considered non-linear if the pages are accessed non-sequentially. The term "video", if not used exclusively to describe motion photography, is ambiguous in multimedia terminology. Video is often used to describe the file format, delivery format, or presentation format instead of "footage" which is used to distinguish motion photography from "animation" of rendered motion imagery. Multiple forms of information content are often not considered modern forms of presentation such as audio or video. Likewise, single forms of information content with single methods of information processing (e.g. non-interactive audio) are often called multimedia, perhaps to distinguish static media from active media. In the Fine arts, for example, Leda Luss Luyken's ModulArt brings two key elements of musical composition and film into the world of painting: variation of a theme and movement of and within a picture, making ModulArt an interactive multimedia form of art. Performing arts may also be considered multimedia considering that performers and props are multiple forms of both content and media.
+
+The Gesellschaft für deutsche Sprache chose Multimedia as German Word of the Year 1995.
+
+4. Usage / Application
+
+Multimedia finds its application in various areas including, but not limited to, advertisements, art, education, entertainment, engineering, medicine, mathematics, business, scientific research and spatial temporal applications. Several examples are as follows:
+
+4.1. Creative industries
+
+Creative industries use multimedia for a variety of purposes ranging from fine arts, to entertainment, to commercial art, to journalism, to media and software services provided for any of the industries listed below. An individual multimedia designer may cover the spectrum throughout their career. Request for their skills range from technical, to analytical, to creative.
+
+4.1.1. Commercial uses
+
+Much of the electronic old and new media used by commercial artists is multimedia. Exciting presentations are used to grab and keep attention in advertising. Business to business, and interoffice communications are often developed by creative services firms for advanced multimedia presentations beyond simple slide shows to sell ideas or liven-up training. Commercial multimedia developers may be hired to design for governmental services and nonprofit services applications as well.
+
+4.1.2. Entertainment and fine arts
+
+In addition, multimedia is heavily used in the entertainment industry, especially to develop special effects in movies and animations(VFX, 3D animation, etc.). Multimedia games are a popular pastime and are software programs available either as CD-ROMs or online. Some video games also use multimedia features. Multimedia applications that allow users to actively participate instead of just sitting by as passive recipients of information are called Interactive Multimedia. In the Arts there are multimedia artists, whose minds are able to blend techniques using different media that in some way incorporates interaction with the viewer. One of the most relevant could be Peter Greenaway who is melding Cinema with Opera and all sorts of digital media. Another approach entails the creation of multimedia that can be displayed in a traditional fine arts arena, such as an art gallery. Although multimedia display material may be volatile, the survivability of the content is as strong as any traditional media. Digital recording material may be just as durable and infinitely reproducible with perfect copies every time.
+
+4.1.3. Education
+
+In Education, multimedia is used to produce computer-based training courses (popularly called CBTs) and reference books like encyclopedia and almanacs. A CBT lets the user go through a series of presentations, text about a particular topic, and associated illustrations in various information formats. Edutainment is the combination of education with entertainment, especially multimedia entertainment.
+
+Learning theory in the past decade has expanded dramatically because of the introduction of multimedia. Several lines of research have evolved (e.g. Cognitive load, Multimedia learning, and the list goes on). The possibilities for learning and instruction are nearly endless.
+
+The idea of media convergence is also becoming a major factor in education, particularly higher education. Defined as separate technologies such as voice (and telephony features), data (and productivity applications) and video that now share resources and interact with each other, synergistically creating new efficiencies, media convergence is rapidly changing the curriculum in universities all over the world. Likewise, it is changing the availability, or lack thereof, of jobs requiring this savvy technological skill.
+
+The English education in middle school in China is well invested and assisted with various equipments. In contrast, the original objective has not been achieved at the desired effect. The government, schools, families, and students spend a lot of time working on improving scores, but hardly gain practical skills. English education today has gone into the vicious circle. Educators need to consider how to perfect the education system to improve students’ practical ability of English. Therefore an efficient way should be used to make the class vivid. Multimedia teaching will bring students into a class where they can interact with the teacher and the subject. Multimedia teaching is more intuitive than old ways; teachers can simulate situations in real life. In many circumstances teachers do not have to be there, students will learn by themselves in the class. More importantly, teachers will have more approaches to stimulating students’ passion of learning.
+
+4.1.4. Journalism
+
+Newspaper companies all over are also trying to embrace the new phenomenon by implementing its practices in their work. While some have been slow to come around, other major newspapers like The New York Times, USA Today and The Washington Post are setting the precedent for the positioning of the newspaper industry in a globalized world.
+
+News reporting is not limited to traditional media outlets. Freelance journalists can make use of different new media to produce multimedia pieces for their news stories. It engages global audiences and tells stories with technology, which develops new communication techniques for both media producers and consumers. Common Language Project is an example of this type of multimedia journalism production.
+
+Multimedia reporters who are mobile (usually driving around a community with cameras, audio and video recorders, and wifi-equipped laptop computers) are often referred to as Mojos, from mobile journalist.
+
+4.1.5. Engineering
+
+Software engineers may use multimedia in Computer Simulations for anything from entertainment to training such as military or industrial training. Multimedia for software interfaces are often done as a collaboration between creative professionals and software engineers.
+
+4.1.6. Industry
+
+In the Industrial sector, multimedia is used as a way to help present information to shareholders, superiors and coworkers. Multimedia is also helpful for providing employee training, advertising and selling products all over the world via virtually unlimited web-based technology.
+
+4.1.7. Mathematical and scientific research
+
+In mathematical and scientific research, multimedia is mainly used for modeling and simulation. For example, a scientist can look at a molecular model of a particular substance and manipulate it to arrive at a new substance. Representative research can be found in journals such as the Journal of Multimedia.
+
+4.1.8. Medicine
+
+In Medicine, doctors can get trained by looking at a virtual surgery or they can simulate how the human body is affected by diseases spread by viruses and bacteria and then develop techniques to prevent it.
+
+4.1.9. Document imaging
+
+Document imaging is a technique that takes hard copy of an image/document and converts it into a digital format (for example, scanners).
+
+4.1.10. Disabilities
+
+Ability Media allows those with disabilities to gain qualifications in the multimedia field so they can pursue careers that give them access to a wide array of powerful communication forms.
+
+4.2. Miscellaneous
+
+In Europe, the reference organisation for Multimedia industry is the European Multimedia Associations Convention (EMMAC).
+
+5. Structuring information in a multimedia form
+
+Multimedia represents the convergence of text, pictures, video and sound into a single form. The power of multimedia and the Internet lies in the way in which information is linked.
+
+Multimedia and the Internet require a completely new approach to writing. The style of writing that is appropriate for the 'on-line world' is highly optimized and designed to be able to be quickly scanned by readers.
+
+A good site must be made with a specific purpose in mind and a site with good interactivity and new technology can also be useful for attracting visitors. The site must be attractive and innovative in its design, function in terms of its purpose, easy to navigate, frequently updated and fast to download.
+
+When users view a page, they can only view one page at a time. As a result, multimedia users must create a "mental model" of information structure.
+
+6. Conferences
+
+There is a , the two main scholarly scientific conferences being:
+
+ACM Multimedia;
+
+IEEE ICME, International Conference on Multimedia & Expo.
+
+7. See also
+
+Artmedia
+
+Cross media
+
+Multi-Image
+
+Multimedia literacy
+
+Multimedia Messaging Service
+
+Multimedia search
+
+New media art
+
+Postliterate society
+
+Web documentary
+
+8. References
+
+9. External links

@@ -1,0 +1,211 @@
+The photoelectric effect is the observation that many metals emit electrons when light shines upon them. Electrons emitted in this manner can be called photoelectrons.
+
+According to classical electromagnetic theory, this effect can be attributed to the transfer of energy from the light to an electron in the metal. From this perspective, an alteration in either the amplitude or wavelength of light would induce changes in the rate of emission of electrons from the metal. Furthermore, according to this theory, a sufficiently dim light would be expected to show a lag time between the initial shining of its light and the subsequent emission of an electron. However, the experimental results did not correlate with either of the two predictions made by this theory.
+
+Instead, as it turns out, electrons are only dislodged by the photoelectric effect if light reaches or exceeds a threshold frequency, below which no electrons can be emitted from the metal regardless of the amplitude and temporal length of exposure of light. To make sense of the fact that light can eject electrons even if its intensity is low, Albert Einstein proposed that a beam of light is not a wave propagating through space, but rather a collection of discrete wave packets (photons), each with energy hf. This shed light on Max Planck's previous discovery of the Planck relation () linking energy (E) and frequency (f) as arising from quantization of energy. The factor h is known as the Planck constant.
+
+In 1887, Heinrich Hertz discovered that electrodes illuminated with ultraviolet light create electric sparks more easily. In 1905 Albert Einstein published a paper that explained experimental data from the photoelectric effect as being the result of light energy being carried in discrete quantized packets. This discovery led to the quantum revolution. Einstein was awarded the Nobel Prize in 1921 for "his discovery of the law of the photoelectric effect".
+
+The photoelectric effect requires photons with energies from a few electronvolts to over 1 MeV in elements with a high atomic number. Study of the photoelectric effect led to important steps in understanding the quantum nature of light and electrons and influenced the formation of the concept of wave–particle duality. Other phenomena where light affects the movement of electric charges include the photoconductive effect (also known as photoconductivity or photoresistivity), the photovoltaic effect, and the photoelectrochemical effect.
+
+1. Emission mechanism
+
+The photons of a light beam have a characteristic energy proportional to the frequency of the light. In the photoemission process, if an electron within some material absorbs the energy of one photon and acquires more energy than the work function (the electron binding energy) of the material, it is ejected. If the photon energy is too low, the electron is unable to escape the material. Since an increase in the intensity of low-frequency light will only increase the number of low-energy photons sent over a given interval of time, this change in intensity will not create any single photon with enough energy to dislodge an electron. Thus, the energy of the emitted electrons does not depend on the intensity of the incoming light, but only on the energy (equivalently frequency) of the individual photons. It is an interaction between the incident photon and the outermost electrons.
+
+Electrons can absorb energy from photons when irradiated, but they usually follow an "all or nothing" principle. All of the energy from one photon must be absorbed and used to liberate one electron from atomic binding, or else the energy is re-emitted. If the photon energy is absorbed, some of the energy liberates the electron from the atom, and the rest contributes to the electron's kinetic energy as a free particle.
+
+1.1. Experimental observations of photoelectric emission
+
+The theory of the photoelectric effect must explain the experimental observations of the emission of electrons from an illuminated metal surface.
+
+For a given metal, there exists a certain minimum frequency of incident radiation below which no photoelectrons are emitted. This frequency is called the threshold frequency. Increasing the frequency of the incident beam, keeping the number of incident photons fixed (this would result in a proportionate increase in energy) increases the maximum kinetic energy of the photoelectrons emitted. Thus the stopping voltage increases. The number of electrons also changes because the probability that each photon results in an emitted electron is a function of photon energy. If the intensity of the incident radiation of a given frequency is increased, there is no effect on the kinetic energy of each photoelectron.
+
+Above the threshold frequency, the maximum kinetic energy of the emitted photoelectron depends on the frequency of the incident light, but is independent of the intensity of the incident light so long as the latter is not too high.
+
+For a given metal and frequency of incident radiation, the rate at which photoelectrons are ejected is directly proportional to the intensity of the incident light. An increase in the intensity of the incident beam (keeping the frequency fixed) increases the magnitude of the photoelectric current, although the stopping voltage remains the same.
+
+The time lag between the incidence of radiation and the emission of a photoelectron is very small, less than 10−9 second.
+
+The direction of distribution of emitted electrons peaks in the direction of polarization (the direction of the electric field) of the incident light, if it is linearly polarized.
+
+1.2. Mathematical description
+
+The maximum kinetic energy of an ejected electron is given by
+
+where is the Planck constant and is the frequency of the incident photon. The term is the work function (sometimes denoted , or ), which gives the minimum energy required to remove a delocalised electron from the surface of the metal. The work function satisfies
+
+where is the threshold frequency for the metal. The maximum kinetic energy of an ejected electron is then
+
+Kinetic energy is positive, so we must have for the photoelectric effect to occur.
+
+1.3. Stopping potential
+
+The relation between current and applied voltage illustrates the nature of the photoelectric effect. For discussion, a light source illuminates a plate P, and another plate electrode Q collects any emitted electrons. We vary the potential between P and Q and measure the current flowing in the external circuit between the two plates.
+
+If the frequency and the intensity of the incident radiation are fixed, the photoelectric current increases gradually with an increase in the positive potential on the collector electrode until all the photoelectrons emitted are collected. The photoelectric current attains a saturation value and does not increase further for any increase in the positive potential. The saturation current depends on the intensity of illumination, but not its wavelength (as long as it exceeds the threshold wavelength).
+
+If we apply a negative potential to the collector plate Q with respect to the plate P and gradually increase it, the photoelectric current decreases, becoming zero at a certain negative potential. The negative potential on the collector at which the photoelectric current becomes zero is called the stopping potential or cut off potential
+
+i. For a given frequency of incident radiation, the stopping potential is independent of its intensity.
+
+ii. For a given frequency of incident radiation, the stopping potential is determined by the maximum kinetic energy of the photoelectrons that are emitted. If qe is the charge on the electron and is the stopping potential, then the work done by the retarding potential in stopping the electron is , so we have
+
+Recalling
+
+we see that the stopping voltage varies linearly with frequency of light, but depends on the type of material. For any particular material, there is a threshold frequency that must be exceeded, independent of light intensity, to observe any electron emission.
+
+1.4. Three-step model
+
+In the X-ray regime, the photoelectric effect in crystalline material is often decomposed into three steps:
+
+Inner photoelectric effect (see photodiode below). The hole left behind can give rise to auger effect, which is visible even when the electron does not leave the material. In molecular solids phonons are excited in this step and may be visible as lines in the final electron energy. The inner photoeffect has to be dipole allowed. The transition rules for atoms translate via the tight-binding model onto the crystal. They are similar in geometry to plasma oscillations in that they have to be transversal.
+
+Ballistic transport of half of the electrons to the surface. Some electrons are scattered.
+
+Electrons escape from the material at the surface. In the three-step model, an electron can take multiple paths through these three steps. All paths can interfere in the sense of the path integral formulation. For surface states and molecules the three-step model does still make some sense as even most atoms have multiple electrons which can scatter the one electron leaving.
+
+2. History
+
+When a surface is exposed to electromagnetic radiation above a certain threshold frequency (typically visible light for alkali metals, near ultraviolet for other metals, and extreme ultraviolet for non-metals), the radiation is absorbed and electrons are emitted. Light, and especially ultra-violet light, discharges negatively electrified bodies with the production of rays of the same nature as cathode rays. Under certain circumstances it can directly ionize gases. The first of these phenomena was discovered by Hertz and Hallwachs in 1887. The second was announced first by Philipp Lenard in 1900.
+
+The ultra-violet light to produce these effects may be obtained from an arc lamp, or by burning magnesium, or by sparking with an induction coil between zinc or cadmium terminals, the light from which is very rich in ultra-violet rays. Sunlight is not rich in ultra-violet rays, as these have been absorbed by the atmosphere, and it does not produce nearly so large an effect as the arc-light. Many substances besides metals discharge negative electricity under the action of ultraviolet light: lists of these substances will be found in papers by G. C. Schmidt and O. Knoblauch.
+
+2.1. 19th century
+
+In 1839, Alexandre Edmond Becquerel discovered the photovoltaic effect while studying the effect of light on electrolytic cells. Though not equivalent to the photoelectric effect, his work on photovoltaics was instrumental in showing a strong relationship between light and electronic properties of materials. In 1873, Willoughby Smith discovered photoconductivity in selenium while testing the metal for its high resistance properties in conjunction with his work involving submarine telegraph cables.
+
+Johann Elster (1854–1920) and Hans Geitel (1855–1923), students in Heidelberg, developed the first practical photoelectric cells that could be used to measure the intensity of light. Elster and Geitel had investigated with great success the effects produced by light on electrified bodies.
+
+In 1887, Heinrich Hertz observed the photoelectric effect and the production and reception of electromagnetic waves. He published these observations in the journal Annalen der Physik. His receiver consisted of a coil with a spark gap, where a spark would be seen upon detection of electromagnetic waves. He placed the apparatus in a darkened box to see the spark better. However, he noticed that the maximum spark length was reduced when in the box. A glass panel placed between the source of electromagnetic waves and the receiver absorbed ultraviolet radiation that assisted the electrons in jumping across the gap. When removed, the spark length would increase. He observed no decrease in spark length when he replaced glass with quartz, as quartz does not absorb UV radiation. Hertz concluded his months of investigation and reported the results obtained. He did not further pursue investigation of this effect.
+
+The discovery by Hertz in 1887 that the incidence of ultra-violet light on a spark gap facilitated the passage of the spark, led immediately to a series of investigations by Hallwachs, Hoor, Righi and Stoletow. on the effect of light, and especially of ultra-violet light, on charged bodies. It was proved by these investigations that a newly cleaned surface of zinc, if charged with negative electricity, rapidly loses this charge however small it may be when ultra-violet light falls upon the surface; while if the surface is uncharged to begin with, it acquires a positive charge when exposed to the light, the negative electrification going out into the gas by which the metal is surrounded; this positive electrification can be much increased by directing a strong airblast against the surface. If however the zinc surface is positively electrified it suffers no loss of charge when exposed to the light: this result has been questioned, but a very careful examination of the phenomenon by Elster and Geitel has shown that the loss observed under certain circumstances is due to the discharge by the light reflected from the zinc surface of negative electrification on neighbouring conductors induced by the positive charge, the negative electricity under the influence of the electric field moving up to the positively electrified surface.
+
+With regard to the Hertz effect, the researches from the start showed a great complexity of the phenomenon of photoelectric fatigue — that is, the progressive diminution of the effect observed upon fresh metallic surfaces. According to an important research by Wilhelm Hallwachs, ozone played an important part in the phenomenon. However, other elements enter such as oxidation, the humidity, the mode of polish of the surface, etc. It was at the time not even sure that the fatigue is absent in a vacuum.
+
+In the period from February 1888 and until 1891, a detailed analysis of photoeffect was performed by Aleksandr Stoletov with results published in 6 works; four of them in Comptes Rendus, one review in Physikalische Revue (translated from Russian), and the last work in Journal de Physique. First, in these works Stoletov invented a new experimental setup which was more suitable for a quantitative analysis of photoeffect. Using this setup, he discovered the direct proportionality between the intensity of light and the induced photo electric current (the first law of photoeffect or Stoletov's law). One of his other findings resulted from measurements of the dependence of the intensity of the electric photo current on the gas pressure, where he found the existence of an optimal gas pressure Pm corresponding to a maximum photocurrent; this property was used for a creation of solar cells.
+
+In 1899, J. J. Thomson investigated ultraviolet light in Crookes tubes. Thomson deduced that the ejected particles were the same as those previously found in the cathode ray, later called electrons, which he called "corpuscles". In the research, Thomson enclosed a metal plate (a cathode) in a vacuum tube, and exposed it to high frequency radiation. It was thought that the oscillating electromagnetic fields caused the atoms' field to resonate and, after reaching a certain amplitude, caused a subatomic "corpuscle" to be emitted, and current to be detected. The amount of this current varied with the intensity and colour of the radiation. Larger radiation intensity or frequency would produce more current.
+
+2.2. 20th century
+
+The discovery of the ionization of gases by ultra-violet light was made by Philipp Lenard in 1900. As the effect was produced across several centimeters of air and made very great positive and small negative ions, it was natural to interpret the phenomenon, as did J. J. Thomson, as a Hertz effect upon the solid or liquid particles present in the gas.
+
+In 1902, Lenard observed that the energy of individual emitted electrons increased with the frequency (which is related to the color) of the light.
+
+This appeared to be at odds with Maxwell's wave theory of light, which predicted that the electron energy would be proportional to the intensity of the radiation.
+
+Lenard observed the variation in electron energy with light frequency using a powerful electric arc lamp which enabled him to investigate large changes in intensity, and that had sufficient power to enable him to investigate the variation of potential with light frequency. His experiment directly measured potentials, not electron kinetic energy: he found the electron energy by relating it to the maximum stopping potential (voltage) in a phototube. He found that the calculated maximum electron kinetic energy is determined by the frequency of the light. For example, an increase in frequency results in an increase in the maximum kinetic energy calculated for an electron upon liberation – ultraviolet radiation would require a higher applied stopping potential to stop current in a phototube than blue light. However Lenard's results were qualitative rather than quantitative because of the difficulty in performing the experiments: the experiments needed to be done on freshly cut metal so that the pure metal was observed, but it oxidised in a matter of minutes even in the partial vacuums he used. The current emitted by the surface was determined by the light's intensity, or brightness: doubling the intensity of the light doubled the number of electrons emitted from the surface.
+
+The researches of Langevin and those of Eugene Bloch have shown that the greater part of the Lenard effect is certainly due to this 'Hertz effect'. The Lenard effect upon the gas itself nevertheless does exist. Refound by J. J. Thomson and then more decisively by Frederic Palmer, Jr., it was studied and showed very different characteristics than those at first attributed to it by Lenard.
+
+In 1905, Albert Einstein solved this apparent paradox by describing light as composed of discrete quanta, now called photons, rather than continuous waves. Based upon Max Planck's theory of black-body radiation, Einstein theorized that the energy in each quantum of light was equal to the frequency multiplied by a constant, later called Planck's constant. A photon above a threshold frequency has the required energy to eject a single electron, creating the observed effect. This discovery led to the quantum revolution in physics and earned Einstein the Nobel Prize in Physics in 1921. By wave-particle duality the effect can be analyzed purely in terms of waves though not as conveniently.
+
+Albert Einstein's mathematical description of how the photoelectric effect was caused by absorption of quanta of light was in one of his 1905 papers, named "On a Heuristic Viewpoint Concerning the Production and Transformation of Light". This paper proposed the simple description of "light quanta", or photons, and showed how they explained such phenomena as the photoelectric effect. His simple explanation in terms of absorption of discrete quanta of light explained the features of the phenomenon and the characteristic frequency.
+
+The idea of light quanta began with Max Planck's published law of black-body radiation ("On the Law of Distribution of Energy in the Normal Spectrum") by assuming that Hertzian oscillators could only exist at energies E proportional to the frequency f of the oscillator by E = hf, where h is Planck's constant. By assuming that light actually consisted of discrete energy packets, Einstein wrote an equation for the photoelectric effect that agreed with experimental results. It explained why the energy of photoelectrons was dependent only on the frequency of the incident light and not on its intensity: a low-intensity, high-frequency source could supply a few high energy photons, whereas a high-intensity, low-frequency source would supply no photons of sufficient individual energy to dislodge any electrons. This was an enormous theoretical leap, but the concept was strongly resisted at first because it contradicted the wave theory of light that followed naturally from James Clerk Maxwell's equations for electromagnetic behavior, and more generally, the assumption of infinite divisibility of energy in physical systems. Even after experiments showed that Einstein's equations for the photoelectric effect were accurate, resistance to the idea of photons continued, since it appeared to contradict Maxwell's equations, which were well-understood and verified.
+
+Einstein's work predicted that the energy of individual ejected electrons increases linearly with the frequency of the light. Perhaps surprisingly, the precise relationship had not at that time been tested. By 1905 it was known that the energy of photoelectrons increases with increasing frequency of incident light and is independent of the intensity of the light. However, the manner of the increase was not experimentally determined until 1914 when Robert Andrews Millikan showed that Einstein's prediction was correct.
+
+The photoelectric effect helped to propel the then-emerging concept of wave–particle duality in the nature of light. Light simultaneously possesses the characteristics of both waves and particles, each being manifested according to the circumstances. The effect was impossible to understand in terms of the classical wave description of light, as the energy of the emitted electrons did not depend on the intensity of the incident radiation. Classical theory predicted that the electrons would 'gather up' energy over a period of time, and then be emitted.
+
+3. Uses and effects
+
+3.1. Photomultipliers
+
+These are extremely light-sensitive vacuum tubes with a photocathode coated onto part (an end or side) of the inside of the envelope. The photocathode contains combinations of materials such as caesium, rubidium and antimony specially selected to provide a low work function, so when illuminated even by very low levels of light, the photocathode readily releases electrons. By means of a series of electrodes (dynodes) at ever-higher potentials, these electrons are accelerated and substantially increased in number through secondary emission to provide a readily detectable output current. Photomultipliers are still commonly used wherever low levels of light must be detected.
+
+3.2. Image sensors
+
+Video camera tubes in the early days of television used the photoelectric effect, for example, Philo Farnsworth's "Image dissector" used a screen charged by the photoelectric effect to transform an optical image into a scanned electronic signal.
+
+3.3. Gold-leaf electroscope
+
+Gold-leaf electroscopes are designed to detect static electricity. Charge placed on the metal cap spreads to the stem and the gold leaf of the electroscope. Because they then have the same charge, the stem and leaf repel each other. This will cause the leaf to bend away from the stem.
+
+The electroscope is an important tool in illustrating the photoelectric effect. For example, if the electroscope is negatively charged throughout, there is an excess of electrons and the leaf is separated from the stem. If high-frequency light shines on the cap, the electroscope discharges and the leaf will fall limp. This is because the frequency of the light shining on the cap is above the cap's threshold frequency. The photons in the light have enough energy to liberate electrons from the cap, reducing its negative charge. This will discharge a negatively charged electroscope and further charge a positive electroscope. However, if the electromagnetic radiation hitting the metal cap does not have a high enough frequency (its frequency is below the threshold value for the cap), then the leaf will never discharge, no matter how long one shines the low-frequency light at the cap.
+
+3.4. Photoelectron spectroscopy
+
+Since the energy of the photoelectrons emitted is exactly the energy of the incident photon minus the material's work function or binding energy, the work function of a sample can be determined by bombarding it with a monochromatic X-ray source or UV source, and measuring the kinetic energy distribution of the electrons emitted.
+
+Photoelectron spectroscopy is usually done in a high-vacuum environment, since the electrons would be scattered by gas molecules if they were present. However, some companies are now selling products that allow photoemission in air. The light source can be a laser, a discharge tube, or a synchrotron radiation source.
+
+The concentric hemispherical analyser (CHA) is a typical electron energy analyzer, and uses an electric field to change the directions of incident electrons, depending on their kinetic energies. For every element and core (atomic orbital) there will be a different binding energy. The many electrons created from each of these combinations will show up as spikes in the analyzer output, and these can be used to determine the elemental composition of the sample.
+
+3.5. Spacecraft
+
+The photoelectric effect will cause spacecraft exposed to sunlight to develop a positive charge. This can be a major problem, as other parts of the spacecraft in shadow develop a negative charge from nearby plasma, and the imbalance can discharge through delicate electrical components. The static charge created by the photoelectric effect is self-limiting, though, because a more highly charged object gives up its electrons less easily.
+
+3.6. Moon dust
+
+Light from the sun hitting lunar dust causes it to become charged through the photoelectric effect. The charged dust then repels itself and lifts off the surface of the Moon by electrostatic levitation. This manifests itself almost like an "atmosphere of dust", visible as a thin haze and blurring of distant features, and visible as a dim glow after the sun has set. This was first photographed by the Surveyor program probes in the 1960s. It is thought that the smallest particles are repelled up to kilometers high, and that the particles move in "fountains" as they charge and discharge.
+
+3.7. Night vision devices
+
+Photons hitting a thin film of alkali metal or semiconductor material such as gallium arsenide in an image intensifier tube cause the ejection of photoelectrons due to the photoelectric effect. These are accelerated by an electrostatic field where they strike a phosphor coated screen, converting the electrons back into photons. Intensification of the signal is achieved either through acceleration of the electrons or by increasing the number of electrons through secondary emissions, such as with a micro-channel plate. Sometimes a combination of both methods is used. Additional kinetic energy is required to move an electron out of the conduction band and into the vacuum level. This is known as the electron affinity of the photocathode and is another barrier to photoemission other than the forbidden band, explained by the band gap model. Some materials such as Gallium Arsenide have an effective electron affinity that is below the level of the conduction band. In these materials, electrons that move to the conduction band are all of sufficient energy to be emitted from the material and as such, the film that absorbs photons can be quite thick. These materials are known as negative electron affinity materials.
+
+4. Cross section
+
+The photoelectric effect is one interaction mechanism between photons and atoms. It is one of 12 theoretically possible interactions.
+
+At the high photon energies comparable to the electron rest energy of , Compton scattering, another process, may take place. Above twice this () pair production may take place. Compton scattering and pair production are examples of two other competing mechanisms.
+
+Indeed, even if the photoelectric effect is the favoured reaction for a particular single-photon bound-electron interaction, the result is also subject to statistical processes and is not guaranteed, albeit the photon has certainly disappeared and a bound electron has been excited (usually K or L shell electrons at gamma ray energies). The probability of the photoelectric effect occurring is measured by the cross section of interaction, σ. This has been found to be a function of the atomic number of the target atom and photon energy. A crude approximation, for photon energies above the highest atomic binding energy, is given by:
+
+Here Z is atomic number and n is a number which varies between 4 and 5. (At lower photon energies a characteristic structure with edges appears, K edge, L edges, M edges, etc.) The obvious interpretation follows that the photoelectric effect rapidly decreases in significance, in the gamma ray region of the spectrum, with increasing photon energy, and that photoelectric effect increases steeply with atomic number. The corollary is that high-Z materials make good gamma-ray shields, which is the principal reason that lead (Z = 82) is a preferred and ubiquitous gamma radiation shield.
+
+5. See also
+
+Electronics:
+
+Photocurrent
+
+Photomultiplier
+
+Solar cell
+
+Solar energy Physics:
+
+Anomalous photovoltaic effect
+
+Dember effect
+
+Photo-Dember
+
+Photomagnetic effect
+
+Corona discharge
+
+Photoelectron spectroscopy
+
+Planck's law of black body radiation
+
+Quantum mechanics Lists:
+
+Timeline of mechanics and physics
+
+6. References
+
+7. External links
+
+AstronomyCast "//www.astronomycast.com/2014/02/ep-335-photoelectric-effect/". AstronomyCast.
+
+Nave, R., "". HyperPhysics.
+
+"". Physics 2000. University of Colorado, Boulder, Colorado.
+
+ACEPT W3 Group, "". Department of Physics and Astronomy, Arizona State University, Tempe, AZ.
+
+Haberkern, Thomas, and N Deepak "". , Chapter 3.
+
+Department of Physics, "". Physics 320 Laboratory, Davidson College, Davidson.
+
+Fowler, Michael, "". Physics 252, University of Virginia.
+
+Go to "" to read an English translation of Einstein's 1905 paper. (Retrieved: 2014 Apr 11) Applets
+
+"". The Physics Education Technology (PhET) project. (Java)
+
+Fendt, Walter, "". (Java)
+
+"". Open Source Distributed Learning Content Management and Assessment System. (Java)

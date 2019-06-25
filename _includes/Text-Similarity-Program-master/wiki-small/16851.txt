@@ -1,0 +1,175 @@
+is a Japanese syllabary, one component of the Japanese writing system along with hiragana, kanji, and in some cases the Latin script (known as romaji). The word katakana means "fragmentary kana", as the katakana characters are derived from components of more complex kanji. Katakana and hiragana are both kana systems. Each syllable (strictly mora) in the Japanese language is represented by one character, or kana, in each system. Each kana is either a vowel such as "a" (katakana ア); a consonant followed by a vowel such as "ka" (katakana カ); or "n" (katakana ン), a nasal sonorant which, depending on the context, sounds either like English m, n, or ng (), or like the nasal vowels of Portuguese or French.
+
+In contrast to the hiragana syllabary, which is used for those Japanese language words and grammatical inflections which kanji does not cover, the katakana syllabary usage is quite similar to italics in English; specifically, it is used for transcription of foreign language words into Japanese and the writing of loan words (collectively gairaigo); for emphasis; to represent onomatopoeia; for technical and scientific terms; and for names of plants, animals, minerals, and often Japanese companies.
+
+Katakana are characterized by short, straight strokes and sharp corners, and are the simplest of the Japanese scripts. There are two main systems of ordering katakana: the old-fashioned iroha ordering, and the more prevalent gojūon ordering.
+
+1. Writing system
+
+1.1. Script
+
+The complete katakana script consists of 48 characters, not counting functional and diacritic marks:
+
+5 nucleus vowels – V
+
+42 core or body (onset-nucleus) syllabograms – CV, consisting of 9 consonants in combination with each of the 5 vowels, of which 3 possible combinations (yi, ye, wu) are not canonical
+
+1 coda consonant – C These are conceived as a 5×10 grid (gojūon, 五十音, lit. "Fifty Sounds") which inherits its vowel and consonant order from Sanskrit practice. In vertical text contexts, which used to be the default case, the grid is usually presented as 10 columns by 5 rows, with vowels on the right hand side and ア (a) on top. Unlike other syllabaries, katakana glyphs in the same row or column do not share common graphic characteristics. Three of the syllabograms to be expected, yi, ye and wu, may have been used idiosyncratically with varying glyphs, but never became conventional in any language and are not present at all in modern Japanese.
+
+The 50-sound table is often amended with an extra character, the nasal stop ン (n). This can appear in several positions, most often next to the N signs or, because it developed from one of many mu hentaigana, below the u column. It may also be appended to the vowel row or the a column. Here, it is shown in a table of its own.
+
+The script includes two diacritic marks that change the initial sound of a syllabogram. Both appear mutually exclusive at the upper right of the base character. A double dot, called dakuten, indicates a primary alteration, most often it voices the consonant: k→g, s→z, t→d and h→b. Secondary alteration, where possible, is shown by a circular handakuten: h→p. Diacritics are a comparatively new feature of the script, only becoming mandatory in the Japanese writing system in the second half of the 20th century. Their application is strictly limited in proper writing systems, but may be more extensive in academic transcriptions.
+
+Furthermore, some characters may have special semantics when used in smaller size after a normal one (see below), but this does not make the script truly bicameral.
+
+The layout of the gojūon table promotes a systematic view of kana syllabograms as being always pronounced with the same single consonant followed by a vowel. This is, however, not the case today (synchronically) and also never has been (diachronically). Therefore existing schemes for the romanization of Japanese either are based on the systematic nature of the script, e.g. nihon-siki チ ti, or they apply some Western graphotactics, usually the English one, to the common Japanese pronunciation of the kana signs, e.g. Hepburn-shiki チ chi. Both approaches conceal the fact, though, that many consonant-based katakana signs, especially those canonically ending in u, can be used in coda position, too, where the vowel is not pronounced, or only as a weak schwa.
+
+1.2. Japanese
+
+1.2.1. Syllabary and orthography
+
+Of the 48 katakana syllabograms described above, only 46 are used in modern Japanese, and one of these is preserved for only a single use:
+
+wi and we are pronounced as vowels in modern Japanese and are therefore obsolete, being supplanted by i and e respectively.
+
+wo is now used only as a particle, and is normally pronounced the same as vowel オ o. As a particle, it is usually written in hiragana (を) and the katakana form, ヲ, is uncommon. A small version of the katakana for ya, yu or yo (ャ, ュ or ョ respectively) may be added to katakana ending in i. This changes the i vowel sound to a glide (palatalization) to a, u or o, e.g. キャ (ki + ya) /kja/. Addition of the small y kana is called yōon.
+
+Small versions of the five vowel kana are sometimes used to represent trailing off sounds (ハァ haa, ネェ nee), but in katakana they are more often used in yōon-like extended digraphs designed to represent phonemes not present in Japanese; examples include チェ (che) in チェンジ chenji ("change"), and ウィ (wi) and ディ (di) in ウィキペディア Wikipedia.
+
+A character called a sokuon, which is visually identical to a small tsu ッ, indicates that the following consonant is geminated (doubled); this is represented in rōmaji by doubling the consonant that follows the sokuon. For example, compare Japanese サカ saka "hill" with サッカ sakka "author". Geminated consonants are common in transliterations of foreign loanwords; for example English "bed" is represented as ベッド (beddo). The sokuon also sometimes appears at the end of utterances, where it denotes a glottal stop. However, it cannot be used to double the na, ni, nu, ne, no syllables' consonants – to double these, the singular n (ン) is added in front of the syllable. The sokuon may also be used to approximate a non-native sound; Bach is written (Bahha); Mach as (Mahha).
+
+Both katakana and hiragana usually spell native long vowels with the addition of a second vowel kana, but katakana uses a vowel extender mark, called a chōonpu ("long vowel mark"), in foreign loanwords. This is a short line (ー) following the direction of the text, horizontal for yokogaki (horizontal text), and vertical for tategaki (vertical text). For example, メール mēru is the gairaigo for e-mail taken from the English word "mail"; the ー lengthens the e. There are some exceptions, such as () or (), where Japanese words written in katakana use the elongation mark, too.
+
+Standard and voiced iteration marks are written in katakana as ヽ and ヾ respectively.
+
+1.2.2. Usage
+
+In modern Japanese, katakana is most often used for transcription of words from foreign languages (other than words historically imported from Chinese), called gairaigo. For example, "television" is written テレビ (terebi). Similarly, katakana is usually used for country names, foreign places, and foreign personal names. For example, the United States is usually referred to as Amerika, rather than in its ateji kanji spelling of Amerika.
+
+Katakana are also used for onomatopoeia, words used to represent sounds – for example, ピンポン (pinpon), the "ding-dong" sound of a doorbell.
+
+Technical and scientific terms, such as the names of animal and plant species and minerals, are also commonly written in katakana. , as a species, is written ヒト (hito), rather than its kanji .
+
+Katakana are also often, but not always, used for transcription of Japanese company names. For example Suzuki is written スズキ, and Toyota is written トヨタ. Katakana are also used for emphasis, especially on signs, advertisements, and hoardings (i.e., billboards). For example, it is common to see koko ("here"), gomi ("trash"), or megane ("glasses"). Words the writer wishes to emphasize in a sentence are also sometimes written in katakana, mirroring the European usage of italics.
+
+Pre-World War II official documents mix katakana and kanji in the same way that hiragana and kanji are mixed in modern Japanese texts, that is, katakana were used for okurigana and particles such as wa or o.
+
+Katakana were also used for telegrams in Japan before 1988, and for computer systems – before the introduction of multibyte characters – in the 1980s. Most computers in that era used katakana instead of kanji or hiragana for output.
+
+Although words borrowed from ancient Chinese are usually written in kanji, loanwords from modern Chinese dialects which are borrowed directly use katakana rather than the Sino-Japanese on'yomi readings.
+
+The very common Chinese loanword rāmen, written in katakana as , is rarely written with its kanji ().
+
+There are rare instances where the opposite has occurred, with kanji forms created from words originally written in katakana. An example of this is kōhī, ("coffee"), which can be alternatively written as . This kanji usage is occasionally employed by coffee manufacturers or coffee shops for novelty.
+
+Katakana are used to indicate the on'yomi (Chinese-derived readings) of a kanji in a kanji dictionary. For instance, the kanji 人 has a Japanese pronunciation, written in hiragana as hito (person), as well as a Chinese derived pronunciation, written in katakana as jin (used to denote groups of people). Katakana are sometimes used instead of hiragana as furigana to give the pronunciation of a word written in Roman characters, or for a foreign word, which is written as kanji for the meaning, but intended to be pronounced as the original.
+
+Katakana are also sometimes used to indicate words being spoken in a foreign or otherwise unusual accent. For example, in a manga, the speech of a foreign character or a robot may be represented by konnichiwa ("hello") instead of the more typical hiragana . Some Japanese personal names are written in katakana. This was more common in the past, hence elderly women often have katakana names.
+
+It is very common to write words with difficult-to-read kanji in katakana. This phenomenon is often seen with medical terminology. For example, in the word hifuka ("dermatology"), the second kanji, , is considered difficult to read, and thus the word hifuka is commonly written or , mixing kanji and katakana. Similarly, the difficult-to-read kanji such as gan ("cancer") are often written in katakana or hiragana.
+
+Katakana is also used for traditional musical notations, as in the Tozan-ryū of shakuhachi, and in sankyoku ensembles with koto, shamisen and shakuhachi.
+
+Some instructors for Japanese as a foreign language "introduce katakana after the students have learned to read and write sentences in hiragana without difficulty and know the rules." Most students who have learned hiragana "do not have great difficulty in memorizing" katakana as well. Other instructors introduce the katakana first, because these are used with loanwords. This gives students a chance to practice reading and writing kana with meaningful words. This was the approach taken by the influential American linguistics scholar Eleanor Harz Jorden in Japanese: The Written Language (parallel to Japanese: The Spoken Language).
+
+1.3. Ainu
+
+Katakana is commonly used to write the Ainu language by Japanese linguists. In Ainu language katakana usage, the consonant that comes at the end of a syllable is represented by a small version of a katakana that corresponds to that final consonant and with an arbitrary vowel. For instance "up" is represented by ウㇷ゚ (ウプ [u followed by small pu]). Ainu also uses three handakuten modified katakana, セ゚ ([tse]), and ツ゚ or ト゚ ([tu̜]). In Unicode, the Katakana Phonetic Extensions block () exists for Ainu language support. These characters are used for the Ainu language only.
+
+1.4. Taiwanese
+
+Taiwanese kana (タイ ヲァヌ ギイ カア ビェン) is a katakana-based writing system once used to write Holo Taiwanese, when Taiwan was under Japanese control. It functioned as a phonetic guide for Chinese characters, much like furigana in Japanese or Zhuyin fuhao in Chinese. There were similar systems for other languages in Taiwan as well, including Hakka and Formosan languages.
+
+Unlike Japanese or Ainu, Taiwanese kana are used similarly to the Zhùyīn fúhào characters, with kana serving as initials, vowel medials and consonant finals, marked with tonal marks. A dot below the initial kana represented aspirated consonants, and チ, ツ, サ, セ, ソ, ウ and オ with a superpositional bar represented sounds found only in Taiwanese.
+
+1.5. Okinawan
+
+Katakana is used as a phonetic guide for the Okinawan language, unlike the various other systems to represent Okinawan, which use hiragana with extensions. The system was devised by the of the University of the Ryukyus. It uses many extensions and yōon to show the many non-Japanese sounds of Okinawan.
+
+2. Table of katakana
+
+This is a table of katakana together with their Hepburn romanization and rough IPA transcription for their use in Japanese. Katakana with dakuten or handakuten follow the gojūon kana without them.
+
+Characters shi シ and tsu ツ, and so ソ and n(g) ン, look very similar in print except for the slant and stroke shape. These differences in slant and shape are more prominent when written with an ink brush.
+
+3. History
+
+Katakana was developed in the 9th century (during the early Heian period) by Buddhist monks by taking parts of man'yōgana characters as a form of shorthand, hence this kana is so-called .
+
+For example, comes from the left side of . The adjacent table shows the origins of each katakana: the red markings of the original Chinese character (used as man'yōgana) eventually became each corresponding symbol.
+
+4. Stroke order
+
+The following table shows the method for writing each katakana character. It is arranged in the traditional way, beginning top right and reading columns down. The numbers and arrows indicate the stroke order and direction respectively.
+
+5. Computer encoding
+
+In addition to fonts intended for Japanese text and Unicode catch-all fonts (like Arial Unicode MS), many fonts intended for Chinese (such as MS Song) and Korean (such as Batang) also include katakana.
+
+5.1. Half-width kana
+
+In addition to the usual display forms of characters, katakana has a second form, (there are no half-width hiragana or kanji). The half-width forms were originally associated with the JIS X 0201 encoding. Although their display form is not specified in the standard, in practice they were designed to fit into the same rectangle of pixels as Roman letters to enable easy implementation on the computer equipment of the day. This space is narrower than the square space traditionally occupied by Japanese characters, hence the name "half-width". In this scheme, diacritics (dakuten and handakuten) are separate characters. When originally devised, the half-width katakana were represented by a single byte each, as in JIS X 0201, again in line with the capabilities of contemporary computer technology.
+
+In the late 1970s, two-byte character sets such as JIS X 0208 were introduced to support the full range of Japanese characters, including katakana, hiragana and kanji. Their display forms were designed to fit into an approximately square array of pixels, hence the name "full-width". For backwards compatibility, separate support for half-width katakana has continued to be available in modern multi-byte encoding schemes such as Unicode, by having two separate blocks of characters – one displayed as usual (full-width) katakana, the other displayed as half-width katakana.
+
+Although often said to be obsolete, in fact the half-width katakana are still used in many systems and encodings. For example, the titles of mini discs can only be entered in ASCII or half-width katakana, and half-width katakana are commonly used in computerized cash register displays, on shop receipts, and Japanese digital television and DVD subtitles. Several popular Japanese encodings such as EUC-JP, Unicode and Shift JIS have half-width katakana code as well as full-width. By contrast, ISO-2022-JP has no half-width katakana, and is mainly used over SMTP and NNTP.
+
+5.2. Unicode
+
+Katakana was added to the Unicode Standard in October, 1991 with the release of version 1.0.
+
+The Unicode block for (full-width) katakana is U+30A0舑U+30FF.
+
+Encoded in this block along with the katakana are the nakaguro word-separation middle dot, the chōon vowel extender, the katakana iteration marks, and a ligature of コト sometimes used in vertical writing.
+
+Half-width equivalents to the usual full-width katakana also exist in Unicode. These are encoded within the Halfwidth and Fullwidth Forms block (U+FF00舑U+FFEF) (which also includes full-width forms of Latin characters, for instance), starting at U+FF65 and ending at U+FF9F (characters U+FF61舑U+FF64 are half-width punctuation marks). This block also includes the half-width dakuten and handakuten. The full-width versions of these characters are found in the Hiragana block.
+
+Circled katakana are code points U+32D0舑U+32FE in the Enclosed CJK Letters and Months block (U+3200舑U+32FF). A circled ン (n) is not included.
+
+Extensions to Katakana for phonetic transcription of Ainu and other languages were added to the Unicode standard in March 2002 with the release of version 3.2.
+
+The Unicode block for Katakana Phonetic Extensions is U+31F0舑U+31FF:
+
+Historic and variant forms of Japanese kana characters were added to the Unicode standard in October 2010 with the release of version 6.0.
+
+The Unicode block for Kana Supplement is U+1B000舑U+1B0FF:
+
+Katakana in other Unicode blocks:
+
+Dakuten and handakuten diacritics are located in the Hiragana block:
+
+U+3099 COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK (non-spacing dakuten): ゙
+
+U+309A COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK (non-spacing handakuten): ゚
+
+U+309B KATAKANA-HIRAGANA VOICED SOUND MARK (spacing dakuten): ゛
+
+U+309C KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK (spacing handakuten): ゜
+
+Two katakana-based emoji are in the Enclosed Ideographic Supplement block:
+
+U+1F201 SQUARED KATAKANA KOKO ('here' sign): 🈁
+
+U+1F202 SQUARED KATAKANA SA ('service' sign): 🈂
+
+A katakana-based Japanese TV symbol from the ARIB STD-B24 standard is in the Enclosed Ideographic Supplement block:
+
+U+1F213 SQUARED KATAKANA DE ('data broadcasting service linked with a main program' symbol): 🈓
+
+6. See also
+
+Japanese phonology
+
+Historical kana usage
+
+Rōmaji
+
+Gugyeol
+
+Tōdaiji Fujumonkō, oldest example of kanji text with katakana annotations
+
+7. References
+
+8. External links
+
+sv:Kana (skriftsystem)#Katakana

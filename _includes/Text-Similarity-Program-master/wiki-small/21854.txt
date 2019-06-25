@@ -1,0 +1,203 @@
+Navigation is a field of study that focuses on the process of monitoring and controlling the movement of a craft or vehicle from one place to another. The field of navigation includes four general categories: land navigation, marine navigation, aeronautic navigation, and space navigation.
+
+It is also the term of art used for the specialized knowledge used by navigators to perform navigation tasks. All navigational techniques involve locating the navigator's position compared to known locations or patterns.
+
+Navigation, in a broader sense, can refer to any skill or study that involves the determination of position and direction. In this sense, navigation includes orienteering and pedestrian navigation. For information about different navigation strategies that people use, visit human navigation.
+
+1. History
+
+In the European medieval period, navigation was considered part of the set of seven mechanical arts, none of which were used for long voyages across open ocean. Polynesian navigation is probably the earliest form of open ocean navigation, though it was based on memory and observation rather than on scientific methods or instruments. Early Pacific Polynesians used the motion of stars, weather, the position of certain wildlife species, or the size of waves to find the path from one island to another.
+
+Maritime navigation using scientific instruments such as the mariner's astrolabe first occurred in the Mediterranean during the Middle Ages. Although land astrolabes were invented in the Hellenistic period and existed in classical antiquity and the Islamic Golden Age, the oldest record of a sea astrolabe is that of Majorcan astronomer Ramon Llull dating from 1295. The perfecting of this navigation instrument is attributed to Portuguese navigators during early Portuguese discoveries in the Age of Discovery. The earliest known description of how to make and use a sea astrolabe comes from Spanish cosmographer Melvin Mel Pros Cespedes's Arte de Navegar (The Art of Navigation) published in 1551, based on the principle of the archipendulum used in constructing the Egyptian pyramids.
+
+Open-seas navigation using the astrolabe and the compass started during the Age of Discovery in the 15th century. The Portuguese began systematically exploring the Atlantic coast of Africa from 1418, under the sponsorship of Prince Henry. In 1488 Bartolomeu Dias reached the Indian Ocean by this route. In 1492 the Spanish monarchs funded Christopher Columbus's expedition to sail west to reach the Indies by crossing the Atlantic, which resulted in the Discovery of America. In 1498, a Portuguese expedition commanded by Vasco da Gama reached India by sailing around Africa, opening up direct trade with Asia. Soon, the Portuguese sailed further eastward, to the Spice Islands in 1512, landing in China one year later.
+
+The first circumnavigation of the earth was completed in 1522 with the Magellan-Elcano expedition, a Spanish voyage of discovery led by Portuguese explorer Ferdinand Magellan and completed by Spanish navigator Juan Sebastián Elcano after the former's death in the Philippines in 1521. The fleet of seven ships sailed from Sanlúcar de Barrameda in Southern Spain in 1519, crossed the Atlantic Ocean and after several stopovers rounded the southern tip of South America. Some ships were lost, but the remaining fleet continued across the Pacific making a number of discoveries including Guam and the Philippines. By then, only two galleons were left from the original seven. The Victoria led by Elcano sailed across the Indian Ocean and north along the coast of Africa, to finally arrive in Spain in 1522, three years after its departure. The Trinidad sailed east from the Philippines, trying to find a maritime path back to the Americas, but was unsuccessful. The eastward route across the Pacific, also known as the tornaviaje (return trip) was only discovered forty years later, when Spanish cosmographer Andrés de Urdaneta sailed from the Philippines, north to parallel 39º, and hit the eastward Kuroshio Current which took its galleon across the Pacific. He arrived in Acapulco on October 8, 1565.
+
+2. Etymology
+
+The term stems from 1530s, from Latin navigationem (nom. navigatio), from navigatus, pp. of navigare "to sail, sail over, go by sea, steer a ship," from navis "ship" and the root of agere "to drive".
+
+3. Basic concepts
+
+3.1. Latitude
+
+Roughly, the latitude of a place on Earth is its angular distance north or south of the equator. Latitude is usually expressed in degrees (marked with °) ranging from 0° at the Equator to 90° at the North and South poles. The latitude of the North Pole is 90° N, and the latitude of the South Pole is 90° S. Mariners calculated latitude in the Northern Hemisphere by sighting the North Star Polaris with a sextant and using sight reduction tables to correct for height of eye and atmospheric refraction. The height of Polaris in degrees above the horizon is the latitude of the observer, within a degree or so.
+
+3.2. Longitude
+
+Similar to latitude, the longitude of a place on Earth is the angular distance east or west of the prime meridian or Greenwich meridian. Longitude is usually expressed in degrees (marked with °) ranging from 0° at the Greenwich meridian to 180° east and west. Sydney, for example, has a longitude of about 151° east. New York City has a longitude of 74° west. For most of history, mariners struggled to determine longitude. Longitude can be calculated if the precise time of a sighting is known. Lacking that, one can use a sextant to take a lunar distance (also called the lunar observation, or "lunar" for short) that, with a nautical almanac, can be used to calculate the time at zero longitude (see Greenwich Mean Time). Reliable marine chronometers were unavailable until the late 18th century and not affordable until the 19th century. For about a hundred years, from about 1767 until about 1850, mariners lacking a chronometer used the method of lunar distances to determine Greenwich time to find their longitude. A mariner with a chronometer could check its reading using a lunar determination of Greenwich time.
+
+3.3. Loxodrome
+
+In navigation, a rhumb line (or loxodrome) is a line crossing all meridians of longitude at the same angle, i.e. a path derived from a defined initial bearing. That is, upon taking an initial bearing, one proceeds along the same bearing, without changing the direction as measured relative to true or magnetic north.
+
+4. Modern technique
+
+Most modern navigation relies primarily on positions determined electronically by receivers collecting information from satellites. Most other modern techniques rely on crossing lines of position or LOP. A line of position can refer to two different things: a line on a chart and a line between the observer and an object in real life. A bearing is a measure of the direction to an object. If the navigator measures the direction in real life, the angle can then be drawn on a nautical chart and the navigator will be on that line on the chart.
+
+In addition to bearings, navigators also often measure distances to objects. On the chart, a distance produces a circle or arc of position. Circles, arcs, and hyperbolae of positions are often referred to as lines of position.
+
+If the navigator draws two lines of position, and they intersect he must be at that position. A fix is the intersection of two or more LOPs.
+
+If only one line of position is available, this may be evaluated against the Dead reckoning position to establish an estimated position.
+
+Lines (or circles) of position can be derived from a variety of sources:
+
+celestial observation (a short segment of the circle of equal altitude, but generally represented as a line),
+
+terrestrial range (natural or man made) when two charted points are observed to be in line with each other,
+
+compass bearing to a charted object,
+
+radar range to a charted object,
+
+on certain coastlines, a depth sounding from echo sounder or hand lead line. There are some methods seldom used today such as "dipping a light" to calculate the geographic range from observer to lighthouse
+
+Methods of navigation have changed through history. Each new method has enhanced the mariner's ability to complete his voyage. One of the most important judgments the navigator must make is the best method to use. Some types of navigation are depicted in the table.
+
+The practice of navigation usually involves a combination of these different methods.
+
+4.1. Mental navigation checks
+
+By mental navigation checks, a pilot or a navigator estimates tracks, distances, and altitudes which then will help him or her avoid gross navigation errors.
+
+4.2. Piloting
+
+Piloting (also called pilotage) involves navigating an aircraft by visual reference to landmarks, or a water vessel in restricted waters and fixing its position as precisely as possible at frequent intervals. More so than in other phases of navigation, proper preparation and attention to detail are important. Procedures vary from vessel to vessel, and between military, commercial, and private vessels.
+
+A military navigation team will nearly always consist of several people. A military navigator might have bearing takers stationed at the gyro repeaters on the bridge wings for taking simultaneous bearings, while the civilian navigator must often take and plot them himself. While the military navigator will have a bearing book and someone to record entries for each fix, the civilian navigator will simply pilot the bearings on the chart as they are taken and not record them at all.
+
+If the ship is equipped with an ECDIS, it is reasonable for the navigator to simply monitor the progress of the ship along the chosen track, visually ensuring that the ship is proceeding as desired, checking the compass, sounder and other indicators only occasionally. If a pilot is aboard, as is often the case in the most restricted of waters, his judgement can generally be relied upon, further easing the workload. But should the ECDIS fail, the navigator will have to rely on his skill in the manual and time-tested procedures.
+
+4.3. Celestial navigation
+
+Celestial navigation systems are based on observation of the positions of the Sun, Moon, Planets and navigational stars. Such systems are in use as well for terrestrial navigating as for interstellar navigating. By knowing which point on the rotating earth a celestial object is above and measuring its height above the observer's horizon, the navigator can determine his distance from that subpoint. A nautical almanac and a marine chronometer are used to compute the subpoint on earth a celestial body is over, and a sextant is used to measure the body's angular height above the horizon. That height can then be used to compute distance from the subpoint to create a circular line of position. A navigator shoots a number of stars in succession to give a series of overlapping lines of position. Where they intersect is the celestial fix. The moon and sun may also be used. The sun can also be used by itself to shoot a succession of lines of position (best done around local noon) to determine a position.
+
+4.3.1. Marine chronometer
+
+In order to accurately measure longitude, the precise time of a sextant sighting (down to the second, if possible) must be recorded. Each second of error is equivalent to 15 seconds of longitude error, which at the equator is a position error of .25 of a nautical mile, about the accuracy limit of manual celestial navigation.
+
+The spring-driven marine chronometer is a precision timepiece used aboard ship to provide accurate time for celestial observations. A chronometer differs from a spring-driven watch principally in that it contains a variable lever device to maintain even pressure on the mainspring, and a special balance designed to compensate for temperature variations.
+
+A spring-driven chronometer is set approximately to Greenwich mean time (GMT) and is not reset until the instrument is overhauled and cleaned, usually at three-year intervals. The difference between GMT and chronometer time is carefully determined and applied as a correction to all chronometer readings. Spring-driven chronometers must be wound at about the same time each day.
+
+Quartz crystal marine chronometers have replaced spring-driven chronometers aboard many ships because of their greater accuracy. They are maintained on GMT directly from radio time signals. This eliminates chronometer error and watch error corrections. Should the second hand be in error by a readable amount, it can be reset electrically.
+
+The basic element for time generation is a quartz crystal oscillator. The quartz crystal is temperature compensated and is hermetically sealed in an evacuated envelope. A calibrated adjustment capability is provided to adjust for the aging of the crystal.
+
+The chronometer is designed to operate for a minimum of 1 year on a single set of batteries. Observations may be timed and ship's clocks set with a comparing watch, which is set to chronometer time and taken to the bridge wing for recording sight times. In practice, a wrist watch coordinated to the nearest second with the chronometer will be adequate.
+
+A stop watch, either spring wound or digital, may also be used for celestial observations. In this case, the watch is started at a known GMT by chronometer, and the elapsed time of each sight added to this to obtain GMT of the sight.
+
+All chronometers and watches should be checked regularly with a radio time signal. Times and frequencies of radio time signals are listed in publications such as Radio Navigational Aids.
+
+4.3.2. The marine sextant
+
+The second critical component of celestial navigation is to measure the angle formed at the observer's eye between the celestial body and the sensible horizon. The sextant, an optical instrument, is used to perform this function. The sextant consists of two primary assemblies. The frame is a rigid triangular structure with a pivot at the top and a graduated segment of a circle, referred to as the "arc", at the bottom. The second component is the index arm, which is attached to the pivot at the top of the frame. At the bottom is an endless vernier which clamps into teeth on the bottom of the "arc". The optical system consists of two mirrors and, generally, a low power telescope. One mirror, referred to as the "index mirror" is fixed to the top of the index arm, over the pivot. As the index arm is moved, this mirror rotates, and the graduated scale on the arc indicates the measured angle ("altitude").
+
+The second mirror, referred to as the "horizon glass", is fixed to the front of the frame. One half of the horizon glass is silvered and the other half is clear. Light from the celestial body strikes the index mirror and is reflected to the silvered portion of the horizon glass, then back to the observer's eye through the telescope. The observer manipulates the index arm so the reflected image of the body in the horizon glass is just resting on the visual horizon, seen through the clear side of the horizon glass.
+
+Adjustment of the sextant consists of checking and aligning all the optical elements to eliminate "index correction". Index correction should be checked, using the horizon or more preferably a star, each time the sextant is used. The practice of taking celestial observations from the deck of a rolling ship, often through cloud cover and with a hazy horizon, is by far the most challenging part of celestial navigation.
+
+4.4. Inertial navigation
+
+Inertial navigation is a dead reckoning type of navigation system that computes its position based on motion sensors. Once the initial latitude and longitude is established, the system receives impulses from motion detectors that measure the acceleration along three or more axes enabling it to continually and accurately calculate the current latitude and longitude. Its advantages over other navigation systems are that, once the starting position is set, it does not require outside information, it is not affected by adverse weather conditions and it cannot be detected or jammed. Its disadvantage is that since the current position is calculated solely from previous positions, its errors are cumulative, increasing at a rate roughly proportional to the time since the initial position was input. Inertial navigation systems must therefore be frequently corrected with a location 'fix' from some other type of navigation system. The US Navy developed a Ships Inertial Navigation System (SINS) during the Polaris missile program to ensure a safe, reliable and accurate navigation system for its missile submarines. Inertial navigation systems were in wide use until satellite navigation systems (GPS) became available. Inertial Navigation Systems are still in common use on submarines, since GPS reception or other fix sources are not possible while submerged.
+
+4.5. Electronic navigation
+
+4.5.1. Radio navigation
+
+A radio direction finder or RDF is a device for finding the direction to a radio source. Due to radio's ability to travel very long distances "over the horizon", it makes a particularly good navigation system for ships and aircraft that might be flying at a distance from land.
+
+RDFs works by rotating a directional antenna and listening for the direction in which the signal from a known station comes through most strongly. This sort of system was widely used in the 1930s and 1940s. RDF antennas are easy to spot on German World War II aircraft, as loops under the rear section of the fuselage, whereas most US aircraft enclosed the antenna in a small teardrop-shaped fairing.
+
+In navigational applications, RDF signals are provided in the form of radio beacons, the radio version of a lighthouse. The signal is typically a simple AM broadcast of a morse code series of letters, which the RDF can tune in to see if the beacon is "on the air". Most modern detectors can also tune in any commercial radio stations, which is particularly useful due to their high power and location near major cities.
+
+Decca, OMEGA, and LORAN-C are three similar hyperbolic navigation systems. Decca was a hyperbolic low frequency radio navigation system (also known as multilateration) that was first deployed during World War II when the Allied forces needed a system which could be used to achieve accurate landings. As was the case with Loran C, its primary use was for ship navigation in coastal waters. Fishing vessels were major post-war users, but it was also used on aircraft, including a very early (1949) application of moving-map displays. The system was deployed in the North Sea and was used by helicopters operating to oil platforms.
+
+The OMEGA Navigation System was the first truly global radio navigation system for aircraft, operated by the United States in cooperation with six partner nations. OMEGA was developed by the United States Navy for military aviation users. It was approved for development in 1968 and promised a true worldwide oceanic coverage capability with only eight transmitters and the ability to achieve a four mile (6 km) accuracy when fixing a position. Initially, the system was to be used for navigating nuclear bombers across the North Pole to Russia. Later, it was found useful for submarines. Due to the success of the Global Positioning System the use of Omega declined during the 1990s, to a point where the cost of operating Omega could no longer be justified. Omega was terminated on September 30, 1997 and all stations ceased operation.
+
+LORAN is a terrestrial navigation system using low frequency radio transmitters that use the time interval between radio signals received from three or more stations to determine the position of a ship or aircraft. The current version of LORAN in common use is LORAN-C, which operates in the low frequency portion of the EM spectrum from 90 to 110 kHz. Many nations are users of the system, including the United States, Japan, and several European countries. Russia uses a nearly exact system in the same frequency range, called CHAYKA. LORAN use is in steep decline, with GPS being the primary replacement. However, there are attempts to enhance and re-popularize LORAN. LORAN signals are less susceptible to interference and can penetrate better into foliage and buildings than GPS signals.
+
+4.5.2. Radar navigation
+
+When a vessel is within radar range of land or special radar aids to navigation, the navigator can take distances and angular bearings to charted objects and use these to establish arcs of position and lines of position on a chart. A fix consisting of only radar information is called a radar fix.
+
+Types of radar fixes include "range and bearing to a single object," "two or more bearings," "tangent bearings," and "two or more ranges."
+
+Parallel indexing is a technique defined by William Burger in the 1957 book The Radar Observer's Handbook. This technique involves creating a line on the screen that is parallel to the ship's course, but offset to the left or right by some distance. This parallel line allows the navigator to maintain a given distance away from hazards.
+
+Some techniques have been developed for special situations. One, known as the "contour method," involves marking a transparent plastic template on the radar screen and moving it to the chart to fix a position.
+
+Another special technique, known as the Franklin Continuous Radar Plot Technique, involves drawing the path a radar object should follow on the radar display if the ship stays on its planned course. During the transit, the navigator can check that the ship is on track by checking that the pip lies on the drawn line.
+
+4.5.3. Satellite navigation
+
+Global Navigation Satellite System or GNSS is the term for satellite navigation systems that provide positioning with global coverage. A GNSS allow small electronic receivers to determine their location (longitude, latitude, and altitude) to within a few metres using time signals transmitted along a line of sight by radio from satellites. Receivers on the ground with a fixed position can also be used to calculate the precise time as a reference for scientific experiments.
+
+As of October 2011, only the United States NAVSTAR Global Positioning System (GPS) and the Russian GLONASS are fully globally operational GNSSs. The European Union's Galileo positioning system is a next generation GNSS in the initial deployment phase, scheduled to be operational by 2013. China has indicated it may expand its regional Beidou navigation system into a global system.
+
+More than two dozen GPS satellites are in medium Earth orbit, transmitting signals allowing GPS receivers to determine the receiver's location, speed and direction.
+
+Since the first experimental satellite was launched in 1978, GPS has become an indispensable aid to navigation around the world, and an important tool for map-making and land surveying. GPS also provides a precise time reference used in many applications including scientific study of earthquakes, and synchronization of telecommunications networks.
+
+Developed by the United States Department of Defense, GPS is officially named NAVSTAR GPS (NAVigation Satellite Timing And Ranging Global Positioning System). The satellite constellation is managed by the United States Air Force 50th Space Wing. The cost of maintaining the system is approximately US$750 million per year, including the replacement of aging satellites, and research and development. Despite this fact, GPS is free for civilian use as a public good.
+
+5. Navigation processes
+
+5.1. Day's work in navigation
+
+The Day's work in navigation is a minimal set of tasks consistent with prudent navigation. The definition will vary on military and civilian vessels, and from ship to ship, but takes a form resembling:
+
+Maintain continuous dead reckoning plot.
+
+Take two or more star observations at morning twilight for a celestial fix (prudent to observe 6 stars).
+
+Morning sun observation. Can be taken on or near prime vertical for longitude, or at any time for a line of position.
+
+Determine compass error by azimuth observation of the sun.
+
+Computation of the interval to noon, watch time of local apparent noon, and constants for meridian or ex-meridian sights.
+
+Noontime meridian or ex-meridian observation of the sun for noon latitude line. Running fix or cross with Venus line for noon fix.
+
+Noontime determination the day's run and day's set and drift.
+
+At least one afternoon sun line, in case the stars are not visible at twilight.
+
+Determine compass error by azimuth observation of the sun.
+
+Take two or more star observations at evening twilight for a celestial fix (prudent to observe 6 stars).
+
+5.2. Passage planning
+
+Passage planning or voyage planning is a procedure to develop a complete description of vessel's voyage from start to finish. The plan includes leaving the dock and harbor area, the en route portion of a voyage, approaching the destination, and mooring. According to international law, a vessel's captain is legally responsible for passage planning, however on larger vessels, the task will be delegated to the ship's navigator.
+
+Studies show that human error is a factor in 80 percent of navigational accidents and that in many cases the human making the error had access to information that could have prevented the accident. The practice of voyage planning has evolved from penciling lines on nautical charts to a process of risk management.
+
+Passage planning consists of four stages: appraisal, planning, execution, and monitoring, which are specified in International Maritime Organization Resolution A.893(21), Guidelines For Voyage Planning, and these guidelines are reflected in the local laws of IMO signatory countries (for example, Title 33 of the U.S. Code of Federal Regulations), and a number of professional books or publications. There are some fifty elements of a comprehensive passage plan depending on the size and type of vessel.
+
+The appraisal stage deals with the collection of information relevant to the proposed voyage as well as ascertaining risks and assessing the key features of the voyage. In the next stage, the written plan is created. The third stage is the execution of the finalised voyage plan, taking into account any special circumstances which may arise such as changes in the weather, which may require the plan to be reviewed or altered. The final stage of passage planning consists of monitoring the vessel's progress in relation to the plan and responding to deviations and unforeseen circumstances.
+
+6. Integrated bridge systems
+
+Electronic integrated bridge concepts are driving future navigation system planning. Integrated systems take inputs from various ship sensors, electronically display positioning information, and provide control signals required to maintain a vessel on a preset course. The navigator becomes a system manager, choosing system presets, interpreting system output, and monitoring vessel response.
+
+7. See also
+
+Bowditch's American Practical Navigator
+
+Polynesian navigation
+
+Position fixing
+
+Wayfinding
+
+8. Notes
+
+9. References
+
+10. External links
+
+by Ernest Gallaudet Draper

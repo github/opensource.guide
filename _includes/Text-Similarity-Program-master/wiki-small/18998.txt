@@ -1,0 +1,211 @@
+Myasthenia gravis (from Greek μύς "muscle", "weakness", and "serious"; abbreviated MG) is either an autoimmune or congenital neuromuscular disease that leads to fluctuating muscle weakness and fatigue. In the most common cases, muscle weakness is caused by circulating antibodies that block acetylcholine receptors at the postsynaptic neuromuscular junction, inhibiting the excitatory effects of the neurotransmitter acetylcholine on nicotinic receptors at neuromuscular junctions. Alternatively, in a much rarer form, muscle weakness is caused by a genetic defect in some portion of the neuromuscular junction, that is inherited at birth as opposed to developing it through autoimmunity later in life or through passive transmission by the mother's immune system at birth.
+
+Myasthenia is treated medically with acetylcholinesterase inhibitors or immunosuppressants, and, in selected cases, thymectomy. The disease incidence is 3–30 cases per million per year and rising as a result of increased awareness. MG must be distinguished from congenital myasthenic syndromes that can present similar symptoms but do not respond to immunosuppressive treatments.
+
+1. Signs and symptoms
+
+The hallmark of myasthenia gravis is fatigability. Muscles become progressively weaker during periods of activity, and improve after periods of rest. Muscles that control eye and eyelid movement, facial expressions, chewing, talking, and swallowing are especially susceptible. The muscles that control breathing and neck and limb movements can also be affected. Often, the physical examination yields results within normal limits.
+
+The onset of the disorder can be sudden. Often, symptoms are intermittent. The diagnosis of myasthenia gravis may be delayed if the symptoms are subtle or variable. In most cases, the first noticeable symptom is weakness of the eye muscles. In others, difficulty in swallowing and slurred speech may be the first signs. The degree of muscle weakness involved in MG varies greatly among patients, ranging from a localized form that is limited to eye muscles (ocular myasthenia), to a severe and generalized form in which many muscles—sometimes including those that control breathing—are affected. Symptoms, which vary in type and severity, may include asymmetrical ptosis (a drooping of one or both eyelids), diplopia (double vision) due to weakness of the muscles that control eye movements, an unstable or waddling gait, weakness in arms, hands, fingers, legs, and neck, a change in facial expression, dysphagia (difficulty in swallowing), shortness of breath, and dysarthria (impaired speech, often nasal due to weakness of the velar muscles).
+
+In myasthenic crisis, a paralysis of the respiratory muscles occurs, necessitating assisted ventilation to sustain life. In patients whose respiratory muscles are already weak, crises may be triggered by infection, fever, an adverse reaction to medication, or emotional stress. Myasthenia does not directly affect the heart muscle.
+
+2. Pathophysiology
+
+Myasthenia gravis is an autoimmune channelopathy: it features antibodies directed against proteins that are naturally present in the body. While various similar diseases have been linked to immunologic cross-reaction with an infective agent, no known causative pathogen could account for myasthenia. A slight genetic predisposition is present: particular HLA types seem to predispose for MG (B8 and DR3, with DR1 more specific for ocular myasthenia). Up to 75% of patients have an abnormality of the thymus; 10% have a thymoma, a tumor (either benign or malignant) of the thymus, and other abnormalities are frequently found. The disease process generally remains stationary after thymectomy (removal of the thymus).
+
+In MG, the autoantibodies most commonly act against the nicotinic acetylcholine receptor (nAChR), the receptor in the motor end plate for the neurotransmitter acetylcholine that stimulates muscular contractions. Some forms of the antibody impair the ability of acetylcholine to bind to receptors. Others lead to the destruction of receptors, either by complement fixation or by inducing the muscle cell to eliminate the receptors through endocytosis.
+
+The antibodies are produced by plasma cells, derived from B-cells. B-cells convert into plasma cells by T-helper cell stimulation. To carry out this activation, T-helpers must first be activated themselves, which is done by binding of the T-cell receptor (TCR) to the acetylcholine receptor antigenic peptide fragment (epitope) resting within the major histocompatibility complex of antigen presenting cells. Since the thymus plays an important role in the development of T-cells and the selection of TCR, myasthenia gravis is closely associated with thymoma. The exact mechanisms are, however, not convincingly clarified, although removal of the thymus gland (thymectomy) in MG patients without a thymus neoplasm often have positive results.
+
+In normal muscle contraction, cumulative activation of the nAChR leads to influx of sodium ions, which in turn causes the depolarization of muscle cell and subsequent opening of voltage-gated sodium channels. This ion influx then travels down the cell membranes via T-tubules and, via calcium channel complexes, leads to the release of calcium from the sarcoplasmic reticulum. Only when the levels of calcium inside the muscle cell are high enough will it contract. Decreased numbers of functioning nAChRs, therefore, impair muscular contraction by limiting depolarization. In fact, MG causes the motor neuron action potential to muscular twitch ratio to vary from the nonpathological one to one ratio.
+
+A second category of gravis is due to autoantibodies against the MuSK protein (muscle specific kinase), a tyrosine kinase receptor which is required for the formation of the neuromuscular junction. Antibodies against MuSK inhibit the signaling of MuSK normally induced by its nerve-derived ligand, agrin. The result is a decrease in patency of the neuromuscular junction, and the consequent symptoms of MG.
+
+People treated with penicillamine can develop MG symptoms. Their antibody titer is usually similar to that of MG, but both the symptoms and the titer disappear when drug administration is discontinued.
+
+MG is more common in families with other autoimmune diseases. A familial predisposition found in 5% of the cases is associated with certain genetic variations, such as an increased frequency of HLA-B8 and DR3. People with MG suffer from coexisting autoimmune diseases at a higher frequency than members of the general population. Of particular mention is coexisting thyroid disease, where episodes of hypothyroidism may precipitate a severe exacerbation.
+
+The acetylcholine receptor is clustered and anchored by the Rapsyn protein, research into which might eventually lead to new treatment options.
+
+2.1. Associated conditions
+
+Myasthenia gravis is associated with various autoimmune diseases, including:
+
+Thyroid diseases, including Hashimoto's thyroiditis and Graves' disease
+
+Diabetes mellitus type 1
+
+Rheumatoid arthritis
+
+Lupus
+
+Demyelinating CNS diseases Seropositive and "double-seronegative" patients often have thymoma or thymic hyperplasia. However, anti-MuSK positive patients do not have evidence of thymus pathology.
+
+2.2. Pregnancy
+
+In the long term, pregnancy does not affect myasthenia gravis. The mothers themselves suffer from exacerbated myasthenia in a third of cases, and in those for whom it does worsen, it usually occurs in the first trimester of pregnancy. Signs and symptoms in pregnant mothers tend to improve during the second and third trimesters. Complete remission can occur in some mothers. Immunosuppressive therapy should be maintained throughout pregnancy, as this reduces the chance of neonatal muscle weakness, as well as controls the mother's myasthenia.
+
+Up to 10% of infants with mothers affected by the condition are born with transient (periodic) neonatal myasthenia (TNM), which generally produces feeding and respiratory difficulties. TNM usually presents as poor suckling and generalized hypotonia (low muscle tone). Other reported symptoms include a weak cry, facial diplegia (paralysis of one part of the body) or paresis (impaired or lack of movement), and mild respiratory distress. A child with TNM typically responds very well to acetylcholinesterase inhibitors. Very rarely, an infant can be born with arthrogryposis multiplex congenita, secondary to profound intrauterine weakness. This is due to maternal antibodies that target an infant's acetylcholine receptors. In some cases, the mother remains asymptomatic.
+
+3. Diagnosis
+
+MG can be a difficult diagnosis, as the symptoms can be subtle and hard to distinguish from both normal variants and other neurological disorders. A thorough physical examination can reveal easy fatigability, with the weakness improving after rest and worsening again on repeat of the exertion testing. A good response to medication can also be considered a sign of autoimmune pathology.
+
+Three types of myasthenic symptoms in children can be distinguished:
+
+Neonatal: In 12% of the pregnancies with a mother with MG, she passes the antibodies to the infant through the placenta, causing neonatal myasthenia gravis. The symptoms start in the first two days and disappear within a few weeks after birth. With the mother, it is not uncommon for the symptoms to even improve during pregnancy, but they might worsen after labor.
+
+Congenital: Children of a healthy mother can, very rarely, develop myasthenic symptoms beginning at birth, congenital myasthenic syndrome (CMS). Other than myasthenia gravis, CMS is not caused by an autoimmune process, but due to synaptic malformation, which in turn is caused by genetic mutations. Thus, CMS is a hereditary disease. More than 11 different mutations have been identified, and the inheritance pattern is typically autosomal recessive.
+
+Juvenile myasthenia gravis: Myasthenia occurring in childhood, but after the peripartum period The congenital myasthenias cause muscle weakness and fatigability similar to those of MG. The symptoms of CMS usually begin within the first two years of life, although in a few forms, patients can develop their first symptoms as late as the seventh decade of life. A diagnosis of CMS is suggested by:
+
+Onset of symptoms in infancy or childhood
+
+Weakness which increases as muscles tire
+
+A decremental EMG response, on low frequency, of the compound muscle action potential
+
+No anti-AChR or MuSK antibodies
+
+No response to immunosuppressant therapy
+
+Family history of symptoms which resemble CMS The symptoms of CMS can vary from mild to severe. It is also common for patients with the same form, even members of the same family, to be affected to differing degrees. In most forms of CMS, weakness does not progress, and in some forms, the symptoms may diminish as the patient gets older. Only rarely do symptoms of CMS become worse with time.
+
+3.1. Classification
+
+The most widely accepted classification of myasthenia gravis is the Myasthenia Gravis Foundation of America Clinical Classification:
+
+Class I: Any eye muscle weakness, possible ptosis, no other evidence of muscle weakness elsewhere
+
+Class II: Eye muscle weakness of any severity, mild weakness of other muscles
+
+Class IIa: Predominantly limb or axial muscles
+
+Class IIb: Predominantly bulbar and/or respiratory muscles
+
+Class III: Eye muscle weakness of any severity, moderate weakness of other muscles
+
+Class IIIa: Predominantly limb or axial muscles
+
+Class IIIb: Predominantly bulbar and/or respiratory muscles
+
+Class IV: Eye muscle weakness of any severity, severe weakness of other muscles
+
+Class IVa: Predominantly limb or axial muscles
+
+Class IVb: Predominantly bulbar and/or respiratory muscles (Can also include feeding tube without intubation)
+
+Class V: Intubation needed to maintain airway
+
+3.2. Physical examination
+
+Many muscles can be tested for muscle fatigability. A thorough investigation includes:
+
+looking upward and sidewards for 30 seconds: ptosis and diplopia
+
+looking at the feet while lying on the back for 60 seconds
+
+keeping the arms stretched forward for 60 seconds
+
+ten deep knee bends
+
+walking 30 steps on both the toes and the heels
+
+five situps, lying down and sitting up completely
+
+"peek sign" - after complete initial apposition of the lid margins, they quickly (within 30 seconds) start to separate and the sclera starts to show
+
+3.3. Blood tests
+
+If the diagnosis is suspected, serology can be performed to identify certain antibodies:
+
+One test is for antibodies against the acetylcholine receptor. The test has a reasonable sensitivity of 80–96%, but in ocular myasthenia, the sensitivity falls to 50% (negative in up to 50% who have MG).
+
+A proportion of the patients without antibodies against the acetylcholine receptor have antibodies against the MuSK protein.
+
+In specific situations (decreased reflexes which increase on facilitation, coexisting autonomic features, suspected presence of neoplasm, especially of the lung, presence of increment or facilitation on repetitive electromyography), testing is performed for Lambert-Eaton syndrome, in which other antibodies (against a voltage-gated calcium channel) can be found.
+
+3.4. Electrodiagnostics
+
+Muscle fibers of patients with MG are easily fatigued, thus do not respond as well as muscles in healthy individuals to repeated stimulation. By stimulating a nerve-muscle motor unit with short sequences of rapid, regular electrical impulses, before and after exercising the motor unit, the fatiguability of the muscle can be measured. This is called the repetitive nerve stimulation test. In single-fiber electromyography, which is considered to be the most sensitive (although not the most specific) test for MG, a thin needle electrode is inserted into different areas of a particular muscle to record the action potentials from several samplings of different individual muscle fibers. Two muscle fibers belonging to the same motor unit are identified and the temporal variability in their firing patterns are measured. Frequency and proportion of particular abnormal action potential patterns, "jitter" and "blocking," are diagnostic. Jitter refers to the abnormal variation in the time interval between action potentials of adjacent muscle fibers in the same motor unit. Blocking refers to the failure of nerve impulses to elicit action potentials in adjacent muscle fibers of the same motor unit.
+
+3.5. Ice test
+
+Applying ice to weak muscle groups characteristically leads to improvement in strength of those muscles. Applying ice for five minutes to the muscles reportedly has a sensitivity and specificity of 76.9% and 98.3%, respectively, for the identification of MG. Acetylcholinesterase is thought to be inhibited at the lower temperature, and this is the basis for this diagnostic test.
+
+3.6. Edrophonium test
+
+The "edrophonium test" is infrequently performed to identify MG; its application is limited to those situations in which other investigations have failed to yield a conclusive diagnosis. This test requires the intravenous administration of edrophonium chloride (Tensilon, Reversol) or neostigmine (Prostigmin), drugs that block the breakdown of acetylcholine by cholinesterase (acetylcholinesterase inhibitors) and temporarily increases the levels of acetylcholine at the neuromuscular junction. In people with myasthenia gravis involving the eye muscles, edrophonium chloride will briefly relieve weakness.
+
+3.7. Imaging
+
+A chest X-ray is frequently performed; it may point towards alternative diagnoses (e.g., Lambert-Eaton syndrome due to a lung tumor) and comorbidity. It may also identify widening of the mediastinum suggestive of thymoma, but computed tomography or magnetic resonance imaging (MRI) are more sensitive ways to identify thymomas and are generally done for this reason. MRI of the cranium and orbits may also be performed to exclude compressive and inflammatory lesions of the cranial nerves and ocular muscles.
+
+3.8. Pulmonary function test
+
+Spirometry (lung function testing) may be performed to assess respiratory function if concerns exist about breathing adequacy. The forced vital capacity may be monitored at intervals to detect increasing muscular weakness. Acutely, negative inspiratory force may be used to determine adequacy of ventilation. Severe myasthenia may cause respiratory failure due to exhaustion of the respiratory muscles.
+
+3.9. Pathological findings
+
+Muscle biopsy is only performed if the diagnosis remains in doubt and clinical suspicion of MG persists. Immunofluorescence shows IgG antibodies on the neuromuscular junction. (The antibody which causes myasthenia gravis does not fluoresce, but rather a secondary antibody directed against it.) Muscle electron microscopy shows receptor infolding and loss of the tips of the folds, together with widening of the synaptic clefts. Both these techniques are currently used for research rather than diagnostically.
+
+4. Management
+
+Treatment is by medication and/or surgery. Medication consists mainly of acetylcholinesterase inhibitors to directly improve muscle function and immunosuppressant drugs to reduce the autoimmune process. Thymectomy is a surgical method to treat MG. For emergency treatment, plasmapheresis or IVIG can be used as a temporary measure to remove antibodies from the blood circulation.
+
+4.1. Medication
+
+Acetylcholinesterase inhibitors can provide symptomatic benefit. Neostigmine and pyridostigmine improve muscle function; they act by slowing the normal degradation of acetylcholine at nerve endings, thereby overcoming the inhibition of the receptors. Usually, acetylcholinesterase inhibitors are started at a low dose and increase until the desired result is achieved. If taken 30 minutes before a meal, symptoms will be mild during eating. Side effects, such as perspiration and diarrhea, can be countered by adding atropine. Pyridostigmine is a short-lived drug, with a half-life of about four hours. There have been few high-quality studies directly comparing cholinesterase inhibitors with other treatments (or placebo); it has been suggested that their practical benefit is such that it would be difficult conducting studies in which they would be withheld from some people.
+
+Many people with immune-mediated myasthenia are treated with immunosuppressive drugs, such as prednisone/prednisolone, cyclosporin, mycophenolate, and azathioprine. People are commonly treated with a combination of these drugs with an acetylcholinesterase inhibitor. Treatments with some immunosuppressives take weeks to months before effects are noticed.
+
+4.2. Plasmapheresis and IVIG
+
+If the myasthenia is serious (myasthenic crisis), plasmapheresis can be used to remove the putative antibodies from the circulation. Also, intravenous immunoglobulins (IVIGs) can be used to bind the circulating antibodies. Both of these treatments have relatively short-lived benefits, typically measured in weeks.
+
+4.3. Surgery
+
+Thymectomy, the surgical removal of the thymus, is essential in cases of thymoma in view of the potential neoplastic effects of the tumor. However, the procedure is more controversial in patients who do not show thymic abnormalities. Although some of these patients improve following thymectomy, other patients experience severe exacerbations and the highly controversial concept of "therapeutic thymectomy" for patients with thymus hyperplasia is disputed by many experts, and efforts are underway to unequivocally answer this important question.
+
+The surgical approaches to the removal of the thymus gland include: transsternal (through the sternum, transcervical (through a small neck incision), and transthoracic (through one or both sides of the chest). The transsternal approach is most common and uses the same length-wise incision through the breast bone used for most open-heart surgery. The transcervical approach, a less invasive procedure, allows for removal of the entire thymus gland through a small neck incision. No difference in success in symptom improvement has been shown between the transsternal approach and the minimally invasive transcervical approach. For patients with a thymoma, though, complete tissue removal is important, as thymic tissue can regrow. Thymomas can be malignant and are thought to be the onset of other diseases, as well, so many surgeons will only recommend the full sternotomy approach to a thymectomy.
+
+Thymoma is relatively rare in younger (<40) patients, but especially younger patients with generalized MG without thymoma benefit, paradoxically, from thymectomy. Resection is also indicated for those with a thymoma, but it is less likely to improve the MG symptoms.
+
+4.4. Physical measures
+
+Patients with MG should be educated regarding the fluctuating nature of their symptoms, including weakness and exercise-induced fatigue. Exercise participation should be encouraged with frequent rest.
+
+In people with generalized MG, some evidence indicates a partial home program including training in diaphragmatic breathing, pursed lip breathing, and interval-based muscle therapy may improve respiratory muscle strength, chest wall mobility, respiratory pattern, and respiratory endurance.
+
+5. Prognosis
+
+With treatment, patients have a normal life expectancy, except for those with a malignant thymoma (whose lesser life expectancy is on account of the thymoma itself and is otherwise unrelated to the myasthenia). Quality of life can vary depending on the severity and the cause. The drugs used to control MG either diminish in effectiveness over time (acetylcholinesterase inhibitors) or cause severe side effects of their own (immunosuppressants). About 10% of MG patients are found to have tumors in their thymus glands, in which case a thymectomy is a very effective treatment with long-term remission. However, most patients need treatment for the remainder of their lives, and their abilities vary greatly. MG is not usually a progressive disease; the symptoms may fluctuate, but do not always get worse as the patient ages. For some, the symptoms decrease after a span of three to five years.
+
+6. Epidemiology
+
+Myasthenia gravis occurs in all ethnic groups and both sexes. It most commonly affects women under 40 and people from 50 to 70 years old of either sex, but it has been known to occur at any age. Younger patients rarely have thymoma. The prevalence in the United States is estimated at 20 cases per 100,000. Risk factors are the female sex with ages 20 – 40, familial myasthenia gravis, D-penicillamine ingestion (drug-induced myasthenia), and having other autoimmune diseases.
+
+7. Research directions
+
+Immunomodulating substances, such as drugs that prevent acetylcholine receptor modulation by the immune system, are currently being researched.
+
+Ephedrine seems to help some people but it has not been properly studied as of 2014.
+
+8. Notable cases
+
+Brandon Cox, starting Auburn quarterback from 2005-2007, finished with a record of 29-9
+
+Aristotle Onassis, a prominent Greek shipping magnate who later married Jacqueline Bouvier Kennedy, the widow of assassinated U.S. President John F. Kennedy
+
+Christopher Robin Milne, the son of A. A. Milne (author of Winnie-the-Pooh ) and the person on whom Christopher Robin was based, lived with myasthenia gravis for several years before his death in 1996.
+
+Static Major, American rapper, singer, and songwriter, died in 2008 as a result of complications stemming from plasmapheresis treatment for myasthenia gravis
+
+Suzanne Rogers, actress, Days of Our Lives, diagnosed in 1984, went into remission in 1995
+
+Roger Smith, American actor famous for his role in 77 Sunset Strip and as the husband of actress Ann-Margret, suffered from MG from the mid-60s until his MG went into remission in 1985
+
+9. References
+
+10. External links

@@ -1,0 +1,201 @@
+A playing card is a piece of specially prepared heavy paper, thin cardboard, plastic-coated paper, cotton-paper blend, or thin plastic, marked with distinguishing motifs and used as one of a set for playing card games. Playing cards are typically palm-sized for convenient handling.
+
+A complete set of cards is called a pack (UK English), deck (US English), or set (Universal), and the subset of cards held at one time by a player during a game is commonly called a hand. A pack of cards may be used for playing a variety of card games, with varying elements of skill and chance, some of which are played for money. Playing cards are also used for illusions, cardistry, building card structures, cartomancy and memory sport.
+
+The front (or "face") of each card carries markings that distinguish it from the other cards in the pack and determine its use under the rules of the game being played. The back of each card is identical for all cards in any particular pack, and usually of a single colour or formalized design. Usually every card will be smooth; however, some packs have braille to allow blind people to read the card number and suit. The backs of playing cards are sometimes used for advertising. For most games, the cards are assembled into a pack, and their order is randomized by shuffling.
+
+Dedicated deck card games have sets that are used only for a specific game. The cards described in this article are used for many games and share a common origin stemming from the standards set in Mamluk Egypt. These sets divide their cards into four suits each consisting of three face cards and numbered or "pip" cards.
+
+1. History
+
+1.1. Early history
+
+Playing cards were invented in Imperial China. They were found in China as early as the 9th century during the Tang Dynasty (618–907). The first reference to card games dates from the 9th century, when the Collection of Miscellanea at Duyang, written by Tang Dynasty writer Su E, described Princess Tongchang, daughter of Emperor Yizong of Tang, playing the "leaf game" in 868 with members of the Wei clan, the family of the princess' husband. The Song Dynasty (960–1279) scholar Ouyang Xiu (1007–1072) asserted that playing cards and card games existed at least since the mid-Tang Dynasty and associated their invention with the simultaneous development of using sheets or pages instead of paper rolls as a writing medium. The first known book on cards called Yezi Gexi was allegedly written by a Tang era woman, and was commented on by Chinese writers of subsequent dynasties.
+
+During the Ming Dynasty (1368–1644), characters from novels such as the Water Margin were widely featured on the faces of playing cards.
+
+Ancient Chinese "money cards" have four suits: coins (or cash), strings of coins (which may have been misinterpreted as sticks from crude drawings), myriads (of coins or of strings), and tens of myriads (a myriad is 10,000). These were represented by ideograms, with numerals of 2–9 in the first three suits and numerals 1–9 in the "tens of myriads". Wilkinson suggests that the first cards may have been actual paper currency which were both the tools of gaming and the stakes being played for, as in trading card games. The designs on modern Mahjong tiles likely evolved from those earliest playing cards. However, it may be that the first pack of cards ever printed was a Chinese domino pack, in whose cards all 21 combinations of a pair of dice are depicted. In Kuei-t'ien-lu, a Chinese text redacted in the 11th century, domino cards were printed during the Tang Dynasty, contemporary to the first printed books. The Chinese word pái (牌) is used to describe both paper cards and gaming tiles.
+
+1.2. Mamluk Egyptian standard
+
+By the 11th century, playing cards were spread throughout the Asian continent and later came into Mamluk Egypt. The Mamluk pack contained 52 cards comprising four suits: polo sticks, coins, swords, and cups. Each suit contained ten spot or pip cards (cards identified by the number of suit symbols or "pips" they show) and three court cards, called malik (king), nā'ib malik (viceroy or deputy king), and thānī nā'ib (second or under-deputy). The thānī nā'ib is a non-existent title so it may not have been in the earliest versions. The Mamluk court cards showed abstract designs or calligraphy not depicting persons (at least not in any surviving specimens), though they did bear the names of military officers. Nā'ib would be corrupted into naibi (Italian) and naipes (Spanish), the latter still in common usage.
+
+A near complete pack of Mamluk playing cards was discovered by Leo Mayer in the Topkapı Palace, Istanbul, in 1939. This particular pack was not made before 1400, but the pack was matched to a privately owned fragment dated to the 12th or 13th century. It is not a complete pack, but there are cards of three packs of the same style. Production of these cards did not outlive the fall of the Mamluks in the sixteenth century. The rules to play Mulûk wa-Nuwwâb (Kings and Deputies) are lost but it is believed to be a plain trick game without trumps.
+
+It is not known whether these cards influenced the design of the Indian cards used for the game of Ganjifa, or whether the Indian cards may have influenced these. Regardless, the Indian cards have many distinctive features: they are round, generally hand painted with intricate designs, and comprise more than four suits—often as many as thirty two, like a pack in the Deutsches Spielkartenmuseum, painted in the Mewar, a city in Rajasthan, during the 18th or 19th century. Packs used for play have from eight to twenty suits.
+
+1.3. Spread across Europe and early design changes
+
+Playing cards first entered Southern Europe in the early 14th century, probably from Mamluk Egypt, using the Mamluk suits of cups, coins, swords, and polo-sticks, and which are still used in traditional Latin decks. As polo was an obscure sport to Europeans then, the polo-sticks became staves, batons, or clubs. The first documentary evidence is a document written in Vitoria-Gasteiz (now Spain) in 1334, in which the Knights of the Band are categorically prohibited from playing cards. Their presence is attested in Catalonia in 1371, 1377 in Switzerland, and 1380 in many locations including Florence and Paris. Wide use of playing cards in Europe can, with some certainty, be traced from 1377 onwards.
+
+A 1369 Paris ordinance does not mention cards, but its 1377 update does. In the account books of Johanna, Duchess of Brabant and Wenceslaus I, Duke of Luxemburg, an entry dated May 14, 1379 reads: "Given to Monsieur and Madame four peters, two forms, value eight and a half moutons, wherewith to buy a pack of cards". In his book of accounts for 1392 or 1393, Charles or Charbot Poupart, treasurer of the household of Charles VI of France, records payment for the painting of three sets of cards.
+
+The earliest cards were made by hand, like those designed for Charles VI; this was expensive. Printed woodcut decks appeared in the 15th century. The technique of printing woodcuts to decorate fabric was transferred to printing on paper around 1400 in Christian Europe, very shortly after the first recorded manufacture of paper there, while in Islamic Spain it was much older. The earliest dated European woodcut is 1418. No examples of printed cards from before 1423 survive. But from about 1418 to 1450 professional card makers in Ulm, Nuremberg, and Augsburg created printed decks. Playing cards even competed with devotional images as the most common uses for woodcut in this period.
+
+Most early woodcuts of all types were coloured after printing, either by hand or, from about 1450 onwards, stencils. These 15th-century playing cards were probably painted.
+
+The Master of the Playing Cards worked in Germany from the 1430s with the newly invented printmaking technique of engraving. Several other important engravers also made cards, including Master ES and Martin Schongauer. Engraving was much more expensive than woodcut, and engraved cards must have been relatively unusual.
+
+Karnöffel is the oldest card game with which the rules are recorded. It has an early system of trumps that may have preceded the use of the tarot trumps. The origins of the tarot pack are thought to be Italian, with the oldest surviving examples dating from the mid-15th century in Milan. It is generally thought that the tarot was invented between 1411 and 1425 by adding a dedicated suit of trump cards (trionfi) to the Italian deck. The tarot deck was never as popular as the standard decks as it was more expensive so lower classes preferred smaller decks. In many countries or regions, the regular 52 or 56 card deck shrank to 48, 40, 36, 32, or 24 cards.
+
+As cards spread from Italy to Germanic countries, the Latin suits evolved into the suits of Leaves (or Shields), Hearts (or Roses), Bells, and Acorns, and a combination of Latin and Germanic suit pictures and names resulted in the French suits of trèfles (clovers), carreaux (tiles), cœurs (hearts), and piques (pikes) around 1480. The trèfle (clover) was probably derived from the acorn and the pique (pike) from the leaf of the German suits. The names "pique" and "spade", however, may have derived from the sword of the Italian suits. In England, the French suits were eventually used, although the earliest packs circulating may have had the Italian suits. This may account to why the English called the clovers "clubs" and the pikes "spades".
+
+Also in the 15th century, Europeans changed the court cards to represent European royalty and attendants, originally "King", "Chevalier" (knight), and "Knave". The original meaning of knave was male child (cf German Knabe), so in this context the character could represent the "prince", son to the King and Queen; the meaning servant developed later. In a German pack from the 1440s, Queens replace Kings in two of the suits as the highest card. Although Germans abandoned the Queen before the 1500s, the French permanently picked it up and placed it under the King. Packs of 56 cards containing in each suit a King, Queen, Knight, and Valet (from the French tarot court) were common.
+
+Court cards designed in the 16th century in the manufacturing centre of Rouen became the standard design in England, while a Parisian design became standard in France. Both the Parisian and Rouennais court cards were named after historical and mythological heroes and heroines. The Parisian names have become more common in modern use, even with cards of Rouennais design.
+
+During the mid 16th century, Portuguese traders introduced playing cards to Japan. The first indigenous Japanese deck was the Tenshō karuta named after the Tenshō period. It was a 48 card deck with the 10s missing like Iberian decks from that period. The Tokugawa shogunate banned these cards in the early 17th century forcing Japanese manufacturers to radically redesign their cards. As a result of Japan's isolationist Sakoku policy, karuta would develop separately from the rest of the world. Modern decks like hanafuda bear no resemblance to their Portuguese ancestor.
+
+1.4. Later design changes
+
+In early games the kings were always the highest card in their suit. However, as early as the late 14th century special significance began to be placed on the nominally lowest card, now called the Ace, so that it sometimes became the highest card and the Two, or Deuce, the lowest. This concept may have been hastened in the late 18th century by the French Revolution, where games began being played "ace high" as a symbol of lower classes rising in power above the royalty. The term "Ace" itself comes from a dicing term in Anglo-Norman language, which is itself derived from the Latin as (the smallest unit of coinage). Another dicing term, trey (3), sometimes shows up in playing card games.
+
+Packs with corner and edge indices (i.e. the value of the card printed at the corner(s) of the card) enabled players to hold their cards close together in a fan with one hand (instead of the two hands previously used). The first such pack known with Latin suits was printed by Infirerra and dated 1693, but this feature was commonly used only from the end of the 18th century. Indices in the Anglo-American deck were used from 1875, when the New York Consolidated Card Company patented the Squeezers, the first cards with indices that had a large diffusion. However the first Anglo-American deck with this innovation was the Saladee's Patent, printed by Samuel Hart in 1864.
+
+Before this time, the lowest court card in an English pack was officially termed the Knave, but its abbreviation ("Kn") was too similar to the King ("K") and thus this term did not adapt well to indices. However, from the 17th century the Knave had often been termed the Jack, a term borrowed from the English Renaissance card game All Fours where the Knave of trumps has this name. All Fours was considered a game of the lower classes, so the use of the term Jack at one time was considered vulgar. The use of indices, however, encouraged a formal change from Knave to Jack in English language packs. In other languages, this conflict does not exist: the French tarot Deck for instance labels its lowest court card the "Valet", which is the "squire" to the Knight card (not seen in 52-card packs) as the Queen is paired with the King. This name, abbreviated "V", is used for modern 52 card packs in the French language.
+
+This was followed by the innovation of reversible court cards. This invention is attributed to a French card maker of Agen in 1745. But the French government, which controlled the design of playing cards, prohibited the printing of cards with this innovation. In central Europe (trappola cards), Italy (tarocchini) and in Spain the innovation was adopted during the second half of the 18th century. In Great Britain the pack with reversible court cards was patented in 1799 by Edmund Ludlow and Ann Wilcox. The Anglo-American pack with this design was printed around 1802 by Thomas Wheeler. Reversible court cards meant that players had no need to turn upside-down court cards right side up. Before this, other players could often get a hint of what other players' hands contained by watching them reverse their cards. This innovation required abandoning some of the design elements of the earlier full-length courts.
+
+Rounded corners were introduced as worn out corners could reveal the card's value. The previously blank backs of cards began sporting designs, pictures, or photos. This helped to hide wear and tear as well as to discourage writing on the back.
+
+During the French Revolution, the traditional design of Kings, Queens, and Jacks became Liberties, Equalities, and Fraternities. The radical French government of 1793 and 1794 toppled the old regime and a good revolutionary would not play with Kings or Queens, but with the ideals of the revolution at hand. This would ultimately be reversed in 1805 with the rise of Napoleon.
+
+During the nineteenth century, the evolution of Tarot packs for cartomancy and for gaming diverged after Etteilla created the first tarot deck dedicated to divination in 1791. The "reading tarots" based on the symbolic designs of the Tarot de Marseille (which were extensively modified to produce the widely known Rider-Waite deck) kept the older style of full-length character art, specific character meanings for the 21 trumps, and the use of the Latin suits (although most of the reading tarots in use today derive from the French Tarot de Marseille). On the other hand, "playing tarots", especially those of France and the Germanic regions, had by the end of the 19th century evolved into a form more resembling the modern playing card pack, with corner indices and easily identifiable number and court cards. The use of the traditional characters cards for the trumps was largely discarded in favor of more whimsical scenes. The Tarot Nouveau is an example of the current style of playing tarot, though the artwork and design of this pack can be traced back to the 1890s. The Italian and Spanish Tarocchi packs, however, have largely kept the traditional character identifications of each trump, as well as the Latin suits, though these packs are used almost exclusively for gaming. Tarocco Bolognese and Tarocco Piemontese are examples of Italian-suited playing tarot packs while the Tarocco Siciliano is the only one that uses Spanish suits.
+
+The United States introduced the joker into the deck. The stylings of the joker and its function are almost identical to the Fool from the original French Tarot deck, which had been removed in the transformation to the standard 52-card French pack. It was devised for the game of Euchre, which spread from Europe to America beginning shortly after the American Revolutionary War. In Euchre, the highest trump card is the Jack of the trump suit, called the right bower (or bauer); the second-highest trump, the left bower, is the Jack of the suit of the same color as trumps. The joker was invented c. 1860 as a third trump, the best bower, which ranked higher than the other two bowers. The name of the card is believed to derive from juker, a variant name for Euchre. Jokers also function as wild cards in many card games.
+
+2. Modern deck formats
+
+Contemporary playing cards are grouped into three broad categories based on the suits they use: French, Latin, and German. Latin suits are used in the closely related Spanish and Italian formats. The Swiss German suits are distinct enough to merit their subcategory. Excluding Jokers and Tarot trumps, the French 52-card deck preserves the number of cards in the original Mamluk deck, while Latin and German decks average fewer. Latin decks usually drop the higher-valued pip cards, while German decks drop the lower-valued ones.
+
+Within suits, there are regional or national variations called " standard patterns" because they are in the public domain, allowing multiple card manufacturers to copy them. Pattern differences are most easily found in the face cards but the number of cards per deck, the use of numeric indices, or even minor shape and arrangement differences of the pips can be used to distinguish them. Some patterns have been around for hundreds of years. Jokers are not part of any pattern as they are a relatively recent invention and lack any standardized appearance so each publisher usually puts their own trademarked illustration into their decks. The wide variation of jokers has turned them into collectible items. Any card that bore the stamp duty like the ace of spades in England or the ace of clubs in France are also collectible as that is where the manufacturer's logo is usually placed.
+
+2.1. French suits
+
+French decks come in a variety of patterns and deck sizes. The 52-card deck is the most popular deck and includes 13 ranks of each suit with reversible "court" or face cards. Each suit includes an Ace, depicting a single symbol of its suit, a King, Queen, and Jack, each depicted with a symbol of their suit; and ranks two through ten, with each card depicting that number of pips of its suit. As well as these 52 cards, commercial packs often include between one and four jokers, most often two.
+
+The piquet pack has all values from 2 through 6 in each suit removed for a total of 32 cards. It is popular in France, the Low Countries, Central Europe and Russia and is used to play Piquet, Belote and Skat. 40 card French suited packs are common in northwest Italy; these remove the 8s through 10s like Latin suited decks. 24 card decks, removing 2s through 8s are also sold in Austria and Bavaria to play Schnapsen.
+
+The 78 card Tarot Nouveau adds the Knight card between Queens and Jacks along with 21 numbered trumps and the unnumbered Fool.
+
+2.2. Latin suits
+
+Latin decks consist of four suits: Swords, Clubs, Cups, and Coins. Spanish style clubs are knobbly cudgels while Italian style clubs are smooth batons. Italian style swords are curved while Spanish style swords are straight. The Portuguese pattern used Spanish suits but intersected their clubs and swords like in Italian suits. The only deck that uses the Portuguese pattern in the present is the Sicilian Tarot.
+
+Most Italian and Spanish decks consist of 40 cards with each suit numbering 1 (or Ace) to 7 with three face cards of King, Knight, and Knave/Jack.
+
+2.2.1. Italian suits
+
+Despite the name, Italian suits normally refer to only suits found in northeastern Italy (essentially around the former Republic of Venice) while the rest of the country uses Spanish (Sardinia and the south), French (northwest), or German (South Tyrol) suits. They are most commonly found in pack of 40 cards but 52 card sets are also available. The Tarocco Piemontese and Tarocco Bolognese have 78 and 62 cards respectively. Unlike the French deck, some Italian cards do not have any numbers (or letters) identifying their value. The cards' value is determined by identifying the face card or counting the number of suit characters.
+
+2.2.2. Spanish suits
+
+The cards (cartas or naipes in Spanish) are all numbered, but unlike in the standard French pack, the card numbered 10 is the first of the court cards (instead of a card depicting ten pips); so each suit has only twelve cards. Most Spanish games involve forty-card packs, with the 8s and 9s removed, similar to the standard Italian pack. Many Spanish decks have reintroduced cards representing 8 and 9 for a total of 48 cards though 40 card decks are still common. Certain packs include two "comodines" (jokers) as well. The box (la pinta) that goes around the edges of the card is used to distinguish the suit without showing all of your cards: The cups have one interruption, the swords two, the clubs three, and the coins none.
+
+2.3. German suits
+
+In the German pack, there are four colors, namely Acorns (Eichel), Leaves (Grün or Blatt), Hearts (Herz) and Bells (Schelle). In northern decks, the card symbols are Ace (Ass), King (König), Over Knave (Ober), Under Knave (Unter), 10, 9, 8, and 7. Southern decks include the 6 for a total of 36 cards. 24 card "Short" Schafkopf and Schnapsen decks have no 6s, 7s, or 8s. 40 card decks with the 5s can be found in South Tyrol, Italy.
+
+2.3.1. Swiss German suits
+
+The German-speaking Swiss use a variation of the German deck. It uses Roses (Rosen) instead of Hearts and Shields (Schilten) in place of Leaves. Also unlike the German deck, the 10 has been replaced by a Banner card which depicts a flag defaced by its suit symbol. Thus the only true pip cards are 6, 7, 8, and 9. The German Unter card is spelled Under to reflect the local Swiss dialect. They come in 36-card packs and are used to play the national game of Jass.
+
+A less common deck of 48 cards containing the 3s, 4s, and 5s is used to play Kaiserspiel, a variant of Karnöffel.
+
+2.4. Accessible playing cards
+
+Playing cards have been adapted for use by the visually impaired by the inclusion of large-print and/or braille characters as part of the card. In addition to increasing the size of the suit symbol and the denomination text, large-print cards commonly reduce the visual complexity of the images for simpler identification. They may also omit the patterns of pips in favor of one large pip to identify suit. Some decks have larger indices, often for use in stud poker games, where being able to read cards from a distance is a benefit and hand sizes are small.
+
+Oversize cards are also produced. These can assist with ease of handling and to allow for larger text. Some decks use four colors for the suits in order to make it easier to tell them apart: The most common set of four colors for poker is black spades, red hearts, blue diamonds and green clubs (). Another common color set is borrowed from the German suits and uses green spades (leaves) and yellow diamonds (bells) with red hearts and black clubs ().
+
+No universal standards for braille playing cards exist. There are many national and producer variations. In most cases each card is marked with two braille characters in the same location as the normal corner markings. The two characters can appear in either vertical (one character below another) or horizontal (two characters side by side). In either case one character identifies the card suit and the other the card denomination. 1 for ace, 2 through 9 for the numbered cards, X or the letter O for ten, J for jack, Q for queen, K for king. The suits are variously marked using D for diamond, S for spade, C or X for club and H or K for heart.
+
+3. Production techniques
+
+The typical production process for a new pack starts with the choice between the most suitable material: card stock or plastic. Playing cards made from plastic (Polyvinyl Chloride) will last longer as compared to paper playing cards.
+
+Cards are printed on unique sheets that undergo a varnishing procedure in order to enhance the brightness and glow of the colours printed on the cards, as well as to increase their durability.
+
+In today’s market, some high-quality products are available. There are some specific treatments on card surfaces, such as calender and linen finishing, that guarantee performance for either professional or domestic use.
+
+The cards are printed on sheets, which are cut and arranged in bands (vertical stripes) before undergoing a cutting operation that cuts out the individual cards. After assembling the new decks, they pass through the corner-rounding process that will confer the final outline: the typical rectangular playing-card shape.
+
+Finally, each pack is wrapped in cellophane, inserted in its case and is ready for the final distribution.
+
+4. Symbols in Unicode
+
+The Unicode standard for text encoding on computers defines 8 characters for card suits in the Miscellaneous Symbols block, at U+2660–2667. Unicode 7.0 added a unified pack for Tarot's trump cards (Major Arcana) and the 52 cards of the modern French pack, with 4 Knights, together with a character for "Playing Card Back" and black, red, and white jokers in the block U+1F0A0–1F0FF.
+
+5. See also
+
+Archaeology awareness playing cards
+
+Beer card
+
+Card game
+
+Card manipulation
+
+Card money
+
+Card throwing
+
+Cary Collection of Playing Cards
+
+Collectible card game
+
+Dealer shoe
+
+French playing cards
+
+Ganjifa
+
+German playing cards
+
+Hanafuda
+
+Htou-tjyen
+
+House of cards
+
+Italian playing cards
+
+Karuta
+
+List of playing card nicknames
+
+List of poker hand nicknames
+
+Most-wanted Iraqi playing cards
+
+Playing cards in Unicode
+
+Shuffling
+
+Sleight of hand
+
+Spanish playing cards
+
+Standard 52-card deck
+
+Swiss playing cards
+
+Tarocchi
+
+Tarot
+
+Zener cards are used for parapsychology
+
+6. Notes
+
+7. References
+
+Griffiths, Antony. Prints and Printmaking British Museum Press (in UK),2nd edn, 1996 ISBN 0-7141-2608-X
+
+Hind, Arthur M. An Introduction to a History of Woodcut. Houghton Mifflin Co. 1935 (in USA), reprinted Dover Publications, 1963 ISBN 0-486-20952-0
+
+Lo, Andrew. "The Game of Leaves: An Inquiry into the Origin of Chinese Playing Cards," Bulletin of the School of Oriental and African Studies, University of London, Vol. 63, No. 3 (2000): 389-406.
+
+Roman du Roy Meliadus de Leonnoys (British Library MS Add. 12228, fol. 313v), c. 1352
+
+8. External links

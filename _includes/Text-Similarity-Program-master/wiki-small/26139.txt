@@ -1,0 +1,5 @@
+Retroposons are repetitive DNA fragments which are inserted into chromosomes after they had been reverse transcribed from any RNA molecule. In contrast to retrotransposons, they never encode reverse transcriptase (RT). Therefore, they are non-autonomous elements with regard to transposition activity (as opposed to transposons).
+
+Non-LTR retrotransposons (such as the human L1 elements) are sometimes falsely referred to as retroposons. Retroposition accounts for approximately 10,000 gene-duplication events in the human genome, of which approximately 2-10% are likely to be functional. Such genes are called retrogenes and represent a certain type of retroposon. A classical event is the retroposition of a spliced pre-mRNA molecule of the c-src gene into the proviral ancestor of the Rous Sarcoma Virus (RSV). The retroposed c-src pre-mRNA still contained a single intron and within RSV is now referred to as v-src gene.
+
+1. References

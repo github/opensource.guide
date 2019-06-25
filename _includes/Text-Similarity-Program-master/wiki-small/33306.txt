@@ -1,0 +1,543 @@
+Water is a transparent fluid which forms the world's streams, lakes, oceans and rain, and is the major constituent of the fluids of living things. As a chemical compound, a water molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Water is a liquid at standard ambient temperature and pressure, but it often co-exists on Earth with its solid state, ice; and gaseous state, steam (water vapor).
+
+Water covers 71% of the Earth's surface. It is vital for all known forms of life. On Earth, 96.5% of the planet's water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, and 0.001% in the air as vapor, clouds (formed of solid and liquid water particles suspended in air), and precipitation. Only 2.5% of the Earth's water is freshwater, and 98.8% of that water is in ice and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products.
+
+Water on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Water used in the production of a good or service is known as virtual water.
+
+Safe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%. Water plays an important role in the world economy, as it functions as a solvent for a wide variety of chemical substances and facilitates industrial cooling and transportation. Approximately 70% of the fresh water used by humans goes to agriculture.
+
+1. Chemical and physical properties
+
+Water is the chemical substance with chemical formula : one molecule of water has two hydrogen atoms covalently bonded to a single oxygen atom.
+
+Water appears in nature in all three common states of matter (solid, liquid, and gas) and may take many different forms on Earth: water vapor and clouds in the sky, seawater in the oceans, icebergs in the polar oceans, glaciers in the mountains, fresh and salt water lakes, rivers, and aquifers in the ground.
+
+The major chemical and physical properties of water are:
+
+Water is a liquid at standard temperature and pressure. It is tasteless and odorless. The intrinsic colour of water and ice is a very slight blue hue, although both appear colorless in small quantities. Water vapour is essentially invisible as a gas.
+
+Water is transparent in the visible electromagnetic spectrum. Thus aquatic plants can live in water because sunlight can reach them. Infrared light is strongly absorbed by the hydrogen-oxygen or OH bonds.
+
+Since the water molecule is not linear and the oxygen atom has a higher electronegativity than hydrogen atoms, the oxygen atom carries a slight negative charge, whereas the hydrogen atoms are slightly positive. As a result, water is a polar molecule with an electrical dipole moment. Water also can form an unusually large number of intermolecular hydrogen bonds (four) for a molecule of its size. These factors lead to strong attractive forces between molecules of water, giving rise to water's high surface tension and capillary forces. The capillary action refers to the tendency of water to move up a narrow tube against the force of gravity. This property is relied upon by all vascular plants, such as trees.
+
+Water is a good polar solvent and is often referred to as the universal solvent. Substances that dissolve in water, e.g., salts, sugars, acids, alkalis, and some gases – especially oxygen and carbon dioxide (carbonation) – are known as hydrophilic (water-loving) substances, while those that are immiscible with water (e.g., fats and oils), are known as hydrophobic (water-fearing) substances.
+
+All of the components in cells (proteins, DNA and polysaccharides) are dissolved in water, deriving their structure and activity from their interactions with the water.
+
+Pure water has a low electrical conductivity, but this increases with the dissolution of a small amount of ionic material such as sodium chloride.
+
+The boiling point of water (and all other liquids) is dependent on the barometric pressure. For example, on the top of Mount Everest water boils at , compared to at sea level at a similar latitude (since latitude modifies atmospheric pressure slightly). Conversely, water deep in the ocean near geothermal vents can reach temperatures of hundreds of degrees and remain liquid.
+
+At 4181.3 J/(kg·K), water has a high specific heat capacity, as well as a high heat of vaporization (), both of which are a result of the extensive hydrogen bonding between its molecules. These two unusual properties allow water to moderate Earth's climate by buffering large fluctuations in temperature.
+
+The density of liquid water is at 4 °C. Ice has a density of .
+
+The maximum density of water occurs at . Most known pure substances become more dense as they cool, however water has the anomalous property of becoming less dense when it is cooled to its solid form, ice. During cooling water becomes more dense until reaching 3.98 °C. Below this temperature, the open structure of ice is gradually formed in the low temperature water; the random orientations of the water molecules in the liquid are maintained by the thermal motion, and below 3.98 °C there is not enough thermal energy to maintain this randomness. As water is cooled there are two competing effects: 1) decreasing volume, and 2) increase overall volume of the liquid as the molecules begin to orient into the organized structure of ice. Between 3.98 °C and 0 °C, the second effect will cancel the first effect so the net effect is an increase of volume with decreasing temperature. Water expands to occupy a 9% greater volume as ice, which accounts for the fact that ice floats on liquid water, as in icebergs.
+
+Water is miscible with many liquids, such as ethanol, in all proportions, forming a single homogeneous liquid. On the other hand, water and most oils are immiscible, usually forming layers with the least dense liquid as the top layer, and the most dense layer at the bottom.
+
+Water forms an azeotrope with many other solvents.
+
+Water can be split by electrolysis into hydrogen and oxygen. The energy required to split water into hydrogen and oxygen by electrolysis or any other means is greater than the energy that can be collected when the hydrogen and oxygen recombine.
+
+As an oxide of hydrogen, water is formed when hydrogen or hydrogen-containing compounds burn or react with oxygen or oxygen-containing compounds. Water is not a fuel, it is an end-product of the combustion of hydrogen.
+
+Elements which are more electropositive than hydrogen such as lithium, sodium, calcium, potassium and caesium displace hydrogen from water, forming hydroxides. Being a flammable gas, the hydrogen given off is dangerous and the reaction of water with the more electropositive of these elements may be violently explosive.
+
+2. Taste and odor
+
+Pure H2O is tasteless and odorless.
+
+Water can dissolve many different substances, giving it varying tastes and odors. Humans, and other animals, have developed senses that enable them to evaluate the potability of water by avoiding water that is too salty or putrid.
+
+The taste of spring water and mineral water, often advertised in marketing of consumer products, derives from the minerals dissolved in it. The advertised purity of spring and mineral water refers to absence of toxins, pollutants, and microbes, not to the absence of naturally occurring minerals.
+
+3. Distribution in nature
+
+3.1. In the universe
+
+Much of the universe's water is produced as a byproduct of star formation. When stars are born, their birth is accompanied by a strong outward wind of gas and dust. When this outflow of material eventually impacts the surrounding gas, the shock waves that are created compress and heat the gas. The water observed is quickly produced in this warm dense gas.
+
+On 22 July 2011 a report described the discovery of a gigantic cloud of water vapor containing "140 trillion times more water than all of Earth's oceans combined" around a quasar located 12 billion light years from Earth. According to the researchers, the "discovery shows that water has been prevalent in the universe for nearly its entire existence".
+
+Water has been detected in interstellar clouds within our galaxy, the Milky Way. Water probably exists in abundance in other galaxies, too, because its components, hydrogen and oxygen, are among the most abundant elements in the universe. Based on models of the formation and evolution of the Solar System and that of other star systems, most other planetary systems are likely to have similar ingredients.
+
+3.1.1. Water vapor
+
+Water is present as vapor in:
+
+Atmosphere of the Sun: in detectable trace amounts
+
+Atmosphere of Mercury: 3.4%, and large amounts of water in Mercury's exosphere
+
+Atmosphere of Venus: 0.002%
+
+Earth's atmosphere: ~0.40% over full atmosphere, typically 1–4% at surface; as well as that of the Moon in trace amounts
+
+Atmosphere of Mars: 0.03%
+
+Atmosphere of Ceres
+
+Atmosphere of Jupiter: 0.0004% – in ices only; and that of its moon Europa
+
+Atmosphere of Saturn – in ices only; and that of its moons Titan (stratospheric), Enceladus: 91% and Dione (exosphere)
+
+Atmosphere of Uranus - in trace amounts below 50 bar
+
+Atmosphere of Neptune - found in the deeper layers
+
+Extrasolar planet atmospheres: including those of HD 189733 b and HD 209458 b, Tau Boötis b, HAT-P-11b, XO-1b, WASP-12b, WASP-17b, and WASP-19b.
+
+Stellar atmospheres: not limited to cooler stars and even detected in giant hot stars such as Betelgeuse, Mu Cephei, Antares and Arcturus.
+
+Circumstellar disks: including those of more than half of T Tauri stars such as AA Tauri as well as TW Hydrae, IRC +10216 and APM 08279+5255, VY Canis Majoris and S Persei.
+
+3.1.2. Liquid water
+
+Liquid water is known to be present on Earth, covering 71% of our planet's surface. Scientists believe liquid water is present in the Saturnian moons of Enceladus, as a 10 kilometre thick ocean approximately 30-40 kilometres below Enceladus' south polar surface, and Titan, as a subsurface layer, possibly mixed with ammonia. Liquid water may also exist on Jupiter's moon Ganymede as a layer sandwiched between high pressure ice and rock.
+
+3.1.3. Water ice
+
+Water is present as ice on:
+
+Mars: under the regolith and at the poles
+
+Earth-Moon system: mainly as ice sheets on Earth and in Lunar craters and volcanic rocks NASA reported the detection of water molecules by NASA's Moon Mineralogy Mapper aboard the Indian Space Research Organization's Chandrayaan-1 spacecraft in September 2009.
+
+Jupiter's moons: Europa's surface and also that of Ganymede
+
+Saturn: in the planet's ring system and on the surface and mantle of Titan and Enceladus
+
+Pluto-Charon system
+
+Comets and related (Kuiper belt and Oort cloud objects). And may also be present on:
+
+Mercury's poles
+
+Ceres
+
+Tethys
+
+3.1.4. Exotic forms
+
+Water and other volatiles probably comprise much of the internal structures of Uranus and Neptune and the water in the deeper layers may be in the form of ionic water in which the molecules break down into a soup of hydrogen and oxygen ions, and deeper down as superionic water in which the oxygen crystallises but the hydrogen ions float around freely within the oxygen lattice.
+
+3.2. Water and habitable zone
+
+The existence of liquid water, and to a lesser extent its gaseous and solid forms, on Earth are vital to the existence of life on Earth as we know it. The Earth is located in the habitable zone of the solar system; if it were slightly closer to or farther from the Sun (about 5%, or about 8 million kilometers), the conditions which allow the three forms to be present simultaneously would be far less likely to exist.
+
+Earth's gravity allows it to hold an atmosphere. Water vapor and carbon dioxide in the atmosphere provide a temperature buffer (greenhouse effect) which helps maintain a relatively steady surface temperature. If Earth were smaller, a thinner atmosphere would allow temperature extremes, thus preventing the accumulation of water except in polar ice caps (as on Mars).
+
+The surface temperature of Earth has been relatively constant through geologic time despite varying levels of incoming solar radiation (insolation), indicating that a dynamic process governs Earth's temperature via a combination of greenhouse gases and surface or atmospheric albedo. This proposal is known as the Gaia hypothesis.
+
+The state of water on a planet depends on ambient pressure, which is determined by the planet's gravity. If a planet is sufficiently massive, the water on it may be solid even at high temperatures, because of the high pressure caused by gravity, as it was observed on exoplanets Gliese 436 b and GJ 1214 b.
+
+4. On Earth
+
+Hydrology is the study of the movement, distribution, and quality of water throughout the Earth. The study of the distribution of water is hydrography. The study of the distribution and movement of groundwater is hydrogeology, of glaciers is glaciology, of inland waters is limnology and distribution of oceans is oceanography. Ecological processes with hydrology are in focus of ecohydrology.
+
+The collective mass of water found on, under, and over the surface of a planet is called the hydrosphere. Earth's approximate water volume (the total water supply of the world) is 1,338,000,000 km3 (321,000,000 mi3).
+
+Liquid water is found in bodies of water, such as an ocean, sea, lake, river, stream, canal, pond, or puddle. The majority of water on Earth is sea water. Water is also present in the atmosphere in solid, liquid, and vapor states. It also exists as groundwater in aquifers.
+
+Water is important in many geological processes. Groundwater is present in most rocks, and the pressure of this groundwater affects patterns of faulting. Water in the mantle is responsible for the melt that produces volcanoes at subduction zones. On the surface of the Earth, water is important in both chemical and physical weathering processes. Water, and to a lesser but still significant extent, ice, are also responsible for a large amount of sediment transport that occurs on the surface of the earth. Deposition of transported sediment forms many types of sedimentary rocks, which make up the geologic record of Earth history.
+
+4.1. Water cycle
+
+The water cycle (known scientifically as the hydrologic cycle) refers to the continuous exchange of water within the hydrosphere, between the atmosphere, soil water, surface water, groundwater, and plants.
+
+Water moves perpetually through each of these regions in the water cycle consisting of following transfer processes:
+
+evaporation from oceans and other water bodies into the air and transpiration from land plants and animals into air.
+
+precipitation, from water vapor condensing from the air and falling to earth or ocean.
+
+runoff from the land usually reaching the sea. Most water vapor over the oceans returns to the oceans, but winds carry water vapor over land at the same rate as runoff into the sea, about 47 Tt per year. Over land, evaporation and transpiration contribute another 72 Tt per year. Precipitation, at a rate of 119 Tt per year over land, has several forms: most commonly rain, snow, and hail, with some contribution from fog and dew. Dew is small drops of water that are condensed when a high density of water vapor meets a cool surface. Dew usually forms in the morning when the temperature is the lowest, just before sunrise and when the temperature of the earth's surface starts to increase. Condensed water in the air may also refract sunlight to produce rainbows.
+
+Water runoff often collects over watersheds flowing into rivers. A mathematical model used to simulate river or stream flow and calculate water quality parameters is a hydrological transport model. Some water is diverted to irrigation for agriculture. Rivers and seas offer opportunity for travel and commerce. Through erosion, runoff shapes the environment creating river valleys and deltas which provide rich soil and level ground for the establishment of population centers. A flood occurs when an area of land, usually low-lying, is covered with water. It is when a river overflows its banks or flood comes from the sea. A drought is an extended period of months or years when a region notes a deficiency in its water supply. This occurs when a region receives consistently below average precipitation.
+
+4.2. Fresh water storage
+
+Some runoff water is trapped for periods of time, for example in lakes. At high altitude, during winter, and in the far north and south, snow collects in ice caps, snow pack and glaciers. Water also infiltrates the ground and goes into aquifers. This groundwater later flows back to the surface in springs, or more spectacularly in hot springs and geysers. Groundwater is also extracted artificially in wells. This water storage is important, since clean, fresh water is essential to human and other land-based life. In many parts of the world, it is in short supply.
+
+4.3. Sea water
+
+Sea water contains about 3.5% salt on average, plus smaller amounts of other substances. The physical properties of sea water differ from fresh water in some important respects. It freezes at a lower temperature (about −1.9 °C) and its density increases with decreasing temperature to the freezing point, instead of reaching maximum density at a temperature above freezing. The salinity of water in major seas varies from about 0.7% in the Baltic Sea to 4.0% in the Red Sea.
+
+4.4. Tides
+
+Tides are the cyclic rising and falling of local sea levels caused by the tidal forces of the Moon and the Sun acting on the oceans. Tides cause changes in the depth of the marine and estuarine water bodies and produce oscillating currents known as tidal streams. The changing tide produced at a given location is the result of the changing positions of the Moon and Sun relative to the Earth coupled with the effects of Earth rotation and the local bathymetry. The strip of seashore that is submerged at high tide and exposed at low tide, the intertidal zone, is an important ecological product of ocean tides.
+
+5. Effects on life
+
+From a biological standpoint, water has many distinct properties that are critical for the proliferation of life that set it apart from other substances. It carries out this role by allowing organic compounds to react in ways that ultimately allow replication. All known forms of life depend on water. Water is vital both as a solvent in which many of the body's solutes dissolve and as an essential part of many metabolic processes within the body. Metabolism is the sum total of anabolism and catabolism. In anabolism, water is removed from molecules (through energy requiring enzymatic chemical reactions) in order to grow larger molecules (e.g. starches, triglycerides and proteins for storage of fuels and information). In catabolism, water is used to break bonds in order to generate smaller molecules (e.g. glucose, fatty acids and amino acids to be used for fuels for energy use or other purposes). Without water, these particular metabolic processes could not exist.
+
+Water is fundamental to photosynthesis and respiration. Photosynthetic cells use the sun's energy to split off water's hydrogen from oxygen. Hydrogen is combined with CO2 (absorbed from air or water) to form glucose and release oxygen. All living cells use such fuels and oxidize the hydrogen and carbon to capture the sun's energy and reform water and CO2 in the process (cellular respiration).
+
+Water is also central to acid-base neutrality and enzyme function. An acid, a hydrogen ion (H+, that is, a proton) donor, can be neutralized by a base, a proton acceptor such as a hydroxide ion (OH−) to form water. Water is considered to be neutral, with a pH (the negative log of the hydrogen ion concentration) of 7. Acids have pH values less than 7 while bases have values greater than 7.
+
+5.1. Aquatic life forms
+
+Earth surface waters are filled with life. The earliest life forms appeared in water; nearly all fish live exclusively in water, and there are many types of marine mammals, such as dolphins and whales. Some kinds of animals, such as amphibians, spend portions of their lives in water and portions on land. Plants such as kelp and algae grow in the water and are the basis for some underwater ecosystems. Plankton is generally the foundation of the ocean food chain.
+
+Aquatic vertebrates must obtain oxygen to survive, and they do so in various ways. Fish have gills instead of lungs, although some species of fish, such as the lungfish, have both. Marine mammals, such as dolphins, whales, otters, and seals need to surface periodically to breathe air. Some amphibians are able to absorb oxygen through their skin. Invertebrates exhibit a wide range of modifications to survive in poorly oxygenated waters including breathing tubes (see insect and mollusc siphons) and gills (Carcinus). However as invertebrate life evolved in an aquatic habitat most have little or no specialisation for respiration in water.
+
+6. Effects on human civilization
+
+Civilization has historically flourished around rivers and major waterways; Mesopotamia, the so-called cradle of civilization, was situated between the major rivers Tigris and Euphrates; the ancient society of the Egyptians depended entirely upon the Nile. Large metropolises like Rotterdam, London, Montreal, Paris, New York City, Buenos Aires, Shanghai, Tokyo, Chicago, and Hong Kong owe their success in part to their easy accessibility via water and the resultant expansion of trade. Islands with safe water ports, like Singapore, have flourished for the same reason. In places such as North Africa and the Middle East, where water is more scarce, access to clean drinking water was and is a major factor in human development.
+
+6.1. Health and pollution
+
+Water fit for human consumption is called drinking water or potable water. Water that is not potable may be made potable by filtration or distillation, or by a range of other methods.
+
+Water that is not fit for drinking but is not harmful for humans when used for swimming or bathing is called by various names other than potable or drinking water, and is sometimes called safe water, or "safe for bathing". Chlorine is a skin and mucous membrane irritant that is used to make water safe for bathing or drinking. Its use is highly technical and is usually monitored by government regulations (typically 1 part per million (ppm) for drinking water, and 1–2 ppm of chlorine not yet reacted with impurities for bathing water). Water for bathing may be maintained in satisfactory microbiological condition using chemical disinfectants such as chlorine or ozone or by the use of ultraviolet light.
+
+In the USA, non-potable forms of wastewater generated by humans may be referred to as greywater, which is treatable and thus easily able to be made potable again, and blackwater, which generally contains sewage and other forms of waste which require further treatment in order to be made reusable. Greywater composes 50–80% of residential wastewater generated by a household's sanitation equipment (sinks, showers and kitchen runoff, but not toilets, which generate blackwater.) These terms may have different meanings in other countries and cultures.
+
+This natural resource is becoming scarcer in certain places, and its availability is a major social and economic concern. Currently, about a billion people around the world routinely drink unhealthy water. Most countries accepted the goal of halving by 2015 the number of people worldwide who do not have access to safe water and sanitation during the 2003 G8 Evian summit. Even if this difficult goal is met, it will still leave more than an estimated half a billion people without access to safe drinking water and over a billion without access to adequate sanitation. Poor water quality and bad sanitation are deadly; some five million deaths a year are caused by polluted drinking water. The World Health Organization estimates that safe water could prevent 1.4 million child deaths from diarrhea each year.
+
+Water, however, is not a finite resource, but rather re-circulated as potable water in precipitation in quantities many degrees of magnitude higher than human consumption. Therefore, it is the relatively small quantity of water in reserve in the earth (about 1% of our drinking water supply, which is replenished in aquifers around every 1 to 10 years), that is a non-renewable resource, and it is, rather, the distribution of potable and irrigation water which is scarce, rather than the actual amount of it that exists on the earth. Water-poor countries use importation of goods as the primary method of importing water (to leave enough for local human consumption), since the manufacturing process uses around 10 to 100 times products' masses in water.
+
+In the developing world, 90% of all wastewater still goes untreated into local rivers and streams. Some 50 countries, with roughly a third of the world's population, also suffer from medium or high water stress, and 17 of these extract more water annually than is recharged through their natural water cycles. The strain not only affects surface freshwater bodies like rivers and lakes, but it also degrades groundwater resources.
+
+6.2. Human uses
+
+6.2.1. Agriculture
+
+The most important use of water in agriculture is for irrigation, which is a key component to produce enough food. Irrigation takes up to 90% of water withdrawn in some developing countries and significant proportions in more economically developed countries (United States, 30% of freshwater usage is for irrigation).
+
+Fifty years ago, the common perception was that water was an infinite resource. At this time, there were fewer than half the current number of people on the planet. People were not as wealthy as today, consumed fewer calories and ate less meat, so less water was needed to produce their food. They required a third of the volume of water we presently take from rivers. Today, the competition for the fixed amount of water resources is much more intense, giving rise to the concept of peak water. This is because there are now nearly seven billion people on the planet, their consumption of water-thirsty meat and vegetables is rising, and there is increasing competition for water from industry, urbanisation and biofuel crops. In future, even more water will be needed to produce food because the Earth's population is forecast to rise to 9 billion by 2050.
+
+An assessment of water management in agriculture was conducted in 2007 by the International Water Management Institute in Sri Lanka to see if the world had sufficient water to provide food for its growing population. It assessed the current availability of water for agriculture on a global scale and mapped out locations suffering from water scarcity. It found that a fifth of the world's people, more than 1.2 billion, live in areas of physical water scarcity, where there is not enough water to meet all demands. A further 1.6 billion people live in areas experiencing economic water scarcity, where the lack of investment in water or insufficient human capacity make it impossible for authorities to satisfy the demand for water. The report found that it would be possible to produce the food required in future, but that continuation of today's food production and environmental trends would lead to crises in many parts of the world. To avoid a global water crisis, farmers will have to strive to increase productivity to meet growing demands for food, while industry and cities find ways to use water more efficiently.
+
+6.2.2. As a scientific standard
+
+On 7 April 1795, the gram was defined in France to be equal to "the absolute weight of a volume of pure water equal to a cube of one hundredth of a meter, and at the temperature of melting ice." For practical purposes though, a metallic reference standard was required, one thousand times more massive, the kilogram. Work was therefore commissioned to determine precisely the mass of one liter of water. In spite of the fact that the decreed definition of the gram specified water at 0 °C — a highly reproducible temperature — the scientists chose to redefine the standard and to perform their measurements at the temperature of highest water density, which was measured at the time as .
+
+The Kelvin temperature scale of the SI system is based on the triple point of water, defined as exactly 273.16 K or 0.01 °C. The scale is an absolute temperature scale with the same increment as the Celsius temperature scale, which was originally defined according the boiling point (set to 100 °C) and melting point (set to 0 °C) of water.
+
+Natural water consists mainly of the isotopes hydrogen-1 and oxygen-16, but there is also a small quantity of heavier isotopes such as hydrogen-2 (deuterium). The amount of deuterium oxides or heavy water is very small, but it still affects the properties of water. Water from rivers and lakes tends to contain less deuterium than seawater. Therefore, standard water is defined in the Vienna Standard Mean Ocean Water specification.
+
+6.2.3. For drinking
+
+The human body contains from 55% to 78% water, depending on body size. To function properly, the body requires between one and seven liters of water per day to avoid dehydration; the precise amount depends on the level of activity, temperature, humidity, and other factors. Most of this is ingested through foods or beverages other than drinking straight water. It is not clear how much water intake is needed by healthy people, though most specialists agree that approximately 2 liters (6 to 7 glasses) of water daily is the minimum to maintain proper hydration. Medical literature favors a lower consumption, typically 1 liter of water for an average male, excluding extra requirements due to fluid loss from exercise or warm weather.
+
+For those who have healthy kidneys, it is rather difficult to drink too much water, but (especially in warm humid weather and while exercising) it is dangerous to drink too little. People can drink far more water than necessary while exercising, however, putting them at risk of water intoxication (hyperhydration), which can be fatal. The popular claim that "a person should consume eight glasses of water per day" seems to have no real basis in science. Similar misconceptions concerning the effect of water on weight loss and constipation have also been dispelled.
+
+An original recommendation for water intake in 1945 by the Food and Nutrition Board of the United States National Research Council read: "An ordinary standard for diverse persons is 1 milliliter for each calorie of food. Most of this quantity is contained in prepared foods." The latest dietary reference intake report by the United States National Research Council in general recommended (including food sources): 3.7 liters for men and 2.7 liters of water total for women.
+
+Specifically, pregnant and breastfeeding women need additional fluids to stay hydrated. The Institute of Medicine (U.S.) recommends that, on average, men consume 3.0 liters and women 2.2 liters; pregnant women should increase intake to 2.4 liters (10 cups) and breastfeeding women should get 3 liters (12 cups), since an especially large amount of fluid is lost during nursing. Also noted is that normally, about 20% of water intake comes from food, while the rest comes from drinking water and beverages (caffeinated included). Water is excreted from the body in multiple forms; through urine and feces, through sweating, and by exhalation of water vapor in the breath. With physical exertion and heat exposure, water loss will increase and daily fluid needs may increase as well.
+
+Humans require water with few impurities. Common impurities include metal salts and oxides, including copper, iron, calcium and lead, and/or harmful bacteria, such as Vibrio. Some solutes are acceptable and even desirable for taste enhancement and to provide needed electrolytes.
+
+The single largest (by volume) freshwater resource suitable for drinking is Lake Baikal in Siberia.
+
+6.2.4. Washing
+
+The propensity of water to form solutions and emulsions is useful in various washing processes. Many industrial processes rely on reactions using chemicals dissolved in water, suspension of solids in water slurries or using water to dissolve and extract substances. Washing is also an important component of several aspects of personal body hygiene.
+
+6.2.5. Transportation
+
+The use of water for transportation of materials through rivers and canals as well as the international shipping lanes is an important part of the world economy.
+
+6.2.6. Chemical uses
+
+Water is widely used in chemical reactions as a solvent or reactant and less commonly as a solute or catalyst. In inorganic reactions, water is a common solvent, dissolving many ionic compounds. In organic reactions, it is not usually used as a reaction solvent, because it does not dissolve the reactants well and is amphoteric (acidic and basic) and nucleophilic. Nevertheless, these properties are sometimes desirable. Also, acceleration of Diels-Alder reactions by water has been observed. Supercritical water has recently been a topic of research. Oxygen-saturated supercritical water combusts organic pollutants efficiently.
+
+6.2.7. Heat exchange
+
+Water and steam are a common fluid used for heat exchange, due to its availability and high heat capacity, both for cooling and heating. Cool water may even be naturally available from a lake or the sea. It's especially effective to transport heat through vaporization and condensation of water because of its large latent heat of vaporization. A disadvantage is that metals commonly found in industries such as steel and copper are oxidized faster by untreated water and steam. In almost all thermal power stations, water is used as the working fluid (used in a closed loop between boiler, steam turbine and condenser), and the coolant (used to exchange the waste heat to a water body or carry it away by evaporation in a cooling tower). In the United States, cooling power plants is the largest use of water.
+
+In the nuclear power industry, water can also be used as a neutron moderator. In most nuclear reactors, water is both a coolant and a moderator. This provides something of a passive safety measure, as removing the water from the reactor also slows the nuclear reaction down. However other methods are favored for stopping a reaction and it is preferred to keep the nuclear core covered with water so as to ensure adequate cooling.
+
+6.2.8. Fire extinction
+
+Water has a high heat of vaporization and is relatively inert, which makes it a good fire extinguishing fluid. The evaporation of water carries heat away from the fire. It is dangerous to use water on fires involving oils and organic solvents, because many organic materials float on water and the water tends to spread the burning liquid.
+
+Use of water in fire fighting should also take into account the hazards of a steam explosion, which may occur when water is used on very hot fires in confined spaces, and of a hydrogen explosion, when substances which react with water, such as certain metals or hot carbon such as coal, charcoal, or coke graphite, decompose the water, producing water gas.
+
+The power of such explosions was seen in the Chernobyl disaster, although the water involved did not come from fire-fighting at that time but the reactor's own water cooling system. A steam explosion occurred when the extreme overheating of the core caused water to flash into steam. A hydrogen explosion may have occurred as a result of reaction between steam and hot zirconium.
+
+6.2.9. Recreation
+
+Humans use water for many recreational purposes, as well as for exercising and for sports. Some of these include swimming, waterskiing, boating, surfing and diving. In addition, some sports, like ice hockey and ice skating, are played on ice. Lakesides, beaches and water parks are popular places for people to go to relax and enjoy recreation. Many find the sound and appearance of flowing water to be calming, and fountains and other water features are popular decorations. Some keep fish and other life in aquariums or ponds for show, fun, and companionship. Humans also use water for snow sports i.e. skiing, sledding, snowmobiling or snowboarding, which require the water to be frozen.
+
+6.2.10. Water industry
+
+The water industry provides drinking water and wastewater services (including sewage treatment) to households and industry. Water supply facilities include water wells, cisterns for rainwater harvesting, water supply networks, and water purification facilities, water tanks, water towers, water pipes including old aqueducts. Atmospheric water generators are in development.
+
+Drinking water is often collected at springs, extracted from artificial borings (wells) in the ground, or pumped from lakes and rivers. Building more wells in adequate places is thus a possible way to produce more water, assuming the aquifers can supply an adequate flow. Other water sources include rainwater collection. Water may require purification for human consumption. This may involve removal of undissolved substances, dissolved substances and harmful microbes. Popular methods are filtering with sand which only removes undissolved material, while chlorination and boiling kill harmful microbes. Distillation does all three functions. More advanced techniques exist, such as reverse osmosis. Desalination of abundant seawater is a more expensive solution used in coastal arid climates.
+
+The distribution of drinking water is done through municipal water systems, tanker delivery or as bottled water. Governments in many countries have programs to distribute water to the needy at no charge.
+
+Reducing usage by using drinking (potable) water only for human consumption is another option. In some cities such as Hong Kong, sea water is extensively used for flushing toilets citywide in order to conserve fresh water resources.
+
+Polluting water may be the biggest single misuse of water; to the extent that a pollutant limits other uses of the water, it becomes a waste of the resource, regardless of benefits to the polluter. Like other types of pollution, this does not enter standard accounting of market costs, being conceived as externalities for which the market cannot account. Thus other people pay the price of water pollution, while the private firms' profits are not redistributed to the local population, victims of this pollution. Pharmaceuticals consumed by humans often end up in the waterways and can have detrimental effects on aquatic life if they bioaccumulate and if they are not biodegradable.
+
+Wastewater facilities are storm sewers and wastewater treatment plants. Another way to remove pollution from surface runoff water is bioswale.
+
+6.2.11. Industrial applications
+
+Water is used in power generation. Hydroelectricity is electricity obtained from hydropower. Hydroelectric power comes from water driving a water turbine connected to a generator. Hydroelectricity is a low-cost, non-polluting, renewable energy source. The energy is supplied by the motion of water. Typically a dam is constructed on a river, creating an artificial lake behind it. Water flowing out of the lake is forced through turbines that turn generators.
+
+Pressurized water is used in water blasting and water jet cutters. Also, very high pressure water guns are used for precise cutting. It works very well, is relatively safe, and is not harmful to the environment. It is also used in the cooling of machinery to prevent overheating, or prevent saw blades from overheating.
+
+Water is also used in many industrial processes and machines, such as the steam turbine and heat exchanger, in addition to its use as a chemical solvent. Discharge of untreated water from industrial uses is pollution. Pollution includes discharged solutes (chemical pollution) and discharged coolant water (thermal pollution). Industry requires pure water for many applications and utilizes a variety of purification techniques both in water supply and discharge.
+
+6.2.12. Food processing
+
+Boiling, steaming, and simmering are popular cooking methods that often require immersing food in water or its gaseous state, steam. Water is also used for dishwashing. Water also plays many critical roles within the field of food science. It is important for a food scientist to understand the roles that water plays within food processing to ensure the success of their products.
+
+Solutes such as salts and sugars found in water affect the physical properties of water. The boiling and freezing points of water are affected by solutes, as well as air pressure, which is in turn is affected by altitude. Water boils at lower temperatures with the lower air pressure that occurs at higher elevations. One mole of sucrose (sugar) per kilogram of water raises the boiling point of water by 0.51 °C (32.918 °F), and one mole of salt per kg raises the boiling point by 1.02 °C (33.836 °F); similarly, increasing the number of dissolved particles lowers water's freezing point.
+
+Solutes in water also affect water activity that affects many chemical reactions and the growth of microbes in food. Water activity can be described as a ratio of the vapor pressure of water in a solution to the vapor pressure of pure water. Solutes in water lower water activity—this is important to know because most bacterial growth ceases at low levels of water activity. Not only does microbial growth affect the safety of food, but also the preservation and shelf life of food.
+
+Water hardness is also a critical factor in food processing and may be altered or treated by using a chemical ion exchange system. It can dramatically affect the quality of a product, as well as playing a role in sanitation. Water hardness is classified based on the amounts of removable calcium carbonate salt the water contains per gallon. Water hardness is measured in grains: 0.064 g calcium carbonate is equivalent to one grain of hardness. Water is classified as soft if it contains 1 to 4 grains, medium if it contains 5 to 10 grains and hard if it contains 11 to 20 grains.
+
+The hardness of water also affects its pH balance, which plays a critical role in food processing. For example, hard water prevents successful production of clear beverages. Water hardness also affects sanitation; with increasing hardness, there is a loss of effectiveness for its use as a sanitizer.
+
+According to a report published by the Water Footprint organization in 2010, a single kilogram of beef requires 15 thousand litres of water; however, the authors also make clear that this is a global average and circumstantial factors determine the amount of water used in beef production.
+
+7. Law, politics, and crisis
+
+Water politics is politics affected by water and water resources. For this reason, water is a strategic resource in the globe and an important element in many political conflicts. It causes health impacts and damage to biodiversity.
+
+1.6 billion people have gained access to a safe water source since 1990. The proportion of people in developing countries with access to safe water is calculated to have improved from 30% in 1970 to 71% in 1990, 79% in 2000 and 84% in 2004. This trend is projected to continue. To halve, by 2015, the proportion of people without sustainable access to safe drinking water is one of the Millennium Development Goals. This goal is projected to be reached.
+
+A 2006 United Nations report stated that "there is enough water for everyone", but that access to it is hampered by mismanagement and corruption. In addition, global initiatives to improve the efficiency of aid delivery, such as the Paris Declaration on Aid Effectiveness, have not been taken up by water sector donors as effectively as they have in education and health, potentially leaving multiple donors working on overlapping projects and recipient governments without empowerment to act.
+
+The authors of the 2007 Comprehensive Assessment of Water Management in Agriculture cited poor governance as one reason for some forms of water scarcity. Water governance is the set of formal and informal processes through which decisions related to water management are made. Good water governance is primarily about knowing what processes work best in a particular physical and socioeconomic context. Mistakes have sometimes been made by trying to apply 'blueprints' that work in the developed world to developing world locations and contexts. The Mekong river is one example; a review by the International Water Management Institute of policies in six countries that rely on the Mekong river for water found that thorough and transparent cost-benefit analyses and environmental impact assessments were rarely undertaken. They also discovered that Cambodia's draft water law was much more complex than it needed to be.
+
+The UN World Water Development Report (WWDR, 2003) from the World Water Assessment Program indicates that, in the next 20 years, the quantity of water available to everyone is predicted to decrease by 30%. 40% of the world's inhabitants currently have insufficient fresh water for minimal hygiene. More than 2.2 million people died in 2000 from waterborne diseases (related to the consumption of contaminated water) or drought. In 2004, the UK charity WaterAid reported that a child dies every 15 seconds from easily preventable water-related diseases; often this means lack of sewage disposal; see toilet.
+
+Organizations concerned with water protection include the International Water Association (IWA), WaterAid, Water 1st, and the American Water Resources Association. The International Water Management Institute undertakes projects with the aim of using effective water management to reduce poverty. Water related conventions are United Nations Convention to Combat Desertification (UNCCD), International Convention for the Prevention of Pollution from Ships, United Nations Convention on the Law of the Sea and Ramsar Convention. World Day for Water takes place on 22 March and World Ocean Day on 8 June.
+
+8. In culture
+
+8.1. Religion
+
+Water is considered a purifier in most religions. Faiths that incorporate ritual washing (ablution) include Christianity, Hinduism, Islam, Judaism, the Rastafari movement, Shinto, Taoism, and Wicca. Immersion (or aspersion or affusion) of a person in water is a central sacrament of Christianity (where it is called baptism); it is also a part of the practice of other religions, including Islam (Ghusl), Judaism (mikvah) and Sikhism (Amrit Sanskar). In addition, a ritual bath in pure water is performed for the dead in many religions including Islam and Judaism. In Islam, the five daily prayers can be done in most cases after completing washing certain parts of the body using clean water (wudu), unless water is unavailable (see Tayammum). In Shinto, water is used in almost all rituals to cleanse a person or an area (e.g., in the ritual of misogi).
+
+8.2. Philosophy
+
+The Ancient Greek philosopher Empedocles held that water is one of the four classical elements along with fire, earth and air, and was regarded as the ylem, or basic substance of the universe. Thales, who was portrayed by Aristotle as an astronomer and an engineer, theorized that the earth, which is denser than water, emerged from water. Thales, a monist, believed further that all things are made from water. Plato believed the shape of water is an icosahedron which accounts for why it is able to flow easily compared to the cube shaped earth.
+
+In the theory of the four bodily humors, water was associated with phlegm, as being cold and moist. The classical element of water was also one of the five elements in traditional Chinese philosophy, along with earth, fire, wood, and metal.
+
+Water is also taken as a role model in some parts of traditional and popular Asian philosophy. James Legge's 1891 translation of the Dao De Jing states "The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike. Hence (its way) is near to (that of) the Tao" and "There is nothing in the world more soft and weak than water, and yet for attacking things that are firm and strong there is nothing that can take precedence of it—for there is nothing (so effectual) for which it can be changed." Guanzi in "Shui di" 水地 chapter further elaborates on symbolism of water, proclaiming that "man is water" and attributing natural qualities of the people of different Chinese regions to the character of local water resources.
+
+9. See also
+
+The water (data page) is a collection of the chemical and physical properties of water. Water is described in many terms and contexts:
+
+according to state
+
+solid – ice
+
+liquid – water
+
+gaseous – water vapor
+
+plasma
+
+according to meteorology:
+
+hydrometeor
+
+precipitation |- |     ||precipitation according to movement||  ||precipitation according to state |- |  |valign=top|
+
+vertical (falling) precipitation
+
+rain
+
+freezing rain
+
+drizzle
+
+freezing drizzle
+
+snow
+
+snow pellets
+
+snow grains
+
+ice pellets
+
+hail
+
+ice crystals
+
+horizontal (seated) precipitation
+
+dew
+
+hoarfrost
+
+atmospheric icing
+
+glaze ice ||   |valign=top|
+
+liquid precipitation
+
+rain
+
+freezing rain
+
+drizzle
+
+freezing drizzle
+
+dew
+
+solid precipitation
+
+snow
+
+snow pellets
+
+snow grains
+
+ice pellets
+
+hail
+
+ice crystals
+
+hoarfrost
+
+atmospheric icing
+
+glaze ice
+
+mixed precipitation
+
+in temperatures around 0 °C |}
+
+levitating particles
+
+clouds
+
+fog
+
+mist
+
+ascending particles (drifted by wind)
+
+spindrift
+
+stirred snow
+
+according to occurrence
+
+brackish water
+
+brine
+
+connate water
+
+dead water – strange phenomenon which can occur when a layer of fresh or brackish water rests on top of denser salt water, without the two layers mixing. It is dangerous for ship traveling.
+
+fresh water
+
+groundwater
+
+meltwater
+
+meteoric water
+
+mineral water – contains many minerals
+
+seawater
+
+surface water
+
+according to uses
+
+bottled water
+
+drinking water or potable water – useful for everyday drinking, without fouling, it contains balanced minerals that are not harmful to health (see below)
+
+purified water, laboratory-grade, analytical-grade or reagent-grade water – water which has been highly purified for specific uses in science or engineering. Often broadly classified as Type I, Type II, or Type III, this category of water includes, but is not limited to, the following:
+
+deionized water
+
+distilled water
+
+double distilled water
+
+reverse osmosis plant water
+
+tap water
+
+according to other features
+
+distilled water, double distilled water, deionized water – contains no minerals
+
+hard water – from underground, contains more minerals
+
+heavy water – made from heavy atoms of hydrogen – deuterium. It is in nature in normal water in very low concentration. It was used in construction of first nuclear reactors.
+
+hydrates – water bound into other chemical substances
+
+soft water – contains fewer minerals
+
+tritiated water
+
+water of crystallization – water incorporated into crystalline structures
+
+according to microbiology
+
+drinking water
+
+stormwater or surface water
+
+wastewater
+
+according to religion
+
+holy water
+
+9.1. Other topics
+
+Aquaphobia (fear of water)
+
+Dihydrogen monoxide hoax
+
+Drought
+
+Mirage
+
+Mpemba effect
+
+Oral rehydration therapy
+
+Ripple effect
+
+Thirst
+
+Water Pasteurization Indicator
+
+Water pinch analysis
+
+Willard Water
+
+10. References
+
+11. Further reading
+
+Debenedetti, PG., and HE Stanley, "Supercooled and Glassy Water", Physics Today 56 (6), p. 40–46 (2003).
+
+Franks, F (Ed), Water, A comprehensive treatise, Plenum Press, New York, 1972–1982
+
+Gleick, PH., (editor), The World's Water: The Biennial Report on Freshwater Resources. Island Press, Washington, D.C. (published every two years, beginning in 1998.)
+
+Jones, OA., JN Lester and N Voulvoulis, Pharmaceuticals: a threat to drinking water? TRENDS in Biotechnology 23(4): 163, 2005
+
+Postel,S., Last Oasis: Facing Water Scarcity. W.W. Norton and Company, New York. 1992
+
+Reisner,M., Cadillac Desert: The American West and Its Disappearing Water. Penguin Books, New York. 1986.
+
+United Nations World Water Development Report. Produced every three years.
+
+12. External links

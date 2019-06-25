@@ -1,0 +1,67 @@
+Rennet is a complex of enzymes produced in stomachs of ruminant mammals which is used in the production of most cheeses. Chymosin, its key component, is a protease enzyme that curdles the casein in milk, helping young mammals digest their mothers' milk. It can also be used to separate milk into solid curds used for cheesemaking and liquid whey. In addition to chymosin, rennet contains other important enzymes in it such as pepsin and a lipase. There are non-animal sources for rennet that are suitable for consumption by vegetarians.
+
+1. Production of natural calf rennet
+
+Natural calf rennet is extracted from the inner mucosa of the fourth stomach chamber (the abomasum) of slaughtered young, unweaned calves. These stomachs are a by-product of veal production. If rennet is extracted from older calves (grass-fed or grain-fed) the rennet contains less or no chymosin but a high level of pepsin and can only be used for special types of milk and cheeses. As each ruminant produces a special kind of rennet to digest the milk of its own species, there are milk-specific rennets available, such as kid goat rennet for goat's milk and lamb rennet for sheep's milk.
+
+1.1. Traditional method
+
+Dried and cleaned stomachs of young calves are sliced into small pieces and then put into saltwater or whey, together with some vinegar or wine to lower the pH of the solution. After some time (overnight or several days), the solution is filtered. The crude rennet that remains in the filtered solution can then be used to coagulate milk. About 1 gram of this solution can normally coagulate 2 to 4 litres of milk.
+
+1.2. Modern method
+
+Deep-frozen stomachs are milled and put into an enzyme-extracting solution. The crude rennet extract is then activated by adding acid; the enzymes in the stomach are produced in an inactive form and are activated by the stomach acid. The acid is then neutralized and the rennet extract is filtered in several stages and concentrated until reaching a typical potency of about 1:15,000; meaning 1 gram of extract can coagulate 15 kg (15 litres) of milk.
+
+In 1 kg of rennet extract, there are about 0.7 grams of active enzymes – the rest is water and salt and sometimes sodium benzoate, E211, 0.5% - 1% for preservation. Typically, 1 kg of cheese contains about 0.0003 grams of rennet enzymes.
+
+2. Alternative sources of rennet
+
+Because of the limited availability of mammalian stomachs for rennet production, cheese makers have looked for other ways to coagulate the milk since at least Roman times. There are many sources of enzymes, ranging from plants, fungi and microbial sources, that can be a substitute for animal rennet. Cheeses produced from any of these varieties of rennet are suitable for lacto-vegetarians to consume. Fermentation produced chymosin (FPC)(see below) is used more often in industrial cheesemaking in North America and Europe today because it is less expensive and of higher quality than animal rennet.
+
+2.1. Vegetable rennet
+
+Many plants have coagulating properties. Homer suggests in the Iliad that the Greeks used an extract of fig juice to coagulate milk. Other examples include dried caper leaves, nettles, thistles, mallow, and Ground Ivy (Creeping Charlie). Enzymes from thistle or cynara are used in some traditional cheese production in the Mediterranean. Phytic acid, derived from unfermented soybeans, or Fermentation-Produced Chymosin (FPC) may also be used.
+
+Vegetable rennets are also suitable for vegetarians. Vegetable rennet might be used in the production of kosher and halal cheeses but nearly all kosher cheeses are produced with either microbial rennet or FPC. Worldwide, there is no industrial production for vegetable rennet. Commercial so-called vegetable rennets usually contain rennet from the mold Mucor miehei - see microbial rennet below.
+
+2.2. Microbial rennet
+
+Some molds such as Rhizomucor miehei are able to produce proteolytic enzymes. These molds are produced in a fermenter and then specially concentrated and purified to avoid contamination with unpleasant byproducts of the mold growth. At the present state of scientific research, governmental food safety organizations such as the European Food Safety Authority deny QPS (Qualified Presumption of Safety) status to enzymes produced especially by these molds.
+
+The flavor and taste of cheeses produced with microbial rennets tend towards some bitterness, especially after longer maturation periods. Cheeses produced this way are suitable for vegetarians, provided no animal-based alimentation was used during the production.
+
+2.3. Fermentation-produced chymosin (FPC)
+
+Because of the above imperfections of microbial and animal rennets, many producers sought further replacements of rennet. With the development of genetic engineering, it became possible to extract rennet-producing genes from animal stomach and insert them into certain bacteria, fungi or yeasts to make them produce chymosin during fermentation. The genetically modified microorganism is killed after fermentation and chymosin isolated from the fermentation broth, so that the fermentation-produced chymosin (FPC) used by cheese producers does not contain any GM component or ingredient. FPC is identical with chymosin made by an animal, but is produced in a more efficient way. FPC products have been on the market since 1990 and have been considered in the last 20 years the ideal milk-clotting enzyme.
+
+FPC was the first artificially produced enzyme to be registered and allowed by the US Food and Drug Administration. In 1999, about 60% of US hard cheese was made with FPC and it has up to 80% of the global market share for rennet.
+
+By 2008, approximately 80% to 90% of commercially made cheeses in the US and Britain were made using FPC. Today, the most widely used Fermentation-Produced Chymosin (FPC) is produced either by the fungus Aspergillus niger and commercialized under the trademark CHY-MAX® by the Danish company Chr. Hansen, or produced by Kluyveromyces lactis and commercialized under the trademark MAXIREN® by the Dutch company DSM.
+
+FPC is chymosin B, and is therefore more pure compared with animal rennet, which contains a multitude of proteins. FPC can deliver several benefits to the cheese producer compared with animal or microbial rennet, such as higher production yield, better curd texture and reduced bitterness.
+
+Cheeses produced with FPC can be certified kosher and halal, and are suitable for vegetarians if there was no animal-based alimentation used during the chymosin production in the fermenter.
+
+2.4. Acid coagulation
+
+Many soft cheeses are produced without use of rennet, by coagulating milk with acid, such as citric acid or vinegar, or the lactic acid produced by soured milk.
+
+Cream cheese, paneer, and rubing are traditionally made this way (see for others). The acidification can also come from bacterial fermentation such as in cultured milk.
+
+3. See also
+
+Cheese
+
+Junket (dessert)
+
+Pepsin
+
+4. References
+
+Carroll, Ricki. Making Cheese, Butter, & Yogurt. Storey Publishing 2003.
+
+"Biotechnology and Food: Leader and Participant Guide," publication no. 569, produced by North Central Regional Extension. Printed by Cooperative Extension Publications, University of Wisconsin-Extension, Madison, WI, 1994. Publication date: 1994. Tom Zinnen and Jane Voichick
+
+5. External links
+
+ru:Реннин pt:Coalho

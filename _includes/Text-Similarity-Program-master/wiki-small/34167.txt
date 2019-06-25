@@ -1,0 +1,43 @@
+Xyzzy is a magic word from the Colossal Cave Adventure computer game.
+
+In computing, the word is sometimes used as a metasyntactic variable or as a video game cheat code, the canonical "magic word". In mathematics, the word is used as a mnemonic for the cross product.
+
+1. Origin
+
+Modern usage is primarily from one of the earliest computer games, Colossal Cave Adventure, in which the idea is to explore an underground cave with many rooms, collecting the treasures found there. By typing "xyzzy" at the appropriate time, the player could move instantly between two otherwise distant points. As Colossal Cave Adventure was both the first adventure game and the first interactive fiction, hundreds of later interactive fiction games included responses to the command "xyzzy" in tribute.
+
+The origin of the word has been the subject of debate. Rick Adams pointed out that the mnemonic "XYZZY" has long been taught by math teachers to remember the process for performing cross products (as a mnemonic that lists the order of subscripts to be multiplied first). Crowther, author of Colossal Cave Adventure, states that he was unaware of the mnemonic, and that he "made it up from whole cloth" when writing the game.
+
+2. Uses
+
+Xyzzy has been implemented as an undocumented no-op command on several operating systems; in Data General's AOS, for example, it would typically respond "Nothing happens", just as the game did if the magic was invoked at the wrong spot or before a player had performed the action that enabled the word. The 32-bit version, AOS/VS, would respond "Twice as much happens". On several computer systems from Sun Microsystems, the command "xyzzy" is used to enter the interactive shell of the u-boot bootloader. Early versions of Zenith Z-DOS (a re-branded variant of MS-DOS 1.25) had the command "xyzzy" which took a parameter of "on" or "off". Xyzzy by itself would print the status of the last "xyzzy on" or "xyzzy off" command.
+
+The popular Minesweeper game under older versions of Microsoft Windows had a cheat mode triggered by entering the command xyzzy, then pressing the key sequence shift and then enter, which turned a single pixel in the top-left corner of the entire screen into a small black or white dot depending on whether or not the mouse pointer is over a mine. This easter egg was present in all Windows versions through Windows XP Service Pack 3, but under Windows 95, 98 and NT 4.0 the pixel was visible only if the standard Explorer desktop was not running. The easter egg does not exist in versions after Windows XP SP3.
+
+The low-traffic Usenet newsgroup alt.xyzzy is used for test messages, to which other readers (if there are any) customarily respond, "Nothing happens" as a note that the test message was successfully received. In the Internet Relay Chat client mIRC and Pidgin, entering the undocumented command "/xyzzy" will display the response "Nothing happens". The string "xyzzy" is also used internally by mIRC as the hard-coded master encryption key that is used to decrypt over 20 sensitive strings from within the mirc.exe program file.
+
+A "deluxe chatting program" for DIGITAL's VAX/VMS written by David Bolen in 1987 and distributed via BITNET took the name xyzzy. It enabled users on the same system or on linked DECnet nodes to communicate via text in real time. There was a compatible program with the same name for IBM's VM/CMS.
+
+xYzZY is used as the default boundary marker by the Perl HTTP::Message module for multipart MIME messages, and was used in Apple's AtEase for workgroups as the default administrator password in the 1990s.
+
+In the game Zork, typing xyzzy and pressing enter produces the response: A hollow voice says "fool." The command commonly produces a humorous response in other Infocom games and text adventures, leading to its usage in the title of the interactive fiction competition, the XYZZY Awards.
+
+When booting a Cr-48 from developer mode, when the screen displays the "sad laptop" image, pressing xyzzy produces a joke BSOD screen.
+
+Gmail lists XYZZY as a capability when connected via IMAP before logging in. It takes no arguments, and responds with "OK Nothing happens."
+
+In Dungeons and Dragons Online, Xy'zzy is the nigh-invulnerable raid boss in the Hound of Xoriat adventure.
+
+In the PC version of the popular Electronic Arts game Road Rash, the cheat mode is enabled by typing the key string "xyzzy" in the middle of the race.
+
+In Primordia, one is able to get a bonus short scene featuring a shout-out to 'CCA' as a form of non-playable text-adventure, which is accessible by typing 'xyzzy' in Memorious's data-kiosk.
+
+The Hewlett Packard HP3458A 8½ digit multimeter recognizes XYZZY as a command via HP-IB and responds "I see no cave here."
+
+The Hewlett Packard 9836A computer with HPL 2.0 programming language has XYZZY built into the HPL language itself with the result of "I see no cave here." when used. All devices using HPIB (Hewlett Packard Interface Bus) are equipped with the same HPL programming language.
+
+The Cards Against Humanity clone game Pretend You're Xyzzy has an obvious reference to the term in its title.
+
+Andrew Sega released an album under the name XYZZY.
+
+3. References

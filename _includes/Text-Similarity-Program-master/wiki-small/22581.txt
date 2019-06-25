@@ -1,0 +1,237 @@
+Oestrogens or estrogens (see spelling differences) are a group of compounds named for their importance in both menstrual and estrous reproductive cycles. They are the primary female sex hormones. Natural estrogens are steroid hormones, while some synthetic ones are non-steroidal. The name comes from the Greek (oistros), literally meaning "verve or inspiration" but figuratively sexual passion or desire, and the suffix -gen, meaning "producer of".
+
+Estrogens are synthesized in all vertebrates as well as some insects. Their presence in both vertebrates and insects suggests that estrogenic sex hormones have an ancient evolutionary history.
+
+Estrogens are used as part of some oral contraceptives, in estrogen replacement therapy for postmenopausal women, and in hormone replacement therapy for trans women.
+
+Like all steroid hormones, estrogens readily diffuse across the cell membrane. Once inside the cell, they bind to and activate estrogen receptors which in turn modulate the expression of many genes. Additionally, estrogens have been shown to activate a G protein-coupled receptor, GPR30.
+
+1. Types
+
+1.1. Steroidal
+
+The three major naturally occurring estrogens in women are estrone (E1), estradiol (E2), and estriol (E3). Estradiol is the predominant estrogen during reproductive years both in terms of absolute serum levels as well as in terms of estrogenic activity. During menopause, estrone is the predominant circulating estrogen and during pregnancy estriol is the predominant circulating estrogen in terms of serum levels. Though estriol is the most plentiful of the three estrogens it is also the weakest, whereas estradiol is the strongest with a potency of approximately 80 times that of estriol. Thus, estradiol is the most important estrogen in non-pregnant females who are between the menarche and menopause stages of life. However, during pregnancy this role shifts to estriol, and in postmenopausal women estrone becomes the primary form of estrogen in the body. Another type of estrogen called estetrol (E4) is produced only during pregnancy. All of the different forms of estrogen are synthesized from androgens, specifically testosterone and androstenedione, by the enzyme aromatase.
+
+Premarin, a commonly prescribed estrogenic drug produced from the urine of pregnant mares, contains the steroidal estrogens equilin and equilenin. There are estradiol skin patches such as Estraderm (the original brand, introduced in the late 1980s) that offer a completely natural alternative.
+
+1.2. Nonsteroidal
+
+A range of synthetic and natural substances have been identified that also possess estrogenic activity.
+
+Synthetic substances of this kind are known as xenoestrogens.
+
+Plant products with estrogenic activity are called phytoestrogens.
+
+Those produced by fungi are known as mycoestrogens. Unlike estrogens produced by mammals, these substances are not necessarily steroids.
+
+1.3. Type in common reference
+
+Although scientifically there are various estrogens, the word "estrogen" in typical general conversation is usually used in the singular (making it sound as if there were only one kind of estrogen). Such usage refers specifically to the steroidal estrogen estradiol (E2). This is analogous to how "alcohol" in general conversation refers specifically (although implicitly) to ethanol. This explains why "estrogen" is generally said to have its highest levels in females of reproductive age, which is true of estradiol (E2), as explained above, although not of all other estrogens.
+
+2. Biosynthesis
+
+Estrogens, in females, are produced primarily by the ovaries, and during pregnancy, the placenta. Follicle-stimulating hormone (FSH) stimulates the ovarian production of estrogens by the granulosa cells of the ovarian follicles and corpora lutea. Some estrogens are also produced in smaller amounts by other tissues such as the liver, adrenal glands, and the breasts. These secondary sources of estrogens are especially important in postmenopausal women. Fat cells produce estrogen as well.
+
+In females, synthesis of estrogens starts in theca interna cells in the ovary, by the synthesis of androstenedione from cholesterol. Androstenedione is a substance of weak androgenic activity which serves predominantly as a precursor for more potent androgens such as testosterone as well as estrogen. This compound crosses the basal membrane into the surrounding granulosa cells, where it is converted either immediately into estrone, or into testosterone and then estradiol in an additional step. The conversion of androstenedione to testosterone is catalyzed by 17β-hydroxysteroid dehydrogenase (17β-HSD), whereas the conversion of androstenedione and testosterone into estrone and estradiol, respectively is catalyzed by aromatase, enzymes which are both expressed in granulosa cells. In contrast, granulosa cells lack 17α-hydroxylase and 17,20-lyase, whereas theca cells express these enzymes and 17β-HSD but lack aromatase. Hence, both granulosa and theca cells are essential for the production of estrogen in the ovaries.
+
+Estrogen levels vary through the menstrual cycle, with levels highest near the end of the follicular phase just before ovulation.
+
+3. Function
+
+The actions of estrogen are mediated by the estrogen receptor (ER), a dimeric nuclear protein that binds to DNA and controls gene expression. Like other steroid hormones, estrogen enters passively into the cell where it binds to and activates the estrogen receptor. The estrogen:ER complex binds to specific DNA sequences called a hormone response element to activate the transcription of target genes (in a study using an estrogen-dependent breast cancer cell line as model, 89 such genes were identified). Since estrogen enters all cells, its actions are dependent on the presence of the ER in the cell. The ER is expressed in specific tissues including the ovary, uterus and breast. The metabolic effects of estrogen in postmenopausal women has been linked to the genetic polymorphism of the ER.
+
+While estrogens are present in both men and women, they are usually present at significantly higher levels in women of reproductive age. They promote the development of female secondary sexual characteristics, such as breasts, and are also involved in the thickening of the endometrium and other aspects of regulating the menstrual cycle. In males, estrogen regulates certain functions of the reproductive system important to the maturation of sperm and may be necessary for a healthy libido. Furthermore, there are several other structural changes induced by estrogen in addition to other functions.
+
+Structural
+
+Promote formation of female secondary sex characteristics
+
+Accelerate metabolism
+
+Increase fat stores
+
+Stimulate endometrial growth
+
+Increase uterine growth
+
+Increase vaginal lubrication
+
+Thicken the vaginal wall
+
+Maintenance of vessel and skin
+
+Reduce bone resorption, increase bone formation
+
+Protein synthesis
+
+Increase hepatic production of binding proteins
+
+Coagulation
+
+Increase circulating level of factors 2, 7, 9, 10, plasminogen
+
+Decrease antithrombin III
+
+Increase platelet adhesiveness
+
+Lipid
+
+Increase HDL, triglyceride
+
+Decrease LDL, fat deposition
+
+Fluid balance
+
+Salt (sodium) and water retention
+
+Increase cortisol, SHBG
+
+Gastrointestinal tract
+
+Reduce bowel motility
+
+Increase cholesterol in bile
+
+Melanin
+
+Increase pheomelanin, reduce eumelanin
+
+Cancer
+
+Support hormone-sensitive breast cancers (see section below)
+
+Lung function
+
+Promotes lung function by supporting alveoli (in rodents but probably in humans).
+
+Uterus lining
+
+Estrogen together with progesterone promotes and maintains the uterus lining in preparation for implantation of fertilized egg and maintenance of uterus function during gestation period, also upregulates oxytocin receptor in myometrium
+
+Ovulation
+
+Surge in estrogen level induces the release of luteinizing hormone, which then triggers ovulation by releasing the egg from the Graafian follicle in the ovary.
+
+Sexual receptivity in estrus
+
+Promotes sexual receptivity, and induces lordosis behavior. In non-human mammals, it also induces estrus (in heat) prior to ovulation, which also induces lordosis behavior. Female non-human mammals are not sexually receptive without the estrogen surge, i.e., they have no mating desire when not in estrus.
+
+Lordosis behavior
+
+Regulates the stereotypical sexual receptivity behavior; this lordosis behavior is estrogen-dependent, which is regulated by the ventromedial nucleus of the hypothalamus.
+
+Sexual desire
+
+Sex drive is dependent on androgen levels only in the presence of estrogen, but without estrogen, free testosterone level actually decreases sexual desire (instead of increases sex drive), as demonstrated for those women who have hypoactive sexual desire disorder, and the sexual desire in these women can be restored by administration of estrogen (using oral contraceptive). In non-human mammals, mating desire is triggered by estrogen surge in estrus.
+
+3.1. Fetal development
+
+In rodents, estrogens (which are locally aromatized from androgens in the brain) play an important role in psychosexual differentiation, for example, by masculinizing territorial behavior; the same is not true in humans. In humans, the masculinizing effects of prenatal androgens on behavior (and other tissues, with the possible exception of effects on bone) appear to act exclusively through the androgen receptor. Consequently, the utility of rodent models for studying human psychosexual differentiation has been questioned.
+
+3.2. Estrogen and heart disease
+
+Women suffer less from heart disease due to vasculo-protective action of oestrogen which helps in preventing atherosclerosis. It also helps in maintaining the delicate balance between fighting infections and protecting arteries from damage thus lowering the risk of cardiovascular disease.
+
+3.3. Immunological role
+
+Oestrogen has anti-inflammatory properties and helps in mobilization of polymorphonuclear white blood cells or neutrophils.
+
+3.4. Mental health
+
+Estrogen is considered to play a significant role in women’s mental health. Sudden estrogen withdrawal, fluctuating estrogen, and periods of sustained estrogen low levels correlate with significant mood lowering. Clinical recovery from postpartum, perimenopause, and postmenopause depression has been shown to be effective after levels of estrogen were stabilized and/or restored.
+
+Compulsions in male lab mice, such as those in obsessive-compulsive disorder (OCD), may be caused by low estrogen levels. When estrogen levels were raised through the increased activity of the enzyme aromatase in male lab mice, OCD rituals were dramatically decreased. Hypothalamic protein levels in the gene COMT are enhanced by increasing estrogen levels which is believed to return mice that displayed OCD rituals to normal activity. Aromatase deficiency is ultimately suspected which is involved in the synthesis of estrogen in humans and has therapeutic implications in humans having obsessive-compulsive disorder.
+
+Local application of estrogen in the rat hippocampus has been shown to inhibit the re-uptake of serotonin. Contrarily, local application of estrogen has been shown to block the ability of fluvoxamine to slow serotonin clearance, suggesting that the same pathways which are involved in SSRI efficacy may also be affected by components of local estrogen signaling pathways.
+
+3.5. Binge eating
+
+Research suggests that estrogen may play a role in suppressing binge eating. Hormone replacement therapy using estrogen may be a possible treatment for binge eating behaviors in females. Estrogen replacement has been shown to suppress binge eating behaviors in female mice. The mechanism by which estrogen replacement inhibits binge-like eating involves the replacement of serotonin (5-HT) neurons. Women exhibiting binge eating behaviors are found to have increased brain uptake of neuron 5-HT, and therefore less of the neurotransmitter serotonin in the cerebrospinal fluid. Data has shown that estrogen works to activate 5-HT neurons, leading to suppression of binge like eating behaviors.
+
+It is also suggested that there is an interaction between hormone levels and eating at different points in the female menstrual cycle. Research has predicted increased emotional eating during hormonal flux, which is characterized by high progesterone and estradiol levels that occur during the mid-luteal phase. It is hypothesized that these changes occur due to brain changes across the menstrual cycle that are likely a genomic effect of hormones. These effects produce menstrual cycle changes, which result in hormone release leading to behavioral changes, notably binge and emotional eating. These occur especially prominently among women who are genetically vulnerable to binge eating phenotypes.
+
+In terms of the specific ovarian hormone changes, Edler, Lipson and Keel (2007) replicated results from animal studies that binge eating is associated with decreased estradiol and increased progesterone. Furthermore, they explain that it is important to further study ovarian hormones in binge eating as they may be an important neurobiological mechanism behind binge eating disorders. Klump et al. found that progesterone may moderate the effects of low estradiol (such as during dysregulated eating behavior), but that this may only be true in women who have had clinically diagnosed binge episodes (BEs). More broadly, they identified that dysregulated eating was more strongly associated with such ovarian hormones in women with BEs than in women without BEs.
+
+A study by Cao et al. (2014) demonstrated the effectiveness of hormone replacement with 17β-estradiol as well as a glucagon-like peptide-1-estrogen conjugate (GLP-1) designed to target the specific receptors linked to binge-eating behaviors. The study concluded that the implantation of 17β-estradiol pellets in ovariectomized mice significantly reduced binge eating behaviors and injections of GLP-1 in ovariectomized mice decreased binge-eating behaviors by 66% compared to control groups.
+
+Research conducted by Klump et al. extended previous work examining associations between binge eating and ovarian hormones in women with bulimia nervosa (Lester et al. 2003; Edler et al. 2007). Data conducted by Klump et al. (2008) showed remarkable similarities to the work of both Lester et al. and Edler et al.. In all three studies, the magnitude of associations between binge eating, menstrual-cycle phase and ovarian hormones was remarkably similar. However, all participants in study 2 of Klump et al. (2008) demonstrated ovulatory cycles. Thus, unlike studies of women with BN (Edler et al. 2007), no participants were lost to analyses due to menstrual irregularities, making the work of Klump et al. (2008) the first to examine associations between changes in binge eating and ovarian hormones using a non-clinical sample.
+
+4. Medical applications
+
+4.1. Oral contraceptives
+
+Since estrogen circulating in the blood can negatively feed-back to reduce circulating levels of FSH and LH, most oral contraceptives contain a synthetic estrogen, along with a synthetic progestin. Even in men, the major hormone involved in LH feedback is estradiol, not testosterone.
+
+4.2. Hormone replacement therapy
+
+Estrogen and other hormones are given to postmenopausal women in order to prevent osteoporosis as well as treat the symptoms of menopause such as hot flushes, vaginal dryness, urinary stress incontinence, chilly sensations, dizziness, fatigue, irritability, and sweating. Fractures of the spine, wrist, and hips decrease by 50–70% and spinal bone density increases by ~5% in those women treated with estrogen within 3 years of the onset of menopause and for 5–10 years thereafter.
+
+Before the specific dangers of conjugated equine estrogens were well understood, standard therapy was 0.625 mg/day of conjugated equine estrogens (such as Premarin). There are, however, risks associated with conjugated equine estrogen therapy. Among the older postmenopausal women studied as part of the Women's Health Initiative (WHI), an orally administered conjugated equine estrogen supplement was found to be associated with an increased risk of dangerous blood clotting. The WHI studies used one type of estrogen supplement, a high oral dose of conjugated equine estrogens (Premarin alone and with medroxyprogesterone acetate as PremPro).
+
+In a study by the NIH, esterified estrogens were not proven to pose the same risks to health as conjugated equine estrogens. Hormone replacement therapy has favorable effects on serum cholesterol levels, and when initiated immediately upon menopause may reduce the incidence of cardiovascular disease, although this hypothesis has yet to be tested in randomized trials. Estrogen appears to have a protector effect on atherosclerosis: it lowers LDL and triglycerides, it raises HDL levels and has endothelial vasodilatation properties plus an anti-inflammatory component.
+
+Research is underway to determine if risks of estrogen supplement use are the same for all methods of delivery. In particular, estrogen applied topically may have a different spectrum of side-effects than when administered orally, and transdermal estrogens do not affect clotting as they are absorbed directly into the systemic circulation, avoiding first-pass metabolism in the liver. This route of administration is thus preferred in women with a history of thrombo-embolic disease.
+
+Estrogen is also used in the therapy of vaginal atrophy, hypoestrogenism (as a result of hypogonadism, castration, or primary ovarian failure), amenorrhea, dysmenorrhea, and oligomenorrhea. Estrogens can also be used to suppress lactation after child birth.
+
+4.3. Breast cancer
+
+About 80% of breast cancers, once established, rely on supplies of the hormone estrogen to grow: they are known as hormone-sensitive or hormone-receptor-positive cancers. Suppression of production of estrogen in the body is a treatment for these cancers.
+
+Recently researchers have discovered that the common table mushroom has anti-aromatase properties and therefore possible anti-estrogen activity. Clinical trials have begun in the United States looking into whether the table mushroom can prevent breast cancer in people. A recent study has highlighted the importance of this research. In 2009, a case-control study of the eating habits of 2,018 women revealed that women who consumed mushrooms had an approximately 50% lower incidence of breast cancer. It has been found that Chinese women who consumed mushrooms and green tea had a 90% lower incidence of breast cancer.
+
+Hormone-receptor-positive breast cancers are treated with drugs which suppress production of estrogen in the body. This technique, in the context of treatment of breast cancer, is known variously as hormonal therapy, hormone therapy, or anti-estrogen therapy (not to be confused with hormone replacement therapy). Certain foods such as soy may also suppress the proliferative effects of estrogen and are used as an alternative to hormone therapy.
+
+4.4. Prostate cancer
+
+Under certain circumstances, estrogen may also be used in males for treatment of prostate cancer.
+
+4.5. Miscellaneous
+
+In humans and mice, estrogen promotes wound healing.
+
+At one time, estrogen was used to induce growth attenuation in tall girls. Recently, estrogen-induced growth attenuation was used as part of the controversial Ashley Treatment to keep a developmentally disabled girl from growing to adult size.
+
+Most recently, estrogen has been used in experimental research as a way to treat women suffering from bulimia nervosa, in addition to cognitive behavioral therapy, which is the established standard for treatment in bulimia cases. The estrogen research hypothesizes that the disease may be linked to a hormonal imbalance in the brain.
+
+Estrogen has also been used in studies which indicate that it may be an effective drug for use in the treatment of traumatic liver injury.
+
+4.6. Health risks and warning labels
+
+Hyperestrogenemia (elevated levels of estrogen) may be a result of exogenous administration of estrogen or estrogen-like substances, or may be a result of physiologic conditions such as pregnancy. Any of these causes is linked with an increase in the risk of thrombosis.
+
+The estrogen-alone substudy of the WHI reported an increased risk of stroke and deep vein thrombosis (DVT) in postmenopausal women 50 years of age or older and an increased risk of dementia in postmenopausal women 65 years of age or older using 0.625 mg of Premarin conjugated equine estrogens (CEE). The estrogen-plus-progestin substudy of the WHI reported an increased risk of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli and DVT in postmenopausal women 50 years of age or older and an increased risk of dementia in postmenopausal women 65 years of age or older using PremPro, which is 0.625 mg of CEE with 2.5 mg of the progestin medroxyprogesterone acetate (MPA).
+
+The labeling of estrogen-only products in the U.S. includes a boxed warning that unopposed estrogen (without progestogen) therapy increases the risk of endometrial cancer. Based on a review of data from the WHI, on January 8, 2003 the FDA changed the labeling of all estrogen and estrogen with progestin products for use by postmenopausal women to include a new boxed warning about cardiovascular and other risks.
+
+5. Cosmetics
+
+Some hair shampoos on the market include estrogens and placental extracts; others contain phytoestrogens. There are case reports of young children developing breasts after exposure to these shampoos. In 1993, the FDA determined that not all topically applied hormone-containing drug products for OTC human use are generally recognized as safe and effective and are misbranded. An accompanying proposed rule deals with cosmetics, concluding that any use of natural estrogens in a cosmetic product makes the product an unapproved new drug and that any cosmetic using the term "hormone" in the text of its labeling or in its ingredient statement makes an implied drug claim, subjecting such a product to regulatory action.
+
+In addition to being considered misbranded drugs, products claiming to contain placental extract may also be deemed to be misbranded cosmetics if the extract has been prepared from placentas from which the hormones and other biologically active substances have been removed and the extracted substance consists principally of protein. The FDA recommends that this substance be identified by a name other than "placental extract" and describing its composition more accurately because consumers associate the name "placental extract" with a therapeutic use of some biological activity.
+
+6. History
+
+In 1929 Adolf Butenandt and Edward Adelbert Doisy independently isolated and determined the structure of estrogen. Thereafter, the pace of hormonal drug research accelerated.
+
+The "first orally effective estrogen", Emmenin, derived from the late-pregnancy urine of Canadian women, was introduced in 1930 by Collip and Ayerst Laboratories. Estrogens are not water-soluble and cannot be given orally, but the urine was found to contain estriol glucuronide which is water soluble and becomes active in the body after hydrolysis.
+
+Scientists continued to search for new sources of estrogen because of concerns associated with the practicality of introducing the drug into the market. At the same time, a German pharmaceutical drug company, formulated a similar product as Emmenin that was introduced to German women to treat menopausal symptoms.
+
+In 1938, British scientists obtained a patent on a newly formulated nonsteroidal estrogen, diethylstilbestrol (DES), that was cheaper and more powerful than the previously manufactured estrogens. Soon after, concerns over the side effects of DES were raised in scientific journals while the drug manufacturers came together to lobby for governmental approval of DES. It was only until 1941 when estrogen therapy was finally approved by the Food and Drug Administration (FDA) for the treatment of menopausal symptoms.
+
+7. Environmental effects
+
+Estrogens are among the wide range of endocrine-disrupting compounds (EDCs) because they have high estrogenic potency. When an EDC makes its way into the environment, it may cause male reproductive dysfunction to wildlife. The estrogen excreted from farm animals makes its way into fresh water systems. During the germination period of reproduction the fish are exposed to low levels of estrogen which may cause reproductive dysfunction to male fish.
+
+8. See also
+
+9. References
+
+;Notes
+
+10. External links
+
+- Lab Tests Online
+
+Nussey and Whitehead: , Taylor and Francis 2001. Free online textbook.

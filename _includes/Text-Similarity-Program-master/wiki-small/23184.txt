@@ -1,0 +1,15 @@
+In the game of poker, opens and raises are considered aggressive plays, while calls and checks are considered passive (though a check-raise would be considered a very aggressive play). It is said that "aggression has its own value", meaning that often aggressive plays can make money with weak hands because of bluff value. In general, opponents must respond to aggressive play by playing more loosely, which offers more opportunities to make mistakes.
+
+While it is true that aggressive play is generally superior to passive play, using any play exclusively can lead to predictability. A player who is constantly aggressive and plays many inferior hands is called a "maniac", and skilled players will take advantage of him by calling him more often, using isolation plays, and by other means.
+
+If a player is not aggressive with his weaker hands, the opponents can safely fold whenever the player does bet or raise. The appropriate amount of aggression can be computed using game theory, and depends on the game being played and the tendencies of the opponents.
+
+Most theorists, like David Sklansky and Doyle Brunson, suggest aggression as an important tool. Aggressive play should not be confused with loose play. Loose players may play passively, resulting in a calling station, while tight players may play aggressively, referred to as a TAG. Aggression is called for in particular circumstances. Very strong starting hands should be played very aggressively most of the time. A very strong propositional hand – one that is more likely to win with a straight or a flush – is one of the hands that can be played for effect with an aggressive style. Such aggression is deceptive, as the low and unpaired ranks of the starting hand require much improvement to win. This is beneficial for two reasons:
+
+When the hand improves, the preceding aggression has increased the size of the pot, meaning a larger win.
+
+On future raises with more traditionally powerful hands, other players must consider that the aggressor's open or raise is indicative of a strong drawing hand as opposed to a high pair. The second reasoning is what is known as "advertising" in poker. It can be very profitable for a player to convince the other players at the table that he is willing to gamble with less than premium cards. The result is larger pots when the aggressive player has tremendously strong hands.
+
+1. See also
+
+Poker jargon

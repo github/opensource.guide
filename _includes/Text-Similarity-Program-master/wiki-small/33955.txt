@@ -1,0 +1,199 @@
+WordNet is a lexical database for the English language. It groups English words into sets of synonyms called synsets, provides short definitions and usage examples, and records a number of relations among these synonym sets or their members. WordNet can thus be seen as a combination of dictionary and thesaurus. While it is accessible to human users via a web browser, its primary use is in automatic text analysis and artificial intelligence applications. The database and software tools have been released under a BSD style license and are freely available for download from the WordNet website. Both the lexicographic data (lexicographer files) and the compiler (called grind) for producing the distributed database are available.
+
+1. History and team members
+
+WordNet was created in the Cognitive Science Laboratory of Princeton University under the direction of psychology professor George Armitage Miller starting in 1985 and has been directed in recent years by Christiane Fellbaum. The project received funding from government agencies including the National Science Foundation, DARPA, the Disruptive Technology Office (formerly the Advanced Research and Development Activity), and REFLEX. George Miller and Christiane Fellbaum were awarded the 2006 Antonio Zampolli Prize for their work with WordNet.
+
+2. Database contents
+
+As of November 2012 WordNet's latest Online-version is 3.1. The database contains 155,287 words organized in 117,659 synsets for a total of 206,941 word-sense pairs; in compressed form, it is about 12 megabytes in size.
+
+WordNet includes the lexical categories nouns, verbs, adjectives and adverbs but ignores prepositions, determiners and other function words.
+
+Words from the same lexical category that are roughly synonymous are grouped into synsets. Synsets include simplex words as well as collocations like "eat out" and "car pool." The different senses of a polysemous word form are assigned to different synsets. The meaning of a synset is further clarified with a short defining gloss and one or more usage examples. An example adjective synset is:
+
+All synsets are connected to other synsets by means of semantic relations. These relations, which are not all shared by all lexical categories, include:
+
+Nouns
+
+hypernyms: Y is a hypernym of X if every X is a (kind of) Y (canine is a hypernym of dog)
+
+hyponyms: Y is a hyponym of X if every Y is a (kind of) X (dog is a hyponym of canine)
+
+coordinate terms: Y is a coordinate term of X if X and Y share a hypernym (wolf is a coordinate term of dog, and dog is a coordinate term of wolf)
+
+meronym: Y is a meronym of X if Y is a part of X (window is a meronym of building)
+
+holonym: Y is a holonym of X if X is a part of Y (building is a holonym of window)
+
+Verbs
+
+hypernym: the verb Y is a hypernym of the verb X if the activity X is a (kind of) Y (to perceive is an hypernym of to listen)
+
+troponym: the verb Y is a troponym of the verb X if the activity Y is doing X in some manner (to lisp is a troponym of to talk)
+
+entailment: the verb Y is entailed by X if by doing X you must be doing Y (to sleep is entailed by to snore)
+
+coordinate terms: those verbs sharing a common hypernym (to lisp and to yell) These semantic relations hold among all members of the linked synsets. Individual synset members (words) can also be connected with lexical relations. For example, (one sense of) the noun "director" is linked to (one sense of) the verb "direct" from which it is derived via a "morphosemantic" link.
+
+The morphology functions of the software distributed with the database try to deduce the lemma or stem form of a word from the user's input. Irregular forms are stored in a list, and looking up "ate" will return "eat," for example.
+
+3. Knowledge structure
+
+Both nouns and verbs are organized into hierarchies, defined by hypernym or IS A relationships. For instance, one sense of the word dog is found following hypernym hierarchy; the words at the same level represent synset members. Each set of synonyms has a unique index.
+
+At the top level, these hierarchies are organized into 25 beginner "trees" for nouns and 15 for verbs (calledlexicographic files at a maintenance level). All are linked to a unique beginner synset, "entity." Noun hierarchies are far deeper than verb hierarchies
+
+Adjectives are not organized into hierarchical trees. Instead, two "central" antonyms such as "hot" and "cold" form binary poles, while 'satellite' synonyms such as "steaming" and "chilly" connect to their respective poles via a "similarity" relations. The adjectives can be visualized in this way as "dumbbells" rather than as "trees."
+
+4. Psycholinguistic aspects of WordNet
+
+The initial goal of the WordNet project was to build a lexical database that would be consistent with theories of human semantic memory developed in the late 1960s. Psychological experiments indicated that speakers organized their knowledge of concepts in an economic, hierarchical fashion. Retrieval time required to access conceptual knowledge seemed to be directly related to the number of hierarchies the speaker needed to "traverse" to access the knowledge. Thus, speakers could more quickly verify that canaries can sing because a canary is a songbird ("sing" is a property stored on the same level as "canary"), but required slightly more time to verify that canaries can fly (where they had to access the concept "bird" on the superordinate level) and even more time to verify canaries have skin (requiring look-up across multiple levels of hyponymy, up to "animal"). While such experiments and the underlying theories have been subject to criticism, some of WordNet's organization is consistent with experimental evidence. For example, anomic aphasia, selectively affects speakers' ability to produce words from a specific semantic category, a WordNet hierarchy. Antonymous adjectives (WordNet's central adjectives in the dumbbell structure) are found to co-occur far more frequently than chance, a fact that has been found to hold for many languages.
+
+5. WordNet as a lexical ontology
+
+WordNet is sometimes called an ontology, a persistent attribute that its creators do not make. The hypernym/hyponym relationships among the noun synsets can be interpreted as specialization relations among conceptual categories. In other words, WordNet can be interpreted and used as a lexical ontology in the computer science sense. However, such an ontology should normally be corrected before being used since it contains hundreds of basic semantic inconsistencies such as (i) the existence of common specializations for exclusive categories and (ii) redundancies in the specialization hierarchy. Furthermore, transforming WordNet into a lexical ontology usable for knowledge representation should normally also involve (i) distinguishing the specialization relations into subtypeOf and instanceOf relations, and (ii) associating intuitive unique identifiers to each category. Although such corrections and transformations have been performed and documented as part of the integration of WordNet 1.7 into the cooperatively updatable knowledge base of WebKB-2, (typically, knowledge-oriented information retrieval) simply re-use it directly. WordNet has also been converted to a formal specification, by means of a hybrid bottom-up top-down methodology to automatically extract association relations from WordNet, and interpret these associations in terms of a set of conceptual relations, formally defined in the DOLCE foundational ontology.
+
+In most works that claim to have integrated WordNet into ontologies, the content of WordNet has not simply been corrected when it seemed necessary; instead, WordNet has been heavily re-interpreted and updated whenever suitable. This was the case when, for example, the top-level ontology of WordNet was re-structured according to the OntoClean based approach or when WordNet was used as a primary source for constructing the lower classes of the SENSUS ontology.
+
+6. Limitations
+
+WordNet does not include information about the etymology or the pronunciation of words and it contains only limited information about usage. WordNet aims to cover most of everyday English and does not include much domain-specific terminology.
+
+WordNet is the most commonly used computational lexicon of English for word sense disambiguation (WSD), a task aimed to assigning the context-appropriate meanings (i.e. synset members) to words in a text. However, it has been argued that WordNet encodes sense distinctions that are too fine-grained. This issue prevents WSD systems from achieving a level of performance comparable to that of humans, who do not always agree when confronted with the task of selecting a sense from a dictionary that matches a word in a context. The granularity issue has been tackled by proposing clustering methods that automatically group together similar senses of the same word.
+
+6.1. Licensed vs. Open WordNets
+
+Some wordnets were subsequently created for other languages. A 2012 survey lists the wordnets and their availability In an effort to propagate the usage of WordNets, the Global WordNet community had been slowly re-licensing their WordNets to an open domain where researchers and developers can easily access and use WordNets as language resources to provide ontological and lexical knowledge in Natural Language Processing tasks.
+
+The Open Multilingual WordNet provides access to open licensed wordnets in a variety of languages, all linked to the Princeton Wordnet of English (PWN). The goal is to make it easy to use wordnets in multiple languages.
+
+7. Applications
+
+WordNet has been used for a number of different purposes in information systems, including word sense disambiguation, information retrieval, automatic text classification, automatic text summarization, machine translation and even automatic crossword puzzle generation.
+
+A common use of WordNet is to determine the similarity between words. Various algorithms have been proposed, and these include measuring the distance among the words and synsets in WordNet's graph structure, such as by counting the number of edges among synsets. The intuition is that the closer two words or synsets are, the closer their meaning. A number of WordNet-based word similarity algorithms are implemented in a Perl package called WordNet::Similarity, and in a Python package called NLTK. Other more sophisticated WordNet-based similarity techniques include ADW, whose is available in Java. WordNet can also be used to inter-link other vocabularies.
+
+8. Interfaces
+
+Princeton maintains a list of related projects that includes links to some of the widely used application programming interfaces available for accessing WordNet using various programming languages and environments.
+
+9. Related projects and extensions
+
+WordNet is connected to several databases of the Semantic Web. WordNet is also commonly re-used via mappings between the WordNet synsets and the categories from ontologies. Most often, only the top-level categories of WordNet are mapped.
+
+9.1. Global WordNet Association
+
+The Global WordNet Association (GWA) is a public and non-commercial organization that provides a platform for discussing, sharing and connecting wordnets for all languages in the world. The GWA also promotes the standardization of wordnets across different languages to ensure its uniformity in enumerating the different synsets in human languages. The GWA keeps a list of wordnets developed around the world.
+
+9.2. Other languages
+
+CWN (Chinese Wordnet or 中文詞彙網路) supported by National Taiwan University.
+
+WOLF (WordNet Libre du Français), a French version of WordNet.
+
+JAWS (Just Another WordNet Subset), another French version of WordNet built using the Wiktionary and semantic spaces
+
+The IndoWordNet is a linked lexical knowledge base of wordnets of 18 scheduled languages of India.
+
+The MultiWordNet project, a multilingual WordNet aimed at producing an Italian WordNet strongly aligned with the Princeton WordNet.
+
+The EuroWordNet project has produced WordNets for several European languages and linked them together; these are not freely available however. The Global Wordnet project attempts to coordinate the production and linking of "wordnets" for all languages. Oxford University Press, the publisher of the Oxford English Dictionary, has voiced plans to produce their own online competitor to WordNet.
+
+The BalkaNet project has produced WordNets for six European languages (Bulgarian, Czech, Greek, Romanian, Turkish and Serbian). For this project, freely available XML-based WordNet editor was developed. This editor – VisDic – is not in active development anymore, but is still used for the creation of various WordNets. Its successor, DEBVisDic, is client-server application and is currently used for the editing of several WordNets (Dutch in Cornetto project, Polish, Hungarian, several African languages, Chinese).
+
+UWN is an automatically constructed multilingual lexical knowledge base extending WordNet to cover over a million words in many different languages.
+
+Such projects as BalkaNet and EuroWordNet made it feasible to create standalone wordnets linked to the original one. One of such projects is Russian WordNet patronized by Petersburg State University of Means of Communication or Russnet by Saint Petersburg State University
+
+FinnWordNet is a Finnish version of the WordNet where all entries of the original English WordNet were translated.
+
+GermaNet is a German version of the WordNet developed by the University of Tübingen.
+
+OpenWN-PT is a Brazilian Portuguese version of the original WordNet freely available for download under CC-BY-SA license.
+
+plWordNet is a Polish-language version of WordNet developed by Wrocław University of Technology.
+
+9.3. Linked data
+
+BabelNet, a very large multilingual semantic network with millions of concepts obtained from an integration of WordNet and Wikipedia based on an automatic mapping algorithm.
+
+The SUMO ontology has produced a mapping between all of the WordNet synsets, (including nouns, verbs, adjectives and adverbs), and SUMO classes. The most recent addition of the mappings provides links to all of the more specific terms in the MId-Level Ontology (MILO), which extends SUMO.
+
+OpenCyc, an open ontology and knowledge base of everyday common sense knowledge, has 12,000 terms linked to WordNet synonym sets.
+
+DOLCE, is the first module of the WonderWeb Foundational Ontologies Library (WFOL). This upper-ontology has been developed in light of rigorous ontological principles inspired by the philosophical tradition, with a clear orientation toward language and cognition. OntoWordNet is the result of an experimental effort to align WordNet's upper level with DOLCE. It is suggested that such alignment could lead to an "ontologically sweetened" WordNet, meant to be conceptually more rigorous, cognitively transparent, and efficiently exploitable in several applications.
+
+DBpedia, a database of structured information, is also linked to WordNet.
+
+The eXtended WordNet is a project at the University of Texas at Dallas which aims to improve WordNet by semantically parsing the glosses, thus making the information contained in these definitions available for automatic knowledge processing systems. It is also freely available under a license similar to WordNet's.
+
+The GCIDE project produced a dictionary by combining a public domain Webster's Dictionary from 1913 with some WordNet definitions and material provided by volunteers. It was released under the copyleft license GPL.
+
+ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. Currently it has an average of over five hundred images per node.
+
+BioWordnet, a biomedical extension of wordnet was abandoned due to issues about stability over versions.
+
+WikiTax2WordNet, a mapping between WordNet synsets and Wikipedia categories.
+
+WordNet++, a resource including over millions of semantic edges harvested from Wikipedia and connecting pairs of WordNet synsets.
+
+SentiWordNet, a resource for supporting opinion mining applications obtained by tagging all the WordNet 3.0 synsets according to their estimated degrees of positivity, negativity, and neutrality.
+
+ColorDict, is an Android application to mobiles phones that use Wordnet database and others, like Wikipedia.
+
+UBY-LMF a database of 10 resources including WordNet.
+
+9.4. Related projects
+
+FrameNet is a lexical database that shares some similarities with, and refers to, WordNet.
+
+Lexical markup framework (LMF) is an ISO standard specified within ISO/TC37 in order to define a common standardized framework for the construction of lexicons, including WordNet. The subset of LMF for Wordnet is called Wordnet-LMF. An instantiation has been made within the KYOTO project.
+
+UNL Programme is a project under the auspices of UNO aimed to consolidate lexicosemantic data of many languages to be used in machine translation and information extraction systems.
+
+10. Distributions
+
+Babylon WordNet Database is distributed as a dictionary package (usually a single file) for the following software:
+
+GoldenDict
+
+Lingoes
+
+11. See also
+
+Hyponym
+
+Is-a
+
+Lexical Markup Framework
+
+Machine-readable dictionary
+
+Ontology (information science)
+
+Semantic network
+
+Semantic Web
+
+Synonym Ring
+
+Taxonomy
+
+ThoughtTreasure
+
+Troponym
+
+Word sense disambiguation
+
+12. References
+
+13. External links
+
+– comprehensive list of interfaces and extensions
+
+- The Global WordNet Association
+
+14. Further Reading
+
+.

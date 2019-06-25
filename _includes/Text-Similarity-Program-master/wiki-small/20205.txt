@@ -1,0 +1,163 @@
+Marsupials are an infraclass of mammals living primarily in Australasia and the Americas. A distinctive characteristic, common to most species, is that the young are carried in a pouch. Well-known marsupials include kangaroos, wallabies, the koala, possums, opossums, wombats and the Tasmanian devil. Other marsupials include the numbat, bandicoots, bettongs, the bilby, quolls, and the quokka.
+
+Marsupials represent the clade originating with the last common ancestor of extant metatherians. Like other mammals in the Metatheria, they are characterized by giving birth to relatively undeveloped young, often residing in a pouch with the mother for a certain time after birth. Close to 70% of the 334 extant species occur in Australia, New Guinea, and nearby islands, with the remaining 100 found in the Americas, primarily in South America, but with 13 in Central America, and one in North America north of Mexico.
+
+1. Evolution
+
+The relationships between the three extant divisions of mammals (monotremes, marsupials, and placental mammals) was long a matter of debate among taxonomists. Most morphological evidence comparing traits such as number and arrangement of teeth and structure of the reproductive and waste elimination systems as well as most genetic and molecular evidence favors a closer evolutionary relationship between the marsupials and placental mammals than either has with the monotremes.
+
+The ancestors of marsupials, part of a larger group called metatherians, probably split from those of placental mammals (eutherians) during the mid-Jurassic period, though no fossil evidence of metatherians themselves are known from this time. Fossil metatherians are distinguished from eutherians by the form of their teeth; metatherians possess four pairs of molar teeth in each jaw, whereas eutherian mammals (including true placentals) never have more than three pairs. Using this criterion, the earliest known metatherian is Sinodelphys szalayi, which lived in China around 125 million years ago (mya). This makes it a contemporary to some early eutherian species which have been found in the same area.
+
+The oldest metatherian fossils are found in present-day China. About 100 mya, the supercontinent Pangaea was in the process of splitting into the northern continent Laurasia and the southern continent Gondwana, with what would become China and Australia already separated by the Tethys Ocean. From there, metatherians spread westward into modern North America (still attached to Eurasia), where the earliest true marsupials are found. Marsupials are difficult to distinguish from other fossils, as they are characterized by aspects of the reproductive system which do not normally fossilize (including pouches) and by subtle changes in the bone and tooth structure that show a metatherian is part of the marsupial crown group (the most exclusive group that contains all living marsupials). The earliest definite marsupial fossil belongs to the species Peradectes minor, from the Paleocene of Montana, dated to about 65 million years ago. From their point of origin in Laurasia, marsupials spread to South America, which was connected to North America until around 65 mya. Laurasian marsupials eventually died off, possibly due to competition from placental mammals for their ecological niches.
+
+In South America, the opossums evolved and developed a strong presence, and the Paleogene also saw the evolution of shrew opossums (Paucituberculata) alongside non-marsupial metatherian predators such as the borhyaenids and the saber-toothed Thylacosmilus. South American niches for mammalian carnivores were dominated by these marsupial and sparassodont metatherians. While placental predators were absent, the metatherians did have to contend with avian (terror bird) and terrestrial crocodylomorph competition. South America and Antarctica remained connected until 35 mya, as shown by the unique fossils found there. North and South America were disconnected until about three million years ago, when the Isthmus of Panama formed. This led to the Great American Interchange. Competition from placental mammals from the north drove sparassodonts to extinction, while didelphimorphs (opossums) invaded Central America, with the Virginia opossum reaching as far north as Canada.
+
+Marsupials reached Australia via Antarctica about 50 mya, shortly after Australia had split off. This suggests a single dispersion event of just one species, most likely a relative to South America's monito del monte (a microbiothere, the only New World australidelphian). This progenitor may have rafted across the widening, but still narrow, gap between Australia and Antarctica. In Australia, they radiated into the wide variety seen today. Modern marsupials appear to have reached the islands of Borneo and Sulawesi relatively recently via Australia. A 2010 analysis of retrotransposon insertion sites in the nuclear DNA of a variety of marsupials has confirmed all living marsupials have South American ancestors. The branching sequence of marsupial orders indicated by the study puts Didelphimorphia in the most basal position, followed by Paucituberculata, then Microbiotheria, and ending with the radiation of Australian marsupials. This indicates that Australidelphia arose in South America, and reached Australia after Microbiotheria split off.
+
+In Australia, terrestrial placental mammals disappeared early in the Cenozoic (their most recent known fossils being 55 million-year-old teeth resembling those of condylarths) for reasons that are not clear, allowing marsupials to dominate the Australian ecosystem. Extant native Australian terrestrial placental mammals (such as hopping mice) are relatively recent immigrants, arriving via island hopping from Southeast Asia.
+
+Genetic analysis suggests a divergence date between the marsupials and the placentals at . The ancestral number of chromosomes has been estimated to be 2n = 14.
+
+A new hypothesis suggests that South American microbiotheres resulted from a back-dispersal from eastern Gondwana due to new cranial and post-cranial marsupial fossils from the Djarthia murgonensis from the early Eocene Tingamarra Local Fauna in Australia that indicate the Djarthia murgonensis is the most plesiomorphic, the oldest unequivocal australidelphian, and may be the ancestral morphotype of the Australian marsupial radiation.
+
+2. Description
+
+2.1. Early development
+
+An early birth removes a developing marsupial from its mother's body much sooner than in placental mammals, thus marsupials have not developed a complex placenta to protect the embryo from its mother's immune system. Though early birth puts the tiny newborn marsupial at a greater environmental risk, it significantly reduces the dangers associated with long pregnancies, as there is no need to carry a large fetus to full-term in bad seasons. Marsupials are extremely altricial animals, needing to be intensely cared for immediately following birth (cf. precocial).
+
+Because newborn marsupials must climb up to their mother's nipples, their front limbs are much more developed than the rest of their bodies at the time of birth. This requirement possibly has resulted in the limited range of locomotor adaptations in marsupials compared to placentals. Marsupials must develop grasping forepaws during their early youth, making the transition from these limbs into hooves, wings, or flippers, as some groups of placental mammals have done, far more difficult.
+
+An infant marsupial is known as a joey. Marsupials have a very short gestation period (about four to five weeks), and the joey is born in an essentially fetal state. The blind, furless, miniature newborn, the size of a jelly bean, crawls across its mother's fur to make its way into the pouch, where it latches onto a teat for food. It will not re-emerge for several months, during which time it develops fully. After this period, the joey begins to spend increasing lengths of time out of the pouch, feeding and learning survival skills. However, it returns to the pouch to sleep, and if danger threatens, it will seek refuge in its mother's pouch for safety.
+
+Joeys stay in the pouch for up to a year in some species, or until the next joey is born. A marsupial joey is unable to regulate its own body temperature and relies upon an external heat source. Until the joey is well-furred and old enough to leave the pouch, a pouch temperature of must be constantly maintained.
+
+2.2. Reproductive system
+
+Marsupials' reproductive systems differ markedly from those of placental mammals. The female develops a kind of yolk sac in her womb which delivers nutrients to the embryo. Embryos of some marsupials additionally form placenta-like organs that connect them to the uterine wall, although it is not certain that they transfer nutrients from the mother to the embryo. Pregnancy is very short, typically 4 to 5 weeks, and the embryo is born at a very young stage of development.
+
+The evolution of reproduction in marsupials, and speculation about the ancestral state of mammalian reproduction, have engaged discussion since the end of the 19th century. Both sexes possess a cloaca, which is connected to a urogenital sac used to store waste before expulsion. The bladder of marsupials functions as a site to concentrate urine and empties into the common urogenital sinus in both females and males.
+
+2.2.1. Male
+
+Most male marsupials, , have a bifurcated penis, separated into two columns, so that the penis has two ends corresponding to the females' two vaginas. The penis is used only for inseminating females, and is separate from the urinary tract. The penis curves forward when erect, and when not erect, it is retracted into the body in an S-shaped curve. Neither marsupials nor monotremes possess a baculum. The shape of the glans penis varies among marsupial species. A male koala's foreskin contains naturally occurring bacteria that play an important role in fertilization.
+
+The male thylacine had a pouch that acted as a protective sheath, covering his external reproductive organs while he ran through thick brush.
+
+The shape of the urethral grooves of the males' genitalia is used to distinguish between Monodelphis brevicaudata, Monodelphis domestica, and Monodelphis americana. The grooves form 2 separate channels that form the ventral and dorsal folds of the erectile tissue.
+
+During the breeding season, the male tammar wallaby's prostate and bulbourethral gland enlarge. However, there does not appear to be any seasonal difference in the weight of the testes.
+
+2.2.2. Female
+
+Female marsupials have two lateral vaginas, which lead to separate uteri, but both open externally through the same orifice. A third canal, the median vagina, is used for birth. This canal can be transitory or permanent. The definitive placenta in all marsupials is generated by the yolk sac. Among three fetal membranes in mammals, the yolk sac, allantois, and amnion, only the first two form a placenta. The evolution of placentation in vertebrates is linked to the evolution of viviparity, a reproductive system in which the females retain their eggs to give birth to their young. Marsupials give birth at a very early stage of development (about four to five weeks); after birth, newborn marsupials crawl up the bodies of their mothers and attach themselves to a nipple, which is located on the underside of the mother either inside a pouch called the marsupium or open to the environment. To crawl to the nipple and attach to it, the marsupial must have well-developed forelimbs and facial structures. This is accomplished by accelerating forelimb and facial development in marsupials compared to placental mammals, which results in decelerated development of such structures as the hindlimb and brain. There they remain for a number of weeks, attached to the nipple. The offspring are eventually able to leave the marsupium for short periods, returning to it for warmth, protection, and nourishment.
+
+3. Characteristics
+
+Marsupials are characterized by giving birth to relatively undeveloped young. They lack a complex placenta to protect the embryo from its mother's immune system. They have a front pouch containing multiple nipples for protection and sustenance of the young.
+
+Some common structural features can be found among marsupials. Ossified patellae are absent in most modern marsupials, though a small number of exceptions are reported. Epipubic bones are present. Marsupials (and also monotremes) also lack a gross communication (corpus callosum) between the right and left brain hemispheres.
+
+4. Taxonomy
+
+Taxonomically, the two primary divisions of Marsupialia are: American marsupials and the Australian marsupials. The order Microbiotheria (which has only one species, the monito del monte) is found in South America, but is believed to be more closely related to the Australian marsupials. There are many small arboreal species in each group. The term 'opossums' is properly used to refer to the American species (though 'possum' is a common diminutive), while similar Australian species are properly called 'possums'.
+
+Superorder Ameridelphia
+
+Order Didelphimorphia (93 species)
+
+Family Didelphidae: opossums
+
+Order Paucituberculata (six species)
+
+Family Caenolestidae: shrew opossums
+
+Superorder Australidelphia
+
+Order Microbiotheria (one species)
+
+Family Microbiotheriidae: monito del monte
+
+Order †Yalkaparidontia
+
+Order Dasyuromorphia (75 species)
+
+Family †Thylacinidae: thylacine
+
+Family Dasyuridae: antechinuses, quolls, dunnarts, Tasmanian devil, and relatives
+
+Family Myrmecobiidae: numbat
+
+Order Peramelemorphia (24 species)
+
+Family Thylacomyidae: bilbies
+
+Family †Chaeropodidae: pig-footed bandicoot
+
+Family Peramelidae: bandicoots and allies
+
+Order Notoryctemorphia (two species)
+
+Family Notoryctidae: marsupial moles
+
+Order Diprotodontia (137 species)
+
+Family Phascolarctidae: koalas
+
+Family Vombatidae: wombats
+
+Family †Diprotodontidae: diprotodon
+
+Family Phalangeridae: brushtail possums and cuscuses
+
+Family Burramyidae: pygmy possums
+
+Family Tarsipedidae: honey possum
+
+Family Petauridae: striped possum, Leadbeater's possum, yellow-bellied glider, sugar glider, mahogany glider, squirrel glider
+
+Family Pseudocheiridae: ringtailed possums and relatives
+
+Family Potoroidae: potoroos, rat kangaroos, bettongs
+
+Family Acrobatidae: feathertail glider and feather-tailed possum
+
+Family Hypsiprymnodontidae: musky rat-kangaroo
+
+Family Macropodidae: kangaroos, wallabies, and relatives
+
+Family †Thylacoleonidae: marsupial lions † indicates extinction
+
+5. See also
+
+Marsupial lawn
+
+Metatheria
+
+6. References
+
+7. Further reading
+
+Austin, C.R. ed. Reproduction in Mammals. Melbourne: Cambridge University Press,1982.
+
+Bronson, F. H. Mammalian Reproductive Biology. Chicago: University of Chicago Press, 1989.
+
+Dawson, Terrence J. Kangaroos: Biology of Largest Marsupials. New York: Cornell University Press, 1995.
+
+Flannery, Tim (1994), . ISBN 0-8021-3943-4 ISBN 0-7301-0422-2
+
+Frith, H. J. and J. H. Calaby. Kangaroos. New York: Humanities Press, 1969.
+
+Gould, Edwin and George McKay. Encyclopedia of Mammals. San Diego: Academic Press, 1998.
+
+Hunsaker, Don. The Biology of Marsupials. New York: Academic Press, 1977.
+
+Johnson, Martin H. and Barry J. Everitt. Essential Reproduction. Boston: Blackwell Scientific Publications, 1984.
+
+Knobill, Ernst and Jimmy D. Neill ed. Encyclopedia of Reproduction. V. 3 New York: Academic Press, 1998
+
+McCullough, Dale R. and Yvette McCullough. Kangaroos in Outback Australia: Comparative Ecology and Behavior of Three Coexisting Species. New York: Columbia University Press, 2000.
+
+8. External links
+
+The National Institutes of Health May 2007

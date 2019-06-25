@@ -1,0 +1,69 @@
+The International Obfuscated C Code Contest (abbreviated IOCCC) is a computer programming contest for the most creatively obfuscated C code. Held annually between 1984 and 1996, and thereafter in 1998, 2000, 2001, 2004, 2005, 2006, 2011, 2012, and 2013 it is described as "celebrating [C's] syntactical opaqueness". The winning code for the 22nd contest, held in 2013, was released in January 2014.
+
+Prior to 2004, entries were submitted by email. In 2004, for the 17th IOCCC, the competition switched to using a web-based submission process.
+
+Entries are evaluated anonymously by a panel of judges. The judging process is documented in the competition guidelines and consists of elimination rounds. By tradition, no information is given about the total number of entries for each competition. Winning entries are awarded with a category, such as "Worst Abuse of the C preprocessor" or "Most Erratic Behavior", and then announced on the official IOCCC website. Entries that do not make it are deleted and forgotten; the contest states that being announced on the IOCCC website is the award for winning.
+
+1. History
+
+The IOCCC was started by Landon Curt Noll and Larry Bassel in 1984 while employed at National Semiconductor's Genix porting group. The idea for the contest came after they compared notes with each other about some poorly written code that they had to fix, notably the Bourne shell, which used macros to emulate ALGOL 68 syntax, and buggy version of finger for BSD. The contest itself was the topic of a quiz question in the 1993 Computer Bowl. After a hiatus of five years starting in 2006, the contest returned in 2011.
+
+Compared with other programming contests, the IOCCC is described as "not all that serious" by Michael Swaine, editor of Dr. Dobbs.
+
+2. Rules
+
+Each year, the rules of the contest are published on the IOCCC website. Rules vary from year to year and are posted with a set of guidelines that attempt to convey the spirit of the rules.
+
+The rules are often deliberately written with subtle loopholes that contestants are somewhat encouraged to find and abuse. This is the result of the contest being a "parody of the software development process". Entries that take advantage of some loophole in the rules (whether or not they pass a final round of judging) can cause the rules for the following year's contest to be adjusted accordingly (although often other subtle loopholes are deliberately introduced in the process).
+
+3. Obfuscations employed
+
+Due to the nature of the contest, entries often employ strange or unusual tricks, such as using the C preprocessor to do things it was not designed to do, or avoiding commonly used constructs in the C programming language in favor of much more obscure ways of achieving the same thing. Two contest winners generated a list of prime numbers using the C preprocessor "spectacularly", according to Dr. Dobbs. Some quotes from 2004 winners include:
+
+Some ways in which contributions are notable include:
+
+The appearance of the source code, formatted to resemble images, text, etc., after the manner of ASCII art.
+
+Preprocessor redefinitions to make code harder to read.
+
+Self-modifying code.
+
+Worst abuse of the rules. In several years, an entry was submitted that was so patently absurd that it required a new definition of some of the rules for the next year. This is regarded as a high honor. An example is the world's shortest self-reproducing program. The entry was a program designed to output its own source code, and which had zero bytes of source code. When the program ran, it printed all zero bytes of the entire program's source code (meaning it prints nothing). In the effort to take obfuscation to its extremes, contestants have produced programs which skirt around the edges of C standards, or result in constructs which trigger rarely used code path combinations in compilers. As a result, several of the past entries may not compile directly in a modern compiler, and some may even cause crashes.
+
+4. Examples
+
+Within the code size limit of only a few kilobytes, contestants have managed to do impressively complicated things – a 2004 winner turned out an operating system.
+
+Below is a 1988 entry which calculates pi by looking at its own area:
+
+define _ -F<00||--F-OO--; int F=00,OO=00;main(){F_OO();printf("%1.3f\n",4.*-F/OO/OO);}F_OO() {
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+}
+
+(This entry was written in K&R C; it does not work correctly in ANSI C without some change.)
+
+Another example is the following flight simulator, the winner of the 1998 IOCCC, as listed and described in Calculated Bets: Computers, Gambling, and Mathematical Modeling to Win (2001) and shown below:
+
+include
+
+include <sys/time.h>
+
+include <X11/Xlib.h>
+
+include <X11/keysym.h> ; scanf("%lf%lf%lf",y +n,w+y, y+s)+1; y ++); XSelectInput(e,z= XCreateSimpleWindow(e,z,0,0,400,400, 0,0,WhitePixel(e,0) ),KeyPressMask); for(XMapWindow(e,z); ; T=sin(O)){ struct timeval G={ 0,dt*1e6} ; K= cos(j); N=1e4; M+= H*_; Z=D*K; F+=_*P; r=E*K; W=cos( O); m=K*W; H=K*T; O+=D*_*F/ K+d/K*E*_; B= sin(j); a=B*T*D-E*W; XClearWindow(e,z); t=T*E+ D*B*W; j+=d*_*D-_*F*E; P=W*E*B-T*D; for (o+=(I=D*W+E
+
+T*B,E*d/K *B+v+B/K*F*D)*_; p<y; ){ T=p[s]+i; E=c-p[w]; D=n[p]-L; K=D*m-B*T-H*E; if(p [n]+w[ p]+p[s ]== 0|K <fabs(W=T*r-I*E +D*P) |fabs(D=t *D+Z *T-a *E)> K)N=1e4; else{ q=W/K *4E2+2e2; C= 2E2+4e2/ K
+
+This program needs the following command line on a Linux system to be compiled:
+
+5. See also
+
+Obfuscated Perl Contest
+
+Underhanded C Contest
+
+6. Notes and references
+
+7. External links

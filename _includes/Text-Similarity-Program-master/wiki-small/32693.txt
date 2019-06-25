@@ -1,0 +1,233 @@
+In phonetics, a vowel is a sound in spoken language, such as an English ah! or oh! , pronounced with an open vocal tract so that there is no build-up of air pressure at any point above the glottis. This contrasts with consonants, such as English sh! , which have a constriction or closure at some point along the vocal tract. A vowel is also understood to be syllabic: an equivalent open but non-syllabic sound is called a semivowel.
+
+In all oral languages, vowels form the nucleus or peak of syllables, whereas consonants form the onset and (in languages that have them) coda. However, some languages also allow other sounds to form the nucleus of a syllable, such as the syllabic l in the English word table (the stroke under the l indicates that it is syllabic; the dot separates syllables)舒which, nevertheless, many still consider to have a weak vowel sound 舒or the r in [[Croatian or Serbian language] vrt , meaning "garden".
+
+There is a conflict between the phonetic definition of "vowel" (a sound produced with no constriction in the vocal tract) and the phonological definition (a sound that forms the peak of a syllable). The approximants and illustrate this conflict: both are produced without much of a constriction in the vocal tract (so phonetically they seem to be vowel-like), but they occur on the edge of syllables, such as at the beginning of the English words "yet" and "wet" (which suggests that phonologically they are consonants). The American linguist Kenneth Pike (1943) suggested the terms "vocoid" for a phonetic vowel and "vowel" for a phonological vowel, so using this terminology, and are classified as vocoids but not vowels. However, Maddieson and Emmory (1985) demonstrated from a range of languages that semivowels are produced with a narrower constriction of the vocal tract than vowels, and so may be considered consonants on that basis.
+
+The word vowel comes from the Latin word vocalis, meaning "vocal" ("relating to voice"). In English, the word vowel is commonly used to mean both vowel sounds and the written symbols that represent them.
+
+1. Articulation
+
+The articulatory features that distinguish different vowel sounds are said to determine the vowel's quality. Daniel Jones developed the cardinal vowel system to describe vowels in terms of the common features height (vertical dimension), backness (horizontal dimension) and roundedness (lip position). These three parameters are indicated in the schematic IPA vowel diagram on the right. There are however still more possible features of vowel quality, such as the velum position (nasality), type of vocal fold vibration (phonation), and tongue root position.
+
+1.1. Height
+
+Vowel height is named for the vertical position of the tongue relative to either the roof of the mouth or the aperture of the jaw. In high or raised vowels, such as and , the tongue is positioned high in the mouth, whereas in low vowels, such as , the tongue is positioned low in the mouth. The IPA prefers the terms close vowel and open vowel, which respectively describe the jaw as open or closed. However, vowel height is an acoustic rather than an articulatory quality and is defined not in terms of tongue height, or jaw openness, but according to the relative frequency of the first formant (F1). The higher the F1 value, the lower (more open) the vowel; height is thus inversely correlated to F1.
+
+The International Phonetic Alphabet identifies seven different vowel heights:
+
+close vowel (high vowel)
+
+near-close vowel
+
+close-mid vowel
+
+mid vowel
+
+open-mid vowel
+
+near-open vowel
+
+open vowel (low vowel) The letters are typically used for either close-mid or true-mid vowels, but, if more precision is required, true-mid vowels may be written with a lowering diacritic [e̞ ø̞ ɤ̞ o̞]. The Kensiu language spoken in Malaysia and Thailand is highly unusual in that it contrasts true-mid with close-mid and open-mid vowels without differences in other parameters such as backness or roundness.
+
+Although English contrasts six heights in its vowels, these are interdependent with differences in backness, and many are parts of diphthongs. It appears that some varieties of German have five contrasting vowel heights independently of length or other parameters. The Bavarian dialect of Amstetten has thirteen long vowels, reported to distinguish four heights (close, close-mid, mid, and near-open) each among the front unrounded, front rounded, and back rounded vowels, plus an open central vowel, thus five vowel heights on the whole: . Otherwise, the usual limit on the number of contrasting vowel heights is four.
+
+The parameter of vowel height appears to be the primary cross-linguistic feature of vowels in that all languages use height as a contrastive feature. No other parameter, such as front-back or rounded/unrounded (see below), is used in all languages. Some languages have vertical vowel systems in which, at least at a phonemic level, only height is used to distinguish vowels.
+
+1.2. Backness
+
+Vowel backness is named for the position of the tongue during the articulation of a vowel relative to the back of the mouth. In front vowels, such as , the tongue is positioned forward in the mouth, whereas in back vowels, such as , the tongue is positioned towards the back of the mouth. However, vowels are defined as back or front not according to actual articulation, but according to the relative frequency of the second formant (F2). The higher the F2 value, the fronter the vowel; the lower the F2 value, the more retracted the vowel.
+
+The International Phonetic Alphabet identifies five different degrees of vowel backness:
+
+front vowel
+
+near-front vowel
+
+central vowel
+
+near-back vowel
+
+back vowel Although English has vowels at all five degrees of backness, there is no known language that distinguishes all five without additional differences in height or rounding.
+
+1.3. Roundedness
+
+Roundedness refers to whether the lips are rounded or not. In most languages, roundedness is a reinforcing feature of mid to high back vowels, and is not distinctive. Usually the higher a back vowel is, the more intense the rounding. However, some languages treat roundedness and backness separately, such as French and German (with front rounded vowels), most Uralic languages (Estonian has a rounding contrast for and front vowels), Turkic languages (with an unrounded ), Vietnamese and Korean with back unrounded vowels.
+
+Nonetheless, even in languages such as German and Vietnamese, there is usually some phonetic correlation between rounding and backness: front rounded vowels tend to be less front than front unrounded vowels, and back unrounded vowels tend to be less back than back rounded vowels. That is, the placement of unrounded vowels to the left of rounded vowels on the IPA vowel chart is reflective of their typical position.
+
+Different kinds of labialization are also possible. In mid to high rounded back vowels the lips are generally protruded ("pursed") outward, a phenomenon known as exolabial rounding because the insides of the lips are visible, whereas in mid to high rounded front vowels the lips are generally "compressed", with the margins of the lips pulled in and drawn towards each other, a phenomenon known as endolabial rounding. However, not all languages follow this pattern. The Japanese , for example, is an endolabial (compressed) back vowel, and sounds quite different from an English exolabial . Swedish and Norwegian are the only two known languages where this feature is contrastive, having both endo- and exo-labial close front rounded vowels and close central rounded vowels, respectively. In many phonetic treatments, both are considered types of rounding, but some phoneticians do not believe that these are subsets of a single phenomenon of rounding, and prefer instead the three independent terms rounded (exolabial), compressed (endolabial), and spread (unrounded).
+
+1.4. Nasalization
+
+Nasalization refers to whether some of the air escapes through the nose. In nasal vowels, the velum is lowered, and some air travels through the nasal cavity as well as the mouth. An oral vowel is a vowel in which all air escapes through the mouth. French, Polish and Portuguese contrast nasal and oral vowels.
+
+1.5. Phonation
+
+Voicing describes whether the vocal cords are vibrating during the articulation of a vowel. Most languages only have voiced vowels, but several Native American languages, such as Cheyenne and Totonac, contrast voiced and devoiced vowels. Vowels are devoiced in whispered speech. In Japanese and Quebec French, vowels that are between voiceless consonants are often devoiced.
+
+Modal voice, creaky voice, and breathy voice (murmured vowels) are phonation types that are used contrastively in some languages. Often, these co-occur with tone or stress distinctions; in the Mon language, vowels pronounced in the high tone are also produced with creaky voice. In cases like this, it can be unclear whether it is the tone, the voicing type, or the pairing of the two that is being used for phonemic contrast. This combination of phonetic cues (i.e. phonation, tone, stress) is known as register or register complex.
+
+1.6. Tongue root retraction
+
+Advanced tongue root (ATR) is a feature common across much of Africa, the Pacific Northwest, and scattered other languages (e.g. modern Mongolian). The contrast between advanced and retracted tongue root resembles the tense/lax contrast acoustically, but they are articulated differently. ATR vowels involve noticeable tension in the vocal tract.
+
+1.7. Secondary narrowings in the vocal tract
+
+Pharyngealized vowels occur in some languages; Sedang uses this contrast, as do the Tungusic languages. Pharyngealisation is similar in articulation to retracted tongue root, but is acoustically distinct.
+
+A stronger degree of pharyngealisation occurs in the Northeast Caucasian languages and the Khoisan languages. These might be called epiglottalized, since the primary constriction is at the tip of the epiglottis.
+
+The greatest degree of pharyngealisation is found in the strident vowels of the Khoisan languages, where the larynx is raised, and the pharynx constricted, so that either the epiglottis or the arytenoid cartilages vibrate instead of the vocal cords.
+
+Note that the terms pharyngealized, epiglottalized, strident, and sphincteric are sometimes used interchangeably.
+
+1.7.1. Rhotic vowels
+
+Rhotic vowels are the "R-colored vowels" of American English and a few other languages.
+
+1.8. Tenseness/checked vowels vs. free vowels
+
+Tenseness is used to describe the opposition of tense vowels as in leap, suit vs. lax vowels as in lip, soot. This opposition has traditionally been thought to be a result of greater muscular tension, though phonetic experiments have repeatedly failed to show this.
+
+Unlike the other features of vowel quality, tenseness is only applicable to the few languages that have this opposition (mainly Germanic languages, e.g. English), whereas the vowels of the other languages (e.g. Spanish) cannot be described with respect to tenseness in any meaningful way. In discourse about the English language, "tense and lax" are often used interchangeably with "long and short", respectively, because the features are concomitant in the common varieties of English. This cannot be applied to all English dialects or other languages.
+
+In most Germanic languages, lax vowels can only occur in closed syllables. Therefore, they are also known as checked vowels, whereas the tense vowels are called free vowels since they can occur in any kind of syllable.
+
+2. Acoustics
+
+The acoustics of vowels are fairly well understood. The different vowel qualities are realized in acoustic analyses of vowels by the relative values of the formants, acoustic resonances of the vocal tract which show up as dark bands on a spectrogram. The vocal tract acts as a resonant cavity, and the position of the jaw, lips, and tongue affect the parameters of the resonant cavity, resulting in different formant values. The acoustics of vowels can be visualized using spectrograms, which display the acoustic energy at each frequency, and how this changes with time.
+
+The first formant, abbreviated "F1", corresponds to vowel openness (vowel height). Open vowels have high F1 frequencies while close vowels have low F1 frequencies, as can be seen in the accompanying spectrogram: The and have similar low first formants, whereas has a higher formant.
+
+The second formant, F2, corresponds to vowel frontness. Back vowels have low F2 frequencies while front vowels have high F2 frequencies. This is very clear in the spectrogram, where the front vowel has a much higher F2 frequency than the other two vowels. However, in open vowels the high F1 frequency forces a rise in the F2 frequency as well, so an alternative measure of frontness is the difference between the first and second formants. For this reason, some people prefer to plot as F1 vs. F2 – F1. (This dimension is usually called 'backness' rather than 'frontness', but the term 'backness' can be counterintuitive when discussing formants.)
+
+In the third edition of his textbook, Peter Ladefoged recommended use of plots of F1 against F2 – F1 to represent vowel quality. However, in the fourth edition, he changed to adopt a simple plot of F1 against F2, and this simple plot of F1 against F2 was maintained for the fifth (and final) edition of the book. Katrina Hayward compares the two types of plots and concludes that plotting of F1 against F2 – F1 "is not very satisfactory because of its effect on the placing of the central vowels", so she also recommends use of a simple plot of F1 against F2. In fact, this kind of plot of F1 against F2 has been used by analysts to show the quality of the vowels in a wide range of languages, including RP, the Queen's English, American English, Singapore English, Brunei English, North Frisian, Turkish Kabardian, and various indigenous Australian languages.
+
+R-colored vowels are characterized by lowered F3 values.
+
+Rounding is generally realized by a complex relationship between F2 and F3 that tends to reinforce vowel backness. One effect of this is that back vowels are most commonly rounded while front vowels are most commonly unrounded; another is that rounded vowels tend to plot to the right of unrounded vowels in vowel charts. That is, there is a reason for plotting vowel pairs the way they are.
+
+3. Prosody and intonation
+
+The features of vowel prosody are often described independently from vowel quality. In non-linear phonetics, they are located on parallel layers. The features of vowel prosody are usually considered not to apply to the vowel itself, but to the syllable, as some languages do not contrast vowel length separately from syllable length.
+
+Intonation encompasses the changes in pitch, intensity, and speed of an utterance over time. In tonal languages, in most cases the tone of a syllable is carried by the vowel, meaning that the relative pitch or the pitch contour that marks the tone is superimposed on the vowel. If a syllable has a high tone, for example, the pitch of the vowel will be high. If the syllable has a falling tone, then the pitch of the vowel will fall from high to low over the course of uttering the vowel.
+
+Length or quantity refers to the abstracted duration of the vowel. In some analyses this feature is described as a feature of the vowel quality, not of the prosody. Japanese, Finnish, Hungarian, Arabic and Latin have a two-way phonemic contrast between short and long vowels. The Mixe language has a three-way contrast among short, half-long, and long vowels, and this has been reported for a few other languages, though not always as a phonemic distinction. Long vowels are written in the IPA with a triangular colon, which has two equilateral triangles pointing at each other in place of dots (). The IPA symbol for half-long vowels is the top half of this (). Longer vowels are sometimes claimed, but these are always divided between two syllables.
+
+The length of the vowel is a grammatical abstraction, and there may be more phonologically distinctive lengths. For example, in Finnish, there are five different physical lengths, because stress is marked with length on both grammatically long and short vowels. However, Finnish stress is not lexical and is always on the first two moras, thus this variation serves to separate words from each other.
+
+In non-tonal languages, like English, intonation encompasses lexical stress. A stressed syllable will typically be pronounced with a higher pitch, intensity, and length than unstressed syllables. For example in the word intensity, the vowel represented by the letter 'e' is stressed, so it is longer and pronounced with a higher pitch and intensity than the other vowels.
+
+4. Monophthongs, diphthongs, triphthongs
+
+A vowel sound whose quality doesn't change over the duration of the vowel is called a monophthong. Monophthongs are sometimes called "pure" or "stable" vowels. A vowel sound that glides from one quality to another is called a diphthong, and a vowel sound that glides successively through three qualities is a triphthong.
+
+All languages have monophthongs and many languages have diphthongs, but triphthongs or vowel sounds with even more target qualities are relatively rare cross-linguistically. English has all three types: the vowel sound in hit is a monophthong , the vowel sound in boy is in most dialects a diphthong , and the vowel sounds of flower, , form a triphthong or disyllable, depending on dialect.
+
+In phonology, diphthongs and triphthongs are distinguished from sequences of monophthongs by whether the vowel sound may be analyzed into different phonemes or not. For example, the vowel sounds in a two-syllable pronunciation of the word flower () phonetically form a disyllabic triphthong, but are phonologically a sequence of a diphthong (represented by the letters ) and a monophthong (represented by the letters ). Some linguists use the terms diphthong and triphthong only in this phonemic sense.
+
+5. Written vowels
+
+The name "vowel" is often used for the symbols that represent vowel sounds in a language's writing system, particularly if the language uses an alphabet. In writing systems based on the Latin alphabet, the letters A, E, I, O, U, and sometimes Y are all used to represent vowels. However, not all of these letters represent vowels in all languages, or even consistently within one language (some of them, especially W and Y, are also used to represent approximants). Moreover, a vowel might be represented by a letter usually reserved for consonants, or a combination of letters, particularly where one letter represents several sounds at once, or vice versa; examples from English include igh in "thigh" and x in "x-ray". In addition, extensions of the Latin alphabet have such independent vowel letters as Ä, Ö, Ü, Å, Æ, and Ø.
+
+The phonetic values vary considerably by language, and some languages use I and Y for the consonant , e.g., initial I in Romanian and initial Y in English. In the original Latin alphabet, there was no written distinction between V and U, and the letter represented the approximant and the vowels and . In Modern Welsh, the letter W represents these same sounds. Similarly, in Creek, the letter V stands for . There is not necessarily a direct one-to-one correspondence between the vowel sounds of a language and the vowel letters. Many languages that use a form of the Latin alphabet have more vowel sounds than can be represented by the standard set of five vowel letters. In English spelling, the five letters A E I O and U can represent a variety of vowel sounds, while the letter Y frequently represents vowels (as in e.g., "gym", "happy", or the diphthongs in "cry", "thyme"); W is used in representing some diphthongs (as in "cow") and to represent a monophthong in the borrowed words "" (nearly always spelled combe, coomb, or comb in English) and "" (sometimes cruth).
+
+Other languages cope with the limitation in the number of Latin vowel letters in similar ways. Many languages make extensive use of combinations of letters to represent various sounds. Other languages use vowel letters with modifications, such as Ä in Scandinavian and Nordic languages, or add diacritical marks, like umlauts, to vowels to represent the variety of possible vowel sounds. Some languages have also constructed additional vowel letters by modifying the standard Latin vowels in other ways, such as æ or ø that are found in some of the Scandinavian languages. The International Phonetic Alphabet has a set of 28 symbols to represent the range of basic vowel qualities, and a further set of diacritics to denote variations from the basic vowel.
+
+The alphabets used to write the Semitic languages, such as the Hebrew alphabet and the Arabic alphabet, do not ordinarily mark all the vowels, since they are frequently unnecessary in identifying a word. These alphabets are technically called abjads. Although it is possible to construct simple English sentences that can be understood without written vowels (cn y rd ths?), extended passages of English lacking written vowels can be difficult to understand (consider dd, which could be any of dad, dada, dado, dead, deed, did, died, diode, dodo, dud, dude, or aided). The Masoretes devised a vowel notation system for Hebrew Jewish scripture that is still widely used, as well as the trope symbols used for it's cantillation; both are part of oral tradition and still the basis for many bible translations—Jewish and Christian.
+
+5.1. Vowel shifts
+
+The differences in pronunciation of vowel letters between English and other languages can be accounted for by the Great Vowel Shift. After printing was introduced to England, and therefore after spelling was more or less standardized, a series of dramatic changes in the pronunciation of the vowel phonemes did occur, and continued into recent centuries, but were not reflected in the spelling system. This has led to numerous inconsistencies in the spelling of English vowel sounds and the pronunciation of English vowel letters (and to the mispronunciation of foreign words and names by speakers of English).
+
+The existence of vowel shifts should serve as a caution flag to anyone who is trying to pronounce an ancient language or, indeed, any poetry (in any language) from two centuries ago or earlier.
+
+6. Audio samples
+
+7. Vowel systems
+
+The importance of vowels in distinguishing one word from another varies from language to language. Nearly all languages have at least three phonemic vowels, usually as in Classical Arabic and Inuktitut (or as in Quechua), though Adyghe and many Sepik languages have a vertical vowel system of . Very few languages have fewer, though some Arrernte, Circassian, Ndu languages have been argued to have just two, and , with being epenthetic.
+
+The rarest vowels cataloged are (has just been cataloged in Paicî and Received Pronunciation English) and (Early Modern English and Russian).
+
+It is not straightforward to say which language has the most vowels, since that depends on how they are counted. For example, long vowels, nasal vowels, and various phonations may or may not be counted separately; indeed, it may sometimes be unclear if phonation belongs to the vowels or the consonants of a language. If such things are ignored and only vowels with dedicated IPA letters ('vowel qualities') are considered, then very few languages have more than ten. The Germanic languages have some of the largest inventories: Standard Norwegian and Swedish have eighteen/seventeen contrasting simple vowels, nine long and nine/eight short (). Standard Danish has around thirty two, 15 short, 13 long and 4 unstressed (), while the Amstetten dialect of Bavarian has been reported to have thirteen long vowels: . The situation can be quite disparate within a same family language: Spanish and French are two closely related Romance languages but Spanish has only five vowels while classical French has sixteen of them: . The Mon–Khmer languages of Southeast Asia also have some large inventories, such as the eleven vowels of Vietnamese: . Wu has the largest inventories of Chinese; the Jinhui dialect of Wu has also been reported to have eleven vowels: ten basic vowels, , plus restricted , and this does not count seven nasal vowels.
+
+One of the most common vowels is ; it is nearly universal for a language to have at least one open vowel, though most dialects of English have an and a —and often an , all open vowels—but no central . Some Tagalog and Cebuano speakers have rather than , and Dhangu Yolngu is described as having , without any peripheral vowels. is also extremely common, though Tehuelche has just the vowels with no close vowels. The third vowel of Arabic-type three-vowel system, , is considerably less common. A large fraction of the languages of North America happen to have a four-vowel system without : ; Aztec is an example.
+
+In most languages, vowels serve mainly to distinguish separate lexemes, rather than different inflectional forms of the same lexeme as they commonly do in the Semitic languages. For example, while English man becomes men in the plural, moon is not a different form of the same word.
+
+7.1. Words without vowels
+
+In rhotic dialects of English, as in Canada and the United States, there are many words such as bird, learn, girl, church, worst, wyrm, myrrh that some phoneticians analyze as having no vowels, only a syllabic consonant . However, others analyze these words instead as having a rhotic vowel, . The difference may be partially one of dialect.
+
+There are a few such words that are disyllabic, like cursor, curtain, and turtle: , and (or , , and ), and even a few that are trisyllabic, at least in some accents, such as purpler , hurdler , gurgler , certainer , and Ur-turtle .
+
+The word and frequently contracts to a simple nasal ’n, as in lock 'n key . Words such as will, have, and is regularly contract to ’ll , ’ve , and ’s . However, none of them are pronounced alone without vowels, so they are not phonological words. Onomatopoeic words that can be pronounced alone, and that have no vowels or ars, include hmm, pst!, shh!, tsk!, and zzz. As in other languages, onomatopoeiae stand outside the normal phonotactics of English.
+
+There are other languages that form lexical words without vowel sounds. In Serbo-Croatian, for example, the consonants and (the difference is not written) can act as a syllable nucleus and carry rising or falling tone; examples include the tongue-twister na vrh brda vrba mrda and geographic names such as Krk. In Czech, and Slovak, either or can stand in for vowels: vlk "wolf", krk "neck". A particularly long word without vowels is čtvrthrst, meaning "quarter-handful", with two syllables (one for each R). Whole sentences can be made from such words, such as Strč prst skrz krk, meaning "stick a finger through your neck" (follow the link for a sound file), and Smrž pln skvrn zvlhl z mlh "A morel full of spots wetted from fogs". (Here zvlhl has two syllables based on L; note that the preposition z consists of a single consonant. Only prepositions do this in Czech, and they normally link phonetically to the following noun, so do not really behave as vowelless words.) In Russian, there are also prepositions that consist of a single consonant letter, like k "to", v "in", and s "with". However, these forms are actually contractions of ko, vo, and so respectively, and these forms are still used in modern Russian before words with certain consonant clusters for ease of pronunciation.
+
+In Kazakh and certain other Turkic languages, words without vowel sounds may occur due to reduction of weak vowels. A common example is the Kazakh word for one: bir, pronounced . Among careful speakers, however, the original vowel may be preserved, and the vowels are always preserved in the orthography.
+
+In Southern dialects of Chinese, such as Cantonese or Minnan, some monosyllabic words are made of exclusively nasals, such as "no" and "five".
+
+So far, all of these syllabic consonants, at least in the lexical words, have been sonorants, such as , , , and , which have a voiced quality similar to vowels. (They can carry tone, for example.) However, there are languages with lexical words that not only contain no vowels, but contain no sonorants at all, like (non-lexical) shh! in English. These include some Berber languages and some languages of the American Pacific Northwest, such as Nuxálk. An example from the latter is sxs "seal fat" (pronounced , as spelled), and a longer one is (pronounced ) "he had had in his possession a bunchberry plant". (Follow the Nuxálk link for other examples.) Berber examples include "you took it off" and "you gave it". Some words may contain one or two consonants only: "be", "feed on". (In Mandarin Chinese, words and syllables such as sī and zhī are sometimes described as being syllabic fricatives and affricates phonemically, and , but these do have a voiced segment that carries the tone.) In the Japonic language Miyako, there are words with no voiced sounds, such as ss 'dust', kss 'breast/milk', pss 'day', ff 'a comb', kff 'to make', fks 'to build', ksks 'month', sks 'to cut', psks 'to pull'.
+
+7.2. Words consisting of only vowels
+
+It is not uncommon for short grammatical words to consist of only vowels, such as a and I in English. Lexical words are somewhat rarer in English and are generally restricted to a single syllable: eye, awe, owe, and in non-rhotic accents air, ore, err. Vowel-only words of more than one syllable are generally foreign loans, such as ai (two syllables: ) for the maned sloth, or proper names, such as Iowa (in some accents: ).
+
+However, vowel sequences in hiatus are more freely allowed in some other languages, most famously perhaps in Bantu and Polynesian languages, but also in Japanese and Finnish. In such languages there tends to be a larger variety of vowel-only words. In Swahili (Bantu), for example, there is aua 'to survey' and eua 'to purify' (both three syllables); in Japanese, aoi 青い 'blue/green' and oioi 追々 'gradually' (three and four syllables); and in Finnish, aie 'intention' and auo 'open!' (both two syllables), although some dialects pronounce them as aije and auvo. Hawaiian, and the Polynesian languages generally, have unusually large numbers of such words, such as aeāea (a small green fish), which is three syllables: ae.āe.a. Most long words involve reduplication, which is quite productive in Polynesian: ioio 'grooves', eaea 'breath', uaua 'tough' (all four syllables), auēuē 'crying' (five syllables, from uē (uwē) 'to weep'), uoa or uouoa 'false mullet' (sp. fish, three or five syllables). The longest continuous vowel sequence is in Finnish word hääyöaie ("wedding night intention").
+
+8. See also
+
+English phonology
+
+Great Vowel Shift
+
+Inherent vowel
+
+List of phonetics topics
+
+Mater lectionis
+
+Scale of vowels
+
+Table of vowels
+
+Vowel coalescence
+
+Words without vowels
+
+Words without consonants
+
+Zero consonant
+
+9. References
+
+10. Bibliography
+
+Handbook of the International Phonetic Association, 1999. Cambridge University ISBN 978-0-521-63751-0
+
+Johnson, Keith, Acoustic & Auditory Phonetics, second edition, 2003. Blackwell ISBN 978-1-4051-0123-3
+
+Korhonen, Mikko. Koltansaamen opas, 1973. Castreanum ISBN 978-951-45-0189-0
+
+Ladefoged, Peter, A Course in Phonetics, fifth edition, 2006. Boston, MA: Thomson Wadsworth ISBN 978-1-4130-2079-3
+
+Ladefoged, Peter, Elements of Acoustic Phonetics, 1995. University of Chicago ISBN 978-0-226-46764-1
+
+Ladefoged, Peter, Vowels and Consonants: An Introduction to the Sounds of Languages, 2000. Blackwell ISBN 978-0-631-21412-0.
+
+Stevens, Kenneth N. (1998). Acoustic phonetics. Current studies in linguistics (No. 30). Cambridge, MA: MIT. ISBN 978-0-262-19404-4.
+
+Watt, D. and Tillotson, J. (2001). A spectrographic analysis of vowel fronting in Bradford English. English World-Wide 22:2, 269–302. Available at //www.abdn.ac.uk/langling/resources/Watt-Tillotson2001.pdf
+
+11. External links
+
+with MP3 sound files
+
+with AIFF sound files
+
+Online examples from Ladefoged's Vowels and Consonants, referenced above.

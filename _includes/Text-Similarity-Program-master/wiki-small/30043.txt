@@ -1,0 +1,131 @@
+Tellurium is a chemical element with symbol Te and atomic number 52. A brittle, mildly toxic, rare, silver-white metalloid which looks similar to tin, tellurium is chemically related to selenium and sulfur. It is occasionally found in native form, as elemental crystals. Tellurium is far more common in the universe as a whole than it is on Earth. Its extreme rarity in the Earth's crust, comparable to that of platinum, is partly due to its high atomic number, but also due to its formation of a volatile hydride which caused the element to be lost to space as a gas during the hot nebular formation of the planet.
+
+Tellurium was discovered in Habsburg Empire, in 1782 by Franz-Joseph Müller von Reichenstein in a mineral containing tellurium and gold. Martin Heinrich Klaproth named the new element in 1798 after the Latin word for "earth", tellus. Gold telluride minerals are the most notable natural gold compounds. However, they are not a commercially significant source of tellurium itself, which is normally extracted as a by-product of copper and lead production.
+
+Commercially, the primary use of tellurium is in alloys, foremost in steel and copper to improve machinability. Applications in solar panels and as a semiconductor material also consume a considerable fraction of tellurium production.
+
+Tellurium has no biological function, although fungi can incorporate it in place of sulfur and selenium into amino acids such as tellurocysteine and telluromethionine. In humans, tellurium is partly metabolized into dimethyl telluride, (CH3)2Te, a gas with a garlic-like odor which is exhaled in the breath of victims of tellurium toxicity or exposure.
+
+1. Characteristics
+
+1.1. Physical properties
+
+When crystalline, tellurium is silvery-white and when it is in pure state it has a metallic luster. It is a brittle and easily pulverized metalloid. Amorphous tellurium is found by precipitating it from a solution of tellurous or telluric acid (Te(OH)6). Tellurium is a semiconductor that shows a greater electrical conductivity in certain directions which depends on atomic alignment; the conductivity increases slightly when exposed to light (photoconductivity). When in its molten state, tellurium is corrosive to copper, iron and stainless steel.
+
+1.2. Chemical properties
+
+Tellurium adopts a polymeric structure, consisting of zig-zag chains of Te atoms. This gray material resists oxidation by air and is nonvolatile.
+
+1.3. Isotopes
+
+Naturally occurring tellurium has eight isotopes. Five of those isotopes, 122Te, 123Te, 124Te, 125Te and 126Te, are stable. The other three, 120Te, 128Te and 130Te, have been observed to be radioactive. The stable isotopes make up only 33.2% of the naturally occurring tellurium; this is possibly due to the long half-lives of the unstable isotopes. They are in the range from 1013 to 2.2 × 1024 years (for 128Te). This makes 128Te the isotope with the longest half life among all radionuclides, which is approximately 160 trillion (1012) times the age of known universe.
+
+There are 38 known nuclear isomers of tellurium with atomic masses that range from 105 to 142. Tellurium is among the lightest elements known to undergo alpha decay, with isotopes 106Te to 110Te being able to undergo this mode of decay. The atomic mass of tellurium (127.60 g·mol−1) exceeds that of the following element iodine (126.90 g·mol−1).
+
+1.4. Occurrence
+
+With an abundance in the Earth's crust comparable to that of platinum, tellurium is one of the rarest stable solid elements in the Earth's crust. Its abundance is about 1 µg/kg. In comparison, even the rarest of the lanthanides have crustal abundances of 500 µg/kg (see Abundance of the chemical elements).
+
+The extreme rarity of tellurium in the Earth's crust is not a reflection of its cosmic abundance, which is in fact greater than that of rubidium, even though rubidium is ten thousand times more abundant in the Earth's crust. The extraordinarily low abundance of tellurium on Earth is rather thought to be due to conditions in the Earth's formation, when the stable form of certain elements, in the absence of oxygen and water, was controlled by the reductive power of free hydrogen. Under this scenario, certain elements such as tellurium which form volatile hydrides were severely depleted during the formation of the Earth's crust, through evaporation of these hydrides. Tellurium and selenium are the heavy elements most depleted in the Earth's crust by this process.
+
+Tellurium is sometimes found in its native (i.e., elemental) form, but is more often found as the tellurides of gold such as calaverite and krennerite (two different polymorphs of AuTe2), petzite, Ag3AuTe2, and sylvanite, AgAuTe4. The city of Telluride, Colorado was named in hope of a strike of gold telluride (which never materialized, though gold metal ore was found). Gold itself is usually found uncombined, but when found naturally as a chemical compound, it is most often combined with tellurium.
+
+Although tellurium is found with gold more often than in uncombined form, it is found even more often combined with elements other than gold, as tellurides of more common metals (e.g. melonite, NiTe2). Natural tellurite and tellurate minerals also occur, formed by oxidation of tellurides near the Earth's surface. In contrast to selenium, tellurium is not in general able to replace sulfur in its minerals, due to the large difference in ion radius of sulfur and tellurium. In consequence, many common sulfide minerals contain considerable amounts of selenium, but only traces of tellurium.
+
+In the gold rush of 1893, diggers in Kalgoorlie discarded a pyritic material which got in their way as they searched for pure gold. The Kalgoorlie waste was thus used to fill in potholes or as part of sidewalks. Three years passed before it was realized that this waste was calaverite, a telluride of gold that had not been recognized. This led to a second gold rush in 1896 which included mining the streets.
+
+2. History
+
+Tellurium (Latin tellus meaning "goddess of the earth") was discovered in the 18th century in a gold ore from the mines in Zlatna, near today's city of Sibiu, Romania. This ore was known as "Faczebajer weißes blättriges Golderz" (white leafy gold ore from Faczebaja, German name of Facebánya, now Faţa Băii in Alba County) or antimonalischer Goldkies (antimonic gold pyrite), and, according to Anton von Rupprecht, was Spießglaskönig (argent molybdique), containing native antimony. In 1782 Franz-Joseph Müller von Reichenstein, who was then serving as the Austrian chief inspector of mines in Transylvania, concluded that the ore did not contain antimony, but that it was bismuth sulfide. The following year, he reported that this was erroneous and that the ore contained mostly gold and an unknown metal very similar to antimony. After a thorough investigation which lasted for three years and consisted of more than fifty tests, Müller determined the specific gravity of the mineral and noted the radish-like odor of the white smoke which passed off when the new metal was heated, the red color which the metal imparts to sulfuric acid, and the black precipitate which this solution gives when diluted with water. Nevertheless, he was not able to identify this metal and gave it the names aurum paradoxium and metallum problematicum, as it did not show the properties predicted for the expected antimony.
+
+In 1789, a Hungarian scientist, Pál Kitaibel, also discovered the element independently in an ore from Deutsch-Pilsen which had been regarded as argentiferous molybdenite, but later he gave the credit to Müller. In 1798, it was named by Martin Heinrich Klaproth who had earlier isolated it from the mineral calaverite. The 1960s brought growth in thermoelectric applications for tellurium (as bismuth telluride), as well as its use in free-machining steel, which became the dominant use.
+
+3. Production
+
+The principal source of tellurium is from anode sludges produced during the electrolytic refining of blister copper. It is a component of dusts from blast furnace refining of lead. Treatment of 1000 tons of copper ore typically yields one kilogram (2.2 pounds) of tellurium. Tellurium is produced mainly in the United States, Peru, Japan and Canada. For the year 2009 the British Geological Survey gives the following numbers: United States 50 t, Peru 7 t, Japan 40 t and Canada 16 t. The anode sludges contain the selenides and tellurides of the noble metals in compounds with the formula M2Se or M2Te (M = Cu, Ag, Au). At temperatures of 500 °C the anode sludges are roasted with sodium carbonate under air. The metal ions are reduced to the metals, while the telluride is converted to sodium tellurite.
+
+Tellurites can be leached from the mixture with water and are normally present as hydrotellurites HTeO3– in solution. Selenites are also formed during this process, but they can be separated by adding sulfuric acid. The hydrotellurites are converted into the insoluble tellurium dioxide while the selenites stay in solution.
+
+The reduction to the metal is done either by electrolysis or by reacting the tellurium dioxide with sulfur dioxide in sulfuric acid.
+
+Commercial-grade tellurium is usually marketed as 200-mesh powder but is also available as slabs, ingots, sticks, or lumps. The year-end price for tellurium in 2000 was US$14 per pound. In recent years, the tellurium price was driven up by increased demand and limited supply, reaching as high as US$100 per pound in 2006. Despite an expected doubling in production due to improved extraction methods, the United States Department of Energy (DoE) anticipates a supply shortfall of tellurium by 2025.
+
+4. Compounds
+
+Tellurium belongs to the same chemical family as oxygen, sulfur, selenium and polonium: the chalcogen family. Tellurium and selenium compounds are similar. It exhibits the oxidation states −2, +2, +4 and +6, with the +4 state being most common.
+
+;Tellurides Reduction of Te metal produces the tellurides and polytellurides, Ten2–. The −2 oxidation state is exhibited in binary compounds with many metals, such as zinc telluride, , formed by heating tellurium with zinc. Decomposition of with hydrochloric acid yields hydrogen telluride (), a highly unstable analogue of the other chalcogen hydrides, , and :
+
+is unstable, whereas salts of its conjugate base [TeH]– are stable.
+
+;Halides The +2 oxidation state is exhibited by the dihalides, , and . The dihalides have not been obtained in pure form, although they are known decomposition products of the tetrahalides in organic solvents, and their derived tetrahalotellurates are well-characterized:
+
+where X is Cl, Br, or I. These anions are square planar in geometry. Polynuclear anionic species also exist, such as the dark brown , and the black .
+
+Fluorine forms two halides with tellurium: the mixed-valence and . In the +6 oxidation state, the structural group occurs in a number of compounds such as , , , and . The square antiprismatic anion is also attested. The other halogens do not form halides with tellurium in the +6 oxidation state, but only tetrahalides (, and ) in the +4 state, and other lower halides (, , , and two forms of ). In the +4 oxidation state, halotellurate anions are known, such as and . Halotellurium cations are also attested, including , found in .
+
+;Oxocompounds Tellurium monoxide was first reported in 1883 as a black amorphous solid formed by the heat decomposition of in vacuum, disproportionating into tellurium dioxide, and elemental tellurium upon heating. Since then, however, some doubt has been cast on its existence in the solid phase, although it is known as a vapor phase fragment; the black solid may be merely an equimolar mixture of elemental tellurium and tellurium dioxide.
+
+Tellurium dioxide is formed by heating tellurium in air, causing it to burn with a blue flame. Tellurium trioxide, β-, is obtained by thermal decomposition of . The other two forms of trioxide reported in the literature, the α- and γ- forms, were found not to be true oxides of tellurium in the +6 oxidation state, but a mixture of , and . Tellurium also exhibits mixed-valence oxides, and .
+
+The tellurium oxides and hydrated oxides form a series of acids, including tellurous acid (), orthotelluric acid () and metatelluric acid (). The two forms of telluric acid form tellurate salts containing the TeO and TeO anions, respectively. Tellurous acid forms tellurite salts containing the anion TeO. Other tellurium cations include , which consists of two fused tellurium rings and the polymeric .
+
+;Zintl cations When tellurium is treated with concentrated sulfuric acid, it forms red solutions containing the Zintl ion, . The oxidation of tellurium by in liquid also produces this square planar cation, as well as with the trigonal prismatic, yellow-orange :
+
+Other tellurium Zintl cations include the polymeric and the blue-black , which consists of two fused 5-membered tellurium rings. The latter cation is formed by the reaction of tellurium with tungsten hexachloride:
+
+Interchalcogen cations also exist, such as (distorted cubic geometry) and . These are formed by oxidizing mixtures of tellurium and selenium with or .
+
+;Organotellurium compounds Tellurium does not readily form analogues of alcohols and thiols, with the functional group –TeH and are called tellurols. The –TeH functional group is also attributed to using the prefix tellanyl-. Like H2Te, these species are unstable with respect to loss of hydrogen. Telluraethers (R-Te-R) are more stable as are telluroxides.
+
+5. Applications
+
+5.1. Metallurgy
+
+The largest consumer of tellurium is metallurgy, where it is used in iron, copper and lead alloys. When added to stainless steel and copper it makes these metals more machinable. It is alloyed into cast iron for promoting chill for spectroscopic purposes, as the presence of electrically conductive free graphite tends to deleteriously affect spark emission testing results. In lead it improves strength and durability and decreases the corrosive action of sulfuric acid.
+
+5.2. Semiconductor and electronic industry uses
+
+Tellurium is used in cadmium telluride (CdTe) solar panels. National Renewable Energy Laboratory lab tests using this material achieved some of the highest efficiencies for solar cell electric power generation. Massive commercial production of CdTe solar panels by First Solar in recent years has significantly increased tellurium demand. If some of the cadmium in CdTe is replaced by zinc then (Cd,Zn)Te is formed which is used in solid-state X-ray detectors.
+
+Alloyed with both cadmium and mercury, to form mercury cadmium telluride, an infrared sensitive semiconductor material is formed. Organotellurium compounds such as dimethyl telluride, diethyl telluride, diisopropyl telluride, diallyl telluride and methyl allyl telluride are used as precursors for metalorganic vapor phase epitaxy growth of II-VI compound semiconductors. Diisopropyl telluride (DIPTe) is employed as the preferred precursor for achieving the low-temperature growth of CdHgTe by MOVPE. For these processes highest purity metalorganics of both selenium and tellurium are used. The compounds for semiconductor industry and are prepared by adduct purification.
+
+Tellurium as a tellurium suboxide is used in the media layer of several types of rewritable optical discs, including ReWritable Compact Discs (CD-RW), ReWritable Digital Video Discs (DVD-RW) and ReWritable Blu-ray Discs.
+
+Tellurium dioxide is used to create acousto-optic modulators (AOTFs and AOBSs) for confocal microscropy.
+
+Tellurium is used in the new phase change memory chips developed by Intel. Bismuth telluride (Bi2Te3) and lead telluride are working elements of thermoelectric devices. Lead telluride is used in far-infrared detectors.
+
+5.3. Other uses
+
+Used to color ceramics.
+
+The strong increase in optical refraction upon the addition of selenides and tellurides into glass is used in the production of glass fibers for telecommunications. These chalcogenide glasses are widely used.
+
+Mixtures of selenium and tellurium are used with barium peroxide as oxidizer in the delay powder of electric blasting caps.
+
+Organic tellurides have been employed as initiators for living radical polymerization and electron-rich mono- and di-tellurides possess antioxidant activity.
+
+Rubber can be vulcanized with tellurium instead of sulfur or selenium. The rubber produced in this way shows improved heat resistance.
+
+Tellurite agar is used to identify member of the corynebacterium genus, most typically Corynebacterium diphtheriae, the pathogen responsible for diphtheria.
+
+6. Biological role
+
+Tellurium has no known biological function, although fungi can incorporate it in place of sulfur and selenium into amino acids such as telluro-cysteine and telluro-methionine. Organisms have shown a highly variable tolerance to tellurium compounds. Many cells take up tellurite and reduce it to elemental tellurium which accumulates and causes a characteristic and often dramatic darkening of cells. In yeast, this reduction is mediated by the sulfate assimilation pathway. Tellurium accumulation seems to account for a major part of the toxicity effects. Many organisms also metabolize tellurium partly to form dimethyl telluride although dimethyl ditelluride is also formed by some species. Dimethyl telluride has been observed in hot springs at very low concentrations.
+
+7. Precautions
+
+Tellurium and tellurium compounds are considered to be mildly toxic and need to be handled with care, although acute poisoning is rare. Tellurium poisoning is particularly difficult to treat as many chelation agents used in the treatment of metal toxicities will increase the toxicity of tellurium. Tellurium is not reported to be carcinogenic.
+
+Humans exposed to as little as 0.01 mg/m3 or less in air exude a foul garlic-like odor known as "tellurium breath." This is caused from the tellurium being metabolized by the body, converting it from any oxidation state to dimethyl telluride, (CH3)2Te. This is a volatile compound with a highly pungent garlic-like smell. Even though the metabolic pathways of tellurium are not known, it is generally assumed that they resemble those of the more extensively studied selenium, because the final methylated metabolic products of the two elements are similar.
+
+8. See also
+
+The 1862 telluric helix of Alexandre-Émile Béguyer de Chancourtois.
+
+9. References
+
+10. External links
+
+at The Periodic Table of Videos (University of Nottingham)

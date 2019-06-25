@@ -1,0 +1,75 @@
+A mathematical game is a multiplayer game whose rules, strategies, and outcomes are defined by clear mathematical parameters. Often, such games have simple rules and match procedures, such as Tic-tac-toe and Dots and Boxes. Generally, mathematical games need not be conceptually intricate to involve deeper computational underpinnings. For example, even though the rules of Mancala are relatively basic, the game can be rigorously analyzed through the lens of combinatorial game theory.
+
+Mathematical games differ sharply from mathematical puzzles in that mathematical puzzles require specific mathematical expertise to complete, whereas mathematical games do not require a deep knowledge of mathematics to play. Often, the arithmetic core of mathematical games is not readily apparent to players untrained to note the statistical or mathematical aspects.
+
+Some mathematical games are of deep interest in the field of recreational mathematics.
+
+When studying a game's core mathematics, arithmetic theory is generally of higher utility than actively playing or observing the game itself. To analyze a game numerically, it is particularly useful to study the rules of the game insofar as they can yield equations or relevant formulas. This is frequently done to determine winning strategies or to distinguish if the game has a solution.
+
+1. Specific mathematical games and puzzles
+
+1.1. Abstract Strategy Games (No chance involved)
+
+Sometimes it is not immediately obvious that a particular game involves chance. Often a card game is described as "pure strategy" and such, but a game with any sort of random shuffling or face-down dealing of cards should not be considered to be "no chance". Several abstract strategy games are listed below:
+
+1.1.1. Lattice board
+
+Angels and Devils
+
+Arimaa
+
+Checkers (English draughts)
+
+Checkers variants
+
+Chess
+
+Chess variants
+
+Chomp
+
+Domineering
+
+Dots and boxes
+
+Go
+
+Go variants
+
+Hex
+
+Hexapawn
+
+L game
+
+Philosopher's football
+
+Rhythmomachy
+
+1.1.2. Non-lattice boards and other games
+
+Graph pebbling
+
+Hackenbush
+
+Chopsticks (Hand game)
+
+Nim
+
+Sim
+
+Sprouts
+
+Four Fours
+
+1.2. Chance involved or imperfect information
+
+24
+
+Prisoner's dilemma
+
+2. See also
+
+Solved game
+
+Games of skill

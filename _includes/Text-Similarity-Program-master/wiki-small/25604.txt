@@ -1,0 +1,251 @@
+Radon is a chemical element with symbol Rn and atomic number 86. It is a radioactive, colorless, odorless, tasteless noble gas, occurring naturally as an indirect decay product of uranium or thorium. Its most stable isotope, 222Rn, has a half-life of 3.8 days. Radon is one of the densest substances that remains a gas under normal conditions. It is also the only gas under normal conditions that only has radioactive isotopes, and is considered a health hazard due to its radioactivity. Intense radioactivity has also hindered chemical studies of radon and only a few compounds are known.
+
+Radon is formed as one intermediate step in the normal radioactive decay chains, through which thorium and uranium slowly decay into lead. Thorium and uranium are the two most common radioactive elements on earth; they have been around since the earth was formed. Their naturally occurring isotopes have very long half-lives, on the order of billions of years. Thorium and uranium, their decay product radium, and its decay product radon, will therefore continue to occur for tens of millions of years at almost the same concentrations as they do now. As radon itself decays, it produces new radioactive elements called radon daughters or decay products. Unlike the gaseous radon itself, radon daughters are solids and stick to surfaces, such as dust particles in the air. If such contaminated dust is inhaled, these particles can stick to the airways of the lung and increase the risk of developing lung cancer.
+
+Unlike all the other intermediate elements in the aforementioned decay chains, radon is gaseous and easily inhaled. Thus, even in this age of nuclear reactors, naturally-occurring radon is responsible for the majority of the public exposure to ionizing radiation. It is often the single largest contributor to an individual's background radiation dose, and is the most variable from location to location. Despite its short lifetime, some radon gas from natural sources can accumulate to far higher than normal concentrations in buildings, especially in low areas such as basements and crawl spaces due to its heavy nature. It can also be found in some spring waters and hot springs.
+
+Epidemiological studies have shown a clear link between breathing high concentrations of radon and incidence of lung cancer. Thus, radon is considered a significant contaminant that affects indoor air quality worldwide. According to the United States Environmental Protection Agency, radon is the second most frequent cause of lung cancer, after cigarette smoking, causing 21,000 lung cancer deaths per year in the United States. About 2,900 of these deaths occur among people who have never smoked. While radon is the second most frequent cause of lung cancer, it is the number one cause among non-smokers, according to EPA estimates.
+
+1. Characteristics
+
+1.1. Physical properties
+
+Radon is a colorless, odorless, and tasteless gas and therefore not detectable by human senses alone. At standard temperature and pressure, radon forms a monatomic gas with a density of 9.73 kg/m3, about 8 times the density of the Earth's atmosphere at sea level, 1.217 kg/m3. Radon is one of the densest gases at room temperature and is the densest of the noble gases. Although colorless at standard temperature and pressure, when cooled below its freezing point of , radon emits a brilliant radioluminescence that turns from yellow to orange-red as the temperature lowers. Upon condensation, radon glows because of the intense radiation it produces. Radon is sparingly soluble in water, but more soluble than lighter noble gases. Radon is appreciably more soluble in organic liquids than in water.
+
+1.2. Chemical properties
+
+Being a noble gas, radon is chemically not very reactive. However, the 3.8-day half-life of radon-222 makes it useful in physical sciences as a natural tracer.
+
+Radon is a member of the zero-valence elements that are called noble gases. It is inert to most common chemical reactions, such as combustion, because the outer valence shell contains eight electrons. This produces a stable, minimum energy configuration in which the outer electrons are tightly bound. 1037 kJ/mol is required to extract one electron from its shells (also known as the first ionization energy). However, in accordance with periodic trends, radon has a lower electronegativity than the element one period before it, xenon, and is therefore more reactive. Early studies concluded that the stability of radon hydrate should be of the same order as that of the hydrates of chlorine () or sulfur dioxide (), and significantly higher than the stability of the hydrate of hydrogen sulfide ().
+
+Because of its cost and radioactivity, experimental chemical research is seldom performed with radon, and as a result there are very few reported compounds of radon, all either fluorides or oxides. Radon can be oxidized by a few powerful oxidizing agents such as fluorine, thus forming radon difluoride. It decomposes back to elements at a temperature of above 250 °C. It has a low volatility and was thought to be . But because of the short half-life of radon and the radioactivity of its compounds, it has not been possible to study the compound in any detail. Theoretical studies on this molecule predict that it should have a Rn–F bond distance of 2.08 Å, and that the compound is thermodynamically more stable and less volatile than its lighter counterpart . The octahedral molecule was predicted to have an even lower enthalpy of formation than the difluoride. The higher fluorides RnF4 and RnF6 have been claimed to exist, and are calculated to be stable, but it is doubtful whether they have actually been synthesized. The [RnF]+ ion is believed to form by the following reaction:
+
+Radon oxides are among the few other reported ; only the trioxide has been confirmed. Radon carbonyl RnCO has been predicted to be stable and to have a linear molecular geometry. The molecules and RnXe were found to be significantly stabilized by spin-orbit coupling. Radon caged inside a fullerene has been proposed as a drug for tumors. Despite the existence of Xe(VIII), no Rn(VIII) compounds have been claimed to exist; RnF8 should be highly unstable chemically (XeF8 is thermodynamically unstable). It is predicted that the most stable Rn(VIII) compound would be barium perradate (Ba2RnO6), analogous to barium perxenate. The instability of Rn(VIII) is due to the relativistic stabilization of the 6s shell, also known as the inert pair effect.
+
+1.3. Isotopes
+
+Radon has no stable isotopes. However, 36 radioactive isotopes have been characterized, with their atomic masses ranging from 193 to 228. The most stable isotope is 222Rn, which is a decay product of 226Ra, a decay product of 238U. A very trace amount of the (highly unstable) isotope 218Rn is also among the daughters of 222Rn.
+
+There are three other radon isotopes that have a half-life of over an hour: 211Rn, 210Rn and 224Rn. The 220Rn isotope is a natural decay product of the most stable thorium isotope (232Th), and is commonly referred to as thoron. It has a half-life of 55.6 seconds and also emits alpha radiation. Similarly, 219Rn is derived from the most stable isotope of actinium (227Ac)—named "actinon"—and is an alpha emitter with a half-life of 3.96 seconds. No radon isotopes occur significantly in the neptunium (237Np) decay series, though a trace amount of the (extremely unstable) isotope 217Rn is produced.
+
+1.3.1. Progenies
+
+222Rn belongs to the radium and uranium-238 decay chain, and has a half-life of 3.8235 days. Its four first products (excluding marginal decay schemes) are very short-lived, meaning that the corresponding disintegrations are indicative of the initial radon distribution. Its decay goes through the following sequence:
+
+222Rn, 3.8 days, alpha decaying to...
+
+218Po, 3.10 minutes, alpha decaying to...
+
+214Pb, 26.8 minutes, beta decaying to...
+
+214Bi, 19.9 minutes, beta decaying to...
+
+214Po, 0.1643 ms, alpha decaying to...
+
+210Pb, which has a much longer half-life of 22.3 years, beta decaying to...
+
+210Bi, 5.013 days, beta decaying to...
+
+210Po, 138.376 days, alpha decaying to...
+
+206Pb, stable. The radon equilibrium factor is the ratio between the activity of all short-period radon progenies (which are responsible for most of radon's biological effects), and the activity that would be at equilibrium with the radon parent.
+
+If a closed volume is constantly supplied with radon, the concentration of short-lived isotopes will increase until an equilibrium is reached where the rate of decay of each decay product will equal that of the radon itself. The equilibrium factor is 1 when both activities are equal, meaning that the decay products have stayed close to the radon parent long enough for the equilibrium to be reached, within a couple of hours. Under these conditions each additional pCi/L of radon will increase exposure, by 0.01 WL (see explanation of WL below). These conditions are not always met; in many homes, the equilibrium fraction is typically 40%; that is, there will be 0.004 WL of progeny for each pCi/L of radon in air. 210Pb takes much longer (decades) to come in equilibrium with radon, but, if the environment permits accumulation of dust over extended periods of time, 210Pb and its decay products may contribute to overall radiation levels as well.
+
+Because of their electrostatic charge, radon progenies adhere to surfaces or dust particles, whereas gaseous radon does not. Attachment removes them from the air, usually causing the equilibrium factor in the atmosphere to be less than one. The equilibrium factor is also lowered by air circulation or air filtration devices, and is increased by airborne dust particles, including cigarette smoke. In high concentrations, airborne radon isotopes contribute significantly to human health risk. The equilibrium factor found in epidemiological studies is 0.4.
+
+2. History and etymology
+
+Radon was the fifth radioactive element to be discovered, in 1900 by Friedrich Ernst Dorn, after uranium, thorium, radium and polonium. In 1900 Dorn reported some experiments in which he noticed that radium compounds emanate a radioactive gas he named Radium Emanation (Ra Em). Before that, in 1899, Pierre and Marie Curie observed that the gas emitted by radium remained radioactive for a month. Later that year, Robert B. Owens and Ernest Rutherford, at McGill University in Montreal, noticed variations when trying to measure radiation from thorium oxide. Rutherford noticed that the compounds of thorium continuously emit a radioactive gas that retains the radioactive powers for several minutes, and called this gas emanation (from Latin "emanare"—to elapse and "emanatio"—expiration), and later Thorium Emanation (Th Em). In 1901, he demonstrated that the emanations are radioactive, but credited the Curies for the discovery of the element. In 1903, similar emanations were observed from actinium by André-Louis Debierne and were called Actinium Emanation (Ac Em).
+
+Several names were suggested for these three gases: exradio, exthorio, and exactinio in 1904; radon, thoron, and akton in 1918; radeon, thoreon, and actineon in 1919, and eventually radon, thoron, and actinon in 1920. The likeness of the spectra of these three gases with those of argon, krypton, and xenon, and their observed chemical inertia led Sir William Ramsay to suggest in 1904 that the "emanations" might contain a new element of the noble gas family.
+
+In 1910, Sir William Ramsay and Robert Whytlaw-Gray isolated radon, determined its density, and determined that it was the heaviest known gas. They wrote that "L'expression de l'émanation du radium est fort incommode", (the expression 'radium emanation' is very awkward) and suggested the new name niton (Nt) (from the Latin "nitens" meaning "shining") to emphasize the radioluminescence property, and in 1912 it was accepted by the International Commission for Atomic Weights. In 1923, the International Committee for Chemical Elements and International Union of Pure and Applied Chemistry (IUPAC) chose among the names radon (Rn), thoron (Tn), and actinon (An). Later, when isotopes were numbered instead of named, the element took the name of the most stable isotope, radon, while Tn was renamed 220Rn and An was renamed 219Rn. As late as the 1960s, the element was also referred to simply as emanation. The first synthesized compound of radon, radon fluoride, was obtained in 1962.
+
+The danger of high exposure to radon in mines, where exposures reaching 1,000,000 Bq/m3 can be found, has long been known. In 1530, Paracelsus described a wasting disease of miners, the mala metallorum, and Georg Agricola recommended ventilation in mines to avoid this mountain sickness (Bergsucht). In 1879, this condition was identified as lung cancer by Herting and Hesse in their investigation of miners from Schneeberg, Germany. The first major studies with radon and health occurred in the context of uranium mining in the Joachimsthal region of Bohemia. In the US, studies and mitigation only followed decades of health effects on uranium miners of the Southwestern United States employed during the early Cold War; standards were not implemented until 1971.
+
+The presence of radon in indoor air was documented as early as 1950. Beginning in the 1970s research was initiated to address sources of indoor radon, determinants of concentration, health effects, and approaches to mitigation. In the United States, the problem of indoor radon received widespread publicity and intensified investigation after a widely publicized incident in 1984. During routine monitoring at a Pennsylvania nuclear power plant, a worker was found to be contaminated with radioactivity. A high contamination of radon in his home was subsequently identified as responsible for the contamination.
+
+3. Occurrence
+
+3.1. Concentration units
+
+All discussions of radon concentrations in the environment refer to 222Rn. While the average rate of production of 220Rn (from the thorium decay series) is about the same as 222Rn, the amount of 220Rn in the environment is much less than that of 222Rn because of the short half-life of 220Rn (55 seconds, versus 3.8 days respectively).
+
+Radon concentration in the atmosphere is usually measured in becquerel per cubic meter (Bq/m3), the SI derived unit. Another unit of measurement common in the USA is picocuries per liter (pCi/L); 1 pCi/L=37 Bq/m3. Typical domestic exposures average about 48 Bq/m3 indoors, though this varies widely, and 15 Bq/m3 outdoors.
+
+In the mining industry, the exposition is traditionally measured in working level (WL), and the cumulative exposition in working level month (WLM); 1 WL equals any combination of short-lived 222Rn progeny (218Po, 214Pb, 214Bi, and 214Po) in 1 liter of air that releases 1.3 × 105 MeV of potential alpha energy; one WL is equivalent to 2.08 × 10−5 joules per cubic meter of air (J/m3). The SI unit of cumulative exposure is expressed in joule-hours per cubic meter (J·h/m3). One WLM is equivalent to 3.6 × 10−3 J·h/m3. An exposure to 1 WL for 1 working month (170 hours) equals 1 WLM cumulative exposure. A cumulative exposure of 1 WLM is roughly equivalent to living one year in an atmosphere with a radon concentration of 230 Bq/m3.
+
+Radon (222Rn), when released into the air, decays to 210Pb and other radioisotopes. The levels of 210Pb can be measured. The rate of deposition of this radioisotope is weather-dependent.
+
+Radon concentrations found in natural environments are much too low to be detected by chemical means. A 1000 Bq/m3 (relatively high) concentration corresponds to 0.17 picogram per cubic meter. The average concentration of radon in the atmosphere is about 6 atoms of radon for each molecule in the air, or about 150 atoms in each ml of air. The radon activity of the entire Earth's atmosphere originates from only a few tens of grams of radon, consistently replaced by decay of larger amounts of radium and uranium.
+
+3.2. Natural
+
+Radon is produced by the radioactive decay of radium-226, which is found in uranium ores; phosphate rock; shales; igneous and metamorphic rocks such as granite, gneiss, and schist; and, to a lesser degree, in common rocks such as limestone. Every square mile of surface soil, to a depth of 6 inches (2.6 km2 to a depth of 15 cm), contains approximately 1 gram of radium, which releases radon in small amounts to the atmosphere On a global scale, it is estimated that 2,400 million curies (90 TBq) of radon are released from soil annually.
+
+Radon concentration varies widely from place to place. In the open air, it ranges from 1 to 100 Bq/m3, even less (0.1 Bq/m3) above the ocean. In caves or aerated mines, or ill-aerated houses, its concentration climbs to 20–2,000 Bq/m3. Radon concentration can be much higher in mining contexts. Ventilation regulations instruct to maintain radon concentration in uranium mines under the "working level", with 95th percentile levels ranging up to nearly 3 WL (546 pCi 222Rn per liter of air; 20.2 kBq/m3, measured from 1976 to 1985). The concentration in the air at the (unventilated) Gastein Healing Gallery averages 43 kBq/m3 (1.2 nCi/L) with maximal value of 160 kBq/m3 (4.3 nCi/L).
+
+Radon mostly appears with the decay chain of the radium and uranium series (222Rn), and marginally with the thorium series (220Rn). The element emanates naturally from the ground, and some building materials, all over the world, wherever traces of uranium or thorium can be found, and particularly in regions with soils containing granite or shale, which have a higher concentration of uranium. However, not all granitic regions are prone to high emissions of radon. Being a rare gas, it usually migrates freely through faults and fragmented soils, and may accumulate in caves or water. Owing to its very short half-life (four days for 222Rn), radon concentration decreases very quickly when the distance from the production area increases. Radon concentration varies greatly with season and atmospheric conditions. For instance, it has been shown to accumulate in the air if there is a meteorological inversion and little wind.
+
+High concentrations of radon can be found in some spring waters and hot springs. The towns of Boulder, Montana; Misasa; Bad Kreuznach, Germany; and the country of Japan have radium-rich springs that emit radon. To be classified as a radon mineral water, radon concentration must be above a minimum of 2 nCi/L (74 kBq/m3). The activity of radon mineral water reaches 2,000 kBq/m3 in Merano and 4,000 kBq/m3 in Lurisia (Italy).
+
+Natural radon concentrations in the Earth's atmosphere are so low that radon-rich water in contact with the atmosphere will continually lose radon by volatilization. Hence, ground water has a higher concentration of 222Rn than surface water, because radon is continuously produced by radioactive decay of 226Ra present in rocks. Likewise, the saturated zone of a soil frequently has a higher radon content than the unsaturated zone because of diffusional losses to the atmosphere.
+
+In 1971, Apollo 15 passed 110 km (68 mi) above the Aristarchus plateau on the Moon, and detected a significant rise in alpha particles thought to be caused by the decay of 222Rn. The presence of 222Rn has been inferred later from data obtained from the Lunar Prospector alpha particle spectrometer.
+
+Radon is found in some petroleum. Because radon has a similar pressure and temperature curve to propane, and oil refineries separate petrochemicals based on their boiling points, the piping carrying freshly separated propane in oil refineries can become radioactive because of decaying radon and its products.
+
+Residues from the petroleum and natural gas industry often contain radium and its daughters. The sulfate scale from an oil well can be radium rich, while the water, oil, and gas from a well often contains radon. Radon decays to form solid radioisotopes that form coatings on the inside of pipework.
+
+3.3. Accumulation in houses
+
+High concentrations of radon in homes were discovered by chance in 1985 after the stringent radiation testing conducted at a nuclear power plant entrance revealed that Stanley Watras, an engineer entering the plant, was contaminated by radioactive substances. Typical domestic exposures are of approximately 100 Bq/m3 (1.3 pC/L) indoors. Some level of radon will be found in all homes. Radon mostly enters a home directly from the soil through the lowest level in the home that is in contact with the ground. High levels of radon in the water supply can also increase indoor radon air levels. Typical entry points of radon into homes are cracks in solid foundations, construction joints, cracks in walls, gaps in suspended floors, gaps around service pipes, cavities inside walls, and the water supply. Radon concentrations in the same location may differ by a factor of two over a period of 1 hour. Also, the concentration in one room of a building may be significantly different from the concentration in an adjoining room.
+
+The distribution of radon concentrations will generally change from room to room, and the readings are averaged according to regulatory protocols. Indoor radon concentration is usually assumed to follow a lognormal distribution on a given territory. Thus, the geometric mean is generally used for estimating the "average" radon concentration in an area.
+
+The mean concentration ranges from less than 10 Bq/m3 to over 100 Bq/m3 in some European countries. Typical geometric standard deviations found in studies range between 2 and 3, meaning (given the 68–95–99.7 rule) that the radon concentration is expected to be more than a hundred times the mean concentration for 2 to 3% of the cases.
+
+The highest average radon concentrations in the United States are found in Iowa and in the Appalachian Mountain areas in southeastern Pennsylvania. Some of the highest readings ever have been recorded in the Irish town of Mallow, County Cork, prompting local fears regarding lung cancer. Iowa has the highest average radon concentrations in the United States due to significant glaciation that ground the granitic rocks from the Canadian Shield and deposited it as soils making up the rich Iowa farmland. Many cities within the state, such as Iowa City, have passed requirements for radon-resistant construction in new homes.
+
+In a few locations, uranium tailings have been used for landfills and were subsequently built on, resulting in possible increased exposure to radon.
+
+Since radon is a colorless, odorless gas the only way to know how much is present in the air or water is to perform tests. In the United States radon test kits are available to the public at retail stores, such as hardware stores, for home use and testing is available through licensed professionals, who are often home inspectors. Efforts to reduce indoor radon levels are called radon mitigation. In the U.S. the Environmental Protection Agency recommends all houses be tested for radon.
+
+3.4. Industrial production
+
+Radon is obtained as a by-product of uraniferous ores processing after transferring into 1% solutions of hydrochloric or hydrobromic acids. The gas mixture extracted from the solutions contains , , He, Rn, , and hydrocarbons. The mixture is purified by passing it over copper at 720 °C to remove the and the , and then KOH and are used to remove the acids and moisture by sorption. Radon is condensed by liquid nitrogen and purified from residue gases by sublimation.
+
+Radon commercialization is regulated, but it is available in small quantities for the calibration of 222Rn measurement systems, at a price of almost $6,000 per milliliter of radium solution (which only contains about 15 picograms of actual radon at a given moment). Radon is produced by a solution of radium-226 (half-life of 1600 years). Radium-226 decays by alpha-particle emission, producing radon that collects over samples of radium-226 at a rate of about 1 mm3/day per gram of radium; equilibrium is quickly achieved and radon is produced in a steady flow, with an activity equal to that of the radium (50 Bq). Gaseous 222Rn (half-life of about four days) escapes from the capsule through diffusion.
+
+3.5. Concentration scale
+
+4. Applications
+
+4.1. Medical
+
+An early-20th-century form of quackery was the treatment of maladies in a radiotorium. It was a small, sealed room for patients to be exposed to radon for its "medicinal effects". The carcinogenic nature of radon due to its ionizing radiation became apparent later on. Radon's molecule-damaging radioactivity has been used to kill cancerous cells. It does not, however, increase the health of healthy cells. In fact, the ionizing radiation causes the formation of free radicals, which results in genetic and other cell damage, resulting in increased rates of illness, including cancer.
+
+Exposure to radon, a process known as radiation hormesis, has been suggested to mitigate auto-immune diseases such as arthritis. As a result, in the late 20th century and early 21st century, "health mines" established in Basin, Montana attracted people seeking relief from health problems such as arthritis through limited exposure to radioactive mine water and radon. However, the practice is discouraged because of the well-documented ill effects of high-doses of radiation on the body.
+
+Radioactive water baths have been applied since 1906 in Jáchymov, Czech Republic, but even before radon discovery they were used in Bad Gastein, Austria. Radium-rich springs are also used in traditional Japanese onsen in Misasa, Tottori Prefecture. Drinking therapy is applied in Bad Brambach, Germany. Inhalation therapy is carried out in Gasteiner-Heilstollen, Austria, in Świeradów-Zdrój, Czerniawa-Zdrój, Kowary, Lądek Zdrój, Poland, in Harghita Băi, Romania, and in Boulder, United States. In the United States and Europe there are several "radon spas," where people sit for minutes or hours in a high-radon atmosphere in the belief that low doses of radiation will invigorate or energize them.
+
+Radon has been produced commercially for use in radiation therapy, but for the most part has been replaced by radionuclides made in accelerators and nuclear reactors. Radon has been used in implantable seeds, made of gold or glass, primarily used to treat cancers. The gold seeds were produced by filling a long tube with radon pumped from a radium source, the tube being then divided into short sections by crimping and cutting. The gold layer keeps the radon within, and filters out the alpha and beta radiations, while allowing the gamma rays to escape (which kill the diseased tissue). The activities might range from 0.05 to 5 millicuries per seed (2 to 200 MBq). The gamma rays are produced by radon and the first short-lived elements of its decay chain (218Po, 214Pb, 214Bi, 214Po).
+
+Radon and its first decay products being very short-lived, the seed is left in place. After 12 half-lives (43 days), radon radioactivity is at 1/2000 of its original level. At this stage, the predominant residual activity originates from the radon decay product 210Pb, whose half-life (22.3 years) is 2000 times that of radon (and whose activity is thus 1/2000 of radon's), and its descendants 210Bi and 210Po.
+
+In the early part of the 20th century in the USA, gold contaminated with 210Pb entered the jewelry industry. This was from gold seeds that had held 222Rn that had been melted down after the radon had decayed.
+
+4.2. Scientific
+
+Radon emanation from the soil varies with soil type and with surface uranium content, so outdoor radon concentrations can be used to track air masses to a limited degree. This fact has been put to use by some atmospheric scientists. Because of radon's rapid loss to air and comparatively rapid decay, radon is used in hydrologic research that studies the interaction between ground water and streams. Any significant concentration of radon in a stream is a good indicator that there are local inputs of ground water.
+
+Radon soil-concentration has been used in an experimental way to map buried close-subsurface geological faults because concentrations are generally higher over the faults. Similarly, it has found some limited use in prospecting for geothermal gradients.
+
+Some researchers have investigated changes in groundwater radon concentrations for earthquake prediction. Radon has a half-life of approximately 3.8 days, which means that it can be found only shortly after it has been produced in the radioactive decay chain. For this reason, it has been hypothesized that increases in radon concentration is due to the generation of new cracks underground, which would allow increased ground water circulation, flushing out radon. The generation of new cracks might not unreasonably be assumed to precede major earthquakes. In the 1970s and 1980s, scientific measurements of radon emissions near faults found that earthquakes often occurred with no radon signal, and radon was often detected with no earthquake to follow. It was then dismissed by many as an unreliable indicator. However, as of 2009, it is under investigation as a possible precursor by NASA.
+
+Radon is a known pollutant emitted from geothermal power stations because it is present in the material pumped from deep underground. However, it disperses rapidly, and no radiological hazard has been demonstrated in various investigations. In addition, typical systems re-inject the material deep underground rather that releasing it at the surface, so its environmental impact is minimal.
+
+In the 1940s and 50s, radon was used for industrial radiography, Other X-ray sources, which became available after World War II, quickly replaced radon for this application, as they were lower in cost and had less hazard of alpha radiation.
+
+5. Health risks
+
+5.1. In mines
+
+Radon-222 (actually radon progeny) has been classified by International Agency for Research on Cancer as being carcinogenic to humans, and as a gas that can be inhaled, lung cancer is a particular concern for people exposed to high levels of radon for sustained periods of time. During the 1940s and 50s, when safety standards requiring expensive ventilation in mines were not widely implemented, radon exposure was linked to lung cancer among non-smoking miners of uranium and other hard rock materials in what is now the Czech Republic, and later among miners from the Southwestern United States.
+
+Since that time, ventilation and other measures have been used to reduce radon levels in most affected mines that continue to operate. In recent years, the average annual exposure of uranium miners has fallen to levels similar to the concentrations inhaled in some homes. This has reduced the risk of occupationally induced cancer from radon, although health issues may persist for those who are currently employed in affected mines and for those who have been employed in them in the past. As the relative risk for miners has decreased, so has the ability to detect excess risks among that population.
+
+In addition to lung cancer, researchers have theorized a possible increased risk of leukemia due to radon exposure. Empirical support from studies of the general population is inconsistent. However, a study of uranium miners found a noticeable correlation between radon exposure and chronic lymphocytic leukemia.
+
+5.2. Domestic-level exposure
+
+Radon exposure (actually radon progeny) has been linked to lung cancer in numerous case-control studies performed in the United States, Europe and China. There are approximately 21,000 deaths per year in the USA due to radon-induced lung cancers. One of the most comprehensive radon studies performed in the United States by Dr. R. William Field and colleagues found a 50% increased lung cancer risk even at the protracted exposures at the EPA's action level of 4 pCi/L. North American and European Pooled analyses further support these findings.
+
+Most models of residential radon exposure are based on studies of miners, and direct estimates of the risks posed to homeowners would be more desirable. Nonetheless, because of the difficulties of measuring the risk of radon relative to other contributors—namely smoking—models of their effect have often made use of them.
+
+Radon has been considered the second leading cause of lung cancer and leading environmental cause of cancer mortality by the United States Environmental Protection Agency. Others have reached similar conclusions for the United Kingdom and France. Radon exposure in homes and offices may arise from certain subsurface rock formations, and also from certain building materials (e.g., some granites). The greatest risk of radon exposure arises in buildings that are airtight, insufficiently ventilated, and have foundation leaks that allow air from the soil into basements and dwelling rooms.
+
+5.3. Action and reference level
+
+WHO presented in 2009 a recommended reference level (the national reference level), 100 Bq/m3, for radon in dwellings. The recommendation also says that where this is not possible, 300 Bq/m3 should be selected as the highest level. A national reference level should not be a limit, but should represent the maximum acceptable annual average radon concentration in a dwelling.
+
+The actionable concentration of radon in a home varies depending on the organization doing the recommendation, for example, the United States Environmental Protection Agency encourages that action be taken at concentrations as low as 74 Bq/m3 (2 pCi/L), and the European Union recommends action be taken when concentrations reach 400 Bq/m3 (11 pCi/L) for old houses and 200 Bq/m3 (5 pCi/L) for new ones. On 8 July 2010 the UK's Health Protection Agency issued new advice setting a "Target Level" of 100 Bq/m3 whilst retaining an "Action Level" of 200 Bq/m3. The same levels (as UK) applies to Norway from 2010, all new housings should be radon shielded.
+
+5.4. Relationship to smoking
+
+Results from epidemiological studies indicate that the risk of lung cancer increases with exposure to residential radon. However, there are always major uncertainties in these studies. A classical and well-known example of source of error is smoking. In addition, smoking is the most important risk factor for lung cancer. In the West, tobacco smoke is estimated to cause about 90% of all lung cancers. There is a tendency for other hypothetical lung cancer risks to drown in the risk of smoking. Results from epidemiological studies must always be interpreted with caution.
+
+According to the EPA, the risk of lung cancer for smokers is significant due to synergistic effects of radon and smoking. For this population about 62 people in a total of 1,000 will die of lung cancer compared to 7 people in a total of 1,000 for people who have never smoked. It can, however, not be excluded that the risk of non-smokers should be primarily explained by a combination effect of radon and passive smoking (see below).
+
+Radon, like other known or suspected external risk factors for lung cancer, is a threat for smokers and former smokers. This was clearly demonstrated by the European pooling study. A commentary to the pooling study stated: "it is not appropriate to talk simply of a risk from radon in homes. The risk is from smoking, compounded by a synergistic effect of radon for smokers. Without smoking, the effect seems to be so small as to be insignificant."
+
+According to the European pooling study, there is a difference in risk from radon between histological types. Small cell lung carcinoma, which practically only affects smokers have high risk from radon. For other histological types such as adenocarcinoma, the type that primarily affects never smokers, the risk from radon appears to be lower.
+
+A study of radiation from post mastectomy radiotherapy shows that the simple models previously used to assess the combined and separate risks from radiation and smoking need to be developed. This is also supported by new discussion about the calculation method, LNT, which routinely has been used.
+
+5.5. Relationship to passive smoking
+
+An important question is if also passive smoking can cause a similar synergy effect with residential radon. This has been insufficiently studied. The basic data for the European pooling study makes it impossible to exclude that such synergy effect is an explanation for the (very limited) increase in the risk from radon that was stated for non-smokers.
+
+A study from 2001, which included 436 cases (never smokers who had lung cancer), and a control group (1649 never smokers) showed that exposure to radon increased the risk of lung cancer in never smokers. But the group that had been exposed to passive smoking at home appeared to bear the entire risk increase, while those who were not exposed to passive smoking did not show any increased risk with increasing radon level.
+
+5.6. In drinking water
+
+The effects of radon if ingested are similarly unknown, although studies have found that its biological half-life ranges from 30–70 minutes, with 90 percent removal at 100 minutes. In 1999 National Research Council investigated the issue of radon in drinking water. The risks associated with ingestion was considered almost negligible. Water from underground sources may contain significant amounts of radon depending on the surrounding rock and soil conditions, whereas surface sources generally do not.
+
+As well as being ingested through drinking water, radon is also released from water when temperature is increased, pressure is decreased and when water is aerated. Optimum conditions for radon release and exposure occur during showering. Water with a radon concentration of 104 pCi/L can increase the indoor airborne radon concentration by 1 pCi/L under normal conditions of water use.
+
+5.7. Testing and mitigation
+
+There are relatively simple tests for radon gas. In some countries these tests are methodically done in areas of known systematic hazards. Radon detection devices are commercially available. The short-term radon test devices used for screening purposes are inexpensive, in some cases free. There are very important protocols for taking short-term radon tests and it is imperative that they be strictly followed. The kit includes a collector that the user hangs in the lowest livable floor of the house for 2 to 7 days. The user then sends the collector to a laboratory for analysis. Long term kits, taking collections for up to one year, are also available. An open-land test kit can test radon emissions from the land before construction begins.
+
+Radon levels fluctuate naturally, due to factors like transient weather conditions, so an initial test might not be an accurate assessment of a home's average radon level. Radon levels are at a maximum during the coolest part of the day when pressure differentials are greatest. Therefore, a high result (over 4 pCi/L) justifies repeating the test before undertaking more expensive abatement projects. Measurements between 4 and 10 pCi/L warrant a long term radon test. Measurements over 10 pCi/L warrant only another short term test so that abatement measures are not unduly delayed. Purchasers of real estate are advised to delay or decline a purchase if the seller has not successfully abated radon to 4 pCi/L or less.
+
+Because the half-life of radon is only 3.8 days, removing or isolating the source will greatly reduce the hazard within a few weeks. Another method of reducing radon levels is to modify the building's ventilation. Generally, the indoor radon concentrations increase as ventilation rates decrease. In a well ventilated place, the radon concentration tends to align with outdoor values (typically 10 Bq/m3, ranging from 1 to 100 Bq/m3).
+
+Radon levels in indoor air can be lowered in a number of ways, from sub-slab depressurization to increasing the ventilation rate of the building. The four principal ways of reducing the amount of radon accumulating in a house are
+
+Sub-slab depressurization (soil suction) by increasing under-floor ventilation;
+
+Improving the ventilation of the house and avoiding the transport of radon from the basement into living rooms;
+
+Installing a radon sump system in the basement;
+
+Installing a positive pressurization or positive supply ventilation system. According to the EPA the method to reduce radon "...primarily used is a vent pipe system and fan, which pulls radon from beneath the house and vents it to the outside," which is also called sub-slab depressurization, active soil depressurization, or soil suction. Generally indoor radon can be mitigated by sub-slab depressurization and exhausting such radon-laden air to the outdoors, away from windows and other building openings. "EPA generally recommends methods which prevent the entry of radon. Soil suction, for example, prevents radon from entering your home by drawing the radon from below the home and venting it through a pipe, or pipes, to the air above the home where it is quickly diluted" and "EPA does not recommend the use of sealing alone to reduce radon because, by itself, sealing has not been shown to lower radon levels significantly or consistently".
+
+Positive-pressure ventilation systems can be combined with a heat exchanger to recover energy in the process of exchanging air with the outside, and simply exhausting basement air to the outside is not necessarily a viable solution as this can actually draw radon gas into a dwelling. Homes built on a crawl space may benefit from a radon collector installed under a "radon barrier" (a sheet of plastic that covers the crawl space). For crawlspaces, the EPA states "An effective method to reduce radon levels in crawlspace homes involves covering the earth floor with a high-density plastic sheet. A vent pipe and fan are used to draw the radon from under the sheet and vent it to the outdoors. This form of soil suction is called submembrane suction, and when properly applied is the most effective way to reduce radon levels in crawlspace homes."
+
+6. See also
+
+International Radon Project
+
+Lucas cell
+
+Radiation Exposure Compensation Act
+
+Radiohalo
+
+7. References
+
+8. External links
+
+and at the United States Environmental Protection Agency
+
+hosted by Kansas State University
+
+at National Safety Council
+
+at The Periodic Table of Videos (University of Nottingham)
+
+, James K. Otton, Linda C.S. Gundersen, and R. Randall Schumann
+
+An article by the International Association of Certified Home Inspectors (InterNACHI)
+
+, Draft for Public Comment, Agency for Toxic Substances and Disease Registry, September 2008
+
+Health Effects of Exposure to Radon: BEIR VI. Committee on Health Risks of Exposure to Radon (BEIR VI), National Research Council
+
+, with scientific annexes: Annex B: Exposures from natural radiation sources.
+
+, Phillip N. Price, Andrew Gelman, in Statistics: A Guide to the Unknown, January 2004.

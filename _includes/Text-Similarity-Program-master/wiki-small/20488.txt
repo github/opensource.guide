@@ -1,0 +1,235 @@
+The Messerschmitt Me 262 Schwalbe (English: "Swallow") of Nazi Germany was the world's first operational jet-powered fighter aircraft. Design work started before World War II began, but engine problems and top-level interference kept the aircraft from operational status with the Luftwaffe until mid-1944. Heavily armed, it was faster than any Allied fighter, including the British jet-powered Gloster Meteor. One of the most advanced aviation designs in operational use during World War II, the Me 262 was used in a variety of roles, including light bomber, reconnaissance, and even experimental night fighter versions.
+
+Me 262 pilots claimed a total of 542 Allied kills, although higher claims are sometimes made. The Allies countered its potential effectiveness in the air by attacking the aircraft on the ground and during takeoff and landing. Engine reliability problems, from the pioneering nature of its Junkers Jumo 004 axial-flow turbojet engines—the first ones ever placed in mass production—and attacks by Allied forces on fuel supplies during the deteriorating late-war situation also reduced the effectiveness of the aircraft as a fighting force. In the end, the Me 262 had a negligible impact on the course of the war as a result of its late introduction and the consequently small numbers put in operational service.
+
+While German use of the aircraft ended with the close of the Second World War, a small number were operated by the Czechoslovak Air Force until 1951. Captured Me 262s were studied and flight tested by the major powers, and ultimately influenced the designs of a number of post-war aircraft such as the North American F-86 Sabre and Boeing B-47 Stratojet. A number of aircraft have survived on static display in museums, and there have also been several privately built flying reproductions.
+
+1. Design and development
+
+1.1. Origins
+
+Several years before World War II, the Germans foresaw the great potential for aircraft that used the jet engine constructed by Hans Joachim Pabst von Ohain in 1936. After the successful test flights of the world's first jet aircraft—the Heinkel He 178—within a week of the Invasion of Poland to start the war, they adopted the jet engine for an advanced fighter aircraft. As a result, the Me 262 was already under development as Projekt 1065 (P.1065) before the start of World War II. The project originated with an RLM request for a jet aircraft capable of one hour's endurance and a speed of at least . Dr Waldemar Voigt headed the design team, with Messerschmitt's chief of development, Robert Lusser, overseeing.
+
+Plans were first drawn up in April 1939, and the original design was very different to the aircraft that eventually entered service, with wing root-mounted engines, rather than podded ones, when submitted in June 1939. The progression of the original design was delayed greatly by technical issues involving the new jet engine. Because the engines were slow to arrive, Messerschmitt moved the engines from the wing roots to underwing pods, allowing them to be changed more readily if needed; this would turn out to be important, both for availability and maintenance. Since the BMW 003 jets proved heavier than anticipated, the wing was swept slightly, by 18.5°, to accommodate a change in the center of gravity. Funding for the jet engine program was also initially lacking as many high-ranking officials thought the war could easily be won with conventional aircraft. Among those were Hermann Göring, head of the Luftwaffe, who cut the engine development program to just 35 engineers in February 1940 (the month before the first wooden mock-up was completed); Willy Messerschmitt, who desired to maintain mass production of the piston-powered Bf 109 and the projected Me 209; and Major General Adolf Galland, who supported Messerschmitt through the early development years, flying the Me 262 himself on 22 April 1943. By that time, problems with engine development had slowed production of the aircraft considerably. One particularly acute problem arose with the lack of an alloy with a melting point high enough to endure the high temperatures involved, a problem that by the end of the war had not been adequately resolved. The aircraft made its first successful flight entirely on jet power on 18 July 1942, powered by a pair of Jumo 004 engines, after a November 1941 flight (with BMW 003s) ended in a double flameout.
+
+The project aerodynamicist on the design of the Me 262 was Ludwig Bölkow. He initially designed the wing using NACA airfoils modified with an elliptical nose section. Later in the design process, these were changed to AVL derivatives of NACA airfoils, the NACA 00011-0.825-35 being used at the root and the NACA 00009-1.1-40 at the tip. The elliptical nose derivatives of the NACA airfoils were used on the horizontal and vertical tail surfaces. Wings were of single-spar cantilever construction, with stressed skins, varying from thick at the root to at the tip. As a conservation measure, late in the war, wing interiors would not be painted. The wings were fastened to the fuselage at four points, using a pair of and 42 bolts.
+
+In mid-1943, Adolf Hitler envisioned the Me 262 as a ground-attack/bomber aircraft rather than a defensive interceptor. The configuration of a high-speed, light-payload Schnellbomber ("fast bomber") was intended to penetrate enemy airspace during the expected Allied invasion of France. His edict resulted in the development of (and concentration on) the Sturmvogel variant. It is debatable to what extent Hitler's interference extended the delay in bringing the Schwalbe into operation; it appears engine vibration issues were at least as costly, if not more so. Albert Speer, then Minister of Armaments and War Production, claimed in his memoirs that Hitler originally had blocked mass production of the Me 262 before agreeing in early 1944. He rejected arguments that the aircraft would be more effective as a fighter against the Allied bombers that were destroying large parts of Germany, and wanted it as a bomber for revenge attacks. According to Speer, Hitler felt its superior speed compared to other fighters of the era meant it could not be attacked, and so preferred it for high altitude straight flying.
+
+Although the Me 262 is often referred to as a "swept wing" design, the production Me 262 had a leading edge sweep of only 18.5°, too slight to achieve any significant advantage in increasing the critical Mach number. Sweep was added after the initial design of the aircraft, when the engines proved heavier than originally expected, primarily to position the center of lift properly relative to the center of mass. (The original 35° sweep, proposed by Adolph Busemann, was not adopted.) On 1 March 1940, instead of moving the wing backward on its mount, the outer wing was repositioned slightly aft; the trailing edge of the midsection of the wing remained unswept. Based on data from the AVA Göttingen and wind tunnel results, the middle section's leading edge was later swept to the same angle as the outer panels, from the "V6" sixth prototype onwards throughout volume production.
+
+1.2. Test flights
+
+The first test flights began on 18 April 1941, with the Me 262 V1 example, bearing its Stammkennzeichen radio code letters of PC+UA, but since its intended BMW 003 turbojets were not ready for fitting, a conventional Junkers Jumo 210 engine was mounted in the V1 prototype's nose, driving a propeller, to test the Me 262 V1 airframe. When the BMW 003 engines were installed, the Jumo was retained for safety, which proved wise as both 003s failed during the first flight and the pilot had to land using the nose-mounted engine alone. The V1 through V4 prototype airframes all possessed what would become an uncharacteristic feature for most later jet aircraft designs, a fully retracting conventional gear setup with a retracting tailwheel — indeed, the very first prospective German "jet fighter" airframe design ever flown, the Heinkel He 280, used a retractable tricycle landing gear from its beginnings, and flying on jet power alone as early as the end of March 1941.
+
+The V3 third prototype airframe, with the code PC+UC, became a true jet when it flew on 18 July 1942 in Leipheim near Günzburg, Germany, piloted by Fritz Wendel. This was almost nine months ahead of the British Gloster Meteor's first flight on 5 March 1943. Its retracting conventional gear, a feature shared with the first four Me 262 V-series airframes, caused its jet exhaust to deflect off the runway, with the wing's turbulence negating the effects of the elevators, and the first takeoff attempt was cut short.
+
+On the second attempt, Wendel solved the problem by tapping the aircraft's brakes at takeoff speed, lifting the horizontal tail out of the wing's turbulence. The aforementioned initial four prototypes (V1-V4) were built with the conventional gear configuration. Changing to a tricycle arrangement — a permanently fixed undercarriage on the fifth prototype (V5), with the definitive fully retractable nosewheel gear on the V6 (with Stammkennzeichen code VI+AA) and subsequent aircraft corrected this problem.
+
+Test flights continued over the next year, but engine problems continued to plague the project, the Jumo 004 being only marginally more reliable than the BMW 003. Airframe modifications were complete by 1942 but, hampered by the lack of engines, serial production did not begin until 1944, and deliveries were low, with 28 Me 262s in June, 59 in July, but only 20 in August. This delay in engine availability was in part due to the shortage of strategic materials, especially metals and alloys able to handle the extreme temperatures produced by the jet engine.
+
+Even when the engines were completed, they had an expected operational lifetime of approximately 50 continuous flight hours; most 004s lasted just 12 hours, even with adequate maintenance. A pilot familiar with the Me 262 and its engines could expect approximately 20–25 hours of life from the 004s. Changing a 004 engine was intended to require three hours, but this typically took eight to nine due to poorly made parts and inadequate training of ground crews. With one engine out, the Me 262 still flew well, with speeds of , but pilots were warned never to fly slower than on one engine, as the asymmetrical thrust would cause serious handling problems.
+
+Due to the high speed jet stream, turbojet engines develop much less thrust at low speed than propeller powered aircraft, resulting in poor low-speed acceleration. This was particularly noticeable in the Me 262, since early jet engines had relatively low power and responded slowly to throttle changes. The introduction of a primitive autothrottle late in the war helped only slightly. Conversely, the superior power of jet engines at higher speeds meant the Me 262 enjoyed a much greater rate of climb. Used tactically, this gave the jet fighter an even larger speed advantage in climb than in level flight at top speed.
+
+Operationally, carrying of fuel in two tanks, one each fore and aft the cockpit, and a tank beneath, the Me 262 would have a total flight endurance of 60 to 90 minutes. Fuel was usually brown coal-derived J2, with the option of diesel oil or a mixture of oil and high octane B4 aviation petrol. Fuel consumption was double the rate of typical twin-engine fighter aircraft of the era, which led to the installation of a low-fuel warning indicator in the cockpit that notified pilots when remaining fuel fell below .
+
+Unit cost for an Me 262 airframe, less engines, armament, and electronics, was RM87,400. To build one airframe took around 6,400 man-hours.
+
+2. Operational history
+
+2.1. Introduction
+
+On 19 April 1944, Erprobungskommando 262 was formed at Lechfeld just south of Augsburg, as a test unit (Jäger Erprobungskommando Thierfelder, commanded by Hauptmann Werner Thierfelder) to introduce the 262 into service and train a corps of pilots to fly it. On 26 July 1944, Leutnant Alfred Schreiber with the 262 A-1a W.Nr. 130 017 damaged a Mosquito reconnaissance aircraft of No. 540 Squadron RAF PR Squadron, which was allegedly lost in a crash upon landing at an air base in Italy. Other sources state the aircraft was damaged during evasive manoeuvres and escaped. It was the first victory for a turbojet fighter aircraft in aviation history. Major Walter Nowotny was assigned as commander after the death of Thierfelder in July 1944, and the unit redesignated Kommando Nowotny. Essentially a trials and development unit, it holds the distinction of having mounted the world's first jet fighter operations. Trials continued slowly, with initial operational missions against the Allies in August 1944 allegedly downing 19 Allied aircraft for six Me 262s lost, although these claims have never been verified by cross-checking with USAAF records. The RAF Museum holds no intelligence reports of RAF aircraft engaging in combat with Me 262s in August, although there is a report of an unarmed encounter between an Me 262 and a Mosquito.
+
+Despite orders to stay grounded, Nowotny chose to fly a mission against an enemy bomber formation flying some 30,000 feet above, on 8 November 1944. He claimed two P-51Ds destroyed before suffering engine failure at high altitude. Then, while diving and trying desperately to restart his engines, he was attacked by other Mustangs, and forced to bail out. Historians Morgan and Weal proposed Nowotny's victor was P-51D pilot Lt. Robert W. Stevens of the 364th Fighter Group. The exact circumstances surrounding the death of Walter Nowotny remain uncertain to this day. It is also possible he was hit by "friendly" flak. The Kommando was then withdrawn for further training and a revision of combat tactics to optimise the 262's strengths.
+
+By January 1945, Jagdgeschwader 7 (JG 7) had been formed as a pure jet fighter wing, although it was several weeks before it was operational. In the meantime, a bomber unit—I Gruppe, Kampfgeschwader 54 (KG 54)—had re-equipped with the Me 262 A-2a fighter-bomber for use in a ground-attack role. However, the unit lost 12 jets in action in two weeks for minimal returns. Jagdverband 44 (JV 44) was another Me 262 fighter unit, of Staffel (squadron) size given the low numbers of available personnel, formed in February 1945 by Lieutenant General Adolf Galland, who had recently been dismissed as Inspector of Fighters. Galland was able to draw into the unit many of the most experienced and decorated Luftwaffe fighter pilots from other units grounded by lack of fuel.
+
+During March, Me 262 fighter units were able, for the first time, to mount large-scale attacks on Allied bomber formations. On 18 March 1945, 37 Me 262s of JG 7 intercepted a force of 1,221 bombers and 632 escorting fighters. They shot down 12 bombers and one fighter for the loss of three Me 262s. Although a 4:1 ratio was exactly what the Luftwaffe would have needed to make an impact on the war, the absolute scale of their success was minor, as it represented only one per cent of the attacking force. In 1943 and early 1944, regardless of the presence of the small numbers of Me 262s, the USAAF was able to keep up offensive operations at loss ratios of roughly 5%.
+
+Several two-seat trainer variants of the Me 262, the Me 262 B-1a, had been adapted through the Umrüst-Bausatz 1 factory refit package as night fighters, complete with on-board FuG 218 Neptun high-VHF band radar, using Hirschgeweih ("stag's antlers") antennae with a set of shorter dipole elements than the Lichtenstein SN-2 had used, as the B-1a/U1 version. Serving with 10 Staffel, Nachtjagdgeschwader 11, near Berlin, these few aircraft (alongside several single-seat examples) accounted for most of the 13 Mosquitoes lost over Berlin in the first three months of 1945. However, actual intercepts were generally or entirely made using Wilde Sau methods, rather than AI radar-controlled interception. As the two-seat trainer was largely unavailable, many pilots made their first jet flight in a single-seater without an instructor.
+
+Despite its deficiencies, the Me 262 clearly signaled the beginning of the end of piston-engined aircraft as effective fighting machines. Once airborne, it could accelerate to speeds over , about faster than any Allied fighter operational in the European Theater of Operations.
+
+The Me 262's top ace was probably Hauptmann Franz Schall with 17 kills, which included six four-engine bombers and 10 P-51 Mustang fighters, although night fighter ace Oberleutnant Kurt Welter claimed 25 Mosquitos and two four-engine bombers shot down by night and two further Mosquitos by day flying the Me 262. Most of Welter's claimed night kills were achieved in standard radar-less aircraft, even though Welter had tested a prototype Me 262 fitted with FuG 218 Neptun radar. Another candidate for top ace on the aircraft was Oberstleutnant Heinrich Bär, who claimed 16 enemy aircraft while flying the Me 262.
+
+2.2. Anti-bomber tactics
+
+The Me 262 was so fast that German pilots needed new tactics to attack American bombers. In the head-on attack, the closing speed, of about , was too high for accurate shooting. Even from astern, the closing speed was too great to use the short-ranged 30 mm cannon to maximum effect. Therefore, a roller-coaster attack was devised. The 262s approached from astern and about than the bombers. From about , they went into a shallow dive that took them through the escort fighters with little risk of interception. When they were about and below the bombers, they pulled up sharply to reduce their excess speed. On levelling off, they were and overtaking the bombers at about , well placed to attack them.
+
+Since the 30mm MK 108 cannon's short barrels and low muzzle velocity of rendered it inaccurate beyond , coupled with the jet's velocity, which required breaking off at to avoid colliding with the target, Me 262 pilots normally commenced firing at . Allied bomber gunners found their electric gun turrets had problems tracking the jets. Target acquisition was difficult because the jets closed into firing range quickly and remained in firing position only briefly, using their standard attack profile, which proved more effective.
+
+Captain Eric Brown, Chief Naval Test Pilot and C.O. Captured Enemy Aircraft Flight Royal Aircraft Establishment, who tested the Me 262 noted: "This was a Blitzkrieg aircraft. You whack in at your bomber. It was never meant to be a dogfighter, it was meant to be a destroyer of bombers... The great problem with it was it did not have dive brakes. For example, if you want to fight and destroy a B-17, you come in on a dive. The 30mm cannon were not so accurate beyond 600 meters. So you normally came in at 600 yards and would open fire on your B-17. And your closing speed was still high and since you had to break away at 200 meters to avoid a collision, you only had two seconds firing time. Now, in two seconds, you can't sight. You can fire randomly and hope for the best. If you want to sight and fire, you need to double that time to four seconds. And with dive brakes, you could have done that."
+
+Eventually, German pilots developed new combat tactics to counter Allied bombers' defenses. Me 262s, equipped with R4M rockets, approached from the side of a bomber formation, where their silhouettes were widest, and while still out of range of the bombers' machine guns, fired a salvo of rockets with strongly brisant Hexogen-filled warheads, exactly the same explosive in the shells fired by the Me 262A's quartet of MK 108 cannon. One or two of these rockets could down even the famously rugged B-17 Flying Fortress, from the "metal-shattering" brisant effect of the R4M rockets' explosive warheads, weighing only some 520 grams (17.6 ounces) per projectile out of a total launch weight of 4 kg (8.8 pounds) apiece.
+
+Though this tactic was effective, it came too late to have a real effect on the war, and only small numbers of Me 262s were equipped with the rocket packs. Most of those so equipped were Me 262A-1as, members of Jagdgeschwader 7. This method of attacking bombers became the standard, and mass deployment of Ruhrstahl X-4 guided missiles was cancelled. Some nicknamed this tactic the Luftwaffe's Wolf Pack, as the fighters often made runs in groups of two or three, fired their rockets, then returned to base. On 1 September 1944, USAAF General Carl Spaatz expressed the fear that if greater numbers of German jets appeared, they could inflict losses heavy enough to force cancellation of the Allied bombing offensive by daylight.
+
+2.3. Counter-jet tactics
+
+The Me 262 was difficult for its opponents to counter because its high speed and rate of climb made it extremely hard to intercept. As with all other early jets, the Me 262's engines did not provide a lot of thrust at low air speeds (a key criterion for good turn performance at low speeds), and throttle response was slow. Another disadvantage all early jet engines shared was a relatively high risk of flameout if the pilot used the throttle too aggressively (as is common in a dogfight). Pilots were instructed to operate the throttle gently and avoid quick changes. German engineers introduced an automatic throttle regulator later in the war but it only partly alleviated the problem. On the plus side, thrust at high speed was much greater than on propeller-driven aircraft.
+
+The plane had, by contemporary standards, quite a high wing loading (294.0 kg/m2, 60.2 lbs/ft2) and its turn radius at low speeds was therefore correspondingly wide. This, coupled with the low thrust at slow speeds and high chance of a flameout if the throttle was worked too aggressively, resulted in Me 262 pilots being told to avoid low speed dogfights with the Allied piston-engine fighters. The high speed of the Me 262 also presented problems when engaging enemy aircraft, the high-speed convergence allowing Me 262 pilots little time to line up their targets or acquire the appropriate amount of deflection. This problem faces any aircraft that approaches another from behind at much higher speed, as the slower aircraft in front can always pull a tighter turn, forcing the faster aircraft to overshoot. The Me 262 faced this problem frequently as its cruising speed alone was up to faster than that of any piston-engine fighter of the period.
+
+Luftwaffe pilots eventually learned how to handle the Me 262's higher speed, and the Me 262 soon proved a formidable air superiority fighter, with pilots such as Franz Schall managing to shoot down 12 enemy fighters in the Me 262, 10 of them American P-51 Mustangs. Other notable Me 262 aces included Georg-Peter Eder, also with 12 enemy fighters to his credit (including nine P-51s), Walther Dahl with 11 (including three Lavochkin La-7s and six P-51s) and Heinz-Helmut Baudach with six (including one Spitfire and two P-51s) amongst many others.
+
+Pilots soon learned that the Me 262 was quite maneuverable, despite its high wing loading and lack of low-speed thrust, especially if attention was drawn to its effective maneuvering speeds. The controls were light and effective right up to the maximum permissible speed and perfectly harmonized. The inclusion of full span automatic leading-edge slats, something of a "tradition" on Messerschmitt fighters dating back to the original Bf 109's outer wing slots of a similar type, helped increase the overall lift produced by the wing by as much as 35% in tight turns or at low speeds, greatly improving the aircraft's turn performance as well as its landing and take off characteristics. And as many pilots soon found out, the Me 262's clean design also meant that it, like all jets, held its speed in tight turns much better than conventional propeller-driven fighters, which was a great potential advantage in a dogfight as it meant better energy retention in maneuvers. Luftwaffe test pilot and flight instructor Hans Fey stated, "The 262 will turn much better at high than at slow speeds and, due to its clean design, will keep its speed in tight turns much longer than conventional type aircraft."
+
+Too fast to catch for the escorting Allied fighters, the Me 262s were almost impossible to head off. As a result, Me 262 pilots were relatively safe from the Allied fighters, as long as they did not allow themselves to get drawn into low-speed turning contests and saved their maneuvering for higher speeds. Combating the Allied fighters could be effectively done the same way as the U.S. fighters fought the more nimble, but slower, Japanese fighters in the Pacific.
+
+Allied pilots soon found that the only reliable way to destroy the jets, as with the even faster Me 163 Komet rocket fighters, was to attack them on the ground or during takeoff or landing. Luftwaffe airfields identified as jet bases were frequently bombed by medium bombers, and Allied fighters patrolled over the fields to attack jets trying to land. The Luftwaffe countered by installing extensive flak alleys of anti-aircraft guns along the approach lines to protect the Me 262s from the ground—and by providing top cover during the jets' takeoff and landing with the most advanced Luftwaffe single-engined fighters, the Focke-Wulf Fw 190D and (just becoming available in 1945) Focke-Wulf Ta 152H. Nevertheless, in March–April 1945, Allied fighter patrol patterns over Me 262 airfields resulted in numerous jet losses.
+
+The British Hawker Tempest scored a number of kills against the new German jets, including the Messerschmitt Me 262. Hubert Lange, a Me 262 pilot, said: "the Messerschmitt Me 262's most dangerous opponent was the British Hawker Tempest 舒 extremely fast at low altitudes, highly manoeuvrable and heavily armed." Some were destroyed with a tactic known to the Tempest 135 Wing as the "Rat Scramble": Tempests on immediate alert took off when an Me 262 was reported airborne. They did not intercept the jet, but instead flew towards the Me 262 and Ar 234 base at Rheine-Hopsten. The aim was to attack jets on their landing approach, when they were at their most vulnerable, travelling slowly, with flaps down and incapable of rapid acceleration. The German response was the construction of a "flak lane" of over 150 of the infamous Flakvierling 20 mm (.79 in) autocannon batteries at Rheine-Hopsten to protect the approaches. After seven Tempests were lost to flak at Rheine-Hopsten in a single week, the "Rat Scramble" was discontinued.
+
+2.4. High-speed research
+
+Adolf Busemann had proposed swept wings as early as 1935. Messerschmitt researched the topic from 1940. In April 1941, Busemann proposed fitting a 35° swept wing (Pfeilflügel II, literally "arrow wing II") to the Me 262, the same wing sweep angle later used on both the American F-86 Sabre and Soviet MiG-15 Fagot fighter jets. Though this was not implemented, he continued with the projected HG II and HG III (Hochgeschwindigkeit, "high-speed") derivatives in 1944, which were designed with a 35° and 45° wing sweep, respectively.
+
+Interest in high-speed flight, which led him to initiate work on swept wings starting in 1940, is evident from the advanced developments Messerschmitt had on his drawing board in 1944. While the Me 262 V9 Hochgeschwindigkeit I (HG I) actually flight tested in 1944 had only small changes compared to combat aircraft, most notably a low-profile canopy — tried as the Rennkabine (literally "racing cabin") on the ninth Me 262 prototype for a short time) to reduce drag, the HG II and HG III designs were far more radical. The projected HG II combined the low-drag canopy with a 35° wing sweep and a butterfly tail. The HG III had a conventional tail, but a 45° wing sweep and turbines embedded in the wing roots.
+
+Messerschmitt also conducted a series of flight tests with the series production Me 262. In dive tests, they determined that the Me 262 went out of control in a dive at Mach 0.86, and that higher Mach numbers would cause a nose-down trim that the pilot could not counter. The resulting steepening of the dive would lead to even higher speeds and the airframe would disintegrate from excessive negative g loads.
+
+The HG series of Me 262 derivatives was believed capable of reaching transonic Mach numbers in level flight, with the top speed of the HG III being projected as Mach 0.96 at altitude. Despite the necessity to gain experience in high-speed flight for the HG II and III designs, Messerschmitt made no attempt to exceed the Mach 0.86 limit for the Me 262. After the war, the Royal Aircraft Establishment, at that time one of the leading institutions in high-speed research, re-tested the Me 262 to help with British attempts at exceeding Mach 1. The RAE achieved speeds of up to Mach 0.84 and confirmed the results from the Messerschmitt dive tests. The Soviets ran similar tests.
+
+After Willy Messerschmitt's death in 1978, the former Me 262 pilot Hans Guido Mutke claimed to have exceed Mach 1, on 9 April 1945 in a Me 262 in a "straight-down" 90° dive. This claim is disputed because it is only based on Mutke's memory of the incident, which recalls effects other Me 262 pilots observed below the speed of sound at high indicated airspeed, but with no altitude reading required to determine the actual speed. Furthermore, the pitot tube used to measure airspeed in aircraft can give falsely elevated readings as the pressure builds up inside the tube at high speeds. Finally, the Me 262 wing had only a slight sweep, incorporated for trim (center of gravity) reasons and likely would have suffered structural failure due to divergence at high transonic speeds. One airframe — the aforementioned Me 262 V9, Werknummer 130 004, with Stammkennzeichen of VI+AD, was prepared as the HG I test airframe with the low-profile Rennkabine racing canopy and may have achieved an unofficial record speed for a turbojet-powered aircraft of , altitude unspecified.
+
+2.5. Production
+
+About 1,400 Me 262s were produced, but a maximum of 200 were operational at the same time. According to sources they destroyed from 300 to 450 enemy planes, with the Allies destroying about 100 Me 262s in the air. While Germany was bombed intensively, production of the Me 262 was dispersed into low-profile production facilities, sometimes little more than clearings in the forests of Germany and occupied countries. Through the end of February to the end of March 1945, approximately 60 Me 262s were destroyed in attacks on Obertraubling and 30 at Leipheim; the Neuberg jet plant itself was bombed on 19 March 1945.
+
+Large, heavily protected underground factories were constructed to take up production of the Me 262, safe from bomb attacks, but the war ended before they could be completed. Wings were produced in Germany's oldest motorway tunnel at Engelberg to the west of Stuttgart. At B8 Bergkristall-Esche II at St. Georgen/Gusen, Austria, forced laborers of Concentration Camp Gusen II produced fully equipped fuselages for the Me 262 at a monthly rate of 450 units on large assembly lines from early 1945.
+
+2.6. Postwar history
+
+After the end of the war, the Me 262 and other advanced German technologies were quickly swept up by the Americans (as part of the USAAF's Operation Lusty), British, and Soviets. Many Me 262s were found in readily repairable condition and were confiscated. Both the Soviets and Americans desired the technology to serve as a basis for their own jet fighters.
+
+During testing, the Me 262 was found to have advantages over the early models of the Gloster Meteor. It was faster, had better cockpit visibility to the sides and rear (mostly due to the canopy frame and the discoloration caused by the plastics used in the Meteor's construction), and was a superior gun platform, as the early Meteors had a tendency to snake at high speed and exhibited "weak" aileron response. The Me 262 did have a shorter combat range than the Meteor.
+
+The USAAF compared the P-80 Shooting Star and Me 262 concluding, "Despite a difference in gross weight of nearly , the Me 262 was superior to the P-80 in acceleration, speed and approximately the same in climb performance. The Me 262 apparently has a higher critical Mach number, from a drag standpoint, than any current Army Air Force fighter."
+
+The Army Air Force also tested an example of the Me 262A-1a/U3 (US flight evaluation serial FE-4012), an unarmed photo reconnaissance version, which was fitted with a fighter nose and given an overall smooth finish. It was used for performance comparisons against the P-80. During testing between May and August 1946, the aircraft completed eight flights, lasting four hours and 40 minutes. Testing was discontinued after four engine changes were required during the course of the tests, culminating in two single-engine landings. These aircraft were extensively studied, aiding development of early U.S. and Soviet jet fighters. The F-86, designed by engineer Edgar Schmued, used a slat design based on the Me 262's.
+
+The Czechoslovak aircraft industry continued to produce single-seat (Avia S-92) and two-seat (Avia CS-92) variants of the Me 262 after World War II. From August 1946, a total of nine S-92s and three two-seater CS-92s were completed and test flown. They were introduced in 1947 and in 1950 were supplied to the 5th Fighter Squadron, becoming the first jet fighters to serve in the Czechoslovak Air Force. These were kept flying until 1951, when they were replaced in service by more advanced jet fighters of Soviet origin. Both versions are on display at the Prague Aviation museum in Kbely.
+
+2.7. Flyable reproductions
+
+In January 2003, the American Me 262 Project, based in Everett, Washington, completed flight testing to allow the delivery of near-exact reproductions of several versions of the Me 262 including at least two B-1c two-seater variants, one A-1c single seater and two "convertibles" that could be switched between the A-1c and B-1c configurations. All are powered by General Electric J85 engines and feature additional safety features, such as upgraded brakes and strengthened landing gear. The "c" suffix refers to the new J85 powerplant and has been informally assigned with the approval of the Messerschmitt Foundation in Germany (the Werk Number of the reproductions picked up where the last wartime produced Me 262 left off – a continuous airframe serial number run with a 50-year production break).
+
+Flight testing of the first newly manufactured Me 262 A-1c (single-seat) variant (Werk Number 501244) was completed in August 2005. The first of these machines (Werk Number 501241) went to a private owner in the southwestern United States, while the second (Werk Number 501244) was delivered to the Messerschmitt Foundation at Manching, Germany. This aircraft conducted a private test flight in late April 2006, and made its public debut in May at the ILA 2006. The new Me 262 flew during the public flight demonstrations. Me 262 Werk Number 501241 was delivered to the Collings Foundation as White 1 of JG 7; this aircraft offered ride-along flights starting in 2008. The third replica, a non-flyable Me 262 A-1c, was delivered to the Evergreen Aviation & Space Museum in May 2010.
+
+3. Variants
+
+Note:- U = Umrüst-Bausatz - conversion kit installed at factory level, denoted as a suffix in the form /Un. ; Me 262 A-0
+
+3.1. Rüstsätze (field modification kits)
+
+Rüstsatze may be applied to various sub-types of their respective aircraft type, denoted as a suffix in the form /Rn. Data from:'Messerschmitt Me 262A Schwalbe ;/R1:Underfuselage pylon for external fuel tank. ;/R2:Ratog installation for two Rheinmetall 109-502 solid rocket engines. ;/R3:BMW 003R rocket boosted turbojet installation. ;/R4:Installation of the FuG 350 Zc Naxos radar warning receiver / detector. ;/R5:The standard 4x MK 108 cannon installation ;/R6:Jabo (JagdBomber) equipment, such as bombsights and bomb racks. ;/R7:Underwing installation of 12x R4M rockets carried on wooden racks' ;/R8:R110BS Air to air rocket installation ;/R9:Ruhrstahl Ru 344 X-4 air-to-air missile installation.
+
+3.2. Postwar variants
+
+; Avia S-92
+
+3.3. Reproductions
+
+These reproductions are constructed by Legend Flyers (later Me 262 Project) of Everett, Washington. The Jumo 004 engines of the original are replaced by more reliable General Electric CJ610 engines. The Jumo 004 was hampered by poor workmanship and a lack of high-temperature super alloys. The first Me 262 reproduction (a two-seater) took off for the first time in December 2002 and the second one in August 2005. This one was delivered to the Messerschmitt Foundation and was presented at the ILA airshow in 2006.
+
+; A-1c
+
+4. Operators
+
+Luftwaffe
+
+Russian Liberation Army Air Force (one or two Me 262 assigned) (Vlasov's Air Force mentions two Me 262 machines assigned.)
+
+Czechoslovak Air Force (postwar, nine S-92 and three CS-92)
+
+5. Survivors
+
+.
+
+; Me 262A, W.Nr.500071 White 3, III./JG 7
+
+6. Specifications (Messerschmitt Me 262 A-1a)
+
+7. Notable appearances in media
+
+8. See also
+
+9. References
+
+9.1. Notes
+
+9.2. Citations
+
+9.3. Bibliography
+
+Angelucci, Enzo and Paolo Matricardi. World Aircraft: World War II, Volume I (Sampson Low Guides). Maidenhead, UK: Sampson Low, 1978. ISBN 978-0-528-88170-1.
+
+Balous, Miroslav, Jiří Rajlich and Martin Velek. Messerschmitt Me 262 (in Czech/English). Prague: MBI, 1995. ISBN 80-901263-7-5.
+
+Bekker, Cajun. The Luftwaffe War Diaries: The German Air Force in World War II. New York: Da Capo Press, 1994. ISBN 03-068060-4-5.
+
+Boyne, Walter J. "Goering's Big Bungle". Air Force Magazine, Vol. 91, No. 11, November 2008.
+
+Blair, Mac. "Evolution of the F-86." AIAA Evolution of Aircraft Wing Design Symposium, 18 March 1980.
+
+Boyne, Walter J. Clash of Wings. New York: Simon & Schuster, 1994. ISBN 0-684-83915-6.
+
+Brown, Eric. Wings on My Sleeve. London: Weidenfeld & Nicolson, 2006. ISBN 0-297-84565-9.
+
+Butler, Phil. War prizes: An Illustrated Survey of German, Italian and Japanese Aircraft brought to Allied Countries During and After the Second World War. Leicestershire, UK: Midland, 1994. ISBN 0-904597-86-5.
+
+Caldwell, Donald and Richard Muller. The Luftwaffe Over Germany: Defense Of The Reich. London: Greenhill Books, 2007. ISBN 978-1-85367-712-0.
+
+Ethell, Jeffrey and Alfred Price. The German Jets in Combat. London: Jane's Publishing Company, 1979. ISBN 0-354-01252-5.
+
+Ethell, Jeffrey and Alfred Price. World War II Fighting Jets. St. Paul, Minnesota: Motorbooks International, 1994. ISBN 1-55750-940-9.
+
+Foreman, John and S.E. Harvey. The Messerschmitt Me 262 Combat Diary. Surrey, UK: Air Research Publications, 1990. ISBN 1-871187-30-3.
+
+Green, William. Warplanes of the Third Reich. New York: Galahad Books, 1970, ISBN 0-88365-666-3.
+
+Gunston, Bill. Aerei della seconda guerra mondiale (in Italian). Milan: Peruzzo editore, 1984. No ISBN.
+
+Gunston, Bill. The Illustrated directory of Fighting Aircraft of World War II. London: Salamander Book Limited, 1988. ISBN 1-84065-092-3.
+
+Haunschmied, Rudolf A., Jan-Ruth Mills and Siegi Witzany-Durda. St. Georgen-Gusen-Mauthausen – Concentration Camp Mauthausen Reconsidered. Norderstedt, Germany: BoD, 2008. ISBN 978-3-8334-7610-5.
+
+Heaton, Colin. Minneapolis, Minnesota: Zenith Imprint, 2012. ISBN 978-0-76034-263-3.
+
+Jenkins, Dennis R. and Tony R. Landis. Experimental & Prototype U.S. Air Force Jet Fighters. Minneapolis: Minnesota: Specialty Press, 2008. ISBN 978-1-58007-111-6.
+
+Levine, Alan J. The Strategic Bombing of Germany, 1940–1945. Westport, Connecticut: Praeger, 1992. ISBN 0-275-94319-4.
+
+Miller, Donald L. Eighth Air Force: The American Bomber Crews in Britain. London: Aurum Press, 2007. ISBN 9781845132217.
+
+Morgan, Hugh and John Weal. German Jet Aces of World War 2 (Osprey Aircraft of the Aces No 17). London: Osprey, 1998. ISBN 1-85532-634-5.
+
+O'Connell, Dan. Messerschmitt Me 262: The Production Log 1941–1945. Leicestershire, UK: Classic Publications, 2006. ISBN 1-903223-59-8.
+
+Price, Alfred. The Last Year of the Luftwaffe: May 1944 to May 1945. London: Greenhill Books, 1993. ISBN 1-85367-440-0.
+
+Price, Alfred. "Sleek and Deadly: The Messerschmitt Me 262." Flight Journal, February 2007.
+
+Radinger, Will and Walter Schick. Me 262 (in German). Berlin: Avantic Verlag GmbH, 1996. ISBN 3-925505-21-0.
+
+Samuel, Wolfgang W. E. American Raiders: The Race to Capture the Luftwaffe's Secrets. Jackson, Mississippi: University Press of Mississippi, 2004. ISBN 1-57806-649-2.
+
+Smith, J. Richard. Messerschmitt: An Aircraft Album. New York: Arco Publishing, 1971. ISBN 978-0-66802-505-8.
+
+Smith, J. Richard and Edward J. Creek. Jet Planes of the Third Reich. Boylston, Massachusetts: Monogram Aviation Publications, 1982. ISBN 0-914144-27-8.
+
+Speer, Albert et al. Inside the Third Reich: Memoirs. New York: Simon & Schuster, 1997. ISBN 0-684-82949-5.
+
+Spick, Mike. Allied Fighter Aces of World War II. London: Greenhill Books, 1997. ISBN 1-85367-282-3.
+
+Spick, Mike. Fighter Pilot Tactics: The Techniques of Daylight Air Combat. Cambridge, UK: Patrick Stephens, 1983. ISBN 0-85059-617-3.
+
+Stapfer, Hans-Heiri. Walk Around #42: Messerschmitt Me 262 Carrolton, Texas: Squadron Signal, 2006. ISBN 0-8-9747-500-3.
+
+Thompson, J. Steve with Peter C Smith. Air Combat Manoeuvres. Hersham (Surrey), UK: Ian Allan Publishing, 2008. ISBN 978-1-903223-98-7.
+
+Warsitz, Lutz. London: Pen and Sword Books Ltd., 2009. ISBN 978-1-84415-818-8.
+
+10. External links

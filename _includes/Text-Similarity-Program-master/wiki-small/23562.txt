@@ -1,0 +1,199 @@
+An odd-toed ungulate is a mammal with hooves that feature an odd number of toes on the rear feet. Odd-toed ungulates compose the order Perissodactyla (Greek: περισσός, perissós, "uneven", and δάκτυλος, dáktylos, "finger/toe"). The middle toe on each hind hoof is usually larger than its neighbours. Odd-toed ungulates are relatively large grazers and, unlike the ruminant even-toed ungulates (artiodactyls), they have relatively simple stomachs because they are hindgut fermenters, digesting plant cellulose in their intestines rather than in one or more stomach chambers. Odd-toed ungulates include the horse, tapirs, and rhinoceroses.
+
+1. Evolution
+
+Although no unequivocal fossils are known prior to the early Eocene, the odd-toed ungulates probably arose in what is now Asia, during the Paleocene-Eocene boundary (55 million years ago).
+
+By the start of the Eocene, 55 million years ago (Mya), they had diversified and spread out to occupy several continents. Horses and tapirs both evolved in North America; rhinoceroses appear to have developed in Asia from tapir-like animals and then colonised the Americas during the middle Eocene (about 45 Mya). Of the approximately 15 families, only three survive. These families were very diverse in form and size; they included the enormous brontotheres and the bizarre chalicotheres. The largest perissodactyl, an Asian rhinoceros called Paraceratherium, reached , more than twice the weight of an elephant.
+
+Perissodactyls were the dominant group of large terrestrial browsers right through the Oligocene. However, the rise of grasses in the Miocene (about 20 Mya) saw a major change: the even-toed ungulates, which had more complex stomachs, were better able to adapt to coarse, low-nutrition diets, and soon rose to prominence. Nevertheless, many odd-toed species survived and prospered until the late Pleistocene (about 10,000 years ago), when they faced the pressure of human hunting and habitat change.
+
+2. Taxonomy
+
+The members of the order fall into two suborders:
+
+Hippomorpha are odd-toed ungulates that are, today, fast runners with long legs and one toe per foot. The only extant family of this suborder is Equidae (whose sole surviving genus is Equus), comprising the horse, zebra, donkey, onager, and allied species. The extinct, rhinoceros-like brontotheres are also included in this suborder. Both families probably descended from palaeotheres.
+
+Ceratomorpha have several functional toes; they are heavier and move more slowly than the Hippomorpha. This suborder has two extant families: Tapiridae (tapirs) and Rhinocerotidae (rhinoceroses). The extinct chalicotheres may belong to this suborder as well. The three surviving families of odd-toed ungulate are classified as follows:
+
+Order Perissodactyla
+
+Suborder Hippomorpha
+
+Family Equidae: horses and allies, seven species in one genus
+
+Equus ferus
+
+Tarpan †, Equus ferus ferus
+
+Przewalski's horse, Equus ferus przewalskii
+
+Domestic horse, Equus ferus caballus
+
+African wild ass Equus africanus
+
+Domesticated ass (donkey) Equus africanus asinus
+
+Onager or Asiatic ass, Equus hemionus
+
+Kiang or Tibetan wild ass, Equus kiang
+
+Plains zebra, Equus quagga
+
+Quagga, †Equus quagga quagga
+
+Burchell's zebra, Equus quagga burchellii
+
+Grant's zebra, Equus quagga boehmi
+
+Maneless zebra Equus quagga borensis
+
+Chapman's zebra, Equus quagga chapmani
+
+Crawshay's zebra, Equus quagga crawshayi
+
+Selous' zebra, Equus quagga selousi
+
+Mountain zebra, Equus zebra
+
+Cape mountain zebra, Equus zebra zebra
+
+Hartmann's mountain zebra, Equus zebra hartmannae
+
+Grevy's zebra, Equus grevyi
+
+Suborder Ceratomorpha
+
+Family Tapiridae: tapirs, five species in one genus
+
+Brazilian tapir, Tapirus terrestris
+
+Mountain tapir, Tapirus pinchaque
+
+Baird's tapir, Tapirus bairdii
+
+Malayan tapir, Tapirus indicus
+
+Kabomani tapir, Tapirus kabomani
+
+Family Rhinocerotidae: rhinoceroses, five species in four genera
+
+Black rhinoceros, Diceros bicornis
+
+White rhinoceros, Ceratotherium simum
+
+Indian rhinoceros, Rhinoceros unicornis
+
+Javan rhinoceros, Rhinoceros sondaicus
+
+Sumatran rhinoceros, Dicerorhinus sumatrensis Based on morphology, odd-toed ungulates were long thought to form a clade with even-toed ungulates. However, recent phylogenetic studies have lacked full confidence in this conclusion; some studies link Perissodactyla with Ferae into a proposed clade Zooamata, while the Pegasoferae proposal goes further, suggesting Chiroptera (bats) are more closely related to odd-toed ungulates than even-toed ones. The most recent study, by Zhou et al. (2011), finds better (but not full) support for the traditional view, uniting Perissodactyla with Cetartiodactyla into a clade of "true ungulates", Euungulata.
+
+2.1. Evolutionary relationships of fossil families
+
+Below is a simplified taxonomy showing the relationships of extant and extinct families after Lucas & Schoch, 1989, Mader, 1989, Prothero & Schoch, 1989, McKenna & Bell, 1997, Gunnell & Yarborough, 2000, Holroyd & Ciochon, 2000, Zonneveld, Gunnell & Bartels, 2000, Thewissen, Williams & Hussain, 2001, and Mihlbachler, Lucas, Emry & Bayshashov, 2004 and Hooker & Dashzeveg 2004, and Mihlbachler, 2005
+
+Order Perissodactyla
+
+†Suborder Titanotheriomorpha (might be hippomorph relatives)
+
+†Brontotheriidae
+
+Suborder Hippomorpha
+
+†Pachynolophidae
+
+Superfamily Equoidea
+
+†Indolophidae
+
+†Palaeotheriidae (might be a basal perissodactyl grade instead)
+
+Equidae
+
+†Suborder Ancylopoda
+
+†Isectolophidae (basal ancylopodans and ceratomorphs)
+
+†Lophiodontidae
+
+Superfamily Chalicotherioidea
+
+†Eomoropidae (basal grade of chalicotheriods)
+
+†Chalicotheriidae
+
+Suborder Ceratomorpha
+
+Superfamily Rhinocerotoidea
+
+†Amynodontidae
+
+†Hyracodontidae
+
+Rhinocerotidae
+
+Superfamily Tapiroidea
+
+†Deperetellidae
+
+†Rhodopagidae (sometimes recognized as a subfamily of deperetellids)
+
+†Lophialetidae
+
+†Eoletidae (sometimes recognized as a subfamily of lophialetids)
+
+Tapiridae
+
+†Anthracobunidae (a family of stem-perissodactyls; from the Early to Middle Eocene epoch).
+
+3. Characteristics
+
+The living perissodactyls are a diverse group. At one extreme, are the lithe and graceful horses; at the other, the huge, tank-like rhinoceroses; and in the middle, the vaguely pig-like tapirs. All extant perissodactyls are large, from the 110 kg Tapirus kabomani to the 2,300 kg white rhinoceros.
+
+Extinct perissodactyls possessed a far more diverse range of forms, including the tiny, vaguely tapir-like paleotheres, the monstrous brontotheres, the knuckle-walking chalicotheres, and the gigantic rhinoceros Indricotherium, which dwarfed even elephants.
+
+However, all perissodactyls, extinct and extant, have a mesaxonic foot structure: the symmetry of the foot passes through the third digit, which holds the animal's weight. In equines, the mesaxonic foot has been modified so that the non-weight bearing digits have atrophied away, while the third toe has enlarged, so modern equines only have one toe. Unusually, in tapirs, the forefeet have four toes, lacking only the first digit, although the foot is at least partially mesaxonic, because the fifth digit is reduced and bears relatively little of the animal's weight.
+
+Also, all perissodactyls are hindgut fermenters. Hindgut fermenters, in contrast to the ruminants, store digested food that has left the stomach in an enlarged cecum, where the food is digested by bacteria. No gallbladder is present.
+
+4. Social structures
+
+Today, the equines are the only extant social perissodactyls. Horses organize themselves into small bands with a dominant mare at the top of the pecking order, as well as a resident stallion. Several bands will share a common territory, with some members of one band joining another band every so often. These bands, in turn, form a herd.
+
+Huge fossil beds made of the bones of hundreds or thousands of individuals suggest that many of the larger brontothere species were social animals at least some of the time. Some prehistoric rhinoceroses, such as Diceratherium, were also social animals that organized themselves into herds. However, modern-day rhinoceroses are solitary animals that maintain territories, often attacking members of their own species when their space has been invaded. Tapirs, too, are solitary animals, though they are shy, retiring creatures that do not defend or maintain territories.
+
+5. Mating and reproduction
+
+As with the males of many other animal groups, male perissodactyls often spar with each other for the privilege to mate with receptive females. A male that has found a female will attempt to taste her urine to see if she is in estrus. The female may also signal that she is in estrus, such as the whistling used by cow Indian rhinoceroses and tapirs.
+
+Perissodactyls tend to have one foal or calf at a time. Very rarely, the female may have twins. Gestation is very long, from about 11 months in horses to 16 months for rhinoceroses. The calf or foal is capable of standing within moments of birth, but is very dependent on its mother. The young stays with its mother even after being weaned, usually until it is chased off by the mother on the birth of a new foal or calf. At this time, in horses, the foal will enter into the herd proper; later, young stallions are often chased off and join bachelor herds. With rhinos and tapirs, the newly weaned calf wanders away to search for new feeding grounds.
+
+6. Humans and conservation
+
+6.1. Domestication
+
+Humans have a historically long interaction with perissodactyls. The wild ass was the first equid to be domesticated, around 5000 BC in Egypt. Horses were domesticated a 1,000 years later. The zebroid, that is a zebra hybrid, began appearing in zoos and menageries during the 19th century. During the 16th century, the Spaniards brought horses with them to the Americas and inadvertently reintroduced them into North America. While no rhinoceros has been domesticated, they have been captured for zoos and menageries since ancient times.
+
+6.2. Conservation
+
+The odd-toed ungulates have been among the most important herbivorous mammals; at times, they have been the dominant herbivores in many ecosystems. However, over the course of millions of years, many species became extinct due to climatic change, newer, coarser-leaved plants, predators, disease, and competition from other herbivores, particularly the artiodactyls. The Chalicotheriidae were the most recent family of perissodactyls to become entirely extinct. The perissodactyls' decline continues even today. Most are listed as threatened species; although no species are confirmed to be extinct, some subspecies have become extinct. The quagga was hunted for its meat, the tarpan was hunted for sport, and a subspecies of black rhinoceros was hunted for its horn (as with all other African rhinoceros species).
+
+Perissodactyls tend to do well in captivity, and many breeding programs are in place to help replenish wild populations. Przewalski's horse has recently been released back to the wild. The captive-breeding programs for some equids are unusual in that breeders have been carefully selecting specimens to recreate various recently extinct equids, such as the tarpan and quagga. Most wild rhinoceroses are monitored, and some have their horns trimmed off to discourage horn-poachers.
+
+7. See also
+
+List of odd-toed ungulates by population
+
+Altungulata
+
+Radinskya, a basal Paleocene perissodactyl from China
+
+Cambaytherium, a basal Eocene perissodactyl from India
+
+8. Notes
+
+9. References
+
+Hooker, J.J. (2005). "Perissodactyla"; pp. 199–214 in K. D. Rose and J. D. Archibald (eds.), The Rise of Placental Mammals, Origins and Relationships of the Major Extant Clades. The Johns Hopkins University Press, Baltimore. ISBN 0-8018-8022-X
+
+(Advance Access; published online 7 September 2011)

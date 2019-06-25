@@ -1,0 +1,340 @@
+Time is a measure in which events can be ordered from the past through the present into the future, and also the measure of durations of events and the intervals between them. Time is often referred to as the fourth dimension, the first three dimensions being the spatial dimensions.
+
+Time has long been a major subject of study in religion, philosophy, and science, but defining it in a manner applicable to all fields without circularity has consistently eluded scholars. Nevertheless, diverse fields such as business, industry, sports, the sciences, and the performing arts all incorporate some notion of time into their respective measuring systems. Some simple, relatively uncontroversial definitions of time include "time is what clocks measure" and "time is what keeps everything from happening at once".
+
+Two contrasting viewpoints on time divide many prominent philosophers. One view is that time is part of the fundamental structure of the universe—a dimension independent of events, in which events occur in sequence. Sir Isaac Newton subscribed to this realist view, and hence it is sometimes referred to as Newtonian time. The opposing view is that time does not refer to any kind of "container" that events and objects "move through", nor to any entity that "flows", but that it is instead part of a fundamental intellectual structure (together with space and number) within which humans sequence and compare events. This second view, in the tradition of Gottfried Leibniz and Immanuel Kant, holds that time is neither an event nor a thing, and thus is not itself measurable nor can it be travelled.
+
+Time is one of the seven fundamental physical quantities in both the International System of Units and International System of Quantities. Time is used to define other quantities—such as velocity—so defining time in terms of such quantities would result in circularity of definition. An operational definition of time, wherein one says that observing a certain number of repetitions of one or another standard cyclical event (such as the passage of a free-swinging pendulum) constitutes one standard unit such as the second, is highly useful in the conduct of both advanced experiments and everyday affairs of life. The operational definition leaves aside the question whether there is something called time, apart from the counting activity just mentioned, that flows and that can be measured. Investigations of a single continuum called spacetime bring questions about space into questions about time, questions that have their roots in the works of early students of natural philosophy.
+
+Furthermore, it may be that there is a subjective component to time, but whether or not time itself is "felt", as a sensation, or is a judgment, is a matter of debate.
+
+Temporal measurement has occupied scientists and technologists, and was a prime motivation in navigation and astronomy. Periodic events and periodic motion have long served as standards for units of time. Examples include the apparent motion of the sun across the sky, the phases of the moon, the swing of a pendulum, and the beat of a heart. Currently, the international unit of time, the second, is defined in terms of radiation emitted by caesium atoms (see below). Time is also of significant social importance, having economic value ("time is money") as well as personal value, due to an awareness of the limited time in each day and in human life spans.
+
+1. Temporal measurement and history
+
+Temporal measurement, or chronometry, takes two distinct period forms: the calendar, a mathematical tool for organizing intervals of time, and the clock, a physical mechanism that counts the passage of time. In day-to-day life, the clock is consulted for periods less than a day, the calendar, for periods longer than a day. Increasingly, personal electronic devices display both calendars and clocks simultaneously. The number (as on a clock dial or calendar) that marks the occurrence of a specified event as to hour or date is obtained by counting from a fiducial epoch—a central reference point.
+
+1.1. History of the calendar
+
+Artifacts from the Paleolithic suggest that the moon was used to reckon time as early as 6,000 years ago. Lunar calendars were among the first to appear, either 12 or 13 lunar months (either 354 or 384 days). Without intercalation to add days or months to some years, seasons quickly drift in a calendar based solely on twelve lunar months. Lunisolar calendars have a thirteenth month added to some years to make up for the difference between a full year (now known to be about 365.24 days) and a year of just twelve lunar months. The numbers twelve and thirteen came to feature prominently in many cultures, at least partly due to this relationship of months to years.
+
+The reforms of Julius Caesar in 45 BC put the Roman world on a solar calendar. This Julian calendar was faulty in that its intercalation still allowed the astronomical solstices and equinoxes to advance against it by about 11 minutes per year. Pope Gregory XIII introduced a correction in 1582; the Gregorian calendar was only slowly adopted by different nations over a period of centuries, but it is now the most commonly used calendar around the world, by far.
+
+1.2. History of time measurement devices
+
+A large variety of devices has been invented to measure time. The study of these devices is called horology.
+
+An Egyptian device that dates to c.1500 BC, similar in shape to a bent T-square, measured the passage of time from the shadow cast by its crossbar on a nonlinear rule. The T was orientated eastward in the mornings. At noon, the device was turned around so that it could cast its shadow in the evening direction.
+
+A sundial uses a gnomon to cast a shadow on a set of markings calibrated to the hour. The position of the shadow marks the hour in local time.
+
+The most precise timekeeping device of the ancient world was the water clock, or clepsydra, one of which was found in the tomb of Egyptian pharaoh Amenhotep I (1525–1504 BC). They could be used to measure the hours even at night, but required manual upkeep to replenish the flow of water. The Ancient Greeks and the people from Chaldea (southeastern Mesopotamia) regularly maintained timekeeping records as an essential part of their astronomical observations. Arab inventors and engineers in particular made improvements on the use of water clocks up to the Middle Ages. In the 11th century, Chinese inventors and engineers invented the first mechanical clocks driven by an escapement mechanism.
+
+The hourglass uses the flow of sand to measure the flow of time. They were used in navigation. Ferdinand Magellan used 18 glasses on each ship for his circumnavigation of the globe (1522). Incense sticks and candles were, and are, commonly used to measure time in temples and churches across the globe. Waterclocks, and later, mechanical clocks, were used to mark the events of the abbeys and monasteries of the Middle Ages. Richard of Wallingford (1292–1336), abbot of St. Alban's abbey, famously built a mechanical clock as an astronomical orrery about 1330. Great advances in accurate time-keeping were made by Galileo Galilei and especially Christiaan Huygens with the invention of pendulum driven clocks.
+
+The English word clock probably comes from the Middle Dutch word klocke which, in turn, derives from the medieval Latin word clocca, which ultimately derives from Celtic and is cognate with French, Latin, and German words that mean bell. The passage of the hours at sea were marked by bells, and denoted the time (see ship's bell). The hours were marked by bells in abbeys as well as at sea.
+
+Clocks can range from watches, to more exotic varieties such as the Clock of the Long Now. They can be driven by a variety of means, including gravity, springs, and various forms of electrical power, and regulated by a variety of means such as a pendulum.
+
+A chronometer is a portable timekeeper that meets certain precision standards. Initially, the term was used to refer to the marine chronometer, a timepiece used to determine longitude by means of celestial navigation, a precision firstly achieved by John Harrison. More recently, the term has also been applied to the chronometer watch, a watch that meets precision standards set by the Swiss agency COSC.
+
+The most accurate timekeeping devices are atomic clocks, which are accurate to seconds in many millions of years, and are used to calibrate other clocks and timekeeping instruments. Atomic clocks use the spin property of atoms as their basis, and since 1967, the International System of Measurements bases its unit of time, the second, on the properties of caesium atoms. SI defines the second as 9,192,631,770 cycles of the radiation that corresponds to the transition between two electron spin energy levels of the ground state of the 133Cs atom.
+
+Today, the Global Positioning System in coordination with the Network Time Protocol can be used to synchronize timekeeping systems across the globe.
+
+In medieval philosophical writings, the atom was a unit of time referred to as the smallest possible division of time. The earliest known occurrence in English is in Byrhtferth's Enchiridion (a science text) of 1010–1012, where it was defined as 1/564 of a momentum (1½ minutes), and thus equal to 15/94 of a second. It was used in the computus, the process of calculating the date of Easter.
+
+, the smallest time interval uncertainty in direct measurements is on the order of 12 attoseconds (1.2 × 10−17 seconds), about 3.7 × 1026 Planck times.
+
+1.3. List of units
+
+2. Definitions and standards
+
+The SI base unit for time is the SI second. The International System of Quantities, which incorporates the SI, also defines larger units of time equal to fixed integer multiples of one second (1 s), such as the minute, hour and day. These are not part of the SI, but may be used alongside the SI. Other units of time such as the month and the year are not equal to fixed multiples of 1 s, and instead exhibit significant variations in duration.
+
+The official SI definition of the second is as follows:
+
+At its 1997 meeting, the CIPM affirmed that this definition refers to a caesium atom in its ground state at a temperature of 0 K. Previous to 1967, the second was defined as:
+
+The current definition of the second, coupled with the current definition of the metre, is based on the special theory of relativity, which affirms our space-time to be a Minkowski space.
+
+2.1. World time
+
+Time-keeping is so critical to the functioning of modern societies that it is coordinated at an international level. The basis for scientific time is a continuous count of seconds based on atomic clocks around the world, known as the International Atomic Time (TAI). Other scientific time standards include Terrestrial Time and Barycentric Dynamical Time.
+
+Coordinated Universal Time (UTC) is the basis for modern civil time. Since 1 January 1972, it has been defined to follow TAI with an exact offset of an integer number of seconds, changing only when a leap second is added to keep clock time synchronized with the rotation of the Earth. In TAI and UTC systems, the duration of a second is constant, as it is defined by the unchanging transition period of the caesium atom.
+
+Greenwich Mean Time (GMT) is an older standard, adopted starting with British railways in 1847. Using telescopes instead of atomic clocks, GMT was calibrated to the mean solar time at the Royal Observatory, Greenwich in the UK. Universal Time (UT) is the modern term for the international telescope-based system, adopted to replace "Greenwich Mean Time" in 1928 by the International Astronomical Union. Observations at the Greenwich Observatory itself ceased in 1954, though the location is still used as the basis for the coordinate system. Because the rotational period of Earth is not perfectly constant, the duration of a second would vary if calibrated to a telescope-based standard like GMT or UT—in which a second was defined as a fraction of a day or year. The terms "GMT" and "Greenwich Mean Time" are sometimes used informally to refer to UT or UTC.
+
+The Global Positioning System also broadcasts a very precise time signal worldwide, along with instructions for converting GPS time to UTC.
+
+Earth is split up into a number of time zones. Most time zones are exactly one hour apart, and by convention compute their local time as an offset from UTC or GMT. In many locations these offsets vary twice yearly due to daylight saving time transitions.
+
+2.2. Time conversions
+
+These conversions are accurate at the millisecond level for time systems involving earth rotation (UT1 & TT). Conversions between atomic time systems (TAI, GPS, and UTC) are accurate at the microsecond level.
+
+Definitions:
+
+LS = TAI - UTC = Leap Seconds from //maia.usno.navy.mil/ser7/tai-utc.dat
+
+DUT1 = UT1 - UTC from //maia.usno.navy.mil/ser7/ser7.dat or //maia.usno.navy.mil/search/search.html
+
+2.3. Sidereal time
+
+Sidereal time is the measurement of time relative to a distant star (instead of solar time that is relative to the sun). It is used in astronomy to predict when a star will be overhead. Due to the orbit of the earth around the sun a sidereal day is 4 minutes (1/366th) less than a solar day.
+
+2.4. Chronology
+
+Another form of time measurement consists of studying the past. Events in the past can be ordered in a sequence (creating a chronology), and can be put into chronological groups (periodization). One of the most important systems of periodization is the geologic time scale, which is a system of periodizing the events that shaped the Earth and its life. Chronology, periodization, and interpretation of the past are together known as the study of history.
+
+2.5. Time-like concepts: terminology
+
+The term "time" is generally used for many close but different concepts. Speaking exactly, one should distinguish at least between:
+- instant as an object - one point on the time axes. Being an object, it has no value;
+- time interval as an object - part of the time axes limited by two instants. Being an object, it has no value;
+- date as a quantity characterizing time instant. Being a quantity, it has value, say, 2014-04-26T09:42:36,75 in the ISO standard form, or today, 9:42 a.m. in a colloquial form;
+- duration as a one of quantities characterizing time interval. Being a quantity, it has value, say, 15 minutes. Other quantities describing a time interval are e.g. dates of its begin and end.
+From this point of view, the term "time" can be used either as a shorthand or in general sense. Nevertheless, in an exact text like in definitions, proper term should be chosen.
+
+3. Religion
+
+3.1. Linear and cyclical time
+
+Ancient cultures such as Incan, Mayan, Hopi, and other Native American Tribes, plus the Babylonians, Ancient Greeks, Hinduism, Buddhism, Jainism, and others had the concept of a wheel of time, that regarded time as cyclical and quantic consisting of repeating ages that happen to every being of the Universe between birth and extinction.
+
+In general, the Islamic and Judeo-Christian concept, based on the Bible, is that time is linear, beginning with the act of creation by God. The general Christian view is that time will end with the end of the present order of things.
+
+In the Old Testament book Ecclesiastes, traditionally ascribed to Solomon (970–928 BC), time (as the Hebrew word עדן, זמן `iddan(time) zĕman(season) is often translated) was traditionally regarded as a medium for the passage of predestined events. (Another word, زمان" זמן" zman, was current as meaning time fit for an event, and is used as the modern Arabic, Persian, and Hebrew equivalent to the English word "time".)
+
+3.2. Time in Greek mythology
+
+The Greek language denotes two distinct principles, Chronos and Kairos. The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
+
+In Greek mythology, Chronos (Ancient Greek: Χρόνος) is identified as the Personification of Time. His name in Greek means "time" and is alternatively spelled Chronus (Latin spelling) or Khronos. Chronos is usually portrayed as an old, wise man with a long, gray beard, such as "Father Time". Some English words whose etymological root is khronos/chronos include chronology, chronometer, chronic, anachronism, synchronize, and chronicle.
+
+3.3. Time in Kabbalah
+
+According to Kabbalists, “time” is a paradox and an illusion. Both the future and the past are recognized to be simultaneously present.
+
+4. Philosophy
+
+Two distinct viewpoints on time divide many prominent philosophers. One view is that time is part of the fundamental structure of the universe, a dimension in which events occur in sequence. Sir Isaac Newton subscribed to this realist view, and hence it is sometimes referred to as Newtonian time. An opposing view is that time does not refer to any kind of actually existing dimension that events and objects "move through", nor to any entity that "flows", but that it is instead an intellectual concept (together with space and number) that enables humans to sequence and compare events. This second view, in the tradition of Gottfried Leibniz and Immanuel Kant, holds that space and time "do not exist in and of themselves, but ... are the product of the way we represent things", because we can know objects only as they appear to us.
+
+The Vedas, the earliest texts on Indian philosophy and Hindu philosophy dating back to the late 2nd millennium BC, describe ancient Hindu cosmology, in which the universe goes through repeated cycles of creation, destruction and rebirth, with each cycle lasting 4320 million years. Ancient Greek philosophers, including Parmenides and Heraclitus, wrote essays on the nature of time. Plato, in the Timaeus, identified time with the period of motion of the heavenly bodies. Aristotle, in Book IV of his Physica defined time as 'number of movement in respect of the before and after'.
+
+In Book 11 of his Confessions, St. Augustine of Hippo ruminates on the nature of time, asking, "What then is time? If no one asks me, I know: if I wish to explain it to one that asketh, I know not." He begins to define time by what it is not rather than what it is, an approach similar to that taken in other negative definitions. However, Augustine ends up calling time a “distention” of the mind (Confessions 11.26) by which we simultaneously grasp the past in memory, the present by attention, and the future by expectation.
+
+In contrast to ancient Greek philosophers who believed that the universe had an infinite past with no beginning, medieval philosophers and theologians developed the concept of the universe having a finite past with a beginning. This view is shared by Abrahamic faiths as they believe time started by creation, therefore the only thing being infinite is God and everything else, including time, is finite.
+
+Isaac Newton believed in absolute space and absolute time; Leibniz believed that time and space are relational. The differences between Leibniz's and Newton's interpretations came to a head in the famous Leibniz-Clarke Correspondence.
+
+Immanuel Kant, in the Critique of Pure Reason, described time as an a priori intuition that allows us (together with the other a priori intuition, space) to comprehend sense experience. With Kant, neither space nor time are conceived as substances, but rather both are elements of a systematic mental framework that necessarily structures the experiences of any rational agent, or observing subject. Kant thought of time as a fundamental part of an abstract conceptual framework, together with space and number, within which we sequence events, quantify their duration, and compare the motions of objects. In this view, time does not refer to any kind of entity that "flows," that objects "move through," or that is a "container" for events. Spatial measurements are used to quantify the extent of and distances between objects, and temporal measurements are used to quantify the durations of and between events. Time was designated by Kant as the purest possible schema of a pure concept or category.
+
+Henri Bergson believed that time was neither a real homogeneous medium nor a mental construct, but possesses what he referred to as Duration. Duration, in Bergson's view, was creativity and memory as an essential component of reality.
+
+According to Martin Heidegger we do not exist inside time, we are time. Hence, the relationship to the past is a present awareness of having been, which allows the past to exist in the present. The relationship to the future is the state of anticipating a potential possibility, task, or engagement. It is related to the human propensity for caring and being concerned, which causes "being ahead of oneself" when thinking of a pending occurrence. Therefore, this concern for a potential occurrence also allows the future to exist in the present. The present becomes an experience, which is qualitative instead of quantitative. Heidegger seems to think this is the way that a linear relationship with time, or temporal existence, is broken or transcended. We are not stuck in sequential time. We are able to remember the past and project into the future - we have a kind of random access to our representation of temporal existence --- we can, in our thoughts, step out of (ecstasis) sequential time.
+
+4.1. Time as "unreal"
+
+In 5th century BC Greece, Antiphon the Sophist, in a fragment preserved from his chief work On Truth, held that: "Time is not a reality (hypostasis), but a concept (noêma) or a measure (metron)." Parmenides went further, maintaining that time, motion, and change were illusions, leading to the paradoxes of his follower Zeno. Time as an illusion is also a common theme in Buddhist thought.
+
+J. M. E. McTaggart's 1908 The Unreality of Time argues that, since every event has the characteristic of being both present and not present (i.e., future or past), that time is a self-contradictory idea (see also The flow of time).
+
+These arguments often center around what it means for something to be unreal. Modern physicists generally believe that time is as real as space—though others, such as Julian Barbour in his book The End of Time, argue that quantum equations of the universe take their true form when expressed in the timeless realm containing every possible now or momentary configuration of the universe, called 'platonia' by Barbour. (See also: Eternalism (philosophy of time))
+
+5. Physical definition
+
+Until Einstein's profound reinterpretation of the physical concepts associated with time and space, time was considered to be the same everywhere in the universe, with all observers measuring the same time interval for any event. Non-relativistic classical mechanics is based on this Newtonian idea of time.
+
+Einstein, in his special theory of relativity, postulated the constancy and finiteness of the speed of light for all observers. He showed that this postulate, together with a reasonable definition for what it means for two events to be simultaneous, requires that distances appear compressed and time intervals appear lengthened for events associated with objects in motion relative to an inertial observer.
+
+The theory of special relativity finds a convenient formulation in Minkowski spacetime, a mathematical structure that combines three dimensions of space with a single dimension of time. In this formalism, distances in space can be measured by how long light takes to travel that distance, e.g., a light-year is a measure of distance, and a meter is now defined in terms of how far light travels in a certain amount of time. Two events in Minkowski spacetime are separated by an invariant interval, which can be either space-like, light-like, or time-like. Events that are time-like cannot be simultaneous in any frame of reference, there must be a temporal component (and possibly a spatial one) to their separation. Events that are space-like could be simultaneous in some frame of reference, and there is no frame of reference in which they do not have a spatial separation. People travelling at different velocities between two events measure different spatial and temporal separations between the events, but the invariant interval is constant and independent of velocity.
+
+5.1. Classical mechanics
+
+In non-relativistic classical mechanics, Newton's concept of "relative, apparent, and common time" can be used in the formulation of a prescription for the synchronization of clocks. Events seen by two different observers in motion relative to each other produce a mathematical concept of time that works sufficiently well for describing the everyday phenomena of most people's experience. In the late nineteenth century, physicists encountered problems with the classical understanding of time, in connection with the behavior of electricity and magnetism. Einstein resolved these problems by invoking a method of synchronizing clocks using the constant, finite speed of light as the maximum signal velocity. This led directly to the result that observers in motion relative to one another measure different elapsed times for the same event.
+
+5.2. Spacetime
+
+Time has historically been closely related with space, the two together merging into spacetime in Einstein's special relativity and general relativity. According to these theories, the concept of time depends on the spatial reference frame of the observer, and the human perception as well as the measurement by instruments such as clocks are different for observers in relative motion. For example, if a spaceship carrying a clock flies through space at (very nearly) the speed of light, its crew does not notice a change in the speed of time on board their vessel because everything traveling at the same speed slows down at the same rate (including the clock, the crew's thought processes, and the functions of their bodies). However, to a stationary observer watching the spaceship fly by, the spaceship appears flattened in the direction it is traveling and the clock on board the spaceship appears to move very slowly. On the other hand, the crew on board the spaceship also perceives the observer as slowed down and flattened along the spaceship's direction of travel, because both are moving at very nearly the speed of light relative to each other. Because the outside universe appears flattened to the spaceship, the crew perceives themselves as quickly traveling between regions of space that (to the stationary observer) are many light years apart. This is reconciled by the fact that the crew's perception of time is different from the stationary observer's; what seems like seconds to the crew might be hundreds of years to the stationary observer. In either case, however, causality remains unchanged: the past is the set of events that can send light signals to an entity and the future is the set of events to which an entity can send light signals.
+
+5.3. Time dilation
+
+Einstein showed in his thought experiments that people travelling at different speeds, while agreeing on cause and effect, measure different time separations between events, and can even observe different chronological orderings between non-causally related events. Though these effects are typically minute in the human experience, the effect becomes much more pronounced for objects moving at speeds approaching the speed of light. Many subatomic particles exist for only a fixed fraction of a second in a lab relatively at rest, but some that travel close to the speed of light can be measured to travel farther and survive much longer than expected (a muon is one example). According to the special theory of relativity, in the high-speed particle's frame of reference, it exists, on the average, for a standard amount of time known as its mean lifetime, and the distance it travels in that time is zero, because its velocity is zero. Relative to a frame of reference at rest, time seems to "slow down" for the particle. Relative to the high-speed particle, distances seem to shorten. Einstein showed how both temporal and spatial dimensions can be altered (or "warped") by high-speed motion.
+
+Einstein (The Meaning of Relativity): "Two events taking place at the points A and B of a system K are simultaneous if they appear at the same instant when observed from the middle point, M, of the interval AB. Time is then defined as the ensemble of the indications of similar clocks, at rest relatively to K, which register the same simultaneously."
+
+Einstein wrote in his book, Relativity, that simultaneity is also relative, i.e., two events that appear simultaneous to an observer in a particular inertial reference frame need not be judged as simultaneous by a second observer in a different inertial frame of reference.
+
+5.4. Relativistic time versus Newtonian time
+
+The animations visualise the different treatments of time in the Newtonian and the relativistic descriptions. At the heart of these differences are the Galilean and Lorentz transformations applicable in the Newtonian and relativistic theories, respectively.
+
+In the figures, the vertical direction indicates time. The horizontal direction indicates distance (only one spatial dimension is taken into account), and the thick dashed curve is the spacetime trajectory ("world line") of the observer. The small dots indicate specific (past and future) events in spacetime.
+
+The slope of the world line (deviation from being vertical) gives the relative velocity to the observer. Note how in both pictures the view of spacetime changes when the observer accelerates.
+
+In the Newtonian description these changes are such that time is absolute: the movements of the observer do not influence whether an event occurs in the 'now' (i.e., whether an event passes the horizontal line through the observer).
+
+However, in the relativistic description the observability of events is absolute: the movements of the observer do not influence whether an event passes the "light cone" of the observer. Notice that with the change from a Newtonian to a relativistic description, the concept of absolute time is no longer applicable: events move up-and-down in the figure depending on the acceleration of the observer.
+
+5.5. Arrow of time
+
+Time appears to have a direction—the past lies behind, fixed and immutable, while the future lies ahead and is not necessarily fixed. Yet for the most part the laws of physics do not specify an arrow of time, and allow any process to proceed both forward and in reverse. This is generally a consequence of time being modeled by a parameter in the system being analyzed, where there is no "proper time": the direction of the arrow of time is sometimes arbitrary. Examples of this include the Second law of thermodynamics, which states that entropy must increase over time (see Entropy); the cosmological arrow of time, which points away from the Big Bang, CPT symmetry, and the radiative arrow of time, caused by light only traveling forwards in time (see light cone). In particle physics, the violation of CP symmetry implies that there should be a small counterbalancing time asymmetry to preserve CPT symmetry as stated above. The standard description of measurement in quantum mechanics is also time asymmetric (see Measurement in quantum mechanics).
+
+5.6. Quantized time
+
+Time quantization is a hypothetical concept. In the modern established physical theories (the Standard Model of Particles and Interactions and General Relativity) time is not quantized.
+
+Planck time (~ 5.4 × 10−44 seconds) is the unit of time in the system of natural units known as Planck units. Current established physical theories are believed to fail at this time scale, and many physicists expect that the Planck time might be the smallest unit of time that could ever be measured, even in principle. Tentative physical theories that describe this time scale exist; see for instance loop quantum gravity.
+
+6. Time and the Big Bang theory
+
+Stephen Hawking in particular has addressed a connection between time and the Big Bang. In A Brief History of Time and elsewhere, Hawking says that even if time did not begin with the Big Bang and there were another time frame before the Big Bang, no information from events then would be accessible to us, and nothing that happened then would have any effect upon the present time-frame. Upon occasion, Hawking has stated that time actually began with the Big Bang, and that questions about what happened before the Big Bang are meaningless. This less-nuanced, but commonly repeated formulation has received criticisms from philosophers such as Aristotelian philosopher Mortimer J. Adler.
+
+Scientists have come to some agreement on descriptions of events that happened 10−35 seconds after the Big Bang, but generally agree that descriptions about what happened before one Planck time (5 × 10−44 seconds) after the Big Bang are likely to remain pure speculation.
+
+6.1. Speculative physics beyond the Big Bang
+
+While the Big Bang model is well established in cosmology, it is likely to be refined in the future. Little is known about the earliest moments of the universe's history. The Penrose–Hawking singularity theorems require the existence of a singularity at the beginning of cosmic time. However, these theorems assume that general relativity is correct, but general relativity must break down before the universe reaches the Planck temperature, and a correct treatment of quantum gravity may avoid the singularity.
+
+There may also be parts of the universe well beyond what can be observed in principle. If inflation occurred this is likely, for exponential expansion would push large regions of space beyond our observable horizon.
+
+Some proposals, each of which entails untested hypotheses, are:
+
+Models including the Hartle–Hawking boundary condition in which the whole of space-time is finite; the Big Bang does represent the limit of time, but without the need for a singularity.
+
+Brane cosmology models in which inflation is due to the movement of branes in string theory; the pre-big bang model; the ekpyrotic model, in which the Big Bang is the result of a collision between branes; and the cyclic model, a variant of the ekpyrotic model in which collisions occur periodically.
+
+Chaotic inflation, in which inflation events start here and there in a random quantum-gravity foam, each leading to a bubble universe expanding from its own big bang. Proposals in the last two categories see the Big Bang as an event in a much larger and older universe, or multiverse, and not the literal beginning.
+
+7. Time travel
+
+Time travel is the concept of moving backwards or forwards to different points in time, in a manner analogous to moving through space, and different from the normal "flow" of time to an earthbound observer. In this view, all points in time (including future times) "persist" in some way. Time travel has been a plot device in fiction since the 19th century. Traveling backwards in time has never been verified, presents many theoretic problems, and may be an impossibility. Any technological device, whether fictional or hypothetical, that is used to achieve time travel is known as a time machine.
+
+A central problem with time travel to the past is the violation of causality; should an effect precede its cause, it would give rise to the possibility of a temporal paradox. Some interpretations of time travel resolve this by accepting the possibility of travel between branch points, parallel realities, or universes.
+
+Another solution to the problem of causality-based temporal paradoxes is that such paradoxes cannot arise simply because they have not arisen. As illustrated in numerous works of fiction, free will either ceases to exist in the past or the outcomes of such decisions are predetermined. As such, it would not be possible to enact the grandfather paradox because it is a historical fact that your grandfather was not killed before his child (your parent) was conceived. This view doesn't simply hold that history is an unchangeable constant, but that any change made by a hypothetical future time traveler would already have happened in his or her past, resulting in the reality that the traveler moves from. More elaboration on this view can be found in the Novikov self-consistency principle.
+
+8. Time perception
+
+The specious present refers to the time duration wherein one's perceptions are considered to be in the present. The experienced present is said to be ‘specious’ in that, unlike the objective present, it is an interval and not a durationless instant. The term specious present was first introduced by the psychologist E.R. Clay, and later developed by William James.
+
+8.1. Biopsychology
+
+The brain's judgment of time is known to be a highly distributed system, including at least the cerebral cortex, cerebellum and basal ganglia as its components. One particular component, the suprachiasmatic nuclei, is responsible for the circadian (or daily) rhythm, while other cell clusters appear capable of shorter-range (ultradian) timekeeping.
+
+Psychoactive drugs can impair the judgment of time. Stimulants can lead both humans and rats to overestimate time intervals, while depressants can have the opposite effect. The level of activity in the brain of neurotransmitters such as dopamine and norepinephrine may be the reason for this. Such chemicals will either excite or inhibit the firing of neurons in the brain, with a greater firing rate allowing the brain to register the occurrence of more events within a given interval (speed up time) and a decreased firing rate reducing the brain's capacity to distinguish events occurring within a given interval (slow down time).
+
+Mental chronometry is the use of response time in perceptual-motor tasks to infer the content, duration, and temporal sequencing of cognitive operations.
+
+8.2. Development of awareness and understanding of time in children
+
+Children's expanding cognitive abilities allow them to understand time more clearly. Two and three year olds' understanding of time is mainly limited to "now and not now." Five and six year olds can grasp the ideas of past, present, and future. Seven to ten year olds can use clocks and calendars.
+
+8.3. Alterations
+
+In addition to psychoactive drugs, judgments of time can be altered by temporal illusions (like the kappa effect), age, and hypnosis. The sense of time is impaired in some people with neurological diseases such as Parkinson's disease and attention deficit disorder.
+
+Psychologists assert that time seems to go faster with age, but the literature on this age-related perception of time remains controversial. Those who support this notion argue that young people, having more excitatory neurotransmitters, are able to cope with faster external events.
+
+9. Use of time
+
+In sociology and anthropology, time discipline is the general name given to social and economic rules, conventions, customs, and expectations governing the measurement of time, the social currency and awareness of time measurements, and people's expectations concerning the observance of these customs by others. Arlie Russell Hochschild and Norbert Elias have written on the use of time from a sociological perspective.
+
+The use of time is an important issue in understanding human behavior, education, and travel behavior. Time use research is a developing field of study. The question concerns how time is allocated across a number of activities (such as time spent at home, at work, shopping, etc.). Time use changes with technology, as the television or the Internet created new opportunities to use time in different ways. However, some aspects of time use are relatively stable over long periods of time, such as the amount of time spent traveling to work, which despite major changes in transport, has been observed to be about 20–30 minutes one-way for a large number of cities over a long period.
+
+Time management is the organization of tasks or events by first estimating how much time a task requires and when it must be completed, and adjusting events that would interfere with its completion so it is done in the appropriate amount of time. Calendars and day planners are common examples of time management tools.
+
+A sequence of events, or series of events, is a sequence of items, facts, events, actions, changes, or procedural steps, arranged in time order (chronological order), often with causality relationships among the items. Because of causality, cause precedes effect, or cause and effect may appear together in a single item, but effect never precedes cause. A sequence of events can be presented in text, tables, charts, or timelines. The description of the items or events may include a timestamp. A sequence of events that includes the time along with place or location information to describe a sequential path may be referred to as a world line.
+
+Uses of a sequence of events include stories, historical events (chronology), directions and steps in procedures, and timetables for scheduling activities. A sequence of events may also be used to help describe processes in science, technology, and medicine. A sequence of events may be focused on past events (e.g., stories, history, chronology), on future events that must be in a predetermined order (e.g., plans, schedules, procedures, timetables), or focused on the observation of past events with the expectation that the events will occur in the future (e.g., processes). The use of a sequence of events occurs in fields as diverse as machines (cam timer), documentaries (Seconds From Disaster), law (choice of law), computer simulation (discrete event simulation), and electric power transmission (sequence of events recorder). A specific example of a sequence of events is the timeline of the Fukushima Daiichi nuclear disaster.
+
+10. See also
+
+Horology
+
+International System of Quantities
+
+Kairos
+
+Term (time)
+
+10.1. Books
+
+A Brief History of Time by Stephen Hawking
+
+About Time: Einstein's Unfinished Revolution by Paul Davies
+
+From Eternity to Here: The Quest for the Ultimate Theory of Time by Sean M. Carroll
+
+The Physical Basis of The Direction of Time by Heinz-Dieter Zeh
+
+An Experiment with Time by John William Dunne
+
+Einstein's Dreams by Alan Lightman
+
+Being and Time by Martin Heidegger
+
+10.2. Organizations
+
+Leading scholarly organizations for researchers on the history and technology of time and timekeeping
+
+Antiquarian Horological Society—AHS (United Kingdom)
+
+Chronometrophilia (Switzerland)
+
+Deutsche Gesellschaft für Chronometrie—DGC (Germany)
+
+National Association of Watch and Clock Collectors—NAWCC (United States)
+
+10.3. Miscellaneous arts and sciences
+
+Anachronism
+
+Date and time representation by country
+
+List of cycles
+
+Network Time Protocol (NTP)
+
+Nonlinear narrative
+
+Philosophy of physics
+
+Rate (mathematics)
+
+10.4. Miscellaneous units of time
+
+Fiscal year
+
+Half-life
+
+Hexadecimal time
+
+Season
+
+Tithi
+
+Unit of time
+
+Unix epoch
+
+11. References
+
+12. Further reading
+
+- Research bibliography
+
+Stiegler, Bernard, Technics and Time, 1: The Fault of Epimetheus
+
+Charlie Gere, (2005) Art, Time and Technology: Histories of the Disappearing Body, Berg
+
+Craig Callendar, Introducing Time, Icon Books, 2010, ISBN 978-1848311206
+
+Benjamin Gal-Or, Cosmology, Physics and Philosophy, Springer Verlag, 1981, 1983, 1987, ISBN 0-387-90581-2, ISBN 0-387-96526-2.
+
+13. External links
+
+from Planck Time to the lifespan of the universe

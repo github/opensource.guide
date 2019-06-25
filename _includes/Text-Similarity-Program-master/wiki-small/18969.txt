@@ -1,0 +1,33 @@
+The Myrtales are an order of flowering plants placed as a sister to the eurosids II clade as of the publishing of the Eucalyptus grandis genome in June 2014. Though the APG III system of classification for angiosperms still places it within the eurosids. The following families are included as of APG III:
+
+Alzateaceae S.A.Graham
+
+Combretaceae R.Br. (leadwood family)
+
+Crypteroniaceae A.DC.
+
+Lythraceae J.St.-Hil. (loosestrife and pomegranate family)
+
+Melastomataceae Juss. (including Memecylaceae DC.)
+
+Myrtaceae Juss. (myrtle family; including Heteropyxidaceae Engl. & Gilg, Psiloxylaceae Croizat)
+
+Onagraceae Juss. (evening primrose family)
+
+Penaeaceae Sweet ex Guill. (including Oliniaceae Arn., Rhynchocalycaceae L.A.S.Johnson & B.G.Briggs)
+
+Vochysiaceae A.St.-Hil. The Cronquist system gives essentially the same composition, except the Vochysiaceae are removed to the order Polygalales, and the Thymelaeaceae are included. The families Sonneratiaceae, Trapaceae, and Punicaceae are removed from the Lythraceae. The APG III system agrees with the older Chronquist circumscriptions of treating Psiloxylaceae and Heteropyxidaceae within Myrtaceae, and Memecyclaceae within Melastomataceae.
+
+Ellagitannins are reported in dicotyledoneous angiospermes, and notably in species in the order Myrtales.
+
+1. Origins
+
+Myrtales is dated to have begun 89-99 million years ago (mya) in Australasia. There is some contention as to that date however, which was obtained using nuclear DNA. When looking at chloroplast DNA, the mrytales ancestor is instead considered to have evolved in the mid-cretaceous period (100mya) in Southeast Africa, rather than in Australasia. Although the APG system classifies myrtales as within the eurosids, the recently published genome of Eucalyptus grandis places the order myrtales as a sister to the eurosids rather than inside them. The discrepancy is thought to have arisen due to the difference between using a large number of taxa versus using a large number of genes for constructing a phylogeny.
+
+2. References
+
+Conti, E., Erikkson, T., Schonenberger, J., Sytsma, K. J., & Baum, D. A. (2002). Early Tertiary Out-of-India Dispersal of Crypteroniaceae: Evidence from Phylogeny and Molecular Dating. Evolution 56 (10): 1931–1942
+
+Schönenberger, J. & Conti, E. (2003). Molecular phylogeny and floral evolution of Penaeaceae, Oliniaceae, Rhynchocalycaceae, and Alzateaceae (Myrtales). American Journal of Botany 90: 293–309.
+
+3. External links

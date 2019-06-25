@@ -1,0 +1,71 @@
+Lucent Technologies, Inc. was an American multinational telecommunications equipment company headquartered in Murray Hill, New Jersey, in the United States. It was established on September 30, 1996 through the divestiture of the former AT&T Technologies business unit of AT&T Corporation, which included Western Electric and Bell Labs.
+
+Lucent was merged with Alcatel SA of France in a merger of equals on December 1, 2006, forming Alcatel-Lucent.
+
+1. Name
+
+Lucent means "light-bearing" in Latin. The name was applied in 1996 at the time of the split from AT&T.
+
+The name was widely criticised, as the logo was to be, both internally and externally. Corporate communications and business cards included the strapline 'Bell Labs Innovations' in a bid to retain the prestige of the internationally famous research lab, within a new business under an as-yet unknown name.
+
+This same linguistic root also gives Lucifer, "the light bearer" (from lux, 'light', and ferre, 'to bear'), who is also a character in Dante's epic poem Inferno. Shortly after the Lucent renaming in 1996, the Plan 9 project released a development of their work as the Inferno OS in 1997. This extended the 'Lucifer' and Dante references as a series of punning names for the components of Inferno - Dis, Limbo, Charon and Styx.
+
+When the rights to Inferno were sold in 2000, the company Vita Nuova Holdings was formed to represent them. This continues the Dante theme, although moving away from his Divine Comedy to the poem La Vita Nuova.
+
+2. Logo
+
+The Lucent logo, the Innovation Ring, was designed by Landor Associates, a prominent San Francisco-based branding consultancy. One source inside Lucent says that the logo is actually a Zen Buddhist symbol for "eternal truth", the Enso, turned 90 degrees and modified. Another source says it represents the mythic ouroboros, a snake holding its tail in its mouth. Lucent's logo also has been said to represent constant re-creating and re-thinking.
+
+After the logo was compared in the media to the ring a coffee mug leaves on paper, a Dilbert comic strip showed Dogbert as an overpaid consultant designing a new company logo; he takes a piece of paper that his coffee cup was sitting on and calls it the "Brown Ring of Quality". A telecommunication commentator referred to the logo as "a big red zero" and predicted financial losses.
+
+3. History
+
+Two of the primary reasons AT&T Corporation chose to spin off its equipment manufacturing business was to permit it to profit from sales to competing telecommunications providers; these customers had previously shown reluctance to purchase from a direct competitor. Bell Labs brought prestige to the new company, as well as the revenue from thousands of patents. Lucent also operated from 666 Fifth Avenue, NY.
+
+At the time of its spinoff, Lucent was placed under the leadership of Henry Schacht, who was brought in to oversee its transition from an arm of AT&T into an independent corporation. Richard McGinn, who was serving as President and COO, succeeded Schacht as CEO in 1997 while Schacht remained chairman of the board. Lucent became a "darling" stock of the investment community in the late 1990s, rising from a split-adjusted spinoff price of $7.56/share to a high of $84. Its market capitalization reached a high of $258 billion, and it was at the time the most widely held company with 5.3 million shareholders.
+
+In 1997, Lucent acquired Milpitas-based voice mail market leader Octel Communications Corporation for $2.1 billion, a move which immediately rendered the Business Systems Group profitable. By 1999 Lucent stock continued to soar and in that year Lucent acquired Ascend Communications, an Alameda, California–based manufacturer of communications equipment for US$24 billion. Lucent held discussions to acquire Juniper Networks but decided instead to build its own routers internally.
+
+However at the start of 2000, Lucent's "private bubble burst", while other competitors like Nortel Networks and Alcatel were still going strong as it would be many months before the rest of the telecom industry bubble collapsed. Previously Lucent had 14 straight quarters where it exceeded analysts' expectations, leading to high expectations for the 15th quarter, ending Dec. 31, 1999. On January 6, 2000, Lucent made the first of a string of announcements that it had missed its quarterly estimates, as CEO Rich McGinn grimly announced that Lucent had run into special problems during that quarter—including disruptions in its optical networking business—and reported flat revenues and a big drop in profits. That caused the stock to plunge by 28%, shaving $64 billion off of the company's market capitalization. When it was later revealed that it had used dubious accounting and sales practices to generate some of its earlier quarterly numbers, Lucent fell from grace. It was said that "Rich McGinn that couldn't accept Lucent's fall from its early triumphs." He described himself once as imposing "audacious" goals on his managers, believing the stretch for performance would produce dream results. Henry Schacht defended the corporate culture that McGinn created and also noted that McGinn did not sell any Lucent shares while serving as CEO. In November 2000, it also disclosed to the Securities and Exchange Commission that it had a $125 million accounting error for the third quarter of 2000, and by December 2000 it reported it had overstated its revenues for its latest quarter by nearly $700 million. Although no wrongdoing was found on his part, McGinn was forced to resign as CEO and he was replaced by Schacht on an interim basis. Subsequently, its CFO, Deborah Hopkins, left the company in May 2001 with Lucent's stock at $9.06 whereas at the time she was hired it was at $46.82.
+
+In 2001 there were merger discussions between Lucent and Alcatel, which would have seen Lucent acquired at its current market price without a premium and the newly combined entity would have been headquartered in Murray Hill. However these negotiations collapsed when Schacht insisted on an equal 7-7 split of the merged company's board of directors, while Alcatel chief executive officer Serge Tchuruk wanted 8 of the 14 board seats for Alcatel due to it being in a stronger position. The failure of the merger talks caused Lucent's share price to collapse, and by October 2002 the stock price had bottomed at 55 cents per share.
+
+Patricia Russo, formerly Lucent's EVP of the Corporate Office who then left for Eastman Kodak to serve as COO, was named permanent Chairman and CEO of Lucent in 2002, succeeding Schacht who remained on the Board of Directors.
+
+In April 2000, Lucent sold its Consumer Products unit to VTech and Consumer Phone Services. In October 2000, Lucent spun off its Business Systems arm into Avaya, Inc., and in June 2002, it spun off its microelectronics division into Agere Systems. The spinoffs of enterprise networking and wireless, the industry's key growth businesses from 2003 onward, meant that Lucent no longer had the capacity to serve this market.
+
+Lucent was reduced to 30,500 employees, down from about 165,000 employees at its zenith. The layoffs of so many experienced employees meant that the company was in a weakened position and unable to reestablish itself when the market recovered in 2003. By early 2003 Lucent's market value was $15.6 billion (which includes $6.8 billion of current value for two companies that Lucent had recently spun off, Avaya and Agere Systems), make the shares worth around $2.13, a far cry from its dotcom bubble peak when Lucent was worth $258 billion.
+
+Lucent continued to be active in the areas of telephone switching, optical, data and wireless networking.
+
+On April 2, 2006, Lucent announced a merger agreement with Alcatel, which was 1.5 times the size of Lucent. Serge Tchuruk became non-executive chairman, and Russo served as CEO of the newly merged company, Alcatel-Lucent, until they were both forced to resign at the end of 2008. The merger failed to produce the expected synergies, and there were significant write-downs of Lucent's assets that Alcatel purchased.
+
+4. Operations
+
+4.1. Divisions
+
+Lucent was divided into several core groups:
+
+Network Solutions Group - served landline/cellular telephone service providers by providing equipment & other solutions necessary to provide telephone service, including networking equipment
+
+Lucent Worldwide Services (LWS) - provided network services to telecom companies and business; clients included AT&T Corporation and Verizon.
+
+Bell Labs - created in 1925 as the R&D firm of the Bell System. It was an AT&T subsidiary set up as dual ownership by AT&T and Western Electric, the manufacturing arm of AT&T. Bell Labs has accumulated over 31,000 patents in its existence, some of which include development of the LED and discovery of the measure of sound.
+
+4.2. Murray Hill facility
+
+The Murray Hill anechoic chamber, built in 1940, is the world's oldest wedge-based anechoic chamber. The interior room measures approximately high by wide by deep. The exterior concrete and brick walls are about thick to keep outside noise from entering the chamber. The chamber absorbs over 99.995% of the incident acoustic energy above 200 Hz. At one time the Murray Hill chamber was cited in the Guinness Book of World Records as the world's quietest room. It is possible to hear the sounds of skeletal joints and heart beats very prominently.
+
+The Murray Hill facility was the global headquarters for Lucent Technologies. The Murray Hill facility also has the largest copper-roof in the world. When Lucent Technologies was experiencing financial troubles in 2000 and 2001, one out of every three fluorescent lights was turned off in the facility. The same was done in the Naperville and Allentown, Pennsylvania facilities for a while. The facility had a cricket field and featured a nearby station from which enthusiasts could control RC airplanes and helicopters.
+
+5. See also
+
+Carly Fiorina, driving force behind the split of AT&T that created Lucent.
+
+6. References
+
+7. References
+
+Lazonick, William, and Edward March (2011) "The Rise and Demise of Lucent Technologies," Journal of Strategic Management Education, vol. 7, no. 4.,
+
+8. External links

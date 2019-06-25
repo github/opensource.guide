@@ -1,0 +1,47 @@
+Red Faction is a first-person shooter video game developed by Volition, Inc. and published by THQ. It was released for PlayStation 2, Windows and Mac OS in 2001. A version for the Nokia N-Gage was developed by Monkeystone Games. The game was inspired by several works of contemporary science fiction, most notably the movie Total Recall among others.
+
+Red Faction takes place on Mars in the late 21st century. The player controls a miner named Parker who helps lead a rebellion against the Ultor Corporation. The premiere feature of the game is its "Geo-Mod" technology, short for "geometry modification", which provided destructible environments, allowing the player to destroy certain sections of the scenery in the game. For example, instead of opening a door, a player could blast through the rock surrounding the door.
+
+1. Gameplay
+
+One of the main selling points of Red Faction was the game engine's GeoMod technology, which allowed players to significantly alter and otherwise affect the surrounding terrain and buildings, either with explosives or otherwise. Past games had allowed limited alteration of the environment through scripted means, or special triggered areas which would add or remove certain predefined level elements. Red Faction was one of the first games to allow players unscripted level-altering possibilities.
+
+GeoMod allows the player to alter the environment so significantly because of the way it designates altered (or "GeoModded") areas. Whereas other game engines would have to modify the shape of the altered object to create a similar effect, GeoMod creates special objects which represent empty space. When, for example, an explosion blows a hole in a rock wall, the GeoMod technology creates an "empty space" object which is the approximate size and shape of the explosion. The training level uses a much larger "empty space" object than the rocket launcher is able to produce in other circumstances, simply because tunnelling is required to complete part of the level.
+
+In the extras menu of the game, there was a small level called "Glass House" that allows players to create near endless tunnels and caverns. This adds a form of sandbox, giving players the ability to test the GeoMod engine to its limit.
+
+2. Plot
+
+Red Faction takes place on Mars around the year 2075. Earth’s minerals are being depleted and humans need more of them to survive. The vast Ultor Corporation runs the mining operation on Mars. The living conditions are deplorable, human rights for the miners are few and a disease called "The Plague" is running rampant throughout the colony with no known antidote available - predominantly within the confines of the mine complex. Parker, a downtrodden miner, came to Mars to make a new start in his life - taken in by the promises and advantages Ultor has to offer in the mines of Mars. After a routine day in the mine with the typical aggression toward miners and cramped living conditions and poor nutrition, he witnesses the spark that starts a rebellion when a security guard abuses a miner at the end of his shift and heartlessly kills him. Parker takes up arms, with the help of Hendrix, a rebellious Ultor security technician who guides Parker through the complex. Hendrix tries to get Parker to join up with a group of miners who are about to steal a supply shuttle and escape the complex, but Parker arrives too late. The shuttle takes off, and is destroyed by missiles moments later.
+
+Parker traverses through the Ultor complex, eliminating any resistance Ultor throws at him, and even (with the help of Orion, a high-ranking Red Faction member) kidnapping a high-ranking Ultor administrator, Gryphon, for Eos, leader of the Red Faction. Parker learns from Gryphon about Dr. Capek, who created "The Plague". Capek has been experimenting with nanotechnology, and the Plague is a side-effect of injections at the miners' annual medical checkup. Hendrix directs Parker to Capek's secret underground laboratory, where he and Eos meet up and take down Capek. As Capek dies, he tells Eos there is a cure for the Plague but refuses to tell her how to make it and bluntly states "Hope you all Die!" With Capek dead the lab's self-destruction sequence initiates, Eos stays behind to find the files on the cure while Parker continues to the Communications center. After sending a distress call to the Earth Defense Force Parker destroys the missile defense system, so that he can stow away on a shuttle to an Ultor space station in Martian orbit to deactivate a laser defense system without getting shot down.
+
+After destroying the space station, Parker lands back on Mars via an escape pod, Ultor brings out its reserve of mercenaries to help them in their fight against the miners. Hendrix tells Parker that the mercenaries have orders to destroy the mining complex, covering up any proof of Ultor's wrongdoing, Hendrix is killed soon after this by the mercenaries. After fighting his way through the mercenary base, Parker confronts Masako, the mercenary leader. After he kills Masako, Parker sees that Eos is tied up and sitting on the floor next to the bomb, which has been set to explode. After deactivating it, the Earth Defense Force arrives just in time to save Parker and Eos from a fighter aircraft. Eos tells Parker that an antidote for the Plague has been made and it is being given to any sick miners. She also tells him she is leaving Mars, and that Parker should enjoy his new status as a hero.
+
+3. Development
+
+Descent 4 was a game being developed by Volition as part of the Descent game franchise, as a prequel to Descent. However, it was cancelled and its technologies, and some of the plot, were incorporated into Red Faction. Examples include the main character Parker as well as the GeoMod engine.
+
+4. Reception
+
+Red Faction has received generally positive reviews from critics. Aggregating review websites GameRankings and Metacritic gave the PlayStation 2 version an 88.29% and 88/100 and the PC version a 78.34% and 78/100.
+
+In the PlayStation 2 version, IGN called it "An absolute must-have game for the PlayStation 2, and it's the best single-player first-person shooter by a long shot." GameSpot stated "Although Red Faction rarely outstrips the games it draws inspiration from, the fact that there are times when it shows them up at all is pretty impressive." PlanetPS2 commented "Red Faction delivers a satisfying, if slightly flawed single player experience and a distracting, but ultimately shallow multiplayer mode. The graphics are impressive, and the technology introduced in this game is amazing, it's just unfortunate that it hasn't been used to its fullest potential."
+
+In the PC version, IGN stated "It's all about the gameplay, and when you crank this baby to hard, or God forbid, im-freaking-possible, you'll find the gameplay to keep you going for hours piled upon days, piled upon weeks." PC Gamer commented "As far as looks go, Red Faction is more like the cute girl next door than a hot fashion model from the Upper West Side: It's pretty, but it won't make a man drop to his knees and thank God for giving him sight." GameSpot noted "Its relative lack of originality can...undermine Red Faction's appeal for more-experienced players, for whom the game will provide mostly familiar territory. Nevertheless, Red Faction is an accomplished shooter in its own right." Game Revolution called the game "A fine FPS with plenty of action and intense gameplay, even if it is derivative, too short and a tad uninspired."
+
+5. Sequels
+
+The sequel, Red Faction II, was released for PlayStation 2 in October 2002, and then Microsoft Windows. It takes place on Earth and tells the story of a group of super soldiers, including the main character, who are physically enhanced by the nanotechnology originally developed by Capek on Mars.
+
+On June 15, 2009, THQ released Red Faction: Guerrilla, for the Xbox 360, PlayStation 3 and Microsoft Windows. In this iteration, the story again takes place on Mars, where the Earth Defense Force has become as tyrannical an organization as Ultor.
+
+Developed by Locomotive Games, a spin-off of the Red Faction games called Red Faction: B.E.A.S.T. was in a pre-alpha development stage for the Nintendo Wii video game console. However with the closure of Locomotive Games the game has been abandoned, although several models and a full-length trailer were released to the public upon the closure of the studio.
+
+On June 4, 2010, the next installment was announced with the trailer for Red Faction: Armageddon. The story occurs approximately 50 years after the events of Red Faction: Guerrilla. Players assume the role of Darius Mason, grandson of Alec and Samanya from the last installment of the series. In Armageddon, the Martian colonists now reside underground following the destruction of the machine responsible for terraforming Mars. Years after this event, creatures encountered in the first game are again released. Red Faction: Armageddon was released on June 7, 2011.
+
+6. References
+
+7. External links
+
+at Mod DB

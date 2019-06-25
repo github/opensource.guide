@@ -1,0 +1,156 @@
+In particle physics, mesons ( or ) are hadronic subatomic particles composed of one quark and one antiquark, bound together by the strong interaction. Because mesons are composed of sub-particles, they have a physical size, with a diameter roughly one femtometre, which is about the size of a proton or neutron. All mesons are unstable, with the longest-lived lasting for only a few hundredths of a microsecond. Charged mesons decay (sometimes through intermediate particles) to form electrons and neutrinos. Uncharged mesons may decay to photons.
+
+Mesons are not produced by radioactive decay, but appear in nature only as short-lived products of very high-energy interactions in matter, between particles made of quarks. In cosmic ray interactions, for example, such particles are ordinary protons and neutrons. Mesons are also frequently produced artificially in high-energy particle accelerators that collide protons, anti-protons, or other particles.
+
+In nature, the importance of lighter mesons is that they are the associated quantum-field particles that transmit the nuclear force, in the same way that photons are the particles that transmit the electromagnetic force. The higher energy (more massive) mesons were created momentarily in the Big Bang but are not thought to play a role in nature today. However, such particles are regularly created in experiments, in order to understand the nature of the heavier types of quark which compose the heavier mesons.
+
+Mesons are part of the hadron particle family, defined simply as particles composed of quarks. The other members of the hadron family are the baryons: subatomic particles composed of three quarks rather than two. Some experiments show evidence of exotic mesons, which don't have the conventional valence quark content of one quark and one antiquark.
+
+Because quarks have a spin of , the difference in quark-number between mesons and baryons results in conventional two-quark mesons being bosons, whereas baryons are fermions.
+
+Each type of meson has a corresponding antiparticle (antimeson) in which quarks are replaced by their corresponding antiquarks and vice-versa. For example, a positive pion () is made of one up quark and one down antiquark; and its corresponding antiparticle, the negative pion (), is made of one up antiquark and one down quark.
+
+Because mesons are composed of quarks, they participate in both the weak and strong interactions. Mesons with net electric charge also participate in the electromagnetic interaction. They are classified according to their quark content, total angular momentum, parity, and various other properties such as C-parity and G-parity. Although no meson is stable, those of lower mass are nonetheless more stable than the most massive mesons, and are easier to observe and study in particle accelerators or in cosmic ray experiments. They are also typically less massive than baryons, meaning that they are more easily produced in experiments, and thus exhibit certain higher energy phenomena more readily than baryons composed of the same quarks would. For example, the charm quark was first seen in the J/Psi meson () in 1974, and the bottom quark in the upsilon meson () in 1977.
+
+1. History
+
+From theoretical considerations, Hideki Yukawa in 1934 predicted the existence and the approximate mass of the "meson" as the carrier of the nuclear force that holds atomic nuclei together. If there were no nuclear force, all nuclei with two or more protons would fly apart because of the electromagnetic repulsion. Yukawa called his carrier particle the meson, from μέσος mesos, the Greek word for "intermediate," because its predicted mass was between that of the electron and that of the proton, which has about 1,836 times the mass of the electron. Yukawa had originally named his particle the "mesotron", but he was corrected by the physicist Werner Heisenberg (whose father was a professor of Greek at the University of Munich). Heisenberg pointed out that there is no "tr" in the Greek word "mesos".
+
+The first candidate for Yukawa's meson, now known in modern terminology as the muon, was discovered in 1936 by Carl David Anderson and others in the decay products of cosmic ray interactions. The mu meson had about the right mass to be Yukawa's carrier of the strong nuclear force, but over the course of the next decade, it became evident that it was not the right particle. It was eventually found that the "mu meson" did not participate in the strong nuclear interaction at all, but rather behaved like a heavy version of the electron, and was eventually classed as a lepton like the electron, rather than a meson. Physicists in making this choice decided that properties other than particle mass should control their classification.
+
+There were years of delays in the subatomic particle research during World War II in 1939–45, with most physicists working in applied projects for wartime necessities. When the war ended in August 1945, many physicists gradually returned to peacetime research. The first true meson to be discovered was what would later be called the "pi meson" (or pion). This discovery was made in 1947, by Cecil Powell, César Lattes, and Giuseppe Occhialini, who were investigating cosmic ray products at the University of Bristol in England, based on photographic films placed in the Andes mountains. Some mesons in these films had about the same mass as the already-known meson, yet seemed to decay into it, leading physicist Robert Marshak to hypothesize in 1947 that it was actually a new and different meson. Over the next few years, more experiments showed that the pion was indeed involved in strong interactions. The pion (as a virtual particle) is the primary force carrier for the nuclear force in atomic nuclei. Other mesons, such as the rho mesons are involved in mediating this force as well, but to lesser extents. Following the discovery of the pion, Yukawa was awarded the 1949 Nobel Prize in Physics for his predictions.
+
+The word meson has at times been used to mean any force carrier, such as "Z0 meson" which is involved in mediating the weak interaction. However, this spurious usage has fallen out of favor. Mesons are now defined as particles composed of pairs of quarks and antiquarks.
+
+2. Overview
+
+2.1. Spin, orbital angular momentum, and total angular momentum
+
+Spin (quantum number S) is a vector quantity that represents the "intrinsic" angular momentum of a particle. It comes in increments of  ħ. The ħ is often dropped because it is the "fundamental" unit of spin, and it is implied that "spin 1" means "spin 1 ħ". (In some systems of natural units, ħ is chosen to be 1, and therefore does not appear in equations).
+
+Quarks are fermions—specifically in this case, particles having spin (S = ). Because spin projections vary in increments of 1 (that is 1 ħ), a single quark has a spin vector of length , and has two spin projections (Sz = + and Sz = −). Two quarks can have their spins aligned, in which case the two spin vectors add to make a vector of length S = 1 and three spin projections (Sz = +1, Sz = 0, and Sz = −1), called the spin-1 triplet. If two quarks have unaligned spins, the spin vectors add up to make a vector of length S = 0 and only one spin projection (Sz = 0), called the spin-0 singlet. Because mesons are made of one quark and one antiquark, they can be found in triplet and singlet spin states.
+
+There is another quantity of quantized angular momentum, called the orbital angular momentum (quantum number L), that comes in increments of 1 ħ, which represent the angular momentum due to quarks orbiting around each other. The total angular momentum (quantum number J) of a particle is therefore the combination of intrinsic angular momentum (spin) and orbital angular momentum. It can take any value from to , in increments of 1.
+
+Particle physicists are most interested in mesons with no orbital angular momentum (L = 0), therefore the two groups of mesons most studied are the S = 1; L = 0 and S = 0; L = 0, which corresponds to J = 1 and J = 0, although they are not the only ones. It is also possible to obtain J = 1 particles from S = 0 and L = 1. How to distinguish between the S = 1, L = 0 and S = 0, L = 1 mesons is an active area of research in meson spectroscopy.
+
+2.2. Parity
+
+If the universe were reflected in a mirror, most of the laws of physics would be identical—things would behave the same way regardless of what we call "left" and what we call "right". This concept of mirror reflection is called parity (P). Gravity, the electromagnetic force, and the strong interaction all behave in the same way regardless of whether or not the universe is reflected in a mirror, and thus are said to conserve parity (P-symmetry). However, the weak interaction does distinguish "left" from "right", a phenomenon called parity violation (P-violation).
+
+Based on this, one might think that if the wavefunction for each particle (more precisely, the quantum field for each particle type) were simultaneously mirror-reversed, then the new set of wavefunctions would perfectly satisfy the laws of physics (apart from the weak interaction). It turns out that this is not quite true: In order for the equations to be satisfied, the wavefunctions of certain types of particles have to be multiplied by −1, in addition to being mirror-reversed. Such particle types are said to have negative or odd parity (P = −1, or alternatively P = –), whereas the other particles are said to have positive or even parity (P = +1, or alternatively P = +).
+
+For mesons, the parity is related to the orbital angular momentum by the relation:
+
+where the L is a result of the parity of the corresponding spherical harmonic of the wavefunction. The '+1' in the exponent comes from the fact that, according to the Dirac equation, a quark and an antiquark have opposite intrinsic parities. Therefore the intrinsic parity of a meson is the product of the intrinsic parities of the quark (+1) and antiquark (−1). As these are different, their product is −1, and so it contributes a +1 in the exponent.
+
+As a consequence, mesons with no orbital angular momentum (L = 0) all have odd parity (P = −1).
+
+2.3. C-parity
+
+C-parity is only defined for mesons that are their own antiparticle (i.e. neutral mesons). It represents whether or not the wavefunction of the meson remains the same under the interchange of their quark with their antiquark. If
+
+then, the meson is "C even" (C = +1). On the other hand, if
+
+then the meson is "C odd" (C = −1).
+
+C-parity rarely is studied on its own, but the combination of C- and P-parity into CP-parity. CP-parity was thought to be conserved, but was later found to be violated in weak interactions.
+
+2.4. G-parity
+
+G parity is a generalization of the C-parity. Instead of simply comparing the wavefunction after exchanging quarks and antiquarks, it compares the wavefunction after exchanging the meson for the corresponding antimeson, regardless of quark content. In the case of neutral meson, G-parity is equivalent to C-parity because neutral mesons are their own antiparticles.
+
+If
+
+then, the meson is "G even" (G = +1). On the other hand, if
+
+then the meson is "G odd" (G = −1).
+
+2.5. Isospin and charge
+
+The concept of isospin was first proposed by Werner Heisenberg in 1932 to explain the similarities between protons and neutrons under the strong interaction. Although they had different electric charges, their masses were so similar that physicists believed they were actually the same particle. The different electric charges were explained as being the result of some unknown excitation similar to spin. This unknown excitation was later dubbed isospin by Eugene Wigner in 1937. When the first mesons were discovered, they too were seen through the eyes of isospin. The three pions were believed to be the same particle, but in different isospin states.
+
+This belief lasted until Murray Gell-Mann proposed the quark model in 1964 (containing originally only the u, d, and s quarks). The success of the isospin model is now understood to be the result of the similar masses of the u and d quarks. Because the u and d quarks have similar masses, particles made of the same number of them also have similar masses. The exact specific u and d quark composition determines the charge, because u quarks carry charge + whereas d quarks carry charge −. For example the three pions all have different charges ( (), (a quantum superposition of and states), ()), but have similar masses (~) as they are each made of a same number of total of up and down quarks and antiquarks. Under the isospin model, they were considered to be a single particle in different charged states.
+
+The mathematics of isospin was modeled after that of spin. Isospin projections varied in increments of 1 just like those of spin, and to each projection was associated a "charged state". Because the "pion particle" had three "charged states", it was said to be of isospin I = 1. Its "charged states" , , and , corresponded to the isospin projections I3 = +1, I3 = 0, and I3 = −1 respectively. Another example is the "rho particle", also with three charged states. Its "charged states" , , and , corresponded to the isospin projections I3 = +1, I3 = 0, and I3 = −1 respectively. It was later noted that the isospin projections were related to the up and down quark content of particles by the relation
+
+where the n's are the number of up and down quarks and antiquarks.
+
+In the "isospin picture", the three pions and three rhos were thought to be the different states of two particles. However in the quark model, the rhos are excited states of pions. Isospin, although conveying an inaccurate picture of things, is still used to classify hadrons, leading to unnatural and often confusing nomenclature. Because mesons are hadrons, the isospin classification is also used, with I3 = + for up quarks and down antiquarks, and I3 = − for up antiquarks and down quarks.
+
+2.6. Flavour quantum numbers
+
+The strangeness quantum number S (not to be confused with spin) was noticed to go up and down along with particle mass. The higher the mass, the lower the strangeness (the more s quarks). Particles could be described with isospin projections (related to charge) and strangeness (mass) (see the uds nonet figures). As other quarks were discovered, new quantum numbers were made to have similar description of udc and udb nonets. Because only the u and d mass are similar, this description of particle mass and charge in terms of isospin and flavour quantum numbers only works well for the nonets made of one u, one d and one other quark and breaks down for the other nonets (for example ucb nonet). If the quarks all had the same mass, their behaviour would be called symmetric, because they would all behave in exactly the same way with respect to the strong interaction. Because quarks do not have the same mass, they do not interact in the same way (exactly like an electron placed in an electric field will accelerate more than a proton placed in the same field because of its lighter mass), and the symmetry is said to be broken.
+
+It was noted that charge (Q) was related to the isospin projection (I3), the baryon number (B) and flavour quantum numbers (S, C, B艂, T) by the Gell-Mann–Nishijima formula:
+
+where S, C, B艂, and T represent the strangeness, charm, bottomness and topness flavour quantum numbers respectively. They are related to the number of strange, charm, bottom, and top quarks and antiquark according to the relations:
+
+meaning that the Gell-Mann–Nishijima formula is equivalent to the expression of charge in terms of quark content:
+
+3. Classification
+
+Mesons are classified into groups according to their isospin (I), total angular momentum (J), parity (P), G-parity (G) or C-parity (C) when applicable, and quark (q) content. The rules for classification are defined by the Particle Data Group, and are rather convoluted. The rules are presented below, in table form for simplicity.
+
+3.1. Types of meson
+
+Mesons are classified into types according to their spin configurations. Some specific configurations are given special names based on the mathematical properties of their spin configuration.
+
+3.2. Nomenclature
+
+3.2.1. Flavourless mesons
+
+Flavourless mesons are mesons made of pair of quark and antiquarks of the same flavour (all their flavour quantum numbers are zero: S = 0, C = 0, B艂 = 0, T = 0). The rules for flavourless mesons are:
+
+† The C parity is only relevant to neutral mesons.
+†† For JPC=1−−, the ψ is called the
+
+In addition:
+
+When the spectroscopic state of the meson is known, it is added in parentheses.
+
+When the spectroscopic state is unknown, mass (in MeV/c2) is added in parentheses.
+
+When the meson is in its ground state, nothing is added in parentheses.
+
+3.2.2. Flavoured mesons
+
+Flavoured mesons are mesons made of pair of quark and antiquarks of different flavours. The rules are simpler in this case: the main symbol depends on the heavier quark, the superscript depends on the charge, and the subscript (if any) depends on the lighter quark. In table form, they are:
+
+In addition:
+
+If JP is in the "normal series" (i.e., JP = 0+, 1−, 2+, 3−, ...), a superscript ∗ is added.
+
+If the meson is not pseudoscalar (JP = 0−) or vector (JP = 1−), J is added as a subscript.
+
+When the spectroscopic state of the meson is known, it is added in parentheses.
+
+When the spectroscopic state is unknown, mass (in MeV/c2) is added in parentheses.
+
+When the meson is in its ground state, nothing is added in parentheses.
+
+4. Exotic mesons
+
+These is experimental evidence for particles which are hadrons (i.e., are composed of quarks) and are color-neutral with zero baryon number, and thus by conventional definition are mesons. Yet, these particles do not consist of a single quark-antiquark pair, as all the other conventional mesons discussed above do. A tentative category for these particles is exotic mesons.
+
+There are at least five exotic meson resonances that have been experimentally confirmed to exist by two or more independent experiments. The most statistically significant of these is the Z(4430), discovered by Belle in 2007 and confirmed by LHCb in 2014. It is a candidate for being a tetraquark: a particle composed of two quarks and two antiquarks. See the main article above for other particle resonances which are candidates for being exotic mesons.
+
+5. List
+
+6. See also
+
+Standard Model
+
+7. Notes
+
+8. References
+
+9. External links
+
+—Compiles authoritative information on particle properties
+
+(a PDF file)
+
+, an interactive visualisation allowing physical properties to be compared
+
+9.1. Recent findings

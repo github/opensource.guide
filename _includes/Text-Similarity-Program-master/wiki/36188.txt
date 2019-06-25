@@ -1,0 +1,61 @@
+61 Cygni, sometimes called Bessel's Star or Piazzi's Flying Star, is a visual binary system in the constellation Cygnus. It consists of a pair of K-type dwarf stars that orbit each other in a period of about 659 years, forming a visual binary. At fifth and sixth apparent magnitudes, they are among the least conspicuous stars visible in the night sky to an observer without an optical instrument.
+
+61 Cygni first attracted the attention of astronomers because of its large proper motion. In 1838, Friedrich Wilhelm Bessel measured its distance from Earth at about 10.3 light years, very close to the actual value of about 11.4 light years; this was the first distance estimate for any star other than the Sun, and first star to have its stellar parallax measured. Over the course of the twentieth century, several different astronomers reported detections of a massive planet orbiting one of the two stars, but recent high-precision radial velocity observations have shown that all such claims were erroneous. To date, no planets have been confirmed in this system and all of the past claims are now considered spurious.
+
+1. Observation history
+
+The large proper motion of 61 Cygni was first demonstrated by Giuseppe Piazzi in 1804, who christened it the "Flying Star". Piazzi's result, however, received little attention at the time due to the relatively short time span of his observations舒a mere 10 years. It would take a publication by Friedrich Wilhelm Bessel in 1812 to bring this star to the widespread attention of astronomers.
+
+Friedrich Georg Wilhelm von Struve first argued for its status as a binary in 1830. For many years thereafter, however, some uncertainty remained as to whether this pair was a mere juxtaposition of stars or a gravitationally bound system.
+
+The system's large proper motion, the largest known for any star at the time, made 61 Cygni a candidate for the determination of its distance by the method of parallax when the quality of astronomical observations first made this possible. The system therefore has the distinction of being the first star (excluding the Sun) to have its distance from Earth measured. This was accomplished in 1838 by Bessel, who arrived at a parallax of 313.6 mas, close to the currently accepted value of 287.18 mas (yielding 11.36 light years).
+
+Only a few years later, however, Groombridge 1830 was discovered to have a larger proper motion. 61 Cygni retains the distinction of having the largest proper motion of any star visible to the unaided eye (although Groombridge 1830 at magnitude 6.4 can be seen with the naked eye under exceptionally dark skies). 61 Cygni has the seventh highest proper motion of all stellar systems listed in the Hipparcos Catalogue.
+
+By 1911, Bessel's parallax of 0.3136 had only slightly improved to 0.310, and observations at Yerkes Observatory had measured its radial velocity as 62 km/s which together with its proper motion舒transverse to our line of sight舒of around 79 km/s yielded a space velocity of about 100 km/s towards a point about 12 degrees west of Orion's belt.
+
+In 1911, Benjamin Boss published data indicating that the 61 Cygni system was a member of a comoving group of stars. This group was later expanded to include 26 potential members. Possible members include Beta Columbae, Pi Mensae, 14 Tauri and 68 Virginis. The typical space velocities of this group of stars is 105舑114 km/s relative to the Sun.
+
+Because of their wide angular separation (and correspondingly slow orbital motion), it was initially unclear whether the two stars in the 61 Cygni system were physically connected. The respective parallax measurements of 0.360艃 and 0.288艃 gave a separation of more than two light years. However, by 1917 refined measured parallax differences demonstrated that the separation was significantly less. The binary nature of this system was clear by 1934, and orbital elements were published.
+
+An observer using 7ȕ50 binoculars can find 61 Cygni two binocular fields south-east of the bright star Deneb. The angular separation of the two stars is slightly greater than the angular size of Saturn (16舑20″). So, under ideal viewing conditions, the binary system can be resolved by a telescope with a 7 mm aperture. This is well within the capability for aperture of typical binoculars, though to resolve the binary these need a steady mount and some 10x magnification. With 61 Cyg's A/B separation of 28 arc-seconds, 10x magnification would give an apparent separation of 280 arc-seconds, above the generally-regarded eye resolution limit of 4 arc-minutes or 240 arc-seconds.
+
+2. Distance
+
+3. Properties
+
+Although it appears to be a single star to the naked eye, 61 Cygni is in fact a widely separated binary system, composed of two K class (orange) main sequence stars, 61 Cygni A and 61 Cygni B. The brighter star 61 Cygni A is of apparent magnitude 5.2, the fainter 61 Cygni B is 6.1. Both appear to be old-disk stars, with an estimated age that is older than the Sun. The system has a net space velocity of 108 km/s relative to the Sun, which results in the high proper motion across the sky. At a distance of just over 11 light years, it is the 15th nearest known star system to the Earth (not including the Sun). 61 Cygni A is the fourth nearest star that is visible to the naked eye for mid-latitude northern observers, after Sirius, Epsilon Eridani, and Procyon A. Since 1943, 61 Cygni A has served as a stable K5 V "anchor point" of the MK classification system. Starting in 1953, 61 Cygni B has been considered a K7 V standard star (Johnson & Morgan 1953, Keenan & McNeil 1989). This system will make its closest approach at about 20,000 CE, when the separation from the Sun will be about 9 light years.
+
+The two orbit their common barycenter in a period of 659 years, with a mean separation of about 84 A.U.舒84 times the separation between the Earth and the Sun. The relatively large orbital eccentricity of 0.48 means that the two stars are separated by about 44 A.U. at periapsis and 124 A.U. at apoapsis. The leisurely orbit of the pair has made it difficult to pin down their respective masses, and the accuracy of these values remain somewhat controversial. In the future this issue may be resolved through the use of asteroseismology.
+
+Component A has about 11% more mass than component B. It has an activity cycle that is much more pronounced than the solar sunspot cycle. This is a complex activity cycle that varies with a period of about 7.5±1.7 years. (An earlier estimate gave a period of 7.3 years.) The combination of starspot activity combined with rotation and chromospheric activity is characteristic of a BY Draconis variable. Because of differential rotation, this star's surface rotation period varies by latitude from 27 to 45 days, with an average period of 35 days.
+
+The outflow of the stellar wind from component A produces a bubble within the local interstellar cloud. Along the direction of the star's motion within the Milky Way, this extends out to a distance of only 30 AU, or roughly the orbital distance of Neptune from the Sun. This is lower than the separation between the two components of 61 Cygni, and so the two most likely do not share a common atmosphere. The compactness of the astrosphere is likely due to the low mass outflow and the relatively high velocity through the local medium.
+
+Component B displays a more chaotic pattern of variability than A, with significant short-term flares. There is an 11.7-year periodicity to the overall activity cycle of B. Both stars exhibit stellar flare activity, but the chromosphere of component B is 25% more active than for component A. As a result of differential rotation, the period of rotation varies by latitude from 32 to 47 days, with an average period of 38 days.
+
+There is some disagreement over the evolutionary age of this system. Kinematic data gives an age estimate of about 10 Gyr. Gyrochronology, or the age determination of a star based on its rotation and color, results in an average age of . The ages based on chromospheric activity for A and B are 2.36 Gyr and 3.75 Gyr, respectively. Finally the age estimates using the isochrone method, which involve fitting the stars to evolutionary models, yield upper limits of 0.44 Gyr and 0.68 Gyr. However, a 2008 evolutionary model using the CESAM2k code from the Côte d'Azur Observatory gives an age estimate of for the pair.
+
+4. Claims of a planetary system
+
+On several occasions, it has been claimed that 61 Cygni has unseen low-mass companions, planets or a brown dwarf. Kaj Strand of the Sproul Observatory, under the direction of Peter van de Kamp, made the first such claim in 1942 using observations to detect tiny but systematic variations in the orbital motions of 61 Cygni A and B. These perturbations suggested that a third body was orbiting 61 Cygni A. Reports of this third body served as inspiration for Hal Clement's 1953 science fiction novel Mission of Gravity. In 1957, van de Kamp narrowed his uncertainties, claiming that the object had a mass of eight times that of Jupiter, a calculated orbital period of 4.8 years, and a semi-major axis of 2.4 A.U. In 1977, Soviet astronomers at the Pulkovo Observatory near Saint Petersburg suggested that the system included three planets: two giant planets with six and twelve Jupiter masses around 61 Cyg A, and one giant planet with seven Jupiter masses around 61 Cygni B. In 1978, Wulff Dieter Heintz of the Sproul Observatory proved that these claims, as well as the claims for unseen companions around many other stars, were spurious, having failed to detect any evidence of such motion down to six percent of the Sun's mass舒equivalent to about 60 times the mass of Jupiter.
+
+4.1. Refining planetary boundaries
+
+Since no certain planetary object has been detected around either star so far, McDonald Observatory team has set limits to the presence of one or more planets around 61 Cygni A and 61 Cygni B with masses between 0.07 and 2.1 Jupiter masses and average separations spanning between 0.05 and 5.2 A.U.
+
+Because of the proximity of this system to the Sun, it is a frequent target of interest for astronomers. Both stars were selected by NASA as "Tier 1" targets for the proposed optical Space Interferometry Mission. This mission is potentially capable of detecting planets with as little as 3 times the mass of the Earth at an orbital distance of 2 A.U. from the star. Measurements of this system have detected an excess of far infrared radiation, beyond what is emitted by the stars. Such an excess is sometimes associated with a disk of dust, but in this case it lies sufficiently close to one or both of the stars that it has not yet been resolved with a telescope.
+
+5. See also
+
+List of nearest stars
+
+61 Cygni in fiction — Stars and planetary systems in fiction
+
+Barnard's Star
+
+6. Notes
+
+7. References
+
+8. External links

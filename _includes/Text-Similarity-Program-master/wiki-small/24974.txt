@@ -1,0 +1,85 @@
+The Pelton wheel is an impulse type water turbine. It was invented by Lester Allan Pelton in the 1870s. The Pelton wheel extracts energy from the impulse of moving water, as opposed to water's dead weight like the traditional overshot water wheel. Many variations of impulse turbines existed prior to Pelton's design, but they were less efficient than Pelton's design. Water leaving those wheels typically still had high speed, carrying away much of the dynamic energy brought to the wheels. Pelton's paddle geometry was designed so that when the rim ran at half the speed of the water jet, the water left the wheel with very little speed; thus his design extracted almost all of the water's impulse energywhich allowed for a very efficient turbine.
+
+1. Function
+
+Nozzles direct forceful, high-speed streams of water against a rotary series of spoon-shaped buckets, also known as impulse blades, which are mounted around the circumferential rim of a drive wheelalso called a runner (see photo, 'Old Pelton wheel..'). As the water jet impinges upon the contoured bucket-blades, the direction of water velocity is changed to follow the contours of the bucket. Water impulse energy exerts torque on the bucket-and-wheel system, spinning the wheel; the water stream itself does a "u-turn" and exits at the outer sides of the bucket, decelerated to a low velocity. In the process, the water jet's momentum is transferred to the wheel and thence to a turbine. Thus, "impulse" energy does work on the turbine. For maximum power and efficiency, the wheel and turbine system is designed such that the water jet velocity is twice the velocity of the rotating buckets. A very small percentage of the water jet's original kinetic energy will remain in the water, which causes the bucket to be emptied at the same rate it is filled, (see conservation of mass) and thereby allows the high-pressure input flow to continue uninterrupted and without waste of energy. Typically two buckets are mounted side-by-side on the wheel, which permits splitting the water jet into two equal streams (see photo). This balances the side-load forces on the wheel and helps to ensure smooth, efficient transfer of momentum of the fluid jet of water to the turbine wheel.
+
+Because water and most liquids are nearly incompressible, almost all of the available energy is extracted in the first stage of the hydraulic turbine. Therefore, Pelton wheels have only one turbine stage, unlike gas turbines that operate with compressible fluid.
+
+2. Applications
+
+Pelton wheels are the preferred turbine for hydro-power, when the available water source has relatively high hydraulic head at low flow rates, where the Pelton wheel is most efficient. Thus, more power can be extracted from a water source with high-pressure and low-flow than from a source with low-pressure and high-flow, even when the two flows theoretically contain the same power. Also a comparable amount of pipe material is required for each of the two sources, one requiring a long thin pipe, and the other a short wide pipe. Pelton wheels are made in all sizes. There exist multi-ton Pelton wheels mounted on vertical oil pad bearings in hydroelectric plants. The largest units can be up to 200 megawatts. The smallest Pelton wheels are only a few inches across, and can be used to tap power from mountain streams having flows of a few gallons per minute. Some of these systems use household plumbing fixtures for water delivery. These small units are recommended for use with or more of head, in order to generate significant power levels. Depending on water flow and design, Pelton wheels operate best with heads from , although there is no theoretical limit.
+
+3. Design rules
+
+The specific speed of a turbine dictates the turbine's shape in a way that is not related to its size. This allows a new turbine design to be scaled from an existing design of known performance. The specific speed is also the main criterion for matching a specific hydro-electric site with the correct turbine type.
+
+(dimensioned parameter), = rpm
+
+where:
+
+= Power (W)
+
+= Water head (m)
+
+= Density (kg/m3) The formula implies that the Pelton turbine is most suitable for applications with relatively high hydraulic head H, due to the 5/4 exponent being greater than unity, and given the characteristically low specific speed of the Pelton.
+
+4. Turbine physics and derivation
+
+4.1. Energy and initial jet velocity
+
+In the ideal (frictionless) case, all of the hydraulic potential energy (Ep = mgh) is converted into kinetic energy (Ek = mv2/2) (see Bernoulli's principle). Equating these two equations and solving for the initial jet velocity (Vi) indicates that the theoretical (maximum) jet velocity is Vi = √(2gh) . For simplicity, assume that all of the velocity vectors are parallel to each other. Defining the velocity of the wheel runner as: (u), then as the jet approaches the runner, the initial jet velocity relative to the runner is: (Vi − u). the initial jet velocity of jet is v1
+
+4.2. Final jet velocity
+
+Assuming that the jet velocity is higher than the runner velocity, if the water is not to become backed-up in runner, then due to conservation of mass, the mass entering the runner must equal the mass leaving the runner. The fluid is assumed to be incompressible (an accurate assumption for most liquids). Also it is assumed that the cross-sectional area of the jet is constant. The jet speed remains constant relative to the runner. So as the jet recedes from the runner, the jet velocity relative to the runner is: −(Vi − u) = −Vi + u. In the standard reference frame (relative to the earth), the final velocity is then: Vf = (−Vi + u) + u = −Vi + 2u.
+
+4.3. Optimal wheel speed
+
+We know that the ideal runner speed will cause all of the kinetic energy in the jet to be transferred to the wheel. In this case the final jet velocity must be zero. If we let −Vi + 2u = 0, then the optimal runner speed will be u = Vi /2, or half the initial jet velocity.
+
+4.4. Torque
+
+By Newton's second and third laws, the force F imposed by the jet on the runner is equal but opposite to the rate of momentum change of the fluid, so:
+
+where (ρ) is the density and (Q) is the volume rate of flow of fluid. If (D) is the wheel diameter, the torque on the runner is: T = F(D/2) = ρQD(Vi − u). The torque is at a maximum when the runner is stopped (i.e. when u = 0, T = ρQDVi ). When the speed of the runner is equal to the initial jet velocity, the torque is zero (i.e. when u = Vi, then T = 0). On a plot of torque versus runner speed, the torque curve is straight between these two points, (0, pQDVi) and (Vi, 0).
+
+4.5. Power
+
+The power P = Fu = Tω, where ω is the angular velocity of the wheel. Substituting for F, we have P = 2ρQ(Vi − u)u. To find the runner speed at maximum power, take the derivative of P with respect to u and set it equal to zero, [dP/du = 2ρQ(Vi − 2u)]. Maximum power occurs when u = Vi /2. Pmax = ρQVi2/2. Substituting the initial jet power Vi = √(2gh), this simplifies to Pmax = ρghQ. This quantity exactly equals the kinetic power of the jet, so in this ideal case, the efficiency is 100%, since all the energy in the jet is converted to shaft output.
+
+4.6. Efficiency
+
+A wheel power divided by the initial jet power, is the turbine efficiency, η = 4u(Vi − u)/Vi2. It is zero for u = 0 and for u = Vi. As the equations indicate, when a real Pelton wheel is working close to maximum efficiency, the fluid flows off the wheel with very little residual velocity. This basic theory does not suggest that efficiency will vary with hydraulic head, and further theory is required to show this. There are five types of efficiency in Pelton turbine:
+
+Hydraulic
+
+Mechanical
+
+Volumetric
+
+Overall
+
+Wheel efficiency
+
+5. System components
+
+The conduit bringing high-pressure water to the impulse wheel is called the penstock. Originally the penstock was the name of the valve, but the term has been extended to include all of the fluid supply hydraulics. Penstock is now used as a general term for a water passage and control that is under pressure, whether it supplies an impulse turbine or not.
+
+6. See also
+
+Peltric set
+
+Kaplan turbine
+
+Francis turbine
+
+Centrifugal pump
+
+Efficiency
+
+Turbine
+
+7. References
+
+8. External links

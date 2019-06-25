@@ -1,0 +1,245 @@
+Numerology is any belief in divine, mystical or other special relationship between a number and some coinciding events. It has many systems and traditions and beliefs. Numerology and numerological divination by systems such as isopsephy were popular among early mathematicians, but are no longer considered part of mathematics and are regarded as pseudomathematics or pseudoscience by modern scientists.
+
+Today, numerology is often associated with the paranormal, alongside astrology and similar divinatory arts.
+
+Despite the long history of numerological ideas, the word "numerology" is not recorded in English before c.1907.
+
+The term numerologist is also used derogatorily for those perceived to place excess faith in numerical patterns (and draw scientifically unsound inferences from them), even if those people do not practice traditional numerology. For example, in his 1997 book Numerology: Or What Pythagoras Wrought, mathematician Underwood Dudley uses the term to discuss practitioners of the Elliott wave principle of stock market analysis.
+
+1. History
+
+Modern numerology often contains aspects of a variety of ancient cultures and teachers, including Babylonia, Pythagoras and his followers (Greece, 6th century B.C.), astrological philosophy from Hellenistic Alexandria, early Christian mysticism, early Gnostics, the Hebrew system of the Kabbalah, The Hindu Vedas, the Chinese "Circle of the Dead", Egyptian "Book of the Masters of the Secret House" (Ritual of the Dead).
+
+Pythagoras and other philosophers of the time believed that because mathematical concepts were more "practical" (easier to regulate and classify) than physical ones, they had greater actuality. St. Augustine of Hippo (A.D. 354–430) wrote "Numbers are the Universal language offered by the deity to humans as confirmation of the truth." Similar to Pythagoras, he too believed that everything had numerical relationships and it was up to the mind to seek and investigate the secrets of these relationships or have them revealed by divine grace. See Numerology and the Church Fathers for early Christian beliefs on the subject.
+
+In 325 A.D., following the First Council of Nicaea, departures from the beliefs of the state Church were classified as civil violations within the Roman Empire. Numerology had not found favor with the Christian authority of the day and was assigned to the field of unapproved beliefs along with astrology and other forms of divination and "magic". Despite this religious purging, the spiritual significance assigned to the heretofore "sacred" numbers had not disappeared; several numbers, such as the "Jesus number" have been commented and analyzed by Dorotheus of Gaza and numerology still is used at least in conservative Greek Orthodox circles. Numerology is prominent throughout Sir Thomas Browne's 1658 literary Discourse The Garden of Cyrus. Throughout its pages the author attempts to demonstrate that the number five and the related Quincunx pattern can be found throughout the arts, in design, and in nature – particularly botany.
+
+Modern numerology has various antecedents. Ruth A. Drayer's book, Numerology, The Power in Numbers (Square One Publishers) says that around the turn of the century (from 1800 to 1900 A.D.) Mrs. L. Dow Balliett combined Pythagoras' work with Biblical reference. Then on Oct 23, 1972, Balliett's student, Dr. Juno Jordan, changed Numerology further and helped it to become the system known today under the title "Pythagorean", although Pythagoras himself had nothing to do with the system. Dr. Jordan's work "The Romance in Your Name" provided a system for identifying key numerological influences in one's name and birth date and remains a seminal interpretive guide for practitioners today. Subsequent 'numerologists' including Florence Campbell (1931), Lynn Buess (1978), Mark Gruner (1979), Kathleen Roquemore (1985) expanded on the use of numerology for assessing major aspects of personality and cyclical patterns in life.
+
+Australian philosopher David Stove pointed out different pseudoscientific beliefs, for example numerology and astrology, may be pathological in different ways. When critiquing such pseudoscientific beliefs, philosophers and scientists should take into account that the fallacies that give rise to the "particular awfulness" of one pseudoscientific belief may not be applicable to another.
+
+2. Methods
+
+2.1. Number definitions
+
+There are no set definitions for the meaning of specific digits, and interpretations of the meaning of digits and their orders vary throughout different cultures and schools of numerology. Common interpretations include:
+
+Individual; aggressor; self; leadership yang
+
+Balance; union; receptive; partnership yin
+
+Communication/interaction
+
+Creation
+
+Action; restlessness; life experience
+
+Home/family; responsibility; artistic in nature
+
+Thought/consciousness; spirit
+
+Power/sacrifice
+
+Highest level of changes Some numerologists analyze double-digit numbers as well, from 10 to 99. These numbers (e.g., 11, 22, 33,...) are commonly referred to as "master numbers" (Buess, 2005). This study of numerology is based on the evidence of significant double-digit numbers in the Kabbalah, the I-ching, the Pythagorean numerology, the Tarot Arcana of the Eastern faiths, and the Runes of the Viking age. Various authors of numerology books determine various meanings for each number, from 0 to 9 and from 10 to 99.
+
+Of relevance to numerical interpretations is arithmancy, which refers to a group of techniques involving the manipulation of numbers in order to determine meaning.
+
+2.2. Alphabetic systems
+
+There are many numerology systems which assign numerical value to the letters of an alphabet. Examples include the Abjad numerals in Arabic, the Hebrew numerals, Armenian numerals, and Greek numerals. The practice within Jewish tradition of assigning mystical meaning to words based on their numerical values, and on connections between words of equal value, is known as gematria.
+
+For example, numbers are assigned to letters as follows:
+
+1 = a, j, s
+
+2 = b, k, t,
+
+3 = c, l, u,
+
+4 = d, m, v,
+
+5 = e, n, w,
+
+6 = f, o, x,
+
+7 = g, p, y,
+
+8 = h, q, z,
+
+9 = i, r, .....and then summed. Examples:
+
+3,489 → 3 + 4 + 8 + 9 = 24 → 2 + 4 = 6
+
+Hello → 8 + 5 + 3 + 3 + 6 = 25 → 2 + 5 = 7 A quicker way to arrive at a single-digit summation (the digital root) is simply to take the value modulo 9, substituting a 0 result with 9 itself.
+
+Different methods of calculation exist, including Chaldean, Pythagorean, Hebraic, Helyn Hitchcock's method, Phonetic, Japanese, Arabic and Indian.
+
+The examples above are calculated using decimal (base 10) arithmetic. Other number systems exist, such as binary, octal, hexadecimal and vigesimal; summing digits in these bases yields different results. The first example, shown above, appears thus when rendered in octal (base 8):
+
+3,48910 = 66418 → 6 + 6 + 4 + 1 = 218 → 2 + 1 = 38 = 310
+
+2.3. Abjad system
+
+The Arabic system of numerology is known as Abjad notation or Abjad numerals. In this system each letter of Arabic alphabet has a numerical value. This system is mother of ilm-ul-cipher (Science of Cipher), and ilm-ul-huroof (Science of Alphabet Letters)...as shown below : ( أبجدهوز حطي كلمن سعف صقر شتث خذضظغ)
+
+أ=1
+
+ب=2
+
+ج=3
+
+د=4
+
+ه=5
+
+و=6
+
+ز=7
+
+ح=8
+
+ط=9
+
+ي=10
+
+ك=20
+
+ل=30
+
+م=40
+
+ن=50
+
+س=60
+
+ع=70
+
+ف=80
+
+ص=90
+
+ق=100
+
+ر=200
+
+ش=300
+
+ت=400
+
+ث=500
+
+خ=600
+
+ذ=700
+
+ض=800
+
+ظ=900
+
+غ=1000
+
+3. Chinese numerology
+
+Some Chinese assign a different set of meanings to the numbers and certain number combinations are considered luckier than others. In general, even numbers are considered lucky, since it is believed that good luck comes in pairs.
+
+Traditional Chinese Medicine (TCM), and its associated fields such as acupuncture, base their system on mystical numerical associations, such as the “12 vessels circulating blood and air corresponding to the 12 rivers flowing toward the Central Kingdom; and 365 parts of the body, one for each day of the year” being the basis of locating acupuncture points.
+
+3.1. Chinese number definitions
+
+Cantonese frequently associate numbers with the following connotations (based on its sound), which may differ in other Chinese languages:
+
+一  – sure
+
+二  – easy 易
+
+三  – live 生 but it can also be seen as a halved eight when using Arabic numerals (3) (8) and so considered unlucky.
+
+四  – considered unlucky since 4 is a homophone with the word for death or suffering 死 , yet in the Shanghainese, it is a homophone of water (水)and is considered lucky since water is associated with money.
+
+五  – the self, me, myself 吾 , nothing, never 唔 in the Shanghainese, it is a homophone of fish (鱼)
+
+六  – easy and smooth, all the way
+
+七  – a slang/vulgar word in Cantonese.
+
+八  – sudden fortune, prosperity 發
+
+九  – long in time 久 , enough 夠 or a slang/vulgar word derived from dog 狗 in Cantonese Some "lucky number" combinations include:
+
+99 – doubly long in time, hence eternal; used in the name of a popular Chinese American supermarket chain, 99 Ranch Market.
+
+168 – many premium-pay telephone numbers in China begin with this number, which is considered lucky. It is also the name of a motel chain in China (Motel 168).
+
+888 – Three times the prosperity, means "wealthy wealthy wealthy".
+
+4. Other fields
+
+4.1. Numerology and alchemy
+
+Some alchemical theories were closely related to numerology. Iranian alchemist Jabir ibn Hayyan framed his experiments in an elaborate numerology based on the names of substances in the Arabic language.
+
+4.2. Numerology in science
+
+Scientific theories are sometimes labeled "numerology" if their primary inspiration appears to be a set of patterns rather than scientific observations. This colloquial use of the term is quite common within the scientific community and it is mostly used to dismiss a theory as questionable science.
+
+The best known example of "numerology" in science involves the coincidental resemblance of certain large numbers that intrigued such eminent men as mathematical physicist Paul Dirac, mathematician Hermann Weyl and astronomer Arthur Stanley Eddington. These numerical coincidences refer to such quantities as the ratio of the age of the universe to the atomic unit of time, the number of electrons in the universe, and the difference in strengths between gravity and the electric force for the electron and proton. ("Is the Universe Fine Tuned for Us?", Stenger, V.J., page 3).
+
+The discovery of atomic triads (dealing with elements primarily in the same group or column of the periodic table) was considered a form of numerology, and yet ultimately led to the construction of the periodic table. Here the atomic weight of the lightest element and the heaviest are summed, and averaged, and the average is found to be very close to that of the intermediate weight element. This didn't work with every triplet in the same group, but worked often enough to allow later workers to create generalizations. See Döbereiner's triads
+
+Large number co-incidences continue to fascinate many mathematical physicists. For instance, James G. Gilson has constructed a "Quantum Theory of Gravity" based loosely on Dirac's large number hypothesis.
+
+Wolfgang Pauli was also fascinated by the appearance of certain numbers, including 137, in physics. British mathematician I. J. Good wrote:
+
+4.3. Numerology in gaming
+
+Some players apply methods that are sometimes called numerological in games which involve numbers but no skill, such as bingo, roulette, keno, or lotteries. Although no strategy can be applied to increase odds in such games, players may employ "lucky numbers" to find what they think will help them. There is no evidence that any such "numerological strategy" yields a better outcome than pure chance, but the methods are sometimes encouraged, e.g. by casino owners.
+
+5. Skepticism
+
+Skeptics argue that numbers have no occult significance and cannot by themselves influence a person's life. Skeptics therefore regard numerology as a superstition and a pseudoscience that uses numbers to give the subject a veneer of scientific authority. For example, there is no evidence that all people born on the same date have the same future, contrary to the claims of numerologists.
+
+Two studies have been done investigating numerological claims, both producing negative results. One in the UK in 1993 and one in 2012 in Israel. The experiment in Israel involved a professional numerologist and 200 participants. The experiment was repeated twice and still produced negative results.
+
+6. In popular culture
+
+Numerology is a popular plot device in fiction. Sometimes it is a casual element used for comic effect, such as in an episode titled "The Séance" of the 1950s TV sitcom I Love Lucy, where Lucy dabbles in numerology. Sometimes it is a central motif of the storyline, such as the movie π, in which the protagonist meets a numerologist searching for hidden numerical patterns in the Torah; the TV show Touch which focuses almost entirely on the role of numerology in the events and coincidences of any person's life; and the movie The Number 23 was based on claimed mysteries of the number 23.
+
+7. See also
+
+Abjad
+
+Al-Jafr (book)
+
+Al-Jamia (scroll)
+
+Biblical numerology
+
+List of topics characterized as pseudoscience
+
+Number of the Beast
+
+Numbers in Chinese culture
+
+Numbers in Egyptian mythology
+
+Numbers in Norse mythology
+
+Significance of numbers in Judaism
+
+8. Notes
+
+9. References
+
+; a scholarly compendium of the connotations and associations of numbers in historical cultures
+
+Pandey, Aaadietya. (2006). Numerology: The number game
+
+Pochat Wilfrid & Pirmaïer Michel, (2011). The Unveiled Numerology – vol. 1 – You do not necessarily carry the name you think
+
+Dudley, U. (1997). Numerology: Or, What Pythagoras Wrought. Mathematical Association of America. – a skeptical survey of the field through history
+
+Nagy, Andras M. (2007). The Secret of Pythagoras (DVD). ASIN
+
+Drayer, R.A. (2002) Numerology, The Power in Numbers, A Right & Left Brain Approach. ISBN 0-9640321-3-9
+
+10. External links

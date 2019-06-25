@@ -1,0 +1,85 @@
+Kim Eric Drexler (born April 25, 1955) is an American engineer best known for popularizing the potential of molecular nanotechnology (MNT), from the 1970s and 1980s. His 1991 doctoral thesis at Massachusetts Institute of Technology was revised and published as the book Nanosystems: Molecular Machinery Manufacturing and Computation (1992), which received the Association of American Publishers award for Best Computer Science Book of 1992.
+
+1. Life and work
+
+K. Eric Drexler was strongly influenced by ideas on Limits to Growth in the early 1970s. His response in his first year at Massachusetts Institute of Technology was to seek out someone who was working on extraterrestrial resources. He found Dr. Gerard K. O'Neill of Princeton University, a physicist famous for a strong focus on particle accelerators and his landmark work on the concepts of space colonization. Drexler was involved in NASA summer studies in 1975 and 1976. Besides working summers for O'Neill building mass driver prototypes, he delivered papers at the first three Space Manufacturing conferences at Princeton. The 1977 and 1979 papers were co-authored with Keith Henson, and patents were issued on both subjects, vapor phase fabrication and space radiators.
+
+Drexler participated in NASA summer studies on space colonies in 1975 and 1976. He fabricated metal films a few tens of nanometers thick on a wax support to demonstrate the potentials of high performance solar sails. He was active in space politics, helping the L5 Society defeat the Moon Treaty in 1980.
+
+During the late 1970s, he began to develop ideas about molecular nanotechnology (MNT). In 1979, Drexler encountered Richard Feynman's provocative 1959 talk There's Plenty of Room at the Bottom. The term "nano-technology" had been coined by the Tokyo Science University Professor Norio Taniguchi in 1974 to describe the precision manufacture of materials with nanometer tolerances, and Drexler unknowingly used a related term in his 1986 book Engines of Creation: The Coming Era of Nanotechnology to describe what later became known as molecular nanotechnology (MNT). In that book, he proposed the idea of a nanoscale "assembler" which would be able to build a copy of itself and of other items of arbitrary complexity. He also first published the term "grey goo" to describe what might happen if a hypothetical self-replicating molecular nanotechnology went out of control. He has subsequently tried to clarify his concerns about out-of-control self-replicators, and make the case that molecular manufacturing does not require such devices.
+
+Drexler holds three degrees from MIT. He received his B.S. in Interdisciplinary Sciences in 1977 and his M.S. in 1979 in Astro/Aerospace Engineering with a Master's thesis titled "Design of a High Performance Solar Sail System." In 1991 he earned a Ph.D. under the auspices of the MIT Media Lab (formally, the Media Arts and Sciences Section, School of Architecture and Planning). His Ph.D. work was the first doctoral degree on the topic of molecular nanotechnology and his thesis, "Molecular Machinery and Manufacturing with Applications to Computation," was published (with minor editing) as Nanosystems: Molecular Machinery, Manufacturing and Computation (1992), which received the Association of American Publishers award for Best Computer Science Book of 1992.
+
+Drexler and Christine Peterson, at that time husband and wife, founded the Foresight Institute in 1986 with the mission of "Preparing for nanotechnology.” Drexler and Peterson ended their 21-year marriage in 2002. Drexler is no longer a member of the Foresight Institute.
+
+In August 2005 Drexler joined Nanorex, a molecular engineering software company based in Bloomfield Hills, Michigan, to serve as the company's Chief Technical Advisor. Nanorex's nanoENGINEER-1 software was reportedly able to simulate a hypothetical differential gear design in "a snap".
+
+In 2006, Drexler married Rosa Wang, a former investment banker who works with Ashoka: Innovators for the Public on improving the social capital markets.
+
+2. Controversy
+
+Drexler's work on nanotechnology was criticized as naive by Nobel Prize winner Richard Smalley in a 2001 Scientific American article. Smalley first argued that "fat fingers" made MNT impossible. He later argued that nanomachines would have to resemble chemical enzymes more than Drexler's assemblers and could only work in water. Drexler maintained that both were straw man arguments, and in the case of enzymes, wrote that "Prof. Klibanov wrote in 1994, '... using an enzyme in organic solvents eliminates several obstacles ...'" Drexler had difficulty in getting Smalley to respond, but in December 2003, Chemical and Engineering news carried a 4 part debate. Ray Kurzweil spends four pages in his book 'The Singularity Is Near' [pp 236–238] to showing that Richard Smalley's arguments are not valid, and disputing them point by point. Kurzweil ends by stating that Drexler's visions are practicable and even happening already. This analysis has subsequently been put in an article online at KurzweilAI.net.
+
+One of the barriers to achieving molecular nanotechnology is the lack of an efficient way to create machines on a molecular/atomic scale. One of Drexler's early ideas was an "assembler", a nanomachine that would comprise an arm and a computer that could be programmed to build more nanomachines. If an assembler could be built, it might then build a copy of itself, and thus potentially be useful for efficient mass production of nanomachines. But the lack of a way to first build an assembler remains the sine qua non obstacle to achieving this vision.
+
+A second difficulty in reaching molecular nanotechnology is design. Hand design of a gear or bearing at the level of atoms is a grueling task. While Drexler, Ralph Merkle, and others have created a few designs of simple parts, no comprehensive design effort for anything approaching the complexity of a Model T Ford has been attempted.
+
+A third difficulty in achieving molecular technology is separating successful trials from failures, and elucidating the failure mechanisms of the failures. Unlike Darwinian evolution, which proceeds by random variations in ensembles of organisms combined with deterministic reproduction/extinction as a selection process to achieve great complexity after billions of years (a set of mechanisms that Richard Dawkins has referred to as a "blind watchmaker"), deliberate design and building of nanoscale mechanisms requires a means other than reproduction/extinction to winnow successes from failures. Such means are difficult to provide (and presently non-existent) for anything other than small assemblages of atoms viewable by an AFM or STM.
+
+Thus, even in the latest report "A Matter of Size: Triennial Review of the National Nanotechnology Initiative" put out by the National Academies Press in December 2006, (roughly twenty years after Engines of Creation was published) no clear way forward toward molecular nanotechnology is seen, as per the conclusion on page 108 of that report:
+
+3. In science fiction
+
+Drexler is mentioned in the science fiction book The Diamond Age as one of the heroes of a future world where nanotechnology is ubiquitous.
+
+In the science fiction novel Newton's Wake by Ken Macleod a 'drexler' is a nanotech assembler of pretty much anything that can fit in the volume of the particular machine - socks to starships.
+
+Drexler is also mentioned in the science fiction book Decipher by Stel Pavlou, his book is mentioned as one of the starting points of the nanomachine construction, as well as giving a better understanding of the way carbon 60 was to be applied.
+
+James Rollins references Drexler's Engines of Creation in his novel Excavation, using his theory of a molecular machine in two sections as a possible explanation for the mysterious "Substance Z" in the story.
+
+Drexler gets a mention in the late Dr. Timothy Leary's Design for Dying in the "Mutation" section, briefly detailing the 8 Circuit Consciousness model. (pg. 91).
+
+4. Works
+
+Engines of Creation (1986)
+
+Available
+
+Available online in Russian as
+
+Available online in Chinese as
+
+Available online in Italian as
+
+The Canvas of the Night (1990), (ar) Project Solar Sail, ed. Arthur C. Clarke, NAL/Roc (ISBN 0451450027) Science Fiction.
+
+Unbounding the Future (1991; with Christine Peterson and Gayle Pergamit) (ISBN 0-688-12573-5)
+
+Available online with free download at
+
+(1992)
+
+Sample chapters and a table of contents are available
+
+Drexler's doctoral thesis, Molecular Machinery and Manufacturing with Applications to Computation, an earlier version of the text that became Nanosystems, is available
+
+Engines of Creation 2.0: The Coming Era of Nanotechnology - Updated and Expanded, K. Eric Drexler, 647 pages, (February 2007)
+
+Radical Abundance: How a Revolution in Nanotechnology Will Change Civilization, May 7, 2013, ISBN 1610391136
+
+5. See also
+
+Chemical vapor deposition, a type of "vapor phase fabrication"
+
+Robert Freitas - nanomedicine advocate
+
+6. References
+
+7. Further reading
+
+Great Mambo Chicken and the Transhuman Condition by Ed Regis, 1990. ISBN 0-201-56751-2
+
+Nano: The Emerging Science of Nanotechnology by Ed Regis, 1995. ISBN 0-316-73852-2
+
+8. External links

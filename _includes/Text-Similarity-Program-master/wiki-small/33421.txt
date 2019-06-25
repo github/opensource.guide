@@ -1,0 +1,7 @@
+Web commerce is a form of electronic commerce that is conducted primarily through the World Wide Web, but may also use email and other aspects of the Internet.
+
+Merchants set up a website to display their products or services for consumers to access by using a web browser. Websites present the consumer with various options for searching and selecting products and services, which offer speed and convenience of shopping from home or the office. Although the consumer lacks sensory perception of the actual product, he/she gains benefits of shopping 24 hours a day.
+
+Some merchants attract customers to their websites by advertising through web banners or email. Other merchants may drive customers to their websites through more traditional methods, such as print media, radio or television. Merchants can also extend their online sales reach and revenue by creating an affiliate marketing strategy.
+
+Payment is handled in a variety of ways: online credit card payment, mailed cheque, money order, or PaidByCash, or phone order. For credit card payments, the merchant typically relies on a third-party payment gateway that enables a secure payment method using cryptographically based technology, such as SSL or TLS. This protects the customer's sensitive information from interception by encrypting all data transferred between the customer's computer and the website's server. The account withdrawal may be conducted by the merchant or through a third-party payment service, such as PayPal, Wirex, ePassporte, etc.

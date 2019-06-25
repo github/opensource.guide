@@ -1,0 +1,223 @@
+500 or Five Hundred is a trick-taking game that is an extension of Euchre with some ideas from Bridge. For two to six players it is most commonly played by four players in partnerships but is sometimes recommended as a good three player game. It arose in America before 1900 and was promoted by the United States Playing Card Company, who copyrighted and marketed the rules in 1904. 500 is a social card game and was highly popular in the United States until around 1920 when first Auction bridge and then Contract Bridge drove it from favour. It continued to enjoy popularity in Australia, New Zealand and Quebec.
+
+1. Setup
+
+Of the many variants to 500, the standard deck contains 43 playing cards: a Joker is included (sometimes two, in which case the black-and-white joker beats the coloured one), and the 2s, 3s, and two 4s are removed. Either the two black 4s are removed, or the 4 of spades and 4 of diamonds are removed, in which case the 4 that matches the trump color is also considered trump, so that there are always 13 trump cards (14 when using two jokers). Cards are dealt to each of the four players and three (four with two jokers) are dealt face down on the table to form the kitty (also known as the widow or blind.) Alternatively, a 45 card deck can be used (46 with two jokers), in which case the 4s are not removed. Each player still receives a hand of 10 cards, but the kitty is increased to five cards (six with two jokers).
+
+Players play in pairs, usually opposite each other. Traditionally, a bundle of three cards is dealt to each player, one to the kitty, a bundle of four to each player, one to the kitty, a bundle of three to each player, one to the kitty or with a 45 card deck: the deal is performed by dealing three cards to each player, then placing three cards in the kitty, four cards each and two to the kitty, and then three.
+
+As in Euchre, in non-trump suits, the order of cards from highest to lowest is Ace, King, Queen, (Jack), 10, 9, 8, 7, 6, 5, (4). In the trump suit, the highest card is the Joker, sometimes known as best bower in reference to the trump Jacks, followed by the Jack of the trump suit called right bower, and then the Jack of the suit of the same color as the trump suit called left bower, which is considered part of the trump suit, followed by the Ace, King, Queen, 10, 9, 8, 7, 6, 5, (4).
+
+Bower is an Anglicization of the German Bauer, a word meaning farmer, peasant, or pawn. This name is often used to refer to the Jack of German games.
+
+2. Bidding
+
+After people do deal, players call in turn, electing either to bid or to pass. A bid indicates the combined number of tricks the bidder believes he and his partner will take and the suit that will be trumps for that hand, or that there will be no trump suit. For instance, a bid of "seven spades" indicates that the player intends to win seven or more tricks with spades being the trump suit, whereas a bid of "seven no-trumps" indicates that the player intends to win seven or more tricks with no trump suit (in which case the only trump card is the joker).
+
+In American play, a bid of six is called "cheating". A player who bids "inkle spades" is indicating to their partner that they have some spades but not enough to bid seven. Only the first two players may inkle.
+
+A player may elect not to bid, or to "pass". Bidding proceeds clockwise around the table, with each player passing or making a higher-scoring bid. A player who passes cannot subsequently make a bid in that hand.
+
+A player who has bid may only bid again in that hand if there has been an intervening bid by another player. However, in some variations a player who has bid and not passed may always bid again in that hand.
+
+The order of seniority of suits in bidding (highest to lowest, as reflected in the scores below) is hearts, diamonds, clubs, spades. Therefore, for example, a player who bids "seven clubs" may be outbid by a subsequent bidding player on seven diamonds or seven hearts, but not seven spades. A "no trumps" bid beats any suited bid of the same number. Inkles are typically also similarly ranked: If the first player bids "six hearts", the next player cannot inkle spades, clubs, or diamonds. Their only options are to inkle no trump, bid seven or more (of any suit, or no trump or Misère), or pass. Eventually, all but one player passes and the bid is decided.
+
+In American play, there is only one round of bidding, with each player getting one chance, in turn, to either bid or pass. The player making the successful bid then collects the kitty. This player sorts through his hand and discards the least-useful three (or five in the case of a 45 card deck) cards (possibly including cards picked up from the kitty), and places them face down; the discarded cards playing no further part in the hand.
+
+If nobody makes a bid, there are multiple variations. Most commonly, the hand is declared dead and a reshuffle and re-deal is made. This can be repeated only twice, after which the deal passes to the next player. Alternatively, the game is played where no bids mean the round is played as no trumps, and scoring is ten points per trick. Other variations include that the deal passes to the next player (no reshuffle); or that if no one else makes a bid, the dealer is required to make a bid.
+
+2.1. Special bids
+
+No trump means that the joker is the only trump card (there are no bowers and no trump suit when playing no trump or "no-ies").
+
+J5 is a special version of no trump where a jack replaces the ace as the highest card of its respective suit, keeping the rules in line with a suited game. The joker remains the only trump card, and the normal agreed-upon rules of its use still apply. In a J5 game there is no lower bower (e.g., the jack of diamonds is not considered a heart and so on). Other cards follow their typical hierarchy.
+
+A Misère (also called Nulot, Nullo, Nula or Nello) bid means the bidding player is trying to not win any tricks. If playing with a partner, the partner folds his cards and does not participate in the round. Misère is the French word meaning "extreme poverty". It can only be bid after a 7 bid and before an 8 bid. However, because Misère is worth 250 points, and an 8-Spades bid is worth 240 points, players must decide before the start of play if the 8-Spades bet can beat a Misère since it is worth fewer points but it is considered 'over' the Misère. Alternatively, this bid need not wait until after a 7 bid and always beats 8-Spades.
+
+Open Misère is the same as misère except the player playing this bid must reveal all of his cards to his opponents after the first trick. It can only be bid after an 8 bid, and is one of the highest bids which can only be beaten by a 10-No Trump bet. Also called Lay Down Misère.
+
+Blind Misère is the same as misère except the bid must be called before the player views his cards.
+
+Double nullo is an American variant in which both players of the bidding team play and must not win any tricks. This is also called Grand nullo, which is often corrupted to Granola.
+
+Shields Double is a variant of Double nullo where one partner of the bidding team plays his hand open (after the initial trick).
+
+Patastrophe is an Open Misère where both partners on the bidding team play, with both calling partners playing their hand open (after the first trick). Patastrophe is worth 1,000 points.
+
+The Wilkinson version of Misère is agreed to before the outset of the game, and is bid as such: 'closed misère' can be bid any time (even as a first bid) but is played open, and 'open misère' may also be bid likewise but is played open and without the kitty.
+
+Hi/Lo or 5 and 5 bid means one player intends to win 5 tricks and lose 5 tricks in the hand. The game is typically worth 350 points, and therefore outbids a 9 black bid, but not a 9 red bid. The game play is similar to a No trump game in that the Joker is the only trump card and may only be used if the player cannot otherwise follow suit. When a Hi/Lo call is made the bidder's partner folds his cards and does not participate in the hand.
+
+Ralphing is when a person that bids gets set by more than 3 tricks (i.e. A person wins the bid with 9 hearts but only takes 6, or bids Nullo and takes 3 or more tricks). In the event that a person is Ralphed, they are not allowed to bid in the next hand. The name comes from a person that would repeatedly over-bid and lose dreadfully each time. The rule was instituted so others would be allowed to win bids.
+
+Sans Kitty: Any player may make a contract bid for six or more tricks, misère, open misère, or double misère sans kitty (often just stated as sans). Sans kitty indicates that the bidding team will fulfill its contract without the use of the kitty. A sans bid must be included in the original bid, and cannot be added after having viewed the kitty. This typically adds 40 points to the total bid. While sans adds extra points onto the total of a bid, it is not necessary for an opposing team to account for those points when attempting to outbid another team. For example, a bid of six no trump sans kitty can still be outbid by seven clubs.
+
+Slam: If, after picking up the kitty, a player who bid a seven-trick contract (but not over seven and not misère) feels that he could win all ten tricks, he may call for a slam hand. The partner of the player who calls for a slam passes a single card to his partner then folds his hand and does not play. The contractor who called for the slam hand must discard until he has only 10 cards remaining before starting play. The contractor must then win all ten tricks, or lose the point value of the bid, plus 100 points. Because the total value of the slam hand is the same as the value of a bid of eight in the same suit, it is not advantageous for a player to intentionally underbid a hand in order to make a slam bid. For a variation on the Slam rule, see the 'Variations in score keeping' section.
+
+2.2. Special inkles
+
+Inkle No is sometimes distinguished from Inkle No Trump, with the former meaning the player has high cards and the latter meaning he has the joker. Inkle No Trump is the highest inkle. However, such a distinction is often forbidden and considered to be illegal table talk, with the only legal No Trump inkle being the full "Inkle No Trump", and with the player's partner left to determine whether the inkle means his partner has high cards, the joker, both, or that he is simply blocking the opponents from inkling.
+
+Players cannot Inkle Nullo.
+
+Some versions allow bids of 6 tricks, but others consider them only equal to inkles.
+
+3. Gameplay
+
+The game focuses on tricks. The lead starts with the player who won the bidding. In some variations, the player to the dealer's left leads first regardless of who won the bid. Players must follow suit if they can (This includes the left bower or any other card that is considered a trump, if trumps are led). If a player no longer has any cards of the suit that is led, he may play any card in his hand. After all four players have played a card, the highest trump takes the trick. If no trumps are played, the highest card of the lead suit wins the trick. The winner of the trick leads on the next trick. Once all ten tricks have been played, the hand is scored. The player to the left of the previous dealer deals for the next hand, so that the deal moves clockwise around the table.
+
+Double nullo may be called by one partner even if the other partner passes. In this instance the player who calls nullo draws in his/her partner and both must play and not take any tricks. The person who calls double nullo picks up the kitty and gives the five cards he/she wants to discard to their partner. Their partner then must take those five cards and pick the ones he/she wants to keep and discard the rest.
+
+4. Variations
+
+Variations exist, with appropriate additions or deductions to the deck for playing three, five or six-handed 500. Three-handed uses no teams, five-handed teams rotate and each player takes a turn without a partner, six-handed can be played as either three teams of two or two teams of three. Six-handed 500 requires a special deck with 63 cards.
+
+4.1. Set Rule
+
+The game may be played with a standard variation known as setting. An opponent is set when they fail to fulfill a contract by a predetermined number of bids. The point system and scoring remain as per standard, but an opponent who is awarded the kitty and is subsequently set is not allowed to bid in the next round. Note that it is only the player awarded the kitty (not all players on the team) that is not allowed to bid in the next round. In the case of a set occurring during double misère the player who touches the kitty first is not allowed to bid in the next round.
+
+Typically, the set occurs at one trick more than is actually necessary to break the bidding team’s contract. In other words, 5 tricks in a 7 trick bid, 4 tricks in an 8 trick bid, 3 tricks in a 9 trick bid, 2 tricks in a 10 trick bid. However, for misère, open misère, and double misère a set always occurs at 3 tricks.
+
+4.2. Breach rule (related to the Set rule)
+
+Breach indicates that a non-bidding team intends to breach the contract of a bidding team by at least one more trick than is actually necessary to break the contract. As opposed to the Setting rule, Breach must be called on a per hand basis, and does result in additional scoring. Typically, Breach is not played in a game when the setting rule is being used.
+
+A single player from a non-bidding partnership may call to breach another team’s contract after a successful bid for a seven-trick (or more) contract has been made. The breach call may be made before or after the contracting team picks up the kitty, but must be made before game play starts. Typically, a breach occurs at one trick more than is actually necessary to break the bidding team’s contract. In other words, 5 tricks in a 7 trick bid, 4 tricks in an 8 trick bid, 3 tricks in a 9 trick bid, 2 tricks in a 10 trick bid. However, for misère, open misère, and double misère a breach always occurs at 3 tricks.
+
+A breach call can result in three different scenarios:
+
+-Win/Lose: If the bidding team successfully fulfills its contract, then it receives the full points of the original bid, and the team calling breach loses points.
+
+-Lose/Lose: If the bidding team does not fulfill its bid, but the opposing team does not take the necessary number of tricks to perform a breach, then the bidding team loses the point value of the original bid, and the team calling breach loses the predetermined value of the breach call.
+
+-Lose/Win: If the bidding team loses its bid by the pre-established number of tricks, then the bidding team loses the contract points, and the team calling breach gains the predetermined value of the breach call.
+
+Because breach is not considered an actual bid, a team may not win or lose (“go out the back door”) based on points gained or lost from a breach call.
+
+A player who calls breach but does not fulfill the conditions of breach (win/lose or lose/lose scenario) is not allowed to bid in the next round. A player who bids a seven-trick contract but is successfully breached by an opponent (lose/win scenario) is not allowed to bid in the next round.
+
+4.3. Point Spread rule
+
+A variation on the score keeping, the point-spread rule ends the game when one team has a negative score and the other team has a positive score, which results in a point spread of 500 or more points.
+
+5. Versions
+
+5.1. Two-handed 500
+
+Two-handed 500 is played with a deck of 45 cards as per the standard game. Whereas in the standard game which includes partners, in the Two-handed game each player plays both the hand that is dealt to them and their partner’s which is dealt to the table. The deal is the same as the standard game, except that the partners hands are dealt to the table so that they have 5 cards face down, each covered by a face up card (to give a total of 10 cards). Bidding is the same as the standard game except Misère is generally not allowed. The kitty is used with the player’s hand only and no cards can be swapped between the hands. Order of play is as per the standard game. After each trick any exposed face down cards from the partner’s hands are turned up and revealed. Play then continues with the lead from the hand that won the last trick.
+
+Alternatively, the game can be played as per three-handed but with a "dead hand".
+
+An alternate version is played with the standard 52 card deck. Each player is dealt ten cards and then 8 more cards are exposed on the table. Each player chooses one of these cards to be added to the kitty. No dummies are used and the bidding is standard. After the bid is won the defending player adds one of the remaining exposed cards to his hand and discards an unwanted card. The remaining exposed cards are added to the dead card pile.
+
+5.2. Three-handed 500
+
+Three-handed 500 is played with a deck of 33 cards. Dealing, scoring and game play are as for the standard game. The common variant is in bidding, where misère may be bid before a bid for seven tricks. This variant is permitted due to the relative rarity of seven-trick bids outside of team play. Open misère may be bid in a similar fashion. Alternatively, the game may be played with the standard deck (45 or 43 cards) with one hand dealt face down, which remains untouched during the game (a so-called "dead hand"). The common strategy is that the two players who are unsuccessful in bidding form a temporary alliance in an attempt to force the other player to lose his bid.
+
+5.3. Five-handed 500
+
+Another variation allows five players to play. All of the cards in a deck are used (although only one joker) so that each player can be dealt ten cards. The bidding starts to the dealer's left, and works by the same system as normal 500. The player who wins the bidding then gets to choose a card (the joker cannot be chosen). One of the bowers is usually chosen, or another high card. There are two versions of this variation. In one, the player who owns the chosen card announces that they have it, and then becomes the bidder's partner for that round. In the other, the player winning the bidding will not know who their partner is until the chosen card is played. Note that the partnership will usually change for each round. The remaining three players then play against the partnership. The player who won the bid gets to play the first card.
+
+Scoring for this variation uses the same values as normal 500. If the partnership wins the required amount of tricks, they will both get points (full points each or half points each, depending on the variation), and if they don't, they will both lose points (either full or half). If one of the three remaining players wins a trick, that player will receive ten points. Neither misère nor open misère is usually permitted in this variant since it is too easy to win. Because the partnership changes each round, there are no fixed teams and each player plays for themselves. This adds dynamic, and new strategies will arise.
+
+5.4. Six-handed 500
+
+Special decks of cards exist for playing six-handed 500, using a total of 65 cards. Besides using all 52 cards of the standard poker deck, plus one joker, these sets include 11's, 12's, and 13's of all four suits. Each player receives 10 cards, and the kitty receives 5. Players seated in alternating positions around the table form two teams of three players each. (Queen's Slipper's 500 pack does not have black 13's, usually 6 handed is played with 63 cards and 3 in kitty).
+
+5.5. No Trump 500
+
+In some versions, no trump games (including misère), the only trump card is the joker (i.e. the best card) and it has no suit. There are no bowers and all the jacks fall between the queen and ten of their respective suits. Players must always follow suit and may use the joker to trump a trick only if they cannot otherwise follow suit. A player may not "renege" with the joker - i.e., use it as a card of a suit in which the player has already claimed to be void. In some variations, the joker may only be played as the first or last card in a suit.
+
+In other variations, the person who wins the bid also has the option to 'Declare'. Such a declaration entitles the winner of the bid to receive one card from his partner after discarding from the kitty or blind. The partner picks his best card and hands it face down to the winning bidder, who must then discard one additional card to retain a ten-card hand. The winning bidder now plays against the opponents without the assistance of the partner and must take all ten tricks. If such a bid is unsuccessful it is scored as -500 (negative 500).
+
+5.6. Walker Ultimate 500
+
+A variation in which the winning team/player must win exactly 500 points. The game is played as normal, with the additional rule that 1000 points (like negative 500 points) loses the game. "Peggings" (or "Scab Points") must be played. This variation usually (not always) results in a longer game, but generates an enjoyable level of complexity to both the bidding and playing.
+
+Local variants may not include either open misère, misère or both.
+
+5.7. French Canadian Variation
+
+A variation for four players using two Jokers ("bonhommes") and a standard 52-card pack stripped of 2s and 3s. The white Joker ("la blanche") is considered stronger. The players are dealt 10 cards each in batches of 3-3-4. When 3 are passed, another 3 go to the kitty ("chatte", middle of the table). There should be 6 cards in the middle after the deal. Some variations allow for the final card placed in the kitty to be turned upright for all players to see.
+
+The attacking player takes the kitty and discards 6 cards of his choice, and no other player may see them. The bidding goes accordingly with the other variation, and Misère ("Nulot") may be allowed. The "petite" misère is equal to 500 points and can only be outbid by 8 no trump while "la grosse" or open misère is worth 1000 points and can only be outbid by 10 no trump (the latter is distinguished in that all cards are placed face-up on the table).
+
+The game is played to a total of 1000 points. If a team fails to fulfil its contract, the points are added to the other team's total. Points are never subtracted.
+
+6. Score keeping
+
+The goal is for the team who wins the bid to take at least as many tricks as they bid. If the high bid is "eight hearts," then the team wins the hand if they take 8, 9, or all 10 tricks and are awarded points according to the table below. There are no bonuses for overtricks (tricks over the number bid). If they do not make their bid, the same number of points is subtracted from their score. Whether or not the bid winning team achieves its bid, the opposing team receives 10 points for each trick they take. A team wins the game by scoring at least 500 points. A team whose score dips to -500 points or below loses the game. This is also known as going "out the back door" or "out backwards."
+
+The following table is the most commonly used "Avondale" Scoring for bids}
+
+Original Scoring
+
+Variations in score keeping
+
+6-trick bids are considered inkles, raising the minimum bid to 7-Spades.
+
+If a team bids 8-Spades or less, but takes all 10 tricks, they can receive 250 points; known as a "slam".
+
+A team wins the game by scoring at least 500 points through winning bids, which means that any team surpassing 500 points solely with tricks has not yet won the game.
+
+The game can be played with the removal of the trick points, thus only winning bids score points.
+
+If both teams pass 500 points on the same hand, the bidding team wins even if they have fewer points.
+
+A team whose score dips below -500 points loses the game only if the other team is not in the negative.
+
+In an unrestricted bidding game, there are no limitations on which hands can be called when, such as only allowing a Misere call after a bid of 7 has already been made. Instead, each subsequent player need only be able to outbid the current highest bid (or pass).
+
+Split the colors In this scoring variation Misere outbids 7 black, but not 7 red; Open Misere outbids 8 black, but not 8 red; Hi/Lo outbids 9 black, but not 9 red; and Double Misere outbids 10 black, but not 10 red (shown in table below).
+
+Perfect variant. Scoring for each family of tricks is reduced by 20 points (see table below), causing 10 No Trump (the highest bid) to be worth exactly 500 points.
+
+According to the rules supplied with most Australian 500-specific playing card decks, 6-Spades is scored as 40 points, 6-Clubs as 60 points, increasing by 20 points each bid in this fashion to 120 points for 6 No Trump all the way through to 520 points for 10 No Trump. However, Open Misère, also scoring 520 points, is ranked as the highest bid. Additionally, Misère is deemed to outrank a 7 bid but not an 8 bid.
+
+7. Strategy
+
+7.1. Bidding
+
+Bids are typically made with the consideration that you will be receiving cards from the kitty and playing with a partner (except for misère and open misère) who hopefully will also be able to win a certain amount of tricks. While the number of tricks you feel your partner will be able to win will vary in each situation, you should bid based on that assumption and not only on the cards in your hand.
+
+On the other hand, it is also important to remember that your partner will be using the same strategy in their bidding; and therefore, if your partner bids six hearts, for example, you may not necessarily want to bid eight hearts simply because you have two cards of the proposed trump suit in your hand.
+
+When confronted with a hand that is more-or-less even in two different suits, it is customary to bid on the suit with a higher point value.
+
+7.2. Card Counting
+
+When playing with 45 cards, the deck is composed of four suits with 11 cards each, and one Joker. In a suited contract (e.g., seven hearts, eight spades, etc.), the trump suit will have 13 cards, the suit of the same color will have only ten, and the two suits of opposite color will remain at 11 cards each.
+
+A simple strategy to bidding is to attempt to predict how the unaccounted-for trump cards (the ones you don’t actually hold in your hand) would be distributed among the remaining players, excluding the kitty, with all things being equal. In other words, if you hold seven cards of one suit it can be helpful to assume that the remaining six trump cards are distributed evenly among the remaining three players (two each and none in the kitty). Doing so can provide a basic idea of how many times your opponents will be able to follow suit in each of the four suits.
+
+7.3. Discarding the kitty
+
+If you are successful at bidding a suited contract and are awarded the kitty, a basic strategy of discarding is to eliminate as many non-trump suits from your hand as possible, thus giving the most opportunity to use trump cards. However, discarding as many suits as possible is only a basic strategy, and should be met with some qualifications.
+
+First, in most contract bids it is beneficial to keep an ace of any non-trump suit, as with all things being equal each player should have at least two cards of any given suit, thus the ace of any non-trump suit should theoretically be a winning card.
+
+Second, it can also be effective in some circumstances to intentionally keep the king of a non-trump suit and a low card of the same suit (for example the six and king of hearts when spades are trump) when you are unable to discard that suit entirely. The resulting strategy is to then play the low card first, with the assumption that you will lose the trick to the player holding the ace of that suit, and then when you have regained control of the table the king is played under the assumption that it will be a winning card.
+
+8. Playing the cards
+
+The way in which cards should be led will always be situational, and is subject to variations in the rules described in the Rules section.
+
+8.1. Leading trump
+
+Sometimes called flushing or bleeding trump, leading the trump suit immediately can often be (but isn’t always) an effective strategy. This is typically done in the following situations.
+
+First, when a player has an above-average number of high trump cards they may wish to flush out the missing high trump cards. For example, if a player who has bid seven hearts is left holding the Joker, jack of diamonds, ace of hearts, king of hearts, queen of hearts and four of hearts, then they have five of the six highest cards (and six total). A suitable strategy would be to start the game playing highest trump (the Joker) in an attempt to force the play of the jack of hearts.
+
+An alternate, but similar, strategy in this situation would be to play the queen of hearts. This alternate strategy would force the player holding the jack of hearts to decide between either playing the jack, or throwing away a lower trump card to intentionally lose to the queen.
+
+9. See also
+
+Oh Hell - 500 Version
+
+Euchre
+
+Loo
+
+Nap
+
+10. Notes

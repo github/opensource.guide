@@ -1,0 +1,283 @@
+In statistics, a power law is a functional relationship between two quantities, where one quantity varies as a power of another. For instance, the number of cities having a certain population size is found to vary as a power of the size of the population. Empirical power-law distributions hold only approximately or over a limited range.
+
+1. Empirical examples of power laws
+
+The distributions of a wide variety of physical, biological, and man-made phenomena approximately follow a power law over a wide range of magnitudes: these include the sizes of earthquakes, craters on the moon and of solar flares, the foraging pattern of various species, the sizes of activity patterns of neuronal populations, the frequencies of words in most languages, frequencies of family names, the species richness in clades of organisms, the sizes of power outages, wars, criminal charges per convict, and many other quantities. Few empirical distributions fit a power law for all their values, but rather follow a power law in the tail. Acoustic attenuation follows frequency power-laws within wide frequency bands for many complex media. Allometric scaling laws for relationships between biological variables are among the best known power-law functions in nature.
+
+2. Properties of power laws
+
+2.1. Scale invariance
+
+One attribute of power laws is their scale invariance. Given a relation , scaling the argument by a constant factor causes only a proportionate scaling of the function itself. That is,
+
+That is, scaling by a constant simply multiplies the original power-law relation by the constant . Thus, it follows that all power laws with a particular scaling exponent are equivalent up to constant factors, since each is simply a scaled version of the others. This behavior is what produces the linear relationship when logarithms are taken of both and , and the straight-line on the log-log plot is often called the signature of a power law. With real data, such straightness is a necessary, but not sufficient, condition for the data following a power-law relation. In fact, there are many ways to generate finite amounts of data that mimic this signature behavior, but, in their asymptotic limit, are not true power laws (e.g., if the generating process of some data follows a Log-normal distribution). Thus, accurately fitting and validating power-law models is an active area of research in statistics.
+
+2.2. No average
+
+Power-laws have a well-defined mean only if the exponent exceeds 2 and have a finite variance only when the exponent exceeds 3; most identified power laws in nature have exponents such that the mean is well-defined but the variance is not, implying they are capable of black swan behaviour This can be seen in the following thought experiment: imagine a room with your friends and estimate the average monthly income in the room. Now imagine the world's richest person entering the room, with a monthly income of about 1 billion US$. What happens to the average income in the room? Income is distributed according to a power-law known as the Pareto distribution (for example, the net worth of Americans is distributed according to a power law with an exponent of 2).
+
+On the one hand, this makes it incorrect to apply traditional statistics that are based on variance and standard deviation (such as regression analysis). On the other hand, this also allows for cost-efficient interventions. For example, given that car exhaust is distributed according to a power-law among cars (very few cars contribute to most contamination) it would be sufficient to eliminate those very few cars from the road to reduce total exhaust substantially.
+
+2.3. Universality
+
+The equivalence of power laws with a particular scaling exponent can have a deeper origin in the dynamical processes that generate the power-law relation. In physics, for example, phase transitions in thermodynamic systems are associated with the emergence of power-law distributions of certain quantities, whose exponents are referred to as the critical exponents of the system. Diverse systems with the same critical exponents—that is, which display identical scaling behaviour as they approach criticality—can be shown, via renormalization group theory, to share the same fundamental dynamics. For instance, the behavior of water and CO2 at their boiling points fall in the same universality class because they have identical critical exponents. In fact, almost all material phase transitions are described by a small set of universality classes. Similar observations have been made, though not as comprehensively, for various self-organized critical systems, where the critical point of the system is an attractor. Formally, this sharing of dynamics is referred to as universality, and systems with precisely the same critical exponents are said to belong to the same universality class.
+
+3. Power-law functions
+
+Scientific interest in power-law relations stems partly from the ease with which certain general classes of mechanisms generate them. The demonstration of a power-law relation in some data can point to specific kinds of mechanisms that might underlie the natural phenomenon in question, and can indicate a deep connection with other, seemingly unrelated systems; see also universality above. The ubiquity of power-law relations in physics is partly due to dimensional constraints, while in complex systems, power laws are often thought to be signatures of hierarchy or of specific stochastic processes. A few notable examples of power laws are the Gutenberg–Richter law for earthquake sizes, Pareto's law of income distribution, structural self-similarity of fractals, and scaling laws in biological systems. Research on the origins of power-law relations, and efforts to observe and validate them in the real world, is an active topic of research in many fields of science, including physics, computer science, linguistics, geophysics, neuroscience, sociology, economics and more.
+
+However much of the recent interest in power laws comes from the study of probability distributions: The distributions of a wide variety of quantities seem to follow the power-law form, at least in their upper tail (large events). The behavior of these large events connects these quantities to the study of theory of large deviations (also called extreme value theory), which considers the frequency of extremely rare events like stock market crashes and large natural disasters. It is primarily in the study of statistical distributions that the name "power law" is used; in other areas, such as physics and engineering, a power-law functional form with a single term and a positive integer exponent is typically regarded as a polynomial function.
+
+In empirical contexts, an approximation to a power-law often includes a deviation term , which can represent uncertainty in the observed values (perhaps measurement or sampling errors) or provide a simple way for observations to deviate from the power-law function (perhaps for stochastic reasons):
+
+Mathematically, a strict power law cannot be a probability distribution, but a distribution that is a truncated power function is possible: for where the exponent is greater than 1 (otherwise the tail has infinite area), the minimum value is needed otherwise the distribution has infinite area as x approaches 0, and the constant C is a scaling factor to ensure that the total area is 1, as required by a probability distribution. More often one uses an asymptotic power law – one that is only true in the limit; see power-law probability distributions below for details. Typically the exponent falls in the range , though not always.
+
+3.1. Examples of power-law functions
+
+More than a hundred power-law distributions have been identified in physics (e.g. sandpile avalanches and earthquakes), biology (e.g. species extinction and body mass), and the social sciences (e.g. city sizes and income). Among them are:
+
+The frequency-dependency of acoustic attenuation in complex media
+
+The Stevens' power law of psychophysics
+
+The Stefan–Boltzmann law
+
+The input-voltage–output-current curves of field-effect transistors and vacuum tubes approximate a square-law relationship, a factor in "tube sound".
+
+Square-cube law (ratio of surface area to volume)
+
+Kleiber's law relating animal metabolism to size, and allometric laws in general
+
+A 3/2-power law can be found in the plate characteristic curves of triodes.
+
+The inverse-square laws of Newtonian gravity and electrostatics, as evidenced by the gravitational potential and Electrostatic potential, respectively.
+
+Self-organized criticality with a critical point as an attractor
+
+Exponential growth and random observation (or killing)
+
+Progress through exponential growth and exponential diffusion of innovations
+
+Highly optimized tolerance
+
+Model of van der Waals force
+
+Force and potential in simple harmonic motion
+
+Kepler's third law
+
+The initial mass function of stars
+
+The M-sigma relation
+
+Gamma correction relating light intensity with voltage
+
+The two-thirds power law, relating speed to curvature in the human motor system.
+
+The Taylor's law relating mean population size and variance of populations sizes in ecology
+
+Behaviour near second-order phase transitions involving critical exponents
+
+Proposed form of experience curve effects
+
+The differential energy spectrum of cosmic-ray nuclei
+
+Fractals
+
+Pareto distribution and the Pareto principle also called the "80–20 rule"
+
+Zipf's law in corpus analysis and population distributions amongst others, where frequency of an item or event is inversely proportional to its frequency rank (i.e. the second most frequent item/event occurs half as often the most frequent item, the third most frequent item/event occurs one third as often as the most frequent item, and so on).
+
+The safe operating area relating to maximum simultaneous current and voltage in power semiconductors.
+
+Supercritical state of matter and supercritical fluids, such as supercritical exponents of heat capacity and viscosity.
+
+Zeta distribution (discrete)
+
+Yule–Simon distribution (discrete)
+
+Student's t-distribution (continuous), of which the Cauchy distribution is a special case
+
+Lotka's law
+
+The scale-free network model
+
+Pink noise
+
+Neuronal avalanches
+
+The law of stream numbers, and the law of stream lengths (Horton's laws describing river systems)
+
+Populations of cities (Gibrat's law)
+
+Bibliograms, and frequencies of words in a text (Zipf's law)
+
+90–9–1 principle on wikis (also referred to as the 1% Rule)
+
+Richardson's Law for the severity of violent conflicts (wars and terrorism){Lewis Fry Richardson, The Statistics of Deadly Quarrels, 1950}
+
+Gutenberg&ndash;Richter law of earthquake magnitudes
+
+Social Network Websites
+
+3.2. Variants
+
+3.2.1. Broken power law
+
+A broken power law is defined with a threshold:
+
+3.2.2. Power law with exponential cutoff
+
+A power law with an exponential cutoff is simply a power law multiplied by an exponential function:
+
+3.2.3. Curved power law
+
+4. Power-law probability distributions
+
+In a looser sense, a power-law probability distribution is a distribution whose density function (or mass function in the discrete case) has the form
+
+where , and is a slowly varying function, which is any function that satisfies with constant and . This property of follows directly from the requirement that be asymptotically scale invariant; thus, the form of only controls the shape and finite extent of the lower tail. For instance, if is the constant function, then we have a power law that holds for all values of . In many cases, it is convenient to assume a lower bound from which the law holds. Combining these two cases, and where is a continuous variable, the power law has the form
+
+where the pre-factor to is the normalizing constant. We can now consider several properties of this distribution. For instance, its moments are given by
+
+which is only well defined for . That is, all moments diverge: when , the average and all higher-order moments are infinite; when , the mean exists, but the variance and higher-order moments are infinite, etc. For finite-size samples drawn from such distribution, this behavior implies that the central moment estimators (like the mean and the variance) for diverging moments will never converge – as more data is accumulated, they continue to grow. These power-law probability distributions are also called Pareto-type distributions, distributions with Pareto tails, or distributions with regularly varying tails.
+
+Another kind of power-law distribution, which does not satisfy the general form above, is the power law with an exponential cutoff
+
+In this distribution, the exponential decay term eventually overwhelms the power-law behavior at very large values of . This distribution does not scale and is thus not asymptotically a power law; however, it does approximately scale over a finite region before the cutoff. (Note that the pure form above is a subset of this family, with .) This distribution is a common alternative to the asymptotic power-law distribution because it naturally captures finite-size effects. For instance, although the Gutenberg&ndash;Richter law is commonly cited as an example of a power-law distribution, the distribution of earthquake magnitudes cannot scale as a power law in the limit because there is a finite amount of energy in the Earth's crust and thus there must be some maximum size to an earthquake. As the scaling behavior approaches this size, it must taper off.
+
+The Tweedie distributions are a family of statistical models characterized by closure under additive and reproductive convolution as well as under scale transformation. Consequently these models all express a power-law relationship between the variance and the mean. These models have a fundamental role as foci of mathematical convergence similar to the role that the normal distribution has as a focus in the central limit theorem. This convergence effect explains why the variance-to-mean power law manifests so widely in natural processes, as with Taylor's law in ecology and with fluctuation scaling in physics. It can also be shown that this variance-to-mean power law, when demonstrated by the method of expanding bins, implies the presence of 1/f noise and that 1/f noise can arise as a consequence of this Tweedie convergence effect.
+
+4.1. Graphical methods for identification
+
+Although more sophisticated and robust methods have been proposed, the most frequently used graphical methods of identifying power-law probability distributions using random samples are Pareto quantile-quantile plots (or Pareto Q-Q plots), mean residual life plots and log-log plots. Another, more robust graphical method uses bundles of residual quantile functions. (Please keep in mind that power-law distributions are also called Pareto-type distributions.) It is assumed here that a random sample is obtained from a probability distribution, and that we want to know if the tail of the distribution follows a power law (in other words, we want to know if the distribution has a "Pareto tail"). Here, the random sample is called "the data".
+
+Pareto Q-Q plots compare the quantiles of the log-transformed data to the corresponding quantiles of an exponential distribution with mean 1 (or to the quantiles of a standard Pareto distribution) by plotting the former versus the latter. If the resultant scatterplot suggests that the plotted points " asymptotically converge" to a straight line, then a power-law distribution should be suspected. A limitation of Pareto Q-Q plots is that they behave poorly when the tail index (also called Pareto index) is close to 0, because Pareto Q-Q plots are not designed to identify distributions with slowly varying tails.
+
+On the other hand, in its version for identifying power-law probability distributions, the mean residual life plot consists of first log-transforming the data, and then plotting the average of those log-transformed data that are higher than the i-th order statistic versus the i-th order statistic, for i = 1, ..., n, where n is the size of the random sample. If the resultant scatterplot suggests that the plotted points tend to "stabilize" about a horizontal straight line, then a power-law distribution should be suspected. Since the mean residual life plot is very sensitive to outliers (it is not robust), it usually produces plots that are difficult to interpret; for this reason, such plots are usually called Hill horror plots
+
+Log-log plots are an alternative way of graphically examining the tail of a distribution using a random sample. This method consists of plotting the logarithm of an estimator of the probability that a particular number of the distribution occurs versus the logarithm of that particular number. Usually, this estimator is the proportion of times that the number occurs in the data set. If the points in the plot tend to "converge" to a straight line for large numbers in the x axis, then the researcher concludes that the distribution has a power-law tail. Examples of the application of these types of plot have been published. A disadvantage of these plots is that, in order for them to provide reliable results, they require huge amounts of data. In addition, they are appropriate only for discrete (or grouped) data.
+
+Another graphical method for the identification of power-law probability distributions using random samples has been proposed. This methodology consists of plotting a bundle for the log-transformed sample. Originally proposed as a tool to explore the existence of moments and the moment generation function using random samples, the bundle methodology is based on residual quantile functions (RQFs), also called residual percentile functions, which provide a full characterization of the tail behavior of many well-known probability distributions, including power-law distributions, distributions with other types of heavy tails, and even non-heavy-tailed distributions. Bundle plots do not have the disadvantages of Pareto Q-Q plots, mean residual life plots and log-log plots mentioned above (they are robust to outliers, allow visually identifying power laws with small values of , and do not demand the collection of much data). In addition, other types of tail behavior can be identified using bundle plots.
+
+4.2. Plotting power-law distributions
+
+In general, power-law distributions are plotted on doubly logarithmic axes, which emphasizes the upper tail region. The most convenient way to do this is via the (complementary) cumulative distribution (cdf), ,
+
+Note that the cdf is also a power-law function, but with a smaller scaling exponent. For data, an equivalent form of the cdf is the rank-frequency approach, in which we first sort the observed values in ascending order, and plot them against the vector .
+
+Although it can be convenient to log-bin the data, or otherwise smooth the probability density (mass) function directly, these methods introduce an implicit bias in the representation of the data, and thus should be avoided. The cdf, on the other hand, introduces no bias in the data and preserves the linear signature on doubly logarithmic axes.
+
+4.3. Estimating the exponent from empirical data
+
+There are many ways of estimating the value of the scaling exponent for a power-law tail, however not all of them yield unbiased and consistent answers. Some of the most reliable techniques are often based on the method of maximum likelihood. Alternative methods are often based on making a linear regression on either the log-log probability, the log-log cumulative distribution function, or on log-binned data, but these approaches should be avoided as they can all lead to highly biased estimates of the scaling exponent.
+
+4.3.1. Maximum likelihood
+
+For real-valued, independent and identically distributed data, we fit a power-law distribution of the form
+
+to the data , where the coefficient is included to ensure that the distribution is normalized. Given a choice for , a simple derivation by this method yields the estimator equation
+
+where are the data points . This estimator exhibits a small finite sample-size bias of order , which is small when n > 100. Further, the uncertainty in the estimation can be derived from the maximum likelihood argument, and has the form . This estimator is equivalent to the popular Hill estimator from quantitative finance and extreme value theory.
+
+For a set of n integer-valued data points , again where each , the maximum likelihood exponent is the solution to the transcendental equation
+
+where is the incomplete zeta function. The uncertainty in this estimate follows the same formula as for the continuous equation. However, the two equations for are not equivalent, and the continuous version should not be applied to discrete data, nor vice versa.
+
+Further, both of these estimators require the choice of . For functions with a non-trivial function, choosing too small produces a significant bias in , while choosing it too large increases the uncertainty in , and reduces the statistical power of our model. In general, the best choice of depends strongly on the particular form of the lower tail, represented by above.
+
+More about these methods, and the conditions under which they can be used, can be found in . Further, this comprehensive review article provides (Matlab, R and C++) for estimation and testing routines for power-law distributions.
+
+4.3.2. Kolmogorov–Smirnov estimation
+
+Another method for the estimation of the power-law exponent, which does not assume independent and identically distributed (iid) data, uses the minimization of the Kolmogorov–Smirnov statistic, , between the cumulative distribution functions of the data and the power law:
+
+with
+
+where and denote the cdfs of the data and the power law with exponent , respectively. As this method does not assume iid data, it provides an alternative way to determine the power-law exponent for data sets in which the temporal correlation can not be ignored.
+
+4.3.3. Two-point fitting method
+
+This criterion can be applied for the estimation of power-law exponent in the case of scale free distributions and provides a more convergent estimate than the maximum likelihood method. It has been applied to study probability distributions of fracture apertures. In some contexts the probability distribution is described, not by the cumulative distribution function, by the cumulative frequency of a property X, defined as the number of elements per meter (or area unit, second etc.) for which X > x applies, where x is a variable real number. As an example, the cumulative distribution of the fracture aperture, X, for a sample of N elements is defined as 'the number of fractures per meter having aperture greater than x . Use of cumulative frequency has some advantages, e.g. it allows one to put on the same diagram data gathered from sample lines of different lengths at different scales (e.g. from outcrop and from microscope).
+
+4.3.4. R function
+
+The following function estimates the exponent in R, plotting the log-log data and the fitted line.
+
+5. Validating power laws
+
+Although power-law relations are attractive for many theoretical reasons, demonstrating that data do indeed follow a power-law relation requires more than simply fitting a particular model to the data. For example log-normal distributions are often mistaken for power-law distributions. For example, Gibrat's law about proportional growth processes can actually produce limiting distributions that are lognormal, although their log-log plots look linear. An explanation of this is that although the logarithm of the lognormal density function is quadratic in , yielding a "bowed" shape in a log-log plot, if the quadratic term is small relative to the linear term then the result can appear almost linear. Therefore a log-log plot that is slightly "bowed" downwards can reflect a log-normal distribution – not a power law. In general, many alternative functional forms can appear to follow a power-law form for some extent. Also, researchers usually have to face the problem of deciding whether or not a real-world probability distribution follows a power law. As a solution to this problem, Diaz proposed a graphical methodology based on random samples that allow visually discerning between different types of tail behavior. This methodology uses bundles of residual quantile functions, also called percentile residual life functions, which characterize many different types of distribution tails, including both heavy and non-heavy tails.
+
+One method to validate a power-law relation tests many orthogonal predictions of a particular generative mechanism against data. Simply fitting a power-law relation to a particular kind of data is not considered a rational approach. As such, the validation of power-law claims remains a very active field of research in many areas of modern science.
+
+6. See also
+
+Acoustic attenuation
+
+Allometry
+
+Empirical relationship
+
+Fat-tailed distribution
+
+Finite-time singularity
+
+Fractional calculus
+
+Fractional dynamics
+
+Heavy-tailed distributions
+
+Hyperbolic growth
+
+Lévy flight
+
+Long tail
+
+Power law fluid
+
+Simon model
+
+Stable distribution
+
+Stevens' power law
+
+Wealth concentration
+
+Webgraph
+
+7. Notes
+
+8. Bibliography
+
+Bak, Per (1997) How nature works, Oxford University Press ISBN 0 19 850164 1
+
+Alexander Saichev, Yannick Malevergne and Didier Sornette (2009) Theory of Zipf's law and beyond, Lecture Notes in Economics and Mathematical Systems, Volume 632, Springer (November 2009), ISBN 978-3-642-02945-5
+
+Mark Buchanan (2000) Ubiquity, Wiedenfield & Nicholson ISBN 0-297-64376-2
+
+Stumpf, M.P.H. and Porter, M.A. "Critical Truths about Power Laws" Science 2012, 335, 665-6
+
+9. External links
+
+Clay Shirky on
+
+Clay Shirky on
+
+by Benoit Mandelbrot & Nassim Nicholas Taleb. Fortune, July 11, 2005.
+
+power-law distributions in homelessness and other social problems; by Malcolm Gladwell. The New Yorker, February 13, 2006.
+
+Benoit Mandelbrot & Richard Hudson: The Misbehaviour of Markets (2004)
+
+Philip Ball: (2005)
+
+from
+
+from , the blog of Cosma Shalizi, Professor of Statistics at Carnegie-Mellon University.
+
+which bins data to illustrate power-law distributions (if any) in the data.
+
+visualizes the distribution of the degrees of the webgraph on the .
+
+nl:Machtsfunctie

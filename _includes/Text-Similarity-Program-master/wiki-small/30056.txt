@@ -1,0 +1,83 @@
+A Trojan horse, or Trojan, in computing is a generally non-self-replicating type of malware program containing malicious code that, when executed, carries out actions determined by the nature of the Trojan, typically causing loss or theft of data, and possible system harm. The term is derived from the story of the wooden horse used to trick defenders of Troy into taking concealed warriors into their city in ancient Anatolia, because computer Trojans often employ a form of social engineering, presenting themselves as routine, useful, or interesting in order to persuade victims to install them on their computers.
+
+A Trojan often acts as a backdoor, contacting a controller which can then have unauthorized access to the affected computer. While Trojans and backdoors are not easily detectable by themselves, computers may appear to run slower due to heavy processor or network usage. Malicious programs are classified as Trojans if they do not attempt to inject themselves into other files (computer virus) or otherwise propagate themselves (worm). A computer may host a Trojan via a malicious program that a user is duped into executing (often an e-mail attachment disguised to be unsuspicious, e.g., a routine form to be filled in), or by drive-by download.
+
+1. Purpose and uses
+
+A Trojan may give a hacker remote access to a targeted computer system. Operations that could be performed by a hacker, or be caused unintentionally by program operation, on a targeted computer system include:
+
+Crashing the computer, e.g. with "blue screen of death" (BSOD)
+
+Data corruption
+
+Formatting disks, destroying all contents
+
+Use of the machine as part of a botnet (e.g. to perform automated spamming or to distribute Denial-of-service attacks)
+
+Electronic money theft
+
+Infects entire Network banking information and other connected devices
+
+Data theft, including confidential files, sometimes for industrial espionage, and information with financial implications such as passwords and payment card information
+
+Modification or deletion of files
+
+Downloading or uploading of files for various purposes
+
+Downloading and installing software, including third-party malware and ransomware
+
+Keystroke logging
+
+Watching the user's screen
+
+Viewing the user's webcam
+
+Controlling the computer system remotely
+
+Encrypting files; a ransom payment may be demanded for decryption, as with the CryptoLocker ransomware
+
+Modifications of registry
+
+Using computer resources for mining cryptocurrency
+
+Linking computer to botnet
+
+Using infected computer as proxy for illegal activities and attacks on other computers. More likely to be unintended or merely malicious, rather than criminal, consequences:
+
+Trojan horses in this way may require interaction with a malicious controller (not necessarily distributing the Trojan horse) to fulfill their purpose. It is possible for those involved with Trojans to scan computers on a network to locate any with a Trojan horse installed, which the hacker can then control.
+
+Some Trojans take advantage of a security flaw in older versions of Internet Explorer and Google Chrome to use the host computer as an anonymizer proxy to effectively hide Internet usage, enabling the controller to use the Internet for illegal purposes while all potentially incriminating evidence indicates the infected computer or its IP address. The host's computer may or may not show the internet history of the sites viewed using the computer as a proxy. The first generation of anonymizer Trojan horses tended to leave their tracks in the page view histories of the host computer. Later generations of the Trojan horse tend to "cover" their tracks more efficiently. Several versions of Sub7 have been widely circulated in the US and Europe and became the most widely distributed examples of this type of Trojan horse.
+
+In German-speaking countries, spyware used or made by the government is sometimes called govware. Govware is typically a trojan horse software used to intercept communications from the target computer. Some countries like Switzerland and Germany have a legal framework governing the use of such software. Examples of govware trojans include the Swiss MiniPanzer and MegaPanzer and the German "state trojan" nicknamed R2D2.
+
+Due to the popularity of botnets among hackers and the availability of advertising services that permit authors to violate their users' privacy, Trojan horses are becoming more common. According to a survey conducted by BitDefender from January to June 2009, "Trojan-type malware is on the rise, accounting for 83-percent of the global malware detected in the world." Trojans have a relationship with worms, as they spread with the help given by worms and travel across the internet with them.
+
+The anti-virus company BitDefender has stated that approximately 15% of computers are members of a botnet, usually recruited by a Trojan infection.
+
+2. Notable Trojan horses
+
+Netbus Advance System Care(by Carl-Fredrik Neikter)
+
+Subseven or Sub7(by Mobman)
+
+Back Orifice (Sir Dystic)
+
+Beast
+
+Zeus
+
+Flashback Trojan (Trojan BackDoor.Flashback)
+
+ZeroAccess
+
+Koobface
+
+Vundo
+
+3. See also
+
+4. References
+
+Carnegie Mellon University (1999): , Retrieved on 2009-06-10.
+
+5. External links

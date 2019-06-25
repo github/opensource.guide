@@ -1,0 +1,341 @@
+The number is a mathematical constant, the ratio of a circle's circumference to its diameter, commonly approximated as 3.14159. It has been represented by the Greek letter "" since the mid-18th century, though it is also sometimes spelled out as "pi" ().
+
+Being an irrational number, cannot be expressed exactly as a common fraction, although fractions such as 22/7 and other rational numbers are commonly used to approximate . Consequently its decimal representation never ends and never settles into a permanent repeating pattern. The digits appear to be randomly distributed; however, to date, no proof of this has been discovered. Also, is a transcendental number – a number that is not the root of any non-zero polynomial having rational coefficients. This transcendence of implies that it is impossible to solve the ancient challenge of squaring the circle with a compass and straightedge.
+
+Although ancient civilizations needed the to be computed accurately for practical reasons, it was not calculated to more than seven digits, using geometrical techniques, in Chinese mathematics and to about five in Indian mathematics in the 5th century CE. The historically first exact formula for , based on infinite series, was not available until a millennium later, when in the 14th century the Madhava–Leibniz series was discovered in Indian mathematics. In the 20th and 21st centuries, mathematicians and computer scientists discovered new approaches that, when combined with increasing computational power, extended the decimal representation of to, as of late 2013, over 13.3 trillion (1013) digits. Scientific applications generally require no more than 40 digits of so the primary motivation for these computations is the human desire to break records. However, the extensive calculations involved have been used to test supercomputers and high-precision multiplication algorithms.
+
+Because its definition relates to the circle, is found in many formulae in trigonometry and geometry, especially those concerning circles, ellipses or spheres. It is also found in formulae used in other branches of science such as cosmology, number theory, statistics, fractals, thermodynamics, mechanics and electromagnetism. The ubiquity of makes it one of the most widely known mathematical constants both inside and outside the scientific community: Several books devoted to it have been published, the number is celebrated on Pi Day and record-setting calculations of the digits of often result in news headlines. Attempts to memorize the value of with increasing precision have led to records of over 67,000 digits.
+
+1. Fundamentals
+
+1.1. Name
+
+The symbol used by mathematicians to represent the ratio of a circle's circumference to its diameter is the lowercase Greek letter , sometimes spelled out as pi. In English, is pronounced as "pie" ( , ). In mathematical use, the lowercase letter (or π in sans-serif font) is distinguished from its capital counterpart , which denotes a product of a sequence.
+
+The choice of the symbol is discussed below.
+
+1.2. Definition
+
+is commonly defined as the ratio of a circle's circumference to its diameter :
+
+The ratio is constant, regardless of the circle's size. For example, if a circle has twice the diameter of another circle it will also have twice the circumference, preserving the ratio . This definition of implicitly makes use of flat (Euclidean) geometry; although the notion of a circle can be extended to any curved (non-Euclidean) geometry, these new circles will no longer satisfy the formula . There are also other definitions of that do not immediately involve circles at all. For example, is twice the smallest positive for which equals 0.
+
+1.3. Properties
+
+is an irrational number, meaning that it cannot be written as the ratio of two integers (fractions such as 22/7 are commonly used to approximate ; no common fraction (ratio of whole numbers) can be its exact value). Since is irrational, it has an infinite number of digits in its decimal representation, and it does not settle into an infinitely repeating pattern of digits. There are several proofs that is irrational; they generally require calculus and rely on the reductio ad absurdum technique. The degree to which can be approximated by rational numbers (called the irrationality measure) is not precisely known; estimates have established that the irrationality measure is larger than the measure of or ln(2) but smaller than the measure of Liouville numbers. More strongly, is a transcendental number, which means that it is not the solution of any non-constant polynomial with rational coefficients, such as The transcendence of has two important consequences: First, cannot be expressed using any finite combination of rational numbers and square roots or n-th roots such as or Second, since no transcendental number can be constructed with compass and straightedge, it is not possible to "square the circle". In other words, it is impossible to construct, using compass and straightedge alone, a square whose area is equal to the area of a given circle. Squaring a circle was one of the important geometry problems of the classical antiquity. Amateur mathematicians in modern times have sometimes attempted to square the circle and sometimes claim success despite the fact that it is impossible.
+
+The digits of have no apparent pattern and have passed tests for statistical randomness, including tests for normality; a number of infinite length is called normal when all possible sequences of digits (of any given length) appear equally often. The conjecture that is normal has not been proven or disproven. Since the advent of computers, a large number of digits of have been available on which to perform statistical analysis. Yasumasa Kanada has performed detailed statistical analyses on the decimal digits of and found them consistent with normality; for example, the frequency of the ten digits 0 to 9 were subjected to statistical significance tests, and no evidence of a pattern was found. Despite the fact that 's digits pass statistical tests for randomness, contains some sequences of digits that may appear non-random to non-mathematicians, such as the Feynman point, which is a sequence of six consecutive 9s that begins at the 762nd decimal place of the decimal representation of .
+
+1.4. Continued fractions
+
+Like all irrational numbers, cannot be represented as a common fraction (also known as a simple or vulgar fraction), by the very definition of "irrational". But every irrational number, including , can be represented by an infinite series of nested fractions, called a continued fraction:
+
+Truncating the continued fraction at any point generates a fraction that provides an approximation for ; two such fractions (22/7 and 355/113) have been used historically to approximate the constant. Each approximation generated in this way is a best rational approximation; that is, each is closer to than any other fraction with the same or a smaller denominator. Because is known to be transcendental, it is by definition not algebraic and so cannot be a quadratic irrational. Therefore cannot have a periodic continued fraction. Although the simple continued fraction for (shown above) also does not exhibit any other obvious pattern, mathematicians have discovered several generalized continued fractions that do, such as:
+
+1.5. Approximate value
+
+Some approximations of pi include:
+
+Integers: 3
+
+Fractions: Approximate fractions include (in order of increasing accuracy) , , , , , and . (List is selected terms from and .)
+
+Decimal: The first 50 decimal digits are
+
+Binary: The base 2 approximation to 48 digits is
+
+Hexadecimal: The base 16 approximation to 20 digits is
+
+Sexagesimal: A base 60 approximation to four sexagesimal digits is 3;8,29,44,1
+
+2. History
+
+2.1. Antiquity
+
+The Great Pyramid at Giza, constructed –2566 BC, was built with a perimeter of about 1760 cubits and a height of about 280 cubits; the ratio 1760/280 ≈ 6.2857 is approximately equal to 2 ≈ 6.2832. Based on this ratio, some Egyptologists concluded that the pyramid builders had knowledge of and deliberately designed the pyramid to incorporate the proportions of a circle. Others maintain that the suggested relationship to is merely a coincidence, because there is no evidence that the pyramid builders had any knowledge of , and because the dimensions of the pyramid are based on other factors.
+
+The earliest written approximations of are found in Egypt and Babylon, both within 1 percent of the true value. In Babylon, a clay tablet dated 1900–1600 BC has a geometrical statement that, by implication, treats as 25/8 = 3.1250. In Egypt, the Rhind Papyrus, dated around 1650 BC, but copied from a document dated to 1850 BC has a formula for the area of a circle that treats as (16/9)2 ≈ 3.1605.
+
+In India around 600 BC, the Shulba Sutras (Sanskrit texts that are rich in mathematical contents) treat as (9785/5568)2 ≈ 3.088. In 150 BC, or perhaps earlier, Indian sources treat as  ≈ 3.1622.
+
+Two verses in the Hebrew Bible (written between the 8th and 3rd centuries BC) describe a ceremonial pool in the Temple of Solomon with a diameter of ten cubits and a circumference of thirty cubits; the verses imply is about three if the pool is circular. Rabbi Nehemiah explained the discrepancy as being due to the thickness of the vessel. His early work of geometry, Mishnat ha-Middot, was written around 150 AD and takes the value of to be three and one seventh. (See Approximations of π)
+
+2.2. Polygon approximation era
+
+The first recorded algorithm for rigorously calculating the value of was a geometrical approach using polygons, devised around 250 BC by the Greek mathematician Archimedes. This polygonal algorithm dominated for over 1,000 years, and as a result is sometimes referred to as "Archimedes' constant". Archimedes computed upper and lower bounds of by drawing a regular hexagon inside and outside a circle, and successively doubling the number of sides until he reached a 96-sided regular polygon. By calculating the perimeters of these polygons, he proved that 223/71 <  < 22/7 (3.1408 <  < 3.1429). Archimedes' upper bound of 22/7 may have led to a widespread popular belief that is equal to 22/7. Around 150 AD, Greek-Roman scientist Ptolemy, in his Almagest, gave a value for of 3.1416, which he may have obtained from Archimedes or from Apollonius of Perga. Mathematicians using polygonal algorithms reached 39 digits of in 1630, a record only broken in 1699 when infinite series were used to reach 71 digits.
+
+In ancient China, values for included 3.1547 (around 1 AD), (100 AD, approximately 3.1623), and 142/45 (3rd century, approximately 3.1556). Around 265 AD, the Wei Kingdom mathematician Liu Hui created a polygon-based iterative algorithm and used it with a 3,072-sided polygon to obtain a value of of 3.1416. Liu later invented a faster method of calculating and obtained a value of 3.14 with a 96-sided polygon, by taking advantage of the fact that the differences in area of successive polygons form a geometric series with a factor of 4. The Chinese mathematician Zu Chongzhi, around 480 AD, calculated that  ≈ 355/113 (a fraction that goes by the name Milü in Chinese), using Liu Hui's algorithm applied to a 12,288-sided polygon. With a correct value for its seven first decimal digits, this value of 3.141592920... remained the most accurate approximation of available for the next 800 years.
+
+The Indian astronomer Aryabhata used a value of 3.1416 in his Āryabhaṭīya (499 AD). Fibonacci in c. 1220 computed 3.1418 using a polygonal method, independent of Archimedes. Italian author Dante apparently employed the value  ≈ 3.14142.
+
+The Persian astronomer Jamshīd al-Kāshī produced 16 digits in 1424 using a polygon with 3×228 sides, which stood as the world record for about 180 years. French mathematician François Viète in 1579 achieved 9 digits with a polygon of 3×217 sides. Flemish mathematician Adriaan van Roomen arrived at 15 decimal places in 1593. In 1596, Dutch mathematician Ludolph van Ceulen reached 20 digits, a record he later increased to 35 digits (as a result, was called the "Ludolphian number" in Germany until the early 20th century). Dutch scientist Willebrord Snellius reached 34 digits in 1621, and Austrian astronomer Christoph Grienberger arrived at 38 digits in 1630 using 1040 sides, which remains the most accurate approximation manually achieved using polygonal algorithms.
+
+2.3. Infinite series
+
+The calculation of was revolutionized by the development of infinite series techniques in the 16th and 17th centuries. An infinite series is the sum of the terms of an infinite sequence. Infinite series allowed mathematicians to compute with much greater precision than Archimedes and others who used geometrical techniques. Although infinite series were exploited for most notably by European mathematicians such as James Gregory and Gottfried Wilhelm Leibniz, the approach was first discovered in India sometime between 1400 and 1500 AD. The first written description of an infinite series that could be used to compute was laid out in Sanskrit verse by Indian astronomer Nilakantha Somayaji in his Tantrasamgraha, around 1500 AD. The series are presented without proof, but proofs are presented in a later Indian work, Yuktibhāṣā, from around 1530 AD. Nilakantha attributes the series to an earlier Indian mathematician, Madhava of Sangamagrama, who lived c. 1350 – c. 1425. Several infinite series are described, including series for sine, tangent, and cosine, which are now referred to as the Madhava series or Gregory–Leibniz series. Madhava used infinite series to estimate to 11 digits around 1400, but that value was improved on around 1430 by the Persian mathematician Jamshīd al-Kāshī, using a polygonal algorithm.
+
+The first infinite sequence discovered in Europe was an infinite product (rather than an infinite sum, which are more typically used in calculations) found by French mathematician François Viète in 1593:
+
+The second infinite sequence found in Europe, by John Wallis in 1655, was also an infinite product. The discovery of calculus, by English scientist Isaac Newton and German mathematician Gottfried Wilhelm Leibniz in the 1660s, led to the development of many infinite series for approximating . Newton himself used an arcsin series to compute a 15 digit approximation of in 1665 or 1666, later writing "I am ashamed to tell you to how many figures I carried these computations, having no other business at the time."
+
+In Europe, Madhava's formula was rediscovered by Scottish mathematician James Gregory in 1671, and by Leibniz in 1674:
+
+This formula, the Gregory–Leibniz series, equals when evaluated with  = 1. In 1699, English mathematician Abraham Sharp used the Gregory–Leibniz series to compute to 71 digits, breaking the previous record of 39 digits, which was set with a polygonal algorithm. The Gregory–Leibniz series is simple, but converges very slowly (that is, approaches the answer gradually), so it is not used in modern calculations.
+
+In 1706 John Machin used the Gregory–Leibniz series to produce an algorithm that converged much faster:
+
+Machin reached 100 digits of with this formula. Other mathematicians created variants, now known as Machin-like formulae, that were used to set several successive records for calculating digits of . Machin-like formulae remained the best-known method for calculating well into the age of computers, and were used to set records for 250 years, culminating in a 620-digit approximation in 1946 by Daniel Ferguson – the best approximation achieved without the aid of a calculating device.
+
+A record was set by the calculating prodigy Zacharias Dase, who in 1844 employed a Machin-like formula to calculate 200 decimals of in his head at the behest of German mathematician Carl Friedrich Gauss. British mathematician William Shanks famously took 15 years to calculate to 707 digits, but made a mistake in the 528th digit, rendering all subsequent digits incorrect.
+
+2.3.1. Rate of convergence
+
+Some infinite series for converge faster than others. Given the choice of two infinite series for , mathematicians will generally use the one that converges more rapidly because faster convergence reduces the amount of computation needed to calculate to any given accuracy. A simple infinite series for is the Gregory–Leibniz series:
+
+As individual terms of this infinite series are added to the sum, the total gradually gets closer to , and – with a sufficient number of terms – can get as close to as desired. It converges quite slowly, though – after 500,000 terms, it produces only five correct decimal digits of .
+
+An infinite series for (published by Nilakantha in the 15th century) that converges more rapidly than the Gregory–Leibniz series is:
+
+The following table compares the convergence rates of these two series:
+
+After five terms, the sum of the Gregory–Leibniz series is within 0.2 of the correct value of , whereas the sum of Nilakantha's series is within 0.002 of the correct value of . Nilakantha's series converges faster and is more useful for computing digits of . Series that converge even faster include Machin's series and Chudnovsky's series, the latter producing 14 correct decimal digits per term.
+
+2.4. Irrationality and transcendence
+
+Not all mathematical advances relating to were aimed at increasing the accuracy of approximations. When Euler solved the Basel problem in 1735, finding the exact value of the sum of the reciprocal squares, he established a connection between and the prime numbers that later contributed to the development and study of the Riemann zeta function:
+
+Swiss scientist Johann Heinrich Lambert in 1761 proved that is irrational, meaning it is not equal to the quotient of any two whole numbers. Lambert's proof exploited a continued-fraction representation of the tangent function. French mathematician Adrien-Marie Legendre proved in 1794 that 2 is also irrational. In 1882, German mathematician Ferdinand von Lindemann proved that is transcendental, confirming a conjecture made by both Legendre and Euler.
+
+2.5. Adoption of the symbol
+
+The earliest known use of the Greek letter to represent the ratio of a circle's circumference to its diameter was by mathematician William Jones in his 1706 work Synopsis Palmariorum Matheseos; or, a New Introduction to the Mathematics. The Greek letter first appears there in the phrase "1/2 Periphery ()" in the discussion of a circle with radius one. Jones may have chosen because it was the first letter in the Greek spelling of the word periphery. However, he writes that his equations for are from the "ready pen of the truly ingenious Mr. John Machin", leading to speculation that Machin may have employed the Greek letter before Jones. It had indeed been used earlier for geometric concepts. William Oughtred used and δ, the Greek letter equivalents of p and d, to express ratios of periphery and diameter in the 1647 and later editions of Clavis Mathematicae.
+
+After Jones introduced the Greek letter in 1706, it was not adopted by other mathematicians until Euler started using it, beginning with his 1736 work Mechanica. Before then, mathematicians sometimes used letters such as c or p instead. Because Euler corresponded heavily with other mathematicians in Europe, the use of the Greek letter spread rapidly. In 1748, Euler used in his widely read work Introductio in analysin infinitorum (he wrote: "for the sake of brevity we will write this number as ; thus is equal to half the circumference of a circle of radius 1") and the practice was universally adopted thereafter in the Western world.
+
+3. Modern quest for more digits
+
+3.1. Computer era and iterative algorithms
+
+The development of computers in the mid-20th century again revolutionized the hunt for digits of . American mathematicians John Wrench and Levi Smith reached 1,120 digits in 1949 using a desk calculator. Using an inverse tangent (arctan) infinite series, a team led by George Reitwiesner and John von Neumann that same year achieved 2,037 digits with a calculation that took 70 hours of computer time on the ENIAC computer. The record, always relying on an arctan series, was broken repeatedly (7,480 digits in 1957; 10,000 digits in 1958; 100,000 digits in 1961) until 1 million digits were reached in 1973.
+
+Two additional developments around 1980 once again accelerated the ability to compute . First, the discovery of new iterative algorithms for computing , which were much faster than the infinite series; and second, the invention of fast multiplication algorithms that could multiply large numbers very rapidly. Such algorithms are particularly important in modern computations, because most of the computer's time is devoted to multiplication. They include the Karatsuba algorithm, Toom–Cook multiplication, and Fourier transform-based methods.
+
+The iterative algorithms were independently published in 1975–1976 by American physicist Eugene Salamin and Australian scientist Richard Brent. These avoid reliance on infinite series. An iterative algorithm repeats a specific calculation, each iteration using the outputs from prior steps as its inputs, and produces a result in each step that converges to the desired value. The approach was actually invented over 160 years earlier by Carl Friedrich Gauss, in what is now termed the arithmetic–geometric mean method (AGM method) or Gauss–Legendre algorithm. As modified by Salamin and Brent, it is also referred to as the Brent–Salamin algorithm.
+
+The iterative algorithms were widely used after 1980 because they are faster than infinite series algorithms: whereas infinite series typically increase the number of correct digits additively in successive terms, iterative algorithms generally multiply the number of correct digits at each step. For example, the Brent-Salamin algorithm doubles the number of digits in each iteration. In 1984, the Canadian brothers John and Peter Borwein produced an iterative algorithm that quadruples the number of digits in each step; and in 1987, one that increases the number of digits five times in each step. Iterative methods were used by Japanese mathematician Yasumasa Kanada to set several records for computing between 1995 and 2002. This rapid convergence comes at a price: the iterative algorithms require significantly more memory than infinite series.
+
+3.2. Motivations for computing
+
+For most numerical calculations involving , a handful of digits provide sufficient precision. According to Jörg Arndt and Christoph Haenel, thirty-nine digits are sufficient to perform most cosmological calculations, because that is the accuracy necessary to calculate the volume of the known universe with a precision of one atom. Despite this, people have worked strenuously to compute to thousands and millions of digits. This effort may be partly ascribed to the human compulsion to break records, and such achievements with often make headlines around the world. They also have practical benefits, such as testing supercomputers, testing numerical analysis algorithms (including high-precision multiplication algorithms); and within pure mathematics itself, providing data for evaluating the randomness of the digits of .
+
+3.3. Rapidly convergent series
+
+Modern calculators do not use iterative algorithms exclusively. New infinite series were discovered in the 1980s and 1990s that are as fast as iterative algorithms, yet are simpler and less memory intensive. The fast iterative algorithms were anticipated in 1914, when the Indian mathematician Srinivasa Ramanujan published dozens of innovative new formulae for , remarkable for their elegance, mathematical depth, and rapid convergence. One of his formulae, based on modular equations, is
+
+This series converges much more rapidly than most arctan series, including Machin's formula. Bill Gosper was the first to use it for advances in the calculation of , setting a record of 17 million digits in 1985. Ramanujan's formulae anticipated the modern algorithms developed by the Borwein brothers and the Chudnovsky brothers. The Chudnovsky formula developed in 1987 is
+
+It produces about 14 digits of per term, and has been used for several record-setting calculations, including the first to surpass 1 billion (109) digits in 1989 by the Chudnovsky brothers, 2.7 trillion (2.7×1012) digits by Fabrice Bellard in 2009, and 10 trillion (1013) digits in 2011 by Alexander Yee and Shigeru Kondo. For similar formulas, see also the Ramanujan–Sato series.
+
+In 2006, Canadian mathematician Simon Plouffe used the PSLQ integer relation algorithm to generate several new formulas for , conforming to the following template:
+
+where is (Gelfond's constant), is an odd number, and are certain rational numbers that Plouffe computed.
+
+3.4. Spigot algorithms
+
+Two algorithms were discovered in 1995 that opened up new avenues of research into . They are called spigot algorithms because, like water dripping from a spigot, they produce single digits of that are not reused after they are calculated. This is in contrast to infinite series or iterative algorithms, which retain and use all intermediate digits until the final result is produced.
+
+American mathematicians Stan Wagon and Stanley Rabinowitz produced a simple spigot algorithm in 1995. Its speed is comparable to arctan algorithms, but not as fast as iterative algorithms.
+
+Another spigot algorithm, the BBP digit extraction algorithm, was discovered in 1995 by Simon Plouffe:
+
+This formula, unlike others before it, can produce any individual hexadecimal digit of without calculating all the preceding digits. Individual binary digits may be extracted from individual hexadecimal digits, and octal digits can be extracted from one or two hexadecimal digits. Variations of the algorithm have been discovered, but no digit extraction algorithm has yet been found that rapidly produces decimal digits. An important application of digit extraction algorithms is to validate new claims of record computations: After a new record is claimed, the decimal result is converted to hexadecimal, and then a digit extraction algorithm is used to calculate several random hexadecimal digits near the end; if they match, this provides a measure of confidence that the entire computation is correct.
+
+Between 1998 and 2000, the distributed computing project PiHex used Bellard's formula (a modification of the BBP algorithm) to compute the quadrillionth (1015th) bit of , which turned out to be 0. In September 2010, a Yahoo! employee used the company's Hadoop application on one thousand computers over a 23-day period to compute 256 bits of at the two-quadrillionth (2×1015th) bit, which also happens to be zero.
+
+4. Use
+
+Because is closely related to the circle, it is found in many formulae from the fields of geometry and trigonometry, particularly those concerning circles, spheres, or ellipses. Formulae from other branches of science also include in some of their important formulae, including sciences such as statistics, fractals, thermodynamics, mechanics, cosmology, number theory, and electromagnetism.
+
+4.1. Geometry and trigonometry
+
+appears in formulae for areas and volumes of geometrical shapes based on circles, such as ellipses, spheres, cones, and tori. Below are some of the more common formulae that involve .
+
+The circumference of a circle with radius is
+
+The area of a circle with radius is
+
+The volume of a sphere with radius is
+
+The surface area of a sphere with radius is The formulae above are special cases of the surface area and volume of an n-dimensional sphere.
+
+appears in definite integrals that describe circumference, area, or volume of shapes generated by circles. For example, an integral that specifies half the area of a circle of radius one is given by:
+
+In that integral the function represents the top half of a circle (the square root is a consequence of the Pythagorean theorem), and the integral computes the area between that half of a circle and the axis. The trigonometric functions rely on angles, and mathematicians generally use radians as units of measurement. plays an important role in angles measured in radians, which are defined so that a complete circle spans an angle of 2 radians. The angle measure of 180° is equal to radians, and 1° = /180 radians.
+
+Common trigonometric functions have periods that are multiples of ; for example, sine and cosine have period 2, so for any angle θ and any integer , and
+
+4.1.1. Monte Carlo methods
+
+Monte Carlo methods, which evaluate the results of multiple random trials, can be used to create approximations of . Buffon's needle is one such technique: If a needle of length is dropped times on a surface on which parallel lines are drawn units apart, and if of those times it comes to rest crossing a line ( > 0), then one may approximate based on the counts:
+
+Another Monte Carlo method for computing is to draw a circle inscribed in a square, and randomly place dots in the square. The ratio of dots inside the circle to the total number of dots will approximately equal
+
+Monte Carlo methods for approximating are very slow compared to other methods, and are never used to approximate when speed or accuracy are desired.
+
+4.2. Complex numbers and analysis
+
+Any complex number, say , can be expressed using a pair of real numbers. In the polar coordinate system, one number (radius or r) is used to represent 's distance from the origin of the complex plane and the other (angle or φ) to represent a counter-clockwise rotation from the positive real line as follows:
+
+where is the imaginary unit satisfying 2 = −1. The frequent appearance of in complex analysis can be related to the behavior of the exponential function of a complex variable, described by Euler's formula:
+
+where the constant is the base of the natural logarithm. This formula establishes a correspondence between imaginary powers of and points on the unit circle centered at the origin of the complex plane. Setting = in Euler's formula results in Euler's identity, celebrated by mathematicians because it contains the five most important mathematical constants:
+
+There are different complex numbers satisfying , and these are called the "-th roots of unity". They are given by this formula:
+
+Cauchy's integral formula governs complex analytic functions and establishes an important relationship between integration and differentiation, including the fact that the values of a complex function within a closed boundary are entirely determined by the values on the boundary:
+
+An occurrence of in the Mandelbrot set fractal was discovered by American David Boll in 1991. He examined the behavior of the Mandelbrot set near the "neck" at (−0.75, 0). If points with coordinates (−0.75, ε) are considered, as ε tends to zero, the number of iterations until divergence for the point multiplied by ε converges to . The point (0.25, ε) at the cusp of the large "valley" on the right side of the Mandelbrot set behaves similarly: the number of iterations until divergence multiplied by the square root of ε tends to .
+
+The gamma function extends the concept of factorial – which is normally defined only for non-negative integers – to all complex numbers, except the negative real integers. When the gamma function is evaluated at half-integers, the result contains ; for example and . The gamma function can be used to create a simple approximation to for large : which is known as Stirling's approximation.
+
+4.3. Number theory and Riemann zeta function
+
+The Riemann zeta function ζ(s) is used in many areas of mathematics. When evaluated at it can be written as
+
+Finding a simple solution for this infinite series was a famous problem in mathematics called the Basel problem. Leonhard Euler solved it in 1735 when he showed it was equal to . Euler's result leads to the number theory result that the probability of two random numbers being relatively prime (that is, having no shared factors) is equal to . This probability is based on the observation that the probability that any number is divisible by a prime is (for example, every 7th integer is divisible by 7.) Hence the probability that two numbers are both divisible by this prime is , and the probability that at least one of them is not is . For distinct primes, these divisibility events are mutually independent; so the probability that two numbers are relatively prime is given by a product over all primes:
+
+This probability can be used in conjunction with a random number generator to approximate using a Monte Carlo approach.
+
+4.4. Probability and statistics
+
+The fields of probability and statistics frequently use the normal distribution as a simple model for complex phenomena; for example, scientists generally assume that the observational error in most experiments follows a normal distribution. is found in the Gaussian function (which is the probability density function of the normal distribution) with mean and standard deviation :
+
+The area under the graph of the normal distribution curve is given by the Gaussian integral:
+
+while the related integral for the Cauchy distribution is
+
+5. Outside mathematics
+
+5.1. Describing physical phenomena
+
+Although not a physical constant, appears routinely in equations describing fundamental principles of the universe, often because of 's relationship to the circle and to spherical coordinate systems. A simple formula from the field of classical mechanics gives the approximate period of a simple pendulum of length , swinging with a small amplitude ( is the earth's gravitational acceleration):
+
+One of the key formulae of quantum mechanics is Heisenberg's uncertainty principle, which shows that the uncertainty in the measurement of a particle's position (Δ) and momentum (Δ) cannot both be arbitrarily small at the same time (where is Planck's constant):
+
+In the domain of cosmology, appears in Einstein's field equation, a fundamental formula which forms the basis of the general theory of relativity and describes the fundamental interaction of gravitation as a result of spacetime being curved by matter and energy:
+
+where is the Ricci curvature tensor, is the scalar curvature, is the metric tensor, is the cosmological constant, is Newton's gravitational constant, is the speed of light in vacuum, and is the stress–energy tensor.
+
+Coulomb's law, from the discipline of electromagnetism, describes the electric field between two electric charges (1 and 2) separated by distance (with 0 representing the vacuum permittivity of free space):
+
+The fact that is approximately equal to 3 plays a role in the relatively long lifetime of orthopositronium. The inverse lifetime to lowest order in the fine structure constant is
+
+where m is the mass of the electron.
+
+is present in some structural engineering formulae, such as the buckling formula derived by Euler, which gives the maximum axial load that a long, slender column of length , modulus of elasticity , and area moment of inertia can carry without buckling:
+
+The field of fluid dynamics contains in Stokes' law, which approximates the frictional force F exerted on small, spherical objects of radius , moving with velocity in a fluid with dynamic viscosity η:
+
+The Fourier transform, defined below, is a mathematical operation that expresses time as a function of frequency, known as its frequency spectrum. It has many applications in physics and engineering, particularly in signal processing.
+
+Under ideal conditions (uniform gentle slope on an homogeneously erodible substrate), the sinuosity of a meandering river approaches . The sinuosity is the ratio between the actual length and the straight-line distance from source to mouth. Faster currents along the outside edges of a river's bends cause more erosion than along the inside edges, thus pushing the bends even farther out, and increasing the overall loopiness of the river. However, that loopiness eventually causes the river to double back on itself in places and "short-circuit", creating an ox-bow lake in the process. The balance between these two opposing factors leads to an average ratio of between the actual length and the direct distance between source and mouth.
+
+5.2. Memorizing digits
+
+Many persons have memorized large numbers of digits of , a practice called piphilology. One common technique is to memorize a story or poem in which the word lengths represent the digits of : The first word has three letters, the second word has one, the third has four, the fourth has one, the fifth has five, and so on. An early example of a memorization aid, originally devised by English scientist James Jeans, is "How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics." When a poem is used, it is sometimes referred to as a piem. Poems for memorizing have been composed in several languages in addition to English.
+
+The record for memorizing digits of , certified by Guinness World Records, is 67,890 digits, recited in China by Lu Chao in 24 hours and 4 minutes on 20 November 2005. In 2006, Akira Haraguchi, a retired Japanese engineer, claimed to have recited 100,000 decimal places, but the claim was not verified by Guinness World Records. Record-setting memorizers typically do not rely on poems, but instead use methods such as remembering number patterns and the method of loci.
+
+A few authors have used the digits of to establish a new form of constrained writing, where the word lengths are required to represent the digits of . The Cadaeic Cadenza contains the first 3835 digits of in this manner, and the full-length book Not a Wake contains 10,000 words, each representing one digit of .
+
+5.3. In popular culture
+
+Perhaps because of the simplicity of its definition and its ubiquitous presence in formulae, has been represented in popular culture more than other mathematical constructs.
+
+In the 2008 Open University and BBC documentary co-production, The Story of Maths, aired in October 2008 on BBC Four, British mathematician Marcus du Sautoy shows a visualization of the - historically first exact - formula for calculating the π when visiting India and exploring its contributions to trigonometry.
+
+In the Palais de la Découverte (a science museum in Paris) there is a circular room known as the pi room. On its wall are inscribed 707 digits of . The digits are large wooden characters attached to the dome-like ceiling. The digits were based on an 1853 calculation by English mathematician William Shanks, which included an error beginning at the 528th digit. The error was detected in 1946 and corrected in 1949.
+
+In Carl Sagan's novel Contact it is suggested that the creator of the universe buried a message deep within the digits of . The digits of have also been incorporated into the lyrics of the song "Pi" from the album Aerial by Kate Bush, and a song by Hard 'n Phirm.
+
+Many schools in the United States observe Pi Day on 14 March (March is the third month, hence the date is 3/14). and its digital representation are often used by self-described "math geeks" for inside jokes among mathematically and technologically minded groups. Several college cheers at the Massachusetts Institute of Technology include "3.14159".
+
+During the 2011 auction for Nortel's portfolio of valuable technology patents, Google made a series of unusually specific bids based on mathematical and scientific constants, including .
+
+In 1958 Albert Eagle proposed replacing by = /2 to simplify formulas. However, no other authors are known to use tau in this way. Some people use a different value for tau, = 6.283185... = 2, arguing that , as the ratio of a circle's circumference to its radius rather than its diameter, is more natural than and simplifies many formulas. Celebrations of this number, because it approximately equals 6.28, by making 28 June "Tau Day" and eating "twice the pie", have been reported in the media. However this use of has not made its way into mainstream mathematics.
+
+In 1897, an amateur American mathematician attempted to persuade the Indiana legislature to pass the Indiana Pi Bill, which described a method to square the circle and contained text that implied various incorrect values for , including 3.2. The bill is notorious as an attempt to establish a value of scientific constant by legislative fiat. The bill was passed by the Indiana House of Representatives, but rejected by the Senate.
+
+6. See also
+
+Chronology of computation of π
+
+Proof that π is irrational
+
+Proof that π is transcendental
+
+Mathematical constants and functions
+
+7. Notes
+
+;Footnotes
+
+;References
+
+English translation by Catriona and David Lischka.
+
+, English translation by Stephen Wilson.
+
+. , ,
+
+8. Further reading
+
+Borwein, Jonathan and Borwein, Peter, "The Arithmetic-Geometric Mean and Fast Computation of Elementary Functions", SIAM Review, 26(1984) 351–365
+
+Borwein, Jonathan, Borwein, Peter, and Bailey, David H., Ramanujan, Modular Equations, and Approximations to Pi or How to Compute One Billion Digits of Pi", The American Mathematical Monthly, 96(1989) 201–219
+
+Chudnovsky, David V. and Chudnovsky, Gregory V., "Approximations and Complex Multiplication According to Ramanujan", in Ramanujan Revisited (G.E. Andrews et al. Eds), Academic Press, 1988, pp 375–396, 468–472
+
+Cox, David A., "The Arithmetic-Geometric Mean of Gauss", L' Ensignement Mathematique, 30(1984) 275–330
+
+Delahaye, Jean-Paul, "Le Fascinant Nombre Pi", Paris: Bibliothèque Pour la Science (1997) ISBN 2902918259
+
+Engels, Hermann, "Quadrature of the Circle in Ancient Egypt", Historia Mathematica 4(1977) 137–140
+
+Euler, Leonhard, "On the Use of the Discovered Fractions to Sum Infinite Series", in Introduction to Analysis of the Infinite. Book I, translated from the Latin by J. D. Blanton, Springer-Verlag, 1964, pp 137–153
+
+Heath, T. L., The Works of Archimedes, Cambridge, 1897; reprinted in The Works of Archimedes with The Method of Archimedes, Dover, 1953, pp 91–98
+
+Huygens, Christiaan, "De Circuli Magnitudine Inventa", Christiani Hugenii Opera Varia I, Leiden 1724, pp 384–388
+
+Lay-Yong, Lam and Tian-Se, Ang, "Circle Measurements in Ancient China", Historia Mathematica 13(1986) 325–340
+
+Lindemann, Ferdinand, , Mathematische Annalen 20(1882) 213–225
+
+Matar, K. Mukunda, and Rajagonal, C., "On the Hindu Quadrature of the Circle" (Appendix by K. Balagangadharan). Journal of the Bombay Branch of the Royal Asiatic Society 20(1944) 77–82
+
+Niven, Ivan, "A Simple Proof that pi Is Irrational", Bulletin of the American Mathematical Society, 53:7 (July 1947), 507
+
+Ramanujan, Srinivasa, "Modular Equations and Approximations to π", Quarterly Journal of Pure and Applied Mathematics, XLV, 1914, 350–372. Reprinted in G.H. Hardy, P.V. Seshu Aiyar, and B. M. Wilson (eds), Srinivasa Ramanujan: Collected Papers, 1927 (reprinted 2000), pp 23–29
+
+Shanks, William, Contributions to Mathematics Chiefly of the Rectification of the Circle to 607 Places of Decimals, 1853, pp. i–xvi, 10
+
+Shanks, Daniel and Wrench, John William, "Calculation of pi to 100,000 Decimals", Mathematics of Computation 16(1962) 76–99
+
+Tropfke, Johannes, Geschichte Der Elementar-Mathematik in Systematischer Darstellung (The history of elementary mathematics), BiblioBazaar, 2009 (reprint), ISBN 978-1-113-08573-3
+
+Viete, Francois, Variorum de Rebus Mathematicis Reponsorum Liber VII. F. Viete, Opera Mathematica (reprint), Georg Olms Verlag, 1970, pp 398–401, 436–446
+
+Wagon, Stan, "Is Pi Normal?", The Mathematical Intelligencer, 7:3(1985) 65–67
+
+Wallis, John, Arithmetica Infinitorum, sive Nova Methodus Inquirendi in Curvilineorum Quadratum, aliaque difficiliora Matheseos Problemata, Oxford 1655–6. Reprinted in vol. 1 (pp 357–478) of Opera Mathematica, Oxford 1693
+
+Zebrowski, Ernest, A History of the Circle: Mathematical Reasoning and the Physical Universe, Rutgers University Press, 1999, ISBN 978-0-8135-2898-4
+
+9. External links
+
+at Wolfram Mathworld
+
+at Wolfram Alpha
+
+: 2 billion searchable digits of , , and

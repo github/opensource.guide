@@ -1,0 +1,61 @@
+A nanosecond (ns) is an SI unit of time equal to one billionth of a second (10 or 1/1,000,000,000 s). One nanosecond is to one second as one second is to 31.71 years.
+
+The word nanosecond is formed by the prefix nano and the unit second. Its symbol is ns.
+
+A nanosecond is equal to 1000 picoseconds or  microsecond. Because the next SI unit is 1000 times larger, times of 10 and 10 seconds are typically expressed as tens or hundreds of nanoseconds.
+
+Times of this magnitude are commonly encountered in telecommunications, pulsed lasers and some areas of electronics.
+
+Light travels approximately 29.98 centimeters in 1 nanosecond. This is equivalent to 11.8 inches, leading to some to refer to a nanosecond as a light-foot. The earliest use of the term is by George Gamow. Another early reference commonly given is to Admiral Grace Hopper, who used to give out pieces of wire about a foot long to illustrate the eventual problem of building very high speed computers. If it takes light a nanosecond to go a foot (in a vacuum, slower in copper), then a computer built with parts connected by half this distance, of wire, would take at least a nanosecond to send data to a part and get a response. The solution, developed in Hopper's lifetime, was first the integrated circuit and later the multi-core processor.
+
+"Once she presented a piece of wire about a foot long, and explained that it represented a nanosecond, since it was the maximum distance electricity could travel in wire in one-billionth of a second. She often contrasted this nanosecond with a microsecond - a coil of wire nearly a thousand feet long - as she encouraged programmers not to waste even a microsecond." Light travels ~29.979 cm in one nanosecond, meaning that, technically, a light-foot is ~1.0167 nanoseconds.
+
+1. Common measurements
+
+0.5 nanoseconds (0.5 ns) – the average life of a molecule of positronium hydride
+
+1.0 nanosecond – cycle time for radio frequency 1 GHz (1 hertz), an inverse unit. This corresponds to a radio wavelength of 1 light-nanosecond or 0.3 m, as can be calculated by multiplying 1 ns by the speed of light (approximately 3 m/s) to determine the distance traveled.
+
+1.0 nanosecond – cycle time for a 1 GHz processor. , common processors have frequencies around 1–3.5 GHz, so the cycle time is somewhat shorter than a nanosecond.
+
+1.017 nanoseconds (approximately) – time taken for light to travel 1 foot in a vacuum
+
+3.33564095 nanoseconds (approximately) – time taken for light to travel 1 metre in a vacuum (In air or water light travels more slowly; see index of refraction)
+
+10 nanoseconds – one "shake", (as in a "shake of a lamb's tail") approximate time of one generation of a nuclear chain reaction with fast neutrons
+
+10 nanoseconds – cycle time for frequency 100 MHz (1 hertz), radio wavelength 3 m (VHF, FM band)
+
+12 nanoseconds – half-life of a K meson
+
+20–40 nanoseconds – time of fusion reaction in a hydrogen bomb
+
+77 nanoseconds – a sixth (a 60th of a 60th of a 60th of a 60th of a second)
+
+100 nanoseconds – cycle time for frequency 10 MHz, radio wavelength 30 m (shortwave)
+
+333 nanoseconds – cycle time of highest medium wave radio frequency, 3 MHz
+
+500 nanoseconds – T1 time of Josephson phase qubit (see also Qubit) as of May 2005
+
+1000 nanoseconds - one microsecond
+
+2. See also
+
+International System of Units
+
+Jiffy (time)
+
+Microsecond
+
+Millisecond
+
+Orders of magnitude (time)
+
+Picosecond
+
+Second
+
+3. References
+
+de:Sekunde#Abgeleitete Maßeinheiten fr:1 E-9 s ur:نینوسیکنڈ

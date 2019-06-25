@@ -1,0 +1,95 @@
+Phonetics (pronounced , from the , phōnē, 'sound, voice') is a branch of linguistics that comprises the study of the sounds of human speech, or—in the case of sign languages—the equivalent aspects of sign. It is concerned with the physical properties of speech sounds or signs (phones): their physiological production, acoustic properties, auditory perception, and neurophysiological status. Phonology, on the other hand, is concerned with the abstract, grammatical characterization of systems of sounds or signs.
+
+The field of phonetics is a multilayered subject of linguistics that focuses on speech. In the case of oral languages there are three basic areas of study:
+
+Articulatory phonetics: the study of the production of speech sounds by the articulatory and vocal tract by the speaker.
+
+Acoustic phonetics: the study of the physical transmission of speech sounds from the speaker to the listener.
+
+Auditory phonetics: the study of the reception and perception of speech sounds by the listener. These areas are inter-connected through the common mechanism of sound, such as wavelength (pitch), amplitude, and harmonics.
+
+1. History
+
+Phonetics was studied as early as the 3rd century BC in the Indian subcontinent, with account of the place and manner of articulation of consonants in his treatise on Sanskrit. The major Indic alphabets today order their consonants according to classification. The Phoenicians are credited as the first to create a phonetic writing system, from which all major modern phonetic alphabets are now derived.
+
+Modern phonetics begins with attempts—such as those of Joshua Steele (in Prosodia Rationalis, 1779) and Alexander Melville Bell (in Visible Speech, 1867)—to introduce systems of precise notation for speech sounds.
+
+2. Phonetic transcription
+
+The International Phonetic Alphabet (IPA) is used as the basis for the phonetic transcription of speech. It is based on the Latin alphabet and is able to transcribe most features of speech such as consonants, vowels, and suprasegmental features. Every documented phoneme available within the known languages in the world is assigned its own corresponding symbol.
+
+3. The difference between phonetics and phonology
+
+Phonology concerns itself with systems of phonemes, abstract cognitive units of speech sound or sign which distinguish the words of a language. Phonetics, on the other hand, concerns itself with the production, transmission, and perception of the physical phenomena which are abstracted in the mind to constitute these speech sounds or signs.
+
+Using an Edison phonograph, Ludimar Hermann investigated the spectral properties of vowels and consonants. It was in these papers that the term formant was first introduced. Hermann also played vowel recordings made with the Edison phonograph at different speeds in order to test Willis' and Wheatstone's theories of vowel production.
+
+4. Relation to phonology
+
+In contrast to phonetics, phonology is the study of how sounds and gestures pattern in and across languages, relating such concerns with other levels and aspects of language. Phonetics deals with the articulatory and acoustic properties of speech sounds, how they are produced, and how they are perceived. As part of this investigation, phoneticians may concern themselves with the physical properties of meaningful sound contrasts or the social meaning encoded in the speech signal (socio-phonetics) (e.g. gender, sexuality, ethnicity, etc.). However, a substantial portion of research in phonetics is not concerned with the meaningful elements in the speech signal.
+
+While it is widely agreed that phonology is grounded in phonetics, phonology is a distinct branch of linguistics, concerned with sounds and gestures as abstract units (e.g., distinctive features, phonemes, mora, syllables, etc.) and their conditioned variation (via, e.g., allophonic rules, constraints, or derivational rules). Phonology relates to phonetics via the set of distinctive features, which map the abstract representations of speech units to articulatory gestures, acoustic signals, and/or perceptual representations.
+
+5. Subfields
+
+Phonetics as a research discipline has three main branches:
+
+articulatory phonetics is concerned with the articulation of speech: The position, shape, and movement of articulators or speech organs, such as the lips, tongue, and vocal folds.
+
+acoustic phonetics is concerned with acoustics of speech: The spectro-temporal properties of the sound waves produced by speech, such as their frequency, amplitude, and harmonic structure.
+
+auditory phonetics is concerned with speech perception: the perception, categorization, and recognition of speech sounds and the role of the auditory system and the brain in the same.
+
+6. Transcription
+
+Phonetic transcription is a system for transcribing sounds that occur in a language, whether oral or sign. The most widely known system of phonetic transcription, the International Phonetic Alphabet (IPA), provides a standardized set of symbols for oral phones. The standardized nature of the IPA enables its users to transcribe accurately and consistently the phones of different languages, dialects, and idiolects. The IPA is a useful tool not only for the study of phonetics, but also for language teaching, professional acting, and speech pathology.
+
+7. Applications
+
+Applications of phonetics include:
+
+forensic phonetics: the use of phonetics (the science of speech) for forensic (legal) purposes.
+
+Speech Recognition: the analysis and transcription of recorded speech by a computer system.
+
+8. See also
+
+Experimental phonetics
+
+Index of phonetics articles
+
+International Phonetic Alphabet
+
+Speech processing
+
+Acoustics
+
+Biometric word list
+
+Phonetics departments at universities
+
+X-SAMPA
+
+ICAO spelling alphabet
+
+Buckeye Corpus
+
+SaypU (Spell As You Pronounce Universally)
+
+9. Notes
+
+10. References
+
+11. Archives
+
+Audio recordings illustrating phonetic structures from over 200 languages with phonetic transcriptions, with scans of original field notes where relevant: UCLA Phonetics Laboratory Archive http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0008nkk5
+
+12. External links
+
+, Peter Roach, Professor of Phonetics, University of Reading, UK. (pdf)
+
+U Penn
+
+(University of North Carolina)
+
+(University of Osnabrück)

@@ -1,0 +1,127 @@
+Paclitaxel is a medication used treat a number of types of cancer including: ovarian cancer, breast cancer, lung cancer and pancreatic cancer among others. It and docetaxel represent the taxane family of drugs. Paclitaxel's mechanism of action involves interferes with the normal breakdown of microtubules during cell division.
+
+Common side effects include: hair loss, muscle and joint pains, and diarrhea, among others. It results in a greater risk of infections which can be potentially serious. Use during pregnancy often results in problems in the infant.
+
+Paclitaxel was discovered in 1962 as a result of a U.S. National Cancer Institute-funded screening program; being isolated from the bark of the Pacific yew, Taxus brevifolia, thus its name "taxol". Developed commercially by Bristol-Myers Squibb, the generic name has changed to "paclitaxel" with a trademark becoming Taxol. Other trademarks include Abraxane. Clinicians sometimes use the abbreviation "PTX" for paclitaxel, which is discouraged, because it is not a unique identifier.
+
+Paclitaxel is on the World Health Organization's List of Essential Medicines, a list of the most important medication needed in a basic health system. There was initially concern over the environmental impact of its initial sourcing from the slow growing Pacific yew. In addition, both the assignment of rights to Bristol-Myers Squibb and the product name were subject to public debate and Congressional hearings.
+
+1. Medical use
+
+Paclitaxel is approved in the UK for ovarian, breast and lung, bladder, prostate, melanoma, esophageal, and other types of solid tumor cancers as well as Kaposi's sarcoma. It is recommended in NICE guidance of June 2001 that it should be used for nonsmall cell lung cancer in patients unsuitable for curative treatment, and in first-line and second-line treatment of ovarian cancer. In September 2001, NICE recommended paclitaxel should be available for the treatment of advanced breast cancer after the failure of anthracyclic chemotherapy, but that its first-line use should be limited to clinical trials. In September 2006, NICE recommended paclitaxel should not be used in the adjuvant treatment of early node-positive breast cancer.
+
+1.1. Similar compounds
+
+Albumin-bound paclitaxel (trade name Abraxane, also called nab-paclitaxel) is an alternative formulation where paclitaxel is bound to albumin nano-particles. Much of the clinical toxicity of paclitaxel is associated with the solvent Cremophor EL in which it is dissolved for delivery. Abraxis BioScience developed Abraxane, in which paclitaxel is bonded to albumin as an alternative delivery agent to the often toxic solvent delivery method. This was approved by the U.S. Food and Drug Administration in January 2005 for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within six months of adjuvant chemotherapy.
+
+Nanoparticle-bound docetaxel is currently being studied in human clinical trials.
+
+Synthetic approaches to paclitaxel production led to the development of docetaxel. Docetaxel has a similar set of clinical uses to paclitaxel and is marketed under the name of Taxotere.
+
+Recently the presence of taxanes including paclitaxel, 10-deacetylbaccatin III, baccatin III, paclitaxel C, and 7-epipaclitaxel in the shells and leaves of hazel plants has been reported. The finding of these compounds in shells, which are considered discarded material and are mass-produced by many food industries, is of interest for the future availability of paclitaxel.
+
+1.2. Restenosis
+
+Paclitaxel is used as an antiproliferative agent for the prevention of restenosis (recurrent narrowing) of coronary and peripheral stents; locally delivered to the wall of the artery, a paclitaxel coating limits the growth of neointima (scar tissue) within stents. Paclitaxel drug eluting coated stents for coronary artery placement are sold under the trade name Taxus by Boston Scientific in the United States. Paclitaxel drug eluting coated stents for femoropopliteal artery placement are sold under the trade name Zilver PTX by Cook Medical, Inc.
+
+2. Side effects
+
+Common side effects include nausea and vomiting, loss of appetite, change in taste, thinned or brittle hair, pain in the joints of the arms or legs lasting two to three days, changes in the color of the nails, and tingling in the hands or toes. More serious side effects such as unusual bruising or bleeding, pain/redness/swelling at the injection site, Hand-foot syndrome, change in normal bowel habits for more than two days, fever, chills, cough, sore throat, difficulty swallowing, dizziness, shortness of breath, severe exhaustion, skin rash, facial flushing, female infertility by ovarian damage and chest pain can also occur. A number of these side effects are associated with the excipient used, Cremophor EL, a polyoxyethylated castor oil. Allergies to drugs such as cyclosporine, teniposide and drugs containing polyoxyethylated castor oil may indicate increased risk of adverse reactions to paclitaxel. Dexamethasone is given prior to beginning paclitaxel treatment to mitigate some of the side effects. Leuprolide, a GnRH analog may prevent ovarian damage, according to mice studies.
+
+3. Mechanism of action
+
+Paclitaxel is one of several cytoskeletal drugs that target tubulin. Paclitaxel-treated cells have defects in mitotic spindle assembly, chromosome segregation, and cell division. Unlike other tubulin-targeting drugs such as colchicine that inhibit microtubule assembly, paclitaxel stabilizes the microtubule polymer and protects it from disassembly. Chromosomes are thus unable to achieve a metaphase spindle configuration. This blocks progression of mitosis, and prolonged activation of the mitotic checkpoint triggers apoptosis or reversion to the G-phase of the cell cycle without cell division.
+
+The ability of paclitaxel to inhibit spindle function is generally attributed to its suppression of microtubule dynamics, but recent studies have demonstrated that suppression of dynamics occurs at concentrations lower than those needed to block mitosis. At the higher therapeutic concentrations, paclitaxel appears to suppress microtubule detachment from centrosomes, a process normally activated during mitosis. Paclitaxel binds to beta-tubulin subunits of microtubules.
+
+4. Research use
+
+Aside from its direct clinical use, paclitaxel is used extensively in biological and biomedical research as a microtubule stabilizer. In general, in vitro assays involving microtubules, such as motility assays, rely on paclitaxel to maintain microtubule integrity in the absence of the various nucleating factors and other stabilizing elements found in the cell. For example, it is used for in vitro tests of drugs that aim to alter the behavior of microtubule motor proteins, or for studies of mutant motor proteins. Paclitaxel is sometimes used for in vivo studies as well; it can be fed to test organisms, such as fruit flies, or injected into individual cells, to inhibit microtubule disassembly or to increase the number of microtubules in the cell. Paclitaxel induces remyelination in a demyelinating mouse in vivo and inhibits hPAD2 in vitro though its methyl ester side chain did not. Angiotech Pharmaceuticals Inc. began phase II clinical trials in 1999 as a multiple sclerosis treatment but in 2002, reported that the results showed no statistical significance.
+
+4.1. Delivery-related paclitaxel derivatives
+
+In recent years, extensive research has been done to find a way to mitigate the side effects of paclitaxel, by altering its administration. DHA-paclitaxel, PG-paclitaxel, and tumor-activated taxol prodrugs are undergoing continued testing, and are actually on the way to being introduced into widespread clinical use.
+
+Protarga has linked paclitaxel to docosahexaenoic acid (DHA), a fatty acid easily taken up by tumor cells; the DHA-paclitaxel “appears not to be cytotoxic until the bond with DHA is cleaved within the cell.” The advantage of DHA-paclitaxel over paclitaxel is DHA-paclitaxel’s ability to carry much higher concentrations of paclitaxel to the cells, which are maintained for longer periods in the tumor cells, thus increasing their action. With increased activity, DHA-paclitaxel, also known as Taxoprexin, may have a more successful response in cancer patients than paclitaxel, and it may be able to treat more types of cancer than paclitaxel has been able to treat.
+
+Cell Therapeutics has formulated PG-paclitaxel, which is paclitaxel bonded to a polyglutamate polymer; tumor cells are significantly more porous to polyglutamate polymers than normal cells, due to the leaky endothelial membranes of tumor cells. PG-paclitaxel has been introduced into clinical use, and has proven to initiate very mild side effects and to effectively treat many patients who were not responsive to the action of Taxol. The PG-paclitaxel may be a very promising anticancer drug, as it is much more selective than paclitaxel for which cells it targets.
+
+ImmunoGen has been introducing tumor-activated prodrug (TAP) technology in recent years, and is now working to apply this technology to paclitaxel. Tumor-activated paclitaxel prodrugs are designed for accurate targeting, by the action of a monoclonal antibody that is very specific to certain cells. Tumor-activated Taxol prodrugs research is progressing, and, in mice, the “taxane-based TAP completely eradicated human tumour xenografts at non-toxic doses.”
+
+ANG1005 is made up of one molecule of a peptide called angiopep-2 joined with three molecules of paclitaxel. It is in phase I clinical trials for some types of cancer.
+
+5. Production
+
+From 1967 to 1993, almost all paclitaxel produced was derived from bark from the Pacific yew, the harvesting of which kills the tree in the process. The processes used were descendants of the original isolation method of Wall and Wani; by 1987, the NCI had contracted Hauser Chemical Research of Boulder, Colorado, to handle bark on the scale needed for Phase II and III trials. While both the size of the wild population of Taxus brevifola and the magnitude of the eventual demand for taxol were uncertain, it was clear for many years that an alternative, sustainable source of supply of the natural product would be needed. Initial attempts to broaden its sourcing used needles from the tree, or material from other related Taxus species, including cultivated ones, but these attempts were challenged by the relatively low and often highly variable yields obtained. Early in the 1990s, coincident with increased sensitivity to the ecology of the forests of the Pacific Northwest, taxol was successfully extracted on a clinically useful scale from these sources.
+
+Concurrently, synthetic chemists in the US and France had been interested in taxol, beginning in the late 1970s. As noted, by 1992 extensive efforts were underway to accomplish the total synthesis of paclitaxel, efforts motivated by the desire to generate new chemical understanding rather than to achieve practical commercial production. In contrast, the French group of Pierre Potier at the Centre national de la recherche scientifique (CNRS) addressed the matter of overall process yield, showing that it was feasible to isolate relatively large quantities of the compound 10-deacetylbaccatin from yew, Taxus baccata, which grew on the CNRS campus and whose needles were available in large quantity. By virtue of its structure, 10-deacetylbaccatin was seen as a viable starting material for a short semisynthesis to produce taxol. By 1988 Poitier and collaborators had published a semisynthetic route from needles of T. baccata to taxol.
+
+The view of the NCI, however, was even this route was not practical. The group of Robert A. Holton had also pursued a practical semisynthetic production route; by late 1989, Holton's group had developed a semisynthetic route to paclitaxel with twice the yield of the Potier process. Florida State University, where Holton worked, signed a deal with Bristol-Myers Squibb to license their semisynthesis and future patents. In 1992, Holton patented an improved process with an 80% yield, and BMS took the process in-house and started to manufacture paclitaxel in Ireland from 10-deacetylbaccatin isolated from the needles of the European yew. In early 1993, BMS was able to announce that it would cease reliance on Pacific yew bark by the end of 1995, effectively terminating ecological controversy over its use. This announcement also made good their commitment to develop an alternative supply route, made to the NCI in their CRADA application of 1989.
+
+Currently, all paclitaxel production for BMS uses plant cell fermentation (PCF) technology developed by the Ithaca, New York biotechnology company Phyton Biotech, Inc. and carried out at their plant in Germany. PCF uses a specific Taxus cell line propagated in aqueous medium in large fermentation tanks with the endophytic fungus Penicillium raistrickii. Paclitaxel is then extracted directly, purified by chromatography and isolated by crystallization. Compared to the semisynthesis, PCF eliminates the need for many hazardous chemicals and saves a considerable amount of energy.
+
+In 1993, taxol was discovered as a natural product in a newly described endophytic fungus living in the yew tree. It has since been reported in a number of other endophytic fungi, including Nodulisporium sylviforme, Alternaria taxi, Cladosporium cladosporioides MD2, Metarhizium anisopliae, Aspergillus candidus MD3, Mucor rouxianus sp., Chaetomella raphigera, Phyllosticta tabernaemontanae, Phomopsis, Pestalotiopsis pauciseta, Phyllosticta citricarpa, Podocarpus,Fusarium solani, Pestalotiopsis terminaliae, Pestalotiopsis breviseta, Botryodiplodia theobromae Pat., Gliocladium sp., Alternaria alternata var. monosporus, Cladosporium cladosporioides, Nigrospora sp., Pestalotiopsis versicolor, and Taxomyces andreanae. However, there has been contradictory evidence for its production by endophytes, with other studies finding independent production is unlikely.
+
+5.1. Biosynthesis
+
+The core synthetic route is via a terpenoid pathway, parts of which having been successfully transplanted into production strains of E.coli and yeast.
+
+5.2. Synthesis
+
+By 1992, at least thirty academic research teams globally were working to achieve a total synthesis of this natural product, with the synthesis proceeding from simple natural products and other readily available starting materials. This total synthesis effort was motivated primarily by the desire to generate new chemical understanding, rather than with an expectation of the practical commercial production of paclitaxel. The first laboratories to complete the total synthesis from much less complex starting materials were the research groups of Robert A. Holton, who had the first article to be accepted for publication, and of K. C. Nicolaou who had the first article to appear in print (by a week, on 7 February 1994). Though the Holton submission preceded the Nicolaou by a month (21 December 1993 versus 24 January 1994), the near coincidence of the publications arising from each of these massive, multiyear efforts—11-18 authors appearing on each of the February 1994 publications—has led the ending of the race to be termed a "tie" or a "photo finish", though each group has argued that their synthetic strategy and tactics were superior.
+
+As of 2007, five additional research groups have joined the initial two in successful total syntheses: Wender et al. in 1997, and Kuwajima et al. and Mukaiyama et al. in 1998 with further linear syntheses, and Danishefsky et al. in 1996 and Takahashi et al. in 2006 with further convergent syntheses. All strategies aim to prepare a 10-Deacetylbaccatin-type core containing the ABCD ring system, followed generally by last stage addition of the "tail" to the 13-hydroxyl group.
+
+While the "political climate surrounding taxol and Taxus brevifolia in the early 1990s… helped bolster [a] link between total synthesis and the [taxol] supply problem", and though total synthesis activities were a requisite to explore the structure-activity relationships of taxol via generation of analogs for testing, the total synthesis efforts were never seen "as a serious commercial route" to provide significant quantities of the natural product for medical testing or therapeutic use.
+
+6. History
+
+Paclitaxel was discovered as a part of a U.S. National Cancer Institute screening program, by Monroe E. Wall and Mansukh C. Wani at the Research Triangle Institute, Research Triangle Park, North Carolina, in 1967. These scientists isolated the natural product from the bark of the Pacific yew tree, Taxus brevifolia, determined its structure and named it "taxol", and arranged for its first biological testing. The compound was then developed commercially by Bristol-Myers Squibb (BMS), who had the generic name assigned as "paclitaxel".
+
+6.1. Plant screening program
+
+In 1955, the National Cancer Institute (NCI) in the United States set up the Cancer Chemotherapy National Service Center (CCNSC) to act as a public screening center for anticancer activity in compounds submitted by external institutions and companies. Although the majority of compounds screened were of synthetic origin, one chemist, Jonathan Hartwell, who was employed there from 1958 onwards, had had experience with natural product derived compounds, and began a plant screening operation. After some years of informal arrangements, in July 1960, the NCI commissioned USDA botanists to collect samples from about 1000 plant species per year. On 21 August 1962, one of those botanists, Arthur S. Barclay, collected bark from a single Pacific yew tree, Taxus brevifolia, in a forest north of the town of Packwood, Washington as part of a four-month trip to collect material from over 200 different species. The material was then processed by a number of specialist CCNSC subcontractors, and one of the Taxus samples was found to be cytotoxic in a cellular assay on 22 May 1964.
+
+Accordingly, in late 1964 or early 1965, the fractionation and isolation laboratory run by Monroe E. Wall in Research Triangle Park, North Carolina, began work on fresh Taxus samples, isolating the active ingredient in September 1966 and announcing their findings at an April 1967 American Chemical Society meeting in Miami Beach. They named the pure compound taxol in June 1967. Wall and his colleague Wani published their results, including the chemical structure, in 1971.
+
+The NCI continued to commission work to collect more Taxus bark and to isolate increasing quantities of taxol. By 1969, 28 kg of crude extract had been isolated from almost 1,200 kg of bark, although this ultimately yielded only 10g of pure material, but for several years, no use was made of the compound by the NCI. In 1975, it was shown to be active in another in vitro system; two years later, a new department head reviewed the data and finally recommended taxol be moved on to the next stage in the discovery process. This required increasing quantities of purified taxol, up to 600 g, and in 1977 a further request for 7,000 lbs of bark was made.
+
+In 1978, two NCI researchers published a report showing taxol was mildly effective in leukaemic mice. In November 1978, taxol was shown to be effective in xenograft studies. Meanwhile, taxol began to be well known in the cell biology, as well as the cancer community, with a publication in early 1979 by Susan B. Horwitz, a molecular pharmacologist at Albert Einstein College of Medicine, showing taxol had a previously unknown mechanism of action involving the stabilization of microtubules. Together with formulation problems, this increased interest from researchers meant that, by 1980, the NCI envisaged needing to collect 20,000 lbs of bark. Animal toxicology studies were complete by June 1982, and in November NCI applied for the IND necessary to begin clinical trials in humans.
+
+6.2. Early clinical trials, supply and the transfer to BMS
+
+Phase I clinical trials began in April 1984, and the decision to start Phase II trials was made a year later. These larger trials needed more bark and collection of a further 12,000 pounds was commissioned, which enabled some phase II trials to begin by the end of 1986. But by then it was recognized that the demand for taxol might be substantial and that more than 60,000 pounds of bark might be needed as a minimum. This unprecedentedly large amount brought ecological concerns about the impact on yew populations into focus for the first time, as local politicians and foresters expressed unease at the program.
+
+The first public report from a phase II trial in May 1988 showed an effect in melanoma patients and a remarkable response rate of 30% in patients with refractory ovarian cancer. At this point, Gordon Cragg of the NCI's Natural Product Branch calculated the synthesis of enough taxol to treat all the ovarian cancer and melanoma cases in the US would require the destruction of 360,000 trees annually. For the first time, serious consideration was given to the problem of supply. Because of the practical and, in particular, the financial scale of the program needed, the NCI decided to seek association with a pharmaceutical company, and in August 1989, it published a Cooperative Research and Development Agreement (CRADA) offering its current stock and supply from current bark stocks, and proprietary access to the data so far collected, to a company willing to commit to providing the funds to collect further raw material, isolate taxol, and fund a large proportion of clinical trials. In the words of Goodman and Welsh, authors of a substantial scholarly book on taxol, "The NCI] was thinking, not of collaboration, ... but of a hand-over of taxol (and its problems)".
+
+Although the offer was widely advertised, only four companies responded to the CRADA, including the American firm Bristol-Myers Squibb (BMS), which was selected as the partner in December 1989. The choice of BMS later became controversial and was the subject of Congressional hearings in 1991 and 1992. While it seems clear the NCI had little choice but to seek a commercial partner, there was also controversy about the terms of the deal, eventually leading to a report by the General Accounting Office in 2003, which concluded the NIH had failed to ensure value for money. In related CRADAs with the USDA and Department of the Interior, Bristol-Myers Squibb was given exclusive first refusal on all Federal supplies of Taxus brevifolia. This exclusive contract lead to some criticism for giving BMS a "cancer monopoly". Eighteen months after the CRADA, BMS filed a new drug application (NDA), which was given FDA approval at the very end of 1992. Although there was no patent on the compound, the provisions of the Waxman-Hatch Act gave Bristol-Myers Squibb five years exclusive marketing rights.
+
+In 1990, BMS applied to trademark the name taxol as Taxol(R). This was controversially approved in 1992. At the same time, paclitaxel replaced taxol as the generic (INN) name of the compound. Critics, including the journal Nature, argued the name taxol had been used for more than two decades and in more than 600 scientific articles and suggested the trademark should not have been awarded and the BMS should renounce its rights to it. BMS argued changing the name would cause confusion among oncologists and possibly endanger the health of patients. BMS has continued to defend its rights to the name in the courts. BMS has also been criticized for misrepresentation by Goodman and Walsh, who quote from a company report saying "It was not until 1971 that ... testing ... enabled the isolation of paclitaxel, initially described as 'compound 17". This quote is, strictly speaking, accurate: the objection seems to be that this misleadingly neglects to explain that it was the scientist doing the isolation who named the compound taxol and it was not referred to in any other way for more than twenty years.
+
+Annual sales peaked in 2000, reaching US$1.6 billion; paclitaxel is now available in generic form.
+
+7. Nomenclature
+
+The nomenclature for paclitaxel is structured on a tetracyclic 17-carbon (heptadecane) skeleton. There are a total of 11 stereocenters. The active stereoisomer is (-)-paclitaxel (shown here).
+
+8. Cost
+
+The cost to the NHS per patient in early breast cancer, assuming four cycles of treatment, is about £4000 (approx. $6000).
+
+9. Research
+
+A recent study suggested that caffeine may act inhibitory on paclitaxels' pro-apoptotic effect in colorectal cancer cells.
+
+10. Additional images
+
+Image:Taxol.jpg|Space-filling model of paclitaxel Image:Taxol.gif|Rotated paclitaxel molecule model Image:Paclitaxel JMolBiol 2001 1045.jpg|Crystal structure of paclitaxel.
+
+11. References
+
+12. External links
+
+.
+
+by Neil Edwards, University of Bristol.
+
+from Florida State University.

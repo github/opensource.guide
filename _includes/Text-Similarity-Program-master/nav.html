@@ -1,0 +1,48 @@
+{% assign t = site.data.locales[page.lang][page.lang] %}
+<nav class="main-nav">
+  <div class="container-lg mx-auto clearfix">
+    <div class="float-sm-right">
+      <ul class="main-links d-flex flex-wrap flex-items-stretch flex-justify-center border-left border-bottom border-sm-0 list-style-none">
+        <li class="d-inline-block border-right">
+          <a class="d-block p-4" href="https://github.com/github/opensource.guide#readme">
+            {{ t.nav.about }}
+          </a>
+        </li>
+        <li class="d-inline-block border-right">
+          <a class="d-block p-4" href="https://github.com/github/opensource.guide/blob/master/CONTRIBUTING.md">
+            {{ t.nav.contribute }}
+          </a>
+        </li>
+        {% if page.lang and site.data.locales.size > 1 %}
+        <li class="d-inline-block">
+          <div class="p-3">
+            <select id="language" class="form-select">
+              {% assign locales = site.data.locales | sort %}
+              {% for locale in locales %}
+                {% assign lang = locale[0] %}
+                {% assign locale_name = locale[1][lang].locale_name %}
+                {% if page.lang == lang %}
+                <option value="{{ lang }}" selected="selected">{{ locale_name }}</option>
+                {% else %}
+                <option value="{{ lang }}">{{ locale_name }}</option>
+                {% endif %}
+              {% endfor %}
+            </select>
+          </div>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+    {% if page.layout != 'index' %}
+    <div class="float-sm-left pl-3 breadcrumb">
+      <p class="my-0 py-3 py-sm-4 text-gray">
+        {% if page.lang != 'en' %}
+        <a href="/{{ page.lang }}/" class="text-gray">{{ site.title }}</a>
+        {% else %}
+        <a href="/" class="text-gray">{{ site.title }}</a>
+        {% endif %}
+      </p>
+    </div>
+    {% endif %}
+  </div>
+</nav>

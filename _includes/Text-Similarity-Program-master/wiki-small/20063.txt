@@ -1,0 +1,79 @@
+MPEG-4 is a method of defining compression of audio and visual (AV) digital data. It was introduced in late 1998 and designated a standard for a group of audio and video coding formats and related technology agreed upon by the ISO/IEC Moving Picture Experts Group (MPEG) (ISO/IEC JTC1/SC29/WG11) under the formal standard ISO/IEC 14496 – Coding of audio-visual objects. Uses of MPEG-4 include compression of AV data for web (streaming media) and CD distribution, voice (telephone, videophone) and broadcast television applications.
+
+1. Background
+
+MPEG-4 absorbs many of the features of MPEG-1 and MPEG-2 and other related standards, adding new features such as (extended) VRML support for 3D rendering, object-oriented composite files (including audio, video and VRML objects), support for externally specified Digital Rights Management and various types of interactivity. AAC (Advanced Audio Coding) was standardized as an adjunct to MPEG-2 (as Part 7) before MPEG-4 was issued.
+
+MPEG-4 is still an evolving standard and is divided into a number of parts. Companies promoting MPEG-4 compatibility do not always clearly state which "part" level compatibility they are referring to. The key parts to be aware of are MPEG-4 Part 2 (including Advanced Simple Profile, used by codecs such as DivX, Xvid, Nero Digital and 3ivx and by QuickTime 6) and MPEG-4 part 10 (MPEG-4 AVC/H.264 or Advanced Video Coding, used by the x264 encoder, Nero Digital AVC, QuickTime 7, and high-definition video media like Blu-ray Disc).
+
+Most of the features included in MPEG-4 are left to individual developers to decide whether or not to implement. This means that there are probably no complete implementations of the entire MPEG-4 set of standards. To deal with this, the standard includes the concept of "profiles" and "levels", allowing a specific set of capabilities to be defined in a manner appropriate for a subset of applications.
+
+Initially, MPEG-4 was aimed primarily at low bit-rate video communications; however, its scope as a multimedia coding standard was later expanded. MPEG-4 is efficient across a variety of bit-rates ranging from a few kilobits per second to tens of megabits per second. MPEG-4 provides the following functions:
+
+Improved coding efficiency over MPEG-2
+
+Ability to encode mixed media data (video, audio, speech)
+
+Error resilience to enable robust transmission
+
+Ability to interact with the audio-visual scene generated at the receiver
+
+2. Overview
+
+MPEG-4 provides a series of technologies for developers, for various service-providers and for end users:
+
+MPEG-4 enables different software and hardware developers to create multimedia objects possessing better abilities of adaptability and flexibility to improve the quality of such services and technologies as digital television, animation graphics, the World Wide Web and their extensions.
+
+Data network providers can use MPEG-4 for data transparency. With the help of standard procedures, MPEG-4 data can be interpreted and transformed into other signal types compatible with any available network.
+
+The MPEG-4 format provides end users with a wide range of interaction with various animated objects.
+
+Standardized Digital Rights Management signaling, otherwise known in the MPEG community as Intellectual Property Management and Protection (IPMP). The MPEG-4 format can perform various functions, among which might be the following:
+
+Multiplexes and synchronizes data, associated with media objects, in such a way that they can be efficiently transported further via network channels.
+
+Interaction with the audio-visual scene, which is formed on the side of the receiver.
+
+2.1. Profiles and Levels
+
+MPEG-4 provides a large and rich set of tools for encoding. Subsets of the MPEG-4 tool sets have been provided for use in specific applications. These subsets, called 'Profiles', limit the size of the tool set a decoder is required to implement. In order to restrict computational complexity, one or more 'Levels' are set for each Profile. A Profile and Level combination allows:
+
+A codec builder to implement only the subset of the standard needed, while maintaining interworking with other MPEG-4 devices that implement the same combination.
+
+Checking whether MPEG-4 devices comply with the standard, referred to as conformance testing.
+
+3. MPEG-4 Parts
+
+MPEG-4 consists of several standards—termed "parts"—including the following (each part covers a certain aspect of the whole specification):
+
+Profiles are also defined within the individual "parts", so an implementation of a part is ordinarily not an implementation of an entire part.
+
+MPEG-1, MPEG-2, MPEG-7 and MPEG-21 are other suites of MPEG standards.
+
+4. MPEG-4 Levels
+
+The low profile levels are part of the MPEG-4 video encoding/decoding constraints and are compatible with the older ITU H.261 standard, also compatible with former analog TV standards for broadcast and records (such as NTSC or PAL video). The ASP profile in its highest level is suitable for most usual DVD medias and players or for many online video sites, but not for Blu-ray records or online HD video contents.
+
+More advanced profiles for HD media have been defined later in the AVC profile, which is functionally identical to the ITU H.264 standard but are now also integrated in MPEG-4 Part 10 (see H.264/MPEG-4 AVC for the list of defined levels in this AVC profile).
+
+5. Licensing
+
+MPEG-4 contains patented technologies, the use of which requires licensing in countries that acknowledge software algorithm patents. Over two dozen companies claim to have patents covering MPEG-4. MPEG LA licenses patents required for MPEG-4 Part 2 Visual from a wide range of companies (audio is licensed separately) and lists all of its licensors and licensees on the site. New licenses for MPEG-4 System patents are under development and no new licenses are being offered while holders of its old MPEG-4 Systems license are still covered under the terms of that license for the patents listed ().
+
+AT&T is trying to sue companies such as Apple Inc. over alleged MPEG-4 patent infringement. The terms of Apple's QuickTime 7 license for users describes in paragraph 14 the terms under Apple's existing MPEG-4 System Patent Portfolio license from MPEGLA.
+
+6. See also
+
+MPEG
+
+MPEG-4 Structured Audio
+
+MPEG-4 SLS
+
+ISO/IEC JTC 1/SC 29
+
+7. References
+
+8. External links
+
+at the MPEG Official Website

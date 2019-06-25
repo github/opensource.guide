@@ -1,0 +1,155 @@
+A MUD (; originally Multi-User Dungeon, with later variants Multi-User Dimension and Multi-User Domain), is a multiplayer real-time virtual world, usually text-based. MUDs combine elements of role-playing games, hack and slash, player versus player, interactive fiction, and online chat. Players can read or view descriptions of rooms, objects, other players, non-player characters, and actions performed in the virtual world. Players typically interact with each other and the world by typing commands that resemble a natural language. Traditional MUDs implement a role-playing video game set in a fantasy world populated by fictional races and monsters, with players choosing classes in order to gain specific skills or powers. The objective of this sort of game is to slay monsters, explore a fantasy world, complete quests, go on adventures, create a story by roleplaying, and advance the created character. Many MUDs were fashioned around the dice-rolling rules of the Dungeons & Dragons series of games.
+
+Such fantasy settings for MUDs are common, while many others have science fiction settings or are based on popular books, movies, animations, periods of history, worlds populated by anthropomorphic animals, and so on. Not all MUDs are games; some are designed for educational purposes, while others are purely chat environments, and the flexible nature of many MUD servers leads to their occasional use in areas ranging from computer science research to geoinformatics to medical informatics to analytical chemistry. MUDs have attracted the interest of academic scholars from many fields, including communications, sociology, law, and economics. At one time, there was interest from the United States military in using them for teleconferencing.
+
+Most MUDs are run as hobbies and are free to players; some may accept donations or allow players to purchase virtual items, while others charge a monthly subscription fee. MUDs can be accessed via standard telnet clients, or specialized MUD clients which are designed to improve the user experience. Numerous games are listed at various web portals, such as The Mud Connector.
+
+The history of modern massively multiplayer online role-playing games (MMORPGs) like EverQuest and Ultima Online, and related virtual world genres such as the social virtual worlds exemplified by Second Life, traces directly back to the MUD genre. Indeed, before the invention of the term MMORPG, games of this style were simply called graphical MUDs. A number of influential MMORPG designers began as and/or players (such as Raph Koster, Brad McQuaid, Matt Firor, and Brian Green) or were involved with early MUDs (like Mark Jacobs and J. Todd Coleman).
+
+1. Origins
+
+Colossal Cave Adventure, created in 1975 by Will Crowther on a DEC PDP-10 computer, was the first widely used adventure game. The game was significantly expanded in 1976 by Don Woods. Also called Adventure, it contained many D&D features and references, including a computer controlled dungeon master.
+
+Inspired by Adventure, a group of students at MIT in the summer of 1977 wrote a game for the PDP-10 minicomputer; called Zork, it became quite popular on the ARPANET. Zork was ported, under the filename DUNGEN ("dungeon"), to FORTRAN by a programmer working at DEC in 1978.
+
+In 1978 Roy Trubshaw, a student at Essex University in the UK, started working on a multi-user adventure game in the MACRO-10 assembly language for a DEC PDP-10. He named the game MUD (Multi-User Dungeon), in tribute to the Dungeon variant of Zork, which Trubshaw had greatly enjoyed playing. Trubshaw converted MUD to BCPL (the predecessor of C), before handing over development to Richard Bartle, a fellow student at Essex University, in 1980.
+
+MUD, better known as Essex MUD and MUD1 in later years, ran on the Essex University network until late 1987, becoming the first Internet multiplayer online role-playing game in 1980, when Essex University connected its internal network to ARPANet. The game revolved around gaining points till one achieved the Wizard rank, giving the character immortality and special powers over mortals. The game became more widely accessible when a guest account was set up that allowed users on JANET (a British academic X.25 computer network) to connect on weekends and between the hours of 2 AM and 8 AM on weekdays. MUD1 was reportedly closed down when Richard Bartle licensed MUD1 to CompuServe, and was getting pressure from them to close Essex MUD. This left MIST, a derivative of MUD1 with similar gameplay, as the only remaining MUD running on the Essex University network, becoming one of the first of its kind to attain broad popularity. MIST ran until the machine that hosted it, a PDP-10, was superseded in early 1991.
+
+During the Christmas of 1985, Neil Newell, an avid MUD1 player, started programming his own MUD called SHADES because MUD1 was closed down during the holidays. Starting out as a hobby, SHADES became accessible in the UK as a commercial MUD via British Telecom's Prestel and Micronet networks. A scandal on SHADES led to the closure of Micronet, as described in Indra Sinha's net-memoir, The Cybergypsies.
+
+In 1985 Pip Cordrey gathered some people on a BBS he ran to create a MUD1 clone that would run on a home computer. The tolkienesque MUD went live in 1986 and was named MirrorWorld.
+
+1985 also saw the creation of Gods by Ben Laurie, a MUD1 clone that included online creation in its endgame. Gods became a commercial MUD in 1988.
+
+In 1985 CompuNet started a project named Multi-User Galaxy Game as a Science Fiction alternative to MUD1 which ran on their system at the time. When one of the two programmers left CompuNet, the remaining programmer, Alan Lenton, decided to rewrite the game from scratch and named it Federation II (at the time no Federation I existed). The MUD was officially launched in 1989. Federation II was later picked up by AOL, where it became known simply as "Federation: Adult Space Fantasy". Federation later left AOL to run on its own after AOL began offering unlimited service.
+
+In 1978, around the same time Roy Trubshaw wrote MUD, Alan E. Klietz wrote a game called Milieu using Multi-Pascal on a CDC Cyber 6600 series mainframe which was operated by the Minnesota Educational Computing Consortium. Klietz ported Milieu to an IBM XT in 1983, naming the new port Scepter of Goth. Scepter supported 10 to 16 simultaneous users, typically connecting in by modem. It was one of the first commercial MUDs; franchises were sold to a number of locations. Scepter was first owned and run by GamBit (of Minneapolis, Minnesota), founded by Bob Alberti. GamBit's assets were later sold to Interplay Productions. Interplay eventually went bankrupt.
+
+In 1984, Mark Peterson wrote The Realm of Angmar, beginning as a clone of Scepter of Goth. In 1994, Peterson rewrote The Realm of Angmar, adapting it to MS-DOS (the basis for many dial-in BBS systems), and renamed it Swords of Chaos. For a few years this was a very popular form of MUD, hosted on a number of BBS systems, until widespread Internet access eliminated most BBSes.
+
+In 1984, Mark Jacobs created and deployed a commercial gaming site, Gamers World. The site featured two games coded and designed by Jacobs, a MUD called Aradath (which was later renamed, upgraded and ported to GEnie as Dragon's Gate) and a 4X science-fiction game called Galaxy, which was also ported to GEnie. At its peak, the site had about 100 monthly subscribers to both Aradath and Galaxy. GEnie was shut down in the late 1980s, although Dragon's Gate was later brought to America Online before it was finally released on its own. Dragon's Gate was closed on February 10, 2007.
+
+In the summer of 1980 University of Virginia classmates John Taylor and Kelton Flinn wrote Dungeons of Kesmai, a six player game inspired by Dungeons & Dragons which used Roguelike ASCII graphics. They founded the Kesmai company in 1982 and in 1985 an enhanced version of Dungeons of Kesmai, Island of Kesmai, was launched on CompuServe. Later, its 2-D graphical descendant Legends of Kesmai was launched on AOL in 1996. The games were retired commercially in 2000.
+
+The popularity of MUDs of the Essex University tradition escalated in the USA during the late 1980s when affordable personal computers with 300 to 2400 bit/s modems enabled role-players to log into multi-line Bulletin Board Systems and online service providers such as CompuServe. During this time it was sometimes said that MUD stands for "Multi Undergraduate Destroyer" due to their popularity among college students and the amount of time devoted to them.
+
+2. Spread
+
+2.1. AberMUD
+
+The first popular MUD codebase was AberMUD, written in 1987 by Alan Cox, named after the University of Wales, Aberystwyth. Alan Cox had played the original University of Essex MUD, and the gameplay was heavily influenced by it. AberMUD was initially written in B for a Honeywell L66 mainframe under GCOS3/TSS. In late 1988 it was ported to C, which enabled it to spread rapidly to many Unix platforms upon its release in 1989. AberMUD's popularity resulted in several inspired works, the most notable of which were TinyMUD, LPMud, and DikuMUD.
+
+2.2. TinyMUD
+
+Monster was a multi-user adventure game created by Richard Skrenta for the VAX and written in VMS Pascal. It was publicly released in November 1988. Monster was disk-based and modifications to the game were immediate. Monster pioneered the approach of allowing players to build the game world, setting new puzzles or creating dungeons for other players to explore. Monster, which comprised about 60,000 lines of code, had a lot of features which appeared to be designed to allow Colossal Cave Adventure to work in it. Though there never were many network-accessible Monster servers, it inspired James Aspnes to create a stripped down version of Monster which he called TinyMUD.
+
+TinyMUD, written in C and released in late 1989, spawned a number of descendants, including TinyMUCK and TinyMUSH. TinyMUCK version 2 contained a full programming language named MUF (Multi-User Forth), while MUSH greatly expanded the command interface. To distance itself from the combat-oriented traditional MUDs it was said that the "D" in TinyMUD stood for Multi-User "Domain" or "Dimension"; this, along with the eventual popularity of acronyms other than MUD (such as MUCK, MUSH, MUSE, and so on) for this kind of server, led to the eventual adoption of the term MU* to refer to the TinyMUD family. UberMUD, UnterMUD, and MOO were inspired by TinyMUD but are not direct descendants.
+
+2.3. LPMud
+
+In 1989 LPMud was developed by Lars Pensjö (hence the LP in LPMud). Pensjö had been an avid player of TinyMUD and AberMUD and wanted to create a world with the flexibility of TinyMUD and the gameplay of AberMUD. In order to accomplish this he wrote what is nowadays known as a virtual machine, which he called the LPMud driver, that ran the C-like LPC programming language used to create the game world. Pensjö's interest in LPMud eventually waned and development was carried on by others such as Jörn "Amylaar" Rennecke, Felix "Dworkin" Croes, Tim "Beek" Hollebeek and Lars Düning. During the early 1990s, LPMud was one of the most popular MUD codebases. Descendants of the original LPMud include MudOS, DGD, SWLPC, FluffOS, and the Pike programming language, the latter the work of long-time LPMud developer Fredrik "Profezzorn" Hübinette.
+
+2.4. DikuMUD
+
+In 1990, the release of DikuMUD, which was inspired by AberMUD, led to a virtual explosion of hack and slash MUDs based upon its code. DikuMUD inspired numerous derivative codebases, including CircleMUD, Merc, ROM, SMAUG, and GodWars. The original Diku team comprised Sebastian Hammer, Tom Madsen, Katja Nyboe, Michael Seifert, and Hans Henrik Staerfeldt. DikuMUD had a key influence on the early evolution of the MMORPG genre, with EverQuest (created by avid DikuMUD player Brad McQuaid) displaying such Diku-like gameplay that Verant developers were made to issue a sworn statement that no actual DikuMUD code was incorporated.
+
+2.5. Simutronics
+
+In 1987 David Whatley, having previously played Scepter of Goth and Island of Kesmai, founded Simutronics with Tom and Susan Zelinski. In the same year they demonstrated a prototype of GemStone to GEnie. After a short-lived instance of GemStone II, GemStone III was officially launched in February 1990. GemStone III became available on AOL in September 1995, followed by the release of DragonRealms in February 1996. By the end of 1997 GemStone III and DragonRealms had become the first and second most played games on AOL.
+
+3. Gameplay
+
+The typical MUD will describe to you the room or area you are standing in, listing the objects, players and NPCs in the area, as well as all of the exits. To carry out a task the player would enter a text command such as take apple or attack dragon. Movement around the game environment is generally accomplished by entering the direction (or an abbreviation of it) in which the player wishes to move, for example typing north or just n would cause the player to exit the current area via the path to the north.
+
+MUD clients often contain functions which make certain tasks within a MUD easier to carry out, for example commands buttons which you can click in order to move in a particular direction or to pick up an item. There are also tools available which add hotkey-activated macros to telnet and MUD clients giving the player the ability to move around the MUD using the arrow keys on their keyboard for example.
+
+4. Style
+
+While there have been many variations in overall focus, gameplay and features in MUDs, some distinct sub-groups have formed that can be used to help categorize different game mechanics, game genres and non-game uses.
+
+4.1. Hack and Slash MUDs
+
+Perhaps the most common approach to game design in MUDs is to loosely emulate the structure of a Dungeons & Dragons campaign focused more on fighting and advancement than role-playing. When these MUDs restrict player-killing in favor of player versus environment conflict and questing, they are labeled Hack and Slash MUDs. This may be considered particularly appropriate since, due to the room-based nature of traditional MUDs, ranged combat is typically difficult to implement, resulting in most MUDs equipping characters mainly with close-combat weapons. This style of game was also historically referred to within the MUD genre as "adventure games", but video gaming as a whole has developed a meaning of "adventure game" that is greatly at odds with this usage.
+
+4.2. Player versus player MUDs
+
+Most MUDs restrict player versus player combat, often abbreviated as PK (Player Killing). This is accomplished through hard coded restrictions and various forms of social intervention. MUDs without these restrictions are commonly known as PK MUDs. Taking this a step further are MUDs devoted solely to this sort of conflict, called pure PK MUDs, the first of which was Genocide in 1992. Genocide ideas were influential in the evolution of player versus player online gaming.
+
+4.3. Roleplaying MUDs
+
+Roleplaying MUDs, generally abbreviated as RP MUDs, encourage or enforce that players act out the role of their playing characters at all times. Some RP MUDs provide an immersive gaming environment, while others only provide a virtual world with no game elements. MUDs where roleplay is enforced and the game world is heavily computer-modeled are sometimes known as Roleplay Intensive MUDs, or RPIMUDs. In many cases, Role-Playing muds attempt to differentiate themselves from hack and slash types, by dropping the "MUD" name entirely, and instead using MUX (Multi User Experience) or MUSH (Multi User Shared Hallucination.)
+
+4.4. Social MUDs
+
+Social MUDs de-emphasize game elements in favor of an environment designed primarily for socializing. They are differentiated from talkers by retaining elements beyond online chat, typically online creation as a community activity and some element of role-playing. Often such MUDs have broadly defined contingents of socializers and roleplayers. Server software in the TinyMUD family, or MU*, is traditionally used to implement social MUDs.
+
+4.5. Talkers
+
+A less-known MUD variant is the talker, a variety of online chat environment typically based on server software like ew-too or NUTS. Most of the early Internet talkers were LPMuds with the majority of the complex game machinery stripped away, leaving just the communication commands. The first Internet talker was Cat Chat in 1990. Avid users of talkers are called spods.
+
+4.6. Educational MUDs
+
+Taking advantage of the flexibility of MUD server software, some MUDs are designed for educational purposes rather than gaming or chat. MicroMUSE is considered by some to have been the first educational MUD, but it can be argued that its evolution into this role was not complete until 1994, which would make the first of many educational MOOs, Diversity University in 1993, also the first educational MUD. The MUD medium lends itself naturally to constructionist learning pedagogical approaches. The Mud Institute (TMI) was an LPMud opened in February 1992 as a gathering place for people interested in developing LPMud and teaching LPC after it became clear that Lars Pensjö had lost interest in the project. TMI focussed on both the LPMud driver and library, the driver evolving into MudOS, the TMI Mudlib was never officially released, but was influential in the development of other libraries.
+
+4.7. Graphical MUDs
+
+A graphical MUD is a MUD that uses computer graphics to represent parts of the virtual world and its visitors. A prominent early graphical MUD was Habitat, written by Randy Farmer and Chip Morningstar for Lucasfilm in 1985. Graphical MUDs require players to download a special client and the game's artwork. They range from simply enhancing the user interface to simulating 3D worlds with visual spatial relationships and customized avatar appearances.
+
+Games such as Meridian 59, EverQuest, Ultima Online and Dark Age of Camelot were routinely called graphical MUDs in their earlier years. RuneScape was actually originally intended to be a text-based MUD, but graphics were added very early in development. However, with the increase in computing power and Internet connectivity during the late nineties, and the shift of online gaming to the mass market, the term "graphical MUD" fell out of favor, being replaced by MMORPG, Massively Multiplayer Online Role-Playing Game, a term coined by Richard Garriott in 1997.
+
+5. Psychology and engagement
+
+Sherry Turkle developed a theory that the constant use (and in many cases, overuse) of MUDs allows users to develop different personalities in their environments. She uses examples, dating back to the text-based MUDs of the mid-1990s, showing college students who simultaneously live different lives through characters in separate MUDs, up to three at a time, all while doing schoolwork. The students claimed that it was a way to "shut off" their own lives for a while and become part of another reality. Turkle claims that this could present a psychological problem of identity for today's youths.
+
+"A Story About A Tree" is a short essay written by Raph Koster regarding the death of a LegendMUD player named Karyn, raising the subject of inter-human relationships in virtual worlds.
+
+Observations of MUD-play show styles of play that can be roughly categorized. Achievers focus on concrete measurements of success such as experience points, levels, and wealth; Explorers investigate every nook and cranny of the game, and evaluate different game mechanical options; Socializers devote most of their energy to interacting with other players; and then there are Killers who focus on interacting negatively with other players, if permitted, killing the other characters or otherwise thwarting their play. Few players play only one way, or play one way all the time; most exhibit a diverse style. According to Richard Bartle, "People go there as part of a hero's journey舒a means of self-discovery".
+
+Research has suggested that various factors combine in MUDs to provide users with a sense of presence rather than simply communication.
+
+6. Grammatical usage and derived terms
+
+As a noun, the word MUD is variously written MUD, Mud, and mud, depending on speaker and context. It is also used as a verb, with to mud meaning to play or interact with a MUD and mudding referring to the act of doing so. A mudder is, naturally, one who MUDs. Compound words and portmanteaux such as mudlist, mudsex, and mudflation are also regularly coined. Puns on the "wet dirt" meaning of "mud" are endemic, as with, for example, the names of the ROM (Rivers of MUD), MUCK, MUSH, and CoffeeMUD codebases and the MUD Muddy Waters.
+
+7. See also
+
+MUD trees
+
+Chronology of MUDs
+
+Bartle Test
+
+MUD client
+
+Online text-based role-playing game
+
+Virtual economy
+
+Cyberformance
+
+Digital architecture
+
+8. References
+
+9. Further reading
+
+10. External links
+
+10.1. Source code repositories
+
+: Home of the 16k MUD competition, and other resources.
+
+: MUD code repository and discussion.
+
+: Original archive of dozens of code bases.
+
+10.2. Resources
+
+: Extensive mud portal with hundreds of mud listings
+
+: MUD listings, reviews, discussion forum and rankings by category.
+
+: Google custom search engine indexing MUD and MUD-related web sites.
+
+: MUD statistics.

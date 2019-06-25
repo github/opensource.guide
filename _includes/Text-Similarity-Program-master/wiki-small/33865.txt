@@ -1,0 +1,57 @@
+The term warhead refers to the explosive and/or toxic material that is delivered by a missile, rocket, or torpedo.
+
+1. Classification
+
+Types of warheads include:
+
+Explosive: An explosive charge is used to disintegrate the target, and damage surrounding areas with a blast wave.
+
+Conventional: Chemicals such as gunpowder and high explosives store significant energy within their molecular bonds. This energy can be released quickly by a trigger, such as an electric spark. Thermobaric weapons enhance the blast effect by utilizing the surrounding atmosphere in their explosive reactions.
+
+Blast: A strong shock wave is provided by the detonation of the explosive.
+
+Fragmentation: Metal fragments are projected at high velocity to cause damage or injury.
+
+Continuous rod: Metal bars welded on their ends form a compact cylinder of interconnected rods, which is violently expanded into a contiguous zig-zag-shaped ring by an explosive detonation. The rapidly expanding ring produces a planar cutting effect that is devastating against military aircraft, which may be designed to be resistant to shrapnel.
+
+Shaped charge: The effect of the explosive charge is focused onto a specially shaped metal liner to project a hypervelocity jet of metal, to perforate heavy armour.
+
+Explosively formed penetrator: Instead of turning a thin metal liner into a focused jet, the detonation wave is directed against a concave metal plate at the front of the warhead, propelling it at high velocity while simultaneously deforming it into a projectile.
+
+Nuclear: A runaway nuclear fission or nuclear fusion reaction causes immense energy release.
+
+Chemical: A toxic chemical, such as poison gas or nerve gas, is dispersed, which is designed to injure or kill human beings.
+
+Biological: An infectious agent, such as anthrax spores, is dispersed, which is designed to sicken or kill humans. Often, a biological or chemical warhead will use an explosive charge for rapid dispersal.
+
+1.1. Detonators
+
+Type of detonators include
+
+2. See also
+
+Guidance system
+
+List of aircraft weapons
+
+List of missiles
+
+Nuclear weapon yield
+
+Missile
+
+3. References
+
+The Nuclear Weapon Archive. The B61 (Mk-61) Bomb - Intermediate yield strategic and tactical thermonuclear bomb.
+
+GlobalSecurity.org The B61 thermonuclear bomb.
+
+The Brookings Institution. B61 Nuclear Gravity Bomb.
+
+Stephen I. Schwartz. Atomic Audit - The Costs and Consequences of U.S. Nuclear Weapons Since 1940. Brookings Institution Press 1998 c. 700pp.
+
+Ogden Air Logistics Center at Hill AFB, Utah. B61 THERMONUCLEAR BOMB.
+
+National Nuclear Security Administration (NNSA). NNSA Achieves Significant Milestone for B61 Bomb. June 30, 2006.
+
+Chuck Hansen, U.S. Nuclear Weapons: The Secret History, (New York: Orion Books, 1988), pp. 162–164.

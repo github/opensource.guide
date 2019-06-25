@@ -1,0 +1,70 @@
+{% assign t = site.data.locales[page.lang][page.lang] %}
+<footer class="bg-white border-top text-center pt-5">
+  <div class="container-lg p-responsive mx-auto">
+
+    <div class="d-flex flex-wrap flex-items-stretch">
+      <div class="col-12 col-sm-6 mb-4 col-border">
+        <div class="height-full p-5">
+          <img src="{{ "/assets/images/illos/squirrel.svg" | relative_url }}" class="little-illo mb-3" alt="squirrel illustration">
+          <h3 class="h3-mktg mb-3">{{ t.footer.contribute.heading }}</h3>
+          <p class="mb-3 p-large">{{ t.footer.contribute.description }}</p>
+          <p>
+            <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/master/{{ page.path }}" class="btn btn-outline">
+              {{ t.footer.contribute.button }}
+            </a>
+          </p>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 mb-4">
+        <div class="height-full p-5">
+          <div id="mc_embed_signup">
+          <form action="//github.us11.list-manage.com/subscribe/post?u=9d7ced8c4bbd6c2f238673f0f&amp;id=b514344ba3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+              <img src="{{ "/assets/images/illos/bird.svg" | relative_url }}" class="little-illo mb-3" alt="bird illustration">
+              <h3 class="h3-mktg mb-3">{{ t.footer.subscribe.heading }}</h3>
+              <p class="mb-3 p-large">{{ t.footer.subscribe.description }}</p>
+
+              <div class="mc-field-group col-12">
+                  <label for="mce-EMAIL" class="d-none">{{ t.footer.subscribe.label }}</label>
+                  <input type="email" placeholder="{{ t.footer.subscribe.label }}" name="EMAIL" class="form-input required email d-block col-10 mx-auto py-2 px-3 mb-3" id="mce-EMAIL" autocomplete="home email">
+                  <input type="checkbox" value="1" name="group[9617][1]" id="mce-group[9617]-9617-0" checked="checked" style="display:none">
+                  <input type="submit" value="{{ t.footer.subscribe.button }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-outline">
+              </div>
+              <div id="mce-responses" class="clear">
+                  <div class="" id="mce-error-response" style="display:none"></div>
+                  <div class="" id="mce-success-response" style="display:none"></div>
+              </div>
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9d7ced8c4bbd6c2f238673f0f_b514344ba3" tabindex="-1" value=""></div>
+              </div>
+          </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-top text-gray py-5">
+      <p class="float-md-right"><a class="text-gray-light text-small" href="{{ "/notices/" | relative_url }}">fine print</a></p>
+
+      <div>
+        {% capture code %}
+          {% assign code_label = t.footer.byline.code_label %}
+          <svg height="20" class="octicon octicon-code v-align-middle fill-gray mr-1" aria-label="{{ code_label }}" viewBox="0 0 14 16" version="1.1" width="17" role="img"><path d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
+        {% endcapture %}
+        {% capture love %}
+          {% assign love_label = t.footer.byline.love_label %}
+          <svg height="20" class="octicon octicon-heart v-align-middle fill-gray mx-1" aria-label="{{love_label}}" viewBox="0 0 12 16" version="1.1" width="15" role="img"><path d="M11.2 3c-.52-.63-1.25-.95-2.2-1-.97 0-1.69.42-2.2 1-.51.58-.78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-.95.05-1.69.38-2.2 1-.52.61-.78 1.28-.8 2 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.39 4.77-4.17 5.34-5.33C11.91 6.51 12 5.5 12 5c-.02-.72-.28-1.39-.8-2.02V3z"></path></svg>
+        {% endcapture %}
+        {% capture github %}
+          <svg height="20" class="octicon octicon-mark-github v-align-middle fill-gray mx-1" aria-label="GitHub" viewBox="0 0 16 16" version="1.1" width="20" role="img"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
+        {% endcapture %}
+        {% capture friends %}
+          {% assign friends_label = t.footer.byline.friends_label %}
+          <a href="https://github.com/github/opensource.guide/graphs/contributors" class="text-gray">{{ friends_label }}</a>
+        {% endcapture %}
+
+        {% assign byline = t.footer.byline.format %}
+        {{ byline | replace: "[code]", code | replace: "[love]", love | replace: "[github]", github | replace: "[friends]", friends }}
+      </div>
+    </div>
+  </div>
+</footer>

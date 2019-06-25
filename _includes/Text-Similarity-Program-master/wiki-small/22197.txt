@@ -1,0 +1,81 @@
+Open content is a neologism coined by David Wiley in 1998 which describes a creative work that others can copy or modify. The term evokes open source software, which is a related concept in software.
+
+When the term OpenContent was first used by Wiley, it described works licensed under the Open Content License (a non-free share-alike license, see 'Free content' below) and perhaps other works licensed under similar terms. It has since come to describe a broader class of content without conventional copyright restrictions. The openness of content can be assessed under the '5Rs Framework' based on the extent to which it can be reused, revised, remixed and redistributed by members of the public without violating copyright law. Unlike open source and free content, there is no clear threshold that a work must reach to qualify as 'open content'.
+
+Although open content has been described as a counterbalance to copyright, open content licenses rely on a copyright holder's power to license their work.
+
+1. Definition
+
+The OpenContent website once defined OpenContent as 'freely available for modification, use and redistribution under a license similar to those used by the Open Source / Free Software community'. However, such a definition would exclude the Open Content License (OPL) because that license forbade charging 'a fee for the [OpenContent] itself', a right required by free and open source software licenses.
+
+The term since shifted in meaning. OpenContent "is licensed in a manner that provides users with free and perpetual permission to engage in the 5R activities."
+
+The 5Rs are put forward on the OpenContent website as a framework for assessing the extent to which content is open:
+
+Retain - the right to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
+
+Reuse - the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+
+Revise - the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+
+Remix - the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
+
+Redistribute - the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend) This broader definition distinguishes open content from open source software, since the latter must be available for commercial use by the public. However, it is similar to several definitions for open educational resources, which include resources under noncommercial and verbatim licenses.
+
+The Open Definition, which purports to define open content and open knowledge, draws heavily on the Open Source Definition; it preserves the limited sense of open content as libre content.
+
+2. Open access
+
+"Open access" refers to toll-free or gratis access to content, consisting mainly of published peer-reviewed scholarly journal articles. Some open access works are also licensed for reuse and redistribution, which would qualify them as open content.
+
+3. Open content and education
+
+Over the past decade, open content has been used to develop alternative routes towards higher education. Traditional universities are expensive, and their tuition rates are increasing. Open content allows a free way of obtaining higher education that is "focused on collective knowledge and the sharing and reuse of learning and scholarly content." There are multiple projects and organizations that promote learning through open content, including OpenCourseWare Initiative, The Saylor Foundation and Khan Academy. Some universities, like MIT, Yale, and Tufts are making their courses freely available on the internet.
+
+3.1. Textbooks
+
+The textbook industry is one of the educational industries in which open content can make the biggest impact. Traditional textbooks, aside from being expensive can also be inconvenient and out of date, because of publishers' tendency to constantly print new editions. Open textbooks help to eliminate this problem, because they are online and thus easily updatable. Being openly licensed and online can be helpful to teachers, because it allows the textbook to be modified according to the teacher's unique curriculum. There are multiple organizations promoting the creation of openly licensed textbooks. Some of these organizations and projects include , Connexions, OpenStax College, and Wikibooks
+
+For more information on open content as it relates to education and textbooks see Open Education Resources.
+
+4. Licenses
+
+According to the current definition of open content on the OpenContent website, any general, royalty-free copyright license would qualify as an open license because it 'provides users with the right to make more kinds of uses than those normally permitted under the law. These permissions are granted to users free of charge.'
+
+However, the narrower definition used in the Open Definition effectively limits open content to libre content; any free content license would qualify as an open content license. According to this narrower criteria, the following still-maintained licenses qualify:
+
+Creative Commons licenses (only Creative Commons Attribution, Attribution-Share Alike and Zero)
+
+Open Publication License (the original license of the Open Content Project, the Open Content License, did not permit for-profit copying of the licensed work and therefore does not qualify)
+
+Against DRM license
+
+GNU Free Documentation License
+
+Open Game License (a license designed for role-playing games by Wizards of the Coast)
+
+Free Art License
+
+5. See also
+
+Digital freedom
+
+Free content
+
+Free culture movement
+
+Ideagoras
+
+Libre knowledge
+
+Open catalogue
+
+Open data
+
+Open source
+
+Paywall
+
+6. References
+
+7. External links

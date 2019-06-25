@@ -1,0 +1,311 @@
+A pump is a device that moves fluids (liquids or gases), or sometimes slurries, by mechanical action. Pumps can be classified into three major groups according to the method they use to move the fluid: direct lift, displacement, and gravity pumps.
+
+Pumps operate by some mechanism (typically reciprocating or rotary), and consume energy to perform mechanical work by moving the fluid. Pumps operate via many energy sources, including manual operation, electricity, engines, or wind power, come in many sizes, from microscopic for use in medical applications to large industrial pumps.
+
+Mechanical pumps serve in a wide range of applications such as pumping water from wells, aquarium filtering, pond filtering and aeration, in the car industry for water-cooling and fuel injection, in the energy industry for pumping oil and natural gas or for operating cooling towers. In the medical industry, pumps are used for biochemical processes in developing and manufacturing medicine, and as artificial replacements for body parts, in particular the artificial heart and penile prosthesis.
+
+In biology, many different types of chemical and bio-mechanical pumps have evolved, and biomimicry is sometimes used in developing new types of mechanical pumps.
+
+1. Types
+
+Mechanical pumps may be submerged in the fluid they are pumping or be placed external to the fluid.
+
+Pumps can be classified by their method of displacement into positive displacement pumps, impulse pumps, velocity pumps, gravity pumps, steam pumps and valveless pumps.
+
+1.1. Positive displacement pump
+
+A positive displacement pump makes a fluid move by trapping a fixed amount and forcing (displacing) that trapped volume into the discharge pipe.
+
+Some positive displacement pumps use an expanding cavity on the suction side and a decreasing cavity on the discharge side. Liquid flows into the pump as the cavity on the suction side expands and the liquid flows out of the discharge as the cavity collapses. The volume is constant through each cycle of operation.
+
+1.1.1. Positive displacement pump behavior and safety
+
+Positive displacement pumps, unlike centrifugal or roto-dynamic pumps, theoretically can produce the same flow at a given speed (RPM) no matter what the discharge pressure. Thus, positive displacement pumps are constant flow machines. However, a slight increase in internal leakage as the pressure increases prevents a truly constant flow rate.
+
+A positive displacement pump must not operate against a closed valve on the discharge side of the pump, because it has no shutoff head like centrifugal pumps. A positive displacement pump operating against a closed discharge valve continues to produce flow and the pressure in the discharge line increases until the line bursts, the pump is severely damaged, or both.
+
+A relief or safety valve on the discharge side of the positive displacement pump is therefore necessary. The relief valve can be internal or external. The pump manufacturer normally has the option to supply internal relief or safety valves. The internal valve is usually only used as a safety precaution. An external relief valve in the discharge line, with a return line back to the suction line or supply tank provides increased safety.
+
+1.1.2. Positive displacement types
+
+A positive displacement pump can be further classified according to the mechanism used to move the fluid:1
+
+Rotary-type positive displacement: internal gear, screw, shuttle block, flexible vane or sliding vane, circumferential piston, flexible impeller, helical twisted roots (e.g. the Wendelkolben pump) or liquid ring vacuum pumps
+
+Reciprocating-type positive displacement: piston or diaphragm pumps
+
+Linear-type positive displacement: rope pumps and chain pumps
+
+1.1.2.1. Rotary positive displacement pumps
+
+Positive displacement rotary pumps move fluid using a rotating mechanism that creates a vacuum that captures and draws in the liquid.
+
+Advantages: Rotary pumps are very efficient because they naturally remove air from the lines, eliminating the need to bleed the air from the lines manually.
+
+Drawbacks: The nature of the pump demands very close clearances between the rotating pump and the outer edge, making it rotate at a slow, steady speed. If rotary pumps are operated at high speeds, the fluids cause erosion, which eventually causes enlarged clearances that liquid can pass through, which reduces efficiency.
+
+Rotary positive displacement pumps fall into three main types:
+
+Gear pumps - a simple type of rotary pump where the liquid is pushed between two gears
+
+Screw pumps - the shape of the internals of this pump is usually two screws turning against each other to pump the liquid
+
+Rotary vane pumps - similar to scroll compressors, these have a cylindrical rotor encased in a similarly shaped housing. As the rotor orbits, the vanes trap fluid between the rotor and the casing, drawing the fluid through the pump.
+
+1.1.2.2. Reciprocating positive displacement pumps
+
+Reciprocating pumps move the fluid using one or more oscillating pistons, plungers, or membranes (diaphragms), while valves restrict fluid motion to the desired direction.
+
+Pumps in this category range from simplex, with one cylinder, to in some cases quad (four) cylinders, or more. Many reciprocating-type pumps are duplex (two) or triplex (three) cylinder. They can be either single-acting with suction during one direction of piston motion and discharge on the other, or double-acting with suction and discharge in both directions. The pumps can be powered manually, by air or steam, or by a belt driven by an engine. This type of pump was used extensively in the 19th century—in the early days of steam propulsion—as boiler feed water pumps. Now reciprocating pumps typically pump highly viscous fluids like concrete and heavy oils, and serve in special applications that demand low flow rates against high resistance. Reciprocating hand pumps were widely used to pump water from wells. Common bicycle pumps and foot pumps for inflation use reciprocating action.
+
+These positive displacement pumps have an expanding cavity on the suction side and a decreasing cavity on the discharge side. Liquid flows into the pumps as the cavity on the suction side expands and the liquid flows out of the discharge as the cavity collapses. The volume is constant given each cycle of operation.
+
+Typical reciprocating pumps are:
+
+Plunger pumps - a reciprocating plunger pushes the fluid through one or two open valves, closed by suction on the way back.
+
+Diaphragm pumps - similar to plunger pumps, where the plunger pressurizes hydraulic oil which is used to flex a diaphragm in the pumping cylinder. Diaphragm valves are used to pump hazardous and toxic fluids.
+
+Piston pumps displacement pumps - usually simple devices for pumping small amounts of liquid or gel manually. The common hand soap dispenser is such a pump.
+
+Radial piston pumps
+
+1.1.2.3. Various positive displacement pumps
+
+The positive displacement principle applies in these pumps:
+
+Rotary lobe pump
+
+Progressive cavity pump
+
+Rotary gear pump
+
+Piston pump
+
+Diaphragm pump
+
+Screw pump
+
+Gear pump
+
+Hydraulic pump
+
+Rotary vane pump
+
+Regenerative (peripheral) pump
+
+Peristaltic pump
+
+Rope pump
+
+Flexible impeller
+
+1.1.2.3.1. Gear pump
+
+This is the simplest of rotary positive displacement pumps. It consists of two meshed gears that rotate in a closely fitted casing. The tooth spaces trap fluid and force it around the outer periphery. The fluid does not travel back on the meshed part, because the teeth mesh closely in the centre. Gear pumps see wide use in car engine oil pumps and in various hydraulic power packs.
+
+1.1.2.3.2. Screw pump
+
+A Screw pump is a more complicated type of rotary pump that uses two or three screws with opposing thread—e.g., one screw turns clockwise and the other counterclockwise. The screws are mounted on parallel shafts that have gears that mesh so the shafts turn together and everything stays in place. The screws turn on the shafts and drive fluid through the pump. As with other forms of rotary pumps, the clearance between moving parts and the pump's casing is minimal.
+
+1.1.2.3.3. Progressing cavity pump
+
+Widely used for pumping difficult materials, such as sewage sludge contaminated with large particles, this pump consists of a helical rotor, about ten times as long as its width. This can be visualized as a central core of diameter x with, typically, a curved spiral wound around of thickness half x, though in reality it is manufactured in single casting. This shaft fits inside a heavy duty rubber sleeve, of wall thickness also typically x. As the shaft rotates, the rotor gradually forces fluid up the rubber sleeve. Such pumps can develop very high pressure at low volumes.
+
+1.1.2.3.4. Roots-type pumps
+
+Named after the Roots brothers who invented it, this lobe pump displaces the liquid trapped between two long helical rotors, each fitted into the other when perpendicular at 90°, rotating inside a triangular shaped sealing line configuration, both at the point of suction and at the point of discharge. This design produces a continuous flow with equal volume and no vortex. It can work at low pulsation rates, and offers gentle performance that some applications require.
+
+Applications include:
+
+High capacity industrial air compressors
+
+Roots superchargers on internal combustion engines.
+
+A brand of civil defense siren, the Federal Signal Corporation's Thunderbolt.
+
+1.1.2.3.5. Peristaltic pump
+
+A peristaltic pump is a type of positive displacement pump. It contains fluid within a flexible tube fitted inside a circular pump casing (though linear peristaltic pumps have been made). A number of rollers, shoes, or wipers attached to a rotor compresses the flexible tube. As the rotor turns, the part of the tube under compression closes (or occludes), forcing the fluid through the tube. Additionally, when the tube opens to its natural state after the passing of the cam it draws (restitution) fluid into the pump. This process is called peristalsis and is used in many biological systems such as the gastrointestinal tract.
+
+1.1.2.3.6. Plunger pumps
+
+Plunger pumps are reciprocating positive displacement pumps.
+
+These consist of a cylinder with a reciprocating plunger. The suction and discharge valves are mounted in the head of the cylinder. In the suction stroke the plunger retracts and the suction valves open causing suction of fluid into the cylinder. In the forward stroke the plunger pushes the liquid out of the discharge valve. Efficiency and common problems: With only one cylinder in plunger pumps, the fluid flow varies between maximum flow when the plunger moves through the middle positions, and zero flow when the plunger is at the end positions. A lot of energy is wasted when the fluid is accelerated in the piping system. Vibration and water hammer may be a serious problem. In general the problems are compensated for by using two or more cylinders not working in phase with each other.
+
+1.1.2.3.7. Triplex-style plunger pumps
+
+Triplex plunger pumps use three plungers, which reduces the pulsation of single reciprocating plunger pumps. Adding a pulsation dampener on the pump outlet can further smooth the pump ripple, or ripple graph of a pump transducer. The dynamic relationship of the high-pressure fluid and plunger generally requires high-quality plunger seals. Plunger pumps with a larger number of plungers have the benefit of increased flow, or smoother flow without a pulsation dampener. The increase in moving parts and crankshaft load is one drawback.
+
+Car washes often use these triplex-style plunger pumps (perhaps without pulsation dampeners). In 1968, William Bruggeman significantly reduced the size of the triplex pump and increased the lifespan so that car washes could use equipment with smaller footprints. Durable high pressure seals, low pressure seals and oil seals, hardened crankshafts, hardened connecting rods, thick ceramic plungers and heavier duty ball and roller bearings improve reliability in triplex pumps. Triplex pumps now are in a myriad of markets across the world.
+
+Triplex pumps with shorter lifetimes are commonplace to the home user. A person who uses a home pressure washer for 10 hours a year may be satisfied with a pump that lasts 100 hours between rebuilds. Industrial-grade or continuous duty triplex pumps on the other end of the quality spectrum may run for as much as 2,080 hours a year.
+
+The oil and gas drilling industry uses massive semi trailer-transported triplex pumps called mud pumps to pump drilling mud, which cools the drill bit and carries the cuttings back to the surface. Drillers use triplex or even quintuplex pumps to inject water and solvents deep into shale in the extraction process called fracking.
+
+1.1.2.3.8. Compressed-air-powered double-diaphragm pumps
+
+One modern application of positive displacement diaphragm pumps is compressed-air-powered double-diaphragm pumps. Run on compressed air these pumps are intrinsically safe by design, although all manufacturers offer ATEX certified models to comply with industry regulation. These pumps are relatively inexpensive and can perform a wide variety of duties, from pumping water out of bunds, to pumping hydrochloric acid from secure storage (dependent on how the pump is manufactured – elastomers / body construction). Lift is normally limited to roughly 6m although heads can reach almost .
+
+1.1.2.3.9. Rope pumps
+
+Devised in China as chain pumps over 1000 years ago, these pumps can be made from very simple materials: A rope, a wheel and a PVC pipe are sufficient to make a simple rope pump. For this reason they have become extremely popular around the world since the 1980s. Rope pump efficiency has been studied by grass roots organizations and the techniques for making and running them have been continuously improved.
+
+1.1.2.3.10. Flexible impeller pump
+
+1.2. Impulse pumps
+
+Impulse pumps use pressure created by gas (usually air). In some impulse pumps the gas trapped in the liquid (usually water), is released and accumulated somewhere in the pump, creating a pressure that can push part of the liquid upwards.
+
+Impulse pumps include:
+
+Hydraulic ram pumps – kinetic energy of a low-head water supply is stored temporarily in an air-bubble hydraulic accumulator, then used to drive water to a higher head.
+
+Pulser pumps - run with natural resources, by kinetic energy only.
+
+Airlift pumps - run on air inserted into pipe, pushing up the water, when bubbles move upward, or on pressure inside pipe pushing water up.
+
+1.2.1. Hydraulic ram pumps
+
+A hydraulic ram is a water pump powered by hydropower.
+
+It takes in water at relatively low pressure and high flow-rate and outputs water at a higher hydraulic-head and lower flow-rate. The device uses the water hammer effect to develop pressure that lifts a portion of the input water that powers the pump to a point higher than where the water started.
+
+The hydraulic ram is sometimes used in remote areas, where there is both a source of low-head hydropower, and a need for pumping water to a destination higher in elevation than the source. In this situation, the ram is often useful, since it requires no outside source of power other than the kinetic energy of flowing water.
+
+1.3. Velocity pumps
+
+Rotodynamic pumps (or dynamic pumps) are a type of velocity pump in which kinetic energy is added to the fluid by increasing the flow velocity. This increase in energy is converted to a gain in potential energy (pressure) when the velocity is reduced prior to or as the flow exits the pump into the discharge pipe. This conversion of kinetic energy to pressure is explained by the First law of thermodynamics, or more specifically by Bernoulli's principle.
+
+Dynamic pumps can be further subdivided according to the means in which the velocity gain is achieved.
+
+These types of pumps have a number of characteristics:
+
+Continuous energy
+
+Conversion of added energy to increase in kinetic energy (increase in velocity)
+
+Conversion of increased velocity (kinetic energy) to an increase in pressure head A practical difference between dynamic and positive displacement pumps is how they operate under closed valve conditions. Positive displacement pumps physically displace fluid, so closing a valve downstream of a positive displacement pump produces a continual pressure build up that can cause mechanical failure of pipeline or pump. Dynamic pumps differ in that they can be safely operated under closed valve conditions (for short periods of time).
+
+1.3.1. Radial-flow pumps
+
+These simply referred to as centripetal design pumps. The fluid enters along the axial plane, is accelerated by the impeller and exits at right angles to the shaft(radially). Radial-flow pumps operate at higher pressures and lower flow rates than axial and mixed-flow pumps.
+
+1.3.2. Axial-flow pumps
+
+These are referred to as centrifugal design pumps. The fluid is pushed outward from the center or axis. Axial-flow pumps / Centrifugal design pumps operate at much lower pressures and higher flow rates than radial-flow pumps / cepumps.
+
+1.3.3. Mixed-flow pumps
+
+Mixed-flow pumps function as a compromise between radial and axial-flow pumps. The fluid experiences both radial acceleration and lift and exits the impeller somewhere between 0 and 90 degrees from the axial direction. As a consequence mixed-flow pumps operate at higher pressures than axial-flow pumps while delivering higher discharges than radial-flow pumps. The exit angle of the flow dictates the pressure head-discharge characteristic in relation to radial and mixed-flow.
+
+1.3.4. Eductor-jet pump
+
+This uses a jet, often of steam, to create a low pressure. This low pressure sucks in fluid and propels it into a higher pressure region.
+
+1.4. Gravity pumps
+
+Gravity pumps include the syphon and Heron's fountain. The hydraulic ram is also sometimes called a gravity pump.in gravity pump the water is lift by gravitational force.
+
+1.5. Steam pumps
+
+Steam pumps have been for a long time mainly of historical interest. They include any type of pump powered by a steam engine and also pistonless pumps such as Thomas Savery's or the Pulsometer steam pump.
+
+Recently there has been a resurgence of interest in low power solar steam pumps for use in smallholder irrigation in developing countries. Previously small steam engines have not been viable because of escalating inefficiencies as vapour engines decrease in size. However the use of modern engineering materials coupled with alternative engine configurations has meant that these types of system are now a cost effective opportunity.
+
+1.6. Valveless pumps
+
+Valveless pumping assists in fluid transport in various biomedical and engineering systems. In a valveless pumping system, no valves (or physical occlusions) are present to regulate the flow direction. The fluid pumping efficiency of a valveless system, however, is not necessarily lower than that having valves. In fact, many fluid-dynamical systems in nature and engineering more or less rely upon valveless pumping to transport the working fluids therein. For instance, blood circulation in the cardiovascular system is maintained to some extent even when the heart’s valves fail. Meanwhile, the embryonic vertebrate heart begins pumping blood long before the development of discernible chambers and valves. In microfluidics, valveless impedance pumps have been fabricated, and are expected to be particularly suitable for handling sensitive biofluids. Ink jet printers operating on the Piezoelectric transducer principal also use valveless pumping. The pump chamber is emptied through the printing jet due to reduced flow impedance in that direction and refilled by capillary action.
+
+2. Pump repairs
+
+Examining pump repair records and mean time between failures (MTBF) is of great importance to responsible and conscientious pump users. In view of that fact, the preface to the 2006 Pump User’s Handbook alludes to "pump failure" statistics. For the sake of convenience, these failure statistics often are translated into MTBF (in this case, installed life before failure).
+
+In early 2005, Gordon Buck, John Crane Inc.’s chief engineer for Field Operations in Baton Rouge, LA, examined the repair records for a number of refinery and chemical plants to obtain meaningful reliability data for centrifugal pumps. A total of 15 operating plants having nearly 15,000 pumps were included in the survey. The smallest of these plants had about 100 pumps; several plants had over 2000. All facilities were located in the United States. In addition, considered as "new", others as "renewed" and still others as "established". Many of these plants—but not all—had an alliance arrangement with John Crane. In some cases, the alliance contract included having a John Crane Inc. technician or engineer on-site to coordinate various aspects of the program.
+
+Not all plants are refineries, however, and different results occur elsewhere. In chemical plants, pumps have traditionally been "throw-away" items as chemical attack limits life. Things have improved in recent years, but the somewhat restricted space available in "old" DIN and ASME-standardized stuffing boxes places limits on the type of seal that fits. Unless the pump user upgrades the seal chamber, the pump only accommodates more compact and simple versions. Without this upgrading, lifetimes in chemical installations are generally around 50 to 60 percent of the refinery values.
+
+Unscheduled maintenance is often one of the most significant costs of ownership, and failures of mechanical seals and bearings are among the major causes. Keep in mind the potential value of selecting pumps that cost more initially, but last much longer between repairs. The MTBF of a better pump may be one to four years longer than that of its non-upgraded counterpart. Consider that published average values of avoided pump failures range from US$2600 to US$12,000. This does not include lost opportunity costs. One pump fire occurs per 1000 failures. Having fewer pump failures means having fewer destructive pump fires.
+
+As has been noted, a typical pump failure based on actual year 2002 reports, costs US$5,000 on average. This includes costs for material, parts, labor and overhead. Extending a pump's MTBF from 12 to 18 months would save US$1,667 per year — which might be greater than the cost to upgrade the centrifugal pump's reliability.
+
+3. Applications
+
+Pumps are used throughout society for a variety of purposes. Early applications includes the use of the windmill or watermill to pump water. Today, the pump is used for irrigation, water supply, gasoline supply, air conditioning systems, refrigeration (usually called a compressor), chemical movement, sewage movement, flood control, marine services, etc.
+
+Because of the wide variety of applications, pumps have a plethora of shapes and sizes: from very large to very small, from handling gas to handling liquid, from high pressure to low pressure, and from high volume to low volume.
+
+3.1. Priming a pump
+
+Typically, a liquid pump can't simply draw air. The feed line of the pump must first be filled with the liquid that requires pumping. An operator must introduce liquid into the system to initiate the pumping. This is called priming the pump. Loss of prime is usually due to ingestion of air into the pump. The clearances and displacement ratios in pumps for liquids, whether thin or more viscous, usually cannot displace air due to its compressibility.
+
+3.2. Pumps as public water supplies
+
+One sort of pump once common worldwide was a hand-powered water pump, or 'pitcher pump'. It was commonly installed over community water wells in the days before piped water supplies.
+
+In parts of the British Isles, it was often called the parish pump. Though such community pumps are no longer common, people still used the expression parish pump to describe a place or forum where matters of local interest are discussed.
+
+Because water from pitcher pumps is drawn directly from the soil, it is more prone to contamination. If such water is not filtered and purified, consumption of it might lead to gastrointestinal or other water-borne diseases. A notorious case is the 1854 Broad Street cholera outbreak. At the time it was not known how cholera was transmitted, but physician John Snow suspected contaminated water and had the handle of the public pump he suspected removed; the outbreak then subsided.
+
+Modern hand-operated community pumps are considered the most sustainable low-cost option for safe water supply in resource-poor settings, often in rural areas in developing countries. A hand pump opens access to deeper groundwater that is often not polluted and also improves the safety of a well by protecting the water source from contaminated buckets. Pumps such as the Afridev pump are designed to be cheap to build and install, and easy to maintain with simple parts. However, scarcity of spare parts for these type of pumps in some regions of Africa has diminished their utility for these areas.
+
+3.3. Sealing multiphase pumping applications
+
+Multiphase pumping applications, also referred to as tri-phase, have grown due to increased oil drilling activity. In addition, the economics of multiphase production is attractive to upstream operations as it leads to simpler, smaller in-field installations, reduced equipment costs and improved production rates. In essence, the multiphase pump can accommodate all fluid stream properties with one piece of equipment, which has a smaller footprint. Often, two smaller multiphase pumps are installed in series rather than having just one massive pump.
+
+For midstream and upstream operations, multiphase pumps can be located onshore or offshore and can be connected to single or multiple wellheads. Basically, multiphase pumps are used to transport the untreated flow stream produced from oil wells to downstream processes or gathering facilities. This means that the pump may handle a flow stream (well stream) from 100 percent gas to 100 percent liquid and every imaginable combination in between. The flow stream can also contain abrasives such as sand and dirt. Multiphase pumps are designed to operate under changing/fluctuating process conditions. Multiphase pumping also helps eliminate emissions of greenhouse gases as operators strive to minimize the flaring of gas and the venting of tanks where possible.
+
+3.3.1. Types and features of multiphase pumps
+
+Helico-Axial Pumps (Centrifugal) A rotodynamic pump with one single shaft that requires two mechanical seals, this pump uses an open-type axial impeller. It's often called a Poseidon pump, and can be described as a cross between an axial compressor and a centrifugal pump.
+
+Twin Screw (Positive Displacement) The twin screw pump is constructed of two inter-meshing screws that move the pumped fluid. Twin screw pumps are often used when pumping conditions contain high gas volume fractions and fluctuating inlet conditions. Four mechanical seals are required to seal the two shafts.
+
+Progressive Cavity Pumps (Positive Displacement) Progressive cavity pumps are single-screw types typically used in shallow wells or at the surface. This pump is mainly used on surface applications where the pumped fluid may contain a considerable amount of solids such as sand and dirt.
+
+Electric Submersible Pumps (Centrifugal) These pumps are basically multistage centrifugal pumps and are widely used in oil well applications as a method for artificial lift. These pumps are usually specified when the pumped fluid is mainly liquid.
+
+Buffer Tank A buffer tank is often installed upstream of the pump suction nozzle in case of a slug flow. The buffer tank breaks the energy of the liquid slug, smoothes any fluctuations in the incoming flow and acts as a sand trap.
+
+As the name indicates, multiphase pumps and their mechanical seals can encounter a large variation in service conditions such as changing process fluid composition, temperature variations, high and low operating pressures and exposure to abrasive/erosive media. The challenge is selecting the appropriate mechanical seal arrangement and support system to ensure maximized seal life and its overall effectiveness.
+
+4. Specifications
+
+Pumps are commonly rated by horsepower, flow rate, outlet pressure in metres (or feet) of head, inlet suction in suction feet (or metres) of head. The head can be simplified as the number of feet or metres the pump can raise or lower a column of water at atmospheric pressure.
+
+From an initial design point of view, engineers often use a quantity termed the specific speed to identify the most suitable pump type for a particular combination of flow rate and head.
+
+5. Pumping power
+
+The power imparted into a fluid increases the energy of the fluid per unit volume. Thus the power relationship is between the conversion of the mechanical energy of the pump mechanism and the fluid elements within the pump. In general, this is governed by a series of simultaneous differential equations, known as the Navier–Stokes equations. However a more simple equation relating only the different energies in the fluid, known as Bernoulli's equation can be used. Hence the power, P, required by the pump:
+
+where Δp is the change in total pressure between the inlet and outlet (in Pa), and Q, the volume flow-rate of the fluid is given in m3/s. The total pressure may have gravitational, static pressure and kinetic energy components; i.e. energy is distributed between change in the fluid's gravitational potential energy (going up or down hill), change in velocity, or change in static pressure. η is the pump efficiency, and may be given by the manufacturer's information, such as in the form of a pump curve, and is typically derived from either fluid dynamics simulation (i.e. solutions to the Navier–Stokes for the particular pump geometry), or by testing. The efficiency of the pump depends upon the pump's configuration and operating conditions (such as rotational speed, fluid density and viscosity etc.)
+
+For a typical "pumping" configuration, the work is imparted on the fluid, and is thus positive. For the fluid imparting the work on the pump (i.e. a turbine), the work is negative. Power required to drive the pump is determined by dividing the output power by the pump efficiency. Furthermore, this definition encompasses pumps with no moving parts, such as a siphon.
+
+6. Pump efficiency
+
+Pump efficiency is defined as the ratio of the power imparted on the fluid by the pump in relation to the power supplied to drive the pump. Its value is not fixed for a given pump, efficiency is a function of the discharge and therefore also operating head. For centrifugal pumps, the efficiency tends to increase with flow rate up to a point midway through the operating range (peak efficiency) and then declines as flow rates rise further. Pump performance data such as this is usually supplied by the manufacturer before pump selection. Pump efficiencies tend to decline over time due to wear(e.g. increasing clearances as impellers reduce in size).
+
+When a system design includes a centrifugal pump, an important issue it its design is matching the head loss-flow characteristic with the pump so that it operates at or close to the point of its maximum efficiency.
+
+Pump efficiency is an important aspect and pumps should be regularly tested. Thermodynamic pump testing is one method.
+
+7. See also
+
+8. References
+
+9. Further reading
+
+Australian Pump Manufacturers' Association. Australian Pump Technical Handbook, 3rd edition. Canberra: Australian Pump Manufacturers' Association, 1987. ISBN 0-7316-7043-4.
+
+Hicks, Tyler G. and Theodore W. Edwards. Pump Application Engineering. McGraw-Hill Book Company.1971. ISBN 0-07-028741-4
+
+Robbins, L. B. . Popular Science, February 1919, pages 83–84. Article about how a homeowner can easily build a pressurized home water system that does not use electricity.
+
+10. External links
+
+—Pump education devoted primarily to rotary positive displacement pumps
+
+— See Jet Pumps

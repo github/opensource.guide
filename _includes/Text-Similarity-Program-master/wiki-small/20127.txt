@@ -1,0 +1,251 @@
+Maurits Cornelis Escher (, ; 17 June 1898 – 27 March 1972), usually referred to as M. C. Escher, was a Dutch graphic artist. He is known for his often mathematically inspired woodcuts, lithographs, and mezzotints. These feature impossible constructions, explorations of infinity, architecture, and tessellations.
+
+1. Early life
+
+Maurits Cornelis was born in Leeuwarden, Friesland, in a house that forms part of the Princessehof Ceramics Museum today. He was the youngest son of civil engineer George Arnold Escher and his second wife, Sara Gleichman. In 1903, the family moved to Arnhem, where he attended primary school and secondary school until 1918.
+
+He was a sickly child, and was placed in a special school at the age of seven and failed the second grade. Although he excelled at drawing, his grades were generally poor. He also took carpentry and piano lessons until he was thirteen years old. In 1919, Escher attended the Haarlem School of Architecture and Decorative Arts in Haarlem. He briefly studied architecture, but he failed a number of subjects (partly due to a persistent skin infection) and switched to decorative arts. He studied under Samuel Jessurun de Mesquita, with whom he remained friends for years. In 1922, Escher left the school after having gained experience in drawing and making woodcuts.
+
+2. Later life
+
+In 1922, an important year of his life, Escher traveled through Italy (Florence, San Gimignano, Volterra, Siena, Ravello) and Spain (Madrid, Toledo, Granada). He was impressed by the Italian countryside and by the Alhambra, a fourteenth-century Moorish castle in Granada. The intricate decorative designs at Alhambra, which were based on geometrical symmetries featuring interlocking repetitive patterns sculpted into the stone walls and ceilings, were a powerful influence on Escher's works. He returned to Italy regularly in the following years.
+
+In Italy, Escher met Jetta Umiker, whom he married in 1924. The couple settled in Rome where their first son, Giorgio (George) Arnaldo Escher, named after his grandfather, was born. Escher and Jetta later had two more sons: Arthur and Jan.
+
+In 1935, the political climate in Italy (under Mussolini) became unacceptable to Escher. He had no interest in politics, finding it impossible to involve himself with any ideals other than the expressions of his own concepts through his own particular medium, but he was averse to fanaticism and hypocrisy. When his eldest son, George, was forced at the age of nine to wear a Ballila uniform in school, the family left Italy and moved to Château-d'Œx, Switzerland, where they remained for two years.
+
+Escher, who had been very fond of and inspired by the landscapes in Italy, was decidedly unhappy in Switzerland. In 1937, the family moved again, to Uccle, a suburb of Brussels, Belgium. World War II forced them to move in January 1941, this time to Baarn, Netherlands, where Escher lived until 1970. Most of Escher's better-known works date from this period. The sometimes cloudy, cold and wet weather of the Netherlands allowed him to focus intently on his work. For a time after undergoing surgery, 1962 was the only period in which Escher did not work on new pieces.
+
+Escher moved to the Rosa Spier Huis in Laren in 1970, an artists' retirement home in which he had his own studio. He died at the home on 27 March 1972, aged 73.
+
+3. Works
+
+In his early years, Escher sketched landscapes and nature. He also sketched insects, which appeared frequently in his later work. His first artistic work, completed in 1922, featured eight human heads divided in different planes. Later around 1924, he lost interest in "regular division" of planes, and turned to sketching landscapes in Italy with irregular perspectives that are impossible in natural form.
+
+Escher's first print of an impossible reality was Still Life and Street, 1937. His artistic expression was created from images in his mind, rather than directly from observations and travels to other countries. Well known examples of his work include Drawing Hands, a work in which two hands are shown, each drawing the other; Sky and Water, in which light plays on shadow to morph the water background behind fish figures into bird figures on a sky background; and Ascending and Descending, in which lines of people ascend and descend stairs in an infinite loop, on a construction which is impossible to build and possible to draw only by taking advantage of quirks of perception and perspective.
+
+He worked primarily in the media of lithographs and woodcuts, though the few mezzotints he made are considered to be masterpieces of the technique. In his graphic art, he portrayed mathematical relationships among shapes, figures and space. Additionally, he explored interlocking figures using black and white to enhance different dimensions. Integrated into his prints were mirror images of cones, spheres, cubes, rings and spirals. Escher was left-handed.
+
+Although Escher did not have mathematical training—his understanding of mathematics was largely visual and intuitive—Escher's work had a strong mathematical component, and more than a few of the worlds which he drew were built around impossible objects such as the Necker cube and the Penrose triangle. Many of Escher's works employed repeated tilings called tessellations. Escher's artwork is especially well liked by mathematicians and scientists, who enjoy his use of polyhedra and geometric distortions. For example, in Gravity, multicolored turtles poke their heads out of a stellated dodecahedron.
+
+The mathematical influence in his work emerged around 1936, when he journeyed to the Mediterranean with the Adria Shipping Company. He became interested in order and symmetry. Escher described his journey through the Mediterranean as "the richest source of inspiration I have ever tapped."
+
+After his journey to the Alhambra, Escher tried to improve upon the art works of the Moors using geometric grids as the basis for his sketches, which he then overlaid with additional designs, mainly animals such as birds and lions.
+
+His first study of mathematics, which later led to its incorporation into his art works, began with George Pólya's academic paper on plane symmetry groups sent to him by his brother Berend. This paper inspired him to learn the concept of the 17 wallpaper groups (plane symmetry groups). Using this mathematical concept, Escher created periodic tilings with 43 colored drawings of different types of symmetry. From this point on he developed a mathematical approach to expressions of symmetry in his art works. Starting in 1937, he created woodcuts using the concept of the 17 plane symmetry groups.
+
+In 1941, Escher summarized his findings in a sketchbook, which he labeled Regelmatige vlakverdeling in asymmetrische congruente veelhoeken ("Regular division of the plane with asymmetric congruent polygons"). His intention in writing this was to aid himself in integrating mathematics into art. Escher is considered a research mathematician of his time because of his documentation with this paper, in which he studied color based division, and developed a system of categorizing combinations of shape, color and symmetrical properties.
+
+Around 1956, Escher explored the concept of representing infinity on a two-dimensional plane. Discussions with Canadian mathematician H.S.M. Coxeter inspired Escher's interest in hyperbolic tessellations, which are regular tilings of the hyperbolic plane. Escher's wood engravings Circle Limit I–IV demonstrate this concept. In 1959, Coxeter published his finding that these works were extraordinarily accurate: "Escher got it absolutely right to the millimeter."
+
+Escher was awarded the Knighthood of the Order of Orange Nassau in 1955. Subsequently he regularly designed art for dignitaries around the world.
+
+In 1958, he published a book entitled Regular Division of the Plane, with reproductions of a series of woodcuts based on tessellations of the plane, in which he described the systematic buildup of mathematical designs in his artworks. He emphasized, "Mathematicians have opened the gate leading to an extensive domain."
+
+Overall, his early love of Roman and Italian landscapes and of nature led to his interest in the concept of regular division of a plane, which he applied in over 150 colored works. Other mathematical principles evidenced in his works include the superposition of a hyperbolic plane on a fixed 2-dimensional plane, and the incorporation of three-dimensional objects such as spheres, columns and cubes into his works. For example, in a print called "Reptiles", he combined two and three-dimensional images. In one of his papers, Escher emphasized the importance of dimensionality and described himself as "irritated" by flat shapes: "I make them come out of the plane."
+
+Escher also studied topology. He learned additional concepts in mathematics from the British mathematician Roger Penrose. From this knowledge he created Waterfall and Up and Down, featuring irregular perspectives similar to the concept of the Möbius strip.
+
+Escher printed Metamorphosis I in 1937, which was a beginning part of a series of designs that told a story through the use of pictures. These works demonstrated a culmination of Escher's skills to incorporate mathematics into art. In Metamorphosis I, he transformed convex polygons into regular patterns in a plane to form a human motif. This effect symbolizes his change of interest from landscape and nature to regular division of a plane.
+
+His piece Metamorphosis III is wide enough to cover all the walls in a room, and then loop back onto itself.
+
+After 1953, Escher became a lecturer at many organizations. A planned series of lectures in North America in 1962 was cancelled due to an illness, but the illustrations and text for the lectures, written out in full by Escher, were later published as part of the book Escher on Escher. In July 1969 he finished his last work, a woodcut called Snakes, in which snakes wind through a pattern of linked rings which fade to infinity toward both the center and the edge of a circle.
+
+4. Legacy
+
+The special way of thinking and the rich graphic work of M.C. Escher has had a continuous influence in science and art, as well as being referenced in popular culture. Ownership of the Escher intellectual property and of his unique art works have been separated from each other.
+
+In 1969, Escher's business advisor, Jan W. Vermeulen, author of a biography in Dutch on the artist, established the M.C. Escher Stichting (M.C. Escher Foundation), and transferred into this entity virtually all of Escher's unique work as well as hundreds of his original prints. These works were lent by the Foundation to the Hague Museum. Upon Escher's death, his three sons dissolved the Foundation, and they became partners in the ownership of the art works. In 1980, this holding was sold to an American art dealer and the Hague Museum. The Museum obtained all of the documentation and the smaller portion of the art works.
+
+The copyrights remained the possession of the three sons – who later sold them to Cordon Art, a Dutch company. Control of the copyrights was subsequently transferred to The M.C. Escher Company B.V. of Baarn, Netherlands, which licenses use of the copyrights on all of Escher's art and on his spoken and written text.
+
+A related entity, the M.C. Escher Foundation of Baarn, promotes Escher's work by organizing exhibitions, publishing books and producing films about his life and work.
+
+The primary institutional collections of original works by M.C. Escher are the Escher Museum, a subsidiary of the Haags Gemeentemuseum in The Hague; the National Gallery of Art (Washington, DC); the National Gallery of Canada (Ottawa); the Israel Museum (Jerusalem); Huis ten Bosch (Nagasaki, Japan); and the Boston Public Library.
+
+Gödel, Escher, Bach by Douglas Hofstadter, published in 1979, discusses the ideas of self-reference and strange loops, drawing on a wide range of artistic and scientific work, including the art of M. C. Escher and the music of J. S. Bach, to illustrate ideas behind Gödel's incompleteness theorems.
+
+5. Selected works
+
+Trees, ink (1920)
+
+St. Bavo's, Haarlem, ink (1920)
+
+Flor de Pascua (The Easter Flower), woodcut/book illustrations (1921)
+
+Eight Heads, woodcut (1922)
+
+Dolphins also known as Dolphins in Phosphorescent Sea, woodcut (1923)
+
+Tower of Babel, woodcut (1928)
+
+Street in Scanno, Abruzzi, lithograph (1930)
+
+Castrovalva, lithograph (1930)
+
+The Bridge, lithograph (1930)
+
+Palizzi, Calabria, woodcut (1930)
+
+Pentedattilo, Calabria, lithograph (1930)
+
+Atrani, Coast of Amalfi, lithograph (1931)
+
+Ravello and the Coast of Amalfi, lithograph (1931)
+
+Covered Alley in Atrani, Coast of Amalfi, wood engraving (1931)
+
+Phosphorescent Sea, lithograph (1933)
+
+Still Life with Spherical Mirror, lithograph (1934)
+
+Hand with Reflecting Sphere also known as Self-Portrait in Spherical Mirror, lithograph (1935)
+
+Inside St. Peter's, wood engraving (1935)
+
+Portrait of G.A. Escher, lithograph (1935)
+
+“Hell", lithograph, (copied from a painting by Hieronymus Bosch) (1935)
+
+Regular Division of the Plane, series of drawings that continued until the 1960s (1936)
+
+Still Life and Street (his first impossible reality), woodcut (1937)
+
+Metamorphosis I, woodcut (1937)
+
+Day and Night, woodcut (1938)
+
+Cycle, lithograph (1938)
+
+Sky and Water I, woodcut (1938)
+
+Sky and Water II, lithograph (1938)
+
+Metamorphosis II, woodcut (1939–1940)
+
+Verbum (Earth, Sky and Water), lithograph (1942)
+
+Reptiles, lithograph (1943)
+
+Ant, lithograph (1943)
+
+Encounter, lithograph (1944)
+
+Doric Columns, wood engraving (1945)
+
+Three Spheres I, wood engraving (1945)
+
+Magic Mirror, lithograph (1946)
+
+Three Spheres II, lithograph (1946)
+
+Another World Mezzotint also known as Other World Gallery, mezzotint (1946)
+
+Eye, mezzotint (1946)
+
+Another World also known as Other World, wood engraving and woodcut (1947)
+
+Crystal, mezzotint (1947)
+
+Up and Down also known as High and Low, lithograph (1947)
+
+Drawing Hands, lithograph (1948)
+
+Dewdrop, mezzotint (1948)
+
+Stars, wood engraving (1948)
+
+Double Planetoid, wood engraving (1949)
+
+Order and Chaos (Contrast), lithograph (1950)
+
+Rippled Surface, woodcut and linoleum cut (1950)
+
+Curl-up, lithograph (1951)
+
+House of Stairs, lithograph (1951)
+
+House of Stairs II, lithograph (1951)
+
+Puddle, woodcut (1952)
+
+Gravitation, (1952)
+
+Dragon, woodcut lithograph and watercolor (1952)
+
+Cubic Space Division, lithograph (1952)
+
+Relativity, lithograph (1953)
+
+Tetrahedral Planetoid, woodcut (1954)
+
+Compass Rose (Order and Chaos II), lithograph (1955)
+
+Convex and Concave, lithograph (1955)
+
+Three Worlds, lithograph (1955)
+
+Print Gallery, lithograph (1956)
+
+Mosaic II, lithograph (1957)
+
+Cube with Magic Ribbons, lithograph (1957)
+
+Belvedere, lithograph (1958)
+
+Sphere Spirals, woodcut (1958)
+
+Circle Limit III, woodcut (1959)
+
+Ascending and Descending, lithograph (1960)
+
+Waterfall, lithograph (1961)
+
+Möbius Strip II (Red Ants) woodcut (1963)
+
+Knot, pencil and crayon (1966)
+
+Metamorphosis III, woodcut (1967–1968)
+
+Snakes, woodcut (1969)
+
+6. See also
+
+Asteroid 4444 Escher was named in Escher's honor in 1985.
+
+Mathematics and art#M.C. Escher
+
+7. References
+
+8. Further reading
+
+Books
+
+Abrams (1995). The M. C. Escher Sticker Book. Harry N. Abrams. ISBN 0-8109-2638-5 .
+
+Ernst, Bruno; Escher, M. C. (1995). The Magic Mirror of M. C. Escher (Taschen Series). Taschen America LLC. ISBN 1-886155-00-3 Escher's art with commentary by Ernst on Escher's life and art, including several pages on his use of polyhedra.
+
+Escher, M. C. (1971) The Graphic Work of M. C. Escher, Ballantine. Includes Escher's own commentary.
+
+Locher, J. L. (2000). The Magic of M. C. Escher. Harry N. Abrams, Inc. ISBN 0-8109-6720-0.
+
+Locher, J. L., ed. (1981) M. C. Escher: His Life and Complete Graphic Work, Amsterdam
+
+O'Connor, J. J. (17 June 2005) . University of St Andrews, Scotland.
+
+Schattschneider, Doris & Walker, Wallace. (1987) M. C. Escher Kaleidocycles, Petaluma, California, Pomegranate Communications ISBN 0-906212-28-6.
+
+Schattschneider, Doris (2004). M. C. Escher : Visions of Symmetry, New York, N.Y. : Harry N. Abrams, 2004. ISBN 0-8109-4308-5.
+
+Schattschneider, Doris & Emmer, Michele, eds (2003). M. C. Escher's Legacy: a Centennial Celebration; collection of articles coming from the M. C. Escher Centennial Conference, Rome, 1998 / Berlin; London: Springer-Verlag. ISBN 3-540-42458-X (hbk).
+
+"Escher, M. C." in: The World Book Encyclopedia; 10th ed. 2001. Media
+
+M. C. Escher, The Fantastic World of M. C. Escher, Video collection of examples of the development of his art, and interviews, Director, Michele Emmer.
+
+9. External links
+
+— physical replicas of some of Escher's "impossible" designs
+
+Copyright issue regarding Escher from the Artquest Artlaw archive.

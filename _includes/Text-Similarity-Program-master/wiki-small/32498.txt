@@ -1,0 +1,111 @@
+Volume is the quantity of three-dimensional space enclosed by some closed boundary, for example, the space that a substance (solid, liquid, gas, or plasma) or shape occupies or contains. Volume is often quantified numerically using the SI derived unit, the cubic metre. The volume of a container is generally understood to be the capacity of the container, i. e. the amount of fluid (gas or liquid) that the container could hold, rather than the amount of space the container itself displaces.
+
+Three dimensional mathematical shapes are also assigned volumes. Volumes of some simple shapes, such as regular, straight-edged, and circular shapes can be easily calculated using arithmetic formulas. Volumes of a complicated shape can be calculated by integral calculus if a formula exists for the shape's boundary. Where a variance in shape and volume occurs, such as those that exist between different human beings, these can be calculated using three-dimensional techniques such as the Body Volume Index. One-dimensional figures (such as lines) and two-dimensional shapes (such as squares) are assigned zero volume in the three-dimensional space.
+
+The volume of a solid (whether regularly or irregularly shaped) can be determined by fluid displacement. Displacement of liquid can also be used to determine the volume of a gas. The combined volume of two substances is usually greater than the volume of one of the substances. However, sometimes one substance dissolves in the other and the combined volume is not additive.
+
+In differential geometry, volume is expressed by means of the volume form, and is an important global Riemannian invariant. In thermodynamics, volume is a fundamental parameter, and is a conjugate variable to pressure.
+
+1. Units
+
+Any unit of length gives a corresponding unit of volume, namely the volume of a cube whose side has the given length. For example, a cubic centimetre (cm3) would be the volume of a cube whose sides are one centimetre (1 cm) in length.
+
+In the International System of Units (SI), the standard unit of volume is the cubic metre (m3). The metric system also includes the litre (L) as a unit of volume, where one litre is the volume of a 10-centimetre cube. Thus
+
+so
+
+Small amounts of liquid are often measured in millilitres, where
+
+Various other traditional units of volume are also in use, including the cubic inch, the cubic foot, the cubic mile, the teaspoon, the tablespoon, the fluid ounce, the fluid dram, the gill, the pint, the quart, the gallon, the minim, the barrel, the cord, the peck, the bushel, and the hogshead.
+
+2. Related terms
+
+Volume and capacity are sometimes distinguished, with capacity being used for how much a container can hold (with contents measured commonly in litres or its derived units), and volume being how much space an object displaces (commonly measured in cubic metres or its derived units).
+
+Volume and capacity are also distinguished in capacity management, where capacity is defined as volume over a specified time period. However in this context the term volume may be more loosely interpreted to mean quantity.
+
+The density of an object is defined as mass per unit volume. The inverse of density is specific volume which is defined as volume divided by mass. Specific volume is a concept important in thermodynamics where the volume of a working fluid is often an important parameter of a system being studied.
+
+The volumetric flow rate in fluid dynamics is the volume of fluid which passes through a given surface per unit time (for example cubic meters per second [m3 s−1]).
+
+3. Volume in Calculus
+
+In calculus, a branch of mathematics, the volume of a region D in R3 is given by a triple integral of the constant function and is usually written as:
+
+The volume integral in cylindrical coordinates is
+
+and the volume integral in spherical coordinates (using the convention for angles with as the azimuth and measured from the polar axis (see more on conventions)) has the form
+
+4. Volume formulae
+
+4.1. Volume ratios for a cone, sphere and cylinder of the same radius and height
+
+The above formulas can be used to show that the volumes of a cone, sphere and cylinder of the same radius and height are in the ratio 1 : 2 : 3, as follows.
+
+Let the radius be r and the height be h (which is 2r for the sphere), then the volume of cone is
+
+the volume of the sphere is
+
+while the volume of the cylinder is
+
+The discovery of the 2 : 3 ratio of the volumes of the sphere and cylinder is credited to Archimedes.
+
+5. Volume formula derivations
+
+5.1. Sphere
+
+The volume of a sphere is the integral of an infinite number of infinitesimally small circular disks of thickness dx. The calculation for the volume of a sphere with center 0 and radius r is as follows.
+
+The surface area of the circular disk is .
+
+The radius of the circular disks, defined such that the x-axis cuts perpendicularly through them, is;
+
+or
+
+where y or z can be taken to represent the radius of a disk at a particular x value.
+
+Using y as the disk radius, the volume of the sphere can be calculated as
+
+Now
+
+Combining yields
+
+This formula can be derived more quickly using the formula for the sphere's surface area, which is . The volume of the sphere consists of layers of infinitesimally thin spherical shells, and the sphere volume is equal to
+
+=
+
+5.2. Cone
+
+The cone is a type of pyramidal shape. The fundamental equation for pyramids, one-third times base times altitude, applies to cones as well.
+
+However, using calculus, the volume of a cone is the integral of an infinite number of infinitesimally thin circular disks of thickness dx. The calculation for the volume of a cone of height h, whose base is centered at (0,0,0) with radius r, is as follows.
+
+The radius of each circular disk is r if x = 0 and 0 if x = h, and varying linearly in between—that is,
+
+The surface area of the circular disk is then
+
+The volume of the cone can then be calculated as
+
+and after extraction of the constants:
+
+Integrating gives us
+
+6. Volume in differential geometry
+
+In differential geometry, a branch of mathematics, a volume form on a differentiable manifold is a differential form of top degree (i.e. whose degree is equal to the dimension of the manifold) that is nowhere equal to zero. A manifold has a volume form if and only if it is orientable. An orientable manifold has infinitely many volume forms, since multiplying a volume form by a non-vanishing function yields another volume form. On non-orientable manifolds, one may instead define the weaker notion of a density. Integrating the volume form gives the volume of the manifold according to that form.
+
+Any oriented Riemannian (or pseudo-Riemannian) manifold has a natural volume (or pseudo volume) form. In local coordinates, it can be expressed as
+
+where the are the 1-forms providing an oriented basis for the cotangent bundle of the n-dimensional manifold. Here, is the absolute value of the determinant of the matrix representation of the metric tensor on the manifold.
+
+7. Volume in thermodynamics
+
+In thermodynamics, the volume of a system is an important extensive parameter for describing its thermodynamic state. The specific volume, an intensive property, is the system's volume per unit of mass. Volume is a function of state and is interdependent with other thermodynamic properties such as pressure and temperature. For example, volume is related to the pressure and temperature of an ideal gas by the ideal gas law.
+
+8. See also
+
+9. References
+
+10. External links
+
+– Javascript automatic calculator.

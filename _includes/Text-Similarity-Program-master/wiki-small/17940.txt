@@ -1,0 +1,145 @@
+Lipids are a group of naturally occurring molecules that include fats, waxes, sterols, fat-soluble vitamins (such as vitamins A, D, E, and K), monoglycerides, diglycerides, triglycerides, phospholipids, and others. The main biological functions of lipids include storing energy, signaling, and acting as structural components of cell membranes. Lipids have applications in the cosmetic and food industries as well as in nanotechnology.
+
+Lipids may be broadly defined as hydrophobic or amphiphilic small molecules; the amphiphilic nature of some lipids allows them to form structures such as vesicles, multilamellar/unilamellar liposomes, or membranes in an aqueous environment. Biological lipids originate entirely or in part from two distinct types of biochemical subunits or "building-blocks": ketoacyl and isoprene groups. Using this approach, lipids may be divided into eight categories: fatty acids, glycerolipids, glycerophospholipids, sphingolipids, saccharolipids, and polyketides (derived from condensation of ketoacyl subunits); and sterol lipids and prenol lipids (derived from condensation of isoprene subunits).
+
+Although the term lipid is sometimes used as a synonym for fats, fats are a subgroup of lipids called triglycerides. Lipids also encompass molecules such as fatty acids and their derivatives (including tri-, di-, monoglycerides, and phospholipids), as well as other sterol-containing metabolites such as cholesterol. Although humans and other mammals use various biosynthetic pathways to both break down and synthesize lipids, some essential lipids cannot be made this way and must be obtained from the diet.
+
+The chemical formation of pre-biological lipids and their formation into protocells are considered key steps in models of abiogenesis, the origin of life.
+
+1. Categories of lipids
+
+1.1. Fatty acids
+
+Fatty acids, or fatty acid residues when they form part of a lipid, are a diverse group of molecules synthesized by chain-elongation of an acetyl-CoA primer with malonyl-CoA or methylmalonyl-CoA groups in a process called fatty acid synthesis. They are made of a hydrocarbon chain that terminates with a carboxylic acid group; this arrangement confers the molecule with a polar, hydrophilic end, and a nonpolar, hydrophobic end that is insoluble in water. The fatty acid structure is one of the most fundamental categories of biological lipids, and is commonly used as a building-block of more structurally complex lipids. The carbon chain, typically between four and 24 carbons long, may be saturated or unsaturated, and may be attached to functional groups containing oxygen, halogens, nitrogen, and sulfur. If a fatty acid contains a double bond, there is the possibility of either a cis or trans geometric isomerism, which significantly affects the molecule's configuration. Cis-double bonds cause the fatty acid chain to bend, an effect that is compounded with more double bonds in the chain. Three double bonds in 18-carbon linolenic acid, the most abundant fatty-acyl chains of plant thylakoid membranes, render these membranes highly fluid despite environmental low-temperatures, and also makes linolenic acid give dominating sharp peaks in high resolution 13-C NMR spectra of chlorplasts. This in turn plays an important role in the structure and function of cell membranes. Most naturally occurring fatty acids are of the cis configuration, although the trans form does exist in some natural and partially hydrogenated fats and oils.
+
+Examples of biologically important fatty acids include the eicosanoids, derived primarily from arachidonic acid and eicosapentaenoic acid, that include prostaglandins, leukotrienes, and thromboxanes. Docosahexaenoic acid is also important in biological systems, particularly with respect to sight. Other major lipid classes in the fatty acid category are the fatty esters and fatty amides. Fatty esters include important biochemical intermediates such as wax esters, fatty acid thioester coenzyme A derivatives, fatty acid thioester ACP derivatives and fatty acid carnitines. The fatty amides include N-acyl ethanolamines, such as the cannabinoid neurotransmitter anandamide.
+
+1.2. Glycerolipids
+
+Glycerolipids are composed of mono-, di-, and tri-substituted glycerols, the most well-known being the fatty acid triesters of glycerol, called triglycerides. The word "triacylglycerol" is sometimes used synonymously with "triglyceride". In these compounds, the three hydroxyl groups of glycerol are each esterified, typically by different fatty acids. Because they function as an energy store, these lipids comprise the bulk of storage fat in animal tissues. The hydrolysis of the ester bonds of triglycerides and the release of glycerol and fatty acids from adipose tissue are the initial steps in metabolising fat.
+
+Additional subclasses of glycerolipids are represented by glycosylglycerols, which are characterized by the presence of one or more sugar residues attached to glycerol via a glycosidic linkage. Examples of structures in this category are the digalactosyldiacylglycerols found in plant membranes and seminolipid from mammalian sperm cells.
+
+1.3. Glycerophospholipids
+
+Glycerophospholipids, usually referred to as phospholipids, are ubiquitous in nature and are key components of the lipid bilayer of cells, as well as being involved in metabolism and cell signaling. Neural tissue (including the brain) contains relatively high amounts of glycerophospholipids, and alterations in their composition has been implicated in various neurological disorders. Glycerophospholipids may be subdivided into distinct classes, based on the nature of the polar headgroup at the sn-3 position of the glycerol backbone in eukaryotes and eubacteria, or the sn-1 position in the case of archaebacteria. Examples of glycerophospholipids found in biological membranes are phosphatidylcholine (also known as PC, GPCho or lecithin), phosphatidylethanolamine (PE or GPEtn) and phosphatidylserine (PS or GPSer). In addition to serving as a primary component of cellular membranes and binding sites for intra- and intercellular proteins, some glycerophospholipids in eukaryotic cells, such as phosphatidylinositols and phosphatidic acids are either precursors of or, themselves, membrane-derived second messengers. Typically, one or both of these hydroxyl groups are acylated with long-chain fatty acids, but there are also alkyl-linked and 1Z-alkenyl-linked (plasmalogen) glycerophospholipids, as well as dialkylether variants in archaebacteria.
+
+1.4. Sphingolipids
+
+Sphingolipids are a complicated family of compounds that share a common structural feature, a sphingoid base backbone that is synthesized de novo from the amino acid serine and a long-chain fatty acyl CoA, then converted into ceramides, phosphosphingolipids, glycosphingolipids and other compounds. The major sphingoid base of mammals is commonly referred to as sphingosine. Ceramides (N-acyl-sphingoid bases) are a major subclass of sphingoid base derivatives with an amide-linked fatty acid. The fatty acids are typically saturated or mono-unsaturated with chain lengths from 16 to 26 carbon atoms. The major phosphosphingolipids of mammals are sphingomyelins (ceramide phosphocholines), whereas insects contain mainly ceramide phosphoethanolamines and fungi have phytoceramide phosphoinositols and mannose-containing headgroups. The glycosphingolipids are a diverse family of molecules composed of one or more sugar residues linked via a glycosidic bond to the sphingoid base. Examples of these are the simple and complex glycosphingolipids such as cerebrosides and gangliosides.
+
+1.5. Sterol lipids
+
+Sterol lipids, such as cholesterol and its derivatives, are an important component of membrane lipids, along with the glycerophospholipids and sphingomyelins. The steroids, all derived from the same fused four-ring core structure, have different biological roles as hormones and signaling molecules. The eighteen-carbon (C18) steroids include the estrogen family whereas the C19 steroids comprise the androgens such as testosterone and androsterone. The C21 subclass includes the progestogens as well as the glucocorticoids and mineralocorticoids. The secosteroids, comprising various forms of vitamin D, are characterized by cleavage of the B ring of the core structure. Other examples of sterols are the bile acids and their conjugates, which in mammals are oxidized derivatives of cholesterol and are synthesized in the liver. The plant equivalents are the phytosterols, such as β-sitosterol, stigmasterol, and brassicasterol; the latter compound is also used as a biomarker for algal growth. The predominant sterol in fungal cell membranes is ergosterol.
+
+1.6. Prenol lipids
+
+Prenol lipids are synthesized from the five-carbon-unit precursors isopentenyl diphosphate and dimethylallyl diphosphate that are produced mainly via the mevalonic acid (MVA) pathway. The simple isoprenoids (linear alcohols, diphosphates, etc.) are formed by the successive addition of C5 units, and are classified according to number of these terpene units. Structures containing greater than 40 carbons are known as polyterpenes. Carotenoids are important simple isoprenoids that function as antioxidants and as precursors of vitamin A. Another biologically important class of molecules is exemplified by the quinones and hydroquinones, which contain an isoprenoid tail attached to a quinonoid core of non-isoprenoid origin. Vitamin E and vitamin K, as well as the ubiquinones, are examples of this class. Prokaryotes synthesize polyprenols (called bactoprenols) in which the terminal isoprenoid unit attached to oxygen remains unsaturated, whereas in animal polyprenols (dolichols) the terminal isoprenoid is reduced.
+
+1.7. Saccharolipids
+
+Saccharolipids describe compounds in which fatty acids are linked directly to a sugar backbone, forming structures that are compatible with membrane bilayers. In the saccharolipids, a monosaccharide substitutes for the glycerol backbone present in glycerolipids and glycerophospholipids. The most familiar saccharolipids are the acylated glucosamine precursors of the Lipid A component of the lipopolysaccharides in Gram-negative bacteria. Typical lipid A molecules are disaccharides of glucosamine, which are derivatized with as many as seven fatty-acyl chains. The minimal lipopolysaccharide required for growth in E. coli is Kdo2-Lipid A, a hexa-acylated disaccharide of glucosamine that is glycosylated with two 3-deoxy-D-manno-octulosonic acid (Kdo) residues.
+
+1.8. Polyketides
+
+Polyketides are synthesized by polymerization of acetyl and propionyl subunits by classic enzymes as well as iterative and multimodular enzymes that share mechanistic features with the fatty acid synthases. They comprise a large number of secondary metabolites and natural products from animal, plant, bacterial, fungal and marine sources, and have great structural diversity. Many polyketides are cyclic molecules whose backbones are often further modified by glycosylation, methylation, hydroxylation, oxidation, and/or other processes. Many commonly used anti-microbial, anti-parasitic, and anti-cancer agents are polyketides or polyketide derivatives, such as erythromycins, tetracyclines, avermectins, and antitumor epothilones.
+
+2. Biological functions
+
+2.1. Membranes
+
+Eukaryotic cells are compartmentalized into membrane-bound organelles that carry out different biological functions. The glycerophospholipids are the main structural component of biological membranes, such as the cellular plasma membrane and the intracellular membranes of organelles; in animal cells the plasma membrane physically separates the intracellular components from the extracellular environment. The glycerophospholipids are amphipathic molecules (containing both hydrophobic and hydrophilic regions) that contain a glycerol core linked to two fatty acid-derived "tails" by ester linkages and to one "head" group by a phosphate ester linkage. While glycerophospholipids are the major component of biological membranes, other non-glyceride lipid components such as sphingomyelin and sterols (mainly cholesterol in animal cell membranes) are also found in biological membranes. In plants and algae, the galactosyldiacylglycerols, and sulfoquinovosyldiacylglycerol, which lack a phosphate group, are important components of membranes of chloroplasts and related organelles and are the most abundant lipids in photosynthetic tissues, including those of higher plants, algae and certain bacteria.
+
+Plant thylakoid membranes have the largest lipid component of a non-bilayer forming monogalactosyl diglyceride (MGDG), and little phospholipids; despite this unique lipid composition, chloroplast thylakoid membranes have been shown to contain a dynamic lipid-bilayer matrix as revealed by magnetic resonance and electron microscope studies.
+
+Bilayers have been found to exhibit high levels of birefringence, which can be used to probe the degree of order (or disruption) within the bilayer using techniques such as dual polarization interferometry and Circular dichroism.
+
+A biological membrane is a form of lamellar phase lipid bilayer. The formation of lipid bilayers is an energetically preferred process when the glycerophospholipids described above are in an aqueous environment. This is known as the hydrophobic effect. In an aqueous system, the polar heads of lipids align towards the polar, aqueous environment, while the hydrophobic tails minimize their contact with water and tend to cluster together, forming a vesicle; depending on the concentration of the lipid, this biophysical interaction may result in the formation of micelles, liposomes, or lipid bilayers. Other aggregations are also observed and form part of the polymorphism of amphiphile (lipid) behavior. Phase behavior is an area of study within biophysics and is the subject of current academic research. Micelles and bilayers form in the polar medium by a process known as the hydrophobic effect. When dissolving a lipophilic or amphiphilic substance in a polar environment, the polar molecules (i.e., water in an aqueous solution) become more ordered around the dissolved lipophilic substance, since the polar molecules cannot form hydrogen bonds to the lipophilic areas of the amphiphile. So in an aqueous environment, the water molecules form an ordered "clathrate" cage around the dissolved lipophilic molecule.
+
+The formation of lipids into protocell membranes is a key step in models of abiogenesis, the origin of life.
+
+2.2. Energy storage
+
+Triglycerides, stored in adipose tissue, are a major form of energy storage both in animals and plants. The adipocyte, or fat cell, is designed for continuous synthesis and breakdown of triglycerides in animals, with breakdown controlled mainly by the activation of hormone-sensitive enzyme lipase. The complete oxidation of fatty acids provides high caloric content, about 9 kcal/g, compared with 4 kcal/g for the breakdown of carbohydrates and proteins. Migratory birds that must fly long distances without eating use stored energy of triglycerides to fuel their flights.
+
+2.3. Signaling
+
+In recent years, evidence has emerged showing that lipid signaling is a vital part of the cell signaling. Lipid signaling may occur via activation of G protein-coupled or nuclear receptors, and members of several different lipid categories have been identified as signaling molecules and cellular messengers. These include sphingosine-1-phosphate, a sphingolipid derived from ceramide that is a potent messenger molecule involved in regulating calcium mobilization, cell growth, and apoptosis; diacylglycerol (DAG) and the phosphatidylinositol phosphates (PIPs), involved in calcium-mediated activation of protein kinase C; the prostaglandins, which are one type of fatty-acid derived eicosanoid involved in inflammation and immunity; the steroid hormones such as estrogen, testosterone and cortisol, which modulate a host of functions such as reproduction, metabolism and blood pressure; and the oxysterols such as 25-hydroxy-cholesterol that are liver X receptor agonists. Phosphatidylserine lipids are known to be involved in signaling for the phagocytosis of apoptotic cells and/or pieces of cells. They accomplish this by being exposed to the extracellular face of the cell membrane after the inactivation of flippases which place them exclusively on the cytosolic side and the activation of scramblases, which scramble the orientation of the phospholipids. After this occurs, other cells recognize the phosphatidylserines and phagocytosize the cells or cell fragments exposing them.
+
+2.4. Other functions
+
+The "fat-soluble" vitamins (A, D, E and K) – which are isoprene-based lipids – are essential nutrients stored in the liver and fatty tissues, with a diverse range of functions. Acyl-carnitines are involved in the transport and metabolism of fatty acids in and out of mitochondria, where they undergo beta oxidation. Polyprenols and their phosphorylated derivatives also play important transport roles, in this case the transport of oligosaccharides across membranes. Polyprenol phosphate sugars and polyprenol diphosphate sugars function in extra-cytoplasmic glycosylation reactions, in extracellular polysaccharide biosynthesis (for instance, peptidoglycan polymerization in bacteria), and in eukaryotic protein N-glycosylation. Cardiolipins are a subclass of glycerophospholipids containing four acyl chains and three glycerol groups that are particularly abundant in the inner mitochondrial membrane. They are believed to activate enzymes involved with oxidative phosphorylation. Lipids also form the basis of steroid hormones.
+
+3. Metabolism
+
+The major dietary lipids for humans and other animals are animal and plant triglycerides, sterols, and membrane phospholipids. The process of lipid metabolism synthesizes and degrades the lipid stores and produces the structural and functional lipids characteristic of individual tissues.
+
+3.1. Biosynthesis
+
+In animals, when there is an oversupply of dietary carbohydrate, the excess carbohydrate is converted to triglycerides. This involves the synthesis of fatty acids from acetyl-CoA and the esterification of fatty acids in the production of triglycerides, a process called lipogenesis. Fatty acids are made by fatty acid synthases that polymerize and then reduce acetyl-CoA units. The acyl chains in the fatty acids are extended by a cycle of reactions that add the acetyl group, reduce it to an alcohol, dehydrate it to an alkene group and then reduce it again to an alkane group. The enzymes of fatty acid biosynthesis are divided into two groups, in animals and fungi all these fatty acid synthase reactions are carried out by a single multifunctional protein, while in plant plastids and bacteria separate enzymes perform each step in the pathway. The fatty acids may be subsequently converted to triglycerides that are packaged in lipoproteins and secreted from the liver.
+
+The synthesis of unsaturated fatty acids involves a desaturation reaction, whereby a double bond is introduced into the fatty acyl chain. For example, in humans, the desaturation of stearic acid by stearoyl-CoA desaturase-1 produces oleic acid. The doubly unsaturated fatty acid linoleic acid as well as the triply unsaturated α-linolenic acid cannot be synthesized in mammalian tissues, and are therefore essential fatty acids and must be obtained from the diet.
+
+Triglyceride synthesis takes place in the endoplasmic reticulum by metabolic pathways in which acyl groups in fatty acyl-CoAs are transferred to the hydroxyl groups of glycerol-3-phosphate and diacylglycerol.
+
+Terpenes and isoprenoids, including the carotenoids, are made by the assembly and modification of isoprene units donated from the reactive precursors isopentenyl pyrophosphate and dimethylallyl pyrophosphate. These precursors can be made in different ways. In animals and archaea, the mevalonate pathway produces these compounds from acetyl-CoA, while in plants and bacteria the non-mevalonate pathway uses pyruvate and glyceraldehyde 3-phosphate as substrates. One important reaction that uses these activated isoprene donors is steroid biosynthesis. Here, the isoprene units are joined together to make squalene and then folded up and formed into a set of rings to make lanosterol. Lanosterol can then be converted into other steroids such as cholesterol and ergosterol.
+
+3.2. Degradation
+
+Beta oxidation is the metabolic process by which fatty acids are broken down in the mitochondria and/or in peroxisomes to generate acetyl-CoA. For the most part, fatty acids are oxidized by a mechanism that is similar to, but not identical with, a reversal of the process of fatty acid synthesis. That is, two-carbon fragments are removed sequentially from the carboxyl end of the acid after steps of dehydrogenation, hydration, and oxidation to form a beta-keto acid, which is split by thiolysis. The acetyl-CoA is then ultimately converted into ATP, CO2, and H2O using the citric acid cycle and the electron transport chain.
+
+Hence the Krebs Cycle can start at acetyl-CoA when fat is being broken down for energy if there is little or no glucose available.
+
+The energy yield of the complete oxidation of the fatty acid palmitate is 106 ATP. Unsaturated and odd-chain fatty acids require additional enzymatic steps for degradation.
+
+4. Nutrition and health
+
+Most of the fat found in food is in the form of triglycerides, cholesterol, and phospholipids. Some dietary fat is necessary to facilitate absorption of fat-soluble vitamins (A, D, E, and K) and carotenoids. Humans and other mammals have a dietary requirement for certain essential fatty acids, such as linoleic acid (an omega-6 fatty acid) and alpha-linolenic acid (an omega-3 fatty acid) because they cannot be synthesized from simple precursors in the diet. Both of these fatty acids are 18-carbon polyunsaturated fatty acids differing in the number and position of the double bonds. Most vegetable oils are rich in linoleic acid (safflower, sunflower, and corn oils). Alpha-linolenic acid is found in the green leaves of plants, and in selected seeds, nuts, and legumes (in particular flax, rapeseed, walnut, and soy). Fish oils are particularly rich in the longer-chain omega-3 fatty acids eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). A large number of studies have shown positive health benefits associated with consumption of omega-3 fatty acids on infant development, cancer, cardiovascular diseases, and various mental illnesses, such as depression, attention-deficit hyperactivity disorder, and dementia. In contrast, it is now well-established that consumption of trans fats, such as those present in partially hydrogenated vegetable oils, are a risk factor for cardiovascular disease.
+
+A few studies have suggested that total dietary fat intake is linked to an increased risk of obesity and diabetes. However, a number of very large studies, including the Women's Health Initiative Dietary Modification Trial, an eight-year study of 49,000 women, the Nurses' Health Study and the Health Professionals Follow-up Study, revealed no such links. None of these studies suggested any connection between percentage of calories from fat and risk of cancer, heart disease, or weight gain. The Nutrition Source, a website maintained by the Department of Nutrition at the Harvard School of Public Health, summarizes the current evidence on the impact of dietary fat: "Detailed research—much of it done at Harvard—shows that the total amount of fat in the diet isn't really linked with weight or disease."
+
+5. See also
+
+Emulsion test
+
+Essential fatty acid
+
+Lipid microdomain
+
+Lipid signaling
+
+Lipidomics
+
+Lipoprotein
+
+Protein-lipid interaction
+
+Phenolic lipids, a class of natural products composed of long aliphatic chains and phenolic rings that occur in plants, fungi and bacteria
+
+6. References
+
+6.1. Bibliography
+
+7. External links
+
+Introductory
+
+– Round-up and summaries of recent lipid research
+
+– General reference on lipid chemistry and biochemistry
+
+– Resources and history for lipids.
+
+– Modeling of Lipid Membranes
+
+– The Virtual Library of Biochemistry and Cell Biology Nomenclature
+
+Databases
+
+– Comprehensive lipid and lipid-associated gene/protein databases.
+
+– Japanese database of lipids and related properties, spectral data and references. General
+
+– Provides dyslipidemia and cardiovascular disease prevention and treatment information as well as continuing medical education programs
+
+– Professional medical education organization for health care professionals who seek to prevent morbidity and mortality stemming from dyslipidemias and other cholesterol-related disorders.

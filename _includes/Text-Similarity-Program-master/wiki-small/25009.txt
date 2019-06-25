@@ -1,0 +1,321 @@
+Privacy ( or ; from ) is the ability of an individual or group to seclude themselves, or information about themselves, and thereby express themselves selectively. The boundaries and content of what is considered private differ among cultures and individuals, but share common themes. When something is private to a person, it usually means that something is inherently special or sensitive to them. The domain of privacy partially overlaps security, which can include the concepts of appropriate use, as well as protection of information. Privacy may also take the form of bodily integrity.
+
+The right not to be subjected to unsanctioned invasion of privacy by the government, corporations or individuals is part of many countries' privacy laws, and in some cases, constitutions. Almost all countries have laws which in some way limit privacy. An example of this would be law concerning taxation, which normally require the sharing of information about personal income or earnings. In some countries individual privacy may conflict with freedom of speech laws and some laws may require public disclosure of information which would be considered private in other countries and cultures.
+
+Privacy may be voluntarily sacrificed, normally in exchange for perceived benefits and very often with specific dangers and losses, although this is a very strategic view of human relationships. In the business world, a person may volunteer personal details (often for advertising purposes) in order to gamble on winning a prize. Personal information which is voluntarily shared but subsequently stolen or misused can lead to identity theft.
+
+The concept of universal individual privacy is a modern construct associated with Western culture, British and North American in particular, and remained virtually unknown in some cultures until recent times. According to some researchers, this concept sets Anglo-American culture apart even from Western European cultures such as French or Italian. Most cultures, however, recognize the ability of individuals to withhold certain parts of their personal information from wider society—a figleaf over the genitals being an ancient example.
+
+The word "privacy" is an example of an untranslatable lexeme, and many languages do not have a specific word for "privacy". Such languages either use a complex description to translate the term (such as Russian combining the meaning of уединение—solitude, секретность—secrecy, and частная жизнь—private life) or borrow from English "privacy" (as Indonesian Privasi or Italian la privacy).
+
+1. Types
+
+Privacy can mean different things in different contexts; different people, cultures, and nations have different expectations about how much privacy a person is entitled to or what constitutes an invasion of privacy.
+
+1.1. Personal privacy
+
+Most people have a strong sense of privacy in relation to the exposure of their body to others. This is an aspect of personal modesty. A person will go to extreme lengths to protect this personal modesty, the main way being the wearing of clothes. Other ways include erection of walls, fences, screens, use of cathedral glass, partitions, by maintaining a distance, beside other ways. People who go to those lengths expect that their privacy will be respected by others. At the same time, people are prepared to expose themselves in acts of physical intimacy, but these are confined to exposure in circumstances and of persons of their choosing. Even a discussion of those circumstances is regarded as intrusive and typically unwelcome.
+
+Physical privacy could be defined as preventing "intrusions into one's physical space or solitude." This would include concerns such as:
+
+Preventing intimate acts or hiding one's body from others for the purpose of modesty; apart from being dressed this can be achieved by walls, fences, privacy screens, cathedral glass, partitions between urinals, by being far away from others, on a bed by a bed sheet or a blanket, when changing clothes by a towel, etc.; to what extent these measures also prevent acts being heard varies
+
+Video, of aptly named graphic, or intimate, acts, behaviors or body parts
+
+Preventing searching of one's personal possessions
+
+Preventing unauthorized access to one's home or vehicle
+
+Medical privacy, the right to make fundamental medical decisions without governmental coercion or third-party review, most widely applied to questions of contraception An example of the legal basis for the right to physical privacy is the U.S. Fourth Amendment, which guarantees "the right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures". Most countries have laws regarding trespassing and property rights also determine the right of physical privacy.
+
+Physical privacy may be a matter of cultural sensitivity, personal dignity, and/or shyness. There may also be concerns about safety, if for example one is wary of becoming the victim of crime or stalking. Civil inattention is a process whereby individuals are able to maintain their privacy within a crowd.
+
+1.2. Informational
+
+Information or data privacy refers to the evolving relationship between technology and the legal right to, or public expectation of, privacy in the collection and sharing of data about one's self. Privacy concerns exist wherever uniquely identifiable data relating to a person or persons are collected and stored, in digital form or otherwise. In some cases these concerns refer to how data are collected, stored, and associated. In other cases the issue is who is given access to information. Other issues include whether an individual has any ownership rights to data about them, and/or the right to view, verify, and challenge that information.
+
+Various types of personal information are often associated with privacy concerns. Information plays an important role in the decision-action process, which can lead to problems in terms of privacy and availability. First, it allows people to see all the options and alternatives available. Secondly, it allows people to choose which of the options would be best for a certain situation. An information landscape consists of the information, its location in the so-called network, as well as its availability, awareness, and usability. Yet the set-up of the information landscape means that information that is available in one place may not be available somewhere else. This can lead to a privacy situation that leads to questions regarding which people have the power to access and use certain information, who should have that power, and what provisions govern it. For various reasons, individuals may object to personal information such as their religion, sexual orientation, political affiliations, or personal activities being revealed, perhaps to avoid discrimination, personal embarrassment, or damage to their professional reputations.
+
+Financial privacy, in which information about a person's financial transactions is guarded, is important for the avoidance of fraud including identity theft. Information about a person's purchases, for instance, can reveal a great deal about their preferences, places they have visited, their contacts, products (such as medications) they use, their activities and habits, etc.
+
+Internet privacy is the ability to determine what information one reveals or withholds about oneself over the Internet, who has access to such information, and for what purposes one's information may or may not be used. For example, web users may be concerned to discover that many of the web sites which they visit collect, store, and possibly share personally identifiable information about them. Similarly, Internet email users generally consider their emails to be private and hence would be concerned if their email was being accessed, read, stored or forwarded by third parties without their consent. Tools used to protect privacy on the Internet include encryption tools and anonymizing services like I2P and Tor.
+
+Medical privacy Protected Health Information OCR/HIPAA] allows a person to withhold their medical records and other information from others, perhaps because of fears that it might affect their insurance coverage or employment, or to avoid the embarrassment caused by revealing medical conditions or treatments. Medical information could also reveal other aspects of one's personal life, such as sexual preferences or proclivity. A right to sexual privacy enables individuals to acquire and use contraceptives without family, community or legal sanctions.
+
+Political privacy has been a concern since voting systems emerged in ancient times. The secret ballot helps to ensure that voters cannot be coerced into voting in certain ways, since they can allocate their vote as they wish in the privacy and security of the voting booth while maintaining the anonymity of the vote. Secret ballots are nearly universal in modern democracy, and considered a basic right of citizenship, despite the difficulties that they cause (for example the inability to trace votes back to the corresponding voters increases the risk of someone stuffing additional fraudulent votes into the system: additional security controls are needed to minimize such risks).
+
+Corporate privacy refers to the privacy rights of corporate actors like senior executives of large, publicly traded corporations. Desires for corporate privacy can frequently raise issues with obligations for public disclosures under securities and corporate law.
+
+1.3. Organizational
+
+Government agencies, corporations, groups/societies and other organizations may desire to keep their activities or secrets from being revealed to other organizations or individuals, adopting various security practices and controls in order to keep private information confidential. Organizations may seek legal protection for their secrets. For example, a government administration may be able to invoke executive privilege or declare certain information to be classified, or a corporation might attempt to protect valuable proprietary information as trade secrets.
+
+1.4. Spiritual and intellectual
+
+The earliest legislative development of privacy rights began under British common law, which protected "only the physical interference of life and property." Its development from then on became "one of the most significant chapters in the history of privacy law." Privacy rights gradually expanded to include a "recognition of man's spiritual nature, of his feelings and his intellect." Eventually, the scope of those rights broadened even further to include a basic "right to be let alone", and the former definition of "property" would then comprise "every form of possession -- intangible, as well as tangible." By the late 19th century, interest in a "right to privacy" grew as a response to the growth of print media, especially newspapers.
+
+2. History
+
+2.1. Technology
+
+As technology has advanced, the way in which privacy is protected and violated has changed with it. In the case of some technologies, such as the printing press or the Internet, the increased ability to share information can lead to new ways in which privacy can be breached. It is generally agreed that the first publication advocating privacy in the United States was the article by Samuel Warren and Louis Brandeis, "The Right to Privacy", , that was written largely in response to the increase in newspapers and photographs made possible by printing technologies.
+
+New technologies can also create new ways to gather private information. For example, in the United States it was thought that heat sensors intended to be used to find marijuana-growing operations would be acceptable. However in 2001 in Kyllo v. United States (533 U.S. 27) it was decided that the use of thermal imaging devices that can reveal previously unknown information without a warrant does indeed constitute a violation of privacy.
+
+Generally the increased ability to gather and send information has had negative implications for retaining privacy. As large-scale information systems become more common, there is so much information stored in many databases worldwide that an individual has no practical means of knowing of or controlling all of the information about themselves that others may have hold or access. Such information could potentially be sold to others for profit and/or be used for purposes not known to or sanctioned by the individual concerned. The concept of information privacy has become more significant as more systems controlling more information appear. Also the consequences of privacy violations can be more severe. Privacy law in many countries has had to adapt to changes in technology in order to address these issues and, to some extent, maintain privacy rights. But the existing global privacy rights framework has also been criticized as incoherent and inefficient. Proposals such as the APEC Privacy Framework have emerged which set out to provide the first comprehensive legal framework on the issue of global data privacy.
+
+There are various theories about privacy and privacy control. The Invasion Paradigm defines privacy violation as the hostile actions of a wrongdoer who causes direct harm to an individual. This is a reactive view of privacy protection as it waits until there is a violation before acting to protect the violated individual, sometimes through criminal punishments for those who invaded the privacy of others. In the Invasion Paradigm this threat of criminal punishment that is supposed to work as deterrent. The Secrecy paradigm defines a privacy invasion as someone’s concealed information or hidden world being revealed through surveillance. The Negative Freedom Paradigm views privacy as freedom from invasion rather than a right, going against the more popular view of a “right to privacy.” Finally, the Inaccessibility Paradigm states that privacy is the state where something is completely inaccessible to others. Daniel Solove, a law professor at George Washington University also has a theory of privacy. He believes that a conceptualized view of privacy will not work because there is no one core element. There are many different, interconnected elements involved in privacy and privacy protection. Therefore, Solove proposes looking at these issues from the bottom up, focusing on privacy problems. People may often overlook the fact that certain elements of privacy problems are due to the structure of privacy itself. Therefore, the architecture must change wherein people must learn to view privacy as a social and legal structure. He also states that people have to redefine the relationship between privacy and businesses and the government. Participation in certain privacy elements of the government and businesses should allow people to choose whether they want to be a part of certain aspects of their work that could be considered privacy invasion.
+
+2.2. Internet
+
+The Internet has brought new concerns about privacy in an age where computers can permanently store records of everything: "where every online photo, status update, Twitter post and blog entry by and about us can be stored forever", writes law professor and author Jeffrey Rosen.
+
+This currently has an effect on employment. Microsoft reports that 75 percent of U.S. recruiters and human-resource professionals now do online research about candidates, often using information provided by search engines, social-networking sites, photo/video-sharing sites, personal web sites and blogs, and Twitter. They also report that 70 percent of U.S. recruiters have rejected candidates based on internet information. This has created a need by many to control various online privacy settings in addition to controlling their online reputations, both of which have led to legal suits against various sites and employers.
+
+The ability to do online inquiries about individuals has expanded dramatically over the last decade. Facebook for example, as of July 2010, was the largest social-networking site, with nearly 500 million members, or 22 percent of all Internet users, who upload over 25 billion pieces of content each month. Twitter has more than 100 million registered users. The Library of Congress recently announced that it will be acquiring—and permanently storing—the entire archive of public Twitter posts since 2006, reports Rosen.
+
+Importantly, directly observed behaviour, such as browsing logs, search queries, or contents of the Facebook profile can be automatically processed to infer secondary information about an individual, such as sexual orientation, political and religious views, race, substance use, intelligence, and personality. Effectively, individual views and preferences can be revealed even if they were not directly expressed or indicated (e.g. by stating their political views on their Facebook profile, or visiting a gay community website).
+
+According to some experts, many commonly used communication devices may be mapping every move of their users. Senator Al Franken has noted the seriousness of iPhones and iPads having the ability to record and store users' locations in unencrypted files, although Apple denied doing so.
+
+Andrew Grove, co-founder and former CEO of Intel Corporation, offered his thoughts on internet privacy in an interview in 2000:
+
+3. Right to privacy
+
+Privacy uses the theory of natural rights, and generally responds to new information and communication technologies. In North America, Samuel D. Warren and Louis D. Brandeis wrote that privacy is the "right to be let alone" (Warren & Brandeis, 1890) focuses on protecting individuals. This citation was a response to recent technological developments, such as photography, and sensationalist journalism, also known as yellow journalism.
+
+Privacy rights are inherently intertwined with information technology. In his widely cited dissenting opinion in Olmstead v. United States (1928), Brandeis relied on thoughts he developed in his Harvard Law Review article in 1890. But in his dissent, he now changed the focus whereby he urged making personal privacy matters more relevant to constitutional law, going so far as saying "the government [was] identified .... as a potential privacy invader." He writes, "Discovery and invention have made it possible for the Government, by means far more effective than stretching upon the rack, to obtain disclosure in court of what is whispered in the closet." At that time, telephones were often community assets, with shared party lines and the potentially nosey human operators. By the time of Katz, in 1967, telephones had become personal devices with lines not shared across homes and switching was electro-mechanical. In the 1970s, new computing and recording technologies began to raise concerns about privacy, resulting in the Fair Information Practice Principles.
+
+3.1. Definitions
+
+In recent years there have been only few attempts to clearly and precisely define a "right to privacy." Some experts assert that in fact the right to privacy "should not be defined as a separate legal right" at all. By their reasoning, existing laws relating to privacy in general should be sufficient. Other experts, such as Dean Prosser, have attempted, but failed, to find a "common ground" between the leading kinds of privacy cases in the court system, at least to formulate a definition. One law school treatise from Israel, however, on the subject of "privacy in the digital environment", suggests that the "right to privacy should be seen as an independent right that deserves legal protection in itself." It has therefore proposed a working definition for a "right to privacy":
+
+The right to privacy is our right to keep a domain around us, which includes all those things that are part of us, such as our body, home, property, thoughts, feelings, secrets and identity. The right to privacy gives us the ability to choose which parts in this domain can be accessed by others, and to control the extent, manner and timing of the use of those parts we choose to disclose.
+
+3.2. An individual "right"
+
+Alan Westin believes that new technologies alter the balance between privacy and disclosure, and that privacy rights may limit government surveillance to protect democratic processes. Westin defines privacy as "the claim of individuals, groups, or institutions to determine for themselves when, how, and to what extent information about them is communicated to others". Westin describes four states of privacy: solitude, intimacy, anonymity, and reserve. These states must balance participation against norms:
+
+Each individual is continually engaged in a personal adjustment process in which he balances the desire for privacy with the desire for disclosure and communication of himself to others, in light of the environmental conditions and social norms set by the society in which he lives. - Alan Westin, Privacy and Freedom, 1968 Under liberal democratic systems, privacy creates a space separate from political life, and allows personal autonomy, while ensuring democratic freedoms of association and expression.
+
+David Flaherty believes networked computer databases pose threats to privacy. He develops 'data protection' as an aspect of privacy, which involves "the collection, use, and dissemination of personal information". This concept forms the foundation for fair information practices used by governments globally. Flaherty forwards an idea of privacy as information control, "[i]ndividuals want to be left alone and to exercise some control over how information about them is used".
+
+Richard Posner and Lawrence Lessig focus on the economic aspects of personal information control. Posner criticizes privacy for concealing information, which reduces market efficiency. For Posner, employment is selling oneself in the labour market, which he believes is like selling a product. Any 'defect' in the 'product' that is not reported is fraud. For Lessig, privacy breaches online can be regulated through code and law. Lessig claims "the protection of privacy would be stronger if people conceived of the right as a property right", and that "individuals should be able to control information about themselves". Economic approaches to privacy make communal conceptions of privacy difficult to maintain.
+
+3.3. A collective value and a human right
+
+There have been attempts to reframe privacy as a fundamental human right, whose social value is an essential component in the functioning of democratic societies. Amitai Etzioni suggests a communitarian approach to privacy. This requires a shared moral culture for establishing social order. Etzioni believes that "[p]rivacy is merely one good among many others", and that technological effects depend on community accountability and oversight (ibid). He claims that privacy laws only increase government surveillance by weakening informal social controls. Furthermore, the government is no longer the only or even principle threat to people's privacy. Etzioni notes that corporate data miners, or "," stand to profit by selling massive dossiers personal information, including purchasing decisions and Internet traffic, to the highest bidder. And while some might not find collection of private information objectionable when it is only used commercially by the private sector, the information these corporations amass and process is also available to the government, so that it is no longer possible to protect privacy by only curbing the State.
+
+Priscilla Regan believes that individual concepts of privacy have failed philosophically and in policy. She supports a social value of privacy with three dimensions: shared perceptions, public values, and collective components. Shared ideas about privacy allows freedom of conscience and diversity in thought. Public values guarantee democratic participation, including freedoms of speech and association, and limits government power. Collective elements describe privacy as collective good that cannot be divided. Regan's goal is to strengthen privacy claims in policy making: "if we did recognize the collective or public-good value of privacy, as well as the common and public value of privacy, those advocating privacy protections would have a stronger basis upon which to argue for its protection".
+
+Leslie Regan Shade argues that the human right to privacy is necessary for meaningful democratic participation, and ensures human dignity and autonomy. Privacy depends on norms for how information is distributed, and if this is appropriate. Violations of privacy depend on context. The human right to privacy has precedent in the United Nations Declaration of Human Rights: "Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers." Shade believes that privacy must be approached from a people-centered perspective, and not through the marketplace.
+
+4. Protection
+
+4.1. Free market versus consumer protection approaches
+
+Approaches to privacy can, broadly, be divided into two categories: free market, and consumer protection. In a free market approach, commercial entities are largely allowed to do what they wish, with the expectation that consumers will choose to do business with corporations that respect their privacy to a desired degree. If some companies are not sufficiently respectful of privacy, they will lose market share. Such an approach may be limited by lack of competition in a market, by enterprises not offering privacy options favorable to the user, or by lack of information about actual privacy practices. Claims of privacy protection made by companies may be difficult for consumers to verify, except when they have already been violated.
+
+In a consumer protection approach, in contrast, it is claimed that individuals may not have the time or knowledge to make informed choices, or may not have reasonable alternatives available. In support of this view, Jensen and Potts showed that most privacy policies are above the reading level of the average person. Therefore, this approach advocates greater government definition and enforcement of privacy standards.
+
+4.2. Privacy law
+
+Privacy law is the area of law concerning the protecting and preserving of privacy rights of individuals. While there is no universally accepted privacy law among all countries, some organizations promote certain concepts be enforced by individual countries. For example, the Universal Declaration of Human Rights, article 12, states:
+
+4.2.1. Australia
+
+In Australia there is the Privacy Act 1988. Privacy sector provisions of the Act apply to private sector organisations with a link to Australia, including: 1. individuals who collect, use or disclose personal information in the course of a business. For example, a sole trader's business activities will be regulated (unless it's a small business), but information gathered outside business activities won't be; 2. bodies corporate; and 3. partnerships, unincorporated associations and trusts - any act or practice of a partner, committee member or trustee is attributed to the organisation. Organisations outside Australia must comply with the provisions in some circumstances. Sending information out of Australia is also regulated.
+
+4.2.2. Brazil
+
+The Constitution of Brazil sets privacy as a major fundamental right. Even the State is not allowed to violate personal data, intimacy, private life, honor and image (article 5, incise X). In extreme situations, a judicial order can authorize some level of disclosure. But some data, such as correspondence, are absolutely inviolable, and not even judicial order can authorize the disclosure.
+
+4.2.3. Canada
+
+Canadian privacy law is governed federally by multiple acts, including the Canadian Charter of Rights and Freedoms, and the Privacy Act (Canada). Mostly this legislation concerns privacy infringement by government organizations. Data privacy was first addressed with the Personal Information Protection and Electronic Documents Act, and provincial-level legislation also exists to account for more specific cases personal privacy protection against commercial organizations.
+
+4.2.4. European Union
+
+For Europe, Article 8 of the European Convention on Human Rights guarantees the right to respect for private and family life, one's home and correspondence. The European Court of Human Rights in Strasbourg has developed a large body of jurisprudence defining this fundamental right to privacy. The European Union requires all member states to legislate to ensure that citizens have a right to privacy, through directives such as the 1995 Directive 95/46/EC on the protection of personal data. It is regulated in the United Kingdom by the Data Protection Act 1998 and in France data protection is also monitored by the CNIL, a governmental body which must authorize legislation concerning privacy before them being enacted. In civil law jurisdictions, the right to privacy fell within the ambit of the right to a private life (droit a la vie privee) from which the tort could be claimed. Personality rights and the broader tort based interpretation of the right to privacy protected correspondence, personal information and dignity. These rights gave rise to causes for damages in most civil law jurisdictions and common law jurisdictions prior to the sui generis development of Data Protection.
+
+Although there are comprehensive regulations for data protection, some studies show that despite the laws, there is a lack of enforcement in that no institution feels responsible to control the parties involved and enforce their laws. The European Union is also championing for the 'Right to be Forgotten' concept (which allows individuals to ask that links leading to information about themselves be removed from internet search engine results) to be adopted by other countries.
+
+4.2.5. India
+
+India has no dedicated privacy and data protection laws and the same has been interpreted by the Indian Supreme Court in Article 21 of the Indian Constitution. India is also weak at protecting civil liberties in cyberspace. A parliamentary committee also slammed the Indian government for poor privacy laws in India.
+
+Some legal experts have reiterated that privacy is a human right that Indian government cannot deny. Like other countries, India is also using national security as an excuse to invade privacy of Indian citizens. The demands to ensure privacy rights in India has significantly increased in the recent days.
+
+4.2.6. United Kingdom
+
+In the United Kingdom, it is not possible to bring an action for invasion of privacy. An action may be brought under another tort (usually breach of confidence) and privacy must then be considered under EC law. In the UK, it is sometimes a defence that disclosure of private information was in the public interest. There is, however, the Information Commissioner's Office (ICO), an independent public body set up to promote access to official information and protect personal information. They do this by promoting good practice, ruling on eligible complaints, giving information to individuals and organisations, and taking action when the law is broken. The relevant UK laws include: Data Protection Act 1998; Freedom of Information Act 2000; Environmental Information Regulations 2004; Privacy and Electronic Communications Regulations 2003. The ICO has also provided a "Personal Information Toolkit" online which explains in more detail the various ways of protecting privacy online.
+
+4.2.7. United States
+
+Concerning privacy laws of the United States, individual as well as locational privacy is guaranteed by the Constitution of the United States under the 4th amendment of the consitution . The Supreme Court of the United States has found that other guarantees have "penumbras" that implicitly grant a right to privacy against government intrusion, for example in Griswold v. Connecticut (1965). In the United States, the right of freedom of speech granted in the First Amendment has limited the effects of lawsuits for breach of privacy. Privacy is regulated in the U.S. by the Privacy Act of 1974, and various state laws. Certain privacy rights have been established in the United States via legislation such as the Children's Online Privacy Protection Act (COPPA), the Gramm–Leach–Bliley Act (GLB), and the Health Insurance Portability and Accountability Act (HIPAA).
+
+4.3. Privacy Index
+
+The Electronic Privacy Information Center's Privacy Index puts Brazil, Australia, Japan and South Africa in the higher level of privacy (around 2.2). On the bottom of the list are the United States and United Kingdom (around 1.4).
+
+4.4. Privacy on the Internet
+
+There are many means to protect one's privacy on the internet.
+
+For example e-mails can be encrypted and anonymizing proxies or anonymizing networks like I2P and Tor can be used to prevent the internet service providers from knowing which sites one visits and with whom one communicates. Covert collection of personally identifiable information has been identified as a primary concern by the U.S. Federal Trade Commission. Although some privacy advocates recommend the deletion of original and third-party HTTP cookies, Anthony Miyazaki, marketing professor at Florida International University and privacy scholar, warns that the "elimination of third-party cookie use by Web sites can be circumvented by cooperative strategies with third parties in which information is transferred after the Web site's use of original domain cookies." As of December 2010, the Federal Trade Commission is reviewing policy regarding this issue as it relates to behavioral advertising. Another aspect of privacy on the Internet relates to online social networking. Several online social network sites (OSNs) are among the top 10 most visited websites globally. A review and evaluation of scholarly work regarding the current state of the value of individuals' privacy of online social networking show the following results: "first, adults seem to be more concerned about potential privacy threats than younger users; second, policy makers should be alarmed by a large part of users who underestimate risks of their information privacy on OSNs; third, in the case of using OSNs and its services, traditional one-dimensional privacy approaches fall short". This is exacerbated by the research indicating that personal traits such as sexual orientation, race, religious and political views, personality, or intelligence can be inferred based on the wide variety of digital footprint, such as samples of text, browsing logs, or Facebook Likes.
+
+4.5. Privacy and location-based services
+
+As location tracking capabilities of mobile devices are increasing, problems related to user privacy arise, since user's position and preferences constitute personal information and improper use of them violates user's privacy. A recent MIT study by de Montjoye et al. showed that 4 spatio-temporal points, approximate places and times, are enough to uniquely identify 95% of 1.5M people in a mobility database. The study further shows that these constraints hold even when the resolution of the dataset is low. Therefore, even coarse or blurred datasets provide little anonymity.
+
+Several methods to protect user's privacy when using location-based services have been proposed, including the use of anonymizing servers, blurring of information e.a. Methods to quantify privacy have also been proposed, to be able to calculate the equilibrium between the benefit of providing accurate location information and the drawbacks of risking personal privacy. Users of such services may also choose to display more generic location information (i.e. "In the City" or "Philadelphia" or "Work") to some of their more casual acquaintances while only displaying specific location information, such as their exact address, to closer contacts like spouse, relatives, and good friends.
+
+In recent years, seen with the increasing importance of mobile devices and pared with the National Do Not Call Registry, telemarketers have turned attention to mobiles. The efforts of telemarketers to use mobile devices have been met with both Federal Trade Commission and companies like PrivacyStar. Each year, thousands of complaints are filed to the FTC database with the help of companies and consumers.
+
+4.6. Privacy by design
+
+The principle of privacy by design states that privacy and data protection are embedded throughout the entire life cycle of technologies, from the early design stage to their deployment, use and ultimate disposal.
+
+4.7. Privacy self-synchronization
+
+Privacy self-synchronization is the mode by which the stakeholders of an enterprise privacy program spontaneously contribute collaboratively to the program's maximum success. The stakeholders may be customers, employees, managers, executives, suppliers, partners or investors. When self-synchronization is reached, the model states that the personal interests of individuals toward their privacy is in balance with the business interests of enterprises who collect and use the personal information of those individuals.
+
+5. See also
+
+Civil liberties
+
+Digital identity
+
+Expectation of privacy
+
+Identity theft
+
+Identity theft in the United States
+
+Identity Theft Resource Center
+
+Information privacy
+
+Information privacy law
+
+Mind your own business
+
+Nineteen Eighty-Four
+
+Personal rights
+
+Personality rights
+
+Privacy law
+
+Privacy laws of the United States
+
+Privacy policy
+
+Privacy Rights Clearinghouse
+
+Privacy software
+
+Private sphere
+
+Privacy-enhancing technologies
+
+Profiling (information science)
+
+Public figure
+
+Solitude
+
+Sousveillance
+
+Surveillance
+
+Computer and network surveillance
+
+Mass surveillance
+
+Mass surveillance in Australia
+
+Mass surveillance in China
+
+Mass surveillance in India
+
+Mass surveillance in East Germany
+
+Mass surveillance in North Korea
+
+Mass surveillance in the United Kingdom
+
+Mass surveillance in the United States
+
+Mass surveillance industry
+
+Global surveillance
+
+2013 global surveillance disclosures
+
+6. References
+
+7. Further reading
+
+Amitai Etzioni, 2000, , New York: Basic Books.
+
+Thomas Allmer, A Critical Contribution to Theoretical Foundations of Privacy Studies, "Journal of Information, Communication & Ethics in Society", Vol. 9, 2, pp. 83–101.
+
+Ruth Gavison, "Privacy and the Limits of the Law," in Michael J. Gorr and Sterling Harwood, eds., Crime and Punishment: Philosophic Explorations (Belmont, CA: Wadsworth Publishing Co., 2000, formerly Jones and Bartlett Publishers, 1996), paperback, 552 pages, pp. 46–68.
+
+Ulrike Hugl, , Proceedings of the Sixteenth Americas Conference on Information Systems (AMCIS) 2010, paper no. 248.
+
+Frederick S. Lane, , (Boston, MA: Beacon Press, 2010).
+
+Steve Lohr, , The New York Times, Wednesday, March 17, 2010.
+
+Andrew McStay, 2014, , New York Peter Lang.
+
+Adam D. Moore, 2010, ," Penn State University Press.
+
+Yael Onn, et al. , Haifa Center of Law & Technology, (2005).
+
+Bruce Schneier,
+
+Robert Ellis Smith, 2004, "Ben Franklin's Web Site, Privacy and Curiosity from Plymouth Rock to the Internet," Providence: Privacy Journal.
+
+Daniel J. Solove, , San Diego Law Review, Vol. 44, 745-772.
+
+Herman Tavani, “Informational Privacy: Concepts, Theories, and Controversies,” in Kenneth Himma and Herman Tavani, eds., The Handbook of Information and Computer Ethics (Hoboken: Wiley, 2008), pp. 131-164.
+
+Judith Jarvis Thomson, "The Right to Privacy," in Michael J. Gorr and Sterling Harwood, eds., Crime and Punishment: Philosophic Explorations (Belmont, CA: Wadsworth Publishing Co., 2000, formerly Jones and Bartlett Publishers, 1995), 552 pages, pp. 34–46.
+
+Raymond Wacks, Privacy: A Very Short Introduction, Oxford: Oxford University Press, 2009.
+
+Judith Wagner DeCew, 1997, In Pursuit of Privacy: Law, Ethics, and the Rise of Technology, Ithaca: Cornell University Press.
+
+Rita Watson and Menahem Blondheim (eds.), The Toronto School of Communication Theory: Interpretations, Extensions and Applications (Toronto and Jerusalem: University of Toronto Press and Magnes Press, 2007)
+
+A. Westin, 1967, Privacy and Freedom, New York: Atheneum.
+
+8. External links
+
+wmf:Privacy policy ;Articles and interviews:
+
+entry in the Stanford Encyclopedia of Philosophy.
+
+, The 2007 International Privacy Ranking, Privacy International (London).
+
+, interview with Ed Goodman, Chief Privacy Officer, Identify Theft 911, 12 minute video, Fox News, 26 January 2011.
+
+, a conversation between Didier Bigo and Mireille Delmas-Marty, La Clé des Langues, ISSN 2107-702923, 23 September 2011.
+
+, Gregory Ferenstein, TechCrunch, 20 November 2013.
+
+;Organizations:
+
+a consumer education, privacy rights and advocacy organization.
+
+, a service of the Electronic Privacy Information Center.
+
+.
+
+, website.
+
+sv:Integritet#Personlig integritet

@@ -1,0 +1,205 @@
+Worms is a series of artillery strategy computer games developed by British company Team17. Players control a small platoon of worms across a deformable landscape, battling other computer- or player-controlled teams. The games feature bright and humorous cartoon-style animation and a varied arsenal of bizarre weapons.
+
+The game, whose concept was devised by Andy Davidson, was described by the Amiga gaming press as a cross between Cannon Fodder and Lemmings. It is part of a wider genre of turn-based artillery games in which each player controls characters who duel with projectile weapons; similar games include Scorched Earth (1991), Gorillas (1991) and Artillery Duel (1983).
+
+1. Games
+
+1.1. Main series
+
+Worms (1995)
+
+Worms Reinforcements (1996)
+
+Worms: The Director's Cut (1997)
+
+Worms 2 (1997)
+
+Worms Armageddon (1999)
+
+Worms World Party (2001)
+
+Worms Blast (2002)
+
+Worms 3D (2003)
+
+Worms Forts: Under Siege (2004)
+
+Worms 4: Mayhem (2005)
+
+Worms: Open Warfare (2006)
+
+Worms (2007)
+
+Worms: Open Warfare 2 (2007)
+
+Worms: A Space Oddity (2008)
+
+Worms 2: Armageddon (2009)
+
+Worms: Reloaded (2010)
+
+Worms: Battle Islands (2010)
+
+Worms: Ultimate Mayhem (2011)
+
+Worms Crazy Golf (2011)
+
+Worms: Revolution (2012)
+
+Worms for Facebook (2012) (Closed: 2013)
+
+Worms 3 (2013) (Android, iOS and OS X only)
+
+Worms: Clan Wars (2013)
+
+Worms Battlegrounds (2014)
+
+1.2. Spin-offs
+
+A number of Worms-themed spin-offs have also been released, including Addiction Pinball (1999), Onlineworms (2001), Worms Blast (2002), Worms Golf (2004) and Worms Crazy Golf (2011). Worms Breakout and Worms Breakout 2, fangames based on the popular arcade game Breakout, have been made available for download through the .
+
+1.3. Clones and similar games
+
+Games that borrow from the Worms concept include Warmux and Hedgewars (open source, for Linux, Macintosh, Windows), Hogs of War (3D variation featuring pigs, for PlayStation and PC) and Snails for Pocket PC. Other games based on the Worms concept include Liero, Wurmz! and Gusanos, which make use of real-time rather than turn-based gameplay. Another game that follows the same format is Arcanists; focused around a wizard theme, was created by Jagex Games Studio, best known for their MMORPG RuneScape. Very recently, Neuchatel Ltd. of London, UK released a futuristic version of Worms called Blast Angle. It was developed for the iPhone and iPad.
+
+1.4. Collections
+
+A compilation, entitled Worms United, was released in 1996 for DOS and included Worms and its expansion Worms Reinforcements. A compilation, entitled The Full Wormage, was later released in 1998 for DOS and Windows and included Worms United, Worms 2 and Worms Pinball. On August 31, 2012, Worms Collection was released for PlayStation 3 and Xbox 360.
+
+2. Gameplay
+
+Each player controls a team of several worms. During the course of the game, players take turns selecting one of their worms. They then use whatever tools and weapons are available to attack and kill the opponents' worms, thereby winning the game. Worms may move around the terrain in a variety of ways, normally by walking and jumping but also by using particular tools such as the "Bungee" and "Ninja Rope", to move to otherwise inaccessible areas. Each turn is time-limited to ensure that players do not hold up the game with excessive thinking or moving. The time limit can be modified in some of the games in the Worms series.
+
+Over fifty weapons and tools may be available each time a game is played, and differing selections of weapons and tools can be saved into a "scheme" for easy selection in future games. Other scheme settings allow options such as deployment of reinforcement crates, from which additional weapons can be obtained, and "Sudden Death" where the game is rushed to a conclusion after a time limit expires. Some settings provide for the inclusion of objects such as land mines and explosive barrels.
+
+When most weapons are used, they cause explosions that deform the terrain, creating circular cavities. The types of playable terrains include "island" (terrain floating on a body of water), or "cave" (cave with water at the bottom and terrain at both top and bottom of the screen; this type is not available in 3-D versions due to camera restrictions and that certain weapons such as "Air Strike" cannot go through). If a worm is hit with a weapon, the amount of damage dealt to the worm will be removed from the worm's initial amount of health. The damage dealt to the attacked worm or worms after any player's turn is shown when all movement on the battlefield has ceased.
+
+Worms die when one of the following situations occur:
+
+When a worm enters water (either by falling off the island, through a hole in the bottom of it, or by the waterline being raised above the worm)
+
+When a worm is thrown off either side of the arena
+
+When a worm's health is reduced to zero
+
+3. Weapons and tools
+
+The Worms series is particularly notable for its extensive variety of weapons. With each new game that is released, new weapons are added, though many were removed in the 3D versions for gameplay reasons. As a result, the 2D series has accumulated 60 weapons, and the 3D series 40 weapons.
+
+The weapons available in the game range from a standard timed grenade and homing missiles to exploding sheep and the highly destructive Banana Bomb (possible reference to the weapons in Gorillas game), both of which have appeared in every Worms game so far. More recently, the Worms series has seen weapons such as the iconic Holy Hand Grenade, the Priceless Ming Vase and the Inflatable Scouser.
+
+Some of the bizarre weapons in a particular game are based on topical subjects at the time of the game's release. The Mail Strike, for example, which consists of a flying postbox dropping explosive envelopes, is a reference to the postal strikes of the time, while the Mad Cow refers to Britain's BSE epidemic of the 1990s. The French Nuclear Test, introduced in Worms 2, was even updated to the Indian Nuclear Test in Worms Armageddon to keep with the times.
+
+Other weapons are distinctly inside jokes. The MB Bomb, for example, which floats down from the sky and explodes on impact, is a cartoon caricature of Martyn Brown, Team17's studio director. Other such weapons include the "Concrete Donkey", one of the most powerful weapons in the game, which is based on a garden ornament in Andy Davidson's home garden, and an airstrike known in the game as Mike's Carpet Bomb was actually inspired by a store near the Team17 headquarters called "Mike's Carpets".
+
+Since Worms Armageddon, weapons that were intended to aid as utilities rather than damage-dealers were classified as tools. This classification mainly differs in the fact that they do not fall in ordinary weapon crates, and instead appear in toolboxes. Many tools were left in the wrong class for the sake of keyboard-shortcut conveniences. This was resolved in Worms 3D.
+
+Some weapons were inspired from popular Movies and TV programs, including the Holy Hand Grenade (from Monty Python and the Holy Grail) and Ninja Rope (named the Bat Rope in early demos of the original game)
+
+4. Audio
+
+One of the defining features of the Worms series is its light-hearted audio. Although the first few Worms games used darker, more authentic battlefield sounds for its ambient music, all of the games included a large number of high-pitched catchphrases shouted by the worms during the course of battle, such as "I'll get you!", "Revenge!", "Stupid!" and "Bombs away!".
+
+Worms & Reinforcements United and its sequels gave players the ability to pick between a variety of speech sets (called "sound banks") for each platoon of worms. Many were based on regional accents, such as "The Raj" and "Angry Scots", while others, like "Drill Sergeant", made use of stereotypes. Players could even record their own speech sets and use those instead.
+
+The ambient and theme music for Worms 2, Worms Armageddon, Worms World Party and, in part, Worms 3D, was entirely provided by Bjørn Lynne.
+
+The whole Worms series has a light-hearted themesong, known as the Wormsong
+
+5. History
+
+The game was originally created by Andy Davidson as an entry for a Blitz BASIC programming competition run by the Amiga Format magazine, a cut-down version of the programming language having been covermounted previously. The game at this stage was called Total Wormage (possibly in reference to Total Carnage) and it did not win the competition. Davidson sent the game to several publishers with no success. He then took the game to the European Computer Trade Show, where Team17 had a stand. Team17 made an offer on-the-spot to develop and publish the game.
+
+It subsequently evolved into a full commercial game, renamed Worms, available initially only for the Commodore Amiga computer. As the game was extremely popular, it was regularly released for other platforms including Windows- and Macintosh-based computers, Atari Jaguar, Mega Drive/Genesis, Dreamcast, Nintendo 64, Nintendo Game Boy, Game Boy Color and Game Boy Advance, Nintendo GameCube, Nokia N-Gage, SNES, PlayStation and PlayStation 2, Sega Saturn, Microsoft Pocket PC, and Xbox.
+
+During the development of Worms 2, Andy Davidson wrote Worms: The Director's Cut, a special edition produced exclusively for the Amiga. This was, in his eyes, the pinnacle of the series. Featuring weapons not seen in any Worms game before or since, it looks like an enhanced version of the original game. Only 5000 copies were ever sold. It was also the last version released for the Commodore Amiga platform from which the game originated.
+
+5.1. New engine
+
+The engine was completely redesigned using Microsoft's DirectX for Worms 2, dropping the darker tones of the first generation and adopting a more cartoonish look along the way-made possible by newer technology. Worms 2 marked the first true step in the widespread Worm craze and characterised the direction which the series would take from then on. The second Worms version is by far the most customisable of the Worms games, with an extensive set of detailed settings and toggles. Worms 2 also introduced internet play, which has since become a staple in the series. Worms 2 saw the return and enhancements of its predecessor's arsenal (e.g., the Banana Bomb -> Super Banana Bomb), as well as the addition of new weapons and tools. The game's interface is very dated by today's standards, resembling more of a generic Windows application than the colourful screens in later releases.
+
+Worms Armageddon was initially intended to be released as an expansion pack for Worms 2, but was released as a stand-alone game when it exceeded all expectations. Worms Armageddon included 33 in-depth missions in an extensive and elaborate campaign, along with training missions, a "deathmatch" feature, some new graphics and sounds, and a few new weapons and utilities. Much of the customization of Worms 2 was removed, as Team17 thought that the interface would become cluttered and overwhelming.
+
+Worms Armageddon also included a much more organized and functional internet play service, known as "WormNET", which required registration and provided leagues and ranks. Problems with cheating led to the removal of the leagues, but their re-introduction is planned in a series of updates that have provided the game with more customization. Other more subtle changes to the game include new physics to the ninja rope, and the removal of an in game glitch that allowed players to inflict huge damage to another worm, by aiming the mortar (a common weapon with high ammo) vertically above another player. The mortar shell would then return to earth and create a small but incredibly powerful explosion. In Worms Armageddon, the mortar shell would fall slightly to either side of the target worm if the same glitch was tried. Also, the booby-trapped crates were removed as Team 17 deemed them "unfair".
+
+An official Worms Armageddon screensaver was included with a release bundling the title with Addiction Pinball. The compilation, The Armageddon Collection, is now out of print.
+
+Worms World Party was originally designed for Dreamcast console to make use of its online capabilities, but was also released for the PlayStation and PC with new missions, a mission editor, and some extra customization. This was also released later in 2005 for the N-Gage Game Deck. A new feature, the WormPot, was added in all versions of the game except for the Dreamcast release, where it was omitted. With no new weapons, graphics or sounds.
+
+The extensive customization of the 2D series, along with good online play support, has led to enduring popularity. A variety of unusual "schemes" have been developed by the WormNET community that are often played instead of the official schemes created by Team17. Some schemes have "rules" agreed to by the players but not enforced by the game itself.
+
+5.2. Transition to 3D
+
+In 2003, Worms 3D was released for PlayStation 2, Nintendo GameCube, Macintosh, Windows, and Xbox. This was the first game in the series to bring the characters into a three-dimensional environment. It features a 'poxel' engine, described as a hybrid of polygons and voxels (the 3D analogues of pixels). This allows for pseudo-realistic terrain deformation similar in style to the 2D games, in which the terrain was represented by a bitmap. The second 3D game in the series was Worms Forts: Under Siege, for PlayStation 2, Xbox and PC. It was released in November 2004 and features the biggest deviation from the traditional gameplay that the series has so far seen. Players' worms are able to build forts, and the objective of the game has shifted from simply killing the enemy worms, as players can now win a game by destroying the opponent's fort. Due to the change in strategy, this game could be seen more as a spin-off — though some aspects like the customizable costumes were carried into Worms 4: Mayhem.
+
+Worms 4: Mayhem was released in 2005. It was a revamp of the original Worms 3D engine, featuring smoother terrain deformation and improved graphics, resulting in a more polished feel closer to the second generation Worms games. The gameplay is much the same as it was in Worms 3D, but new gameplay modes and weapons have been introduced, and the user interface has been improved and simplified. New features include the ability to select customized costumes for teams, and the ability to create custom weapons.
+
+Worms: Open Warfare, for the PlayStation Portable and the Nintendo DS, is specifically designed for the handheld systems and was released in March 2006. The game is considered to be a remake of the first Worms game, featuring enhanced graphics but no new weapons. The game has received mixed reviews.
+
+Worms: Open Warfare 2 for the PSP and DS is the sequel to Worms: Open Warfare. It was released on August 31, 2007 in Europe, and it was released in the U.S. later on September 6, 2007.
+
+Worms was developed by Team17 for release on Xbox Live Arcade. Worms was released on March 7, 2007. It was released on PSN on March 26, 2009 in the US and April 2009 in the UK.
+
+Worms: A Space Oddity was developed by Team17 exclusively for Nintendo's Wii system, using a heavily modified version of the Worms: Open Warfare 2 engine. The game was released in March 2008, with a Sci-fi theme.
+
+Worms 2: Armageddon was developed by Team17 for Xbox Live Arcade and PlayStation Network. The game is heavily inspired by Worms Armageddon's success, and tries to mimic the game's physics and several other aspects, such as the variety of available weapons. Several new weapons are also available, such as a gas pump which fills underground tunnels with poison gas.
+
+Worms: Reloaded was developed and published by Team17 for the PC. It was released on 26 August 2010. It is an extended port version of the game Worms 2: Armageddon which was released for the Xbox 360 and PlayStation 3, and so it has returned to the original 2D format, unlike the last three PC games.
+
+Worms: Battle Islands was developed by Team 17 and published by THQ and it was released on the Wii and PlayStation Portable.
+
+Worms: Ultimate Mayhem was released in 2011. It was a revamp of the original Worms 3D and Worms 4: Mayhem engine, and it was released on Microsoft Windows, Xbox Live Arcade and PlayStation Network.
+
+Worms: Revolution was released in 2012. It was released on Microsoft Windows, Xbox Live Arcade and PlayStation Network. It was made as a 2.5D game, enabling players to play in a 3D world viewed from a 2D perspective.
+
+Worms: Clan Wars was released in 2013 as a PC exclusive.
+
+Worms Battlegrounds was released in 2014 for the PlayStation 4 and Xbox One
+
+5.3. Cancelled games
+
+In 2003, the company cancelled Worms Battle Rally, a karting game that allowed for fragging opponents.
+
+5.4. Worm Appearance
+
+The games in the Worms series had an almost realistic look for the worms in the cover, although in game-play, it is hard to point out the details due to the limitations of screen resolution. The appearance changed for Worms 2, which brought in a more cartoon look to the worms in the cover. The later Worms games retain this appearance with few changes. Worms Forts: Under Siege was the first game of the series to have team costumes.
+
+6. Franchise awards
+
+Titles in the franchise have received a variety of awards.
+
+"Most original game" - EMAP Awards
+
+"Best game" - BBC's Live & Kicking
+
+"Most original game" - ECTS Awards
+
+"Best game" - Micromania Awards
+
+"Best strategy title" - PSX Developers
+
+"Strategy game of the year" - EGM
+
+"Best strategy game" - Trophee d'or
+
+"Multiplayer game of the year" - GMBH
+
+7. Reception
+
+While the first versions of the game were generally praised, the series has since been criticized for the lack of meaningful additions. In 2001, Metacritic quoted Worms World Party reviews with comments like "it's virtually nothing more than an expansion pack for Worms Armageddon" and, as ActionTrip's Dejan Grbavcic put it, "And I thought that only Eidos was impertinent enough to keep selling the same game with a slightly different name...". In 2007, IGN included the Worms series in its list of game franchises that have jumped the shark.
+
+8. References and notes
+
+9. See also
+
+Worms Blast
+
+Warmux (an open source clone)
+
+Onlineworms
+
+Hedgewars
+
+10. External links
+
+, for series, information on older releases

@@ -1,0 +1,49 @@
+A web banner or banner ad is a form of advertising on the World Wide Web delivered by an ad server. This form of online advertising entails embedding an advertisement into a web page. It is intended to attract traffic to a website by linking to the website of the advertiser. In many cases, banners are delivered by a central ad server.
+
+When the advertiser scans their logfiles and detects that a web user has visited the advertiser's site from the content site by clicking on the banner ad, the advertiser sends the content provider some small amount of money (usually around five to ten US cents). This payback system is often how the content provider is able to pay for the Internet access to supply the content in the first place. Usually though, advertisers use ad networks to serve their advertisements, resulting in a revshare system and higher quality ad placement.
+
+Web banners function the same way as traditional advertisements are intended to function: notifying consumers of the product or service and presenting reasons why the consumer should choose the product in question, a fact first documented on HotWired in 1996 by researchers Rex Briggs and Nigel Hollis. Web banners differ in that the results for advertisement campaigns may be monitored real-time and may be targeted to the viewer's interests. Behavior is often tracked through the use of a click tag.
+
+Many web surfers regard these advertisements as highly annoying because they distract from a web page's actual content or waste bandwidth. Newer web browsers often include options to disable pop-ups or block images from selected websites. Another way of avoiding banners is to use a proxy server that blocks them, such as Privoxy. Web browsers may also have extensions available that block banners, for example Adblock Plus for Mozilla Firefox, or AdThwart for Google Chrome and ie7pro for Internet Explorer.
+
+1. History
+
+The pioneer of online advertising was Prodigy, a company owned by IBM and Sears at the time. Prodigy used online advertising first to promote Sears products in the 1980s, and then other advertisers, including AOL, one of Prodigy's direct competitors. Prodigy was unable to capitalize on any of its first mover advantage in online advertising.
+
+The first clickable web ad (which later came to be known by the term "banner ad") was sold by Global Network Navigator (GNN) in 1993 to Heller, Ehrman, White, & McAuliffe, a now defunct law firm with a Silicon Valley office. GNN was the first commercially supported web publication and one of the very first commercial web sites ever.
+
+HotWired was the first web site to sell banner ads in large quantities to a wide range of major corporate advertisers. Andrew Anker was HotWired's first CEO. Rick Boyce, a former media buyer with San Francisco advertising agency Hal Riney & Partners, spearheaded the sales effort for the company. HotWired coined the term "banner ad" and was the first company to provide click through rate reports to its customers. The first web banner sold by HotWired was paid for by AT&T Corp. and was put online on October 27, 1994. Another source also credits Hotwired and October 1994, but has Coors' "Zima" campaign as the first web banner.
+
+In May 1994, Ken McCarthy mentored Boyce in his transition from traditional to online advertising and first introduced the concept of a clickable/trackable ad. He stated that he believed that only a direct response model舒in which the return on investment of individual ads was measured舒would prove sustainable over the long run for online advertising. In spite of this prediction, banner ads were valued and sold based on the number of impressions they generated.
+
+The first central ad server was released in July 1995 by Focalink Communications, which enabled the management, targeting, and tracking of online ads. A local ad server quickly followed from NetGravity in January 1996. The technology innovation of the ad server, together with the sale of online ads on an impression basis, fueled a dramatic rise in the proliferation of web advertising and provided the economic foundation for the web industry from the period of 1994 to 2000.
+
+The new online advertising model that emerged in the early years of the 21st century, introduced by GoTo.com (later Overture, then Yahoo! and mass marketed by Google's AdWords program), relies heavily on tracking ad response rather than impressions.
+
+2. Standard sizes
+
+Ad sizes have been standardized to some extent by the IAB. Prior to the IAB standardization, banner ads appeared in over 250 different sizes. However, some websites and advertising networks (outside the Eurosphere or North America) may not use any or all of the IAB base ad sizes. The IAB ad sizes are :
+
+3. References
+
+4. See also
+
+Ad serving
+
+Hero image
+
+Hover ad
+
+Internet marketing
+
+Live banner
+
+Pay per click
+
+Pop-up ad
+
+View-through rate
+
+Web analytics
+
+Web button

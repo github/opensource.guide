@@ -1,0 +1,153 @@
+In computing, a plug-in (or add-in / addin, plugin, extension or add-on / addon) is a software component that adds a specific feature to an existing software application. When an application supports plug-ins, it enables customization. The common examples are the plug-ins used in web browsers to add new features such as search-engines, virus scanners, or the ability to utilize a new file type such as a new video format. Well-known browser plug-ins include the Adobe Flash Player, the QuickTime Player, and the Java plug-in, which can launch a user-activated Java applet on a web page to its execution a local Java virtual machine.
+
+Add-on (or addon) is the general term for what enhances an application. It comprises snap-in, plug-in, theme and skin. An extension add-on tailors the core features of an application by adding an optional module, whereas a plug-in add-on would tailor the outer layers of an application to personalize functionality.
+
+A theme or skin add-on is a preset package containing additional or changed graphical appearance details, achieved by the use of a graphical user interface (GUI) that can be applied to specific software and websites to suit the purpose, topic, or tastes of different users to customize the look and feel of a piece of computer software or an operating system front-end GUI (and window managers).
+
+1. Purpose and examples
+
+Applications support plug-ins for many reasons. Some of the main reasons include:
+
+to enable third-party developers to create abilities which extend an application
+
+to support easily adding new features
+
+to reduce the size of an application
+
+to separate source code from an application because of incompatible software licenses. Specific examples of applications and why they use plug-ins:
+
+Audio editors use plug-ins to generate, process and/or analyse sound (Ardour, Audacity)
+
+Email clients use plug-ins to decrypt and encrypt email (Pretty Good Privacy)
+
+Graphics software use plug-ins to support file formats and process images (Adobe Photoshop, GIMP)
+
+Media players use plug-ins to support file formats and apply filters (foobar2000, GStreamer, Quintessential, VST, Winamp, XMMS)
+
+Microsoft Office uses plug-ins (better known as add-ins) to extend the abilities of its application by adding custom commands and specialized features
+
+Packet sniffers use plug-ins to decode packet formats (OmniPeek)
+
+Remote sensing applications use plug-ins to process data from different sensor types (Opticks)
+
+Smaart, an audio spectrum analysis application which accepts plug-ins for third-party digital signal processors
+
+Software development environments use plug-ins to support programming languages (Eclipse, jEdit, MonoDevelop)
+
+Web browsers use plug-ins (often implementing the NPAPI specification) to play video and presentation formats (Flash, QuickTime, Microsoft Silverlight, 3DMLW)
+
+2. Mechanism
+
+As shown in the figure, the host application provides services which the plug-in can use, including a way for plug-ins to register themselves with the host application and a protocol for the exchange of data with plug-ins. Plug-ins depend on the services provided by the host application and do not usually work by themselves. Conversely, the host application operates independently of the plug-ins, making it possible for end-users to add and update plug-ins dynamically without needing to make changes to the host application.
+
+3. Compared to extensions
+
+Extensions differ slightly from plug-ins. Plug-ins usually have a narrow set of abilities. For example, the original impetus behind the development of Mozilla Firefox was the pursuit of a small baseline application, leaving exotic or personalized functionality to be implemented by extensions to avoid feature creep. This is in contrast to the "kitchen sink" approach in its predecessors, the Mozilla Application Suite and Netscape 6 and 7. Therefore, after integration, extensions can be seen as part of the browser itself, tailored from a set of optional modules.
+
+Firefox also supports plug-ins using NPAPI. When the browser encounters references to content a plug-in specializes in, the data is handed off to be processed by that plug-in. Since there is generally a clear separation between the browser and the plug-in, the results are discrete objects embedded within a webpage. The same distinction between plug-ins and extensions is in use by other web browsers, such as Microsoft Internet Explorer, where a typical extension might be a new toolbar, and a plug-in might embed a video player on the page. Since plug-ins and extensions both increase the utility of the original application, Mozilla uses the term "add-on" as an inclusive category of augmentation modules that consists of plug-ins, extensions and themes.
+
+4. History
+
+Plug-ins appeared as early as the mid 1970s, when the EDT text editor running on the Unisys VS/9 operating system using the UNIVAC Series 90 mainframe computers provided the ability to run a program from the editor and to allow such a program to access the editor buffer, thus allowing an external program to access an edit session in memory. The plug-in program could make calls to the editor to have it perform text-editing services upon the buffer that the editor shared with the plug-in. The Waterloo Fortran compiler used this feature to allow interactive compilation of Fortran programs edited by EDT.
+
+Very early PC software applications to incorporate plug-in functionality included HyperCard and QuarkXPress on the Macintosh, both released in 1987. In 1988, Silicon Beach Software included plug-in functionality in Digital Darkroom and SuperPaint, and Ed Bomke coined the term plug-in.
+
+, programmers typically implement plug-in functionality using shared libraries compulsorily installed in a place prescribed by the host application. HyperCard supported a similar facility, but more commonly included the plug-in code in the HyperCard documents (called stacks) themselves. Thus the HyperCard stack became a self-contained application in its own right, distributable as a single entity that end-users could run without the need for additional installation-steps.
+
+5. Frameworks
+
+Software developers can use the following plug-in frameworks (organized here by programming language) to add plug-in ability to programs:
+
+5.1. C
+
+, a plug-in framework for C programs. It has been strongly inspired by the Java plug-in framework in Eclipse
+
+5.2. C++
+
+, open dataflow processing framework for audio, video, signal, etc.
+
+Google Native Client, sandboxing technology to run safely a subset of Intel x86 native code using software-based fault isolation, from web browsers
+
+, part of Qt framework
+
+, creates plug-ins for WildPackets' OmniPeek Network Analyzer
+
+open source framework for plug-in management
+
+, small, cross-platform
+
+, open standard for visual effects plug-ins
+
+, accompanying a by Gigi Sayfan in
+
+An open source, cross-platform framework that builds NPAPI and ActiveX plugins from the same codebase.
+
+5.3. Objective-C
+
+NSBundle class: Applications can load up bundles directly through NSBundle class to access code stored in it.
+
+5.4. Delphi
+
+, TMS Software Plug-in Frameworks
+
+, DPF (Delphi Plugin Framework)
+
+, Hydra
+
+In built Plugin Architecture in Delphi using BPLs (Borland Package Libraries)
+
+, TJvPluginManager
+
+5.5. Java
+
+(JPF), uses mechanism adapted from Eclipse's plug-in mechanism from its pre-OSGi era
+
+(JSPF), lightweight annotation based plug-in system, supports dependency injection, suited for small to medium sized projects
+
+OSGi, standardized dynamic component system suited for plug-in programming, used in Eclipse, many commercial Java EE application servers, Spring Framework, and embedded applications
+
+, OSGI based download and execution manager.
+
+Rich Client Platform (RCP), platform for applications adapted from Eclipse, applications are written as plug-ins and may themselves have further plug-ins
+
+, most commonly known for the Netbeans IDE, which is an application built on the Netbeans Platform, which is a framework that allows making modules, plugins for other NB applications (usually a group of interacting modules) and complete applications like the netbeans IDE
+
+, minimal framework for Java, PHP
+
+uses annotations to perform modular service lookups. Used by e.g. Jenkins to load plugins.
+
+5.6. PHP
+
+, minimal framework for Java, PHP
+
+5.7. Python
+
+Colony Framework, inspired by OSGi and Eclipse RCP simplifying the concepts of both and adapting them to Pythonic philosophy
+
+, system based on Trac component architecture, a simplified
+
+5.8. .NET
+
+, for .NET, Mono
+
+, platform to build plug-in systems under .NET
+
+System.Reflection namespace: Application can load up libraries and/or executables using classes in this namespace, allowing easy self-defined plugins.
+
+6. See also
+
+Applet
+
+Shared library
+
+Add-ons for Firefox
+
+Add-on (Mozilla)
+
+Browser extension
+
+Theme (computing)
+
+Skin (computing)
+
+7. References

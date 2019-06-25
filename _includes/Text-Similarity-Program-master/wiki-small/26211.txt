@@ -1,0 +1,163 @@
+Racketeer Influenced and Corrupt Organizations Act, commonly referred to as the RICO Act or simply RICO, is a United States federal law that provides for extended criminal penalties and a civil cause of action for acts performed as part of an ongoing criminal organization. The RICO Act focuses specifically on racketeering, and it allows the leaders of a syndicate to be tried for the crimes which they ordered others to do or assisted them, closing a perceived loophole that allowed someone who told a man to, for example, murder, to be exempt from the trial because he did not actually commit the crime personally.
+
+RICO was enacted by section 901(a) of the Organized Crime Control Act of 1970 (). RICO is codified as Chapter 96 of Title 18 of the United States Code, 18 U.S.C. § 1961–1968. G. Robert Blakey, an adviser to the United States Senate Government Operations Committee, drafted the law under the close supervision of the committee's chairman, Senator John Little McClellan. It was enacted as Title IX of the Organized Crime Control Act of 1970, and signed into law by Richard M. Nixon. While its original use in the 1970s was to prosecute the Mafia as well as others who were actively engaged in organized crime, its later application has been more widespread.
+
+Beginning in 1972, 33 States adopted state RICO laws to be able to prosecute similar conduct.
+
+1. Summary
+
+Under RICO, a person who has committed "at least two acts of racketeering activity" drawn from a list of 35 crimes—27 federal crimes and 8 state crimes—within a 10-year period can be charged with racketeering if such acts are related in one of four specified ways to an "enterprise". Those found guilty of racketeering can be fined up to $25,000 and sentenced to 20 years in prison per racketeering count. In addition, the racketeer must forfeit all ill-gotten gains and interest in any business gained through a pattern of "racketeering activity."
+
+When the U.S. Attorney decides to indict someone under RICO, he or she has the option of seeking a pre-trial restraining order or injunction to temporarily seize a defendant's assets and prevent the transfer of potentially forfeitable property, as well as require the defendant to put up a performance bond. This provision was placed in the law because the owners of Mafia-related shell corporations often absconded with the assets. An injunction and/or performance bond ensures that there is something to seize in the event of a guilty verdict.
+
+In many cases, the threat of a RICO indictment can force defendants to plead guilty to lesser charges, in part because the seizure of assets would make it difficult to pay a defense attorney. Despite its harsh provisions, a RICO-related charge is considered easy to prove in court, as it focuses on patterns of behavior as opposed to criminal acts.
+
+RICO also permits a private individual "damaged in his business or property" by a "racketeer" to file a civil suit. The plaintiff must prove the existence of an "enterprise". The defendant(s) are not the enterprise; in other words, the defendant(s) and the enterprise are not one and the same. There must be one of four specified relationships between the defendant(s) and the enterprise: either the defendant(s) invested the proceeds of the pattern of racketeering activity into the enterprise; or the defendant(s) acquired or maintained an interest in, or control over, the enterprise through the pattern of racketeering activity; or the defendant(s) conducted or participated in the affairs of the enterprise "through" the pattern of racketeering activity; or the defendant(s) conspired to do one of the above. In essence, the enterprise is either the 'prize,' 'instrument,' 'victim,' or 'perpetrator' of the racketeers. A civil RICO action can be filed in state or federal court.
+
+Both the criminal and civil components allow the recovery of treble damages (damages in triple the amount of actual/compensatory damages).
+
+Although its primary intent was to deal with organized crime, Blakey said that Congress never intended it to merely apply to the Mob. He once told Time, "We don't want one set of rules for people whose collars are blue or whose names end in vowels, and another set for those whose collars are white and have Ivy League diplomas."
+
+Initially, prosecutors were skeptical of using RICO, mainly because it was unproven. However, during the 1980s and 1990s, federal prosecutors utilized the law to bring charges against several Mafia figures. The first major success was the Mafia Commission Trial, which resulted in several top leaders of New York City's Five Families getting what amounted to life sentences. By the turn of the century, RICO cases resulted in virtually all of the top leaders of the New York Mafia being sent to prison.
+
+2. State laws
+
+Beginning in 1972, 33 states, as well as Puerto Rico and the US Virgin Islands, adopted state RICO laws to cover additional state offenses under a similar scheme.
+
+3. RICO predicate offenses
+
+Under the law, the meaning of racketeering activity is set out at . As currently amended it includes:
+
+Any violation of state statutes against gambling, murder, kidnapping, extortion, arson, robbery, bribery, dealing in obscene matter, or dealing in a controlled substance or listed chemical (as defined in the Controlled Substances Act);
+
+Any act of bribery, counterfeiting, theft, embezzlement, fraud, dealing in obscene matter, obstruction of justice, slavery, racketeering, gambling, money laundering, commission of murder-for-hire, and many other offenses covered under the Federal criminal code (Title 18);
+
+Embezzlement of union funds;
+
+Bankruptcy fraud or securities fraud;
+
+Drug trafficking; long-term and elaborate drug networks can also be prosecuted using the Continuing Criminal Enterprise Statute;
+
+Criminal copyright infringement;
+
+Money laundering and related offenses;
+
+Bringing in, aiding or assisting aliens in illegally entering the country (if the action was for financial gain);
+
+Acts of terrorism. Pattern of racketeering activity requires at least two acts of racketeering activity, one of which occurred after the effective date of this chapter and the last of which occurred within ten years (excluding any period of imprisonment) after the commission of a prior act of racketeering activity. The U.S. Supreme Court has instructed federal courts to follow the continuity-plus-relationship test in order to determine whether the facts of a specific case give rise to an established pattern. Predicate acts are related if they "have the same or similar purposes, results, participants, victims, or methods of commission, or otherwise are interrelated by distinguishing characteristics and are not isolated events." (H.J. Inc. v. Northwestern Bell Telephone Co.) Continuity is both a closed and open ended concept, referring to either a closed period of conduct, or to past conduct that by its nature projects into the future with a threat of repetition.
+
+4. Application of RICO laws
+
+Although some of the RICO predicate acts are extortion and blackmail, one of the most successful applications of the RICO laws has been the ability to indict or sanction individuals for their behavior and actions committed against witnesses and victims in alleged retaliation or retribution for cooperating with federal law enforcement or intelligence agencies.
+
+Violations of the RICO laws can be alleged in civil lawsuit cases or for criminal charges. In these instances charges can be brought against individuals or corporations in retaliation for said individuals or corporations working with law enforcement. Further, charges can also be brought against individuals or corporations who have sued or filed criminal charges against a defendant.
+
+Anti-SLAPP (strategic lawsuit against public participation) laws can be applied in an attempt to curb alleged abuses of the legal system by individuals or corporations who utilize the courts as a weapon to retaliate against whistle blowers, victims, or to silence another's speech. RICO could be alleged if it can be shown that lawyers and/or their clients conspired and collaborated to concoct fictitious legal complaints solely in retribution and retaliation for themselves having been brought before the courts.
+
+Although the RICO laws may cover drug trafficking crimes in addition to other more traditional RICO predicate acts such as extortion, blackmail, and racketeering, large-scale and organized drug networks are now commonly prosecuted under the Continuing Criminal Enterprise Statute, also known as the "Kingpin Statute". The CCE laws target only traffickers who are responsible for long-term and elaborate conspiracies; whereas the RICO law covers a variety of organized criminal behaviors.
+
+5. Famous cases
+
+5.1. Hells Angels Motorcycle Club
+
+In 1979, the United States federal government went after Sonny Barger and several members and associates of the Oakland charter of the Hells Angels using RICO. In United States v. Barger, the prosecution team attempted to demonstrate a pattern of behavior to convict Barger and other members of the club of RICO offenses related to guns and illegal drugs. The jury acquitted Barger on the RICO charges with a hung jury on the predicate acts: "There was no proof it was part of club policy, and as much as they tried, the government could not come up with any incriminating minutes from any of our meetings mentioning drugs and guns."
+
+5.2. Frank Tieri
+
+On November 21, 1980, Genovese crime family boss Frank "Funzi" Tieri was the first Mafia boss to be convicted under the RICO Act.
+
+5.3. Catholic sex abuse cases
+
+In some jurisdictions, RICO suits have been filed against Catholic dioceses, using racketeering laws to prosecute the highers-up in the episcopacy for abuses committed by those under their authority. A Cleveland grand jury cleared two bishops of racketeering charges, finding that their mishandling of sex abuse claims did not amount to criminal racketeering. Certain lawyers and abuse advocates have openly wondered why a similar suit was not filed against archbishop Bernard Law prior to his getting reassigned to Vatican City.
+
+5.4. Gil Dozier
+
+Louisiana Commissioner of Agriculture and Forestry Gil Dozier, in office from 1976 to 1980, faced indictment with violations of both the Hobbs and the RICO laws. He was accused of compelling companies doing business with his department to make campaign contributions on his behalf. On September 23, 1980, the Baton Rouge-based United States District Court for the Middle District of Louisiana convicted Dozier of five counts of extortion and racketeering. The sentence of ten years imprisonment, later upgraded to eighteen when other offenses were determined, and a $25,000 fine was suspended pending appeal, and Dozier remained free on bail. He eventually served nearly four years until a presidential commutation freed him in 1986.
+
+5.5. Key West PD
+
+About June 1984, the Key West Police Department located in the County of Monroe, Florida, was declared a criminal enterprise under the federal RICO statutes after a lengthy United States Department of Justice investigation. Several high-ranking officers of the department, including Deputy Police Chief Raymond Cassamayor, were arrested on federal charges of running a protection racket for illegal cocaine smugglers. At trial, a witness testified he routinely delivered bags of cocaine to the Deputy Chief's office at City Hall.
+
+5.6. Michael Milken
+
+On March 29, 1989, American financier Michael Milken was indicted on 98 counts of racketeering and fraud relating to an investigation into an allegation of insider trading and other offenses. Milken was accused of using a wide-ranging network of contacts to manipulate stock and bond prices. It was one of the first occasions that a RICO indictment was brought against an individual with no ties to organized crime. Milken pled guilty to six lesser felonies of securities fraud and tax evasion rather than risk spending the rest of his life in prison, and ended up serving 22 months in prison. Milken was also ordered banned for life from the securities industry.
+
+On September 7, 1988, Milken's employer, Drexel Burnham Lambert, was threatened with RICO charges respondat superior, the legal doctrine that corporations are responsible for their employees' crimes. Drexel avoided RICO charges by entering an Alford plea to lesser felonies of stock parking and stock manipulation. In a carefully-worded plea, Drexel said it was "not in a position to dispute the allegations" made by the government. If Drexel had been indicted for RICO violations, it would have had to post a performance bond of up to $1 billion to avoid having its assets frozen. This would have taken precedence over all of the firm's other obligations—including the loans that provided 96 percent of its capital. If the bond ever had to be paid, its shareholders would have been practically wiped out. Since banks will not extend credit to a firm indicted under RICO, an indictment would have likely put Drexel out of business. By at least one estimate, a RICO indictment would have destroyed the firm within a month. Years later, Drexel president and CEO Fred Joseph said that Drexel had no choice but to plead guilty because "a financial institution cannot survive a RICO indictment."
+
+5.7. Major League Baseball
+
+In 2002, the former minority owners of the Montreal Expos baseball team filed charges under the RICO Act against Major League Baseball commissioner Bud Selig and former Expos owner Jeffrey Loria, claiming that Selig and Loria deliberately conspired to devalue the team for personal benefit in preparation for a move. If found liable, Major League Baseball could have been responsible for up to $300 million in punitive damages. The case lasted two years, successfully stalling the Expos' move to Washington or contraction during that time. It was eventually sent to arbitration where the arbiters ruled in favor of Major League Baseball, permitting the move to Washington to take place.
+
+5.8. Pro-life activists
+
+RICO laws were successfully cited in NOW v. Scheidler, 510 U.S. 249, 114 S. Ct. 798, 127 L.Ed. 2d 99 (1994), a suit in which certain parties, including the National Organization for Women, sought damages and an injunction against pro-life activists who physically block access to abortion clinics. The Court held that a RICO enterprise does not need an economic motive, and that the Pro-Life Action Network could therefore qualify as a RICO enterprise. The Court remanded for consideration of whether PLAN committed the requisite acts in a pattern of racketeering activity.
+
+5.9. Los Angeles Police Department
+
+In April 2000, Federal judge William J. Rea in Los Angeles, ruling in one Rampart Scandal case, said that the plaintiffs could pursue RICO claims against the LAPD, an unprecedented finding. The idea that a police organization could be characterized as a racketeering enterprise shook up City Hall and further damaged the already tarnished image of the LAPD. However, in July 2001, U.S. District Judge Gary A. Feess said that the plaintiffs do not have standing to sue the LAPD under RICO because they are alleging personal injuries rather than economic or property damage.
+
+5.10. Mohawk Industries
+
+On April 26, 2006, the Supreme Court heard Mohawk Industries, Inc. v. Williams, , which concerned what sort of corporations fell under the scope of RICO. Mohawk Industries had allegedly hired illegal aliens, in violation of RICO. The court was asked to decide whether Mohawk Industries, along with recruiting agencies, constitutes an 'enterprise' that can be prosecuted under RICO, but in June of that year dismissed the case and remanded it to Court of Appeals.
+
+5.11. Latin Kings
+
+On August 20, 2006, in Tampa, Florida, most of the state leadership members of the street gang, the Latin Kings, were arrested in connection with RICO conspiracy charges to engage in racketeering and currently await trial. The operation, called "Broken Crown", targeted statewide leadership of the Latin Kings. The raid occurred at the Caribbean American Club. Along with Hillsborough County Sheriff’s Office, Tampa Police Department, the State Attorney’s Office, the FBI, Immigration and Customs Enforcement, and the federal Bureau of Alcohol, Tobacco and Firearms were involved in the operation. Included in the arrest were leader Gilberto Santana from Brooklyn NY, Captain Luis Hernandez from Miami FL, Affiliate Celina Hernandez, Affiliate Michael Rocca, Affiliate Jessica Ramirez, Affiliate Reinaldo Arroyo, Affiliate Samual Alvarado, Omari Tolbert, Edwin DeLeon, and many others, totaling 39.
+
+5.12. Gambino crime family
+
+Also, in Tampa, on October 16, 2006, four members of the Gambino crime family (Capo Ronald Trucchio, Terry Scaglione, Steven Catallono and associate Kevin McMahon) were tried under RICO statutes, found guilty and sentenced to life in prison.
+
+5.13. Lucchese Crime Family
+
+In the mid 1990s, prosecuting attorneys Gregory O’Connell and Charles Rose used RICO charges to bring down the Lucchese family within an 18-month period. Dismantling the Lucchese family had a profound financial impact on previously Mafia held businesses such as construction, garment, and garbage hauling. Here they dominated and extorted money through taxes, dues, and fees. An example of this extortion was through the garbage business. Hauling of garbage from the World Trade Center cost the building owners $1.2 million per year to be removed when the Mafia monopolized the business, as compared to $150,000 per year when competitive bids could be sought.
+
+5.14. Chicago Outfit
+
+In 2005, the U.S. Department of Justice's Operation Family Secrets indicted 15 Outfit members and associates under RICO predicates. Five defendants were convicted of RICO violations and other crimes. Six plead guilty, two died before trial and one was too sick to be tried.
+
+5.15. Michael Conahan and Mark Ciavarella
+
+A federal grand jury in the Middle District of Pennsylvania handed down a 48-count indictment against former Luzerne County Court of Common Pleas Judges Michael Conahan and Mark Ciavarella. The judges were charged with RICO after allegedly committing acts of wire fraud, mail fraud, tax evasion, money laundering, and honest services fraud. The judges were accused of taking kickbacks for housing juveniles, that the judges convicted of mostly petty crimes, at a private detention center. The incident was dubbed by many local and national newspapers as the "Kids for cash scandal". On February 18, 2011, a federal jury found Michael Ciavarella guilty of racketeering because of his involvement in accepting illegal payments from Robert Mericle, the developer of PA Child Care, and Attorney Robert Powell, a co-owner of the facility. Ciavarella is facing 38 other counts in federal court.
+
+5.16. Scott W. Rothstein
+
+Scott W. Rothstein is a disbarred lawyer and the former managing shareholder, chairman, and chief executive officer of the now-defunct Rothstein Rosenfeldt Adler law firm. He is accused of funding his philanthropy, political contributions, law firm salaries, and an extravagant lifestyle with a massive 1.2 billion dollar Ponzi scheme. On December 1, 2009. Rothstein turned himself in to federal authorities and was subsequently arrested on charges related to the Racketeer Influenced and Corrupt Organizations Act (RICO). Although his arraignment plea was not guilty, Rothstein cooperated with the government and reversed his plea to guilty of five federal crimes on January 27, 2010. Bond was denied by U.S. Magistrate Judge Robin Rosenbaum, who ruled that due to his ability to forge documents, he was considered a flight risk. On June 9, 2010, Rothstein received a 50-year prison sentence after a hearing in federal court in Fort Lauderdale.
+
+5.17. AccessHealthSource
+
+Eleven defendants were indicted on RICO charges for allegedly assisting AccessHealthSource, a local health care provider, in obtaining and maintaining lucrative contracts with local and state government entities in the city of El Paso, Texas, “through bribery of and kickbacks to elected officials or himself and others, extortion under color of authority, fraudulent schemes and artifices, false pretenses, promises and representations and deprivation of the right of citizens to the honest services of their elected local officials” (see indictment).
+
+6. International equivalents to RICO
+
+The US RICO legislation has other equivalents in the rest of the world. In spite of Interpol having a standardized definition of RICO-like crimes, the interpretation and national implementation in legislation (and enforcement) widely varies. Most nations do cooperate with the US on RICO enforcement only where their own related laws are specifically broken, but this is in line with the Interpol protocols for such matters.
+
+By nation, alphabetically
+
+In Australia the Australian Crime Commission has powers based on similar legislation and regulations.
+
+In Canada the Royal Canadian Mounted Police and the Office of the Superintendent of Financial Institutions enforce rules and regulations that cumulatively are equivalent to RICO.
+
+New Zealand has a similar arrangement and commission to Australia. Without other nations enforcing similar legislation to RICO many cross border RICO cases would not be possible. In the overall body of RICO cases that went to trial, at least 50% have had some non-US enforcement component to them. The offshoring of money away from the US finance system as part racketeering (and especially money laundering) is typically a major contributing factor to this.
+
+However, other countries have laws that enable the government to seize property with unlawful origins. Mexico and Colombia both have specific laws that define the participation in criminal organizations as a separate crime (see Ley Federal contra la Delincuencia Organizada), and separate laws that allow the seizure of goods related with these crimes. (see Ley de Extinción de Dominio). This latter provides a specific chapter titled "International Cooperation", which instructs Mexican authorities to cooperate with foreign authorities with respect to organized crime assets within Mexico, and provides the framework by which Mexican authorities may politely request the cooperation of foreign authorities with respect to assets located outside of Mexico, in terms of any international instruments they may be party to.
+
+Arguably, this may be construed as allowing the application of the RICO Act in Mexico, provided the relevant international agreements exist among Mexico and countries with RICO or RICO-equivalent provisions.
+
+7. See also
+
+Continuing Criminal Enterprise
+
+Patriot Act
+
+Criminal Tribes Act
+
+8. References
+
+9. Further reading
+
+Criminal RICO: 18 U.S.C. 1961-1968: A Manual for Federal Prosecutors. Washington, D.C.: U.S. Dept. of Justice, Criminal Division, Organized Crime and Racketeering Section, [2009].
+
+United States. Congress. House. Committee on the Judiciary. Subcommittee No. 5. Organized Crime Control. Hearings ... Ninety-first Congress, Second Session on S.30, and Related Proposals, Relating to the Control of Organized Crime in the U.S. [held] May 20, 21, 27; June 10, 11, 17; July 23, and August 5, 1970. Washington, D.C.: U.S. Government Printing Office, 1970.
+
+10. External links

@@ -1,0 +1,105 @@
+In particle physics, a pion (short for pi meson, denoted with the Greek letter pi: ) is any of three subatomic particles: , , and . Each pion consists of a quark and an antiquark and is therefore a meson. Pions are the lightest mesons and are unstable, with the charged pions and decaying with a mean lifetime of 26 nanoseconds, and the neutral pion decaying with a much shorter lifetime of seconds. Charged pions usually decay into muons and muon neutrinos, and neutral pions into gamma rays.
+
+The exchange of virtual pions, along with the vector, rho and omega mesons, provides an explanation for the residual strong force between nucleons. Pions are not produced in radioactive decay, but are produced commonly in high energy accelerators in collisions between hadrons. All types of pions are also produced in natural processes when high energy cosmic ray protons and other hadronic cosmic ray components interact with matter in the Earth's atmosphere. Recently, detection of characteristic gamma rays originating from decay of neutral pions in two supernova remnant stars has shown that pions are produced copiously in supernovas, most probably in conjunction with production of high energy protons that are detected on Earth as cosmic rays.
+
+The concept of mesons as the carrier particles of the nuclear force was first proposed in 1935 by Hideki Yukawa. While the muon was first proposed to be this particle after its discovery in 1936, later work found that it did not participate in the strong nuclear interaction. The pions, which turned out to be examples of Yukawa's proposed mesons, were discovered later: the charged pions in 1947, and the neutral pion in 1950.
+
+1. History
+
+Theoretical work by Hideki Yukawa in 1935 had predicted the existence of mesons as the carrier particles of the strong nuclear force. From the range of the strong nuclear force (inferred from the radius of the atomic nucleus), Yukawa predicted the existence of a particle having a mass of about 100 MeV. Initially after its discovery in 1936, the muon (initially called the "mu meson") was thought to be this particle, since it has a mass of 106 MeV. However, later particle physics experiments showed that the muon did not participate in the strong nuclear interaction. In modern terminology, this makes the muon a lepton, and not a true meson. However, some communities of nuclear physicists, e.g. in Russia, continue to call the muon a "mu-meson."
+
+In 1947, the first true mesons, the charged pions, were found by the collaboration of Cecil Powell, César Lattes, Giuseppe Occhialini, et al., at the University of Bristol, in England. Since the advent of particle accelerators had not yet come, high-energy subatomic particles were only obtainable from atmospheric cosmic rays. Photographic emulsions, which used the gelatin-silver process, were placed for long periods of time in sites located at high altitude mountains, first at Pic du Midi de Bigorre in the Pyrenees, and later at Chacaltaya in the Andes Mountains, where they were impacted by cosmic rays.
+
+After the development of the photographic plates, microscopic inspection of the emulsions revealed the tracks of charged subatomic particles. Pions were first identified by their unusual "double meson" tracks, which were left by their decay into another "meson". (It was actually the muon, which is not classified as a meson in modern particle physics.) In 1948, Lattes, Eugene Gardner, and their team first artificially produced pions at the University of California's cyclotron in Berkeley, California, by bombarding carbon atoms with high-speed alpha particles. Further advanced theoretical work was carried out by Riazuddin, who in 1959, used the dispersion relation for Compton scattering of virtual photons on pions to analyze their charge radius.
+
+Nobel Prizes in Physics were awarded to Yukawa in 1949 for his theoretical prediction of the existence of mesons, and to Cecil Powell in 1950 for developing and applying the technique of particle detection using photographic emulsions.
+
+Since the neutral pion is not electrically charged, it is more difficult to detect and observe than the charged pions are. Neutral pions do not leave tracks in photographic emulsions, and neither do they in Wilson cloud chambers. The existence of the neutral pion was inferred from observing its decay products from cosmic rays, a so-called "soft component" of slow electrons with photons. The was identified definitively at the University of California's cyclotron in 1950 by observing its decay into two photons. Later in the same year, they were also observed in cosmic-ray balloon experiments at Bristol University.
+
+The pion also plays a crucial role in cosmology, by imposing an upper limit on the energies of cosmic rays surviving collisions with the cosmic microwave background, through the Greisen–Zatsepin–Kuzmin limit.
+
+In the standard understanding of the strong force interaction (called QCD, "quantum chromodynamics"), pions are understood to be the pseudo-Nambu-Goldstone bosons of spontaneously broken chiral symmetry. This explains why the three kinds of pions' masses are considerably less than the masses of the other mesons, such as the scalar or vector mesons. If their current quarks were massless particles, hypothetically, making the chiral symmetry exact, then the Goldstone theorem would dictate that all pions have zero masses. In reality, since the light quarks actually have minuscule nonzero masses, the pions also have nonzero rest masses, albeit almost an order of magnitude smaller than that of the nucleons, roughly mπ ≈ √q / fπ ≈ √q 45 MeV, where m are the relevant current quark masses in MeV, 5−10 MeVs.
+
+The use of pions in medical radiation therapy, such as for cancer, was explored at a number of research institutions, including the Los Alamos National Laboratory's Meson Physics Facility, which treated 228 patients between 1974 and 1981 in New Mexico, and the TRIUMF laboratory in Vancouver, British Columbia.
+
+2. Theoretical overview
+
+The pion can be thought of as one of the particles that mediate the interaction between a pair of nucleons. This interaction is attractive: it pulls the nucleons together. Written in a non-relativistic form, it is called the Yukawa potential. The pion, being spinless, has kinematics described by the Klein–Gordon equation. In the terms of quantum field theory, the effective field theory Lagrangian describing the pion-nucleon interaction is called the Yukawa interaction.
+
+The nearly identical masses of and imply that there must be a symmetry at play; this symmetry is called the SU(2) flavour symmetry or isospin. The reason that there are three pions, , and , is that these are understood to belong to the triplet representation or the adjoint representation 3 of SU(2). By contrast, the up and down quarks transform according to the fundamental representation 2 of SU(2), whereas the anti-quarks transform according to the conjugate representation 2*.
+
+With the addition of the strange quark, one can say that the pions participate in an SU(3) flavour symmetry, belonging to the adjoint representation 8 of SU(3). The other members of this octet are the four kaons and the eta meson.
+
+Pions are pseudoscalars under a parity transformation. Pion currents thus couple to the axial vector current and pions participate in the chiral anomaly.
+
+3. Basic properties
+
+Pions are mesons with zero spin, and they are composed of first-generation quarks. In the quark model, an up quark and an anti-down quark make up a , whereas a down quark and an anti-up quark make up the , and these are the antiparticles of one another. The neutral pion is a combination of an up quark with an anti-up quark or a down quark with an anti-down quark. The two combinations have identical quantum numbers, and hence they are only found in superpositions. The lowest-energy superposition of these is the , which is its own antiparticle. Together, the pions form a triplet of isospin. Each pion has isospin (I = 1) and third-component isospin equal to its charge (Iz = +1, 0 or −1).
+
+3.1. Charged pion decays
+
+The mesons have a mass of and a mean lifetime of . They decay due to the weak interaction. The primary decay mode of a pion, with probability 0.999877, is a purely leptonic decay into an anti-muon and a muon neutrino:
+
+| || → || || + || |-- | || → || || + || |}
+
+The second most common decay mode of a pion, with probability 0.000123, is also a leptonic decay into an electron and the corresponding electron antineutrino. This "electronic mode" was discovered at CERN in 1958:
+
+| || → || || + || |-- | || → || || + || |}
+
+The suppression of the electronic mode, with respect to the muonic one, is given approximately (to within radiative corrections) by the ratio of the half-widths of the pion–electron and the pion–muon decay reactions:
+
+and is a spin effect known as the helicity suppression. Its mechanism is as follows: The negative pion has spin zero, therefore the lepton and antineutrino must be emitted with opposite spins (and opposite linear momenta) to preserve net zero spin (and conserve linear momentum). However, the antineutrino, due to very high speed, is always right-handed, so this implies that the lepton must be emitted with spin in the direction of its linear momentum (i.e., also right-handed). If, however, leptons were massless, they would only exist in the left-handed form, just as the neutrino does (due to parity violation), and this decay mode would be prohibited. Therefore, suppression of the electron decay channel comes from the fact that the electron's mass is much smaller than the muon's. The electron is thus relatively massless compared with the muon, and thus the electronic mode is almost prohibited.
+
+Hence, electronic mode decay favors the left-handed symmetry and inhibits this decay channel. Measurements of the above ratio have been considered for decades to be tests of the V − A structure (vector minus axial vector or left-handed lagrangian) of the charged weak current and of lepton universality. Experimentally this ratio is .
+
+Besides the purely leptonic decays of pions, some structure-dependent radiative leptonic decays (that is, decay to the usual leptons plus a gamma ray) have also been observed.
+
+Also observed, for charged pions only, is the very rare "pion beta decay" (with probability of about 10−8) into a neutral pion plus an electron and electron antineutrino (or for positive pions, a neutral pion, positron, and electron neutrino).
+
+| || → || || + || || + || |-- | || → || || + || || + || |}
+
+The rate at which pions decay is a prominent quantity in many sub-fields of particle physics, such as chiral perturbation theory. This rate is parametrized by the pion decay constant (Ђπ), related to the wave function overlap of the quark and antiquark, which is about .
+
+3.2. Neutral pion decays
+
+The meson has a slightly smaller mass of and a much shorter mean lifetime of , in comparison to the charged pion. It decays in an electromagnetic force process. The main decay mode, with a branching ratio BR=0.98823, is into two photons:
+
+| || → || 2 . |}
+
+Its second largest decay mode (BR=0.01174) is the Dalitz decay (named after Richard Dalitz), which is a two-photon decay with an internal photon conversion resulting a photon and an electron-positron pair in the final state:
+
+| || → || || + || || + || . |}
+
+The third largest established decay mode (BR=) is the double Dalitz decay, with both photos undergoing internal conversion which leads to further suppression of the rate:
+
+| || → || || + || || + || || + || . |}
+
+The fourth largest established decay mode is the loop-induced and therefore suppressed (and additionally helicity-suppressed) leptonic decay mode (BR=):
+
+| || → || || + || . |}
+
+The neutral pion has also been observed to decay into positronium with a branching fraction of the order of 10蜢9. No other decays modes are experimentally established. The braching fractions above are the PDG central values, and their uncertainties are not quoted.
+
+[a] Make-up inexact due to non-zero quark masses.
+
+4. See also
+
+Pionium
+
+List of particles
+
+Quark model
+
+Static forces and virtual-particle exchange
+
+César Lattes
+
+5. References
+
+6. Further reading
+
+Gerald Edward Brown and A. D. Jackson, The Nucleon-Nucleon Interaction, (1976) North-Holland Publishing, Amsterdam ISBN 0-7204-0335-9
+
+7. External links
+
+at the Particle Data Group

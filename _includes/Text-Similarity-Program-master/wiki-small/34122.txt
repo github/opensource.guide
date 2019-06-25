@@ -1,0 +1,71 @@
+Wacław Franciszek Sierpiński () (March 14, 1882 – October 21, 1969) was a Polish mathematician. He was known for outstanding contributions to set theory (research on the axiom of choice and the continuum hypothesis), number theory, theory of functions and topology. He published over 700 papers and 50 books.
+
+Three well-known fractals are named after him (the Sierpinski triangle, the Sierpinski carpet and the Sierpinski curve), as are Sierpinski numbers and the associated Sierpiński problem.
+
+1. Education
+
+Sierpiński enrolled in the Department of Mathematics and Physics at the University of Warsaw in 1899 and graduated four years later. In 1903, while still at the University of Warsaw, the Department of Mathematics and Physics offered a prize for the best essay from a student on Voronoy's contribution to number theory. Sierpiński was awarded a gold medal for his essay, thus laying the foundation for his first major mathematical contribution. Unwilling for his work to be published in Russian, he withheld it until 1907, when it was published in Samuel Dickstein's mathematical magazine 'Prace Matematyczno-Fizyczne' (Polish: 'The Works of Mathematics and Physics').
+
+After his graduation in 1904, Sierpiński worked as a school teacher of mathematics and physics in Warsaw. However, when the school closed because of a strike, Sierpiński decided to go to Kraków to pursue a doctorate. At the Jagiellonian University in Kraków he attended lectures by Stanisław Zaremba on mathematics. He also studied astronomy and philosophy. He received his doctorate and was appointed to the University of Lwów in 1908.
+
+2. Contributions to mathematics
+
+In 1907 Sierpiński first became interested in set theory when he came across a theorem which stated that points in the plane could be specified with a single coordinate. He wrote to Tadeusz Banachiewicz (then at Göttingen), asking how such a result was possible. He received the one-word reply 'Cantor'. Sierpiński began to study set theory and, in 1909, he gave the first ever lecture course devoted entirely to the subject.
+
+Sierpiński maintained an incredible output of research papers and books. During the years 1908 to 1914, when he taught at the University of Lwów, he published three books in addition to many research papers. These books were The Theory of Irrational Numbers (1910), Outline of Set Theory (1912), and The Theory of Numbers (1912).
+
+When World War I began in 1914, Sierpiński and his family were in Russia. To avoid the persecution that was common for Polish foreigners, Sierpiński spent the rest of the war years in Moscow working with Nikolai Luzin. Together they began the study of analytic sets. In 1916, Sierpiński gave the first example of an absolutely normal number.
+
+When World War I ended in 1918, Sierpiński returned to Lwów. However shortly after taking up his appointment again in Lwów he was offered a post at the University of Warsaw, which he accepted. In 1919 he was promoted to a professor. He spent the rest of his life in Warsaw.
+
+During the Polish–Soviet War (1919–1921), Sierpiński helped break Soviet Russian ciphers for the Polish General Staff's cryptological agency.
+
+In 1920, Sierpiński, together with Zygmunt Janiszewski and his former student Stefan Mazurkiewicz, founded an influential mathematical journal Fundamenta Mathematica. Sierpiński edited the journal, which specialized in papers on set theory.
+
+During this period, Sierpiński worked predominantly on set theory, but also on point set topology and functions of a real variable. In set theory he made contributions on the axiom of choice and on the continuum hypothesis. He proved that Zermelo–Fraenkel set theory together with the Generalized continuum hypothesis imply the Axiom of choice. He also worked on what is now known as the Sierpinski curve. Sierpiński continued to collaborate with Luzin on investigations of analytic and projective sets. His work on functions of a real variable includes results on functional series, differentiability of functions and Baire's classification.
+
+Sierpiński retired in 1960 as professor at the University of Warsaw, but continued until 1967 to give a seminar on the Theory of Numbers at the Polish Academy of Sciences. He also continued editorial work as editor-in-chief of Acta Arithmetica, and as an editorial-board member of Rendiconti del Circolo Matematico di Palermo, Composito Matematica, and Zentralblatt für Mathematik.
+
+Sierpiński is interred at the Powązki Cemetery in Warsaw, Poland.
+
+3. Honors received
+
+Honorary Degrees: Lwów (1929), St. Marks of Lima (1930), Amsterdam (1931), Tarta (1931), Sofia (1939), Prague (1947), Wrocław (1947), Lucknow (1949), and Moscow (1967).
+
+For high involvement with the development of mathematics in Poland, Sierpiński was honored with election to the Polish Academy of Learning in 1921 and that same year was made dean of the faculty at the University of Warsaw. In 1928, he became vice-chairman of the Warsaw Scientific Society, and that same year was elected chairman of the Polish Mathematical Society.
+
+He was elected to the Geographic Society of Lima (1931), the Royal Scientific Society of Liège (1934), the Bulgarian Academy of Sciences (1936), the National Academy of Lima (1939), the Royal Society of Sciences of Naples (1939), the Accademia dei Lincei of Rome (1947), the Germany Academy of Sciences (1950), the United States National Academy of Sciences (1959), the Paris Academy (1960), the Royal Dutch Academy (1961), the Academy of Science of Brussels (1961), the London Mathematical Society (1964), the Romanian Academy (1965) and the Papal Academy of Sciences (1967).
+
+In 1949 Sierpiński was awarded Poland's Scientific Prize, first degree.
+
+4. Publications
+
+Sierpiński authored 724 papers and 50 books (two of which, Introduction to General Topology (1934) and General Topology (1952) have been translated into English by Canadian mathematician Cecilia Krieger).
+
+5. See also
+
+Arity theorem
+
+Menger sponge
+
+Seventeen or Bust
+
+Sierpiński carpet
+
+Sierpiński's constant
+
+Sierpiński curve
+
+Sierpiński game
+
+Sierpiński set
+
+Sierpiński space
+
+Sierpiński triangle
+
+The Sierpiński moon crater
+
+6. External links
+
+, Biblioteka Wirtualna Nauki.

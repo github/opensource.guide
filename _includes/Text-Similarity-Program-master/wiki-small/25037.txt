@@ -1,0 +1,123 @@
+The term phonation has slightly different meanings depending on the subfield of phonetics. Among some phoneticians, phonation is the process by which the vocal folds produce certain sounds through quasi-periodic vibration. This is the definition used among those who study laryngeal anatomy and physiology and speech production in general. Phoneticians in other subfields, such as linguistic phonetics, call this process voicing, and use the term phonation to refer to any oscillatory state of any part of the larynx that modifies the airstream, of which voicing is just one example. Voiceless and supra-glottal phonations are included under this definition.
+
+1. Voicing
+
+The phonatory process, or voicing, occurs when air is expelled from the lungs through the glottis, creating a pressure drop across the larynx. When this drop becomes sufficiently large, the vocal folds start to oscillate. The minimum pressure drop required to achieve phonation is called the phonation threshold pressure, and for humans with normal vocal folds, it is approximately 2–3 cm H2O. The motion of the vocal folds during oscillation is mostly lateral, though there is also some superior component as well. However, there is almost no motion along the length of the vocal folds. The oscillation of the vocal folds serves to modulate the pressure and flow of the air through the larynx, and this modulated airflow is the main component of the sound of most voiced phones.
+
+The sound that the larynx produces is a harmonic series. In other words, it consists of a fundamental tone (called the fundamental frequency, the main acoustic cue for the percept pitch) accompanied by harmonic overtones, which are multiples of the fundamental frequency. The human instrument. Principles of Voice Production, Prentice Hall (currently published by NCVS.org),According to the Source-Filter Theory, the resulting sound excites the resonance chamber that is the vocal tract to produce the individual speech sounds,
+
+The vocal folds will not oscillate if they are not sufficiently close to one another, are not under sufficient tension or under too much tension, or if the pressure drop across the larynx is not sufficiently large. In linguistics, a phone is called voiceless if there is no phonation during its occurrence. In speech, voiceless phones are associated with vocal folds that are elongated, highly tensed, and placed laterally (abducted) when compared to vocal folds during phonation.
+
+Fundamental frequency, the main acoustic cue for the percept pitch, can be varied through a variety of means. Large scale changes are accomplished by increasing the tension in the vocal folds through contraction of the cricothyroid muscle. Smaller changes in tension can be effected by contraction of the thyroarytenoid muscle or changes in the relative position of the thyroid and cricoid cartilages, as may occur when the larynx is lowered or raised, either volitionally or through movement of the tongue to which the larynx is attached via the hyoid bone. In addition to tension changes, fundamental frequency is also affected by the pressure drop across the larynx, which is mostly affected by the pressure in the lungs, and will also vary with the distance between the vocal folds. Variation in fundamental frequency is used linguistically to produce intonation and tone.
+
+There are currently two main theories as to how vibration of the vocal folds is initiated: the myoelastic theory and the aerodynamic theory. These two theories are not in contention with one another and it is quite possible that both theories are true and operating simultaneously to initiate and maintain vibration. A third theory, the neurochronaxic theory, was in considerable vogue in the 1950s, but has since been largely discredited.
+
+1.1. Myoelastic and aerodynamic theory
+
+The myoelastic theory states that when the vocal cords are brought together and breath pressure is applied to them, the cords remain closed until the pressure beneath them—the subglottic pressure—is sufficient to push them apart, allowing air to escape and reducing the pressure enough for the muscle tension recoil to pull the folds back together again. Pressure builds up once again until the cords are pushed apart, and the whole cycle keeps repeating itself. The rate at which the cords open and close—the number of cycles per second—determines the pitch of the phonation.
+
+The aerodynamic theory is based on the Bernoulli energy law in fluids. The theory states that when a stream of breath is flowing through the glottis while the arytenoid cartilages are held together by the action of the interarytenoid muscles, a push-pull effect is created on the vocal fold tissues that maintains self-sustained oscillation. The push occurs during glottal closing, when the glottis is convergent, whereas the pull occurs during glottal opening, when the glottis is divergent. During glottal closure, the air flow is cut off until breath pressure pushes the folds apart and the flow starts up again, causing the cycles to repeat. The textbook entitled Myoelastic Aerodynamic Theory of Phonation by Ingo Titze credits Janwillem van den Berg as the originator of the theory and provides detailed mathematical development of the theory.
+
+1.2. Neurochronaxic theory
+
+This theory states that the frequency of the vocal fold vibration is determined by the chronaxy of the recurrent nerve, and not by breath pressure or muscular tension. Advocates of this theory thought that every single vibration of the vocal folds was due to an impulse from the recurrent laryngeal nerves and that the acoustic center in the brain regulated the speed of vocal fold vibration. Speech and voice scientists have long since left this theory as the muscles have been shown to not be able to contract fast enough to accomplish the vibration. In addition, persons with paralyzed vocal folds can produce phonation, which would not be possible according to this theory. Phonation occurring in excised larynges would also not be possible according to this theory.
+
+2. State of the glottis
+
+In linguistic phonetic treatments of phonation, such as those of Peter Ladefoged, phonation was considered to be a matter of points on a continuum of tension and closure of the vocal cords. More intricate mechanisms were occasionally described, but they were difficult to investigate, and until recently the state of the glottis and phonation were considered to be nearly synonymous.
+
+If the vocal cords are completely relaxed, with the arytenoid cartilages apart for maximum airflow, the cords do not vibrate. This is voiceless phonation, and is extremely common with obstruents. If the arytenoids are pressed together for glottal closure, the vocal cords block the airstream, producing stop sounds such as the glottal stop. In between there is a sweet spot of maximum vibration. This is modal voice, and is the normal state for vowels and sonorants in all the world's languages. However, the aperture of the arytenoid cartilages, and therefore the tension in the vocal cords, is one of degree between the end points of open and closed, and there are several intermediate situations utilized by various languages to make contrasting sounds.
+
+For example, Gujarati has vowels with a partially lax phonation called breathy voice or murmured, while Burmese has vowels with a partially tense phonation called creaky voice or laryngealized. Both of these phonations have dedicated IPA diacritics, an under-umlaut and under-tilde. The Jalapa dialect of Mazatec is unusual in contrasting both with modal voice in a three-way distinction. (Note that Mazatec is a tonal language, so the glottis is making several tonal distinctions simultaneously with the phonation distinctions.)
+
+Javanese does not have modal voice in its stops, but contrasts two other points along the phonation scale, with more moderate departures from modal voice, called slack voice and stiff voice. The "muddy" consonants in Shanghainese are slack voice; they contrast with tenuis and aspirated consonants.
+
+Although each language may be somewhat different, it is convenient to classify these degrees of phonation into discrete categories. A series of seven alveolar stops, with phonations ranging from an open/lax to a closed/tense glottis, are:
+
+The IPA diacritics under-ring and subscript wedge, commonly called "voiceless" and "voiced", are sometimes added to the symbol for a voiced sound to indicate more lax/open (slack) and tense/closed (stiff) states of the glottis, respectively. (Ironically, adding the 'voicing' diacritic to the symbol for a voiced consonant indicates less modal voicing, not more, because a modally voiced sound is already fully voiced, at its sweet spot, and any further tension in the vocal cords dampens their vibration.)
+
+Alsatian, like several Germanic languages, has a typologically unusual phonation in its stops. The consonants transcribed (ambiguously called "lenis") are partially voiced: The vocal cords are positioned as for voicing, but do not actually vibrate. That is, they are technically voiceless, but without the open glottis usually associated with voiceless stops. They contrast with both modally voiced and modally voiceless in French borrowings, as well as aspirated word initially.
+
+2.1. Glottal consonants
+
+It has long been noted that in many languages, both phonologically and historically, the glottal consonants do not behave like other consonants. Phonetically, they have no manner or place of articulation other than the state of the glottis: glottal closure for , breathy voice for , and open airstream for . Some phoneticians have described these sounds as neither glottal nor consonantal, but instead as instances of pure phonation, at least in many European languages. However, in Semitic languages they do appear to be true glottal consonants.
+
+3. Supra-glottal phonation
+
+In the last few decades it has become apparent that phonation may involve the entire larynx, with as many as six valves and muscles working either independently or together. From the glottis upward, these articulations are:
+
+glottal (the vocal cords), producing the distinctions described above
+
+ventricular (the 'false vocal cords', partially covering and damping the glottis)
+
+arytenoid (sphincteric compression forwards and upwards)
+
+epiglotto-pharyngeal (retraction of the tongue and epiglottis, potentially closing onto the pharyngeal wall)
+
+raising or lowering of the entire larynx
+
+narrowing of the pharynx Until the development of fiber-optic laryngoscopy, the full involvement of the larynx during speech production was not observable, and the interactions among the six laryngeal articulators is still poorly understood. However, at least two supra-glottal phonations appear to be widespread in the world's languages. These are harsh voice ('ventricular' or 'pressed' voice), which involves overall constriction of the larynx, and faucalized voice ('hollow' or 'yawny' voice), which involves overall expansion of the larynx.
+
+The Bor dialect of Dinka has contrastive modal, breathy, faucalized, and harsh voice in its vowels, as well as three tones. The ad hoc diacritics employed in the literature are a subscript double quotation mark for faucalized voice, , and underlining for harsh voice, . Examples are,
+
+Other languages with these contrasts are Bai (modal, breathy, and harsh voice), Kabiye (faucalized and harsh voice, previously seen as ±ATR), Somali (breathy and harsh voice).
+
+Elements of laryngeal articulation or phonation may occur widely in the world's languages as phonetic detail even when not phonemically contrastive. For example, simultaneous glottal, ventricular, and arytenoid activity (for something other than epiglottal consonants) has been observed in Tibetan, Korean, Nuuchahnulth, Nlaka'pamux, Thai, Sui, Amis, Pame, Arabic, Tigrinya, Cantonese, and Yi.
+
+4. Familiar language examples
+
+In languages such as French, all obstruents occur in pairs, one modally voiced and one voiceless.
+
+In English, every voiced fricative corresponds to a voiceless one. For the pairs of English stops, however, the distinction is better specified as voice onset time rather than simply voice: In initial position /b d g/ are only partially voiced (voicing begins during the hold of the consonant), while /p t k/ are aspirated (voicing doesn't begin until well after its release). Certain English morphemes have voiced and voiceless allomorphs, such as the plural, verbal, and possessive endings spelled -s (voiced in kids but voiceless in kits ) and the past-tense ending spelled -ed (voiced in buzzed but voiceless in fished .
+
+A few European languages, such as Finnish, have no phonemically voiced obstruents but pairs of long and short consonants instead. Outside of Europe, a lack of voicing distinctions is not uncommon; indeed, in Australian languages it is nearly universal. In languages without the distinction between voiceless and voiced obstruents, it is often found that they are realized as voiced in voiced environments such as between vowels, and voiceless elsewhere.
+
+5. Vocal registers
+
+5.1. Phonology
+
+In phonology, a register is a combination of tone and vowel phonation into a single phonological parameter. For example, among its vowels, Burmese combines modal voice with low tone, breathy voice with falling tone, creaky voice with high tone, and glottal closure with high tone. These four registers contrast with each other, but no other combination of phonation (modal, breath, creak, closed) and tone (high, low, falling) is found.
+
+5.2. Pedagogy and speech pathology
+
+Among vocal pedagogues and speech pathologists, a vocal register also refers to a particular phonation limited to a particular range of pitch, which possesses a characteristic sound quality. The term "register" may be used for several distinct aspects of the human voice:
+
+A particular part of the vocal range, such as the upper, middle, or lower registers, which may be bounded by vocal breaks
+
+A particular phonation
+
+A resonance area such as chest voice or head voice
+
+A certain vocal timbre Four combinations of these elements are identified in speech pathology: the vocal fry register, the modal register, the falsetto register, and the whistle register.
+
+6. See also
+
+List of phonetics topics
+
+Breathy voice
+
+Slack voice
+
+Stiff voice
+
+Creaky voice
+
+Harsh voice
+
+Strident vowel
+
+Faucalized voice
+
+Voice onset time
+
+Voice organ
+
+Vocal resonation
+
+Ballistic syllables
+
+7. References
+
+8. External links
+
+(Esling & Harris, University of Victoria)

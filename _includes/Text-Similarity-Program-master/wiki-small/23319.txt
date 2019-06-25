@@ -1,0 +1,117 @@
+Palladium is a chemical element with symbol Pd and atomic number 46. It is a rare and lustrous silvery-white metal discovered in 1803 by William Hyde Wollaston. He named it after the asteroid Pallas, which was itself named after the epithet of the Greek goddess Athena, acquired by her when she slew Pallas. Palladium, platinum, rhodium, ruthenium, iridium and osmium form a group of elements referred to as the platinum group metals (PGMs). These have similar chemical properties, but palladium has the lowest melting point and is the least dense of them.
+
+Over half of the supply of palladium and its congener platinum goes into catalytic converters, which convert up to 90% of harmful gases from auto exhaust (hydrocarbons, carbon monoxide, and nitrogen dioxide) into less-harmful substances (nitrogen, carbon dioxide and water vapor). Palladium is also used in electronics, dentistry, medicine, hydrogen purification, chemical applications, groundwater treatment and jewelry. Palladium plays a key role in the technology used for fuel cells, which combine hydrogen and oxygen to produce electricity, heat, and water.
+
+Ore deposits of palladium and other PGMs are rare, and the most extensive deposits have been found in the norite belt of the Bushveld Igneous Complex covering the Transvaal Basin in South Africa, the Stillwater Complex in Montana, United States, the Thunder Bay District of Ontario, Canada, and the Norilsk Complex in Russia. Recycling is also a source of palladium, mostly from scrapped catalytic converters. The numerous applications and limited supply sources of palladium result in the metal attracting considerable investment interest.
+
+1. Characteristics
+
+Palladium belongs to group 10 in the periodic table, but has a very atypical configuration in its outermost electron shells compared to the other members of group 10 (see also niobium (41), ruthenium (44), and rhodium (45)), having fewer filled electron shells than the elements directly preceding it (a phenomenon unique to palladium). This makes its valence shell have 10 more electrons than the noble gases.
+
+Palladium is a soft silver-white metal that resembles platinum. It is the least dense and has the lowest melting point of the platinum group metals. It is soft and ductile when annealed and greatly increases its strength and hardness when it is cold-worked. Palladium dissolves slowly in concentrated nitric acid, in hot, concentrated sulfuric acid, and, when finely divided, in hydrochloric acid.
+
+Common oxidation states of palladium are 0, +1, +2 and +4. There are relatively few known compounds with palladium unambiguously in the +3 oxidation state, though such compounds have been proposed as intermediates in many palladium-catalyzed cross-coupling reactions. In 2002, palladium(VI) was first reported.
+
+1.1. Isotopes
+
+Naturally occurring palladium is composed of seven isotopes, which includes six stable isotopes. The most stable radioisotopes are 107Pd with a half-life of 6.5 million years (found in nature), 103Pd with a half-life of 17 days, and 100Pd with a half-life of 3.63 days. Eighteen other radioisotopes have been characterized with atomic weights ranging from 90.94948(64) u (91Pd) to 122.93426(64) u (123Pd). Most of these have half-lives that are less than thirty minutes, except 101Pd (half-life: 8.47 hours), 109Pd (half-life: 13.7 hours), and 112Pd (half-life: 21 hours).
+
+For isotopes with atomic mass unit values less than that of the most abundant stable isotope, 106Pd, the primary decay mode is electron capture with the primary decay product being rhodium. The primary mode of decay for those isotopes of Pd with atomic mass greater than 106 is beta decay with the primary product of this decay being silver.
+
+Radiogenic 107Ag is a decay product of 107Pd and was first discovered in 1978 in the Santa Clara meteorite of 1976. The discoverers suggest that the coalescence and differentiation of iron-cored small planets may have occurred 10 million years after a nucleosynthetic event. 107Pd versus Ag correlations observed in bodies, which have been melted since accretion of the solar system, must reflect the presence of short-lived nuclides in the early solar system.
+
+1.2. Compounds
+
+Palladium does not react with oxygen at normal temperatures (and thus does not tarnish in air). Palladium heated to 800 °C will produce a layer of palladium(II) oxide (PdO). It tarnishes lightly in a moist atmosphere containing sulfur. Palladium primarily exists in the 0, +2, and +4 oxidation states; the +4 oxidation state is comparatively rare. One major example of palladium(IV) is hexachloropalladate(IV), [PdCl6]2−.
+
+Elemental palladium reacts with chlorine to give palladium(II) chloride; it dissolves in nitric acid and precipitates palladium(II) acetate on addition of acetic acid. These two compounds and the bromide are reactive and relatively inexpensive, making them convenient entry points to palladium chemistry. All three are not monomeric; the chloride and bromide often must be refluxed in acetonitrile to obtain the more reactive acetonitrile complex monomers, for example:
+
+Palladium(II) chloride is the principal starting material for many other palladium catalysts. It is used to prepare heterogeneous palladium catalysts: palladium on barium sulfate, palladium on carbon, and palladium chloride on carbon. It reacts with triphenylphosphine in coordinating solvents to give bis(triphenylphosphine)palladium(II) dichloride, a useful catalyst. Where desired, the catalyst may be formed in situ.
+
+Reduction of this phosphine complex with hydrazine with more phosphine gives tetrakis(triphenylphosphine)palladium(0), one of the two major palladium(0) complexes:
+
+The other major palladium(0) complex, tris(dibenzylideneacetone)dipalladium(0) (Pd2(dba)3), is prepared by reducing sodium tetrachloropalladate in the presence of dibenzylideneacetone.
+
+Mixed valence palladium complex of Pd4(CO)4(OAc)4Pd(acac)2 forms an infinite Pd chain structure, with alternatively interconnected Pd4(CO)4(OAc)4 and Pd(acac)2 units.
+
+The great many reactions in which palladium compounds serve as catalysts are collectively known as palladium-catalyzed coupling reactions. Prominent examples include the Heck, Suzuki and Stille reactions. Palladium(II) acetate, tetrakis(triphenylphosphine)palladium(0) (Pd(PPh3)4, and tris(dibenzylideneacetone)dipalladium(0) (Pd2(dba)3) are useful in this regard, either as catalysts or as starting points to catalysts.
+
+2. History
+
+William Hyde Wollaston noted the discovery of a new noble metal in July 1802 in his lab-book and named it palladium in August of the same year. Wollaston purified enough of the material and offered it, without naming the discoverer, in a small shop in Soho in April 1803. After harsh criticism that palladium is an alloy of platinum and mercury by Richard Chenevix, Wollaston anonymously offered a reward of 20 British pounds for 20 grains of synthetic palladium alloy. Chenevix received the Copley Medal in 1803 after he published his experiments on palladium. Wollaston published the discovery of rhodium in 1804 and mentions some of his work on palladium. He disclosed that he was the discoverer of palladium in a publication in 1805.
+
+It was named by Wollaston in 1802 after the asteroid Pallas, which had been discovered two months earlier. Wollaston found palladium in crude platinum ore from South America by dissolving the ore in aqua regia, neutralizing the solution with sodium hydroxide, and precipitating platinum as ammonium chloroplatinate with ammonium chloride. He added mercuric cyanide to form the compound palladium(II) cyanide, which was heated to extract palladium metal.
+
+Palladium chloride was at one time prescribed as a tuberculosis treatment at the rate of 0.065 g per day (approximately one milligram per kilogram of body weight). This treatment had many negative side-effects, and was later replaced by more effective drugs.
+
+In the run up to 2000, the Russian supply of palladium to the global market was repeatedly delayed and disrupted because the export quota was not granted on time, for political reasons. The ensuing market panic drove the price to an all-time high of $1100 per troy ounce in January 2001. Around this time, the Ford Motor Company, fearing auto vehicle production disruption due to a possible palladium shortage, stockpiled large amounts of the metal purchased near the price high. When prices fell in early 2001, Ford lost nearly US$1 billion. World demand for palladium increased from 100 tons in 1990 to nearly 300 tons in 2000. The global production of palladium from mines was 222 tonnes in 2006 according to the United States Geological Survey. Most palladium is used for catalytic converters in the automobile industry. There are currently concerns about a steady supply of palladium in the wake of Russia's military maneuvers in Ukraine, partly as sanctions could hamper Russian palladium exports; any restrictions on Russian palladium exports would exacerbate what is already expected to be a large palladium deficit in 2014.
+
+3. Occurrence
+
+In 2007, Russia was the top producer of palladium, with a 44% world share, followed by South Africa with 40%. Canada with 6% and the U.S. with 5% are the only other substantial producers of palladium.
+
+Palladium can be found as a free metal alloyed with gold and other platinum-group metals in placer deposits of the Ural Mountains, Australia, Ethiopia, North and South America. For the production of palladium these deposits play only a minor role. The most important commercial sources are nickel-copper deposits found in the Sudbury Basin, Ontario, and the Norilsk–Talnakh deposits in Siberia. The other large deposit is the Merensky Reef platinum group metals deposit within the Bushveld Igneous Complex South Africa. The Stillwater igneous complex of Montana and the Roby zone ore body of the Lac des Îles igneous complex of Ontario are the two other sources of palladium in Canada and the United States. Palladium is found in the rare minerals cooperite and polarite.
+
+Palladium is also produced in nuclear fission reactors and can be extracted from spent nuclear fuel (see synthesis of precious metals) though this source for palladium is not used. None of the existing nuclear reprocessing facilities are equipped to extract palladium from the high-level radioactive waste.
+
+4. Applications
+
+The largest use of palladium today is in catalytic converters. Palladium is also used in jewelry, dentistry, watch making, blood sugar test strips, aircraft spark plugs and in the production of surgical instruments and electrical contacts. Palladium is also used to make professional transverse flutes. As a commodity, palladium bullion has ISO currency codes of XPD and 964. Palladium is one of only four metals to have such codes, the others being gold, silver and platinum. Palladium was also a key component of the controversial cold fusion experiments that began in 1989.
+
+4.1. Catalysis
+
+When it is finely divided, such as in palladium on carbon, palladium forms a versatile catalyst and speeds up hydrogenation and dehydrogenation reactions, as well as in petroleum cracking. A large number of carbon–carbon bond forming reactions in organic chemistry (such as the Heck reaction and Suzuki coupling) are facilitated by catalysis with palladium compounds. (see Palladium Compounds and palladium-catalyzed coupling reactions) In addition, palladium, when dispersed on conductive materials, proves to be an excellent electrocatalyst for oxidation of primary alcohols in alkaline media. In 2010, palladium-catalysed organic reactions were recognised by the Nobel Prize in Chemistry. Palladium is also a versatile metal for homogeneous catalysis. It is used in combination with a broad variety of ligands for highly selective chemical transformations. A 2008 study showed that palladium is an effective catalyst for making carbon-fluoride bonds. Palladium is found in the Lindlar catalyst, also called Lindlar's Palladium.
+
+4.2. Electronics
+
+The second-biggest application of palladium in electronics is in the manufacture of multilayer ceramic capacitors, in which palladium (and palladium-silver alloys) are used as electrodes. Palladium (sometimes alloyed with nickel) is used in connector platings in consumer electronics.
+
+It is also used in plating of electronic components and in soldering materials. The electronic sector consumed 1.07 million troy ounces (33.2 tonnes) of palladium in 2006, according to a Johnson Matthey report.
+
+4.3. Technology
+
+Hydrogen easily diffuses through heated palladium; thus, it provides a means of purifying the gas. Membrane reactors with Pd membranes are therefore used for the production of high purity hydrogen. Palladium is a part of the palladium-hydrogen electrode in electrochemical studies. Palladium(II) chloride can oxidize large amounts of carbon monoxide gas, and is used in carbon monoxide detectors.
+
+4.4. Hydrogen storage
+
+Palladium readily absorbs hydrogen at room temperatures forming palladium hydride PdHx with x below 1. While this property is common to many transition metals, palladium is unique by the high absorption capacity and by that it does not lose its ductility until high x values. This property has been investigated for designing an efficient, yet inexpensive hydrogen storage material (palladium itself is prohibitively expensive for this purpose).
+
+The content of hydrogen in palladium can be linked to the magnetic susceptibility, which decreases with the increase of hydrogen content. The susceptibility becomes zero for PdH0.62. At higher ratio the solid solution becomes diamagnetic.
+
+4.5. Jewelry
+
+Palladium itself has been used as a precious metal in jewelry since 1939, as an alternative to platinum for making white gold. This use resulted from the naturally white color of palladium, which required no rhodium plating. Palladium is much less dense than platinum. Similar to gold, palladium can be beaten into a thin leaf form as thin as 100 nm (1/250,000 in). Unlike platinum, palladium may discolor upon heating to above ; it is relatively brittle and reacts with strong acids such as nitric acid.
+
+Palladium is one of the three most popular metals used to make white gold alloys (nickel and silver can also be used). Palladium-gold is a more expensive alloy than nickel-gold, but seldom causes allergic reactions (though certain cross-allergies with nickel may occur).
+
+When platinum was declared a strategic government resource during World War II, many jewelry bands were made out of palladium. As recently as September 2001, palladium was more expensive than platinum and rarely used in jewelry also due to the technical obstacle of casting. However, the casting problem has been resolved and its use in jewelry has increased because of a large spike in the price of platinum and a drop in the price of palladium.
+
+Prior to 2004, the principal use of palladium in jewelry was the manufacture of white gold. In early 2004, when gold and platinum prices rose steeply, China began fabricating significant volumes of palladium jewelry and used 37 tonnes of palladium for this purpose in 2005. Changes of the relative price between palladium and platinum after 2008 lowered demand for palladium to 17.4 tonnes in 2009.
+
+In January 2010, hallmarks for palladium were introduced by assay offices in the United Kingdom, and it became a legal requirement to hallmark all articles of jewellery described as being wholly or partly made of palladium. Articles can be marked as containing a minimum of either 500, 950 or 999 parts per thousand of palladium.
+
+Fountain pen nibs made from gold are sometimes plated with palladium when a silver, rather than gold, appearance is desired. Sheaffer has used palladium plating for many decades, either as an accent on otherwise gold nibs or to cover the gold completely.
+
+4.6. Photography
+
+With the platinotype printing process photographers make fine-art black-and-white prints using platinum or palladium salts. Often used with platinum, palladium provides an alternative to silver.
+
+5. Precautions
+
+Finely divided palladium metal can be pyrophoric. As a platinum-group metal, the bulk material is quite inert. Although contact dermatitis has been reported, the amount of data on the effects of exposure to palladium is limited. It has been shown that people with an allergic reaction to palladium also react to nickel, making it advisable to avoid the use of dental alloys containing palladium on those so allergic.
+
+A considerable amount of palladium is distributed by the exhausts of cars with catalytic converters. Between 4 and 108 ng/km of palladium particulate is released by such cars. Its total uptake from food is estimated to be lower than 2 µg per person a day. The second possible source for palladium is alloys for dental restoration, there the possible uptake of palladium is estimated to be lower than 15 µg per person per day. People working with palladium or its compounds might have a considerably higher uptake. For soluble compounds like palladium chloride 99% is eliminated from the body within 3 days.
+
+The median lethal dose (LD50) of soluble palladium compounds in mice is 200 mg/kg for oral and 5 mg/kg for intravenous administration.
+
+6. See also
+
+2000s commodities boom
+
+Palladium as an investment
+
+7. References
+
+8. External links
+
+at The Periodic Table of Videos (University of Nottingham)

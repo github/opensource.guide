@@ -1,0 +1,59 @@
+R (named ar or ) is the 18th letter of the ISO basic Latin alphabet.
+
+1. History
+
+The original Semitic letter may have been inspired by an Egyptian hieroglyph for tp, "head". It was used for by Semites because in their language, the word for "head" was rêš (also the name of the letter). It developed into Greek 'Ρ' (rhô) and Latin R. It is likely that some Etruscan and Western Greek forms of the letter added the extra stroke to distinguish it from a later form of the letter P.
+
+The name of the letter in Latin was er (), following the pattern of other letters representing continuants, such as F, L, M, N, and S. This name is preserved in French and many other languages. In Middle English, the name of the letter changed from to , following a pattern exhibited in many other words such as farm (compare French ferme), and star (compare German Stern).
+
+The minuscule (lowercase) form as 'r' developed through several variations on the capital form. In handwriting it was common not to close the bottom of the loop but continue into the leg, saving an extra pen stroke. The loop-leg stroke shortened into the simple arc used today. Another minuscule, r rotunda (ꝛ), kept the loop-leg stroke but dropped the vertical stroke, although it fell out of use around the 18th century.
+
+2. Usage
+
+The letter R is the eighth most common letter in English and the fourth-most common consonant (after 't', 'n', and 's'). R represents a rhotic consonant in many languages, as shown in the table below. The International Phonetic Alphabet uses several variations of the letter to represent the different rhotic consonants; represents the alveolar trill.
+
+Other languages may use the letter 'r' in their alphabets (or Latin transliterations schemes) to represent rhotic consonants different from the alveolar trill. In Haitian Creole, it represents a sound so weak that it is often written interchangeably with 'w', e.g. 'Kweyol' for 'Kreyol'.
+
+Brazilian Portuguese has a great number of allophones of such as , , , , , and , the latter three ones can be used only in certain contexts ( and as 'rr'; in the syllable coda, as an allophone of according to the European Portuguese norm and according to the Brazilian Portuguese norm). Usually at least two of them are present in a single dialect, such as Rio de Janeiro's , , and, for a few speakers, .
+
+In science, the letter R is a symbol for the gas constant. Mathematicians use 'R' or (an R in blackboard bold, displayed as in Unicode) for the set of all real numbers.
+
+3. Shape
+
+The letter R is the only letter in the basic modern Latin alphabet in which the uppercase has a closed section and the lowercase does not.
+
+3.1. Dog's letter
+
+The letter R is sometimes referred to as the littera canina (canine letter). This phrase has Latin origins: the Latin R was trilled to sound like a growling dog. A good example of a trilling R is the Spanish word for dog, perro.
+
+In William Shakespeare's Romeo and Juliet, such a reference is made by Juliet's nurse in Act 2, scene 4, when she calls the letter R "the dog's name." The reference is also found in Ben Jonson's English Grammar.
+
+4. Related letters and other similar characters
+
+Ρ ρ/ : Greek letter Rho
+
+Р р : Cyrillic letter Er
+
+Я я : Cyrillic letter Ya
+
+尺 : Chinese logogram Chi, an obsolete measurement unit
+
+ℛ : Script capital R
+
+5. Computing codes
+
+6. Other representations
+
+7. See also
+
+Raidô
+
+Vocalic r
+
+Vox Canina
+
+Registered Trademark symbol
+
+8. References
+
+9. External links

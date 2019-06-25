@@ -1,0 +1,75 @@
+In complex analysis, the Riemann mapping theorem states that if U is a non-empty simply connected open subset of the complex number plane C which is not all of C, then there exists a biholomorphic (bijective and holomorphic) mapping f from U onto the open unit disk
+
+This mapping is known as a Riemann mapping.
+
+Intuitively, the condition that U be simply connected means that U does not contain any “holes”. The fact that f is biholomorphic implies that it is a conformal map and therefore angle-preserving. Intuitively, such a map preserves the shape of any sufficiently small figure, while possibly rotating and scaling (but not reflecting) it.
+
+Henri Poincaré proved that the map f is essentially unique: if z0 is an element of U and φ is an arbitrary angle, then there exists precisely one f as above such that f(z0) = 0 and that the argument of the derivative of f at the point z0 is equal to φ. This is an easy consequence of the Schwarz lemma.
+
+As a corollary of the theorem, any two simply connected open subsets of the Riemann sphere which both lack at least two points of the sphere can be conformally mapped into each other (because conformal equivalence is an equivalence relation).
+
+1. History
+
+The theorem was stated (under the assumption that the boundary of U is piecewise smooth) by Bernhard Riemann in 1851 in his PhD thesis. Lars Ahlfors wrote once, concerning the original formulation of the theorem, that it was “ultimately formulated in terms which would defy any attempt of proof, even with modern methods”. Riemann's flawed proof depended on the Dirichlet principle (which was named by Riemann himself), which was considered sound at the time. However, Karl Weierstrass found that this principle was not universally valid. Later, David Hilbert was able to prove that, to a large extent, the Dirichlet principle is valid under the hypothesis that Riemann was working with. However, in order to be valid, the Dirichlet principle needs certain hypotheses concerning the boundary of U which are not valid for simply connected domains in general. Simply connected domains with arbitrary boundaries were first treated by .
+
+The first proof of the theorem is due to Constantin Carathéodory, who published it in 1912. His proof used Riemann surfaces and it was simplified by Paul Koebe two years later in a way which did not require them.
+
+Another proof, due to Leopold Fejér and to Frigyes Riesz, was published in 1922 and it was rather shorter than the previous ones. In this proof, like in Riemann's proof, the desired mapping was obtained as the solution of an extremal problem. The Fejér-Riesz proof was further simplified by Alexander Ostrowski and by Carathéodory.
+
+2. Importance
+
+The following points detail the uniqueness and power of the Riemann mapping theorem:
+
+Even relatively simple Riemann mappings (for example a map from the interior of a circle to the interior of a square) have no explicit formula using only elementary functions.
+
+Simply connected open sets in the plane can be highly complicated, for instance the boundary can be a nowhere-differentiable fractal curve of infinite length, even if the set itself is bounded. The fact that such a set can be mapped in an angle-preserving manner to the nice and regular unit disc seems counter-intuitive.
+
+The analog of the Riemann mapping theorem for more complicated domains is not true. The next simplest case is of doubly connected domains (domains with a single hole). Any doubly connected domain except for the punctured disk and the punctured plane is conformally equivalent to some annulus {z : r < |z| < 1} with 0 < r < 1, however there are no conformal maps between annuli except inversion and multiplication by constants so the annulus {z : 1 < |z| < 2} is not conformally equivalent to the annulus {z : 1 < |z| < 4} (as can be proven using extremal length).
+
+The analogue of the Riemann mapping theorem in three or more real dimensions is not true. The family of conformal maps in three dimensions is very poor, and essentially contains only Möbius transformations.
+
+Even if arbitrary homeomorphisms in higher dimensions are permitted, contractible manifolds can be found that are not homeomorphic to the ball (e.g., the Whitehead continuum).
+
+The Riemann mapping theorem is the easiest way to prove that any two simply connected domains in the plane are homeomorphic. Even though the class of continuous functions is vastly larger than that of conformal maps, it is not easy to construct a one-to-one function onto the disk knowing only that the domain is simply connected.
+
+3. A proof sketch
+
+Given U and z0, we want to construct a function f which maps U to the unit disk and z0 to 0. For this sketch, we will assume that U is bounded and its boundary is smooth, much like Riemann did. Write
+
+where g = u + iv is some (to be determined) holomorphic function with real part u and imaginary part v. It is then clear that z0 is the only zero of f. We require |f(z)| = 1 for z ∈ ∂U, so we need
+
+on the boundary. Since u is the real part of a holomorphic function, we know that u is necessarily a harmonic function; i.e., it satisfies Laplace's equation.
+
+The question then becomes: does a real-valued harmonic function u exist that is defined on all of U and has the given boundary condition? The positive answer is provided by the Dirichlet principle. Once the existence of u has been established, the Cauchy-Riemann equations for the holomorphic function g allow us to find v (this argument depends on the assumption that U be simply connected). Once u and v have been constructed, one has to check that the resulting function f does indeed have all the required properties.
+
+4. Uniformization theorem
+
+The Riemann mapping theorem can be generalized to the context of Riemann surfaces: If U is a simply-connected open subset of a Riemann surface, then U is biholomorphic to one of the following: the Riemann sphere, C or D. This is known as the uniformization theorem.
+
+5. Smooth Riemann mapping theorem
+
+In the case of a simply connected bounded domain with smooth boundary, the Riemann mapping function and all its derivatives extend by continuity to the closure of the domain. This can be proved using regularity properties of solutions of the Dirichlet boundary value problem, which follow either from the theory of Sobolev spaces for planar domains or from classical potential theory. Other methods for proving the smooth Riemann mapping theorem include the theory of kernel functions or the Beltrami equation.
+
+6. See also
+
+Carathéodory's theorem
+
+Measurable Riemann mapping theorem
+
+Schwarz–Christoffel mapping - a conformal transformation of the upper half-plane onto the interior of a simple polygon.
+
+7. Notes
+
+8. References
+
+John B. Conway (1978) Functions of one complex variable, Springer-Verlag, ISBN 0-387-90328-3
+
+John B. Conway (1995) Functions of one complex variable II, Springer-Verlag, ISBN 0-387-94460-5
+
+Steven G. Krantz (2006) Geometric Function Theory, chapter 4: Riemann Mapping Theorem and its Generalizations, pp 83舑108, Birkhäuser ISBN 0-8176-4339-7 .
+
+Reinhold Remmert (1998) Classical topics in complex function theory, Springer-Verlag, ISBN 0-387-98221-3
+
+Bernhard Riemann (1851) , Göttingen.
+
+9. External links

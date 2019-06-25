@@ -1,0 +1,19 @@
+Naive Set Theory is a mathematics textbook by Paul Halmos providing an undergraduate introduction to set theory. Originally published by Van Nostrand in 1960, it was reprinted in the Springer-Verlag Undergraduate Texts in Mathematics series in 1974.
+
+While the title states that it is naive, which is usually taken to mean without axioms, the book does introduce all the axioms of Zermelo–Fraenkel set theory and gives correct and rigorous definitions for basic objects. Where it differs from a "true" axiomatic set theory book is its character: there are no long-winded discussions of axiomatic minutiae, and there is next to nothing about advanced topics like large cardinals. Instead, it tries to be intelligible to someone who has never thought about set theory before.
+
+Halmos later stated that it was the fastest book he wrote, taking about six months, and that the book "wrote itself".
+
+1. See also
+
+List of publications in mathematics
+
+2. Bibliography
+
+Halmos, Paul, Naive Set Theory. Princeton, NJ: D. Van Nostrand Company, 1960. Reprinted by Springer-Verlag, New York, 1974. ISBN 0-387-90092-6 (Springer-Verlag edition). Reprinted by Martino Fine Books, 2011. ISBN 978-1-61427-131-4 (Paperback edition).
+
+3. References
+
+4. External links
+
+compiled by the participants of the mathematics stack exchange

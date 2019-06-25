@@ -1,0 +1,401 @@
+Television (TV) is a telecommunication medium that is used for transmitting and receiving moving images and sound. Television can transmit images that are monochrome (black-and-white), in color or in three dimensions. Television may also refer specifically to a television set, television program or television transmission.
+
+First commercially available in very crude form on an experimental basis in the late 1920s, then popularized in greatly improved form shortly after World War II, the television set has become commonplace in homes, businesses and institutions, particularly as a vehicle for entertainment, advertising and news. During the 1950s, television became the primary medium for molding public opinion. In the mid-1960s, color broadcasting and sales of color television sets surged in the US and began in most other developed countries. The availability of storage media such as VHS (mid-1970s), laserdiscs (1978), Video CDs (1993), DVDs (1997), and high-definition Blu-ray Discs (2006) enabled viewers to use the television set to watch recorded material such as movies and broadcast material. Since 2010s, Internet television has seen the rise of television programming available via the Internet through services such as iPlayer, Hulu, and Netflix.
+
+In 2013, 79% of the world's households owned a television set. The replacement of bulky, high-voltage cathode ray tube (CRT) screen displays with compact, energy-efficient, flat-panel alternatives such as plasma displays, LCDs (both fluorescent-backlit and LED-backlit), and OLED displays was a major hardware revolution that began penetrating the consumer computer monitor market in the late 1990s and soon spread to TV sets. In 2014, most of the TV sets sold were LCDs mainly LED-backlit LCD displays. Major TV manufacturers announced the discontinuation of CRT, RPTV, plasma and even fluorescent-backlit LCDs by 2014.
+
+The television signals are distributed as broadcast television which is modeled on the radio broadcasting systems. Broadcast television uses high-powered radio-frequency transmitters to broadcast the television signal to individual television receivers. Until the early 2000s, broadcast television was generally transmitted as an analog signal but soon countries started switching to digital signals, with the transition expected to be completed worldwide by 2020. In addition to terrestrial transmission, television signals are also distributed by cable (digital transition is ongoing) and satellite (digital only) systems.
+
+A standard television set is composed of multiple internal electronic circuits, including circuits for receiving and decoding broadcast signals. A visual display device which lacks a tuner is properly called a video monitor rather than a television. Television systems are also used for surveillance, industrial process control and in places where direct observation is difficult or dangerous.
+
+1. Etymology
+
+The word television comes .
+
+2. History
+
+Invention of the television was work of many people in the 19th century and early 20th century.
+
+2.1. Mechanical television
+
+Facsimile transmission systems for still photographs pioneered methods of mechanical scanning of images in early 19th century. Alexander Bain introduced the facsimile machine in 1843 to 1846. Frederick Bakewell demonstrated a working laboratory version in 1951.
+
+Willoughby Smith discovered the photoconductivity of the element selenium in 1873.
+
+As a 23-year-old German university student, Paul Julius Gottlieb Nipkow proposed and patented the Nipkow disk in 1884. This was a spinning disk with a spiral pattern of holes in it, so each hole scanned a line of the image. Although he never built a working model of the system, variations of Nipkow's spinning-disk "image rasterizer" became exceedingly common. Constantin Perskyi had coined the word television in a paper read to the International Electricity Congress at the International World Fair in Paris on August 25, 1900. Perskyi's paper reviewed the existing electromechanical technologies, mentioning the work of Nipkow and others. However, it was not until 1907 that developments in amplification tube technology, by Lee de Forest and Arthur Korn among others, made the design practical.
+
+The first demonstration of the instantaneous transmission of images was by Georges Rignoux and A. Fournier in Paris in 1909. A matrix of 64 selenium cells, individually wired to a mechanical commutator, served as an electronic retina. In the receiver, a type of Kerr cell modulated the light and a series of variously angled mirrors attached to the edge of a rotating disc scanned the modulated beam onto the display screen. A separate circuit regulated synchronization. The 8x8 pixel resolution in this proof-of-concept demonstration was just sufficient to clearly transmit individual letters of the alphabet. An updated image was transmitted "several times" each second.
+
+In 1911, Boris Rosing and his student Vladimir Zworykin created a system that used a mechanical mirror-drum scanner to transmit, in Zworykin's words, "very crude images" over wires to the "Braun tube" (cathode ray tube or "CRT") in the receiver. Moving images were not possible because, in the scanner, "the sensitivity was not enough and the selenium cell was very laggy".
+
+By the 1920s, when amplification made television practical, Scottish inventor John Logie Baird employed the Nipkow disk in his prototype video systems. On March 25, 1925, Baird gave the first public demonstration of televised silhouette images in motion, at Selfridge's Department Store in London. Since human faces had inadequate contrast to show up on his primitive system, he televised a ventriloquist's dummy named "Stooky Bill" talking and moving, whose painted face had higher contrast. By January 26, 1926 he demonstrated the transmission of image of a face in motion by radio. This is widely regarded as first television demonstration. The subject was Baird's business partner Oliver Hutchinson. Baird's system used the Nipkow disk for both scanning the image and displaying it. A bright light shining through a spinning Nipkow disk set with lenses projected a bright spot of light which swept across the subject. Selenium photoelectric tube detected the light reflected from the subject and converted it into a proportional electrical signal. This was transmitted by AM radio waves to a receiver unit, where the video signal was applied to a neon light behind a second Nipkow disk rotating synchronized with the first. The brightness of the neon lamp was varied in proportion to the brightness of each spot on the image. As each hole in the disk passed by, one scan line of the image was reproduced. Baird's disk had 30 holes, producing an image with only 30 scan lines, just enough to recognize a human face. In 1927, Baird transmitted a signal over of telephone line between London and Glasgow. In 1928, Baird's company (Baird Television Development Company/Cinema Television) broadcast the first transatlantic television signal, between London and New York, and the first shore-to-ship transmission. In 1929, he became involved in the first experimental mechanical television service in Germany. In November of the same year, Baird and Bernard Natan of Pathé established France's first television company, Télévision-Baird-Natan. In 1931, he made the first outdoor remote broadcast, of the Epsom Derby. In 1932, he demonstrated ultra-short wave television. Baird's mechanical system reached a peak of 240-lines of resolution on BBC television broadcasts in 1936 though the mechanical system did not scan the televised scene directly. Instead a 17.5mm film was shot, rapidly developed and then scanned while the film was still wet.
+
+An American inventor, Charles Francis Jenkins also pioneered the television. He published an article on "Motion Pictures by Wireless" in 1913, but it was not until 1923 that he transmitted moving silhouette images for witnesses, and it was on June 13th, 1925 that he publicly demonstrated synchronized transmission of silhouette pictures. In 1925 Jenkins used Nipkow disk and transmitted the silhouette image of a toy windmill in motion, over a distance of five miles from a naval radio station in Maryland to his laboratory in Washington, D.C., using a lensed disk scanner with a 48-line resolution. He was granted the U.S. patent No. 1,544,156 (Transmitting Pictures over Wireless) on June 30, 1925 (filed March 13, 1922).
+
+Herbert E. Ives and Frank Gray of Bell Telephone Laboratories gave a dramatic demonstration of mechanical television on April 7, 1927. The reflected-light television system included both small and large viewing screens. The small receiver had a two-inch-wide by 2.5-inch-high screen. The large receiver had a screen 24 inches wide by 30 inches high. Both sets were capable of reproducing reasonably accurate, monochromatic moving images. Along with the pictures, the sets also received synchronized sound. The system transmitted images over two paths: first, a copper wire link from Washington to New York City, then a radio link from Whippany, New Jersey. Comparing the two transmission methods, viewers noted no difference in quality. Subjects of the telecast included Secretary of Commerce Herbert Hoover. A flying-spot scanner beam illuminated these subjects. The scanner that produced the beam had a 50-aperture disk. The disc revolved at a rate of 18 frames per second, capturing one frame about every 56 milliseconds. (Today's systems typically transmit 30 or 60 frames per second, or one frame every 33.3 or 16.7 milliseconds respectively.) Television historian Albert Abramson underscored the significance of the Bell Labs demonstration: "It was in fact the best demonstration of a mechanical television system ever made to this time. It would be several years before any other system could even begin to compare with it in picture quality."
+
+In 1928, WRGB then W2XB was started as world's first television station. It broadcast from the General Electric facility in Schenectady, NY. It was popularly known as "WGY Television".
+
+Meanwhile in the Soviet Union, Léon Theremin had been developing a mirror drum-based television, starting with 16 lines resolution in 1925, then 32 lines and eventually 64 using interlacing in 1926, and as part of his thesis on May 7, 1926 he electrically transmitted and then projected near-simultaneous moving images on a five foot square screen. By 1927 he achieved an image of 100 lines, a resolution that was not surpassed until 1931 by RCA, with 120 lines.
+
+On December 25, 1925, Kenjiro Takayanagi demonstrated a television system with a 40-line resolution that employed a Nipkow disk scanner and CRT display at Hamamatsu Industrial High School in Japan. This prototype is still on display at the Takayanagi Memorial Museum in Shizuoka University, Hamamatsu Campus. His research in creating a production model was halted by the US after Japan lost World War II.
+
+Because only a limited number of holes could be made in the disks, and disks beyond a certain diameter became impractical, image resolution on mechanical television broadcasts was relatively low, ranging from about 30 lines up to 120 or so. Nevertheless, the image quality of 30-line transmissions steadily improved with technical advances, and by 1933 the UK broadcasts using the Baird system were remarkably clear. A few systems ranging into the 200-line region also went on the air. Two of these were the 180-line system that Compagnie des Compteurs (CDC) installed in Paris in 1935, and the 180-line system that Peck Television Corp. started in 1935 at station VE9AK in Montreal.
+
+The advancement of all-electronic television (including image dissectors and other camera tubes and cathode ray tubes for the reproducer) marked the beginning of the end for mechanical systems as the dominant form of television. Mechanical TV usually only produced small images. It was the main type of TV until the 1930s. The last mechanical television broadcasts ended in 1939 at stations run by a handful of public universities in the United States.
+
+2.2. Electronic television
+
+In 1897, J. J. Thomson, an English physicist in his three famous experiments, was able to deflect cathode rays, a fundamental function of the modern CRT. The earliest version of the CRT was invented by the German physicist Ferdinand Braun in 1897 and is also known as the Braun tube. It was a cold-cathode diode, a modification of the Crookes tube with a phosphor-coated screen.In 1907, Russian scientist Boris Rosing used a CRT in the receiving end of an experimental video signal to form a picture. He managed to display simple geometric shapes onto the screen, which marked the first time that CRT technology was used for what is now known as television. In 1908 Alan Archibald Campbell-Swinton, fellow of the Royal Society (UK), published a letter in the scientific journal Nature in which he described how "distant electric vision" could be achieved by using a cathode ray tube (or "Braun" tube, after its inventor, Karl Braun) as both a transmitting and receiving device, He expanded on his vision in a speech given in London in 1911 and reported in The Times and the Journal of the Röntgen Society. In a letter to Nature published in October 1926, Campbell-Swinton also announced the results of some "not very successful experiments" he had conducted with G. M. Minchin and J. C. M. Stanton. They had attempted to generate an electrical signal by projecting an image onto a selenium-coated metal plate that was simultaneously scanned by a cathode ray beam. These experiments were conducted before March 1914, when Minchin died, but they were later repeated by two different teams in 1937, by H. Miller and J. W. Strange from EMI, and by H. Iams and A. Rose from RCA. Both teams succeeded in transmitting "very faint" images with the original Campbell-Swinton's selenium-coated plate. Although others had experimented with using a cathode ray tube as a receiver, the concept of using one as a transmitter was novel. The first cathode ray tube to use a hot cathode was developed by John B. Johnson (who gave his name to the term Johnson noise) and Harry Weiner Weinhart of Western Electric, and became a commercial product in 1922.
+
+In 1926, Hungarian engineer Kálmán Tihanyi designed a television system utilizing fully electronic scanning and display elements and employing the principle of "charge storage" within the scanning (or "camera") tube. The problem of low sensitivity to light resulting in low electrical output from transmitting or "camera" tubes would be solved with the introduction of charge-storage technology by Kálmán Tihanyi beginning in 1924. His solution was a camera tube that accumulated and stored electrical charges ("photoelectrons") within the tube throughout each scanning cycle. The device was first described in a patent application he filed in Hungary in March 1926 for a television system he dubbed "Radioskop". After further refinements included in a 1928 patent application, Tihanyi's patent was declared void in Great Britain in 1930, and so he applied for patents in the United States. Although his breakthrough would be incorporated into the design of RCA's "iconoscope" in 1931, the U.S. patent for Tihanyi's transmitting tube would not be granted until May 1939. The patent for his receiving tube had been granted the previous October. Both patents had been purchased by RCA prior to their approval. Charge storage remains a basic principle in the design of imaging devices for television to the present day.
+
+On 25 December 1926, Kenjiro Takayanagi demonstrated a TV system with a 40-line resolution that employed a CRT display at Hamamatsu Industrial High School in Japan. This was the first working example of a fully electronic television receiver. Takayanagi did not apply for a patent.
+
+On September 7, 1927, Farnsworth's image dissector camera tube transmitted its first image, a simple straight line, at his laboratory at 202 Green Street in San Francisco. By September 3, 1928, Farnsworth had developed the system sufficiently to hold a demonstration for the press. In 1929, the system was further improved by elimination of a motor generator, so that his television system now had no mechanical parts. That year, Farnsworth transmitted the first live human images with his system, including a three and a half-inch image of his wife Elma ("Pem") with her eyes closed (possibly due to the bright lighting required).
+
+Meanwhile, Vladimir Zworykin was also experimenting with the cathode ray tube to create and show images. While working for Westinghouse Electric in 1923, he began to develop an electronic camera tube. But in a 1925 demonstration, the image was dim, had low contrast and poor definition, and was stationary. Zworykin's imaging tube never got beyond the laboratory stage. But RCA, which acquired the Westinghouse patent, asserted that the patent for Farnsworth's 1927 image dissector was written so broadly that it would exclude any other electronic imaging device. Thus RCA, on the basis of Zworykin's 1923 patent application, filed a patent interference suit against Farnsworth. The U.S. Patent Office examiner disagreed in a 1935 decision, finding priority of invention for Farnsworth against Zworykin. Farnsworth claimed that Zworykin's 1923 system would be unable to produce an electrical image of the type to challenge his patent. Zworykin received a patent in 1928 for a color transmission version of his 1923 patent application, he also divided his original application in 1931. Zworykin was unable or unwilling to introduce evidence of a working model of his tube that was based on his 1923 patent application. In September 1939, after losing an appeal in the courts and determined to go forward with the commercial manufacturing of television equipment, RCA agreed to pay Farnsworth US$1 million over a ten-year period, in addition to license payments, to use Farnsworth's patents.
+
+In 1933 RCA introduced an improved camera tube that relied on Tihanyi's charge storage principle. Dubbed the Iconoscope by Zworykin, the new tube had a light sensitivity of about 75,000 lux, and thus was claimed to be much more sensitive than Farnsworth's image dissector. However, Farnsworth had overcome his power problems with his Image Dissector through the invention of a completely unique "multipactor" device that he began work on in 1930, and demonstrated in 1931. This small tube could amplify a signal reportedly to the 60th power or better and showed great promise in all fields of electronics. A problem with the multipactor, unfortunately, was that it wore out at an unsatisfactory rate.
+
+At the Berlin Radio Show in August 1931, Manfred von Ardenne gave a public demonstration of a television system using a CRT for both transmission and reception. However, Ardenne had not developed a camera tube, using the CRT instead as a flying-spot scanner to scan slides and film. Philo Farnsworth gave the world's first public demonstration of an all-electronic television system, using a live camera, at the Franklin Institute of Philadelphia on August 25, 1934, and for ten days afterwards.
+
+Mexican inventor Guillermo González Camarena also played an important role in early TV. His experiments with TV (known as telectroescopía at first) began in 1931 and led to a patent for the "trichromatic field sequential system" color television in 1940.
+
+In Britain the EMI engineering team led by Isaac Shoenberg applied in 1932 for a patent for a new device they dubbed "the Emitron", which formed the heart of the cameras they designed for the BBC. On November 2, 1936, a 405-line broadcasting service employing the Emitron began at studios in Alexandra Palace, and transmitted from a specially built mast atop one of the Victorian building's towers. It alternated for a short time with Baird's mechanical system in adjoining studios, but was more reliable and visibly superior. This was the world's first regular high-definition television service.
+
+The original American iconoscope was noisy, had a high ratio of interference to signal, and ultimately gave disappointing results, especially when compared to the high definition mechanical scanning systems then becoming available. The EMI team under the supervision of Isaac Shoenberg analyzed how the iconoscope (or Emitron) produces an electronic signal and concluded that its real efficiency was only about 5% of the theoretical maximum. They solved this problem by developing and patenting in 1934 two new camera tubes dubbed super-Emitron and CPS Emitron. The super-Emitron was between ten and fifteen times more sensitive than the original Emitron and iconoscope tubes and, in some cases, this ratio was considerably greater. It was used for an outside broadcasting by the BBC, for the first time, on Armistice Day 1937, when the general public could watch in a television set how the King lay a wreath at the Cenotaph. This was the first time that anyone could broadcast a live street scene from cameras installed on the roof of neighbor buildings, because neither Farnsworth nor RCA could do the same before the 1939 New York World's Fair. On the other hand, in 1934, Zworykin shared some patent rights with the German licensee company Telefunken. The "image iconoscope" ("Superikonoskop" in Germany) was produced as a result of the collaboration. This tube is essentially identical to the super-Emitron. The production and commercialization of the super-Emitron and image iconoscope in Europe were not affected by the patent war between Zworykin and Farnsworth, because Dieckmann and Hell had priority in Germany for the invention of the image dissector, having submitted a patent application for their Lichtelektrische Bildzerlegerröhre für Fernseher (Photoelectric Image Dissector Tube for Television) in Germany in 1925, two years before Farnsworth did the same in the United States. The image iconoscope (Superikonoskop) became the industrial standard for public broadcasting in Europe from 1936 until 1960, when it was replaced by the vidicon and plumbicon tubes. Indeed it was the representative of the European tradition in electronic tubes competing against the American tradition represented by the image orthicon. The German company Heimann produced the Superikonoskop for the 1936 Berlin Olympic Games, later Heimann also produced and commercialized it from 1940 to 1955, finally the Dutch company Philips produced and commercialized the image iconoscope and multicon from 1952 to 1958.
+
+American television broadcasting at the time consisted of a variety of markets in a wide range of sizes, each competing for programming and dominance with separate technology, until deals were made and standards agreed upon in 1941. RCA, for example, used only Iconoscopes in the New York area, but Farnsworth Image Dissectors in Philadelphia and San Francisco. In September 1939, RCA agreed to pay the Farnsworth Television and Radio Corporation royalties over the next ten years for access to Farnsworth's patents. With this historic agreement in place, RCA integrated much of what was best about the Farnsworth Technology into their systems. In 1941, the United States implemented 525-line television.
+
+The world's first 625-line television standard was designed in the Soviet Union in 1944, and became a national standard in 1946. The first broadcast in 625-line standard occurred in 1948 in Moscow. The concept of 625 lines per frame was subsequently implemented in the European CCIR standard.
+
+In 1936, Kálmán Tihanyi described the principle of plasma display, the first flat panel display system.
+
+2.3. Color television
+
+The basic idea of using three monochrome images to produce a color image had been experimented with almost as soon as black-and-white televisions had first been built. Among the earliest published proposals for television was one by Maurice Le Blanc in 1880 for a color system, including the first mentions in television literature of line and frame scanning, although he gave no practical details. Polish inventor Jan Szczepanik patented a color television system in 1897, using a selenium photoelectric cell at the transmitter and an electromagnet controlling an oscillating mirror and a moving prism at the receiver. But his system contained no means of analyzing the spectrum of colors at the transmitting end, and could not have worked as he described it. Another inventor, Hovannes Adamian, also experimented with color television as early as 1907. The first color television project is claimed by him, and was patented in Germany on March 31, 1908, patent № 197183, then in Britain, on April 1, 1908, patent № 7219, in France (patent № 390326) and in Russia in 1910 (patent № 17912).
+
+Scottish inventor John Logie Baird demonstrated the world's first color transmission on July 3, 1928, using scanning discs at the transmitting and receiving ends with three spirals of apertures, each spiral with filters of a different primary color; and three light sources at the receiving end, with a commutator to alternate their illumination. Baird also made the world's first color broadcast on February 4, 1938, sending a mechanically scanned 120-line image from Baird's Crystal Palace studios to a projection screen at London's Dominion Theatre.
+
+Mechanically scanned color television was also demonstrated by Bell Laboratories in June 1929 using three complete systems of photoelectric cells, amplifiers, glow-tubes, and color filters, with a series of mirrors to superimpose the red, green, and blue images into one full color image.
+
+The first practical hybrid system was again pioneered by John Logie Baird. In 1940 he publicly demonstrated a color television combining a traditional black-and-white display with a rotating colored disk. This device was very "deep", but was later improved with a mirror folding the light path into an entirely practical device resembling a large conventional console. However, Baird was not happy with the design, and as early as 1944 had commented to a British government committee that a fully electronic device would be better.
+
+In 1939, Hungarian engineer Peter Carl Goldmark introduced an electro-mechanical system while at CBS, which contained an Iconoscope sensor. The CBS field-sequential color system was partly mechanical, with a disc made of red, blue, and green filters spinning inside the television camera at 1,200 rpm, and a similar disc spinning in synchronization in front of the cathode ray tube inside the receiver set. The system was first demonstrated to the Federal Communications Commission (FCC) on August 29, 1940, and shown to the press on September 4.
+
+CBS began experimental color field tests using film as early as August 28, 1940, and live cameras by November 12. NBC (owned by RCA) made its first field test of color television on February 20, 1941. CBS began daily color field tests on June 1, 1941. These color systems were not compatible with existing black-and-white television sets, and as no color television sets were available to the public at this time, viewing of the color field tests was restricted to RCA and CBS engineers and the invited press. The War Production Board halted the manufacture of television and radio equipment for civilian use from April 22, 1942 to August 20, 1945, limiting any opportunity to introduce color television to the general public.
+
+As early as 1940, Baird had started work on a fully electronic system he called the "Telechrome". Early Telechrome devices used two electron guns aimed at either side of a phosphor plate. The phosphor was patterned so the electrons from the guns only fell on one side of the patterning or the other. Using cyan and magenta phosphors, a reasonable limited-color image could be obtained. He also demonstrated the same system using monochrome signals to produce a 3D image (called "stereoscopic" at the time). A demonstration on August 16, 1944 was the first example of a practical color television system. Work on the Telechrome continued and plans were made to introduce a three-gun version for full color. However, Baird's untimely death in 1946 ended development of the Telechrome system.
+
+Similar concepts were common through the 1940s and 50s, differing primarily in the way they re-combined the colors generated by the three guns. The Geer tube was similar to Baird's concept, but used small pyramids with the phosphors deposited on their outside faces, instead of Baird's 3D patterning on a flat surface. The Penetron used three layers of phosphor on top of each other and increased the power of the beam to reach the upper layers when drawing those colors. The Chromatron used a set of focusing wires to select the colored phosphors arranged in vertical stripes on the tube.
+
+One of the great technical challenges of introducing color broadcast television was the desire to conserve bandwidth, potentially three times that of the existing black-and-white standards, and not use an excessive amount of radio spectrum. In the United States, after considerable research, the National Television Systems Committee approved an all-electronic Compatible color system developed by RCA, which encoded the color information separately from the brightness information and greatly reduced the resolution of the color information in order to conserve bandwidth. The brightness image remained compatible with existing black-and-white television sets at slightly reduced resolution, while color televisions could decode the extra information in the signal and produce a limited-resolution color display. The higher resolution black-and-white and lower resolution color images combine in the brain to produce a seemingly high-resolution color image. The NTSC standard represented a major technical achievement.
+
+Although all-electronic color was introduced in the U.S. in 1953, high prices and the scarcity of color programming greatly slowed its acceptance in the marketplace. The first national color broadcast (the 1954 Tournament of Roses Parade) occurred on January 1, 1954, but during the following ten years most network broadcasts, and nearly all local programming, continued to be in black-and-white. It was not until the mid-1960s that color sets started selling in large numbers, due in part to the color transition of 1965 in which it was announced that over half of all network prime-time programming would be broadcast in color that fall. The first all-color prime-time season came just one year later.
+
+Early color sets were either floor-standing console models or tabletop versions nearly as bulky and heavy, so in practice they remained firmly anchored in one place. The introduction of GE's relatively compact and lightweight Porta-Color set in the spring of 1966 made watching color television a more flexible and convenient proposition. In 1972, sales of color sets finally surpassed sales of black-and-white sets. Also in 1972, the last holdout among daytime network programs converted to color, resulting in the first completely all-color network season.
+
+Color broadcasting in Europe was not standardized on the PAL format until the 1960s, and broadcasts did not start until 1967. By this point many of the technical problems in the early sets had been worked out, and the spread of color sets in Europe was fairly rapid.
+
+By the mid-1970s, the only stations broadcasting in black-and-white were a few high-numbered UHF stations in small markets, and a handful of low-power repeater stations in even smaller markets such as vacation spots. By 1979, even the last of these had converted to color and by the early 1980s B&W sets had been pushed into niche markets, notably low-power uses, small portable sets, or use as video monitor screens in lower-cost consumer equipment. By late 1980's even these areas switched to color sets.
+
+2.4. Digital television
+
+Digital television (DTV) is the transmission of audio and video by digitally processed and multiplexed signal, in contrast to the totally analog and channel separated signals used by analog television. Digital TV can support more than one program in the same channel bandwidth. It is an innovative service that represents the first significant evolution in television technology since color television in the 1950s. All countries have replaced or replacing analog television with digital television and allowing other uses of the television radio spectrum. Several regions of the world are in different stages of adaptation and are implementing different broadcasting standards. Below are the different widely used digital television broadcasting standards (DTB):
+
+Digital Video Broadcasting (DVB) uses coded orthogonal frequency-division multiplexing (OFDM) modulation and supports hierarchical transmission. This standard has been adopted in Europe, Australia and New Zealand.
+
+Advanced Television System Committee (ATSC) uses eight-level vestigial sideband (8VSB) for terrestrial broadcasting. This standard has been adopted by six countries, United States, Canada, Mexico, South Korea, Dominican Republic and Honduras.
+
+Integrated Services Digital Broadcasting (ISDB) is a system designed to provide good reception to fix receivers and also portable or mobile receivers. It utilizes OFDM and two-dimensional interleaving. It supports hierarchical transmission of up to three layers and uses MPEG-2 video and Advanced Audio Coding. This standard has been adopted in Japan and the Philippines. ISDB-T International is an adaptation of this standard using H.264/MPEG-4 AVC that been adopted in most of South America and is also being embraced by Portuguese-speaking African countries.
+
+Digital Terrestrial Multimedia Broadcasting (DTMB) adopts time-domain synchronous (TDS) OFDM technology with a pseudo-random signal frame to serve as the guard interval (GI) of the OFDM block and the training symbol. The DTMB standard has been adopted in the People's Republic of China, including Hong Kong and Macau.
+
+Digital Multimedia Broadcasting (DMB) is a digital radio transmission technology developed in South Korea as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems.
+
+3. Broadcast Systems
+
+3.1. Terrestrial television
+
+Programming is broadcast by television stations, sometimes called "channels", as stations are licensed by their governments to broadcast only over assigned channels in the television band. At first, terrestrial broadcasting was the only way television could be widely distributed, and because bandwidth was limited, i.e., there were only a small number of channels available, government regulation was the norm.
+
+In the U.S., the Federal Communications Commission (FCC) allowed stations to broadcast advertisements beginning in July 1941, but required public service programming commitments as a requirement for a license. By contrast, the United Kingdom chose a different route, imposing a television license fee on owners of television reception equipment to fund the British Broadcasting Corporation (BBC), which had public service as part of its Royal Charter.
+
+WRGB claims to be the world's oldest television station, tracing its roots to an experimental station founded on 13 January 1928, broadcasting from the General Electric factory in Schenectady, NY, under the call letters W2XB. It was popularly known as "WGY Television" after its sister radio station. Later in 1928, General Electric started a second facility, this one in New York City, which had the call letters W2XBS and which today is known as WNBC. The two stations were experimental in nature and had no regular programming, as receivers were operated by engineers within the company. The image of a Felix the Cat doll rotating on a turntable was broadcast for 2 hours every day for several years as new technology was being tested by the engineers.
+
+On 2 November 1936, the BBC began transmitting the world's first public regular high-definition service from the Victorian Alexandra Palace in north London. It therefore claims to be the birthplace of TV broadcasting as we know it today.
+
+With the widespread adoption of cable across the United States in the 1970s and 80s, terrestrial television broadcasts have been in decline; in 2013 it was estimated that about 7% of US households used an antenna. A slight increase in use began around 2010 due to swichover to digital terrestrial television broadcasts, which offer pristine image quality over very large areas, and offered an alternate to CATV for cord cutters.
+
+All other countries around the world are also in the process of either shutting down analog terrestrial television or switching over to digital terrestrial television.
+
+3.2. Cable television
+
+Cable television is a system of broadcasting television programming to paying subscribers via radio frequency (RF) signals transmitted through coaxial cables or light pulses through fiber-optic cables. This contrasts with traditional terrestrial television, in which the television signal is transmitted over the air by radio waves and received by a television antenna attached to the television. FM radio programming, high-speed Internet, telephone service, and similar non-television services may also be provided through these cables.
+
+The abbreviation CATV is often used for cable television. It originally stood for Community Access Television or Community Antenna Television, from cable television's origins in 1948: in areas where over-the-air reception was limited by distance from transmitters or mountainous terrain, large "community antennas" were constructed, and cable was run from them to individual homes. The origins of cable broadcasting are even older as radio programming was distributed by cable in some European cities as far back as 1924.
+
+Earlier cable television was analog, but since 2000s all cable operators have switched to or are in process of switching to digital cable television.
+
+3.3. Satellite television
+
+Satellite television is a system of supplying television programming using broadcast signals relayed from communication satellites. The signals are received via an outdoor parabolic reflector antenna usually referred to as a satellite dish and a low-noise block downconverter (LNB). A satellite receiver then decodes the desired television programme for viewing on a television set. Receivers can be external set-top boxes, or a built-in television tuner. Satellite television provides a wide range of channels and services, especially to geographic areas without terrestrial television or cable television.
+
+The most common method of reception is direct-broadcast satellite television (DBSTV), also known as "direct to home" (DTH). In DBSTV systems, signals are relayed from a direct broadcast satellite on the Ku wavelength and are completely digital. Satellite TV systems formerly used systems known as television receive-only. These systems received analog signals transmitted in the C-band spectrum from FSS type satellites, and required the use of large dishes. Consequently these systems were nicknamed "big dish" systems, and were more expensive and less popular.
+
+The direct-broadcast satellite television signals were earlier analog signals and later digital signals, both of which require a compatible receiver. Digital signals may include high-definition television (HDTV). Some transmissions and channels are free-to-air or free-to-view, while many other channels are pay television requiring a subscription. In 1945 British science fiction writer Arthur C. Clarke proposed a world-wide communications system which would function by means of three satellites equally spaced apart in earth orbit. This was published in the October 1945 issue of the Wireless World magazine and won him the Franklin Institute's Stuart Ballantine Medal in 1963.
+
+The first satellite television signals from Europe to North America were relayed via the Telstar satellite over the Atlantic ocean on 23 July 1962. The signals were received and broadcast in North American and European countries and watched by over 100 million. Launched in 1962, the Relay 1 satellite was the first satellite to transmit television signals from the US to Japan. The first geosynchronous communication satellite, Syncom 2, was launched on 26 July 1963.
+
+The world's first commercial communications satellite, called Intelsat I and nicknamed "Early Bird", was launched into geosynchronous orbit on April 6, 1965. The first national network of television satellites, called Orbita, was created by the Soviet Union in October 1967, and was based on the principle of using the highly elliptical Molniya satellite for rebroadcasting and delivering of television signals to ground downlink stations. The first commercial North American satellite to carry television transmissions was Canada's geostationary Anik 1, which was launched on 9 November 1972. ATS-6, the world's first experimental educational and Direct Broadcast Satellite (DBS), was launched on 30 May 1974. It transmitted at 860 MHz using wideband FM modulation and had two sound channels. The transmissions were focused on the Indian subcontinent but experimenters were able to receive the signal in Western Europe using home constructed equipment that drew on UHF television design techniques already in use.
+
+The first in a series of Soviet geostationary satellites to carry Direct-To-Home television, Ekran 1, was launched on 26 October 1976. It used a 714 MHz UHF downlink frequency so that the transmissions could be received with existing UHF television technology rather than microwave technology.
+
+4. Television sets
+
+A television set, also called a television receiver, television, TV set, TV, or telly, is a device that combines a tuner, display, and speakers for the purpose of viewing television. Introduced in late 1920's in mechanical form, television sets became a popular consumer product after World War II in electronic form, using cathode ray tubes. The addition of color to broadcast television after 1953 further increased the popularity of television sets in 1960's, and an outdoor antenna became a common feature of suburban homes. The ubiquitous television set became the display device for the first recorded media in the 1970s, such as VHS and later DVD. It was also the display device for the first generation of home computers (e.g., Timex Sinclair 1000) and video game consoles (e.g., Atari) in the 1980s. Televisions since late 2010s use LCDs especially LED-backlit LCD displays (this is mostly used) and OLED.
+
+4.1. Display technologies
+
+4.1.1. Spinning disk
+
+Earliest systems were mechanical systems which employed a spinning disk to create images. These usually had a low resolution and screen size and were not popular with the public.
+
+4.1.2. CRT
+
+The cathode ray tube (CRT) is a vacuum tube containing one or more electron guns (a source of electrons or electron emitter) and a fluorescent screen used to view images. It has a means to accelerate and deflect the electron beam(s) onto the screen to create the images. The images may represent electrical waveforms (oscilloscope), pictures (television, computer monitor), radar targets or others. The CRT uses an evacuated glass envelope which is large, deep (i.e. long from front screen face to rear end), fairly heavy, and relatively fragile. As a matter of safety, the face is typically made of thick lead glass so as to be highly shatter-resistant and to block most X-ray emissions, particularly if the CRT is used in a consumer product.
+
+In television sets and computer monitors, the entire front area of the tube is scanned repetitively and systematically in a fixed pattern called a raster. An image is produced by controlling the intensity of each of the three electron beams, one for each additive primary color (red, green, and blue) with a video signal as a reference. In all modern CRT monitors and televisions, the beams are bent by magnetic deflection, a varying magnetic field generated by coils and driven by electronic circuits around the neck of the tube, although electrostatic deflection is commonly used in oscilloscopes, a type of diagnostic instrument.
+
+Larger CRT televisions, particularly those used in family sitting rooms in the 1980s, have been referred to as "Live Aid TVs", given that the two billion people who watched the 1985 event would have in most cases used CRT sets to do so.
+
+4.1.3. DLP
+
+Digital Light Processing (DLP) is a type of projector technology that uses a digital micromirror device. Some DLPs have a TV tuner, which makes them a type of TV display. It was originally developed in 1987 by Dr. Larry Hornbeck of Texas Instruments. While the DLP imaging device was invented by Texas Instruments, the first DLP based projector was introduced by Digital Projection Ltd in 1997. Digital Projection and Texas Instruments were both awarded Emmy Awards in 1998 for the DLP projector technology. DLP is used in a variety of display applications from traditional static displays to interactive displays and also non-traditional embedded applications including medical, security, and industrial uses.
+
+DLP technology is used in DLP front projectors (standalone projection units for classrooms and business primarily), DLP rear projection television sets, and digital signs. It is also used in about 85% of digital cinema projection, and in additive manufacturing as a power source in some printers to cure resins into solid 3D objects.
+
+4.1.4. Plasma
+
+A plasma display panel (PDP) is a type of flat panel display common to large TV displays or larger. They are called "plasma" displays because the technology utilizes small cells containing electrically charged ionized gases, or what are in essence chambers more commonly known as fluorescent lamps.
+
+4.1.5. LCD
+
+Liquid-crystal-display televisions (LCD TV) are television sets that use LCD display technology to produce images. LCD televisions are much thinner and lighter than cathode ray tube (CRTs) of similar display size, and are available in much larger sizes (e.g., 90 inch diagonal). When manufacturing costs fell, this combination of features made LCDs practical for television receivers.
+
+In 2007, LCD televisions surpassed sales of CRT-based televisions worldwide for the first time, and their sales figures relative to other technologies accelerated. LCD TVs have quickly displaced the only major competitors in the large-screen market, the plasma display panel and rear-projection television. In mid 2010's LCDs became, by far, the most widely produced and sold television display type.
+
+LCDs also have disadvantages. Other technologies address these weaknesses, including OLEDs, FED and SED, but none of these have entered widespread production.
+
+4.1.6. OLED
+
+An OLED (organic light-emitting diode) is a light-emitting diode (LED) in which the emissive electroluminescent layer is a film of organic compound which emits light in response to an electric current. This layer of organic semiconductor is situated between two electrodes. Generally, at least one of these electrodes is transparent. OLEDs are used to create digital displays in devices such as television screens. It is also used for computer monitors, portable systems such as mobile phones, handheld games consoles and PDAs.
+
+There are two main families of OLED: those based on small molecules and those employing polymers. Adding mobile ions to an OLED creates a light-emitting electrochemical cell or LEC, which has a slightly different mode of operation. OLED displays can use either passive-matrix (PMOLED) or active-matrix addressing schemes. Active-matrix OLEDs (AMOLED) require a thin-film transistor backplane to switch each individual pixel on or off, but allow for higher resolution and larger display sizes.
+
+An OLED display works without a backlight. Thus, it can display deep black levels and can be thinner and lighter than a liquid crystal display (LCD). In low ambient light conditions such as a dark room an OLED screen can achieve a higher contrast ratio than an LCD, whether the LCD uses cold cathode fluorescent lamps or LED backlight.
+
+4.2. Display resolution
+
+4.2.1. LD
+
+Low-definition television or LDTV refers to television systems that have a lower screen resolution than standard-definition television systems such 240p (320*240). They are used in handheld television.
+
+4.2.2. SD
+
+Standard-definition television or SDTV refers to two different resolutions: 576i, with 576 interlaced lines of resolution, derived from the European-developed PAL and SECAM systems; and 480i based on the American National Television System Committee NTSC system.
+
+4.2.3. HD
+
+High-definition television (HDTV) provides a resolution that is substantially higher than that of standard-definition television.
+
+HDTV may be transmitted in various formats:
+
+1080p: 1920×1080p: 2,073,600 pixels (~2.07 megapixels) per frame
+
+1080i: 1920×1080i: 1,036,800 pixels (~1.04 MP) per field or 2,073,600 pixels (~2.07 MP) per frame
+
+A non-standard CEA resolution exists in some countries such as 1440×1080i: 777,600 pixels (~0.78 MP) per field or 1,555,200 pixels (~1.56 MP) per frame
+
+720p: 1280×720p: 921,600 pixels (~0.92 MP) per frame
+
+4.2.4. UHD
+
+Ultra-high-definition television (also known as Super Hi-Vision, Ultra HD television, UltraHD, UHDTV, or UHD) includes 4K UHD (2160p) and 8K UHD (4320p), which are two digital video formats proposed by NHK Science & Technology Research Laboratories and defined and approved by the International Telecommunication Union (ITU).
+
+The Consumer Electronics Association announced on October 17, 2012, that "Ultra High Definition", or "Ultra HD", would be used for displays that have an aspect ratio of at least 16:9 and at least one digital input capable of carrying and presenting native video at a minimum resolution of 3840×2160 pixels.
+
+4.3. Sales
+
+North American consumers purchase a new television set on average every seven years, and the average household owns 2.8 televisions. , 48 million are sold each year at an average price of $460 and size of . In 2014, most of the TV sets sold were LCDs mainly LED-backlit LCD displays. Major TV manufacturers announced the discontinuation of CRT, RPTV, plasma and even fluorescent-backlit LCDs in 2014.
+
+Note: Vendor shipments are branded shipments and exclude OEM sales for all vendors
+
+5. Content
+
+5.1. Programming
+
+Getting TV programming shown to the public can happen in many different ways. After production, the next step is to market and deliver the product to whichever markets are open to using it. This typically happens on two levels:
+
+Original Run or First Run: a producer creates a program of one or multiple episodes and shows it on a station or network which has either paid for the production itself or to which a license has been granted by the television producers to do the same.
+
+Broadcast syndication: this is the terminology rather broadly used to describe secondary programming usages (beyond original run). It includes secondary runs in the country of first issue but also international usage which may not be managed by the originating producer. In many cases, other companies, TV stations, or individuals are engaged to do the syndication work, in other words, to sell the product into the markets they are allowed to sell into by contract from the copyright holders, in most cases the producers. First-run programming is increasing on subscription services outside the US, but few domestically produced programs are syndicated on domestic free-to-air (FTA) elsewhere. This practice is increasing however, generally on digital-only FTA channels or with subscriber-only first-run material appearing on FTA.
+
+Unlike the US, repeat FTA screenings of an FTA network program usually only occur on that network. Also, affiliates rarely buy or produce non-network programming that is not centered around local programming.
+
+5.2. Genres
+
+Television genres include a broad range of programming types that entertain, inform, and educate viewers. The most expensive entertainment genres to produce are usually dramas and dramatic miniseries. However, other genres, such as historical Western genres, may also have high production costs.
+
+Popular culture entertainment genres include action-oriented shows such as police, crime, detective dramas, horror, or thriller shows. As well, there are also other variants of the drama genre, such as medical dramas and daytime soap operas. Science fiction shows can fall into either the drama or action category, depending on whether they emphasize philosophical questions or high adventure. Comedy is a popular genre which includes situation comedy (sitcom) and animated shows for the adult demographic such as South Park.
+
+The least expensive forms of entertainment programming genres are game shows, talk shows, variety shows, and reality television. Game shows feature contestants answering questions and solving puzzles to win prizes. Talk shows contain interviews with film, television, and music celebrities and public figures. Variety shows feature a range of musical performers and other entertainers, such as comedians and magicians, introduced by a host or Master of Ceremonies. There is some crossover between some talk shows and variety shows because leading talk shows often feature performances by bands, singers, comedians, and other performers in between the interview segments. Reality TV shows "regular" people (i.e., not actors) facing unusual challenges or experiences ranging from arrest by police officers (COPS) to weight loss (The Biggest Loser). A variant version of reality shows depicts celebrities doing mundane activities such as going about their everyday life (The Osbournes, Snoop Dogg's Father Hood) or doing manual labor (The Simple Life).
+
+Fictional television programs that some television scholars and broadcasting advocacy groups argue are "quality television" include series such as Twin Peaks and The Sopranos. Kristin Thompson argues that some of these television series exhibit traits also found in art films, such as psychological realism, narrative complexity, and ambiguous plotlines. Nonfiction television programs that some television scholars and broadcasting advocacy groups argue are "quality television" include a range of serious, noncommercial programming aimed at a niche audience, such as documentaries and public affairs shows.
+
+5.3. Funding
+
+Around the globe, broadcast TV is financed by government, advertising, licensing (a form of tax), subscription, or any combination of these. To protect revenues, subscription TV channels are usually encrypted to ensure that only subscribers receive the decryption codes to see the signal. Unencrypted channels are known as free to air or FTA.
+
+In 2009, the global TV market represented 1,217.2 million TV households with at least one TV and total revenues of 268.9 billion EUR (declining 1.2% compared to 2008). North America had the biggest TV revenue market share with 39% followed by Europe (31%), Asia-Pacific (21%), Latin America (8%), and Africa and the Middle East (2%).
+
+Globally, the different TV revenue sources divide into 45%-50% TV advertising revenues, 40%-45% subscription fees and 10% public funding.
+
+5.3.1. Advertising
+
+TV's broad reach makes it a powerful and attractive medium for advertisers. Many TV networks and stations sell blocks of broadcast time to advertisers ("sponsors") to fund their programming.
+
+5.3.1.1. United States
+
+Since inception in the US in 1941, television commercials have become one of the most effective, persuasive, and popular methods of selling products of many sorts, especially consumer goods. During the 1940s and into the 1950s, programs were hosted by single advertisers. This, in turn, gave great creative license to the advertisers over the content of the show. Perhaps due to the quiz show scandals in the 1950s, networks shifted to the magazine concept, introducing advertising breaks with multiple advertisers.
+
+US advertising rates are determined primarily by Nielsen ratings. The time of the day and popularity of the channel determine how much a TV commercial can cost. For example, it can cost approximately $750,000 for a 30-second block of commercial time during the highly popular American Idol, while the same amount of time for the Super Bowl can cost several million dollars. Conversely, lesser-viewed time slots, such as early mornings and weekday afternoons, are often sold in bulk to producers of infomercials at far lower rates.
+
+In recent years, the paid program or infomercial has become common, usually in lengths of 30 minutes or one hour. Some drug companies and other businesses have even created "news" items for broadcast, known in the industry as video news releases, paying program directors to use them.
+
+Some TV programs also weave advertisements into their shows, a practice begun in film and known as product placement. For example, a character could be drinking a certain kind of soda, going to a particular chain restaurant, or driving a certain make of car. (This is sometimes very subtle, with shows having vehicles provided by manufacturers for low cost rather than wrangling them.) Sometimes, a specific brand or trade mark, or music from a certain artist or group, is used. (This excludes guest appearances by artists who perform on the show.)
+
+5.3.1.2. United Kingdom
+
+The TV regulator oversees TV advertising in the United Kingdom. Its restrictions have applied since the early days of commercially funded TV. Despite this, an early TV mogul, Roy Thomson, likened the broadcasting licence as being a "licence to print money". Restrictions mean that the big three national commercial TV channels: ITV, Channel 4, and Five can show an average of only seven minutes of advertising per hour (eight minutes in the peak period). Other broadcasters must average no more than nine minutes (twelve in the peak). This means that many imported TV shows from the US have unnatural pauses where the UK company does not utilize the narrative breaks intended for more frequent US advertising. Advertisements must not be inserted in the course of certain specific proscribed types of programs which last less than half an hour in scheduled duration; this list includes any news or current affairs programs, documentaries, and programs for children; additionally, advertisements may not be carried in a program designed and broadcast for reception in schools or in any religious broadcasting service or other devotional program or during a formal Royal ceremony or occasion. There also must be clear demarcations in time between the programs and the advertisements.
+
+The BBC, being strictly non-commercial, is not allowed to show advertisements on television in the UK, although it has many advertising-funded channels abroad. The majority of its budget comes from television license fees (see below) and broadcast syndication, the sale of content to other broadcasters.
+
+5.3.1.3. Ireland
+
+The Broadcasting Commission of Ireland (BCI) () oversees advertising on television and radio within Ireland for both private and state-owned broadcasters. There are some restrictions based on advertising, especially in relation to the advertising of alcohol. Such advertisements are prohibited until after 7 pm. Broadcasters in Ireland adhere to broadcasting legislation implemented by the Broadcasting Commission of Ireland and the European Union. Sponsorship of current affairs programming is prohibited at all times.
+
+As of 1 October 2009, the responsibilities held by the BCI are gradually being transferred to the Broadcasting Authority of Ireland.
+
+5.3.2. Subscription
+
+Some TV channels are partly funded from subscriptions; therefore, the signals are encrypted during broadcast to ensure that only the paying subscribers have access to the decryption codes to watch pay television or specialty channels. Most subscription services are also funded by advertising.
+
+5.3.3. Taxation or license
+
+Television services in some countries may be funded by a television licence or a form of taxation, which means that advertising plays a lesser role or no role at all. For example, some channels may carry no advertising at all and some very little, including:
+
+Australia (ABC)
+
+Japan (NHK)
+
+Norway (NRK)
+
+Sweden (SVT)
+
+United Kingdom (BBC)
+
+United States (PBS)
+
+Denmark (DR) The BBC carries no television advertising on its UK channels and is funded by an annual television licence paid by premises receiving live TV broadcasts. Currently, it is estimated that approximately 26.8 million UK private domestic households own televisions, with approximately 25 million TV licences in all premises in force as of 2010. This television license fee is set by the government, but the BBC is not answerable to or controlled by the government.
+
+The two main BBC TV channels are watched by almost 90% of the population each week and overall have 27% share of total viewing, despite the fact that 85% of homes are multichannel, with 42% of these having access to 200 free to air channels via satellite and another 43% having access to 30 or more channels via Freeview. The licence that funds the seven advertising-free BBC TV channels currently costs £139.50 a year (about US$215) regardless of the number of TV sets owned. When the same sporting event has been presented on both BBC and commercial channels, the BBC always attracts the lion's share of the audience, indicating that viewers prefer to watch TV uninterrupted by advertising.
+
+Other than internal promotional material, the Australian Broadcasting Corporation (ABC) carries no advertising; it is banned under the . The ABC receives its funding from the Australian government every three years. In the 2008/09 federal budget, the ABC received A$1.13 billion. The funds provide for the ABC's television, radio, online, and international outputs. The ABC also receives funds from its many ABC shops across Australia. Although funded by the Australian government, the editorial independence of the ABC is ensured through law.
+
+In France, government-funded channels carry advertisements, yet those who own television sets have to pay an annual tax ("la redevance audiovisuelle").
+
+In Japan, NHK is paid for by license fees (known in Japanese as ). The broadcast law that governs NHK's funding stipulates that any television equipped to receive NHK is required to pay. The fee is standardized, with discounts for office workers and students who commute, as well a general discount for residents of Okinawa prefecture.
+
+6. Social aspects
+
+Television has played a pivotal role in the socialization of the 20th and 21st centuries. There are many aspects of television that can be addressed, including negative issues such as media violence. Current research is discovering that individuals suffering from social isolation can employ television to create what is termed a parasocial or faux relationship with characters from their favorite television shows and movies as a way of deflecting feelings of loneliness and social deprivation.
+
+Several studies have found that educational television has many advantages. The , explains in its article "The Good Things about Television" that television can be a very powerful and effective learning tool for children if used wisely.
+
+7. Environmental aspects
+
+With high lead content in CRTs and the rapid diffusion of new flat-panel display technologies, some of which (LCDs) use lamps which contain mercury, there is growing concern about electronic waste from discarded televisions. Related occupational health concerns exist, as well, for disassemblers removing copper wiring and other materials from CRTs. Further environmental concerns related to television design and use relate to the devices' increasing electrical energy requirements.
+
+8. Future
+
+In 2010 the iPlayer incorporated a social media aspect to its internet television service, including Facebook and Twitter. Other devices that allow interactivity - such as the Apple TV, Google TV and Chromecast - have made it possible for users to access content through the internet on their TVs and social media websites like YouTube. Also, the use of the television for video games, especially on consoles such as the Wii, has contributed to a growing kinaesthetic connection between television and viewers.
+
+9. See also
+
+3D television
+
+Smart television
+
+Broadcast-safe
+
+Computer monitor/VDU
+
+Content Discovery Platform
+
+Handheld television
+
+Information-action ratio
+
+List of countries by number of television broadcast stations
+
+List of television manufacturers
+
+List of years in television
+
+Media psychology
+
+Outdoor television
+
+Quality television
+
+Sign language on television
+
+10. References
+
+11. Further reading
+
+Albert Abramson, The History of Television, 1942 to 2000, Jefferson, NC, and London, McFarland, 2003, ISBN 0-7864-1220-8.
+
+Pierre Bourdieu, On Television, The New Press, 2001.
+
+Tim Brooks and Earle March, The Complete Guide to Prime Time Network and Cable TV Shows, 8th ed., Ballantine, 2002.
+
+Jacques Derrida and Bernard Stiegler, Echographies of Television, Polity Press, 2002.
+
+David E. Fisher and Marshall J. Fisher, Tube: the Invention of Television, Counterpoint, Washington, DC, 1996, ISBN 1-887178-17-1.
+
+Steven Johnson, Everything Bad is Good for You: How Today's Popular Culture Is Actually Making Us Smarter, New York, Riverhead (Penguin), 2005, 2006, ISBN 1-59448-194-6.
+
+Jerry Mander, Four Arguments for the Elimination of Television, Perennial, 1978.
+
+Jerry Mander, In the Absence of the Sacred, Sierra Club Books, 1992, ISBN 0-87156-509-9.
+
+Neil Postman, Amusing Ourselves to Death: Public Discourse in the Age of Show Business, New York, Penguin US, 1985, ISBN 0-670-80454-1.
+
+Evan I. Schwartz, The Last Lone Inventor: A Tale of Genius, Deceit, and the Birth of Television, New York, Harper Paperbacks, 2003, ISBN 0-06-093559-6.
+
+Beretta E. Smith-Shomade, Shaded Lives: African-American Women and Television, Rutgers University Press, 2002.
+
+Alan Taylor, We, the Media: Pedagogic Intrusions into US Mainstream Film and Television News Broadcasting Rhetoric, Peter Lang, 2005, ISBN 3-631-51852-8.
+
+Amanda D. Lotz, The Television Will Be Revolutionized, New York University Press, ISBN 978-0814752203
+
+12. External links
+
+at the Museum of Broadcast Communications
+
+at the Canada Science and Technology Museum
+
+- NHK (Japan Broadcasting Corporation)

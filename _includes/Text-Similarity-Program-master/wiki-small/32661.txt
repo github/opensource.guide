@@ -1,0 +1,65 @@
+A V-twin engine, also called a V2 engine, is a two-cylinder internal combustion engine where the cylinders are arranged in a V configuration.
+
+1. History
+
+Gottlieb Daimler built a V-twin engine in 1889. It was used as a stationary powerplant and to power boats. It was also used in Daimler's second automobile, the 1889 Stahlradwagen ("steel-wheeled car"). The engine was also manufactured under licence in France by Panhard et Levassor.
+
+In November 1902 the Princeps AutoCar Co (UK) advertised a V-twin engined motorcycle, and in 1903 V-Twins were produced by other companies, including the 90 degree XL-ALL (made by Eclipse Motor & Cycle Co in the UK). Also, in 1903, Glenn Curtiss in the United States, and NSU in Germany began building V-twin engines for use in their respective motorcycles. Peugeot, which had used Panhard-built Daimler V-twins in its first cars, made its own V-twin engines in the early 20th century. A Norton motorcycle powered by a Peugeot V-twin engine won the first Isle of Man Tourist Trophy twin-cylinder race in 1907.
+
+2. Configurations
+
+2.1. Crankshaft configuration
+
+Most V-twin engines have a single crankpin, which is shared by both connecting rods. The connecting rods may sit side-by-side with offset cylinders, or they may be "fork & blade" items with cylinders in the same plane without an offset.
+
+Some notable exceptions include the Moto Guzzi 500cc (with 120° V angle and 180° crank pin offset) that Stanley Woods rode to win the 1935 Isle of Man TT; the 1983 Honda Shadow 750, claimed as being the first V-twin with an offset-dual-pin crankshaft; and the 1987 Suzuki VX 800, 45° V angle with 45° crank pin offset in USA and 75° crank pin offset for the rest of the world.
+
+2.2. V angles
+
+Generally, any two-cylinder motorcycle engine with its two cylinders arranged more than 0° and less than 180° apart is referred to as a V-twin. Although Ducati use the name "L-twin" for their 90° twin engine (with its front cylinder nearly horizontal and the rear cylinder almost vertical), there is no technical distinction between V-twin and L-twin engines; and these are merely names used by convention.
+
+A 90° V-twin will, with a correct counterweight, yield perfect primary balance, although its firing intervals are uneven. A V-twin with an angle of less than 90° is more compact and has more even firing intervals, but has significantly poorer mechanical balance. Offset crankpins are sometimes used to reduce the resulting vibration.
+
+3. Orientations
+
+The terms longitudinal engine and transverse engine are most often used to refer to the crankshaft orientation, however, some sources, most prominently Moto Guzzi, use the terminology in the opposite way.
+
+A Moto Guzzi Technical Services representative tried to explain to LA Times columnist Susan Carpenter that Moto Guzzi engines are "called 'transverse' because the engine is mounted with the crankshaft oriented front to back instead of left to right." In spite of this, it could be assumed that those who call V-twin motorcycle engines "transverse" when they are mounted with the crankshaft front-to-back and the cylinders sticking out the sides are saying that to them, the engine's axis is the line passing from one cylinder to the other, at a right angle to the crankshaft, rather than going by the crankshaft's axis. Highly technical sources, such as V. Cossleter's Motorcycle Dynamics, or Gaetaeno Cocco's Motorcycle Design and Technology are careful not simply to use the terms "longitudinal engine" or "transverse engine," but rather to specify that they mark the engine's orientation based on the crankshaft, and so they will say "transverse crankshaft engine" or "longitudinal crankshaft engine", or, conversely, "transversely mounted cylinders" in referenced to the classic BMW orientation, with a longitudinal crankshaft and cylinders at a right angle to the axis of the frame.
+
+3.1. Transverse crankshaft mounting
+
+The engine can be mounted in transverse crankshaft position as on Harley-Davidsons, Ducatis and many recent Japanese motorcycles. This layout produces a twin cylinder motorcycle engine that is little or no wider than a single. A narrower engine can be mounted lower in the frame with handling benefits. A significant disadvantage of this configuration for air-cooled engines is that the two cylinders receive different air-flows and cooling of the rear cylinder tends to be restricted. Cooling problems are somewhat mitigated by having all "four" sides of each cylinder exposed to air flow. This differs from a parallel-twin cylinder engine which has a distinct front, back, and sides, but the inside of each cylinder is not exposed to airflow as the cylinders are typically joined together with a cam chain running up through the block in-between the cylinders.
+
+Some transverse V-twins use a single carburettor in the middle of the V-angle to feed both cylinders. While this allows an economy of parts, it creates further cooling problems for the rear cylinder by placing its hot exhaust port and pipe at the back of the cylinder, out of the way or the air stream.
+
+File:Ducati Monster 620 Dark.jpg|This air-cooled Ducati Monster 620 has a transverse crankshaft 90° V-twin with one cylinder lying horizontally, and one vertically, so that the rearward, vertical cylinder's air flow is less obstructed by the one in front. File:Honda VTR250 2009 Engine Radiator.JPG|Honda's VTR250 is similar, but the engine is not leaning forward, thus each cylinder is about 45° from vertical. The rear cylinder's air flow is blocked, but note this is a water-cooled engine, so what most matters is that the radiator is out in front with good air flow. File:Ducati Monster S4R Testastretta.jpg|As the Ducati models get larger engines, they gain oil-, and then water-cooling, as in this Monster S4R S. Like the VTR250, the radiators are out in front, but the basic engine orientation retains the cooling advantages of the Monster 620.
+
+3.2. Longitudinal crankshaft mounting
+
+The longitudinal crankshaft two-cylinder V as seen on Moto-Guzzis and some Hondas is less common. This orientation is suited to shaft drive, eliminating the need for a 90° bevel gear at the transmission end of the shaft. A longitudinal crankshaft engine fits neatly into a typical motorcycle frame, leaving ample room for the transmission, and cooling is facilitated by cylinder heads and exhausts protruding into the air stream. Longitudinal crankshaft mounting is associated with a torque reaction that tends to twist the motorcycle to one side on sharp acceleration or when opening the throttle in neutral and in the opposite direction on sharp deceleration. Many modern motorcycle manufacturers correct for this effect by rotating flywheels or alternators in the opposite direction to that of the crankshaft.
+
+4. Automobile use
+
+BSA made a V-twin car starting in 1921, then introduced a three-wheeler in 1929.
+
+V-twin engines, adapted from motorcycles, were featured in Morgan three-wheelers made from 1911 to 1939. A number of Morgan-inspired models are produced today including the Triking Cyclecar, which uses a Moto-Guzzi V-twin; the Ace Cycle Car, which uses a V-twin Harley-Davidson engine; and the JZR which uses engines from the Honda CX series.
+
+Mazda made 356 cc and 571 cc V-twins beginning in 1960 for the Mazda R360. File:1934 Morgan Super Sports.jpg|JAP water-cooled V-twin engine installed in front of the radiator of a 1934 Morgan Super Sports three-wheeled cyclecar. File:Mazda R360 Coupe V-twin engine 003.JPG|Air-cooled Mazda V-twin engine installed in the back of a Mazda R360 kei car.
+
+5. Commercial use
+
+Commercial equipment such as pressure washers, lawn and garden tractors, tillers, generators and water pumps use V-twin engines when that equipment is large enough to need more power, usually in excess of 16 horsepower, than can be provided by a single-cylinder engine. These V-twin engines have horizontal or vertical crankshafts, usually have 90-degree crankshaft angles, and are usually forced-air–cooled. The V-twin configuration gives these engines a smaller footprint and less vibration, in the absence of balancing shafts, than other two-cylinder configurations.
+
+Manufacturers of such engines include Honda with its V-twin series engines; Kawasaki with its FD, FH, FS, and FX series; Subaru with its EH series; Briggs & Stratton with its Professional and Intek V-twin Series; Tecumseh with its OV691EA and TVT691 engines; and Kohler.
+
+6. See also
+
+Flat-twin
+
+Motorcycle engine
+
+7. References
+
+8. External links
+
+de:V-Motor es:Motor de dos cilindros en V

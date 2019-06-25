@@ -1,0 +1,115 @@
+Transverse myelitis (Latin: myelitis transversa) is a neurological condition in which the spinal cord is inflamed. This inflammation damages nerve fibers, and causes them to lose their myelin coating, thereby leading to decreased electrical conductivity in the nervous system. The disorder's name is derived from Greek referring to the "spinal cord", and the suffix -itis, which denotes inflammation. Transverse implies that the inflammation is across the thickness of the spinal cord.
+
+1. Signs and symptoms
+
+Signs and symptoms include weakness and numbness of the limbs deficits in sensation and motor skills, dysfunctional sphincter activities, and dysfunction of the autonomic nervous system. Symptoms typically develop occur over the course of hours or days and may progress after weeks. Sensory symptoms of transverse myelitis may include a sensation of pins and needles traveling up from the feet. Back pain can occur at the level of the inflamed segment of the spinal cord. The degree and type of sensory loss will depend upon the extent of the involvement of the various sensory tracts, but there is often a "sensory level" (at the sensory segmental level of the spinal cord below which sensation to pain or light touch is impaired). Motor weakness occurs due to involvement of the pyramidal tracts and mainly affects the muscles that flex the legs and extend the arms. Involvement of the autonomic nervous system is common and frequently leads to impaired function of the bladder and bowel and can also lead to episodes of high blood pressure. Bladder paralysis often occurs and urinary retention is an early manifestation.
+
+If the upper cervical cord is involved, all four limbs may be involved and there is risk of respiratory paralysis (segments C3, 4, 5 to the abdominal diaphragm).
+
+Lesions of the lower cervical (C5–T1) region will cause a combination of upper and lower motor neuron signs in the upper limbs, and exclusively upper motor neuron signs in the lower limbs.
+
+A lesion of the thoracic spinal cord (T1–12) will produce upper motor neuron signs in the lower limbs, presenting as a spastic diplegia.
+
+A lesion of the lower part of the spinal cord (L1–S5) often produces a combination of upper and lower motor neuron signs in the lower limbs.
+
+2. Causes
+
+Transverse myelitis can appear for several reasons. Sometimes the disorders classified as such can be referred to as "Transverse myelitis spectrum disorders"
+
+In some cases, the disease is presumed to be caused by viral infections such as cytomegalovirus (CMV) and has also been associated with spinal cord injuries, immune reactions, schistosomiasis and insufficient blood flow through spinal cord vessels. Acute myelitis accounts for 4 to 5 percent of all cases of neuroborreliosis.
+
+A major differentiation or distinction to be made is a similar condition due to compression of the spinal cord in the spinal canal, due to disease of the surrounding vertebral column.
+
+Another possible cause is dissection of the aorta, extending into one or more of the spinal arteries.
+
+Transverse myelitis can be a rare complication following cat scratch disease. It can also be associated with:
+
+Bacterial Infections - Mycoplasma pneumoniae, Lyme borreliosis, syphilis (tabes dorsalis), tuberculosis
+
+Viral Infections - herpes simplex, herpes zoster, cytomegalovirus, Epstein-Barr virus, enteroviruses (poliomyelitis, Coxsackie virus, echovirus), human T-cell, leukemia virus, human immunodeficiency virus, influenza, rabies
+
+Post-Vaccination - Rabies, cowpox
+
+Multiple sclerosis
+
+Paraneoplastic syndromes
+
+Vascular - thrombosis of spinal arteries, vasculitis secondary to heroin abuse, spinal arteriovenous malformations
+
+3. Pathophysiology
+
+This demyelination arises idiopathically following infections or due to multiple sclerosis (and has been reported to occur following vaccination). One major theory posits that immune-mediated inflammation is present as the result of exposure to a viral antigen. The diarrhea-causing bacteria Campylobacter jejuni is also a reported cause of transverse myelitis.
+
+The lesions are inflammatory, and involve the spinal cord typically on both sides. With acute transverse myelitis, the onset is sudden and progresses rapidly in hours and days. The lesions can be present anywhere in the spinal cord, though they are usually restricted to only a small portion.
+
+A special case is the "longitudinally extensive transverse myelitis" (LETM) which is defined as a spinal cord lesion that extends over 3 or more vertebral segments.
+
+4. Differential diagnosis
+
+The symptoms considered in the differential diagnosis are: acute spinal cord trauma, acute compressive lesions of the spinal cord such as epidural metastatic tumour, and infarction of the spinal cord, usually due to insufficiency of the anterior spinal artery. Lyme disease serology is indicated in patients with transverse myelitis keeping in mind that dissociation in Lyme antibody titers between the blood and the CSF is possible.
+
+From the symptoms and signs, it may be very difficult to distinguish acute transverse myelitis from these conditions and it is almost invariably necessary to perform an emergency magnetic resonance imaging (MRI) scan or computerised tomographic (CT) myelogram. Before doing this, routine x-rays are taken of the entire spine, mainly to detect signs of metastatic disease of the vertebrae, that would imply direct extension into the epidural space and compression of the spinal cord. Often, such bony lesions are absent and it is only the MRI or CT that discloses the presence or absence of a compressive lesion.
+
+A family physician seeing such a patient for the first time should immediately arrange transfer to the care of a neurologist or neurosurgeon who can urgently investigate the patient in hospital. Before arranging this transfer, the physician should be certain that respiration is not affected, particularly in high spinal cord lesions. If there is any evidence of this, methods of respiratory assistance must be on hand before and during the transfer procedure. The patient should also be catheterized to test for and, if necessary, drain an over-distended bladder. A lumbar puncture can be performed after the MRI or at the time of CT myelography. Steroids are often given in high dose at the onset, in hope that the degree of inflammation and swelling of the cord will be lessened, but whether this is truly effective is still debated.
+
+The prognosis for significant recovery from acute transverse myelitis is poor in approximately 66% of the cases; that is, significant long-term disability will remain. Approximately 2% of these patients will, in later months or years, show lesions in other parts of the central nervous system, indicating, in retrospect, that this was a first attack of multiple sclerosis.
+
+5. Prognosis
+
+Recovery from transverse myelitis is variable between individuals and also depends on the underlying cause. Some patients begin to recover between weeks 2 and 12 following onset and may continue to improve for up to 2 years. Other patients may never show signs of recovery. However, if treated early, some patients experience complete or near complete recovery. Treatment options also vary according to the underlying cause and one treatment option in some cases is plasmapheresis.
+
+6. Epidemiology
+
+7. Notable cases
+
+Victoria Arlen, American Paralympic swimmer
+
+Sarah Todd Hammer, American Author
+
+Jennifer Starzec, American Author
+
+Natasha Baker, British para dressage gold medallist
+
+Greg Ball, Australian Paralympic cyclist
+
+Amanda Carter, Australian Paralympic wheelchair basketballer
+
+Pauline English, Australian Paralympic swimmer
+
+Anjali Forber-Pratt, American Paralympic wheelchair racer
+
+Kristen Johnston, American actress
+
+Amanda McGrory, American Paralympic wheelchair racer
+
+Akua Lezli Hope, American artist, poet and writer
+
+Beccy Huxtable, BBC Radio 1, Producer
+
+Tiger JK, South Korean rapper
+
+Hal Ketchum, American musician
+
+Warren Mitchell, English actor
+
+Tom Rafferty, American football player
+
+Allen Rucker, American author
+
+Yinka Shonibare, British-Nigerian artist
+
+André Venter, South African rugby player
+
+8. See also
+
+Acute disseminated encephalomyelitis
+
+Optic neuritis
+
+Myelitis
+
+9. References
+
+10. External links
+
+by Allen Rucker

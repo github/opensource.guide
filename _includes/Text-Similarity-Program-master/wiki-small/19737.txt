@@ -1,0 +1,273 @@
+Maxwell's equations are a set of partial differential equations that, together with the Lorentz force law, form the foundation of classical electrodynamics, classical optics, and electric circuits. These fields in turn underlie modern electrical and communications technologies. Maxwell's equations describe how electric and magnetic fields are generated and altered by each other and by charges and currents. They are named after the Scottish physicist and mathematician James Clerk Maxwell, who published an early form of those equations between 1861 and 1862.
+
+The equations have two major variants. The "microscopic" set of Maxwell's equations uses total charge and total current, including the complicated charges and currents in materials at the atomic scale; it has universal applicability but may be unfeasible to calculate. The "macroscopic" set of Maxwell's equations defines two new auxiliary fields that describe large-scale behavior without having to consider these atomic scale details, but it requires the use of parameters characterizing the electromagnetic properties of the relevant materials.
+
+The term "Maxwell's equations" is often used for other forms of Maxwell's equations. For example, space-time formulations are commonly used in high energy and gravitational physics. These formulations, defined on space-time rather than space and time separately, are manifestly compatible with special and general relativity. In quantum mechanics and analytical mechanics, versions of Maxwell's equations based on the electric and magnetic potentials are preferred.
+
+Since the mid-20th century, it has been understood that Maxwell's equations are not exact laws of the universe, but are a classical approximation to the more accurate and fundamental theory of quantum electrodynamics. In most cases, though, quantum deviations from Maxwell's equations are immeasurably small. Exceptions occur when the particle nature of light is important or for very strong electric fields.
+
+1. Formulation in terms of electric and magnetic fields
+
+The powerful and most widely familiar form of Maxwell's equations, whose formulation is due to Oliver Heaviside, in the vector calculus formalism, is used throughout unless otherwise explicitly stated.
+
+Symbols in bold represent vector quantities, and symbols in italics represent scalar quantities, unless otherwise indicated.
+
+The equations introduce the electric field , a vector field, and the magnetic field , a pseudovector field, where each generally have time-dependence. The sources of these fields are electric charges and electric currents, which can be expressed as local densities namely charge density and current density . A separate law of nature, the Lorentz force law, describes how the electric and magnetic field act on charged particles and currents. A version of this law was included in the original equations by Maxwell but, by convention, is no longer.
+
+In the electric-magnetic field formulation there are four equations. Two of them describe how the fields vary in space due to sources, if any; electric fields emanating from electric charges in Gauss's law, and magnetic fields as closed field lines not due to magnetic monopoles in Gauss's law for magnetism. The other two describe how the fields "circulate" around their respective sources; the magnetic field "circulates" around electric currents and time varying electric fields in Ampère's law with Maxwell's addition, while the electric field "circulates" around time varying magnetic fields in Faraday's law.
+
+The precise formulation of Maxwell's equations depends on the precise definition of the quantities involved. Conventions differ with the unit systems, because various definitions and dimensions are changed by absorbing dimensionful factors like the speed of light . This makes constants come out differently.
+
+2. Conventional formulation in SI units
+
+The equations in this section are given in the convention used with SI units. Other units commonly used are Gaussian units based on the cgs system, Lorentz–Heaviside units (used mainly in particle physics), and Planck units (used in theoretical physics). See below for the formulation with Gaussian units.
+
+|- ! scope="col" style="width: 15em;" | Name ! scope="col" style="width: 31em;" | Integral equations ! scope="col" style="width: 21em;" | Differential equations |- ! scope="row" | Gauss's law | | |- ! scope="row" | Gauss's law for magnetism | | |- ! scope="row" | Maxwell–Faraday equation (Faraday's law of induction) | | |- ! scope="row" | Ampère's circuital law (with Maxwell's addition) | | |- |}
+
+where the universal constants appearing in the equations are
+
+the permittivity of free space and
+
+the permeability of free space . In the differential equations, a local description of the fields,
+
+the nabla symbol denotes the three-dimensional gradient operator, and from it
+
+the divergence operator is
+
+the curl operator is . The sources are taken to be
+
+the electric charge density (charge per unit volume) and
+
+the electric current density (current per unit area) . In the integral equations; a description of the fields within a region of space,
+
+is any fixed volume with boundary surface , and
+
+is any fixed open surface with boundary curve ,
+
+is a surface integral over the surface (the oval indicates the surface is closed and not open),
+
+is a volume integral over the volume ,
+
+is a surface integral over the surface ,
+
+is a line integral around the curve (the circle indicates the curve is closed). Here "fixed" means the volume or surface do not change in time. Although it is possible to formulate Maxwell's equations with time-dependent surfaces and volumes, this is not actually necessary: the equations are correct and complete with time-independent surfaces. The sources are correspondingly the total amounts of charge and current within these volumes and surfaces, found by integration.
+
+The volume integral of the total charge density over any fixed volume is the total electric charge contained in :
+
+the net electrical current is the surface integral of the electric current density , passing through any open fixed surface : The "total charge or current" refers to including free and bound charges, or free and bound currents. These are used in the macroscopic formulation below.
+
+3. Relationship between differential and integral formulations
+
+The differential and integral formulations of the equations are mathematically equivalent, by the divergence theorem in the case of Gauss's law and Gauss's law for magnetism, and by the Kelvin–Stokes theorem in the case of Faraday's law and Ampère's law. Both the differential and integral formulations are useful. The integral formulation can often be used to simply and directly calculate fields from symmetric distributions of charges and currents. On the other hand, the differential formulation is a more natural starting point for calculating the fields in more complicated (less symmetric) situations, for example using finite element analysis.
+
+3.1. Flux and divergence
+
+The "fields emanating from the sources" can be inferred from the surface integrals of the fields through the closed surface , defined as the electric flux and magnetic flux , as well as their respective divergences and . These surface integrals and divergences are connected by the divergence theorem.
+
+3.2. Circulation and curl
+
+The "circulation of the fields" can be interpreted from the line integrals of the fields around the closed curve ∂Σ:
+
+where is the differential vector element of path length tangential to the path/curve, as well as their curls:
+
+These line integrals and curls are connected by Stokes' theorem, and are analogous to quantities in classical fluid dynamics: the circulation of a fluid is the line integral of the fluid's flow velocity field around a closed loop, and the vorticity of the fluid is the curl of the velocity field.
+
+3.3. Time evolution
+
+The "dynamics" or "time evolution of the fields" is due to the partial derivatives of the fields with respect to time:
+
+These derivatives are crucial for the prediction of field propagation in the form of electromagnetic waves. Since the surface is taken to be time-independent, we can make the following transition in Faraday's law:
+
+see differentiation under the integral sign for more on this result.
+
+4. Conceptual descriptions
+
+4.1. Gauss's law
+
+Gauss's law describes the relationship between a static electric field and the electric charges that cause it: The static electric field points away from positive charges and towards negative charges. In the field line description, electric field lines begin only at positive electric charges and end only at negative electric charges. 'Counting' the number of field lines passing though a closed surface, therefore, yields the total charge (including bound charge due to polarization of material) enclosed by that surface divided by dielectricity of free space (the vacuum permittivity). More technically, it relates the electric flux through any hypothetical closed "Gaussian surface" to the enclosed electric charge.
+
+4.2. Gauss's law for magnetism
+
+Gauss's law for magnetism states that there are no "magnetic charges" (also called magnetic monopoles), analogous to electric charges. Instead, the magnetic field due to materials is generated by a configuration called a dipole. Magnetic dipoles are best represented as loops of current but resemble positive and negative 'magnetic charges', inseparably bound together, having no net 'magnetic charge'. In terms of field lines, this equation states that magnetic field lines neither begin nor end but make loops or extend to infinity and back. In other words, any magnetic field line that enters a given volume must somewhere exit that volume. Equivalent technical statements are that the sum total magnetic flux through any Gaussian surface is zero, or that the magnetic field is a solenoidal vector field.
+
+4.3. Faraday's law
+
+The Maxwell-Faraday's equation version of Faraday's law describes how a time varying magnetic field creates ("induces") an electric field. This dynamically induced electric field has closed field lines just as the magnetic field, if not superposed by a static (charge induced) electric field. This aspect of electromagnetic induction is the operating principle behind many electric generators: for example, a rotating bar magnet creates a changing magnetic field, which in turn generates an electric field in a nearby wire.
+
+4.4. Ampère's law with Maxwell's addition
+
+Ampère's law with Maxwell's addition states that magnetic fields can be generated in two ways: by electrical current (this was the original "Ampère's law") and by changing electric fields (this was "Maxwell's addition").
+
+Maxwell's addition to Ampère's law is particularly important: it shows that not only does a changing magnetic field induce an electric field, but also a changing electric field induces a magnetic field. Therefore, these equations allow self-sustaining "electromagnetic waves" to travel through empty space (see electromagnetic wave equation).
+
+The speed calculated for electromagnetic waves, which could be predicted from experiments on charges and currents, exactly matches the speed of light; indeed, light is one form of electromagnetic radiation (as are X-rays, radio waves, and others). Maxwell understood the connection between electromagnetic waves and light in 1861, thereby unifying the theories of electromagnetism and optics.
+
+5. Vacuum equations, electromagnetic waves and speed of light
+
+In a region with no charges () and no currents (), such as in a vacuum, Maxwell's equations reduce to:
+
+Taking the curl of the curl equations, and using the curl of the curl identity we obtain the wave equations
+
+which identify
+
+with the speed of light in free space. In materials with relative permittivity and relative permeability , the phase velocity of light becomes
+
+which is usually less than .
+
+In addition, and are mutually perpendicular to each other and the direction of wave propagation, and are in phase with each other. A sinusoidal plane wave is one special solution of these equations. Maxwell's equations explain how these waves can physically propagate through space. The changing magnetic field creates a changing electric field through Faraday's law. In turn, that electric field creates a changing magnetic field through Maxwell's addition to Ampère's law. This perpetual cycle allows these waves, now known as electromagnetic radiation, to move through space at velocity .
+
+6. "Microscopic" versus "macroscopic"
+
+The microscopic variant of Maxwell's equation expresses the electric field and the magnetic field in terms of the total charge and total current present including the charges and currents at the atomic level. It is sometimes called the general form of Maxwell's equations or "Maxwell's equations in a vacuum". The macroscopic variant of Maxwell's equation is equally general, however, with the difference being one of bookkeeping.
+
+"Maxwell's macroscopic equations", also known as Maxwell's equations in matter, are more similar to those that Maxwell introduced himself.
+
+|- ! scope="col" style="width: 15em;" | Name ! scope="col" | Integral equations ! scope="col" | Differential equations |- ! scope="row" | Gauss's law | | |- ! scope="row" | Gauss's law for magnetism | | |- ! scope="row" | Maxwell–Faraday equation (Faraday's law of induction) | | |- ! scope="row" | Ampère's circuital law (with Maxwell's addition) | | |- |}
+
+Unlike the "microscopic" equations, the "macroscopic" equations separate out the bound charge and current to obtain equations that depend only on the free charges and currents . This factorization can be made by splitting the total electric charge and current as follows:
+
+Correspondingly, the total current density splits into free and bound components, and similarly the total charge density splits into free and bound parts.
+
+The cost of this factorization is that additional fields, the displacement field and the magnetizing field , are defined and need to be determined. Phenomenological constituent equations relate the additional fields to the electric field and the magnetic -field, often through a simple linear relation.
+
+For a detailed description of the differences between the microscopic (total charge and current including material contributes or in air/vacuum) and macroscopic (free charge and current; practical to use on materials) variants of Maxwell's equations, see below.
+
+6.1. Bound charge and current
+
+When an electric field is applied to a dielectric material its molecules respond by forming microscopic electric dipoles – their atomic nuclei move a tiny distance in the direction of the field, while their electrons move a tiny distance in the opposite direction. This produces a macroscopic bound charge in the material even though all of the charges involved are bound to individual molecules. For example, if every molecule responds the same, similar to that shown in the figure, these tiny movements of charge combine to produce a layer of positive bound charge on one side of the material and a layer of negative charge on the other side. The bound charge is most conveniently described in terms of the polarization of the material, its dipole moment per unit volume. If is uniform, a macroscopic separation of charge is produced only at the surfaces where enter and leave the material. For non-uniform , a charge is also produced in the bulk.
+
+Somewhat similarly, in all materials the constituent atoms exhibit magnetic moments that are intrinsically linked to the angular momentum of the components of the atoms, most notably their electrons. The connection to angular momentum suggests the picture of an assembly of microscopic current loops. Outside the material, an assembly of such microscopic current loops is not different from a macroscopic current circulating around the material's surface, despite the fact that no individual charge is traveling a large distance. These bound currents can be described using the magnetization .
+
+The very complicated and granular bound charges and bound currents, therefore, can be represented on the macroscopic scale in terms of and which average these charges and currents on a sufficiently large scale so as not to see the granularity of individual atoms, but also sufficiently small that they vary with location in the material. As such, the Maxwell's macroscopic equations ignores many details on a fine scale that can be unimportant to understanding matters on a gross scale by calculating fields that are averaged over some suitable volume.
+
+6.2. Auxiliary fields, polarization and magnetization
+
+The definitions (not constitutive relations) of the auxiliary fields are:
+
+where is the polarization field and is the magnetization field which are defined in terms of microscopic bound charges and bound current respectively. The macroscopic bound charge density and bound current density in terms of polarization and magnetization are then defined as
+
+If we define the free, bound, and total charge and current density by
+
+and use the defining relations above to eliminate , and , the "macroscopic" Maxwell's equations reproduce the "microscopic" equations.
+
+6.3. Constitutive relations
+
+In order to apply 'Maxwell's macroscopic equations', it is necessary to specify the relations between displacement field and the electric field , as well as the magnetizing field and the magnetic field . Equivalently, we have to specify the dependence of the polarisation (hence the bound charge) and the magnetisation (hence the bound current) on the applied electric and magnetic field. The equations specifying this response are called constitutive relations. For real-world materials, the constitutive relations are rarely simple, except approximately, and usually determined by experiment. See the main article on constitutive relations for a fuller description.
+
+For materials without polarisation and magnetisation ("vacuum"), the constitutive relations are
+
+for scalar constants and . Since there is no bound charge, the total and the free charge and current are equal.
+
+More generally, for linear materials the constitutive relations are
+
+where is the permittivity and the permeability of the material. Even the linear case can have various complications, however.
+
+For homogeneous materials, and are constant throughout the material, while for inhomogeneous materials they depend on location within the material (and perhaps time).
+
+For isotropic materials, and are scalars, while for anisotropic materials (e.g. due to crystal structure) they are tensors.
+
+Materials are generally dispersive, so and depend on the frequency of any incident EM waves. Even more generally, in the case of non-linear materials (see for example nonlinear optics), and are not necessarily proportional to , similarly is not necessarily proportional to or . In general and depend on both and , on location and time, and possibly other physical quantities.
+
+In applications one also has to describe how the free currents and charge density behave in terms of and possibly coupled to other physical quantities like pressure, and the mass, number density, and velocity of charge-carrying particles. E.g., the original equations given by Maxwell (see History of Maxwell's equations) included Ohms law in the form
+
+7. Equations in Gaussian units
+
+Gaussian units are a popular system of units, that is part of the centimetre–gram–second system of units (cgs). When using cgs units it is conventional to use a slightly different definition of electric field . This implies that the modified electric and magnetic field have the same units (in the SI convention this is not the case: e.g. for EM waves in vacuum, , making dimensional analysis of the equations different). Then it uses a unit of charge defined in such a way that the permittivity of the vacuum , hence . Using these different conventions, the Maxwell equations become:
+
+|+ Equations in Gaussian units |- ! scope="col" style="width: 13em;" | Name ! Microscopic equations ! Macroscopic equations |- | Gauss's law | | |- | Gauss's law for magnetism | | same as microscopic |- | Maxwell–Faraday equation (Faraday's law of induction) | | same as microscopic |- | Ampère's law (with Maxwell's extension) | | |}
+
+8. Alternative formulations
+
+Following is a summary of some of the numerous other ways to write the microscopic Maxwell's equations, showing they can be formulated using different points of view and mathematical formalisms that describe the same physics. Often, they are also called the Maxwell equations. The direct space–time formulations make manifest that the Maxwell equations are relativistically invariant (in fact studying the hidden symmetry of the vector calculus formulation was a major source of inspiration for relativity theory). In addition, the formulation using potentials was originally introduced as a convenient way to solve the equations but with all the observable physics contained in the fields. The potentials play a central role in quantum mechanics, however, and act quantum mechanically with observable consequences even when the fields vanish (Aharonov–Bohm effect). See the main articles for the details of each formulation. SI units are used throughout.
+
+|- !scope="column" width="160px"|Formalism !|Formulation !| Homogeneous equations !| Non-homogeneous equations |- ! scope="row" rowspan="3" |Vector calculus !Fields 3D Euclidean space + time || || |- !Potentials (any gauge) 3D Euclidean space + time || || |- !Potentials (Lorenz gauge) 3D Euclidean space + time ||
+
+|| |- ! scope="row" rowspan="6" |Tensor calculus !Fields Minkowski space || || |- !Potentials (any gauge) Minkowski space || || |- !Potentials (Lorenz gauge) Minkowski space || || |- !Fields any space–time || || |- !Potentials (any gauge) any space–time || || |- !Potentials (Lorenz gauge) any space–time || || |- ! scope="row" rowspan="3" |Differential forms !Fields any space–time ||
+
+|| |- !Potentials (any gauge) any space–time || || |- !Potentials (Lorenz gauge) any space–time || || |-
+
+|}
+
+where
+
+In the vector formulation on Euclidean space + time, is the electrical potential, is the vector potential and is the D'Alembert operator.
+
+In the tensor calculus formulation, the electromagnetic tensor is an antisymmetric covariant rank 2 tensor, the four-potential is a covariant vector, the current is a vector density, the square bracket [ ] denotes antisymmetrization of indices, is the derivative with respect to the coordinate . On Minkowski space coordinates are chosen with respect to an inertial frame; , so that the metric tensor used to raise and lower indices is . The D'Alembert operator on Minkowski space is as in the vector formulation. On general space–times, the coordinate system is arbitrary, the covariant derivative , the Ricci tensor and raising and lowering of indices are defined by the Lorentzian metric and the D'Alembert operator is defined as .
+
+In the differential form formulation on arbitrary space times, is the electromagnetic tensor considered as two form, is the potential 1 form, is the current (pseudo) 3 form, is the exterior derivative, and are the Hodge stars on forms defined by the Lorentzian metric of space–time (the Hodge star on two forms only depends on the metric up to a local scale i.e. is conformally invariant). The operator is the d'Alembert–Laplace–Beltrami operator on 1-forms on an arbitrary Lorentzian space–time. Other formulations include the geometric algebra formulation and a matrix representation of Maxwell's equations. Historically, a quaternionic formulation was used.
+
+9. Solutions
+
+Maxwell's equations are partial differential equations that relate the electric and magnetic fields to each other and to the electric charges and currents. Often, the charges and currents are themselves dependent on the electric and magnetic fields via the Lorentz force equation and the constitutive relations. These all form a set of coupled partial differential equations, which are often very difficult to solve. In fact, the solutions of these equations encompass all the diverse phenomena in the entire field of classical electromagnetism. A thorough discussion is far beyond the scope of the article, but some general notes follow.
+
+Like any differential equation, boundary conditions and initial conditions are necessary for a unique solution. For example, even with no charges and no currents anywhere in spacetime, many solutions to Maxwell's equations are possible, not just the obvious solution . Another solution is , , while yet other solutions have electromagnetic waves filling spacetime. In some cases, Maxwell's equations are solved through infinite space, and boundary conditions are given as asymptotic limits at infinity. In other cases, Maxwell's equations are solved in just a finite region of space, with appropriate boundary conditions on that region: For example, the boundary could be an artificial absorbing boundary representing the rest of the universe, or periodic boundary conditions, or (as with a waveguide or cavity resonator) the boundary conditions may describe the walls that isolate a small region from the outside world.
+
+Jefimenko's equations (or the closely related Liénard–Wiechert potentials) are the explicit solution to Maxwell's equations for the electric and magnetic fields created by any given distribution of charges and currents. It assumes specific initial conditions to obtain the so-called "retarded solution", where the only fields present are the ones created by the charges. Jefimenko's equations are not so helpful in situations when the charges and currents are themselves affected by the fields they create.
+
+Numerical methods for differential equations can be used to approximately solve Maxwell's equations when an exact solution is impossible. These methods usually require a computer, and include the finite element method and finite-difference time-domain method. For more details, see Computational electromagnetics.
+
+Maxwell's equations seem overdetermined, in that they involve six unknowns (the three components of and ) but eight equations (one for each of the two Gauss's laws, three vector components each for Faraday's and Ampere's laws). (The currents and charges are not unknowns, being freely specifiable subject to charge conservation.) This is related to a certain limited kind of redundancy in Maxwell's equations: It can be proven that any system satisfying Faraday's law and Ampere's law automatically also satisfies the two Gauss's laws, as long as the system's initial condition does. Although it is possible to simply ignore the two Gauss's laws in a numerical algorithm (apart from the initial conditions), the imperfect precision of the calculations can lead to ever-increasing violations of those laws. By introducing dummy variables characterizing these violations, the four equations become not overdetermined after all. The resulting formulation can lead to more accurate algorithms that take all four laws into account.
+
+10. Limitations for a theory of electromagnetism
+
+While Maxwell's equations (along with the rest of classical electromagnetism) are extraordinarily successful at explaining and predicting a variety of phenomena, they are not exact, but approximations. In some special situations, they can be noticeably inaccurate. Examples include extremely strong fields (see Euler–Heisenberg Lagrangian) and extremely short distances (see vacuum polarization). Moreover, various phenomena occur in the world even though Maxwell's equations predict them to be impossible, such as "nonclassical light" and quantum entanglement of electromagnetic fields (see quantum optics). Finally, any phenomenon involving individual photons, such as the photoelectric effect, Planck's law, the Duane–Hunt law, single-photon light detectors, etc., would be difficult or impossible to explain if Maxwell's equations were exactly true, as Maxwell's equations do not involve photons. For the most accurate predictions in all situations, Maxwell's equations have been superseded by quantum electrodynamics.
+
+11. Variations
+
+Popular variations on the Maxwell equations as a classical theory of electromagnetic fields are relatively scarce because the standard equations have stood the test of time remarkably well.
+
+11.1. Magnetic monopoles
+
+Maxwell's equations posit that there is electric charge, but no magnetic charge (also called magnetic monopoles), in the universe. Indeed, magnetic charge has never been observed (despite extensive searches) and may not exist. If they did exist, both Gauss's law for magnetism and Faraday's law would need to be modified, and the resulting four equations would be fully symmetric under the interchange of electric and magnetic fields.
+
+12. See also
+
+13. Notes
+
+14. References
+
+15. Historical publications
+
+James Clerk Maxwell, "A Dynamical Theory of the Electromagnetic Field", Philosophical Transactions of the Royal Society of London 155, 459–512 (1865). (This article accompanied a December 8, 1864 presentation by Maxwell to the Royal Society.) The developments before relativity
+
+Joseph Larmor (1897) "On a dynamical theory of the electric and luminiferous medium", Phil. Trans. Roy. Soc. 190, 205–300 (third and last in a series of papers with the same name).
+
+Hendrik Lorentz (1899) "Simplified theory of electrical and optical phenomena in moving systems", Proc. Acad. Science Amsterdam, I, 427–43.
+
+Hendrik Lorentz (1904) "Electromagnetic phenomena in a system moving with any velocity less than that of light", Proc. Acad. Science Amsterdam, IV, 669–78.
+
+Henri Poincaré (1900) "La théorie de Lorentz et le Principe de Réaction", Archives Néerlandaises, V, 253–78.
+
+Henri Poincaré (1902) La Science et l'Hypothèse
+
+Henri Poincaré (1905) , Comptes rendus de l'Académie des Sciences, 140, 1504–8.
+
+– Posner Memorial Collection – Carnegie Mellon University
+
+ – Posner Memorial Collection – Carnegie Mellon University
+
+Maxwell's first paper (Part 1 & 2) – Compiled by Blaze Labs Research (PDF)
+
+On Physical Lines of Force – 1861 Maxwell's 1861 paper describing magnetic lines of Force – Predecessor to 1873 Treatise
+
+Maxwell, James Clerk, "", Philosophical Transactions of the Royal Society of London 155, 459–512 (1865). (This article accompanied a December 8, 1864 presentation by Maxwell to the Royal Society.)
+
+Maxwell's 1865 paper describing his 20 Equations in 20 Unknowns – Predecessor to the 1873 Treatise
+
+16. External links
+
+舒 An intuitive tutorial of Maxwell's equations.
+
+Mathematical aspects of Maxwell's equation are discussed on the .
+
+16.1. Modern treatments
+
+, B. Crowell, Fullerton College
+
+, R. Fitzpatrick, University of Texas at Austin
+
+on .
+
+Taught by Professor Walter Lewin.
+
+16.2. Other

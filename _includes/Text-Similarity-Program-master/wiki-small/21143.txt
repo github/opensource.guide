@@ -1,0 +1,79 @@
+A natural monopoly is a monopoly in an industry in which it is most efficient (involving the lowest long-run average cost) for production to be permanently concentrated in a single firm rather than contested competitively. This market situation gives the largest supplier in an industry, often the first supplier in a market, an overwhelming cost advantage over other actual and potential competitors, so a natural monopoly situation generally leads to an actual monopoly. This tends to be the case in industries where capital costs predominate, creating economies of scale that are large in relation to the size of the market, and hence creating high barriers to entry; examples include public utilities such as water services and electricity.
+
+While in other situations a monopoly can lead to restricted output, higher-than-necessary prices, and production that is inefficient (at higher average cost) than would occur with many producers, a firm that is a natural monopoly produces at lower average cost than would be possible with multiple firms. This frees other potential competitors to put their resources to other profitable uses.
+
+Multiple product industries tend to create a negative externality that could otherwise be avoided if a Natural Monopoly producer were present. The reasoning is that natural monopolies provide a greater overall benefit to society versus a competitive market.
+
+1. Definition
+
+Two different types of cost are important in microeconomics: marginal cost, and fixed cost. The marginal cost is the cost to the company of serving one more customer. In an industry where a natural monopoly does not exist, the vast majority of industries, the marginal cost decreases with economies of scale, then increases as the company has growing pains (overworking its employees, bureaucracy, inefficiencies, etc.). Along with this, the average cost of its products decreases and increases. A natural monopoly has a very different cost structure. A natural monopoly has a high fixed cost for a product that does not depend on output, but its marginal cost of producing one more good is roughly constant, and small.
+
+All industries have costs associated with entering them. Often, a large portion of these costs is required for investment. Larger industries, like utilities, require enormous initial investment. This barrier to entry reduces the number of possible entrants into the industry regardless of the earning of the corporations within. Natural monopolies arise where the largest supplier in an industry, often the first supplier in a market, has an overwhelming cost advantage over other actual or potential competitors; this tends to be the case in industries where fixed costs predominate, creating economies of scale that are large in relation to the size of the market, as is the case in water and electricity services. The fixed cost of constructing a competing transmission network is so high, and the marginal cost of transmission for the incumbent so low, that it effectively bars potential competitors from the monopolist's market, acting as an early insurmountable barrier to entry into the market place.
+
+A firm with high fixed costs requires a large number of customers in order to have a meaningful return on investment. This is where economies of scale become important. Since each firm has large initial costs, as the firm gains market share and increases its output the fixed cost (what they initially invested) is divided among a larger number of customers. Therefore, in industries with large initial investment requirements, average total cost declines as output increases over a much larger range of output levels.
+
+Companies that take advantage of economies of scale often run into problems of bureaucracy; these factors interact to produce an "ideal" size for a company, at which the company's average cost of production is minimized. If that ideal size is large enough to supply the whole market, then that market is a natural monopoly.
+
+Once a natural monopoly has been established because of the large initial cost and that, according to the rule of economies of scale, the larger corporation (to a point) has lower average cost and therefore a huge advantage. With this knowledge, no firms attempt to enter the industry and an oligopoly or monopoly develops.
+
+1.1. Formal definition of a natural monopoly
+
+William Baumol (1977) provided the current formal definition of a natural monopoly where “[a]n industry in which multi-firm production is more costly than production by a monopoly” (p. 810). He linked the definition to the mathematical concept of subadditivity; specifically of the cost function. Baumol also noted that for a firm producing a single product, scale economies were a sufficient but not a necessary condition to prove subadditivity.
+
+2. History
+
+The original concept of natural monopoly is often attributed to John Stuart Mill, who (writing before the marginalist revolution) believed that prices would reflect the costs of production in absence of an artificial or natural monopoly. In Principles of Political Economy Mill criticised Smith's neglect of an area that could explain wage disparity. Taking up the examples of professionals such as jewellers, physicians and lawyers, he said,
+
+"The superiority of reward is not here the consequence of competition, but of its absence: not a compensation for disadvantages inherent in the employment, but an extra advantage; a kind of monopoly price, the effect not of a legal, but of what has been termed a natural monopoly... independently of... artificial monopolies [i.e. grants by government], there is a natural monopoly in favour of skilled labourers against the unskilled, which makes the difference of reward exceed, sometimes in a manifold proportion, what is sufficient merely to equalize their advantages. If unskilled labourers had it in their power to compete with skilled, by merely taking the trouble of learning the trade, the difference of wages might not exceed what would compensate them for that trouble, at the ordinary rate at which labour is remunerated. But the fact that a course of instruction is required, of even a low degree of costliness, or that the labourer must be maintained for a considerable time from other sources, suffices everywhere to exclude the great body of the labouring people from the possibility of any such competition. So Mill's initial use of the term concerned natural abilities, in contrast to the common contemporary usage, which refers solely to market failure in a particular type of industry, such as rail, post or electricity. Mill's development of the idea is that what is true of labour is true of capital.
+
+"All the natural monopolies (meaning thereby those which are created by circumstances, and not by law) which produce or aggravate the disparities in the remuneration of different kinds of labour, operate similarly between different employments of capital. If a business can only be advantageously carried on by a large capital, this in most countries limits so narrowly the class of persons who can enter into the employment, that they are enabled to keep their rate of profit above the general level. A trade may also, from the nature of the case, be confined to so few hands, that profits may admit of being kept up by a combination among the dealers. It is well known that even among so numerous a body as the London booksellers, this sort of combination long continued to exist. I have already mentioned the case of the gas and water companies. Mill also applied the term to land, which can manifest a natural monopoly by virtue of it being the only land with a particular mineral, etc. Furthermore, Mill referred to network industries, such as electricity and water supply, roads, rail and canals, as "practical monopolies", where "it is the part of the government, either to subject the business to reasonable conditions for the general advantage, or to retain such power over it, that the profits of the monopoly may at least be obtained for the public." So, a legal prohibition against competition is often advocated and rates are not left to the market but are regulated by the government.
+
+For a discussion of the historical origins of the term 'natural monopoly' see Mosca.
+
+3. Natural monopoly in technology
+
+When new technology arrives to a market, there are battles about who is going to control the market. The winner takes control over the market while others fail. New technologies are the natural monopolies of the modern world, making it difficult for start-ups to take control of the market.
+
+Platform monopolies are companies that are backed by a massive and captive system. Operating systems like Windows support their own programs like Office. Platform monopoly is a matter of compatibility. Both sender and receiver of a file need the program to read the document. Adobe has a Platform Monopoly for Photoshop, or Illustrator which cannot open without purchasing Adobe’s programs. Due to the high entry costs and lower maintenance costs, software development can be viewed as a Natural Monopoly.
+
+Software companies that have these monopolies have started to use SaaS to access software by cloud and prevent piracy. This protects the Natural Platform Monopoly.
+
+Airlines have high start-up costs and are subject to governmental regulation and deregulation. However, because there is no single proprietor and the high continuous operational costs, the airline industry does not qualify as a natural monopoly in the same sense as utilities.
+
+Utility companies have very high start-up costs and must build the power generators as well as provide the grid infrastructure necessary to distribute electricity. If competition were to be allowed in a natural monopoly market, entering firms would have to build new transmission pathways even though the infrastructure is already in place by veteran firms.
+
+4. Regulation
+
+As with all monopolies, a monopolist who has gained his position through natural monopoly effects may engage in behaviour that abuses his market position, which often leads to calls from consumers for government regulation. Government regulation may also come about at the request of a business hoping to enter a market otherwise dominated by a natural monopoly.
+
+By instituting a government protected monopoly, the potential for predatory pricing vanishes.
+
+Common arguments in favor of regulation include the desire to limit a company's potentially abusive or unfair market power, facilitate competition, promote investment or system expansion, or stabilize markets. In general, though, regulation occurs when the government believes that the operator, left to his own devices, would behave in a way that is contrary to the public interest. In some countries an early solution to this perceived problem was government provision of, for example, a utility service. However, this approach raised its own problems. Some governments used the state-provided utility services as a source of cash flow for funding other government activities, or as a means of obtaining hard currency. These and other consequences of state provision of services often resulted in inefficiency and poor service quality. As a result, governments began to seek other solutions, namely regulation and providing services on a commercial basis, often through private participation.
+
+When corporations bid for the chance to be the monopoly franchise, there is no profit in losing the bid and possibly a very small profit in the lowest bidding. This explains how Natural Monopolies benefit the greater population with the lowest possible rates. Consumer Optimality comes from firms making zero profits, which never happens. This means that no one-good natural monopolist can achieve sustainable prices indefinitely. When a corporation becomes a natural monopoly under government regulation, it negotiates prices that will be in effect for the length of the contract. This provides the monopolist reasoning to make their prices artificially low to prevent others from entering the marketplace. Allowing the monopolist the ability to change prices without regulation can have devastating effects in a society as displayed in Bolivia’s 2000 Cochabamba protests.
+
+Advocates of laissez-faire capitalism generally argue that permanent natural monopolies are merely theoretical. Economists from the Austrian School argue that governments take ownership of the means of production in certain industries and ban competition under the false pretense that they are natural monopolies.
+
+5. See also
+
+Market forms
+
+Currency
+
+Standardization
+
+Price-cap regulation
+
+Public goods
+
+Anti-competitive practices
+
+Coercive monopoly
+
+Quasi-rent
+
+LoopCo
+
+6. References
+
+7. Further reading

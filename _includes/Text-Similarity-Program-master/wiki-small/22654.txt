@@ -1,0 +1,79 @@
+The Ohio class is a class of nuclear-powered submarines used by the United States Navy. The navy has 18 Ohio-class submarines: 14 ballistic missile submarines (SSBN) and four that were later converted to guided missile submarines (SSGN).
+
+The Ohio class is named after the lead submarine of this class, . The 14 Trident II SSBNs together carry approximately fifty percent of the total US active inventory of strategic thermonuclear warheads. The exact number of warheads deployed across the world varies in an unpredictable and classified manner, but always at or below a maximum number set by various Strategic Arms Reduction Treaties. Although the Trident missiles have no pre-set targets when the submarines go on patrol, the warships, when required, are capable of quickly being assigned targets by using secure and constant radio communications links at sea, including very low frequency (VLF) systems.
+
+All the Ohio-class submarines, except for , are named for U.S. states, which until that point was a tradition reserved for battleships and cruisers.
+
+The Ohio-class submarines are the largest submarines ever built for the U.S. Navy. Two classes of the Russian Navy's submarines have larger total displacements: the Soviet-designed s have more than twice the total displacement, and Russia's s have roughly 25 percent greater displacement, but the Ohio-class warships carry more missiles than either of the other designs: 24 Trident missiles per boat, versus 16 missiles for the Borei class (20 for the Borei II) and 20 for the Typhoon-class.
+
+1. Description
+
+The Ohio-class submarines were designed specifically for extended war-deterrence patrols. Each of these submarines is provided with two complete crews, called the Blue crew and the Gold crew, with each crew serving typically on 70- to 90-day deterrent patrols. To decrease the time in port for crew turnover and replenishment, three large logistics hatches have been installed to provide large-diameter resupply and repair access. These hatches allow rapid transfer of supply pallets, equipment replacement modules, and machinery components, significantly reducing the time required for replenishment and maintenance of the submarines.
+
+The class's design allows the warship to operate for about fifteen years between major overhauls. These submarines are reported to be as quiet at their cruising speed of or more than the previous s were at , although exact information remains classified. Fire control for their Mark 48 torpedoes is carried out by Mark 118 Mod 2 system, while the Missile Fire Control (MFC) system is a Mark 98.
+
+The Ohio-class submarines were constructed from sections of hull, with each four-deck section being in diameter. The sections were produced at the General Dynamics Electric Boat facility, Quonset Point, Rhode Island, and then assembled at its shipyard at Groton, Connecticut.
+
+The US Navy has a total of 18 Ohio-class submarines which consist of 14 ballistic missile submarines (SSBNs), and four cruise missile submarines (SSGNs). The SSBN submarines are also known as "Trident" submarines, and provide the sea-based leg of the U.S. nuclear triad. Each SSBN submarine is armed with up to 24 Trident II submarine-launched ballistic missiles (SLBM). Each SSGN is capable of carrying 154 Tomahawk cruise missiles with either conventional or nuclear warheads, plus a complement of Harpoon missiles to be fired through their torpedo tubes.
+
+2. History
+
+The first eight Ohio-class submarines were armed at first with 24 Trident I C4 SLBMs. Beginning with the ninth Trident submarine, , the remaining boats were equipped with the larger, three-stage Trident II D5 missile. The Trident II missile carries eight multiple independently targetable reentry vehicles (MIRV), in total delivering more destructive power than the Trident I missile and with greater accuracy. Starting with in 2000, the Navy began converting its remaining ballistic missile submarines armed with C4 missiles to carry D5 missiles. This task was completed in mid-2008.
+
+The first eight submarines had their home ports at Bangor, Washington, to replace the submarines carrying the Polaris A3 missile that were then being decommissioned. The remaining ten submarines originally had their home ports at Kings Bay, Georgia, replacing the Poseidon and Trident Backfit submarines of the Atlantic Fleet. During the conversion of the first four submarines to SSGNs (see below), five of the submarines, , , , , and , were transferred from Kings Bay to Bangor. Further transfers occur as the strategic weapons goals of the United States change.
+
+In 2011, Ohio-class submarines carried out 28 deterrent patrols. Each patrol lasts around 70 days. Four boats are on station ("hard alert") in designated patrol areas at any given time. From August to December 2010, Maine carried out a 105 day-long patrol, the longest to date.
+
+2.1. SSBN/SSGN conversions
+
+After the end of the Cold War, plans called for to be retired in 2002, followed by three of her sister boats. However, Ohio, , , and instead were slated for modification, to remain in service carrying conventionally armed guided missiles, and were redesignated as SSGNs.
+
+Beginning in 2002 through 2010, 22 of the 24 diameter Trident missile tubes were modified to contain large vertical launch systems (VLS), one configuration of which may be a cluster of seven Tomahawk cruise missiles. In this configuration, the number of cruise missiles carried could be a maximum of 154, the equivalent of what is typically deployed in a surface battle group. Other payload possibilities include new generations of supersonic and hypersonic cruise missiles, and Submarine Launched Intermediate Range Ballistic Missiles (SLIRBM), unmanned air vehicles (UAVs), the ADM-160 MALD, sensors for anti-submarine warfare or intelligence, surveillance, and reconnaissance missions, countermine warfare payloads such as the AN/BLQ-11 Long Term Mine Reconnaissance System (LMRS), and the broaching universal buoyant launcher (BUBL) and stealthy affordable capsule system (SACS) specialized payload canisters.
+
+The missile tubes also have room for stowage canisters that can extend the forward deployment time for special forces. The other two Trident tubes are converted to swimmer lockout chambers. For special operations, the Advanced SEAL Delivery System and the Dry Deck Shelter can be mounted on the lockout chamber and the boat will be able to host up to 66 special operations sailors or Marines, such as Navy SEALs, or USMC MARSOC teams. Improved communications equipment installed during the upgrade allows the SSGNs to serve as a forward-deployed, clandestine Small Combatant Joint Command Center.
+
+On 26 September 2002, the Navy awarded the Electric Boat company a US$442.9 million contract to begin the first phase of the SSGN submarine conversion program. Those funds covered only the initial phase of conversion for the first two boats on the schedule. Advanced procurement was funded at $355 million in fiscal year 2002, $825 million in the FY 2003 budget and, through the five-year defense budget plan, at $936 million in FY 2004, $505 million in FY 2005, and $170 million in FY 2006. Thus, the total cost to refit the four boats is just under $700 million per vessel.
+
+In November 2002, Ohio entered a drydock, beginning her 36-month refueling and missile conversion overhaul. Electric Boat announced on 9 January 2006 that the conversion had been completed. The converted Ohio rejoined the fleet in February 2006, followed by the Florida in April 2006. The converted Michigan was delivered in November 2006. The converted Ohio went to sea for the first time in October 2007. Georgia returned to the fleet in March 2008 at Kings Bay. These four SSGNs are expected to remain in service until about 2023–2026. At that point their capabilities will be replaced with Virginia Payload Module equipped s.
+
+3. Replacement
+
+The U.S. Department of Defense anticipates a continued need for a sea-based strategic nuclear force. The first of the current Ohio SSBNs are expected to be retired by 2029, meaning that a platform must already be seaworthy by that time. A replacement may cost over $4 billion per unit compared to Ohios $2 billion. The U.S. Navy is exploring two options. The first is a variant of the nuclear attack submarines. The second is a dedicated SSBN, either with a new hull or based on an overhaul of the current Ohio.
+
+With the cooperation of both Electric Boat and Newport News Shipbuilding, in 2007, the U.S. Navy began a cost control study. Then in December 2008 the U.S. Navy awarded Electric Boat a contract for the missile compartment design of the Ohio-class replacement, worth up to $592 million. Newport News is expected to receive close to 4% of that project. The U.S. Navy has yet to confirm an Ohio-class replacement program. However, in April 2009, U.S. Defense Secretary Robert M. Gates confirmed that the U.S. Navy should begin such a program in 2010. The new vessel is scheduled to enter the design phase by 2014. It is anticipated that, if a new hull design is used, the program must be initiated by 2016 in order to meet the 2029 deadline.
+
+4. In popular culture
+
+As ballistic missile submarines, the Ohio class has occasionally been portrayed in fiction books and films.
+
+The fictional USS Montana is featured in the James Cameron 1989 undersea adventure The Abyss.
+
+is the setting for the 1995 submarine film, Crimson Tide.
+
+The fictional ballistic missile submarine, USS Colorado (SSBN-753), is the primary setting for the ABC television series Last Resort.
+
+The then-fictional USS Alaska was the setting for the 1980 novel The Gold Crew by Thomas N. Scortia and Frank M. Robinson.
+
+USS Maine plays a major role in Tom Clancy's novel The Sum of All Fears.
+
+5. See also
+
+List of Ohio-class submarines
+
+Yankee Notch – 1983 conversion of former Soviet SSBN class to take up to 40 missiles similar to Tomahawks
+
+Nuclear warfare
+
+Nuclear strategy
+
+6. References
+
+7. Further reading
+
+Hutchinson, Robert (2006). Jane's Submarines War Beneath the Waves: From 1776 to the Present Day. New Line Books. ISBN 978-1-59764-181-4.
+
+Congressional Research Service
+
+8. External links
+
+Information about the Submarine Industrial Base

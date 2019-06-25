@@ -1,0 +1,79 @@
+A programmer, computer programmer, developer, coder, or software engineer is a person who writes computer software. The term computer programmer can refer to a specialist in one area of computer programming or to a generalist who writes code for many kinds of software. One who practices or professes a formal approach to programming may also be known as a programmer analyst. A programmer's primary computer language (C, C++, C#, Java, Lisp, Python, etc.) is often prefixed to the above titles, and those who work in a web environment often prefix their titles with Web. The term programmer can be used to refer to a software developer, Web developer, mobile applications developer, embedded firmware developer, software engineer, computer scientist, or software analyst. However, members of these professions possess other software engineering skills, beyond programming; for this reason, the term programmer, or code monkey, is sometimes considered an insulting or derogatory oversimplification of these other professions. This has sparked much debate amongst developers, analysts, computer scientists, programmers, and outsiders who continue to be puzzled at the subtle differences in the definitions of these occupations.
+
+British countess and mathematician Ada Lovelace is considered the first computer programmer, as she was the first to write and publish an algorithm intended for implementation on Charles Babbage's analytical engine, in October 1842, intended for the calculation of Bernoulli numbers. Lovelace was also the first person to comment on the potential for computers to be used for purposes other than computing calculations. Because Babbage's machine was never completed to a functioning standard in her time, she never saw her algorithm run.
+
+The first person to run a program on a functioning modern electronically based computer was computer scientist Konrad Zuse, in 1941.
+
+The ENIAC programming team, consisting of Kay McNulty, Betty Jennings, Betty Snyder, Marlyn Wescoff, Fran Bilas and Ruth Lichterman were the first regularly working programmers.
+
+International Programmers' Day is celebrated annually on 7 January. In 2009, the government of Russia decreed a professional annual holiday known as Programmers' Day to be celebrated on 13 September (12 September in leap years). It had also been an unofficial international holiday before that.
+
+1. Nature of the work
+
+Computer programmers write, test, debug, and maintain the detailed instructions, called computer programs, that computers must follow to perform their functions. Programmers also conceive, design, and test logical structures for solving problems by computer. Many technical innovations in programming — advanced computing technologies and sophisticated new languages and programming tools — have redefined the role of a programmer and elevated much of the programming work done today. Job titles and descriptions may vary, depending on the organization.
+
+Programmers work in many settings, including corporate information technology ("IT") departments, big software companies, and small service firms. Many professional programmers also work for consulting companies at client sites as contractors. Licensing is not typically required to work as a programmer, although professional certifications are commonly held by programmers. Programming is widely considered a profession (although some authorities disagree on the grounds that only careers with legal licensing requirements count as a profession).
+
+Programmers' work varies widely depending on the type of business for which they are writing programs. For example, the instructions involved in updating financial records are very different from those required to duplicate conditions on an aircraft for pilots training in a flight simulator. Simple programs can be written in a few hours, more complex ones may require more than a year of work, while others are never considered 'complete' but rather are continuously improved as long as they stay in use. In most cases, several programmers work together as a team under a senior programmer’s supervision.
+
+Programmers write programs according to the specifications determined primarily by more senior programmers and by systems analysts. After the design process is complete, it is the job of the programmer to convert that design into a logical series of instructions that the computer can follow. The programmer codes these instructions in one of many programming languages. Different programming languages are used depending on the purpose of the program. COBOL, for example, is commonly used for business applications that typically run on mainframe and midrange computers, whereas Fortran is used in science and engineering. C++ is widely used for both scientific and business applications. Java, C#, VB and PHP are popular programming languages for Web and business applications. Programmers generally know more than one programming language and, because many languages are similar, they often can learn new languages relatively easily. In practice, programmers often are referred to by the language they know, e.g. as Java programmers, or by the type of function they perform or environment in which they work: for example, database programmers, mainframe programmers, or Web developers.
+
+When making changes to the source code that programs are made up of, programmers need to make other programmers aware of the task that the routine is to perform. They do this by inserting comments in the source code so that others can understand the program more easily and by documenting their code. To save work, programmers often use libraries of basic code that can be modified or customized for a specific application. This approach yields more reliable and consistent programs and increases programmers' productivity by eliminating some routine steps.
+
+1.1. Testing and debugging
+
+Programmers test a program by running it and looking for bugs (errors). As they are identified, the programmer usually makes the appropriate corrections, then rechecks the program until an acceptably low level and severity of bugs remain. This process is called testing and debugging. These are important parts of every programmer's job. Programmers may continue to fix these problems throughout the life of a program. Updating, repairing, modifying, and expanding existing programs is sometimes called maintenance programming. Programmers may contribute to user guides and online help, or they may work with technical writers to do such work.
+
+1.2. Application versus system programming
+
+Computer programmers often are grouped into two broad types: application programmers and systems programmers. Application programmers write programs to handle a specific job, such as a program to track inventory within an organization. They also may revise existing packaged software or customize generic applications which are frequently purchased from independent software vendors. Systems programmers, in contrast, write programs to maintain and control computer systems software, such as operating systems and database management systems. These workers make changes in the instructions that determine how the network, workstations, and CPU of the system handle the various jobs they have been given and how they communicate with peripheral equipment such as printers and disk drives.
+
+1.3. Types of software
+
+Programmers in software development companies may work directly with experts from various fields to create software – either programs designed for specific clients or packaged software for general use – ranging from video games to educational software to programs for desktop publishing and financial planning. Programming of packaged software constitutes one of the most rapidly growing segments of the computer services industry. Some companies or organizations – even small ones – have set up their own IT team to ensure the design and development of in-house software to answer to very specific needs from their internal end-users, especially when existing software are not suitable or too expensive. This is for example the case in research laboratories.
+
+In some organizations, particularly small ones, workers commonly known as programmer analysts are responsible for both the systems analysis and the actual programming work. The transition from a mainframe environment to one that is based primarily on personal computers (PCs) has blurred the once rigid distinction between the programmer and the user. Increasingly, adept end users are taking over many of the tasks previously performed by programmers. For example, the growing use of packaged software, such as spreadsheet and database management software packages, allows users to write simple programs to access data and perform calculations.
+
+In addition, the rise of the Internet has made web development a huge part of the programming field. Currently more software applications are web applications that can be used by anyone with a web browser. Examples of such applications include the Google search service, the Hotmail e-mail service, and the Flickr photo-sharing service.
+
+Programming editors, also known as source code editors, are text editors that are specifically designed for programmers or developers for writing the source code of an application or a program. Most of these editors include features useful for programmers, which may include color syntax highlighting, auto indentation, auto-complete, bracket matching, syntax check, and allows plug-ins. These features aid the users during coding, debugging and testing.
+
+2. Globalization
+
+2.1. Market changes in the UK
+
+According to BBC News, 17% of computer science students could not find work in their field 6 months after graduation in 2009 which was the highest rate of the university subjects surveyed while 0% of medical students were unemployed in the same survey. The UK category system does, however, class such degrees as information technology and game design as 'computer science', industries in which jobs can be extremely difficult to find, somewhat inflating the actual figure.
+
+2.2. Market changes in the US
+
+Computer programming, offshore outsourcing, and Foreign Worker Visas became a controversial topic after the crash of the dot-com bubble left many programmers without work or with lower wages. Programming was even mentioned in the 2004 US Presidential debate on the topic of offshore outsourcing.
+
+Large companies claim there is a skills shortage with regard to programming talent. However, US programmers and unions counter that large companies are exaggerating their case in order to obtain cheaper programmers from developing countries and to avoid paying for training in very specific technologies.
+
+Enrollment in computer-related degrees in US has dropped recently due to lack of general interests in science and mathematics and also out of an apparent fear that programming will be subject to the same pressures as manufacturing and agriculture careers. This situation has resulted in confusion about whether the US economy is entering a "post-information age" and the nature of US comparative advantages. Technology and software jobs were supposed to be the replacement for factory and agriculture jobs lost to cheaper foreign labor, but if those are subject to free trade losses, then the nature of the next generation of replacement careers is not clear at this point.
+
+3. See also
+
+Game programmer
+
+List of programmers
+
+Software development process
+
+Software engineering
+
+System administrator
+
+4. References
+
+5. Further reading
+
+Weinberg, Gerald M., The Psychology of Computer Programming, New York: Van Nostrand Reinhold, 1971
+
+An experiential study of the nature of programming work: Lucas, Rob. New Left Review 62, March–April 2010, pp. 125–132.
+
+6. External links
+
+- An overview of the challenges of being a programmer
+
+The US Department of Labor's description of ""

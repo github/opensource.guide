@@ -1,0 +1,187 @@
+In the United States, a 401(k) plan is the tax-qualified, defined-contribution pension account defined in subsection 401(k) of the Internal Revenue Code. Under the plan, retirement savings contributions are provided (and sometimes proportionately matched) by an employer, deducted from the employee's paycheck before taxation (therefore tax-deferred until withdrawn after retirement or as otherwise permitted by applicable law), and limited to a maximum pre-tax annual contribution of $18,000 (as of 2015).
+
+Other employer-provided defined-contribution plans include 403(b) plans, for nonprofit institutions, and 457(b) plans for governmental employers. These plans are all established under section 401(a) of the Internal Revenue Code. 401(a) plans may provide total annual addition of $52,000 (as of 2014) per plan participant, including both employee and employer contributions.
+
+1. History
+
+The section of the Internal Revenue Code that made 401(k) plans possible was enacted into law in 1978. It was intended to allow taxpayers a break on taxes on deferred income. In 1980, a benefits consultant named Ted Benna took note of the previously obscure provision and figured out that it could be used to create a simple, tax-advantaged way to save for retirement. The client he was working for at the time chose not to create a 401(k) plan. He later went on to install the first 401(k) plan at his own employer, The Johnson Companies (today doing business as Johnson Kendall & Johnson).
+
+2. Tax consequences
+
+With either pre-tax or after-tax contributions, earnings from investments in a 401(k) account (in the form of interest, dividends, or capital gains) are tax-deferred. The resulting compounding interest with delayed taxation is a major benefit of the 401(k) plan when held over long periods of time. Beginning in the 2006 tax year, employees have been allowed to designate contributions as a Roth 401(k) deduction. Similar to the provisions of a Roth IRA, these contributions are made on an after-tax basis and all earnings.
+
+For pre-tax contributions, the employee does not pay federal income tax on the amount of current income he or she defers to a 401(k) account, but does still pay the total 7.65% payroll taxes (social security and medicare). For example, a worker who otherwise earns $50,000 in a particular year and defers $3,000 into a 401(k) account that year only recognizes $47,000 in income on that year's tax return. Currently this would represent a near $750 term saving in taxes for a single worker, assuming the worker remained in the 25% marginal tax bracket and there were no other adjustments (e.g., deductions). The employee ultimately pays taxes on the money as he or she withdraws the funds, generally during retirement. The character of any gains (including tax-favored capital gains) is transformed into "ordinary income" at the time the money is withdrawn.
+
+If the employee made after-tax contributions to the non-Roth 401(k) account, these amounts are commingled with the pre-tax funds and simply add to the non-Roth 401(k) basis. When distributions are made the taxable portion of the distribution will be calculated as the ratio of the non-Roth contributions to the total 401(k) basis. The remainder of the distribution is tax-free and not included in gross income for the year.
+
+For accumulated after-tax contributions and earnings in a designated Roth account (Roth 401(k)), "qualified distributions" can be made tax-free. To qualify, distributions must be made more than 5 years after the first designated Roth contributions and not before the year in which the account owner turns age 59½, unless an exception applies as detailed in IRS code section 72(t). In the case of designated Roth contributions, the contributions being made on an after-tax basis means that the taxable income in the year of contribution is not decreased as it is with pre-tax contributions. Roth contributions are irrevocable and cannot be converted to pre-tax contributions at a later date. (In contrast to Roth individual retirement accounts (IRAs), where Roth contributions may be re characterized as pre-tax contributions.) Administratively, Roth contributions must be made to a separate account, and records must be kept that distinguish the amount of contribution and the corresponding earnings that are to receive Roth treatment.
+
+Unlike the Roth IRA, there is no upper income limit capping eligibility for Roth 401(k) contributions. Individuals who find themselves disqualified from a Roth IRA may contribute to their Roth 401(k). Individuals who qualify for both can contribute the maximum statutory amounts into either or a combination of the two plans (including both catch-up contributions if applicable). Aggregate statutory annual limits set by the IRS will apply.
+
+3. Withdrawal of funds
+
+The Internal Revenue Code imposes severe restrictions on withdrawals of pre-tax or Roth contributions while a person remains in service with the company and is under the age of 59½. Any withdrawal that is permitted before the age of 59½ is subject to an excise tax equal to ten percent of the amount distributed (on top of the ordinary income tax that has to be paid), including withdrawals to pay expenses due to a hardship, except to the extent the distribution does not exceed the amount allowable as a deduction under Internal Revenue Code section 213 to the employee for amounts paid during the taxable year for medical care (determined without regard to whether the employee itemizes deductions for such taxable year).
+
+In any event any amounts are subject to normal taxation as ordinary income. The Internal Revenue Code generally defines hardship for this purpose as
+
+Unreimbursed medical expenses for the participant, the participant's spouse or dependent.
+
+Purchase of an employee's principal residence.
+
+Payment of college tuition and related educational costs such as room and board for the next 12 months for the participant, the participant's spouse or dependents, or children who are no longer dependents.
+
+Payments necessary to prevent eviction from the participant's home, or foreclosure on the mortgage of a principal residence.
+
+For funeral expenses.
+
+Certain expenses for the repair of damage to the employee's principal residence. Some employers may disallow one, several, or all of the previous hardship causes. Someone wishing to withdraw from such a 401(k) plan would have to resign from their employer. To maintain the tax advantage for income deferred into a 401(k), the law stipulates the restriction that unless an exception applies, money must be kept in the plan or an equivalent tax deferred plan until the employee reaches 59½ years of age. Money that is withdrawn prior to the age of 59½ typically incurs a 10% penalty tax unless a further exception applies. This penalty is on top of the "ordinary income" tax that has to be paid on such a withdrawal. The exceptions to the 10% penalty include: the employee's death, the employee's total and permanent disability, separation from service in or after the year the employee reached age 55, substantially equal periodic payments under section 72(t), a qualified domestic relations order, and for deductible medical expenses (exceeding the 7.5% floor). This does not apply to the similar 457 plan.
+
+Many plans also allow employees to take loans from their 401(k) to be repaid with after-tax funds at pre-defined interest rates. The interest proceeds then become part of the 401(k) balance. The loan itself is not taxable income nor subject to the 10% penalty as long as it is paid back in accordance with section 72(p) of the Internal Revenue Code. This section requires, among other things, that the loan be for a term no longer than 5 years (except for the purchase of a primary residence), that a "reasonable" rate of interest be charged, and that substantially equal payments (with payments made at least every calendar quarter) be made over the life of the loan. Employers, of course, have the option to make their plan's loan provisions more restrictive. When an employee does not make payments in accordance with the plan or IRS regulations, the outstanding loan balance will be declared in "default". A defaulted loan, and possibly accrued interest on the loan balance, becomes a taxable distribution to the employee in the year of default with all the same tax penalties and implications of a withdrawal.
+
+These loans have been described as tax-disadvantaged, on the theory that the 401(k) contains before-tax dollars, but the loan is repaid with after-tax dollars. While this is precisely correct, the analysis is fundamentally flawed with regard to the loan principal amounts. From your perspective as the borrower, this is identical to a standard loan where you are not taxed when you get the loan, but you have to pay it back with taxed dollars. However, the interest portion of the loan repayments, which are essentially additional contributions to the 401(k), are made with after-tax funds but they do not increase the after-tax basis in the 401(k). Therefore, upon distribution/conversion of those funds the owner will have to pay taxes on those funds a second time.
+
+3.1. Required minimum distributions (RMD)
+
+Account owners must begin making distributions from their accounts by April 1 of the calendar year after turning age 70½ or April 1 of the calendar year after retiring, whichever is later. The amount of distributions is based on life expectancy according to the relevant factors from the appropriate IRS tables. There is an exception to minimum distribution for people still working once they reach that age. The exception only applies to the current plan they are participating in and does not apply if the account owner is a 5% owner of the business sponsoring the retirement plan. Required minimum distributions apply to both pretax and after-tax Roth contributions. Only a Roth IRA is not subject to minimum distribution rules. Other than the exception for continuing to work after age 70½ differs from the rules for IRA minimum distributions. The same penalty applies to the failure to make the minimum distribution. The penalty is 50% of the amount that should have been distributed, one of the most severe penalties the IRS applies. In response to the economic crisis, Congress suspended the RMD requirement for 2009.
+
+3.2. Force-out
+
+Former employees ("terminated participants") can have their 401(k) accounts closed if their account balances are low; such a provision in the plan is referred to as a "force-out" provision. Almost 90% of plans have a force-out provision. As of March 2005, the limit for force-out provisions is a balance of $1,000—participants whose balance is over $1,000 cannot have their account closed. Before March 2005, the limit was $5,000.
+
+Closing an account requires that the participant either roll-over the funds to an IRA, another 401(k) plan or take a distribution ("cash out"). 85% of those with balances of under $1,000 cash out, either voluntarily or due to a force-out provision.
+
+4. Rollovers
+
+Rollovers between eligible retirement plans are accomplished in one of two ways: by a distribution to the participant and a subsequent rollover to another plan or by a direct rollover from plan to plan. Rollovers after a distribution to the participant must generally be accomplished within 60 days of the distribution. If the 60-day limit is not met, the rollover will be disallowed and the distribution will be taxed as ordinary income and the 10% penalty will apply, if applicable. The same rules and restrictions apply to rollovers from plans to IRAs.
+
+4.1. Direct rollovers
+
+A direct rollover from an eligible retirement plan to another eligible retirement plan is not taxable, regardless of the age of the participant.
+
+4.2. Traditional to Roth rollovers
+
+In 2013 the IRS began allowing conversions of existing Traditional 401(k) contributions to Roth 401(k). In order to do so, an employee's company plan must offer both a Traditional and Roth option and explicitly permit such a conversion.
+
+5. Technical details
+
+5.1. Contribution deferral limits
+
+There is a maximum limit on the total yearly employee pre-tax or Roth salary deferral into the plan. This limit, known as the "402(g) limit", was $15,500 for the year 2008, $16,500 for 2009–2011, $17,000 for 2012, $17,500 for 2013-2014 and $18,000 for 2015. For future years, the limit may be indexed for inflation, increasing in increments of $500. Employees who are 50 years old or over at any time during the year are now allowed additional pre-tax "catch up" contributions of up to $5,000 for 2008, $5,500 for 2009–2014 and $6,000 for 2015. The limit for future "catch up" contributions may also be adjusted for inflation in increments of $500. In eligible plans, employees can elect to contribute on a pre-tax basis or as a Roth 401(k) contribution, or a combination of the two, but the total of those two contributions amounts must not exceed the contribution limit in a single calendar year. This limit does not apply to post-tax non-Roth elections.
+
+If the employee contributes more than the maximum pre-tax/Roth limit to 401(k) accounts in a given year, the excess as well as the deemed earnings for those contributions must be withdrawn or corrected by April 15 of the following year. This violation most commonly occurs when a person switches employers mid-year and the latest employer does not know to enforce the contribution limits on behalf of their employee. If this violation is noticed too late, the employee will not only be required to pay tax on the excess contribution amount the year was earned, the tax will effectively be doubled as the late corrective distribution is required to be reported again as income along with the earnings on such excess in the year the late correction is made.
+
+Plans which are set up under section 401(k) can also have employer contributions that cannot exceed other regulatory limits. Employer matching contributions can be made on behalf of designated Roth contributions, but the employer match must be made on a pre-tax basis.
+
+Some plans also have a profit-sharing provision where employers make additional contributions to the account and may or may not require matching contributions by the employee. These additional contributions may or may not require a matching employee contribution to earn them. These profit-sharing contributions plus the matching contributions both cannot exceed 25% of the employee's pre-tax compensation. As with the matching funds, these contributions are also made on a pre-tax basis.
+
+There is also a maximum 401(k) contribution limit that applies to all employee and employer 401(k) contributions in a calendar year. This limit is the section 415 limit, which is the lesser of 100% of the employee's total pre-tax compensation or $44,000 for 2006, $45,000 for 2007, $46,000 for 2008, $49,000 for 2009–2011, $50,000 for 2012, $51,000 for 2013, and $52,000 for 2014. For employees over 50, the catch-up contribution limit is also added to the 415 limit.
+
+Governmental employers in the US (that is, federal, state, county, and city governments) are currently barred from offering 401(k) plans unless they were established before May 1986. Governmental organizations instead can set up a section 457(b).
+
+5.2. Contribution deadline
+
+For a corporation, or LLC taxed as a corporation, contributions must be made by the end of a calendar year. For a sole proprietorship, partnership, or an LLC taxed as a sole proprietorship, the deadline for depositing contributions is generally the personal tax filing deadline (April 15, or September 15 if an extension was filed).
+
+5.3. Highly compensated employees (HCE)
+
+To help ensure that companies extend their 401(k) plans to low-paid employees, an IRS rule limits the maximum deferral by the company's highly compensated employees (HCEs) based on the average deferral by the company's non-highly compensated employees (NHCEs). If the less compensated employees save more for retirement, then the HCEs are allowed to save more for retirement. This provision is enforced via "non-discrimination testing". Non-discrimination testing takes the deferral rates of HCEs and compares them to NHCEs. An HCE in 2008 is defined as an employee with compensation of greater than $100,000 in 2007 or an employee that owned more than 5% of the business at any time during the year or the preceding year. In addition to the $100,000 limit for determining HCEs, employers can elect to limit the top-paid group of employees to the top 20% of employees ranked by compensation. That is for plans whose first day of the plan year is in calendar year 2007, we look to each employee's prior year gross compensation (also known as 'Medicare wages') and those who earned more than $100,000 are HCEs. Most testing done now in 2009 will be for the 2008 plan year and compare employees' 2007 plan year gross compensation to the $100,000 threshold for 2007 to determine who is HCE and who is a NHCE. The threshold was $110,000 in 2010 and it did not change for 2011. For 2012,2013 and 2014, the threshold was increased from $110,000 to $115,000.
+
+The average deferral percentage (ADP) of all HCEs, as a group, can be no more than 2 percentage points greater (or 125% of, whichever is more) than the NHCEs, as a group. This is known as the ADP test. When a plan fails the ADP test, it essentially has two options to come into compliance. It can have a return of excess done to the HCEs to bring their ADP to a lower, passing, level. Or it can process a "qualified non-elective contribution" (QNEC) to some or all of the NHCEs to raise their ADP to a passing level. The return of excess requires the plan to send a taxable distribution to the HCEs (or reclassify regular contributions as catch-up contributions subject to the annual catch-up limit for those HCEs over 50) by March 15 of the year following the failed test. A QNEC must be an immediately vested contribution.
+
+The annual contribution percentage (ACP) test is similarly performed but also includes employer matching and employee after-tax contributions. ACPs do not use the simple 2% threshold, and include other provisions which can allow the plan to "shift" excess passing rates from the ADP over to the ACP. A failed ACP test is likewise addressed through return of excess, or a QNEC or qualified match (QMAC).
+
+There are a number of "safe harbor" provisions that can allow a company to be exempted from the ADP test. This includes making a "safe harbor" employer contribution to employees' accounts. Safe harbor contributions can take the form of a match (generally totaling 4% of pay) or a non-elective profit sharing (totaling 3% of pay). Safe harbor 401(k) contributions must be 100% vested at all times with immediate eligibility for employees. There are other administrative requirements within the safe harbor, such as requiring the employer to notify all eligible employees of the opportunity to participate in the plan, and restricting the employer from suspending participants for any reason other than due to a hardship withdrawal.
+
+5.4. Automatic enrollment
+
+Employers are allowed to automatically enroll their employees in 401(k) plans, requiring employees to actively opt out if they do not want to participate (traditionally, 401(k)s required employees to opt in). Companies offering such automatic 401(k)s must choose a default investment fund and savings rate. Employees who are enrolled automatically will become investors in the default fund at the default rate, although they may select different funds and rates if they choose, or even opt out completely.
+
+Automatic 401(k)s are designed to encourage high participation rates among employees. Therefore, employers can attempt to enroll non-participants as often as once per year, requiring those non-participants to opt out each time if they do not want to participate. Employers can also choose to escalate participants' default contribution rate, encouraging them to save more.
+
+The Pension Protection Act of 2006 made automatic enrollment a safer option for employers. Prior to the Pension Protection Act, employers were held responsible for investment losses as a result of such automatic enrollments. The Pension Protection Act established a safe harbor for employers in the form of a "Qualified Default Investment Alternative", an investment plan that, if chosen by the employer as the default plan for automatically enrolled participants, relieves the employer of financial liability. Under Department of Labor regulations, three main types of investments qualify as QDIAs: lifecycle funds, balanced funds, and managed accounts. QDIAs provide sponsors with fiduciary relief similar to the relief that applies when participants affirmatively elect their investments.
+
+5.5. Fees
+
+401(k) plans charge fees for administrative services, investment management services, and sometime outside consulting services. They can be charged to the employer, the plan participants or to the plan itself and the fees can be allocated on a per participant basis, per plan, or as a percentage of the plan's assets. For 2011, the average total administrative and management fees on a 401(k) plan was 0.78 percent or approximately $250 per participant.
+
+6. Plans for certain small businesses or sole proprietorships
+
+The Economic Growth and Tax Relief Reconciliation Act of 2001 (EGTRRA) made 401(k) plans more beneficial to the self-employed. The two key changes enacted related to the allowable "Employer" deductible contribution, and the "Individual" IRC-415 contribution limit.
+
+Prior to EGTRRA, the maximum tax-deductible contribution to a 401(k) plan was 15% of eligible pay (reduced by the amount of salary deferrals). Without EGTRRA, an incorporated business person taking $100,000 in salary would have been limited in Y2004 to a maximum contribution of $15,000. EGTRRA raised the deductible limit to 25% of eligible pay without reduction for salary deferrals. Therefore, that same businessperson in Y2008 can make an "elective deferral" of $15,500 plus a profit sharing contribution of $25,000 (i.e. 25%), and—if this person is over age 50—make a catch-up contribution of $5,000 for a total of $45,500. For those eligible to make "catch-up" contribution, and with salary of $122,000 or higher, the maximum possible total contribution in 2008 would be $51,000. To take advantage of these higher contributions, many vendors now offer Solo 401(k) plans or Individual(k) plans, which can be administered as a Self-Directed 401(k), allowing for investment into real estate, mortgage notes, tax liens, private companies, and virtually any other investment.
+
+Note: an unincorporated business person is subject to slightly different calculation. The government mandates calculation of profit sharing contribution as 25% of net self-employment (Schedule C) income. Thus on $100,000 of self-employment income, the contribution would be 20% of the gross self-employment income, 25% of the net after the contribution of $20,000.
+
+6.1. Rollovers as business start-ups (ROBS)
+
+ROBS is an arrangement in which prospective business owners use their 401(k) retirement funds to pay for new business start-up costs. ROBS is an acronym from the United States Internal Revenue Service for the IRS ROBS Rollovers as Business Start-Ups Compliance Project.
+
+ROBS plans, while not considered an abusive tax avoidance transaction, are questionable because they may solely benefit one individual – the individual who rolls over his or her existing retirement 401(k) withdrawal funds to the ROBS plan in a tax-free transaction. The ROBS plan then uses the rollover assets to purchase the stock of the new business. A C corporation must be set up in order to roll the 401(k) withdrawal.
+
+7. Other countries
+
+Even though the term "401(k)" is a reference to a specific provision of the U.S. Internal Revenue Code section 401, it has become so well known that it has been used elsewhere as a generic term to describe analogous legislation. For example, in October 2001, Japan adopted legislation allowing the creation of "Japan-version 401(k)" accounts even though no provision of the relevant Japanese codes is in fact called "section 401(k)."
+
+The term is not used in the UK, where analogous pension arrangements are known as personal pension schemes.
+
+8. Risk
+
+Unlike defined benefit ERISA plans or banking institution savings accounts, there is no government insurance for assets held in 401(k) accounts. Plans of sponsors experiencing financial difficulties, sometimes have funding problems. Fortunately, the bankruptcy laws give a high priority to sponsor funding liability. In moving between jobs, this should be a consideration by a plan participant in whether to leave assets in the old plan or roll over the assets to a new employer plan or to an individual retirement arrangement (an IRA). Fees charged by IRA providers can be substantially less than fees charged by employer plans and typically offer a far wider selection of investment vehicles than employer plans.
+
+9. See also
+
+Australia's superannuation system
+
+Belgium's pensioensparen
+
+Brazil's and Portugal's Fundo de pensão
+
+Canada's Registered Retirement Savings Plan
+
+France's special retirement plan
+
+Germany Betriebliche Altersversorgung
+
+India's Public Provident Fund
+
+Malaysia's Kumpulan Wang Simpanan Pekerja
+
+Mexico's retirement funds administrators
+
+New Zealand's KiwiSaver system
+
+Singapore's Central Provident Fund
+
+Spain Plan de pensiones
+
+The United Kingdom's pension provision and individual savings account
+
+United States
+
+Comparison of 401(k) and IRA accounts
+
+403(b)
+
+Self directed IRA
+
+Vivien v. Worldcom
+
+10. References
+
+11. External links
+
+from the Internal Revenue Service
+
+– From Cornell Law School
+
+from the Department of Labor
+
+from AARP, the Financial Industry Regulatory Authority, and the Retirement Security Project
+
+, American Savings Education Council
+
+, Center for Retirement Research
+
+, Employee Benefit Research Institute, a nonprofit, nonpartisan organization.
+
+, Women's Institute for a Secure Retirement

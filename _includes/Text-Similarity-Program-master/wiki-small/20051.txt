@@ -1,0 +1,101 @@
+In fluid mechanics, Mach number (M or Ma) (; ) is a dimensionless quantity representing the ratio of speed of an object moving through a fluid and the local speed of sound.
+
+where
+
+Mach number depends on the condition of the surrounding medium, in particular the temperature and pressure. The Mach number can be used to determine if a flow can be treated as an incompressible flow. If M < 0.2–0.3 and the flow is quasi-steady and isothermal, compressibility effects will be small and a simplified incompressible flow equations can be used.
+
+The Mach number is named after Austrian physicist and philosopher Ernst Mach, a designation proposed by aeronautical engineer Jakob Ackeret. As the Mach number is a dimensionless quantity rather than a unit of measure, with Mach, the number comes after the unit; the second Mach number is "Mach 2" instead of "2 Mach" (or Machs). This is somewhat reminiscent of the early modern ocean sounding unit "mark" (a synonym for fathom), which was also unit-first, and may have influenced the use of the term Mach. In the decade preceding faster-than-sound human flight, aeronautical engineers referred to the speed of sound as Mach's number, never "Mach 1."
+
+1. Overview
+
+The Mach number is commonly used with objects traveling at high speed in a fluid, and with high-speed fluid flows inside channels such as nozzles, diffusers or wind tunnels. As it is defined as a ratio of two speeds, it is a dimensionless number. At Standard Sea Level conditions (corresponding to a temperature of 15 degrees Celsius), the speed of sound is 340.3 m/s (1225 km/h, or 761.2 mph, or 661.5 knots, or 1116 ft/s) in the Earth's atmosphere. The speed represented by Mach 1 is not a constant; for example, it is mostly dependent on temperature.
+
+Since the speed of sound increases as the ambient temperature increases, the actual speed of an object traveling at Mach 1 will depend on the temperature of the fluid through which the object is passing. Mach number is useful because the fluid behaves in a similar manner at a given Mach number, regardless of other variables. So, an aircraft traveling at Mach 1 at 20°C (68°F) at sea level will experience shock waves just like an aircraft traveling at Mach 1 at 11,000 m (36,000 ft) altitude at −50°C (−58°F), even though the second aircraft is only traveling 86% as fast as the first.
+
+2. Classification of Mach regimes
+
+While the terms "subsonic" and "supersonic," in the purest sense, refer to speeds below and above the local speed of sound respectively, aerodynamicists often use the same terms to talk about particular ranges of Mach values. This occurs because of the presence of a "transonic regime" around M = 1 where approximations of the Navier-Stokes equations used for subsonic design actually no longer apply, the simplest explanation is that the flow locally begins to exceed M = 1 even though the freestream Mach number is below this value.
+
+Meanwhile, the "supersonic regime" is usually used to talk about the set of Mach numbers for which linearised theory may be used, where for example the (air) flow is not chemically reacting, and where heat-transfer between air and vehicle may be reasonably neglected in calculations.
+
+In the following table, the "regimes" or "ranges of Mach values" are referred to, and not the "pure" meanings of the words "subsonic" and "supersonic".
+
+Generally, NASA defines "high" hypersonic as any Mach number from 10 to 25, and re-entry speeds as anything greater than Mach 25. Aircraft operating in this regime include the Space Shuttle and various space planes in development.
+
+3. High-speed flow around objects
+
+Flight can be roughly classified in six categories:
+
+For comparison: the required speed for low Earth orbit is approximately 7.5 km/s = Mach 25.4 in air at high altitudes. The speed of light in a vacuum corresponds to a Mach number of approximately 881,000 (relative to air at sea level).
+
+At transonic speeds, the flow field around the object includes both sub- and supersonic parts. The transonic period begins when first zones of M > 1 flow appear around the object. In case of an airfoil (such as an aircraft's wing), this typically happens above the wing. Supersonic flow can decelerate back to subsonic only in a normal shock; this typically happens before the trailing edge. (Fig.1a)
+
+As the speed increases, the zone of M > 1 flow increases towards both leading and trailing edges. As M = 1 is reached and passed, the normal shock reaches the trailing edge and becomes a weak oblique shock: the flow decelerates over the shock, but remains supersonic. A normal shock is created ahead of the object, and the only subsonic zone in the flow field is a small area around the object's leading edge. (Fig.1b)
+
+Fig. 1. Mach number in transonic airflow around an airfoil; M < 1 (a) and M > 1 (b).
+
+When an aircraft exceeds Mach 1 (i.e. the sound barrier) a large pressure difference is created just in front of the aircraft. This abrupt pressure difference, called a shock wave, spreads backward and outward from the aircraft in a cone shape (a so-called Mach cone). It is this shock wave that causes the sonic boom heard as a fast moving aircraft travels overhead. A person inside the aircraft will not hear this. The higher the speed, the more narrow the cone; at just over M = 1 it is hardly a cone at all, but closer to a slightly concave plane.
+
+At fully supersonic speed, the shock wave starts to take its cone shape and flow is either completely supersonic, or (in case of a blunt object), only a very small subsonic flow area remains between the object's nose and the shock wave it creates ahead of itself. (In the case of a sharp object, there is no air between the nose and the shock wave: the shock wave starts from the nose.)
+
+As the Mach number increases, so does the strength of the shock wave and the Mach cone becomes increasingly narrow. As the fluid flow crosses the shock wave, its speed is reduced and temperature, pressure, and density increase. The stronger the shock, the greater the changes. At high enough Mach numbers the temperature increases so much over the shock that ionization and dissociation of gas molecules behind the shock wave begin. Such flows are called hypersonic.
+
+It is clear that any object traveling at hypersonic speeds will likewise be exposed to the same extreme temperatures as the gas behind the nose shock wave, and hence choice of heat-resistant materials becomes important.
+
+4. High-speed flow in a channel
+
+As a flow in a channel becomes supersonic, one significant change takes place. The conservation of mass flow rate leads one to expect that contracting the flow channel would increase the flow speed (i.e. making the channel narrower results in faster air flow) and at subsonic speeds this holds true. However, once the flow becomes supersonic, the relationship of flow area and speed is reversed: expanding the channel actually increases the speed.
+
+The obvious result is that in order to accelerate a flow to supersonic, one needs a convergent-divergent nozzle, where the converging section accelerates the flow to sonic speeds, and the diverging section continues the acceleration. Such nozzles are called de Laval nozzles and in extreme cases they are able to reach hypersonic speeds ( at 20°C).
+
+An aircraft Machmeter or electronic flight information system (EFIS) can display Mach number derived from stagnation pressure (pitot tube) and static pressure.
+
+5. Calculation
+
+The Mach number at which an aircraft is flying can be calculated by
+
+where:
+
+Note that the dynamic pressure can be found as:
+
+Assuming air to be an ideal gas, the formula to compute Mach number in a subsonic compressible flow is derived from Bernoulli's equation for M < 1:
+
+where:
+
+The formula to compute Mach number in a supersonic compressible flow is derived from the Rayleigh Supersonic Pitot equation:
+
+5.1. Calculating Mach Number from Pitot Tube Pressure
+
+At altitude, for reasons explained, Mach number is a function of temperature. Aircraft flight instruments, however, operate using pressure differential to compute Mach number, not temperature. The assumption is that a particular pressure represents a particular altitude and, therefore, a standard temperature. Aircraft flight instruments need to operate this way because the stagnation pressure sensed by a Pitot tube is dependent on altitude as well as speed.
+
+Assuming air to be an ideal gas, the formula to compute Mach number in a subsonic compressible flow is found from Bernoulli's equation for M < 1 (above):
+
+The formula to compute Mach number in a supersonic compressible flow can be found from the Rayleigh Supersonic Pitot equation (above) using parameters for air:
+
+where:
+
+As can be seen, M appears on both sides of the equation. The easiest method to solve the supersonic M calculation is to enter both the subsonic and supersonic equations into a computer spreadsheet such as Microsoft Excel, OpenOffice.org Calc, or some equivalent program to solve it numerically. It is first determined whether M is indeed greater than 1.0 by calculating M from the subsonic equation. If M is greater than 1.0 at that point, then the value of M from the subsonic equation is used as the initial condition in the supersonic equation. Then a simple iteration of the supersonic equation is performed, each time using the last computed value of M, until M converges to a value—usually in just a few iterations. Alternatively, Newton's method can also be used.
+
+6. See also
+
+Critical Mach number
+
+Machmeter
+
+Ramjet
+
+Scramjet
+
+Speed of sound
+
+True airspeed
+
+7. Notes
+
+8. External links
+
+Calculate Mach number and normal shock wave parameters for mixtures of perfect and imperfect gases.
+
+Interactive calculator for Mach number.
+
+FDTD with no units.

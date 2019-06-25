@@ -1,0 +1,215 @@
+A wheel is a circular component that is intended to rotate on an axial bearing. The wheel is one of the main components of the wheel and axle which is one of the six simple machines. Wheels, in conjunction with axles, allow heavy objects to be moved easily facilitating movement or transportation while supporting a load, or performing labor in machines. Wheels are also used for other purposes, such as a ship's wheel, steering wheel, potter's wheel and flywheel.
+
+Common examples are found in transport applications. A wheel greatly reduces friction by facilitating motion by rolling together with the use of axles. In order for wheels to rotate, a moment needs to be applied to the wheel about its axis, either by way of gravity, or by the application of another external force or torque.
+
+1. Etymology
+
+The English word wheel comes from the Old English word hweol, hweogol, from Proto-Germanic , from Proto-Indo-European , an extended form of the root "to revolve, move around". Cognates within Indo-European include Icelandic hjól "wheel, tyre", Greek kúklos, and Sanskrit , the latter both meaning "circle" or "wheel".
+
+2. History
+
+Evidence of wheeled vehicles appears from the second half of the 4th millennium BC, near-simultaneously in Mesopotamia (Sumerian civilization), the Northern Caucasus (Maykop culture) and Central Europe, so that the question of which culture originally invented the wheeled vehicle is still unsolved.
+
+The earliest well-dated depiction of a wheeled vehicle (here a wagon—four wheels, two axles) is on the Bronocice pot, a c. 3500 – 3350 BC clay pot excavated in a Funnelbeaker culture settlement in southern Poland.
+
+The oldest securely dated real wheel-axle combination, that from Stare Gmajne near Ljubljana in Slovenia (Ljubljana Marshes Wooden Wheel) is now dated in 2σ-limits to 3340-3030 cal BC, the axle to 3360-3045 cal BC
+
+In China, the wheel was certainly present with the adoption of the chariot in c. 1200 BC, although Barbieri-Low argues for earlier Chinese wheeled vehicles, c. 2000 BC.
+
+Although they did not develop the wheel proper, the Olmec and certain other western hemisphere cultures seem to have approached it, as wheel-like worked stones have been found on objects identified as children's toys dating to about 1500 BC. It is thought that the primary obstacle to large-scale development of the wheel in the Western hemisphere was the absence of domesticated large animals which could be used to pull wheeled carriages. The closest relative of cattle present in Americas in pre-Columbian times, the American Bison, is difficult to domesticate and was never domesticated by Native Americans; several horse species existed until about 12,000 years ago, but ultimately went extinct. The only large animal that was domesticated in the Western hemisphere, the llama, did not spread far beyond the Andes by the time of the arrival of Columbus.
+
+Nubians from after about 400 BC used wheels for spinning pottery and as water wheels. It is thought that Nubian waterwheels may have been ox-driven It is also known that Nubians used horse-drawn chariots imported from Egypt.
+
+The wheel was barely used, with the exception of Ethiopia and Somalia, in Sub-Saharan Africa well into the 19th century but this changed with the arrival of the Europeans.
+
+The invention of the wheel thus falls in the late Neolithic, and may be seen in conjunction with other technological advances that gave rise to the early Bronze Age. Note that this implies the passage of several wheel-less millennia even after the invention of agriculture and of pottery:
+
+9500–6500 BC: Aceramic Neolithic
+
+6500–4500 BC: Ceramic Neolithic (Halafian), earliest wooden wheels (disks with a hole for the axle)
+
+c. 4500 BC: invention of the potter's wheel, beginning of the Chalcolithic (Ubaid period)
+
+4500–3300 BC: Chalcolithic, earliest wheeled vehicles, domestication of the horse
+
+3300–2200 BC: Early Bronze Age
+
+2200–1550 BC: Middle Bronze Age, invention of the spoked wheel and the chariot Early wheels were simple wooden disks with a hole for the axle. Because of the structure of wood, a horizontal slice of a tree trunk is not suitable, as it does not have the structural strength to support relevant stresses without failing; rounded pieces of longitudinal boards are required.
+
+The spoked wheel was invented more recently, and allowed the construction of lighter and swifter vehicles. In the Harappan civilization of the Indus Valley and Northwestern India, we find toy-cart wheels made of clay with lines which have been interpreted as spokes painted or in relief, and a symbol interpreted as a spoked wheel in the script of the seals, already in the second half of the 3rd millennium BC. The earliest known examples of wooden spoked wheels are in the context of the Andronovo culture, dating to c. 2000 BC. Soon after this, horse cultures of the Caucasus region used horse-drawn spoked-wheel war chariots for the greater part of three centuries. They moved deep into the Greek peninsula where they joined with the existing Mediterranean peoples to give rise, eventually, to classical Greece after the breaking of Minoan dominance and consolidations led by pre-classical Sparta and Athens. Celtic chariots introduced an iron rim around the wheel in the 1st millennium BC. The spoked wheel was in continued use without major modification until the 1870s, when wire wheels and pneumatic tires were invented.
+
+The invention of the wheel has also been important for technology in general, important applications including the water wheel, the cogwheel (see also antikythera mechanism), the spinning wheel, and the astrolabe or torquetum. More modern descendants of the wheel include the propeller, the jet engine, the flywheel (gyroscope) and the turbine.
+
+3. Mechanics and function
+
+The wheel is a device that enables efficient movement of an object across a surface where there is a force pressing the object to the surface. Common examples are a cart pulled by a horse, and the rollers on an aircraft flap mechanism.
+
+Wheels are used in conjunction with axles; either the wheel turns on the axle, or the axle turns in the object body. The mechanics are the same in either case.
+
+The low resistance to motion (compared to dragging) is explained as follows (refer to friction):
+
+the normal force at the sliding interface is the same.
+
+the sliding distance is reduced for a given distance of travel.
+
+the coefficient of friction at the interface is usually lower. Bearings are used to help reduce friction at the interface. In the simplest and oldest case the bearing is just a round hole through which the axle passes (a "plain bearing").
+
+Example:
+
+If a 100 kg object is dragged for 10 m along a surface with the coefficient of friction μ = 0.5, the normal force is 981 N and the work done (required energy) is (work=force x distance) 981 × 0.5 × 10 = 4905 joules.
+
+Now give the object 4 wheels. The normal force between the 4 wheels and axles is the same (in total) 981 N. Assume, for wood, μ = 0.25, and say the wheel diameter is 1000 mm and axle diameter is 50 mm. So while the object still moves 10 m the sliding frictional surfaces only slide over each other a distance of 0.5 m. The work done is 981 × 0.25 × 0.5 = 123 joules; the work done has reduced to 1/40 of that of dragging. Additional energy is lost from the wheel-to-road interface. This is termed rolling resistance which is predominantly a deformation loss. This energy is also lowered by the use of a wheel (in comparison to dragging) because the net force on the contact point between the road and the wheel is almost perpendicular to the ground, and hence, generates an almost zero net work. This depends on the nature of the ground, of the material of the wheel, its inflation in the case of a tire, the net torque exerted by the eventual engine, and many other factors.
+
+A wheel can also offer advantages in traversing irregular surfaces if the wheel radius is sufficiently large compared to the irregularities.
+
+The wheel alone is not a machine, but when attached to an axle in conjunction with bearing, it forms the wheel and axle, one of the simple machines. A driven wheel is an example of a wheel and axle. Note that wheels pre-date driven wheels by about 6000 years, themselves an evolution of using round logs as rollers to move a heavy load -- a practice going back in pre-history so far, it has not been dated.
+
+4. Construction
+
+4.1. Rim
+
+The rim is the "outer edge of a wheel, holding the tire." It makes up the outer circular design of the wheel on which the inside edge of the tire is mounted on vehicles such as automobiles. For example, on a bicycle wheel the rim is a large hoop attached to the outer ends of the spokes of the wheel that holds the tire and tube.
+
+In the 1st millennium BC an iron rim was introduced around the wooden wheels of chariots.
+
+4.2. Hub
+
+The hub is the center of the wheel, and typically houses a bearing, and is where the spokes meet.
+
+A hubless wheel (also known as a rim-rider or centerless wheel) is a type of wheel with no center hub. More specifically, the hub is actually almost as big as the wheel itself. The axle is hollow, following the wheel at very close tolerances.
+
+4.3. Spokes
+
+A spoke is one of some number of rods radiating from the center of a wheel (the hub where the axle connects), connecting the hub with the round traction surface. The term originally referred to portions of a log which had been split lengthwise into four or six sections. The radial members of a wagon wheel were made by carving a spoke (from a log) into their finished shape. A spokeshave is a tool originally developed for this purpose. Eventually, the term spoke was more commonly applied to the finished product of the wheelwright's work, than to the materials he used.
+
+4.3.1. Wire
+
+The rims of wire wheels (or "wire spoked wheels") are connected to their hubs by wire spokes. Although these wires are generally stiffer than a typical wire rope, they function mechanically the same as tensioned flexible wires, keeping the rim true while supporting applied loads.
+
+Wire wheels are used on most bicycles and still used on many motorcycles. They were invented by aeronautical engineer George Cayley and first used in bicycles by James Starley. A process of assembling wire wheels is described as wheelbuilding.
+
+4.4. Tyre
+
+A tyre (in some Commonwealth Nations such as UK, India, and Australia) or tire (in American English and Canadian English) is a ring-shaped covering that fits around a wheel rim to protect it and enable better vehicle performance by providing a flexible cushion that absorbs shock while keeping the wheel in close contact with the ground. The word itself may be derived from the word "tie," which refers to the outer steel ring part of a wooden cart wheel that ties the wood segments together (see Etymology below).
+
+The fundamental materials of modern tyres are synthetic rubber, natural rubber, fabric and wire, along with other compound chemicals. They consist of a tread and a body. The tread provides traction while the body ensures support. Before rubber was invented, the first versions of tyres were simply bands of metal that fitted around wooden wheels to prevent wear and tear. Today, the vast majority of tyres are pneumatic inflatable structures, comprising a doughnut-shaped body of cords and wires encased in rubber and generally filled with compressed air to form an inflatable cushion. Pneumatic tyres are used on many types of vehicles, such as cars, bicycles, motorcycles, trucks, earthmovers, and aircraft.
+
+4.5. Trywheel
+
+A trywheel is an arrangement of three wheels mounted on a y-shaped frame for the purpose of passing over stairs or rough ground. these may be driven by external force or integral motors
+
+5. Alternatives
+
+While wheels are very widely used for ground transport, there are alternatives, some of which are suitable for terrain where wheels are ineffective. Alternative methods for ground transport without wheels include:
+
+Electromagnetic maglev trains
+
+Sled or travois
+
+Hovercraft
+
+A walking machine
+
+Caterpillar tracks (although it is still operated by wheels)
+
+Pedrail wheels, using aspects of both wheel and caterpillar track
+
+Spheres, as used by Dyson vacuum cleaners and hamster balls
+
+Screw-propelled vehicle
+
+6. Symbolism
+
+The wheel has also become a strong cultural and spiritual metaphor for a cycle or regular repetition (see chakra, reincarnation, Yin and Yang among others). As such and because of the difficult terrain, wheeled vehicles were forbidden in old Tibet. The wheel in ancient China is seen as a symbol of health and strength and utilized by some villages as a tool to predict future health and success. The diameter of the wheel is indicator of one's future health.
+
+The winged wheel is a symbol of progress, seen in many contexts including the coat of arms of Panama and the logo of the Ohio State Highway Patrol.
+
+The introduction of spoked (chariot) wheels in the Middle Bronze Age appears to have carried somewhat of a prestige. The sun cross appears to have a significance in Bronze Age religion, replacing the earlier concept of a Solar barge with the more "modern" and technologically advanced solar chariot.
+
+The wheel was also a solar symbol for the Ancient Egyptians.
+
+The wheel is also the prominent figure on the flag of India. The wheel in this case represents law (dharma). It also appears in the flag of the Romani people, hinting to their nomadic history and their Indian origins.
+
+File:|The flag of India|alt=A flag divided into three horizontal stripes that are orange on top, white in the middle, and green on bottom. In the center of the flag is a blue wheel. File:|The Romani flag|alt=A flag divided into two horizontal stripes: blue on top, and green on bottom. A red wheel is in the center of the flag. File:|The flag of Mahl Kshatriyas|alt=An orange flag with a white triangle with its base stretching the width of the right side of the flag and its apex protruding about a third of the way into the flag. On the left side is a white vertical stripe taking up less than a fourth of the flag, containing two crossing sabres and a red wheel above them.
+
+7. See also
+
+Alloy wheel
+
+Artillery wheel
+
+Axle
+
+Bicycle wheel
+
+Big wheel
+
+Breaking wheel, a form of torture
+
+Caster
+
+Compact disc
+
+Color wheel
+
+Pressed Steel wheel
+
+Driving wheel
+
+Ferris wheel
+
+The Horse, The Wheel and Language (book)
+
+Hubless wheel
+
+Magnetic levitation
+
+Mansell wheel
+
+Mecanum wheel
+
+Omni wheel
+
+Reinventing the wheel
+
+Rim
+
+Rolling resistance, r. friction, r. drag
+
+Rotating locomotion in living systems
+
+Ship's wheel
+
+Simple machine
+
+Snow chains
+
+Square wheel
+
+Steering wheel
+
+Terrestrial locomotion in animals: Rolling
+
+Tire
+
+Tweel
+
+Wagon-wheel effect
+
+Wheelbarrow
+
+Wheel and axle
+
+Wheel sizing
+
+Wire wheels
+
+Wheel of Fortune
+
+Wheelset (rail transport)
+
+8. References
+
+9. External links
+
+. Virtual exhibition. City Museum of Ljubljana. Accessed 31 January 2012.

@@ -1,0 +1,101 @@
+A transient ischemic attack (TIA) is a transient episode of neurologic dysfunction caused by ischemia (loss of blood flow) – either focal brain, spinal cord, or retinal – without acute infarction (tissue death). TIAs have the same underlying cause as strokes: a disruption of cerebral blood flow (CBF), and are often referred to as mini-strokes. This is different from the definition of TIA used before 2009, which was based on the temporal, arbitrary time point of < 24 hours of associated neurological symptoms. TIAs cause the same symptoms associated with stroke, such as contralateral paralysis (opposite side of body from affected brain hemisphere) or sudden weakness or numbness. A TIA may cause sudden dimming or loss of vision (amaurosis fugax), aphasia, slurred speech (dysarthria) and mental confusion. But unlike a stroke, the symptoms of a TIA can resolve within a few minutes or 24 hours. Brain injury may still occur in a TIA lasting only a few minutes. Having a TIA is a risk factor for eventually having a stroke or a silent stroke.
+
+A silent stroke or silent cerebral infarct (SCI) differs from a TIA in that there are no immediately observable symptoms. An SCI may still cause long lasting neurological dysfunction affecting such areas as mood, personality and cognition. An SCI often occurs before or after a TIA or major stroke.
+
+A cerebral infarct that lasts longer than 24 hours but fewer than 72 hours is called a reversible ischemic neurologic deficit or RIND.
+
+1. Signs and symptoms
+
+Symptoms can vary widely from person to person, depending on the area of the brain involved. The most frequent symptoms include temporary loss of vision (typically amaurosis fugax); difficulty speaking (aphasia); weakness on one side of the body (hemiparesis); and numbness or tingling (paresthesia), usually on one side of the body. Impairment of consciousness is very uncommon. There have been cases of temporary and partial paralysis affecting the face and tongue of the afflicted. The symptoms of a TIA are short-lived and usually last a few seconds to a few minutes and most symptoms disappear within 60 minutes. Some individuals may have a lingering feeling that something odd happened to the body. Dizziness, lack of coordination or poor balance are also symptoms related to TIA. Symptoms vary in severity.
+
+2. Causes
+
+The most common cause of a TIA is an embolus that occludes an artery in the brain. This usually arises from a dislodged atherosclerotic plaque in one of the carotid arteries (i.e. two of the four major arteries supplying the brain) or from the vertebral-basilar arteries. Another common cause is from a thrombus (i.e. a blood clot) that has originated from the (usually left) atrium of the heart due to atrial fibrillation. In a TIA, the blockage period is very short-lived and hence there is no permanent damage. The cholesterol build-up is gradual and eventually narrows the lumen. With time, blood flow to that side of the brain is reduced and a stroke may occur as a result. In other cases, cholesterol particles from the atherosclerotic plaque may suddenly break off and enter the brain. In some people, these fragments come off from the heart and go to the brain. This often happens during a heart attack or an infection of the valves.
+
+Other reasons include excessive narrowing of large vessels resulting from an atherosclerotic plaque and increased blood viscosity caused by some blood diseases. TIA is related to other medical conditions such as hypertension, heart disease (especially atrial fibrillation), migraine, hypercholesterolemia, and diabetes mellitus.
+
+2.1. Risk factors
+
+Family history of stroke or TIA substantially increases risk.
+
+People 55 years or older are at higher risk.
+
+Males have a slightly higher risk of TIA than females but females are more likely to die from a stroke.
+
+High blood pressure
+
+Diabetes Mellitus
+
+Tobacco smoking
+
+3. Diagnosis
+
+TIA will usually be diagnosed after a doctor performs a history and a physical exam. There are several radiological tests that are done to evaluate patients who have had a TIA. These include a CT scan or an MRI of the brain, ultrasound of the neck, or an echocardiogram of the heart. In most cases, the source of atherosclerosis is usually identified with an ultrasound.
+
+3.1. Differential diagnoses
+
+Other diagnoses may have symptoms similar to those of a TIA:
+
+Atypical migraine if visual symptoms occur such as the perception of wavy or jagged lines or tiny specks of light and if a headache occurs. Typically a history of prior migraines is present.
+
+Partial seizure in the parietal area of the brain
+
+Glucose abnormalities; these could be distinguished by a history of diabetes mellitus and a loss of consciousness
+
+Electrolyte abnormalities
+
+Hypertensive encephalopathy (headache, delirium, hypertension, cerebral edema)
+
+Subdural hematoma (history of trauma, headache, loss of consciousness)
+
+Brain tumor (mode of onset, progressive headaches, increased intracranial pressure)
+
+Demyelinating disease
+
+Conversion disorder
+
+4. Prevention
+
+A TIA may be prevented by changes in lifestyle; although most of these recommendations have no solid empirical data, most medical professionals believe them to be so. These include:
+
+Avoiding smoking
+
+Cutting down on fats to help reduce the amount of plaque build up
+
+Eating a healthy diet including plenty of fruits and vegetables
+
+Limiting sodium in the diet, thereby reducing blood pressure
+
+Exercising regularly
+
+Moderating alcohol intake
+
+Maintaining a healthy weight
+
+Controlling blood pressure and blood sugars
+
+5. Treatment and management
+
+The mainstay of the treatment following acute recovery from a TIA depends on the underlying cause. It is not always immediately possible to tell the difference between a CVA (stroke) and a TIA. Most patients who are diagnosed at a hospital's emergency department as having suffered from a TIA will be admitted to the hospital if it is their first TIA, for telemetry, blood pressure monitoring and other specific tests. If it is a second or subsequent TIA, most patients will be discharged home and advised to contact their primary physician to organize further investigations. A TIA can be considered as the last warning. The reason for the condition should be immediately examined by imaging of the brain. Occasionally, none of these tests will determine the cause, but the symptoms show that the stroke did occur. Actually TIA is a form of stroke in nature.
+
+To reduce risk of recurrence, patients are recommended to undergo lifestyle changes including quitting smoking, losing weight, eating more fruits and vegetables and exercising regularly.
+
+5.1. Surgery
+
+If the TIA affects an area that is supplied by the carotid arteries, an ultrasound (TCD) scan may demonstrate carotid stenosis. For people with a greater than 70% stenosis within the carotid artery, removal of atherosclerotic plaque by surgery, specifically a carotid endarterectomy, may be recommended. The blood vessel is opened up and the plaque is removed. The carotid may be replaced with a vessel retrieved from the lower leg or foot. The procedure is not technically difficult but carries the potential complication of inducing a stroke. A stroke can occur during surgery or after the procedure. The chance of a stroke ranges from 1–4 percent.
+
+Some patients may also be given modified-release dipyridamole or clopidogrel.
+
+5.2. Medication
+
+The use of anti-coagulant medications, heparin and warfarin, or anti-platelet medications such as aspirin may be warranted. Antiplatelet drugs prevent platelets from agglutinating or sticking to each other, hence the term "blood thinner." The initial treatment is aspirin, second line is clopidogrel (PLAVIX), third line is ticlopidine. If TIA is recurrent after aspirin treatment, the combination of aspirin and dipyridamole is needed (Aggrenox).
+
+Thinning the blood helps to ensure that small particles do not form and travel to the brain. These drugs require frequent monitoring. These drugs also have side effects such as easy bruising and bleeding from mild trauma.
+
+An electrocardiogram (ECG) may show atrial fibrillation, a common cause of TIAs, or other arrhythmias that may cause embolisation to the brain. An echocardiogram is useful in detecting thrombus within the heart chambers. Such patients benefit from anticoagulation.
+
+6. Prognosis
+
+People diagnosed with TIA are sometimes said to have had a warning for an approaching stroke. If the time period of blood supply impairment lasts more than a few minutes, the nerve cells of that area of the brain die and cause permanent neurologic damage. One third of the people with TIA later have recurrent TIAs and one third have a stroke because of permanent nerve cell loss. Other sources cite that 10% of TIAs will develop stroke within 90 days, half of which will occur in the first two days following the TIA. The risk of a stroke occurring after a TIA can be predicted using the ABCD² score.
+
+7. References

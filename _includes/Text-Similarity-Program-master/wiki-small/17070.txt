@@ -1,0 +1,223 @@
+In physics, Kaluza–Klein theory (KK theory) is a unified field theory of gravitation and electromagnetism built around the idea of a fifth dimension beyond the usual 4 of space and time. The five-dimensional theory was developed in three steps. The original hypothesis came from Theodor Kaluza, who sent his results to Einstein in 1919, and published them in 1921. Kaluza's theory was a purely classical extension of general relativity to five dimensions. The 5-dimensional metric has 15 components. 10 components are identified with the 4-dimensional spacetime metric, 4 components with the electromagnetic vector potential, and one component with an unidentified scalar field sometimes called the "radion" or the "dilaton". Correspondingly, the 5-dimensional Einstein equations yield the 4-dimensional Einstein field equations, the Maxwell equations for the electromagnetic field, and an equation for the scalar field. Kaluza also introduced the hypothesis known as the "cylinder condition", that no component of the 5-dimensional metric depends on the fifth dimension. Without this assumption, the field equations of 5-dimensional relativity are enormously more complex. Standard 4-dimensional physics seems to manifest the cylinder condition. Kaluza also set the scalar field equal to a constant, in which case standard general relativity and electrodynamics are recovered identically.
+
+In 1926, Oskar Klein gave Kaluza's classical 5-dimensional theory a quantum interpretation, to accord with the then-recent discoveries of Heisenberg and Schroedinger. Klein introduced the hypothesis that the fifth dimension was curled up and microscopic, to explain the cylinder condition. Klein also calculated a scale for the fifth dimension based on the quantum of charge.
+
+It wasn't until the 1940s that the classical theory was completed, and the full field equations including the scalar field were obtained by three independent research groups: Thiry, working in France on his dissertation under Lichnerowicz; Jordan, Ludwig, and Müller in Germany, with critical input from Pauli and Fierz; and Scherrer working alone in Switzerland. Jordan's work led to the scalar-tensor theory of Brans & Dicke; Brans and Dicke were apparently unaware of Thiry or Scherrer. The full Kaluza equations under the cylinder condition are quite complex, and most English-language reviews as well as the English translations of Thiry contain some errors. The complete Kaluza equations were recently evaluated using tensor algebra software.
+
+1. The Kaluza Hypothesis
+
+In his 1921 paper, Kaluza established all the elements of the classical 5-dimensional theory: the metric, the field equations, the equations of motion, the stress-energy tensor, and the cylinder condition. The theory has no free parameters; it merely extends general relativity to five dimensions. One starts by hypothesizing a form of the 5-dimensional metric , where roman indices span 5 dimensions. Let us also introduce the 4-dimensional spacetime metric , where Greek indices span the usual 4 dimensions of space and time; a 4-vector which will be identified with the electromagnetic vector potential; and a scalar field . Then decompose the 5D metric so that the 4D metric is framed by the electromagnetic vector potential, with the scalar field at the fifth diagonal. This can be visualized as:
+
+More precisely, we can write
+
+where the index indicates the fifth coordinate by convention even though the first four coordinates are indexed with 0, 1, 2, and 3. The associated inverse metric is
+
+So far, this decomposition is quite general and all terms are dimensionless. Kaluza then applies the machinery of standard general relativity to this metric. The field equations are obtained from 5-dimensional Einstein equations, and the equations of motion are obtained from the 5-dimensional geodesic hypothesis. The resulting field equations provide both the equations of general relativity and of electrodynamics; the equations of motion provide the 4-dimensional geodesic equation and the Lorentz force law. And one finds that electric charge is identified with motion in the fifth dimension.
+
+The hypothesis for the metric implies an invariant 5-dimensional length element :
+
+2. Field Equations from the Kaluza Hypothesis
+
+The field equations of the 5-dimensional theory were never adequately provided by Kaluza or Klein, mainly regarding the scalar field. The full Kaluza field equations are generally attributed to Thiry, who most famously obtained vacuum field equations, although Kaluza originally provided a stress-energy tensor for his theory and Thiry included a stress-energy tensor in his thesis. But as described by Gonner, several independent groups worked on the field equations in the 1940s and earlier. Thiry is perhaps best known only because an English translation was provided by Applequist, Chodos, & Freund in their review book. Applequist et al. also provided an English translation of Kaluza's paper. There are no English translations of the Jordan papers.
+
+To obtain the 5D field equations, the 5D connections are calculated from the 5D metric , and the 5D Ricci tensor is calculated from the 5D connections.
+
+The classic results of Thiry and other authors presume the cylinder condition:
+
+Without this assumption, the field equations become much more complex, providing many more degrees of freedom that can be identified with various new fields. Paul Wesson and colleagues have pursued relaxation of the cylinder condition to gain extra terms that can be identified with the matter fields, for which Kaluza otherwise inserted a stress-energy tensor by hand.
+
+It has been an objection to the original Kaluza hypothesis to invoke the fifth dimension only to negate its dynamics. But Thiry argued that the interpretation of the Lorentz force law in terms of a 5-dimensional geodesic mitigates strongly for a fifth dimension irrespective of the cylinder condition. Most authors have therefore employed the cylinder condition in deriving the field equations. Furthermore, vacuum equations are typically assumed for which
+
+where
+
+and
+
+The vacuum field equations obtained in this way by Thiry and Jordan's group are as follows.
+
+The field equation for is obtained from
+
+where , where , and where is a standard, 4D covariant derivative. It shows that the electromagnetic field is a source for the scalar field. Note that the scalar field cannot be set to a constant without constraining the electromagnetic field. The earlier treatments by Kaluza and Klein did not have an adequate description of the scalar field, and did not realize the implied constraint on the electromagnetic field by assuming the scalar field to be constant.
+
+The field equation for is obtained from
+
+It has the form of the vacuum Maxwell equations if the scalar field is constant.
+
+The field equation for the 4D Ricci tensor is obtained from
+
+where is the standard 4D Ricci scalar.
+
+This equation shows the remarkable result, called the "Kaluza miracle", that the precise form for the electromagnetic stress-energy tensor emerges from the 5D vacuum equations as a source in the 4D equations: field from the vacuum. This relation allows the definitive identification of with the electromagnetic vector potential. Therefore the field needs to be rescaled with a conversion constant such that .
+
+The relation above shows that we must have
+
+where is the gravitational constant and is the permeability of free space. In the Kaluza theory, the gravitational constant can be understood as an electromagnetic coupling constant in the metric. There is also a stress-energy tensor for the scalar field. The scalar field behaves like a variable gravitational constant, in terms of modulating the coupling of electromagnetic stress energy to spacetime curvature. The sign of in the metric is fixed by correspondence with 4D theory so that electromagnetic energy densities are positive. This turns out to imply that the 5th coordinate is spacelike in its signature in the metric.
+
+In the presence of matter, the 5D vacuum condition can not be assumed. Indeed, Kaluza did not assume it. The full field equations require evaluation of the 5D Einstein tensor
+
+as seen in the recovery of the electromagnetic stress-energy tensor above. The 5D curvature tensors are complex, and most English-language reviews contain errors in either or , as does the English translation of. See for a complete set of 5D curvature tensors under the cylinder condition, evaulated using tensor algebra software.
+
+3. Equations of Motion from the Kaluza Hypothesis
+
+The equations of motion are obtained from the 5-dimensional geodesic hypothesis in terms of a 5-velocity :
+
+This equation can be recast in several ways, and it has been studied in various forms by authors including Kaluza, Pauli, Gross & Perry, Gegenberg & Kunstatter, and Wesson & Ponce de Leon, but it is instructive to convert it back to the usual 4-dimensional length element , which is related to the 5-dimensional length element as given above:
+
+Then the 5D geodesic equation can be written for the spacetime components of the 4velocity, :
+
+The term quadratic in provides the 4D geodesic equation plus some electromagnetic terms:
+
+The term linear in provides the Lorentz force law:
+
+This is another expression of the "Kaluza miracle". The same hypothesis for the 5D metric that provides electromagnetic stress-energy in the Einstein equations, also provides the Lorentz force law in the equation of motions along with the 4D geodesic equation. Yet correspondence with the Lorentz force law requires that we identify the component of 5-velocity along the 5th dimension with electric charge:
+
+where is particle mass and is particle electric charge. Thus, electric charge is understood as motion along the 5th dimension. The fact that the Lorentz force law could be understood as a geodesic in 5 dimensions was to Kaluza a primary motivation for considering the 5-dimensional hypothesis, even in the presence of the aesthetically-unpleasing cylinder condition.
+
+Yet there is a problem: the term quadratic in .
+
+If there is no gradient in the scalar field, the term quadratic in vanishes. But otherwise the expression above implies
+
+For elementary particles, . The term quadratic in should dominate the equation, perhaps in contradiction to experience. This was the main shortfall of the 5-dimensional theory as Kaluza saw it, and he gives it some discussion in his original article.
+
+The equation of motion for is particularly simple under the cylinder condition. Start with the alternate form of the geodesic equation, written for the covariant 5-velocity:
+
+This means that under the cylinder condition, is a constant of the 5-dimensional motion:
+
+4. Kaluza's Hypothesis for the Matter Stress-Energy Tensor
+
+Kaluza proposed a 5D matter stress tensor of the form
+
+where is a density and the length element is as defined above.
+
+Then, the spacetime component gives a typical "dust" stress energy tensor:
+
+The mixed component provides a 4-current source for the Maxwell equations:
+
+Just as the 5-dimensional metric comprises the 4-D metric framed by the electromagnetic vector potential, the 5-dimensional stress-energy tensor comprises the 4-D stress-energy tensor framed by the vector 4-current.
+
+5. The Quantum Interpretation of Klein
+
+Kaluza's original hypothesis was purely classical and extended discoveries of general relativity. By the time of Klein's contribution, the discoveries of Heisenberg, Schroedinger, and de Broglie were receiving a lot of attention. Klein's Nature paper suggested that the fifth dimension is closed and periodic, and that the identification of electric charge with motion in the fifth dimension be interpreted as standing waves of wavelength , much like the electrons around a nucleus in the Bohr model of the atom. The quantization of electric charge could then be nicely understood in terms of integer multiples of fifth-dimensional momentum. Combining the previous Kaluza result for in terms of electric charge, and a de Broglie relation for momentum , Klein obtained an expression for the 0th mode of such waves:
+
+where is the Planck constant. Klein found cm, and thereby an explanation for the cylinder condition in this small value.
+
+Klein's Zeitschrift ür Physik paper of the same year, gave a more-detailed treatment that explicitly invoked the techniques of Schroedinger and de Broglie. It recapitulated much of the classical theory of Kaluza described above, and then departed into Klein's quantum interpretation. Klein solved a Schroedinger-like wave equation using an expansion in terms of fifth-dimensional waves resonating in the closed, compact fifth dimension.
+
+6. Quantum Field Theory Interpretation
+
+7. Group Theory Interpretation
+
+A splitting of five-dimensional spacetime into the Einstein equations and Maxwell equations in four dimensions was first discovered by Gunnar Nordström in 1914, in the context of his theory of gravity, but subsequently forgotten. Kaluza published his derivation in 1921 as an attempt to unify electromagnetism with Einstein's general relativity.
+
+In 1926, Oskar Klein proposed that the fourth spatial dimension is curled up in a circle of a very small radius, so that a particle moving a short distance along that axis would return to where it began. The distance a particle can travel before reaching its initial position is said to be the size of the dimension. This extra dimension is a compact set, and the phenomenon of having a space-time with compact dimensions is referred to as compactification.
+
+In modern geometry, the extra fifth dimension can be understood to be the circle group U(1), as electromagnetism can essentially be formulated as a gauge theory on a fiber bundle, the circle bundle, with gauge group U(1). In Kaluza–Klein theory this group suggests that gauge symmetry is the symmetry of circular compact dimensions. Once this geometrical interpretation is understood, it is relatively straightforward to replace U(1) by a general Lie group. Such generalizations are often called Yang–Mills theories. If a distinction is drawn, then it is that Yang–Mills theories occur on a flat space-time, whereas Kaluza–Klein treats the more general case of curved spacetime. The base space of Kaluza–Klein theory need not be four-dimensional space-time; it can be any (pseudo-)Riemannian manifold, or even a supersymmetric manifold or orbifold or even a noncommutative space.
+
+As an approach to the unification of the forces, it is straightforward to apply the Kaluza–Klein theory in an attempt to unify gravity with the strong and electroweak forces by using the symmetry group of the Standard Model, SU(3) × SU(2) × U(1). However, an attempt to convert this interesting geometrical construction into a bona-fide model of reality flounders on a number of issues, including the fact that the fermions must be introduced in an artificial way (in nonsupersymmetric models). Nonetheless, KK remains an important touchstone in theoretical physics and is often embedded in more sophisticated theories. It is studied in its own right as an object of geometric interest in K-theory.
+
+Even in the absence of a completely satisfying theoretical physics framework, the idea of exploring extra, compactified, dimensions is of considerable interest in the experimental physics and astrophysics communities. A variety of predictions, with real experimental consequences, can be made (in the case of large extra dimensions/warped models). For example, on the simplest of principles, one might expect to have standing waves in the extra compactified dimension(s). If a spatial extra dimension is of radius R, the invariant mass of such standing waves would be Mn = nh/Rc with n an integer, h being Planck's constant and c the speed of light. This set of possible mass values is often called the Kaluza–Klein tower. Similarly, in Thermal quantum field theory a compactification of the euclidean time dimension leads to the Matsubara frequencies and thus to a discretized thermal energy spectrum.
+
+Examples of experimental pursuits include work by the CDF collaboration, which has re-analyzed particle collider data for the signature of effects associated with large extra dimensions/warped models.
+
+Brandenberger and Vafa have speculated that in the early universe, cosmic inflation causes three of the space dimensions to expand to cosmological size while the remaining dimensions of space remained microscopic.
+
+8. Space-time-matter theory
+
+One particular variant of Kaluza–Klein theory is space-time-matter theory or induced matter theory, chiefly promulgated by Paul Wesson and other members of the so-called Space-Time-Matter Consortium. In this version of the theory, it is noted that solutions to the equation
+
+may be re-expressed so that in four dimensions, these solutions satisfy Einstein's equations
+
+with the precise form of the Tμν following from the Ricci-flat condition on the five-dimensional space. In other words, the cylinder condition of the previous development is dropped, and the stress-energy now comes from the derivatives of the 5D metric with respect to the fifth coordinate. Since the energy–momentum tensor is normally understood to be due to concentrations of matter in four-dimensional space, the above result is interpreted as saying that four-dimensional matter is induced from geometry in five-dimensional space.
+
+In particular, the soliton solutions of can be shown to contain the Friedmann–Lemaître–Robertson–Walker metric in both radiation-dominated (early universe) and matter-dominated (later universe) forms. The general equations can be shown to be sufficiently consistent with classical tests of general relativity to be acceptable on physical principles, while still leaving considerable freedom to also provide interesting cosmological models.
+
+9. Geometric interpretation
+
+The Kaluza–Klein theory is striking because it has a particularly elegant presentation in terms of geometry. In a certain sense, it looks just like ordinary gravity in free space, except that it is phrased in five dimensions instead of four.
+
+9.1. The Einstein equations
+
+The equations governing ordinary gravity in free space can be obtained from an action, by applying the variational principle to a certain action. Let M be a (pseudo-)Riemannian manifold, which may be taken as the spacetime of general relativity. If g is the metric on this manifold, one defines the action S(g) as
+
+where R(g) is the scalar curvature and vol(g) is the volume element. By applying the variational principle to the action
+
+one obtains precisely the Einstein equations for free space:
+
+Here, Rij is the Ricci tensor.
+
+9.2. The Maxwell equations
+
+By contrast, the Maxwell equations describing electromagnetism can be understood to be the Hodge equations of a principal U(1)-bundle or circle bundle π: P → M with fiber U(1). That is, the electromagnetic field F is a harmonic 2-form in the space Ω2(M) of differentiable 2-forms on the manifold M. In the absence of charges and currents, the free-field Maxwell equations are
+
+where * is the Hodge star.
+
+9.3. The Kaluza–Klein geometry
+
+To build the Kaluza–Klein theory, one picks an invariant metric on the circle S1 that is the fiber of the U(1)-bundle of electromagnetism. In this discussion, an invariant metric is simply one that is invariant under rotations of the circle. Suppose this metric gives the circle a total length of Λ. One then considers metrics on the bundle P that are consistent with both the fiber metric, and the metric on the underlying manifold M. The consistency conditions are:
+
+The projection of to the vertical subspace needs to agree with metric on the fiber over a point in the manifold M.
+
+The projection of to the horizontal subspace of the tangent space at point p ∈ P must be isomorphic to the metric g on M at π(p). The Kaluza–Klein action for such a metric is given by
+
+The scalar curvature, written in components, then expands to
+
+where π* is the pullback of the fiber bundle projection π: P → M. The connection A on the fiber bundle is related to the electromagnetic field strength as
+
+That there always exists such a connection, even for fiber bundles of arbitrarily complex topology, is a result from homology and specifically, K-theory. Applying Fubini's theorem and integrating on the fiber, one gets
+
+Varying the action with respect to the component A, one regains the Maxwell equations. Applying the variational principle to the base metric g, one gets the Einstein equations
+
+with the stress–energy tensor being given by
+
+sometimes called the Maxwell stress tensor.
+
+The original theory identifies Λ with the fiber metric g55, and allows Λ to vary from fiber to fiber. In this case, the coupling between gravity and the electromagnetic field is not constant, but has its own dynamical field, the radion.
+
+9.4. Generalizations
+
+In the above, the size of the loop Λ acts as a coupling constant between the gravitational field and the electromagnetic field. If the base manifold is four-dimensional, the Kaluza–Klein manifold P is five-dimensional. The fifth dimension is a compact space, and is called the compact dimension. The technique of introducing compact dimensions to obtain a higher-dimensional manifold is referred to as compactification. Compactification does not produce group actions on chiral fermions except in very specific cases: the dimension of the total space must be 2 mod 8 and the G-index of the Dirac operator of the compact space must be nonzero.
+
+The above development generalizes in a more-or-less straightforward fashion to general principal G-bundles for some arbitrary Lie group G taking the place of U(1). In such a case, the theory is often referred to as a Yang–Mills theory, and is sometimes taken to be synonymous. If the underlying manifold is supersymmetric, the resulting theory is a super-symmetric Yang–Mills theory.
+
+10. Empirical tests
+
+Up to now, no experimental or observational signs of extra dimensions have been officially reported. Many theoretical search techniques for detecting Kaluza–Klein resonances have been proposed using the mass couplings of such resonances with the top quark, however until the Large Hadron Collider (LHC) reaches full operational power observation of such resonances are unlikely. An analysis of results from the LHC in December 2010 severely constrains theories with large extra dimensions.
+
+The observation of a Higgs-like boson at the LHC puts a brand new empirical test in the search for Kaluza–Klein resonances and supersymmetric particles. The loop Feynman diagrams that exist in the Higgs Interactions allow any particle with electric charge and mass to run in such a loop. Standard Model particles besides the top quark and W boson do not make big contributions to the cross-section observed in the H → γγ decay, but if there are new particles beyond the Standard Model, they could potentially change the ratio of the predicted Standard Model H → γγ cross-section to the experimentally observed cross-section. Hence a measurement of any dramatic change to the H → γγ cross section predicted by the Standard Model is crucial in probing the physics beyond it.
+
+11. See also
+
+Classical theories of gravitation
+
+DGP model
+
+Randall–Sundrum model
+
+Supergravity
+
+Superstring theory
+
+String theory
+
+Quantum gravity
+
+12. Notes
+
+13. References
+
+//archive.org/details/sitzungsberichte1921preussi
+
+(Includes reprints of the above articles as well as those of other important papers relating to Kaluza–Klein theory.)
+
+14. Further reading
+
+Kaku, Michio and Robert O'Keefe. Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension. New York: Oxford University Press, 1994. ISBN 0-19-286189-1
+
+The CDF Collaboration, , (2004) (A simplified presentation of the search made for extra dimensions at the Collider Detector at Fermilab (CDF) particle physics facility.)
+
+John M. Pierre, , (2003).
+
+Article from by Z.K. Silagadze.
+
+Chris Pope, .
+
+Edward Witten (2014). "A Note On Einstein, Bergmann, and the Fifth Dimension", ;

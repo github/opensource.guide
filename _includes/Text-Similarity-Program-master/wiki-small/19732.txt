@@ -1,0 +1,189 @@
+Mage: The Ascension is a role-playing game based in the World of Darkness, and was published by White Wolf Game Studio. The characters portrayed in the game are referred to as mages, and are capable of feats of magic. The idea of magic in Mage is broadly inclusive of diverse ideas about mystical practices as well as other belief systems, such as science and religion, so that most mages do not resemble typical fantasy wizards.
+
+In 2005, White Wolf released a new version of the game, marketed as Mage: The Awakening, for the new World of Darkness series. The new game features some of the same game mechanics but uses a substantially different premise and setting.
+
+1. History
+
+Following the release of Vampire: The Masquerade, White Wolf put out a new roleplaying game every year, each set in Vampire's World of Darkness and using its Storyteller rule system. The next four games were: Werewolf: The Apocalypse (1992), Mage: The Ascension (1993), Wraith: The Oblivion (1994) and Changeling: The Dreaming (1995). Mage was the first World of Darkness game that Mark Rein•Hagen was not explicitly involved with, although it featured the Order of Hermes from his Ars Magica as just a single tradition among many.
+
+2. Metaphysics
+
+The basic premise of Mage: The Ascension is that everyone has the capacity, at some level, to shape reality. This capacity, personified as a mysterious alter-ego called the Avatar, is dormant in most people, who are known as sleepers, whereas Magi (and/or their Avatars) are said to be Awakened. Because they're awakened, Magi can consciously effect changes to reality via willpower, beliefs, and specific magical techniques.
+
+The beliefs and techniques of Magi vary enormously, and the ability to alter reality can only exist in the context of a coherent system of belief and technique, called a paradigm. A paradigm organizes a Mage's understanding of reality, how the universe works, and what things mean. It also provides the Mage with an understanding of how to change reality, through specific magical techniques. For example, an alchemical paradigm might describe the act of wood burning as the wood "releasing its essence of elemental Fire," while modern science would describe fire as "combustion resulting from a complex chemical reaction." Paradigms tend to be idiosyncratic to the individual Mage, but the vast majority belong to broad categories of paradigm, e.g., Shamanism, Medieval Sorcery, religious miracle working, and superscience.
+
+In the Mage setting, everyday reality is governed by commonsense rules derived from the collective beliefs of sleepers. This is called the consensus. Most Magi's paradigms differ substantially from the consensus. When a mage performs an act of magic that does not seriously violate this commonsense version of reality, in game terms this is called coincidental magic. Magic that deviates wildly from consensus is called vulgar or dynamic magic. When it is performed ineptly, or is vulgar, and especially if it is vulgar and witnessed by sleepers, magic can cause Paradox, a phenomenon in which reality tries to resolve contradictions between the consensus and the Mage's efforts. Paradox is difficult to predict and almost always bad for the mage. The most common consequences of paradox include physical damage directly to the Mage's body, and paradox flaws, magic-like effects which can for example turn the mage's hair green, make him mute, make him incapable of leaving a certain location, and so on. In more extreme cases paradox can cause Quiet (madness that may leak into reality), Paradox Spirits (nebulous, often powerful beings which purposefully set about resolving the contradiction, usually by directly punishing the mage), or even the removal of the Mage to a paradox realm, a pocket dimension from which it may be difficult to escape.
+
+In Mage, there is an underlying framework to reality called the Tapestry. The Tapestry is naturally divided into various sections, including the physical realm and various levels of the spirit world, or Umbra. At the most basic level, the Tapestry is composed of Quintessence, the essence of magic and what is real. Quintessence can have distinctive characteristics, called resonance, which are broken down into three categories: dynamic, static, and entropic.
+
+In order to understand the metaphysics of the Mage setting, it is important to remember that many of the terms used to describe magic and Magi e.g., Avatar, Quintessence, the Umbra, and Paradox, Resonance, as well as the game mechanics a player uses to describe the areas of magic in which his character is proficient—the Spheres, look, mean, and are understood vary depending on the paradigm of the Mage in question, even though they are often, in the texts of the game, described from particular paradigmatic points-of-view. In-character, only a Mage's Paradigm can explain what each of these things are, what they mean, and why it's the way it is.
+
+3. Game setting
+
+3.1. History
+
+3.1.1. Early times
+
+In the game, Mages have always existed, though there are legends of the Pure Ones who were shards of the original, divine One. Early mages cultivated their magical beliefs alone or in small groups, generally conforming to and influencing the belief systems of their societies. Obscure myths suggest that the precursors of the modern organizations of mages originally gathered in ancient Egypt. This period of historical uncertainty also saw the rise of the Nephandi in the Near East. This set the stage for what the game's history calls the Mythic Ages.
+
+Until the late Middle Ages, mages' fortunes waxed and waned along with their native societies. Eventually, though, mages belonging to the Order of Hermes and the Messianic Voices attained great influence over European society. However, absorbed by their pursuit of occult power and esoteric knowledge, they often neglected and even abused humanity. Frequently, they were at odds with mainstream religions, envied by noble authorities and cursed by common folk.
+
+3.1.2. The Order of Reason
+
+Mages who believed in proto-scientific theories banded together under the banner of the Order of Reason, declaring their aim was to create a safe world with Man as its ruler. They won the support of Sleepers by developing the useful arts of manufacturing, economics, wayfaring, and medicine. They also championed many of the values that we now associate with the Renaissance. Masses of Sleepers embraced the gifts of early Technology and the Science that accompanied them. As the masses' beliefs shifted, the Consensus changed and wizards began to lose their position as their power and influence waned.
+
+This was intentional. The Order of Reason perceived a safe world as one devoid of heretical beliefs, ungodly practices and supernatural creatures preying upon humanity. As the defenders of the common folk, they intended to replace the dominant magical groups with a society of philosopher-scientists as shepherds, protecting and guiding humanity. In response, non-scientific mages banded together to form the Council of Nine Traditions where mages of all the major magical paths gathered. They fought on battlefields and in universities trying to undermine as many discoveries as they could, but to no avail - technology made the march of Science unstoppable. The Traditions' power bases were crippled, their believers mainly converted, their beliefs ridiculed all around the world. Their final counteroffensives against the Order of Reason were foiled by internal dissent and treachery in their midst.
+
+3.1.3. Rise of the Technocracy
+
+However, from the turn of the 17th century on, the goals of the Order of Reason began to change. As their scientific paradigm unfolded, they decided that the mystical beliefs of the common people were not only backward, but dangerous, and that they should be replaced by cold, measurable and predictable physical laws and respect for human genius. They replaced long-held theologies, pantheons, and mystical traditions with ideas like rational thought and the scientific method. As more and more sleepers began to use the Order's discoveries in their everyday lives, Reason and rationality came to govern their beliefs, and the old ways came to be regarded as misguided superstition. However, the Order of Reason became less and less focused on improving the daily lives of sleepers and more concerned with eliminating any resistance to their choke-hold on the minds of humanity. Ever since a reorganization performed under Queen Victoria in the late 1800s, they call themselves the Technocracy.
+
+3.1.4. Contemporary setting
+
+The Technocracy espouses an authoritarian rule over Sleepers' beliefs, while suppressing the Council of Nine's attempts to reintroduce magic. The Traditions replenished their numbers (which had been diminished by the withdrawal of two Traditions, the secretive Ahl-i-Batin, and the Solificati, alchemists plagued by scandal) with former Technocrats from the Sons of Ether and Virtual Adepts factions, vying for the beliefs of sleepers and with the Technocracy, and perpetually wary of the Nephandi (who consciously embrace evil and service to a demonic or alien master) and the Marauders (who resist Paradox with a magical form of madness). While the Technocracy's propaganda campaigns were effective in turning the Consensus against mystic and heterodox science, the Traditions maintained various resources, including magical nodes, hidden schools and fortresses called Chantries, and various realms outside of the Consensus in the Umbra.
+
+Finally, from 1997–2000, a series of metaplot events destroyed the Council of Nine's Umbral steadings, killing many of their most powerful members. This also cut the Technocracy off from their leadership. Both sides called a truce in their struggle to assess their new situation, especially since these events implied that Armageddon was soon at hand. Chief among these signs was creation of a barrier between the physical world and spirit world. This barrier was called the Avatar Storm because it affected the Avatar of the Mage. This Avatar Storm was the result of a battle in India on the so-called "Week of Nightmares."
+
+These changes were introduced in supplements for the second edition of the game and became core material in the third edition.
+
+3.1.5. Later plot and finale
+
+Aside from common changes introduced by the World of Darkness metaplot, mages dealt with renewed conflict when the hidden Rogue Council and the Technocracy's Panopticon encouraged the Traditions and Technocracy to struggle once again. The Rogue Council only made itself known through coded missives, while Panopticon was apparently created by the leaders of the Technocracy to counter it.
+
+This struggle eventually led to the point on the timeline occupied by the book called Ascension. While the entire metaplot has always been meant to be altered as each play group sees fit, Ascension provided multiple possible endings, with none of them being definitive (though one was meant to resolve the metaplot). Thus, there is no definitive canonical ending. Since the game is meant to be adapted to a group's tastes, the importance of this and the preceding storyline is largely a matter of personal preference.
+
+4. Factions
+
+The metaplot of the game involves a four-way struggle between the technological and authoritarian Technocracy, the insane Marauders, the cosmically evil Nephandi and the nine mystical Traditions (that tread the middle path), to which the player characters are assumed to belong. (This struggle has in every edition of the game been characterized both as primarily a covert, violent war directly between factions, and primarily as an effort to sway the imaginations and beliefs of sleepers.)
+
+4.1. Council of Nine Mystic Traditions
+
+The Traditions (formally called the Nine Mystic Traditions) are a fictional alliance of secret societies in the Mage: the Ascension role-playing game. The Traditions exist to unify users of magic under a common banner to protect reality (particularly those parts of reality that are magical) against the growing disbelief of the modern world, the spreading dominance of the Technocracy, and the predations of unstable mages such as Marauders and Nephandi. Each of the Traditions are largely independent organizations unified by a broadly accepted paradigm for practicing magic. The Traditions themselves vary substantially from one another. Some have almost no structure or rules, while others have rigid rules of protocol, etiquette, and rank. Though unified in their desire to keep magic alive, the magic practiced by different Traditions are often wildly different and entirely incompatible with one another. Understanding Traditions as a whole requires understanding each Tradition separately, and then assembling them into a somewhat cohesive whole.
+
+The nine traditions are: the Akashic Brotherhood, Celestial Chorus, Cult of Ecstasy, Dreamspeakers, Euthanatos, Order of Hermes, Sons of Ether, Verbena and Virtual Adepts.
+
+Mages of Akashic Brotherhood are ascetics, martial artists, and monks, largely drawing from Buddhism, Taoism, Shinto, Hinduism and other such religions. They are masters of the sphere of Mind.
+
+Mages of Celestial Chorus are pious believers in a supreme being that encompasses all Gods ever worshipped. They are masters of the sphere of Prime, the raw essence that fuels magic itself.
+
+Mages of Cult of Ecstasy are intuitive seers using sensory stimulation, consciousness-expanding techniques, and meditation. They are masters of the sphere of Time.
+
+Mages of Dreamspeakers are shamanistic emissaries to the spirit world. They are masters of Spirit magic, such as summoning or binding spirits, necromancy, creating fetishes and travelling to the Umbra.
+
+Mages of Euthanatos are Thanatoic willworkers and killers drawing from a legacy of death-cults in India, Greece, and the cultures of the Arabs and Celts. They are masters of the sphere of Entropy.
+
+Mages of Order of Hermes are formalized sorcerers, alchemists, and mystics drawing from classical occult practices. They are masters of the sphere of Forces.
+
+Mages of Sons of Ether are inspiration-oriented scientists dedicated to fringe theories and alternative science. They are masters of the sphere of Matter.
+
+Mages of Verbena are blood-shamans, healers and primordial witches and warlocks. They are masters of the sphere of Life.
+
+Mages of Virtual Adepts are technological adepts capable of informational wizardry. They are masters of the sphere of Correspondence, magic dealing with three-dimensional location and space, communications.
+
+4.2. The Technocratic Union
+
+The Technocracy is likewise divided into groups; unlike the Traditions, however, they share a single paradigm, and instead divide themselves based upon methodologies and areas of expertise.
+
+Technocrats of Iteration X are experts in the arena of the physical sciences, especially when it comes to mechanical and robotic advancements.
+
+Technocratic Progenitors, on the other hand, are masters of the biological sciences as a whole, including genetic engineering and the medical science.
+
+Technocrats of the New World Order maintain control of information and knowledge, controlling the thoughts and actions of the masses by directing what they learn and see.
+
+Technocrats of the Syndicate control the flow of money and power--though the two are frequently the same thing--between disparate groups.
+
+Technocratic members of the Void Engineers are explorers of the unknown. In the modern day, this not only extends to outer space, but to extradimensional planes of existence.
+
+4.3. Marauders
+
+The Marauders are a group of mages that embody Dynamism. Marauders are chaos mages. They are completely insane. To other mages, they appear immune to paradox effects, often using vulgar magic to accomplish their insane tasks. Marauders represent the other narrative extreme, the repellent and frightening corruption of unrestrained power, of dynamism unchecked. Marauders are insane mages whose Avatars have been warped by their mental instability, and who exist in a state of permanent Quiet. While the nature of a Marauder's power may make them seem invincible, they are still severely hampered by their madness. They cannot become Archmages, as they lack sufficient insight and are incapable of appreciating truths which do not suit their madness. In the second edition of Mage: The Ascension, Marauders were much more cogent and likely to operate in groups, with the Umbral Underground using the Umbra to infiltrate any location and wreak havoc with the aid of bygones. They were also associated heavily with other perceived agents of Dynamism, particularly the Changing Breeds (who equate Dynamism with the Wyld) and sometimes Changelings. For example, the Marauders chapter in The Book of Madness is narrated by a Corax (were-raven) named Johnny Gore, who relates his experiences running with the Butcher Street Regulars. In the revised edition, Marauders were made darker and less coherent, in keeping with the more serious treatment of madness used for Malkavians in Vampire: The Masquerade Revised Edition. The Avatar Storm was a very convenient explanation for the Underground's loss of power and influence, though they also became more vulnerable to Paradox. In this edition, the Regulars are a cell of the Underground, and like the other cells have highly compatible Quiets.
+
+4.4. Nephandi
+
+With the Technocracy representing Stasis and the Marauders acting on behalf of Dynamism, the third part of this trifecta is Entropy, as borne by the Nephandi. While other mages may be callous or cruel, the Nephandi are morally inverted and spiritually mutilated. While a Traditionalist or Technocrat may simply fall prey to human failings or excessive zeal in their ethos, while a Marauder may well commit some true atrocities in the depth of her incurable madness; a Nephandus retains a clear moral compass, and deliberately pursues actions to worsen the world and bring about its final end. To this end, the Technocracy and Traditions have been known to set aside the ongoing war for reality to temporarily join forces to oppose the Nephandi. Some of their members, called barabbi, hail from the Technocracy and Traditions, but all Nephandi have experienced the Rebirth, wherein they embrace the antithesis of everything they know to be right, and are physically and spiritually torn apart and reassembled. This metamorphosis has a sort of terrible permanence to it: while each Mage's avatar will be reborn again and again, theirs is permanently twisted as a result of their rebirth: known as Widderslainte, these mages awaken as Nephandi. While some of the background stories detail a particular mage and her teacher trying--and succeeding--at keeping her from falling again, this is very rare.
+
+4.5. Others
+
+Another tradition, but not part of the nine are the mages of Ahl-i-Batin (also known as The Subtle Ones). They are masters of the Correspondence Sphere and former holders of the seat now held by the Virtual Adepts. Others include Crafts, The Taftani and the Hollow Ones. Nephandi embody a corruption seductive to mages.
+
+5. Rules and continuity
+
+The core rules of the game are similar to those in other World of Darkness games; see Storyteller System for an explanation.
+
+Like other storytelling games Mage emphasizes personal creativity and that ultimately the game's powers and traits should be used to tell a satisfying story. One of Mage's highlights is its system for describing magic, based on spheres, a relatively open-ended 'toolkit' approach to using game mechanics to define the bounds of a given character's magical ability. Different Mages will have differing aptitudes for spheres, and player-characters' magical expertise is described by allocation of points in the spheres.
+
+There are nine known spheres:
+
+5.1. Correspondence
+
+Deals with spatial relations, giving the Mage power over space and distances. Correspondence magic allows powers such as teleportation, seeing into distant areas, and at higher levels the Mage may also co-locate herself or even stack different spaces within each other. Correspondence can be combined with almost any other sphere to create effects that span distances.
+
+5.2. Entropy
+
+This sphere gives the Mage power over order, chaos, fate and fortune. A mage can sense where elements of chance influence the world and manipulate them to some degree. At simple levels machines can be made to fail, plans to go off without a hitch, and games of chance heavily influenced. Advanced mages can craft self-propagating memes or curse entire family lines with blights. The only requirement of the Entropy sphere is that all interventions work within the general flow of natural entropy.
+
+5.3. Forces
+
+Forces concerns energies and natural forces and their negative opposites (i.e. light and shadow can both be manipulated independently with this Sphere). Essentially, anything in the material world that can be seen or felt but is not material can be controlled: electricity, gravity, magnetism, friction, heat, motion, fire, etc. At low levels the mage can control forces on a small scale, changing their direction, converting one energy into another. At high levels, storms and explosions can be conjured. Obviously, this Sphere tends to do the most damage and is the most flashy and vulgar. Along with Life and Matter, Forces is one of the three 'Pattern Spheres' which together are able to mold all aspects of the physical world.
+
+5.4. Life
+
+Life deals with understanding and influencing biological systems. Generally speaking, any material object with mostly living cells falls under the influence of this sphere. Simply, this allows the mage to heal herself or transform simple life-forms at lower levels, working up to healing others and controlling more complex life at higher levels. Usually, seeking to improve a complex life-form beyond natural limits causes the condition of pattern bleeding: the affected life form begins to wither and die over time. Along with Matter and Forces, Life is one of the three Pattern Spheres.
+
+5.5. Mind
+
+Dealing with control over one's own mind, the reading and influencing of other minds, and a variety of subtler applications such as Astral Projection and psychometry. At high levels, Mages can create new complete minds or completely rework existing ones.
+
+5.6. Matter
+
+Matter deals with all inanimate material. Thus, being alive protects a thing from direct manipulation by the Matter sphere. Stone, dead wood, water, gold, and the corpses of once living things are only the beginning. With this Sphere, matter can be reshaped mentally, transmuted into another substance, or given altered properties. Along with Life and Forces, Matter is one of the three Pattern Spheres.
+
+5.7. Prime
+
+This sphere deals directly with Quintessence, the raw material of the tapestry, which is the metaphysical structure of reality. This sphere allows Quintessence to be channeled and/or funneled in any way at higher levels, and it is necessary if the mage ever wants to conjure something out of nothing(as opposed to transforming one pattern into another). Uses of Prime include general magic senses, counter-magic, and making magical effects permanent.
+
+5.8. Spirit
+
+This sphere is an eclectic mixture of abilities relating to dealings with the spirit world or Umbra. It includes stepping into the Near Umbra right up to traveling through outer space, contacting and controlling spirits, communing with your own or others' avatars, returning a Mage into a sleeper, returning ghosts to life, creating magical fetish items, and so forth. Unlike other Spheres, the difficulty of Spirit magic is often a factor of the Gauntlet, making these spells harder for the most part. The Sphere is referred to as Dimensional Science by the Technocratic Union.
+
+5.9. Time
+
+This sphere deals with dilating, slowing, stopping or traveling through time. Due to game mechanics, it is simpler to travel forward in time than backwards. Time can be used to install delays into spells, view the past or future, and even pull people and objects out of linear progression. Time magic offers one means to speed up a character to get multiple actions in a combat round, a much coveted power in turn-based role-playing.
+
+5.10. The tenth sphere
+
+One of the plot hooks that the second edition books put forth were persistent rumors of a "tenth sphere". Though there were hints, it was deliberately left vague. The final book in the line, Ascension implies that the tenth sphere is the sphere of Ascension (in as much as spheres are practically relevant at that point in the story). As the book presents alternative resolutions for the Mage line, Chapter Two also presents an alternative interpretation that the tenth sphere is "Judgement" or "Telos" and that Anthelios (the red star in the World of Darkness metaplot) is its planet (each sphere has an associated planet and Umbral realm).
+
+5.11. Sphere sigils
+
+The various sphere sigils are, in whole or in part, symbols taken from alchemical texts.
+
+Correspondence is a symbol for amalgam or amalgamation, "Amalgama".
+
+Entropy is a symbol for rotting or decay, "Putredo/putrefactio".
+
+The sigil of Forces is part of the symbol for "boiling," "Ebbulio".
+
+Life is a symbol for composition, "Compositio".
+
+As with Correspondence, the sigil of Matter is another symbol for the process of amalgamation, "Amalgama".
+
+Mind is a symbol for solution, "Solutio".
+
+Prime is a symbol meaning essence, "Essentia".
+
+Spirit may be derived from the symbol for fumes, "Fumus".
+
+Time is the symbol for dust, "Pulvis".
+
+The tenth symbol depicted in Ascension is a symbol for vinegar. Mage: The Sorcerer's Crusade also presented a symbol for the tenth sphere, a combination of the symbols for stone and distillation. Because Mage's themes are potentially quite complex and esoteric, and because its Sphere system rules are relatively open-ended, Mage is often daunting, particularly to novice roleplayers and those accustomed to other games whose rules govern the use of magic with greater precision but less flexibility (e.g., games with catalogs of established "spells").
+
+The third revision of the rules, Mage: The Ascension Revised, made significant changes to the rules and setting, mainly to update Mage with respect to its own ongoing storyline, particularly in regards to events that occurred during the run of the game's second edition. (Like other World of Darkness games, Mage uses a continuing storyline across all of its books).
+
+6. See also
+
+List of Mage: The Ascension books
+
+7. References
+
+8. External links

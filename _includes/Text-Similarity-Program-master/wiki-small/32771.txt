@@ -1,0 +1,91 @@
+Venom is the toxin used by venomous animals. Venom is injected into victims by means of a bite, sting or other sharp body feature.
+
+The potency of different venoms varies; lethal venoms are often characterised by the median lethal dose (LD50, LD50, or LD-50), expressed in terms of mass fraction (e.g., milligrams of toxin per kilogram of body mass), that will kill 50% of victims of a specified type (e.g., laboratory mice).
+
+Utilization of venom across a large amount species demonstrates a classic example of convergent evolution and a homoplastic trait. It is difficult to conclude exactly how this trait came to be so intensely widespread and diversified. The multigene families that encode the toxins of venomous animals are actively selected on, creating more diverse toxins with specific functions. Venoms adapt to their environment and victims and accordingly evolve to become maximally efficient on a predator’s particular prey (particularly the precise ion channels within the prey). Consequently, venoms become specialized to an animal’s standard diet.
+
+1. Diversity
+
+1.1. Invertebrates
+
+Venomous invertebrates include spiders, which use fangs - part of their chelicerae - to inject venom (see spider bite); and centipedes, which use forcipules - modified legs - to deliver venom; along with scorpions and stinging insects, which inject venom with a sting. In insects such as bees and wasps the stinger is a modified egg-laying device – the ovipositor. In Polistes fuscatus the female continuously releases a venom that contains a sex pheromone that induces copulatory behavior in males. In Polistes exclamans venom is used as an alarm pheromone, coordinating a response with from the nest and attracting nearby wasps to attack the predator. In Dolichovespula arenaria, the observed spraying of venom out of their sting that has been seen from workers in large colonies. In other cases like Parischnogaster striatula, the venom is applied all over their body in order to make themselves immune to certain harmful diseases. Some cases like the venom from Agelaia pallipes, have significant inhibitory effects on essential biological processes like chemotaxis and hemolysis which can lead to organ failure. This prevents the spread of disease throughout the colony.
+
+Many caterpillars have defensive venom glands associated with specialized bristles on the body, known as urticating hairs, which can be lethal to humans (e.g., that of the Lonomia moth), although the venom's strength varies depending on the species.
+
+Bees synthesize and employ an acidic venom (apitoxin) to cause pain in those that they sting to defend their hives and food stores, whereas wasps use a chemically different alkaline venom designed to paralyze prey, so it can be stored alive in the food chambers of their young. The use of venom is much more widespread than just these examples. Other insects, such as true bugs and many ants, also produce venom. At least one ant species (Polyrhachis dives) has been shown to use venom topically for the sterilisation of pathogens.
+
+There are many other venomous invertebrates, including jellyfish, cone snails and coleoids. The box jellyfish is the most venomous jellyfish in the world.
+
+1.2. Fish
+
+Venom can also be found in some fish, such as the cartilaginous fishes – stingrays, sharks, and chimaeras – and the teleost fishes including onejaws, catfishes, stonefishes and waspfishes, scorpionfishes and lionfishes, gurnards, rabbitfishes, dragonets, surgeonfishes, scats, stargazers, weever, and swarmfish.
+
+1.3. Amphibians
+
+There are only a few known species of venomous amphibians; certain salamandrid salamanders can extrude sharp venom-tipped ribs.
+
+1.4. Snakes
+
+The reptiles most known to use venom are snakes, some species of which inject venom into their prey via fangs.
+
+Snake venom is produced by glands below the eye (the mandibular gland) and delivered to the victim through tubular or channeled fangs. Snake venoms contain a variety of peptide toxins, including proteases, which hydrolyze protein peptide bonds, nucleases, which hydrolyze the phosphodiester bonds of DNA, and neurotoxins, which disable signalling in the nervous system. Snakes use their venom principally for hunting, though they do not hesitate to employ it defensively. Venomous snake bites may cause a variety of symptoms, including pain, swelling, tissue necrosis, low blood pressure, convulsions, hemorrhage (varying by species of snake), respiratory paralysis, kidney failure, coma and death.
+
+Scientists believe the origin of snake venom began with gene duplication of genes that had been expressed in the body tissues of ancestors. Due to subfunctionalization, in which an ancestral function is split between the copied genes, one of the duplicates becomes limited to only the venom (salivary) gland and as a result, evolves in to the toxin producing gene. Data has shown that pre-existing proteins in the salivary glands were the origin of the toxins in snake venom. Some researchers have come to see snake venom as just “a modified form of saliva,” instead of an entirely recruited set of proteins from various tissues throughout the body.
+
+The composition of snake venom can vary within a species due to diet variation, which is caused by differences in geological location.
+
+1.5. Other reptiles
+
+Aside from snakes, venom is found in a few other reptiles such as the Mexican beaded lizard and gila monster, and may be present in a few species of monitor lizards.
+
+One such reptile that was previously thought of as being nonvenomous is the Komodo dragon, Varanus komodoensis. It was then demonstrated through magnetic resonance imaging that the Komodo dragon possesses a mandibular gland with a major posterior compartment and five smaller anterior compartments. The scientists used mass spectrometry to show that the mixture of proteins present in the venom was as complex as the proteins found in snake venom.
+
+Due to these recent studies investigating venom glands in squamates, lizards that were previously thought of as being nonvenomous are now being classified by some scientists as venomous because they possess a venom gland. This hypothetical clade, Toxicofera, includes all venomous squamates: the suborders Serpentes and Iguania and the families Varanidae, Anguidae, and Helodermatidae.
+
+1.6. Mammals
+
+Some mammals are also venomous, including solenodons, shrews, and the male platypus. Shrews are known to have venomous saliva and most likely evolved their trait similarly to snakes.
+
+Extensive research on platypuses shows that their toxin was initially formed from gene duplication, but data provides evidence that the further evolution of platypus venom does not rely as much on gene duplication as once was thought. Modified sweat glands are what evolved into platypus venom glands. Although it is proven that reptile and platypus venom have independently evolved, it is thought that there are certain protein structures that are favored to evolve into toxic molecules. This provides more evidence as to why venom has become a homoplastic trait and why very different animals have convergently evolved.
+
+1.7. Therapsida
+
+Euchambersia, a genus of therocephalians (animals close to the evolution of mammals) is known to have had venom glands attached to its canine teeth, used to help subdue and kill its prey. The potency of its venom is unknown.
+
+2. Treatment of venomous bites
+
+Physicians treat victims of a venomous bite with antivenom, which is created by dosing an animal such as a sheep, horse, goat, or rabbit with a small amount of the targeted venom. The immune system of the subject animal responds to the dose, producing antibodies to the venom's active molecules; the antibodies can then be harvested from the animal's blood and injected into bite victims to treat envenomation. This treatment can be used effectively only a limited number of times for a given individual, however, as a bite victim will ultimately develop antibodies to neutralize the foreign animal antigens injected into them as components of the antivenin. This is called sensitization. Even if a bite victim does not suffer a serious allergic reaction to the antivenom, his own, sensitized, immune system may destroy the antivenom before the antivenom can destroy the venom. Though most individuals never require even one treatment of anti-venom in their lifetime, let alone several, those routinely exposed to snakes or other venomous animals may become sensitized to antivenom due to previous exposure.
+
+Aristolochia rugosa and Aristolochia trilobata, or "Dutchman's Pipe", are recorded in a list of plants used worldwide and in the West Indies, South and Central America against snakebites and scorpion stings. Aristolochic acid inhibits inflammation induced by immune complexes, and nonimmunological agents (carrageenan or croton oil). Aristolochic acid inhibits the activity of snake venom phospholipase (PLA2) by forming a 1:1 complex with the enzyme. Since phospholipase enzymes play a significant part in the cascade leading to the inflammatory and pain response, their inhibition could lead to relief of problems from scorpion envenomation.
+
+3. See also
+
+Poison
+
+Envenomation
+
+Schmidt Sting Pain Index
+
+Big Four (Indian snakes)
+
+List of venomous animals
+
+4. References
+
+5. Bibliography
+
+Fry, B. G., N. Vidal, J. A. Norman, F. J. Vonk, H. Scheib, S. F. R. Ramjan, S. Kuruppu, K. Fung, S. B. Hedges, M. K. Richardson, W. C. Hodgson, V. Ignjatovic, R. Summerhayes, and E. Kochva. 2006. Early evolution of the venom system in lizards and snakes. Nature (London) 439:584-588.
+
+Fry, B. G., S. Wroe, W. Teeuwisse, M. J. P. van Osch, K. Moreno, J. Ingle, C. McHenry, T. Ferrara, P. Clausen, H. Scheib, K. L. Winter, L. Greisman, K. Roelants, L. van der Weerd, C. J. Clemente, E. Giannakis, W. C. Hodgson, S. Luz, P. Martelli, K. Krishnasamy, E. Kochva, H. F. Kwok, D. Scanlon, J. Karas, D. M. Citron, E. J. C. Goldstein, J. E. Mcnaughtan, and J. A. Norman. 2009b. A central role for venom in predation by Varanus komodoensis (Komodo Dragon) and the extinct giant Varanus (Megalania) priscus" Proceedings of the National Academy of Sciences of the United States of America 106:8969-8974.
+
+Fry, B. G., W. Wuster, S. F. R. Ramjan, T. Jackson, P. Martelli, and R. M. Kini. 2003c. Analysis of Colubroidea snake venoms by liquid chromatography with mass spectrometry: Evolutionary and toxinological implications. Rapid Communications in Mass Spectrometry 17:2047-2062.
+
+Hargreaves, A. D., Swain, M. T., Hegarty, M. J., Logan, D. W., & Mulley, J. F. (2014). Restriction and recruitment-gene duplication and the origin and evolution of snake venom toxins.BioRxiv.
+
+Kordiš, D., & Gubenšek, F. (2000). Adaptive evolution of animal toxin multigene families. Gene 261:43-52.
+
+Ligabue-Braun, R., Verli, H., & Carlini, C. R. (2012). Venomous mammals: a review. Toxicon 59:680-695.
+
+Whittington, C. M., Papenfuss, A. T., Bansal, P., Torres, A. M., Wong, E. S., Deakin, J. E., & Belov, K. (2008). Defensins and the convergent evolution of platypus and reptile venom genes.Genome research 18:986-994.
+
+Wong, E. S., & Belov, K. (2012). Venom evolution through gene duplications. Gene 496:1-7.

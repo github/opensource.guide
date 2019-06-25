@@ -1,0 +1,191 @@
+Neurotransmitters are endogenous chemicals that transmit signals across a synapse from one neuron (brain cell) to another 'target' neuron. Neurotransmitters are released from synaptic vesicles in synapses into the synaptic cleft, where they are received by receptors on other synapses. Many Neurotransmitters are synthesized from plentiful and simple precursors such as amino acids, which are readily available from the diet and only require a small number of biosynthetic steps to convert them. Neurotransmitters play a major role in shaping everyday life and functions. Scientists do not yet know exactly how many neurotransmitters exist, but more than 100 chemical messengers have been identified.
+
+1. Mechanism
+
+Neurotransmitters are stored in a synapse in synaptic vesicles, clustered beneath the membrane in the axon terminal located at the presynaptic side of the synapse. Neurotransmitters are released into and diffused across the synaptic cleft, where they bind to specific receptors in the membrane on the postsynaptic side of the synapse.
+
+Most neurotransmitters are about the size of a single amino acid, however, some neurotransmitters may be the size of larger proteins or peptides. A released neurotransmitter is typically available in the synaptic cleft for a short time before it is metabolized by enzymes, pulled back into the presynaptic neuron through reuptake, or bound to a postsynaptic receptor. Nevertheless, short-term exposure of the receptor to a neurotransmitter is typically sufficient for causing a postsynaptic response by way of synaptic transmission.
+
+In response to a threshold action potential or graded electrical potential, a neurotransmitter is released at the presynaptic terminal. Low level "baseline" release also occurs without electrical stimulation. The released neurotransmitter may then move across the synapse to be detected by and bind with receptors in the postsynaptic neuron. Binding of neurotransmitters may influence the postsynaptic neuron in either an inhibitory or excitatory way. This neuron may be connected to many more neurons, and if the total of excitatory influences are greater than those of inhibitory influences, the neuron will also "fire". Ultimately it will create a new action potential at its axon hillock to release neurotransmitters and pass on the information to yet another neighboring neuron.
+
+2. Discovery
+
+Until the early 20th century, scientists assumed that the majority of synaptic communication in the brain was electrical. However, through the careful histological examinations by Ramón y Cajal (1852–1934), a 20 to 40 nm gap between neurons, known today as the synaptic cleft, was discovered. The presence of such a gap suggested communication via chemical messengers traversing the synaptic cleft, and in 1921 German pharmacologist Otto Loewi (1873–1961) confirmed that neurons can communicate by releasing chemicals. Through a series of experiments involving the vagus nerves of frogs, Loewi was able to manually slow the heart rate of frogs by controlling the amount of saline solution present around the vagus nerve. Upon completion of this experiment, Loewi asserted that sympathetic regulation of cardiac function can be mediated through changes in chemical concentrations. Furthermore, Otto Loewi is credited with discovering acetylcholine (ACh)—the first known neurotransmitter. Some neurons do, however, communicate via electrical synapses through the use of gap junctions, which allow specific ions to pass directly from one cell to another.
+
+3. Identification
+
+There are four main criteria for identifying neurotransmitters:
+
+The chemical must be synthesized in the neuron or otherwise be present in it.
+
+When the neuron is active, the chemical must be released and produce a response in some target.
+
+The same response must be obtained when the chemical is experimentally placed on the target.
+
+A mechanism must exist for removing the chemical from its site of activation after its work is done. However, given advances in pharmacology, genetics, and chemical neuroanatomy, the term "neurotransmitter" can be applied to chemicals that:
+
+Carry messages between neurons via influence on the postsynaptic membrane.
+
+Have little or no effect on membrane voltage, but have a common carrying function such as changing the structure of the synapse.
+
+Communicate by sending reverse-direction messages that have an impact on the release or reuptake of transmitters. The anatomical localization of neurotransmitters is typically determined using immunocytochemical techniques, which identify either the location of either the transmitter substances themselves, or of the enzymes that are involved in their synthesis. Immunocytochemical techniques have also revealed that many transmitters, particularly the neuropeptides, are co-localized, that is, one neuron may release more than one transmitter from its synaptic terminal. Various techniques and experiments such as staining, stimulating, and collecting can be used to identify neurotransmitters throughout the central nervous system.
+
+4. Types
+
+There are many different ways to classify neurotransmitters. Dividing them into amino acids, peptides, and monoamines is sufficient for some classification purposes.
+
+Major neurotransmitters:
+
+Amino acids: glutamate, aspartate, D-serine, γ-aminobutyric acid (GABA), glycine
+
+Monoamines: dopamine (DA), norepinephrine (noradrenaline; NE, NA), epinephrine (adrenaline), histamine, serotonin (SER, 5-HT
+
+Trace amines: phenethylamine, N-methylphenethylamine, tyramine, 3-iodothyronamine, octopamine, tryptamine, etc.
+
+Peptides: somatostatin, substance P, cocaine and amphetamine regulated transcript, opioid peptides
+
+Gasotransmitters: nitric oxide (NO), carbon monoxide (CO), hydrogen sulfide (H2S)
+
+Others: acetylcholine (ACh), adenosine, anandamide, etc. In addition, over 50 neuroactive peptides have been found, and new ones are discovered regularly. Many of these are "co-released" along with a small-molecule transmitter. Nevertheless, in some cases a peptide is the primary transmitter at a synapse. β-endorphin is a relatively well known example of a peptide neurotransmitter because it engages in highly specific interactions with opioid receptors in the central nervous system.
+
+Single ions (such as synaptically released zinc) are also considered neurotransmitters by some, as well as some gaseous molecules such as nitric oxide (NO), carbon monoxide (CO), and hydrogen sulfide (H2S). The gases are produced in the neural cytoplasm and are immediately diffused through the cell membrane into the extracellular fluid and into nearby cells to stimulate production of second messengers. Soluble gas neurotransmitters are difficult to study, as they act rapidly and are immediately broken down, existing for only a few seconds.
+
+The most prevalent transmitter is glutamate, which is excitatory at well over 90% of the synapses in the human brain. The next most prevalent is Gamma-Aminobutyric Acid, or GABA, which is inhibitory at more than 90% of the synapses that do not use glutamate. Although other transmitters are used in fewer synapses, they may be very important functionally: the great majority of psychoactive drugs exert their effects by altering the actions of some neurotransmitter systems, often acting through transmitters other than glutamate or GABA. Addictive drugs such as cocaine and amphetamines exert their effects primarily on the dopamine system. The addictive opiate drugs exert their effects primarily as functional analogs of opioid peptides, which, in turn, regulate dopamine levels.
+
+4.1. List of neurotransmitters, peptides, and gasotransmitters
+
+5. Actions
+
+Neurons form elaborate networks through which nerve impulses—action potentials—travel. Each neuron has as many as 15,000 connections with neighboring neurons.
+
+Neurons do not touch each other (except in the case of an electrical synapse through a gap junction); instead, neurons interact at contact points called synapses: a junction within two nerve cells, consisting of a miniature gap which impulses pass by a neurotransmitter. A neuron transports its information by way of a nerve impulse called an action potential. When an action potential arrives at the synapse's presynaptic terminal button, it may stimulate the release of neurotransmitters. These neurotransmitters are released into the synaptic cleft to bind onto the receptors of the postsynaptic membrane and influence another cell, either in an inhibitory or excitatory way. The next neuron may be connected to many more neurons, and if the total of excitatory influences is greater than that of inhibitory influences, it will also "fire". That is to say, it will create a new action potential at its axon hillock, releasing neurotransmitters and passing on the information to yet another neighboring neuron.
+
+5.1. Excitatory and inhibitory
+
+A neurotransmitter can influence the function of a neuron through a remarkable number of mechanisms. In its direct actions in influencing a neuron’s electrical excitability, however, a neurotransmitter acts in only one of two ways: excitatory or inhibitory. A neurotransmitter influences trans-membrane ion flow either to increase (excitatory) or to decrease (inhibitory) the probability that the cell with which it comes in contact will produce an action potential. Thus, despite the wide variety of synapses, they all convey messages of only these two types, and they are labeled as such. Type I synapses are excitatory in their actions, whereas type II synapses are inhibitory. Each type has a different appearance and is located on different parts of the neurons under its influence. Each neuron receives thousands of excitatory and inhibitory signals every second.
+
+Type I (excitatory) synapses are typically located on the shafts or the spines of dendrites, whereas type II (inhibitory) synapses are typically located on a cell body. In addition, Type I synapses have round synaptic vesicles, whereas the vesicles of type II synapses are flattened. The material on the presynaptic and post-synaptic membranes is denser in a Type I synapse than it is in a type II, and the type I synaptic cleft is wider. Finally, the active zone on a Type I synapse is larger than that on a Type II synapse.
+
+The different locations of type I and type II synapses divide a neuron into two zones: an excitatory dendritic tree and an inhibitory cell body. From an inhibitory perspective, excitation comes in over the dendrites and spreads to the axon hillock to trigger an action potential. If the message is to be stopped, it is best stopped by applying inhibition on the cell body, close to the axon hillock where the action potential originates. Another way to conceptualize excitatory–inhibitory interaction is to picture excitation overcoming inhibition. If the cell body is normally in an inhibited state, the only way to generate an action potential at the axon hillock is to reduce the cell body’s inhibition. In this “open the gates” strategy, the excitatory message is like a racehorse ready to run down the track, but first the inhibitory starting gate must be removed.
+
+5.2. Examples of important neurotransmitter actions
+
+As explained above, the only direct action of a neurotransmitter is to activate a receptor. Therefore, the effects of a neurotransmitter system depend on the connections of the neurons that use the transmitter, and the chemical properties of the receptors that the transmitter binds to.
+
+Here are a few examples of important neurotransmitter actions:
+
+Glutamate is used at the great majority of fast excitatory synapses in the brain and spinal cord. It is also used at most synapses that are "modifiable", i.e. capable of increasing or decreasing in strength. Modifiable synapses are thought to be the main memory-storage elements in the brain. Excessive glutamate release can overstimulate the brain and lead to excitotoxicity causing cell death resulting in seizures or strokes. Excitotoxicity has been implicated in certain chronic diseases including ischemic stroke, epilepsy, Amyotrophic lateral sclerosis, Alzheimer's disease, Huntington disease, and Parkinson's disease.
+
+GABA is used at the great majority of fast inhibitory synapses in virtually every part of the brain. Many sedative/tranquilizing drugs act by enhancing the effects of GABA. Correspondingly, glycine is the inhibitory transmitter in the spinal cord.
+
+Acetylcholine was the first neurotransmitter discovered in the peripheral and central nervous systems. It activates skeletal muscles in the somatic nervous system and may either excite or inhibit internal organs in the autonomic system. It is distinguished as the transmitter at the neuromuscular junction connecting motor nerves to muscles. The paralytic arrow-poison curare acts by blocking transmission at these synapses. Acetylcholine also operates in many regions of the brain, but using different types of receptors, including nicotinic and muscarinic receptors.
+
+Dopamine has a number of important functions in the brain; this includes regulation of motor behavior, pleasures related to motivation and also emotional arousal. It plays a critical role in the reward system; people with Parkinson's disease have been linked to low levels of dopamine and people with schizophrenia have been linked to high levels of dopamine.
+
+Serotonin is a monoamine neurotransmitter. Most is produced by and found in the intestine (approximately 90%), and the remainder in central nervous system neurons. It functions to regulate appetite, sleep, memory and learning, temperature, mood, behaviour, muscle contraction, and function of the cardiovascular system and endocrine system. It is speculated to have a role in depression, as some depressed patients are seen to have lower concentrations of metabolites of serotonin in their cerebrospinal fluid and brain tissue.
+
+Norepinephrine which focuses on the central nervous system, based on patients sleep patterns, focus and alertness. It is synthesized from tyrosine.
+
+Epinephrine which is also synthesized from tyrosine takes part in controlling the adrenal glands. It plays a role in sleep, with ones ability to stay become alert, and the fight-or-flight response.
+
+Histamine works with the central nervous system (CNS), specifically the hypothalamus (tuberomammillary nucleus) and CNS mast cells.
+
+6. Brain neurotransmitter systems
+
+Neurons expressing certain types of neurotransmitters sometimes form distinct systems, where activation of the system affects large volumes of the brain, called volume transmission. Major neurotransmitter systems include the noradrenaline (norepinephrine) system, the dopamine system, the serotonin system, and the cholinergic system, among others. It should be noted that trace amines, primarily via TAAR1 activation, have a very significant impact on neurotransmission in monoamine pathways (i.e., dopamine, histamine, norepinephrine, and serotonin pathways) throughout the brain. A brief comparison of these systems follows:
+
+7. Drug effects
+
+Understanding the effects of drugs on neurotransmitters comprises a significant portion of research initiatives in the field of neuroscience. Most neuroscientists involved in this field of research believe that such efforts may further advance our understanding of the circuits responsible for various neurological diseases and disorders, as well as ways to effectively treat and someday possibly prevent or cure such illnesses.
+
+Drugs can influence behavior by altering neurotransmitter activity. For instance, drugs can decrease the rate of synthesis of neurotransmitters by affecting the synthetic enzyme(s) for that neurotransmitter. When neurotransmitter syntheses are blocked, the amount of neurotransmitters available for release becomes substantially lower, resulting in a decrease in neurotransmitter activity. Some drugs block or stimulate the release of specific neurotransmitters. Alternatively, drugs can prevent neurotransmitter storage in synaptic vesicles by causing the synaptic vesicle membranes to leak. Drugs that prevent a neurotransmitter from binding to its receptor are called receptor antagonists. For example, drugs used to treat patients with schizophrenia such as haloperidol, chlorpromazine, and clozapine are antagonists at receptors in the brain for dopamine. Other drugs act by binding to a receptor and mimicking the normal neurotransmitter. Such drugs are called receptor agonists. An example of a receptor agonist is Valium, a benzodiazepine that mimics effects of the endogenous neurotransmitter gamma-aminobutyric acid (GABA) to decrease anxiety. Other drugs interfere with the deactivation of a neurotransmitter after it has been released, thereby prolonging the action of a neurotransmitter. This can be accomplished by blocking re-uptake or inhibiting degradative enzymes. Lastly, drugs can also prevent an action potential from occurring, blocking neuronal activity throughout the central and peripheral nervous system. Drugs such as tetrodotoxin that block neural activity are typically lethal.
+
+Drugs targeting the neurotransmitter of major systems affect the whole system, which can explain the complexity of action of some drugs. Cocaine, for example, blocks the re-uptake of dopamine back into the presynaptic neuron, leaving the neurotransmitter molecules in the synaptic gap for an extended period of time. Since the dopamine remains in the synapse longer, the neurotransmitter continues to bind to the receptors on the postsynaptic neuron, eliciting a pleasurable emotional response. Physical addiction to cocaine may result from prolonged exposure to excess dopamine in the synapses, which leads to the downregulation of some post-synaptic receptors. After the effects of the drug wear off, an individual can become depressed due to decreased probability of the neurotransmitter binding to a receptor. Fluoxetine is a selective serotonin re-uptake inhibitor (SSRI), which blocks re-uptake of serotonin by the presynaptic cell which increases the amount of serotonin present at the synapse and furthermore allows it to remain there longer, providing potential for the effect of naturally released serotonin. AMPT prevents the conversion of tyrosine to L-DOPA, the precursor to dopamine; reserpine prevents dopamine storage within vesicles; and deprenyl inhibits monoamine oxidase (MAO)-B and thus increases dopamine levels.
+
+7.1. Agonists
+
+An agonist is a chemical capable of binding to a receptor, such as a neurotransmitter receptor, and initiating the same reaction typically produced by the binding of the endogenous substance. An agonist of a neurotransmitter will thus initiate the same receptor response as the transmitter. This works when muscles are at relaxation.
+
+There are two different types of Agonist: Direct-binding Agonist and Indirect-acting Agonist:
+
+Direct-binding Agonist - acts similar to a neurotransmitter in which it directly binds to the receptor site. It allows the recipient to experience drug effects as if they were released directly into the brain. These include dopamine, apomorphine, and nicotine.
+
+Indirect-acting Agonist- which enhances the neurotransmitter actions by stimulating its release while increasing emissions. This includes cocaine.
+
+7.1.1. Drug agonists
+
+"An agonist is a drug or an endogenous substance that binds to a Receptor (it has affinity for the receptor binding site) and produces a biological response (it possesses intrinsic activity). The binding of a drug agonist to the receptor produces an effect that mimics the physiological response observed when an endogenous substance (e.g., hormone, Neurotransmitter) binds to the same receptor. In many cases, the biological response is directly related to the concentration of the agonist available to bind to the receptor. As more agonist is added, the number of receptors occupied increases, as does the magnitude of the response. The potency (strength) of the agonist for producing the physiological response (how much drug is needed to produce the effect) is related to the strength of binding (the affinity) for the receptor and to its intrinsic activity. Most drugs bind to more than one receptor; they have multiple receptor interactions."
+
+Nicotine, found in tobacco, is an agonist for acetylcholine at nicotinic receptors. Opiate agonists include morphine, heroin, hydrocodone, oxycodone, codeine, and methadone. These drugs activate mu opioid receptors that typically respond to endogenous transmitters such as enkephalins. When these receptors are activated, individuals experience euphoria, pain relief, and drowsiness.
+
+7.2. Antagonists
+
+An antagonist is a chemical that acts within the body to reduce the physiological activity of another chemical substance (as an opiate); especially one that opposes the action on the nervous system of a drug or a substance occurring naturally in the body by combining with and blocking its nervous receptor. This works when the muscles are in the phase of contraction.
+
+There are two main types of Antagonist; Direct-acting Antagonist and Indirect-acting Antagonists:
+
+Direct-acting Antagonist- which takes up space present on receptors which are otherwise taken up by neurotransmitters themselves. This results in neurotransmitters being blocked from binding to the receptors. The most common is called Atropine.
+
+Indirect-acting Antagonist- drugs that inhibit the release/production of neurotransmitters (i.e., Reserpine).
+
+7.2.1. Drug antagonists
+
+An antagonist drug is one that attaches (or binds) to a site called a receptor without activating that receptor to produce a biological response. It is therefore said to have no intrinsic activity. An antagonist may also be called a receptor "blocker" because they block the effect of an agonist at the site. The pharmacological effects of an antagonist therefore result in preventing the corresponding receptor site's agonists (e.g., drugs, hormones, neurotransmitters) from binding to and activating it. Antagonists may be "competitive" or "irreversible".
+
+A competitive antagonist competes with an agonist for binding to the receptor. As the concentration of antagonist increases, the binding of the agonist is progressively inhibited, resulting in a decrease in the physiological response. High concentration of an antagonist can completely inhibit the response. This inhibition can be reversed, however, by an increase of the concentration of the agonist, since the agonist and antagonist compete for binding to the receptor. Competitive antagonists, therefore, can be characterized as shifting the dose-response relationship for the agonist to the right. In the presence of a competitive antagonist, it takes an increased concentration of the agonist to produce the same response observed in the absence of the antagonist.
+
+An irreversible antagonist binds so strongly to the receptor as to render the receptor unavailable for binding to the agonist. Irreversible antagonists may even form covalent chemical bonds with the receptor. In either case, if the concentration of the irreversible antagonist is high enough, the number of unbound receptors remaining for agonist binding may be so low that even high concentrations of the agonist do not produce the maximum biological response.
+
+7.3. Precursors
+
+While intake of neurotransmitter precursors does increase neurotransmitter synthesis, evidence is mixed as to whether neurotransmitter release and postsynaptic receptor firing is increased. Even with increased neurotransmitter release, it is unclear whether this will result in a long-term increase in neurotransmitter signal strength, since the nervous system can adapt to changes such as increased neurotransmitter synthesis and may therefore maintain constant firing. Some neurotransmitters may have a role in depression and there is some evidence to suggest that intake of precursors of these neurotransmitters may be useful in the treatment of mild and moderate depression.
+
+7.3.1. Catecholamine and trace amine precursors
+
+L-DOPA, a precursor of dopamine that crosses the blood–brain barrier, is used in the treatment of Parkinson's disease. For depressed patients where low activity of the neurotransmitter norepinephrine is implicated, there is only little evidence for benefit of neurotransmitter precursor administration. L-phenylalanine and L-tyrosine are both precursors for dopamine, norepinephrine, and epinephrine. These conversions require vitamin B6, vitamin C, and S-adenosylmethionine. A few studies suggest potential antidepressant effects of L-phenylalanine and L-tyrosine, but there is much room for further research in this area.
+
+7.3.2. Serotonin precursors
+
+Administration of L-tryptophan, a precursor for serotonin, is seen to double the production of serotonin in the brain. It is significantly more effective than a placebo in the treatment of mild and moderate depression. This conversion requires vitamin C. 5-hydroxytryptophan (5-HTP), also a precursor for serotonin, is more effective than a placebo.
+
+8. Diseases and disorders
+
+Diseases and disorders may also affect specific neurotransmitter systems. For example, problems in producing dopamine can result in Parkinson's disease, a disorder that affects a person's ability to move as they want to, resulting in stiffness, tremors or shaking, and other symptoms. Some studies suggest that having too little dopamine or problems using dopamine in the thinking and feeling regions of the brain may play a role in disorders like schizophrenia or attention deficit hyperactivity disorder (ADHD). Moreover, research shows that people diagnosed with depression often have lower than normal levels of serotonin. The types of medications most commonly prescribed to treat depression act by blocking the recycling, or reuptake, of serotonin by the sending neuron. As a result, more serotonin stays in the synapse for the receiving neuron to bind onto, leading to more normal mood functioning. Furthermore, problems in making or using glutamate have been linked to many mental disorders, including autism, obsessive compulsive disorder (OCD), schizophrenia, and depression.
+
+9. Elimination of neurotransmitters
+
+A neurotransmitter must be broken down once it reaches the post-synaptic cell to prevent further excitatory or inhibitory signal transduction. This allows new signals to be produced from the adjacent nerve cells. When the neurotransmitter has been secreted into the synaptic cleft, it binds to specific receptors on the postsynaptic cell, thereby generating a postsynaptic electrical signal. The transmitter must then be removed rapidly to enable the postsynaptic cell to engage in another cycle of neurotransmitter release, binding, and signal generation. Neurotransmitters are terminated in three different ways:
+
+Diffusion – the neurotransmitter detaches from receptor, drifting out of the synaptic cleft, here it becomes absorbed by glial cells.
+
+Enzyme degradation – special chemicals called enzymes break it down.
+
+Reuptake – re-absorption of a neurotransmitter into the neuron. Transporters, or membrane transport proteins, pump neurotransmitters from the synaptic cleft back into axon terminals (the presynaptic neuron) where they are stored. For example, choline is taken up and recycled by the pre-synaptic neuron to synthesize more ACh. Other neurotransmitters such as dopamine are able to diffuse away from their targeted synaptic junctions and are eliminated from the body via the kidneys, or destroyed in the liver. Each neurotransmitter has very specific degradation pathways at regulatory points, which may be targeted by the body's regulatory system or by recreational drugs.
+
+10. Neurotransmitter imbalance
+
+Neurotransmitter imbalances have been connected to the cause of many diseases. These include Parkinson's, depression, insomnia, Attention Deficit Hyperactivity Disorder (ADHD), anxiety, memory loss, dramatic changes in weight and addictions. They all involve amino acids which form neurotransmitters. The acids are made up of protein and without a sufficient amount of this then cells are not structured properly; therefore not functioning properly. Chronic stress is the primary contributor to neurotransmitter imbalance. Physical and emotional stress from a job or a relationship causes neurons to use up large amounts of neurotransmitters in order to cope with the ongoing stress. Over time the stress wears out the nervous system and depletes neurotransmitter supply. Genetics play a part in correlating with neurotransmitter imbalance. Some people are already born with neurotransmitter deficiencies or excesses. Scientists are trying to supplement medication by changing the diets of some patients instead; adding amino acids into the body. Diseases such as depression and anxiety disorders prescribe patients with medications that directly react with neurotransmitter serotonin and norepinephrine which bind to neuroreceptors.
+
+11. See also
+
+Neurotransmission
+
+Neurotransmitter receptor
+
+Neurotransmitter release
+
+Gasotransmitters
+
+Kiss-and-run fusion
+
+Neuromuscular transmission
+
+Neuropsychopharmacology
+
+Neuroendocrine
+
+Neuroendocrinology
+
+12. References
+
+13. External links

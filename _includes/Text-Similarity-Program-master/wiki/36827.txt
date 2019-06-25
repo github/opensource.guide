@@ -1,0 +1,89 @@
+In computer science, mutual exclusion refers to the requirement of ensuring that no two concurrent processes are in their critical section at the same time; it is a basic requirement in concurrency control, to prevent race conditions. Here, a critical section refers to a period when the process accesses a shared resource, such as shared memory. The requirement of mutual exclusion was first identified and solved by Edsger W. Dijkstra in his seminal 1965 paper titled Solution of a problem in concurrent programming control, and is credited as the first topic in the study of concurrent algorithms.
+
+A simple example of why mutual exclusion is important in practice can be visualized using a singly linked list (See Figure 1). In such a linked list, the removal of a node is done by changing the “next” pointer of the preceding node to point to the subsequent node (e.g., if node i is being removed then the “next” pointer of node i−1 will be changed to point to node i+1). In an execution where such a linked list is being shared between multiple processes, two processes may attempt to remove two different nodes simultaneously, resulting in the following problem: let nodes i and i+1 be the nodes to be removed; furthermore, let neither of them be the head nor the tail; the next pointer of node i−1 will be changed to point to node i+1 and the next pointer of node i will be changed to point to node i+2. Although both removal operations complete successfully, node i+1 remains in the list since i−1 was made to point to i+1, skipping node i (which was the node that reflected the removal of i+1 by having its next pointer set to i+2). This can be seen in Figure 1. This problem (normally called a race condition) can be avoided by using the requirement of mutual exclusion to ensure that simultaneous updates to the same part of the list cannot occur.
+
+1. Enforcing mutual exclusion
+
+There are both software and hardware solutions for enforcing mutual exclusion. Some different solutions are discussed below.
+
+1.1. Hardware solutions
+
+On uniprocessor systems, the simplest solution to achieve mutual exclusion is to disable interrupts during a process's critical section. This will prevent any interrupt service routines from running (effectively preventing a process from being preempted). Although this solution is effective, it leads to many problems. If a critical section is long, then the system clock will drift every time a critical section is executed because the timer interrupt is no longer serviced, so tracking time is impossible during the critical section. Also, if a process halts during its critical section, control will never be returned to another process, effectively halting the entire system. A more elegant method for achieving mutual exclusion is the busy-wait.
+
+Busy-waiting is effective for both uniprocessor and multiprocessor systems. The use of shared memory and an atomic test-and-set instruction provides the mutual exclusion. A process can test-and-set on a location in shared memory, and since the operation is atomic, only one process can set the flag at a time. Any process that is unsuccessful in setting the flag can either go on to do other tasks and try again later, release the processor to another process and try again later, or continue to loop while checking the flag until it is successful in acquiring it. Preemption is still possible, so this method allows the system to continue to function - even if a process halts while holding the lock.
+
+Several other atomic operations can be used to provide mutual exclusion of data structures; most notable of these is compare-and-swap (CAS). CAS can be used to achieve wait-free mutual exclusion for any shared data structure by creating a linked list where each node represents the desired operation to be performed. CAS is then used to change the pointers in the linked list during the insertion of a new node. Only one process can be successful in its CAS; all other processes attempting to add a node at the same time will have to try again. Each process can then keep a local copy of the data structure, and upon traversing the linked list, can perform each operation from the list on its local copy.
+
+1.2. Software solutions
+
+Beside hardware-supported solutions, some software solutions exist that use busy waiting to achieve mutual exclusion. Examples of these include the following:
+
+Dekker's algorithm
+
+Peterson's algorithm
+
+Lamport's bakery algorithm
+
+Szymanski's Algorithm
+
+Taubenfeld's black-white bakery algorithm. These algorithms do not work if out-of-order execution is used on the platform that executes them. Programmers have to specify strict ordering on the memory operations within a thread.
+
+It is often preferable to use synchronization facilities provided by an operating system's multithreading library, which will take advantage of hardware solutions if possible but will use software solutions if no hardware solutions exist. For example, when the operating system's lock library is used and a thread tries to acquire an already acquired lock, the operating system could suspend the thread using a context switch and swap it out with another thread that is ready to be run, or could put that processor into a low power state if there is no other thread that can be run. Therefore, most modern mutual exclusion methods attempt to reduce latency and busy-waits by using queuing and context switches. However, if the time that is spent suspending a thread and then restoring it can be proven to be always more than the time that must be waited for a thread to become ready to run after being blocked in a particular situation, then spinlocks are an acceptable solution (for that situation only).
+
+2. Advanced mutual exclusion
+
+The solutions explained above can be used to build the synchronization primitives below:
+
+Locks
+
+Reentrant mutexes
+
+Semaphores
+
+Monitors
+
+Message passing
+
+Tuple space
+
+Readers-writer lock Many forms of mutual exclusion have side-effects. For example, classic semaphores permit deadlocks, in which one process gets a semaphore, another process gets a second semaphore, and then both wait forever for the other semaphore to be released. Other common side-effects include starvation, in which a process never gets sufficient resources to run to completion; priority inversion, in which a higher priority thread waits for a lower-priority thread; and "high latency", in which response to interrupts is not prompt.
+
+Much research is aimed at eliminating the above effects, often with the goal of guaranteeing non-blocking progress. No perfect scheme is known. Blocking system calls used to sleep an entire process. Until such calls became thread safe, there was no proper mechanism for sleeping a single thread within a process (see polling).
+
+3. See also
+
+Atomicity (programming)
+
+Concurrency control
+
+Exclusive or
+
+Mutually exclusive events
+
+Semaphore
+
+Dining philosophers problem
+
+Reentrant mutex
+
+Spinlock
+
+4. Notes
+
+5. References
+
+6. Further reading
+
+Michel Raynal: Algorithms for Mutual Exclusion, MIT Press, ISBN 0-262-18119-3
+
+Sunil R. Das, Pradip K. Srimani: Distributed Mutual Exclusion Algorithms, IEEE Computer Society, ISBN 0-8186-3380-8
+
+Thomas W. Christopher, George K. Thiruvathukal: High-Performance Java Platform Computing, Prentice Hall, ISBN 0-13-016164-0
+
+Gadi Taubenfeld, Synchronization Algorithms and Concurrent Programming, Pearson/Prentice Hall, ISBN 0-13-197259-6
+
+7. External links
+
+Article
+
+" by Daniel Robbins

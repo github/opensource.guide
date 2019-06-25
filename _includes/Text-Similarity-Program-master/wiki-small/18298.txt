@@ -1,0 +1,101 @@
+A lunar eclipse occurs when the Moon passes directly behind the Earth into its umbra (shadow). This can occur only when the Sun, Earth, and Moon are aligned (in "syzygy") exactly, or very closely so, with the Earth in the middle. Hence, a lunar eclipse can only occur the night of a full moon. The type and length of an eclipse depend upon the Moon's location relative to its orbital nodes.
+
+Unlike a solar eclipse, which can only be viewed from a certain relatively small area of the world, a lunar eclipse may be viewed from anywhere on the night side of the Earth. A lunar eclipse lasts for a few hours, whereas a total solar eclipse lasts for only a few minutes at any given place, due to the smaller size of the moon's shadow. Also unlike solar eclipses, lunar eclipses are safe to view without any eye protection or special precautions, as they are dimmer than the full moon.
+
+For the date of the next eclipse see the section Recent and forthcoming lunar eclipses.
+
+1. Types of lunar eclipse
+
+The shadow of the Earth can be divided into two distinctive parts: the umbra and penumbra. Within the umbra, there is no direct solar radiation. However, as a result of the Sun's large angular size, solar illumination is only partially blocked in the outer portion of the Earth's shadow, which is given the name penumbra.
+
+A penumbral eclipse occurs when the Moon passes through the Earth's penumbra. The penumbra causes a subtle darkening of the Moon's surface. A special type of penumbral eclipse is a total penumbral eclipse, during which the Moon lies exclusively within the Earth's penumbra. Total penumbral eclipses are rare, and when these occur, that portion of the Moon which is closest to the umbra can appear somewhat darker than the rest of the Moon.
+
+A partial lunar eclipse occurs when only a portion of the Moon enters the umbra. When the Moon travels completely into the Earth's umbra, one observes a total lunar eclipse. The Moon's speed through the shadow is about one kilometer per second (2,300 mph), and totality may last up to nearly 107 minutes. Nevertheless, the total time between the Moon's first and last contact with the shadow is much longer, and could last up to 4 hours. The relative distance of the Moon from the Earth at the time of an eclipse can affect the eclipse's duration. In particular, when the Moon is near its apogee, the farthest point from the Earth in its orbit, its orbital speed is the slowest. The diameter of the umbra does not decrease appreciably within the changes in the orbital distance of the moon. Thus, a totally eclipsed Moon occurring near apogee will lengthen the duration of totality.
+
+1.1. Selenelion
+
+A selenelion or selenehelion occurs when both the Sun and the eclipsed Moon can be observed at the same time. This can only happen just before sunset or just after sunrise, and both bodies will appear just above the horizon at nearly opposite points in the sky. This arrangement has led to the phenomenon being referred to as a horizontal eclipse. There are typically a number of high ridges undergoing sunrise or sunset that can see it. Although the Moon is in the Earth’s umbra, the Sun and the eclipsed Moon can both be seen at the same time because the refraction of light through the Earth’s atmosphere causes each of them to appear higher in the sky than their true geometric position.
+
+2. Timing
+
+3. Danjon scale
+
+The following scale (the Danjon scale) was devised by André Danjon for rating the overall darkness of lunar eclipses:
+
+4. Lunar versus solar eclipse
+
+There is often confusion between a solar and lunar eclipse. While both involve interactions between the Sun, Earth, and Moon, they are very different in their interactions.
+
+4.1. Lunar eclipse appearance
+
+The Moon does not completely disappear as it passes through the umbra because of the refraction of sunlight by the Earth’s atmosphere into the shadow cone; if the Earth had no atmosphere, the Moon would be completely dark during an eclipse. The red coloring arises because sunlight reaching the Moon must pass through a long and dense layer of the Earth’s atmosphere, where it is scattered. Shorter wavelengths are more likely to be scattered by the air molecules and the small particles, and so by the time the light has passed through the atmosphere, the longer wavelengths dominate. This resulting light we perceive as red. This is the same effect that causes sunsets and sunrises to turn the sky a reddish color; an alternative way of considering the problem is to realize that, as viewed from the Moon, the Sun would appear to be setting (or rising) behind the Earth.
+
+The amount of refracted light depends on the amount of dust or clouds in the atmosphere; this also controls how much light is scattered. In general, the dustier the atmosphere, the more that other wavelengths of light will be removed (compared to red light), leaving the resulting light a deeper red color. This causes the resulting coppery-red hue of the Moon to vary from one eclipse to the next. Volcanoes are notable for expelling large quantities of dust into the atmosphere, and a large eruption shortly before an eclipse can have a large effect on the resulting color.
+
+4.2. Solar eclipse appearance
+
+A solar eclipse occurs when the Moon casts its shadow on Earth whilst passing between the Sun and Earth. Because the Moon's orbit is 5 degrees tilted to the Earth's orbit around the Sun, a solar eclipse is rare. The Moon has an elliptical orbit around the Earth, so the separation of the two varies from about 221,000 to 252,000 miles. When the Moon's distance from the Earth is low, the Moon appears significantly larger and can completely obscure the Sun causing a Total Solar Eclipse. An Annular Solar Eclipse occurs when the Moon is furthest from the Earth. On these occasions the Moon will appear to be smaller and not fully eclipse the sun.
+
+5. March 1504 lunar eclipse
+
+When Christopher Columbus came to the New World—specifically, the north coast of Jamaica—he was able to use the technology of Europe to correctly predict a lunar eclipse. The event is known as the March 1504 lunar eclipse, and occurred when Columbus, after he wanted to be seen as god-like, stated that he would make the moon disappear during the night of February 29, 1504. The reason Columbus wanted to prove he could make the moon disappear is because he and his crew were eating a great deal of the inhabitants' food, and the inhabitants refused to feed them anymore. Columbus was right in his prediction, for he used astronomical tables and local clocks in order to predict when the lunar eclipse would happen, and was able to convince the inhabitants that he had the power to make the moon disappear and then reappear. After the inhabitants believed that Columbus was truly able to make the moon disappear, they begged him to return the moon to its previous form, and after roughly an allotted amount of time (the amount of time Columbus discerned to be how long the eclipse would last), Columbus agreed to return the moon, and the moon began to reappear. The next day, the inhabitants gave Columbus and his crew the food they desired.
+
+6. Lunar eclipse in mythology
+
+Several cultures have myths related to lunar eclipses. The Egyptians saw the eclipse as a sow swallowing the moon for a short time; other cultures view the eclipse as the moon being swallowed by other animals, such as a jaguar in Mayan tradition, or a three legged toad in China. Some societies thought it was a demon swallowing the moon, and that they could chase it away by throwing stones and curses at it.
+
+6.1. Incans
+
+Similarly to the Mayans, the Incans believed that lunar eclipses were when a jaguar would eat the moon, which is why a blood moons look red. The Incans also believed that once the jaguar finished eating the moon, it could come down and devour all the animals on earth, so they would take spears and shout at the moon to keep it away.
+
+6.2. Mesopotamians
+
+The ancient Mesopotamians believed that a lunar eclipse was when the moon was being attacked by seven demons. This attack was more than just one on the moon, however, for the Mesopotamians linked what happened in the sky with what happens on the land, and because the king of Mesopotamia represented the land, the seven demons were thought to be also attacking the king. In order to prevent this attack on the king, the Mesopotamians made someone pretend to be the king so they would be attacked instead of the true king. After the lunar eclipse was over, the substitute king was made to disappear (possibly by poisoning).
+
+6.3. Chinese
+
+In Chinese believed that lunar eclipses was that when the Dragon is attempting to eat the moon. To cope with this effect, in ancient China, try to make loud noises to frighten the Dragon away. In the nineteenth century, during lunar eclipse, the Chinese navy fired its artillery because of this belief.
+
+7. Lunar eclipse in culture
+
+Several cultures allude to the lunar eclipse as being a good or bad omen. For example, in some Chinese cultures, people would ring bells to remove wild animals that bit the moon. During the Zhou Dynasty in the Book of Songs, the sight of a red moon engulfed in darkness led them to believe the sign as a foreshadowing of famine or disease. The Greeks were ahead of their time when they said the earth was round and used the shadow from the Lunar Eclipse as evidence. Some Hindus believe in the importance of bathing in the Ganges River following an eclipse because it will help you achieve salvation
+
+8. Blood moon
+
+Due to its reddish color, a totally eclipsed moon is sometimes referred to as a "blood moon". In addition, in the 2010s the media started to associate the term "blood moon" with the four full moons of a lunar tetrad, especially the 2014–2015 tetrad coinciding with the feasts of Passover and Tabernacles. A lunar tetrad is a consecutive sequence of four lunar eclipses, spaced six months apart. The most recent blood moon occurred on October 8, 2014 and was visible across much of the Americas and Asia
+
+9. Occurrence
+
+Every year, there are at least two lunar eclipses and as many as five, although total lunar eclipses are significantly less common. If one knows the date and time of an eclipse, it is possible to predict the occurrence of other eclipses using an eclipse cycle like the saros.
+
+9.1. Recent and forthcoming lunar eclipses
+
+Eclipses only occur during an eclipse season, when the Sun is close to either the ascending or descending node of the Moon.
+
+10. See also
+
+List of lunar eclipses and List of 21st-century lunar eclipses
+
+May 1453 lunar eclipse - Fall of Constantinople
+
+March 1504 lunar eclipse - Columbus’ lunar eclipse
+
+December 1573 lunar eclipse - Tycho Brahe
+
+Moon illusion
+
+Orbit of the Moon
+
+11. References
+
+12. Further reading
+
+Bao-Lin Liu, Canon of Lunar Eclipses 1500 B.C.-A.D. 3000, 1992
+
+Jean Meeus and Hermann Mucke Canon of Lunar Eclipses. Astronomisches Büro, Vienna, 1983
+
+Espenak, F., Fifty Year Canon of Lunar Eclipses: 1986-2035. NASA Reference Publication 1216, 1989
+
+13. External links
+
+, University of South Wales

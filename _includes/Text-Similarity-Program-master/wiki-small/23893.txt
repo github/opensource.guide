@@ -1,0 +1,33 @@
+Per capita income, also known as income per person, is the mean income of the people in an economic unit such as a country or city. It is calculated by taking a measure of all sources of income in the aggregate (such as GDP or Gross national income) and dividing it by the total population.
+
+1. Per capita income as a measure of prosperity
+
+Per capita income: total resources/total population.
+
+Per capita income is often used as average income,it can also be used as a measure of the wealth of the population of a nation, particularly in comparison to other nations. Per capita income is often used to measure a country's standard of living. It is usually expressed in terms of a commonly used international currency such as the Euro or United States dollar, and is useful because it is widely known, easily calculated from readily-available GDP and population estimates, and produces a useful statistic for comparison of wealth between sovereign territories. This helps the country to know their development status.
+
+Critics claim that per capita income has several weaknesses as an accurate measurement of prosperity:
+
+Comparisons of per capita income over time need to take into account changes in prices. Without using measures of income adjusted for inflation, they will tend to overstate the effects of economic growth.
+
+International comparisons can be distorted by the differences in the costs of living with each country that are not reflected in exchange rates. Where the objective of the comparison is to look at differences in living standards between countries, using a measure of per capita income adjusted for differences in purchasing power parity more accurately reflects the differences in what people are actually able to buy with their money.
+
+As it is a mean value, it does not reflect income distribution. If the distribution of income within a country is skewed, a small wealthy class can increase per capita income far above that of the majority of the population. In this respect Median income is a more useful measure of prosperity than per capita income, because it is less influenced by the outliers.
+
+Economic activity that does not result in monetary income, such as services provided within the family, or for barter, is usually not counted. The importance of these services varies widely among different economies.
+
+Per capita income does not take into account how income is deployed; whether it is invested in factors likely to improved the development of a country or nation such as medical facilities, educational facilities, transport infrastructure etc.
+
+2. See also
+
+List of countries by GDP (nominal) per capita舒GDP at market or government official exchange rates per inhabitant
+
+List of countries by GDP (PPP) per capita舒GDP calculated at purchasing power parity (PPP) exchange per inhabitant
+
+List of countries by GNI (nominal, Atlas method) per capita
+
+List of countries by GNI (PPP) per capita
+
+List of countries by income equality
+
+Total personal income

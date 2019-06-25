@@ -1,0 +1,111 @@
+A wart is a small, rough growth resembling a cauliflower or a solid blister. It typically occurs on humans' hands or feet but often in other locations. Warts are caused by a viral infection, specifically by one of the many types of human papillomavirus (HPV). There are as many as 10 varieties of warts, the most common considered to be mostly harmless. It is possible to get warts from others; they are contagious and usually enter the body in an area of broken skin. They typically disappear after a few months but can last for years and can recur.
+
+1. Types
+
+A range of types of wart have been identified, varying in shape and site affected, as well as the type of human papillomavirus involved. These include:
+
+Common wart (Verruca vulgaris), a raised wart with roughened surface, most common on hands, but can grow anywhere on the body;
+
+Flat wart (Verruca plana), a small, smooth flattened wart, flesh-coloured, which can occur in large numbers; most common on the face, neck, hands, wrists and knees;
+
+Filiform or digitate wart, a thread- or finger-like wart, most common on the face, especially near the eyelids and lips;
+
+Genital wart (venereal wart, Condyloma acuminatum, Verruca acuminata), a wart that occurs on the genitalia.
+
+Mosaic wart, a group of tightly clustered plantar-type warts, commonly on the hands or soles of the feet;
+
+Periungual wart, a cauliflower-like cluster of warts that occurs around the nails.
+
+Plantar wart (verruca, Verruca plantaris), a hard sometimes painful lump, often with multiple black specks in the center; usually only found on pressure points on the soles of the feet;
+
+2. Cause
+
+Warts are caused by the human papilloma virus (HPV). There are about 130 known types of human papilloma viruses. HPV infects the squamous epithelium, usually of the skin or genitals, but each HPV type is typically only able to infect a few specific areas on the body. Many HPV types can produce a benign growth, often called a "wart" or "papilloma", in the area they infect. Many of the more common HPV and wart types are listed below.
+
+Common warts – HPV types 2 and 4 (most common); also types 1, 3, 26, 29, and 57 and others.
+
+Cancers and genital dysplasia – "high-risk" HPV types are associated with cancers, notably cervical cancer, and can also cause some vulvar, vaginal, penile, anal and some oropharyngeal cancers. "low-risk" types are associated with warts or other conditions.)
+
+Plantar warts (myrmecia) – HPV type 1 (most common); also types 2, 3, 4, 27, 28, and 58 and others.
+
+Anogenital warts (condylomata acuminata or venereal warts) – HPV types 6 and 11 (most common); also types 42, 44 and others.
+
+Flat warts – HPV types 3, 10, and 28.
+
+Butcher's warts – HPV type 7.
+
+Heck's disease (Focal epithelial hyperplasia) – HPV types 13 and 32.
+
+3. Pathophysiology
+
+Common warts have a characteristic appearance under the microscope. They have thickening of the stratum corneum (hyperkeratosis), thickening of the stratum spinosum (acanthosis), thickening of the stratum granulosum, rete ridge elongation, and large blood vessels at the dermoepidermal junction.
+
+4. Prevention
+
+Gardasil is an HPV vaccine aimed at preventing cervical cancers and genital warts. Gardasil is designed to prevent infection with HPV types 16, 18, 6, and 11. HPV types 16 and 18 currently cause about 70% of cervical cancer cases, and also cause some vulvar, vaginal, penile and anal cancers. HPV types 6 and 11 are responsible for 90% of documented cases of genital warts. Unfortunately the HPV vaccines do not currently prevent the virus strain responsible for verrucas (plantar warts).
+
+5. Treatment
+
+There are many treatments and procedures associated with wart removal. A review of clinical trials of various cutaneous wart treatments concluded that topical treatments containing salicylic acid were more effective than placebo. Cryotherapy appears to be as effective as salicylic acid, but there have been fewer trials.
+
+One complicating factor in the treatment of warts is that the wart may regrow after it has been removed.
+
+5.1. Medication
+
+Salicylic acid can be prescribed by a dermatologist in a higher concentration than that found in over-the-counter products. There are several over-the-counter options, readily available at pharmacies and supermarkets. There are typically two types of products: adhesive pads treated with salicylic acid or a bottle of concentrated salicylic acid solution.
+
+Imiquimod, a topical cream that helps the body's immune system fight the wart virus by encouraging interferon production. Approved by the U.S. Food and Drug Administration (FDA) for genital warts. The drug is very expensive.
+
+Cantharidin, a chemical found naturally in many members of the beetle family Meloidae which causes dermal blistering. Either used by itself or compounded with podophyllin. Not FDA approved, but available through Canada or select US compounding pharmacies.
+
+Bleomycin, not US FDA approved. One or two injections used. It can cause necrosis of digits and Raynaud syndrome.
+
+Dinitrochlorobenzene (DNCB), like salicylic acid, is applied directly to the wart. Studies showed this method was effective with a cure rate of 80%. But DNCB must be used much more cautiously than salicylic acid; the chemical is known to cause genetic mutations, so it must be administered by a physician. This drug induces an allergic immune response resulting in inflammation that wards off the wart-causing virus.
+
+Fluorouracil, which inhibits DNA synthesis, is being used as an experimental treatment. It is applied directly to the wart (especially plantar warts) and covered (for example: with tape). This treatment is combined with the use of a pumice stone, but tends to work very slowly. Another product available over-the-counter that can aid in wart removal is silver nitrate in the form of a caustic pencil, which is also available at drug stores. In a placebo-controlled study of 70 patients, silver nitrate given over nine days resulted in clearance of all warts in 43% and improvement in warts in 26% one month after treatment compared to 11% and 14%, respectively, in the placebo group. The instructions must be followed to minimize staining of skin and clothing. Occasionally pigmented scars may develop.
+
+Cryosurgery or cryotherapy devices using a dimethyl ether – propane mixture are inexpensive. A disadvantage is that the sponge applicator is too large for small warts, and the temperature achieved is not nearly as low as with liquid nitrogen. Complications include blistering of normal skin if excess freezing is not controlled.
+
+Several randomized, controlled trials have found that zinc sulfate, consumed orally, often reduces or eliminates warts. The zinc sulfate dosage used in medical trials for treatment of warts was between 5 and 10 mg/kg/day. For elemental zinc, a lower dosage of 2.5 mg/kg/day may be appropriate as large amounts of zinc may cause a copper deficiency. Other trials have found that topical zinc sulfate solution or zinc oxide are also effective.
+
+5.2. Procedures
+
+Keratolysis, of dead surface skin cells usually using salicylic acid, blistering agents, immune system modifiers ("immunomodulators"), or formaldehyde, often with mechanical paring of the wart with a pumice stone, blade etc.
+
+Electrodesiccation
+
+Cryosurgery, which involves freezing the wart (generally with liquid nitrogen), creating a blister between the wart and epidermal layer after which the wart and the surrounding dead skin fall off by themselves. An average of 3 to 4 treatments are required for warts on thin skin. Warts on calloused skin like plantar warts might take dozens or more treatments.
+
+Surgical curettage of the wart;
+
+Laser treatment – often with a pulse dye laser or carbon dioxide (CO2) laser. Pulse dye lasers (wavelength 582 nm) work by selective absorption by blood cells (specifically haemoglobin). CO2 lasers work by selective absorption by water molecules. Pulse dye lasers are less destructive and more likely to heal without scarring. CO2 laser works by vaporizing and destroying tissue and skin. Laser treatments can be painful, expensive (though covered by many insurances), and not extensively scarring when used appropriately. CO2 lasers will require local anaesthetic. Pulse dye laser treatment does not need conscious sedation or local anesthetic. It takes 2 to 4 treatments but can be many more for extreme cases. Typically, 10–14 days are required between treatments. Preventative measures are important.
+
+Infrared coagulator – an intense source of infrared light in a small beam like a laser. This works essentially on the same principle as laser treatment. It is less expensive. Like the laser, it can cause blistering pain and scarring.
+
+Duct tape occlusion therapy involves placing a piece of duct tape over the wart. The mechanism of action of this technique was unknown as of 2012, and despite several clinical trials the evidence for the efficacy of duct tape therapy is inconclusive. Despite the mixed evidence for efficacy, the simplicity of the method and its limited side-effects leads some researchers to be reluctant to dismiss it.
+
+6. Folk remedies
+
+A variety of traditional folk remedies and rituals claim to be able to remove warts.
+
+The acrid yellow sap of Greater Celandine is used as a traditional wart remedy. The sap can be applied directly to the wart in a similar manner to concentrated salicylic acid solution, but in more modest quantities.
+
+In The Adventures of Tom Sawyer, Mark Twain has his characters discuss a variety of such remedies. Tom Sawyer proposes "spunk-water" (or "stump-water", the water collecting in the hollow of a tree stump) as a remedy for warts on the hand. You put your hand into the water at midnight and say:
+
+and then "walk away quick, eleven steps, with your eyes shut, and then turn around three times and walk home without speaking to anybody. Because if you speak the charm's busted." This is held to be superior to Huckleberry Finn's preferred remedy which involved throwing a dead cat into a graveyard. Another remedy involved splitting a bean, drawing blood from the wart and putting it on one of the halves, and burying that half at a crossroads at midnight. The theory of operation is that the blood on the buried bean will draw away the wart. Twain is recognized as an early collector and recorder of genuine American folklore.
+
+Similar practices are recorded elsewhere. In Louisiana, one remedy for warts involves rubbing the wart with a potato, which is then buried; when the "buried potato dries up, the wart will be cured". Another remedy similar to Twain's is reported from Northern Ireland, where water from a specific well on Rathlin Island is credited with the power to cure warts.
+
+A longstanding tradition holds that touching toads will cause warts. The most common Northern Hemisphere toads have glands that protrude from their skin that superficially resemble warts. Warts are caused by a virus, and toads do not harbor it.
+
+7. See also
+
+List of cutaneous conditions
+
+8. In other animals
+
+9. References
+
+10. External links
+
+, Dermnet

@@ -1,0 +1,27 @@
+In poker, the nut hand is the strongest possible hand in a given situation. The second-nut hand or third-nut hand (and so on) may refer to the second and third best possible hands. The term applies mostly to community card poker games where the individual holding the strongest possible hand, with the given board of community cards, is capable of knowing that they have the nut hand.
+
+1. Usage in context
+
+In Texas hold 'em, if the board is 5♠ 6♠ A♣ 9♠ 5♥, a player holding 7♠ 8♠ has the nut hand, a 9-high straight flush of spades, and cannot lose. On the same board, the hand 5♣ 5♦ would be the second-nut hand, four of a kind fives; the third-nut hand would be any pair of the remaining three aces, making a full house, aces full of fives.
+
+It is important to note that the actual nut hand may not be the same as the absolute nut hand; for example, if the board is 7♥ 2♣ K♠ K♥ 3♦ a player with K♣ K♦ has the absolute nut hand. However, any player with K-7 knows that he has the nut hand as it is impossible for another player to have two kings. The phrase may also refer to a hand in progress with cards yet to be dealt, as the player can be said to have the nuts at that time. For example if a player holds 7♠ 8♠ on a board of 5♣ 6♠ 9♥ he can be said to have the nuts, however if the next card comes 7♥ then 8-10 becomes the nuts. This makes some nut hands very vulnerable in nine-card games, such as Omaha hold 'em.
+
+In high-low split games one often speaks of "nut-low" and "nut-high" hands separately. In Omaha hold 'em, if the board is, 5♠ 6♠ A♣ 9♠ 5♥, any player with 2-3 makes the nut-low hand, 6-5-3-2-A, while a player with 2-4 makes the second-nut-low hand, 6-5-4-2-A (the nut-high hands remain the same as in Texas hold 'em, in this case 7♠ 8♠ to make a straight flush, although one can go as low as aces full by introducing quads and straight flush blockers). Similarly, one can sometimes hear the term "nut-nut", which refers to a hand that makes both the best possible high and low. In Omaha, with the same board as above, a player holding 7♠ 8♠ plus 2-3 of any suit has the nut-nut and is guaranteed no worse than a split of the low pot plus a win of the high pot.
+
+2. Origins
+
+A common and certainly apocryphal folk etymology is that the term originated from the historical poker games in the colonial west of America, where if a player bet everything he possessed, he would place the nuts of his wagon wheels on the table to ensure that, should he lose, he would be unable to flee and would have to make good on the bet. Since it would be expected that a player would only make such a bet when he had the best possible hand, the folk lore says that this is how the best possible hand came to be known as the nuts. It is also rumored that these historical games were played only in the winter, and therefore, the nuts that were placed on the table were "stone cold", hence coining the term "stone-cold-nuts".
+
+A far more likely explanation is that "the nuts" originated from the old English usage of "nuts", meaning "any source of pleasure".
+
+Another seemingly fitting explanation is that the term was derived from the UK English slang "the dog's bollocks" or "the mutt's nuts", meaning "the absolute best". However, this phrase originated around 1949, and the term "the nuts" pre-dates it.
+
+3. See also
+
+Poker
+
+Poker jargon
+
+List of playing card nicknames
+
+4. References

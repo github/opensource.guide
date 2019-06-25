@@ -1,0 +1,11 @@
+Pavel Samuilovich Urysohn, Pavel Uryson () (February 3, 1898, Odessa – August 17, 1924, Batz-sur-Mer) was a Soviet/Russian mathematician of Jewish origin who is best known for his contributions in dimension theory, and for developing Urysohn's Metrization Theorem and Urysohn's Lemma, both of which are fundamental results in topology. His name is also commemorated in the terms Urysohn universal space, Fréchet–Urysohn space, Menger-Urysohn dimension and Urysohn integral equation. He and Pavel Alexandrov formulated the modern definition of compactness in 1923.
+
+Urysohn studied at Moscow University from 1915 to 1921. His advisor was Nikolai Luzin. He then became an assistant professor there. He drowned in 1924 while swimming off the coast of Brittany, France, near Batz-sur-Mer, and is buried there.
+
+Urysohn's sister, Lina Neiman wrote a memoir about his life and childhood. Not being a mathematician, she included in the book memorial articles about his mathematical works by Pavel Alexandrov, Vadim Efremovich, Andrei Kolmogorov, Lazar Lyusternik, and Mark Krasnosel'skii.
+
+1. References
+
+Pavel Urysohn, Sur une classe d'equations integrales non lineaires, Mat. Sb. 31 (1923) 256-255
+
+, by L. Neiman, Det. Lit., Moscow, 1972.

@@ -1,0 +1,29 @@
+In the Beginning... Was the Command Line is an essay by Neal Stephenson which was originally published online in 1999 and later made available in book form (November 1999, ISBN 978-0380815937). The essay is a commentary on why the proprietary operating systems business is unlikely to remain profitable in the future because of competition from free software. It also analyzes the corporate/collective culture of the Microsoft, Macintosh, and free software communities.
+
+1. Themes
+
+Stephenson explores the GUI as a metaphor in terms of the increasing interposition of abstractions between humans and the actual workings of devices (in a similar manner to Zen and the Art of Motorcycle Maintenance) and explains the beauty hackers feel in good-quality tools. He does this with a car analogy. He compares four operating systems, Mac OS by Apple Computer to a luxury European car, Windows by Microsoft to a station wagon, Linux to a free tank, and BeOS to a batmobile. Stephenson argues that people continue to buy the station wagon despite free tanks being given away, because people do not want to learn how to operate a tank; they know that the station wagon dealership has a machine shop that they can take their car to when it breaks down. Because of this attitude, Stephenson argues that Microsoft is not really a monopoly, as evidenced by the free availability of other choice OSes, but rather has simply accrued enough mindshare among the people to have them coming back. He compares Microsoft to Disney, in that both are selling a vision to their customers, who in turn "want to believe" in that vision.
+
+Stephenson relays his experience with the Debian bug tracking system (). He then contrasts it with Microsoft's approach. Debian developers responded from around the world within a day. He was completely frustrated with his initial attempt to achieve the same response from Microsoft, but he concedes that his subsequent experience was satisfactory. The difference he notes is that Debian developers are personally accessible and transparently own up to defects in their OS distribution, while Microsoft pretends errors don't exist.
+
+2. Later developments
+
+The essay was written before the advent of Mac OS X. A recurring theme is the full power of the command line compared with easier to learn graphical user interfaces (GUIs) which are described as broken mixed metaphors for 'power users'. He then mentions GUIs which allow traditional terminal windows to be used. In a Slashdot interview in 2004, in response to the question:
+
+... have you embraced the new UNIX based MacOS X as the OS you want to use when you "Just want to go to Disneyland"? he replied:
+
+I embraced OS X as soon as it was available and have never looked back. So a lot of In the Beginning...was the Command Line is now obsolete. I keep meaning to update it, but if I'm honest with myself, I have to say this is unlikely.
+
+With Neal Stephenson's permission, Garrett Birkel responded to In the Beginning...was the Command Line in 2004, bringing it up to date and critically discussing Stephenson's argument. Birkel's response is interspersed throughout the original text, which remains untouched.
+
+3. See also
+
+History of operating systems
+
+Command-line interface
+
+Hyperreality
+
+4. References
+
+5. External links

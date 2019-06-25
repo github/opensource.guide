@@ -1,0 +1,31 @@
+The Qt Company (formerly known as Digia, Qt, Qt Development Frameworks, Qt Software, Trolltech and as Quasar Technologies) is an Oslo, Norway-based software company best known for its Qt toolkit and application framework. The Qt Company is a subsidiary of Digia.
+
+1. Products
+
+The company provides software development platforms and frameworks, as well as expert consulting services. Its flagship product is Qt, a multi-platform Graphical User Interface (GUI) framework written in C++. Qt is popular with application developers using C++ but is supported by bindings for other programming languages too, such as Python. Qt also includes packages such as data structures and a networking library. The popular, Free, and cross-platform KDE desktop environment and software compilation uses Trolltech's Qt library. The company also employs several KDE developers.
+
+In 2001 Trolltech introduced Qtopia which is based on Qt. Qtopia is an application platform for Linux-based devices such as mobile phones, portable media players, and home media. It is also used in many non-consumer products such as medical instruments and industrial devices. Qtopia Phone Edition was released in 2004, and their Greenphone smartphone is based on this platform.
+
+The following products exist but commercial support and development has stopped:
+
+Qt Jambi – Qt for Java
+
+Qt Extended – Application platform for Embedded Linux-based mobile computing devices
+
+2. History
+
+Trolltech was founded by Eirik Chambe-Eng and Haavard Nord on 4 March 1994. They started writing Qt in 1991, and since then Qt has steadily expanded and improved. Trolltech completed an initial public offering (IPO) on the Oslo Stock Exchange in July, 2006.
+
+On 28 January 2008, Nokia Corporation announced that they had entered into an agreement that Nokia would make a public voluntary tender offer to acquire Trolltech. The total cost for Nokia was approximately € 104 million. On 5 June 2008 Nokia’s voluntary tender offer was approved for all the shares in Trolltech. By 17 June 2008, Nokia had completed its acquisition of Trolltech. On 30 September 2008, Trolltech was renamed as Qt Software, and Qtopia was renamed as Qt Extended. On 11 August 2009, the company's name was changed to Qt Development Frameworks.
+
+Nokia sold the commercial licensing business of Qt to Digia on March 2011. In September 2012, all remaining Qt business was transferred to Digia.
+
+3. See also
+
+Nokia N9, a Qt-based mobile phone
+
+Greenphone, a mobile phone developed by Trolltech that uses mostly free and open source software
+
+4. References
+
+5. External links

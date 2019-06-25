@@ -1,0 +1,121 @@
+A library classification, or a bibliographic classification, is a system according to which library materials (such as books, serials, audiovisual materials, computer files, maps, manuscripts, realia and documents) are arranged on library shelves, typically according to subject, and allocating a call number. Library classification systems group related materials together, typically arranged in a hierarchical tree structure. A different kind of classification system, called a faceted classification system, is also widely used which allows the assignment of multiple classifications to an object, enabling the classifications to be ordered in multiple ways. The library classification is distinct from the International Standard Book Number (ISBN) or International Standard Serial Number (ISSN) systems, which are unique commercial product identifiers, the first for books the second for serial publications, that can be used for tracking individual library materials, such as for lending of the materials by the library.
+
+1. Description
+
+Library classification is an aspect of library and information science. It is a form of bibliographic classification (library classifications are used in library catalogs, while "bibliographic classification" also covers classification used in other kinds of bibliographic databases). Library classification is associated with library (descriptive) cataloging under the rubric of cataloging and classification, sometimes grouped together as technical services. The library professional who engages in the process of cataloging and classifying library materials is called a cataloger or catalog librarian. Library classification systems are one of the two tools used to facilitate subject access. The other consists of alphabetical indexing languages such as Thesauri and Subject Headings systems.
+
+Library classification of a piece of work consists of two steps. Firstly, the "aboutness" of the material is ascertained. Next, a call number (essentially a book's address) based on the classification system in use at the particular library will be assigned to the work using the notation of the system.
+
+It is important to note that unlike subject heading or thesauri where multiple terms can be assigned to the same work, in library classification systems, each work can only be placed in one class. This is due to shelving purposes: A book can have only one physical place. However in classified catalogs one may have main entries as well as added entries. Most classification systems like the Dewey Decimal Classification (DDC) and Library of Congress classification also add a cutter number to each work which adds a code for the author of the work.
+
+Classification systems in libraries generally play two roles. Firstly, they facilitate subject access by allowing the user to find out what works or documents the library has on a certain subject. Secondly, they provide a known location for the information source to be located (e.g. where it is shelved).
+
+Until the 19th century, most libraries had closed stacks, so the library classification only served to organize the subject catalog. In the 20th century, libraries opened their stacks to the public and started to shelve library material itself according to some library classification to simplify subject browsing.
+
+Some classification systems are more suitable for aiding subject access, rather than for shelf location. For example, Universal Decimal Classification, which uses a complicated notation of pluses and colons, is more difficult to use for the purpose of shelf arrangement but is more expressive compared to DDC in terms of showing relationships between subjects. Similarly faceted classification schemes are more difficult to use for shelf arrangement, unless the user has knowledge of the citation order.
+
+Depending on the size of the library collection, some libraries might use classification systems solely for one purpose or the other. In extreme cases, a public library with a small collection might just use a classification system for location of resources but might not use a complicated subject classification system. Instead all resources might just be put into a couple of wide classes (travel, crime, magazines etc.). This is known as a "mark and park" classification method, more formally called reader interest classification.
+
+2. Types
+
+There are many standard systems of library classification in use, and many more have been proposed over the years. However in general, classification systems can be divided into three types depending on how they are used:
+
+Universal schemes which cover all subjects, for example the Dewey Decimal Classification, Universal Decimal Classification and Library of Congress Classification
+
+Specific classification schemes which cover particular subjects or types of materials, for example Iconclass, British Catalogue of Music Classification, and Dickinson classification, or the NLM Classification for medicine.
+
+National schemes which are specially created for certain countries, for example the Swedish library classification system, SAB (Sveriges Allmänna Biblioteksförening). In terms of functionality, classification systems are often described as:
+
+enumerative: subject headings are listed alphabetically, with numbers assigned to each heading in alphabetical order.
+
+hierarchical: subjects are divided hierarchically, from most general to most specific.
+
+faceted or analytico-synthetic: subjects are divided into mutually exclusive orthogonal facets. There are few completely enumerative systems or faceted systems; most systems are a blend but favouring one type or the other. The most common classification systems, LCC and DDC, are essentially enumerative, though with some hierarchical and faceted elements (more so for DDC), especially at the broadest and most general level. The first true faceted system was the Colon classification of S. R. Ranganathan.
+
+2.1. English language universal classification systems
+
+The most common systems in English-speaking countries are:
+
+Dewey Decimal Classification (DDC)
+
+Library of Congress Classification (LCC)
+
+Colon classification (CC) Other systems include:
+
+BISAC subject headings, the publishing industry standard for classification that is being adopted by some libraries.
+
+THEMA subject headings, a relatively new (2013) book classification systems for publishers and booksellers that aims to combine BIC, BISAC and others into a single classification structure for the worldwide book trade.
+
+Harvard-Yenching Classification, an English classification system for Chinese language materials.
+
+V-LIB 1.2 (2008 Vartavan Library Classification for over 700 fields of knowledge, currently sold under license in the UK by Rosecastle Ltd. (see //rosecastle.atspace.com/index_files/VartavanLibrary.htm).
+
+2.2. Non-English universal classification systems
+
+A system of book classification for Chinese libraries (Liu's Classification) library classification for user
+
+New Classification Scheme for Chinese Libraries
+
+Nippon Decimal Classification (NDC)
+
+Chinese Library Classification (CLC)
+
+Korean Decimal Classification (KDC)
+
+Russian Library-Bibliographical Classification (BBK)
+
+2.3. Universal classification systems that rely on synthesis (faceted systems)
+
+Bliss bibliographic classification
+
+Colon classification
+
+Cutter Expansive Classification
+
+Universal Decimal Classification Newer classification systems tend to use the principle of synthesis (combining codes from different lists to represent the different attributes of a work) heavily, which is comparatively lacking in LC or DDC.
+
+3. Comparing classification systems
+
+As a result of differences in notation, history, use of enumeration, hierarchy, and facets, classification systems can differ in the following ways:
+
+Type of Notation: Notation can be pure (consisting of only numerals, for example) or mixed (consisting of letters and numerals, or letters, numerals, and other symbols).
+
+Expressiveness: This is the degree to which the notation can express relationship between concepts or structure.
+
+Whether they support mnemonics: For example the number 44 in DDC notation often means it concerns some aspect of France. For example in the Dewey classification 598.0944 concerns "Birds in France", the 09 signifies geographical division, and 44 represents France.
+
+Hospitality: The degree to which the system is able to accommodate new subjects.
+
+Brevity: The length of the notation to express the same concept.
+
+Speed of updates and degree of support: The better classification systems are frequently being reviewed and .
+
+Consistency
+
+Simplicity
+
+Usability
+
+4. See also
+
+Attribute-value system
+
+Categorization
+
+Document classification
+
+Knowledge organization
+
+Library of Congress Subject Headings
+
+Library management
+
+classification of library materials according to forms
+
+5. Notes
+
+6. References
+
+Chan, Lois Mai. Cataloging and Classification: An Introduction, second ed. New York: McGraw-Hill, 1994. ISBN 978-0-07-010506-5, ISBN 978-0-07-113253-4.
+
+7. External links

@@ -1,0 +1,197 @@
+A knot is a method of fastening or securing linear material such as rope by tying or interweaving. It may consist of a length of one or several segments of rope, string, webbing, twine, strap, or even chain interwoven such that the line can bind to itself or to some other object (the "load"). Knots have been the subject of interest for their ancient origins, their common uses, and the area of mathematics known as knot theory.
+
+1. Use
+
+There is a large variety of knots, each with properties that make it suitable for a range of tasks. Some knots are used to attach the rope (or other knotting material) to other objects such as another rope, cleat, ring, or stake. Some knots are used to bind or constrict objects. Decorative knots usually bind to themselves to produce attractive patterns.
+
+1.1. Teaching
+
+While some people can look at diagrams or photos and tie the illustrated knots, others learn best by watching how a knot is tied. Knot tying skills are often transmitted by sailors, scouts, climbers, cavers, arborists, rescue professionals, fishermen, linemen and surgeons.
+
+1.2. Applications
+
+Truckers in need of securing a load may use a trucker's hitch, gaining mechanical advantage. Knots can save a spelunker from finding himself buried under rock. Many knots can also be used as makeshift tools, for example, the bowline can be used as a rescue loop, and the munter hitch can be used as a belay. The diamond hitch was widely used to tie packages on to donkeys and mules.
+
+In hazardous environments such as mountains, knots are very important. In the event of someone falling into a ravine or a similar terrain feature, with the correct equipment and knowledge of knots a rappel system can be set up to lower a rescuer down to a casualty and set up a hauling system to allow a third individual to pull both the rescuer and the casualty out of the ravine. Further application of knots includes developing a high line, which is similar to a zip line, and which can be used to move supplies, injured people, or the untrained across rivers, crevices, or ravines. Note the systems mentioned typically require carabineers and the use of multiple appropriate knots. These knots include the bowline, double figure eight, munter hitch, munter mule, prusik, autoblock, and clove hitch. Thus any individual who goes into a mountainous environment should have basic knowledge of knots and knot systems to increase safety and the ability to undertake activities such as rappelling.
+
+Knots can be applied in combination to produce complex objects such as lanyards and netting. In ropework, the frayed end of a rope is held together by a type of knot called a whipping knot. Many types of textiles use knots to repair damage. Macrame, one kind of textile, is generated exclusively through the use of knotting, instead of knits, crochets, weaves or felting. Macramé can produce self-supporting three-dimensional textile structures, as well as flat work, and is often used ornamentally or decoratively.
+
+2. Properties
+
+2.1. Strength
+
+Knots weaken the rope in which they are made. When knotted rope is strained to its breaking point, it almost always fails at the knot or close to it, unless it is defective or damaged elsewhere. The bending, crushing, and chafing forces that hold a knot in place also unevenly stress rope fibers and ultimately lead to a reduction in strength. The exact mechanisms that cause the weakening and failure are complex and are the subject of continued study.
+
+Relative knot strength, also called knot efficiency, is the breaking strength of a knotted rope in proportion to the breaking strength of the rope without the knot. Determining a precise value for a particular knot is difficult because many factors can affect a knot efficiency test: the type of fiber, the style of rope, the size of rope, whether it is wet or dry, how the knot is dressed before loading, how rapidly it is loaded, whether the knot is repeatedly loaded, and so on. The efficiency of common knots ranges between 40—80% of the rope's original strength.
+
+In most situations forming loops and bends with conventional knots is far more practical than using rope splices, even though the latter can maintain nearly the rope's full strength. Prudent users allow for a large safety margin in the strength of rope chosen for a task due to the weakening effects of knots, aging, damage, shock loading, etc. The working load limit of a rope is generally specified with a significant safety factor, up to 15:1 for critical applications. For life-threatening applications, other factors come into play.
+
+2.2. Security
+
+Even if the rope does not break, a knot may still fail to hold. Knots that hold firm under a variety of adverse conditions are said to be more secure than those that do not. The main ways knots fail to hold are:
+
+2.2.1. Slipping
+
+The load creates tension that pulls the rope back through the knot in the direction of the load. If this continues far enough, the working end passes into the knot and the knot unravels and fails. This behavior can worsen when the knot is repeatedly strained and let slack, dragged over rough terrain, or repeatedly struck against hard objects such as a masts and flagpoles.
+
+Even with secure knots, slippage may occur when the knot is first put under real tension. This can be mitigated by leaving plenty of rope at the working end outside of the knot, and by dressing the knot cleanly and tightening it as much as possible before loading. Sometimes, the use of a stopper knot or, even better, a backup knot can prevent the working end from passing through the knot; but if a knot is observed to slip, it is generally preferable to use a more secure knot. Life-critical applications often require backup knots to maximize safety.
+
+2.2.2. Capsizing
+
+To capsize (or spill) a knot is to change its form and rearrange its parts, usually by pulling on specific ends in certain ways. When used inappropriately, some knots tend to capsize easily or even spontaneously. Often the capsized form of the knot offers little resistance to slipping or unraveling. A reef knot, when misused as a bend, can capsize dangerously.
+
+Sometimes a knot is intentionally capsized as a method of tying another knot, as with the "lightning method" of tying a bowline. Some knots, such as the Carrick bend, are generally tied in one form then capsized to obtain a stronger or more stable form.
+
+2.2.3. Sliding
+
+In knots that are meant to grip other objects, failure can be defined as the knot moving relative to the gripped object. While the knot itself does not fail, it ceases to perform the desired function. For instance, a simple rolling hitch tied around a railing and pulled parallel to the railing might hold up to a certain tension, then start sliding. Sometimes this problem can be corrected by working-up the knot tighter before subjecting it to load, but usually the problem requires either a knot with more wraps or a rope of different diameter or material.
+
+2.3. Releasability
+
+Knots differ in the effort required to untie them after loading. Knots that are very difficult to untie, such as the water knot, are said to "jam". Knots that come untied with less difficulty, such as the Zeppelin bend, are referred to as "non-jamming".
+
+3. Components
+
+3.1. Bight
+
+3.2. Bitter end
+
+3.3. Loop
+
+3.4. Elbow
+
+3.5. Standing end
+
+3.6. Standing part
+
+3.7. Turn
+
+3.8. Working end
+
+3.9. Working part
+
+4. Categories
+
+The list of knots is extensive, but common properties allow for a useful system of categorization. For example, loop knots share the attribute of having some kind of an anchor point constructed on the standing end (such as a loop or overhand knot) into which the working end is easily hitched to using a round turn. An example of this is the bowline. Constricting knots often rely on friction to cinch down tight on loose bundles; an example is the Miller's knot. Knots may belong to more than one category.
+
+;Bend :A knot uniting two lines (for knots joining two ends of the same line, see binding knots or loops). List of bends. ;Binding :A knot that restricts object(s) by making multiple winds. List of binding knots. ;Coil knot :Knots used to tie up lines for storage. Another handy coil is here. ;Decorative knot :A complex knot exhibiting repeating patterns often constructed around and enhancing an object. List of decorative knots. ;Hitch :A knot tied to a post, cable, ring, or spar. List of hitch knots. ;Lashing :A knot used to hold (usually) poles together. ;Loop :A knot used to create a closed circle in a line. List of loop knots. ;Plait (or braid):A number of lines interwoven in a simple regular pattern. List of plait knots. ;Slip (or running) :A knot tied with a hitch around one of its parts. In contrast, a loop is closed with a bend. While a slip knot can be closed, a loop remains the same size. List of slip knots. ;Slipped :Some knots may be finished by passing a bight rather than the end, for ease of untying. The common shoelace knot is an example, being a reef knot with both ends slipped. ;Seizing :A knot used to hold two lines or two parts of the same line together. List of seizing knots. ;Sennit :A number of lines interwoven in a complex pattern. See also Chain sinnet. ;Splice :A knot formed by interweaving strands of rope rather than whole lines. More time-consuming but usually stronger than simple knots. List of splices. ;Stopper :A knot tied to hold a line through a hole. ;Whipping :A binding knot used to prevent another line from fraying.
+
+4.1. Basic useful knots
+
+Alpine butterfly knot for a secure loop in the middle of a rope when the ends aren't free
+
+Bowline for tying a loop in the end of a rope, as around one's waist or to secure a ring or grommet. The knot is also used as an anchor knot and is used in many knot systems that are used in mountainous terrain such as a highline or hauling system.
+
+Constrictor knot for making bundles or cinching the neck of a sack, though this knot jams and may need to be cut
+
+Figure-eight knot as a stopper
+
+Grass bend for tying belts together, though insecure with ropes
+
+Monkey's fist used to weight the end of a rope
+
+Prusik for ascending a rope
+
+Sheet bend for joining the ends of two ropes, which need not be the same diameter
+
+Double sheet bend for tying the ends of two dissimilarly sized ropes together
+
+Spanish bowline used to hoist crewmen aloft or suspend them over the side
+
+Square knot, a common but insecure binding knot for joining the ends of a piece of cordage wrapped around an object or objects
+
+Versatackle for hoisting heavy loads and tightening rigging
+
+Water knot for tying a knot in flat material such as nylon webbing
+
+4.1.1. Hitches
+
+Clove hitch for tying a rope to a pole – simple and won't jam, but not particularly secure and won't work on rectangular shapes
+
+Buntline hitch for tying a rope to a pole or other shape, but can jam
+
+Diamond hitch for packing trail animals
+
+Rolling hitch for securing a rope to a pole when the pull is lengthwise rather than outward, or to tie one rope to the middle of another
+
+Taut-line hitch (or Midshipman's hitch) for forming an adjustable (ratcheting) loop that keeps its size under tension
+
+Timber hitch for securing or hauling long narrow loads, with the pull in one direction
+
+Trucker's hitch for clinching down a load
+
+4.2. Trick knots
+
+Trick knots are knots that are used as part of a magic trick, a joke, or a puzzle. They are useful for these purposes because they have a deceptive appearance, being easier or more difficult to tie or untie than their appearance would suggest. The easiest trick knot is the slip knot. Other noted trick knots include:
+
+Grief knot. The starkly differing behavior of the knot, depending on how it is arranged, has been exploited as the basis of a parlor trick. When pulling on the standing ends the knot starts slipping and the working ends become crossed. By twisting the working ends so that they uncross and then recross in reverse, the knot's structure is changed so that it will no longer slip. The twisting motion has been paralleled to the turning of a key, "locking" and "unlocking" the knot.
+
+Tom fool's knot, used as a trick knot due to the speed with which it can be made.
+
+5. Knot theory
+
+Knot theory is a branch of topology. It deals with the mathematical analysis of knots, their structure and properties, and with the relationships between different knots. In topology, a knot is a figure consisting of a single loop, abstracted from any physical rope or line, with any number of crossing or "knotted" elements. As such, it has no proper ends, and cannot be undone or untied. Various mathematical techniques are used to classify and distinguish knots. For instance, the Alexander polynomial can be used to distinguish the trefoil knot from the figure-eight knot and the unknot (a simple loop).
+
+6. Physical theory of friction knots
+
+A simple mathematical theory of hitches has been proposed by Bayman and extended by Maddocks and Keller. It makes predictions that are approximately correct when tested empirically. No similarly successful theory has been developed for knots in general.
+
+7. Knot tying
+
+Knot tying consists of the techniques and skills employed in tying a knot in rope, nylon webbing, or other articles. The proper tying of a knot can be the difference between an attractive knot and a messy one, and occasionally life and death. It is important to understand the often subtle differences between what works, and what doesn't. For example, many knots "spill" or pull through, particularly if they are not "backed up," usually with a single or double overhand knot to make sure the end of the rope doesn't make its way through the main knot, causing all strength to be lost.
+
+7.1. Difficulty
+
+The tying of a knot may be very straightforward (such as with an overhand knot), or it may be more complicated, such as a monkey's fist knot. Tying knots correctly requires an understanding of the type of material being tied (string, cord, monofilament line, kernmantle rope, or nylon webbing). For example, cotton string may be very small and easy to tie with lots of internal friction to keep it from falling apart once tied, while stiff 5/8" thick kernmantle rope will be very difficult to tie, and may be so slick as to tend to come apart once tied.
+
+7.2. Material
+
+The form of the material will influence the tying of a knot as well. Rope is round in cross-section, and has little dependence upon the manner in which the material is tied. Nylon webbing, on the other hand, is flat, and usually "tubular" in construction, meaning that it is spiral-woven, and has a hollow core. In order to retain as much of the strength as possible with webbing, the material must be tied "flat" such that parallel sections do not cross, and that the sections of webbing are not twisted when they cross each other within a knot.
+
+The crossing of strands is important when dealing with round rope in other knots; for example, the figure-eight loop loses strength when strands are crossed while the knot is being "finished" and tightened. Moreover, the standing end or the end from which the hauling will be done must have the greater radius of curvature in the finished knot to maximize the strength of the knot.
+
+7.3. Tools
+
+Tools are sometimes employed in the finishing or untying of a knot, such as a fid, a tapered piece of wood that is often used in splicing. With the advent of wire rope, many other tools are used in the tying of "knots." However, for cordage and other non-metallic appliances, the tools used are generally limited to sharp edges or blades such as a sheepsfoot blade, occasionally a fine needle for proper whipping of laid rope, a hot cutter for nylon and other synthetic fibers, and (for larger ropes) a shoe for smoothing out large knots by rolling them on the ground.
+
+8. See also
+
+Chinese knotting
+
+Quipu
+
+Gordian Knot
+
+9. References
+
+9.1. Footnotes
+
+9.2. Notations
+
+Clifford W. Ashley. The Ashley Book of Knots. Doubleday, New York. ISBN 0-385-04025-3
+
+Geoffrey Budworth (1999). The Ultimate Encyclopedia of Knots & Ropework. Annes Publishing Limited. ISBN 1-55267-986-1
+
+John Cassidy (1985). The Klutz Book of Knots. Klutz Press, Palo Alto, California. ISBN 0-932592-10-4
+
+Cyrus L. Day. Knots & Splices. International Marine/McGraw-Hill Companies. ISBN 0-87742-252-4
+
+Raoul Graumont. Handbook of Knots. Cornell Maritime Press/Tidewater Publishers. ISBN 0-87033-030-6
+
+R.S. Lee. All The Knots You Need. Algrove Publishing. ISBN 0-921335-47-4
+
+Allen Padgett and Bruce Smith. On Rope. National Speleological Society. ISBN 0-9615093-2-5
+
+Des Pawson (2001). Pocket Guide to Knots & Splices. Produced for Propsero Books by RPC Publishing Ltd., London. ISBN 1-55267-218-2
+
+Brion Toss. The Complete Rigger's Apprentice. International Marine/McGraw-Hill Companies. ISBN 0-07-064840-9
+
+J.C. Turner and P. van de Griend (ed.) (1996). History and Science of Knots. World Scientific. ISBN 981-02-2469-9
+
+10. External links
+
+Over 350 demonstrating animated knots tying
+
+Peter Suber,
+
+Alpheus Hyatt Verrill, Book at Project Gutenberg

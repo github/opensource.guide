@@ -1,0 +1,123 @@
+Radium is a chemical element with symbol Ra and atomic number 88. It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. The color of pure radium is almost pure white, but it readily oxidizes on exposure to air, becoming black in color. All isotopes of radium are highly radioactive, with the most stable isotope being radium-226, which has a half-life of 1600 years and decays into radon gas. When radium decays, ionizing radiation is a product, which can excite fluorescent chemicals and cause radioluminescence.
+
+Radium, in the form of radium chloride, was discovered by Marie Curie and Pierre Curie in 1898. They extracted the radium compound from uraninite and published the discovery at the French Academy of Sciences five days later. Radium was isolated in its metallic state by Marie Curie and André-Louis Debierne through the electrolysis of radium chloride in 1910.
+
+In nature, radium is found in uranium and thorium ores in trace amounts as small as a seventh of a gram per ton of uraninite. Radium is not necessary for living organisms, and adverse health effects are likely when it is incorporated into biochemical processes because of its radioactivity and chemical reactivity. Currently, other than its use in nuclear medicine, radium has no commercial applications; formerly, it was used as a radioactive source for radioluminescent devices and also in radioactive quackery for its supposed curative powers. Today, these former applications are no longer in vogue because radium's toxicity has since become known, and less dangerous isotopes are used instead in radioluminescent devices.
+
+1. Characteristics
+
+Radium is the heaviest known alkaline earth metal and is the only radioactive member of its group. Its properties most closely resemble its lighter congener barium, but it is not as well-studied due to its dangerous radioactivity.
+
+1.1. Physical
+
+Pure radium is a volatile silvery-white metal. Its color rapidly vanishes upon oxidation in air, yielding a black layer of radium nitride (Ra3N2). Its melting point is either or , and its boiling point is . Both of these values are slightly lower than those of barium, confirming periodic trends down the group 2 elements. Like barium, radium crystallizes in the body-centered cubic structure at standard temperature and pressure: the radium–radium bond distance is 514.8 picometers. Radium has a density of 5.5 g/cm3, higher than that of barium, again confirming periodic trends; the radium-barium density ratio is comparable to the radium-barium atomic mass ratio, due to the two elements' similar crystal structures.
+
+1.2. Chemical
+
+Radium, like barium, is a highly reactive metal and always exhibits its group oxidation state of +2. It forms the colorless Ra2+ cation in aqueous solution, which is highly basic and does not form complexes readily. Most radium compounds are therefore simple ionic compounds, though participation from the 6s and 6p electrons (in addition to the valence 7s electrons) is expected due to relativistic effects and would enhance the covalent character of radium compounds such as RaF2 and RaAt2. Solid radium compounds are white as radium ions provide no specific coloring, but they gradually turn yellow and then dark over time due to self-radiolysis from radium's alpha decay. Insoluble radium compounds coprecipitate with all barium, most strontium, and most lead compounds.
+
+1.3. Isotopes
+
+Radium has 33 known isotopes, with mass numbers from 202 to 234: all of them are radioactive. Four of these – 223Ra (half-life 11.4 days), 224Ra (3.64 days), 226Ra (1600 years), and 228Ra (5.75 years) – occur naturally in the decay chains of primordial thorium-232, uranium-235, and uranium-238 (223Ra from uranium-235, 226Ra from uranium-238, and the other two from thorium-232). These isotopes nevertheless still have half-lives too short to be primordial radionuclides and only exist in nature from these decay chains. Together with the artificial 225Ra (15 d), these are the five most stable isotopes of radium. All other known radium isotopes have half-lives under two hours, and the majority have half-lives under a minute. At least 12 nuclear isomers have been reported; the most stable of them is radium-205m, with a half-life of between 130 and 230 milliseconds, which is still shorter than thirty-four ground-state radium isotopes.
+
+In the early history of the study of radioactivity, the different natural isotopes of radium were given different names. In this scheme, 223Ra was named actinium X (AcX), 224Ra thorium X (ThX), 226Ra radium (Ra), and 228Ra mesothorium 1 (MsTh1). When it was realized that all of these are isotopes of thorium, many of these names fell out of use, and "radium" came to refer to all isotopes, not just 226Ra. Some of radium-226's decay products received historical names including "radium", ranging from radium A to radium G.
+
+226Ra is the most stable isotope of radium and is the last isotope in the (4n + 2) decay chain of uranium-238 with a half-life of over a century. Its immediate decay product is the dense radioactive noble gas radon, which is responsible for much of the danger of environmental radium. It is 2.7 million times more radioactive than the same molar amount of natural uranium (mostly uranium-238), due to its proportionally shorter half-life.
+
+A sample of radium metal maintains itself at a higher temperature than its surroundings because of the radiation it emits – alpha particles, beta particles, and gamma rays. More specifically, natural radium (which is mostly 226Ra) emits mostly alpha particles, but other steps in its decay chain (the uranium or radium series) emit alpha or beta particles, and almost all particle emissions are accompanied by gamma rays.
+
+2. History
+
+2.1. Discovery
+
+Radium was discovered by Marie Curie and her husband Pierre on 21 December 1898, in a uraninite sample. While studying the mineral earlier, the Curies removed uranium from it and found that the remaining material was still radioactive. They separated out an element similar to bismuth from pitchblende in July 1898, that turned out to be polonium. They then separated out a radioactive mixture consisting mostly of two components: compounds of barium, which gave a brilliant green flame color, and unknown radioactive compounds which gave carmine spectral lines that had never been documented before. The Curies found the radioactive compounds to be very similar to the barium compounds, except that they were more insoluble. This made it possible for the Curies to separate out the radioactive compounds and discover a new element in them, radium. The Curies announced their discovery to the French Academy of Sciences on 26 December 1898. The naming of radium dates to about 1899, from the French word radium, formed in Modern Latin from radius (ray): this was in recognition of radium's power of emitting energy in the form of rays.
+
+2.2. Subsequent developments
+
+In 1910, radium was isolated as a pure metal by Curie and André-Louis Debierne through the electrolysis of a pure radium chloride (RaCl2) solution using a mercury cathode, producing a radium–mercury amalgam. This amalgam was then heated in an atmosphere of hydrogen gas to remove the mercury, leaving pure radium metal. The same year, E. Eoler isolated radium by thermal decomposition of its azide, Ra(N3)2. Radium metal was first industrially produced in the beginning of the 20th century by Biraco, a subsidiary company of Union Minière du Haut Katanga (UMHK) in its Olen plant in Belgium.
+
+The common historical unit for radioactivity, the curie, is based on the radioactivity of 226Ra.
+
+3. Occurrence
+
+All isotopes of radium have half-lives much shorter than the age of the Earth, so that any primordial radium would have decayed long ago. Radium nevertheless still occurs in the environment, as the isotopes 223Ra, 224Ra, 226Ra, and 228Ra are part of the decay chains of natural thorium and uranium isotopes. Of these four isotopes, the most long-lived is 226Ra (half-life 1600 years), a decay product of natural uranium. Because of its relative longevity, 226Ra is the most common isotope of the element. Thus, radium is found in tiny quantities in the uranium ore uraninite and various other uranium minerals, and in even tinier quantities in thorium minerals. One ton of pitchblende typically yields about one seventh of a gram of radium. One kilogram of the Earth's crust contains about 900 picograms of radium, and one liter of sea water contains about 89 femtograms of radium.
+
+4. Extraction
+
+In the first extraction of radium Curie used the residues after extraction of uranium from pitchblende. The uranium had been extracted by dissolution in sulphuric acid leaving radium sulphate, which is similar to barium sulphate but even less soluble in the residues. The residues also contained rather substantial amounts of barium sulphate which thus acted as a carrier for the radium sulphate. The first steps of the radium extraction process involved boiling with sodium hydroxide followed by hydrochloric acid treatment to remove as much as possible of other compounds. The remaining residue was then treated with sodium carbonate to convert the barium sulphate into barium carbonate carrying the radium, thus making it soluble in hydrochloric acid. After dissolution the barium and radium are reprecitated as sulphates and this was repeated one or few times, for further purification of the mixed sulphate. Some impurities, that form insoluble sulphides, were removed by treating the chloride solution with hydrogen sulphide followed by filtering. When the mixed sulphate were pure enough they were once more converted to mixed chloride and barium and radium were separated by fractional crystallisation while monitoring the progress using a spectroscope (radium gives characteristic red lines in contrast to the green barium lines), and the electroscope. A similar process was still used for industrial radium extraction in 1940, but mixed bromides were then used for the fractionation. If the barium content of the uranium ore is not high enough it is easy to add some to carry the radium. These processes were applied to high grade uranium ores but may not work well with low grade ores.
+
+5. Production
+
+Uranium had no large scale application in the late 18th century and therefore no large uranium mines existed. In the beginning the only larger source for uranium ore was the silver mines at Joachimsthal (now Jáchymov) in the Austrian Empire. The uranium ore was only a by-product of the mining activities. After the isolation of radium by Marie and Pierre Curie from uranium ore from Joachimsthal several scientists started to isolate radium in small quantities. Later small companies purchased mine tailings from Joachimsthal mines and started isolating radium. In 1904 the Austrian government took over the ownership of the mines and stopped exporting raw ore. For some time the radium availability was low.
+
+The formation of an Austrian monopoly and the strong urge of other countries to have access to radium led to a world wide search for uranium ores. The United States took over as leading producer in the early 1910s. The Carnotite sands in Colorado provide some of the element, but richer ores are found in the Congo and the area of the Great Bear Lake and the Great Slave Lake of northwestern Canada. Neither of the deposits is mined for radium but the uranium content makes mining profitable.
+
+The amounts of radium produced were and are always relatively small; for example, in 1918, 13.6 g of radium were produced in the United States. In 1954, the total worldwide supply of purified radium amounted to about 5 pounds (2.3 kg), and it is still in this range today, while the annual production of pure radium compounds is only about 100 g in total today. The chief radium-producing countries are Belgium, Canada, the Czech Republic, Slovakia, the United Kingdom, and the post-Soviet states.
+
+6. Compounds
+
+Radium oxide (RaO) has not been characterized, despite oxides being common compounds for the other alkaline earth metals. Radium hydroxide (Ra(OH)2) is the most readily soluble among the alkaline earth hydroxides and is a stronger base than its barium congener, barium hydroxide. It is also more soluble than actinium hydroxide and thorium hydroxide: these three adjacent hydroxides may be separated by precipitating them with ammonia.
+
+Radium chloride (RaCl2) is a colorless, luminous compound. It becomes yellow after some time due to self-damage by the alpha radiation given off by radium when it decays. Small amounts of barium impurities give the compound a rose color. It is soluble in water, though less so than barium chloride, and its solubility decreases with increasing concentration of hydrochloric acid. Crystallization from aqueous solution gives the dihydrate RaCl2·2H2O, isomorphous with its barium analog.
+
+Radium bromide (RaBr2) is also a colorless, luminous compound. In water, it is more soluble than radium chloride. Like radium chloride, crystallization from aqueous solution gives the dihydrate RaBr2·2H2O, isomorphous with its barium analog. The ionizing radiation emitted by radium bromide excites nitrogen molecules in the air, making it glow. The alpha particles of radium quickly gain two electrons to become neutral helium, with builds up inside and weakens radium bromide crystals. This effect sometimes causes the crystals to break or even explode.
+
+Radium nitrate (Ra(NO3)2) is a white compound that can be made by dissolving radium carbonate in nitric acid. As the concentration of nitric acid increases, the solubility of radium nitrate decreases, an important property for the chemical purification of radium.
+
+Radium forms much the same insoluble salts as its lighter congener barium: it forms the insoluble sulfate (RaSO4, the most insoluble known sulfate), chromate (RaCrO4), carbonate (RaCO3), iodate (Ra(IO3)2), tetrafluoroberyllate (RaBeF4), and nitrate (Ra(NO3)2). With the exception of the carbonate, all of these are less soluble in water than the corresponding barium salts. Additionally, radium phosphate, oxalate, and sulfite are probably also insoluble, as they coprecipitate with the corresponding insoluble barium salts. The great insolubility of radium sulfate (at 20 °C, only 2.1 mg will dissolve in 1 kg of water) means that it is one of the less biologically dangerous radium compounds.
+
+7. Applications
+
+Some of the few practical uses of radium are derived from its radioactive properties. More recently discovered radioisotopes, such as cobalt-60 and caesium-137, are replacing radium in even these limited uses because several of these isotopes are more powerful emitters, safer to handle, and available in more concentrated form.
+
+7.1. Historical
+
+7.1.1. Luminescent paint
+
+Radium was formerly used in self-luminous paints for watches, nuclear panels, aircraft switches, clocks, and instrument dials. A typical self-luminous watch that uses radium paint contains around 1 microgram of radium. In the mid-1920s, a lawsuit was filed against the United States Radium Corporation by five dying "Radium Girl" dial painters who had painted radium-based luminous paint on the dials of watches and clocks. The dial painters routinely licked their brushes to give them a fine point, thereby ingesting radium. Their exposure to radium caused serious health effects which included sores, anemia, and bone cancer. This is because radium is treated as calcium by the body, and deposited in the bones, where radioactivity degrades marrow and can mutate bone cells.
+
+During the litigation, it was determined that the company's scientists and management had taken considerable precautions to protect themselves from the effects of radiation, yet had not seen fit to protect their employees. Worse, for several years the companies had attempted to cover up the effects and avoid liability by insisting that the Radium Girls were instead suffering from syphilis. This complete disregard for employee welfare had a significant impact on the formulation of occupational disease labor law.
+
+As a result of the lawsuit, the adverse effects of radioactivity became widely known, and radium-dial painters were instructed in proper safety precautions and provided with protective gear. In particular, dial painters no longer licked paint brushes to shape them (which caused some ingestion of radium salts). Radium was still used in dials as late as the 1960s, but there were no further injuries to dial painters. This highlighted that the harm to the Radium Girls could easily have been avoided.
+
+From the 1960s the use of radium paint was discontinued. In many cases luminous dials were implemented with non-radioactive fluorescent materials excited by light; such devices glow in the dark after exposure to light, but the glow fades. Where indefinite self-luminosity in darkness was required, safer radioactive promethium or tritium paint was used; both continue to be used today. These had the added advantage of not degrading the phosphor over time, unlike radium. Tritium emits very low-energy beta radiation (even lower-energy than the beta radiation emitted by promethium) which cannot penetrate the skin, rather than the penetrating gamma radiation of radium and is regarded as safer. It has a half-life of 12 years.
+
+Clocks, watches, and instruments dating from the first half of the 20th century, often in military applications, may have been painted with radioactive luminous paint. They are usually no longer luminous; however, this is not due to radioactive decay of the radium (which has a half-life of 1600 years) but to the fluorescence of the zinc sulfide fluorescent medium being worn out by the radiation from the radium. The appearance of an often thick layer of green or yellowish brown paint in devices from this period suggests a radioactive hazard. The radiation dose from an intact device is relatively low and usually not an acute risk; but the paint is dangerous if released and inhaled or ingested.
+
+7.1.2. Commercial use
+
+Radium was once an additive in products such as toothpaste, hair creams, and even food items due to its supposed curative powers. Such products soon fell out of vogue and were prohibited by authorities in many countries after it was discovered they could have serious adverse health effects. (See, for instance, Radithor or Revigator types of "Radium water" or "Standard Radium Solution for Drinking".) Spas featuring radium-rich water are still occasionally touted as beneficial, such as those in Misasa, Tottori, Japan. In the U.S., nasal radium irradiation was also administered to children to prevent middle-ear problems or enlarged tonsils from the late 1940s through the early 1970s.
+
+7.1.3. Medical use
+
+Radium (usually in the form of radium chloride or radium bromide) was used in medicine to produce radon gas which in turn was used as a cancer treatment; for example, several of these radon sources were used in Canada in the 1920s and 1930s. However, many treatments that were used in the early 1900s are not used anymore because of the harmful effects radium bromide exposure caused. Some examples are anaemia, cancer, and genetic mutations.
+
+Howard Atwood Kelly, one of the founding physicians of Johns Hopkins Hospital, was a major pioneer in the medical use of radium to treat cancer. His first patient was his own aunt in 1904, who died shortly after surgery. Kelly was known to use excessive amounts of radium to treat various cancers and tumors. As a result, some of his patients died from high amounts of radium exposure. His method of radium application was inserting a radium capsule near the affected area then sewing the radium "points" directly to the tumor. This was the same method used to treat Henrietta Lacks, the host of the original HeLa cells, for cervical cancer. Currently, safer radioisotopes are usually used instead.
+
+7.2. Current
+
+The isotope 223Ra (under the trade name Xofigo) was approved by the United States Food and Drug Administration in 2013 for use in medicine as a cancer treatment of bone metastasis.
+
+Radium is still used today as a radiation source in some industrial radiography devices to check for flawed metallic parts, similarly to X-ray imaging. When mixed with beryllium, radium acts as a neutron source. Radium-beryllium neutron sources are still sometimes used even today, but other materials such as polonium are now more common: about 1500 polonium-beryllium neutron sources, with an individual activity of , have been used annually in the Soviet Union.
+
+8. Precautions
+
+Radium is highly radioactive and its immediate daughter, radon gas, is also radioactive. When ingested, 80% of the ingested radium leaves the body through the feces, while the other 20% goes into the bloodstream, mostly accumulating in the bones. Exposure to radium, internal or external, can cause cancer and other disorders, because radium and radon emit alpha and gamma rays upon their decay, which kill and mutate cells. At the time of the Manhattan Project in 1944, the "tolerance dose" for workers was set at 0.1 microgram of ingested radium.
+
+Some of the biological effects of radium were apparent from the start. The first case of so-called "radium-dermatitis" was reported in 1900, only 2 years after the element's discovery. The French physicist Antoine Becquerel carried a small ampoule of radium in his waistcoat pocket for 6 hours and reported that his skin became ulcerated. Marie Curie experimented with a tiny sample that she kept in contact with her skin for 10 hours, and noted that an ulcer appeared several days later. Handling of radium has been blamed for Curie's death due to aplastic anemia. However, most of radium's danger comes from its daughter radon: being a gas, it can enter the body far more readily than can its parent radium.
+
+9. See also
+
+10. Notes
+
+11. References
+
+12. Bibliography
+
+13. Further reading
+
+14. External links
+
+at The Periodic Table of Videos (University of Nottingham)
+
+(Created and maintained by physicists)

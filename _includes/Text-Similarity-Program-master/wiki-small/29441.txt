@@ -1,0 +1,205 @@
+Skylab was a space station launched and operated by NASA and was the United States' first space station. Skylab orbited the Earth from 1973 to 1979, and included a workshop, a solar observatory, and other systems. It was launched unmanned by a modified Saturn V rocket, with a weight of . Three manned missions to the station, conducted between 1973 and 1974 using the Apollo Command/Service Module (CSM) atop the smaller Saturn IB, each delivered a three-astronaut crew. On the last two manned missions, an additional Apollo / Saturn IB stood by ready to rescue the crew in orbit if it was needed.
+
+The station was damaged during launch when the micrometeoroid shield separated from the workshop and tore away, taking one of two main solar panel arrays with it and jamming the other one so that it could not deploy. This deprived Skylab of most of its electrical power, and also removed protection from intense solar heating, threatening to make it unusable. The first crew was able to save it in the first in-space major repair, by deploying a replacement heat shade and freeing the jammed solar panels.
+
+Skylab included the Apollo Telescope Mount, which was a multi-spectral solar observatory, Multiple Docking Adapter (with two docking ports), Airlock Module with EVA hatches, and the Orbital Workshop, the main habitable volume. Electrical power came from solar arrays, as well as fuel cells in the docked Apollo CSM. The rear of the station included a large waste tank, propellant tanks for maneuvering jets, and a heat radiator.
+
+Numerous scientific experiments were conducted aboard Skylab during its operational life, and crews were able to confirm the existence of coronal holes in the Sun. The Earth Resources Experiment Package (EREP) was used to view the Earth with sensors that recorded data in the visible, infrared, and microwave spectral regions. Thousands of photographs of Earth were taken, and records for human time spent in orbit were extended. Plans were made to refurbish and reuse Skylab, using the Space Shuttle to boost its orbit and repair it. However, development of the Shuttle was delayed, and Skylab reentered Earth's atmosphere and disintegrated in 1979, with debris striking portions of Western Australia. Post-Skylab NASA space laboratory projects included Spacelab, Shuttle-Mir, and Space Station Freedom (later merged into the International Space Station).
+
+1. Background
+
+Rocket scientist and space architect Wernher von Braun, writer Arthur C. Clarke, and other early advocates expected until the 1960s that a space station would be an important early step in space exploration. Von Braun participated in the publishing of a series of influential articles in Collier's, "Man Will Conquer Space Soon!", from 1952 to 1954 on manned space travel. He envisioned a large, circular station 250 feet (75m) in diameter that would rotate to generate artificial gravity and require a fleet of 7,000-ton (6500 metric tonnes) space shuttles for construction. The 80 men aboard the station would include astronomers operating a telescope, meteorologists to forecast the weather, and soldiers to conduct surveillance. Von Braun expected that future expeditions to the moon and Mars would leave from the station.
+
+The development of the transistor, the solar cell, and telemetry led in the 1950s and early 1960s to unmanned satellites that could take photographs of weather patterns or enemy nuclear weapons and send them to earth. A large station was no longer necessary for such purposes, and the United States program to send men to the moon, Project Apollo, was designed to not require in-orbit assembly. A smaller station that a single rocket could launch retained value, however, for scientific purposes.
+
+1.1. Early studies
+
+In 1959, von Braun, head of the Development Operations Division at the Army Ballistic Missile Agency, submitted his final Project Horizon plans to the U.S. Army. The overall goal of Horizon was to place a human on the Moon, a mission that would soon be taken over by the rapidly forming NASA. Although concentrating on the Moon missions, von Braun also detailed an orbiting laboratory built out of a Horizon upper stage, an idea used for Skylab. A number of NASA centers studied various space station designs in the early 1960s. Studies generally looked at platforms launched by the Saturn V, followed up by crews launched on Saturn IB using an Apollo Command/Service Module, or a Gemini capsule on a Titan II-C, the latter being much less expensive in the case where cargo was not needed. Proposals ranged from an Apollo-based station with two to three men, or a small "canister" for four men with Gemini capsules resupplying it, to a large, rotating station with 24 men and an operating lifetime of about five years. A proposal to study the use of a Saturn S-IVB as a manned space laboratory was documented in 1962 by the Douglas Aircraft Company.
+
+1.2. Air Force plans
+
+The Department of Defense (DoD) and NASA cooperated closely in many areas of space. In September 1963, NASA and the DoD agreed to cooperate in building a space station. The DoD wanted its own manned facility, however, and in December it announced Manned Orbital Laboratory (MOL), a small space station primarily intended for photo reconnaissance using large telescopes directed by a two-man crew. The station was the same diameter as a Titan II upper stage, and would be launched with the crew riding atop in a modified Gemini capsule with a hatch cut into the heat shield on the bottom of the capsule. MOL competed for funding with a NASA station for the next five years and politicians and other officials often suggested that NASA participate in MOL or use the DoD design. The military project led to changes to the NASA plans so that they would resemble MOL less.
+
+2. Development
+
+2.1. Apollo Applications Program
+
+NASA management was concerned about losing the 400,000 workers involved in Apollo after landing on the moon in 1969. A reason Von Braun, head of NASA's Marshall Space Flight Center during the 1960s, advocated for a smaller station after his large one was not built was that he wished to provide his employees with work beyond developing the Saturn rockets, which would be completed relatively early during Project Apollo. NASA set up the Apollo Logistic Support System Office, originally intended to study various ways to modify the Apollo hardware for scientific missions. The office initially proposed a number of projects for direct scientific study, including an extended-stay lunar mission which required two Saturn V launchers, a "lunar truck" based on the Lunar Module (LEM), a large manned solar telescope using a LEM as its crew quarters, and small space stations using a variety of LEM or CSM-based hardware. Although it did not look at the space station specifically, over the next two years the office would become increasingly dedicated to this role. In August 1965, the office was renamed, becoming the Apollo Applications Program (AAP).
+
+As part of their general work, in August 1964 the Manned Spacecraft Center (MSC) presented studies on an expendable lab known as Apollo "X", short for Apollo Extension System. "Apollo X" would have replaced the LEM carried on the top of the S-IVB stage with a small space station slightly larger than the CSM's service area, containing supplies and experiments for missions between 15 and 45 days' duration. Using this study as a baseline, a number of different mission profiles were looked at over the next six months.
+
+2.2. Wet workshop
+
+In November 1964, von Braun proposed a more ambitious plan to build a much larger station built from the S-II second stage of a Saturn V. His design replaced the S-IVB third stage with an aeroshell, primarily as an adapter for the CSM on top. Inside the shell was a cylindrical equipment section. On reaching orbit, the S-II second stage would be vented to remove any remaining hydrogen fuel, then the equipment section would be slid into it via a large inspection hatch. This became known as a "wet workshop" concept, because of the conversion of an active fuel tank. The station filled the entire interior of the S-II stage's hydrogen tank, with the equipment section forming a "spine" and living quarters located between it and the walls of the booster. This would have resulted in a very large living area. Power was to be provided by solar cells lining the outside of the S-II stage.
+
+One problem with this proposal was that it required a dedicated Saturn V launch to fly the station. At the time the design was being proposed, it was not known how many of the then-contracted Saturn Vs would be required to achieve a successful Moon landing. However, several planned Earth-orbit test missions for the LEM and CSM had been canceled, leaving a number of Saturn IBs free for use. Further work led to the idea of building a smaller "wet workshop" based on the S-IVB, launched as the second stage of a Saturn IB.
+
+A number of S-IVB-based stations were studied at MSC from mid-1965, which had much in common with the Skylab design that eventually flew. An airlock would be attached to the hydrogen tank, in the area designed to hold the LEM, and a minimum amount of equipment would be installed in the tank itself in order to avoid taking up too much fuel volume. Floors of the station would be made from an open metal framework that allowed the fuel to flow through it. After launch, a follow-up mission launched by a Saturn IB would launch additional equipment, including solar panels, an equipment section and docking adapter, and various experiments. Douglas Aircraft, builder of the S-IVB stage, was asked to prepare proposals along these lines. The company had for several years been proposing stations based on the S-IV stage, before it was replaced by the S-IVB.
+
+On April 1, 1966, MSC sent out contracts to Douglas, Grumman, and McDonnell for the conversion of a S-IVB spent stage, under the name Saturn S-IVB spent-stage experiment support module (SSESM). In May, astronauts voiced concerns over the purging of the stage's hydrogen tank in space. Nevertheless, in late July it was announced that the Orbital Workshop would be launched as a part of Apollo mission AS-209, originally one of the Earth-orbit CSM test launches, followed by two Saturn I/CSM crew launches, AAP-1 and AAP-2.
+
+MOL remained AAP's chief competitor for funds, although the two programs cooperated on technology. NASA considered flying experiments on MOL, or using its Titan IIIC booster instead of the much more expensive Saturn IB. The agency decided that the Air Force station was not large enough, and that converting Apollo hardware for use with Titan would be too slow and too expensive. The DoD later canceled MOL in June 1969.
+
+2.3. Dry workshop
+
+Design work continued over the next two years, in an era of shrinking budgets. (NASA sought $450 million for Apollo Applications in fiscal year 1967, for example, but received $42 million.) In August 1967, the agency announced that the lunar mapping and base construction missions examined by the AAP were being canceled. Only the Earth-orbiting missions remained, namely the Orbital Workshop and Apollo Telescope Mount solar observatory.
+
+The success of Apollo 8 in December 1968, launched on the third flight of a Saturn V, made it likely that one would be available to launch a dry workshop. Later, several Moon missions were canceled as well, originally to be Apollo missions 18 through 20. The cancellation of these missions freed up three Saturn V boosters for the AAP program. Although this would have allowed them to develop von Braun's original S-II based mission, by this time so much work had been done on the S-IV based design that work continued on this baseline. With the extra power available, the wet workshop was no longer needed; the S-IC and S-II lower stages could launch a "dry workshop", with its interior already prepared, directly into orbit.
+
+2.4. Habitability
+
+A dry workshop simplified plans for the interior of the station. Industrial design firm Raymond Loewy/William Snaith recommended emphasizing habitability and comfort for the astronauts by, for example, providing a wardroom for meals and relaxation, and a window to view the Earth and space, although astronauts who participated in Skylab planning were dubious about the designers' focus on areas such as color schemes. Habitability had not previously been an area of concern when building spacecraft, due to their small volume and brief mission durations, but the Skylab missions would last for months. NASA sent a scientist on Jacques Piccard's Ben Franklin submarine in the Gulf Stream in July and August 1969, to learn how six people would live in an enclosed space for four weeks.
+
+Astronauts were uninterested in watching movies on a proposed entertainment center or playing games, but did want books and individual music choices. Food was also important; early Apollo crews complained about its quality, and a NASA volunteer found living on the Apollo food for four days on Earth to be intolerable; its taste and composition, in the form of cubes and squeeze tubes, were unpleasant. Skylab food significantly improved on its predecessors by prioritizing edibility over scientific needs.
+
+Each astronaut had a private sleeping area the size of a small walk-in closet, with a curtain, sleeping bag, and locker. Designers also added a shower and a toilet; the latter was both for comfort and to obtain precise urine and feces samples for examination on Earth.
+
+2.5. Rescue
+
+Rescuing astronauts from Skylab was possible in the most likely emergency circumstances. The crew could use the CSM to quickly return to Earth if the station suffered serious damage. If the CSM failed, the spacecraft and Saturn IB for the next Skylab mission would have been launched with two astronauts to retrieve the crew; given Skylab's ample supplies, its residents would have been able to wait up to several weeks for the rescue mission.
+
+3. Operational history
+
+3.1. Completion and launch
+
+On August 8, 1969, the McDonnell Douglas Corporation received a contract for the conversion of two existing S-IVB stages to the Orbital Workshop configuration. One of the S-IV test stages was shipped to McDonnell Douglas for the construction of a mock-up in January 1970. The Orbital Workshop was renamed "Skylab" in February 1970 as a result of a NASA contest. The actual stage that flew was the upper stage of the AS-212 rocket (the S-IVB stage - S-IVB 212). The mission computer used aboard Skylab was the IBM System/4Pi TC-1, a relative of the AP-101 Space Shuttle computers. A Saturn V originally been produced for the Apollo program before the cancellation of Apollo 18, 19, and 20, was repurposed and redesigned to launch Skylab. The Saturn V's upper stage removed, but with the avionics remaining in the same position.
+
+Skylab was launched on May 14, 1973 by the modified Saturn V. The launch is sometimes referred to as Skylab 1, or SL-1. Severe damage was sustained during launch and deployment, including the loss of the station's micrometeoroid shield/sun shade and one of its main solar panels. Debris from the lost micrometeoroid shield further complicated matters by pinning the remaining solar panel to the side of the station, preventing its deployment and thus leaving the station with a huge power deficit.
+
+Immediately following Skylab's launch, Pad A at Kennedy Space Center Launch Complex 39 was deactivated, and construction proceeded to modify it for the Space Shuttle program, originally targeting a maiden launch in March 1979. The manned missions to Skylab would occur from Launch Pad 39B.
+
+3.2. Manned missions
+
+Three manned missions, designated SL-2, SL-3 and SL-4, were made to Skylab. The first manned mission, SL-2, launched on May 25, 1973 atop a Saturn IB and involved extensive repairs to the station. The crew deployed a parasol-like sunshade through a small instrument port from the inside of the station bringing station temperatures down to acceptable levels and preventing overheating that would have melted the plastic insulation inside the station and released poisonous gases. This solution was designed by NASA's "Mr. Fix It" Jack Kinzler, who won the NASA Distinguished Service Medal for his efforts. The crew conducted further repairs via two spacewalks (extra-vehicular activity, or EVA). The crew stayed in orbit with Skylab for 28 days. Two additional missions followed, with the launch dates of July 28, 1973 (SL-3) and November 16, 1973 (SL-4), and mission durations of 59 and 84 days, respectively. The last Skylab crew returned to the Earth on February 8, 1974.
+
+3.3. Orbital operations
+
+Skylab orbited Earth 2,476 times during the 171 days and 13 hours of its occupation during the three manned Skylab missions. Astronauts performed ten spacewalks, totaling 42 hours and 16 minutes. Skylab logged about 2,000 hours of scientific and medical experiments, 127,000 frames of film of the Sun and 46,000 of the Earth. Solar experiments included photographs of eight solar flares, and produced valuable results that scientists stated would have been impossible to obtain with unmanned spacecraft. The existence of the Sun's coronal holes were confirmed because of these efforts. Many of the experiments conducted investigated the astronauts' adaptation to extended periods of microgravity.
+
+A typical day began at 6 AM Central Time Zone. Although the toilet was small and noisy, both veteran astronauts舒who had endured earlier missions' rudimentary waste-collection systems舒and rookies complimented it. The first crew enjoyed taking a shower once a week, but found drying themselves in weightlessness and vacuuming excess water difficult; later crews usually cleaned themselves daily with wet washcloths instead of using the shower. Astronauts also found that bending over in weightlessness to put on socks or tie shoelaces strained their stomach muscles.
+
+Breakfast began at 7 AM. Astronauts usually stood to eat, as sitting in microgravity also strained their stomach muscles. They reported that their food舒although greatly improved from Apollo舒was bland and repetitive, and weightlessness caused utensils, food containers, and bits of food to float away; also, gas in their drinking water contributed to flatulence. After breakfast and preparation for lunch, experiments, tests and repairs of spacecraft systems and, if possible, 90 minutes of physical exercise followed; the station had a bicycle and other equipment, and astronauts could jog around the water tank. After dinner, which was scheduled for 6 PM, crews performed household chores and prepared for the next day's experiments. Following lengthy daily instructions (some of which were up to 15 meters long) sent via teleprinter, the crews were often busy enough to postpone sleep.
+
+Each Skylab mission set a record for the amount of time astronauts spent in space. The station offered what a later study called "a highly satisfactory living and working environment for crews", with enough room for personal privacy. Although it had a dart set, playing cards, and other recreational equipment in addition to books and music players, the window with its view of Earth became the most popular way to relax in orbit.
+
+4. Experiments
+
+Overview of most major experiments: Skylab 3 carried several more experiments, such as to observe Comet Kohoutek.
+
+5. Post SL-4 plans
+
+Skylab was abandoned after the end of the SL-4 mission in February 1974, but to welcome visitors the crew left a bag filled with supplies and left the hatch unlocked. NASA discouraged any discussion of additional visits due to the station's age, but in 1977 and 1978, when the agency still believed the Space Shuttle would be ready by 1979, it completed two studies on reusing the station. By September 1978, the agency believed Skylab was safe for crews, with all major systems intact and operational. It still had 180 man-days of water and 420 man-days of oxygen, and astronauts could refill both; the station could hold up to about 600 to 700 man-days of drinkable water and 420 man-days of food.
+
+The studies cited several benefits from reusing Skylab, which one called a resource worth "hundreds of millions of dollars" with "unique habitability provisions for long duration space flight." Since no more operational Saturn V rockets were available after the Apollo program, four to five shuttle flights and extensive space architecture would have been needed to build another station as large as Skylab's volume. Its ample size舒much greater than that of the shuttle alone, or even the shuttle plus Spacelab舒was enough, with some modifications, for up to seven astronauts of both sexes, and experiments needing a long duration in space; even a movie projector for recreation was possible.
+
+Proponents of Skylab's reuse also said repairing and upgrading Skylab would provide information on the results of long-duration exposure to space for future stations. The most serious issue for reactivation was stationkeeping, as one of the station's gyroscopes had failed and the attitude control system needed refueling; these issues would need EVA to fix or replace. The station had not been designed for extensive resupply. However, while plans had originally called for Skylab crews to perform only limited maintenance they successfully made major repairs during EVA, such as the SL-2 crew's deploying of the solar panel and the SL-4 crew's repair of the primary coolant loop. The SL-2 crew fixed one item during EVA by, reportedly, "hit[ting] it with [a] hammer."
+
+Some studies also said, beyond the opportunity for space construction and maintenance experience, reactivating the station would free up shuttle flights for other uses, and reduce the need to modify the shuttle for long-duration missions. Even if the station were not manned again, went one argument, it would serve as a useful experimental platform.
+
+5.1. Shuttle mission plans
+
+The reactivation would likely have occurred in four phases:
+
+An early Space Shuttle flight would have boosted Skylab to a higher orbit, adding five years of operational life. The shuttle might have pushed or towed the station, but attaching a booster舒the Teleoperator Retrieval System (TRS)舒to the station would have been more likely, based on astronauts' training for the task. Martin Marietta won the contract for $26 million to design the apparatus. TRS would contain about three tons of propellant. The remote-controlled booster had TV cameras and was designed for duties such as space construction and servicing and retrieving satellites the shuttle could not reach. After rescuing Skylab, the TRS would have remained in orbit for future use. Alternatively, it could have been used to de-orbit Skylab for a safe, controlled re-entry and destruction.
+
+In two shuttle flights, Skylab would have been refurbished. In January 1982, the first mission would have attached a docking adapter and conducted repairs. In August 1983, a second crew would have replaced several system components.
+
+In March 1984, shuttle crews would have attached a solar-powered Power Expansion Package, refurbished scientific equipment, and conducted 30- to 90-day missions using the Apollo Telescope Mount and the earth resources experiments.
+
+Over five years, Skylab would have been expanded to accommodate six to eight astronauts, with a new large docking/interface module, additional logistics modules, Spacelab modules and pallets, and an orbital vehicle space dock using the shuttle's external tank. The first three phases would have required about $60 million in 1980s dollars, not including launch costs.
+
+6. After departure
+
+After a boost of by SL-4's Apollo CSM before its departure in 1974, Skylab was left in a parking orbit of by that was expected to last until at least the early 1980s, based on estimates of the 11-year sunspot cycle that began in 1976. NASA began considering the potential risks of a space station reentry as early as 1962, but decided to not incorporate a retrorocket system in Skylab due to cost and acceptable risk.
+
+The spent 49-ton Saturn V S-II stage which had launched Skylab in 1973 remained in orbit for almost two years, and made an uncontrolled reentry on January 11, 1975. Some debris, most prominently the five heavy J-2 engines, likely survived to impact in the North Atlantic Ocean. Although this event did not receive heavy media or public attention, it was followed closely by NASA and the Air Force, and helped emphasize the need for improved planning and public awareness for Skylab's eventual reentry.
+
+6.1. Solar activity
+
+Greater-than-expected solar activity heated the outer layers of the Earth's atmosphere and thereby increased drag on Skylab. By late 1977, NORAD accurately forecast a reentry in mid-1979; a National Oceanic and Atmospheric Administration (NOAA) scientist criticized NASA for using an inaccurate model for the second most-intense sunspot cycle in a century, and for ignoring NOAA predictions published in 1976.
+
+The reentry of the USSR's nuclear powered Cosmos 954 in January 1978, and the resulting radioactive debris fall in northern Canada, drew more attention to Skylab's orbit. Although Skylab did not contain radioactive materials, the State Department warned NASA about the potential diplomatic repercussions of station debris. Battelle Memorial Institute forecast that up to 25 tons of metal debris could land in 500 pieces over an area 4,000 miles long and 1,000 miles wide. The lead-lined film vault, for example, might land intact at 400 feet per second. Ground controllers re-established contact with Skylab in March 1978 and recharged its batteries. Although NASA worked on plans to reboost Skylab with the Space Shuttle through 1978 and the TRS was almost complete, the agency gave up in December when it became clear that the shuttle would not be ready in time; its first flight, STS-1, did not occur until April 1981. Also rejected were proposals to launch the TRS using one or two unmanned rockets or to attempt to destroy the station with missiles.
+
+6.2. Re-entry
+
+Skylab's demise was an international media event, with merchandising of T-shirts and hats with bullseyes, wagering on the time and place of re-entry, and nightly news reports. The San Francisco Examiner offered a $10,000 prize for the first piece of Skylab delivered to its offices; the competing Chronicle offered $200,000 if a subscriber suffered personal or property damage. NASA calculated that the odds of station re-entry debris hitting a human were 1 to 152 and the odds of any particular person being hit were 1 in 600 billion, although the odds of debris hitting a city of 100,000 or more were 1 to 7 and special teams were readied to head to any country hit by debris and requesting help.
+
+In the hours before re-entry, ground controllers adjusted Skylab's orientation to try to minimize the risk of re-entry on a populated area. They aimed the station at a spot south southeast of Cape Town, South Africa, and re-entry began at approximately 16:37 UTC, July 11, 1979. The Air Force provided data from a secret tracking system able to monitor the reentry. The station did not burn up as fast as NASA expected, however. Due to a 4% calculation error, debris landed southeast of Perth, Western Australia, and was found between Esperance and Rawlinna, from 31° to 34°S and 122° to 126°E, about 130–150 km radius around Balladonia. Residents and an airline pilot saw dozens of colorful fireworks-like flares as large pieces broke up in the atmosphere. The Shire of Esperance facetiously fined NASA A$400 for littering, a fine which remained unpaid for 30 years. The fine was paid in April 2009, when radio show host Scott Barley of Highway Radio raised the funds from his morning show listeners and paid the fine on behalf of NASA.
+
+Seventeen year-old Stan Thornton found 24 pieces of Skylab at his home in Esperance. A Philadelphia businessman flew him, his parents, and girlfriend to San Francisco, where he collected the Examiner prize. In a coincidence for the organizers, the annual Miss Universe pageant was scheduled to be held a few days later, on July 20, 1979 in Perth. A large piece of Skylab debris was displayed on the stage. Analysis of the debris showed that the station had not disintegrated until 10 miles above the Earth, much lower than expected.
+
+After the demise of Skylab, NASA focused on the reusable Spacelab module, an orbital workshop that could be deployed with the Space Shuttle and returned to Earth. The next American major space station project was Space Station Freedom, which was merged into the International Space Station in 1993, and launched starting in 1998. Shuttle-Mir was another project, and led to the U.S. funding Spektr, Priroda, and the Mir Docking Module in the 1990s.
+
+7. Planned, but unflown missions
+
+7.1. Skylab 5
+
+Skylab 5 would have been a short 20-day mission to conduct scientific experiments and boost Skylab into a higher orbit. Vance Brand (commander), William B. Lenoir (science pilot), and Don Lind (pilot) would have been the crew for this mission, with Brand and Lind being the prime crew for the Skylab Rescue flights. Brand and Lind also trained for a mission that would have aimed Skylab for a controlled deorbit.
+
+7.2. Skylab B
+
+In addition to the flown Skylab space station, a second flight-quality backup Skylab space station had been built during the program. NASA considered using it for a second station in May 1973 or later, to be called Skylab B (S-IVB 515), but decided against it. Launching another Skylab with another Saturn V rocket would have been very costly, and it was decided to spend this money on the development of the Space Shuttle instead. The backup is on display at the National Air and Space Museum in Washington, D.C.
+
+8. Engineering mock-ups
+
+A full-size training mock-up once used for astronaut training is located at the Lyndon B. Johnson Space Center visitor's center in Houston, Texas. Another full-size training mock-up is at the U.S. Space & Rocket Center in Huntsville, Alabama. Originally displayed indoors, it was subsequently stored outdoors for several years to make room for other exhibits. To mark the 40th anniversary of the Skylab program, the Orbital Workshop portion of the trainer was restored and moved into the Davidson Center in 2013. NASA transferred the backup Skylab to the National Air and Space Museum in 1975. On display in the Museum's Space Hall since 1976, the orbital workshop has been slightly modified to permit viewers to walk through the living quarters.
+
+9. Mission designations
+
+The numerical identification of the manned Skylab missions was the cause of some confusion. Originally, the unmanned launch of Skylab and the three manned missions to the station were numbered SL-1 through SL-4. During the preparations for the manned missions, some documentation was created with a different scheme -- SLM-1 through SLM-3—for those missions only. William Pogue credits Pete Conrad with asking the Skylab program director which scheme should be used for the mission patches, and the astronauts were told to use 1-2-3, not 2-3-4. By the time NASA administrators tried to reverse this decision, it was too late, as all the in-flight clothing had already been manufactured and shipped with the 1-2-3 mission patches.
+
+10. Program cost
+
+The Skylab program cost $2.2 billion from 1966 to 1974, or $10 billion in 2010 inflation-adjusted dollars. As its three three-man crews spent 510 total man-days in space, each man-day cost $19.6 million in 2010 dollars, compared to $7.5 million for the International Space Station.
+
+11. Gallery
+
+File:Skylab Latrine.jpg|The waste management facilities in the backup Skylab at the National Air and Space Museum. File:Skylab mockup Smithsonian NASM.jpg|An astronaut mannequin dines aboard the backup Skylab at the Smithsonian NASM. File:Skylab2 1974 Issue-10c.jpg|SkyLab commemorative stamp, Issue of 1974. The commemorative stamp reflects initial repairs to the station, including the parasol sunshade. File:Skylab labeled.jpg|Illustration of Skylab configuration with docked Command/Service Module File:USNS Vanguard.jpg|Vanguard (T-AGM-19) seen as a NASA Skylab tracking ship. Note the tracking radar and telemetry antennas.
+
+12. See also
+
+Salyut programme
+
+Skylab Medical Experiment Altitude Test (SMEAT)
+
+Skylab II (proposed space station)
+
+Splashdown (spacecraft landing)
+
+13. References
+
+14. Further reading
+
+15. External links
+
+First person interview conducted with William Pogue on August 8, 2012. Original audio and transcript archived with
+
+15.1. NASA
+
+(many of which are on-line)
+
+(1973)
+
+(1977)
+
+(1983)
+
+(1977)
+
+(1977)
+
+(1978)
+
+(1979)
+
+(1979)
+
+()
+
+()
+
+()
+
+15.2. 3rd Party
+
+(Chapter 9 of SP-4208)

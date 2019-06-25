@@ -1,0 +1,43 @@
+Optic neuritis is inflammation of the optic nerve. It is also called papillitis (when the head of the optic nerve is involved) and retrobulbar neuritis (when the posterior of the nerve is involved). It is caused by many different conditions, and it may lead to complete or partial loss of vision. The most common cause is multiple sclerosis, which occurs predominantly in women.
+
+1. Causes
+
+The optic nerve comprises axons that emerge from the retina of the eye and carry visual information to the primary visual nuclei, most of which is relayed to the occipital cortex of the brain to be processed into vision. Inflammation of the optic nerve causes loss of vision, usually because of the swelling and destruction of the myelin sheath covering the optic nerve.
+
+The most common etiology is multiple sclerosis. Up to 50% of patients with MS will develop an episode of optic neuritis, and 20-30% of the time optic neuritis is the presenting sign of MS. The presence of demyelinating white matter lesions on brain MRI at the time of presentation of optic neuritis is the strongest predictor for developing clinically definite MS. Almost half of the patients with optic neuritis have white matter lesions consistent with multiple sclerosis.
+
+At five years follow-up, the overall risk of developing MS is 30%, with or without MRI lesions. Patients with a normal MRI still develop MS (16%), but at a lower rate compared to those patients with three or more MRI lesions (51%). From the other perspective, however, almost half (44%) of patients with any demyelinating lesions on MRI at presentation will not have developed MS ten years later.
+
+Some other causes of optic neuritis include infection (e.g. syphilis, Lyme disease, herpes zoster), autoimmune disorders (e.g. lupus, neurosarcoidosis, neuromyelitis optica), inflammatory bowel disease, drug induced (e.g. chloramphenicol, ethambutol), vasculitis, B12 deficiency and diabetes.
+
+2. Symptoms
+
+Major symptoms are sudden loss of vision (partial or complete), sudden blurred or "foggy" vision, and pain on movement of the affected eye. The vision might also be described as "disturbed/blackened" rather than blurry, as when feeling dizzy. Many patients with optic neuritis may lose some of their color vision in the affected eye (especially red), with colors appearing subtly washed out compared to the other eye. A study found that 92.2% of patients experienced pain, which actually preceded the visual loss in 39.5% of cases. However, several case studies in children have demonstrated the absence of pain in more than half of cases (approximately 60%) in their pediatric study population, with the most common symptom reported simply as "blurriness." Other remarkable differences between the presentation of adult optic neuritis as compared to pediatric cases include more often unilateral optic neuritis in adults, while children much predominantly present with bilateral involvement. Symptoms peak several days to weeks after onset, while symptoms failing to improve after 8 weeks should suggest a diagnosis other than optic neuritis.
+
+On medical examination the head of the optic nerve can easily be visualised by a slit lamp with high plus or by using direct ophthalmoscopy; however, frequently there is no abnormal appearance of the nerve head in optic neuritis (in cases of retrobulbar optic neuritis), though it may be swollen in some patients (anterior papillitis or more extensive optic neuritis). In many cases, only one eye is affected and patients may not be aware of the loss of color vision until they are asked to close or cover the healthy eye.
+
+3. Epidemiology
+
+Optic neuritis typically affects young adults ranging from 18–45 years of age, with a mean age of 30–35 years. There is a strong female predominance. The annual incidence is approximately 5/100,000, with a prevalence estimated to be 115/100,000.
+
+4. Treatment and prognosis
+
+In the vast majority of MS associated optic neuritis, visual function spontaneously improves over the first 2–3 months, and there is evidence that corticosteroid treatment does not affect the long term outcome. However, for optic neuritis that is not MS associated (or atypical optic neuritis) the evidence is less clear and therefore the threshold for treatment with intravenous corticosteroids is lower. Intravenous corticosteroids have also been found to reduce the risk of developing MS in the following two years in those patients who have MRI lesions; but this effect disappears by the third year of follow up.
+
+Paradoxically it has been demonstrated that oral administration of corticosteroids in this situation may lead to more recurrent attacks than in non-treated patients (though oral steroids are generally prescribed after the intravenous course, to wean the patient off the medication). This effect of corticosteroids seems to be limited to optic neuritis and has not been observed in other diseases treated with corticosteroids.
+
+A Cochrane Systematic Review studied the effect of corticosteroids for treating participants suffering from optic neuritis. Treatments reviewed included intravenous methylprednisone, oral methylprednisone, and oral prednisone. All treatments reviewed did not show any benefit in terms of recovery to visual acuity, contrast sensitivity, or visual field.
+
+In the longer term, there is evidence that patients with MS who first present with optic neuritis have a relatively more benign MS course.
+
+5. In popular culture
+
+In the season five episode of Dr. Quinn, Medicine Woman, "Season of Miracles", Reverend Timothy Johnson is struck blind by Optic neuritis on Christmas Day, 1872. He remains blind for the duration of the series.
+
+6. See also
+
+Optic neuropathy
+
+Visual snow
+
+7. References

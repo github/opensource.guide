@@ -1,0 +1,271 @@
+Old English literature (sometimes referred to as Anglo-Saxon literature) encompasses literature written in Old English (also called Anglo-Saxon) in Anglo-Saxon England from the 7th century to the decades after the Norman Conquest of 1066. "Cædmon's Hymn", composed in the 7th century according to Bede, is often considered the oldest extant poem in English, whereas the later poem, The Grave is one of the final poems written in Old English, and presents a transitional text between Old and Middle English. Likewise, the Peterborough Chronicle continues until the 12th century.
+
+The poem Beowulf, which often begins the traditional canon of English literature, is the most famous work of Old English literature. The Anglo-Saxon Chronicle has also proven significant for historical study, preserving a chronology of early English history. Alexander Souter names the commentary on Paul's epistles by Pelagius "the earliest extant work by a British author".
+
+In descending order of quantity, Old English literature consists of: sermons and saints' lives, biblical translations; translated Latin works of the early Church Fathers; Anglo-Saxon chronicles and narrative history works; laws, wills and other legal works; practical works on grammar, medicine, geography; and poetry. In all there are over 400 surviving manuscripts from the period, of which about 189 are considered "major".
+
+Besides Old English literature, Anglo-Saxons wrote a number of Anglo-Latin works.
+
+1. Scholarship
+
+Old English literature has gone through different periods of research; in the 19th and early 20th centuries the focus was on the Germanic and pagan roots that scholars thought they could detect in Old English literature. Later, on account of the work of Bernard F. Huppé, the influence of Augustinian exegesis was emphasised. Today, along with a focus upon paleography and the physical manuscripts themselves more generally, scholars debate such issues as dating, place of origin, authorship, and the connections between Anglo-Saxon culture and the rest of Europe in the Middle Ages, and literary merits.
+
+2. Extant manuscripts
+
+A large number of manuscripts remain from the Anglo-Saxon period, with most written during its last 300 years (9th to 11th centuries), in both Latin and the vernacular. There were considerable losses of manuscripts as a result of the Dissolution of the Monasteries in the 16th century. Scholarly study of the language began in the reign of Queen Elizabeth I when Matthew Parker and others obtained whatever manuscripts they could. Old English manuscripts have been highly prized by collectors since the 16th century, both for their historic value and for their aesthetic beauty of uniformly spaced letters and decorative elements.
+
+There are four major poetic manuscripts:
+
+The Junius manuscript, also known as the man hunt, is an illustrated collection of poems on biblical narratives.
+
+The Exeter Book, is an anthology, located in the Exeter Cathedral since it was donated there in the 11th century.
+
+The Vercelli Book, contains both poetry and prose; it is not known how it came to be in Vercelli.
+
+The Beowulf Manuscript (British Library Cotton Vitellius A. xv), sometimes called the Nowell Codex, contains prose and poetry, typically dealing with monstrous themes, including Beowulf. Seven major scriptoria produced a good deal of Old English manuscripts: Winchester, Exeter, Worcester, Abingdon, Durham, and two Canterbury houses, Christ Church and St. Augustine's Abbey; regional dialects include: Northumbrian, Mercian, Kentish, West Saxon (the last being the main dialect). Some Old English survives on parchment, stone structures, and other ornate objects.
+
+3. Poetry
+
+Old English poetry falls broadly into two styles or fields of reference, the heroic Germanic and the Christian. With a few exceptions, almost all Old English poets are anonymous.
+
+Although there are Anglo-Saxon discourses on Latin prosody, the rules of Old English verse are understood only through modern analyses of the extant texts. The first widely accepted theory was constructed by Eduard Sievers (1893), who distinguished five distinct alliterative patterns. Sievers' system of alliterative verse is based upon accent, alliteration, the quantity of vowels, and patterns of syllabic accentuation. It consists of five permutations on a base verse scheme; any one of the five types can be used in any verse. The system was inherited from and exists in one form or another in all of the older Germanic languages. Two poetic figures commonly found in Old English poetry are the kenning, an often formulaic phrase that describes one thing in terms of another (e.g. in Beowulf, the sea is called the whale road) and litotes, a dramatic understatement employed by the author for ironic effect. Alternative theories have been proposed, such as the theory of John C. Pope (1942), which uses musical notation to track the verse patterns. J. R. R. Tolkien gave a summary of his analysis in the 1940 essay "On Translating Beowulf".
+
+Even though all extant Old English poetry is written and literate, it is assumed that Old English poetry was an oral craft that was performed by a scop and accompanied by a harp.
+
+3.1. Composition
+
+3.1.1. Named poets
+
+Most Old English poets are anonymous, and only four names are known with any certainty: Caedmon, Bede, Alfred the Great, and Cynewulf.
+
+Caedmon is considered the first Old English poet whose work still survives. According to the account in Bede's Historia ecclesiastica, he lived at the abbey of Whitby in Northumbria in the 7th century. Only his first poem, comprising nine-lines, Cædmon's Hymn, remains, albeit in Northumbrian, West-Saxon and Latin versions that appear in 19 surviving manuscripts:
+
+Bede is often thought to be the poet of a five-line poem entitled Bede's Death Song, on account of its appearance in a letter on his death by Cuthbert. This poem exists in a Northumbrian and later version.
+
+Alfred is said to be the author of some of the metrical prefaces to the Old English translations of Gregory's Pastoral Care and Boethius's Consolation of Philosophy. Alfred is also thought to be the author of 50 metrical psalms, but whether the poems were written by him, under his direction or patronage, or as a general part in his reform efforts is unknown.
+
+Cynewulf has proven to be a difficult figure to identify, but recent research suggests he was from the early part of the 9th century to which a number of poems are attributed including The Fates of the Apostles and Elene (both found in the Vercelli Book), and Christ II and Juliana (both found in the Exeter Book).
+
+Although William of Malmesbury claims that Aldhelm, bishop of Sherborne (d. 709), performed secular songs while accompanied by a harp, none of these Old English poems survives. Paul G. Remely has recently proposed that the Old English Exodus may have been the work of Aldhelm, or someone closely associated with him.
+
+3.1.2. Oral tradition
+
+The hypotheses of Milman Parry and Albert Lord on the Homeric Question came to be applied (by Parry and Lord, but also by Francis Magoun) to verse written in Old English. That is, the theory proposes that certain features of at least some of the poetry may be explained by positing oral-formulaic composition. While Anglo-Saxon (Old English) epic poetry may bear some resemblance to Ancient Greek epics such as the Iliad and Odyssey, the question of if and how Anglo-Saxon poetry was passed down through an oral tradition remains a subject of debate, and the question for any particular poem unlikely to be answered with perfect certainty.
+
+Parry and Lord had already demonstrated the density of metrical formulas in Ancient Greek, and observed that the same phenomenon was apparent in the Old English alliterative line:
+
+In addition to verbal formulas, many themes have been shown to appear among the various works of Anglo-Saxon literature. The theory proposes to explain this fact by suggesting that the poetry was composed of formulae and themes from a stock common to the poetic profession, as well as literary passages composed by individual artists in a more modern sense. Larry Benson introduced the concept of "written-formulaic" to describe the status of some Anglo-Saxon poetry which, while demonstrably written, contains evidence of oral influences, including heavy reliance on formulas and themes Frequent oral-formulaic themes in Old English poetry include "Beasts of Battle" and the "Cliff of Death". The former, for example, is characterised by the mention of ravens, eagles, and wolves preceding particularly violent depictions of battle. Among the most thoroughly documented themes is "The Hero on the Beach." D. K. Crowne first proposed this theme, defined by four characteristics:
+
+One example Crowne cites in his article is that which concludes Beowulf's fight with the monsters during his swimming match with Breca:
+
+Those sinful creatures had no fill of rejoicing that they consumed me, assembled at feast at the sea bottom; rather, in the morning, wounded by blades they lay up on the shore, put to sleep by swords, so that never after did they hinder sailors in their course on the sea. The light came from the east, the bright beacon of God.
+
+Crowne drew on examples of the theme's appearance in twelve Anglo-Saxon texts, including one occurrence in Beowulf. It was also observed in other works of Germanic origin, Middle English poetry, and even an Icelandic prose saga. John Richardson held that the schema was so general as to apply to virtually any character at some point in the narrative, and thought it an instance of the "threshold" feature of Joseph Campbell's Hero's Journey monomyth. J.A. Dane, in an article characterised as "polemics without rigour" claimed that the appearance of the theme in Ancient Greek poetry, a tradition without known connection to the Germanic, invalidated the notion of "an autonomous theme in the baggage of an oral poet." Foley's response was that Dane misunderstood the nature of oral tradition, and that in fact the appearance of the theme in other cultures showed that it was a traditional form.
+
+3.2. Genres and themes
+
+3.2.1. Heroic poetry
+
+The Old English poetry which has received the most attention deals with the Germanic heroic past. The longest (3,182 lines), and most important, is Beowulf, which appears in the damaged Nowell Codex. The poem tells the story of the legendary Geatish hero Beowulf, who is the title character. The story is set in Scandinavia, in Sweden and Denmark, and the tale likewise probably is of Scandinavian origin. The story is biographical and sets the tone for much of the rest of Old English poetry. It has achieved national epic status, on the same level as the Iliad, and is of interest to historians, anthropologists, literary critics, and students the world over.
+
+Other heroic poems besides Beowulf exist. Two have survived in fragments: The Fight at Finnsburh, controversially interpreted by many to be a retelling of one of the battle scenes in Beowulf, and Waldere, a version of the events of the life of Walter of Aquitaine. Two other poems mention heroic figures: Widsith is believed to be very old in parts, dating back to events in the 4th century concerning Eormanric and the Goths, and contains a catalogue of names and places associated with valiant deeds. Deor is a lyric, in the style of Consolation of Philosophy, applying examples of famous heroes, including Weland and Eormanric, to the narrator's own case.
+
+The Anglo-Saxon Chronicle contains various heroic poems inserted throughout. The earliest from 937 is called The Battle of Brunanburh, which celebrates the victory of King Athelstan over the Scots and Norse. There are five shorter poems: capture of the Five Boroughs (942); coronation of King Edgar (973); death of King Edgar (975); death of Alfred the son of King Æthelred (1036); and death of King Edward the Confessor (1065).
+
+The 325 line poem The Battle of Maldon celebrates Earl Byrhtnoth and his men who fell in battle against the Vikings in 991. It is considered one of the finest, but both the beginning and end are missing and the only manuscript was destroyed in a fire in 1731. A well-known speech is near the end of the poem:
+
+Old English heroic poetry was handed down orally from generation to generation. As Christianity began to appear, re-tellers often recast the tales of Christianity into the older heroic stories.
+
+3.2.2. Elegiac poetry
+
+Related to the heroic tales are a number of short poems from the Exeter Book which have come to be described as "elegies" or "wisdom poetry". They are lyrical and Boethian in their description of the up and down fortunes of life. Gloomy in mood is The Ruin, which tells of the decay of a once glorious city of Roman Britain (cities in Britain fell into decline after the Romans departed in the early 5th century, as the early English continued to live their rural life), and The Wanderer, in which an older man talks about an attack that happened in his youth, where his close friends and kin were all killed; memories of the slaughter have remained with him all his life. He questions the wisdom of the impetuous decision to engage a possibly superior fighting force: the wise man engages in warfare to preserve civil society, and must not rush into battle but seek out allies when the odds may be against him. This poet finds little glory in bravery for bravery's sake. The Seafarer is the story of a somber exile from home on the sea, from which the only hope of redemption is the joy of heaven. Other wisdom poems include Wulf and Eadwacer, The Wife's Lament, and The Husband's Message. Alfred the Great wrote a wisdom poem over the course of his reign based loosely on the neoplatonic philosophy of Boethius called the Lays of Boethius.
+
+3.2.3. Classical and Latin poetry
+
+Several Old English poems are adaptations of late classical philosophical texts. The longest is a 10th-century translation of Boethius' Consolation of Philosophy contained in the Cotton manuscript Otho A.vi. Another is The Phoenix in the Exeter Book, an allegorisation of the De ave phoenice by Lactantius.
+
+Other short poems derive from the Latin bestiary tradition. Some examples include The Panther, The Whale and The Partridge.
+
+3.2.4. Riddles
+
+Anglo-Saxon riddles are part of Anglo-Saxon literature. The most famous Anglo-Saxon riddles are found in the Exeter Book. This book contains secular and religious poems and other writings, along with a collection of 94 riddles, although there is speculation that there may have been closer to 100 riddles in the book. The riddles are written in a similar manner, but "it is unlikely that the whole collection was written by one person." It is more likely that many scribes worked on this collection of riddles. Although the Exeter Book has a unique and extensive collection of Anglo-Saxon riddles, riddles were not uncommon during this era. Riddles were both comical and obscene.
+
+3.2.5. Christian poetry
+
+3.2.5.1. Saints' lives
+
+The Vercelli Book and Exeter Book contain four long narrative poems of saints' lives, or hagiography. In Vercelli are Andreas and Elene and in Exeter are Guthlac and Juliana.
+
+Andreas is 1,722 lines long and is the closest of the surviving Old English poems to Beowulf in style and tone. It is the story of Saint Andrew and his journey to rescue Saint Matthew from the Mermedonians. Elene is the story of Saint Helena (mother of Constantine) and her discovery of the True Cross. The cult of the True Cross was popular in Anglo-Saxon England and this poem was instrumental.
+
+Guthlac is actually two poems about English Saint Guthlac (7th century).
+
+3.2.5.2. Biblical paraphrases
+
+There are a number of partial Old English Bible translations and paraphrases surviving. The Junius manuscript contains three paraphrases of Old Testament texts. These were re-wordings of Biblical passages in Old English, not exact translations, but paraphrasing, sometimes into beautiful poetry in its own right. The first and longest is of Genesis, the second is of Exodus and the third is Daniel. The fourth and last poem, Christ and Satan, which is contained in the second part of the Junius manuscript, does not paraphrase any particular biblical book, but retells a number of episodes from both the Old and New Testament.
+
+The Nowell Codex contains a Biblical poetic paraphrase, which appears right after Beowulf, called Judith, a retelling of the story of Judith. This is not to be confused with Ælfric's homily Judith, which retells the same Biblical story in alliterative prose.
+
+Old English translations of Psalms 51-150 have been preserved, following a prose version of the first 50 Psalms.
+
+There are a number of verse translations of the Gloria in Excelsis, the Lord's Prayer, and the Apostles' Creed, as well as a number of hymns and proverbs.
+
+3.2.5.3. Original Christian poems
+
+In addition to Biblical paraphrases are a number of original religious poems, mostly lyrical (non-narrative).
+
+The Exeter Book contains a series of poems entitled Christ, sectioned into Christ I, Christ II and Christ III.
+
+Considered one of the most beautiful of all Old English poems is Dream of the Rood, contained in the Vercelli Book. It is a dream vision of Christ on the cross, with the cross personified, speaking thus:
+
+The dreamer resolves to trust in the cross, and the dream ends with a vision of heaven.
+
+There are a number of religious debate poems. The longest is Christ and Satan in the Junius manuscript, it deals with the conflict between Christ and Satan during the forty days in the desert. Another debate poem is Solomon and Saturn, surviving in a number of textual fragments, Saturn is portrayed as a magician debating with the wise king Solomon.
+
+3.2.6. Other poems
+
+Other poetic forms exist in Old English including short verses, gnomes, and mnemonic poems for remembering long lists of names.
+
+There are short verses found in the margins of manuscripts which offer practical advice, such as remedies against the loss of cattle or how to deal with a delayed birth, often grouped as charms. The longest is called Nine Herbs Charm and is probably of pagan origin. Other similar short verses, or charms, include For a Swarm of Bees, Against a Dwarf, Against a Stabbing Pain, and Against a Wen.
+
+There are a group of mnemonic poems designed to help memorise lists and sequences of names and to keep objects in order. These poems are named Menologium, The Fates of the Apostles, The Rune Poem, The Seasons for Fasting, and the Instructions for Christians.
+
+3.3. Features
+
+3.3.1. Simile and metaphor
+
+Anglo-Saxon poetry is marked by the comparative rarity of similes. This is a particular feature of Anglo-Saxon verse style, and is a consequence of both its structure and the rapidity with which images are deployed, to be unable to effectively support the expanded simile. As an example of this, the epic Beowulf contains at best five similes, and these are of the short variety. This can be contrasted sharply with the strong and extensive dependence that Anglo-Saxon poetry has upon metaphor, particularly that afforded by the use of kennings. The most prominent example of this in The Wanderer is the reference to battle as a “storm of spears”. This reference to battle gives us an opportunity to see how Anglo-Saxons viewed battle: as unpredictable, chaotic, violent, and perhaps even a function of nature. It is with these stylistic and thematic elements in mind, that one should first approach Anglo-Saxon poetry.
+
+3.3.2. Alliteration
+
+Old English poetry traditionally alliterates, meaning that a sound (usually the initial consonant sound) is repeated throughout a line. For instance, in the first line of Beowulf, "Hwaet! We Gar-Dena | in gear-dagum", (meaning "Lo! We ... of the Spear Danes in days of yore"), the stressed words Gar-Dena and gear-dagum alliterate on the consonant "G".
+
+3.3.3. Variation
+
+The Old English poet was particularly fond of describing the same person or object with varied phrases (often appositives) that indicated different qualities of that person or object. For instance, the Beowulf poet refers in three and a half lines to a Danish king as "lord of the Danes" (referring to the people in general), "king of the Scyldings" (the name of the specific Danish tribe), "giver of rings" (one of the king's functions is to distribute treasure), and "famous chief". Such variation, which the modern reader (who likes verbal precision) is not used to, is frequently a difficulty in producing a readable translation.
+
+3.3.4. Caesura
+
+Old English poetry, like other Old Germanic alliterative verse, is also commonly marked by the caesura or pause. In addition to setting pace for the line, the caesura also grouped each line into two couplets.
+
+4. Prose
+
+The amount of surviving Old English prose is much greater than the amount of poetry. Of the surviving prose, the majority consists of sermons and translations of religious works that were composed in Latin. The division of early medieval written prose works into categories of "Christian" and "secular", as below, is for convenience's sake only, for literacy in Anglo-Saxon England was largely the province of monks, nuns, and ecclesiastics (or of those laypeople to whom they had taught the skills of reading and writing Latin and/or Old English). Old English prose first appears in the 9th century, and continues to be recorded through the 12th century as the last generation of scribes, trained as boys in the standardised West Saxon before the Conquest, died as old men.
+
+4.1. Christian prose
+
+The most widely known secular author of Old English was King Alfred the Great (849–899), who translated several books, many of them religious, from Latin into Old English. Alfred, wanting to restore English culture, lamented the poor state of Latin education: Alfred proposed that students be educated in Old English, and those who excelled should go on to learn Latin. Alfred's cultural program produced the following translations: Gregory the Great's The Pastoral Care, a manual for priests on how to conduct their duties; The Consolation of Philosophy by Boethius; and The Soliloquies of Saint Augustine. Alfred the Great was also responsible for a translation of fifty Psalms into Old English.
+
+Other important Old English translations include: Historiae adversum paganos by Orosius, a companion piece for St. Augustine's The City of God; the Dialogues of Gregory the Great; and Bede's Ecclesiastical History of the English People.
+
+Ælfric of Eynsham, wrote in the late 10th and early 11th century. He was the greatest and most prolific writer of Anglo-Saxon sermons, which were copied and adapted for use well into the 13th century. He translated the first six books of the Bible (Old English Hexateuch), and glossed and translated other parts of the Bible. His Lives of Saints in the Julius manuscript contains Seven Sleepers of Ephesus, Saint Mary of Egypt, Saint Eustace, and Saint Euphrosyne. Ælfric also wrote an Old English work on time-reckoning, and pastoral letters.
+
+In the same category as Aelfric, and a contemporary, was Wulfstan II, archbishop of York. His sermons were highly stylistic. His best known work is Sermo Lupi ad Anglos in which he blames the sins of the English for the Viking invasions. He wrote a number of clerical legal texts Institutes of Polity and Canons of Edgar.
+
+One of the earliest Old English texts in prose is the Martyrology, information about saints and martyrs according to their anniversaries and feasts in the church calendar. It has survived in six fragments. It is believed to date from the 9th century by an anonymous Mercian author.
+
+The oldest collections of church sermons is the Blickling homilies, found in a 10th-century manuscript.
+
+There are a number of saint's lives prose works; beyond those written by Aelfric are the prose life of Saint Guthlac (Vercelli Book), the life of Saint Margaret and the life of Saint Chad. There are four lives in the Julius manuscript: Seven Sleepers of Ephesus, Saint Mary of Egypt, Saint Eustace and Saint Euphrosyne.
+
+The Wessex Gospels are a full translation of the four gospels into a West Saxon dialect of Old English, produced about 990. The Old English Gospel of Nicodemus manuscripts date from the 11th century AD. Other translations include "...the Gospel of Pseudo-Matthew, Vindicta salvatoris, Vision of Saint Paul and the Apocalypse of Thomas".
+
+One of the largest bodies of Old English text is found in the legal texts collected and saved by the religious houses. These include many kinds of texts: records of donations by nobles; wills; documents of emancipation; lists of books and relics; court cases; guild rules. All of these texts provide valuable insights into the social history of Anglo-Saxon times, but are also of literary value. For example, some of the court case narratives are interesting for their use of rhetoric.
+
+4.2. Secular prose
+
+The Anglo-Saxon Chronicle was probably started in the time of King Alfred the Great and continued for over 300 years as a historical record of Anglo-Saxon history.
+
+A single example of a Classical romance has survived, it is a fragment of the story of Apollonius of Tyre, from the 11th century.
+
+A monk who was writing in Old English at the same time as Aelfric and Wulfstan was Byrhtferth of Ramsey, whose books Handboc and Manual were studies of mathematics and rhetoric.
+
+Aelfric wrote two neo-scientific works, Hexameron and Interrogationes Sigewulfi, dealing with the stories of Creation. He also wrote a grammar and glossary in Old English called Latin, later used by students interested in learning Old French because it had been glossed in Old French.
+
+There are many surviving rules and calculations for finding feast days, and tables on calculating the tides and the season of the moon.
+
+In the Nowell Codex is the text of The Wonders of the East which includes a remarkable map of the world, and other illustrations. Also contained in Nowell is Alexander's Letter to Aristotle. Because this is the same manuscript that contains Beowulf, some scholars speculate it may have been a collection of materials on exotic places and creatures.
+
+There are a number of interesting medical works. There is a translation of Apuleius's Herbarium with striking illustrations, found together with Medicina de Quadrupedibus. A second collection of texts is Bald's Leechbook, a 10th-century book containing herbal and even some surgical cures. A third collection, known as the Lacnunga, includes many charms and incantations.
+
+Anglo-Saxon legal texts are a large and important part of the overall corpus. By the 12th century they had been arranged into two large collections (see Textus Roffensis). They include laws of the kings, beginning with those of Aethelbert of Kent, and texts dealing with specific cases and places in the country. An interesting example is Gerefa which outlines the duties of a reeve on a large manor estate. There is also a large volume of legal documents related to religious houses.
+
+5. Reception
+
+Old English literature did not disappear in 1066 with the Norman Conquest. Many sermons and works continued to be read and used in part or whole up through the 14th century, and were further catalogued and organised. During the Reformation, when monastic libraries were dispersed, the manuscripts were collected by antiquarians and scholars. These included Laurence Nowell, Matthew Parker, Robert Bruce Cotton and Humfrey Wanley. In the 17th century there began a tradition of Old English literature dictionaries and references. The first was William Somner's Dictionarium Saxonico-Latino-Anglicum (1659). Lexicographer Joseph Bosworth began a dictionary in the 19th century which was completed by Thomas Northcote Toller in 1898 called An Anglo-Saxon Dictionary, which was updated by Alistair Campbell in 1972.
+
+Because Old English was one of the first vernacular languages to be written down, nineteenth-century scholars searching for the roots of European "national culture" (see Romantic Nationalism) took special interest in studying Anglo-Saxon literature, and Old English became a regular part of university curriculum. Since WWII there has been increasing interest in the manuscripts themselves—Neil Ker, a paleographer, published the groundbreaking Catalogue of Manuscripts Containing Anglo-Saxon in 1957, and by 1980 nearly all Anglo-Saxon manuscript texts were in print. J.R.R. Tolkien is credited with creating a movement to look at Old English as a subject of literary theory in his seminal lecture Beowulf: The Monsters and the Critics (1936).
+
+Old English literature has had some influence on modern literature, and notable poets have translated and incorporated Old English poetry. Well-known early translations include William Morris's translation of Beowulf and Ezra Pound's translation of The Seafarer. The influence of the poetry can be seen in modern poets T. S. Eliot, Ezra Pound and W. H. Auden. Tolkien adapted the subject matter and terminology of heroic poetry for works like The Hobbit and The Lord of the Rings, and John Gardner wrote Grendel, which tells the story of Beowulf's opponent from his own perspective.
+
+More recently other notable poets such as Paul Muldoon, Seamus Heaney, Denise Levertov and U. A. Fanthorpe have all shown an interest in Old English poetry. In 1987 Denise Levertov published a translation of Caedmon's Hymn under her title "Caedmon" in the collection Breathing the Water. This was then followed by Seamus Heaney's version of the poem "Whitby-sur-Moyola" in his The Spirit Level (1996) Paul Muldoon's "Caedmon's Hymn" in his Moy Sand and Gravel (2002) and U. A. Fanthorpe's "Caedmon's Song" in her Queuing for the Sun (2003). These translations differ greatly from one another, just as Seamus Heaney's Beowulf (1999) deviates from earlier, similar projects. Heaney uses Irish diction across Beowulf to bring what he calls a "special body and force" to the poem, foregrounding his own Ulster heritage, "in order to render (the poem) ever more 'willable forward/again and again and again.'"
+
+6. See also
+
+Anglo-Saxon architecture
+
+Anglo-Saxon art
+
+Hebban olla vogala
+
+History of the Anglo-Saxons
+
+List of illuminated Anglo-Saxon manuscripts
+
+List of national poetries
+
+List of poems
+
+7. Notes
+
+8. References
+
+Joseph Bosworth (1889). An Anglo-Saxon Dictionary
+
+Alistair Campbell (1972). Englarged Addenda and Corrigenda
+
+Angus Cameron (1982). "Anglo-Saxon Literature". Dictionary of the Middle Ages. ISBN 0-684-16760-3
+
+Joyce Hill, "Confronting 'Germania Latina': changing responses to Old English biblical verse," in The poems of MS Junius 11: basic readings, ed. R.M. Liuzza (New York, 2002), pp. 1–19.
+
+Bernard F. Huppé. Doctrine and Poetry: Augustine's Influence on Old English Poetry (New York: SUNY Press, 1959).
+
+Neil R. Ker, Catalogue of Manuscripts containing Anglo-Saxon, 2nd ed. (Oxford, 1990).
+
+Daniel Paul O'Donnell, Cædmon's Hymn: A Multi-Media Study, Edition and Archive (Cambridge: D.S. Brewer, 2005).
+
+Seth Leher, "Genre of the Grave and the Origins of the Middle English Lyric”, Modern Language Quarterly 58 (1997): 127-61.
+
+John C. Pope, The Rhythm of Beowulf: an interpretation of the normal and hypermetric verse-forms in Old English poetry (New Haven: Yale University Pres, 1942).
+
+Paul G. Remely, "Aldhelm as Old English Poet: Exodus, Asser, and the Dicta Ælfredi," in Latin Learning and English Lore: Studies in Anglo-Saxon Literature for Michael Lapidge, ed. Katherine O’Brien O’Keeffe and Andy Orchard (Toronto: University of Toronto Press, 2005), pp. 90–108.
+
+Eduard Sievers, Altgermanische Metrik (Halle, 1893).
+
+A.H. Smith, ed., Three Northumbrian Poems (Exeter: University of Exeter Press, 1978).
+
+E.G. Stanely, Imagining the Anglo-Saxon Past: The Search for Anglo-Saxon Paganism and Anglo-Saxon Trial by Jury (Cambridge: D.S. Brewer, 1975, rpt. Boydell & Brewer, 2000).
+
+Michael Treschow, Paramjit Gill, and Tim B. Swartz, "King Alfred's Scholarly Writings and the Authorship of the First Fifty Prose Psalms", Heroic Age 12 (2009)
+
+9. Further reading
+
+Anderson, George K. The literature of the Anglo-Saxons. Princeton: Princeton University Press, 1966.
+
+Crépin, André. Old English Poetics: A Technical Handbook. . Paris, 2005.
+
+Fulk, R.D. and Christopher M. Cain. A History of Old English Literature. Malden et al.: Blackwell, 2003.
+
+Godden, Malcolm and Michael Lapidge (eds.). The Cambridge Companion to Old English Literature. Cambridge, 1986.
+
+Greenfield, Stanley B. and Daniel G. Calder. A New Critical History of Old English Literature. New York: NYU Press, 1986.
+
+Pulsiano, Phillip and Elaine Treharne (eds.). A Companion to Anglo-Saxon Literature. Oxford et al., 2001.
+
+Sisam, Kenneth. Studies in the history of Old English literature. Oxford: Clarendon Press, 1962.
+
+Wrenn, Charles L. A Study of Old English Literature. London: Harrap, 1967.
+
+10. External links
+
+Files in HTML and pdf formats of translations of the Bible (Old and New Testaments) into Anglo-Saxon

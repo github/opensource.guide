@@ -1,0 +1,31 @@
+In mathematics, it is possible to combine several rings into one large product ring. This is done as follows: if I is some index set and Ri is a ring for every i in I, then the cartesian product can be turned into a ring by defining the operations coordinate-wise.
+
+The resulting ring is called a direct product of the rings Ri. The direct product of finitely many rings coincides with the direct sum of rings.
+
+1. Examples
+
+An important example is the ring Z/nZ of integers modulo n. If n is written as a product of prime powers (see fundamental theorem of arithmetic):
+
+where the pi are distinct primes, then Z/nZ is naturally isomorphic to the product ring
+
+This follows from the Chinese remainder theorem.
+
+2. Properties
+
+If is a product of rings, then for every i in I we have a surjective ring homomorphism which projects the product on the ith coordinate. The product R, together with the projections pi, has the following universal property:
+
+This shows that the product of rings is an instance of products in the sense of category theory. However, despite also being called the direct sum of rings when I is finite, the product of rings is not a coproduct in the sense of category theory. In particular, if I has more than one element, the inclusion map is not ring homomorphism as it does not map the identity in Ri to the identity in R.
+
+If Ai in Ri is an ideal for each i in I, then is an ideal of R. If I is finite, then the converse is true, i.e. every ideal of R is of this form. However, if I is infinite and the rings Ri are non-zero, then the converse is false; the set of elements with all but finitely many nonzero coordinates forms an ideal which is not a direct product of ideals of the Ri. The ideal A is a prime ideal in R if all but one of the Ai are equal to Ri and the remaining Ai is a prime ideal in Ri. However, the converse is not true when I is infinite. For example, the direct sum of the Ri form an ideal not contained in any such A, but the axiom of choice gives that it is contained in some maximal ideal which is a fortiori prime.
+
+An element x in R is a unit if and only if all of its components are units, i.e. if and only if is a unit in Ri for every i in I. The group of units of R is the product of the groups of units of Ri.
+
+A product of more than one non-zero rings always has zero divisors: if x is an element of the product all of whose coordinates are zero except , and y is an element of the product with all coordinates zero except (with ), then in the product ring.
+
+3. See also
+
+Direct product
+
+4. Notes
+
+5. References

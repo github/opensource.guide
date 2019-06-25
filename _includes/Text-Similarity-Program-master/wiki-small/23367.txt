@@ -1,0 +1,93 @@
+Telecommunications in Pakistan describes the overall environment for the growing mobile telecommunications, telephone, and Internet markets in Pakistan.
+
+In 2008 Pakistan was the world’s third fastest growing telecommunications market. Pakistan's telecom infrastructure is improving dramatically with foreign and domestic investments into fixed-line and mobile networks; fiber systems are being constructed throughout the country to aid in network growth.
+
+1. Regulatory environment
+
+The Telecommunications Ordinance of 1994 created the Pakistan Telecommunication Authority (PTA), Pakistan's first independent telecommunications regulator, and the Pakistan Telecommunication Company Ltd (PTCL), a state-owned monopoly.
+
+Due to a lack of competition, local telephone call rates were high and international call rates were even higher. During the 1990s, a call to United States cost $5 per minute (300PkRs per minute), which was not affordable for most of the population. In addition customer service was poor; fixing a problem might take 10 to 15 days. Despite this, consumers had to stick with PTCL, as they had no other options.
+
+This prompted the government to take a series of actions to improve the service by opening the telecommunications market. This was critical, but required a fine balance because opening the market and preserving PTCL were both important for the government.
+
+In July 2003 the government introduced a Deregulation Policy for the Telecommunication Sector, which allowed and encouraged foreign companies to invest in the Pakistani telecommunications market. The centerpiece of the deregulation was the establishment of two categories of basic services licenses: Local loop (LL), for fixed line telecommunication within the 14 PTCL regions, and Long-distance and International (LDI), for connectivity between regions.” Two sets of criteria set by the regulatory authorities must be met before an operator is allowed to start operation: one for the issuance of a license and another for the maintenance of service quality.
+
+In 2006, Etisalat International Pakistan, a wholly owned subsidiary of Emirates Telecommunications Corporation, purchased a 26% stake in PTCL and assumed management control of the company.
+
+Pakistan's telecommunications infrastructure includes: Microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks. International links include: landing points for the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cable systems (*AMK) that provide links to Asia, the Middle East, and Europe; 3 Intelsat satellite earth stations (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (2 at Karachi and 1 at Islamabad); and microwave radio relay to neighboring countries.
+
+*AMK : Now IMEWE of PTCL and TWA-1 of Transworld (Private Operator) also successfully working in Karachi, Pakistan.
+
+1.1. Perception survey
+
+LIRNEasia's Telecommunications Regulatory Environment (TRE) index summarizes stakeholders’ perception of the regulatory and policy environment and provides insight into how conducive the environment is for further development and progress. The most recent survey was conducted in July 2008 in eight Asian countries, including Pakistan. The tool measured seven dimensions: (i) market entry; (ii) access to scarce resources; (iii) interconnection; (iv) tariff regulation; (v) anti-competitive practices; (vi) universal services; and (vii) quality of service; for the fixed, mobile, and broadband sectors.
+
+The survey found that in Pakistan the mobile sector was most active, followed by broadband; while the fixed-line sector remained somewhat static. The parameters that improved compared to the 2006 survey were: interconnection, tariff regulation, regulation of anti-competitive practices, and universal service obligation in the mobile sector; and market entry, interconnection, regulation of anti-competitive practices and universal service obligation in the fixed sector. Market entry received a low score in the mobile sector due to the perception that the cost of a new or renewal mobile license was prohibitive, thus posing a serious barrier to entry. However, this conclusion may have been incorrect, as the license fee, at least in the case of renewal by Mobilink GSM, was paid in installments over a period of three years. Thus, lack of complete information on the part of survey participants may have skewed the results.
+
+2. Mobile telecommunications
+
+Instaphone and Paktel were the pioneers in mobile communication in Pakistan during the 1990s. They were joined by Mobilink in 1998 which was owned by Motorola until its sale to ORASCOM. The trio offered AMPS services before switching to GSM in the early 2000s. Ufone joined the mix in 2001. The sector was highly regulated which led to high call rates and poor service quality.
+
+In January 2004 the Ministry of Information Technology issued its Mobile Cellular Policy with objectives to:
+
+Promote efficient use of radio spectrum;
+
+Increase choice for customers of cellular mobile services at competitive and affordable prices;
+
+Encourage private investment in the cellular mobile sector;
+
+Recognize the rights and obligations of mobile cellular operators;
+
+Provide for fair competition among mobile and fixed line operators; and
+
+Provide an effective and well defined regulatory regime that is consistent with international best practices. The deregulation bore fruit as international companies Telenor (Norway) and Warid Pakistan set up operations in the country in 2005.
+
+2.1. Subscriber base
+
+The mobile telecommunications sector is seeing very large year-to-year growth in Pakistan. Approximately 90 percent of Pakistanis live within areas that have cell phone coverage and more than half of all Pakistanis have access to a cell phone. With 118 million mobile subscribers in March 2012, Pakistan has the highest mobile penetration rate in the South Asian region.
+
+According to the Pakistan Telecommunication Authority (PTA), Mobilink continues to lead the market with 35.7 million subscribers, followed by Telenor with 29.3 million, Ufone with 23.1 million, Zong with 15.6 million, and Warid Telecom with 14.3 million. All telecom companies are working to broaden their networks in the Azad Jammu and Kashmir and Northern Areas, which were largely ignored until recently. Five of the seven Agencies of the tribal areas have mobile coverage.
+
+2.2. SMS
+
+Pakistanis collectively sent over 151 billion text messages during the year 2009. Nokia has cited Pakistan to be producing the third highest SMS traffic in the world in 2010.
+
+3. Fixed-line telephones
+
+Fixed-line subscriptions declined from a peak of 5.2 million in 2005-06 to 3.4 million in 2009-10.
+
+When dialing on landlines, calls made within cities are considered local calls and you just dial the local number. Calls to other cities (e.g. Karachi to Lahore) are considered long distance calls, e.g., when dialing to Lahore from Karachi you have to dial the code for Lahore then followed by the number of the destination, therefore you dial 042-XXXX-XXXX. For international calls, you dial "00" followed by the country code, e.g., for calls to the UK from Pakistan you dial 00 - 44 - XXXXXX.
+
+The country code for Pakistan is 92.
+
+4. See also
+
+Information technology in Pakistan
+
+Internet in Pakistan
+
+Internet censorship in Pakistan
+
+Media in Pakistan
+
+Telephone numbers in Pakistan
+
+Television in Pakistan
+
+Universal Service Fund Pakistan
+
+List of dialing codes in Pakistan
+
+List of mobile network operators in Pakistan
+
+List of radio channels in Pakistan
+
+List of television stations in Pakistan
+
+List of Urdu language television channels
+
+5. References
+
+6. External links
+
+, Pakistan Telecommunication Authority

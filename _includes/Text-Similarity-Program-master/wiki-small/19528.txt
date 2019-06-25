@@ -1,0 +1,255 @@
+Mechanical engineering is the discipline that applies the principles of engineering, physics and materials science for the design, analysis, manufacturing, and maintenance of mechanical systems. It is the branch of engineering that involves the design, production, and operation of machinery and tools. It is one of the oldest and broadest of the engineering disciplines.
+
+The engineering field requires an understanding of core concepts including mechanics, kinematics, thermodynamics, materials science, structural analysis, and electricity. Mechanical engineers use these core principles along with tools like computer-aided engineering, and product lifecycle management to design and analyze manufacturing plants, industrial equipment and machinery, heating and cooling systems, transport systems, aircraft, watercraft, robotics, medical devices, weapons, and others.
+
+Mechanical engineering emerged as a field during the industrial revolution in Europe in the 18th century; however, its development can be traced back several thousand years around the world. Mechanical engineering science emerged in the 19th century as a result of developments in the field of physics. The field has continually evolved to incorporate advancements in technology, and mechanical engineers today are pursuing developments in such fields as composites, mechatronics, and nanotechnology. Mechanical engineering overlaps with aerospace engineering, metallurgical engineering, civil engineering, electrical engineering, petroleum engineering, manufacturing engineering, chemical engineering, and other engineering disciplines to varying amounts. Mechanical engineers may also work in the field of Biomedical engineering, specifically with biomechanics, transport phenomena, biomechatronics, bionanotechnology and modeling of biological systems, like soft tissue mechanics.
+
+1. History
+
+Mechanical engineering finds its application in the archives of various ancient and medieval societies throughout mankind. In ancient Greece, the works of Archimedes (287–212 BC) deeply influenced mechanics in the Western tradition and Heron of Alexandria (c. 10–70 AD) created the first steam engine (Aeolipile). In China, Zhang Heng (78–139 AD) improved a water clock and invented a seismometer, and Ma Jun (200–265 AD) invented a chariot with differential gears. The medieval Chinese horologist and engineer Su Song (1020–1101 AD) incorporated an escapement mechanism into his astronomical clock tower two centuries before any escapement can be found in clocks of medieval Europe, as well as the world's first known endless power-transmitting chain drive.
+
+During the years from 7th to 15th century, the era called the Islamic Golden Age, there were remarkable contributions from Muslim inventors in the field of mechanical technology. Al-Jazari, who was one of them, wrote his famous Book of Knowledge of Ingenious Mechanical Devices in 1206, and presented many mechanical designs. He is also considered to be the inventor of such mechanical devices which now form the very basic of mechanisms, such as the crankshaft and camshaft.
+
+Important breakthroughs in the foundations of mechanical engineering occurred in England during the 17th century when Sir Isaac Newton both formulated the three Newton's Laws of Motion and developed Calculus, the mathematical basis of physics. Newton was reluctant to publish his methods and laws for years, but he was finally persuaded to do so by his colleagues, such as Sir Edmund Halley, much to the benefit of all mankind. Gottfried Wilhelm Leibniz is also credited with creating Calculus during the same time frame.
+
+During the early 19th century in England, Germany and Scotland, the development of machine tools led mechanical engineering to develop as a separate field within engineering, providing manufacturing machines and the engines to power them. The first British professional society of mechanical engineers was formed in 1847 Institution of Mechanical Engineers, thirty years after the civil engineers formed the first such professional society Institution of Civil Engineers. On the European continent, Johann von Zimmermann (1820–1901) founded the first factory for grinding machines in Chemnitz, Germany in 1848.
+
+In the United States, the American Society of Mechanical Engineers (ASME) was formed in 1880, becoming the third such professional engineering society, after the American Society of Civil Engineers (1852) and the American Institute of Mining Engineers (1871). The first schools in the United States to offer an engineering education were the United States Military Academy in 1817, an institution now known as Norwich University in 1819, and Rensselaer Polytechnic Institute in 1825. Education in mechanical engineering has historically been based on a strong foundation in mathematics and science.
+
+2. Education
+
+Degrees in mechanical engineering are offered at various universities worldwide. In Brazil, Ireland, Philippines, Pakistan, China, Greece, Turkey, North America, South Asia, India, Dominican Republic and the United Kingdom, mechanical engineering programs typically take four to five years of study and result in a Bachelor of Engineering (B.Eng. or B.E.), Bachelor of Science (B.Sc. or B.S.), Bachelor of Science Engineering (B.Sc.Eng.), Bachelor of Technology (B.Tech.), Bachelor of Mechanical Engineering (B.M.E.), or Bachelor of Applied Science (B.A.Sc.) degree, in or with emphasis in mechanical engineering. In Spain, Portugal and most of South America, where neither B.Sc. nor B.Tech. programs have been adopted, the formal name for the degree is "Mechanical Engineer", and the course work is based on five or six years of training. In Italy the course work is based on five years of training, but in order to qualify as an Engineer one has to pass a state exam at the end of the course. In Greece, the coursework is based on a five year curriculum and the requirement of a 'Diploma' Thesis, which upon completion a 'Diploma' is awarded rather than a B.Sc.
+
+In Australia, mechanical engineering degrees are awarded as Bachelor of Engineering (Mechanical) or similar nomenclature although there are an increasing number of specialisations. The degree takes four years of full-time study to achieve. To ensure quality in engineering degrees, Engineers Australia accredits engineering degrees awarded by Australian universities in accordance with the global Washington Accord. Before the degree can be awarded, the student must complete at least 3 months of on the job work experience in an engineering firm. Similar systems are also present in South Africa and are overseen by the Engineering Council of South Africa (ECSA).
+
+In the United States, most undergraduate mechanical engineering programs are accredited by the Accreditation Board for Engineering and Technology (ABET) to ensure similar course requirements and standards among universities. The ABET web site lists 302 accredited mechanical engineering programs as of 11 March 2014. Mechanical engineering programs in Canada are accredited by the Canadian Engineering Accreditation Board (CEAB), and most other countries offering engineering degrees have similar accreditation societies.
+
+Some mechanical engineers go on to pursue a postgraduate degree such as a Master of Engineering, Master of Technology, Master of Science, Master of Engineering Management (M.Eng.Mgt. or M.E.M.), a Doctor of Philosophy in engineering (Eng.D. or Ph.D.) or an engineer's degree. The master's and engineer's degrees may or may not include research. The Doctor of Philosophy includes a significant research component and is often viewed as the entry point to academia. The Engineer's degree exists at a few institutions at an intermediate level between the master's degree and the doctorate.
+
+2.1. Coursework
+
+Standards set by each country's accreditation society are intended to provide uniformity in fundamental subject material, promote competence among graduating engineers, and to maintain confidence in the engineering profession as a whole. Engineering programs in the U.S., for example, are required by ABET to show that their students can "work professionally in both thermal and mechanical systems areas." The specific courses required to graduate, however, may differ from program to program. Universities and Institutes of technology will often combine multiple subjects into a single class or split a subject into multiple classes, depending on the faculty available and the university's major area(s) of research.
+
+The fundamental subjects of mechanical engineering usually include:
+
+Mathematics (in particular, calculus, differential equations, and linear algebra)
+
+Basic physical sciences (including physics and chemistry)
+
+Statics and dynamics
+
+Strength of materials and solid mechanics
+
+Materials Engineering, Composites
+
+Thermodynamics, heat transfer, energy conversion, and HVAC
+
+Fuels, combustion, Internal combustion engine
+
+Fluid mechanics (including fluid statics and fluid dynamics)
+
+Mechanism and Machine design (including kinematics and dynamics)
+
+Instrumentation and measurement
+
+Manufacturing engineering, technology, or processes
+
+Vibration, control theory and control engineering
+
+Hydraulics, and pneumatics
+
+Mechatronics, and robotics
+
+Engineering design and product design
+
+Drafting, computer-aided design (CAD) and computer-aided manufacturing (CAM) Mechanical engineers are also expected to understand and be able to apply basic concepts from chemistry, physics, chemical engineering, civil engineering, and electrical engineering. All mechanical engineering programs include multiple semesters of mathematical classes including calculus, and advanced mathematical concepts including differential equations, partial differential equations, linear algebra, abstract algebra, and differential geometry, among others.
+
+In addition to the core mechanical engineering curriculum, many mechanical engineering programs offer more specialized programs and classes, such as control systems, robotics, transport and logistics, cryogenics, fuel technology, automotive engineering, biomechanics, vibration, optics and others, if a separate department does not exist for these subjects.
+
+Most mechanical engineering programs also require varying amounts of research or community projects to gain practical problem-solving experience. In the United States it is common for mechanical engineering students to complete one or more internships while studying, though this is not typically mandated by the university. Cooperative education is another option. Future work skills research puts demand on study components that feed student's creativity and innovation.
+
+2.2. License
+
+Engineers may seek license by a state, provincial, or national government. The purpose of this process is to ensure that engineers possess the necessary technical knowledge, real-world experience, and knowledge of the local legal system to practice engineering at a professional level. Once certified, the engineer is given the title of Professional Engineer (in the United States, Canada, Japan, South Korea, Bangladesh and South Africa), Chartered Engineer (in the United Kingdom, Ireland, India and Zimbabwe), Chartered Professional Engineer (in Australia and New Zealand) or European Engineer (much of the European Union), Registered Engineer or Professional Engineer in Philippines and Pakistan. The Chartered Engineer and European Engineer are not licenses to practice - they are qualifications.
+
+In the U.S., to become a licensed Professional Engineer (PE), an engineer must pass the comprehensive FE (Fundamentals of Engineering) exam, work a minimum of 4 years as an Engineering Intern (EI) or Engineer-in-Training (EIT), and pass the "Principles and Practice" or PE (Practicing Engineer or Professional Engineer) exams. The requirements and steps of this process are set forth by the National Council of Examiners for Engineering and Surveying (NCEES), a composed of engineering and land surveying licensing boards representing all U.S. states and territories.
+
+In the UK, current graduates require a BEng plus an appropriate masters degree or an integrated MEng degree, a minimum of 4 years post graduate on the job competency development, and a peer reviewed project report in the candidates specialty area in order to become a Chartered Mechanical Engineer (CEng, MIMechE) through the Institution of Mechanical Engineers. CEng MIMechE can also be obtained via an examination route through the City and Guilds of London Institute.
+
+In most developed countries, certain engineering tasks, such as the design of bridges, electric power plants, and chemical plants, must be approved by a Professional Engineer or a Chartered Engineer. "Only a licensed engineer, for instance, may prepare, sign, seal and submit engineering plans and drawings to a public authority for approval, or to seal engineering work for public and private clients." This requirement can be written into state and provincial legislation, such as in the Canadian provinces, for example the Ontario or Quebec's Engineer Act.
+
+In other countries, such as Australia, and the UK, no such legislation exists; however, practically all certifying bodies maintain a code of ethics independent of legislation, that they expect all members to abide by or risk expulsion.
+
+3. Salaries and workforce statistics
+
+The total number of engineers employed in the U.S. in 2009 was roughly 1.6 million. Of these, 239,000 were mechanical engineers (14.9%), the second largest discipline by size behind civil (278,000). The total number of mechanical engineering jobs in 2009 was projected to grow 6% over the next decade, with average starting salaries being $58,800 with a bachelor's degree. The median annual income of mechanical engineers in the U.S. workforce was $80,580. The median income was highest when working for the government ($92,030), and lowest in education ($57,090) as of 2012.
+
+4. Modern tools
+
+Many mechanical engineering companies, especially those in industrialized nations, have begun to incorporate computer-aided engineering (CAE) programs into their existing design and analysis processes, including 2D and 3D solid modeling computer-aided design (CAD). This method has many benefits, including easier and more exhaustive visualization of products, the ability to create virtual assemblies of parts, and the ease of use in designing mating interfaces and tolerances.
+
+Other CAE programs commonly used by mechanical engineers include product lifecycle management (PLM) tools and analysis tools used to perform complex simulations. Analysis tools may be used to predict product response to expected loads, including fatigue life and manufacturability. These tools include finite element analysis (FEA), computational fluid dynamics (CFD), and computer-aided manufacturing (CAM).
+
+Using CAE programs, a mechanical design team can quickly and cheaply iterate the design process to develop a product that better meets cost, performance, and other constraints. No physical prototype need be created until the design nears completion, allowing hundreds or thousands of designs to be evaluated, instead of a relative few. In addition, CAE analysis programs can model complicated physical phenomena which cannot be solved by hand, such as viscoelasticity, complex contact between mating parts, or non-Newtonian flows.
+
+As mechanical engineering begins to merge with other disciplines, as seen in mechatronics, multidisciplinary design optimization (MDO) is being used with other CAE programs to automate and improve the iterative design process. MDO tools wrap around existing CAE processes, allowing product evaluation to continue even after the analyst goes home for the day. They also utilize sophisticated optimization algorithms to more intelligently explore possible designs, often finding better, innovative solutions to difficult multidisciplinary design problems.
+
+5. Subdisciplines
+
+The field of mechanical engineering can be thought of as a collection of many mechanical engineering science disciplines. Several of these subdisciplines which are typically taught at the undergraduate level are listed below, with a brief explanation and the most common application of each. Some of these subdisciplines are unique to mechanical engineering, while others are a combination of mechanical engineering and one or more other disciplines. Most work that a mechanical engineer does uses skills and techniques from several of these subdisciplines, as well as specialized subdisciplines. Specialized subdisciplines, as used in this article, are more likely to be the subject of graduate studies or on-the-job training than undergraduate research. Several specialized subdisciplines are discussed in this section.
+
+5.1. Mechanics
+
+Mechanics is, in the most general sense, the study of forces and their effect upon matter. Typically, engineering mechanics is used to analyze and predict the acceleration and deformation (both elastic and plastic) of objects under known forces (also called loads) or stresses. Subdisciplines of mechanics include
+
+Statics, the study of non-moving bodies under known loads, how forces affect static bodies
+
+Dynamics (or kinetics), the study of how forces affect moving bodies
+
+Mechanics of materials, the study of how different materials deform under various types of stress
+
+Fluid mechanics, the study of how fluids react to forces
+
+Kinematics, the study of the motion of bodies (objects) and systems (groups of objects), while ignoring the forces that cause the motion. Kinematics is often used in the design and analysis of mechanisms.
+
+Continuum mechanics, a method of applying mechanics that assumes that objects are continuous (rather than discrete) Mechanical engineers typically use mechanics in the design or analysis phases of engineering. If the engineering project were the design of a vehicle, statics might be employed to design the frame of the vehicle, in order to evaluate where the stresses will be most intense. Dynamics might be used when designing the car's engine, to evaluate the forces in the pistons and cams as the engine cycles. Mechanics of materials might be used to choose appropriate materials for the frame and engine. Fluid mechanics might be used to design a ventilation system for the vehicle (see HVAC), or to design the intake system for the engine.
+
+5.2. Mechatronics and robotics
+
+Mechatronics is the combination of mechanics and electronics. It is an interdisciplinary branch of mechanical engineering, electrical engineering and software engineering that is concerned with integrating electrical and mechanical engineering to create hybrid systems. In this way, machines can be automated through the use of electric motors, servo-mechanisms, and other electrical systems in conjunction with special software. A common example of a mechatronics system is a CD-ROM drive. Mechanical systems open and close the drive, spin the CD and move the laser, while an optical system reads the data on the CD and converts it to bits. Integrated software controls the process and communicates the contents of the CD to the computer.
+
+Robotics is the application of mechatronics to create robots, which are often used in industry to perform tasks that are dangerous, unpleasant, or repetitive. These robots may be of any shape and size, but all are preprogrammed and interact physically with the world. To create a robot, an engineer typically employs kinematics (to determine the robot's range of motion) and mechanics (to determine the stresses within the robot).
+
+Robots are used extensively in industrial engineering. They allow businesses to save money on labor, perform tasks that are either too dangerous or too precise for humans to perform them economically, and to ensure better quality. Many companies employ assembly lines of robots,especially in Automotive Industries and some factories are so robotized that they can run by themselves. Outside the factory, robots have been employed in bomb disposal, space exploration, and many other fields. Robots are also sold for various residential applications, from recreation to domestic applications.
+
+5.3. Structural analysis
+
+Structural analysis is the branch of mechanical engineering (and also civil engineering) devoted to examining why and how objects fail and to fix the objects and their performance. Structural failures occur in two general modes: static failure, and fatigue failure. Static structural failure occurs when, upon being loaded (having a force applied) the object being analyzed either breaks or is deformed plastically, depending on the criterion for failure. Fatigue failure occurs when an object fails after a number of repeated loading and unloading cycles. Fatigue failure occurs because of imperfections in the object: a microscopic crack on the surface of the object, for instance, will grow slightly with each cycle (propagation) until the crack is large enough to cause ultimate failure.
+
+Failure is not simply defined as when a part breaks, however; it is defined as when a part does not operate as intended. Some systems, such as the perforated top sections of some plastic bags, are designed to break. If these systems do not break, failure analysis might be employed to determine the cause.
+
+Structural analysis is often used by mechanical engineers after a failure has occurred, or when designing to prevent failure. Engineers often use online documents and books such as those published by ASM to aid them in determining the type of failure and possible causes.
+
+Structural analysis may be used in the office when designing parts, in the field to analyze failed parts, or in laboratories where parts might undergo controlled failure tests.
+
+5.4. Thermodynamics and thermo-science
+
+Thermodynamics is an applied science used in several branches of engineering, including mechanical and chemical engineering. At its simplest, thermodynamics is the study of energy, its use and transformation through a system. Typically, engineering thermodynamics is concerned with changing energy from one form to another. As an example, automotive engines convert chemical energy (enthalpy) from the fuel into heat, and then into mechanical work that eventually turns the wheels.
+
+Thermodynamics principles are used by mechanical engineers in the fields of heat transfer, thermofluids, and energy conversion. Mechanical engineers use thermo-science to design engines and power plants, heating, ventilation, and air-conditioning (HVAC) systems, heat exchangers, heat sinks, radiators, refrigeration, insulation, and others.
+
+5.5. Design and drafting
+
+Drafting or technical drawing is the means by which mechanical engineers design products and create instructions for manufacturing parts. A technical drawing can be a computer model or hand-drawn schematic showing all the dimensions necessary to manufacture a part, as well as assembly notes, a list of required materials, and other pertinent information. A U.S. mechanical engineer or skilled worker who creates technical drawings may be referred to as a drafter or draftsman. Drafting has historically been a two-dimensional process, but computer-aided design (CAD) programs now allow the designer to create in three dimensions.
+
+Instructions for manufacturing a part must be fed to the necessary machinery, either manually, through programmed instructions, or through the use of a computer-aided manufacturing (CAM) or combined CAD/CAM program. Optionally, an engineer may also manually manufacture a part using the technical drawings, but this is becoming an increasing rarity, with the advent of computer numerically controlled (CNC) manufacturing. Engineers primarily manually manufacture parts in the areas of applied spray coatings, finishes, and other processes that cannot economically or practically be done by a machine.
+
+Drafting is used in nearly every subdiscipline of mechanical engineering, and by many other branches of engineering and architecture. Three-dimensional models created using CAD software are also commonly used in finite element analysis (FEA) and computational fluid dynamics (CFD).
+
+6. Frontiers of research
+
+Mechanical engineers are constantly pushing the boundaries of what is physically possible in order to produce safer, cheaper, and more efficient machines and mechanical systems. Some technologies at the cutting edge of mechanical engineering are listed below (see also exploratory engineering).
+
+6.1. Micro electro-mechanical systems (MEMS)
+
+Micron-scale mechanical components such as springs, gears, fluidic and heat transfer devices are fabricated from a variety of substrate materials such as silicon, glass and polymers like SU8. Examples of MEMS components are the accelerometers that are used as car airbag sensors, modern cell phones, gyroscopes for precise positioning and microfluidic devices used in biomedical applications.
+
+6.2. Friction stir welding (FSW)
+
+Friction stir welding, a new type of welding, was discovered in 1991 by The Welding Institute (TWI). The innovative steady state (non-fusion) welding technique joins materials previously un-weldable, including several aluminum alloys. It plays an important role in the future construction of airplanes, potentially replacing rivets. Current uses of this technology to date include welding the seams of the aluminum main Space Shuttle external tank, Orion Crew Vehicle test article, Boeing Delta II and Delta IV Expendable Launch Vehicles and the SpaceX Falcon 1 rocket, armor plating for amphibious assault ships, and welding the wings and fuselage panels of the new Eclipse 500 aircraft from Eclipse Aviation among an increasingly growing pool of uses.
+
+6.3. Composites
+
+Composites or composite materials are a combination of materials which provide different physical characteristics than either material separately. Composite material research within mechanical engineering typically focuses on designing (and, subsequently, finding applications for) stronger or more rigid materials while attempting to reduce weight, susceptibility to corrosion, and other undesirable factors. Carbon fiber reinforced composites, for instance, have been used in such diverse applications as spacecraft and fishing rods.
+
+6.4. Mechatronics
+
+Mechatronics is the synergistic combination of mechanical engineering, electronic engineering, and software engineering. The purpose of this interdisciplinary engineering field is the study of automation from an engineering perspective and serves the purposes of controlling advanced hybrid systems.
+
+6.5. Nanotechnology
+
+At the smallest scales, mechanical engineering becomes nanotechnology —one speculative goal of which is to create a molecular assembler to build molecules and materials via mechanosynthesis. For now that goal remains within exploratory engineering. Areas of current mechanical engineering research in nanotechnology include nanofilters, nanofilms, and nanostructures, among others.
+
+6.6. Finite element analysis
+
+This field is not new, as the basis of Finite Element Analysis (FEA) or Finite Element Method (FEM) dates back to 1941. But evolution of computers has made FEA/FEM a viable option for analysis of structural problems. Many commercial codes such as ANSYS, Nastran and ABAQUS are widely used in industry for research and design of components. Calculix is an open source and free finite element program. Some 3D modeling and CAD software packages have added FEA modules.
+
+Other techniques such as finite difference method (FDM) and finite-volume method (FVM) are employed to solve problems relating heat and mass transfer, fluid flows, fluid surface interaction etc.
+
+6.7. Biomechanics
+
+Biomechanics is the application of mechanical principles to biological systems, such as humans, animals, plants, organs, and cells. Biomechanics also aids in creating prosthetic limbs and artificial organs for humans.
+
+Biomechanics is closely related to engineering, because it often uses traditional engineering sciences to analyse biological systems. Some simple applications of Newtonian mechanics and/or materials sciences can supply correct approximations to the mechanics of many biological systems.
+
+Over the past decade the Finite element method (FEM) has also entered the Biomedical sector highlighting further engineering aspects of Biomechanics. FEM has since then established itself as an alternative to in vivo surgical assessment and gained the wide acceptance of academia. The main advantage of Computational Biomechanics lies in its ability to determine the endo-anatomical response of an anatomy, without being subject to ethical restrictions. This has led FE modelling to the point of becoming ubiquitous in several fields of Biomechanics while several projects have even adopted an open source philosophy (e.g. BioSpine).
+
+6.8. Computational fluid dynamics
+
+Computational fluid dynamics, usually abbreviated as CFD, is a branch of fluid mechanics that uses numerical methods and algorithms to solve and analyze problems that involve fluid flows. Computers are used to perform the calculations required to simulate the interaction of liquids and gases with surfaces defined by boundary conditions. With high-speed supercomputers, better solutions can be achieved. Ongoing research yields software that improves the accuracy and speed of complex simulation scenarios such as transonic or turbulent flows. Initial validation of such software is performed using a wind tunnel with the final validation coming in full-scale testing, e.g. flight tests.
+
+6.9. Acoustical engineering
+
+Acoustical engineering is one of many other sub disciplines of mechanical engineering and is the application of acoustics. Acoustical engineering is the study of Sound and Vibration. These engineers work effectively to reduce noise pollution in mechanical devices and in buildings by soundproofing or removing sources of unwanted noise. The study of acoustics can range from designing a more efficient hearing aid, microphone, headphone, or recording studio to enhancing the sound quality of an orchestra hall. Acoustical engineering also deals with the vibration of different mechanical systems.
+
+7. Related fields
+
+Manufacturing engineering, Aerospace engineering and Automotive engineering are sometimes grouped with mechanical engineering. A bachelor's degree in these areas will typically have a difference of a few specialized classes.
+
+8. See also
+
+;Lists
+
+List of historic mechanical engineering landmarks
+
+List of inventors
+
+List of mechanical engineering topics
+
+List of mechanical engineers
+
+List of related journals
+
+List of mechanical, electrical and electronic equipment manufacturing companies by revenue ;Associations
+
+American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE)
+
+American Society of Mechanical Engineers (ASME)
+
+Pi Tau Sigma (Mechanical Engineering honor society)
+
+Society of Automotive Engineers (SAE)
+
+Society of Women Engineers (SWE)
+
+Institution of Mechanical Engineers (IMechE) (British)
+
+Chartered Institution of Building Services Engineers (CIBSE) (British)
+
+Verein Deutscher Ingenieure (VDI) (Germany) ;Wikibooks
+
+Engineering Mechanics
+
+Engineering Thermodynamics
+
+Engineering Acoustics
+
+Fluid Mechanics
+
+Heat Transfer
+
+Microtechnology
+
+Nanotechnology
+
+Pro/Engineer (ProE CAD)
+
+Strength of Materials/Solid Mechanics
+
+9. Notes and references
+
+10. Further reading
+
+11. External links
+
+of classic texts on mechanical design and engineering. Also, – Movies and photos of working mechanical systems models.

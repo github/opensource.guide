@@ -1,0 +1,175 @@
+The time signature (also known as meter signature, metre signature, or measure signature) is a notational convention used in Western musical notation to specify how many beats (pulses) are to be contained in each bar and which note value is to be given one beat. In a musical score, the time signature appears at the beginning of the piece, as a time symbol or stacked numerals, such as or (read common time and three four time, respectively), immediately following the key signature or immediately following the clef symbol if the key signature is empty. A mid-score time signature, usually immediately following a barline, indicates a change of meter.
+
+There are various types of time signatures, depending on whether the music follows simple rhythms or involves unusual shifting tempos, including: simple (such as or ), compound (e.g., or ), complex (e.g., or ), mixed (e.g., & or or ), additive (e.g., ), fractional (e.g., ), and irrational meters (e.g., or ).
+
+1. Simple time signatures
+
+Simple time signatures consist of two numerals, one stacked above the other:
+
+The lower numeral indicates the note value that represents one beat (the beat unit).
+
+The upper numeral indicates how many such beats there are grouped together in a bar. For instance, means two quarter-note (crotchet) beats per bar— means three eighth-note (quaver) beats per bar.
+
+The most common simple time signatures are , , and .
+
+1.1. Notational variations in simple time
+
+The symbol is sometimes used for time, also called common time or imperfect time. The symbol is derived from a broken circle used in music notation from the 14th through 16th centuries, where a full circle represented what today would be written in or time, and was called tempus perfectum (perfect time). The symbol is also a carry-over from the notational practice of late-Medieval and Renaissance music, where it signified tempus imperfectum diminutum (diminished imperfect time)—more precisely, a doubling of the speed, or proportio dupla, in duple meter. In modern notation, it is used in place of and is called alla breve or, colloquially, cut time or cut common time.
+
+2. Compound time signatures
+
+In compound meter, subdivisions of the main beat (the upper number) split into three, not two, equal parts, so that a dotted note (half again longer than a regular note) becomes the beat unit. Compound time signatures are named as if they were simple time signatures, in which the one-third part of the beat unit is the beat, so the top number is commonly 6, 9 or 12 (multiples of 3). The lower number is most commonly an 8 (an eighth-note): as in or .
+
+2.1. An example
+
+is a simple signature that represents three quarter notes. It has a basic feel of (Bold denotes a stressed beat):
+
+: Theoretically, this can be thought of as the same as the six-quaver form of above with the only difference being that the eighth note is selected as the one-beat unit. But whereas the six quavers in had been in three groups of two, is practically understood to mean that they are in two groups of three, with a two-in-a-bar feel (Bold denotes a stressed beat):
+
+or
+
+3. Beat and time
+
+Time signatures indicating two beats per bar (whether it is simple or compound) are called duple time; those with three beats to the bar are triple time. To the ear, a bar may seem like one singular beat. For example, a fast waltz, notated in time, may be described as being one in a bar. Terms such as quadruple (4), quintuple (5), and so on are also occasionally used.
+
+3.1. Actual beat divisions
+
+As mentioned above, though the score indicates a time, the actual beat division can be the whole bar, particularly at faster tempos. Correspondingly, at slow tempos the beat indicated by the time signature could in actual performance be divided into smaller units.
+
+3.2. Interchangeability, rewriting meters
+
+On a formal mathematical level the time signatures of, e.g., and are interchangeable. In a sense, all simple triple time signatures, such as , , , etc.—and all compound duple times, such as , and so on, are equivalent. A piece in can be easily rewritten in , simply by halving the length of the notes. Other time signature rewritings are possible: most commonly a simple time signature with triplets translates into a compound meter.
+
+Though formally interchangeable, for a composer or performing musician, different time signatures often have different connotations. First, a smaller note value in the beat unit implies a more complex notation, which can affect ease of performance. Second, beaming affects the choice of actual beat divisions. It is, for example, more natural to use the quarter note/crotchet as a beat unit in or than the eight/quaver in or . Third, time signatures are traditionally associated with different music styles—it might seem strange to notate a rock tune in or .
+
+3.3. Stress and meter
+
+For all meters, the first beat (the downbeat, ignoring any anacrusis) is usually stressed (though not always, for example in reggae where the offbeats are stressed); in time signatures with four groups in the bar (such as and ), the third beat is often also stressed, though to a lesser degree. This gives a regular pattern of stressed and unstressed beats, though notes on stressed beats are not necessarily louder or more important.
+
+4. Most frequent time signatures
+
+4.1. Video samples for the most frequent time signatures
+
+For larger versions of the videos, click play, then go to More than About this file
+
+5. Complex time signatures
+
+Signatures that do not fit the usual duple or triple categories are called complex, asymmetric, irregular, unusual, or odd—though these are broad terms, and usually a more specific description is appropriate. The term odd meter, however, sometimes describes time signatures in which the upper number is simply odd rather than even, including and . These more complex meters are common in some non-Western music, but rarely appeared in formal written Western music until the 19th century. The first deliberate quintuple meter pieces were apparently published in Spain between 1516 and 1520, though other authorities reckon that the Delphic Hymns to Apollo (one by Athenaeus is entirely in quintuple meter, the other by Limenius predominantly so), carved on the exterior walls of the Athenian Treasury at Delphi in 128 BC, are probably earlier. The third movement (Larghetto) of Chopin's Piano Sonata No. 1 (1828) is an early, but by no means the earliest, example of time in solo piano music. Reicha's Fugue 20 from his Thirty-six Fugues, published in 1803, is also for piano and is in . The waltz-like second movement of Tchaikovsky's Pathétique Symphony, often described as a limping waltz, is a notable example of time in orchestral music. Examples from the 20th century include Holst's Mars, the Bringer of War and Neptune, the Mystic (both in ) from the orchestral suite The Planets, Paul Hindemith's Fugue Secunda in G,() from Ludus Tonalis, the ending of Stravinsky's Firebird (), the fugue from Heitor Villa-Lobos's Bachianas Brasileiras No. 9 () and the Mission Impossible theme by Lalo Schifrin (also in ).
+
+In the Western popular music tradition, unusual time signatures occur as well, with progressive rock in particular making frequent use of them. The use of shifting meters in The Beatles' "Strawberry Fields Forever" (1967) and the use of quintuple meter in their "Within You, Without You" (1967) are well-known examples, as is Radiohead's "Paranoid Android" (includes ).
+
+Paul Desmond's jazz composition Take Five, in time, was one of a number of irregular-meter compositions that The Dave Brubeck Quartet played. They played other compositions in (Eleven Four), (Unsquare Dance)—and (Blue Rondo à la Turk), expressed as . This last is an example of a work in a signature that, despite appearing merely compound triple, is actually more complex.
+
+However, such time signatures are only unusual in most Western music. Traditional music of the Balkans uses such meters extensively. Bulgarian dances, for example, include forms with 5, 7, 9, 11, 13, 15, 22, 25 and other numbers of beats per measure. These rhythms are notated as additive rhythms based on simple units, usually 2, 3 and 4 beats, though the notation fails to describe the metric "time bending" taking place, or compound meters. For example, the Bulgarian Sedi Donka consists of 25 beats divided 7+7+11, where 7 is subdivided 3+2+2 and 11 is subdivided 2+2+3+2+2 or 4+3+4. See Variants below.
+
+5.1. Video samples for complex time signatures
+
+6. Mixed meters
+
+While time signatures usually express a regular pattern of beat stresses continuing through a piece (or at least a section), sometimes composers place a different time signature at the beginning of each bar, resulting in music with an extremely irregular rhythmic feel. In this case the time signatures are an aid to the performers, and not necessarily an indication of meter. The Promenade from Mussorgsky's Pictures at an Exhibition (1874) is a good example:
+
+Igor Stravinsky's The Rite of Spring (1913) is famous for its "savage" rhythms:
+
+In such cases, a convention that some composers follow (e.g., Olivier Messiaen, in his La Nativité du Seigneur and Quatuor pour la fin du temps) is to simply omit the time signature. Charles Ives's Concord Sonata has measure bars for select passages, but the majority of the work is unbarred.
+
+Some pieces have no time signature, as there is no discernible meter. This is commonly known as free time. Sometimes one is provided (usually ) so that the performer finds the piece easier to read, and simply has 'free time' written as a direction. Sometimes the word FREE is written downwards on the staff to indicate the piece is in free time. Erik Satie wrote many compositions that are ostensibly in free time, but actually follow an unstated and unchanging simple time signature. Later composers used this device effectively, writing music almost devoid of a discernibly regular pulse.
+
+If two time signatures alternate repeatedly, sometimes the two signatures are placed together at the beginning of the piece or section, as shown below:
+
+6.1. Video samples for mixed meters
+
+7. Variants
+
+7.1. Additive meters
+
+To indicate more complex patterns of stresses, such as additive rhythms, more complex time signatures can be used. Additive meters have a pattern of beats that subdivide into smaller, irregular groups. Such meters are sometimes called imperfect, in contradistinction to perfect meters, in which the bar is first divided into equal units.
+
+For example, the signature
+
+—which can be written (3+2+3)/8, means that there are 8 quaver beats in the bar, divided as the first of a group of three eighth notes (quavers) that are stressed, then the first of a group of two, then first of a group of three again. The stress pattern is usually counted as one-two-three-one-two-one-two-three. This kind of time signature is commonly used to notate folk and non-Western types of music. In classical music, Béla Bartók and Olivier Messiaen have used such time signatures in their works. The first movement of Maurice Ravel's Piano Trio in A Minor is written in , in which the beats are likewise subdivided into 3 + 2 + 3 to reflect Basque dance rhythms.
+
+Romanian musicologist Constantin Brăiloiu had a special interest in compound time signatures, developed while studying the traditional music of certain regions in his country. While investigating the origins of such unusual meters, he learned that they were even more characteristic of the traditional music of neighboring peoples (e.g., the Bulgarians). He suggested that such timings can be regarded as compounds of simple two-beat and three-beat meters, where an accent falls on every first beat, even though, for example in Bulgarian music, beat lengths of 1, 2, 3, 4 are used in the metric description. In addition, when focused only on stressed beats, simple time signatures can count as beats in a slower, compound time. However, there are two different-length beats in this resulting compound time, a one half-again longer than the short beat (or conversely, the short beat is 2/3 the value of the long). This type of meter is called aksak (the Turkish word for "limping"), impeded, jolting, or shaking, and is described as an irregular bichronic rhythm. A certain amount of confusion for Western musicians is inevitable, since a measure they would likely regard as , for example, is a three-beat measure in aksak, with one long and two short beats (with subdivisions of 2+2+3, 2+3+2, or 3+2+2).
+
+Folk music may make use of metric time bends, so that the proportions of the performed metric beat time lengths differ from the exact proportions indicated by the metric. Depending on playing style of the same meter, the time bend can vary from non-existent to considerable; in the latter case, some musicologists may want to assign a different meter. For example, the Bulgarian tune Eleno Mome is written as 7=2+2+1+2, 13=4+4+2+3, 12=3+4+2+3, but an actual performance (e.g., ) may be closer to 4+4+2+3.5. The Macedonian 3+2+2+3+2 meter is even more complicated, with heavier time bends, and use of quadruples on the threes. The metric beat time proportions may vary with the speed that the tune is played. The Swedish Boda Polska (Polska from the parish Boda) has a typical elongated second beat.
+
+In Western classical music, metric time bend is used in the performance of the Viennese Waltz. Most Western music uses metric ratios of 2:1, 3:1, or 4:1 (two-, three- or four-beat time signatures)—in other words, integer ratios that make all beats equal in time length. So, relative to that, 3:2 and 4:3 ratios correspond to very distinctive metric rhythm profiles. Complex accentuation occurs in Western music, but as syncopation rather than as part of the metric accentuation.
+
+Brăiloiu borrowed a term from Turkish medieval music theory: aksak (Turkish for crippled). Such compound time signatures fall under the "aksak rhythm" category that he introduced along with a couple more that should describe the rhythm figures in traditional music. The term Brăiloiu revived had moderate success worldwide, but in Eastern Europe it is still frequently used. However, aksak rhythm figures occur not only in a few European countries, but on all continents, featuring various combinations of the two and three sequences. The longest are in Bulgaria. The shortest aksak rhythm figures follow the five-beat timing, comprising a two and a three (or three and two).
+
+7.1.1. Video samples for additive meters
+
+7.2. Other variants
+
+Some composers have used fractional beats: for example, the time signature appears in Carlos Chávez's Piano Sonata No. 3 (1928) IV, m. 1.
+
+Music educator Carl Orff proposed replacing the lower number of the time signature with an actual note image, as shown at right. This system eliminates the need for compound time signatures (described above), which are confusing to beginners. While this notation has not been adopted by music publishers generally (except in Orff's own compositions), it is used extensively in music education textbooks. Similarly, American composers George Crumb and Joseph Schwantner, among others, have used this system in many of their works.
+
+Another possibility is to extend the barline where a time change is to take place above the top instrument's line in a score and to write the time signature there, and there only, saving the ink and effort that would have been spent writing it in each instrument's staff. Henryk Górecki's Beatus Vir is an example of this. Alternatively, music in a large score sometimes has time signatures written as very long, thin numbers covering the whole height of the score rather than replicating it on each staff; this is an aid to the conductor, who can see signature changes more easily.
+
+8. Irrational meters
+
+These are time signatures, used for so-called irrational bar lengths, that have a denominator that is not a power of two (1, 2, 4, 8, 16, 32, etc.) (or, mathematically speaking, is not a dyadic rational). These are based on beats expressed in terms of fractions of full beats in the prevailing tempo—for example or . For example, where implies a bar construction of four quarter-parts of a whole note (i.e., four quarter notes), implies a bar construction of four third-parts of it. These signatures are only of utility when juxtaposed with other signatures with varying denominators; a piece written entirely in , say, could be more legibly written out in .
+
+Metric modulation is "a somewhat distant analogy". It is arguable whether the use of these signatures makes metric relationships clearer or more obscure to the musician; it is always possible to write a passage using non-irrational signatures by specifying a relationship between some note length in the previous bar and some other in the succeeding one. Sometimes, successive metric relationships between bars are so convoluted that the pure use of irrational signatures would quickly render the notation extremely hard to penetrate. Good examples, written entirely in conventional signatures with the aid of between-bar specified metric relationships, occur a number of times in John Adams' opera Nixon in China (1987), where the sole use of irrational signatures would quickly produce massive numerators and denominators.
+
+Historically, this device has been prefigured wherever composers wrote tuplets. For example, a bar of 3 triplet crotchets could arguably be written as a bar of . Henry Cowell's piano piece Fabric (1920) employs separate divisions of the bar (anything from 1 to 9) for the three contrapuntal parts, using a scheme of shaped note heads to visually clarify the differences, but the pioneering of these signatures is largely due to Brian Ferneyhough, who says that he "find[s] that such 'irrational' measures serve as a useful buffer between local changes of event density and actual changes of base tempo. Thomas Adès has also used them extensively—for example in Traced Overhead (1996), the second movement of which contains, among more conventional meters, bars in such signatures as , and .
+
+A gradual process of diffusion into less rarefied musical circles seems underway. For example, John Pickard's Eden, commissioned for the 2005 finals of the National Brass Band Championships of Great Britain contains bars of .
+
+Notationally, rather than using Cowell's elaborate series of notehead shapes, the same convention has been invoked as when normal tuplets are written; for example, one beat in is written as a normal quarter note, four quarter notes complete the bar, but the whole bar lasts only 4/5 of a reference whole note, and a beat 1/5 of one (or 4/5 of a normal quarter note). This is notated in exactly the same way that one would write if one were writing the first four quarter notes of five quintuplet quarter notes.
+
+This article uses irrational in the music theory sense, not the mathematical sense, where an irrational number is one that cannot be written as a ratio of whole numbers. However, at least one composition—Conlon Nancarrow's Studies for Player Piano—uses a time signature that is irrational in the mathematical sense. The piece contains a canon with a part augmented in the ratio √42:1 (approximately 6.48:1).
+
+8.1. Video samples for irrational meters
+
+These video samples show two time signatures combined to make a polymeter, since , say, in isolation, is identical to .
+
+9. Early music usage
+
+9.1. Mensural time signatures
+
+In the 14th, 15th and 16th centuries, a period in which mensural notation was used, four basic mensuration signs determined the proportion between the two main units of rhythm. There were no measure or bar lines in music of this period; these signs, the ancestors of modern time signatures, indicate the ratio of duration between different note values. The relation between the breve and the semibreve was called tempus, and the relation between the semibreve and the minim was called prolatio. The breve and the semibreve use roughly the same symbols as our modern double whole note (breve) and whole note (semibreve), but they were not limited to the same proportional values as are in use today. There are complicated rules concerning how a breve is sometimes three and sometimes two semibreves. Unlike modern notation, the duration ratios between these different values was not always 2:1; it could be either 2:1 or 3:1, and that is what, amongst other things, these mensuration signs indicated. A ratio of 3:1 was called complete, perhaps a reference to the Trinity, and a ratio of 2:1 was called incomplete.
+
+A circle used as a mensuration sign indicated tempus perfectum (a circle being a symbol of completeness), while an incomplete circle, resembling a letter C, indicated tempus imperfectum. Assuming the breve is a beat, this corresponds to the modern concepts of triple meter and duple meter, respectively. In either case, a dot in the center indicated prolatio perfecta while the absence of such a dot indicated prolatio imperfecta, corresponding to simple meter and compound meter.
+
+A rough equivalence of these signs to modern meters would be:
+
+corresponds to meter;
+
+corresponds to meter;
+
+corresponds to meter;
+
+corresponds to meter. N.B.: in modern compound meters the beat is a dotted note value, such as a dotted quarter, because the ratios of the modern note value hierarchy are always 2:1. Dotted notes were never used in this way in the mensural period; the main beat unit was always a simple (undotted) note value.
+
+9.2. Proportions
+
+Another set of signs in mensural notation specified the metric proportions of one section to another, similar to a metric modulation. A few common signs are shown:
+
+tempus imperfectum diminutum, 1:2 proportion (twice as fast);
+
+tempus perfectum diminutum, 1:2 proportion (twice as fast);
+
+or just proportio tripla, 1:3 proportion (three times as fast, similar to triplets). Often the ratio was expressed as two numbers, one above the other, looking similar to a modern time signature, though it could have values such as , which a conventional time signature could not.
+
+Some proportional signs were not used consistently from one place or century to another. In addition, certain composers delighted in creating "puzzle" compositions that were intentionally difficult to decipher.
+
+In particular, when the sign was encountered, the tactus (beat) changed from the usual semibreve to the breve, a circumstance called alla breve. This term has been sustained to the present day, and though now it means the beat is a minim (half note), in contradiction to the literal meaning of the phrase, it still indicates that the beat has changed to a longer note value.
+
+10. See also
+
+Schaffel
+
+Tala
+
+11. References
+
+12. External links
+
+(Grateful Dead)
+
+- a tune in 15/16 by Mode Plagal
+
+- dedicated to "odd" meters
+
+- made with a program that can play all the time signatures mentioned in this article, even the ones that are irrational in the mathematical sense, like

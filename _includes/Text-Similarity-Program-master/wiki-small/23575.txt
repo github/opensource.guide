@@ -1,0 +1,131 @@
+Parmenides of Elea (; ; fl. late sixth or early fifth century BCE) was a pre-Socratic Greek philosopher from Elea in Magna Graecia. He was the founder of the Eleatic school of philosophy. The single known work of Parmenides is a poem, On Nature, which has survived only in fragmentary form. In this poem, Parmenides describes two views of reality. In "the way of truth" (a part of the poem), he explains how reality (coined as "what-is") is one, change is impossible, and existence is timeless, uniform, necessary, and unchanging. In "the way of opinion," he explains the world of appearances, in which one's sensory faculties lead to conceptions which are false and deceitful. These ideas had a strong effect on Plato, and in turn, influenced the whole of Western philosophy.
+
+1. Life
+
+Parmenides was born in the Greek colony of Elea (now Ascea), which, according to Herodotus, had been founded shortly before 535 BCE. He was descended from a wealthy and illustrious family. His dates are uncertain; according to Diogenes Laërtius, he flourished just before 500 BCE, which would put his year of birth near 540 BCE, but Plato has him visiting Athens at the age of 65, when Socrates was a young man, c. 450 BCE, which, if true, suggests a year of birth of c. 515 BCE. He was said to have been a pupil of Xenophanes, and regardless of whether they actually knew each other, Xenophanes' philosophy is the most obvious influence on Parmenides. Diogenes Laërtius also describes Parmenides as a disciple of "Ameinias, son of Diochaites, the Pythagorean"; but there are no obvious Pythagorean elements in his thought. The first hero cult of a philosopher we know of was Parmenides' dedication of a heroon to his teacher Ameinias in Elea. Parmenides was the founder of the School of Elea, which also included Zeno of Elea and Melissus of Samos. Of his life in Elea, it was said that he had written the laws of the city. His most important pupil was Zeno, who according to Plato was twenty-five years his junior, and was regarded as his eromenos. Parmenides had a large influence on Plato, who not only named a dialogue, Parmenides, after him, but always spoke of him with veneration.
+
+2. On Nature
+
+Parmenides is one of the most significant of the pre-Socratic philosophers. His only known work, conventionally titled On Nature, is a poem which has only survived in fragmentary form. Approximately 160 lines of the poem remain today; reportedly the original text had 3,000 lines. It is known, however, that the work was originally divided into three parts:
+
+A proem (Greek: προοίμιον), which introduced the entire work,
+
+A section known as "The Way of Truth" (aletheia, ἀλήθεια), and
+
+A section known as "The Way of Appearance/Opinion" (doxa, δόξα). The proem is a narrative sequence in which the narrator travels "beyond the beaten paths of mortal men" to receive a revelation from an unnamed goddess (generally thought to be Persephone or Dike) on the nature of reality. Aletheia, an estimated 90% of which has survived, and doxa, most of which no longer exists, are then presented as the spoken revelation of the goddess without any accompanying narrative.
+
+Parmenides attempted to distinguish between the unity of nature and its variety, insisting in the Way of Truth upon the reality of its unity, which is therefore the object of knowledge, and upon the unreality of its variety, which is therefore the object, not of knowledge, but of opinion. In the Way of Opinion he propounded a theory of the world of seeming and its development, pointing out, however, that, in accordance with the principles already laid down, these cosmological speculations do not pretend to anything more than mere appearance.
+
+2.1. Proem
+
+In the proem, Parmenides describes the journey of a young man from light to the "halls of Night" ("the daughters of the Sun made haste to escort me, having left the halls of Night for the light"). Carried in a whirling chariot, and attended by the daughters of the Sun, the man reaches a temple sacred to an unnamed goddess (variously identified by the commentators as Nature, Wisdom, or Themis), by whom the rest of the poem is spoken. He must learn all things, she tells him—both truth, which is certain, and human opinions, which are uncertain—for though one cannot rely on human opinions, they represent an aspect of the whole truth.
+
+2.2. The Way of Truth
+
+The section known as "the way of truth" discusses that which is real and contrasts with the argument in the section called "the way of opinion," which discusses that which is illusory. Under the "way of truth," Parmenides stated that there are two ways of inquiry: that it is, on the one side, and that it is not. on the other side. He said that the latter argument is never feasible because nothing can not be:
+
+There are extremely delicate issues here. In the original Greek the two ways are simply named "that Is" (ὅπως ἐστίν) and "that Not-Is" (ὡς οὐκ ἐστίν) (B 2.3 and 2.5) without the "it" inserted in our English translation. In ancient Greek, which, like many languages in the world, does not always require the presence of a subject for a verb, "is" functions as a grammatically complete sentence. Much debate has been focused on where and what the subject is. The simplest explanation as to why there is no subject here is that Parmenides wishes to express the simple, bare fact of existence in his mystical experience without the ordinary distinctions, just as the Latin "pluit" and the Greek huei (ὕει "rains") mean "it rains"; there is no subject for these impersonal verbs because they express the simple fact of raining without specifying what is doing the raining. This is, for instance, Hermann Fränkel's thesis. Many scholars still reject this explanation and have produced more complex metaphysical explanations. Since existence is an immediately intuited fact, non-existence is the wrong path because a thing cannot disappear, just as something cannot originate from nothing. In such mystical experience (unio mystica), however, the distinction between subject and object disappears along with the distinctions between objects, in addition to the fact that if nothing cannot be, it cannot be the object of thought either:
+
+Thus, he concluded that "Is" could not have "come into being" because "nothing comes from nothing". Existence is necessarily eternal. That which truly is [x], has always been [x], and was never becoming [x]; that which is becoming [x] was never nothing (Not-[x]), but will never actually be. Parmenides was not struggling to formulate the laws of conservation of mass and conservation of energy; he was struggling with the metaphysics of change, which is still a relevant philosophical topic today.
+
+Moreover he argued that movement was impossible because it requires moving into "the void", and Parmenides identified "the void" with nothing, and therefore (by definition) it does not exist. That which does exist is The Parmenidean One, which is timeless, uniform, and unchanging:
+
+2.2.1. Perception vs. Logos
+
+Parmenides claimed that there is no truth in the opinions of the mortals. Genesis-and-destruction, as Parmenides emphasizes, is a false opinion, because to be means to be completely, once and for all. What exists can in no way not exist.
+
+2.3. The Way of Opinion (doxa)
+
+After the exposition of the arche (ἀρχή), i.e. the origin, the necessary part of reality that is understood through reason or logos (that [it] Is), in the next section, the Way of Appearance/Opinion/Seeming, Parmenides proceeds to explain the structure of the becoming cosmos (which is an illusion, of course) that comes from this origin.
+
+The structure of the cosmos is a fundamental binary principle that governs the manifestations of all the particulars: "the aether fire of flame" (B 8.56), which is gentle, mild, soft, thin and clear, and self-identical, and the other is "ignorant night", body thick and heavy.
+
+The structure of the cosmos then generated is recollected by Aetius (II, 7, 1):
+
+For Parmenides says that there are circular bands wound round one upon the other, one made of the rare, the other of the dense; and others between these mixed of light and darkness. What surrounds them all is solid like a wall. Beneath it is a fiery band, and what is in the very middle of them all is solid, around which again is a fiery band. The most central of the mixed bands is for them all the origin and cause of motion and becoming, which he also calls steering goddess and keyholder and Justice and Necessity. The air has been separated off from the earth, vapourized by its more violent condensation, and the sun and the circle of the Milky Way are exhalations of fire. The moon is a mixture of both earth and fire. The aether lies around above all else, and beneath it is ranged that fiery part which we call heaven, beneath which are the regions around the earth.
+
+3. Interpretations of Parmenides
+
+The traditional interpretation of Parmenides' work is that he argued that the every-day perception of reality of the physical world (as described in doxa) is mistaken, and that the reality of the world is 'One Being' (as described in aletheia): an unchanging, ungenerated, indestructible whole. Under the Way of Opinion, Parmenides set out a contrasting but more conventional view of the world, thereby becoming an early exponent of the duality of appearance and reality. For him and his pupils, the phenomena of movement and change are simply appearances of a changeless, eternal reality. This interpretation could settle because of various wrong translations of the fragments. For example, it is not at all clear that Parmenides refuted that which we call perception. The verb noein, used frequently by Parmenides, could better be translated as 'to be aware of' than as 'to think'. Furthermore, it is hard to believe that 'being' is only within our heads, according to Parmenides.
+
+Parmenides' philosophy is presented in the form of poetry. The philosophy he argued was, he says, given to him by a goddess, though the "mythological" details in Parmenides' poem do not bear any close correspondence to anything known from traditional Greek mythology:
+
+It is with respect to this religious/mystical context that recent generations of scholars such as Alexander P. Mourelatos, Charles H. Kahn, and the controversial Peter Kingsley have begun to call parts of the traditional, rational logical/philosophical interpretation of Parmenides into question (Kingsley in particular stating that Parmenides practiced iatromancy). It has been claimed that previous scholars placed too little emphasis on the apocalyptic context in which Parmenides frames his revelation. As a result, traditional interpretations have put Parmenidean philosophy into a more modern, metaphysical context to which it is not necessarily well suited, which has led to misunderstanding of the true meaning and intention of Parmenides' message. The obscurity and fragmentary state of the text, however, renders almost every claim that can be made about Parmenides extremely contentious, and the traditional interpretation has by no means been abandoned.
+
+Parmenides' considerable influence on the thinking of Plato is undeniable, and in this respect Parmenides has influenced the whole history of Western philosophy, and is often seen as its grandfather. Even Plato himself, in the Sophist, refers to the work of "our Father Parmenides" as something to be taken very seriously and treated with respect. In the Parmenides, the Eleatic philosopher, which may well be Parmenides himself, and Socrates argue about dialectic. In the Theaetetus, Socrates says that Parmenides alone among the wise (Protagoras, Heraclitus, Empedocles, Epicharmus, and Homer) denied that everything is change and motion.
+
+Parmenides is credited with a great deal of influence as the author of an "Eleatic challenge" that determined the course of subsequent philosophers' enquiries. For example, the ideas of Empedocles, Anaxagoras, Leucippus, and Democritus have been seen as in response to Parmenides' arguments and conclusions.
+
+Parmenides' influence on philosophy reaches up till present times. The Italian philosopher Emanuele Severino has founded his extended philosophical investigations on the words of Parmenides. His philosophy is sometimes called Neo Parmenideism, and can be understood as an attempt to build a bridge between the poem on truth and the poem on opinion.
+
+4. Influence on the development of science
+
+Parmenides made the ontological argument against nothingness, essentially denying the possible existence of a void. According to Aristotle, this led Democritus and Leucippus, and many other physicists, to propose the atomic theory, which supposes that everything in the universe is either atoms or voids, specifically to contradict Parmenides' argument. Aristotle himself reasoned, in opposition to atomism, that in a complete vacuum, motion would encounter no resistance, and "no one could say why a thing once set in motion should stop anywhere; for why should it stop here rather than here? So that a thing will either be at rest or must be moved ad infinitum, unless something more powerful get in its way." See also horror vacui.
+
+Erwin Schrödinger identified Parmenides' monad of the "Way of Truth" as being the conscious self in "Nature and the Greeks". The scientific implications of this view have been discussed by scientist Anthony Hyman.
+
+A shadow of Parmenides' ideas can be seen in the physical concept of Block time, which considers existence to consist of past, present, and future, and the flow of time to be illusory. In his critique of this idea, Karl Popper called Einstein "Parmenides". However, Popper did write:
+
+So what was really new in Parmenides was his axiomatic-deductive method, which Leucippus and Democritus turned into a hypothetical-deductive method, and thus made part of scientific methodology.
+
+5. Notes
+
+6. References and further reading
+
+Austin, Scott (2007), Parmenides and the History of Dialectic: Three Essays, Parmenides Publishing, ISBN 978-1-930972-19-3
+
+Bakalis Nikolaos (2005), Handbook of Greek Philosophy: From Thales to the Stoics Analysis and Fragments, Trafford Publishing, ISBN 1-4120-4843-5
+
+Burnet J. (2003), Early Greek Philosophy, Kessinger Publishing (first edition 1908).
+
+Čapek, Milič (1991), The New Aspects of Time, Kluwer
+
+Cassin, Barbra (1998), Parménide Sur l'Etant ou Sur la nature de l'Etant, Greek text and French Translation with commentary, Editions Du Seuil.
+
+Cordero, Nestor-Luis (2004), By Being, It Is: The Thesis of Parmenides. Parmenides Publishing, ISBN 978-1-930972-03-2
+
+Cordero Néstor-Luis (ed.), Parmenides, Venerable and Awesome (Plato, Theaetetus 183e) Las Vegas: Parmenides Publishing 2011. Proceedings of the International Symposium (Buenos Aires, 2007), ISBN 978-1-930972-33-9
+
+Coxon A. H. (2009), The Fragments of Parmenides: A Critical Text With Introduction and Translation, the Ancient Testimonia and a Commentary. Las Vegas, Parmenides Publishing (new edition of Coxon 1986), ISBN 978-1-930972-67-4
+
+Curd, Patricia (2004), The Legacy of Parmenides: Eleatic Monism and Later Presocratic Thought, Parmenides Publishing, ISBN 978-1-930972-15-5 (First edition Princeton University Press 1998)
+
+Gallop David. (1991), Parmenides of Elea – Fragments, University of Toronto Press.
+
+Guthrie W. K. C. (1979), A History of Greek Philosophy – The Presocratic tradition from Parmenides to Democritus, Cambridge University Press.
+
+Heidegger, Martin, Parmenides (trans. André Schuwer and Richard Rojcewicz, Indiana University Press, 1992)
+
+Hermann, Arnold (2005), The Illustrated To Think Like God: Pythagoras and Parmenides-The Origins of Philosophy, Parmenides Publishing, ISBN 978-1-930972-17-9
+
+Hermann, Arnold (2005), To Think Like God: Pythagoras and Parmenides-The Origins of Philosophy, Fully Annotated Edition, Parmenides Publishing, ISBN 978-1-930972-00-1
+
+Hermann, Arnold (2010), Plato's Parmenides: Text, Translation & Introductory Essay, Parmenides Publishing, ISBN 978-1-930972-71-1
+
+Hyman, Anthony (2007), The Selfseeker, Teignvalley Press. Explores the Parmenidean dialectic and its application to modern science.
+
+Kingsley, Peter (2003), Reality. California: Golden Sufi Center. ISBN 9781890350093.
+
+Kirk G. S., Raven J. E. and Schofield M. (1983) The Presocratic Philosophers, Cambridge University Press, Second edition.
+
+Lünstroth, Margarete: Teilhaben und Erleiden in Platons Parmenides. Untersuchungen zum Gebrauch von μετέχειν und πάσχειν. Vertumnus vol. 6. Edition Ruprecht: Göttingen 2006, ISBN 978-3-7675-3080-5
+
+Mourelatos, Alexander P. D. (2007), The Route of Parmenides: A Study of Word, Image, and Argument in the Fragments, Parmenides Publishing, ISBN 978-1-930972-11-7 (First edition Yale University Press 1970)
+
+Nietzsche, Friedrich, Philosophy in the Tragic Age of the Greeks, Regnery Gateway ISBN 0-89526-944-9
+
+Gilbert Ryle: Plato's Parmenides, in: Mind 48, 1939, pp. 129–51, 303–25.
+
+Martin Suhr: Platons Kritik an den Eleaten. Vorschläge zur Interpretation des platonischen Dialogs ‚Parmenides‘, Hamburg 1969
+
+Hans Günter Zekl: Der Parmenides, N. G. Elwert Verlag, Marburg/Lahn 1971. Extensive bibliography (up to 2004) by ; and annotated bibliography by
+
+7. External links
+
+with a selection of critical judgments
+
+– annotated list of the critical editions and of the English, German, French, Italian and Spanish translations
+
+– parallel Greek with links to Perseus, French, and English (Burnet) includes Parmenides article from Encyclopædia Britannica Eleventh Edition
+
+John Burnet, includes fragments of Parmenides preserved for the most part by Simplicius including The Way of Belief and the Way of Truth

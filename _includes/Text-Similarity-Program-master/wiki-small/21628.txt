@@ -1,0 +1,69 @@
+Abbé Nicolas Louis de La Caille, sometimes spelled Lacaille, (; 28 December 1713 – 21 March 1762) was a French astronomer. Note that the birth date given here is that of his baptism; babies were normally baptised on the day that they were born. The traditional birth date of 15 March 1713 has been questioned due to many infants of the Roman Catholic Church being baptised on the day of their birth in the 17th and 18th centuries.
+
+1. Biography
+
+Born at Rumigny (in present-day Ardennes), he attended school in Mantes-sur-Seine (now Mantes-la-Jolie). Afterwards he studied rhetoric and philosophy at the Collège de Lisieux and then theology at the Collège de Navarre. He was left destitute in 1731 by the death of his father, who had held a post in the household of the duchess of Vendôme. However he was supported in his studies by the Duc de Bourbon, his father's former patron.
+
+After he graduated he did not accept ordination as a priest but took deacon's orders, becoming an Abbé. He concentrated thereafter on science, and, through the patronage of Jacques Cassini, obtained employment, first in surveying the coast from Nantes to Bayonne, then, in 1739, in remeasuring the French arc of the meridian, for which he is honored with a pyramid at Juvisy-sur-Orge. The success of this difficult operation, which occupied two years, and achieved the correction of the anomalous result published by J. Cassini in 1718, was mainly due to Lacaille's industry and skill. He was rewarded by admission to the Royal Academy of Sciences and appointment as Professor of mathematics in the Mazarin college, where he constructed a small observatory fitted for his own use. He was the author of a number of influential textbooks and a firm advocate of Newtonian gravitational theory. Among his students were Antoine Lavoisier and Jean Sylvain Bailly, both of whom were guillotined during the Revolution.
+
+2. Voyage to the Cape of Good Hope
+
+His desire to determine the distances of the planets trigonometrically, using the longest possible baseline, led him to propose, in 1750, an expedition to the Cape of Good Hope. This was officially sanctioned by Roland-Michel Barrin de La Galissonière. There he constructed an observatory on the shore of Table Bay with the support of the Dutch Governor Ryk Tulbagh. The primary result of his two-year stay was a catalogue of nearly 10,000 southern stars, the production of which required observing every night for over a year. In the course of his survey he took note of 42 nebulous objects. He also achieved his aim of determining the lunar and solar parallaxes (Mars serving as an intermediary). This work required near-simultaneous observations from Europe which were carried out by Jérôme Lalande.
+
+His southern catalogue, called Coelum Australe Stelliferum, was published posthumously in 1763. He found it necessary to introduce 14 new constellations which have since become standard. One of these was Mons Mensa, the only constellation named after a terrestrial feature (Table Mountain).
+
+While at the Cape, La Caille determined the radius of the earth in the southern hemisphere. He set out a baseline in the Swartland plain north of present-day Darling. Using triangulation he then measured a 137 km arc of meridian between Cape Town and Aurora, determining the latitudes of the end points by means of astronomical observations. There is a memorial to his work at a location near Aurora, pictured here. His result suggested that the earth was more flattened towards the south pole than towards the north. George Everest, of the Indian Survey, while recuperating from an illness at the Cape nearly seventy years later, suggested that La Caille's latitude observations had been affected by the gravitational attraction of Table Mountain at the southern end and by the Piketberg Mountain at the northern. In 1838, Thomas Maclear, who was Astronomer Royal at the Cape, repeated the measurements over a longer baseline and ultimately confirmed Everest's conjecture.
+
+3. Computing
+
+During his voyage to the southern hemisphere as a passenger on the vessel Le Glorieux, captained by the noted hydrogapher Jean-Baptiste d'Après de Mannevillette, La Caille became conscious of the difficulties in determining positions at sea. On his return to Paris he prepared the first set of tables of the Moon's position that was accurate enough to use for determining time and longitude by the method of 'Lunars' (Lunar distances) using the orbital theory of Clairaut. La Caille was in fact an indefatigable calculator. Apart from constructing astronomical ephemerides and mathematical tables, he calculated a table of eclipses for 1800 years. Lalande said of him that, during a comparatively short life, he had made more observations and calculations than all the astronomers of his time put together. The quality of his work rivalled its quantity, while the disinterestedness and rectitude of his moral character earned him universal respect.
+
+4. Later life
+
+On his return to Paris in 1754, following a diversion to Mauritius, La Caille was distressed to find himself an object of public attention. He resumed his work at the Mazarin college.
+
+In 1757 he published his Astronomiae Fundamenta Novissimus ..., containing a list of 400 bright stars with positions corrected for aberration and nutation. He carried out calculations on comet orbits and was responsible for giving Halley's Comet its name. His last public lecture, given on 14 September 1761 at the Royal Academy of Sciences, summarised the improvements to astronomy that had occurred during his lifetime, to which he had made no small contribution. His death, probably caused in part by over-work, occurred in 1762. He was buried in the vaults of the Mazarin College.
+
+5. Honours
+
+In 1754, he was elected a foreign member of the Royal Swedish Academy of Sciences. He was also an honorary member of the academies of Saint Petersburg and Berlin, the Royal Society of London and the Royal Society of Göttingen, and the Institute of Bologna.
+
+The crater La Caille on the Moon is named after him. Asteroid 9135 Lacaille (AKA 7609 P-L and 1994 EK6), discovered on 17 October 1960 by Cornelis Johannes van Houten, Ingrid van Houten-Groeneveld and Tom Gehrels at Palomar Observatory, was also named after him.
+
+In honor of his contribution to the study of the southern hemisphere sky, a 60-cm telescope at Reunion Island will be named the La Caille Telescope.
+
+6. Main works
+
+Astronomiae Fundamenta (1757), containing a standard catalogue of 398 stars, re-edited by F. Baily (Memoirs Roy. Astr. Society, v. 93)
+
+Tabulae Solares (1758)
+
+(1763) (edited by J. D. Maraldi), giving zone observations of 10,000 stars, and describing fourteen new constellations
+
+Observations sur 515 étoiles du Zodiaque (published in t. vi. of his Ephémérides, 1763)
+
+Leçons élémentaires de Mathématiques (1741), frequently reprinted
+
+ditto de Mécanique (1743), &c.
+
+ditto d'Astronomie (1746), 4th edition augmented by Lalande (1779)
+
+ditto d'Optique (1750), &c.
+
+Calculations by him of eclipses for eighteen hundred years were inserted in L'Art de vérifier les dates by Benedictine historian Charles Clémencet (1750)
+
+He communicated to the Academy in 1755 a classed catalogue of forty two southern nebulae, and gave in t. ii. of his Ephémérides (1755) practical rules for the employment of the lunar method of longitudes, proposing in his additions to Pierre Bouguer's Traité de Navigation (1760) the model of a nautical almanac.
+
+7. Notes
+
+8. References
+
+David S. Evans: Lacaille: astronomer, traveller; with a new translation of his journal. Tucson: Pachart, 1992 ISBN 0-88126-284-6
+
+I.S. Glass: Nicolas-Louis de La Caille, Astronomer and Geodesist. Oxford: Oxford University Press, 2013 ISBN 978-0-19-966840-3
+
+N.L. de La Caille: Travels at the Cape, 1751-53: an annotated translation of ...; transl. and ed. by R. Raven-Hart. Cape Town: A.A. Balkema for the Friends of the South African Library, 1976 ISBN 0-86961-068-6
+
+Jean-Baptiste Joseph Delambre, Histoire de l'astronomie au Dix-Huitième siècle, Paris, Bachelier, 1827.
+
+Journal historique du voyage fait au Cap de Bonne-Espérance par feu M. l'abbé de La Caille..., Paris, Guillyn, 1763. This work was edited by Abbé Carlier, who attached a discourse on La Caille's life.

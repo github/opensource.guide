@@ -1,0 +1,209 @@
+Osteoporosis ("porous bones", from Greek: οστούν/ostoun meaning "bone" and πόρος/poros meaning "pore") is a progressive bone disease that is characterized by a decrease in bone mass and density which can lead to an increased risk of fracture. In osteoporosis, the bone mineral density (BMD) is reduced, bone microarchitecture deteriorates, and the amount and variety of proteins in bone are altered. Osteoporosis is defined by the World Health Organization (WHO) as a bone mineral density of 2.5 standard deviations or more below the mean peak bone mass (average of young, healthy adults) as measured by dual-energy X-ray absorptiometry; the term "established osteoporosis" includes the presence of a fragility fracture. The disease may be classified as primary type 1, primary type 2, or secondary. The form of osteoporosis most common in women after menopause is referred to as primary type 1 or postmenopausal osteoporosis, which is attributable to the decrease in estrogen production after menopause. Primary type 2 osteoporosis or senile osteoporosis occurs after age 75 and is seen in both females and males at a ratio of 2:1. Secondary osteoporosis may arise at any age and affect men and women equally; this form results from chronic predisposing medical problems or disease, or prolonged use of medications such as glucocorticoids, when the disease is called steroid- or glucocorticoid-induced osteoporosis.
+
+The risk of osteoporosis fractures can be reduced with lifestyle changes and in those with previous osteoporosis related fractures, medications. Lifestyle change includes diet, exercise, and preventing falls. A review by the U.S. Preventive Services Task Force (USPSTF) found insufficient evidence to recommend calcium and vitamin D supplements to prevent fractures. Bisphosphonates are useful in those with previous fractures from osteoporosis but are of minimal benefit in those who have osteoporosis but no previous fractures. Osteoporosis is a component of the frailty syndrome.
+
+1. Signs and symptoms
+
+Osteoporosis itself has no symptoms; its main consequence is the increased risk of bone fractures. Osteoporotic fractures occur in situations where healthy people would not normally break a bone; they are therefore regarded as fragility fractures. Typical fragility fractures occur in the vertebral column, rib, hip and wrist.
+
+1.1. Fractures
+
+Fractures are the most dangerous aspect of osteoporosis. Debilitating acute and chronic pain in the elderly is often attributed to fractures from osteoporosis and can lead to further disability and early mortality. These fractures may also be asymptomatic. The most common osteoporotic fractures are of the wrist, spine, shoulder and hip. The symptoms of a vertebral collapse ("compression fracture") are sudden back pain, often with radicular pain (shooting pain due to nerve root compression) and rarely with spinal cord compression or cauda equina syndrome. Multiple vertebral fractures lead to a stooped posture, loss of height, and chronic pain with resultant reduction in mobility.
+
+Fractures of the long bones acutely impair mobility and may require surgery. Hip fracture, in particular, usually requires prompt surgery, as serious risks are associated with it, such as deep vein thrombosis and pulmonary embolism, and increased mortality.
+
+Fracture risk calculators assess the risk of fracture based upon several criteria, including BMD, age, smoking, alcohol usage, weight, and gender. Recognized calculators include FRAX and Dubbo.
+
+1.2. Falls risk
+
+The increased risk of falling associated with aging leads to fractures of the wrist, spine, and hip. The risk of falling, in turn, is increased by impaired eyesight due to any cause (e.g. glaucoma, macular degeneration), balance disorder, movement disorders (e.g. Parkinson's disease), dementia, and sarcopenia (age-related loss of skeletal muscle). Collapse (transient loss of postural tone with or without loss of consciousness) leads to a significant risk of falls; causes of syncope are manifold, but may include cardiac arrhythmias (irregular heart beat), vasovagal syncope, orthostatic hypotension (abnormal drop in blood pressure on standing up), and seizures. Removal of obstacles and loose carpets in the living environment may substantially reduce falls. Those with previous falls, as well as those with gait or balance disorders, are most at risk.
+
+2. Risk factors
+
+Risk factors for osteoporotic fracture can be split between nonmodifiable and (potentially) modifiable. In addition, osteoporosis is a recognized complication in specific diseases and disorders. Medication use is theoretically modifiable, although in many cases, the use of medication that increases osteoporosis risk may be unavoidable. Caffeine is not a risk factor for osteoporosis.
+
+It is more likely for a female to get osteoporosis than a male.
+
+2.1. Nonmodifiable
+
+The most important risk factors for osteoporosis are advanced age (in both men and women) and female sex; estrogen deficiency following menopause or oophorectomy is correlated with a rapid reduction in bone mineral density, while in men, a decrease in testosterone levels has a comparable (but less pronounced) effect.
+
+Race: While osteoporosis occurs in people from all ethnic groups, European or Asian ancestry predisposes for osteoporosis.
+
+Heredity: Those with a family history of fracture or osteoporosis are at an increased risk; the heritability of the fracture, as well as low bone mineral density, are relatively high, ranging from 25 to 80%. At least 30 genes are associated with the development of osteoporosis.
+
+Those who have already had a fracture are at least twice as likely to have another fracture compared to someone of the same age and sex. Early menopause/hysterectomy is another predisposing factor.
+
+Build: A small stature is also a nonmodifiable risk factor associated with the development of osteoporosis.
+
+2.2. Potentially modifiable
+
+Excess consumption of alcohol: Although small amounts of alcohol are probably beneficial (bone density increases with increasing alcohol intake), chronic heavy drinking (alcohol intake greater than three units/day) probably increases fracture risk despite any beneficial effects on bone density.
+
+Vitamin D deficiency: Low circulating Vitamin D is common among the elderly worldwide. Mild vitamin D insufficiency is associated with increased parathyroid hormone (PTH) production. PTH increases bone resorption, leading to bone loss. A positive association exists between serum 1,25-dihydroxycholecalciferol levels and bone mineral density, while PTH is negatively associated with bone mineral density.
+
+Tobacco smoking: Many studies have associated smoking with decreased bone health, but the mechanisms are unclear. Tobacco smoking has been proposed to inhibit the activity of osteoblasts, and is an independent risk factor for osteoporosis. Smoking also results in increased breakdown of exogenous estrogen, lower body weight and earlier menopause, all of which contribute to lower bone mineral density.
+
+Malnutrition: Nutrition has an important and complex role in maintenance of good bone. Identified risk factors include low dietary calcium and/or phosphorus, magnesium, zinc, boron, iron, fluoride, copper, vitamins A, K, E and C (and D where skin exposure to sunlight provides an inadequate supply). Excess sodium is a risk factor. High blood acidity may be diet-related, and is a known antagonist of bone. Some have identified low protein intake as associated with lower peak bone mass during adolescence and lower bone mineral density in elderly populations. Conversely, some have identified low protein intake as a positive factor, protein is among the causes of dietary acidity. Imbalance of omega-6 to omega-3 polyunsaturated fats is yet another identified risk factor.
+
+High dietary protein: Research has found an association between diets high in animal protein and increased urinary calcium, and have been linked to an increase in fractures. However, the relevance of this observation to bone density is unclear, since higher protein diets tend to increase absorption of calcium from the diet and are associated with higher bone density. Indeed, it has recently been argued that low protein diets cause poor bone health. No interventional trials have been performed on dietary protein in the prevention and treatment of osteoporosis.
+
+Underweight/inactive: Bone remodeling occurs in response to physical stress, so physical inactivity can lead to significant bone loss. Weight bearing exercise can increase peak bone mass achieved in adolescence, and a highly significant correlation between bone strength and muscle strength has been determined. The incidence of osteoporosis is lower in overweight people.
+
+Endurance training: In female endurance athletes, large volumes of training can lead to decreased bone density and an increased risk of osteoporosis. This effect might be caused by intense training suppressing menstruation, producing amenorrhea, and it is part of the female athlete triad. However, for male athletes, the situation is less clear, and although some studies have reported low bone density in elite male endurance athletes, others have instead seen increased leg bone density.
+
+Heavy metals: A strong association between cadmium and lead with bone disease has been established. Low-level exposure to cadmium is associated with an increased loss of bone mineral density readily in both genders, leading to pain and increased risk of fractures, especially in the elderly and in females. Higher cadmium exposure results in osteomalacia (softening of the bone).
+
+Soft drinks: Some studies indicate soft drinks (many of which contain phosphoric acid) may increase risk of osteoporosis, at least in women. Others suggest soft drinks may displace calcium-containing drinks from the diet rather than directly causing osteoporosis.
+
+2.3. Medical disorders
+
+Many diseases and disorders have been associated with osteoporosis. For some, the underlying mechanism influencing the bone metabolism is straightforward, whereas for others the causes are multiple or unknown.
+
+In general, immobilization causes bone loss (following the 'use it or lose it' rule). For example, localized osteoporosis can occur after prolonged immobilization of a fractured limb in a cast. This is also more common in active people with a high bone turn-over (for example, athletes). Other examples include bone loss during space flight or in people who are bedridden or use wheelchairs for various reasons.
+
+Hypogonadal states can cause secondary osteoporosis. These include Turner syndrome, Klinefelter syndrome, Kallmann syndrome, anorexia nervosa, andropause, hypothalamic amenorrhea or hyperprolactinemia. In females, the effect of hypogonadism is mediated by estrogen deficiency. It can appear as early menopause (<45 years) or from prolonged premenopausal amenorrhea (>1 year). Bilateral oophorectomy (surgical removal of the ovaries) and premature ovarian failure cause deficient estrogen production. In males, testosterone deficiency is the cause (for example, andropause or after surgical removal of the testes).
+
+Endocrine disorders that can induce bone loss include Cushing's syndrome, hyperparathyroidism, hyperthyroidism, hypothyroidism, diabetes mellitus type 1 and 2, acromegaly, and adrenal insufficiency. In pregnancy and lactation can cause reversible bone loss.
+
+Malnutrition, parenteral nutrition and malabsorption can lead to osteoporosis. Nutritional and gastrointestinal disorders that can predispose to osteoporosis include coeliac disease, Crohn's disease, Ulcerative colitis, cystic fibrosis, lactose intolerance, surgery (after gastrectomy, intestinal bypass surgery or bowel resection) and severe liver disease (especially primary biliary cirrhosis). People with bulimia can also develop osteoporosis. Those with an otherwise adequate calcium intake can develop osteoporosis due to the inability to absorb calcium and/or vitamin D. Other micronutrients such as vitamin K or vitamin B12 deficiency may also contribute.
+
+People with rheumatologic disorders such as rheumatoid arthritis, ankylosing spondylitis, systemic lupus erythematosus and polyarticular juvenile idiopathic arthritis are at increased risk of osteoporosis, either as part of their disease or because of other risk factors (notably corticosteroid therapy). Systemic diseases such as amyloidosis and sarcoidosis can also lead to osteoporosis.
+
+Renal insufficiency can lead to renal osteodystrophy.
+
+Hematologic disorders linked to osteoporosis are multiple myeloma and other monoclonal gammopathies, lymphoma and leukemia, mastocytosis, hemophilia, sickle-cell disease and thalassemia.
+
+Several inherited disorders have been linked to osteoporosis. These include osteogenesis imperfecta, Marfan syndrome, hemochromatosis, hypophosphatasia (for which it is often misdiagnosed), glycogen storage diseases, homocystinuria, Ehlers–Danlos syndrome, porphyria, Menkes' syndrome, epidermolysis bullosa and Gaucher's disease.
+
+People with scoliosis of unknown cause also have a higher risk of osteoporosis. Bone loss can be a feature of complex regional pain syndrome. It is also more frequent in people with Parkinson's disease and chronic obstructive pulmonary disease.
+
+People with Parkinson's disease have a higher risk of broken bones. This is related to poor balance and poor bone density. In Parkinson’s disease there may be a link between the loss of dopaminergic neurons and altered calcium metabolism (and iron metabolism) causing a stiffening of the skeleton and kyphosis.
+
+2.4. Medication
+
+Certain medications have been associated with an increase in osteoporosis risk; only steroids and anticonvulsants are classically associated, but evidence is emerging with regard to other drugs.
+
+Steroid-induced osteoporosis (SIOP) arises due to use of glucocorticoids – analogous to Cushing's syndrome and involving mainly the axial skeleton. The synthetic glucocorticoid prescription drug prednisone is a main candidate after prolonged intake. Some professional guidelines recommend prophylaxis in patients who take the equivalent of more than 30 mg hydrocortisone (7.5 mg of prednisolone), especially when this is in excess of three months. Alternate day use may not prevent this complication.
+
+Barbiturates, phenytoin and some other enzyme-inducing antiepileptics – these probably accelerate the metabolism of vitamin D.
+
+L-Thyroxine over-replacement may contribute to osteoporosis, in a similar fashion as thyrotoxicosis does. This can be relevant in subclinical hypothyroidism.
+
+Several drugs induce hypogonadism, for example aromatase inhibitors used in breast cancer, methotrexate and other antimetabolite drugs, depot progesterone and gonadotropin-releasing hormone agonists.
+
+Anticoagulants – long-term use of heparin is associated with a decrease in bone density, and warfarin (and related coumarins) have been linked with an increased risk in osteoporotic fracture in long-term use.
+
+Proton pump inhibitors – these drugs inhibit the production of stomach acid; this is thought to interfere with calcium absorption. Chronic phosphate binding may also occur with aluminium-containing antacids.
+
+Thiazolidinediones (used for diabetes) – rosiglitazone and possibly pioglitazone, inhibitors of PPARγ, have been linked with an increased risk of osteoporosis and fracture.
+
+Chronic lithium therapy has been associated with osteoporosis.
+
+2.5. Evolutionary
+
+Age related bone loss is common among humans due to exhibiting less dense bones than other primate species. Because of the more porous bones of humans, frequency of severe osteoporosis and osteoporosis related fractures is higher. The human vulnerability to osteoporosis is an obvious cost but it can be justified by the advantage of bipedalism inferring that this vulnerability is the byproduct of such. It has been suggested that porous bones help to absorb the increased stress that we have on two surfaces compared to our primate counterparts who have four surfaces to disperse the force. In addition, the porosity allows for more flexibility and a lighter skeleton that is easier to support. One other consideration may be that diets today have much lower amounts of calcium than the diets of other primates or the tetrapedal ancestors to humans which may lead to higher likelihood to show signs of osteoporosis.
+
+3. Pathogenesis
+
+The underlying mechanism in all cases of osteoporosis is an imbalance between bone resorption and bone formation. In normal bone, matrix remodeling of bone is constant; up to 10% of all bone mass may be undergoing remodeling at any point in time. The process takes place in bone multicellular units (BMUs) as first described by Frost in 1963. Bone is resorbed by osteoclast cells (which derive from the bone marrow), after which new bone is deposited by osteoblast cells.
+
+The three main mechanisms by which osteoporosis develops are an inadequate peak bone mass (the skeleton develops insufficient mass and strength during growth), excessive bone resorption, and inadequate formation of new bone during remodeling. An interplay of these three mechanisms underlies the development of fragile bone tissue. Hormonal factors strongly determine the rate of bone resorption; lack of estrogen (e.g. as a result of menopause) increases bone resorption, as well as decreasing the deposition of new bone that normally takes place in weight-bearing bones. The amount of estrogen needed to suppress this process is lower than that normally needed to stimulate the uterus and breast gland. The α-form of the estrogen receptor appears to be the most important in regulating bone turnover. In addition to estrogen, calcium metabolism plays a significant role in bone turnover, and deficiency of calcium and vitamin D leads to impaired bone deposition; in addition, the parathyroid glands react to low calcium levels by secreting parathyroid hormone (parathormone, PTH), which increases bone resorption to ensure sufficient calcium in the blood. The role of calcitonin, a hormone generated by the thyroid that increases bone deposition, is less clear and probably not as significant as that of PTH.
+
+The activation of osteoclasts is regulated by various molecular signals, of which the receptor activator for nuclear factor κB ligand (RANKL) is one of best studied. This molecule is produced by osteoblasts and other cells (e.g. lymphocytes), and stimulates RANK (receptor activator of nuclear factor κB). Osteoprotegerin (OPG) binds RANKL before it has an opportunity to bind to RANK, and hence suppresses its ability to increase bone resorption. RANKL, RANK and OPG are closely related to tumor necrosis factor and its receptors. The role of the Wnt signaling pathway is recognized, but less well understood. Local production of eicosanoids and interleukins is thought to participate in the regulation of bone turnover, and excess or reduced production of these mediators may underlie the development of osteoporosis.
+
+Trabecular bone (or cancellous bone) is the sponge-like bone in the ends of long bones and vertebrae. Cortical bone is the hard outer shell of bones and the middle of long bones. Because osteoblasts and osteoclasts inhabit the surface of bones, trabecular bone is more active, and is more subject to bone turnover and remodeling. Not only is bone density decreased, but the microarchitecture of bone is also disrupted. The weaker spicules of trabecular bone break ("microcracks"), and are replaced by weaker bone. Common osteoporotic fracture sites, the wrist, the hip and the spine, have a relatively high trabecular bone to cortical bone ratio. These areas rely on trabecular bone for strength, so the intense remodeling causes these areas to degenerate most when the remodeling is imbalanced. Around the ages of 30–35, cancellous or trabecular bone loss begins. Women may lose as much as 50%, while men lose about 30%.
+
+4. Diagnosis
+
+The diagnosis of osteoporosis can be made using conventional radiography and by measuring the bone mineral density (BMD). The most popular method of measuring BMD is dual-energy x-ray absorptiometry. In addition to the detection of abnormal BMD, the diagnosis of osteoporosis requires investigations into potentially modifiable underlying causes; this may be done with blood tests. Depending on the likelihood of an underlying problem, investigations for cancer with metastasis to the bone, multiple myeloma, Cushing's disease and other above-mentioned causes may be performed.
+
+4.1. Conventional radiography
+
+Conventional radiography is useful, both by itself and in conjunction with CT or MRI, for detecting complications of osteopenia (reduced bone mass; preosteoporosis), such as fractures; for differential diagnosis of osteopenia; or for follow-up examinations in specific clinical settings, such as soft tissue calcifications, secondary hyperparathyroidism, or osteomalacia in renal osteodystrophy. However, radiography is relatively insensitive to detection of early disease and requires a substantial amount of bone loss (about 30%) to be apparent on X-ray images.
+
+The main radiographic features of generalized osteoporosis are cortical thinning and increased radiolucency. Frequent complications of osteoporosis are vertebral fractures for which spinal radiography can help considerably in diagnosis and follow-up. Vertebral height measurements can objectively be made using plain-film X-rays by using several methods such as height loss together with area reduction, particularly when looking at vertical deformity in T4-L4, or by determining a spinal fracture index that takes into account the number of vertebrae involved. Involvement of multiple vertebral bodies leads to kyphosis of the thoracic spine, leading to what is known as dowager's hump.
+
+4.2. Dual-energy X-ray
+
+Dual-energy X-ray absorptiometry (DXA) is considered the gold standard for the diagnosis of osteoporosis. Osteoporosis is diagnosed when the bone mineral density is less than or equal to 2.5 standard deviations below that of a young (30–40-year-old:58), healthy adult women reference population. This is translated as a T-score. But because bone density decreases with age, more people become osteoporotic with increasing age.:58 The World Health Organization has established the following diagnostic guidelines:
+
+The International Society for Clinical Densitometry takes the position that a diagnosis of osteoporosis in men under 50 years of age should not be made on the basis of densitometric criteria alone. It also states, for premenopausal women, Z-scores (comparison with age group rather than peak bone mass) rather than T-scores should be used, and the diagnosis of osteoporosis in such women also should not be made on the basis of densitometric criteria alone.
+
+4.3. Biomarkers
+
+Chemical biomarkers are a useful tool in detecting bone degradation. The enzyme cathepsin K breaks down type-I collagen protein, an important constituent in bones. Prepared antibodies can recognize the resulting fragment, called a neoepitope, as a way to diagnose osteoporosis. Increased urinary excretion of C-telopeptides, a type-I collagen breakdown product, also serves as a biomarker for osteoporosis.
+
+4.4. Other measuring tools
+
+Quantitative computed tomography differs from DXA in that it gives separate estimates of BMD for trabecular and cortical bone and reports precise volumetric mineral density in mg/cm3 rather than BMD's relative Z score. Among QCT's advantages: it can be performed at axial and peripheral sites, can be calculated from existing CT scans without a separate radiation dose, is sensitive to change over time, can analyze a region of any size or shape, excludes irrelevant tissue such as fat, muscle, and air, and does not require knowledge of the patient's subpopulation in order to create a clinical score (e.g. the Z-score of all females of a certain age). Among QCT's disadvantages: it requires a high radiation dose compared to DXA, CT scanners are large and expensive, and because its practice has been less standardized than BMD, its results are more operator-dependent. Peripheral QCT has been introduced to improve upon the limitations of DXA and QCT.
+
+Quantitative ultrasound has many advantages in assessing osteoporosis. The modality is small, no ionizing radiation is involved, measurements can be made quickly and easily, and the cost of the device is low compared with DXA and QCT devices. The calcaneus is the most common skeletal site for quantitative ultrasound assessment because it has a high percentage of trabecular bone that is replaced more often than cortical bone, providing early evidence of metabolic change. Also, the calcaneus is fairly flat and parallel, reducing repositioning errors. The method can be applied to children, neonates, and preterm infants, just as well as to adults. Once microimaging tools to examine specific aspects of bone quality are developed, it is expected that quantitative ultrasound will be increasingly used in clinical practice.
+
+4.5. Screening
+
+The U.S. Preventive Services Task Force (USPSTF) recommend that all women 65 years of age or older be screened by bone densitometry. Additionally they recommend screening women with increased risk factors that puts them at risk equivalent to a 65 year old. There is insufficient evidence to make recommendations about the intervals for repeated screening and the appropriate age to stop screening. In men the harm versus benefit of screening for osteoporosis is unknown. A number of tool exist to help determine who is reasonable to test.
+
+5. Management
+
+5.1. Lifestyle
+
+Lifestyle prevention of osteoporosis is in many aspects the inverse of the potentially modifiable risk factors. As tobacco smoking and high alcohol intake have been linked with osteoporosis, smoking cessation and moderation of alcohol intake are commonly recommended as ways to help prevent it.
+
+Weight-bearing endurance exercise and/or exercises to strengthen muscles improve bone strength in those with osteoporosis. Aerobics, weight bearing, and resistance exercises all maintain or increase BMD in postmenopausal women. Fall prevention can help prevent osteoporosis complications. There is some evidence for hip protectors specifically among those who are in care homes.
+
+5.2. Nutrition
+
+Studies of the benefits of supplementation with calcium and vitamin D are conflicting, possibly because most studies did not have patients with low dietary intakes. A 2013 review by the USPSTF found insufficient evidence to determine if supplementation with calcium and vitamin D results in greater harm or benefit in men and premenopausal women. The USPSTF did not recommend low dose supplementation (less than 1 g of calcium and 400 IU of vitamin D) in postmenopausal women as there does not appear to be a difference in fracture risk. It is unknown what effect higher doses have.
+
+While some meta-analyses have found a benefit of vitamin D supplements combined with calcium for fractures, they did not find a benefit of vitamin D supplements alone.
+
+While supplementation does not appear to affect the risk of death, there is an increased risk of myocardial infarctions, kidney stones, and stomach problems. Vitamin K supplementation may reduce the risk of fractures in post menopausal women; however there is no evidence for men.
+
+5.3. Medications
+
+Bisphosphonates are useful in decreasing the risk of future fractures in those who have already sustained a fracture due to osteoporosis. This benefit is present when taken for three to four years. They have not been compared directly to each other, though, so it is not known if one is better. Fracture risk reduction is between 25 and 70% depending on the bone involved. There are concerns of atypical femoral fractures and osteonecrosis of the jaw with long term use, but these risks are low. With evidence of little benefit when used for more than three to five years and in light of the potential adverse events, it may be appropriate to stop treatment after this time in some.
+
+For those with osteoporosis but who have not had any fractures evidence does not support a reduction of in fracture risk with risedronate or etidronate. Alendronate may decrease fractures of the spine but does not have any effect on other types of fractures. Half stop their medications within a year.
+
+Teriparatide ( a recombinant parathyroid hormone ) has been shown to be effective in treatment of women with postmenopausal osteoporosis. Some evidence also indicates strontium ranelate is effective in decreasing the risk of vertebral and nonvertebral fractures in postmenopausal women with osteoporosis. Hormone replacement therapy, while effective for osteoporosis, is only recommended in women who also have menopausal symptoms. Raloxifene, while effective in decreasing vertebral fractures, does not affect the risk of nonvertebral fracture. And while it reduces the risk of breast cancer, it increases the risk of blood clots and strokes. Denosumab is also effective for preventing osteoporotic fractures. In hypogonadal men, testosterone has been shown to improve bone quantity and quality, but, as of 2008, no studies evaluated its effect on fracture risk or in men with a normal testosterone levels. Calcitonin while once recommended is no longer due to the associated risk of cancer with its use and questionable effect on fracture risk.
+
+Certain drugs like alendronate, etidronate, risedronate, raloxifene and strontium ranelate can be helpful for the preventing of osteoporotic fragility fractures in postmenopausal women with osteoporosis.
+
+6. Prognosis
+
+Although osteoporosis patients have an increased mortality rate due to the complications of fracture, it is rarely lethal.
+
+Hip fractures can lead to decreased mobility and additional risks of numerous complications (such as deep venous thrombosis and/or pulmonary embolism, and pneumonia). The six-month mortality rate following hip fracture is around 13.5%, and a substantial proportion (almost 13%) of people who have suffered a hip fracture need total assistance to mobilize after a hip fracture.
+
+Vertebral fractures, while having a smaller impact on mortality, can lead to severe chronic pain of neurogenic origin, which can be hard to control, as well as deformity. Though rare, multiple vertebral fractures can lead to such severe hunch back (kyphosis), the resulting pressure on internal organs can impair one's ability to breathe.
+
+Apart from risk of death and other complications, osteoporotic fractures are associated with a reduced health-related quality of life.
+
+7. Epidemiology
+
+Osteoporosis affects 55% of Americans aged 50 and above. Of these, approximately 80% are women. The condition is responsible for millions of fractures annually, mostly involving the lumbar vertebrae, hip, and wrist. Fragility fractures of ribs are also common in men.
+
+7.1. Hip fractures
+
+Hip fractures are responsible for the most serious consequences of osteoporosis. In the United States, more than 250,000 hip fractures annually are attributable to osteoporosis. A 50-year-old white woman is estimated to have a 17.5% lifetime risk of fracture of the proximal femur. The incidence of hip fractures increases each decade from the sixth through the ninth for both women and men for all populations. The highest incidence is found among men and women ages 80 or older.
+
+7.2. Vertebral fractures
+
+Between 35 and 50% of all women over 50 had at least one vertebral fracture. In the United States, 700,000 vertebral fractures occur annually, but only about a third are recognized. In a series of 9704 women aged 68.8 on average studied for 15 years, 324 had already suffered a vertebral fracture at entry into the study and 18.2% developed a vertebral fracture, but that risk rose to 41.4% in women who had a previous vertebral fracture.
+
+7.3. Wrist fractures
+
+In the United States, 250,000 wrist fractures annually are attributable to osteoporosis. Wrist fractures are the third most common type of osteoporotic fractures. The lifetime risk of sustaining a Colles' fracture is about 16% for white women. By the time women reach age 70, about 20% have had at least one wrist fracture.
+
+7.4. Rib fractures
+
+Fragility fractures of the ribs are common in men as young as age 35. These are often overlooked as signs of osteoporosis, as these men are often physically active and suffer the fracture in the course of physical activity. An example would be as a result of falling while water skiing or jet skiing. However, a quick test of the individual's testosterone level following the diagnosis of the fracture will readily reveal whether that individual might be at risk.
+
+8. History
+
+The link between age-related reductions in bone density and fracture risk goes back at least to Astley Cooper, and the term "osteoporosis" and recognition of its pathological appearance is generally attributed to the French pathologist Jean Lobstein. The American endocrinologist Fuller Albright linked osteoporosis with the postmenopausal state. Bisphosphonates, which revolutionized the treatment of osteoporosis, were discovered in the 1960s.
+
+9. References
+
+10. External links

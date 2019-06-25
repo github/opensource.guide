@@ -1,0 +1,115 @@
+Mitosis is the cell cycle process by which chromosomes in a cell nucleus are separated into two identical sets of chromosomes, each in its own nucleus. In general, karyokinesis (division of the nucleus) is followed by cytokinesis, which divides the cytoplasm, organelles and cell membrane into two new cells containing roughly equal shares of these cellular components. Mitosis and cytokinesis together define the mitotic (M) phase of the cell cycle—the division of the mother cell into two daughter cells, genetically identical to each other and to their parent cell.
+
+The process of mitosis is fast and highly complex. The sequence of events is divided into stages corresponding to the completion of one set of activities and the start of the next. These stages are prophase, prometaphase, metaphase, anaphase, and telophase. During mitosis, the chromosomes, which have already duplicated, condense and attach to fibers that pull one copy of each chromosome to opposite sides of the cell. The cell then divides by cytokinesis to produce two genetically-identical daughter cells. Errors during mitosis can induce apoptosis (programmed cell death) or cause mutations. Certain types of cancer can arise from such mutations.
+
+Mitosis occurs only in eukaryotic cells and the process varies in different organisms. For example, animals undergo an "open" mitosis, where the nuclear envelope breaks down before the chromosomes separate, while fungi undergo a "closed" mitosis, where chromosomes divide within an intact cell nucleus. Prokaryotic cells, which lack a nucleus, divide by a different process called binary fission.
+
+1. Discovery
+
+German zoologist Otto Bütschli was one of the first researchers who might have claimed the discovery of the process presently known as "mitosis", a term coined by Walther Flemming in 1882.
+
+Mitosis was discovered in frog, rabbit, and cat cornea cells in 1873 and described for the first time by the Polish histologist Wacław Mayzel in 1875. The term is derived from the Greek word μίτος mitos "warp thread".
+
+2. Overview of mitosis
+
+The primary result of mitosis and cytokinesis is the transfer of a parent cell's genome into two daughter cells. The genome is composed of a number of chromosomes—complexes of tightly coiled DNA that contain genetic information vital for proper cell function. Because each resultant daughter cell should be genetically identical to the parent cell, the parent cell must make a copy of each chromosome before mitosis. This occurs during the S phase of interphase. Chromosome duplication results in two identical sister chromatids bound together by cohesin proteins at the centromere.
+
+When mitosis begins, the chromosomes condense and become visible. In most eukaryotes, the nuclear envelope, which segregates the DNA from the cytoplasm, disintegrates into small vesicles. The nucleolus, which makes ribosomes in the cell, also disappears. Microtubules project from opposite ends of the cell, attach to the centromeres, and align the chromosomes centrally within the cell. The microtubules then contract to pull the sister chromatids of each chromosome apart. Sister chromatids at this point are called daughter chromosomes. As the cell elongates, corresponding daughter chromosomes are pulled toward opposite ends of the cell. A new nuclear envelope forms around the separated daughter chromosomes.
+
+As mitosis concludes, the cell begins cytokinesis. In animal cells, the cell membrane pinches inward between the two developing nuclei to produce two new cells. In plant cells, a cell plate forms between the two nuclei.
+
+3. Phases of cell cycle and mitosis
+
+3.1. Interphase
+
+The mitotic phase is a relatively short period of the cell cycle. It alternates with the much longer interphase, where the cell prepares itself for the process of cell division. Interphase is divided into three phases: G1 (first gap), S (synthesis), and G2 (second gap). During all three phases, the cell grows by producing proteins and cytoplasmic organelles. However, chromosomes are replicated only during the S phase. Thus, a cell grows (G1), continues to grow as it duplicates its chromosomes (S), grows more and prepares for mitosis (G2), and finally divides (M) before restarting the cycle. All these phases in the cell cycle are highly regulated by cyclins, cyclin-dependent kinases, and other cell cycle proteins. The phases follow one another in strict order and there are "checkpoints" that give the cell cues to proceed from one phase to another. Cells may also temporarily or permanently leave the cell cycle and enter G0 phase to stop dividing. This can occur when cells become overcrowded (density-dependent inhibition) or when they differentiate to carry out specific functions for the organism, as is the case for human heart muscle cells and neurons. Some G0 cells have the ability to re-enter the cell cycle.
+
+3.2. Preprophase (plant cells)
+
+In plant cells only, prophase is preceded by a pre-prophase stage. In highly vacuolated plant cells, the nucleus has to migrate into the center of the cell before mitosis can begin. This is achieved through the formation of a phragmosome, a transverse sheet of cytoplasm that bisects the cell along the future plane of cell division. In addition to phragmosome formation, preprophase is characterized by the formation of a ring of microtubules and actin filaments (called preprophase band) underneath the plasma membrane around the equatorial plane of the future mitotic spindle. This band marks the position where the cell will eventually divide. The cells of higher plants (such as the flowering plants) lack centrioles; instead, microtubules form a spindle on the surface of the nucleus and are then organized into a spindle by the chromosomes themselves, after the nuclear envelope breaks down. The preprophase band disappears during nuclear envelope breakdown and spindle formation in prometaphase.
+
+3.3. Prophase
+
+During prophase, which occurs after G2 interphase, the cell prepares to divide by tightly condensing its chromosomes and initiating mitotic spindle formation. During interphase, the genetic material in the nucleus consists of loosely packed chromatin. At the onset of prophase, chromatin fibers condense into discrete chromosomes that are typically visible at high magnification through a light microscope. The nucleolus also disappears during early prophase. Close to the nucleus of animal cells are structures called centrosomes, consisting of a pair of centrioles surrounded by a loose collection of proteins. The centrosome is the coordinating center for the cell's microtubules. A cell inherits a single centrosome at cell division, which is duplicated by the cell before a new round of mitosis begins, giving a pair of centrosomes. The two centrosomes polymerize tubulin to help form a microtuble spindle apparatus. Motor proteins then push the centrosomes along these microtubules to opposite sides of the cell. Although centrosomes help organize microtubule assembly, they are not essential for the formation of the spindle apparatus, since they are absent from plants, and are not absolutely required for animal cell mitosis.
+
+3.4. Prometaphase
+
+At the beginning of prometaphase, phosphorylation of nuclear lamins causes the nuclear envelope to disintegrate into small membrane vesicles. As this happens, microtubules invade the nuclear space. This is called open mitosis, and it occurs in most multicellular organisms. Fungi and some protists, such as algae or trichomonads, undergo a variation called closed mitosis where the spindle forms inside the nucleus, or the microtubules penetrate the intact nuclear envelope.
+
+In late prometaphase, kinetochore microtubules begin to search for and attach to chromosomal kinetochores. A kinetochore is a proteinaceous microtubule-binding structure that forms on the chromosomal centromere during late prophase. A number of polar microtubules find and interact with corresponding polar microtubules from the opposite centrosome to form the mitotic spindle. Although the kinetochore structure and function are not fully understood, it is known that it contains some form of molecular motor. When a microtubule connects with the kinetochore, the motor activates, using energy from ATP to "crawl" up the tube toward the originating centrosome. This motor activity, coupled with polymerisation and depolymerisation of microtubules, provides the pulling force necessary to later separate the chromosome's two chromatids.
+
+3.5. Metaphase
+
+After the microtubules have located and attached to the kinetochores in prometaphase, the two centrosomes begin pulling the chromosomes towards opposite ends of the cell. The resulting tension causes the chromosomes to align along the metaphase plate or equatorial plane, an imaginary line that is centrally located between the two centrosomes (at approximately the midline of the cell). To ensure equitable distribution of chromosomes at the end of mitosis, the metaphase checkpoint guarantees that kinetochores are properly attached to the mitotic spindle and that the chromosomes are aligned along the metaphase plate. If the cell successfully passes through the metaphase checkpoint, it proceeds to anaphase.
+
+3.6. Anaphase
+
+During anaphase A, the cohesins that bind sister chromatids together are cleaved, forming two identical daughter chromosomes. Shortening of the kinetochore microtubules pulls the newly formed daughter chromosomes to opposite ends of the cell. During anaphase B, polar microtubules push against each other, causing the cell to elongate. In most animal cells, anaphase A precedes anaphase B, but some vertebrate egg cells demonstrate the opposite order of events.
+
+3.7. Telophase
+
+Telophase (from the Greek word τελος meaning "end") is a reversal of prophase and prometaphase events. At telophase, the polar microtubules continue to lengthen, elongating the cell even more. A new nuclear envelope, using the membrane vesicles of the parent cell's old nuclear envelope, forms around each set of separated daughter chromosomes (though the membrane does not enclose the centrosomes) and the nucleolus reappears. Both sets of chromosomes, now surrounded by new nuclear membrane, begin to "relax" or decondense. Mitosis is complete, but cell division is not.
+
+3.8. Cytokinesis
+
+Cytokinesis is not, in the technical sense, a phase of mitosis but rather a separate process, necessary for completing cell division. In animal cells, a cleavage furrow (pinch) containing a contractile ring develops where the metaphase plate used to be, pinching off the separated nuclei. In both animal and plant cells, cell division is also driven by vesicles derived from the Golgi apparatus, which move along microtubules to the middle of the cell. In plants, this structure coalesces into a cell plate at the center of the phragmoplast and develops into a cell wall, separating the two nuclei. The phragmoplast is a microtubule structure typical for higher plants, whereas some green algae use a phycoplast microtubule array during cytokinesis. Each daughter cell has a complete copy of the genome of its parent cell. The end of cytokinesis marks the end of the M-phase.
+
+There are many cells where mitosis and cytokinesis occur separately, forming single cells with multiple nuclei. The most notable occurrence of this is among the fungi and slime molds, but the phenomenon is found in various organisms. Even in animals, cytokinesis and mitosis may occur independently, for instance during certain stages of fruit fly embryonic development.
+
+4. Significance
+
+Mitosis is important for the maintenance of the chromosomal set; each cell formed receives chromosomes that are alike in composition and equal in number to the chromosomes of the parent cell.
+
+Mitosis occurs in the following circumstances: ;Development and growth: The number of cells within an organism increases by mitosis. This is the basis of the development of a multicellular body from a single cell, i.e., zygote and also the basis of the growth of a multicellular body.
+
+;Cell replacement: In some parts of body, e.g. skin and digestive tract, cells are constantly sloughed off and replaced by new ones. New cells are formed by mitosis and so are exact copies of the cells being replaced. In like manner, red blood cells have short lifespan (only about 4 months) and new RBCs are formed by mitosis.
+
+;Regeneration: Some organisms can regenerate body parts. The production of new cells in such instances is achieved by mitosis. For example, starfish regenerate lost arms through mitosis.
+
+;Asexual reproduction: Some organisms produce genetically similar offspring through asexual reproduction. For example, the hydra reproduces asexually by budding. The cells at the surface of hydra undergo mitosis and form a mass called a bud. Mitosis continues in the cells of the bud and this grows into a new individual. The same division happens during asexual reproduction or vegetative propagation in plants.
+
+5. Errors and variations of mitosis
+
+Errors can occur during mitosis, especially during early embryonic development in humans. Mitotic errors can create aneuploid cells that have too few or too many of one or more chromosomes, a condition associated with cancer.
+
+In nondisjunction, sister chromatids fail to separate during anaphase. One daughter cell receives both sister chromatids from the nondisjoining chromosome and the other cell receives none. As a result, the former cell gets three copies of the chromosome, a condition known as trisomy, and the latter will have only one copy, a condition known as monosomy. On occasion, when cells experience nondisjunction, they fail to complete cytokinesis and retain both nuclei in one cell, resulting in binucleated cells.
+
+Anaphase lag occurs when the movement of one chromatid is impeded during anaphase. This may be caused by a failure of the mitotic spindle to properly attach to the chromosome. The lagging chromatid is excluded from both nuclei and is lost. Therefore, one of the daughter cells will be monosomic for that chromosome.
+
+Endoreduplication (or endoreplication) occurs when chromosomes duplicate but the cell does not subsequently divide. This results in polyploid cells or, if the chromosomes duplicates repeatedly, polytene chromosomes. Endoreduplication is found in many species and appears to be a normal part of development. Endomitosis is a variant of endoreduplication in which cells replicate their chromosomes during S phase and enter, but prematurely terminate, mitosis. Instead of being divided into two new daughter nuclei, the replicated chromosomes are retained within the original nucleus. The cells then re-enter G1 and S phase and replicate their chromosomes again. This may occur multiple times, increasing the chromosome number with each round of replication and endomitosis. Platelet-producing megakaryocytes go through endomitosis during cell differentiation.
+
+6. Timeline in pictures
+
+Mitotic cells can be visualized microscopically by staining them with fluorescent antibodies and dyes.
+
+7. See also
+
+Aneuploidy
+
+Binary fission
+
+Chromosome abnormality
+
+Cytoskeleton
+
+Meiosis
+
+Mitogen
+
+Mitosis Promoting Factor
+
+Motor protein
+
+8. References
+
+9. Cited texts
+
+10. Further reading
+
+11. External links
+
+.
+
+(Flash Animation)
+
+– Visualize the entire cell lineage tree and all of the cell divisions of the nematode C. elegans

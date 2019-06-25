@@ -1,0 +1,69 @@
+An indemnity is a sum paid by party A to party B by way of compensation for a particular loss suffered by B. The indemnitor (A) may or may not be responsible for the loss suffered by the indemnitee (B). Forms of indemnity include cash payments, repairs, replacement, and reinstatement.
+
+1. Real Estate
+
+The principal is obligated to compensate or indemnify the agent for liabilities incurred while carrying out responsibilities under the relationship. If the agent is not acting within the authority given (actual or implied authority), or is acting unlawfully, the principal would not be responsible. In real estate, the duty to reimburse for expenses under the general responsibility of indemnification does not normally apply. For example, expenses involving property promotion are waived in return for anticipated commission pursuant to a representation agreement. However, indemnification does apply in specific fields relating to real estate brokerage; i.e., property management.
+
+2. General and legal meaning
+
+Indemnity is often used as a synonym for compensation or reparation. All three can be construed as obligations to act on an injured party's behalf given the occurrence of a contractually-specified event. However, indemnity as a legal concept has a much broader meaning than the other two terms; namely, an indemnity is to make a party to a contract "whole" again should that contractually-specified event occur.
+
+While the event may be specified by the contract, the actions that must be taken to compensate the injured party are largely unpredictable, and the maximum compensation is often expressly limited.
+
+Car insurance is an example of indemnification. A car owner may purchase different kinds of insurance to indemnify him for various kinds of loss arising from operation of the car, such as damage repairs to his own car, or medical expenses of others for which he is liable due to being at fault for an accident.
+
+It is in the breadth of the insurance carrier's obligations that we see the application of an indemnity; in other words, an indemnity is a "generalized promise of protection against a specific type of event by way of making the injured party whole again."
+
+An indemnity should also be differentiated from a guarantee. A guarantee is the promise of a third party to honor the obligation of a party to a contract should that party be unable or unwilling to do so (usually a guarantee is limited to an obligation to pay a debt). This distinction between indemnity and guarantee was discussed as early as the eighteenth century in Birkmya v Darnell. In that case, concerned with a guarantee of payment for goods rather than payment of rent, the presiding judge explained that a guarantee effectively says "Let him have the goods; if he does not pay you, I will."
+
+3. Commonwealth
+
+3.1. Indemnity clauses
+
+Under section 4 of the Statute of Frauds (1677), a "guarantee" (an undertaking of secondary liability; to answer for another's default) must be evidenced in writing. No such formal requirement exists in respect of indemnities (involving the assumption of primary liability; to pay irrespective of another's default) which are enforceable even if made orally. (Ref: Peel E: "Treitel, The Law of Contract")
+
+In the UK, under the Unfair Contract Terms Act 1977 s4, a consumer cannot be made to unreasonably indemnify another for their breach of contract or negligence.
+
+3.2. Contract award
+
+In England and Wales an "indemnity" monetary award may form part of rescission during an action of Restitutio in integrum. The property and funds are exchanged, but indemnity may be granted for costs necessarily incurred to the innocent party pursuant to the contract. The leading case is Whittington v Seale-Hayne, in which a contaminated farm was sold. Due to the contract, buyers renovated the real estate and, due to the contamination, incurred medical expenses for their manager who had fallen ill. Once the contract was rescinded, the buyer could be indemnified for the cost of renovation as this was necessary to the contract, but not the medical expenses as the contract did not require them to hire a manager. Were the sellers at fault, damages would clearly be available.
+
+The distinction between indemnity and damages is subtle, but they may be differentiated by considering the roots of the law of obligations. How can money be paid where the defendant is not at fault? The contract before rescission is voidable but not void, meaning that, for a period of time, there is a legal contract. During this time both parties have legal obligation. If the contract is to be voided ab initio the obligations performed must also be compensated. Therefore the costs of indemnity arise from the (transient and performed) obligations of the claimant rather than a Breach of obligation by the defendant.
+
+4. Insurance
+
+Indemnity insurance compensates the beneficiaries of the policies for their actual economic losses, up to the limiting amount of the insurance policy. It generally requires the insured to prove the amount of its loss before it can recover. Recovery is limited to the amount of the provable loss even if the face amount of the policy is higher. This is in contrast to, for example, life insurance, where the amount of the beneficiary's economic loss is irrelevant. The death of the person whose life is insured for reasons not excluded from the policy obligate the insurer to pay the entire policy amount to the beneficiary.
+
+Most business interruption insurance policies contain an Extended Period of Indemnity Endorsement, which extends coverage beyond the time that it takes to physically restore the property. This provision covers additional expenses that allow the business to return to prosperity and help the business restore revenues to pre-loss levels.
+
+5. Freeing of slaves and indentured servants
+
+Slave owners suffered a loss whenever their slaves or indentured servants were granted their freedom. Slave owners might have been paid to cover their losses.
+
+When the slaves of Zanzibar were freed in 1897, it was by compensation since the prevailing opinion was that the slave owners suffered the loss of an asset whenever a slave was freed.
+
+In the 1860s in the United States, U.S. President Abraham Lincoln had requested many millions of dollars from Congress with which to compensate slave owners for the loss of their slaves. On July 9, 1868, Section IV of the Fourteenth Constitutional Amendment dismissed all of the claims that slave owners had been injured by the freeing of the slaves.
+
+In 1807-08, in Prussia, statesman Baron Heinrich vom Stein introduced a series of reforms, the principal of which was the abolition of serfdom with indemnification to territorial lords.
+
+Haiti was required to pay an indemnity of 150,000,000 francs to France in order to atone for the loss suffered by the French slave owners.
+
+6. Costs of war
+
+The nation that wins a war may insist on being paid compensations for the costs of the war, even after having been the instigator of the war.
+
+Following the Sino-Japanese War of 1894-95, the Treaty of Shimonoseki required that China pay Japan the sum of 200,000,000 taels.
+
+Following the massacres of foreigners during the Boxer Rebellion, the defeated Qing Empire were to pay 450 million taels of fine silver as indemnity over a course of 39 years to the eight nations involved. Under the exchange rates at the time, this was equal to US$ 335 million gold dollars or £67 million.
+
+7. See also
+
+Double indemnity (insurance)
+
+Professional Indemnity Insurance
+
+Protection and indemnity insurance
+
+War reparations
+
+8. References

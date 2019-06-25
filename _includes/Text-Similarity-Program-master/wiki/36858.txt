@@ -1,0 +1,291 @@
+Wheat (Triticum spp.) is a cereal grain, originally from the Levant region of the Near East but now cultivated worldwide. In 2010, world production of wheat was 651 million tons, making it the third most-produced cereal after maize (844 million tons) and rice (672 million tons). Wheat was the second most-produced cereal in 2009; world production in that year was 682 million tons, after maize (817 million tons), and with rice as a close third (679 million tons).
+
+This grain is grown on more land area than any other commercial food. World trade in wheat is greater than for all other crops combined. Globally, wheat is the leading source of vegetable protein in human food, having a higher protein content than other major cereals, maize (corn) or rice. In terms of total production tonnages used for food, it is currently second to rice as the main human food crop and ahead of maize, after allowing for maize's more extensive use in animal feeds.
+
+Wheat was a key factor enabling the emergence of city-based societies at the start of civilization because it was one of the first crops that could be easily cultivated on a large scale, and had the additional advantage of yielding a harvest that provides long-term storage of food. Wheat contributed to the emergence of city-states in the Fertile Crescent, including the Babylonian and Assyrian empires. Wheat grain is a staple food used to make flour for leavened, flat and steamed breads, biscuits, cookies, cakes, breakfast cereal, pasta, noodles, couscous and for fermentation to make beer, other alcoholic beverages, or biofuel.
+
+There are six wheat classifications: 1) hard red winter, 2) hard red spring, 3) soft red winter, 4) durum (hard), 5) Hard white, 6) soft white wheat. The hard wheats have the most amount of gluten and are used for making bread, rolls and all-purpose flour. The soft wheats are used for making flat bread, cakes, pastries, crackers, muffins, and biscuits.
+
+Wheat is planted to a limited extent as a forage crop for livestock, although the straw cannot be used as feed. Its straw can be used as a construction material for roofing thatch. The whole grain can be milled to leave just the endosperm for white flour. The by-products of this are bran and germ. The whole grain is a concentrated source of vitamins, minerals, and protein, while the refined grain is mostly starch.
+
+1. History and civilization
+
+Wheat is one of the first cereals known to have been domesticated, and wheat's ability to self-pollinate greatly facilitated the selection of many distinct domesticated varieties. The archaeological record suggests that this first occurred in the regions known as the Fertile Crescent. Recent findings estimate the first domestication of wheat down to a small region of southeastern Turkey, and domesticated Einkorn wheat at Wadi el Jilat in Jordan—has been dated to 7,500-7,300 BCE.
+
+1.1. Origin
+
+Cultivation and repeated harvesting and sowing of the grains of wild grasses led to the creation of domestic strains, as mutant forms ('sports') of wheat were preferentially chosen by farmers. In domesticated wheat, grains are larger, and the seeds (inside the spikelets) remain attached to the ear by a toughened rachis during harvesting. In wild strains, a more fragile rachis allows the ear to easily shatter and disperse the spikelets. Selection for these traits by farmers might not have been deliberately intended, but simply have occurred because these traits made gathering the seeds easier; nevertheless such 'incidental' selection was an important part of crop domestication. As the traits that improve wheat as a food source also involve the loss of the plant's natural seed dispersal mechanisms, highly domesticated strains of wheat cannot survive in the wild.
+
+Cultivation of wheat began to spread beyond the Fertile Crescent after about 8000 BCE. Jared Diamond traces the spread of cultivated emmer wheat starting in the Fertile Crescent sometime before 8800 BCE. Archaeological analysis of wild emmer indicates that it was first cultivated in the southern Levant with finds at Iran dating back as far as 9600 BCE. Genetic analysis of wild einkorn wheat suggests that it was first grown in the Karacadag Mountains in southeastern Turkey. Dated archeological remains of einkorn wheat in settlement sites near this region, including those at Abu Hureyra in Syria, suggest the domestication of einkorn near the Karacadag Mountain Range. With the anomalous exception of two grains from Iraq ed-Dubb, the earliest carbon-14 date for einkorn wheat remains at Abu Hureyra is 7800 to 7500 years BCE.
+
+Remains of harvested emmer from several sites near the Karacadag Range have been dated to between 8600 (at Cayonu) and 8400 BCE (Abu Hureyra), that is, in the Neolithic period. With the exception of Iraq ed-Dubb, the earliest carbon-14 dated remains of domesticated emmer wheat were found in the earliest levels of Tell Aswad, in the Damascus basin, near Mount Hermon in Syria. These remains were dated by Willem van Zeist and his assistant Johanna Bakker-Heeres to 8800 BCE. They also concluded that the settlers of Tell Aswad did not develop this form of emmer themselves, but brought the domesticated grains with them from an as yet unidentified location elsewhere.
+
+The cultivation of emmer reached Greece, Cyprus and India by 6500 BCE, Egypt shortly after 6000 BCE, and Germany and Spain by 5000 BCE. "The early Egyptians were developers of bread and the use of the oven and developed baking into one of the first large-scale food production industries." By 3000 BCE, wheat had reached England and Scandinavia. A millennium later it reached China. The first identifiable bread wheat (Triticum aestivum) with sufficient gluten for yeasted breads has been identified using DNA analysis in samples from a granary dating to approximately 1350 BCE at Assiros in Greek Macedonia.
+
+Wheat continued to spread throughout Europe. In England, wheat straw (thatch) was used for roofing in the Bronze Age, and was in common use until the late 19th century.
+
+1.2. Farming techniques
+
+Technological advances in soil preparation and seed placement at planting time, use of crop rotation and fertilizers to improve plant growth, and advances in harvesting methods have all combined to promote wheat as a viable crop. Agricultural cultivation using horse collar leveraged plows (at about 3000 BCE) was one of the first innovations that increased productivity. Much later, when the use of seed drills replaced broadcasting sowing of seed in the 18th century, another great increase in productivity occurred.
+
+Yields of pure wheat per unit area increased as methods of crop rotation were applied to long cultivated land, and the use of fertilizers became widespread. Improved agricultural husbandry has more recently included threshing machines and reaping machines (the 'combine harvester'), tractor-drawn cultivators and planters, and better varieties (see Green Revolution and Norin 10 wheat). Great expansion of wheat production occurred as new arable land was farmed in the Americas and Australia in the 19th and 20th centuries.
+
+2. Genetics
+
+Wheat genetics is more complicated than that of most other domesticated species. Some wheat species are diploid, with two sets of chromosomes, but many are stable polyploids, with four sets of chromosomes (tetraploid) or six (hexaploid).
+
+Einkorn wheat (T. monococcum) is diploid (AA, two complements of seven chromosomes, 2n=14).
+
+Most tetraploid wheats (e.g. emmer and durum wheat) are derived from wild emmer, T. dicoccoides. Wild emmer is itself the result of a hybridization between two diploid wild grasses, T. urartu and a wild goatgrass such as Aegilops searsii or Ae. speltoides. The unknown grass has never been identified among now surviving wild grasses, but the closest living relative is Aegilops speltoides. The hybridization that formed wild emmer (AABB) occurred in the wild, long before domestication, and was driven by natural selection.
+
+Hexaploid wheats evolved in farmers' fields. Either domesticated emmer or durum wheat hybridized with yet another wild diploid grass (Aegilops tauschii) to make the hexaploid wheats, spelt wheat and bread wheat. These have three sets of paired chromosomes, three times as many as in diploid wheat. The presence of certain versions of wheat genes has been important for crop yields. Apart from mutant versions of genes selected in antiquity during domestication, there has been more recent deliberate selection of alleles that affect growth characteristics. Genes for the 'dwarfing' trait, first used by Japanese wheat breeders to produce short-stalked wheat, have had a huge effect on wheat yields world-wide, and were major factors in the success of the Green Revolution in Mexico and Asia. Dwarfing genes enable the carbon that is fixed in the plant during photosynthesis to be diverted towards seed production, and they also help prevent the problem of lodging. 'Lodging' occurs when an ear stalk falls over in the wind and rots on the ground, and heavy nitrogenous fertilization of wheat makes the grass grow taller and become more susceptible to this problem. By 1997, 81% of the developing world's wheat area was planted to semi-dwarf wheats, giving both increased yields and better response to nitrogenous fertilizer.
+
+Wild grasses in the genus Triticum and related genera, and grasses such as rye have been a source of many disease-resistance traits for cultivated wheat breeding since the 1930s.
+
+Heterosis, or hybrid vigor (as in the familiar F1 hybrids of maize), occurs in common (hexaploid) wheat, but it is difficult to produce seed of hybrid cultivars on a commercial scale (as is done with maize) because wheat flowers are perfect and normally self-pollinate. Commercial hybrid wheat seed has been produced using chemical hybridizing agents; these chemicals selectively interfere with pollen development, or naturally occurring cytoplasmic male sterility systems. Hybrid wheat has been a limited commercial success in Europe (particularly France), the USA and South Africa. F1 hybrid wheat cultivars should not be confused with the standard method of breeding inbred wheat cultivars by crossing two lines using hand emasculation, then selfing or inbreeding the progeny many (ten or more) generations before release selections are identified to be released as a variety or cultivar.
+
+Synthetic hexaploids made by crossing the wild goatgrass wheat ancestor Aegilops tauschii and various durum wheats are now being deployed, and these increase the genetic diversity of cultivated wheats.
+
+Stomata (or leaf pores) are involved in both uptake of carbon dioxide gas from the atmosphere and water vapor losses from the leaf due to water transpiration. Basic physiological investigation of these gas exchange processes has yielded valuable carbon isotope based methods that are used for breeding wheat varieties with improved water-use efficiency. These varieties can improve crop productivity in rain-fed dry-land wheat farms.
+
+In 2010, a team of UK scientists funded by BBSRC announced they had decoded the wheat genome for the first time (95% of the genome of a variety of wheat known as Chinese Spring line 42). This genome was released in a basic format for scientists and plant breeders to use but was not a fully annotated sequence which was reported in some of the media.
+
+On 29 November 2012, whole-genome sequence of bread wheat has been published. Random shotgun libraries of total DNA and cDNA from the T. aestivum cv. Chinese Spring (CS42) were sequenced in Roche 454 pyrosequencer using GS FLX Titanium and GS FLX+ platforms to generate 85 Gb of sequence (220 million reads), equivalent to 5X genome coverage and identified between 94,000 and 96,000 genes.
+
+The wheat whole genome sequence data provides direct access to all 96,000 genes and represents an essential step towards a systematic understanding of biology and engineering the cereal crop for valuable traits. Its implications in cereal genetics and breeding includes the examination of genome variation, association mapping using natural populations, performing wide crosses and alien introgression, studying the expression and nucleotide polymorphism in transcriptomes, analyzing population genetics and evolutionary biology, and studying the epigenetic modifications. Moreover, the availability of large-scale genetic markers generated through NGS technology will facilitate trait mapping and make marker-assisted breeding much feasible.
+
+Moreover, the WGS data not only facilitate in deciphering the complex phenomena such as heterosis and epigenetics, it may also enable breeders to predict which fragment of a chromosome is derived from which parent in the progeny line, thereby recognizing crossover events occurring in every progeny line and inserting markers on genetic and physical maps without ambiguity. In due course, this will assist in introducing specific chromosomal segments from one cultivar to another. Besides, the researchers had identified diverse classes of genes participating in energy production, metabolism and growth that were probably linked with crop yield, which can now be utilized for the development of transgenic wheat. Thus whole genome sequence of wheat and the availability of thousands of SNPs will inevitably permit the breeders to stride towards identifying novel traits, providing biological knowledge and empowering biodiversity-based breeding.
+
+3. Plant breeding
+
+In traditional agricultural systems wheat populations often consist of landraces, informal farmer-maintained populations that often maintain high levels of morphological diversity. Although landraces of wheat are no longer grown in Europe and North America, they continue to be important elsewhere. The origins of formal wheat breeding lie in the nineteenth century, when single line varieties were created through selection of seed from a single plant noted to have desired properties. Modern wheat breeding developed in the first years of the twentieth century and was closely linked to the development of Mendelian genetics. The standard method of breeding inbred wheat cultivars is by crossing two lines using hand emasculation, then selfing or inbreeding the progeny. Selections are identified (shown to have the genes responsible for the varietal differences) ten or more generations before release as a variety or cultivar.
+
+The major breeding objectives include high grain yield, good quality, disease and insect resistance and tolerance to abiotic stresses include mineral, moisture and heat tolerance. The major diseases in temperate environments include the following, arranged in a rough order of their significance from cooler to warmer climates: eyespot, Stagonospora nodorum blotch (also known as glume blotch), yellow or stripe rust, powdery mildew, Septoria tritici blotch (sometimes known as leaf blotch), brown or leaf rust, Fusarium head blight, tan spot and stem rust. In tropical areas, spot blotch (also known as Helminthosporium leaf blight) is also important.
+
+Wheat has also been the subject of mutation breeding, with the use of gamma, x-rays, ultraviolet light, and sometimes harsh chemicals. The varieties of wheat created through this methods are in the hundreds (varieties being as far back as 1960), more of them being created in higher populated countries such as China.
+
+3.1. Hybrid wheat
+
+Because wheat self-pollinates, creating hybrid varieties is extremely labor-intensive; the high cost of hybrid wheat seed relative to its moderate benefits have kept farmers from adopting them widely despite nearly 90 years of effort. F1 hybrid wheat cultivars should not be confused with wheat cultivars deriving from standard plant breeding. Heterosis or hybrid vigor (as in the familiar F1 hybrids of maize) occurs in common (hexaploid) wheat, but it is difficult to produce seed of hybrid cultivars on a commercial scale as is done with maize because wheat flowers are complete and normally self-pollinate. Commercial hybrid wheat seed has been produced using chemical hybridizing agents, plant growth regulators that selectively interfere with pollen development, or naturally occurring cytoplasmic male sterility systems. Hybrid wheat has been a limited commercial success in Europe (particularly France), the United States and South Africa.
+
+4. Hulled versus free-threshing wheat
+
+The four wild species of wheat, along with the domesticated varieties einkorn, emmer and spelt, have hulls. This more primitive morphology (in evolutionary terms) consists of toughened glumes that tightly enclose the grains, and (in domesticated wheats) a semi-brittle rachis that breaks easily on threshing. The result is that when threshed, the wheat ear breaks up into spikelets. To obtain the grain, further processing, such as milling or pounding, is needed to remove the hulls or husks. In contrast, in free-threshing (or naked) forms such as durum wheat and common wheat, the glumes are fragile and the rachis tough. On threshing, the chaff breaks up, releasing the grains. Hulled wheats are often stored as spikelets because the toughened glumes give good protection against pests of stored grain.
+
+5. Naming
+
+There are many botanical classification systems used for wheat species, discussed in a separate article on Wheat taxonomy. The name of a wheat species from one information source may not be the name of a wheat species in another.
+
+Within a species, wheat cultivars are further classified by wheat breeders and farmers in terms of:
+
+Growing season, such as winter wheat vs. spring wheat.
+
+Protein content. Bread wheat protein content ranges from 10% in some soft wheats with high starch contents, to 15% in hard wheats.
+
+The quality of the wheat protein gluten. This protein can determine the suitability of a wheat to a particular dish. A strong and elastic gluten present in bread wheats enables dough to trap carbon dioxide during leavening, but elastic gluten interferes with the rolling of pasta into thin sheets. The gluten protein in durum wheats used for pasta is strong but not elastic.
+
+Grain color (red, white or amber). Many wheat varieties are reddish-brown due to phenolic compounds present in the bran layer which are transformed to pigments by browning enzymes. White wheats have a lower content of phenolics and browning enzymes, and are generally less astringent in taste than red wheats. The yellowish color of durum wheat and semolina flour made from it is due to a carotenoid pigment called lutein, which can be oxidized to a colorless form by enzymes present in the grain.
+
+5.1. Major cultivated species of wheat
+
+Hexaploid Species
+
+Common wheat or Bread wheat (T. aestivum) – A hexaploid species that is the most widely cultivated in the world.
+
+Spelt (T. spelta) – Another hexaploid species cultivated in limited quantities. Spelt is sometimes considered a subspecies of the closely related species common wheat (T. aestivum), in which case its botanical name is considered to be Triticum aestivum subsp. spelta. Tetraploid Species
+
+Durum (T. durum) – The only tetraploid form of wheat widely used today, and the second most widely cultivated wheat.
+
+Emmer (T. dicoccon) – A tetraploid species, cultivated in ancient times but no longer in widespread use. Diploid Species
+
+Einkorn (T. monococcum) – A diploid species with wild and cultivated variants. Domesticated at the same time as emmer wheat, but never reached the same importance. Classes used in the United States:
+
+Durum – Very hard, translucent, light-colored grain used to make semolina flour for pasta & bulghur; high in protein, specifically, gluten protein.
+
+Hard Red Spring – Hard, brownish, high-protein wheat used for bread and hard baked goods. Bread Flour and high-gluten flours are commonly made from hard red spring wheat. It is primarily traded at the Minneapolis Grain Exchange.
+
+Hard Red Winter – Hard, brownish, mellow high-protein wheat used for bread, hard baked goods and as an adjunct in other flours to increase protein in pastry flour for pie crusts. Some brands of unbleached all-purpose flours are commonly made from hard red winter wheat alone. It is primarily traded on the Kansas City Board of Trade. One variety is known as "turkey red wheat", and was brought to Kansas by Mennonite immigrants from Russia.
+
+Soft Red Winter – Soft, low-protein wheat used for cakes, pie crusts, biscuits, and muffins. Cake flour, pastry flour, and some self-rising flours with baking powder and salt added, for example, are made from soft red winter wheat. It is primarily traded on the Chicago Board of Trade.
+
+Hard White – Hard, light-colored, opaque, chalky, medium-protein wheat planted in dry, temperate areas. Used for bread and brewing.
+
+Soft White – Soft, light-colored, very low protein wheat grown in temperate moist areas. Used for pie crusts and pastry. Pastry flour, for example, is sometimes made from soft white winter wheat. Red wheats may need bleaching; therefore, white wheats usually command higher prices than red wheats on the commodities market.
+
+6. As a food
+
+Raw wheat can be ground into flour or, using hard durum wheat only, can be ground into semolina; germinated and dried creating malt; crushed or cut into cracked wheat; parboiled (or steamed), dried, crushed and de-branned into bulgur also known as groats. If the raw wheat is broken into parts at the mill, as is usually done, the outer husk or bran can be used several ways. Wheat is a major ingredient in such foods as bread, porridge, crackers, biscuits, Muesli, pancakes, pies, pastries, cakes, cookies, muffins, rolls, doughnuts, gravy, boza (a fermented beverage), and breakfast cereals (e.g., Wheatena, Cream of Wheat, Shredded Wheat, and Wheaties).
+
+6.1. Nutrition
+
+of hard red winter wheat contain about of protein, of total fat, of carbohydrate (by difference), of dietary fiber, and of iron (17% of the daily requirement); the same weight of hard red spring wheat contains about of protein, of total fat, of carbohydrate (by difference), of dietary fiber, and of iron (20% of the daily requirement).
+
+Much of the carbohydrate fraction of wheat is starch. Wheat starch is an important commercial product of wheat, but second in economic value to wheat gluten. The principal parts of wheat flour are gluten and starch. These can be separated in a kind of home experiment, by mixing flour and water to form a small ball of dough, and kneading it gently while rinsing it in a bowl of water. The starch falls out of the dough and sinks to the bottom of the bowl, leaving behind a ball of gluten.
+
+In wheat, phenolic compounds are mainly found in the form of insoluble bound ferulic acid and are relevant to resistance to wheat fungal diseases. Alkylresorcinols are phenolic lipids present in high amounts in the bran layer (e.g. pericarp, testa and aleurone layers) of wheat and rye (0.1-0.3% of dry weight).
+
+6.2. Worldwide consumption
+
+Wheat is grown on more than , larger than for any other crop. World trade in wheat is greater than for all other crops combined. With rice, wheat is the world's most favored staple food. It is a major diet component because of the wheat plant’s agronomic adaptability with the ability to grow from near arctic regions to equator, from sea level to plains of Tibet, approximately above sea level. In addition to agronomic adaptability, wheat offers ease of grain storage and ease of converting grain into flour for making edible, palatable, interesting and satisfying foods. Wheat is the most important source of carbohydrate in a majority of countries.
+
+Wheat protein is easily digested by nearly 99% of human population (see gluten sensitivity for exception), as is its starch. Wheat also contains a diversity of minerals, vitamins and fats (lipids). With a small amount of animal or legume protein added, a wheat-based meal is highly nutritious.
+
+The most common forms of wheat are white and red wheat. However, other natural forms of wheat exist. For example, in the highlands of Ethiopia grows purple wheat, a tetraploid species of wheat that is rich in anti-oxidants. Other commercially minor but nutritionally promising species of naturally evolved wheat species include black, yellow and blue wheat.
+
+6.3. Health concerns
+
+Several screening studies in Europe, South America, Australasia, and the USA suggest that approximately 0.5–1% of these populations may have undetected coeliac disease. Coeliac (also written as celiac) disease is a condition that is caused by an adverse immune system reaction to gliadin, a gluten protein found in wheat (and similar grains of the tribe Triticeae which includes other species such as barley and rye). Upon exposure to gliadin, the enzyme tissue transglutaminase modifies the protein, and the immune system cross-reacts with the bowel tissue, causing an inflammatory reaction. That leads to flattening of the lining of the small intestine, which interferes with the absorption of nutrients. The only effective treatment is a lifelong gluten-free diet.
+
+The estimate for celiac disease among people in the United States is between 0.5 and 1.0 percent of the population.
+
+While gluten sensitivity is caused by a reaction to wheat proteins, it is not the same as a wheat allergy.
+
+Recently non-celiac gluten sensitivity has been identified as a further gluten sensitivity condition that differs from celiac disease and wheat allergy.
+
+6.4. Comparison of wheat with other major staple foods
+
+The following table shows the nutrient content of wheat and other major staple foods in a raw form.
+
+Raw forms of these staples, however, are not edible and cannot be digested. These must be sprouted, or prepared and cooked as appropriate for human consumption. In sprouted or cooked form, the relative nutritional and anti-nutritional contents of each of these grains is remarkably different from that of raw form of these grains reported in this table.
+
+In cooked form, the nutrition value for each staple depends on the cooking method (for example: baking, boiling, steaming, frying, etc.).
+
+7. Commercial use
+
+Harvested wheat grain that enters trade is classified according to grain properties for the purposes of the commodity markets. Wheat buyers use these to decide which wheat to buy, as each class has special uses, and producers use them to decide which classes of wheat will be most profitable to cultivate.
+
+Wheat is widely cultivated as a cash crop because it produces a good yield per unit area, grows well in a temperate climate even with a moderately short growing season, and yields a versatile, high-quality flour that is widely used in baking. Most breads are made with wheat flour, including many breads named for the other grains they contain like most rye and oat breads. The popularity of foods made from wheat flour creates a large demand for the grain, even in economies with significant food surpluses.
+
+In recent years, low international wheat prices have often encouraged farmers in the USA to change to more profitable crops. In 1998, the price at harvest was $2.68 per bushel. USDA report revealed that in 1998, average operating costs were $1.43 per bushel and total costs were $3.97 per bushel. In that study, farm wheat yields averaged 41.7 bushels per acre (2.2435 metric ton/hectare), and typical total wheat production value was $31,900 per farm, with total farm production value (including other crops) of $173,681 per farm, plus $17,402 in government payments. There were significant profitability differences between low- and high-cost farms, mainly due to crop yield differences, location, and farm size.
+
+In 2007 there was a dramatic rise in the price of wheat due to freezes and flooding in the northern hemisphere and a drought in Australia. Wheat futures in September, 2007 for December and March delivery had risen above $9.00 a bushel, prices never seen before. There were complaints in Italy about the high price of pasta.
+
+8. Production and consumption
+
+In 2003, global per capita wheat consumption was , with the highest per capita consumption of found in Kyrgyzstan. In 1997, global wheat consumption was per capita, with the highest consumption per capita in Denmark, but most of this (81%) was for animal feed. Wheat is the primary food staple in North Africa and the Middle East, and is growing in popularity in Asia. Unlike rice, wheat production is more widespread globally though China's share is almost one-sixth of the world.
+
+"There is a little increase in yearly crop yield comparison to the year 1990. The reason for this is not in development of sowing area, but the slow and successive increasing of the average yield. Average 2.5 tons wheat was produced on one hectare crop land in the world in the first half of 1990s, however this value was about 3 tons in 2009. In the world per capita wheat producing area continuously decreased between 1990 and 2009 considering the change of world population. There was no significant change in wheat producing area in this period. However, due to the improvement of average yields there is some fluctuation in each year considering the per capita production, but there is no considerable decline. In 1990 per capita production was 111.98 kg/capita/year, while it was already 100.62 kg/capita/year in 2009. The decline is evident and the per capita production level of the year 1990 can not be feasible simultaneously with the growth of world population in spite of the increased average yields. In the whole period the lowest per capita production was in 2006."
+
+In the 20th century, global wheat output expanded by about 5-fold, but until about 1955 most of this reflected increases in wheat crop area, with lesser (about 20%) increases in crop yields per unit area. After 1955 however, there was a dramatic ten-fold increase in the rate of wheat yield improvement per year, and this became the major factor allowing global wheat production to increase. Thus technological innovation and scientific crop management with synthetic nitrogen fertilizer, irrigation and wheat breeding were the main drivers of wheat output growth in the second half of the century. There were some significant decreases in wheat crop area, for instance in North America.
+
+Better seed storage and germination ability (and hence a smaller requirement to retain harvested crop for next year's seed) is another 20th century technological innovation. In Medieval England, farmers saved one-quarter of their wheat harvest as seed for the next crop, leaving only three-quarters for food and feed consumption. By 1999, the global average seed use of wheat was about 6% of output.
+
+Several factors are currently slowing the rate of global expansion of wheat production: population growth rates are falling while wheat yields continue to rise, and the better economic profitability of other crops such as soybeans and maize, linked with investment in modern genetic technologies, has promoted shifts to other crops.
+
+8.1. Farming systems
+
+In the Punjab region of India and Pakistan, as well as North China, irrigation has been a major contributor to increased grain output. More widely over the last 40 years, a massive increase in fertilizer use together with the increased availability of semi-dwarf varieties in developing countries, has greatly increased yields per hectare. In developing countries, use of (mainly nitrogenous) fertilizer increased 25-fold in this period. However, farming systems rely on much more than fertilizer and breeding to improve productivity. A good illustration of this is Australian wheat growing in the southern winter cropping zone, where, despite low rainfall (300 mm), wheat cropping is successful even with relatively little use of nitrogenous fertilizer. This is achieved by 'rotation cropping' (traditionally called the ley system) with leguminous pastures and, in the last decade, including a canola crop in the rotations has boosted wheat yields by a further 25%. In these low rainfall areas, better use of available soil-water (and better control of soil erosion) is achieved by retaining the stubble after harvesting and by minimizing tillage.
+
+In 2009, the most productive farms for wheat were in France producing 7.45 metric tonnes per hectare (although French production has low protein content and requires blending with higher protein wheat to meet the specifications required in some countries). The five largest producers of wheat in 2009 were China (115 million metric tonnes), India (81 MMT), Russian Federation (62 MMT), United States (60 MMT) and France (38 MMT). The wheat farm productivity in India and Russia were about 35% of the wheat farm productivity in France. China's farm productivity for wheat, in 2009, was about double that of Russia.
+
+In addition to gaps in farming system technology and knowledge, some large wheat grain producing countries have significant losses after harvest at the farm and because of poor roads, inadequate storage technologies, inefficient supply chains and farmers' inability to bring the produce into retail markets dominated by small shopkeepers. Various studies in India, for example, have concluded that about 10% of total wheat production is lost at farm level, another 10% is lost because of poor storage and road networks, and additional amounts lost at the retail level. One study claims that if these post-harvest wheat grain losses could be eliminated with better infrastructure and retail network, in India alone enough food would be saved every year to feed 70 to 100 million people over a year.
+
+8.2. Futures contracts
+
+Wheat futures are traded on the Chicago Board of Trade, Kansas City Board of Trade, and Minneapolis Grain Exchange, and have delivery dates in March (H), May (K), July (N), September (U), and December (Z).
+
+8.3. Geographical variation
+
+There are substantial differences in wheat farming, trading, policy, sector growth, and wheat uses in different regions of the world. In the EU and Canada for instance, there is significant addition of wheat to animal feeds, but less so in the USA.
+
+The biggest wheat producer in 2010 was EU-27, followed by China, India, USA and Russian Federation.
+
+The largest exporters of wheat in 2009 were, in order of exported quantities: United States, EU-27, Canada, Russian Federation, Australia, Ukraine and Kazakhstan. Upon the results of 2011, Ukraine became the world's sixth wheat exporter as well. The largest importers of wheat in 2009 were, in order of imported quantities: Egypt, EU-27, Brazil, Indonesia, Algeria and Japan. EU-27 was on both export and import list, because EU countries such as Italy and Spain imported wheat, while other EU-27 countries exported their harvest. The Black Sea region – which includes Kazakhstan, the Russian Federation and Ukraine – is amongst the most promising area for grain exporters; it possess significant production potential in terms of both wheat yield and area increases. The Black Sea region is also located close to the traditional grain importers in the Middle East, North Africa and Central Asia.
+
+In the rapidly developing countries of Asia, westernization of diets associated with increasing prosperity is leading to growth in per capita demand for wheat at the expense of the other food staples.
+
+In the past, there has been significant governmental intervention in wheat markets, such as price supports in the USA and farm payments in the EU. In the EU these subsidies have encouraged heavy use of fertilizer inputs with resulting high crop yields. In Australia and Argentina direct government subsidies are much lower.
+
+8.4. World's most productive wheat farms and farmers
+
+The average annual world farm yield for wheat was 3.1 tonnes per hectare (310 grams per square meter), in 2010.
+
+Dutch wheat farms were the most productive in 2010, with a nationwide average of 8.9 tonnes per hectare. Belgium was a close second.
+
+Various regions of the world hold wheat production yield contests every year. Yields above 12 tonnes per hectare are routinely achieved in many parts of the world. Chris Dennison of Oamaru, New Zealand, set a world record for wheat yield in 2003 at 15.015 tonnes per hectare (223 bushels/acre). In 2010, this record was surpassed by another New Zealand farmer, Michael Solari, with 15.636 tonnes per hectare (232.64 bushels/acre) at Otama, Gore.
+
+9. Agronomy
+
+9.1. Crop development
+
+Wheat normally needs between 110 and 130 days between sowing and harvest, depending upon climate, seed type, and soil conditions (winter wheat lies dormant during a winter freeze). Optimal crop management requires that the farmer have a detailed understanding of each stage of development in the growing plants. In particular, spring fertilizers, herbicides, fungicides, and growth regulators are typically applied only at specific stages of plant development. For example, it is currently recommended that the second application of nitrogen is best done when the ear (not visible at this stage) is about 1 cm in size (Z31 on Zadoks scale). Knowledge of stages is also important to identify periods of higher risk from the climate. For example, pollen formation from the mother cell, and the stages between anthesis and maturity are susceptible to high temperatures, and this adverse effect is made worse by water stress. Farmers also benefit from knowing when the 'flag leaf' (last leaf) appears, as this leaf represents about 75% of photosynthesis reactions during the grain filling period, and so should be preserved from disease or insect attacks to ensure a good yield.
+
+Several systems exist to identify crop stages, with the Feekes and Zadoks scales being the most widely used. Each scale is a standard system which describes successive stages reached by the crop during the agricultural season.
+
+10. Diseases
+
+There are many wheat diseases, mainly caused by fungi, bacteria, and viruses. Plant breeding to develop new disease-resistant varieties, and sound crop management practices are important for preventing disease. Fungicides, used to prevent the significant crop losses from fungal disease, can be a significant variable cost in wheat production. Estimates of the amount of wheat production lost owing to plant diseases vary between 10–25% in Missouri. A wide range of organisms infect wheat, of which the most important are viruses and fungi.
+
+The main wheat-disease categories are:
+
+Seed-borne diseases: these include seed-borne scab, seed-borne Stagonospora (previously known as Septoria), common bunt (stinking smut), and loose smut. These are managed with fungicides.
+
+Leaf- and head- blight diseases: Powdery mildew, leaf rust, Septoria tritici leaf blotch, Stagonospora (Septoria) nodorum leaf and glume blotch, and Fusarium head scab.
+
+Crown and root rot diseases: Two of the more important of these are 'take-all' and Cephalosporium stripe. Both of these diseases are soil borne.
+
+Stem rust diseases: Caused by basidiomycete fungi e.g. Ug99
+
+Viral diseases: Wheat spindle streak mosaic (yellow mosaic) and barley yellow dwarf are the two most common viral diseases. Control can be achieved by using resistant varieties.
+
+10.1. Pests
+
+Wheat is used as a food plant by the larvae of some Lepidoptera (butterfly and moth) species including The Flame, Rustic Shoulder-knot, Setaceous Hebrew Character and Turnip Moth. Early in the season, many species of birds, including the Long-tailed Widowbird, and rodents feed upon wheat crops. These animals can cause significant damage to a crop by digging up and eating newly planted seeds or young plants. They can also damage the crop late in the season by eating the grain from the mature spike. Recent post-harvest losses in cereals amount to billions of dollars per year in the USA alone, and damage to wheat by various borers, beetles and weevils is no exception. Rodents can also cause major losses during storage, and in major grain growing regions, field mice numbers can sometimes build up explosively to plague proportions because of the ready availability of food. To reduce the amount of wheat lost to post-harvest pests, Agricultural Research Service scientists have developed an "insect-o-graph," which can detect insects in wheat that are not visible to the naked eye. The device uses electrical signals to detect the insects as the wheat is being milled. The new technology is so precise that it can detect 5-10 infested seeds out of 300,000 good ones. Tracking insect infestations in stored grain is critical for food safety as well as for the marketing value of the crop.
+
+11. See also
+
+Bran
+
+Chaff
+
+Deficit irrigation
+
+Husk
+
+Wheatberry
+
+Wheat germ oil
+
+Wheat growing history of the USA
+
+Wheat middlings
+
+Whole wheat flour
+
+12. References
+
+13. Further reading
+
+Bonjean, A.P., and W.J. Angus (editors). The World Wheat Book: a history of wheat breeding. Lavoisier Publ., Paris. 1131 pp. (2001). ISBN 2-7430-0402-9
+
+Garnsey Peter, Grain for Rome, in Garnsey P., Hopkins K., Whittaker C. R. (editors), Trade in the Ancient Economy, Chatto & Windus, London 1983
+
+Head L., Atchison J., and Gates A. Ingrained: A Human Bio-geography of Wheat. Ashgate Publ., Burlington. 246 pp. (2012). ISBN 978-1-4094-3787-1
+
+Jasny Naum, The daily bread of ancient Greeks and Romans, Ex Officina Templi, Brugis 1950
+
+Jasny Naum, The Wheats of Classical Antiquity, J. Hopkins Press, Baltimore 1944
+
+Heiser Charles B., Seed to civilisation. The story of food, (Harvard University Press, 1990)
+
+Harlan Jack R., Crops and man, American Society of Agronomy, Madison 1975
+
+Saltini Antonio, I semi della civiltà. Grano, riso e mais nella storia delle società umane, Prefazione di Luigi Bernabò Brea, Avenue Media, Bologna 1996
+
+Sauer Jonathan D., Geography of Crop Plants. A Select Roster, CRC Press, Boca Raton
+
+14. External links
+
+Est. 1972
+
+—Web site of the National Association of Wheat Growers
+
+—Web site of the International Maize and Wheat Improvement Center
+
+at Purdue University
+
+by James C. Malin, University of Kansas, 1944
+
+hosted by the
+
+Popular Mechanics, July 1949, post World War Two modernization of wheat harvesting

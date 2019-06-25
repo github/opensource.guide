@@ -1,0 +1,99 @@
+The ovary (From , literally "egg" or "nut") is an ovum-producing reproductive organ, often found in pairs as part of the vertebrate female reproductive system. Ovaries in female individuals are analogous to testes in male individuals, in that they are both gonads and endocrine glands. Although ovaries occur in a wide variety of animals, both vertebrate and invertebrate, this article is primarily about ovaries in humans.
+
+1. Structure
+
+In the case of human ovaries, each one is whitish in color and located alongside the lateral wall of the uterus in a region called the ovarian fossa. The fossa usually lies beneath the external iliac artery and in front of the ureter and the internal iliac artery. It is about 4 cm x 3 cm x 2 cm in size.
+
+Usually each ovary takes turns releasing an egg each month; however, if there was a case where one ovary was absent or dysfunctional then the other ovary would continue providing eggs to be released.
+
+1.1. Ligaments
+
+In the human the paired ovaries lie within the pelvic cavity, on either side of the uterus, to which they are attached via a fibrous cord called the ovarian ligament. The ovaries are uncovered in the peritoneal cavity but are tethered to the body wall via the suspensory ligament of the ovary. The part of the broad ligament of the uterus that covers the ovary is known as the mesovarium. The ovary is thus considered an intraperitoneal organ.
+
+1.2. Extremities
+
+There are two extremities to the ovary:
+
+The end to which the fallopian tube attaches is called the tubal extremity and ovary is connected to it by infundibulopelvic ligament.
+
+The other extremity is called the uterine extremity. It points downward, and it is attached to the uterus via the ovarian ligament.
+
+1.3. Histology
+
+Follicular cells flat epithelial cells that originate from surface epithelium covering the ovary
+
+Granulosa cells - surrounding follicular cells have changed from flat to cuboidal and proliferated to produce a stratified epithelium
+
+Gametes
+
+The outermost layer is called the germinal epithelium.
+
+The ovarian cortex consists of ovarian follicles and stroma in between them. Included in the follicles are the cumulus oophorus, membrana granulosa (and the granulosa cells inside it), corona radiata, zona pellucida, and primary oocyte. The zona pellucida, theca of follicle, antrum and liquor folliculi are also contained in the follicle. Also in the cortex is the corpus luteum derived from the follicles.
+
+The innermost layer is the ovarian medulla. It can be hard to distinguish between the cortex and medulla, but follicles are usually not found in the medulla. The ovary also contains blood vessels and lymphatics.
+
+2. Function
+
+2.1. Hormones
+
+Ovaries secrete estrogen, testosterone and progesterone. In women, fifty percent of testosterone is produced by the ovaries and adrenal glands and released directly into the blood stream. Estrogen is responsible for the appearance of secondary sex characteristics for females at puberty and for the maturation and maintenance of the reproductive organs in their mature functional state. Progesterone prepares the uterus for pregnancy, and the mammary glands for lactation. Progesterone functions with estrogen by promoting menstrual cycle changes in the endometrium.
+
+2.2. Ovarian aging
+
+As women age, they experience a decline in reproductive performance leading to menopause. This decline is tied to a decline in the number of ovarian follicles. Although about 1 million oocytes are present at birth in the human ovary, only about 500 (about 0.05%) of these ovulate, and the rest are wasted. The decline in ovarian reserve appears to occur at a constantly increasing rate with age, and leads to nearly complete exhaustion of the reserve by about age 52. As ovarian reserve and fertility decline with age, there is also a parallel increase in pregnancy failure and meiotic errors resulting in chromosomally abnormal conceptions.
+
+Women with an inherited mutation in the DNA repair gene BRCA1 undergo menopause prematurely, suggesting that naturally occurring DNA damages in oocytes are repaired less efficiently in these women, and this inefficiency leads to early reproductive failure. The BRCA1 protein plays a key role in a type of DNA repair termed homologous recombinational repair that is the only known cellular process that can accurately repair DNA double-strand breaks. Titus et al. showed that DNA double-strand breaks accumulate with age in humans and mice in primordial follicles. Primodial follicles contain oocytes that are at an intermediate (prophase I) stage of meiosis. Meiosis is the general process in eukaryotic organisms by which germ cells are formed, and it is likely an adaptation for removing DNA damages, especially double-strand breaks, from germ line DNA. (see Meiosis and Origin and function of meiosis). Homologous recombinational repair is especially promoted during meiosis. Titus et al. also found that expression of 4 key genes necessary for homologous recombinational repair of DNA double-strand breaks (BRCA1, MRE11, RAD51 and ATM) decline with age in the oocytes of humans and mice. They hypothesized that DNA double-strand break repair is vital for the maintenance of oocyte reserve and that a decline in efficiency of repair with age plays a key role in ovarian aging.
+
+3. Clinical significance
+
+Ovarian diseases can be classified as endocrine disorders or as a disorders of the reproductive system.
+
+If the egg fails to release from the follicle in the ovary an ovarian cyst may form. Small ovarian cysts are common in healthy women. Some women have more follicles than usual (polycystic ovary syndrome), which inhibits the follicles to grow normally and this will cause cycle irregularities.
+
+Other conditions include:
+
+Ovarian neoplasms, including Ovarian cancer
+
+Luteoma
+
+Hypogonadism
+
+Hyperthecosis
+
+Ovarian torsion
+
+Ovarian apoplexy (rupture)
+
+4. Society and culture
+
+4.1. Cryopreservation
+
+Cryopreservation of ovarian tissue, often called ovarian tissue cryopreservation, is of interest to women who want to preserve their reproductive function beyond the natural limit, or whose reproductive potential is threatened by cancer therapy, for example in hematologic malignancies or breast cancer. The procedure is to take a part of the ovary and carry out slow freezing before storing it in liquid nitrogen whilst therapy is undertaken. Tissue can then be thawed and implanted near the fallopian, either orthotopic (on the natural location) or heterotopic (on the abdominal wall), where it starts to produce new eggs, allowing normal conception to take place. A study of 60 procedures concluded that ovarian tissue harvesting appears to be safe. The ovarian tissue may also be transplanted into mice that are immunocompromised (SCID mice) to avoid graft rejection, and tissue can be harvested later when mature follicles have developed.
+
+5. Other animals
+
+Ovaries of some kind are found in the female reproductive system of many animals that employ sexual reproduction, including invertebrates. However, they develop in a very different way in most invertebrates than they do in vertebrates, and are not truly homologous.
+
+Many of the features found in human ovaries are common to all vertebrates, including the presence of follicular cells, tunica albuginea, and so on. However, many species produce a far greater number of eggs during their lifetime than do humans, so that, in fish and amphibians, there may be hundreds, or even millions of fertile eggs present in the ovary at any given time. In these species, fresh eggs may be developing from the germinal epithelium throughout life. Corpora lutea are found only in mammals, and in some elasmobranch fish; in other species, the remnants of the follicle are quickly resorbed by the ovary. In birds, reptiles, and monotremes, the egg is relatively large, filling the follicle, and distorting the shape of the ovary at maturity.
+
+Amphibians and reptiles have no ovarian medulla; the central part of the ovary is a hollow, lymph-filled space.
+
+The ovary of teleosts is also often hollow, but in this case, the eggs are shed into the cavity, which opens into the oviduct. Certain nematodes of the genus Philometra are parasitic in the ovary of marine fishes and can be spectacular, with females as long as 40 cm, coiled in the ovary of a fish half this length. These nematodes never parasitize humans.
+
+Although most normal female vertebrates have two ovaries, this is not the case in all species. In most birds and in platypuses, the right ovary never matures, so that only the left is functional. (Exceptions include the Kiwi and some, but not all raptors, in which both ovaries persist.) In some elasmobranchs, only the right ovary develops fully. In the primitive jawless fish, and some teleosts, there is only one ovary, formed by the fusion of the paired organs in the embryo.
+
+6. Additional images
+
+File:Slide1DDD.JPG|Left Ovary File:Ovaries.jpg|Ovaries File:Uterus.jpg|Uterus
+
+7. See also
+
+Ovarian reserve
+
+Folliculogenesis
+
+Oophorectomy
+
+8. References
+
+9. External links

@@ -1,0 +1,223 @@
+Turkish (), also referred to as Istanbul Turkish, is the most widely spoken of the Turkic languages, with around 10–15 million native speakers in Southeastern Europe and 55–60 million native speakers in Western Asia. Speakers are located predominantly in Turkey, with smaller groups in Germany, Bulgaria, Macedonia, Northern Cyprus, Greece, the Caucasus, and other parts of Europe and Central Asia.
+
+The roots of the language can be traced to the Altay region in the Eurasian steppes, with the first known written records dating back nearly 1,300 years. To the west, the influence of Ottoman Turkish—the variety of the Turkish language that was used as the administrative and literary language of the Ottoman Empire—spread as the Ottoman Empire expanded. In 1928, as one of Atatürk's Reforms in the early years of the Republic of Turkey, the Ottoman script was replaced with a Latin alphabet.
+
+The distinctive characteristics of Turkish are vowel harmony and extensive agglutination. The basic word order of Turkish is subject–object–verb. Turkish has no noun classes or grammatical gender. Turkish has a strong T–V distinction and usage of honorifics. Turkish uses second-person pronouns that distinguish varying levels of politeness, social distance, age, courtesy or familiarity toward the addressee. The plural second-person pronoun and verb forms are used referring to a single person out of respect.
+
+1. Classification
+
+Turkish is a member of the Oghuz group of languages, a subgroup of the Turkic language family. There is a high degree of mutual intelligibility between Turkish and the other Oghuz languages, including Azerbaijani, Turkmen, Qashqai, Gagauz, and Balkan Gagauz Turkish. The Turkic family comprises some 30 living languages spoken across Eastern Europe, Central Asia, and Siberia. Some linguists believe the Turkic languages to be a part of a larger Altaic language family. About 40% of all speakers of Turkic languages are native Turkish speakers. The characteristic features of Turkish, such as vowel harmony, agglutination, and lack of grammatical gender, are universal within the Turkic family.
+
+2. History
+
+The earliest known Turkic inscriptions are the three monumental Orkhon inscriptions found in modern Mongolia. Erected in honour of the prince Kul Tigin and his brother Emperor Bilge Khan, and dating back to some time between 732 and 735, as well as Bayn Tsokto inscriptions erected by Tonyukuk, the commander in chief between 720 and 725, they constitute important earliest records. After the discovery and excavation of these monuments and associated stone slabs by Russian archaeologists in the wider area surrounding the Orkhon Valley between 1889 and 1893, it became established that the language on the inscriptions was the Old Turkic language written using the Orkhon script, which has also been referred to as "Turkic runes" or "runiform" due to a superficial similarity to the Germanic runic alphabets.
+
+With the Turkic expansion during Early Middle Ages (c. 6th–11th centuries), peoples speaking Turkic languages spread across Central Asia, covering a vast geographical region stretching from Siberia to Europe and the Mediterranean. The Seljuqs of the Oghuz Turks, in particular, brought their language, Oghuz Turkic—the direct ancestor of today's Turkish language—into Anatolia during the 11th century. Also during the 11th century, an early linguist of the Turkic languages, Mahmud al-Kashgari from the Kara-Khanid Khanate, published the first comprehensive Turkic language dictionary and map of the geographical distribution of Turkic speakers in the Compendium of the Turkic Dialects (Ottoman Turkish: Divânü Lügati't-Türk).
+
+2.1. Ottoman Turkish
+
+Following the adoption of Islam c. 950 by the Kara-Khanid Khanate and the Seljuq Turks, who are both regarded as the ethnic and cultural ancestors of the Ottomans, the administrative language of these states acquired a large collection of loanwords from Arabic and Persian. Turkish literature during the Ottoman period, particularly Ottoman Divan poetry, was heavily influenced by Persian, including the adoption of poetic meters and a great quantity of imported words. The literary and official language during the Ottoman Empire period (c. 1299–1922) is termed Ottoman Turkish, which was a mixture of Turkish, Persian, and Arabic that differed considerably and was largely unintelligible to the period's everyday Turkish known as kaba Türkçe or "rough Turkish", spoken by the less-educated lower and also rural members of society, which contained a higher percentage of native vocabulary and served as basis for the modern Turkish language.
+
+2.2. Language reform and modern Turkish
+
+After the foundation of the Republic of Turkey and the script reform, the Turkish Language Association (TDK) was established in 1932 under the patronage of Mustafa Kemal Atatürk, with the aim of conducting research on Turkish. One of the tasks of the newly established association was to initiate a language reform to replace loanwords of Arabic and Persian origin with Turkish equivalents. By banning the usage of imported words in the press, the association succeeded in removing several hundred foreign words from the language. While most of the words introduced to the language by the TDK were newly derived from Turkic roots, it also opted for reviving Old Turkish words which had not been used for centuries.
+
+Owing to this sudden change in the language, older and younger people in Turkey started to differ in their vocabularies. While the generations born before the 1940s tend to use the older terms of Arabic or Persian origin, the younger generations favor new expressions. It is considered particularly ironic that Atatürk himself, in his lengthy speech to the new Parliament in 1927, used a style of Ottoman which sounded so alien to later listeners that it had to be "translated" three times into modern Turkish: first in 1963, again in 1986, and most recently in 1995.
+
+The past few decades have seen the continuing work of the TDK to coin new Turkish words to express new concepts and technologies as they enter the language, mostly from English. Many of these new words, particularly information technology terms, have received widespread acceptance. However, the TDK is occasionally criticized for coining words which sound contrived and artificial. Some earlier changes—such as bölem to replace fırka, "political party"—also failed to meet with popular approval (fırka has been replaced by the French loanword parti). Some words restored from Old Turkic have taken on specialized meanings; for example betik (originally meaning "book") is now used to mean "script" in computer science.
+
+Many of the words derived by TDK coexist with their older counterparts. This usually happens when a loanword changes its original meaning. For instance, dert, derived from the Persian dard (درد "pain"), means "problem" or "trouble" in Turkish; whereas the native Turkish word ağrı is used for physical pain. Sometimes the loanword has a slightly different meaning from the native Turkish word, creating a situation similar to the coexistence of Germanic and Romance words in English. Some examples of modern Turkish words and the old loanwords are:
+
+3. Geographic distribution
+
+Turkish is natively spoken by the Turkish people in Turkey and by the Turkish diaspora in some 30 other countries. In particular, Turkish-speaking minorities exist in countries that formerly (in whole or part) belonged to the Ottoman Empire, such as Bulgaria, Cyprus, Greece (primarily in Western Thrace), the Republic of Macedonia, Romania, and Serbia. More than two million Turkish speakers live in Germany; and there are significant Turkish-speaking communities in the United States, France, The Netherlands, Austria, Belgium, Switzerland, and the United Kingdom. Due to the cultural assimilation of Turkish immigrants in host countries, not all ethnic Turkish immigrants speak the language with native fluency.
+
+In 2005, 93% of the population of Turkey were native speakers of Turkish, about 67 million at the time, with Kurdish making up most of the remainder. However, most linguistic minorities in Turkey are bilingual, speaking Turkish with native-like fluency.
+
+3.1. Official status
+
+Turkish is the official language of Turkey and is one of the official languages of Cyprus. It also has official (but not primary) status in the Prizren District of Kosovo and three municipalities of the Republic of Macedonia, based on the concentration of Turkish-speaking local population.
+
+In Turkey, the regulatory body for Turkish is the Turkish Language Association (Türk Dil Kurumu or TDK), which was founded in 1932 under the name Türk Dili Tetkik Cemiyeti ("Society for Research on the Turkish Language"). The Turkish Language Association was influenced by the ideology of linguistic purism: indeed one of its primary tasks was the replacement of loanwords and foreign grammatical constructions with equivalents of Turkish origin. These changes, together with the adoption of the new Turkish alphabet in 1928, shaped the modern Turkish language spoken today. TDK became an independent body in 1951, with the lifting of the requirement that it should be presided over by the Minister of Education. This status continued until August 1983, when it was again made into a governmental body in the constitution of 1982, following the military coup d'état of 1980.
+
+3.2. Dialects
+
+Modern standard Turkish is based on the dialect of Istanbul. Dialectal variation persists, in spite of the levelling influence of the standard used in mass media and the Turkish education system since the 1930s. Academically, researchers from Turkey often refer to Turkish dialects as ağız or şive, leading to an ambiguity with the linguistic concept of accent, which is also covered with these words. Projects investigating Turkish dialects are being carried out by several universities, as well as a dedicated work group of the Turkish Language Association. Work is currently in progress for the compilation and publication of their research as a comprehensive dialect atlas of the Turkish language.
+
+Rumelice is spoken by immigrants from Rumelia, and includes the distinct dialects of Deliorman, Dinler, and Adakale, which are influenced by the theoretized Balkan language area. Kıbrıs Türkçesi is the name for Cypriot Turkish and is spoken by the Turkish Cypriots. Edirne is the dialect of Edirne. Ege is spoken in the Aegean region, with its usage extending to Antalya. The nomadic Yörük tribes of the Mediterranean Region of Turkey also have their own dialect of Turkish. This group is not to be confused with the Yuruk nomads of Macedonia, Greece, and European Turkey who speak Balkan Gagauz Turkish.
+
+Güneydoğu is spoken in the southeast, to the east of Mersin. Doğu, a dialect in Eastern Anatolia, has a dialect continuum. The Meskhetian Turks who live in Kazakhstan, Azerbaijan and Russia as well as in several Central Asian countries, also speak an Eastern Anatolian dialect of Turkish, originating in the areas of Kars, Ardahan, and Artvin and sharing similarities with Azeri, the language of Azerbaijan.
+
+The Central Anatolia region speaks Orta Anadolu. Karadeniz, spoken in the Eastern Black Sea Region and represented primarily by the Trabzon dialect, exhibits substratum influence from Greek in phonology and syntax; it is also known as Laz dialect (not to be confused with the Laz language). Kastamonu is spoken in Kastamonu and its surrounding areas. Karamanlıca is spoken in Greece, where it is also named Kαραμανλήδικα (Karamanlidika). It is the literary standard for Karamanlides.
+
+4. Phonology
+
+4.1. Consonants
+
+The phoneme which is usually referred to as yumuşak g ("soft g"), and written in Turkish orthography, represents a vowel sequence or a rather weak bilabial approximant between rounded vowels, a weak palatal approximant between unrounded front vowels, and a vowel sequence elsewhere. It never occurs at the beginning of a word or a syllable, but always follows a vowel. When word-final or preceding another consonant, it lengthens the preceding vowel.
+
+In native Turkic words, the sounds , , and are in complementary distribution with , , and ; the former set occurs adjacent to front vowels and the latter adjacent to back vowels. The distribution of these phonemes is often unpredictable, however, in foreign borrowings and proper nouns. In such words, , , and often occur with back vowels: some examples are given below.
+
+4.1.1. Consonant devoicing
+
+Turkish orthography reflects final-obstruent devoicing, whereby a voiced obstruent, such as , is devoiced to at the end of a word or before a consonant, but retains its voicing before a vowel. In loan words, the voiced partner of /k/ is //g//; in native words, it is //ğ//.
+
+This is analogous to languages such as German and Russian, but in the case of Turkish, the spelling is usually made to match the sound. However, in a few cases, such as ad 'name' (dative ada), the underlying form is retained in the spelling (cf. at 'horse', dative ata). Other exceptions are od 'fire' vs. ot 'herb', sac 'sheet metal', saç 'hair'. Most loanwords, such as kitap above, are spelled as pronounced, but a few such as hac 'hajj', şad 'happy', and yad 'strange(r)' also show their underlying forms.
+
+Native nouns of two or more syllables that end in /k/ in dictionary form are nearly all //ğ// in underlying form. However, most verbs and monosyllabic nouns are underlyingly //k//.
+
+4.2. Vowels
+
+The vowels of the Turkish language are, in their alphabetical order, , , , , , , , . The Turkish vowel system can be considered as being three-dimensional, where vowels are characterised by three features: front and back, rounded and unrounded and vowel height. In fact, the vowel , being the fronted version of , is often pronounced // (just like Azerbaijani ).
+
+The only diphthongs in the language are falling diphthongs usually analyzed as a sequence of /j/ and a vowel.
+
+4.2.1. Vowel harmony
+
+Vowel harmony is the principle by which a native Turkish word incorporates either exclusively back vowels (a, ı, o, and u) or exclusively front vowels (e, i, ö, and ü). The pattern of vowels is shown in the table above.
+
+Grammatical affixes have "a chameleon-like quality", and obey one of the following patterns of vowel harmony:
+
+twofold (-e/-a): the locative suffix, for example, is -de after front vowels and -da after back vowels. The notation -de² is a convenient shorthand for this pattern.
+
+fourfold (-i/-ı/-ü/-u): the genitive suffix, for example, is -in or -ın after unrounded vowels (front or back respectively); and -ün or -un after the corresponding rounded vowels. In this case, the shorthand notation -in4 is used. The following examples, based on the copula -dir4 ("[it] is"), illustrate the principles of vowel harmony in practice: Türkiye'dir ("it is Turkey"), kapıdır ("it is the door"), but gündür ("it is the day"), paltodur ("it is the coat").
+
+There are some exceptions to the rules of vowel harmony. In compound words, the vowels need not harmonize between the constituent words of the compound. Forms like bu+gün ("today") or baş+kent ("capital") are permissible. In addition, vowel harmony does not apply in loanwords and some invariant affixes, such as -yor (present tense) and -bil- (potential). Some loanwords do, however, exhibit partial or even complete vowel harmony (e.g. mümkün "possible" < Arabic mumkin; and dürbün "binoculars" < Persian dūrbīn). There are also a few native Turkish words that do not follow the rule, such as anne ("mother"). In such words, suffixes harmonize with the final vowel: thus annedir ("she is a mother"). Many loanwords from Arabic and French, however, take front-vowel suffixes after final back vowels: for example halsiz < hal + -siz4 "listless", meçhuldür < meçhul + -dir4 "it is unknown", harfler < harf + -ler² "(alphabetical) letters" (instead of the expected *halsız, *meçhuldur and *harflar).
+
+The road sign in the photograph above illustrates several of these features:
+
+a native compound which does not obey vowel harmony: Orta+köy ("middle village"—a place name)
+
+a loanword also violating vowel harmony: viyadük (< French viaduc "viaduct")
+
+the possessive suffix -i4 harmonizing with the final vowel (and softening the k by consonant alternation): viyadüğü
+
+4.3. Stress
+
+Stress is usually on the last syllable. Exceptions include some suffix combinations and loanwords, particularly from Italian and Greek, as well as interjections, adverbs, and many proper names. While the aforementioned loanwords are usually stressed on the penultimate syllable ( lokanta "restaurant" or iskele "quay"), the stress of proper names is less predictable ( İstanbul, Ankara).
+
+5. Grammar
+
+Turkish is an agglutinative language and frequently uses affixes, and specifically suffixes, or endings. One word can have many affixes and these can also be used to create new words, such as creating a verb from a noun, or a noun from a verbal root (see the section on Word formation). Most affixes indicate the grammatical function of the word. The only native prefixes are alliterative intensifying syllables used with adjectives or adverbs: for example sımsıcak ("boiling hot" < sıcak) and masmavi ("bright blue" < mavi).
+
+The extensive use of affixes can give rise to long words, e.g. Çekoslovakyalılaştıramadıklarımızdanmışsınız, meaning "You are said to be one of those that we couldn't manage to convert to a Czechoslovak". While this case is contrived, long words frequently occur in normal Turkish, as in this heading of a newspaper obituary column: Bayramlaşamadıklarımız (Bayram [festival]-Recipr-Impot-Partic-Plur-PossPl1; "Those of our number with whom we cannot exchange the season's greetings"). Another example can be seen in the final word of this heading of the online Turkish Spelling Guide (İmlâ Kılavuzu): Dilde birlik, ulusal birliğin vazgeçilemezlerindendir ("Unity in language is among the indispensables [dispense-Pass-Impot-Plur-PossS3-Abl-Copula] of national unity ~ Linguistic unity is a sine qua non of national unity").
+
+5.1. Nouns
+
+There is no definite article in Turkish, but definiteness of the object is implied when the accusative ending is used (see below). Turkish nouns decline by taking case-endings, as in Latin. There are six noun cases in Turkish, with all the endings following vowel harmony (shown in the table using the shorthand superscript notation. The plural marker -ler² immediately follows the noun before any case or other affixes (e.g. köylerin "of the villages").
+
+The accusative case marker is used only for definite objects; compare (bir) ağaç gördük "we saw a tree" with ağacı gördük "we saw the tree". The plural marker -ler² is generally not used when a class or category is meant: ağaç gördük can equally well mean "we saw trees [as we walked through the forest]"—as opposed to ağaçları gördük "we saw the trees [in question]".
+
+The declension of ağaç illustrates two important features of Turkish phonology: consonant assimilation in suffixes (ağaçtan, ağaçta) and voicing of final consonants before vowels (ağacın, ağaca, ağacı).
+
+Additionally, nouns can take suffixes that assign person: for example -imiz4, "our". With the addition of the copula (for example -im4, "I am") complete sentences can be formed. The interrogative particle mi4 immediately follows the word being questioned: köye mi? "[going] to the village?", ağaç mı? "[is it a] tree?".
+
+5.2. Personal pronouns
+
+The Turkish personal pronouns in the nominative case are ben (1s), sen (2s), o (3s), biz (1pl), siz (2pl, or formal/polite 2s), and onlar (3pl). They are declined regularly with some exceptions: benim (1s gen.); bizim (1pl gen.); bana (1s dat.); sana (2s dat.); and the oblique forms of o use the root on. All other pronouns (reflexive kendi and so on) are declined regularly.
+
+5.2.1. Noun phrases (tamlama)
+
+Two nouns, or groups of nouns, may be joined in either of two ways:
+
+definite (possessive) compound (belirtili tamlama). E.g. Türkiye'nin sesi "the voice of Turkey (radio station)": the voice belonging to Turkey. Here the relationship is shown by the genitive ending -in4 added to the first noun; the second noun has the third-person suffix of possession -(s)i4.
+
+indefinite (qualifying) compound (belirtisiz tamlama). E.g. Türkiye Cumhuriyeti "Turkey-Republic = the Republic of Turkey": not the republic belonging to Turkey, but the Republic that is Turkey. Here the first noun has no ending; but the second noun has the ending -(s)i4—the same as in definite compounds. The following table illustrates these principles. In some cases the constituents of the compounds are themselves compounds; for clarity these subsidiary compounds are marked with [square brackets]. The suffixes involved in the linking are underlined. Note that if the second noun group already had a possessive suffix (because it is a compound by itself), no further suffix is added.
+
+As the last example shows, the qualifying expression may be a substantival sentence rather than a noun or noun group.
+
+There is a third way of linking the nouns where both nouns take no suffixes (takısız tamlama). However, in this case the first noun acts as an adjective, e.g. Demir kapı (iron gate), elma yanak ("apple cheek", i.e. red cheek), kömür göz ("coal eye", i.e. black eye) :
+
+5.3. Adjectives
+
+Turkish adjectives are not declined. However most adjectives can also be used as nouns, in which case they are declined: e.g. güzel ("beautiful") → güzeller ("(the) beautiful ones / people"). Used attributively, adjectives precede the nouns they modify. The adjectives var ("existent") and yok ("non-existent") are used in many cases where English would use "there is" or "have", e.g. süt yok ("there is no milk", lit. "(the) milk (is) non-existent"); the construction "noun 1-GEN noun 2-POSS var/yok" can be translated "noun 1 has/doesn't have noun 2"; imparatorun elbisesi yok "the emperor has no clothes" ("(the) emperor-of clothes-his non-existent"); kedimin ayakkabıları yoktu ("my cat had no shoes", lit. "cat-my-of shoe-plur.-its non-existent-past tense").
+
+5.4. Verbs
+
+Turkish verbs indicate person. They can be made negative, potential ("can"), or impotential ("cannot"). Furthermore, Turkish verbs show tense (present, past, future, and aorist), mood (conditional, imperative, inferential, necessitative, and optative), and aspect. Negation is expressed by the infix -me²- immediately following the stem.
+
+Almost all Turkish verbs are conjugated in the same way, most notable exception being the irregular and defective verb i-, the Turkish copula (corresponding to English to be), which can be used in compound forms (the shortened form is called an enclitic): Gelememişti = Gelememiş idi = Gelememiş + i- + -di.
+
+5.5. Verb tenses
+
+There are 9 simple and 20 compound tenses in Turkish. 9 simple tenses are simple past (di'li geçmiş), inferential past (miş'li geçmiş), present continuous, simple present (aorist), future, wish, demand, necessitative ("must") and order. There are three groups of compound forms. Story (hikaye) is the witnessed past of the above forms (except command), rumor (rivayet) is the unwitnessed past of the above forms (except inferential past and command), conditional wish (koşul) is the conditional form of the first five basic tenses. In the example below the second person singular of the verb git ("go") is shown.
+
+There are also so-called combined verbs, which are created by adding certain verbs (like bil or ver) to the stem of the verb. Bil is the sufficiency mood. It is the equivalent of English auxiliary verbs "able to", "can" or "may". Ver is the swiftness, kal is the perpetuity and yaz is the approach ("almost") moods. Thus while gittin is "you went", gidebildin is "you could go" and gidiverdin is "you went swiftly". The tenses of the combined verbs are the same as the other verbs.
+
+5.5.1. Attributive verbs (participles)
+
+Turkish verbs have attributive forms, including present (with the ending -en²), future (-ecek²), indirect/inferential past (-miş4), and aorist (-er² or -ir4). These forms can function as either adjectives or nouns: oynamayan çocuklar "children who do not play", oynamayanlar "those who do not play"; okur yazar "reader-writer = literate", okur yazarlar "literates".
+
+The most important function of attributive verbs is to form modifying phrases equivalent to the relative clauses found in most European languages. The attributive forms used in these constructions are the future (-ecek²) and an older form (-dik4), which covers both present and past meanings. The use of these "personal or relative participles" is illustrated in the following table, in which the examples are presented according to the grammatical case which would be seen in the equivalent English relative clause.
+
+5.6. Word order
+
+Word order in simple Turkish sentences is generally subject–object–verb, as in Korean and Latin, but unlike English. In more complex sentences, the basic rule is that the qualifier precedes the qualified: this principle includes, as an important special case, the participial modifiers discussed above. The definite precedes the indefinite: thus çocuğa hikâyeyi anlattı "she told the child the story", but hikâyeyi bir çocuğa anlattı "she told the story to a child".
+
+It is possible to alter the word order to stress the importance of a certain word or phrase. The main rule is that the word before the verb has the stress without exception. For example, if one wants to say "Hakan went to school" with a stress on the word "school" (okul, the indirect object) it would be "Hakan okula gitti". If the stress is to be placed on "Hakan" (the subject), it would be "Okula Hakan gitti" which means "it's Hakan who went to school".
+
+6. Vocabulary
+
+Latest 2010 edition of Büyük Türkçe Sözlük (Great Turkish Dictionary), the official dictionary of the Turkish language published by Turkish Language Association, contains 616,767 words, expressions, terms and nouns.
+
+The 2005 edition of Güncel Türkçe Sözlük, the official dictionary of the Turkish language published by Turkish Language Association, contains 104,481 words, of which about 86% are Turkish and 14% are of foreign origin. Among the most significant foreign contributors to Turkish vocabulary are Arabic, French, Persian, Italian, English, and Greek.
+
+6.1. Word formation
+
+Turkish extensively uses agglutination to form new words from nouns and verbal stems. The majority of Turkish words originate from the application of derivative suffixes to a relatively small set of core vocabulary.
+
+An example set of words derived from a substantive root:
+
+Another example, starting from a verbal root:
+
+New words are also frequently formed by compounding two existing words into a new one, as in German. A few examples of compound words are given below:
+
+7. Writing system
+
+Turkish is written using a Latin alphabet introduced in 1928 by Atatürk to replace the Ottoman Turkish alphabet, a version of Perso-Arabic alphabet. The Ottoman alphabet marked only three different vowels—long ā, ū and ī—and included several redundant consonants, such as variants of z (which were distinguished in Arabic but not in Turkish). The omission of short vowels in the Arabic script was claimed to make it particularly unsuitable for Turkish, which has eight vowels.
+
+The reform of the script was an important step in the cultural reforms of the period. The task of preparing the new alphabet and selecting the necessary modifications for sounds specific to Turkish was entrusted to a Language Commission composed of prominent linguists, academics, and writers. The introduction of the new Turkish alphabet was supported by public education centers opened throughout the country, cooperation with publishing companies, and encouragement by Atatürk himself, who toured the country teaching the new letters to the public. As a result, there was a dramatic increase in literacy from its original Third World levels.
+
+The Latin alphabet was applied to the Turkish language for educational purposes even before the 20th-century reform. Instances include a 1635 Latin-Albanian dictionary by Frang Bardhi, who also incorporated several sayings in the Turkish language, as an appendix to his work (e.g. alma agatsdan irak duschamas – 'An apple does not fall far from its tree').
+
+Turkish now has an alphabet suited to the sounds of the language: the spelling is largely phonemic, with one letter corresponding to each phoneme. Most of the letters are used approximately as in English, the main exceptions being , which denotes ( being used for the found in Persian and European loans); and the undotted , representing . As in German, and represent and . The letter , in principle, denotes but has the property of lengthening the preceding vowel and assimilating any subsequent vowel. The letters and represent and , respectively. A circumflex is written over back vowels following , , or when these consonants represent , , and —almost exclusively in Arabic and Persian loans, An apostrophe is used to separate proper nouns from inflectional suffixes: e.g. 'in Istanbul' (but not from derivational suffixes, e.g. 'from/of Istanbul').
+
+The Turkish alphabet consists of 29 letters (q, x, w omitted and ç, ş, ğ, ı, ö, ü added) The complete list is,
+
+The specifically Turkish letters and spellings described above are illustrated in this table:
+
+8. Sample
+
+Dostlar Beni Hatırlasın by Aşık Veysel Şatıroğlu (1894–1973), a minstrel and highly regarded poet in the Turkish folk literature tradition.
+
+9. See also
+
+List of English words of Turkic origin
+
+Sun Language Theory
+
+Turkish Language Olympiads
+
+Turkish name
+
+Turkish Sign Language
+
+10. Citations
+
+Details of the sources cited only by the author's name are given in full in the References section.
+
+11. References
+
+Printed sources
+
+Glenny, Misha. The Balkans – Nationalism, War, and the Great Powers, 1804–1999, Penguin, New York 2001.
+
+(2nd edition 1989)
+
+On-line sources
+
+12. Further reading
+
+13. External links
+
+(from Wiktionary's )

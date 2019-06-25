@@ -1,0 +1,107 @@
+A learning object is "a collection of content items, practice items, and assessment items that are combined based on a single learning objective". The term is credited to Wayne Hodgins when he created a working group in 1994 bearing the name though the concept was first described by Gerard in 1967. Learning objects go by many names, including content objects, chunks, educational objects, information objects, intelligent objects, knowledge bits, knowledge objects, learning components, media objects, reusable curriculum components, nuggets, reusable information objects, reusable learning objects, testable reusable units of cognition, training components, and units of learning.
+
+Learning objects offer a new conceptualization of the learning process: rather than the traditional "several hour chunk", they provide smaller, self-contained, re-usable units of learning.
+
+They will typically have a number of different components, which range from descriptive data to information about rights and educational level. At their core, however, will be instructional content, practice, and assessment. A key issue is the use of metadata.
+
+Learning object design raises issues of portability, and of the object's relation to a broader learning management system.
+
+1. Definitions
+
+The Institute of Electrical and Electronics Engineers (IEEE) defines a learning object as "any entity, digital or non-digital, that may be used for learning, education or training".
+
+Chiappe defined Learning Objects as: "A digital self-contained and reusable entity, with a clear educational purpose, with at least three internal and editable components: content, learning activities and elements of context. The learning objects must have an external structure of information to facilitate their identification, storage and retrieval: the metadata."
+
+The following definitions focus on the relation between learning object and digital media. RLO-CETL, a British inter-university Learning Objects Center, defines "reusable learning objects" as "web-based interactive chunks of e-learning designed to explain a stand-alone learning objective". Daniel Rehak and Robin Mason define it as "a digitized entity which can be used, reused or referenced during technology supported learning".
+
+Adapting a definition from the Wisconsin Online Resource Center, Robert J. Beck suggests that learning objects have the following key characteristics:
+
+Learning objects are a new way of thinking about learning content. Traditionally, content comes in a several hour chunk. Learning objects are much smaller units of learning, typically ranging from 2 minutes to 15 minutes.
+
+Are self-contained – each learning object can be taken independently
+
+Are reusable – a single learning object may be used in multiple contexts for multiple purposes
+
+Can be aggregated – learning objects can be grouped into larger collections of content, including traditional course structures
+
+Are tagged with metadata – every learning object has descriptive information allowing it to be easily found by a search
+
+2. Components
+
+The following is a list of some of the types of information that may be included in a learning object and its metadata:
+
+General Course Descriptive Data, including: course identifiers, language of content (English, Spanish, etc.), subject area (Maths, Reading, etc.), descriptive text, descriptive keywords
+
+Life Cycle, including: version, status
+
+Instructional Content, including: text, web pages, images, sound, video
+
+Glossary of Terms, including: terms, definition, acronyms
+
+Quizzes and Assessments, including: questions, answers
+
+Rights, including: cost, copyrights, restrictions on Use
+
+Relationships to Other Courses, including prerequisite courses
+
+Educational Level, including: grade level, age range, typical learning time, and difficulty. [IEEE 1484.12.1:2002]
+
+Typology as defined by Churchill (2007): presentation, practice, simulation, conceptual models, information, and contextual representation
+
+3. Metadata
+
+One of the key issues in using learning objects is their identification by search engines or content management systems. This is usually facilitated by assigning descriptive learning object metadata. Just as a book in a library has a record in the card catalog, learning objects must also be tagged with metadata. The most important pieces of metadata typically associated with a learning object include:
+
+objective: The educational objective the learning object is instructing
+
+prerequisites: The list of skills (typically represented as objectives) which the learner must know before viewing the learning object
+
+topic: Typically represented in a taxonomy, the topic the learning object is instructing
+
+interactivity: The Interaction Model of the learning object.
+
+technology requirements: The required system requirements to view the learning object.
+
+4. Mutability
+
+A mutated learning object is, according to Michael Shaw, a learning object that has been "re-purposed and/or re-engineered, changed or simply re-used in some way different from its original intended design". Shaw also introduces the term "contextual learning object", to describe a learning object that has been "designed to have specific meaning and purpose to an intended learner".
+
+5. Portability
+
+Before any institution invests a great deal of time and energy into building high-quality e-learning content (which can cost over $10,000 per classroom hour), it needs to consider how this content can be easily loaded into a Learning Management System. It is possible for example, to package learning objects with SCORM specification and load it in Moodle Learning Management System or Desire2Learn Learning Environment.
+
+If all of the properties of a course can be precisely defined in a common format, the content can be serialized into a standard format such as XML and loaded into other systems. When it is considered that some e-learning courses need to include video, mathematical equations using MathML, chemistry equations using CML and other complex structures, the issues become very complex, especially if the systems needs to understand and validate each structure and then place it correctly in a database.
+
+6. Criticism
+
+In 2001, David Wiley criticized learning object theory in his paper, which is as, If a learning object is useful in a particular context, by definition it is not reusable in a different context. If a learning object is reusable in many contexts, it isn’t particularly useful in any. In , Norm Friesen, Canada Research Chair in E-Learning Practices at Thompson Rivers University, points out that the word neutrality in itself implies a state or position that is antithetical ... to pedagogy and teaching.
+
+7. See also
+
+Intelligent tutoring system
+
+North Carolina Learning Object Repository (NCLOR)
+
+Serious games
+
+8. References
+
+9. Further reading
+
+.
+
+.
+
+.
+
+Spanish Draf: .
+
+.
+
+.
+
+Churchill, D. (2007). Towards a useful classification of learning objects. Educational Technology Research & Development, 55(5), 479-497. Innayah: Creating An Audio Script with Learning Object, unpublished, 2013.
+
+10. External links
+
+The at Milwaukee's Center for International Education.

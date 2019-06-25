@@ -1,0 +1,295 @@
+Justice, in its broadest context, includes both the attainment of that which is just and the philosophical discussion of that which is just. The concept of justice is based on numerous fields, and many differing viewpoints and perspectives including the concepts of moral correctness based on ethics, rationality, law, religion, equity and fairness. Often, the general discussion of justice is divided into the realm of social justice as found in philosophy, theology and religion, and, procedural justice as found in the study and application of the law.
+
+The concept of justice differs in every culture. An early theory of justice was set out by the Ancient Greek philosopher Plato in his work The Republic. Throughout history various theories have been established. Advocates of divine command theory argue that justice issues from God. In the 1600s, theorists like John Locke argued for the theory of natural law. Thinkers in the social contract tradition argued that justice is derived from the mutual agreement of everyone concerned. In the 1800s, utilitarian thinkers including John Stuart Mill argued that justice is what has the best consequences. Theories of distributive justice concern what is distributed, between whom they are to be distributed, and what is the proper distribution. Egalitarians argued that justice can only exist within the coordinates of equality. John Rawls used a social contract argument to show that justice, and especially distributive justice, is a form of fairness. Property rights theorists (like Robert Nozick) also take a consequentialist view of distributive justice and argue that property rights-based justice maximizes the overall wealth of an economic system. Theories of retributive justice are concerned with punishment for wrongdoing. Restorative justice (also sometimes called "reparative justice") is an approach to justice that focuses on the needs of victims and offenders.
+
+1. Introductory understandings
+
+Understandings of justice differ in every culture, as cultures are usually dependent upon a shared history, mythology and/or religion. Each culture's ethics create values which influence the notion of justice. Although there can be found some justice principles that are one and the same in all or most of the cultures, these are insufficient to create a unitary justice apprehension.
+
+1.1. Harmony
+
+In his dialogue Republic, Plato uses Socrates to argue for justice that covers both the just person and the just City State. Justice is a proper, harmonious relationship between the warring parts of the person or city. Hence, Plato's definition of justice is that justice is the having and doing of what is one's own. A just man is a man in just the right place, doing his best and giving the precise equivalent of what he has received. This applies both at the individual level and at the universal level. A person's soul has three parts – reason, spirit and desire. Similarly, a city has three parts – Socrates uses the parable of the chariot to illustrate his point: a chariot works as a whole because the two horses’ power is directed by the charioteer. Lovers of wisdom – philosophers, in one sense of the term – should rule because only they understand what is good. If one is ill, one goes to a medic rather than a farmer, because the medic is expert in the subject of health. Similarly, one should trust one's city to an expert in the subject of the good, not to a mere politician who tries to gain power by giving people what they want, rather than what's good for them. Socrates uses the parable of the ship to illustrate this point: the unjust city is like a ship in open ocean, crewed by a powerful but drunken captain (the common people), a group of untrustworthy advisors who try to manipulate the captain into giving them power over the ship's course (the politicians), and a navigator (the philosopher) who is the only one who knows how to get the ship to port. For Socrates, the only way the ship will reach its destination – the good – is if the navigator takes charge.
+
+1.2. Divine command
+
+Advocates of divine command theory argue that justice, and indeed the whole of morality, is the authoritative command of God. Murder is wrong and must be punished, for instance, because, and only because, God commands that it be so.
+
+Divine command theory was famously questioned by Plato in his dialogue, Euthyphro. Called the Euthyphro dilemma, it goes as follows: "Is what is morally good commanded by God because it is morally good, or is it morally good because it is commanded by God?" The implication is that if the latter is true, then justice is arbitrary; if the former is true, then morality exists on a higher order than God, who becomes little more than a passer-on of moral knowledge.
+
+Many apologists have addressed the issue, typically by arguing that is it a false dilemma. For example, some Christian apologists argue that goodness is the very nature of God, and there is necessarily reflected in His commands. Another response, popularized in two contexts by Immanuel Kant and C. S. Lewis, is that it is deductively valid to argue that the existence of an objective morality implies the existence of God and vice versa.
+
+1.3. Natural law
+
+For advocates of the theory that justice is part of natural law (e.g., John Locke), it involves the system of consequences that naturally derives from any action or choice. In this, it is similar to the laws of physics: in the same way as the Third of Newton's laws of Motion requires that for every action there must be an equal and opposite reaction, justice requires according individuals or groups what they actually deserve, merit, or are entitled to. Justice, on this account, is a universal and absolute concept: laws, principles, religions, etc., are merely attempts to codify that concept, sometimes with results that entirely contradict the true nature of justice.
+
+1.4. Human creation
+
+In contrast to the understandings canvassed so far, justice may be understood as a human creation, rather than a discovery of harmony, divine command, or natural law. This claim can be understood in a number of ways, with the fundamental division being between those who argue that justice is the creation of some humans, and those who argue that it is the creation of all humans.
+
+1.4.1. Despotism and skepticism
+
+In Republic by Plato, the character Thrasymachus argues that justice is the interest of the strong—merely a name for what the powerful or cunning ruler has imposed on the people.
+
+1.4.2. Mutual agreement
+
+According to thinkers in the social contract tradition, justice is derived from the mutual agreement of everyone concerned; or, in many versions, from what they would agree to under hypothetical conditions including equality and absence of bias. This account is considered further below, under ‘Justice as fairness’. The absence of bias refers to an equal ground for all people concerned in a disagreement (or trial in some cases).
+
+1.5. Subordinate value
+
+According to utilitarian thinkers including John Stuart Mill, justice is not as fundamental as we often think. Rather, it is derived from the more basic standard of rightness, consequentialism: what is right is what has the best consequences (usually measured by the total or average welfare caused). So, the proper principles of justice are those that tend to have the best consequences. These rules may turn out to be familiar ones such as keeping contracts; but equally, they may not, depending on the facts about real consequences. Either way, what is important is those consequences, and justice is important, if at all, only as derived from that fundamental standard. Mill tries to explain our mistaken belief that justice is overwhelmingly important by arguing that it derives from two natural human tendencies: our desire to retaliate against those who hurt us, and our ability to put ourselves imaginatively in another's place. So, when we see someone harmed, we project ourselves into her situation and feel a desire to retaliate on her behalf. If this process is the source of our feelings about justice, that ought to undermine our confidence in them.
+
+2. Theories of distributive justice
+
+Theories of distributive justice need to answer three questions:
+
+What goods are to be distributed? Is it to be wealth, power, respect, some combination of these things?
+
+Between what entities are they to be distributed? Humans (dead, living, future), sentient beings, the members of a single society, nations?
+
+What is the proper distribution? Equal, meritocratic, according to social status, according to need, based on property rights and non-aggression? Distributive justice theorists generally do not answer questions of who has the right to enforce a particular favored distribution. On the other hand, property rights theorists argue that there is no "favored distribution." Rather, distribution should be based simply on whatever distribution results from lawful interactions or transactions (that is, transactions which are not illicit).
+
+This section describes some widely held theories of distributive justice, and their attempts to answer these questions.
+
+2.1. Social justice
+
+According to the egalitarian, justice can only exist within the coordinates of equality. This basic view can be elaborated in many ways, according to what goods are to be distributed—wealth, respect, opportunity—and what they are to be distributed equally between—individuals, families, nations, races, species. Commonly held egalitarian positions include demands for equality of opportunity. It affirms that freedom and justice without equality are hollow and that equality itself is the highest justice.
+
+At a cultural level, egalitarian theories have developed in sophistication and acceptance during the past two hundred years. Among the notable broadly egalitarian philosophies are socialism, left-libertarianism, and progressivism, all of which propound economic, political, and legal egalitarianism, respectively. Several egalitarian ideas enjoy wide support among intellectuals and in the general populations of many countries.
+
+One argument is that liberalism provides democracy with the experience of civic reformism. Without it, democracy loses any tie─argumentative or practical─to a coherent design of public policy endeavoring to provide the resources for the realization of democratic citizenship.
+
+2.2. Giving people what they deserve
+
+In one sense, theories of distributive justice may assert that everyone should get what they deserve. Theories disagree on the meaning of what is "deserved". The main distinction is between theories that argue the basis of just desserts ought to be held equally by everyone, and therefore derive egalitarian accounts of distributive justice—and theories that argue the basis of just desserts is unequally distributed on the basis of, for instance, hard work, and therefore derive accounts of distributive justice by which some should have more than others. This section deals with some popular theories of the second type.
+
+According to meritocratic theories, goods, especially wealth and social status, should be distributed to match individual merit, which is usually understood as some combination of talent and hard work. According to needs-based theories, goods, especially such basic goods as food, shelter and medical care, should be distributed to meet individuals' basic needs for them. Marxism can be regarded as a needs-based theory on some readings of Marx's slogan "from each according to his ability, to each according to his need". According to contribution-based theories, goods should be distributed to match an individual's contribution to the overall social good.
+
+2.3. Fairness
+
+In his A Theory of Justice, John Rawls used a social contract argument to show that justice, and especially distributive justice, is a form of fairness: an impartial distribution of goods. Rawls asks us to imagine ourselves behind a veil of ignorance that denies us all knowledge of our personalities, social statuses, moral characters, wealth, talents and life plans, and then asks what theory of justice we would choose to govern our society when the veil is lifted, if we wanted to do the best that we could for ourselves. We don’t know who in particular we are, and therefore can’t bias the decision in our own favour. So, the decision-in-ignorance models fairness, because it excludes selfish bias. Rawls argues that each of us would reject the utilitarian theory of justice that we should maximize welfare (see below) because of the risk that we might turn out to be someone whose own good is sacrificed for greater benefits for others. Instead, we would endorse Rawls's two principles of justice:
+
+Each person is to have an equal right to the most extensive total system of equal basic liberties compatible with a similar system of liberty for all.
+
+Social and economic inequalities are to be arranged so that they are both
+
+to the greatest benefit of the least advantaged, consistent with the just savings principle, and
+
+attached to offices and positions open to all under conditions of fair equality of opportunity. This imagined choice justifies these principles as the principles of justice for us, because we would agree to them in a fair decision procedure. Rawls's theory distinguishes two kinds of goods – (1) the good of liberty rights and (2) social and economic goods, i.e. wealth, income and power – and applies different distributions to them – equality between citizens for (1), equality unless inequality improves the position of the worst off for (2).
+
+2.4. Property rights
+
+In Anarchy, State, and Utopia, Robert Nozick argues that distributive justice is not a matter of the whole distribution matching an ideal pattern, but of each individual entitlement having the right kind of history. It is just that a person has some good (especially, some property right) if and only if they came to have it by a history made up entirely of events of two kinds:
+
+Just acquisition, especially by working on unowned things; and
+
+Just transfer, that is free gift, sale or other agreement, but not theft (i.e. by force or fraud). If the chain of events leading up to the person having something meets this criterion, they are entitled to it: that they possess it is just, and what anyone else does or doesn't have or need is irrelevant.
+
+On the basis of this theory of distributive justice, Nozick argues that all attempts to redistribute goods according to an ideal pattern, without the consent of their owners, are theft. In particular, redistributive taxation is theft.
+
+Some property rights theorists (like Nozick) also take a consequentialist view of distributive justice and argue that property rights based justice also has the effect of maximizing the overall wealth of an economic system. They explain that voluntary (non-coerced) transactions always have a property called Pareto efficiency. The result is that the world is better off in an absolute sense and no one is worse off. Such consequentialist property rights theorists argue that respecting property rights maximizes the number of Pareto efficient transactions in the world and minimized the number of non-Pareto efficient transactions in the world (i.e. transactions where someone is made worse off). The result is that the world will have generated the greatest total benefit from the limited, scarce resources available in the world. Further, this will have been accomplished without taking anything away from anyone unlawfully.
+
+2.5. Welfare-maximization
+
+According to the utilitarian, justice requires the maximization of the total or average welfare across all relevant individuals. This may require sacrifice of some for the good of others, so long as everyone's good is taken impartially into account. Utilitarianism, in general, argues that the standard of justification for actions, institutions, or the whole world, is impartial welfare consequentialism, and only indirectly, if at all, to do with rights, property, need, or any other non-utilitarian criterion. These other criteria might be indirectly important, to the extent that human welfare involves them. But even then, such demands as human rights would only be elements in the calculation of overall welfare, not uncrossable barriers to action.
+
+3. Theories of retributive justice
+
+Theories of retributive justice are concerned with punishment for wrongdoing, and need to answer three questions:
+
+why punish?
+
+who should be punished?
+
+what punishment should they receive? This section considers the two major accounts of retributive justice, and their answers to these questions. Utilitarian theories look forward to the future consequences of punishment, while retributive theories look back to particular acts of wrongdoing, and attempt to balance them with deserved punishment.
+
+3.1. Utilitarianism
+
+According to the utilitarian, as already noted, justice requires the maximization of the total or average welfare across all relevant individuals. Punishment fights crime in three ways:
+
+Deterrence. The credible threat of punishment might lead people to make different choices; well-designed threats might lead people to make choices that maximize welfare.
+
+Rehabilitation. Punishment might make bad people into better ones. For the utilitarian, all that 'bad person' can mean is 'person who's likely to cause bad things (like suffering)'. So, utilitarianism could recommend punishment that changes someone such that they are less likely to cause bad things.
+
+Security/Incapacitation. Perhaps there are people who are irredeemable causers of bad things. If so, imprisoning them might maximize welfare by limiting their opportunities to cause harm and therefore the benefit lies within protecting society. So, the reason for punishment is the maximization of welfare, and punishment should be of whomever, and of whatever form and severity, are needed to meet that goal. Worryingly, this may sometimes justify punishing the innocent, or inflicting disproportionately severe punishments, when that will have the best consequences overall (perhaps executing a few suspected shoplifters live on television would be an effective deterrent to shoplifting, for instance). It also suggests that punishment might turn out never to be right, depending on the facts about what actual consequences it has.
+
+3.2. Retributivism
+
+The retributivist will think the utilitarian's argument disastrously mistaken. If someone does something wrong, we must respond to it, and to him or her, as an individual not as a part of a calculation of overall welfare. To do otherwise is to disrespect him or her as an individual human being. If the crime had victims, it is to disrespect them, too. Wrongdoing must be balanced or made good in some way, and so the criminal deserves to be punished. It says that all guilty people, and only guilty people, deserve appropriate punishment. This matches some strong intuitions about just punishment: that it should be proportional to the crime, and that it should be of only and all of the guilty. However, it is sometimes argued that retributivism is merely revenge in disguise. However, there are differences between retribution and revenge: the former is impartial and has a scale of appropriateness, whereas the latter is personal and potentially unlimited in scale.
+
+3.3. Restorative justice
+
+Restorative justice (also sometimes called "reparative justice") is an approach to justice that focuses on the needs of victims and offenders, instead of satisfying abstract legal principles or punishing the offender. Victims take an active role in the process, while offenders are encouraged to take responsibility for their actions, "to repair the harm they've done—by apologizing, returning stolen money, or community service". It is based on a theory of justice that considers crime and wrongdoing to be an offense against an individual or community rather than the state. Restorative justice that fosters dialogue between victim and offender shows the highest rates of victim satisfaction and offender accountability.
+
+3.4. Mixed theories
+
+Some modern philosophers have argued that Utilitarian and Retributive theories are not mutually exclusive. For example, Andrew von Hirsch, in his 1976 book Doing Justice, suggested that we have a moral obligation to punish greater crimes more than lesser ones. However, so long as we adhere to that constraint then utilitarian ideals would play a significant secondary role.
+
+4. Selected theories
+
+4.1. Rawls' theory of justice
+
+It has been argued that ‘systematic’ or ‘programmatic’ political and moral philosophy in the West begins, in Plato’s Republic, with the question, ‘What is Justice?’ According to most contemporary theories of justice, justice is overwhelmingly important: John Rawls claims that "Justice is the first virtue of social institutions, as truth is of systems of thought." In classical approaches, evident from Plato through to Rawls, the concept of ‘justice’ is always construed in logical or ‘etymological’ opposition to the concept of injustice. Such approaches cite various examples of injustice, as problems which a theory of justice must overcome. A number of post-World War II approaches do, however, challenge that seemingly obvious dualism between those two concepts. Justice can be thought of as distinct from benevolence, charity, prudence, mercy, generosity, or compassion, although these dimensions are regularly understood to also be interlinked. Justice is the concept of cardinal virtues, of which it is one. Metaphysical justice has often been associated with concepts of fate, reincarnation or Divine Providence, i.e., with a life in accordance with a cosmic plan. The association of justice with fairness is thus historically and culturally inalienable.
+
+4.2. Equality before the law
+
+Law raises important and complex issues concerning equality, fairness, and justice. There is an old saying that 'All are equal before the law'. The author Anatole France said in 1894, "In its majestic equality, the law forbids rich and poor alike to sleep under bridges, beg in the streets, and steal loaves of bread." The belief in equality before the law is called legal egalitarianism.
+
+4.3. Classical liberalism
+
+Equality before the law is one of the basic principles of classical liberalism. Classical liberalism calls for equality before the law, not for equality of outcome. Classical liberalism opposes pursuing group rights at the expense of individual rights.
+
+4.4. Religious justice
+
+4.4.1. Judeo-Christianity
+
+Jews and Christians traditionally believe that justice is a present, real, right, and, specifically, governing concept along with mercy, and that justice is ultimately derived from and held by God. According to the Bible, such institutions as the Mosaic Law were created by God to require the Israelites to live by and apply His standards of justice.
+
+The Hebrew Bible describes God as saying about the Judeo-Christian patriarch Abraham: "No, for I have chosen him, that he may charge his children and his household after him to keep the way of the Lord by doing righteousness and justice;...." (Genesis 18:19, NRSV). The Psalmist describes God as having "Righteousness and justice [as] the foundation of [His] throne;...." (Psalms 89:14, NRSV).
+
+The New Testament also describes God and Jesus Christ as having and displaying justice, often in comparison with God displaying and supporting mercy (Matthew 5:7).
+
+4.5. Theories of sentencing
+
+In criminal law, a sentence forms the final explicit act of a judge-ruled process, and also the symbolic principal act connected to his function. The sentence can generally involve a decree of imprisonment, a fine and/or other punishments against a defendant convicted of a crime. Laws may specify the range of penalties that can be imposed for various offenses, and sentencing guidelines sometimes regulate what punishment within those ranges can be imposed given a certain set of offense and offender characteristics. The most common purposes of sentencing in legal theory are:
+
+In civil cases the decision is usually known as a verdict, or judgment, rather than a sentence. Civil cases are settled primarily by means of monetary compensation for harm done ("damages") and orders intended to prevent future harm (for example injunctions). Under some legal systems an award of damages involves some scope for retribution, denunciation and deterrence, by means of additional categories of damages beyond simple compensation, covering a punitive effect, social disapprobation, and potentially, deterrence, and occasionally disgorgement (forfeit of any gain, even if no loss was caused to the other party).
+
+4.6. Evolutionary perspectives
+
+Evolutionary ethics and an argued evolution of morality suggest evolutionary bases for the concept of justice. Biosocial criminology research argues that human perceptions of what is appropriate criminal justice are based on how to respond to crimes in the ancestral small-group environment and that these responses may not always be appropriate for today's societies.
+
+4.7. Reactions to fairness
+
+Studies at UCLA in 2008 have indicated that reactions to fairness are "wired" into the brain and that, "Fairness is activating the same part of the brain that responds to food in rats... This is consistent with the notion that being treated fairly satisfies a basic need". Research conducted in 2003 at Emory University involving capuchin monkeys demonstrated that other cooperative animals also possess such a sense and that "inequity aversion may not be uniquely human" indicating that ideas of fairness and justice may be instinctual in nature.
+
+4.8. Institutions and justice
+
+In a world where people are interconnected but they disagree, institutions are required to instantiate ideals of justice. These institutions may be justified by their approximate instantiation of justice, or they may be deeply unjust when compared with ideal standards — consider the institution of slavery. Justice is an ideal the world fails to live up to, sometimes due to deliberate opposition to justice despite understanding, which could be disastrous. The question of institutive justice raises issues of legitimacy, procedure, codification and interpretation, which are considered by legal theorists and by philosophers of law.
+
+5. See also
+
+Adl (Arabic for Justice in Islam)
+
+Criminal justice
+
+Ethics
+
+Global justice
+
+International Court of Justice
+
+International Criminal Court
+
+Just war
+
+Just-world phenomenon
+
+Justice (economics)
+
+Morality
+
+Napoleonic code
+
+Rationality
+
+Rule according to higher law
+
+Rule of law
+
+Sociology of law
+
+Teaching for social justice
+
+A Theory of Justice by John Rawls
+
+Commutative justice
+
+Distributive justice
+
+Occupational injustice
+
+Organizational justice
+
+Poetic justice
+
+Restorative justice
+
+Retributive justice
+
+Social justice
+
+Spatial justice
+
+Injustice
+
+Social injustice
+
+6. References
+
+7. Further reading
+
+Anthony Duff & David Garland eds, A Reader on Punishment (Oxford: Oxford University Press, 1994)
+
+Barzilai Gad, Communities and Law: Politics and Cultures of Legal Identities (Ann Arbor: University of Michigan Press, 2003)
+
+Brian Barry, Theories of Justice (Berkeley: University of California Press, 1989)
+
+C. L. Ten, Crime, Guilt, and Punishment: A philosophical introduction (Oxford: Clarendon Press, 1987)
+
+Colin Farrelly, An Introduction to Contemporary Political Theory (London: Sage, 2004)
+
+David Gauthier, Morals By Agreement (Oxford: Clarendon Press, 1986)
+
+James Konow (2003) "Which Is the Fairest One of All? A Positive Analysis of Justice Theories", Journal of Economic Literature, 41(4),
+
+David Schmidtz, Elements of Justice (New York: Columbia University Press, 2006)
+
+Harry Brighouse, Justice (Cambridge: Polity Press, 2004)
+
+John Rawls, A Theory of Justice (revised edition, Oxford: Oxford University Press, 1999)
+
+John Stuart Mill, Utilitarianism in On Liberty and Other Essays ed. John Gray (Oxford: Oxford University Press, 1991)
+
+Nicola Lacey, State Punishment (London: Routledge, 1988)
+
+Peter Singer ed., A Companion to Ethics (Oxford: Blackwell, 1993), Part IV
+
+Plato, Republic trans. Robin Waterfield (Oxford: Oxford University Press, 1994)
+
+Robert E. Goodin & Philip Pettit eds, Contemporary Political Philosophy: An anthology (2nd edition, Malden, Massachusetts: Blackwell, 2006), Part III
+
+Robert Nozick, Anarchy, State, and Utopia (Oxford: Blackwell, 1974)
+
+Serge Guinchard, La justice et ses institutions (Judicial institutions), Dalloz editor, 12 edition, 2013
+
+Ted Honderich, Punishment: The supposed justifications (London: Hutchinson & Co., 1969)
+
+Will Kymlicka, Contemporary Political Philosophy: An introduction (2nd edition, Oxford: Oxford University Press, 2002)
+
+Reinhold Zippelius, Rechtsphilosophie, §§ 11-22 (6th edition, Munich:C.H. Beck, 2011), ISBN 978-3-406-61191-9
+
+Eric Heinze, The Concept of Injustice (Routledge, 2013)
+
+8. External links
+
+Internet Encyclopedia of Philosophy entries:
+
+, by Michael Allingham
+
+, by Kevin Murtagh
+
+, by Wayne P. Pomerleau
+
+Stanford Encyclopedia of Philosophy entries:
+
+, by Julian Lamont
+
+, by Michael Slote
+
+, by Hugo Adam Bedau and Erin Kelly
+
+, on the relationship between informal/community justice, the rule of law and the United Nations
+
+YouTube
+
+, a series of 12 videos on the subject of justice by Harvard University's Michael Sandel, with reading materials and comments from participants.

@@ -1,0 +1,49 @@
+Vertical Interval Timecode (VITC, pronounced "vitsee" or "vits") is a form of SMPTE timecode embedded as a pair of black-and-white bars in a video signal. These lines are typically inserted into the vertical blanking interval of the video signal. There can be more than one VITC pair in a single frame of video: this can be used to encode extra data that will not fit in a standard timecode frame.
+
+VITC contains the same payload as SMPTE linear timecode frame embedded in a new frame structure with extra synchronization bits and an error-detection checksum. The VITC code is always repeated on two adjacent video lines, one in each field. This internal redundancy is exploited by VITC readers, in addition to the standard timecode "flywheel" algorithm.
+
+A video frame may contain more than one VITC code if necessary, recorded on different line-pairs. This is often used in production, where different entities may want to encode different sets of time-code metadata on the same tape.
+
+As a practical matter, VITC can be more 'frame-accurate' than Linear timecode (LTC), particularly at very slow tape speeds on analog formats. LTC readers can lose track of code at slow jog speeds whereas VITC can be read frame-by-frame if need be. At high speeds (FF/REW), the VITC is often unreadable due to image distortions, so the LTC is often used instead. Some VCRs have an auto selection between the two formats to provide the highest accuracy.
+
+VITC is 90 bits long: 32 bits of time code, 32 bits of user data, 18 synchronization bits, and 8 bits of checksum:
+
+Bit 14 is set to 1 if drop frame numbering is in use; frame numbers 0 and 1 are skipped during the first second of every minute, except multiples of 10 minutes. This converts 30 frame/second time code to the 29.97 frame/second NTSC standard.
+
+Bit 15, the color framing bit, is set to 1 if the time code is synchronized to a (color) video signal. The frame number modulo 2 (for NTSC and SECAM) or modulo 4 (for PAL) should be preserved across cuts in order to avoid phase jumps in the chrominance subcarrier.
+
+Bit 35, the "bi-phase mark-correction bit" is set the same as in linear timecode, providing odd parity over the 64 time code and user bits. Bits 55 and 75, the "binary group flag" bits, indicate the format of the user bits. Their weighted sum is a number from 0 to 3. 0 indicates no (or unspecified) format, while 1 indicates 4 8-bit characters. Values of 2 and 3 (i.e. bit 75 set) are reserved.
+
+Bit 74 is unassigned, should always be transmitted as zero, and ignored on reception.
+
+The CRC in bits 82–89 is a simple bytewise XOR of the previous 82 bits (including the sync bits), which can be described as a CRC with generator polynomial x8+1. The exact nature of the color frame sequence depends on the video standard being used. In the case of the three main composite video standards, PAL video has an 8-field (4 frame) color frame sequence, and NTSC and SECAM both have 4-field (2 frame) color frame sequences.
+
+Preserving the color framing sequence of video across edits and between channels in video effects was an important issue in early analog composite videotape editing systems, as cuts between different color sequences would cause jumps in subcarrier phase, and mixing two signals of different field dominance would result in color artifacts on the part of the signal that was not in sync with the output color frame sequence.
+
+To help prevent these problems, SMPTE time code contains a color framing bit, which can be used to indicate that the video material the timecode refers to follows a standard convention regarding the synchronization of video time code and the color framing sequence. If the color framing bit was set in both types of material, the editing system could then always ensure that color framing was preserved by constraining edit decisions between input sources to keep the correct relationship between the timecode sequences, and hence the color framing sequences.ion bit" is set the same as in linear timecode, providing odd parity over the 64 time code and user bits.
+
+Bits 55 and 75, the "binary group flag" bits, indicate the format of the user bits. Their weighted sum is a number from 0 to 3. 0 indicates no (or unspecified) format, while 1 indicates 4 8-bit characters. Values of 2 and 3 (i.e. bit 75 set) are reserved.
+
+Bit 74 is unassigned, should always be transmitted as zero, and ignored on reception.
+
+The CRC in bits 82–89 is a simple bytewise XOR of the previous 82 bits (including the sync bits), which can be described as a CRC with generator polynomial x8+1.
+
+1. See also
+
+Related technologies and standards
+
+Linear timecode
+
+Burnt-in timecode
+
+CTL timecode
+
+MIDI timecode
+
+AES-EBU embedded timecode
+
+Rewritable consumer timecode
+
+2. References
+
+3. External links

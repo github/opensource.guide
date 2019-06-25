@@ -1,0 +1,437 @@
+The Kyoto Protocol is an international treaty, which extends the 1992 United Nations Framework Convention on Climate Change (UNFCCC) that commits State Parties to reduce greenhouse gases emissions, based on the premise that (a) global warming exists and (b) man-made CO2 emissions have caused it. The Kyoto Protocol was adopted in Kyoto, Japan, on 11 December 1997 and entered into force on 16 February 2005. There are currently 192 Parties (Canada withdrew effective December 2012) to the Protocol. The Kyoto Protocol implemented the objective of the UNFCCC to fight global warming by reducing greenhouse gas concentrations in the atmosphere to 'a level that would prevent dangerous anthropogenic interference with the climate system' (Art. 2). The Protocol is based on the principle of common but differentiated responsibilities: it puts the obligation to reduce current emissions on developed countries on the basis that they are historically responsible for the current levels of greenhouse gases in the atmosphere.
+
+The Protocol’s first commitment period started in 2008 and ended in 2012. A second commitment period was proposed in 2012, known as the Doha Amendment, in which 37 countries have binding targets: Australia, the European Union (and its 28 member states), Belarus, Iceland, Kazakhstan, Liechtenstein, Norway, Switzerland, and Ukraine. Belarus, Kazakhstan and Ukraine have stated that they may withdraw from the Protocol or not put into legal force the Amendment with second round targets. Japan, New Zealand, and Russia have participated in Kyoto's first-round but have not taken on new targets in the second commitment period. Other developed countries without second-round targets are Canada (which withdrew from the Kyoto Protocol in 2012) and the United States (which has not ratified the Protocol). Only certain European states have committed to further CO2 reductions than in the first period. These targets add up to an average five percent emissions reduction compared to 1990 levels over the five-year period 2008 to 2012.
+
+Negotiations were held in Paris in 2014 to agree on a post-Kyoto legal framework that would obligate all major polluters to pay for CO2 emissions. China, India, and the United States have all signaled that they will not ratify any treaty that will commit them legally to reduce CO2 emissions.
+
+1. Background
+
+The view that human activities are likely responsible for most of the observed increase in global mean temperature ("global warming") since the mid-20th century is an accurate reflection of current scientific thinking. Human-induced warming of the climate is expected to continue throughout the 21st century and beyond.
+
+The Intergovernmental Panel on Climate Change (IPCC, 2007) have produced a range of projections of what the future increase in global mean temperature might be. The IPCC's projections are "baseline" projections, meaning that they assume no future efforts are made to reduce greenhouse gas emissions. The IPCC projections cover the time period from the beginning of the 21st century to the end of the 21st century. The "likely" range (as assessed to have a greater than 66% probability of being correct, based on the IPCC's expert judgement) is a projected increased in global mean temperature over the 21st century of between 1.1 and 6.4 °C.
+
+The range in temperature projections partly reflects different projections of future greenhouse gas emissions. Different projections contain different assumptions of future social and economic development (e.g., economic growth, population level, energy policies), which in turn affects projections of future greenhouse gas (GHG) emissions. The range also reflects uncertainty in the response of the climate system to past and future GHG emissions (measured by the climate sensitivity).
+
+1.1. Chronology
+
+1992 The UN Conference on the Environment and Development is held in Rio de Janeiro. It results in the Framework Convention on Climate Change among other agreements.
+
+1995 Parties to the UNFCCC meet in Berlin (the 1st Conference of Parties (COP) to the UNFCCC) to outline specific targets on emissions.
+
+1997 In December the parties conclude the Kyoto Protocol in Kyoto, Japan, in which they agree to the broad outlines of emissions targets.
+
+2002 Russia and Canada ratify the Kyoto Protocol to the UNFCCC bringing the treaty into effect on 16 February 2005.
+
+2011 Canada became the first signatory to announce its withdrawal from the Kyoto Protocol.
+
+2012 On 31 December 2012, the Protocol expired.
+
+1.2. Article 2 of the UNFCCC
+
+Most countries are Parties to the United Nations Framework Convention on Climate Change (UNFCCC). Article 2 of the Convention states its ultimate objective, which is to stabilize the concentration of greenhouse gases in the atmosphere "at a level that would prevent dangerous anthropogenic (i.e., human) interference with the climate system." The natural, technical, and social sciences can provide information on decisions relating to this objective, e.g., the possible magnitude and rate of future climate changes. However, the IPCC has also concluded that the decision of what constitutes "dangerous" interference requires value judgements, which will vary between different regions of the world. Factors that might affect this decision include the local consequences of climate change impacts, the ability of a particular region to adapt to climate change (adaptive capacity), and the ability of a region to reduce its GHG emissions (mitigative capacity).
+
+2. Objectives
+
+The main goal of the Kyoto Protocol is to contain emissions of the main anthropogenic (i.e., human-emitted) greenhouse gases (GHGs) in ways that reflect underlying national differences in GHG emissions, wealth, and capacity to make the reductions. The treaty follows the main principles agreed in the original 1992 UN Framework Convention. According to the treaty, in 2012, Annex I Parties who have ratified the treaty must have fulfilled their obligations of greenhouse gas emissions limitations established for the Kyoto Protocol's first commitment period (2008–2012). These emissions limitation commitments are listed in Annex B of the Protocol.
+
+The Kyoto Protocol's first round commitments are the first detailed step taken within the UN Framework Convention on Climate Change (Gupta et al., 2007). The Protocol establishes a structure of rolling emission reduction commitment periods. It set a timetable starting in 2006 for negotiations to establish emission reduction commitments for a second commitment period (see Kyoto Protocol#Successor for details). The first period emission reduction commitments expired on 31 December 2012.
+
+The ultimate objective of the UNFCCC is the "stabilization of greenhouse gas concentrations in the atmosphere at a level that would stop dangerous anthropogenic interference with the climate system." Even if Annex I Parties succeed in meeting their first-round commitments, much greater emission reductions will be required in future to stabilize atmospheric GHG concentrations.
+
+For each of the different anthropogenic GHGs, different levels of emissions reductions would be required to meet the objective of stabilizing atmospheric concentrations (see United Nations Framework Convention on Climate Change#Stabilization of greenhouse gas concentrations). Carbon dioxide () is the most important anthropogenic GHG. Stabilizing the concentration of in the atmosphere would ultimately require the effective elimination of anthropogenic emissions.
+
+Some of the principal concepts of the Kyoto Protocol are:
+
+Binding commitments for the Annex I Parties. The main feature of the Protocol is that it established legally binding commitments to reduce emissions of greenhouse gases for Annex I Parties. The commitments were based on the Berlin Mandate, which was a part of UNFCCC negotiations leading up to the Protocol.
+
+Implementation. In order to meet the objectives of the Protocol, Annex I Parties are required to prepare policies and measures for the reduction of greenhouse gases in their respective countries. In addition, they are required to increase the absorption of these gases and utilize all mechanisms available, such as joint implementation, the clean development mechanism and emissions trading, in order to be rewarded with credits that would allow more greenhouse gas emissions at home.
+
+Minimizing Impacts on Developing Countries by establishing an adaptation fund for climate change.
+
+Accounting, Reporting and Review in order to ensure the integrity of the Protocol.
+
+Compliance. Establishing a Compliance Committee to enforce compliance with the commitments under the Protocol.
+
+3. First commitment period: 2008–12
+
+Under the Kyoto Protocol, 37 industrialized countries and the European Community (the European Union-15, made up of 15 states at the time of the Kyoto negotiations) commit themselves to binding targets for GHG emissions. The targets apply to the four greenhouse gases carbon dioxide (), methane (), nitrous oxide (), sulphur hexafluoride (), and two groups of gases, hydrofluorocarbons (HFCs) and perfluorocarbons (PFCs). The six GHG are translated into CO2 equivalents in determining reductions in emissions. These reduction targets are in addition to the industrial gases, chlorofluorocarbons, or CFCs, which are dealt with under the 1987 Montreal Protocol on Substances that Deplete the Ozone Layer.
+
+Under the Protocol, only the Annex I Parties have committed themselves to national or joint reduction targets (formally called "quantified emission limitation and reduction objectives" (QELRO) – Article 4.1). Parties to the Kyoto Protocol not listed in Annex I of the Convention (the non-Annex I Parties) are mostly low-income developing countries, and may participate in the Kyoto Protocol through the Clean Development Mechanism (explained below).
+
+The emissions limitations of Annex I Parties varies between different Parties. Some Parties have emissions limitations reduce below the base year level, some have limitations at the base year level (i.e., no permitted increase above the base year level), while others have limitations above the base year level.
+
+Emission limits do not include emissions by international aviation and shipping. Although Belarus and Turkey are listed in the Convention's Annex I, they do not have emissions targets as they were not Annex I Parties when the Protocol was adopted. Kazakhstan does not have a target, but has declared that it wishes to become an Annex I Party to the Convention.
+
+For most Parties, 1990 is the base year for the national GHG inventory and the calculation of the assigned amount. However, five Parties have an alternative base year:
+
+Bulgaria: 1988;
+
+Hungary: the average of the years 1985–87;
+
+Poland: 1988;
+
+Romania: 1989;
+
+Slovenia: 1986. Annex I Parties can use a range of sophisticated "flexibility" mechanisms (see below) to meet their targets. Annex I Parties can achieve their targets by allocating reduced annual allowances to major operators within their borders, or by allowing these operators to exceed their allocations by offsetting any excess through a mechanism that is agreed by all the parties to the UNFCCC, such as by buying emission allowances from other operators which have excess emissions credits.
+
+4. Flexibility mechanisms
+
+The Protocol defines three "flexibility mechanisms" that can be used by Annex I Parties in meeting their emission limitation commitments. The flexibility mechanisms are International Emissions Trading (IET), the Clean Development Mechanism (CDM), and Joint Implementation (JI). IET allows Annex I Parties to "trade" their emissions (Assigned Amount Units, AAUs, or "allowances" for short).
+
+The economic basis for providing this flexibility is that the marginal cost of reducing (or abating) emissions differs among countries. "Marginal cost" is the cost of abating the last tonne of -eq for an Annex I/non-Annex I Party. At the time of the original Kyoto targets, studies suggested that the flexibility mechanisms could reduce the overall (aggregate) cost of meeting the targets. Studies also showed that national losses in Annex I gross domestic product (GDP) could be reduced by use of the flexibility mechanisms.
+
+The CDM and JI are called "project-based mechanisms," in that they generate emission reductions from projects. The difference between IET and the project-based mechanisms is that IET is based on the setting of a quantitative restriction of emissions, while the CDM and JI are based on the idea of "production" of emission reductions. The CDM is designed to encourage production of emission reductions in non-Annex I Parties, while JI encourages production of emission reductions in Annex I Parties.
+
+The production of emission reductions generated by the CDM and JI can be used by Annex I Parties in meeting their emission limitation commitments. The emission reductions produced by the CDM and JI are both measured against a hypothetical baseline of emissions that would have occurred in the absence of a particular emission reduction project. The emission reductions produced by the CDM are called Certified Emission Reductions (CERs); reductions produced by JI are called Emission Reduction Units (ERUs). The reductions are called "credits" because they are emission reductions credited against a hypothetical baseline of emissions.
+
+Each Annex I country is required to submit an annual report of inventories of all anthropogenic greenhouse gas emissions from sources and removals from sinks under UNFCCC and the Kyoto Protocol. These countries nominate a person (called a "designated national authority") to create and manage its greenhouse gas inventory. Virtually all of the non-Annex I countries have also established a designated national authority to manage their Kyoto obligations, specifically the "CDM process". This determines which GHG projects they wish to propose for accreditation by the CDM Executive Board.
+
+4.1. International Emissions Trading
+
+A number of emissions trading schemes (ETS) have been, or are planned to be, implemented.
+
+4.1.1. Asia
+
+Japan: emissions trading in Tokyo started in 2010. This scheme is run by the Tokyo Metropolitan Government.
+
+4.1.2. Europe
+
+European Union: the European Union Emission Trading Scheme (EU ETS), which started in 2005. This is run by the European Commission.
+
+Norway: domestic emissions trading in Norway started in 2005. This was run by the Norwegian Government, which is now a participant in the EU ETS.
+
+Switzerland: the Swiss ETS, which runs from 2008 to 2012, to coincide with the Kyoto Protocol's first commitment period.
+
+United Kingdom:
+
+the UK Emissions Trading Scheme, which ran from 2002–06. This was a scheme run by the UK Government, which is now a participant in the EU ETS.
+
+the UK CRC Energy Efficiency Scheme, which started in 2010, and is run by the UK Government.
+
+4.1.3. North America
+
+Canada: emissions trading in Alberta, Canada, which started in 2007. This is run by the Government of Alberta.
+
+United States:
+
+the Regional Greenhouse Gas Initiative (RGGI), which started in 2009. This scheme caps emissions from power generation in ten north-eastern U.S. states (Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island and Vermont).
+
+emissions trading in California, which started in 2013.
+
+the Western Climate Initiative (WCI), which is planned to start in 2012. This is a collective ETS agreed between 11 U.S. states and Canadian provinces.
+
+4.1.4. Oceania
+
+Australia: the New South Wales Greenhouse Gas Reduction Scheme (NSW), which started in 2003. This scheme is run by the Australian State of New South Wales, and has now joined the Alfa Climate Stabilization (ACS).
+
+New Zealand: the New Zealand Emissions Trading Scheme, which started in 2008.
+
+4.1.5. Intergovernmental Emissions Trading
+
+The design of the European Union Emissions Trading Scheme (EU ETS) implicitly allows for trade of national Kyoto obligations to occur between participating countries (Carbon Trust, 2009, p. 24). Carbon Trust (2009, pp. 24–25) found that other than the trading that occurs as part of the EU ETS, no intergovernmental emissions trading had taken place.
+
+One of the environmental problems with IET is the large surplus of allowances that are available. Russia, Ukraine, and the new EU-12 member states (the Kyoto Parties Annex I Economies-in-Transition, abbreviated "EIT": Belarus, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Russia, Slovakia, Slovenia, and Ukraine) have a surplus of allowances, while many OECD countries have a deficit. Some of the EITs with a surplus regard it as potential compensation for the trauma of their economic restructuring. When the Kyoto treaty was negotiated, it was recognized that emissions targets for the EITs might lead to them having an excess number of allowances. This excess of allowances were viewed by the EITs as "headroom" to grow their economies. The surplus has, however, also been referred to by some as "hot air," a term which Russia (a country with an estimated surplus of 3.1 billion tonnes of carbon dioxide equivalent allowances) views as "quite offensive."
+
+OECD countries with a deficit could meet their Kyoto commitments by buying allowances from transition countries with a surplus. Unless other commitments were made to reduce the total surplus in allowances, such trade would not actually result in emissions being reduced (see also the section below on the Green Investment Scheme).
+
+4.1.6. Green Investment Scheme
+
+A Green Investment Scheme (GIS) refers to a plan for achieving environmental benefits from trading surplus allowances (AAUs) under the Kyoto Protocol. The Green Investment Scheme (GIS), a mechanism in the framework of International Emissions Trading (IET), is designed to achieve greater flexibility in reaching the targets of the Kyoto Protocol while preserving environmental integrity of IET. However, using the GIS is not required under the Kyoto Protocol, and there is no official definition of the term.
+
+Under the GIS a Party to the Protocol expecting that the development of its economy will not exhaust its Kyoto quota, can sell the excess of its Kyoto quota units (AAUs) to another Party. The proceeds from the AAU sales should be "greened", i.e. channeled to the development and implementation of the projects either acquiring the greenhouse gases emission reductions (hard greening) or building up the necessary framework for this process (soft greening).
+
+4.1.7. Trade in AAUs
+
+Latvia was one of the front-runners of GISs. World Bank (2011) reported that Latvia has stopped offering AAU sales because of low AAU prices. In 2010, Estonia was the preferred source for AAU buyers, followed by the Czech Republic and Poland.
+
+Japan's national policy to meet their Kyoto target includes the purchase of AAUs sold under GISs. In 2010, Japan and Japanese firms were the main buyers of AAUs. In terms of the international carbon market, trade in AAUs are a small proportion of overall market value. In 2010, 97% of trade in the international carbon market was driven by the European Union Emission Trading Scheme (EU ETS). However, firms regulated under the EU ETS are unable to use AAUs in meeting their emissions caps.
+
+4.1.8. Clean Development Mechanism
+
+Between 2001, which was the first year Clean Development Mechanism (CDM) projects could be registered, and 2012, the end of the first Kyoto commitment period, the CDM is expected to produce some 1.5 billion tons of carbon dioxide equivalent (CO2e) in emission reductions. Most of these reductions are through renewable energy commercialisation, energy efficiency, and fuel switching (World Bank, 2010, p. 262). By 2012, the largest potential for production of CERs are estimated in China (52% of total CERs) and India (16%). CERs produced in Latin America and the Caribbean make up 15% of the potential total, with Brazil as the largest producer in the region (7%).
+
+4.1.9. Joint Implementation
+
+The formal crediting period for Joint Implementation (JI) was aligned with the first commitment period of the Kyoto Protocol, and did not start until January 2008 (Carbon Trust, 2009, p. 20). In November 2008, only 22 JI projects had been officially approved and registered. The total projected emission savings from JI by 2012 are about one tenth that of the CDM. Russia accounts for about two-thirds of these savings, with the remainder divided up roughly equally between the Ukraine and the EU's New Member States. Emission savings include cuts in methane, HFC, and N2O emissions.
+
+5. Stabilization of GHG concentrations
+
+As noted earlier on, the first-round Kyoto emissions limitation commitments are not sufficient to stabilize the atmospheric concentration of GHGs. Stabilization of atmospheric GHG concentrations will require further emissions reductions after the end of the first-round Kyoto commitment period in 2012.
+
+5.1. Background
+
+Analysts have developed scenarios of future changes in GHG emissions that lead to a stabilization in the atmospheric concentrations of GHGs. Climate models suggest that lower stabilization levels are associated with lower magnitudes of future global warming, while higher stabilization levels are associated with higher magnitudes of future global warming (see figure opposite).
+
+To achieve stabilization, global GHG emissions must peak, then decline. The lower the desired stabilization level, the sooner this peak and decline must occur (see figure opposite). For a given stabilization level, larger emissions reductions in the near term allow for less stringent emissions reductions later on. On the other hand, less stringent near term emissions reductions would, for a given stabilization level, require more stringent emissions reductions later on.
+
+The first period Kyoto emissions limitations can be viewed as a first-step towards achieving atmospheric stabilization of GHGs. In this sense, the first period Kyoto commitments may affect what future atmospheric stabilization level can be achieved.
+
+5.2. Relation to temperature targets
+
+At the 16th Conference of the Parties held in 2010, Parties to the UNFCCC agreed that future global warming should be limited below 2°C relative to the pre-industrial temperature level. One of the stabilization levels discussed in relation to this temperature target is to hold atmospheric concentrations of GHGs at 450 parts per million (ppm) - eq. Stabilization at 450 ppm could be associated with a 26 to 78% risk of exceeding the 2 °C target.
+
+Scenarios assessed by Gupta et al. (2007) suggest that Annex I emissions would need to be 25% to 40% below 1990 levels by 2020, and 80% to 95% below 1990 levels by 2050. The only Annex I Parties to have made voluntary pledges in line with this are Japan (25% below 1990 levels by 2020) and Norway (30-40% below 1990 levels by 2020).
+
+Gupta et al. (2007) also looked at what 450 ppm scenarios projected for non-Annex I Parties. Projections indicated that by 2020, non-Annex I emissions in several regions (Latin America, the Middle East, East Asia, and centrally planned Asia) would need to be substantially reduced below "business-as-usual". "Business-as-usual" are projected non-Annex I emissions in the absence of any new policies to control emissions. Projections indicated that by 2050, emissions in all non-Annex I regions would need to be substantially reduced below "business-as-usual".
+
+6. Details of the agreement
+
+The agreement is a protocol to the United Nations Framework Convention on Climate Change (UNFCCC) adopted at the Earth Summit in Rio de Janeiro in 1992, which did not set any legally binding limitations on emissions or enforcement mechanisms. Only Parties to the UNFCCC can become Parties to the Kyoto Protocol. The Kyoto Protocol was adopted at the third session of the Conference of Parties to the UNFCCC (COP 3) in 1997 in Kyoto, Japan.
+
+National emission targets specified in the Kyoto Protocol exclude international aviation and shipping. Kyoto Parties can use land use, land use change, and forestry (LULUCF) in meeting their targets. LULUCF activities are also called "sink" activities. Changes in sinks and land use can have an effect on the climate, and indeed the Intergovernmental Panel on Climate Change's Special Report on Land Use, Land-Use Change and Forestry estimates that since 1750 a third of global warming has been caused by land use change. Particular criteria apply to the definition of forestry under the Kyoto Protocol.
+
+Forest management, cropland management, grazing land management, and revegetation are all eligible LULUCF activities under the Protocol. Annex I Parties use of forest management in meeting their targets is capped.
+
+6.1. Negotiations
+
+Article 4.2 of the UNFCCC commits industrialized countries to "[take] the lead" in reducing emissions. The initial aim was for industrialized countries to stabilize their emissions at 1990 levels by the year 2000. The failure of key industrialized countries to move in this direction was a principal reason why Kyoto moved to binding commitments.
+
+At the first UNFCCC Conference of the Parties in Berlin, the G77 was able to push for a mandate (the "Berlin mandate") where it was recognized that:
+
+developed nations had contributed most to the then-current concentrations of GHGs in the atmosphere (see Greenhouse gas#Cumulative and historical emissions).
+
+developing country emissions per-capita (i.e., average emissions per head of population) were still relatively low.
+
+and that the share of global emissions from developing countries would grow to meet their development needs. During negotiations, the G-77 represented 133 developing countries. China was not a member of the group but an associate. It has since become a member.
+
+The Berlin mandate was recognized in the Kyoto Protocol in that developing countries were not subject to emission reduction commitments in the first Kyoto commitment period. However, the large potential for growth in developing country emissions made negotiations on this issue tense. In the final agreement, the Clean Development Mechanism was designed to limit emissions in developing countries, but in such a way that developing countries do not bear the costs for limiting emissions. The general assumption was that developing countries would face quantitative commitments in later commitment periods, and at the same time, developed countries would meet their first round commitments.
+
+6.1.1. Emissions cuts
+
+Views on the Kyoto Protocol#Commentaries on negotiations contains a list of the emissions cuts that were proposed by UNFCCC Parties during negotiations. The G77 and China were in favour of strong uniform emission cuts across the developed world. The U.S. originally proposed for the second round of negotiations on Kyoto commitments to follow the negotiations of the first. In the end, negotiations on the second period were set to open no later than 2005. Countries over-achieving in their first period commitments can "bank" their unused allowances for use in the subsequent period.
+
+The EU initially argued for only three GHGs to be included – , , and – with other gases such as HFCs regulated separately. The EU also wanted to have a "bubble" commitment, whereby it could make a collective commitment that allowed some EU members to increase their emissions, while others cut theirs.
+
+The most vulnerable nations – the Alliance of Small Island States (AOSIS) – pushed for deep uniform cuts by developed nations, with the goal of having emissions reduced to the greatest possible extent. Countries that had supported differentiation of targets had different ideas as to how it should be calculated, and many different indicators were proposed. Two examples include differentiation of targets based on gross domestic product (GDP), and differentiation based on energy intensity (energy use per unit of economic output).
+
+The final targets negotiated in the Protocol are the result of last minute political compromises. The targets closely match those decided by Argentinian Raul Estrada, the diplomat who chaired the negotiations. The numbers given to each Party by Chairman Estrada were based on targets already pledged by Parties, information received on latest negotiating positions, and the goal of achieving the strongest possible environmental outcome. The final targets are weaker than those proposed by some Parties, e.g., the Alliance of Small Island States and the G-77 and China, but stronger than the targets proposed by others, e.g., Canada and the United States.
+
+6.2. Financial commitments
+
+The Protocol also reaffirms the principle that developed countries have to pay billions of dollars, and supply technology to other countries for climate-related studies and projects. The principle was originally agreed in UNFCCC. One such project is The Adaptation Fund"", that has been established by the Parties to the Kyoto Protocol of the UN Framework Convention on Climate Change to finance concrete adaptation projects and programmes in developing countries that are Parties to the Kyoto Protocol.
+
+6.3. Implementational provisions
+
+The protocol left several issues open to be decided later by the sixth Conference of Parties COP6 of the UNFCCC, which attempted to resolve these issues at its meeting in the Hague in late 2000, but it was unable to reach an agreement due to disputes between the European Union (who favoured a tougher implementation) and the United States, Canada, Japan and Australia (who wanted the agreement to be less demanding and more flexible).
+
+In 2001, a continuation of the previous meeting (COP6bis) was held in Bonn where the required decisions were adopted. After some concessions, the supporters of the protocol (led by the European Union) managed to get the agreement of Japan and Russia by allowing more use of [[CO2 sink|carbon dioxide sinks]].
+
+COP7 was held from 29 October 2001 through 9 November 2001 in Marrakech to establish the final details of the protocol.
+
+The first Meeting of the Parties to the Kyoto Protocol (MOP1) was held in Montreal from 28 November to 9 December 2005, along with the 11th conference of the Parties to the UNFCCC (COP11). See United Nations Climate Change Conference.
+
+During COP13 in Bali 36 developed C.G. countries (plus the EU as a party in the European Union) agreed to a 10% emissions increase for Iceland; but, since the EU's member states each have individual obligations, much larger increases (up to 27%) are allowed for some of the less developed EU countries (see below Kyoto Protocol#Increase in greenhouse gas emission since 1990). Reduction limitations expire in 2013.
+
+6.4. Mechanism of compliance
+
+The protocol defines a mechanism of "compliance" as a "monitoring compliance with the commitments and penalties for non-compliance." According to Grubb (2003), the explicit consequences of non-compliance of the treaty are weak compared to domestic law. Yet, the compliance section of the treaty was highly contested in the Marrakesh Accords.
+
+6.5. Enforcement
+
+If the enforcement branch determines that an Annex I country is not in compliance with its emissions limitation, then that country is required to make up the difference during the second commitment period plus an additional 30%. In addition, that country will be suspended from making transfers under an emissions trading program.
+
+7. Ratification process
+
+The Protocol was adopted by COP 3 of UNFCC on 11 December 1997 in Kyoto, Japan. It was opened on 16 March 1998 for signature during one year by parties to UNFCCC, when it was signed Antigua and Barbuda, Argentina, the Maldives, Samoa, St. Lucia and Switzerland. At the end of the signature period, 82 countries and the European Community had signed. Ratification (which is required to become a party to the Protocol) started on 17 September with ratification of Fiji. Countries that did not sign acceded to the convention, which has the same legal effect.
+
+Article 25 of the Protocol specifies that the Protocol enters into force "on the ninetieth day after the date on which not less than 55 Parties to the Convention, incorporating Parties included in Annex I which accounted in total for at least 55% of the total carbon dioxide emissions for 1990 of the Annex I countries, have deposited their instruments of ratification, acceptance, approval or accession."
+
+The EU and its Member States ratified the Protocol in May 2002. Of the two conditions, the "55 parties" clause was reached on 23 May 2002 when Iceland ratified the Protocol. The ratification by Russia on 18 November 2004 satisfied the "55%" clause and brought the treaty into force, effective 16 February 2005, after the required lapse of 90 days.
+
+As of May 2013, 191 countries and one regional economic organization (the EC) have ratified the agreement, representing over 61.6% of the 1990 emissions from Annex I countries. One of the 191 ratifying states—Canada—has denounced the protocol.
+
+7.1. U.S. position
+
+The U.S. signed the Protocol on 12 November 1998, during the Clinton presidency. To become binding in the US, however, the treaty had to be ratified by the Senate, which had already passed the 1997 non-binding Byrd-Hagel Resolution, expressing disapproval of any international agreement that 1) did not require developing countries to make emission reductions and 2) "would seriously harm the economy of the United States". The resolution passed 95-0. Therefore, even though the Clinton administration signed the treaty, it was never submitted to the Senate for ratification.
+
+When George W. Bush was elected U.S. president in 2000, he was asked by U.S. Senator Hagel what his administration's position was on climate change. Bush replied that he took climate change "very seriously," but that he opposed the Kyoto treaty, because "it exempts 80% of the world, including major population centers such as China and India, from compliance, and would cause serious harm to the US economy". The Tyndall Centre for Climate Change Research reported in 2001 that, "This policy reversal received a massive wave of criticism that was quickly picked up by the international media. Environmental groups blasted the White House, while Europeans and Japanese alike expressed deep concern and regret. [...] Almost all world leaders (e.g. China, Japan, South Africa, Pacific Islands, etc.) expressed their disappointment at Bush’s decision." Bush's response that, "I was responding to reality, and reality is the nation has got a real problem when it comes to energy" was, it said, "an overstatement used to cover up the big benefactors of this policy reversal, i.e., the US oil and coal industry, which has a powerful lobby with the administration and conservative Republican congressmen."
+
+The U.S. accounted for 36% of emissions in 1990, and without U.S. ratification, only an EU+Russia+Japan+small party coalition could place the treaty into legal effect. A deal was reached in the Bonn climate talks (COP-6.5), held in 2001.
+
+7.2. Withdrawal of Canada
+
+In 2011, Canada, Japan and Russia stated that they would not take on further Kyoto targets. The Canadian government announced its withdrawal—possible at any time three years after ratification—from the Kyoto Protocol on 12 December 2011, effective 15 December 2012. Canada was committed to cutting its greenhouse emissions to 6% below 1990 levels by 2012, but in 2009 emissions were 17% higher than in 1990. Environment minister Peter Kent cited Canada's liability to "enormous financial penalties" under the treaty unless it withdrew. He also suggested that the recently signed Durban agreement may provide an alternative way forward. Canada's decision received a mixed response from representatives of other ratifying countries.
+
+7.3. Other states and territories where the treaty is not applicable
+
+Andorra, South Sudan, the United States and, following their withdrawal on 15 December 2012, Canada are the only UNFCCC Parties that are not party to the Protocol. Furthermore, the Protocol is not applied to UNFCCC observers Palestine and the Holy See. Although the Kingdom of the Netherlands approved the protocol for the whole Kingdom, it did not deposit an instrument of ratification for Aruba, Curaçao, Sint Maarten or the Caribbean Netherlands. The United Kingdom did not extend its ratification to Anguilla, British Virgin Islands, Montserrat, Pitcairn Islands, Saint Helena, Ascension and Tristan da Cunha, Turks and Caicos Islands or the Sovereign Base Areas of Akrotiri and Dhekelia, while Denmark excluded application to the Faroe Islands
+
+8. Government action and emissions
+
+8.1. Annex I countries
+
+Total aggregate GHG emissions excluding emissions/removals from land use, land use change and forestry (LULUCF, i.e., carbon storage in forests and soils) for all Annex I Parties (see list below) including the United States taken together decreased from 19.0 to 17.8 thousand teragrams (Tg, which is equal to 109 kg) equivalent, a decline of 6.0% during the 1990-2008 period. Several factors have contributed to this decline. The first is due to the economic restructuring in the Annex I Economies in Transition (the EITs – see Intergovernmental Emissions Trading for the list of EITs). Over the period 1990-1999, emissions fell by 40% in the EITs following the collapse of central planning in the former Soviet Union and east European countries. This led to a massive contraction of their heavy industry-based economies, with associated reductions in their fossil fuel consumption and emissions.
+
+Emissions growth in Annex I Parties have also been limited due to policies and measures (PaMs). In particular, PaMs were strengthened after 2000, helping to enhance energy efficiency and develop renewable energy sources. Energy use also decreased during the economic crisis in 2007-2008.
+
+8.1.1. Projections
+
+UNFCCC (2011) made projections of changes in emissions of the Annex I Parties and the effectiveness of their PaMs. It was noted that their projections should be interpreted with caution. For the 39 Annex I Parties, UNFCCC (2011) projected that existing PaMs would lead to annual emissions in 2010 of 17.5 thousand Tg eq, excluding LULUCF, which is a decrease of 6.7% from the 1990 level. Annual emissions in 2020 excluding LULUCF were projected to reach 18.9 thousand Tg eq, which is an increase of 0.6% on the 1990 level.
+
+UNFCCC (2011) made an estimate of the total effect of implemented and adopted PaMs. Projected savings were estimated relative to a reference (baseline) scenario where PaMs are not implemented. PaMs were projected to deliver emissions savings relative to baseline of about 1.5 thousand Tg eq by 2010, and 2.8 thousand Tg eq by 2020. In percentage terms, and using annual emissions in the year 1990 as a reference point, PaMs were projected to deliver at least a 5.0% reduction relative to baseline by 2010, and a 10.0% reduction relative to baseline in 2020. Scenarios reviewed by UNFCCC (2011) still suggested that total Annex I annual emissions would increase out to 2020 (see the preceding paragraph).
+
+8.1.2. Annex I Parties with targets
+
+Data given in the table above may not be fully reflective of a country's progress towards meeting its first-round Kyoto target. The summary below contains more up-to-date information on how close countries are to meeting their first-round targets.
+
+Collectively the group of industrialized countries committed to a Kyoto target, i.e., the Annex I countries excluding the USA, have a target of reducing their GHG emissions by 4.2% on average for the period 2008-2012 relative to the base year, which in most cases is 1990. According to Olivier et al. (2011), the Kyoto Parties will comfortably exceed their collective target, with a projected average reduction of 16% for 2008-2012. This projection excludes both LULUCF and credits generated by the Clean Development Mechanism (CDM).
+
+As noted in the preceding section, between 1990–1999, there was a large reduction in the emissions of the EITs. The reduction in the EITs is largely responsible for the total (aggregate) reduction (excluding LULUCF) in emissions of the Annex I countries, excluding the USA. Emissions of the Annex II countries (Annex I minus the EIT countries) have experienced a limited increase in emissions from 1990–2006, followed by stabilization and a more marked decrease from 2007 onwards. The emissions reductions in the early nineties by the 12 EIT countries who have since joined the EU, assist the present EU-27 in meeting its collective Kyoto target.
+
+Almost all European countries are on track to achieve their first-round Kyoto targets. Spain plans to meet its target by purchasing a large quantity of Kyoto units through the flexibility mechanisms. Australia, Canada (Canada withdrew from the Kyoto treaty in 2012), and Italy are not on course to meet their first-round Kyoto targets. In order to meet their targets, these countries would need to purchase emissions credits from other Kyoto countries. As noted in the section on Intergovernmental Emissions Trading, purchasing surplus credits from the EIT countries would not actually result in total emissions being reduced. An alternative would be the purchase of CDM credits or the use of the voluntary Green Investment Scheme.
+
+In December 2011, Canada's environment minister, Peter Kent, formally announced that Canada would withdraw from the Kyoto accord a day after the end of the 2011 United Nations Climate Change Conference (see the section on the withdrawal of Canada).
+
+8.1.3. Annex I Parties without Kyoto targets
+
+Belarus, Malta, and Turkey are Annex I Parties but do not have first-round Kyoto targets. The US has a Kyoto target of a 6% reduction relative to the 1990 level, but has not ratified the treaty. Emissions in the US have increased 11% since 1990, and according to Olivier et al. (2011), it will be unable to meet its original Kyoto target.
+
+If the US had ratified the Kyoto Protocol, the average percentage reduction in total GHG emissions for the Annex I group would have been a 5.2% reduction relative to the base year. Including the US in their calculation, Olivier et al. (2011) projected that the Annex I countries would collectively achieve a 7% reduction relative to the base year, which is lower than the original target of a 5.2% reduction. This projection excludes expected purchases of emissions credits.
+
+8.2. Non-Annex I
+
+UNFCCC (2005) compiled and synthesized information reported to it by non-Annex I Parties. Most non-Annex I Parties belonged in the low-income group, with very few classified as middle-income. Most Parties included information on policies relating to sustainable development. Sustainable development priorities mentioned by non-Annex I Parties included poverty alleviation and access to basic education and health care. Many non-Annex I Parties are making efforts to amend and update their environmental legislation to include global concerns such as climate change.
+
+A few Parties, e.g., South Africa and Iran, stated their concern over how efforts to reduce emissions by Annex I Parties could adversely affect their economies. The economies of these countries are highly dependent on income generated from the production, processing, and export of fossil fuels.
+
+Emissions
+
+GHG emissions, excluding land use change and forestry (LUCF), reported by 122 non-Annex I Parties for the year 1994 or the closest year reported, totalled 11.7 billion tonnes (billion = 1,000,000,000) of CO2-eq. CO2 was the largest proportion of emissions (63%), followed by methane (26%) and nitrous oxide (N2O) (11%).
+
+The energy sector was the largest source of emissions for 70 Parties, whereas for 45 Parties the agriculture sector was the largest. Per capita emissions (in tonnes of CO2-eq, excluding LUCF) averaged 2.8 tonnes for the 122 non-Annex I Parties.
+
+The Africa region's aggregate emissions were 1.6 billion tonnes, with per capita emissions of 2.4 tonnes.
+
+The Asia and Pacific region's aggregate emissions were 7.9 billion tonnes, with per capita emissions of 2.6 tonnes.
+
+The Latin America and Caribbean region's aggregate emissions were 2 billion tonnes, with per capita emissions of 4.6 tonnes.
+
+The "other" region includes Albania, Armenia, Azerbaijan, Georgia, Malta, Moldova, and Macedonia. Their aggregate emissions were 0.1 billion tonnes, with per capita emissions of 5.1 tonnes. Parties reported a high level of uncertainty in LUCF emissions, but in aggregate, there appeared to only be a small difference of 1.7% with and without LUCF. With LUCF, emissions were 11.9 billion tonnes, without LUCF, total aggregate emissions were 11.7 billion tonnes.
+
+Trends
+
+In several large developing countries and fast growing economies (China, India, Thailand, Indonesia, Egypt, and Iran) GHG emissions have increased rapidly (PBL, 2009). For example, emissions in China have risen strongly over the 1990–2005 period, often by more than 10% year. Emissions per-capita in non-Annex I countries are still, for the most part, much lower than in industrialized countries. Non-Annex I countries do not have quantitative emission reduction commitments, but they are committed to mitigation actions. China, for example, has had a national policy programme to reduce emissions growth, which included the closure of old, less efficient coal-fired power plants.
+
+9. Cost estimates
+
+Barker et al. (2007, p. 79) assessed the literature on cost estimates for the Kyoto Protocol. Due to non-US participation in the Kyoto treaty, costs estimates were found to be much lower than those estimated in the previous IPCC Third Assessment Report. Without US participation, and with full use of the Kyoto flexible mechanisms, costs were estimated at less than 0.05% of Annex B GDP. This compared to earlier estimates of 0.1–1.1%. Without use of the flexible mechanisms, costs without US participation were estimated at less than 0.1%. This compared to earlier estimates of 0.2–2%. These cost estimates were viewed as being based on much evidence and high agreement in the literature.
+
+10. Views on the Protocol
+
+Gupta et al. (2007) assessed the literature on climate change policy. They found that no authoritative assessments of the UNFCCC or its Protocol asserted that these agreements had, or will, succeed in solving the climate problem. In these assessments, it was assumed that the UNFCCC or its Protocol would not be changed. The Framework Convention and its Protocol include provisions for future policy actions to be taken.
+
+Gupta et al. (2007) described the Kyoto first-round commitments as "modest," stating that they acted as a constraint on the treaty's effectiveness. It was suggested that subsequent Kyoto commitments could be made more effective with measures aimed at achieving deeper cuts in emissions, as well as having policies applied to a larger share of global emissions. In 2008, countries with a Kyoto cap made up less than one-third of annual global carbon dioxide emissions from fuel combustion.
+
+World Bank (2010) commented on how the Kyoto Protocol had only had a slight effect on curbing global emissions growth. The treaty was negotiated in 1997, but in 2006, energy-related carbon dioxide emissions had grown by 24%. World Bank (2010) also stated that the treaty had provided only limited financial support to developing countries to assist them in reducing their emissions and adapting to climate change.
+
+Some of the criticism of the Protocol has been based on the idea of climate justice (Liverman, 2008, p. 14). This has particularly centred on the balance between the low emissions and high vulnerability of the developing world to climate change, compared to high emissions in the developed world.
+
+Some environmentalists have supported the Kyoto Protocol because it is "the only game in town," and possibly because they expect that future emission reduction commitments may demand more stringent emission reductions (Aldy et al.., 2003, p. 9). In 2001, seventeen national science academies stated that ratification of the Protocol represented a "small but essential first step towards stabilising atmospheric concentrations of greenhouse gases." Some environmentalists and scientists have criticized the existing commitments for being too weak (Grubb, 2000, p. 5).
+
+The United States (under former President George W. Bush) and Australia (initially, under former Prime Minister John Howard) did not ratify the Kyoto treaty. According to Stern (2006), their decision was based on the lack of quantitative emission commitments for emerging economies (see also the 2000 onwards section). Australia, under former Prime Minister Kevin Rudd, has since ratified the treaty, which took effect in March 2008.
+
+10.1. Views on the flexibility mechanisms
+
+Another area which has been commented on is the role of the Kyoto flexibility mechanisms – emissions trading, Joint Implementation, and the Clean Development Mechanism (CDM). The flexibility mechanisms have attracted both positive and negative comments.
+
+As mentioned earlier, a number of Annex I Parties have implemented emissions trading schemes (ETSs) as part of efforts to meet their Kyoto commitments. General commentaries on emissions trading are contained in emissions trading and carbon emission trading. Individual articles on the ETSs contain commentaries on these schemes (see Kyoto Protocol#International Emissions Trading for a list of ETSs).
+
+One of the arguments made in favour of the flexibility mechanisms is that they can reduce the costs incurred by Annex I Parties in meeting their Kyoto commitments. Criticisms of flexibility have, for example, included the ineffectiveness of emissions trading in promoting investment in non-fossil energy sources, and adverse impacts of CDM projects on local communities in developing countries.
+
+11. Conference of the Parties
+
+The official meeting of all states party to the Kyoto Protocol is the Conference of the Parties. It is held every year as part of the United Nations Climate Change conference, which also serves as the formal meeting of UNFCCC. The first Meetings of Parties of the Kyoto Protocol (MOP) was held in 2005 in conjunction with the eleventh Conferences of parties to UNFCCC. Also parties to the Convention that are not parties to the Protocol can participate in Protocol-related meetings as observers. The first conference was held in 1995 in Berlin, while the 2013 conference was held in Warsaw. Future COPs will be held in Lima, Peru in 2014 and in Paris, France in 2015.
+
+12. Amendment and possible successors
+
+In the non-binding 'Washington Declaration' agreed on 16 February 2007, heads of governments from Canada, France, Germany, Italy, Japan, Russia, the United Kingdom, the United States, Brazil, China, India, Mexico and South Africa agreed in principle on the outline of a successor to the Kyoto Protocol. They envisaged a global cap-and-trade system that would apply to both industrialized nations and developing countries, and initially hoped that it would be in place by 2009.
+
+The United Nations Climate Change Conference in Copenhagen in December 2009 was one of the annual series of UN meetings that followed the 1992 Earth Summit in Rio. In 1997 the talks led to the Kyoto Protocol, and the conference in Copenhagen was considered to be the opportunity to agree a successor to Kyoto that would bring about meaningful carbon cuts.
+
+The 2010 Cancún agreements include voluntary pledges made by 76 developed and developing countries to control their emissions of greenhouse gases. In 2010, these 76 countries were collectively responsible for 85% of annual global emissions.
+
+By May 2012, the USA, Japan, Russia, and Canada had indicated they would not sign up to a second Kyoto commitment period. In November 2012, Australia confirmed it would participate in a second commitment period under the Kyoto Protocol and New Zealand confirmed that it would not.
+
+New Zealand's climate minister Tim Groser said the 15-year-old Kyoto Protocol was outdated, and that New Zealand was "ahead of the curve" in looking for a replacement that would include developing nations. Non-profit environmental organisations such as the World Wildlife Fund criticised New Zealand's decision to pull out.
+
+On 8 December 2012, at the end of the 2012 United Nations Climate Change Conference, an agreement was reached to extend the Protocol to 2020 and to set a date of 2015 for the development of a successor document, to be implemented from 2020 (see lede for more information). The outcome of the Doha talks has received a mixed response, with small island states critical of the overall package.The Kyoto second commitment period applies to about 15% of annual global emissions of greenhouse gases. Other results of the conference include a timetable for a global agreement to be adopted by 2015 which includes all countries. At the Doha meeting of the parties to the UNFCCCC on 8 December 2012, the European Union chief climate negotiator, Artur Runge-Metzger, pledged to extend the treaty, binding on the 27 European Member States, up to the year 2020 pending an internal ratification procedure.
+
+Ban Ki Moon, Secretary General of the United Nations, called on world leaders to come to an agreement on halting global warming during the 69th Session of the UN General Assembly on 23 September 2014 in New York. UN member states have been negotiating a future climate deal over the last five years. A preliminary calendar was adopted to confirm "national contributions" to the reduction of CO2 emissions by 2015 before the UN climate summit which will be held in Paris 2015 United Nations Climate Change Conference.
+
+13. See also
+
+Alternatives to the Kyoto Protocol and successor
+
+Asia Pacific Partnership on Clean Development and Climate
+
+Business action on climate change
+
+Carbon emission trading
+
+Carbon finance
+
+Clean Development Mechanism
+
+Climate legislation
+
+Environmental agreements
+
+Environmental impact of aviation
+
+Environmental tariff
+
+List of climate change initiatives
+
+List of international environmental agreements
+
+Low-carbon economy
+
+Montreal Protocol
+
+Politics of global warming
+
+Reducing Emissions from Deforestation and Forest Degradation or REDD
+
+United Nations Framework Convention on Climate Change or UNFCCC
+
+World People's Conference on Climate Change
+
+14. Notes
+
+15. References
+
+. Report No 6/2012. Report .
+
+. Data as an
+
+(pb: ).
+
+(pb: ).
+
+(pb: ).
+
+.
+
+. Also in Arabic, Chinese, Spanish, French and Russian.
+
+Executive summary in
+
+. Available as a in the official UN languages.
+
+16. Further reading
+
+Ekardt, F./von Hövel, A.: Distributive Justice, Competitiveness, and Transnational Climate Protection. In: Carbon & Climate Law Review, Vol. 3., 2009, p. 102–114.
+
+Katy Longden, Roshni Pabari, Munir Hassan, and Dalia Majumder-Russel, "." Advocates for International Development (June 2012) ;Economics
+
+From this issue:
+
+17. External links
+
+Protocol text ( and ), and
+
+, its (Targets for Belarus) and its (extension period 2012-2020)
+
+– fully indexed and crosslinked with other documents
+
+on the Kyoto Protocol to the United Nations Framework Convention on Climate Change in the

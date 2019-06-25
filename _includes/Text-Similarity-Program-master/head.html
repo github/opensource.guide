@@ -1,0 +1,22 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+  <link href="{{ "/assets/css/index.css" | relative_url }}" rel="stylesheet">
+  {% seo %}
+  {% if page.lang and page.untranslated != true and site.data.locales.size > 1 %}
+    {% assign locales = site.data.locales | sort %}
+    {% for locale in locales %}
+      {% assign lang = locale[0] %}
+      {% assign page_lang_slash = page.lang | append: '/' | prepend: '/' %}
+      {% assign default_url = page.url | replace: page_lang_slash, '/' %}
+      {% if lang == "en" %}
+      <link rel="alternate" hreflang="en" href="{{ site.url }}{{ default_url }}" />
+      <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ default_url }}" />
+      {% else %}
+      <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}/{{ lang }}{{ default_url }}" />
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+</head>

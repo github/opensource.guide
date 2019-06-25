@@ -1,0 +1,3 @@
+Joint Interoperability of Tactical Command and Control Systems or JINTACCS is a United States military program for the development and maintenance of tactical information exchange configuration items (CIs) and operational procedures. It was originated to ensure that the command and control (C2 and C3) and weapons systems of all US military services and NATO forces would be interoperable.
+
+It is made up of standard Message Text Formats (MTF) for man-readable and machine-processable information, a core set of common warfighting symbols, and data link standards called Tactical Data Links (TDLs).

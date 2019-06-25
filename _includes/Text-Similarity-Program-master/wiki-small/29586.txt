@@ -1,0 +1,199 @@
+In mathematical analysis and in probability theory, a σ-algebra (also sigma-algebra, σ-field, sigma-field) on a set X is a collection of subsets of X that is closed under countable-fold set operations (complement, union of countably many sets and intersection of countably many sets). By contrast, an algebra is only required to be closed under finitary set operations. That is, a σ-algebra is an algebra of sets, completed to include countably infinite operations. The pair (X, Σ) is also a field of sets, called a measurable space.
+
+The main use of σ-algebras is in the definition of measures; specifically, the collection of those subsets for which a given measure is defined is necessarily a σ-algebra. This concept is important in mathematical analysis as the foundation for Lebesgue integration, and in probability theory, where it is interpreted as the collection of events which can be assigned probabilities. Also, in probability, σ-algebras are pivotal in the definition of conditional expectation.
+
+If one possible σ-algebra on X is where ∅ is the empty set. However, a finite algebra is always a σ-algebra.
+
+If {A1, A2, A3, 舰} is a countable partition of X then the collection of all unions of sets in the partition (including the empty set) is a σ-algebra.
+
+A more useful example is the set of subsets of the real line formed by starting with all open intervals and adding in all countable unions, countable intersections, and relative complements and continuing this process (by transfinite iteration through all countable ordinals) until the relevant closure properties are achieved (a construction known as the Borel hierarchy).
+
+1. Motivation
+
+There are at least three key motivators for σ-algebras: defining measures, manipulating limits of sets, and managing partial information characterized by sets.
+
+1.1. Measure
+
+A measure on X is a function that assigns a non-negative real number to subsets of X; this can be thought of as making precise a notion of "size" or "volume" for sets. We want the size of the union of disjoint sets to be the sum of their individual sizes, even for an infinite sequence of disjoint sets.
+
+One would like to assign a size to every subset of X, but in many natural settings, this is not possible. For example the axiom of choice implies that when the size under consideration is the ordinary notion of length for subsets of the real line, then there exist sets for which no size exists, for example, the Vitali sets. For this reason, one considers instead a smaller collection of privileged subsets of X. These subsets will be called the measurable sets. They are closed under operations that one would expect for measurable sets, that is, the complement of a measurable set is a measurable set and the countable union of measurable sets is a measurable set. Non-empty collections of sets with these properties are called σ-algebras.
+
+1.2. Limits of Sets
+
+Many uses of measure, such as the probability concept of almost sure convergence, involve limits of sequences of sets. For this, closure under countable unions and intersections is paramount. Set limits are defined as follows on σ-algebras.
+
+The limit supremum of a sequence A1, A2, A3, ..., each of which is a subset of X, is
+
+The limit infimum of a sequence A1, A2, A3, ..., each of which is a subset of X, is
+
+If, in fact,
+
+1.3. Sub σ-algebras
+
+In much of probability, especially when conditional expectation is involved, one is concerned with sets that represent only part of all the possible information that can be observed. This partial information can be characterized with a smaller σ-algebra which is a subset of the principal σ-algebra; it consists of the collection of subsets relevant only to and determined only by the partial information. A simple example suffices to illustrate this idea.
+
+Imagine you are playing a game that involves flipping a coin repeatedly and observing whether it comes up Heads (H) or Tails (T). Since you and your opponent are each infinitely wealthy, there is no limit to how long the game can last. This means the sample space Ω must consist of all possible infinite sequences of H or T:
+
+However, after n flips of the coin, you may want to determine or revise your betting strategy in advance of the next flip. The observed information at that point can be described in terms of the 2n possibilities for the first n flips. Formally, since you need to use subsets of Ω, this is codified as the σ-algebra
+
+Observe that then
+
+where is the smallest σ-algebra containing all the others.
+
+2. Definition and properties
+
+2.1. Definition
+
+Let X be some set, and let 2X represent its power set. Then a subset is called a σ-algebra if it satisfies the following three properties:
+
+Σ is non-empty: There is at least one A ⊂ X in Σ.
+
+Σ is closed under complementation: If A is in Σ, then so is its complement, .
+
+Σ is closed under countable unions: If A1, A2, A3, ... are in Σ, then so is A = A1 ∪ A2 ∪ A3 ∪ … . From these properties, it follows that the σ-algebra is also closed under countable intersections (by applying De Morgan's laws).
+
+It also follows that the set X itself and the empty set are both in Σ, since by (1) Σ is non-empty, so some particular A ∈ Σ may be chosen, and by (2), X \ A is also in Σ. By (3) A ∪ (X \ A) = X is in Σ. And finally, since X is in Σ, (2) asserts that its complement, the empty set, is also in Σ.
+
+Elements of the σ-algebra are called measurable sets. An ordered pair , where X is a set and Σ is a σ-algebra over X, is called a measurable space. A function between two measurable spaces is called a measurable function if the preimage of every measurable set is measurable. The collection of measurable spaces forms a category, with the measurable functions as morphisms. Measures are defined as certain types of functions from a σ-algebra to [0, ∞].
+
+A σ-algebra is both a π-system and a Dynkin system (λ-system). The converse is true as well, by Dynkin's theorem (below).
+
+2.2. Dynkin's π-λ theorem
+
+This theorem (or the related monotone class theorem) is an essential tool for proving many results about properties of specific σ-algebras. It capitalizes on the nature of two simpler classes of sets, namely the following.
+
+Dynkin's π-λ theorem says, if P is a π-system and D is a Dynkin system that contains P then the σ-algebra σ(P) generated by P is contained in D. Since certain π-systems are relatively simple classes, it may not be hard to verify that all sets in P enjoy the property under consideration while, on the other hand, showing that the collection D of all subsets with the property is a Dynkin system can also be straightforward. Dynkin's π-λ Theorem then implies that all sets in σ(P) enjoy the property, avoiding the task of checking it for an arbitrary set in σ(P).
+
+One of the most fundamental uses of the π-λ theorem is to show equivalence of separately defined measures or integrals. For example, it is used to equate a probability for a random variable X with the Lebesgue-Stieltjes integral typically associated with computing the probability:
+
+where F(x) is the cumulative distribution function for X, defined on R, while is a probability measure, defined on a σ-algebra Σ of subsets of some sample space Ω.
+
+2.3. Combining σ-algebras
+
+Suppose is a collection of σ-algebras on a space X.
+
+The intersection of a collection of σ-algebras is a σ-algebra. To emphasize its character as a σ-algebra, it often is denoted by:
+
+The union of a collection of σ-algebras is not generally a σ-algebra, or even an algebra, but it generates a σ-algebra known as the join which typically is denoted
+
+2.4. σ-algebras for subspaces
+
+Suppose Y is a subset of X and let (X, Σ) be a measurable space.
+
+The collection {Y ∩ B: B ∈ Σ} is a σ-algebra of subsets of Y.
+
+Suppose (Y, Λ) is a measurable space. The collection {A ⊂ X : A ∩ Y ∈ Λ} is a σ-algebra of subsets of X.
+
+2.5. Relation to σ-ring
+
+A σ-algebra Σ is just a σ-ring that contains the universal set X. A σ-ring need not be a σ-algebra, as for example measurable subsets of zero Lebesgue measure in the real line are a σ-ring, but not a σ-algebra since the real line has infinite measure and thus cannot be obtained by their countable union. If, instead of zero measure, one takes measurable subsets of finite Lebesgue measure, those are a ring but not a σ-ring, since the real line can be obtained by their countable union yet its measure is not finite.
+
+2.6. Typographic note
+
+σ-algebras are sometimes denoted using calligraphic capital letters, or the Fraktur typeface. Thus may be denoted as or . This is handy to avoid situations where the letter Σ may be confused for the summation operator.
+
+3. Examples
+
+3.1. Simple set-based examples
+
+Let X be any set.
+
+The family consisting only of the empty set and the set X, called the minimal or trivial σ-algebra over X.
+
+The power set of X, called the discrete σ-algebra.
+
+The collection {∅, A, Ac, X} is a simple σ-algebra generated by the subset A.
+
+The collection of subsets of X which are countable or whose complements are countable is a σ-algebra (which is distinct from the power set of X if and only if X is uncountable). This is the σ-algebra generated by the singletons of X. Note: "countable" includes finite or empty.
+
+The collection of all unions of sets in a countable partition of X is a σ-algebra.
+
+3.2. Stopping time sigma-algebras
+
+A stopping time can define a -algebra , the so-called , which in a describes the information up to the random time in the sense that, if the filtered probability space is interpreted as a random experiment, the maximum information that can be found out about the experiment from arbitrarily often repeating it until the time is .
+
+4. σ-algebras generated by families of sets
+
+4.1. σ-algebra generated by an arbitrary family
+
+Let F be an arbitrary family of subsets of X. Then there exists a unique smallest σ-algebra which contains every set in F (even though F may or may not itself be a σ-algebra). It is, in fact, the intersection of all σ-algebras containing F. (See intersections of σ-algebras above.) This σ-algebra is denoted σ(F) and is called the σ-algebra generated by F.
+
+For a simple example, consider the set X = {1, 2, 3}. Then the σ-algebra generated by the single subset {1} is .}} By an abuse of notation, when a collection of subsets contains only one element, A, one may write σ(A) instead of σ({A}); in the prior example σ({1}) instead of σ(). Also when that subset contains only one element, a, one may write σ(a) instead of σ(A)=σ({a}); in the prior example σ(1) instead of σ({1}).
+
+There are many families of subsets that generate useful σ-algebras. Some of these are presented here.
+
+4.2. σ-algebra generated by a function
+
+If f is a function from a set X to a set Y and B is a σ-algebra of subsets of Y, then the σ-algebra generated by the function f, denoted by σ(f), is the collection of all inverse images f−1(S) of the sets S in B. i.e.
+
+A function f from a set X to a set Y is measurable with respect to a σ-algebra Σ of subsets of X if and only if σ(f) is a subset of Σ.
+
+One common situation, and understood by default if B is not specified explicitly, is when Y is a metric or topological space and B are the Borel sets on Y.
+
+If f is a function from X to Rn then σ(f) is generated by the family of subsets which are inverse images of intervals/rectangles in Rn:
+
+A useful property is the following. Assume f is a measurable map from (X, ΣX) to (S, ΣS) and g is a measurable map from (X, ΣX) to (T, ΣT). If there exists a measurable function h from T to S such that f(x) = h(g(x)) then σ(f) ⊂ σ(g). If S is finite or countably infinite or if (S, ΣS) is a standard Borel space (e.g., a separable complete metric space with its associated Borel sets) then the converse is also true. Examples of standard Borel spaces include Rn with its Borel sets and R∞ with the cylinder σ-algebra described below.
+
+4.3. Borel and Lebesgue σ-algebras
+
+An important example is the Borel algebra over any topological space: the σ-algebra generated by the open sets (or, equivalently, by the closed sets). Note that this σ-algebra is not, in general, the whole power set. For a non-trivial example that is not a Borel set, see the Vitali set or Borel set#Non-Borel sets.
+
+On the Euclidean space Rn, another σ-algebra is of importance: that of all Lebesgue measurable sets. This σ-algebra contains more sets than the Borel σ-algebra on Rn and is preferred in integration theory, as it gives a complete measure space.
+
+4.4. Product σ-algebra
+
+Let and be two measurable spaces. The σ-algebra for the corresponding product space is called the product σ-algebra and is defined by
+
+Observe that is a π-system.
+
+The Borel σ-algebra for Rn is generated by half-infinite rectangles and by finite rectangles. For example,
+
+For each of these two examples, the generating family is a π-system.
+
+4.5. σ-algebra generated by cylinder sets
+
+Suppose
+
+is a set of real-valued functions. Let denote the Borel subsets of R. A cylinder subset of is a finitely restricted set defined as
+
+Each
+
+is a π-system that generates a σ-algebra . Then the family of subsets
+
+is an algebra that generates the cylinder σ-algebra for . This σ-algebra is a subalgebra of the Borel σ-algebra determined by the product topology of restricted to .
+
+An important special case is when is the set of natural numbers and is a set of real-valued sequences. In this case, it suffices to consider the cylinder sets
+
+for which
+
+is a non-decreasing sequence of σ-algebras.
+
+4.6. σ-algebra generated by random variable or vector
+
+Suppose is a probability space. If is measurable with respect to the Borel σ-algebra on Rn then is called a random variable (n = 1) or random vector (n ≥ 1). The σ-algebra generated by is
+
+4.7. σ-algebra generated by a stochastic process
+
+Suppose is a probability space and is the set of real-valued functions on . If is measurable with respect to the cylinder σ-algebra (see above) for then is called a stochastic process or random process. The σ-algebra generated by is
+
+the σ-algebra generated by the inverse images of cylinder sets.
+
+5. See also
+
+Join (sigma algebra)
+
+Measurable function
+
+Sample space
+
+Separable sigma algebra
+
+Sigma ring
+
+Sigma additivity
+
+6. References
+
+7. External links
+
+Sigma Algebra from PlanetMath.

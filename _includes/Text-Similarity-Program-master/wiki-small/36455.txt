@@ -1,0 +1,21 @@
+To help compare different orders of magnitude, this page lists distances starting at 10 Ym (1025 m or 1.1 gigalight-years). At this scale, expansion of the universe becomes significant. Distance of these objects are derived from their measured redshifts, which depends on the cosmological models used.
+
+Distances shorter than 10 Ym
+
+13.7 Ym — 1.37 gigalight-years 舒 Length of the Sloan Great Wall
+
+18 Ym — redshift 0.16 — 1.9 gigalight-years 舒 Distance to the quasar 3C 273 (light travel distance)
+
+33 Ym — 3.5 gigalight-years 舒 Maximum distance of the 2dF Galaxy Redshift Survey (light travel distance)
+
+37.8 Ym — 4 gigalight-years 舒 Length of the Huge-LQG, one of the largest and most massive known cosmic structure.
+
+75 Ym — redshift 0.95 — 8 gigalight-years — Approximate distance to the supernova SN 2002dd in the Hubble Deep Field North (light travel distance)
+
+85 Ym — redshift 1.6 — 9 gigalight-years — Approximate distance to the gamma ray burst GRB 990123 (light travel distance)
+
+94.6 Ym — 10 gigalight-years — Approximate distance to quasar OQ172 Distances longer than 100 Ym
+
+1. See also
+
+Orders of magnitude (length)

@@ -1,0 +1,13 @@
+The Memory Data Register (MDR) is the register of a computer's control unit that contains the data to be stored in the computer storage (e.g. RAM), or the data after a fetch from the computer storage. It acts like a buffer and holds anything that is copied from the memory ready for the processor to use it.
+
+The MDR is a two-way register. When data is fetched from memory and placed into the MDR, it is written to in one direction. When there is a write instruction, the data to be written is placed into the MDR from another CPU register, which then puts the data into memory.
+
+The Memory Data Register is half of a minimal interface between a microprogram and computer storage, the other half is a memory address register (MAR).
+
+Far more complex memory interfaces exist, but this is the simplest that can work.
+
+The Memory Data Register (MDR) contains the data value being fetched or stored. We might be tempted to say that the MDR should be W bits wide, where W is the cell size. However on most computers the cell size is only 8-bits, and most data values occupy multiple cells. Thus the size of the MDR is usually a multiple of 8. Typical values of MDR width are 32 and 64 bits, which would allow us to fetch, in a single step, either an integer or a real value.
+
+For example, to retrieve the contents of cell 123, we would load the value 123 (in binary, of course) into the MAR and perform a fetch operation. When the operation is done, a copy of the contents of cell 123 would be in the MDR. To store the value 98 into cell 4, we load a 4 into the MAR and a 98 into the MDR and perform a store. When the operation is completed the contents of cell 4 will have been set to 98, by discarding whatever was there previously.
+
+MDR has two inputs and two outputs. Data may be loaded into MDR either from the memory bus or from the internal processor bus.The data stored in MDR may be placed on either bus.

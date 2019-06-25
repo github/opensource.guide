@@ -1,0 +1,63 @@
+Nuclear pores are large protein complexes that cross the nuclear envelope, which is the double membrane surrounding the eukaryotic cell nucleus. There are about an average of 2000 nuclear pore complexes (NPCs), in the nuclear envelope of a vertebrate cell, but it varies depending on cell type and the stage in the life cycle. The proteins that make up the nuclear pore complex are known as nucleoporins. About half of the nucleoporins typically contain solenoid protein domains—either an alpha solenoid or a beta-propeller fold, or in some cases both as separate structural domains. Each NPC contains at least 456 individual protein molecules and is composed of 30 distinct proteins (nucleoporins). The other half show structural characteristics typical of "natively unfolded" or intrinsically disordered proteins, i.e. they are highly flexible proteins that lack ordered secondary structure. These disordered proteins are the FG nucleoporins, so called because their amino-acid sequence contains many phenylalanine舒glycine repeats.
+
+Nuclear pore complexes allow the transport of molecules across the nuclear envelope. This transport includes RNA and ribosomal proteins moving from nucleus to the cytoplasm and proteins (such as DNA polymerase and lamins), carbohydrates, signaling molecules and lipids moving into the nucleus. It is notable that the nuclear pore complex (NPC) can actively conduct 1000 translocations per complex per second. Although smaller molecules simply diffuse through the pores, larger molecules may be recognized by specific signal sequences and then be diffused with the help of nucleoporins into or out of the nucleus. This is not directly energy requiring, but depends on concentrations gradients associated with the RAN cycle. Each of the eight protein subunits surrounding the actual pore (the outer ring) projects a spoke-shaped protein over the pore channel. The center of the pore often appears to contain a plug-like structure. It is yet unknown whether this corresponds to an actual plug or is merely cargo caught in transit.
+
+1. Size and complexity
+
+The entire nuclear pore complex has a diameter of about 120 nanometers in vertebrates. The diameter of the channel ranges from 5.2 nanometers in humans to 10.7 nm in the frog Xenopus laevis, with a depth of roughly 45 nm. mRNA, which is single-stranded, has a thickness of about 0.5 to 1 nm. The molecular mass of the mammalian NPC is about 124 megadaltons (MDa) and it contains approximately 30 different protein components, each in multiple copies. In contrast, the yeast Saccharomyces cerevisiae is smaller, weighing only 66 MDa.
+
+2. Transport through the nuclear pore complex
+
+Small particles (< ~40 kDa) are able to pass through the nuclear pore complex by passive diffusion. Larger particles are also able to pass through the large diameter of the pore but at almost negligible rates. Efficient passage through the complex requires several protein factors. Karyopherins, which may act as importins or exportins are part of the Importin-β super-family which all share a similar three-dimensional structure.
+
+Three models have been suggested to explain the translocation mechanism:
+
+Affinity gradients along the central plug
+
+Brownian affinity gating
+
+Selective phase
+
+2.1. Import of proteins
+
+Any cargo with a nuclear localization signal (NLS) exposed will be destined for quick and efficient transport through the pore. Several NLS sequences are known, generally containing a conserved phospholipids sequence with basic residues such as PKKKRKV. Any material with an NLS will be taken up by importins to the nucleus.
+
+The classical scheme of NLS-protein importation begins with Importin-α first binding to the NLS sequence, and acts as a bridge for Importin-β to attach. The importinβ舒importinα舒cargo complex is then directed towards the nuclear pore and diffuses through it. Once the complex is in the nucleus, RanGTP binds to Importin-β and displaces it from the complex. Then the cellular apoptosis susceptibility protein (CAS), an exportin which in the nucleus is bound to RanGTP, displaces Importin-α from the cargo. The NLS-protein is thus free in the nucleoplasm. The Importinβ-RanGTP and Importinα-CAS-RanGTP complex diffuses back to the cytoplasm where GTPs are hydrolyzed to GDP leading to the release of Importinβ and Importinα which become available for a new NLS-protein import round.
+
+Although cargo passes through the pore with the assistance of chaperone proteins, the translocation through the pore itself is not energy dependent. However, the whole import cycle needs the hydrolysis of 2 GTPs and is thus energy dependent and has to be considered as active transport. The import cycle is powered by the nucleo-cytoplasmic RanGTP gradient. This gradient arises from the exclusive nuclear localization of RanGEFs, proteins that exchange GDP to GTP on Ran molecules. Thus there is an elevated RanGTP concentration in the nucleus compared to the cytoplasm.
+
+2.2. Export of proteins
+
+Some molecules or macromolecular complexes need to be exported from the nucleus to the cytoplasm, as do ribosome subunits and messenger RNAs. Thus there is an export mechanism similar to the import mechanism.
+
+In the classical export scheme, proteins with a nuclear export sequence (NES) can bind in the nucleus to form a heterotrimeric complex with an exportin and RanGTP (for example the exportin CRM1). The complex can then diffuse to the cytoplasm where GTP is hydrolysed and the NES-protein is released. CRM1-RanGDP diffuses back to the nucleus where GDP is exchanged to GTP by RanGEFs. This process is also energy dependent as it consumes one GTP. Export with the exportin CRM1 can be inhibited by Leptomycin B.
+
+2.3. Export of RNA
+
+There are different export pathways through the NPC for each RNA class that exists. RNA export is also signal mediated (NES); the NES is in RNA-binding proteins (except for tRNA which has no adapter). It is notable that all viral RNAs and cellular RNAs (tRNA, rRNA, U snRNA, microRNA) except mRNA are dependent on RanGTP. Conserved mRNA export factors are necessary for mRNA nuclear export. Export factors are Mex67/Tap (large subunit) and Mtr2/p15 (small subunit). In higher eukaryotes, mRNA export is thought to be dependent on splicing which in turn recruits a protein complex, TREX, to spliced messages. TREX functions as an adapter for TAP, which is a very poor RNA binding protein. However, there are alternative mRNA export pathways that do not rely on splicing for specialized messages such as histones. Recent work also suggest an interplay between splicing-dependent export and one of these alternative mRNA export pathways for secretory and mitochondrial transcripts.
+
+3. Assembly of the NPC
+
+As the NPC controls access to the genome, it is essential that it exists in large amounts in areas of the cell cycle where plenty of transcription is necessary. For example, cycling mammalian and yeast cells double the amount of NPC in the nucleus between the G1 and G2 phase of the cell cycle, and oocytes accumulate large numbers of NPCs to prepare for the rapid mitosis that exists in the early stages of development. Interphase cells must also keep up a level of NPC generation to keep the levels of NPC in the cell constant as some may get damaged. Some cells can even increase the NPC numbers due to increased transcriptional demand.
+
+3.1. Theories of assembly
+
+There are several theories as to how NPCs are assembled. As the immunodepletion of certain protein complexes, such as the Nup 107–160 complex, leads to the formation of poreless nuclei, it seems likely that the Nup complexes are involved in fusing the outer membrane of the nuclear envelope with the inner and not that the fusing of the membrane begins the formation of the pore. There are several ways that this could lead to the formation of the full NPC.
+
+One possibility is that as a protein complex it binds to the chromatin. It is then inserted into the double membrane close to the chromatin. This, in turn, leads to the fusing of that membrane. Around this protein complex others eventually bind forming the NPC. This method is possible during every phases of mitosis as the double membrane is present around the chromatin before the membrane fusion proteins complex can insert. Post mitotic cells could form a membrane first with pores being inserted into after formation.
+
+Another model for the formation of the NPC is the production of a prepore as a start as opposed to a single protein complex. This prepore would form when several Nup complexes come together and bind to the chromatin. This would have the double membrane form around it in during mitotic reassembly. Possible prepore structures have been observed on chromatin before nuclear envelope (NE) formation using electron microscopy. During the interphase of the cell cycle the formation of the prepore would happen within the nucleus, each component being transported in through existing NPCs. These Nups would bind to an importin, once formed, preventing the assembly of a prepore in the cytoplasm. Once transported into the nucleus Ran GTP would bind to the importin and cause it to release the cargo. This Nup would be free to from a prepore. The binding of importins has at least been shown to bring Nup 107 and the Nup 153 nucleoporins into the nucleus. NPC assembly is a very rapid process yet defined intermediate states occur which leads to the idea that this assembly occurs in a stepwise fashion.
+
+A third possible method of NPC assembly is splitting. This method seems to be tailor made for NPC formation during the interphase. It happens when more protomers are added on to an existing NPC. The eightfold symmetry of the NPC has been shown to have a degree of plasticity and will allow this. Eventually enough protomers will add and allow a new NPC to split off the original. This method of NPC assembly can only happen during the interphase of the cell cycle.
+
+3.2. Disassembly
+
+During mitosis the NPC appears to disassemble in stages. Peripheral nucleoporins such as the Nup 153 Nup 98 and Nup 214 disassociate from the NPC. The rest, which can be considered a scaffold proteins remain stable, as cylindrical ring complexes within the nuclear envelope. This disassembly of the NPC peripheral groups is largely thought to be phosphate driven, as several of these nucleoporins are phosphorylated during the stages of mitosis. However, the enzyme involved in the phosphorlyation is unknown in vivo. In metazoans (which undergo open mitosis) the NE degrades quickly after the loss of the peripheral Nups. The reason for this may be due to the change in the NPC’s architecture. This change may make the NPC more permeable to enzymes involved in the degradation of the NE such as cytoplasmic tubulin, as well as allowing the entry of key mitotic regulator proteins.
+
+3.3. Preservation of integrity
+
+It was shown, in fungi that undergo closed mitosis (where the nucleus does not degrade), that the change of the permeability barrier of the NE was due to changes within the NPC and is what allows the entry of mitotic regulators. In Aspergillus nidulans the NPC composition appears to be effected by the mitotic kinase NIMA, possibly by phosphorylating the nucleoporins Nup98 and Gle2/Rae1. This remodelling seems to allow the proteins complex cdc2/cyclinB enter the nucleus as well as many other proteins such as soluble tubulin. The NPC scaffold remains intact throughout the whole closed mitosis. This seems to preserve the integrity of the NE.
+
+4. References
+
+5. External links

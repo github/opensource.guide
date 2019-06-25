@@ -1,0 +1,133 @@
+In the philosophy of mathematics, intuitionism, or neointuitionism (opposed to preintuitionism), is an approach where mathematics is considered to be purely the result of the constructive mental activity of humans rather than the discovery of fundamental principles claimed to exist in an objective reality. That is, logic and mathematics are not considered analytic activities wherein deep properties of objective reality are revealed and applied but are instead considered the application of internally consistent methods used to realize more complex mental constructs, regardless of their possible independent existence in an objective reality.
+
+1. Truth and proof
+
+The fundamental distinguishing characteristic of intuitionism is its interpretation of what it means for a mathematical statement to be true. In Brouwer's original intuitionism, the truth of a mathematical statement is a subjective claim: a mathematical statement corresponds to a mental construction, and a mathematician can assert the truth of a statement only by verifying the validity of that construction by intuition. The vagueness of the intuitionistic notion of truth often leads to misinterpretations about its meaning. Kleene formally defined intuitionistic truth from a realist position, yet Brouwer would likely reject this formalization as meaningless, given his rejection of the realist/Platonist position. Intuitionistic truth therefore remains somewhat ill-defined. However, because the intuitionistic notion of truth is more restrictive than that of classical mathematics, the intuitionist must reject some assumptions of classical logic to ensure that everything he proves is in fact intuitionistically true. This gives rise to intuitionistic logic.
+
+To an intuitionist, the claim that an object with certain properties exists is a claim that an object with those properties can be constructed. Any mathematical object is considered to be a product of a construction of a mind, and therefore, the existence of an object is equivalent to the possibility of its construction. This contrasts with the classical approach, which states that the existence of an entity can be proved by refuting its non-existence. For the intuitionist, this is not valid; the refutation of the non-existence does not mean that it is possible to find a construction for the putative object, as is required in order to assert its existence. Existence is construction, not proof of non-existence (Fenstad). As such, intuitionism is a variety of mathematical constructivism; but it is not the only kind.
+
+The interpretation of negation is different in intuitionist logic than in classical logic. In classical logic, the negation of a statement asserts that the statement is false; to an intuitionist, it means the statement is refutable (e.g., that there is a counterexample). There is thus an asymmetry between a positive and negative statement in intuitionism. If a statement P is provable, then it is certainly impossible to prove that there is no proof of P. But even if it can be shown that no disproof of P is possible, we cannot conclude from this absence that there is a proof of P. Thus P is a stronger statement than not-not-P.
+
+Similarly, to assert that A or B holds, to an intuitionist, is to claim that either A or B can be proved. In particular, the law of excluded middle, "A or not A", is not accepted as a valid principle. For example, if A is some mathematical statement that an intuitionist has not yet proved or disproved, then that intuitionist will not assert the truth of "A or not A". However, the intuitionist will accept that "A and not A" cannot be true. Thus the connectives "and" and "or" of intuitionistic logic do not satisfy de Morgan's laws as they do in classical logic.
+
+Intuitionistic logic substitutes constructability for abstract truth and is associated with a transition from the proof to model theory of abstract truth in modern mathematics. The logical calculus preserves justification, rather than truth, across transformations yielding derived propositions. It has been taken as giving philosophical support to several schools of philosophy, most notably the Anti-realism of Michael Dummett. Thus, contrary to the first impression its name might convey, and as realized in specific approaches and disciplines (e.g. Fuzzy Sets and Systems), intuitionist mathematics is more rigorous than conventionally founded mathematics, where, ironically, the foundational elements which Intuitionism attempts to construct/refute/refound are taken as intuitively given.
+
+2. Intuitionism and infinity
+
+Among the different formulations of intuitionism, there are several different positions on the meaning and reality of infinity.
+
+The term potential infinity refers to a mathematical procedure in which there is an unending series of steps. After each step has been completed, there is always another step to be performed. For example, consider the process of counting:
+
+The term actual infinity refers to a completed mathematical object which contains an infinite number of elements. An example is the set of natural numbers,
+
+In Cantor's formulation of set theory, there are many different infinite sets, some of which are larger than others. For example, the set of all real numbers R is larger than N, because any procedure that you attempt to use to put the natural numbers into one-to-one correspondence with the real numbers will always fail: there will always be an infinite number of real numbers "left over". Any infinite set that can be placed in one-to-one correspondence with the natural numbers is said to be "countable" or "denumerable". Infinite sets larger than this are said to be "uncountable".
+
+Cantor's set theory led to the axiomatic system of ZFC, now the most common foundation of modern mathematics. Intuitionism was created, in part, as a reaction to Cantor's set theory.
+
+Modern constructive set theory does include the axiom of infinity from Zermelo-Fraenkel set theory (or a revised version of this axiom), and includes the set N of natural numbers. Most modern constructive mathematicians accept the reality of countably infinite sets (however, see Alexander Esenin-Volpin for a counter-example).
+
+Brouwer rejected the concept of actual infinity, but admitted the idea of potential infinity.
+
+Finitism is an extreme version of Intuitionism that rejects the idea of potential infinity. According to Finitism, a mathematical object does not exist unless it can be constructed from the natural numbers in a finite number of steps.
+
+3. History of Intuitionism
+
+Intuitionism's history can be traced to two controversies in nineteenth century mathematics.
+
+The first of these was the invention of transfinite arithmetic by Georg Cantor and its subsequent rejection by a number of prominent mathematicians including most famously his teacher Leopold Kronecker — a confirmed finitist.
+
+The second of these was Gottlob Frege's effort to reduce all of mathematics to a logical formulation via set theory and its derailing by a youthful Bertrand Russell, the discoverer of Russell's paradox. Frege had planned a three volume definitive work, but shortly after the first volume had been published, Russell sent Frege a letter outlining his paradox which demonstrated that one of Frege's rules of self-reference was self-contradictory.
+
+Frege, the story goes, plunged into depression and did not publish the second and third volumes of his work as he had planned. For more see Davis (2000) Chapters 3 and 4: Frege: From Breakthrough to Despair and Cantor: Detour through Infinity. See van Heijenoort for the original works and van Heijenoort's commentary.
+
+These controversies are strongly linked as the logical methods used by Cantor in proving his results in transfinite arithmetic are essentially the same as those used by Russell in constructing his paradox. Hence how one chooses to resolve Russell's paradox has direct implications on the status accorded to Cantor's transfinite arithmetic.
+
+In the early twentieth century L. E. J. Brouwer represented the intuitionist position and David Hilbert the formalist position — see van Heijenoort. Kurt Gödel offered opinions referred to as Platonist (see various sources re Gödel). Alan Turing considers: "non-constructive systems of logic with which not all the steps in a proof are mechanical, some being intuitive". (Turing 1939, reprinted in Davis 2004, p. 210) Later, Stephen Cole Kleene brought forth a more rational consideration of intuitionism in his Introduction to Meta-mathematics (1952).
+
+4. Contributors to intuitionism
+
+L. E. J. Brouwer
+
+Michael Dummett
+
+Arend Heyting
+
+Stephen Kleene
+
+5. Branches of intuitionistic mathematics
+
+Intuitionistic logic
+
+Intuitionistic arithmetic
+
+Intuitionistic type theory
+
+Intuitionistic set theory
+
+Intuitionistic analysis
+
+6. See also
+
+Anti-realism
+
+Benjamin Peirce
+
+BHK interpretation
+
+Brouwer&ndash;Hilbert controversy
+
+Computability logic
+
+Constructive logic
+
+Curry&ndash;Howard isomorphism
+
+Foundations of mathematics
+
+Fuzzy Logic
+
+Game semantics
+
+Model theory
+
+Intuition (knowledge)
+
+Topos theory
+
+Ultraintuitionism
+
+7. References
+
+8. Further reading
+
+"Analysis." Encyclopædia Britannica. 2006. Encyclopædia Britannica 2006 Ultimate Reference Suite DVD 15 June 2006, "Constructive analysis" (Ian Stewart, author)
+
+W. S. Anglin, Mathematics: A Concise history and Philosophy, Springer-Verlag, New York, 1994.
+
+Martin Davis (ed.) (1965), The Undecidable, Raven Press, Hewlett, NY. Compilation of original papers by Gödel, Church, Kleene, Turing, Rosser, and Post. Republished as
+
+John W. Dawson Jr., Logical Dilemmas: The Life and Work of Kurt Gödel, A. K. Peters, Wellesley, MA, 1997.
+
+Rebecca Goldstein, Incompleteness: The Proof and Paradox of Kurt Godel, Atlas Books, W.W. Norton, New York, 2005.
+
+van Heijenoort, J., From Frege to Gödel, A Source Book in Mathematical Logic, 1879-1931, Harvard University Press, Cambridge, MA, 1967. Reprinted with corrections, 1977. The following papers appear in van Heijenoort:
+
+Arend Heyting:
+
+Stephen Cole Kleene and Richard Eugene Vesley, The Foundations of Intuistionistic Mathematics, North-Holland Publishing Co. Amsterdam, 1965. The lead sentence tells it all "The constructive tendency in mathematics...". A text for specialists, but written in Kleene's wonderfully-clear style.
+
+Hilary Putnam and Paul Benacerraf, Philosophy of Mathematics: Selected Readings, Englewood Cliffs, N.J.: Prentice-Hall, 1964. 2nd ed., Cambridge: Cambridge University Press, 1983. ISBN 0-521-29648-X
+
+Constance Reid, Hilbert, Copernicus - Springer-Verlag, 1st edition 1970, 2nd edition 1996.
+
+Paul Rosenbloom, The Elements of Mathematical Logic, Dover Publications Inc, Mineola, New York, 1950.
+
+Jacques Hartong and Georges Reeb, (first published in La Mathématique Non-standard, éditions du C.N.R.S.)
+
+8.1. Secondary references
+
+A. A. Markov (1954) Theory of algorithms. [Translated by Jacques J. Schorr-Kon and PST staff] Imprint Moscow, Academy of Sciences of the USSR, 1954 [i.e. Jerusalem, Israel Program for Scientific Translations, 1961; available from the Office of Technical Services, U.S. Dept. of Commerce, Washington] Description 444 p. 28 cm. Added t.p. in Russian Translation of Works of the Mathematical Institute, Academy of Sciences of the USSR, v. 42. Original title: Teoriya algorifmov. [QA248.M2943 Dartmouth College library. U.S. Dept. of Commerce, Office of Technical Services, number OTS 60-51085.]
+
+9. External links
+
+de:Intuitionismus eo:Intuiciismo ka:მათემატიკური ინტუიციონიზმი hu:Matematikai intuicionizmus nl:Intuïtionisme fi:Intuitionismi

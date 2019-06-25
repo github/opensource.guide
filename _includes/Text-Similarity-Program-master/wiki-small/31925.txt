@@ -1,0 +1,65 @@
+UCSD Pascal was a Pascal programming language system that ran on the UCSD p-System, a portable, highly machine-independent operating system. UCSD Pascal was first released in 1978. It was developed at the University of California, San Diego (UCSD).
+
+1. UCSD Pascal and the p-System
+
+In 1978, the University of California, San Diego (UCSD) Institute for Information Systems developed UCSD Pascal to provide students with a common environment that could run on any of the then available microcomputers as well as campus DEC PDP-11 minicomputers. The operating system became known as UCSD p-System.
+
+UCSD p-System was one of three operating systems, along with PC DOS and CP/M-86, that IBM offered for its original IBM PC. Vendor SofTech emphasized p-Systems applications' portability, with virtual machines for 20 CPUs as of the IBM PC's release. It predicted that users would be able to use applications they purchased on future computers running p-System; advertisements called it "the Universal Operating System".
+
+PC Magazine denounced UCSD p-System on the IBM PC, stating in a review of Context MBA, written in the language, that it "simply does not produce good code". The p-System did not sell very well for the IBM PC, because of a lack of applications and because it was more expensive than the other choices. Previously, IBM had offered the UCSD p-System as an option for Displaywriter, an 8086-based dedicated word processing machine (not to be confused with IBM's DisplayWrite word processing software). (The Displaywriter's native operating system had been developed completely internally and was not opened for end-user programming.)
+
+Notable extensions to standard Pascal include separately compilable Units and a String type. Both of these extensions influenced the design of the Ada language. Some intrinsics were provided to accelerate string processing (e.g. scanning in an array for a particular search pattern); other language extensions were provided to allow the UCSD p-System to be self-compiling and self-hosted.
+
+UCSD Pascal was based on a p-code machine architecture. Its contribution to these early virtual machines was to extend p-code away from its roots as a compiler intermediate language into a full execution environment. The UCSD Pascal p-Machine was optimized for the new small microcomputers with addressing restricted to 16-bit (only 64 KB of memory). James Gosling cites UCSD Pascal as a key influence (along with the Smalltalk virtual machine) on the design of the Java virtual machine.
+
+UCSD p-System achieved machine independence by defining a virtual machine, called the p-Machine (or pseudo-machine, which many users began to call the "Pascal-machine" like the OS舒although UCSD documentation always used "pseudo-machine") with its own instruction set called p-code (or pseudo-code). Urs Ammann, a student of Niklaus Wirth, originally presented a p-code in his PhD thesis, from which the UCSD implementation was derived, the Zurich Pascal-P implementation. The UCSD implementation changed the Zurich implementation to be "byte oriented". The UCSD p-code was optimized for execution of the Pascal programming language. Each hardware platform then only needed a p-code interpreter program written for it to port the entire p-System and all the tools to run on it. Later versions also included additional languages that compiled to the p-code base. For example, TeleSoft (also located in San Diego) offered an early Ada development environment that used p-code and was therefore able to run on a number of hardware platforms including the Motorola 68000, the System/370, and the Pascal MicroEngine.
+
+UCSD p-System shares some concepts with the more current Java platform. Both use a virtual machine to hide operating system and hardware differences, and both use programs written to that virtual machine to provide cross-platform support. Likewise both systems allow the virtual machine to be used either as the complete operating system of the target computer or to run in a "box" under another operating system.
+
+The UCSD Pascal compiler was distributed as part of a portable operating system, the p-System.
+
+2. History
+
+UCSD p-System began around 1974 as the idea of UCSD's Kenneth Bowles, who believed that the number of new computing platforms coming out at the time would make it difficult for new programming languages to gain acceptance. He based UCSD Pascal on the Pascal-P2 release of the portable compiler from Zurich. He was particularly interested in Pascal as a language to teach programming. UCSD introduced two features that were important improvements on the original Pascal: variable length strings, and "units" of independently compiled code (an idea included into the then-evolving Ada programming language). Niklaus Wirth credits the p-System, and UCSD Pascal in particular, with popularizing Pascal. It was not until the release of Turbo Pascal that UCSD's version started to slip from first place among Pascal users.
+
+The Pascal dialect of UCSD Pascal came from the subset of Pascal implemented in Pascal-P2, which was not designed to be a full implementation of the language, but rather "the minimum subset that would self-compile", to fit its function as a bootstrap kit for Pascal compilers. UCSD added strings from BASIC, and several other implementation dependent features. Although UCSD Pascal later obtained many of the other features of the full Pascal language, the Pascal-P2 subset persisted in other dialects, notably Borland Pascal, which copied much of the UCSD dialect.
+
+3. Versions
+
+There were four versions of UCSD p-code engine, each with several revisions of the p-System and UCSD Pascal. A revision of the p-code engine (i.e., the p-Machine) meant a change to the p-code language, and therefore compiled code is not portable between different p-Machine versions. Each revision was represented with a leading Roman Numeral, while operating system revisions were enumerated as the "dot" number following the p-code Roman Numeral. For example, II.3 represented the third revision of the p-System running on the second revision of the p-Machine.
+
+Version I
+
+Version II
+
+Version III
+
+Version IV
+
+4. Further use
+
+The Corvus Systems computer used USCD pascal for all its user software. The "innovative concept" of the Constellation OS was to run Pascal (interpretively or compiled) and include all common software in the manual, so users could modify as needed while using (open source was the default in that era).
+
+5. See also
+
+Pascal programming language
+
+P-code machine
+
+6. Notes
+
+7. Further reading
+
+8. External links
+
+, UCSD has written before June 1, 1979 for non-commercial use. (Note: Webpage resizes browser window.)
+
+held October 22, 2004
+
+, cross-compilable source code for the UCSD p-System version II.0
+
+, a portable virtual machine for UCSD p-System p-code
+
+within the Jefferson Computer Museum
+
+at Pascal for Small Machines

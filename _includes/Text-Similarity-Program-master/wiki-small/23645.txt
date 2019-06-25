@@ -1,0 +1,81 @@
+The Precambrian (or Pre-Cambrian; sometimes abbreviated pЄ) is the largest span of time in Earth's history before the current Phanerozoic Eon, and is a Supereon divided into several eons of the geologic time scale. It spans from the formation of Earth about 4.6 billion years ago (Ga) to the beginning of the Cambrian Period, about million years ago (Ma), when hard-shelled creatures first appeared in abundance. The Precambrian is so named because it precedes the Cambrian, the first period of the Phanerozoic Eon, which is named after Cambria, the classical name for Wales, where rocks from this age were first studied. The Precambrian accounts for 88% of geologic time.
+
+1. Overview
+
+Relatively little is known about the Precambrian, despite it making up roughly seven-eighths of the Earth's history, and what is known has largely been discovered in the past 50 years. The Precambrian fossil record is poorer than that of the succeeding Phanerozoic, and those fossils present (e.g. stromatolites) are of limited biostratigraphic use. This is because many Precambrian rocks have been heavily metamorphosed, obscuring their origins, while others have been destroyed by erosion, or remain deeply buried beneath Phanerozoic strata.
+
+It is thought that the Earth itself coalesced from material in orbit around the Sun roughly 4500 Ma, or 4.5 billion years ago (Ga), and may have been struck by a very large (Mars-sized) planetesimal shortly after it formed, splitting off material that formed the Moon (see Giant impact hypothesis). A stable crust was apparently in place by 4400 Ma, since zircon crystals from Western Australia have been dated at 4404 Ma.
+
+The term Precambrian is recognized by the International Commission on Stratigraphy as a general term including the Archean and Proterozoic eons. It is still used by geologists and paleontologists for general discussions not requiring the more specific eon names. It was briefly also called the Cryptozoic eon.
+
+2. Life before the Cambrian
+
+It is not known when life originated, but carbon in 3.8 billion year old rocks from islands off western Greenland may be of organic origin. Well-preserved bacteria older than 3.46 billion years have been found in Western Australia. Probable fossils 100 million years older have been found in the same area. There is a fairly solid record of bacterial life throughout the remainder of the Precambrian.
+
+Excluding a few contested reports of much older forms from USA and India, the first complex multicellular life forms seem to have appeared roughly 600 Ma. The oldest fossil evidence of complex life comes from the Lantian formation, at least 580 million years ago. A quite diverse collection of soft-bodied forms is known from a variety of locations worldwide between 542 and 600 Ma. These are referred to as Ediacaran or Vendian biota. Hard-shelled creatures appeared toward the end of that time span. By the middle of the later Cambrian period a very diverse fauna is recorded in the Burgess Shale, including some which may represent stem groups of modern taxa. The rapid radiation of lifeforms during the early Cambrian is called the Cambrian explosion of life.
+
+While land seems to have been devoid of plants and animals, cyanobacteria and other microbes formed prokaryotic mats that covered terrestrial areas.
+
+3. Planetary environment and the oxygen catastrophe
+
+Evidence illuminating the details of plate motions and other tectonic functions in the Precambrian has been poorly preserved. It is generally believed that small proto-continents existed prior to 3000 Ma, and that most of the Earth's landmasses collected into a single supercontinent around 1000 Ma. The supercontinent, known as Rodinia, broke up around 600 Ma. A number of glacial periods have been identified going as far back as the Huronian epoch, roughly 2200 Ma. One of the most delved into is the Sturtian-Varangian glaciation, around 600 Ma, which may have brought glacial conditions all the way to the equator, resulting in a "Snowball Earth".
+
+The atmosphere of the early Earth is not well understood. Most geologists believe it was composed primarily of nitrogen, carbon dioxide, and other relatively inert gases, lacking in free oxygen. This has been disputed with evidence in support of an oxygen-rich atmosphere since the early Archean.
+
+Molecular oxygen was not present as a significant fraction of Earth's atmosphere until after photosynthetic life forms evolved and began to produce it in large quantities as a byproduct of their metabolism. This radical shift from an inert to an oxidizing atmosphere caused an ecological crisis sometimes called the oxygen catastrophe. At first, oxygen would quickly combine with other elements in Earth's crust, primarily iron, as it was produced. After the supply of oxidizable surfaces ran out, oxygen began to accumulate in the atmosphere, and the modern high-oxygen atmosphere developed. Evidence for this lies in older rocks that contain massive banded iron formations, laid down as iron and oxygen first combined.
+
+4. Subdivisions
+
+An established terminology has evolved covering the early years of the Earth's existence, as radiometric dating allows plausible real dates to be assigned to specific formations and features. The Precambrian Supereon is divided into three Precambrian eons: the Hadean (4500-3950 Ma), Archean (- Ma) and Proterozoic (- Ma). See Timetable of the Precambrian.
+
+Proterozoic: this eon refers to the time from the lower Cambrian boundary, Ma, back through Ma. As originally used, it was a synonym for "Precambrian" and hence included everything prior to the Cambrian boundary. The Proterozoic eon is divided into three eras: the Neoproterozoic, Mesoproterozoic and Paleoproterozoic.
+
+Neoproterozoic: The youngest geologic era of the Proterozoic Eon, from the Cambrian Period lower boundary ( Ma) back to Ma. The Neoproterozoic corresponds to Precambrian Z rocks of older North American geology.
+
+Ediacaran: The youngest geologic period within the Neoproterozoic Era. The "2012 Geologic Time Scale" dates it from to Ma. In this period the Ediacaran fauna appeared.
+
+Cryogenian: The middle period in the Neoproterozoic Era: - Ma.
+
+Tonian: the earliest period of the Neoproterozoic Era: - Ma.
+
+Mesoproterozoic: the middle era of the Proterozoic Eon, - Ma. Corresponds to "Precambrian Y" rocks of older North American geology.
+
+Paleoproterozoic: oldest era of the Proterozoic Eon, - Ma. Corresponds to "Precambrian X" rocks of older North American geology.
+
+Archean Eon: - Ma.
+
+Hadean Eon: 3950-4500 Ma. This term was intended originally to cover the time before any preserved rocks were deposited, although some zircon crystals from about 4400 Ma demonstrate the existence of crust in the Hadean Eon. Other records from Hadean time come from the moon and meteorites. It has been proposed that the Precambrian should be divided into eons and eras that reflect stages of planetary evolution, rather than the current scheme based upon numerical ages. Such a system could rely on events in the stratigraphic record and be demarcated by GSSPs. The Precambrian could be divided into five "natural" eons, characterized as follows.
+
+Accretion and differentiation: a period of planetary formation until giant Moon-forming impact event.
+
+Hadean: dominated by heavy bombardment from about 4.51, (possibly including a Cool Early Earth period) to the end of the Late Heavy Bombardment period.
+
+Archean: a period defined by the first crustal formations (the Isua greenstone belt) until the deposition of banded iron formations due to increasing atmospheric oxygen content.
+
+Transition: a period of continued iron banded formation until the first continental red beds.
+
+Proterozoic: a period of modern plate tectonics until the first animals.
+
+5. Precambrian super-continents
+
+The movement of plates has caused the formation and break-up of continents over time, including occasional formation of a super-continent containing most or all of the continents. The earliest known super-continent was Vaalbara. It formed from proto-continents and was a super-continent by 3.1 billion years ago (3.1 Ga). Vaalbara broke up ~2.8 Ga ago. The super-continent Kenorland was formed ~2.7 Ga ago and then broke sometime after 2.5 Ga into the proto-continent Cratons called Laurentia, Baltica, Australia, and Kalahari. The super-continent Columbia or Nuna formed during a period of 2.0–1.8 billion years and broke up about 1.5–1.3 billion years ago The super-continent Rodinia is thought to have formed about 1 billion years ago, to have embodied most or all of Earth's continents and to have broken up into eight continents around 600 million years ago.
+
+6. See also
+
+Phanerozoic
+
+Paleozoic
+
+Mesozoic
+
+Cenozoic
+
+7. References
+
+8. Further reading
+
+Valley, John W., William H. Peck, Elizabeth M. King (1999) Zircons Are Forever, The Outcrop for 1999, University of Wisconsin-Madison 舑 Evidence from detrital zircons for the existence of continental crust and oceans on the Earth 4.4 Gyr ago Accessed Jan. 10, 2006
+
+9. External links
+
+from the Paleomap Project

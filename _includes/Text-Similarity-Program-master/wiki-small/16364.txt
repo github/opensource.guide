@@ -1,0 +1,13 @@
+Judicial economy refers broadly to the principle that the limited resources of the legal system or a given court should be conserved.
+
+1. Multiple causes of action in a given case
+
+"Judicial economy" most commonly refers to the refusal of a court to decide one or more claims raised in a case, on the grounds that it has decided other claims in the case and that its decision on those claims should satisfy the parties. For example, the plaintiff may claim that the defendant's actions violated three distinct laws. Having found for the plaintiff for a violation of the first law, the court then has the discretion to exercise judicial economy and refuse to make a decision on the remaining two claims, on the grounds that the finding of one violation should be sufficient to satisfy the plaintiff.
+
+2. Threshold issue in a given case
+
+In the presence of a threshold issue that will ultimately decide a case, a court may elect to hear that issue rather than proceeding with a full-blown trial.
+
+3. Class action lawsuits
+
+Class action lawsuits are another example of judicial economy in action, as they are often tried as a single case, yet involve many cases with similar facts. Rather than trying each case individually, which would unduly burden the judicial system, the cases can be consolidated into a class action.

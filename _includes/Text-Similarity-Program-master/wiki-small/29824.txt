@@ -1,0 +1,207 @@
+Terraforming (literally, "Earth-shaping") of a planet, moon, or other body is the theoretical process of deliberately modifying its atmosphere, temperature, surface topography or ecology to be similar to the biosphere of Earth to make it habitable by Earth-like life.
+
+The term "terraforming" is sometimes used more generally as a synonym for planetary engineering, although some consider this more general usage an error. The concept of terraforming developed from both science fiction and actual science. The term was coined by Jack Williamson in a science-fiction story (Collision Orbit) published during 1942 in Astounding Science Fiction, but the concept may pre-date this work.
+
+Based on experiences with Earth, the environment of a planet can be altered deliberately; however, the feasibility of creating an unconstrained planetary biosphere that mimics Earth on another planet has yet to be verified. Mars is usually considered to be the most likely candidate for terraforming. Much study has been done concerning the possibility of heating the planet and altering its atmosphere, and NASA has even hosted debates on the subject. Several potential methods of altering the climate of Mars may fall within humanity's technological capabilities, but at present the economic resources required to do so are far beyond that which any government or society is willing to allocate to it. The long timescales and practicality of terraforming are the subject of debate. Other unanswered questions relate to the ethics, logistics, economics, politics, and methodology of altering the environment of an extraterrestrial world.
+
+1. History of scholarly study
+
+Carl Sagan, an astronomer, proposed the planetary engineering of Venus in an article published in the journal Science in 1961. Sagan imagined seeding the atmosphere of Venus with algae, which would convert water, nitrogen and carbon dioxide into organic compounds. As this process removed carbon dioxide from the atmosphere, the greenhouse effect would be reduced until surface temperatures dropped to "comfortable" levels. The resulting carbon, Sagan supposed, would be incinerated by the high surface temperatures of Venus, and thus be sequestered in the form of "graphite or some involatile form of carbon" on the planet's surface. However, later discoveries about the conditions on Venus made this particular approach impossible. One problem is that the clouds of Venus are composed of a highly concentrated sulfuric acid solution. Even if atmospheric algae could thrive in the hostile environment of Venus' upper atmosphere, an even more insurmountable problem is that its atmosphere is simply far too thick舒the high atmospheric pressure would result in an "atmosphere of nearly pure molecular oxygen" and cause the planet's surface to be thickly covered in fine graphite powder. This volatile combination could not be sustained through time. Any carbon that was fixed in organic form would be liberated as carbon dioxide again through combustion, "short-circuiting" the terraforming process.
+
+Sagan also visualized making Mars habitable for human life in "Planetary Engineering on Mars" (1973), an article published in the journal Icarus. Three years later, NASA addressed the issue of planetary engineering officially in a study, but used the term "planetary ecosynthesis" instead. The study concluded that it was possible for Mars to support life and be made into a habitable planet. The first conference session on terraforming, then referred to as "Planetary Modeling", was organized that same year.
+
+In March 1979, NASA engineer and author James Oberg organized the First Terraforming Colloquium, a special session at the Lunar and Planetary Science Conference in Houston. Oberg popularized the terraforming concepts discussed at the colloquium to the general public in his book New Earths (1981). Not until 1982 was the word terraforming used in the title of a published journal article. Planetologist Christopher McKay wrote "Terraforming Mars", a paper for the Journal of the British Interplanetary Society. The paper discussed the prospects of a self-regulating Martian biosphere, and McKay's use of the word has since become the preferred term. In 1984, James Lovelock and Michael Allaby published The Greening of Mars. Lovelock's book was one of the first to describe a novel method of warming Mars, where chlorofluorocarbons (CFCs) are added to the atmosphere.
+
+Motivated by Lovelock's book, biophysicist Robert Haynes worked behind the scenes to promote terraforming, and contributed the neologism Ecopoiesis, forming the word from the Greek , oikos, "house", and , poiesis, "production". Ecopoiesis refers to the origin of an ecosystem. In the context of space exploration, Haynes describes ecopoiesis as the "fabrication of a sustainable ecosystem on a currently lifeless, sterile planet". Ecopoiesis is a type of planetary engineering and is one of the first stages of terraformation. This primary stage of ecosystem creation is usually restricted to the initial seeding of microbial life. As conditions approach that of Earth, plant life could be brought in, and this will accelerate the production of oxygen, theoretically making the planet eventually able to support animal life.
+
+1.1. Aspects and definitions
+
+Beginning in 1985, Martyn J. Fogg began publishing several articles on terraforming. He also served as editor for a full issue on terraforming for the Journal of the British Interplanetary Society in 1992. In his book Terraforming: Engineering Planetary Environments (1995), Fogg proposed the following definitions for different aspects related to terraforming:
+
+Planetary engineering: the application of technology for the purpose of influencing the global properties of a planet.
+
+Geoengineering: planetary engineering applied specifically to the Earth. It includes only those macroengineering concepts that deal with the alteration of some global parameter, such as the greenhouse effect, atmospheric composition, insolation or impact flux.
+
+Terraforming: a process of planetary engineering, specifically directed at enhancing the capacity of an extraterrestrial planetary environment to support life as we know it. The ultimate achievement in terraforming would be to create an open planetary biosphere emulating all the functions of the biosphere of the Earth, one that would be fully habitable for human beings.
+
+Astrophysical engineering: taken to represent proposed activities, relating to future habitation, that are envisaged to occur on a scale greater than that of "conventional" planetary engineering. Fogg also devised definitions for candidate planets of varying degrees of human compatibility:
+
+Habitable Planet (HP): A world with an environment sufficiently similar to the Earth as to allow comfortable and free human habitation.
+
+Biocompatible Planet (BP): A planet possessing the necessary physical parameters for life to flourish on its surface. If initially lifeless, then such a world could host a biosphere of considerable complexity without the need for terraforming.
+
+Easily Terraformable Planet (ETP): A planet that might be rendered biocompatible, or possibly habitable, and maintained so by modest planetary engineering techniques and with the limited resources of a starship or robot precursor mission. Fogg suggests that Mars was a biologically compatible planet in its youth, but is not now in any of these three categories, since it could only be terraformed with greater difficulty. Mars Society founder Robert Zubrin produced a plan for a Mars return mission called Mars Direct that would set up a permanent human presence on Mars and steer efforts towards eventual terraformation.
+
+2. Requirements for sustaining terrestrial life
+
+An absolute requirement for life is an energy source, but the notion of planetary habitability implies that many other geophysical, geochemical, and astrophysical criteria must be met before the surface of an astronomical body is able to support life. Of particular interest is the set of factors that has sustained complex, multicellular animals in addition to simpler organisms on this planet. Research and theory in this regard is a component of planetary science and the emerging discipline of astrobiology.
+
+In its astrobiology roadmap, NASA has defined the principal habitability criteria as "extended regions of liquid water, conditions favorable for the assembly of complex organic molecules, and energy sources to sustain metabolism."
+
+3. Preliminary stages
+
+Once conditions become more suitable for life of the introduced species, the importation of microbial life could begin. As conditions approach that of Earth, plant life could also be brought in. This would accelerate the production of oxygen, which theoretically would make the planet eventually able to support animal life.
+
+4. Prospective planets
+
+4.1. Mars
+
+In many respects, Mars is the most earthlike of all the other planets in our Solar system. Indeed, it is thought that Mars once did have a more Earth-like environment early in its history, with a thicker atmosphere and abundant water that was lost over the course of hundreds of millions of years.
+
+The exact mechanism of this loss is still unclear, though three mechanisms in particular seem likely: First, whenever surface water is present, carbon dioxide reacts with rocks to form carbonates, thus drawing atmosphere off and binding it to the planetary surface. On Earth, this process is counteracted when plate tectonics works to cause volcanic eruptions that vent carbon dioxide back to the atmosphere. On Mars, the lack of such tectonic activity worked to prevent the recycling of gases locked up in sediments.
+
+Second, the lack of a magnetosphere surrounding the entire surface of Mars may have allowed the solar wind to gradually erode the atmosphere. Convection within the core of Mars, which is made mostly of iron, originally generated a magnetic field. However the dynamo ceased to function long ago, and the magnetic field of Mars has largely disappeared, probably due to "... loss of core heat, solidification of most of the core, and/or changes in the mantle convection regime." Mars does still retain a limited magnetosphere that covers approximately 40% of its surface. Rather than uniformly covering and protecting the atmosphere from solar wind, however, the magnetic field takes the form of a collection of smaller, umbrella-shaped fields, mainly clustered together around the planet's southern hemisphere. It is within these regions that chunks of atmosphere are violently "blown away", as astronomer David Brain explains:
+
+The joined fields wrapped themselves around a packet of gas at the top of the Martian atmosphere, forming a magnetic capsule a thousand kilometres wide with ionised air trapped inside... Solar wind pressure caused the capsule to 'pinch off' and it blew away, taking its cargo of air with it. Finally, between approximately 4.1 and 3.8 billion years ago, asteroid impacts during the Late Heavy Bombardment caused significant changes to the surface environment of objects in our Solar system. The low gravity of Mars suggests that these impacts could have ejected much of the Martian atmosphere into deep space.
+
+Terraforming Mars would entail two major interlaced changes: building the atmosphere and heating it. A thicker atmosphere of greenhouse gases such as carbon dioxide would trap incoming solar radiation. Because the raised temperature would add greenhouse gases to the atmosphere, the two processes would augment each other.
+
+4.2. Venus
+
+Terraforming Venus requires two major changes; removing most of the planet's dense 9 MPa carbon dioxide atmosphere and reducing the planet's 450 °C (723.15 K) surface temperature. These goals are closely interrelated, since Venus' extreme temperature is thought to be due to the greenhouse effect caused by its dense atmosphere. Sequestering the atmospheric carbon would likely solve the temperature problem as well.
+
+4.3. Europa (moon)
+
+Europa, a moon of Jupiter, is a potential candidate for terraforming. One advantage to Europa is the presence of liquid water which could be extremely helpful for the introduction of any form of life. The difficulties are numerous; Europa is near a huge radiation belt around Jupiter. This would require the building of radiation deflectors, which is currently impractical. Additionally, this satellite is covered in ice and would have to be heated, and there would need to be a supply of oxygen, though this could, at sufficient energy cost, be manufactured locally by electrolysis of the copious water available.
+
+4.4. Other bodies in the Solar System
+
+Other possible candidates for terraforming (possibly only partial or paraterraforming) include Titan, Callisto, Ganymede, the Moon, and even Mercury, Saturn's moon Enceladus and the dwarf planet Ceres. Most, however, have too little mass and gravity to hold an atmosphere indefinitely (although it may be possible, but it is not quite certain, that an atmosphere could remain for tens of thousands of years or be replenished as needed). In addition, aside from the Moon and Mercury, most of these worlds are so far from the Sun that adding sufficient heat would be much more difficult than it would be for Mars. Terraforming Mercury would present different challenges, but in certain aspects would be easier than terraforming Venus. Though not widely discussed, the possibility of terraforming Mercury's poles has been presented. Saturn's moon Titan offers several unique advantages, such as an atmospheric pressure similar to Earth and an abundance of nitrogen and frozen water. Jupiter's moons Europa, Ganymede, and Callisto also have an abundance of water ice.
+
+5. Paraterraforming
+
+Also known as the "worldhouse" concept, or domes in smaller versions, paraterraforming involves the construction of a habitable enclosure on a planet which eventually grows to encompass most of the planet's usable area. The enclosure would consist of a transparent roof held one or more kilometers above the surface, pressurized with a breathable atmosphere, and anchored with tension towers and cables at regular intervals. Proponents claim worldhouses can be constructed with technology known since the 1960s. The Biosphere 2 project built a dome on Earth that contained a habitable environment. The project encountered difficulties in operation, including unexpected population explosions of some plants and animals, and a lower than anticipated production of oxygen by plants, requiring extra oxygen to be pumped in.
+
+Paraterraforming has several advantages over the traditional approach to terraforming. For example, it provides an immediate payback to investors (assuming a capitalistic financing model). Although it starts out in a small area (a domed city for example), it quickly provides habitable space. The paraterraforming approach also allows for a modular approach that can be tailored to the needs of the planet's population, growing only as fast and only in those areas where it is required. Finally, paraterraforming greatly reduces the amount of atmosphere that one would need to add to planets like Mars to provide Earth-like atmospheric pressures. By using a solid envelope in this manner, even bodies which would otherwise be unable to retain an atmosphere at all (such as asteroids) could be given a habitable environment. The environment under an artificial worldhouse roof would also likely be more amenable to artificial manipulation. Paraterraforming is also less likely to cause harm to any native lifeforms that may hypothetically inhabit the planet, as the parts of the planet outside the enclosure will not normally be affected unlike terraforming which affects the entire planet.
+
+It has the disadvantage of requiring massive amounts of construction and maintenance activity. It also would not likely have a completely independent water cycle, because although rainfall may be able to develop with a high enough roof, but probably not efficiently enough for agriculture or a water cycle. The extra cost might be off-set somewhat by automated manufacturing and repair mechanisms. A worldhouse might also be more susceptible to catastrophic failure if a major breach occurred, though this risk might be reduced by compartmentalization and other active safety precautions. Meteor strikes are a particular concern because without any external atmosphere they would reach the surface before burning up.
+
+6. Ethical issues
+
+There is a philosophical debate within biology and ecology as to whether terraforming other worlds is an ethical endeavor. From the point of view of a cosmocentric ethic, this involves balancing the need for the preservation of human life against the intrinsic value of existing planetary ecologies.
+
+On the pro-terraforming side of the argument, there are those like Robert Zubrin, Martyn J. Fogg, Richard L. S. Taylor and the late Carl Sagan who believe that it is humanity's moral obligation to make other worlds suitable for life, as a continuation of the history of life transforming the environments around it on Earth. They also point out that Earth would eventually be destroyed if nature takes its course, so that humanity faces a very long-term choice between terraforming other worlds or allowing all terrestrial life to become extinct. Terraforming totally barren planets, it is asserted, is not morally wrong as it does not affect any other life.
+
+The opposing argument posits that terraforming would be an unethical interference in nature, and that given humanity's past treatment of the Earth, other planets may be better off without human interference. Still others strike a middle ground, such as Christopher McKay, who argues that terraforming is ethically sound only once we have completely assured that an alien planet does not harbor life of its own; but that if it does, while we should not try to reshape the planet to our own use, we should engineer the planet's environment to artificially nurture the alien life and help it thrive and co-evolve, or even co-exist with humans. Even this would be seen as a type of terraforming to the strictest of ecocentrists, who would say that all life has the right, in its home biosphere, to evolve without outside interference.
+
+7. Economic issues
+
+The initial cost of such projects as planetary terraforming would be gargantuan, and the infrastructure of such an enterprise would have to be built from scratch. Such technology is not yet developed, let alone financially feasible at the moment. John Hickman has pointed out that almost none of the current schemes for terraforming incorporate economic strategies, and most of their models and expectations seem highly optimistic. Access to the vast resources of space may make such projects more economically feasible, though the initial investment required to enable easy access to space will likely be tremendous (see Asteroid mining, solar power satellites, In-Situ Resource Utilization, bootstrapping, space elevator).
+
+8. Political issues
+
+National pride, rivalries between nations, and the politics of public relations have in the past been the primary motivations for shaping space projects. It is reasonable to assume that these factors would also be present in planetary terraforming efforts.
+
+9. In popular culture
+
+Terraforming is a common concept in science fiction, ranging from television, movies and novels to video games.
+
+The concept of changing a planet for habitation precedes the use of the word 'terraforming', with H. G. Wells describing a reverse-terraforming, where aliens in his story The War of the Worlds change Earth for their own benefit. Olaf Stapledon's Last and First Men (1930) provides the first example in fiction in which Venus is modified, after a long and destructive war with the original inhabitants, who naturally object to the process. The word itself was coined in fiction by Jack Williamson, but features in many other stories of the 1950s & 60s, such Poul Anderson's The Big Rain, and James Blish's "Pantropy" stories. Recent works involving terraforming of Mars include the Mars trilogy by Kim Stanley Robinson and The Platform by James Garvey. In Isaac Asimov's Robot Series, fifty planets have been colonized and terraformed by the powerful race of humans called Spacers, and when Earth is allowed to attempt colonization once more, the Settlers begin the process of terraforming their new worlds immediately. After twenty thousand years in the future, all the habitable planets in the galaxy have been terraformed and form the basis of the Galactic Empire in Asimov's Foundation Series. In the Star Wars series, the planet Manaan uses a paraterraforming-like infrastructure, with all buildings being built above the water as the habitable land of the planet. There is no natural land on the planet. In the Star Wars Expanded Universe, the planet Taris is restored to its former state after a Sith bombardment through aggressive terraforming.
+
+Terraforming has also been explored on television and in feature films, including the "Genesis device", developed to quickly terraform barren planets, in the movie The Wrath of Khan. A similar device exists in the animated feature film Titan A.E. which depicts the eponymous ship Titan, capable of creating a planet. The word 'terraforming' was used in James Cameron's Aliens to describe the act of processing a planet's atmosphere through nuclear reactors over several decades in order to make it habitable. The 2000 movie Red Planet also uses the motif: after humanity faces heavy overpopulation and pollution on Earth, uncrewed space probes loaded with algae are sent to Mars with the aim of terraforming and creating a breathable atmosphere. The television series Firefly and its cinematic sequel Serenity (circa 2517) are set in a solar system with about seventy terraformed planets and moons. In the 2008 video game Spore, the player is able to terraform any planet by using either terraforming rays or a "Staff of Life" that completely terraforms the planet and fills it with creatures. Doctor Who episode "The Doctor's Daughter" also references terraforming, where a glass orb is broken to release gases which terraform the planet the characters are on at the time. One crew member in Ridley Scott's 2012 Prometheus bets another that the purpose of their visit is terraforming.
+
+In the video game Halo (2001), the main setting is an ancient ring-shaped structure whose radius is nearly that of Earth; the structure is terraformed to support an Earth-like ecosystem. The rings are created using Forerunner technology, and terraformed during their construction by an extra-galactic construct known as The Ark or Installation 00. Various works of fiction based on Halo also mention the terraforming of planets.
+
+John Christopher's "Tripods" trilogy has a twist on terraforming. Aliens have conquered the earth. They live in three domed cities located in Germany, China, and Panama where they breathe an atmosphere poisonous to earth life (probably containing chlorine). As the plot unfolds, the protagonist determines the aliens are awaiting the arrival of another ship from their home star containing the equipment for them to terraform (or alienscape) the earth. If this occurs, all earth life will be wiped out by the poisoned atmosphere. In M. Night Shyamalan's After Earth, the planet Nova Prime has been terraformed to be adaptable for human life as the Earth has lost all properties of being adjustable for humanity (e.g. violent thermal shifts)
+
+In Zack Snyder's Man of Steel, General Zod attempts to use terraforming to revive the environment of planet Krypton on Earth.
+
+10. See also
+
+Arcology
+
+Colonization of Mars
+
+BIOS-3
+
+Desertification
+
+Domed city
+
+Extraterrestrial liquid water
+
+Extraterrestrial real estate
+
+Floating city (science fiction)
+
+Geoengineering
+
+Health threat from cosmic rays
+
+Human outpost
+
+Effect of spaceflight on the human body
+
+In-situ resource utilization
+
+Manned mission to Mars
+
+Mars Direct
+
+Mars to Stay
+
+Pantropy
+
+Planetary habitability
+
+Recycling
+
+Renewable energy
+
+Solar analog
+
+Space colonization
+
+The Case for Mars
+
+The Millennial Project: Colonizing the Galaxy in Eight Easy Steps (Book)
+
+Terraforming of Mars
+
+Space habitat
+
+Space stations and habitats in popular culture
+
+Space weather
+
+Underground city
+
+Landscaping
+
+11. References
+
+12. Notes
+
+Averner, M. M. & MacElroy, R. D. (1976). On the Habitability of Mars: An Approach to Planetary Ecosynthesis. NASA SP-414.
+
+Dalrymple, G. Brent (2004). Ancient Earth, ancient skies: the age of Earth and its cosmic surroundings. Stanford University Press. ISBN 0-8047-4933-7
+
+Faure, Gunter & Mensing, Teresa M. (2007). Introduction to planetary science: the geological perspective. Springer. ISBN 1-4020-5233-2.
+
+Fogg Martyn J. (2000). (pdf format). Space Policy, 16, 205-211. Also presented (1999) at the 50th International Astronautical Congress, Amsterdam (IAA-99-IAA.7.1.07).
+
+Forget, François; Costard, François & Lognonné, Philippe (2007). Planet Mars: Story of Another World. Springer. ISBN 0-387-48925-8.
+
+Kargel, Jeffrey Stuart (2004). Mars: a warmer, wetter planet. Springer. ISBN 1-85233-568-8.
+
+McKay Christopher P. & Haynes, Robert H. (1997). Implanting Life on Mars as a Long Term Goal for Mars Exploration, in The Case for Mars IV: Considerations for Sending Humans, ed. Thomas R. Meyer (San Diego, California: American Astronautical Society/Univelt), Pp. 209舑15.
+
+Read, Peter L.; Lewis, Stephen R. (2004). The Martian climate revisited: atmosphere and environment of a desert planet. Springer. ISBN 3-540-40743-X.
+
+Sagan, Carl & Druyan, Ann (1997). Pale Blue Dot: A Vision of the Human Future in Space. Ballantine Books. ISBN 0-345-37659-5.
+
+Schubert, Gerald ; Turcotte, Donald L.; Olson, Peter (2001). Mantle convection in the earth and planets. Cambridge University Press. ISBN 0-521-79836-1
+
+. (November 25, 2008) Cosmos Accessed 6/18/2009.
+
+Taylor, Richard L. S. (1992) Paraterraforming 舑 The worldhouse concept. Journal of the British Interplanetary Society, vol. 45, no. 8, pp. 341–352. ISSN 0007-094X
+
+Thompson, J. M. T. (2001). Visions of the future: astronomy and Earth science. Cambridge University Press. ISBN 0-521-80537-6.
+
+13. External links
+
+Fogg, Martyn J.
+
+"". Scientific American magazine. By Charles Q. Choi (October 1, 2010)
+
+Principal Investigator: Paul Todd (2004)

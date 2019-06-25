@@ -1,0 +1,159 @@
+The lung is the essential respiration organ in many air-breathing animals, including most tetrapods, a few fish and a few snails. In mammals and the more complex life forms, the two lungs are located near the backbone on either side of the heart. Their principal function is to transport oxygen from the atmosphere into the bloodstream, and to release carbon dioxide from the bloodstream into the atmosphere. A large surface area is needed for this exchange of gases which is accomplished by the mosaic of specialized cells that form millions of tiny, exceptionally thin-walled air sacs called alveoli.
+
+To understand the anatomy of the lungs, the passage of air through the nose and mouth to the alveoli must be studied. The progression of air through either the mouth or the nose, travels through the nasopharynx and oropharynx of the pharynx, larynx, and the trachea (windpipe). The air passes down the trachea, which divides into two main bronchi; these branch to the left and right lungs where they progressively subdivide into a system of bronchi and bronchioles until the alveoli are reached. These many alveoli are where the gas exchange of carbon dioxide and oxygen takes place.
+
+Breathing is driven by muscular action; in early tetrapods, air was driven into the lungs by the pharyngeal muscles via buccal pumping, which is still found in amphibians. Reptiles, birds and mammals use their musculoskeletal system to support and foster breathing.
+
+Medical terms related to the lung often begin with pulmo-, such as in the (adjectival form: pulmonary) or from the Latin pulmonarius ("of the lungs"), or with pneumo- (from Greek πνεύμων "lung").
+
+1. Mammalian lungs
+
+The lungs of mammals including those of humans, have a soft, spongelike texture and are honeycombed with epithelium, having a much larger surface area in total than the outer surface area of the lung itself.
+
+Breathing is largely driven by the muscular diaphragm at the bottom of the thorax. Contraction of the diaphragm pulls the bottom of the cavity in which the lung is enclosed downward, increasing volume and thus decreasing pressure, causing air to flow into the airways. Air enters through the oral and nasal cavities; it flows through the pharynx, then the larynx and into the trachea, which branches out into the main bronchi and then subsequent divisions. During normal breathing, expiration is passive and no muscles are contracted (the diaphragm relaxes). The rib cage itself is also able to expand and contract to some degree through the use of the intercostal muscles, together with the action of other respiratory and accessory respiratory muscles. As a result, air is transported into or expelled out of the lungs. This type of lung is known as a bellows lung as it resembles a blacksmith's bellows.
+
+1.1. Anatomy
+
+In humans, the trachea divides into the two main bronchi that enter the roots of the lungs. The bronchi continue to divide within the lung, and after multiple divisions, give rise to bronchioles. The bronchial tree continues branching until it reaches the level of terminal bronchioles, which lead to alveolar sacs. Alveolar sacs, are made up of clusters of alveoli, like individual grapes within a bunch. The individual alveoli are tightly wrapped in blood vessels and it is here that gas exchange actually occurs. Deoxygenated blood from the heart is pumped through the pulmonary artery to the lungs, where oxygen diffuses into blood and is exchanged for carbon dioxide in the haemoglobin of the erythrocytes. The oxygen-rich blood returns to the heart via the pulmonary veins to be pumped back into systemic circulation. Human lungs are located in two cavities on either side of the heart. Though similar in appearance, the two are not identical. Both are separated into lobes by fissures, with three lobes on the right and two on the left. The lobes are further divided into segments and then into lobules, hexagonal divisions of the lungs that are the smallest subdivision visible to the naked eye. The connective tissue that divides lobules is often blackened in smokers. The medial border of the right lung is nearly vertical, while the left lung contains a cardiac notch. The cardiac notch is a concave impression molded to accommodate the shape of the heart.
+
+Each lobe is surrounded by a pleural cavity, which consists of two pleurae. The parietal pleura lies against the rib cage, and the visceral pleura lies on the surface of the lungs. In between the pleura is pleural fluid. The pleural cavity helps to lubricate the lungs, as well as providing surface tension to keep the lung surface in contact with the rib cage.
+
+Lungs are to a certain extent 'overbuilt' and have a tremendous reserve volume as compared to the oxygen exchange requirements when at rest. Such excess capacity is one of the reasons that individuals can smoke for years without having a noticeable decrease in lung function while still or moving slowly; in situations like these only a small portion of the lungs are actually perfused with blood for gas exchange. Destruction of too many alveoli over time leads to the condition emphysema, which is associated with extreme shortness of breath. As oxygen requirements increase due to exercise, a greater volume of the lungs is perfused, allowing the body to match its CO2/O2 exchange requirements. Additionally, due to the excess capacity, it is possible for humans to live with only one lung, with the one compensating for the other's loss.
+
+The environment of the lung is very moist, which makes it hospitable for bacteria. Many respiratory illnesses are the result of bacterial or viral infection of the lungs. Inflammation of the lungs is known as pneumonia; inflammation of the pleura surrounding the lungs is known as pleurisy.
+
+Vital capacity is the maximum volume of air that a person can exhale after maximum inhalation; it can be measured with a spirometer. In combination with other physiological measurements, the vital capacity can help make a diagnosis of underlying lung disease.
+
+The lung parenchyma is strictly used to refer solely to alveolar tissue with respiratory bronchioles, alveolar ducts and terminal bronchioles. However, it often includes any form of lung tissue, also including bronchioles, bronchi, blood vessels and lung interstitium.
+
+1.2. Non respiratory functions
+
+In addition to their function in respiration, the lungs also:
+
+Alter the pH of blood by facilitating alterations in the partial pressure of carbon dioxide
+
+Filter out small blood clots formed in veins
+
+Filter out gas micro-bubbles occurring in the venous blood stream such as those created during decompression after underwater diving.
+
+Influence the concentration of some biologic substances and drugs used in medicine in blood
+
+Convert angiotensin I to angiotensin II by the action of angiotensin-converting enzyme
+
+May serve as a layer of soft, shock-absorbent protection for the heart, which the lungs flank and nearly enclose.
+
+Immunoglobulin-A is secreted in the bronchial secretion and protects against respiratory infections.
+
+Maintain sterility by producing mucus containing antimicrobial compounds. Mucus contains glycoproteins, e.g., mucins, lactoferrin, lysozyme, lactoperoxidase. We find also on the epithelium Dual oxidase 2 proteins generating hydrogen peroxide, useful for hypothiocyanite endogenous antimicrobial synthesis. Function not in place in cystic fibrosis patient lungs.
+
+Ciliary escalator action is an important defence system against air-borne infection. The dust particles and bacteria in the inhaled air are caught in the mucous layer present at the mucosal surface of respiratory passages and are moved up towards pharynx by the rhythmic upward beating action of the cilia.
+
+Provide airflow for the creation of vocal sounds.
+
+The lungs serve as a reservoir of blood in the body. The blood volume of the lungs is about 450 milliliters on average, about 9 percent of the total blood volume of the entire circulatory system. This quantity can easily fluctuate from between one-half and twice the normal volume. Loss of blood from the systemic circulation by hemorrhage can be partially compensated for by shunting blood from the lungs into the systemic vessels
+
+Thermoregulation via panting (observed in some animals, but not humans)
+
+2. Avian lungs
+
+Avian lungs do not have alveoli as mammalian lungs do; birds have honey-comb-like, faveolar lungs, which contain millions of tiny passages called parabronchi. There are air vesicles, called atria, which project radially from the walls of the parabronchi. The gas exchange tissues are set into the walls of the atria and gases travel via diffusion between the gas exchange tissues and the lumen of each parabronchus. There are two categories of parabronchi. The paleopulmonic parabronchi are found in all birds and air flows through them in the same direction—posterior to anterior during inhalation and exhalation. Some bird species also have neopulmonic parabronchi where the air flow is bidirectional. The paleopulmonic unidirectional airflow is in contrast to the mammalian system, in which the direction of airflow in the lung is tidal, reversing between inhalation and exhalation.
+
+By utilizing a unidirectional flow of air, avian lungs are able to extract a greater concentration of oxygen from inhaled air. Birds are thus equipped to fly at altitudes at which mammals would succumb to hypoxia. This also allows them to sustain a higher metabolic rate than most equivalent weight mammals. Note than some species of small bats have a higher mean total morphometric pulmonary diffusing capacity for oxygen than equivalent weight birds but this is the exception and is not the rule.
+
+The lungs of birds are relatively small, but are connected to 8–9 air sacs that extend through much of the body, and are in turn connected to air spaces within the bones. The air sacs, although thin walled, are poorly vascularized, and do not themselves contribute much to gas exchange, but they do act like bellows to ventilate the lungs. The air sacs expand and contract due to changes in the volume of the combined thorax and abdominal cavity. This volume change is caused by the movement of the sternum and ribs and this movement is often synchronized with movement of the flight muscles.
+
+Because of the complexity of the system, misunderstanding is common and it is incorrectly believed that it takes two breathing cycles for air to pass entirely through a bird's respiratory system. Air is not stored in either the posterior or anterior sacs between respiration cycles, air moves continuously from the posterior to the anterior of the lungs throughout respiration. This type of lung construction is called a circulatory lung, as distinct from the bellows lung possessed by other animals.
+
+3. Reptilian lungs
+
+Reptilian lungs are typically ventilated by a combination of expansion and contraction of the ribs via axial muscles and buccal pumping. Crocodilians also rely on the hepatic piston method, in which the liver is pulled back by a muscle anchored to the pubic bone (part of the pelvis), which in turn pulls the bottom of the lungs backward, expanding them. Turtles, which are unable to move their ribs, instead use their forelimbs and pectoral girdle to force air in and out of the lungs.
+
+The lung of most reptiles has a single bronchus running down the centre, from which numerous branches reach out to individual pockets throughout the lungs. These pockets are similar to, but much larger and fewer in number than, mammalian alveoli, and give the lung a sponge-like texture. In tuataras, snakes, and some lizards, the lungs are simpler in structure, similar to that of typical amphibians.
+
+Snakes and limbless lizards typically possess only the right lung as a major respiratory organ; the left lung is greatly reduced, or even absent. Amphisbaenians, however, have the opposite arrangement, with a major left lung, and a reduced or absent right lung.
+
+Both crocodilians and monitor lizards have developed lungs similar to those of birds, providing an unidirectional airflow and even possessing air sacs. The now extinct pterosaurs have seemingly even further refined this type of lung, extending the airsacs into the wing membranes and, in the case of Pteranodontia, the hindlimbs.
+
+4. Amphibian lungs
+
+The lungs of most frogs and other amphibians are simple balloon-like structures, with gas exchange limited to the outer surface area of the lung. This is not a very efficient arrangement, but amphibians have low metabolic demands and can also quickly dispose of carbon dioxide by diffusion across their skin in water, and supplement their oxygen supply by the same method. Unlike higher vertebrates, who use a breathing system driven by negative pressure where the lungs are inflated by expanding the rib cage, amphibians employ positive pressure system, forcing air down into the lungs by buccal pumping. The floor of the mouth is lowered, filling the mouth cavity with air. The throat muscles then presses the throat against the underside of the skull, forcing the air into the lungs.
+
+Due to the possibility of respiration across the skin combined with small size, all known lungless tetrapods are amphibians. The majority of salamander species are lungless salamanders, which respirate through their skin and tissues lining their mouth. This necessarily restrict their size, all are small and rather thread-like in appearance, maximizing skin surface relative to body volume. The only other known lungless tetrapods are the Bornean Flat-headed Frog (Barbourula kalimantanensis) and Atretochoana eiselti, a caecilian.
+
+The lungs of amphibians typically have a few narrow septa of soft tissue around the outer walls, increasing the respiratory surface area and giving the lung a honey-comb appearance. In some salamanders even these are lacking, and the lung has a smooth wall. In caecilians, as in snakes, only the right lung attains any size or development.
+
+5. Lungfish
+
+The lungs of lungfish are similar to those of amphibians, with few, if any, internal septa. In the Australian lungfish, there is only a single lung, albeit divided into two lobes. Other lungfish and Polypterus, however, have two lungs, which are located in the upper part of the body, with the connecting duct curving round and above the esophagus. The blood supply also twists around the esophagus, suggesting that the lungs originally evolved in the ventral part of the body, as in other vertebrates.
+
+6. Invertebrate lungs
+
+Some invertebrates have "lungs" that serve a similar respiratory purpose as, but are not evolutionarily related to, vertebrate lungs. Some arachnids have structures called "book lungs" used for atmospheric gas exchange. The Coconut crab uses structures called Branchiostegal lungs to breathe air and indeed will drown in water, hence it breathes on land and holds its breath underwater. The Pulmonata are an order of snails and slugs that have developed "lungs".
+
+7. Origins of the vertebrate lung
+
+The lungs of today's terrestrial vertebrates and the gas bladders of today's fish are believed to have evolved from simple sacs (outpocketings) of the esophagus that allowed early fish to gulp air under oxygen-poor conditions. These outpocketings first arose in the bony fish. In most of the ray-finned fish the sacs evolved into closed off gas bladders, while a number of carps, trouts, herrings, catfish, eels has retained the physostome condition with the sack being open to the esophagus. In more basal bony fish, such as the gar, bichir, bowfin and the lobe-finned fish, the bladders have evolved to primarily function as lungs. The lobe-finned fish gave rise to the land-based tetrapods. Thus, the lungs of vertebrates are homologous to the gas bladders of fish (but not to their gills). This is reflected by the fact that the lungs of a fetus also develop from an outpocketing of the esophagus and in the case of the physostome gas bladders, which can serve as both buoyancy organ and with the pneumatic duct to the gut also serve as lungs. This condition is found in more "primitive" teleosts, and is lost in the higher orders. (This is an instance of correlation between ontogeny and phylogeny.) No known animals have both a gas bladder and lungs.
+
+8. See also
+
+Alveolar-capillary barrier
+
+American Lung Association
+
+Asthma
+
+Borders of the lung
+
+Bronchitis
+
+Bronchus
+
+Cardiothoracic surgery
+
+Chronic obstructive pulmonary disease
+
+Drowning
+
+Dry drowning
+
+Emphysema
+
+Gills
+
+Left lung
+
+Liquid breathing
+
+Lung cancer
+
+Lung volumes
+
+Mechanical ventilation
+
+Pneumothorax
+
+Pneumonia
+
+Pulmonary contusion
+
+Pulmonology
+
+Right lung
+
+Tuberculosis
+
+9. Further reading
+
+, anaesthetist.com
+
+, leeds.ac.uk
+
+, sln.fi.edu
+
+, bbc.co.uk
+
+, crd.sagepub.com
+
+, people.eku.edu
+
+10. Footnotes

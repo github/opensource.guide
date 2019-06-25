@@ -1,0 +1,151 @@
+Multics ("Multiplexed Information and Computing Service") was an influential early time-sharing operating system. The project was started in 1964 in Cambridge, Massachusetts. The last known running Multics installation was shut down on October 30, 2000, at the Canadian Department of National Defence in Halifax, Nova Scotia, Canada.
+
+1. Overview
+
+Initial planning and development for Multics started in 1964. Originally it was a cooperative project led by MIT (with Fernando Corbató) along with General Electric and Bell Labs. Bell Labs pulled out in 1969, and in 1970 GE's computer business including Multics was taken over by Honeywell.
+
+Multics was conceived as a commercial product for GE, and became one for Honeywell, but not a very successful one. Due to its many novel and valuable ideas, Multics had a significant impact in the computer field even though it was derided by some critics at the time.
+
+Multics had numerous features intended to result in high availability so that it would support a computing utility similar to the telephone and electricity services. Modular hardware structure and software architecture were used to achieve this. The system could grow in size by simply adding more of the appropriate resource — computing power, main memory, disk storage, etc. Separate access control lists on every file provided flexible information sharing, but complete privacy when needed. Multics had a number of standard mechanisms to allow engineers to analyze the performance of the system, as well as a number of adaptive performance optimization mechanisms.
+
+2. Novel ideas
+
+Multics implemented a single level store for data access, discarding the clear distinction between files (called segments in Multics) and process memory. The memory of a process consisted solely of segments which were mapped into its address space. To read or write to them, the process simply used normal CPU instructions, and the operating system took care of making sure that all the modifications were saved to disk. In POSIX terminology, it was as if every file was mmap()ed; however, in Multics there was no concept of process memory, separate from the memory used to hold mapped-in files, as Unix has. All memory in the system was part of some segment, which appeared in the file system; this included the temporary scratch memory of the process, its kernel stack, etc.
+
+One disadvantage of this was that the size of segments was limited to 256 kilowords, giving just over 1 MiB. This was due to the particular hardware architecture of the machines on which Multics ran, having a 36-bit word size (not using the 8-bit byte). Extra code had to be used to work on files larger than this, called multisegment files. In the days when one megabyte of memory was prohibitively expensive, and before large databases and later huge bitmap graphics, this limit was rarely encountered.
+
+Another major new idea of Multics was dynamic linking, in which a running process could request that other segments be added to its address space, segments which could contain code that it could then execute. This allowed applications to automatically use the latest version of any external routine they called, since those routines were kept in other segments, which were dynamically linked only when a process first tried to begin execution in them. Since different processes could use different search rules, different users could end up using different versions of external routines automatically. Equally importantly, with the appropriate settings on the Multics security facilities, the code in the other segment could then gain access to data structures maintained in a different process.
+
+Thus, to interact with an application running in part as a daemon (in another process), a user's process simply performed a normal procedure-call instruction, to a code segment to which it had dynamically linked (a code segment which implemented some operation associated with the daemon). The code in that segment could then modify data maintained and used in the daemon. When the action necessary to commence the request was completed, a simple procedure return instruction returned control of the user's process to the user's code.
+
+The single-level store and dynamic linking are still not available to their full power in other widely used operating systems, despite the rapid and enormous advance in the computer field since the 1960s. They are becoming more widely accepted and available in more limited forms, e.g., dynamic linking.
+
+Multics also supported extremely aggressive on-line reconfiguration; central processing units, memory banks, disk drives, etc. could be added and removed while the system continued operating. At the MIT system, where most early software development was done, it was common practice to split the multiprocessor system into two separate systems during off-hours by incrementally removing enough components to form a second working system, leaving the rest still running the original logged-in users. System software development testing could be done on the second machine, then the components of the second system were added back onto the main user system, without ever having shut it down. Multics supported multiple CPUs: It was one of the earliest multiprocessor systems.
+
+Multics was the first major operating system to be designed as a secure system from the outset. Despite this, early versions of Multics were broken into repeatedly. This led to further work that made the system much more secure and prefigured modern security engineering techniques. Break-ins became very rare once the second-generation hardware base was adopted; it had hardware support for ring-oriented security, a multilevel refinement of the concept of master mode.
+
+Multics was the first operating system to provide a hierarchical file system, and file names could be of almost arbitrary length and syntax. A given file or directory could have multiple names (typically a long and short form), and symbolic links between directories were also supported. Multics was the first to use the now-standard concept of per-process stacks in the kernel, with a separate stack for each security ring. It was also the first to have a command processor implemented as ordinary user code - an idea later used in the Unix shell (although the details are different, since Multics possessed powerful mechanisms which Unix then lacked). It was also one of the first written in a high level language (Multics PL/1), just after the Burroughs MCP system written in ALGOL.
+
+3. Project history
+
+Multics was developed initially for the GE-645 mainframe, a 36-bit system; later, it was supported on the Honeywell 6180 series machines. "With Multics they tried to have a much more versatile and flexible operating system, and it failed miserably," said Dr. Peter H. Salus, author of the definitive history of Unix's early years. This position, however, has been widely discredited in the computing community as many of the technical innovations of the Multics project have found their way into modern commercial computing systems.
+
+Bell Labs pulled out of the project in 1969; some of the people who had worked on it there went on to create the Unix system. Multics development continued at MIT and General Electric.
+
+In 1970, Honeywell bought General Electric's computer division, released a better hardware base, and continued system development until 1985. About 80 multimillion-dollar sites were installed, at universities, industry, and government sites. The French university system had quite a few installations in the early 1980s. After Honeywell stopped supporting Multics, users migrated to other systems, including Unix. The last Multics machine was shut down on October 30, 2000, at the Canadian Department of National Defence.
+
+In 1985, Multics was issued certification as a B2 level secure operating system using the Trusted Computer System Evaluation Criteria from the National Computer Security Center (NCSC) a division of the NSA, the first operating system evaluated to this level.
+
+Multics was distributed from 1975 to 2000 by Groupe Bull in Europe, and by Bull HN Information Systems Inc. in the United States. In 2006 Bull SAS open sourced Multics versions MR10.2, MR11.0, MR12.0, MR12.1, MR12.2, MR12.3, MR12.4 & MR12.5.
+
+4. Retrospective observations
+
+The permanently resident kernel of this powerful multiprocessor mainframe computing utility, much derided in its day as being too large and complex, was only 135 KiB of code. The first MIT GE-645 had 512 kilowords of memory (2 MiB), a truly enormous amount at the time, and the kernel only used a moderate portion of Multics main memory.
+
+The entire system, including the operating system and the complex PL/1 compiler, user commands, and subroutine libraries, consisted of about 1500 source modules. These averaged roughly 200 lines of source code each, and compiled to produce a total of roughly 4.5 MiB of procedure code, which was fairly large by the standards of the day.
+
+Multics compilers generally optimised more for code density than CPU performance, for example using small sub-routines called operators for short standard code-sequences, making direct comparison of object code size with more modern systems less useful. High code density was a good optimisation choice for a multi-user system with expensive main memory, such as Multics.
+
+5. Influence on other projects
+
+5.1. UNIX
+
+The design and features of Multics greatly influenced the Unix operating system, which was originally written by two ex-programmers from the older project, Ken Thompson and Dennis Ritchie. Superficial influence of Multics on Unix is evident in many areas, including the naming of some commands. But the internal design philosophy was quite different, focusing on keeping the system small and simple, and so correcting some deficiencies of Multics because of its high resource demands on the limited computer hardware of the time.
+
+The name Unix (originally Unics) is itself a pun on Multics. The U in Unix is rumored to stand for uniplexed as opposed to the multiplexed of Multics, further underscoring the designers' rejections of Multics' complexity in favor of a more straightforward and workable approach for smaller computers. (Garfinkel and Abelson cite an alternative origin: Peter Neumann at Bell Labs, watching a demonstration of the prototype, suggested the name/pun UNICS (pronounced "Eunuchs"), as a "castrated Multics", although Dennis Ritchie is claimed to have denied this.)
+
+Ken Thompson, in a transcribed 2007 interview with Peter Seibel refers to Multics as "...overdesigned and overbuilt and over everything. It was close to unusable. They (i.e., Massachusetts Institute of Technology) still claim it’s a monstrous success, but it just clearly wasn’t." He admits, however, that "The things that I liked enough (about Multics) to actually take were the hierarchical file system and the shell—a separate process that you can replace with some other process."
+
+5.2. Other operating systems
+
+The Prime Computer operating system, PRIMOS, was referred to as "Multics in a shoebox" by William Poduska, a founder of the company. Poduska later moved on to found Apollo Computer, whose AEGIS and later Domain/OS operating systems, sometimes called "Multics in a matchbox", extended the Multics design to a heavily-networked graphics workstation environment.
+
+The Stratus VOS operating system of Stratus Computer (now Stratus Technologies) was very strongly influenced by Multics, and both its external user interface and internal structure bear many close resemblances to the older project. The high-reliability, availability, and security features of Multics were extended in Stratus VOS to support a new line of fault tolerant computer systems supporting secure, reliable transaction processing. Stratus VOS is the most directly-related descendant of Multics still in active development and production usage today.
+
+The protection architecture of Multics, restricting the ability of code at one level of the system to access resources at another, was adopted as the basis for the security features of ICL's VME operating system.
+
+See the "External Links" section of this article for more information about Multics influences on other software and hardware systems.
+
+6. See also
+
+Fernando J. Corbató, leader of the Multics project while MIT was involved
+
+Jerome H. Saltzer
+
+Jack B. Dennis
+
+Peter J. Denning
+
+Robert M. Graham
+
+Victor A. Vyssotsky
+
+Louis Pouzin, introduced the term shell for the command language used in Multics
+
+Peter G. Neumann
+
+Roger R. Schell
+
+Robert Fano, director of Project MAC at MIT 1963-1968
+
+J. C. R. Licklider, director of Project MAC at MIT 1968-1971
+
+Dennis Ritchie
+
+7. Further reading
+
+The literature contains a large number of papers about Multics, and various components of it; a fairly complete list is available here. The most important and/or informative ones are listed below.
+
+F. J. Corbató, V. A. Vyssotsky, (AFIPS 1965) is a good introduction to the system.
+
+F. J. Corbató, C. T. Clingen, J. H. Saltzer, (AFIPS, 1972) is an excellent review, written after a considerable period of use and improvement over the initial efforts.
+
+J. J. Donovan, S. Madnick, , is a fundamental read on operating systems.
+
+J. J. Donovan, , is a good introduction into systems programming and operating systems.
+
+7.1. Technical details
+
+Jerome H. Saltzer, (MIT Project MAC, 1974) is a considerably longer introduction to the system, geared towards actual users.
+
+Elliott I. Organick, The Multics System: An Examination of Its Structure (MIT Press, 1972) is the standard work on the system, although it documents an early version, and some features described therein never appeared in the actual system.
+
+V. A. Vyssotsky, F. J. Corbató, R. M. Graham, (AFIPS 1965) describes the basic internal structure of the Multics kernel.
+
+Jerome H. Saltzer, (MIT Project MAC, June 1966) is the original description of the idea of switching kernel stacks; one of the classic papers of computer science.
+
+R. C. Daley, P. G. Neumann, (AFIPS, 1965) describes the file system, including the access control and backup mechanisms.
+
+R. J. Feiertag, E. I. Organick, . Describes the lower levels of the I/O implementation.
+
+A. Bensoussan, C. T. Clingen, R. C. Daley, , (ACM SOSP, 1969) describes the Multics memory system in some detail.
+
+Paul Green, [ftp://ftp.stratus.com/pub/vos/multics/pg/mvm.html Multics Virtual Memory - Tutorial and Reflections] is a good in-depth look at the Multics storage system.
+
+Roger R. Schell, Dynamic Reconfiguration in a Modular Computer System (MIT Project MAC, 1971) describes the reconfiguration mechanisms.
+
+7.2. Security
+
+Paul A. Karger, Roger R. Schell, (Air Force Electronic Systems Division, 1974) describes the classic attacks on Multics security by a "tiger team".
+
+Jerome H. Saltzer, Michael D. Schroeder, (Proceedings of the IEEE, September 1975) describes the fundamentals behind the first round of security upgrades; another classic paper.
+
+M. D. Schroeder, D. D. Clark, J. H. Saltzer, D. H. Wells. (MIT LCS, 1978) describes the security upgrades added to produce an even more improved version.
+
+Paul A. Karger, Roger R. Schell, (IBM, 2002) is an interesting retrospective which compares actual deployed security in today's hostile environment with what was demonstrated to be possible decades ago. It concludes that Multics offered considerably stronger security than most systems commercially available in 2002.
+
+8. References
+
+9. External links
+
+is a comprehensive site with a lot of material
+
+discusses numerous myths about Multics in some detail, including the myths that it failed, that it was big and slow, as well as a few understandable misapprehensions
+
+Includes extensive overview of other software systems influenced by Multics
+
+. Charles Babbage Institute, University of Minnesota. Multics development records include the second MULTICS System Programmers Manual; MULTICS Technical Bulletins that describe procedures, applications, and problems, especially concerning security; and returned "Request for Comments Forms" that include technical papers and thesis proposals.
+
+[ftp://ftp.stratus.com/pub/vos/multics/multics.html Multics repository at Stratus Computer]
+
+A critical review of Multicians.org, plus a capsule history of Multics.

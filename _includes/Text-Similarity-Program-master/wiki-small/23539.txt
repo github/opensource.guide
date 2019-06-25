@@ -1,0 +1,103 @@
+In Kolmogorov's probability theory, the probability P of some event E, denoted , is usually defined such that P satisfies the Kolmogorov axioms, named after the famous Russian mathematician Andrey Kolmogorov, which are described below.
+
+These assumptions can be summarised as: Let (Ω, F, P) be a measure space with P(Ω)=1. Then (Ω, F, P) is a probability space, with sample space Ω, event space F and probability measure P.
+
+An alternative approach to formalising probability, favoured by some Bayesians, is given by Cox's theorem.
+
+1. Axioms
+
+1.1. First axiom
+
+The probability of an event is a non-negative real number:
+
+where is the event space. In particular, is always finite, in contrast with more general measure theory. Theories which assign negative probability relax the first axiom.
+
+1.2. Second axiom
+
+This is the assumption of unit measure: that the probability that some elementary event in the entire sample space will occur is 1. More specifically, there are no elementary events outside the sample space.
+
+This is often overlooked in some mistaken probability calculations; if you cannot precisely define the whole sample space, then the probability of any subset cannot be defined either.
+
+1.3. Third axiom
+
+This is the assumption of &sigma;-additivity:
+
+Some authors consider merely finitely additive probability spaces, in which case one just needs an algebra of sets, rather than a &sigma;-algebra. Quasiprobability distributions in general relax the third axiom.
+
+2. Consequences
+
+From the Kolmogorov axioms, one can deduce other useful rules for calculating probabilities.
+
+2.1. The probability of the empty set
+
+2.2. Monotonicity
+
+2.3. The numeric bound
+
+It immediately follows from the monotonicity property that
+
+3. Proofs
+
+The proofs of these properties are both interesting and insightful. They illustrate the power of the third axiom, and its interaction with the remaining two axioms. When studying axiomatic probability theory, many deep consequences follow from merely these three axioms. In order to verify the monotonicity property, we set and , where for . It is easy to see that the sets are pairwise disjoint and . Hence, we obtain from the third axiom that
+
+Since the left-hand side of this equation is a series of non-negative numbers, and that it converges to which is finite, we obtain both and . The second part of the statement is seen by contradiction: if then the left hand side is not less than
+
+If then we obtain a contradiction, because the sum does not exceed which is finite. Thus, . We have shown as a byproduct of the proof of monotonicity that .
+
+4. Further consequences
+
+Another important property is:
+
+This is called the addition law of probability, or the sum rule. That is, the probability that A or B will happen is the sum of the probabilities that A will happen and that B will happen, minus the probability that both A and B will happen. The proof of this is as follows:
+
+now, .
+
+Eliminating from both equations gives us the desired result.
+
+This can be extended to the inclusion-exclusion principle.
+
+That is, the probability that any event will not happen is 1 minus the probability that it will.
+
+5. Simple example: coin toss
+
+Consider a single coin-toss, and assume that the coin will either land heads (H) or tails (T) (but not both). No assumption is made as to whether the coin is fair.
+
+We may define:
+
+Kolmogorov's axioms imply that:
+
+The probability of neither heads nor tails, is 0.
+
+The probability of either heads or tails, is 1.
+
+The sum of the probability of heads and the probability of tails, is 1.
+
+6. See also
+
+Law of total probability
+
+Measure (mathematics)
+
+Borel Algebra
+
+σ-Algebra
+
+Probability theory
+
+Set theory
+
+Conditional probability
+
+Quasiprobability
+
+Fully probabilistic design
+
+7. Further reading
+
+Von Plato, Jan, 2005, "Grundbegriffe der Wahrscheinlichkeitsrechnung" in Grattan-Guinness, I., ed., Landmark Writings in Western Mathematics. Elsevier: 960-69. (in English)
+
+8. External links
+
+, Stanford Encyclopedia of Philosophy.
+
+of probability in the Mizar system, and the formally proved about it.

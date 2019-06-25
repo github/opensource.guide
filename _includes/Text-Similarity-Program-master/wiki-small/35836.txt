@@ -1,0 +1,157 @@
+A 19-inch rack is a standardized frame or enclosure for mounting multiple equipment modules. Each module has a front panel that is wide, including edges or ears that protrude on each side which allow the module to be fastened to the rack frame with screws.
+
+1. Overview and history
+
+Equipment designed to be placed in a rack is typically described as rack-mount, rack-mount instrument, a rack mounted system, a rack mount chassis, subrack, rack mountable, or occasionally simply shelf. The height of the electronic modules is also standardized as multiples of or one rack unit or U (less commonly RU). The industry standard rack cabinet is 42U tall.
+
+The term relay rack appeared first in the world of telephony. By 1911, the term was also being used in railroad signaling. There is little evidence that the dimensions of these early racks were standardized. The 19-inch rack format with rack-units of 1.75 inches and holes tapped for 12-24 screws with alternating spacings of 1.25 inches and 0.5 inch was an established standard by 1934. The EIA standard was revised again in 1992 to comply with the 1988 public law 100-418, setting the standard U as 44.5mm (15.9mm + 15.9mm + 12.7mm), making each "U" officially 1.752 inches.
+
+The 19-inch rack format has remained constant while the technology that is mounted within it has changed considerably and the set of fields to which racks are applied has greatly expanded. The standard rack arrangement is widely used throughout the telecommunication, computing, audio, video, entertainment and other industries, though the Western Electric 23-inch standard, with holes on centers, is still used in legacy ILEC/CLEC facilities.
+
+19-inch racks in 2-post or 4-post form hold most equipment in modern data centers, ISP facilities and professionally designed corporate server rooms. They allow for dense hardware configurations without occupying excessive floorspace or requiring shelving.
+
+19-inch racks are also often used to house professional audio and video equipment, including amplifiers, effects units, interfaces, headphone amplifiers, and even small scale audio mixers. A third common use for rack-mounted equipment is industrial power, control, and automation hardware.
+
+Typically, a piece of equipment being installed has a front panel height inch () less than the allotted number of Us. Thus, a 1U rackmount computer is not tall but is tall. 2U would be instead of . This gap allows a bit of room above and below an installed piece of equipment so it may be removed without binding on the adjacent equipment.
+
+In 1965, a durable fiber reinforced plastic 19-inch rackmount case was patented by ECS Composites and became widely used in military and commercial applications for electronic deployment and operation. State-of-the-art rackmount cases are now also constructed of thermo stamped composite, carbon fiber and DuPont’s Kevlar for demanding military and commercial uses.
+
+2. Equipment mounting
+
+2.1. Fastening
+
+Originally, the mounting holes were tapped to receive a particular type of threaded bolt. When rack rails are too thin to tap, rivnuts or other threaded inserts can be used, and when the particular class of equipment to be mounted is known in advance, some of the holes can be omitted from the mounting rails.
+
+Threaded mounting holes in racks where the equipment is frequently changed are problematic because the threads can be damaged or the mounting screws can break off; both problems render the mounting hole unusable. Tapping large numbers of holes that may never be used is expensive; nonetheless tapped-hole racks are still in use, generally for hardware that rarely changes. Examples include telephone exchanges, network cabling panels, broadcast studios and some government and military applications.
+
+The tapped-hole rack was first replaced by clearance-hole (Round Hole, Round Unthreaded Holes, and Versa Rail) racks. The holes are large enough to permit a bolt to be freely inserted through without binding, and bolts are fastened in place using cage nuts. In the event of a nut being stripped out or a bolt breaking, the nut can be easily removed and replaced with a new one. Production of clearance-hole racks is less expensive because tapping the holes is eliminated and replaced with fewer, less expensive, cage nuts.
+
+The next innovation in rack design has been the square-hole rack. Square-hole racks allow boltless mounting, such that the rack-mount equipment only needs to insert through and hook down into the lip of the square hole. Installation and removal of hardware in a square hole rack is very easy and boltless, where the weight of the equipment and small retention clips are all that is necessary to hold the equipment in place. Older equipment meant for round-hole or tapped-hole racks can still be used, with the use of cage nuts made for square-hole racks.
+
+2.2. Structural support
+
+Rack-mountable equipment is traditionally mounted by bolting or clipping its front panel to the rack. Within the IT industry, it's common for network/communications equipment to have multiple mounting positions, including table-top and wall mounting, so rack mountable equipment will often feature L-brackets that must be screwed or bolted to the equipment prior to mounting in a 19-inch rack. With the prevalence of 23-inch racks in the Telecoms industry, the same practice is also common, but with equipment having 19-inch and 23-inch brackets available, enabling them to be mounted in existing racks.
+
+A key structural weakness of front-mounted support is the shear stress placed on the mounting rails and the leading edge of the equipment. As a result, 4-post racks have become common, with such racks featuring a mirrored pair of rear mounting posts. Since the spacing between the front and rear mounting posts may differ between rack vendors and/or the configuration of the rack (some racks may incorporate front and rear rails that may be moved forwards and backwards, i.e. APC SX-range racks), it's common for equipment that features 4-post mounting brackets, to have an adjustable rear bracket.
+
+Servers and deep pieces of equipment are often mounted using rails that are bolted to the front and rear posts (as above, it's common for such rails to have an adjustable depth), allowing the equipment to be supported by 4-posts, whilst also enabling it to be easily installed and removed.
+
+While there is no standard for the depth of equipment, nor specifying the outer width and depth of the rack enclosure itself (incorporating the structure, doors and panels that contain the mounting rails), there is a tendency for 4-post racks to be 600 mm or 800 mm wide, and for them to be 600 mm, 800 mm or 1010 mm deep. This of course varies by manufacturer, the design of the rack and its purpose, but through common constraining factors (such as raised floor tile dimensions), these dimensions have become quite common. The extra width and depth enables cabling to be routed with ease (also helping to maintain bend-radius for fibre and copper cables) and deeper equipment to be utilised. A common feature in IT racks are mounting positions for "Zero-U" accessories, such as PDU (power distribution units) and vertical cable managers/ducts, that utilise the space between the rear rails and the side of the rack enclosure.
+
+The strength required of the mounting posts means they are invariably not merely flat strips but actually a wider folded strip arranged around the corner of the rack. The posts are usually made of steel of around 2 mm thickness (the official standard recommends a minimum of 1.9 mm), or of slightly thicker aluminum.
+
+Racks, especially two-post racks, are often secured to the floor or adjacent building structure so as not to fall over. This is usually required by local building codes in seismic zones. According to Telcordia Technologies Generic Requirements document GR-63-CORE, during an earthquake, telecommunications equipment is subjected to motions that can over-stress equipment framework, circuit boards, and connectors. The amount of motion and resulting stress depends on the structural characteristics of the building and framework in which the equipment is contained, and the severity of the earthquake. Seismic racks rated according to NEBS Requirements: Physical Protection, are available, with Zone 4 representing the most demanding environment. Generic Requirements for Network Equipment in the Outside Plant (OSP), specifies the usable opening of seismic-compliant 19-inch racks.
+
+2.3. Rails (slides)
+
+Heavy equipment or equipment which is commonly accessed for servicing, for which attaching or detaching at all four corners simultaneously would pose a problem, is often not mounted directly onto the rack but instead is mounted via rails (or slides). A pair of rails is mounted directly onto the rack, and the equipment then slides into the rack along the rails, which support it. When in place, the equipment may also then be bolted to the rack. The rails may also be able to fully support the equipment in a position where it has been slid clear of the rack; this is useful for inspection or maintenance of equipment which will then be slid back into the rack. Some rack slides even include a tilt mechanism allowing easy access to the top or bottom of rack mounted equipment when it is fully extended from the rack.
+
+Slides or rails for computers and other data processing equipment such as disk arrays or routers often need to be purchased directly from the equipment manufacturer, as there is no standardization on such equipment's thickness (measurement from the side of the rack to the equipment) or means for mounting to the rail.
+
+A rails kit may include a cable management arm (or CMA), which folds the cables attached to the server and allows them to expand neatly when the server is slid out, without being disconnected.
+
+2.4. Computer mounting
+
+Computer servers designed for rack-mounting can include a number of extra features to make the server easy to use in the rack:
+
+The sliding rails can lock in various extended positions to prevent the equipment from moving when extended out from the rack for service.
+
+The server itself might have locking pins on the sides that just drop into slots on the extended rail assembly, in a manner similar to a removable kitchen drawer. This permits very easy server installation and removal since there is no need for the server to be held in midair while someone fastens each rail to the sides of the server with screws.
+
+Some manufacturers of rack-mount hardware include a folding cable tray behind the server, so that the cables are held into a neat and tidy folded channel when inside the rack, but can unfold out into a long strip when pulled out of the rack, allowing the server to continue to be plugged in and operating normally even while fully extended and hanging in mid-air in front of the rack. This piece of equipment thus simplifies maintenance, but at the cost of providing a restriction to airflow.
+
+Rack-optimized servers might duplicate indicator lights on the front and rear of the rack to help identify a machine needing attention, or provide separate "identify" LED indicators on both sides of the server (which can be turned on in software or by pushing an associated button). Since some configurations permit over fifty 1U servers in a single rack, this provides a simple method to determine exactly which machine is having a problem when at the rear of the rack.
+
+A handle may be provided at the rear of the server rails, to help pull or push the server without having to pull on the cables. When there is a large number of computers in a single rack, it is impractical for each one to have its own separate keyboard, mouse, and monitor. Instead, a KVM switch or LOM software is used to share a single keyboard/video/mouse set amongst many different computers.
+
+Since the mounting hole arrangement is vertically symmetric, it is possible to mount rack-mountable equipment upside-down. However, not all equipment is suitable for this type of mounting. For instance, most optical disc players will not work upside-down because the driving motor mechanism does not grip the disc.
+
+2.5. Four- and two-post racks
+
+Racks are available with either four or two vertical posts. Four-post racks allow for mounting rails to support the equipment at the front and rear. These racks may be open in construction (similar to the traditional open-style two-post racks), or may be enclosed by front and/or rear doors, side panels, or tops. Two-post racks provide just two vertical posts; a piece of equipment can be mounted either via its front panel holes, or close to its center of gravity (to minimize load on its front panel), depending on the design of the rack. Two-post racks are most often used for telecommunication installations.
+
+3. Specifications
+
+The formal standards for a rack are available from the following:
+
+Electronic Industries Alliance EIA-310-D, Cabinets, Racks, Panels, and Associated Equipment, dated September 1992. (Latest Standard Now REV E 1996)
+
+Consumer Electronics Association CEA-310-E design requirements for Cabinets, Panels, Racks and Subracks., dated December 14, 2005
+
+International Electrotechnical Commission - Multiple documents are available in French and English versions.
+
+IEC 60297 Mechanical structures for electronic equipment - Dimensions of mechanical structures of the 482,6 mm (19 in) series
+
+IEC 60297-1 Replaced by IEC 60297-3-100
+
+IEC 60297-2 Replaced by IEC 60297-3-100
+
+IEC 60297-3-100 Part 3-100: Basic dimensions of front panels, subracks, chassis, racks and cabinets
+
+IEC 60297-3-101 Part 3-101: Subracks and associated plug-in units
+
+IEC 60297-3-102 Part 3-102: Injector/extractor handle
+
+IEC 60297-3-103 Part 3-103: Keying and alignment pin
+
+IEC 60297-3-104 Part 3-104: Connector dependent interface dimensions of subracks and plug-in units
+
+IEC 60297-3-105 Part 3-105: Dimensions and design aspects for 1U chassis
+
+IEC 60297-4 Replaced by IEC 60297-3-102
+
+IEC 60297-5 Multiple documents, -100, 101, 102, ... 107, replaced by IEC 60297-3-101
+
+Deutsches Institut für Normung DIN 41494 - Multiple documents in German but some documents are available in English.
+
+DIN 41494 Equipment practices for electronic equipment; mechanical structures of the 482,6 mm (19 inch) series
+
+DIN 41494-7 Dimensions of cabinets and suites of racks.
+
+DIN 41494-8 Components on front panels; mounting conditions, dimensions
+
+DIN IEC 60297-3-100 (see above in IEC section) A rack's mounting fixture consists of two parallel metal strips (also referred to as "posts" or "panel mounts") standing vertically. The posts are each wide, and are separated by a gap of , giving an overall rack width of . The posts have holes in them at regular intervals, with both posts matching, so that each hole is part of a horizontal pair with a center-to-center distance of .
+
+The holes in the posts are arranged vertically in repeating sets of three, with center-to-center separations of , , . The hole pattern thus repeats every .
+
+Holes so arranged can either be tapped (usually 10-32 UNF thread, or, less often, 6mm metric) or have square holes for cage nuts.
+
+3.1. Rack Unit (U)
+
+Racks are divided into regions, in height, within which there are three complete hole pairs in a vertically symmetric pattern, the holes being centered , , and from the top or bottom of the region. Such a region is commonly known as a U, for "unit", or in German "HE" (for Höheneinheit) and heights within racks are measured by this unit. Rack-mountable equipment is usually designed to occupy some integer number of U. For example, an oscilloscope might be 4U high, and rack-mountable computers are mostly between 1U and 4U high. A blade server enclosure might require 10U.
+
+Occasionally, one may see fractional U devices such as a 1.5U server, but these are much less common. 1.5U servers have more airflow, less noise and better cooling than 1U servers, and are still more space-efficient than 2U servers.
+
+The height of a rack can vary from a few inches, such as in a broadcast console, to a floor mounted rack whose interior is 45 rack units () high, with 42U being a common configuration. Many wall-mounted industrial equipment enclosures have 19-inch rack rails to support mounting of equipment.
+
+4. Related standards
+
+4.1. 11 foot frame
+
+Frames for holding rotary-dial telephone equipment were generally 11 feet, 6 inches high. A series of studies led to a switch to frames 7 feet high, with modular widths in multiples of 1 foot, 1 inch—most often 2 feet, 2 inches wide.
+
+4.2. 23-inch rack
+
+A 23-inch rack is used for housing telephone (primarily), computer, audio and other equipment though is less common than the 19-inch rack. The size notes the width of the faceplate for the installed equipment. The rack unit is a measure of vertical spacing and is common to both the 19 and racks.
+
+Hole spacing is either on centres (Western Electric standard), or the same as for racks ( spacing).
+
+Another name for this type of racks is ETSI rack, relating to the European Telecoms Standards Institute.
+
+4.3. Open Rack
+
+Open Rack is a mounting system designed by Facebook's Open Compute Project that has the same outside dimensions as typical 19-inch racks (e.g. 600 mm width), but supports wider equipment modules of 537 mm or about 21 inches.
+
+5. See also
+
+Data center
+
+Horizontal pitch
+
+Open Compute Project, which has designed a new rack standard with the same outside dimensions as 19-inch racks, but supporting a wider chassis of 537 mm or about 21 inches.
+
+Rack unit
+
+Transit case, for rack cases
+
+6. References

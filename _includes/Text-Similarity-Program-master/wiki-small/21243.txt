@@ -1,0 +1,339 @@
+Nortel Networks Corporation, formerly known as Northern Telecom Limited and sometimes known simply as Nortel, was a multinational telecommunications and data networking equipment manufacturer headquartered in Mississauga, Ontario, Canada. It was founded in Montreal, Quebec in 1895. At its height, Nortel accounted for more than a third of the total valuation of all the companies listed on the Toronto Stock Exchange (TSX), employing 94,500 worldwide.
+
+On January 14, 2009, Nortel filed for protection from its creditors in the United States, Canada, and the United Kingdom, in order to restructure its debt and financial obligations. In June 2009, the company announced it would cease operations and sell off all of its business units. The period of bankruptcy protection was extended to February 2, 2013. As part of the bankruptcy proceedings in the United States, Nortel Networks Inc. publishes monthly operating reports outlining cash receipts and disbursements.
+
+1. History
+
+1.1. Origins
+
+Alexander Graham Bell conceived the technical aspects of the telephone and invented it in July 1874, while residing with his parents at their farm in Tutela Heights, on the outskirts of Brantford, Ontario. He later refined its design at Brantford after producing his first working prototype in Boston. Canada's first telephone factory, created by James Cowherd of Brantford, was a three story brick building that soon started manufacturing telephones for the Bell System, leading to the city's style as The Telephone City.
+
+After Cowherd's death in 1881 which resulted in the closure of his Brantford factory, a mechanical production department was created within the Bell Telephone Company of Canada and production of Canadian telephones and telephone equipment was transferred to Montreal in 1882, due to restrictions on importing telephone equipment from the United States. In addition to phones, four years later, the department started manufacturing its first switchboard, a 50 line Standard Magneto Switchboard. The small manufacturing department expanded yearly with the growth and popularity of the telephone to 50 employees in 1888. By 1890 it had been transformed into its own branch of operations with 200 employees, and a new factory was under construction.
+
+As the manufacturing branch expanded, its production ability increased beyond the demand for phones, and it faced closure for several months a year without manufacturing other products. This was a problem because the Bell Telephone Company of Canada's (later renamed to Bell Canada) charter would not allow them to build other products. So in 1895, the Bell Telephone of Canada was required to spin off its manufacturing arm to build phones for sale to other companies, as well as other devices such as fire alarm boxes, police street call boxes, and fire department call equipment. This company was incorporated as the Northern Electric and Manufacturing Company Limited.
+
+1.2. Northern Electric and Manufacturing Company
+
+Northern Electric and Manufacturing Company Limited was incorporated on 7 December 1895, by the following corporate members (or Board of Directors): Charles Fleetford Sise Sr., President of Bell Canada – Provisional Director; Robert Mackay, merchant – Provisional Director; Hugh Paton, manager of the Shedden Company – Provisional Director; The Hon. Joseph Rosaire Thibaudeau, Senator – Provisional Director; Robert Archer, gentleman – Provisional Director; Charles P. Sclater, secretary – Provisional Director; Lewis B. McFarlane, manager, all of the city and district of Montreal, Quebec.
+
+The initial stock capital was $50,000 at $100 per share, with 93 percent held by the Bell Telephone Company of Canada and the remainder held by the seven corporate members above. The first general stockholders meeting was held on March 24, 1896.
+
+In December 1899, The Bell Telephone Company of Canada bought a cabling company for $500,000; a Canadian charter named it The Wire and Cable Company. Northern Electric and Manufacturing further expanded its product line in 1900, manufacturing the first Canadian wind-up gramophones that played flat discs. In 1911 the Wire and Cable company changed its name to the Imperial Wire and Cable Company.
+
+1.3. Northern Electric Company
+
+The construction of a new manufacturing plant started in 1913 at Shearer Street in Montreal, Canada, as preparations began for the two manufacturing companies' integration. Then, in January 1914, the Northern Electric and Manufacturing Company and the Imperial Wire and Cable Company merged into the Northern Electric Company, commonly known simply as Northern Electric, and the new company opened the doors on a new manufacturing plant in January 1915. This facility at Shearer Street was the primary manufacturing centre until the mid-1950s. Edward Fleetford Sise was the president and his brother Paul Fleetford Sise was the vice-president and general manager.
+
+During the First World War Northern Electric manufactured the Portable Commutator, a one-wire telegraphic switchboard for military operations in the field. In 1922, Northern started to produce, for $5, the "Peanut" vacuum tube, which required only a single dry-cell battery. The use of alternating current was still under development during this time. The "Northern Electric Peanut tube was the smallest tube made, and drew only one-tenth of an ampere and was the most remarkable radio frequency amplifier ever made." During the 1920s Northern Electric made kettles, toasters, cigar lighters, electric stoves, and washing machines. In January 1923, Northern Electric started to operate an AM radio station with call letters CHYC, in the Shearer Street plant, and much of the programming was religious services for the Northern Electric employees and families in the community. In July 1923, CHYC-AM was the first radio station to provide entertainment to the riders of the transcontinental train, in a parlor car fitted with a radio set to receive the broadcast as it left Montreal and traveled west. Later in the 1920s, Northern created the first talking movie sound system in the British Empire for a theater in Montreal.
+
+During the Great Depression in the 1930s, Northern Electric was affected, like most other companies. From the beginning of 1930 through the end of 1933, sales dropped from $34 million to $8.2 million, and the number of employees dropped from 6,100 to 2,400.
+
+1.4. Independence from Western Electric
+
+In 1949, an antitrust suit in the U.S. forced AT&T/Western Electric to sell its stake in Northern Electric to Bell Canada. Deprived of its Western Electric tie, Northern began developing its own products. In 1953, Northern Electric produced its first television sets using tubes made by RCA. Bell Canada acquired 100 percent of Northern Electric in 1964; through public stock offerings starting in 1973, Bell's ownership of Northern Electric and its successors would be reduced, though it continued to have majority control.
+
+In 1966, the Northern Electric research lab, Northern Electric Laboratories (the predecessor to Bell-Northern Research), started looking into the possibilities of fiber optic cable, and in 1969, began work on digitizing telephone communications. Also in 1969, Northern began making inroads into the U.S. market with its switching systems. In 1972, it opened its first factory in the U.S. in Michigan. In 1975, Northern began shipping its first digital switching systems, one of the earliest such systems to be sold.
+
+Northern Telecom was, with Bell-Northern Research, in the early 70's a part owner of MicroSystems International a semiconductor manufacturer based in Kanata, outside Ottawa.
+
+1.5. Northern Telecom and "Digital World"
+
+In 1976, the company name was changed to Northern Telecom Limited, and management announced its intention to concentrate the company's efforts on digital technology. Northern Telecom was the first company in its industry to announce and to deliver a complete line of fully digital telecommunications products. The product line was branded "Digital World" and included the well known DMS-100, a fully digital central office switch serving as many as 100,000 lines, which was a key contributor to the company’s revenue for close to 15 years.
+
+Starting in 1977, Nortel grew rapidly after the introduction of its DMS line of digital central office telephone switches, especially after the AT&T breakup in 1984. Northern Telecom became a significant supplier in Europe and China and was the first non-Japanese supplier to Nippon Telegraph and Telephone.
+
+1.6. Deregulation
+
+In 1983, due to deregulation, Bell Canada Enterprises (later shortened to BCE) was formed as the parent company to Bell Canada and Northern Telecom. Bell-Northern Research was jointly owned 50-50 by Bell Canada and Northern Telecom. The combined three companies were referred to as the tricorporate.
+
+As Nortel, the streamlined identity it adopted for its 100th anniversary in 1995, the company set out to dominate the burgeoning global market for public and private networks.
+
+1.7. Optical boom and the Right Angle Turn
+
+In 1998, with the acquisition of Bay Networks, the company's name was changed to Nortel Networks to emphasize its ability to provide complete solutions for multiprotocol, multiservice, global networking over the Internet and other communications networks. As a consequence of the stock transaction used to purchase Bay Networks, BCE ceased to be the majority shareholder of Nortel.
+
+In 2000, BCE spun out Nortel, distributing its holdings of Nortel to its shareholders. Bell-Northern Research was gradually absorbed into Nortel, as it first acquired a majority share in BNR, and eventually acquired the entire company.
+
+In the late 1990s, stock market speculators, hoping that Nortel would reap increasingly lucrative profits from the sale of fibre optic network gear, began pushing up the company's share price to unheard-of levels despite the company's repeated failure to turn a profit. Under the leadership of CEO John Roth, sales of optical equipment had been robust in the late 1990s, but the market was soon saturated. When the speculative telecom bubble of the late 1990s reached its pinnacle late in the year 2000, Nortel was to become one of the most spectacular casualties.
+
+At its height, Nortel accounted for more than a third of the total valuation of all the companies listed on the Toronto Stock Exchange (TSX), employing 94,500 worldwide, with 25,900 in Canada alone. Nortel's market capitalization fell from C$398 billion in September 2000 to less than C$5 billion in August 2002, as Nortel's stock price plunged from C$124 to C$0.47. When Nortel's stock crashed, it took with it a wide swath of Canadian investors and pension funds and left 60,000 Nortel employees unemployed. Roth was criticized after it was revealed that he cashed in his own stock options for a personal gain of C$135 million in 2000 alone.
+
+CEO John Roth retired in 2001. His planned successor and chief operating officer, Clarence Chandran, already on sick leave due to complications following his 1997 stabbing in Singapore, decided to quit, however. Chief financial officer Frank Dunn was eventually chosen as Roth's permanent replacement.
+
+1.8. After the Internet bubble
+
+1.8.1. Accounting restatements
+
+Frank Dunn presided over a dramatic restructuring of Nortel, which included laying off two-thirds of its workforce (60,000 staff) and writedowns of nearly US$16 billion in 2001 alone. This had some initial perceived success in turning the company around, with an unexpected return to profitability reported in the first quarter of 2003. The black ink triggered a total of $70 million in bonuses to the top 43 managers, with $7.8 million going to Dunn alone, $3 million to chief financial officer Douglas Beatty, and $2 million to controller Michael Gollogly. Independent auditor Deloitte & Touche advised audit committee chairman John Cleghorn and board chairman "Red" Wilson to look into the suspicious results, who promptly hired the law firm WilmerHale to vet the financial statements. In late October 2003, Nortel announced that it intended to restate approximately $900 million of liabilities carried on its previously reported balance sheet as of June 30, 2003, following a comprehensive internal review of these liabilities. The Company stated that the restatement's principal effects would be a reduction in previously reported net losses for 2000, 2001, and 2002 and an increase in shareholders’ equity and net assets previously reported on its balance sheet. A dozen of the company's most senior executives returned $8.6 million of bonuses they were paid based on the erroneous accounting. Investigators ultimately found about $3 billion in revenue had been booked improperly in 1998, 1999, and 2000. More than $2 billion was moved into later years, about $750 million was pushed forward beyond 2003 and about $250 million was wiped away completely. The accounting scandal hurt both Nortel's reputation and finances, as Nortel spent an estimated US$400 million on outside auditors and management consultants to retrain staff.
+
+Dunn, Beatty, and Gollogly were fired on April 28, 2004 for financial mismanagement, and later charged with fraud by the RCMP. The trial began on January 16, 2012, ending with acquittals for all three.
+
+The SEC also filed charges against them and four vice-presidents for civil fraud.
+
+To improve Nortel's liquidity in support of its operations, Nortel reached an agreement in 2003 with Export Development Canada for it to provide Nortel with a credit support facility of up to US$750 million. Walter Robinson of the Canadian Taxpayers Federation denounced the line of credit, calling it "corporate welfare at its worst."
+
+1.8.2. Owens and Zafirovski
+
+After Dunn's firing, retired United States Admiral Bill Owens – at the time a member of the board of directors – was appointed interim CEO. Nortel Networks subsequently returned to using the Nortel name for branding purposes only (the official company name was not changed). Nortel acquired PEC Solutions, a provider of information technology and telecommunications services to various government agencies and departments, in June 2005 and renamed it Nortel Government Solutions Incorporated (NGS). LG Electronics and Nortel formed a joint venture in August, with Nortel owning 50% plus one share, to offer telecom and networking solutions in the wireline, optical, wireless and enterprise areas for South Korean and global customers.
+
+Peter W. Currie, previously the Chief Financial Officer (CFO) of the Royal Bank of Canada, was named CFO of Nortel in 2005, having previously served as Northern Telecom's CFO in the 1990s. Gary Daichendt, the former Chief Operating Officer of Cisco Systems, was hired as President and COO, and was expected to succeed Owens as CEO. Shortly afterward, Daichendt appointed ex-Cisco Chief Science Officer Gary Kunis as Chief Technology Officer (CTO). Both Garys were concerned about the overall direction of Nortel, especially when compared to Cisco, their previous employer. Just three months later, Daichendt resigned after both his restructuring plan and his suggestion that Owens and Currie leave the company immediately were rejected by the board of directors. Kunis quit shortly thereafter. At the year's end, directors Lynton "Red" Wilson and John Cleghorn retired from the board.
+
+Mike S. Zafirovski, who had served as President and CEO of GE Lighting and then as Motorola President and COO, succeeded Owens as president and CEO on November 15, 2005. Motorola filed a suit against Zafirovski's hiring, alleging that his new position would break the terms of the non-disclosure agreement he had signed. Nortel agreed to pay $11.5 million on his behalf to settle the lawsuit. Nortel also paid out US$575 million and 629 million common shares in 2006 to settle a class-action lawsuit that accused the company of misleading investors about the company's health.
+
+Currie stepped down as Executive Vice President and CFO in early 2007. In February 2007, Nortel announced its plans to reduce its workforce by 2,000 employees, and to transfer an additional 1,000 jobs to lower-cost job sites. The Securities and Exchange Commission filed civil fraud charges against Nortel for accounting fraud from 2000 to 2003; the fraud was allegedly to close gaps between its true performance, its internal targets and Wall Street expectations. Nortel settled the case, paying $35 million, which the Commission distributed to affected shareholders, and reported periodically to the Commission on remedial measures to improve its financial accounting.
+
+Nortel announced plans in February 2008 to eliminate 2,100 jobs, and to transfer another 1,000 jobs to lower-cost centres. As part of the reductions, Nortel shut down its Calgary campus in 2009.
+
+During its reporting of third quarter 2008 results, Nortel announced it would restructure into three vertically-integrated business units: Enterprise, Carrier Networks, and Metro Ethernet Networks. As part of the decentralization of its organization, four executive positions were eliminated, effective January 1, 2009: Chief Marketing Officer - Lauren Flaherty; Chief Technology Officer - John Roese; Global Services President - Dietmar Wendt; and Executive Vice President Global Sales - Bill Nelson. A net reduction of 1,300 jobs was also announced. As its stock price dropped below $1, the New York Stock Exchange notified Nortel that it would be delisted if its common shares failed to rise above $1 per share within 6 months. Rumours continued to persist of Nortel's poor financial health, amid the late 2000s recession, and its bids for government funds were turned down.
+
+1.9. Liquidation
+
+1.9.1. Protection from creditors
+
+On January 14, 2009, Nortel filed for protection from creditors, in the United States under Chapter 11 of the United States Bankruptcy Code, in Canada under the Companies' Creditors Arrangement Act, and in the United Kingdom under the Insolvency Act 1986. Nortel was the first major technology company to seek bankruptcy protection in this global downturn. Nortel had an interest payment of $107 million due the next day, approximately 4.6% of its cash reserves of approximately $2.3 billion. After the announcement, the share price fell more than 79% on the Toronto Stock Exchange. Export Development Canada agreed to provide up to C$30 million in short-term financing through its existing credit support facility with Nortel. The Canadian government resisted characterizing its position on Nortel as a bailout.
+
+Nortel initially hoped to re-emerge from bankruptcy, implementing a retention bonus plan in an effort to retain its top executives during the restructuring period. These bonuses, totaling US$45 million, were targeted at 1,000 executive positions. At the end of January 2009, Nortel announced that it would be discontinuing its WiMAX business and its agreement with Alvarion. Nortel subsequently sold its Layer 4–7 application delivery business to Israeli technology firm Radware for $18 million, after Radware had initially placed a stalking horse bid. Nortel had acquired the application switch product line in October 2000 when it purchased Alteon WebSystems.
+
+1.9.2. Wind-up
+
+With the worsening recession and stock market decline deterring potential companies from bidding for Nortel's assets, and many of Nortel's major customers reconsidering their relationships with the restructuring company, in June Nortel announced that it no longer planned to emerge from bankruptcy protection, and would seek buyers for all of its business units. After announcing it planned to sell off all of its assets, Nortel shares were delisted from the Toronto Stock Exchange on June 26, 2009 at a price of $0.185 per share, down from its high in 2000 when it comprised a third of the S&P/TSX composite index. Mike Zafirovski subsequently resigned in August, and Nortel's board of directors was reorganized with three members instead of nine. Nortel handed out $14.2 million in cash compensation to seven executives in 2009. Nortel also paid out $1.4 million to 10 former and current directors, and paid $140 million to lawyers, pension, human resources and financial experts helping to oversee the company’s bankruptcy proceedings.
+
+Nokia Siemens Networks made a stalking horse bid to purchase Nortel's CDMA and LTE assets for $650 million. By the July 21 deadline for additional bids, MatlinPatterson and Ericsson had made offers, and Ericsson emerged as the victor in the following auction, with a purchase price of $1.13 billion. Avaya won an auction for Nortel's Enterprise Solutions business, including Nortel's stake in Nortel Government Solutions and DiamondWare, for $900 million, after having placed a stalking horse bid of $475 million. In November, Nortel sold its MEN (Metro Ethernet Networks) unit to Ciena Corporation for US$530 million in cash and US$239 million in convertible notes, and its GSM business at auction to Ericsson and Kapsch for US$103 million. Hitachi purchased the Next Generation Packet Core assets. As insurance against judgments in class action lawsuits filed by former employees, John Roth filed in December 2009 for a US$1 billion indemnification from Nortel, joining the list of U.S. creditors.
+
+In February 2010, Ernst & Young, the court-appointed monitor of Nortel's Canadian bankruptcy proceedings, reported that the assets of Nortel's Health and Welfare Trust had a shortfall of $37 million in its net assets as of December 31, 2008. The trust supports pensioners' medical, dental and life insurance benefits, as well as income support for some groups such as long-term disability recipients. Also in February, Nortel negotiated a $57-million deal to wind up the health care and other benefits provided to former Canadian employees. Shortly afterwards, Nortel proposed spending $92.3M on retention bonuses for 1,475 employees in its Nortel Business Services and Corporate groups, with $2.5 million in incentives going to Christopher Ricaute, president of Nortel Business Services; $27 million allocated for Canadian employees; and $55 million allocated for U.S. employees. The proposed plan was later extended by an additional $27 million. Claiming that the retention bonuses proposal was extraordinary, acting US trustee Roberta DeAngelis objected to the payment of $55.6 million to 866 employees. However, court-appointed representatives for Nortel's former employees, who are creditors in the Ontario bankruptcy court, have signed an agreement to not oppose any employee incentive program.
+
+Genband purchased the Carrier VoIP and Application Solutions (CVAS) unit in May 2010, as Nortel accepted its stalking horse bid of $282 million, with adjustments that decreased the net sale price to about $100 million, without a formal bidding process. Ericsson purchased Nortel's share in its joint venture with LG Electronics for US$242 million, forming LG-Ericsson, in June 2010. Ericsson also purchased Nortel's final operating unit, the Multi-Service Switch division, in September 2010 for US$65 million. Nortel's Ottawa campus on Carling Avenue was purchased by Public Works and Government Services Canada (PWGSC) in October 2010 for a cash purchase price of CDN$208 million.
+
+Nortel's 53.13% stake in Turkish company Nortel Netaş was acquired by One Equity Partners (OEP) and Rhea Investments for $68 million in December 2010.
+
+The last major asset of Nortel, approximately 6,000 patents and patent applications encompassing technologies such as wireless, wireless 4G, data networking, optical, voice, Internet, and semiconductors, was sold for $4.5 billion to a consortium including Apple, EMC, Ericsson, Microsoft, Research In Motion, and Sony, pending American and Canadian court approval. (Google had placed the initial stalking horse bid of $900 million and later upped the bid to $1,902,160,540, then $2,614,972,128, and eventually $3.14159 billion, which are references to Brun's constant, Meissel–Mertens constant, and pi.) Bankruptcy filings state that Nortel owes former Canadian engineers $285,000 for patent awards that were not paid.
+
+In October 2011, the administrators of Nortel's British subsidiary lost their appeal to overturn a court order requiring them to pay £2.1 billion into Nortel's underfunded pension plan.
+
+Nortel Networks U.S. retirement income plan is now managed by PBGC Pension Benefit Guaranty Corporation
+
+January 2014, a pact between U.S. and European divisions of Nortel Networks is approved by U.S. judge. Corp.
+
+2. Products
+
+Nortel made telecommunications, computer network equipment and software. It served both general businesses and communications carriers (landline telephone, mobile phone, and cable TV carriers). Technologies included telephonic (voice) equipment, fiber optics, local wireless, and multimedia.
+
+Past products included:
+
+3. Criticism and controversy
+
+3.1. Hackers had free access for years without being detected
+
+In September 1991, Julian Assange of WikiLeaks was discovered in the act of hacking into the Melbourne master terminal of Nortel.
+
+In 2004, it was discovered that crackers (malicious hackers) gained almost complete access to Nortel's systems. Thought to have originated in 2000, for nearly ten years they accessed documents including emails, technical papers, research, development reports, and business plans. The breach was not properly addressed by the time the company started selling some of its assets in 2009, following a bankruptcy filing. The Wall Street Journal reports that hackers working from Chinese IP addresses used seven passwords of Nortel executives, including a former CEO, to penetrate networks owned by the company.
+
+Brian Shields, a former systems security advisor for Nortel, led an internal investigation on the breach and exposed rootkit software on at least two machines in 2009 that allowed hackers to control them remotely and monitor email. Despite the original discovery in 2004 and the subsequent investigation that led to the rootkit detection in 2009, Nortel allegedly ignored the problem and failed to disclose it to potential buyers of its business. Avaya and Genband both acquired parts of Nortel, and some employees used old Nortel machines connected to the new companies' networks. Although Avaya says it has dealt with the issue, Shields says "it's despicable that Nortel didn't say anything," leaving it up to him to inform the new company of his investigation. Nortel refused to comment on The Wall Street Journal report, but former CEO Mike Zafirovski, in charge between 2005 and 2009, claimed the company "did not believe it was a real issue."
+
+Mr. Shields went on to tell the Canadian Broadcasting Corporation that he believes the extensive cyberattacks on Nortel contributed to its downfall.
+
+3.2. Government bailouts
+
+3.2.1. 2003
+
+On Feb 16, 2003 the Winnipeg Sun published an article criticising the Canadian Federal government for propping up “mega-loser Nortel” through Export Development Canada (EDC). The article interviewed Walter Robinson of the Canadian Taxpayers Federation who termed this EDC support as "corporate welfare at its worst." Mr Robinson was appalled that Canadians who already lost billions on Nortel on the stock market would be asked for even more money through their taxes to support Nortel.
+
+3.2.2. 2009
+
+EDC had agreed to provide up to $30 million in short-term financing through an existing bonding facility. The Canadian government resisted characterizing its position on Nortel as a bailout.
+
+3.3. Illegal breach of trust in Nortel's Health and Welfare Trust
+
+There have been reports of financial irregularities at Nortel's Health and Welfare Trust. Diane Urquhart, a financial analyst, testified before a parliamentary committee that $100 million is missing from the HWT and that a $37 million loan to the corporation has not been paid back. The HWT was an unregistered trust maintained by Nortel to provide medical, dental, life insurance, long-term disability and survivor income and pension transition benefits. Until 2005 Nortel fully funded the disability insurance in its HWT. However, it is alleged that since then, the HWT Governance Committees and third party trustee, Northern Trust, breached their fiduciary duties to protect Nortel's disabled employees and survivors of deceased employees by allowing Nortel to misdirect over $100 million from the HWT for purposes inconsistent with the terms of the HWT. As of March 1, 2012, Northern Trust continues to act as the paying agent for Canadian Nortel pensioners.
+
+3.4. Bookkeeping irregularities
+
+In 2007 both the U.S. Securities and Exchange Commission and the Ontario Securities Commission laid charges against former senior financial officials from Nortel including Frank Dunn who was fired from Nortel in 2004. Frank Dunn was promoted from chief financial officer to replace John A. Roth as CEO in November, 2001. According to the SEC, Dunn and three other financial officers began to fudge revenue by misusing "bill and hold" transactions starting "no later than September, 2000". The SEC said that at least a year's worth of the alleged book-keeping took place while John Roth was still CEO of Nortel, even though no charges were laid against him.
+
+3.5. Executive compensation
+
+3.5.1. 2001 compensation
+
+In the article “Nortel's Roth Rakes It In” published by Light Reading, Nortel was criticized for raising its CEO’s pay just days before he announced his intention to retire in May 2001. The article went on to state that Nortel’s share prices tumbled almost twentyfold during Roth’s years at the helm of Nortel and its number of employees dropped dramatically.
+
+3.5.2. 2003 compensation
+
+In 2003 Nortel paid tens of millions of dollars in so-called "return to profitability" bonuses, largely to a select group of senior managers. The "return to profitability" has been alleged to be a fabrication achieved by the release of $490 million in reserves to boost earnings.
+
+3.5.3. 2008 compensation
+
+In 2008, despite continuing losses, layoffs, and declining share prices at the struggling telecom-gear maker, Nortel Networks CEO Mike Zafirovski was awarded a 21.5 percent pay increase to $10.1 million.
+
+3.5.4. 2009 compensation
+
+As Nortel entered bankruptcy proceedings, it paid out retention bonuses to almost 1,000 top executives, totalling up to US$45 million, drawing criticism as the company withheld severance payments to employees laid-off prior to the creditor protection filing. Nortel proceeded with thousands of additional layoffs without severance, and the pension fund remained underfunded, while Nortel paid $14.2 million in cash to seven executives. Nortel also paid $1.4 million to ten former and current directors, and paid $140 million to lawyers, pension, human resources and financial experts helping to oversee the company’s bankruptcy proceedings.
+
+3.5.5. 2010 compensation
+
+In a U.S. court filing on February 11, 2010, Nortel proposed to spend $92.3M on retention bonuses for 1,475 employees in its Nortel Business Services and Corporate groups. According to the plan, Christopher Ricaurte, president of Nortel Business Services, would receive $2.5 million in incentives. In all, Canadian employees were eligible for $27 million, U.S. employees $55 million, and about $10 million would go to others. This proposed plan came the same week Nortel negotiated a $57-million deal to wind up health care and other benefits for former Canadian employees. Claiming that the retention bonuses proposal was extraordinary, acting US trustee Roberta DeAngelis objected to the payment of $55.6 million to 866 employees. However, court appointed representatives for Nortel former employees, who are creditors in the Ontario bankruptcy court, have signed an agreement to not oppose any employee incentive program.
+
+3.6. Treatment of Nortel pensioners
+
+On June 23, 2010 the News and Observer published a story criticizing treatment pensioners have been receiving from their former employer, Nortel. According to the article, Nortel has asked a federal court to terminate medical coverage, prescription drug coverage, long-term disability, and life insurance of 4,000 retirees and dependents, claiming the benefits are costing the company $2 million per month. Nortel blamed the company's creditors for this decision.
+
+3.7. Nortel ex-CEO files as a creditor seeking $1 billion from the proceeds of bankruptcy
+
+In the middle of the decade several class-action lawsuits were filed against John Roth and others, by former employees who felt that their 401K company plans were depleted due to misrepresentation by the defendants. They claimed they were duped into investing in Nortel stock, when those who encouraged them to do so allegedly knew that the company was ailing. John Roth left Nortel in 2001 with more than $130 million.
+
+In 2009 Mr. Roth filed a claim for $1 billion, aiming to become a creditor to the assets of Nortel along with all other Nortel employees, in case the class action lawsuits against him succeeded.
+
+3.8. Conflicts of interest
+
+During Nortel's 2002 annual shareholders' meeting held in Halifax, Nova Scotia, several shareholders (including Robert Verdun) complained about non-arms-length relationships with service providers such as director Yves Fortier, who provided legal services to Nortel while sitting on its board, and Nortel's auditors, Deloitte & Touche LLP, who were paid $15 million for non-auditing services.
+
+4. Corporate information
+
+4.1. Headquarters
+
+Nortel's current headquarters is located at 5945 Airport Road in Mississauga, Ontario. Previous locations of its head offices include Brampton, Ontario (sold to Rogers Communications in 2006 and now known as Rogers Park, Brampton) and 195 The West Mall in Toronto (now used by SNC-Lavalin).
+
+4.2. Global worksites, partners, and customers
+
+Nortel expanded into the U.S. in 1971. The company eventually had employees in over 100 locations in the U.S. with R&D, software engineering, and sales centres in many states including California, Florida, Georgia, Illinois, Maryland, Massachusetts, North Carolina, Texas, and Virginia. Nortel's full-service R&D centres were located in Ottawa (its R&D headquarters), Beijing, and Guangzhou. In Canada, Nortel also has R&D sites in Montreal, Belleville, and Calgary. In the United States, Nortel's major R&D sites were in Research Triangle Park (North Carolina), Richardson (Texas), Billerica (Massachusetts), and Santa Clara.
+
+Nortel had a significant presence in Europe, Middle East, Africa, the Caribbean, and Latin America. Nortel delivered network infrastructure and communication services to customers across Asia in (mainland) China, Hong Kong, Taiwan, South Korea, Japan, Singapore, Thailand, Malaysia, India, Pakistan, Australia, New Zealand, and Turkey (Nortel owned 53.17% of Nortel Netaş, originally established as a joint venture with Turkish PTT in 1967).). In addition, the company had three joint ventures in the People's Republic of China, including Guangdong Nortel Telecommunications Equipment (GDNT), which operated Nortel's full service R&D centres in China.
+
+4.3. Business structure
+
+At the start of 2010, based on membership in Nortel's benefit plan, there were 1,637 employees working for Nortel Networks and 982 working for Nortel Technology in Canada. In February 2008, Nortel employed approximately 32,550 people worldwide, including 6,800 employees in Canada and 11,900 in the United States. Nortel operations were divided into the following segments:
+
+Carrier Networks (CN): Mobility networking solutions, including CDMA, GSM, and UMTS, and carrier networking solutions, both circuit and packet based.
+
+Enterprise Solutions (ES): Enterprise networking solutions, including circuit and packet based voice, data, security, multimedia messaging and conferencing, and call centres.
+
+Metro Ethernet Networks (MEN): Optical and metropolitan area networking solutions, for carrier and enterprise customers.
+
+Global Services (GS): Services in four areas: network implementation, network support, network management, and network applications (including web services).
+
+4.4. Corporate governance
+
+Nortel's board of directors resigned and the board disbanded effective October 3, 2012. All remaining executive officers also resigned effective this date. As part of the wind-down process, a court order was issued providing Ernst & Young Inc., the court-appointed monitor in Nortel’s creditor protection proceedings, the ability to exercise any powers which may be properly exercised by a board of directors of Nortel.
+
+4.4.1. Former members of the board of directors
+
+Jalynn H. Bennett, CM
+
+Dr. Manfred Bischoff
+
+James Blanchard
+
+Robert Ellis Brown
+
+Frank C. Carlucci, former chairman of the board
+
+John Cleghorn
+
+Frank Dunn
+
+Yves Fortier
+
+Hon. James B. Hunt, Jr.
+
+Robert Alexander Ingram
+
+Kristina M. Johnson
+
+John Alan MacNaughton
+
+Hon. John P. Manley
+
+Richard David McCormick
+
+Claude Mongeau
+
+William Owens (Admiral)
+
+Harry Jonathan Pearce, former chairman of the board
+
+David Richardson, former chairperson
+
+John Andrew Roth
+
+Guylaine Saucier
+
+Sherwood Smith
+
+John D. Watson
+
+Lynton "Red" Wilson, former chairman of the board
+
+Mike Zafirovski, former president and CEO
+
+4.4.2. Past Leadership
+
+Edward Fleetford Sise President of the Northern Electric Company (1914–1919)
+
+Paul Fleetford Sise President of the Northern Electric Company (1919–1948)
+
+Ralph Holley Keefler, President of the Northern Electric Company (1948 –1964)
+
+Vernon Oswald Marquez, President of the Northern Electric Company (1967-1971)
+
+John C. Lobb, President (1971-1974)
+
+David G. Vice, President and COO
+
+Walter Frederick Light, President of Northern Telecom (1974-1982)
+
+Edmund B. Fitzgerald, President (1982-1989)
+
+Paul G. Stern, CEO (1989-1992)
+
+Jean Monty, President
+
+Roy Merrills, President
+
+John Roth, President, CEO and Chairman of the Board of Nortel Networks (1997-2001)
+
+Frank Dunn, President and CEO of Nortel Networks (2001-2004)
+
+Bill Owens, President and CEO of Nortel Networks (2004-2005)
+
+Mike Zafirovski, President and CEO of Nortel Networks (2005-2009)
+
+5. See also
+
+Accounting scandals
+
+1-Meg Modem
+
+Bell Telephone Memorial
+
+Bell-Northern Research
+
+Busy Override
+
+Canadian Industrial Research and Development Organizations
+
+Multiservice Switch
+
+Nortel Baystack
+
+Nortel Government Solutions
+
+Passport Carrier Release
+
+Nortel Retirees and former employees Protection Canada (NRPC)
+
+List of Nortel related articles
+
+List of Nortel protocols
+
+6. References
+
+6.1. Footnotes
+
+6.2. Citations
+
+6.3. Bibliography
+
+Bruce, Robert V. . Ithaca, New York: Cornell University Press, 1990, ISBN 0-8014-9691-8.
+
+Reville, F. Douglas. , Brantford, ON: Brant Historical Society, Hurley Printing, 1920. Retrieved from Brantford.Library.on.ca 4 May 2012.
+
+7. External links

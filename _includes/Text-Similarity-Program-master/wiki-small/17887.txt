@@ -1,0 +1,123 @@
+Lassa fever or Lassa hemorrhagic fever (LHF) is an acute viral hemorrhagic fever caused by the Lassa virus and first described in 1969 in the town of Lassa, in Borno State, Nigeria. Lassa fever is a member of the arenaviridae virus family. Similar to Ebola, clinical cases of the disease had been known for over a decade but had not been connected with a viral pathogen. The infection is endemic in West African countries, resulting in 300,000–500,000 cases annually, causing approximately 5,000 deaths. Outbreaks of the disease have been observed in Nigeria, Liberia, Sierra Leone, Guinea, and the Central African Republic. The primary animal host of the Lassa virus is the Natal Multimammate Mouse (Mastomys natalensis), an animal indigenous to most of Sub-Saharan Africa. The virus is probably transmitted by contact with the feces or urine of animals accessing grain stores in residences. Given its high rate of incidence, Lassa fever is a major problem in the African region.
+
+1. Signs and symptoms
+
+In 80% of cases, the disease is asymptomatic, but in the remaining 20%, it takes a complicated course. It is estimated that the virus is responsible for about 5,000 deaths annually. The fever accounts for up to one third of deaths in hospitals within the affected regions and 10 to 16% of total cases.
+
+After an incubation period of six to twenty-one days, an acute illness with multiorgan involvement develops. Non-specific symptoms include fever, facial swelling, and muscle fatigue, as well as conjunctivitis and mucosal bleeding. The other symptoms arising from the affected organs are:
+
+Gastrointestinal tract
+
+Nausea
+
+Vomiting (bloody)
+
+Diarrhea (bloody)
+
+Stomach ache
+
+Constipation
+
+Dysphagia (difficulty swallowing)
+
+Hepatitis
+
+Cardiovascular system
+
+Pericarditis
+
+Hypertension
+
+Hypotension
+
+Tachycardia (abnormally high heart rate)
+
+Respiratory tract
+
+Cough
+
+Chest pain
+
+Dyspnoea
+
+Pharyngitis
+
+Pleuritis
+
+Nervous system
+
+Encephalitis
+
+Meningitis
+
+Unilateral or bilateral hearing deficit
+
+Seizures Clinically, Lassa fever infections are difficult to distinguish from other viral hemorrhagic fevers such as Ebola and Marburg, and from more common febrile illnesses such as malaria.
+
+The virus is excreted in urine for three to nine weeks and in semen for three months.
+
+2. Cause
+
+Lassa virus is zoonotic (transmitted from animals), in that it spreads to humans from rodents, specifically multi-mammate rats (Mastomys natalensis). This is probably the most common rodent in equatorial Africa, ubiquitous in human households and eaten as a delicacy in some areas. In these rats infection is in a persistent asymptomatic state. The virus is shed in their excreta (urine and feces), which can be aerosolized. In fatal cases, Lassa fever is characterized by impaired or delayed cellular immunity leading to fulminant viremia.
+
+Infection in humans typically occurs by exposure to animal excrement through the respiratory or gastrointestinal tracts. Inhalation of tiny particles of infective material (aerosol) is believed to be the most significant means of exposure. It is possible to acquire the infection through broken skin or mucous membranes that are directly exposed to infective material. Transmission from person to person has also been established, presenting a disease risk for healthcare workers. Frequency of transmission via sexual contact has not been established.
+
+3. Diagnosis
+
+There is a range of laboratory investigations that are performed to diagnose the disease and assess its course and complications. ELISA test for antigen and IgM antibodies gives 88% sensitivity and 90% specificity for the presence of the infection. Other laboratory findings in Lassa fever include lymphopenia (low white blood cell count), thrombocytopenia (low platelets), and elevated aspartate aminotransferase (AST) levels in the blood. Lassa fever can also be found in cerebrospinal fluid. In West Africa, where Lassa is most prevalent, it is difficult for doctors to diagnose due to the absence of proper equipment to perform tests. In cases with abdominal pain, diagnoses in endemic countries are often made for other illnesses, such as appendicitis and intussusception, delaying treatment with Ribavirin.
+
+4. Prevention
+
+Control of the Mastomys rodent population is impractical, so measures are limited to keeping rodents out of homes and food supplies, as well as maintaining effective personal hygiene. Gloves, masks, laboratory coats, and goggles are advised while in contact with an infected person. These issues in many countries are monitored by a department of public health. In less developed countries these types of organizations may not have the necessary means to effectively control outbreaks.
+
+Researchers at the USAMRIID facility, where military biologists study infectious diseases, have a promising vaccine candidate. They have developed a replication-competent vaccine against Lassa virus based on recombinant vesicular stomatitis virus vectors expressing the Lassa virus glycoprotein. After a single intramuscular injection, test primates have survived lethal challenge, while showing no clinical symptoms.
+
+5. Treatment
+
+All persons suspected of Lassa fever infection should be admitted to isolation facilities and their body fluids and excreta properly disposed of.
+
+Early and aggressive treatment using Ribavirin was pioneered by Joe McCormick in 1979. After extensive testing, it was determined that early administration is critical to success. Additionally, Ribavirin is almost twice as effective when given intravenously as when taken by mouth. Ribavirin is a prodrug which appears to interfere with viral replication by inhibiting RNA-dependent nucleic acid synthesis, although the precise mechanism of action is disputed. The drug is relatively inexpensive, but the cost of the drug is still very high for many of those in West African states. Fluid replacement, blood transfusion and fighting hypotension are usually required. Intravenous interferon therapy has also been used.
+
+When Lassa fever infects pregnant women late in their third trimester, it is necessary to induce delivery for the mother to have a good chance of survival. This is because the virus has an affinity for the placenta and other highly vascular tissues. The fetus has only a one in ten chance of survival no matter what course of action is taken; hence focus is always on saving the life of the mother. Following delivery, women should receive the same treatment as other Lassa fever patients.
+
+SIGA Technologies is developing an antiviral drug that has been shown effective in treating experimentally infected guinea pigs. In a study conducted at the U.S. Army Medical Research Institute of Infectious Diseases (USAMRIID), treatment with ST-193 once a day for 14 days resulted in significant reduction in mortality (71% of the animals survived at the low dose), whereas all untreated animals and those treated with ribavirin died within 20 days of the infection.Due to threat of disease being used as a potential military weapon, a vaccine to reverse the disease is still being worked on.
+
+As serious as the disease is, there are numerous accounts of survival. However, there have been lasting effects of the disease.
+
+6. Prognosis
+
+About 15%-20% of hospitalized Lassa fever patients will die from the illness. It is estimated that the overall mortality rate is 1%, however during epidemics mortality can climb as high as 50%. The mortality rate is greater than 80% when it occurs in pregnant women during their third trimester; fetal death also occurs in nearly all those cases. Abortion decreases the risk of death to the mother.
+
+Thanks to treatment with Ribavirin, fatality rates are continuing to decline. Work on a vaccine is continuing, with multiple approaches showing positive results in animal trials.
+
+7. Epidemiology
+
+The dissemination of the infection can be assessed by prevalence of antibodies to the virus in populations of:
+
+Sierra Leone 8–52%
+
+Guinea 4–55%
+
+Nigeria approx. 21% Lassa fever is a viral hemorrhagic fever in West Africa. Studies show up to half a million cases of Lassa fever per year in West Africa, with about 5,000 resulting in death. Lassa virus was detected in 25 of 60 (42%) patients in northern and central Edo State. The Lassa Virus affects adults and children alike.
+
+Like other hemorrhagic fevers, Lassa fever can be transmitted directly from one human to another. It can be contracted by an airborne route or with direct contact with infected human blood, urine, or semen. Transmission through breast milk has also been observed.
+
+8. See also
+
+Aniru Conteh
+
+Lujo virus
+
+9. References
+
+Garrett, Laurie. The coming plague: newly emerging diseases in a world out of balance. New York: Farrar, Straus and Giroux, 1994. Print.
+
+Lashley, Felissa R., and Jerry D. Durham. Emerging infectious diseases: trends and issues. New York: Springer Pub., 2002. Print.
+
+//crisisboom.com/2011/02/16/biodefense-lassa-fever/
+
+R. T. D. Emond, Barbara Bannister, G. Lloyd, T. J. Southee and E. T. W. Bowen. A Case Of Lassa Fever: Clinical And Virological Findings. British Medical Journal (Clinical Research Edition), Vol. 285, No. 6347 (Oct. 9, 1982), pp. 1001–1002
+
+10. External links
+
+//wwwnc.cdc.gov/eid/article/12/12/06-0812_article.htm

@@ -1,0 +1,103 @@
+XFree86 is an implementation of the X Window System. It was originally written for Unix-like operating systems on IBM PC compatibles and is now available for many other operating systems and platforms. It is free and open source software under the XFree86 License version 1.1. It is developed by the XFree86 Project, Inc. The lead developer is David Dawes. The current version is 4.8.0, released December 2008. The last XFree86 CVS commit was made on May 18, 2009; the project was confirmed dormant in December 2011.
+
+For most of the 1990s and early 2000s, the project was the source of most innovation in X and was the de facto steward of X development. Until early 2004, it was almost universal on Linux and the BSDs.
+
+In February 2004, with version 4.4.0, The XFree86 Project adopted a license change that the Free Software Foundation considered GPL incompatible. Most open source operating systems using XFree86 found this unacceptable and moved to a fork from before the license change. The first fork was the abortive Xouvert, but X.Org Server soon became dominant. Most XFree86 developers also moved to X.Org.
+
+1. Usage
+
+While XFree86 was used in most distributions before its license change with version 4.4.0, it has mostly been replaced by its fork X.org and is used rarely nowadays. The last remaining operating system distribution to use it is NetBSD, which still ships some platforms with 4.5.0 by default (though Xorg can be installed from pkgsrc).
+
+2. Architecture
+
+The XFree86 server communicates with the host operating system's kernel to drive input and output devices, with the exception of graphics cards. These are generally managed directly by XFree86, so it includes its own drivers for all graphic cards a user might have. Some cards are supported by vendors themselves via binary-only drivers.
+
+Since version 4.0, XFree86 has supported certain accelerated 3D graphics cards via the GLX and DRI extensions. Also in the version 4.0, XFree86 moved to a new driver model, from one X server binary per driver to a unique X server capable of loading several drivers at a time.
+
+Because the server usually needs low level access to graphics hardware, on many configurations it needs to run as the superuser, or a user with UID 0. However, on some systems and configurations it is possible to run the server as a normal user.
+
+It is also possible to use XFree86 in a framebuffer device, which in turn uses a kernel graphics card driver.
+
+On a typical POSIX-system, the directory /etc/X11 includes the configuration files. The basic configuration file is /etc/X11/XF86Config (or XF86Config-4) that includes variables about the screen (monitor), keyboard and graphics card. The program xf86config is often used, although xf86cfg also comes with the XFree86 server and is certainly friendlier. Many Linux distributions used to include a configuration tool that was easier to use (such as Debian's debconf) or autodetected most (if not all) settings (Red Hat Linux and Fedora's Anaconda, SuSE's YaST and Mandrake Linux used to choose this path).
+
+3. History
+
+3.1. Early history and naming
+
+The project began in 1992 when David Wexelblat, Glenn Lai, David Dawes and Jim Tsillas joined forces addressing bugs in the source code of the X386 X display server (written by Thomas Roell), as contributed to X11R5. This version was initially called X386 1.2E. As newer versions of the (originally freeware) X386 were being sold under a proprietary software license by SGCS (of which Roell was a partner), confusion existed between the projects. After discussion, the project was renamed XFree86, as a pun (compare X-three-eighty-six to X-free-eighty-six). Roell has continued to sell proprietary X servers, most recently under the name Accelerated-X.
+
+3.2. Rise with Linux
+
+As Linux grew in popularity, XFree86 rose with it, as the main X project with drivers for PC video cards.
+
+By the late 1990s, official X development was moribund. Most technical advancement was happening in the XFree86 project. In 1999, XFree86 was sponsored onto X.Org (the official industry consortium) by various hardware companies interested in its use with Linux and its status as the most popular version of X.
+
+3.3. 2002: growing dissent within the project
+
+By 2002, while Linux's popularity, and hence the installed base of X, surged, X.Org was all but inactive; active development was largely carried out by XFree86. However, there was considerable dissent within XFree86.
+
+XFree86 used to have a Core Team which was made up of experienced developers, selected by other Core Team members for their merits. Only the members of this Core Team were allowed to commit to CVS. This was perceived as far too cathedral-like in its development model: developers were unable to get commit rights quickly and vendors ended up maintaining extensive patches.
+
+A key event was Keith Packard losing his commit rights. Hours before the feature freeze window for XFree86 4.3.0 started, he committed the XFIXES extension, without prior discussion or without review within the Core Team. The Core Team decided to remove Keith's commit access, but without removing him from the Core Team itself, and the XFIXES extension was backed out 6 weeks later.
+
+3.4. 2003: The fork and the disbanding of the Core Team
+
+In March, the Core Team claimed that Keith Packard had been trying to fork the XFree86 project by working inside the project while trying to attract core developers to a new X Server project of his own making. Packard denied this had been his aim, but some emails were provided as evidence otherwise. Keith Packard was subsequently expelled from the Core Team.
+
+A short time later, Keith Packard created xwin.org, which mainly served as a meeting point for cultivating the XFree86 fork. The rest of the year, many of the developers that were still active at XFree86 went over to the project that was being set up at the freedesktop.org and X.org domains.
+
+By the end of the year, due to dwindling active membership and limited remaining development capacity, the XFree86 Core Team voted to disband itself.
+
+3.5. 2004: Licensing controversy
+
+Versions of XFree86 up to and including some release candidates for 4.4.0 were under the MIT License, a permissive, non-copyleft free software license. In February 2004, XFree86 4.4 was released with a change to the XFree86 license, by adding a credit clause, similar to that in the original BSD license, but broader in scope. The newer terms are referred to as the XFree86 License 1.1. Many projects relying on XFree86 found the new license unacceptable, and the Free Software Foundation considers it incompatible with the version 2 of the GNU General Public License, though compatible with version 3. The XFree86 Project states that the license is "as GPL compatible as any and all previous versions were", but does not mention which version or versions of the GPL this is valid for.
+
+Some projects made releases (notably OpenBSD 3.5 and 3.6, and Debian 3.1 "Sarge") based on XFree86 version 4.4 RC2, the last version under the old license. Most operating systems incorporating XFree86 (including later versions of OpenBSD and Debian) migrated to the X.Org Server.
+
+The last code commit was in 2009; the project was confirmed dormant in 2011.
+
+4. Forks of XFree86
+
+4.1. Xwin
+
+Shortly after he was expelled from the XFree86 Core Team, Keith Packard started setting up xwin.org. While this was claimed to be the fork of XFree86, Keith Packard later refined this to "a forum for community participation in X". Xwin saw a lot of activity in the first two months after the announcements, but most of the activity was happening behind the scenes, and Keith moved his own development to freedesktop.org.
+
+4.2. Xouvert
+
+Xouvert was later also hailed as the first XFree86 fork in August 2003. Even though releases were announced for October 2003 and April 2004, no releases were made. The last status change was made in March 2004 and it was communicated that there were delays in setting up a revision control system.
+
+4.3. X.Org
+
+The X.Org Server became the official reference implementation of X11. The first version, X11R6.7.0, was forked from XFree86 version 4.4 RC2 to avoid the XFree86 license changes, with X11R6.6 changes merged in. Version X11R6.8 added many new extensions, drivers and fixes. It is hosted by and works closely with corporate-sponsored freedesktop.org.
+
+Most of the open-source Unix-like operating systems have adopted the X.Org Server in place of XFree86, and most of the XFree86 developers have moved to X.Org.
+
+5. Release history
+
+6. See also
+
+DirectFB
+
+XFree86 logfile
+
+XFree86 Modeline
+
+XF86Config
+
+7. References
+
+;Notes
+
+(Oscar Boykin, OSNews February 25, 2004) 舒 the licensing controversy and forks
+
+(Michael J. Hammel, Linux Magazine, December 2001)
+
+(David Wexelblat, March 20, 2003) 舒 on why Keith Packard was sacked from the core team
+
+(Keith Packard, March 21, 2003)
+
+(Andrew Orlowski, The Register, March 21, 2003)
+
+(from Make Your Open Source Software GPL-Compatible. Or Else. by David A. Wheeler, February 16, 2005)
+
+8. External links

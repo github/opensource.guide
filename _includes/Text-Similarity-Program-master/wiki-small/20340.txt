@@ -1,0 +1,33 @@
+Mary was a programming language designed and implemented by RUNIT at Trondheim, Norway in the 1970s. It borrowed many features from ALGOL 68 but was designed for machine-oriented programming.
+
+An unusual feature of its syntax was that expressions were constructed using the conventional infix operators, but all of them had the same precedence and evaluation went from left to right unless there were brackets. Assignment had the destination on the right and assignment was considered just another operator.
+
+Similar to C, several language features appear to have existed to allow programmers to produce reasonably well optimised code, despite a quite primitive code generator in the compiler. These included operators similar to the += et alter in C and explicit register declarations for variables.
+
+Notable features:
+
+"Dataflow syntax" - values flow from left to right, including assignment.
+
+Most constructs could be used in expressions (blocks, IF, CASE, etc.).
+
+Text-based recursive macros.
+
+Overloaded user-defined operators, not constrained to predefined identifiers as in C++.
+
+Automatic building and dereferencing of pointers from type context.
+
+Scalar range types.
+
+Array and set enumeration in loop iterators.
+
+Dynamic array descriptors (ROW). A book describing Mary was printed in 1974 (Fourth and last edition in 1979): Mary Textbook by Reidar Conradi & Per Holager.
+
+Compilers were made for Kongsberg Våpenfabrikk's SM-4 and Norsk Data Nord-10/ND-100 mini-computers. The original Mary compiler was written in NU ALGOL, ran on the Univac-1100 series and was used to bootstrap a native compiler for ND-100/SINTRAN-III. RUNIT implemented a CHILL compiler written in Mary which ran on ND-100 and had Intel 8086 and 80286 targets. When this compiler was ported to the VAX platform, a common backend for Mary and CHILL was implemented. Later, backends for i386 and SPARC were available. Since the Mary compiler was implemented in Mary, it was possible to run the compiler on all these platforms.
+
+Mary is no longer maintained.
+
+1. Example
+
+2. See also
+
+ALGOL 68

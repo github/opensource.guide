@@ -1,0 +1,199 @@
+In telecommunications, RS-232 is a standard for serial communication transmission of data. It formally defines the signals connecting between a DTE (data terminal equipment) such as a computer terminal, and a DCE (data circuit-terminating equipment, originally defined as data communication equipment), such as a modem. The RS-232 standard is commonly used in computer serial ports. The standard defines the electrical characteristics and timing of signals, the meaning of signals, and the physical size and pinout of connectors. The current version of the standard is TIA-232-F Interface Between Data Terminal Equipment and Data Circuit-Terminating Equipment Employing Serial Binary Data Interchange, issued in 1997.
+
+An RS-232 serial port was once a standard feature of a personal computer, used for connections to modems, printers, mice, data storage, uninterruptible power supplies, and other peripheral devices. However, RS-232 is hampered by low transmission speed, large voltage swing, and large standard connectors. In modern personal computers, USB has displaced RS-232 from most of its peripheral interface roles. Many computers do not come equipped with RS-232 ports and must use either an external USB-to-RS-232 converter or an internal expansion card with one or more serial ports to connect to RS-232 peripherals. RS-232 devices are widely used, especially in industrial machines, networking equipment and scientific instruments.
+
+1. Scope of the standard
+
+The Electronic Industries Association (EIA) standard RS-232-C as of 1969 defines:
+
+Electrical signal characteristics such as voltage levels, signaling rate, timing and slew-rate of signals, voltage withstand level, short-circuit behavior, and maximum load capacitance.
+
+Interface mechanical characteristics, pluggable connectors and pin identification.
+
+Functions of each circuit in the interface connector.
+
+Standard subsets of interface circuits for selected telecom applications. The standard does not define such elements as the character encoding or the framing of characters, or error detection protocols. The character format and transmission bit rate are set by the serial port hardware which may also contain circuits to convert the internal logic levels to RS-232 compatible signal levels. The standard does not define bit rates for transmission, except that it says it is intended for bit rates lower than 20,000 bits per second.
+
+2. History
+
+RS-232 was first introduced in 1962 by the Radio Sector of the EIA. The original DTEs were electromechanical teletypewriters, and the original DCEs were (usually) modems. When electronic terminals (smart and dumb) began to be used, they were often designed to be interchangeable with teletypewriters, and so supported RS-232. The C revision of the standard was issued in 1969 in part to accommodate the electrical characteristics of these devices.
+
+Since the requirements of devices such as computers, printers, test instruments, POS terminals and so on were not foreseen by the standard, designers implementing an RS-232 compatible interface on their equipment often interpreted the standard idiosyncratically. The resulting common problems were non-standard pin assignment of circuits on connectors, and incorrect or missing control signals. The lack of adherence to the standards produced a thriving industry of breakout boxes, patch boxes, test equipment, books, and other aids for the connection of disparate equipment. A common deviation from the standard was to drive the signals at a reduced voltage. Some manufacturers therefore built transmitters that supplied +5 V and -5 V and labeled them as "RS-232 compatible".
+
+Later personal computers (and other devices) started to make use of the standard so that they could connect to existing equipment. For many years, an RS-232-compatible port was a standard feature for serial communications, such as modem connections, on many computers. It remained in widespread use into the late 1990s. In personal computer peripherals, it has largely been supplanted by other interface standards, such as USB. RS-232 is still used to connect older designs of peripherals, industrial equipment (such as PLCs), console ports and special purpose equipment.
+
+The standard has been renamed several times during its history as the sponsoring organization changed its name, and has been variously known as EIA RS-232, EIA 232, and most recently as TIA 232. The standard continued to be revised and updated by the Electronic Industries Alliance and since 1988 by the Telecommunications Industry Association (TIA). Revision C was issued in a document dated August 1969. Revision D was issued in 1986. The current revision is TIA-232-F Interface Between Data Terminal Equipment and Data Circuit-Terminating Equipment Employing Serial Binary Data Interchange, issued in 1997. Changes since Revision C have been in timing and details intended to improve harmonization with the CCITT standard V.24, but equipment built to the current standard will interoperate with older versions.
+
+Related ITU-T standards include V.24 (circuit identification) and V.28 (signal voltage and timing characteristics).
+
+In revision D of EIA-232, the D-subminiature connector was formally included as part of the standard (it was only referenced in the appendix of RS 232 C). The voltage range was extended to +/- 25 volts, and the circuit capacitance limit was expressly stated as 2500 pF. Revision E of EIA 232 introduced a new, smaller, standard D-shell 26-pin "Alt A" connector, and made other changes to improve compatibility with CCITT standards V.24, V.28 and ISO 2110.
+
+3. Limitations of the standard
+
+Because RS-232 is used beyond the original purpose of interconnecting a terminal with a modem, successor standards have been developed to address the limitations. Issues with the RS-232 standard include:
+
+The large voltage swings and requirement for positive and negative supplies increases power consumption of the interface and complicates power supply design. The voltage swing requirement also limits the upper speed of a compatible interface.
+
+Single-ended signaling referred to a common signal ground limits the noise immunity and transmission distance.
+
+Multi-drop connection among more than two devices is not defined. While multi-drop "work-arounds" have been devised, they have limitations in speed and compatibility.
+
+Asymmetrical definitions of the two ends of the link make the assignment of the role of a newly developed device problematic; the designer must decide on either a DTE-like or DCE-like interface and which connector pin assignments to use.
+
+The handshaking and control lines of the interface are intended for the setup and takedown of a dial-up communication circuit; in particular, the use of handshake lines for flow control is not reliably implemented in many devices.
+
+No method is specified for sending power to a device. While a small amount of current can be extracted from the DTR and RTS lines, this is only suitable for low power devices such as mice.
+
+The 25-way connector recommended in the standard is large compared to current practice.
+
+The standard does not address the possibility of connecting a DTE directly to a DTE, or a DCE to a DCE.
+
+4. Role in modern personal computers
+
+In the book PC 97 Hardware Design Guide, Microsoft deprecated support for the RS-232 compatible serial port of the original IBM PC design. Today, RS-232 has mostly been replaced in personal computers by USB for local communications. Compared with RS-232, USB is faster, uses lower voltages, and has connectors that are simpler to connect and use. However, USB is limited by standard to no more than 5 meters of cable, thus favoring RS-232 when longer distances are needed. Both standards have software support in popular operating systems.
+
+USB is designed to make it easy for device drivers to communicate with hardware. USB is more complex than the RS-232 standard because it includes a protocol for transferring data to devices. This requires more software to support the protocol used. There is no direct analog to the terminal programs used to let users communicate directly with serial ports.
+
+Serial ports of personal computers are also sometimes used to directly control various hardware devices, such as relays or lamps. Personal computers may use a serial port to interface to devices such as uninterruptible power supplies. In some cases, serial data is not exchanged, but the control lines are used to signal conditions such as loss of power or low battery alarms. An application program can detect or change the state of RS 232 control lines in the registers of the serial hardware using only a few input/output instructions; by contrast, a USB interface requires software to decode the serial data.
+
+Devices that convert between USB and RS-232 do not work with all software or on all personal computers.
+
+In fields such as laboratory automation or surveying, RS 232 devices may continue to be used. PLCs, VFDs, servo drives, and CNC equipment are programmable via RS-232. Some manufacturers have responded to this demand: Toshiba re-introduced the DE-9M connector on the Tecra laptop.
+
+Serial ports with RS-232 are also commonly used to communicate to headless systems such as servers, where no monitor or keyboard is installed, during boot when operating system is not running yet and therefore no network connection is possible. An RS-232 serial port can communicate to some embedded systems such as routers as an alternative to network mode of monitoring.
+
+5. Standard details
+
+In RS-232, user data is sent as a time-series of bits. Both synchronous and asynchronous transmissions are supported by the standard. In addition to the data circuits, the standard defines a number of control circuits used to manage the connection between the DTE and DCE. Each data or control circuit only operates in one direction, that is, signaling from a DTE to the attached DCE or the reverse. Since transmit data and receive data are separate circuits, the interface can operate in a full duplex manner, supporting concurrent data flow in both directions. The standard does not define character framing within the data stream, or character encoding.
+
+5.1. Voltage levels
+
+The RS-232 standard defines the voltage levels that correspond to logical one and logical zero levels for the data transmission and the control signal lines. Valid signals are either in the range of +3 to +15 volts or the range −3 to −15 volts with respect to the ground/common pin; consequently, the range between −3 to +3 volts is not a valid RS-232 level. For data transmission lines (TxD, RxD and their secondary channel equivalents) logic one is defined as a negative voltage, the signal condition is called "mark". Logic zero is positive and the signal condition is termed "space". Control signals have the opposite polarity: the asserted or active state is positive voltage and the deasserted or inactive state is negative voltage. Examples of control lines include request to send (RTS), clear to send (CTS), data terminal ready (DTR), and data set ready (DSR).
+
+The standard specifies a maximum open-circuit voltage of 25 volts: signal levels of ±5 V, ±10 V, ±12 V, and ±15 V are all commonly seen depending on the voltages available to the line driver circuit. Some RS-232 driver chips have inbuilt circuitry to produce the required voltages from a 3 or 5 volt supply. RS-232 drivers and receivers must be able to withstand indefinite short circuit to ground or to any voltage level up to ±25 volts. The slew rate, or how fast the signal changes between levels, is also controlled.
+
+Because the voltage levels are higher than logic levels typically used by integrated circuits, special intervening driver circuits are required to translate logic levels. These also protect the device's internal circuitry from short circuits or transients that may appear on the RS-232 interface, and provide sufficient current to comply with the slew rate requirements for data transmission.
+
+Because both ends of the RS-232 circuit depend on the ground pin being zero volts, problems will occur when connecting machinery and computers where the voltage between the ground pin on one end, and the ground pin on the other is not zero. This may also cause a hazardous ground loop. Use of a common ground limits RS-232 to applications with relatively short cables. If the two devices are far enough apart or on separate power systems, the local ground connections at either end of the cable will have differing voltages; this difference will reduce the noise margin of the signals. Balanced, differential, serial connections such as USB, RS-422 and RS-485 can tolerate larger ground voltage differences because of the differential signaling.
+
+Unused interface signals terminated to ground will have an undefined logic state. Where it is necessary to permanently set a control signal to a defined state, it must be connected to a voltage source that asserts the logic 1 or logic 0 level, for example with a pullup resistor. Some devices provide test voltages on their interface connectors for this purpose.
+
+5.2. Connectors
+
+RS-232 devices may be classified as Data Terminal Equipment (DTE) or Data Communication Equipment (DCE); this defines at each device which wires will be sending and receiving each signal. The standard recommended but did not make mandatory the D-subminiature 25-pin connector. According to the standard, male connectors have DTE pin functions, and female connectors have DCE pin functions. Other devices may have any combination of connector gender and pin definitions. Many terminals were manufactured with female connectors but were sold with a cable with male connectors at each end; the terminal with its cable satisfied the recommendations in the standard. The standard specifies 20 different signal connections. Since most devices use only a few signals, smaller connectors can often be used.
+
+Personal computer manufacturers replaced the DB-25M connector by the smaller DE-9M connector. Different pin numbers were used for the signals (for this see serial port). This connector, with varying pinouts, became common for personal computers and related devices.
+
+Presence of a 25-pin D-sub connector does not necessarily indicate an RS-232-C compliant interface. For example, on the original IBM PC, a male D-sub was an RS-232-C DTE port (with a non-standard current loop interface on reserved pins), but the female D-sub connector on the same PC model was used for the parallel Centronics printer port. Some personal computers put non-standard voltages or signals on some pins of their serial ports.
+
+5.3. Signals
+
+The following table lists commonly used RS-232 signals and pin assignments. See serial port (pinouts) for non-standard variations including the popular DE-9 connector.
+
+The signals are named from the standpoint of the DTE. The ground signal is a common return for the other connections. The DB-25 connector includes a second "protective ground" on pin 1.
+
+Data can be sent over a secondary channel (when implemented by the DTE and DCE devices), which is equivalent to the primary channel. Pin assignments are described in following table:
+
+Ring Indicator' (RI), is a signal sent from the modem to the terminal device. It indicates to the terminal device that the phone line is ringing. In many computer serial ports, a hardware interrupt is generated when the RI signal changes state. Having support for this hardware interrupt means that a program or operating system can be informed of a change in state of the RI pin, without requiring the software to constantly "poll" the state of the pin. RI is a one-way signal from the modem to the terminal (or more generally, the DCE to the DTE) that does not correspond to another signal that carries similar information the opposite way.
+
+On an external modem the status of the Ring Indicator pin is often coupled to the "AA" (auto answer) light, which flashes if the RI signal has detected a ring. The asserted RI signal follows the ringing pattern closely, which can permit software to detect distinctive ring patterns.
+
+The Ring Indicator signal is used by some older uninterruptible power supplies (UPS's) to signal a power failure state to the computer.
+
+Certain personal computers can be configured for wake-on-ring, allowing a computer that is suspended to answer a phone call.
+
+5.4. Cables
+
+The standard does not define a maximum cable length but instead defines the maximum capacitance that a compliant drive circuit must tolerate. A widely used rule of thumb indicates that cables more than long will have too much capacitance, unless special cables are used. By using low-capacitance cables, full speed communication can be maintained over larger distances up to about . For longer distances, other signal standards are better suited to maintain high speed.
+
+Since the standard definitions are not always correctly applied, it is often necessary to consult documentation, test connections with a breakout box, or use trial and error to find a cable that works when interconnecting two devices. Connecting a fully standard-compliant DCE device and DTE device would use a cable that connects identical pin numbers in each connector (a so-called "straight cable"). "Gender changers" are available to solve gender mismatches between cables and connectors. Connecting devices with different types of connectors requires a cable that connects the corresponding pins according to the table above. Cables with 9 pins on one end and 25 on the other are common. Manufacturers of equipment with 8P8C connectors usually provide a cable with either a DB-25 or DE-9 connector (or sometimes interchangeable connectors so they can work with multiple devices). Poor-quality cables can cause false signals by crosstalk between data and control lines (such as Ring Indicator).
+
+If a given cable will not allow a data connection, especially if a gender changer is in use, a null modem cable may be necessary. Gender changers and null modem cables are not mentioned in the standard, so there is no officially sanctioned design for them.
+
+6. Conventions
+
+For functional communication through a serial port interface, conventions of bit rate, character framing, communications protocol, character encoding, data compression, and error detection, not defined in RS 232, must be agreed to by both sending and receiving equipment. For example, consider the serial ports of the original IBM PC. This implementation used an 8250 UART using asynchronous start-stop character formatting with 7 or 8 data bits per frame, usually ASCII character coding, and data rates programmable between 75 bits per second and 115,200 bits per second. Data rates above 20,000 bits per second are out of the scope of the standard, although higher data rates are sometimes used by commercially manufactured equipment. Since most RS-232 devices do not have automatic baud rate detection, users must manually set the baud rate (and all other parameters) at both ends of the RS-232 connection.
+
+In the particular case of the 8250 UART used by the IBM PC and others, baud rates were programmable by writing integer values to a divider register and by selecting one of several clock prescalers for the divider. This allowed a PC to be connected to devices using rates other than those standardized for modems. Not all baud rates can be programmed, due to the clock frequency of the 8250 UART in the PC, and the granularity of the baud rate setting. This includes the baud rate of MIDI, 31,250 bits per second, which is not achievable by a standard IBM PC serial port. MIDI-to-RS-232 interfaces designed for the IBM PC include baud rate translation hardware to adjust the baud rate of the MIDI data to something that the IBM PC can support, for example 19,200 or 38,400 bits per second.
+
+6.1. RTS/CTS handshaking
+
+In older versions of the specification, RS-232's use of the RTS and CTS lines is asymmetric: The DTE asserts RTS to indicate a desire to transmit to the DCE, and the DCE asserts CTS in response to grant permission. This allows for half-duplex modems that disable their transmitters when not required, and must transmit a synchronization preamble to the receiver when they are re-enabled. This scheme is also employed on present-day RS-232 to RS-485 converters, where the RS-232's RTS signal is used to ask the converter to take control of the RS-485 bus—a concept that does not otherwise exist in RS-232. There is no way for the DTE to indicate that it is unable to accept data from the DCE.
+
+A non-standard symmetric alternative, commonly called "RTS/CTS handshaking," was developed by various equipment manufacturers. In this scheme, CTS is no longer a response to RTS; instead, CTS indicates permission from the DCE for the DTE to send data to the DCE, and RTS indicates permission from the DTE for the DCE to send data to the DTE. RTS and CTS are controlled by the DTE and DCE respectively, each independent of the other. This was eventually codified in version RS-232-E (actually TIA-232-E by that time) by defining a new signal, "RTR (Ready to Receive)," which is CCITT V.24 circuit 133. TIA-232-E and the corresponding international standards were updated to show that circuit 133, when implemented, shares the same pin as RTS (Request to Send), and that when 133 is in use, RTS is assumed by the DCE to be ON at all times.
+
+Thus, with this alternative usage, one can think of RTS asserted (positive voltage, logic 0) meaning that the DTE is indicating it is "ready to receive" from the DCE, rather than requesting permission from the DCE to send characters to the DCE.
+
+Note that equipment using this protocol must be prepared to buffer some extra data, since a transmission may have begun just before the control line state change.
+
+RTS/CTS handshaking is an example of hardware flow control. However, "hardware flow control" in the description of the options available on an RS-232-equipped device does not always mean RTS/CTS handshaking.
+
+6.2. 3-wire and 5-wire RS-232
+
+A minimal "3-wire" RS-232 connection consisting only of transmit data, receive data, and ground, is commonly used when the full facilities of RS-232 are not required. Even a two-wire connection (data and ground) can be used if the data flow is one way (for example, a digital postal scale that periodically sends a weight reading, or a GPS receiver that periodically sends position, if no configuration via RS-232 is necessary). When only hardware flow control is required in addition to two-way data, the RTS and CTS lines are added in a 5-wire version.
+
+7. Seldom used features
+
+The EIA-232 standard specifies connections for several features that are not used in most implementations. Their use requires 25-pin connectors and cables.
+
+7.1. Signal rate selection
+
+The DTE or DCE can specify use of a "high" or "low" signaling rate. The rates as well as which device will select the rate must be configured in both the DTE and DCE. The prearranged device selects the high rate by setting pin 23 to ON.
+
+7.2. Loopback testing
+
+Many DCE devices have a loopback capability used for testing. When enabled, signals are echoed back to the sender rather than being sent on to the receiver. If supported, the DTE can signal the local DCE (the one it is connected to) to enter loopback mode by setting pin 18 to ON, or the remote DCE (the one the local DCE is connected to) to enter loopback mode by setting pin 21 to ON. The latter tests the communications link as well as both DCE's. When the DCE is in test mode it signals the DTE by setting pin 25 to ON.
+
+A commonly used version of loopback testing does not involve any special capability of either end. A hardware loopback is simply a wire connecting complementary pins together in the same connector (see loopback).
+
+Loopback testing is often performed with a specialized DTE called a bit error rate tester (or BERT).
+
+7.3. Timing signals
+
+Some synchronous devices provide a clock signal to synchronize data transmission, especially at higher data rates. Two timing signals are provided by the DCE on pins 15 and 17. Pin 15 is the transmitter clock, or send timing (ST); the DTE puts the next bit on the data line (pin 2) when this clock transitions from OFF to ON (so it is stable during the ON to OFF transition when the DCE registers the bit). Pin 17 is the receiver clock, or receive timing (RT); the DTE reads the next bit from the data line (pin 3) when this clock transitions from ON to OFF.
+
+Alternatively, the DTE can provide a clock signal, called transmitter timing (TT), on pin 24 for transmitted data. Data is changed when the clock transitions from OFF to ON and read during the ON to OFF transition. TT can be used to overcome the issue where ST must traverse a cable of unknown length and delay, clock a bit out of the DTE after another unknown delay, and return it to the DCE over the same unknown cable delay. Since the relation between the transmitted bit and TT can be fixed in the DTE design, and since both signals traverse the same cable length, using TT eliminates the issue. TT may be generated by looping ST back with an appropriate phase change to align it with the transmitted data. ST loop back to TT lets the DTE use the DCE as the frequency reference, and correct the clock to data timing.
+
+Synchronous clocking is required for such protocols as SDLC, HDLC, and X.25.
+
+7.4. Secondary channel
+
+There is a secondary data channel, identical in capability to the first. Five signals (plus the common ground of the primary channel) comprise the secondary channel: Secondary Transmitted Data (STD), Secondary Received Data (SRD), Secondary Request To Send (SRTS), Secondary Clear To Send (SCTS), and Secondary Carrier Detect (SDCD).
+
+8. Related standards
+
+Other serial signaling standards may not interoperate with standard-compliant RS-232 ports. For example, using the TTL levels of near +5 and 0 V puts the mark level in the undefined area of the standard. Such levels are sometimes used with GPS receivers and depth finders.
+
+A 20 mA current loop uses the absence of 20 mA current for high, and the presence of current in the loop for low; this signaling method is often used for long-distance and optically isolated links. Connection of a current-loop device to a compliant RS-232 port requires a level translator. Current-loop devices can supply voltages in excess of the withstand voltage limits of a compliant device. The original IBM PC serial port card implemented a 20 mA current-loop interface, which was never emulated by other suppliers of plug-compatible equipment.
+
+Other serial interfaces similar to RS-232:
+
+RS-422 (a high-speed system similar to RS-232 but with differential signaling)
+
+RS-423 (a high-speed system similar to RS-422 but with unbalanced signaling)
+
+RS-449 (a functional and mechanical interface that used RS-422 and RS-423 signals - it never caught on like RS-232 and was withdrawn by the EIA)
+
+RS-485 (a descendant of RS-422 that can be used as a bus in multidrop configurations)
+
+MIL-STD-188 (a system like RS-232 but with better impedance and rise time control)
+
+EIA-530 (a high-speed system using RS-422 or RS-423 electrical properties in an EIA-232 pinout configuration, thus combining the best of both; supersedes RS-449)
+
+EIA/TIA-561 8 Position Non-Synchronous Interface Between Data Terminal Equipment and Data Circuit Terminating Equipment Employing Serial Binary Data Interchange
+
+EIA/TIA-562 Electrical Characteristics for an Unbalanced Digital Interface (low-voltage version of EIA/TIA-232)
+
+TIA-574 (standardizes the 9-pin D-subminiature connector pinout for use with EIA-232 electrical signalling, as originated on the IBM PC/AT)
+
+9. Development tools
+
+When developing or troubleshooting systems using RS-232, close examination of hardware signals can be important to find problems. A serial line analyzer is a device similar to a logic analyzer but specialized for RS-232's voltage levels, connectors, and, where used, clock signals. The serial line analyzer can collect, store, and display the data and control signals, allowing developers to view them in detail. Some simply display the signals as waveforms; more elaborate versions include the ability to decode characters in ASCII or other common codes and to interpret common protocols used over RS-232 such as SDLC, HDLC, DDCMP, and X.25. Serial line analyzers are available as standalone units, as software and interface cables for general-purpose logic analyzers and oscilloscopes, and as programs that run on common personal computers and devices.
+
+10. References
+
+11. Further reading
+
+Serial Port Complete: COM Ports, USB Virtual COM Ports, and Ports for Embedded Systems; 2nd Edition; Jan Axelson; Lakeview Research; 380 pages; 2007; ISBN 978-1-931-44806-2.
+
+12. External links

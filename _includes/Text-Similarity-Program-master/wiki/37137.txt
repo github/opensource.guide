@@ -1,0 +1,169 @@
+Arabidopsis (rockcress) is a genus in the family Brassicaceae. They are small flowering plants related to cabbage and mustard. This genus is of great interest since it contains thale cress (Arabidopsis thaliana), one of the model organisms used for studying plant biology and the first plant to have its entire genome sequenced. Changes in thale cress are easily observed, making it a very useful model. The American space agency, NASA, plans to grow Arabidopsis on the Moon in 2015 and on Mars by 2021.
+
+1. Status
+
+Currently, the genus Arabidopsis has 9 species and a further eight subspecies recognised. This delimitation is quite recent, and is based on morphological and molecular phylogenies by O'Kane and Al-Shehbaz (1997, 2003) and others.
+
+Their findings confirm the species formerly included in Arabidopsis made it polyphyletic. The most recent reclassification moves two species previously placed in Cardaminopsis and Hylandra and three species of Arabis into Arabidopsis, but excludes 50 that have been moved into the new genera Beringia, Crucihimalaya, Ianhedgea, Olimarabidopsis, and Pseudoarabidopsis.
+
+All of the species in Arabidopsis are indigenous to Europe, while two of the species have broad ranges also extending into North America and Asia.
+
+In the last two decades, Arabidopsis thaliana has gained much interest from the scientific community as a model organism for research on numerous aspects of plant biology. (TAIR) is a curated online information source for Arabidopsis thaliana genetic and molecular biology research, and is an online compilation of invited chapters on Arabidopsis thaliana biology. In Europe, the model organism resource centre for Arabidopsis thaliana germplasm, bioinformatics and molecular biology resources (including GeneChips) is the Nottingham Arabidopsis Stock Centre – NASC whilst in North America germplasm services are provided by the Arabidopsis Biological Resource Center, (ABRC) based at the Ohio State University. The ordering system for ABRC was incorporated into (TAIR) database in June 2001 whilst NASC has always (since 1991) hosted its own ordering system and genome browser.
+
+2. A. thaliana in partial in vitro conditions
+
+Recently, A. thaliana tissues have been cultivated in microfluidic devices. Plant-on-chip devices show promise for future research in understanding the mechanism of sexual reproduction in A. thaliana.
+
+3. List of species and subspecies
+
+Arabidopsis arenicola (Richardson ex Hook.) Al-Shehbaz, Elven, D.F. Murray & S.I. Warwick
+
+Arabidopsis arenosa (L.) Lawalrée,
+
+Arabidopsis cebennensis (D.C.)
+
+Arabidopsis croatica (Schott)
+
+Arabidopsis halleri (L.)
+
+Arabidopsis lyrata (L.) O'Kane & Al-Shehbaz
+
+Arabidopsis neglecta (Schultes)
+
+Arabidopsis pedemontana (Boiss.)
+
+Arabidopsis suecica (Fries) Norrlin, Meddel.
+
+Arabidopsis thaliana (L.) Heynh.
+
+4. Cytogenetics
+
+Cytogenetic analysis has shown the haploid chromosome number (n) is variable and can be 5, 8 and 13.
+
+A. thaliana is n=5 and the DNA sequencing of this species was completed in 2001.
+
+A. suecica is n=13 (5+8) and is an amphidiploid species originated through hybridization between A. thaliana and diploid A. arenosa.
+
+A. neglecta is n=8, as are the various subspecies of A. halleri.
+
+Various subspecies of A. lyrata and A. arenosa can be either 2n (diploid) or 4n (tetraploid).
+
+As of 2005, A. cebennensis, A. croatica and A. pedemontana have not been investigated cytologically.
+
+5. Reclassified species
+
+The following species previously placed in Arabidopsis are not currently considered part of the genus.
+
+A. bactriana = Dielsiocharis bactriana
+
+A. brevicaulis = Crucihimalaya himalaica
+
+A. bursifolia = Beringia bursifolia
+
+A. campestris = Crucihimalaya wallichii
+
+A. dentata = Murbeckiella pinnatifida
+
+A. drassiana =
+
+A. erysimoides = Erysimum hedgeanum
+
+A. eseptata = Olimarabidopsis umbrosa
+
+A. gamosepala = Neotorularia gamosepala
+
+A. glauca = Thellungiella salsuginea
+
+A. griffithiana = Olimarabidopsis pumila
+
+A. himalaica = Crucihimalaya himalaica
+
+A. huetii = Murbeckiella huetii
+
+A. kneuckeri = Crucihimalaya kneuckeri
+
+A. korshinskyi = Olimarabidopsis cabulica
+
+A. lasiocarpa = Crucihimalaya lasiocarpa
+
+A. minutiflora = Ianhedgea minutiflora
+
+A. mollis = Beringia bursifolia
+
+A. mollissima = Crucihimalaya mollissima
+
+A. monachorum = Crucihimalaya lasiocarpa
+
+A. mongolica = Crucihimalaya mongolica
+
+A. multicaulis = Arabis tibetica
+
+A. novae-anglicae = Neotorularia humilis
+
+A. nuda = Drabopsis nuda
+
+A. ovczinnikovii = Crucihimalaya mollissima
+
+A. parvula = Thellungiella parvula
+
+A. pinnatifida = Murbeckiella pinnatifida
+
+A. pumila = Olimarabidopsis pumila
+
+A. qiranica = Sisymbriopsis mollipila
+
+A. richardsonii = Neotorularia humilis
+
+A. russeliana = Crucihimalaya wallichii
+
+A. salsugineum = Eutrema salsugineum
+
+A. sarbalica = Crucihimalaya wallichii
+
+A. schimperi = Robeschia schimperi
+
+A. stenocarpa = Beringia bursifolia
+
+A. stewartiana = Olimarabidopsis pumila
+
+A. stricta = Crucihimalaya stricta
+
+A. taraxacifolia = Crucihimalaya wallichii
+
+A. tenuisiliqua = Arabis tenuisiliqua
+
+A. tibetica = Crucihimalaya himalaica
+
+A. tibetica = Arabis tibetica
+
+A. toxophylla = Pseudoarabidopsis toxophylla
+
+A. trichocarpa = Neotorularia humilis
+
+A. trichopoda = Beringia bursifolia
+
+A. tschuktschorum = Beringia bursifolia
+
+A. tuemurnica = Neotorularia humilis
+
+A. verna = Drabopsis nuda
+
+A. virgata = Beringia bursifolia
+
+A. wallichii = Crucihimalaya wallichii
+
+A. yadungensis =
+
+6. Sources
+
+O'Kane Jr, S. L., & Al-Shehbaz, I. A. (1997). A synopsis of Arabidopsis (Brassicaceae): Novon 7: 323–327.
+
+Al-Shehbaz, I. A., O'Kane, Steve L. (2002). Taxonomy and Phylogeny of Arabidopsis (Brassicaceae). The Arabidopsis Book: 1-22. .
+
+Martin et al. (2002) Evolutionary analysis of Arabidopsis, cyanobacterial, and chloroplast genomes reveals plastid phylogeny and thousands of cyanobacterial genes in the nucleus.
+
+O'Kane Jr, S. L., & Al-Shehbaz, I. A. (2003). Phylogenetic position and generic limits of Arabidopsis (Brassicaceae) based on sequences of nuclear ribosomal DNA: Annals of the Missouri Botanical Garden 90 (4): 603-612
+
+7. References
+
+pl:Rzodkiewnik

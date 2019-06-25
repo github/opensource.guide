@@ -1,0 +1,163 @@
+SPARC (from "scalable processor architecture") is a RISC instruction set architecture (ISA) developed by Sun Microsystems and introduced in mid-1987.
+
+SPARC is a registered trademark of SPARC International, Inc., an organization established in 1989 to promote the SPARC architecture, manage SPARC trademarks, and provide conformance testing. Implementations of the original 32-bit SPARC architecture were initially designed and used in Sun's Sun-4 workstation and server systems, replacing their earlier Sun-3 systems based on the Motorola 68000 family of processors. Later, SPARC processors were used in SMP and CC-NUMA servers produced by Sun, Solbourne and Fujitsu, among others, and designed for 64-bit operation.
+
+SPARC International was intended to open the SPARC architecture to make a larger ecosystem for the design, which has been licensed to several manufacturers, including Texas Instruments, Atmel, Cypress Semiconductor, and Fujitsu. As a result of SPARC International, the SPARC architecture is fully open and non-proprietary.
+
+In March 2006 the complete design of Sun's UltraSPARC T1 microprocessor was released in open-source form at and named the OpenSPARC T1. In 2007 the design of Sun's UltraSPARC T2 microprocessor was also released in open-source form as OpenSPARC T2.
+
+The most recent commercial iterations of the SPARC processor design are the Fujitsu Laboratories Ltd.'s eight core "Venus" 128 GFLOP, 2.0 GHz SPARC64 VIIIfx introduced June 2009, which is used in the 8 petaFLOPS Japanese supercomputer "K computer", SPARC64 X "Athena" introduced in August 2012, and the 16 core SPARC T5 introduced by Oracle Corporation in March 2013, running at 3.6 GHz.
+
+1. Features
+
+The SPARC architecture was heavily influenced by the earlier RISC designs including the RISC I and II from the University of California, Berkeley and the IBM 801. These original RISC designs were minimalist, including as few features or op-codes as possible and aiming to execute instructions at a rate of almost one instruction per clock cycle. This made them similar to the MIPS architecture in many ways, including the lack of instructions such as multiply or divide. Another feature of SPARC influenced by this early RISC movement is the branch delay slot.
+
+The SPARC processor usually contains as many as 160 general purpose registers. At any point, only 32 of them are immediately visible to software - 8 are a set of global registers (one of which, g0, is hard-wired to zero, so only 7 of them are usable as registers) and the other 24 are from the stack of registers. These 24 registers form what is called a register window, and at function call/return, this window is moved up and down the register stack. Each window has 8 local registers and shares 8 registers with each of the adjacent windows. The shared registers are used for passing function parameters and returning values, and the local registers are used for retaining local values across function calls.
+
+The "Scalable" in SPARC comes from the fact that the SPARC specification allows implementations to scale from embedded processors up through large server processors, all sharing the same core (non-privileged) instruction set. One of the architectural parameters that can scale is the number of implemented register windows; the specification allows from 3 to 32 windows to be implemented, so the implementation can choose to implement all 32 to provide maximum call stack efficiency, or to implement only 3 to reduce cost and complexity of the design, or to implement some number between them. Other architectures that include similar register file features include Intel i960, IA-64, and AMD 29000.
+
+The architecture has gone through several revisions. It gained hardware multiply and divide functionality in Version 8. 64-bit (addressing and data) were added to the version 9 SPARC specification published in 1994.
+
+In SPARC Version 8, the floating point register file has 16 double precision registers. Each of them can be used as two single precision registers, providing a total of 32 single precision registers. An odd-even number pair of double precision registers can be used as a quad precision register, thus allowing 8 quad precision registers. SPARC Version 9 added 16 more double precision registers (which can also be accessed as 8 quad precision registers), but these additional registers can not be accessed as single precision registers. No SPARC CPU implements quad-precision operations in hardware as of 2004.
+
+Tagged add and subtract instructions perform adds and subtracts on values checking that the bottom two bits of both operands are 0 and reporting overflow if they are not. This can be useful in the implementation of the run time for ML, Lisp, and similar languages that might use a tagged integer format.
+
+The endianness of the 32-bit SPARC V8 architecture is purely big-endian. The 64-bit SPARC V9 architecture uses big-endian instructions, but can access data in either big-endian or little-endian byte order, chosen either at the application instruction (load/store) level or at the memory page level (via an MMU setting). The latter is often used for accessing data from inherently little-endian devices, such as those on PCI buses.
+
+2. History
+
+There have been three major revisions of the architecture. The first published revision was the 32-bit SPARC Version 7 (V7) in 1986. SPARC Version 8 (V8), an enhanced SPARC architecture definition, was released in 1990. The main differences between V7 and V8 were the addition of integer multiply and divide instructions, and an upgrade from 80-bit "extended precision" floating-point arithmetic to 128-bit "quad-precision" arithmetic. SPARC V8 served as the basis for IEEE Standard 1754-1994, an IEEE standard for a 32-bit microprocessor architecture.
+
+SPARC Version 9, the 64-bit SPARC architecture, was released by SPARC International in 1993. It was developed by the SPARC Architecture Committee consisting of Amdahl Corporation, Fujitsu, ICL, LSI Logic, Matsushita, Philips, Ross Technology, Sun Microsystems, and Texas Instruments.
+
+In 2002, the SPARC Joint Programming Specification 1 (JPS1) was released by Fujitsu and Sun, describing processor functions which were identically implemented in the CPUs of both companies ("Commonality"). The first CPUs conforming to JPS1 were the UltraSPARC III by Sun and the SPARC64 V by Fujitsu. Functionalities which are not covered by JPS1 are documented for each processor in "Implementation Supplements".
+
+In early 2006, Sun released an extended architecture specification, UltraSPARC Architecture 2005. This includes not only the non-privileged and most of the privileged portions of SPARC V9, but also all the architectural extensions developed through the processor generations of UltraSPARC III, IV, IV+ as well as CMT extensions starting with the UltraSPARC T1 implementation:
+
+the VIS 1 and VIS 2 instruction set extensions and the associated GSR register
+
+multiple levels of global registers, controlled by the GL register
+
+Sun’s 64-bit MMU architecture
+
+privileged instructions ALLCLEAN, OTHERW, NORMALW, and INVALW
+
+access to the VER register is now hyperprivileged
+
+the SIR instruction is now hyperprivileged UltraSPARC Architecture 2005 includes Sun's standard extensions and remains compliant with the full SPARC V9 Level 1 specification.
+
+In 2007, Sun released an updated specification, UltraSPARC Architecture 2007, to which the UltraSPARC T2 implementation complied.
+
+In August, 2012, Oracle Corporation made available a new specification, Oracle SPARC Architecture 2011, which besides the overall update of the reference, adds the VIS 3 instructions set extensions to 2007 specification.
+
+The architecture has provided continuous application binary compatibility from the first SPARC V7 implementation in 1987 into the Sun UltraSPARC Architecture implementations.
+
+Among various implementations of SPARC, Sun's SuperSPARC and UltraSPARC-I were very popular, and were used as reference systems for SPEC CPU95 and CPU2000 benchmarks. The 296 MHz UltraSPARC-II is the reference system for the SPEC CPU2006 benchmark.
+
+The SPARC architecture has been licensed to many companies who have developed and fabricated implementations such as:
+
+Afara Websystems
+
+Bipolar Integrated Technology (BIT)
+
+C-Cube
+
+Cypress Semiconductor
+
+Fujitsu and Fujitsu Microelectronics
+
+HAL Computer Systems
+
+Hyundai
+
+LSI Logic
+
+Magnum Semiconductor
+
+Meiko Scientific
+
+Metaflow Technologies
+
+Prisma
+
+Ross Technology
+
+Parsé Semiconductor Co.
+
+Scientific Atlanta
+
+Solbourne Computer
+
+Weitek
+
+3. SPARC microprocessor specifications
+
+This table contains specifications for certain SPARC processors: frequency (megahertz), architecture version, release year, number of threads (threads per core multiplied by the number of cores), fabrication process (nanometers), number of transistors (millions), die size (square millimetres), number of I/O pins, dissipated power (watts), voltage, and cache sizes—data, instruction, L2 and L3 (kibibytes).
+
+Notes:
+
+4. Operating system support
+
+SPARC machines have generally used Sun's SunOS, Solaris or OpenSolaris, but other operating systems such as NeXTSTEP, RTEMS, FreeBSD, OpenBSD, NetBSD, and Linux have also been used.
+
+In 1993, Intergraph announced a port of Windows NT to the SPARC architecture, but it was later cancelled.
+
+5. Open source implementations
+
+Three fully open source implementations of the SPARC architecture exist:
+
+LEON, a 32-bit, SPARC Version 8 implementation, designed especially for space use. Source code is written in VHDL, and licensed under the GPL.
+
+OpenSPARC T1, released in 2006, a 64-bit, 32-thread implementation conforming to the UltraSPARC Architecture 2005 and to SPARC Version 9 (Level 1). Source code is written in Verilog, and licensed under many licenses. Most OpenSPARC T1 source code is licensed under the GPL. Source based on existent open source projects will continue to be licensed under their current licenses. Binary programs are licensed under a binary software license agreement.
+
+S1, a 64-bit Wishbone compliant CPU core based on the OpenSPARC T1 design. It is a single UltraSPARC v9 core capable of 4 way SMT. Like the T1, the source code is licensed under the GPL.
+
+OpenSPARC T2, released in 2008, a 64-bit, 64-thread implementation conforming to the UltraSPARC Architecture 2007 and to SPARC Version 9 (Level 1). Source code is written in Verilog, and licensed under many licenses. Most OpenSPARC T2 source code is licensed under the GPL. Source based on existent open source projects will continue to be licensed under their current licenses. Binary programs are licensed under a binary Software License Agreement. A fully open source simulator for the SPARC architecture also exists:
+
+, a 32-bit, 64-thread SPARC Version 8 implementation, designed for FPGA-based architecture simulation. RAMP Gold is written in ~36,000 lines of SystemVerilog, and licensed under the BSD licenses.
+
+6. Supercomputers
+
+Fujitsu's K computer ranked #1 in TOP500 - June 2011 and November 2011 lists. It combines 88,128 SPARC64 VIIIfx CPUs, each with eight cores, for a total of 705,024 cores—almost twice as many as any other system in the TOP500 at that time. The K Computer was more powerful than the next five systems on the list combined, and had the highest performance-to-power ratio of any other supercomputer system. It also ranked #6 in Green500 - June 2011 list, with a score of 824.56 MFLOPS/W. In the November 2012 release of TOP500, the K computer ranked #3, using by far the most power of the top three. It ranked #85 on the corresponding Green500 release.
+
+Tianhe-1A (TOP500 #8 as of November 2012) has a number of nodes with FeiTeng-1000 SPARC-based processors developed in China (based on OpenSPARC). However, those processors did not contribute to the LINPACK score.
+
+On Dec. 2, 2010, Oracle unveiled the SPARC SuperCluster with T3-2, T3-4 and M5000 servers. The configuration with T3-4 servers was claimed to surpass the HP Integrity Superdome and the IBM Power 780 server, reaching speeds of 30,249,688 tpmC.
+
+7. See also
+
+ERC32 舑 based on SPARC V7 specification
+
+FeiTeng-1000 舑 A Chinese eight core Sparc based processor
+
+MCST-4R 舑 A Russian quad-core microprocessor based on SPARC V9 specification
+
+OpenSPARC 舑 an open source project based on the UltraSPARC T1 design
+
+Rock processor 舑 A multicore and multithread microprocessor with an emphasis on floating-point performance
+
+Ross Technology, Inc. 舑 A SPARC microprocessor developer during the 1980s and 1990s
+
+Sparcle 舑 modified SPARC with multiprocessing support used by the MIT Alewife project
+
+UltraSPARC T1 舑 Sun's first multicore and multithread CPU (code-named "Niagara")
+
+UltraSPARC T2 舑 The successor to T1
+
+SPARC T3 舑 The successor to UltraSPARC T2
+
+SPARC T5 舑 The successor to T4
+
+LEON 舑 A space rated SPARC V8 processor.
+
+8. References
+
+9. External links
+
+- a SPARC architecture specification extended with CMT, hyperprivileged mode, VIS 1, VIS 2, and so forth for UltraSPARC processors
+
+- an updated SPARC architecture specification for UltraSPARC processors shipping 2007+
+
+- a 2012 update to SPARC architecture specification.
+
+(SuperSPARC, hyperSPARC)

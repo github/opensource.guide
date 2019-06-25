@@ -1,0 +1,177 @@
+Xerox Corporation is an American multinational document management corporation that produces and sells a range of color and black-and-white printers, multifunction systems, photocopiers, digital production printing presses, and related consulting services and supplies. Xerox is headquartered in Norwalk, Connecticut (moved from Stamford, Connecticut in October 2007), though its largest population of employees is based around Rochester, New York, the area in which the company was founded. On September 28, 2009, Xerox announced the intended acquisition of Affiliated Computer Services for $6.4 billion. The deal closed on February 8, 2010.As a large developed company, it is consistently placed in the list of Fortune 500 companies.
+
+Researchers at Xerox and its Palo Alto Research Center invented several important elements of personal computing, such as the desktop metaphor GUI, the computer mouse and desktop computing. These features were frowned upon by the then board of directors, who ordered the Xerox engineers to share them with Apple technicians. The features were taken on by Apple and, later, Microsoft. Partly thanks to these features, these two firms would then go on to duopolize the personal computing world.
+
+1. History
+
+Xerox was founded in 1906 in Rochester as The Haloid Photographic Company, which originally manufactured photographic paper and equipment.
+
+In 1938 Chester Carlson, a physicist working independently, invented a process for printing images using an electrically charged drum and dry powder "toner."
+
+Joseph C. Wilson, credited as the "founder of Xerox," took over Haloid from his father. He saw the promise of Carlson's invention and, in 1946, signed an agreement to develop it as a commercial product. Wilson remained as President/CEO of Xerox until 1967 and served as Chairman until his death in 1971.
+
+Looking for a term to differentiate its new system, Haloid coined the term Xerography from two Greek roots meaning "dry writing". Haloid subsequently changed its name to Haloid Xerox in 1958 and then Xerox Corporation in 1961.
+
+Before releasing the 914, Xerox tested the market by introducing a developed version of the prototype hand-operated equipment known as the Flat-plate 1385. The 1385 was not actually a viable copier because of its speed of operation. As a consequence, it was sold as a platemaker to the offset lithography market, perhaps most notably as a platemaker for the Addressograph-Multigraph Multilith 1250 and related sheet-fed offset printing presses. It was little more than a high quality, commercially available plate camera mounted as a horizontal rostrum camera, complete with photo-flood lighting and timer. The glass film/plate had been replaced with a selenium-coated aluminum plate. Clever electrics turned this into a quick developing and reusable substitute for film. A skilled user could produce fast, paper and metal printing plates of a higher quality than almost any other method. Having started as a supplier to the offset lithography duplicating industry, Xerox now set its sights on capturing some of offset's market share.
+
+The 1385 was followed by the first automatic xerographic printer, the Copyflo, in 1955. The Copyflo was a large microfilm printer which could produce positive prints on roll paper from any type of microfilm negative. Following the Copyflo, the process was scaled down to produce the 1824 microfilm printer. At about half the size and weight, this still sizable machine printed onto hand-fed, cut-sheet paper which was pulled through the process by one of two gripper bars. A scaled-down version of this gripper feed system was to become the basis for the 813 desktop copier.
+
+1.1. The Xerox 914
+
+The company came to prominence in 1959 with the introduction of the Xerox 914, "the most successful single product of all time." The 914, the first plain paper photocopier was developed by Carlson and John H. Dessauer; it was so popular that by the end of 1961 Xerox had almost $60 million in revenue. Revenues leaped to over $500 million by 1965.
+
+1.2. 1960s
+
+The company expanded substantially throughout the 1960s, making millionaires of some long-suffering investors who had nursed the company through the slow research and development phase of the product. In 1960, a xerography research facility called the Wilson Center for Research and Technology was opened in Webster, New York. In 1961, the company changed its name to Xerox Corporation. Xerox common stock (XRX) was listed on the New York Stock Exchange in 1961 and on the Chicago Stock Exchange in 1990.
+
+In 1963 Xerox introduced the Xerox 813, the first desktop plain-paper copier, realizing Carlson's vision of a copier that could fit on anyone's office desk. Ten years later in 1973, a basic, analogue, color copier, based on the 914, followed. The 914 itself was gradually sped up to become the 420 and 720. The 813 was similarly developed into the 330 and 660 products and, eventually, also the 740 desktop microfiche printer.
+
+Xerox's first foray into duplicating, as distinct from copying, was with the Xerox 2400, introduced in 1966. "2400" denoted the number of prints produced in an hour. Although still some way short of offset speeds, this machine introduced the industry's first Automatic Document Feeder, Slitter/Perforator, and Collator (sorter). This product was soon sped up by fifty percent to become the Xerox 3600 Duplicator.
+
+Meanwhile, a small lab team was borrowing 914 copiers and modifying them. The lab was working on a project called the "Long Distance Xerography" (LDX) project. The aim was to be able to connect two copiers together via the public telephone network, such that a document scanned on one machine would be copied out on the other. The LDX system was introduced in 1964. Many years later this work came to fruition in the Xerox Telecopiers, seminal to today's fax machines. The fax operation in today's multifunction copiers is true to Carlson's original vision for these devices.
+
+C. Peter McColough, a longtime executive of Haloid and Xerox took over as CEO from Joseph Wilson in 1968.
+
+In 1968 the company consolidated its headquarters at Xerox Square in downtown Rochester with its iconic 30-story Xerox Tower. In 2007 the headquarters was moved to Stamford, Connecticut, but most of the office staff remained in Rochester. In 2009 Xerox decided to sell the property, and the sale was completed in 2013, with Xerox continuing to lease space for the remaining approximately 1400 employees.
+
+Xerox embarked on a series of acquisitions. University Microfilms was purchased in 1962, Electro-Optical Systems in 1963, and R.R. Bowker in 1967. In 1969, Xerox acquired Scientific Data Systems (SDS). It renamed the division Xerox Data Systems (XDS) and produced the Sigma line and its successor the XDS 5xx series of mainframe computers in the 1960s and 1970s. XDS was sold to Honeywell in 1975.
+
+File:Xerox Tower.JPG|Xerox Tower in Rochester, New York served as headquarters in 1968–1969 File:Xeroxheadquarters.jpg|Stamford, Connecticut served as headquarters from 1969 to 2007 File:Xerox Henrietta facility.JPG|Former manufacturing facility in Henrietta, New York, constructed in the 1960s and sold to Harris RF Communications in 2010. File:XeroxTower.JPG|Xerox Canada Head Office at North American Life Centre (Xerox Tower), North York, Ontario
+
+1.3. 1970s
+
+Archie McCardell was named president of the company in 1971. During his tenure, Xerox introduced the Xerox 6500, its first color copier. During McCardell's reign at Xerox, the company announced record revenues, earnings and profits in 1973, 1974, and 1975. John Carrol became a backer, later spreading the company throughout North America.
+
+In the mid-1970s, Xerox introduced the "Xerox 9200 Duplicating System". Originally designed to be sold to print shops, to increase their productivity, it was twice a fast as the 3600 duplicator at two impressions per second (7200 per hour). It was followed by the 9400, which did auto-duplexing, and then by the 9500, which was which added variable zoom reduction and electronic lightness/darkness control.
+
+In a 1975 Super Bowl commercial for the 9200, Xerox debuted an advertising campaign featuring "Brother Dominic", a monk who used the 9200 system to save decades of manual copying. Dominic, portrayed by Jack Eagle, became the face of Xerox into the 1980s.
+
+Following these years of record profits, in 1975, Xerox resolved an anti-trust suit with the United States Federal Trade Commission (FTC), which at the time was under the direction of Frederic M. Scherer. The Xerox consent decree resulted in the forced licensing of the company's entire patent portfolio, mainly to Japanese competitors. Within four years of the consent decree, Xerox's share of the U.S. copier market dropped from nearly 100% to less than 14%.
+
+In 1979, Xerox purchased Western Union as the basis for its proposed Xerox Telecommunications Network (XTEN) for local-loop communications. However, after three years, in 1982, the company decided the idea was a mistake and sold its assets to MCI at a loss.
+
+1.4. 1980s
+
+David T. Kearns, a Xerox executive since 1971, took over as CEO in 1982. The company was revived in the 1980s and 1990s, through improvement in quality design and realignment of its product line. Attempting to expand beyond copiers, in 1981 Xerox introduced a line of electronic memory typewriters, the Memorywriter, which gained 20% market share, mostly at the expense of IBM.
+
+In 1983 Xerox bought Crum & Forster, an insurance company, and formed Xerox Financial Services (XFS) in 1984.
+
+In 1985 Xerox sold all of its publishing subsidiaries including University Microfilms and R.R. Bowker.
+
+1.5. 1990s
+
+In 1990 Paul Allaire, a Xerox executive since 1966, succeeded David Kearns, who had reached mandatory retirement age. Allaire disentangled Xerox from the financial services industry.
+
+Development of digital photocopiers in the 1990s and a revamp of the entire product range again gave Xerox a technical lead over its competitors. In 1990, Xerox released the DocuTech Production Publisher Model 135, ushering in print-on-demand. Digital photocopiers were essentially high-end laser printers with integrated scanners. Soon, additional features such as network printing and faxing were added to many models, known as Multi Function Machines, or just MFMs, which were able to be attached to computer networks. Xerox worked to turn its product into a service, providing a complete document service to companies including supply, maintenance, configuration, and user support.
+
+To reinforce this image, in 1994 the company introduced a corporate signature, "The Document Company", above its main logo and introduced a red digital X. The digital X symbolized the transition of documents between the paper and digital worlds.
+
+In the mid-1990s LA County Superior Court turned to Xerox for help in replacing nearly 500 aging copiers throughout LA County, but Xerox refused to consider leasing. The County instead went to Konica. Xerox was shut out of the County for the next two years.
+
+In April 1999 Allaire was succeeded by Richard Thoman, who had been brought in from IBM in 1997 as president. The first "outsider" to head Xerox Thoman became a victim of internal politics, and he was forced to resign in 2000.
+
+1.6. 2000s
+
+After Thoman's resignation Allaire again resumed the position of CEO and served until the appointment of Anne M. Mulcahy, another long-term Xerox executive. Xerox's turnaround was largely led by Mulcahy, who was appointed president in May 2000, CEO in August 2001 and chairman in January 2002. She launched an aggressive turnaround plan that returned Xerox to full-year profitability by the end of 2002, along with decreasing debt, increasing cash, and continuing to invest in research and development.
+
+In 2000, Xerox acquired Tektronix color printing and imaging division in Wilsonville, Oregon, for US$925 million. This led to the current Xerox Phaser line of products as well as Xerox solid ink printing technology.
+
+In September 2004, Xerox celebrated the 45th anniversary of the Xerox 914. More than 200,000 units were made around the world between 1959 and 1976, the year production of the 914 was stopped. Today, the 914 is part of American history as an artifact in the Smithsonian Institution.
+
+In November 2006, Xerox completed the Acquisition of XMPie. XMPie, the leading provider of software for cross-media, variable data one-to-one marketing, offers solutions to help businesses create and manage highly-effective direct marketing and cross-media campaigns.
+
+In October 2008, Xerox Canada Ltd. was named one of Greater Toronto's Top Employers by Mediacorp Canada Inc., which was announced by the Toronto Star newspaper.
+
+On May 21, 2009, it was announced that Ursula Burns would succeed Anne Mulcahy as CEO of Xerox. On July 1, 2009, Burns became the first African American woman to head a company the size of Xerox.
+
+On September 28, 2009, Xerox announced the intended acquisition of Affiliated Computer Services, a services and outsourcing company, for $6.4 Billion. The acquisition was completed in February 2010. Xerox said it paid 4.935 Xerox shares and $18.60 cash for each share of ACS, totaling $6.4 billion, or $63.11 a share for the company.
+
+1.7. 2010s
+
+In May 2011, Xerox acquired NewField IT for an undisclosed sum. NewField IT developed the Asset DB toolset which is widely used across the managed print services (MPS) market along with MPS market-leading consulting and software services delivering a large impact for this relatively small acquisition.
+
+In December 2013, Xerox sold their Wilsonville, Oregon solid ink product design, engineering and chemistry group and related assets previously acquired from Tektronix to 3D Systems for $32.5 million in cash.
+
+In December 2014, Xerox sold the IT Outsourcing business it had acquired in 2009 from Affiliated Computer Services to Atos for . This move was taken due to the relatively slow growth of this business relative to some other Xerox units.
+
+1.8. Digital printing
+
+The laser printer was invented in 1969 by Xerox researcher Gary Starkweather by modifying a Xerox 7000 copier. Xerox management was afraid the product version of Starkweather's invention, which became the 9700, would negatively impact their copier business so the innovation sat in limbo until IBM launched the 3800 laser printer in 1976.
+
+The first commercial non-impact printer was the Xerox 1200, introduced in 1973, based on the 3600 copier. It had an optical character generator designed by optical engineer Phil Chen.
+
+In 1977, following IBM's laser printer introduction, the Xerox 9700 was introduced. Laser printing eventually became a multi-billion-dollar business for Xerox.
+
+In the late 1970s Xerox introduced the "Xerox 350 color slide system" This product allowed the customer to create digital word and graphic 35mm slides. Many of the concepts used in today's "Photo Shop" programs were pioneered with this technology.
+
+In 1980, Xerox announced the forward looking 5700 laser printing system, a much smaller version of their 9700, but with revolutionary touch screen capabilities and multiple media input (word processing disks, IBM magcards, etc.) and printer 'finishing' options. This product was allegedly never intended to make the commercial markets due to its development cost, but rather to show the innovation of Xerox. It did take off with many customers, but was soon replaced with its still smaller and lower cost 2700 Distributed Electronic Printer offering in 1982.
+
+1.9. Palo Alto Research Center
+
+In 1970, under company president C. Peter McColough, Xerox opened the Xerox Palo Alto Research Center, known as Xerox PARC. The facility developed many modern computing technologies such as the graphical user interface (GUI), laser printing, WYSIWYG text editors and Ethernet. From these inventions, Xerox PARC created the Xerox Alto in 1973, a small minicomputer similar to a modern workstation or personal computer. This machine can be considered the first true Personal Computer, given its versatile combination of a cathode-ray-type screen, mouse-type pointing device, and a QWERTY-type alphanumeric keyboard. But the Alto was never commercially sold, as Xerox itself could not see the sales potential of it. It was, however, installed in Xerox's own offices, worldwide and those of the US Government and military, who could see the potential. Within these sites the individual workstations were connected together by Xerox's own unique LAN, The Ethernet. Data was sent around this system of heavy, yellow, low loss coaxial cable using the packet data system. In addition, PARC also developed one of the earliest internetworking protocol suites, the PARC Universal Packet (PUP).
+
+In 1979, Steve Jobs made a deal with Xerox's venture capital division: He would let them invest $1 million in exchange for a look at the technology they were working on. Jobs and the others saw the commercial potential of the WIMP (Window, Icon, Menu, and Pointing device) system and redirected development of the Apple Lisa to incorporate these technologies. Jobs is quoted as saying, "They just had no idea what they had." In 1980, Jobs invited several key PARC researchers to join his company so that they could fully develop and implement their ideas.
+
+In 1981, Xerox released a system similar to the Alto, the Xerox 8010 Star. It was the first commercial system to incorporate technologies that have subsequently become commonplace in personal computers, such as a bitmapped display, window-based GUI, mouse, Ethernet networking, file servers, print servers and e-mail. The Xerox 6085 Star, despite its technological breakthroughs, did not sell well due to its high price, costing $16,000 per unit. A typical Xerox Star-based office, complete with network and printers, would have cost $100,000.
+
+In the mid-1980s, Apple considered buying Xerox; however, a deal was never reached. Apple instead bought rights to the Alto GUI and adapted it into to a more affordable personal computer, aimed towards the business and education markets. The Apple Macintosh was released in 1984, and was the first personal computer to popularize the GUI and mouse amongst the public.
+
+In 2002 PARC was spun off into an independent wholly owned subsidiary of Xerox.
+
+2. Chief Executives
+
+3. Xerox Partner Programs
+
+Xerox offers numerous partnership programs such as, being an Authorized Sales Agent, North American Reseller Sales (NARS), Xerox Business Innovation Partnership Program, and Xerox Premier Partners Global Network. One can also create their own agency, such as Paper Trail Solutions, in North Carolina and Documaxx, in Texas.
+
+4. Products and services
+
+Xerox today manufactures and sells a wide variety of office and production equipment including LCD Monitors, photo copiers, Xerox Phaser printers, multifunction printers, large-volume digital printers as well as workflow software under the brand strategy of FreeFlow. The impact of Xerox FreeFlow products on the graphic arts market and the print industry in general has grown exponentially since May 2006, largely as a result of the Xerox presence at IPEX 2006. Xerox also sells scanners and digital presses. On May 29, 2008, Xerox launched the Xerox iGen4 Press.
+
+Xerox sells both color and black-and-white printers under the Xerox Phaser and ColorQube brand, with the color consumer model starting at US$299; the most expensive color model costs US$6,799.
+
+Multifunction office color and black-and-white products are sold under the ColorQube, Phaser, and WorkCentre brands.
+
+Xerox also produces fax machines, professional printers, black and white copiers, and several other products.
+
+In addition, Xerox produces many printing and office supplies such as paper in many forms, and solid ink that takes advantage of 2400 FinePoint technology; and markets software such as Xerox DocuShare, Xerox MarketPort and FlowPort, offers consulting services, ECM Digital Repository Services and printing outsourcing. , the head of the Xerox services business was Robert Zapfel.
+
+5. Corporate structure
+
+Although Xerox is a global brand, it maintains a joint venture, Fuji Xerox, with Japanese photographic firm Fuji Photo Film Co. to develop, produce and sell in the Asia-Pacific region. Fuji Photo Film Co. is currently the majority stakeholder, with 75% of the shareholding.
+
+Xerox India, formerly Modi Xerox, is Xerox's Indian subsidiary derived from a joint venture formed between Dr. Bhupendra Kumar Modi and Rank Xerox in 1983. Xerox obtained a majority stake in 1999 and aims to buy out the remaining shareholders.
+
+NewField IT is a wholly owned subsidiary of Xerox that implements and supports third party software for MPS providers.
+
+Xerox now sponsors the Factory Ducati Team in the World Superbike Championship, under the name of the "Xerox Ducati".
+
+6. Rank Xerox
+
+European operations, Rank Xerox, later extended to Asia and Africa, has been fully owned by Xerox Corporation since 1997. The Rank Xerox name was discontinued following the buyout, and the Rank Xerox Research Centre was renamed to the Xerox Research Centre Europe.
+
+7. Accounting irregularities
+
+On May 31, 2001, Xerox Corporation announced that its auditors, KPMG LLP, had certified Xerox's financial statements for the three years ended December 31, 2000. And the financials included some restatements. On March 31, 2002, Xerox restated its financials which reflected the reallocation of equipment sales revenue of more than $2 billion. On April 11, 2002, the U.S. Securities and Exchange Commission filed a complaint against Xerox. The complaint alleged Xerox deceived the public between 1997 and 2000 by employing several "accounting maneuvers," the most significant of which was a change in which Xerox recorded revenue from copy machine leases – recognizing a "sale" when a lease contract was signed, instead of recognizing revenue over the entire length of the contract. At issue was when the revenue was recognized, not the validity of the revenue. Xerox's restatement only changed what year the revenue was recognized. On December 20, 2002, Xerox Corporation reported that it had discovered an error in the calculation of its non-cash interest expense related to a debt instrument and associated interest rate swap agreements, resulted in after-tax understatement of interest expense of approximately $5 million to $6 million or less than 1 cent per share in each of the four quarters of 2001 and for the first three quarters of 2002.
+
+In response to the SEC's complaint, Xerox Corporation neither admitted nor denied wrongdoing. It agreed to pay a $10 million penalty and to restate its financial results for the years 1997 through 2000. On June 5, 2003, six Xerox senior executives accused of securities fraud settled their issues with the SEC and neither admitted nor denied wrongdoing. They agreed to pay $22 million in penalties, disgorgement, and interest. The company received approval to settle the securities lawsuit in 2008.
+
+On January 29, 2003, the SEC filed a complaint against Xerox's auditors, KPMG, alleging four partners in the "Big Five" accounting firm permitted Xerox to "cook the books" to fill a $3 billion "gap" in revenue and $1.4 billion "gap" in pre-tax earnings. In April 2005 KPMG settled with the SEC by paying a US$22.48 million fine. Meanwhile, Xerox paid a civil penalty of $10 million. As part of the settlement KPMG neither admits nor denies wrongdoings. During settlement with the Securities and Exchange Commission, Xerox began to revamp itself once more. As a symbol of this transformation, the relative size of the word "Xerox" was increased in proportion to "The Document Company" on the corporate signature and the latter was dropped altogether in September-2004, along with the digital X. However, the digital X and "The Document Company" were still used by Fuji Xerox until April-2008.
+
+8. Trademark
+
+The word "xerox" is used as a synonym for "photocopy" (both as a noun and a verb) in many areas; for example,"I xeroxed the document and placed it on your desk." or "Please make a xeroxed copy of the articles and hand them out a week before the exam". Though both are common, the company does not condone such uses of its trademark, and is particularly concerned about the ongoing use of Xerox as a verb as this places the trademark in danger of being declared a generic word by the courts. The company is engaged in an ongoing advertising and media campaign to convince the public that Xerox should not be used as a verb.
+
+To this end, the company has written to publications that have used Xerox as a verb, and has also purchased print advertisements declaring that "you cannot 'xerox' a document, but you can copy it on a Xerox Brand copying machine". Xerox Corporation continues to protect its trademark in most if not all trademark categories. Despite their efforts, many dictionaries continue to include the use of "xerox" as a verb, including the Oxford English Dictionary.
+
+9. See also
+
+10. Notes
+
+11. References
+
+David Owen, Copies in Seconds: How a Lone Inventor and an Unknown Company Created the Biggest Communication Breakthrough Since Gutenberg—Chester Carlson and the Birth of the Xerox Machine, Simon & Schuster, 2004, ISBN 978-0-7432-5117-4.
+
+Charles D. Ellis, Joe Wilson and the Creation of Xerox, Wiley, 2006, ISBN 978-0-471-99835-8.
+
+12. External links

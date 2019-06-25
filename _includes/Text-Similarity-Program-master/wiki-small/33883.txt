@@ -1,0 +1,115 @@
+Wade–Giles (), sometimes abbreviated Wade, is a romanization system for Mandarin Chinese. It developed from a system produced by Thomas Wade, during the mid-19th century, and was given completed form with Herbert Giles's Chinese–English Dictionary of 1892.
+
+Wade–Giles was the general system of transcription in the English-speaking world for most of the 20th century, used in several standard reference books and in all books about China published in western countries before 1979. It replaced the Nanjing-based romanization systems that had been common until late in the 19th century. It has been entirely replaced by the pinyin system (developed by the Chinese government and approved during 1958) in mainland China. Outside mainland China, it has mostly been replaced by pinyin but remains common in history books, particularly those before the late 20th century. Additionally, its usage can still be seen in the common English names of certain individuals and locations such as Chiang Ching-kuo or Taipei.
+
+1. History
+
+Wade–Giles was developed by Thomas Francis Wade, a scholar of Chinese and a British ambassador in China who was the first professor of Chinese at Cambridge University. Wade published in 1867 the first textbook on the Beijing dialect of Mandarin in English, the Yü-yen tzu-erh chi (), which became the basis for the Romanization system later known as Wade–Giles. The system, designed to transcribe Chinese terms for Chinese specialists, was further refined in 1912 by Herbert Allen Giles, a British diplomat in China and his son, Lionel Giles, a curator at the British Museum.
+
+Taiwan has used Wade–Giles for decades as the de facto standard, co-existing with several official but obscure romanizations in succession, namely, Gwoyeu Romatzyh (1928), Mandarin Phonetic Symbols II (1986), and Tongyong pinyin (2000). With the election of the Nationalist government in 2008, Taiwan has officially switched to Hanyu pinyin. However, many signs and maps in Taiwan are still in Wade–Giles, and many Taiwanese, both native and overseas, use or transcribe their legal names in the Wade–Giles system.
+
+Wade–Giles spellings and pinyin spellings for Taiwanese place names and words long accepted in English usage are still used interchangeably in English-language texts.
+
+2. Initials and finals
+
+The tables below show the Wade–Giles representation of each Chinese sound (in bold type), together with the corresponding IPA phonetic symbol (in square brackets), and equivalent representations in zhuyin fuhao and hanyu pinyin.
+
+2.1. Initials
+
+For variant representations (ts, ts', ss, tz, tz', sz) used before the "empty rime", see the Empty rime section, below.
+
+2.2. Finals
+
+The following is based on the phonological system shown in the table under Standard Chinese phonology → Alternative analyses.
+
+3. System features
+
+3.1. Consonants and initial symbols
+
+A feature of the Wade–Giles system is the representation of the unaspirated-aspirated stop consonant pairs using apostrophes: p, p, t, t, k, k, ch, ch. The use of apostrophes preserves b, d, g, and j for the romanization of Chinese languages containing voiced consonants, such as Shanghainese (which has a full set of voiced consonants) and Min Nan (Hō-ló-oē) whose century-old Pe̍h-ōe-jī (POJ, often called Missionary Romanization) is similar to Wade–Giles. POJ, Legge romanization, Simplified Wade, and EFEO Chinese transcription use the letter h instead of an apostrophe to indicate aspiration (this is similar to the superscript used in IPA). The convention of the apostrophe or "h" to denote aspiration is also found in romanizations of other Asian languages, such as McCune–Reischauer for Korean and ISO 11940 for Thai.
+
+People unfamiliar with Wade–Giles often ignore the apostrophes, even so far as leaving them out when copying texts, unaware that they represent vital information. Hanyu Pinyin addresses this issue by employing the Latin letters customarily used for voiced stops, unneeded in Mandarin, to represent the unaspirated stops: b, p, d, t, g, k, j, q, zh, ch.
+
+Partly because of the popular omission of the apostrophe, the four sounds represented in Hanyu pinyin by j, q, zh, and ch all become ch in many literature and personal names. However, were the diacritics to be kept, the system reveals a symmetry that leaves no overlap:
+
+The non-retroflex ch (Pinyin j) and ch (pinyin q) are always before either i or ü.
+
+The retroflex ch (Pinyin zh) and ch (pinyin ch) are always before a, e, ih, o, or u.
+
+3.2. Vowels and final symbols
+
+3.2.1. Empty rime
+
+Wade–Giles shows precisions not found in other major Romanizations in regard to the rendering of the two types of empty rimes ():
+
+-u (formerly û) after the sibilants written in this position as tz (ts), tz (ts) and sz (ss) (pinyin z, c and s).
+
+-ih after the retroflex ch, ch, sh, and j (pinyin zh, ch, sh, and r). These empty rimes are all written as -i in Hanyu pinyin (hence distinguishable only by context from true i as in li), and as -ih in Tongyong pinyin. Zhuyin (Bopomofo) does not require the representation of any empty rime.
+
+3.2.2. Vowel o
+
+Final o in Wade–Giles has two pronunciations in modern Mandarin: [u̯ɔ] and [ɤ]. What is pronounced today as a close-mid back unrounded vowel is written usually as ê as in pinyin, but sometimes as o, depending on historical pronunciation (at the time Wade-Giles was developed). Notably, after velar initials k-, k'- and h- (and a historical ng-, which has been dropped by the time Wade-Giles was developed), o is used for characters like "哥" (Wade-Giles ko, pinyin ge), though ê also exists after velars, like in "刻" (Wade-Giles k'ê, pinyin ke). Ê is used in other environments. By modern Mandarin, -o after velars (and what used to be ng-) have shifted to -ê, thus they are written as ge, ke, he and e in pinyin.
+
+What is pronounced today as -uo is virtually always written as -o in Wade–Giles, except for characters like "說" (pronounced shuo even back at the time Wade-Giles was developed) and the three syllables of kuo, kuo, and huo (as in 過, 霍, etc.), which contrasted with ko, ko, and ho that correspond to pinyin ge, ke, and he. This is because characters like 羅, 多, etc. (Wade-Giles: lo, to; pinyin: luo, duo) did not originally carry the medial -u-. By modern Mandarin, the phonemic distinction between -o and -uo has been lost (except in interjections when used alone), and the medial -u- is added in front of -o, creating the modern -uo.
+
+3.3. Tones
+
+Tones are indicated in Wade–Giles using superscript numbers (1–4) placed after the syllable; the neutral tone is denoted either by the super-script number '5' or '0' or, sometimes, by the absence of tone number. This contrasts with the use of diacritics to represent the tones in pinyin. For example, the pinyin qiàn (fourth tone) has the Wade–Giles equivalent ch'ien4. The tone numbers are generally omitted except in textbooks.
+
+3.4. Punctuation
+
+Wade–Giles uses hyphens to separate all syllables within a word (whereas pinyin separates syllables only in ambiguous cases, using apostrophes, as in Xi'an).
+
+If a syllable is not the first in a word, its first letter is not capitalized, even if it is part of a proper noun. The use of apostrophes, hyphens, and capitalization is frequently not observed in place names and personal names. For example, the majority of overseas Taiwanese write their given names like "Tai Lun" or "Tai-Lun", whereas the Wade–Giles is actually "Tai-lun". (See also Chinese name.)
+
+For the apostrophes used in Wade–Giles to denote aspirated consonants, Giles's original dictionary used left apostrophes (‘) consistently. This orientation was followed in Sinological works until the 1950s or 60s, when it started to be gradually replaced by right apostrophes (’) in academic literature. Online publications almost invariably use the plain apostrophe ('). Apostrophes are not included in Taiwanese passports, and are absent in overseas Chinese names.
+
+4. Comparison with other systems
+
+4.1. Pinyin
+
+Wade–Giles chose the French-like j to represent a Northerner's pronunciation of what is represented as r in Pinyin.
+
+Ü always has a trema (diaeresis) above, while pinyin only employs it in the cases of nü, lü, nüe and lüe, while leaving it out in -ue, ju-, qu-, xu-, -uan and yu- as a simplification because u cannot otherwise appear in those positions. Because yü (as in 玉 "jade") must have a diaeresis in Wade, the diaeresis-less yu in Wade–Giles is freed up for what corresponds to you (有) in Pinyin.
+
+The pinyin vowel cluster ong is ung in Wade–Giles. (Compare Kung Fu to Gong Fu as an example.)
+
+After a consonant, both the Wade–Giles and Pinyin vowel cluster uei is written ui. Furthermore, both Romanizations use iu and un instead of the complete syllables: iou and uen.
+
+Single i is never preceded by y, as in pinyin. The only exception is in placenames, which are hyphenless, so without a y, syllable ambiguity could arise.
+
+The isolated syllable eh is written as ê, like in pinyin. (Schwa is occasionally written as ê as well.) But unlike Pinyin, which uses -e if there is a consonant preceding the sound, Wade–Giles uses -eh. (See circumflex)
+
+In addition to being the schwa, ê also represents the pinyin er as êrh.
+
+4.2. Chart
+
+Note: In Hanyu pinyin the so-called fifth accent (neutral accent) is written leaving the syllable with no diacritic mark at all. In Tongyong Pinyin a ring is written over the vowel instead.
+
+5. Influences
+
+Chinese Postal Map Romanization is based on Wade–Giles, but incorporating a number of exceptions that override the systematic rules.
+
+6. See also
+
+Wade–Giles table
+
+Simplified Wade
+
+Legge romanization
+
+Cyrillization of Chinese
+
+Daoism–Taoism romanization issue
+
+7. References
+
+8. External links
+
+– Convert between Hanyu Pinyin, Wade–Giles, Gwoyeu Romatzyh and other known or (un-)common Romanization systems.
+
+– Support Simplified and Traditional Chinese; Support most popular Pinyin systems, including Hanyu Pinyin, Tongyong Pinyin, Wade–Giles, MPS2, Yale and Gwoyeu Romatzyh; Support multiple pronunciations of a single character; Support customized output, such as ü or tone marks.
+
+– Converts between Wade–Giles and other formats
+
+– Wade–Giles pronunciation and English definitions for Chinese text snippets or web pages.

@@ -1,0 +1,101 @@
+Maxwell Herman Alexander "Max" Newman, FRS (7 February 1897 舑 22 February 1984) was a British mathematician and codebreaker. His work in World War II led to the construction of Colossus, the first operational electronic computer, and he established the Royal Society Computing Machine Laboratory at the University of Manchester which produced the first working stored program electronic computer in 1948, the Manchester Small-Scale Experimental Machine.
+
+1. Education and early life
+
+Max Newman was born Maxwell Neumann in Chelsea, London, England, on 7 February 1897. His father was Herman Alexander Neumann, originally from the German city of Bromberg (now in Poland) who had emigrated with his family to London at the age of 15. Herman worked as a secretary in a company, and married Sarah Ann (Pike), an English schoolteacher, in 1896.
+
+The family moved to Dulwich in 1903, and Newman attended Goodrich Road school, then City of London School from 1908. At school, he excelled in classics and in mathematics. He played chess and the piano well.
+
+Newman won a scholarship to study mathematics at St John's College, Cambridge in 1915, and in 1916 gained a first in part I of the Cambridge Mathematical Tripos.
+
+2. World War I
+
+His studies were postponed by World War I. His father was interned as an enemy alien after the start of the war in 1914, and upon his release he returned to Germany. In 1916, Newman changed his name by deed poll to the anglicised "Newman" and Sarah did likewise in 1920. In January 1917 Newman took up a teaching post at Archbishop Holgate's Grammar School in York, leaving in April 1918. He spent some months in the Royal Army Pay Corps, and then taught at Chigwell School for six months in 1919 before returning to Cambridge. He was called up for military service in February 1918, but claimed conscientious objection due to his beliefs and his father's country of origin, and thereby avoided any direct role in the fighting.
+
+3. Between the wars
+
+3.1. Graduation
+
+He resumed his interrupted studies in October 1919, and graduated in 1921 as a wrangler (equivalent to a first) in Part II of the Mathematical Tripos, and gained distinction in Schedule B (the equivalent of Part III). His dissertation considered the use of 'symbolic machines' in physics, foreshadowing his later interest in computing machines.
+
+3.2. Early academic career
+
+On 5 November 1923 he was elected a Fellow of St John's. He worked on the foundations of combinatorial topology, and proposed that a notion of equivalence be defined using only three elementary "moves". Newman's definition avoided difficulties that had arisen from previous definitions of the concept. Publishing over twenty papers established his reputation as an "expert in modern topology". Newman wrote Elements of the topology of plane sets of points, a definitive work on general topology, and still highly recommended as an undergraduate text. He also published papers on mathematical logic, and solved a special case of Hilbert's fifth problem.
+
+He was appointed a lecturer in mathematics at Cambridge in 1927, where his 1935 lectures on the Foundations of Mathematics and Gödel's Theorem inspired Alan Turing to embark on his pioneering work on the Entscheidungsproblem (decision problem) using a hypothetical computing machine. In spring 1936, Newman was presented by Turing with a draft of "On Computable Numbers with an Application to the Entscheidungsproblem". He realised the paper's importance and helped ensure swift publication. Newman subsequently arranged for Turing to visit Princeton where Alonzo Church was working on the same problem but using his Lambda calculus. During this period, Newman started to share Turing's dream of building a stored-program computing machine.
+
+During this time at Cambridge, he developed close friendships with Patrick Blackett, Henry Whitehead and Lionel Penrose.
+
+In September 1937, Newman and his family accepted an invitation to work for six months at Princeton. At Princeton, he worked on the Poincaré Conjecture and, in his final weeks there, presented a proof. However, in July 1938, after he returned to Cambridge, Newman discovered that his proof was fatally flawed.
+
+In 1939, Newman was elected a Fellow of the Royal Society.
+
+3.3. Family life
+
+In December 1934 he married Lyn Lloyd Irvine, a writer, with Patrick Blackett as best man. They had two sons, Edward (born 1935) and William (born 1939).
+
+4. World War II
+
+The United Kingdom declared war on Germany on 3 September 1939. Newman's father was Jewish, which was of particular concern in the face of Nazi Germany, and Lyn, Edward and William were evacuated to America in July 1940 (where they spent three years before returning to England in October 1943). After Oswald Veblen — maintaining 'that every able-bodied man ought to be carrying a gun or hand-grenade and fight for his country' — opposed moves to bring him to Princeton, Newman remained at Cambridge and at first continued research and lecturing.
+
+4.1. Government Code & Cypher School
+
+By spring 1942, he was considering involvement in war work. He made enquiries. After Patrick Blackett recommended him to the Director of Naval Intelligence, Newman was sounded out by Frank Adcock in connection with the Government Code & Cypher School at Bletchley Park.
+
+Newman was cautious, concerned to ensure that the work would be sufficiently interesting and useful, and there was also the possibility that his father's German nationality would rule out any involvement in top-secret work. The potential issues were resolved by the summer, and he agreed to arrive at Bletchley Park on 31 August 1942. Newman was invited by F. L. (Peter) Lucas to work on Enigma but decided to join Tiltman's group working on Tunny.
+
+4.2. Tunny
+
+He was assigned to the Research Section and set to work on a German teleprinter cipher known as "Tunny". He joined the "Testery" in October. Newman enjoyed the company but disliked the work and found that it was not suited to his talents. He persuaded his superiors that Tutte's method could be mechanised, and he was assigned to develop a suitable machine in December 1942. Shortly afterwards, Edward Travis (then operational head of Bletchley Park) asked Newman to lead research into mechanised codebreaking.
+
+4.3. The Newmanry
+
+When the war ended, Newman was presented with a silver tankard inscribed 'To MHAN from the Newmanry, 1943-45'.
+
+4.3.1. Heath Robinson
+
+Construction started in January 1943, and the first prototype was delivered in June 1943. It was operated in Newman's new section, termed the "Newmanry", was housed initially in Hut 11 and initially staffed by himself, Donald Michie, two engineers, and 16 Wrens. The Wrens nicknamed the machine the "Heath Robinson", after the cartoonist of the same name who drew humorous drawings of absurd mechanical devices.
+
+4.3.2. Colossus
+
+The Robinson machines were limited in speed and reliability. Tommy Flowers of the Post Office Research Station, Dollis Hill had experience of thermionic valves and built an electronic machine, the Colossus computer which was installed in the Newmanry. This was a great success and ten were in use by the end of the war.
+
+5. Later academic career
+
+5.1. Fielden Chair, Victoria University of Manchester
+
+In September 1945, Newman was appointed head of the Mathematics Department and to the Fielden Chair of Pure Mathematics at the University of Manchester.
+
+5.1.1. Computing Machine Laboratory
+
+Newman lost no time in establishing the renowned Royal Society Computing Machine Laboratory at the University. In February 1946, he wrote to John von Neumann, expressing his desire to build a computing machine. The Royal Society approved Newman's grant application in July 1946. Frederic Calland Williams and Thomas Kilburn, experts in electronic circuit design, were recruited from the Telecommunications Research Establishment. Kilburn and Williams built Baby, the world's first electronic stored-program digital computer based on Alan Turing's ideas.
+
+After the Automatic Computing Engine suffered delays and set backs, Turing accepted Newman's offer and joined the Computer Machine Laboratory in May 1948 as Deputy Director (there being no Director). Turing joined Kilburn and Williams to work on Baby's successor, the Manchester Mark I. Collaboration between the University and Ferranti later produced the Ferranti Mark I, the first mass-produced computer to go on sale.
+
+5.2. Retirement
+
+Newman retired in 1964 to live in Comberton, near Cambridge. After Lyn's death in 1973 he married Margaret Penrose, widow of his friend Lionel Penrose.
+
+He continued to do research on combinatorial topology during a period when England was a major centre of activity notably Cambridge under the leadership of Christopher Zeeman. Newman made important contributions leading to an invitation to present his work at the 1962 International Congress of Mathematicians in Stockholm at the age of 65, and proved a Generalized Poincaré conjecture for topological manifolds in 1966.
+
+At the age of 85, Newman began to suffer from Alzheimer's disease. He died in Cambridge two years later.
+
+6. Honours
+
+Fellow of the Royal Society, Elected 1939
+
+Royal Society Sylvester Medal, Awarded 1958
+
+London Mathematical Society, President 1949 - 1951
+
+LMS De Morgan Medal, Awarded 1962
+
+D.Sc. University of Hull, Awarded 1968 The Newman Building at Manchester was named in his honour. The building housed the pure mathematicians from the Victoria University of Manchester between moving out of the Mathematics Tower in 2004 and July 2007 when the School of Mathematics moved into its new Alan Turing Building, where a lecture room is named in his honour.
+
+In 1946 Newman declined the offer of an OBE as he considered the offer derisory. Alan Turing had been awarded an OBE six months earlier and Newman felt that it was inadequate recognition of Turing's contribution to winning the war, referring to it as the "ludicrous treatment of Turing".
+
+7. References
+
+8. Archival materials
+
+has digital copies of materials from the library of St. John's College, Cambridge.

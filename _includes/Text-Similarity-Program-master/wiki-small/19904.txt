@@ -1,0 +1,167 @@
+Meteorology is the interdisciplinary scientific study of the atmosphere. Studies in the field stretch back millennia, though significant progress in meteorology did not occur until the 18th century. The 19th century saw modest progress in the field after observing networks formed across several countries. It wasn't until after the development of the computer in the latter half of the 20th century that significant breakthroughs in weather forecasting were achieved.
+
+Meteorological phenomena are observable weather events which illuminate, and are explained by the science of meteorology. Those events are bound by the variables that exist in Earth's atmosphere; temperature, air pressure, water vapor, and the gradients and interactions of each variable, and how they change in time. Different spatial scales are studied to determine how systems on local, regional, and global levels impact weather and climatology.
+
+Meteorology, climatology, atmospheric physics, and atmospheric chemistry are sub-disciplines of geography and the atmospheric sciences. Meteorology and hydrology compose the interdisciplinary field of hydrometeorology. Interactions between Earth's atmosphere and the oceans are part of coupled ocean-atmosphere studies. Meteorology has application in many diverse fields such as the military, energy production, transport, agriculture and construction.
+
+The word "meteorology" is from Greek metéōros "lofty; high (in the sky)" (from meta- "above" and aeiro "I lift up") and -logia "-(o)logy".
+
+1. History
+
+The beginnings of meteorology can be traced back to ancient India, as the Upanishads contain serious discussion about the processes of cloud formation and rain and the seasonal cycles caused by the movement of earth around the sun. Varāhamihira's classical work Brihatsamhita, written about 500 AD, provides clear evidence that a deep knowledge of atmospheric processes existed even in those times.
+
+In 350 BC, Aristotle wrote Meteorology. Aristotle is considered the founder of meteorology. One of the most impressive achievements described in the Meteorology is the description of what is now known as the hydrologic cycle. The Greek scientist Theophrastus compiled a book on weather forecasting, called the Book of Signs. The work of Theophrastus remained a dominant influence in the study of weather and in weather forecasting for nearly 2,000 years. In 25 AD, Pomponius Mela, a geographer for the Roman Empire, formalized the climatic zone system. According to Toufic Fahd, around the 9th century, Al-Dinawari wrote the Kitab al-Nabat (Book of Plants), in which he deals with the application of meteorology to agriculture during the Muslim Agricultural Revolution. He describes the meteorological character of the sky, the planets and constellations, the sun and moon, the lunar phases indicating seasons and rain, the anwa (heavenly bodies of rain), and atmospheric phenomena such as winds, thunder, lightning, snow, floods, valleys, rivers, lakes.
+
+1.1. Research of visual atmospheric phenomena
+
+Ptolemy wrote on the atmospheric refraction of light in the context of astronomical observations. In 1021, Alhazen showed that atmospheric refraction is also responsible for twilight; he estimated that twilight begins when the sun is 19 degrees below the horizon, and also used a geometric determination based on this to estimate the maximum possible height of the earth's atmosphere as 52,000 passuum (about 49 miles, or 79 km).
+
+St. Albert the Great was the first to propose that each drop of falling rain had the form of a small sphere, and that this form meant that the rainbow was produced by light interacting with each raindrop. Roger Bacon was the first to calculate the angular size of the rainbow. He stated that the rainbow summit can not appear higher than 42 degrees above the horizon. In the late 13th century and early 14th century, Kamāl al-Dīn al-Fārisī and Theodoric of Freiberg were the first to give the correct explanations for the primary rainbow phenomenon. Theoderic went further and also explained the secondary rainbow. In 1716, Edmund Halley suggested that aurorae are caused by "magnetic effluvia" moving along the Earth's magnetic field lines.
+
+1.2. Instruments and classification scales
+
+In 1441, King Sejong's son, Prince Munjong, invented the first standardized rain gauge. These were sent throughout the Joseon Dynasty of Korea as an official tool to assess land taxes based upon a farmer's potential harvest. In 1450, Leone Battista Alberti developed a swinging-plate anemometer, and was known as the first anemometer. In 1607, Galileo Galilei constructed a thermoscope. In 1611, Johannes Kepler wrote the first scientific treatise on snow crystals: "Strena Seu de Nive Sexangula (A New Year's Gift of Hexagonal Snow)". In 1643, Evangelista Torricelli invented the mercury barometer. In 1662, Sir Christopher Wren invented the mechanical, self-emptying, tipping bucket rain gauge. In 1714, Gabriel Fahrenheit created a reliable scale for measuring temperature with a mercury-type thermometer. In 1742, Anders Celsius, a Swedish astronomer, proposed the "centigrade" temperature scale, the predecessor of the current Celsius scale. In 1783, the first hair hygrometer was demonstrated by Horace-Bénédict de Saussure. In 1802–1803, Luke Howard wrote On the Modification of Clouds in which he assigns cloud types Latin names. In 1806, Francis Beaufort introduced his system for classifying wind speeds. Near the end of the 19th century the first cloud atlases were published, including the International Cloud Atlas, which has remained in print ever since. The April 1960 launch of the first successful weather satellite, TIROS-1, marked the beginning of the age where weather information became available globally.
+
+1.3. Atmospheric composition research
+
+In 1648, Blaise Pascal rediscovered that atmospheric pressure decreases with height, and deduced that there is a vacuum above the atmosphere. In 1738, Daniel Bernoulli published Hydrodynamics, initiating the kinetic theory of gases and established the basic laws for the theory of gases. In 1761, Joseph Black discovered that ice absorbs heat without changing its temperature when melting. In 1772, Black's student Daniel Rutherford discovered nitrogen, which he called phlogisticated air, and together they developed the phlogiston theory. In 1777, Antoine Lavoisier discovered oxygen and developed an explanation for combustion. In 1783, in Lavoisier's book Reflexions sur le phlogistique, he deprecates the phlogiston theory and proposes a caloric theory. In 1804, Sir John Leslie observed that a matte black surface radiates heat more effectively than a polished surface, suggesting the importance of black body radiation. In 1808, John Dalton defended caloric theory in A New System of Chemistry and described how it combines with matter, especially gases; he proposed that the heat capacity of gases varies inversely with atomic weight. In 1824, Sadi Carnot analyzed the efficiency of steam engines using caloric theory; he developed the notion of a reversible process and, in postulating that no such thing exists in nature, laid the foundation for the second law of thermodynamics.
+
+1.4. Research into cyclones and air flow
+
+In 1494, Christopher Columbus experienced a tropical cyclone, which led to the first written European account of a hurricane. In 1686, Edmund Halley presented a systematic study of the trade winds and monsoons and identified solar heating as the cause of atmospheric motions. In 1735, an ideal explanation of global circulation through study of the trade winds was written by George Hadley. In 1743, when Benjamin Franklin was prevented from seeing a lunar eclipse by a hurricane, he decided that cyclones move in a contrary manner to the winds at their periphery. Understanding the kinematics of how exactly the rotation of the earth affects airflow was partial at first. Gaspard-Gustave Coriolis published a paper in 1835 on the energy yield of machines with rotating parts, such as waterwheels. In 1856, William Ferrel proposed the existence of a circulation cell in the mid-latitudes, with air being deflected by the Coriolis force to create the prevailing westerly winds. Late in the 19th century, the full extent of the large-scale interaction of pressure gradient force and deflecting force that in the end causes air masses to move along isobars was understood. By 1912, this deflecting force was named the Coriolis effect. Just after World War I, a group of meteorologists in Norway led by Vilhelm Bjerknes developed the Norwegian cyclone model that explains the generation, intensification and ultimate decay (the life cycle) of mid-latitude cyclones, introducing the idea of fronts, that is, sharply defined boundaries between air masses. The group included Carl-Gustaf Rossby (who was the first to explain the large scale atmospheric flow in terms of fluid dynamics), Tor Bergeron (who first determined the mechanism by which rain forms) and Jacob Bjerknes.
+
+1.5. Observation networks and weather forecasting
+
+In 1654, Ferdinando II de Medici established the first weather observing network, that consisted of meteorological stations in Florence, Cutigliano, Vallombrosa, Bologna, Parma, Milan, Innsbruck, Osnabrück, Paris and Warsaw. Collected data were centrally sent to Florence at regular time intervals. In 1832, an electromagnetic telegraph was created by Baron Schilling. The arrival of the electrical telegraph in 1837 afforded, for the first time, a practical method for quickly gathering surface weather observations from a wide area. This data could be used to produce maps of the state of the atmosphere for a region near the earth's surface and to study how these states evolved through time. To make frequent weather forecasts based on these data required a reliable network of observations, but it was not until 1849 that the Smithsonian Institution began to establish an observation network across the United States under the leadership of Joseph Henry. Similar observation networks were established in Europe at this time. In 1854, the United Kingdom government appointed Robert FitzRoy to the new office of Meteorological Statist to the Board of Trade with the role of gathering weather observations at sea. FitzRoy's office became the United Kingdom Meteorological Office in 1854, the first national meteorological service in the world. The first daily weather forecasts made by FitzRoy's Office were published in The Times newspaper in 1860. The following year a system was introduced of hoisting storm warning cones at principal ports when a gale was expected.
+
+Over the next 50 years many countries established national meteorological services. The India Meteorological Department (1875) was established following tropical cyclone and monsoon related famines in the previous decades. The Finnish Meteorological Central Office (1881) was formed from part of Magnetic Observatory of Helsinki University. Japan's Tokyo Meteorological Observatory, the forerunner of the Japan Meteorological Agency, began constructing surface weather maps in 1883. The United States Weather Bureau (1890) was established under the United States Department of Agriculture. The Australian Bureau of Meteorology (1906) was established by a Meteorology Act to unify existing state meteorological services.
+
+1.6. Numerical weather prediction
+
+In 1904, Norwegian scientist Vilhelm Bjerknes first argued in his paper Weather Forecasting as a Problem in Mechanics and Physics that it should be possible to forecast weather from calculations based upon natural laws.
+
+It was not until later in the 20th century that advances in the understanding of atmospheric physics led to the foundation of modern numerical weather prediction. In 1922, Lewis Fry Richardson published "Weather Prediction By Numerical Process", after finding notes and derivations he worked on as an ambulance driver in World War I. He described therein how small terms in the prognostic fluid dynamics equations governing atmospheric flow could be neglected, and a finite differencing scheme in time and space could be devised, to allow numerical prediction solutions to be found. Richardson envisioned a large auditorium of thousands of people performing the calculations and passing them to others. However, the sheer number of calculations required was too large to be completed without the use of computers, and the size of the grid and time steps led to unrealistic results in deepening systems. It was later found, through numerical analysis, that this was due to numerical instability.
+
+Starting in the 1950s, numerical forecasts with computers became feasible. The first weather forecasts derived this way used barotropic (single-vertical-level) models, and could successfully predict the large-scale movement of midlatitude Rossby waves, that is, the pattern of atmospheric lows and highs.
+
+In the 1960s, the chaotic nature of the atmosphere was first observed and mathematically described by Edward Lorenz, founding the field of chaos theory. These advances have led to the current use of ensemble forecasting in most major forecasting centers, to take into account uncertainty arising from the chaotic nature of the atmosphere. Climate models have been developed that feature a resolution comparable to older weather prediction models. These climate models are used to investigate long-term climate shifts, such as what effects might be caused by human emission of greenhouse gases.
+
+2. Meteorologists
+
+Meteorologists are scientists who study meteorology. The American Meteorological Society published and continually updates an authoritative electronic . Meteorologists work in government agencies, private consulting and research services, industrial enterprises, utilities, radio and television stations, and in education. In the United States, meteorologists held about 9,400 jobs in 2009.
+
+Meteorologists are best known for forecasting the weather. Many radio and television weather forecasters are professional meteorologists, while others are reporters (weather specialist, weatherman, etc.) with no formal meteorological training. The American Meteorological Society and National Weather Association issue "Seals of Approval" to weather broadcasters who meet certain requirements.
+
+3. Equipment
+
+Each science has its own unique sets of laboratory equipment. In the atmosphere, there are many things or qualities of the atmosphere that can be measured. Rain, which can be observed, or seen anywhere and anytime was one of the first ones to be measured historically. Also, two other accurately measured qualities are wind and humidity. Neither of these can be seen but can be felt. The devices to measure these three sprang up in the mid-15th century and were respectively the rain gauge, the anemometer, and the hygrometer. Many attempts had been made prior to the 15th century to construct adequate equipment to measure the many atmospheric variables. Many were faulty in some way or were simply not reliable. Even Aristotle noted this in some of his work; as the difficulty to measure the air.
+
+Sets of surface measurements are important data to meteorologists. They give a snapshot of a variety of weather conditions at one single location and are usually at a weather station, a ship or a weather buoy. The measurements taken at a weather station can include any number of atmospheric observables. Usually, temperature, pressure, wind measurements, and humidity are the variables that are measured by a thermometer, barometer, anemometer, and hygrometer, respectively. Upper air data are of crucial importance for weather forecasting. The most widely used technique is launches of radiosondes. Supplementing the radiosondes a network of aircraft collection is organized by the World Meteorological Organization.
+
+Remote sensing, as used in meteorology, is the concept of collecting data from remote weather events and subsequently producing weather information. The common types of remote sensing are Radar, Lidar, and satellites (or photogrammetry). Each collects data about the atmosphere from a remote location and, usually, stores the data where the instrument is located. Radar and Lidar are not passive because both use EM radiation to illuminate a specific portion of the atmosphere. Weather satellites along with more general-purpose Earth-observing satellites circling the earth at various altitudes have become an indispensable tool for studying a wide range of phenomena from forest fires to El Niño.
+
+4. Spatial scales
+
+In the study of the atmosphere, meteorology can be divided into distinct areas of emphasis depending on the temporal scope and spatial scope of interest. At one extreme of this scale is climatology. In the timescales of hours to days, meteorology separates into micro-, meso-, and synoptic scale meteorology. Respectively, the geospatial size of each of these three scales relates directly with the appropriate timescale.
+
+Other subclassifications are available based on the need by or by the unique, local or broad effects that are studied within that sub-class.
+
+4.1. Microscale
+
+Microscale meteorology is the study of atmospheric phenomena of about 1 km or less. Individual thunderstorms, clouds, and local turbulence caused by buildings and other obstacles, such as individual hills fall within this category.
+
+4.2. Mesoscale
+
+Mesoscale meteorology is the study of atmospheric phenomena that has horizontal scales ranging from microscale limits to synoptic scale limits and a vertical scale that starts at the Earth's surface and includes the atmospheric boundary layer, troposphere, tropopause, and the lower section of the stratosphere. Mesoscale timescales last from less than a day to the lifetime of the event, which in some cases can be weeks. The events typically of interest are thunderstorms, squall lines, fronts, precipitation bands in tropical and extratropical cyclones, and topographically generated weather systems such as mountain waves and sea and land breezes.
+
+4.3. Synoptic scale
+
+Synoptic scale meteorology is generally large area dynamics referred to in horizontal coordinates and with respect to time. The phenomena typically described by synoptic meteorology include events like extratropical cyclones, baroclinic troughs and ridges, frontal zones, and to some extent jet streams. All of these are typically given on weather maps for a specific time. The minimum horizontal scale of synoptic phenomena is limited to the spacing between surface observation stations.
+
+4.4. Global scale
+
+Global scale meteorology is study of weather patterns related to the transport of heat from the tropics to the poles. Also, very large scale oscillations are of importance. These oscillations have time periods typically on the order of months, such as the Madden-Julian Oscillation, or years, such as the El Niño-Southern Oscillation and the Pacific decadal oscillation. Global scale pushes the thresholds of the perception of meteorology into climatology. The traditional definition of climate is pushed into larger timescales with the further understanding of how the global oscillations cause both climate and weather disturbances in the synoptic and mesoscale timescales.
+
+Numerical Weather Prediction is a main focus in understanding air–sea interaction, tropical meteorology, atmospheric predictability, and tropospheric/stratospheric processes. The Naval Research Laboratory in Monterey California developed a global atmospheric model called Navy Operational Global Atmospheric Prediction System (NOGAPS). NOGAPS is run operationally at Fleet Numerical Meteorology and Oceanography Center for the United States Military. Many other global atmospheric models are run by national meteorological agencies.
+
+5. Some meteorological principles
+
+5.1. Boundary layer meteorology
+
+Boundary layer meteorology is the study of processes in the air layer directly above earth's surface, known as the atmospheric boundary layer (ABL). The effects of the surface – heating, cooling, and friction – cause turbulent mixing within the air layer. Significant fluxes of heat, matter, or momentum on time scales of less than a day are advected by turbulent motions. Boundary layer meteorology includes the study of all types of surface–atmosphere boundary, including ocean, lake, urban land and non-urban land for the study of meteorology.
+
+5.2. Dynamic meteorology
+
+Dynamic meteorology generally focuses on the fluid dynamics of the atmosphere. The idea of air parcel is used to define the smallest element of the atmosphere, while ignoring the discrete molecular and chemical nature of the atmosphere. An air parcel is defined as a point in the fluid continuum of the atmosphere. The fundamental laws of fluid dynamics, thermodynamics, and motion are used to study the atmosphere. The physical quantities that characterize the state of the atmosphere are temperature, density, pressure, etc. These variables have unique values in the continuum.
+
+6. Applications
+
+6.1. Weather forecasting
+
+Weather forecasting is the application of science and technology to predict the state of the atmosphere for a future time and a given location. Human beings have attempted to predict the weather informally for millennia, and formally since at least the 19th century. Weather forecasts are made by collecting quantitative data about the current state of the atmosphere and using scientific understanding of atmospheric processes to project how the atmosphere will evolve.
+
+Once an all-human endeavor based mainly upon changes in barometric pressure, current weather conditions, and sky condition, forecast models are now used to determine future conditions. Human input is still required to pick the best possible forecast model to base the forecast upon, which involves pattern recognition skills, teleconnections, knowledge of model performance, and knowledge of model biases. The chaotic nature of the atmosphere, the massive computational power required to solve the equations that describe the atmosphere, error involved in measuring the initial conditions, and an incomplete understanding of atmospheric processes mean that forecasts become less accurate as the difference in current time and the time for which the forecast is being made (the range of the forecast) increases. The use of ensembles and model consensus help narrow the error and pick the most likely outcome.
+
+There are a variety of end uses to weather forecasts. Weather warnings are important forecasts because they are used to protect life and property. Forecasts based on temperature and precipitation are important to agriculture, and therefore to commodity traders within stock markets. Temperature forecasts are used by utility companies to estimate demand over coming days. On an everyday basis, people use weather forecasts to determine what to wear on a given day. Since outdoor activities are severely curtailed by heavy rain, snow and the wind chill, forecasts can be used to plan activities around these events, and to plan ahead and survive them.
+
+6.2. Aviation meteorology
+
+Aviation meteorology deals with the impact of weather on air traffic management. It is important for air crews to understand the implications of weather on their flight plan as well as their aircraft, as noted by the Aeronautical Information Manual:
+
+The effects of ice on aircraft are cumulative—thrust is reduced, drag increases, lift lessens, and weight increases. The results are an increase in stall speed and a deterioration of aircraft performance. In extreme cases, 2 to 3 inches of ice can form on the leading edge of the airfoil in less than 5 minutes. It takes but 1/2 inch of ice to reduce the lifting power of some aircraft by 50 percent and increases the frictional drag by an equal percentage.
+
+6.3. Agricultural meteorology
+
+Meteorologists, soil scientists, agricultural hydrologists, and agronomists are persons concerned with studying the effects of weather and climate on plant distribution, crop yield, water-use efficiency, phenology of plant and animal development, and the energy balance of managed and natural ecosystems. Conversely, they are interested in the role of vegetation on climate and weather.
+
+6.4. Hydrometeorology
+
+Hydrometeorology is the branch of meteorology that deals with the hydrologic cycle, the water budget, and the rainfall statistics of storms. A hydrometeorologist prepares and issues forecasts of accumulating (quantitative) precipitation, heavy rain, heavy snow, and highlights areas with the potential for flash flooding. Typically the range of knowledge that is required overlaps with climatology, mesoscale and synoptic meteorology, and other geosciences.
+
+The multidisciplinary nature of the branch can result in technical challenges, since tools and solutions from each of the individual disciplines involved may behave slightly differently, be optimized for different hard- and software platforms and use different data formats. There are some initiatives - such as the DRIHM project - that are trying to address this issue.
+
+6.5. Nuclear meteorology
+
+Nuclear meteorology investigates the distribution of radioactive aerosols and gases in the atmosphere.
+
+6.6. Maritime meteorology
+
+Maritime meteorology deals with air and wave forecasts for ships operating at sea. Organizations such as the Ocean Prediction Center, Honolulu National Weather Service forecast office, United Kingdom Met Office, and JMA prepare high seas forecasts for the world's oceans.
+
+6.7. Military meteorology
+
+Military meteorology is the research and application of meteorology for military purposes. In the United States, the United States Navy's Commander, Naval Meteorology and Oceanography Command oversees meteorological efforts for the Navy and Marine Corps while the United States Air Force's Air Force Weather Agency is responsible for the Air Force and Army.
+
+7. See also
+
+8. References
+
+9. Further reading
+
+Byers, Horace. General Meteorology. New York: McGraw-Hill, 1994.
+
+9.1. Dictionaries and Encylopedias
+
+10. External links
+
+Please see weather forecasting for weather forecast sites.
+
+- Online course that introduces the basic concepts of meteorology and air quality necessary to understand meteorological computer models. Written at a bachelor's degree level.
+
+- (Global Learning and Observations to Benefit the Environment) An international environmental science and education program that links students, teachers, and the scientific research community in an effort to learn more about the environment through student data collection and observation.
+
+- From the American Meteorological Society, an excellent reference of nomenclature, equations, and concepts for the more advanced reader.
+
+- National Weather Service
+
+- Australian Bureau of Meteorology
+
+- Weather Tutorials and News at About.com
+
+- The COMET Program
+
+- National Oceanic & Atmospheric Administration
+
+The University of Illinois at Urbana-Champaign
+
+- United Kingdom Meteorological Office

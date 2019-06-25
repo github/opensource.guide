@@ -1,0 +1,405 @@
+In the philosophy of religion, the problem of evil is the question of how to reconcile the existence of evil with that of a deity who is, in either absolute or relative terms, omnipotent, omniscient, and omnibenevolent (see theism). An argument from evil attempts to show that the co-existence of evil and such a deity is unlikely or impossible if placed in absolute terms. Attempts to show the contrary have traditionally been discussed under the heading of theodicy.
+
+A wide range of responses have been given to the problem of evil in theology. There are also many discussions of evil and associated problems in other philosophical fields, such as secular ethics, and scientific disciplines such as evolutionary ethics. But as usually understood, the "problem of evil" is posed in a theological context.
+
+1. Detailed arguments
+
+Together, John Joseph Haldane's Wittgenstinian-Thomistic account of concept formation and Martin Heidegger's observation of temporality's thrown nature imply that God's act of creation and God's act of judgment are the same act. God's condemnation of evil is subsequently believed to be executed and expressed in his created world; a judgement that is unstoppable due to God's all powerful will; a constant and eternal judgement that becomes announced and communicated to other people on Judgment Day. In this explanation, God's condemnation of evil is declared to be a good judgement.
+
+The above argument is set against numerous versions of the problem of evil that have been formulated. These versions have included philosophical and theological formulations.
+
+1.1. Logical problem of evil
+
+The originator of the logical problem of evil has been cited as the Greek philosopher Epicurus, and this argument may be schematized as follows:
+
+If an omnipotent, omniscient, and omnibenevolent god exists, then evil does not.
+
+There is evil in the world.
+
+Therefore, an omnipotent, omniscient, and omnibenevolent God does not exist. This argument is of the form modus tollens, and is logically valid if its premises are true, the conclusion follows of necessity. However, it is unclear precisely how the existence of an all-powerful and perfectly good God guarantees the non-existence of evil. Also, it is unclear whether the first premise is true. To show that it is plausible, subsequent versions tend to expand on this premise, such as this modern example:
+
+God exists.
+
+God is omnipotent, omniscient, and omnibenevolent.
+
+An omnibenevolent being would want to prevent all evils.
+
+An omniscient being knows every way in which evils can come into existence, and knows every way in which those evils could be prevented.
+
+An omnipotent being has the power to prevent that evil from coming into existence.
+
+A being who knows every way in which an evil can come into existence, who is able to prevent that evil from coming into existence, and who wants to do so, would prevent the existence of that evil.
+
+If there exists an omnipotent, omniscient, and omnibenevolent God, then no evil exists.
+
+Evil exists (logical contradiction). Both of these arguments are understood to be presenting two forms of the logical problem of evil. They attempt to show that the assumed propositions lead to a logical contradiction and therefore cannot all be correct. Most philosophical debate has focused on the propositions stating that God cannot exist with, or would want to prevent, all evils (premises 3 and 6), with defenders of theism (for example, Leibniz) arguing that God could very well exist with and allow evil in order to achieve a greater good.
+
+One greater good that has been proposed is that of free will, famously argued for by Alvin Plantinga in his free will defense. The first part of this defense accounts for moral evil as the result of free human action. The second part of this defense argues for the logical possibility of "a mighty nonhuman spirit" such as Satan who is responsible for so-called "natural evils", including earthquakes, tidal waves, and virulent diseases. Some philosophers accept that Plantinga successfully solves the logical problem of evil, as he appears to have shown that God and evil are logically compatible, though others explicitly dissent.
+
+1.2. Evidential problem of evil
+
+The evidential version of the problem of evil (also referred to as the probabilistic or inductive version), seeks to show that the existence of evil, although logically consistent with the existence of God, counts against or lowers the probability of the truth of theism. As an example, a critic of Plantinga's idea of "a mighty nonhuman spirit" causing natural evils may concede that the existence of such a being is not logically impossible but argue that due to lacking scientific evidence for its existence this is very unlikely and thus it is an unconvincing explanation for the presence of natural evils. Both absolute versions and relative versions of the evidential problems of evil are presented below.
+
+A version by William L. Rowe:
+
+There exist instances of intense suffering which an omnipotent, omniscient being could have prevented without thereby losing some greater good or permitting some evil equally bad or worse.
+
+An omniscient, wholly good being would prevent the occurrence of any intense suffering it could, unless it could not do so without thereby losing some greater good or permitting some evil equally bad or worse.
+
+(Therefore) There does not exist an omnipotent, omniscient, wholly good being. Another by Paul Draper:
+
+Gratuitous evils exist.
+
+The hypothesis of indifference, i.e., that if there are supernatural beings they are indifferent to gratuitous evils, is a better explanation for (1) than theism.
+
+Therefore, evidence prefers that no god, as commonly understood by theists, exists. These arguments are probability judgments since they rest on the claim that, even after careful reflection, one can see no good reason for God’s permission of evil. The inference from this claim to the general statement that there exists unnecessary evil is inductive in nature and it is this inductive step that sets the evidential argument apart from the logical argument.
+
+The logical possibility of hidden or unknown reasons for the existence of evil still exist. However, the existence of God is viewed as any large-scale hypothesis or explanatory theory that aims to make sense of some pertinent facts. The extent to which it fails to do so has not been confirmed. According to Occam's razor, one should make as few assumptions as possible. Hidden reasons are assumptions, as is the assumption that all pertinent facts can be observed, or that facts and theories humans have not discerned are indeed hidden. Thus, as per Paul Draper's argument above, the theory that there is an omniscient and omnipotent being who is indifferent requires no hidden reasons in order to explain evil. It is thus a simpler theory than one that also requires hidden reasons regarding evil in order to include omnibenevolence. Similarly, for every hidden argument that completely or partially justifies observed evils it is equally likely that there is a hidden argument that actually makes the observed evils worse than they appear without hidden arguments. As such, from an inductive viewpoint hidden arguments will neutralize one another.
+
+Author and researcher Gregory S. Paul offers what he considers to be a particularly strong problem of evil. Paul introduces his own estimates that at least 100 billion people have been born throughout human history (starting roughly 50 000 years ago, when Homo Sapiens—humans—first appeared). He then performed what he calls "simple" calculations to estimate the historical death rate of children throughout this time. He found that the historical death rate was over 50%, and that the deaths of these children were mostly due to diseases (like malaria).
+
+Paul thus sees it as a problem of evil, because this means that within the bounds of his estimates, that throughout human history, over 50 billion people died naturally before they were old enough to give mature consent. He adds that as many as 300 billion humans may never have reached birth, instead dying naturally but prenatally (the prenatal death rate being about 3/4 historically). Paul says that these figures could have implications for calculating the population of a heaven (which could include the aforementioned 50 billion children, 50 billion adults, and roughly 300 billion fetuses—excluding any living today).
+
+A common response to instances of the evidential problem is that there are plausible (and not hidden) justifications for God’s permission of evil. These theodicies are discussed below.
+
+1.2.1. Biblical examples
+
+Though the purpose of the Bible from the church's perspective is meant to teach that God is all powerful and good, arguments from evil have examined biblical passages and have argued otherwise. By using examples from the Bible to claim that God is actually evil lowers the chance of actual theism or the existence of an all powerful and loving God.
+
+Genesis Two reads, "Out of the ground the Lord God made to grow every tree that is pleasant to the sight and good for food, the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil."
+
+This section of Genesis introduces the "All Knowing Tree" that Adam and Eve eat from. Arguments from evil suggest that this is an example of God's evil nature or an example that shows that God isn't all powerful. The reasoning being that if God was all loving and powerful then the evil in the tree would not exist. Or it's possible that God isn't all powerful therefore He was not able to prohibit the evil in the tree.
+
+Regarding the story of Noah's Arc, Genesis Six reads, "I have to determined to make an end of all flesh, for the earth is filled with violence because of them; now I am going to destroy them along with the earth."
+
+In this passage of the Bible one can see how God destroyed the earth, killing everyone in it, except Noah and his family. Arguments from evil often use this passage to demonstrate how God's wrath makes it impossible for him to be all loving and good.
+
+There are many examples from the Bible that can be interpreted in different ways than they are meant to teach. There is no true answer to what any passage might mean. In the story of Noah for example, one could argue that God killed everyone except for Noah because He is evil. Or another side could argue that God killed everyone except Noah because it was necessary for the greater good of the world, thus making God good.
+
+1.3. Related arguments
+
+Doctrines of hell, particularly those involving eternal suffering, pose a particularly strong form of the problem of evil (see problem of hell). If the problem of unbelief, incorrect beliefs, or poor design are considered evils, then the argument from nonbelief, the argument from inconsistent revelations, and the argument from poor design may be seen as particular instances of the argument that the co-existence of evil with such a deity is unlikely or impossible.
+
+2. Responses, defences and theodicies
+
+Responses to the problem of evil have occasionally been classified as defences or theodicies; however, authors disagree on the exact definitions. Generally, a defense against the problem of evil may refer to attempts to defuse the logical problem of evil by showing that there is no logical incompatibility between the existence of evil and the existence of God. This task does not require the identification of a plausible explanation of evil, and is successful if the explanation provided shows that the existence of God and the existence of evil are logically compatible. It need not even be true, since a false though coherent explanation would be sufficient to show logical compatibility.
+
+A theodicy, on the other hand, is more ambitious, since it attempts to provide a plausible justification—a morally or philosophically sufficient reason—for the existence of evil and thereby rebut the "evidential" argument from evil. Richard Swinburne maintains that it does not make sense to assume there are greater goods that justify the evil's presence in the world unless we know what they are—without knowledge of what the greater goods could be, one cannot have a successful theodicy. Thus, some authors see arguments appealing to demons or the fall of man as indeed logically possible, but not very plausible given our knowledge about the world, and so see those arguments as providing defences but not good theodicies.
+
+2.1. Denial of absolute omniscience, omnipotence, omnibenevolence
+
+If God lacks any one of these qualities, the existence of evil is explicable, and so the problem of evil would be treated instead under the heading of some alternate formulation or doctrine of theology.
+
+In polytheism the individual deities are usually not omnipotent or omnibenevolent as the powers which they share are distributed among the diverse gods; however, if one of the deities has these properties the problem of evil applies. Belief systems where several deities are omnipotent would lead to logical contradictions and conflict.
+
+Ditheistic belief systems (a kind of dualism) explain the problem of evil from the existence of two rival great, but not omnipotent, deities that work in polar opposition to each other. Examples of such belief systems include Zoroastrianism, Manichaeism, Catharism, and possibly Gnosticism. The Devil in Islam and in Christianity is not seen as equal in power to God who is omnipotent. Thus the Devil could only exist if so allowed by God. The Devil, if so limited in power, can therefore by himself not explain the problem of evil without recourse to theism of some alternate version of theology.
+
+Process theology and open theism are other positions that limit God's omnipotence and/or omniscience (as defined in traditional Christian theology).
+
+2.1.1. Denial of omnibenevolence
+
+Dystheism is the belief that God is not wholly good. Pantheists and panentheists who are dystheistic may provide alternate versions for describing the disposition of evil.
+
+2.2. "Greater good" responses
+
+The omnipotence paradoxes, where evil persists in the presence of an all powerful God, raise questions as to the nature of God's omnipotence. Although that is from excluding the idea of how an interference would negate and subjugate the concept of free will, or in other words caused a totalitarian system that creates a lack of freedom. Some solutions propose that omnipotence does not require the ability to actualize the logically impossible. "Greater good" responses to the problem make use of this insight by arguing for existence of goods of great value which God cannot actualize without also permitting evil, and thus that there are evils he cannot be expected to prevent despite being omnipotent. Among the most popular versions of the "greater good" response are appeals to the apologetics of free will. Theologians will argue that since no one can fully understand God's ultimate plan, no one can assume that evil actions do not have some sort of greater purpose. Therefore the nature of evil has a necessary role to play in God's plan for a better world.
+
+2.2.1. Free will
+
+Use of the term "free will" creates confusion unless its definition is stated. In order to reduce confusion, Mortimer Adler found that a delineation of three kinds of freedom is necessary for clarity on the subject. ("Free will" and "freedom" are often used as synonyms.) These three kinds of freedom follow:
+
+"Circumstantial freedom" is "freedom from coercion or restraint" that prevents acting as one wills.
+
+"Natural freedom" is freedom to will what one desires. This natural free will is inherent in all people.
+
+"Acquired freedom" is freedom "to live as [one] ought." To possess acquired free will requires a change by which a person acquires a desire to live a life marked by qualities such as goodness and wisdom. For Greg Boyd, open theist and exponent of libertarian freedom, the free will response asserts that the existence of free beings is something of very high value, because with free will comes the ability to make morally significant choices (which include the expression of love and affection). Boyd also maintains that God does not plan or will evil in people's lives, but that evil is a result of a combination of free choices and the interconnectedness and complexity of life in a sinful and fallen world. With free will also comes the potential for ethical abuse, as when individuals fail to act morally. But the evil results created by such abuse of free will is easily outweighed by the great value of free will and the good that comes of it, and so God is justified in creating a world which offers free will existence, and with it the potential for evil. A world with free beings and no evil would be still better. However, this would require the cooperation of free beings with God, as it would be logically inconsistent for God to prevent abuses of freedom without thereby curtailing that freedom.
+
+However, critics of the free will response have questioned whether it accounts for the degree of evil seen in this world. One point in this regard is that while the value of free will may be thought sufficient to counterbalance minor evils, it is less obvious that it outweighs the negative attributes of evils such as rape and murder. Particularly egregious cases known as horrendous evils, which "[constitute] prima facie reason to doubt whether the participant’s life could (given their inclusion in it) be a great good to him/her on the whole," have been the focus of recent work in the problem of evil. Another point is that those actions of free beings which bring about evil very often diminish the freedom of those who suffer the evil; for example the murder of a young child may prevent the child from ever exercising their free will. In such a case the freedom of an innocent child is pitted against the freedom of the evil-doer, it is not clear why God would remain unresponsive and passive.
+
+A second criticism is that the potential for evil inherent in free will may be limited by means which do not impinge on that free will. God could accomplish this by making moral actions especially pleasurable, so that they would be irresistible to us; he could also punish immoral actions immediately, and make it obvious that moral rectitude is in our self-interest; or he could allow bad moral decisions to be made, but intervene to prevent the harmful consequences from actually happening. A reply is that such a "toy world" would mean that free will has less or no real value. Critics may respond that this view seems to imply it would be similarly wrong for humans to try to reduce suffering in these ways, a position which few would advocate. The debate depends on the definitions of free will and determinism, which are deeply disputed definitions, as well as their relation to one another. See also compatibilism, incompatibilism, and predestination. In general terms, compatibilism and incompatibilism refer to whether free-will in individuals is in conflict with a God who may or may not have knowledge of the outcome of the choices which individuals make based on this free-will before the choices are made.
+
+A third reply is that though the free will defence has the potential to explain moral evil, it fails to address natural evil. By definition, moral evil results from human action, but natural evil results from natural processes that cause natural disasters such as volcanic eruptions or earthquakes. Advocates of the free will response to evil propose various explanations of natural evils. Alvin Plantinga, following Augustine of Hippo, and others have argued that natural evils are caused by the free choices of supernatural beings such as demons. Others have argued
+
+Advocates of the free will response can also point to the fact that "the line between moral and natural evil is not always clear." Natural evils are often caused or exacerbated by humans in their exercise of free will.
+
+• Earthquake casualties often result from poor construction.
+
+Finally, because the free will response assumes a libertarian account of free will, the debate over its adequacy naturally widens into a debate concerning the nature and existence of free will. Compatibilists deny that a being who is determined to act morally lacks free will, and so also that God cannot ensure the moral behavior of the free beings he creates. Hard determinists deny the existence of free will, and therefore they deny that the existence of free will justifies the evil in our world. There is also debate regarding the compatibility of moral free will (to select good or evil action) with the absence of evil from heaven, with God's omniscience (see the argument from free will), and with his omnibenevolence.
+
+2.2.2. Soul-making or Irenaean theodicy
+
+Distinctive of the soul-making theodicy is the claim that evil and suffering are necessary for spiritual growth. Theology consistent with this type of theodicy was developed by the second-century Christian theologian, Irenaeus of Lyons, and its most recent advocate has been the influential philosopher of religion, John Hick. A perceived inadequacy with the theodicy is that many evils do not seem to promote such growth, and can be positively destructive of the human spirit. Hick acknowledges that this process often fails in our world. A second issue concerns the distribution of evils suffered: were it true that God permitted evil in order to facilitate spiritual growth, then we would expect evil to disproportionately befall those in poor spiritual health. This does not seem to be the case, as the decadent enjoy lives of luxury which insulate them from evil, whereas many of the pious are poor, and are well acquainted with worldly evils. A third problem attending this theodicy is that the qualities developed through experience with evil seem to be useful precisely because they are useful in overcoming evil. But if there were no evil, then there would seem to be no value in such qualities, and consequently no need for God to permit evil in the first place. Against this it may be asserted that the qualities developed are intrinsically valuable, but this view would need further justification.
+
+2.2.3. Afterlife
+
+The afterlife has also been cited as justifying evil. Christian theologian Randy Alcorn argues that the joys of heaven will compensate for the sufferings on earth, and writes:
+
+Philosopher Stephen Maitzen has called this the "Heaven Swamps Everything" theodicy, and argues that it is false because it conflates compensation and justification. He observes that this reasoning:
+
+2.3. Previous lives and karma
+
+The theory of karma holds that good acts result in pleasure and bad acts with suffering. Thus it accepts that there is suffering in the world, but maintains that there is no undeserved suffering, and in that sense, no evil. The obvious objection that people sometimes suffer misfortune that was undeserved is met with by coupling karma with reincarnation, so that such suffering is the result of actions in previous lifetimes. The real problem of evil is the desire to invert the law of karma by way of causing suffering to the innocent, and rewarding pleasure to the guilty as superimposed rule.
+
+2.4. Skeptical theism
+
+Skeptical theists argue that due to humanity's limited knowledge, we cannot expect to understand God or his ultimate plan. When a parent takes an infant to the doctor for a regular vaccination to prevent childhood disease, it's because the parent cares for and loves that child. The infant however will be unable to appreciate this. It is argued that just as an infant cannot possibly understand the motives of its parent due to its cognitive limitations, so too are humans unable to comprehend God's will in their current physical and earthly state. Given this view, the difficulty or impossibility of finding a plausible explanation for evil in a world created by God is to be expected, and so the argument from evil is assumed to fail unless it can be proven that God's reasons would be comprehensible to us. A related response is that good and evil are strictly beyond human comprehension. Since our concepts of good and evil as instilled in us by God are only intended to facilitate ethical behaviour in our relations with other humans, we should have no expectation that our concepts are accurate beyond what is needed to fulfill this function, and therefore cannot presume that they are sufficient to determine whether what we call evil really is evil. Such a view may be independently attractive to the theist, as it permits an agreeable interpretation of certain biblical passages, such as "...Who makes peace and creates evil; I am the Lord, Who makes all these."
+
+A counterpoint to the above is that while these considerations harmonize belief in God with our inability to identify his reasons for permitting evil, there remains a question as to why we have not been given a clear and unambiguous assurance by God that he has good reasons for allowing evil, which would be within our ability to understand. Here discussion of the problem of evil shades into discussion of the argument from nonbelief.
+
+2.5. Denial of the existence of evil
+
+2.5.1. Evil as the absence of good
+
+The fifth century theologian Augustine of Hippo maintained that evil exists only as a privation or absence of the good. Ignorance is an evil, but is merely the absence of knowledge, which is good; disease is the absence of health; callousness an absence of compassion. Since evil has no positive reality of its own, it cannot be caused to exist, and so God cannot be held responsible for causing it to exist. In its strongest form, this view may identify evil as an absence of God, who is the sole source of that which is good.
+
+A related view, which draws on the Taoist concept of yin-yang, allows that both evil and good have positive reality, but maintains that they are complementary opposites, where the existence of each is dependent on the existence of the other. Compassion, a valuable virtue, can only exist if there is suffering; bravery only exists if we sometimes face danger; self-sacrifice is called for only where others are in need. This is sometimes called the "contrast" argument.
+
+Perhaps the most important criticism of this view is that, even granting its success against the argument from evil, it does nothing to undermine an 'argument from the absence of goodness' which may be pushed instead, and so the response is only superficially successful.
+
+2.5.2. Evil as illusory
+
+It is possible to hold that evils such as suffering and disease are mere illusions, and that we are mistaken about the existence of evil. This approach is favored by some Eastern religious philosophies such as Hinduism and Buddhism, and by Christian Science. It is most plausible when considering our knowledge of evils which are geographically or temporally distant, for these might not be real after all. However, when considering our own sensations of pain and mental anguish, there does not seem to be a difference in apprehending that we are afflicted by such sensations and suffering under their influence. If that is the case, it seems that not all evils can be dismissed as illusory.
+
+2.6. Turning the tables
+
+2.6.1. "Evil" suggests an ethical law
+
+A different approach to the problem of evil is to turn the tables by suggesting that any argument from evil is self-refuting, in that its conclusion would necessitate the falsity of one of its premises. One response then is to point out that the assertion "evil exists" implies an ethical standard against which moral value is determined, and then to argue that this standard implies the existence of God (see argument from morality). C. S. Lewis writes:
+
+The standard criticism of this view is that an argument from evil is not necessarily a presentation of the views of its proponent, but is instead intended to show how premises which the theist is inclined to believe lead him or her to the conclusion that God does not exist (i.e. as a reductio of the theist's worldview). Another tact is to reformulate the argument from evil so that this criticism does not apply—for example, by replacing the term "evil" with "suffering", or what is more cumbersome, state of affairs that orthodox theists would agree are properly called "evil".
+
+3. General criticisms of defenses and theodicies
+
+Several philosophers have argued that just as there exists a problem of evil for theists who believe in an omniscient, omnipotent and omnibenevolent being, so too is there a problem of good for anyone who believes in an omniscient, omnipotent, and omnimalevolent (or perfectly evil) being. As it appears that the defenses and theodicies which might allow the theist to resist the problem of evil can be inverted and used to defend belief in the omnimalevolent being, this suggests that we should draw similar conclusions about the success of these defensive strategies. In that case, the theist appears to face a dilemma: either to accept that both sets of responses are equally bad, and so that the theist does not have an adequate response to the problem of evil; or to accept that both sets of responses are equally good, and so to commit to the existence of an omnipotent, omniscient, and omnimalevolent being as plausible. Critics have noted that theodicies and defenses are often addressed to the logical problem of evil. As such, they are intended only to demonstrate that it is possible that evil can co-exist with an omniscient, omnipotent and omnibenevolent being. Since the relevant parallel commitment is only that good can co-exist with an omniscient, omnipotent and omnimalevolent being, not that it is plausible that they should do so, the theist who is responding to the problem of evil need not be committing themselves to something they are likely to think is false. This reply, however, leaves the evidential problem of evil untouched.
+
+Another general criticism is that though a theodicy may harmonize God with the existence of evil, it does so at the cost of nullifying morality. This is because most theodicies assume that whatever evil there is exists because it is required for the sake of some greater good. But if an evil is necessary because it secures a greater good, then it appears we humans have no duty to prevent it, for in doing so we would also prevent the greater good for which the evil is required. Even worse, it seems that any action can be rationalized, as if one succeeds in performing it, then God has permitted it, and so it must be for the greater good. From this line of thought one may conclude that, as these conclusions violate our basic moral intuitions, no greater good theodicy is true, and God does not exist. Alternatively, one may point out that greater good theodicies lead us to see every conceivable state of affairs as compatible with the existence of God, and in that case the notion of God's goodness is rendered meaningless.
+
+See also Christian alternatives to theodicy.
+
+4. By religion
+
+4.1. Ancient Mesopotamia and Egypt
+
+The problem of evil takes at least four formulations in ancient Mesopotamian religious thought, as in the extant manuscripts of Ludlul bēl nēmeqi (I Will Praise the Lord of Wisdom), Erra and Ishum, The Babylonian Theodicy, and The Dialogue of Pessimism. In this type of polytheistic context, the chaotic nature of the world implies multiple gods battling for control.
+
+In ancient Egypt, it was thought the problem takes at least two formulations, as in the extant manuscripts of Dialogue of a Man with His Ba and The Eloquent Peasant. Due to the conception of Egyptian gods as being far removed, these two formulations of the problem focus heavily on the relation between evil and people; that is, moral evil.
+
+4.2. Judaism
+
+An oral tradition exists in Judaism that God determined the time of the Messiah's coming by erecting a great set of scales. On one side, God placed the captive Messiah with the souls of dead laymen. On the other side, God placed sorrow, tears, and the souls of righteous martyrs. God then declared that the Messiah would appear on earth when the scale was balanced. According to this tradition, then, evil is necessary in the bringing of the world's redemption, as sufferings reside on the scale.
+
+The Talmud states that every bad thing is for the ultimate good, and a person should praise God for bad things like he praises God for the good things.
+
+Tzimtzum in Kabbalistic thought holds that God has withdrawn himself so that creation could exist, but that this withdrawal means that creation lacks full exposure to God's all-good nature.
+
+4.3. Christianity
+
+4.3.1. The Bible
+
+The Bible "has been, both in theory and in fact, the dominant influence upon ideas about God and evil in the Western world." The word "evil" occurs 613 times in the King James Version of the Bible: 481 times in the Old Testament and 132 times in the New Testament.
+
+In the biblical view, evil is all that is "opposed to God and His purposes" (i.e., sin) or that which, from the human perspective, is "harmful and nonproductive" (i.e., suffering).
+
+The fact of evil creates, not only a problem for existence, it creates a problem for belief in an all-good and all-powerful God.For if God was all-good and all-powerful then in theory such a God would be able to prohibit such evils from happening. In response, theologians have argued that though the problem of evil is present, it alone is not strong enough evidence to suggest that God is not all powerful and loving. The simplest biblical response to the problem of evil is that God has good reasons to permit such evils. Meaning each act of evil has a message that is meant to teach the world a moral value. This is an example of a greater good response. Greater good responses justify evil acts in the world by claiming that they are necessary for God's plan, which will ultimately benefit everyone. Another answer that the bible uses is the free will response. Theologians argue that if God prohibited one evil, then he would have to prohibit them all, therefore hindering freewill and the natural laws of the world.
+
+For more on evil in the Bible and the problem of belief it creates, see the "Greater good responses" section at the top of this page or Theodicy and the Bible.
+
+4.3.2. Gnosticism
+
+Gnosticism refers to several beliefs seeing evil as due to the world being created by an imperfect God, the demiurge, which is contrasted with a superior entity. However, this by itself does not answer the problem of evil if the superior entity is omnipotent and omnibenevolent. Different gnostic beliefs may give varying answers, like Manichaeism, which adopts dualism, in opposition to the doctrine of omnipotence.
+
+4.3.3. Irenaean theodicy
+
+Irenaean theodicy, posited by Irenaeus (2nd century AD–c. 202), has been reformulated by John Hick. It holds that one cannot achieve moral goodness or love for God if there is no evil and suffering in the world. Evil is soul-making and leads one to be truly moral and close to God. God created an epistemic distance (such that God is not immediately knowable) so that we may strive to know him and by doing so become truly good. Evil is a means to good for 3 main reasons:
+
+Means of knowledge – Hunger leads to pain, and causes a desire to feed. Knowledge of pain prompts humans to seek to help others in pain.
+
+Character building – Evil offers the opportunity to grow morally. "We would never learn the art of goodness in a world designed as a hedonistic paradise" (Richard Swinburne)
+
+Predictable environment – The world runs to a series of natural laws. These are independent of any inhabitants of the universe. Natural Evil only occurs when these natural laws conflict with our own perceived needs. This is not immoral in any way
+
+4.3.4. Pelagianism
+
+The consequences of the original sin were debated by Pelagius and Augustine of Hippo. Pelagius argues on behalf of original innocence, while Augustine indicts Eve and Adam for original sin. Pelagianism is the belief that original sin did not taint all of humanity and that mortal free will is capable of choosing good or evil without divine aid. Augustine's position, and subsequently that of much of Christianity, was that Adam and Eve had the power to topple God's perfect order, thus changing nature by bringing sin into the world, but that the advent of sin then limited mankind's power thereafter to evade the consequences without divine aid. Eastern Orthodox theology holds that one inherits the nature of sinfulness but not Adam and Eve's guilt for their sin which resulted in the fall.
+
+4.3.5. Augustinian theodicy
+
+St Augustine of Hippo (AD 354–430) in his Augustinian theodicy, as presented in John Hick's book Evil and the God of Love, focuses on the Genesis story that essentially dictates that God created the world and that it was good; evil is merely a consequence of the fall of man (The story of the Garden of Eden where Adam and Eve disobeyed God and caused inherent sin for man). Augustine stated that natural evil (evil present in the natural world such as natural disasters etc.) is caused by fallen angels, whereas moral evil (evil caused by the will of human beings) is as a result of man having become estranged from God and choosing to deviate from his chosen path. Augustine argued that God could not have created evil in the world, as it was created good, and that all notions of evil are simply a deviation or privation of goodness. Evil cannot be a separate and unique substance. For example, Blindness is not a separate entity, but is merely a lack or privation of sight. Thus the Augustinian theodicist would argue that the problem of evil and suffering is void because God did not create evil; it was man who chose to deviate from the path of perfect goodness.
+
+4.3.6. St. Thomas Aquinas
+
+Saint Thomas systematized the Augustinian conception of evil, supplementing it with his own musings. Evil, according to St. Thomas, is a privation, or the absence of some good which belongs properly to the nature of the creature. There is therefore no positive source of evil, corresponding to the greater good, which is God; evil being not real but rational—i.e. it exists not as an objective fact, but as a subjective conception; things are evil not in themselves, but by reason of their relation to other things or persons. All realities are in themselves good; they produce bad results only incidentally; and consequently the ultimate cause of evil is fundamentally good, as well as the objects in which evil is found.
+
+4.3.7. Catholic Encyclopedia
+
+Evil is threefold, viz., metaphysical evil, moral, and physical, the retributive consequence of moral guilt. Its existence subserves the perfection of the whole; the universe would be less perfect if it contained no evil. Thus fire could not exist without the corruption of what it consumes; the lion must slay the ass in order to live, and if there were no wrong doing, there would be no sphere for patience and justice. God is said (as in Isaiah 45) to be the author of evil in the sense that the corruption of material objects in nature is ordained by Him, as a means for carrying out the design of the universe; and on the other hand, the evil which exists as a consequence of the breach of Divine laws is in the same sense due to Divine appointment; the universe would be less perfect if its laws could be broken with impunity. Thus evil, in one aspect, i.e. as counter-balancing the deordination of sin, has the nature of good. But the evil of sin, though permitted by God, is in no sense due to him; denying the Divine omnipotence, that another equally perfect universe could not be created in which evil would have no place.
+
+4.3.8. Luther and Calvin
+
+Both Luther and Calvin explained evil as a consequence of the fall of man and the original sin. However, due to the belief in predestination and omnipotence, the fall is part of God's plan. Ultimately humans may not be able to understand and explain this plan.
+
+4.3.9. Christian Science
+
+Christian Science views evil as having no ultimate reality and as being due to false beliefs, consciously or unconsciously held. Evils such as illness and death may be banished by correct understanding. This view has been questioned, aside from the general criticisms of the concept of evil as an illusion discussed earlier, since the presumably correct understanding by Christian Science members, including the founder, has not prevented illness and death. However, Christian Scientists believe that the many instances of spiritual healing (as recounted e.g. in the Christian Science periodicals and in the textbook Science and Health with Key to the Scriptures by Mary Baker Eddy) are anecdotal evidence of the correctness of the teaching of the unreality of evil. According to one author, the denial by Christian Scientists that evil ultimately exists neatly solves the problem of evil; however, most people cannot accept that solution.
+
+4.3.10. Jehovah's Witnesses
+
+Jehovah's Witnesses believe that Satan is the original cause of evil. Though once a perfect angel, Satan developed feelings of self-importance and craved worship, and eventually challenged God's right to rule. Satan caused Adam and Eve to disobey God, and humanity subsequently became participants in a challenge involving the competing claims of Jehovah and Satan to universal sovereignty. Other angels who sided with Satan became demons.
+
+God's subsequent tolerance of evil is explained in part by the value of free will. But Jehovah's Witnesses also hold that this period of suffering is one of non-interference from God, which serves to demonstrate that Jehovah's "right to rule" is both correct and in the best interests of all intelligent beings, settling the "issue of universal sovereignty". Further, it gives individual humans the opportunity to show their willingness to submit to God's rulership.
+
+At some future time known to him, God will consider his right to universal sovereignty to have been settled for all time. The reconciliation of "faithful" humankind will have been accomplished through Christ, and nonconforming humans and demons will have been destroyed. Thereafter, evil (any failure to submit to God's rulership) will be summarily executed.
+
+4.3.11. The Church of Jesus Christ of Latter-day Saints
+
+The Church of Jesus Christ of Latter-day Saints (LDS Church) introduces a concept similar to Irenaean theodicy, that experiencing evil is a necessary part of the development of the soul. Specifically, the laws of nature prevent an individual from fully comprehending or experiencing good without experiencing its opposite. In this respect, Mormons don't regard the fall of Adam and Eve as a tragic, unplanned cancellation of an eternal paradise; rather it was an essential element of God's plan, because it is through the opposition of mortality that humans "taste the bitter, that they may learn to prize the good."
+
+This necessarily acknowledges a departure from the mainstream Christian definition of omnipotence and omniscience, which Mormons believe was changed by post-apostolic theologians in the centuries after Christ. The writings of Justin Martyr, Origen, Augustine, and others indicate a merging of Christian principles with Greek metaphysical philosophies such as Neoplatonism, which described divinity as an utterly simple, immaterial, formless substance/essence (ousia) that was the absolute causality and creative source of all that existed. Mormons teach that through modern day revelation, God restored the truth about his nature, which eliminated the speculative metaphysical elements that had been incorporated after the Apostolic era. As such, God's omniscience/omnipotence is not to be understood as metaphysically transcending all limits of nature, but as a perfect comprehension of all things within nature—which gives God the power to bring about any state or condition within those bounds. This restoration also clarified that God does not create Ex nihilo (out of nothing), but uses existing materials to organize order out of chaos. Because opposition is inherent in nature, and God operates within nature’s bounds, God is therefore not considered the author of evil—nor can He simply eradicate all evil from the universe. His primary purpose, however, is to help His children to learn for themselves to both appreciate and choose the right, and thus achieve eternal joy.
+
+4.4. Islam
+
+Islamic scholar Sherman Jackson states that the Mu'tazila school emphasized God's omnibenevolence. Evil arises not from God but from the actions of his creations who create their own actions independent of God. The Ash'ari school instead emphasized God's omnipotence. God is not restricted to follow some objective moral system centered on humans but has the power do whatever he wants with his world. The Maturidi school argued that evil arises from God but that evil in the end has a wiser purpose as a whole and for the future. Some theologians have viewed God as all-powerful and human life as being between the hope that God will be merciful and the fear that he will not.
+
+4.5. Hinduism
+
+Hinduism is a complex religion with many different currents or schools. As such the problem of evil in Hinduism is answered in several different ways such as by the concept of karma.
+
+4.6. Buddhism
+
+In Buddhism, the problem of evil, or the related problem of dukkha, is one argument against a benevolent, omnipotent creator god, identifying such a notion as attachment to a false concept.
+
+4.7. Pandeism
+
+While acknowledging that William L. Rowe had raised "a powerful, evidential argument against ethical theism," theologian William C. Lane contends that the theological theory of pandeism escapes the problem of evil. Lane writes of Rowe's proof:
+
+4.8. Greek Mythology
+
+One of the most unique relationships between God and humans can be viewed through ancient Greek mythology. Unlike most religions, the Gods in Greek mythology were seen as superior, but shared similar traits with humans and often interacted with them. Though the Greeks didn't believe in any "evil" gods, the Greeks still acknowledged the fact that evil was present in the world. Gods often meddled in the affairs of men, and sometimes their actions consisted of bringing misery to people, for example Gods would sometimes be a direct cause of death for people. However, the Greeks did not consider the Gods to be evil, as a result of their actions, instead the answer for most situations in greek mythology was the power of fate. Fate is considered to be more powerful than the Gods themselves and for this reason no one can escape it. For this reason the Greeks recognized that unfortunate events were justifiable by the idea of fate.
+
+For more information see Greek Mythology.
+
+5. By philosophers
+
+5.1. Epicurus
+
+Epicurus is generally credited with first expounding the problem of evil, and it is sometimes called "the Epicurean paradox" or "the riddle of Epicurus":
+
+"Is God willing to prevent evil, but not able? Then he is not omnipotent. Is he able, but not willing? Then he is malevolent. Is he both able and willing? Then whence cometh evil? Is he neither able nor willing? Then why call him God?" — 'the Epicurean paradox'. Epicurus himself did not leave any written form of this argument. It can be found in Christian theologian Lactantius's Treatise on the Anger of God where Lactantius critiques the argument. Epicurus's argument as presented by Lactantius actually argues that a god that is all-powerful and all-good does not exist and that the gods are distant and uninvolved with man's concerns. The gods are neither our friends nor enemies.
+
+5.2. David Hume
+
+David Hume's formulation of the problem of evil in Dialogues Concerning Natural Religion:
+
+"Is he [God] willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?" "[God's] power we allow [is] infinite: Whatever he wills is executed: But neither man nor any other animal are happy: Therefore he does not will their happiness. His wisdom is infinite: He is never mistaken in choosing the means to any end: But the course of nature tends not to human or animal felicity: Therefore it is not established for that purpose. Through the whole compass of human knowledge, there are no inferences more certain and infallible than these. In what respect, then, do his benevolence and mercy resemble the benevolence and mercy of men?"
+
+5.3. Gottfried Leibniz
+
+In his Dictionnaire Historique et Critique, the sceptic Pierre Bayle denied the goodness and omnipotence of God on account of the sufferings experienced in this earthly life. Gottfried Leibniz introduced the term theodicy in his 1710 work Essais de Théodicée sur la bonté de Dieu, la liberté de l'homme et l'origine du mal ("Theodicic Essays on the Benevolence of God, the Free will of man, and the Origin of Evil") which was directed mainly against Bayle. He argued that this is the best of all possible worlds that God could have created.
+
+Imitating the example of Leibniz, other philosophers also called their treatises on the problem of evil theodicies. Voltaire's popular novel Candide mocked Leibnizian optimism through the fictional tale of a naive youth.
+
+5.4. Thomas Robert Malthus
+
+The population and economic theorist Thomas Malthus argued in a 1798 essay that evil exists to spur human creativity and production. Without evil or the necessity of strife mankind would have remained in a savage state since all amenities would be provided for.
+
+5.5. Immanuel Kant
+
+Immanuel Kant argued for sceptical theism. He claimed there is a reason all possible theodicies must fail: evil is a personal challenge to every human being and can be overcome only by faith. He wrote:
+
+We can understand the necessary limits of our reflections on the subjects which are beyond our reach. This can easily be demonstrated and will put an end once and for all to the trial.
+
+5.6. Victor Cousin
+
+Victor Cousin (1856) stridently argued that different competing philosophical ideologies all had some claim on truth, as they all had arisen in defense of some truth. He however argued that there was a theodicy which united them, and that one should be free in quoting competing and sometimes contradictory ideologies in order to gain a greater understanding of truth through their reconciliation.
+
+5.7. Peter Kreeft
+
+Christian philosopher Peter Kreeft provides several answers to the problem of evil and suffering, including that a) God may use short-term evils for long-range goods, b) God created the possibility of evil, but not the evil itself, and that free will was necessary for the highest good of real love. Kreeft says that being all-powerful doesn't mean being able to do what is logically contradictory, e.g., giving freedom with no potentiality for sin, c) God's own suffering and death on the cross brought about his supreme triumph over the devil, d) God uses suffering to bring about moral character, quoting apostle Paul in Romans 5, e) Suffering can bring people closer to God, and f) The ultimate "answer" to suffering is Jesus himself, who, more than any explanation, is our real need.
+
+5.8. William Hatcher
+
+Mathematical logician William Hatcher (a member of the Baha'i Faith) made use of relational logic to claim that very simple models of moral value cannot be consistent with the premise of evil as an absolute, whereas goodness as an absolute is entirely consistent with the other postulates concerning moral value. In Hatcher's view, one can only validly say that if an act A is "less good" than an act B, one cannot logically commit to saying that A is absolutely evil, unless one is prepared to abandon other more reasonable principles.
+
+6. See also
+
+Cosmodicy
+
+Inconsistent triad
+
+Irenaean theodicy
+
+Just-world hypothesis
+
+List of paradoxes
+
+Post-monotheism
+
+Problem of Hell
+
+Qliphoth (Kabbalah)
+
+Sephirah (Kabbalah)
+
+The Problem of Pain
+
+Theodicy
+
+Theodicy and the Bible
+
+Trilemma
+
+The Brothers Karamazov
+
+Weltschmerz
+
+7. Notes and references
+
+;Notes ;References
+
+8. Further reading
+
+Adams, Marilyn McCord and Robert M. Adams, eds. "The Problem of Evil". Oxford: Oxford University Press, 1990. The standard anthology in English. Contains classic papers by recent philosophers of religion in the analytic tradition. Deals with both the logical problem and the evidential problem.
+
+Adams, Marilyn McCord. "Horrendous Evils and the Goodness of God." Ithaca, NY: Cornell University Press, 1999.
+
+Adams, Robert M. "Must God Create the Best?" in "The Virtue of Faith and Other Essays in Philosophical Theology". New York: Oxford University Press, 1987.
+
+Adams, Robert M. "Existence, Self-Interest and the Problem of Evil" in "The Virtue of Faith and Other Essays in Philosophical Theology". New York: Oxford University Press, 1987.
+
+Aquinas, Thomas. On Evil (De Malo), trans. Regan; ed. Brian Davies. Oxford, Oxford University Press, 2003.
+
+Brown, Paterson. , Mind, 1963.
+
+Brown, Paterson. , Mind, 1964.
+
+Brown, Paterson. , Religious Studies, 1967.
+
+Carver, Thomas N. (1908). "The Economic Basis of the Problem of Evil," Harvard Theological Review, 1(1), pp. -
+
+Dostoyevsky, Fyodor. The Brothers Karamazov, 1881. Chapters "Rebellion" and "The Grand Inquisitor"
+
+Howard-Snyder, Daniel, ed. The Evidential Problem of Evil. Bloomington and Indianapolis, IN: Indian University Press, 1996. Probably the best collection of essays in English on the evidential argument from evil. Includes most of the major players on the topic.
+
+Hume, David. Dialogues on Natural Religion (Parts X and XI), ed. Richard Pokin. Indianapolis, IN: Hackett, 1980.
+
+Leibniz, Gottfried. (1710). Theodicy.
+
+Leibniz, Gottfried. (1765). "A Vindication of God's Justice...", ("Causa Dei") trans. Paul Schrecker and Anne Martin Schrecker. New York: MacMillan, 1965.
+
+Ormsby, Eric. Theodicy in Islamic Thought (Princeton University Press, 1984)
+
+Rowe, William L. (1990). "The Problem of Evil and Some Varieties of Atheism" in The Problem of Evil, ed. Marilyn McCord Adams and Robert M. Adams. Oxford: Oxford University Press.
+
+Stewart, Matthew. The Courtier and the Heretic: Leibniz, Spinoza and the Fate of God in the Modern World. W.W. Norton, 2005.
+
+Swinburne, Richard. (1998). Providence and the Problem of Evil. Oxford: Oxford University Press.
+
+Van Inwagen, Peter. (2006). The Problem of Evil. Oxford: Oxford University Press.
+
+Voltaire. (1759) Candide. Many editions. Voltaire's caustic response to Leibniz' doctrine that this is the best possible world.
+
+9. External links
+
+, Appendix VI of , by Stephen Palmquist.
+
+9.1. Encyclopedias

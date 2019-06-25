@@ -1,0 +1,37 @@
+In economics the Pareto index, named after the Italian economist and sociologist Vilfredo Pareto, is a measure of the breadth of income or wealth distribution. It is one of the parameters specifying a Pareto distribution and embodies the Pareto principle. As applied to income, the Pareto principle is sometimes stated in popular expositions by saying 20% of the population has 80% of the income. In fact, Pareto's data on British income taxes in his Cours d'économie politique indicates that about 20% of the population had about 80% of the income.
+
+One of the simplest characterizations of the Pareto distribution, when used to model the distribution of incomes, says that the proportion of the population whose income exceeds any positive number x > xm is
+
+where xm is a positive number, the minimum of the support of this probability distribution (the subscript m stands for minimum). The Pareto index is the parameter ॅ. Since a proportion must be between 0 and 1, inclusive, the index ॅ must be positive, but in order for the total income of the whole population to be finite, α must also be greater than 1. The larger the Pareto index, the smaller the proportion of very high-income people. (The 80-20 rule holds precisely when ॅ = log(5)/log(4) ≈ 1.16 whereas the 70-30 result corresponds to α = log(0.3)/log(3/7) ≈ 1.42.)
+
+Mathematically, the formula above entails that all incomes are at least the lower bound xm, which is positive. At this income the probability density suddenly jumps up from zero and then starts decreasing, which is clearly unrealistic. Economists therefore sometimes state that the Pareto law as stated here applies only to the upper tail of the distribution.
+
+1. See also
+
+Gini coefficient
+
+List of measures of inequality
+
+2. References and external links
+
+Vilfredo Pareto, Cours d'économie politique professé à l'université de Lausanne, 3 volumes, 1896–7.
+
+"Wealth Condensation in Pareto Macroeconomies", Z. Burda, D. Johnston, J. Jurkiewicz, M. Kamiński, M.A. Nowak, G. Papp, I. Zahed, Physical Review E, volume 65, 2002.
+
+"Pareto Index Estimation Under Moderate Right Censoring", Jan Beirlant, Armelle Guillou, Scandinavian Actuarial Journal, volume 2 (2001), pages 111–125.
+
+"Wealth Distribution in an Ancient Egyptian Society", A. Y. Abul-Magd, Physical Review E, volume 66, 2002.
+
+"Pareto Index Induced from the Scale of Companies", Atushi Ishikawa, Physica A, volume 363, pages 367–376, 2006.
+
+"Power Law Tails in the Italian Personal Income Distribution", Fabio Clementi, Mauro Gallegati, Physica A, volume 350, pages 427–438, 2005.
+
+"Weak Limiting Behaviour of a Simple Tail Pareto-Index Estimator", J.N. Bacro and M. Brito, Journal of Statistical Planning and Inference, volume 45, number 1, 1995, pages 7–19.
+
+"Generalized Pareto Fit to the Society of Actuaries Large Claims Database", A. Cebrián, M. Denuit and Ph. Lambert, North American Actuarial Journal, volume 8
+
+"A New Illustration of Pareto's Law", Josiah C. Stamp, Journal of the Royal Statistical Society, volume 77, number 2, pages 200–204, January 1914.
+
+"The Pareto Law and the Distribution of Income", G. Findlay Shirras, The Economic Journal, volume 45, number 180, pages 663–681, December 1935.
+
+, from the International Statistical Institute's glossary of statistical terms.

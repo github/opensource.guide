@@ -1,0 +1,15 @@
+In medicine, KUB refers to a diagnostic medical imaging technique of the abdomen and stands for Kidneys, Ureters, and Bladder.
+
+A KUB is a plain frontal supine radiograph of the abdomen. It is often supplemented by an upright PA view of the chest (to rule out air under the diaphragm or thoracic etiologies presenting as abdominal complaints) and a standing view of the abdomen (to differentiate obstruction from ileus by examining gastrointestinal air/water levels).
+
+1. Uses
+
+Despite its name, a KUB is not typically used to investigate pathology of the kidneys, ureters, or bladder, since these structures are difficult to assess (for example, the kidneys may not be visible due to overlying bowel gas.) In order to assess these structures radiographically, a technique called an intravenous pyelogram was historically utilized, and today at many institutions CT urography is the technique of choice.
+
+KUB is typically used to investigate gastrointestinal conditions such as a bowel obstruction and gallstones, and can detect the presence of kidney stones. The KUB is often used to diagnose constipation as stool can be seen readily. The KUB is also used to assess positioning of indwelling devices such as ureteric stents and nasogastric tubes. KUB is also done as a scout film for other procedures such as barium enemas.
+
+2. Projection
+
+It should include on the upright projections both right and left visualizations of the diaphragm. In at least one projection, the pubic symphysis must be present as the lower end of the area of interest. If the patient is large, more than one film loaded in the Bucky in a "landscape" direction may be used for each projection. This is done to ensure that the majority of bowel can be reviewed.
+
+3. References

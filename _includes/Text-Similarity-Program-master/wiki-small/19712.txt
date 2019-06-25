@@ -1,0 +1,189 @@
+Methanol, also known as methyl alcohol, wood alcohol, wood naphtha or wood spirits, is a chemical with the formula CH3OH (often abbreviated MeOH). Methanol acquired the name "wood alcohol" because it was once produced chiefly as a byproduct of the destructive distillation of wood. Modern methanol is produced in a catalytic industrial process directly from carbon monoxide, carbon dioxide, and hydrogen.
+
+Methanol is the simplest alcohol, and is a light, volatile, colorless, flammable liquid with a distinctive odor very similar to that of ethanol (drinking alcohol). However, unlike ethanol, methanol is highly toxic and unfit for consumption. At room temperature, it is a polar liquid, and is used as an antifreeze, solvent, fuel, and as a denaturant for ethanol. It is also used for producing biodiesel via transesterification reaction.
+
+Methanol is produced naturally in the anaerobic metabolism of many varieties of bacteria, and is commonly present in small amounts in the environment. As a result, there is a small fraction of methanol vapor in the atmosphere. Over the course of several days, atmospheric methanol is oxidized with the help of sunlight to carbon dioxide and water.
+
+Methanol burns in oxygen, including open air, forming carbon dioxide and water:
+
+Methanol ingested in large quantities is metabolized to formic acid or formate salts, which is poisonous to the central nervous system, and may cause blindness, coma, and death. Because of these toxic properties, methanol is frequently used as a denaturant additive for ethanol manufactured for industrial uses. This addition of methanol exempts industrial ethanol (commonly known as "denatured alcohol" or "methylated spirit") from liquor excise taxation in the US and some other countries.
+
+1. Occurrence
+
+1.1. Human metabolite
+
+Methanol is poisonous to the central nervous system and may cause blindness, coma, and death. However, in small amounts, methanol is a natural endogenous compound found in normal, healthy human individuals, concluded by one study which found a mean of 4.5 ppm in the exhaled breath of the subjects. The mean endogenous methanol in humans of 0.45 g/d may be metabolized from pectin found in fruit; One kilogram of apple produces up to 1.4 gram methanol.
+
+2. Toxicity
+
+Methanol has a high toxicity in humans. If as little as 10 mL of pure methanol is ingested, for example, it can break down into formic acid, which can cause permanent blindness by destruction of the optic nerve, and 30 mL is potentially fatal, although the median lethal dose is typically 100 mL (3.4 fl oz) (i.e. 1–2 mL/kg body weight of pure methanol). Reference dose for methanol is 0.5 mg/kg/day. Toxic effects take hours to start, and effective antidotes can often prevent permanent damage. Because of its similarities in both appearance and odor to ethanol (the alcohol in beverages), it is difficult to differentiate between the two (such is also the case with denatured alcohol). However, there are cases of methanol resistance, such as that of Mike Malloy, who was the victim of a failed murder attempt by methanol in the early 1930s.
+
+Methanol is toxic by two mechanisms. First, methanol (whether it enters the body by ingestion, inhalation, or absorption through the skin) can be fatal due to its CNS depressant properties in the same manner as ethanol poisoning. Second, in a process of toxication, it is metabolized to formic acid (which is present as the formate ion) via formaldehyde in a process initiated by the enzyme alcohol dehydrogenase in the liver. Methanol is converted to formaldehyde via alcohol dehydrogenase (ADH) and formaldehyde is converted to formic acid (formate) via aldehyde dehydrogenase (ALDH). The conversion to formate via ALDH proceeds completely, with no detectable formaldehyde remaining. Formate is toxic because it inhibits mitochondrial cytochrome c oxidase, causing the symptoms of hypoxia at the cellular level, and also causing metabolic acidosis, among a variety of other metabolic disturbances.
+
+Methanol poisoning can be treated with the antidotes ethanol or fomepizole. Both drugs act to reduce the action of alcohol dehydrogenase on methanol by means of competitive inhibition, so it is excreted by the kidneys rather than being transformed into toxic metabolites. Further treatment may include giving sodium bicarbonate for metabolic acidosis, and hemodialysis or hemodiafiltration can be used to remove methanol and formate from the blood. Folinic acid or folic acid is also administered to enhance the metabolism of formate.
+
+The initial symptoms of methanol intoxication include central nervous system depression, headache, dizziness, nausea, lack of coordination, and confusion. Sufficiently large doses can cause unconsciousness and death. The initial symptoms of methanol exposure are usually less severe than the symptoms resulting from the ingestion of a similar quantity of ethanol. Once the initial symptoms have passed, a second set of symptoms arises, 10 to as many as 30 hours after the initial exposure to methanol, including blurring or complete loss of vision, acidosis and putaminal hemorrhages, an uncommon but serious complication. These symptoms result from the accumulation of toxic levels of formate in the blood, and may progress to death by respiratory failure. Physical examination may show tachypnea, and ophthalmologic examination may show dilated pupils with hyperemia of the optic disc and retinal edema. Small amounts of methanol are produced by the metabolism of food and are generally harmless, being metabolized quickly and completely.
+
+Ethanol is sometimes denatured (adulterated), and made poisonous, by the addition of methanol. The result is known as methylated spirit, "meths" (British use) or "metho" (Australian slang). These are not to be confused with "meth", a common abbreviation for methamphetamine, and an abbreviation for methadone in Britain.
+
+3. Applications
+
+Methanol, a common laboratory solvent, is especially useful for HPLC, UV/VIS spectroscopy, and LCMS due to its low UV cutoff.
+
+3.1. Feedstock
+
+The largest use of methanol by far is in making other chemicals. About 40% of methanol is converted to formaldehyde, and from there into products as diverse as plastics, plywood, paints, explosives, and permanent press textiles.
+
+Also in the early 1970s, a methanol to gasoline process was developed by Mobil for producing gasoline ready for use in vehicles. One such industrial facility was built at Motunui in New Zealand in the 1980s. In the 1990s, large amounts of methanol were used in the United States to produce the gasoline additive methyl tert-butyl ether (MTBE). While MTBE is no longer marketed in the U.S., it is still widely used in other parts of the world. In addition to direct use as a fuel, methanol (or less commonly, ethanol) is used as a component in the transesterification of triglycerides to yield a form of biodiesel.
+
+Other chemical derivatives of methanol include dimethyl ether, which has replaced chlorofluorocarbons as an aerosol spray propellant, and acetic acid. Dimethyl ether (DME) also can be blended with liquified petroleum gas (LPG) for home heating and cooking, and can be used as a diesel replacement for transportation fuel.
+
+Methanol-to-Olefins/Methanol-to-Propylene (MTO/MTP), among others processes such as: Metathesis, Propane Dehydrogenation (PDH), High Severity FCC, and Olefins Cracking, is a new and novel lower-cost chemical process for on-purpose propylene production technology of high interest to the petrochemical marketplace, to supply the tight market for propylene.
+
+The market became tight because of the ethane prices falling in the USA, due to the exploration of shale gas reserves. The low price ethylene produced from this raw material has given chemical producers in North America a feedstock advantage. Such change has put naphtha-fed steam crackers at a disadvantageous position, with many of them shutting down or revamping to use ethane as feedstock. Nevertheless, the propylene output rates from ethane-fed crackers are negligible.
+
+3.2. Fuel for vehicles
+
+Methanol is used on a limited basis to fuel internal combustion engines. Pure methanol is required by rule to be used in Champcars, Monster Trucks, USAC sprint cars (as well as midgets, modifieds, etc.), and other dirt track series, such as World of Outlaws, and Motorcycle Speedway. Methanol is also used, as the primary fuel ingredient since the late 1940s, in the powerplants for radio control, control line and free flight airplanes (as methanol is required in the engines that primarily power them), cars and trucks, from such an engine's use of a platinum filament glow plug being able to ignite the methanol vapor through a catalytic reaction. Drag racers and mud racers, as well as heavily modified tractor pullers, also use methanol as their primary fuel source. Methanol is required with a supercharged engine in a Top Alcohol Dragster and, until the end of the 2006 season, all vehicles in the Indianapolis 500 had to run methanol. Mud racers have mixed methanol with gasoline with nitrous oxide to produce more power than mixing gasoline and nitrous oxide alone.
+
+One of the potential drawbacks of using high concentrations of methanol (and other alcohols, such as ethanol) in fuel is the corrosivity to some metals of methanol, particularly to aluminium. Methanol, although a weak acid, attacks the oxide coating that normally protects the aluminum from corrosion:
+
+The resulting methoxide salts are soluble in methanol, resulting in a clean aluminium surface, which is readily oxidized by dissolved oxygen. Also, the methanol can act as an oxidizer:
+
+This reciprocal process effectively fuels corrosion until either the metal is eaten away or the concentration of CH3OH is negligible. Concerns with methanol's corrosivity have been addressed by using methanol-compatible materials, and fuel additives that serve as corrosion inhibitors.
+
+When produced from wood or other organic materials, the resulting organic methanol (bioalcohol) has been suggested as renewable alternative to petroleum-based hydrocarbons. Low levels of methanol can be used in existing vehicles, with the use of proper cosolvents and corrosion inhibitors.
+
+Methanol fuel has been proposed for ground transportation. The chief advantage of a methanol economy is that it could be adapted to present internal combustion engines with a minimum of modification in both engines and infrastructure to store and deliver liquid fuel.
+
+3.3. Government policy
+
+The European Fuel Quality Directive allows up to 3% methanol with an equal amount of cosolvent to be blending in gasoline sold in Europe. China uses more than one billion gallons of methanol per year as a transportation fuel in both low level blends used in existing vehicles, and as high level blends in vehicles designed to accommodate the use of methanol fuels.
+
+In the USA in 2011, the Open Fuel Standard Act of 2011 was introduced in the US Congress to encourage car manufacturers to warrant their cars to burn methanol as a fuel in addition to gasoline and ethanol. The bill is being championed by the Open Fuel Standard Coalition.
+
+3.4. Other applications
+
+Methanol is a traditional denaturant for ethanol, the product being known as "denatured alcohol" or "methylated spirit". This was commonly used during the Prohibition to discourage consumption of bootlegged liquor, and ended up causing several deaths.
+
+Methanol is also used as a solvent, and as an antifreeze in pipelines and windshield washer fluid.
+
+In some wastewater treatment plants, a small amount of methanol is added to wastewater to provide a carbon food source for the denitrifying bacteria, which convert nitrates to nitrogen to reduce the nitrification of sensitive aquifers.
+
+During World War II, methanol was used as a fuel in several German military rocket designs, under the name M-Stoff, and in a roughly 50/50 mixture with hydrazine, known as C-Stoff.
+
+Methanol was used as an automobile coolant antifreeze in the early 1900s.
+
+Methanol is used as a denaturing agent in polyacrylamide gel electrophoresis.
+
+Direct-methanol fuel cells are unique in their low temperature, atmospheric pressure operation, allowing them to be miniaturized to an unprecedented degree. This, combined with the relatively easy and safe storage and handling of methanol, may open the possibility of fuel cell-powered consumer electronics, such as for laptop computers and mobile phones.
+
+Methanol is also a widely used fuel in camping and boating stoves. Methanol burns well in an unpressurized burner, so alcohol stoves are often very simple, sometimes little more than a cup to hold fuel. This lack of complexity makes them a favorite of hikers who spend extended time in the wilderness. Similarly, the alcohol can also be gelled to reduce risk of leaking or spilling, as with the brand "Sterno".
+
+Methanol is mixed with water and injected into high performance diesel and gasoline engines for an increase of power and a decrease in intake air temperature in a process known as water methanol injection.
+
+3.5. Energy carrier
+
+Methanol is also useful as an energy carrier. It is easier to store than hydrogen, burns cleaner than fossil fuels, and decomposes to water and carbon dioxide if spilled.
+
+3.6. Safety in automotive fuels
+
+Pure methanol has been used in open wheel auto racing since the mid-1960s. Unlike petroleum fires, methanol fires can be extinguished with plain water. A methanol-based fire burns invisibly, unlike gasoline, which burns with a visible flame. If a fire occurs on the track, there is no flame or smoke to obstruct the view of fast approaching drivers, but this can also delay visual detection of the fire and the initiation of fire suppression. The decision to permanently switch to methanol in American IndyCar racing was a result of the devastating crash and explosion at the 1964 Indianapolis 500, which killed drivers Eddie Sachs and Dave MacDonald. In 2007 IndyCars switched to ethanol.
+
+Methanol is readily biodegradable in both aerobic (oxygen present) and anaerobic (oxygen absent) environments. Methanol will not persist in the environment. The half-life for methanol in groundwater is just one to seven days, while many common gasoline components have half-lives in the hundreds of days (such as benzene at 10–730 days). Since methanol is miscible with water and biodegradable, it is unlikely to accumulate in groundwater, surface water, air or soil.
+
+4. Production
+
+4.1. From synthesis gas
+
+Carbon monoxide and hydrogen react over a catalyst to produce methanol. Today, the most widely used catalyst is a mixture of copper, zinc oxide, and alumina first used by ICI in 1966. At 5–10 MPa (50–100 atm) and 250 °C, it can catalyze the production of methanol from carbon monoxide and hydrogen with high selectivity (>99.8%):
+
+It is worth noting that the production of synthesis gas from methane produces three moles of hydrogen gas for every mole of carbon monoxide, while the methanol synthesis consumes only two moles of hydrogen gas per mole of carbon monoxide. One way of dealing with the excess hydrogen is to inject carbon dioxide into the methanol synthesis reactor, where it, too, reacts to form methanol according to the equation:
+
+Some chemists believe that the certain catalysts synthesize methanol using CO2 as an intermediary, and consuming CO only indirectly.
+
+where the H2O byproduct is recycled via the water-gas shift reaction
+
+This gives an overall reaction, which is the same as listed above.
+
+4.2. From methane
+
+The direct catalytic conversion of methane to methanol using Cu-zeolites or other catalysts is an alternative process for the efficient production of methanol. This is currently an active field of research, however there are challenges including lifetime of the catalysts and use of affordable reactants to oxidise the methane.
+
+4.3. From carbon dioxide
+
+Methanol has been generated directly from carbon dioxide in solution using copper oxide (CuO) nanorods coated by cuprous oxide (Cu2O) and energy from (simulated) sunlight. The process operated with 95% electrochemical efficiency and is claimed to be scalable to industrial size.
+
+4.4. Feedstocks
+
+4.4.1. Production of synthesis gas
+
+Originally, synthesis gas for the production of methanol came from coal. Today, synthesis gas is most commonly produced from the methane component in natural gas, because natural gas contains hydrogen. Three processes are commercially practiced. At moderate pressures of 4 MPa (40 atm) and high temperatures (around 850 °C), methane reacts with steam on a nickel catalyst to produce syngas according to the chemical equation:
+
+This reaction, commonly called steam-methane reforming or SMR, is endothermic, and the heat transfer limitations place limits on the size of and pressure in the catalytic reactors used. Methane can also undergo partial oxidation with molecular oxygen (at atmospheric pressure) to produce syngas, as the following equation shows:
+
+This reaction is exothermic, and the heat given off can be used in-situ to drive the steam-methane reforming reaction. When the two processes are combined, it is referred to as autothermal reforming. The high pressures and high temperatures needed for steam-reforming require a greater capital investment in equipment than is needed for a simple partial-oxidation process; however, the energy-efficiency of steam-reforming is higher than for partial-oxidation, unless the waste-heat from partial-oxidation is used.
+
+4.4.1.1. Stoichiometry adjustment
+
+Stoichiometry for methanol production requires the ratio of H2 / CO to equal 2. The partial oxidation process yields a ratio of 2, and the steam reforming process yields a ratio of 3. The H2 / CO ratio can be lowered to some extent by the reverse water-gas shift reaction,
+
+to provide the appropriate stoichiometry for methanol synthesis.
+
+4.4.1.2. Alternate feedstock materials
+
+Although natural gas is the most economical and widely used feedstock for methanol production, many other feedstocks can be used to produce syngas via steam reforming. Steam-reformed coal is sometimes used as a feedstock for methanol production, particularly in China. In addition, mature technologies available for biomass gasification are being used for methanol production. For instance, woody biomass can be gasified to water gas (a hydrogen-rich syngas), by introducing a blast of steam in a blast furnace. The water-gas / syngas can then be synthesized to methanol using standard methods. The net process is carbon neutral, since the CO2 byproduct is required to produce biomass via photosynthesis. Using a composition for wood of 50% carbon, 42% oxygen, 6% hydrogen we can represent wood with the formula C11H16O7 (we could also use C8H12O5). Then some combination of the following two formal reactions will occur:
+
+5. Quality specifications and analysis
+
+5.1. Methanol for laboratory use
+
+Methanol is available commercially in various purity grades for fine chemicals: 1) “Synthesis” quality (corresponding to normal commercial methanol) 2) Certified analytical quality 3) Extremely pure qualities for semiconductor manufacture
+
+5.2. Commercial methanol
+
+In addition to laboratory grades, commercial methanol is generally classified according to ASTM purity grades A and AA. Methanol for chemical use normally corresponds to Grade AA. In addition to water, typical impurities include acetone (which is very difficult to separate by distillation) and ethanol. When methanol is delivered by ships or tankers used to transport other substances, contamination by the previous cargo must be expected. Comparative ultraviolet spectroscopy has proved a convenient, quick test method for deciding whether a batch can be accepted and loaded.Traces of all chemicals derived from aromatic parent substances, as well as a large number of other compounds, can be detected. Further tests for establishing the quality of methanol include measurements of boiling point range, density, permanganate number, turbidity, color index, and acid number. More comprehensive tests include water determination according to the Karl Fischer method and gas chromatographic determination of byproducts. However, the latter is relatively expensive and time consuming because several injections using different columns and detectors must be made due to the variety of byproducts present.
+
+6. History
+
+In their embalming process, the ancient Egyptians used a mixture of substances, including methanol, which they obtained from the pyrolysis of wood. Pure methanol, however, was first isolated in 1661 by Robert Boyle, when he produced it via the distillation of buxus (boxwood). It later became known as "pyroxylic spirit". In 1834, the French chemists Jean-Baptiste Dumas and Eugene Peligot determined its elemental composition.
+
+They also introduced the word "methylene" to organic chemistry, forming it from Greek methy = "wine" + hȳlē = wood (patch of trees), with Greek language errors: "wood (substance)" (Greek xylon) was intended, and the components are in the wrong order for Greek. The term "methyl" was derived in about 1840 by back-formation from "methylene", and was then applied to describe "methyl alcohol". This was shortened to "methanol" in 1892 by the International Conference on Chemical Nomenclature. The suffix -yl used in organic chemistry to form names of carbon groups, was extracted from the word "methyl".
+
+In 1923, the German chemists Alwin Mittasch and Mathias Pier, working for BASF, developed a means to convert synthesis gas (a mixture of carbon monoxide, carbon dioxide, and hydrogen) into methanol. A patent was filed 12 January 1926 (reference no. 1,569,775). This process used a chromium and manganese oxide catalyst, and required extremely vigorous conditions—pressures ranging from 50 to 220 atm, and temperatures up to 450 °C. Modern methanol production has been made more efficient through use of catalysts (commonly copper) capable of operating at lower pressures. The modern low pressure methanol (LPM) was developed by ICI in the late 1960s with the technology now owned by Johnson Matthey, which is a leading licensor of methanol technology.
+
+Methanol is one of the most heavily traded chemical commodities in the world, with an estimated global demand of around 27 to 29 million metric tons. In recent years, production capacity has expanded considerably, with new plants coming on-stream in South America, China and the Middle East, the latter based on access to abundant supplies of methane gas. Even though nameplate production capacity (coal-based) in China has grown significantly, operating rates are estimated to be as low as 50 to 60%. No new production capacity is scheduled to come on-stream until 2015.
+
+The main applications for methanol are the production of formaldehyde (used in construction and wooden boarding), acetic acid (basis for a.o. PET-bottles), MTBE (fuel component and replacement for the very volatile diethyl ether) and more recently for the formation of methyl esters in the production of bio-diesel. In China, demand is expected to grow exponentially, not only caused by a growing internal market of the traditional applications, but accelerated by new applications, such as direct blending (with gasoline), Methanol-To-Olefins (e.g. propylene) and DME. Methanol can also be used to produce gasoline.
+
+The use of methanol as a motor fuel received attention during the oil crises of the 1970s due to its availability, low cost, and environmental benefits. By the mid-1990s, over 20,000 methanol "flexible fuel vehicles" capable of operating on methanol or gasoline were introduced in the U.S. In addition, low levels of methanol were blended in gasoline fuels sold in Europe during much of the 1980s and early-1990s. Automakers stopped building methanol FFVs by the late-1990s, switching their attention to ethanol-fueled vehicles. While the methanol FFV program was a technical success, rising methanol pricing in the mid- to late-1990s during a period of slumping gasoline pump prices diminished the interest in methanol fuels.
+
+In 2006, astronomers using the MERLIN array of radio telescopes at Jodrell Bank Observatory discovered a large cloud of methanol in space, 288 billion miles across.
+
+7. See also
+
+Methanol (data page)
+
+Methanol epidemic poisonings
+
+Methanol fuel
+
+Deuterated methanol
+
+8. References
+
+9. Further reading
+
+Robert Boyle, The Sceptical Chymist (1661) – contains account of distillation of wood alcohol.
+
+10. External links
+
+Industry trade group, lots of information on methanol's use in fuel cells and as an alternative fuel.
+
+CDC/NIOSH, links to safety information
+
+article by Ford Motor's Roberta Nichols, the mother of the flexible fuel vehicle, discussing Gasoline-Ethanol-Methanol flexibility in the Journal of Scientific & Industrial Research
+
+– National Pollutant Inventory
+
+Calculation of , , , of methanol

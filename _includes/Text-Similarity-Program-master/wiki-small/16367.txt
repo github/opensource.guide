@@ -1,0 +1,300 @@
+A jury trial or trial by jury is a legal proceeding in which a jury either makes a decision or makes findings of fact, which then direct the actions of a judge. It is distinguished from a bench trial, in which a judge or panel of judges make all decisions.
+
+Jury trials are used in a significant share of serious criminal cases in almost all common law legal systems, and juries or lay judges have been incorporated into the legal systems of many civil law countries for criminal cases. Only the United States and Canada make routine use of jury trials in a wide variety of non-criminal cases. Other common law legal jurisdictions use jury trials only in a very select class of cases that make up a tiny share of the overall civil docket (e.g. defamation suits in England and Wales), while true civil jury trials are almost entirely absent elsewhere in the world. Some civil law jurisdictions do, however, have arbitration panels where non-legally trained members decide cases in select subject-matter areas relevant to the arbitration panel members' areas of expertise.
+
+The availability of a trial by jury in American jurisdictions varies. Because the United States system separated from that of the English at the time of the American Revolution, the types of proceedings that use juries depends on whether such cases were tried by jury under English common law at that time, rather than the methods used in English or UK courts in the present. For example, at the time English "courts of law" tried cases of torts or private law for monetary damages but "courts of equity" tried civil cases seeking an injunction or another form of non-monetary relief. As a result, this practice continues in American civil laws, even though in modern English law only criminal proceedings and some inquests are likely to be heard by a jury.
+
+The use of jury trials evolved within common law systems rather than civil law systems, has had a profound impact on the nature of American civil procedure and criminal procedure rules, even in cases where a bench trial is actually contemplated in a particular case. In general, the availability of a jury trial if properly demanded has given rise to a system where fact finding is concentrated in a single trial rather than multiple hearings, and where appellate review of trial court decisions is greatly limited. Jury trials are of far less importance (or of no importance) in countries that do not have a common law system.
+
+1. History
+
+1.1. Greece
+
+Ancient Athens had a mechanism, called dikastaí, to assure that no one could select jurors for their own trial. For normal cases, the courts were made up of dikastai of up to 500 citizens. For capital cases—those that involved death, loss of liberty, exile, loss of civil rights, or seizure of property—the trial was before a jury of 1,001 to 1,501 dikastai. In such large juries, the unanimity rule would be unrealistic and verdicts were reached by majority. Juries were appointed by lot. Jurists cast a ceramic disk with an axle in its middle: the axle was either hollow or solid. Thus the way they voted was kept secret because the jurists would hold their disk by the axle by thumb and forefinger, thus hiding whether its axle was hollow or solid. Since Periclean times, jurists were compensated for their sitting in court, with the amount of one day's wages.
+
+The institution of trial by jury was ritually depicted by Aeschylus in the Eumenides, the third and final play of his Oresteia trilogy. In this play the innovation is brought about by the goddess Athena, who summons twelve citizens to sit as jury. The god Apollo takes part in the trial as the advocate for the defendant Orestes, and the Furies as prosecutors for the slain Clytaemnestra. In the event the jury is split six to six, and Athena dicates that in such a case the verdict should henceforth be for acquittal.
+
+1.2. Rome
+
+From the beginning of the republic and in the majority of civil cases towards the end of the empire, there were tribunals with the characteristics of the jury, the Roman judges being civilian, lay and not professional. Capital trials were held in front of juries composed of hundreds or thousands of people in the commitias or centuries, the same as in Roman trials. Roman law provided for the yearly selection of judices, who would be responsible for resolving disputes by acting as jurors, with a praetor performing many of the duties of a judge. High government officials and their relatives were barred from acting as judices, due to conflicts of interest. Those previously found guilty of serious crimes (felonies) were also barred as were gladiators for hire, who likely were hired to resolve disputes through trial by combat. The law was as follows:
+
+The peregrine praetor (literally, traveling judge) within the next ten days after this law is passed by the people or plebs shall provide for the selection of 450 persons in this State who have or have had a knight's census... provided that he does not select a person who is or has been plebeian tribune, quaestor, triumvir capitalis, military tribune in any of the first four legions, or triumvir for granting and assigning lands, or who is or has been in the Senate, or who has fought or shall fight as a gladiator for hire... or who has been condemned by the judicial process and a public trial whereby he cannot be enrolled in the Senate, or who is less than thirty or more than sixty years of age, or who does not have his residence in the city of Rome or within one mile of it, or who is the father, brother, or son of any above-described magistrate, or who is the father, brother, or son of a person who is or has been a member of the Senate, or who is overseas.
+
+1.3. Holy Roman Empire
+
+A Swabian ordinance of 1562 called for the summons of jurymen (), and various methods were in use in Emmendingen, Oppenau, and Oberkirch. Hauenstein's charter of 1442 secured the right to be tried in all cases by 24 fellow equals, and in Friburg the jury was composed of 30 citizens and councilors. The modern jury trial was first introduced in the Rhenish provinces in 1798, with a court consisting most commonly of 12 citizens ().
+
+The system whereby citizens were tried by their peers chosen from the entire community in open court was gradually superseded by an "engine of tyranny and oppression" in Germany, in which the process of investigation was secret and life and liberty depended upon judges appointed by the state. In Constance the jury trial was suppressed by decree of the Habsburg Monarchy in 1786. The Frankfurt Constitution of the failed Revolutions of 1848 called for jury trials for "the more serious crimes and all political offenses," but was never implemented after the Frankfurt Parliament was dissolved by Württemberg dragoons. An 1873 draft on criminal procedure produced by the Prussian Ministry of Justice proposed to abolish the jury and replace it with the mixed system, causing a significant political debate. In the Weimar Republic the jury was abolished by the Emminger Reform of 4 January 1924.
+
+Between 1948 and 1950 in American-occupied Germany and the Federal Republic of Germany, Bavaria returned to the jury trial as it had existed before the emergency decrees, but they were again abolished by the 1950 Unification Act () for the Federal Republic. In 1979, the United States tried the East German LOT Flight 165 hijacking suspects in the United States Court for Berlin in West Berlin, which declared the defendants had the right to a jury trial under the United States Constitution, and hence were tried by a West German jury.
+
+1.4. England and Wales
+
+According to George Macaulay Trevelyan in A Shortened History of England, during the Viking occupation: “The Scandinavians, when not on the Viking warpath, were a litigious people and loved to get together in the ‘thing’ to hear legal argument. They had no professional lawyers, but many of their farmer-warriors, like Njal, the truth-teller, were learned in folk custom and in its intricate judicial procedure. A Danish town in England often had, as its main officers, twelve hereditary ‘law men.’ The Danes introduced the habit of making committees among the free men in court, which perhaps made England favorable ground for the future growth of the jury system out of a Frankish custom later introduced by the Normans.” The English king Æthelred the Unready set up an early legal system through the Wantage Code of Ethelred, one provision of which stated that the twelve leading thegns (minor nobles) of each wapentake (a small district) were required to swear that they would investigate crimes without a bias. These juries differed from the modern sort by being self-informing; instead of getting information through a trial, the jurors were required to investigate the case themselves.
+
+In the 12th century, Henry II took a major step in developing the jury system. Henry II set up a system to resolve land disputes using juries. A jury of twelve free men were assigned to arbitrate in these disputes. As with the Saxon system, these men were charged with uncovering the facts of the case on their own rather than listening to arguments in court. Henry II also introduced what is now known as the "grand jury" through his Assize of Clarendon. Under the assize, a jury of free men was charged with reporting any crimes that they knew of in their hundred to a "justice in eyre," a judge who moved between hundreds on a circuit. A criminal accused by this jury was given a trial by ordeal.
+
+The Church banned participation of clergy in trial by ordeal in 1215. Without the legitimacy of religion, trial by ordeal collapsed. The juries under the assizes began deciding guilt as well as providing accusations. The same year, trial by jury became an explicit right in one of the most influential clauses of Magna Carta, signed by King John. Article 39 of the Magna Carta read:
+
+Nullus liber homo capiatur, vel imprisonetur, aut desseisetur de libero tenemento, vel libertatibus, vel liberis consuetudinibus suis, sut utlagetur, aut exuletur, aut aliquo modo destruatur, nec super eum ibimus, nec super eum mittemus, nisi per legale judicium parium suorum, vel per legem terrae. It is translated thus by Lysander Spooner in his Essay on the Trial by Jury: "No free man shall be captured, and or imprisoned, or disseised of his freehold, and or of his liberties, or of his free customs, or be outlawed, or exiled, or in any way destroyed, nor will we proceed against him by force or proceed against him by arms, but by the lawful judgment of his peers, and or by the law of the land." Although it says and or by the law of the land, this in no manner can be interpreted as if it were enough to have a positive law, made by the king, to be able to proceed legally against a citizen. The law of the land was the consuetudinary law, based on the customs and consent of John’s subjects, and since they did not have Parliament in those times, this meant that neither the king nor the barons could make a law without the consent of the people. According to some sources, in the time of Edward III, by the law of the land had been substituted by due process of law, which in those times was a trial by twelve peers.
+
+The Magna Carta of 1215 further secured trial by jury by stating that
+
+During the mid-14th Century, it was forbidden that persons who had sat on the Presenting Jury (i.e., in modern parlance, the Grand Jury) to sit on the trial jury for that crime. 25 Edward III stat 5., c3 (1353). Medieval juries were self-informing, in that individuals were chosen as jurors because they either knew the parties and the facts, or they had the duty to discover them. This spared the government the cost of fact-finding. Over time, English juries became less self-informing and relied more on the trial itself for information on the case. Jurors remained free to investigate cases on their own until the 17th century. The Magna Carta being forgotten after a succession of benevolent reigns (or, more probably, reigns limited by the jury and the barons, and only under the rule of laws that the juries and barons found acceptable), the kings, through the royal judges, began to extend their control over the jury and the kingdom. In David Hume's History of England, he tells something of the powers that the kings had accumulated in the times after the Magna Carta, the prerogatives of the crown and the sources of great power with which these monarchs counted:
+
+The first paragraph of the Act that abolished the Star Chamber repeats the clause on the right of a citizen to be judged by his peers: Abolition of the Star Chamber July 5, 1641
+An act for the regulating of the privy council, and for taking away the court commonly called the star-chamber. In 1670 two Quakers charged with unlawful assembly, William Penn and William Mead, were found not guilty by a jury. The judge then fined the jury for contempt of court for returning a verdict contrary to their own findings of fact and removed them to prison until the fine was paid. Edward Bushel, a member of the jury, nonetheless refused to pay the fine. Bushel petitioned the Court of Common Pleas for a writ of habeas corpus. The ruling in the Bushel's Case was that a jury could not be punished simply on account of the verdict it returned.
+
+Many British colonies, including the United States, adopted the English common law system in which trial by jury is an important part. Jury trials in criminal cases were a protected right in the original United States Constitution and the Fifth, Sixth, and Seventh Amendments of the US Constitution extend the rights to trial by jury to include the right to jury trial for both criminal and civil matters and a grand jury for serious cases.
+
+2. The role of jury trials
+
+In most common law jurisdictions, the jury is responsible for finding the facts of the case, while the judge determines the law. These "peers of the accused" are responsible for listening to a dispute, evaluating the evidence presented, deciding on the facts, and making a decision in accordance with the rules of law and their jury instructions. Typically, the jury only judges guilt or a verdict of not guilty, but the actual penalty is set by the judge. An interesting innovation was introduced in Russia in the judicial reform of Alexander II: unlike in modern jury trials, jurors decided not only whether the defendant was guilty or not guilty, but they had the third choice: "Guilty, but not to be punished," since Alexander II believed that justice without morality is wrong.
+
+In France and some countries organized in the same fashion, the jury and several professional judges sit together to determine guilt first. Then, if guilt is determined, they decide the appropriate penalty. Some jurisdictions with jury trials allow the defendant to waive their right to a jury trial, this leading to a bench trial. Jury trials tend to occur only when a crime is considered serious. In some jurisdictions, such as France and Brazil, jury trials are reserved, and compulsory, for the most severe crimes and are not available for civil cases. In Brazil, for example, trials by jury are applied in cases of voluntary crimes against life, such as First and Second-degree murders, forced abortion and instigation of suicide, even if only attempted. In others, such as the United Kingdom, jury trials are only available for criminal cases and very specific civil cases (defamation, malicious prosecution, civil fraud and false imprisonment). In the United States, jury trials are available in both civil and criminal cases. In Canada, an individual charged with an indictable offence may elect to be tried by a judge alone in a provincial court, by judge alone in a superior court, or by judge and jury in a superior court; summary offences cannot be tried by jury.
+
+In the United States, because jury trials tend to be high profile, the general public tends to overestimate the frequency of jury trials. Approximately 150,000 jury trials are conducted in state courts annually, and an additional 5,000 jury trials are conducted in federal courts. Two-thirds of jury trials are criminal trials, while one-third are civil and "other" (e.g., family, municipal ordinance, traffic). Nevertheless, the vast majority of criminal cases are settled by plea bargain, which removes the need for a jury trial.
+
+Some commentators contend that the guilty-plea system unfairly coerces defendants into relinquishing their right to a jury trial. Others contend that there never was a golden age of jury trials, but rather that juries in the early nineteenth century (before the rise of plea bargaining) were "unwitting and reflexive, generally wasteful of public resources and, because of the absence of trained professionals, little more than slow guilty pleas themselves," and that the guilty-plea system that emerged in the latter half of the nineteenth century was a superior, more cost-effective method of achieving fair outcomes.
+
+3. Pros and cons
+
+In countries where jury trials are common, juries are often seen as an important check against state power. Other common assertions about the benefits of trial by jury is that it provides a means of interjecting community norms and values into judicial proceedings and that it legitimizes the law by providing opportunities for citizens to validate criminal statutes in their application to specific trials. Alexis de Tocqueville also claimed that jury trials educate citizens about self-government. Many also believe that a jury is likely to provide a more sympathetic hearing, or a fairer one, to a party who is not part of the governmentor other establishment interestthan would representatives of the state.
+
+This last point may be disputed. For example, in highly emotional cases, such as child rape, the jury may be tempted to convict based on personal feelings rather than on conviction beyond reasonable doubt. In France, former attorney, then later minister of Justice Robert Badinter, remarked about jury trials in France that they were like "riding a ship into a storm," because they are much less predictable than bench trials.
+
+Another issue with jury trials is the potential for jurors to be swayed by prejudice, including racial considerations. An infamous case was the 1992 trial in the Rodney King case in California, in which white police officers were acquitted of excessive force in the violent beating of a black man by a jury consisting mostly of whites without any black jurors.
+
+The positive belief about jury trials in the UK and the US contrasts with popular belief in many other nations, in which it is considered bizarre and risky for a person's fate to be put into the hands of untrained laymen. Consider Japan, for instance, which used to have optional jury trials for capital or other serious crimes between 1928 and 1943. The defendant could freely choose whether to have a jury or trial by judges, and the decisions of the jury were non-binding. During the Tōjō-regime this was suspended, arguably stemming from the popular belief that any defendant who risks his fate on the opinions of untrained laymen is almost certainly guilty. Similarly, jury trials were abolished by the government of India in 1960 (this was followed by Pakistan soon afterwards) on the grounds they would be susceptible to media and public influence. One Pakistani Judge called a trial by jury "amateur justice." Malaysia abolished its jury system on 1 January 1995, citing inter alia the danger of jurors untrained in the legal profession delivering verdicts colored by emotions or popular perception. One of the last trials-by-jury in Malaysia was the notorious Mona Fandey case in 1994.
+
+Jury trials in multi-cultural countries with a history of ethnic tensions may be problematic, and lead to juries being unduly biased and partial. This is one of the reasons why both India and Pakistan abolished jury trials soon after independence. Indeed, in these countries, a jury trial is seen as a failing of some foreign legal system rather than an advantage; this is despite the fact that both nations are common law countries.
+
+A major issue in jury trials is the secretive nature of the process. While proponents may say that secrecy allows the jury to remain impartial by protecting it from undue pressure or attention, opponents contend that this prevents there from being a transparent trial. The fact that juries do not often have to give a reason for their verdict is also criticized, since opponents argue it is unfair for a person to be deprived of life, liberty or property without being told why it is being done so. In contrast where there is a decision by a judge or judges, they are required to provide often detailed reasons of both fact and law as to why their decision was made.
+
+One issue that has been raised is the ability of a jury to fully understand statistical or scientific evidence. It has been said that the expectation of jury members as to the explanatory power of scientific evidence has been raised by television in what is known as the CSI effect. In at least one English trial the misuse or misunderstanding or misrepresentation by the prosecution of statistics has led to wrongful conviction.
+
+4. The jury trial in various jurisdictions
+
+4.1. Australia
+
+The Australian Constitution provides that: "80. The trial on indictment of any offence against any law of the Commonwealth shall be by jury, and every such trial shall be held in the State where the offence was committed, and if the offence was not committed within any State the trial shall be held at such place or places as the Parliament prescribes."
+
+The first trials by civilian juries of 12 in the colony of New South Wales were held in 1824, following a decision of the NSW Supreme Court on 14 October 1824. The NSW Constitution Act of 1828 effectively terminated trial by jury for criminal matters. Jury trials for criminal matters revived with the passing of the Jury Trials Amending Act of 1833 (NSW) (2 William IV No 12).
+
+4.1.1. Challenging potential jurors
+
+The voir dire system of examining the jury pool before selection is not permitted in Australia as it violates the privacy of jurors. Therefore, though it exists, the right to challenge for cause during jury selection cannot be employed much. Peremptory challenges are usually based on the hunches of the counsels and no reason is needed to use them. All Australian states allow for peremptory challenges in jury selection, however, the number of challenges granted to the counsels in each state are not all the same. Until 1987 New South Wales had twenty peremptory challenges for each side where the offence was murder, and eight for all other cases. In 1987 this was lowered to three peremptory challenges per side, the same amount allowed in South Australia. Eight peremptory challenges are allowed for both counsels for all offences in Queensland. Victoria, Tasmania and the Northern Territory allow for six. Western Australia allows five peremptory challenges per side, according to section 104 of the Criminal Procedure Act 2004 (WA).
+
+4.1.2. Majority and unanimous verdicts in criminal trials
+
+In Australia majority verdicts are allowed in South Australia, Victoria, Western Australia, Tasmania, the Northern Territory, New South Wales and Queensland, while the ACT require unanimous verdicts. Since 1927 South Australia has permitted majority verdicts of 11:1, and 10:1 or 9:1 where the jury has been reduced, in criminal trials if a unanimous verdict cannot be reached in four hours. They are accepted in all cases except for "guilty" verdicts where the defendant is on trial for murder or treason. Victoria has accepted majority verdicts with the same conditions since 1994, though deliberations must go on for six hours before a majority verdict can be made. Western Australia accepted majority verdicts in 1957 for all trials except where the crime is murder or has a life sentence. A 10:2 verdict is accepted. Majority verdicts of 10:2 have been allowed in Tasmania since 1936 for all cases except murder and treason if a unanimous decision has not been made within two hours. Since 1943 verdicts of “not guilty” for murder and treason have also been included, but must be discussed for six hours. The Northern Territory has allowed majority verdicts of 10:2, 10:1 and 9:1 since 1963 and does not discriminate between cases whether the charge is murder or not. Deliberation must go for at least six hours before delivering a majority verdict. Majority verdicts were introduced in New South Wales in 2005 (see Jury Act 1977 (NSW), s 55F).
+
+4.2. Austria
+
+Austria, in common with a number of European civil law jurisdictions, retains elements of trial by jury in serious criminal cases.
+
+4.3. Belgium
+
+Belgium, in common with a number of European civil law jurisdictions, retains the trial by jury through the Court of Assize for serious criminal cases and for political crimes and for press delicts (except those based on racism or xenophobia), and for crimes of international law, such as genocide and crime against humanity.
+
+4.4. Canada
+
+Under Canadian law, a person has the right to a jury trial for all crimes punishable by five years of imprisonment or more.
+
+4.5. France
+
+In France, a defendant is entitled to a jury trial only when prosecuted for a felony (crime in French) that is an offence which may bring least 15 years' imprisonment (for natural persons) or a fine of €75,000 (for juristic persons). The only court that tries by jury is the cour d'assises, in which three professional judges sit together with six or nine jurors. Conviction requires a two-thirds majority (six or eight votes).
+
+4.6. Greece
+
+The country that originated the concept of the jury trial retains it in an unusual form. Serious crimes in Greece are tried by a panel of three professional judges and four lay jurors who decide the facts, and the appropriate penalty if they convict.
+
+4.7. Gibraltar
+
+Being a Common Law jurisdiction, Gibraltar retains jury trial in a similar manner to that found in England and Wales, the exception being that juries consist of nine lay people, rather than twelve.
+
+4.8. Hong Kong
+
+Hong Kong, as a former British colony has a common law legal system. Article 86 of Hong Kong's Basic Law, which came into force on 1 July 1997 following the handover of Hong Kong from Britain to China provides: "The principle of trial by jury previously practised in Hong Kong shall be maintained."
+
+Criminal trials in the High Court are by jury. The juries are generally made of seven members, who can return a verdict based on a majority of five.
+
+There are no jury trials in the District Court, which can impose a sentence of up to seven years imprisonment. This is despite the fact that all court rooms in the District Court have jury boxes. The lack of juries in the District Court has been severely criticized. Clive Grossman SC in a commentary in 2009 said conviction rates were "approaching those of North Korea."
+
+Many complex commercial cases are prosecuted in the District Court rather than before a jury in the High Court. In 2009, Lily Chiang, former chairwoman of the Hong Kong General Chamber of Commerce, lost an application to have her case transferred from the District Court to the High Court for a jury trial. Justice Wright in the Court of First Instance held that there was no absolute right to a trial by jury and that the "decision as to whether an indictable offence be tried in the Court of First Instance by a judge and jury or in the District Court by a judge alone is the prerogative of the Secretary for Justice." Ms Chiang issued a statement at the time saying "she was disappointed with the judgment because she has been deprived of a jury trial, an opportunity to be judged by her fellow citizens and the constitutional benefit protected by the Basic Law."
+
+In civil cases in the Court of First Instance jury trials are available for defamation, false imprisonment, malicious prosecution or seduction unless the court orders otherwise . A jury can return a majority verdict in a civil case.
+
+4.9. India
+
+The first case decided by an English jury in India happened in Madras (today Chennai) in 1665, for which Ascentia Dawes (probably a British woman) was charged by a grand jury with the murder of her slave girl, and a petty jury, with six Englishmen and six Portuguese, found her not guilty. With the development of the East India Company empire in India, the jury system was implemented inside a dual system of courts: In Presidency Towns (Calcutta, Madras, Bombay), there were Crown Courts and in criminal cases juries had to judge British and European people (as a privilege) and in some cases Indian people; and in the territories outside the Presidency Towns (called "moffussil"), there were Company Courts (composed with Company officials) without jury to judge most of the cases implying indigenous people.
+
+After the Crown Government of India (Raj) adopted the Indian Penal Code (1860) and the Indian Code of Criminal Procedure (1861, amended in 1872, 1882, 1898), the criminal jury was obligatory only in the High Courts of the Presidency Towns; elsewhere, it was optional and rarely used. According sections 274 and 275 of the Code of Criminal Procedure, the jury was composed from 3 (for smaller offences judged in session courts) to 9 (for severe offences judges in High Courts) men; and when the accused were European or American, at least half of the jurors had to be European or American men.
+
+The jury found no place in the 1950 Indian Constitution, and it was ignored in many Indian states. The Law Commission recommended its abolition in 1958 in its 14th Report. Jury trials were abolished in India by a very discrete process during the 1960s, finishing with the 1973 Code of Criminal Procedure, which is still in force today.
+
+It has been argued that the 8:1 acquittal of Kawas Nanavati in K. M. Nanavati vs. State of Maharashtra, which was overturned by higher courts on the grounds that the jury was misled by the presiding judge and were susceptible to media and public influence, was the reason. A study by Elisabeth Kolsky argues that many "perverse verdicts" were delivered by white juries in trial of "European British subjects" charged with murder, assault, confinement of Indians.
+
+4.10. Ireland
+
+In the Republic of Ireland, a common law jurisdiction, jury trials are available for criminal cases before the Circuit Court, Central Criminal Court and defamation cases, consisting of twelve jurors.
+
+Juries only decide questions of fact; they have no role in criminal sentencing in criminal cases or awarding damages in libel cases. It is not necessary that a jury be unanimous in its verdict. In civil cases, a verdict may be reached by a majority of nine of the twelve members. In a criminal case, a verdict need not be unanimous where there are not fewer than eleven jurors if ten of them agree on a verdict after considering the case for a reasonable time.
+
+Juries are selected from a jury panel, which is picked at random by the county registrar from the electoral register. The principal statute regulating the selection, obligations and conduct of juries is the Juries Act 1976 as amended by the Civil Law (Miscellaneous Provisions) Act 2008, which scrapped the upper age limit of 70. Juries are not paid, nor do they receive travel expenses. They do receive lunch for the days that they are serving; however, for jurors in employment, their employer is required to pay them as if they were present at work.
+
+For certain terrorist and organised crime offences the Director of Public Prosecutions may issue a certificate that the accused be tried by the Special Criminal Court composed of three judges instead of a jury, one from the District Court, Circuit Court and High Court.
+
+4.11. Italy
+
+The Corte d'Assise is composed of 2 judges and 6 laypersons chosen at random among Italian citizens 30 to 65 years old. Only serious crimes like murder can be tried by the Corte d'Assise.
+
+4.12. Japan
+
+On May 28, 2004, the Diet of Japan enacted a law requiring selected citizens to take part in criminal court trials of certain severe crimes to make decisions together with professional judges, both on guilt and on the sentence. These citizens are called saiban-in (裁判員 "lay judge"). The saiban-in system was implemented in May 2009.
+
+4.13. New Zealand
+
+New Zealand previously required jury verdicts to be passed unanimously, but since the passing of the Criminal Procedure Bill in 2009 the Juries Act 1981 has permitted verdicts to be passed by a majority of one less than the full jury (that is an 11-1 or a 10-1 majority) under certain circumstances.
+
+4.14. Norway
+
+Norway has a system where the lower courts (tingrett) is set with a judge and two lay-judges, or in bigger cases two judges and three lay-judges. All of these judges convict or acquit, and set sentences. Simple majority is required in all cases, which means that the lay-judges are always in control.
+
+In the higher court/appellate court (lagmannsrett) there is a jury (lagrette) of 10 members, which need a minimum of seven votes to be able to convict. The judges have no say in the jury deliberations, but jury-instructions are given by the chief-judge (lagmann) in each case to the jury before deliberations. The voir-dire is usually set with 16 prospective jurors, which the prosecution and defense may dismiss the 6 persons they do not desire to serve on the jury.
+
+This court (lagmannsretten) is administered by a three-judge panel (usually 1 lagmann and 2 lagdommere), and if 7 or more jury members want to convict, the sentence is set in a separate proceeding, consisting of the three judges and the jury foreman (lagrettens ordfører) and three other members of the jury chosen by ballot. This way the laymen are in control of both the conviction and sentencing, as simple majority is required in sentencing.
+
+The three-judge panel can set aside a jury conviction or acquittal if there has been an obvious miscarriage of justice. In that event, the case is settled by three judges and four lay-judges.
+
+4.15. Russia
+
+In the judiciary of Russia, for serious crimes the accused have the option of a jury trial consisting of 12 jurors. The number of jury trials remains small, at about 600 per year, out of about 1 million trials. A juror must be 25 years old, legally competent, and without a criminal record. The 12 jurors are selected by the prosecution and defense from a list of 30-40 eligible candidates. The Constitution of Russia stipulates that, until the abolition of the death penalty, all defendants in a case that may result in a death sentence are entitled to a jury trial. Lawmakers are continuously chipping away at what types of criminal offenses merit a jury trial.
+
+They are similar to common law juries, and unlike lay judges, in that they sit separately from the judges and decide questions of fact alone while the judge determines questions of law. They must return unanimous verdicts during the first 3 hours of deliberation, but may return majority verdicts after that, with 6 jurors being enough to acquit. They may also request that the judge show leniency in sentencing.
+
+Juries have granted acquittals in 15-20% of cases, compared with less than 1% in cases decided by judges. Juries may be dismissed and skeptical juries have been dismissed on the verge of verdicts, and acquittals are frequently overturned by higher courts.
+
+Trial by jury was first introduced in the Russian Empire as a result of the Judicial reform of Alexander II in 1864, and abolished after the October Revolution in 1917. They were reintroduced in the Russian Federation in 1993, and extended to another 69 regions in 2003. Its reintroduction was opposed by the Prosecutor General.
+
+4.16. Singapore
+
+In Singapore, the jury system was abolished in 1969. Jury trials for all had been earlier abolished in 1959, except for capital offenses with death penalty. As Prime Minister Lee Kuan Yew described to the BBC and in his memoirs, due to his experiences as a trial lawyer, "I had no faith in a system that allowed the superstition, ignorance, biases, and prejudices of seven jurymen to determine guilt or innocence."
+
+4.17. South Africa
+
+The jury system was abolished in South Africa in 1969 by the Abolition of Juries Act, 1969. The last jury trial to be heard was in the District of Kimberley. Some judicial experts had argued that a system of whites-only juries (as was the system at that time) was inherently prejudicial to 'non-white' defendants (the introduction of nonracial juries would have been a political impossibility at that time). More recently it has been argued that, apart from being a racially divided country, South African society was, and still is, characterized by significant class differences and disparities of income and wealth that could make re-introducing the jury system problematic. Arguments for and against the re-introduction of a jury system have been discussed by South African constitutional expert Professor Pierre de Vos in the article "Do we need a jury system?" On 28 March 2014, the Oscar Pistorius trial was adjourned due to the illness of one of the two assessors that assist the Judge on questions of fact (rather than law), in place of the jury, to reach a verdict. The legal system in the UK sees no reason to block extradition on this, as witnessed in the Shrien Dewani case.
+
+4.18. Sweden
+
+In Sweden, juries are uncommon; the public is represented in the courts by means of lay judges (nämndemän). However, the defendant has the right to a jury trial in the lower court (tingsrätt) when accused of an offense against the fundamental laws on freedom of expression and freedom of the press. If a person is accused of e.g. libel or incitement to ethnic or racial hatred, in a medium covered by the fundamental laws (e.g. a printed paper or a radio programme), she has the right to have the accusation tried by a jury of nine jurors. This applies also in civil (tort) cases under the fundamental laws. A majority of at least six jurors must find that the defendant has committed the alleged crime. If it does not, the defendant is acquitted or, in a civil case, held not liable. If such a majority of the jurors hold that said crime has in fact been committed, this finding is not legally binding for the court; thus, the court (three judges) can still acquit the defendant or find her not liable. A jury acquittal may not be overruled after appeal. In Swedish civil process, the "English rule" applies to court costs. Earlier, a court disagreeing with a jury acquittal could, when deciding on the matter of such costs, set aside the English rule, and instead use the American rule, that each party bears its own expense of litigation. This practice was declared to violate the rule of presumption of innocence according to article 6.2. of the European Convention on Human Rights, by the Supreme Court of Sweden, in 2012.
+
+4.19. Switzerland
+
+As of 2008, only the code of criminal procedure of the Canton of Geneva provides for genuine jury trials. Several other cantons – Vaud, Neuchâtel, Zürich and Ticino – provide for courts composed of both professional judges and laymen (Schöffengerichte / tribunaux d'échevins). Because the unified Swiss Code of Criminal Procedure (set to enter into force in 2011) does not provide for jury trials or lay judges, however, they are likely to be abolished in the near future.
+
+4.20. United Kingdom
+
+The United Kingdom consists of three separate legal jurisdictions, but there are some features common to all of them. In particular there is seldom anything like the US voir dire system; jurors are usually just accepted without question. Controversially, in England there has been some screening in sensitive security cases, but the Scottish courts have firmly set themselves against any form of jury vetting.
+
+4.20.1. England and Wales
+
+In England and Wales (which have the same legal system), minor criminal cases are heard without a jury in the Magistrates' Courts. Middle-ranking ("triable either way") offences may be tried by magistrates or the defendant may elect trial by jury in the Crown Court. Serious ("indictable") offences, however, must be tried before a jury in the Crown Court. Juries sit in a few civil cases, in particular, defamation and cases involving the state. Juries also sit in coroner's courts for more contentious inquests. All criminal juries consist of 12 jurors, those in a County Court having 8 jurors and Coroner's Court juries having between 7 and 11 members. Jurors must be between 18–70 years of age, and are selected at random from the register of voters. In the past a unanimous verdict was required. This has been changed so that, if the jury fails to agree after a given period, at the discretion of the judge they may reach a verdict by a 10-2 majority. This was designed to make it more difficult for jury tampering to succeed.
+
+In 1999 the then Home Secretary Jack Straw introduced a controversial bill to limit the right to trial by jury. This became the Criminal Justice Act 2003, which sought to remove the right to trial by jury for cases involving jury tampering or complex fraud. The provision for trial without jury to circumvent jury tampering succeeded and came into force in 2007, the provision for complex fraud cases was defeated. Lord Goldsmith, the then Attorney General, then pressed forward with the Fraud (Trials Without a Jury) Bill in Parliament, which sought to abolish jury trials in major criminal fraud trials. The Bill was subject to sharp criticism from both sides of the House of Commons before passing its second Commons reading in November 2006, but was defeated in the Lords in March 2007.
+
+The first serious offence to be tried without a jury for 350 years was allowed to go ahead in 2009. Three previous trials of the defendants had been halted because of jury tampering, and the Lord Chief Justice, Lord Judge, cited cost and the additional burden on the jurors as reasons to proceed without a jury. Previously in cases where jury tampering was a concern the jurors were sometimes closeted in a hotel for the duration of the trial. However, Liberty director of policy Isabella Sankey said that "This is a dangerous precedent. The right to jury trial isn't just a hallowed principle but a practice that ensures that one class of people don't sit in judgement over another and the public have confidence in an open and representative justice system.
+
+The trial started in 2010, with the four defendants convicted on the 31st of March 2010 by Mr Justice Treacy at the Old Bailey.
+
+4.20.2. Scotland
+
+In Scots law the jury system has some similarities with England but some important differences, in particular there are juries of 15 in criminal trials, with verdicts by simple majority.
+
+4.20.3. Northern Ireland
+
+In Northern Ireland, the role of the jury trial is roughly similar to England and Wales, except that jury trials have been replaced in cases of alleged terrorist offences by courts where the judge sits alone, known as Diplock courts. Diplock courts are common in Northern Ireland for crimes connected to terrorism.
+
+Diplock courts were created in the 1970s during The Troubles, to phase out Operation Demetrius internments, and because of the argument that juries were intimidated, though this is disputed. The Diplock courts were shut in 2007, but between 1 August 2008 and 31 July 2009, 13 non-jury trials were held, down from 29 in the previous year, and 300 trials per year at their peak.
+
+4.21. United States
+
+In the United States, every person accused of a crime punishable by incarceration for more than six months has a constitutional right to a trial by jury, which arises in federal court from Article Three of the United States Constitution, which states in part, "The Trial of all Crimes...shall be by Jury; and such Trial shall be held in the State where the said Crimes shall have been committed." The right was expanded with the Sixth Amendment to the United States Constitution, which states in part, "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the state and district wherein the crime shall have been committed." Both provisions were made applicable to the states through the Fourteenth Amendment. Most states' constitutions also grant the right of trial by jury in lesser criminal matters, though most have abrogated that right in offenses punishable by fine only. The Supreme Court has ruled that if imprisonment is for six months or less, trial by jury is not required, meaning a state may choose whether or not to permit trial by jury in such cases. Under the Federal Rules of Criminal Procedure, if the defendant is entitled to a jury trial, he may waive his right to have a jury, but both the government (prosecution) and court must consent to the waiver. Several states require jury trials for all crimes, "petty" or not.
+
+In the cases Apprendi v. New Jersey, , and Blakely v. Washington, , the Supreme Court of the United States held that a criminal defendant has a right to a jury trial not only on the question of guilt or innocence, but any fact used to increase the defendant's sentence beyond the maximum otherwise allowed by statutes or sentencing guidelines. This invalidated the procedure in many states and the federal courts that allowed sentencing enhancement based on "a preponderance of evidence," where enhancement could be based on the judge's findings alone. Depending upon the state, a jury must be unanimous for either a guilty or not guilty decision. A hung jury results in the defendants release, however charges against the defendant are not dropped and can be reinstated if the state so chooses.
+
+Jurors in some states are selected through voter registration and drivers' license lists. A form is sent to prospective jurors to pre-qualify them by asking the recipient to answer questions about citizenship, disabilities, ability to understand the English language, and whether they have any conditions that would excuse them from being a juror. If they are deemed qualified, a summons is issued.
+
+English common law and the United States Constitution recognize the right to a jury trial to be a fundamental civil liberty or civil right that allows the accused to choose whether to be judged by judges or a jury.
+
+In America, it is understood that juries usually weigh the evidence and testimony to determine questions of fact, while judges usually rule on questions of law, although the dissenting justices in the Supreme Court case Sparf et al. v. U.S. 156 U.S. 51 (1895), generally considered the pivotal case concerning the rights and powers of the jury, declared: "It is our deep and settled conviction, confirmed by a re-examination of the authorities that the jury, upon the general issue of guilty or not guilty in a criminal case, have the right, as well as the power, to decide, according to their own judgment and consciences, all questions, whether of law or of fact, involved in that issue." Jury determination of questions of law, sometimes called jury nullification, cannot be overturned by a judge if doing so would violate legal protections against double jeopardy. Although a judge can throw out a guilty verdict if it was not supported by the evidence, a jurist has no authority to override a verdict that favors a defendant.
+
+It was established in Bushel's Case that a judge cannot order the jury to convict, no matter how strong the evidence is. In civil cases a special verdict can be given, but in criminal cases a general verdict is rendered, because requiring a special verdict could apply pressure to the jury, and because of the jury's historic function of tempering rules of law by common sense brought to bear upon the facts of a specific case. For this reason, Justice Black and Justice Douglas indicated their disapproval of special interrogatories even in civil cases.
+
+There has been much debate about the advantages and disadvantages of the jury system, the competence or lack thereof of jurors as fact-finders, and the uniformity or capriciousness of the justice they administer. The jury has been described as "an exciting and gallant experiment in the conduct of serious human affairs." As fact-finders, juries are expected to fulfill the role of lie detector.
+
+A civil jury is typically made up of 6 to 12 persons. In a civil case, the role of the jury is to listen to the evidence presented at a trial, to decide whether the defendant injured the plaintiff or otherwise failed to fulfill a legal duty to the plaintiff, and to determine what the compensation or penalty should be.
+
+A criminal jury is usually made up of 12 members, though fewer may sit on cases involving lesser offenses. Criminal juries decide whether the defendant committed the crime as charged. The sentence may be set by either the jury or the judge; generally, in felony cases the jury sets punishment while in lesser offenses it may be set by the judge.
+
+Verdicts in criminal cases must be unanimous. In civil cases, the law (or the agreement of the parties) may permit a non-unanimous verdict.
+
+A jury's deliberations are conducted in private, out of sight and hearing of the judge, litigants, witnesses, and others in the courtroom.
+
+Not every case is eligible for a jury trial. In the majority of US states, there is no right to a jury trial in family law actions not involving a termination of parental rights, such as divorce and custody modifications. Only eleven states allow juries in any aspect of divorce litigation (Colorado, Georgia, Illinois, Louisiana, Maine, Nevada, New York, North Carolina, Tennessee, Texas and Wisconsin). Most of these limit the right to a jury to try issues regarding grounds or entitlement for divorce only. Texas provides jury trial rights most broadly, including even the right to a jury trial on questions regarding child custody. However, anyone who is charged with a criminal offense, breach of contract or federal offence has a Constitutional right to a trial by jury.
+
+4.21.1. Civil trial procedure
+
+In the United States, a civil action is a lawsuit; civil law is the branch of common law dealing with non-criminal actions. It should not be confused with legal system of civil law.
+
+The right to trial by jury in a civil case in federal court is addressed by the Seventh Amendment. Importantly, however, the Seventh Amendment does not guarantee a right to a civil jury trial in state courts (although most state constitutions guarantee such a right). The Seventh Amendment provides: "In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law." In Joseph Story's 1833 treatise Commentaries on the Constitution of the United States, he wrote, "[I]t is a most important and valuable amendment; and places upon the high ground of constitutional right the inestimable privilege of a trial by jury in civil cases, a privilege scarcely inferior to that in criminal cases, which is conceded by all to be essential to political and civil liberty."
+
+The Seventh Amendment does not guarantee or create any right to a jury trial; rather, it preserves the right to jury trial in the federal courts that existed in 1791 at common law. In this context, common law means the legal environment the United States inherited from England. In England in 1791, civil actions were divided into actions at law and actions in equity. Actions at law had a right to a jury, actions in equity did not. Federal Rules of Civil Procedure Rule 2 says "[t]here is one form of action—the civil action," which abolishes the legal/equity distinction. Today, in actions that would have been "at law" in 1791, there is a right to a jury; in actions that would have been "in equity" in 1791, there is no right to a jury. However, Federal Rule of Civil Procedure 39(c) allows a court to use one at its discretion. To determine whether the action would have been legal or equitable in 1791, one must first look at the type of action and whether such an action was considered "legal" or "equitable" at that time. Next, the relief being sought must be examined. Monetary damages alone were purely a legal remedy, and thus entitled to a jury. Non-monetary remedies such as injunctions, rescission, and specific performance were all equitable remedies, and thus up to the judge's discretion, not a jury. In Beacon Theaters v. Westover, , the US Supreme Court discussed the right to a jury, holding that when both equitable and legal claims are brought, the right to a jury trial still exists for the legal claim, which would be decided by a jury before the judge ruled on the equitable claim.
+
+There is not a United States constitutional right under the Seventh Amendment to a jury trial in state courts, but in practice, almost every state except Louisiana, which has a civil law legal tradition, permits jury trials in civil cases in state courts on substantially the same basis that they are allowed under the Seventh Amendment in federal court. The right to a jury trial in civil cases does not extend to the states, except when a state court is enforcing a federally created right, of which the right to trial by jury is a substantial part.
+
+The court determines the right to jury based on all claims by all parties involved. If the plaintiff brings only equitable claims but the defendant asserts counterclaims of law, the court grants a jury trial. In accordance with Beacon Theaters, the jury first determines the facts, then the judge enter judgment on the equitable claims.
+
+Following the English tradition, US juries have usually been composed of 12 jurors, and the jury's verdict has usually been required to be unanimous. However, in many jurisdictions, the number of jurors is often reduced to a lesser number (such as five or six) by legislative enactment, or by agreement of both sides. Some jurisdictions also permit a verdict to be returned despite the dissent of one, two, or three jurors.
+
+4.21.2. Waiver of jury trial
+
+The vast majority of US criminal cases are not concluded with a jury verdict, but rather by plea bargain. Both prosecutors and defendants often have a strong interest in resolving the criminal case by negotiation resulting in a plea bargain. If the defendant waives a jury trial, a bench trial is held.
+
+In United States Federal courts, there is no absolute right to waive a jury trial. Per Federal Rule of Criminal Procedure 23(a), only if the prosecution and the court consent may a defendant waive a jury trial for criminal cases. However, most states give the defendant the absolute right to waive a jury trial. For civil cases, a jury trial must be demanded within a certain period of time per Federal Rules of Civil Procedure 38.
+
+5. See also
+
+Trial by ordeal
+
+Trial by combat
+
+Rights of Englishmen
+
+Seventh Amendment to the United States Constitution
+
+Bench trial
+
+Sparf v. United States
+
+Summary jury trial
+
+History of trial by jury in England
+
+6. References
+
+7. Further reading
+
+Brill, Steven. Trial by Jury. (New York: American Lawyer Books/TOUCHSTONE, 1989).
+
+Burns, Robert. The Death of the American Trial. University of Chicago Press, 2009. ISBN 978-0-226-08126-7
+
+ISBN 978-0-8020-9783-5 (cloth); ISBN 978-0-8020-9538-1 (paper)
+
+Lehman, Godfrey D. We the jury… (New York: Prometheus Books, 1997).
+
+Sadakat Kadri, The Trial: A History from Socrates to O.J. Simpson. HarperCollins, 2005. ISBN 0-00-711121-5
+
+8. References
+
+9. External links

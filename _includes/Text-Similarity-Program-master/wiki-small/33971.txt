@@ -1,0 +1,221 @@
+Sir Frederick William Herschel, KH, FRS (German: Friedrich Wilhelm Herschel; 15 November 1738 – 25 August 1822) was a German-born British astronomer, composer, and brother of Caroline Herschel. Born in the Electorate of Hanover, Herschel followed his father into the Military Band of Hanover, before migrating to Great Britain at the age of nineteen.
+
+Herschel became interested in astronomy in 1773, and after constructing his first large telescope in 1774, he spent nine years carrying out thorough sky surveys, where his purpose was the investigation of double stars. The resolving power of the Herschel telescopes revealed that the nebulae in the Messier catalogue were clusters of stars: catalogues of nebulae were published in 1802 (2,500 objects) and 1820 (5,000 objects). In the course of an observation on 13 March 1781 he realized that one celestial body he had observed was not a star, but a planet, Uranus. This was the first planet to be discovered since antiquity and Herschel became famous overnight. As a result of this discovery George III appointed him 'Court Astronomer'. He was elected as a Fellow of the Royal Society and grants were provided for the construction of new telescopes.
+
+Herschel pioneered the use of astronomical spectrophotometry as a diagnostic tool, using prisms and temperature measuring equipment to measure the wavelength distribution of stellar spectra. Other work included an improved determination of the rotation period of Mars, the discovery that the Martian polar caps vary seasonally, the discovery of Titania and Oberon (moons of Uranus) and Enceladus and Mimas (moons of Saturn). In addition, he was the first person to discover the existence of infrared radiation. Herschel was knighted in 1816. He died in August 1822, and his work was continued by his only son, John Herschel.
+
+1. Early life and musical activities
+
+Herschel was born in the Electorate of Hanover in Germany , part of the Holy Roman Empire, one of ten children of Isaac Herschel by his marriage to Anna Ilse Moritzen. His family were Lutheran Christians. The surname, although suggesting a Jewish origin, is descended from Protestant Christians as far back as genealogists can trace. His father was an oboist in the Hanover Military Band. In 1755 the Hanoverian Guards regiment, in whose band Wilhelm and his brother Jakob were engaged as oboists, was ordered to England. At the time the crowns of Great Britain and Hanover were united under King George II. As the threat of war with France loomed, the Hanoverian Guards were recalled from England to defend Hanover. After they were defeated at the Battle of Hastenbeck, Herschel's father Isaak sent his two sons to seek refuge in England in late 1757. Although his older brother Jakob had received his dismissal from the Hanoverian Guards, Wilhelm was accused of desertion (for which he was pardoned by George III in 1782). Wilhelm, nineteen years old at this time, was a quick student of the English language. In England he went by the English rendition of his name, Frederick William Herschel.
+
+In addition to the oboe, he played the violin and harpsichord and later the organ. He composed numerous musical works, including 24 symphonies and many concertos, as well as some church music. Six of his symphonies were recorded in April 2002 by the London Mozart Players, conducted by Matthias Bamert (Chandos 10048).
+
+Herschel moved to Sunderland in 1761 when Charles Avison immediately engaged him as first violin and soloist for his Newcastle orchestra, where he played for one season. In ‘Sunderland in the County of Durh: apprill [sic] 20th 1761’ he wrote his symphony No. 8 in c minor. He was head of the Durham Militia band 1760–61 and visited the home of Sir Ralph Milbanke at Halnaby Hall in 1760, where he wrote two symphonies, as well as giving performances himself.
+
+After Newcastle he moved to Leeds and Halifax where he was the first organist at St John the Baptist church (now Halifax Minster). He became organist of the Octagon Chapel, Bath, a fashionable chapel in a well-known spa, in which city he was also Director of Public Concerts. He was appointed as the organist in 1766 and gave his introductory concert on 1 January 1767. As the organ was still incomplete he showed off his versatility by performing his own compositions including a violin concerto, an oboe concerto and a harpsichord sonata. The organ was completed in October 1767. His sister Caroline came to England in 1772 and lived with him there in New King Street, Bath. The house they shared is now the location of the Herschel Museum of Astronomy. His brothers Dietrich, Alexander and Jakob (1734–1792) also appeared as musicians of Bath. In 1780, Herschel was appointed director of the Bath orchestra, with his sister often appearing as soprano soloist.
+
+2. Astronomy
+
+Herschel's music led him to an interest in mathematics and lenses. His interest in astronomy grew stronger after he made the acquaintance of the English Astronomer Royal Nevil Maskelyne. He started building his own reflecting telescopes and would spend up to 16 hours a day grinding and polishing the speculum metal primary mirrors. He "began to look at the planets and the stars" in May 1773 and on 1 March 1774 began an astronomical journal by noting his observations of Saturn's rings and the Great Orion Nebula (M 42).
+
+2.1. Double stars
+
+Herschel's early observational work soon focused on the search for pairs of stars that were very close together visually. Astronomers of the era expected that changes over time in the apparent separation and relative location of these stars would provide evidence for both the proper motion of stars and, by means of parallax shifts in their separation, for the distance of stars from the Earth (a method first suggested by Galileo Galilei). From the back garden of his house in New King Street, Bath, and using a , (f/13) Newtonian telescope "with a most capital speculum" of his own manufacture, in October 1779, Herschel began a systematic search for such stars among "every star in the Heavens", with new discoveries listed through 1792. He soon discovered many more binary and multiple stars than expected, and compiled them with careful measurements of their relative positions in two catalogues presented to the Royal Society in London in 1782 (269 double or multiple systems) and 1784 (434 systems). A third catalogue of discoveries made after 1783 was published in 1821 (145 systems).
+
+In 1797 Herschel measured many of the systems again, and discovered changes in their relative positions that could not be attributed to the parallax caused by the Earth's orbit. He waited until 1802 (in Catalogue of 500 new Nebulae, nebulous Stars, planetary Nebulae, and Clusters of Stars; with Remarks on the Construction of the Heavens) to announce the hypothesis that the two stars might be "binary sidereal systems" orbiting under mutual gravitational attraction, a hypothesis he confirmed in 1803 in his Account of the Changes that have happened, during the last Twenty-five Years, in the relative Situation of Double-stars; with an Investigation of the Cause to which they are owing. In all, Herschel discovered over 800 confirmed double or multiple star systems, almost all of them physical rather than virtual pairs. His theoretical and observational work provided the foundation for modern binary star astronomy; new catalogues adding to his work were not published until after 1820 by Friedrich Wilhelm Struve, James South and John Herschel.
+
+2.2. Uranus
+
+In March 1781, during his search for double stars, Herschel noticed an object appearing as a nonstellar disk. Herschel originally thought it was a comet or a star. He made many more observations of it, and afterwards Russian Academician Anders Lexell computed the orbit and found it to be probably planetary. Herschel determined in agreement that it must be a planet beyond the orbit of Saturn. He called the new planet the 'Georgian star' (Georgium sidus) after King George III, which also brought him favour; the name did not stick. In France, where reference to the British king was to be avoided if possible, the planet was known as 'Herschel' until the name 'Uranus' was universally adopted. The same year, Herschel was awarded the Copley Medal and elected a Fellow of the Royal Society. In 1782, he was appointed "The King’s Astronomer" (not to be confused with the Astronomer Royal). He and his sister subsequently moved to Datchet (then in Buckinghamshire but now in Berkshire) on 1 August 1782. He continued his work as a telescope maker and achieved an international reputation for their manufacture, profitably selling over 60 completed reflectors to British and Continental astronomers.
+
+2.3. Deep sky surveys
+
+From 1782 to 1802, and most intensively from 1783 to 1790, Herschel conducted systematic surveys in search of "deep sky" or nonstellar objects with two , and telescopes (in combination with his favoured 6-inch aperture instrument). Excluding duplicated and "lost" entries, Herschel ultimately discovered over 2400 objects defined by him as nebulae. (At that time, nebula was the generic term for any visually extended or diffuse astronomical object, including galaxies beyond the Milky Way, until galaxies were confirmed as extragalactic systems by Edwin Hubble in 1924.)
+
+Herschel published his discoveries as three catalogues: Catalogue of One Thousand New Nebulae and Clusters of Stars (1786), Catalogue of a Second Thousand New Nebulae and Clusters of Stars (1789) and the previously cited Catalogue of 500 New Nebulae ... (1802). He arranged his discoveries under eight "classes": (I) bright nebulae, (II) faint nebulae, (III) very faint nebulae, (IV) planetary nebulae, (V) very large nebulae, (VI) very compressed and rich clusters of stars, (VII) compressed clusters of small and large [faint and bright] stars, and (VIII) coarsely scattered clusters of stars. Herschel's discoveries were supplemented by those of Caroline Herschel (11 objects) and his son John Herschel (1754 objects) and published by him as General Catalogue of Nebulae and Clusters in 1864. This catalogue was later edited by John Dreyer, supplemented with discoveries by many other 19th century astronomers, and published in 1888 as the New General Catalogue (abbreviated NGC) of 7840 deep sky objects. The NGC numbering is still the most commonly used identifying label for these celestial landmarks.
+
+2.4. Work with his sister Caroline
+
+In 1783 he gave Caroline a telescope, and she began to make astronomical discoveries in her own right, particularly comets. She discovered or observed eight comets, eleven nebulae and, at her brother's suggestion, updated and corrected Flamsteed's work detailing the position of stars. This was published as the British Catalogue of Stars. She was honoured by the Royal Astronomical Society for this work. Caroline also continued to serve as his assistant, often taking notes while he observed at the telescope.
+
+In June 1785, owing to damp conditions, he and Caroline moved to Clay Hall in Old Windsor. In 1786, the Herschels moved to a new residence on Windsor Road in Slough. He lived the rest of his life in this residence, which came to be known as Observatory House. It is no longer standing.
+
+On 7 May 1788, he married the widow Mary Pitt (née Baldwin) at St Laurence's Church, Upton in Slough. His sister Caroline then moved to separate lodgings, but continued to work as his assistant.
+
+2.5. Herschel's telescopes
+
+During his career, he constructed more than four hundred telescopes. The largest and most famous of these was a reflecting telescope with a primary mirror and a 40-foot (12 m) focal length. Because of the poor reflectivity of the speculum mirrors of that day, Herschel eliminated the small diagonal mirror of a standard newtonian reflector from his design and tilted his primary mirror so he could view the formed image directly. This design has come to be called the Herschelian telescope. On 28 August 1789, his first night of observation using this instrument, he discovered a new moon of Saturn. A second moon followed within the first month of observation. The "40-foot telescope" proved very cumbersome, and most of his observations were done with a smaller reflector. Herschel discovered that unfilled telescope apertures can be used to obtain high angular resolution, something which became the essential basis for interferometric imaging in astronomy (in particular Aperture Masking Interferometry and hypertelescopes).
+
+2.5.1. Reconstruction of the 20ft telescope
+
+In 2012, the BBC Stargazing Live television programme built a replica of the 20-foot telescope using Herschel's original plans but modern materials. It is to be considered a close modern approximation rather than an exact replica. A modern glass mirror was used, the frame uses metal scaffolding and the tube is a sewer pipe. The telescope was shown on the programme in January 2013 and stands on the art, design and technology campus of the University of Derby where it will be used for educational purposes.
+
+2.6. Life on other celestial bodies
+
+Herschel was sure that he had found ample evidence of life on the Moon and compared it to the English countryside. He did not refrain himself from theorizing that the other planets were populated, with an special interest in Mars, which was competely in line with most of his contemporary scientists. At Herschel's time, scientists tended to believe in a plurality of civilized worlds, while most religious thinkers referred to unique properties of the earth. Herschel went so far to speculate that the interior of the sun was populated.
+
+2.7. Sunspots, climate, and wheat yields
+
+Herschel started to examine the correlation of solar variation and solar cycle and climate. Over a period of 40 years (1779–1818), Herschel had regularly observed sunspots and their variations in number, form and size. Most of his observations took place in a period of low solar activity, the Dalton minimum. Therefore solar activity behaved very unusually. This was one of the reasons why Herschel was not able to identify the standard 11-year period in solar activity. Herschel compared his observations with the series of wheat prices published by Adam Smith in The Wealth of Nations.
+
+1801 Herschel reported his findings to the Royal Society and indicated five prolonged periods of few sunspots correlated with costly wheat. Herschel's study was ridiculed by some of his contemporaries but did initiate further attempts to find a correlation. Later in the 19th century, William Stanley Jevons proposed the 11-year- cycle and Herschels basic idea of a correlation between low amount of sunspots and lower yields to explain for recurring booms and slumps in the economy. Herschels speculation on a connection between sunspots and regional climate, using the market price of wheat as a proxy continues to be cited regularly till today.
+
+According a study of the Israel Cosmic Ray Center about the influence of solar activity on the historical wheat market in England, all ten solar cycles between 1600 and 1700 show high wheat prices coinciding with low activity, and vice versa. The topic is still subject of controversies and the significance of the correlation is being doubted by some scientists.
+
+2.8. Further discoveries
+
+In his later career, Herschel discovered two moons of Saturn, Mimas and Enceladus; as well as two moons of Uranus, Titania and Oberon. He did not give these moons their names; they were named by his son John in 1847 and 1852, respectively, after his death.
+
+In 2007 evidence was cited by Dr. Stuart Eves that Herschel might have discovered rings around Uranus.
+
+Herschel measured the axial tilt of Mars and discovered that the martian ice caps, first observed by Giovanni Domenico Cassini (1666) and Christiaan Huygens (1672), changed size with the planet's seasons.
+
+From studying the proper motion of stars, he was the first to realise that the solar system is moving through space, and he determined the approximate direction of that movement. He also studied the structure of the Milky Way and concluded that it was in the shape of a disk. He incorrectly assumed the sun was in the centre of the disc, a theory known as Galactocentrism, which was eventually corrected by the findings of Harlow Shapley in 1918.
+
+He also coined the word "asteroid", meaning star-like (from the Greek asteroeides, aster "star" + -eidos "form, shape"), in 1802 (shortly after Olbers discovered the second minor planet, 2 Pallas, in late March), to describe the star-like appearance of the small moons of the giant planets and of the minor planets; the planets all show discs, by comparison. By the 1850s 'asteroid' became a standard term for describing certain minor planets.
+
+3. Discovery of infrared radiation in sunlight
+
+On 11 February 1800, Herschel was testing filters for the sun so he could observe sun spots. When using a red filter he found there was a lot of heat produced. Herschel discovered infrared radiation in sunlight by passing it through a prism and holding a thermometer just beyond the red end of the visible spectrum. This thermometer was meant to be a control to measure the ambient air temperature in the room. He was shocked when it showed a higher temperature than the visible spectrum. Further experimentation led to Herschel's conclusion that there must be an invisible form of light beyond the visible spectrum.
+
+4. Biology
+
+Herschel used a microscope to establish that coral was not a plant, as many believed at the time, since it lacked the cell walls characteristic of plants.
+
+5. Family and death
+
+William Herschel and Mary had one child, John, born at Observatory House on 7 March 1792. William's personal background and rise as man of science had a profound impact on the upbringing of his son and grandchildren. He was elected a Foreign Honorary Member of the American Academy of Arts and Sciences in 1788. In 1816, William was made a Knight of the Royal Guelphic Order by the Prince Regent and was accorded the honorary title 'Sir' although this was not the equivalent of an official British knighthood. He helped to found the Astronomical Society of London in 1820, which in 1831 received a royal charter and became the Royal Astronomical Society. In 1813, he was elected a foreign member of the Royal Swedish Academy of Sciences.
+
+On 25 August 1822, Herschel died at Observatory House, Windsor Road, Slough, and is buried at nearby St Laurence's Church, Upton, Slough. Herschel's epitaph is
+
+Herschel's son John Herschel also became a famous astronomer. One of William's brothers, Alexander Herschel, moved permanently to England, near his sister Caroline and nephew John. Caroline returned to Hanover after the death of her brother. She died on 9 January 1848.
+
+His house at 19 New King Street in Bath, Somerset where he made many telescopes and first observed Uranus, is now home to the Herschel Museum of Astronomy.
+
+6. Memorial
+
+William Herschel lived most of his life in Slough, a town then in Buckinghamshire. He died in the town and was buried under the tower of the Church of St Laurence, Upton-cum-Chalvey, near Slough. Herschel is very much respected in the town and there are several memorials to him and his discoveries.
+
+In 2011 a new bus station, the design of which was inspired by the infrared experiment of William Herschel, was built in the centre of Slough.
+
+7. Musical works
+
+Herschel's complete musical works were as follows:
+
+18 symphonies for small orchestra (1760–1762)
+
+6 symphonies for large orchestra (1762–1764)
+
+12 concertos for oboe, violin and viola (1759–1764)
+
+2 concertos for organ
+
+6 sonatas for violin, cello and harpsichord (published 1769)
+
+12 solos for violin and basso continuo (1763)
+
+24 capriccios and 1 sonata for solo violin
+
+1 andante for two basset horns, two oboes, two horns and two bassoons. Various vocal works including a "Te Deum", psalms, motets and sacred chants along with some catches.
+
+Keyboard works for organ and harpsichord:
+
+6 fugues for organ
+
+24 sonatas for organ (10 now lost)
+
+33 voluntaries and pieces for organ (incomplete)
+
+24 pieces for organ (incomplete)
+
+12 voluntaries (11 now lost)
+
+3 sonatas for harpsichord
+
+25 variations on an ascending scale
+
+2 minuets for harpsichord
+
+8. Named after Herschel
+
+The astrological symbol for planet Uranus () features the capital initial letter of Herschel's surname.
+
+Mu Cephei is also known as Herschel's Garnet Star
+
+Herschel, a crater on the Moon
+
+Herschel, a large impact basin on Mars
+
+The enormous crater Herschel on Saturn's moon Mimas
+
+2000 Herschel, an asteroid
+
+The William Herschel Telescope on La Palma
+
+The Herschel Space Observatory, successfully launched by the European Space Agency on 14 May 2009. It is the largest space telescope of its kind
+
+Herschel Grammar School, Slough
+
+Rue Herschel, a street in the 6th Arrondissement of Paris.
+
+The Herschel Building at City of Bath College, Bath
+
+The Herschel building at Newcastle University, Newcastle, United Kingdom
+
+Herschel Museum of Astronomy, at 19 New King Street in Bath.
+
+Herschelschule, Hanover, Germany, a grammar school
+
+Herschel, Saskatchewan, Canada is a small, rural village that is home to the Ancient Echoes Interpretative Centre
+
+The Herschel Observatory, at the Universitas School in Santos, Brazil.
+
+The lunar crater C. Herschel, the asteroid 281 Lucretia, and the comet 35P/Herschel-Rigollet are named after his sister Caroline Herschel.
+
+The public house "Herschel Arms" at 22 Park Street, Slough is named after him and is quite close to the site of Observatory House.
+
+Herschel Astronomical Society who operate the Herschel Memorial Observatory based in Eton, Berkshire.
+
+Herschel Park, Slough.
+
+The shape of Slough Bus Station, built in 2011, was inspired by Herschel's infrared experiment.
+
+9. See also
+
+List of astronomical instrument makers
+
+List of largest optical telescopes historically
+
+German inventors and discoverers
+
+Catalogue of Nebulae and Clusters of Stars
+
+10. References
+
+11. Sources
+
+12. Further reading
+
+Holmes, Richard. The Age of Wonder: The Romantic Generation and the Discovery of the Beauty and Terror of Science (2009) ISBN 978-1-4000-3187-0
+
+"William Herschel" by Michael Hoskin. New dictionary of Scientific Biography Scribners, 2008. v. 3, pp. 289–291.
+
+13. External links
+
+Full text of
+
+Full text of (1886) from Project Gutenberg
+
+at the National Portrait Gallery (United Kingdom)
+
+located in his Bath home
+
+ISBN 0-87169-225-2
+
+is available in the digital collections of the Linda Hall Library.
+
+Michael Lemonick: , 12 Nov 2008, Fermilab Colloquium,
+
+Musical pieces by William Herschel @YouTube:
+
+(Chamber Symphony in F, 2nd movement)

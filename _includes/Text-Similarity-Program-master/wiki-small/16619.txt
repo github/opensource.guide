@@ -1,0 +1,277 @@
+The kilogram or kilogramme (SI unit symbol: kg; SI dimension symbol: M), is the base unit of mass in the International System of Units (SI) (the Metric system) and is defined as being equal to the mass of the International Prototype of the Kilogram (IPK). The avoirdupois (or international) pound, used in both the Imperial system and U.S. customary units, is defined as exactly , making one kilogram approximately equal to 2.2046 avoirdupois pounds. Other traditional units of weight and mass around the world are also defined in terms of the kilogram, making the IPK the primary standard for virtually all units of mass on Earth.
+
+The gram was originally defined in 1795 as the mass of one cubic centimeter of water at the melting point of water, making the kilogram equal to the mass of one liter of water. The original prototype kilogram, manufactured in 1799 and from which the IPK is derived, had a mass equal to the mass of 1.000025 liters of water at 4 °C.
+
+The kilogram is the only SI base unit with an SI prefix ("kilo", symbol "k") as part of its name. It is also the only SI unit that is still directly defined by an artifact rather than a fundamental physical property that can be reproduced in different laboratories. Four of the seven base units in the SI system are defined relative to the kilogram so its stability is important.
+
+The International Prototype Kilogram was commissioned by the General Conference on Weights and Measures (CGPM) under the authority of the Metre Convention (1875), and is in the custody of the International Bureau of Weights and Measures (BIPM) who hold it on behalf of the CGPM. After the International Prototype Kilogram had been found to vary in mass over time, the International Committee for Weights and Measures (CIPM) recommended in 2005 that the kilogram be redefined in terms of a fundamental constant of nature. At its 2011 meeting, the CGPM agreed in principle that the kilogram should be redefined in terms of the Planck constant. The decision was originally deferred until 2014; in 2014 it was deferred again until the next meeting.
+
+The International Prototype Kilogram (IPK) is rarely used or handled. Copies of the IPK kept by national metrology laboratories around the world were compared with the IPK in 1889, 1948, and 1989 to provide traceability of measurements of mass anywhere in the world back to the IPK.
+
+1. Etymology and usage
+
+The word kilogramme or kilogram is derived from the French kilogramme, which itself comes from the Greek "χίλιοι" (chilioi), meaning "thousand" and "γράμμα" (gramma) meaning "a small weight". The word kilogramme was written into French law in 1795 and the French spelling was adopted in the United Kingdom when the word was used for the first time in English in 1797, with the spelling kilogram being adopted in the United States. In the United Kingdom both spellings are used, with "kilogram" having become by far the more common. UK law regulating the units to be used when trading by weight or measure does not prevent the use of either spelling.
+
+In the 19th century the French word kilo, a shortening of kilogramme, was imported into the English language where it has been used to mean both kilogram and kilometer. While kilo is acceptable in many generalist texts, for example The Economist, its use is typically considered inappropriate in certain applications including scientific, technical and legal writing, where authors should adhere strictly to SI nomenclature. When the United States Congress gave the metric system legal status in 1866, it permitted the use of the word kilo as an alternative to the word kilogram, but in 1990 revoked the status of the word kilo.
+
+In 1948 the CGPM commissioned the CIPM "to make recommendations for a single practical system of units of measurement, suitable for adoption by all countries adhering to the Metre Convention". This led to the launch of SI in 1960 and the subsequent publication of the "SI Brochure," which stated that "It is not permissible to use abbreviations for unit symbols or unit names ...".
+
+2. Nature of mass
+
+The kilogram is a unit of mass, a property which corresponds to the common perception of how “heavy” an object is. Mass is an inertial property; that is, it is related to the tendency of an object at rest to remain at rest, or if in motion to remain in motion at a constant velocity, unless acted upon by a force. According to "Newton's laws of motion" and the equation , when acted upon by a force F of one newton, an object with mass m of one kilogram will accelerate a at the rate of one meter per second per second (1 m/s2)—about one-tenth the acceleration due to Earth's gravity
+
+While the weight of an object is dependent upon the strength of the local gravitational field, the mass of an object is independent of gravity, as mass is a measure of how much matter an object contains. Accordingly, for astronauts in microgravity, no effort is required to hold objects off the cabin floor; they are “weightless”. However, since objects in microgravity still retain their mass and inertia, an astronaut must exert ten times as much force to accelerate a 10kilogram object at the same rate as a 1kilogram object.
+
+Because at any given point on Earth the weight of an object is proportional to its mass, the mass of an object in kilograms is usually measured by comparing its weight to the weight of a standard mass, whose mass is known in kilograms, using a device called a weighing scale. The ratio of the force of gravity on the two objects, measured by the scale, is equal to the ratio of their masses.
+
+3. Kilogramme des Archives
+
+On April 7, 1795, the gram was decreed in France to be "the absolute weight of a volume of pure water equal to the cube of the hundredth part of the metre, and at the temperature of melting ice." The concept of using a unit volume of water to define a unit measure of mass was proposed by the English philosopher John Wilkins in his 1668 essay as a means of linking mass and length.
+
+Since trade and commerce typically involve items significantly more massive than one gram, and since a mass standard made of water would be inconvenient and unstable, the regulation of commerce necessitated the manufacture of a practical realization of the water-based definition of mass. Accordingly, a provisional mass standard was made as a single-piece, metallic artifact one thousand times as massive as the gram—the kilogram.
+
+At the same time, work was commissioned to precisely determine the mass of a cubic decimeter (one liter) of water. Although the decreed definition of the kilogram specified water at 0°C—its highly stable temperature point—the French chemist Louis Lefèvre-Gineau and the Italian naturalist Giovanni Fabbroni after several years of research chose to redefine the standard in 1799 to water’s most stable density point: the temperature at which water reaches maximum density, which was measured at the time as 4°C. They concluded that one cubic decimeter of water at its maximum density was equal to 99.9265% of the target mass of the provisional kilogram standard made four years earlier. That same year, 1799, an all-platinum kilogram prototype was fabricated with the objective that it would equal, as close as was scientifically feasible for the day, the mass of one cubic decimeter of water at 4°C. The prototype was presented to the Archives of the Republic in June and on December 10, 1799, the prototype was formally ratified as the kilogramme des Archives (Kilogram of the Archives) and the kilogram was defined as being equal to its mass. This standard stood for the next 90 years.
+
+4. International prototype kilogram
+
+Since 1889 the magnitude of the kilogram has been defined as the mass of an object called the international prototype kilogram, often referred to in the professional metrology world as the "IPK". The IPK is made of a platinum alloy known as “Pt10Ir”, which is 90% platinum and 10% iridium (by mass) and is machined into a right-circular cylinder (height = diameter) of 39.17millimeters to minimize its surface area. The addition of 10% iridium improved upon the all-platinum Kilogram of the Archives by greatly increasing hardness while still retaining platinum’s many virtues: extreme resistance to oxidation, extremely high density (almost twice as dense as lead and more than 21 times as dense as water), satisfactory electrical and thermal conductivities, and low magnetic susceptibility. The IPK and its six sister copies are stored at the International Bureau of Weights and Measures (known by its French-language initials BIPM) in an environmentally monitored safe in the lower vault located in the basement of the BIPM’s Pavillon de Breteuil in Sèvres on the outskirts of Paris (see External images, below, for photographs). Three independently controlled keys are required to open the vault. Official copies of the IPK were made available to other nations to serve as their national standards. These are compared to the IPK roughly every 40 years, thereby providing traceability of local measurements back to the IPK.
+
+The Metre Convention was signed on May 20, 1875 and further formalized the metric system (a predecessor to the SI), quickly leading to the production of the IPK. The IPK is one of three cylinders made in 1879 by Johnson Matthey, which continues to manufacture nearly all of the national prototypes today. In 1883, the mass of the IPK was found to be indistinguishable from that of the Kilogramme des Archives made eighty-four years prior, and was formally ratified as the kilogram by the 1st CGPM in 1889.
+
+Modern measurements of Vienna Standard Mean Ocean Water, which is pure distilled water with an isotopic composition representative of the average of the world’s oceans, show it has a density of at its point of maximum density (3.984 °C) under one standard atmosphere (760 torr) of pressure. Thus, a cubic decimeter of water at its point of maximum density is only 25 parts per million less massive than the IPK; that is to say, the 25 milligram difference shows that the scientists over years ago managed to make the mass of the Kilogram of the Archives equal that of a cubic decimeter of water at 4 °C, with a margin of error at most within the mass of a single excess grain of rice.
+
+4.1. Copies of the international prototype kilogram
+
+The various copies of the international prototype kilogram are given the following designations in the literature:
+
+The IPK itself. Located in Sèvres, France.
+
+Six sister copies, numbered: K1, 7, 8(41), 32, 43 and 47. Located in Sèvres, France.
+
+Three unofficial copies, numbered: 25, 88 and 91 (numbers 9 and 31 were used before 2004 but were replaced by 88 and 91). Located in Sèvres, France.
+
+National prototypes, stored in Australia (44 and 87), Austria (49), Belgium (28 and 37), Brazil (66), Canada (50 and 74), China (60 and 64; 75 in Hong Kong), Czech Republic (67), Denmark (48), Egypt (58), Finland (23), France (35), Germany (52, 55 and 70), Hungary (16), India (57), Indonesia (46), Israel (71), Italy (5 and 76), Japan (6 and 94), Kazakhstan, Kenya (95), Mexico (21, 90 and 96), Netherlands (53), North Korea (68), Norway (36), Pakistan (93), Poland (51), Portugal (69), Romania (2), Russia (12 and 26), Singapore (83), Slovakia (41 and 65), South Africa (56), South Korea (39, 72 and 84), Spain (24 and 3), Sweden (86), Switzerland (38 and 89), Taiwan (78), Thailand (80), Turkey (54), United Kingdom (18, 81 and 82) and the United States (20, 4, 79, 85 and 92).
+
+Some additional copies held by non-national organizations, such as the French Academy of Sciences in Paris (34) and the Istituto di Metrologia G. Colonnetti in Turin (62).
+
+4.2. Stability of the international prototype kilogram
+
+By definition, the error in the measured value of the IPK's mass is exactly zero; the IPK is the kilogram. However, any changes in the IPK's mass over time can be deduced by comparing its mass to that of its official copies stored throughout the world, a rarely undertaken process called "periodic verification". The only three verifications occurred in 1889, 1948, and 1989. For instance, the U.S. owns four 10%iridium (Pt10Ir) kilogram standards, two of which, K4 and K20, are from the original batch of 40 replicas delivered in 1884. The K20 prototype was designated as the primary national standard of mass for the U.S. Both of these, as well as those from other nations, are periodically returned to the BIPM for verification.
+
+Note that none of the replicas has a mass precisely equal to that of the IPK; their masses are calibrated and documented as offset values. For instance, K20, the U.S.'s primary standard, originally had an official mass of micrograms (μg) in 1889; that is to say, K20 was 39µg less than the IPK. A verification performed in 1948 showed a mass of The latest verification performed in 1989 shows a mass precisely identical to its original 1889 value. Quite unlike transient variations such as this, the U.S.'s check standard, K4, has persistently declined in mass relative to the IPK—and for an identifiable reason. Check standards are used much more often than primary standards and are prone to scratches and other wear. K4 was originally delivered with an official mass of in 1889, but as of 1989 was officially calibrated at and ten years later was Over a period of 110 years, K4 lost 41µg relative to the IPK. Beyond the simple wear that check standards can experience, the mass of even the carefully stored national prototypes can drift relative to the IPK for a variety of reasons, some known and some unknown. Since the IPK and its replicas are stored in air (albeit under two or more nested bell jars), they gain mass through adsorption of atmospheric contamination onto their surfaces. Accordingly, they are cleaned in a process the BIPM developed between 1939 and 1946 known as "the BIPM cleaning method" that comprises firmly rubbing with a chamois soaked in equal parts ether and ethanol, followed by steam cleaning with bi-distilled water, and allowing the prototypes to settle for days before verification. Cleaning the prototypes removes between 5 and 60µg of contamination depending largely on the time elapsed since the last cleaning. Further, a second cleaning can remove up to 10µg more. After cleaning—even when they are stored under their bell jars—the IPK and its replicas immediately begin gaining mass again. The BIPM even developed a model of this gain and concluded that it averaged 1.11µg per month for the first 3 months after cleaning and then decreased to an average of about 1µg per year thereafter. Since check standards like K4 are not cleaned for routine calibrations of other mass standards—a precaution to minimize the potential for wear and handling damage—the BIPM's model of time-dependent mass gain has been used as an "after cleaning" correction factor.
+
+Because the first forty official copies are made of the same alloy as the IPK and are stored under similar conditions, periodic verifications using a large number of replicas—especially the national primary standards, which are rarely used—can convincingly demonstrate the stability of the IPK. What has become clear after the third periodic verification performed between 1988 and 1992 is that masses of the entire worldwide ensemble of prototypes have been slowly but inexorably diverging from each other. It is also clear that the mass of the IPK lost perhaps 50µg over the last century, and possibly significantly more, in comparison to its official copies. The reason for this drift has eluded physicists who have dedicated their careers to the SI unit of mass. No plausible mechanism has been proposed to explain either a steady decrease in the mass of the IPK, or an increase in that of its replicas dispersed throughout the world. This relative nature of the changes amongst the world's kilogram prototypes is often misreported in the popular press, and even some notable scientific magazines, which often state that the IPK simply "lost 50µg" and omit the very important caveat of "in comparison to its official copies". Moreover, there are no technical means available to determine whether or not the entire worldwide ensemble of prototypes suffers from even greater long-term trends upwards or downwards because their mass "relative to an invariant of nature is unknown at a level below 1000µg over a period of 100 or even 50 years". Given the lack of data identifying which of the world’s kilogram prototypes has been most stable in absolute terms, it is equally valid to state that the first batch of replicas has, as a group, gained an average of about 25µg over one hundred years in comparison to the IPK.
+
+What is known specifically about the IPK is that it exhibits a short-term instability of about 30µg over a period of about a month in its after-cleaned mass. The precise reason for this short-term instability is not understood but is thought to entail surface effects: microscopic differences between the prototypes' polished surfaces, possibly aggravated by hydrogen absorption due to catalysis of the volatile organic compounds that slowly deposit onto the prototypes as well as the hydrocarbon-based solvents used to clean them.
+
+It has been possible to rule out many explanations of the observed divergences in the masses of the world's prototypes proposed by scientists and the general public. The BIPM's FAQ explains, for example, that the divergence is dependent on the amount of time elapsed between measurements and not dependent on the number of times the artifacts have been cleaned or possible changes in gravity or environment. Reports published in 2013 by Peter Cumpson of Newcastle University based on the X-ray photoelectron spectroscopy of samples that were stored alongside various prototype kilograms suggested that one source of the divergence between the various prototypes could be traced to mercury that had been absorbed by the prototypes being in the proximity of mercury-based instruments. The IPK has been stored within centimeters of a mercury thermometer since at least as far back as the late 1980s. In this Newcastle University work six platinum weights made in the nineteenth century were all found to have mercury at the surface, the most contaminated of which had the equivalent of 250µg of mercury when scaled to the surface area of a kilogram prototype.
+
+Scientists are seeing far greater variability in the prototypes than previously believed. The increasing divergence in the masses of the world’s prototypes and the short-term instability in the IPK has prompted research into improved methods to obtain a smooth surface finish using diamond turning on newly manufactured replicas and has intensified the search for a new definition of the kilogram. See Proposed future definitions, below.
+
+5. Importance of the kilogram
+
+The stability of the IPK is crucial because the kilogram underpins much of the SI system of measurement as it is currently defined and structured. For instance, the newton is defined as the force necessary to accelerate one kilogram at one meter per second squared. If the mass of the IPK were to change slightly, so too must the newton by a proportional degree. In turn, the pascal, the SI unit of pressure, is defined in terms of the newton. This chain of dependency follows to many other SI units of measure. For instance, the joule, the SI unit of energy, is defined as that expended when a force of one newton acts through one meter. Next to be affected is the SI unit of power, the watt, which is one joule per second. The ampere too is defined relative to the newton, and ultimately, the kilogram. With the magnitude of the primary units of electricity thus determined by the kilogram, so too follow many others, namely the coulomb, volt, tesla, and weber. Even units used in the measure of light would be affected; the candela—following the change in the would in turn affect the lumen andlux.
+
+Because the magnitude of many of the units comprising the SI system of measurement is ultimately defined by the mass of a -year-old, golf-ball-sized piece of metal, the quality of the IPK must be diligently protected to preserve the integrity of the SI system. Yet, despite the best stewardship, the average mass of the worldwide ensemble of prototypes and the mass of the IPK have likely diverged another µg since the third periodic verification years ago. Further, the world’s national metrology laboratories must wait for the fourth periodic verification to confirm whether the historical trendspersisted.
+
+Fortunately, definitions of the SI units are quite different from their practical realizations. For instance, the meter is defined as the distance light travels in a vacuum during a time interval of of a second. However, the meter’s practical realization typically takes the form of a helium–neon laser, and the meter’s length is delineated—not defined—as wavelengths of light from this laser. Now suppose that the official measurement of the second was found to have drifted by a few parts per billion (it is actually extremely stable with a reproducibility of a few parts in 1015). There would be no automatic effect on the meter because the second—and thus the meter’s length—is abstracted via the laser comprising the meter’s practical realization. Scientists performing meter calibrations would simply continue to measure out the same number of laser wavelengths until an agreement was reached to do otherwise. The same is true with regard to the real-world dependency on the kilogram: if the mass of the IPK was found to have changed slightly, there would be no automatic effect upon the other units of measure because their practical realizations provide an insulating layer of abstraction. Any discrepancy would eventually have to be reconciled though, because the virtue of the SI system is its precise mathematical and logical harmony amongst its units. If the IPK’s value were definitively proven to have changed, one solution would be to simply redefine the kilogram as being equal to the mass of the IPK plus an offset value, similarly to what is currently done with its replicas; e.g., “the kilogram is equal to the mass of the (equivalent to 42µg).
+
+The long-term solution to this problem, however, is to liberate the SI system’s dependency on the IPK by developing a practical realization of the kilogram that can be reproduced in different laboratories by following a written specification. The units of measure in such a practical realization would have their magnitudes precisely defined and expressed in terms of fundamental physical constants. While major portions of the SI system would still be based on the kilogram, the kilogram would in turn be based on invariant, universal constants of nature. Much work towards that end is ongoing, though no alternative has yet achieved the uncertainty of 20 parts per billion (~20µg) required to improve upon the IPK. However, , the U.S.’s National Institute of Standards and Technology (NIST) had an implementation of the watt balance that was approaching this goal, with a demonstrated uncertainty of 36µg. See Wattbalance below.
+
+The avoirdupois pound, used in both the imperial system and U.S. customary units, is defined as exactly , making one kilogram approximately equal to 2.2046 avoirdupois pounds.
+
+6. Proposed future definitions
+
+As of 2014 the kilogram was the only SI unit still defined by an artifact. In 1960 the meter, having previously also been defined by reference to an artifact (a single platinum-iridium bar with two marks on it) was redefined in terms of invariant, fundamental physical constants (the wavelength of a particular emission of light emitted by krypton, and later the speed of light) so that the standard can be reproduced in different laboratories by following a written specification. At the 94th Meeting of the International Committee for Weights and Measures (2005) it was recommended that the same be done with the kilogram.
+
+In October 2010, the International Committee for Weights and Measures (known by its French-language initials CIPM) voted to submit a resolution for consideration at the General Conference on Weights and Measures (CGPM), to "take note of an intention" that the kilogram be defined in terms of the Planck constant, h (which has dimensions of energy times time) together with other fundamental units. This resolution was accepted by the 24th conference of the CGPM in October 2011 and in addition the date of the 25th conference was moved forward from 2015 to 2014. Such a definition would theoretically permit any apparatus that was capable of delineating the kilogram in terms of the Planck constant to be used as long as it possessed sufficient precision, accuracy and stability. The watt balance (discussed below) may be able to do this.
+
+In the project to replace the last artifact that underpins much of the International System of Units (SI), a variety of other very different technologies and approaches were considered and explored over many years. They too are covered below. Some of these now-abandoned approaches were based on equipment and procedures that would have enabled the reproducible production of new, kilogram-mass prototypes on demand (albeit with extraordinary effort) using measurement techniques and material properties that are ultimately based on, or traceable to, fundamental constants. Others were based on devices that measured either the acceleration or weight of hand-tuned kilogram test masses and which expressed their magnitudes in electrical terms via special components that permit traceability to fundamental constants. All approaches depend on converting a weight measurement to a mass, and therefore require the precise measurement of the strength of gravity in laboratories. All approaches would have precisely fixed one or more constants of nature at a defined value.
+
+6.1. The watt balance
+
+The watt balance is essentially a single-pan weighing scale that measures the electric power necessary to oppose the weight of a kilogram test mass as it is pulled by Earth’s gravity. It is a variation of an ampere balance in that it employs an extra calibration step that nulls the effect of geometry. The electric potential in the watt balance is delineated by a Josephson voltage standard, which allows voltage to be linked to an invariant constant of nature with extremely high precision and stability. Its circuit resistance is calibrated against a quantum Hall resistance standard.
+
+The watt balance requires exquisitely precise measurement of the local gravitational acceleration g in the laboratory, using a gravimeter. (See "FG‑5 absolute gravimeter" in External images, below). For instance, the NIST compensates for Earth’s gravity gradient of 309µGal per meter when the elevation of the center of the gravimeter differs from that of the nearby test mass in the watt balance; a change in the weight of a one-kilogram test mass that equates to about 316µg/m.
+
+In April 2007, the NIST’s implementation of the watt balance demonstrated a combined relative standard uncertainty (CRSU) of 36µg and a short-term resolution of µg. The UK’s National Physical Laboratory’s watt balance demonstrated a CRSU of 70.3µg in 2007. That watt balance was disassembled and shipped in 2009 to Canada’s Institute for National Measurement Standards (part of the National Research Council), where research and development with the device could continue.
+
+If the CGPM adopts the new proposal and the new definition of the kilogram becomes part of the SI, the value in SI units of the Planck constant (h), which is a measure that relates the energy of photons to their frequency, would be precisely fixed (the currently accepted value of has an uncertainty of ± about 1 in 23 million). Once agreed upon internationally, the kilogram would no longer be defined as the mass of the IPK. All the remaining units in the International System of Units (the SI) that today have dependencies upon the kilogram and the joule would also fall in place, their magnitudes ultimately defined, in part, in terms of photon oscillations rather than the IPK.
+
+Gravity and the nature of the watt balance, which oscillates test masses up and down against the local gravitational acceleration g, are exploited so that mechanical power is compared against electrical power, which is the square of voltage divided by electrical resistance. However, g varies significantly—by nearly 1%—depending on where on the Earth's surface the measurement is made (see Earth’s gravity舁). There are also slight seasonal variations in g due to changes in underground water tables, and larger semimonthly and diurnal changes due to tidal distortions in the Earth's shape caused by the Moon. Although g would not be a term in the definition of the kilogram, it would be crucial in the delineation of the kilogram when relating energy to power. Accordingly, g must be measured with at least as much precision and accuracy as are the other terms, so measurements of g must also be traceable to fundamental constants of nature. For the most precise work in mass metrology, g is measured using dropping-mass absolute gravimeters that contain an iodine-stabilized helium–neon laser interferometer. The fringe-signal, frequency-sweep output from the interferometer is measured with a rubidium atomic clock. Since this type of dropping-mass gravimeter derives its accuracy and stability from the constancy of the speed of light as well as the innate properties of helium, neon, and rubidium atoms, the ‘gravity’ term in the delineation of an all-electronic kilogram is also measured in terms of invariants of nature—and with very high precision. For instance, in the basement of the NIST’s Gaithersburg facility in 2009, when measuring the gravity acting upon Pt10Ir test masses (which are denser, smaller, and have a slightly lower center of gravity inside the watt balance than stainless steel masses), the measured value was typically within 8 ppb of .
+
+The virtue of electronic realizations like the watt balance is that the definition and dissemination of the kilogram would no longer be dependent upon the stability of kilogram prototypes, which must be very carefully handled and stored. It would free physicists from the need to rely on assumptions about the stability of those prototypes. Instead, hand-tuned, close-approximation mass standards would simply be weighed and documented as being equal to one kilogram plus an offset value. With the watt balance, while the kilogram would be delineated in electrical and gravity terms, all of which are traceable to invariants of nature; it would be defined in a manner that is directly traceable to just three fundamental constants of nature. The Planck constant defines the kilogram in terms of the second and the meter. By fixing the Planck constant, the definition of the kilogram would depend only on the definitions of the second and the meter. The definition of the second depends on a single defined physical constant: the ground state hyperfine splitting frequency of the caesium 133 atom Δν(133Cs)hfs. The meter depends on the second and on an additional defined physical constant: the speed of light c. If the kilogram is redefined in this manner, mass artifacts—physical objects calibrated in a watt balance, including the IPK—would no longer be part of the definition, but would instead become transfer standards.
+
+Scales like the watt balance also permit more flexibility in choosing materials with especially desirable properties for mass standards. For instance, Pt10Ir could continue to be used so that the specific gravity of newly produced mass standards would be the same as existing national primary and check standards (≈21.55g/ml). This would reduce the relative uncertainty when making mass comparisons in air. Alternatively, entirely different materials and constructions could be explored with the objective of producing mass standards with greater stability. For instance, osmium-iridium alloys could be investigated if platinum’s propensity to absorb hydrogen (due to catalysis of VOCs and hydrocarbon-based cleaning solvents) and atmospheric mercury proved to be sources of instability. Also, vapor-deposited, protective ceramic coatings like nitrides could be investigated for their suitability to isolate these new alloys.
+
+The challenge with watt balances is not only in reducing their uncertainty, but also in making them truly practical realizations of the kilogram. Nearly every aspect of watt balances and their support equipment requires such extraordinarily precise and accurate, state-of-the-art technology that—unlike a device like an atomic clock—few countries would currently choose to fund their operation. For instance, the NIST’s watt balance used four resistance standards in 2007, each of which was rotated through the watt balance every two to six weeks after being calibrated in a different part of NIST headquarters facility in Gaithersburg, Maryland. It was found that simply moving the resistance standards down the hall to the watt balance after calibration altered their values 10ppb (equivalent to 10µg) or more. Present-day technology is insufficient to permit stable operation of watt balances between even biannual calibrations. If the kilogram is defined in terms of the Planck constant, it is likely there will only be a few—at most—watt balances initially operating in the world.
+
+Alternative approaches to redefining the kilogram that were fundamentally different from the watt balance were explored to varying degrees with some abandoned, as follows:
+
+6.2. Atom-counting approaches
+
+6.2.1. Carbon-12
+
+Though not offering a practical realization, this definition would precisely define the magnitude of the kilogram in terms of a certain number of carbon12 atoms. Carbon12 (12C) is an isotope of carbon. The mole is currently defined as “the quantity of entities (elementary particles like atoms or molecules) equal to the number of atoms in 12 grams of carbon12.” Thus, the current definition of the mole requires that (83⅓) moles of 12C has a mass of precisely one kilogram. The number of atoms in a mole, a quantity known as the Avogadro constant, is experimentally determined, and the current best estimate of its value is This new definition of the kilogram proposed to fix the Avogadro constant at precisely with the kilogram being defined as “the mass equal to that of atoms of 12C.”
+
+The accuracy of the measured value of the Avogadro constant is currently limited by the uncertainty in the value of the Planck constant—a measure relating the energy of photons to their frequency. That relative standard uncertainty has been 50parts per billion (ppb) since 2006. By fixing the Avogadro constant, the practical effect of this proposal would be that the uncertainty in the mass of a 12C atom—and the magnitude of the kilogram—could be no better than the current 50ppb uncertainty in the Planck constant. Under this proposal, the magnitude of the kilogram would be subject to future refinement as improved measurements of the value of the Planck constant become available; electronic realizations of the kilogram would be recalibrated as required. Conversely, an electronic definition of the kilogram (see Electronic approaches, below), which would precisely fix the Planck constant, would continue to allow 83⅓ moles of 12C to have a mass of precisely one kilogram but the number of atoms comprising a mole (the Avogadro constant) would continue to be subject to future refinement.
+
+A variation on a 12C-based definition proposes to define the Avogadro constant as being precisely 84,446,8893 (≈) atoms. An imaginary realization of a 12-gram mass prototype would be a cube of 12C atoms measuring precisely 84,446,889 atoms across on a side. With this proposal, the kilogram would be defined as “the mass equal to 84,446,8893× 83⅓ atoms of 12C.”
+
+6.2.2. Avogadro project
+
+Another Avogadro constant-based approach, known as the International Avogadro Coordination's Avogadro project, would define and delineate the kilogram as a softball-size (93.6mm diameter) sphere of silicon atoms. Silicon was chosen because a commercial infrastructure with mature processes for creating defect-free, ultra-pure monocrystalline silicon already exists to service the semiconductor industry. To make a practical realization of the kilogram, a silicon boule (a rod-like, single-crystal ingot) would be produced. Its isotopic composition would be measured with a mass spectrometer to determine its average relative atomic mass. The boule would be cut, ground, and polished into spheres. The size of a select sphere would be measured using optical interferometry to an uncertainty of about 0.3nm on the radius—roughly a single atomic layer. The precise lattice spacing between the atoms in its crystal structure (≈192pm) would be measured using a scanning X-ray interferometer. This permits its atomic spacing to be determined with an uncertainty of only three parts per billion. With the size of the sphere, its average atomic mass, and its atomic spacing known, the required sphere diameter can be calculated with sufficient precision and low uncertainty to enable it to be finish-polished to a target mass of one kilogram.
+
+Experiments are being performed on the Avogadro Project’s silicon spheres to determine whether their masses are most stable when stored in a vacuum, a partial vacuum, or ambient pressure. However, no technical means currently exist to prove a long-term stability any better than that of the IPK’s because the most sensitive and accurate measurements of mass are made with dual-pan balances like the BIPM’s FB2 flexure-strip balance (see External links, below). Balances can only compare the mass of a silicon sphere to that of a reference mass. Given the latest understanding of the lack of long-term mass stability with the IPK and its replicas, there is no known, perfectly stable mass artifact to compare against. Single-pan scales, which measure weight relative to an invariant of nature, are not precise to the necessary long-term uncertainty of parts per billion. Another issue to be overcome is that silicon oxidizes and forms a thin layer (equivalent to silicon atoms) of silicon dioxide (quartz) and silicon monoxide. This layer slightly increases the mass of the sphere, an effect which must be accounted for when polishing the sphere to its finished dimension. Oxidation is not an issue with platinum and iridium, both of which are noble metals that are roughly as cathodic as oxygen and therefore don’t oxidize unless coaxed to do so in the laboratory. The presence of the thin oxide layer on a silicon-sphere mass prototype places additional restrictions on the procedures that might be suitable to clean it to avoid changing the layer’s thickness or oxide stoichiometry.
+
+All silicon-based approaches would fix the Avogadro constant but vary in the details of the definition of the kilogram. One approach would use silicon with all three of its natural isotopes present. About 7.78% of silicon comprises the two heavier isotopes: 29Si and 30Si. As described in Carbon12 above, this method would define the magnitude of the kilogram in terms of a certain number of 12C atoms by fixing the Avogadro constant; the silicon sphere would be the practical realization. This approach could accurately delineate the magnitude of the kilogram because the masses of the three silicon nuclides relative to 12C are known with great precision (relative uncertainties of 1ppb or better). An alternative method for creating a silicon sphere-based kilogram proposes to use isotopic separation techniques to enrich the silicon until it is nearly pure 28Si, which has a relative atomic mass of . With this approach, the Avogadro constant would not only be fixed, but so too would the atomic mass of 28Si. As such, the definition of the kilogram would be decoupled from 12C and the kilogram would instead be defined as · atoms of 28Si (≈ fixed moles of 28Si atoms). Physicists could elect to define the kilogram in terms of 28Si even when kilogram prototypes are made of natural silicon (all three isotopes present). Even with a kilogram definition based on theoretically pure 28Si, a silicon-sphere prototype made of only nearly pure 28Si would necessarily deviate slightly from the defined number of moles of silicon to compensate for various chemical and isotopic impurities as well as the effect of surface oxides.
+
+6.2.3. Ion accumulation
+
+Another Avogadro-based approach, ion accumulation, since abandoned, would have defined and delineated the kilogram by precisely creating new metal prototypes on demand. It would have done so by accumulating gold or bismuth ions (atoms stripped of an electron) and counted them by measuring the electrical current required to neutralize the ions. Gold (197Au) and bismuth (209Bi) were chosen because they can be safely handled and have the two highest atomic masses among the mononuclidic elements that is effectively non-radioactive (bismuth) or is perfectly stable (gold). See also Table of nuclides.
+
+With a gold-based definition of the kilogram for instance, the relative atomic mass of gold could have been fixed as precisely , from the current value of . As with a definition based upon carbon12, the Avogadro constant would also have been fixed. The kilogram would then have been defined as “the mass equal to that of precisely ƃ atoms of gold” (precisely 3,057,443,620,887,933,963,384,315 atoms of gold or about fixed moles).
+
+In 2003, German experiments with gold at a current of only 10µA demonstrated a relative uncertainty of 1.5%. Follow-on experiments using bismuth ions and a current of 30mA were expected to accumulate a mass of 30g in six days and to have a relative uncertainty of better than 1 ppm. Ultimately, ionaccumulation approaches proved to be unsuitable. Measurements required months and the data proved too erratic for the technique to be considered a viable future replacement to the IPK.
+
+Among the many technical challenges of the ion-deposition apparatus was obtaining a sufficiently high ion current (mass deposition rate) while simultaneously decelerating the ions so they could all deposit onto a target electrode embedded in a balance pan. Experiments with gold showed the ions had to be decelerated to very low energies to avoid sputtering effects—a phenomenon whereby ions that had already been counted ricochet off the target electrode or even dislodged atoms that had already been deposited. The deposited mass fraction in the 2003 German experiments only approached very close to 100% at ion energies of less than around 1eV (<1km/s for gold).
+
+If the kilogram had been defined as a precise quantity of gold or bismuth atoms deposited with an electric current, not only would the Avogadro constant and the atomic mass of gold or bismuth have to have been precisely fixed, but also the value of the elementary charge (e), likely to (from the currently recommended value of ). Doing so would have effectively defined the ampere as a flow of electrons per second past a fixed point in an electric circuit. The SI unit of mass would have been fully defined by having precisely fixed the values of the Avogadro constant and elementary charge, and by exploiting the fact that the atomic masses of bismuth and gold atoms are invariant, universal constants of nature.
+
+Beyond the slowness of making a new mass standard and the poor reproducibility, there were other intrinsic shortcomings to the ionaccumulation approach that proved to be formidable obstacles to ion-accumulation-based techniques becoming a practical realization. The apparatus necessarily required that the deposition chamber have an integral balance system to enable the convenient calibration of a reasonable quantity of transfer standards relative to any single internal ion-deposited prototype. Furthermore, the mass prototypes produced by ion deposition techniques would have been nothing like the freestanding platinum-iridium prototypes currently in use; they would have been deposited onto—and become part of—an electrode imbedded into one pan of a special balance integrated into the device. Moreover, the ion-deposited mass wouldn’t have had a hard, highly polished surface that can be vigorously cleaned like those of current prototypes. Gold, while dense and a noble metal (resistant to oxidation and the formation of other compounds), is extremely soft so an internal gold prototype would have to be kept well isolated and scrupulously clean to avoid contamination and the potential of wear from having to remove the contamination. Bismuth, which is an inexpensive metal used in low-temperature solders, slowly oxidizes when exposed to room-temperature air and forms other chemical compounds and so would not have produced stable reference masses unless it was continually maintained in a vacuum or inert atmosphere.
+
+6.3. Ampere-based force
+
+This approach would define the kilogram as “the mass which would be accelerated at precisely when subjected to the per-meter force between two straight parallel conductors of infinite length, of negligible circular cross section, placed one meter apart in vacuum, through which flow a constant current of elementary charges per second”.
+
+Effectively, this would define the kilogram as a derivative of the ampere rather than present relationship, which defines the ampere as a derivative of the kilogram. This redefinition of the kilogram would specify elementary charge (e) as precisely coulomb rather than the current recommended value of It would necessarily follow that the ampere (one coulomb per second) would also become an electrical current of this precise quantity of elementary charges per second passing a given point in an electric circuit. The virtue of a practical realization based upon this definition is that unlike the watt balance and other scale-based methods, all of which require the careful characterization of gravity in the laboratory, this method delineates the magnitude of the kilogram directly in the very terms that define the nature of mass: acceleration due to an applied force. Unfortunately, it is extremely difficult to develop a practical realization based upon accelerating masses. Experiments over a period of years in Japan with a superconducting, 30g mass supported by diamagnetic levitation never achieved an uncertainty better than ten parts per million. Magnetic hysteresis was one of the limiting issues. Other groups performed similar research that used different techniques to levitate the mass.
+
+7. SI multiples
+
+Because SI prefixes may not be concatenated (serially linked) within the name or symbol for a unit of measure, SI prefixes are used with the gram, not the kilogram, which already has a prefix as part of its name. For instance, one-millionth of a kilogram is 1mg (one milligram), not 1µkg (one microkilogram).
+
+When the Greek lowercase "µ" (mu) in the symbol for microgram is typographically unavailable, it is occasionally—although not properly—replaced by Latin lowercase "u".
+
+The microgram is often abbreviated “mcg”, particularly in pharmaceutical and nutritional supplement labeling, to avoid confusion, since the "µ" prefix is not always well recognized outside of technical disciplines. (The expression "mcg" is also the symbol for an obsolete CGS unit of measure known as the "millicentigram", which is equal to 10µg.)
+
+The decagram (dag in SI) is in much of Europe often abbreviated "dkg" (from the local spelling "dekagram") and is used for typical retail quantities of food (such as cheese and meat).
+
+The unit name "megagram" is becoming more used as rigorous consistency with the SI standard is desired. The name "tonne" is still used collquially. The tonne and its symbol, "t", were adopted by the CIPM in 1879. It is a non-SI unit accepted by the BIPM for use with the SI. According to the BIPM, "In English speaking countries this unit is usually called 'metric ton'." The unit name "megatonne" or "megaton" (Mt) is often used in general-interest literature on greenhouse gas emissions, though the equivalent unit used should be the teragram (Tg).
+
+8. Glossary
+
+Abstracted: Isolated and its effect changed in form, often simplified or made more accessible in the process.
+
+Artifact: A simple human-made object used directly as a comparative standard in the measurement of a physical quantity.
+
+Check standard:
+
+A standard body’s backup replica of the international prototype kilogram (IPK).
+
+A secondary kilogram mass standard used as a stand-in for the primary standard during routine calibrations.
+
+Definition: A formal, specific, and exact specification.
+
+Delineation: The physical means used to mark a boundary or express the magnitude of an entity.
+
+Disseminate: To widely distribute the magnitude of a unit of measure, typically via replicas and transfer standards.
+
+IPK: Abbreviation of "international prototype kilogram", the unique physical object, kept in France, which is internationally recognized as having the defining mass of precisely one kilogram.
+
+Magnitude: The extent or numeric value of a property
+
+National prototype: A replica of the IPK possessed by a nation.
+
+Practical realization: A readily reproducible apparatus to conveniently delineate the magnitude of a unit of measure.
+
+Primary national standard:
+
+A replica of the IPK possessed by a nation
+
+The least used replica of the IPK when a nation possesses more than one.
+
+Prototype:
+
+A human-made object that serves as the defining comparative standard in the measurement of a physical quantity.
+
+A human-made object that serves as the comparative standard in the measurement of a physical quantity.
+
+The IPK and any of its replicas
+
+Replica: An official copy of the IPK.
+
+Sister copy: One of six official copies of the IPK that are stored in the same safe as the IPK and are used as check standards by the BIPM.
+
+Transfer standard: An artifact or apparatus that reproduces the magnitude of a unit of measure in a different, usually more practical, form.
+
+9. See also
+
+1795 in science
+
+1799 in science
+
+General Conference on Weights and Measures (CGPM)
+
+Gram
+
+Grave (orig. name of the kilogram, history of)
+
+Gravimetry
+
+Inertia
+
+International Bureau of Weights and Measures (BIPM)
+
+International Committee for Weights and Measures (CIPM)
+
+International System of Units (SI)
+
+Kilogram-force
+
+Liter
+
+Mass
+
+Mass versus weight
+
+Metric system
+
+Metric ton
+
+Milligram per cent
+
+National Institute of Standards and Technology (NIST)
+
+Newton
+
+SI base units
+
+Standard gravity
+
+Watt balance
+
+Weight
+
+10. Notes
+
+11. References
+
+12. External links
+
+The UK’s National Physical Laboratory (NPL):
+
+NPL:
+
+Metrology in France:
+
+Australian National Measurement Institute:
+
+International Bureau of Weights and Measures (BIPM):
+
+NZZ Folio:
+
+NPL:
+
+BBC:
+
+NPR: , an interview with National Institute of Standards and Technology physicist Richard Steiner

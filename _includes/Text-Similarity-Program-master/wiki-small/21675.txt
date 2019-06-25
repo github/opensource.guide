@@ -1,0 +1,71 @@
+Natural resources occur naturally within environments that exist relatively undisturbed by humanity, in a natural form. A natural resource is often characterized by amounts of biodiversity and geodiversity existent in various ecosystems.
+
+Natural resources are derived from the environment. Some of them are essential for our survival while most are used for satisfying our needs. Natural resources may be further classified in different ways.
+
+Natural resources are materials and components (something that can be used) that can be found within the environment. Every man-made product is composed of natural resources (at its fundamental level). A natural resource may exist as a separate entity such as fresh water, and air, as well as a living organism such as a fish, or it may exist in an alternate form which must be processed to obtain the resource such as metal ores, oil, and most forms of energy.
+
+There is much debate worldwide over natural resource allocations, this is partly due to increasing scarcity (depletion of resources) but also because the exportation of natural resources is the basis for many economies (particularly for developed nations).
+
+Some natural resources such as sunlight and air can be found everywhere, and are known as ubiquitous resources. However, most resources only occur in small sporadic areas, and are referred to as localized resources. There are very few resources that are considered inexhaustible (will not run out in foreseeable future) – these are solar radiation, geothermal energy, and air (though access to clean air may not be). The vast majority of resources are exhaustible, which means they have a finite quantity, and can be depleted if managed improperly.
+
+1. Classification
+
+There are various methods of categorizing natural resources, these include source of origin, stage of development, and by their renewability. These classifications are described below. On the basis of origin, resources may be divided into:
+
+Biotic – Biotic resources are obtained from the biosphere (living and organic material), such as forests and animals, and the materials that can be obtained from them. Fossil fuels such as coal and petroleum are also included in this category because they are formed from decayed organic matter.
+
+Abiotic – Abiotic resources are those that come from non-living, non-organic material. Examples of abiotic resources include land, fresh water, air and heavy metals including ores such as gold, iron, copper, silver, etc. Considering their stage of development, natural resources may be referred to in the following ways:
+
+Potential resources – Potential resources are those that exist in a region and may be used in the future. For example petroleum occurs with sedimentary rocks in various regions, but until the time it is actually drilled out and put into use, it remains a potential resource.
+
+Actual resources – Actual resources are those that have been surveyed, their quantity and quality determined and are being used in present times. The development of an actual resource, such as wood processing depends upon the technology available and the cost involved.
+
+Reserve resources – The part of an actual resource which can be developed profitably in the future is called a reserve resource.
+
+Stock resources – Stock resources are those that have been surveyed but cannot be used by organisms due to lack of technology. For example: hydrogen. Renewability is a very popular topic and many natural resources can be categorized as either renewable or non-renewable:
+
+Renewable resources – Renewable resources can be replenished naturally. Some of these resources, like sunlight, air, wind, etc., are continuously available and their quantity is not noticeably affected by human consumption. Though many renewable resources do not have such a rapid recovery rate, these resources are susceptible to depletion by over-use. Resources from a human use perspective are classified as renewable only so long as the rate of replenishment/recovery exceeds that of the rate of consumption.
+
+Non-renewable resources – Non-renewable resources either form slowly or do not naturally form in the environment. Minerals are the most common resource included in this category. By the human perspective, resources are non-renewable when their rate of consumption exceeds the rate of replenishment/recovery; a good example of this are fossil fuels, which are in this category because their rate of formation is extremely slow (potentially millions of years), meaning they are considered non-renewable. Some resources actually naturally deplete in amount without human interference, the most notable of these being radio-active elements such as uranium, which naturally decay into heavy metals. Of these, the metallic minerals can be re-used by recycling them, but coal and petroleum cannot be recycled.
+
+2. Extraction
+
+Resource extraction involves any activity that withdraws resources from nature. This can range in scale from the traditional use of preindustrial societies, to global industry. Extractive industries are, along with agriculture, the basis of the primary sector of the economy. Extraction produces raw material which is then processed to add value. Examples of extractive industries are hunting, trapping, mining, oil and gas drilling, and forestry. Natural resources can add substantial amounts to a country's wealth, however a sudden inflow of money caused by a resource boom can create social problems including inflation harming other industries ("Dutch disease") and corruption, leading to inequality and underdevelopment, this is known as the "resource curse".
+
+Extractive industries represent a large growing activity in many less-developed countries but the wealth generated does not always lead to sustainable and inclusive growth. Extractive industry businesses often are assumed to be interested only in maximizing their short-term value, implying that less-developed countries are vulnerable to powerful corporations. Alternatively, host governments are often assumed to be only maximizing immediate revenue. Researchers argue there are areas of common interest where development goals and business cross. These present opportunities for international governmental agencies to engage with the private sector and host governments through revenue management and expenditure accountability, infrastructure development, employment creation, skills and enterprise development and impacts on children, especially girls and women.
+
+3. Depletion
+
+In recent years, the depletion of natural resources has become a major focus of governments and organizations such as the United Nations (UN). This is evident in the UN's Agenda 21 Section Two, which outlines the necessary steps to be taken by countries to sustain their natural resources. The depletion of natural resources is considered to be a sustainable development issue. The term sustainable development has many interpretations, most notably the Brundtland Commission's 'to ensure that it meets the needs of the present without compromising the ability of future generations to meet their own needs', however in broad terms it is balancing the needs of the planet's people and species now and in the future. In regards to natural resources, depletion is of concern for sustainable development as it has the ability to degrade current environments and potential to impact the needs of future generations.
+
+Depletion of natural resources is associated with social inequity. Considering most biodiversity are located in developing countries, depletion of this resource could result in losses of ecosystem services for these countries. Some view this depletion as a major source of social unrest and conflicts in developing nations.
+
+At present, with it being the year of the forest, there is particular concern for rainforest regions which hold most of the Earth's biodiversity. According to Nelson deforestation and degradation affect 8.5% of the world's forests with 30% of the Earth's surface already cropped. If we consider that 80% of people rely on medicines obtained from plants and ¾ of the world's prescription medicines have ingredients taken from plants, loss of the world's rainforests could result in a loss of finding more potential life saving medicines.
+
+The depletion of natural resources is caused by 'direct drivers of change' such as Mining, petroleum extraction, fishing and forestry as well as 'indirect drivers of change' such as demography, economy, society, politics and technology. The current practice of Agriculture is another factor causing depletion of natural resources. For example the depletion of nutrients in the soil due to excessive use of nitrogen and desertification The depletion of natural resources is a continuing concern for society. This is seen in the cited quote given by Theodore Roosevelt, a well-known conservationist and former United States president, was opposed to unregulated natural resource extraction.
+
+4. Protection
+
+In 1982 the UN developed the World Charter for Nature, which recognised the need to protect nature from further depletion due to human activity. It states that measures need to be taken at all societal levels, from international to individual, to protect nature. It outlines the need for sustainable use of natural resources and suggests that the protection of resources should be incorporated into national and international systems of law. To look at the importance of protecting natural resources further, the World Ethic of Sustainability, developed by the IUCN, WWF and the UNEP in 1990, set out eight values for sustainability, including the need to protect natural resources from depletion. Since the development of these documents, many measures have been taken to protect natural resources including establishment of the scientific field and practice of conservation biology and habitat conservation, respectively.
+
+Conservation biology is the scientific study of the nature and status of Earth's biodiversity with the aim of protecting species, their habitats, and ecosystems from excessive rates of extinction. It is an interdisciplinary subject drawing on science, economics and the practice of natural resource management. The term conservation biology was introduced as the title of a conference held at the University of California, San Diego, in La Jolla, California, in 1978, organized by biologists Bruce A. Wilcox and Michael E. Soulé.
+
+Habitat conservation is a land management practice that seeks to conserve, protect and restore, habitat areas for wild plants and animals, especially conservation reliant species, and prevent their extinction, fragmentation or reduction in range.
+
+5. Management
+
+Natural resource management is a discipline in the management of natural resources such as land, water, soil, plants and animals, with a particular focus on how management affects the quality of life for both present and future generations.
+
+Management of natural resources involves identifying who has the right to use the resources and who does not for defining the boundaries of the resource. The resources are managed by the users according to the rules governing of when and how the resource is used depending on local condition.
+
+A successful management of natural resources should engage the community because of the nature of the shared resources the individuals who are affected by the rules can participate in setting or changing them. The users have the rights to devise their own management institutions and plans under the recognition by the government. The right to resources includes land, water, fisheries and pastoral rights. The users or parties accountable to the users have to actively monitor and ensure the utilisation of the resource compliance with the rules and to impose penalty on those peoples who violates the rules. These conflicts are resolved in a quick and low cost manner by the local institution according to the seriousness and context of the offence. The global science-based platform to discuss natural resources management is the World Resources Forum, based in Switzerland.
+
+6. See also
+
+Environmental movement
+
+Resource
+
+7. References
+
+8. Further reading

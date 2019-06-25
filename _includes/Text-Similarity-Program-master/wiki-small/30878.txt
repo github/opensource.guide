@@ -1,0 +1,87 @@
+The chicken or the egg causality dilemma is commonly stated as "which came first, the chicken or the egg?" To ancient philosophers, the question about the first chicken or egg also evoked the questions of how life and the universe in general began.
+
+Cultural references to the Chicken and Egg intend to point out the futility of identifying the first case of a circular cause and consequence. It could be considered that in this approach lies the most fundamental nature of the question. A literal answer is an egg according to some people, as egg-laying species pre-date the existence of chickens. To others, the chicken came first, seeing as chickens are merely domesticated Red Junglefowls. However, the metaphorical view sets a metaphysical ground to the dilemma. To better understand its metaphorical meaning, the question could be reformulated as: "Which came first, X that can't come without Y, or Y that can't come without X?"
+
+An equivalent situation arises in engineering and science known as circular reference, in which a parameter is required to calculate that parameter itself. Examples are Van der Waals equation and the Colebrook equation.
+
+1. History of the dilemma
+
+Ancient references to the dilemma are found in the writings of classical philosophers. Their writings indicate that the proposed problem was perplexing to them and was commonly discussed by others of their time as well.
+
+Aristotle (384–322 BC) was puzzled by the idea that there could be a first bird or egg and concluded that both the bird and egg must have always existed:
+
+If there has been a first man he must have been born without father or mother 舑 which is repugnant to nature. For there could not have been a first egg to give a beginning to birds, or there should have been a first bird which gave a beginning to eggs; for a bird comes from an egg. The same he held good for all species, believing, with Plato, "that everything before it appeared on earth had first its being in spirit."
+
+Plutarch (46–126) referred to a hen rather than simply a bird. Plutarch discussed a series of arguments based on questions posed in a symposium. Under the section entitled "Whether the hen or the egg came first", the discussion is introduced in such a way suggesting that the origin of the dilemma was even older:
+
+...the problem about the egg and the hen, which of them came first, was dragged into our talk, a difficult problem which gives investigators much trouble. And Sulla my comrade said that with a small problem, as with a tool, we were rocking loose a great and heavy one, that of the creation of the world..." Macrobius (early 5th century), a Roman philosopher, found the problem to be interesting:
+
+You jest about what you suppose to be a triviality, in asking whether the hen came first from an egg or the egg from a hen, but the point should be regarded as one of importance, one worthy of discussion, and careful discussion at that." In System of Nature by Baron D'Holbach (1770, translated into English in 1797), he asks "was the animal anterior to the egg, or did the egg precede the animal?" (part 1, chapter 6).
+
+Stephen Hawking and Christopher Langan argue that the egg came before the chicken, though the real importance of the question has faded since Darwin's On the Origin of Species and the accompanying Theory of Evolution, under which the egg must have come first, assuming the question intended "egg" to mean an egg in general rather than an egg that hatches into a chicken. According to Popular Science, the egg came first as it evolved prior to birds.
+
+2. Responses to the dilemma
+
+2.1. Proteins
+
+Professor Charito Sulatar and David Quigley, from the University of Warwick, who helped develop a study with colleagues from Sheffield University, point out that in fact a key chicken protein, ovocleidin-17, which helps in the formation of the egg's hard shell, actually comes both before and after the egg shell. They say that this chemical quirk actually makes the question of which came first even more pointless than before. As Professor Mark Rodger says, "Does this really prove the chicken came before the egg?" This science does give new insight into an efficient and fast method of crystallization. It will help in research to devise better synthetic bone and research into how to store/sequester CO2 as limestone."
+
+A previous analysis which came to another conclusion. Professor John Brookfield and Professor David Papineau argue since there was a "first" chicken, it must have come from an egg which pre-dated that chicken. An even earlier analysis which also came to another conclusion was made by Roy A. Sorensen in his one-page-article in 1992. He argued that although it is indeterminate which animal was the first chicken, the question of whether the chicken or the chicken egg came first has a determinate answer. Since an animal does not evolve into another species during its lifetime, and since organisms can fail to breed true, it is biologically necessary that the chicken egg came first. Biologist PZ Myers points out a further flaw in the 'protein-argument', in that other birds make use of different kinds of proteins for producing eggs, and that the evolution of ovocleidin was not coincident with the evolution of eggs; ovocleidin developed from prior proteins, which were used to form eggs since before birds branched away evolutionarily from reptiles.
+
+2.2. Science
+
+The theory of evolution states that species change over time via mutation and sexual reproduction. Since DNA (deoxyribonucleic acid) can be modified before and after birth, it can be argued that a mutation must have taken place at conception or within an egg such that a creature similar to a chicken, but not a chicken, laid the first chicken eggs. These eggs then hatched into chickens that inbred to produce a living population. Hence, in this light, both the chicken and the structure of its egg evolved simultaneously from birds that, while not of the same exact species, gradually became more and more like present-day chickens over time.
+
+However, no one mutation in one individual can be considered as constituting a new species. A speciation event involves the separation of one population from its parent population, so that interbreeding ceases; this is the process whereby domesticated animals are genetically separated from their wild forebears. The whole separated group can then be recognized as a new species.
+
+The modern chicken was believed to have descended from another closely related species of birds, the red junglefowl, but recently discovered genetic evidence suggests that the modern domestic chicken is a hybrid descendant of both the red junglefowl and the grey junglefowl. Assuming the evidence bears out, a hybrid is a compelling scenario that the chicken egg, based on the second definition, came before the chicken.
+
+This implies that the egg existed before the chicken, but that the chicken egg did not exist until an arbitrary threshold was crossed that differentiates a modern chicken from its ancestors. Even if such a threshold could be defined, an observer would be unlikely to identify that the threshold had been crossed until the first chicken had been hatched and hence the first chicken egg could not be identified as such.
+
+A simple view is that at whatever point the threshold was crossed and the first chicken was hatched, it had to hatch from an egg. The type of bird that laid that egg, by definition, was on the other side of the threshold and therefore not a chicken—it may be viewed as a proto-chicken or ancestral chicken of some sort, from which a genetic variation or mutation occurred that resulted in the egg being laid containing the embryo of the first chicken. In this light, the argument is settled and the 'egg' had to have come first. However, whether this was defined as a chicken egg or proto-chicken egg is debatable. So technically the egg came before the chicken, but the chicken may have come before the chicken egg. So it depends on whether the question is "What came first, the Chicken or the egg" or "what came first, the Chicken or the Chicken egg".
+
+Logically the final conclusion can be drawn that the egg indeed came before the chicken, as a bird that was not a chicken could accumulate germline mutations in a single sperm or ovum to produce the first genetically identifiable chicken, but a non-chicken egg is much less likely to produce a non-chicken which accumulates enough identical somatic cell mutations across its cells to create a chicken spontaneously.
+
+3. Chicken-and-egg problem
+
+The term "chicken-and-egg problem" is further commonly used to describe a situation that is not a philosophical dilemma, but one in which it is impossible to reach a certain desired outcome because a necessary precondition is not satisfied, while to meet that precondition in turn requires that the desired outcome has already been realized. For example, it has been argued that the transformation to alternative fuels for vehicles faces a chicken-and-egg problem: "it is not economical for individuals to purchase vehicles using alternative fuels absent sufficient refueling stations, and it is not economical for fuel dealers to open stations absent sufficient alternative fuel vehicles". This is closely related to the economic concept of vicious circle, but in this kind of situation one that becomes a virtuous circle upon reaching a tipping point.
+
+4. References in popular culture
+
+In the TV special The Easter Bunny Is Comin' To Town, the chickens tell a story in a song explaining that "the chicken came first" while retelling the Hebrew Bible story of Noah's Ark and comparing the riddle to who came first: "the pussycat or the fiddle" (a reference to the nursery tune Hey Diddle Diddle), "the fountain or Ponce de León" (a reference to the Spanish explorer known for the legend of the Fountain of Youth), and "the cow or Mrs. O'Leary" (a reference to Catherine O'Leary and her cow, who are rumored to be the instigators of the Great Chicago Fire of 1871).
+
+At the end of the film Chicken Run, the rats, Nick and Fetcher, can be heard debating this question when they consider starting a chicken farm so they can have all the eggs to eat, but have different ways of how to start said farm. Nick thinks the egg comes first while Fetcher thinks the chicken comes first.
+
+In episode 8 of the H Series of QI, the riddle was posed as a question to the panelists. During the conversation Sandi Toskvig says, "There's that wonderful old joke about, 'Chicken and egg have just made love, and they're lying there, having a bit of a post-coital cigarette. The chicken says to the egg 'well that answers that old question.'" The 'correct' answer was identified as The Egg, based on the existence of egg-laying animals before the evolution of chickens.
+
+In the episode Bret Gives Up The Dream of the TV series Flight of the Conchords, Bret is forced to take a job to supplement his income as a musician. Murray, the band manager, informs him of an upcoming gig, but Bret tells him he can't because he has to work. When Murray asks "how can I get you a gig if you've got this job?," Bret replies "yeah, but that's why I got the job, because there were no gigs." He eventually explains that it is a chicken or the egg scenario. Murray thinks the answer is obviously the chicken, but gets flustered when asked where the chicken came from, ultimately telling Bret: "you're the egg, a bad egg."
+
+During the The Fairly OddParents episode, "Emotion Commotion", since Timmy has no feeling, he states to Wanda, his godmother, three facts, one of which is that the chicken came before the egg.
+
+In the SpongeBob SquarePants episode "Party Pooper Pants," SpongeBob asks his party guests to discuss a parody question, "which came first, the oyster or the pearl?"
+
+In the "Star Trek: The Next Generation" episode "All Good Things, Part 2," Picard says to Riker, "It's like the chicken and the egg, Will," when referring to the anomaly.
+
+5. See also
+
+Bootstrapping, a technique in computer programming used to avoid chicken-and-egg scenarios where two programs are mutually needed for compiling or loading each other
+
+Catch-22 (logic)
+
+Circular cause and consequence
+
+Cosmogony
+
+Evolutionary biology
+
+Feedback loop
+
+Grandfather paradox
+
+Omphalos hypothesis
+
+On the Origin of Species
+
+Predestination paradox
+
+6. References

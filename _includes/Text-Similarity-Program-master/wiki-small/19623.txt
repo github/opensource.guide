@@ -1,0 +1,251 @@
+The Mitsubishi A6M Zero was a long-range fighter aircraft, manufactured by Mitsubishi Heavy Industries, and operated by the Imperial Japanese Navy from 1940 to 1945. The A6M was designated as the , or the Mitsubishi A6M Rei-sen. The A6M was usually referred to by its pilots as the "Reisen" (zero fighter), "0" being the last digit of the Imperial year 2600 (1940) when it entered service with the Imperial Navy. The official Allied reporting name was "Zeke", although the use of the name "Zero" was later commonly adopted by the Allies as well.
+
+When it was introduced early in World War II, the Zero was considered the most capable carrier-based fighter in the world, combining excellent maneuverability and very long range. In early combat operations, the Zero gained a legendary reputation as a dogfighter, achieving the outstanding kill ratio of 12 to 1, but by mid-1942 a combination of new tactics and the introduction of better equipment enabled the Allied pilots to engage the Zero on generally equal terms.
+
+The Imperial Japanese Navy Air Service ("IJNAS") also frequently used the type as a land-based fighter. By 1943, inherent design weaknesses and the failure to develop more powerful aircraft engines meant that the Zero became less effective against newer enemy fighters, which possessed greater firepower, armor, and speed, and approached the Zero's maneuverability. Although the Mitsubishi A6M was outdated by 1944, design delays and production difficulties of newer Japanese aircraft types meant that it continued to serve in a front line role until the end of the war. During the final years of the War in the Pacific, the Zero was also adapted for use in kamikaze operations. During the course of the war, Japan produced more Zeros than any other model of combat aircraft.
+
+1. Design and development
+
+The Mitsubishi A5M fighter was just entering service in early 1937, when the Imperial Japanese Navy started looking for its eventual replacement. In May, they issued specification 12-Shi for a new carrier-based fighter, sending it to Nakajima and Mitsubishi. Both firms started preliminary design work while they awaited more definitive requirements to be handed over in a few months.
+
+Based on the experiences of the A5M in China, the Imperial Japanese Navy sent out updated requirements in October calling for a speed of and a climb to in 3.5 min. With drop tanks, they wanted an endurance of two hours at normal power, or six to eight hours at economical cruising speed. Armament was to consist of two 20 mm cannons, two 7.7 mm (.303 in) machine guns and two 30 kg (66 lb) or 60 kg (132 lb) bombs. A complete radio set was to be mounted in all aircraft, along with a radio direction finder for long-range navigation. The maneuverability was to be at least equal to that of the A5M, while the wingspan had to be less than 12 m (39 ft) to allow for use on an aircraft carrier. All this was to be achieved with available engines, a significant design limitation. The Zero's powerplant seldom reached 750 kilowatts (about 1,000 hp) in any of its variants.
+
+Nakajima's team considered the new requirements unachievable and pulled out of the competition in January. Mitsubishi's chief designer, Jiro Horikoshi, felt that the requirements could be met, but only if the aircraft could be made as light as possible. Every possible weight-saving measure was incorporated into the design. Most of the aircraft was built of a new top-secret 7075 aluminium alloy developed by Sumitomo Metal Industries in 1936. Called Extra Super Duralumin (ESD), it was lighter and stronger than other alloys (e.g. 24S alloy) used at the time, but was more brittle and prone to corrosion which was countered with an anti-corrosion coating applied after fabrication. No armor was provided for the pilot, engine or other critical points of the aircraft, and self-sealing fuel tanks, which were becoming common at the time, were not used. This made the Zero lighter, more maneuverable, and the longest range single engine fighter of WWII; which made it capable of searching out an enemy hundreds of miles away, bringing them to battle, then returning hundreds of miles back to its base or aircraft carrier. However, that trade in weight and construction also made it prone to catching fire and exploding when struck by enemy rounds.
+
+With its low-wing cantilever monoplane layout, retractable, wide-set landing gear and enclosed cockpit, the Zero was one of the most modern aircraft in the world at the time of its introduction. It had a fairly high-lift, low-speed wing with a very low wing loading. This, combined with its light weight, resulted in a very low stalling speed of well below . This was the main reason for its phenomenal maneuverability, allowing it to out-turn any Allied fighter of the time. Early models were fitted with servo tabs on the ailerons after pilots complained control forces became too heavy at speeds above . They were discontinued on later models after it was found that the lightened control forces were causing pilots to overstress the wings during vigorous maneuvers.
+
+It has been claimed that the Zero's design showed clear influence from American fighter planes and components exported to Japan in the 1930s, and in particular the Vought V-143 fighter. Chance Vought had sold the prototype for this aircraft and its plans to Japan in 1937. Eugene Wilson, President of Vought, claimed that when shown a captured Zero in 1943, he found that "There on the floor was the Vought V 142 or just the spitting image of it, Japanese-made," while the "power-plant installation was distinctly Chance Vought, the wheel stowage into the wing roots came from Northrop, and the Japanese designers had even copied the Navy inspection stamp from Pratt & Whitney type parts." While the sale of the V-143 was fully legal, Wilson later acknowledged the conflicts of interest that can arise whenever military technology is exported. In fact, there was no significant relationship between the V-143 (which was an unsuccessful design that had been rejected by the U.S. Army Air Corps and several export customers) and the Zero, with only a superficial similarity in layout. Allegations about the Zero being a copy have been mostly discredited.
+
+1.1. Name
+
+The A6M is universally known as the "Zero" from its Japanese Navy type designation, Type 0 Carrier Fighter (Rei shiki Kanjō sentōki, 零式艦上戦闘機), taken from the last digit of the Imperial year 2600 (1940), when it entered service. In Japan, it was unofficially referred to as both Rei-sen and Zero-sen; Japanese pilots most commonly called it Zero-sen, where sen is the first syllable of sentoki, Japanese for "fighter."
+
+In the official designation "A6M" the "A" signified a carrier-based fighter, "6" meant it was the sixth such model built for the Imperial Navy, and "M" indicated the manufacturer, Mitsubishi.
+
+The official Allied code name was "Zeke", in keeping with the practice of giving male names to Japanese fighters, female names to bombers, bird names to gliders, and tree names to trainers. "Zeke" was part of the first batch of "hillbilly" code names assigned by Captain Frank T. McCoy of Nashville, Tennessee (assigned to the Allied Technical Air Intelligence Unit (ATAIU) at Eagle Farm Airport in Australia), who wanted quick, distinctive, easy-to-remember names. When, in 1942, the Allied code for Japanese aircraft was introduced, he logically chose "Zeke" for the "Zero." Later, two variants of the fighter received their own code names: the Nakajima A6M2-N (floatplane version of the Zero) was called "Rufe" and the A6M3-32 variant was initially called "Hap". After objections from General "Hap" Arnold, commander of the USAAF, the name was changed to "Hamp". When captured examples were examined in New Guinea, it was realized it was a variant of the Zero and finally renamed "Zeke 32."
+
+2. Operational history
+
+The first Zeros (pre-series A6M2) went into operation in July 1940. On 13 September 1940, the Zeros scored their first air-to-air victories when 13 A6M2s led by Lieutenant Saburo Shindo attacked 27 Soviet-built Polikarpov I-15s and I-16s of the Chinese Nationalist Air Force, shooting down all the fighters without loss to themselves. By the time they were redeployed a year later, the Zeros had shot down 99 Chinese aircraft (266 according to other sources).
+
+At the time of the attack on Pearl Harbor 420 Zeros were active in the Pacific. The carrier-borne Model 21 was the type encountered by the Americans. Its tremendous range of over 2,600 km (1,600 mi) allowed it to range farther from its carrier than expected, appearing over distant battlefronts and giving Allied commanders the impression that there were several times as many Zeros as actually existed.
+
+The Zero quickly gained a fearsome reputation. Thanks to a combination of excellent maneuverability and firepower, it easily disposed of the motley collection of Allied aircraft sent against it in the Pacific in 1941. It proved a difficult opponent even for the Supermarine Spitfire. Although not as fast as the British fighter, the Mitsubishi fighter could out-turn the Spitfire with ease, could sustain a climb at a very steep angle, and could stay in the air for three times as long.
+
+Soon, however, Allied pilots developed tactics to cope with the Zero. Due to its extreme agility, engaging a Zero in a traditional, turning dogfight was likely to be fatal. It was better to roar down from above in a high-speed pass, fire a quick burst, then climb quickly back up to altitude. (A short burst of fire from heavy machine guns or cannon was often enough to bring down the fragile Zero.) Such "boom-and-zoom" tactics were used successfully in the China Burma India Theater (CBI) by the "Flying Tigers" of the American Volunteer Group (AVG) against similarly maneuverable Japanese Army aircraft such as the Nakajima Ki-27 Nate and Ki-43 Oscar. AVG pilots were trained to exploit the advantages of their P-40s, which were very sturdy, heavily armed, generally faster in a dive and level flight at low altitude, with a good rate of roll.
+
+Another important maneuver was Lieutenant Commander John S. "Jimmy" Thach's "Thach Weave", in which two fighters would fly about 60 m (200 ft) apart. If a Zero latched onto the tail of one of the fighters, the two aircraft would turn toward each other. If the Zero followed his original target through the turn, he would come into a position to be fired on by the target's wingman. This tactic was first used to good effect during the Battle of Midway, and later over the Solomon Islands. Many highly experienced Japanese aviators were lost in combat, resulting in a progressive decline in the quality of the opponents faced by Allied pilots, which became a significant factor in Allied successes. Unexpected heavy losses of these pilots at the battles of the Coral Sea and Midway dealt the Japanese carrier air force a blow from which it never fully recovered.
+
+However, throughout the engagement at Midway, the Allied Pilots registered a high dissatisfaction with the current state of the Grumman F4F Wildcat. The Commanding Officer of the USS Yorktown noted: They were astounded by the Zero's superiority:
+
+In contrast, Allied fighters were designed with ruggedness and pilot protection in mind. The Japanese ace Saburō Sakai described how the resilience of early Grumman aircraft was a factor in preventing the Zero from attaining total domination:
+
+When the powerfully armed Lockheed P-38 Lightning — possessing four "light barrel" AN/M2 .50 cal. Browning machine guns and one 20 mm autocannon — and the Grumman F6F Hellcat and Vought F4U Corsair, each using six of the AN/M2 heavy calibre Browning guns appeared in the Pacific theater, the A6M, with its low-powered engine and lighter armament, was hard-pressed to remain competitive. In combat with an F6F or F4U, the only positive thing that could be said of the Zero at this stage of the war was that in the hands of a skillful pilot it could maneuver as well as most of its opponents. Nonetheless, in competent hands the Zero could still be deadly.
+
+Due to shortages of high-powered aviation engines and problems with planned successor models, the Zero remained in production until 1945, with over 11,000 of all variants produced.
+
+2.1. Allied opinions
+
+The American military discovered many of the A6M's unique attributes when they recovered a largely intact specimen, the Akutan Zero, on Akutan Island in the Aleutians. During an air raid over Dutch Harbor on 4 June 1942, one A6M fighter was hit by ground fire. Losing oil, Flight Petty Officer Tadayoshi Koga attempted an emergency landing on Akutan Island about 20 miles northeast of Dutch Harbor, but his Zero flipped over in soft ground in a sudden crash landing. Koga died instantly of head injuries, but the relatively undamaged fighter was found over a month later by an American salvage team and shipped to Naval Air Station North Island where testing flights of the repaired A6M revealed both strengths and deficiencies in design and performance.
+
+The experts who evaluated the captured Zero found that the plane weighed about 2,360 kg (5,200 pounds) fully loaded, about half the weight of the standard United States Navy fighter. It was "built like a fine watch"; the Zero was constructed with flush rivets, and even the guns were flush with the wings. The instrument panel was a "marvel of simplicity ... with no superfluities to distract [the pilot]." What most impressed the experts was that the Zero's fuselage and wings were constructed in one piece, unlike the American method that built them separately and joined the two parts together. The Japanese method was much slower, but resulted in a very strong structure and improved close maneuverability.
+
+Captain Eric Brown, the Chief Naval Test Pilot of the Royal Navy, recalled being impressed by the Zero during tests of captured aircraft. "I don’t think I have ever flown a fighter that could match the rate of turn of the Zero. The Zero had ruled the roost totally and was the finest fighter in the world until mid-1943." American test pilots found that the Zero's controls were "very light" at , but stiffened at faster speeds (above 348 km/h, or 216 mph) to safeguard against wing failure. The Zero could not keep up with Allied aircraft in high speed maneuvers, and its low "never exceed speed" (VNE) made it vulnerable in a dive. While stable on the ground despite its light weight, the aircraft was designed purely for the attack role, emphasizing long range, maneuverability, and firepower at the expense of protection of its pilot. Most lacked self-sealing tanks and armor plating.
+
+3. Variants
+
+3.1. A6M1, Type 0 Prototypes
+
+The first A6M1 prototype was completed in March 1939, powered by the 580 kW (780 hp) Mitsubishi Zuisei 13 engine with a two-blade propeller. It first flew on 1 April, and passed testing in a remarkably short period of time. By September, it had already been accepted for Navy testing as the A6M1 Type 0 Carrier Fighter, with the only notable change being a switch to a three-bladed propeller to cure a vibration problem.
+
+3.2. A6M2 Type 0 Model 11
+
+While the Navy was testing the first two prototypes, they suggested that the third be fitted with the 700 kW (940 hp) Nakajima Sakae 12 engine instead. Mitsubishi had its own engine of this class in the form of the Kinsei, so they were somewhat reluctant to use the Sakae. Nevertheless, when the first A6M2 was completed in January 1940, the Sakae's extra power pushed the performance of the Zero well past the original specifications.
+
+The new version was so promising that the Navy had 15 built and shipped to China before they had completed testing. They arrived in Manchuria in July 1940, and first saw combat over Chungking in August. There they proved to be completely untouchable by the Polikarpov I-16s and I-153s that had been such a problem for the A5Ms currently in service. In one encounter, 13 Zeros shot down 27 I-15s and I-16s in under three minutes without loss. After hearing of these reports the Navy immediately ordered the A6M2 into production as the Type 0 Carrier Fighter, Model 11. Reports of the Zero's performance filtered back to the US slowly. There they were dismissed by most military officials, who felt it was impossible for the Japanese to build such an aircraft.
+
+3.3. A6M2 Type 0 Model 21
+
+After the delivery of only 65 aircraft by November 1940, a further change was worked into the production lines, which introduced folding wingtips to allow them to fit on aircraft carriers. The resulting Model 21 would become one of the most produced versions early in the war. A feature was the improved range with 520lt wing tank and 320lt drop tank. When the lines switched to updated models, 740 Model 21s had been completed by Mitsubishi, and another 800 by Nakajima. Two other versions of the Model 21 were built in small numbers, the Nakajima-built A6M2-N "Rufe" floatplane (based on the Model 11 with a slightly modified tail), and the A6M2-K two-seat trainer of which a total of 508 were built by Hitachi and the Sasebo Naval Air Arsenal.
+
+3.4. A6M3 Type 0 Model 32
+
+In 1941, Nakajima introduced the Sakae 21 engine, which used a two-speed supercharger for better altitude performance, and increased power to 840 kW (1,130 hp). A prototype Zero with the new engine was first flown on July 15, 1941.
+
+The new Sakae was slightly heavier and somewhat longer due to the larger supercharger, which moved the center of gravity too far forward on the existing airframe. To correct for this, the engine mountings were cut back by 185 mm to move the engine toward the cockpit. This had the side effect of reducing the size of the main fuselage fuel tank (located between the engine and the cockpit) from 518 L (137 US gal) to 470 L (120 US gal). The cowling was redesigned to enlarge the cowl flaps, revise the oil cooler air intake, and move the carburetor air intake to the upper half of the cowling.
+
+The wings were redesigned to reduce span, eliminate the folding tips, and square off the wingtips. The inboard edge of the aileron was moved outboard by one rib, and the wing fuel tanks were enlarged accordingly to 420 L. The two 20 mm wing cannon were upgraded from the 99 Shiki 1 Gou Koteijū 1 Kata Kai 1 to the 99 Shiki 1 Gou Koteijū 3 Gata, which required a bulge in the sheet metal of the wing below each cannon. The wings also included larger ammunition boxes, allowing for 100 rounds for each of the 20 mm cannon.
+
+The Sakae 21 engine and other changes increased maximum speed by only 11 kph compared to the Model 21, but sacrifed nearly 1,000 km of range. Nevertheless, the navy accepted the type and it entered production in April 1942.
+
+The shorter wing span led to better roll, and the reduced drag allowed the diving speed to be increased to 670 km/h (420 mph). On the downside, turning and range, which were the strengths of the Model 21, suffered due to smaller ailerons, decreased lift and greater fuel consumption. The shorter range proved a significant limitation during the Solomons Campaign, during which Zeros based at Rabaul had to travel nearly to their maximum range to reach Guadalcanal and return. Consequently, the Model 32 was unsuited to that campaign and was used mainly for shorter range offensive missions and interception.
+
+The redesign was enough to prompt the US to assign the Model 32 a new code name, "Hap". This name was short-lived, as a protest from USAAF Commanding General Henry "Hap" Arnold forced a change to "Hamp". Soon after, it was realized that it was simply a new model of the "Zeke".
+
+This variant was flown by only a small number of units, and only 343 were built.
+
+3.5. A6M3 Type 0 Model 22
+
+In order to correct the deficiencies of the Model 32, a new version with the folding wingtips of the Model 21, new fuel tanks in the outer wings, and attachments and fuel lines for a 330 L (90 US gal) drop tank under each wing were introduced. The internal fuel was increased to 570 L (137 US gal) in this model, regaining all of the range lost in the Model 32 variant.
+
+As the wing had significant redesign, this version received a new navy designation, 22 型 (2-2 kata, known in the West as a Model 22). The new model entered service circa December 1942 (before the navy formally accepted the new design) and 560 were eventually produced, all by Mitsubishi. This wing is seen with two armament configurations. The Model 22 has the same wing armament as in the Model 32. The 22型甲 (2-2 kata kou, aka Model 22a) has one 99式2号固定銃3型 (9-9 shiki 2 gou koteijū 3 gata) cannon in each wing. The barrel protrudes.
+
+According to one theory, very late production Model 22s may have had a wing similar to the shortened, rounded-tip wing of the Model 52. One such plane was photographed at Lakunai Airfield ("Rabaul East") in the second half of 1943, and the photo has been published in a number of Japanese books, e.g., Aero Detail 7 and 世界の傑作機 9 at page 33 (Sekai no Kessaku Ki, aka Famous Airplanes of the World 9, 1993). Although jumping to the conclusion that the cowling is that of the Models 32 and 22, the latter book proposes that the plane is an early production Model 52, based upon an unspecified manual (see below). There is a growing body of evidence that this "hybrid" type is simply an early production Model 52 (see below). (The Model 32, 22, 22 kou, 52, 52 kou and 52 otsu were all powered by the Nakajima 栄 (Sakae) 21型 engine. That engine kept its designation in spite of changes in the exhaust system for the Model 52.)
+
+3.6. A6M4 Type 0 Model 41/42
+
+Mitsubishi is unable to state with certainty that it ever used the designation "A6M4" or model numbers for it. However, "A6M4" does appear in a translation of a captured Japanese memo from a Naval Air Technical Arsenal, titled Quarterly Report on Research Experiments, dated 1 October 1942. It mentions a "cross-section of the A6M4 intercooler" then being designed. Some researchers believe "A6M4" was applied to one or two prototype planes fitted with an experimental turbo-supercharged Sakae engine designed for high altitude. Mitsubishi's involvement in the project was probably quite limited or nil; the unmodified Sakae engine was made by Nakajima. The design and testing of the turbo-supercharger was the responsibility of the 第一海軍航空廠 (Dai Ichi Kaigun Kōkūshō, First Naval Air [Technical] Arsenal) at Yokosuka. At least one photo of a prototype plane exists. It shows a turbo unit mounted in the forward left fuselage.
+
+Lack of suitable alloys for use in the manufacture of a turbo-supercharger and its related ducting caused numerous ruptures, resulting in fires and poor performance. Consequently, further development of a turbo-supercharged A6M was cancelled. The lack of acceptance by the navy suggests that the navy did not bestow model number 41 or 42 formally, although it appears that the arsenal did use the designation "A6M4". The prototype engines nevertheless provided useful experience for future engine designs.
+
+3.7. A6M5 Type 0 Model 52
+
+Sometimes considered the most effective variant, the Model 52 was developed to again shorten the wings to increase speed and dispense with the folding wing mechanism. In addition, ailerons, aileron trim tab and flaps were revised. Produced first by Mitsubishi, most Model 52s were made by Nakajima. The prototype was made in June 1943 by modifying an A6M3 and was first flown in August 1943. The first Model 52 is said in the handling manual to have 製造番号 (seizō bangō, manufacture number) 3904, which apparently refers to the prototype.
+
+Research by Mr. Bunzo Komine published by Mr. Kenji Miyazaki states that aircraft 3904 through 4103 had the same exhaust system and cowl flaps as on the Model 22. This is partially corroborated by two wrecks researched by Mr. Stan Gajda and Mr. L. G. Halls, seizō bangō 4007 and 4043, respectively. (The upper cowling was slightly redesigned from that of the Model 22.)
+
+A new exhaust system provided an increment of thrust by aiming the stacks aft and distributing them around the forward fuselage. The new exhaust system required "notched" cowl flaps and heat shields just aft of the stacks. (Note, however, that the handling manual translation states that the new style of exhaust commenced with number 3904. Whether this is correct, indicates retrofitting intentions, refers to the prototype but not to all subsequent planes, or is in error is not clear.) From seizō bangō 4274, the wing fuel tanks received carbon dioxide fire extinguishers. From number 4354, the radio became the Model 3, aerial Mark 1, and at that point it is said the antenna mast was shortened slightly. Through seizō bangō 4550, the lowest exhaust stacks were approximately the same length as those immediately above them. This caused hot exhaust to burn the forward edge of the landing gear doors and heat the tires. Therefore, from number 4551 Mitsubishi began to install shorter bottom stacks. Nakajima manufactured the Model 52 at its Koizumi plant in Gunma Prefecture. The A6M5 had a maximum speed of 565 km/h (351 mph) at 6,000 meters and reached that altitude in 7:01 minutes.
+
+Subsequent variants included:
+
+A6M5a, Model 52甲 (Kō, a) - Starting at Mitsubishi number 4651, an armament change substituted the Type 99-2 Mark 4 cannon, a belt-fed gun of 125 rounds per gun, in place of the drum-fed Type 99-2 Mark 3 of 100 rpg. The larger bulge in the underside of the wing for each cannon was deleted and the ejection port for spent cartridge cases was moved. Thicker wing skinning was installed to permit higher diving speeds.
+
+A6M5b, Model 52乙 (Otsu, b) - Armament change: The 7.7 mm (.303 in) Type 97 gun (750 m/s muzzle velocity and 600 m/1,970 ft range) in the right forward fuselage was replaced by a 13.2 mm Type 3 Browning-derived gun (790 m/s muzzle velocity and 900 m/2,950 ft range) with 240 rounds. The larger weapon required an enlarged opening, creating a distinctive asymmetric appearance to the top of the cowling, and a revised gas outlet near the windscreen. In addition, each wing cannon received a fairing at the wing leading edge. A plate of armored glass 45 mm thick was fitted to the windscreen. A larger propeller spinner was fitted, suggesting a change to the propeller. The central drop tank became one with fins, suspended on a slanted pipe. The first of this variant was completed in April 1944 and it was produced until October 1944.
+
+A6M5c, Model 52丙 (Hei, c) - Armament change: One 13.2 mm (.51 in) Type 3 machine gun with a rate of fire of 800 rpm was added in each wing outboard of the cannon, but the 7.7 mm gun at the left side of the cowl was deleted. Four racks for rockets or small bombs were installed outboard of the 13 mm gun in each wing. Engine change: Some sources state that the hei had a Sakae 31 engine In addition, a 55 mm thick piece of armored glass was installed at the headrest and a plate of armor was installed behind the seat. The mounting of the central 300L drop tank changed to a four-post design. Wing skin was thickened further. The first of this variant was completed in September 1944. Because of the gain in weight, this variant was used mainly for intercepting B-29s and special attack.
+
+A6M5-S (A6M5 Yakan Sentōki) - Armament change: To intercept B-29s and other night-flying aircraft, an air arsenal converted some Model 52s to night fighters. They were armed with one 20 mm Type 99 cannon behind the pilot, aimed upward and similar to the Luftwaffe Schräge Musik installation. However, lack of radar prevented them from being very effective. Some Model 21 and 52 aircraft were converted to "bakusen" (fighter-bombers) by hanging a bomb rack and 250 kg bomb in place of the centerline drop tank.
+
+Perhaps seven Model 52 planes were ostensibly converted into A6M5-K two-seat trainers; mass production was contemplated by Hitachi but not undertaken.
+
+3.8. A6M6c Type 0 Model 53c
+
+This was similar to the A6M5c, but with self-sealing wing tanks and a Nakajima Sakae 31a engine featuring water-methanol engine boost.
+
+3.9. A6M7 Type 0 Model 62
+
+Similar to the A6M6 but intended for attack or Kamikaze role.
+
+3.10. A6M8 Type 0 Model 64
+
+Similar to the A6M6 but with the Sakae (now out of production) replaced by the Mitsubishi Kinsei 62 engine with 1,560 hp (1,164 kW), 60% more powerful than the engine of the A6M2. This resulted in an extensively modified cowling and nose for the aircraft. The carburetor intake was much larger, a long duct like that on the Nakajima B6N Tenzan was added, and a large spinner—like that on the Yokosuka D4Y Suisei with the Kinsei 62—was mounted. The larger cowling meant deletion of the fuselage-mounted machine gun, but armament was otherwise unchanged from the Model 52 Hei (2 x 20 mm cannon; 2 x 13 mm/.51 in MG). In addition, the Model 64 was modified to carry two 150 L (40 US gal) drop tanks on either wing in order to permit the mounting of a 250 kg (550 lb) bomb on the underside of the fuselage. Two prototypes were completed in April 1945 but the chaotic situation of Japanese industry and the end of the war obstructed the start of the ambitious program of production for 6,300 machines, none being completed.
+
+4. Operators
+
+;
+
+Imperial Japanese Navy Air Service
+
+Royal Thai Air Force
+
+Royal Thai Navy
+
+4.1. Post-war
+
+;
+
+Indonesian Air Force
+
+Republic of China Air Force
+
+5. Survivors
+
+Several Zero fighters survived the war and are on display:
+
+Japan:
+
+Tokyo (Yasukuni War Museum)
+
+Hamamatsu (Hamamatsu Air Base)
+
+Komaki, Aichi (Mitsubishi Heavy Industries)
+
+Iwakuni (MCAS Iwakuni)
+
+Kure (Yamato Museum)
+
+Kanoya
+
+China: Beijing Military Museum
+
+The United States:
+
+National Air and Space Museum,
+
+National Museum of the United States Air Force
+
+National Museum of Naval Aviation
+
+Pacific Aviation Museum
+
+San Diego Air and Space Museum
+
+Flying Heritage Collection
+
+Planes of Fame Air Museum
+
+The UK: Duxford Imperial War Museum - partial airframe
+
+New Zealand: Auckland War Memorial Museum
+
+Australia: Australian War Memorial in Canberra. A restored A6M2-21 "V-173" was retrieved as a wreck after the war and later found to have been flown by Saburō Sakai at Lae.
+
+Indonesia: The Museum Dirgantara Mandala in Yogyakarta has an A6M in its collection. Another aircraft recovered by the Australian War Memorial Museum in the early 1970s now belongs to Fantasy of Flight in Polk City, Florida. Along with several other Zeros, it was found near Rabaul in the South Pacific. The markings suggest that it was in service after June 1943 and further investigation suggests that it has cockpit features associated with the Nakajima-built Model 52b. If this is correct, it is most likely one of the 123 aircraft lost by the Japanese during the assault of Rabaul. The aircraft was shipped in pieces to the attraction and it was eventually made up for display as a crashed aircraft. Much of the aircraft is usable for patterns and some of its parts can be restored to one day make this a basis for a flyable aircraft.
+
+Four flyable Zero airframes exist. Three have had their engines replaced with similar American units. Only one, the Planes of Fame Museum's A6M5 bearing tail number "61-120" (recovered from Saipan) has the original Sakae engine.
+
+Although not a survivor, the "Blayd" Zero is a reconstruction based on templating original Zero components recovered from the South Pacific. To be considered a "restoration" and not a reproduction, the builders used a small fraction of parts from the original Zero landing gear in the reconstruction. Restored as a A6M2 Model 21, it is currently owned by the Texas Flying Legends Museum.
+
+The Commemorative Air Force's A6M3 was recovered from Babo Airfield, New Guinea, in 1991. It was partially restored from several A6M3s in Russia, then brought to the United States for restoration. The aircraft was re-registered in 1998 and displayed at the Museum of Flying in Santa Monica, California. It currently uses a Pratt & Whitney R1830 engine. Another A6M3 was also recovered from Babo Airfield and restored with a P&W engine. It currently is owned by the Flying Heritage Collection in Everett, Washington.
+
+The rarity of flyable Zeros accounts for the use of single-seat North American T-6 Texans, with heavily modified fuselages and painted in Japanese markings, as substitutes for Zeros in the films Tora! Tora! Tora!, The Final Countdown, and many other television and film depictions of the aircraft, such as Baa Baa Black Sheep (renamed Black Sheep Squadron). One Model 52 was used during the production of Pearl Harbor.
+
+6. Specifications (A6M2 Type 0 Model 21)
+
+7. See also
+
+8. References
+
+8.1. Notes
+
+8.2. Citations
+
+8.3. Bibliography
+
+Angelucci, Enzo and Peter M. Bowers. The American Fighter. Sparkford, UK: Haynes Publishing, 1987. ISBN 0-85429-635-2.
+
+Fernandez, Ronald. Excess Profits: The Rise of United Technologies. Boston: Addison-Wesley, 1983. ISBN 978-0-201-10484-4.
+
+Ford, Douglas. “Informing Airmen? The U.S. Army Air Forces’ Intelligence on Japanese Fighter Tactics in the Pacific Theatre, 1941–5,” International History Review 34 (Dec. 2012), 725–52.
+
+Francillon, R.J. Japanese Aircraft of the Pacific War. London: Putnam, 1970, ISBN 0-370-00033-1.
+
+Glancey, Jonathan. Spitfire: The Illustrated Biography. London: Atlantic Books, 2006. ISBN 978-1-84354-528-6.
+
+Green, William and Gordon Swanborough. The Great Book of Fighters. St. Paul, Minnesota: MBI Publishing, 2001. ISBN 0-7603-1194-3.
+
+Gunston, Bill. Aircraft of World War 2. London: Octopus Books Limited, 1980. ISBN 0-7064-1287-7.
+
+Holmes, Tony, ed. Dogfight, The Greatest Air Duels of World War II. Oxford, UK: Osprey Publishing Ltd, 2011. ISBN 978-1-84908-482-6.
+
+Matricardi, Paolo. Aerei Militari. Caccia e Ricognitori (in Italian). Milan: Mondadori Electa, 2006.
+
+Mikesh, Robert C. Warbird History: Zero, Combat & Development History of Japan's Legendary Mitsubishi A6M Zero Fighter. St. Paul, Minnesota: Motorbooks International, 1994. ISBN 0-87938-915-X.
+
+Parshall, Jonathan and Anthony Tully. Shattered Sword: The Untold Story of the Battle of Midway. Washington, D.C.: Potomac Books Inc., 2007. ISBN 978-1-57488-924-6 (paperback).
+
+Spick, Mike. Allied Fighter Aces of World War II. London: Greenhill Books, 1997. ISBN 1-85367-282-3.
+
+Thompson, J. Steve with Peter C. Smith. Air Combat Manoeuvres: The Technique and History of Air Fighting for Flight Simulation. Hersham, Surrey, UK: Ian Allan Publishing, 2008. ISBN 978-1-903223-98-7.
+
+Thruelsen, Richard. The Grumman Story. Praeger Press, 1976. ISBN 0-275-54260-2.
+
+Tillman, Barrett. Hellcat: The F6F in World War II. Naval Institute Press, 1979. ISBN 1-55750-991-3.
+
+Wilcox, Richard. . Life, 4 November 1942.
+
+Willmott, H.P. Zero A6M. London: Bison Books, 1980. ISBN 0-89009-322-9.
+
+Yoshimura, Akira, translated by Retsu Kaiho and Michael Gregson. Zero! Fighter. Westport, Connecticut: Praeger Publishers, 1996. ISBN 0-275-95355-6.
+
+9. External links

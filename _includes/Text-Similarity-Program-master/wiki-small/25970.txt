@@ -1,0 +1,183 @@
+RCA Corporation, founded as the Radio Corporation of America, was an American electronics company in existence from 1919 to 1986 when General Electric took over the company in 1985 and split it up the following year.
+
+The RCA trademark is used by Sony Music Entertainment and Technicolor, which licenses the name to other companies such as Audiovox and TCL Corporation for products descended from that common ancestor.
+
+1. Origins
+
+1.1. Organization by General Electric
+
+After World War I began in August 1914, radio traffic across the Atlantic Ocean increased dramatically after the western Allies cut the German transatlantic telegraph cables. Germany, Austria-Hungary, and their allies in Europe (the Central Powers) maintained contact with neutral countries in the Americas via long-distance radio communications, as well as telegraph cables owned by neutral countries such as the Netherlands and Denmark.
+
+In 1917 the U.S. government took charge of the patents owned by the major companies involved in radio manufacture in the US to devote radio technology to the war effort. All production of radio equipment was allocated to the U.S. Army, U.S. Navy, U.S. Marine Corps, and the U.S. Coast Guard. The War Department and the Navy Department sought to maintain a federal monopoly of all uses of radio technology. The wartime takeover of all radio systems ended late in 1918, when the US Congress failed to pass a bill which would have extended this monopoly. The war ended in November of that year.
+
+The ending of the federal government's monopoly in radio communications did not prevent the War and Navy Departments from creating a national radio system for the US. On 8 April 1919, naval Admiral W. H. G. Bullard and Captain Stanford C. Hooper met with executives of the General Electric Corporation (GE) and asked them to discontinue selling the company's Alexanderson alternators (used in the high-power AM radio transmitters of that era) to the British-owned Marconi Company, and to its subsidiary, the Marconi Wireless Telegraph Company of America.
+
+The proposal presented by the government was that if GE created an American-owned radio company, then the Army and Navy would effect a monopoly of long-distance radio communications via this company. This marked the beginning of a series of negotiations through which GE would buy the American Marconi company and then incorporate what would be called the Radio Corporation of America.
+
+1.2. Establishment
+
+The incorporation of the assets of Marconi Wireless Telegraph Company of America (including David Sarnoff,) the Pan-American Telegraph Company, and those already controlled by the United States Navy led to a new publicly held company formed by General Electric (which owned a controlling interest) on October 17, 1919. The following cooperation among RCA, General Electric, the United Fruit Company, the Westinghouse Electric Corporation, and American Telephone & Telegraph (AT&T) brought about innovations in high-power radio technology, and also the founding of the National Broadcasting Company (NBC) in the US. The Army and the Navy granted RCA the former American Marconi radio terminals that had been confiscated during the War. Admiral Bullard received a seat on the Board of Directors of RCA for his efforts in establishing RCA. The result was dederally-created monopolies in radio for GE and the Westinghouse Corporation and in telephone systems for the American Telephone & Telegraph Company.
+
+The argument by the Department of War and the Department of the Navy that the usable radio frequencies were limited, and hence needed to be appropriated for use before other countries, such as the United Kingdom, France, Germany, and Canada monopolized them, collapsed in the mid-1920s following the discovery of the practicality of the use of the shortwave radio band (3.0 MHz through 30.0 MHz) for very long-range radio communications.
+
+The first chief executive officer of RCA was Owen D. Young; David Sarnoff became its general manager. RCA's incorporation papers required that a majority of its stock be held by American citizens. RCA agreed to market the radio equipment manufactured by GE and Westinghouse, and in follow-on agreements, RCA also acquired the radio patents that had been held by Westinghouse and the United Fruit Company. As the years went on, RCA either took over, or produced for itself, a large number of patents, including that of the superheterodyne receiver invented by Edwin Armstrong.
+
+Over the years, RCA continued to operate international telecommunications services, under its subsidiary RCA Communications, Inc., and later the RCA Global Communications Company.
+
+1.3. Broadcast expansion
+
+By 1926 the market for commercial radio had expanded, and RCA purchased the WEAF and WCAP radio stations and networks from AT&T, merged them with its WJZ (the predecessor of WABC) New York to WRC (presently WTEM) Washington chain, and formed the National Broadcasting Company (NBC).
+
+2. Radio
+
+GE used RCA as its retail arm for radio sales from 1919, when GE began production, until 1930. Westinghouse also marketed home radios through RCA until 1930.
+
+2.1. Phonograph
+
+In 1929, RCA purchased the Victor Talking Machine Company, then the world's largest manufacturer of phonographs (including the famous "Victrola") and phonograph records. This included a majority ownership of the Victor Company of Japan (JVC). The new subsidiary then became RCA-Victor. With Victor, RCA acquired New World rights to the Nipper trademark. This Trademark is also the trademark for the British music & entertainment company HMV who now display Nipper in silhouette. RCA Victor produced many radio-phonographs and also created RCA Photophone, a sound-on-film system for sound films that competed with William Fox's sound-on-film Movietone and Warner Bros.' sound-on-disc Vitaphone.
+
+RCA began selling the first electronic turntable in 1930. In 1931, RCA Victor began selling 33⅓ rpm records. These had the standard groove size (the same width as the contemporary 78 rpm records), rather than the "microgroove" used in post-World War II 33⅓ "Long Play" records. The format was a commercial failure at the height of the Great Depression, partly because the records and playback equipment were expensive, and partly because the audio performance was poor; it would require the smaller-radius stylus of the microgroove system to make slower-speed records perform acceptably. The system was withdrawn from the market after about a year. (This was not the first attempt at a commercial long play record format, as Edison Records had marketed a microgroove vertically recorded disc with 20 minutes playing time per side the previous decade; the Edison long-playing records were also a commercial failure.) Also in the Thirties, RCA sold the modernistic RCA Victor M Special, a polished aluminum portable record player designed by John Vassos. It has become an icon of Thirties American industrial design.
+
+In 1930, RCA agreed to occupy the yet-to-be-constructed landmark building of the Rockefeller Center complex, 30 Rockefeller Plaza, which in 1933 became known as the RCA building, now the GE Building. This critical lease in the massive project enabled it to proceed as a commercially viable venture.
+
+2.2. Separation from General Electric
+
+In 1930, the U.S. Department of Justice brought antitrust charges against RCA, General Electric and Westinghouse. As a result, GE and Westinghouse gave up their ownership interests in RCA. RCA was allowed to keep its radio factories, and GE and Westinghouse were allowed to compete in that business after 30 months.
+
+2.3. Electronic television
+
+RCA demonstrated an all-electronic television system at the 1939 New York World's Fair, and developed the USA's first television test pattern. RCA began regular experimental television broadcasting from the NBC studios to the New York metropolitan area on April 30, 1939 via station W2XBS, Channel 1 (which evolved into WNBC channel 4) from a transmitter atop The Empire State Building At the same time, RCA began selling their first television set models in various New York stores With the introduction of the NTSC standard, the Federal Communications Commission authorized the start of commercial television transmission on July 1, 1941. World War II slowed the deployment of television in the US, but RCA again began selling television sets almost immediately after the war ceased. (See also: History of television) RCA was involved in radar and radio development in support of the war effort. RCA ranked 43rd among United States corporations in the value of wartime military production contracts. This greatly assisted RCA in its television research.
+
+RCA was a major producer of vacuum tubes (branded Radiotron) in the US, creating a series of innovative products ranging from octal base metal tubes co-developed with General Electric before WWII to the transistor-sized Nuvistor used in the tuners of the New Vista series of TV sets. The Nuvistor tubes were a last hurrah for vacuum tubes, and were meant to compete with the newly introduced transistor. Their combined power in the marketplace was so strong that they effectively set the selling prices for vacuum tubes in the US. By 1975, the company had completely switched from tubes to solid-state devices in their television sets, except for the main cathode ray tube(CRT).
+
+Antitrust concerns led FCC to force the breakup of the NBC radio networks, a breakup affirmed by the United States Supreme Court. On October 12, 1943, the "NBC Blue" radio network was sold to candy magnate Edward J. Noble for $8,000,000, and renamed "The Blue Network, Inc". It would become the American Broadcasting Company (ABC) in 1946. The "NBC Red" network retained the NBC name, and RCA retained ownership.
+
+3. Diversification
+
+In 1941, before the attack on Pearl Harbor, the cornerstone was laid for a research and development facility, RCA Laboratories in Princeton, New Jersey, led for many years by Elmer Engstrom. This lab developed many innovations, such as color television, the electron microscope, CMOS-based technology, heterojunction physics, optoelectronic emitting devices, liquid crystal displays (LCDs), videocassette recorders, direct broadcast television, direct broadcast satellite systems and high-definition television. From 1988 to January 2011, the Lab was called Sarnoff Corporation, a subsidiary of SRI International, after which it was fully integrated into SRI.
+
+During World War II and beyond, RCA set up several new divisions, for defense, space exploration and other activities. The RCA Service Corporation provided large numbers of staff for the Distant Early Warning (DEW) Line. RCA units won five Army–Navy ‘E’ Awards for Excellence in production. Also during the war, ties between RCA and JVC were severed.
+
+In 1949, RCA Victor released the first 45 rpm record to the public, to compete with CBS/Columbia's 33⅓ rpm "LP" format. The RCA 33⅓ rpm "LP" records themselves became a reality in 1950, and in 1951, so did the CBS/Columbia 45 rpm record.
+
+In 1953, RCA's all-electronic color TV technology was adopted as the standard for American color TV. It is now known as NTSC (after the "National Television System Committee" that approved it). RCA cameras and studio gear, particularly of the TK-40/41 series, became standard equipment at many American television network affiliates, as RCA CT-100 ("RCA Merrill" to dealers) television sets introduced color television to the public.
+
+In 1955, RCA sold its Estate large appliance operations to Whirlpool Corporation. As part of the deal, Whirlpool was given the right to market "RCA Whirlpool" appliances through the mid-1960s.
+
+Despite the company's indisputable leadership in television technology, David Sarnoff in 1955 commented, "Television will never be a medium of entertainment".
+
+RCA was one of several major computer companies (see also: Computing) that also included IBM, Digital Equipment Corporation, Burroughs, Control Data Corporation, General Electric, Honeywell, NCR and Sperry Rand through most of the 1960s. RCA marketed the Spectra 70 Series (models 15, 25, 35, 45, 46, 55, 60 and 61) that were hardware, but not software, compatible with IBM’s System/360 series, and the RCA Series (RCA 2, 3, 6, 7) competing against the IBM System/370. These systems all ran RCA’s real-memory operating systems, DOS and TDOS. RCA’s virtual memory systems, the Spectra 70/46 and 70/61 and the RCA 3 and 7, could also run their Virtual Memory Operating System, VMOS. VMOS was originally named TSOS (Time Sharing Operating System), but was renamed to expand the system beyond the time-sharing market. TSOS was the first mainframe, demand paging, virtual memory operating system on the market. The English Electric System 4 range, the 4-10, 4-30, 4-50,4-70 and the time-sharing 4-75 computers were essentially RCA Spectra 70 clones of the IBM System/360 and 370 range. RCA abandoned computers in 1971. Sperry Rand officially took over the RCA base in January 1972.
+
+RCA Graphic Systems Division (GSD) was an early supplier of electronics designed for the printing and publishing industries. It contracted with German company Rudolf Hell to market adaptations of the Digiset photocomposition system as the Videocomp, and a Laser Color Scanner. The Videocomp was supported by a Spectra computer that ran the Page-1 and, later the Page-II and FileComp composition systems. RCA later sold the Videocomp rights to Information International Inc. (III).
+
+RCA was a major proponent of the eight-track tape cartridge, which it launched in 1965. The eight-track cartridge initially had a huge and profitable impact on the consumer marketplace. Sales of the 8-track tape format peaked early as consumers increasingly favored the compact cassette tape format developed by Philips.
+
+4. Later years
+
+David Sarnoff, whose ambition and business acumen had helped RCA become one of the world's largest companies, turned the company over to his son Robert in 1970. David died the next year, aged 80.
+
+On September 17, 1971, the NBC Nightly News read a news bulletin issued by the RCA Board of Directors just minutes before the broadcast, announcing the Board's decision to cease operation of its general-purpose computer systems division (RCA-CSD). This marked a milestone in RCA's move away from technology and into a diversified conglomerate. (The introduction by IBM of the 370 series required RCA to make a substantial new investment in its computer division, and the Board decided against making that investment.)
+
+During the late 1960s and 1970s, RCA Corporation, as it was now formally known, ventured into other markets. Under Robert Sarnoff's leadership, RCA diversified far beyond electronics and communications, in a broader American corporate trend toward "conglomerates." The company acquired Hertz (rental cars), Banquet (frozen foods), Coronet (carpeting), Random House (publishing) and Gibson (greeting cards), yet slipped into financial disarray, with wags calling it "Rugs Chickens & Automobiles" to poke fun at their attempt at becoming a conglomerate.
+
+Robert Sarnoff was ousted in a 1975 boardroom coup by Anthony Conrad, who resigned a year later after he admitted failing to file income tax returns for six years. RCA maintained its high standards of engineering excellence in broadcast engineering and satellite communications equipment, but ventures such as the NBC radio and television networks declined.
+
+In about 1980, RCA corporate strategy reported on moving manufacture of its television sets to Mexico. RCA was still profitable in 1983, when it switched manufacturing of its VHS VCRs from Panasonic to Hitachi.
+
+Forays into new consumer electronics products lost money. The SelectaVision videodisc system, not to be confused with the same trademark that RCA applied to its VCRs, never developed the manufacturing volumes to substantially bring down its price, could not compete against cheaper, recordable videotape technology, and was abandoned in 1985 for a write-off of several hundred million dollars.
+
+In 1984, RCA Broadcast Systems Division moved from Camden, New Jersey, to the site of the RCA antenna engineering facility in Gibbsboro, New Jersey. In the years that followed, the broadcast product lines developed in Camden were terminated or sold off, and most of the buildings demolished, except for a few of the original RCA Victor buildings that had been declared national historical buildings. For several years, RCA spinoff L-3 Communications Systems East was headquartered in the building, but has since moved to an adjacent building built by the city for them. The building now houses shops and luxury loft apartments.
+
+4.1. Takeover and break-up by GE
+
+Business and financial conditions led to RCA's takeover by GE in 1986 and its subsequent break-up. GE sold its 50% interest in then-RCA/Ariola International Records to its partner Bertelsmann and the company was renamed BMG Music, for Bertelsmann Music Group.
+
+GE then sold the rights to make RCA- and GE-branded televisions and other consumer electronics products in 1988 to the French Thomson Consumer Electronics, in exchange for some of Thomson's medical businesses.
+
+RCA Laboratories was transferred to SRI International as the David Sarnoff Research Center, subsequently renamed Sarnoff Corporation. Sarnoff Labs was put on a five-year plan whereby GE would fund all the labs' activities for the first year, then reduce its support to near zero after the fifth year. This required Sarnoff Labs to change its business model to become an industrial contract research facility.
+
+GE sold the NBC Radio Network to Westwood One and all of its radio stations to various owners. In 2011, a controlling interest in the National Broadcasting Company was sold to Comcast, and in 2013, Comcast acquired the remaining interest in the company from General Electric.
+
+The only RCA unit which GE kept is Government Services.
+
+For information on the RCA brand after 1986, see RCA (trademark).
+
+5. Legacy
+
+RCA antique radios and RCA Merrill/CT-100s and other early color television receivers are among the more sought-after collectible radios and televisions, thanks to their popularity during the golden age of radio, their manufacturing quality, their engineering innovations, their styling and their name, RCA. Most collectable are the pre-war television sets manufactured by RCA beginning in 1939, including the TRK-5, TRK-9 and TRK-12 models.
+
+The historic RCA Victor Building 17, the "Nipper Building", in Camden, New Jersey, was converted to luxury apartments in 2003.
+
+6. Environmental record
+
+A former RCA facility in Taiwan's northern county of Taoyuan (now Taoyuan City) polluted groundwater with toxic chemicals and led to a high incidence of cancer among former employees. The area was declared a toxic site by the Taiwanese Environmental Protection Agency. Both GE and Thomson spent millions of dollars for cleanup, removing of soil and installing municipal water treatment facilities for neighboring communities. A spokesman for RCA's current owners denied responsibility, saying a study conducted by the Taiwan government showed no correlation between the illnesses and the company's facilities, which shut down in 1991.
+
+A plant in Lancaster, Pennsylvania which RCA operated from the late 1940s to June 1986, released more than 250,000 pounds of pollutants per year from its exhaust stacks. Tested by the United States Environmental Protection Agency (EPA) in the late 1980s and early 1990s, the groundwater at the facility is contaminated by trichloroethylene (TCE) and 1,2-dichloroethylene (1,2-DCE). In 1991 and 1992, contaminants were detected in monitoring wells on the east side of the Conestoga River in Lancaster.
+
+The shallow and deep groundwater aquifers beneath the Intersil Facility in Mountaintop, Pennsylvania, which RCA operated in the 1960s and later sold to Harris Corporation, contain elevated levels of volatile organic compounds.
+
+A site in Burlington, Massachusetts which RCA used from 1958 to 1994 to make and test military electronics equipment, generated hazardous waste (VOCs, TCE, toluene, ethylbenzene, and xylenes).
+
+In Barceloneta, Puerto Rico, an RCA-operated plant generated wastes containing chromium, selenium and iron. Four lagoons holding chemical waste drained into the limestone aquifer. Used water from the manufacturing process (process water), containing ferric chloride, was treated onsite to remove contaminants and then was discharged into a sinkhole at the site. The treatment of process water created a sludge that was stored onsite in drying beds and in surface impoundments.
+
+7. See also
+
+Ampliphase
+
+Berliner Gramophone Company, whose Canadian operation became RCA Victor of Canada
+
+Empire State Building broadcast stations
+
+HMV His Masters Voice
+
+RCA Mark II Sound Synthesizer
+
+RCA connector
+
+CMOS 4000 series
+
+RCA/Columbia Pictures Home Video, joint venture between RCA and Columbia Pictures
+
+RKO Pictures, founded in part by RCA
+
+RCA Photophone, Motion Picture sound recording
+
+Electrofax
+
+Harold H. Beverage vice president of research and development at RCA Communications, Inc.
+
+Ernst F. W. Alexanderson RCA's first Chief Engineer, 1920–1924
+
+George H. Brown, research engineer who headed RCA's development of color television
+
+Colortrak and Colortrak 2000, notable trademarks for RCA's early color television sets
+
+Dimensia, a high-end advanced trademark TV for RCA
+
+RCA Records
+
+Claude Robinson, American pioneer in advertising and opinion survey research
+
+Film Chain—RCA TK-26, TK-27 and TK-28
+
+Professional video cameras—TK 47 and more
+
+Victor Company of Japan (JVC)
+
+Missile Test Project
+
+8. Photo gallery
+
+Image:VictorTalkingLogo.jpg|His Master's Voice logo with Nipper (1921). Image:RCA Nipper Camden NJ B.JPG |RCA Nipper window in Camden NJ. Image:Rca-x551.jpg | RCA Radio x551, Early '50s AC/DC tabletop radio Image:RCA-Freedom-19??.jpg | RCA Radio ad. Image:RCA 630-TS Television.jpg|RCA 630-TS, the first mass-produced television set, which sold in 1946–1947 Image:RCA Pavilion.jpg|RCA Pavilion at the 1964 New York World's Fair Image:RCA Color Broadcast Camera TK-41C - 2.jpg|A 1954 RCA TK-41C Color Broadcast Camera mounted on a dolly. Image:RCA Camera in Rupriikki Media Museum front.jpg|RCA television camera, 1954 Image:rcactc101.jpg|RCA Colortrak TV set, using the CTC101 chassis, circa 1980 Image:RCA Dimensia Victrola logo.JPG|RCA Dimensia Victrola logo Image:RCA_Nipper.jpg |RCA Nipper atop the old RCA building, Broadway, Albany, New York Image:RCA 44-BX Bi-Directional Velocity Microphone.jpg|RCA 44-BX Bi-Directional Velocity Microphone. Image:RCA 45 rpm phonograph and record Arthur Fiedler 1949.JPG|Arthur Fiedler demonstrates the new RCA Victor 45rpm player and record in February 1949. Image:Composite-cables.jpg|RCA connector use for audio and video. Image:RCA CT-100 screenshot.jpg|1954 RCA CT-100 TV at the American Museum of Radio And Electricity playing Superman. Image:KL RCA 1802.jpg|RCA 1802, also known as the COSMAC, an 8-bit CMOS microprocessor from 1976. Image:STS-61-C SATCOM Ku-1 deployment.jpg|RCA Satcom K1 placed into orbit by the Space Shuttle Columbia in 1986. Image:Image-orthicon-tube.png|A 1970s-era RCA Radiotron Image Orthicon TV Camera Tube. Image:Feodor Chaliapin - Song of the Flea - Victor 14901B.jpg| RCA Red Seal Records recording Image:Grace Brandt Eddie Albert Grace and Eddie The Honeymooners Show 1937.JPG|Grace Brandt and Eddie Albert in an early NBC television program The Honeymooners-Grace and Eddie Show using an early RCA camera in 1936. Image:RCAStudioB Console.jpg|RCA Studio B recording studio in Nashville, Tennessee. known in the 1960s for being part of the Nashville Sound. Image:DavidSarnoff 1922.jpg| David Sarnoff in 1922 | David Sarnoff in mid-1950s Image:Edwin Armstrong at blackboard.jpg|Edwin Armstrong at RCA Image:Zworykin kinescope 1929.jpg|Vladimir K. Zworykin with a 1920 RCA TV Image:RCA-Studio-II.jpg|A RCA Studio II\ File:RCA OA2.JPG|A voltage regulator vacuum tube made by RCA.
+
+9. References
+
+9.1. Further reading
+
+10. External links
+
+(1887-1983) at Hagley Museum and Library.
+
+at Hagley Museum and Library.
+
+- a web site dedicated to what was RCA Global Communications

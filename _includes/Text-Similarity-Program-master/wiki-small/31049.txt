@@ -1,0 +1,39 @@
+Time transfer is a scheme where multiple sites share a precise reference time. Time transfer solves problems such as astronomical observatories correlating observed flashes or other phenomena with each other, as well as cell phone towers coordinating handoffs as a phone moves from one cell to another.
+
+Multiple techniques have been developed, often transferring reference clock synchronization from one point to another, often over long distances. Accuracy approaching one nanosecond worldwide is economically practical for many applications. Radio-based navigation systems are frequently used as time transfer systems.
+
+In some cases, multiple measurements are made over a period of time, and exact time synchronization is determined retrospectively. In particular, time synchronization has been accomplished by using pairs of radio telescopes to listen to a pulsar, with the time transfer accomplished by comparing time offsets of the received pulsar signal.
+
+1. One-way
+
+In a one-way time transfer system, one end transmits its current time over some communication channel to one or more receivers. The receivers will, at reception, decode the message, and either just report the time, or adjust a local clock which can provide hold-over time reports in between the reception of messages. The advantage of one-way systems is that they can be technically simple and serve many receivers, as the transmitter is unaware of the receivers.
+
+The principal drawback of the one way time transfer system is that propagation delays of the communication channel remain uncompensated except in some advanced systems. Examples of a one-way time transfer system are the clock on a church or town building and the ringing of their time-indication bells; time balls, radio clock signals such as LORAN, DCF77 and MSF; and finally the Global Positioning System which uses multiple one-way time transfers from different satellites, with positional information and other advanced means of delay compensations to allow receiver compensation of time and position information in real time.
+
+2. Two-way
+
+In a two-way time transfer system, the two peers will both transmit, and will also receive each other's messages, thus performing two one-way time transfers to determine the difference between the remote clock and the local clock. The sum of these time differences is the round trip delay between the two nodes. It is often assumed that this delay is evenly distributed between the directions between the peers. Under this assumption, half the round-trip delay is the propagation delay to be compensated. A drawback is that the two-way propagation delay must be measured and used to calculate a delay correction. That function can be implemented in the reference source, in which case the source capacity limits the number of slaves that can be served, or by software in each slave. The NIST provides a time reference service to computer users on the Internet, based on Java applets loaded by each slave. The two-way satellite time and frequency transfer (TWSTFT) system being used in comparison among some time laboratories uses a satellite for a common link between the laboratories. The Network Time Protocol uses packet based messages over an IP network.
+
+3. Common view
+
+The time difference between two clocks may be determined by simultaneously comparing each clock to a common reference signal that may be received at both sites. As long as both end stations receive the same satellite signal at the same time, the accuracy of the signal source is not important. The nature of the received signal is not important, although widely available timing and navigation systems such as GPS or LORAN are convenient.
+
+The accuracy of time transferred in this way is typically 1–10 ns.
+
+4. Time standard
+
+Since the advent of the Global Positioning System, highly precise, yet affordable timing is available from many commercial GPS receivers. Its initial system design expected general timing precision better than 340 nanoseconds using low-grade "coarse mode" and 200 ns in precision mode. A GPS receiver functions by precisely measuring the transit time of signals received from several satellites. These distances combined geometrically with precise orbital information identify the location of the receiver. Precise timing is fundamental to an accurate GPS location. The time from an atomic clock on board each satellite is encoded into the radio signal; the receiver determines how much later it received the signal than it was sent. To do this, a local clock is corrected to the GPS atomic clock time by solving for three dimensions and time based on four or more satellite signals. Improvements in algorithms lead many modern low cost GPS receivers to achieve better than 10 meter accuracy, which implies a timing accuracy of about 30 ns. GPS-based laboratory time references routinely achieve 10 ns precision.
+
+5. See also
+
+International Earth Rotation and Reference Systems Service
+
+Network Time Protocol
+
+Time signal
+
+Two-way satellite time and frequency transfer
+
+Watch#Electronic movements, (radio-controlled watch)
+
+6. References

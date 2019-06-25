@@ -1,0 +1,53 @@
+Morphophonology (also morphophonemics, morphonology) is a branch of linguistics which studies the interaction between morphological and phonological or phonetic processes. Its chief focus is the sound changes that take place in morphemes (minimal meaningful units) when they combine to form words.
+
+Morphophonological analysis often involves an attempt to give a series of formal rules that successfully predict the regular sound changes occurring in the morphemes of a given language. Such a series of rules converts a theoretical underlying representation into a surface form that is actually heard. The units of which the underlying representations of morphemes are composed are sometimes called morphophonemes. The surface form produced by the morphophonological rules may consist of phonemes (which are then subject to ordinary phonological rules to produce speech sounds or phones), or else the morphophonological analysis may bypass the phoneme stage and produce the phones itself.
+
+1. Morphophonemes and morphophonological rules
+
+When morphemes combine, they influence each other's sound structure (whether analyzed at a phonetic or phonemic level), resulting in different variant pronunciations for the same morpheme. Morphophonology attempts to analyze these processes. A language's morphophonological structure is generally described with a series of rules which, ideally, can predict every morphophonological alternation that takes place in the language.
+
+An example of a morphophonological alternation in English is provided by the plural morpheme, written as "-s" or "-es". Its pronunciation alternates between , , and , as in cats, dogs, and horses respectively. A purely phonological analysis would most likely assign to these three endings the phonemic representations , , . On a morphophonological level, however, they may all be considered to be forms of the underlying object , which is a morphophoneme. The different forms it takes are dependent on the segment at the end of the morpheme to which it attaches – these dependencies are described by morphophonological rules. (The behaviour of the English past tense ending "-ed" is similar – it can be pronounced , or , as in hoped, bobbed and added.)
+
+The plural suffix "-s" can also influence the form taken by the preceding morpheme, as in the case of the words leaf and knife, which end with in the singular, but have in the plural (leaves, knives). On a morphophonological level these morphemes may be analyzed as ending in a morphophoneme , which becomes voiced when a voiced consonant (in this case the of the plural ending) is attached to it. This rule may be written symbolically as: -> [αvoice] / [αvoice].
+
+In the International Phonetic Alphabet, pipes (| |) are often used to indicate a morphophonemic rather than phonemic representation. Another common convention is double slashes (// //), as above, implying that the transcription is 'more phonemic than simply phonemic'. Other conventions sometimes seen are double pipes (|| ||) and curly brackets ({ }).
+
+2. Types of morphophonological changes
+
+Inflected and agglutinating languages may have extremely complicated systems of morphophonemics. Examples of complex morphophonological systems include:
+
+Sandhi, the phenomenon behind the English examples of plural and past tense above, is found in virtually all languages to some degree. Even Mandarin, which is sometimes said to display no morphology, nonetheless displays tone sandhi, a morphophonemic alternation.
+
+Consonant gradation, found in some Uralic languages such as Finnish, Estonian, Northern Sámi, and Nganasan.
+
+Vowel harmony, which occurs in varying degrees in languages all around the world, notably Turkic languages.
+
+Ablaut, found in English and other Germanic languages. Ablaut is the phenomenon wherein stem vowels change form depending on context, as in English sing, sang, sung.
+
+3. Relation between phonology and morphophonology
+
+Until the 1950s, many phonologists assumed that neutralizing rules generally applied before allophonic rules. Thus phonological analysis was split into two parts: a morphophonological part, where neutralizing rules were developed to derive phonemes from morphophonemes; and a purely phonological part, where phones were derived from the phonemes. Since the 1960s (in particular with the work of the generative school, such as Chomsky and Halle's The Sound Pattern of English) many linguists have moved away from making such a split, instead regarding the surface phones as being derived from the underlying morphophonemes (which may be referred to using various terminology) through a single system of (morpho)phonological rules.
+
+The purpose of both phonemic and morphophonemic analysis is to produce simpler underlying descriptions for what appear on the surface to be complicated patterns. In purely phonemic analysis the data is just a set of words in a language, while for the purposes of morphophonemic analysis the words must be considered in grammatical paradigms to take account of the underlying morphemes. It is postulated that morphemes are recorded in the speaker's "lexicon" in an invariant (morphophonemic) form, which, in a given environment, is converted by rules into a surface form. The analyst attempts to present as completely as possible a system of underlying units (morphophonemes) and a series of rules that act on them, so as to produce surface forms consistent with the linguistic data.
+
+4. Isolation forms
+
+The isolation form of a morpheme is the form in which that morpheme appears in isolation (when not subject to the effects of any other morpheme). In the case of a bound morpheme, such as the English past tense ending "-ed", it will generally not be possible to identify an isolation form, since such a morpheme does not occur in isolation.
+
+It is often reasonable to assume that the isolation form of a morpheme provides its underlying representation. For example, in some varieties of American English, plant is pronounced , while planting is , where the morpheme "plant-" appears in the form . Here the underlying form can be assumed to be , corresponding to the isolation form, since rules can be set up to derive the reduced form from this (while it would be difficult or impossible to set up rules that would derive the isolation form from an underlying ).
+
+This is not always the case, however; sometimes the isolation form itself is subject to neutralization that does not apply to some other instances of the morpheme. For example, the French word petit ("small") is pronounced in isolation without the final [t] sound, although in certain derived forms (such as the feminine petite) the [t] is heard. If the isolation form were adopted as the underlying form, the information that there is a final "t" would be lost, and it would be hard then to explain the appearance of the "t" in the inflected forms.
+
+5. Rule ordering
+
+6. Morphophonology and orthography
+
+The principle behind alphabetic writing systems is that the letters (graphemes) represent phonemes. However in many orthographies based on such systems the correspondences between graphemes and phonemes are not exact, and it is sometimes the case that certain spellings better represent a word's morphophonological structure rather than the purely phonological. An example of this is that the English plural morpheme is written -s regardless of whether it is pronounced as or ; we write cats and dogs, not dogz.
+
+The above example involves active morphology (inflection), and morphophonemic spellings are common in this context in many languages. Another type of spelling that can be described as morphophonemic is the kind that reflects the etymology of words. Such spellings are particularly common in English; examples include science vs. unconscious , prejudice vs. prequel , sign signature , nation vs. nationalism , and special vs. species .
+
+For more detail on this topic, see Phonemic orthography, in particular the section on Morphophonemic features.
+
+7. References
+
+Hayes, Bruce (2009). "Morphophonemic Analysis" Introductory Phonology, pp. 161–185. Blackwell

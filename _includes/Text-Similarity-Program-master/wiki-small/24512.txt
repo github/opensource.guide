@@ -1,0 +1,65 @@
+The Peter Principle is a concept in management theory in which the selection of a candidate for a position is based on the candidate's performance in their current role rather than on abilities relevant to the intended role. Thus, employees only stop being promoted once they can no longer perform effectively, and "managers rise to the level of their incompetence."
+
+The principle is named after Laurence J. Peter who co-authored with Raymond Hull the humorous 1969 book The Peter Principle: Why Things Always Go Wrong.
+
+1. Overview
+
+The Peter Principle is a special case of a ubiquitous observation: Anything that works will be used in progressively more challenging applications until it fails. This is "The Generalized Peter Principle." There is much temptation to use what has worked before, even when it may exceed its effective scope. Peter observed this about humans.
+
+In an organizational structure, the assessment of the potential of an employee for a promotion is often based on their performance in the current job which results eventually in their being promoted to their highest level of competence and potentially then to a role in which they are not competent, referred to as their "level of incompetence". The employee has no chance of further promotion, thus reaching their career's ceiling in an organization.
+
+Peter suggests that "[i]n time, every post tends to be occupied by an employee who is incompetent to carry out its duties" and that "work is accomplished by those employees who have not yet reached their level of incompetence." He coined the term hierarchiology as the social science concerned with the basic principles of hierarchically organized systems in the human society.
+
+He noted that their incompetence may be a result of the skills required being different rather than more difficult; by way of example, an excellent engineer may find that they made a poor manager due to a limitation of the interpersonal skills required by a manager to effectively lead a team.
+
+Rather than seeking to promote a talented “super-competent” junior employee, Peter suggested that an incompetent manager may set them up to fail or dismiss them because they will likely "violate the first commandment of hierarchical life with incompetent leadership: [namely that] the hierarchy must be preserved".
+
+2. Responses
+
+There are methods that organizations can use to mitigate the risk associated with the Peter Principle:
+
+Refrain from promoting workers based on their current performance without proof of their abilities to succeed in the desired role.
+
+Provide in-service training for the desired roles for those being considered for promotion.
+
+Provide a parallel career path for good technical staff, possibly with the offer of additional pay, perks or recognition without requiring promotion to management, similar to a warrant officer in the military.
+
+Implement an Up or out approach as authorized by the Defense Officer Personnel Management Act for the United States Armed Forces and by manning control policies within the British Army, in which personnel who are not promoted above certain ranks within the fixed number of years are deemed to lack the necessary competence and are likely to be dismissed. Some larger businesses, notably major international management consultancies/accountancy firms including McKinsey, BCG, and Bain use a similar method, or the 'vitality curve' or 'rank and yank' used by GE where employees who are ranked in the bottom 5-10% on performance are likely to be fired.
+
+3. Research
+
+Alessandro Pluchino, Andrea Rapisarda and Cesare Garofalo used an agent-based modelling approach to simulate the promotion of employees in a system where the Peter Principle is assumed to be true. They found that the best way to improve efficiency in an enterprise is to promote people randomly, or to shortlist the best and the worst performer in a given group, from which the person to be promoted is then selected randomly. For this work, they won the 2010 Ig Nobel Prize in management science.
+
+A similar theory was proposed by Scott Adams, creator of the Dilbert cartoon series. In his 1996 book, The Dilbert Principle, Adams suggested that "the least smart people are promoted, simply because they’re the ones you don't want doing actual work." In other words people are promoted because of their incompetence in their current role, rather than their competence. Others have suggested the "Peter Principle in reverse," a management strategy of deliberately promoting an employee beyond their level of existing competency.
+
+4. Forerunners
+
+In the 1910s, José Ortega y Gasset suggested that: "All public employees should be demoted to their immediately lower level, as they have been promoted until turning incompetent".
+
+5. See also
+
+Dunning–Kruger effect
+
+Founder's syndrome
+
+List of eponymous laws
+
+Murphy's Law
+
+Negative selection (politics)
+
+Office Space
+
+Parkinson's law
+
+The Peter Principle (TV series)
+
+Putt's Law and the Successful Technocrat
+
+Software Peter principle
+
+Systemantics
+
+6. References
+
+7. Bibliography

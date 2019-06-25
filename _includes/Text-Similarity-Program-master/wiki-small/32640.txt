@@ -1,0 +1,135 @@
+Vector calculus (or vector analysis) is a branch of mathematics concerned with differentiation and integration of vector fields, primarily in 3-dimensional Euclidean space The term "vector calculus" is sometimes used as a synonym for the broader subject of multivariable calculus, which includes vector calculus as well as partial differentiation and multiple integration. Vector calculus plays an important role in differential geometry and in the study of partial differential equations. It is used extensively in physics and engineering, especially in the description of electromagnetic fields, gravitational fields and fluid flow.
+
+Vector calculus was developed from quaternion analysis by J. Willard Gibbs and Oliver Heaviside near the end of the 19th century, and most of the notation and terminology was established by Gibbs and Edwin Bidwell Wilson in their 1901 book, Vector Analysis. In the conventional form using cross products, vector calculus does not generalize to higher dimensions, while the alternative approach of geometric algebra, which uses exterior products does generalize, as discussed below.
+
+1. Basic objects
+
+1.1. Scalar fields
+
+A scalar field associates a scalar value to every point in a space. The scalar may either be a mathematical number or a physical quantity.Examples of scalar fields in applications include the temperature distribution throughout space, the pressure distribution in a fluid, and spin-zero quantum fields, such as the Higgs field. These fields are the subject of scalar field theory.
+
+1.2. Vector fields
+
+A vector field is an assignment of a vector to each point in a subset of space. A vector field in the plane, for instance, can be visualized as a collection of arrows with a given magnitude and direction each attached to a point in the plane. Vector fields are often used to model, for example, the speed and direction of a moving fluid throughout space, or the strength and direction of some force, such as the magnetic or gravitational force, as it changes from point to point.
+
+1.3. Vectors and pseudovectors
+
+In more advanced treatments, one further distinguishes pseudovector fields and pseudoscalar fields, which are identical to vector fields and scalar fields except that they change sign under an orientation-reversing map: for example, the curl of a vector field is a pseudovector field, and if one reflects a vector field, the curl points in the opposite direction. This distinction is clarified and elaborated in geometric algebra, as described below.
+
+2. Vector operations
+
+2.1. Algebraic operations
+
+The basic algebraic (non-differential) operations in vector calculus are referred to as vector algebra, being defined for a vector space and then globally applied to a vector field, and consist of: ;scalar multiplication: multiplication of a scalar field and a vector field, yielding a vector field: ; ;vector addition: addition of two vector fields, yielding a vector field: ; ;dot product: multiplication of two vector fields, yielding a scalar field: ; ;cross product: multiplication of two vector fields, yielding a vector field: ;
+
+There are also two triple products: ;scalar triple product: the dot product of a vector and a cross product of two vectors: ; ;vector triple product: the cross product of a vector and a cross product of two vectors: or ; although these are less often used as basic operations, as they can be expressed in terms of the dot and cross products.
+
+2.2. Differential operations
+
+Vector calculus studies various differential operators defined on scalar or vector fields, which are typically expressed in terms of the del operator (), also known as "nabla". The five most important differential operations in vector calculus are:
+
+where the curl and divergence differ because the former uses a cross product and the latter a dot product, denotes a scalar field and denotes a vector field. A quantity called the Jacobian is useful for studying functions when both the domain and range of the function are multivariable, such as a change of variables during integration.
+
+3. Theorems
+
+Likewise, there are several important theorems related to these operators which generalize the fundamental theorem of calculus to higher dimensions:
+
+4. Applications
+
+4.1. Linear approximations
+
+Linear approximations are used to replace complicated functions with linear functions that are almost the same. Given a differentiable function with real values, one can approximate for close to by the formula
+
+The right-hand side is the equation of the plane tangent to the graph of at
+
+4.2. Optimization
+
+For a continuously differentiable function of several real variables, a point P (that is a set of values for the input variables, which is viewed as a point in Rn) is critical if all of the partial derivatives of the function are zero at P, or, equivalently, if its gradient is zero. The critical values are the values of the function at the critical points.
+
+If the function is smooth, or, at least twice continuously differentiable, a critical point may be either a local maximum, a local minimum or a saddle point. The different cases may be distinguished by considering the eigenvalues of the Hessian matrix of second derivatives.
+
+By Fermat's theorem, all local maxima and minima of a differentiable function occur at critical points. Therefore, to find the local maxima and minima, it suffices, theoretically, to compute the zeros of the gradient and the eigenvalues of the Hessian matrix at these zeros.
+
+4.3. Physics and engineering
+
+Vector calculus is particularly useful in studying:
+
+Center of mass
+
+Field theory
+
+Kinematics
+
+5. Generalizations
+
+5.1. Different 3-manifolds
+
+Vector calculus is initially defined for Euclidean 3-space, which has additional structure beyond simply being a 3-dimensional real vector space, namely: an inner product (the dot product), which gives a notion of length (and hence angle), and an orientation, which gives a notion of left-handed and right-handed. These structures give rise to a volume form, and also the cross product, which is used pervasively in vector calculus.
+
+The gradient and divergence require only the inner product, while the curl and the cross product also requires the handedness of the coordinate system to be taken into account (see cross product and handedness for more detail).
+
+Vector calculus can be defined on other 3-dimensional real vector spaces if they have an inner product (or more generally a symmetric nondegenerate form) and an orientation; note that this is less data than an isomorphism to Euclidean space, as it does not require a set of coordinates (a frame of reference), which reflects the fact that vector calculus is invariant under rotations (the special orthogonal group SO(3)).
+
+More generally, vector calculus can be defined on any 3-dimensional oriented Riemannian manifold, or more generally pseudo-Riemannian manifold. This structure simply means that the tangent space at each point has an inner product (more generally, a symmetric nondegenerate form) and an orientation, or more globally that there is a symmetric nondegenerate metric tensor and an orientation, and works because vector calculus is defined in terms of tangent vectors at each point.
+
+5.2. Other dimensions
+
+Most of the analytic results are easily understood, in a more general form, using the machinery of differential geometry, of which vector calculus forms a subset. Grad and div generalize immediately to other dimensions, as do the gradient theorem, divergence theorem, and Laplacian (yielding harmonic analysis), while curl and cross product do not generalize as directly.
+
+From a general point of view, the various fields in (3-dimensional) vector calculus are uniformly seen as being k-vector fields: scalar fields are 0-vector fields, vector fields are 1-vector fields, pseudovector fields are 2-vector fields, and pseudoscalar fields are 3-vector fields. In higher dimensions there are additional types of fields (scalar/vector/pseudovector/pseudoscalar corresponding to 0/1/n蜢1/n dimensions, which is exhaustive in dimension 3), so one cannot only work with (pseudo)scalars and (pseudo)vectors.
+
+In any dimension, assuming a nondegenerate form, grad of a scalar function is a vector field, and div of a vector field is a scalar function, but only in dimension 3 and 7 (and, trivially, dimension 0) is the curl of a vector field a vector field, and only in 3 or 7 dimensions can a cross product be defined (generalizations in other dimensionalities either require vectors to yield 1 vector, or are alternative Lie algebras, which are more general antisymmetric bilinear products). The generalization of grad and div, and how curl may be generalized is elaborated at Curl: Generalizations; in brief, the curl of a vector field is a bivector field, which may be interpreted as the special orthogonal Lie algebra of infinitesimal rotations; however, this cannot be identified with a vector field because the dimensions differ - there are 3 dimensions of rotations in 3 dimensions, but 6 dimensions of rotations in 4 dimensions (and more generally dimensions of rotations in n dimensions).
+
+There are two important alternative generalizations of vector calculus. The first, geometric algebra, uses k-vector fields instead of vector fields (in 3 or fewer dimensions, every k-vector field can be identified with a scalar function or vector field, but this is not true in higher dimensions). This replaces the cross product, which is specific to 3 dimensions, taking in two vector fields and giving as output a vector field, with the exterior product, which exists in all dimensions and takes in two vector fields, giving as output a bivector (2-vector) field. This product yields Clifford algebras as the algebraic structure on vector spaces (with an orientation and nondegenerate form). Geometric algebra is mostly used in generalizations of physics and other applied fields to higher dimensions.
+
+The second generalization uses differential forms (k-covector fields) instead of vector fields or k-vector fields, and is widely used in mathematics, particularly in differential geometry, geometric topology, and harmonic analysis, in particular yielding Hodge theory on oriented pseudo-Riemannian manifolds. From this point of view, grad, curl, and div correspond to the exterior derivative of 0-forms, 1-forms, and 2-forms, respectively, and the key theorems of vector calculus are all special cases of the general form of Stokes' theorem.
+
+From the point of view of both of these generalizations, vector calculus implicitly identifies mathematically distinct objects, which makes the presentation simpler but the underlying mathematical structure and generalizations less clear. From the point of view of geometric algebra, vector calculus implicitly identifies k-vector fields with vector fields or scalar functions: 0-vectors and 3-vectors with scalars, 1-vectors and 2-vectors with vectors. From the point of view of differential forms, vector calculus implicitly identifies k-forms with scalar fields or vector fields: 0-forms and 3-forms with scalar fields, 1-forms and 2-forms with vector fields. Thus for example the curl naturally takes as input a vector field, but naturally has as output a 2-vector field or 2-form (hence pseudovector field), which is then interpreted as a vector field, rather than directly taking a vector field to a vector field; this is reflected in the curl of a vector field in higher dimensions not having as output a vector field.
+
+6. See also
+
+Real-valued function
+
+Function of a real variable
+
+Real multivariable function
+
+Vector calculus identities
+
+Del in cylindrical and spherical coordinates
+
+Directional derivative
+
+Irrotational vector field
+
+Solenoidal vector field
+
+Laplacian vector field
+
+Helmholtz decomposition
+
+Orthogonal coordinates
+
+Skew coordinates
+
+Curvilinear coordinates
+
+Tensor
+
+7. Notes
+
+There is also the perp dot product, which is essentially the dot product of two vectors, one vector rotated by π/2 rads, equivalently the magnitude of the cross product:
+
+8. References
+
+Sandro Capparini (2002) "The discovery of the vector representation of moments and angular velocity", Archive for History of Exact Sciences 56:151–81.
+
+Chen-To Tai (1995). . Technical Report RL 915, Radiation Laboratory, University of Michigan.
+
+9. External links
+
+from University of New South Wales on Academic Earth
+
+(1994) Tai, Chen
+
+A Text-book for the Use of Students of Mathematics and Physics, (based upon the lectures of Willard Gibbs) by Edwin Bidwell Wilson, published 1902.

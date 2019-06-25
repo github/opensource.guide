@@ -1,0 +1,395 @@
+Thermodynamics is a branch of physics concerned with heat and temperature and their relation to energy and work. It defines macroscopic variables, such as internal energy, entropy, and pressure, that partly describe a body of matter or radiation. It states that the behavior of those variables is subject to general constraints, that are common to all materials, not the peculiar properties of particular materials. These general constraints are expressed in the four laws of thermodynamics. Thermodynamics describes the bulk behavior of the body, not the microscopic behaviors of the very large numbers of its microscopic constituents, such as molecules. Its laws are explained by statistical mechanics, in terms of the microscopic constituents.
+
+Thermodynamics applies to a wide variety of topics in science and engineering.
+
+Historically, thermodynamics developed out of a desire to increase the efficiency and power output of early steam engines, particularly through the work of French physicist Nicolas Léonard Sadi Carnot (1824) who believed that the efficiency of heat engines was the key that could help France win the Napoleonic Wars. Irish-born British physicist Lord Kelvin was the first to formulate a concise definition of thermodynamics in 1854:
+
+Initially, thermodynamics, as applied to heat engines, was concerned with the thermal properties of their 'working materials' such as steam, in an effort to increase the efficiency and power output of engines. Thermodynamics later expanded to the study of energy transfers in chemical processes, for example to the investigation, published in 1840, of the heats of chemical reactions by Germain Hess, which was not originally explicitly concerned with the relation between energy exchanges by heat and work. From this evolved the study of Chemical thermodynamics and the role of entropy in chemical reactions.
+
+1. Introduction
+
+The plain term 'thermodynamics' refers to a macroscopic description of bodies and processes. "Any reference to atomic constitution is foreign to classical thermodynamics." The qualified term 'statistical thermodynamics' refers to descriptions of bodies and processes in terms of the atomic constitution of matter, mainly described by sets of items all alike, so as to have equal probabilities.
+
+Thermodynamics arose from the study of two distinct kinds of transfer of energy, as heat and as work, and the relation of those to the system's macroscopic variables of volume, pressure and temperature. Transfers of matter are also studied in thermodynamics.
+
+Thermodynamic equilibrium is one of the most important concepts for thermodynamics. The temperature of a thermodynamic system is well defined, and is perhaps the most characteristic quantity of thermodynamics. As the systems and processes of interest are taken further from thermodynamic equilibrium, their exact thermodynamical study becomes more difficult. Relatively simple approximate calculations, however, using the variables of equilibrium thermodynamics, are of much practical value. In many important practical cases, as in heat engines or refrigerators, the systems consist of many subsystems at different temperatures and pressures. In engineering practice, thermodynamic calculations deal effectively with such systems provided the equilibrium thermodynamic variables are nearly enough well-defined.
+
+Central to thermodynamic analysis are the definitions of the system, which is of interest, and of its surroundings. The surroundings of a thermodynamic system consist of physical devices and of other thermodynamic systems that can interact with it. An example of a thermodynamic surrounding is a heat bath, which is held at a prescribed temperature, regardless of how much heat might be drawn from it.
+
+There are four fundamental kinds of physical entities in thermodynamics, states of a system, walls of a system, thermodynamic processes of a system, and thermodynamic operations. This allows two fundamental approaches to thermodynamic reasoning, that in terms of states of a system, and that in terms of cyclic processes of a system.
+
+A thermodynamic system can be defined in terms of its states. In this way, a thermodynamic system is a macroscopic physical object, explicitly specified in terms of macroscopic physical and chemical variables that describe its macroscopic properties. The macroscopic state variables of thermodynamics have been recognized in the course of empirical work in physics and chemistry. Always associated with the material that constitutes a system, its working substance, are the walls that delimit the system, and connect it with its surroundings. The state variables chosen for the system should be appropriate for the natures of the walls and surroundings.
+
+A thermodynamic operation is an artificial physical manipulation that changes the definition of a system or its surroundings. Usually it is a change of the permeability or some other feature of a wall of the system, that allows energy (as heat or work) or matter (mass) to be exchanged with the environment. For example, the partition between two thermodynamic systems can be removed so as to produce a single system. A thermodynamic operation usually leads to a thermodynamic process of transfer of mass or energy that changes the state of the system, and the transfer occurs in natural accord with the laws of thermodynamics. Besides thermodynamic operations, changes in the surroundings can also initiate thermodynamic processes.
+
+A thermodynamic system can also be defined in terms of the cyclic processes that it can undergo. A cyclic process is a cyclic sequence of thermodynamic operations and processes that can be repeated indefinitely often without changing the final state of the system.
+
+For thermodynamics and statistical thermodynamics to apply to a physical system, it is necessary that its internal atomic mechanisms fall into one of two classes:
+
+those so rapid that, in the time frame of the process of interest, the atomic states rapidly bring system to its own state of internal thermodynamic equilibrium; and
+
+those so slow that, in the time frame of the process of interest, they leave the system unchanged. The rapid atomic mechanisms account for the internal energy of the system. They mediate the macroscopic changes that are of interest for thermodynamics and statistical thermodynamics, because they quickly bring the system near enough to thermodynamic equilibrium. "When intermediate rates are present, thermodynamics and statistical mechanics cannot be applied." Such intermediate rate atomic processes do not bring the system near enough to thermodynamic equilibrium in the time frame of the macroscopic process of interest. This separation of time scales of atomic processes is a theme that recurs throughout the subject.
+
+For example, classical thermodynamics is characterized by its study of materials that have equations of state or characteristic equations. They express equilibrium relations between macroscopic mechanical variables and temperature and internal energy. They express the constitutive peculiarities of the material of the system. A classical material can usually be described by a function that makes pressure dependent on volume and temperature, the resulting pressure being established much more rapidly than any imposed change of volume or temperature.
+
+The present article takes a gradual approach to the subject, starting with a focus on cyclic processes and thermodynamic equilibrium, and then gradually beginning to further consider non-equilibrium systems.
+
+Thermodynamic facts can often be explained by viewing macroscopic objects as assemblies of very many microscopic or atomic objects that obey Hamiltonian dynamics. The microscopic or atomic objects exist in species, the objects of each species being all alike. Because of this likeness, statistical methods can be used to account for the macroscopic properties of the thermodynamic system in terms of the properties of the microscopic species. Such explanation is called statistical thermodynamics; also often it is referred to by the term 'statistical mechanics', though this term can have a wider meaning, referring to 'microscopic objects', such as economic quantities, that do not obey Hamiltonian dynamics.
+
+2. History
+
+The history of thermodynamics as a scientific discipline generally begins with Otto von Guericke who, in 1650, built and designed the world's first vacuum pump and demonstrated a vacuum using his Magdeburg hemispheres. Guericke was driven to make a vacuum in order to disprove Aristotle's long-held supposition that 'nature abhors a vacuum'. Shortly after Guericke, the physicist and chemist Robert Boyle had learned of Guericke's designs and, in 1656, in coordination with scientist Robert Hooke, built an air pump. Using this pump, Boyle and Hooke noticed a correlation between pressure, temperature, and volume. In time, Boyle's Law was formulated, stating that for a gas at constant temperature, its pressure and volume are inversely proportional. In 1679, based on these concepts, an associate of Boyle's named Denis Papin built a steam digester, which was a closed vessel with a tightly fitting lid that confined steam until a high pressure was generated.
+
+Later designs implemented a steam release valve that kept the machine from exploding. By watching the valve rhythmically move up and down, Papin conceived of the idea of a piston and a cylinder engine. He did not, however, follow through with his design. Nevertheless, in 1697, based on Papin's designs, engineer Thomas Savery built the first engine, followed by Thomas Newcomen in 1712. Although these early engines were crude and inefficient, they attracted the attention of the leading scientists of the time.
+
+The concepts of heat capacity and latent heat, which were necessary for development of thermodynamics, were developed by professor Joseph Black at the University of Glasgow, where James Watt worked as an instrument maker. Watt consulted with Black on tests of his steam engine, but it was Watt who conceived the idea of the external condenser, greatly raising the steam engine's efficiency. Drawing on all the previous work led Sadi Carnot, the "father of thermodynamics", to publish Reflections on the Motive Power of Fire (1824), a discourse on heat, power, energy and engine efficiency. The paper outlined the basic energetic relations between the Carnot engine, the Carnot cycle, and motive power. It marked the start of thermodynamics as a modern science.
+
+The first thermodynamic textbook was written in 1859 by William Rankine, originally trained as a physicist and a civil and mechanical engineering professor at the University of Glasgow. The first and second laws of thermodynamics emerged simultaneously in the 1850s, primarily out of the works of William Rankine, Rudolf Clausius, and William Thomson (Lord Kelvin).
+
+The foundations of statistical thermodynamics were set out by physicists such as James Clerk Maxwell, Ludwig Boltzmann, Max Planck, Rudolf Clausius and J. Willard Gibbs.
+
+From 1873 to '76, the American mathematical physicist Josiah Willard Gibbs published a series of three papers, the most famous being "On the equilibrium of heterogeneous substances". Gibbs showed how thermodynamic processes, including chemical reactions, could be graphically analyzed. By studying the energy, entropy, volume, chemical potential, temperature and pressure of the thermodynamic system, one can determine if a process would occur spontaneously. Chemical thermodynamics was further developed by Pierre Duhem, Gilbert N. Lewis, Merle Randall, and E. A. Guggenheim, who applied the mathematical methods of Gibbs.
+
+2.1. Etymology
+
+The etymology of thermodynamics has an intricate history. It was first spelled in a hyphenated form as an adjective (thermo-dynamic) in 1849 and from 1854 to 1859 as the hyphenated noun thermo-dynamics to represent the science of heat and motive power and thereafter as thermodynamics.
+
+The components of the word thermo-dynamic are derived from the Greek words θέρμη therme, meaning "heat," and δύναμις dynamis, meaning "power" (Haynie claims that the word was coined around 1840).
+
+The term thermo-dynamic was first used in January 1849 by William Thomson (Lord Kelvin) in the phrase a perfect thermo-dynamic engine to describe Carnot's heat engine. In April 1849, Thomson added an appendix to his paper and used the term thermodynamic in the phrase the object of a thermodynamic engine.
+
+Pierre Perrot claims that the term thermodynamics was coined by James Joule in 1858 to designate the science of relations between heat and power. Joule, however, never used that term, but did use the term perfect thermo-dynamic engine in reference to Thomson’s 1849 phraseology, and Thomson's note on Joules' 1851 paper On the Air-Engine.
+
+In 1854, thermo-dynamics, as a functional term to denote the general study of the action of heat, was first used by William Thomson in his paper On the Dynamical Theory of Heat.
+
+In 1859, the closed compound form thermodynamics was first used by William Rankine in A Manual of the Steam Engine in a chapter on the Principles of Thermodynamics.
+
+3. Branches of description
+
+Thermodynamic systems are theoretical constructions used to model physical systems that exchange matter and energy in terms of the laws of thermodynamics. The study of thermodynamical systems has developed into several related branches, each using a different fundamental model as a theoretical or experimental basis, or applying the principles to varying types of systems.
+
+3.1. Classical thermodynamics
+
+Classical thermodynamics accounts for the adventures of a thermodynamic system in terms, either of its time-invariant equilibrium states, or else of its continually repeated cyclic processes, but, formally, not both in the same account. It uses only time-invariant, or equilibrium, macroscopic quantities measureable in the laboratory, counting as time-invariant a long-term time-average of a quantity, such as a flow, generated by a continually repetitive process. In classical thermodynamics, rates of change are not admitted as variables of interest. An equilibrium state stands endlessly without change over time, while a continually repeated cyclic process runs endlessly without a net change in the system over time.
+
+In the account in terms of equilibrium states of a system, a state of thermodynamic equilibrium in a simple system is spatially homogeneous.
+
+In the classical account solely in terms of a cyclic process, the spatial interior of the 'working body' of that process is not considered; the 'working body' thus does not have a defined internal thermodynamic state of its own because no assumption is made that it should be in thermodynamic equilibrium; only its inputs and outputs of energy as heat and work are considered. It is common to describe a cycle theoretically as composed of a sequence of very many thermodynamic operations and processes. This creates a link to the description in terms of equilibrium states. The cycle is then theoretically described as a continuous progression of equilibrium states.
+
+Classical thermodynamics was originally concerned with the transformation of energy in a cyclic process, and the exchange of energy between closed systems defined only by their equilibrium states. The distinction between transfers of energy as heat and as work was central.
+
+As classical thermodynamics developed, the distinction between heat and work became less central. This was because there was more interest in open systems, for which the distinction between heat and work is not simple, and is beyond the scope of the present article. Alongside the amount of heat transferred as a fundamental quantity, entropy was gradually found to be a more generally applicable concept, especially when considering chemical reactions. Massieu in 1869 considered entropy as the basic dependent thermodynamic variable, with energy potentials and the reciprocal of the thermodynamic temperature as fundamental independent variables. Massieu functions can be useful in present-day non-equilibrium thermodynamics. In 1875, in the work of Josiah Willard Gibbs, entropy was considered a fundamental independent variable, while internal energy was a dependent variable.
+
+All actual physical processes are to some degree irreversible. Classical thermodynamics can consider irreversible processes, but its account in exact terms is restricted to variables that refer only to initial and final states of thermodynamic equilibrium, or to rates of input and output that do not change with time. For example, classical thermodynamics can consider time-average rates of flows generated by continually repeated irreversible cyclic processes. Also it can consider irreversible changes between equilibrium states of systems consisting of several phases (as defined below in this article), or with removable or replaceable partitions. But for systems that are described in terms of equilibrium states, it considers neither flows, nor spatial inhomogeneities in simple systems with no externally imposed force fields such as gravity. In the account in terms of equilibrium states of a system, descriptions of irreversible processes refer only to initial and final static equilibrium states; the time it takes to change thermodynamic state is not considered.
+
+3.2. Local equilibrium thermodynamics
+
+Local equilibrium thermodynamics is concerned with the time courses and rates of progress of irreversible processes in systems that are smoothly spatially inhomogeneous. It admits time as a fundamental quantity, but only in a restricted way. Rather than considering time-invariant flows as long-term-average rates of cyclic processes, local equilibrium thermodynamics considers time-varying flows in systems that are described by states of local thermodynamic equilibrium, as follows.
+
+For processes that involve only suitably small and smooth spatial inhomogeneities and suitably small changes with time, a good approximation can be found through the assumption of local thermodynamic equilibrium. Within the large or global region of a process, for a suitably small local region, this approximation assumes that a quantity known as the entropy of the small local region can be defined in a particular way. That particular way of definition of entropy is largely beyond the scope of the present article, but here it may be said that it is entirely derived from the concepts of classical thermodynamics; in particular, neither flow rates nor changes over time are admitted into the definition of the entropy of the small local region. It is assumed without proof that the instantaneous global entropy of a non-equilibrium system can be found by adding up the simultaneous instantaneous entropies of its constituent small local regions. Local equilibrium thermodynamics considers processes that involve the time-dependent production of entropy by dissipative processes, in which kinetic energy of bulk flow and chemical potential energy are converted into internal energy at time-rates that are explicitly accounted for. Time-varying bulk flows and specific diffusional flows are considered, but they are required to be dependent variables, derived only from material properties described only by static macroscopic equilibrium states of small local regions. The independent state variables of a small local region are only those of classical thermodynamics.
+
+3.3. Generalized or extended thermodynamics
+
+Like local equilibrium thermodynamics, generalized or extended thermodynamics also is concerned with the time courses and rates of progress of irreversible processes in systems that are smoothly spatially inhomogeneous. It describes time-varying flows in terms of states of suitably small local regions within a global region that is smoothly spatially inhomogeneous, rather than considering flows as time-invariant long-term-average rates of cyclic processes. In its accounts of processes, generalized or extended thermodynamics admits time as a fundamental quantity in a more far-reaching way than does local equilibrium thermodynamics. The states of small local regions are defined by macroscopic quantities that are explicitly allowed to vary with time, including time-varying flows. Generalized thermodynamics might tackle such problems as ultrasound or shock waves, in which there are strong spatial inhomogeneities and changes in time fast enough to outpace a tendency towards local thermodynamic equilibrium. Generalized or extended thermodynamics is a diverse and developing project, rather than a more or less completed subject such as is classical thermodynamics.
+
+For generalized or extended thermodynamics, the definition of the quantity known as the entropy of a small local region is in terms beyond those of classical thermodynamics; in particular, flow rates are admitted into the definition of the entropy of a small local region. The independent state variables of a small local region include flow rates, which are not admitted as independent variables for the small local regions of local equilibrium thermodynamics.
+
+Outside the range of classical thermodynamics, the definition of the entropy of a small local region is no simple matter. For a thermodynamic account of a process in terms of the entropies of small local regions, the definition of entropy should be such as to ensure that the second law of thermodynamics applies in each small local region. It is often assumed without proof that the instantaneous global entropy of a non-equilibrium system can be found by adding up the simultaneous instantaneous entropies of its constituent small local regions. For a given physical process, the selection of suitable independent local non-equilibrium macroscopic state variables for the construction of a thermodynamic description calls for qualitative physical understanding, rather than being a simply mathematical problem concerned with a uniquely determined thermodynamic description. A suitable definition of the entropy of a small local region depends on the physically insightful and judicious selection of the independent local non-equilibrium macroscopic state variables, and different selections provide different generalized or extended thermodynamical accounts of one and the same given physical process. This is one of the several good reasons for considering entropy as an epistemic physical variable, rather than as a simply material quantity. According to a respected author: "There is no compelling reason to believe that the classical thermodynamic entropy is a measurable property of nonequilibrium phenomena, ..."
+
+3.4. Statistical thermodynamics
+
+Statistical thermodynamics, also called statistical mechanics, emerged with the development of atomic and molecular theories in the second half of the 19th century and early 20th century. It provides an explanation of classical thermodynamics. It considers the microscopic interactions between individual particles and their collective motions, in terms of classical or of quantum mechanics. Its explanation is in terms of statistics that rest on the fact the system is composed of several species of particles or collective motions, the members of each species respectively being in some sense all alike.
+
+4. Thermodynamic equilibrium
+
+Equilibrium thermodynamics studies transformations of matter and energy in systems at or near thermodynamic equilibrium. In thermodynamic equilibrium, a system's properties are, by definition, unchanging in time. In thermodynamic equilibrium no macroscopic change is occurring or can be triggered; within the system, every microscopic process is balanced by its opposite; this is called the principle of detailed balance. A central aim in equilibrium thermodynamics is: given a system in a well-defined initial state, subject to specified constraints, to calculate what the equilibrium state of the system is.
+
+In theoretical studies, it is often convenient to consider the simplest kind of thermodynamic system. This is defined variously by different authors. For the present article, the following definition is convenient, as abstracted from the definitions of various authors. A region of material with all intensive properties continuous in space and time is called a phase. A simple system is for the present article defined as one that consists of a single phase of a pure chemical substance, with no interior partitions.
+
+Within a simple isolated thermodynamic system in thermodynamic equilibrium, in the absence of externally imposed force fields, all properties of the material of the system are spatially homogeneous. Much of the basic theory of thermodynamics is concerned with homogeneous systems in thermodynamic equilibrium.
+
+Most systems found in nature or considered in engineering are not in thermodynamic equilibrium, exactly considered. They are changing or can be triggered to change over time, and are continuously and discontinuously subject to flux of matter and energy to and from other systems. For example, according to Callen, "in absolute thermodynamic equilibrium all radioactive materials would have decayed completely and nuclear reactions would have transmuted all nuclei to the most stable isotopes. Such processes, which would take cosmic times to complete, generally can be ignored.". Such processes being ignored, many systems in nature are close enough to thermodynamic equilibrium that for many purposes their behaviour can be well approximated by equilibrium calculations.
+
+4.1. Quasi-static transfers between simple systems are nearly in thermodynamic equilibrium and are reversible
+
+It very much eases and simplifies theoretical thermodynamical studies to imagine transfers of energy and matter between two simple systems that proceed so slowly that at all times each simple system considered separately is near enough to thermodynamic equilibrium. Such processes are sometimes called quasi-static and are near enough to being reversible.
+
+4.2. Natural processes are partly described by tendency towards thermodynamic equilibrium and are irreversible
+
+If not initially in thermodynamic equilibrium, simple isolated thermodynamic systems, as time passes, tend to evolve naturally towards thermodynamic equilibrium. In the absence of externally imposed force fields, they become homogeneous in all their local properties. Such homogeneity is an important characteristic of a system in thermodynamic equilibrium in the absence of externally imposed force fields.
+
+Many thermodynamic processes can be modeled by compound or composite systems, consisting of several or many contiguous component simple systems, initially not in thermodynamic equilibrium, but allowed to transfer mass and energy between them. Natural thermodynamic processes are described in terms of a tendency towards thermodynamic equilibrium within simple systems and in transfers between contiguous simple systems. Such natural processes are irreversible.
+
+5. Non-equilibrium thermodynamics
+
+Non-equilibrium thermodynamics is a branch of thermodynamics that deals with systems that are not in thermodynamic equilibrium; it is also called thermodynamics of irreversible processes. Non-equilibrium thermodynamics is concerned with transport processes and with the rates of chemical reactions. Non-equilibrium systems can be in stationary states that are not homogeneous even when there is no externally imposed field of force; in this case, the description of the internal state of the system requires a field theory. One of the methods of dealing with non-equilibrium systems is to introduce so-called 'internal variables'. These are quantities that express the local state of the system, besides the usual local thermodynamic variables; in a sense such variables might be seen as expressing the 'memory' of the materials. Hysteresis may sometimes be described in this way. In contrast to the usual thermodynamic variables, 'internal variables' cannot be controlled by external manipulations. This approach is usually unnecessary for gases and liquids, but may be useful for solids. Many natural systems still today remain beyond the scope of currently known macroscopic thermodynamic methods.
+
+6. Laws of thermodynamics
+
+Thermodynamics states a set of four laws that are valid for all systems that fall within the constraints implied by each. In the various theoretical descriptions of thermodynamics these laws may be expressed in seemingly differing forms, but the most prominent formulations are the following:
+
+Zeroth law of thermodynamics: If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other. This statement implies that thermal equilibrium is an equivalence relation on the set of thermodynamic systems under consideration. Systems are said to be in thermal equilibrium with each other if spontaneous molecular thermal energy exchanges between them do not lead to a net exchange of energy. This law is tacitly assumed in every measurement of temperature. For two bodies known to be at the same temperature, deciding if they are in thermal equilibrium when put into thermal contact does not require actually bringing them into contact and measuring any changes of their observable properties in time. In traditional statements, the law provides an empirical definition of temperature and justification for the construction of practical thermometers. In contrast to absolute thermodynamic temperatures, empirical temperatures are measured just by the mechanical properties of bodies, such as their volumes, without reliance on the concepts of energy, entropy or the first, second, or third laws of thermodynamics. Empirical temperatures lead to calorimetry for heat transfer in terms of the mechanical properties of bodies, without reliance on mechanical concepts of energy.
+
+The physical content of the zeroth law has long been recognized. For example, Rankine in 1853 defined temperature as follows: "Two portions of matter are said to have equal temperatures when neither tends to communicate heat to the other." Maxwell in 1872 stated a "Law of Equal Temperatures". He also stated: "All Heat is of the same kind." Planck explicitly assumed and stated it in its customary present-day wording in his formulation of the first two laws. By the time the desire arose to number it as a law, the other three had already been assigned numbers, and so it was designated the zeroth law.
+
+First law of thermodynamics: The increase in internal energy of a closed system is equal to the difference of the heat supplied to the system and the work done by it: ΔU = Q - W (Note that due to the ambiguity of what constitutes positive work, some sources state that ΔU = Q + W, in which case work done on the system is positive.) The first law of thermodynamics asserts the existence of a state variable for a system, the internal energy, and tells how it changes in thermodynamic processes. The law allows a given internal energy of a system to be reached by any combination of heat and work. It is important that internal energy is a variable of state of the system (see Thermodynamic state) whereas heat and work are variables that describe processes or changes of the state of systems.
+
+The first law observes that the internal energy of an isolated system obeys the principle of conservation of energy, which states that energy can be transformed (changed from one form to another), but cannot be created or destroyed.
+
+Second law of thermodynamics: Heat cannot spontaneously flow from a colder location to a hotter location. The second law of thermodynamics is an expression of the universal principle of dissipation of kinetic and potential energy observable in nature. The second law is an observation of the fact that over time, differences in temperature, pressure, and chemical potential tend to even out in a physical system that is isolated from the outside world. Entropy is a measure of how much this process has progressed. The entropy of an isolated system that is not in equilibrium tends to increase over time, approaching a maximum value at equilibrium.
+
+In classical thermodynamics, the second law is a basic postulate applicable to any system involving heat energy transfer; in statistical thermodynamics, the second law is a consequence of the assumed randomness of molecular chaos. There are many versions of the second law, but they all have the same effect, which is to explain the phenomenon of irreversibility in nature.
+
+Third law of thermodynamics: As a system approaches absolute zero the entropy of the system approaches a minimum value. The third law of thermodynamics is a statistical law of nature regarding entropy and the impossibility of reaching absolute zero of temperature. This law provides an absolute reference point for the determination of entropy. The entropy determined relative to this point is the absolute entropy. Alternate definitions of the third law are, "the entropy of all systems and of all states of a system is smallest at absolute zero," or equivalently "it is impossible to reach the absolute zero of temperature by any finite number of processes".
+
+Absolute zero is −273.15 °C (degrees Celsius), or −459.67 °F (degrees Fahrenheit) or 0 K (kelvin).
+
+7. System models
+
+An important concept in thermodynamics is the thermodynamic system, a precisely defined region of the universe under study. Everything in the universe except the system is known as the surroundings. A system is separated from the remainder of the universe by a boundary, which may be actual, or merely notional and fictive, but by convention delimits a finite volume. Transfers of work, heat, or matter between the system and the surroundings take place across this boundary. The boundary may or may not have properties that restrict what can be transferred across it. A system may have several distinct boundary sectors or partitions separating it from the surroundings, each characterized by how it restricts transfers, and being permeable to its characteristic transferred quantities.
+
+The volume can be the region surrounding a single atom resonating energy, as Max Planck defined in 1900; it can be a body of steam or air in a steam engine, such as Sadi Carnot defined in 1824; it can be the body of a tropical cyclone, such as Kerry Emanuel theorized in 1986 in the field of atmospheric thermodynamics; it could also be just one nuclide (i.e. a system of quarks) as hypothesized in quantum thermodynamics.
+
+Anything that passes across the boundary needs to be accounted for in a proper transfer balance equation. Thermodynamics is largely about such transfers.
+
+Boundary sectors are of various characters: rigid, flexible, fixed, moveable, actually restrictive, and fictive or not actually restrictive. For example, in an engine, a fixed boundary sector means the piston is locked at its position; then no pressure-volume work is done across it. In that same engine, a moveable boundary allows the piston to move in and out, permitting pressure-volume work. There is no restrictive boundary sector for the whole earth including its atmosphere, and so roughly speaking, no pressure-volume work is done on or by the whole earth system. Such a system is sometimes said to be diabatically heated or cooled by radiation.
+
+Thermodynamics distinguishes classes of systems by their boundary sectors.
+
+An open system has a boundary sector that is permeable to matter; such a sector is usually permeable also to energy, but the energy that passes cannot in general be uniquely sorted into heat and work components. Open system boundaries may be either actually restrictive, or else non-restrictive.
+
+A closed system has no boundary sector that is permeable to matter, but in general its boundary is permeable to energy. For closed systems, boundaries are totally prohibitive of matter transfer.
+
+An adiabatically isolated system has only adiabatic boundary sectors. Energy can be transferred as work, but transfers of matter and of energy as heat are prohibited.
+
+A purely diathermically isolated system has only boundary sectors permeable only to heat; it is sometimes said to be adynamically isolated and closed to matter transfer. A process in which no work is transferred is sometimes called adynamic.
+
+An isolated system has only isolating boundary sectors. Nothing can be transferred into or out of it. Engineering and natural processes are often described as composites of many different component simple systems, sometimes with unchanging or changing partitions between them. A change of partition is an example of a thermodynamic operation.
+
+8. States and processes
+
+There are three fundamental kinds of entity in thermodynamics—states of a system, processes of a system, and thermodynamic operations. This allows three fundamental approaches to thermodynamic reasoning--that in terms of states of thermodynamic equilibrium of a system, and that in terms of time-invariant processes of a system, and that in terms of cyclic processes of a system.
+
+The approach through states of thermodynamic equilibrium of a system requires a full account of the state of the system as well as a notion of process from one state to another of a system, but may require only an idealized or partial account of the state of the surroundings of the system or of other systems.
+
+The method of description in terms of states of thermodynamic equilibrium has limitations. For example, processes in a region of turbulent flow, or in a burning gas mixture, or in a Knudsen gas may be beyond "the province of thermodynamics". This problem can sometimes be circumvented through the method of description in terms of cyclic or of time-invariant flow processes. This is part of the reason why the founders of thermodynamics often preferred the cyclic process description.
+
+Approaches through processes of time-invariant flow of a system are used for some studies. Some processes, for example Joule-Thomson expansion, are studied through steady-flow experiments, but can be accounted for by distinguishing the steady bulk flow kinetic energy from the internal energy, and thus can be regarded as within the scope of classical thermodynamics defined in terms of equilibrium states or of cyclic processes. Other flow processes, for example thermoelectric effects, are essentially defined by the presence of differential flows or diffusion so that they cannot be adequately accounted for in terms of equilibrium states or classical cyclic processes.
+
+The notion of a cyclic process does not require a full account of the state of the system, but does require a full account of how the process occasions transfers of matter and energy between the principal system (which is often called the working body) and its surroundings, which must include at least two heat reservoirs at different known and fixed temperatures, one hotter than the principal system and the other colder than it, as well as a reservoir that can receive energy from the system as work and can do work on the system. The reservoirs can alternatively be regarded as auxiliary idealized component systems, alongside the principal system. Thus an account in terms of cyclic processes requires at least four contributory component systems. The independent variables of this account are the amounts of energy that enter and leave the idealized auxiliary systems. In this kind of account, the working body is often regarded as a "black box", and its own state is not specified. In this approach, the notion of a properly numerical scale of empirical temperature is a presupposition of thermodynamics, not a notion constructed by or derived from it.
+
+8.1. Account in terms of states of thermodynamic equilibrium
+
+When a system is at thermodynamic equilibrium under a given set of conditions of its surroundings, it is said to be in a definite thermodynamic state, which is fully described by its state variables.
+
+If a system is simple as defined above, and is in thermodynamic equilibrium, and is not subject to an externally imposed force field, such as gravity, electricity, or magnetism, then it is homogeneous, that is say, spatially uniform in all respects.
+
+In a sense, a homogeneous system can be regarded as spatially zero-dimensional, because it has no spatial variation.
+
+If a system in thermodynamic equilibrium is homogeneous, then its state can be described by a few physical variables, which are mostly classifiable as intensive variables and extensive variables.
+
+An intensive variable is one that is unchanged with the thermodynamic operation of scaling of a system.
+
+An extensive variable is one that simply scales with the scaling of a system, without the further requirement used just below here, of additivity even when there is inhomogeneity of the added systems.
+
+Examples of extensive thermodynamic variables are total mass and total volume. Under the above definition, entropy is also regarded as an extensive variable. Examples of intensive thermodynamic variables are temperature, pressure, and chemical concentration; intensive thermodynamic variables are defined at each spatial point and each instant of time in a system. Physical macroscopic variables can be mechanical, material, or thermal. Temperature is a thermal variable; according to Guggenheim, "the most important conception in thermodynamics is temperature."
+
+Intensive variables have the property that if any number of systems, each in its own separate homogeneous thermodynamic equilibrium state, all with the same respective values of all of their intensive variables, regardless of the values of their extensive variables, are laid contiguously with no partition between them, so as to form a new system, then the values of the intensive variables of the new system are the same as those of the separate constituent systems. Such a composite system is in a homogeneous thermodynamic equilibrium. Examples of intensive variables are temperature, chemical concentration, pressure, density of mass, density of internal energy, and, when it can be properly defined, density of entropy. In other words, intensive variables are not altered by the thermodynamic operation of scaling.
+
+For the immediately present account just below, an alternative definition of extensive variables is considered, that requires that if any number of systems, regardless of their possible separate thermodynamic equilibrium or non-equilibrium states or intensive variables, are laid side by side with no partition between them so as to form a new system, then the values of the extensive variables of the new system are the sums of the values of the respective extensive variables of the individual separate constituent systems. Obviously, there is no reason to expect such a composite system to be in a homogeneous thermodynamic equilibrium. Examples of extensive variables in this alternative definition are mass, volume, and internal energy. They depend on the total quantity of mass in the system. In other words, although extensive variables scale with the system under the thermodynamic operation of scaling, nevertheless the present alternative definition of an extensive variable requires more than this: it requires also its additivity regardless of the inhomogeneity (or equality or inequality of the values of the intensive variables) of the component systems.
+
+Though, when it can be properly defined, density of entropy is an intensive variable, for inhomogeneous systems, entropy itself does not fit into this alternative classification of state variables. The reason is that entropy is a property of a system as a whole, and not necessarily related simply to its constituents separately. It is true that for any number of systems each in its own separate homogeneous thermodynamic equilibrium, all with the same values of intensive variables, removal of the partitions between the separate systems results in a composite homogeneous system in thermodynamic equilibrium, with all the values of its intensive variables the same as those of the constituent systems, and it is reservedly or conditionally true that the entropy of such a restrictively defined composite system is the sum of the entropies of the constituent systems. But if the constituent systems do not satisfy these restrictive conditions, the entropy of a composite system cannot be expected to be the sum of the entropies of the constituent systems, because the entropy is a property of the composite system as a whole. Therefore, though under these restrictive reservations, entropy satisfies some requirements for extensivity defined just above, entropy in general does not fit the immediately present definition of an extensive variable.
+
+Being neither an intensive variable nor an extensive variable according to the immediately present definition, entropy is thus a stand-out variable, because it is a state variable of a system as a whole. A non-equilibrium system can have a very inhomogeneous dynamical structure. This is one reason for distinguishing the study of equilibrium thermodynamics from the study of non-equilibrium thermodynamics.
+
+The physical reason for the existence of extensive variables is the time-invariance of volume in a given inertial reference frame, and the strictly local conservation of mass, momentum, angular momentum, and energy. As noted by Gibbs, entropy is unlike energy and mass, because it is not locally conserved. The stand-out quantity entropy is never conserved in real physical processes; all real physical processes are irreversible. The motion of planets seems reversible on a short time scale (millions of years), but their motion, according to Newton's laws, is mathematically an example of deterministic chaos. Eventually a planet suffers an unpredictable collision with an object from its surroundings, outer space in this case, and consequently its future course is radically unpredictable. Theoretically this can be expressed by saying that every natural process dissipates some information from the predictable part of its activity into the unpredictable part. The predictable part is expressed in the generalized mechanical variables, and the unpredictable part in heat.
+
+Other state variables can be regarded as conditionally 'extensive' subject to reservation as above, but not extensive as defined above. Examples are the Gibbs free energy, the Helmholtz free energy, and the enthalpy. Consequently, just because for some systems under particular conditions of their surroundings such state variables are conditionally conjugate to intensive variables, such conjugacy does not make such state variables extensive as defined above. This is another reason for distinguishing the study of equilibrium thermodynamics from the study of non-equilibrium thermodynamics. In another way of thinking, this explains why heat is to be regarded as a quantity that refers to a process and not to a state of a system.
+
+A system with no internal partitions, and in thermodynamic equilibrium, can be inhomogeneous in the following respect: it can consist of several so-called 'phases', each homogeneous in itself, in immediate contiguity with other phases of the system, but distinguishable by their having various respectively different physical characters, with discontinuity of intensive variables at the boundaries between the phases; a mixture of different chemical species is considered homogeneous for this purpose if it is physically homogeneous. For example, a vessel can contain a system consisting of water vapour overlying liquid water; then there is a vapour phase and a liquid phase, each homogeneous in itself, but still in thermodynamic equilibrium with the other phase. For the immediately present account, systems with multiple phases are not considered, though for many thermodynamic questions, multiphase systems are important.
+
+8.1.1. Equation of state
+
+The macroscopic variables of a thermodynamic system in thermodynamic equilibrium, in which temperature is well defined, can be related to one another through equations of state or characteristic equations. They express the constitutive peculiarities of the material of the system. The equation of state must comply with some thermodynamic constraints, but cannot be derived from the general principles of thermodynamics alone.
+
+8.2. Thermodynamic processes between states of thermodynamic equilibrium
+
+A thermodynamic process is defined by changes of state internal to the system of interest, combined with transfers of matter and energy to and from the surroundings of the system or to and from other systems. A system is demarcated from its surroundings or from other systems by partitions that more or less separate them, and may move as a piston to change the volume of the system and thus transfer work.
+
+8.2.1. Dependent and independent variables for a process
+
+A process is described by changes in values of state variables of systems or by quantities of exchange of matter and energy between systems and surroundings. The change must be specified in terms of prescribed variables. The choice of which variables are to be used is made in advance of consideration of the course of the process, and cannot be changed. Certain of the variables chosen in advance are called the independent variables. From changes in independent variables may be derived changes in other variables called dependent variables. For example a process may occur at constant pressure with pressure prescribed as an independent variable, and temperature changed as another independent variable, and then changes in volume are considered as dependent. Careful attention to this principle is necessary in thermodynamics.
+
+8.2.2. Changes of state of a system
+
+In the approach through equilibrium states of the system, a process can be described in two main ways.
+
+In one way, the system is considered to be connected to the surroundings by some kind of more or less separating partition, and allowed to reach equilibrium with the surroundings with that partition in place. Then, while the separative character of the partition is kept unchanged, the conditions of the surroundings are changed, and exert their influence on the system again through the separating partition, or the partition is moved so as to change the volume of the system; and a new equilibrium is reached. For example, a system is allowed to reach equilibrium with a heat bath at one temperature; then the temperature of the heat bath is changed and the system is allowed to reach a new equilibrium; if the partition allows conduction of heat, the new equilibrium is different from the old equilibrium.
+
+In the other way, several systems are connected to one another by various kinds of more or less separating partitions, and to reach equilibrium with each other, with those partitions in place. In this way, one may speak of a 'compound system'. Then one or more partitions is removed or changed in its separative properties or moved, and a new equilibrium is reached. The Joule-Thomson experiment is an example of this; a tube of gas is separated from another tube by a porous partition; the volume available in each of the tubes is determined by respective pistons; equilibrium is established with an initial set of volumes; the volumes are changed and a new equilibrium is established. Another example is in separation and mixing of gases, with use of chemically semi-permeable membranes.
+
+8.2.3. Commonly considered thermodynamic processes
+
+It is often convenient to study a thermodynamic process in which a single variable, such as temperature, pressure, or volume, etc., is held fixed. Furthermore, it is useful to group these processes into pairs, in which each variable held constant is one member of a conjugate pair.
+
+Several commonly studied thermodynamic processes are:
+
+Isobaric process: occurs at constant pressure
+
+Isochoric process: occurs at constant volume (also called isometric/isovolumetric)
+
+Isothermal process: occurs at a constant temperature
+
+Adiabatic process: occurs without loss or gain of energy as heat
+
+Isentropic process: a reversible adiabatic process occurs at a constant entropy, but is a fictional idealization. Conceptually it is possible to actually physically conduct a process that keeps the entropy of the system constant, allowing systematically controlled removal of heat, by conduction to a cooler body, to compensate for entropy produced within the system by irreversible work done on the system. Such isentropic conduct of a process seems called for when the entropy of the system is considered as an independent variable, as for example when the internal energy is considered as a function of the entropy and volume of the system, the natural variables of the internal energy as studied by Gibbs.
+
+Isenthalpic process: occurs at a constant enthalpy
+
+Isolated process: no matter or energy (neither as work nor as heat) is transferred into or out of the system It is sometimes of interest to study a process in which several variables are controlled, subject to some specified constraint. In a system in which a chemical reaction can occur, for example, in which the pressure and temperature can affect the equilibrium composition, a process might occur in which temperature is held constant but pressure is slowly altered, just so that chemical equilibrium is maintained all the way. There is a corresponding process at constant temperature in which the final pressure is the same but is reached by a rapid jump. Then it can be shown that the volume change resulting from the rapid jump process is smaller than that from the slow equilibrium process. The work transferred differs between the two processes.
+
+8.3. Account in terms of cyclic processes
+
+A cyclic process is a process that can be repeated indefinitely often without changing the final state of the system in which the process occurs. The only traces of the effects of a cyclic process are to be found in the surroundings of the system or in other systems. This is the kind of process that concerned early thermodynamicists such as Carnot, and in terms of which Kelvin defined absolute temperature, before the use of the quantity of entropy by Rankine and its clear identification by Clausius. For some systems, for example with some plastic working substances, cyclic processes are practically nearly unfeasible because the working substance undergoes practically irreversible changes. This is why mechanical devices are lubricated with oil and one of the reasons why electrical devices are often useful.
+
+A cyclic process of a system requires in its surroundings at least two heat reservoirs at different temperatures, one at a higher temperature that supplies heat to the system, the other at a lower temperature that accepts heat from the system. The early work on thermodynamics tended to use the cyclic process approach, because it was interested in machines that converted some of the heat from the surroundings into mechanical power delivered to the surroundings, without too much concern about the internal workings of the machine. Such a machine, while receiving an amount of heat from a higher temperature reservoir, always needs a lower temperature reservoir that accepts some lesser amount of heat. The difference in amounts of heat is equal to the amount of heat converted to work. Later, the internal workings of a system became of interest, and they are described by the states of the system. Nowadays, instead of arguing in terms of cyclic processes, some writers are inclined to derive the concept of absolute temperature from the concept of entropy, a variable of state.
+
+9. Instrumentation
+
+There are two types of thermodynamic instruments, the meter and the reservoir. A thermodynamic meter is any device that measures any parameter of a thermodynamic system. In some cases, the thermodynamic parameter is actually defined in terms of an idealized measuring instrument. For example, the zeroth law states that if two bodies are in thermal equilibrium with a third body, they are also in thermal equilibrium with each other. This principle, as noted by James Maxwell in 1872, asserts that it is possible to measure temperature. An idealized thermometer is a sample of an ideal gas at constant pressure. From the ideal gas law PV=nRT, the volume of such a sample can be used as an indicator of temperature; in this manner it defines temperature. Although pressure is defined mechanically, a pressure-measuring device, called a barometer may also be constructed from a sample of an ideal gas held at a constant temperature. A calorimeter is a device that measures and define the internal energy of a system.
+
+A thermodynamic reservoir is a system so large that it does not appreciably alter its state parameters when brought into contact with the test system. It is used to impose a particular value of a state parameter upon the system. For example, a pressure reservoir is a system at a particular pressure, which imposes that pressure upon any test system that it is mechanically connected to. The Earth's atmosphere is often used as a pressure reservoir.
+
+10. Conjugate variables
+
+A central concept of thermodynamics is that of energy. By the First Law, the total energy of a system and its surroundings is conserved. Energy may be transferred into a system by heating, compression, or addition of matter, and extracted from a system by cooling, expansion, or extraction of matter. In mechanics, for example, energy transfer equals the product of the force applied to a body and the resulting displacement.
+
+Conjugate variables are pairs of thermodynamic concepts, with the first being akin to a "force" applied to some thermodynamic system, the second being akin to the resulting "displacement," and the product of the two equalling the amount of energy transferred. The common conjugate variables are:
+
+Pressure-volume (the mechanical parameters);
+
+Temperature-entropy (thermal parameters);
+
+Chemical potential-particle number (material parameters).
+
+11. Potentials
+
+Thermodynamic potentials are different quantitative measures of the stored energy in a system. Potentials are used to measure energy changes in systems as they evolve from an initial state to a final state. The potential used depends on the constraints of the system, such as constant temperature or pressure. For example, the Helmholtz and Gibbs energies are the energies available in a system to do useful work when the temperature and volume or the pressure and temperature are fixed, respectively.
+
+The five most well known potentials are:
+
+where is the temperature, the entropy, the pressure, the volume, the chemical potential, the number of particles in the system, and is the count of particles types in the system.
+
+Thermodynamic potentials can be derived from the energy balance equation applied to a thermodynamic system. Other thermodynamic potentials can also be obtained through Legendre transformation.
+
+12. Axiomatics
+
+Most accounts of thermodynamics presuppose the law of conservation of mass, sometimes with, and sometimes without, explicit mention. Particular attention is paid to the law in accounts of non-equilibrium thermodynamics. One statement of this law is "The total mass of a closed system remains constant." Another statement of it is "In a chemical reaction, matter is neither created nor destroyed." Implied in this is that matter and energy are not considered to be interconverted in such accounts. The full generality of the law of conservation of energy is thus not used in such accounts.
+
+In 1909, Constantin Carathéodory presented a purely mathematical axiomatic formulation, a description often referred to as geometrical thermodynamics, and sometimes said to take the "mechanical approach" to thermodynamics. The Carathéodory formulation is restricted to equilibrium thermodynamics and does not attempt to deal with non-equilibrium thermodynamics, forces that act at a distance on the system, or surface tension effects. Moreover, Carathéodory's formulation does not deal with materials like water near 4 °C, which have a density extremum as a function of temperature at constant pressure. Carathéodory used the law of conservation of energy as an axiom from which, along with the contents of the zeroth law, and some other assumptions including his own version of the second law, he derived the first law of thermodynamics. Consequently one might also describe Carathėodory's work as lying in the field of energetics, which is broader than thermodynamics. Carathéodory presupposed the law of conservation of mass without explicit mention of it.
+
+Since the time of Carathėodory, other influential axiomatic formulations of thermodynamics have appeared, which like Carathéodory's, use their own respective axioms, different from the usual statements of the four laws, to derive the four usually stated laws.
+
+Many axiomatic developments assume the existence of states of thermodynamic equilibrium and of states of thermal equilibrium. States of thermodynamic equilibrium of compound systems allow their component simple systems to exchange heat and matter and to do work on each other on their way to overall joint equilibrium. Thermal equilibrium allows them only to exchange heat. The physical properties of glass depend on its history of being heated and cooled and, strictly speaking, glass is not in thermodynamic equilibrium.
+
+According to Herbert Callen's widely cited 1985 text on thermodynamics: "An essential prerequisite for the measurability of energy is the existence of walls that do not permit transfer of energy in the form of heat.". According to Werner Heisenberg's mature and careful examination of the basic concepts of physics, the theory of heat has a self-standing place.
+
+From the viewpoint of the axiomatist, there are several different ways of thinking about heat, temperature, and the second law of thermodynamics. The Clausius way rests on the empirical fact that heat is conducted always down, never up, a temperature gradient. The Kelvin way is to assert the empirical fact that conversion of heat into work by cyclic processes is never perfectly efficient. A more mathematical way is to assert the existence of a function of state called the entropy that tells whether a hypothesized process occurs spontaneously in nature. A more abstract way is that of Carathéodory that in effect asserts the irreversibility of some adiabatic processes. For these different ways, there are respective corresponding different ways of viewing heat and temperature.
+
+The Clausius–Kelvin–Planck way This way prefers ideas close to the empirical origins of thermodynamics. It presupposes transfer of energy as heat, and empirical temperature as a scalar function of state. According to Gislason and Craig (2005): "Most thermodynamic data come from calorimetry..." According to Kondepudi (2008): "Calorimetry is widely used in present day laboratories." In this approach, what is often currently called the zeroth law of thermodynamics is deduced as a simple consequence of the presupposition of the nature of heat and empirical temperature, but it is not named as a numbered law of thermodynamics. Planck attributed this point of view to Clausius, Kelvin, and Maxwell. Planck wrote (on page 90 of the seventh edition, dated 1922, of his treatise) that he thought that no proof of the second law of thermodynamics could ever work that was not based on the impossibility of a perpetual motion machine of the second kind. In that treatise, Planck makes no mention of the 1909 Carathéodory way, which was well known by 1922. Planck for himself chose a version of what is just above called the Kelvin way. The development by Truesdell and Bharatha (1977) is so constructed that it can deal naturally with cases like that of water near 4 °C.
+
+The way that assumes the existence of entropy as a function of state This way also presupposes transfer of energy as heat, and it presupposes the usually stated form of the zeroth law of thermodynamics, and from these two it deduces the existence of empirical temperature. Then from the existence of entropy it deduces the existence of absolute thermodynamic temperature.
+
+The Carathéodory way This way presupposes that the state of a simple one-phase system is fully specifiable by just one more state variable than the known exhaustive list of mechanical variables of state. It does not explicitly name empirical temperature, but speaks of the one-dimensional "non-deformation coordinate". This satisfies the definition of an empirical temperature, that lies on a one-dimensional manifold. The Carathéodory way needs to assume moreover that the one-dimensional manifold has a definite sense, which determines the direction of irreversible adiabatic process, which is effectively assuming that heat is conducted from hot to cold. This way presupposes the often currently stated version of the zeroth law, but does not actually name it as one of its axioms. According to one author, Carathéodory's principle, which is his version of the second law of thermodynamics, does not imply the increase of entropy when work is done under adiabatic conditions (as was noted by Planck). Thus Carathéodory's way leaves unstated a further empirical fact that is needed for a full expression of the second law of thermodynamics.
+
+13. Scope of thermodynamics
+
+Originally thermodynamics concerned material and radiative phenomena that are experimentally reproducible. For example, a state of thermodynamic equilibrium is a steady state reached after a system has aged so that it no longer changes with the passage of time. But more than that, for thermodynamics, a system, defined by its being prepared in a certain way must, consequent on every particular occasion of preparation, upon aging, reach one and the same eventual state of thermodynamic equilibrium, entirely determined by the way of preparation. Such reproducibility is because the systems consist of so many molecules that the molecular variations between particular occasions of preparation have negligible or scarcely discernable effects on the macroscopic variables that are used in thermodynamic descriptions. This led to Boltzmann's discovery that entropy had a statistical or probabilistic nature. Probabilistic and statistical explanations arise from the experimental reproducibility of the phenomena.
+
+Gradually, the laws of thermodynamics came to be used to explain phenomena that occur outside the experimental laboratory. For example, phenomena on the scale of the earth's atmosphere cannot be reproduced in a laboratory experiment. But processes in the atmosphere can be modeled by use of thermodynamic ideas, extended well beyond the scope of laboratory equilibrium thermodynamics. A parcel of air can, near enough for many studies, be considered as a closed thermodynamic system, one that is allowed to move over significant distances. The pressure exerted by the surrounding air on the lower face of a parcel of air may differ from that on its upper face. If this results in rising of the parcel of air, it can be considered to have gained potential energy as a result of work being done on it by the combined surrounding air below and above it. As it rises, such a parcel usually expands because the pressure is lower at the higher altitudes that it reaches. In that way, the rising parcel also does work on the surrounding atmosphere. For many studies, such a parcel can be considered nearly to neither gain nor lose energy by heat conduction to its surrounding atmosphere, and its rise is rapid enough to leave negligible time for it to gain or lose heat by radiation; consequently the rising of the parcel is near enough adiabatic. Thus the adiabatic gas law accounts for its internal state variables, provided that there is no precipitation into water droplets, no evaporation of water droplets, and no sublimation in the process. More precisely, the rising of the parcel is likely to occasion friction and turbulence, so that some potential and some kinetic energy of bulk converts into internal energy of air considered as effectively stationary. Friction and turbulence thus oppose the rising of the parcel.
+
+14. Applied fields
+
+15. See also
+
+Entropy production
+
+15.1. Lists and timelines
+
+List of important publications in thermodynamics
+
+List of textbooks in statistical mechanics
+
+List of thermal conductivities
+
+List of thermodynamic properties
+
+Table of thermodynamic equations
+
+Timeline of thermodynamics
+
+15.2. Wikibooks
+
+Engineering Thermodynamics
+
+Entropy for Beginners
+
+16. References
+
+17. Cited bibliography
+
+Adkins, C.J. (1968/1975). Equilibrium Thermodynamics, second edition, McGraw-Hill, London, ISBN 0-07-084057-1.
+
+Bailyn, M. (1994). A Survey of Thermodynamics, American Institute of Physics Press, New York, ISBN 0-88318-797-3.
+
+Born, M. (1949). , Oxford University Press, London.
+
+Bryan, G.H. (1907). , B.G. Teubner, Leipzig.
+
+Callen, H.B. (1960/1985). Thermodynamics and an Introduction to Thermostatistics, (1st edition 1960) 2nd edition 1985, Wiley, New York, ISBN 0-471-86256-8.
+
+Eu, B.C. (2002). Generalized Thermodynamics. The Thermodynamics of Irreversible Processes and Generalized Hydrodynamics, Kluwer Academic Publishers, Dordrecht, ISBN 1-4020-0788-4.
+
+Fowler, R., Guggenheim, E.A. (1939). Statistical Thermodynamics, Cambridge University Press, Cambridge UK.
+
+Gibbs, J.W. (1875). On the equilibrium of heterogeneous substances, Transactions of the Connecticut Academy of Arts and Sciences, 3: 108–248.
+
+Grandy, W.T., Jr (2008). Entropy and the Time Evolution of Macroscopic Systems, Oxford University Press, Oxford, ISBN 978-0-19-954617-6.
+
+Guggenheim, E.A. (1949/1967). Thermodynamics. An Advanced Treatment for Chemists and Physicists, (1st edition 1949) 5th edition 1967, North-Holland, Amsterdam.
+
+Haase, R. (1971). Survey of Fundamental Laws, chapter 1 of Thermodynamics, pages 1–97 of volume 1, ed. W. Jost, of Physical Chemistry. An Advanced Treatise, ed. H. Eyring, D. Henderson, W. Jost, Academic Press, New York, lcn 73–117081.
+
+Kondepudi, D., Prigogine, I. (1998). Modern Thermodynamics. From Heat Engines to Dissipative Structures, John Wiley & Sons, ISBN 0-471-97393-9.
+
+Lebon, G., Jou, D., Casas-Vázquez, J. (2008). Understanding Non-equilibrium Thermodynamics, Springer, Berlin, ISBN 978-3-540-74251-7.
+
+Partington, J.R. (1949). An Advanced Treatise on Physical Chemistry, volume 1, Fundamental Principles. The Properties of Gases, Longmans, Green and Co., London.
+
+Pippard, A.B. (1957). The Elements of Classical Thermodynamics, Cambridge University Press.
+
+Planck, M.(1897/1903).
+
+Planck, M. (1923/1926). Treatise on Thermodynamics, third English edition translated by A. Ogg from the seventh German edition, Longmans, Green & Co., London.
+
+Serrin, J. (1986). New Perspectives in Thermodynamics, edited by J. Serrin, Springer, Berlin, ISBN 3-540-15931-2.
+
+Sommerfeld, A. (1952/1956). Thermodynamics and Statistical Mechanics, Academic Press, New York.
+
+Tschoegl, N.W. (2000). Fundamentals of Equilibrium and Steady-State Thermodynamics, Elsevier, Amsterdam, ISBN 0-444-50426-5.
+
+Tisza, L. (1966). Generalized Thermodynamics, M.I.T Press, Cambridge MA.
+
+Truesdell, C.A. (1980). The Tragicomical History of Thermodynamics, 1822–1854, Springer, New York, ISBN 0-387-90403-4.
+
+18. Further reading
+
+A nontechnical introduction, good on historical and interpretive matters.
+
+The following titles are more technical:
+
+Fermi, E. (1956). Thermodynamics, Dover, New York.
+
+19. External links
+
+from the University of Notre Dame

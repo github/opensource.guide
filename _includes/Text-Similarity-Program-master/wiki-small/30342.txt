@@ -1,0 +1,219 @@
+Transliteration is the conversion of a text from one script to another.
+
+For instance, a Latin transliteration of the Greek phrase "", usually translated as 'Hellenic Republic', is "".
+
+Transliteration is not concerned with representing the sounds of the original, only the characters, ideally accurately and unambiguously. Thus, in the above example, λλ is transliterated as 'll', but pronounced /l/; Δ is transliterated as 'D', but pronounced 'ð'; and η is transliterated as 'ē', though it is pronounced /i/ (exactly like ι) and is not long.
+
+Conversely, transcription notes the sounds but not necessarily the spelling. So "" could be transcribed as "", which does not specify which of the /i/ sounds are written as η and which as ι.
+
+1. Definitions
+
+Systematic transliteration is a mapping from one system of writing into another, typically grapheme to grapheme. Most transliteration systems are one-to-one, so a reader who knows the system can reconstruct the original spelling.
+
+Transliteration is opposed to transcription, which maps the sounds of one language into a writing system. Still, most systems of transliteration map the letters of the source script to letters pronounced similarly in the target script, for some specific pair of source and target language. If the relations between letters and sounds are similar in both languages, a transliteration may be very close to a transcription. In practice, there are some mixed transliteration/transcription systems that transliterate a part of the original script and transcribe the rest.
+
+For many script pairs, there is one or more standard transliteration systems. However, unsystematic transliteration is common.
+
+2. Difference from transcription
+
+In Modern Greek (and since the Roman Imperial period), the letters `ηb `ιb `υb and the letter combinations `ειb `oιb `υιb are pronounced (except when pronounced as semivowels), and a modern transcription renders them all as `ib; but a transliteration distinguishes them, for example by transliterating to `ēb `ib `yb and `eib `oib `yib. (As the ancient pronunciation of `ηb was , it is often transliterated as an `eb with a macron, even for modern texts.) On the other hand, `ευb is sometimes pronounced and sometimes , depending on the following sound. A transcription distinguishes them, but this is no requirement for a transliteration. The initial letter 'h' reflecting the historical rough breathing in words such as Hellēnikē should logically be omitted in transcription from Koine Greek on, and from transliteration from 1982 on, but it is nonetheless frequently encountered.
+
+3. Partial transliteration
+
+There is also another type of transliteration that is not full, but partial or quasi. A source word can be transliterated by first identifying all the applicable prefix and suffix segments based on the letters in the source word. All of these segments, in combination constitute a list of potential partial transliterations. So a partial transliteration can include only prefix or only suffix segments. A partial transliteration will also include some unmapped letters of the source word, namely those letters between the end of the prefix and the beginning of the suffix. The partial transliteration can be “filled in” by applying additional segment maps. Applying the segment maps can produce additional transliterations if more than one segment mapping applies to a particular combination of characters in the source word.
+
+Some examples or "partial transliterations" are words like "bishop" via Anglo-Saxon biscep from the Greek word "episkopos" and the word "deacon" which is partially transliterated from the Greek word "diakonos".
+
+4. Challenges
+
+A simple example of difficulties in transliteration is the voiceless uvular plosive used in Arabic and other languages. It is pronounced approximately like English [k], except that the tongue makes contact not on the soft palate but on the uvula. Pronunciation varies between different languages, and different dialects of the same language. The consonant is sometimes transliterated into "g", sometimes "k", and sometimes "q" in English. Another example is the Russian letter "Х" (kha), pronounced similarly to the letter "j" in Spanish. It is pronounced as the voiceless velar fricative , like the Scottish pronunciation of in "loch". This sound is not present in most forms of English, and is often transliterated as "kh", as in Nikita Khrushchev. Many languages have phonemic sounds, such as click consonants, which are quite unlike any phoneme in the language into which they are being transliterated.
+
+Some languages and scripts present particular difficulties to transcribers. These are discussed on separate pages.
+
+Ancient Near East
+
+Transliterating cuneiform languages
+
+Transliteration of Ancient Egyptian (see also Egyptian hieroglyphs)
+
+hieroglyphic Luwian
+
+Armenian language
+
+Avestan
+
+Brahmic family
+
+Devanagari: see Devanagari transliteration
+
+Pali
+
+Tocharian
+
+Malayalam: see Romanization of Malayalam
+
+Chinese language
+
+Transcription into Chinese characters
+
+romanization of Chinese
+
+Cyrillization of Chinese
+
+Click languages of Africa
+
+Khoisan languages
+
+Bantu languages
+
+Greek language
+
+Romanization of Greek
+
+Greek alphabet
+
+List of Greek words with English derivatives
+
+Linear B
+
+Greeklish
+
+Japanese language
+
+Romanization of Japanese
+
+Cyrillization of Japanese
+
+Korean language
+
+McCune–Reischauer
+
+Revised Romanization of Korean
+
+Persian language
+
+Persian alphabet
+
+Cyrillic alphabet
+
+Romanization of Persian
+
+Persian chat alphabet
+
+Semitic languages
+
+Ugaritic alphabet
+
+Hebrew alphabet
+
+Romanization of Hebrew
+
+Arabic alphabet
+
+Romanization of Arabic
+
+Arabic chat alphabet
+
+Slavic languages written in the Cyrillic or Glagolitic alphabets
+
+Romanization of Belarusian
+
+Romanization of Bulgarian
+
+Romanization of Russian
+
+Romanization of Macedonian
+
+Romanization of Serbian
+
+Romanization of Ukrainian
+
+Volapuk encoding
+
+Thai language
+
+Royal Thai General System of Transcription
+
+ISO 11940
+
+5. Adopted
+
+Buckwalter transliteration
+
+Devanagari transliteration
+
+Hans Wehr transliteration
+
+International Alphabet of Sanskrit Transliteration
+
+Scientific transliteration of Cyrillic
+
+Transliteration of Ancient Egyptian
+
+Transliterations of Manchu
+
+Wylie transliteration
+
+6. See also
+
+Latin script
+
+List of ISO transliterations
+
+Orthographic transcription
+
+Phonemic orthography
+
+Phonetic transcription
+
+Romanization
+
+Substitution cipher
+
+Transcription (linguistics)
+
+7. References
+
+"Translation" citation 15: ^ Kasparek, "The Translator's Endless Toil", pp. 85–86. "Roger Bacon wrote that if a translation is to be true, the translator must know both languages, as well as the science that he is to translate"
+
+8. External links
+
+8.1. Online transliteration
+
+www.cesty.in
+
+Transliterate.com
+
+Malerkotla.co.in
+
+Basic Indian language transliteration (Asian scripts -> Latin)
+
+Lingua-Systems, Lingua::Translit
+
+(Asian scripts -> Asian scripts -> Latin ISO)
+
+Transliteration service
+
+Online transliteration service
+
+8.2. Documentation
+
+International Components for Unicode transliteration services
+
+– Collection of transliteration tables for many non-Latin scripts maintained by Thomas T. Pedersen.
+
+– working group on Romanization Systems.
+
+8.3. Software
+
+Free in-place transliteration tool for Russian, Arabic, Greek, Hebrew and other languages for Windows.
+
+, for Indic transliteration in OpenOffice
+
+, AzConvert, open source program for transliterating Latin and Arabic scripts of Azerbaijani language developed using Qt
+
+This add-on for Mozilla Thunderbird enables Thunderbird users to compose and send messages in 10 regional Indian languages, using their regular QWERTY keyboard. The languages supported by this add-on are Assamese, Bengali, Hindi, Kannada, Oriya, Malayalam, Marathi, Sanskrit, Tamil and Telugu.
+
+, Python module for ASCII transliteration of Unicode text. Others
+
+– history of the transliteration of Slavic languages into Latin alphabets.

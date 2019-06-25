@@ -1,0 +1,109 @@
+In mathematics, a well-order relation (or well-ordering) on a set S is a total order on S with the property that every non-empty subset of S has a least element in this ordering. The set S together with the well-order relation is then called a well-ordered set. The hyphen is frequently omitted in contemporary papers, yielding the spellings wellorder, wellordered, and wellordering.
+
+Every non-empty well-ordered set has a least element. Every element s of a well-ordered set, except a possible greatest element, has a unique successor (next element), namely the least element of the subset of all elements greater than s. There may be elements besides the least element which have no predecessor (see Natural numbers below for an example). In a well-ordered set S, every subset T which has an upper bound has a least upper bound, namely the least element of the subset of all upper bounds of T in S.
+
+If ≤ is a non-strict well-ordering, then < is a strict well-ordering. A relation is a strict well-ordering if and only if it is a well-founded strict total order. The distinction between strict and non-strict well-orders is often ignored since they are easily interconvertible.
+
+Every well-ordered set is uniquely order isomorphic to a unique ordinal number, called the order type of the well-ordered set. The well-ordering theorem, which is equivalent to the axiom of choice, states that every set can be well-ordered. If a set is well-ordered (or even if it merely admits a wellfounded relation), the proof technique of transfinite induction can be used to prove that a given statement is true for all elements of the set.
+
+The observation that the natural numbers are well-ordered by the usual less-than relation is commonly called the well-ordering principle (for natural numbers).
+
+1. Ordinal numbers
+
+Every well-ordered set is uniquely order isomorphic to a unique ordinal number, called the order type of the well-ordered set. The position of each element within the ordered set is also given by an ordinal number. In the case of a finite set, the basic operation of counting, to find the ordinal number of a particular object, or to find the object with a particular ordinal number, corresponds to assigning ordinal numbers one by one to the objects. The size (number of elements, cardinal number) of a finite set is equal to the order type. Counting in the everyday sense typically starts from one, so it assigns to each object the size of the initial segment with that object as last element. Note that these numbers are one more than the formal ordinal numbers according to the isomorphic order, because these are equal to the number of earlier objects (which corresponds to counting from zero). Thus for finite n, the expression "n-th element" of a well-ordered set requires context to know whether this counts from zero or one. In a notation "ॆ-th element" where β can also be an infinite ordinal, it will typically count from zero.
+
+For an infinite set the order type determines the cardinality, but not conversely: well-ordered sets of a particular cardinality can have many different order types. For a countably infinite set, the set of possible order types is even uncountable.
+
+2. Examples and counterexamples
+
+2.1. Natural numbers
+
+The standard ordering ≤ of the natural numbers is a well-ordering and has the additional property that every nonzero natural number has a unique predecessor.
+
+Another well-ordering of the natural numbers is given by defining that all even numbers are less than all odd numbers, and the usual ordering applies within the evens and the odds:
+
+This is a well-ordered set of order type ω + ω. Every element has a successor (there is no largest element). Two elements lack a predecessor: 0 and 1.
+
+2.2. Integers
+
+Unlike the standard ordering ≤ of the natural numbers, the standard ordering ≤ of the integers is not a well-ordering, since, for example, the set of negative integers does not contain a least element.
+
+The following relation R is an example of well-ordering of the integers: x R y if and only if one of the following conditions holds:
+
+x = 0
+
+x is positive, and y is negative
+
+x and y are both positive, and x ≤ y
+
+x and y are both negative, and |x| ≤ |y| This relation R can be visualized as follows:
+
+R is isomorphic to the ordinal number ω + ω.
+
+Another relation for well-ordering the integers is the following definition: x ≤z y iff (|x| ` |y| or (|x| = |y| and x ≤ y)). This well-order can be visualized as follows:
+
+This has the order type ω.
+
+2.3. Reals
+
+The standard ordering ≤ of the positive real numbers is not a well-ordering, since, for example, the open interval (0, 1) does not contain a least element. From the ZFC axioms of set theory (including the axiom of choice) one can show that there is a well-order of the reals. Also Wacław Sierpiński proved that ZF + GCH (the generalized continuum hypothesis) imply the axiom of choice and hence a well-order of the reals. Nonetheless, it is possible to show that the ZFC+GCH axioms alone are not sufficient to prove the existence of a definable (by a formula) well-order of the reals. However it is consistent with ZFC that a definable well-ordering of the reals exists—for example, it is consistent with ZFC that V=L, and it follows from ZFC+V=L that a particular formula well-orders the reals, or indeed any set.
+
+An uncountable subset of the real numbers with the standard ordering ≤ cannot be a well-order: Suppose X is a subset of R well-ordered by ≤. For each x in X, let s(x) be the successor of x in ≤ ordering on X (unless x is the last element of X). Let A = { (x, s(x)) | x ∈ X } whose elements are nonempty and disjoint intervals. Each such interval contains at least one rational number, so there is an injective function from A to Q. There is an injection from X to A (except possibly for a last element of X which could be mapped to zero later). And it is well known that there is an injection from Q to the natural numbers (which could be chosen to avoid hitting zero). Thus there is an injection from X to the natural numbers which means that X is countable. On the other hand, a countably infinite subset of the reals may or may not be a well-order with the standard "≤".
+
+The natural numbers are a well-order.
+
+The set {1/n : n =1,2,3,...} has no least element and is therefore not a well-order. Examples of well-orders:
+
+The set of numbers { − 2−n | 0 ≤ n < ω } has order type ω.
+
+The set of numbers { − 2−n − 2−m−n | 0 ≤ m,n < ω } has order type ω². The previous set is the set of limit points within the set. Within the set of real numbers, either with the ordinary topology or the order topology, 0 is also a limit point of the set. It is also a limit point of the set of limit points.
+
+The set of numbers { − 2−n | 0 ≤ n < ω } ∪ { 1 } has order type ω + 1. With the order topology of this set, 1 is a limit point of the set. With the ordinary topology (or equivalently, the order topology) of the real numbers it is not.
+
+3. Equivalent formulations
+
+If a set is totally ordered, then the following are equivalent to each other:
+
+The set is well-ordered. That is, every nonempty subset has a least element.
+
+Transfinite induction works for the entire ordered set.
+
+Every strictly decreasing sequence of elements of the set must terminate after only finitely many steps (assuming the axiom of dependent choice).
+
+Every subordering is isomorphic to an initial segment.
+
+4. Order topology
+
+Every well-ordered set can be made into a topological space by endowing it with the order topology.
+
+With respect to this topology there can be two kinds of elements:
+
+isolated points - these are the minimum and the elements with a predecessor.
+
+limit points - this type does not occur in finite sets, and may or may not occur in an infinite set; the infinite sets without limit point are the sets of order type ω, for example N. For subsets we can distinguish:
+
+Subsets with a maximum (that is, subsets which are bounded by themselves); this can be an isolated point or a limit point of the whole set; in the latter case it may or may not be also a limit point of the subset.
+
+Subsets which are unbounded by themselves but bounded in the whole set; they have no maximum, but a supremum outside the subset; if the subset is non-empty this supremum is a limit point of the subset and hence also of the whole set; if the subset is empty this supremum is the minimum of the whole set.
+
+Subsets which are unbounded in the whole set. A subset is cofinal in the whole set if and only if it is unbounded in the whole set or it has a maximum which is also maximum of the whole set.
+
+A well-ordered set as topological space is a first-countable space if and only if it has order type less than or equal to ω1 (omega-one), that is, if and only if the set is countable or has the smallest uncountable order type.
+
+5. See also
+
+Tree (set theory), generalization
+
+Well-ordering theorem
+
+Ordinal number
+
+Well-founded set
+
+Well partial order
+
+Prewellordering
+
+Directed set
+
+6. References

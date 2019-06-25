@@ -1,0 +1,119 @@
+A millisecond (from milli- and second; symbol: ms) is a thousandth (10−3 or 1/1,000) of a second.
+
+10 milliseconds (a hundredth of a second) are called a centisecond, commonly seen on many stopwatches but often mistakenly referred to as milliseconds.
+
+100 milliseconds (one tenth of a second) are called a decisecond.
+
+To help compare orders of magnitude of different times, this page lists times between 10蜢3 seconds and 100 seconds (1 milli and one second). See also times of other orders of magnitude.
+
+1. Examples
+
+1 millisecond (1 ms) — cycle time for frequency 1 kHz; duration of light for typical photo flash strobe; time taken for sound wave to travel ca. 34 cm; repetition interval of GPS C/A PN code
+
+1.000692286 milliseconds — time taken for light to travel 300 km in a vacuum
+
+2 milliseconds to 5 milliseconds - typical response time in LCD computer monitors, especially high-end displays
+
+2.27 milliseconds — cycle time for A440 (pitch standard), the most commonly used pitch for tuning musical instruments
+
+3 milliseconds — a housefly's wing flap
+
+3.3 milliseconds — normal delay time between initiation and detonation of a C4 explosive charge
+
+4 milliseconds — typical average seek time for a 10,000 rpm hard disk
+
+5 milliseconds — a honey bee's wing flap
+
+5 milliseconds to 80 milliseconds — a hummingbird's wing flap
+
+8 milliseconds — 1/125 of a second, a standard camera shutter speed (125); fastest shifting time of a car's mechanical transmission
+
+10 milliseconds (10 ms) — a jiffy, cycle time for frequency 100 Hz
+
+16.67 milliseconds (1/60 second) — a third, cycle time for American 60 Hz AC electricity (mains grid)
+
+16.68 milliseconds (1/59.94 second) — the amount of time one field lasts in 29.97 fps interlaced video (commonly erroneously referred to as 30 fps)
+
+20 milliseconds — cycle time for European 50 Hz AC electricity
+
+31.25 milliseconds - a hundred twenty-eighth note at MM = 60
+
+33.3 milliseconds — the amount of time one frame lasts in 30 fps video
+
+33.367 milliseconds — the amount of time one frame lasts in 29.97 fps video (most common for NTSC-legacy formats)
+
+41.667 milliseconds — the amount of time one frame lasts in 24 fps video (most common cinematic frame rate)
+
+41.708 milliseconds — the amount of time one frame lasts in 23.976 fps video (cinematic frame rate for NTSC-legacy formats)
+
+50 milliseconds — the time interval between gear changes on a Lamborghini Aventador
+
+50 milliseconds — cycle time for the lowest audible tone, 20 Hz
+
+60 milliseconds — cycle time for European 16.7 Hz AC electrified railroad power grid
+
+60 milliseconds — the time interval between gear changes on a Ferrari 458 Spider
+
+62.5 milliseconds — a sixty-fourth note at MM = 60
+
+5 to 80 milliseconds — typical latency for a broadband internet connection (important for playing online games)
+
+100 milliseconds — the time interval between gear changes on a Ferrari FXX
+
+125 milliseconds — a thirty-second note at MM = 60
+
+134 milliseconds — time taken by light to travel around the Earth's equator
+
+150 milliseconds — recommended maximum time delay for telephone service
+
+185 milliseconds — the duration of a full rotation of the main rotor on Bell 205, 212 and 412 helicopters (normal rotor speed is 324 RPM)
+
+200 milliseconds — the time it takes the human brain to recognize emotion in facial expressions
+
+250 milliseconds — a sixteenth note at MM = 60
+
+300 to 400 milliseconds — the time for the human eye to blink
+
+400 milliseconds — time in which the fastest baseball pitches reach the strike zone
+
+430 to 500 milliseconds — common modern dance music tempos (120–140 BPM)
+
+495 milliseconds — an approximate average of the round trip time for communications via geosynchronous satellites
+
+500 milliseconds — an eighth note at MM = 60
+
+860 milliseconds — average human resting heart cycle time
+
+1000 milliseconds — one second; the period of a 1 Hz oscillator
+
+86,400,000 (24 × 60 × 60 × 1000) milliseconds — one day
+
+31,556,908,800 (86,400,000 × 365.242) milliseconds — one year
+
+2. Half-lives
+
+For a list half-lives in this timescale, see: List of isotopes by half-life
+
+3. See also
+
+SI unit
+
+Second
+
+Microsecond
+
+Nanosecond
+
+Picosecond
+
+Femtosecond
+
+Attosecond
+
+Orders of magnitude (time)
+
+4. References
+
+5. External links
+
+de:Sekunde#Abgeleitete Maßeinheiten

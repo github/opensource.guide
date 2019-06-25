@@ -1,0 +1,173 @@
+Vilfredo Federico Damaso Pareto (born Wilfried Fritz Pareto; ; 15 July 1848 – 19 August 1923) was an Italian engineer, sociologist, economist, political scientist, and philosopher. He made several important contributions to economics, particularly in the study of income distribution and in the analysis of individuals' choices. He was also responsible for popularising the use of the term "elite" in social analysis.
+
+He introduced the concept of Pareto efficiency and helped develop the field of microeconomics. He was also the first to discover that income follows a Pareto distribution, which is a power law probability distribution. The Pareto principle was named after him and built on observations of his such as that 80% of the land in Italy was owned by 20% of the population. He also contributed to the fields of sociology and mathematics.
+
+1. Biography
+
+Pareto was born of an exiled noble Genoese family in 1848 in Paris, the centre of the popular revolutions of that year. His father, Raffaele Pareto (1812–1882), was an Italian civil engineer and Ligurian marquis who had left Italy much like Mazzini and other Italian nationalists. His mother, Marie Metenier, was a French woman. Enthusiastic about the 1848 German revolution, his parents named him Fritz Wilfried, which became Vilfredo Federico upon his family's move back to Italy in 1858. In his childhood, Pareto lived in a middle-class environment, receiving a high standard of education. In 1869, he earned a doctor's degree in engineering from what is now the Polytechnic University of Turin. His dissertation was entitled "The Fundamental Principles of Equilibrium in Solid Bodies". His later interest in equilibrium analysis in economics and sociology can be traced back to this paper.
+
+1.1. From Civil engineer to liberal, and then to economist
+
+For some years after graduation, he worked as a civil engineer, first for the state-owned Italian Railway Company and later in private industry. He was manager of the Iron Works of San Giovanni Valdarno and later general manager of Italian Iron Works.
+
+He did not begin serious work in economics until his mid-forties. He started his career a fiery liberal, besting the most ardent British liberals with his attacks on any form of government intervention in the free market. In 1886 he became a lecturer on economics and management at the University of Florence. His stay in Florence was marked by political activity, much of it fueled by his own frustrations with government regulators. In 1889, after the death of his parents, Pareto changed his lifestyle, quitting his job and marrying a Russian, Alessandrina Bakunin. She left him in 1902 for a young servant.
+
+1.2. Economics and sociology
+
+In 1893, he succeeded Léon Walras to the chair of Political Economy at the University of Lausanne in Switzerland where he remained for the rest of his life. In 1906, he made the famous observation that twenty percent of the population owned eighty percent of the property in Italy, later generalised by Joseph M. Juran into the Pareto principle (also termed the 80–20 rule). In one of his books published in 1909 he showed the Pareto distribution of how wealth is distributed, he believed "through any human society, in any age, or country". He maintained cordial personal relationships with individual socialists, but always thought their economic ideas were severely flawed. He later became suspicious of their humanitarian motives and denounced socialist leaders as an 'aristocracy of brigands' who threatened to despoil the country and criticized the government of Giovanni Giolitti for not taking a tougher stance against worker strikes. Growing unrest among labor in Italy led him to the anti-socialist and anti-democratic camp. His attitude toward fascism in his last years is a matter of controversy.
+
+1.3. Personal life
+
+In 1923 Pareto remarried with Jeanne Regis, just before he died in Geneva, Switzerland, 19 August 1923, "among a menagerie of cats that he and his French lover kept" in their villa; "the local divorce laws prevented him from divorcing his wife and remarrying until just a few months prior to his death".
+
+2. Sociology
+
+Pareto's later years were spent in collecting the material for his best-known work, Trattato di sociologia generale (1916) (The Mind and Society, published in 1935). His final work was Compendio di sociologia generale (1920).
+
+In his Trattato di Sociologia Generale (1916, rev. French trans. 1917), published in English by Harcourt, Brace in a four-volume edition edited by Arthur Livingston under the title The Mind and Society (1935), Pareto developed the notion of the circulation of elites, the first social cycle theory in sociology. He is famous for saying "history is a graveyard of aristocracies".
+
+Pareto seems to have turned to sociology for an understanding of why his abstract mathematical economic theories did not work out in practice, in the belief that unforeseen or uncontrollable social factors intervened. His sociology holds that much social action is nonlogical and that much personal action is designed to give spurious logicality to non-rational actions. We are driven, he taught, by certain "residues" and by "derivations" from these residues. The more important of these have to do with conservatism and risk-taking, and human history is the story of the alternate dominance of these sentiments in the ruling elite, which comes into power strong in conservatism but gradually changes over to the philosophy of the "foxes" or speculators. A catastrophe results, with a return to conservatism; the "lion" mentality follows. This cycle might be broken by the use of force, says Pareto, but the elite becomes weak and humanitarian and shrinks from violence.
+
+Pareto's sociology was introduced to the United States by George Homans and Lawrence J. Henderson at Harvard, and had considerable influence, especially on Harvard sociologist Talcott Parsons, who developed a systems approach to society and economics that argues the status quo is usually functional.
+
+3. Fascism and power distribution
+
+Benoît Mandelbrot writes:
+
+Pareto's discovery that power laws applied to income distribution embroiled him in political change and the nascent Fascist movement, whether he really sided with the Fascists or not. Fascists such as Mussolini found inspiration for their own economic ideas in his discoveries. He had discovered something that was harsh and Darwinian, in Pareto's view. And this fueled both the anger and the energy of the Fascist movement because it fueled their economic and social views. He wrote that, as Mandelbrot summarizes:
+
+Pareto had argued that democracy was an illusion and that a ruling class always emerged and enriched itself. For him, the key question was how actively the rulers ruled. For this reason he called for a drastic reduction of the state and welcomed Benito Mussolini's rule as a transition to this minimal state so as to liberate the "pure" economic forces.
+
+To quote Pareto's biographer:
+
+Karl Popper dubbed him the "theoretician of totalitarianism", but there is no evidence in Popper's published work that he read Pareto in any detail before repeating what was then a common but dubious judgment in anti-fascist circles.
+
+It is true that Pareto regarded Mussolini's triumph as a confirmation of certain of his ideas, largely because Mussolini demonstrated the importance of force and shared his contempt for bourgeois parliamentarism. He accepted a "royal" nomination to the Italian senate from Mussolini. But he died less than a year into the new regime's existence.
+
+Some fascist writers were much enamored of Pareto, writing such paeans as:
+
+But many modern historians reject the notion that Pareto's thought was essentially fascistic or that he is properly regarded as a supporter of fascism.
+
+4. Economic concepts
+
+Pareto turned his interest to economic matters and he became an advocate of free trade, finding himself in difficulty with the Italian government. His writings reflected the ideas of Léon Walras that economics is essentially a mathematical science. Pareto was a leader of the "Lausanne School" and represents the second generation of the Neoclassical Revolution. His "tastes-and-obstacles" approach to general equilibrium theory were resurrected during the great "Paretian Revival" of the 1930s and have influenced theoretical economics since.
+
+In his Manual of Political Economy (1906) the focus is on equilibrium in terms of solutions to individual problems of "objectives and constraints". He used the indifference curve of Edgeworth (1881) extensively, for the theory of the consumer and, another great novelty, in his theory of the producer. He gave the first presentation of the trade-off box now known as the "Edgeworth-Bowley" box.
+
+Pareto was the first to realize that cardinal utility could be dispensed with and economic equilibrium thought of in terms of ordinal utility – that is, it was not necessary to know how much a person valued this or that, only that he preferred X of this to Y of that. Utility was a preference-ordering. With this, Pareto not only inaugurated modern microeconomics, but he also demolished the alliance of economics and utilitarian philosophy (which calls for the greatest good for the greatest number; Pareto said "good" cannot be measured). He replaced it with the notion of Pareto-optimality, the idea that a system is enjoying maximum economic satisfaction when no one can be made better off without making someone else worse off. Pareto optimality is widely used in welfare economics and game theory. A standard theorem is that a perfectly competitive market creates distributions of wealth that are Pareto optimal.
+
+4.1. Concepts
+
+Some economic concepts in current use are based on his work:
+
+The Pareto index is a measure of the inequality of income distribution. He argued that in all countries and times, the distribution of income and wealth is highly skewed, with a few holding most of the wealth. He argued that all observed societies follow a regular logarithmic pattern:
+
+where N is the number of people with wealth higher than x, and A and m are constants. Over the years, Pareto's Law has proved remarkably close to observed data.
+
+The Pareto chart is a special type of histogram, used to view causes of a problem in order of severity from largest to smallest. It is a statistical tool that graphically demonstrates the Pareto principle or the 80–20 rule.
+
+Pareto's law concerns the distribution of income.
+
+The Pareto distribution is a probability distribution used, among other things, as a mathematical realization of Pareto's law.
+
+Ophelimity is a measure of purely economic satisfaction.
+
+5. Major works
+
+Vilfredo Pareto. Cours d'Économie Politique Professé a l'Université de Lausanne. Vol. I, 1896; Vol. II, 1897.
+
+Vilfredo Pareto. Les Systèmes Socialistes. 1902.
+
+Vilfredo Pareto. Manual of Political Economy. Augustus M. Kelley, 1971 (translation of French edition from 1927).
+
+Vilfredo Pareto. Trattato Di Sociologia Generale (4 vols.). G. Barbéra, 1916.
+
+5.1. Works in English translation
+
+, New York: Harcourt, Brace and Company, 1935.
+
+The Mind and Society, , London: Jonathan Cape, 1936.
+
+S. F. Vanni 1950.
+
+In Talcott Parsons, Theories of Society; Foundations of Modern Sociological Theory, 2 Vol., The Free Press of Glencoe, Inc., 1961.
+
+pp. 551–557.
+
+pp. 589–597.
+
+pp. 780–786.
+
+pp. 1061–1062.
+
+pp. 1288–1291.
+
+pp. 1381–1385.
+
+Sociological Writings, Praeger, 1966.
+
+Manual of Political Economy, A. M. Kelley, 1971.
+
+The Transformation of Democracy, Transaction Books, 1984.
+
+The Rise and Fall of Elites: An Application of Theoretical Sociology, Transaction Publishers, 1991.
+
+5.2. Articles
+
+Political Science Quarterly, Vol. VIII, Ginn & Company, 1893.
+
+Journal of Political Economy, Vol. 5, No. 4, Sep., 1897.
+
+The Living Age, November 1922.
+
+6. See also
+
+Pareto efficiency
+
+Pareto distribution
+
+Pareto principle
+
+7. References
+
+8. Further reading
+
+V. Pareto, Cours d’Economie Politique. Droz, Geneva, 1896.
+
+Amoroso, Luigi. "Vilfredo Pareto," Econometrica, Vol. 6, No. 1, Jan., 1938.
+
+Aron, Raymond. (1967) Main Currents in Sociological Thought: Durkheim, Pareto, Weber – Vol. 2 ;
+
+Bruno, G. (1987). "Pareto, Vilfredo" The New Palgrave: A Dictionary of Economics, v. 5, pp. 799–804.
+
+Busino, Giovanni. Revue Européenne des Sciences Sociales, XXXVIII, 2000.
+
+Cirillo, Renato. "Was Vilfredo Pareto Really a 'Precursor' of Fascism?," The American Journal of Economics and Sociology, Vol. 42, No. 2, Apr., 1983.
+
+Cirillo, Renato. The Economics of Vilfredo Pareto (1978)
+
+Eisermann, G.(2001). "Pareto, Vilfredo (1848–1923)", International Encyclopedia of the Social & Behavioral Sciences, pp. 11048–11051.
+
+Femia, Joseph V. Pareto and Political Theory (2006)
+
+Homans, George C., and Charles P. Curtis Jr. An Introduction to Pareto: His Sociology (1934)
+
+Kirman, A. P. (1987). "Pareto as an economist" The New Palgrave: A Dictionary of Economics, v. 5, pp. 804–08.
+
+Livingston, Arthur. The Saturday Review, May 25, 1935.
+
+Millikan, Max. "Pareto's Sociology," Econometrica, Vol. 4, No. 4, Oct., 1936.
+
+Osipova, Elena; Translated by H. Campbell Creighton, M.A. (Oxon) (1989) in Igor Kon (ed.) A History of Classical Sociology Moscow: Progress Publishers pp. 312–336
+
+Palda, Filip (2011) Pareto's Republic and the New Science of Peace 2011 chapters online. Published by Cooper-Wolfling. ISBN 978-0-9877880-0-9
+
+Parsons, Talcott. The Free Press, 1949.
+
+Tarascio, Vincent J. (1968) Pareto's Methodological Approach to Economics: A Study in the History of Some Scientific Aspects of Economic Thought 1968
+
+Forte F., Silvestri P., Pareto’s sociological maximum of utility of the community and the theory of the elites, in J. G. Backhaus (ed.), Essentials of Fiscal Sociology. Conceptions of an Encyclopedia, Peter Lang, Frankfurt am Main, 2013, pp. 231-265.
+
+8.1. Primary sources
+
+9. External links

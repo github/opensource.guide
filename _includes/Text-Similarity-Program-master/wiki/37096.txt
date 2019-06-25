@@ -1,0 +1,51 @@
+A floating-point unit (FPU, colloquially a math coprocessor) is a part of a computer system specially designed to carry out operations on floating point numbers. Typical operations are addition, subtraction, multiplication, division, square root, and bitshifting. Some systems (particularly older, microcode-based architectures) can also perform various transcendental functions such as exponential or trigonometric calculations, though in most modern processors these are done with software library routines.
+
+In general purpose computer architectures, one or more FPUs may be integrated with the central processing unit; however many embedded processors do not have hardware support for floating-point operations.
+
+When a CPU is executing a program that calls for a floating-point operation, there are three ways to carry it out:
+
+A floating-point unit emulator (a floating-point library)
+
+Add-on FPU
+
+Integrated FPU Some systems implemented floating point via a coprocessor rather than as an integrated unit. This could be a single integrated circuit, an entire circuit board or a cabinet. Where floating-point calculation hardware has not been provided, floating point calculations are done in software, which takes more processor time but which avoids the cost of the extra hardware. For a particular computer architecture, the floating point unit instructions may be emulated by a library of software functions; this may permit the same object code to run on systems with or without floating point hardware. Emulation can be implemented on any of several levels: in the CPU as microcode (not a common practice), as an operating system function, or in user space code. When only integer functionality is available the CORDIC floating point emulation methods are most commonly used.
+
+In most modern computer architectures, there is some division of floating-point operations from integer operations. This division varies significantly by architecture; some, like the Intel x86 have dedicated floating-point registers, while some take it as far as independent clocking schemes.
+
+Floating-point operations are often pipelined. In earlier superscalar architectures without general out-of-order execution, floating-point operations were sometimes pipelined separately from integer operations. Since the early and mid-1990s, many microprocessors for desktops and servers have more than one FPU.
+
+1. Floating-point library
+
+Some floating-point hardware only supports the simplest operations - addition, subtraction, and multiplication. But even the most complex floating-point hardware has a finite number of operations it can support - for example, none of them directly support arbitrary-precision arithmetic.
+
+When a CPU is executing a program that calls for a floating-point operation that is not directly supported by the hardware, the CPU uses a series of simpler floating-point operations. In systems without any floating-point hardware, the CPU emulates it using a series of simpler fixed-point arithmetic operations that run on the integer arithmetic logic unit.
+
+The software that lists the necessary series of operations to emulate floating-point operations is often packaged in a floating-point library.
+
+2. Integrated FPUs
+
+In some cases, FPUs may be specialized, and divided between simpler floating-point operations (mainly addition and multiplication) and more complicated operations, like division. In some cases, only the simple operations may be implemented in hardware or microcode, while the more complex operations are implemented as software.
+
+In some current architectures, the FPU functionality is combined with units to perform SIMD computation; an example of this is the augmentation of the x87 instructions set with SSE instruction set in the x86-64 architecture used in newer Intel and AMD processors.
+
+3. Add-on FPUs
+
+In the 1980s, it was common in IBM PC/compatible microcomputers for the FPU to be entirely separate from the CPU, and typically sold as an optional add-on. It would only be purchased if needed to speed up or enable math-intensive programs.
+
+The IBM PC, XT, and most compatibles based on the 8088 or 8086 had a socket for the optional 8087 coprocessor. The AT and 80286-based systems were generally socketed for the 80287, and 80386/80386SX based machines for the 80387 and 80387SX respectively, although early ones were socketed for the 80287, since the 80387 did not exist yet. Other companies manufactured co-processors for the Intel x86 series. These included Cyrix and Weitek.
+
+Coprocessors were available for the Motorola 68000 family, the 68881 and 68882. These were common in Motorola 68020/68030-based workstations like the Sun 3 series. They were also commonly added to higher-end models of Apple Macintosh and Commodore Amiga series, but unlike IBM PC-compatible systems, sockets for adding the coprocessor were not as common in lower end systems.
+
+There are also add-on FPUs coprocessor units for microcontroller units (MCUs/µCs)/single-board computer (SBCs), which serve to provide floating-point arithmetic capability. These add-on FPUs are host-processor-independent, possess their own programming requirements (operations, instruction sets, etc.) and are often provided with their own integrated development environments (IDE)s.
+
+4. See also
+
+Arithmetic logic unit (ALU)
+
+Execution unit
+
+IEEE floating-point standard (also known as IEEE 754)
+
+IBM Floating Point Architecture
+
+5. References

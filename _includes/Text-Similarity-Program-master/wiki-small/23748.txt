@@ -1,0 +1,149 @@
+Photolithography, also termed optical lithography or UV lithography, is a process used in microfabrication to pattern parts of a thin film or the bulk of a substrate. It uses light to transfer a geometric pattern from a photomask to a light-sensitive chemical "photoresist", or simply "resist," on the substrate. A series of chemical treatments then either engraves the exposure pattern into, or enables deposition of a new material in the desired pattern upon, the material underneath the photo resist. For example, in complex integrated circuits, a modern CMOS wafer will go through the photolithographic cycle up to 50 times.
+
+Photolithography shares some fundamental principles with photography in that the pattern in the etching resist is created by exposing it to light, either directly (without using a mask) or with a projected image using an optical mask. This procedure is comparable to a high precision version of the method used to make printed circuit boards. Subsequent stages in the process have more in common with etching than with lithographic printing. It is used because it can create extremely small patterns (down to a few tens of nanometers in size), it affords exact control over the shape and size of the objects it creates, and because it can create patterns over an entire surface cost-effectively. Its main disadvantages are that it requires a flat substrate to start with, it is not very effective at creating shapes that are not flat, and it can require extremely clean operating conditions.
+
+1. History
+
+The words 'photo', 'litho', and 'graphy' all have Greek origins with the meanings 'light', 'stone' and 'writing'. As suggested by the name, lithography is a printing method where photo suggests the method uses the properties of light to create the prints. Joseph Nicephore Niepce was one of the first people to produce a photograph using such properties. In 1826, Niepce used Bitumen of Judea (a form of asphalt) on a pewter plate to create the image and then mixed lavender oil and minerals to keep the image in place. Years later in 1935, Louis Minsk developed the first negative photoresist, which relied on the solubility of chemicals to determine what part of the surface would remain raised and what parts would dissolve away where the dissolved areas created the image. Five years later, Otto Suess developed the positive photoresist, which worked in the opposite manner - all the remaining raised surfaces created the image. It wasn't until 1954, when Louis Plambeck Jr. developed the Dycryl polymeric letterpress plate, that the process of photo making became quicker.
+
+2. Basic procedure
+
+A single iteration of photolithography combines several steps in sequence. Modern cleanrooms use automated, robotic wafer track systems to coordinate the process. The procedure described here omits some advanced treatments, such as thinning agents or edge-bead removal.
+
+2.1. Cleaning
+
+If organic or inorganic contaminations are present on the wafer surface, they are usually removed by wet chemical treatment, e.g. the RCA clean procedure based on solutions containing hydrogen peroxide. Other solutions made with trichloroethylene, acetone or methanol can also be used to clean.
+
+2.2. Preparation
+
+The wafer is initially heated to a temperature sufficient to drive off any moisture that may be present on the wafer surface, 150°C for ten minutes is sufficient. Wafers that have been in storage must be chemically cleaned to remove contamination. A liquid or gaseous "adhesion promoter", such as Bis(trimethylsilyl)amine ("hexamethyldisilazane", HMDS), is applied to promote adhesion of the photoresist to the wafer. The surface layer of silicon dioxide on the wafer reacts with HMDS to form tri-methylated silicon-dioxide, a highly water repellent layer not unlike the layer of wax on a car's paint. This water repellent layer prevents the aqueous developer from penetrating between the photoresist layer and the wafer's surface, thus preventing so-called lifting of small photoresist structures in the (developing) pattern. In order to ensure the development of the image, it is best covered and placed over a hot plate and let it dry while stabilizing the temperature at 120°C.
+
+2.3. Photoresist application
+
+The wafer is covered with photoresist by spin coating. A viscous, liquid solution of photoresist is dispensed onto the wafer, and the wafer is spun rapidly to produce a uniformly thick layer. The spin coating typically runs at 1200 to 4800 rpm for 30 to 60 seconds, and produces a layer between 0.5 and 2.5 micrometres thick. The spin coating process results in a uniform thin layer, usually with uniformity of within 5 to 10 nanometres. This uniformity can be explained by detailed fluid-mechanical modelling, which shows that the resist moves much faster at the top of the layer than at the bottom, where viscous forces bind the resist to the wafer surface. Thus, the top layer of resist is quickly ejected from the wafer's edge while the bottom layer still creeps slowly radially along the wafer. In this way, any 'bump' or 'ridge' of resist is removed, leaving a very flat layer. Final thickness is also determined by the evaporation of liquid solvents from the resist. For very small, dense features (< 125 or so nm), lower resist thicknesses (< 0.5 micrometres) are needed to overcome collapse effects at high aspect ratios; typical aspect ratios are < 4:1.
+
+The photo resist-coated wafer is then prebaked to drive off excess photoresist solvent, typically at 90 to 100 °C for 30 to 60 seconds on a hotplate.
+
+2.4. Exposure and developing
+
+After prebaking, the photoresist is exposed to a pattern of intense light. The exposure to light causes a chemical change that allows some of the photoresist to be removed by a special solution, called "developer" by analogy with photographic developer. Positive photoresist, the most common type, becomes soluble in the developer when exposed; with negative photoresist, unexposed regions are soluble in the developer.
+
+A post-exposure bake (PEB) is performed before developing, typically to help reduce standing wave phenomena caused by the destructive and constructive interference patterns of the incident light. In deep ultraviolet lithography, chemically amplified resist (CAR) chemistry is used. This process is much more sensitive to PEB time, temperature, and delay, as most of the "exposure" reaction (creating acid, making the polymer soluble in the basic developer) actually occurs in the PEB.
+
+The develop chemistry is delivered on a spinner, much like photoresist. Developers originally often contained sodium hydroxide (NaOH). However, sodium is considered an extremely undesirable contaminant in MOSFET fabrication because it degrades the insulating properties of gate oxides (specifically, sodium ions can migrate in and out of the gate, changing the threshold voltage of the transistor and making it harder or easier to turn the transistor on over time). Metal-ion-free developers such as tetramethylammonium hydroxide (TMAH) are now used.
+
+The resulting wafer is then "hard-baked" if a non-chemically amplified resist was used, typically at 120 to 180 °C for 20 to 30 minutes. The hard bake solidifies the remaining photoresist, to make a more durable protecting layer in future ion implantation, wet chemical etching, or plasma etching.
+
+2.5. Etching
+
+In etching, a liquid ("wet") or plasma ("dry") chemical agent removes the uppermost layer of the substrate in the areas that are not protected by photoresist. In semiconductor fabrication, dry etching techniques are generally used, as they can be made anisotropic, in order to avoid significant undercutting of the photoresist pattern. This is essential when the width of the features to be defined is similar to or less than the thickness of the material being etched (i.e. when the aspect ratio approaches unity). Wet etch processes are generally isotropic in nature, which is often indispensable for microelectromechanical systems, where suspended structures must be "released" from the underlying layer.
+
+The development of low-defectivity anisotropic dry-etch process has enabled the ever-smaller features defined photolithographically in the resist to be transferred to the substrate material.
+
+2.6. Photoresist removal
+
+After a photoresist is no longer needed, it must be removed from the substrate. This usually requires a liquid "resist stripper", which chemically alters the resist so that it no longer adheres to the substrate. Alternatively, photoresist may be removed by a plasma containing oxygen, which oxidizes it. This process is called ashing, and resembles dry etching. 1-Methyl-2-pyrrolidon (NMP) solvent is another method used to remove an image. NMP is soluble with photoresist and has a high boiling point, thus when the resist has dissolved off the solution and wafer can be heated up to 80°C without leaving any residue.
+
+3. Exposure ("printing") systems
+
+Exposure systems typically produce an image on the wafer using a photomask. The light shines through the photomask, which blocks it in some areas and lets it pass in others. (Maskless lithography projects a precise beam directly onto the wafer without using a mask, but it is not widely used in commercial processes.) Exposure systems may be classified by the optics that transfer the image from the mask to the wafer.
+
+3.1. Contact and proximity
+
+A contact printer, the simplest exposure system, puts a photomask in direct contact with the wafer and exposes it to a uniform light. A proximity printer puts a small gap between the photomask and wafer. In both cases, the mask covers the entire wafer, and simultaneously patterns every die.
+
+Contact printing is liable to damage both the mask and the wafer, and this was the primary reason it was abandoned for high volume production. Both contact and proximity lithography require the light intensity to be uniform across an entire wafer, and the mask to align precisely to features already on the wafer. As modern processes use increasingly large wafers, these conditions become increasingly difficult.
+
+Research and prototyping processes often use contact or proximity lithography, because it uses inexpensive hardware and can achieve high optical resolution. The resolution in proximity lithography is approximately the square root of the product of the wavelength and the gap distance. Hence, except for projection lithography (see below), contact printing offers the best resolution, because its gap distance is approximately zero (neglecting the thickness of the photoresist itself). In addition, nanoimprint lithography may revive interest in this familiar technique, especially since the cost of ownership is expected to be low; however, the shortcomings of contact printing discussed above remain as challenges.
+
+3.2. Projection
+
+Very-large-scale integration (VLSI) lithography uses projection systems. Unlike contact or proximity masks, which cover an entire wafer, projection masks (known as "reticles") show only one die or an array of dice (known as a "field"). Projection exposure systems (steppers or scanners) project the mask onto the wafer many times to create the complete pattern.
+
+4. Photomasks
+
+The image for the mask originates from a computerized data file. This data file is converted to a series of polygons and written onto a square fused quartz substrate covered with a layer of chromium using a photolithographic process. A laser beam (laser writer) or a beam of electrons (e-beam writer) is used to expose the pattern defined by the data file and travels over the surface of the substrate in either a vector or raster scan manner. Where the photoresist on the mask is exposed, the chrome can be etched away, leaving a clear path for the illumination light in the stepper/scanner system to travel through.
+
+5. Resolution in projection systems
+
+The ability to project a clear image of a small feature onto the wafer is limited by the wavelength of the light that is used, and the ability of the reduction lens system to capture enough diffraction orders from the illuminated mask. Current state-of-the-art photolithography tools use deep ultraviolet (DUV) light from excimer lasers with wavelengths of 248 and 193 nm (the dominant lithography technology today is thus also called "excimer laser lithography"), which allow minimum feature sizes down to 50 nm. Excimer laser lithography has thus played a critical role in the continued advance of the so-called Moore’s Law for the last 20 years (see below).
+
+The minimum feature size that a projection system can print is given approximately by:
+
+where
+
+is the minimum feature size (also called the critical dimension, target design rule). It is also common to write 2 times the half-pitch.
+
+(commonly called k1 factor) is a coefficient that encapsulates process-related factors, and typically equals 0.4 for production. The minimum feature size can be reduced by decreasing this coefficient through Computational lithography.
+
+is the wavelength of light used
+
+is the numerical aperture of the lens as seen from the wafer
+
+According to this equation, minimum feature sizes can be decreased by decreasing the wavelength, and increasing the numerical aperture (to achieve a tighter focused beam and a smaller spot size). However, this design method runs into a competing constraint. In modern systems, the depth of focus is also a concern:
+
+Here, is another process-related coefficient. The depth of focus restricts the thickness of the photoresist and the depth of the topography on the wafer. Chemical mechanical polishing is often used to flatten topography before high-resolution lithographic steps.
+
+6. Light sources
+
+Historically, photolithography has used ultraviolet light from gas-discharge lamps using mercury, sometimes in combination with noble gases such as xenon. These lamps produce light across a broad spectrum with several strong peaks in the ultraviolet range. This spectrum is filtered to select a single spectral line. From the early 1960s through the mid-1980s, Hg lamps had been used in lithography for their spectral lines at 436 nm ("g-line"), 405 nm ("h-line") and 365 nm ("i-line"). However, with the semiconductor industry’s need for both higher resolution (to produce denser and faster chips) and higher throughput (for lower costs), the lamp-based lithography tools were no longer able to meet the industry’s requirements.
+
+This challenge was overcome when in a pioneering development in 1982, excimer laser lithography was proposed and demonstrated at I.B.M. by Kanti Jain, and now excimer laser lithography machines (steppers and scanners) are the primary tools used worldwide in microelectronics production. With phenomenal advances made in tool technology in the last two decades, it is the semiconductor industry view that excimer laser lithography has been a crucial factor in the continued advance of Moore’s Law, enabling minimum features sizes in chip manufacturing to shrink from 0.5 micrometer in 1990 to 45 nanometers and below in 2010. This trend is expected to continue into this decade for even denser chips, with minimum features approaching 10 nanometers. From an even broader scientific and technological perspective, in the 50-year history of the laser since its first demonstration in 1960, the invention and development of excimer laser lithography has been highlighted as one of the major milestones.
+
+The commonly used deep ultraviolet excimer lasers in lithography systems are the krypton fluoride laser at 248 nm wavelength and the argon fluoride laser at 193 nm wavelength. The primary manufacturers of excimer laser light sources in the 1980s were Lambda Physik (now part of Coherent, Inc.) and Lumonics. Since the mid-1990s Cymer Inc. has become the dominant supplier of excimer laser sources to the lithography equipment manufacturers, with Gigaphoton Inc. as their closest rival. Generally, an excimer laser is designed to operate with a specific gas mixture; therefore, changing wavelength is not a trivial matter, as the method of generating the new wavelength is completely different, and the absorption characteristics of materials change. For example, air begins to absorb significantly around the 193 nm wavelength; moving to sub-193 nm wavelengths would require installing vacuum pump and purge equipment on the lithography tools (a significant challenge). Furthermore, insulating materials such as silicon dioxide, when exposed to photons with energy greater than the band gap, release free electrons and holes which subsequently cause adverse charging.
+
+Optical lithography has been extended to feature sizes below 50 nm using the 193 nm ArF excimer laser and liquid immersion techniques. Also termed immersion lithography, this enables the use of optics with numerical apertures exceeding 1.0. The liquid used is typically ultra-pure, deionised water, which provides for a refractive index above that of the usual air gap between the lens and the wafer surface. The water is continually circulated to eliminate thermally-induced distortions. Water will only allow NA's of up to ~1.4, but materials with higher refractive indices will allow the effective NA to be increased further.
+
+Experimental tools using the 157 nm wavelength from the F2 excimer laser in a manner similar to current exposure systems have been built. These were once targeted to succeed 193 nm lithography at the 65 nm feature size node but have now all but been eliminated by the introduction of immersion lithography. This was due to persistent technical problems with the 157 nm technology and economic considerations that provided strong incentives for the continued use of 193 nm excimer laser lithography technology. High-index immersion lithography is the newest extension of 193 nm lithography to be considered. In 2006, features less than 30 nm were demonstrated by IBM using this technique.
+
+UV excimer lasers have been demonstrated to about 126 nm (for Ar2*). Excimer lasers are generally preferred to more than the mercury arc lamps because they have a higher resolution. Mercury arc lamps are designed to maintain a steady DC current of 50 to 150 Volts, however the resolution is not optimal. Excimer lasers are gas-based light systems that are usually filled with inert and halide gases (Kr, Ar, Xe, F and Cl) that are charged by an electric field. The faster the frequency the greater the resolution of the image. KrF lasers are able to function at a frequency of 4 kHz which is why they are so optimal. In addition to running at a higher frequency, excimer lasers are compatible with more advanced machines than mercury arc lamps are. They are also able to operate from greater distances (up to 25 meters) and are able to maintain their accuracy with a series of mirrors and antireflective-coated lenses. By setting up multiple lasers and mirrors, the amount of energy loss is minimized, also since the lenses are coated with antireflective material, the light intensity remains relatively the same from when it left the laser to when it hits the wafer.
+
+Lasers have been used to indirectly generate non-coherent extreme UV (EUV) light at 13.5 nm for extreme ultraviolet lithography. The EUV light is not emitted by the laser, but rather by a tin or xenon plasma which is excited by an eximer laser. Fabrication of feature sizes of 10 nm has been demonstrated in production environments, but not yet at rates needed for commercialization. However, this is expected by 2016. This technique does not require a synchrotron and EUV sources, as noted, do not produce coherent light. However vacuum systems and a number of novel technologies (including much higher EUV powers than are now produced) are needed to work with UV at the edge of the X-ray spectrum (which begins at 10 nm).
+
+An option, especially if and when wavelengths continue to decrease to extreme UV or X-ray, is the free-electron laser (or one might say xaser for an X-ray device). These can produce high quality beams at arbitrary wavelengths.
+
+7. Experimental methods
+
+Photolithography has been defeating predictions of its demise for many years. For instance, by the early 1980s, many in the semiconductor industry had come to believe that features smaller than 1 micrometer could not be printed optically. Modern techniques using excimer laser lithography already print features with dimensions a fraction of the wavelength of light used – an amazing optical feat. New tricks such as immersion lithography, dual-tone resist and multiple patterning continue to improve the resolution of 193 nm lithography. Meanwhile, current research is exploring alternatives to conventional UV, such as electron beam lithography, X-ray lithography, extreme ultraviolet lithography and ion projection lithography.
+
+8. See also
+
+Alternative types of lithography
+
+Extreme ultraviolet lithography
+
+Nanoimprint lithography
+
+Dip-pen nanolithography
+
+Chemical lithography
+
+Soft lithography
+
+Magnetolithography
+
+Nanochannel glass materials
+
+Computational lithography
+
+Excimer laser
+
+Moore's law
+
+Photography "first permanent photoetching" (1822CE).
+
+Stereolithography, a macroscale process used to produce three-dimensional shapes
+
+Wafer foundry
+
+9. References
+
+10. External links
+
+— Overview of lithography
+
+— IBM site with lithography-related articles
+
+— Shows how depth-of-focus is increased with immersion lithography
+
+– UV Light Shields & Information

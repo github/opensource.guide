@@ -1,0 +1,89 @@
+Janet is a private, UK government-funded organisation, which provides computer network and related collaborative services to UK research and education. All further- and higher-education organisations in the UK are connected to the Janet network, as are all the Research Councils; the majority of these sites are connected via 20 metropolitan area networks (though Janet refers to these as Regional Networks, emphasising that Janet connections are not just confined to a metropolitan area) across the UK. The network also carries traffic between schools within the UK, although many of the schools' networks maintain their own general Internet connectivity. The name was originally a contraction of Joint Academic NETwork but it is now known as Janet in its own right.
+
+The network is linked to other European and worldwide NRENs through GEANT and peers extensively with other ISPs at Internet Exchange Points in the UK. Any other networks are reached via transit services from commercial ISPs using Janet's Peering Policy.
+
+The Janet network is operated by Janet. Janet is also responsible for the .ac.uk and .gov.uk domains. It is funded by Jisc. On 1 December 2012, Janet and Jisc Collections joined together to form Jisc Collections and Janet Limited, as subsidiary organisations to Jisc. Janet continues to operate under the brand name of Janet, with the same remit of providing a world class network and related collaborative services to UK research and education. Janet was previously known as the JNT Association, and prior to that, UKERNA (the United Kingdom Education and Research Networking Association).
+
+1. History
+
+Janet developed out of a number of local and research networks dating back to the 1970s. By 1980, a number of national computer facilities (ULCC London, UMRCC Manchester, Rutherford Appleton Laboratory serving the Science and Engineering Research Council community), each with their own star network had developed. There were also regional networks centred on Bristol, Edinburgh and Newcastle, where groups of institutions had pooled resources to provide better computing facilities than could be afforded individually. These networks were each based on one manufacturer's standards, were mutually incompatible, and overlapping. In the early 1980s a standardisation and interconnect effort started, hosted on an expansion of the SERCnet X.25 research network. The system first went live in April 1983, hosting about 50 sites with line speeds of 9.6 kbit/s. In the mid-80s the backbone was upgraded to a 2 Mbit/s backbone with 64 kbit/s access links, and a further upgrade in the early 1990s sped the backbone to 8 Mbit/s and the access links to 2 Mbit/s, making Janet the fastest X.25 network in the world.
+
+The Janet effort resulted in the standardisation known as the Coloured Book protocols, which provided the first complete X.25 standard. The naming scheme used on Janet (JANET NRS) had similarities to the Internet's Domain Name System, but with domains specified in big-endian format rather than the little-endian style used by DNS. There had been some talk of moving Janet to OSI protocols in the 1990s, but changes in the networking world meant this never happened.
+
+1.1. JIPS and SuperJanet
+
+In January 1991 the Janet IP Service (JIPS) was set up as a pilot project to host IP traffic on the existing network. Within ten months the IP traffic had exceeded the levels of X.25 traffic, and the IP support became official in November. Today Janet is primarily a high-speed IP network.
+
+In order to address speed concerns, several hardware upgrades have been incorporated into the Janet system. In 1989 SuperJanet was proposed, to re-host Janet on a fibre optic network. Work started in late 1992, and by late 1993 the first 14 sites had migrated to the new 34 Mbit/s ATM system. SuperJanet also moved solely to IP.
+
+In 1995 SuperJanet2 started, adding 155 Mbit/s ATM backbones and a 10 Mbit/s SMDS network encompassing some of the original Janet nodes. Janet's mandate now included running metropolitan area networks centred on these sites.
+
+SuperJanet3 created new 155 Mbit/s ATM nodes to fully connect all of the major sites at London, Bristol, Manchester and Leeds, with 34 Mbit/s links to smaller sites around the country.
+
+In March 2001 SuperJanet4 was launched. The key challenges for SuperJanet4 were the need to increase network capacity and to strengthen the design and management of the Janet network to allow it to meet a similar increase in the size of its userbase.
+
+SuperJanet4 saw the implementation of a 2.5 Gbit/s core backbone from which connections to regional network points of presence were made at speeds ranging between 155 Mbit/s to 2.5 Gbit/s depending upon the size of the regional network. In 2002 the core SuperJanet4 backbone was upgraded to 10 Gbit/s.
+
+SuperJanet4 also saw an increase in the userbase of the Janet network, with the inclusion of the Further Education Community and the use of the SuperJanet4 backbone to interconnect schools' networks. The core point of presence (Backbone) sites in SuperJanet4 were Edinburgh, Glasgow, Warrington, Reading, Bristol, Portsmouth, London and Leeds.
+
+In October 2006 the SuperJanet5 project was launched after £29 million of investment. It provides a 10Gbit/s backbone, with an upgrade path to 40Gbit/s over the next few years. The new backbone as a result of the SuperJanet5 project is a hybrid network offering, providing both a high speed IP transit service and private bandwidth channel services provisioned over a dedicated fibre network. It is designed not only to fully accommodate the requirements of the traditional Janet user base - all research institutes, universities and further education - but also to meet the needs of a new userbase in the UK's primary and secondary schools.
+
+In April 2011 Verizon helped Janet upgrade 4 central locations to run at 100Gbit/s bringing it to a national research and education network performance parity with Internet2 (which upgraded its backbone to 100Gbit/s in October 2007). As of October 2011 they have over 18 million end-users.
+
+Janet6 started to go live in July 2013, and was officially launched at an event at the London Film Museum on the 26 November 2013. At launch, Janet6 had an initial capacity of 2Tbit/s.
+
+2. Regional networks
+
+The Janet network is implemented through 19 regional networks which connect universities, colleges and schools to the Janet network. Most regional networks are operated by Janet, although a few operate as independent entities working under contract to Janet(UK).
+
+Each regional network covers a specific geographical area, as of 2014 the following regional networks are connected to Janet:
+
+North East Scotland Region
+
+Cumbria And North Lancashire Region
+
+ClydeNET The Glasgow and Clydeside Network
+
+EaStMAN The Edinburgh and Stirling Metropolitan Area Network
+
+East of England Region
+
+East Midlands Region
+
+KPSN Kent Public Services Network (under bespoke contract)
+
+South Region
+
+London Region
+
+Northern Ireland Region
+
+North West Region
+
+North East Region
+
+PSBA Wales (under bespoke contract)
+
+South West Region
+
+Thames Valley Region
+
+UHI (Bespoke Contract with University of the Highlands & Islands)
+
+West Midlands Region
+
+YHMAN The Yorkshire and Humberside Metropolitan Area Network
+
+3. See also
+
+GÉANT
+
+Abilene Network
+
+TERENA
+
+Jisc
+
+4. References
+
+5. External links

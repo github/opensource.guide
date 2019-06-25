@@ -1,0 +1,177 @@
+A metaphor is a figure of speech that identifies one thing as being the same as some unrelated other thing, thus strongly implying the similarities between the two. It is therefore considered more rhetorically powerful than a simile. While a simile compares two items, a metaphor directly equates them, and so does not apply any words of comparison, such as "like" or "as." Metaphor is a type of analogy and is closely related to other rhetorical figures of speech that achieve their effects via association, comparison or resemblance including allegory, hyperbole, and simile.
+
+One of the most prominent examples of a metaphor in English literature is the All the world's a stage monologue from As You Like It:
+
+All the world's a stage, And all the men and women merely players; They have their exits and their entrances; This quotation contains a metaphor because the world is not literally a stage. By figuratively asserting that the world is a stage, Shakespeare uses the points of comparison between the world and a stage to convey an understanding about the mechanics of the world and the lives of the people within it.
+
+The Philosophy of Rhetoric (1937) by I. A. Richards describes a metaphor as having two parts: the tenor and the vehicle. The tenor is the subject to which attributes are ascribed. The vehicle is the object whose attributes are borrowed. In the previous example, "the world" is compared to a stage, describing it with the attributes of "the stage"; "the world" is the tenor, and "a stage" is the vehicle; "men and women" is the secondary tenor, and "players" is the secondary vehicle.
+
+Other writers employ the general terms ground and figure to denote the tenor and the vehicle. In cognitive linguistics, the terms target and source are used respectively.
+
+1. Etymology
+
+The English metaphor derives from the 16th-century Old French métaphore, which comes from the Latin metaphora, "carrying over", in turn from the Greek μεταφορά (metaphorá), "transfer", from μεταφέρω (metapherō), "to carry over", "to transfer" and that from μετά (meta), "after, with, across" + φέρω (pherō), "to bear", "to carry".
+
+2. Comparison with other types of analogy
+
+Metaphors are most frequently compared with similes. The Columbia Encyclopedia (6th edition) explains the difference as:
+
+Where a metaphor asserts the two objects in the comparison are identical on the point of comparison, a simile merely asserts a similarity. For this reason a metaphor is generally considered more forceful than a simile.
+
+The metaphor category also contains these specialised types:
+
+Allegory: An extended metaphor wherein a story illustrates an important attribute of the subject.
+
+Catachresis: A mixed metaphor used by design and accident (a rhetorical fault).
+
+Parable: An extended metaphor narrated as an anecdote illustrating and teaching such as in Aesop's fables, or Jesus' teaching method as told in the Bible.
+
+Pun: Similar to a metaphor, a pun alludes to another term. However the main difference is that a pun is a frivolous allusion between two different things whereas a metaphor is a purposeful allusion between two different things. Metaphor, like other types of analogy, can usefully be distinguished from metonymy as one of two fundamental modes of thought. Metaphor and analogy both work by bringing together two concepts from different conceptual domains, whereas metonymy works by using one element from a given domain to refer to another closely related element. Thus, a metaphor creates new links between otherwise distinct conceptual domains, whereas a metonymy relies on the existing links within them.
+
+3. Common types
+
+A dead metaphor is one in which the sense of a transferred image is absent. Examples: "to grasp a concept" and "to gather what you've understood" use physical action as a metaphor for understanding. Most people do not visualize the action—dead metaphors normally go unnoticed. Some people distinguish between a dead metaphor and a cliché. Others use "dead metaphor" to denote both.
+
+A mixed metaphor is one that leaps from one identification to a second identification inconsistent with the first. "I smell a rat [...] but I'll nip him in the bud"—Irish politician Boyle Roche. This form is often used as a parody of metaphor itself: "If we can hit that bull's-eye then the rest of the dominoes will fall like a house of cards... Checkmate." Futurama character Zapp Brannigan.
+
+4. Aristotle on Rhetoric
+
+Aristotle said in his work, The Rhetoric, that metaphors make learning pleasant; "To learn easily is naturally pleasant to all people, and words signify something, so whatever words create knowledge in us are the pleasantest." When discussing The Rhetoric, Jan Garret quoted how "Metaphor most brings about learning; for when [Homer] calls old age "stubble," he creates understanding and knowledge through the genus, since both old age and stubble are [species of the genus of] things that have lost their bloom." Metaphors, according to Aristotle, have "qualities of the exotic and the fascinating; but at the same time we recognize that strangers do not have the same rights as our fellow citizens."
+
+5. Uses outside of rhetoric
+
+The term metaphor is also used for the following terms that are not a part of rhetoric:
+
+A cognitive metaphor is the association of object to an experience outside the object's environment
+
+A conceptual metaphor is an underlying association that is systematic in both language and thought
+
+A root metaphor is the underlying worldview that shapes an individual's understanding of a situation
+
+A nonlinguistic metaphor is an association between two nonlinguistic realms of experience
+
+A visual metaphor uses an image to create the link between different ideas Metaphors can also be implied and extended throughout pieces of literature.
+
+5.1. Conceptual metaphors
+
+Some theorists have suggested that metaphors are not merely stylistic, but that they are cognitively important as well. In Metaphors We Live By, George Lakoff and Mark Johnson argue that metaphors are pervasive in everyday life, not just in language, but also in thought and action. A common definition of a metaphor can be described as a comparison that shows how two things that are not alike in most ways are similar in another important way. They explain how a metaphor is simply understanding and experiencing one kind of thing in terms of another. The authors call this concept a "conduit metaphor". By this they meant that a speaker can put ideas or objects into words or containers, and then send them along a channel, or conduit, to a listener who takes that idea or object out of the container and makes meaning of it. In other words, communication is something that ideas go into. The container is separate from the ideas themselves. Lakoff and Johnson give several examples of daily metaphors we use, such as "argument is war" and "time is money". Metaphors are widely used in context to describe personal meaning. The authors also suggest that communication can be viewed as a machine: "Communication is not what one does with the machine, but is the machine itself." (Johnson, Lakoff, 1980).
+
+5.2. Nonlinguistic metaphors
+
+Metaphors can also map experience between two nonlinguistic realms. In The Dream Frontier, Mark Blechner describes musical metaphors, in which a piece of music can "map" to the personality and emotional life of a person. Musicologist Leonard Meyer demonstrated how purely rhythmic and harmonic events can express human emotions.
+
+Art theorist Robert Vischer argued that when we look at a painting, we "feel ourselves into it" by imagining our body in the posture of a nonhuman or inanimate object in the painting. For example, the painting "The Solitary Tree" by Caspar David Friedrich shows a tree with contorted, barren limbs. In looking at that painting, we imagine our limbs in a similarly contorted and barren shape, and that creates a feeling in us of strain and distress. Nonlinguistic metaphors may be the foundation of our experience of visual, musical, dance, and other art forms.
+
+6. In historical linguistics
+
+In historical onomasiology or in historical linguistics, a metaphor is defined as a semantic change based on a similarity in form or function between the original concept named by a word and the target concept named by this word.
+
+For example, mouse: small, gray rodent → small, gray, mouse-shaped computer device.
+
+Some recent linguistic theories view language as by its nature all metaphorical; or that language in essence is metaphorical.
+
+7. Historical theories of metaphor
+
+Friedrich Nietzsche's On Truth and Lies in the Non-Moral Sense makes metaphor the conceptual centre of his early theory of society. Some sociologists have found this an essay useful for thinking about metaphors at use in society, as well as for reflecting on their own use of metaphor. Sociologists of religion, for example, note the importance of metaphor in religious worldviews, but also that it is impossible to think sociologically about religion without metaphor
+
+7.1. Metaphor as style in speech and writing
+
+Viewed as an aspect of speech and writing, metaphor qualifies as style, in particular, style characterized by a type of analogy. An expression (word, phrase) that by implication suggests the likeness of one entity to another entity gives style to an item of speech or writing, whether the entities consist of objects, events, ideas, activities, attributes, or almost anything expressible in language. For example, in the first sentence of this paragraph, the word "viewed" serves as a metaphor for "thought of", implying analogy of the process of seeing and the thought process. The phrase, "viewed as an aspect of", projects the properties of seeing (vision) something from a particular perspective onto thinking about something from a particular perspective, that "something" in this case referring to "metaphor" and that "perspective" in this case referring to the characteristics of speech and writing.
+
+As a characteristic of speech and writing, metaphors can serve the poetic imagination, Sylvia Plath, in her poem "Cut", to compare the blood issuing from her cut thumb to the running of a million soldiers, "redcoats, every one"; and, enabling Robert Frost, in "The Road Not Taken", to compare one's life to a journey.
+
+Viewed also as an aspect of speech, metaphor can serve as a device for persuading the listener or reader of the speaker or writer's argument or thesis, the so-called rhetorical metaphor.
+
+7.2. Metaphor as foundational to our conceptual system
+
+Cognitive linguists emphasize that metaphors serve to facilitate the understanding of one conceptual domain, typically an abstract one like "life" or "theories" or "ideas", through expressions that relate to another, more familiar conceptual domain, typically a more concrete one like "journey" or "buildings" or "food". Food for thought: we devour a book of raw facts, try to digest them, stew over them, let them simmer on the back-burner, regurgitate them in discussions, cook up explanations, hoping they do not seem half-baked. Theories as buildings: we establish a foundation for them, a framework, support them with strong arguments, buttressing them with facts, hoping they will stand. Life as journey: some of us travel hopefully, others seem to have no direction, many lose their way.
+
+Lakoff and Johnson (1980, 1999) greatly contributed to establishing the importance of conceptual metaphor as a framework for thinking in language. In recent years many scholars have investigated the original ways in which writers use novel metaphors and question the fundamental frameworks of thinking implicit in conceptual metaphors.
+
+When considering the role conceptual metaphor plays in the worldview of the community, the problem becomes twofold. From a sociological, cultural, or philosophical perspective, the question becomes, to what extent ideologies maintain and impose conceptual patterns of thought by introducing, supporting, and adapting fundamental patterns of thinking metaphorically. To what extent does the ideology fashion and refashion the idea of the nation as a container with borders? How are enemies and outsiders represented? As diseases? As attackers? How are the metaphoric paths of fate, destiny, history, and progress represented? As the opening of an eternal monumental moment (German fascism)? Or as the path to communism (in Russian or Czech for example)?
+
+Though cognitive scholars have made some attempts to take on board the idea that different languages have evolved radically different concepts and conceptual metaphors, they have on the whole remained tied up in the somewhat reductive concept of worldview which derives from the Sapir-Whorf hypothesis. The true source of ethnolinguistics and the thinker who contributed most to the debate on the relationship between culture, language, and linguistic communities was the German philologist Wilhelm von Humboldt (1767–1835). Humboldt remains, however, little known in English-speaking nations. Andrew Goatly, in "Washing the Brain" (John Benjaminns 2007) does take on board the dual problem of conceptual metaphor as a framework implicit in the language as a system, and the way individuals and ideologies negotiate conceptual metaphors.
+
+James W. Underhill, in Creating Worldviews: Ideology, Metaphor & Language (Edinburgh UP), considers the way individual speech adopts and reinforces certain metaphoric paradigms. This involves a critique of both communist and fascist discourse. But Underhill's studies are situated in Czech and German, which allows him to demonstrate the ways individuals are both thinking "within", and resisting the modes by which ideologies seek to appropriate key concepts such as "the people", "the state", "history", and "struggle".
+
+Though metaphors can be considered to be "in" language, Underhill's chapter on French, English and ethnolinguistics demonstrates that we cannot conceive of language or languages in anything other than metaphoric terms. French is a treasure, for example. English is a "tool" for liberating minorities engaging in debate in the global world. Underhill continues his investigation of the relationship between worldview and language in Ethnolinguistics and Cultural Concepts: Truth, Love, Hate & War (Cambridge UP 2012).
+
+8. See also
+
+Alliteration
+
+Camel's nose
+
+Colemanballs
+
+Conceptual blending
+
+Description
+
+Hypocatastasis
+
+Ideasthesia
+
+List of English-language metaphors
+
+Metaphor in philosophy
+
+Origin of language
+
+Origin of speech
+
+Pataphor
+
+Personification
+
+Reification (fallacy)
+
+Simile
+
+Tertium comparationis
+
+World Hypotheses
+
+9. Notes
+
+10. References
+
+Stefano Arduini (2007). (ed.) Metaphors, Roma, Edizioni di Storia e Letteratura.
+
+Aristotle. Poetics. Trans. I. Bywater. In The Complete Works of Aristotle: The Revised Oxford Translation. (1984). 2 Vols. Ed. Jonathan Barnes. Princeton, Princeton University Press.
+
+Max Black (1954). Metaphor, Proceedings of the Aristotelian Society, 55, pp. 273–294.
+
+Max Black (1962). Models and metaphors: Studies in language and philosophy, Ithaca: Cornell University Press.
+
+Max Black (1979). More about Metaphor, in A. Ortony (ed) Metaphor & Thought.
+
+Clive Cazeaux (2007). Metaphor and Continental Philosophy: From Kant to Derrida. New York: Routledge.
+
+L. J. Cohen (1979). The Semantics of Metaphor, in A. Ortony (ed), Metaphor & Thought
+
+Donald Davidson. (1978). "What Metaphors Mean." Reprinted in Inquiries Into Truth and Interpretation. (1984), Oxford, Oxford University Press.
+
+Jacques Derrida (1982). "White Mythology: Metaphor in the Text of Philosophy." In Margins of Philosophy. Trans. Alan Bass. Chicago, University of Chicago Press.
+
+Lakoff, G. & Johnson, M. Metaphors We Live By (IL: University of Chicago Press, 1980), Chapters 1–3. (pp. 3–13).
+
+.
+
+McKinnon, AM. (2012). 'Metaphors in and for the Sociology of Religion: Towards a Theory after Nietzsche'. Journal of Contemporary Religion, vol 27, no. 2, pp. 203–216.
+
+David Punter (2007). Metaphor, London, Routledge.
+
+Paul Ricoeur (1975). The Rule of Metaphor: Multi-Disciplinary Studies in the Creation of Meaning in Language, trans. Robert Czerny with Kathleen McLaughlin and John Costello, S. J., London: Routledge and Kegan Paul 1978. (Toronto: University of Toronto Press 1977)
+
+I. A. Richards. (1936). The Philosophy of Rhetoric. Oxford, Oxford University Press.
+
+John Searle (1979). "Metaphor," in A. Ortony (ed.) Metaphor and Thought, Cambridge University Press.
+
+Underhill, James W., Creating Worldviews: Metaphor, Ideology & Language, Edinburgh UP, 2011.
+
+11. External links
+
+, on Perseus
+
+article in the Internet Encyclopedia of Philosophy

@@ -1,0 +1,89 @@
+Giant-cell arteritis (GCA or temporal arteritis or cranial arteritis) or Horton disease is an inflammatory disease of blood vessels most commonly involving large and medium arteries of the head, predominantly the branches of the external carotid artery.
+
+It is a form of vasculitis. It typically causes inflammation of the network of small vessels (vasa vasorum) that supplies the larger arteries. GCA affects arteries of the head and neck, including the three arteries that branch out from the arch of the ascending aorta, and their branches—the thoracic aorta, the axillary arteries, the vertebral arteries, and further on in the head in the ophthalmic and external carotid arteries (the temporal and occipital arteries). It can cause occlusion of the arteries and ischema (tissue death).
+
+The most serious complication is occlusion of the ophthalmic artery, a medical emergency which can cause irreversible ischema and blindness if not treated promptly. GCA is treated with glucocorticoids (steroids), which reduce the inflammation and prevent occlusion. No other drugs are effective or contribute to the effect of glucocorticoids.
+
+The pathological mechanism seems to start when dendritic cells in the vessel wall recruit T cells and macrophages to form granulomatous infiltrate. Type 17 T helper cells involved with interleukin (IL) 6, IL-17 and IL-21 play a critical part; this pathway is suppressed with glucocorticoids.
+
+GCA is diagnosed with biopsy of the temporal artery. While the clinical presentation, patient characteristics and blood test markers of inflammation can raise suspicion, only a temporal artery biopsy can give definite diagnosis. Some cases may not involve the temporal artery, and distinguishing between a false negative and the absence of GCA is difficult.
+
+The name (giant cell arteritis) reflects the type of inflammatory cell involved as seen on a biopsy.
+
+The terms "giant-cell arteritis" and "temporal arteritis" are sometimes used interchangeably, because of the frequent involvement of the temporal artery. However, it can involve other large vessels (such as the aorta in "giant-cell aortitis"). Giant-cell arteritis of the temporal artery is referred to as "temporal arteritis," and is also known as "cranial arteritis" and "Horton's disease."
+
+1. Signs and symptoms
+
+It is more common in women than in men by a ratio of 2:1 and more common in those of Northern European descent, as well as those residing at higher latitudes. The mean age of onset is >55 years, and it is rare in those less than 55 years of age.
+
+People present with:
+
+bruits
+
+fever
+
+headache
+
+tenderness and sensitivity on the scalp
+
+jaw claudication (pain in jaw when chewing)
+
+tongue claudication (pain in tongue when chewing) and necrosis
+
+reduced visual acuity (blurred vision)
+
+acute visual loss (sudden blindness)
+
+diplopia (double vision)
+
+acute tinnitus (ringing in the ears)
+
+polymyalgia rheumatica (in 50%) The inflammation may affect blood supply to the eye and blurred vision or sudden blindness may occur. In 76% of cases involving the eye, the ophthalmic artery is involved causing arteritic anterior ischemic optic neuropathy. Loss of vision in both eyes may occur very abruptly and this disease is therefore a medical emergency.
+
+1.1. Associated conditions
+
+The disorder may coexist (in a half of cases) with polymyalgia rheumatica (PMR), which is characterized by sudden onset of pain and stiffness in muscles (pelvis, shoulder) of the body and is seen in the elderly. GCA and PMR are so closely linked that they are often considered to be different manifestations of the same disease process. Other diseases related with temporal arteritis are systemic lupus erythematosus, rheumatoid arthritis, and severe infections.
+
+Giant-cell arteritis can involve branches of the aorta as well leading to aortic aneurysm or dissection. For this reason patients should be followed with serial chest X-rays
+
+2. Diagnosis
+
+2.1. Physical exam
+
+Palpation of the head reveals prominent temporal arteries with or without pulsation.
+
+The temporal area may be tender.
+
+Decreased pulses may be found throughout the body
+
+Evidence of ischemia may be noted on fundal exam.
+
+2.2. Laboratory tests
+
+LFTs, liver function tests, are abnormal particularly raised ALP- alkaline phosphatase
+
+Erythrocyte sedimentation rate, an inflammatory marker, >60 mm/hour (normal 1–40 mm/hour).
+
+C-reactive protein, another inflammatory marker, is also commonly elevated.
+
+Platelets may also be elevated.
+
+2.3. Biopsy
+
+The gold standard for diagnosing temporal arteritis is biopsy, which involves removing a small part of the vessel and examining it microscopically for giant cells infiltrating the tissue. Since the blood vessels are involved in a patchy pattern, there may be unaffected areas on the vessel and the biopsy might have been taken from these parts. Unilateral biopsy of a 1.5–3 cm length is 85-90% sensitive (1 cm is the minimum). So, a negative result does not definitely rule out the diagnosis. Thus, currently biopsy is only considered confirmatory for the clinical diagnosis, or one of diagnostic criteria.
+
+2.4. Imaging studies
+
+Radiological examination of the temporal artery with ultrasound yields a halo sign. Contrast enhanced brain MRI and CT is generally negative in this disorder. Recent studies have shown that 3T MRI using super high resolution imaging and contrast injection can non-invasively diagnose this disorder with high specificity and sensitivity.
+
+3. Treatment
+
+Corticosteroids, typically high-dose prednisone (1 mg/kg/day), must be started as soon as the diagnosis is suspected (even before the diagnosis is confirmed by biopsy) to prevent irreversible blindness secondary to ophthalmic artery occlusion. Steroids do not prevent the diagnosis from later being confirmed by biopsy, although certain changes in the histology may be observed towards the end of the first week of treatment and are more difficult to identify after a couple of months. The dose of prednisone is lowered after 2–4 weeks, and slowly tapered over 9–12 months. Tapering may require two or more years. Oral steroids are at least as effective as intravenous steroids, except in the treatment of acute visual loss where intravenous steroids appear to offer significant benefit over oral steroids. It is unclear if adding a small amount of aspirin is beneficial or not as it has not been studied.
+
+4. References
+
+5. External links
+
+at University of Iowa
+
+from National Institute of Arthritis and Musculoskeletal and Skin Diseases

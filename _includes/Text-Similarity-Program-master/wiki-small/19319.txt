@@ -1,0 +1,89 @@
+Myelin is a dielectric (electrically insulating) material that forms a layer, the myelin sheath, usually around only the axon of a neuron. It is essential for the proper functioning of the nervous system. It is an outgrowth of a type of glial cell. The production of the myelin sheath is called myelination. In humans, myelination begins in the 14th week of fetal development, although little myelin exists in the brain at the time of birth. During infancy, myelination occurs quickly, leading to a child's fast development, including crawling and walking in the first year. Myelination continues through the adolescent stage of life.
+
+Schwann cells supply the myelin for peripheral neurons, whereas oligodendrocytes, specifically of the interfascicular type, myelinate the axons of the central nervous system. Myelin is considered a defining characteristic of the (gnathostome) vertebrates, but myelin-like sheaths have also been seen in some invertebrates, although they are quite different from vertebrate myelin at the molecular level. Myelin was discovered in 1854 by Rudolf Virchow.
+
+1. Composition
+
+Myelin is made up by different cell types, and varies in chemical composition and configuration, but performs the same insulating function. Myelinated axons are white in appearance, hence the "white matter" of the brain. Myelin helps to insulate the axons from electrically charged atoms and molecules. These charged particles (ions) are found in the fluid surrounding the entire nervous system. Under a microscope, myelin looks like strings of sausages.
+
+Cholesterol is an essential constituent of myelin. Myelin is about 40% water; the dry mass is about 70–85% lipids and about 15–30% proteins. Some of the proteins are myelin basic protein, myelin oligodendrocyte glycoprotein, and proteolipid protein. The primary lipid of myelin is a glycolipid called galactocerebroside. The intertwining hydrocarbon chains of sphingomyelin serve to strengthen the myelin sheath.
+
+2. Function
+
+The main purpose of a myelin layer (or sheath) is to increase the speed at which impulses propagate along the myelinated fiber. Along unmyelinated fibers, impulses move continuously as waves, but, in myelinated fibers, they hop or "propagate by saltatory conduction." Myelin decreases capacitance and increases electrical resistance across the cell membrane (the axolemma). Thus, myelination helps prevent the electrical current from leaving the axon. It has been suggested that myelin permits larger body size by maintaining agile communication between distant body parts.
+
+Myelinated fibers lack voltage-gated ion channels (approximately 25 μm/m2) along the myelinated internodes, exposing them only at the nodes of Ranvier. Here, they are found far more abundantly (between 2,000-12,000 μm/m2). Myelinated fibers succeed in reducing sodium leakage into the extracellular fluid (ECF), maintaining a strong separation of charge between the intracellular fluid (ICF) and the ECF. This increases sodium’s ability to travel along the axon more freely. However, the sodium diffuses along the axolemma rapidly, but is decremental by nature. The sodium cannot trigger the opening of the voltage-gated sodium channels as it becomes weaker. The nodes of Ranvier, being exposed to the ECF every 1 mm or so, contain large amounts of voltage-gated sodium channels, and allow enough sodium into the axon to regenerate the action potential. Each time the action potential reaches a node of Ranvier, it is restored to its original action potential (+35mV).
+
+When a peripheral fiber is severed, the myelin sheath provides a track along which regrowth can occur. However, the myelin layer does not ensure a perfect regeneration of the nerve fiber. Some regenerated nerve fibers do not find the correct muscle fibers, and some damaged motor neurons of the peripheral nervous system die without regrowth. Damage to the myelin sheath and nerve fiber is often associated with increased functional insufficiency.
+
+Unmyelinated fibers and myelinated axons of the mammalian central nervous system do not regenerate.
+
+Some studies have revealed that optic nerve fibers can be regenerated in postnatal rats. This regeneration depends upon two conditions: Axonal die-back has to be prevented with appropriate neurotrophic factors, and neurite growth inhibitory components have to be inactivated. These studies may lead to further understanding of nerve fiber regeneration in the central nervous system.
+
+3. Disorders
+
+3.1. Demyelination
+
+Demyelination is the loss of the myelin sheath insulating the nerves, and is the hallmark of some neurodegenerative autoimmune diseases, including multiple sclerosis, acute disseminated encephalomyelitis, Neuromyelitis Optica, transverse myelitis, chronic inflammatory demyelinating polyneuropathy, Guillain-Barré syndrome, central pontine myelinosis, inherited demyelinating diseases such as leukodystrophy, and Charcot-Marie-Tooth disease. Sufferers of pernicious anaemia can also suffer nerve damage if the condition is not diagnosed quickly. Subacute combined degeneration of spinal cord secondary to pernicious anaemia can lead to slight peripheral nerve damage to severe damage to the central nervous system, affecting speech, balance, and cognitive awareness. When myelin degrades, conduction of signals along the nerve can be impaired or lost, and the nerve eventually withers. A more serious case of myelin deterioration is called Canavan Disease.
+
+The immune system may play a role in demyelination associated with such diseases, including inflammation causing demyelination by overproduction of cytokines via upregulation of tumor necrosis factor or interferon.
+
+3.1.1. Symptoms
+
+Demyelination results in diverse symptoms determined by the functions of the affected neurons. It disrupts signals between the brain and other parts of the body; symptoms differ from patient to patient, and have different presentations upon clinical observation and in laboratory studies.
+
+Typical symptoms include:
+
+blurriness in the central visual field that affects only one eye, may be accompanied by pain upon eye movement
+
+double vision
+
+loss of vision/hearing
+
+odd sensation in legs, arms, chest, or face, such as tingling or numbness (neuropathy)
+
+weakness of arms or legs
+
+cognitive disruption, including speech impairment and memory loss
+
+heat sensitivity (symptoms worsen or reappear upon exposure to heat, such as a hot shower)
+
+loss of dexterity
+
+difficulty coordinating movement or balance disorder
+
+difficulty controlling bowel movements or urination
+
+fatigue
+
+3.1.2. Myelin repair
+
+Research to repair damaged myelin sheaths is ongoing. Techniques include surgically implanting oligodendrocyte precursor cells in the central nervous system and inducing myelin repair with certain antibodies. While results in mice have been encouraging (via stem cell transplantation), whether this technique can be effective in replacing myelin loss in humans is still unknown. Cholinergic treatments, such as acetylcholinesterase inhibitors (AChEIs), may have beneficial effects on myelination, myelin repair, and myelin integrity. Increasing cholinergic stimulation also may act through subtle trophic effects on brain developmental processes and particularly on oligodendrocytes and the lifelong myelination process they support. By increasing oligodendrocyte cholinergic stimulation, AChEIs, and other cholinergic treatments, such as nicotine, possibly could promote myelination during development and myelin repair in older age. Glycogen synthase kinase 3β inhibitors such as lithium chloride have been found to promote myelination in mice with damaged facial nerves. Cholesterol is a necessary nutrient for the myelin sheath.
+
+3.2. Dysmyelination
+
+Dysmyelination is characterized by a defective structure and function of myelin sheaths; unlike demyelination, it does not produce lesions. Such defective sheaths often arise from genetic mutations affecting the biosynthesis and formation of myelin. The shiverer mouse represents one animal model of dysmyelination. Human diseases where dysmyelination has been implicated include leukodystrophies (Pelizaeus–Merzbacher disease, Canavan disease, phenylketonuria) and schizophrenia.
+
+4. Invertebrate myelin
+
+Functionally equivalent myelin-like sheaths are found in several invertebrate taxa including Oligochaete, Penaeid, Palaemonid, and Calanoids. These myelin-like sheaths share several structural features with the sheaths found in vertebrates including multiplicity of membranes, condensation of membrane, and nodes. However, the nodes in vertebrates are annular; i.e., they encircle the axon. In contrast, nodes found in the sheaths of invertebrates are either annular or fenestrated; i.e., they are restricted to "spots." It is notable that the fastest recorded conduction speed (across both vertebrates and invertebrates) is found in the ensheathed axons of the Kuruma shrimp, an invertebrate.
+
+5. See also
+
+The Myelin Project, project to regenerate myelin
+
+Myelinogenesis, order of myelination of central nervous system
+
+Myelin Repair Foundation, a nonprofit medical research foundation accelerating drug discovery in myelin repair for multiple sclerosis
+
+Endogenous remyelination
+
+American Society for Neurochemistry
+
+6. References
+
+7. External links
+
+the MedPix Medical Image Database
+
+Archives of Neurology

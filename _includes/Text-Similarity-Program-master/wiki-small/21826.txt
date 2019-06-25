@@ -1,0 +1,79 @@
+In philosophical ethics, the term "naturalistic fallacy" was introduced by British philosopher G. E. Moore in his 1903 book Principia Ethica. Moore argues it would be fallacious to explain that which is good reductively in terms of natural properties such as "pleasant" or "desirable".
+
+Moore's naturalistic fallacy is closely related to the is–ought problem, which comes from Hume's Treatise. However, unlike Hume's view of the is–ought problem, Moore (and other proponents of ethical non-naturalism) did not consider the naturalistic fallacy to be at odds with moral realism.
+
+The naturalistic fallacy should not be confused with a fallacious appeal to nature, a mistaken claim that something is good or right because it is natural (or bad or wrong because it is unnatural).
+
+1. Different common uses
+
+1.1. The is–ought problem
+
+The term "naturalistic fallacy" is sometimes used to describe the deduction of an "ought" from an "is" (the Is–ought problem).
+
+In using his categorical imperative Kant deduced that experience was necessary for their application. But experience on its own or the imperative on its own could not possibly identify an act as being moral or immoral. We can have no certain knowledge of morality from them, being incapable of deducing how things ought to be from the fact that they happen to be arranged in a particular manner in experience.
+
+Bentham, in discussing the relations of law and morality, found that when people discuss problems and issues they talk about how they wish it would be as opposed to how it actually is. This can be seen in discussions of natural law and positive law. Bentham criticized natural law theory because in his view it was a naturalistic fallacy, claiming that it described how things ought to be instead of how things are.
+
+1.2. Moore's discussion
+
+According to G. E. Moore's Principia Ethica, when philosophers try to define "good" reductively in terms of natural properties like "pleasant" or "desirable", they are committing the naturalistic fallacy.
+
+In defense of ethical non-naturalism, Moore's argument is concerned with the semantic and metaphysical underpinnings of ethics. In general, opponents of ethical naturalism reject ethical conclusions drawn from natural facts.
+
+Moore argues that good, in the sense of intrinsic value, is simply ineffable: it cannot be defined because it is not a natural property, being "one of those innumerable objects of thought which are themselves incapable of definition, because they are the ultimate terms by reference to which whatever is capable of definition must be defined". On the other hand, ethical naturalists eschew such principles in favor of a more empirically accessible analysis of what it means to be good: for example, in terms of pleasure in the context of hedonism.
+
+In , Moore argues that a property is either a complex of simple properties, or else it is irreducibly simple. Complex properties can be defined in terms of their constituent parts but a simple property has no parts. In addition to "good" and "pleasure", Moore suggests that colour qualia are undefined: if one wants to understand yellow, one must see examples of it. It will do no good to read the dictionary and learn that "yellow" names the colour of egg yolks and ripe lemons, or that "yellow" names the primary colour between green and orange on the spectrum, or that the perception of yellow is stimulated by electromagnetic radiation with a wavelength of between 570 and 590 nanometers, because yellow is all that and more, by the open question argument.
+
+Bernard Williams called Moore's use of the term 'naturalistic fallacy' a "spectacular misnomer", the question being metaphysical, as opposed to rational.
+
+1.3. Appeal to nature
+
+Some people use the phrase "naturalistic fallacy" or "appeal to nature" to characterize inferences of the form "This behaviour is natural; therefore, this behaviour is morally acceptable" or "This property is unnatural; therefore, this property is undesireable." Such inferences are common in discussions of homosexuality, environmentalism and veganism.
+
+2. Criticism
+
+Some philosophers reject the naturalistic fallacy and/or suggest solutions for the proposed is-ought problem.
+
+Sam Harris argues that it is possible to derive "ought" from "is", and even that it has already been done to some extent. He sees morality as a budding science. This view is critical of Moore's "simple indefinable terms" (which amount to qualia), arguing instead that such terms actually can be broken down into constituents.
+
+Ralph McInerny suggests that "ought" is already bound up in "is", in so far as the very nature of things have ends/goals within them. For example, a clock is a device used to keep time. When one understands the function of a clock, then a standard of evaluation is implicit in the very description of the clock, i.e., because it "is" a clock, it "ought" to keep the time. Thus, if one cannot pick a good clock from a bad clock, then one does not really know what a clock is. In like manner, if one cannot determine good human action from bad, then one does not really know what the human person is.
+
+Certain uses of the naturalistic fallacy refutation (a scheme of reasoning that declares an inference invalid because it incorporates an instance of the naturalistic fallacy) have been criticised as lacking rational bases, and labelled anti-naturalistic fallacy. For instance, Alex Walter wrote:
+
+The refutations from naturalistic fallacy defined as inferring evaluative conclusions from purely factual premises do assert, implicitly, that there is no connection between the facts and the norms (in particular, between the facts and the mental process that led to adoption of the norms), which – at best – is an unproven hypothesis, except, perhaps, for purely dogmatic norms that the anti-naturalistic fallacy has all the appearances of.
+
+3. See also
+
+Appeal to nature
+
+Appeal to novelty
+
+Appeal to tradition
+
+Definist fallacy
+
+Evolution of morality
+
+Fact-value distinction
+
+Meta-ethics
+
+Moralistic fallacy
+
+Philosophical naturalism
+
+Norm (philosophy)
+
+Open Question Argument
+
+Value theory
+
+4. Notes
+
+5. References
+
+6. Further reading
+
+7. External links
+
+entry in The Fallacy Files

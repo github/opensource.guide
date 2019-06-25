@@ -1,0 +1,135 @@
+Jet streams are fast flowing, narrow air currents found in the atmosphere of some planets, including Earth. The main jet streams are located near the altitude of the tropopause, the transition between the troposphere and the stratosphere (where temperature increases with altitude). The major jet streams on Earth are westerly winds (flowing west to east). Their paths typically have a meandering shape; jet streams may start, stop, split into two or more parts, combine into one stream, or flow in various directions including the opposite direction of most of the jet. The strongest jet streams are the polar jets, at around above sea level, and the higher and somewhat weaker subtropical jets at around . The Northern Hemisphere and the Southern Hemisphere each have both a polar jet and a subtropical jet. The northern hemisphere polar jet flows over the middle to northern latitudes of North America, Europe, and Asia and their intervening oceans, while the southern hemisphere polar jet mostly circles Antarctica all year round.
+
+Jet streams are caused by a combination of a planet's rotation on its axis and atmospheric heating (by solar radiation and, on some planets other than Earth, internal heat). Jet streams form near boundaries of adjacent air masses with significant differences in temperature, such as the polar region and the warmer air towards the equator.
+
+Other jet streams also exist. During the Northern Hemisphere summer, easterly jets can form in tropical regions, typically in a region where dry air encounters more humid air at high altitudes. Low-level jets also are typical of various regions such as the central United States.
+
+Meteorologists use the location of some of the jet streams as an aid in weather forecasting and many other things. The main commercial relevance of the jet streams is in air travel, as flight time can be dramatically affected by either flying with the flow or against the flow of a jet stream. Clear-air turbulence, a potential hazard to aircraft passenger safety, is often found in a jet stream's vicinity, but it does not create a substantial alteration on flight times.
+
+1. Discovery
+
+After the 1883 eruption of the Krakatoa volcano, weather watchers tracked and mapped the effects on the sky over several years. They labelled the phenomenon the "equatorial smoke stream". In the 1920s, a Japanese meteorologist, Wasaburo Oishi, detected the jet stream from a site near Mount Fuji. He tracked pilot balloons, also known as pibals (balloons used to determine upper level winds), as they rose into the atmosphere. Oishi's work largely went unnoticed outside Japan. American pilot Wiley Post, the first man to fly around the world solo in 1933, is often given some credit for discovery of jet streams. Post invented a pressurized suit that let him fly above . In the year before his death, Post made several attempts at a high-altitude transcontinental flight, and noticed that at times his ground speed greatly exceeded his air speed. German meteorologist Heinrich Seilkopf is credited with coining a special term, Strahlströmung (literally "jet streaming"), for the phenomenon in 1939. (Modern German usage is "Strahlstrom".) Many sources credit real understanding of the nature of jet streams to regular and repeated flight-path traversals during World War II. Flyers consistently noticed westerly tailwinds in excess of in flights, for example, from the US to the UK.
+
+2. Description
+
+Polar jet streams are typically located near the 250 hPa pressure level, or above sea level, while the weaker subtropical jet streams are much higher, between above sea level. In each hemisphere, both upper-level jet streams form near breaks in the tropopause, which is at a higher altitude near the equator than it is over the poles, with large changes in its height occurring near the location of the jet stream. The northern hemisphere polar jet stream is most commonly found between latitudes 30°N and 60°N, while the northern subtropical jet stream is located close to latitude 30°N. The upper level jet stream is said to "follow the sun" as it moves northward during the warm season, or late spring and summer, and southward during the cold season, or autumn and winter.
+
+The width of a jet stream is typically a few hundred kilometres or miles and its vertical thickness often less than five kilometres (3 mi).
+
+Jet streams are typically continuous over long distances, but discontinuities are common. The path of the jet typically has a meandering shape, and these meanders themselves propagate east, at lower speeds than that of the actual wind within the flow. Each large meander, or wave, within the jet stream is known as a Rossby wave. Rossby waves are caused by changes in the Coriolis effect with latitude. Shortwave troughs are smaller packets of upper level energy, on the scale of long, that move through the flow pattern around large scale, or longwave, ridges and troughs within Rossby waves. Jet streams can split into two due to the formation of an upper-level closed low, that diverts a portion of the jet stream under its base, while the remainder of the jet moves by to its north.
+
+The wind speeds vary according to the temperature gradient, exceeding , although speeds of over have been measured. Meteorologists now understand that the path of jet streams steers cyclonic storm systems at lower levels in the atmosphere, and so knowledge of their course has become an important part of weather forecasting. For example, in 2007 and 2012, Britain experienced severe flooding as a result of the polar jet staying south for the summer.
+
+The polar and subtropical jets merge at some locations and times, while at other times they are well separated.
+
+3. Cause
+
+In general, winds are strongest immediately under the tropopause (except during tornadoes, hurricanes or other anomalous situations). If two air masses of different temperatures or densities meet, the resulting pressure difference caused by the density difference (which causes wind) is highest within the transition zone. The wind does not flow directly from the hot to the cold area, but is deflected by the Coriolis effect and flows along the boundary of the two air masses.
+
+All these facts are consequences of the thermal wind relation. The balance of forces on an atmospheric parcel in the vertical direction is primarily between the pressure gradient and the force of gravity, a balance referred to as hydrostatic. In the horizontal, the dominant balance outside of the tropics is between the Coriolis effect and the pressure gradient, a balance referred to as geostrophic. Given both hydrostatic and geostrophic balance, one can derive the thermal wind relation: the vertical gradient of the horizontal wind is proportional to the horizontal temperature gradient. This means that temperatures decreasing polewards implies that winds develop a larger eastward component as one moves upwards. Therefore, the strong eastward moving jet streams are in part a simple consequence of the fact that the equator is warmer than the north and south poles.
+
+3.1. Polar jet
+
+The thermal wind relation does not explain why the winds are organized in tight jets, rather than distributed more broadly over the hemisphere. One factor that contributes to the sharpness of the polar jet is the undercutting of sub-tropical airmasses by the more dense polar airmasses at the polar front. This causes surface low pressure and higher pressure at altitude. At high altitudes, lack of friction allows air to respond freely to the steep pressure gradient with low pressure at high altitude over the pole. This results in the formation of planetary wind circulations that experience a strong Coriolis deflection and thus can be considered 'quasi-geostrophic'. The polar front jet stream is closely linked to the frontogenesis process in midlatitudes, as the acceleration/deceleration of the air flow induces areas of low/high pressure respectively, which link to the formation of cyclones and anticyclones along the polar front in a relatively narrow region.
+
+3.2. Subtropical jet
+
+A second factor which contributes to jet sharpness is more appropriate for the subtropical jet, which forms at the poleward limit of the tropical Hadley cell and to first order this circulation is symmetric with respect to longitude. Tropical air rises to the tropopause, mainly because of thunderstorm systems in the Intertropical Convergence Zone, and moves poleward before sinking; this is the Hadley circulation. As it does so it tends to conserve angular momentum, since friction is slight above the ground. In the Northern Hemisphere motions are deflected to the right by the Coriolis force, which for poleward (northward) moving air implies an increased eastward component of the winds (note that leftward deflection in the southern hemisphere also leads to eastward motion). Around 30 degrees from the equator the jet wind speeds have become strong enough that were the jet to extend further polewards the increased windspeed would be unstable; thus the jet is limited.
+
+3.3. Other planets
+
+Jupiter's atmosphere has multiple jet streams, caused by the convection cells that form the familiar banded color structure; on Jupiter, these convection cells are driven by internal heating. The factors that control the number of jet streams in a planetary atmosphere is an active area of research in dynamical meteorology. In models, as one increases the planetary radius, holding all other parameters fixed, the number of jet streams decreases.
+
+4. Some effects
+
+4.1. Hurricane protection
+
+The subtropical jet stream rounding the base of the mid-oceanic upper trough is thought to be one of the reasons most of the Hawaiian Islands have been resistant to the long list of Hawaii hurricanes that have approached. For example, when Hurricane Flossie approached and dissipated just before reaching landfall, NOAA cited vertical wind shear as evidenced in the photo.
+
+5. Uses
+
+On Earth, the northern polar jet stream is the most important one for aviation and weather forecasting, as it is much stronger and at a much lower altitude than the subtropical jet streams and also covers many countries in the Northern Hemisphere, while the southern polar jet stream mostly circles Antarctica and sometimes the southern tip of South America. The term jet stream in these contexts thus usually implies the northern polar jet stream.
+
+5.1. Aviation
+
+The location of the jet stream is extremely important for aviation. Commercial use of the jet stream began on 18 November 1952, when Pan Am flew from Tokyo to Honolulu at an altitude of . It cut the trip time by over one-third, from 18 to 11.5 hours. Not only does it cut time off the flight, it also nets fuel savings for the airline industry. Within North America, the time needed to fly east across the continent can be decreased by about 30 minutes if an airplane can fly with the jet stream, or increased by more than that amount if it must fly west against it.
+
+Associated with jet streams is a phenomenon known as clear-air turbulence (CAT), caused by vertical and horizontal wind shear connected to the jet streams. The CAT is strongest on the cold air side of the jet, next to and just underneath the axis of the jet. Clear-air turbulence can cause aircraft to plunge and so present a passenger safety hazard that has caused fatal accidents, such as the death of one passenger on United Airlines Flight 826 (1997).
+
+5.2. Future power generation
+
+Scientists are investigating ways to harness the wind energy within the jet stream. According to one estimate, of the potential wind energy in the jet stream, only 1 percent would be needed to meet the world's current energy needs. The required technology would reportedly take 10–20 years to develop. There are two major scientific articles about jet stream power. Archer & Caldeira claim that the jet streams can generate the total power of 1700 TW, and that the climatic impact will be negligible. Miller, Gans, & Kleidon claim that the jet streams can generate the total power of only 7.5 TW, and that the climatic impact will be catastrophic.
+
+5.3. Unpowered aerial attack
+
+Near the end of World War II the Japanese fire balloon was designed as a cheap weapon intended to make use of the jet stream over the Pacific Ocean to reach the west coast of Canada and the United States. They were relatively ineffective as weapons, but they were used in one of the few attacks on North America during World War II, causing six deaths and a small amount of damage.
+
+6. Changes due to climate cycles
+
+6.1. Effects of ENSO
+
+The El Niño-Southern Oscillation (ENSO) influences the average location of upper-level jet streams, and leads to cyclical variations in precipitation and temperature across North America, as well as affecting tropical cyclone development across the eastern Pacific and Atlantic basins. Combined with the Pacific Decadal Oscillation, ENSO can also impact cold season rainfall in Europe. Changes in ENSO also change the location of the jet stream over South America, which partially affects precipitation distribution over the continent.
+
+6.1.1. El Niño
+
+During El Niño events, increased precipitation is expected in California due to a more southerly, zonal, storm track. During the El Niño portion of ENSO, increased precipitation falls along the Gulf coast and Southeast due to a stronger than normal, and more southerly, polar jet stream. Snowfall is greater than average across the southern Rockies and Sierra Nevada mountain range, and is well below normal across the Upper Midwest and Great Lakes states. The northern tier of the lower 48 exhibits above normal temperatures during the fall and winter, while the Gulf coast experiences below normal temperatures during the winter season. The subtropical jet stream across the deep tropics of the Northern Hemisphere is enhanced due to increased convection in the equatorial Pacific, which decreases tropical cyclogenesis within the Atlantic tropics below what is normal, and increases tropical cyclone activity across the eastern Pacific. In the Southern Hemisphere, the subtropical jet stream is displaced equatorward, or north, of its normal position, which diverts frontal systems and thunderstorm complexes from reaching central portions of the continent.
+
+6.1.2. La Niña
+
+Across North America during La Niña, increased precipitation is diverted into the Pacific Northwest due to a more northerly storm track and jet stream. The storm track shifts far enough northward to bring wetter than normal conditions (in the form of increased snowfall) to the Midwestern states, as well as hot and dry summers. Snowfall is above normal across the Pacific Northwest and western Great Lakes. Across the North Atlantic, the jet stream is stronger than normal, which directs stronger systems with increased precipitation towards Europe.
+
+6.2. Dust Bowl
+
+Evidence suggests the jet stream was at least partially responsible for the widespread drought conditions during the 1930s Dust Bowl in the Midwest United States. Normally, the jet stream flows east over the Gulf of Mexico and turns northward pulling up moisture and dumping rain onto the Great Plains. During the Dust Bowl, the jet stream weakened and changed course traveling farther south than normal. This starved the Great Plains and other areas of the Midwest of rainfall, causing extraordinary drought conditions.
+
+7. Longer-term climatic changes
+
+Climate scientists have hypothesized that the jet stream will gradually weaken as a result of global warming. Trends such as Arctic sea ice decline, reduced snow cover, evapotranspiration patterns, and other weather anomalies are expected to make the Arctic heat up faster than other parts of the globe. This in turn reduces the temperature gradient that drives jet stream winds, causing the jet stream to become weaker and more variable in its course.
+
+Since 2007, and particularly in 2012 and early 2013, the jet stream has been at an abnormally low latitude across the UK, lying closer to the English Channel, around 50°N rather than its more usual north of Scotland latitude of around 60°N. However, between 1979 and 2001, it has been found that the average position of the jet stream has been moving northward at a rate of per year across the Northern Hemisphere. Across North America, this type of change could lead to drier conditions across the southern tier of the United States and more frequent and more intense tropical cyclones in the tropics. A similar slow poleward drift was found when studying the Southern Hemisphere jet stream over the same time frame.
+
+8. Other upper-level jets
+
+8.1. Polar night jet
+
+The polar-night jet stream forms only during the winter months, i.e., polar nights, of the year in their respective hemispheres at around 60° latitude, but at a greater height than the polar jet, of about . During these dark months the air high over the poles becomes much colder than the air over the equator. This difference in temperature gives rise to extreme air pressure differences in the stratosphere, which, when combined with the Coriolis effect, create the polar night jets, racing eastward at an altitude of about . Inside the polar night jet is the polar vortex. The warmer air can only move along the edge of the polar vortex, but not enter it. Within the vortex, the cold polar air becomes increasingly cold with neither warmer air from lower latitudes nor energy from the sun during the polar night.
+
+9. Low level jets
+
+There are wind maxima at lower levels of the atmosphere that are also referred to as jets.
+
+9.1. Barrier jet
+
+A barrier jet in the low levels forms just upstream of mountain chains, with the mountains forcing the jet to be oriented parallel to the mountains. The mountain barrier increases the strength of the low level wind by 45 percent. In the North American Great Plains a southerly low-level jet helps fuel overnight thunderstorm activity during the warm season, normally in the form of mesoscale convective systems which form during the overnight hours. A similar phenomenon develops across Australia, which pulls moisture poleward from the Coral Sea towards cut-off lows which form mainly across southwestern portions of the continent.
+
+9.2. Valley exit jet
+
+A valley exit jet is a strong, down-valley, elevated air current that emerges above the intersection of the valley and its adjacent plain. These winds frequently reach a maximum of 20 m/s (45 mph) at a height of 40–200 m above the ground. Surface winds below the jet may sway vegetation but are significantly weaker.
+
+They are likely to be found in valley regions that exhibit diurnal mountain wind systems, such as those of the dry mountain ranges of the US. Deep valleys that terminate abruptly at a plain are more impacted by these factors than are those that gradually become shallower as downvalley distance increases.
+
+9.3. Africa
+
+The mid-level African easterly jet occurs during the Northern Hemisphere summer between 10°N and 20°N above West Africa, and the nocturnal poleward low-level jet occurs in the Great Plains of east and South Africa. The low-level easterly African jet stream is considered to play a crucial role in the southwest monsoon of Africa, and helps form the tropical waves which move across the tropical Atlantic and eastern Pacific oceans during the warm season. The formation of the thermal low over northern Africa leads to a low-level westerly jet stream from June into October.
+
+10. See also
+
+Atmospheric river
+
+Block (meteorology)
+
+Polar vortex
+
+Surface weather analysis
+
+Sting jet
+
+Tornado
+
+Wind shear
+
+Weather
+
+11. References
+
+12. External links

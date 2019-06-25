@@ -1,0 +1,99 @@
+Nitrogen fixation is a process in which nitrogen (N2) in the atmosphere is converted into ammonium (NH4+). Atmospheric nitrogen or molecular nitrogen (N2) is relatively inert: it does not easily react with other chemicals to form new compounds. The fixation process frees up the nitrogen atoms from their triply bonded diatomic form, N≡N, to be used in other ways.
+
+Nitrogen fixation, natural and synthetic, is essential for all forms of life because nitrogen is required to biosynthesize basic building blocks of plants, animals and other life forms, e.g., nucleotides for DNA and RNA and amino acids for proteins. Therefore, nitrogen fixation is essential for agriculture and the manufacture of fertilizer. It is also an important process in the manufacture of explosives (e.g. gunpowder, dynamite, TNT, etc.). Nitrogen fixation occurs naturally in the air by means of lightning.
+
+Nitrogen fixation also refers to other biological conversions of nitrogen, such as its conversion to nitrogen dioxide. All biological nitrogen fixation is done by way of nitrogenase metalo-enzymes which contain iron, molybdenum, or vanadium. Microorganisms that can fix nitrogen are prokaryotes (both bacteria and archaea, distributed throughout their respective kingdoms) called diazotrophs. Some higher plants, and some animals (termites), have formed associations (symbiosis) with diazotrophs.
+
+1. Biological nitrogen fixation
+
+Biological nitrogen fixation was discovered by the German agronomist Hermann Hellriegel and Dutch microbiologist Martinus Beijerinck. Biological nitrogen fixation (BNF) occurs when atmospheric nitrogen is converted to ammonia by an enzyme called nitrogenase. The reaction for BNF is:
+
+The process is coupled to the hydrolysis of 16 equivalents of ATP and is accompanied by the co-formation of one molecule of H2. The conversion of N2 into ammonia occurs at a cluster called FeMoco, an abbreviation for the iron-molybdenum cofactor. The mechanism proceeds via a series of protonation and reduction steps wherein the FeMoco active site hydrogenates the N2 substrate.
+
+In free-living diazotrophs, the nitrogenase-generated ammonium is assimilated into glutamate through the glutamine synthetase/glutamate synthase pathway.
+
+The microbial genes required for nitrogen fixation are widely distributed in diverse environments.
+
+Enzymes responsible for nitrogenase action are very susceptible to destruction by oxygen. For this reason, many bacteria cease production of the enzyme in the presence of oxygen. Many nitrogen-fixing organisms exist only in anaerobic conditions, respiring to draw down oxygen levels, or binding the oxygen with a protein such as leghemoglobin.
+
+1.1. Microorganisms that fix nitrogen
+
+Diazotrophs are a diverse group of prokaryotes that includes cyanobacteria (e.g. the highly significant Trichodesmium), green sulfur bacteria, Azotobacteraceae, rhizobia and Frankia.
+
+Cyanobacteria inhabit nearly all illuminated environments on Earth and play key roles in the carbon and nitrogen cycle of the biosphere. In general, cyanobacteria are able to utilize a variety of inorganic and organic sources of combined nitrogen, like nitrate, nitrite, ammonium, urea, or some amino acids. Several cyanobacterial strains are also capable of diazotrophic growth, an ability that may have been present in their last common ancestor in the Archean eon. Nitrogen fixation by cyanobacteria in coral reefs can fix twice the amount of nitrogen than on land—around 1.8 kg of nitrogen is fixed per hectare per day. The colonial marine cyanobacterium Trichodesmium is thought to fix nitrogen on such a scale that it accounts for almost half of the nitrogen-fixation in marine systems on a global scale.
+
+1.2. Root nodule symbioses
+
+1.2.1. Legume family
+
+Plants that contribute to nitrogen fixation include the legume family 舑 Fabaceae 舑 with taxa such as kudzu, clovers, soybeans, alfalfa, lupines, peanuts, and rooibos. They contain symbiotic bacteria called rhizobia within nodules in their root systems, producing nitrogen compounds that help the plant to grow and compete with other plants. When the plant dies, the fixed nitrogen is released, making it available to other plants and this helps to fertilize the soil. The great majority of legumes have this association, but a few genera (e.g., Styphnolobium) do not. In many traditional and organic farming practices, fields are rotated through various types of crops, which usually includes one consisting mainly or entirely of clover or buckwheat (non-legume family Polygonaceae), which are often referred to as "green manure".
+
+Inga alley farming relies on the leguminous genus Inga, a small tropical, tough-leaved, nitrogen-fixing tree.
+
+1.2.2. Non-leguminous
+
+Although by far the majority of plants able to form nitrogen-fixing root nodules are in the legume family Fabaceae, there are a few exceptions:
+
+Parasponia, a tropical genus in the Cannabaceae also able to interact with rhizobia and form nitrogen-fixing nodules
+
+Actinorhizal plants such as alder and bayberry can also form nitrogen-fixing nodules, thanks to a symbiotic association with Frankia bacteria. These plants belong to 25 genera distributed among 8 plant families. The ability to fix nitrogen is far from universally present in these families. For instance, of 122 genera in the Rosaceae, only 4 genera are capable of fixing nitrogen. All these families belong to the orders Cucurbitales, Fagales, and Rosales, which together with the Fabales form a clade of eurosids. In this clade, Fabales were the first lineage to branch off; thus, the ability to fix nitrogen may be plesiomorphic and subsequently lost in most descendants of the original nitrogen-fixing plant; however, it may be that the basic genetic and physiological requirements were present in an incipient state in the last common ancestors of all these plants, but only evolved to full function in some of them:
+
+There are also several nitrogen-fixing symbiotic associations that involve cyanobacteria (such as Nostoc):
+
+Some lichens such as Lobaria and Peltigera
+
+Mosquito fern (Azolla species)
+
+Cycads
+
+Gunnera
+
+2. Industrial nitrogen fixation
+
+The possibility that atmospheric nitrogen reacts with certain chemicals was first observed by Desfosses in 1828. He observed that mixtures of alkali metal oxides and carbon react at high temperatures with nitrogen. With the use of barium carbonate as starting material the first commercially used process became available in the 1860s developed by Margueritte and Sourdeval. The resulting barium cyanide could be reacted with steam yielding ammonia. In 1898 Adolph Frank and Nikodem Caro decoupled the process and first produced calcium carbide and in a subsequent step reacted it with nitrogen to calcium cyanamide. The Ostwald process for the production of nitric acid was discovered in 1902. Frank-Caro process and Ostwald process dominated the industrial fixation of nitrogen until the discovery of the Haber process in 1909. Prior to 1900, Nikola Tesla also experimented with the industrial fixation of nitrogen "by using currents of extremely high frequency or rate of vibration".
+
+2.1. Haber process
+
+Artificial fertilizer production is now the largest source of human-produced fixed nitrogen in the Earth's ecosystem. Ammonia is a required precursor to fertilizers, explosives, and other products. The most common method is the Haber process. The Haber process requires high pressures (around 200 atm) and high temperatures (at least 400 °C), routine conditions for industrial catalysis. This highly efficient process uses natural gas as a hydrogen source and air as a nitrogen source.
+
+Much research has been conducted on the discovery of catalysts for nitrogen fixation, often with the goal of reducing the energy required for this conversion. However, such research has thus far failed to even approach the efficiency and ease of the Haber process. Many compounds react with atmospheric nitrogen to give dinitrogen complexes. The first dinitrogen complex to be reported was Ru(NH3)5(N2)2+.
+
+2.2. Ambient nitrogen reduction
+
+Catalytic chemical nitrogen fixation at temperatures considerably lower than the Haber process is an ongoing scientific endeavor. Nitrogen was converted to ammonia and hydrazine by Alexander E. Shilov in 1970.
+
+Few compounds will cleave the N2 molecule. Under an atmosphere of nitrogen, lithium metal converts to lithium nitride. Treatment of the resulting nitride gives ammonia. Another example of homolytic cleavage of dinitrogen under mild conditions was published in 1995. Two equivalents of a molybdenum complex reacted with one equivalent of dinitrogen, creating a triple bonded MoN complex. Since then, this triple bonded complex has been used to make nitriles.
+
+Trimethylsilyl chloride, lithium, and nitrogen molecule react to give tris(trimethylsilyl)amine, under catalysis by nichrome wire or chromium trichloride in tetrahydrofuran.
+
+Tris(trimethylsilyl)amine can then be used for reaction with α,δ,ω-triketones to give tricyclic pyrroles.
+
+Catalytic systems for converting nitrogen to ammonia have been developed since the 1980s. In 2003 another was reported based on molybdenum compound, a proton source, and a strong reducing agent. However, this catalytic reduction fixates only a few nitrogen molecules.
+
+In 2011 Arashiba et al. reported yet another system with a catalyst again based on molybdenum but with a diphosphorus pincer ligand. Photolytic nitrogen splitting is also considered.
+
+3. See also
+
+Birkeland–Eyde process: an industrial fertiliser production process
+
+Denitrification: an organic process of nitrogen release
+
+George Washington Carver: an American botanist
+
+Nif gene: a gene found in nitrogen fixing bacteria
+
+Nitrification: biological production of nitrogen
+
+Nitrogen cycle: the flow and transformation of nitrogen through the environment
+
+Nitrogen deficiency
+
+Nitrogenase: enzymes used by organisms to fix nitrogen
+
+Ostwald process: a chemical process for making nitric acid HNO3
+
+Push–pull technology: the use of both repellent and attractive organisms in agriculture
+
+4. References
+
+5. External links

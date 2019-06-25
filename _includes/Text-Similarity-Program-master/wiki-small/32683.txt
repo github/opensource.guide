@@ -1,0 +1,73 @@
+A villanelle (also known as villanesque) is a nineteen-line poetic form consisting of five tercets followed by a quatrain. There are two refrains and two repeating rhymes, with the first and third line of the first tercet repeated alternately until the last stanza, which includes both repeated lines. The villanelle is an example of a fixed verse form. The word derives from Latin, then Italian, and is related to the initial subject of the form being the pastoral.
+
+The form started as a simple ballad-like song with no fixed form; this fixed quality would only come much later, from the poem "Villanelle (J'ay perdu ma Tourterelle)" (1606) by Jean Passerat. From this point, its evolution into the "fixed form" used in the present day is debated. Despite its French origins, the majority of villanelles have been written in English, a trend which began in the late nineteenth century. The villanelle has been noted as a form that frequently treats the subject of obsessions, and one which appeals to outsiders; its defining feature of repetition prevents it from having a conventional tone.
+
+1. Etymology
+
+The word villanelle derives from the Italian villanella, referring to a rustic song or dance, and which comes from villano, meaning peasant or villein. Villano derives from the Medieval Latin villanus, meaning a "farmhand". The etymology of the word relates to the fact that the form's initial distinguishing feature was the pastoral subject.
+
+2. History
+
+The villanelle originated as a simple ballad-like song—in imitation of peasant songs of an oral tradition—with no fixed poetic form. These poems were often of a rustic or pastoral subject matter and contained refrains. Prior to the nineteenth century, the term would have simply meant country song, with no particular form implied — a meaning it retains in the vocabulary of early music. According to Julie Kane, the refrain in each stanza indicates that the form descended from a "choral dance song" wherein a vocal soloist—frequently female—semi-improvised the "unique" lyrics of each stanza, while a ring of dancers—all female, or male and female mixed—chimed in with the repetitive words of the refrain as they danced around her in a circle."
+
+The fixed-form villanelle, containing the nineteen-line dual-refrain, derives from Jean Passerat's poem "Villanelle (J'ay perdu ma Tourterelle)", published in 1606. The New Princeton Encyclopedia of Poetry and Poetics (1993) suggests that this became the standard "villanelle" when prosodists such as César-Pierre Richelet based their definitions of the form on that poem. This conclusion is refuted by Kane, however, who argues that it was instead Pierre-Charles Berthelin's additions to Richelet's Dictionnaire de rimes that first fixed the form, followed a century later by the poet Théodore de Banville; his creation of a parody to Passerat's "J'ay perdu ..." would lead Wilhelm Ténint and others to think that the villanelle was an antique form.
+
+Despite its classification and origin as a French poetic form, by far the majority of villanelles have been written in English. Subsequent to the publication of Théodore de Banville's treatise on prosody "Petit traité de poésie française" (1872), the form became popularised in England through Edmund Gosse and Austin Dobson. Gosse, Dobson, Oscar Wilde, Andrew Lang and John Payne were among the first English practitioners—theirs and other works were published in Gleeson White's Ballades and Rondeaus, Chants Royal, Sestinas, Villanelles, &c. Selected (1887), which contained thirty-two English-language villanelles composed by nineteen poets.
+
+Most modernists disdained the villanelle, which became associated with the overwrought formal aestheticism of the 1890s, i.e., the decadent movement in England. In his 1914 novel A Portrait of the Artist as a Young Man, James Joyce includes a villanelle written by his protagonist Stephen Dedalus. William Empson revived the villanelle more seriously in the 1930s, and his contemporaries and friends W. H. Auden and Dylan Thomas also picked up the form. Dylan Thomas's "Do not go gentle into that good night" is perhaps the most renowned villanelle of all. Theodore Roethke and Sylvia Plath wrote villanelles in the 1950s and 1960s, and Elizabeth Bishop wrote a particularly famous and influential villanelle, "One Art," in 1976. The villanelle reached an unprecedented level of popularity in the 1980s and 1990s with the rise of the New Formalism. Since then, many contemporary poets have written villanelles, and they have often varied the form in innovative ways; in their anthology of villanelles (Villanelles), Annie Fitch and Marie-Elizabeth Mali devote a section entitled "Variations on the Villanelle" to such innovations.
+
+3. Form
+
+The villanelle consists of five stanzas of three lines (tercets) followed by a single stanza of four lines (a quatrain) for a total of nineteen lines. It is structured by two repeating rhymes and two refrains: the first line of the first stanza serves as the last line of the second and fourth stanzas, and the third line of the first stanza serves as the last line of the third and fifth stanzas. The rhyme-and-refrain pattern of the villanelle can be schematized as A1bA2 abA1 abA2 abA1 abA2 abA1A2 where letters ("a" and "b") indicate the two rhyme sounds, upper case indicates a refrain ("A"), and superscript numerals (1 and 2) indicate Refrain 1 and Refrain 2.
+
+The pattern is below set against "Do not go gentle into that good night" by Dylan Thomas:
+
+The villanelle has no established meter, although most 19th-century villanelles have used trimeter or tetrameter and most 20th-century villanelles have used pentameter. Slight alteration of the refrain line is permissible.
+
+4. Effect
+
+With reference to the form's repetition of lines, Philip K. Jason suggests that the "villanelle is often used, and properly used, to deal with one or another degree of obsession" citing Sylvia Plath's "Mad Girl's Love Song" amongst other examples. He notes the possibility for the form to evoke, through the relationship between the repeated lines, a feeling of dislocation and a "paradigm for schizophrenia". This repetition of lines has been considered to prevent villanelles from possessing a "conventional tone" and that instead they are closer in form to a song or lyric poetry. Stephen Fry says that the villanelle "is a form that seems to appeal to outsiders, or those who might have cause to consider themselves as such", having a "playful artifice" which suits "rueful, ironic reiteration of pain or fatalism". In spite of this, the villanelle has also often been used for light verse, as for instance Louis Untermeyer's "Lugubrious Villanelle of Platitudes."
+
+On the relationship between form and content, Anne Ridler noted in an introduction to her own poem "Villanelle for the Middle of the Way" a point made by T. S. Eliot, that "to use very strict form is a help, because you concentrate on the technical difficulties of mastering the form, and allow the content of the poem a more unconscious and freer release". In an introduction to his own take on the form entitled "Missing Dates", William Empson suggested that while the villanelle is a "very rigid form", W. H. Auden—in his long poem The Sea and the Mirror—had nonetheless "made it sound absolutely natural like the innocent girl talking".
+
+5. Examples
+
+"Do not go gentle into that good night" by Dylan Thomas. Probably the best-known villanelle in English.
+
+"The Waking" by Theodore Roethke.
+
+"Mad Girl's Love Song" by Sylvia Plath.
+
+"One Art" by Elizabeth Bishop.
+
+"If I Could Tell You (poem)" by W.H. Auden
+
+Edwin Arlington Robinson's villanelle "The House on the Hill" was first published in The Globe in September 1894.
+
+The villanelle written by Stephen Dedalus, the protagonist of James Joyce's novel A Portrait of the Artist as a Young Man. It has been the subject of several critical analyses.
+
+"Hate The Villanelle," a song by They Might Be Giants, first performed at "Ask Me Another" live taping at the Brooklyn Academy of Music Howard Gilman Opera House in Brooklyn, NY, on June 6, 2014.
+
+6. See also
+
+Villanella, (plural villanelle) an Italian song form with a rustic theme, mistakenly cited as the origin of the villanelle.
+
+Paradelle, a poetic form created by Billy Collins and originating as a parody of the villanelle.
+
+Terzanelle, a poetic form combining aspects of the terza rima and villanelle.
+
+7. Notes
+
+8. References
+
+9. Further reading
+
+10. External links
+
+at Poetry Foundation.
+
+of the villanelle from a web page for a course taught by poet Alberto Ríos.
+
+from the webcomic Cat and Girl by Dorothy Gambrell.
+
+from The Guardian.

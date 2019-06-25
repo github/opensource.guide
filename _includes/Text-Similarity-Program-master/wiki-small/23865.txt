@@ -1,0 +1,361 @@
+In organic chemistry, phenols, sometimes called phenolics, are a class of chemical compounds consisting of a hydroxyl group (—OH) bonded directly to an aromatic hydrocarbon group. The simplest of the class is phenol, which is also called carbolic acid . Phenolic compounds are classified as simple phenols or polyphenols based on the number of phenol units in the molecule.
+
+Synonyms are arenols or aryl alcohols.
+
+Phenolic compounds are synthesized industrially; they also are produced by plants and microorganisms, with variation between and within species.
+
+Although similar to alcohols, phenols have unique properties and are not classified as alcohols (since the hydroxyl group is not bonded to a saturated carbon atom). They have higher acidities due to the aromatic ring's tight coupling with the oxygen and a relatively loose bond between the oxygen and hydrogen. The acidity of the hydroxyl group in phenols is commonly intermediate between that of aliphatic alcohols and carboxylic acids (their pKa is usually between 10 and 12).
+
+Loss of a positive hydrogen ion (H+) from the hydroxyl group of a phenol forms a corresponding negative phenolate ion or phenoxide ion, and the corresponding salts are called phenolates or phenoxides, although the term aryloxides is preferred according to the . Phenols can have two or more hydroxy groups bonded to the aromatic ring(s) in the same molecule. The simplest examples are the three benzenediols, each having two hydroxy groups on a benzene ring.
+
+Organisms that synthesize phenolic compounds do so in response to ecological pressures such as pathogen and insect attack, UV radiation and wounding. As they are present in food consumed in human diets and in plants used in traditional medicine of several cultures, their role in human health and disease is a subject of research. Some phenols are germicidal and are used in formulating disinfectants. Others possess estrogenic or endocrine disrupting activity.
+
+1. Classification
+
+There are various classification schemes. A commonly used scheme is based on the number of carbons and was devised by Jeffrey Harborne and Simmonds in 1964 and published in 1980:
+
+Not in this Harborne classification are the C6-C7-C6 diarylheptanoids.
+
+They can also be classified on the basis of their number of phenol groups. They can therefore be called simple phenols or monophenols, with only one phenolic group, or di- (bi-), tri- and oligophenols, with two, three or several phenolic groups respectively.
+
+The largest and best studied natural phenols are the flavonoids, which include several thousand compounds, among them the flavonols, flavones, flavan-3ol (catechins), flavanones, anthocyanidins and isoflavonoids.
+
+The phenolic unit can be found dimerized or further polymerized, creating a new class of polyphenol. For example, ellagic acid is a dimer of gallic acid and forms the class of ellagitannins, or a catechin and a gallocatechin can combine to form the red compound theaflavin, a process that also results in the large class of brown thearubigins in tea.
+
+Two natural phenols from two different categories, for instance a flavonoid and a lignan, can combine to form a hybrid class like the flavonolignans.
+
+Nomenclature of polymers:
+
+1.1. Hybrid chemical classes
+
+Plants in the genus Humulus and Cannabis produce terpenophenolic metabolites, compounds that are meroterpenes. Phenolic lipids are long aliphatic chains bonded to a phenolic moiety.
+
+2. Chemistry
+
+2.1. Chemical properties
+
+The majority of these compounds are solubles molecules but the smaller molecules can be volatiles.
+
+Many natural phenols present chirality within their molecule. An example of such molecules is catechin. Cavicularin is an unusual macrocycle because it was the first compound isolated from nature displaying optical activity due to the presence of planar chirality and axial chirality.
+
+Natural phenols chemically interact with many other substances. Stacking, a chemical property of molecules with aromaticity, is seen occurring between phenolic molecules. When studied in mass spectrometry, phenols easily form adduct ions with halogens. They can also interact with the food matrices or with different forms of silica (mesoporous silica, fumed silica or silica-based sol gels).
+
+2.1.1. UV visible absorbance
+
+Natural phenols spectral data show a typical UV absorbance characteristic of benzene aromaticity at 270 nm. However, according to Woodward's rules, bathochromic shifts often also happen suggesting the presence of delocalised π electrons arising from a conjugation between the benzene and vinyls groups.
+
+As molecules with higher conjugation levels undergo this bathochromic shift phenomenon, a part of the visible spectrum is absorbed. The wavelengths left in the process (generally in red section of the spectrum) recompose the color of the particular substance. Acylation with cinnamic acids of anthocyanidins shifted color tonality (CIE Lab hue angle) to purple.
+
+Here is a series of UV visible spectra of molecules classified from left to right according to their conjugation level:
+
+The absorbance pattern responsible for the red color of anthocyanins may be complementary to that of green chlorophyll in photosynthetically active tissues such as young Quercus coccifera leaves.
+
+2.1.2. Oxidation
+
+Natural phenols are reactive species toward oxidation, notably the complex mixture of phenolics, found in food for example, can undergo autoxidation during the ageing process. Simple natural phenols can lead to the formation of B-type procyanidins in wines or in model solutions. This is correlated to the non enzymatic browning color change characteristic of this process. This phenomenon can be observed in foods like carrot purees.
+
+Browning associated with oxidation of phenolic compounds has also been given as the cause of cells death in calli formed in in vitro cultures. Those phenolics originate both from explant tissues and from explant secretions.
+
+3. Phenolic compounds
+
+3.1. Naturally occurring
+
+3.2. Synthetic
+
+3.3. Drugs, present and past
+
+3.4. Chemical properties
+
+The majority of these compounds are soluble molecules but the smaller molecules can be volatile.
+
+Phenols often have chiral centers. An example of such a molecule is catechin. Cavicularin is an unusual macrocycle because it was the first compound isolated from nature displaying optical activity due to the presence of planar chirality and axial chirality.
+
+Phenols chemically interact with many other substances. Stacking, a chemical property of molecules with aromaticity, is seen occurring between phenolic molecules. When studied in mass spectrometry, phenols easily form adduct ions with halogens. They can also interact with the food matrices or with different forms of silica (mesoporous silica, fumed silica or silica-based sol gels).
+
+Phenols are reactive species toward oxidation, notably the complex mixture of phenolics, found in food for example, can undergo autoxidation during the ageing process. Simple natural phenols can lead to the formation of B-type procyanidins in wines or in model solutions. This is correlated to the non enzymatic browning color change characteristic of this process. This phenomenon can be observed in foods like carrot purees.
+
+4. Biosynthesis
+
+Phenolics are formed by three different biosynthetic pathways: (i) the shikimate/chorizmate or succinylbenzoate pathway, which produces the phenyl propanoid derivatives (C6–C3); (ii) the acetate/malonate or polyketide pathway, which produces the side-chain-elongated phenyl propanoids, including the large group of flavonoids (C6–C3–C6) and some quinones; and (iii) the acetate/mevalonate pathway, which produces the aromatic terpenoids, mostly monoterpenes, by dehydrogenation reactions. The aromatic amino acid phenylalanine, synthesized in the shikimic acid pathway, is the common precursor of phenol containing amino acids and phenolic compounds.
+
+In plants, the phenolic units are esterified or methylated and are submitted to conjugation, which means that the natural phenols are mostly found in the glycoside form instead of the aglycone form.
+
+In olive oil, tyrosol forms esters with fatty acids. In rye, alkylresorcinols are phenolic lipids.
+
+Some acetylations involve terpenes like geraniol. Those molecules are called meroterpenes (a chemical compound having a partial terpenoid structure).
+
+Methylations can occur by the formation of an ether bond on hydroxyl groups forming O-methylated polyphenols. In the case of the O-methylated flavone tangeritin, all of the five hydroxyls are methylated, leaving no free hydroxyls of the phenol group. Methylations can also occur on directly on a carbon of the benzene ring like in the case of poriol, a C-methylated flavonoid.
+
+5. Synthesis of phenols
+
+Several laboratory methods for the synthesis of phenols:
+
+by an ester rearrangement in the Fries rearrangement
+
+by a rearrangement of N-phenylhydroxylamines in the Bamberger rearrangement
+
+by hydrolysis of phenolic esters or ethers
+
+by reduction of quinones
+
+by replacement of an aromatic amine by an hydroxyl group with water and sodium bisulfide in the Bucherer reaction
+
+by hydrolysis of diazonium salts
+
+by oligomerisation with formaldehyde + base catalysed reaction with epichlorohydrin to epoxi resin components
+
+by reaction with acetone/ketones to e.g. Bisphenol A, an important monomer for resins, e.g. polycarbonate (PC), epoxi resins
+
+by a rearrangement reaction of dienones in the dienone phenol rearrangement:
+
+by the oxidation of aryl silanes—an aromatic variation of the Fleming-Tamao oxidation
+
+by the addition of benzene and propene in to form cumene then is added with to form phenol (Hock process)
+
+enzymatic polymerization
+
+6. Reactions of phenols
+
+Phenols react in a wide variety of ways.
+
+Esterfication reactions and ether formation
+
+Electrophilic aromatic substitutions as the hydroxyl group is activating, for example synthesis of calixarenes
+
+Reaction of naphtols and hydrazines and sodium bisulfite in the Bucherer carbazole synthesis
+
+Oxidative cleavage, for instance cleavage of 1,2-dihydroxybenzene to the monomethylester of 2,4 hexadienedioic acid with oxygen, copper chloride in pyridine
+
+Oxidative de-aromatization to quinones also known as the Teuber reaction. Oxidizing reagents are Fremy's salt and oxone. In reaction depicted below 3,4,5-trimethylphenol reacts with singlet oxygen generated from oxone/sodium carbonate in an acetonitrile/water mixture to a para-peroxyquinole. This hydroperoxide is reduced to the quinole with sodium thiosulfate.
+
+Phenols are oxidized to hydroquinones in the Elbs persulfate oxidation
+
+Phenolate anions (deriving from phenols by the loss of H+) can act as ligands towards metal cations.
+
+7. Biodegradation
+
+The white rot fungus Phanerochaete chrysosporium can remove up to 80% of phenolic compounds from coking waste water.
+
+8. Applications
+
+Phenols are important raw materials and additives for industrial purposes in:
+
+laboratory processes
+
+chemical industry
+
+chemical engineering processes
+
+wood processing
+
+plastics processing Tannins are used in the tanning industry.
+
+Some natural phenols can be used as biopesticides. Furanoflavonoids like karanjin or rotenoids are used as acaricide or insecticide.
+
+Enological tannins are important elements in the flavor of wine.
+
+Some phenols are sold as dietary supplements. Phenols have been investigated as drugs. For instance, Crofelemer (USAN, trade name Fulyzaq) is a drug under development for the treatment of diarrhea associated with anti-HIV drugs. Additionally, derivatives have been made of phenolic compound, combretastatin A-4, an anticancer molecule, including nitrogen or halogens atoms to increase the efficacy of the treatment.
+
+9. Industrial processing and analysis
+
+9.1. Phenol extraction
+
+Phenol extraction is a processing technology used to prepare phenols as raw materials, compounds or additives for industrial wood processing and for chemical industries.
+
+Extraction can be performed using different solvents. There is a risk that polyphenol oxidase (PPO) degrades the phenolic content of the sample therefore there is a need to use PPO inhibitors like potassium dithionite (K2S2O4) or to perform experiment using liquid nitrogen or to boil the sample for a few seconds (blanching) to inactivate the enzyme. Further fractionation of the extract can be achieved using solid phase extraction columns, and may lead to isolation of individual compounds.
+
+The recovery of natural phenols from biomass residue is part of biorefining.
+
+9.2. Separation
+
+pKa of phenolic compounds can be calculated from the retention time in liquid chromatography.
+
+9.3. Analytical methods
+
+Studies on evaluating antioxidant capacity can used electrochemical methods.
+
+Detection can be made by recombinant luminescent bacterial sensors.
+
+9.3.1. Profiling
+
+Phenolic profiling can be achieved with liquid chromatography–mass spectrometry (LC/MS).
+
+9.3.2. Quantification
+
+A method for phenolic content quantification is volumetric titration. An oxidizing agent, permanganate, is used to oxidize known concentrations of a standard solution, producing a standard curve. The content of the unknown phenols is then expressed as equivalents of the appropriate standard.
+
+Some methods for quantification of total phenolic content are based on colorimetric measurements. Total phenols (or antioxidant effect) can be measured using the Folin-Ciocalteu reaction. Results are typically expressed as gallic acid equivalents (GAE). Ferric chloride (FeCl3) test is also a colorimetric assay.
+
+Lamaison and Carnet have designed a test for the determination of the total flavonoid content of a sample (AlCI3 method). After proper mixing of the sample and the reagent, the mixture is incubated for 10 minutes at ambient temperature and the absorbance of the solution is read at 440 nm. Flavonoid content is expressed in mg/g of quercetin.
+
+Quantitation results produced by the mean of diode array detector-coupled HPLC are generally given as relative rather than absolute values as there is a lack of commercially available standards for every phenolic molecules. The technique can also be coupled with mass spectrometry (for example, HPLC–DAD–ESI/MS) for more precise molecule identification.
+
+9.3.3. Antioxidant effect assessment
+
+; In vitro measurements Other tests measure the antioxidant capacity of a fraction. Some make use of the 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulphonic acid) (ABTS) radical cation, which is reactive towards most antioxidants including phenolics, thiols and vitamin C. During this reaction, the blue ABTS radical cation is converted back to its colorless neutral form. The reaction may be monitored spectrophotometrically. This assay is often referred to as the Trolox equivalent antioxidant capacity (TEAC) assay. The reactivity of the various antioxidants tested are compared to that of Trolox, which is a vitamin E analog.
+
+Other antioxidant capacity assays that use Trolox as a standard include the diphenylpicrylhydrazyl (DPPH), oxygen radical absorbance capacity (ORAC), ferric reducing ability of plasma (FRAP) assays or inhibition of copper-catalyzed in vitro human low-density lipoprotein oxidation.
+
+A cellular antioxidant activity (CAA) assay also exists. Dichlorofluorescin is a probe that is trapped within cells and is easily oxidized to fluorescent dichlorofluorescein (DCF). The method measures the ability of compounds to prevent the formation of DCF by 2,2'-Azobis(2-amidinopropane) dihydrochloride (ABAP)-generated peroxyl radicals in human hepatocarcinoma HepG2 cells.
+
+Other methods include butylated hydroxytoluene (BHT), butylated hydroxyanisole (BHA), Rancimat method (rancidification assessment of fat).
+
+; In vivo models The model animal Galleria mellonella, the greater waxworm, can be used to test the antioxidant effect of individual molecules using boric acid in food to induce induced an oxidative stress. The content of malondialdehyde, an oxidative stress indicator, and activities of the antioxidant enzymes superoxide dismutase, catalase, glutathione S-transferase and glutathione peroxidase can be monitored. A prophenoloxidase can also be recovered from the insect.
+
+9.4. Genetic analysis
+
+The phenolic biosynthetic and metabolic pathways and enzymes can be studied by mean of transgenesis of genes. The Arabidopsis regulatory gene for production of Anthocyanin Pigment 1 (AtPAP1) can be expressed in other plant species.
+
+10. Natural occurrences
+
+Phenols are found in the natural world, especially in the plant kingdom.
+
+10.1. Occurrences in prokaryotes
+
+Orobol can be found in Streptomyces neyagawaensis (an Actinobacterium). Phenolic compounds can be found in the cyanobacterium Arthrospira maxima, used in the dietary supplement, Spirulina. The three cyanobacteria Microcystis aeruginosa, Cylindrospermopsis raciborskii and Oscillatoria sp. are the subject of research into the natural production of butylated hydroxytoluene (BHT), an antioxidant, food additive and industrial chemical.
+
+The proteobacterium Pseudomonas fluorescens produces phloroglucinol, phloroglucinol carboxylic acid and diacetylphloroglucinol. Another example of phenolics produced in proteobacteria is 3,5-dihydroxy-4-isopropyl-trans-stilbene, a bacterial stilbenoid produced in Photorhabdus bacterial symbionts of Heterorhabditis nematodes.
+
+10.2. Occurrences in fungi
+
+Phenolic acids can be found in mushroom basidiomycetes species. For example, protocatechuic acid and pyrocatechol are found in Agaricus bisporus as well as other phenylated substances like phenylacetic and phenylpyruvic acids. Other compounds like atromentin and thelephoric acid can also be isolated from fungi in the Agaricomycetes class. Orobol, an isoflavone, can be isolated from Aspergillus niger.
+
+; in yeasts Aromatic alcohols (examples: Tryptophol, tyrosol, phenethyl alcohol (Phenylethanol), benzyl alcohol) are produced by the yeast Candida albicans. They are also found in beer. These molecules are quorum sensing compounds for Saccharomyces cerevisiae.
+
+; Metabolism Aryl-alcohol dehydrogenase uses an aromatic alcohol and NAD+ to produce an aromatic aldehyde, NADH and H+.
+
+Aryl-alcohol dehydrogenase (NADP+) uses an aromatic alcohol and NADP+ to produce an aromatic aldehyde, NADPH and H+.
+
+Aryldialkylphosphatase (also known as organophosphorus hydrolase, phosphotriesterase, and paraoxon hydrolase) uses an aryl dialkyl phosphate and H2O to produce dialkyl phosphate and an aryl alcohol.
+
+10.3. Occurrences in lichen
+
+Gyrophoric acid, a depside, and orcinol are found in lichen.
+
+10.4. Occurrence in algae
+
+The green alga Botryococcus braunii is the subject of research into the natural production of butylated hydroxytoluene (BHT), an antioxidant, food additive and industrial chemical.
+
+Phenolic acids such as protocatechuic, p-hydroxybenzoic, 2,3-dihydroxybenzoic, chlorogenic, vanillic, caffeic, p-coumaric and salicylic acid, cinnamic acid and hydroxybenzaldehydes such as p-hydroxybenzaldehyde, 3,4-dihydroxybenzaldehyde, vanillin have been isolated from in vitro culture of the freshwater green alga Spongiochloris spongiosa.
+
+Phlorotannins, for instance eckol, are found in brown algae. Vidalenolone can be found in the tropical red alga Vidalia sp.
+
+10.5. Occurrence in land plants (embryophytes)
+
+10.5.1. Occurrences in vascular plants
+
+Phenolic compounds are mostly found in vascular plants (tracheophytes) i.e. Lycopodiophyta (lycopods), Pteridophyta (ferns and horsetails), Angiosperms (flowering plants or Magnoliophyta) and Gymnosperms (conifers, cycads, Ginkgo and Gnetales).
+
+In ferns, compounds such as kaempferol and its glucoside can be isolated from the methanolic extract of fronds of Phegopteris connectilis or kaempferol-3-O-rutinoside, a known bitter-tasting flavonoid glycoside, can be isolated from the rhizomes of Selliguea feei. Hypogallic acid, caffeic acid, paeoniflorin and pikuroside can be isolated from the freshwater fern Salvinia molesta.
+
+In conifers (Pinophyta), phenolics are stored in polyphenolic parenchyma cells, a tissue abundant in the phloem of all conifers.
+
+The aquatic plant Myriophyllum spicatum produces ellagic, gallic and pyrogallic acids and (+)-catechin.
+
+10.5.2. Occurrences in Monocotyledons
+
+Alkylresorcinols can be found in cereals.
+
+2,4-Bis(4-hydroxybenzyl) phenol is a phenolic compound found in the orchids Gastrodia elata and Galeola faberi.
+
+10.5.3. Occurrences in non-vascular plants
+
+Phenolics can also be found in non-vascular land plants (bryophytes). Dihydrostilbenoids and bis(bibenzyls) can be found in liverworts (Marchantiophyta), for instance, the macrocycles cavicularin and riccardin C. Though lignin is absent in mosses (Bryophyta) and hornworts (Anthocerotophyta), some phenolics can be found in those two taxa. For instance, rosmarinic acid and a rosmarinic acid 3'-O-β-D-glucoside can be found in the hornwort Anthoceros agrestis.
+
+10.6. Occurrences in other eukaryotes
+
+10.6.1. Occurrences in insects
+
+The hardening of the protein component of insect cuticle has been shown to be due to the tanning action of an agent produced by oxidation of a phenolic substance forming sclerotin. In the analogous hardening of the cockroach ootheca, the phenolic substance concerned is 3:4-dihydroxybenzoic acid (protocatechuic acid).
+
+Acetosyringone is produced by the male leaffooted bug (Leptoglossus phyllopus) and used in its communication system. Guaiacol is produced in the gut of Desert locusts, Schistocerca gregaria, by the breakdown of plant material. This process is undertaken by the gut bacterium Pantoea agglomerans. Guaiacol is one of the main components of the pheromones that cause locust swarming. Orcinol has been detected in the "toxic glue" of the ant species Camponotus saundersi. Rhynchophorus ferrugineus (red palm weevil) use 2-methoxy-4-vinylphenol for chemical signaling (pheromones). Other simple and complex phenols can be found in eusocial ants (such as Crematogaster) as components of venom.
+
+10.6.2. Occurrences in mammals
+
+In female elephants, the two compounds 3-ethyl phenol and 2-ethyl 4,5 dimethylphenol have been detected in urine samples. Temporal glands secretion examination showed the presence of phenol, m-cresol and p-cresol (4-methyl phenol) during musth in male elephants.
+
+p-Cresol and o-cresol are also components of the human sweat. P-cresol is also a major component in pig odor.
+
+4-Ethylphenol, 1,2-dihydroxybenzene, 3-hydroxyacetophenone, 4-methyl-1,2-dihydroxybenzene, 4-methoxyacetophenone, 5-methoxysalicylic acid, salicylaldehyde, and 3-hydroxybenzoic acid are components of castoreum, the exudate from the castor sacs of the mature North American beaver (Castor canadensis) and the European beaver (Castor fiber), used in perfumery.
+
+11. Roles
+
+In some cases of natural phenols, they are present in vegetative foliage to discourage herbivory, such as in the case of Western poison oak.
+
+11.1. Role in soils
+
+In soils, it is assumed that larger amounts of phenols are released from decomposing plant litter rather than from throughfall in any natural plant community. Decomposition of dead plant material causes complex organic compounds to be slowly oxidized lignin-like humus or to break down into simpler forms (sugars and amino sugars, aliphatic and phenolic organic acids), which are further transformed into microbial biomass (microbial humus) or are reorganized, and further oxidized, into humic assemblages (fulvic and humic acids), which bind to clay minerals and metal hydroxides. There has been a long debate about the ability of plants to uptake humic substances from their root systems and to metabolize them. There is now a consensus about how humus plays a hormonal role rather than simply a nutritional role in plant physiology.
+
+In the soil, soluble phenols face four different fates. They might be degraded and mineralized as a carbon source by heterotrophic microorganisms; they can be transformed into insoluble and recalcitrant humic substances by polymerization and condensation reactions (with the contribution of soil organisms); they might adsorb to clay minerals or form chelates with aluminium or iron ions; or they might remain in dissolved form, leached by percolating water, and finally leave the ecosystem as part of dissolved organic carbon (DOC).
+
+Leaching is the process by which cations such as iron (Fe) and aluminum (Al), as well as organic matter are removed from the litterfall and transported downward into the soil below. This process is known as podzolization and is particularly intense in boreal and cool temperate forests that are mainly constituted by coniferous pines whose litterfall is rich in phenolic compounds and fulvic acid.
+
+11.2. Role in survival
+
+Phenolic compounds can act as protective agents, inhibitors, natural animal toxicants and pesticides against invading organisms, i.e. herbivores, nematodes, phytophagous insects, and fungal and bacterial pathogens. The scent and pigmentation conferred by other phenolics can attract symbiotic microbes, pollinators and animals that disperse fruits.
+
+11.2.1. Defense against predators
+
+Volatile phenolic compounds are found in plant resin where they may attract benefactors such as parasitoids or predators of the herbivores that attack the plant.
+
+In the kelp species Alaria marginata, phenolics act as chemical defence against herbivores. In tropical Sargassum and Turbinaria species that are often preferentially consumed by herbivorous fishes and echinoids, there is a relatively low level of phenolics and tannins. Marine allelochemicals generally are present in greater quantity and diversity in tropical than in temperate regions. Marine algal phenolics have been reported as an apparent exception to this biogeographic trend. High phenolic concentrations occur in brown algae species (orders Dictyotales and Fucales) from both temperate and tropical regions, indicating that latitude alone is not a reasonable predictor of plant phenolic concentrations.
+
+11.2.2. Defense against infection
+
+In Vitis vinifera grape, trans-resveratrol is a phytoalexin produced against the growth of fungal pathogens such as Botrytis cinerea and delta-viniferin is another grapevine phytoalexin produced following fungal infection by Plasmopara viticola. Pinosylvin is a pre-infectious stilbenoid toxin (i.e. synthesized prior to infection), contrary to phytoalexins, which are synthesized during infection. It is present in the heartwood of Pinaceae. It is a fungitoxin protecting the wood from fungal infection.
+
+Sakuranetin is a flavanone, a type of flavonoid. It can be found in Polymnia fruticosa and rice, where it acts as a phytoalexin against spore germination of Pyricularia oryzae. In Sorghum, the SbF3'H2 gene, encoding a flavonoid 3'-hydroxylase, seems to be expressed in pathogen-specific 3-deoxyanthocyanidin phytoalexins synthesis, for example in Sorghum-Colletotrichum interactions.
+
+6-Methoxymellein is a dihydroisocoumarin and a phytoalexin induced in carrot slices by UV-C, that allows resistance to Botrytis cinerea and other microorganisms.
+
+Danielone is a phytoalexin found in the papaya fruit. This compound showed high antifungal activity against Colletotrichum gloesporioides, a pathogenic fungus of papaya.
+
+Stilbenes are produced in Eucalyptus sideroxylon in case of pathogens attacks. Such compounds can be implied in the hypersensitive response of plants. High levels of phenolics in some woods can explain their natural preservation against rot.
+
+In plants, VirA is a protein histidine kinase which senses certain sugars and phenolic compounds. These compounds are typically found from wounded plants, and as a result VirA is used by Agrobacterium tumefaciens to locate potential host organisms for infection.
+
+11.3. Role in allelopathic interactions
+
+Natural phenols can be involved in allelopathic interactions, for example in soil or in water. Juglone is an example of such a molecule inhibiting the growth of other plant species around walnut trees. The green alga Myriophyllum spicatum produces ellagic, gallic and pyrogallic acids and (+)-catechin, allelopathic phenolic compounds inhibiting the growth of blue-green alga Microcystis aeruginosa.
+
+Phenolics, and in particular flavonoids and isoflavonoids, may be involved in endomycorrhizae formation.
+
+Acetosyringone has been best known for its involvement in plant-pathogen recognition, especially its role as a signal attracting and transforming unique, oncogenic bacteria in genus Agrobacterium. The virA gene on the Ti plasmid in the genome of Agrobacterium tumefaciens and Agrobacterium rhizogenes is used by these soil bacteria to infect plants, via its encoding for a receptor for acetosyringone and other phenolic phytochemicals exuded by plant wounds. This compound also allows higher transformation efficiency in plants, in A. tumefaciens mediated transformation procedures, and so is of importance in plant biotechnology.
+
+12. Content in human food
+
+Notable sources of natural phenols in human nutrition include berries, tea, beer, olive oil, chocolate or cocoa, coffee, pomegranates, popcorn, yerba maté, fruits and fruit based drinks (including cider, wine and vinegar) and vegetables. Herbs and spices, nuts (walnuts, peanut) and algae are also potentially significant for supplying certain natural phenols.
+
+Natural phenols can also be found in fatty matrices like olive oil. Cloudy olive oil has the higher levels of phenols, or polar phenols that form a complex phenol-protein complex.
+
+Phenolic compounds, when used in beverages, such as prune juice, have been shown to be helpful in the color and sensory components, such as alleviating bitterness.
+
+Some advocates for organic farming claim that organically grown potatoes, oranges, and leafy vegetables have more phenolic compounds and these may provide antioxidant protection against heart disease and cancer. However evidence on substantial differences between organic food and conventional food is insufficient to make claims that organic food is safer or more healthy than conventional food.
+
+12.1. Human metabolism
+
+In animals and humans, after ingestion, natural phenols become part of the xenobiotic metabolism. In subsequent phase II reactions, these activated metabolites are conjugated with charged species such as glutathione, sulfate, glycine or glucuronic acid. These reactions are catalysed by a large group of broad-specificity transferases. UGT1A6 is a human gene encoding a phenol UDP glucuronosyltransferase active on simple phenols. The enzyme encoded by the gene UGT1A8 has glucuronidase activity with many substrates including coumarins, anthraquinones and flavones.
+
+13. References
+
+13.1. Books
+
+Biochemistry of phenolic compounds, by J. B. Harborne, 1964, Academic Press ()
+
+Plant phenolics, by Pascal Ribéreau-Gayon, 1972, Oliver and Boyd Editions (, ISBN 0050025120, ISBN 9780050025123)
+
+The Biochemistry of plant phenolics, by C. F. van Sumere and P. J. Lea, Phytochemical Society of Europe, 1985, Clarendon Press (, ISBN 9780198541707)
+
+Biochemistry of Phenolic Compounds, by Wilfred Vermerris and Ralph Nicholson, 2006, Springer ()
+
+14. External links
+
+14.1. Databases
+
+Phenol-Explorer (), a database dedicated to phenolics found in food by Augustin Scalbert, INRA Clermont-Ferrand, Unité de Nutrition Humaine (Human food unit)
+
+at ChEBI (Chemical Entities of Biological Interest)
+
+, a database of bioactive drug-like small molecules by the European Bioinformatics Institute
+
+Foodb, a database of compounds found in food

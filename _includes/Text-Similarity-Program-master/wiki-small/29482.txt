@@ -1,0 +1,347 @@
+Stayman is a bidding convention in the card game contract bridge. It is used by a partnership to find a 4-4 or 5-3 trump fit in a suit after making a one (1NT) opening bid and it has been adapted for use after a 2NT opening, a 1NT overcall, and many other natural notrump bids.
+
+The convention is named for Sam Stayman, who wrote the first published description in 1945, but its inventors were two other players: the British expert Jack Marx in 1939, who published it only in 1946, and Stayman's regular partner George Rapée in 1944.
+
+1. Rationale
+
+A bid and made in a major suit (i.e. 4 or 4 ) scores better than a game contract bid and made in a minor suit (i.e. 5 or 5 ) or in notrump (i.e. 3NT). Also, the success rate for a game contract in a major suit when a partnership has a combined holding of 26 points and eight cards in the major is about 80%, whereas a game contract in 3NT with 26 (HCP) has a success rate of only 60%, or 50% with 25 HCP; the success rate for a minor suit game contract when holding 26 points is about 30%.
+
+Accordingly, partnership priority is to find an eight card or better major suit fit when jointly holding sufficient values for a game contract. 5-3 and 6-2 fits are easy to find in basic methods as responder can bid 3 or 3 over 1NT, and opener will not normally have a 5 card major to bid 1NT. However, finding 4-4 fits presents a problem. The 2 and 2 bids cannot be used for this as they are weak takeouts, a sign-off bid.
+
+2. Standard Stayman
+
+After an opening bid or an overcall of 1NT (2NT), or bids an artificial 2 (3) to ask opener or overcaller if he holds a four or five card major suit; some partnership agreements may require the major to be headed by an honor of at least a specified rank, such as the queen. The artificial club bid typically promises four cards in at least one of the major suits (promissory Stayman) and, in standard form, enough strength to continue bidding after partner's response (8 HCP for an invitational bid opposite a standard strong 1NT opening or overcall showing 15-17 HCP, 11 HCP opposite a weak notrump of 12-14 HCP, or 5 HCP to go to game opposite a standard 2NT showing 20-21 points). It also promises distribution that is not 4333. By invoking the Stayman convention, the responder takes control of the bidding since strength and distribution of the opener's hand is already known within a limited range. The opener responds with the following rebids.
+
+2 (3) denies four or more cards in either major suit.
+
+2 (3) shows at least four hearts (also meeting the criteria for an honor holding as may be set by partnership agreement).
+
+2 (3) shows at least four spades (also meeting the criteria for an honor holding as may be set by partnership agreement). A notrump opener should have neither a suit longer than five cards nor more than one 5-card suit since an opening notrump bid shows a balanced hand. A notrump bidder who has at least four cards in each major suit normally responds in hearts, as this still can still allow a spade fit to be found. Variant methods are to bid the longer or stronger major, with a preference given to spades, or to use 2NT to show both majors.
+
+In the standard form of Stayman over 1NT, the responder has a number of options depending on his partner's answer:
+
+If the notrump opener names a major suit and the responder has four cards in that suit, the responder bids three of the notrump bidder's suit (invitational) with 8-9 HCP or four of the notrump bidder's major suit (game) with 10 or more HCP.
+
+If the notrump bidder bids a major suit in which the responder does not have at least four cards, the responder may bid 2NT (invitational) with 8-9 HCP or 3NT (game) with 10 or more HCP. However, if responder has 5 cards in the unnamed major, he may bid it at a convenient level in an attempt to find a 5-3 fit.
+
+If the notrump bidder bids 2, denying a 4-card major, responder may bid his 5 card major with a call of 2 of his major with 8-9 HCP, or with a call of 3 of his major with 10 HCP. This allows notrump bidder to find game in a major with a 5-3 split. Otherwise, opener has the option to retreat to the appropriate notrump contract. Over these bids, the notrump bidder (1) with a maximum hand (17 HCP), goes to game over an invitational bid and (2) with four (or more) cards in each major suit, corrects to the previously unbid major suit.
+
+In the standard form of Stayman over 2NT, the responder has only two normal rebids.
+
+If the notrump bidder names a major suit and the responder has four cards in that suit, the responder bids four of the notrump bidder's suit (game).
+
+If the notrump bidder names a major suit in which the responder does not have at least four cards or bids diamonds to deny a major suit, the responder bids 3NT (game). If the notrump bidder has four cards in each major suit, the notrump bidder corrects to the previously unbid major suit. In either case, a responder who rebids notrump over a response in a major suit promises four cards of the other major suit. Thus, a notrump opener who holds at least four cards in each major suit should "correct" by bidding the other major suit at the lowest level.
+
+Of course, once a fit is found, responder who has sufficient strength also may bid 4 (Gerber) or 4NT (Blackwood), or cue bid aces, depending upon partnership agreement, to explore slam in any of the above sequences. Some partnerships also admit responder's rebids of a major suit that the notrump bidder did not name.
+
+A bid of 4 over an opening bid of 3NT may be either Stayman or Gerber, depending upon the partnership agreement.
+
+If an adverse suit bid is inserted immediately after a 1NT opening, Stayman may be employed via a double (by partnership agreement) or a cue bid, depending on the strength of his hand. The cue bid, which is conventional, is completely artificial and means nothing other than invoking Stayman. For example, if South opens 1NT, and West overcalls 2, North, if he has adequate values, may call 3, invoking Stayman. South would then show his major or bid game in notrump. Alternatively, North, if his hand lacks the values for game in notrump, may double, which by partnership agreement employs Stayman. This keeps the Stayman bidding at second level.
+
+Partnerships who have not yet learned Stayman but choose to adopt Stayman (without having yet learned or having chosen not to use Jacoby Transfers) will need to adjust their use of normal level 2 responses after a 1NT opening, because the availability of this convention changes the nature of what had been normal 1 NT responses. When the notrump bidder's partner does not invoke Stayman but instead calls 2 or 2, it is a sign of relative weakness (since if responder held 8 HCP or more, he would have invoked Stayman). These bids are commonly referred to as "drop dead bids", as the opening notrump bidder is requested to withdraw from the auction. If opener has maximum values, a fit, and strong support, he may raise to the 3-level, but under no circumstances may he take any other action. This provides the partnership with an advantage that the non-Stayman partnership doesn't enjoy. For example, a responder may have no honors at all; that is, a total of zero HCP. His partner is likely to be set if he passes. A non-Stayman responder would have to pass, because to bid would provoke a rebid. But a Stayman responder can respond to his partner's 1NT opening at level 2 if he has a 6-card non-club suit. The responder with 3 HCP and a singleton can make a similar call with a 5-card non-club suit. This gives the partnership a better than even chance of success in making the contract, whereas without a response (and without Stayman), the contract would likely be set.
+
+Similarly, a response of 2 Diamonds indicates less than 8 HCP and should usually be passed. In rare cases, when the opener has maximum values and a fit in Diamonds with at least two of the top three honors, he may raise Diamonds, and responder may see a chance for game in notrump.
+
+There are many variations on this basic theme, and partnership agreement may alter the details of its use. It is one of the most widely used conventions in bridge.
+
+2.1. Non promissory Stayman and 2 checkback by responder
+
+Some partnerships play that 2 Stayman does not absolutely promise a four-card major (non promissory Stayman). For example, if responder has a short suit and wishes to know if opener has four-card cover in it, so as to play in notrumps. If opener shows hearts initially, 2 can be used to find a fit in spades when the 2 does not promise a four-card major.
+
+1NT - 2, 2 -
+
+2 = four spades, not four hearts, invitational
+
+2NT = no four spades, invitational
+
+3NT = four spades and game values Alternatively 2 can be used for all hands with four spades and not four hearts, either invitational or game values, while 3NT denies four spades.
+
+3. Using Jacoby transfers with Stayman
+
+Today, most players use Stayman in conjunction with Jacoby transfers. With Stayman in effect, the responder practically denies having a five-card major, as otherwise he would transfer to the major immediately. The only exception is when responder has 5-4 in the majors; in that case, he could use Stayman, and in the case of a 2 response, bid the five-card major at the two level (weakness take-out / Garbage Stayman) or at the three level (forcing to game). However, the latter hand can also be bid by first using a transfer and then showing the second suit naturally. The Smolen convention provides an alternative method to show a five-card major and game-going values. A minor drawback of Jacoby transfers is that a 2 contract is not possible.
+
+4. Smolen convention
+
+The Smolen convention is an adjunct to Stayman for situations in which the notrump opener has denied holding a four-card major and responder has a five-card major and a four-card major with game-going values.
+
+If the notrump opener responds to the Stayman 2 asking bid with 2, denying a four-card major, responder initiates the Smolen Transfer with a jump shift to three of his four-card major. The jump shift shows which is the four-card major and promises five in the other major. The notrump opener then bids four of the other major with three cards in the suit or 3NT with fewer than three.
+
+Smolen may also be used when responder has a six-card major and a four-card major with game-going values; after the 2 negative response by opener, responder double jump shifts to four in the suit just below his six-card major and the notrump opener transfers to four of his partner's six-card major.
+
+This convention allows a partnership to find either a 5-3 fit, 6-3 and 6-2 fit while ensuring that the notrump opener, who has the stronger hand, will be declarer.
+
+5. Garbage Stayman and Crawling Stayman
+
+"Garbage" Stayman (or "Weak Stayman") and "Crawling" Stayman are adaptations of Stayman frequently used for damage control when holding a weak hand opposite a 1NT opening bid. Suppose you hold the following hand.
+
+Your partner opens 1NT (15-17), and your right hand opponent passes. Now, what?
+
+In this scenario, opener has about 16 HCP and the opponents have about 24 HCP. Thus, 1NT is virtually certain to go down by at least three or four tricks. Indeed, in Notrump, this dummy will be completely worthless.
+
+But consider what happens if you bid 2 Stayman rather than passing on the first round, and then pass opener's response. If opener rebids a major suit you have found a 4-4 fit and ability to trump club losers (or, alternately, to sluff the other major on club winners and then to trump losers in the other major). Likewise, a response of 2 guarantees no worse than a 5-2 fit in diamonds and, with a fifth trump, a potential additional ruff. The ability to reach dummy with a couple ruffs also may allow the declarer to take a couple finesses or execute a squeeze that otherwise would not be possible, and which might yield another trick or two. The result is a contract that will go down fewer tricks or that might even make, especially with a somewhat better hand than the example, rather than a contract that is virtually certain to go down at least three or four tricks. The practice of bidding Stayman with a relatively weak hand of this (or similar) shape and then passing the Notrump bidder's reply is often called "Garbage Stayman" because it is bidding Stayman with a "garbage" hand.
+
+"Crawling Stayman" is an optional extension of "Garbage Stayman" for situations in which the responder's diamond suit is short. In "Crawling Stayman", the responder rebids 2 over the Notrump bidder's 2 reply. This conventional bid shows a weak hand with at least four cards in each major suit, asking the Notrump bidder to choose between the major suits at the cheapest level by either passing the 2 bid or correcting to 2. The name "Crawling Stayman" comes from the fact that the bidding "crawls" at the slowest possible pace: (pass) 舑 1NT 舑 (pass) 舑 2; (pass) 舑 2 舑 (pass) 舑 2; (pass) 舑 2; (pass) 舑 pass 舑 (pass).
+
+Alternatively, responder's 2and 2 bids after the 2 rebid can be weak sign-offs. This allows responder to effectively bid hands which are 5-4 in the majors, by looking first for a 4-4 fit and, if none is found, signing off in his 5 card suit.
+
+"Garbage Stayman" and "Crawling Stayman" bids over a 2NT bid work the same way, but occur at the "three" level.
+
+6. Forcing and Non-Forcing Stayman
+
+If Jacoby transfers are not played, there are two approaches to resolve the situation when responder has a 5-card major but only invitational values. In one, more common, referred to as non-forcing Stayman, in the sequence:
+
+responder's simple rebid of a major suit is only invitational, showing 8-9 points and a 5-card spade suit. In the forcing Stayman variant, the bid is one-round forcing.
+
+In the original Precision Club system, forcing and non-forcing Stayman are differentiated in the start: 2 by responder shows only invitational values (and the continuation is the same as in basic Stayman), while 2 is forcing to game (responder bids 2NT without majors).
+
+7. Non Promissory Game Forcing Stayman
+
+This allows responder to find exact shape of 1NT opener. Developed for use with weak 1 NT opening. Relay bids over opener's rebids of 2, 2, 2, 2NT, 3 allow shape to be defined further if attempting to find 5-3 major fits. Advantages are responder's shape, which may be any distribution, is undisclosed, and responder is able to locate suit shortage holdings not suitable for no trumps. Disadvantage is 2 can't be used as a damage control bid.
+
+1NT – 2♣
+
+2 5,3,3,2 shape with 5 diamonds
+
+2 4,4,3,2 shape with 4 hearts
+
+2 4,4,3,2 shape with 4 spades (denies 4 hearts)
+
+2NT 4,4,3,2 shape with both 4 card minors
+
+3♣ 5,3,3,2 shape with 5 clubs
+
+3 4,3,3,3 shape with 4 diamonds
+
+3 4,3,3,3 shape with 4 hearts
+
+3 4,3,3,3 shape with 4 spades
+
+3NT 4,3,3,3 shape with 4 clubs Developed to be used in combination with following other responses to 1NT: 2, 2 Jacoby transfers to majors; 2 range finder/transfer to minors (opener's rebids: 2NT 12-13 HCP, 3 14 HCP. Responder passes or corrects to 3 or 3 sign off if weak. After opener's 3 rebid responder bids 3 to show 4 hearts or 3 to show 4 spades both game forcing. Responder's rebid of 3NT denies 4 card major); 2NT invitational hand with both 4 card majors (opener's rebids: no bid no 4 card major 12-13 HCP, 3 4 hearts 12-13 HCP, 3 4 spades 12-13 HCP, 3 4 hearts 14 HCP, 3 4 spades 14 HCP, 3NT 14 HCP no 4 card major)
+
+8. Non Promissory Relay Stayman
+
+This allows responder to find exact shape of 1NT opener. Developed for use with weak 1 NT opening. Relay bids over opener's rebids of 2, 2, 2 allow shape to be defined further if attempting to find 5-3 major fits. Advantages are responder's shape, which may be any distribution, is undisclosed, and responder is able to locate suit shortage holdings not suitable for no trumps. May be also used as a damage control bid.
+
+1NT – 2♣
+
+2 All 5,3,3,2, 4,4,3,2, and 4,3,3,3 shapes without 4 card major.
+
+2 game force relay (opener's rebid 2 4,4,3,2 shape, 2NT 5,3,3,2 shape with 5 diamonds, 3 5,3,3,2 shape with 5 clubs, 3 4,3,3,3, shape 4 diamonds 3 4,3,3,3 shape 4 clubs). Further relays used over 2, 2NT and 3 if attempting to find 5-3 major fits.
+
+2 weak sign off bid 5+ spades, 4 hearts.
+
+2NT invitational
+
+2 4,4,3,2 or 4,3,3,3,shape with 4 hearts
+
+2 game force relay (opener's rebid 2NT 4,3,3,3 shape, 3 4,4,3,2 shape with 4 clubs, 3 4,4,3,2, shape with 4 diamonds 3 4,4,3,2 shape with 4 spades). Further relays used over 3 and 3 to find 5-3 major fits.
+
+2NT invitational.
+
+3 weak sign off.
+
+raise to 3 invitational.
+
+2 4,4,3,2 or 4,3,3,3 shape with 4 spades (denies 4 hearts).
+
+2NT invitational.
+
+3 game force relay (opener's rebid 3 4,4,3,2, shape with 4 diamonds, 3 4,4,3,2 shape with 4 clubs, 3 4,3,3,3 shape). Further relays used over 3 and 3 to find 5-3 major fits.
+
+raise to 3 invitational.
+
+3 weak sign off 1NT – 3♣ weak sign off.
+
+Opener's rebids of 2, 2, 2 may all be passed if responder is weak.
+
+Developed to be used in combination with following other responses to 1NT: 2, 2 Jacoby transfers to majors; 2 5 spades 4 hearts 10-11 HCP; 2NT invitational hand with 5,5 minors 10-11 HCP.
+
+9. Five Card Major Stayman
+
+This allows responder to check for 5-3 major fits where it is possible that opener's 1NT or 2NT might include a five card major. As described by Australian Ron Klinger, it can be played with a weak or strong 1NT.
+
+1NT - 2
+
+2 = minimum, no 5M
+
+2M = minimum, 5M
+
+2NT = Maximum, no 5M
+
+3M = Maximum, 5M 1NT - 2, 2 OR 2NT
+
+3 = Stayman
+
+3 = -->
+
+3 = -->
+
+3 = ?
+
+3NT = to play After a transfer, accept it with any 4333, bid 3NT with only two trumps, otherwise bid 4M.
+
+1NT - 2, 2 OR 2NT - 3 = Stayman
+
+3 = 4M333
+
+3 = 4, not 4333
+
+3 = 4, not 4333, not 4
+
+3NT = no 4M 1NT - 2, (2 OR 2NT) - 3, 3
+
+3 = 4, not 4
+
+3 = 4, not 4
+
+3NT = to play
+
+4 = bid your 4 card Major An alternative, simpler version of 5 card Stayman is:
+
+1NT - 2
+
+2 = No 5CM
+
+2M = 5CM This structure permits use by weak hands with 5+ diamonds and 2+ cards in each major.
+
+After 1NT - 2, 2
+
+2M = 4M invitational
+
+2NT = invitational, no major
+
+3M = 4M game-forcing If responder has a five-card major, he begins with a transfer. After completion of the transfer, bidding the other major at the three level shows four cards in it and a game forcing hand, in line with the 1NT - 2, 2 structure above (1NT - 2, 2 - 2 = invitational 5-4).
+
+Similarly after 2NT - 3, 3
+
+3M = 4M
+
+3NT = no major A drawback of Five Card Major Stayman (particularly the simpler version) is that the weaker hand may become declarer in a 4-4 major fit.
+
+10. Puppet Stayman
+
+Puppet Stayman is similar to Five Card Stayman. It is more complex but has the major advantage that the strong hand virtually always becomes declarer.
+
+Initially developed by Neil Silverman and refined by Kit Woolsey and Steve Robinson in 1977-78, is a variation of the Stayman convention designed to find a 5-3 fit in a major, augmenting the search for a 4-4 major fit by standard Stayman. In 1977, Woolsey wrote that Puppet Stayman has several advantages over standard Stayman:
+
+Opener is usually better placed than responder to choose the proper denomination given distributional information about his partner's hand
+
+Opener becomes declarer in most cases without revealing his distribution, it being deemed less injurious to reveal responder's distribution, usually the weaker of the two hands
+
+The side can stop in two diamonds
+
+Since opener can show a 5-card major immediately in response to the two club bid, it is less dangerous to open 1NT with a 5-card major
+
+It is possible to stop at two spades with a 4-4 fit, e.g. 1NT - 2, 2 - 2, 2 - All Pass
+
+Opener may be able to perceive a weakness for a notrump contract and so save to three of a minor or a good 4-3 major-suit game instead
+
+It is possible that a 3NT contract may be preferred over a 4-4 major fit in certain auctions
+
+10.1. Responder's rebids
+
+As in standard Stayman, Puppet Stayman begins with a 2 response to a 1NT opening and is at least game invitational; this asks opener to bid a 5-card major if he has one and otherwise to bid 2. Over a 2 response, rebids by responder are intended to dislose his distributional features in the majors as well as his strength. The original 1977 and 1978 revised rebids described by Woolsey are tabulated below:
+
+Opener and responder continue the bidding having a clearer understanding of each other's distributional features and are better positioned to select the ultimate and level of the contract.
+
+10.2. Modern applications
+
+Many variations to the Puppet Stayman bidding structure have been devised since Woolsey's 1978 summary; partnership review and agreement on the preferred modern treatment is required.
+
+Some no longer advocate use of Puppet Stayman over a 1NT opening preferring to use the concept exclusively over a 2NT opening and reserving other Stayman variations and conventions such Jacoby Transfers and Smolen Transfers in search of major-suit fits after a 1NT opening.
+
+10.3. Responses to a 2NT opening or rebid
+
+Puppet Stayman is more commonly used after a 2NT opening than after a 1NT opening. Responses to a 2NT opening or very strong 2NT rebid (20-22 or 23-24):
+
+3 = Puppet Stayman
+
+3 = --> hearts
+
+3 = --> spades
+
+3 = --> 5 spades and 4 hearts
+
+3NT = no 3+ major, to play Responder bids 3 seeking information about opener's major suit holding. Opener replies:
+
+3NT denying a 4 or 5-card major
+
+3 showing a 5-card heart suit
+
+3 showing a 5-card spade suit
+
+3 holding a 4-card major and denying a 5-card major; following this responder bids:
+
+3 showing a 4-card spade suit and denying a 4-card heart suit
+
+3 showing a 4-card heart suit and denying a 4-card spade suit
+
+3NT denying a 4-card major, to play
+
+4 showing 4 spades and 4 hearts, slam try
+
+4 RKCB in hearts
+
+4 to play
+
+4 to play
+
+4NT RKCB in spades
+
+4 showing 4 spades and 4 hearts, you choose
+
+4NT denying a 4-card major, invitational to 6NT By this means all 5-3 and 4-4 major suit fits can be found.
+
+An alternative pattern frees up the 2NT-3 sequence as a slam try in the minors. To allow 3-5 spade fits to be found when responder holds 5 spades and 4 hearts, some of the responses change:
+
+After 2NT-3, opener's 3 denies a 5-card major but promises 4 hearts or 3 or 4 spades. Following this, responder bids:
+
+3 showing a 4-card spade suit, possibly including a 4-card heart suit, or 5 spades and 4 hearts. Opener's rebids:
+
+3 = showing 3 spades and denying 4 hearts, responder now bids 4 with 5S4H, or 3NT otherwise
+
+3NT = showing 4 hearts and denying 4 spades, responder now leaves in NT or converts to 4 with a 4 card heart suit
+
+4 = showing 4 spades.
+
+3 showing a 4-card heart suit and denying a 4-card spade suit, responder converts to 3NT or 4 as appropriate
+
+3NT denying a 4-card major, to play.
+
+11. Checkback Stayman
+
+2 Checkback Stayman (or simply Checkback) is used after a 1NT rebid by opener rather than a 1NT opening. It is used to "check back" if opener has major suit support, saying nothing additional about the club suit. It can find 3-5 fits, 4-4 fits (in Standard American) and 5-3 fits (in Acol), and also shows whether opener was maximum or minimum strength for his notrump bid. In five card major systems, bidding Checkback implies that the responder has five cards in his major, and may have four in the other.
+
+1m - 1M - 1NT - 2
+
+The 2 is Checkback Stayman. Responses are as follows:
+
+Partnership agreement is required on how to handle the case of holding four of the other major and three of partner's suit. One could agree to bid up the line, or support partner's suit first. If partner cannot support your first suit, he will invite with 2NT or bid game with 3NT and you will then correct to your other suit.
+
+In Acol, if the opening bid was a major, opener can rebid his major after a Checkback inquiry to show that it has five cards rather than four and find 5-3 fits. Moreover 1M-2m-2N-3 can also be used as Checkback Stayman. It is useful also to include an indication of range, particularly if opener's 2NT rebid is forcing to game and shows a wide points range (15-19). This is achieved by using 3 for minimum hands and 3/3/3NT for maximum hands, or vice versa. After 3, responder can still bid 3/3 to look for a 5-3 fit.
+
+12. New Minor Forcing
+
+New Minor Forcing is an alternative to Checkback Stayman where either 2 or 2 can be used as the checkback bid. It can be used by responder with invitational values or more to find 3 card support for his major or find a 4-4 heart fit (holding 5 spades and 4 hearts), it also allows a return to the minor to play.
+
+2 of the other minor is New Minor Forcing (NMF).
+
+Your responses to NMF in order of priority are:
+
+Show 3 card support for partner's suit (jump to 3 with a maximum)
+
+Bid an unbid heart suit with 4 (jump to 3 with a maximum)
+
+Bid no trump with stoppers in the two unbid suits (jump to 3 with a maximum)
+
+Bid an unbid suit (to show a stopper) or rebid your minor without stoppers
+
+13. References
+
+14. Further reading
+
+15. External links
+
+at Bridge Guys (bridgeguys.com)
+
+at Bridge Guys

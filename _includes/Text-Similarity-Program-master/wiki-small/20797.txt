@@ -1,0 +1,83 @@
+MusicBrainz is a project that aims to create an open content music database. Similar to the freedb project, it was founded in response to the restrictions placed on the CDDB. However, MusicBrainz has expanded its goals to reach beyond a compact disc metadata storehouse to become a structured open online database for music.
+
+MusicBrainz captures information about artists, their recorded works, and the relationships between them. Recorded works entries capture at a minimum the album title, track titles, and the length of each track. These entries are maintained by volunteer editors who follow community written style guidelines. Recorded works can additionally store information about the release date and country, the CD ID, cover art, acoustic fingerprint, free-form annotation text and other metadata. , MusicBrainz contained information about roughly 890,000 artists, 1.4 million releases, and 14.2 million recordings.
+
+End-users can use software that communicates with MusicBrainz to add metadata tags to their digital media files, such as MP3, Ogg Vorbis or AAC.
+
+1. Cover Art Archive
+
+MusicBrainz allows contributors to upload cover art images of releases to the database; these images are hosted by Cover Art Archive (CAA), a joint project between Internet Archive and MusicBrainz started in 2012. Internet Archive provides the bandwidth, storage and legal protection for hosting the images, while MusicBrainz stores metadata and provides public access through the web and via an API for third parties to use. As with other contributions, the MusicBrainz community is in charge for maintaining and reviewing the data.
+
+Cover art is also provided for items on sale at Amazon.com and some other online resources, but CAA is now preferred because it gives the community more control and flexibility for managing the images.
+
+2. Fingerprinting
+
+Besides collecting metadata about music, MusicBrainz also allows looking up recordings by their acoustic fingerprint. A separate application, such as MusicBrainz Picard, must be used for this.
+
+2.1. Proprietary services
+
+In the year 2000, MusicBrainz started using Relatable's patented TRM (a recursive acronym for TRM Recognizes Music) for fingerprint matching. This feature attracted many users and allowed the database to grow quickly. However, by 2005 TRM was showing scalability issues as the number of tracks in the database had reached into the millions. This issue was resolved in May 2006 when MusicBrainz partnered with MusicIP (now AmpliFIND) replacing TRM with MusicDNS. TRMs were phased out and fully replaced by MusicDNS in November 2008.
+
+2.2. AcoustID and Chromaprint
+
+In October 2009 MusicIP was acquired by AmpliFIND. Some time after the acquisition, the MusicDNS service begun having intermittent problems. Since the future of the free identification service was uncertain, a replacement for it was sought.
+
+The Chromaprint acoustic fingerprinting algorithm, the basis for AcoustID identification service, was started in February 2010 by a long-time MusicBrainz contributor Lukáš Lalinský. While AcoustID and Chromaprint are not officially MusicBrainz projects, they are closely tied with each other and both are open source. Chromaprint works by analyzing the first 2 minutes of a track, detecting the strength in each of 12 pitch classes, storing these 8 times per second. Additional post-processing is then applied to compress this fingerprint while retaining patterns. The AcoustID search server then searches from the database of fingerprints by similarity and returns the AcoustID identifier along with MusicBrainz recording identifiers if known.
+
+3. Licensing
+
+Since 2003, MusicBrainz's core data (artists, recordings, releases, and so on) are in the public domain, and additional content, including moderation data (essentially every original content contributed by users and its elaborations), is placed under the Creative Commons CC-BY-NC-SA-2.0 license. The relational database management system is PostgreSQL. The server software is covered by the GNU General Public License. The MusicBrainz client software library, libmusicbrainz, is licensed under the GNU Lesser General Public License, which allows use of the code by proprietary software products.
+
+In December 2004, the MusicBrainz project was turned over to the MetaBrainz Foundation, a non-profit group, by its creator Robert Kaye.
+
+On 20 January 2006, it was announced that the first commercial venture to use MusicBrainz data is the Barcelona, Spain based Linkara in their Linkara Música service.
+
+On 28 June 2007 BBC announced that it has licensed MusicBrainz's live data feed to augment their music Web pages. The BBC online music editors will also join the MusicBrainz community to contribute their knowledge to the database. On 28 July 2008, the beta of the new BBC Music site was launched, which publishes a page for each MusicBrainz artist.
+
+4. Client software
+
+Amarok: KDE audio player
+
+Banshee: multi-platform audio player
+
+Clementine: multi-platform audio player
+
+CDex: Microsoft Windows CD ripper
+
+iEatBrainz: Mac OS X deprecated
+
+Jaikoz: Java mass tag editor
+
+Max: Mac OS X CD ripper and audio transcoder
+
+Mp3tag: Windows metadata editor and music organizer
+
+MusicBrainz Picard: cross-platform album-oriented tag editor
+
+MusicBrainz Tagger: deprecated Microsoft Windows tag editor
+
+puddletag: a tag editorfor PyQt under the GPLv3
+
+Rhythmbox Music Player: Audio player for Unix-like systems
+
+Sound Juicer: GNOME CD ripper
+
+foo_musicbrainz component for Foobar 2000: Music Library/Audio Player
+
+Beets: automatic CLI music tagger/organiser for Unix-like systems. Additionally, freedb clients can access MusicBrainz data through the freedb protocol by using the MusicBrainz to FreeDB gateway service, mb2freedb.
+
+5. See also
+
+List of online music databases
+
+6. References
+
+6.1. Further reading
+
+. Jess Hemerly. Master's project at UC Berkeley. 2011.
+
+7. External links
+
+– official site
+
+info at the BBC Music site

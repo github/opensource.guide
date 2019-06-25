@@ -1,0 +1,79 @@
+A rotary dial is a component of a telephone or a telephone switchboard that implements a signaling technology in telecommunications known as pulse dialing. It is used when initiating a telephone call to transmit the destination telephone number to a telephone exchange.
+
+On the rotary dial, the digits are arranged in a circular layout so that a finger wheel may be rotated with one finger from the position of each digit to a fixed stop position, implemented by the finger stop, which is a mechanical barrier to prevent further rotation. When released at the finger stop, the wheel returns to its home position by spring action at a speed regulated by a governor device. During this return rotation, the dial interrupts the direct electrical current of the telephone line (local loop) a specific number of times for each digit and thereby generates electrical pulses which the telephone exchange decodes into each dialed digit. Each of the ten digits are encoded in sequences of up to ten pulses. For this reason, the method is sometimes called decadic dialling.
+
+The first patent for a rotary dial was filed by Almon Brown Strowger on December 21, 1891, which was awarded to him on November 29, 1892 as . The early forms of a rotary dial used lugs on a finger plate instead of holes and the pulse train was generated without the control of spring action or a governor on the forward movement of the wheel, which proved to be difficult to operate correctly. The commonly known appearance of the rotary dial with finger holes was first introduced in 1904 but did not enter service in the Bell System in the United States until 1919, when AT&T abandoned its determined reliance on manual exchanges, and embraced automatic switching.
+
+From the 1960s onward, the rotary dial was gradually supplanted by dual-tone multi-frequency push-button dialing, first introduced to the public at the 1962 World's Fair under the trade name "Touch-Tone". Touch-tone technology primarily used a keypad in form of a rectangular array of push-buttons for dialing.
+
+1. History
+
+From as early as 1836 onward, various suggestions and inventions of dials for sending telegraph signals were reported. After the first commercial telephone exchange was installed in 1878, the need for an automated, user-controlled method of directing a telephone call became apparent. Addressing the technical shortcomings, Almon Brown Strowger invented a telephone dial in 1891. Before 1891, numerous competing inventions, and 26 patents for dials, push-buttons, and similar mechanisms, specified methods of signalling a destination telephone station that a subscriber wanted to call. Most inventions involved costly, intricate mechanisms and required the user to perform complex manipulations.
+
+The first commercial installation of a telephone dial accompanied the first commercial installation of a 99-line automatic telephone exchange in La Porte, Indiana in 1892, which was based on the 1891 Strowger designs. The original dials required complex operational sequences and development continued during the 1890s and early 1900s in conjunctions with improvements in switching technology.
+
+In the 1950s, plastic materials were introduced in dial construction, replacing metal which was heavier and subject to higher wear.
+
+Despite their lack of modern features, rotary phones occasionally find special uses. For instance, the anti-drug Fairlawn Coalition of the Anacostia section of Washington, D.C. persuaded the phone company to reinstall rotary-dial pay phones in the 1980s to discourage loitering by drug purchasers, since the dials could not be used to call dealers' pagers. They are also retained for authenticity in historic properties such as the U.S. Route 66 Blue Swallow Motel which date from an era of named exchanges and pulse dialling.
+
+2. Construction
+
+A rotary dial typically features a circular construction. The shaft that actuates the mechanical switching mechanism is driven by the finger wheel, a disk that has ten finger holes aligned close to the circumference. the finger wheel may be transparent or opaque permitting the viewing of the face plate, or number plate below, either in whole, or only showing the number assignment for each finger hole. The faceplate is printed with numbers, and sometimes letters, corresponding to each finger hole. The 1 is normally set at approximately 60 degrees clockwise from the uppermost point of the dial, or approximately at the 2 o'clock position, and then the numbers progress counterclockwise, with the 0 being at about 5 o'clock. A curved device called a finger stop sits above the dial at approximately the 4 o'clock position. The physical nature of the dialing mechanism on rotary phones allowed the use of physical locking mechanisms to prevent unauthorized use. The lock could be integral to the phone itself or a separate device inserted through the finger hole nearest the finger stop to prevent the dial rotating.
+
+2.1. Letters
+
+In addition to the numbers, the faceplate is often printed with letters corresponding to each finger hole. In North America, traditional dials have letter codes displayed with the numbers under the finger holes in the following pattern: 1, 2 ABC, 3 DEF, 4 GHI, 5 JKL, 6 MNO, 7 PRS, 8 TUV, 9 WXY, and 0 (sometimes Z) Operator. Letters were associated with the dial numbers to represent telephone exchange names in communities having more than 9,999 telephone lines, and additionally given a meaningful mnemonic to facilitate memorization of individual telephone numbers by incorporating their exchange names. For example: "RE7-xxxx" represented "REgent 7-xxxx", 'Regent' being a local exchange name used in Canada, derived from an earlier precursor telephone number, '7xxxx' –with callers actually dialing '73-7xxxx' (737-xxxx).
+
+In the United Kingdom the letter "O" was combined with the digit "0" rather than "6". Older Australian rotary dial telephones also had letters, but the combinations were often printed in the center plate adjacent to the number. The Australian letter to number mapping was: A=1, B=2, F=3, J=4, L=5, M=6, U=7, W=8, X=9, Y=0, so the phone number BX 3701 was in fact 29 3701. When Australia changed to all-numeric telephone numbers, a mnemonic to help people associate letters with numbers was the sentence, "All Big Fish Jump Like Mad Under Water eXcept Yabbies." However, such letter codes were not used in all countries.
+
+Dials outside Canada, the United States, and large cities in Britain (before all-figure dialing) usually did not bear alphabetic characters or an indication of the word "operator" in addition to numbers. Alphabetic designation of exchanges with Cyrillic letters (А, Б, В, Г, Д, Е, Ж, И, К, Л for each of the digits from 1 through 0 respectively) was also used for a short period in the Soviet Union in the 1950s and 1960s, but by the next decade this practice was largely discontinued.
+
+New Zealand letter for number has 2=ABC 3=DEF 4=GHI 5=JKL 6=MNO 7=PQRS 8=TUV 9=WXYZ
+
+3. Function
+
+To dial a number, the user puts a finger in the corresponding finger hole and rotates the dial clockwise until it reaches the finger stop. The user then pulls out the finger, and a spring in the dial returns it to the resting position. For example, if the user dials "6" on a North American phone, electrical contacts wired through the cam mechanism inside the phone will open and close six times as the dial returns to home position, thus sending six pulses to the central office.
+
+Different pulse systems are used, varying from country to country. For example, Sweden uses one pulse to signal the number zero, and 10 pulses to signal the number nine. New Zealand uses ten pulses minus the number desired; so dialing 7 produces three pulses. In Norway, the North American system with the number '1' corresponding to one pulse was used, except for the capital, Oslo, which used the same "inverse" system as in New Zealand.
+
+For this reason, the numbers on the dial are shifted in different countries, or even in different areas of one country, to work with their system because of the difference of the number arrangement on the dial. The dial numbering can occur in four different formats, with 0 adjacent either to the 1 or the 9 and the numbers running in ascending or descending order with either the 0,1 or 9 being closest to the finger stop.
+
+A relic of these differences is found in emergency telephone numbers used in various countries; the United Kingdom selected 999 due to the ease of converting call office dials to make free calls. "0" for the Operator was already free, and the cam that removed the shunt on the line when the dial was rotated to the "0" position could be altered to include the adjacent digit "9" (and "8" if required) so that calls to "0" and "999" could be made without inserting coins. In New Zealand 111 was selected for the same reason: on New Zealand reverse-numbered dials each digit "1" sends 9 pulses to the central office/telephone exchange (like "9" in Britain).
+
+Early dials worked by direct or forward action. The pulses were generated as the dial turned toward the finger stop position. When the user's hand motion was erratic, it produced wrong numbers. In the late 19th century, the dial was refined to operate automatically by a recoil spring. The user selected the digit to be dialed, rotated the dial to the finger stop, then released it. The spring caused the dial to rotate back to its home position during which time constant speed was maintained with a centrifugal governor.
+
+Dials at user stations typically produced pulses at the rate of ten pulses per second (pps), while dials on operator consoles on Crossbar or electronic exchanges often pulsed at 20 pps. The rotary dial governor is subject to wear and aging, and may require periodic cleaning, lubrication and adjustment by a telephone technician. In the video, the green LED shows the dial impulse pulses and the red LED shows the dial's off-normal contact function.
+
+Off-normal contacts typically serve two additional functions. They may implement a shunt across the transmitter circuit and induction coil to maximize the pulsing signal of the dial by eliminating all internal impedances of the telephone set. Another function is to short-circuit the telephone receiver during dialing, to prevent audible clicking noise from being heard by the telephone user.
+
+Some telephones include a small dial built into the handset, with a movable finger stop. The user rotates the dial clockwise until the finger stop ceases moving, then releases both. In this setting, there is no section of the rotating dial plate without holes, allowing a smaller dial diameter. This was introduced by Western Electric on the compact Trimline telephone, the first to locate the dial in the handset. In Spain, such phones were manufactured for CTNE (Compañía Telefónica Nacional de España) by Málaga based factory "CITESA", being named as "Góndola" phones by its particular shape. Spanish Góndola sets were fitted from the beginning with a red LED series connected with the line, allowing the dial ("disco" in Spanish) to be back-lighted while dialling. For that, the LED was bridged by an anti-parallel Zener diode, to allow the DC to pass even if the line polarity were reversed. In case of line polarity reversal, the LED would not light, but the phone would work anyway. The LED and Zener diode were contained in the same package for ease of assembly in manufacturing.
+
+Rotary dial telephones in Australia were sometimes equipped, in later years, with touch pad blanks, designed to look like a touch-phone, but providing the rotary dial signalling required by the Australian phone system. This was also the case with a number of sets offered in the UK and other countries, most being identified by the lack of # and * keys.
+
+Rotary dial telephones have no redial feature; the complete number has to be dialed for every attempted call.
+
+Since the 1950s, telephones in the United States and elsewhere were redesigned with the numbers and letters on a ring outside the finger wheel to provide better visibility.
+
+4. See also
+
+History of the telephone
+
+Crossbar switch
+
+Stepping switch
+
+Dial tone
+
+Single-frequency signaling
+
+Direct Distance Dialing (DDD)
+
+Automatic identified outward dialing (AIOD)
+
+Part 68
+
+5. References
+
+6. External links
+
+detailed article on subject with illustrations

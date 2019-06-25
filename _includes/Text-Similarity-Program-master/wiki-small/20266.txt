@@ -1,0 +1,85 @@
+Mainframe computers (colloquially referred to as "big iron") are computers used primarily by corporate and governmental organizations for critical applications, bulk data processing such as census, industry and consumer statistics, enterprise resource planning and transaction processing.
+
+The term originally referred to the large cabinets called "main frames" that housed the central processing unit and main memory of early computers. Later, the term was used to distinguish high-end commercial machines from less powerful units. Most large-scale computer system architectures were established in the 1960s, but continue to evolve.
+
+1. Description
+
+Modern mainframe design is generally less defined by single-task computational speed (typically defined as MIPS rate or FLOPS in the case of floating point calculations), and more by:
+
+Redundant internal engineering resulting in high reliability and security
+
+Extensive input-output facilities with the ability to offload to separate engines
+
+Strict backward compatibility with older software
+
+High hardware and computational utilization rates through virtualization to support massive throughput. Their high stability and reliability enables these machines to run uninterrupted for decades.
+
+Software upgrades usually require setting up the operating system or portions thereof, and are non-disruptive only when using virtualizing facilities such as IBM's z/OS and Parallel Sysplex, or Unisys's XPCL, which support workload sharing so that one system can take over another's application while it is being refreshed. Mainframes are defined by high availability, one of the main reasons for their longevity, since they are typically used in applications where downtime would be costly or catastrophic. The term reliability, availability and serviceability (RAS) is a defining characteristic of mainframe computers. Proper planning and implementation is required to exploit these features, and if improperly implemented, may serve to inhibit the benefits provided. In addition, mainframes are more secure than other computer types: the NIST vulnerabilities database, US-CERT, rates traditional mainframes such as IBM zSeries, Unisys Dorado and Unisys Libra as among the most secure with vulnerabilities in the low single digits as compared with thousands for Windows, Unix, and Linux.
+
+In the late 1950s, most mainframes had no explicitly interactive interface. They accepted sets of punched cards, paper tape, or magnetic tape to transfer data and programs. They operated in batch mode to support back office functions, such as customer billing, and supported interactive terminals almost exclusively for applications rather than program development. Typewriter and Teletype devices were also common control consoles for system operators through the 1970s, although ultimately supplanted by keyboard/display devices. By the early 1970s, many mainframes acquired interactive user interfaces and operated as timesharing computers, supporting hundreds of users simultaneously along with batch processing. Users gained access through specialized terminals or, later, from personal computers equipped with terminal emulation software. By the 1980s, many mainframes supported graphical terminals, and terminal emulation, but not graphical user interfaces. This format of end-user computing reached mainstream obsolescence in the 1990s due to the advent of personal computers provided with GUIs. After 2000, most modern mainframes have partially or entirely phased out classic "green screen" terminal access for end-users in favour of Web-style user interfaces.
+
+The infrastructure requirements were drastically reduced during the mid-1990s when CMOS mainframe designs replaced the older bipolar technology. IBM claimed that its newer mainframes could reduce data center energy costs for power and cooling, and that they could reduce physical space requirements compared to server farms.
+
+2. Characteristics
+
+Modern mainframes can run multiple different instances of operating systems at the same time. This technique of virtual machines allows applications to run as if they were on physically distinct computers. In this role, a single mainframe can replace higher-functioning hardware services available to conventional servers. While mainframes pioneered this capability, virtualization is now available on most families of computer systems, though not always to the same degree or level of sophistication.
+
+Mainframes can add or hot swap system capacity without disrupting system function, with specificity and granularity to a level of sophistication not usually available with most server solutions. Modern mainframes, notably the IBM zSeries, System z9 and System z10 servers, offer two levels of virtualization: logical partitions (LPARs, via the PR/SM facility) and virtual machines (via the z/VM operating system). Many mainframe customers run two machines: one in their primary data center, and one in their backup data center—fully active, partially active, or on standby—in case there is a catastrophe affecting the first building. Test, development, training, and production workload for applications and databases can run on a single machine, except for extremely large demands where the capacity of one machine might be limiting. Such a two-mainframe installation can support continuous business service, avoiding both planned and unplanned outages. In practice many customers use multiple mainframes linked either by Parallel Sysplex and shared DASD (in IBM's case), or with shared, geographically dispersed storage provided by EMC or Hitachi.
+
+Mainframes are designed to handle very high volume input and output (I/O) and emphasize throughput computing. Since the late-1950s, mainframe designs have included subsidiary hardware (called channels or peripheral processors) which manage the I/O devices, leaving the CPU free to deal only with high-speed memory. It is common in mainframe shops to deal with massive databases and files. Gigabyte to terabyte-size record files are not unusual. Compared to a typical PC, mainframes commonly have hundreds to thousands of times as much data storage online, and can access it much faster. Other server families also offload I/O processing and emphasize throughput computing.
+
+Mainframe return on investment (ROI), like any other computing platform, is dependent on its ability to scale, support mixed workloads, reduce labor costs, deliver uninterrupted service for critical business applications, and several other risk-adjusted cost factors.
+
+Mainframes also have execution integrity characteristics for fault tolerant computing. For example, z900, z990, System z9, and System z10 servers effectively execute result-oriented instructions twice, compare results, arbitrate between any differences (through instruction retry and failure isolation), then shift workloads "in flight" to functioning processors, including spares, without any impact to operating systems, applications, or users. This hardware-level feature, also found in HP's NonStop systems, is known as lock-stepping, because both processors take their "steps" (i.e. instructions) together. Not all applications absolutely need the assured integrity that these systems provide, but many do, such as financial transaction processing.
+
+3. Market
+
+IBM mainframes dominate the mainframe market at well over 90% market share. Unisys manufactures ClearPath Libra mainframes, based on earlier Burroughs products and ClearPath Dorado mainframes based on Sperry Univac OS 1100 product lines. In 2002, Hitachi co-developed the zSeries z800 with IBM to share expenses, but subsequently the two companies have not collaborated on new Hitachi models. Hewlett-Packard sells its unique NonStop systems, which it acquired with Tandem Computers and which some analysts classify as mainframes. Groupe Bull's DPS, Fujitsu (formerly Siemens) BS2000, and Fujitsu-ICL VME mainframes are still available in Europe. Fujitsu, Hitachi, and NEC (the "JCMs") still maintain mainframe hardware businesses in the Japanese market.
+
+The amount of vendor investment in mainframe development varies with market share. Fujitsu and Hitachi both continue to use custom S/390-compatible processors, as well as other CPUs (including POWER and Xeon) for lower-end systems. Bull uses a mixture of Itanium and Xeon processors. NEC uses Xeon processors for its low-end ACOS-2 line, but develops the custom NOAH-6 processor for its high-end ACOS-4 series. IBM continues to pursue a different business strategy of mainframe investment and growth. IBM has its own large research and development organization designing new, homegrown CPUs, including mainframe processors such as 2012's 5.5 GHz six-core zEC12 mainframe microprocessor. Unisys produces code compatible mainframe systems that range from laptops to cabinet sized mainframes that utilize homegrown CPUs as well as Xeon processors. IBM is rapidly expanding its software business, including its mainframe software portfolio, to seek additional revenue and profits.
+
+Furthermore, there exists a market for software applications to manage the performance of mainframe implementations. In addition to IBM, significant players in this market include BMC, Compuware, and CA Technologies.
+
+4. History
+
+Several manufacturers produced mainframe computers from the late 1950s through the 1970s. The group of manufacturers was first known as "IBM and the Seven Dwarfs": usually Burroughs, UNIVAC, NCR, Control Data, Honeywell, General Electric and RCA, although some lists varied. Later, with the departure of General Electric and RCA, it was referred to as IBM and the BUNCH. IBM's dominance grew out of their 700/7000 series and, later, the development of the 360 series mainframes. The latter architecture has continued to evolve into their current zSeries mainframes which, along with the then Burroughs and Sperry (now Unisys) MCP-based and OS1100 mainframes, are among the few mainframe architectures still extant that can trace their roots to this early period. While IBM's zSeries can still run 24-bit System/360 code, the 64-bit zSeries and System z9 CMOS servers have nothing physically in common with the older systems. Notable manufacturers outside the USA were Siemens and Telefunken in Germany, ICL in the United Kingdom, Olivetti in Italy, and Fujitsu, Hitachi, Oki, and NEC in Japan. The Soviet Union and Warsaw Pact countries manufactured close copies of IBM mainframes during the Cold War; the BESM series and Strela are examples of an independently designed Soviet computer.
+
+Shrinking demand and tough competition started a shakeout in the market in the early 1970s — RCA sold out to UNIVAC and GE sold its business to Honeywell; in the 1980s Honeywell was bought out by Bull; UNIVAC became a division of Sperry, which later merged with Burroughs to form Unisys Corporation in 1986.
+
+During the 1980s, minicomputer-based systems grew more sophisticated and were able to displace the lower-end of the mainframes. These computers, sometimes called departmental computers were typified by the DEC VAX.
+
+In 1991, AT&T Corporation briefly owned NCR. During the same period, companies found that servers based on microcomputer designs could be deployed at a fraction of the acquisition price and offer local users much greater control over their own systems given the IT policies and practices at that time. Terminals used for interacting with mainframe systems were gradually replaced by personal computers. Consequently, demand plummeted and new mainframe installations were restricted mainly to financial services and government. In the early 1990s, there was a rough consensus among industry analysts that the mainframe was a dying market as mainframe platforms were increasingly replaced by personal computer networks. InfoWorld's Stewart Alsop famously predicted that the last mainframe would be unplugged in 1996; in 1993, he cited Cheryl Currid, a computer industry analyst as saying that the last mainframe "will stop working on December 31, 1999", a reference to the anticipated Year 2000 problem (Y2K).
+
+That trend started to turn around in the late 1990s as corporations found new uses for their existing mainframes and as the price of data networking collapsed in most parts of the world, encouraging trends toward more centralized computing. The growth of e-business also dramatically increased the number of back-end transactions processed by mainframe software as well as the size and throughput of databases. Batch processing, such as billing, became even more important (and larger) with the growth of e-business, and mainframes are particularly adept at large scale batch computing. Another factor currently increasing mainframe use is the development of the Linux operating system, which arrived on IBM mainframe systems in 1999 and is typically run in scores or hundreds of virtual machines on a single mainframe. Linux allows users to take advantage of open source software combined with mainframe hardware RAS. Rapid expansion and development in emerging markets, particularly People's Republic of China, is also spurring major mainframe investments to solve exceptionally difficult computing problems, e.g. providing unified, extremely high volume online transaction processing databases for 1 billion consumers across multiple industries (banking, insurance, credit reporting, government services, etc.) In late 2000 IBM introduced 64-bit z/Architecture, acquired numerous software companies such as Cognos and introduced those software products to the mainframe. IBM's quarterly and annual reports in the 2000s usually reported increasing mainframe revenues and capacity shipments. However, IBM's mainframe hardware business has not been immune to the recent overall downturn in the server hardware market or to model cycle effects. For example, in the 4th quarter of 2009, IBM's System z hardware revenues decreased by 27% year over year. But MIPS shipments (a measure of mainframe capacity) increased 4% per year over the past two years. Alsop had himself photographed in 2000, symbolically eating his own words ("death of the mainframe").
+
+In 2012, NASA powered down its last mainframe, an IBM System z9. However, IBM's successor to the z9, the z10, led a New York Times reporter to state four years earlier that "mainframe technology — hardware, software and services — remains a large and lucrative business for I.B.M., and mainframes are still the back-office engines behind the world’s financial markets and much of global commerce". , while mainframe technology represented less than 3% of IBM's revenues, it "continue[d] to play an outsized role in Big Blue's results".
+
+5. Differences from supercomputers
+
+A supercomputer is a computer that is at the frontline of current processing capacity, particularly speed of calculation. Supercomputers are used for scientific and engineering problems (high-performance computing) which are data crunching and number crunching, while mainframes are used for transaction processing. The differences are as follows:
+
+Mainframes are often approximately measured in millions of instructions per second (MIPS), but supercomputers are measured in floating point operations per second (FLOPS) and more recently by traversed edges per second or TEPS. Examples of integer operations include moving data around in memory or checking values. Floating point operations are mostly addition, subtraction, and multiplication with enough digits of precision to model continuous phenomena such as weather prediction and nuclear simulations. In terms of computational ability, supercomputers are more powerful.
+
+Mainframes are built to be reliable for transaction processing as it is commonly understood in the business world: a commercial exchange of goods, services, or money. A typical transaction, as defined by the Transaction Processing Performance Council, would include the updating to a database system for such things as inventory control (goods), airline reservations (services), or banking (money). A transaction could refer to a set of operations including disk read/writes, operating system calls, or some form of data transfer from one subsystem to another. This operation doesn't count toward the processing power of a computer. Transaction processing is not exclusive to mainframes but also used in the performance of microprocessor-based servers and online networks. In 2007, an amalgamation of the different technologies and architectures for supercomputers and mainframes has led to the so-called gameframe.
+
+6. See also
+
+Computer types
+
+Failover
+
+Gameframe
+
+Channel I/O
+
+Cloud computing
+
+7. Notes
+
+8. References
+
+9. External links
+
+, a mainframe from the 1960s, still in use in a German computer museum
+
+(archived copy from the Internet Archive)

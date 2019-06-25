@@ -1,0 +1,151 @@
+Telecommunications in Nigeria include radio, television, fixed and mobile telephones, and the Internet.
+
+1. Radio and television
+
+Radio stations:
+
+network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations typically carry their own programs except for news broadcasts; about 20 private radio stations; transmissions of international broadcasters are available (2007);
+
+83 AM, 36 FM, and 11 shortwave stations (2001). Radios: 23.5 million (1997).
+
+Television stations: nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations operational; cable and satellite TV subscription services are available (2007).
+
+Television sets: 56.9 million (2007).
+
+Nigeria's media scene is one of the most vibrant in Africa. Because newspapers and television are relatively expensive and literacy levels low, radio remains the most important medium of mass communication and information. International broadcasters, including the BBC, are popular. TV viewing is concentrated in urban areas.
+
+The largest broadcasting companies are the government-owned Federal Radio Corporation of Nigeria (FRCN) and the Nigerian Television Authority (NTA). The NTA has two television services. One is NTA 1, which is distributed among NTA's six television zones. The other is NTA 2, which is distributed nationwide and is funded mostly by advertising. NITEL owns a majority of the transmitters that broadcast FRCN and NTA programming.
+
+Each state also has a broadcasting company that broadcasts one or two locally operated terrestrial stations. This means that there are about 50 government owned, but partly independent television stations. Private players in the Nigerian television scene include: Silverbird Television (STV), Africa Independent Television (AIT), Channels Television, Superscreen Television, and several others. Most of their programming is aimed for the African and global markets and is broadcast globally from Lagos, Abuja, Obosi and Port Harcourt centers with affiliated TV stations in several African countries. African Independent Television (AIT) is a high profile satellite television station broadcasting globally from its Lagos and Abuja centers. Other direct satellite television stations with international reach operating in Nigeria are Murhi International Television, ON Television, Galaxy TV, TV Continental, etc. all in Lagos.
+
+There is general access to cable television like DSTV, a South African cable television station, broadcast over satellite. HiTV, DaarSat, StarTimes and Infinity TV are other examples of cable TV in Nigeria. M-Net ceased operations in December 2011, but had offices in most Nigerian cities, and was watched by a large number of people.
+
+1.1. Media control and press freedom
+
+The government controls much of the electronic media through the National Broadcasting Commission (NBC), which is responsible for monitoring and regulating broadcast media. Radio stations remain susceptible to political censorship and attacks by political groups. For example, in January 2012 some media figures alleged the NBC warned radio stations not to broadcast stories about fuel subsidy protests.
+
+Libel is a civil offense and requires defendants to prove the truth of opinion or value judgment contained in news reports or commentaries, or pay penalties. This limits the circumstances in which media defendants can rely on the defense of "fair comment on matters of public interest" and restricts their right to freedom of expression. Penalties for defamation of character include two years' imprisonment and possible fines.
+
+The law requires local television stations to limit programming from other countries to 40 percent and restricts foreign content of satellite broadcasting to 20 percent. The NBC's 2004 prohibition of live broadcasts of foreign news and programs remains in force, but does not apply to international cable or satellite services. The Voice of America is not allowed to broadcast programs through local affiliate stations.
+
+Security forces beat, detain, and harass journalists. On numerous occasions security forces and police have arrested and detained journalists who criticized the government. Reporting on matters such as political corruption and security issues are particularly sensitive. Politicians and political parties harass and attack journalists perceived as reporting on them or their interests in a negative manner. During local and state elections, journalists have been intimidated or attacked for covering certain election-related events. Journalists have been killed while reporting stories. The militant group Boko Haram threatens media outlets and has killed members of the press. On 20 January 2012, unknown gunmen killed Channels TV reporter Enenche Akogwu while he was reporting on the Boko Haram attacks and bombings in Kano that day. Journalists practice self-censorship.
+
+2. Telephones
+
+Calling code: +234
+
+International call prefix: 009
+
+Connected lines:
+
+    2,452,697 fixed wired/wireless lines (June 2013).
+
+164,642,742 mobile cellular (GSM) lines (June 2013).
+
+  14,250,514 mobile (CDMA) lines (June 2013).
+
+181,345,953 total connected lines Active lines:
+
+       382,678 fixed wired/wireless lines (June 2013).
+
+117,412,363 Mobile cellular (GSM) lines (June 2013).
+
+    2,567,177 mobile (CDMA) lines (June 2013).
+
+120,362,218 total active lines Installed capacity:
+
+  11,384,677 fixed wired/wireless lines (June 2013).
+
+204,242,114 mobile (GSM) lines (June 2013).
+
+  18,400,000 mobile (CDMA) lines (June 2013).
+
+234,026,791 total lines Teledensity:
+
+~86 combined fixed and mobile lines per 100 persons (June 2013).
+
+  ~1 fixed line per 100 persons (2010).
+
+~60 mobile lines per 100 persons (2010). Telephone system: further expansion and modernization of the fixed-line telephone network is needed; network quality remains a problem; the addition of a second fixed-line provider in 2002 resulted in faster growth but subscribership remains only about 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with a subscribership approaching 60 per 100 persons (2010);
+
+Satellite earth stations: 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2010);
+
+Submarine cables:
+
+SAT-3/WASC/SAFE links countries along the west coast of Africa to each other and on to Europe and Asia,
+
+ACE, links countries along the west coast of Africa to each other and on to France,
+
+GLO-1 links countries along the west coast of Africa to each other and on to the United Kingdom,
+
+Main One links countries along the west coast of Africa to each other and on to Portugal, and
+
+WASACE (planned) will link Nigeria to Angola, and South Africa and on to Brazil, the United States, and France. Deregulation of the mobile phone market has led to the introduction of Global System for Mobile Communication (GSM) network providers operating on the 900/1800 MHz spectrum, MTN Nigeria, Airtel, Globacom, and Etisalat. Use of cell-phones has soared, and has mostly replaced the unreliable fixed line services of Nigerian Telecommunications Limited (NITEL). An October 2011 estimate placed the number of mobile phones at about 88 million, with most people having more than one cellphone.
+
+With the expiration of the exclusivity period of the main GSM network providers, Nigeria's telecom regulator, the Nigerian Communications Commission (NCC), introduced the Unified Licencing Regime. It is hoped that telcos with unified licences will be able to provide fixed and mobile telephony and Internet access as well as any other communications service they choose to offer. In March 2011 the NCC started registering SIM cards. The exercise is expected to last until 28 September 2011.
+
+After a decade of failed privatization attempts, the incumbent national telco NITEL and its mobile arm M-Tel are currently in liquidation.
+
+3. Internet
+
+Top-level domain: .ng
+
+Internet users:
+
+55.9 million users, 8th in the world; 32.9% of the population, 128th in the world (2012);
+
+44.0 million users, 9th in the world (2009);
+
+  5.0 million users, 40th in the world (2005). Fixed broadband: 15,311 subscriptions, 136th in the world; less than 0.05% of the population, 185th in the world (2012).
+
+Wireless broadband: 17.3 million subscriptions, 18th in the world; 10.2% of the population, 91st in the world (2012).
+
+Internet hosts:
+
+1,234 hosts, 169th in the world (2012);
+
+1,549 hosts, 134th in the world (2006). IPv4: 1.0 million addresses allocated, 75th in the world, less than 0.05% of the world total, 5.9 addresses per 1000 people (2012).
+
+Internet Service Providers:
+
+~100 ISPs (2013);
+
+~400 ISPs (2010);
+
+  ~11 ISPs (2000). There is satellite Internet access throughout the country. In most towns there are many privately owned and operated Internet cafes.
+
+A new dimension to Internet connectivity has been introduced with millions of people accessing the Internet on their WAP-enabled mobile phones, smartphones and on their PCs using their phones as a modem. This is largely due to the introduction of GPRS (General Packet Radio Service) and EDGE (Enhanced Data Rates for GSM Evolution) connectivity by the GSM operators. All existing GSM networks presently offer GPRS services and have introduced 3G/UMTS.
+
+3.1. Internet censorship and surveillance
+
+Listed by the OpenNet Initiative as no evidence of Internet filtering in all four areas for which they test (political, social, conflict/security, and Internet tools) in October 2009.
+
+There are few government restrictions on access to the Internet or credible reports the government monitors e-mail or Internet chat rooms. Although the constitution and law provide for freedom of speech, including for members of the press, the government sometimes restricts these rights in practice. Libel is a civil offense and requires defendants to prove the truth of opinion or value judgment contained in news reports or commentaries. Penalties include two years' imprisonment and possible fines. Militant groups such as Boko Haram threaten, attack, and kill journalists in connection with their reporting of the sect’s activities. Journalists practice self-censorship.
+
+Reporting on political corruption and security issues has proved to be particularly sensitive. On 24 October 2012 police in Bauchi State arraigned civil servant Abbas Ahmed Faggo before a court for allegedly defaming the character of Governor Isa Yuguda after he posted messages on his Facebook account accusing the governor of spending public funds on his son's wedding. On 4 November, the court discharged Faggo, but media reported the state government fired him later that month.
+
+During 2012 several Internet news sites critical of the government experienced server problems, which site owners attributed to government interference. Such disruptions usually lasted a few hours.
+
+In 2008 two journalists were arrested for publishing online articles and photos critical of the government.
+
+4. See also
+
+Nigerian weather and communications satellites
+
+Media in Nigeria
+
+List of terrestrial fibre optic cable projects in Africa
+
+5. References
+
+6. External links
+
+, Landline providers in Nigeria, September 2013.
+
+, comparison of the big 4 GSM providers, June 2013.
+
+(NIG), a not-for-profit, non-governmental organization, promoting the Internet in Nigeria.
+
+(NITDA), the government clearing house for all IT projects in the public sector in Nigeria.
+
+, the independent National Regulatory Authority for the telecommunications industry in Nigeria.

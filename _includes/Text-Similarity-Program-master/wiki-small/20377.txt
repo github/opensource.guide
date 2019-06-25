@@ -1,0 +1,240 @@
+A microorganism (from the , mikros, "small" and , organismós, "organism") is a microscopic living organism, which may be a single cell or a multicellular organism. The study of microorganisms is called microbiology, a subject that began with the discovery of microorganisms in 1674 by Antonie van Leeuwenhoek, using a microscope of his own design.
+
+Microorganisms are very diverse and include all the bacteria and archaea and almost all the protozoa. They also include some fungi, algae, and certain animals, such as rotifers. Many macro animals and plants have juvenile stages which are also microorganisms. Some microbiologists also classify viruses (and viroids) as microorganisms, but others consider these as nonliving.
+
+Microorganisms live in every part of the biosphere, including soil, hot springs, "seven miles deep" in the ocean, "40 miles high" in the atmosphere and inside rocks far down within the Earth's crust (see also endolith). Microorganisms, under certain test conditions, have been observed to thrive in the vacuum of outer space. The total amount of soil and subsurface bacterial carbon is estimated as 5 x 1017 g, or the "weight of the United Kingdom". The mass of prokaryote microorganisms 舒 which includes bacteria and archaea, but not the nucleated eukaryote microorganisms 舒 may be as much as 0.8 trillion tons of carbon (of the total biosphere mass of 4 trillion tons). On 17 March 2013, researchers reported data that suggested microbial life forms thrive in the Mariana Trench. the deepest spot in the Earth's oceans. Other researchers reported related studies that microorganisms thrive inside rocks up to below the sea floor under of ocean off the coast of the northwestern United States as well as beneath the seabed off Japan. On 20 August 2014, scientists confirmed the existence of microorganisms living below the ice of Antarctica. According to one researcher,"You can find microbes everywhere — they're extremely adaptable to conditions, and survive wherever they are."
+
+Microorganisms are crucial to nutrient recycling in ecosystems as they act as decomposers. As some microorganisms can fix nitrogen, they are a vital part of the nitrogen cycle, and recent studies indicate that airborne microorganisms may play a role in precipitation and weather. Microorganisms are also exploited in biotechnology, both in traditional food and beverage preparation, and in modern technologies based on genetic engineering. A small proportion of microorganisms are pathogenic and cause disease and even death in plants and animals. Microorganisms are often referred to as microbes, but this is usually used in reference to pathogens.
+
+1. Evolution
+
+Single-celled microorganisms were the first forms of life to develop on Earth, approximately 3–4 billion years ago. Further evolution was slow, and for about 3 billion years in the Precambrian eon, all organisms were microscopic. So, for most of the history of life on Earth, the only forms of life were microorganisms. Bacteria, algae and fungi have been identified in amber that is 220 million years old, which shows that the morphology of microorganisms has changed little since the Triassic period. The newly discovered biological role played by nickel, however — especially that engendered by volcanic eruptions from the Siberian Traps (site of the modern city of Norilsk) — is thought to have accelerated the evolution of methanogens towards the end of the Permian–Triassic extinction event.
+
+Microorganisms tend to have a relatively fast rate of evolution. Most microorganisms can reproduce rapidly, and bacteria are also able to freely exchange genes through conjugation, transformation and transduction, even between widely divergent species. This horizontal gene transfer, coupled with a high mutation rate and many other means of genetic variation, allows microorganisms to swiftly evolve (via natural selection) to survive in new environments and respond to environmental stresses. This rapid evolution is important in medicine, as it has led to the recent development of "super-bugs", pathogenic bacteria that are resistant to modern antibiotics.
+
+2. Pre-microbiology
+
+The possibility that microorganisms exist was discussed for many centuries before their discovery in the 17th century. The existence of unseen microbiological life was postulated by Jainism, which is based on Mahavira's teachings as early as 6th century BCE. Paul Dundas notes that Mahavira asserted the existence of unseen microbiological creatures living in earth, water, air and fire. The Jain scriptures also describe nigodas, which are sub-microscopic creatures living in large clusters and having a very short life, which are said to pervade every part of the universe, even the tissues of plants and animals. The earliest known idea to indicate the possibility of diseases spreading by yet unseen organisms was that of the Roman scholar Marcus Terentius Varro in a 1st-century BC book titled On Agriculture in which he warns against locating a homestead near swamps:
+
+In The Canon of Medicine (1020), Abū Alī ibn Sīnā (Avicenna) hypothesized that tuberculosis and other diseases might be contagious
+
+In 1546, Girolamo Fracastoro proposed that epidemic diseases were caused by transferable seedlike entities that could transmit infection by direct or indirect contact, or even without contact over long distances.
+
+All these early claims about the existence of microorganisms were speculative and were not based on any data or science. Microorganisms were neither proven, observed, nor correctly and accurately described until the 17th century. The reason for this was that all these early studies lacked the microscope.
+
+3. History of microorganisms' discovery
+
+Antonie Van Leeuwenhoek (1632–1723) was one of the first people to observe microorganisms, using microscopes of his own design. Robert Hooke, a contemporary of Leeuwenhoek, also used microscopes to observe microbial life; his 1665 book Micrographia describes these observations and coined the term cell.
+
+Before Leeuwenhoek's discovery of microorganisms in 1675, it had been a mystery why grapes could be turned into wine, milk into cheese, or why food would spoil. Leeuwenhoek did not make the connection between these processes and microorganisms, but using a microscope, he did establish that there were forms of life that were not visible to the naked eye. Leeuwenhoek's discovery, along with subsequent observations by Spallanzani and Pasteur, ended the long-held belief that life spontaneously appeared from non-living substances during the process of spoilage.
+
+Lazzaro Spallanzani (1729–1799) found that boiling broth would sterilise it, killing any microorganisms in it. He also found that new microorganisms could only settle in a broth if the broth was exposed to air.
+
+Louis Pasteur (1822–1895) expanded upon Spallanzani's findings by exposing boiled broths to the air, in vessels that contained a filter to prevent all particles from passing through to the growth medium, and also in vessels with no filter at all, with air being admitted via a curved tube that would not allow dust particles to come in contact with the broth. By boiling the broth beforehand, Pasteur ensured that no microorganisms survived within the broths at the beginning of his experiment. Nothing grew in the broths in the course of Pasteur's experiment. This meant that the living organisms that grew in such broths came from outside, as spores on dust, rather than spontaneously generated within the broth. Thus, Pasteur dealt the death blow to the theory of spontaneous generation and supported germ theory.
+
+In 1876, Robert Koch (1843–1910) established that microorganisms can cause disease. He found that the blood of cattle which were infected with anthrax always had large numbers of Bacillus anthracis. Koch found that he could transmit anthrax from one animal to another by taking a small sample of blood from the infected animal and injecting it into a healthy one, and this caused the healthy animal to become sick. He also found that he could grow the bacteria in a nutrient broth, then inject it into a healthy animal, and cause illness. Based on these experiments, he devised criteria for establishing a causal link between a microorganism and a disease and these are now known as Koch's postulates. Although these postulates cannot be applied in all cases, they do retain historical importance to the development of scientific thought and are still being used today.
+
+On 8 November 2013, scientists reported the discovery of what may be the earliest signs of life on Earth—the oldest complete fossils of a microbial mat (associated with sandstone in Western Australia) estimated to be 3.48 billion years old.
+
+4. Classification and structure
+
+Microorganisms can be found almost anywhere in the taxonomic organization of life on the planet. Bacteria and archaea are almost always microscopic, while a number of eukaryotes are also microscopic, including most protists, some fungi, as well as some animals and plants. Viruses are generally regarded as not living and therefore not considered as microorganisms, although the field of microbiology also encompasses the study of viruses.
+
+4.1. Prokaryotes
+
+Prokaryotes are organisms that lack a cell nucleus and the other membrane bound organelles. They are almost always unicellular, although some species such as myxobacteria can aggregate into complex structures as part of their life cycle.
+
+Consisting of two domains, bacteria and archaea, the prokaryotes are the most diverse and abundant group of organisms on Earth and inhabit practically all environments where the temperature is below +140 °C. They are found in water, soil, air, animals' gastrointestinal tracts, hot springs and even deep beneath the Earth's crust in rocks. Practically all surfaces that have not been specially sterilized are covered by prokaryotes. The number of prokaryotes on Earth is estimated to be around five million trillion trillion, or 5 ȕ 1030, accounting for at least half the biomass on Earth.
+
+4.1.1. Bacteria
+
+Almost all bacteria are invisible to the naked eye, with a few extremely rare exceptions, such as Thiomargarita namibiensis. They lack a nucleus and other membrane-bound organelles, and can function and reproduce as individual cells, but often aggregate in multicellular colonies. Their genome is usually a single loop of DNA, although they can also harbor small pieces of DNA called plasmids. These plasmids can be transferred between cells through bacterial conjugation. Bacteria are surrounded by a cell wall, which provides strength and rigidity to their cells. They reproduce by binary fission or sometimes by budding, but do not undergo meiotic sexual reproduction. However, many bacterial species can transfer DNA between individual cells by a process referred to as natural transformation. In nature, the development of competence for transformation is usually associated with stressful environmental conditions, and seems to be an adaptation for facilitating repair of DNA damage in recipient cells. Some species form extraordinarily resilient spores, but for bacteria this is a mechanism for survival, not reproduction. Under optimal conditions bacteria can grow extremely rapidly and can double as quickly as every 20 minutes.
+
+4.1.2. Archaea
+
+Archaea are also single-celled organisms that lack nuclei. In the past, the differences between bacteria and archaea were not recognised and archaea were classified with bacteria as part of the kingdom Monera. However, in 1990 the microbiologist Carl Woese proposed the three-domain system that divided living things into bacteria, archaea and eukaryotes. Archaea differ from bacteria in both their genetics and biochemistry. For example, while bacterial cell membranes are made from phosphoglycerides with ester bonds, archaean membranes are made of ether lipids.
+
+Archaea were originally described in extreme environments, such as hot springs, but have since been found in all types of habitats. Only now are scientists beginning to realize how common archaea are in the environment, with crenarchaeota being the most common form of life in the ocean, dominating ecosystems below 150 m in depth. These organisms are also common in soil and play a vital role in ammonia oxidation.
+
+4.2. Eukaryotes
+
+Most living things that are visible to the naked eye in their adult form are eukaryotes, including humans. However, a large number of eukaryotes are also microorganisms. Unlike bacteria and archaea, eukaryotes contain organelles such as the cell nucleus, the Golgi apparatus and mitochondria in their cells. The nucleus is an organelle that houses the DNA that makes up a cell's genome. DNA itself is arranged in complex chromosomes. Mitochondria are organelles vital in metabolism as they are the site of the citric acid cycle and oxidative phosphorylation. They evolved from symbiotic bacteria and retain a remnant genome. Like bacteria, plant cells have cell walls, and contain organelles such as chloroplasts in addition to the organelles in other eukaryotes. Chloroplasts produce energy from light by photosynthesis, and were also originally symbiotic bacteria.
+
+Unicellular eukaryotes consist of a single cell throughout their life cycle. This qualification is significant since most multicellular eukaryotes consist of a single cell called a zygote only at the beginning of their life cycles. Microbial eukaryotes can be either haploid or diploid, and some organisms have multiple cell nuclei.
+
+Unicellular eukaryotes usually reproduce asexually by mitosis under favorable conditions. However, under stressful conditions such as nutrient limitations and other conditions associated with DNA damage, they tend to reproduce sexually by meiosis and syngamy.
+
+4.2.1. Protists
+
+Of eukaryotic groups, the protists are most commonly unicellular and microscopic. This is a highly diverse group of organisms that are not easy to classify. Several algae species are multicellular protists, and slime molds have unique life cycles that involve switching between unicellular, colonial, and multicellular forms. The number of species of protists is unknown since we may have identified only a small portion. Studies from 2001-2004 have shown that a high degree of protist diversity exists in oceans, deep sea-vents, river sediment and an acidic river which suggests that a large number of eukaryotic microbial communities have yet to be discovered.
+
+4.2.2. Animals
+
+Some micro animals are multicellular but at least one animal group, Myxozoa, is unicellular in its adult form. Microscopic arthropods include dust mites and spider mites. Microscopic crustaceans include copepods, some cladocera and water bears. Many nematodes are also too small to be seen with the naked eye. A common group of microscopic animals are the rotifers, which are filter feeders that are usually found in fresh water. Some micro-animals reproduce both sexually and asexually and may reach new habitats by producing eggs which can survive harsh environments that would kill the adult animal. However, some simple animals, such as rotifers, tardigrades and nematodes, can dry out completely and remain dormant for long periods of time.
+
+4.2.3. Fungi
+
+The fungi have several unicellular species, such as baker's yeast (Saccharomyces cerevisiae) and fission yeast (Schizosaccharomyces pombe). Some fungi, such as the pathogenic yeast Candida albicans, can undergo phenotypic switching and grow as single cells in some environments, and filamentous hyphae in others. Fungi reproduce both asexually, by budding or binary fission, as well by producing spores, which are called conidia when produced asexually, or basidiospores when produced sexually.
+
+4.2.4. Plants
+
+The green algae are a large group of photosynthetic eukaryotes that include many microscopic organisms. Although some green algae are classified as protists, others such as charophyta are classified with embryophyte plants, which are the most familiar group of land plants. Algae can grow as single cells, or in long chains of cells. The green algae include unicellular and colonial flagellates, usually but not always with two flagella per cell, as well as various colonial, coccoid, and filamentous forms. In the Charales, which are the algae most closely related to higher plants, cells differentiate into several distinct tissues within the organism. There are about 6000 species of green algae.
+
+5. Habitats and ecology
+
+Microorganisms are found in almost every habitat present in nature. Even in hostile environments such as the poles, deserts, geysers, rocks, and the deep sea. Some types of microorganisms have adapted to the extreme conditions and sustained colonies; these organisms are known as extremophiles. Extremophiles have been isolated from rocks as much as 7 kilometres below the Earth's surface, and it has been suggested that the amount of living organisms below the Earth's surface may be comparable with the amount of life on or above the surface. Extremophiles have been known to survive for a prolonged time in a vacuum, and can be highly resistant to radiation, which may even allow them to survive in space. Many types of microorganisms have intimate symbiotic relationships with other larger organisms; some of which are mutually beneficial (mutualism), while others can be damaging to the host organism (parasitism). If microorganisms can cause disease in a host they are known as pathogens and then they are sometimes referred to as microbes.
+
+5.1. Extremophiles
+
+Extremophiles are microorganisms that have adapted so that they can survive and even thrive in conditions that are normally fatal to most life-forms. For example, some species have been found in the following extreme environments:
+
+Temperature: as high as , as low as
+
+Acidity/alkalinity: less than pH 0, up to pH 11.5
+
+Salinity: up to saturation
+
+Pressure: up to 1,000-2,000 atm, down to 0 atm (e.g. vacuum of space)
+
+Radiation: up to 5kGy Extremophiles are significant in different ways. They extend terrestrial life into much of the Earth's hydrosphere, crust and atmosphere, their specific evolutionary adaptation mechanisms to their extreme environment can be exploited in bio-technology, and their very existence under such extreme conditions increases the potential for extraterrestrial life.
+
+5.2. Soil microorganisms
+
+The nitrogen cycle in soils depends on the fixation of atmospheric nitrogen. One way this can occur is in the nodules in the roots of legumes that contain symbiotic bacteria of the genera Rhizobium, Mesorhizobium, Sinorhizobium, Bradyrhizobium, and Azorhizobium.
+
+5.3. Symbiotic microorganisms
+
+Symbiotic microorganisms such as fungi and algae form an association in lichen. Certain fungi form mycorrhizal symbioses with trees that increase the supply of nutrients to the tree.
+
+6. Importance
+
+Microorganisms are vital to humans and the environment, as they participate in the carbon and nitrogen cycles, as well as fulfilling other vital roles in virtually all ecosystems, such as recycling other organisms' dead remains and waste products through decomposition. Microorganisms also have an important place in most higher-order multicellular organisms as symbionts. Many blame the failure of Biosphere 2 on an improper balance of microorganisms.
+
+6.1. Use in digestion
+
+Some forms of bacteria that live in animals' stomachs help in their digestion. For example, cows have a variety of different microorganisms in their stomachs that are essential in their digestion of grass and hay.
+
+The gastrointestinal tract contains an immensely complex ecology of microorganisms. A typical person harbors more than 500 distinct species of bacteria, representing dozens of different lifestyles and capabilities. The composition and distribution of this menagerie varies with age, state of health and diet.
+
+The number and type of bacteria in the gastrointestinal tract vary dramatically by region. In healthy individuals the stomach and proximal small intestine contain few microorganisms, largely a result of the bacteriocidal activity of gastric acid; those that are present are aerobes and facultative anaerobes. One interesting testimony to the ability of gastric acid to suppress bacterial populations is seen in patients with achlorhydria, a genetic condition which prevents secretion of gastric acid. Such patients, which are otherwise healthy, may have as many as 10,000 to 100,000,000 microorganisms per ml of stomach contents.
+
+In sharp contrast to the stomach and small intestine, the contents of the colon literally teem with bacteria, predominantly strict anaerobes (bacteria that survive only in environments virtually devoid of oxygen). Between these two extremes is a transitional zone, usually in the ileum, where moderate numbers of both aerobic and anaerobic bacteria are found.
+
+The gastrointestinal tract is sterile at birth, but colonization typically begins within a few hours of birth, starting in the small intestine and progressing caudally over a period of several days. In most circumstances, a "mature" microbial flora is established by 3 to 4 weeks of age.
+
+It is also clear that microbial populations exert a profound effect on structure and function of the digestive tract. For example:
+
+The morphology of the intestine of germ-free animals differs considerably from normal animals - villi of the small intestine are remarkably regular, the rate of epithelial cell renew is reduced and, as one would expect, the number and size of Peyer's patches is reduced. The cecum of germ-free rats is roughly 10 times the size of that in a conventional rat. Bacteria in the intestinal lumen metabolize a variety of sterols and steroids. For example, bacteria convert the bile salt cholic acid to deoxycholic acid. Small intestinal bacteria also have an important role in sex steroid metabolism. Finally, bacterial populations in the large intestine digest carbohydrates, proteins and lipids that escape digestion and absorption in small intestine. This fermentation, particularly of cellulose, is of critical importance to herbivores like cattle and horses which make a living by consuming plants. However, it seems that even species like humans and rodents derive significant benefit from the nutrients liberated by intestinal microorganisms.
+
+6.2. Use in food production
+
+Microorganisms are used in brewing, wine making, baking, pickling and other food-making processes.
+
+They are also used to control the fermentation process in the production of cultured dairy products such as yogurt and cheese. The cultures also provide flavour and aroma, and inhibit undesirable organisms.
+
+6.3. Use in water treatment
+
+The majority of all oxidative sewage treatment processes rely on a large range of microorganisms to oxidise organic constituents which are not amenable to sedimentation or flotation. Anaerobic microorganisms are also used to reduce sludge solids producing methane gas (amongst other gases) and a sterile mineralised residue. In potable water treatment, one method, the slow sand filter, employs a complex gelatinous layer composed of a wide range of microorganisms to remove both dissolved and particulate material from raw water.
+
+6.4. Use in energy
+
+Microorganisms are used in fermentation to produce ethanol, and in biogas reactors to produce methane. Scientists are researching the use of algae to produce liquid fuels, and bacteria to convert various forms of agricultural and urban waste into usable fuels.
+
+6.5. Use in production of chemicals, enzymes etc.
+
+Microorganisms are used for many commercial and industrial production of chemicals, enzymes and other bioactive molecules.
+Examples of organic acid produced include
+
+Acetic acid: Produced by the bacterium Acetobacter aceti and other acetic acid bacteria (AAB)
+
+Butyric acid (butanoic acid): Produced by the bacterium Clostridium butyricum
+
+Lactic acid: Lactobacillus and others commonly called as lactic acid bacteria (LAB)
+
+Citric acid: Produced by the fungus Aspergillus niger Microorganisms are used for preparation of bioactive molecules and enzymes.
+
+Streptokinase produced by the bacterium Streptococcus and modified by genetic engineering is used as a clot buster for removing clots from the blood vessels of patients who have undergone myocardial infarctions leading to heart attack.
+
+Cyclosporin A is a bioactive molecule used as an immunosuppressive agent in organ transplantation
+
+Statins produced by the yeast Monascus purpureus are commercialised as blood cholesterol lowering agents which act by competitively inhibiting the enzyme responsible for synthesis of cholesterol.
+
+6.6. Use in science
+
+Microorganisms are essential tools in biotechnology, biochemistry, genetics, and molecular biology. The yeasts (Saccharomyces cerevisiae) and fission yeast (Schizosaccharomyces pombe) are important model organisms in science, since they are simple eukaryotes that can be grown rapidly in large numbers and are easily manipulated. They are particularly valuable in genetics, genomics and proteomics. Microorganisms can be harnessed for uses such as creating steroids and treating skin diseases. Scientists are also considering using microorganisms for living fuel cells, and as a solution for pollution.
+
+6.7. Use in warfare
+
+In the Middle Ages, diseased corpses were thrown into castles during sieges using catapults or other siege engines. Individuals near the corpses were exposed to the pathogen and were likely to spread that pathogen to others.
+
+7. Importance in human health
+
+7.1. Human digestion
+
+Microorganisms can form an endosymbiotic relationship with other, larger organisms. For example, the bacteria that live within the human digestive system contribute to gut immunity, synthesise vitamins such as folic acid and biotin, and ferment complex indigestible carbohydrates.
+
+7.2. Diseases caused by microbes
+
+Microorganisms are the cause of many infectious diseases. The organisms involved include pathogenic bacteria, causing diseases such as plague, tuberculosis and anthrax; protozoa, causing diseases such as malaria, sleeping sickness, dysentery and toxoplasmosis; and also fungi causing diseases such as ringworm, candidiasis or histoplasmosis. However, other diseases such as influenza, yellow fever or AIDS are caused by pathogenic viruses, which are not usually classified as living organisms and are not, therefore, microorganisms by the strict definition. , no clear examples of archaean pathogens are known, although a relationship has been proposed between the presence of some archaean methanogens and human periodontal disease.
+
+8. Importance in ecology
+
+Microorganisms are critical to the processes of decomposition required to cycle nitrogen and other elements in the natural environment.
+
+9. Hygiene
+
+Hygiene is the avoidance of infection or food spoiling by eliminating microorganisms from the surroundings. As microorganisms, in particular bacteria, are found virtually everywhere, the levels of harmful microorganisms can be reduced to acceptable levels. However, in some cases, it is required that an object or substance be completely sterile, i.e. devoid of all living entities and viruses. A good example of this is a hypodermic needle.
+
+In food preparation microorganisms are reduced by preservation methods (such as the addition of vinegar), clean utensils used in preparation, short storage periods, or by cool temperatures. If complete sterility is needed, the two most common methods are irradiation and the use of an autoclave, which resembles a pressure cooker.
+
+There are several methods for investigating the level of hygiene in a sample of food, drinking water, equipment, etc. Water samples can be filtrated through an extremely fine filter. This filter is then placed in a nutrient medium. Microorganisms on the filter then grow to form a visible colony. Harmful microorganisms can be detected in food by placing a sample in a nutrient broth designed to enrich the organisms in question. Various methods, such as selective media or polymerase chain reaction, can then be used for detection. The hygiene of hard surfaces, such as cooking pots, can be tested by touching them with a solid piece of nutrient medium and then allowing the microorganisms to grow on it.
+
+There are no conditions where all microorganisms would grow, and therefore often several methods are needed. For example, a food sample might be analyzed on three different nutrient mediums designed to indicate the presence of "total" bacteria (conditions where many, but not all, bacteria grow), molds (conditions where the growth of bacteria is prevented by, e.g., antibiotics) and coliform bacteria (these indicate a sewage contamination).
+
+10. See also
+
+Bacterium
+
+Biological warfare
+
+Culture collection
+
+Cyanobacteria
+
+Fungi
+
+Helminths
+
+Microbial biogeography
+
+Microbial intelligence
+
+Nanobacterium
+
+Nylon-eating bacteria
+
+Petri dish
+
+Prokaryote
+
+Protozoa
+
+Soil contamination
+
+Staining
+
+Virus
+
+11. References
+
+12. External links
+
+A free poster from the National Academy of Sciences about the positive roles of micro-organisms.
+
+Report from the American Academy of Microbiology
+
+A 20-page educational booklet providing a basic overview of metagenomics and our microbial planet.
+
+On-line textbook
+
+On-line microbiology textbook by Timothy Paustian and Gary Roberts, University of Wisconsin-Madison

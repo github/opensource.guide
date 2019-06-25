@@ -1,0 +1,171 @@
+The transuranium elements (also known as transuranic elements) are the chemical elements with atomic numbers greater than 92 (the atomic number of uranium). All of these elements are unstable and decay radioactively into other elements.
+
+1. Overview
+
+Of the elements with atomic numbers 1 to 92, all can be found in nature, having stable (such as hydrogen), or very long half-life (such as uranium) isotopes, or are created as common products of the decay of uranium and thorium (such as radon) — only technetium, of the elements below uranium, was man-made for its discovery in 1936.
+
+All of the elements with higher atomic numbers, however, have been first discovered in the laboratory, with neptunium, plutonium, americium, curium, berkelium and californium later also discovered in nature. They are all radioactive, with a half-life much shorter than the age of the Earth, so any atoms of these elements, if they ever were present at the Earth's formation, have long since decayed. Trace amounts of these six elements form in some uranium-rich rock, and small amounts are produced during atmospheric tests of atomic weapons. The Np, Pu, Am, Cm, Bk, and Cf are generated from neutron capture in uranium ore with subsequent beta decays (e.g. 238U + n → 239U → 239Np → 239Pu).
+
+Transuranic elements can be artificially generated synthetic elements, via nuclear reactors or particle accelerators. The half lives of these elements show a general trend of decreasing as atomic numbers increase. There are exceptions, however, including dubnium and several isotopes of curium. Further anomalous elements in this series have been predicted by Glenn T. Seaborg, and are categorised as the “island of stability.”
+
+Heavy transuranic elements are difficult and expensive to produce, and their prices increase rapidly with atomic number. As of 2008, weapons-grade plutonium cost around $4,000/gram, and californium cost $60,000,000/gram. Due to production difficulties, none of the elements beyond californium have industrial applications, and of them, only einsteinium has ever been produced in macroscopic quantities.
+
+Transuranic elements that have not been discovered, or have been discovered but are not yet officially named, use IUPAC's systematic element names. The naming of transuranic elements may be a source of controversy.
+
+2. Discovery and naming of transuranium elements
+
+So far, essentially all the transuranium elements have been produced at three laboratories:
+
+The Radiation Laboratory (now Lawrence Berkeley National Laboratory) at the University of California, Berkeley, led principally by Edwin McMillan, Glenn Seaborg, and Albert Ghiorso, during 1945-1974:
+
+93. neptunium, Np, named after the planet Neptune, as it follows uranium and Neptune follows Uranus in the planetary sequence (1940).
+
+94. plutonium, Pu, named after the dwarf planet Pluto, following the same naming rule as it follows neptunium and Pluto follows Neptune in the pre-2006 planetary sequence (1940).
+
+95. americium, Am, named because it is an analog to europium, and so was named after the continent where it was first produced (1944).
+
+96. curium, Cm, named after Pierre and Marie Curie, famous scientists who separated out the first radioactive elements (1944).
+
+97. berkelium, Bk, named after the city of Berkeley, where the University of California, Berkeley is located (1949).
+
+98. californium, Cf, named after the state of California, where the university is located (1950).
+
+99. einsteinium, Es, named after the theoretical physicist Albert Einstein (1952).
+
+100. fermium, Fm, named after Enrico Fermi, the physicist who produced the first controlled chain reaction (1952).
+
+101. mendelevium, Md, named after the Russian chemist Dmitri Mendeleev, credited for being the primary creator of the periodic table of the chemical elements (1955).
+
+102. nobelium, No, named after Alfred Nobel (1956).
+
+103. lawrencium, Lr, named after Ernest O. Lawrence, a physicist best known for development of the cyclotron, and the person for whom the Lawrence Livermore National Laboratory and the Lawrence Berkeley National Laboratory (which hosted the creation of these transuranium elements) are named (1961).
+
+104. rutherfordium, Rf, named after Ernest Rutherford, who was responsible for the concept of the atomic nucleus (1968). This discovery was also claimed by the Joint Institute for Nuclear Research (JINR) in Dubna, Russia (then the Soviet Union), led principally by G. N. Flerov.
+
+105. dubnium, Db, an element that is named after the city of Dubna, where the JINR is located. Originally named "hahnium" in honor of Otto Hahn (1970) but renamed by the International Union of Pure and Applied Chemistry. This discovery was also claimed by the JINR.
+
+106. seaborgium, Sg, named after Glenn T. Seaborg. This name caused controversy because Seaborg was still alive, but eventually became accepted by international chemists (1974). This discovery was also claimed by the JINR.
+
+The Gesellschaft für Schwerionenforschung (Society for Heavy Ion Research) in Darmstadt, Hessen, Germany, led principally by Peter Armbruster and Sigurd Hofmann, during 1980-2000:
+
+107. bohrium, Bh, named after the Danish physicist Niels Bohr, important in the elucidation of the structure of the atom (1981). This discovery was also claimed by the JINR.
+
+108. hassium, Hs, named after the Latin form of the name of Hessen, the German Bundesland where this work was performed (1984).
+
+109. meitnerium, Mt, named after Lise Meitner, an Austrian physicist who was one of the earliest scientists to become involved in the study of nuclear fission (1982).
+
+110. darmstadtium, Ds, named after Darmstadt, Germany, the city in which this work was performed (1994).
+
+111. roentgenium, Rg, named after Wilhelm Conrad Röntgen, discoverer of X-rays (1994).
+
+112. copernicium, Cn, named after astronomer Nicolaus Copernicus (1996).
+
+The Joint Institute for Nuclear Research (JINR) in Dubna, Russia, led principally by Y. Oganessian, in collaboration with several other laboratories including the Lawrence Livermore National Laboratory (LLNL), since 2000:
+
+113. ununtrium, Uut, temporary name, (2003).
+
+114. flerovium, Fl, named after Soviet physicist Georgy Flyorov, founder of the JINR (1999).
+
+115. ununpentium, Uup, temporary name, (2003).
+
+116. livermorium, Lv, named after the Lawrence Livermore National Laboratory, a collaborator with JINR in the discovery, (2000).
+
+117. ununseptium, Uus, temporary name, (2010).
+
+118. ununoctium, Uuo, temporary name, (2002). The temporary names listed above are generic names assigned according to a convention (the systematic element names). They will be replaced by permanent names as the elements are confirmed by independent work.
+
+3. List of the transuranic elements by chemical series
+
+Actinides
+
+93 neptunium Np
+
+94 plutonium Pu
+
+95 americium Am
+
+96 curium Cm
+
+97 berkelium Bk
+
+98 californium Cf
+
+99 einsteinium Es
+
+100 fermium Fm
+
+101 mendelevium Md
+
+102 nobelium No
+
+103 lawrencium Lr
+
+Transactinide elements
+
+104 rutherfordium Rf
+
+105 dubnium Db
+
+106 seaborgium Sg
+
+107 bohrium Bh
+
+108 hassium Hs
+
+109 meitnerium Mt
+
+110 darmstadtium Ds
+
+111 roentgenium Rg
+
+112 copernicium Cn
+
+113 ununtrium Uut*
+
+114 flerovium Fl
+
+115 ununpentium Uup*
+
+116 livermorium Lv
+
+117 ununseptium Uus*
+
+118 ununoctium Uuo*
+
+Period 8 elements
+
+none yet discovered.
+
+The names and symbols of elements 113, 115, 117, and 118 are provisional until permanent names for the elements are decided on, usually within a year after the discovery acknowledgement by IUPAC.
+
+4. Super-heavy elements
+
+Super-heavy elements, (also known as super heavy atoms, commonly abbreviated SHE) may refer to elements beyond atomic number 100, but also may refer to all transuranium elements. The transactinide elements begin with rutherfordium (atomic number 104). They have only been made artificially, and currently serve no practical purpose because their short half-lives cause them to decay after a very short time, ranging from a few minutes to just a few milliseconds (except for dubnium, which has a half life of over a day), which also makes them extremely hard to study.
+
+Super-heavy atoms have all been created during the latter half of the 20th century and are continually being created during the 21st century as technology advances. They are created through the bombardment of elements in a particle accelerator. For example, the nuclear fusion of californium-249 and carbon-12 creates rutherfordium. These elements are created in quantities on the atomic scale and no method of mass creation has been found.
+
+5. See also
+
+Bose–Einstein condensate (also known as Superatom)
+
+Island of stability
+
+Minor actinides
+
+Waste Isolation Pilot Plant, repository for transuranic waste
+
+Extension of the periodic table beyond the seventh period
+
+6. References
+
+7. Further reading
+
+Eric Scerri, A Very Short Introduction to the Periodic Table, Oxford University Press, Oxford, 2011.
+
+from the Alsos Digital Library for Nuclear Issues.
+
+(network of the European integrated infrastructure initiative EURONS)
+
+Christian Schnier, Joachim Feuerborn, Bong-Jun Lee: Traces of transuranium elements in terrestrial minerals? ([ftp://ftp.hzg.de/pub/schnier/1-Transuranium%20.pdf Online], PDF-Datei, 493 kB)
+
+Christian Schnier, Joachim Feuerborn, Bong-Jun Lee: The search for super heavy elements (SHE) in terrestrial minerals using XRF with high energy synchrotron radiation. ([ftp://ftp.hzg.de/pub/schnier/2-SHE.pdf Online], PDF-Datei, 446 kB)

@@ -1,0 +1,265 @@
+The Universal Mobile Telecommunications System (UMTS) is a third generation mobile cellular system for networks based on the GSM standard. Developed and maintained by the 3GPP (3rd Generation Partnership Project), UMTS is a component of the International Telecommunications Union IMT-2000 standard set and compares with the CDMA2000 standard set for networks based on the competing cdmaOne technology. UMTS uses wideband code division multiple access (W-CDMA) radio access technology to offer greater spectral efficiency and bandwidth to mobile network operators.
+
+UMTS specifies a complete network system, which includes the radio access network (UMTS Terrestrial Radio Access Network, or UTRAN), the core network (Mobile Application Part, or MAP) and the authentication of users via SIM (subscriber identity module) cards.
+
+The technology described in UMTS is sometimes also referred to as Freedom of Mobile Multimedia Access (FOMA) or 3GSM.
+
+Unlike EDGE (IMT Single-Carrier, based on GSM) and CDMA2000 (IMT Multi-Carrier), UMTS requires new base stations and new frequency allocations.
+
+1. Features
+
+UMTS supports maximum theoretical data transfer rates of 42 Mbit/s when HSPA+ is implemented in the network. Users in deployed networks can expect a transfer rate of up to 384 kbit/s for Release '99 (R99) handsets (the original UMTS release), and 7.2 Mbit/s for HSDPA handsets in the downlink connection. These speeds are significantly faster than the 9.6 kbit/s of a single GSM error-corrected circuit switched data channel, multiple 9.6 kbit/s channels in HSCSD and 14.4 kbit/s for CDMAOne channels.
+
+Since 2006, UMTS networks in many countries have been or are in the process of being upgraded with High Speed Downlink Packet Access (HSDPA), sometimes known as 3.5G. Currently, HSDPA enables downlink transfer speeds of up to 21 Mbit/s. Work is also progressing on improving the uplink transfer speed with the High-Speed Uplink Packet Access (HSUPA). Longer term, the 3GPP Long Term Evolution (LTE) project plans to move UMTS to 4G speeds of 100 Mbit/s down and 50 Mbit/s up, using a next generation air interface technology based upon orthogonal frequency-division multiplexing.
+
+The first national consumer UMTS networks launched in 2002 with a heavy emphasis on telco-provided mobile applications such as mobile TV and video calling. The high data speeds of UMTS are now most often utilised for Internet access: experience in Japan and elsewhere has shown that user demand for video calls is not high, and telco-provided audio/video content has declined in popularity in favour of high-speed access to the World Wide Web—either directly on a handset or connected to a computer via Wi-Fi, Bluetooth or USB.
+
+2. Technology
+
+UMTS combines three different air interfaces, GSM's Mobile Application Part (MAP) core, and the GSM family of speech codecs.
+
+2.1. Air interfaces
+
+UMTS provides several different terrestrial air interfaces, called UMTS Terrestrial Radio Access (UTRA). All air interface options are part of ITU's IMT-2000. In the currently most popular variant for cellular mobile telephones, W-CDMA (IMT Direct Spread) is used.
+
+Please note that the terms W-CDMA, TD-CDMA and TD-SCDMA are misleading. While they suggest covering just a channel access method (namely a variant of CDMA), they are actually the common names for the whole air interface standards.
+
+2.1.1. W-CDMA (UTRA-FDD)
+
+W-CDMA uses the DS-CDMA channel access method with a pair of 5 MHz wide channels. In contrast, the competing CDMA2000 system uses one or more available 1.25 MHz channels for each direction of communication. W-CDMA systems are widely criticized for their large spectrum usage, which has delayed deployment in countries that acted relatively slowly in allocating new frequencies specifically for 3G services (such as the United States).
+
+The specific frequency bands originally defined by the UMTS standard are 1885–2025 MHz for the mobile-to-base (uplink) and 2110–2200 MHz for the base-to-mobile (downlink). In the US, 1710–1755 MHz and 2110–2155 MHz are used instead, as the 1900 MHz band was already used. While UMTS2100 is the most widely deployed UMTS band, some countries' UMTS operators use the 850 MHz and/or 1900 MHz bands (independently, meaning uplink and downlink are within the same band), notably in the US by AT&T Mobility, New Zealand by Telecom New Zealand on the XT Mobile Network and in Australia by Telstra on the Next G network. Some carriers such as T-Mobile use band numbers to identify the UMTS frequencies. For example, Band I (2100 MHz), Band IV (1700/2100 MHz), and Band V (850 MHz).
+
+W-CDMA is a part of IMT-2000 as IMT Direct Spread.
+
+2.1.2. TD-CDMA (UTRA-TDD 3.84 Mcps High Chip Rate (HCR))
+
+UMTS-TDD's air interfaces that use the TD-CDMA channel access technique are standardized as UTRA-TDD HCR, which uses increments of 5 MHz of spectrum, each slice divided into 10ms frames containing fifteen time slots (1500 per second). The time slots (TS) are allocated in fixed percentage for downlink and uplink. TD-CDMA is used to multiplex streams from or to multiple transceivers. Unlike W-CDMA, it does not need separate frequency bands for up- and downstream, allowing deployment in tight frequency bands.
+
+TD-CDMA is a part of IMT-2000 as IMT CDMA TDD.
+
+2.1.3. TD-SCDMA (UTRA-TDD 1.28 Mcps Low Chip Rate (LCR))
+
+TD-SCDMA uses the TDMA channel access method combined with an adaptive synchronous CDMA component on 1.6 MHz slices of spectrum, allowing deployment in even tighter frequency bands than TD-CDMA. However, the main incentive for development of this Chinese-developed standard was avoiding or reducing the license fees that have to be paid to non-Chinese patent owners. Unlike the other air interfaces, TD-SCDMA was not part of UMTS from the beginning but has been added in Release 4 of the specification.
+
+Like TD-CDMA, TD-SCDMA is known as IMT CDMA TDD within IMT-2000.
+
+2.2. Radio access network
+
+UMTS also specifies the Universal Terrestrial Radio Access Network (UTRAN), which is composed of multiple base stations, possibly using different terrestrial air interface standards and frequency bands.
+
+UMTS and GSM/EDGE can share a Core Network (CN), making UTRAN an alternative radio access network to GERAN (GSM/EDGE RAN), and allowing (mostly) transparent switching between the RANs according to available coverage and service needs. Because of that, UMTS's and GSM/EDGE's radio access networks are sometimes collectively referred to as UTRAN/GERAN.
+
+UMTS networks are often combined with GSM/EDGE, the latter of which is also a part of IMT-2000.
+
+The UE (User Equipment) interface of the RAN (Radio Access Network) primarily consists of RRC (Radio Resource Control), RLC (Radio Link Control) and MAC (Media Access Control) protocols. RRC protocol handles connection establishment, measurements, radio bearer services, security and handover decisions. RLC protocol primarily divides into three Modes—Transparent Mode (TM), Unacknowledge Mode (UM), Acknowledge Mode (AM). The functionality of AM entity resembles TCP operation whereas UM operation resembles UDP operation. In TM mode, data will be sent to lower layers without adding any header to SDU of higher layers. MAC handles the scheduling of data on air interface depending on higher layer (RRC) configured parameters.
+
+The set of properties related to data transmission is called Radio Bearer (RB). This set of properties decides the maximum allowed data in a TTI (Transmission Time Interval). RB includes RLC information and RB mapping. RB mapping decides the mapping between RB<->logical channel<->transport channel. Signaling messages are sent on Signaling Radio Bearers (SRBs) and data packets (either CS or PS) are sent on data RBs. RRC and NAS messages go on SRBs.
+
+Security includes two procedures: integrity and ciphering. Integrity validates the resource of messages and also makes sure that no one (third/unknown party) on the radio interface has modified the messages. Ciphering ensures that no one listens to your data on the air interface. Both integrity and ciphering are applied for SRBs whereas only ciphering is applied for data RBs.
+
+2.3. Core network
+
+With Mobile Application Part, UMTS uses the same core network standard as GSM/EDGE. This allows a simple migration for existing GSM operators. However, the migration path to UMTS is still costly: while much of the core infrastructure is shared with GSM, the cost of obtaining new spectrum licenses and overlaying UMTS at existing towers is high.
+
+The CN can be connected to various backbone networks, such as the Internet or an Integrated Services Digital Network (ISDN) telephone network. UMTS (and GERAN) include the three lowest layers of OSI model. The network layer (OSI 3) includes the Radio Resource Management protocol (RRM) that manages the bearer channels between the mobile terminals and the fixed network, including the handovers.
+
+3. Spectrum allocation
+
+Over 130 licenses have already been awarded to operators worldwide (as of December 2004), specifying W-CDMA radio access technology that builds on GSM. In Europe, the license process occurred at the tail end of the technology bubble, and the auction mechanisms for allocation set up in some countries resulted in some extremely high prices being paid for the original 2100 MHz licenses, notably in the UK and Germany. In Germany, bidders paid a total €50.8 billion for six licenses, two of which were subsequently abandoned and written off by their purchasers (Mobilcom and the Sonera/Telefonica consortium). It has been suggested that these huge license fees have the character of a very large tax paid on future income expected many years down the road. In any event, the high prices paid put some European telecom operators close to bankruptcy (most notably KPN). Over the last few years some operators have written off some or all of the license costs. Between 2007 and 2009, all three Finnish carriers began to use 900 MHz UMTS in a shared arrangement with its surrounding 2G GSM base stations for rural area coverage, a trend that is expected to expand over Europe in the next 1–3 years.
+
+The 2100 MHz band (downlink around 2100 MHz and uplink around 1900 MHz) allocated for UMTS in Europe and most of Asia is already used in North America. The 1900 MHz range is used for 2G (PCS) services, and 2100 MHz range is used for satellite communications. Regulators have, however, freed up some of the 2100 MHz range for 3G services, together with a different range around 1700 MHz for the uplink.
+
+AT&T Wireless launched UMTS services in the United States by the end of 2004 strictly using the existing 1900 MHz spectrum allocated for 2G PCS services. Cingular acquired AT&T Wireless in 2004 and has since then launched UMTS in select US cities. Cingular renamed itself AT&T Mobility and is rolling out some cities with a UMTS network at 850 MHz to enhance its existing UMTS network at 1900 MHz and now offers subscribers a number of dual-band UMTS 850/1900 phones.
+
+T-Mobile's rollout of UMTS in the US focused on the 1700 MHz band.
+
+In Canada, UMTS coverage is being provided on the 850 MHz and 1900 MHz bands on the Rogers and Bell-Telus networks. Bell and Telus share the network. Recently, new providers Wind Mobile, Mobilicity and Videotron have begun operations in the 1700 MHz band.
+
+In 2008, Australian telco Telstra replaced its existing CDMA network with a national UMTS-based 3G network, branded as NextG, operating in the 850 MHz band. Telstra currently provides UMTS service on this network, and also on the 2100 MHz UMTS network, through a co-ownership of the owning and administrating company 3GIS. This company is also co-owned by Hutchison 3G Australia, and this is the primary network used by their customers. Optus is currently rolling out a 3G network operating on the 2100 MHz band in cities and most large towns, and the 900 MHz band in regional areas. Vodafone is also building a 3G network using the 900 MHz band.
+
+In India, BSNL has started its 3G services since October 2009, beginning with the larger cities and then expanding over to smaller cities. The 850 MHz and 900 MHz bands provide greater coverage compared to equivalent 1700/1900/2100 MHz networks, and are best suited to regional areas where greater distances separate base station and subscriber.
+
+Carriers in South America are now also rolling out 850 MHz networks.
+
+4. Interoperability and global roaming
+
+UMTS phones (and data cards) are highly portable—they have been designed to roam easily onto other UMTS networks (if the providers have roaming agreements in place). In addition, almost all UMTS phones are UMTS/GSM dual-mode devices, so if a UMTS phone travels outside of UMTS coverage during a call the call may be transparently handed off to available GSM coverage. Roaming charges are usually significantly higher than regular usage charges.
+
+Most UMTS licensees consider ubiquitous, transparent global roaming an important issue. To enable a high degree of interoperability, UMTS phones usually support several different frequencies in addition to their GSM fallback. Different countries support different UMTS frequency bands – Europe initially used 2100 MHz while the most carriers in the USA use 850   MHz and 1900   MHz. T-Mobile has launched a network in the US operating at 1700 MHz (uplink) /2100 MHz (downlink), and these bands are also being adopted elsewhere in the Americas. A UMTS phone and network must support a common frequency to work together. Because of the frequencies used, early models of UMTS phones designated for the United States will likely not be operable elsewhere and vice versa. There are now 11 different frequency combinations used around the world—including frequencies formerly used solely for 2G services.
+
+UMTS phones can use a Universal Subscriber Identity Module, USIM (based on GSM's SIM) and also work (including UMTS services) with GSM SIM cards. This is a global standard of identification, and enables a network to identify and authenticate the (U)SIM in the phone. Roaming agreements between networks allow for calls to a customer to be redirected to them while roaming and determine the services (and prices) available to the user. In addition to user subscriber information and authentication information, the (U)SIM provides storage space for phone book contact. Handsets can store their data on their own memory or on the (U)SIM card (which is usually more limited in its phone book contact information). A (U)SIM can be moved to another UMTS or GSM phone, and the phone will take on the user details of the (U)SIM, meaning it is the (U)SIM (not the phone) which determines the phone number of the phone and the billing for calls made from the phone.
+
+Japan was the first country to adopt 3G technologies, and since they had not used GSM previously they had no need to build GSM compatibility into their handsets and their 3G handsets were smaller than those available elsewhere. In 2002, NTT DoCoMo's FOMA 3G network was the first commercial UMTS network—using a pre-release specification, it was initially incompatible with the UMTS standard at the radio level but used standard USIM cards, meaning USIM card based roaming was possible (transferring the USIM card into a UMTS or GSM phone when travelling). Both NTT DoCoMo and SoftBank Mobile (which launched 3G in December 2002) now use standard UMTS.
+
+4.1. Handsets and modems
+
+All of the major 2G phone manufacturers (that are still in business) are now manufacturers of 3G phones. The early 3G handsets and modems were specific to the frequencies required in their country, which meant they could only roam to other countries on the same 3G frequency (though they can fall back to the older GSM standard). Canada and USA have a common share of frequencies, as do most European countries. The article UMTS frequency bands is an overview of UMTS network frequencies around the world.
+
+Using a cellular router, PCMCIA or USB card, customers are able to access 3G broadband services, regardless of their choice of computer (such as a tablet PC or a PDA). Some software installs itself from the modem, so that in some cases absolutely no knowledge of technology is required to get online in moments. Using a phone that supports 3G and Bluetooth 2.0, multiple Bluetooth-capable laptops can be connected to the Internet. Some smartphones can also act as a mobile WLAN access point.
+
+There are very few 3G phones or modems available supporting all 3G frequencies (UMTS850/900/1700/1900/2100 MHz). Nokia has recently released a range of phones that have Pentaband 3G coverage, including the N8 and E7. Many other phones are offering more than one band which still enables extensive roaming. For example, Apple's iPhone 4 contains a quadband chipset operating on 850/900/1900/2100 MHz, allowing usage in the majority of countries where UMTS-FDD is deployed.
+
+5. Other competing standards
+
+The main competitor to UMTS is CDMA2000 (IMT-MC), which is developed by the 3GPP2. Unlike UMTS, CDMA2000 is an evolutionary upgrade to an existing 2G standard, cdmaOne, and is able to operate within the same frequency allocations. This and CDMA2000's narrower bandwidth requirements make it easier to deploy in existing spectra. In some, but not all, cases, existing GSM operators only have enough spectrum to implement either UMTS or GSM, not both. For example, in the US , the amount of spectrum available is 5 MHz in each direction. A standard UMTS system would saturate that spectrum. Where CDMA2000 is deployed, it usually co-exists with UMTS. In many markets however, the co-existence issue is of little relevance, as legislative hurdles exist to co-deploying two standards in the same licensed slice of spectrum.
+
+Another competitor to UMTS is EDGE (IMT-SC), which is an evolutionary upgrade to the 2G GSM system, leveraging existing GSM spectrums. It is also much easier, quicker, and considerably cheaper for wireless carriers to "bolt-on" EDGE functionality by upgrading their existing GSM transmission hardware to support EDGE rather than having to install almost all brand-new equipment to deliver UMTS. However, being developed by 3GPP just as UMTS, EDGE is not a true competitor. Instead, it is used as a temporary solution preceding UMTS roll-out or as a complement for rural areas. This is facilitated by the fact that GSM/EDGE and UMTS specification are jointly developed and rely on the same core network, allowing dual-mode operation including vertical handovers.
+
+China's TD-SCDMA standard is often seen as a competitor, too. TD-SCDMA has been added to UMTS' Release 4 as UTRA-TDD 1.28 Mcps Low Chip Rate (UTRA-TDD LCR). Unlike TD-CDMA (UTRA-TDD 3.84 Mcps High Chip Rate, UTRA-TDD HCR) which complements W-CDMA (UTRA-FDD), it is suitable for both micro and macro cells. However, the lack of vendors' support is preventing it from being a real competitor.
+
+While DECT is technically capable of competing with UMTS and other cellular networks in densely populated, urban areas, it has only been deployed for domestic cordless phones and private in-house networks.
+
+All of these competitors have been accepted by ITU as part of the IMT-2000 family of 3G standards, along with UMTS-FDD.
+
+On the Internet access side, competing systems include WiMAX and Flash-OFDM.
+
+6. Migrating from GSM/GPRS to UMTS
+
+From a GSM/GPRS network, the following network elements can be reused:
+
+Home Location Register (HLR)
+
+Visitor Location Register (VLR)
+
+Equipment Identity Register (EIR)
+
+Mobile Switching Center (MSC) (vendor dependent)
+
+Authentication Center (AUC)
+
+Serving GPRS Support Node (SGSN) (vendor dependent)
+
+Gateway GPRS Support Node (GGSN) From a GSM/GPRS communication radio network, the following elements cannot be reused:
+
+Base station controller (BSC)
+
+Base transceiver station (BTS) They can remain in the network and be used in dual network operation where 2G and 3G networks co-exist while network migration and new 3G terminals become available for use in the network.
+
+The UMTS network introduces new network elements that function as specified by 3GPP:
+
+Node B (base transceiver station)
+
+Radio Network Controller (RNC)
+
+Media Gateway (MGW) The functionality of MSC and SGSN changes when going to UMTS. In a GSM system the MSC handles all the circuit switched operations like connecting A- and B-subscriber through the network. SGSN handles all the packet switched operations and transfers all the data in the network. In UMTS the Media gateway (MGW) take care of all data transfer in both circuit and packet switched networks. MSC and SGSN control MGW operations. The nodes are renamed to MSC-server and GSN-server.
+
+7. Problems and issues
+
+Some countries, including the United States, have allocated spectrum differently from the ITU recommendations, so that the standard bands most commonly used for UMTS (UMTS-2100) have not been available. In those countries, alternative bands are used, preventing the interoperability of existing UMTS-2100 equipment, and requiring the design and manufacture of different equipment for the use in these markets. As is the case with GSM900 today, standard UMTS 2100 MHz equipment will not work in those markets. However, it appears as though UMTS is not suffering as much from handset band compatibility issues as GSM did, as many UMTS handsets are multi-band in both UMTS and GSM modes. Penta-band (850, 900, 1700 / 2100, and 1900 MHz bands), quad-band GSM (850, 900, 1800, and 1900 MHz bands) and tri-band UMTS (850, 1900, and 2100 MHz bands) handsets are becoming more commonplace.
+
+In its early days, UMTS had problems in many countries: Overweight handsets with poor battery life were first to arrive on a market highly sensitive to weight and form factor. The Motorola A830, a debut handset on Hutchison's 3 network, weighed more than 200 grams and even featured a detachable camera to reduce handset weight. Another significant issue involved call reliability, related to problems with handover from UMTS to GSM. Customers found their connections being dropped as handovers were possible only in one direction (UMTS → GSM), with the handset only changing back to UMTS after hanging up. In most networks around the world this is no longer an issue.
+
+Compared to GSM, UMTS networks initially required a higher base station density. For fully-fledged UMTS incorporating video on demand features, one base station needed to be set up every 1–1.5 km (0.62–0.93 mi). This was the case when only the 2100 MHz band was being used, however with the growing use of lower-frequency bands (such as 850 and 900 MHz) this is no longer so. This has led to increasing rollout of the lower-band networks by operators since 2006.
+
+Even with current technologies and low-band UMTS, telephony and data over UMTS requires more power than on comparable GSM networks. Apple Inc. cited UMTS power consumption as the reason that the first generation iPhone only supported EDGE. Their release of the iPhone 3G quotes talk time on UMTS as half that available when the handset is set to use GSM. Other manufacturers indicate different battery lifetime for UMTS mode compared to GSM mode as well. As battery and network technology improve, this issue is diminishing.
+
+7.1. Security issues
+
+As early as 2008 it was known that carrier networks can be used to surreptitiously gather user location information. In August 2014, the Washington Post reported on widespread marketing of surveillance systems using Signalling System No. 7 (SS7) protocols to locate callers anywhere in the world.
+
+In December 2014, news broke that SS7's very own functions can be repurposed for surveillance, because of its lax security, in order to listen to calls in real time or to record encrypted calls and texts for later decryption,or to defraud users and cellular carriers.
+
+The German Telekom and Vodafone declared the same day that they had fixed gaps in their networks, but that the problem is global and can only be fixed with a telecommunication system-wide solution.
+
+8. Releases
+
+The evolution of UMTS progresses according to planned releases. Each release is designed to introduce new features and improve upon existing ones.
+
+8.1. Release '99
+
+Bearer services
+
+64 kbit/s circuit switch
+
+384 kbit/s packet switched
+
+Location services
+
+Call service: compatible with Global System for Mobile Communications (GSM), based on Universal Subscriber Identity Module (USIM)
+
+Voice quality features – Tandem Free Operation
+
+8.2. Release 4
+
+Edge radio
+
+Multimedia messaging
+
+MExE (Mobile Execution Environment)
+
+Improved location services
+
+IP Multimedia Services (IMS)
+
+TD-SCDMA (UTRA-TDD 1.28 Mcps low chip rate)
+
+8.3. Release 5
+
+IP Multimedia Subsystem (IMS)
+
+IPv6, IP transport in UTRAN
+
+Improvements in GERAN, MExE, etc.
+
+HSDPA
+
+8.4. Release 6
+
+WLAN integration
+
+Multimedia broadcast and multicast
+
+Improvements in IMS
+
+HSUPA
+
+Fractional DPCH
+
+8.5. Release 7
+
+Enhanced L2
+
+64 QAM, MIMO
+
+Voice over HSPA
+
+CPC – continuous packet connectivity
+
+FRLC – Flexible RLC
+
+8.6. Release 8
+
+Dual-Cell HSDPA
+
+8.7. Release 9
+
+Dual-Cell HSUPA
+
+9. See also
+
+10. Notes
+
+11. References
+
+11.1. Citations
+
+11.2. Bibliography
+
+Martin Sauter: Communication Systems for the Mobile Information Society, John Wiley, September 2006, ISBN 0-470-02676-6
+
+Ahonen and Barrett (editors), Services for UMTS (Wiley, 2002) first book on the services for 3G, ISBN 978-0-471-48550-6
+
+Holma and Toskala (editors), WCDMA for UMTS, (Wiley, 2000) first book dedicated to 3G technology, ISBN 978-0-471-72051-5
+
+Kreher and Ruedebusch, UMTS Signaling: UMTS Interfaces, Protocols, Message Flows and Procedures Analyzed and Explained (Wiley 2007), ISBN 978-0-470-06533-4
+
+Laiho, Wacker and Novosad, Radio Network Planning and Optimization for UMTS (Wiley, 2002) first book on radio network planning for 3G, ISBN 978-0-470-01575-9
+
+12. External links
+
+on UMTS World
+
+on UMTS World
+
+The Global UMTS TDD Alliance

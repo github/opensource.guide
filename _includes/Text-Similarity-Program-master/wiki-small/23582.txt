@@ -1,0 +1,137 @@
+In mathematics, especially in order theory, a preorder or quasiorder is a binary relation that is reflexive and transitive. All partial orders and equivalence relations are preorders, but preorders are more general.
+
+The name 'preorder' comes from the idea that preorders (that are not partial orders) are 'almost' (partial) orders, but not quite; they're neither necessarily anti-symmetric nor symmetric. Because a preorder is a binary relation, the symbol ≤ can be used as the notational device for the relation. However, because they are not necessarily anti-symmetric, some of the ordinary intuition associated to the symbol ≤ may not apply. On the other hand, a preorder can be used, in a straightforward fashion, to define a partial order and an equivalence relation. Doing so, however, is not always useful or worthwhile, depending on the problem domain being studied.
+
+In words, when a ≤ b, one may say that b covers a or that a precedes b, or that b reduces to a. Occasionally, the notation ← or is used instead of ≤.
+
+To every preorder, there corresponds a directed graph, with elements of the set corresponding to vertices, and the order relation between pairs of elements corresponding to the directed edges between vertices. The converse is not true: most directed graphs are neither reflexive nor transitive. Note that, in general, the corresponding graphs may be cyclic graphs: preorders may have cycles in them. A preorder that is antisymmetric no longer has cycles; it is a partial order, and corresponds to a directed acyclic graph. A preorder that is symmetric is an equivalence relation; it can be thought of as having lost the direction markers on the edges of the graph. In general, a preorder may have many disconnected components.
+
+1. Formal definition
+
+Consider some set P and a binary relation ≤ on P. Then ≤ is a preorder, or quasiorder, if it is reflexive and transitive, i.e., for all a, b and c in P, we have that:
+
+A set that is equipped with a preorder is called a preordered set (or proset).
+
+If a preorder is also antisymmetric, that is, a ≤ b and b ≤ a implies a = b, then it is a partial order.
+
+On the other hand, if it is symmetric, that is, if a ≤ b implies b ≤ a, then it is an equivalence relation.
+
+A preorder which is preserved in all contexts (i.e. respected by all functions on P) is called a precongruence. A precongruence which is also symmetric (i.e. is an equivalence relation) is a congruence relation.
+
+Equivalently, a preordered set P can be defined as a category with objects the elements of P, and each hom-set having at most one element (one for objects which are related, zero otherwise).
+
+Alternately, a preordered set can be understood as an enriched category, enriched over the category 2 = (0→1).
+
+A preordered class is a class equipped with a preorder. Every set is a class and so every preordered set is a preordered class. Preordered classes can be defined as thin categories, i.e. as categories with at most one morphism from an object to another.
+
+2. Examples
+
+The reachability relationship in any directed graph (possibly containing cycles) gives rise to a preorder, where x ≤ y in the preorder if and only if there is a path from x to y in the directed graph. Conversely, every preorder is the reachability relationship of a directed graph (for instance, the graph that has an edge from x to y for every pair (x, y) with x ≤ y). However, many different graphs may have the same reachability preorder as each other. In the same way, reachability of directed acyclic graphs, directed graphs with no cycles, gives rise to partially ordered sets (preorders satisfying an additional anti-symmetry property).
+
+Every finite topological space gives rise to a preorder on its points, in which x ≤ y if and only if x belongs to every neighborhood of y, and every finite preorder can be formed as the specialization preorder of a topological space in this way. That is, there is a 1-to-1 correspondence between finite topologies and finite preorders. However, the relation between infinite topological spaces and their specialization preorders is not 1-to-1.
+
+A net is a directed preorder, that is, each pair of elements has an upper bound. The definition of convergence via nets is important in topology, where preorders cannot be replaced by partially ordered sets without losing important features.
+
+The relation defined by if , where f is a function into some preorder.
+
+The relation defined by if there exists some injection from x to y. Injection may be replaced by surjection, or any type of structure-preserving function, such as ring homomorphism, or permutation.
+
+The embedding relation for countable total orderings.
+
+The graph-minor relation in graph theory.
+
+A category with at most one morphism from any object to any other object is a preorder. Such categories are called thin. In this sense, categories "generalize" preorders by allowing more than one relation between objects: each morphism is a distinct (named) preorder relation. In computer science, one can find examples of the following preorders.
+
+Many-one and Turing reductions are preorders on complexity classes.
+
+The subtyping relations are usually preorders.
+
+Simulation preorders are preorders (hence the name).
+
+Reduction relations in abstract rewriting systems.
+
+The encompassment preorder on the set of terms, defined by s≤t if a subterm of t is a substitution instance of s. Example of a total preorder:
+
+Preference, according to common models.
+
+3. Uses
+
+Preorders play a pivotal role in several situations:
+
+Every preorder can be given a topology, the Alexandrov topology; and indeed, every preorder on a set is in one-to-one correspondence with an Alexandrov topology on that set.
+
+Preorders may be used to define interior algebras.
+
+Preorders provide the Kripke semantics for certain types of modal logic.
+
+4. Constructions
+
+Every binary relation R on a set S can be extended to a preorder on S by taking the transitive closure and reflexive closure, R+=. The transitive closure indicates path connection in R: x R+ y if and only if there is an R-path from x to y.
+
+Given a preorder on S one may define an equivalence relation ~ on S such that a ~ b if and only if a b and b a. (The resulting relation is reflexive since a preorder is reflexive, transitive by applying transitivity of the preorder twice, and symmetric by definition.)
+
+Using this relation, it is possible to construct a partial order on the quotient set of the equivalence, S / ~, the set of all equivalence classes of ~. Note that if the preorder is R+=, S / ~ is the set of R-cycle equivalence classes: x ∈ [y] if and only if x = y or x is in an R-cycle with y. In any case, on S / ~ we can define [x] ≤ [y] if and only if x y. By the construction of ~, this definition is independent of the chosen representatives and the corresponding relation is indeed well-defined. It is readily verified that this yields a partially ordered set.
+
+Conversely, from a partial order on a partition of a set S one can construct a preorder on S. There is a 1-to-1 correspondence between preorders and pairs (partition, partial order).
+
+For a preorder "", a relation "<" can be defined as a < b if and only if (a b and not b a), or equivalently, using the equivalence relation introduced above, (a b and not a ~ b). It is a strict partial order; every strict partial order can be the result of such a construction. If the preorder is anti-symmetric, hence a partial order "≤", the equivalence is equality, so the relation "<" can also be defined as a < b if and only if (a ≤ b and a ≠ b).
+
+(Alternatively, for a preorder "", a relation "<" can be defined as a < b if and only if (a b and a ≠ b). The result is the reflexive reduction of the preorder. However, if the preorder is not anti-symmetric the result is not transitive, and if it is, as we have seen, it is the same as before.)
+
+Conversely we have a b if and only if a < b or a ~ b. This is the reason for using the notation ""; "≤" can be confusing for a preorder that is not anti-symmetric, it may suggest that a ≤ b implies that a < b or a = b.
+
+Note that with this construction multiple preorders "" can give the same relation "<", so without more information, such as the equivalence relation, "" cannot be reconstructed from "<". Possible preorders include the following:
+
+Define a ≤ b as a < b or a = b (i.e., take the reflexive closure of the relation). This gives the partial order associated with the strict partial order "<" through reflexive closure; in this case the equivalence is equality, so we don't need the notations and ~.
+
+Define a b as "not b < a" (i.e., take the inverse complement of the relation), which corresponds to defining a ~ b as "neither a < b nor b < a"; these relations and ~ are in general not transitive; however, if they are, ~ is an equivalence; in that case "<" is a strict weak order. The resulting preorder is total, that is, a total preorder.
+
+5. Number of preorders
+
+As explained above, there is a 1-to-1 correspondence between preorders and pairs (partition, partial order). Thus the number of preorders is the sum of the number of partial orders on every partition. For example:
+
+for n=3:
+
+1 partition of 3, giving 1 preorder
+
+3 partitions of 2+1, giving 3 × 3 = 9 preorders
+
+1 partition of 1+1+1, giving 19 preorders
+
+for n=4:
+
+1 partition of 4, giving 1 preorder
+
+7 partitions with two classes (4 of 3+1 and 3 of 2+2), giving 7 × 3 = 21 preorders
+
+6 partitions of 2+1+1, giving 6 × 19 = 114 preorders
+
+1 partition of 1+1+1+1, giving 219 preorders
+
+6. Interval
+
+For a b, the interval [a,b] is the set of points x satisfying a x and x b, also written a x b. It contains at least the points a and b. One may choose to extend the definition to all pairs (a,b). The extra intervals are all empty.
+
+Using the corresponding strict relation "<", one can also define the interval (a,b) as the set of points x satisfying a < x and x < b, also written a < x < b. An open interval may be empty even if a < b.
+
+Also [a,b) and (a,b] can be defined similarly.
+
+7. See also
+
+partial order - preorder that is antisymmetric
+
+equivalence relation - preorder that is symmetric
+
+total preorder - preorder that is total
+
+total order - preorder that is antisymmetric and total
+
+directed set
+
+category of preordered sets
+
+prewellordering
+
+Well-quasi-ordering
+
+8. References

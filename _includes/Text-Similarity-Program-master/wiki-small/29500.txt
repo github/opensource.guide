@@ -1,0 +1,99 @@
+Serotonin syndrome is a potential symptom of any number of life-threatening drug interactions which may follow therapeutic drug use, combination, overdose of particular drugs, or the recreational use of certain drugs. Serotonin syndrome is not an idiopathic drug reaction; it is a predictable consequence of excess serotonin on the CNS and/or peripheral nervous system. For this reason, some experts strongly prefer the terms serotonin toxicity or serotonin toxidrome which more accurately reflect that it is a form of poisoning. Other names include serotonin sickness, serotonin storm, serotonin poisoning, hyperserotonemia, or serotonergic syndrome.
+
+Excessive levels of serotonin produce a spectrum of specific symptoms including cognitive, autonomic, and somatic effects. Symptoms may range from barely perceptible to fatal. Numerous drugs and drug combinations have been reported to produce serotonin syndrome, though the exact mechanism is not well understood in many instances.
+
+Diagnosis includes observing symptoms and investigating patient history for causal factors (interacting drugs). The syndrome has a characteristic picture but can be mistaken for other illnesses in some people, particularly those with neuroleptic malignant syndrome. No laboratory tests can currently confirm the diagnosis. Hence it is diagnosed based on symptoms, disease course (that is, the progression of the disease) and the exclusion of other possible causes of the presenting symptoms.
+
+Treatment consists of discontinuing medications which may contribute and in moderate to severe cases administering a serotonin antagonist. An important adjunct treatment includes controlling agitation with benzodiazepine sedation. The high-profile case of Libby Zion, who is generally accepted to have died from serotonin syndrome, resulted in changes to graduate medical education in New York State.
+
+1. Signs and symptoms
+
+Symptom onset is usually rapid, often occurring within minutes of elevated serotonin levels. Serotonin syndrome encompasses a wide range of clinical findings. Mild symptoms may consist of increased heart rate, shivering, sweating, dilated pupils, myoclonus (intermittent tremor or twitching), as well as overresponsive reflexes. However, many of these symptoms may be side effects of the drug or drug interaction causing excessive levels of serotonin; not an effect of elevated serotonin itself. Tremor is a common side effect of MDMA's action at dopamine, whereas hyperreflexia is symptomatic of exposure to 5-HT agonists. Moderate intoxication includes additional abnormalities such as hyperactive bowel sounds, high blood pressure and hyperthermia; a temperature as high as is common in moderate intoxication. The overactive reflexes and clonus in moderate cases may be greater in the lower limbs than in the upper limbs. Mental changes include hypervigilance or insomnia and agitation. Severe symptoms include severe increases in heart rate and blood pressure that may lead to shock. Temperature may rise to above in life-threatening cases. Other abnormalities include metabolic acidosis, rhabdomyolysis, seizures, renal failure, and disseminated intravascular coagulation; these effects usually arising as a consequence of hyperthermia.
+
+The symptoms are often described as a clinical triad of abnormalities:
+
+Cognitive effects: headache, agitation, hypomania, mental confusion, hallucinations, coma
+
+Autonomic effects: shivering, sweating, hyperthermia, vasoconstriction, tachycardia, nausea, diarrhea.
+
+Somatic effects: myoclonus (muscle twitching), hyperreflexia (manifested by clonus), tremor.
+
+2. Cause
+
+A large number of medications either alone in high dose or in combination can produce serotonin syndrome.
+
+Many cases of serotonin toxicity occur in patients who have ingested drug combinations that synergistically increase synaptic serotonin. It may also occur as a symptom of overdose of a single serotonergic agent. The combination of MAOIs with precursors such as l-tryptophan or 5-htp pose a particularly acute risk of life-threatening serotonin syndrome. The case of combination of MAOIs with tryptamine agonists (commonly known as ayahuasca) can present similar dangers as their combination with precursors, but this phenomenon has been described in general terms as the "cheese effect". Many MAOIs irreversibly inhibit monoamine oxidase. It can take at least four weeks for this enzyme to be replaced by the body in the instance of irreversible inhibitors.
+
+Many medications may have been incorrectly thought to cause serotonin syndrome. For example, some case reports have implicated atypical antipsychotics in serotonin syndrome, but it appears based on their pharmacology that they are unlikely to cause the syndrome. It has also been suggested that mirtazapine has no significant serotonergic effects, and is therefore not a dual action drug. Bupropion has also been suggested to cause serotonin syndrome, although as there is no evidence that it has any significant serotonergic activity, it is thought unlikely to produce the syndrome. In 2006 the United States Food and Drug Administration issued an alert suggesting that the combined use of SSRIs or SNRIs and triptan medications or sibutramine could potentially lead to severe cases of serotonin syndrome. This has been disputed by other researchers as none of the cases reported by the FDA met the Hunter criteria for serotonin syndrome. The condition has however occurred in surprising clinical situations, and because of phenotypic variations among individuals, it has been associated with unexpected drugs, including mirtazapine.
+
+The relative risk and severity of serotonergic side effects and serotonin toxicity, with individual drugs and combinations, is complex. Serotonin syndrome has been reported in patients of all ages, including the elderly, children, and even newborn infants due to in utero exposure. The serotonergic toxicity of SSRIs increases with dose, but even in over-dose it is insufficient to cause fatalities from serotonin syndrome in healthy adults. Elevations of central nervous system serotonin will typically only reach potentially fatal levels when drugs with different mechanisms of action are mixed together. Various drugs, other than SSRIs, also have clinically significant potency as serotonin reuptake inhibitors, (e.g. tramadol, amphetamine, and MDMA) and are associated with severe cases of the syndrome.
+
+3. Pathophysiology
+
+Serotonin is a neurotransmitter involved in multiple states including aggression, pain, sleep, appetite, anxiety, depression, migraine, and vomiting. In humans the effects of excess serotonin were first noted in 1960 in patients receiving a monoamine oxidase inhibitor (MAOI) and tryptophan. The syndrome is caused by increased serotonin in the central nervous system. It was originally suspected that agonism of 5-HT1A receptors in central grey nuclei and the medulla was responsible for the development of the syndrome. Further study has determined that overstimulation of primarily the 5-HT2A receptors appears to contribute substantially to the condition. The 5-HT1A receptor may still contribute through a pharmacodynamic interaction in which increased synaptic concentrations of a serotonin agonist saturate all receptor subtypes. Additionally, noradrenergic CNS hyperactivity may play a role as CNS norepinephrine concentrations are increased in serotonin syndrome and levels appear to correlate with the clinical outcome. Other neurotransmitters may also play a role; NMDA receptor antagonists and GABA have been suggested as affecting the development of the syndrome. Serotonin toxicity is more pronounced following supra-therapeutic doses and overdoses, and they merge in a continuum with the toxic effects of overdose.
+
+3.1. Spectrum concept
+
+A postulated 'spectrum concept' of serotonin toxicity emphasises the role that progressively increasing serotonin levels play in mediating the clinical picture as side effects merge into toxicity. The dose-effect relationship is the effects of progressive elevation of serotonin, either by raising the dose of one drug, or combining it with another serotonergic drug which may produce large elevations in serotonin levels.
+
+3.2. Agonists and metabolic affect
+
+Singular use of LSD or other 5ht agonists is unlikely to cause serotonin syndrome in lieu of other metabotropic properties which affect the serotonin system. However, agonists at 5ht would increase the severity of certain symptoms associated with serotonin syndrome, depending on the 5ht subtypes for which the agonist is selective. The effect of agonists do not explicitly qualify as a syndrome of serotonin (the ligand) but may be considered a syndrome which affects the serotonin system, i.e. '5ht receptor syndrome'. Agonists cause sensitization to the presence of the ligand or directly stimulate receptors, hence the temperature increase is produced by increased physical activity. In the classical case of serotonin accumulation syndrome, temperature increase is mediated by enzymatic activity of MAO-A. The nature of serotonin syndrome may be understood in general terms of affect on serotonin metabolism, e.g. to catabolic or anabolic. SSRIs and releasing agents bias the serotonin system towards catabolism by blocking reuptake, while monoamine oxidase inhibitors inhibit catabolism of serotonin (shifting to anabolic). The acute combinatory danger of any substance which acts as a catabolic shunt with monoamine oxidase inhibitors is not their obvious potential for causing dangerous serotonin accumulation; In many cases a number of different enzymes are inhibited or acted upon which interfere with the metabolism of the combination of drugs taken and prolong serotonergic effects. This extended enzyme interference describes deaths attributable to the combination of MDMA and moclobemide
+
+4. Diagnosis
+
+There is no laboratory test for serotonin syndrome. Therefore diagnosis is by symptom observation and investigation of the patient's history. Several diagnostic criteria have been proposed. The first rigorously evaluated criteria were introduced in 1991 by Harvey Sternbach, a professor of psychiatry at UCLA. Researchers in Australia later developed the Hunter Toxicity Criteria Decision Rules, which have better sensitivity and specificity, 84% and 97%, respectively, when compared with the gold standard of diagnosis by a medical toxicologist. As of 2007, Sternbach's criteria were still the most commonly used.
+
+The most important symptoms for diagnosing serotonin syndrome are tremor, extreme aggressiveness, akathisia, or clonus (spontaneous, inducible and ocular). Physical examination of the patient should include assessment of deep-tendon reflexes and muscle rigidity, the dryness of the oral mucosa, the size and reactivity of the pupils, the intensity of bowel sounds, skin color, and the presence or absence of sweating. The patient's history also plays an important role in diagnosis, investigations should include inquries about the use of prescription and over-the-counter drugs, illicit substances, and dietary supplements, as all these agents have been implicated in the development of serotonin syndrome. To fulfill the Hunter Criteria, a patient must have taken a serotonergic agent and meet one of the following conditions:
+
+Spontaneous clonus, or
+
+Inducible clonus plus agitation or diaphoresis, or
+
+Ocular clonus plus agitation or diaphoresis, or
+
+Tremor plus hyperreflexia, or
+
+Hypertonism plus temperature > plus ocular clonus or inducible clonus
+
+4.1. Differential diagnosis
+
+Serotonin toxicity has a characteristic picture which is generally hard to confuse with other medical conditions, but in some situations it may go unrecognized because it may be mistaken for a viral illness, anxiety, neurological disorder, anticholinergic poisoning, sympathomimetic toxicity, or worsening psychiatric condition. The condition most often confused with serotonin syndrome is neuroleptic malignant syndrome (NMS). The clinical features of neuroleptic malignant syndrome and serotonin syndrome share some features which can make differentiating them difficult. In both conditions, autonomic dysfunction and altered mental status develop. However, they are actually very different conditions with different underlying dysfunction (serotonin excess vs dopamine blockade). Both the time course and the clinical features of NMS differ significantly from those of serotonin toxicity. Serotonin toxicity has a rapid onset after the administration of a serotonergic drug and responds to serotonin blockade such as drugs like chlorpromazine and cyproheptadine. Dopamine receptor blockade (NMS) has a slow onset and typically evolves over several days after administration of a neuroleptic drug and responds to dopamine agonists such as bromocriptine.
+
+Differential diagnosis may become difficult in patients recently exposed to both serotonergic drugs and neuroleptic drugs. Features that are classically present in NMS, that are useful for differentiating the two, are bradykinesia and extrapyramidal "lead pipe" rigidity, whereas serotonin syndrome causes hyperkinesia and clonus.
+
+5. Management
+
+Management is based primarily on stopping the usage of the precipitating drugs, the administration of serotonin antagonists such as cyproheptadine, and supportive care including the control of agitation, the control of autonomic instability, and the control of hyperthermia. Additionally, those who ingest large doses of serotonergic agents may benefit from gastrointestinal decontamination with activated charcoal if it can be administered within an hour of overdose. The intensity of therapy depends on the severity of symptoms. If the symptoms are mild, treatment may only consist of discontinuation of the offending medication or medications, offering supportive measures, giving benzodiazepines for myoclonus, and waiting for the symptoms to resolve. Moderate cases should have all thermal and cardiorespiratory abnormalities corrected and can benefit from serotonin antagonists. The serotonin antagonist cyproheptadine is the recommended initial therapy, although there have been no controlled trials demonstrating its efficacy for serotonin syndrome. Despite the absence of controlled trials, there are a number of case reports detailing apparent improvement after patients have been administered cyproheptadine. Animal experiments also suggest a benefit from serotonin antagonists. Cyproheptadine is only available as tablets and therefore can only be administered orally or via a nasogastric tube; it is unlikely to be effective in patients administered activated charcoal and has limited use in severe cases. Additional pharmacological treatment for severe case includes administering atypical antipsychotic drugs with serotonin antagonist activity such as olanzapine. Critically ill patients should receive the above therapies as well as sedation or neuromuscular paralysis. Patient who have autonomic instability such as low blood pressure require treatment with direct-acting sympathomimetics such as epinephrine, norepinephrine, or phenylephrine. Conversely, hypertension or tachycardia can be treated with short-acting antihypertensive drugs such as nitroprusside or esmolol; longer acting drugs such as propranolol should be avoided as they may lead to hypotension and shock. The cause of serotonin toxicity or accumulation is an important factor in determining the course of treatment. Serotonin is catabolized by monoamine oxidase in the presence of oxygen, so if care is taken to prevent an unsafe spike in body temperature or metabolic acidosis, oxygenation will assist in dispatching the excess serotonin. The same principle applies to alcohol intoxication. In cases of serotonin syndrome caused by monoamine oxidase inhibitors oxygenation will not help to dispatch serotonin. In such instances hydration is the main concern until the enzyme is regenerated.
+
+5.1. Agitation
+
+Specific treatment for some symptoms may be required. One of the most important treatments is the control of agitation due to the extreme possibility of injury to patient or caregivers, benzodiazepines should be administered at first sign of this. Physical restraints are not recommended for agitation or delirium as they may contribute to mortality by enforcing isometric muscle contractions that are associated with severe lactic acidosis and hyperthermia. If physical restraints are necessary for severe agitation they must be rapidly replaced with pharmacological sedation. The agitation can cause a large amount of muscle breakdown. This breakdown can cause severe damage to the kidneys through a condition called rhabdomyolysis.
+
+5.2. Hyperthermia
+
+Treatment for hyperthermia includes reducing muscle over-activity via sedation with a benzodiazepine. More severe cases may require muscular paralysis with vecuronium, intubation, and artificial ventilation. Succinylcholine is not recommended for muscular paralysis as it may increase the risk of cardiac dysrhythmia from hyperkalemia associated with rhabdomyolysis. Antipyretic agents are not recommended as the increase in body temperature is due to muscular activity not a hypothalamic temperature set point abnormality.
+
+6. Prognosis
+
+Upon the discontinuation of serotonergic drugs, most cases of serotonin syndrome resolve within 24 hours, although in some cases delirium may persist for a number of days. Symptoms typically persist for a longer time frame in patients taking drugs which have a long elimination half-life, active metabolites, or a protracted duration of action.
+
+Cases have reported muscle pain and weakness persisting for months, and antidepressant discontinuation may contribute to ongoing features. Following appropriate medical management, serotonin syndrome is generally associated with a favorable prognosis.
+
+7. Epidemiology
+
+Epidemiological studies of serotonin syndrome are difficult as many physicians are unaware of the diagnosis or they may miss the syndrome due to its variable manifestations. In 1998 a survey conducted in England found that 85% of the general practitioners that had prescribed the antidepressant nefazodone were unaware of serotonin syndrome. The incidence may be increasing as a larger number of pro-serotonergic drugs (drugs which increase serotonin levels) are now being used in clinical practice. One postmarketing surveillance study identified an incidence of 0.4 cases per 1000 patient-months for patients who were taking nefazodone. Additionally, around 14 to 16 percent of persons who overdose on SSRIs are thought to develop serotonin syndrome.
+
+8. Notable cases
+
+The most widely recognized example of serotonin syndrome was the death of Libby Zion in 1984. Zion was a freshman at Bennington College at her death on March 5, 1984, at age 18. She died within 8 hours of her emergency admission to the New York Hospital Cornell Medical Center. She had an ongoing history of depression, and came to the Manhattan hospital on the evening of March 4, 1984, with a fever, agitation and "strange jerking motions" of her body. She also seemed disoriented at times. The emergency room physicians were unable to diagnose her condition definitively, but admitted her for hydration and observation. Her death was caused by a combination of pethidine and phenelzine. A medical intern prescribed the pethidine. The case had an impact on graduate medical education and residency work hours. Limits were set on working hours for medical post graduates, commonly referred to as interns or residents, in hospital training programs, and they also now require closer senior physician supervision.
+
+9. Notes
+
+10. References
+
+11. External links
+
+from
+
+Carcinoid syndrome

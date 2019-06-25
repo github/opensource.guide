@@ -1,0 +1,379 @@
+Natural law, or the law of nature (), is a system of law that is determined by nature, and so is universal. Classically, natural law refers to the use of reason to analyze human nature — both social and personal — and deduce binding rules of moral behavior from it. Natural law is often contrasted with the positive law of a given political community, society, or state. In legal theory, on the other hand, the interpretation of positive law requires some reference to natural law. On this understanding of natural law, natural law can be invoked to criticize judicial decisions about what the law says but not to criticize the best interpretation of the law itself. Some scholars use natural law synonymously with natural justice or natural right (Latin ius naturale), while others distinguish between natural law and natural right.
+
+Although natural law is often conflated with common law, the two are distinct in that natural law is a view that certain rights or values are inherent in or universally cognizable by virtue of human reason or human nature, while common law is the legal tradition whereby certain rights or values are legally cognizable by virtue of judicial recognition or articulation. Natural law theories have, however, exercised a profound influence on the development of English common law, and have featured greatly in the philosophies of Thomas Aquinas, Francisco Suárez, Richard Hooker, Thomas Hobbes, Hugo Grotius, Samuel von Pufendorf, John Locke, Francis Hutcheson, Jean Jacques Burlamaqui, and Emmerich de Vattel. Because of the intersection between natural law and natural rights, it has been cited as a component in the United States Declaration of Independence and the Constitution of the United States, as well as in the Declaration of the Rights of Man and of the Citizen. Declarationism states that the founding of the United States is based on Natural law.
+
+Natural Law and consent of the governed (John Locke) are the Foundation of the American Declaration of Independence, Constitution and Bill of Rights. (See "Laws of Nature" First Paragraph Declaration of Independence) Consent of the Governed, derived from the John Locke's Natural Law Social Contract, replaced the Old World Governance Doctrine of the Divine Right of Kings (Thomas Hobbes).
+
+1. History
+
+The use of natural law, in its various incarnations, has varied widely through its history. There are a number of different theories of natural law, differing from each other with respect to the role that morality plays in determining the authority of legal norms. This article deals with its usages separately rather than attempt to unify them into a single theory.
+
+1.1. Plato
+
+Although Plato does not have an explicit theory of natural law (he rarely used the phrase 'natural law' except in Gorgias 484 and Timaeus 83e), his concept of nature, according to John Wild, contains some of the elements found in many natural law theories. According to Plato we live in an orderly universe. At the basis of this orderly universe or nature are the forms, most fundamentally the Form of the Good, which Plato describes as "the brightest region of Being". The Form of the Good is the cause of all things and when it is seen it leads a person to act wisely. In the Symposium, the Good is closely identified with the Beautiful. Also in the Symposium, Plato describes how the experience of the Beautiful by Socrates enables him to resist the temptations of wealth and sex. In the Republic, the ideal community is, "...a city which would be established in accordance with nature."
+
+1.2. Aristotle
+
+Greek philosophy emphasized the distinction between "nature" (physis, φúσις) on the one hand and "law", "custom", or "convention" (nomos, νóμος) on the other. What the law commanded varied from place to place, but what was "by nature" should be the same everywhere. A "law of nature" would therefore have had the flavor more of a paradox than something that obviously existed. Against the conventionalism that the distinction between nature and custom could engender, Socrates and his philosophic heirs, Plato and Aristotle, posited the existence of natural justice or natural right (dikaion physikon, δικαιον φυσικον, Latin ius naturale). Of these, Aristotle is often said to be the father of natural law.
+
+Aristotle's association with natural law may be due to the interpretation given to his works by Thomas Aquinas. But whether Aquinas correctly read Aristotle is a disputed question. According to some, Aquinas conflates the natural law and natural right, the latter of which Aristotle posits in Book V of the Nicomachean Ethics (Book IV of the Eudemian Ethics). According to this interpretation, Aquinas's influence was such as to affect a number of early translations of these passages in an unfortunate manner, though more recent translations render them more literally. Aristotle notes that natural justice is a species of political justice, viz. the scheme of distributive and corrective justice that would be established under the best political community; were this to take the form of law, this could be called a natural law, though Aristotle does not discuss this and suggests in the Politics that the best regime may not rule by law at all.
+
+The best evidence of Aristotle's having thought there was a natural law comes from the Rhetoric, where Aristotle notes that, aside from the "particular" laws that each people has set up for itself, there is a "common" law that is according to nature. Specifically, he quotes Sophocles and Empedocles:
+
+Universal law is the law of Nature. For there really is, as every one to some extent divines, a natural justice and injustice that is binding on all men, even on those who have no association or covenant with each other. It is this that Sophocles' Antigone clearly means when she says that the burial of Polyneices was a just act in spite of the prohibition: she means that it was just by nature: And so Empedocles, when he bids us kill no living creature, says that doing this is not just for some people while unjust for others:
+
+Some critics believe that the context of this remark suggests only that Aristotle advised that it could be rhetorically advantageous to appeal to such a law, especially when the "particular" law of one's own city was averse to the case being made, not that there actually was such a law; Moreover, they claim that Aristotle considered two of the three candidates for a universally valid, natural law provided in this passage to be wrong. Aristotle's theoretical paternity of the natural law tradition is consequently disputed.
+
+1.3. Stoic natural law
+
+The development of this tradition of natural justice into one of natural law is usually attributed to the Stoics. The rise of natural law as a universal system coincided with the rise of large empires and kingdoms in the Greek world. Whereas the "higher" law Aristotle suggested one could appeal to was emphatically natural, in contradistinction to being the result of divine positive legislation, the Stoic natural law was indifferent to the divine or natural source of the law: the Stoics asserted the existence of a rational and purposeful order to the universe (a divine or eternal law), and the means by which a rational being lived in accordance with this order was the natural law, which spelled out action that accorded with virtue.
+
+As the English historian A. J. Carlyle (1861–1943) notes:
+
+There is no change in political theory so startling in its completeness as the change from the theory of Aristotle to the later philosophical view represented by Cicero and Seneca.... We think that this cannot be better exemplified than with regard to the theory of the equality of human nature." Charles H. McIlwain likewise observes that "the idea of the equality of men is the profoundest contribution of the Stoics to political thought" and that "its greatest influence is in the changed conception of law that in part resulted from it. Natural law first appeared among the stoics who believed that God is everywhere and in everyone. Within humans is a "divine spark" which helps them to live in accordance with nature. The stoics felt that there was a way in which the universe had been designed and natural law helped us to harmonise with this.
+
+1.4. Cicero
+
+Cicero wrote in his De Legibus that both justice and law derive their origin from what nature has given to man, from what the human mind embraces, from the function of man, and from what serves to unite humanity. For Cicero, natural law obliges us to contribute to the general good of the larger society. The purpose of positive laws is to provide for "the safety of citizens, the preservation of states, and the tranquility and happiness of human life." In this view, "wicked and unjust statutes" are "anything but 'laws,'" because "in the very definition of the term 'law' there inheres the idea and principle of choosing what is just and true." Law, for Cicero, "ought to be a reformer of vice and an incentive to virtue." Cicero expressed the view that "the virtues which we ought to cultivate, always tend to our own happiness, and that the best means of promoting them consists in living with men in that perfect union and charity which are cemented by mutual benefits."
+
+Cicero influenced the discussion of natural law for many centuries to come, up through the era of the American Revolution. The jurisprudence of the Roman Empire was rooted in Cicero, who held "an extraordinary grip ... upon the imagination of posterity" as "the medium for the propagation of those ideas which informed the law and institutions of the empire." Cicero's conception of natural law "found its way to later centuries notably through the writings of Saint Isidore of Seville and the Decretum of Gratian." Thomas Aquinas, in his summary of medieval natural law, quoted Cicero's statement that "nature" and "custom" were the sources of a society's laws.
+
+The Renaissance Florentine chancellor Leonardo Bruni praised Cicero as the man "who carried philosophy from Greece to Italy, and nourished it with the golden river of his eloquence." The legal culture of Elizabethan England, exemplified by Sir Edward Coke, was "steeped in Ciceronian rhetoric." The Scottish moral philosopher Francis Hutcheson, as a student at Glasgow, "was attracted most by Cicero, for whom he always professed the greatest admiration." More generally in eighteenth-century Great Britain, Cicero's name was a household word among educated people. Likewise, "in the admiration of early Americans Cicero took pride of place as orator, political theorist, stylist, and moralist."
+
+The British polemicist Thomas Gordon "incorporated Cicero into the radical ideological tradition that travelled from the mother country to the colonies in the course of the eighteenth century and decisively shaped early American political culture." Cicero's description of the immutable, eternal, and universal natural law was quoted by Burlamaqui and later by the American revolutionary legal scholar James Wilson. Cicero became John Adams's "foremost model of public service, republican virtue, and forensic eloquence." Adams wrote of Cicero that "as all the ages of the world have not produced a greater statesman and philosopher united in the same character, his authority should have great weight." Thomas Jefferson "first encountered Cicero as a schoolboy learning Latin, and continued to read his letters and discourses as long as he lived. He admired him as a patriot, valued his opinions as a moral philosopher, and there is little doubt that he looked upon Cicero's life, with his love of study and aristocratic country life, as a model for his own." Jefferson described Cicero as "the father of eloquence and philosophy."
+
+Some early Church Fathers, especially those in the West, sought to incorporate natural law into Christianity. The most notable among these was Augustine of Hippo, who equated natural law with man's prelapsarian state; as such, a life according to nature was no longer possible and men needed instead to seek salvation through the divine law and grace of Jesus Christ.
+
+In the twelfth century, Gratian equated the natural law with divine law. A century later, St. Thomas Aquinas in his Summa Theologica I-II qq. 90–106, restored Natural Law to its independent state, asserting natural law as the rational creature's participation in the eternal law. Yet, since human reason could not fully comprehend the Eternal law, it needed to be supplemented by revealed Divine law. (See also Biblical law in Christianity.) Meanwhile, Aquinas taught that all human or positive laws were to be judged by their conformity to the natural law. An unjust law is not a law, in the full sense of the word. It retains merely the 'appearance' of law insofar as it is duly constituted and enforced in the same way a just law is, but is itself a 'perversion of law.' At this point, the natural law was not only used to pass judgment on the moral worth of various laws, but also to determine what the law said in the first place. This principle laid the seed for possible societal tension with reference to tyrants.
+
+The natural law was inherently teleological and deontological in that although it is aimed at goodness, it is entirely focused on the ethicalness of actions, rather than the consequence. The specific content of the natural law was therefore determined by a conception of what things constituted happiness, be they temporal satisfaction or salvation. The state, in being bound by the natural law, was conceived as an institution directed at bringing its subjects to true happiness.
+
+In the 16th century, the School of Salamanca (Francisco Suárez, Francisco de Vitoria, etc.) further developed a philosophy of natural law. After the Church of England broke from Rome, the English theologian Richard Hooker adapted Thomistic notions of natural law to Anglicanism. There are five important principles: to live, to learn, to reproduce, to worship God, and to live in an ordered society.
+
+Those who see biblical support for the doctrine of natural law often point to Paul's Epistle to the Romans: "For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another. (). The intellectual historian A. J. Carlyle has commented on this passage, "There can be little doubt that St Paul's words imply some conception analogous to the 'natural law' in Cicero, a law written in men's hearts, recognized by man's reason, a law distinct from the positive law of any State, or from what St Paul recognized as the revealed law of God. It is in this sense that St Paul's words are taken by the Fathers of the fourth and fifth centuries like St Hilary of Poitiers, St Ambrose, and St Augustine, and there seems no reason to doubt the correctness of their interpretation."
+
+1.5. English jurisprudence
+
+Heinrich A. Rommen remarked upon "the tenacity with which the spirit of the English common law retained the conceptions of natural law and equity which it had assimilated during the Catholic Middle Ages, thanks especially to the influence of Henry de Bracton (d. 1268) and Sir John Fortescue (d. cir. 1476)." Bracton's translator notes that Bracton "was a trained jurist with the principles and distinctions of Roman jurisprudence firmly in mind"; but Bracton adapted such principles to English purposes rather than copying slavishly. In particular, Bracton turned the imperial Roman maxim that "the will of the prince is law" on its head, insisting that the king is under the law. The legal historian Charles F. Mullett has noted Bracton's "ethical definition of law, his recognition of justice, and finally his devotion to natural rights." Bracton considered justice to be the "fountain-head" from which "all rights arise." For his definition of justice, Bracton quoted the twelfth-century Italian jurist Azo: "'Justice is the constant and unfailing will to give to each his right.'" Bracton's work was the second legal treatise studied by the young apprentice lawyer Thomas Jefferson.
+
+Fortescue stressed "the supreme importance of the law of God and of nature" in works that "profoundly influenced the course of legal development in the following centuries." The legal scholar Ellis Sandoz has noted that "the historically ancient and the ontologically higher law—eternal, divine, natural—are woven together to compose a single harmonious texture in Fortescue's account of English law." As the legal historian Norman Doe explains: "Fortescue follows the general pattern set by Aquinas. The objective of every legislator is to dispose people to virtue. It is by means of law that this is accomplished. Fortescue's definition of law (also found in Accursius and Bracton), after all, was 'a sacred sanction commanding what is virtuous [honesta] and forbidding the contrary.'" Fortescue cited Leonardo Bruni for his statement that "virtue alone produces happiness."
+
+Christopher St. Germain's Doctor and Student was a classic of English jurisprudence, and it was thoroughly annotated by Thomas Jefferson. St. Germain informs his readers that English lawyers generally don't use the phrase "law of nature," but rather use "reason" as the preferred synonym. Norman Doe notes that St. Germain's view "is essentially Thomist," quoting Thomas Aquinas's definition of law as "an ordinance of reason made for the common good by him who has charge of the community, and promulgated."
+
+Sir Edward Coke was the preeminent jurist of his time. Coke's preeminence extended across the ocean: "For the American revolutionary leaders, 'law' meant Sir Edward Coke's custom and right reason." Coke defined law as "perfect reason, which commands those things that are proper and necessary and which prohibits contrary things." For Coke, human nature determined the purpose of law; and law was superior to any one man's reason or will. Coke's discussion of natural law appears in his report of Calvin's Case (1608): "The law of nature is that which God at the time of creation of the nature of man infused into his heart, for his preservation and direction." In this case the judges found that "the ligeance or faith of the subject is due unto the King by the law of nature: secondly, that the law of nature is part of the law of England: thirdly, that the law of nature was before any judicial or municipal law: fourthly, that the law of nature is immutable." To support these findings, the assembled judges (as reported by Coke, who was one of them) cited as authorities Aristotle, Cicero, and the Apostle Paul; as well as Bracton, Fortescue, and St. Germain.
+
+As early as the thirteenth century, it was held that "the law of nature...is the ground of all laws" and by the Chancellor and Judges that "it is required by the law of nature that every person, before he can be punish'd, ought to be present; and if absent by contumacy, he ought to be summoned and make default.". Further, in 1824, we find it held that "proceedings in our Courts are founded upon the law of England, and that law is again founded upon the law of nature and the revealed law of God. If the right sought to be enforced is inconsistent with either of these, the English municipal courts cannot recognize it."
+
+1.6. American jurisprudence
+
+The U.S. Declaration of Independence states that it has become necessary for the people of the United States to assume "the separate and equal station to which the Laws of Nature and of Nature's God entitle them". Some early American lawyers and judges perceived natural law as too tenuous, amorphous and evanescent a legal basis for grounding concrete rights and governmental limitations. Natural law did, however, serve as authority for legal claims and rights in some judicial decisions, legislative acts, and legal pronouncements. Robert Lowry Clinton argues that the U.S. Constitution rests on a common law foundation and the common law, in turn, rests on a classical natural law foundation.
+
+1.7. Islamic natural law
+
+Abū Rayhān al-Bīrūnī, an Islamic scholar and polymath scientist, understood natural law as the survival of the fittest. He argued that the antagonism between human beings can only be overcome through a divine law, which he believed to have been sent through prophets. This is also the position of the Ashari school, the largest school of Sunni theology. Averroes (Ibn Rushd), in his treatise on Justice and Jihad and his commentary on Plato's Republic, writes that the human mind can know of the unlawfulness of killing and stealing and thus of the five maqasid or higher intents of the Islamic sharia or to protect religion, life, property, offspring, and reason. The concept of natural law entered the mainstream of Western culture through his Aristotelian commentaries, influencing the subsequent Averroist movement and the writings of Thomas Aquinas.
+
+The Maturidi school, the second largest school of Sunni theology, posits the existence of a form of natural law. Abu Mansur al-Maturidi stated that the human mind could know of the existence of God and the major forms of 'good' and 'evil' without the help of revelation. Al-Maturidi gives the example of stealing, which is known to be evil by reason alone due to man's working hard for his property. Killing, fornication, and drinking alcohol were all 'evils' the human mind could know of according to al-Maturidi. The concept of Istislah in Islamic law bears some similarities to the natural law tradition in the West, as exemplified by Thomas Aquinas. However, whereas natural law deems good what is self-evidently good, according as it tends towards the fulfilment of the person, istislah calls good whatever is connected to one of five "basic goods". Al-Ghazali abstracted these "basic goods" from the legal precepts in the Qur'an and Sunnah: they are religion, life, reason, lineage and property. Some add also "honour". Ibn Qayyim Al-Jawziyya also posited that human reason could discern between 'great sins' and good deeds.
+
+1.8. Hobbes
+
+By the 17th Century, the Medieval teleological view came under intense criticism from some quarters. Thomas Hobbes instead founded a contractualist theory of legal positivism on what all men could agree upon: what they sought (happiness) was subject to contention, but a broad consensus could form around what they feared (violent death at the hands of another). The natural law was how a rational human being, seeking to survive and prosper, would act. Natural law, therefore, was discovered by considering humankind's natural rights, whereas previously it could be said that natural rights were discovered by considering the natural law. In Hobbes' opinion, the only way natural law could prevail was for men to submit to the commands of the sovereign. Because the ultimate source of law now comes from the sovereign, and the sovereign's decisions need not be grounded in morality, legal positivism is born. Jeremy Bentham's modifications on legal positivism further developed the theory.
+
+As used by Thomas Hobbes in his treatises Leviathan and De Cive, natural law is "a precept, or general rule, found out by reason, by which a man is forbidden to do that which is destructive of his life, or takes away the means of preserving the same; and to omit that by which he thinks it may best be preserved."
+
+According to Hobbes, there are nineteen Laws. The first two are expounded in chapter XIV of Leviathan ("of the first and second natural laws; and of contracts"); the others in chapter XV ("of other laws of nature").
+
+The first Law of nature is that every man ought to endeavour peace, as far as he has hope of obtaining it; and when he cannot obtain it, that he may seek and use all helps and advantages of war.
+
+The second Law of nature is that a man be willing, when others are so too, as far forth, as for peace, and defence of himself he shall think it necessary, to lay down this right to all things; and be contented with so much liberty against other men, as he would allow other men against himself.
+
+The third Law is that men perform their covenants made. In this law of nature consisteth the fountain and original of justice... when a covenant is made, then to break it is unjust and the definition of injustice is no other than the not performance of covenant. And whatsoever is not unjust is just.
+
+The fourth Law is that a man which receiveth benefit from another of mere grace, endeavour that he which giveth it, have no reasonable cause to repent him of his good will. Breach of this law is called ingratitude.
+
+The fifth Law is complaisance: that every man strive to accommodate himself to the rest. The observers of this law may be called sociable; the contrary, stubborn, insociable, froward, intractable.
+
+The sixth Law is that upon caution of the future time, a man ought to pardon the offences past of them that repenting, desire it.
+
+The seventh Law is that in revenges, men look not at the greatness of the evil past, but the greatness of the good to follow.
+
+The eighth Law is that no man by deed, word, countenance, or gesture, declare hatred or contempt of another. The breach of which law is commonly called contumely.
+
+The ninth Law is that every man acknowledge another for his equal by nature. The breach of this precept is pride.
+
+The tenth law is that at the entrance into the conditions of peace, no man require to reserve to himself any right, which he is not content should be reserved to every one of the rest. The breach of this precept is arrogance, and observers of the precept are called modest.
+
+The eleventh law is that if a man be trusted to judge between man and man, that he deal equally between them.
+
+The twelfth law is that such things as cannot be divided, be enjoyed in common, if it can be; and if the quantity of the thing permit, without stint; otherwise proportionably to the number of them that have right.
+
+The thirteenth law is the entire right, or else...the first possession (in the case of alternating use), of a thing that can neither be divided nor enjoyed in common should be determined by lottery.
+
+The fourteenth law is that those things which cannot be enjoyed in common, nor divided, ought to be adjudged to the first possessor; and in some cases to the first born, as acquired by lot.
+
+The fifteenth law is that all men that mediate peace be allowed safe conduct.
+
+The sixteenth law is that they that are at controversie, submit their Right to the judgement of an Arbitrator.
+
+The seventeenth law is that no man is a fit Arbitrator in his own cause.
+
+The eighteenth law is that no man should serve as a judge in a case if greater profit, or honour, or pleasure apparently ariseth [for him] out of the victory of one party, than of the other.
+
+The nineteenth law is that in a disagreement of fact, the judge should not give more weight to the testimony of one party than another, and absent other evidence, should give credit to the testimony of other witnesses. Hobbes's philosophy includes a frontal assault on the founding principles of the earlier natural legal tradition, disregarding the traditional association of virtue with happiness, and likewise re-defining "law" to remove any notion of the promotion of the common good. Hobbes has no use for Aristotle's association of nature with human perfection, inverting Aristotle's use of the word "nature." Hobbes posits a primitive, unconnected state of nature in which men, having a "natural proclivity...to hurt each other" also have "a Right to every thing, even to one anothers body"; and "nothing can be Unjust" in this "warre of every man against every man" in which human life is "solitary, poore, nasty, brutish, and short." Rejecting Cicero's view that men join in society primarily through "a certain social spirit which nature has implanted in man," Hobbes declares that men join in society simply for the purpose of "getting themselves out from that miserable condition of Warre, which is necessarily consequent...to the naturall Passions of men, when there is no visible Power to keep them in awe." As part of his campaign against the classical idea of natural human sociability, Hobbes inverts that fundamental natural legal maxim, the Golden Rule. Hobbes's version is "Do not that to another, which thou wouldst not have done to thy selfe."
+
+1.9. Cumberland's rebuttal of Hobbes
+
+The English cleric Richard Cumberland wrote a lengthy and influential attack on Hobbes's depiction of individual self-interest as the essential feature of human motivation. Historian Knud Haakonssen has noted that in the eighteenth century, Cumberland was commonly placed alongside Hugo Grotius and Samuel Pufendorf "in the triumvirate of seventeenth-century founders of the 'modern' school of natural law." The eighteenth-century philosophers Shaftesbury and Hutcheson "were obviously inspired in part by Cumberland." Historian Jon Parkin likewise describes Cumberland's work as "one of the most important works of ethical and political theory of the seventeenth century." Parkin observes that much of Cumberland's material "is derived from Roman Stoicism, particularly from the work of Cicero, as "Cumberland deliberately cast his engagement with Hobbes in the mould of Cicero's debate between the Stoics, who believed that nature could provide an objective morality, and Epicureans, who argued that morality was human, conventional and self-interested." In doing so, Cumberland de-emphasized the overlay of Christian dogma (in particular, the doctrine of "original sin" and the corresponding presumption that humans are incapable of "perfecting" themselves without divine intervention) that had accreted to natural law in the Middle Ages.
+
+By way of contrast to Hobbes's multiplicity of laws, Cumberland states in the very first sentence of his Treatise of the Laws of Nature that "all the Laws of Nature are reduc'd to that one, of Benevolence toward all Rationals." He later clarifies: "By the name Rationals I beg leave to understand, as well God as Man; and I do it upon the Authority of Cicero." Cumberland argues that the mature development ("perfection") of human nature involves the individual human willing and acting for the common good. For Cumberland, human interdependence precludes Hobbes's natural right of each individual to wage war against all the rest for personal survival. However, Haakonssen warns against reading Cumberland as a proponent of "enlightened self-interest." Rather, the "proper moral love of humanity" is "a disinterested love of God through love of humanity in ourselves as well as others." Cumberland concludes that actions "principally conducive to our Happiness" are those that promote "the Honour and Glory of God" and also "Charity and Justice towards men." Cumberland emphasizes that desiring the well-being of our fellow humans is essential to the "pursuit of our own Happiness." He cites "reason" as the authority for his conclusion that happiness consists in "the most extensive Benevolence," but he also mentions as "Essential Ingredients of Happiness" the "Benevolent Affections," meaning "Love and Benevolence towards others," as well as "that Joy, which arises from their Happiness."
+
+1.10. Liberal natural law
+
+Liberal natural law grew out of the medieval Christian natural law theories and out of Hobbes' revision of natural law, sometimes in an uneasy balance of the two.
+
+Hugo Grotius based his philosophy of international law on natural law. In particular, his writings on freedom of the seas and just war theory directly appealed to natural law. About natural law itself, he wrote that "even the will of an omnipotent being cannot change or abrogate" natural law, which "would maintain its objective validity even if we should assume the impossible, that there is no God or that he does not care for human affairs." (De iure belli ac pacis, Prolegomeni XI). This is the famous argument etiamsi daremus (non esse Deum), that made natural law no longer dependent on theology. However, German church-historians Ernst Wolf and M. Elze disagreed and claimed that Grotius' concept of natural law did have a theological basis. In Grotius' view, the Old Testament contained moral precepts (e.g. the Decalogue) which Christ confirmed and therefore were still valid. Moreover, they were useful in explaining the content of natural law. Both biblical revelation and natural law originated in God and could therefore not contradict each other.
+
+In a similar way, Samuel Pufendorf gave natural law a theological foundation and applied it to his concepts of government and international law.
+
+John Locke incorporated natural law into many of his theories and philosophy, especially in Two Treatises of Government. There is considerable debate about whether his conception of natural law was more akin to that of Aquinas (filtered through Richard Hooker) or Hobbes' radical reinterpretation, though the effect of Locke's understanding is usually phrased in terms of a revision of Hobbes upon Hobbesean contractualist grounds. Locke turned Hobbes' prescription around, saying that if the ruler went against natural law and failed to protect "life, liberty, and property," people could justifiably overthrow the existing state and create a new one.
+
+While Locke spoke in the language of natural law, the content of this law was by and large protective of natural rights, and it was this language that later liberal thinkers preferred. Political philosopher Jeremy Waldron has pointed out that Locke's political thought was based on "a particular set of Protestant Christian assumptions." To Locke, the content of natural law was identical with biblical ethics as laid down especially in the Decalogue, Christ's teaching and exemplary life, and St. Paul's admonitions. Locke derived the concept of basic human equality, including the equality of the sexes ("Adam and Eve"), from , the starting-point of the theological doctrine of Imago Dei. One of the consequences is that as all humans are created equally free, governments need the consent of the governed. Thomas Jefferson, arguably echoing Locke, appealed to unalienable rights in the Declaration of Independence, "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." The Lockean idea that governments need the consent of the governed was also fundamental to the Declaration of Independence, as the American Revolutionaries used it as justification for their separation from the British crown.
+
+The Belgian philosopher of law Frank van Dun is one among those who are elaborating a secular conception of natural law in the liberal tradition. Libertarian theorist Murray Rothbard argues that "the very existence of a natural law discoverable by reason is a potentially powerful threat to the status quo and a standing reproach to the reign of blindly traditional custom or the arbitrary will of the State apparatus." Ludwig von Mises states that he relaid the general sociological and economic foundations of the liberal doctrine upon utilitarianism, rather than natural law, but R.A. Gonce argues that "the reality of the argument constituting his system overwhelms his denial." David Gordon notes, "When most people speak of natural law, what they have in mind is the contention that morality can be derived from human nature. If human beings are rational animals of such-and-such a sort, then the moral virtues are...(filling in the blanks is the difficult part)."
+
+However, a secular critique of the natural law doctrine was stated by Pierre Charron in his De la sagesse (1601): "The sign of a natural law must be the universal respect in which it is held, for if there was anything that nature had truly commanded us to do, we would undoubtedly obey it universally: not only would every nation respect it, but every individual. Instead there is nothing in the world that is not subject to contradiction and dispute, nothing that is not rejected, not just by one nation, but by many; equally, there is nothing that is strange and (in the opinion of many) unnatural that is not approved in many countries, and authorized by their customs."
+
+2. Contemporary Christian understanding
+
+The Roman Catholic Church holds the view of natural law provided by St. Thomas Aquinas, particularly in his Summa Theologiae, and often as filtered through the School of Salamanca. This view is also shared by some Protestant churches, and was delineated by C.S. Lewis in his works Mere Christianity and The Abolition of Man.
+
+The Catholic Church understands human beings to consist of body and mind, the physical and the non-physical (or soul perhaps), and that the two are inextricably linked. Humans are capable of discerning the difference between good and evil because they have a conscience. There are many manifestations of the good that we can pursue. Some, like procreation, are common to other animals, while others, like the pursuit of truth, are inclinations peculiar to the capacities of human beings.
+
+To know what is right, one must use one's reason and apply it to Aquinas' precepts. This reason is believed to be embodied, in its most abstract form, in the concept of a primary precept: "Good is to be sought, evil avoided." St. Thomas explains that:
+
+there belongs to the natural law, first, certain most general precepts, that are known to all; However, while the primary and immediate precepts cannot be "blotted out", the secondary precepts can be. Therefore, for a deontological ethical theory they are open to a surprisingly large amount of interpretation and flexibility. Any rule that helps man to live up to the primary or subsidiary precepts can be a secondary precept, for example:
+
+Drunkenness is wrong because it injures one's health, and worse, destroys one's ability to reason, which is fundamental to man as a rational animal (i.e., does not support self-preservation).
+
+Theft is wrong because it destroys social relations, and man is by nature a social animal (i.e., does not support the subsidiary precept of living in society). Natural moral law is concerned with both exterior and interior acts, also known as action and motive. Simply doing the right thing is not enough; to be truly moral one's motive must be right as well. For example, helping an old lady across the road (good exterior act) to impress someone (bad interior act) is wrong. However, good intentions don't always lead to good actions. The motive must coincide with the cardinal or theological virtues. Cardinal virtues are acquired through reason applied to nature; they are:
+
+Prudence
+
+Justice
+
+Temperance
+
+Fortitude The theological virtues are:
+
+Faith
+
+Hope
+
+Charity According to Aquinas, to lack any of these virtues is to lack the ability to make a moral choice. For example, consider a man who possesses the virtues of justice, prudence, and fortitude, yet lacks temperance. Due to his lack of self-control and desire for pleasure, despite his good intentions, he will find himself swaying from the moral path.
+
+3. In contemporary jurisprudence
+
+In jurisprudence, natural law can refer to the several doctrines:
+
+That just laws are immanent in nature; that is, they can be "discovered" or "found" but not "created" by such things as a bill of rights;
+
+That they can emerge by the natural process of resolving conflicts, as embodied by the evolutionary process of the common law; or
+
+That the meaning of law is such that its content cannot be determined except by reference to moral principles. These meanings can either oppose or complement each other, although they share the common trait that they rely on inherence as opposed to design in finding just laws. Whereas legal positivism would say that a law can be unjust without it being any less a law, a natural law jurisprudence would say that there is something legally deficient about an unjust law. Legal interpretivism, famously defended in the English-speaking world by Ronald Dworkin, claims to have a position different from both natural law and positivism.
+
+Besides utilitarianism and Kantianism, natural law jurisprudence has in common with virtue ethics that it is a live option for a first principles ethics theory in analytic philosophy.
+
+The concept of natural law was very important in the development of the English common law. In the struggles between Parliament and the monarch, Parliament often made reference to the Fundamental Laws of England, which were at times said to embody natural law principles since time immemorial and set limits on the power of the monarchy. According to William Blackstone, however, natural law might be useful in determining the content of the common law and in deciding cases of equity, but was not itself identical with the laws of England. Nonetheless, the implication of natural law in the common law tradition has meant that the great opponents of natural law and advocates of legal positivism, like Jeremy Bentham, have also been staunch critics of the common law.
+
+Natural law jurisprudence is currently undergoing a period of reformulation (as is legal positivism). The most prominent contemporary natural law jurist, Australian John Finnis, is based in Oxford, but there are also Americans Germain Grisez, Robert P. George, and Canadian Joseph Boyle. All have tried to construct a new version of natural law. The 19th-century anarchist and legal theorist, Lysander Spooner, was also a figure in the expression of modern natural law.
+
+"New Natural Law" as it is sometimes called, originated with Grisez. It focuses on "basic human goods," such as human life, knowledge, and aesthetic experience, which are self-evidently and intrinsically worthwhile, and states that these goods reveal themselves as being incommensurable with one another.
+
+The tensions between the natural law and the positive law have played, and continue to play a key role in the development of international law.
+
+4. See also
+
+Aristotle
+
+Antigone
+
+Thomas Aquinas
+
+Hadley Arkes
+
+Jean Barbeyrac
+
+Jean-Jacques Burlamaqui
+
+Richard Cumberland
+
+Declarationism
+
+John Finnis
+
+Henry George
+
+Robert P. George
+
+Hugo Grotius
+
+Thomas Hobbes
+
+Francis Hutcheson
+
+International legal theory
+
+Land Value Taxation
+
+John Locke
+
+Jurisprudence
+
+Legal positivism
+
+Lysander Spooner
+
+Moral realism
+
+Natural justice
+
+Natural order
+
+Natural rights
+
+Naturalistic fallacy
+
+Non-aggression principle
+
+Norm of reciprocity
+
+Objectivism (philosophy)
+
+Orders of creation
+
+Philosophy of law
+
+Samuel von Pufendorf
+
+Social contract
+
+Purposive theory
+
+Rule of law
+
+Rule according to higher law
+
+School of Salamanca
+
+Spontaneous order
+
+Stoicism
+
+Substantive due process
+
+Tit for tat
+
+Unenumerated rights
+
+Universality (philosophy)
+
+Emerich de Vattel
+
+White Rose Society
+
+Xeer
+
+5. Notes
+
+6. References
+
+Adams, John. 1797. A Defence of the Constitutions of Government of the United States of America. 3rd edition. Philadelphia; repr. Darmstadt, Germany: Scientia Verlag Aalen, 1979.
+
+Aristotle. Nicomachean Ethics.
+
+Aristotle. Rhetoric.
+
+Aristotle. Politics.
+
+Aquinas. Summa Theologica.
+
+Barham, Francis. .
+
+Blackstone, William. 1765–9. Commentaries on the Laws of England.
+
+Botein, Stephen. 1978. "Cicero as Role Model for Early American Lawyers: A Case Study in Classical 'Influence'". The Classical Journal 73, no. 4 (April–May).
+
+Boyer, Allen D. 2004. "Sir Edward Coke, Ciceronianus: Classical Rhetoric and the Common Law Tradition." in Law, Liberty, and Parliament: Selected Essays on the Writings of Sir Edward Coke, ed. Allen D. Boyer. Indianapolis: Liberty Fund.
+
+Burlamaqui, Jean Jacques. 1763. The Principles of Natural and Politic Law. Trans. Thomas Nugent. Repr., Indianapolis: The Liberty Fund, 2006.
+
+Burns, Tony. 2000. "Aquinas's Two Doctrines of Natural Law." Political Studies 48. Pp. 929–946.
+
+Carlyle, A. J. 1903. A History of Medieval Political Theory in the West. vol. 1. Edinburgh.
+
+Cicero. De Legibus.
+
+Cochrane, Charles Norris. 1957. Christianity and Classical Culture: A Study of Thought and Action from Augustus to Augustine. Oxford: Oxford University Press.
+
+Corbett, R. J. 2009. "The Question of Natural Law in Aristotle." History of Political Thought 30, no. 2 (Summer): 229–50
+
+Corwin, Edward S. 1955. The "Higher Law" Background of American Constitutional Law. Ithaca, N.Y.: Cornell University Press.
+
+Edlin, Douglas E. 2006. "Judicial Review Without a Constitution." Polity 38, no. 3 (July): 345–368.
+
+Farrell, James M. 1989. "John Adams's Autobiography: The Ciceronian Paradigm and the Quest for Fame." The New England Quarterly 62, no. 4 (Dec. ).
+
+Haakonssen, Knud. 1996. Natural Law and Moral Philosophy: From Grotius to the Scottish Enlightenment. Cambridge, UK: Cambridge University Press.
+
+Haakonssen, Knud. 2000. "The Character and Obligation of Natural Law according to Richard Cumberland." In English Philosophy in the Age of Locke, ed. M.A. Stewart. Oxford.
+
+Heinze, Eric, 2013. The Concept of Injustice (Routledge)
+
+Jaffa, Harry V. 1952. Thomism and Aristotelianism. Chicago: University of Chicago Press.
+
+Jefferson's Literary Commonplace Book. Trans. and ed. Douglas L. Wilson. Princeton, N.J.: Princeton University Press, 1989.
+
+Laing, Jacqueline A & Wilcox, Russell eds., 2013. The Natural Law Reader, Oxford: Wiley Blackwell, 2013.
+
+McIlwain, Charles Howard. 1932. The Growth of Political Thought in the West: From the Greeks to the End of the Middle Ages. New York: The Macmillan Company.
+
+"Natural Law." International Encyclopedia of the Social Sciences. New York, 1968.
+
+Reinhold, Meyer. 1984. Classica Americana: The Greek and Roman Heritage in the United States. Detroit: Wayne State University Press.
+
+Rommen, Heinrich A. 1947. The Natural Law: A Study in Legal and Social History and Philosophy. Trans. and rev. Thomas R. Hanley. B. Herder Book Co.; repr. Indianapolis: Liberty Fund, 1998.
+
+Scott, William Robert. 1900. Francis Hutcheson: His Life, Teaching, and Position in the History of Philosophy Cambridge; repr. New York: Augustus M. Kelley, 1966.
+
+Shellens, Max Salomon. 1959. "Aristotle on Natural Law." Natural Law Forum 4, no. 1. Pp. 72–100.
+
+Skinner, Quentin. 1978. The Foundations of Modern Political Thought. Cambridge.
+
+Waldron, Jeremy. 2002. God, Locke, and Equality: Christian Foundations in Locke's Political Thought. Cambridge University Press, Cambridge (UK). ISBN 978-0-521-89057-1.
+
+Wijngaards, John, AMRUTHA. What the Pope's man found out about the Law of Nature, Author House 2011.
+
+Wilson,James. 1967. The Works of James Wilson. Ed. Robert Green McCloskey. Cambridge, Mass.: Harvard University Press.
+
+Woo, B. Hoon. 2012. "" Studies in Christian Ethics 25, no. 3: 288–90.
+
+Zippelius, Reinhold. Rechtsphilosophie, 6th edition, § 12. C.H. Beck, Munich, 2011. ISBN 978-3-406-61191-9.
+
+7. External links
+
+by Eric Engle, (Elias Clarke, 2010).
+
+Stanford Encyclopedia of Philosophy:
+
+, by Mark Murphy, 2002.
+
+, by John Finnis, 2005.
+
+, by John Finnis, 2007.
+
+A clear introduction to Natural Law
+
+Daniel Z. Epstein 2007.
+
+McElroy, Wendy , The Freeman, February 1998, Vol. 48, No. 2, pp. 108–111
+
+John Wijngaards, .

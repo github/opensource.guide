@@ -1,0 +1,157 @@
+Technology (from Greek , techne, "art, skill, cunning of hand"; and , -logia) is the collection of tools, including machinery, modifications, arrangements and procedures used by humans. Engineering is the discipline that seeks to study and design new technologies. Technologies significantly affect human as well as other animal species' ability to control and adapt to their natural environments. The term can either be applied generally or to specific areas: examples include construction technology, medical technology and information technology.
+
+The human species' use of technology began with the conversion of natural resources into simple tools. The prehistoric discovery of how to control fire increased the available sources of food and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press, the telephone, and the Internet, have lessened physical barriers to communication and allowed humans to interact freely on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear weapons.
+
+Technology has affected society and its surroundings in a number of ways. In many societies, technology has helped develop more advanced economies (including today's global economy) and has allowed the rise of a leisure class. Many technological processes produce unwanted by-products, known as pollution, and deplete natural resources, to the detriment of Earth's environment. Various implementations of technology influence the values of a society and new technology often raises new ethical questions. Examples include the rise of the notion of efficiency in terms of human productivity, a term originally applied only to machines, and the challenge of traditional norms.
+
+Philosophical debates have arisen over the present and future use of technology in society, with disagreements over whether technology improves the human condition or worsens it. Neo-Luddism, anarcho-primitivism, and similar movements criticise the pervasiveness of technology in the modern world, opining that it harms the environment and alienates people; proponents of ideologies such as transhumanism and techno-progressivism view continued technological progress as beneficial to society and the human condition. Indeed, until recently, it was believed that the development of technology was restricted only to human beings, but recent scientific studies indicate that other primates and certain dolphin communities have developed simple tools and learned to pass their knowledge to other generations.
+
+1. Definition and usage
+
+The use of the term "technology" has changed significantly over the last 200 years. Before the 20th century, the term was uncommon in English, and usually referred to the description or study of the useful arts. The term was often connected to technical education, as in the Massachusetts Institute of Technology (chartered in 1861).
+
+The term "technology" rose to prominence in the 20th century in connection with the Second Industrial Revolution. The term's meanings changed in the early 20th century when American social scientists, beginning with Thorstein Veblen, translated ideas from the German concept of Technik into "technology". In German and other European languages, a distinction exists between technik and technologie that is absent in English, which usually translates both terms as "technology". By the 1930s, "technology" referred not only to the study of the industrial arts but to the industrial arts themselves.
+
+In 1937, the American sociologist Read Bain wrote that "technology includes all tools, machines, utensils, weapons, instruments, housing, clothing, communicating and transporting devices and the skills by which we produce and use them." Bain's definition remains common among scholars today, especially social scientists. But equally prominent is the definition of technology as applied science, especially among scientists and engineers, although most social scientists who study technology reject this definition. More recently, scholars have borrowed from European philosophers of "technique" to extend the meaning of technology to various forms of instrumental reason, as in Foucault's work on technologies of the self (techniques de soi).
+
+Dictionaries and scholars have offered a variety of definitions. The Merriam-Webster Dictionary offers a definition of the term: "the practical application of knowledge especially in a particular area" and "a capability given by the practical application of knowledge". Ursula Franklin, in her 1989 "Real World of Technology" lecture, gave another definition of the concept; it is "practice, the way we do things around here". The term is often used to imply a specific field of technology, or to refer to high technology or just consumer electronics, rather than technology as a whole. Bernard Stiegler, in Technics and Time, 1, defines technology in two ways: as "the pursuit of life by means other than life", and as "organized inorganic matter."
+
+Technology can be most broadly defined as the entities, both material and immaterial, created by the application of mental and physical effort in order to achieve some value. In this usage, technology refers to tools and machines that may be used to solve real-world problems. It is a far-reaching term that may include simple tools, such as a crowbar or wooden spoon, or more complex machines, such as a space station or particle accelerator. Tools and machines need not be material; virtual technology, such as computer software and business methods, fall under this definition of technology. W. Brian Arthur defines technology in a similarly broad way as "a means to fulfill a human purpose".
+
+The word "technology" can also be used to refer to a collection of techniques. In this context, it is the current state of humanity's knowledge of how to combine resources to produce desired products, to solve problems, fulfill needs, or satisfy wants; it includes technical methods, skills, processes, techniques, tools and raw materials. When combined with another term, such as "medical technology" or "space technology", it refers to the state of the respective field's knowledge and tools. "State-of-the-art technology" refers to the high technology available to humanity in any field.
+
+Technology can be viewed as an activity that forms or changes culture. Additionally, technology is the application of math, science, and the arts for the benefit of life as it is known. A modern example is the rise of communication technology, which has lessened barriers to human interaction and, as a result, has helped spawn new subcultures; the rise of cyberculture has, at its basis, the development of the Internet and the computer. Not all technology enhances culture in a creative way; technology can also help facilitate political oppression and war via tools such as guns. As a cultural activity, technology predates both science and engineering, each of which formalize some aspects of technological endeavor.
+
+2. Science, engineering and technology
+
+The distinction between science, engineering and technology is not always clear. Science is the reasoned investigation or study of phenomena, aimed at discovering enduring principles among elements of the phenomenal world by employing formal techniques such as the scientific method. Technologies are not usually exclusively products of science, because they have to satisfy requirements such as utility, usability and safety.
+
+Engineering is the goal-oriented process of designing and making tools and systems to exploit natural phenomena for practical human means, often (but not always) using results and techniques from science. The development of technology may draw upon many fields of knowledge, including scientific, engineering, mathematical, linguistic, and historical knowledge, to achieve some practical result.
+
+Technology is often a consequence of science and engineering — although technology as a human activity precedes the two fields. For example, science might study the flow of electrons in electrical conductors, by using already-existing tools and knowledge. This new-found knowledge may then be used by engineers to create new tools and machines, such as semiconductors, computers, and other forms of advanced technology. In this sense, scientists and engineers may both be considered technologists; the three fields are often considered as one for the purposes of research and reference.
+
+The exact relations between science and technology in particular have been debated by scientists, historians, and policymakers in the late 20th century, in part because the debate can inform the funding of basic and applied science. In the immediate wake of World War II, for example, in the United States it was widely considered that technology was simply "applied science" and that to fund basic science was to reap technological results in due time. An articulation of this philosophy could be found explicitly in Vannevar Bush's treatise on postwar science policy, Science—The Endless Frontier: "New products, new industries, and more jobs require continuous additions to knowledge of the laws of nature ... This essential new knowledge can be obtained only through basic scientific research." In the late-1960s, however, this view came under direct attack, leading towards initiatives to fund science for specific tasks (initiatives resisted by the scientific community). The issue remains contentious—though most analysts resist the model that technology simply is a result of scientific research.
+
+3. History
+
+3.1. Paleolithic (2.5 million YA – 10,000 BC)
+
+The use of tools by early humans was partly a process of discovery and of evolution. Early humans evolved from a species of foraging hominids which were already bipedal, with a brain mass approximately one third of modern humans. Tool use remained relatively unchanged for most of early human history. Approximately 50,000 years ago, the use of tools and complex set of behaviors emerged, believed by many archaeologists to be connected to the emergence of fully modern language.
+
+3.1.1. Stone tools
+
+Human ancestors have been using stone and other tools since long before the emergence of Homo sapiens approximately 200,000 years ago. The earliest methods of stone tool making, known as the Oldowan "industry", date back to at least 2.3 million years ago, with the earliest direct evidence of tool usage found in Ethiopia within the Great Rift Valley, dating back to 2.5 million years ago. This era of stone tool use is called the Paleolithic, or "Old stone age", and spans all of human history up to the development of agriculture approximately 12,000 years ago.
+
+To make a stone tool, a "core" of hard stone with specific flaking properties (such as flint) was struck with a hammerstone. This flaking produced a sharp edge on the core stone as well as on the flakes, either of which could be used as tools, primarily in the form of choppers or scrapers. These tools greatly aided the early humans in their hunter-gatherer lifestyle to perform a variety of tasks including butchering carcasses (and breaking bones to get at the marrow); chopping wood; cracking open nuts; skinning an animal for its hide; and even forming other tools out of softer materials such as bone and wood.
+
+The earliest stone tools were crude, being little more than a fractured rock. In the Acheulian era, beginning approximately 1.65 million years ago, methods of working these stone into specific shapes, such as hand axes emerged. The Middle Paleolithic, approximately 300,000 years ago, saw the introduction of the prepared-core technique, where multiple blades could be rapidly formed from a single core stone. The Upper Paleolithic, beginning approximately 40,000 years ago, saw the introduction of pressure flaking, where a wood, bone, or antler punch could be used to shape a stone very finely.
+
+3.1.2. Fire
+
+The discovery and utilization of fire, a simple energy source with many profound uses, was a turning point in the technological evolution of humankind. The exact date of its discovery is not known; evidence of burnt animal bones at the Cradle of Humankind suggests that the domestication of fire occurred before 1,000,000 BC; scholarly consensus indicates that Homo erectus had controlled fire by between 500,000 BC and 400,000 BC. Fire, fueled with wood and charcoal, allowed early humans to cook their food to increase its digestibility, improving its nutrient value and broadening the number of foods that could be eaten.
+
+3.1.3. Clothing and shelter
+
+Other technological advances made during the Paleolithic era were clothing and shelter; the adoption of both technologies cannot be dated exactly, but they were a key to humanity's progress. As the Paleolithic era progressed, dwellings became more sophisticated and more elaborate; as early as 380,000 BC, humans were constructing temporary wood huts. Clothing, adapted from the fur and hides of hunted animals, helped humanity expand into colder regions; humans began to migrate out of Africa by 200,000 BC and into other continents, such as Eurasia.
+
+3.2. Neolithic through classical antiquity (10,000 BC – 300 AD)
+
+Man's technological ascent began in earnest in what is known as the Neolithic period ("New stone age"). The invention of polished stone axes was a major advance because it allowed forest clearance on a large scale to create farms. The discovery of agriculture allowed for the feeding of larger populations, and the transition to a sedentist lifestyle increased the number of children that could be simultaneously raised, as young children no longer needed to be carried, as was the case with the nomadic lifestyle. Additionally, children could contribute labor to the raising of crops more readily than they could to the hunter-gatherer lifestyle.
+
+With this increase in population and availability of labor came an increase in labor specialization. What triggered the progression from early Neolithic villages to the first cities, such as Uruk, and the first civilizations, such as Sumer, is not specifically known; however, the emergence of increasingly hierarchical social structures, the specialization of labor, trade and war amongst adjacent cultures, and the need for collective action to overcome environmental challenges, such as the building of dikes and reservoirs, are all thought to have played a role.
+
+3.2.1. Metal tools
+
+Continuing improvements led to the furnace and bellows and provided the ability to smelt and forge native metals (naturally occurring in relatively pure form). Gold, copper, silver, and lead, were such early metals. The advantages of copper tools over stone, bone, and wooden tools were quickly apparent to early humans, and native copper was probably used from near the beginning of Neolithic times (about 8000 BC). Native copper does not naturally occur in large amounts, but copper ores are quite common and some of them produce metal easily when burned in wood or charcoal fires. Eventually, the working of metals led to the discovery of alloys such as bronze and brass (about 4000 BC). The first uses of iron alloys such as steel dates to around 1400 BC.
+
+3.2.2. Energy and transport
+
+Meanwhile, humans were learning to harness other forms of energy. The earliest known use of wind power is the sailboat. The earliest record of a ship under sail is shown on an Egyptian pot dating back to 3200 BC. From prehistoric times, Egyptians probably used the power of the Nile annual floods to irrigate their lands, gradually learning to regulate much of it through purposely built irrigation channels and 'catch' basins. Similarly, the early peoples of Mesopotamia, the Sumerians, learned to use the Tigris and Euphrates rivers for much the same purposes. But more extensive use of wind and water (and even human) power required another invention.
+
+According to archaeologists, the wheel was invented around 4000 B.C. probably independently and nearly simultaneously in Mesopotamia (in present-day Iraq), the Northern Caucasus (Maykop culture) and Central Europe. Estimates on when this may have occurred range from 5500 to 3000 B.C., with most experts putting it closer to 4000 B.C. The oldest artifacts with drawings that depict wheeled carts date from about 3000 B.C.; however, the wheel may have been in use for millennia before these drawings were made. There is also evidence from the same period of time that wheels were used for the production of pottery. (Note that the original potter's wheel was probably not a wheel, but rather an irregularly shaped slab of flat wood with a small hollowed or pierced area near the center and mounted on a peg driven into the earth. It would have been rotated by repeated tugs by the potter or his assistant.) More recently, the oldest-known wooden wheel in the world was found in the Ljubljana marshes of Slovenia.
+
+The invention of the wheel revolutionized activities as disparate as transportation, war, and the production of pottery (for which it may have been first used). It did not take long to discover that wheeled wagons could be used to carry heavy loads and fast (rotary) potters' wheels enabled early mass production of pottery. But it was the use of the wheel as a transformer of energy (through water wheels, windmills, and even treadmills) that revolutionized the application of nonhuman power sources.
+
+3.3. Medieval and modern history (300 AD – present)
+
+Innovations continued through the Middle Ages with innovations such as silk, the horse collar and horseshoes in the first few hundred years after the fall of the Roman Empire. Medieval technology saw the use of simple machines (such as the lever, the screw, and the pulley) being combined to form more complicated tools, such as the wheelbarrow, windmills and clocks. The Renaissance brought forth many of these innovations, including the printing press (which facilitated the greater communication of knowledge), and technology became increasingly associated with science, beginning a cycle of mutual advancement. The advancements in technology in this era allowed a more steady supply of food, followed by the wider availability of consumer goods.
+
+Starting in the United Kingdom in the 18th century, the Industrial Revolution was a period of great technological discovery, particularly in the areas of agriculture, manufacturing, mining, metallurgy and transport, driven by the discovery of steam power. Technology later took another step with the harnessing of electricity to create such innovations as the electric motor, light bulb and countless others. Scientific advancement and the discovery of new concepts later allowed for powered flight, and advancements in medicine, chemistry, physics and engineering. The rise in technology has led to the construction of skyscrapers and large cities whose inhabitants rely on automobiles or other powered transit for transportation. Communication was also greatly improved with the invention of the telegraph, telephone, radio and television. The late 19th and early 20th centuries saw a revolution in transportation with the invention of the steam-powered ship, train, airplane, and automobile.
+
+The 20th century brought a host of innovations. In physics, the discovery of nuclear fission has led to both nuclear weapons and nuclear power. Computers were also invented and later miniaturized utilizing transistors and integrated circuits. The technology behind got called information technology, and these advancements subsequently led to the creation of the Internet, which ushered in the current Information Age. Humans have also been able to explore space with satellites (later used for telecommunication) and in manned missions going all the way to the moon. In medicine, this era brought innovations such as open-heart surgery and later stem cell therapy along with new medications and treatments. Complex manufacturing and construction techniques and organizations are needed to construct and maintain these new technologies, and entire industries have arisen to support and develop succeeding generations of increasingly more complex tools. Modern technology increasingly relies on training and education — their designers, builders, maintainers, and users often require sophisticated general and specific training. Moreover, these technologies have become so complex that entire fields have been created to support them, including engineering, medicine, and computer science, and other fields have been made more complex, such as construction, transportation and architecture.
+
+4. Philosophy
+
+4.1. Technicism
+
+Generally, technicism is a reliance or confidence in technology as a benefactor of society. Taken to extreme, technicism is the belief that humanity will ultimately be able to control the entirety of existence using technology. In other words, human beings will someday be able to master all problems and possibly even control the future using technology. Some, such as Stephen V. Monsma, connect these ideas to the abdication of religion as a higher moral authority.
+
+4.2. Optimism
+
+Optimistic assumptions are made by proponents of ideologies such as transhumanism and singularitarianism, which view technological development as generally having beneficial effects for the society and the human condition. In these ideologies, technological development is morally good. Some critics see these ideologies as examples of scientism and techno-utopianism and fear the notion of human enhancement and technological singularity which they support. Some have described Karl Marx as a techno-optimist.
+
+4.3. Skepticism and critics
+
+On the somewhat skeptical side are certain philosophers like Herbert Marcuse and John Zerzan, who believe that technological societies are inherently flawed. They suggest that the inevitable result of such a society is to become evermore technological at the cost of freedom and psychological health.
+
+Many, such as the Luddites and prominent philosopher Martin Heidegger, hold serious, although not entirely deterministic reservations, about technology (see "The Question Concerning Technology"). According to Heidegger scholars Hubert Dreyfus and Charles Spinosa, "Heidegger does not oppose technology. He hopes to reveal the essence of technology in a way that 'in no way confines us to a stultified compulsion to push on blindly with technology or, what comes to the same thing, to rebel helplessly against it.' Indeed, he promises that 'when we once open ourselves expressly to the essence of technology, we find ourselves unexpectedly taken into a freeing claim.'" What this entails is a more complex relationship to technology than either techno-optimists or techno-pessimists tend to allow.
+
+Some of the most poignant criticisms of technology are found in what are now considered to be dystopian literary classics, for example Aldous Huxley's Brave New World and other writings, Anthony Burgess's A Clockwork Orange, and George Orwell's Nineteen Eighty-Four. And, in Faust by Goethe, Faust's selling his soul to the devil in return for power over the physical world, is also often interpreted as a metaphor for the adoption of industrial technology. More recently, modern works of science fiction, such as those by Philip K. Dick and William Gibson, and films (e.g. Blade Runner, Ghost in the Shell) project highly ambivalent or cautionary attitudes toward technology's impact on human society and identity.
+
+The late cultural critic Neil Postman distinguished tool-using societies from technological societies and, finally, what he called "technopolies," that is, societies that are dominated by the ideology of technological and scientific progress, to the exclusion or harm of other cultural practices, values and world-views.
+
+Darin Barney has written about technology's impact on practices of citizenship and democratic culture, suggesting that technology can be construed as (1) an object of political debate, (2) a means or medium of discussion, and (3) a setting for democratic deliberation and citizenship. As a setting for democratic culture, Barney suggests that technology tends to make ethical questions, including the question of what a good life consists in, nearly impossible, because they already give an answer to the question: a good life is one that includes the use of more and more technology.
+
+Nikolas Kompridis has also about the dangers of new technology, such as genetic engineering, nanotechnology, synthetic biology and robotics. He warns that these technologies introduce unprecedented new challenges to human beings, including the possibility of the permanent alteration of our biological nature. These concerns are shared by other philosophers, scientists and public intellectuals who have written about similar issues (e.g. Francis Fukuyama, Jürgen Habermas, William Joy, and Michael Sandel).
+
+Another prominent critic of technology is Hubert Dreyfus, who has published books On the Internet and What Computers Still Can't Do.
+
+Another, more infamous anti-technological treatise is Industrial Society and Its Future, written by Theodore Kaczynski (aka The Unabomber) and printed in several major newspapers (and later books) as part of an effort to end his bombing campaign of the techno-industrial infrastructure.
+
+4.4. Appropriate technology
+
+The notion of appropriate technology, however, was developed in the 20th century (e.g., see the work of E. F. Schumacher and of Jacques Ellul) to describe situations where it was not desirable to use very new technologies or those that required access to some centralized infrastructure or parts or skills imported from elsewhere. The eco-village movement emerged in part due to this concern.
+
+5. Competitiveness
+
+In 1983 Project Socrates was initiated in the US intelligence community to determine the source of declining US economic and military competitiveness. Project Socrates concluded that technology exploitation is the foundation of all competitive advantage and that declining US competitiveness was from decision-making in the private and public sectors switching from technology exploitation (technology-based planning) to money exploitation (economic-based planning) at the end of World War II.
+
+Technology is properly defined as any application of science to accomplish a function. The science can be leading edge or well established and the function can have high visibility or be significantly more mundane but it is all technology, and its exploitation is the foundation of all competitive advantage.
+
+Technology-based planning is what was used to build the US industrial giants before WWII (e.g., Dow, DuPont, GM) and it what was used to transform the US into a superpower. It was not economic-based planning.
+
+Project Socrates determined that to rebuild US competitiveness, decision making throughout the US had to readopt technology-based planning. Project Socrates also determined that countries like China and India had continued executing technology-based (while the US took its detour into economic-based) planning, and as a result had considerably advanced the process and were using it to build themselves into superpowers. To rebuild US competitiveness the US decision-makers needed to adopt a form of technology-based planning that was far more advanced than that used by China and India.
+
+Project Socrates determined that technology-based planning makes an evolutionary leap forward every few hundred years and the next evolutionary leap, the Automated Innovation Revolution, was poised to occur. In the Automated Innovation Revolution the process for determining how to acquire and utilize technology for a competitive advantage (which includes R&D) is automated so that it can be executed with unprecedented speed, efficiency and agility.
+
+Project Socrates developed the means for automated innovation so that the US could lead the Automated Innovation Revolution in order to rebuild and maintain the country's economic competitiveness for many generations.
+
+6. Other animal species
+
+The use of basic technology is also a feature of other animal species apart from humans. These include primates such as chimpanzees, some dolphin communities, and crows. Considering a more generic perspective of technology as ethology of active environmental conditioning and control, we can also refer to animal examples such as beavers and their dams, or bees and their honeycombs.
+
+The ability to make and use tools was once considered a defining characteristic of the genus Homo. However, the discovery of tool construction among chimpanzees and related primates has discarded the notion of the use of technology as unique to humans. For example, researchers have observed wild chimpanzees utilising tools for foraging: some of the tools used include leaf sponges, termite fishing probes, pestles and levers. West African chimpanzees also use stone hammers and anvils for cracking nuts, as do capuchin monkeys of Boa Vista, Brazil.
+
+7. Future technology
+
+Theories of technology often attempt to predict the future of technology based on the high technology and science of the time.
+
+8. See also
+
+9. References
+
+10. Further reading
+
+Huesemann, M.H., and J.A. Huesemann (2011). , New Society Publishers, ISBN 0865717044.
+
+.
+
+Kevin Kelly. What Technology Wants. New York, Viking Press, October 14, 2010, hardcover, 416 pages. ISBN 978-0-670-02215-1
+
+Mumford, Lewis. (2010). Technics and Civilization. University of Chicago Press, ISBN 0226550273.
+
+Rhodes, Richard. (2000). Visions of Technology: A Century of Vital Debate about Machines, Systems, and the Human World. Simon & Schuster, ISBN 0684863111.
+
+Teich, A.H. (2008). Technology and the Future. Wadsworth Publishing, 11th edition, ISBN 0495570524.
+
+Wright, R.T. (2008). Technology. Goodheart-Wilcox Company, 5th edition, ISBN 1590707184.

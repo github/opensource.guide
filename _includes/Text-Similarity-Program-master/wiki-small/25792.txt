@@ -1,0 +1,203 @@
+The Roman calendar changed its form several times between the founding of Rome and the fall of the Roman Empire. This article generally discusses the early Roman or pre-Julian calendars. The calendar used after 46 BC is discussed under Julian calendar. The common calendar widely used today known as the Gregorian calendar is a refinement of the Julian calendar where the length of the year has been adjusted from 365.25 days to 365.2425 days (a 0.002% change).
+
+1. History
+
+The original Roman calendar is believed to have been a lunar calendar, which may have been based on one of the Greek lunar calendars. As the time between new moons averages 29.5 days, its months were constructed to be either hollow (29 days) or full (30 days). Full months were considered powerful and therefore auspicious; hollow months were unlucky. Unlike currently used dates, which are numbered sequentially from the beginning of the month, the Romans counted backwards from three fixed points: the Nones, the Ides and the Kalends of the following month. This system originated in the practice of "calling" the new month when the lunar crescent was first observed in the west after sunset. From the shape and orientation of the new moon, the number of days remaining to the nones would be proclaimed. At some point in history dates of months ceased to be connected with lunar phases, but it is unknown when it happened.
+
+1.1. Calendar of Romulus
+
+Roman writers attributed the original Roman calendar to Romulus, the mythical founder of Rome around 753 BC. The Romulus calendar had ten months with the spring equinox in the first month:
+
+The regular calendar year consisted of 304 days, with the winter days after the end of December and before the beginning of the following March not being assigned to any month.
+
+The names of the first four months were named in honour of Roman gods: Martius in honour of Mars; Aprilis in honor of Virilis (or ″Avril″ as we see in French—only much later in the mid-4th century AD did it change to honor Venus); Maius in honour of Maia; and Iunius in honour of Juno. The names of the months from the fifth month on were based on their position in the calendar: Quintilis comes from Latin quinque meaning five; Sextilis from sex meaning six; September from septem meaning seven; October from octo meaning eight; November from novem meaning nine; and December from decem meaning ten.
+
+1.2. Calendar of Numa
+
+Numa Pompilius, the second of the seven traditional kings of Rome, reformed the calendar of Romulus around 713 BC. The Romans considered odd numbers to be lucky, so Numa took one day from each of the six months with 30 days, reducing the number of days in the 10 previously defined months by a total of six days.
+
+There were 51 previously unallocated winter days, to which were added the six days from the reductions in the days in the months, making a total of 57 days. These he made into two months, January and February, which he prefixed to the previous 10 months. January was given 29 days, while February had the unlucky number of 28 days, suitable for the month of purification. This made a regular year (of 12 lunar months) 355 days long in place of the previous 304 days of the Romulus calendar. Of the 11 months with an odd number of days, four had 31 days each and seven had 29 days each:
+
+February consisted of two parts, each with an odd number of days. The first part ended with the Terminalia on the 23rd, which was considered the end of the religious year, and the five remaining days formed the second part.
+
+To keep the calendar year roughly aligned with the solar year, a leap month, called the Mensis Intercalaris, sometimes also known as Mercedonius or Mercedinus, was added from time to time between these two parts of February, after the 23rd or the 24th. The second part of February was incorporated in the intercalary month as its last five days, with no change either in their dates or the festivals observed on them. The resulting leap year was either 377 or 378 days long, depending on whether Intercalaris began on the day after the Terminalia or the second day after the Terminalia. Intercalaris had 27 days, consisting of 22 additional days plus the five days brought over from February. Its Nones were on the fifth and its Ides on the 13th as usual; the next following day was a.d. XV Kal. Mart.
+
+The Pontifex Maximus determined when an intercalary month was to be inserted. On average, this happened in alternate years. The system of aligning the year through intercalary months broke down at least twice: the first time was during and after the Second Punic War. It led to the reform of the Lex Acilia in 191 BC, the details of which are unclear, but it appears to have successfully regulated intercalation for over a century. The second breakdown was in the middle of the first century BC and may have been related to the increasingly chaotic and adversarial nature of Roman politics at the time. The position of Pontifex Maximus was not a full-time job; it was held by a member of the Roman elite, who would almost invariably be involved in the machinations of Roman politics. Because the term of office of elected Roman magistrates was defined in terms of a Roman calendar year, a Pontifex Maximus would have reason to lengthen a year in which he or his allies were in power, or shorten a year in which his political opponents held office. For example, Julius Caesar made the year of his third consulship in 46 BC 445 days long.
+
+1.3. Julian calendar
+
+Julius Caesar, as Pontifex Maximus, reformed the calendar in 46 BC. The new calendar became known as the Julian calendar. Quintilis was renamed as Iulius (July) in honour of Julius Caesar in 44 BC by Mark Antony. The calendar reforms were completed during the reign of his successor Augustus, when the Senate renamed Sextilis as Augustus (August) in 8 BC. (Lex Pacuvia de mense augusto—see Macrobius, Saturnalia, 1.12). Some documents state that the date of the change of the name started between 26 and 23 BC but the date of the Lex Pacuvia is certain.
+
+2. Months
+
+In the earliest times, the three reference dates were probably declared publicly, when appropriate lunar conditions were observed. After the reforms of Numa, they occurred on fixed days.
+
+Kalendae (whence "calendar"), Kalends舒first day of the month; it is thought to have originally been the day of the new moon. According to some ancient or modern proposed etymologies of the word, it was derived from the phrase kalo Iuno Covella or kalo Iuno Novella, meaning, respectively, "hollow Juno I call you" and "new Juno I call you", an announcement about the Nones or in proclaiming the new moon that marked the Kalends which the pontiffs made every first day of the month on the Capitoline Hill in the Announcement Hall.
+
+Nonae, Nones舒thought to have originally been the day of the half moon. The Nones was eight days before the Ides, and fell on the fifth or seventh day of the month, depending on the position of the Ides. (Nones implies ninth from the Latin novem, because, counting Ides as first, one day before is the second, and eight days before is the ninth).
+
+Idus, Ides舒thought to have originally been the day of the full moon, was the 13th day of the months with 29 days, but the 15th day of March, May, July, and October (the months with 31 days). The day preceding the Kalends, Nones, or Ides was Pridie, e.g., Prid. Id. Mart. = 14 March. Other days were denoted by ordinal number, counting back from a named reference day. The reference day itself counted as the first, so that two days before was denoted the third day. Dates were written as a.d. NN, an abbreviation for ante diem NN, meaning "on the Nth (Numerus) day before the named reference day (Nomen)", e.g., a.d. III Kal. Nov. = on the third day before the November Kalends = 30 October. The value two was not used to denote a day before the fixed point, because second was the same as pridie. Further examples of date equivalence are: a.d. IV Non. Jan. = 2 January; a.d. VI Non. Mai. = 2 May; a.d. VIII Id. Apr. = 6 April; a.d. VIII Id. Oct. = 8 October; a.d. XVII Kal. Nov. = 16 October.
+
+In detail, the system worked as follows:
+
+Months were grouped in days such that the Kalends was the first day of the month, the Ides was the 13th day of short months, or the 15th day of long months, and the Nones was the 9th day (counted inclusively) before the Ides (i.e., the fifth or seventh day of the month). All other days of the month were counted backward (inclusively) from these three dates. In both long and short months (except February), there were 16 days between the Ides of the month and the Kalends of the next month, and the date referred to the name of the next month, not that of the current month; thus, for example, the date of the 16th day of March was a.d. XVII Kal. Apr. In intercalary years, the first part of February was terminated on the 23rd or 24th day, i.e., the day of the Terminalia or the following day, and the festivals normally held in the last five days of February were held instead in the last five days of the intercalary month, immediately before the Kalends of March. The first 22 days of the intercalary month were inserted between these two parts.
+
+So:
+
+In long months (31 days—March, May, July (Quintilis), and October), the days were divided into:
+
+1st day of the month: 1 day for the Kalends of the month
+
+2nd to 6th days of the month: 5 days before the Nones
+
+7th day of the month: 1 day for the Nones
+
+8th to 14th days of the month: 7 days before the Ides
+
+15th day of the month: 1 day for the Ides
+
+16th to 31st days of the month: 16 days before the Kalends of the next month
+
+In short months (29 days—January, April, June, August (Sextilis), September, November and December), the days were divided into:
+
+1st day of the month: 1 day for the Kalends of the month
+
+2nd to 4th days of the month: 3 days before the Nones
+
+5th day of the month: 1 day for the Nones
+
+6th to 12th days of the month: 7 days before the Ides
+
+13th day of the month: 1 day for the Ides
+
+14th to 29th days of the month: 16 days before the Kalends of the next month
+
+In ordinary years, the days in February (28 days) were divided into:
+
+1st day of the month: 1 day for the Kalends of February
+
+2nd to 4th days of the month: 3 days before the Nones
+
+5th day of the month: 1 day for the Nones
+
+6th to 12th days of the month: 7 days before the Ides
+
+13th day of the month: 1 day for the Ides
+
+14th to 28th days of the month: 15 days before the Kalends of March
+
+In intercalary years, the days in February (23 or 24 days) were divided into:
+
+1st day of the month: 1 day for the Kalends of February
+
+2nd to 4th days of the month: 3 days before the Nones
+
+5th day of the month: 1 day for the Nones
+
+6th to 12th days of the month: 7 days before the Ides
+
+13th day of the month: 1 day for the Ides
+
+14th to 23rd days of a 23-day February: 9 days before the Kalends of the intercalary month
+
+14th to 24th days of a 24-day February: 10 days before the Kalends of the intercalary month
+
+The days of the intercalary month inserted in intercalary years (27 days) were divided into:
+
+1st day of the intercalary month: 1 day for the Kalends of the intercalary month
+
+2nd to 4th days of the intercalary month: 3 days before the Nones
+
+5th day of the intercalary month: 1 day for the Nones
+
+6th to 12th days of the intercalary month: 7 days before the Ides
+
+13th day of the intercalary month: 1 day for the Ides
+
+14th to 27th days of the intercalary month: 14 days before the Kalends of March Some dates were also sometimes known by the name of a festival that occurred on them, or shortly afterwards. Examples of such dates are recorded for the Feralia, Quirinalia, and the Terminalia, though not yet for the Lupercalia. The known examples of such dates are all after the Ides of February, which suggests they are connected with resolving an ambiguity that could arise in intercalary years: dates of the form a.d. [N] Kal. Mart. were dates in late February in regular years, but were a month later in intercalary years. However, it is much debated whether there was a fixed rule for using festival-based dates. It has been variously proposed that a date like a.d. X Terminalia (known from an inscription in 94 BC) implied that its year 'was', 'was not', or 'might have been' intercalary.
+
+When Julius Caesar added days to some months, he added them to the end of the month, so as not to disturb the dates of festivals in those months. This increased the count of all days after the Ides in those months, and had some odd effects. For example, the emperor Augustus was born in 63 BC on the 23rd day of September. In the pre-Julian calendar, this is seven days before the Kalends of October (or, in Roman style, counting inclusively, a.d. VIII Kal. Oct.), but in the Julian calendar, it is eight days (a.d. IX Kal. Oct.). Because of this ambiguity, his birthday was sometimes celebrated on both dates. See discussion in Julian calendar.
+
+3. Nundinal cycle
+
+The Romans of the Republic, like the Etruscans, used a "market week" of eight days, marked as A to H in the calendar. A nundina was the market day; etymologically, the word is related to novem, "nine", because the Roman system of counting was inclusive. The market "week" is the nundinal cycle. Since the length of the year was not a multiple of eight days, the letter for the market day (known as a "nundinal letter") changed every year. For example, if the letter for market days in some year was A and the year was 355 days long, then the letter for the next year would be F.
+
+The nundinal cycle formed one rhythm of day-to-day Roman life; the market day was the day when country people would come to the city, and the day when city people would buy their eight days' worth of groceries. For this reason, a law was passed in 287 BC (the Lex Hortensia) that forbade the holding of meetings of the comitia (for example to hold elections) on market days, but permitted the holding of legal actions. In the late republic, a superstition arose that it was unlucky to start the year with a market day (i.e., for the market day to fall on 1 January, with a letter A), and the pontiffs, who regulated the calendar, took steps to avoid it.
+
+Because the nundinal cycle was absolutely fixed at eight days under the Republic, information about the dates of market days is one of the most important tools used for working out the Julian equivalent of a Roman date in the pre-Julian calendar. In the early Empire, the Roman market day was occasionally changed. The details of this are not clear, but one likely explanation is that it would be moved by one day if it fell on the same day as the festival of Regifugium, an event that could occur every other Julian leap year. When this happened, the market day would be moved to the next day, which was the bissextile (leap) day.
+
+The nundinal cycle was eventually replaced by the modern seven-day week, which first came into use in Italy during the early imperial period, after the Julian calendar had come into effect in 45 BC. The system of nundinal letters was also adapted for the week, see dominical letter. For a while, the week and the nundinal cycle coexisted, but by the time the week was officially adopted by Constantine in AD 321, the nundinal cycle had fallen out of use. For further information on the week, see week and days of the week.
+
+4. Character of the day
+
+Each day of the Roman calendar was marked on the fasti with a letter that designated its religious and legal character. These were:
+
+F (fastus), days when it was legal to initiate action in the courts of civil law (dies fasti);
+
+C (comitialis), a day on which the Roman people could hold assemblies (dies comitalis);
+
+N (nefastus), when these political activities and the administration of justice were prohibited (dies nefasti);
+
+NP of elusive meaning, but marking feriae, public holidays (sometimes thought to mean nefastus priore, "unlawful before noon", along with FP, fastus priore, "lawful before noon");
+
+QRCF (perhaps for quando rex comitiavit fas), a day when it was religiously permissible for the rex (probably the priest known as the rex sacrorum) to call for an assembly;
+
+EN (endotercissus, an archaic form of intercissus, "cut in half"), for days that were nefasti in the morning, when sacrifices were being prepared, as well as in the evening, while sacrifices were being offered, but were fasti in the middle of the day.
+
+5. Years
+
+The calendar year originally began on 1 March, as is shown by the names of the six months following June (Quintilis = fifth month, Sextilis = sixth month, September = seventh month, etc.). It is not known when the start of the calendar year was changed to 1 January. Ancient authors attributed it to Numa Pompilius. Varro states that, according to M. Fulvius Nobilior (consul in 189 BC), who had composed a commentary on a fasti preserved in the temple of Hercules Musarum, January was named after Janus because the god faced both ways, which implies the calendar year started in January in his time, before the consular year started beginning on 1 January in 153 BC. A surviving calendar from the late Republic proves the calendar year started in January before the Julian reform.
+
+How years were identified during the Roman monarchy is not known. During the Roman Republic, years were named after the consuls, who were elected annually (see List of Republican Roman Consuls). Thus, the name of the year identified a consular term of office, not a calendar year. For example, 205 BC was "The year of the consulship of Publius Cornelius Scipio Africanus and Publius Licinius Crassus", who took office on 15 March of that year, and their consular year ran until 14 March 204 BC. Lists of consuls were maintained in the fasti.
+
+The first day of the consular term changed several times during Roman history. It became 1 January in 153 BC. Before then, it was 15 March. Earlier changes are a little less certain. There is good reason to believe it was 1 May for most of the third century BC, until 222 BC. Livy mentions earlier consular years starting on 1 Sextilis (August), 15 May, 15 December, 1 October and 1 Quintilis (July).
+
+In the later Republic, historians and scholars began to count years from the founding of the city of Rome. Different scholars used different dates for this event. The date most widely used today is that calculated by Varro, 753 BC, but other systems varied by up to several decades. Dates given by this method are numbered ab urbe condita (meaning "from the founding of the city", and abbreviated AUC), and correspond to consular years. When reading ancient works using AUC dates, care must be taken to determine the epoch used by the author before translating the date into a Julian year.
+
+6. Converting pre-Julian dates
+
+The fact that the modern world uses the same month names as the Romans can lead to an erroneous assumption that a Roman date occurred on the same Julian date as its modern equivalent. Even early Julian dates, before the leap year cycle was stabilised, are not quite what they appear to be. For example, Julius Caesar was assassinated on the Ides of March in 44 BC. This is usually converted to 15 March 44 BC. While he was indeed assassinated on the 15th day of the Roman month Martius, the equivalent date on the modern Julian calendar is probably 14 March 44 BC.
+
+Finding the exact Julian equivalent of a pre-Julian date is complex. As there exists an essentially complete list of the consuls, a Julian year can be found to correspond to the pre-Julian year.
+
+However, the sources rarely reveal which years were regular, which were intercalary, and how long an intercalary year was. Nevertheless, the pre-Julian calendar could be substantially out of alignment with the Julian calendar. Two precise astronomical synchronisms given by Livy show that in 168 BC, the two calendars were misaligned by more than two months, and in 190 BC, they were four months out of alignment.
+
+A number of other clues are available to reconstruct the Julian equivalent of pre-Julian dates. First, the precise Julian date for the start of the Julian calendar is known, although some uncertainty occurs even about that. Detailed sources for the previous decade or so are found, mostly in the letters and speeches of Cicero. Combining these with what is known about how the calendar worked, especially the nundinal cycle, an accurate conversion of Roman dates after 58 BC relative to the start of the Julian calendar can be performed.
+
+The histories of Livy give exact Roman dates for two eclipses in 190 BC and 168 BC, and a few loose synchronisms to dates in other calendars provide rough (and sometimes exact) solutions for the intervening period. Before 190 BC, the alignment between the Roman and Julian years is determined by clues such as the dates of harvests mentioned in the sources.
+
+Combining these sources of data, an estimate can be computed for approximate Julian equivalents of Roman dates back to the start of the First Punic War in 264 BC. However, while there are enough data to make such reconstructions, the number of years before 45 BC for which pre-Julian Roman dates can be converted to Julian dates with certainty is very small, and several different reconstructions of the pre-Julian calendar are possible. A detailed reconstruction giving conversions from pre-Julian dates into Julian dates is available.
+
+7. See also
+
+Ab urbe condita
+
+Ancient Rome
+
+General Roman calendar (includes calendar of Roman Catholic saints)
+
+Gregorian calendar
+
+Julian calendar
+
+Roman festivals
+
+8. Notes
+
+9. References and further reading
+
+Bickerman, E. J. Chronology of the Ancient World. (London: Thames & Hudson, 1969, rev. ed. 1980).
+
+Brind'Amour, P. Le Calendrier romain: Recherches chronologiques (Ottawa, 1983)
+
+Feeney, Denis C. Caesar's Calendar: Ancient Time and the Beginnings of History. Berkeley: University of California Press, 2007 (hardcover, ISBN 0-520-25119-9).
+
+Michels, A. K. The Calendar of the Roman Republic (Princeton, 1967).
+
+Richards, E. G. Mapping Time. Oxford: Oxford University Press. ISBN 0-19-850413-6.
+
+Rüpke, J. The Roman Calendar from Numa to Constantine: Time, History and the Fasti (trans. D. M. B. Richardson) (Wiley, 2011). ISBN 978-0-470-65508-5 (print) 9781444396539 .
+
+10. External links
+
+[dead link]

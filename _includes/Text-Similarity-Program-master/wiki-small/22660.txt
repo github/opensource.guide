@@ -1,0 +1,113 @@
+occam is a concurrent programming language that builds on the Communicating Sequential Processes (CSP) process algebra, and shares many of its features. It is named after William of Ockham of Occam's Razor fame.
+
+occam is an imperative procedural language (such as Pascal). It was developed by David May and others at INMOS, advised by Tony Hoare, as the native programming language for their transputer microprocessors, but implementations for other platforms are available. The most widely known version is occam 2; its programming manual was written by Steven Ericsson-Zenith and others at INMOS.
+
+1. Overview
+
+In the following examples indentation and formatting are critical for parsing the code: expressions are terminated by the end of the line, lists of expressions need to be on the same level of indentation. This feature, named the off-side rule, is also found in other languages such as Haskell and Python.
+
+Communication between processes work through named channels. One process outputs data to a channel via "!" while another one inputs data with "?". Input and output can not proceed until the other end is ready to accept or offer data. (In the "not proceeding" case it is often said that the process "blocks" on the channel. However, the program will neither spin nor poll; therefore terms like "wait", "hang" or "yield" may also convey the behaviour - also in the light of the fact that it will not "block" other independent processes from running.) Examples (c is a variable):
+
+SEQ introduces a list of expressions that are evaluated sequentially. This is not implicit as it is in most other programming languages. Example:
+
+PAR begins a list of expressions that may be evaluated concurrently. Example:
+
+ALT specifies a list of guarded commands. The guards are a combination of a boolean condition and an input expression (both optional). Each guard for which the condition is true and the input channel is ready is successful. One of the successful alternatives is selected for execution. Example:
+
+This will read data from channels c1 or c2 (whichever is ready) and pass it into a merged channel. If countN reaches 100, reads from the corresponding channel will be disabled. A request on the status channel is answered by outputting the counts to out.
+
+2. Language revisions
+
+2.1. occam 1
+
+occam 1 (released 1983) was a preliminary version of the language which borrowed from David May's work on EPL and Tony Hoare's CSP. This supported only the VAR data type, which was an integral type corresponding to the native word length of the target architecture, and arrays of only one dimension.
+
+2.2. occam 2
+
+occam 2 is an extension produced by INMOS Ltd in 1987 that adds floating-point support, functions, multi-dimensional arrays and more data types such as varying sizes of integers (INT16, INT32) and bytes.
+
+With this revision, occam became a language capable of expressing useful programs, whereas occam 1 was more suited to examining algorithms and exploring the new language (however, the occam 1 compiler was written in occam 1, so there is an existence proof that reasonably sized, useful programs could be written in occam 1, despite its limitations).
+
+2.3. occam 2.1
+
+occam 2.1 was the last of the series of occam language developments contributed by INMOS. Defined in 1994, it was influenced by an earlier proposal for an occam 3 language (also referred to as "occam91" during its early development) created by Geoff Barrett at INMOS in the early 1990s. A revised Reference Manual describing occam 3 was distributed for community comment, but the language was never fully implemented in a compiler.
+
+occam 2.1 introduced several new features to occam 2, including:
+
+Named data types (DATA TYPE x IS y)
+
+Named Records
+
+Packed Records
+
+Relaxation of some of the type conversion rules
+
+New operators (e.g. BYTESIN)
+
+Channel retyping and channel arrays
+
+Ability to return fixed-length array from function. For a full list of the changes see Appendix P of the .
+
+2.4. occam-π
+
+occam-π is the common name for the occam variant implemented by later versions of KRoC, the Kent Retargetable occam Compiler. The addition of the symbol "π" (pi) to the occam name is an allusion to the fact that KRoC occam includes several ideas inspired by the pi-calculus. It contains a significant number of extensions to the occam 2.1 compiler, for example:
+
+Nested protocols
+
+Run-time process creation
+
+Mobile channels, data, and processes
+
+Recursion
+
+Protocol inheritance
+
+Array constructors
+
+Extended rendezvous
+
+3. See also
+
+Communicating Sequential Processes
+
+The XC Programming Language, which is based on occam but with C-style syntax.
+
+Concurrent programming languages
+
+List of concurrent and parallel programming languages
+
+4. References
+
+5. Further reading
+
+Egorov, A., Technical University - Sofia, (1983-2011)Записки по Компютърни архитектури
+
+6. External links
+
+6.1. General information
+
+Information, compilers, editors and utilities at the .
+
+Compilers, documentation, examples, projects and utilities at the (no longer maintained).
+
+Occam books on .
+
+David May's .
+
+Fred Barnes' .
+
+6.2. Other implementations
+
+.
+
+- (translator from occam to C from Kent) a Haskell-based compiler for occam and related languages.
+
+6.3. Related projects
+
+.
+
+- an operating system written in occam-π.
+
+- a framework for Occam-like Lua-based programming.
+
+- a transputer virtual machine.

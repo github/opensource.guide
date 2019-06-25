@@ -1,0 +1,325 @@
+The V-1 flying bomb (,)—also known to the Allies as the buzz bomb, or doodlebug, and in Germany as Kirschkern (cherrystone) or Maikäfer (maybug)—was an early pulse-jet-powered predecessor of the cruise missile.
+
+The V-1 was developed at Peenemünde Army Research Centre by the German Luftwaffe during the Second World War. During initial development it was known by the codename "Cherry Stone". The first of the so-called Vergeltungswaffen series designed for terror bombing of London, the V-1 was fired from launch sites along the French (Pas-de-Calais) and Dutch coasts. The first V-1 was launched at London on 13 June 1944), one week after (and prompted by) the successful Allied landing in Europe. At its peak, more than one hundred V-1s a day were fired at south-east England, 9,521 in total, decreasing in number as sites were overrun until October 1944, when the last V-1 site in range of Britain was overrun by Allied forces. After this, the V-1s were directed at the port of Antwerp and other targets in Belgium, with 2,448 V-1s being launched. The attacks stopped when the last launch site was overrun on 29 March 1945.
+
+The British operated an arrangement of defences (including guns and fighter aircraft) to intercept the bombs before they reached their targets as part of Operation Crossbow, while the launch sites and underground V-1 storage depots were targets of strategic bombing.
+
+1. Design and development
+
+In late 1936, while employed by the Argus Motoren company, Fritz Gosslau began work on the further development of remote-controlled aircraft; Argus had already developed a remote-controlled surveillance aircraft, the AS 292 (military designation FZG 43).
+
+On 9 November 1939, a proposal for a remote-controlled aircraft carrying a payload of over a distance of was forwarded to the RLM (German Air Ministry). Argus joined with Lorentz AG and Arado Flugzeugwerke to develop the project as a private venture, and in April 1940, Gosslau presented an improved study of Project "Fernfeuer" to the RLM, as Project P 35 "Erfurt".
+
+On 31 May, Rudolf Bree of the RLM commented that he saw no chance that the projectile could be deployed in combat conditions, as the proposed remote control system was seen as a design weakness. Heinrich Koppenberg, the director of Argus, met with Ernst Udet on 6 January 1941 to try to convince him that the development should be continued, but Udet opted to cancel it.
+
+Despite this, Gosslau was convinced that the basic idea was sound and proceeded to simplify the design. As an engine manufacturer, Argus lacked the capability to produce a fuselage for the project and Koppenberg sought the assistance of Robert Lusser, chief designer and technical director at Heinkel. On 22 January 1942, Lusser took up a position with the Fieseler aircraft company. He met with Koppenberg on 27 February and was informed of Gosslau's project. Gosslau's design used two pulse jet engines; Lusser improved the design to use a single engine.
+
+A final proposal for the project was submitted to the Technical Office of the RLM on 5 June and the project was renamed Fi 103, as Fieseler was to be the chief contractor. On 19 June, Generalfeldmarschall Erhard Milch gave Fi 103 production high priority, and development was undertaken at the Luftwaffe's Erprobungsstelle coastal test centre at Karlshagen, part of the Peenemünde-West facility.
+
+By 30 August, Fieseler had completed the first fuselage, and the first flight of the Fi 103 V7 took place on 10 December, when it was airdropped by a Fw 200.
+
+The V-1 was named by The Reich journalist Hans Schwarz Van Berkl in June 1944 with Hitler's approval.
+
+2. Description
+
+The V-1 was designed under the codename Kirschkern (cherry stone) by Lusser and Gosslau, with a fuselage constructed mainly of welded sheet steel and wings built of plywood. The simple, Argus-built pulse jet engine pulsed 50 times per second, and the characteristic buzzing sound gave rise to the colloquial names "buzz bomb" or "doodlebug" (a common name for a wide variety of insects). It was known briefly in Germany (on Hitler's orders) as Maikäfer (May bug) and Krähe (crow).
+
+2.1. Power plant
+
+Ignition of the Argus pulse jet was accomplished using an automotive type spark plug located about behind the intake shutters, with current supplied from a portable starting unit. Three air nozzles in the front of the pulse jet were at the same time connected to an external high pressure air source which was used to start the engine. Acetylene gas was typically used for starting, and very often a panel of wood or similar material was held across the end of the tailpipe to prevent the fuel from diffusing and escaping before ignition.The V-1 was fueled by of 75 octane gasoline.
+
+Once the engine had been started and the temperature had risen to the minimum operating level, the external air hose and connectors were removed and the engine's resonant design kept it firing without any further need for the electrical ignition system, which was used only to ignite the engine when starting.
+
+It is a common myth that the V-1's Argus As 014 pulse jet engine needed a minimum airspeed of to operate. The Argus As 014 (also known as a resonant jet) could in fact operate at zero airspeed due to the nature of its intake shutters and its acoustically tuned resonant combustion chamber. Contemporary film footage of the V-1 always shows the distinctive pulsating exhaust of a fully running engine before the catapult system is triggered and the missile launched. The origin of this myth may lie in the fact that due to the low static thrust of the pulse jet engine and the very high stall speed of the small wings, the V-1 could not take off under its own power in a practically short distance, and thus required to either be launched by aircraft catapult or be airlaunched from a modified bomber aircraft such as the Heinkel He-111. Ground-launched V-1s were typically propelled up an inclined launch ramp by an apparatus known as a Dampferzeuger ("steam generator") which used stabilized hydrogen peroxide and potassium permanganate (T-Stoff and Z-Stoff). Takeoff speed was .
+
+Beginning in January 1941, the V-1's pulse jet engine was also tested on a variety of craft, including automobiles and an experimental attack boat known as the "Tornado". The unsuccessful prototype was a version of a Sprengboot, in which a boat loaded with explosives was steered towards a target ship and the pilot would leap out of the back at the last moment. The Tornado was assembled from surplus seaplane hulls connected in catamaran fashion with a small pilot cabin on the cross beams. The Tornado prototype was a noisy underperformer and was abandoned in favour of more conventional piston engined craft.
+
+The engine made its first flight aboard a Gotha Go 145 on 30 April 1941.
+
+2.2. Guidance system
+
+The V-1 guidance system used a simple autopilot to regulate altitude and airspeed, developed by Askania in Berlin. (The RLM at first planned to use a radio-control system with the V-1 for precision attacks, but the government decided to instead use the missile against London.) A weighted pendulum system provided fore-and-aft attitude measurement to control pitch (damped by a gyrocompass, which it also stabilized). Operating power for the gyroscope platform and the flight control actuators was provided by two large spherical compressed air tanks which also pressurized the fuel tank. These air tanks were charged to before launch. With the counter determining how far the missile would fly, it was only necessary to launch the V-1 with the ramp pointing in the approximate direction, and the autopilot controlled the flight.
+
+There was a more sophisticated interaction between yaw, roll, and other sensors: a gyrocompass (set by swinging in a hangar before launch) gave feedback to control the dynamics of pitch and roll, but it was angled away from the horizontal so that controlling these degrees of freedom interacted: the gyroscope remained true on the basis of feedback received from a magnetic compass, and from the fore and aft pendulum. This interaction meant that rudder control was sufficient for steering and no banking mechanism was needed. In a V-1 which landed in March 1945 without detonating between Tilburg and Goirle, Netherlands, several rolled issues of the German wartime propaganda magazine Signal were found inserted into the left wing's tubular steel spar, used for weight to preset the missile's static equilibrium before launching. It is also known that several of the first buzz bombs to be launched were provided with a small radio transmitter (using a triode valve marked 'S3' but being equivalent to a then-current power valve, type RL 2,4T1), to check the general direction of flight related to the launching place's and the target's grid coordinates by radio bearing.
+
+An odometer driven by a vane anemometer on the nose determined when the target area had been reached, accurately enough for area bombing. Before launch, the counter was set to a value that would reach zero upon arrival at the target in the prevailing wind conditions. As the missile flew, the airflow turned the propeller, and every 30 rotations of the propeller counted down one number on the counter. This counter triggered the arming of the warhead after about . When the count reached zero, two detonating bolts were fired. Two spoilers on the elevator were released, the linkage between the elevator and servo was jammed and a guillotine device cut off the control hoses to the rudder servo, setting the rudder in neutral. These actions put the V-1 into a steep dive. While this was originally intended to be a power dive, in practice the dive caused the fuel flow to cease, which stopped the engine. The sudden silence after the buzzing alerted listeners of the impending impact. The fuel problem was quickly fixed, and when the last V-1s fell, the majority hit under power.
+
+3. Operation and effectiveness
+
+The first complete V-1 airframe was delivered 30 August 1942, and after the first complete As.109-014 was delivered in September, the first glide test flight was 28 October 1942 at Peenemünde, from under a Focke-Wulf Fw 200. The first powered trial was 10 December, launched from beneath an He-111.
+
+A myth arose that early guidance and stabilisation problems were resolved by a daring test flight by Hanna Reitsch in a V-1 modified for manned operation. The myth entered popular consciousness from Reitsch's fictional exploits in the film Operation Crossbow.
+
+The conventional launch sites could theoretically launch about 15 V-1s per day, but this rate was difficult to achieve on a consistent basis; the maximum rate achieved was 18. Overall, only about 25% of the V-1s hit their targets, the majority being lost because of a combination of defensive measures, mechanical unreliability, or guidance errors. With the capture or destruction of the launch facilities used to attack England, the V-1s were employed in attacks against strategic points in Belgium, primarily the port of Antwerp.
+
+Launches against Britain were met by a variety of countermeasures, including barrage balloons, Hawker Tempests, and even Gloster Meteors. These measures were so successful, by August 1944, about 80% of V-1s were being destroyed. (The Meteors, though fast enough to catch the V-1s, suffered frequent cannon failures, and accounted for only 13.) In all, about 1,000 V-1s were destroyed by aircraft.
+
+The intended operational altitude was originally set at . However, repeated failures of a barometric fuel-pressure regulator led to it being changed in May 1944, halving the operational height, thereby bringing V-1s into range of the Bofors guns commonly used by Allied AA units.
+
+The trial versions of the V-1 were air-launched. Most operational V-1s were launched from static sites on land, but from July 1944 to January 1945, the Luftwaffe launched approximately 1,176 from modified Heinkel He 111 H-22s of the Luftwaffes Kampfgeschwader 3 (3rd Bomber Wing, the so-called "Blitz Wing") flying over the North Sea. Apart from the obvious motive of permitting the bombardment campaign to continue after static ground sites on the French coast were lost, air-launching gave the Luftwaffe the opportunity to outflank the increasingly effective ground and air defences put up by the British against the missile. To minimise the associated risks (primarily radar detection), the aircrews developed a tactic called "lo-hi-lo": the He 111s would, upon leaving their airbases and crossing the coast, descend to an exceptionally low altitude. When the launch point was neared, the bombers would swiftly ascend, fire their V-1s, and then rapidly descend again to the previous 'wave-top' level for the return flight. Research after the war estimated a 40% failure rate of air-launched V-1s, and the He-111s used in this role were extremely vulnerable to night fighter attack, as the launch lit up the area around the aircraft for several seconds. The combat potential of air-launched V-1s dwindled as 1944 progressed at about the same rate as that of the ground-launched missiles, as the British gradually took the measure of the weapon and developed increasingly effective defence tactics. For example, during Operation "Martha", KG 3's He 111H-22s fired 45 V-1s at Britain in a single concerted strike on Christmas Eve 1944, with just one missile getting through to hit a target.
+
+4. Experimental and long-range variants
+
+Late in the war, several air-launched piloted V-1s, known as Reichenbergs, were built, but never used in combat. Hanna Reitsch made some flights in the modified V-1 Fieseler Reichenberg when she was asked to find out why test pilots were unable to land it and had died as a result. She discovered, after simulated landing attempts at high altitude where there was air space to recover, that the craft had an extremely high stall speed and the previous pilots with little high speed experience had attempted their approaches much too slowly. Her recommendation of much higher landing speeds was then introduced in training new Reichenberg volunteer pilots. The Reichenbergs were air-launched rather than fired from a catapult ramp as erroneously portrayed in Operation Crossbow.
+
+There were plans, not put into practice, to use the Arado Ar 234 jet bomber to launch V-1s either by towing them aloft or by launching them from a "piggy back" position (in the manner of the Mistel, but in reverse) atop the aircraft. In the latter configuration, a pilot-controlled, hydraulically operated dorsal trapeze mechanism would elevate the missile on the trapeze's launch cradle some eight feet clear of the 234's upper fuselage. This was necessary to avoid damaging the mother craft's fuselage and tail surfaces when the pulse jet ignited, as well as to ensure a 'clean' airflow for the Argus motor's intake. A somewhat less ambitious project undertaken was the adaptation of the missile as a 'flying fuel tank' (Deichselschlepp) for the Messerschmitt Me 262 jet fighter, which was initially test-towed behind an He 177A Greif bomber. The pulse-jet, internal systems and warhead of the missile were removed, leaving only the wings and basic fuselage, now containing a single large fuel tank. A small cylindrical module, similar in shape to a finless dart, was placed atop the vertical stabilizer at the rear of the tank, acting as a centre of gravity balance and attachment point for a variety of equipment sets. A rigid tow-bar with a pitch pivot at the forward end connected the flying tank to the Me 262. The operational procedure for this unusual configuration saw the tank resting on a wheeled trolley for take-off. The trolley was dropped once the combination was airborne, and explosive bolts separated the towbar from the fighter upon exhaustion of the tank's fuel supply. A number of test flights were conducted in 1944 with this set-up, but inflight "porpoising" of the tank, with the instability transferred to the fighter, meant the system was too unreliable to be used. An identical utilisation of the V-1 flying tank for the Ar 234 bomber was also investigated, with the same conclusions reached. Some of the "flying fuel tanks" used in trials utilised a cumbersome fixed and spatted undercarriage arrangement, which (along with being pointless) merely increased the drag and stability problems already inherent in the design.
+
+One variant of the basic Fi 103 design did see operational use. The progressive loss of French launch sites as 1944 proceeded and the area of territory under German control shrinking meant that soon the V-1 would lack the range to hit targets in England. Air-launching was one alternative utilised, but the most obvious solution was to extend the missile's range. Thus the F-1 version developed. The weapon's fuel tank was increased in size, with a corresponding reduction in the capacity of the warhead. Additionally, the nose-cones and wings of the F-1 models were made of wood, affording a considerable weight saving. With these modifications, the V-1 could be fired at London and nearby urban centres from prospective ground sites in the Netherlands. Frantic efforts were made to construct a sufficient number of F-1s in order to allow a large-scale bombardment campaign to coincide with the Ardennes Offensive, but numerous factors (bombing of the factories producing the missiles, shortages of steel and rail transport, the chaotic tactical situation Germany was facing at this point in the war etc.) delayed the delivery of these long-range V-1s until February/March 1945. Beginning on March 2, 1945, slightly more than three weeks before the V-1 campaign ended for good, several hundred F-1s were launched at Britain from Dutch sites under Operation 'Zeppelin'.
+
+There was also a jet-propelled variant proposed.
+
+Almost 30,000 V-1s were made; by March 1944, they were produced in 350 hours (including 120 for the autopilot), at a cost of just 4% of a V-2, which delivered a comparable payload. Approximately 10,000 were fired at England; 2,419 reached London, killing about 6,184 people and injuring 17,981. The greatest density of hits were received by Croydon, on the south-east fringe of London. Antwerp, Belgium was hit by 2,448 V-1s from October 1944 to March 1945.
+
+5. Intelligence reports
+
+The codename "Flakzielgerät 76"—"Flak aiming apparatus" helped to hide the nature of the device, and it was some time before references to FZG 76 were linked to the V-83 pilotless aircraft (an experimental V-1) that had crashed on Bornholm in the Baltic and to reports from agents of a flying bomb capable of being used against London. Importantly, the Polish Home Army intelligence contributed information on V-1 construction and a place of development (Peenemünde). Initially, British experts were sceptical of the V-1 because they had considered only solid fuel rockets, which could not attain the stated range of : 130 miles (209 km). However they later considered other types of engine, and by the time German scientists had achieved the needed accuracy to deploy the V-1 as a weapon, British intelligence had a very accurate assessment of it.
+
+6. Countermeasures
+
+6.1. Anti-aircraft guns
+
+The British defence against the German long-range weapons was Operation Crossbow. Anti-aircraft guns were redeployed in several movements: first in mid-June 1944 from positions on the North Downs to the south coast of England, then a cordon closing the Thames Estuary to attacks from the east. In September 1944, a new linear defence line was formed on the coast of East Anglia, and finally in December there was a further layout along the Lincolnshire-Yorkshire coast. The deployments were prompted by changes to the approach tracks of the V-1 as launch sites were overrun by the Allies' advance.
+
+On the first night of sustained bombardment, the anti-aircraft crews around Croydon were jubilant – suddenly they were downing unprecedented numbers of German bombers; most of their targets burst into flames and fell when their engines cut out. There was great disappointment when the truth was announced. Anti-aircraft gunners soon found that such small fast-moving targets were, in fact, very difficult to hit. The cruising altitude of the V-1, between , was just above the effective range of light anti-aircraft guns, and just below the optimum engagement height of heavier guns. The altitude and speed were more than the rate of traverse of the standard British QF 3.7-inch mobile gun could cope with, and faster-traversing static gun emplacements had to be built at great cost.
+
+The development of the proximity fuze and of centimetric, 3 gigahertz frequency gun-laying radars based on the cavity magnetron helped to counter the V-1's high speed and small size. In 1944, Bell Labs started delivery of an anti-aircraft predictor fire-control system based on an analog computer, just in time for the Allied invasion of Europe.
+
+These electronic aids arrived in quantity from June 1944, just as the guns reached their firing positions on the coast. Seventeen percent of all flying bombs entering the coastal 'gun belt' were destroyed by guns in their first week on the coast. This rose to 60% by 23 August and 74% in the last week of the month, when on one day 82% were shot down. The rate improved from one V-1 destroyed for every 2,500 shells fired initially, to one for every 100. This still did not end the threat. V-1 attacks continued until all launch sites were captured by ground forces.
+
+6.2. Barrage balloons
+
+Eventually some 2,000 barrage balloons were deployed, in the hope that V-1s would be destroyed when they struck the balloons' tethering cables. The leading edges of the V-1's wings were fitted with cable cutters, and fewer than 300 V-1s are known to have been brought down by barrage balloons.
+
+6.3. Interceptors
+
+The Defence Committee expressed some doubt as to the ability of the Royal Observer Corps to adequately deal with this new threat, but the ROC's Commandant Air Commodore Finlay Crerar assured the committee that the ROC could again rise to the occasion and prove its alertness and flexibility. He oversaw plans for handling the new threat, codenamed by the RAF and ROC as "Operation Totter".
+
+Observers at the coast post of Dymchurch identified the very first of these weapons and within seconds of their report the anti-aircraft defences were in action. This new weapon gave the ROC much additional work both at posts and operations rooms. Eventually RAF controllers actually took their radio equipment to the two closest ROC operations rooms at Horsham and Maidstone, and vectored fighters direct from the ROC's plotting tables. The critics who had said that the Corps would be unable to handle the fast-flying jet aircraft were answered when these aircraft on their first operation were actually controlled entirely by using ROC information both on the coast and at inland.
+
+The average speed of V-1s was and their average altitude was to . Fighter aircraft required excellent low altitude performance to intercept them and enough firepower to ensure that they were destroyed in the air rather than crashing to earth and detonating. Most aircraft were too slow to catch a V-1 unless they had a height advantage, allowing them to gain speed by diving on their target.
+
+When V-1 attacks began in mid-June 1944, the only aircraft with the low-altitude speed to be effective against it was the Hawker Tempest. Fewer than 30 Tempests were available. They were assigned to No. 150 Wing RAF. Early attempts to intercept and destroy V-1s often failed, but improved techniques soon emerged. These included using the airflow over an interceptor's wing to raise one wing of the V-1, by sliding the wingtip to within of the lower surface of the V-1's wing. If properly executed, this manoeuvre would tip the V-1's wing up, overriding the gyros and sending the V-1 into an out-of-control dive. At least sixteen V-1s were destroyed this way (a P-51 piloted by Major R. E. Turner of 356th Fighter Squadron being the first on 18 June). It could be seen that the aerodynamic flip method was actually effective when V-1s could be seen over southern parts of the Netherlands headed due eastwards at low altitude, the engine quenched. In early 1945 such a missile soared below clouds over Tilburg to gently alight eastwards of the city in open fields.
+
+The Tempest fleet was built up to over 100 aircraft by September. Also, North American P-51 Mustangs and Griffon-engined Supermarine Spitfire Mk XIVs were tuned to make them almost fast enough, and during the short summer nights the Tempests shared defensive duty with de Havilland Mosquitoes. There was no need for airborne radar; at night the V-1's engine could be heard from away or more, and the exhaust plume was visible from a long distance. Wing Commander Roland Beamont had the 20 mm cannon on his Tempest adjusted to converge at ahead. This was so successful that all other aircraft in 150 Wing were thus modified.
+
+The anti-V-1 sorties by fighters were known as "Diver patrols" (after "Diver", the codename used by the Royal Observer Corps for V-1 sightings). Attacking a V-1 was dangerous: machine guns had little effect on the V-1's sheet steel structure, and if a cannon shell detonated the warhead, the explosion could destroy the attacker.
+
+In daylight, V-1 chases were chaotic and often unsuccessful until a special defence zone was declared between London and the coast, in which only the fastest fighters were permitted. The first interception of a V-1 was by F/L JG Musgrave with a No. 605 Squadron RAF Mosquito night fighter on the night of 14/15 June 1944. Between June and 5 September 1944, a handful of 150 Wing Tempests shot down 638 flying bombs, with No. 3 Squadron RAF alone claiming 305. One Tempest pilot, Squadron Leader Joseph Berry (501 Squadron), shot down 59 V-1s, the Belgian ace Squadron Leader Remy Van Lierde (164 Squadron) destroyed 44 (with a further nine shared) and W/C Roland Beamont (see above) destroyed 31.
+
+The next most successful interceptors were the Mosquito (623 victories), Spitfire XIV (303), and Mustang (232). All other types combined added 158. Even though it was not fully operational, the jet-powered Gloster Meteor was rushed into service with No. 616 Squadron RAF to fight the V-1s. It had ample speed but its cannon were prone to jamming, and it shot down only 13 V-1s.
+
+In late 1944 a radar-equipped Vickers Wellington bomber was modified for use by the RAF's Fighter Interception Unit as an Airborne Early Warning and Control aircraft. Flying at an altitude of over the North Sea, it directed Mosquito fighters charged with intercepting He 111s from Dutch airbases that sought to launch V-1s from the air.
+
+6.4. Disposal
+
+The first bomb disposal officer to defuse an unexploded V1 flying bomb was John Pilkington Hudson in 1944.
+
+6.5. Deception
+
+To adjust and correct settings in the V-1 guidance system, the Germans needed to know where the V-1s were landing. Therefore, German intelligence was requested to obtain this impact data from their agents in Britain. However, most German agents in Britain had been turned, and were acting as double agents under British control.
+
+On 16 June 1944, British double agent Garbo (Juan Pujol) was requested by his German controllers to give information on the sites and times of V-1 impacts, with similar requests made to the other German agents in Britain, Brutus (Roman Czerniawski) and Tate (Wulf Schmidt). If given this data, the Germans would be able to adjust their aim and correct any shortfall. However, there was no plausible reason why the double agents could not supply accurate data; the impacts would be common knowledge amongst Londoners and very likely reported in the press, which the Germans had ready access to through the neutral nations. In addition, as John Cecil Masterman, chairman of the Twenty Committee, commented, "If, for example, St Paul's Cathedral were hit, it was useless and harmful to report that the bomb had descended upon a cinema in Islington, since the truth would inevitably get through to Germany ..."
+
+While the British decided how to react, Pujol played for time. On 18 June it was decided that the double agents would report the damage caused by V-1s fairly accurately and minimise the effect they had on civilian morale. It was also decided that Pujol should avoid giving the times of impacts, and should mostly report on those which occurred in the north west of London, to give the impression to the Germans that they were overshooting the target area.
+
+While Pujol downplayed the extent of V-1 damage, trouble came from Ostro, an Abwehr agent in Lisbon who pretended to have agents reporting from London. He told the Germans that London had been devastated and had been mostly evacuated due to enormous casualties. The Germans could not perform aerial reconnaissance of London, and believed his damage reports in preference to Pujol's. They thought that the Allies would make every effort to destroy the V-1 launch sites in France. They also accepted Ostros impact reports. Due to Ultra however, the Allies read his messages and adjusted for them.
+
+A certain number of the V-1s fired had been fitted with radio transmitters, which had clearly demonstrated a tendency for the V-1 to fall short. Oberst Max Wachtel, commander of Flak Regiment 155(W), which was responsible for the V-1 offensive, compared the data gathered by the transmitters with the reports obtained through the double agents. He concluded, when faced with the discrepancy between the two sets of data, that there must be a fault with the radio transmitters, as he had been assured that the agents were completely reliable. It was later calculated that if Wachtel had disregarded the agents' reports and relied on the radio data, he would have made the correct adjustments to the V-1's guidance, and casualties might have increased by 50% or more.
+
+The policy of diverting V-1 impacts away from central London was initially controversial. The War Cabinet refused to authorise a measure which would increase casualties in any area, even if it reduced casualties elsewhere by greater amounts. It was thought that Churchill would reverse this decision later (he was then away at a conference); but the delay in starting the reports to Germans might be fatal to the deception. So Sir Findlater Stewart of Home Defence Executive took responsibility for starting the deception programme immediately. His action was approved by Churchill when he returned.
+
+7. End of the V-1 attacks
+
+By September 1944, the V-1 threat to England was temporarily halted when the launch sites on the French coast were overrun by the advancing Allied armies. 4,261 V-1s had been destroyed by fighters, anti-aircraft fire and barrage balloons. The last enemy action of any kind on British soil occurred on 29 March 1945, when a V-1 struck Datchworth in Hertfordshire.
+
+8. Assessment
+
+Unlike the V-2, the V-1 was a cost-effective weapon for the Germans as it forced the Allies to spend heavily on defensive measures and divert bombers from other targets. More than 25% of Combined Bomber Offensive's bombs in July and August 1944 were used against V-weapon sites, often ineffectively. In early December 1944, American General Clayton Bissell wrote a paper which argued strongly in favour of the V-1 compared to conventional bombers.
+
+The following is a table he produced.
+
+The statistic of this report, however, have been the subject of some dispute. The V-1 missiles were often prone to exploding prematurely, occasionally resulting in the loss of the aircraft from which they were dropped. The Luftwaffe lost 77 aircraft as a result of the launch of these sorties.
+
+9. Japanese developments
+
+In 1943, an Argus pulse jet engine was shipped to Japan by German submarine. The Aeronautical Institute of Tokyo Imperial University and the Kawanishi Aircraft Company conducted a joint study of the feasibility of mounting a similar engine on a piloted plane. The resulting design was named Baika ("plum blossom") but bore no more than a superficial resemblance to the Fi 103. Baika never left the design stage but technical drawings and notes suggest that several versions were considered: an air-launched version with the engine under the fuselage, a ground-launched version that could take off without a ramp and a submarine launched version with the engine moved forwards.
+
+10. Post-war
+
+After the war, the armed forces of France, the Soviet Union and the United States experimented with the V-1.
+
+10.1. France
+
+The French produced copies of the V-1 for use as target drones. These were called the CT-10 and were smaller than the V-1 with twin tail surfaces. The CT 10 could be ground launched using a rocket booster or from an aircraft. Some CT-10s were sold to the UK and the US.
+
+10.2. Soviet Union
+
+The Soviet Union captured V-1s when they overran the Blizna test range in Poland, as well as from the Mittelwerk. The 10Kh was their copy of the V-1, later called Izdeliye 10. Initial tests began in March 1945 at a test range in Tashkent, with further launches from ground sites and from aircraft of improved versions continuing into the late 1940s. The inaccuracy of the guidance system compared to new methods such as beam-riding and TV guidance saw development end in the early 1950s.
+
+The Soviets also worked on a piloted attack aircraft based on the Argus pulse jet engine of the V-1 which began as a German project, the Junkers EF 126 Lilli, in the latter stages of the war. The Soviet development of the Lilli ended in 1946 after a crash that killed the test pilot.
+
+10.3. United States
+
+The United States reverse-engineered the V-1 in 1944 from salvaged parts recovered in England during June. By 8 September, the first of thirteen complete prototype Republic-Ford JB-2 Loons, were assembled at Republic Aviation. The United States JB-2 was different from the German V-1 in only the smallest of dimensions. The wing span was only wider and the length was extended less than . The difference gave the JB-2 of wing area versus for the V-1.
+
+A navalized version, designated KGW-1, was developed to be launched from LSTs (Landing Ship, Tank) as well as escort carriers (CVEs) and long-range 4-engine reconnaissance aircraft. Waterproof carriers for the KGW-1 were developed for launches of the missile from surfaced submarines. Both the USAAF JB-2 and Navy KGW-1 were put into production and were planned to be used in the Allied invasion of Japan (Operation Downfall). However, the atomic bombings of Japan obviated the need for its use. After World War II, the JB-2/KGW-1 played a significant role in the development of more advanced surface-to-surface tactical missile systems such as the MGM-1 Matador and later MGM-13 Mace.
+
+11. Operators
+
+;
+
+Luftwaffe
+
+12. Surviving examples
+
+;Australia
+
+The Australian War Memorial in Canberra, Australia.
+
+The Stampe et Vertongen Museum at Antwerp International Airport has 2 V1's on display: 1 complete (serial 256978) that was used as didactical material by the Germans, and 1 partial which got shot down, but did not explode.
+
+The Atlantic Canada Aviation Museum in Halifax, Nova Scotia.
+
+The Danish defence museum
+
+The Grand Bunker Museum in Ouistreham, Caen, near Sword Beach, displays a V1 flying bomb.
+
+Blockhaus d'Éperlecques, near Saint-Omer. Although this was intended as a V2 launch site the museum on the site has a display devoted to the V1, including a V1 cruise missile and an entire launch ramp.
+
+Val-Ygot at Ardouval, north of Saint-Saëns. Disabled by Allied bombing in December 1943, before completion. Remains of blockhouses, with recreated launch ramp and mock V1.
+
+La Coupole, near Saint-Omer, has a V-1 loaned by the Science Museum in London.
+
+Deutsches Museum in München
+
+Overloon War Museum in Overloon.
+
+Museum Vliegbasis Deelen in Schaarsbergen.
+
+Auckland War Memorial Museum, Auckland
+
+Museum of Transport and Technology, Auckland.
+
+A V-1 in the . ;United Kingdom
+
+A V-1 is located at the Eden Camp in North Yorkshire.
+
+Fi-103 serial number 442795 is on display at the Science Museum, London. It was presented to the museum in 1945 by the War Office.
+
+A V-1 on a partial ramp section, at the Imperial War Museum Duxford, the museum also has a partially recreated launch ramp with a mock–up V-1 displayed outside.
+
+A V-1 on display with a V-2 at the RAF Museum Hendon, north London
+
+a V-1 on display at the other RAF Museum site, RAF Museum Cosford.
+
+An Fi103R-4 Reichenberg—the piloted version of the V1—is usually on display at .
+
+A V-1 is on display with a V-2 in the new Atrium of the Imperial War Museum, London.
+
+The Aeropark at East Midlands Airport also has a V-1 on display.
+
+A V-1 is on display at the US Army Air Defense Artillery Museum, Fort Sill, OK.
+
+JB-2 is on display at the National Museum of the United States Air Force in Dayton, Ohio. It was donated by the Continental Motors Corporation in 1957.
+
+JB-2 is on display at the NASM's Steven F. Udvar-Hazy Center in Chantilly, Virginia.
+
+FZG-76 is on display as a war memorial in Greencastle, Indiana.
+
+The Smithsonian's National Air and Space Museum on the National Mall in Washington, D.C.
+
+The Planes of Fame air museum at Chino Airport in Chino, California has a JB-2 engine, restored to fully function..
+
+A JB-2 Loon is on open-air display at the Museum of Alaska Transportation and Industry in Wasilla, Alaska.
+
+A JB-2 Loon is also on open-air display at the Point Mugu Missile Park at Naval Air Station Point Mugu in California.
+
+A V-1 is on display at the Air Zoo in Portage, Michigan.
+
+A V-1 and V-2 are displayed at the Kansas Cosmosphere and Space Center in Hutchinson, Kansas.
+
+A V-1 is also located at the Fantasy of Flight aviation museum in Polk City, Florida
+
+The U.S. Space & Rocket Center in Huntsville, Alabama displays a V-1 in their Rocket Park.
+
+V-1 #121536 is on display at the Pima Air and Space Museum, in Tucson, Arizona.
+
+A V-1 is located on outside display at the southwest corner of the Putnam County Courthouse in Greencastle Indiana.
+
+A V-1 and Fieseler Fi 103R Reichenberg are on display at the Flying Heritage Collection
+
+A V-1 is on display at the in Virginia Beach, VA.
+
+13. See also
+
+Fritz-X
+
+SCR-584 radar
+
+Henschel Hs 293
+
+Argus Fernfeuer
+
+Kettering "Bug" Aerial Torpedo
+
+List of missiles
+
+List of World War II guided missiles of Germany
+
+List of World War II jet aircraft
+
+Operation Paperclip
+
+Fieseler Fi 103R (Reichenberg) – The piloted version of the V-1
+
+V-1 flying bomb facilities
+
+V-2 rocket
+
+V-3 cannon
+
+Amerika Bomber
+
+Aggregate (rocket family)
+
+14. References
+
+Notes Citations Bibliography
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+15. Further reading
+
+. (1978, USA, Sky Book Press, ISBN 978-0-89402-072-8)
+
+16. External links

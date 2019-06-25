@@ -1,0 +1,29 @@
+The unary numeral system is the bijective base-1 numeral system. It is the simplest numeral system to represent natural numbers: in order to represent a number N, an arbitrarily chosen symbol representing 1 is repeated N times.
+
+This system is used in tallying. For example, using the tally mark |, the number 6 is represented as ||||||. In East Asian cultures, the number three is represented as “三”, a character that is drawn with three strokes.
+
+1. Operations
+
+Addition and subtraction are particularly simple in the unary system, as they involve little more than string concatenation. The Hamming weight or population count operation that counts the number of nonzero bits in a sequence of binary values may also be interpreted as a conversion from unary to binary numbers. Multiplication and division are more cumbersome, however.
+
+2. Complexity
+
+Compared to standard positional numeral systems, the unary system is inconvenient and is not used in practice for large calculations. It occurs in some decision problem descriptions in theoretical computer science (e.g. some P-complete problems), where it is used to "artificially" decrease the run-time or space requirements of a problem. For instance, the problem of integer factorization is suspected to require more than a polynomial function of the length of the input as run-time if the input is given in binary, but it only needs linear runtime if the input is presented in unary. But this is potentially misleading: using a unary input is slower for any given number, not faster; the distinction is that a binary (or larger base) input is proportional to the base 2 (or larger base) logarithm of the number while unary input is proportional to the number itself; so while the run-time and space requirement in unary looks better as function of the input size, it is a worse function of the number that the input represents.
+
+In computational complexity theory, unary numbering is used to distinguish strongly NP-complete problems from problems that are NP-complete but not strongly NP-complete. A problem in which the input includes some numerical parameters is strongly NP-complete if it remains NP-complete even when the size of the input is made artificially larger by representing the parameters in unary. For such a problem, there exist hard instances for which all parameter values are at most polynomially large.
+
+3. Applications
+
+In some cultures it is traditional to decorate a birthday cake using the unary system with candles to represent age. This exploits the unique property of the system that there is no requirement for any ordering of the symbols (that is, the age can be read from the candles regardless of how they are arranged on the cake).
+
+Unary is used as part of some data compression algorithms such as Golomb coding.
+
+4. See also
+
+Tally marks
+
+Church numeral
+
+5. References
+
+6. External links

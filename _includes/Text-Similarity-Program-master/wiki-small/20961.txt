@@ -1,0 +1,143 @@
+The classical Möbius function μ(n) is an important multiplicative function in number theory and combinatorics. The German mathematician August Ferdinand Möbius introduced it in 1832. This classical Möbius function is a special case of a more general object in combinatorics (see below).
+
+1. Definition
+
+For any positive integer n, define μ(n) as the sum of the primitive -th roots of unity. It has values in , , } depending on the factorization of n into prime factors:
+
+μ(n) = 1 if n is a square-free positive integer with an even number of prime factors.
+
+μ(n) = 蜢1 if n is a square-free positive integer with an odd number of prime factors.
+
+μ(n) = 0 if n has a squared prime factor. The values of μ(n) for the first 30 positive numbers are
+
+The first 50 values of the function are plotted below:
+
+2. Properties and applications
+
+2.1. Properties
+
+The Möbius function is multiplicative (i.e. whenever and are coprime). The sum over all positive divisors of (including itself and 1) of the Möbius function is zero except when :
+
+This is because the -th roots of unity sum to 0, and each -th root of unity is a primitive -th root of unity for exactly one divisor of .
+
+The equality above leads to the important Möbius inversion formula and is the main reason why is of relevance in the theory of multiplicative and arithmetic functions.
+
+Other applications of in combinatorics are connected with the use of the Pólya enumeration theorem in combinatorial groups and combinatorial enumerations.
+
+2.2. Mertens function
+
+In number theory another arithmetic function closely related to the Möbius function is the Mertens function, defined by
+
+for every natural number . This function is closely linked with the positions of zeroes of the Riemann zeta function. See the article on the Mertens conjecture for more information about the connection between and the Riemann hypothesis.
+
+There is a formula for calculating the Möbius function without directly knowing the factorization of its argument:
+
+i.e. is the sum of the primitive -th roots of unity. (However, the computational complexity of this definition is at least the same as of the Euler Product definition.)
+
+From this it follows that the Mertens function is given by:
+
+where is the Farey sequence of order .
+
+This formula is used in the proof of the Franel–Landau theorem.
+
+2.2.1. Proof of the formula for
+
+The formula given above,
+
+is trivially true when . Suppose then that . Then there is a bijection between the factors of for which and the subsets of the set of all prime factors of . The asserted result follows from the fact that every non-empty finite set has an equal number of odd- and even-cardinality subsets.
+
+This last fact can be shown easily by induction on the cardinality of a non-empty finite set . First, if , there is exactly one odd-cardinality subset of , namely itself, and exactly one even-cardinality subset, namely . Next, if , then divide the subsets of into two subclasses depending on whether they contain or not some fixed element in . There is an obvious bijection between these two subclasses, pairing those subsets that have the same complement relative to the subset Also, one of these two subclasses consists of all the subsets of the set and therefore, by the induction hypothesis, has an equal number of odd- and even-cardinality subsets. These subsets in turn correspond bijectively to the even- and odd-cardinality containing subsets of . The inductive step follows directly from these two bijections.
+
+A related result is that the binomial coefficients exhibit alternating entries of odd and even power which sum symmetrically.
+
+2.3. Applications
+
+2.3.1. Mathematical series
+
+The Dirichlet series that generates the Möbius function is the (multiplicative) inverse of the Riemann zeta function; if s is a complex number with real part larger than 1 we have
+
+This may be seen from its Euler product
+
+When s is a complex number with real part larger than 1, the Dirichlet series for the Möbius function also satisfies:
+
+The Lambert series for the Möbius function is:
+
+The ordinary generating function for the Möbius function follows from the binomial series
+
+applied to triangular matrices:
+
+2.3.2. Algebraic number theory
+
+Gauss proved that for a prime number the sum of its primitive roots is congruent to .
+
+If denotes the finite field of order (where is necessarily a prime power), then the number of monic irreducible polynomials of degree over is given by:
+
+3. Recurrence
+
+The simplest recurrence for the Möbius function without using the modulo function, is a combination of two recurrences in a table :
+
+This is a table starting:
+
+4. Matrix inverse
+
+The table equal to if divides and equal to otherwise:
+
+has the matrix inverse equal to if divides and otherwise.
+
+5. Average order
+
+The average order of the Möbius function is zero. This statement is, in fact, equivalent to the prime number theorem.
+
+6. ॖ(n) sections
+
+μ(n) = 0 if and only if n is divisible by the square of a prime. The first numbers with this property are :
+
+If n is prime, then μ(n) = 蜢1, but the converse is not true. The first non prime n for which μ(n) = 蜢1 is 30 = 2·3·5. The first such numbers with three distinct prime factors (sphenic numbers) are:
+
+and the first such numbers with 5 distinct prime factors are:
+
+7. Generalizations
+
+7.1. Incidence algebras
+
+In combinatorics, every locally finite partially ordered set (poset) is assigned an incidence algebra. One distinguished member of this algebra is that poset's "Möbius function". The classical Möbius function treated in this article is essentially equal to the Möbius function of the set of all positive integers partially ordered by divisibility. See the article on incidence algebras for the precise definition and several examples of these general Möbius functions.
+
+7.2. Popovici's function
+
+Popovici defined a generalised Möbius function to be the k-fold Dirichlet convolution of the Möbius function with itself. It is thus again a multiplicative function with
+
+where the binomial coefficient is taken to be zero if a > k. The definition may be extended to complex k by reading the binomial as a polynomial in k.
+
+8. Physics
+
+The Möbius function also arises in the primon gas or free Riemann gas model of supersymmetry. In this theory, the fundamental particles or "primons" have energies log p. Under second quantization, multiparticle excitations are considered; these are given by log n for any natural number n. This follows from the fact that the factorization of the natural numbers into primes is unique.
+
+In the free Riemann gas, any natural number can occur, if the primons are taken as bosons. If they are taken as fermions, then the Pauli exclusion principle excludes squares. The operator (蜢1)F that distinguishes fermions and bosons is then none other than the Möbius function μ(n).
+
+The free Riemann gas has a number of other interesting connections to number theory, including the fact that the partition function is the Riemann zeta function. This idea underlies Alain Connes' attempted proof of the Riemann hypothesis.
+
+9. See also
+
+Mertens function
+
+Liouville function
+
+Ramanujan's sum
+
+Sphenic number
+
+10. Notes
+
+11. References
+
+The Disquisitiones Arithmeticae has been translated from Latin into English and German. The German edition includes all of his papers on number theory: all the proofs of quadratic reciprocity, the determination of the sign of the Gauss sum, the investigations into biquadratic reciprocity, and unpublished notes.
+
+Experimental Mathematics Volume 5, Issue 4291-295
+
+Ed Pegg, Jr., "", MAA Online Math Games (2003)
+
+12. External links
+
+//ghmath.wordpress.com/2010/06/20/recursive-relation-for-the-mobius-function/
+
+//terrytao.wordpress.com/2008/07/13/the-mobius-and-nilsequences-conjecture/

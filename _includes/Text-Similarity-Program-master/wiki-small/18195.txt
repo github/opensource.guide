@@ -1,0 +1,89 @@
+LaTeX ( or shortening of Lamport TeX) is a document preparation system and document markup language. It is widely used for the communication and publication of scientific documents in many fields, including mathematics, physics, computer science, statistics, economics, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Arabic, including critical editions. LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language. LaTeX is not the name of a particular editing program, but refers to the encoding or tagging conventions that are used in LaTeX documents.
+
+LaTeX is widely used in academia. LaTeX can be used as a standalone document preparation system, or as an intermediate format. In the latter role, for example, it is often used as part of a pipeline for translating DocBook and other XML-based formats to PDF. The typesetting system offers programmable desktop publishing features and extensive facilities for automating most aspects of typesetting and desktop publishing, including numbering and cross-referencing of tables and figures, chapter and section headings, the inclusion of graphics, page layout, indexing and bibliographies.
+
+Like TeX, LaTeX started as a writing tool for mathematicians and computer scientists, but from early in its development it has also been taken up by scholars who needed to write documents that include complex math expressions or non-Latin scripts, such as Arabic, Sanskrit and Chinese.
+
+LaTeX is intended to provide a high-level language that accesses the power of TeX. LaTeX comprises a collection of TeX macros and a program to process LaTeX documents. Because the plain TeX formatting commands are elementary, it offers authors ready-made commands for common requirements such as chapter headings, footnotes, cross-references and bibliographies.
+
+LaTeX was originally written in the early 1980s by Leslie Lamport at SRI International. The current version is LaTeX2e (styled as ). LaTeX is free software and is distributed under the LaTeX Project Public License (LPPL).
+
+1. Typesetting system
+
+LaTeX follows the design philosophy of separating presentation from content, so that authors can focus on the content of what they are writing without attending simultaneously to its visual appearance. In preparing a LaTeX document, the author specifies the logical structure using simple, familiar concepts such as chapter, section, table, figure, etc., and lets the LaTeX system worry about the formatting and layout of these structures. It therefore encourages the separation of layout from content while still allowing manual typesetting adjustments where needed. This concept is similar to the mechanism by which many word processors allow styles to be defined globally for an entire document or the use of Cascading Style Sheets to style HTML. The LaTeX system is a markup language that also handles typesetting and rendering.
+
+LaTeX can be arbitrarily extended by using the underlying macro language to develop custom formats. Such macros are often collected into packages, which are available to address special formatting issues such as complicated mathematical content or graphics. Indeed, in the example below, the align environment is provided by the amsmath package.
+
+In order to create a document in LaTeX, you first write a file, say foobar.tex, using your preferred text editor. Then you give your foobar.tex file as input to the TeX program (with the LaTeX macros loaded), and TeX writes out a file suitable for viewing onscreen or printing. This write-format-preview cycle is one of the chief ways in which working with LaTeX differs from what-you-see-is-what-you-get word-processing. It is similar to the code-compile-execute cycle familiar to computer programmers. Today, many LaTeX-aware editing programs make this cycle a simple matter of pressing a single key, while showing the output preview on the screen beside the input window.
+
+2. Examples
+
+The example below shows the LaTeX input and corresponding output:
+
+}
+
+\end{document} | }}
+
+Note how the equation for was typeset by the markup:
+
+The square root is denoted by "sqrt" and fractions by "frac".
+
+3. Pronouncing and writing "LaTeX"
+
+LaTeX is usually pronounced or in English (that is, not with the pronunciation English speakers normally associate with X, but with a ).
+
+The characters T, E, X in the name come from capital Greek letters tau, epsilon, and chi, as the name of TeX derives from the (skill, art, technique); for this reason, TeX's creator Donald Knuth promotes a pronunciation of () (that is, with a voiceless velar fricative as in Modern Greek, similar to the ch in loch). Lamport, on the other hand, has said he does not favor or discourage any pronunciation for LaTeX.
+
+The name is traditionally printed in running text with a special typographical logo: . In media where the logo cannot be precisely reproduced in running text, the word is typically given the unique capitalization LaTeX. The TeX, LaTeX and XeTeX logos can be rendered via pure CSS and XHTML for use in graphical web browsers following the specifications of the internal \LaTeX macro.
+
+4. Licensing
+
+LaTeX is typically distributed along with plain TeX. It is distributed under a free software license, the LaTeX Project Public License (LPPL). The LPPL is not compatible with the GNU General Public License, as it requires that modified files must be clearly differentiable from their originals (usually by changing the filename); this was done to ensure that files that depend on other files will produce the expected behavior and avoid dependency hell. The LPPL is DFSG compliant as of version 1.3. As free software, LaTeX is available on most operating systems including UNIX (Solaris, HP-UX, AIX), BSD (FreeBSD, Mac OS X, NetBSD, OpenBSD), GNU/Linux (Red Hat, Debian, Arch, Gentoo), Microsoft Windows (9x, XP, Vista, 7, 8), DOS, RISC OS, AmigaOS and Plan9.
+
+5. Related software
+
+As a macro package, LaTeX provides a set of macros for TeX to interpret. There are many other macro packages for TeX, including , Plain TeX, GNU Texinfo, AMSTeX, and ConTeXt.
+
+When TeX "compiles" a document, it follows (from the user's point of view) the following processing sequence: Macros → TeX → Driver → Output. Different implementations of each of these steps are typically available in TeX distributions. Traditional TeX will output a DVI file, which is usually converted to a PostScript file. More recently, Hàn Thế Thành and others have written a new implementation of TeX called pdfTeX, which also outputs to PDF and takes advantage of features available in that format. The XeTeX engine developed by Jonathan Kew merges modern font technologies and Unicode with TeX.
+
+The default font for LaTeX is Knuth's Computer Modern, which gives default documents created with LaTeX the same distinctive look as those created with plain TeX. XeTeX allows the use of OpenType and TrueType (that is, outlined) fonts for output files.
+
+There are also many editors for LaTeX.
+
+6. Versions
+
+LaTeX2e is the current version of LaTeX, since it replaced LaTeX 2.09 in 1994. , a future version called LaTeX3, started in the early 1990s, is still in development. Planned features include improved syntax, hyperlink support, a new user interface, access to arbitrary fonts, and new documentation.
+
+There are numerous commercial implementations of the entire TeX system. System vendors may add extra features like additional typefaces and telephone support. LyX is a free, WYSIWYM visual document processor that uses LaTeX for a back-end. TeXmacs is a free, WYSIWYG editor with similar functionalities as LaTeX but a different typesetting engine. Other WYSIWYG editors that produce LaTeX include Scientific Word on MS Windows.
+
+A number of community-supported TeX distributions are available, including TeX Live (multiplatform), teTeX (deprecated in favor of TeX Live, UNIX), fpTeX (deprecated), MiKTeX (Windows), proTeXt (Windows), MacTeX (TeX Live with the addition of Mac specific programs), gwTeX (Mac OS X), OzTeX (Mac OS Classic), AmigaTeX (no longer available) and PasTeX (AmigaOS, available on the Aminet repository).
+
+7. Compatibility
+
+LaTeX documents (*.tex) can be opened with any text editor. They consist of plain text and do not contain hidden formatting codes or binary instructions. Additionally, TeX documents can be shared by rendering the LaTeX file to Rich Text Format (.rtf) or XML. This can be done using the free software programs LaTeX2RTF or TeX4ht. LaTeX can also be rendered to PDF files using the LaTeX extension pdfLaTeX. LaTeX files containing Unicode text can be processed into PDFs by the LaTeX extension XeLaTeX.
+
+8. See also
+
+AMS-LaTeX – American Mathematical Society extension for LaTeX
+
+xdvi – software for viewing DVI files while using Unix
+
+BibTeX reference management software typically used with LaTeX
+
+Comparison of TeX editors
+
+List of document markup languages
+
+REVTeX – Publication Styles of the American Physical Society
+
+Formula editor
+
+MathML
+
+9. References
+
+10. Further reading
+
+11. External links
+
+LaTeX wiki

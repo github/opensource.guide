@@ -1,0 +1,101 @@
+The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's UV radiation. It contains high concentrations of ozone (O3) relative to other parts of the atmosphere, although it is still very small relative to other gases in the stratosphere. The ozone layer contains fewer than ten parts per million of ozone, while the average ozone concentration in Earth's atmosphere as a whole is only about 0.3 parts per million. The ozone layer is mainly found in the lower portion of the stratosphere, from approximately above Earth, though the thickness varies seasonally and geographically.
+
+The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson. Its properties were explored in detail by the British meteorologist G. M. B. Dobson, who developed a simple spectrophotometer (the Dobsonmeter) that could be used to measure stratospheric ozone from the ground. Between 1928 and 1958 Dobson established a worldwide network of ozone monitoring stations, which continue to operate to this day. The "Dobson unit", a convenient measure of the amount of ozone overhead, is named in his honor.
+
+The ozone layer absorbs 97–99% of the Sun's medium-frequency ultraviolet light (from about 200 nm to 315 nm wavelength), which otherwise would potentially damage exposed life forms near the surface.
+
+United Nations General Assembly has designated September 16 as the International Day for the Preservation of the Ozone Layer.
+
+1. Sources
+
+The photochemical mechanisms that give rise to the ozone layer were discovered by the British physicist Sydney Chapman in 1930. Ozone in the Earth's stratosphere is created by ultraviolet light striking oxygen molecules containing two oxygen atoms (O2), splitting them into individual oxygen atoms (atomic oxygen); the atomic oxygen then combines with unbroken O2 to create ozone, O3. The ozone molecule is unstable (although, in the stratosphere, long-lived) and when ultraviolet light hits ozone it splits into a molecule of O2 and an atom of atomic oxygen, a continuing process called the ozone-oxygen cycle. Chemically, this can be described as:
+
+About 90% of the ozone in our atmosphere is contained in the stratosphere. Ozone concentrations are greatest between about , where they range from about 2 to 8 parts per million. If all of the ozone were compressed to the pressure of the air at sea level, it would be only 3 millimeters thick.
+
+2. Ultraviolet light
+
+Although the concentration of the ozone in the ozone layer is very small, it is vitally important to life because it absorbs biologically harmful ultraviolet (UV) radiation coming from the sun. Extremely short or vacuum UV (10–100 nm) is screened out by nitrogen. UV radiation capable of penetrating nitrogen is divided into three categories, based on its wavelength; these are referred to as UV-A (400–315 nm), UV-B (315–280 nm), and UV-C (280–100 nm).
+
+UV-C, which is very harmful to all living things, is entirely screened out by a combination of dioxygen (< 200 nm) and ozone (> about 200 nm) by around altitude. UV-B radiation can be harmful to the skin and is the main cause of sunburn; excessive exposure can also cause cataracts, immune system depression, and genetic damage, resulting in problems such as skin cancer. The ozone layer (which absorbs from about 200 nm to 310 nm with a maximal absorption at about 250 nm) is very effective at screening out UV-B; for radiation with a wavelength of 290 nm, the intensity at the top of the atmosphere is 350 million times stronger than at the Earth's surface. Nevertheless, some UV-B, particularly at its longest wavelengths, reaches the surface.
+
+Ozone is transparent to most UV-A, so most of this longer wavelength UV radiation reaches the surface, and it constitutes most of the UV reaching the Earth. This type of UV radiation is significantly less harmful to DNA, although it may still potentially cause physical damage, premature aging of the skin, indirect genetic damage, and skin cancer (see ultraviolet for more about UV-A).
+
+3. Distribution in the stratosphere
+
+The thickness of the ozone layer—that is, the total amount of ozone in a column overhead—varies by a large factor worldwide, being in general smaller near the equator and larger towards the poles. It also varies with season, being in general thicker during the spring and thinner during the autumn. The reasons for this latitude and seasonal dependence are complicated, involving atmospheric circulation patterns as well as solar intensity.
+
+Since stratospheric ozone is produced by solar UV radiation, one might expect to find the highest ozone levels over the tropics and the lowest over polar regions. The same argument would lead one to expect the highest ozone levels in the summer and the lowest in the winter. The observed behavior is very different: most of the ozone is found in the mid-to-high latitudes of the northern and southern hemispheres, and the highest levels are found in the spring, not summer, and the lowest in the autumn, not winter in the northern hemisphere. During winter, the ozone layer actually increases in depth. This puzzle is explained by the prevailing stratospheric wind patterns, known as the Brewer-Dobson circulation. While most of the ozone is indeed created over the tropics, the stratospheric circulation then transports it poleward and downward to the lower stratosphere of the high latitudes. However, owing to the ozone hole phenomenon, the lowest amounts of column ozone found anywhere in the world are over the Antarctic in the southern spring period of September and October and to a lesser extent over the Arctic in the northern spring period of March, April, and May.
+
+The ozone layer is higher in altitude in the tropics, and lower in altitude outside the tropics, especially in the polar regions. This altitude variation of ozone results from the slow circulation that lifts the ozone-poor air out of the troposphere into the stratosphere. As this air slowly rises in the tropics, ozone is produced as the sun overhead photolyzes oxygen molecules. As this slow circulation levels off and flows towards the mid-latitudes, it carries the ozone-rich air from the tropical middle stratosphere to the mid-and-high latitudes lower stratosphere. The high ozone concentrations at high latitudes are due to the accumulation of ozone at lower altitudes.
+
+The Brewer-Dobson circulation moves very slowly. The time needed to lift an air parcel by 1 km in the lower tropical stratosphere is about 2 months (18 m per day). However, horizontal poleward transport in the lower stratosphere is much faster and amounts to approximately 100 km per day in the northern hemisphere whilst it is only half as much in the southern hemisphere (~51 km per day). Even though ozone in the lower tropical stratosphere is produced at a very slow rate, the lifting circulation is so slow that ozone can build up to relatively high levels by the time it reaches .
+
+Ozone amounts over the continental United States (25°N to 49°N) are highest in the northern spring (April and May). These ozone amounts fall over the course of the summer to their lowest amounts in October, and then rise again over the course of the winter. Again, wind transport of ozone is principally responsible for the seasonal changes of these higher latitude ozone patterns.
+
+The total column amount of ozone generally increases as we move from the tropics to higher latitudes in both hemispheres. However, the overall column amounts are greater in the northern hemisphere high latitudes than in the southern hemisphere high latitudes. In addition, while the highest amounts of column ozone over the Arctic occur in the northern spring (March–April), the opposite is true over the Antarctic, where the lowest amounts of column ozone occur in the southern spring (September–October).
+
+4. Depletion
+
+The ozone layer can be depleted by free radical catalysts, including nitric oxide (NO), nitrous oxide (N2O), hydroxyl (OH), atomic chlorine (Cl), and atomic bromine (Br). While there are natural sources for all of these species, the concentrations of chlorine and bromine have increased markedly in recent years due to the release of large quantities of man-made organohalogen compounds, especially chlorofluorocarbons (CFCs) and bromofluorocarbons. These highly stable compounds are capable of surviving the rise to the stratosphere, where Cl and Br radicals are liberated by the action of ultraviolet light. Each radical is then free to initiate and catalyze a chain reaction capable of breaking down over 100,000 ozone molecules. The breakdown of ozone in the stratosphere results in a reduction of the absorption of ultraviolet radiation. Consequently, unabsorbed and dangerous ultraviolet radiation is able to reach the Earth’s surface. Ozone levels over the northern hemisphere have been dropping by 4% per decade. Over approximately 5% of the Earth's surface, around the north and south poles, much larger seasonal declines have been seen, and are described as ozone holes.
+
+In 2009, nitrous oxide (N2O) was the largest ozone-depleting substance (ODS) emitted through human activities.
+
+The ozone hole is an annual thinning of the ozone layer over Antarctica, caused by stratospheric chlorine. Other more moderate thinnings have also been called "ozone holes", such as the one over the North Pole during certain weather conditions. The discovery of the annual depletion of ozone above the Antarctic was first announced in a paper by Joe Farman, Brian Gardiner and Jonathan Shanklin which appeared in Nature on May 16, 1985.
+
+4.1. Regulation
+
+With regard to the successful regulation attempts, the ozone case was communicated to lay persons "with easy-to-understand bridging metaphors derived from the popular culture" and related to "immediate risks with everyday relevance". The specific metaphors used in the discussion as ozone shield, ozone hole proved quite useful and, compared to global climate change, was much more seen as an "hot issue" and eminent risk. Lay people were cautious about a depletion of the ozone layer and the risks of skin cancer.
+
+In 1978, the United States, Canada and Norway enacted bans on CFC-containing aerosol sprays that damage the ozone layer. The European Community rejected an analogous proposal to do the same. In the U.S., chlorofluorocarbons continued to be used in other applications, such as refrigeration and industrial cleaning, until after the discovery of the Antarctic ozone hole in 1985. After negotiation of an international treaty (the Montreal Protocol), CFC production was sharply limited beginning in 1987 and phased out completely by 1996. Since that time, the treaty has been amended to ban CFC production after 1995 in the developed countries, and later in developing countries. Today, all of the world's 197 countries have signed the treaty. Beginning January 1, 1996, only recycled and stockpiled CFCs were available for use in developed countries like the US. This production phaseout was possible because of efforts to ensure that there would be substitute chemicals and technologies for all ODS uses.
+
+On August 2, 2003, scientists announced that the global depletion of the ozone layer may be slowing down due to the international regulation of ozone-depleting substances. In a study organized by the American Geophysical Union, three satellites and three ground stations confirmed that the upper-atmosphere ozone-depletion rate has slowed down significantly during the past decade. Some breakdown can be expected to continue due to ODSs used by nations which have not banned them, and due to gases which are already in the stratosphere. Some ODSs, including CFCs, have very long atmospheric lifetimes, ranging from 50 to over 100 years. It has been estimated that the ozone layer will recover to 1980 levels near the middle of the 21st Century.
+
+Compounds containing C–H bonds (such as hydrochlorofluorocarbons, or HCFCs) have been designed to replace CFCs in certain applications. These replacement compounds are more reactive and less likely to survive long enough in the atmosphere to reach the stratosphere where they could affect the ozone layer. While being less damaging than CFCs, HCFCs can have a negative impact on the ozone layer, so they are also being phased out. These in turn are being replaced by hydrofluorocarbons (HFCs) and other compounds that do not destroy stratospheric ozone at all.
+
+5. See also
+
+OzonAction Programme
+
+6. References
+
+7. Further reading
+
+; Science
+
+Mario Molina, and F. Sherwood Rowland. "Stratospheric Sink for Chlorofluoromethanes: Chlorine Atomic Catalyzed Destruction of Ozone". Nature 249(28 June 1974): 810–12.
+
+Sei, John H.; Pandis, Spyros N. Atmospheric Chemistry and Physics: From Air Pollution to Climate Change. John Wiley and Sons, Inc. ISBN 0-471-17816-0, 1998.
+
+World Meteorological Organization. Scientific Assessment of Stratospheric Ozone: 2010 Geneva: WMO, 2011.
+
+World Meteorological Organization. Scientific Assessment of Ozone Depletion: 2006. Geneva: WMO, 2007.
+
+World Meteorological Organization. Scientific Assessment of Stratospheric Ozone: 1991. Geneva: WMO, 1991.
+
+UNEP (United Nations Environment Programme). Environmental Effects of Ozone Depletion and its Interactions with Climate Change: 2010 Assessment. Nairobi: UNEP, 2010.
+
+Velders, Guus J.M., Stephen O. Andersen, John S. Daniel, David W. Fahey, and Mack McFarland. 2007. “The Importance of the Montreal Protocol in Protecting Climate.” Proceedings of the National Academy of Sciences of the United States of America, 104(12):4814–4819. ; Policy
+
+Andersen, S. O. and K. M. Sarma. Protecting the Ozone Layer: the United Nations History, Earthscan Press. London, 2002.
+
+Anderson, S., K. Madhavea Sarma, and K. Taddonio. 2007. Technology Transfer for the Ozone Layer: Lessons for Climate Change. London: Earthscan, 2007.
+
+(Ambassador Benedick was the Chief U.S. Negotiator at the meetings that resulted in the Montreal Protocol.)
+
+Chasek, Pam, David L. Downie, and J.W. Brown. Global Environmental Politics, 6th Edition, Boulder: Westview Press, 2013.
+
+David L. Downie (2013) "Stratospheric Ozone Depletion". The Routledge Handbook of Global Environmental Politics. New York: Routledge.
+
+David L. Downie, “Road Map or False Trail: Evaluating the Precedence of the Ozone Regime as Model and Strategy for Global Climate Change.” International Environmental Affairs, 7(4):321-345 (Fall 1995).
+
+David L. Downie,“UNEP and the Montreal Protocol: New Roles for International Organizations in Regime Creation and Change.” In Robert Bartlett, Priya Kurian and Madhu Malik, eds., International Organizations and Environmental Policy. Westport, CT: Greenwood Press, 1995.
+
+Parson, Edward (2003). Protecting the Ozone Layer: Science and Strategy. Oxford: Oxford University Press.
+
+8. External links
+
+//www.unep.org/ozone/Public_Information/4Aii_PublicInfo_Facts_OzoneLayer.asp
+
+NASA. Studying Earth's Environment From Space. June 2000. (accessed November 3, 2010) //www.ccpo.odu.edu/~lizsmith/SEES/index.html.
+
+The delivers maps, datasets and validation reports about the past and current state of the ozone layer.

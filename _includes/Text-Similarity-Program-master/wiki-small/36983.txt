@@ -1,0 +1,161 @@
+A recursive acronym is an acronym that refers to itself in the expression for which it stands. The term was first used in print in 1979 in Douglas Hofstadter's book Gödel, Escher, Bach: An Eternal Golden Braid, in which Hofstadter invents the acronym GOD, meaning "GOD Over Djinn", to help explain infinite series, and describes it as a recursive acronym. Other references followed.
+
+1. Computer-related examples
+
+In computing, an early tradition in the hacker community (especially at MIT) was to choose acronyms and abbreviations that referred humorously to themselves or to other abbreviations. Perhaps the earliest example in this context, from about 1977 or 1978, is TINT ("TINT Is Not TECO"), an editor for MagicSix written (and named) by Ted Anderson. This inspired the two MIT Lisp Machine editors called EINE ("EINE Is Not Emacs") and ZWEI ("ZWEI Was EINE Initially"). These were followed by Richard Stallman's GNU (GNU's Not Unix). Many others also include negatives, such as denials that the thing defined is or resembles something else (which the thing defined does in fact resemble or is even derived from), to indicate that, despite the similarities, it was distinct from the program on which it was based.
+
+An earlier example appears in a 1976 textbook on data structures, in which the pseudo-language SPARKS is used to define the algorithms discussed in the text. "SPARKS" is claimed to be a non-acronymic name, but "several cute ideas have been suggested" as expansions of the name. One of the suggestions is "Smart Programmers Are Required to Know SPARKS".
+
+1.1. Notable examples
+
+Ace - Ace Code Editor
+
+Allegro — Allegro Low LEvel Game ROutines (early versions for Atari ST were called "Atari Low LEvel Game ROutines")
+
+ANX — ANX is Not XNA
+
+AROS — AROS Research Operating System (originally Amiga Research Operating System)
+
+BAMF — BAMF Application Matching Framework
+
+BOSH — Bosh Outer SHell
+
+CAVE — CAVE Automatic Virtual Environment
+
+EINE — EINE Is Not Emacs
+
+FARM — Farm Animal Rights Movement
+
+FIJI — FIJI Is Just Image
+
+FYBMEM — FYBMEM Your Basic Monitor Editor Mechanism
+
+GiNaC — GiNaC is Not a CAS (Computer Algebra System)
+
+GNU — GNU's Not Unix
+
+GPE – GPE Palmtop Environment
+
+HIME — HIME Input Method Editor
+
+INX — INX's Not X (a UNIX clone)
+
+JACK — JACK Audio Connection Kit
+
+KGS — KGS Go Server
+
+LAME — LAME Ain't an MP3 Encoder
+
+LISA – LISA: Invented Stupid Acronym
+
+LiVES — LiVES is a Video Editing System
+
+MEGA — MEGA Encrypted Global Access
+
+MINT — MINT Is Not TRAC
+
+MiNT — MiNT is Not TOS (later changed to "MiNT is Now TOS")
+
+Mung — Mung Until No Good
+
+Nagios — Nagios Ain't Gonna Insist On Sainthood (a reference to the previous name of Nagios, "Netsaint"; agios [αγιος] is the Greek word for "saint")
+
+NiL — NiL Isn't Liero
+
+Ninja-ide – Ninja-IDE Is Not Just Another IDE
+
+NITE — NITE Isn't TECO Either (the 2nd offering from the creator of TINT)
+
+pacc – pacc: a compiler-compiler
+
+PHP - PHP: Hypertext Preprocessor (originally "Personal Home Page Tools")
+
+PINE — PINE Is Nearly Elm, originally; PINE now officially stands for "Pine Internet News and E-mail"
+
+PIP - PIP Installs Packages
+
+P.I.P.S. — P.I.P.S. Is POSIX on Symbian
+
+Qins — Qins is not Slow
+
+RPM — RPM Package Manager (originally "Red Hat Package Manager")
+
+SPARQL — SPARQL Protocol And RDF Query Language
+
+TikZ – TikZ ist kein Zeichenprogramm (German; TikZ is no drawing program)
+
+TIARA — TIARA is a recursive acronym
+
+TiLP — TiLP is a Linking Program
+
+TIP — TIP isn't Pico (name for earliest versions of nano text editor)
+
+TRESOR – TRESOR Runs Encryption Securely Outside RAM
+
+UIRA  — UIRA Isn't a Recursive Acronym
+
+WINE — WINE Is Not an Emulator (initially Windows Emulator)
+
+XBMC — XBMC Media Center (originally Xbox Media Center)
+
+XINU — Xinu Is Not Unix
+
+XNA — XNA's Not Acronymed
+
+YAML — YAML Ain't Markup Language (initially "Yet Another Markup Language")
+
+Zinf — Zinf Is Not Freeamp
+
+ZWEI — ZWEI Was EINE Initially (eine and zwei are German for one and two respectively)
+
+1.1.1. Mutually recursive or otherwise special
+
+The GNU Hurd project is named with a mutually recursive acronym: "Hurd" stands for "Hird of Unix-Replacing Daemons", and "Hird" stands for "Hurd of Interfaces Representing Depth."
+
+RPM, PHP, XBMC and YAML were originally conventional acronyms which were later redefined recursively. They are examples of, or may be referred to as, backronymization, where the official meaning of an acronym is changed.
+
+Jini claims the distinction of being the first recursive anti-acronym: 'Jini Is Not Initials'. It might, however, be more properly termed an anti-backronym because the term "Jini" never stood for anything in the first place. The more recent "XNA", on the other hand, was deliberately designed that way.
+
+Most recursive acronyms are recursive on the first letter, which is therefore an arbitrary choice, often selected for reasons of humour, ease of pronunciation, or consistency with an earlier acronym that used the same letters for different words, such as PHP: PHP Hypertext Preprocessor, which was originally "Personal home page". However YOPY, "Your own personal YOPY" is recursive on the last letter (hence the last letter of the acronym had to be the same as the first).
+
+2. Organizations
+
+Some organizations have been named or renamed in this way:
+
+BWIA — BWIA West Indies Airways (formerly British West Indian Airways)
+
+FALE — Fale Association of Locksport Enthusiasts
+
+GES — GES Exposition Services (formerly Greyhound Exposition Services)
+
+LINK — Link Interchange NetworK, the UK ATM switching organization.
+
+Heil — Heil Environmental Industries Limited, maker of garbage trucks
+
+3. Persons
+
+Personal nicknames can take the form of recursive acronyms as well:
+
+Jeb Bush  — John Ellis Bush Bush
+
+4. See also
+
+Acronyms
+
+Anti-acronym
+
+Backronyms
+
+RAS syndrome (Redundant Acronym Syndrome syndrome)
+
+Self-reference
+
+5. References
+
+Notes
+
+Sources
+
+6. External links
+
+it:Acronimo#Acronimo ricorsivo

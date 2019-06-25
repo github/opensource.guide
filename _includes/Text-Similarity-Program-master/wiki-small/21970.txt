@@ -1,0 +1,125 @@
+The (Originally known as VR-32) is a 32-bit table-top 3D video game console developed and manufactured by Nintendo. It was marketed as the first "portable" video game console capable of displaying "true 3D graphics" out of the box.
+
+It was released on July 21, 1995 in Japan and August 14, 1995 in North America at a price of around US$180. It proved to be a commercial failure and was not released in other regions. Its lukewarm reception was unaffected by continued price drops. Nintendo discontinued it the following year on March 2, 1996.
+
+1. History
+
+1.1. Development
+
+In the early 1990s, Nintendo and Sega had seen success with their 16-bit consoles but the games market had stalled. There was still a period of delay before the 32-bit consoles would launch, and competitors such as the PlayStation were readying for launch. In this context, Nintendo and Sega hoped "to reignite the market for their games."
+
+The New York Times previewed the Virtual Boy on November 13, 1994. The console was officially announced via press release the next day, November 14. Nintendo promised that Virtual Boy would "totally immerse players into their own private universe." The system was formally unveiled the next day at the Shoshinkai (初心会) Show. Nintendo of America showed the Virtual Boy at the Consumer Electronics Show on 6 January 1995.
+
+While Nintendo's Research & Development 3 division (R&D3) was focused on developing the Nintendo 64, the other two engineering units were free to experiment with new product ideas. The Virtual Boy was designed by Gunpei Yokoi, the general manager of Nintendo's R&D1, and the inventor of the Game & Watch and Game Boy handheld consoles. He saw the Virtual Boy as a unique technology that competitors would find difficult to emulate. Additionally, the console was intended to enhance Nintendo's reputation as an innovator.
+
+Initial press releases and interviews about the system focused on its technological capabilities, avoiding discussion of the actual games that would be released. The company entered into an exclusive agreement with Reflection Technology to license the technology for the Scanned Linear Array displays.
+
+Problems emerged when Nintendo attempted to turn its vision into an affordable console, searching for low-cost hardware components. Yokoi opted for red LEDs because they were the cheapest; Nintendo said a color display would have been prohibitively expensive. Color was also said to have caused "jumpy images in tests." Even with cost-saving measures in place, Nintendo priced the Virtual Boy at a relatively high US$180. While slightly less expensive than a home console (and significantly less powerful), this was considerably more costly than the Game Boy handheld.
+
+With seemingly more advanced graphics, the Virtual Boy was not intended to replace the Game Boy in Nintendo's product line, as use of the system requires a steady surface and completely blocks the player's peripheral vision. According to David Sheff's book Game Over, Yokoi never actually intended for the console to be released in its ultimate form. However, Nintendo pushed the Virtual Boy to market so that it could focus development resources on the Nintendo 64. Design News described the Virtual Boy as the logical evolution of the View-Master 3-dimensional image viewer.
+
+A number of technology demonstrations were used to show what the Virtual Boy was capable of. Driving Demo was one of the more advanced demos; its 30-second clip showed a first-person view of driving by road signs and palm trees. This demo was shown at E3 and CES in 1995. The start-up screen of the Virtual Boy Prototype was shown at Shoshinkai in 1994. The demo of what would have been a Star Fox game showed a Star Fox-like Arwing doing various spins and motions. Cinematic camera angles were a key element, as they were in Star Fox 2. It was shown at E3 and CES in 1995.
+
+1.2. Promotion
+
+Nintendo extensively advertised the Virtual Boy, and claimed to have spent US$25 million on early promotional activities. Advertising promoted the system as a paradigm shift from past consoles; some pieces used cavemen to indicate a historical evolution, while others utilized psychedelic imagery. Nintendo targeted an older audience with advertisements for the Virtual Boy, shifting away from the traditional focus on children it had employed in the past.
+
+Nintendo portrayed the system as a type of virtual reality, as its name indicates; it was to be more than just another gaming console. Nintendo also focused on the technological aspects of the new console in its press releases, neglecting to detail specific games.
+
+Confronted with the challenge of showing 3-dimensional gameplay on 2-dimensional advertisements, the company partnered with Blockbuster and NBC in a coordinated effort. A $5 million campaign promoted NBC's fall lineup alongside the Virtual Boy. American viewers were encouraged via television advertisements on NBC to rent the console for US$10 at a local Blockbuster. This made it affordable for a large number of gamers to try the system, and produced 750,000 rentals. Upon returning the unit, renters received a coupon for $10 off the purchase of a Virtual Boy from any store. 3,000 Blockbuster locations were included in the promotion, which included a sweepstakes with prizes including trips to see the taping of NBC shows. Despite its popularity, the rental system proved harmful to the Virtual Boy's long-term success, allowing gamers to see just how un-immersive the console was. Taken as a whole, the marketing campaign was commonly thought of as a failure.
+
+1.3. Release
+
+The Virtual Boy was released on in Japan and on in North America with the launch titles Mario's Tennis, Red Alarm, Teleroboxer, and Galactic Pinball. It was not released in PAL markets. In North America, Nintendo shipped Mario's Tennis with every Virtual Boy sold, as a pack-in game. Nintendo had initially projected sales of 3 million consoles and 14 million games. The system arrived later than other 32-bit systems from Sony, Panasonic, and Sega, but at a lower price.
+
+At the system's release, Nintendo of America projected hardware sales of 1.5 million units and software sales numbering 2.5 million by the end of the year. Nintendo had shipped 350,000 units of the Virtual Boy by December 1995, around three and a half months after its North American release. The system made number 5 on GamePros the "Top 10 Worst Selling Consoles of All Time" list in 2007.
+
+The Virtual Boy did not live very long following its disappointing sales. The last official title to be released for the Virtual Boy was 3D Tetris, released on . Nintendo announced additional titles for the system at the Electronic Entertainment Expo in 1996, but these games never saw the light of day. The Virtual Boy was discontinued in late 1995 in Japan and in early 1996 in North America. Nintendo killed the system without fanfare, avoiding an official press release.
+
+2. Hardware
+
+The Virtual Boy was Nintendo's first 32-bit system. The Virtual Boy system uses a pair of 1×224 linear arrays (one per eye) and rapidly scans the array across the eye's field of view using flat oscillating mirrors. These mirrors vibrate back and forth at a very high speed, thus the mechanical humming noise from inside the unit. Each Virtual Boy game cartridge has a yes/no option to automatically pause every 15–30 minutes so that the player may take a break before any injuries to the eyes. One speaker per ear provides the player with audio.
+
+2.1. Display
+
+The Virtual Boy was the first video game console that was supposed to be capable of displaying "true 3D graphics" out of the box, in a form of virtual reality. Whereas most video games use monocular cues to achieve the illusion of three dimensions on a two-dimensional screen, the Virtual Boy creates an illusion of depth through the effect known as parallax. In a manner similar to using a head-mounted display, the user looks into an eyepiece made of neoprene on the front of the machine, and then an eyeglass-style projector allows viewing of the monochromatic (in this case, red) image. Nintendo claimed that a color display would have made the system too expensive and resulted in "jumpy" images, so the company opted for a monochrome display.
+
+2.2. Control
+
+The Virtual Boy was meant to be used sitting down at a table, although Nintendo said it would release a harness for players to use while standing. One of the unique features of the controller is the extendable power supply that slides onto the back. It houses the six AA batteries required to power the system. This can be substituted with a wall adapter, though a "slide-on" attachment is required for the switchout. Once the slide-on adapter is installed, a power adapter can be attached to provide constant power.
+
+The Virtual Boy, being a system with heavy emphasis on three-dimensional movement, needed a controller that could operate along a Z axis. The Virtual Boy's controller was an attempt to implement dual digital "D-pads" to control elements in the aforementioned 3D environment. The controller itself is shaped like an "M" (similar to a Nintendo 64 controller). One holds onto either side of the controller and the part that dips down in the middle contains the battery pack.
+
+In more traditional 2-dimensional games, the two directional pads are interchangeable. For others with a more 3D environment, like Red Alarm, 3D Tetris, or Teleroboxer, each pad controls a different feature. The symmetry of the controller also allows left-handed gamers to reverse the controls (similar to the Atari Lynx).
+
+2.3. Connectivity
+
+During development, Nintendo promised the ability to link systems for competitive play. The system's EXT (extension) port, located on the underside of the system below the controller port, was never officially supported since no "official" multiplayer games were ever published, nor was an official link cable released. (Although Waterworld and Faceball were going to use the EXT port for multiplayer play, the multiplayer features in the former were removed and the latter was canceled.)
+
+3. Games
+
+Nintendo initially showcased three games for the Virtual Boy. They planned to release three titles at launch, and two or three per month thereafter. Given the system's short lifespan, only 22 games were released. Of them, 19 games were released in the Japanese market, while 14 were released in North America.
+
+, the homebrew community at Planet Virtual Boy were still developing unofficial software. Two previously unreleased games, namely Bound High and the Japanese version of Faceball (known as NikoChan Battle) have finally seen the light of day.
+
+When asked if Virtual Boy games were going to be available for download on the Virtual Console for the Nintendo 3DS, Nintendo of America President Reggie Fils-Aime said he could not answer, as he was unfamiliar with the platform. He noted that, given his lack of familiarity, he would be hard-pressed to make the case for inclusion of the games on the Virtual Console.
+
+4. Reception
+
+The Virtual Boy was a commercial failure. The Virtual Boy failed for a number of reasons, among them "its high price, the discomfort caused by play [...] and what was widely judged to have been a poorly handled marketing campaign."
+
+Gamers who previewed the system at the Shoshinkai 1995 show complained that the Mario demo was not realistic enough, was not in full color, and didn't allow for "tracking" (the movement of the image when the player turns his or her head). Following its release, reviews of the Virtual Boy tended to praise its novelty, but questioned its ultimate purpose and longtime viability. The Los Angeles Times described gameplay as being "at once familiar and strange." The column praised the quality of motion and immersive graphics, but considered the hardware itself tedious to use and non-portable. A later column by the same reviewer found the system to be somewhat asocial, although it held out hope for the console's future.
+
+While Nintendo had promised a virtual reality experience, the monochrome display limited the Virtual Boy's potential for immersion. Reviewers often considered the 3-dimensional features a gimmick, added to games that were essentially 2- or even 1-dimensional. The Washington Post felt that, even when a game gives the impression of 3-dimensionality, it suffers from "hollow vector graphics." Yokoi, the system's inventor, noted the system's relative strengths with action and puzzle games, although those types of games provided only minimal immersion. Multiple critics lamented the absence of head-tracking in the Virtual Boy hardware. Critics found that, as a result, players were unable to immerse themselves in the game worlds of Virtual Boy games. Instead, they interacted with the fictional worlds in the manner of any traditional 2-dimensional game (that is, via a controller). Boyer said the console "struggles to merge the two distinct media forms of home consoles and virtual reality devices." While the device employed virtual reality techniques, it did so via the traditional home console. No feedback from the body was incorporated into gameplay.
+
+Many reviewers complained of painful and frustrating physiological symptoms when playing the Virtual Boy. Bill Frischling, writing for The Washington Post, experienced "dizziness, nausea and headaches." Reviewers attributed the problems to both the monochromatic display and uncomfortable ergonomics. Nintendo, in the years after Virtual Boy's demise, has been frank about its failure. Howard Lincoln, chairman of Nintendo of America, said flatly that the Virtual Boy "just failed."
+
+5. Legacy
+
+According to Game Over, Nintendo laid blame for the machine's faults directly on its creator, Gunpei Yokoi. The commercial demise of the Virtual Boy was said to be the catalyst that led to Yokoi being driven from Nintendo. Nevertheless, The New York Times maintained that Yokoi kept a close relationship with Nintendo despite Yokoi having later created the WonderSwan, a rival handheld system for Bandai.
+
+Although considered a failure in the traditional sense, the Virtual Boy did little to alter Nintendo's development approach and focus on innovation. If anything, it encouraged a more open-ended metric for success than finances or sales. While the console itself failed in many regards, its focus on peripherals and haptic technology reemerged in later years. The hope of developing a virtual reality gaming platform has considerably outlived the Virtual Boy itself. Because Nintendo only shipped 1.26m Virtual Boy units worldwide, it is considered a valuable collector's item.
+
+With the launch of the Nintendo 3DS console in 2011, Nintendo released a true handheld gaming console with auto-stereoscopic 3D visuals. In other words, this console produced the desired effects without any special glasses and was portable. In the period leading up to the release of the Nintendo 3DS, Shigeru Miyamoto discussed what he felt were the issues with the Virtual Boy. One was the actual use of the three-dimensional effects - while it was designed to render wireframe graphics, it was generally used to separate two-dimensional games into different planes separated by depth. Further, Miyamoto stated that the graphics were not as appealing, and while developing the Nintendo 64, had ruled out the use of wireframe graphics as too sparse to draw players. Finally, he stated that he perceived the Virtual Boy as a novelty that should not have used the Nintendo license so prominently.
+
+6. In popular culture
+
+In the eponymous anime series, Maria Holic, a dorm adviser is going over a list of items not approved in dorm rooms, with one item of the list reading "Game Consoles (except Virtual Boy)". When asked why the Virtual Boy was an exception, she replies "Because God (referring to herself) loves things that have a tragic history." referencing the Virtual Boy's short lived shelf life. It is referenced frequently throughout the show and at one point is lined up with other failed devices that include Sony's PocketStation and Betamax, SEGA's Dreamcast, Enterbrain's Jashin MOK-KOS figurine and Nintendo's Power Glove.
+
+In the game Tomodachi Life (Tomodachi: New Life in Japan), the game made several self-references to the Virtual Boy. The first reference the western market received of the Virtual Boy, was in the Localisation Trailer for the game, as it has previously been a Japan-exclusive game. In said trailer, there is a clip of Nintendo Staff (personified as in-game "Mii's") ritualising a Virtual Boy, exclaiming: "All Hail The Virtual Boy!". This is a reference to the utter failure of the system, and the fact that Nintendo mocked themselves of this mistake. Another reference comes from The shopkeeper in the game; upon buying (or trading in) a Virtual Boy, he/ she would say "dig the red and black styling", both a reference to the colour scheme and the colours the screen would display. The final reference is a Virtual Boy can be an opponent/ Boss in the minigame: Tomodachi Quest.
+
+7. See also
+
+Entex Adventure Vision, a 1982 video game console with similar mechanical operation.
+
+Sega VR, a 1993 prototype virtual reality add-on for the Sega Mega Drive/Genesis.
+
+R-Zone, a 1995 handheld game console released by Tiger Electronics.
+
+Famicom 3D System
+
+Google Glass, another Google product for displaying data next to the face
+
+Oculus Rift, Virtual reality (VR) project
+
+Gear VR, Samsung product in partnership with Oculus VR
+
+Project Morpheus, Sony's VR project
+
+8. Notes
+
+9. References
+
+10. External links
+
+at Nintendo.com ( at the Internet Archive Wayback Machine)
+
+at GameFAQs
+
+at Planet Virtual Boy
+
+at Planet Virtual Boy
+
+at GBAtemp.net
+
+at virtual-boy.org

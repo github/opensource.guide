@@ -1,0 +1,133 @@
+The pun, also called paronomasia, is a form of word play that suggests two or more meanings, by exploiting multiple meanings of words, or of similar-sounding words, for an intended humorous or rhetorical effect. These ambiguities can arise from the intentional use of homophonic, homographic, metonymic, or metaphorical language. A pun differs from a malapropism in that a malapropism uses an incorrect expression that alludes to another (usually correct) expression, but a pun uses a correct expression that alludes to another (sometimes correct but more often absurdly humorous) expression. Henri Bergson defined a pun as a sentence or utterance in which "the same sentence appears to offer two independent meanings, but it is only an appearance; in reality there are two different sentences made up of different words, but claiming to be one and the same because both have the same sound". Puns may be regarded as in-jokes or idiomatic constructions, given that their usage and meaning are entirely local to a particular language and its culture. For example, "Camping is intense." (in tents)
+
+Puns are used to create humor and sometimes require a large vocabulary to understand. Puns have long been used by comedy writers, such as William Shakespeare, Oscar Wilde, and George Carlin. The Roman playwright Plautus is famous for his tendency to make up and change the meaning of words to create puns in Latin.
+
+1. Typology
+
+Puns can be classified in various ways:
+
+The homophonic pun, a common type, uses word pairs which sound alike (homophones) but are not synonymous. Walter Redfern exemplified this type with his statement, "To pun is to treat homonyms as synonyms." For example, in George Carlin's phrase "Atheism is a non-prophet institution", the word "prophet" is put in place of its homophone "profit", altering the common phrase "non-profit institution". Similarly, the joke "Question: Why do we still have troops in Germany? Answer: To keep the Russians in Czech" relies on the aural ambiguity of the homophones "check" and "Czech". Often, puns are not strictly homophonic, but play on words of similar, not identical, sound as in the example from the "Pinky and the Brain" cartoon film series: "I think so, Brain, but if we give peas a chance, won't the lima beans feel left out?" which plays with the similar—but not identical—sound of "peas" and "peace".
+
+A homographic pun exploits words which are spelled the same (homographs) but possess different meanings and sounds. Because of their nature, they rely on sight more than hearing, contrary to homophonic puns. They are also known as heteronymic puns. Examples in which the punned words typically exist in two different parts of speech often rely on unusual sentence construction, as in the anecdote: "When asked to explain his large number of children, the pig answered simply: 'The wild oats of my sow gave us many piglets.' " An example which combines homophonic and homographic punning is Douglas Adams's line "You can tune a guitar, but you can't tuna fish. Unless of course, you play bass." The phrase uses the homophonic qualities of "tune a" and "tuna", as well as the homographic pun on "bass", in which ambiguity is reached through the identical spellings of (a string instrument), and (a kind of fish).
+
+Homonymic puns, another common type, arise from the exploitation of words which are both homographs and homophones. The statement "Being in politics is just like playing golf: you are trapped in one bad lie after another" puns on the two meanings of the word lie as "a deliberate untruth" and as "the position in which something rests". An adaptation of a joke repeated by Isaac Asimov gives us "Did you hear about the little moron who strained himself while running into the screen door?" playing on "strained" as "to give much effort" and "to filter". A homonymic pun may also be polysemic, in which the words must be homonymic and also possess related meanings, a condition which is often subjective. However, lexicographers define polysemes as listed under a single dictionary lemma (a unique numbered meaning) while homonyms are treated in separate lemmata.
+
+A compound pun is a statement that contains two or more puns. For example, a complex statement by Richard Whately includes four puns: "Why can a man never starve in the Great Desert? Because he can eat the sand which is there. But what brought the sandwiches there? Why, Noah sent Ham, and his descendants mustered and bred." This pun uses "sand which is there/sandwiches there", "Ham/ham", "mustered/mustard", and "bred/bread". Similarly, the phrase "Piano is not my Forte" cleverly links two meanings of the words "forte" and "piano", one for the dynamic markings in music and the second for the literal meaning of the sentence. Compound puns may also combine two phrases that share a word. For example, "Where do mathematicians go on weekends? To a Möbius strip club!" puns on Möbius strip and strip club.
+
+A recursive pun is one in which the second aspect of a pun relies on the understanding of an element in the first. For example the statement "π is only half a pie." (π radians is 180 degrees, or half a circle, and a pie is a complete circle). Another example is "Infinity is not in finity", which means infinity is not in finite range. Another example is "A Freudian slip is when you say one thing but mean your mother." Finally, we are given "Immanuel doesn't pun, he Kant" by Oscar Wilde.
+
+Visual puns are used in many logos, emblems, insignia, and other graphic symbols, in which one or more of the pun aspects are replaced by a picture. In European heraldry, this technique is called canting arms. Visual and other puns and word games are also common in Dutch gable stones as well as in some cartoons, such as Lost Consonants and The Far Side.
+
+Another type of visual pun exists in languages which use non-phonetic writing. For example, in Chinese, a pun may be based on a similarity in shape of the written character, despite a complete lack of phonetic similarity in the words punned upon. Mark Elvin describes how this "peculiarly Chinese form of visual punning involved comparing written characters to objects".
+
+Richard J. Alexander notes two additional forms which puns may take: graphological (sometimes called visual) puns, such as concrete poetry; and morphological puns, such as portmanteaus.
+
+2. Use
+
+2.1. Comedy and jokes
+
+Puns are a common source of humour in jokes and comedy shows. They are often used in the punch line of a joke, where they typically give a humorous meaning to a rather perplexing story. These are also known as feghoots. The following example comes from the movie Master and Commander: The Far Side of the World, though the punchline stems from far older Vaudeville roots. The final line puns on the stock phrase "the lesser of two evils".
+
+Puns often are used in the titles of comedic parodies. A parody of a popular song, movie, etc., may be given a title that hints at the title of the work being parodied, substituting some of the words with ones that sound or look similar. For example, collegiate a cappella groups are often named after musical puns to attract fans through attempts at humor. Such a title can immediately communicate both that what follows is a parody and also which work is about to be parodied, making any further "setup" (introductory explanation) unnecessary.
+
+2.2. Literature
+
+Non-humorous puns were and are a standard poetic device in English literature. Puns and other forms of word play have been used by many famous writers, such as Alexander Pope, James Joyce, Vladimir Nabokov, Robert Bloch, Lewis Carroll, John Donne, and William Shakespeare, who is estimated to have used over 3,000 puns in his plays.
+
+Here is an example from Shakespeare's Richard III:
+
+Shakespeare was also noted for his frequent play with less serious puns, the "quibbles" of the sort that made Samuel Johnson complain, "A quibble is to Shakespeare what luminous vapours are to the traveller! He follows it to all adventures; it is sure to lead him out of his way, sure to engulf him in the mire. It has some malignant power over his mind, and its fascinations are irresistible." Elsewhere, Johnson disparagingly referred to punning as "the lowest form of humour".
+
+In the poem A Hymn to God the Father, John Donne, married to Anne More, reportedly puns repeatedly: "Son/sun" in the second quoted line, and two compound puns on "Donne/done" and "More/more". All three are homophonic, with the puns on "more" being both homographic and capitonymic. The ambiguities serve to introduce several possible meanings into the verses.
+
+Alfred Hitchcock stated “Puns are the highest form of literature.”
+
+2.3. Rhetoric
+
+Puns can function as a rhetorical device, where the pun serves as a persuasive instrument for an author or speaker. Although puns are often perceived as cliché, if used responsibly a pun “…can be an effective communication tool in a variety of situations and forms”. A major difficulty in using puns in this manner is that the meaning of a pun can be interpreted very differently according to the audience’s background and can significantly subtract from a message.
+
+2.4. Design
+
+Like other forms of wordplay, paronomasia is occasionally used for its attention-getting or mnemonic qualities, making it common in titles and the names of places, characters, and organizations, and in advertising and slogans.
+
+Many restaurant and shop names use puns: Cane & Able mobility healthcare, Tiecoon tie shop, Planet of the Grapes wine and spirits, as do books, such as Pies and Prejudice, comics (YU+ME: dream) and films (Good Will Hunting). The Japanese anime Speed Racer's original title, Mach GoGoGo! refers to the English word itself, the Japanese word for five (the Mach 5's car number), and the name of the show's main character, Go Mifune. This is also an example of a multilingual pun, full understanding of which requires knowledge of more than language on the part of the listener.
+
+Names of characters also often carry puns, such as Ash Ketchum and Goku ("kakarot"), the protagonists of the anime series Pokémon and Dragonball, respectively, both franchises which are known for including second meanings in the names of many of their characters. A recurring motif in the Austin Powers films repeatedly puns on names which suggest male genitalia. In the science fiction television series Star Trek, "B-4" is used as the name of one of four androids models constructed "before" the android Data, a main character.
+
+The parallel sequel The Lion King 1½ advertised with the phrase "You haven't seen the 1/2 of it!". Wyborowa Vodka employed the slogan "Enjoyed for centuries straight", while Northern Telecom used "Technology the world calls on."
+
+3. Paronomasia in the media
+
+Paronomasia, also known as the pun, has found a strong foothold in the media. William Safire of the New York Times suggests that “the root of this pace-growing [use of paranomasia] is often a headliner-writer’s need for quick catchiness, and has resulted in a new tolerance for a long-despised form of humor.” It can be argued that paronomasia is common in the media, especially headlines, to draw the reader’s interest. The rhetoric is important because it connects people with the topic.
+
+Paronomasia is prevalent orally as well. Salvatore Attardo believes that puns are verbal humor. He talks about Pepicello and Weisberg's linguistic theory of humor and believes the only form of linguistic humor is limited to puns. This is because a pun is play on the word itself. Attardo believes that only puns are able to maintain humor and this humor has significance. It is able to help soften a situation and make it less serious, it can help make something more memorable, and using a pun can make the speaker seem witty.
+
+Paronomasia is strong in print media and oral conversation so it can be assumed that paronomasia is strong in broadcast media as well. Examples of paranomasia in media are sound bites. They could be memorable because of the humor and rhetoric associated with paronomasia, thus making the significance of the sound bite stronger.
+
+4. Confusion and alternative uses
+
+There exist subtle differences between paronomasia and other literary techniques, such as the double entendre. While puns are often simple wordplay for comedic or rhetorical effect, a double entendre alludes to a second meaning which is not contained within the statement or phrase itself, often one which purposefully disguises the second meaning. As both exploit the use of intentional double meanings, puns can sometimes be double entendres, and vice versa. Puns also bear similarities with paraprosdokian, syllepsis and eggcorns. In addition, homographic puns are sometimes compared to the stylistic device antanaclasis, and homophonic puns to polyptoton. Puns can be used as a type of mnemonic device to enhance comprehension in an educational setting. Used discreetly, puns can effectively reinforce content and aid in the retention of material.
+
+4.1. Science and computing
+
+Scientific puns rely on the contrast between precise technical and imprecise informal definitions of the same word. In statistical contexts, for example, the word significant is usually assumed to mean "statistically significant", which has a precisely defined technical meaning. Using significant with the layperson meaning "of practical significance" in such contexts would qualify as punning, such as the webcomic xkcd's pun "statistically significant other".
+
+In formal linguistics, puns can often be found embedded within the etymological meaning or usage of words, which in turn may be buried over time and unknown to native speakers. Puns may also be found in syntax, where morphological constructions have derived from what may have originally been humorous word play, slang, or otherwise idiosyncratic word usage.
+
+In computing, esoteric programming languages (EPLs) are based in or contain what may be regarded as conceptual puns, as they typically misuse common programming concepts in ways which are absurd, or functionally useless. Some EPL puns may be obvious, such as in the usage of text images, while other puns are highly conceptual and understandable to experts only.
+
+In computer science, the term type punning refers to a programming technique that subverts or circumvents the type system of a programming language, by allowing a value of a certain type to be manipulated as a value of a different type. For instance, a four-byte integer may be 'cast' as a floating point value; or an instance of class Dog may be treated as a member of a superclass Animal by 'casting' the dog instance as a (more generic) animal.
+
+5. History
+
+Puns were found in ancient Egypt, where they were heavily used in development of myths and interpretation of dreams.
+
+In China, Shen Tao (ca. 300 BC) used "shih", meaning "power", and "shih", meaning "position" to say that a king has power because of his position as king.
+
+In ancient Iraq, about 2500 BC, punning was used by scribes to represent words in cuneiform.
+
+The Maya are known for having used puns in their hieroglyphic writing, and for using them in their modern languages.
+
+In Japan, "graphomania" was one type of pun.
+
+In Tamil, Sledai is the word used to mean pun in which a word with two different meanings. This is also classified as a poetry style in ancient Tamil literature.
+
+6. See also
+
+Albur
+
+Alliteration
+
+Antanaclasis
+
+Auto-antonym
+
+Dajare
+
+Double entendre
+
+Eggcorn
+
+Feghoot
+
+Malapropism
+
+Mondegreen
+
+Paraprosdokian
+
+Polyptoton
+
+Satiric misspelling
+
+Syllepsis
+
+7. Notes
+
+8. References
+
+(access restricted)
+
+9. Further reading
+
+10. External links

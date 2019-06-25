@@ -1,0 +1,103 @@
+Metaphilosophy (sometimes called philosophy of philosophy) is ‘the investigation of the nature of philosophy.’ Its subject matter includes the aims of philosophy, the boundaries of philosophy, and its methods. It is considered by some to be a subject apart from philosophy, while others see it as automatically a part of philosophy, and still others see it as a combination of these subjects. The interest in metaphilosophy led to the establishment of the journal Metaphilosophy in January 1970.
+
+1. Relationship to philosophy
+
+Some philosophers consider metaphilosophy to be a subject apart from philosophy, above or beyond it, while others object to that idea. Timothy Williamson argues that the philosophy of philosophy is "automatically part of philosophy," as is the philosophy of anything else. Nicholas Bunnin and Jiyuan Yu write that the separation of first- from second-order study has lost popularity as philosophers find it hard to observe the distinction. As evidenced by these contrasting opinions, debate remains as to whether the evaluation of the nature of philosophy is 'second order philosophy' or simply 'plain philosophy'.
+
+Many philosophers have expressed doubts over the value of metaphilosophy. Among them is Gilbert Ryle : "preoccupation with questions about methods tends to distract us from prosecuting the methods themselves. We run as a rule, worse, not better, if we think a lot about our feet. So let us... not speak of it all but just do it."
+
+2. Terminology
+
+The designations metaphilosophy and philosophy of philosophy have a variety of meanings, sometimes taken to be synonyms, and sometimes seen as distinct.
+
+Morris Lazerowitz claims to have created the term ‘metaphilosophy’ around 1940 and used it in print in 1942. Lazerowitz proposed that metaphilosophy is ‘the investigation of the nature of philosophy.’ Earlier uses have been found in translations from the French. The term is derived from Greek word meta μετά ("after", "beyond", "with") and philosophía φιλοσοφία ("love of wisdom").
+
+The term ‘metaphilosophy’ is used by Paul Moser in the sense of a 'second-order' or more fundamental undertaking than philosophy itself, in the manner suggested by Charles Griswold: This usage was considered nonsense by Ludwig Wittgenstein, who rejected the analogy between metalanguage and a metaphilosophy. As expressed by Martin Heidegger:
+
+Some other philosophers treat the prefix meta as simply meaning ‘about...’, rather than as referring to a metatheoretical 'second-order' form of philosophy, among them Rescher and Double. Others, such as Williamson, prefer the term ‘philosophy of philosophy’ instead of ‘metaphilosophy’ as it avoids the connotation of a 'second-order' discipline that looks down on philosophy, and instead denotes something that is a part of it. Joll suggests that to take metaphilosophy as 'the application of the methods of philosophy to philosophy itself' is too vague, while the view that sees metaphilosophy as a ‘second-order’ or more abstract discipline, outside philosophy, "is narrow and tendentious".
+
+In the analytical tradition, the term "metaphilosophy" is mostly used to tag commenting and research on previous works as opposed to original contributions towards solving philosophical problems.
+
+3. Writings
+
+Ludwig Wittgenstein wrote about the nature of philosophical puzzles and philosophical understanding. He suggested philosophical errors arose from confusions about the nature of philosophical inquiry. In the Philosophical Investigations, Wittgenstein wrote that there is not a metaphilosophy in the sense of a metatheory of philosophy.
+
+C. D. Broad distinguished Critical from Speculative philosophy in his "The Subject-matter of Philosophy, and its Relations to the special Sciences," in Introduction to Scientific Thought, 1923. Curt Ducasse, in Philosophy as a Science, examines several views of the nature of philosophy, and concludes that philosophy has a distinct subject matter: appraisals. Ducasse's view has been among the first to be described as 'metaphilosophy'.
+
+Henri Lefebvre in Metaphilosophie (1965) argued, from a marxian standpoint, in favor of an "ontological break", as a necessary methodological approach for critical social theory (whilst criticizing Louis Althusser's "epistemological break" with subjective marxism, which represented a fundamental theoretical tool for the school of marxist structuralism).
+
+Paul Moser writes that typical metaphilosophical discussion includes determining the conditions under which a claim can be said to be a philosophical one. He regards meta-ethics, the study of ethics, to be a form of metaphilosophy, as well as meta-epistemology, the study of epistemology.
+
+4. Topics
+
+Many sub-disciplines of philosophy have their own branch of 'metaphilosophy', examples being Meta-aesthetics, Meta-epistemology, Meta-ethics, Meta-ontology, and so forth. However, some topics within 'metaphilosophy' cut across the various subdivisions of philosophy to consider fundamentals important to all its sub-disciplines. Some of these are mentioned below.
+
+4.1. Aims
+
+Some philosophers (e.g. existentialists, pragmatists) think philosophy is ultimately a practical discipline that should help us lead meaningful lives by showing us who we are, how we relate to the world around us and what we should do. Others (e.g. analytic philosophers) see philosophy as a technical, formal, and entirely theoretical discipline, with goals such as "the disinterested pursuit of knowledge for its own sake". Other proposed goals of philosophy include "discover[ing] the absolutely fundamental reason of everything it investigates", "making explicit the nature and significance of ordinary and scientific beliefs", and unifying and transcending the insights given by science and religion. Others proposed that philosophy is a complex discipline because it has 4 or 6 different dimensions.
+
+4.2. Boundaries
+
+Defining philosophy and its boundaries is itself problematic; Nigel Warburton has called it "notoriously difficult". There is no straightforward definition, and most interesting definitions are controversial. As Bertrand Russell wrote:
+
+While there is some agreement that philosophy involves general or fundamental topics, there is no clear agreement about a series of demarcation issues, including:
+
+that between first-order and second-order investigations. Some authors say that philosophical inquiry is second-order, having concepts, theories and presupposition as its subject matter; that it is "thinking about thinking", of a "generally second-order character"; that philosophers study, rather than use, the concepts that structure our thinking. However, the Oxford Dictionary of Philosophy warns that "the borderline between such 'second-order' reflection, and ways of practicing the first-order discipline itself, is not always clear: philosophical problems may be tamed by the advance of a discipline, and the conduct of a discipline may be swayed by philosophical reflection".
+
+that between philosophy and empirical science. Some argue that philosophy is distinct from science in that its questions cannot be answered empirically, that is, by observation or experiment. Some analytical philosophers argue that all meaningful empirical questions are to be answered by science, not philosophy. However, some schools of contemporary philosophy such as the pragmatists and naturalistic epistemologists argue that philosophy should be linked to science and should be scientific in the broad sense of that term, "preferring to see philosophical reflection as continuous with the best practice of any field of intellectual enquiry".
+
+that between philosophy and religion. Some argue that philosophy is distinct from religion in that it allows no place for faith or revelation.: that philosophy does not try to answer questions by appeal to revelation, myth or religious knowledge of any kind, but uses reason, "without reference to sensible observation and experiments". However, philosophers and theologians such as Thomas Aquinas and Peter Damian have argued that philosophy is the "handmaiden of theology" (ancilla theologiae).
+
+4.3. Methods
+
+Philosophical method (or philosophical methodology) is the study of how to do philosophy. A common view among philosophers is that philosophy is distinguished by the ways that philosophers follow in addressing philosophical questions. There is not just one method that philosophers use to answer philosophical questions.
+
+Recently, some philosophers have cast doubt about intuition as a basic tool in philosophical inquiry, from Socrates up to contemporary philosophy of language. In Rethinking Intuition various thinkers discard intuition as a valid source of knowledge and thereby call into question 'a priori' philosophy. Experimental philosophy is a form of philosophical inquiry that makes at least partial use of empirical research—especially opinion polling—in order to address persistent philosophical questions. This is in contrast with the methods found in analytic philosophy, whereby some say a philosopher will sometimes begin by appealing to his or her intuitions on an issue and then form an argument with those intuitions as premises. However, disagreement about what experimental philosophy can accomplish is widespread and several philosophers have offered criticisms. One claim is that the empirical data gathered by experimental philosophers can have an indirect effect on philosophical questions by allowing for a better understanding of the underlying psychological processes which lead to philosophical intuitions.
+
+4.4. Progress
+
+A prominent question in metaphilosophy is that of whether or not philosophical progress occurs, and more so, whether such progress in philosophy is even possible. It has even been disputed, most notably by Ludwig Wittgenstein, whether genuine philosophical problems actually exist. The opposite has also been claimed, for example by Karl Popper, who held that such problems do exist, that they are solvable, and that he had actually found definite solutions to some of them.
+
+5. See also
+
+Metatheory
+
+Meta-knowledge
+
+Meta-epistemology
+
+Meta-ontology
+
+Metaphysics
+
+Non-philosophy
+
+Philosophical progress
+
+Unsolved problems in philosophy
+
+Epistemology
+
+6. References
+
+7. Further readings
+
+Double R., (1996) Metaphilosophy and Free Will, Oxford University Press, USA, ISBN 0-19-510762-4, ISBN 978-0-19-510762-3
+
+Lazerowitz M., (1964) Studies in Metaphilosphy, London: Routledge
+
+Overgaard, S, Gilbert, P., Burwood, S. (2013) An Introduction to Metaphilosophy, Cambridge: Cambridge University Press
+
+Rescher N., (2006), Philosophical Dialectics, an Essay on Metaphilosophy, Albany: State University of New York Press
+
+Rescher, Nicholas (2001). Philosophical Reasoning. A Study in the Methodology of Philosophizing. Blackwell.
+
+Williamson T., (2007) The Philosophy of Philosophy, London: Blackwell
+
+Wittgenstein Ludwig, Tractatus Logico-Philosophicus, trans. David Pears and Brian McGuinness (1961), Routledge, hardcover: ISBN 0-7100-3004-5, 1974 paperback: ISBN 0-415-02825-6, 2001 hardcover:ISBN 0-415-25562-7, 2001 paperback: ISBN 0-415-25408-6; ** Philosophische Untersuchungen (1953) or Philosophical Investigations, translated by G.E.M. Anscombe (1953)
+
+8. External links
+
+- Southern Connecticut State University
+
+, Kazimierz Twardowski, in the Stanford Encyclopedia of Philosophy
