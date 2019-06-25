@@ -181,7 +181,7 @@ Usar um tom acolhedor, amigável e oferecer sugestões específicas para contrib
 
 Por exemplo, o [Active Admin](https://github.com/activeadmin/activeadmin/) começa [seu guia de contribuição](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) com:
 
-> Primeiramente, obrigado por considerar contribuir para o Active Admin. São pessoas como você que fazem o Active Admin esta grande ferramenta. 
+> Primeiramente, obrigado por considerar contribuir para o Active Admin. São pessoas como você que fazem o Active Admin esta grande ferramenta.
 
 Nos primeiros estágios do seu projeto, seu arquivo de CONTRIBUTING pode ser simples. Você deve sempre explicar como relatar bugs ou registrar issues, e qualquer requisito técnico (como testes) necessário para se fazer uma contribuição.
 
@@ -189,7 +189,7 @@ Ao longo do tempo, você pode adicionar outras questões frequentemente respondi
 
 Para mais ajuda em como escrever seu arquivo CONTRIBUTING, dê uma olhada no [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) de @nayafia ou o ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) do @mozilla.
 
-Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que mais pessoas possam vê-lo. Se você [colocar seu arquivo CONTRIBUTING no repositório do seu projeto](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), o GitHub irá automaticamente 'linkar' para o seu arquivo quando um contribuidor criar uma issue ou abrir um pull request.
+Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que mais pessoas possam vê-lo. Se você [colocar seu arquivo CONTRIBUTING no repositório do seu projeto](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), o GitHub irá automaticamente "linkar" para o seu arquivo quando um contribuidor criar uma issue ou abrir um pull request.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -209,7 +209,7 @@ Para mais informações, dê uma olhada no nosso [guia do Código de Conduta](..
 
 Além de comunicar _como_ você espera que os participantes se comportem, um código de conduta também tende a descrever a quem essas expectativas se aplicam, quando se aplicam e o que fazer se uma violação ocorrer.
 
-De modo muito parecido com licenças open source, também há padrões emergentes para códigos de conduta, de modo que você não precisa escrever o seu. O [Contributor Covenant](https://contributor-covenant.org/) é um código de conduta 'pronto para o uso' que é usado por [mais de 40,000 projetos open source](https://www.contributor-covenant.org/adopters), incluindo Kubernetes, Rails, e Swift. Não importa que texto você utilize, você deve estar sempre preparado para impor o seu código de conduta quando necessário.
+De modo muito parecido com licenças open source, também há padrões emergentes para códigos de conduta, de modo que você não precisa escrever o seu. O [Contributor Covenant](https://contributor-covenant.org/) é um código de conduta "pronto para o uso" que é usado por [mais de 40,000 projetos open source](https://www.contributor-covenant.org/adopters), incluindo Kubernetes, Rails, e Swift. Não importa que texto você utilize, você deve estar sempre preparado para impor o seu código de conduta quando necessário.
 
 Cole o texto diretamente em um arquivo CODE_OF_CONDUCT no seu repositório. Mantenha o arquivo no diretório raiz do seu projeto, de modo que ele seja fácil de ser encontrado, e crie um link para ele a partir do seu README.
 
@@ -240,7 +240,7 @@ Você pode conferir o [WIPO Global Brand Database](http://www.wipo.int/branddb/e
 
 Finalmente, realize uma busca rápida no Google pelo nome do seu projeto. As pessoas encontrarão o seu projeto com facilidade? Há algo que aparece nos resultados de busca que você não gostaria que eles vissem?
 
-### Como você escreve (e 'coda') afeta sua marca, também!
+### Como você escreve (e "coda") afeta sua marca, também!
 
 Ao longo da vida do seu projeto, você escreverá bastante: READMEs, tutoriais, documentos da comunidade, responder a issues, talvez até mesmo newsletters e listas de email.
 

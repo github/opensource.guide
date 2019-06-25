@@ -34,7 +34,7 @@ Lembre-se de manter a sua documentação atualizada. Se você não está dispon�
 
 Inicie escrevendo os objetivos do seu projeto. Adicione eles ao README, ou crie um arquivo separado chamado VISÃO. Caso existam outros artefatos que possam ajudar, como o roadmap do projeto, torne-os públicos também.
 
-Ter uma visão clara e documentada mantém você focado e ajuda a evitar a “fuga de escopo” das contribuições de outras pessoas.
+Ter uma visão clara e documentada mantém você focado e ajuda a evitar a "fuga de escopo" das contribuições de outras pessoas.
 
 Por exemplo, @lord descobriu que ter uma visão de projeto o ajudou a definir em quais requests gastaria seu tempo. Como um novo mantenedor, ele se arrependeu de não ter seguido o escopo quando recebeu sua primeira request para o [Slate](https://github.com/lord/slate).
 
@@ -69,7 +69,7 @@ Aqui estão algumas regras que valem a pena escrever:
 
 ### Mantenha a comunicação pública
 
-Não se esqueça de documentar suas interações também. Onde você puder, mantenha a comunicação sobre seu projeto pública. Se alguém tentar contatar você privativamente para discutir uma *feature request* ou um suporte necessitado, dirija ela ao canal de comunicação público, como uma lista de e-mail ou um *issue tracker*.
+Não se esqueça de documentar suas interações também. Onde você puder, mantenha a comunicação sobre seu projeto pública. Se alguém tentar contatar você privativamente para discutir uma feature request ou um suporte necessitado, dirija ela ao canal de comunicação público, como uma lista de e-mail ou um issue tracker.
 
 Se você encontrar outros mantenedores, ou tomar uma importante decisão em particular, documente essas conversas em público, mesmo que sejam apenas suas anotações.
 
@@ -87,7 +87,7 @@ Como mantenedor, você irá se deparar com diversas situações em que terá que
 
 ### Mantenha o diálogo amigável
 
-Um dos mais importantes lugares em que você irá praticar dizer não é em suas filas de *issues* e *pull requests*. Como um mantenedor de projeto, você irá inevitavelmente receber sugestões que não deseja aceitar.
+Um dos mais importantes lugares em que você irá praticar dizer não é em suas filas de issues e pull requests. Como um mantenedor de projeto, você irá inevitavelmente receber sugestões que não deseja aceitar.
 
 Talvez uma contribuição mude o escopo do projeto ou não corresponde à sua visão. Talvez a ideia seja boa, porém a implementação seja pobre.
 
@@ -97,15 +97,15 @@ Se você recebe uma contribuição que não deseja aceitar, sua primeira reaçã
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  A chave para assegurar o suporte em projetos *open-source* de larga escala é manter as *issues* em andamento. Tentar evitar que as *issues* estagnem. Se você é um desenvolvedor iOS, sabe o quanto é frustrante submeter radares. Você pode obter um feedback 2 anos depois dizendo para realizar uma nova solicitação com a versão mais recente do iOS.
+  A chave para assegurar o suporte em projetos open-source de larga escala é manter as issues em andamento. Tentar evitar que as issues estagnem. Se você é um desenvolvedor iOS, sabe o quanto é frustrante submeter radares. Você pode obter um feedback 2 anos depois dizendo para realizar uma nova solicitação com a versão mais recente do iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Escalando comunidades de código aberto"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Não deixe uma contribuição indesejada aberta porque você se sente culpado ou quer ser legal. Com o passar do tempo, suas *issues* e PRs não respondidas farão o trabalho em seu projeto pareça mais estressante e intimidador.
+Não deixe uma contribuição indesejada aberta porque você se sente culpado ou quer ser legal. Com o passar do tempo, suas issues e PRs não respondidas farão o trabalho em seu projeto pareça mais estressante e intimidador.
 
-É melhor fechar imediatamente as contribuições que você sabe que não deseja aprovar. Se seu projeto já sofre com um grande *backlog*, @steveklabnik tem sugestões para [como realizar a triagem de issues eficientemente](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+É melhor fechar imediatamente as contribuições que você sabe que não deseja aprovar. Se seu projeto já sofre com um grande backlog, @steveklabnik tem sugestões para [como realizar a triagem de issues eficientemente](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
 Em segundo lugar, ignorar contribuições envia um sinal negativo para sua comunidade. Contribuir para um projeto pode ser intimidador, especialmente se é a primeira vez de alguém. Mesmo que você não aceite a contribuição dele(a), dê reconhecimento à pessoa por trás dela e agradeça pelo interesse. É um grande elogio!
 
@@ -122,9 +122,9 @@ Você não precisará de mais de 1-2 sentenças para responder. Por exemplo, qua
 
 Se pensar em dizer "não" aterroriza você, você não está sozinho. Como @jessfraz relata
 
-> Eu conversei com mantenedores de vários projetos de código aberto diferentes, Mesos, Kubernetes, Chromium, e todos concordam que uma das partes mais difíceis de ser um mantenedor é dizer "Não" aos *patches* que você não quer.
+> Eu conversei com mantenedores de vários projetos de código aberto diferentes, Mesos, Kubernetes, Chromium, e todos concordam que uma das partes mais difíceis de ser um mantenedor é dizer "Não" aos patches que você não quer.
 
-Não se sinta envergonhado em não querer aceitar a contribuição de alguém. A primeira regra do *open source* [de acordo com](https://twitter.com/solomonstre/status/715277134978113536) @shykes é: _"*Não* é temporário, sim é para sempre."_ Embora a empatia com o entusiasmo de outra pessoa seja uma coisa boa, rejeitar uma contribuição não é o mesmo que rejeitar a pessoa por trás dela.
+Não se sinta envergonhado em não querer aceitar a contribuição de alguém. A primeira regra do open source [de acordo com](https://twitter.com/solomonstre/status/715277134978113536) @shykes é: _"Não é temporário, sim é para sempre."_ Embora a empatia com o entusiasmo de outra pessoa seja uma coisa boa, rejeitar uma contribuição não é o mesmo que rejeitar a pessoa por trás dela.
 
 Por fim, se uma contribuição não é boa o suficiente, você não possui a obrigação de aceitá-la. Seja gentil e responsivo quando as pessoas contribuírem com seu projeto, porém aceite somente mudanças que você realmente acredita que tornarão seu projeto melhor. Quanto mais você pratica dizer não, mais fácil se torna. Juro.
 
@@ -134,12 +134,12 @@ Para reduzir a quantidade de contribuições indesejadas, em primeiro lugar, exp
 
 Se você está recebendo muitas contribuições de baixa qualidade, exija que esses contribuidores executem alguns passos antes, por exemplo:
 
-* Preencher um *template/checklist* para *issues* ou PRs
-* Abrir uma *issue* antes de submeter uma PR
+* Preencher um template/checklist para issues ou PRs
+* Abrir uma issue antes de submeter uma PR
 
-Se eles não seguirem suas regras, feche a *issue* imediatamente e aponte para sua documentação.
+Se eles não seguirem suas regras, feche a issue imediatamente e aponte para sua documentação.
 
-Embora essa abordagem possa parecer indelicada a princípio, ser proativo é, na verdade, bom para as duas partes. Isso reduz as chances de alguém se esforçar durante horas de trabalho em uma *pull request* que você não irá aceitar. E além disso, torna seu fluxo de trabalho mais fácil de gerenciar.
+Embora essa abordagem possa parecer indelicada a princípio, ser proativo é, na verdade, bom para as duas partes. Isso reduz as chances de alguém se esforçar durante horas de trabalho em uma pull request que você não irá aceitar. E além disso, torna seu fluxo de trabalho mais fácil de gerenciar.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
@@ -155,7 +155,7 @@ Algumas vezes, quando você diz não, um potencial contribuidor pode chatear-se 
 
 Talvez alguém em sua comunidade, regularmente submeta contribuições que não casam com os padrões de seu projeto. Pode ser frustrante para ambas as partes passar por rejeições repetidamente.
 
-Se você perceber que alguém está entusiasmado com seu projeto, mas necessita de um pouco de polimento, seja paciente. Explique claramente em cada situação porque as contribuições deles não atendem as expectativas do projeto. Tente mostrá-los uma tarefa mais fácil ou menos ambígua, como uma _issue_ marcada como _"good first issue,"_ para que eles deem seus primeiros passos. Se você tiver tempo, considere ensiná-los a realizar sua primeira contribuição, ou encontre alguém em sua comunidade que possa estar disposto a orientá-los.
+Se você perceber que alguém está entusiasmado com seu projeto, mas necessita de um pouco de polimento, seja paciente. Explique claramente em cada situação porque as contribuições deles não atendem as expectativas do projeto. Tente mostrá-los uma tarefa mais fácil ou menos ambígua, como uma issue marcada como _"good first issue,"_ para que eles deem seus primeiros passos. Se você tiver tempo, considere ensiná-los a realizar sua primeira contribuição, ou encontre alguém em sua comunidade que possa estar disposto a orientá-los.
 
 ## Alavanque sua comunidade
 
@@ -199,7 +199,7 @@ Realizar o fork de um projeto não precisa ser uma coisa ruim. A capacidade de c
   </p>
 </aside>
 
-O mesmo se aplica a um usuário que realmente quer uma solução que você simplesmente não tem recurso suficiente para construir. Oferecer APIs e hooks de personalização pode ajudar as outras pessoas a atender as suas próprias necessidades, sem precisar que modificar o código fonte diretamente. @orta [descobriu que ](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) estimular a criação de plugins para CocoaPods levou à "algumas das ideias mais interessantes":
+O mesmo se aplica a um usuário que realmente quer uma solução que você simplesmente não tem recurso suficiente para construir. Oferecer APIs e hooks de personalização pode ajudar as outras pessoas a atender as suas próprias necessidades, sem precisar que modificar o código fonte diretamente. @orta [descobriu que](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) estimular a criação de plugins para CocoaPods levou à "algumas das ideias mais interessantes":
 
 > É quase inevitável que, quando um projeto se torna grande, os mantenedores precisam tornar-se mais conservadores sobre como eles introduzem código novo. Você se torna bom em dizer "não", mas muitas pessoas possuem necessidades legítimas. Então, em vez disso, você acaba transformando sua ferramenta em uma plataforma.
 
@@ -213,7 +213,7 @@ Uma das mais importantes formas de automatizar seu projeto é adicionando testes
 
 Testes ajudam os contribuidores a sentirem-se confiantes de que eles não quebrarão nada. Testes também tornam mais fácil, para você, revisar e aceitar contribuições rapidamente. Quanto mais responsivo você é, mais engajada sua comunidade poderá ser.
 
-Configure testes automáticos que irão executar em todas as contribuições recebidas e garanta que seus teste poderão ser facilmente executados localmente por seus contribuidores. Exija que todas as contribuições de código passem em seus testes antes que possam ser submetidas. Você ajudará a definir um padrão mínimo de qualidade para todas as submissões. [Verificações de _status_ obrigatórias](https://help.github.com/articles/about-required-status-checks/) no GitHub podem ajudar a garantir que nenhuma mudança seja aceita sem passar por seus testes.
+Configure testes automáticos que irão executar em todas as contribuições recebidas e garanta que seus teste poderão ser facilmente executados localmente por seus contribuidores. Exija que todas as contribuições de código passem em seus testes antes que possam ser submetidas. Você ajudará a definir um padrão mínimo de qualidade para todas as submissões. [Verificações de status obrigatórias](https://help.github.com/articles/about-required-status-checks/) no GitHub podem ajudar a garantir que nenhuma mudança seja aceita sem passar por seus testes.
 
 Se você adicionar testes, tenha certeza de ter explicado como eles funcionam em seu arquivo de contribuição.
 
@@ -235,7 +235,7 @@ Existem uma [variedade de ferramentas disponíveis](https://github.com/showcases
 * [mention-bot](https://github.com/facebook/mention-bot) menciona potenciais reviwers para pull requests
 * [Danger](https://github.com/danger/danger) ajuda a automatizar o code review
 
-Para relatório de bugs e outras contribuições comuns, o GitHub possui [Modelos de Issue e Modelos de Pull Request](https://github.com/blog/2111-issue-and-pull-request-templates), que você pode criar para simplificar a comunicação que você recebe. @TalAter fez o [guia Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/), para ajudar você a escrever seus modelos de _issue_ e _PR_.
+Para relatório de bugs e outras contribuições comuns, o GitHub possui [Modelos de Issue e Modelos de Pull Request](https://github.com/blog/2111-issue-and-pull-request-templates), que você pode criar para simplificar a comunicação que você recebe. @TalAter fez o [guia Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/), para ajudar você a escrever seus modelos de issue e PR.
 
 Para gerenciar suas notificações de e-mail, você pode configurar [filtros de e-mail](https://github.com/blog/2203-email-updates-about-your-own-activity) para organizar por prioridade.
 

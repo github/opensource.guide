@@ -26,7 +26,7 @@ Por exemplo, @robb usa exemplos de código para comunicar claramente porque o pr
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-Para um mergulho mais profundo nas mensagens, confira o exercício para desenvolvimento de personas de usuário da Mozilla: ["_Personas and Pathways_"](https://mozillascience.github.io/working-open-workshop/personas_pathways/).
+Para um mergulho mais profundo nas mensagens, confira o exercício para desenvolvimento de personas de usuário da Mozilla: ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/).
 
 ## Ajudando pessoas a encontrar e seguir seu projeto
 

@@ -38,7 +38,7 @@ A [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) mostrou 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contribuir com o _open source_ é mais fácil para alguns do que para outros. Há bastante medo em receber reclamações por não ter feito algo da forma certa ou simplesmente por não se encaixar. (...) Dar aos contribuidores um lugar para contribuir com pouca proficiência técnica (documentação, _markdown_ de conteúdo web, etc) reduz significativamente tais receios.
+  Contribuir com o open source é mais fácil para alguns do que para outros. Há bastante medo em receber reclamações por não ter feito algo da forma certa ou simplesmente por não se encaixar. (...) Dar aos contribuidores um lugar para contribuir com pouca proficiência técnica (documentação, markdown de conteúdo web, etc) reduz significativamente tais receios.
   <p markdown="1" class="pquote-credit">
   — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>

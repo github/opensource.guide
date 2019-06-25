@@ -56,7 +56,7 @@ Não se preocupe! Há todo tipo de maneiras de se envolver com um projeto open s
 
 ### Você não precisa contribuir com código
 
-Um equívoco comum sobre contribuir para o open source é que você precisa contribuir com código. Na verdade, muitas vezes são as outras partes de um projeto que são [mais negligenciadas ou esquecidas](https://github.com/blog/2195-the-shape-of-open-source). Você fará um grande favor ao projeto, oferecendo-se para contribuir com esses tipos de contribuições!
+Um equívoco comum sobre contribuir para o open source é que você precisa contribuir com código. Na verdade, muitas vezes são as outras partes de um projeto que são [mais negligenciadas ou esquecidas](https://github.com/blog/2195-the-shape-of-open-source). Você fará um _grande_ favor ao projeto, oferecendo-se para contribuir com esses tipos de contribuições!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
@@ -201,7 +201,7 @@ Em vez disso, comece pensando nos projetos que você já usa ou deseja usar. Os 
 
 Dentro desses projetos, sempre que você se perceber pensando que algo poderia ser melhor ou diferente, aja de acordo com seu instinto.
 
-O open source não é um clube exclusivo; é feito por pessoas como você. "Open source" é apenas um termo chique para tratar os problemas do mundo como 'consertáveis'.
+O open source não é um clube exclusivo; é feito por pessoas como você. "Open source" é apenas um termo chique para tratar os problemas do mundo como "consertáveis".
 
 Você pode ler um README e encontrar um link quebrado ou um erro de digitação. Ou você é um novo usuário e percebeu que algo está quebrado ou um problema que você acha que deveria estar na documentação. Em vez de ignorá-lo e seguir em frente, ou pedir a alguém para consertá-lo, veja se você pode ajudar. É disso que se trata o open source!
 
