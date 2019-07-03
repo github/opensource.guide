@@ -34,11 +34,11 @@ published: true
 ##  هل المشاريع العامة على GitHub مفتوحة المصدر؟
 
 
- عند [إنشائك مشروعا جديدا](https://help.github.com/articles/creating-a-new-repository/) على موقع GitHub ، فإنه يكون لديك الخيار لجعل معرض مشاريعك به خاصا أو عاما.
+ عند [إنشائك مشروعا جديدا](https://help.github.com/articles/creating-a-new-repository/) على موقع GitHub ، فإنه يكون لديك الخيار لجعل معرض مشاريعك به خاصًا أو عامًا.
 
 
 
-![Create repository](/assets/images/legal/repo-create-name.png)
+![ إنشاء مستودع](/assets/images/legal/repo-create-name.png)
 
 **لا يعد جعل مشروعك عامًا على GitHub كترخيص له**. تخضع المشاريع العامة على [على GitHub لشروط الخدمة في الموقع](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership) ،مما يسمح للآخرين بمشاهدة مشروعك و طرح اقتراحات للمساهمة فيه. ولكن خلافا لذلك، فإن مشروعك يأتي بدون أية تصريحات للإستخدام.
 
@@ -80,7 +80,7 @@ published: true
 
 قد ترغب أيضًا في أخذ **المجتمعات** التي تأمل بأن تستخدم وتساهم في مشروعك بعين الإعتبار :
 
-* **هل ترغب بأن يتم استخدام مشروعك كأساس(dependency) للمشاريع الأخرى؟** من الأفضل استخدام الرخصة الأكثر شيوعا في المجتمع المحيط بك. فعلى سبيل المثال، تعد رخصة [MIT](https://choosealicense.com/licenses/mit/) هي الترخيص الأكثر استخداما في  [ مكتبات npm](https://libraries.io/npm).
+* **هل ترغب بأن يتم استخدام مشروعك كأساس(dependency) للمشاريع الأخرى؟** من الأفضل استخدام الرخصة الأكثر شيوعا في المجتمع المحيط بك. فعلى سبيل المثال، تعد رخصة [رخصة MIT](https://choosealicense.com/licenses/mit/) هي الترخيص الأكثر استخداما في  [ مكتبات npm](https://libraries.io/npm).
 
 * **هل ترغب بأن يجذب مشروعك الشركات الكبرى؟** من المرجح بأن الشركات الضخمة سوف ترغب برخصة براءة اختراع واضحة وصريحة من كل المساهمين. وفي هذه الحالة،  فإن رخصة [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) سوف تضمن حقوق جميع الأطراف.
 
