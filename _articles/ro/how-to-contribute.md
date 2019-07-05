@@ -179,42 +179,42 @@ Un proiect cu sursă deschisă are următoarele tipuri de persoane:
 * **Contributori:** Oricine a contribuit cu ceva înapoi la proiect.
 * **Membrii comunității:** Persoane care folosesc proiectul. Ei ar putea fi activi în conversații sau să-și exprime părerea asupra direcției proiectului.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Proiectele mai mari pot de asemenea avea subcomitete sau grupuri de lucru axate pe sarcini diferite, cum ar fi uneltele, triajul, moderarea comunității, și organizarea evenimentelor. Caută pe site-ul unui proiect pentru o pagină „echipă” sau în depozit pentru documentația de guvernare, pentru a găsi această informație.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+Un proiect are de asemenea documentație. Aceste fișiere sunt de obicei listate în rădăcina depozitului.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** Prin definiție, oricare proiect cu sursă deschisă trebuie să aibă o [licență de sursă deschisă](https://choosealicense.com). Dacă proiectul nu are o licență, el nu este cu sursă deschisă.
+* **README:** README-ul este manualul de instrucțiuni care întâmpină noi membri ai comunității la proiect. El explică de ce proiectul este folositor și cum să începi.
+* **CONTRIBUTING:** În timp ce README-urile ajută oamenii să _folosească_ proiectul, documentația de contribuire ajută oamenii să _contribuie_ la proiect. Ea explică ce tipuri de contribuții sunt necesare și cum lucrează procesul. În timp ce nu oricare proiect are un fișier CONTRIBUTING, prezența lui semnalează că acesta este un proiect primitor la care să contribui.
+* **CODE_OF_CONDUCT:** Codul de conduită stabilește reguli de bază pentru comportamentul asociat al participanților și ajută să faciliteze un mediu prietenos și primitor. În timp ce nu oricare proiect are un fișier CODE_OF_CONDUCT, prezența lui semnalează că acesta este un proiect primitor la care să contribui.
+* **Altă documentație:** Ar putea fi documentație în plus, cum ar fi tutoriale, prezentări, sau politici de guvernare, în special în cazul proiectelor mai mari.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+În cele din urmă, proiectele cu sursă deschisă folosesc următoarele unelte pentru organizarea discuțiilor. Citirea prin arhive îți va oferi o imagine bună despre cum comunitatea gândește și lucrează.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Urmăritorul de probleme:** Unde oamenii discută problemele legate de proiect.
+* **Cereri de pull:** Unde oamenii discută și analizează schimbările care sunt în progres.
+* **Forumuri de discuții și liste de email-uri:** Unele proiecte pot folosi aceste canale pentru subiecte conversaționale (de exemplu, _"Cum să..."_ sau _"Ce credeți despre..."_ în loc de rapoarte de bug-uri sau cereri de facilități). Alții folosesc urmăritorul de probleme pentru toate conversațiile.
+* **Canal sincron de chat:** Unele proiecte utilizează canale de chat (cum ar fi Slack sau IRC) pentru conversații cazuale, colaborări, și schimburi rapide.
 
 ## Găsind un proiect la care să contribui
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Acum că v-ați dat seama cum proiectele cu sursă deschisă lucrează, este timpul să găsim un proiect la care să contribui!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Dacă nu ai contribuit niciodată la open source până acum, primește niște sfaturi de la Președintele S.U.A. John F. Kennedy, care a spus odată, _„Întreabă nu ceea ce țara ta poate face pentru tine - întreabă ce poți face tu pentru țara ta.”_
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Contribuirea la open source are loc la toate nivelele, de-a lungul proiectelor. Nu trebuie să gândești prea mult care mai exact va fi prima ta contribuție, sau cum va arăta.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+În schimb, începe prin a gândi despre proiectele pe care le folosești deja, sau vrei să le folosești. Aceste proiecte la care vei contribui activ sunt acelea la care te vei vedea întorcându-te înapoi.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+În aceste proiecte, de fiecare dată când te prinzi gândindu-te că ceva ar putea fi mai bine sau diferit, acționează pe baza instinctului.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+Open source nu este un club exclusivist; el este făcut din oameni exact ca tine. „Open source” este doar un termen extravagant pentru a trata problemele lumii ca rezolvabile.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+Ai putea scana un README sau găsi un link stricat sau o greșeală gramaticală. Sau ești un nou utilizator și ai observat că ceva este stricat, sau o problemă despre care crezi că într-adevăr ar trebui să fie în documentație. În loc de a o ignora sau de a trece mai departe, sau a cere altcuiva să o rezolve, vezi dacă poți ajuta pășind înăuntru. Despre aceasta este tot open source!
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% din contribuțiile ocazionale](https://www.igor.pro.br/publica/papers/saner2016.pdf) la open source sunt documentație, cum ar fi o corectare gramaticală, reformatare, sau scrierea unei traduceri.
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să descoperi și să contribui la noi proiecte:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -225,149 +225,149 @@ You can also use one of the following resources to help you discover and contrib
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 
-### A checklist before you contribute
+### O listă de verificare înainte de a contribui
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Când ai găsit un proiect la care ai dori să contribui, fă o scanare rapidă pentru a te asigura că proiectul este potrivit pentru a accepta contribuții. Altfel, munca ta grea ar putea să nu primească niciodată un răspuns.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Aici este o listă de verificare la îndemână pentru a evalua dacă un proiect este bun petru noi contributori.
 
-**Meets the definition of open source**
+**Respectă definiția open source**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  Are o licență? De obicei, acesta este un fișier numit LICENSE în rădăcina depozitului.
   </label>
 </div>
 
-**Project actively accepts contributions**
+**Proiectul acceptă în mod activ contribuțiile**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Uită-te la activitatea de comitere pe ramura master. Pe GitHub, poți vedea aceste informații pe pagina principală a depozitului.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  Când a fost ultima comitere?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  Câți contributori are proiectul?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  Cât de des se comite? (Pe GitHub, poți găsi acest lucru dând clic pe "Commits" în bara de sus.)
   </label>
 </div>
 
-Next, look at the project's issues.
+Apoi, privește problemele proiectului.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    Câte probleme deschise sunt?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    Întreținătorii răspund rapid la probleme când se deschid?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    Există o discuție activă asupra problemelor?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    Sunt problemele recente?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    Se închid probleme? (Pe GitHub, dă clic pe secțiunea "closed" pe pagina Issues pentru a vedea problemele închise.)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Acum fă la fel pentru cererile de pull ale proiectului.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    Câte cereri deschise de pull sunt?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    Întreținătorii răspund rapid la cererile de pull când sunt deschise?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    Există discuție activă asupra cererilor de pull?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    Sunt cererile de pull recente?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    Cât de recent au fost niște cereri de pull unite? (Pe GitHub, dă clic pe secțiunea „closed” pe pagina Pull Requests pentru a vedea PR-uri închise.)
   </label>
 </div>
 
-**Project is welcoming**
+**Proiectul este primitor**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Un proiect care este prietenos și primitor semnalează că ei vor fi receptivi la noi contributori.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    Întreținătorii răspund cu ajutor întrebărilor din probleme?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+    Sunt oamenii prietenoși în probleme, forumul de discuții, și chat (de exemplu, IRC sau Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    Cererile de pull sunt analizate de cineva?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    Întreținătorii mulțumesc oamenilor pentru contribuțiile lor?
   </label>
 </div>
 
@@ -381,11 +381,11 @@ A project that is friendly and welcoming signals that they will be receptive to 
 
 ## Cum să trimit o contribuție?
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+Ai găsit un proiect care îți place, și ești pregătit să faci o contribuție. În sfârșit! Iată cum să îți pui contribuția în direcția corectă.
 
-### Communicating effectively
+### Comunicând în mod eficient
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+Fie că ești un contributor de o singură dată sau încerci să te alături unei comunități, lucrând cu alții este cea mai importantă abilitate pe care o vei dezvolta în open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
@@ -395,55 +395,55 @@ Whether you're a one-time contributor or trying to join a community, working wit
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Înainte de a deschide o problemă sau o cerere de pull, sau a întreba în chat, păstrează aceste puncte în minte pentru a-ți ajuta ideile să vină eficient.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**Dă context.** Ajută-i pe ceilalți să ajungă la viteză. Dacă dai peste o eroare, explică ce încerci să faci și cum se poate reproduce. Dacă sugerezi o idee nouă, explică de ce crezi că ar fi folositoare proiectului (nu doar pentru tine!).
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"X nu se întâmplă când fac Y"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X este stricat! Te rog repară-l."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Mai întâi fă-ți temele.** Este OK să nu știi lucruri, dar arată că ai încercat. Înainte de a cere ajutor, asigură-te să verifici README-ul proiectului, documentația, problemele (deschise sau închise), lista de email-uri, și caută pe Internet după un răspuns. Oamenii vor aprecia când demonstrezi că încerci să înveți.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"Nu sunt sigur cum să implementez X. Am verificat documentația de ajutor și nu am găsit nicio mențiune."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"Cum fac X?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**Păstrează cererile scurte și directe.** Aproape ca la trimiterea unui email, fiecare contribuție, oricât de simplă sau ajutătoare, cere analiza altcuiva. Multe proiecte au mai multe cereri de intrare decât oameni disponibili să ajute. Fii concis. Vei mări șansele ca cineva să te poată ajuta.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"Mi-ar plăcea să scriu un tutorial API."_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"Conduceam pe autostradă în ziua anterioară și am oprit pentru alimentare, și atunci am avut această idee grozavă pentru ceva ce noi ar trebui să facem, dar înainte de a explica aceea, dă-mi voie să-ți arăt..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**Păstrează toate comunicațiile publice.** Deși este tentant, nu lua legătura cu întreținătorii în mod privat, decât dacă trebuie să împarți informații sensibile (cum ar fi o problemă de securitate sau o violare serioasă a conduitei). Când păstrezi conversația publică, mai mulți oameni pot învăța și beneficia de schimbul tău. Discuțiile pot fi, în sine, contribuții.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(ca un comentariu) "@-întreținător Salut! Cum ar trebui să procedăm cu acest PR?"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(as an email) "Hei, îmi pare rău că te deranjez prin email, dar mă întrebam dacă ai avut o șansă de a-mi revizui PR-ul"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**Este OK să pui întrebări (dar ai răbdare!).** Oricine a fost nou la proiect la un moment dat, și chiar contributorii cu experiență trebuie să ajungă la viteză când privesc la un proiect nou. În același timp, chiar întreținătorii pe termen lung nu sunt familiari întotdeauna cu oricare parte a proiectului. Arată-le aceeași răbdare pe care ai dori să ți-o arate ei ție.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"Mersi pentru că te-ai uitat la această eroare. Am urmat sugestiile tale. Aici este ieșirea."_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"De ce nu-mi poți rezolva problema? Nu este acesta proiectul tău?"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**Respectă deciziile comunității.** Ideile tale pot diferi de prioritățile și viziunea comunității. Ei ar putea oferi feedback sau decide să nu-ți urmeze ideea. În timp ce ar trebui să discutați și să căutați compromis, întreținătorii trebuie să trăiască cu decizia ta mai mult decât o vei face tu. Dacă nu ești de acord cu direcția lor, tu poți mereu lucra pe propria ta ramură sau să începi propriul tău proiect.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"Sunt dezamăgit că nu puteți susține cazul meu de utilizare, dar după cum ați explicat el afectează doar o porțiune mică din utilizatori, înțeleg de ce. Mersi că m-ai ascultat."_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"De ce nu îmi veți susține cazul de utilizare? Este inacceptabil!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**Mai presus de toate, păstrează eleganța.** Open source este alcătuit din colaboratori din toată lumea. Contextul se pierde de-a lungul limbilor, culturilor, geografiilor, și fusurilor orare. În plus, comunicarea scrisă face mai dificilă transmiterea unui ton sau a unei dispoziții. Presupune intenții bune în aceste conversații. Este bine să împingi politicos o idee, să ceri mai mult context, sau să îți clarifici poziția mai departe. Doar încearcă să lași internetul un loc mai bun decât cum l-ai găsit.
 
-### Gathering context
+### Obținerea de context
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+Înainte de a face orice, realizează o verificare rapidă să te asiguri că ideea ta nu a fost discutată altundeva. Răsfoiește README-ul proiectului, problemele (deschise și închise), lista de email-uri, și Stack Overflow. Nu trebuie să petreci ore trecând prin tot, dar după o căutare rapidă pentru câțiva termeni cheie ajută mult.
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+Dacă nu-ți poți găsi ideea altundeva, ești pregătit să faci o mutare. Dacă proiectul este pe GitHub, probabil vei comunica deschizând o problemă sau o cerere de pull:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Problemele** sunt precum a începe o conversație sau o discuție
+* **Cererile de pull** sunt pentru a începe lucrul pe o soluție
+* **Pentru comunicare ușoară,** cum ar fi o întrebare clarificatoare sau de tip cum-să, încercați să întrebați pe Stack Overflow, IRC, Slack, sau alte canale de chat, dacă proiectul are unul
 
 Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
 
