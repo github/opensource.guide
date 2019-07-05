@@ -77,7 +77,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002, about accepting my patch. I quickly caught the open source bug and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -100,7 +100,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 * Write and improve the project's documentation
 * Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
+* Start a newsletter for the project or curate highlights from the mailing list
 * Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Write a translation for the project's documentation
 
@@ -169,7 +169,7 @@ Every open source community is different.
 
 Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+That said, many open source projects follow a similar organizational structure. Understanding the different community roles and the overall process will help you get quickly oriented to any new project.
 
 A typical open source project has the following types of people:
 
@@ -189,7 +189,7 @@ A project also has documentation. These files are usually listed in the top leve
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 * **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Finally, open source projects use the following tools to organize the discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
 * **Issue tracker:** Where people discuss issues related to the project.
 * **Pull requests:** Where people discuss and review changes that are in progress.
@@ -204,7 +204,7 @@ If you've never contributed to open source before, take some advice from U.S. Pr
 
 Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+Instead, start by thinking about the projects you already useze  or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
 
 Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
 
@@ -373,7 +373,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into an argument instead of into development.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
@@ -403,17 +403,17 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 >
 > 😢 _"X is broken! Please fix it."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Do your homework beforehand.** It's OK not to know things but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _" I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
 >
 > 😢 _"How do I X?"_
 
 **Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _" I'd like to write an API tutorial."_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _" I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
 
 **Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
 
@@ -429,9 +429,9 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
 **Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _" I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _" Why won't you support my use case? This is unacceptable!"_
 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
@@ -463,7 +463,7 @@ You should usually open an issue in the following situations:
 
 * Report an error you can't solve yourself
 * Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Propose a new feature or other project ideas
 
 Tips for communicating on issues:
 
@@ -509,7 +509,7 @@ If you make a polite bump and still nobody responds, it's possible that nobody w
 
 ### 🚧 Someone requests changes to your contribution.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea or changes to your code.
 
 When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
 
@@ -517,7 +517,7 @@ If you don't have time to work on the issue anymore (for example, if the convers
 
 ### 👎 Your contribution doesn't get accepted.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+Your contribution may or may not be accepted in the end. Hopefully, you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
 ### 🎉 Your contribution gets accepted.
 
