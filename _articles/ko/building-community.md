@@ -132,7 +132,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 ![Django 새로운 기여자 페이지](/assets/images/building-community/django_new_contributors.png)
 
-이슈 목록에 다양한 유형의 기여자들을 위한 라벨을 표시하세요. [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, _"documentation"_ 같은 예가 있습니다. [이러한 라벨은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+이슈 목록에 다양한 유형의 기여자들을 위한 라벨을 표시하세요. [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, _"documentation"_ 같은 예가 있습니다. [이러한 라벨은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
 프로젝트에 새로 온 사람들이 빠르게 이슈를 확인하고 기여를 시작하기 쉽게 만들어 줍니다.
 
 마지막으로, 기여의 모든 단계에서 사람들이 좋은 기분을 유지할 수 있도록 문서를 활용하세요.

@@ -16,7 +16,7 @@ related:
 
 在项目的起步阶段，你会不断尝试着实现自己的新想法，也能够基于自己想要的作出决定。随着项目逐渐的开始流行，就会发现你的大部分时间都花在了与用户、贡献者打交道上。
 
-维护一个项目需要的不仅仅是写代码的能力。有些时候会有一个你意想不到的的事情要应付，但是这对一个项目的成长也很重要（相对于代码来说），我们收集了一些小技巧来让你的维护工作变得稍轻松些，这些技巧，涉及范围颇广，从写文档到管理社区都有所涉猎。
+维护项目需要的不仅仅是编码。有些意料之外的任务，对于项目的持续发展同样重要。我们收集了几种方法让你的维护工作变得稍轻松些，这些技巧，涉及范围颇广，从编写文档到管理社区都有所涉及。
 
 ## Documenting your processes
 
@@ -58,18 +58,18 @@ related:
 
 这里是一些值得你写进项目里的东西：
 
-* 怎样的贡献才会被复查和接受(_需要测试吗？提Issue有模板吗？_)
+* 怎样的贡献才会被复查和接受（_需要测试吗？提Issue有模板吗？_）
 * 你本人会接受什么类型的贡献？（_你是不是只希望在某些部分的代码上需要别人的帮助？_）
 * 在合适的时候跟进项目（比如说 _如果你在七天之内没有收到maintainer的回复，而且依旧没有其它任何的响应，那么就直接找Ta。_）
-* 你会在这个项目上话多少时间（比如说 "_我们每星期只会在这个项目上花5个小时_"）
+* 你会在这个项目上花多少时间（比如说 "_我们每星期只会在这个项目上花5个小时_"）
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs)、[CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules)、以及 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) 均是为维护者和贡献者提供了很好的基本规则的项目.乃业内典范。
 
 ### 保证交流是公开进行的
 
-不管是什么时候，保证你的交流是在公共的场所（就是大家都能看到的地方）。如果有人尝试和你私聊，哪怕是讨论一个新的需求或者功能，请礼貌的引导Ta到公共的交流场所，比如邮件列表或者iuuse tracker。
+不管是什么时候，保证你的交流是在公共的场所（就是大家都能看到的地方）。如果有人尝试和你私聊，哪怕是讨论一个新的需求或者功能，请礼貌的引导Ta到公共的交流场所，比如邮件列表或者issue tracker。
 
-如果你和别的维护者面基了，或者在私下做了一个很重要的决定，把这些信息告诉大家，即使只是把你的笔记发上去。
+如果你和别的维护者见面了，或者在私下做了一个很重要的决定，把这些信息告诉大家，即使只是把你的笔记发上去。
 
 这样的话，每个人新加入到你们社区的人和已经呆了多年的人能够了解到的信息是一样的。
 
@@ -93,7 +93,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  管理大型开源项目的关键就是保证issue活跃。尽量避免让issue停滞不前。如果你是一个IOS开发者，你会知道提交雷达是多么让人沮丧（我也不知道这是什么意思。。）你可能过了两年之后有人让你兼容一下现在的IOS版本。
+  管理大型开源项目的关键就是保证issue活跃。尽量避免让issue停滞不前。如果你是一个IOS开发者，你会知道<abbr title="提交问题到 Apple 的 Radar bug 跟踪系统">提交雷达</abbr>是多么让人沮丧。您可能会在2年后收到回复，并被告知要再次使用最新版本的iOS。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["开源社区黑客增长"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
@@ -101,7 +101,7 @@ related:
 
 别因为自己感到内疚或者想做一个好人就把你不想接受的贡献继续保留。随着时间的流逝，这些你没有回答的issue和PR会让你觉得很不爽。
 
-更好的方式是马上关掉你不想接受的贡献。如果你的项目已经保守积压的issue的折磨，@steveklabnik 可以给你点儿建议，[如何高效的解决issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
+更好的方式是马上关掉你不想接受的贡献。 如果你的项目已经积压大量的问题，@steveklabnik 可以给你点儿建议，[如何高效的解决issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
 
 第二点，忽略别人的贡献等于是在社区传递了一个负面的信号。让人感觉提交一个贡献是蛮恐惧的事情，尤其是对于刚加入的新手来说。即使你不接受他们的贡献，告诉他们为什么然后致谢。这会让人觉得更舒服。
 
@@ -150,7 +150,7 @@ related:
 
 可能在你的社区里有人不断提交一些不符合项目需求的贡献。对你们双方来说，不停的拒绝他的提交，会令双方都很尴尬。
 
-如果你发现有人对你的项目很上心，但是就是需要调教，那就耐心一点。给他解释明白每次它的提交为什么不符合项目需求。尝试着让他先做一些简单一点的事，比如那些标有_"good first issue"_ 标签的issue，以此让他慢慢习惯。如果你有时间的话，考虑教Ta怎么完成第一次贡献，或者在社区找一个人教Ta。
+如果你发现有人对你的项目很上心，但是就是需要调教，那就耐心一点。给他解释明白每次它的提交为什么不符合项目需求。尝试着让他先做一些简单一点的事，比如那些标有 _"good first issue"_ 标签的issue，以此让他慢慢习惯。如果你有时间的话，考虑教Ta怎么完成第一次贡献，或者在社区找一个人教Ta。
 
 ## Leverage your community
 
@@ -162,7 +162,7 @@ related:
 
 当你看到新的贡献者不停的提交贡献，通过分配给他们更多任务来表示认可。如果别人愿意的话，记录下别人是怎么成长为领导者的过程。
 
-鼓励别人来[一起管理项目](../building-community/#share-ownership-of-your-project)能很大程度上减轻你的工作量，就像 [@lmccart](https://github.com/lmccart)在他的项目上做的那样，[p5.js](https://github.com/processing/p5.js)
+鼓励别人来[一起管理项目](../building-community/#share-ownership-of-your-project)能很大程度上减轻你的工作量，就像 [@lmccart](https://github.com/lmccart) 在他的项目上做的那样，[p5.js](https://github.com/processing/p5.js)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -172,7 +172,7 @@ related:
   </p>
 </aside>
 
-如果你需要暂时或者永久的离开的项目，请找人来代替你，这并没有什么不好意思。
+如果你需要暂时或者永久的离开项目，请找人来代替你，这并没有什么不好意思。
 
 如果别人认同项目的发展方向，给他们提交的权限或者正式把项目所有权转移给他。如果有人fork了你的项目而且在保持活跃的维护中，考虑在你的原始的仓库放上这个fork版本的链接。如果大家都希望你的项目继续的话这不失为一种好办法。
 
@@ -246,7 +246,7 @@ fork一个项目不什么坏事情。能复制并且修改别人的代码是开�
 
 疲倦在开源工作工作中是一个常见的问题，特别是在维护者中间。作为一个维护者，你做的开心对项目的生存来说是一个没有商量余地的条件。
 
-虽然你不需要跟谁请假，但是也不要拖到自己疲倦不堪的时候才去度假。[@brettcannon](https://github.com/brettcannon)，一个python的核心开发者，决定在14年的义务劳动之后[休一个月的假](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)
+虽然你不需要跟谁请假，但是也不要拖到自己疲倦不堪的时候才去度假。[@brettcannon](https://github.com/brettcannon)，一个python的核心开发者，决定在14年的义务劳动之后[休一个月的假](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)。
 
 就像其他工作一样，有规律的休息会让你对工作保持舒适愉快的心情。
 

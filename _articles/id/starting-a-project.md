@@ -35,7 +35,7 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Salah satu pengalaman yang paling berharga dengan menggunakan dan berkolaborasi pada open source datang dari relasi yang saya bangun dengan pengembang yang lain ketika menghadapi masalah yang sama seperti yang saya alami.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -95,7 +95,7 @@ Jika Anda membutuhkan pendanaan yang permanen atau alokasi staf untuk promosi, o
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   Ketika Anda mulai untuk membuka proyek Anda pada open source, sangatlah penting untuk memastikan bahwa proses manajemen Anda memperhatikan kontribusi dan kemampuan dari komunitas disekeliling proyek Anda. Jangan takut untuk melibatkan kontributor yang bukan merupakan karyawan sebagai aspek kunci dalam proyek - terutama jika mereka adalah kontributor yang aktif.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -324,7 +324,7 @@ Jika Anda perseorangan:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Anda telah mengunjungi kantor hukum dan/atau membahami hak cipta dan kebijakan open source pada perusahaan Anda (jika Anda merupakan karyawan pada sebuah perusahaan)
+  Anda telah mengunjungi kantor hukum dan/atau memahami hak cipta dan kebijakan open source pada perusahaan Anda (jika Anda merupakan karyawan pada sebuah perusahaan)
   </label>
 </div>
 
@@ -354,7 +354,7 @@ Jika Anda merupakan perusahaan atau organisasi:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Minimal terdapat dua orang yang memiliki akses admministratif pada proyek
+    Minimal terdapat dua orang yang memiliki akses administratif pada proyek
   </label>
 </div>
 

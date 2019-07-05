@@ -132,7 +132,7 @@ Dans votre fichier CONTRIBUTING, expliquez explicitement aux nouveaux contribute
 
 ![Page des nouveaux contributeurs de Django](/assets/images/building-community/django_new_contributors.png)
 
-Dans votre liste d'issue en attente, étiquetez les bogues qui conviennent à différents types de contributeurs : par exemple, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"good first issue"_, ou _"documentation"_. [Ces étiquettes](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) facilitent l'analyse rapide de vos issues par une personne nouvelle dans votre projet de commencer.
+Dans votre liste d'issue en attente, étiquetez les bogues qui conviennent à différents types de contributeurs : par exemple, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, ou _"documentation"_. [Ces étiquettes](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) facilitent l'analyse rapide de vos issues par une personne nouvelle dans votre projet de commencer.
 
 Enfin, utilisez votre documentation pour que les gens se sentent les bienvenus à chaque étape du processus.
 

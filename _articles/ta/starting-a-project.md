@@ -35,7 +35,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   திறந்த மூலத்தைப் பயன்படுத்துவதற்கும், ஒத்துழைப்பதற்கும் எனக்கு கிடைத்த மிகச் சிறப்பான அனுபவங்களில் ஒன்று, நான் பல பிரச்சனைகளை எதிர்கொள்ளும் பிற நிரலாளர்களுடன் நான் உருவாக்கும் உறவுகளில்தான் வருகிறது.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["திறந்த மூலத்தில் நுழைவது எப்படி எனக்கு ஆச்சரியமாக இருக்கிறது"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["திறந்த மூலத்தில் நுழைவது எப்படி எனக்கு ஆச்சரியமாக இருக்கிறது"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -95,7 +95,7 @@ related:
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   நீங்கள் திட்டத்தைத் திறக்க ஆரம்பிக்கும் போது, உங்கள் நிர்வாக செயல்முறைகள் உங்கள் திட்டத்தைச் சுற்றி சமூகத்தின் பங்களிப்புகளையும் திறன்களையும் கருத்தில் கொள்ளுதல் முக்கியம். திட்டத்தின் முக்கிய அம்சங்களில் உங்கள் வியாபாரத்தில் பணியாற்றாத பங்களிப்பாளர்களை உட்படுத்த பயம் வேண்டாம் - குறிப்பாக அடிக்கடி பங்களிப்பவர்களாக இருந்தால்.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["நீங்கள் ஒரு திட்டம் திறந்த மூலமாக்குகிறீர்கள், ம்ம்?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["நீங்கள் ஒரு திட்டம் திறந்த மூலமாக்குகிறீர்கள், ம்ம்?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
