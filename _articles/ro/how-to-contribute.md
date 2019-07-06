@@ -27,7 +27,7 @@ related:
   </p>
 </aside>
 
-Contribuind la open source poate fi un fel recompensant de a învăța, a preda și a construi experiență în aproape oricare abilitate pe care ți-o poți imagina.
+Contribuind la open source poate fi un cale recompensantă de a învăța, a preda și a construi experiență în aproape oricare abilitate pe care ți-o poți imagina.
 
 De ce oamenii contribuie la open source? O mulțime de motive!
 
@@ -175,7 +175,7 @@ Un proiect cu sursă deschisă are următoarele tipuri de persoane:
 
 * **Autor:** Persoana/persoanele sau organizația care a creat proiectul
 * **Proprietar:** Persoana/persoanele care au proprietate administrativă asupra organizației sau a depozitului (nu întotdeauna același cu autorul original)
-* **Responsabili:** Contributori care sunt responsabili pentru a conduce viziunea și a organiza aspectele organizaționale ale proiectului. (Ei pot de asemenea fi autori sau proprietari ai proiectului.)
+* **Întreținători:** Contributori care sunt responsabili pentru a conduce viziunea și a organiza aspectele organizaționale ale proiectului. (Ei pot de asemenea fi autori sau proprietari ai proiectului.)
 * **Contributori:** Oricine a contribuit cu ceva înapoi la proiect.
 * **Membrii comunității:** Persoane care folosesc proiectul. Ei ar putea fi activi în conversații sau să-și exprime părerea asupra direcției proiectului.
 
@@ -441,13 +441,13 @@ Fie că ești un contributor de o singură dată sau încerci să te alături un
 
 Dacă nu-ți poți găsi ideea altundeva, ești pregătit să faci o mutare. Dacă proiectul este pe GitHub, probabil vei comunica deschizând o problemă sau o cerere de pull:
 
-* **Problemele** sunt precum a începe o conversație sau o discuție
+* **Problemele** sunt precum ai începe o conversație sau o discuție
 * **Cererile de pull** sunt pentru a începe lucrul pe o soluție
 * **Pentru comunicare ușoară,** cum ar fi o întrebare clarificatoare sau de tip cum-să, încercați să întrebați pe Stack Overflow, IRC, Slack, sau alte canale de chat, dacă proiectul are unul
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+Înainte de a deschide o problemă sau o cerere de pull, verifică documentația de contribuire a proiectului (de obicei un fișier numit CONTRIBUTING, sau în README), pentru a vedea dacă trebuie să incluzi ceva specific. De exemplu, ei îți pot cere să urmezi un șablon, sau să îți ceară să folosești teste.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+Dacă dorești să faci o contribuție substanțială, deschide o problemă și întreabă înainte de a lucra pe ea. Este de ajutor să urmăriți proiectul un timp (pe GitHub, [poți da clic pe "Watch"](https://help.github.com/articles/watching-repositories/) pentru a fi anunțat de toate conversațiile), și să începi să cunoști membrii comunității, înainte de a face muncă ce ar putea să nu fie acceptată.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -457,72 +457,72 @@ If you want to make a substantial contribution, open an issue to ask before work
   </p>
 </aside>
 
-### Opening an issue
+### Deschiderea unei probleme
 
-You should usually open an issue in the following situations:
+De obicei tu ar trebui să deschizi o problemă în următoarele situații:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Raportezi o eroare pe care nu o poți rezolva singur
+* Discutați un subiect de nivel înalt sau o idee (de exemplu, comunitate, viziune sau politici)
+* Propui o nouă facilitate sau altă idee de proiect
 
-Tips for communicating on issues:
+Sfaturi pentru comunicarea pe probleme:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **Dacă vezi o problemă deschisă pe care vrei să o abordezi,** comentează la ea pentru a lăsa oamenii să știe că lucrezi pe ea. În acest fel, este mai puțin probabil ca oamenii să îți dubleze munca.
+* **Dacă o problemă a fost deschisă cu ceva timp în urmă,** este posibil ca aceasta să fie adresată în altă parte, sau a fost deja rezolvată, deci comentează pentru a cere confirmare înainte de a începe munca.
+* **Dacă ai deschis o problemă, dar ți-ai dat seama de răspuns singur mai târziu,** comentează la problemă pentru a lăsa oamenii să știe, apoi închideți problema. Chiar documentarea acestui rezultat este o contribuție la proiect.
 
-### Opening a pull request
+### Deschiderea unei cereri de pull
 
-You should usually open a pull request in the following situations:
+Ar trebui de obicei să deschideți o cerere de pull în următoarele situații:
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* Trimiți corectări simple (de exemplu, o greșeală gramaticală, un link nefuncțional sau o eroare evidentă)
+* Începi lucrul pe o contribuție care a fost deja cerută, sau pe care ați discutat-o deja, într-o problemă
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+O cerere de pull nu trebuie să reprezinte muncă finalizată. Este de obicei mai bine să deschizi o cerere de pull mai devreme, astfel încât alții pot să urmărească sau să ofere feedback pe progresului tău. Doar marcheaz-o ca „WIP” (Work in Progress) în linia de subiect. Poți întotdeauna adăuga mai multe commit-uri mai târziu.
 
-If the project is on GitHub, here's how to submit a pull request:
+Dacă proiectul este pe GitHub, iată cum trimiți o cerere de pull:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Bifurcă depozitul](https://guides.github.com/activities/forking/)** și clonează-l local. Conectează depozitul local la depozitul „upstream” original prin adăugarea lui ca un remote. Trage înăuntru schimbările din „upstream” des pentru a fii la curent astfel încât când îți trimiți cererea de pull, conflictele de îmbinare vor fi mai puțin probabile. (Vezi instrucțiuni mai detaliate [aici](https://help.github.com/articles/syncing-a-fork/).)
+* **[Creează o ramură](https://guides.github.com/introduction/flow/)** pentru editările tale.
+* **Referă oricare problemă relevantă** sau documentație justificativă în PR-ul tău (de exemplu, „Closes #37.”)
+* **Include capturi de ecran de dinainte și de după** dacă schimbările tale includ diferențe în HTML/CSS. Trage și lasă imaginile în corpul cererii tale de pull.
+* **Testează-ți schimbările!** Rulează-ți schimbările prin oricare teste existente și creează noi teste când este necesar. Fie că testele există sau nu, asigură-te că schimbările tale nu strică proiectul existent.
+* **Contribuie în stilul proiectului** cât de bine poți. Aceasta poate însemna a folosi indentări, punct și virgulă, sau comentarii în mod diferit față de cum le-ai folosi în propriul tău depozit, dar face mai ușor pentru întreținător să îmbine, altora să înțeleagă și să întrețină în viitor.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
+Dacă acesta este prima ta cerere de pull, aruncă o privire la [Make a Pull Request](http://makeapullrequest.com/), pe care @kentcdodds l-a creat ca un tutorial video. Poți de asemenea practica facerea de cereri de pull în depozitul [First Contributions](https://github.com/Roshanjossey/first-contributions), creat de @Roshanjossey.
 
 ## Ce are loc după ce trimiți o contribuție?
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Ai făcut-o! Felicitări pentru devenirea unui contributor la open source. Sperăm că este prima din multe.
 
-After you submit a contribution, one of the following will happen:
+După ce ai trimis o contribuție, una din următoarele va avea loc:
 
-### 😭 You don't get a response.
+### 😭 Nu primești un răspuns.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Sperăm că ai [verificat proiectul pentru semne de activitate](#a-checklist-before-you-contribute) înainte de a face o contribuție. Chiar și pe un proiect activ, totuși, este posibil ca a ta contribuție să nu primească un răspuns.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Dacă nu ai primit un răspuns în peste o săptămână, este corect să răspunzi politicos în același fir de discuție, cerând cuiva o analiză. Dacă știi numele persoanei potrivite care să-ți analizeze contribuția, o poți @-menționa în acel fir de discuție.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**Nu** aborda acea persoană în privat; ține minte că comunicarea publică este vitală la proiectele cu sursă deschisă.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Dacă faci un bump politicos și încă nimeni nu răspunde, este posibil ca nimeni să nu răspundă, niciodată. Nu este un sentiment grozav, dar nu-l lăsa să te descurajeze. S-a întâmplat tuturor! Sunt multe motive posibile pentru care tu nu ai primit un răspuns, incluzând circumstanț€ personale care ar putea fi în afara controlului tău. Încearcă să găsești un alt proiect sau cale de a contribui. Dacă e ceva, acesta este un bun motiv pentru a nu investi prea mult timp în a face o contribuție înainte ca alți membri ai comunității să fie implicați și sensibili.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Cineva cere schimbări la contribuția ta.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+Este obișnuit ca cineva să îți ceară să faci schimbări la contribuția ta, fie că aceasta este feedback în domeniul ideii tale, sau schimbări la codul tău.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Când cineva cere schimbări, fii sensibil. Ei și-au luat din timp pentru a analiza contribuția ta. Deschiderea unui PR și apoi plecarea departe este formă proastă. Dacă nu știi cum să faci schimbări, cercetează problema, apoi cere ajutor dacă ai nevoie de el.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Dacă nu ai timp să mai lucrezi pe problemă (de exemplu, dacă conversația are loc de câteva luni, și circumstanțele tale s-au schimbat), lasă întreținătorul să știe ca să nu aștepte un răspuns. Altcineva ar putea fi fericit să preia controlul.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Contribuția ta nu este acceptată.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+Contribuția ta poate fi sau nu acceptată în sfârșit. Sperăm că nu ai pus prea mult efort în ea deja. Dacă nu ești sigur de ce nu a fost acceptată, este perfect rezonabil să întrebi întreținătorul pentru feedback și clarificare. În final, oricum, trebuie să respecți că aceasta este decizia lor. Nu certa și nu deveni ostil. Ești întotdeauna binevenit să bifurci și să lucrezi pe propria ta versiune dacă nu ești de acord!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Contribuția ta este acceptată.
 
-Hooray! You've successfully made an open source contribution!
+Ura! Ai făcut cu succes o contribuție open source!
 
-## You did it!
+## Ai făcut-o!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Fie că ai făcut doar prima ta contribuție open source, sau cauți noi căi de a contribui, sperăm că ești inspirat să acționezi. Chiar dacă contribuția ta nu a fost acceptată, nu uita să spui mersi când un întreținător a pus efort în a te ajuta. Open source este făcut de oameni ca tine: câte o problemă, cerere de pull, un comentriu, sau un bate-palma la un moment dat.
