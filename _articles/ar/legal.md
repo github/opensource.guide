@@ -2,157 +2,196 @@
 lang: ar
 direction: rtl
 title: الجانب القانوني من المصادر المفتوحة
-description: كل ما تساءلت عنه بخصوص الجانب القانوني للمصادر المفتوحة، وأشياء إضافية لم تتساءل عنها.
+description: >-
+  كل ما تساءلت عنه بخصوص الجانب القانوني للمصادر المفتوحة، وأشياء إضافية لم
+  تتساءل عنها.
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
 related:
   - contribute
   - leadership
+published: true
 ---
 
 ## فهم المضامين القانونية للمصادر المفتوحة
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+قد تكون مشاركة عملك الإبداعي مع العالم تجربة مثيرة ومجزية.من الممكن أيضًا أن تعني مجموعة من الأشياء القانونية التي لم تعلم أنه يجب عليك التفكير فيها.لحسن الحظ،ليس عليك البدء من الصفر؛ فقد حاولنا تلبية احتياجاتك القانونية؛نحن نقوم بتلبية جميع احتياجاتك القانونية.(تأكد من قراءة تصريح  [إخلاء المسؤولية](/notices/) قبل بدء القراءة)
 
-## Why do people care so much about the legal side of open source?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+## لماذا يهتم الناس بالجانب القانوني للمصادر المفتوحة بشكل كبير ؟ 
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+عندما تنتج عملًا إبداعيًا مثل الكتابة أو الرسم أو الشفرة البرمجية، فإن هذا العمل يكون افتراضيًا تحت حقوق الملكية الحصرية.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+وبشكل عام، فهذا يعني أنه لا يمكن لأي شخص أن يستخدم عملك أو ينسخه أو يوزعه أو يعدل عليه بدون احتمالية تعرضه للدعاوى القانونية أو مطالبات الإزالة أو التعويضات المالية.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+إلا أن المصادر المفتوحة هي استثناء للحالة العامة، لأن المؤلف هنا يتوقع من الآخرين استخدام العمل وتعديله ومشاركته. ولكن نظرًا لأن الافتراض هو أن العمل له حقوق ملكية حصرية قانونيًا، فستحتاج إلى رخصة تعطي الآخرين هذه الحقوق بشكل صريح.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+إذا لم تقم بتطبيق رخصة المصادر المفتوحةعلى عملك، فإن جميع المساهمين في مشروعك تصبح لهم حقوق ملكية حصرية لجميع مساهماتهم. وهذا يعني أنه لا أحد يستطيع استخدامها أو نسخها أو نشرها أو تعديلها، وهذا الاستثناء يشملك أنت أيضًا.
 
-## Are public GitHub projects open source?
+وفي النهاية، قد يعتمد مشروعك على أجزاء لها اشتراطات متعلقة بترخيص مشروعك لم يكن لك علم بها. ومن الممكن أيضًا أن يتطلب مجتمع مشروعك أو سياسات صاحب عملك استخدامك رخصًا معينة مفتوحة المصدر.سنغطي هذه الحالات أدناه.
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+##  هل المشاريع العامة على GitHub مفتوحة المصدر؟
 
-![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+ عند [إنشائك مشروعا جديدا](https://help.github.com/articles/creating-a-new-repository/) على موقع GitHub ، فإنه يكون لديك الخيار لجعل معرض مشاريعك به خاصًا أو عامًا.
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
 
-## Just give me the TL;DR on what I need to protect my project.
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+![ إنشاء مستودع](/assets/images/legal/repo-create-name.png)
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+**لا يعد جعل مشروعك عامًا على GitHub كترخيص له**. تخضع المشاريع العامة على [على GitHub لشروط الخدمة في الموقع](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership) ،مما يسمح للآخرين بمشاهدة مشروعك و طرح اقتراحات للمساهمة فيه. ولكن خلافا لذلك، فإن مشروعك يأتي بدون أية تصريحات للإستخدام.
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+إذا كنت تريد من الآخرين استخدام مشروعك أو توزيعه أو تعديله أو المساهمة فيه ، فسوف تحتاج الى إضافة رخصة للمصادر المفتوحة اليه. على سبيل المثال، لا يمكن لأي شخص استخدام أي جزء من مشروعك على GitHub  بشكل قانوني في شيفرته، حتى إذا كان مشروعك عامًا، ما لم تمنحه الحق للقيام بذلك.
+ 
+
+## ما هي الأمور التي أحتاجها لحماية مشروعي باختصار
+
+
+أنت محظوظ، لأن التراخيص مفتوحة المصدر في هذه الأيام موحدة وسهلة الاستخدام، حيث يمكنك و بكل بساطة ترخيص مشروعك عن طريق نسخ أي نموذج رخصة متاح إلى مشروعك.
+
+ تعد  [GPLv3](https://choosealicense.com/licenses/mit/) , [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),[MIT](https://choosealicense.com/licenses/mit/)من أكثر التراخيص مفتوحة المصدر( open source licenses) شهرة، ولكن هناك خيارات أخرى للاختيار من بينها. يمكنك العثور على النص الكامل لهذه التراخيص، والتعليمات حول كيفية استخدامها على موقع[choosealicense.com](https://choosealicense.com/).
+
+عندما تقوم بإنشاء مشروع جديد على GitHub ، فسيطلب منك الموقع [إضافة رخصة](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
-  <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+
+
+يعمل الترخيص الموحد بمثابة وكيل لأولئك الذين يفتقرون للمعرفة القانونية اللازمة للتبيُّن بالتحديد لما يمكنهم وما لا يمكنهم فعله مع البرمجيات.
+ما لم تكن هناك حاجة ملحّة، فيجب عليك تجنب الشروط المخصصة أو المعدلة أو غير الموحدة، والتي ستعمل كعائق أمام زيادة استخدام شيفرة الوكالة.
+
+<p markdown="1" class="pquote-credit">
+— @benbalter, [كل ما يحتاج الوكيل الحكومي لمعرفته عن تراخيص البرامج مفتوحة المصدر](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys)
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## ما هي رخصة المصادر المفتوحة لمناسبة لمشروعي؟
 
-If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
+إذا كنت مبتدئا في هذا المجال، فلن يكون من الصعب عليك العمل  [بترخيص MIT](https://choosealicense.com/licenses/mit/)
+حيث تتميز هذه الرخصة بقصرها، وسهولة فهمها، و سماحها لأي مستخدم بفعل ما يشاء طالما أنه يحتفظ بنسخة من الترخيص، متضمنا إشعار حقوق الطبع والنشر (copyright) الخاص بك. كما ستتمكن من إطلاق المشروع تحت تراخيص أخرى إذا اقتضت الحاجة لذلك يوما ما.
 
-Otherwise, picking the right open source license for your project depends on your objectives.
 
-Your project very likely has (or will have) **dependencies**. For example, if you're open sourcing a Node.js project, you'll probably use libraries from the Node Package Manager (npm). Each of those libraries you depend on will have its own open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
+خلافا لذلك، فإن اختيار رخصة المصادر المفتوحة ( Open source license) المناسبة لمشروعك يعتمد على أهدافك.
 
-On the other hand, if any of your dependencies' licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+من المحتمل جدا بأنه توجد لمشروعك (أو ستكون له مستقبلا) ا**عتمادات** (dependencies). فعلى سبيل المثال، إذا كنت تريد عمل ترخيص مفتوح  لمشروع Node.js، فمن المحتمل أنك ستستخدم المكتبات من منظم الحزم المتوفر في المنصة (npm). سيكون لكل من تلك المكتبات التي تعتمد عليها ترخيصها المفتوح المصدر الخاص بها. إذا كان كل ترخيص من هذه التراخيص متساهلا(permissive)، (أي أنه يعطي الإذن باستخدامه وتعديله ومشاركته، دون أي شرط لترخيص الاستخدام)، فيمكنك استخدام أي ترخيص تريده. تتضمن التراخيص المتساهلة الشائعة  ISC ،Apache 2.0 ،MIT و BSD.
 
-You may also want to consider the **communities** you hope will use and contribute to your project:
+من ناحية أخرى، إذا كانت أي من تراخيص الاعتمادات الخاصة بك تقع تحت بند الحقوق المرفوعة (strong copyleft)( تعطي المستخدمين نفس الصلاحيات كذلك،  في حالة استخدامهم لترخيص بشروط مشابهة) فيتعين على مشروعك استخدام نفس الترخيص.  تشمل  الحقوق المرفوعة القوية الشائعة تراخيص GPLv2 و GPLv3 و AGPLv3.
 
-* **Do you want your project to be used as a dependency by other projects?** Probably best to use the most popular license in your relevant community. For example, [MIT](https://choosealicense.com/licenses/mit/) is the most popular license for [npm libraries](https://libraries.io/npm).
-* **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
-* **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
+قد ترغب أيضًا في أخذ **المجتمعات** التي تأمل بأن تستخدم وتساهم في مشروعك بعين الإعتبار :
 
-Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
+* **هل ترغب بأن يتم استخدام مشروعك كأساس(dependency) للمشاريع الأخرى؟** من الأفضل استخدام الرخصة الأكثر شيوعا في المجتمع المحيط بك. فعلى سبيل المثال، تعد رخصة [رخصة MIT](https://choosealicense.com/licenses/mit/) هي الترخيص الأكثر استخداما في  [ مكتبات npm](https://libraries.io/npm).
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
+* **هل ترغب بأن يجذب مشروعك الشركات الكبرى؟** من المرجح بأن الشركات الضخمة سوف ترغب برخصة براءة اختراع واضحة وصريحة من كل المساهمين. وفي هذه الحالة،  فإن رخصة [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) سوف تضمن حقوق جميع الأطراف.
 
-## What if I want to change the license of my project?
+* **هل تريد ان يجذب مشروعك المساهمين  الذين لا يرغبون باستخدام مساهماتهم في برمجيات مغلقة المصدر(closed source software) ؟** قم بإستخدام رخصة  [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) أو (إذا لم يرغبوا أيضًا في المساهمة في خدمات مغلقة المصدر) ، فإن استخدام رخصة [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) سوف يكون مناسبا هنا.
 
-Most projects never need to change licenses. But occasionally circumstances change.
+قد تكون **لشركتك** متطلبات معينة  لترخيص مشاريعها مفتوحة المصدر(open source projects). على سبيل المثال ، قد يتطلب الأمر ترخيصًا متساهلا(permissive license)، حتى تتمكن الشركة من استخدام مشروعك في منتج الشركة المُغلق المصدر(closed source product). أو أن شركتك قد ترغب باستخدام ترخيص قوي للحقوق المرفوعة (strong copyleft license) واتفاقية مساهمة إضافية (انظر أدناه)، حتى تكون شركتك وحدها القادرة على استخدام مشروعك كبرنامج مغلق المصدر. أو قد تكون لشركتك بعض الاحتياجات المتعلقة بالمعايير، أو المسؤولية الاجتماعية أو الشفافية ، و التي قد تتطلب استخدام استراتيجية ترخيص معينة. تواصل مع [القسم القانوني التابع لشركتك ](#what-does-my-companys-legal-team-need-to-know)بهذا الشأن.
 
-For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing a your project's license:
+عندما تقوم  بإنشاء مشروع جديد على GitHub، فإنك تُمنح الحرية في اختيار رخصة ما. إن اختيارك لأي من الرخص المذكورة أعلاه سوف يجعل من مشروعك على الموقع مشروعا مفتوح المصدر(open source project). ان كنت تريد الإطلاع على خيارات أخرى، ألق نظرة على موقع [choosealicense.com](https://choosealicense.com) للعثور على الرخصة المناسبة لمشروعك،حتى لو لم يكن  [نظاما برمجيا](https://choosealicense.com/non-software/). 
 
-**It's complicated.** Determining license compatibility and compliance and who holds copyright can get complicated and confusing very quickly. Switching to a new but compatible license for new releases and contributions is different from relicensing all existing contributions. Involve your legal team the first hint of any desire to change licenses. Even if you have or can obtain permission from your project's copyright holders for a license change, consider the impact of the change on your project's other users and contributors. Think of a license change as a "governance event" for your project that will more likely go smoothly with clear communications and consultation with your project's stakeholders. All the more reason to choose and use an appropriate license for your project from its inception!
 
-**Your project's existing license.** If your project's existing license is compatible with the license you want to change to, you could just start using the new license. That's because if license A is compatible with license B, you'll comply with the terms of A while complying with the terms of B (but not necessarily vice versa). So if you're currently using a permissive license (e.g., MIT), you could change to a license with more conditions, so long as you retain a copy of the MIT license and any associated copyright notices (i.e., continue to comply with the MIT license's minimal conditions). But if your current license is not permissive (e.g., copyleft, or you don't have a license) and you aren't the sole copyright holder, you couldn't just change your project's license to MIT. Essentially, with a permissive license the project's copyright holders have given permission in advance to change licenses.
+## ماذا لو أردت أن أغير رخصة مشروعي؟
 
-**Your project's existing copyright holders.** If you're the sole contributor to your project then either you or your company is the project's sole copyright holder. You can add or change to whatever license you or your company wants to. Otherwise there may be other copyright holders that you need agreement from in order to change licenses. Who are they? People who have commits in your project is a good place to start. But in some cases copyright will be held by those people's employers. In some cases people will have only made minimal contributions, but there's no hard and fast rule that contributions under some number of lines of code are not subject to copyright. What to do? It depends. For a relatively small and young project, it may be feasible to get all existing contributors to agree to a license change in an issue or pull request. For large and long-lived projects, you may have to seek out many contributors and even their heirs. Mozilla took years (2001-2006) to relicense Firefox, Thunderbird, and related software.
+لا تحتاج معظم المشاريع  إلى تغيير الرخص أبدا. إلا أنه يمكن للظروف أن تتغير في بعض الأحيان.
 
-Alternatively, you can have contributors agree in advance (via an additional contributor agreement -- see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
+فعلى سبيل المثال، كلما نما مشروعك، كلما  ازدادت اعتماداته(dependencies) أو عدد مستخدميه، أو أن شركتك قد تقوم بتغيير استراتيجيتها، أي من تلك الحالات قد تتطلب أو تحتاج لرخصة مختلفة عن رخصتك الحالية، كما أنك إذا كنت قد أهملت ترخيص مشروعك منذ البداية، فستكون عملية إضافة رخصة جديدة مماثلة لعملية تغيير الرخصة. هناك ثلاثة أمور أساسية يجب مراعاتها عند إضافة أو تغيير رخصة مشروعك:
 
-## Does my project need an additional contributor agreement?
+**إنها عملية معقدة**. يمكن لتحديد توافق ومطاوعة الترخيص الجديد للترخيص القديم و لتحديد من يمتلك حقوق الطبع والنشر (copyright) في المشروع أن يصبح أمرا معقدا ومربكا بسرعة كبيرة. فالإنتقال إلى استخدام رخصة أخرى (متوافقة في شروطها مع الرخصة القديمة) للإصدارات والمساهمات الجديدة في المشروع، مختلف عن ترخيص كل المساهمات للمرة الأولى. قم بطلب تدخل فريقك القانوني عند أول إشارة إلى أية رغبة في تغيير التراخيص، حتى إذا كان لديك أو يمكنك الحصول على إذن من أصحاب حقوق الطبع والنشر (copyright) لمشروعك لتغيير الترخيص، فكر في تأثير ذلك التغيير على المستخدمين والمساهمين الآخرين في مشروعك. فكر بتغيير الرخصة لمشروعك كأي حدث إداري، حيث أن التغيير سيسير بكل سهولة ويسر بوجود اتصالات ومشاورات واضحة مع الأشخاص ذوي العلاقة بمشروعك.  اضافة الى كونه سببا إضافيا لاختيار واستخدام رخصة مناسبة لمشروعك منذ نشأته.
 
-Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
-An additional contributor agreement -- often called a Contributor License Agreement (CLA) -- can create administrative work for project maintainers. How much work an agreement adds depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
+**رخصة مشروعك الحالية.** إذا كان الترخيص الحالي لمشروعك متوافقًا مع الترخيص الذي ترغب في التغيير إليه ، فيمكنك البدء في استخدام الترخيص الجديد وحسب. ويرجع ذلك إلى أنه إذا كان الترخيص (أ) متوافقًا مع الترخيص (ب) ، فإنك سوف تلتزم بشروط (أ) أثناء الالتزام ببنود (ب) (ولكن ليس بالضرورة كون  العكس صحيحا). يمكنك أن تغير إلى ترخيص بشروط أكثر، طالما أنك تحتفظ بنسخة من ترخيص معهد ماساتشوستس للتكنولوجيا (MIT) وأية إشعارات حقوق نشر مرتبطة بها (على سبيل المثال، الاستمرار في الامتثال للحد الأدنى من شروط ترخيص MIT). ولكن إذا كان ترخيصك الحالي ترخيصا غير متساهل(not permissive)، (على سبيل المثال، ترخيص الحقوق المرفوعة copyleft' ، أو أنه ليس لديك ترخيص) وأنت لست صاحب حقوق الطبع والنشر الوحيد، فلا يمكنك تغيير ترخيص مشروعك إلى ترخيص MIT وحسب.  بشكل أساسي، بوجود ترخيص متساهل(permissive)، فقد أعطى أصحاب حقوق الطبع والنشر في المشروع الإذن المسبق لتغيير التراخيص.
 
-Also, by adding "paperwork" that some believe is unnecessary, hard to understand, or unfair (when the agreement recipient gets more rights than contributors or the public do via the project's open source license), an additional contributor agreement may be perceived as unfriendly to the project's community.
+**أصحاب حقوق النشر الحاليين لمشروعك.** إذا كنت المساهم الوحيد في مشروعك، فحينئذٍ ستكون أنت أو شركتك مالك حقوق الطبع والنشر (copyright) الوحيد للمشروع. وبذلك يمكنك إضافة أو تغيير أي ترخيص تريده أنت أو شركتك. بخلاف ذلك ، قد يكون هناك مالكون آخرون  لحقوق الطبع والنشر، وفي هذه الحالة فسوف تحتاج إلى موافقتهم من أجل تغيير التراخيص. من هؤلاء الأشخاص؟ يعد الأشخاص المساهمون في مشروعك نقطة جيدة للبدء بها. ولكن في بعض الحالات، قد يحتفظ أصحاب عمل هؤلاء الأشخاص بالتراخيص. في بعض الحالات، قد  يساهم البعض بنسب صغيرة في إنشاء المشروع، ولكن لا توجد قاعدة صارمة تنص على أن المساهم لحد معين من الأسطر في البرمجة لا يجب أن يحصل على حقوق طبع ونشر لمساهمته. إذا ما الحل؟ هذا يعتمد على الحالة. بالنسبة للمشاريع الصغيرة نسبيا والناشئة، قد يكون من الممكن إحضار جميع المساهمين الحاليين في المشروع للموافقة على تغيير الترخيص في ال issue او ال pull request. أما بالنسبة للمشاريع الضخمة و القديمة، فقد تضطر إلى البحث عن العديد من المساهمين وحتى عن ورثتهم. استغرقت شركة موزيلا (Mozilla) سنوات عدة (2001- 2006) لإعادة ترخيص متصفحها  فايرفوكس(Firefox) و برنامج ثندربيرد (Thunderbird) ، وبرامج أخرى ذات الصلة، أثناء تحصيلها لموافقات المساهمين.
+بدلاً من ذلك ، يمكنك أن تُخضع المساهمين للموافقة المسبقة (من خلال اتفاقية مساهمة إضافية - راجع أدناه) على إمكانية إجراء تغييرات معينة على الترخيص في ظل ظروف معينة ، بخلاف تلك المسموح بها من خلال ترخيصك الحالي المفتوح المصدر. هذا يخفف من  تعقيد تغيير التراخيص قليلا. ستحتاج إلى مزيد من المساعدة من محاميك مقدمًا ، وستظل بحاجة إلى التواصل بوضوح مع أصحاب المصلحة في مشروعك عند تنفيذ تغيير الترخيص.
+
+
+## هل يحتاج مشروعي لاتفاقات اضافية مع المساهمين؟
+
+لن تحتاج إلى ذلك على الأغلب. بالنسبة للغالبية العظمى من مشاريع  مفتوحة المصدر(open  source projects)، فإن ترخيصًا مفتوح المصدر يخدم ضمنيًا كترخيص وارد ( من المساهمين)، وصادر ( إلى المساهمين والمستخدمين الآخرين). إذا كان مشروعك على موقع GitHub، فإن بنود خدمة الموقع تساوي بين الترخيصين الوارد والصادر
+[كالإعداد الافتراضي للموقع](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+
+
+يمكن لإتفاقية مساهمة إضافية - تسمى غالبًا باتفاقية ترخيص المساهم (CLA)- أن تزيد العبء على مشرفي المشاريع. يعتمد مقدار العمل الذي يضيفه الاتفاق على المشروع نفسه وعلى طريقة التنفيذ. فقد يتطلب اتفاق مساهمة بسيط تأكيد المساهمين و بنقرة واحدة، على أن لديهم الحقوق اللازمة للمساهمة بموجب ترخيص البرنامج مفتوح المصدر. بينما قد يتطلب الاتفاق الأكثر تعقيدًا القيام بالمراجعة القانونية و الموافقة من رؤساء المساهمين.
+
+كما أنه بإضافة "الأعمال الورقية"، التي يعتقد البعض أنها أعمال غير ضرورية، أو صعبة الفهم أو غير عادلة (عندما يحصل متلقي الاتفاقية على حقوق أكثر من المساهمين، أو حين يحصل المستخدمون على ذلك من خلال الترخيص مفتوح المصدر للمشروع)، و بذلك يمكن اعتبار اتفاقية المساهمين الإضافية إتفاقية غير صديقة للمجتمع المحيط بالمشروع.
+
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
-    We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
+    لقد قمنا بإلغاء اتفاقية ترخيص المساهم (CLA) لـ Node.js. يؤدي القيام بذلك إلى تقليل حاجز الوصول للمساهمين لـ  Node.js، وبالتالي إلى توسيع قاعدة المساهمة فيه.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["توسيع مساهمات Node.js"](https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
-Some situations where you may want to consider an additional contributor agreement for your project include:
+تتضمن بعض المواقف التي قد ترغب في التفكير فيها باستخدام اتفاقية مساهمة إضافية لمشروعك ما يلي:
 
-* Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps because they feel the open source license itself is not enough (even though it is!). If this is the only concern, a contributor agreement that affirms the project's open source license should be enough. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is a good example of a lightweight additional contributor agreement. For some projects, a [Developer Certificate of Origin](https://github.com/probot/dco) can be an alternative.
-* Your project uses an open source license that does not include an express patent grant (such as MIT), and you need a patent grant from all contributors, some of whom may work for companies with large patent portfolios that could be used to target you or the project's other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
-* Your project is under a copyleft license, but you also need to distribute a proprietary version of the project. You'll need every contributor to assign copyright to you or grant you (but not the public) a permissive license. The [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) is an example this type of agreement.
-* You think your project might need to change licenses over its lifetime and want contributors to agree in advance to such changes.
+*	حين يريد محاموك من جميع المساهمين قبول شروط المساهمة (التوقيع سواء من خلال الإنترنت أو على الأوراق) وبكل وضوح، ربما لأنهم يشعرون بأن ترخيص البرامج مفتوحة المصدر(open source licence) نفسه ليس كافياً (حتى لو كان كذلك). إذا كان هذا هو مصدر القلق الوحيد، فإنه  يجب على اتفاق المساهم الذي يؤكد ترخيص المشروع مفتوح المصدر أن يكون كافياً. تعتبر   [ تعتبر اتفاقية ترخيص المساهمين المستقلين في واجهة برمجة التطبيقات jQuery](https://contribute.jquery.org/CLA/) ، مثالاً جيدًاعلى اتفاقية المساهمين الإضافية البسيطة. في حين قد تمثل  [ شهادة منشأ المطور](https://github.com/probot/dco)(Developer Certificate of Origin) بالنسبة لبعض المشاريع بديلا مناسبا. 
 
-If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
+*	حين يستخدم مشروعك ترخيصًا ذا مصدر مفتوح غير متضمن لتحويل صريح للملكية من المساهمين فيه إليك (مثل ترخيص MIT)، في حين أنك تحتاج الى تحويل للملكية الفكرية من جميع المساهمين، والذين قد يعمل بعضهم في شركات ذات محافظ براءات اختراع ضخمة(large patent portfolios )، يمكن استخدامها لملاحقتك أو لملاحقة المساهمين والمستخدمين الآخرين في المشروع قانونيا. تعد [اتفاقية ترخيص المساهم المستقل(الفردي) الخاصة بترخيص Apache ](https://www.apache.org/licenses/icla.pdf)  اتفاقية مساهِمة إضافية شائعة الاستخدام، و مماثلة في منحة براءة اختراعها للمنحة الموجودة في رخصة Apache 2.0.
 
-## What does my company's legal team need to know?
+*	حين يقع مشروعك تحت رخصة الحقوق المرفوعة(copyleft license)، ولكنك تحتاج أيضًا إلى نشر نسخة خاضعة لحقوق الملكية. فستحتاج إلى جعل كل مساهم يتخلي عن حقوق الطبع والنشرلمساهمته لك أو أن يمنحك أنت(وليس المستخدمين) ترخيصًا متساهلا. تعتبر  [ اتفاقية مساهمة MongoDB](https://www.mongodb.com/legal/contributor-agreement) مثالاً على هذا النوع من الاتفاقات.
 
-If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
+*	حين تعتقد أن مشروعك قد يحتاج إلى تغيير التراخيص مستقبلا، وتريد من المساهمين الموافقة مسبقًا على هذه التغييرات.
 
-For better or worse, consider letting them know even if it's a personal project. You probably have an "employee IP agreement" with your company that gives them some control of your projects, especially if they are at all related to the company's business or you use any company resources to develop the project. Your company _should_ easily give you permission, and maybe already has through an employee-friendly IP agreement or a company policy. If not, you can negotiate (for example, explain that your project serves the company's professional learning and development objectives for you), or avoid working on your project until you find a better company.
+إذا كنت بحاجة إلى استخدام اتفاقية مساهمة إضافية مع مشروعك ، ففكر في استخدام ترخيص متكامل مع الرخصة الموجودة لديك مسبقا، مثل اتفاقية  [ترخيص المساهم ](https://github.com/cla-assistant/cla-assistant)( CLA assistant) كإتفاقية مساعدة لتقليل تشتيت المساهم.
 
-**If you're open sourcing a project for your company,** then definitely let them know. Your legal team probably already has policies for what open source license (and maybe additional contributor agreement) to use based on the company's business requirements and expertise around ensuring your project complies with the licenses of its dependencies. If not, you and they are in luck! Your legal team should be eager to work with you to figure this stuff out. Some things to think about:
+## ما الذي يحتاج الفريق القانوني لشركتي معرفته؟
 
-* **Third party material:** Does your project have dependencies created by others or otherwise include or use others' code? If these are open source, you'll need to comply with the materials' open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you're meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others' code that doesn't have an open source license, you'll probably have to ask the third party maintainers to [add an open source license](https://choosealicense.com/no-license/#for-users), and if you can't get one, stop using their code in your project.
+إذا كنت بصدد إطلاق مشروع مفتوح المصدر بصفتك موظفا في شركة، فكبداية، ينبغي على فريقك القانوني أن يعلم بحقيقة نشرك لمشروع مفتوح المصدر . 
 
-* **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material you want to keep private.
+وفي كل الأحوال، خذ بعين الاعتبار إخبارهم ذلك حتى لو كان المشروع مشروعا شخصيا. من المحتمل أن تكون لديك "اتفاقية حقوق فكرية خاصة بالموظفين (employee IP agreement)" مع شركتك، والتي قد تمنحها القدرة على التحكم في مشاريعك بدرجة ما، خاصة إذا كانت المشاريع مرتبطة بشكل ما بأعمال الشركة أو إن كنت تستخدم أية موارد خاصة بالشركة لتطوير المشروع. يجب على شركتك إعطاءك الإذن لإطلاق مشروعك بكل سهولة، وربما تكون قد حصلت على الإذن بالفعل من خلال وجوده في اتفاقية حقوق فكرية داعمة للموظفين أو من خلال سياسة الشركة. إن لم تمنح الإذن، فيمكنك التفاوض (على سبيل المثال، توضيح أن مشروعك يخدم أهداف التعلم والتطوير المهني للشركة من وجهة نظرك)، أو سيكون عليك تجنب العمل على مشروعك الى حين إيجادك لشركة أفضل.
 
-* **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
 
-* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../starting-a-project/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
+**إذا كنت تنفذ مشروعا مفتوح المصدر لشركتك**، فعليك إخبار المسؤولين بذلك بكل تأكيد. من المحتمل أن فريقك القانوني في الشركة لديه بالفعل سياسات لاختيار الترخيص مفتوح المصدر المناسب (وربما اتفاق مساهم إضافي) لاستخدامه بناءً على متطلبات الشركة وخبراتها حول ضمان التزام مشروعك بتراخيص اعتماداتها. ولكن إن لم تكن هناك فكرة لدى الفريق القانوني بهذا الشأن، فأنتم محظوظون! يجب أن يكون  فريقك القانوني تواقا للعمل معك لاستكشاف هذه الجوانب. وهنا بعض الأمور الواجب التفكير بها:
 
-* **Privacy:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
+* **المواد التابعة للطرف الثالث(Third party material)**: هل توجد للمشروع الخاص بك اعتمادات أنشأها آخرون أو يتضمن أو يستخدم برمجيات الآخرين؟ إذا كانت هذه المصادر مفتوحة المصدر(open sources)، فستحتاج إلى الالتزام بتراخيص المصادر المفتوحة للمواد. يبدأ ذلك باختيار ترخيص يعمل مع التراخيص مفتوحة المصدر التابعة للطرف الثالث (انظر أعلاه). إذا كان مشروعك يعدل أو يوزع المواد مفتوحة المصدر التابعة لطرف ثالث، فعندئذ سوف يرغب فريقك القانوني في التأكد كذلك من أنك تستوفي الشروط الأخرى لتراخيص المصدر المفتوح من الطرف الثالث مثل الاحتفاظ بإشعارات حقوق النشر. إذا كان مشروعك يستخدم برمجيات الآخرين التي لا تحتوي على ترخيص مفتوح المصدر، فربما يتعين عليك أن تطلب من جهات الإشراف التابعة للطرف الثالث [إضافة ترخيص مفتوح المصدر](https://choosealicense.com/no-license/#for-users)، وإذا لم تتمكن من الحصول على ترخيص، فتوقف عن استخدام هذه البرمجيات في مشروعك.
 
-If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
 
-Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
 
-* **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **الأسرار التجارية(Trade secrets):** قدّر في ما إذا كان هناك أي جزء في المشروع قد لا ترغب الشركة في إتاحته لعامة المستخدمين. في هذه الحالة، يمكنك تحديد باقي مشروعك كمصدر مفتوح، بعد استثناء الجزء الذي تود بقاءه خاصا.
+
+*	**براءات الاختراع(Patents):** هل تتقدم شركتك بطلب للحصول على براءة اختراع   للمشروع، حيث من شأن جعل المشروع مفتوح المصدر أن يشكل [ إفشاء عاما](https://en.wikipedia.org/wiki/Public_disclosure)(public disclosure) لمعلومات خاصة بالشركة؟ للأسف، قد يُطلب منك الانتظار (أو ربما قد تعيد الشركة النظر في الحكمة من طلبك باستخدام المصادر المفتوحة 'Open sources'). إذا كنت تتوقع مساهمات في مشروعك من موظفي الشركات التي لديها حقائب براءات اختراع ضخمة(large patent portfolios- لديها العديد من المشاريع والمساهمات المنشورة)، فقد يرغب فريقك القانوني في استخدام ترخيص بمنحة براءة اختراع صريحة من المساهمين (مثل Apache 2.0 أو GPLv3)، أو اتفاقية مساهمة إضافية ( أنظر أعلاه).
+
+* **العلامات التجارية(Trademarks):** تأكد بحرص من أن اسم مشروعك[ لا يتعارض مع أي من العلامات التجارية المسجلة مسبقا](../starting-a-project/#avoiding-name-conflicts)  المسجلة مسبقا. إذا كنت تستخدم العلامات التجارية الخاصة بشركتك في المشروع، فتأكد من أن ذلك لا يتسبب بأي تعارضات أو صراعات. يعد موقع [FOSSmarks](http://fossmarks.org/) دليلا عمليا لفهم العلامات التجارية في سياق المشاريع المجانية والمفتوحة المصدر.
+
+* **الخصوصية:** هل يقوم مشروعك بجمع البيانات عن المستخدمين؟ وهل يقوم بتتبع المستخدمين وبياناتهم ويربطها بخوادم الشركة؟ يمكن أن يساعدك فريقك القانوني في الالتزام بسياسات الشركة واللوائح الخارجية.
+
+
+
+إذا كنت بصدد إطلاق أول مشروع مفتوح المصدر لشركتك، فإن ما ورد أعلاه أكثر من كافٍ للقيام بذلك (ولكن لا تقلق، فإن معظم المشاريع لا ينبغي أن تثير أية مخاوف حقيقية).
+
+
+على المدى الطويل، يمكن لفريقك القانوني أن يفعل المزيد لمساعدة الشركة على تحقيق المزيد من النجاح من تعاملها في مجال المصادر المفتوحة(Open source)، مع الحفاظ على سلامتها:
+
+
+* **سياسات مساهمة الموظف:** ضع في اعتبارك تطوير سياسة الشركة التي تحدد كيفية مساهمة الموظفين في مشاريع مفتوحة المصدر(open source projects). إن السياسة الواضحة ستحد من الارتباك بين موظفيك وتساعدهم على المساهمة في مشاريع مفتوحة المصدر بما يحقق مصلحة الشركة، سواء كجزء من وظائفهم أو في أوقات فراغهم. ومن الأمثلة الجيدة على ذلك نموذج سحابة "Rackspace"[ للحقوق الفكرية وسياسة المساهمة المفتوحة](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)  (Model IP and Open Source Contribution Policy.).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
+إن الافصاح عن الحقوق الفكرية بشكل واضح يبني قاعدة المعرفة والسمعة لدى الموظف. ويبين أن الشركة تستثمر في تطوير الموظف وتخلق له إحساسًا بالتمكين والاستقلالية. كل هذه الفوائد تؤدي أيضا إلى رفع معنويات واستبقاء أفضل للموظفين.
+
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["نموذج الملكية الفكرية والمساهمة مفتوحة المصدر"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
-* **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
-* **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
+* **ماذا يمكنك أن تصدر:** [كل شيء( تقريبا)؟ ](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) إذا كان فريقك القانوني يتفهم ويستثمر في إستراتيجية شركتك للمصادر المفتوحة، فسيكون قادرًا بشكل أفضل على مساعدتك عوضا عن إعاقة جهودك.
+
+* **الالتزامات(Compliance):** حتى إذا لم تطلق شركتك أي مشاريع مفتوحة المصدرفإنها ستستخدم البرامج مفتوحة المصدر الخاصة بالآخرين. يمكن[ للوعي القانوني ](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)( Awareness and process)  و لطريقة استخدام المصادر المفتوحة الخاصة بالآخرين أن تمنع حصول أية مشاكل إضافية وتأخيرات إطلاق المنتجات، والدعاوى القضائية ضد الشركة.
+
 
 <aside markdown="1" class="pquote">
-  Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
+يجب أن يكون لدى المؤسسات  إستراتيجية ترخيص والتزام مناسبة لكل من فئتي[" المتساهلة(permissive) "و" الحقوق المرفوعة(copyleft) "].يبدأ ذلك بالاحتفاظ بسجل لشروط التراخيص التي تتوافق مع نظام   المصادر المفتوحة المستخدم- متضمنا المكونات الفرعية والاعتمادات المرافقة.
   <p markdown="1" class="pquote-credit">
-— Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+— Heather Meeker, ["البرامج مفتوحة المصدر: أساسيات الالتزامات وأفضل الممارسات"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
 </aside>
 
-* **Patents:** Your company may wish to join the [Open Invention Network](https://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+
+*	**براءات الإختراع (Patents):** قد ترغب شركتك بالانضمام إلى
+[شبكة الإختراعات المفتوحة](https://www.openinventionnetwork.com/)،  وهي عبارة عن عددًا من براءات الاختراع ويوافق أعضاؤه على الترخيص المتبادل لكل براءات اختراعهم في صنع أي نظام لينكس أو استخدامه أو استيراده أو توزيعه أو لاستكشاف رخص 
+[تراخيص براءة اختراع بديلة](https://www.eff.org/document/hacking-patent-system-2016).
+*	**الحوكمة(Governance):** خصوصا إن كان(أو عندما يكون) من المنطقي نقل المشروع إلى
+[كيان قانوني خارج الشركة](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
