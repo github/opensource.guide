@@ -1,6 +1,6 @@
 ---
-lang: en
-title: Your Code of Conduct
+lang: ro
+title: Codul tău de conduită
 description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
 class: coc
 toc:

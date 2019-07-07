@@ -1,14 +1,14 @@
 ---
-lang: en
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+lang: ro
+title: Pornind un proiect cu sursă deschisă
+description: Învață mai multe despre lumea open source și pregătește-te să-ți lansezi primul proiect.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  the-what-and-why-of-open-source: "„Care”-urile și „de ce”-urile open source"
+  should-i-launch-my-own-open-source-project: "Ar trebui să-mi lansez propriul meu proiect cu sursă deschisă?"
+  launching-your-own-open-source-project: "Lansându-ți propriul tău proiect cu sursă deschisă"
+  naming-and-branding-your-project: "Numirea și marcarea proiectului tău"
+  your-pre-launch-checklist: "Lista ta de verificări înainte de lansare"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,26 +16,26 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## „Care”-urile și „de ce”-urile open source
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Deci te gândești la a începe cu open source? Felicitări! Lumea îți apreciază contribuția. Haide să discutăm despre ce este open source și de ce oamenii fac asta.
 
-### What does "open source" mean?
+### Ce înseamnă „open source”?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Când un proiect este cu sursă deschisă, aceasta înseamnă că **oricine poate vizualiza, utiliza, modifica și distribui proiectul tău în orice scop.** Aceste permisiuni sunt impuse printr-o [licență open source](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Open source este puternic deoarece scade barierele în calea adoptării, permițând ideilor să se răspândească rapid.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Pentru a înțelege cum funcționează, imaginează-ți că prietenul tău la cină are ghiveci, și tu aduci o plăcintă cu cireșe.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Toată lumea încearcă plăcinta (_folosește_)
+* Plăcinta este un hit! Ei îți cer rețeta, pe care o furnizezi (_vizualizează_)
+* Un prieten, Alex, care este un bucătar de patiserie, sugerează reducerea zahărului (_modifică_)
+* Un alt prieten, Lisa, cere să o folosească pentru o cină săptămâna viitoare (_distribuie_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Prin comparație, un proces cu sursă închisă merge la un restaurant și comandă o felie de plăcintă cu cireșe. Trebuie să plătești o taxă pentru a mânca plăcinta, și restaurantul probabil nu-ți va da rețeta lor. Dacă ai copia plăcinta lor exact și ai vinde-o cu un nume al tău, restaurantul ar putea lua măsuri împotriva ta.
 
-### Why do people open source their work?
+### De ce oamenii deschid sursa muncii lor?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
@@ -45,41 +45,41 @@ By comparison, a closed source process would be going to a restaurant and orderi
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Există numeroase motive](https://ben.balter.com/2015/11/23/why-open-source/) pentru care o persoană sau o organizație ar dori să deschidă sursa unui proiect. Exemplele includ:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Colaborarea:** Proiectele cu sursă deschisă pot accepta schimbări de la oricine din lume. [Exercism](https://github.com/exercism/), de exemplu, este o platformă de exerciții de programare cu peste 350 de contributori.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adoptarea și remixarea:** Proiectele cu sursă deschisă pot fi folosite de oricine pentru aproape orice scop. Oamenii le pot folosi chiar și pentru a construi alte lucruri. [WordPress](https://github.com/WordPress), de exemplu, a început ca o bifurcație a unui proiect existent numit [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparența:** Oricine poate inspecta un proiect cu sursă deschisă pentru erori sau neconcordanțe. Transparența contează pentru guverne, cum ar fi [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) sau [Statele Unite](https://sourcecode.cio.gov/), a reglementat industrii cum ar fi sectorul bancar sau asistența medicală, și software-uri de securitate cum ar fi [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open source nici nu este doar pentru software. Poți deschide sursa a orice de la seturi de date la cărți. Aruncă o privire la [GitHub Explore](https://github.com/explore) pentru idei despre sursa a ce altceva poți deschide.
 
-### Does open source mean "free of charge"?
+### Cu sursă deschisă înseamnă „gratuit”?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+Una dintre cele mai mari remize ale open source este că nu costă bani. Cu toate acestea, „gratuit” este un produs secundar al valorii totale a open source.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Deoarece [o licență de sursă deschisă cere](https://opensource.org/osd-annotated) ca oricine să poată folosi, modifica, și distribui proiectul tău pentru aproape orice scop, proiectele însele tind să fie gratuite. Dacă un proiect costă bani pentru a fi folosit, oricine ar putea face o copie în mod legal și să folosească versiunea gratuită în loc.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Ca rezultat, cele mai multe proiecte cu sursă deschisă sunt gratuite, dar „gratuit” nu este parte din definiția open source. Există căi de a taxa pentru proiecte cu sursă deschisă indirect prin licențiere duală sau facilități limitate, în timp ce încă respectă definiția oficială a sursei deschise.
 
-## Should I launch my own open source project?
+## Ar trebui să-mi lansez propriul meu proiect cu sursă deschisă?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Răspunsul scurt este da, deoarece indiferent de rezultat, lansarea propriului tău proiect este o modalitate excelentă de a învăța cum open source lucrează.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Dacă nu ai deschis sursa niciunui proiect înainte, ai putea fi stresat de ce oamenii vor spune, sau dacă măcar cineva va observa. Dacă aceasta sună ca tine, nu ești singur!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Munca pe sursă deschisă este ca oricare altă activitate creativă, fie că este scriere sau pictură. Poate părea înfricoșător să împarți munca ta cu lumea, dar singura cale de a deveni mai bun este să practici - chiar dacă nu ai o audiență.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Dacă nu ești încă convins, fă-ți o clipă să te gândești la care ar putea fi scopurile tale.
 
-### Setting your goals
+### Stabilirea obiectivelor
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Scopurile pot să te ajute să-ți dai seama pe ce să lucrezi, la ce să spui nu, și unde să ceri ajutor de la alții. Începe prin a te întreba,  _de ce deschid sursa acestui proiect?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Nu există un răspuns singur corect la această întrebare. Ai putea avea multiple scopuri pentru un singur proiect, sau proiecte diferite cu scopuri diferite.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Dacă propriul tău scop este să îți arăți munca, poate nici nu vei vrea contribuții, și poate chiar vei spune asta în README. Pe de altă parte, dacă tu vrei contributori, vei investi timp într-o documentație clară și în a face noii veniți să se simtă bineveniți.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
@@ -89,13 +89,13 @@ If your only goal is to show off your work, you may not even want contributions,
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Pe măsură ce proiectul tău crește, comunitatea ta poate avea nevoie de mai mult decât doar cod din partea ta. Răspunzând la probleme, analizând cod, și promovând proiectul sunt toate sarcini importante într-un proiect cu sursă deschisă.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+În timp ce timpul pe care îl cheltuiți pe sarcini care nu sunt legate de programare va depinde de mărimea și scopul proiectului tău, tu ar trebui să fii pregătit ca un întreținător să te adresezi lor tu însuți sau să găsești pe cineva să te ajute.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Dacă ești parte dintr-o companie care deschide sursa unui proiect,** asigurați-vă că proiectul vostru are resursele interne de care are nevoie să prospere. Veți dori să identificați cine este responsabil pentru întreținerea proiectului după lansare, și cum veți împărți aceste sarcini cu comunitatea voastră.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Dacă aveți nevoie de un buget dedicat sau de personal pentru promovare, logistică și menținerea proiectului, începeți aceste conversații devreme.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
@@ -105,55 +105,55 @@ If you need a dedicated budget or staffing for promotion, operations and maintai
   </p>
 </aside>
 
-### Contributing to other projects
+### Contribuind pe alte proiecte
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Dacă obiectivul tău este să înveți cum să colaborezi cu alții sau să înțelegi cum funcționează open source, consideră contribuirea la un proiect existent. Începe cu un proiect pe care deja îl folosești și iubești. Contribuind la un proiect poate fi atât de simplu ca și corectarea greșelilor gramaticale sau actualizarea documentației.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Dacă nu ești sigur cum să începi ca un contributor, aruncă o privire peste [Cum să contribui la open source?](../how-to-contribute/).
 
-## Launching your own open source project
+## Lansându-ți propriul tău proiect cu sursă deschisă
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Nu există timpul perfect pentru a deschide sursa muncii tale. Poți deschide o idee, muncă în progres, sau după ani în care a fost cu sursă închisă.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+În general, ar trebui să deschizi sursa proiectului tău când te simți confortabil lăsându-i pe alții să vadă, să dea feedback pe, munca ta.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Indiferent de stadiul în care decizi să deschizi sursa proiectului, oricare proiect ar trebui să includă următoarea documentație:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Licența de sursă deschisă](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Direcții de contribuție](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Codul de conduită](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Ca și întreținător, aceste componente te vor ajuta să comunici așteptări, să gestionezi contribuții, și să protejezi drepturile legale ale tuturor (inclusiv ale tale). Ele cresc semnificativ șansele de a avea o experiență pozitivă.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Dacă proiectul tău este pe GitHub, punerea acestor fișiere în directorul rădăcină cu numele de fișiere recomandate va ajuta GitHub să recunoască și automat să le ridice la suprafață pentru cititorii tăi.
 
-### Choosing a license
+### Alegerea unei licențe
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+O licență de sursă deschisă garantează că alții pot folosi, copia, modifica, și contribui înapoi la proiectul tău fără repercursiuni. De asemenea te protejează de situații juridice lipicioase. **Tu trebuie să incluzi o licență când lansezi un proiect cu sursă deschisă.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Munca judiciară nu este distractivă. Veștile bune sunt că tu poți copia și lipi o licență existentă în depozitul tău. Îți va lua doar un minut pentru a proteja munca ta grea.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), și [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sunt cele mai populare licențe de sursă deschisă, dar [sunt și alte opțiuni](https://choosealicense.com) din care să alegi.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Când creezi un nou proiect pe GitHub, ți se dă opțiunea de a selecta o licență. Incluzând o licență de sursă deschisă îți va face proiectul GitHub open source.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Alege o licență](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Dacă ai alte întrebări sau îngrijorări în legătură cu aspectele juridice de gestionare a unui proiect cu sursă deschisă, [te-am acoperit](../legal/).
 
-### Writing a README
+### Scrierea unui README
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+README-urile fac mai mult decât să explice cum să se folosească proiectul tău. Ele de asemenea explică de ce proiectul tău contează, și ce pot face utilizatorii cu acesta.
 
-In your README, try to answer the following questions:
+În README-ul tău, încearcă să răspunzi următoarelor întrebări:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Ce face acest proiect?
+* De ce acest proiect este folositor?
+* Cum să încep?
+* Unde pot obține mai mult ajutor, dacă am nevoie de el?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+Poți să-ți folosești README-ul pentru a răspunde altor întrebări, cum ar fi cum tratezi contribuțiile, care sunt scopurile proiectului, și informații despre licențe și drepturi. Dacă tu nu vrei să accepți contribuții, sau proiectul tău nu este pregătit încă pentru producție, scrie această informație.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
@@ -163,43 +163,45 @@ You can use your README to answer other questions, like how you handle contribut
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Uneori, oamenii evită scrierea unui README deoarece simt că proiectul este nefinalizat, sau ei nu vor contribuții. Acestea sunt toate motive foarte bune pentru a scrie unul.
 
-For more inspiration, try using @dguo's ["Make a README" guide](https://www.makeareadme.com/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Pentru mai multă inspirație, încearcă să folosești ["Make a README" guide](https://www.makeareadme.com/) al lui @dguo sau [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) al lui @PurpleBooth pentru a scrie un README complet.
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Când incluzi un fișier README în directorul rădăcină, GitHub îl va afișa automat pe pagina acasă a depozitului.
 
-### Writing your contributing guidelines
+### Scrierea direcțiilor tale de contribuție
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+Un fișier CONTRIBUTING spune audienței tale cum să participe în proiectul tău. De exemplu, tu ai putea include informații despre:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Cum se înregistrează un raport de bug (încearcă folosirea [șabloanelor de probleme și cereri de pull](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Cum se sugerează o nouă facilitate
+* Cum se configurează mediul și se rulează testele
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+În plus pe lângă detalii tehnice, un fișier CONTRIBUTING este o oportunitate de a comunica așteptările tale de la contribuții, cum ar fi:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* Tipurile de contribuții pe care le cauți
+* Planul sau viziunea pentru proiect
+* Cum contributorii ar trebui (sau nu) să ia legătura cu tine
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Folosind un ton cald și prietenos și oferind sugestii specifice pentru contribuții (cum ar fi scrierea documentației, sau facerea unui site web) poate parcurge o cale lungă pentru a face nou-veniții să se simtă bineveniți și entuziasmați să participe.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+De exemplu, [Active Admin](https://github.com/activeadmin/activeadmin/) începe [ghidul său de contribuire](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) cu:
 
+> Mai întâi de toate, îți mulțumesc pentru că ai considerat să contribui la Active Admin. Sunt oamenii ca voi care fac Active Admin o unealtă grozavă.
+> 
 > First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+În primele etape ale proiectului tău, fișierul tău CONTRIBUTING poate fi simplu. Ar trebui mereu să explici cum se raportează bug-uri sau înregistrează probleme, și oricare cerință tehnică (cum ar fi teste) pentru a face o contribuție.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Cu timpul, ai putea adăuga alte întrebări puse des în fișierul tău CONTRIBUTING. Scriind aceste informații înseamnă că mai puțini oameni vă vor întreba aceleași întrebări de mai multe ori.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Pentru mai mult ajutor cu scrierea fișierului tău CONTRIBUTING, aruncă o privire la [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) al @nayafia sau ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) al @mozilla.
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai mulți oameni îl văd. Dacă [amplasezi fișierul tău CONTRIBUTING în depozitul proiectului tău](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub va lega automat către fișierul tău când un contributor creează o problemă sau deschide o cerere de pull.
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Direcții de contribuire](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### Stabilirea unui cod de conduită
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
