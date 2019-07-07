@@ -1,15 +1,15 @@
 ar:
   locale_name: العربية
   nav:
-    about: عن
+    about: حول
     contribute: ساهم
   index:
     lead: البرمجيات مفتوحة المصدر ينتجها أشخاص مثلك. تعلم كيف تبدأ وتنمي مشروعك.
-    opensourcefriday: إنه الجمعة! استثمر بضع ساعات في المساهمة في البرامج التي تستخدمها وتحبها
+    opensourcefriday: إنها الجمعة! استثمر بضع ساعات في المساهمة في البرامج التي تستخدمها وتحبها
   article:
     table_of_contents: جدول المحتويات
-    back_to_all_guides: العودة لجميع الأدلة
-    related_guides: الأدلة ذات العلاقة
+    back_to_all_guides: العودة لجميع الأَدِلَّة
+    related_guides: الأَدِلَّة ذات العلاقة
   footer:
     contribute:
       heading: ساهم
