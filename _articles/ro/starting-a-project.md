@@ -211,48 +211,48 @@ Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+În cele din urmă, un cod de conduită ajută la stabilirea unor reguli de bază pentru comportament pentru participanții la proiectul tău. Acest lucru este valoros în special dacă lansezi un proiect cu sursă deschisă pentru o comunitate sau o companie. Un cod de conduită te împuternicește să facilitezi comportamentul sănătos, constructiv al comunității, ceea ce îți va reduce stresul în calitate de întreținător.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Pentru mai multe informații, aruncă o privire la [ghidul nostru privind codul de conduită](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Pe lângă comunicarea _modului_ în care te aștepți ca participanții să se comporte, un cod de conduită tinde să descrie de asemenea la cine se aplică aceste așteptări, când se aplică, și ce se face dacă o încălcare are loc.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Aproape la fel ca licențele de sursă deschisă, sunt de asemenea și standarde în curs de dezvoltare pentru coduri de conduită, deci nu trebuie să vă scrieți propriul cod de conduită. [Contributor Covenant](https://contributor-covenant.org/) este un cod de conduită care se introduce cu o singură mutare în proiecte și este utilizat de [peste 40.000 de proiecte cu sursă deschisă](https://www.contributor-covenant.org/adopters), incluzând Kubernetes, Rails, și Swift. Indiferent de textul folosit, tu trebuie să fii pregătit să impui codul de conduită când e necesar.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Lipește textul direct într-un fișier CODE_OF_CONDUCT în depozitul tău. Păstrează fișierul în directorul rădăcină al proiectului tău ca să fie ușor de găsit, și leagă înspre el din README-ul tău.
 
-## Naming and branding your project
+## Numirea și marcarea proiectului tău
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+Marcarea este mai mult decât o siglă pâlpâitoare sau un nume de proiect atrăgător. Este despre cum vorbești despre proiectul tău, și la cine ajungi cu mesajul tău.
 
-### Choosing the right name
+### Alegerea numelui potrivit
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Alege un nume care este ușor de memorat și, în mod ideal, dă o idee despre ce face proiectul. De exemplu:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) monitorizează aplicații pentru raportarea de accidente
+* [Thin](https://github.com/macournoyer/thin) este un server web Ruby rapid și simplu
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Dacă construiești peste un proiect existent, folosind numele lor ca prefix poate ajuta să clarifice ce face proiectul tău (de exemplu, [node-fetch](https://github.com/bitinn/node-fetch) aduce `window.fetch` la Node.js).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Consideră claritatea mai presus de toate. Jocurile de cuvinte sunt distractive, dar ține minte că unele glume ar putea să nu se traducă pentru alte culturi sau oameni cu experiențe diferite de ale tale. Unii din utilizatorii tăi potențiali ar putea fi angați din companii: nu vrei să îi faci stânjeniți când trebuie să explice proiectul tău la muncă!
 
-### Avoiding name conflicts
+### Evitarea conflictelor de nume
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Caută proiecte cu sursă deschisă cu un nume asemănător](http://ivantomic.com/projects/ospnc/), în special dacă împărțiți aceeași limbă sau ecosistem. Dacă numele tău se suprapune cu un proiect popular existent, ai putea confuziona audiența.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Dacă dorești un site web, un Twitter, sau alte proprietăți să-ți reprezinte proiectul, asigură-te că poți obține numele dorite. În mod ideal, [rezervă aceste nume acum](https://instantdomainsearch.com/) pentru pacea minții, chiar dacă nu intenționezi să le folosești încă.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Asigură-te că numele proiectului tău nu încalcă nicio marcă comercială. O companie ar putea să-ți ceară să dobori proiectul mai târziu, sau chiar să ia măsuri legale împotriva ta. Pur și simplu, nu merită riscul.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+Puteți verifica [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) pentru conflicte de mărci comerciale. Dacă ești la o companie, aceasta este una din lucrurile cu care [echipa juridică te poate ajuta](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+În cele din urmă, fă o căutare Google rapidă pentru numele proiectului tău. Vor putea oamenii să găsească ușor proiectul tău? Apare alt lucru în rezultatele căutării pe care ai dori ca ei să nu îl vadă?
 
-### How you write (and code) affects your brand, too!
+### Cum scrii (și programezi) îți afectează marca, de asemenea!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+De-a lungul vieții proiectului tău, veți face multă scriere: README-uri, tutoriale, documente pentru comunitate, răspunderea la probleme, poate chiar buletine informative și liste de email-uri.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Fie că este vorba de documentație oficială sau de un email obișnuit, stilul tău de scriere este parte a mărcii proiectului tău. Consideră cum ai putea să ajungi la audiență și dacă acesta este tonul pe care dorești să-l transmiți.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
@@ -262,110 +262,110 @@ Whether it's official documentation or a casual email, your writing style is par
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+Folosirea unui limbaj cald și incluziv (cum ar fi „ei”, chiar când mă refeream la o singură persoană) poate face un drum lung în a face proiectul tău să fie simțit primitor de noii contributori. Lipește-te de limbajul simplu, fiindcă mulți din cititorii tăi ar putea să nu fie vorbitori nativi de engleză.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://angular.io/guide/styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Dincolo de modul în care scrii cuvinte, stilul tău de programare poate de asemenea deveni parte din marca proiectului tău. [Angular](https://angular.io/guide/styleguide) și [jQuery](https://contribute.jquery.org/style-guide/js/) sunt două exemple de proiecte cu stiluri de programare și direcții de ghidare riguroase.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Nu este necesar să scrii un ghid de stil pentru proiectul tău la început, și tu poți afla că te bucuri de a incorpora diferite stiluri de programare în proiectul tău oricum. Dar ar trebui să anticipezi cum stilurile de scriere și programare pot atrage sau descuraja diferite tipuri de oameni. Primele etape ale proiectului tău sunt oportunitatea ta de a stabili precedența pe care dorești să o vezi.
 
-## Your pre-launch checklist
+## Lista ta de verificări înainte de lansare
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+Pregătit să deschizi sursa proiectului tău? Iată o listă de verificare pentru a te ajuta. Bifezi toate cutiile? Ești gata să pornești! [Dă clic pe "publish"](https://help.github.com/articles/making-a-private-repository-public/) și mângâie-te pe spate.
 
-**Documentation**
+**Documentație**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Proiectul are un fișier LICENSE cu o licență de sursă deschisă
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Proiectul are documentație de bază (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    Numele este ușor de memorat, dă o idee despre ce face proiectul tău, și nu intră în conflict cu un proiect existent, nici nu încalcă mărcile comerciale
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    Coada de probleme este actualizată, cu problemele clar organizate și etichetate
   </label>
 </div>
 
-**Code**
+**Cod**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    Proiectul folosește convenții de cod consecvente și nume clare de funcții/metode/variabile
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    Codul este clar comentat, documentând intenții și cazuri marginale
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    Nu există materiale sensibile în istoria reviziilor, probleme, sau cereri de pull (de exemplu, parole sau alte informații non-publice)
   </label>
 </div>
 
-**People**
+**Oameni**
 
-If you're an individual:
+Dacă ești persoană fizică:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Ai vorbit cu departamentul juridic și/sau înțelegi IP și politicile open source ale companiei tale (dacă ești un angajat undeva)
   </label>
 </div>
 
-If you're a company or organization:
+Dacă sunteți o companie sau organizație:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    Ați vorbit cu departamentul juridic
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Aveți un plan de comercializare pentru a anunța și promova proiectul
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Cineva este angajat să gestioneze interacțiunile comunității (răspunderea la probleme, analizarea și îmbinarea cererilor de pull)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Cel puțin două persoane au acces administrativ la proiect
   </label>
 </div>
 
-## You did it!
+## Ai făcut-o!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Felicitări pentru prima ta deschidere a sursei unui proiect. Indiferent de rezultat, a lucra în public este un dar pentru comunitate. Cu fiecare commit, comentariu, și cerere de pull, tu creezi oportunități pentru tine și pentru alții de a învăța și a crește.
