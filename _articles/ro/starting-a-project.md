@@ -39,7 +39,14 @@ Prin comparație, un proces cu sursă închisă merge la un restaurant și coman
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  <p>
+    Cele mai recompensante experiențe pe care le scot din folosirea și colaborarea pe open source vin din relațiile pe care le construiesc cu alți dezvoltatori care fac față la multe din aceleași probleme pe care le întâmpin eu.
+  </p>
+  <p>
+    <em>
+      One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
@@ -83,7 +90,14 @@ Dacă propriul tău scop este să îți arăți munca, poate nici nu vei vrea co
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  <p>
+    La un moment dat am creat un UIAlertView personalizat pe care îl foloseam... și am decis să-i deschid sursa. Astfel că l-am modificat să fie mai dinamic și l-am încărcat pe GitHub. De asemenea am scris prima mea documentație explicând altor dezvoltatori cum să-l folosească în proiectele lor. Probabil nimeni nu l-a folosit deoarce era un proiect simplu dar m-am simțit bine din cauza contribuției mele.
+  </p>
+  <p>
+    <em>
+      At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
@@ -99,7 +113,14 @@ Dacă aveți nevoie de un buget dedicat sau de personal pentru promovare, logist
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  <p>
+    Pe măsură ce începi să deschizi sursa proiectului tău, este important să te asiguri că procesele tale de gestionare iau în considerație contribuțiile și abilitățile comunității din jurul proiectului tău. Nu-ți fie frică să implici contributori care nu sunt angajați în afacerea ta în aspecte cheie ale proiectului — în special dacă ei sunt contribuie frecvent.
+  </p>
+  <p>
+    <em>
+      As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
@@ -157,7 +178,14 @@ Poți să-ți folosești README-ul pentru a răspunde altor întrebări, cum ar 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  <p>
+    Documentație mai bună înseamnă mai mulți utilizatori, mai puține cereri de asistență, și mai mulți contributori. (...) Ține minte că cititorii tăi nu sunt tu. Sunt oameni care ar putea veni la un proiect care au experiențe complet diferite.
+  </p>
+  <p>
+    <em>
+      Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
@@ -205,7 +233,14 @@ Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  <p>
+    Toți am avut experiențe în care am făcut față la ceva ce probabil era abuz fie ca un întreținător încercând să explice de ce ceva trebuia să fie într-un anumit fel, sau ca un utilizator... punând o întrebare simplă. (...) Un cod de conduită devine un document ușor referit și la care se poate lega, care indică faptul că echipa ta ia discursul constructiv foarte în serios.
+  </p>
+  <p>
+    <em>
+      We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
