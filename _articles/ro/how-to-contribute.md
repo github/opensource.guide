@@ -21,7 +21,14 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  <p>
+    Lucrând pe [freenode] m-a ajutat să obțin multe din aptitudinile pe care mai târziu le-am folosit pentru studiile mele la universitate și pentru locul de muncă actual. Cred că a lucra pe proiecte cu sursă deschisă mă ajută la fel de mult cât ajută proiectul!
+  </p>
+  <p>
+    <em>
+      Working on [freenode] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -67,7 +74,14 @@ O neînțelegere comună despre contribuirea la open source este că trebuie să
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  <p>
+    Am fost renumit pentru munca mea pe CocoaPods, dar marea majoritate a oamenilor nu știu că eu de fapt nu fac nicio muncă reală pe unealta propriu-zisă CocoaPods. Timpul meu pentru proiect este în mare parte cheltuit făcând lucruri precum documentație și lucrul pe marcă.
+  </p>
+  <p>
+    <em>
+      I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
@@ -77,7 +91,14 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  <p>
+    Întâi am luat legătura cu echipa de dezvoltare Python (denumită și python-dev) când am trimis email la lista de email-uri în 17 iunie 2002 pentru a-mi accepta patch-ul. Am prins repede bug-ul open source, și am decis să încep să organizez rezumatele email-urilor pentru grup. Ei mi-au dat o scuză grozavă pentru a cere clarificări despre un subiect, dar mai critic am putut observa când cineva indica ceva ce necesita rezolvare.
+  </p>
+  <p>
+    <em>
+      I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -106,7 +127,14 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  <p>
+    Serios, [documentația] este mega-importantă. Documentația până acum a fost foarte bună și a fost o facilitate grozavă a Babel. Sunt secțiuni care sigur ar putea fi lucrate și chiar adăugarea unui paragraf aici sau acolo este extrem de apreciată.
+  </p>
+  <p>
+    <em>
+      Seriously, [documentation] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -153,7 +181,14 @@ Chiar dacă sunteți un dezvoltator software, lucrând pe un proiect de document
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  <p>
+    Dacă mergi la un urmăritor de probleme și lucrurile par confuze, nu ești singur. Aceste unelte cer multe cunoștințe implicite, dar oamenii pot să te ajute să îl navighezi și poți să le pui întrebări.
+  </P>
+  <p>
+    <em>
+      If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+    </em>
+  </P>
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
@@ -213,6 +248,8 @@ Open source nu este un club exclusivist; el este făcut din oameni exact ca tine
 Ai putea scana un README sau găsi un link stricat sau o greșeală gramaticală. Sau ești un nou utilizator și ai observat că ceva este stricat, sau o problemă despre care crezi că într-adevăr ar trebui să fie în documentație. În loc de a o ignora sau de a trece mai departe, sau a cere altcuiva să o rezolve, vezi dacă poți ajuta pășind înăuntru. Despre aceasta este tot open source!
 
 > [28% din contribuțiile ocazionale](https://www.igor.pro.br/publica/papers/saner2016.pdf) la open source sunt documentație, cum ar fi o corectare gramaticală, reformatare, sau scrierea unei traduceri.
+> 
+> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
 Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să descoperi și să contribui la noi proiecte:
 
@@ -373,7 +410,14 @@ Un proiect care este prietenos și primitor semnalează că ei vor fi receptivi 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  <p>
+    De fiecare dată când vezi un fir de discuție lung, verifică pe loc răspunsurile dezvoltatorilor principali care vin târziu în discuție. Rezumă ei în mod constructiv, și fac pași să aducă discuția la o decizie rămânând în același timp politicoși? Dacă vezi multe războieli, acesta este deseori un semn că energia merge înspre ceartă în loc de dezvoltare.
+  </p>
+  <p>
+    <em>
+      Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
@@ -389,7 +433,14 @@ Fie că ești un contributor de o singură dată sau încerci să te alături un
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  <p>
+    [Ca și contributor nou,] Am realizat repede că trebuia să pun întrebări dacă voiam să fiu capabilă să închid problema. Am frunzărit codul. Odată ce am simțit ce are loc, am cerut mai multă îndrumare. Și iată! Am reușit să rezolv problema după ce am obținut toate detaliile relevante de care aveam nevoie.
+  </p>
+  <p>
+    <em>
+      [As a new contributor,] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
@@ -419,7 +470,7 @@ Fie că ești un contributor de o singură dată sau încerci să te alături un
 
 > 😇 _(ca un comentariu) "@-întreținător Salut! Cum ar trebui să procedăm cu acest PR?"_
 >
-> 😢 _(as an email) "Hei, îmi pare rău că te deranjez prin email, dar mă întrebam dacă ai avut o șansă de a-mi revizui PR-ul"_
+> 😢 _(ca un email) "Hei, îmi pare rău că te deranjez prin email, dar mă întrebam dacă ai avut o șansă de a-mi revizui PR-ul"_
 
 **Este OK să pui întrebări (dar ai răbdare!).** Oricine a fost nou la proiect la un moment dat, și chiar contributorii cu experiență trebuie să ajungă la viteză când privesc la un proiect nou. În același timp, chiar întreținătorii pe termen lung nu sunt familiari întotdeauna cu oricare parte a proiectului. Arată-le aceeași răbdare pe care ai dori să ți-o arate ei ție.
 
@@ -451,9 +502,16 @@ Dacă dorești să faci o contribuție substanțială, deschide o problemă și 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  <p>
+    Vei învăța <em>multe</em> din a alege un singur proiect pe care îl folosești în mod activ, „urmărindu-l” pe GitHub și citind oricare problemă și PR.
+  </p>
+  <p>
+    <em>
+      You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+    </em>
+  </p>
 <p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [despre alăturarea la proiecte](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
