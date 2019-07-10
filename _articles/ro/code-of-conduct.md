@@ -4,11 +4,11 @@ title: Codul tău de conduită
 description: Facilitează comportamente constructive și sănătoase în comunitate prin adoptarea și impunerea unui cod de conduită.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
-  your-responsibilities-as-a-maintainer: "Your responsibilities as a maintainer"
+  why-do-i-need-a-code-of-conduct: "De ce am nevoie de un cod de conduită?"
+  establishing-a-code-of-conduct: "Stabilirea unui cod de conduită"
+  deciding-how-youll-enforce-your-code-of-conduct: "Decizând cum îți vei impune codul de conduită"
+  enforcing-your-code-of-conduct: "Impunerea codului tău de conduită"
+  your-responsibilities-as-a-maintainer: "Responsabilitățile tale în calitate de întreținător"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -16,49 +16,56 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## De ce am nevoie de un cod de conduită?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Un cod de conduită este un document care stabilește așteptări de comportament pentru participanții la proiectul tău. Adoptarea, și aplicarea, unui cod de conduită poate contribui la crearea unei atmosfere sociale pozitive pentru comunitatea ta.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Codurile de conduită ajută la protejarea nu doar a participanților tăi, ci și a ta. Dacă întreții un proiect, ai putea constata că atitudinile neproductive de la alți participanți pot să te facă să te simți stors sau nefericit în legătură cu munca ta de-a lungul timpului.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Un cod de conduită te împuternicește să facilitezi comportament sănătos, constructiv în comunitate. A fi proactiv reduce probabilitatea că tu, sau alții, veți deveni obosiți cu proiectul tău, și te ajută să iei măsuri când cineva face ceva cu care nu ești de acord.
 
-## Establishing a code of conduct
+## Stabilirea unui cod de conduită
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Încearcă să stabilești un cod de conduită cât mai devreme: în mod idea, când creezi prima dată proiectul.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+Pe lângă comunicarea așteptărilor tale, un cod de conduită descrie următoarele:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Unde are efect codul de conduită _(doar la probleme și cereri de pull, sau activități comunitare cum ar fi evenimente?)_
+* La cine se aplică codul de conduită _(membrii comunității și întreținători, dar ce se întâmplă cu sponsorii?)_
+* Ce se întâmplă dacă cineva încalcă codul de conduită
+* Cum poate cineva semnala încălcări
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Oricând poți, folosește stadiul cunoscut al tehnicii. [Contributor Covenant](https://contributor-covenant.org/) este un cod de conduită ușor de instalat care este folosit de peste 40.000 de proiecte cu sursă deschisă, inclusiv Kubernetes, Rails, și Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+[Codul de conduită Django](https://www.djangoproject.com/conduct/) și [Citizen Code of Conduct](http://citizencodeofconduct.org/) sunt de asemenea două exemple bune de coduri de conduită.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+Amplasează un fișier CODE_OF_CONDUCT în directorul rădăcină al proiectului tău, și fă-l vizibil pentru comunitatea ta legând către el din fișierele tale CONTRIBUTING sau README.
 
-## Deciding how you'll enforce your code of conduct
+## Decizând cum îți vei impune codul de conduită
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  <p>
+    Un cod de conduită care nu este (sau nu poate fi) impus este mai rău decât absența unui cod de conduită: el trimite mesajul că valorile din codul de conduită nu sunt de fapt importante sau respectate în comunitatea ta.
+  </p>
+  <p>
+    <em>
+      A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Ar trebui să explici cum codul tău de conduită va fi impus **_înainte_** ca o încălcare să aibă loc. Sunt câteva motive pentru a face astfel:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* El demonstrează că ești serios în legătură cu luarea de măsuri când este necesar.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Comunitatea ta se va simți asigurată că plângerile sunt de fapt analizate.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Îți vei asigura comunitatea că procesul de analizare este corect și transparent, dacă vreodată ei se vor găsi investigați pentru o încălcare.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Ar trebui să oferi oamenilor o cale privată (cum ar fi o adresă de email) pentru a raporta o încălcare a codului de conduită și să explici cine primește raportul. Ar putea fi un întreținător, un grup de întreținători, sau un grup de lucru pentru codul de conduită.
 
 Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
@@ -66,11 +73,11 @@ Don't forget that someone might want to report a violation about a person who re
 
 For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
 
-## Enforcing your code of conduct
+## Impunerea codului tău de conduită
 
 Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
 
-### Gather information about the situation
+### Adună informații despre situație
 
 Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
 
@@ -85,7 +92,7 @@ Before you respond, give yourself time to understand what happened. Read through
   </p>
 </aside>
 
-### Take appropriate action
+### Ia măsurile corespunzătoare
 
 After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
 
@@ -105,7 +112,7 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 
-## Your responsibilities as a maintainer
+## Responsabilitățile tale în calitate de întreținător
 
 A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
 
@@ -115,6 +122,6 @@ A report of behavior that doesn't _technically_ violate the code of conduct may 
 
 In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
 
-## Encourage the behavior you want to see in the world 🌎
+## Încurajează comportamentul pe care vrei să îl vezi în lume 🌎
 
 When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
