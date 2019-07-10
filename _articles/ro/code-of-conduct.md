@@ -1,7 +1,7 @@
 ---
 lang: ro
 title: Codul tău de conduită
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+description: Facilitează comportamente constructive și sănătoase în comunitate prin adoptarea și impunerea unui cod de conduită.
 class: coc
 toc:
   why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"

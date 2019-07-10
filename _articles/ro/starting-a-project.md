@@ -114,7 +114,7 @@ Dacă aveți nevoie de un buget dedicat sau de personal pentru promovare, logist
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    Pe măsură ce începi să deschizi sursa proiectului tău, este important să te asiguri că procesele tale de gestionare iau în considerație contribuțiile și abilitățile comunității din jurul proiectului tău. Nu-ți fie frică să implici contributori care nu sunt angajați în afacerea ta în aspecte cheie ale proiectului — în special dacă ei sunt contribuie frecvent.
+    Pe măsură ce începi să deschizi sursa proiectului tău, este important să te asiguri că procesele tale de gestionare iau în considerație contribuțiile și abilitățile comunității din jurul proiectului tău. Nu-ți fie frică să implici contributori care nu sunt angajați în afacerea ta în aspecte cheie ale proiectului — în special dacă ei contribuie frecvent.
   </p>
   <p>
     <em>
@@ -291,9 +291,16 @@ Fie că este vorba de documentație oficială sau de un email obișnuit, stilul 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  <p>
+    Am încercat să mă implic în toate firele de discuție din lista de email-uri, și să arăt comportament exemplar, fiind drăguț cu oamenii, luându-le în serios problemele și încercând în ansamblu să fiu de ajutor. După un timp, oamenii au rămas în jur nu doar pentru a pune întrebări, ci de asemenea pentru a ajuta cu răspunsurile, și spre bucuria mea completă, ei mi-au imitat stilul.
+  </p>
+  <p>
+    <em>
+      I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl despre [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
