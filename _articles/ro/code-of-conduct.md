@@ -67,19 +67,21 @@ Ar trebui să explici cum codul tău de conduită va fi impus **_înainte_** ca 
 
 Ar trebui să oferi oamenilor o cale privată (cum ar fi o adresă de email) pentru a raporta o încălcare a codului de conduită și să explici cine primește raportul. Ar putea fi un întreținător, un grup de întreținători, sau un grup de lucru pentru codul de conduită.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Nu uita că cineva ar putea să vrea să raporteze o încălcare despre o persoană care primește aceste rapoarte. În acest caz, dă-le o opțiune să raporteze încălcările altcuiva. De exemplu @ctb și @mr-c [explică despre proiectul lor](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Exemple de comportament abuziv, hărțuitor, sau altfel inacceptabil pot fi raportate scriind email către **khmer-project@idyll.org** care ajung doar la C. Titus Brown și Michael R. Crusoe. Pentru a raporta o problemă care implică pe oricare din aceștia te rugăm să scrii email către **Judi Brown Clarke, Ph.D.** Directorul pentru Diversitate la Centrul BEACON pentru Studiul Evoluției în Acțiune, un Centru NSF pentru Știință și Tehnologie.
+> 
+> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+Pentru inspirație, aruncă o privire la [manualul impunerii](https://www.djangoproject.com/conduct/enforcement-manual/) al Django (deși poate nu vei avea nevoie de ceva atât de cuprinzător, depinzând de dimensiunea proiectului tău).
 
 ## Impunerea codului tău de conduită
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Uneori, în ciuda celor mai bune eforturi ale tale, cineva va face ceva ce încalcă acest cod. Există câteva căi de abordare a comportamentului negativ sau dăunător când apare.
 
 ### Adună informații despre situație
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Tratează fiecare voce a unui membru al comunității ca pe a ta. Dacă primești un raport cum că cineva a încălcat codul de conduită, ia-l în serios și investighează problema, chiar dacă nu se potrivește cu experiența ta proprie cu acea persoană. Făcând astfel va semnala comunității că le prețuiești perspectiva și ai încredere în judecata lor.
 
 The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
 
