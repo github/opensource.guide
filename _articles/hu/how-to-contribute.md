@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+title: Hogyan lehet hozzájárulni a nyílt forráskódhoz
+description: Szeretnél hozzájárulni a nyílt forráskódhoz? Ez egy útmutató a nyílt forráskódú fejlesztésekben történő részvételhez, a kezdők és haladók számára.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -10,19 +10,19 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Miért vegyél részt a Nyílt Forráskódú fejlesztésben?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Amikor a \[freenode\]-on dolgoztam, akkor sok olyan jártasságot szereztem, amelyet később az egyetemi tanulmányaimban és az aktuális munkámban is használtam. Úgy gondolom, hogy a nyílt forráskódon végzett munka legalább annyira segít engem, mint a projektet!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Miért szeretek hozzájárulni a nyílt forráskódú projektekhez?"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+A nyílt forráskódhoz való hozzájárulás a tanulás, a tanítás és a tapasztalatok szerzésének a legjobb útja, bármilyen jártasság esetén, amit csak elképzelhetsz.
 
-Why do people contribute to open source? Plenty of reasons!
+Miért járulnak hozzá az emberek a nyílt forráskódhoz? Rengeteg oka van!
 
 ### Improve existing skills
 
