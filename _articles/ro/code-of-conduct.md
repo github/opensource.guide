@@ -26,11 +26,11 @@ Un cod de conduită te împuternicește să facilitezi comportament sănătos, c
 
 ## Stabilirea unui cod de conduită
 
-Încearcă să stabilești un cod de conduită cât mai devreme: în mod idea, când creezi prima dată proiectul.
+Încearcă să stabilești un cod de conduită cât mai devreme: în mod ideal, când creezi prima dată proiectul.
 
 Pe lângă comunicarea așteptărilor tale, un cod de conduită descrie următoarele:
 
-* Unde are efect codul de conduită _(doar la probleme și cereri de pull, sau activități comunitare cum ar fi evenimente?)_
+* Unde are efect codul de conduită _(doar la probleme și cereri de pull, sau și activități comunitare cum ar fi evenimente?)_
 * La cine se aplică codul de conduită _(membrii comunității și întreținători, dar ce se întâmplă cu sponsorii?)_
 * Ce se întâmplă dacă cineva încalcă codul de conduită
 * Cum poate cineva semnala încălcări
@@ -83,12 +83,19 @@ Uneori, în ciuda celor mai bune eforturi ale tale, cineva va face ceva ce înca
 
 Tratează fiecare voce a unui membru al comunității ca pe a ta. Dacă primești un raport cum că cineva a încălcat codul de conduită, ia-l în serios și investighează problema, chiar dacă nu se potrivește cu experiența ta proprie cu acea persoană. Făcând astfel va semnala comunității că le prețuiești perspectiva și ai încredere în judecata lor.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+Membrul în cauză al comunității poate fi un recidivist care îi face în mod consecvent pe alții să se simtă inconfortabil, sau ei ar putea să fi spus sau făcut ceva doar o dată. Ambele situații pot fi baza luării de măsuri, depinzând de context.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Înainte de a răspunde, dă-ți timp să înțelegi ce s-a întâmplat. Citește prin comentariile și conversațiile trecute ale acestei persoane pentru a înțelege mai bine cine este și de ce a acționat într-un asemenea mod. Încearcă să culegi perspective, altele decât propria ta perspectivă despre această persoană și comportamentul ei.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  <p>
+    Nu te lăsa tras într-o ceartă. Nu te lăsa distras de a te ocupa cu comportamentul altcuiva înainte de a termina cu problema la îndemână. Concentrează-te pe ce ai nevoie.
+  </p>
+  <p>
+    <em>
+      Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
@@ -96,34 +103,34 @@ Before you respond, give yourself time to understand what happened. Read through
 
 ### Ia măsurile corespunzătoare
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+După colectarea și procesarea de informații suficiente, va trebui să decizi ce să faci. Pe măsură ce consideri următorii tăi pași, ține minte că scopul tău ca moderator este să întreții un mediu sigur, respectuos, și colaborativ. Consideră nu doar cum să te ocupi cu situația în cauză, dar și cum răspunsul tău va afecta comportamentul și așteptările de a merge înainte ale restului comunității.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Când cineva raportează o încălcare a codului de conduită, este sarcina ta, nu a lor, de a o trata. Câteodată, cel/cea care raportează dezvăluie informații cu mare risc pentru cariera, reputația, sau siguranța fizică a lor. Forțându-i să se confrunte cu hărțuitorul/oarea ar putea pune persoana care a raportat într-o poziție compromițătoare. Ar trebui să gestionezi comunicarea directă cu persoana în cauză, dacă persoana care raportează nu cere în mod explicit altfel.
 
-There are a few ways you might respond to a code of conduct violation:
+Există câteva moduri în care poți răspunde la o încălcare a codului de conduită:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Oferă persoanei în cauză o avertizare publică** și explică cum comportamentul ei are un impact negativ asupra celorlalți, preferabil în canalul în care a apărut. Unde este posibil, comunicarea publică transmite restului comunității că iei codul de conduită în serios. Fii bun, dar ferm în comunicarea ta.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Ia legătura cu persoana în cauză în mod privat** pentru a explica felul în care comportamentul a avut un impact negativ asupra celorlalți. Ai putea vrea să folosești un canal de comunicare privat dacă situația implică informații personale sensibile. Dacă comunici în privat cu cineva, este o idee bună să trimiți un CC celor care au raportat situația primii, ca să știe că ai luat măsuri. Întreabă persoana care a raportat pentru consimțământ înainte de a le trimite CC.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Uneori, nu se poate ajunge la o soluționare. Persoana în cauză ar putea deveni agresivă sau ostilă când este confruntată sau nu își schimbă comportamentul. În această situație, poate ai vrea să consideri luarea de măsuri mai puternice. De exemplu:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Suspendarea persoanei** în cauză din proiect, impusă printr-o interdicție temporară de a participa la oricare aspect al proiectului.
 
-* **Permanently ban** the person from the project
+* **Interzicerea permanentă** a persoane din proiect
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+Interzicerea membrilor ar trebui să nu fie luată cu ușurință și reprezintă o permanentă și ireconciliabilă diferență de perspective. Ar trebui să iei aceste măsuri doar când este clar că nu se poate ajunge la o soluționare.
 
 ## Responsabilitățile tale în calitate de întreținător
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+Un cod de conduită nu este o lege care este impusă arbitrar. Tu ești impunătorul codului de conduită și este responsabilitatea ta să urmezi regulile pe care codul de conduită le stabilește.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+În calitate de întreținător stabilești direcțiile de ghidare pentru comunitatea ta și impui aceste direcții în conformitate cu regulile prezentate în codul tău de conduită. Aceasta înseamnă a lua în serios orice raport de încălcare a codului de conduită. Celui care raportează i se datorează o analiză completă și corectă a plângerii lui. Dacă determini că comportamentul pe care el l-a raportat nu este o încălcare, comunică-i aceasta clar și explică de ce nu vei lua măsuri în legătură cu acesta. Ce face el/ea cu aceasta este treaba lor: tolerează comportamentul cu care au avut o problemă, sau se oprește din a face parte din comunitate.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+Un raport al comportamentului care nu încalcă _tehnic_ codul de conduită poate totuși indica faptul că este o problemă în comunitatea ta, și ar trebui să investighezi această problemă potențială și să acționezi în consecință. Aceasta ar putea include revizuirea codului tău de conduită pentru a clarifica comportamentele acceptabile și/sau a vorbi cu persoana al cărei comportament a fost raportat și a-i spune că, deși nu a încălcat codul de conduită, ea se apropie de limita a ceea ce este așteptat și îi face pe unii participanți să se simtă inconfortabil.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+În cele din urmă, în calitate de întreținător, stabilești și impui standardele pentru comportament acceptabil. Ai abilitatea de a contura valorile comunitare ale proiectului, și participanții așteaptă de la tine să impui aceste valori într-un mod corect și nepărtinitor.
 
 ## Încurajează comportamentul pe care vrei să îl vezi în lume 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Când un proiect pare ostil și neprimitor, chiar dacă este doar o persoană cea al cărei comportament este tolerat de ceilalți, riști să pierzi mulți alți contributori, dintre care pe unii nu-i vei întâlni niciodată. Nu este întotdeauna ușor să adopți sau să impui un cod de conduită, dar întreținerea unui mediu primitor va ajuta comunitatea ta să crească.
