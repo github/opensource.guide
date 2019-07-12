@@ -24,9 +24,9 @@ A nyílt forráskódhoz való hozzájárulás a tanulás, a tanítás és a tapa
 
 Miért járulnak hozzá az emberek a nyílt forráskódhoz? Rengeteg oka van!
 
-### Improve existing skills
+### Készségfejlesztés
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Kódolás, felhasználói felület tervezése, grafikai tervezés, írás vagy szervezés – ha gyakorlatot keresel, akkor találsz feladatot nyílt forráskódú projekten.
 
 ### Meet people who are interested in similar things
 
