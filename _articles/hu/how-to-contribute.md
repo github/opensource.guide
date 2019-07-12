@@ -26,11 +26,11 @@ Miért járulnak hozzá az emberek a nyílt forráskódhoz? Rengeteg oka van!
 
 ### Készségfejlesztés
 
-Kódolás, felhasználói felület tervezése, grafikai tervezés, írás vagy szervezés – ha gyakorlatot keresel, akkor találsz feladatot nyílt forráskódú projekten.
+Kódolás, felhasználói felület tervezése, grafikai tervezés, írás vagy akár szervezés – ha gyakorlatot keresel, akkor találsz feladatot nyílt forráskódú projekten.
 
-### Meet people who are interested in similar things
+### Találkozz hasonló érdeklődésű emberekkel
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+A nyílt forráskódú projektek meleg, barátságos közösségek, ahová évek óta visszatérnek az emberek. Sokan egy egész életen át tartó barátságot kötnek a nyílt forráskódú részvételük révén, függetlenül attól, hogy konferenciákon vagy késő esti online beszélgetéseken ismerekednek-e meg.
 
 ### Find mentors and teach others
 
