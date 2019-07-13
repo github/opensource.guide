@@ -32,17 +32,17 @@ Kódolás, felhasználói felület tervezése, grafikai tervezés, írás vagy a
 
 A nyílt forráskódú projektek meleg, barátságos közösségek, ahová évek óta visszatérnek az emberek. Sokan egy egész életen át tartó barátságot kötnek a nyílt forráskódú részvételük révén, függetlenül attól, hogy konferenciákon vagy késő esti online beszélgetéseken ismerekednek-e meg.
 
-### Find mentors and teach others
+### Keress mentorokat és taníts másokat
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Közös projekten dolgozni másokkal azt jelenti, hogy el kell magyaráznod, hogy hogyan működnek a dolgok, vagy más embereket kell megkérned, hogy segítsenek. A tanításban és tanulásban mindenki érdekelt.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Növeld a hírnevedet és támogasd a karriered azzal, hogy közzé teszed a munkád
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+Alapértelmezés szerint minden nyílt forráskódú munka publikus, amit azt jelenti, hogy bárhol megjelenhetsz a munkáiddal bemutatva azt, hogy mire vagy képes.
 
-### Learn people skills
+### Emberi készségek fejlesztése
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+A nyílt forráskód számos kihívást rejteget a vezetői és szervezői készségek gyakrolásában, úgy mint konfliktus megoldás, csapatszervezés és a munkák priorításának megállapítása.
 
 ### It's empowering to be able to make changes, even small ones
 
