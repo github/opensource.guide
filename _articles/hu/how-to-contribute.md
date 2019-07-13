@@ -54,25 +54,26 @@ Ha új vagy a nyílt forráskódban, akkor a folyamat először félelmetes lehe
 
 Ne aggódj! Rengeteg módja van annak, hogy részt vegyél a nyílt forráskódú fejlesztésekben, és számos tipp segít abban, hogy a legtöbbet hozd ki magadból.
 
-### You don't have to contribute code
+### Nem kell kóddal hozzájárulnod
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programozni kell hozzá. Valójában gyakran a projekt többi része az, amely [elhanyagolt, vagy mellőzött](https://github.com/blog/2195-the-shape-of-open-source). Óriási segítség a projektnek, ha ilyen jellegű munkával járulsz hozzá!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  Híres vagyok a CocoaPods-szal végzett munkámról, de a legtöbb ember nem is tudja, hogy nem is dolgozom magán a CocoaPods kódján. Az időm nagy részét a projekten dokumentációval és márkaépítéssel töltöm.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Természetes az OSS-re való átállás"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való részvételnek vagy hogy találkozz közösségi tagokkal az, hogy más jellegű hozzájárulásod van a projekthez. Ezeknek a kapcsolatoknak a kiépítése lehetőséget ad arra, hogy a projekt egyéb részein dolgozz.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  Az első kapcsolatom a Python fejlesztői csapattal (python-dev) az volt, amikor a levelező listára küldtem 2002. június 17.-én azt, hogy elfogadták a javításom.
+  Gyorsan megtaláltam a nyílt forrásódban a hibákat és így elhatároztam, hogy kezelni fogom a csoport levelezési listáját. Nagyszerű lehetőséget adtak arra, hogy az adott témában a kérdéseket tisztázzuk, de még fontosabb, hogy lehetőségem lett felhívni a figyelmet arra, ha valaki rámutatott egy hibára, amit javítani kellett.
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["Fenntartói Történetek"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
