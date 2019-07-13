@@ -1,25 +1,25 @@
-en:
-  locale_name: English
+hu:
+  locale_name: Magyar
   nav:
-    about: About
-    contribute: Contribute
+    about: Rólunk
+    contribute: Közreműködés
   index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    lead: A nyílt forráskódú szoftvereket ugyanolyan emberek készítik mint te. Tanuld meg, hogy hogyan indíthatod el és hogyan növekedhet a projekted!
+    opensourcefriday: Péntek van! Szánj pár órát a kedvenc szoftveredre amit használsz!
   article:
-    table_of_contents: Table of Contents
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    table_of_contents: Tartalomjegyzék
+    back_to_all_guides: Vissza az Útmutatókra
+    related_guides: Kapcsolódó Útmutató
   footer:
     contribute:
-      heading: Contribute
-      description: Want to make a suggestion? This content is open source. Help us improve it.
-      button: Contribute
+      heading: Közreműködés
+      description: Van javaslatod? Ez a tartalom is nyílt forráskód, segíts benne!
+      button: Közreműködés
     subscribe:
-      heading: Stay in touch
-      description: Be the first to hear about GitHub's latest open source tips and resources.
-      label: Email Address
-      button: Subscribe
+      heading: Maradjunk kapcsolatban
+      description: Legyél az első, aki hall a GitHub's legfissebb nyílt forráskódú híreiről és anyagairól
+      label: Email cím
+      button: Feliratkozás
     byline:
       # [code], [love], and [github] will be replaced by octicons
       format: "[code] with [love] by [github] and [friends]"
