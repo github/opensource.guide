@@ -210,9 +210,9 @@ Un proiect cu sursă deschisă are următoarele tipuri de persoane:
 
 * **Autor:** Persoana/persoanele sau organizația care a creat proiectul
 * **Proprietar:** Persoana/persoanele care au proprietate administrativă asupra organizației sau a depozitului (nu întotdeauna același cu autorul original)
-* **Întreținători:** Contributori care sunt responsabili pentru a conduce viziunea și a organiza aspectele organizaționale ale proiectului. (Ei pot de asemenea fi autori sau proprietari ai proiectului.)
-* **Contributori:** Oricine a contribuit cu ceva înapoi la proiect.
-* **Membrii comunității:** Persoane care folosesc proiectul. Ei ar putea fi activi în conversații sau să-și exprime părerea asupra direcției proiectului.
+* **Întreținători:** Contributori care sunt responsabili pentru a conduce viziunea și a organiza aspectele organizaționale ale proiectului (Ei pot de asemenea fi autori sau proprietari ai proiectului.)
+* **Contributori:** Oricine a contribuit cu ceva înapoi la proiect
+* **Membrii comunității:** Persoane care folosesc proiectul. Ei ar putea fi activi în conversații sau să-și exprime părerea asupra direcției proiectului
 
 Proiectele mai mari pot de asemenea avea subcomitete sau grupuri de lucru axate pe sarcini diferite, cum ar fi uneltele, triajul, moderarea comunității, și organizarea evenimentelor. Caută pe site-ul unui proiect pentru o pagină „echipă” sau în depozit pentru documentația de guvernare, pentru a găsi această informație.
 
@@ -273,7 +273,7 @@ Aici este o listă de verificare la îndemână pentru a evalua dacă un proiect
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Are o licență? De obicei, acesta este un fișier numit LICENSE în rădăcina depozitului.
+  Are o licență? De obicei, există un fișier numit LICENSE în rădăcina depozitului.
   </label>
 </div>
 
