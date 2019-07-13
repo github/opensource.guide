@@ -106,30 +106,30 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
   </p>
 </aside>
 
-### Do you like organizing?
+### Szeretsz szervezni?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* Kapcsold össze a közös problémákat és javasolj más probléma címkéket, hogy jobban szervezett legyen a projekt
+* Nézd át a nyitott problémákat és javasold lezárásukat a régieknek, [ahogy @nzakas csinálta az ESLint esetén](https://github.com/eslint/eslint/issues/6765)
+* Tegyél fel tisztázandó kérdéseket a közelmúltban megnyitott felvetésekről, problémákról a vita előmozdítása érdekében
 
-### Do you like to code?
+### Szeretsz kódolni?
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* Keress nyitott problémákat, amelyeket megoldhatsz, [mint ahogy @dianjin csinálta a Leaflet esetén](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Kérdezd meg, hogy kell-e segíteni valamely új funkcióban
+* Automatizáld a projektet
+* Fejleszd az eszközöket és a teszteket
 
-### Do you like helping people?
+### Szeretsz segíteni embereken?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* Válaszolj a projektről szóló kérdésekre, például a Stack Overflow-n, ([mint ez a Postgres példa](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) vagy a Reddit-en
+* Válaszold meg a kérdéseket a nyitott problémákról
+* Segíts moderálni a beszélgetést a fórumokon vagy egyéb csatornákon
 
-### Do you like helping others code?
+### Szeretsz másoknak segíteni a kódolásban?
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Nézd át más emberek kódját, amellyel a projekthez járulnak hozzá
+* Írj útmutatót arról, hogyan kell a projektben dolgozni
+* Ajánld fel a segítségedet a kódolásban résztvevőnek, [mint ahogy @ereichert csinálta @bronzdoc esetén a Rust projektben](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### You don't just have to work on software projects!
 
