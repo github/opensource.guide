@@ -1,15 +1,15 @@
 ---
-lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+lang: ro
+title: Cele mai bune practici pentru întreținători
+description: Ușurarea vieții tale în calitate de întreținător open source, de la documentarea proceselor la mobilizarea comunității
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
+  what-does-it-mean-to-be-a-maintainer: "Ce înseamnă să fii un întreținător?"
+  documenting-your-processes: "Documentarea proceselor tale"
+  learning-to-say-no: "Învățând să spui nu"
+  leverage-your-community: "Mobilizarea comunității tale"
+  bring-in-the-robots: "Cheamă roboții"
+  its-okay-to-hit-pause: "Este OK să apeși pauză"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -17,72 +17,79 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## Ce înseamnă să fii un întreținător?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Dacă întreții un proiect cu sursă deschisă pe care mulți oameni îl folosesc, poate ai observat că programezi mai puțin și răspunzi la probleme mai mult.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+In primele etape ale unui proiect, experimentezi cu idei noi și decizi bazat pe ce vrei tu. Pe măsură ce proiectul crește în popularitate, te vei afla lucrând cu utilizatorii și contributorii tăi mai mult.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Întreținerea unui proiect necesită mai mult decât cod. Aceste sarcini sunt deseori neașteptate, dar ele sunt exact la fel de importante pentru un proiect în creștere. Am adunat câteva căi pentru a-ți ușura viața, de la documentarea proceselor la mobilizarea comunității tale.
 
-## Documenting your processes
+## Documentarea proceselor tale
 
-Writing things down is one of the most important things you can do as a maintainer.
+Notarea lucrurilor este unul dintre cele mai importante lucruri pe care le poți face în calitate de întreținător.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Documentația nu doar clarifică propria ta gândire, ci și ajută alți oameni să înțeleagă de ce ai nevoie sau ce aștepți, chiar înainte ca ei să întrebe.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Notând lucruri face mai ușor să spui nu când ceva nu se încadrează în domeniul tău. De asemenea face mai ușor pentru oameni să pășească înăuntru și să ajute. Nu știi niciodată cine ar putea citi sau folosi proiectul tău.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Chiar dacă nu folosești paragrafe complete, notarea bulinelor este mai bine decât să nu scrii nimic.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+Ține minte să-ți păstrezi documentația actualizată. Dacă nu ești capabil să faci asta mereu, șterge documentația ta expirată sau indică faptul că este expirată astfel încât contributorii să știe că actualizările sunt binevenite.
 
-### Write down your project's vision
+### Notează viziunea proiectului tău
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Începe prin a scrie scopurile proiectului tău. Adaugă-le la README-ul tău, sau creează un fișier separat numit VISION. Dacă există alte artefacte care ar putea ajuta, cum ar fi o foaie de parcurs a proiectului, fă-le publice și pe acestea.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+A avea o viziune clară, documentată te ține concentrat și te ajută să eviți „deriva obiectivelor” din cauza contribuțiilor altora.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+De exemplu, @lord a descoperit că având o viziune a proiectului l-a ajutat să-și dea seama pe care cereri să-și petreacă timpul. În calitate de nou întreținător, el a regretat că nu s-a lipit de scopul proiectului lui când a primit prima lui cerere de facilitate pentru [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  <p>
+    Am fumat-o. Nu am acordat efortul pentru a veni cu o soluție completă. În schimbul unei soluții neadecvate, îmi doresc să fi spus „Nu am timp pentru aceasta chiar acum, dar o să o adaug la lista pe termen lung de lucruri drăguțe de avut.”
+  </p>
+  <p>
+    <em>
+      I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Comunică-ți așteptările
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Regulile pot fi enervante când le scrii. Câteodată te-ai putea simți ca și cum faci politică pentru comportamentul altor oameni sau distrugi toată distracția.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Scrise și impuse corect, totuși, regulile bune împuternicesc întreținătorii. Ele te previn din a fi târât în a face lucruri pe care nu vrei să le faci.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Cei mai mulți oameni care ajung la proiectul tău nu știu nimic despre tine sau despre circumstanțele tale. Ei pot presupune că ești plătit să lucrezi pe el, în special dacă este ceva pe care ei îl folosesc în mod obișnuit și de care depind. Poate într-un punct tu depui mult timp în proiectul tău, dar acum ești ocupat cu un nou loc de muncă sau membru de familie.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Toate acestea sunt perfect OK! Doar asigură-te că ceilalți știu despre acestea.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Dacă întreținerea proiectului tău este part-time sau pur voluntară, fii sincer în legătură cu cât de mult timp ai. Acesta nu este același cu cât timp crezi tu că proiectul necesită, sau cât timp alții vor să cheltui tu.
 
-Here are a few rules that are worth writing down:
+Iată câteva reguli care merită notate:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* Cum o contribuție este analizată și acceptată (_Au nevoie de teste? Un șablon pentru probleme?_)
+* Tipurile de contribuții pe care le vei accepta (_Vrei ajutor doar la o anumită parte a codului tău?_)
+* Când este potrivit să urmezi (_de exemplu, „Puteți aștepta un răspuns de la un întreținător în 7 zile. Dacă nu ați auzit nimic până atunci, simțiți-vă liberi să bâzâiți firul de discuție.”_)
+* Cât de mult timp cheltui pe proiect (_de exemplu, „Cheltuim doar aproximativ 5 ore pe săptămână pe acest proiect”_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), și [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) sunt câteva exemple de proiecte cu reguli de bază pentru întreținători și contributori.
 
-### Keep communication public
+### Păstrează comunicarea publică
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Nu uita să documentezi interacțiunile tale, de asemenea. Oriunde poți, păstrează comunicarea despre proiectul tău publică. Dacă cineva încearcă să te contacteze în privat să discutați despre o cerere de facilitate sau o nevoie de asistență, direcționează-l politicos către un canal de comunicare public, cum ar fi o listă de email-uri sau un urmăritor de probleme.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Dacă te întâlnești cu alți întreținători, sau faci o decizie majoră în privat, documentează aceste conversații în public, chiar dacă înseamnă doar postarea notițelor tale.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+În acest mod, oricine se alătură comunității tale va avea acces la aceleași informații ca cineva care a fost acolo de ani de zile.
 
-## Learning to say no
+## Învățând să spui nu
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
 
@@ -164,7 +171,7 @@ Maybe someone in your community regularly submits contributions that don't meet 
 
 If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
 
-## Leverage your community
+## Mobilizarea comunității tale
 
 You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
 
@@ -210,7 +217,7 @@ The same applies to a user who really wants a solution that you simply don't hav
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
-## Bring in the robots
+## Cheamă roboții
 
 Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
 
@@ -252,7 +259,7 @@ However, if your standards are too complicated, they can increase the barriers t
 
 If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
 
-## It's okay to hit pause
+## Este OK să apeși pauză
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
 
@@ -278,6 +285,6 @@ Do your best to find support for your users and community while you're away from
 
 Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
 
-## Take care of yourself first!
+## Ai grijă de tine mai întâi!
 
 Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
