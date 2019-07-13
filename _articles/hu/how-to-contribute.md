@@ -77,32 +77,32 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
   </p>
 </aside>
 
-### Do you like planning events?
+### Szeretsz rendezvényt szervezni?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* Szervezz gyakorlati előadásokat vagy találkozókat a projektről, [ahogy @fzamperin csinálja a NodeSchool-nál](https://github.com/nodeschool/organizers/issues/406)
+* Szervezz a projektről konferenciát, ha szükséges
+* Segíts a közösség tagjainak megtalálni a megfelelő rendezvényeket és várj javaslatokat az előadások témájára
 
-### Do you like to design?
+### Szereted a grafikai tervezést?
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* Alakítsd át a megjelenést, hogy a projekt jobban áttekinthető legyen
+* Végez felhasználói igényfelmérést, hogy javítsd vagy finomítsd a projekt oldal navigációját vagy menürendszerét, [például ahogy a Drupal javasolja](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Állíts össze egy stílus útmutatót, hogy segíts a projektnek egy egységes vizuális tervezéssel, megjelenéssel
+* Készíts póló terveket vagy új logót, [ahogy a hapi.js fejlesztői tették](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### Szeretsz írni?
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* Írd és javítsd a projekt dokumentációit
+* Tarts karban egy példa könyvtárat a projekt használatáról
+* Indíts hírlevelet a projektről, vagy a levelező listáról készít összefoglalót
+* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Fordíts le a projekt dokumentációját
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  Komolyan: a \[dokumentáció\] ultra-fontos. A dokumentáció eddig is nagyszerű volt, és továbbra is a Babel legfontosabb része. Biztosan vannak még olyan bekezdések, amin lehetne még dolgozni és akár egy bekezdés hozzáadása is nagyon értékes.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["Részvételre való felhívás"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
