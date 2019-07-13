@@ -1,7 +1,7 @@
 ---
 lang: hu
 title: Hogyan lehet hozzájárulni a nyílt forráskódhoz
-description: Szeretnél hozzájárulni a nyílt forráskódhoz? Ez egy útmutató a nyílt forráskódú fejlesztésekben történő részvételhez, a kezdők és haladók számára.
+description: Szeretnél hozzájárulni a nyílt forráskódhoz? Ez egy útmutató a nyílt forráskódú fejlesztésekben történő részvételhez kezdők és haladók számára.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
