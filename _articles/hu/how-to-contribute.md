@@ -44,15 +44,15 @@ Alapértelmezés szerint minden nyílt forráskódú munka publikus, amit azt je
 
 A nyílt forráskód számos kihívást rejteget a vezetői és szervezői készségek gyakrolásában, úgy mint konfliktus megoldás, csapatszervezés és a munkák priorításának megállapítása.
 
-### It's empowering to be able to make changes, even small ones
+### Lehetőséged van változtatni, még ha kicsit is
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+Nem kell egy életen át tartó részvétel a nyílt forráskódhoz. Láttál már valaha egy elgépelést egy weboldalon, és kívántad már azt, hogy valaki bárcsak javítaná? Egy nyílt forráskódú projektben éppen ezt tudod megtenni. A nyílt forráskód segít abban, hogy az emberek a saját életüket irányítsák és azt, hogy hogyan alakítsák a világot a maguk örömére.
 
-## What it means to contribute
+## Mit jelent a hozzájárulás?
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+Ha új vagy a nyílt forráskódban, akkor a folyamat először félelmetes lehet. Hogyan találd meg a jó projektet? Mi van, ha nem jól kódolsz? Mi történik, ha valami nem működik?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Ne aggódj! Rengeteg módja van annak, hogy részt vegyél a nyílt forráskódú fejlesztésekben, és számos tipp segít abban, hogy a legtöbbet hozd ki magadból.
 
 ### You don't have to contribute code
 
