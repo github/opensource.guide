@@ -192,23 +192,23 @@ A nyílt forráskódú projektek eszközöket használnak a szervezett párbesz�
 
 ## Találd meg a projektedet!
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Most, hogy már tudod, hogy hogyan működnek a nyílt forráskódú projektek, itt az idő megtalálni azt, amelyben részt veszel!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Ha még sohasem vettél részt nyílt forráskódú fejlesztésben korábban, akkor fogadd meg John F. Kennedy volt amerikai elnök egyik tanácsát: _"Ne azt kérdezd, hogy az ország mit tud tenni érted – kérdezd azt, hogy te mit tehetsz az országért."_
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Hozzájárulás egy nyílt forráskódú projekthez bárhogy lehetséges, bármelyik projektben. Nem kell túlgondolni azt, hogy pontosan mi lesz az első hozzájárulásod, vagy azt, hogy az hogyan fog kinézni.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+Gondolkozz olyan projektben, amelyet már használsz, vagy használni akarsz. Azokban a projektekben, amelyekben aktívan részt veszel, magadra fogsz találni.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+Ezekben a projektekben, amikor azon veszed észre magad, hogy gondolkozol egy jobb vagy más megoldásban, ösztönösen fogsz cselekedni.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+A nyílt forráskód nem egy zártkörű klub; ugyanolyan emberek dolgoznak rajta, mint te. A "Nyílt Forráskód" csak egy érdekes kifejezés arra, amely a világon jelenlévő problémát próbálja kezelni.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+Talán épp a README-t olvasod és találsz egy rossz hivatkozást, vagy egy elírást. De az is lehet, hogy új felhasználó vagy és észreveszel valami hibát, vagy egy problémát, amit dokumentálni kellene. Ahelyett, hogy nem törődsz vele és továbblépsz, inkább kérj meg valakit, hogy javítsa, esetleg ajánld fel a segítséged. Ez az amiről a nyílt forráskód szól!
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28%-a az alkalmi résztvevőknek](https://www.igor.pro.br/publica/papers/saner2016.pdf) a nyílt forráskód dokumentációjához járul hozzá, mint például a elírás javítása, formázás, vagy fordítás.
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+Az alábbiakban találsz néhány oldalt, amelyek segítenek abban, hogy felfedezd és megtaláld az új projektedet:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
