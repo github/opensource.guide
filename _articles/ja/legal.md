@@ -143,7 +143,7 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
   </p>
 </aside>
 
-* **何をリリーススべきですか？：** [(ほぼ)すべて？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) もし法務部門が企業のオープンソース戦略を理解し、それに投資している場合は、あなたの努力を妨害するよりもむしろ助けとなってくれるでしょう。
+* **何をリリースすべきですか？：** [(ほぼ)すべて？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) もし法務部門が企業のオープンソース戦略を理解し、それに投資している場合は、あなたの努力を妨害するよりもむしろ助けとなってくれるでしょう。
 * **コンプライアンス：** たとえあなたの企業が1つもオープンソースプロジェクトをリリースしていないとしても、他の人のオープンソースソフトウェアを使っているはずです。 [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
 
 <aside markdown="1" class="pquote">
