@@ -157,38 +157,38 @@ Bármi más dolog, mint mondjuk egy elírás javítása olyan, mintha idegenekke
 
 Mielőtt vakon javasolnál valamit, próbálj elmélyedni a témában, hogy megértsd azt. Ha így csinálod, akkor nagyobb eséllyel figyelnek oda a véleményedre és javaslataidra.
 
-### Anatomy of an open source project
+### Egy nyílt forráskódú projekt anatómiája
 
-Every open source community is different.
+Minden nyílt forráskódú közösség más.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Éveket eltölteni ugyanazzal a nyílt forráskódú projekttel azt jelenti, hogy ismersz egy nyílt forráskódú projektet. Egy másik projekt esetén teljesen más fogalmakkal, viselkedési normákkal és kommunikációs módszerekkel találkozhatsz.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Ugyanakkor számos nyílt forráskódú projekt hasonló módon működik. Az eltérő közösségi szabályok vagy folyamatok megértése segít abban, hogy gyorsan alkalmazkodni tudj bármely új projekthez.
 
-A typical open source project has the following types of people:
+Egy tipikus nyílt forráskódú projekt esetén az alábbi szerepek vannak:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **Szerző:** Személy(ek), esetleg szervezet aki létrehozta a projektet
+* **Tulajdonos:** Személy(ek) akinek adminisztrációs joga van a szervezet vagy a nyílt forrás felett (nem mindig egyezik a Szerzővel a személye)
+* **Karbantartók:** Olyan résztvevők, akiknek felelőssége a projekt irányítása, az elképzelések formába öntése. (Ők lehetnek akár a Szerzői vagy a Tulajdonosai is a projektnek.)
+* **Közreműködők:** Bárki, aki hozzájárul valamivel a projekthez.
+* **Közösség tagjai:** Emberek, akik használják a projektet. Aktívak lehetnek a vitákban, vagy jelezhetik észrevételeiket a projekttel kapcsolatban.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+A nagyobb projekteknek lehetnek olyan albizottságai vagy munkacsoportjai is, amelyek különböző feladatokra összpontosítanak, mint például eszközök, prioritás, közösségi moderálás és rendezvényszervezés. Ezt az információt megtalálod a projekt honlapján a "csapat" oldalon, vagy a működési szabályok dokumentációi között.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+A projektnek dokumentációja is van. Ezek a fájlok általában a forráskód legfelső szintjén vannak felsorolva.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** Alapértelmezés szerint minden nyílt forráskódú projektnek kell rendelkeznie egy [nyílt forráskód licenccel](https://choosealicense.com). Ha a projektnek nincs ilyen licence, akkor az nem nyílt forráskód.
+* **README:** A README egy használati útmutató a közösség új tagjainak. Elmagyarázza, hogy miért hasznos a projekt és hogy hogyan lehet használni.
+* **CONTRIBUTING:** Míg a README segíti az embereket a használatban, addig a CONTRIBUTING a projektben való részvétel módját dokumentálja. Elmagyarázza, hogy mivel járulhatsz hozzá a projekthez és hogyan működnek a folyamatok. Bár nem mindenprojektnek van ilyen dokumentációja, a jelenléte azt mutatja, hogy számítanak a részvételedre és a hozzájárulásodra.
+* **CODE_OF_CONDUCT:** Magatartási kódex, amely meghatározza a résztvevők magatartásának alapszabályait és elősegíti a barátságos környezet kialakítását. Bár nem mindenprojektnek van ilyen dokumentációja, a jelenléte azt mutatja, hogy barátságos projekt, amely számít a részvételedre.
+* **Egyéb dokumentációk:** Lehetnek további dokumentációk, különösen nagyobb projektek esetén, mint például oktató anyagok, fejlesztési útmutatók, irányítási szabályok.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+A nyílt forráskódú projektek eszközöket használnak a szervezett párbeszédekhez. A korábbi anyagok elolvasása jó képet ad arról, hogyan gondolkodik és működik a közösség.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Issue tracker:** A hely, ahol az emberek a projekttel kapcsolatos problémákat megbeszélik.
+* **Pull requests:** A hely, ahol az emberek megvitatják és áttekintik a folyamatban lévő változásokat.
+* **Internetes fórumok vagy levelező listák:** Néhány projekt használhatja ezen csatornákat is a témák átbeszélésére (például, _"Hogyan tudom...?"_ vagy _"Mit gondolsz arról, hogy...?"_ című témát indít a _hiba jelentés,_ vagy _új funkció létrehozása_ helyett). Mások minden beszélgetést az _Issue tracker_-en keresztül kezelnek.
+* **Csevegő csatorna:** Néhány projekt használ csevegő csatornákat (mint amilyen a Slack vagy az IRC) általános beszélgetésre, együttműködésre és gyors üzenet váltásra.
 
 ## Finding a project to contribute to
 
