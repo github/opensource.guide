@@ -190,7 +190,7 @@ A nyílt forráskódú projektek eszközöket használnak a szervezett párbesz�
 * **Internetes fórumok vagy levelező listák:** Néhány projekt használhatja ezen csatornákat is a témák átbeszélésére (például, _"Hogyan tudom...?"_ vagy _"Mit gondolsz arról, hogy...?"_ című témát indít a _hiba jelentés,_ vagy _új funkció létrehozása_ helyett). Mások minden beszélgetést az _Issue tracker_-en keresztül kezelnek.
 * **Csevegő csatorna:** Néhány projekt használ csevegő csatornákat (mint amilyen a Slack vagy az IRC) általános beszélgetésre, együttműködésre és gyors üzenet váltásra.
 
-## Finding a project to contribute to
+## Találd meg a projektedet!
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
