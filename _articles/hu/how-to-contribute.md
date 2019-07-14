@@ -143,19 +143,19 @@ Például:
 
 Még akkor is ha szoftverfejlesztő vagy, a dokumentációs projektek kidolgozása segíthet a nyílt forráskódban történő elindulásban. Kevésbé ijesztő, ha olyan projektben veszel részt először, amelyek nem tartalmaznak kódot és másokkal való együttműködés folyamán alakul ki az önbizalmad és nő a tapasztalatod.
 
-## Orienting yourself to a new project
+## Kezdetek egy új projektben
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  Ha megnyitsz egy hibakövető rendszert és a dolgok furának tűnnek, akkor ezzel nem vagy egyedül. Ezek megértéséhez szükséges egy előzetesen feltételezett tudás a projektről, de ebben az emberek tudnak segíteni, irányt mutatni, csak kérdezned kell.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["Hogyan vegyél részt Nyílt Forráskódú projektben"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+Bármi más dolog, mint mondjuk egy elírás javítása olyan, mintha idegenekkel állnál le beszélgetni. Ha elkezdesz a lámákról beszélni, miközben ők elmélyedt párbeszédet folytatnak az aranyhalakról, akkor lehet kicsit furán fognak rád nézni.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+Mielőtt vakon javasolnál valamit, próbálj elmélyedni a témában, hogy megértsd azt. Ha így csinálod, akkor nagyobb eséllyel figyelnek oda a véleményedre és javaslataidra.
 
 ### Anatomy of an open source project
 
