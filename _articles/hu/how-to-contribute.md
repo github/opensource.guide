@@ -20,7 +20,7 @@ related:
   </p>
 </aside>
 
-A nyílt forráskódhoz való hozzájárulás a tanulás, a tanítás és a tapasztalatok szerzésének a legjobb útja, bármilyen jártasság esetén, amit csak elképzelhetsz.
+A nyílt forráskódhoz való hozzájárulás a tanulás, a tanítás és a tapasztalatok megszerzésének a legjobb útja bármiben, amit csak el tudsz képzelni.
 
 Miért járulnak hozzá az emberek a nyílt forráskódhoz? Rengeteg oka van!
 
@@ -30,7 +30,7 @@ Kódolás, felhasználói felület tervezése, grafikai tervezés, írás vagy a
 
 ### Találkozz hasonló érdeklődésű emberekkel
 
-A nyílt forráskódú projektek meleg, barátságos közösségek, ahová évek óta visszatérnek az emberek. Sokan egy egész életen át tartó barátságot kötnek a nyílt forráskódú részvételük révén, függetlenül attól, hogy konferenciákon vagy késő esti online beszélgetéseken ismerkednek-e meg.
+A nyílt forráskódú projektek meleg, barátságos közösségek, ahová évek múlva is visszatérnek az emberek. Sokan egy egész életen át tartó barátságot kötnek a nyílt forráskódú részvételük révén, függetlenül attól, hogy konferenciákon vagy késő esti online beszélgetéseken ismerkednek-e meg.
 
 ### Keress mentorokat és taníts másokat
 
@@ -42,11 +42,11 @@ Alapértelmezés szerint minden nyílt forráskódú munka publikus, amit azt je
 
 ### Emberi készségek fejlesztése
 
-A nyílt forráskód számos kihívást rejteget a vezetői és szervezői készségek gyakorlásában, úgy mint konfliktus megoldás, csapatszervezés és a munkák prioritásának megállapítása.
+A nyílt forráskód számos kihívást tartogat a vezetői és szervezői készségek gyakorlásában, úgy mint konfliktus megoldás, csapatszervezés és a munkák prioritásának megállapítása.
 
 ### Lehetőséged van változtatni, még ha kicsit is
 
-Nem kell egy életen át tartó részvétel a nyílt forráskódhoz. Láttál már valaha egy elgépelést egy weboldalon, és kívántad már azt, hogy valaki bárcsak javítaná? Egy nyílt forráskódú projektben éppen ezt tudod megtenni. A nyílt forráskód segít abban, hogy az emberek a saját életüket irányítsák és azt, hogy hogyan alakítsák a világot a maguk örömére.
+Nem kell egy életen át tartó részvétel a nyílt forráskódhoz. Láttál már valaha egy elgépelést egy weboldalon, és kívántad már azt, hogy valaki bárcsak kijavítaná? Egy nyílt forráskódú projektben éppen ezt tudod megtenni. A nyílt forráskód segít abban, hogy az emberek a saját életüket irányítsák és azt, hogy hogyan alakítsák a világot a maguk örömére.
 
 ## Mit jelent a hozzájárulás?
 
@@ -66,12 +66,12 @@ Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programo
   </p>
 </aside>
 
-Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való részvételnek vagy hogy találkozz közösségi tagokkal az, hogy más jellegű hozzájárulásod van a projekthez. Ezeknek a kapcsolatoknak a kiépítése lehetőséget ad arra, hogy a projekt egyéb részein dolgozz.
+Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való részvételnek vagy hogy találkozz közösségi tagokkal az, hogy más jellegű hozzájárulásod van a projekthez. Ezeknek a kapcsolatoknak a kiépítése lehetőséget teremt arra, hogy a projekt egyéb részein dolgozz.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
   Az első kapcsolatom a Python fejlesztői csapattal (python-dev) az volt, amikor a levelező listára küldtem 2002. június 17.-én azt, hogy elfogadták a javításom.
-  Gyorsan megtaláltam a nyílt forráskódban a hibákat és így elhatároztam, hogy kezelni fogom a csoport levelezési listáját. Nagyszerű lehetőséget adtak arra, hogy az adott témában a kérdéseket tisztázzuk, de még fontosabb, hogy lehetőségem lett felhívni a figyelmet arra, ha valaki rámutatott egy hibára, amit javítani kellett.
+  Gyorsan megtaláltam a nyílt forráskódban a hibákat és így elhatároztam, hogy kezelni fogom a csoport levelezési listáját. Nagyszerű lehetőséget biztosítottak, hogy az adott témában a kérdéseket tisztázzuk, de még fontosabb, hogy lehetőségem lett felhívni a figyelmet arra, ha valaki rámutatott egy olyan hibára, amit javítani kellett.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Fenntartói Történetek"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -80,7 +80,7 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 ### Szeretsz rendezvényt szervezni?
 
 * Szervezz gyakorlati előadásokat vagy találkozókat a projektről, [ahogy @fzamperin csinálja a NodeSchool-nál](https://github.com/nodeschool/organizers/issues/406)
-* Szervezz a projektről konferenciát, ha szükséges
+* Ha szükséges, akkor szervezz a projektről konferenciát
 * Segíts a közösség tagjainak megtalálni a megfelelő rendezvényeket és várj javaslatokat az előadások témájára
 
 ### Szereted a grafikai tervezést?
@@ -100,7 +100,7 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Komolyan: a \[dokumentáció\] ultra-fontos. A dokumentáció eddig is nagyszerű volt, és továbbra is a Babel legfontosabb része. Biztosan vannak még olyan bekezdések, amin lehetne még dolgozni és akár egy bekezdés hozzáadása is nagyon értékes.
+  Komolyan: a \[dokumentáció\] rendkívül fontos. A dokumentáció eddig is nagyszerű volt, és továbbra is a Babel legfontosabb része. Biztosan vannak még azonban olyan bekezdések, amin lehetne még dolgozni és akár egy bekezdés hozzáadása is nagyon értékes munka.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Részvételre való felhívás"](https://github.com/babel/babel/issues/1347)
   </p>
