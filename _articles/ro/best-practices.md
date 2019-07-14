@@ -33,7 +33,7 @@ Documentația nu doar clarifică propria ta gândire, ci și ajută alți oameni
 
 Notând lucruri face mai ușor să spui nu când ceva nu se încadrează în domeniul tău. De asemenea face mai ușor pentru oameni să pășească înăuntru și să ajute. Nu știi niciodată cine ar putea citi sau folosi proiectul tău.
 
-Chiar dacă nu folosești paragrafe complete, notarea bulinelor este mai bine decât să nu scrii nimic.
+Chiar dacă nu folosești paragrafe complete, notarea bulinelor este mai bună decât să nu scrii nimic.
 
 Ține minte să-ți păstrezi documentația actualizată. Dacă nu ești capabil să faci asta mereu, șterge documentația ta expirată sau indică faptul că este expirată astfel încât contributorii să știe că actualizările sunt binevenite.
 
@@ -48,7 +48,7 @@ De exemplu, @lord a descoperit că având o viziune a proiectului l-a ajutat să
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    Am fumat-o. Nu am acordat efortul pentru a veni cu o soluție completă. În schimbul unei soluții neadecvate, îmi doresc să fi spus „Nu am timp pentru aceasta chiar acum, dar o să o adaug la lista pe termen lung de lucruri drăguțe de avut.”
+    Am fumat-o. Nu am acordat efortul pentru a veni cu o soluție completă. În schimbul unei soluții neadecvate, îmi doresc să fi spus „Nu am timp pentru aceasta chiar acum, dar o să o adaug la lista pe termen lung de lucruri drăguțe de făcut.”
   </p>
   <p>
     <em>
