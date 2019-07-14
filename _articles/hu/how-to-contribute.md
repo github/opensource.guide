@@ -131,17 +131,17 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 * Írj útmutatót arról, hogyan kell a projektben dolgozni
 * Ajánld fel a segítségedet a kódolásban résztvevőnek, [mint ahogy @ereichert csinálta @bronzdoc esetén a Rust projektben](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### Nem csak szoftver projekten tudsz dolgozni!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+Bár a "nyílt forráskód" gyakran szoftverre utal, bármi másban is részt tudsz venni. Vannak könyvek, receptek, válogatott listák és útmutatók, amelyeket nyílt forráskódú projektként fejlesztenek.
 
-For example:
+Például:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus karbantart egy [listát a nagyszerű dolgokat listázó oldalakról](https://github.com/sindresorhus/awesome)
+* @h5bp kezeli [a listát a lehetséges munkainterjú kérdésekről](https://github.com/h5bp/Front-end-Developer-Interview-Questions) a front-end fejlesztő jelölteknek
+* @stuartlynn és @nicole-a-tesla készített egy [gyűjteményt az északi madarak érdekességeiről](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+Még akkor is ha szoftverfejlesztő vagy, a dokumentációs projektek kidolgozása segíthet a nyílt forráskódban történő elindulásban. Kevésbé ijesztő, ha olyan projektben veszel részt először, amelyek nem tartalmaznak kódot és másokkal való együttműködés folyamán alakul ki az önbizalmad és nő a tapasztalatod.
 
 ## Orienting yourself to a new project
 
