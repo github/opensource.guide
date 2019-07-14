@@ -91,119 +91,144 @@ Dacă te întâlnești cu alți întreținători, sau faci o decizie majoră în
 
 ## Învățând să spui nu
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Ai notat lucruri. În mod normal, toată lumea ți-ar citi documentația, dar în realitate, va treui să reamintești celorlalți că aceste cunoștințe există.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Având totul scris, totuși, ajută la depersonalizarea situațiilor când trebuie să-ți impui regulile.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+A spune nu nu este distractiv, dar _„Contribuția ta nu se potrivește cu criteriile acestui proiect”_ se simte mai puțin personal decât _„Nu-mi place contribuția ta”_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+A spune nu se aplică la multe situații peste care vei da în calitate de întreținător: cereri de facilități care nu se încadrează în domeniu, cineva care deraiază o discuție, făcând muncă nefolositoare pentru alții.
 
-### Keep the conversation friendly
+### Păstrează conversația prietenoasă
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+Unul dintre cele mai importante locuri unde vei practica spunerea de nu este asupra cozii tale de probleme și cereri de pull. În calitate de întreținător de proiect, vei primi inevitabil sugestii pe care nu dorești să le accepți.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Poate contribuția schimbă domeniul proiectului tău sau nu se potrivește cu viziunea ta. Poate ideea este bună, dar implementarea este slabă.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Indiferent de motiv, este posibil să gestionați cu mult tact contribuțiile care nu se ridică la standardele proiectului tău.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Dacă primești o contribuție pe care nu vrei să o accepți, prima ta reacție ar putea fi să o ignori sau să pretinzi că nu ai văzut-o. Făcând astfel ar putea răni sentimentele celeilalte persoane și chiar să demotiveze alți potențiali contributori din comunitatea ta.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  <p>
+    Cheia pentru a gestiona asistența pentru proiecte cu sursă deschisă la scară mare este să ții problemele în mișcare. Încearcă să eviți a avea probleme în stagnare. Dacă ești un dezvoltator iOS știi cât de frustrant poate fi să trimiți radare. Ai putea primi răspuns 2 ani mai târziu, și ți se spune să încerci din nou cu ultima versiune iOS.
+  </p>
+  <p>
+    <em>
+      The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Nu lăsa o contribuție nedorită deschisă pentru că te simți vinovat sau dorești să fii drăguț. În timp, problemele la care nu s-a răspuns și PR-urile vor face lucrul pe proiectul tău să se simtă cu foarte mult mai stresant și mai intimidant.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Este mai bine să închizi imediat contribuțiile pe care știi că nu vrei să le accepți. Dacă proiectul tău suferă deja de restanțe mari, @steveklabnik are sugestii pentru [cum să triezi problemele eficient](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+În al doilea rând, ignorarea contribuțiilor trimite un semnal negativ către comunitatea ta. A contribui la un proiect poate fi intimidant, în special dacă este prima dată a cuiva. Chiar dacă nu accepți contribuția ei, consideră persoana din spatele ei și mulțumește-i pentru interesul ei. Este un mare compliment!
 
-If you don't want to accept a contribution:
+Dacă nu dorești să accepți o contribuție:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* **Mulțumește-i** pentru contribuția ei
+* **Explică de ce nu se încadrează** în domeniul proiectului, și oferă sugestii clare de îmbunătățire, dacă poți. Fii bun, dar ferm.
+* **Leagă către documentația relevantă**, dacă o ai. Dacă observi cereri repetate de lucruri pe care nu vrei să le accepți, adaugă-le în documentația ta pentru a evita să te repeți.
+* **Închide cererea**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+Nu ar trebui să ai nevoie de mai mult de 1-2 enunțuri pentru a răspunde. De exemplu, când un utilizator al [celery](https://github.com/celery/celery/) a raportat o eroare legată de Windows, @berkerpeksag [a răspuns cu](https://github.com/celery/celery/issues/3383):
 
-![Celery screenshot](/assets/images/best-practices/celery.png)
+![captură de ecran Celery](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Dacă gândul de a spune „nu” te îngrozește, nu ești singur. După cum @jessfraz [a spus](https://blog.jessfraz.com/post/the-art-of-closing/):
 
+> Am discutat cu întreținători din câteva proiecte diferite cu sursă deschisă, Mesos, Kubernetes, Chromium, și ei toți cad de acord că una dintre cele mai grele părți de a fi un întreținător este să spui „Nu” la patch-uri pe care nu le vrei.
+> 
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Nu te simți vinovat în legătură cu a nu vrea să accepți contribuția cuiva. Prima regulă a open source, [după](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Nu este temporar, da este pentru totdeauna.”_ În timp ce a empatiza cu entuziasmul altei persoane este un lucru bun, a respinge o contribuție nu este același lucru cu a respinge persoana din spatele ei.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+În cele din urmă, dacă o contribuție nu este destul de bună, nu ai nicio obligație să o accepți. Fii amabil și sensibil când oameni contribuie la proiectul tău, dar acceptă doar schimbări despre care chiar crezi că vor face proiectul tău mai bun. Cu cât mai des practici a spune nu, cu atât devine mai ușor. Promit.
 
-### Be proactive
+### Fii proactiv
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Pentru a reduce în primul rând volumul de contribuții nedorite, explică procesul proiectului tău pentru trimiterea și acceptarea contribuțiilor în ghidul tău de contribuire.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Dacă tu primești prea multe contribuții de calitate slabă, cere contributorilor să facă puțină muncă înainte, de exemplu:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Completează un șablon/o listă de verificare la o problemă sau un PR
+* Deschide o problemă înainte de a trimite un PR
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Dacă ei nu îți urmează regulile, închide problema imediat și fă trimitere către documentația ta.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+În timp ce această abordare se poate simți necuviincioasă la început, fiind proactiv este de fapt bine pentru ambele părți. Aceasta reduce șansele ca cineva să pună multe ore pierdute de muncă într-o cerere de pull pe care nu o vei accepta. Și îți face volumul de muncă mai ușor de gestionat.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  <p>
+    În mod ideal, explică-le direct și într-un fișier CONTRIBUTING.md cum pot obține în viitor o indicație mai bună despre ce ar fi sau nu ar fi acceptat înainte ca ei să înceapă munca.
+  </p>
+  <p>
+    <em>
+      Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Uneori, când spui nu, contributorul tău potențial ar putea să se supere sau să-ți critice decizia. Dacă comportamentul lui devine ostil, [ia măsuri să dezamorsezi situația](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) sau chiar să-l înlături din comunitatea ta, dacă nu dorește să colaboreze constructiv.
 
-### Embrace mentorship
+### Îmbrățișează mentoratul
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Poate cineva din comunitatea ta trimite în mod regulat contribuții care nu respectă standardele proiectului tău. Poate fi frustrant pentru ambele părți să treacă în mod repetat prin respingeri.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Dacă vezi că cineva este entuziast în legătură cu proiectul tău, dar are nevoie de un pic de finisare, fii răbdător. Explică în mod clar în fiecare situație de ce contribuția lui nu respectă așteptările proiectului. Încearcă să-l trimiți la o sarcină mai ușoară sau mai puțin ambiguă, cum ar fi o problemă marcată _„good first issue,”_ pentru a-l obișnui cu situații noi. Dacă ai timp, consideră să-l mentorezi prin prima lor contribuție, sau găsește pe altcineva din comunitatea ta care ar putea fi doritor să-l mentoreze.
 
 ## Mobilizarea comunității tale
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Nu trebuie să faci totul de unul singur. Comunitatea proiectului tău există cu un motiv! Chiar dacă nu ai încă o comunitate activă de contributori, dacă ai mulți utilizatori, pune-i la muncă.
 
-### Share the workload
+### Împarte volumul de muncă
 
-If you're looking for others to pitch in, start by asking around.
+Dacă ești în căutarea altora să pășească înăuntru, începe prin a întreba prin jur.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Când vezi contributori noi făcând contribuții repetate, recunoaște munca lor oferind mai multă responsabilitate. Documentează cum alții pot crește în roluri de conducere dacă doresc.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+Încurajându-i pe alții să [împartă proprietatea proiectului](../building-community/#share-ownership-of-your-project) poate reduce foarte mult propriul tău volum de muncă, după cum @lmccart a descoperit pe proiectul ei, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  <p>
+    Spuneam „Da, oricine poate fi implicat, nu trebuie să ai multă expertiză cu programarea [...].” Am avut oameni semnând să vină [la un eveniment] și atunci a fost când mă întrebam cu adevărat: este aceasta adevărat, ceea ce spuneam? Vor fi aproape 40 de oameni care vin, și nu este ca și cum aș putea sta cu fiecare dintre ei...Dar oamenii au venit împreună, și chiar a funcționat cumva. De îndată ce o persoana a reușit, ea și-a putut învăța aproapele.
+  </p>
+  <p>
+    <em>
+      I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Dacă trebuie să renunți la proiectul tău, fie ca pauză sau permanent, nu este nicio rușine în a cere altcuiva să-l preia pentru tine.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Dacă alți oameni sunt entuziaști în legătură cu direcția lui, dă-le permisiunea de a face commit sau predă controlul în mod formal altcuiva. Dacă cineva a bifurcat proiectul tău și îl menține activ altundeva, consideră legarea către copie din proiectul tău original. Este minunat că atât de mulți oameni vor ca proiectul tău să trăiască!
 
-@progrium [found that](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [a găsit că](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentarea viziunii pentru proiectul său, [Dokku](https://github.com/dokku/dokku), a ajutat aceste scopuri să trăiască mai departe chiar și după ce el a ieșit din proiect:
 
+> Am scris o pagină de wiki descriind ce îmi doream și de ce îmi doream acele lucruri. Din anumite motive a venit ca o surpriză că întreținătorii au început să miște proiectul în acea direcție! S-a întâmplat exact cum aș fi făcut-o eu? Nu întotdeauna. Dar totuși a adus proiectul mai aproape de ceea ce scrisesem.
+> 
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
-### Let others build the solutions they need
+### Lasă-i pe ceilalți să construiască soluțiile de care au nevoie
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Dacă un contributor potențial are o părere diferită despre ce ar trebui să facă proiectul tău, poate ai vrea să-i încurajezi cu blândețe să lucreze pe propria lor copie.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Copierea proiectului nu trebuie să fie un lucru rău. Fiind capabil să copiezi și să modifici proiectele este unul dintre cele mai bune lucruri despre open source. Încurajând membrii comunității tale să lucreze pe propria lor copie poate furniza ieșirea creativă de care ei au nevoie, fără să intre în conflict cu viziunea proiectului tău.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
