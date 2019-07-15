@@ -451,28 +451,28 @@ Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvet�
   </p>
 </aside>
 
-### Opening an issue
+### Hibajegy nyitása
 
-You should usually open an issue in the following situations:
+Gyakran fogsz hibajegyet nyitni az alábbi helyzetekben:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Hiba jelentése, amelyet nem tudsz megoldani egymagad
+* Magasszintű probléma vagy téma, esetleg ötlet megbeszélése (például: közösség, vízió vagy szabályok)
+* Új funkció javasolása, vagy más projekt célok, ötletek
 
-Tips for communicating on issues:
+Tippek a jó párbeszédhez:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **Ha nyitsz egy problémát, amit meg szeretnél oldani,** kommenteld azt meg, így más is tudja, hogy foglalkozol vele. Ezzel a megoldással kisebb eséllyel nyitnak még egy hibajegyet ugyanerre a problémára, így nem kell duplán dolgozni másokkal.
+* **Ha a hibajegy már régóta nyitott,** akkor lehetséges, hogy már máshol azt fejlesztik, vagy már meg van oldva, így célszerű egy kommentben megkérdezni az állapotát, mielőtt elkezdesz rajta dolgozni.
+* **Ha nyitottál egy problémát és később magadtól rájöttél a megoldásra,** akkor kommentezz, hogy más is megismerje azt, majd zárd le a hibajegyet. Az eredmény dokumentálása nagyon fontos a projektnek.
 
 ### Beolvasztási kérelem megnyitása
 
-Valószínűleg gyakran nyítsz beolvasztási kérelmet (Pull Request) a következő esetekben:
+Valószínűleg gyakran nyitsz beolvasztási kérelmet (Pull Request) a következő esetekben:
 
 * Triviális javítások küldése (például egy gépelési hiba, hibás link vagy nyilvánvaló hiba)
 * Olyan feladaton történő munka elkezdése, amelyet már a közösség kitárgyalt, átbeszélt és tisztáztad a kérdéseket
 
-A beolvasztási kérelem nem feltétlen jelent befejezett munkát. Gyakran jobb korán megnyitni ezt, így mások megfigyelhetik és visszajelzéseket adhatnak róla. Csak jelöld meg "WIP" (Work in Progress) jelzéssel a tárgy soron. Ezekután bármikor, szabadon adhatsz hozzá új kódot (commit és push).
+A beolvasztási kérelem nem feltétlen jelent befejezett munkát. Gyakran jobb korán megnyitni ezt, így mások megfigyelhetik és visszajelzéseket adhatnak róla. Csak jelöld meg "WIP" (Work in Progress) jelzéssel a tárgy soron. Ezek után bármikor, szabadon adhatsz hozzá új kódot (commit és push).
 
 Ha a projekt a GitHub-on van, akkor a következő képpen kell beolvasztási kérelmet benyújtani:
 
@@ -483,40 +483,40 @@ Ha a projekt a GitHub-on van, akkor a következő képpen kell beolvasztási ké
 * **Teszteld a változtatásokat!** Mindig futtass le a meglévő teszteket a kódodon, vagy írj újakat ha szükséges. Függetlenül a tesztektől bizonyosodj meg arról, hogy a módosításod nem rontja-e el a projektet.
 * **A projekt stílusában vegyél részt benne** a legjobb tudásod szerint. Ez jelentheti azt, hogy más sorbehúzást kell használni a szövegben, lehet hogy a projekt használ pontosvesszőt, de te nem szoktál, vagy másként írják a kód kommenteket – akárhogy is legyen, könnyebb a karbantartóknak a kódot összefésülni (merge), a későbbiekben karbantartani és megérteni, ha egységes a projekt.
 
-Ha ez lesz az első beolvasztási kérésed (Pull Request), akkor nézd ezt meg előtte: [Make a Pull Request](http://makeapullrequest.com/), amelyben @kentcdodds egy részletes video anyagot készített. Szintén gyakorlati útmutató a [First Contributions](https://github.com/Roshanjossey/first-contributions) amelyet @Roshanjossey készített.
+Ha ez lesz az első beolvasztási kérésed (Pull Request), akkor nézd ezt meg előtte: [Make a Pull Request](http://makeapullrequest.com/), amelyben @kentcdodds egy részletes videó anyagot készített. Szintén gyakorlati útmutató a [First Contributions](https://github.com/Roshanjossey/first-contributions) amelyet @Roshanjossey készített.
 
-## What happens after you submit a contribution
+## Mi történik miután beküldtem a kész beolvasztási kérelmemet?
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Megcsináltad! Gratulálunk, a nyílt forráskód résztvevője lettél. Reméljük ezt az első lépést, majd még számos követi.
 
-After you submit a contribution, one of the following will happen:
+Miután beküldted a végleges hozzájárulásod a projekthez a következők történhetnek:
 
-### 😭 You don't get a response.
+### 😭 Nem kapsz választ
 
-Hopefully you [checked the project for signs of activity](#egy-ellenőrző-lista-mielőtt-részt-vennél-a-projektben) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Reméljük [ellenőrizted a projekt aktivitását](#egy-ellenőrző-lista-mielőtt-részt-vennél-a-projektben) mielőtt csatlakoztál hozzá. Még egy aktív projekt esetén is előfordulhat, hogy nem kap választ azonnal a résztvevő.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Ha nem kapsz válasz egy hét alatt sem, akkor udvariasan, ugyanazon a szálon kérj meg valakit, hogy nézze át a munkádat, ez így elfogadható. Ha tudod, ki lenne ez a személy akkor meg is említheted őt a @-mention forma használatával.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**Soha** ne követlenül, privát csatornán lépj kapcsolatba ezzel a személlyel; emlékezz, a publikus kommunikáció az egyik fontos alapja a nyílt forráskódnak.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Ha az udvarias kérésedre sem reagált senki, akkor lehet, hogy soha nem is fog. Ez lehangoló lehet, de ne add fel, mindenkivel megtörténhet! Számos oka lehet annak, hogy nem kaptál választ, mint például magán problémák az életben, amelyet nem mindig lehet kontrollálni. Próbálj meg másik projektet találni, vagy más módon hozzájárulni a projekthez. Ez egy jó példa arra, hogy miért ne tegyél bele túl sok munkát, mielőtt a közösség többi tagja nem reagál az ötletedre.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Valaki módosítást kér a munkádon
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+Általános dolog az, hogy valaki módosítást kér a munkádon, amely lehet egy tisztázó kérdés, vagy egy kód módosítási igény.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Amikor valaki ilyet kér, reagálj rá, hiszen vette a fáradtságot és időt áldozott rá, hogy a munkádat áttekintse. Nagyon rossz gyakorlat az, ha beolvasztási kérelmedet leadtad és utána nem foglalkozol már vele. Ha nem tudod, hogy a kérést hogyan teljesíthetnéd, akkor kutass, olvass és ha szükséges kérdezz, vagy kérj segítséget.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Ha már nincs többé időd, hogy a problémán dolgozz, akkor jelezd a karbantartók felé, hogy tudják ezt, majd valaki talán örömmel átveszi a munkát.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Nem fogadták el a munkád
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+A munkádat végül elfogadják vagy nem. Remélhetőleg nem tettél már bele túl sok munkát. Ha nem vagy benne biztos, hogy miért utasították el a hozzájárulásodat, nyugodtan kérdezz és tisztázd az okokat. De végül mindig tartsd tiszeletben a döntést! Ne vitatkozz feleslegesen és ne légy ellenséges! Bármikor megteheted, hogy elágaztatod a projektet (fork) és a saját verziódon dolgozol, ha nem értesz egyet.
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Elfogadták a munkád
 
-Hooray! You've successfully made an open source contribution!
+Hurrá! Sikresen hozzájárultál a nyílt forráskódhoz!
 
-## You did it!
+## Megcsináltad!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Legyen szó az első nyílt forráskódú munkádról, vagy arról hogy új módját keresed a hozzájárulásnak, reméljük adtunk egy kis inspirációt a cselekvéshez. Még ha nem is fogadták el a hozzájárulásodat, ne feledj el köszönetet mondani a karbantartóknak, hogy energiát szántak rád és a munkádra. A nyílt forráskódot épp olyan emberek alakítják mint te: egy probléma, egy beolvasztási kérés (Pull Request), néhány komment, vagy épp a siker öröme.
