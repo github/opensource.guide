@@ -255,7 +255,7 @@ Nézd meg a közösség aktivitását a _master_ ágon. A GitHub-on ezeket az in
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  Milyen gyakran módosítják a kódot a résztvevők? A GitHub-on, a képernyő felsőrészén a _"Commits"_ linkre kliekkentve ezt eléred.
+  Milyen gyakran módosítják a kódot a résztvevők? A GitHub-on, a képernyő felsőrészén a _"Commits"_ linkre klikkentve ezt eléred.
   </label>
 </div>
 
@@ -411,7 +411,7 @@ Mielőtt hibát jelzel, vagy tartalom beolvasztást kérelmezel, vagy esetleg k�
 
 **Legyen nyilvános a kommunikációd!** Bár csábító, de a karbantartókat ne érd el privát csatornán keresztül kivéve, ha érzékeny információt (biztonsági incidens, komoly viselkedési szabályok megsértése) kell megosztanod. Ha a kommunikációd publikus, akkor több ember tud tanulni belőle, mindenkinek hasznára válik. A publikus megbeszélések már önmagukban is hozzájárulások a projekthez.
 
-> 😇 _(megjegyzésként:) "@-karbantartó Szia! Mi legyen ennek a Pull Requestnek a sorsa?"_
+> 😇 _(megjegyzésként:) "@-karbantartó Szia! Mi legyen ennek a Pull Request-nek a sorsa?"_
 >
 > 😢 _(emailként:) "Szia! Sajnálom, hogy a levelemmel zavarlak, de kíváncsi lennék rá, hogy van-e esély a Pull Requestem beolvasztására?"_
 
@@ -431,17 +431,17 @@ Mielőtt hibát jelzel, vagy tartalom beolvasztást kérelmezel, vagy esetleg k�
 
 ### Összefoglalás
 
-Mielőtt bármibe belekezdenél, győződjön meg arról, hogy az ötletedet már nem vitatták-e meg máshol. Nézzd meg a projekt README-jét, a nyitott és lezárt kérdéseket, a levelezőlistát és a Stack Overflow oldalt. Nem kell órákat töltened azzal, hogy átnézz mindent, de egy gyors keresés néhány kulcsszóra nem tart semeddig.
+Mielőtt bármibe belekezdenél, győződjön meg arról, hogy az ötletedet már nem vitatták-e meg máshol. Nézd meg a projekt README-jét, a nyitott és lezárt kérdéseket, a levelezőlistát és a Stack Overflow oldalt. Nem kell órákat töltened azzal, hogy átnézz mindent, de egy gyors keresés néhány kulcsszóra nem tart semeddig.
 
-Ha nem találod meg a felvetést sehol, akkor mehetsz tovább. Ha a projekt a GitHubon van, akkor nyithatsz egy hibajegyet vagy létrehozhatsz egy beolvasztási kérést a módosított kód alapján:
+Ha nem találod meg a felvetést sehol, akkor mehetsz tovább. Ha a projekt a GitHub-on van, akkor nyithatsz egy hibajegyet vagy létrehozhatsz egy beolvasztási kérést a módosított kód alapján:
 
 * **Issues** (hiba, észrevétel) olyanok mint egy párbeszéd, vagy egy megbeszélés
 * **Pull requests** (beolvasztási kérelem) szolgál a munka megkezdésére
-* **Az egyszerű kommunikáció,** segít tisztázni a kérdéseket, vagy a megoldások mikéntjét, próbálj kérdezni a Stack Overflow oldalon, IRC, Slack, vagy egyb rendelkezésre álló csvegő csatornán, ha van ilyen a projektben
+* **Az egyszerű kommunikáció,** segít tisztázni a kérdéseket, vagy a megoldások mikéntjét, próbálj kérdezni a Stack Overflow oldalon, IRC, Slack, vagy egyéb rendelkezésre álló csevegő csatornán, ha van ilyen a projektben
 
-Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet benyújtanál, ellenőrizd le a projektben való részvételről szóló dokumentációt (ezt gyakran a CONTRIBUTING vagy a README tartalmazza), mert lehetséges, hogy mellékelned kell valamilyen specifikus indormációt is. Például, a projekt kérheti azt, hogy egy űrlapot tölts ki, vagy megkövetelheti a teszteket.
+Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet benyújtanál, ellenőrizd le a projektben való részvételről szóló dokumentációt (ezt gyakran a CONTRIBUTING vagy a README tartalmazza), mert lehetséges, hogy mellékelned kell valamilyen specifikus információt is. Például, a projekt kérheti azt, hogy egy űrlapot tölts ki, vagy megkövetelheti a teszteket.
 
-Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvetést tartalmazó jegyet, ahol a kérdéseket meg lehet vitatni, mielőtt még nekikezdenél. Hasznos, ha egy darabig csak nyomon követjük a projektet és a közösséget (a GitHubon, [klikkents a "Watch" linkre](https://help.github.com/articles/watching-repositories/) hogy értesítést kapj az összes beszélgetésről), hogy megismerjük a tagjait, mielőtt olyan munkát végeznénk benne, amit nem fogadnak el.
+Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvetést tartalmazó jegyet, ahol a kérdéseket meg lehet vitatni, mielőtt még nekikezdenél. Hasznos, ha egy darabig csak nyomon követjük a projektet és a közösséget (a GitHub-on, [klikkents a "Watch" linkre](https://help.github.com/articles/watching-repositories/) hogy értesítést kapj az összes beszélgetésről), hogy megismerjük a tagjait, mielőtt olyan munkát végeznénk benne, amit nem fogadnak el.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -472,18 +472,18 @@ Valószínűleg gyakran nyítsz beolvasztási kérelmet (Pull Request) a követk
 * Triviális javítások küldése (például egy gépelési hiba, hibás link vagy nyilvánvaló hiba)
 * Olyan feladaton történő munka elkezdése, amelyet már a közösség kitárgyalt, átbeszélt és tisztáztad a kérdéseket
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+A beolvasztási kérelem nem feltétlen jelent befejezett munkát. Gyakran jobb korán megnyitni ezt, így mások megfigyelhetik és visszajelzéseket adhatnak róla. Csak jelöld meg "WIP" (Work in Progress) jelzéssel a tárgy soron. Ezekután bármikor, szabadon adhatsz hozzá új kódot (commit és push).
 
-If the project is on GitHub, here's how to submit a pull request:
+Ha a projekt a GitHub-on van, akkor a következő képpen kell beolvasztási kérelmet benyújtani:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Ágaztasd (fork) el a kód tározót](https://guides.github.com/activities/forking/)** és klónozd le magadhoz lokálisan. A lokális másolatodat kapcsold az eredeti tárolóhoz (original "upstream") egy _remote_ hozzáadásával. A változások frissítése magadhoz az "upstream"-ről legyen gyakori, így naprakész maradsz, ezért a beolvasztási kérelem esetén kisebb eséllyel lesz ütközés a kódok összefésülésekor. (Részletes instrukciókat [itt találsz](https://help.github.com/articles/syncing-a-fork/).)
+* **[Hozz létre egy új ágat (branch)](https://guides.github.com/introduction/flow/)** a módosításaidhoz.
+* **Hivatkozz meg bármilyen releváns hibajegyet** vagy a dokumentációt a beolvasztási kérésedben (például, "Closes #37.")
+* **Helyezd el az előtte és utána képernyőképeket** ha HTML/CSS változás történt. Húzd be a képeket a beolvasztási kérésedbe.
+* **Teszteld a változtatásokat!** Mindig futtass le a meglévő teszteket a kódodon, vagy írj újakat ha szükséges. Függetlenül a tesztektől bizonyosodj meg arról, hogy a módosításod nem rontja-e el a projektet.
+* **A projekt stílusában vegyél részt benne** a legjobb tudásod szerint. Ez jelentheti azt, hogy más sorbehúzást kell használni a szövegben, lehet hogy a projekt használ pontosvesszőt, de te nem szoktál, vagy másként írják a kód kommenteket – akárhogy is legyen, könnyebb a karbantartóknak a kódot összefésülni (merge), a későbbiekben karbantartani és megérteni, ha egységes a projekt.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
+Ha ez lesz az első beolvasztási kérésed (Pull Request), akkor nézd ezt meg előtte: [Make a Pull Request](http://makeapullrequest.com/), amelyben @kentcdodds egy részletes video anyagot készített. Szintén gyakorlati útmutató a [First Contributions](https://github.com/Roshanjossey/first-contributions) amelyet @Roshanjossey készített.
 
 ## What happens after you submit a contribution
 
