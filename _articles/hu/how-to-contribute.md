@@ -219,117 +219,117 @@ Az alábbiakban találsz néhány oldalt, amelyek segítenek abban, hogy felfede
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 
-### A checklist before you contribute
+### Egy ellenőrző lista, mielőtt résztvennél a projektben
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Ha találtál egy projektet, amelyhez hozzájárulnál, végezz előtte egy gyors ellenőrzést. Bizonyosodj meg arról, hogy alkalmas-e a projekt a részvételedre. Máskülönben előfordulhat, hogy a kemény munkádnak nem lesz eredménye.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Itt egy lista arról, hogy kiértékelhesd azt, hogy a projekt alkalmas-e az új résztvevőnek.
 
-**Meets the definition of open source**
+**Megfelel a nyílt forráskód definíciójának**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  Van nyílt forráskódú licence? Gyakran ez a LICENSE nevű állomány a projekt főkönyvtárában.
   </label>
 </div>
 
-**Project actively accepts contributions**
+**A projekt aktívan elfogadja a hozzájárulásokat**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Nézd meg a közösség aktívitását a _master_ ágon. A GitHub-on ezeket az információkat a projekt főoldalán eléred.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  Mikor volt az utolsó kód változás?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  Hány résztvevője van a projektnek?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  Milyen gyakran módosítják a kódot a résztvevők? A GitHub-on, a képernyő felsőrészén a _"Commits"_ linkre kliekkentve ezt eléred.
   </label>
 </div>
 
-Next, look at the project's issues.
+Nézd meg a projekt hibakezelőjét.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    Mennyi nyitott hiba van?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    A projekt karbantartói gyorsan reagálnak egy új hibajelzésre?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    Van párbeszéd a hibákról, észrevételekről?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    Naprakészek a hibakezelőben szereplő hibák vagy észrevételek?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    A hibák, észrevételek megoldásra kerülnek? A GitHub-on, az _Issues_ fül kiválasztása után a szürke _closed_ linkre klikkentve látod a lezárt hibákat.
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Most csináljuk meg ugyanezt a projekt, kód beolvasztási kéréseire (_pull request_).
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    Mennyi nyitott kód beolvasztási kérés van?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    A karbantartók gyorsan reagálnak egy új kód beolvasztási kérésre?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    Van-e aktív párbeszéd a kód beolvasztási kérésekről?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    Naprakészek a kód beolvasztási kérések?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    Aktuálisan mennyi kód beolvasztási kérést vezettek át a kódon? A GitHub-on, a _Pull Request_ fülön klikkents a szürke _closed_ linkre hogy lásd, mennyi beolvasztási kérés került lezárásra.
   </label>
 </div>
 
@@ -493,7 +493,7 @@ After you submit a contribution, one of the following will happen:
 
 ### 😭 You don't get a response.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Hopefully you [checked the project for signs of activity](#egy-ellenőrző-lista-mielőtt-résztvennél-a-projektben) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
 If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
 
