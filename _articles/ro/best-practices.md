@@ -232,84 +232,107 @@ Copierea proiectului nu trebuie să fie un lucru rău. Fiind capabil să copiezi
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  <p>
+    Satisfac cazul de utilizare de 80%. Dacă ești unul dintre „unicorni”, te rog bifurcă munca mea. Nu mă voi simți jignit! Proiectele mele publice sunt aproape întotdeauna menite să rezolve cele mai comune probleme; eu încerc să fac mai ușor să ajungi mai adânc fie prin bifurcarea muncii mele sau prin extinderea ei.
+  </p>
+  <p>
+    <em>
+      I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+Același lucru se aplică unui utilizator care chiar dorește o soluție pentru care pur și simplu nu ai lățimea de bandă să o construiești. A oferi API-uri și cârlige de personalizare poate să-i ajute pe alții să-și satisfacă nevoile lor, fără să trebuiască să modifice sursa direct. @orta [a găsit că](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) încurajarea plugin-urilor pentru CocoaPods a dus la „unele dintre cele mai interesante idei":
 
+> Este aproape inevitabil ca odată ce un proiect devine mare, întreținătorii să trebuiască să devină tot mai conservatori în legătură cu felul în care ei introduc cod nou. Devii bun la a spune „nu”, dar o mulțime de oameni au nevoi legitime. Astfel, în schimb sfârșești prin a-ți transforma unealta într-o platformă.
+> 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
 ## Cheamă roboții
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Exact cum există sarcini cu care alți oameni te pot ajuta, există de asemenea sarcini pe care niciun om nu ar trebui să le îndeplinească vreodată. Roboții sunt prietenul tău. Folosește-i pentru a-ți face viața în calitate de întreținător mai ușoară.
 
-### Require tests and other checks to improve the quality of your code
+### Cere teste și alte verificări pentru a îmbunătăți calitatea codului tău
 
-One of the most important ways you can automate your project is by adding tests.
+Una dintre cele mai importante căi prin care poți să-ți automatizezi proiectul este adăugarea de teste.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Testele îi fac pe contributori să se simtă încrezători că ei nu strică nimic. Ele de asemenea îți ușurează analizarea și acceptarea rapidă a contribuțiilor. Cu cât ești mai receptiv, cu atât comunitatea ta poate fi mai angajată.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+Configurează teste automate care vor rula pe toate contribuțiile ce vin, și asigură-te că testele pot fi ușor rulate local de contributori. Cere ca toate contribuțiile să treacă testele tale înainte de a putea fi trimise. Vei ajuta la stabilirea unui standard minim de calitate pentru toate trimiterile. [Cererile de verificare de stare](https://help.github.com/articles/about-required-status-checks/) pe GitHub pot asigura că nicio schimbare nu este îmbinată fără să treacă testele tale.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Dacă adaugi teste, asigură-te că explici cum funcționează în fișierul tău CONTRIBUTING.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  <p>
+    Cred că testele sunt necesare pentru tot codul pe care oamenii lucrează. Dacă codul a fost complet și perfect corect, nu ar avea nevoie de schimbări – noi scriem cod doar când ceva este greșit, fie că aceasta este „Se blochează” sau „Îi lipsește o astfel de facilitate”. Și indiferent de schimbările pe care le faci, testele sunt esențiale pentru prinderea oricărei regresii pe care ai putea-o introduce accidental.
+  </p>
+  <p>
+    <em>
+      I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Folosește unelte pentru a automatiza sarcini de bază de întreținere
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+Vestea bună despre menținerea unui proiect popular este că alți întreținători probabil au întâmpinat probleme asemănatoare și au construit o soluție pentru ele.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+Există o [varietate de unelte disponibile](https://github.com/showcases/tools-for-open-source) pentru a ajuta la automatizarea unor aspecte ale muncii de întreținere. Câteva exemple:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
+* [semantic-release](https://github.com/semantic-release/semantic-release) automatizează lansările tale
+* [mention-bot](https://github.com/facebook/mention-bot) menționează examinatori potențiali pentru cererile de pull
+* [Danger](https://github.com/danger/danger) ajută la automatizarea examinării codului
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+Pentru rapoartele de bug-uri și alte contribuții obișnuite, GitHub are [Șabloane de probleme și șabloane de cereri de pull](https://github.com/blog/2111-issue-and-pull-request-templates), pe care le poți crea pentru a simplifica informațiile pe care le primești. @TalAter a făcut un [ghid Alege-ți propria aventură](https://www.talater.com/open-source-templates/#/) pentru a te ajuta să-ți scrii șabloanele de probleme și de PR-uri.
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+Pentru a gestiona notificările tale prin email, poți seta [filtre de email](https://github.com/blog/2203-email-updates-about-your-own-activity) pentru a organiza după prioritate.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Dacă vrei să devii puțin mai avansat, ghidurile de stil și linteri pot standardiza contribuțiile proiectului și să le facă mai ușor de examinat și acceptat.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Totuși, dacă standardele sunt prea complicate, ele pot crește barierele în calea contribuției. Asigură-te că adaugi doar destule reguli încât să faci viețile tuturor mai ușoare.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Dacă nu ești sigur ce unelte să folosești, privește la ce fac alte proiecte populare, în special cele din ecosistemul tău. De exemplu, cum arată procesul de contribuție pentru alte module Node? Folosind unelte și abordări asemănătoare va face procesul tău mai familiar pentru contributorii tăi țintă.
 
 ## Este OK să apeși pauză
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+Munca pe sursă deschisă ți-a adus odată bucurie. Poate acum începe să te facă să te simți evitant sau vinovat.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+Poate te simți copleșit sau simți un sentiment în creștere de groază când te gândești la proiectele tale. Și între timp, problemele și cererile de pull se adună.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+Burnout-ul este o problemă reală și universală în munca pe sursă deschisă, în special în rândul întreținătorilor. În calitate de întreținător, fericirea ta este o cerință nenegociabilă pentru supraviețuirea oricărui proiect cu sursă deschisă.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+Cu toate că ar trebui să meargă fără să se spună, fă o pauză! Nu ar trebui să aștepți până te simți ars pentru a-ți lua o vacanță. @brettcannon, un dezvoltator din inima Python, a decis să-și ia [o vacanță de o lună de zile](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) după 14 ani de muncă voluntară pe OSS.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+Exact la fel ca oricare alt fel de muncă, luarea de pauze dese te va păstra revigorat, fericit, și încântat de munca ta.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  <p>
+    În întreținerea WP-CLI, am descoperit că am nevoie să mă fac fericit pe mine mai întâi, și să stabilesc limite clare ale implicării mele. Cel mai bun echilibru pe care l-am găsit este de 2-5 ore pe săptămână, ca parte din programul meu normal de muncă. Acest lucru îmi păstrează implicarea o pasiune, și departe de a simți prea mult ca muncă. Deoarece prioritizez problemele la care lucrez, pot face progres în mod obișnuit pe ce cred că este cel mai important.
+  </p>
+  <p>
+    <em>
+      In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+Câteodată, poate fi greu să faci o pauză de la muncă pe sursă deschisă când simți ca și cum toți au nevoie de tine. Oamenii ar putea chiar să încerce să te facă să te simți vinovat pentru că te retragi.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+Fă tot posibilul să găsești asistență pentru utilizatorii și comunitatea ta cât timp ești departe de un proiect. Dacă nu poți obține asistența de care ai nevoie, fă o pauză oricum. Asigură-te să comunici când nu ești disponibil, astfel încât oamenii nu sunt confuzionați de lipsa ta de reacție.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+Luarea de pauze se aplică la mai mult decât doar vacanțe, de asemenea. Dacă nu dorești să faci muncă pe sursă deschisă în sfârșiturile de săptămână, sau în timpul orelor de lucru, comunică aceste așteptări celorlalți, astfel încât ei știu să nu te deranjeze.
 
 ## Ai grijă de tine mai întâi!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+Întreținerea unui proiect popular cere abilități diferite față de stadiile anterioare ale creșterii, dar nu este mai puțin recompensant. În calitate de întreținător, vei practica abilități de conducere și personale la un nivel pe care puțini oameni ajung să-l experimenteze. Cu toate că nu este ușor întotdeauna să gestionezi, stabilirea de limite clare și asumarea doar a lucrurilor cu care te simți confortabil te va ajuta să rămâi fericit, revigorat, și productiv.
