@@ -429,23 +429,23 @@ Mielőtt hibát jelzel, vagy tartalom beolvasztást kérelmezel, vagy esetleg k�
 
 **Mindenekelőtt: ne légy ízléstelen!** A nyílt forráskódon együttműködők a világ számos részéről származnak. A tartalom gyakran elfedi a nyelvi különbségeket, kultúrát, a térbeli helyeket vagy időbeliséget. Ráadásul az írott kommunikáció megnehezíti a hangulat vagy a hozzászólás érzelmi részének közvetítését. Tételez fel jó szándékot a beszélgetésekben. Ha udvariasan visszautasítasz egy ötletet, vagy megkérsz valakit, hogy adjon további információt a problémáiról az teljesen elfogadható. Próbáld az Internetet tisztábban ott hagyni, mint ahogy találtad.
 
-### Gathering context
+### Összefoglalás
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+Mielőtt bármibe belekezdenél, győződjön meg arról, hogy az ötletedet már nem vitatták-e meg máshol. Nézzd meg a projekt README-jét, a nyitott és lezárt kérdéseket, a levelezőlistát és a Stack Overflow oldalt. Nem kell órákat töltened azzal, hogy átnézz mindent, de egy gyors keresés néhány kulcsszóra nem tart semeddig.
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+Ha nem találod meg a felvetést sehol, akkor mehetsz tovább. Ha a projekt a GitHubon van, akkor nyithatsz egy hibajegyet vagy létrehozhatsz egy beolvasztási kérést a módosított kód alapján:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Issues** (hiba, észrevétel) olyanok mint egy párbeszéd, vagy egy megbeszélés
+* **Pull requests** (beolvasztási kérelem) szolgál a munka megkezdésére
+* **Az egyszerű kommunikáció,** segít tisztázni a kérdéseket, vagy a megoldások mikéntjét, próbálj kérdezni a Stack Overflow oldalon, IRC, Slack, vagy egyb rendelkezésre álló csvegő csatornán, ha van ilyen a projektben
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet benyújtanál, ellenőrizd le a projektben való részvételről szóló dokumentációt (ezt gyakran a CONTRIBUTING vagy a README tartalmazza), mert lehetséges, hogy mellékelned kell valamilyen specifikus indormációt is. Például, a projekt kérheti azt, hogy egy űrlapot tölts ki, vagy megkövetelheti a teszteket.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvetést tartalmazó jegyet, ahol a kérdéseket meg lehet vitatni, mielőtt még nekikezdenél. Hasznos, ha egy darabig csak nyomon követjük a projektet és a közösséget (a GitHubon, [klikkents a "Watch" linkre](https://help.github.com/articles/watching-repositories/) hogy értesítést kapj az összes beszélgetésről), hogy megismerjük a tagjait, mielőtt olyan munkát végeznénk benne, amit nem fogadnak el.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  Rendkívül <em>sokat</em> fogsz tanulni egy projektből, amelyen aktívan részt veszel azzal, hogy "nézed" a GitHub-on és olvasod az összes megnyitott kérdést és beolvasztási kérelmet.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
@@ -465,12 +465,12 @@ Tips for communicating on issues:
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-### Opening a pull request
+### Beolvasztási kérelem megnyitása
 
-You should usually open a pull request in the following situations:
+Valószínűleg gyakran nyítsz beolvasztási kérelmet (Pull Request) a következő esetekben:
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* Triviális javítások küldése (például egy gépelési hiba, hibás link vagy nyilvánvaló hiba)
+* Olyan feladaton történő munka elkezdése, amelyet már a közösség kitárgyalt, átbeszélt és tisztáztad a kérdéseket
 
 A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
 
