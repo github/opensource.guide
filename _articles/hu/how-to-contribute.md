@@ -219,7 +219,7 @@ Az alábbiakban találsz néhány oldalt, amelyek segítenek abban, hogy felfede
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 
-### Egy ellenőrző lista, mielőtt résztvennél a projektben
+### Egy ellenőrző lista, mielőtt részt vennél a projektben
 
 Ha találtál egy projektet, amelyhez hozzájárulnál, végezz előtte egy gyors ellenőrzést. Bizonyosodj meg arról, hogy alkalmas-e a projekt a részvételedre. Máskülönben előfordulhat, hogy a kemény munkádnak nem lesz eredménye.
 
@@ -236,7 +236,7 @@ Itt egy lista arról, hogy kiértékelhesd azt, hogy a projekt alkalmas-e az új
 
 **A projekt aktívan elfogadja a hozzájárulásokat**
 
-Nézd meg a közösség aktívitását a _master_ ágon. A GitHub-on ezeket az információkat a projekt főoldalán eléred.
+Nézd meg a közösség aktivitását a _master_ ágon. A GitHub-on ezeket az információkat a projekt főoldalán eléred.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -367,7 +367,7 @@ Egy barátságos és befogadó projekt azt jelzi, hogy az új résztvevőket sz�
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Bármikor amikor hosszú beszélgetést látsz, keresd meg a fő fejlesztők hozzászólásait. Konstruktívak, és előre mozdítják a döntséhozatalt, miközben udvariasak maradnak? Ha sok hitvitát látsz, az gyakran annak a jele, hogy az energia az érvelésre megy el és nem a fejlesztésre.
+  Bármikor amikor hosszú beszélgetést látsz, keresd meg a fő fejlesztők hozzászólásait. Konstruktívak, és előre mozdítják a döntéshozatalt, miközben udvariasak maradnak? Ha sok hitvitát látsz, az gyakran annak a jele, hogy az energia az érvelésre megy el és nem a fejlesztésre.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
@@ -389,45 +389,45 @@ Legyél egyszeri résztvevő, vagy akár közösségi tag, másokkal együtt dol
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Mielőtt hibát jelzel, vagy tartalom beolvasztást kérelmezel, vagy esetleg kérdéseket teszel fel a csevegésben, tartsd szem előtt ezeket a pontokat a hatékonyabb munka érdekében.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**Add meg a téma leírását!** Ezzel segítesz másoknak, hogy gyorsan felvegyék a téma fonalát. Ha belefutsz egy hibába, akkor magyarázd el részletesen hogyan idézted azt elő, és hogy hogyan lehet reprodukálni. Ha új ötlettel állsz elő, akkor magyarázd el azt, hogy miért gondolod úgy, hogy az hasznos lesz a projektnek (és nem csak neked)?
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"X nem történik, ha azt csinálom, hogy Y"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X hibás! Kérlek, javítsátok!"_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Először végezd el a házi feladatot!** Teljesen rendben van ha nem értesz dolgokhoz, de mutasd meg azt, hogy megpróbáltad! Mielőtt segítséget kérsz, legyél biztosa abban, hogy átnézted a projekt README-jét, dokumentációját, nyitott és lezárt hibáit, a levelező listát és keress rá a problémára az interneten. Az emberek értékelni fogják, ha látják azt, hogy megpróbáltál tanulni.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"Nem vagyok benne biztos, hogy hogyan csináljam meg az X dolgot. Átnéztem az útmutatókat, de nem találtam erről említést."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"Hogyan csináljam meg az X dolgot?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**Légy tömör és egyértelmű!** Hasonlóan az email küldéséhez, minden hozzájárulás esetén szükséges az – függetlenül attól mennyire egyszerű vagy mennyit segít –, hogy más is átnézze. Számos projektnek több észrevétele van, mint ahányan dolgoznak rajta. Ezért az észrevételeid legyenek tömörek és egyértelműek, így nagyobb eséllyel kapsz segítséget.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"Szeretnék írni egy API útmutatót."_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"Épp vezettem az autópálya lehajtón egy nap és megálltam tankolni, és ekkor egy hatalmas ötlet jutott az eszembe, amit meg kellene csinálnunk, de mielőtt elmagyaráznám, hagy meséljek a ..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**Legyen nyilvános a kommunikációd!** Bár csábító, de a karbantartókat ne érd el privát csatornán keresztül kivéve, ha érzékeny információt (biztonsági incidens, komoly viselkedési szabályok megsértése) kell megosztanod. Ha a kommunikációd publikus, akkor több ember tud tanulni belőle, mindenkinek hasznára válik. A publikus megbeszélések már önmagukban is hozzájárulások a projekthez.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(megjegyzésként:) "@-karbantartó Szia! Mi legyen ennek a Pull Requestnek a sorsa?"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(emailként:) "Szia! Sajnálom, hogy a levelemmel zavarlak, de kíváncsi lennék rá, hogy van-e esély a Pull Requestem beolvasztására?"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**Rendben van hogy kérdezel, de legyél türelmes!** Mindenki volt kezdő az adott projekten, még a gyakorlott résztvevőknek is fel kell venni a tempót egy új projekt esetén. Ugyanígy, még a régebbi karbantartók sem mindig ismerik a projekt minden részét. Mutass olyan türelmet te is, mint amilyet te is elvárnál másoktól.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"Köszönöm, hogy megnézted ezt a hibát. Követtem az utasításaidat, itt a végeredménye:"_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"Miért nem javítod a jelzett problémámat? Ez nem a te projekted?"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**Tartsd tiszteletben a közösség döntését!** Az ötleteid eltérhetnek a közösség céljaitól vagy jövőképétől. Ötleteidre kaphatsz visszajelzést, vagy akár el is utasíthatják azt. Miközben megvitatod és kompromisszumra jutsz, addig a karbantartóknak a döntéseikkel kell a továbbiakban együttélni hosszabb távon is. Ha nem értesz egyet az iránnyal, akkor bármikor létrehozhatod a saját elágazásodat (_fork_) a kódból, vagy akár kezdhetsz egy új projektet.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"Bár szomorú vagyok, hogy nem támogatjátok az ötletemet, de ahogy elmagyaráztátok, megértettem azt, hogy ez az eset csak kevés embert érint. Köszönöm, hogy meghallgattatok!"_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"Miért nem támogatjátok az ötletem? Ez elfogadhatatlan!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**Mindenekelőtt: ne légy ízléstelen!** A nyílt forráskódon együttműködők a világ számos részéről származnak. A tartalom gyakran elfedi a nyelvi különbségeket, kultúrát, a térbeli helyeket vagy időbeliséget. Ráadásul az írott kommunikáció megnehezíti a hangulat vagy a hozzászólás érzelmi részének közvetítését. Tételez fel jó szándékot a beszélgetésekben. Ha udvariasan visszautasítasz egy ötletet, vagy megkérsz valakit, hogy adjon további információt a problémáiról az teljesen elfogadható. Próbáld az Internetet tisztábban ott hagyni, mint ahogy találtad.
 
 ### Gathering context
 
@@ -493,7 +493,7 @@ After you submit a contribution, one of the following will happen:
 
 ### 😭 You don't get a response.
 
-Hopefully you [checked the project for signs of activity](#egy-ellenőrző-lista-mielőtt-résztvennél-a-projektben) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Hopefully you [checked the project for signs of activity](#egy-ellenőrző-lista-mielőtt-részt-vennél-a-projektben) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
 If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
 
