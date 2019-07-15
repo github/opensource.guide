@@ -333,57 +333,57 @@ Most csináljuk meg ugyanezt a projekt, kód beolvasztási kéréseire (_pull re
   </label>
 </div>
 
-**Project is welcoming**
+**Barátságos projekt**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Egy barátságos és befogadó projekt azt jelzi, hogy az új résztvevőket szívesen várják.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    A karbantartók segítőkészek a problémák megválaszolásában?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+    A résztvevők barátságosak a problémákról szóló párbeszédekben, a fórumokon és csevegésekben?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    Áttekintésre kerül a beolvasztási kérés?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    A karbantartók megköszönik a hozzájárulást a résztvevőknek?
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  Bármikor amikor hosszú beszélgetést látsz, keresd meg a fő fejlesztők hozzászólásait. Konstruktívak, és előre mozdítják a döntséhozatalt, miközben udvariasak maradnak? Ha sok hitvitát látsz, az gyakran annak a jele, hogy az energia az érvelésre megy el és nem a fejlesztésre.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
-## How to submit a contribution
+## Hogyan kell hozzájárulni?
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+Végül megtaláltad a projekted és készen állsz a részvételre! Nézzük, hogyan tudsz valóban jól hozzájárulni!
 
-### Communicating effectively
+### Hatékony kommunikáció
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+Legyél egyszeri résztvevő, vagy akár közösségi tag, másokkal együtt dolgozni a legfontosabb képesség ahhoz, hogy a nyílt forráskódot fejleszd.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[Mint új résztvevő,\] gyorsan észrevettem azt, hogy kérdéseket kell feltennem, ha a végére akarok járni egy problémának. Átrágtam magam a kódon és amint ráéreztem a működésre, jobban tudtam kérdezni. És _voilà!_ Meg tudtam oldani a problémát, miután megkaptam a szükséges részleteket.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
