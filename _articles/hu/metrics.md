@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+title: Nyílt forráskód mérőszámai
+description: A nyílt forráskódú projekt sikerének titka a mérés és nyomon követés.
 class: metrics
 order: 9
 image: /assets/images/cards/metrics.png
@@ -10,63 +10,63 @@ related:
   - best-practices
 ---
 
-## Why measure anything?
+## Miért mérünk bármit is?
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+Az információ, ha bölcsen használjuk, segíteni tud nekünk a jobb döntések meghozatalában, ha nyílt forráskód karbantartók vagyunk.
 
-With more information, you can:
+Több információval még jobb döntést tudsz hozni:
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+* Megértheted, hogy a felhasználók hogyan reagálnak egy új funkcióra
+* Rájöhetsz arra, hogy a felhasználóid honnan érkeznek
+* El tudod dönteni, hogy az adott használati esetet, vagy új funkcionalitást támogatod-e
+* Számszerűsítheted a projekt népszerűségét
+* Megértheted, hogy a felhasználók hogyan használják a munkádat
+* Támogatással és szponzorálással pénzhez juthatsz
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+Például, a [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) úgy találta hogy a Google Analytics segítette hozzá, hogy a feladatokat priorizálja:
 
-> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+> Homebrew ingyenes, és teljességgel önkéntes munka, amit a fejlesztők a szabad idejükben végeznek. Ennek eredményeként nem rendelkezünk erőforrásokkal ahhoz, hogy részletes felhasználói tanulmányokat végezhessünk a Homebrew felhasználókról, hogy eldönthessük, hogyan lehet a legjobban megtervezni a jövőbeli funkciókat és prioritást adni az aktuális munkának. Ugyanakkor az anonim összesített felhasználói elemzés lehetővé teszi számunkra, hogy a javításokat és a szolgáltatásokat a Homebrew használatával kapcsolatosan rangsoroljuk aszerint, hogy hol és mikor használják az emberek.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+A népszerűség nem minden. Mindenki különböző okokból kezd a nyílt forráskódba. Ha a nyílt forráskód karbantartó célja, hogy megmutassa a munkáját, átlátható legyen a kódja, vagy hogy élvezze a munkát, akkor a mérőszámok nem biztos, hogy fontosak számára.
 
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
+Ha viszont mélyebb szinten akarod megismerni a projektedet, számos módon kell elemezned a projekted aktívitását.
 
-## Discovery
+## Felfedezés
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+Mielőtt bárki elkezdené használni a projektedet, vagy részt venne benne tudniuk kell, hogy hol találják. Kérdezd meg magadtól: _Az emberek megtalálják ezt a projektet?_
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
+Ha a munkád a GitHub-on van, [akkor láthatod](https://help.github.com/articles/about-repository-graphs/#traffic) hogy hány ember járt az oldaladon és hogy honnan érkeztek. A projekt oldaláról, válaszd ki az "Insights", majd a "Traffic" funkciót. Ezen az oldalon ezeket láthatod:
 
-* **Total page views:** Tells you how many times your project was viewed
+* **Views:** Megadja, hogy hányszor nézték meg a projekt oldalát.
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **Unique visitors:** Megadja, hogy hány ember látogatta meg a projekt oldalát.
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **Referring sites:** Megadja, hogy honnan érkeztek az oldalra az emberek. Ez a metrika segíthet kitalálni, hogy hol érheted el a közönséget és hogyan működnek a promóciós erőfeszítéseid.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
+* **Popular content:** Megadja, hogy a projekted mely részére kiváncsiak a látogatók, lebontva oldalakra és látogatókra.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub stars](https://help.github.com/articles/about-stars/) szintén tud a népszerűség mérésében segíteni. Bár a _GitHub stars_ nem szükségszerűen van kapcsolatban azzal, hogy hányan töltötték le vagy használták a projektet, mégis alkalmas arra, hogy mérje azt, hogy mennyi ember érdeklődését keltette fel a munkád.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+Lehet, hogy más [egyéb helyen is nyomon akarod követni az elérhetőséget](https://opensource.com/business/16/6/pirate-metrics): például, Google PageRank, megmutatja a forgalmat a projekt oldaladról, vagy más nyílt forráskódú oldalról vagy weboldalról.
 
-## Usage
+## Használat
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+Az emberek megtalálják a projektet ezen a vad és őrült dologon, amit az internetnek hívunk. Jó esetben, ha látják a projektet, késztetést érezhetnek rá, hogy használják. A második kérdés amit fel kell tenned magadnak: _Az emberek használják ezt a projektet?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Ha a projekt terjesztéséhez csomagkezelőt (például npm vagy RubyGems.org) használsz, akkor előfordulhat, hogy nyomon követheted a projekt letöltését.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Mindegyik csomagkezelő kissé eltérő definíciót használhat a "letöltésre", és a letöltések nem feltétlenül korrelálnak a telepítésekkel vagy a használattal, de az összehasonlításhoz valamilyen alapot biztosítanak. Próbáld meg a [Libraries.io](https://libraries.io/) használatát, hogy kövesd a statisztikáit számos ismert csomagkezelőnek és csomagnak.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Ha a GitHub-on van a projekted, akkor a "Traffic" oldalon a  [clone graph](https://github.com/blog/1873-clone-graphs) diagramot használd hogy lásd, mely napokon hányszor klónozták a projektedet, lebontva összes klónozásra és egyedi látogatókra.
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Ha a felhasználás alacsonyabb, mint a projektet felfedező személyek száma, két kérdést kell átgondolni:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* A projekted nem érte el sikeresen a hallgatóságot, vagy
+* Rossz közönséget céloztál meg
 
 For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
 
