@@ -61,7 +61,7 @@ Ha a projekted a GitHub-on van, akkor használd a [GitHub Pages](https://pages.g
 
 Most, hogy van a projektednek üzenete és van egy könnyű módja annak, hogy az emberek megtalálják a projektedet, vágjunk bele, és beszéljünk az emberekkel.
 
-## Ott kell lenni, ahol a hallgatódág van (online)
+## Ott kell lenni, ahol a hallgatóság van (online)
 
 Az online tájékoztatás nagyszerű módja annak, hogy gyorsan megoszthasd és terjeszd az információt. Az online csatornák használatával van a legjobb lehetőséged a közönség elérésére.
 
@@ -77,80 +77,80 @@ Használd ki a meglévő online közösségeket és platformokat, hogy elérd a 
 
 Nézzük, hogyan lehet megtalálni a lényeges helyeket, ahol megoszthatod a projekted:
 
-* **Ismerjd meg a kapcsolódó nyílt forráskódú projekteket és közösségeket.** Néha nem kell közvetlenül hírdetni a projekted. Ha a projekt tökéletes az adathalmaz kutatók számára, akik Python-t használnak, ismerkedj meg a Python adatkutató közösséggel. Amint az emberek megismerkednek, természetes lehetőség adódik arra, hogy beszéljenek és megoszthassák egymás munkáját.
-* **Találd meg azokat a problémákat, amelyet a projekted megold.** kered meg azokat az embereket, akik érintettek lehetnek a megoldásban. Válaszold meg a kérdéseiket és találd meg azt a taktikát, amelynek segítségével elkezdik használni a projektedet.
-* **Kérj visszajelzést.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **Ismerd meg a kapcsolódó nyílt forráskódú projekteket és közösségeket.** Néha nem kell közvetlenül hirdetni a projekted. Ha a projekt tökéletes az adathalmaz kutatók számára, akik Python-t használnak, ismerkedj meg a Python adatkutató közösséggel. Amint az emberek megismerkednek, természetes lehetőség adódik arra, hogy beszéljenek és megoszthassák egymás munkáját.
+* **Találd meg azokat a problémákat, amelyet a projekted megold.** keresd meg azokat az embereket, akik érintettek lehetnek a megoldásban. Válaszold meg a kérdéseiket és találd meg azt a taktikát, amelynek segítségével elkezdik használni a projektedet.
+* **Kérj visszajelzést.** Mutatkozz be és mutasd be a projektedből azt a hallgatóságnak, amit érdekesnek vagy hasznosnak találnak. Legyél konkrét abban, hogy kinek hasznos a projekted. Próbáld így befejezni a mondatod: _"Úgy gondolom, hogy tényleg nagyon hasznos X csoportnak, akik az Y problémát akarják megoldani_". Hallgasd meg és válaszolj mások észrevételére, ne csak bemutató előadás legyen a projektedről.
 
-Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
+Általánosságban: fókuszálj mások megsegítésére mielőtt bármit is kérsz. Mivel bárki képes online egy projektet bemutatni, ezért sok lesz a zaj. Ahhoz, hogy kitűnj a tömegből, az embereknek meg kell érteniük, hogy ki is vagy és nem csak azt, hogy mit akarsz.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
+Ha senkikem figyel fel vagy válaszol az első kísérletedre, ne add fel! A legtöbb projekt iteratív folyamat, amely hónapokig vagy akár évekig tart. Ha elsőre nem kapsz visszajelzést, akkor próbálj más taktikát vagy keress olyan lehetőséget, hogy mások munkájához hozzájárulj valami hasznossal. A projekt hírének megalapozása és elindítása időt és kitartást igényel.
 
-## Go where your project's audience is (offline)
+## Ott kell lenni, ahol a hallgatóság van (off-line)
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![Előadás](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+Az off-line események népszerű módja az új projektek közönség számára történő népszerűsítésének. Ez nagyszerű módja annak, hogy elérjed az elkötelezett közönséget, és mélyebb emberi kapcsolatokat építs ki különösen, ha érdekelt vagy a fejlesztők elérésében.
 
-If you're [new to public speaking](https://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+Ha teljesen [új vagy az előadásban](https://speaking.io/), keress egy helyi szakmai találkozót (meetup) amely kapcsolódik a projekted témájához vagy programnyelvéhez.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  Nagyon feszült voltam, amikor a PyCon rendezvényre mentem. Előadást tartottam, miközben alig ismertem ott pár embert, és ezt egy egész héten keresztül. (...) Nem kellett volna aggódnom. A PyCon fantasztikus volt! (...) Mindenki hihetetlenül barátságos és nyitott volt, annyira, hogy ritkán találtam időt arra, hogy ne beszélgessek az emberekkel!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+Ha még soha nem beszéltél egy eseményen, teljesen normális érzés a feszültség! Ne feledd, hogy a közönség azért van ott, mert valóban szeretne hallani a munkádról.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+A beszéd írásakor összpontosíts arra, amit szerinted a közönség érdekesnek talál és mutasd meg az értéket a munkádban. Barátságos, elfogadható nyelvezetet használj. Mosolyogj, lélegezz és szórakozz.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  Amikor az előadásodat készíted, az segíthet – függetlenül a témától –, ha megpróbálsz egy történetet előadni a hallgatóságnak.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+Amikor késznek érzed magad, akkor gondolkozz el, hogy hol, milyen konferenciákon tudnád bemutatni a projektedet. A konferenciák segítenek abban, hogy több embert elérj, gyakran a világ minden részéről.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+Keress olyan konferenciát, amely erősen kapcsolódik a te fejlesztési nyelvedhez, ökoszisztémádhoz. Mielőtt az előadásoddal jelentkezel, kutass a konferenciáról, és szabd kicsit hozzá az előadásodat, ezzel növelve azt, hogy elfogadják az anyagodat. Gyakran az előadók alapján is akár ráérezhetsz a konferencia lényegére.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  Nagyon kedves levelet írtam a JSConf szervezőknek, amelyben könyörögtem nekik, hogy adjanak nekem egy lehetőséget, hogy előadhassak a JSConf EU-n. (...) Nagyon rémült voltam előadni azt, amin 6 hónapig dolgoztam. (...) Egész idő alatt csak arra gondoltam, "Ó Istenem, most mi lesz? Mit csinálok én itt?"
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
-## Build a reputation
+## Alapozd meg a hírnevet
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+A fent vázolt stratégiák mellett a legjobb módja annak, hogy részvételre buzdítsd az embereket a projektedre az, hogy te is részt veszel az ő projektjükben.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+Új résztvevők segítése, információ megosztása és átgondolt részvétel mások projektjeiben segít téged abban, hogy a megítélésed javuljon. Aktív nyílt forráskódú közösségi tagként az emberek felfigyelnek rád és könnyebben befogadják a projektedet. Más projekttel kialakított kapcsolat akár hivatalos partnerséghez is vezethet.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  Az egyetlen oka annak, hogy az urllib3 a legnépszerűbb független Python csomag ma az az, hogy ezt kérték az emberek.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+Soha sincs túl késő vagy túl korán a hírnév építéséhez. Még akkor is, ha már elindítottad a saját projekted, keress lehetőséget arra, hogy másoknak segíts.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+Nincs olyan, hogy egy éjszaka alatt közönséget és hírnevet szerzel. A bizalom és tisztelet megszerzéséhez idő kell, és a hírnév építése sohasem érhet véget.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  PhantomJS 2011 elején jelent meg először. (...) A hírét a szokásos módon terjesztettem: Twitter-en írtam róla, írtam Blog-ot arról hogyan és mire jó, és számos szakmai összejövetelen beszélgettem róla. Amikorra ismerté vált, már 2014 volt, ekkor elkezdtem önálló előadásokat is tartani.
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
 </aside>
 
-## Keep at it!
+## Tarts ki!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+Lehet sokáig fog tartani, mire az emberek felfigyelnek a projektedre, de ezzel nincs semmi probléma! Számos olyan projekt, amely ma a leghíresebbek között van, évekig tartott, mire elérte a jelenlegi ismertségét és aktivitását. A lényeg a kapcsolatépítésen legyen, ne abban reménykedj, hogy egyszer magától fog növekedni a hírneve. Legyél türelmes, és működj együtt azokkal, akik értékelik a munkádat.
