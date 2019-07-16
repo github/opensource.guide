@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+title: A projekt felhasználók megtalálása
+description: Segítsd a projekted fejlődését azzal, hogy elégedett felhasználókat találsz.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -10,25 +10,25 @@ related:
   - building
 ---
 
-## Spreading the word
+## Az ige terjesztése
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+Nincs arra szabály, hogy mi szerint kell egy nyílt forráskódú projektet ismertté tenni az induláskor. Számos valós ok lehet arra, hogy olyan nyílt forráskódú munkát végezel, amelynek semmi köze a népszerűséghez. Ahelyett, hogy abban reménykednél, hogy mások majd megtalálják és felhasználják a nyílt forráskódú projektedet, kezd el terjeszteni az információt a munkádról!
 
-## Figure out your message
+## Fogalmazd meg az üzenetet
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Mielőtt elindítanád a projekted népszerűsítési munkáját, meg kell tudnia fogalmazni, hogy az mit csinál, és miért fontos.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+Mitől különbözik más projekttől vagy miért különleges a projekt? Miért hoztad létre? Ezekre a kérdésekre történő válaszadás segít kommunikálni a projekt lényegét.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+Ne feledd, hogy az emberek akik részt vesznek _felhasználóként,_ végül _résztvevőkké_ válnak, mert a projekt megoldja a számukra problémát. Amikor gondolkodsz a projekt üzenetéről és értékéről, próbáld objektíven, a _felhasználók és résztvevők_ szemszögéből is átgondolni azt.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Például, @robb példa programkódokat használt a projektje népszerűsítésére, [Cartography](https://github.com/robb/Cartography), hogy bizonyítsa mennyire hasznos:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Kicsit mélyebb üzenetért, nézd meg a Mozilla ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) felhasználói személyiség fejlesztéséről szóló üzenetét.
 
-## Help people find and follow your project
+## Segítsd az embereket abban, hogy megtalálják és kövessék a projektedet
 
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
