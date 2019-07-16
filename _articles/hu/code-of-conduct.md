@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+title: Magatartási kódex
+description: Az egészséges és konstruktív közösség építéséhez a magatartási kódex elfogadásával és érvényesítésével lehet hozzájárulni.
 class: coc
 order: 8
 image: /assets/images/cards/coc.png
@@ -10,105 +10,105 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## Miért kell magatartási kódex?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+A magatartási kódex egy olyan dokumentum, amelyben a viselkedéssel kapcsolatos elvárásokat fogalmazzák meg a projekt tagjai számára. A magatartási kódex elfogadásával és betartásával segítheted a közösség egészséges szociális légkörének kialakítását és megtartását.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+A magatartási kódex  nem csak a résztvevőkre, de rád is vonatkozik. Ha karbantartó vagy akkor találkozhatsz lehangoló résztvevőkkel, akik a hangulatodat elrontják vagy fárasztanak.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+A magatartási kódex lehetőséget ad arra, hogy az egészséges és konstruktív közösségi viselkedést megtarthasd. A proaktív viselkedésed segíthet abban, hogy a közösség tagjai elfásuljanak a projekteden, és lehetséges lesz olyan személyek ellen fellépni, akik a kódex szabályait megsértik.
 
-## Establishing a code of conduct
+## A magatartási kódex létrehozása
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Próbáld létrehozni a magatartási kódexet olyan korán amennyire csak lehet, ideális esetben a projekt létrehozásakor.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+Az elvárásaid mellett a magatartási kódex az alábbiakat írja még le:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Mire érvényes a magatartási kódex? _(csak a hibakövető rendszerre és beolvasztási kérelmekre, vagy más közösségi eseményekre, mint például rendezvények?)_
+* Kikre vonatkozik a magatartási kódex? _(karbantartókra és közösségi tagokra, de vajon vonatkozik-e a szponzorokra?)_
+* Mi történik akkor, ha valaki vét a szabályok ellen?
+* Hogyan kell jelenteni, ha szabálysértést tapasztal valaki?
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Csinálhatod ahogy akarod, de használhatod a technikát is. A [Contributor Covenant](https://contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet már több mint 40,000 nyílt forráskódú projekt használ, mint például a Kubernetes, Rails, és a Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+A [Django Code of Conduct](https://www.djangoproject.com/conduct/) és a [Citizen Code of Conduct](http://citizencodeofconduct.org/) szintén nagyon jó minták.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+Helyezd el a CODE_OF_CONDUCT állomány a projekt gyökerében, és készíts rá linket a CONTRIBUTING és README állományokból, hogy mindenkinek látható legyen.
 
-## Deciding how you'll enforce your code of conduct
+## Dönts arról, hogy fogod kikényszeríteni a szabályzatot
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  Az a magatartási kódex, amelyet nem (vagy nem tudnak) kikényszeríteni rosszabb, mintha nem lenne: azt üzeni, hogy az értékek, amelyek benne megfogalmazásra kerültek nem fontosak és lényegtelenek a közösség számára.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Magyarázd el részletesen, hogy a magatartási kódexnek hogyan szerzel érvényt, **mielőtt** még szabályszegés történne. Számos oka van annak, hogy ezt csináld:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* Ez azt mutatja, hogy komolyan gondolod azt, hogy szükség esetén cselekszel.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* A közösség nyugodtabbnak fogja érezni magát, mert a panaszok ténylegesen felülvizsgálatra kerülnek.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Meggyőzi a közösségét arról, hogy a felülvizsgálati folyamat tisztességes és átlátható, ha esetleg valakit felelősségre kell vonni a szabálysértés miatt.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Lehet, hogy adnod kell egy privát email címet ahhoz, hogy a magatartási kódex megsértését jelezzék. Add meg azt is, hogy ki vagy kik kapják az emailt. Ez lehet egy karbantartó vagy több, esetleg egy külön testület.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Ne feledd, előfordulhat az, hogy épp olyan személyre vonatkozóan érkezik kifogás aki szintén kapja a jelentést. Ebben az esetben adj lehetőséget arra, hogy más úton jelentsék más személy részére a szabálysértést. Például, @ctb és @mr-c [kifejtik ezt a projektjükben](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Az erőszakos, vagy zaklatás vagy egyéb elfogadhatatlan viselkedést emailben lehet jelenteni **khmer-project@idyll.org** címre, amelyet csak C. Titus Brown és Michael R. Crusoe kap meg. Ha bármelyikük érintett a szabálysértésben, akkor **Judi Brown Clarke, Ph.D.** Sokszínűségért Felelős Igazgató legyen a címzett.*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+További inspirációért nézd meg a Django magatartás kódexét [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (a projekt méretétől adódóan előfordulhat, hogy nem ilyen átfogónak lennie).
 
-## Enforcing your code of conduct
+## A magatartási kódex végrehajtása
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Néha az erőfeszítések ellenére valaki megtesz valamit, ami megsérti ezt a kódexet. Ekkor számos módja van a negatív, vagy káros viselkedés kezelésének.
 
-### Gather information about the situation
+### Gyűjts információt a helyzetről
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Az egyes közösségi tagok hangja ugyanolyan fontos, mint a sajátod. Ha olyan jelentést kapsz, hogy valaki megsértette a magatartási kódexet, akkor vedd komolyan és vizsgáld meg az ügyet, még akkor is, ha nem feltételezel ilyet arról a személyről. Ezzel jelezd a közösségednek, hogy értékeled az észrevételüket és bízhatnak az ítéletben.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+A szóban forgó közösség tagja lehet ismétlődő elkövető, aki következetesen kényelmetlen helyzetbe hoz másokat, vagy csak egyszer mondott vagy tett valamit. Mindkettő indok lehet a cselekvésre a témától függően.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Mielőtt válaszolna, adj magadnak időt, hogy megértsd, mi történt. Olvasd el a személy múltbeli észrevételeit és beszélgetéseit, hogy jobban megértsd, ki ő és miért cselekedett ilyen módon. Próbáld meg összegyűjteni a másik szemszögéből az indítékokat és értékelni a viselkedését.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  Ne kezdj el belemenni egy vitatkozásba. Nem kell pártját fogni másoknak, mindaddig míg nem kezelted le a helyzetet. Figyelj arra, amire valóban szükség van.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### Tedd meg a megfelelő lépéseket
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+A megfelelő információk összegyűjtése és feldolgozása után el kell dönteni, hogy mit kell tenni. Tekintettel a következő lépésekre, ne feledd, hogy a moderátor célja az, hogy biztonságos, tiszteletteljes és együttműködő környezetet teremtsen. Ne csak arra gondoljunk, hogy hogyan kell kezelni a szóban forgó helyzetet, hanem arra is, hogy a válasz hogyan befolyásolja a közösség további viselkedését és elvárásait.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Amikor valaki bejelenti a magatartási kódex megsértését, akkor annak kezelése a te feladatod és nem az övé. Néha a bejelentő olyan információkat tár fel, amelyek nagy kockázatot jelenthetnek karrierjük, hírnevük vagy fizikai biztonságuk szempontjából. Ha arra kényszeríted őket, hogy szálljanak szembe a szabálysértővel, azzal kompromittálod őket. A közvetlen kommunikációt neked kell lefolytatnod ebben az ügyben, kivéve, ha a bejelentő mást kér.
 
-There are a few ways you might respond to a code of conduct violation:
+Van számos lehetőséged arra, hogy eljárj a szabálysértőkkel szemben:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Publikusan figyelmeztesd a kérdéses személyt** és magyarázd el, hogy a viselkedése negatívan hatott másokra, lehetőleg abban a csatornában, ahol történt. Ahol lehetséges, a nyilvános kommunikáció biztosítja a közösség többi tagját, hogy komolyan veszed a magatartási kódexet. Légy kedves, de szilárd a kommunikációban.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Privát módon lépj kapcsolatba a kérdéses személlyel** és magyarázd el, hogy a viselkedése negatívan hatott másokra. Szenzitív információk esetén privát csatornákat használj. Ha valakiben privát levelezést folytatsz, akkor jó ötlet BCC vagy CC mezőben értesíteni a bejelentőt, így értesül róla, hogy cselekszel. Mindenképpen kérd ki az engedélyét a bejelentőnek mielőtt a CC mezőbe teszed.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Néha a fentiek nem érnek célt. A kérdéses személy agresszív vagy ellenséges lesz és nem változtatja meg a viselkedését. Ebben a helyzetben meg kell fontolnod keményebb intézkedéseket is, mint például:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **A kérdéses személyt felfüggeszted** a projekten, megtiltva neki átmeneti ideig, hogy a projekt munkáiban bármilyen módon részt vegyen.
 
-* **Permanently ban** the person from the project
+* **Véglegesen kizárod** a kérdéses személy a projektből.
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+A felfüggesztés és kizárás súlyos büntetés és azt mutatja, hogy valaki összeegyeztethetetlen a projekttel és szabályaival. Csak akkor alkalmazd ezt, amikor biztos vagy abban, hogy nem lehet megállapodásra jutni a probléma kezelésében.
 
-## Your responsibilities as a maintainer
+## A felelősséged karbantartóként
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+A magatartási kódex nem önkényesen végrehajtott törvény. Te vagy a magatartási kódex végrehajtója, és a te felelősséged, hogy kövesse a közösség a magatartási kódex által megállapított szabályokat.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+Karbantartóként létrehoztad a közösségére vonatkozó iránymutatásokat, és érvényesíteni neked kell ezeket a magatartási kódexben meghatározott szabályok szerint. Ez azt jelenti, hogy a magatartási kódex bármely részét komolyan kell venned. A bejelentőnek alapos és tisztességes felülvizsgálatot kell kapnia a panaszáról. Ha úgy ítéled meg, hogy az általa jelentett magatartás nem sérti a kódexet, közöld azt egyértelműen vele, és magyarázd meg, miért nem fogsz a továbbiakban cselekedni. Ezután már rá van bízva, hogy a továbbiakban mit csinál: eltűri a magatartást, amelyet bejelentett, vagy abbahagyja a közösségben való részvételt.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+A viselkedésről szóló jelentés, amely technikailag nem sérti a magatartási kódexet, még mindig jelezheti azt, hogy probléma van a közösségben, és meg kell vizsgálnia ezt a lehetséges problémát, és ennek megfelelően cselekednie kell. Ez magában foglalhatja magatartási kódex felülvizsgálatát, hogy tisztázza az elfogadható viselkedést és / vagy beszélj azokkal a személyekkel, akiknek a viselkedését jelentették, és mond el nekik, hogy míg a magatartási kódexet nem sértették meg, annak határán állnak, és bizonyos résztvevők kényelmetlenül érzik magukat emiatt.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+Végül, mint fenntartó, beállíthatod és érvényesítheted a szabványokat az elfogadható viselkedésre. Lehetőséged van a projekt közösségi értékeinek alakítására, és a résztvevők majd elvárják, hogy ezeket az értékeket tisztességesen és következetesen érvényesítsd.
 
-## Encourage the behavior you want to see in the world 🌎
+## Erősítsd azt a viselkedést amit látni akarsz a világban 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Ha egy projekt ellenségesnek vagy nem kívánatosnak tűnik, még akkor is, ha csak egy ember az oka, akinek a viselkedését mások tolerálják, akkor is még több közreműködőt veszíthetsz, akik közül néhánnyal soha nem találkozhatsz többé. Nem mindig könnyű a magatartási kódex elfogadása vagy érvényesítése, de a barátságos környezet elősegítése segít a közösségnek.
