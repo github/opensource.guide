@@ -1,12 +1,12 @@
 ---
-lang: en
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+lang: ro
+title: Clădirea comunităților primitoare
+description: Construirea unei comunități care încurajează oamenii să folosească, să contribuie la, și să promoveze proiectul tău
 class: building
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
-  growing-your-community: "Growing your community"
-  resolving-conflicts: "Resolving conflicts"
+  setting-your-project-up-for-success: "Configurarea proiectului tău pentru succes"
+  growing-your-community: "Dezvoltarea comunității tale"
+  resolving-conflicts: "Rezolvarea conflictelor"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -14,45 +14,52 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## Configurarea proiectului tău pentru succes
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+Ți-ai lansat proiectul, răspândești cuvântul, și oamenii îi aruncă priviri. Minunat! Acum, cum îi faci să rămână prin preajmă?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+O comunitate primitoare este o investiție în viitorul și reputația proiectului tău. Dacă proiectul tău abia începe să își vadă primele contribuții, începe prin a da contributorilor timpurii o experiență pozitivă, și fă-le ușor să se tot întoarcă.
 
-### Make people feel welcome
+### Fă oamenii să se simtă bineveniți
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+Un mod de a te gândi despre comunitatea proiectului tău este prin ceea ce @MikeMcQuaid numește [pâlnia contributorilor](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
-![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![Pâlnia contributorilor](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+Pe măsură ce îți construiești comunitatea, consideră cum cineva din partea de sus a pâlniei (un utilizator potențial) ar putea teoretic să își facă un drum către partea din jos (un întreținător activ). Scopul tău este să reduci fricțiunea la fiecare etapă a experienței contributorilor. Când oamenii înving ușor, ei se vor simți stimulați să facă mai mult.
 
-Start with your documentation:
+Începe cu documentația ta:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
+* **Fă ușor pentru cineva să-ți folosească proiectul.** [Un README prietenos](../starting-a-project/#writing-a-readme) și exemple clare de cod vor face mai ușor pentru oricine care ajunge la proiectul tău să înceapă.
+* **Explică clar cum se contribuie**, folosind [fișierul tău CONTRIBUTING](../starting-a-project/#writing-your-contributing-guidelines) și păstrându-ți problemele actualizate.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+[Sondajul open source 2017 al GitHub](http://opensourcesurvey.org/2017/) a arătat că documentația incompletă sau confuzionantă este cea mai mare problemă pentru utilizatorii de sursă deschisă. Documentația bună invită oamenii să interacționeze cu proiectul tău. În cele din urmă, cineva va deschide o problemă sau o cerere de pull. Folosește aceste interacții ca oportunități de a-i muta în jos pe pâlnie.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **Când cineva nou ajunge la proiectul tău, mulțumește-i pentru interesul său!** E nevoie de doar o singură experiență negativă pentru a face pe cineva să nu vrea să se întoarcă.
+* **Fii receptiv.** Dacă nu răspunzi la problema lui/ei timp de o lună, șansele sunt că a uitat deja de proiectul tău.
+* **Deschide-ți mintea în legătură cu tipurile de contribuții pe care le vei accepta.** Mulți contributori încep cu un raport de bug sau o corectare mică. Există [multe căi de a contribui](../how-to-contribute/#what-it-means-to-contribute) la un proiect. Lasă-i pe oameni să ajute cum vor ei să ajute.
+* **Dacă există o contribuție cu care nu ești de acord,** mulțumește-i pentru ideea sa și [explică de ce](../best-practices/#learning-to-say-no) nu se încadrează în domeniul proiectului, legând către documentație relevantă dacă o ai.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  <p>
+    A contribui la open source este mai ușor pentru unii decât pentru alții. Există multă frică de a se țipa pentru că nu s-a făcut ceva corect sau pur și simplu pentru că nu se potrivește. (...) Dând contributorilor un loc unde să contribuie cu competențe tehnice foarte scăzute (documentație, conținut web markdown, etc) poți reduce aceste probleme foarte mult.
+  </p>
+  <p>
+    <em>
+      Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+Majoritatea contributorilor la sursă deschisă sunt „contributori ocazionali”: oameni care contribuie la un proiect doar ocazional. Un contributor ocazional ar putea să nu aibă timp să ajungă la maximă viteză cu proiectul tău, deci sarcina ta este să faci ușor pentru ei să contribuie.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Încurajarea altor contributori este o investiție în tine însuți, de asemenea. Când împuternicești cei mai mari fani să meargă cu munca de care sunt încântați, este mai puțină presiune să faci totul de unul singur.
 
-### Document everything
+### Documentează totul
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
@@ -106,7 +113,7 @@ Public communication can be as simple as directing people to open an issue inste
 
 Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
 
-## Growing your community
+## Dezvoltarea comunității tale
 
 Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
 
@@ -184,7 +191,7 @@ While you may not always find someone to answer the call, putting a signal out t
   </p>
 </aside>
 
-## Resolving conflicts
+## Rezolvarea conflictelor
 
 In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
 
