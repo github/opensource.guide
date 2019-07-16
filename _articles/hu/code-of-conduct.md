@@ -62,7 +62,7 @@ További inspirációért nézd meg a Django magatartás kódexét [enforcement 
 
 ## A magatartási kódex végrehajtása
 
-Néha az erőfeszítések ellenére valaki megtesz valamit, ami megsérti ezt a kódexet. Ekkor számos módja van a negatív, vagy káros viselkedés kezelésének.
+Néha, az erőfeszítéseid ellenére, valaki megtesz valamit, ami megsérti ezt a kódexet. Ekkor számos módja van a negatív, vagy káros viselkedés kezelésének.
 
 ### Gyűjts információt a helyzetről
 

@@ -122,7 +122,7 @@ Do your best to adopt a zero-tolerance policy towards these types of people. If 
 
 Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#a-magatartási-kódex-végrehajtása). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
 
 ### Meet contributors where they're at
 
