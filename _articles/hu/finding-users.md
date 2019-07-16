@@ -31,55 +31,55 @@ Kicsit mélyebb üzenetért, nézd meg a Mozilla ["Personas and Pathways"](https
 ## Segítsd az embereket abban, hogy megtalálják és kövessék a projektedet
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  Ideális esetben egyetlen URL-címre van szükség, amelyet a projekthez kapcsolódóan népszerűsíthetsz és ahová az embereket irányíthatod. Nem kell egy kifinomult weboldal vagy de még domain név sem, ugyanakkor a projektnek szüksége van egy központi helyre.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+Segíted az embereket azzal emlékezni a projektre, ha egyértelmű és egyszerűen megjegyezhető a neve és az hogy hol található.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**Legyen egyértelmű, hogy hol népszerűsíted a munkád.** Ez lehet Twitter vagy IRC csatorna, vagy GitHub URL, amely könnyen elérhető mindenkinek. Ezek a helyek a projekt növekvő közösségének is helyet biztosítanak.
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides. 
+Ha még nem szeretnél projekthez köthető kommunikációs csatornákat kiépíteni, akkor a saját Twitter vagy GitHub helyeiden is meg tudod azt tenni. A Twitter vagy GitHub alapján a felhasználók tudni fogják hogyan érjenek el téged és a projektet. Ha eseményen vagy szakmai találkozókon adsz elő, akkor bizonyosodj meg róla, hogy ezeket a helyeket feltüntetted az előadás anyagodban. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  Akkoriban vétettem egy hibát azzal, hogy nem indítottam Twitter csatornát a projektnek. A Twitter nagyszerű hely arra, hogy az emberek naprakészen értesüljenek a projektről és hogy az emberek ehhez hozzáférjenek.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**Fontold meg webhely létrehozását a projektedhez.** A weboldal barátságosabbá és könnyebbé teszi a keresést, főleg ha ez áttekinthető dokumentációval és útmutatókkal párosul. Egy weboldal azt sugallja, hogy a projekt aktív, így az emberek jobban oda fognak rá figyelni. Mutass példákat arra, hogy a felhasználók hogyan tudják használni a munkádat.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), a Django társalapítója mondta egyszer a weboldalról, hogy _"messze a legjobb dolog volt, amit csinálhattunk a Django indulásakor"_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+Ha a projekted a GitHub-on van, akkor használd a [GitHub Pages](https://pages.github.com/) funkciót arra, hogy a weboldalt létrehozd. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), és [Middleman](https://middlemanapp.com/) [és még számos példa](https://github.com/showcases/github-pages-examples) a nagyszerű, áttekinthető weboldalakra.
 
 ![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+Most, hogy van a projektednek üzenete és van egy könnyű módja annak, hogy az emberek megtalálják a projektedet, vágjunk bele, és beszéljünk az emberekkel.
 
-## Go where your project's audience is (online)
+## Ott kell lenni, ahol a hallgatódág van (online)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+Az online tájékoztatás nagyszerű módja annak, hogy gyorsan megoszthasd és terjeszd az információt. Az online csatornák használatával van a legjobb lehetőséged a közönség elérésére.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+Használd ki a meglévő online közösségeket és platformokat, hogy elérd a saját közönségedet. Ha a nyílt forráskódú projekted szoftver projekt, akkor jó közönséget találsz erre a [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), vagy [Quora](https://www.quora.com/) oldalakon. Találd meg azokat a csatornákat, ahol olyan emberek vannak, akik a legtöbbet profitálhatnak a munkádból, vagy a legjobban kiváncsiak lehetnek rá.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  Minden programnak vannak olyan speciális funkciói, amelyet a felhasználóknak csak egy része talál hasznosnak. Nem kell minden embert elérni, akiket nem érdekel ez. Inkább célozz meg olyan közösségeket, amelyeknek előnyére válik a te projekted.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+Nézzük, hogyan lehet megtalálni a lényeges helyeket, ahol megoszthatod a projekted:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **Ismerjd meg a kapcsolódó nyílt forráskódú projekteket és közösségeket.** Néha nem kell közvetlenül hírdetni a projekted. Ha a projekt tökéletes az adathalmaz kutatók számára, akik Python-t használnak, ismerkedj meg a Python adatkutató közösséggel. Amint az emberek megismerkednek, természetes lehetőség adódik arra, hogy beszéljenek és megoszthassák egymás munkáját.
+* **Találd meg azokat a problémákat, amelyet a projekted megold.** kered meg azokat az embereket, akik érintettek lehetnek a megoldásban. Válaszold meg a kérdéseiket és találd meg azt a taktikát, amelynek segítségével elkezdik használni a projektedet.
+* **Kérj visszajelzést.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
 
 Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
 
