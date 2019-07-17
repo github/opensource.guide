@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: Vezetés és irányítás
+description: A nyílt forráskódú projektek részére előnyt jelent a döntéshozatal formális szabályozása.
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -10,66 +10,66 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## A növekvő projekt irányításának megértése
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+A projekt egyre növekszik, az emberek elkötelezettek, és te is elkötelezted magad, hogy ezt a dolgot csinálod. Ebben a szakaszban valószínűleg érdekelni fog az, hogy hogyan kell a rendszeres résztvevőket beépíteni a munkafolyamatba, függetlenül attól, hogy valaki kódot ad hozzá, vagy épp megoldja a közösségi vitákat. Ezeket a kérdéseket válaszoljuk most meg.
 
-## What are examples of formal roles used in open source projects?
+## Milyen példák vannak a nyílt forráskódú projektekben használt formális szerepekre?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Sok projekt hasonló struktúrát követ a résztvevői szerepek és a szerep azonosítása szempontjából.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Hogy ezek a szerepek valójában mit jelentenek, teljesen rajtad múlik. Íme néhány szerepkör:
 
-* **Maintainer**
-* **Contributor**
-* **Committer**
+* **Karbantartó (Maintainer)**
+* **Résztvevő (Contributor)**
+* **Commiter (Committer)**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**Néhány projektnél a "karbantartók"** azok az emberek akiknek kód módosítási joguk van. Más projektekben, egyszerűen csak hétköznapi résztvevők, akik a README állományban fel vannak sorolva.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+A karbantartó nem feltétlen szükséges, hogy olyan ember legyen aki kódot ír a projektben. Inkább ő olyan, aki nagyon sok munkát fektet a projektbe, hogy ismert legyen az, vagy rengeteg dokumentációt ír, hogy könnyebben érthető legyen a projekt mások számára. Függetlenül attól, hogy mit csinál nap mint nap, a karbantartó valószínűleg olyan ember, aki felelősséget érez a projektért, és elkötelezett az iránt.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**"Résztvevő" akárki lehet** aki kommentez egy hibát vagy egy beolvasztási kérelmet, vagy más értéket ad a projekthez (megold egy hibát, kódot ír, vagy eseményeket szervez), vagy bárki akinek a módosítását beolvasztották a projektbe (talán ez a legszűkebb definíció).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[Node.js,\] esetén mindenki, aki megjelenik mint kommentelő egy hibánál, vagy mint programozó hozzájárul a kódhoz, az a projekt közösségének tagjává válik. Látni lehet azt, ahogy felhasználóból a projekt résztvevőivé válnak az emberek.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**A "committer" fogalma** segít abban, hogy megkülönböztethessük a kódhoz való hozzáférést, mint speciális felelősség attól, amelyet más résztvevői típusok képviselnek.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#mit-jelent-a-hozzájárulás) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Bármilyen szerepkört definiálhatsz a projektedben, de [fontold meg a széleskörben használt definíciókat](../how-to-contribute/#mit-jelent-a-hozzájárulás) hogy ösztönözd a részvétel más formáit is. Használhatsz a vezetői szerepeket, hogy hivatalosan elismerd azokat a személyeket, akik kiemelkedő részvételt nyújtottak a projektben, függetlenül a technikai készségeiktől.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  Úgy ismerhetsz, mint a Django feltalálója ... de a vlóságban én csak egy alkalmazott srác voltam, aki egy évvel azután kezdett rajta dolgozni, miután már kész volt. (...) Az emberek azt feltételezik, hogy a programozási készségem miatt vagyok sikeres ... de a legjobb esetben is egy átlagos programozó vagyok.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Hogyan formalizálhatom ezeket a vezetői szerepeket?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+A vezetői szerepek formalizálása segít abban, hogy az emberek érezzék a felelősséget, és hírdeti a többi közösségi tagnak, kitől várhat segítséget.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+Kisebb projekt esetén a vezetők kijelölése olyan egyszerű, hogy a README vagy a CONTRIBUTORS szövegfájlba beírod őket.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Nagyobb projekt esetén, ha van weboldala, hozz létre egy csapatoldalt, ahol bemutathatod a vezetőket. Például, [Postgres](https://github.com/postgres/postgres/) projektnek van egy[átfogó csapatoldala](https://www.postgresql.org/community/contributors/) rövid bemutatkozással minden résztvevő esetén.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Ha a projektben nagyon aktív a közreműködő közösség, akkor a „karbantartók” szűkebb köre vagy akár albizottságok alakulhatnak ki, akik a különböző problémakörök (például biztonsági, problémamegoldó vagy közösségi magatartás) kezelését vállalják. Hagyd, hogy az emberek önszerveződjenek és önkéntesek jelentkezzenek azokért a szerepekért, amelyeket a legjobban szeretnének.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[Mi\] kiegészítettük a központi csapatot számos "alcsoporttal". Minden alcsoportnak speciális területe van, például nyelvi tervezés vagy a programozói könyvtárak. (...) A globális koordináció és a projekt egészének erős, koherens elképzeléseinek biztosítása érdekében minden egyes alcsoportot a központi csapat egy tagja vezeti.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+A vezetői csapatok egy kijelölt csatornát hozhatnak létre (például IRC) vagy találkozhatnak rendszeresen a projekt megbeszéléseken (mint a Gitter vagy Google Hangout). Akár níilcánosak is lehetnek ezek, így a többi résztvevő is láthatja. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), például, [minden héten időt biztosít erre](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Miután létrehoztad a vezetői szerepeket, ne felejtsd el dokumentálni, hogyan érhetik el őket az emberek! Határozd meg egy világos folyamatot arra vonatkozóan, hogy valaki hogyan válhat karbantartóvá, vagy csatlakozhat egy albizottsághoz a projektben, és írd be a GOVERNANCE.md-be.
 
 Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
 
