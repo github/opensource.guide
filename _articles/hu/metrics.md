@@ -29,7 +29,7 @@ Például, a [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb
 
 A népszerűség nem minden. Mindenki különböző okokból kezd a nyílt forráskódba. Ha a nyílt forráskód karbantartó célja, hogy megmutassa a munkáját, átlátható legyen a kódja, vagy hogy élvezze a munkát, akkor a mérőszámok nem biztos, hogy fontosak számára.
 
-Ha viszont mélyebb szinten akarod megismerni a projektedet, számos módon kell elemezned a projekted aktívitását.
+Ha viszont mélyebb szinten akarod megismerni a projektedet, számos módon kell elemezned a projekted aktivitását.
 
 ## Felfedezés
 
@@ -68,59 +68,59 @@ Ha a felhasználás alacsonyabb, mint a projektet felfedező személyek száma, 
 * A projekted nem érte el sikeresen a hallgatóságot, vagy
 * Rossz közönséget céloztál meg
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+Például, ha a projekt a Hacker News első oldalára kerül, valószínűleg látni fogsz egy kiugrást a forgalomban, de alacsonyabb a valódi érdeklődők aránya, mert mindenkit elérsz a Hacker News-on. Ha Ruby projekted van, ami bemutatásra kerül egy Ruby konferencián, akkor valószínűleg nagyobb számban lesznek valódi érdeklődők a célközönségből.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Próbáld meg kitalálni, hogy honnan jönnek a látogatók, ezért kérj visszajelzéseket a projekt oldalon, hogy megtudd, hogy a fenti két eset közül melyik jelent problémát.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+Ha már tudod, hogy az emberek használják a projektet, érdemes megpróbálni kitalálni, mit csinálnak vele. Fejlesztenek-e további kódokat ráépítve (fork), hogy hozzá adjanak új funkciókat? Vagy esetleg tudományos vagy üzleti célokra használják?
 
-## Retention
+## Fenntarthatóság
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+Az emberek megtalálták a projektedet és használják már. A következő kérdést kell megválaszolnod magadnak: _Az emberek részt vesznek-e a projektben?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+Soha sem túl korai elkezdeni gondolkodni a közreműködőkről. Ha nincsenek más emberek, akik részt vennének a projektben, akkor egy egészségtelen helyzetbe kerülhetsz azzal, hogy ugyan a projekt _közismert_ (sokan használják), de kevesen támogatják (nincs a karbantartónak elég ideje a projektre).
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+A fenntarthatósághoz szükséges, hogy [új résztvevők érkezzenek a projektbe](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), mert előfordulhat, hogy a jelenlegi résztvevők más projektek felé fordulnak.
 
-Examples of community metrics that you may want to regularly track include:
+Példák a közösségi metrikákra, amelyeket rendszeresen nyomon kell követni:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Résztvevők száma és a résztvevőkre jutó kódmódosítások száma:** Megadja, hogy hány résztvevő van a projekteden, ki az aki sokat járul hozzá és ki az, aki keveset. A GitHub-on, az "Insights" -> "Contributors" alatt találod ezt meg. Jelenleg itt csak azt látod, aki a főágba járult hozzá a projekthez.
 
 ![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **Új, esetleges, és rendszeres résztvevő:** Segítségével nyomon követheted, az új résztvevőket és hogy visszatérnek-e. (Esetleges résztvevőknek kevés a kódhoz történő hozzájárulása. Ez jelenthet 1, vagy 5 módosítást is persze, az rajtad múlik mi a "kevés".) Új résztvevők nélkül a projekt stagnálhat.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **A nyitott problémák és a nyitott beolvasztási kérelmek száma:** Ha ezek a számok túl magasak, akkor segítségre van szükséged a problémamegoldáshoz és a kódok áttekintéséhez.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **A nyitott problémák és a nyitott beolvasztási kérelmek üteme:** Ez azt jelenti, hogy foglalkoznak a projekteddel az emberek. Ha ez a szám növekszik, akkor az emberek érdekeltek a projektedben.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Közreműködők típusai:** Például, kód módosítás, elírás javítás vagy hibajavítás, vagy kommentelés a problémákhoz, módosításokhoz.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  A nyílt forráskód több, mint maga a kód. A sikeres nyílt forráskódú projektek magukban foglalják a kód és dokumentációs hozzájárulásokat, valamint ezen változásokkal kapcsolatos beszélgetéseket.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
 </aside>
 
-## Maintainer activity
+## Karbantartói aktivitás
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+És végül: rövid úton képessé kell válnia a karbantartóknak a beérkező hozzájárulások kezelésére. Az utolsó kérdés magadhoz: _Képes vagyok reagálni a közösség munkájára, jelzéseire?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+Az inaktív karbantartók a nyílt forráskódú projektek szűk keresztmetszetévé válnak. Ha valaki hozzájárulást nyújt be, de soha nem kap reakciót a karbantartótól, akkor elbátortalanodhat és elhagyja a projektet.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Egy kutatás a Mozillától](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) azt mutatta ki, hogy a karbantartók reakció ideje és készsége kritikus tényező a folyamatos hozzájárulások eléréséhez.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Fontold meg annak nyomon követését, hogy mennyi időt vesz igénybe, amíg válaszolsz a hozzájárulásokra, függetlenül attól, hogy hibajegy vagy beolvasztási kérelem-e. A válasz nem jelenti azt, hogy cselekedni is kell. Például lehet ennyi: _"Köszönöm a hozzájárulásod! Jövő héten tudom átnézni."_
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+Meg tudod azt is mérni, hogy a hozzájárulási folyamat különböző fázisai között mennyi idő telik el, például:
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+* Átlagosan mennyi ideig van nyitva egy hibajegy
+* Vajon mennyi hibajegy van lezárva beolvasztási kérelemmel
+* Vajon mennyi régi, nem aktuális hibajegyet kellett lezárni
+* Átlagos ideje a beolvasztási kérelem elfogadásának és beolvasztásának
 
-## Use 📊 to learn about people
+## Használj 📊 hogy többet tudj meg a közösségről
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+A metrikák megértése segít egy aktív, fejlődő nyílt forráskódú projekt létrehozásában. Még ha nem is követed nyomon az összes metrikát, használd a fenti módszereket, hogy lásd a viselkedési mintákat amelyek segítik a projektedet.
