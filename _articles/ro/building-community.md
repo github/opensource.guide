@@ -63,55 +63,64 @@ Majoritatea contributorilor la sursă deschisă sunt „contributori ocazionali�
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  <p>
+    Ai fost vreodată la un eveniment (despre tehnologie) unde nu ai știut pe nimeni, dar toți ceilalți păreau că stau în grupuri și conversează ca prieteni vechi? (...) Acum imaginează-ți că vrei să contribui la un proiect cu sursă deschisă, dar nu vezi de ce sau cum are loc asta.
+  </p>
+  <p>
+    <em>
+      Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+Când începi un proiect nou, poate să se simtă natural să-ți păstrezi munca privată. Dar proiectele cu sursă deschisă prosperă când tu documentezi procesul tău în public.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+Când notezi lucruri, mai mulți oameni pot participa la fiecare pas al drumului. Ai putea primi ajutor la ceva despre care nici nu știai că e necesar.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+Scriind lucruri înseamnă mai mult decât doar documentație tehnică. În oricare moment în care simți nevoia de a scrie ceva sau de a discuta în privat proiectul tău, întreabă-te dacă poți să faci acel lucru public.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Fii transparent în legătură cu foaia de parcurs a proiectului tău, tipurile de contribuții pe care le cauți, cum sunt examinate contribuțiile, sau de ce ai făcut anumite decizii.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+Dacă observi mai mulți utilizatori care dau peste aceeași problemă, documentează răspunsul în README.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+Pentru întâlniri, consideră publicarea notițelor sau a pachetelor tale într-o problemă relevantă. Feedback-ul pe care îl vei primi de la acest nivel de transparență te poate surprinde.
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+Documentarea a tot se aplică și muncii pe care o faci. Dacă lucrezi pe o actualizare substanțială pentru proiectul tău, pune-o într-o cerere de pull și marcheaz-o ca lucrare în desfășurare (WIP). În acest mod, alți oameni pot să se simtă implicați în proces mai devreme.
 
-### Be responsive
+### Fii receptiv
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+Pe măsură ce [îți promovezi proiectul](../finding-users), oamenii vor avea feedback pentru tine. Ei ar putea avea întrebări despre cum merg lucrurile, sau să aibă nevoie de ajutor să înceapă.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+Încearcă să fii receptiv când cineva completează o problemă, trimite o cerere de pull, sau pune o întrebare despre proiectul tău. Când răspunzi repede, oamenii vor simți că sunt o parte din dialog, și ei vor fi mai entuziaști în legătură cu participarea.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+Chiar dacă nu poți examina cererea imediat, recunoașterea ei devreme ajută mărirea implicării. Iată cum @tdreyno a răspuns unei cereri de pull pentru [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![Middleman pull request](/assets/images/building-community/middleman_pr.png)
+![cerere de pull Middleman](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Un studiu Mozilla a găsit că](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributorii care au primit examinări de cod în 48 de ore au avut o rată de întoarcere și de contribuire repetată mult mai mare.
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Conversațiile despre proiectul tău ar putea de asemenea să aibă loc în alte locuri de pe Internet, cum ar fi Stack Overflow, Twitter, sau Reddit. Poți configura notificări în unele din aceste locuri astfel încât ești alertat când cineva îți menționează proiectul.
 
-### Give your community a place to congregate
+### Dă comunității tale un loc de adunare
 
-There are two reasons to give your community a place to congregate.
+Există două motive pentru care să dai comunității tale un loc de adunare.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+Primul motiv este pentru ei. Ajută oamenii să se cunoască între ei. Oamenii cu interese comune vor dori în mod inevitabil un loc unde să vorbească despre acestea. Și când comunicarea este publică și accesibilă, oricine poate citi arhivele trecutului pentru a ajunge la viteză și a participa.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+Al doilea motiv este pentru tine. Dacă nu dai oamenilor un loc public pentru a vorbi despre proiectul tău, ei probabil te vor contacta direct. La început, ar putea părea destul de ușor să răspunzi la mesaje private „doar de data asta”. Dar cu timpul, în special dacă proiectul tău devine mai popular, te vei simți epuizat. Rezistă tentației de a comunica cu oameni despre proiectul tău în privat. În schimb, direcționează-i către un canal public desemnat.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+Comunicarea publică poate fi atât de ușoară ca direcționarea oamenilor către deschiderea unei probleme în schimbul trimiterii de email direct ție sau comentarea pe blogul tău. Ai putea de asemenea configura o listă de email-uri, sau crea un cont Twitter, Slack, sau un canal IRC pentru oameni să vorbească despre proiectul tău. Sau încearcă-le pe toate de mai sus!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) pune deoparte ore de birou din 2 în 2 săptămâni pentru a ajuta membrii comunității:
 
+> Kops de asemenea are timp pus deoparte din 2 în 2 săptămâni pentru a oferi ajutor și îndrumare comunitații. Întreținătorii Kops au căzut de acord să pună timp deoparte specific dedicat lucrului cu nou-veniții, ajutării cu PR-urile, și discutării de noi facilități.
+> 
 > Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+Excepții notabile pentru comunicarea publică sunt: 1) probleme de securitate și 2) încălcări sensibile ale codului de conduită. Ar trebui să ai întotdeauna o cale pentru oameni să raporteze aceste probleme în mod privat. Dacă nu dorești să folosești adresa ta de email personală, configurează o adresă de email dedicată.
 
 ## Dezvoltarea comunității tale
 
