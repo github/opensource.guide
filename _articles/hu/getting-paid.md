@@ -1,7 +1,7 @@
 ---
 lang: hu
 title: Fizetés a nyílt forráskódú munkaért
-description: Tartsd fenn a nyílt forráskódú proejtedet azáltal, hogy a projektért vagy az idődért fizetnek.
+description: Tartsd fenn a nyílt forráskódú projektedet azáltal, hogy pénzügyi támogatókat szerzel.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -16,7 +16,7 @@ A legtöbb nyílt forráskódú munka önkéntes. Például, ha valaki találkoz
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-Kerestem egy hobbi projektet, amelyen Karácsony környéki szabadságom alatt fejleszgethettem. (...) Volt egy PC-m, de azon kívül más nem. Gondoltam írok egy fordítót ahhoz a programnyelvhez, amin már régóta gondolkodtam. (...) Akkor választottam a Python megnevezésnek.
+Kerestem egy hobbi projektet, amelyen a Karácsony környéki szabadságom alatt dolgozhattam. (...) Volt egy PC-m, de azon kívül más nem nagyon. Gondoltam írok egy fordítót ahhoz a programnyelvhez, amin már régóta gondolkodtam. (...) Akkor választottam a Python nevet.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
@@ -78,9 +78,9 @@ Ha még nincs nyílt forráskódú projekted amin dolgozhatnál, akkor egyeztesd
 
 Számos cég fejleszt nyílt forráskódú programokat azért, hogy az imázsukat javítsák és a tehetséges fejlesztőket megszerezzék.
 
-@hueniverse, például úgy találta, hogy a pénzügyi okok miatt kezdett a [Walmart a nyílt forráskódba fektetni](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). És @jamesgpearce szerint a Facebook nyílt forráskódú programja [változatott a munkaerő toborzáson](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon):
+@hueniverse, például úgy találta, hogy a pénzügyi okok miatt kezdett a [Walmart a nyílt forráskódba fektetni](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). És @jamesgpearce szerint a Facebook nyílt forráskódú programja [változtatott a munkaerő toborzáson](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon):
 
-> Ez szorosan illeszkedik a fejlesztői kultúránkhoz és a szervezetünk megítéléséhez. megkérdeztük a kolléginkat, "Tudtad-e azt, hogy a Facebooknak vannak nyílt forráskódú projektjei?". Kétharmad válaszolt igennel. A megkérdezettek fele mondta azt, hogy ez jelentősen hozzájárult a döntésükhöz, hogy nálunk dolgozzanak! Ezek nem elhanyagolható számok, és remélem, hogy ez a trend folytatódik.
+> Ez szorosan illeszkedik a fejlesztői kultúránkhoz és a szervezetünk megítéléséhez. Megkérdeztük a kollégáinkat, "Tudtad-e azt, hogy a Facebooknak vannak nyílt forráskódú projektjei?". Kétharmad válaszolt igennel. A megkérdezettek fele mondta azt, hogy ez jelentősen hozzájárult a döntésükhöz, hogy nálunk dolgozzanak! Ezek nem elhanyagolható számok, és remélem, hogy ez a trend folytatódik.
 
 Ha a vállalat letér erről az útról, fontos, hogy a közösség és a vállalati tevékenység közötti határokat tisztán tartsuk. Végső soron a nyílt forráskód a világ minden tájáról érkező emberek hozzájárulásaival gazdagodik, és ez jóval nagyobb, mint bármelyik vállalat vagy telephely.
 
@@ -92,17 +92,17 @@ Ha a vállalat letér erről az útról, fontos, hogy a közösség és a válla
   </p>
 </aside>
 
-Ha nem tudod meggyőzni a jelenlegi munkáltatót a nyílt forráskódú munka fontosságáról, fontolj meg eseteleg egy új munkaadót olyat, aki ösztönzi a munkavállalók hozzájárulását a nyílt forráskódhoz. Keress olyan cégeket, amelyek kifejezetten a nyílt forráskódú munkát támogatják. Például:
+Ha nem tudod meggyőzni a jelenlegi munkáltatót a nyílt forráskódú munka fontosságáról, fontolj meg esetleg egy új munkaadót olyat, aki ösztönzi a munkavállalók hozzájárulását a nyílt forráskódhoz. Keress olyan cégeket, amelyek kifejezetten a nyílt forráskódú munkát támogatják. Például:
 
 * Néhány cég, mint a [Netflix](https://netflix.github.io/) vagy a [PayPal](https://paypal.github.io/), külön weboldala van, amin a nyílt forráskódú munkát támogatják
 * [Rackspace](https://www.rackspace.com/en-us) publikálta a saját [nyílt forráskódú részvételének szabályait](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) a munkavállalói számára
 
-A nagy cégeknél lévő projektek, mint a [Go](https://github.com/golang) vagy a [React](https://github.com/facebook/react), szintén szeretné, ha az alkalmazottai nyílt forráskódon dolgoznának.
+A nagy cégeknél lévő projektek, mint a [Go](https://github.com/golang) vagy a [React](https://github.com/facebook/react), szintén szeretné, ha az alkalmazottjai nyílt forráskódon dolgoznának.
 
 A személyes körülményeidtől függően megpróbálhatsz önállóan pénzt gyűjteni a nyílt forráskódú munkád finanszírozásához. Például:
 
 * @gaearon megalapozta a támogatását a [Redux](https://github.com/reactjs/redux)-nak a [Patreon crowdfunding campaign](https://redux.js.org/)-on keresztül (önkéntes támogatás)
-* @andrewgodwin megalapzta a támogatását a Django schema migrációknak [egy Kickstarter kampányon keresztül](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @andrewgodwin megalapozta a támogatását a Django schema migrációknak [egy Kickstarter kampányon keresztül](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 Végül, néha a nyílt forráskódú projektek díjakat tűznek ki a hibák megoldására, amelyekkel kapcsolatban akár érdemes lehet segítséget nyújtani.
 
@@ -135,7 +135,7 @@ A projektedtől függően kérhetsz szupportért cserébe támogatást, vagy új
 * **[Travis CI](https://github.com/travis-ci)** kínál fizetős verziót privát programokért
 * **[Ghost](https://github.com/TryGhost/Ghost)** alapvetően non-profit, de a felügyelt szolgáltatásokért pénzügyi 
 
-Néhány híres projekt, mint az [npm](https://github.com/npm/npm) és a [Docker](https://github.com/docker/docker), kockézati tőke befektetés révén jutott pénügyi eszközökhöz.
+Néhány híres projekt, mint az [npm](https://github.com/npm/npm) és a [Docker](https://github.com/docker/docker), kockázati tőke befektetés révén jutott pénzügyi eszközökhöz.
 
 ### Jelentkezz pályázatokra
 
@@ -146,44 +146,44 @@ Egyes szoftveralapítványok és cégek támogatást nyújtanak a nyílt forrás
 * **[Libraries.io](https://github.com/librariesio)**  támogatást kapott a [Sloan Foundation](https://sloan.org/programs/digital-technology)-től
 * A **[Python Software Foundation](https://www.python.org/psf/grants/)** támogatást kínál a Python-hoz kapcsolódó projekteknek
 
-Részletesebb lehetőségek és esettanulmányokat írt @nayafia [ebben az útmutatóban](https://github.com/nayafia/lemonade-stand), hogy hogyan juthatunk pénügyi támogatáshoz a nyílt forráskód esetén. A különböző finanszírozási típusok különböző készségeket igényelnek, ezért vedd figyelembe azok erősségeit, gyengeségeit, hogy kitaláld, melyik opció működik neked a legjobban.
+Részletesebb lehetőségek és esettanulmányokat írt @nayafia [ebben az útmutatóban](https://github.com/nayafia/lemonade-stand), hogy hogyan juthatunk pénzügyi támogatáshoz a nyílt forráskód esetén. A különböző finanszírozási típusok különböző készségeket igényelnek, ezért vedd figyelembe azok erősségeit, gyengeségeit, hogy kitaláld, melyik opció működik neked a legjobban.
 
-## Building a case for financial support
+## Pénzügyi támogatás kiépítése
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Függetlenül attól, hogy a projekt új ötlet-e, vagy már évek óta létezik, számíthatsz arra, hogy jelentős figyelmet kell szentelned a lehetséges támogatók azonosítására és arra, ami ráveszi őket a támogatásra.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Akár a saját idődre, akár a projektre készülsz adománygyűjtésre, válaszolnod kell a következő kérdésekre.
 
-### Impact
+### Hatás
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Miért olyan hasznos ez a projekt? Miért szeretik a felhasználók vagy a potenciális felhasználók a projektet? Hol fog tartani öt év múlva a projekt?
 
-### Traction
+### Figyelem
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Próbálj meg  tényeket gyűjteni arra vonatkozóan, hogy a projekt lényeges, legyenek számok, anekdoták vagy ajánlások. Vannak-e olyan cégek vagy ismert emberek, akik most is használják a projektet? Ha nincs ilyen, akkor van-e olyan személy, aki pozitívan nyilatkozott róla?
 
-### Value to funder
+### Érték a támogató részére
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+A finanszírozók, akár a munkáltatód, akár egy alapítvány, gyakran a lehetőségek irányából közelítik meg a támogatás kérdését. Miért kellene támogatniuk a projektedet a kihívások ellenére? Hogyan részesülnek a hozadékából, milyen előnyöket jelent számukra a támogatás?
 
-### Use of funds
+### A támogatás felhasználása
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Pontosan mit fogsz elérni a javasolt finanszírozással? A pénzügyi kérdések helyett inkább a projekt mérföldköveire vagy eredményeire összpontosíts.
 
-### How you'll receive the funds
+### Hogyan kapod meg a támogatást
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+A támogatónak vannak kikötései a kifizetésekre? Például lehet, hogy non-profit vállalkozásnak vagy non-profit támogatónak kell lenned. De lehet, hogy csak magánszemélyt támogatnak, szervezeteket vagy cégeket nem. Ezek az igények támogatónként eltérhetnek, ezért érdemes ezeket felderíteni.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  Évek óta a weboldal barát ikonok piacvezető forrása, több mint 20 millió ember részvételével, és több mint 70 millió webhelyen szerepelt, beleértve Whitehouse.gov oldalt is. (...) A v4 verzió 3 éves. Azóta a webes technológia sokat változott, és őszintén szólva, a Font Awesome egy kicsit elavult. (...) Épp ezért bevezettük a Font Awesome 5-öt. Modernizáltuk és újraírtuk a CSS-eket és újraterveztünk minden ikont elejétől a végéig. A szebb megjelenésről, az egységesebb kinézetről és a jobb olvashatóságról beszélünk.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Kísérletezz és ne add fel
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Pénzügyi támogatást kapni nem könnyű dolog, legyen szó nyílt forráskódról, non-profit szervezetről, vagy szoftver startupról, legtöbb esetben kreatívnak kell lenned. El kell döntened, hogyan szeretnéd a támogatást megkapni, kutatnod kell, és a támogató helyébe kell képzelned magad, hogy meggyőzhesd a támogatásról.
 
->
+> 
