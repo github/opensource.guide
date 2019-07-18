@@ -124,77 +124,100 @@ Excepții notabile pentru comunicarea publică sunt: 1) probleme de securitate �
 
 ## Dezvoltarea comunității tale
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+Comunitățile sunt extrem de puternice. Acea putere poate fi o binecuvântare sau un blestem, depinzând de cum o mânuiești. Pe măsură ce comunitatea proiectului tău crește, există moduri de a o ajuta să devină o forță a construirii, nu a distrugerii.
 
-### Don't tolerate bad actors
+### Nu tolera actori răi
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+Oricare proiect popular va atrage inevitabil oameni care rănesc, în loc de a ajuta, comunitatea ta. Ei ar putea începe dezbateri inutile, să se certe asupra unor facilități triviale, sau să hărțuiască pe alții.
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+Fă tot ce poți pentru a adopta o politică de toleranță zero față de aceste tipuri de oameni. Dacă rămân neverificați, oamenii negativi vor face alți oameni în comunitatea ta incomozi. Ei ar putea chiar să plece.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  <p>
+    Adevărul este că a avea o comunitate susținătoare este cheia. Niciodată nu aș putea face această muncă fără ajutorul colegilor mei, străinilor prietenoși de pe Internet, și canale flecare IRC. (...) Nu te mulțumi cu mai puțin. Nu te mulțumi cu nenorociți.
+  </p>
+  <p>
+    <em>
+      The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+Dezbateri obișnuite asupra unor aspecte triviale ale proiectului tău îi distrag pe alții, inclusiv pe tine, de la concentrarea pe sarcinile importante. Noi oameni care ajung la proiectul tău ar putea vedea aceste conversații și să nu dorească să participe.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+Când vezi comportament negativ întâmplându-se pe proiectul tău, numește-l în public. Explică, cu un ton bun dar ferm, de ce comportamentul lor nu este acceptabil. Dacă problema persistă, ar putea fi nevoie să [le ceri să plece](../code-of-conduct/#enforcing-your-code-of-conduct). [Codul tău de conduită](../code-of-conduct/) poate fi un ghid constructiv pentru aceste conversații.
 
-### Meet contributors where they're at
+### Întâlnește-i pe contributori unde lucrează
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+Documentația bună devine doar mai importantă pe măsură ce comunitatea ta crește. Contributorii ocazionali, care ar putea să nu fie în caz contrar familiari cu proiectul tău, citesc documentația ta pentru a primi rapid contextul de care au nevoie.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+În fișierul tău CONTRIBUTING, spune-le în mod explicit contributorilor noi cum să înceapă. Ai putea chiar să vrei să faci o secțiune dedicată cu acest scop. [Django](https://github.com/django/django), de exemplu, are o pagină de destinație specială pentru primirea noilor contributori.
 
-![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![Pagina pentru noi contributori Django](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+În coada ta de probleme, etichetează bug-urile care sunt potrivite pentru diferite tipuri de contributori: de exemplu, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, sau _"documentation"_. [Aceste etichete](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) fac ușor pentru un nou-venit la proiectul tău să scaneze rapid problemele tale și să înceapă.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+În cele din urmă, folosește-ți documentația pentru a-i face pe oameni să se simtă bineveniți la fiecare pas din drum.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+Nu vei interacționa niciodată cu marea majoritate a oamenilor care ajung la proiectul tău. Ar putea fi contribuții pe care nu le-ai primit deoarece cineva s-a simțit intimidat sau nu a știut de unde să înceapă. Chiar câteva cuvinte puține pot ține un om să nu părăsească proiectul tău frustrat.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe [ghidul său de contribuire](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
 
+> Vrem să începem prin a vă mulțumi că folosiți Rubinius. Acest proiect este o muncă a iubirii, și apreciem toți utilizatorii care descoperă bug-uri, fac îmbunătățiri de performanță, și ajută cu documentația. Orice contribuție este semnificativă, deci vă mulțumim pentru participare. Acestea fiind spuse, iată câteva instrucțiuni pe care vă cerem să le urmați pentru ca să vă abordăm cu succes problema.
+> 
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
-### Share ownership of your project
+### Împarte proprietatea proiectului tău
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  <p>
+    Liderii voștri vor avea păreri diferite, așa cum ar trebui să aibă toate comunitățile sănătoase! Totuși, trebuie să faceți niște pași să asigurați că cea mai tare voce nu învinge întotdeauna obosind oamenii, și că vocile mai puțin proeminente și minoritare sunt auzite.
+  </p>
+  <p>
+    <em>
+      Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+Oamenii sunt stârniți să contribuie la proiecte când au un sens al proprietății. Aceasta nu înseamnă că trebuie să întorci viziunea proiectului tău sau să accepți contribuții pe care nu le vrei. Dar cu cât dai mai mult credit altora, cu atât vor sta prin preajmă mai mult.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Vezi dacă poți găsi moduri de a împărți proprietatea cu comunitatea ta cât de mult poți. Iată câteva idei:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Rezistă la rezolvarea bug-urilor ușoare (non-critice).** În schimb, folosește-le ca oportunități pentru a recruta noi contributori, sau mentorează pe cineva care ar dori să contribuie. I-ar putea părea nenatural la început, dar investiția ta va plăti în timp. De exemplu, @michaeljoseph a cerut unui contributor să trimită o cerere de pull la o problemă a [Cookiecutter](https://github.com/audreyr/cookiecutter) de mai jos, în loc să o rezolve el însuși.
 
-![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![problemă Cookiecutter](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
+* **Începe un fișier CONTRIBUTORS sau AUTHORS în proiectul tău** care listează pe toți cei care au contribuit la proiectul tău, la fel cum face [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* Dacă ai o comunitate considerabilă, **trimite un buletin informativ sau scrie o postare de blog** mulțumind contributorilor. [This Week in Rust](https://this-week-in-rust.org/) al Rust și [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) al Hoodie sunt două exemple bune.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Dă tuturor contributorilor accesul pentru a face commit-uri** @felixge a găsit că aceasta a făcut oamenii [mai încântați să-și finiseze patch-urile](https://felixge.de/2013/03/11/the-pull-request-hack.html), și el chiar a găsit noi întreținători pentru proiecte la care n-a lucrat de ceva timp.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* Dacă proiectul tău este pe GitHub, **mută-ți proiectul din contul tău personal într-o [Organizație](https://help.github.com/articles/creating-a-new-organization-account/)** și adaugă cel puțin un administrator de rezervă. Organizațiile fac mai ușor să lucrezi pe proiecte cu colaboratori externi.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprints/1233.pdf) unul sau doi întreținători care fac cea mai multă muncă. Cu cât mai mare este proiectul tău, și mai mare comunitatea ta, cu atât mai ușor este să găsești ajutor.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+În timp ce poate tu nu găsești întotdeauna pe cineva să răspundă la apel, punând un semnal acolo crește șansele ca alți oameni să intre pe teren. Și cu cât începi mai devreme, cu atât mai devreme oamenii pot ajuta.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  <p>
+      [Este al tău] cel mai mare interes de a recruta contributori care se bucură și care sunt capabili de a face lucrurile de care tu nu ești. Te încântă programarea, dar nu răspunderea la probleme? Atunci identifică pe acei indivizi din comunitatea ta pe care îi încântă și lasă-le să fie ale lor.
+  </p>
+  <p>
+    <em>
+      [It's in your] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
@@ -202,15 +225,15 @@ While you may not always find someone to answer the call, putting a signal out t
 
 ## Rezolvarea conflictelor
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+In stadiile de început ale proiectului tău, a face decizii majore este ușor. Când vrei să faci ceva, pur și simplu faci.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+Pe măsură ce proiectul tău devine mai popular, mai mulți oameni se vor interesa de deciziile pe care le faci. Chiar dacă nu ai o comunitate mare de contributori, dacă proiectul tău are mulți utilizatori, vei găsi oameni cântărind deciziile sau ridicând probleme pe cont propriu.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+În cea mai mare parte, dacă ai cultivat o comunitate prietenoasă și respectuoasă și ai documentat procesele tale în mod deschis, comunitatea ta ar trebui să poată să găsească soluționare. Dar câteodată dai peste o problemă care este puțin mai greu de abordat.
 
-### Set the bar for kindness
+### Stabilește standardul pentru bunătate
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+Când comunitatea ta se luptă cu o problemă dificilă, mânia poate crește. Oamenii pot deveni nervoși sau frustrați și pot să arunce asupra altora, sau asupra ta.
 
 Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
 
