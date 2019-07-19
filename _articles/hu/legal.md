@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+title: A nyílt forráskód jogi oldala
+description: Minden, amit valaha is gondoltál a nyílt forráskód jogi oldaláról, és néhány dolog, amit nem.
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
@@ -10,93 +10,93 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## A nyílt forráskód jogi következményeinek megértése
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+A kreatív munka megosztása a világgal izgalmas élmény és egyben kifizetődő is lehet. Ez azt is jelentheti, hogy rengeteg jogi dolgot kell figyelembe venned, amiről nem is tudsz. Szerencsére nem kell a nulláról kezdened. Minden megvan a jogi részek lefedéséhez. (Mielőtt részletesen belemennénk, olvasd el a [kizárási nyilatkozatot](/notices/).)
 
-## Why do people care so much about the legal side of open source?
+## Miért kellene foglalkoznom a nyílt forráskód jogi oldalával?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+Örülök, hogy megkérdezted! Ha kreatív munkát végez (például írás, grafika vagy kód), a munka alapértelmezés szerint kizárólagos szerzői joggal rendelkezik. Ez azt jelenti, hogy a törvény feltételezi a munka szerzőjéről azt, hogy megmondhatja mások mit tehetnek vele.
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+Általában ez azt jelenti, hogy senki más nem használhatja, nem másolhatja, terjesztheti vagy módosíthatja a munkádat anélkül, hogy peres eljárás elé ne nézne.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+A nyílt forráskód azonban nem a megszokott helyzet, mert a szerző itt azt várja, hogy mások használják, módosítsák és megosszák a munkáját. De mivel a jogi alapértelmezés még mindig a kizárólagos szerzői jog, ezért szükséged van egy licencre, amely kifejezetten kimondja ezeket az engedélyeket.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+Ha nem alkalmazzol nyílt forráskódú licencet, akkor mindenki, aki hozzájárul a projekthez, a saját munkájának kizárólagos szerzői jogi tulajdonosa lesz. Ez azt jelenti, hogy senki nem tudja használni, másolni, terjeszteni vagy módosítani a hozzájárulást - és a "senki" alatt magadat is értsd.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+És végül, a projektnek lehetnek függőségei, olyan licenckövetelményekkel, amelyekről nincs tudomásod. A projekt közössége vagy a munkáltató irányelvei szintén előírhatják, hogy a projektje konkrét nyílt forráskódú licenceket kell használnod. Ezeket az eseteket az alábbiakban ismertetjük.
 
-## Are public GitHub projects open source?
+## Nyílt forráskódúak a nyilvános GitHub projektek?
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+Amikor [létrehozol egy új projektet](https://help.github.com/articles/creating-a-new-repository/) a GitHub-on, lehetőséged van ezt **private** (privát) vagy **public** (publikus) módon megtenni.
 
-![Create repository](/assets/images/legal/repo-create-name.png)
+![Projekt létrehozása](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**A GitHub projekt nyilvánossága nem azonos a projekt licencével!** A publikus projek fogalma itt van definiálva: [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), ami engedélyezi ezek megtekintését, vagy e célból ennek elágaztatását (fork), de más egyebet nem.
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+Ha azt szeretné, hogy mások használhassák, terjesszék, módosítsák vagy hozzájáruljanak a projekthez, meg kell nevezni egy nyílt forráskódú licencet. Például, senki sem jogosult a GitHub projekt akármelyik részének törvényes használatára, még ha nyilvános is, kivéve, ha kifejezetten megadod ezt a jogot erre a megfelelő licenccel.
 
-## Just give me the TL;DR on what I need to protect my project.
+## Tömören, hogy mit kell tenned a projekted védelme érdekében
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+Szerencséd van, mert ma a nyílt forráskódú licencek szabványosítottak és könnyen kezelhetők. Ezeket a licenceket másolhatod közvetlenül a projektedbe.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), és [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) a legismertebb nyílt forráskódú licencek, de vannak más lehetőségek is amikből választhatsz. Megtalálod a teljes szövegét ezeknek a licenceknek, és azt, hogy hogyan használhatod őket, a [choosealicense.com](https://choosealicense.com/) oldalon.
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+Ha új projektet hozol létre a GitHub-on, meg kell adnod, hogy [milyen licencű a projekt](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+  A szabványosított licenc a laikus személyek érdekeit szolgálja, hogy pontosan tudják, mit tehetnek és mit nem tehetnek a szoftverrel. Kerüld az egyéni, módosított vagy nem szabványos fogalmakat – hacsak nem felétetlenül szükséges –, amelyek akadályt jelenthetnek a kód további felhasználására.
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["Everything a government attorney needs to know about open source software licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## Melyik nyílt forráskódú licenc felel meg a projektemnek?
 
-If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
+Ha üres lappal indulsz, akkor talán a legjobb a [MIT licenc](https://choosealicense.com/licenses/mit/). Rövid, nagyon könnyen érthető, és megengedőt, amíg megtartja a licenc másolatát, beleértve a szerzői jogi nyilatkozatot is. Ha valaha is szükséged lesz rá, akkor más licenc alapján is kiadhatod később a projektedet.
 
-Otherwise, picking the right open source license for your project depends on your objectives.
+Más esetben viszont, a projekthez való megfelelő nyílt forráskódú licenc kiválasztása a te célkitűzéseidtől függ.
 
-Your project very likely has (or will have) **dependencies**. For example, if you're open sourcing a Node.js project, you'll probably use libraries from the Node Package Manager (npm). Each of those libraries you depend on will have its own open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
+A projektednek vélehtően lesznek **függőségei**. például, ha nyílt forráskódú Node.js alapú projekted van, akkor használni fogsz npm-et (Node.js Package Manager). Minden egyes függőségnek külön nyílt forráskódú licence van. Ha mindegyik licenc "megengedő" (engedély megadása módosításra és megosztásra, más engedélyezés feltétel nélkül), akkor használhatod a kívánt függőséget. Általánosan megengedő licencek a MIT, Apache 2.0, ISC, és a BSD.
 
-On the other hand, if any of your dependencies' licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+Másrészről, hogy ha bármelyik függőséged licence "szabadfelhasználású" (szintén ad jogokat, amennyiben a további felhasználás feltételeit megtartják), akkor a projekted ezt a licencet viheti tovább. Ilyen "szabadfelhasználású" licencek például a GPLv2, GPLv3, és AGPLv3.
 
-You may also want to consider the **communities** you hope will use and contribute to your project:
+Azt is érdemes megfontolni, hogy a **közösség** melyek esetén fog jobban hozzájárulni a projekthez:
 
-* **Do you want your project to be used as a dependency by other projects?** Probably best to use the most popular license in your relevant community. For example, [MIT](https://choosealicense.com/licenses/mit/) is the most popular license for [npm libraries](https://libraries.io/search?platforms=NPM).
-* **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
-* **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
+* **Szeretnéd, hogy projekted más projektek függősége legyen?** Valószínűleg a legjobb, ha a legkedveltebb licencet használnád az adott közösségben. Például, a [MIT](https://choosealicense.com/licenses/mit/) a legnépszerűbb az [npm modulok](https://libraries.io/search?platforms=NPM) esetén.
+* **Szeretnéd, hogy a projektedet a vállalatok használják?** Egy nagy vállalkozás valószínűleg kifejezett kér szabadalmi engedélyt minden résztvevőtől. Ekkor az [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) lefedi mindkét fél számára ezt.
+* **Szeretné, ha projekted elérné azokat a közreműködőket, akik nem akarják, hogy zárt forráskódú szoftverekben használják fel a hozzájárulásaikat?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) vagy (ha nem kívánnak hozzájárulni még a zárt forráskódú szolgáltatásokhoz sem) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) teljességgel megfelelő.
 
-Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
+A **cégeknek** lehetnek speciális licenc kikötéseik a nyílt forráskódú projektek esetén. Például megengedő licencet vár el, hogy a vállalat a saját zárt forráskódú termékében használhassa azt. Vagy a vállalatnak szüksége lehet egy erős szabadfelhasználású licencre és egy további hozzájárulási megállapodásra (lásd alább), hogy csak a cége és senki más ne használhassa a projektet zárt forráskódú szoftverekben. Vagy a vállalatnak bizonyos igényei lehetnek a szabványokkal, a társadalmi felelősséggel vagy az átláthatósággal kapcsolatban, amelyek mindegyike különleges licencelési stratégiát igényelhet. Beszélj a [céged jogi osztályával](#mit-kell-tudnia-a-cégem-jogi-osztályának).
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
+Amikor új projektet hozol létre a GitHub-on, lehetőséged van a licenc kiválasztására. A fent említett licencek egyikét választva a GitHub projekted nyílt forráskódúvá válik. Ha más lehetőséget keresel, nézd át a [choosealicense.com](https://choosealicense.com) oldalt, hogy megtaláld a magadnak megfelelőt, még akkor is [ha nem szoftver projekt](https://choosealicense.com/non-software/).
 
-## What if I want to change the license of my project?
+## Mi van, ha meg akarom változtatni a projekt licencét?
 
-Most projects never need to change licenses. But occasionally circumstances change.
+A legtöbb projektnek nem szükséges licencet módosítania, de vannak körülmények, amikor mégis szükséges.
 
-For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing a your project's license:
+Például, ahogy a projekt növekszik, adsz hozzá a függőségeket vagy a felhasználókat, vagy akár a vállalat megváltoztatja a stratégiáját, amelyek közül bármelyik is történik, lehet más licencet igényelhet. Továbbá, ha elhanyagoltad a projekt licencelését a kezdetektől fogva, a licenc hozzáadásával ugyanaz a helyzte, mintha licencet változtatnál. A projekt licencének hozzáadásakor vagy megváltoztatásához három alapvető dologot kell figyelembe venni:
 
-**It's complicated.** Determining license compatibility and compliance and who holds copyright can get complicated and confusing very quickly. Switching to a new but compatible license for new releases and contributions is different from relicensing all existing contributions. Involve your legal team at the first hint of any desire to change licenses. Even if you have or can obtain permission from your project's copyright holders for a license change, consider the impact of the change on your project's other users and contributors. Think of a license change as a "governance event" for your project that will more likely go smoothly with clear communications and consultation with your project's stakeholders. All the more reason to choose and use an appropriate license for your project from its inception!
+**Bonyolult.** A licenckompatibilitás és a megfelelőség meghatározása, valamint a szerzői joggal rendelkező személyek kezelése, nagyon gyorsan bonyolult és zavaros helyzetet teremthet. Az új kiadások és hozzájárulások új, de kompatibilis licencjére való áttérés eltér attól, hogy az összes meglévő hozzájárulást újralicenceled. Vond be a jogi csapatot az engedélyek megváltoztatására vonatkozó ötlet elején. Még akkor is, ha a licencszerződés megváltoztatásához a projekt szerzői jogtulajdonosai engedélyt adnak, vedd figyelembe a változás hatását a projekt többi felhasználójára és résztvevőjére. Gondoljon egy licencváltozásra úgy, mint a projekt irányítási eseményére”, amely valószínűleg zökkenőmentesen megy végbe, ha a világos kommunikációval és a projekt érdekeltjeivel folytatott konzultációt lefolytatod. Ez egy fontos ok arra, hogy a projekt kezdetétől megfelelő licencet válassz és használj!
 
-**Your project's existing license.** If your project's existing license is compatible with the license you want to change to, you could just start using the new license. That's because if license A is compatible with license B, you'll comply with the terms of A while complying with the terms of B (but not necessarily vice versa). So if you're currently using a permissive license (e.g., MIT), you could change to a license with more conditions, so long as you retain a copy of the MIT license and any associated copyright notices (i.e., continue to comply with the MIT license's minimal conditions). But if your current license is not permissive (e.g., copyleft, or you don't have a license) and you aren't the sole copyright holder, you couldn't just change your project's license to MIT. Essentially, with a permissive license the project's copyright holders have given permission in advance to change licenses.
+**Jelenlegi licenc.** Ha a jelenlegi licenc kompatibilis a meglévővel, akkor nyugodtan kezd használni az újat. Ennek az az oka, hogy ha az A licenc kompatibilis a B licenccel, akkor betartja az A feltételeit, miközben betartja a B feltételeit is (de nem feltétlenül fordítva). Tehát, ha jelenleg engedélyező licencet használ (pl. MIT), akkor további feltételeket szabva válthatsz licencet, amennyiben megtartod a MIT licenc másolatát, és a kapcsolódó szerzői jogi megjegyzéseket (azaz továbbra is megfelel az MIT licenc minimális feltételei). Ha azonban a jelenlegi licenced nem megengedő (például nem "szabadfelhasználású", vagy nincs licence), és nem te vagy az egyetlen szerzői jogi tulajdonos,akkor nem tudsz áttérni a MIT-re. Alapvetően egy megengedő licenccel, a projekt szerzői előzetesen engedélyt adtak a licenc későbbi megváltoztatására.
 
-**Your project's existing copyright holders.** If you're the sole contributor to your project then either you or your company is the project's sole copyright holder. You can add or change to whatever license you or your company wants to. Otherwise there may be other copyright holders that you need agreement from in order to change licenses. Who are they? People who have commits in your project is a good place to start. But in some cases copyright will be held by those people's employers. In some cases people will have only made minimal contributions, but there's no hard and fast rule that contributions under some number of lines of code are not subject to copyright. What to do? It depends. For a relatively small and young project, it may be feasible to get all existing contributors to agree to a license change in an issue or pull request. For large and long-lived projects, you may have to seek out many contributors and even their heirs. Mozilla took years (2001-2006) to relicense Firefox, Thunderbird, and related software.
+**A projekt meglévő szerzői jogainak tulajdonosai.** Ha egyedüli résztvevője vagy a projektnek, akkor te vagy céged a projekt egyedüli szerzői jog birtokosa. Hozzáadhatsz vagy módosíthatsz bármilyen licencet, amit csak szeretnél. Más esetben előfordulhat, hogy más szerzői jog tulajdonosai meg kell hogy egyeznek a licenc megváltoztatásához. Kik ők? Azok az emberek, akik elkötelezték magukat a projektben és hozzájárultak ahhoz. Néhány esetben azonban, a szerzői jogokat az emberek munkáltatói fogják megtartani. Bizonyos esetekben az emberek csak minimálisan járulnak hozzá, de nincs olyan szigorú és egyértelmű szabály arra, hogy a kódok bizonyos soraiban lévő hozzájárulások nem tartoznak-e a szerzői jog alá. Mit lehet ekkor tenni? Attól függ. Egy viszonylag kicsi és fiatal projekt esetében lehet, hogy minden meglévő résztvevő beleegyezik a licencváltozásba egy hibajegy vagy beolvasztási kérelmen keresztül. Egy nagy, és hosszú életű projektek esetében azonban sok közreműködőt, és még akár az örökösöket is meg kell keresni. A Mozilla-nak évekig tartott (2001-2006) a Firefox, a Thunderbird és a kapcsolódó szoftverek újbóli licencelése.
 
-Alternatively, you can have contributors agree in advance (via an additional contributor agreement -- see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
+Alternatív megoldásként, a résztvevők előzetesen (egy további résztvevői megállapodás alapján - lásd alább) bizonyos feltételek mellett, a meglévő nyílt forráskódú licenc változtatását is engedélyezhetik. Ez kicsit javítja a licencváltás összetettségét. Szükséged lesz további segítségre az ügyvédek részéről, és továbbra is egyértelműen kommunikálni kell a projekt érdekeltjeivel a licencváltás végrehajtásának folyamatát.
 
-## Does my project need an additional contributor agreement?
+## Szükségem van-e további hozzájárulási megállapodásra?
 
-Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Valószínűleg nem. A nyílt forráskódú projektek túlnyomó többsége esetében a nyílt forráskódú licenc implicit módon tartalmazza egyaránt a bejövő (a résztvevőkről) és a kimenő (más hozzájárulók és felhasználók) licencet. Ha a projekt a GitHub-on van, akkor a GitHub Általános Szerződési Feltételei szerint a "bejövő = kimenő" elv [kifejezett alapértelmezett](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
-An additional contributor agreement -- often called a Contributor License Agreement (CLA) -- can create administrative work for project maintainers. How much work an agreement adds depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
+Egy további hozzájárulási megállapodás, amelyet gyakran közreműködői licenc megállapodásnak (CLA) neveznek, adminisztratív munkát generálhat a projektgazdák számára. A projekt és a kiveitelezés függvénye, hogy mennyi munkát jelent egy megállapodás. Egy egyszerű megállapodás megkövetelheti, hogy a közreműködők egy kattintással megerősítsék, hogy megvan a szükséges joguk a nyílt forráskódú projekt licencének megfelelő részvételhez. A bonyolultabb megállapodás jogi felülvizsgálatot és a résztvevő munkáltatójától kapott lemondási nyilatkozatot igényelhet.
 
-Also, by adding "paperwork" that some believe is unnecessary, hard to understand, or unfair (when the agreement recipient gets more rights than contributors or the public do via the project's open source license), an additional contributor agreement may be perceived as unfriendly to the project's community.
+A „papírmunka” egyesek szerint szükségtelen, vagy nehezen érthetőnek estleg tisztességtelenek tartják (ha a megállapodás kedvezményezettje több jogot kap, mint a közreműködők vagy a nyilvánosság, a projekt nyílt forráskódú licencén túl), egy újabb közreműködői megállapodás barátságtalannak tünhet a projekt közösségének számára.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
-    We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
+    Megszűntettük a CLA-kat a Node.js projektben. Ezzel csökkenthető a közreműködőknek a belépés előtt álló akadályok száma a Node.js esetén, ezáltal növelve a projektben résztvevők bázisát.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
@@ -111,7 +111,7 @@ Some situations where you may want to consider an additional contributor agreeme
 
 If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
-## What does my company's legal team need to know?
+## Mit kell tudnia a cégem jogi osztályának?
 
 If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
 
