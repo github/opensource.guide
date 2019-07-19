@@ -235,75 +235,96 @@ Pe măsură ce proiectul tău devine mai popular, mai mulți oameni se vor inter
 
 Când comunitatea ta se luptă cu o problemă dificilă, mânia poate crește. Oamenii pot deveni nervoși sau frustrați și pot să arunce asupra altora, sau asupra ta.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Slujba ta în calitate de întreținător este să păstrezi aceste situații de la escaladare. Chiar dacă ai o părere solidă cu privire la subiect, încearcă să iei poziția de moderator sau facilitator, în loc să sari în luptă și să-ți împingi părerile. Dacă cineva este aspru sau monopolizează conversația, [acționează imediat](../building-community/#dont-tolerate-bad-actors) pentru a menține discuțiile politicoase și productive.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  <p>
+    În calitate de întreținător de proiect, este extrem de important să fii respectuos față de contributorii tăi. Ei deseori iau ce spui foarte personal.
+  </p>
+  <p>
+    <em>
+      As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+Alți oameni vă caută pentru îndrumare. Stabilește un exemplu bun. Încă poți exprima dezamăgire, nefericire, sau îngrijorare, dar fă astfel cu calm.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+A-ți păstra calmul nu este ușor, dar conducerea demonstrată îmbunătățește sănătatea comunității tale. Internetul îți mulțumește.
 
-### Treat your README as a constitution
+### Tratează-ți README-ul ca pe o constituție
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+README-ul tău este [mai mult decât doar o mulțime de instrucțiuni](../starting-a-project/#writing-a-readme). Este de asemenea un loc pentru a vorbi despre scopurile tale, viziunea produsului, și foaia de parcurs. Dacă oamenii sunt prea concentrați pe a dezbate meritul unei anumite facilități, poate ajuta să-ți revizuiești README-ul și să vorbești despre viziunea superioară a proiectului tău. Concentrarea pe README-ul tău de asemenea depersonalizează conversația, astfel încât puteți avea o discuție constructivă.
 
-### Focus on the journey, not the destination
+### Concentrează-te pe călătorie, nu pe destinație
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+Unele proiecte folosesc un proces de votare pentru a face decizii majore. În timp ce e sensibilă la prima privire, votarea accentuează mai degrabă ajungerea la un „răspuns,” în loc de a asculta și a aborda fiecare îngrijorările celuilalt.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+Votarea poate deveni politică, situație în care membrii comunității se simt presați să facă favoruri unul celuilalt sau să voteze într-un anumit mod. Și nu toți votează, fie că este [majoritatea tăcută](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) din comunitatea ta, fie utilizatorii curenți care nu știau că un vot avea loc.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+Uneori, votarea este o departajare necesară. Totuși, cât de mult poți, accentuează mai degrabă [„căutarea de consens”](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) în locul unui consens.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+În cadrul unui proces de căutare a consensului, membrii comunității discută îngrijorările majore până când se simt că au fost auziți în mod adecvat. Când doar îngrijorări minore rămân, comunitatea merge înainte. „Căutarea consensului” recunoaște că o comunitate ar putea să nu fie capabilă să ajungă la un răspuns perfect. În schimb, ea prioritizează ascultarea și discuția.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+  <p>
+    O parte din motivele pentru care un sistem de votare nu există pentru Problemele Atom este fiindcă echipa Atom nu va urma un sistem de votare în toate cazurile. Uneori trebuie să alegem ceea ce simțim că este corect chiar dacă este nepopular. (...) Ce pot oferi și la ce mă angajez să fac...e că este slujba mea să ascult comunitatea.
+  </p>
+  <p>
+    <em>
+      Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm privind [procesului de luare a deciziilor al Atom](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+Chiar dacă nu adopți de fapt un proces de căutare a consensului, în calitate de întreținător de proiect, este important ca oamenii să știe că asculți. A face alți oameni să se simtă auziți, și a te angaja să le rezolvi îngrijorările, merge mult spre a împrăștia situațiile sensibile. Apoi, urmează-ți cuvintele cu acțiuni.
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+Nu te grăbi să iei o decizie de dragul de a avea o soluționare. Asigură-te că toți se simt auziți și că toate acele informații au fost făcute publice înainte de a înainta către o soluționare.
 
-### Keep the conversation focused on action
+### Menține conversația axată pe acțiune
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+Discuția este importantă, dar există o diferență între conversațiile productive și cele neproductive.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+Încurajează discuția atâta timp cât înaintează activ către o soluționare. Dacă este clar că acea conversație se stinge sau merge în afara subiectului, împunsăturile devin personale, sau oamenii se ceartă asupra unor detalii minore, este timpul să o oprești.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+Permițând acestor conversații să continue nu este rău doar pentru problema la îndemână, ci și pentru sănătatea comunității tale. Aceasta trimite mesajul că aceste tipuri de conversații sunt permise sau chiar încurajate, și aceasta poate descuraja oameni de la a ridica sau rezolva probleme viitoare.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+Cu fiecare punct făcut de tine sau de alții, întreabă-te, _„Cum ne aduce aceasta mai aproape de o soluționare?”_
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+Dacă conversația începe să se dezvăluie, întreabă grupul, _„Care sunt pașii pe care să-i facem în continuare?”_ pentru a reorienta conversația.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+Dacă o conversație în mod clar nu merge nicăieri, nu sunt măsuri clare de luat, sau măsura potrivită a fost deja luată, închide problema și explică de ce ai închis-o.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+  <p>
+    Îndrumarea unui fir de discuție către utilitate fără a fi insistent/ă este o artă. Nu va funcționa pur și simplu să mustrați oamenii să se oprească din a-și pierde timpul, sau să le ceri să nu mai posteze decât dacă au ceva constructiv de spus. (...) În schimb, trebuie să sugerezi condiții pentru progres mai departe: dă oamenilor o rută, o cale de urmat care duce la rezultatele pe care le vrei, totuși fără a suna ca și cum ești o conduită dictatoare.
+  </p>
+  <p>
+    <em>
+      Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
-### Pick your battles wisely
+### Alege-ți bătăliile cu înțelepciune
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+Contextul este important. Consideră cine este implicat în discuție și cum reprezintă ei/ele restul comunității.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+Este toată lumea din comunitate supărată pe, sau chiar angajată în, această problemă? Sau este un scandalagiu singuratic? Nu uita să consideri membrii tăcuți ai comunitații tale, nu doar vocile active.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+Dacă problema nu reprezintă nevoile extinse ale comunității tale, ar trebui doar să recunoști îngrijorările câtorva oameni. Dacă aceasta este o problemă recurentă fără o soluționare clară, indică-le discuțiile anterioare asupra subiectului și închide firul de discuție.
 
 ### Identify a community tiebreaker
 
