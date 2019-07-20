@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: Nyílt forráskódú projekt indítása
+description: Tudj meg többet a nyílt forráskód világáról és állj készen a saját projekted elindítására.
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png
@@ -10,74 +10,74 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## Anyílt forráskód "mit" és "hogyan"-ja
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Szóval arra gondoltál, hogy elkezded a nyílt forráskódú projekted. Gratulálunk! A világ nagyra fogja értékeli a részvételed. Beszéljünk kicsi arról, hogy mi is az a nyílt forráskód és miért csinálják az emberek.
 
-### What does "open source" mean?
+### Mit jelent a nyílt forráskód?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Amikor egy projekt nyílt forráskódú, az azt jelenti, hogy **bárki megnézheto. használhatja, módosíthatja és terjesztheti bármilyen céllal.** Ezt a lehetőséget [az nyílt forráskódú licenc biztosítja](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+A nyílt forráskód nagy hatású, mivel csökkenti az elterjedés előtt álló akadályokat, és lehetővé teszi az ötletek gyors terjesztését.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+Hogy megértsd, hogyan működik, képzeld el, hogy a barátodnak van egy bulija, és te viszel egy cseresznye pitét.
 
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
+* Mindenki megkóstolja (_használat_)
+* Nagyon ízlik mindenkinek! Elkérik a receptet, amit te készségesen oda is adsz (_megtekintés_)
+* Alex barátod, aki cukrász, azt javasolja, hogy kevesebb cukrot használj (_módosítás_)
+* Liza barátod, szeretné a jövő heti vacsorához ezt elkészíteni (_terjesztés_)
 
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+Összehasonlításképpen, egy zárt forráskódú folyamattal: bemész egy étterembe, és egy cseresznyés pitét rendelsz. Kifizetet a pite árát (ha ízlett, ha nem), és az étterem valószínűleg nem adja meg ezzel együtt a receptjét. Ha pontosan lemásoltad a pite receptjét, és saját neved alatt eladod, az étterem lehet, hogy ez ellen fel fog lépni.
 
-### Why do people open source their work?
+### Miért vesznek részt az emberek a nyílt forráskódú projektekben?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Az egyik leghasznosabb tapasztalat, amit a nyílt forráskódú felhasználásból és együttműködésből fel tudok használni az, hogy együtt építjük fel olyanokkal, akik már szintén szembesültek ugyanazokkal a problémákkal amivel én.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Számos oka van](https://ben.balter.com/2015/11/23/why-open-source/) hogy valaki, vagy akár egy cég a nyílt forráskódban részt vesz. Csak néhány példa:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Együttműködés:** A nyílt forráskódú projektek bárkitől elfogadnak módosítást a világ bármely részéről. [Exercism](https://github.com/exercism/), például egy programozási gyakorlást segítő projekt több, mint 350 fejlesztő részvételével.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Elterjedés és újrafelhasználás:** A nyílt forráskódú projekteket bárki használhatja szinte bármilyen célra.  Az emberek akár más dolgok létrehozására is felhasználhatják.  A [WordPress] (https://github.com/WordPress) például úgy kezdte, hogy egy létező, [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) nevű projektet elágaztattak.
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Átláthatóság:** A nyílt forráskódú projektet bárki megvizsgálhatja, vagy hibákat kereshet benne. Az átláthatóság a kormányoknak is fontos, mint ahogy [Bulgária](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) teszi ezt, vagy ahogy az [Amerikai Egyesült Államok](https://sourcecode.cio.gov/) szabályozza a bank, és egészségügy iparát, de fontos a biztonsági szoftverek esetén is, mint a [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+A nyílt forráskódú projekt nem csak szoftver lehet. Lehet ez adat, vagy könyv is akár, de bármi más is. Nézd meg a [GitHub Explore](https://github.com/explore) helyen, hogy mi minden lehet nyílt forráskódú projekt.
 
-### Does open source mean "free of charge"?
+### A nyílt forráskódú projekt ingyenességet jelent?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+A legtöbb nyílt forráskódú projekt nem kerül pénzbe. Az ingyenesség általában a nyílt forráskód következménye.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Mivel [a nyílt forráskódú licenc előírja](https://opensource.org/osd-annotated) azt, hogy mindenki használhatja, módosíthatja és megoszthatja a projektet bármilyen célra, ezért maga a _projekt_ ingyenes. Ha a projekt úgy döntene, hogy pénzt kér tőled, akkor bárki legálisan másolatot készíthet róla és használhatja az ingyenes verziót helyette.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Bár a nyílt forráskódú projekt önmagában ingyenes, a nyílt forráskód nem definiálja magát az ingyenességet. Van lehetőség arra, hogy pénzt kérj egy nyílt forráskódú projektért, a kettős licencelés vagy a korlátozott funkciókon keresztül, ez még nem ütközik a nyílt forráskód definíciójával.
 
-## Should I launch my own open source project?
+## Elindíthatom a saját nyílt forráskódú projektemet?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+A rövid válasz az igen, mert a saját projekten keresztül megismered a nyílt forráskódú projektek működését.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Ha sohasem vettél részt nyílt forráskódú projektben, akkor feszült lehetsz majd azért, ha majd az emberek erre reagálnak, vagy ha felhívják a figyelmedet pár dologra. De emiatt ne aggódj, mert ez természetes, mással is így van!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+A nyílt forráskód egy kreatív viselkedést igénylő dolog, mint az írás vagy a festés. Lehet, először félelmetesnek tűnik, hogy megosztod a munkádat a világgal, de ez a legjobb módja annak, hogy fejlődj, hiszen nem leszel jobb, ha nem kapsz kritikákat.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Gondolkozz el azon, hogy mi is az igazi célod, ha még mindig nem lettél meggyőzve!
 
-### Setting your goals
+### Célok kijelölése
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+A célok segíthetnek abban, hogy kitaláld, min kell dolgoznod, mit kell mondanod, és hol van szükséged mások segítségére. Kérdezd meg magadtól, hogy _miért nyitom meg ezt a projektet?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Nincs tökéletes válasz erre a kérdésre. Több féle célod lehet akár egy projekt esetén is, más projekteknél viszon más célok fognak vezérelni.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Ha csak az a célod, hogy a munkádat megmutasd, akkor nem akarsz résztvevőket és ezt a README-ben le ís írhatod. Másrszről, ha akarsz résztvevőket a projekteden, akkor időt kell szánnod az alapos dokumentációra, hogy az újonnan érkezők könnyen csatlakozhassanak.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  Készítettem egy UIAlertView amit korábban már használtam...és eldöntöttem hogy nyílt forráskódú projektet csinálok belőle. Így kicsit módosítottam és feltöltöttem a GitHub-ra. Ekkor írtam az első dokumnetációt is, amelyben leírtam, hogy más fejlesztők hogyan használhatják ezt a programjaikban. Persze lehet, hogy soha senki nem használta, de engem mégis örömmel töltött el, mert ez volt életem első nyílt forráskódú projektje.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
