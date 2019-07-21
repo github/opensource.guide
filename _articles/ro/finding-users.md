@@ -1,15 +1,15 @@
 ---
-lang: en
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+lang: ro
+title: Găsirea de utilizatori pentru proiectul tău
+description: Ajută-ți proiectul cu sursă deschisă să crească punându-l în mâinile utilizatorilor fericiți.
 class: finding
 toc:
-  spreading-the-word: "Spreading the word"
-  figure-out-your-message: "Figure out your message"
-  help-people-find-and-follow-your-project: "Help people find and follow your project"
-  go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
-  go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
-  build-a-reputation: "Build a reputation"
+  spreading-the-word: "Răspândirea cuvântului"
+  figure-out-your-message: "Găsește-ți mesajul"
+  help-people-find-and-follow-your-project: "Ajută oamenii să-ți găsească și să-ți urmeze proiectul"
+  go-where-your-projects-audience-is-online: "Mergi acolo unde este audiența proiectului tău (online)"
+  go-where-your-projects-audience-is-offline: "Mergi acolo unde este audiența proiectului tău (offline)"
+  build-a-reputation: "Construiește-ți o reputație"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -17,36 +17,43 @@ related:
   - building
 ---
 
-## Spreading the word
+## Răspândirea cuvântului
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+Nu există o regulă care spune că trebuie să-ți promovezi proiectul cu sursă deschisă când lansezi. Există multe motive împlinitoare de a lucra în open source care nu au nimic de a face cu popularitatea. În loc să speri că alții vor găsi și vor folosi proiectul tău cu sursă deschisă, trebuie să răspândești cuvântul despre munca ta grea!
 
-## Figure out your message
+## Găsește-ți mesajul
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Înainte de a începe activitatea propriu-zisă de promovare a proiectului tău, ar trebui să poți să explici ce face, și de ce contează.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+Ce face proiectul tău diferit sau interesant? De ce l-ai creat? Răspunzându-ți ție la aceste întrebări te va ajuta să comunici semnificația proiectului tău.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+Ține minte că oamenii se implică în calitate de utilizatori, și eventual devin contributori, deoarece proiectul tău rezolvă o problemă pentru ei. Pe măsură ce te gândești la mesajul și valoarea proiectului tău, încearcă să le vezi prin lentilele a ceea ce ar putea vrea _utilizatorii și contributorii_.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+De exemplu, @robb folosește exemple de cod pentru a comunica clar de ce proiectul lui, [Cartography](https://github.com/robb/Cartography), este folositor:
 
-![Cartography README](/assets/images/finding-users/cartography.jpg)
+![README Cartography](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Pentru o vedere mai adâncă în mesagerie, aruncă o privire la exercițiul ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) al Mozilla pentru dezvoltarea persona-urilor pentru utilizatori.
 
-## Help people find and follow your project
+## Ajută oamenii să-ți găsească și să-ți urmeze proiectul
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  <p>
+    În mod ideal, ai nevoie de un singurl URL „acasă” pe care îl poți promova și indica oamenilor în legătură cu proiectul tău. Nu trebuie să folosești un șablon extravagant sau chiar un nume de domeniu, dar proiectul tău are nevoie de un punct focal.
+  </p>
+  <p>
+    <em>
+      You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+Ajută oamenii să îți găsească și să îți țină minte proiectul direcționându-i către un singur domeniu.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**Obține un mâner clar pentru a-ți promova munca.** Un mâner Twitter, un URL GitHub, sau canal IRC este un mod ușor de a direcționa oamenii către proiectul tău. Aceste prize oferă de asemenea comunității în creștere a proiectului tău un loc de convocare.
 
 If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides. 
 
@@ -68,7 +75,7 @@ If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.gi
 
 Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
 
-## Go where your project's audience is (online)
+## Mergi acolo unde este audiența proiectului tău (online)
 
 Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
 
@@ -92,7 +99,7 @@ Generally speaking, focus on helping others before asking for things in return. 
 
 If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
 
-## Go where your project's audience is (offline)
+## Mergi acolo unde este audiența proiectului tău (offline)
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -132,7 +139,7 @@ Look for conferences that are specific to your language or ecosystem. Before you
   </p>
 </aside>
 
-## Build a reputation
+## Construiește-ți o reputație
 
 In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
 
@@ -158,6 +165,6 @@ There is no overnight solution to building an audience. Gaining the trust and re
   </p>
 </aside>
 
-## Keep at it!
+## Continuă!
 
 It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
