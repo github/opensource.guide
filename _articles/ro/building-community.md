@@ -326,14 +326,14 @@ Este toată lumea din comunitate supărată pe, sau chiar angajată în, aceast�
 
 Dacă problema nu reprezintă nevoile extinse ale comunității tale, ar trebui doar să recunoști îngrijorările câtorva oameni. Dacă aceasta este o problemă recurentă fără o soluționare clară, indică-le discuțiile anterioare asupra subiectului și închide firul de discuție.
 
-### Identify a community tiebreaker
+### Identifică o departajare a comunității
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+Cu o atitudine bună și o comunicare clară, cele mai dificile situații sunt rezolvabile. Totuși, chiar într-o conversație productivă, poate exista pur și simplu o diferență de opinie cu privire la cum să se procedeze. În aceste cazuri, identifică un individ sau un grup de oameni care pot servi ca o departajare.
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+O departajare ar putea fi principalul întreținător al proiectului, sau poate fi un grup mic de oameni care fac o decizie bazată pe votare. În mod ideal, ai identificat o departajare și procesul asociat într-un fișier GOVERNANCE înainte de a avea vreodată nevoie să o folosești.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+Departajarea ta ar putea fi ultima soluție. Problemele dezbinătoare sunt o oportunitate pentru comunitatea ta de a crește și a învăța. Îmbrățișează aceste oportunități și folosește un proces colaborativ pentru a te mișca înspre o soluționare oriunde este posibil.
 
-## Community is the ❤️ of open source
+## Comunitatea este ❤️ a open source
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+Comunități sănătoase, înfloritoare alimentează miile de ore turnate în open source săptămânal. Mulți contributori indică spre alți oameni ca fiind motivul muncii lor - sau non-muncii - pe open source. Învățând cum să accesezi acea putere constructiv, vei ajuta pe cineva acolo să aibă o experiență open source de neuitat.
