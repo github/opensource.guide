@@ -55,55 +55,69 @@ Ajută oamenii să îți găsească și să îți țină minte proiectul direcț
 
 **Obține un mâner clar pentru a-ți promova munca.** Un mâner Twitter, un URL GitHub, sau canal IRC este un mod ușor de a direcționa oamenii către proiectul tău. Aceste prize oferă de asemenea comunității în creștere a proiectului tău un loc de convocare.
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides. 
+Dacă nu dorești să configurezi prize pentru proiectul tău încă, promovează-ți propriul tău mâner Twitter sau GitHub în orice faci. Promovarea mânerului tău Twitter sau GitHub va înștiința oamenii cum să te contacteze sau să-ți urmeze munca. Dacă vorbești la o întâlnire sau un eveniment, asigură-te că informațiile tale de contact sunt incluse în biografia ta sau în diapozitive.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  <p>
+    O greșeală pe care am făcut-o în acele zile timpurii (...) a fost să nu încep un cont Twitter pentru proiect. Twitter este o modalitate excelentă de a ține oamenii la curent cu privire la un proiect precum și de a expune constant oameni la proiect.
+  </p>
+  <p>
+    <em>
+      A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**Consideră crearea unui site web pentru proiectul tău.** Un site web face proiectul tău mai prietenos și mai ușor de navigat, în special când este cuplat cu documentație și tutoriale clare. Având un site web sugerează de asemenea că proiectul tău este activ ceea ce îți va face publicul să se simtă mai confortabil folosind-ul. Furnizează exemple pentru a oferi oamenilor idei despre cum să folosească proiectul tău.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator al Django, a spus că un site web era _„de departe cel mai bun lucru pe care l-am făcut cu Django în primele zile”_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+Dacă proiectul tău este găzduit pe GitHub, poți folosi [GitHub Pages](https://pages.github.com/) pentru a face cu ușurință un site web. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), și [Middleman](https://middlemanapp.com/) sunt [câteva exemple](https://github.com/showcases/github-pages-examples) de site-uri web excelente, cuprinzătoare.
 
-![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![pagina de pornire Vagrant](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+Acum că ai un mesaj pentru proiectul tău, și o cale ușoară pentru oameni să-ți găsească proiectul, haide să mergem acolo și să vorbim cu publicul!
 
 ## Mergi acolo unde este audiența proiectului tău (online)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+Extinderea online este o modalitate excelentă de a împărtăși și răspândi cuvântul mai repede. Utilizând canale online, ai potențialul de a ajunge la un public foarte larg.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+Profită de comunitățile online și platformele existente pentru a ajunge la publicul tău. Dacă proiectul tău open source este un proiect software, probabil îți poți găsi publicul pe [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), sau [Quora](https://www.quora.com/). Găsește canalele unde tu crezi că oamenii vor beneficia cel mai mult de munca ta sau vor fi cei mai încântați de munca ta.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  <p>
+    Fiecare program are facilități foarte specifice pe care doar o fracțiune din utilizatori le vor găsi folositoare. Nu spam-ui cât poți de mulți oameni. În schimb, țintește-ți eforturile înspre comunități care vor beneficia de a ști de proiectul tău.
+  </p>
+  <p>
+    <em>
+      Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+Vezi dacă poți găsi căi de a-ți împărtăși proiectul în moduri relevante:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **Fă cunoștință cu proiecte și comunități open source relevante.** Câteodată, nu trebuie să îți promovezi direct proiectul. Dacă proiectul tău este perfect pentru cercetători de date care folosesc Python, fă cunoștință cu comunitatea de știința datelor în Python. Pe măsură ce oamenii fac cunoștință cu tine, oportunități naturale vor răsări pentru a vorbi despre și a-ți împărtăși munca.
+* **Găsește oameni care experimentează problema pe care proiectul tău o rezolvă.** Caută prin forumuri similare oameni care intră în publicul țintă al proiectului tău. Răspunde la întrebarea lor și găsește o cale cu tact, când este adecvat, pentru a-ți sugera proiectul ca o soluție.
+* **Cere feedback.** Introdu-te și introdu-ți munca ta unui public care ar găsi-o relevantă și interesantă. Fii specific despre cine crezi că ar beneficia de pe urma proiectului tău. Încearcă să completezi enunțul: _„Cred că proiectul meu l-ar putea ajuta cu adevărat pe X, care încearcă să facă Y”_. Ascultă și răspunde la feedback-ul altora, în loc să-ți promovezi pur și simplu munca.
 
-Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
+În general vorbind, concentrează-te pe a ajuta pe alții înainte de a cere lucruri în schimb. Deoarece oricine poate promova ușor un proiect online, va exista mult zgomot. Pentru a ieși din mulțime, dă oamenilor context în legătură cu cine ești și nu doar ce vrei.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
+Dacă nimeni nu acordă atenție sau nu răspunde la mobilizarea ta inițială, nu te descuraja! Cele mai multe lansări de proiecte sunt un proces iterativ care poate lua luni sau ani. Dacă nu primești un răspuns prima dată, încearcă o tactică diferită, sau caută modalități de a adăuga valoare la munca celorlalți întâi. Promovarea și lansarea unui proiect necesită timp și dedicare.
 
 ## Mergi acolo unde este audiența proiectului tău (offline)
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![Vorbind în public](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+Evenimentele offline sunt o modalitate populară de a promova noi proiecte publicurilor. Ele sunt o cale excelentă de a ajunge la un public angajat și de a construi conexiuni umane mai profunde, în special dacă ești interesat în a ajunge la dezvoltatori.
 
 If you're [new to public speaking](https://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
 
