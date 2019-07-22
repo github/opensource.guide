@@ -43,7 +43,7 @@ Hogy megértsd, hogyan működik, képzeld el, hogy a barátodnak van egy bulija
 
 * **Együttműködés:** A nyílt forráskódú projektek bárkitől elfogadnak módosítást a világ bármely részéről. [Exercism](https://github.com/exercism/), például egy programozási gyakorlást segítő projekt több, mint 350 fejlesztő részvételével.
 
-* **Elterjedés és újrafelhasználás:** A nyílt forráskódú projekteket bárki használhatja szinte bármilyen célra.  Az emberek akár más dolgok létrehozására is felhasználhatják.  A [WordPress] (https://github.com/WordPress) például úgy kezdte, hogy egy létező, [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) nevű projektet elágaztattak.
+* **Elterjedés és újrafelhasználás:** A nyílt forráskódú projekteket bárki használhatja szinte bármilyen célra. Az emberek akár más dolgok létrehozására is felhasználhatják. A [WordPress] (https://github.com/WordPress) például úgy kezdte, hogy egy létező, [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) nevű projektet elágaztattak.
 
 * **Átláthatóság:** A nyílt forráskódú projektet bárki megvizsgálhatja, vagy hibákat kereshet benne. Az átláthatóság a kormányoknak is fontos, mint ahogy [Bulgária](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) teszi ezt, vagy ahogy az [Amerikai Egyesült Államok](https://sourcecode.cio.gov/) szabályozza a bank, és egészségügy iparát, de fontos a biztonsági szoftverek esetén is, mint a [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -77,147 +77,148 @@ Ha csak az a célod, hogy a munkádat megmutasd, akkor nem akarsz résztvevőket
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  Készítettem egy UIAlertView amit korábban már használtam...és eldöntöttem hogy nyílt forráskódú projektet csinálok belőle. Így kicsit módosítottam és feltöltöttem a GitHub-ra. Ekkor írtam az első dokumnetációt is, amelyben leírtam, hogy más fejlesztők hogyan használhatják ezt a programjaikban. Persze lehet, hogy soha senki nem használta, de engem mégis örömmel töltött el, mert ez volt életem első nyílt forráskódú projektje.
+  Készítettem egy UIAlertView komponenst, amit korábban már használtam saját célból... és eldöntöttem hogy nyílt forráskódú projektet csinálok belőle. Így kicsit módosítottam rajta és feltöltöttem a GitHub-ra. Ekkor írtam az első dokumnetációt is, amelyben leírtam, hogy más fejlesztők hogyan használhatják ezt a programjaikban. Persze lehet, hogy soha senki nem használta, de engem mégis örömmel töltött el, mert ez volt életem első nyílt forráskódú projektje.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Ahogy a projekt növekszik, a közösségednek többre lehet szüksége, mint pusztán csak a kód. A nyílt forráskódú projektek fontos feladata a kérdések megválaszolása, a kódok áttekintése és a projekt hírnevének terjesztése.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+A nem kódolási feladatokra fordított idő függ a projekt nagyságától és terjedelmétől, mint karbantartónak, neked is fel kell készülnöd arra, hogy találj valakit aki segíthet ebben.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Ha egy olyan cég tagja van, aki nyílt forráskódú projektel rendelkezik,** bizonyosodj meg arról, hogy vannak megfelelő belső erőforrások a projekthez. Azonosítsd azokat az emebreket, akik a karbantartói feladatot fognak elvégezni rajta, és oszd meg a közösséggel ezeket a feladatokat.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Ha szükséges fix költségvetés, vagy alkalmazotti kör a fejlesztéshez, fenntartáshoz a projektben, akkor kezd el ezeket a beszélgetéseket minnél korábban.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  Ahogy megkezded a forráskód megnyitását, fontos, hogy gondoskodj arról, hogy a menedzsment folyamatai figyelembe vegyék a közösség részvételét és képességeit a projektben. Ne félj, bevonni a kulcsfontosságú részletekbe azokat a közreműködőket, akik nem dolgoznak a cégben - különösen, ha gyakori közreműködők lesznek.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
-### Contributing to other projects
+### Hozzájárulás más projektekhez
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Ha a cél az, hogy megtanuld, hogyan működj együtt másokkal, vagy megértsd, hogyan működik a nyílt forráskód, fontold meg egy meglévő projekthez való hozzájárulást. Kezdj el azt a projektet, amelyet már használsz és szeretsz. A projekthez való hozzájárulást kezd olyan egyszerű dolgokkal, mint a helyesírási hibák javítása vagy a dokumentáció frissítése.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Ha nem vagy biztos abban, hogy hogyan kezdj neki mint résztvevő, akkor nézd meg ezt: [How to Contribute to Open Source guide](../how-to-contribute/).
 
-## Launching your own open source project
+## Saját nyílt forráskódú projekt indítása
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Nincs tökéletes időpont a forráskód megnyitására. Megnyithatsz egy ötletet, egy folyamatban lévő munkát vagy akár egy olyan kódot is, ami évekig zárt volt.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+Általánosságban elmondható, hogy akkor kell a projekt forrását megnyitni, ha úgy érzed, hogy ha mások látják, és visszajelzést adnak a munkádról, az neked jó.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Függetlenül attól, hogy melyik szakaszban döntöd el a projekt forrásának megnyitását, minden projektnek tartalmaznia kell a következő dokumentációt:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Nyílt forráskódú licenc](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Résztvevőknek útmutató](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Magatartási kódex](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Karbantartóként ezek az összetevők segítenek az elvárásaid közlésében, a résztvevők kezelésében és a mindenki jogainak a védelmében (beleértve a sajátodat is). Jelentősen növelik az esélyt arra, hogy pozitív tapasztalatokat szerezz.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Ha a projektje a GitHub-on van, akkor ezek a fájlok a gyökérkönyvtárba kerülnek az ajánlott fájlnevekkel, így a GitHub felismeri és automatikusan értesíti az olvasókat.
 
-### Choosing a license
+### Licence választás
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+A nyílt forráskódú licenc garantálja, hogy mások használhassák, másolhassák, módosíthassák és hozzájárulhassanak a projekthez szabadon. Emellett megvéd a kiszámíthatatlan jogi helyzetektől. **A licencet a nyílt forráskódú projekt indításával együtt kell megadni.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+A jogi munka nem öröm. A jó hír azonban az, hogy a licencet egyszerűen elhelyezheted a projektedben, csak be kell másolni. Csak néhány percet igényel az, hogy megvédd a munkádat.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), és a [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) a leghresebb licencek, de [van számos másik is](https://choosealicense.com) amelyből választhatsz.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Amikor új projektet hozol létre a GitHub-on, lehetőséget kapsz licence választásra. Nyílt forráskódú licencel a projekted nyílt forráskódú lesz.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Válassz egy licencet!](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Ha egyéb kérdésed vagy kételyed van a nyílt forráskódú projektek jogi részével kapcsolatban, akkor [bővebb információt itt találsz](../legal/).
 
-### Writing a README
+### README írása
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+README több annál, mint hogy leírod azt, hogy hogyan kell a projektet használni. Elmagyarázza azt is, hogy miért lényeges a projekted, és hogy hogyan tud abban más is résztvenni.
 
-In your README, try to answer the following questions:
+A README-ben próbáld meg az alábbiakra megadni a választ:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Mit csinál a projekt?
+* Miért hasznos a projekt?
+* Hogyan lehet elkezdeni vele dolgozni?
+* Hol találok további segítséget, ha szükségem van rá?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+A README meg tudja még válaszolni azt, hogy hogyan fogadsz el közreműködést, mi a projekt célja, és információkat ad a licencről és további részletekről. Ha nem fogadsz el közreműködést a projektben, vagy a projekted nincs még abban az állapotban, hogy éles működésben használható legyen, akkor szintén írd le ezeket az információkat a README-ben.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  Jobb dokumentáció, több felhasználót, kevesebb szupportot, és több közreműködőt jelent.
+  (...) Emlékezz arra, hogy aki olvasni fogja, az nem te vagy. Olyan ebmerek olvassák, akik lehet teljesen más projektből érkeztek ide, és teljesen más tapasztalatokkal rendelkeznek.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Néha az emberek épp azért nem írnak README-t, mert úgy hiszik, hogy még nincs befejezve projektjük, vagy úgy gondolják hogy nem akarnak részvételt benne. Pedig ezek nagyon jó okok arra, hogy a README-t megírjuk.
 
-For more inspiration, try using @dguo's ["Make a README" guide](https://www.makeareadme.com/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Továbbiakért nézd meg @dguo ["README" útmutató készítése](https://www.makeareadme.com/) vagy @PurpleBooth [README űrlap](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)című munkáját, így jó README-t írhatsz.
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Amikor a README állományt a főkönyvtárba teszed, a GitHub automatikusan megjeleníti azt a kódtározó főoldalán.
 
-### Writing your contributing guidelines
+### Részvételi irányelvek útmutatója
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+A CONTRIBUTING állomány közli az emberekkel, hogy hogyan lehet résztvenni a projektben. Például ezeket az információkat lehet megadni:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Hogyan jelents egy hibát (próbáld használni a [hiba és beolvsztási kérés űrlapokat](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Hogyan javasolj új funkciót
+* Hogyan állítsd be a környezetedet és futtasd a teszteket
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+A műszaki adatokon kívül, a CONTRIBUTING fájl lehetőséget nyújt arra, hogy közölje a résztvevőkkel, a részvételre vonatkozó elvárásaid, például:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* Milyen típusú résztvevőket vársz
+* A roadmap-je és víziója a projektednek
+* A résztvevők hogyan (vagy hogyan nem) léphetnek veled kapcsolatba
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Meleg, barátságos hang használata és konkrét javaslatok nyújtása a hozzájárulásokhoz (például dokumentáció készítése vagy weboldal készítése) nagyban hozzájárulhat ahhoz, hogy az újonnan érkezők azt érezzék, hogy szívesen látják őket és örüljenek a részvételnek.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+Például az [Active Admin](https://github.com/activeadmin/activeadmin/) a [saját részvételi szabályzatát](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ezzel kezdi:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> Legelősször is, köszönöm hogy részt kívánsz venni az Active Admin projektben. Az olyan emberek mint te, tehetik az Active Admin ilyen nagyszerű eszközzé.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+A CONTRIBUTING állomány a projekt korai fázisában egyszerű. Mindig el kell megmagyaráznod benne, hogy hogyan lehet hibát vagy egyéb problémát jelezni, a szükséges technikai igényeket pl. teszteket is le kell írni benne ahhoz, hogy valaki a projekten tudjon dolgozni.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Idővel további gyakori kérdéseket adhatsz hozzá a CONTRIBUTING fájlhoz. Ezen információk írása azt jelenti, hogy kevesebb ember fog újra és újra ugyanazt a kérdést feltenni.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+FTovábbi segítségért a CONTRIBUTING írásához, nézd meg @nayafia [részvételi útmutató űrlapját](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) vagy a @mozilla's ["Hogyan építs CONTRIBUTING.md-t?"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+A CONTRIBUTING állományra hivatkozhatsz a README állományból, így az emberek látják. Ha [elhelyezed a CONTRIBUTING állományt a projekt alatt](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), akkor a GitHub automatikusan linkelni fogja azt, ha valaki hibát jelent vagy beolvasztási kérést hoz létre.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### Magatartási kódex létrehozása
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  Mindannyian tapasztalatuk már azt, ha valaki durván próbálta elmagyarázni a dolgokat, mint például egy karbantartó, hogy mit, miért úgy kell csinálni, vagy egy felhasználó aki egy kérdést tett fel nem túl szép hangnemben. (...) A magatartási kódex könnyen meghivatkozható dokumentum, amely azt jelzi, hogy a csapat nagyon komolyan veszi a konstruktív diskurzust.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+A magatartási kódex segít az alapjait lefektetni a viselkedési szabályoknak a projekt résztvevők számára. Különösen értékes, ha egy nyílt forráskódú projektet indítasz egy közösség vagy a cég számára. A magatartási kódex erősíti az egészséges, konstruktív közösségi viselkedést, ami csökkenteni fogja a streszt a karbantartók számára is.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+További információkért nézd meg: [magatartási kódex útmutató](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Amellett, hogy a magatartási kódex leírja, hogy hogyan kell viselkedni, azt is megadja hogy kikre vonatkozik, mikor vonatkozik rájuk, és mi történik akkor, hogyha ezt megsértik.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Mint a nyílt forráskódú licenc esetén, itt is számos standard van a viselkedési szabályok kódexre, így nem kell sajátot írnod. A [Résztvevői Megállapodás](https://contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet több mint [40,000 nyílt forráskódú projekt](https://www.contributor-covenant.org/adopters) használt, mint példul a Kubernetes, Rails, vagy a Swift. Lényegtelen, hogy mit használsz ezekből, de az fontos, hogy kikényszerítsd ennek betartását.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+A kódtározóba helyezd el CODE_OF_CONDUCT állományt. A főkönyvtárba tedd a README mellé, és hivatkozd meg a README állományból.
 
-## Naming and branding your project
+## A projekt elnevezése és brand építés
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+A brand építés több mint egy vagány logó vagy egy megkapó projekt név. Arról szól, hogy hogyan kommunikálod a projektet és kiket akarsz elérni vele.
 
-### Choosing the right name
+### A megfelelő név kiválasztása
 
 Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
 
