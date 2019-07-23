@@ -125,7 +125,7 @@ Fontold ezt meg, még akkor is, ha személyes projektről van szó. Valószínű
 
 * **Szabadalmak:** A céged szabadalommal rendelkezik abban, amelyet nyílt forráskódként akarsz kiadni, és ennek a szabadalomnak a [nyilvánosságra hozásába](https://en.wikipedia.org/wiki/Public_disclosure) a cég beleegyezett? Sajnos felkérhetnek, arra hogy várj még. Ha nagy szabadalmi portfóliókkal rendelkező cég várja a projekthez való hozzájárulást, a jogi csoport talán azt is szeretné, ha olyan licencet választanál, amellyel automatikus hozzájárulást kapnál a résztvevőktől (például az Apache 2.0 vagy a GPLv3), vagy egy további közreműködői szerződést vár el (lásd fent).
 
-* **Védjegyek:** Duplán ellenőrizd, hogy a projekted neve nem ütközik [valamely védjeggyel](../starting-a-project/#avoiding-name-conflicts). Ha saját céged védjegyeit használod a projektben, ellenőrizd, hogy nem okoz-e ütközéseket, problémákat. [FOSSmarks](http://fossmarks.org/) egy gyakorlati útmutató a védjegyek megértéséhez szabad és nyílt forráskódú projektek esetén.
+* **Védjegyek:** Duplán ellenőrizd, hogy a projekted neve nem ütközik [valamely védjeggyel](../starting-a-project/#kerüld-el-a-névütközést). Ha saját céged védjegyeit használod a projektben, ellenőrizd, hogy nem okoz-e ütközéseket, problémákat. [FOSSmarks](http://fossmarks.org/) egy gyakorlati útmutató a védjegyek megértéséhez szabad és nyílt forráskódú projektek esetén.
 
 * **Magánélet:** A projekt adatokat gyűjt a felhasználókról? Van távelérés vállalati szerverekhez? A jogi csoport segít neked a vállalati irányelvek és a külső szabályok betartásában.
 
