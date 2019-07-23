@@ -151,7 +151,7 @@ A README meg tudja még válaszolni azt, hogy hogyan fogadsz el közreműködés
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Jobb dokumentáció, több felhasználót, kevesebb szupportot, és több közreműködőt jelent.
+  A jobb dokumentáció, több felhasználót, kevesebb szupportot, és több közreműködőt jelent.
   (...) Emlékezz arra, hogy aki olvasni fogja, az nem te vagy. Olyan ebmerek olvassák, akik lehet teljesen más projektből érkeztek ide, és teljesen más tapasztalatokkal rendelkeznek.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
