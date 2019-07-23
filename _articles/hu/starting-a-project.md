@@ -220,26 +220,26 @@ A brand építés több mint egy vagány logó vagy egy megkapó projekt név. A
 
 ### A megfelelő név kiválasztása
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Válassz egy nevet, amelyet könnyen megjegyezhetsz, és ideális esetben mutat valamit arról, hogy mit is csinál a projekt. Például:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) Őrszem – monitorozza az alkalmazás hibákat
+* [Thin](https://github.com/macournoyer/thin) Vékony – gyors, és egyszerű Ruby webszerver
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Ha már létező projektre alapozol, a nevét előtagként használva segít tisztázni, hogy mit csinál a projekt (például [node-fetch](https://github.com/bitinn/node-fetch) a `window.fetch` funkciót valósítja meg a Node.js alatt).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Gondolj mindenekelőtt az egyértelműségre. A szójáték szórakoztató, de ne feledd, hogy néhány vicc érthetetlen más kultúrák vagy emberek esetén. Lehet, hogy a potenciális felhasználók egy része vállalati alkalmazott: nem akarod, hogy kényelmetlenül érezzék magukat, ha munkájuk során elő kell adniuk a projektedet!
 
-### Avoiding name conflicts
+### Kerüld el a névütközést
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Ellenőrizd le a hasonló nevű nyílt forráskódú projekteket](http://ivantomic.com/projects/ospnc/), különösen akkor, ha ugyanaz a fejlesztői nyelv vagy ökoszisztéma érintett. Ha a neve átfed egy népszerű, meglévő projektvel, akkor az zavart okozhat.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Ha weboldalt akarsz, vagy Twitter bejegyzéseket, vagy egyéb dolgot, amely a projektedet reprezentálja, akkor is legyél biztos a projekt nevében. Jó esetben [előre le kell foglald a domain nevet](https://instantdomainsearch.com/) a nyugalmad érdekében, még akkor is, ha most nem akarod használni.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Győződj meg róla, hogy a projekt neve nem sérti a védjegyeket. Egy vállalat kérheti, hogy később állítsd le a projekted, vagy akár jogi lépéseket is tehet ellened. Ez nem éri meg a kockázatot.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+Ezen az oldalon [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) tudod ellenőrizni a bejegyzet kereskedelmi neveket. Ha cégnél dolgozol, akkor ezt a [cég jogi osztálya is el tudja végezni](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+És végül, végezz egy gyors Google keresést a projekt nevével. Az emberek könnyen megtalálják majd a projektet? Van olyan dolog, ami a keresési eredményekben jelenik meg, és amit nem szeretnél látni?
 
 ### How you write (and code) affects your brand, too!
 
