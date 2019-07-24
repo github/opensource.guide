@@ -241,57 +241,57 @@ Ezen az oldalon [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) tu
 
 És végül, végezz egy gyors Google keresést a projekt nevével. Az emberek könnyen megtalálják majd a projektet? Van olyan dolog, ami a keresési eredményekben jelenik meg, és amit nem szeretnél látni?
 
-### How you write (and code) affects your brand, too!
+### Ahogyan írsz (akár kódot is) az hatással van a brand-re!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+A projekt élettartama alatt rengeteg írást készítesz: README-k, oktatóanyagok, közösségi dokumentumok, kérdésekre adott válaszok, talán még hírleveleket és levelezőlistákat is.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Akár hivatalos dokumentáció, akár alkalmi e-mail, az írási stílusa része a projekt brand-nek. Fontold meg, hogyan az a hang, amit szeretnél közvetíteni befogadható-e a közösségnek akiknek szánod.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  Megpróbáltam részt venni a levelezőlista minden szálában, és példamutató magatartást mutatni, kedves voltam az emberekkel, komolyan vettem a kérdéseket, és általában mindenkinek segítettem. Egy idő múlva az emberek úgy kezdtek el viselkedni mint én, és nem csak kérdéseket tettek fel, hanem a válaszokat is adtak az én stílusomban, ennek nagyon örültem.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+A kedves, befogadó nyelv használatával jó úton jársz a projekt résztvevőinek megszerzésében és megtartásában. Használj egyszerű nyelvezetet, mivel sok olvasó nem feltétlenül angol (vagy a projekt nyelvnek megfelelő) anyanyelvű.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://angular.io/guide/styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+A szavak írása mellett a kód stílusa is része lehet a projekt márkájának. [Angular](https://angular.io/guide/styleguide) és a [jQuery](https://contribute.jquery.org/style-guide/js/) két példa a szigorú kódolási stílusokkal és iránymutatásokkal rendelkező projektekre.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Nem kell stílus útmutatót írni a projekthez, amikor éppen elkezded, és ha esetleg különböző kódolási stílusokat használsz a projektben. De tisztában kell lenni azzal, hogy az írási és kódolási stílus hogyan vonzhatja vagy riszathatj el a különböző típusú embereket. A projekt legkorábbi szakasza lehetőséget ad arra, hogy meghatározd a kívánt mintát, amit elvársz a későbbiekben a résztvevőktől.
 
-## Your pre-launch checklist
+## Indulás előtti ellenőrző lista
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+Készen állsz a nyílt forráskódú projektre? Itt egy ellenőrzőlista, amely ebben segít. Leellenőrizted az összes pontot? Akkor készen állsz! [Válasz a "publish" linket](https://help.github.com/articles/making-a-private-repository-public/) és indulhat a publikálás!
 
-**Documentation**
+**Dokumentáció**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Van LICENSE állomány, nyílt forráskódú licenccel
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Van README, CONTRIBUTING és CODE_OF_CONDUCT állomány
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    A név könnyen megjegyezhető és utal a projektre hogy, mit csinál. A név nem ütközik más projekt nevével, vagy kereskedelmi és védjegy, esetleg márkanevekkel
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    Naprakész az probléma, hiba lista, amelyek átláthatóan vannak csoportosítva és címkézve
   </label>
 </div>
 
@@ -300,65 +300,65 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    A projekt konzisztens megjelenésű, ha kódot tartalmaz, akkor egységes  konvenció és tisztán érthetőek a metódusok/függvények/változók nevei
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    Az elgondolás és a kivételek dokumentáltak és a kód (ha van) szépen kommentezett
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    Nincs érzékeny vagy titkos adat a git _history-ban,_ vagy a beolvasztási kérelmekben, mint például: jelszavak, nem publikus információk, üzleti titkok, személyes adatok (GDPR betartása)
   </label>
 </div>
 
-**People**
+**Emberek**
 
-If you're an individual:
+Ha magánszemély vagy, akkor:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Beszéltél a jogi osztállyal és / vagy megértetted a vállalatod és közted lévő munkaszerződésed nyílt forráskódra vonatkozó politikáját (ha valahol alkalmazott vagy)
   </label>
 </div>
 
-If you're a company or organization:
+Ha szervezet, vagy cég vagy, akkor:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    Beszéltél a jogi osztállyal
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Van marketing terved a bejelentésre és a projekt támogatására
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Van olyan ember, aki elkötelezett a közösségi interakciók kezelésében (válaszol a problémákra, a beolvasztási kérelmek felülvizsgálatára és beolvasztására)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Legalább két adminisztrátora van a projektnek
   </label>
 </div>
 
-## You did it!
+## Megcsináltad!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Gratulálunk az első nyílt forráskódú projektedhez! Az eredménytől függetlenül a nyilvános munkád jelentős ajándék a közösségnek. Minden _commit_-tal, kommenttel és beolvasztási kérelemmel lehetőséget teremtettél magadnak és másoknak, hogy tanuljanak és fejlődhessenek.
