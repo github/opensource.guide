@@ -1,13 +1,13 @@
 ---
-lang: en
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+lang: ro
+title: Cum să fii plătit pentru muncă open source
+description: Susține-ți munca în open source obținând sprijin financiar pentru timpul sau proiectul tău.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
+  why-some-people-seek-financial-support: "De ce unii oameni caută sprijin financiar"
+  funding-your-own-time: "Finanțarea propriului tău timp"
+  finding-funding-for-your-project: "Găsirea de finanțare pentru proiectul tău"
+  building-a-case-for-financial-support: "Construirea unui caz pentru sprijin financiar"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -15,65 +15,100 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## De ce unii oameni caută sprijin financiar
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+O mare parte din munca open source este voluntară. De exemplu, cineva ar putea da peste un bug într-un proiect pe care-l folosește și să trimită o reparație rapidă, sau ar putea să se bucure să meșterească pe un proiect cu sursă deschisă în timpul său liber.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+  <p>
+    Căutam un proiect de programare ca „hobby” care să mă țină ocupat în săptămâna din jurul Crăciunului. (...) Aveam un calculator acasă, și nu mai mult în mâinile mele. Am decis să scriu un interpretor pentru noul limbaj de scripting la care mă gândeam în ultimul timp. (...) Am ales Python ca un titlu de lucru.
+  </p>  
+  <p>
+    <em>
+      I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Există multe motive pentru care o persoană nu ar dori să fie plătită pentru munca ei open source.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Este posibil ca ea să aibă deja un loc de muncă cu normă întreagă pe îl iubește,** ceea ce îi permite să contribuie la open source în timpul liber.
+* **Ea se bucură de a gândi despre open source ca despre un hobby** sau ca despre o evadare creativă și nu vrea să se simtă obligată financiar să lucreze pe proiectele sale.
+* **Ea obține alte beneficii de la contribuirea pe open source,** cum ar fi construirea reputației sau a portofoliului său, învățarea de noi abilități, sau a se simți mai aproape de comunitate.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  <p>
+    Donațiile financiare adaugă un sentiment de resposabilitate, pentru unii. (...) Este important pentru noi, în lumea global conectată, rapidă în care trăim, să putem spune „nu acum, simt că îmi doresc să fac ceva complet diferit”.
+  </p>
+  <p>
+    <em>
+      Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Pentru alții, în special când contribuțiile sunt în curs de desfășurare sau necesită timp semnificativ, a fi plătiți să contribuie la open source este singura cale în care ei pot participa, fie fiindcă proiectul cere asta, fie din motive personale.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Întreținerea de proiecte populare poate fi o responsabilitate semnificativă, luând până la 10 sau 20 de ore pe săptămână în loc de câteva ore pe lună.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  <p>
+    Întreabă oricare întreținător de proiect cu sursă deschisă, și ei îți vor spune de realitatea cantității de muncă ce merge în gestionarea unui proiect. Ai clienți. Rezolvi probleme pentru ei. Creezi noi facilități. Aceasta devine o reală cerere din timpul tău.
+  </p>
+  <p>
+    <em>
+      Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+Munca plătită de asemenea dă șanse oamenilor cu diferite moduri de viață să facă contribuții semnificative. Unii oameni nu-și pot permite să petreacă timp neplătit pe proiecte cu sursă deschisă, bazat pe poziția lor financiară curentă, datorii, sau familie sau alte obligații de îngrijire. Aceasta înseamnă că lumea nu ajunge niciodată să vadă contribuții de la oameni talentați care nu-și pot permite să facă voluntariat cu timpul lor. Aceasta are implicații etice, după cum @ashedryden [a descris](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), fiindcă munca făcută este părtinitoare în favoarea acelora care deja au avantaje în viață, care apoi obțin avantaje în plus bazate pe contribuțiile lor voluntare, în timp ce alții care nu sunt capabili să facă voluntariat apoi nu mai primesc oportunitați mai încolo, ceea ce consolidează lipsa de diversitate din prezent în comunitatea open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+  <p>
+    OSS oferă beneficii masive industriei tehnologice, care, în schimb, înseamnă beneficii pentru toate industriile. (...) Totuși, dacă singurii oameni care se pot concentra pe ea sunt norocoșii și obsedații, atunci există un potențial gigantic neexploatat.
+  </p>
+  <p>
+    <em>
+      OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Dacă ești în căutare de sprijin financiar, există două căi pe care să le consideri. Îți poți finanța propriul timp în calitate de contributor, sau poți găsi finanțare organizațională pentru proiect.
 
-## Funding your own time
+## Finanțarea propriului tău timp
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Astăzi, mulți oameni sunt plătiți să lucreze cu normă parțială sau întreagă pe open source. Cea mai obișnuită modalitate de a fi plătit pentru timpul tău este să vorbești cu angajatorul tău.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Este mai ușor să faci un caz pentru muncă open source dacă angajatorul tău folosește de fapt proiectul, dar devino creativ cu pasul tău. Poate angajatorul tău nu folosește proiectul, dar ei folosesc Python, și întreținerea unui proiect popular Python ajută la atragerea de noi dezvoltatori Python. Poate îl face pe angajatorul tău să arate mai prietenos cu dezvoltatorii în general.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  <p>
+    La fel ca mulți în open source, mă luptam cu povara de a întreține un proiect. Când am început prima dată să fac open source, obișnuiam doar să stau până târziu la muncă pe asta sau chiar când ajungeam acasă. (...) Puteam să discut cu șeful meu despre problemele cu care mă confruntam și noi am venit cu idei despre cum am putea să încorporăm sarcini open source dată fiind propria noastră utilizare Babel.
+  </p>
+  <p>
+    <em>
+      Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
@@ -114,7 +149,7 @@ Finally, sometimes open source projects put bounties on issues that you might co
 * @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
 * @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://beta.bounties.network/bounty/v1/134).
 
-## Finding funding for your project
+## Găsirea de finanțare pentru proiectul tău
 
 Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
 
@@ -152,7 +187,7 @@ Some software foundations and companies offer grants for open source work. Somet
 
 For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
 
-## Building a case for financial support
+## Construirea unui caz pentru sprijin financiar
 
 Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
 
