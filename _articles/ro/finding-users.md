@@ -119,35 +119,56 @@ Dacă nimeni nu acordă atenție sau nu răspunde la mobilizarea ta inițială, 
 
 Evenimentele offline sunt o modalitate populară de a promova noi proiecte publicurilor. Ele sunt o cale excelentă de a ajunge la un public angajat și de a construi conexiuni umane mai profunde, în special dacă ești interesat în a ajunge la dezvoltatori.
 
-If you're [new to public speaking](https://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+Dacă ești [nou la vorbitul în public](https://speaking.io/), începe prin a găsi o întâlnire locală care are o legătură cu limbajul sau ecosistemul proiectului tău.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  <p>
+    Eram destul de nervoasă în legătură cu a merge la PyCon. Urma să țin un discurs, știam doar pe câțiva oameni acolo, mergeam acolo pentru o săptămână întreagă. (...) Nu trebuia să mă îngrijorez, totuși. PyCon a fost fenomenal de grozav! (...) Toată lumea era incredibil de prietenoasă și liberă, atât de mult încât rar am găsit timp să nu vorbesc cu oameni!
+  </p>
+  <p>
+    <em>
+      I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+Dacă nu ai vorbit niciodată la un eveniment înainte, este perfect normal să te simți nervos! Ține minte că publicul tău este acolo deoarece ei sincer își doresc să audă despre munca ta.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+Pe măsură ce-ți scrii discursul, concentrează-te pe ce va găsi interesant publicul tău și din ce va obține valoare. Păstrează-ți limbajul prietenos și abordabil. Zâmbește, respiră, și distrează-te.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  <p>
+    Când începi să-ți scrii primul discurs, indiferent de care este subiectul tău, te poate ajuta să-ți vezi discursul ca pe o poveste pe care o spui oamenilor.
+  </p>
+  <p>
+    <em>
+      When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+Când te simți pregătit, consideră a vorbi la o conferință pentru a-ți promova proiectul. Conferințele te pot ajuta să ajungi la mai mulți oameni, câteodată din toate colțurile lumii.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+Caută conferințe care sunt specifice limbajului sau ecosistemului tău. Înainte de a-ți trimite discursul, cercetează conferința pentru a-ți adapta discursul pentru participanți și a-ți mări șansele de a fi acceptat să vorbești la conferință. Deseori poți obține un simț al publicului tău privind vorbitorii conferinței.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  <p>
+    Am scris foarte drăguț către oamenii de la JSConf și i-am implorat să-mi dea o bucată de timp în care aș fi putut să-l prezint la JSConf EU. (...) Eram extrem de speriat, prezentând acest lucru pe care lucram de șase luni. (...) Tot timpul doar mă gândeam, o Doamne. Ce fac aici?
+  </p>
+  <p>
+    <em>
+      I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
@@ -155,25 +176,39 @@ Look for conferences that are specific to your language or ecosystem. Before you
 
 ## Construiește-ți o reputație
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+Pe lângă strategiile schițate mai sus, cea mai bună cale de a invita oameni să împărtășească și să contribuie la proiectul tău este să împărtășești și să contribui la proiectele lor.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+Ajutând nou-veniții, împărțind resurse, și făcând contribuții gândite bine la proiectele altora te va ajuta să-ți construiești o reputație pozitivă. Fiind un membru activ în comunitatea open source îi va ajuta pe oameni să aibă context despre munca ta și să fie mai probabil să acorde atenție la și să împărtășească proiectul tău. Dezvoltarea relațiilor cu alte proiecte cu sursă deschisă poate duce chiar la parteneriate oficiale.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  <p>
+    Singurul motiv pentru care urllib3 este cea mai populară bibliotecă Python din terță parte azi este fiindcă este parte din cereri.
+  </p>
+  <p>
+    <em>
+      The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+Nu este niciodată prea devreme, sau prea tâziu, să începi să-ți construiești reputația. Chiar dacă ți-ai lansat deja propriul tău proiect, continuă să cauți căi de a-i ajuta pe ceilalți.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+Nu există o soluție peste noapte de a construi un public. Obținerea încrederii și respectului celorlalți ia timp, și construirea reputației tale nu se sfârșește niciodată.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+  <p>
+    PhantomJS a fost lansat prima dată la începutul lui 2011. (...) Am răspândit cuvântul prin căile obișnuite: am tweet-uit despre el, am scris postări de blog despre lucruri pe care le poți face cu el, l-am menționat în timpul variatelor discuții din întâlniri. Când a devenit mai cunoscut în 2014, am început să țin prezentări despre el.
+  </p>
+  <p>
+    <em>
+      PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
@@ -181,4 +216,4 @@ There is no overnight solution to building an audience. Gaining the trust and re
 
 ## Continuă!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+Este posibil să dureze mult înainte ca utilizatorii să observe proiectul tău cu sursă deschisă. Este în regulă! Unele dintre cele mai populare proiecte de astăzi a durat ani pentru a atinge nivele înalte de activitate. Concentrează-te pe a construi relații în loc de a spera că proiectul tău va câștiga popularitate în mod spontan. Fii răbdător, și continuă să împărtășești munca ta cu cei care o apreciază.
