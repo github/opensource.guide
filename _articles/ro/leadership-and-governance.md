@@ -1,17 +1,17 @@
 ---
-lang: en
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+lang: ro
+title: Conducere și guvernare
+description: Proiectele în creștere cu sursă deschisă pot beneficia de reguli formale pentru luarea deciziilor.
 class: leadership
 toc:
-  understanding-governance-for-your-growing-project: "Understanding governance for your growing project"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
-  how-do-i-formalize-these-leadership-roles: "How do I formalize these leadership roles?"
-  when-should-i-give-someone-commit-access: "When should I give someone commit access?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
-  do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
+  understanding-governance-for-your-growing-project: "Înțelegerea guvernării pentru proiectul tău în creștere"
+  what-are-examples-of-formal-roles-used-in-open-source-projects: "Care sunt exemplele de roluri formale utilizate în proiecte cu sursă deschisă?"
+  how-do-i-formalize-these-leadership-roles: "Cum formalizez aceste roluri de conducere?"
+  when-should-i-give-someone-commit-access: "Când ar trebui să dau cuiva acces de commit?"
+  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Care sunt unele dintre structurile comune de guvernanță pentru proiectele cu sursă deschisă?"
+  do-i-need-governance-docs-when-i-launch-my-project: "Am nevoie de documente de guvernare atunci când lansez proiectul meu?"
+  what-happens-if-corporate-employees-start-submitting-contributions: "Ce se întâmplă dacă angajați din companii încep să trimită contribuții?"
+  do-i-need-a-legal-entity-to-support-my-project: "Am nevoie de o entitate juridică pentru a-mi susține proiectul?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -19,58 +19,79 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## Înțelegerea guvernării pentru proiectul tău în creștere
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Proiectul tău este în creștere, oamenii sunt angajați, și ești angajat să ții acest lucru tot așa. În această etapă, s-ar putea să te întrebi cum să încorporezi contributori obișnuiți ai proiectului în fluxul tău de lucru, fie că este vorba de a da cuiva permisiunea de a face commit-uri sau rezolvarea dezbaterilor comunității. Dacă tu ai întrebări, noi avem răspunsuri.
 
-## What are examples of formal roles used in open source projects?
+## Care sunt exemplele de roluri formale utilizate în proiecte cu sursă deschisă?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Multe proiecte urmează o structură similară pentru rolurile și recunoașterea contributorilor.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Ce aceste roluri înseamnă de fapt, totuși, depinde doar de tine. Iată câteva tipuri de roluri pe care le-ai putea recunoaște:
 
-* **Maintainer**
+* **Întreținător**
 * **Contributor**
 * **Committer**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**Pentru unele proiecte, „întreținătorii”** sunt singurele persoane din proiect cu acces de commit. În alte proiecte, ei sunt pur și simplu oamenii care sunt listați în README ca întreținători.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+Un întreținător nu trebuie să fie neapărat cineva care scrie cod pentru proiectul tău. Poate fi cineva care a făcut multă muncă promovându-ți proiectul, sau a scris documentație care a făcut proiectul mai accesibil altora. Indiferent de ce face zi de zi, un întreținător este probabil cineva care simte responsabilitate asupra direcției proiectului și este angajat la îmbunătățirea lui.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**Un „contributor” ar putea fi oricine** care comentează la o problemă sau la o cerere de pull, oameni care adaugă valoare proiectului (fie că este trierea de probleme, scrierea de cod, sau organizarea de evenimente), sau oricine cu o cerere de pull îmbinată (poate cea mai restrânsă definiție a unui contributor).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  <p>
+    [Pentru Node.js,] oricare persoană care se arată să comenteze la o problemă sau să trimită cod este o membră a comunității unui proiect. Doar faptul că ea poate fi văzută înseamnă că ea a trecut linia de la a fi un utilizator la a fi un contributor.
+  </p>
+  <p>
+    <em>
+      [For Node.js,] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**Termenul „committer”** poate fi folosit pentru a distinge accesul la commit, care este un tip specific de responsabilitate, de alte forme de contribuție.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+În timp ce poți defini rolurile proiectului tău în orice fel îți place, [consideră folosirea de definiții mai largi](../how-to-contribute/#what-it-means-to-contribute) pentru a încuraja mai multe forme de contribuție. Poți folosi roluri de conducere pentru a recunoaște în mod oficial pe oamenii care au făcut contribuții remarcabile la proiectul tău, indiferent de abilitățile lor tehnice.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  <p>
+    Poate mă știi ca „inventatorul” lui Django... dar de fapt sunt tipul care a fost angajat să lucreze pe un lucru la un an după ce a fost deja făcut. (...) Oamenii suspectează că sunt de succes datorită abilităților mele de programare... dar sunt în cel mai bun caz un programator mediu.
+  </p>
+  <p>
+    <em>
+      You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Cum formalizez aceste roluri de conducere?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Formalizarea rolurilor de conducere ajută oamenii să se simtă proprietari și spune celorlalți membri de comunitate pe cine să caute pentru ajutor.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+Pentru un proiect mai mic, desemnarea liderilor poate fi atât de simplă ca adăugarea numelor lor la fișierul tău text README sau CONTRIBUTORS.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Pentru un proiect mai mare, dacă ai un site web, creează o pagină a echipei sau listează liderii proiectului tău acolo. De exemplu, [Postgres](https://github.com/postgres/postgres/) are o [pagină cuprinzătoare a echipei](https://www.postgresql.org/community/contributors/) cu profiluri scurte pentru fiecare contributor.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Dacă proiectul tău are comunitate de contributori foarte activă, ai putea să formezi o „echipă de bază” a întreținătorilor, sau chiar subcomitete ale oamenilor care preiau conducerea unor domenii de probleme diferite (de exemplu, securitate, trierea problemelor, sau conduita comunității). Lasă oamenii să se autoorganizeze și să aplice pentru voluntariat în rolurile de care sunt cei mai încântați, în loc să li le atribui.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  <p>
+    [Noi] suplinim echipa de bază cu câteva „subechipe”. Fiecare subechipă este concentrată pe un domeniu specific, de exemplu, proiectarea limbajului sau a bibliotecilor. (...) Pentru a asigura coordonare globală și o puternică, coerentă viziune pentru proiect ca întreg, fiecare subechipă este condusă de un membru din echipa de bază.
+  </p>
+  <p>
+    <em>
+      [We] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
@@ -84,7 +105,7 @@ Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help
 
 Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
 
-## When should I give someone commit access?
+## Când ar trebui să dau cuiva acces de commit?
 
 Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
 
@@ -100,7 +121,7 @@ If your project is on GitHub, you can use [protected branches](https://help.gith
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Care sunt unele dintre structurile comune de guvernanță pentru proiectele cu sursă deschisă?
 
 There are three common governance structures associated with open source projects.
 
@@ -116,7 +137,7 @@ Which one should you use? It's up to you! Every model has advantages and trade-o
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## Am nevoie de documente de guvernare atunci când lansez proiectul meu?
 
 There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
 
@@ -132,7 +153,7 @@ If you're part of a company launching an open source project, it's worth having 
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## Ce se întâmplă dacă angajați din companii încep să trimită contribuții?
 
 Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
 
@@ -144,7 +165,7 @@ It's important to treat commercial activity as normal and as just another source
 
 Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
 
-## Do I need a legal entity to support my project?
+## Am nevoie de o entitate juridică pentru a-mi susține proiectul?
 
 You don't need a legal entity to support your open source project unless you're handling money.
 
