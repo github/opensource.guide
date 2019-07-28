@@ -198,40 +198,45 @@ Pentru mai multe opțiuni detaliate și studii de caz, @nayafia [a scris un ghid
 
 ## Construirea unui caz pentru sprijin financiar
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Fie că proiectul tău este o idee nouă, fie că a fost prin preajmă de ani, ar trebui să te aștepți să pui gândire semnificativă în identificarea finanțatorului tău țintă și să faci un caz convingător.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Fie că ești în căutare să plătești pentru propriul tău timp, fie ca să strângi fonduri pentru un proiect, ar trebui să fii capabil să răspunzi la următoarele întrebari.
 
 ### Impact
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+De ce este acest proiect folositor? De ce utilizatorii tăi, sau utilizatori potențiali, îl plac atât de mult? Unde va fi el în cinci ani?
 
-### Traction
+### Tracțiune
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Încearcă să colectezi dovezi că proiectul tău contează, fie că sunt măsurători, anecdote, sau mărturii. Există companii sau oameni remarcabili care îți folosesc proiectul chiar acum? Dacă nu, l-a susținut o persoană importantă?
 
-### Value to funder
+### Valoare finanțatorului
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+Finanțatorii, fie că este angajatorul tău sau o fundație de finanțare, sunt deseori abordați cu oportunități. De ce ar trebui să susțină ei proiectul tău deasupra oricărei alte oportunitați? Cum beneficiază ei personal?
 
-### Use of funds
+### Folosirea fondurilor
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Ce, mai exact, vei reuși cu finanțarea propusă? Concentrează-te pe etapele de proiect sau rezultate mai degrabă decât pe plătirea unui salariu.
 
-### How you'll receive the funds
+### Cum vei primi fondurile
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+Are finanțatorul vreo cerință în legătură cu plata? De exemplu, ar putea să fie necesar să fii o organizație nonprofit sau să ai un sponsor fiscal nonprofit. Sau poate fondurile trebuie date unui contractant individual în loc de o organizație. Aceste cerințe variază între finanțatori, deci asigură-te că îți faci cercetarea în prealabil.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  <p>
+    De ani de zile, am fost resursa principală a pictogramelor prietenoase pentru site-uri web, cu o comunitate de peste 20 de milioane de oameni și am fost recomandați pe mai mult de 70 de milioane de site-uri web, inclusiv Whitehouse.gov. (...) Versiunea 4 a fost acum 3 ani. Tehnologiile web s-au schimbat mult de atunci, și sincer, Font Awesome a devenit puțin învechit. (...) De aceea introducem Font Awesome 5. Modernizăm și rescriem CSS-ul și reproiectăm fiecare pictogramă de la cap la coadă. Vorbim de aspect mai bun, consistență mai bună, și lizibilitate mai bună.
+  </p>
+  <p>
+    <em>
+      For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+— @davegandy, [video-ul Kickstarter al Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Experimentează și nu renunța
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
-
->
+A strânge bani nu este ușor, fie că ai un proiect cu sursă deschisă, o organizație nonprofit, sau un startup software, și în cele mai multe cazuri trebuie să fii creativ. Identificând cum vrei să fii plătit, făcându-ți cercetarea, și punându-te pe tine însuți în pantofii finanțatorului te vor ajuta să construiești un caz convingător pentru finanțare.
