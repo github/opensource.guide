@@ -8,7 +8,7 @@ toc:
   what-are-examples-of-formal-roles-used-in-open-source-projects: "Care sunt exemplele de roluri formale utilizate în proiecte cu sursă deschisă?"
   how-do-i-formalize-these-leadership-roles: "Cum formalizez aceste roluri de conducere?"
   when-should-i-give-someone-commit-access: "Când ar trebui să dau cuiva acces de commit?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Care sunt unele dintre structurile comune de guvernanță pentru proiectele cu sursă deschisă?"
+  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Care sunt unele dintre structurile obișnuite de guvernanță pentru proiectele cu sursă deschisă?"
   do-i-need-governance-docs-when-i-launch-my-project: "Am nevoie de documente de guvernare atunci când lansez proiectul meu?"
   what-happens-if-corporate-employees-start-submitting-contributions: "Ce se întâmplă dacă angajați din companii încep să trimită contribuții?"
   do-i-need-a-legal-entity-to-support-my-project: "Am nevoie de o entitate juridică pentru a-mi susține proiectul?"
@@ -97,39 +97,46 @@ Dacă proiectul tău are comunitate de contributori foarte activă, ai putea să
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Echipele de conducere ar putea dori să creeze un canal desemnat (cum ar fi pe IRC) sau să se întâlnească periodic să discute despre proiect (cum ar fi pe Gitter sau Google Hangouts). Poți chiar face aceste întâlniri publice astfel încât alți oameni pot asculta. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), de exemplu, [găzduiește ore de lucru săptămânal](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Odată ce ai stabilit roluri de conducere, nu uita să documentezi modul în care oamenii pot să le atingă! Stabilește un proces clar pentru cum cineva poate deveni un întreținător sau să se alăture unui subcomitet în cadrul proiectului tău, și scrie aceasta în GOVERNANCE.md-ul tău.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Unelte cum ar fi [Vossibility](https://github.com/icecrime/vossibility-stack) pot să te ajute să urmărești în mod public cine face (sau nu) contribuții la proiect. Documentarea acestor informații evită percepția comunității că întreținătorii sunt o clică ce își ia deciziile în privat.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
+În cele din urmă, dacă proiectul tău este pe GitHub, consideră mutarea proiectului tău din contul personal într-o organizație și adăugarea a cel puțin unui administrator de rezervă. [Organizațiile GitHub](https://help.github.com/articles/creating-a-new-organization-account/) ușurează gestionarea permisiunilor și multiplelor depozite și protejează moștenirea proiectului tău prin [proprietate comună](../building-community/#share-ownership-of-your-project).
 
 ## Când ar trebui să dau cuiva acces de commit?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Unii oameni gândesc că ar trebui să dea acces de commit la oricine face o contribuție. Făcând astfel ar putea încuraja mai mulți oameni să se simtă proprietari asupra proiectului tău.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Pe de altă parte, în special pentru proiectele mai mari, mai complexe, ai putea vrea să dai acces de commit doar oamenilor care și-au demonstrat angajamentul. Nu există o singură cale corectă de a face aceasta - fă ce te face cel mai confortabil!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Dacă proiectul tău este pe GitHub, poți folosi [ramuri protejate](https://help.github.com/articles/about-protected-branches/) pentru a gestiona cine poate face push spre o anumită ramură, și în care circumstanțe.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  <p>
+    Oricând cineva îți trimite o cerere de pull, dă-i acces de commit la proiectul tău. Cu toate că poate suna incredibil de stupid la început, folosind această strategie îți va permite să dezlănțui adevărata putere a GitHub. (...) Odată ce oamenii au acces de commit, ei nu mai sunt îngrijorați că patch-ul lor ar putea ajunge neîmbinat... făcându-i să pună mult mai multă muncă în el.
+  </p>
+  <p>
+    <em>
+      Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## Care sunt unele dintre structurile comune de guvernanță pentru proiectele cu sursă deschisă?
+## Care sunt unele dintre structurile obișnuite de guvernanță pentru proiectele cu sursă deschisă?
 
-There are three common governance structures associated with open source projects.
+Există trei structuri obișnuite de guvernanță asociate cu proiectele cu sursă deschisă.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL înseamnă "Benevolent Dictator for Life" (Dictator binevoitor pentru viață). În cadrul acestei structuri, o persoană (de obicei autorul inițial al proiectului) are ultimul cuvânt asupra tuturor deciziilor majore legate de proiect. [Python](https://github.com/python) este un exemplu clasic. Proiectele mai mici sunt probabil BDFL în mod implicit, deoarece există doar unul sau doi întreținători. Un proiect care își are originea la o companie ar putea de asemenea intra în categoria BDFL.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Meritocrația:** **(Notă: termenul „meritocrație” are conotații negative pentru unele comunități și are o [istorie socială și politică complexă](http://geekfeminism.wikia.com/wiki/Meritocracy).)** În cadrul unei meritocrații, contributorii activi ai proiectului (aceia care demonstrează „merit”) primesc un rol oficial de luare a deciziilor. Deciziile sunt de obicei luate bazat pe consens pur votat. Conceptul de meritocrație o are ca pionieră pe [Fundația Apache](https://www.apache.org/); [toate proiectele Apache](https://www.apache.org/index.html#projects-list) sunt meritocrații. Contribuțiile pot fi făcute doar de indivizi care se reprezintă pe sine, nu printr-o companie.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
+* **Contribuție liberală:** În cadrul unui model de contribuție liberală, oamenii care fac cea mai multă muncă sunt recunoscuți ca cei mai influenți, dar aceasta se bazează pe munca din prezent și nu pe contribuții istorice. Deciziile majore legate de proiect sunt făcute pe baza unui proces de căutare de consens (discută plângerile majore) în loc de votare pură, și se străduiesc să includă cât mai multe perspective posibil din comunitate. Exemple populare de proiecte care folosesc un model de contribuție liberală includ [Node.js](https://foundation.nodejs.org/) și [Rust](https://www.rust-lang.org/).
 
 Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
 
