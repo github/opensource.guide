@@ -138,23 +138,30 @@ Există trei structuri obișnuite de guvernanță asociate cu proiectele cu surs
 
 * **Contribuție liberală:** În cadrul unui model de contribuție liberală, oamenii care fac cea mai multă muncă sunt recunoscuți ca cei mai influenți, dar aceasta se bazează pe munca din prezent și nu pe contribuții istorice. Deciziile majore legate de proiect sunt făcute pe baza unui proces de căutare de consens (discută plângerile majore) în loc de votare pură, și se străduiesc să includă cât mai multe perspective posibil din comunitate. Exemple populare de proiecte care folosesc un model de contribuție liberală includ [Node.js](https://foundation.nodejs.org/) și [Rust](https://www.rust-lang.org/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Pe care dintre ele ar trebui să o folosești? Depinde de tine! Fiecare model are avantaje și compromisuri. Și chiar dacă ele ar putea să-ți pară destul de diferite la început, toate cele trei modele au mai mult în comun decât pare. Dacă ești interesat în a adopta una dintre aceste modele, aruncă o privire la aceste șabloane:
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [șablon pentru modelul BDFL](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [șablon pentru modelul meritocratic](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [politica de contribuție liberală a Node.js](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Am nevoie de documente de guvernare atunci când lansez proiectul meu?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Nu există moment potrivit să notezi guvernarea proiectului tău, dar este mult mai ușor să o definești odată ce ai văzut acea dinamică a comunitații jucând. Cea mai bună (și cea mai grea) parte despre guvernarea open source este faptul că este modelată de comunitate!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+Totuși unele documente inițiale vor contribui la guvernarea proiectului tău în mod inevitabil, deci începe să notezi ce poți. De exemplu, poți defini așteptări clare privind comportamentul, sau cum funcționează procesul tău de contribuire, chiar la lansarea proiectului tău.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Dacă ești parte dintr-o companie care lansează un proiect cu sursă deschisă, merită să aveți o discuție internă înainte de lansare despre cum compania voastră se așteaptă să mențină și să facă decizii cu privire la proiectul care merge înainte. Poate ați dori de asemenea să explicați în mod public oricare detaliu cu privire la cum compania va fi (sau nu va fi!) implicată în proiect.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  <p>
+    Desemnăm echipe mici să gestioneze proiectele pe GitHub care lucrează de fapt pe acestea la Facebook. De exemplu, React este condus de un inginer React.
+  </p>
+  <p>
+    <em>
+      We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
@@ -162,32 +169,39 @@ If you're part of a company launching an open source project, it's worth having 
 
 ## Ce se întâmplă dacă angajați din companii încep să trimită contribuții?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Proiectele open source de succes sunt folosite de mulți oameni și companii, și unele companii pot avea în cele din urmă fluxuri de venit eventual legate de proiect. De exemplu, o companie ar putea folosi codul proiectului ca o componentă într-o ofertă de serviciu comercial.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+Pe măsură ce proiectul este utilizat pe scară mai largă, oamenii care au experiență în acest domeniu devin mai solicitați - tu ai putea fi unul dintre ei! - și câteodată vor fi plătiți pentru munca pe care o fac în cadrul proiectului.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+Este important să tratezi activitatea comercială ca normală și exact ca pe o altă sursă de energie de dezvoltare. Dezvoltatorii plătiți nu ar trebui să primească tratament special în comparație cu cei neplătiți, de sigur; fiecare contribuție trebuie să fie evaluată pe baza meritelor ei tehnice. Totuși, oamenii ar trebui să se simtă confortabil cu angajarea în activitate comercială, și să se simtă confortabil când își afirmă cazurile de utilizare când argumentează în favoarea unei anumite îmbunătățiri sau facilități.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+„Comercial” este complet compatibil cu „sursă deschisă”. „Comercial” doar înseamna că acolo undeva sunt bani implicați - că softul este folosit în comerț, ceea ce este din ce în ce mai probabil pe măsură ce un proiect devine mai adoptat. (Când un soft cu sursă deschisă este folosit ca parte dintr-un produs cu sursă nedeschisă, produsul în ansamblu este încă soft „proprietar”, deși, la fel ca sursa deschisă, el poate fi folosit pentru scopuri comerciale sau necomerciale.)
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+La fel ca oricine altcineva, dezvoltatorii motivați comercial câștigă influență în proiect prin calitatea și cantitatea contribuțiilor lor. În mod evident, un dezvoltator care este plătit pentru timpul său ar putea să facă mai mult decât cineva care nu este plătit, dar asta este OK: plata este doar unul dintre posibilii factori care ar putea afecta cât face cineva. Păstrează-ți discuțiile de proiect concentrate pe contribuții, nu pe factorii externi care dau posibilitatea oamenilor să facă aceste contribuții.
 
 ## Am nevoie de o entitate juridică pentru a-mi susține proiectul?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+Nu ai nevoie de o entitate juridică pentru a-ți susține proiectul cu sursă deschisă decât dacă lucrezi cu bani.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+De exemplu, dacă dorești să creezi o afacere comercială, vei dori să înființezi un C Corp sau LLC (dacă ești stabilit în SUA). Dacă faci doar muncă cu contract legată de proiectul tău cu sursă deschisă, poți accepta bani ca unic proprietar, sau să înființezi un LLC (dacă ești stabilit în SUA).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Dacă vrei să accepți donații pentru proiectul tău cu sursă deschisă, poți crea un buton de donație (folosind PayPal sau Stripe, de exemplu), dar banii nu vor fi deductibili fiscal decât dacă ești o organizație nonprofit calificată (un 501c3, dacă ești în SUA).
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Multe proiecte nu doresc să treacă prin dificultățile de înființare a unei organizații nonprofit, deci ele găsesc în schimb un sponsor fiscal nonprofit. Un sponsor fiscal acceptă donații în numele tău, de obicei în schimbul unui procent din donație. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) și [Open Collective](https://opencollective.com/opensource) sunt exemple de organizații care servesc drept sponsori fiscali pentru proiecte cu sursă deschisă.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  <p>
+    Scopul nostru este să furnizăm o infrastructură pe care comunitățile o pot folosi pentru a fi autosustenabile, creând astfel un mediu în care oricine — contributori, susținători, sponsori — obțin beneficii concrete din el.
+  </p>
+  <p>
+    <em>
+      Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+Dacă proiectul tău este strâns legat de un anumit limbaj sau ecosistem, ar putea de asemenea exista o fundație software cu care poți lucra. De exemplu, [Python Software Foundation](https://www.python.org/psf/) ajută la sprijinirea [PyPI](https://pypi.org/), gestionarul de pachete Python, și [Node.js Foundation](https://foundation.nodejs.org/) ajută la sprijinirea [Express.js](https://expressjs.com/), un cadru de lucru bazat pe Node.
