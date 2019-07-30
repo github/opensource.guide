@@ -467,7 +467,7 @@ Tippek a jó párbeszédhez:
 
 ### Beolvasztási kérelem megnyitása
 
-Általában a köv etkező esetekben szükséges beolvasztási kérelmet nyitni:
+Általában a következő esetekben szükséges beolvasztási kérelmet nyitni:
 
 * Triviális javítások küldése (például egy gépelési hiba, hibás link vagy nyilvánvaló hiba)
 * Olyan feladaton történő munka elkezdése, amelyet már a közösség kitárgyalt, átbeszélt és tisztáztad a kérdéseket
@@ -476,20 +476,20 @@ A beolvasztási kérelem nem feltétlen jelent befejezett munkát. Gyakran jobb 
 
 Ha a projekt a GitHub-on van, akkor a következő képpen kell beolvasztási kérelmet benyújtani:
 
-* **[Ágaztasd (fork) el a kód tározót](https://guides.github.com/activities/forking/)** és klónozd le magadhoz lokálisan. A lokális másolatodat kapcsold az eredeti tárolóhoz (original "upstream") egy _remote_ hozzáadásával. A változások frissítése magadhoz az "upstream"-ről legyen gyakori, így naprakész maradsz, ezért a beolvasztási kérelem esetén kisebb eséllyel lesz ütközés a kódok összefésülésekor. (Részletes instrukciókat [itt találsz](https://help.github.com/articles/syncing-a-fork/).)
+* **[Ágaztasd (fork) el a kód tározót](https://guides.github.com/activities/forking/)** és klónozd le magadhoz lokálisan. A lokális másolatodat kapcsold az eredeti tárolóhoz (original "upstream") egy _remote_ hozzáadásával. Frissítsd minél gyakrabban a változásokat az "upstream"-ről, hogy naprakész maradj. Így beolvasztás esetén kisebb eséllyel lesz ütközés a kódok összefésülésekor. (Részletes instrukciókat [itt találsz](https://help.github.com/articles/syncing-a-fork/).)
 * **[Hozz létre egy új ágat (branch)](https://guides.github.com/introduction/flow/)** a módosításaidhoz.
-* **Hivatkozz meg bármilyen releváns hibajegyet** vagy a dokumentációt a beolvasztási kérésedben (például, "Closes #37.")
-* **Helyezd el az előtte és utána képernyőképeket** ha HTML/CSS változás történt. Húzd be a képeket a beolvasztási kérésedbe.
-* **Teszteld a változtatásokat!** Mindig futtass le a meglévő teszteket a kódodon, vagy írj újakat ha szükséges. Függetlenül a tesztektől bizonyosodj meg arról, hogy a módosításod nem rontja-e el a projektet.
-* **A projekt stílusában vegyél részt benne** a legjobb tudásod szerint. Ez jelentheti azt, hogy más sorbehúzást kell használni a szövegben, lehet hogy a projekt használ pontosvesszőt, de te nem szoktál, vagy másként írják a kód kommenteket – akárhogy is legyen, könnyebb a karbantartóknak a kódot összefésülni (merge), a későbbiekben karbantartani és megérteni, ha egységes a projekt.
+* **Hivatkozz meg bármilyen releváns hibajegyet** vagy a dokumentációt a beolvasztási kérelmedben (például, "Closes #37.")
+* **Adj hozzá a kérelmedhez "előtte" és "utána" képernyőképeket** ha HTML/CSS változás történt. Húzd be a képeket a beolvasztási kérelembe.
+* **Teszteld a változtatásokat!** Mindig futtasd le a meglévő teszteket a kódodon, vagy írj újakat ha szükséges. Függetlenül a tesztektől bizonyosodj meg arról, hogy a módosításod nem rontja-e el a projektet.
+* **A módosításaidnál alkalmazkodj a projekt kódolási stílusához** a legjobb tudásod szerint. Ez jelentheti azt, hogy más sorbehúzást kell használni a szövegben, lehet hogy a projekt használ pontosvesszőt, de te nem szoktál, vagy másként írják a kód kommenteket, mint ahogy te szoktad. He ezt betartod, a karbantartóknak könnyebb a kódot összefésülni (merge), másoknak pedig karbantartani és megérteni azt.
 
-Ha ez lesz az első beolvasztási kérésed (Pull Request), akkor nézd ezt meg előtte: [Make a Pull Request](http://makeapullrequest.com/), amelyben @kentcdodds egy részletes videó anyagot készített. Szintén gyakorlati útmutató a [First Contributions](https://github.com/Roshanjossey/first-contributions) amelyet @Roshanjossey készített.
+Ha ez lesz az első beolvasztási kérelmed (Pull Request), akkor nézd ezt meg előtte: [Make a Pull Request](http://makeapullrequest.com/), amelyben @kentcdodds egy részletes videó anyagot készített. A beolvasztási kérelmek benyujtását a @Roshanjossey által készített [First Contributions](https://github.com/Roshanjossey/first-contributions) GitHub projekten is gyakorolhatod.
 
 ## Mi történik miután beküldted a kész beolvasztási kérelmedet?
 
-Megcsináltad! Gratulálunk, a nyílt forráskód résztvevője lettél. Reméljük ezt az első lépést, majd még számos követi.
+Megcsináltad! Gratulálunk, a nyílt forráskód résztvevője lettél. Reméljük ezt az első lépést majd még számos követi.
 
-Miután beküldted a végleges hozzájárulásod a projekthez a következők történhetnek:
+Miután beküldted a végleges hozzájárulásod a projekthez, a következők történhetnek:
 
 ### 😭 Nem kapsz választ
 
