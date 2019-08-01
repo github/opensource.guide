@@ -1,16 +1,16 @@
 ---
-lang: en
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+lang: ro
+title: Latura juridică a open source
+description: Tot ce te-ai întrebat vreodată de latura juridică a open source, și câteva lucruri de care nu te-ai întrebat.
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
-  are-public-github-projects-open-source: "Are public GitHub projects open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
-  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
-  what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
-  does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
-  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
+  why-do-people-care-so-much-about-the-legal-side-of-open-source: "De ce oamenilor le pasă atât de mult de partea juridică a open source?"
+  are-public-github-projects-open-source: "Sunt proiectele GitHub publice open source?"
+  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Doar dă-mi TL;DR-ul a ce-mi trebuie pentru a-mi proteja proiectul."
+  which-open-source-license-is-appropriate-for-my-project: "Ce licență open source este potrivită pentru proiectul meu?"
+  what-if-i-want-to-change-the-license-of-my-project: "Ce se întâmplă dacă vreau să schimb licența proiectului meu?"
+  does-my-project-need-an-additional-contributor-agreement: "Proiectul meu are nevoie de o înțelegere cu contributorii în plus?"
+  what-does-my-companys-legal-team-need-to-know: "Ce trebuie să știe echipa juridică a companiei mele?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -18,71 +18,78 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## Înțelegerea implicațiilor legale ale sursei deschise
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+Împărtășirea muncii tale creative cu lumea poate fi o experiență încântătoare și recompensantă. Ea poate să însemne de asemenea o grămadă de lucruri legale de care nu știai că trebuia să te îngrijorezi. Din fericire, nu trebuie să începi de la zero. Îți avem nevoile legale acoperite. (Înainte de săpa, asigură-te că ne citești [exonerarea](/notices/).)
 
-## Why do people care so much about the legal side of open source?
+## De ce oamenilor le pasă atât de mult de partea juridică a open source?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+Mă bucur că ai întrebat! Când realizezi muncă creativă (cum ar fi scris, grafică, sau cod), acea muncă este sub drepturi de autor exclusive în mod implicit. Aceasta înseamnă că legea presupune că fiind autorul muncii tale, ai un cuvânt de spus în legătură cu ce pot ceilalți să facă cu ea.
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+În general, aceea înseamnă că nimeni altcineva nu poate folosi, copia, distribui, sau modifica munca ta fără să fie sub riscul de dărâmări, scuturări, sau litigii.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+Open source este o circumstanță neobișnuită, totuși, deoarece autorul se așteaptă că ceilalți vor folosi, modifica, și distribui munca. Dar fiindcă implicitul legal este încă drepturi de autor exclusive, ai nevoie de o licență care afirmă în mod explicit aceste permisiuni.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+Dacă nu aplici o licență open source, oricine contribuie la proiectul tău devine de asemenea un deținător exclusiv de drepturi de autor al muncii lor. Aceasta înseamnă că nimeni nu poate folosi, copia, distribui, sau modifica acele contribuții ale lor -- și că acel „nimeni” te include pe tine.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+În cele din urmă, proiectul tău poate avea dependențe cu cerințe de licență de care nu ai cunoștință. Comunitatea proiectului tău, sau politicile angajatorului tău, pot de asemenea să ceară proiectului tău să folosească anumite licențe open source. Vom acoperi aceste situații mai jos.
 
-## Are public GitHub projects open source?
+## Sunt proiectele GitHub publice open source?
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+Când tu [creezi un proiect nou](https://help.github.com/articles/creating-a-new-repository/) pe GitHub, ai opțiunea să faci depozitul **privat** sau **public**.
 
-![Create repository](/assets/images/legal/repo-create-name.png)
+![Creează depozit](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+Dacă dorești ca alții să folosească, să distribuie, să modifice, sau să contribuie înapoi la proiectul tău, tu trebuie să incluzi o licență open source. De exemplu, cineva nu poate în mod legal folosi nicio parte a proiectului tău GitHub în codul lor, chiar dacă este public, decât dacă tu le dai în mod explicit dreptul să facă acest lucru.
 
-## Just give me the TL;DR on what I need to protect my project.
+## Doar dă-mi TL;DR-ul a ce-mi trebuie pentru a-mi proteja proiectul.
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+Ai noroc, deoarece astăzi, licențele de sursă deschisă sunt standardizate și ușor de folosit. Poți da copiere-lipire unei licențe existente direct în proiectul tău.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), și [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sunt cele mai populare licențe open source, dar există alte opțiuni din care să alegi. Poți găsi textul întreg al acestor licențe, și instrucțiuni despre cum să le folosești, pe [choosealicense.com](https://choosealicense.com/).
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+Când creezi un nou proiect pe GitHub, ți se va [cere să adaugi o licență](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+  <p>
+    O licență standardizată servește ca un împuternicit pentru aceia fără pregătire juridică să știe exact ce ei pot și ce nu pot face cu software-ul. Decât dacă este absolut necesar, evită termeni personalizați, modificați, sau non-standard, care vor servi ca o barieră pentru utilizarea în aval a codului agentului.
+  </p>
+  <p>
+    <em>
+      A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## Ce licență open source este potrivită pentru proiectul meu?
 
-If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
+Dacă pornești cu o tablă curată, este greu să greșești cu [licența MIT](https://choosealicense.com/licenses/mit/). Este scurtă, foarte ușor de înțeles, și permite oricui să facă orice atâta timp cât păstrează o copie a licenței, inclusiv nota ta cu drepturile de autor. Vei putea să-ți lansezi proiectul sub o licență diferită dacă vei avea nevoie vreodată.
 
-Otherwise, picking the right open source license for your project depends on your objectives.
+Altfel, a alege licența potrivită de sursă deschisă pentru proiectul tău depinde de obiectivele tale.
 
-Your project very likely has (or will have) **dependencies**. For example, if you're open sourcing a Node.js project, you'll probably use libraries from the Node Package Manager (npm). Each of those libraries you depend on will have its own open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
+Proiectul tău cel mai probabil are (sau va avea) **dependențe**. De exemplu, dacă deschizi sursa unui proiect Node.js, probabil vei folosi biblioteci din Node Package Manager (npm). Fiecare din acele biblioteci de care depinzi va avea propria sa licență de sursă deschisă. Dacă fiecare din licențele lor este „permisivă” (dă permisiunea publică de a folosi, modifica, și distribui, fără nicio condiție pentru licențierea în aval), poți folosi oricare licență vrei. Licențe permisive obișnuite includ MIT, Apache 2.0, ISC, și BSD.
 
-On the other hand, if any of your dependencies' licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+Pe de altă parte, dacă oricare din licențele dependențelor tale este „copyleft puternic” (de asemenea oferă aceleași permisiuni publice, cu condiția de a folosi aceeași licență în aval), atunci proiectul tău va trebui să folosească aceeași licență. Licențele obișnuite cu copyleft puternic includ GPLv2, GPLv3, și AGPLv3.
 
-You may also want to consider the **communities** you hope will use and contribute to your project:
+Poate dorești de asemenea să consideri **comunitățile** care speri că vor folosi și contribui la proiectul tău:
 
-* **Do you want your project to be used as a dependency by other projects?** Probably best to use the most popular license in your relevant community. For example, [MIT](https://choosealicense.com/licenses/mit/) is the most popular license for [npm libraries](https://libraries.io/search?platforms=NPM).
-* **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
-* **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
+* **Dorești ca proiectul tău să fie folosit ca o dependență de alte proiecte?** Probabil cel mai bine este să utilizezi cea mai populară licență în comunitatea ta relevantă. De exemplu, [MIT](https://choosealicense.com/licenses/mit/) este cea mai populară licență pentru [biblioteci npm](https://libraries.io/search?platforms=NPM).
+* **Dorești ca proiectul tău să atragă afaceri mari?** O afacere mare cel mai probabil va dori o licență de brevet expres de la toți contributorii. În acest caz, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) te are (și îi are) acoperit.
+* **Dorești ca proiectul tău să atragă contributori care nu doresc ca acele contribuții ale lor să fie folosite în software cu sursă închisă?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sau (dacă ei de asemenea nu vor să contribuie la servicii cu sursă închisă) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) vor merge mai bine.
 
-Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
+Este posibil ca această **companie** a ta să aibă cerințe specifice de licențiere pentru proiectele ei cu sursă deschisă. De exemplu, ar putea avea nevoie de o licență permisivă astfel încât compania poate folosi proiectul tău în produsul cu sursă închisă al companiei. Sau compania ta ar putea necesita o licență cu copyleft puternic și un acord de contributor în plus (vezi mai jos) astfel încât doar compania ta, și nimeni altcineva, poate folosi proiectul tău în software cu sursă închisă. Sau compania ta ar putea avea anumite nevoi legate de standarde, responsabilitate socială, sau transparență, oricare din acestea putând necesita o anumită strategie de licențiere. Vorbește cu [departamentul juridic al companiei tale](#what-does-my-companys-legal-team-need-to-know).
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
+Când creezi un proiect nou pe GitHub, ți se dă opțiunea de a alege o licență. Incluzând una din licențele menționate mai sus îți va face proiectul tău GitHub să fie open source. Dacă dorești să vezi alte opțiuni, aruncă o privire la [choosealicense.com](https://choosealicense.com) pentru a găsi licența potrivită pentru proiectul tău, chiar dacă el [nu este software](https://choosealicense.com/non-software/).
 
-## What if I want to change the license of my project?
+## Ce se întâmplă dacă vreau să schimb licența proiectului meu?
 
-Most projects never need to change licenses. But occasionally circumstances change.
+Majoritatea proiectelor nu necesită niciodată schimbarea licențelor. Dar ocazional circumstanțele se schimbă.
 
 For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing a your project's license:
 
@@ -94,7 +101,7 @@ For example, as your project grows it adds dependencies or users, or your compan
 
 Alternatively, you can have contributors agree in advance (via an additional contributor agreement -- see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
 
-## Does my project need an additional contributor agreement?
+## Proiectul meu are nevoie de o înțelegere cu contributorii în plus?
 
 Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
@@ -119,7 +126,7 @@ Some situations where you may want to consider an additional contributor agreeme
 
 If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
-## What does my company's legal team need to know?
+## Ce trebuie să știe echipa juridică a companiei mele?
 
 If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
 
