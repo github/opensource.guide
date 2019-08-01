@@ -3,12 +3,6 @@ lang: es
 title: Comenzando un proyecto de C&oacute;digo Abierto
 description: Aprende m&aacute;s acerca del mundo del Código Abierto y prep&aacute;rate a lanzar tu propio proyecto.
 class: beginners
-toc:
-  el-c&oacute;mo-y-el-por-qu&eacute;-del-c&oacute;digo-abierto: "El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto"
-  deber&iacute;a-lanzar-mi-propio-proyecto-de-c&oacute;digo-abierto: "¿Deber&iacute;a lanzar mi propio proyecto de C&oacute;digo Abierto?"
-  lanzando-tu-propio-proyecto-de-c&oacute;digo-abierto: "Lanzando tu propio proyecto de C&oacute;digo Abierto"
-  dando-un-nombre-y-una-marca-a-tu-proyecto: "Dando un nombre y una marca a tu proyecto"
-  tu-checklist-a-armar-previamente-al-lanzamiento-del-proyecto: "Tu checklist a armar previamente al lanzamiento del proyecto"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -41,7 +35,7 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Una de las experiencias m&aacute;s gratificantes que obtengo de usar y colaborar en "C&oacute;digo abierto" proviene de las relaciones que construyo con cada uno de los desarrolladores que se encuentran enfrentando los mismos problemas que yo.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -83,7 +77,7 @@ Si tu &uacute;nico objetivo es mostrar al mundo tu trabajo, quiz&aacute;s no nec
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  En alg&uacute;n punto cre&eacute; un UIAlertView personalizado que estaba usando... I decid&iacute; hacerla c&oacute;digo abierto. Entonces la modifiqu&eacute; para que fuera m&aacute;s din&aacute;mica y la sub&iacute; a GitHub. Adem&aacute;s escrib&iacute; mi primera documentaci&oacute;n explicando a otros desarrolladores c&oacute;mo usarla en sus proyectos. Probablemente nadie jam&aacute;s la haya usado porque era un proyecto muy simple, pero me sent&iacute;a bien habiendo contribuido.
+  En alg&uacute;n punto cre&eacute; un UIAlertView personalizado que estaba usando... Y decid&iacute; hacerlo c&oacute;digo abierto. Entonces lo modifiqu&eacute; para que fuera m&aacute;s din&aacute;mico y lo sub&iacute; a GitHub. Adem&aacute;s escrib&iacute; mi primera documentaci&oacute;n explicando a otros desarrolladores c&oacute;mo usarlo en sus proyectos. Probablemente nadie jam&aacute;s lo haya usado porque era un proyecto muy simple, pero me sent&iacute;a bien habiendo contribuido.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
@@ -101,7 +95,7 @@ Si necesitas un presupuesto dedicado o personal para la promoci&oacute;n, operac
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   A medida que abres el c&oacute;digo de tu proyecto, es importante que puedas asegurarte de que los procesos de administraci&oacute;n tengan en cuenta a las contribuciones y a las habilidades de la comunidad alrededor de tu proyecto. No hay que asustarse al involucrar contribuyentes, que no est&eacute;n empleados en tu empresa, en aspectos claves del proyecto (especialmente si son contribuyentes frecuentes).
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -156,10 +150,10 @@ Trata de que tu README responda a las siguientes preguntas:
 Puedes usarlo para responder otras preguntas: c&oacute;mo manejo las contribuciones, cu&aacute;les son las metas del proyecto, e informaci&oacute;n acerca de licencias y atribuciones. Si no quieres aceptar contribuciones, o tu proyecto no est&aacute; listo para producci&oacute;n, lo escribes.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Mejor documentaci&oacute;n significa m&aacute;s usuarios, menos pedidos de soporte, y m&aacute;s contribuyentes. Recuerda que tus lectores no son t&uacute;, son personas que quiz&aacute;s acudan al proyecto con experiencias totalmente distintas a las tuyas.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 

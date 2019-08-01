@@ -3,13 +3,6 @@ lang: fr
 title: Comment contribuer à l'Open Source
 description: Vous voulez contribuer à l'open source ? Un guide pour faire des contributions open source, pour les débutants et pour les vétérans.
 class: contribute
-toc:
-  pourquoi-contribuer-&agrave;-lopen-source: "Pourquoi contribuer &agrave; l'open source"
-  que-signifie-contribuer: "Que signifie contribuer"
-  sorienter-vers-un-nouveau-projet: "S'orienter vers un nouveau projet"
-  trouver-un-projet-auquel-contribuer: "Trouver un projet auquel contribuer"
-  comment-proposer-une-contribution: "Comment proposer une contribution"
-  que-ce-passe-t-il-apr&egrave;s-avoir-propos&eacute;-une-contribution: "Que ce passe-t-il apr&egrave;s avoir propos&eacute; une contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -98,7 +91,7 @@ Même si vous aimez écrire du code, d'autres types de contributions sont un exc
 
 ### Aimez-vous écrire ?
 
-* Ecrire et améliorer la documentation du projet
+* Écrire et améliorer la documentation du projet
 * Curate un dossier d'exemples montrant comment le projet est utilisé
 * Démarrer un bulletin d'information pour le projet, ou organiser des faits marquants de la liste de diffusion
 * Rédiger des tutoriels pour le projet, [comme les contributeurs de PyPA l'ont fait](https://github.com/pypa/python-packaging-user-guide/issues/194)
@@ -181,7 +174,7 @@ Un projet Open Source typique comprend les types de personnes suivants:
 
 Les plus grands projets peuvent également avoir des sous-comités ou des groupes de travail axés sur différentes tâches, telles que l'outillage, le triage, la modération communautaire et l'organisation d'événements. Regardez sur le site Web d'un projet pour une page «équipe», ou dans le repository pour la documentation de gouvernance, pour trouver cette information.
 
-Un projet a également une documentation. Ces fichiers sont généralement répertoriés a la racine d'un repository.
+Un projet a également une documentation. Ces fichiers sont généralement répertoriés à la racine d'un repository.
 
 * **LICENCE :** Par définition, chaque projet open source doit avoir une [licence open source](https://choosealicense.com). Si le projet n'a pas de licence, il n'est pas open source.
 * **README :** Le README est le manuel d'instructions qui accueille les nouveaux membres de la communauté au projet. Cela explique pourquoi le projet est utile et comment démarrer.
@@ -210,7 +203,7 @@ Dans ces projets, chaque fois que vous pensez que quelque chose pourrait être m
 
 L'open source n'est pas un club exclusif. C'est fait par des gens comme vous. "Open source" est juste un terme de fantaisie pour traiter les problèmes du monde comme réparable.
 
-Vous pouvez scanner un fichier README et trouver un lien cassé ou une faute de frappe. Ou vous êtes un nouvel utilisateur et vous avez remarqué que quelque chose est cassé, ou un problème que vous pensez devrait vraiment être dans la documentation. Au lieu de l'ignorer et de passer à autre chose, ou de demander à quelqu'un d'autre de le réparer, voyez si vous pouvez aider en faisant un descriptif du probleme. C'est cela l'open source !
+Vous pouvez scanner un fichier README et trouver un lien cassé ou une faute de frappe. Ou vous êtes un nouvel utilisateur et vous avez remarqué que quelque chose est cassé, ou un problème que vous pensez devrait vraiment être dans la documentation. Au lieu de l'ignorer et de passer à autre chose, ou de demander à quelqu'un d'autre de le réparer, voyez si vous pouvez aider en faisant un descriptif du problème. C'est cela l'open source !
 
 > [28% des contributions occasionnelles](https://www.igor.pro.br/publica/papers/saner2016.pdf) à l'open source sont de la documentation, une correction de faute de frappe, un reformatage ou l'écriture d'une traduction.
 
@@ -246,7 +239,7 @@ Regardez l'activité des commits sur la branche principale. Sur GitHub, vous pou
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  A quand remonte le dernier commit ?
+  À quand remonte le dernier commit ?
   </label>
 </div>
 
@@ -260,7 +253,7 @@ Regardez l'activité des commits sur la branche principale. Sur GitHub, vous pou
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  A quelle fréquence les gens commmits ? (Sur GitHub, vous pouvez le trouver en cliquant sur "Commits" dans la barre du haut.)
+  À quelle fréquence les gens commmits ? (Sur GitHub, vous pouvez le trouver en cliquant sur "Commits" dans la barre du haut.)
   </label>
 </div>
 
@@ -327,7 +320,7 @@ Faites la même chose pour les pull requests du projet.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Les pull requests sont recentes ?
+    Les pull requests sont récentes ?
   </label>
 </div>
 
@@ -424,7 +417,7 @@ Avant d'ouvrir une issue ou une pull request, ou de poser une question dans une 
 
 > 😇 _"Merci d'avoir examiné cette erreur, j'ai suivi vos suggestions, voici la sortie."_
 >
-> 😢 _"Pourquoi ne voulez vous pas resoudre mon problème, n'est-ce pas votre projet ?"_
+> 😢 _"Pourquoi ne voulez-vous pas résoudre mon problème, n'est-ce pas votre projet ?"_
 
 **Respectez les décisions de la communauté.** Vos idées peuvent différer des priorités ou de la vision de la communauté. Ils peuvent offrir des commentaires ou décider de ne pas poursuivre votre idée. Alors que vous devriez discuter et chercher des compromis, les responsables doivent vivre avec votre décision plus longtemps que vous ne le ferez. Si vous n'êtes pas d'accord avec leur direction, vous pouvez toujours travailler sur votre propre fork ou démarrer votre propre projet.
 
@@ -472,7 +465,7 @@ Conseils pour communiquer sur les problèmes:
 
 * **Si vous voyez un problème ouvert auquel vous voulez vous attaquer,** commentez le problème pour faire savoir aux autres que vous travaillez dessus. De cette façon, les gens seront moins susceptibles de dupliquer votre travail.
 * **Si une issue a été ouverte il y a un certain temps,** il est possible qu'elle soit adressée ailleurs ou qu'elle ait déjà été résolue, alors commentez pour demander une confirmation avant de commencer le travail.
-* **Si vous avez ouvert une issue, mais que vous avez trouvé la réponse plus tard,** commentez l'issue pour informer les gens, puis fermez la. Même documenter ce résultat est une contribution au projet.
+* **Si vous avez ouvert une issue, mais que vous avez trouvé la réponse plus tard,** commentez l'issue pour informer les gens, puis fermez-la. Même documenter ce résultat est une contribution au projet.
 
 ### Ouvrir une Pull Request
 
@@ -494,7 +487,7 @@ Si le projet est sur GitHub, voici comment soumettre une pull request:
 
 S'il s'agit de votre première Pull Request, consultez [Make a Pull Request](http://makeapullrequest.com/), que @kentcdodds a créé comme didacticiel vidéo. Vous pouvez également vous entraîner à faire une pull request dans le repository [Premières contributions](https://github.com/Roshanjossey/first-contributions), créé par @Roshanjossey.
 
-## Que ce passe-t-il apr&egrave;s avoir propos&eacute; une contribution
+## Que se passe-t-il apr&egrave;s avoir propos&eacute; une contribution
 
 Vous l'avez fait ! Félicitations pour devenir un contributeur open source. Nous espérons que c'est le premier de plusieurs.
 

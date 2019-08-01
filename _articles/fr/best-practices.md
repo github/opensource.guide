@@ -3,13 +3,6 @@ lang: fr
 title: Bonnes Pratiques pour les Responsables
 description: Facilitez vous la vie en tant que responsable open source, de la documentation des processus à l'exploitation de votre communauté.
 class: best-practices
-toc:
-  que-signifie-&ecirc;tre-un-responsable: "Que signifie &ecirc;tre un responsable"
-  documentez-vos-processus: "Documentez vos processus"
-  apprendre-&agrave;-dire-non: "Apprendre &agrave; dire non"
-  tirez-parti-de-votre-communauté: "Tirez parti de votre communauté"
-  donnez-le-aux-robots: "Donnez le aux robots"
-  il-est-normal-de-faire-pause: "Il est normal de faire pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

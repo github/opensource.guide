@@ -3,14 +3,6 @@ lang: de
 title: Rechtliche Aspekte von Open-Source-Projekten
 description: Alle Rechtsfragen zu Open-Source-Projekten, über die Sie sich jemals Gedanken gemacht haben, und einige, über die nicht.
 class: legal
-toc:
-  warum-sorgen-sich-leute-so-um-rechtsfragen-im-open-source-bereich: "Warum sorgen sich Leute so um Rechtsfragen im Open-Source-Bereich?"
-  sind-publizierte-github-projekte-open-source: "Sind publizierte GitHub-Projekte Open Source?"
-  sag-mir-nur-kurz-wie-ich-mein-projekt-schützen-kann: "Sag mir nur kurz, wie ich mein Projekt schützen kann"
-  welche-open-source-lizenz-passt-zu-meinem-projekt: "Welche Open-Source-Lizenz passt zu meinem Projekt?"
-  was-wenn-ich-die-lizenz-meines-projektes-ändern-möchte: "Was, wenn ich die Lizenz meines Projektes ändern möchte?"
-  benötigt-mein-projekt-eine-zusätzliche-kontributionsvereinbarung: "Benötigt mein Projekt eine zusätzliche Kontributionsvereinbarung?"
-  was-muss-die-rechtsabteilung-meines-unternehmens-wissen: "Was muss die Rechtsabteilung meines Unternehmens wissen?"
 order: 10
 image: /assets/images/cards/legal.png
 related:

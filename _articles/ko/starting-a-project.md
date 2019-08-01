@@ -3,12 +3,6 @@ lang: ko
 title: 오픈소스 프로젝트 시작하기
 description: 오픈소스의 세계에 대해 자세히 알아보고 자신만의 프로젝트를 시작할 준비를 하십시오.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "오픈소스의 목적 및 이유"
-  should-i-launch-my-own-open-source-project: "나 자신의 오픈소스 프로젝트를 시작해야합니까?"
-  launching-your-own-open-source-project: "나만의 오픈소스 프로젝트 시작하기"
-  naming-and-branding-your-project: "프로젝트 네이밍 및 브랜딩"
-  your-pre-launch-checklist: "출시 전 체크리스트"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -41,7 +35,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["어떻게 오픈 소스에 빠져야 나에게 멋진가?"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["어떻게 오픈 소스에 빠져야 나에게 멋진가?"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -101,7 +95,7 @@ related:
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["그래서 당신은 프로젝트를 오픈소스화하고 싶습니까?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["그래서 당신은 프로젝트를 오픈소스화하고 싶습니까?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -156,10 +150,10 @@ README에 다음 질문에 답하십시오:
 README를 사용하여 기여를 처리하는 방법, 프로젝트의 목표가 무엇인지, 라이선스 및 속성에 대한 정보와 같은 다른 질문에 답할 수 있습니다. 기여를 받고 싶지 않거나, 프로젝트가 아직 준비되지 않은 경우에는 이 정보를 적어 두십시오.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["읽힐 단어 쓰기 (비디오)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["읽힐 단어 쓰기 (비디오)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
@@ -181,7 +175,7 @@ CONTRIBUTING 파일은 잠재 고객에게 프로젝트 참여 방법을 알려�
 
 * 당신이 찾고있는 기여의 종류
 * 프로젝트 로드맵 또는 비전
-* 참여자가 귀하와 연락해야 (또는 하지 말아야) 하는 방법 
+* 참여자가 귀하와 연락해야 (또는 하지 말아야) 하는 방법
 
 따뜻하고 친숙한 분위기의 음색을 사용하고, 기여에 대한 구체적인 제안 (예를 들어 문서 작성 또는 웹 사이트 만들기)을 제공하면 신규 방문자가 참여하고 환영하게 될 것입니다.
 
@@ -353,7 +347,7 @@ You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    누군가는 커뮤니티 (이슈에 응답하고 pull requests을 검토 및 병합)상호 작용을 관리하는 데 전념합니다 
+    누군가는 커뮤니티 (이슈에 응답하고 pull requests을 검토 및 병합)상호 작용을 관리하는 데 전념합니다
   </label>
 </div>
 

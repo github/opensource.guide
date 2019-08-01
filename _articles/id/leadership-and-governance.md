@@ -3,14 +3,6 @@ lang: id
 title: Kepemimpinan dan Pengelolaan
 description: Mengembangkan proyek open source dapat mengambil keuntungan dari aturan resmi untuk pengambilan keputusan
 class: leadership
-toc:
-  apa-contoh-dari-peran-formal-yang-digunakan-pada-proyek-open-source: "Apa contoh dari peran formal yang digunakan pada proyek open source?"
-  bagaimana-saya-memformalkan-peran-kepemimpinan-ini: "Bagaimana saya memformalkan peran kepemimpinan ini?"
-  kapan-saya-harus-memberikan-akses-commit-kepada-seseorang: "Kapan saya harus memberikan akses commit kepada seseorang?"
-  apa-struktur-pengelolaan-yang-umum-untuk-proyek-open-source: "Apa struktur pengelolaan yang umum untuk proyek open source?"
-  apakah-saya-perlu-dokumentasi-pengelolaan-ketika-saya-merilis-proyek-saya: "Apakah saya perlu dokumentasi pengelolaan ketika Saya merilis proyek Saya?"
-  apa-yang-terjadi-jika-karyawan-perkantoran-mulai-mengajukan-kontribusi: "Apa yang terjadi jika karyawan perkantoran mulai mengajukan kontribusi?"
-  apakah-saya-perlu-entitas-legal-untuk-mendukung-proyek-saya: "Apakah saya perlu entitas legal untuk mendukung proyek Saya?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -107,7 +99,7 @@ Terdapat tiga struktur pengelolaan yang umumnya dipakai pada proyek open source.
 
 * **Meritokrasi:** **(Catatan: istilah "meritokrasi" memiliki konotasi negatif pada beberapa komunitas dan [sejarah sosial dan politis yang kompleks](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Pada model meritokrasi, kontributor aktif sebuah proyek (mereka yang "layak") diberikan peran dalam pengambilan keputusan formal. Keputusan biasanya dilakukan berdasarkan konsensus voting. Konsep ini diciptakan oleh [Yayasan Apache](https://www.apache.org/); [semua proyek Apache](https://www.apache.org/index.html#projects-list) menganut model ini. Kontribusi hanya dapat dilakukan secara perseorangan mewakili dirinya sendiri, bukan untuk sebuah perusahaan.
 
-* **Kontribusi liberal:** Pada model ini, orang-orang yang banyak melakukan pekerjaan adalah yang dianggap berperan, namun ini berbasiskan pada pekerjaan saat ini dan bukan kontribusi yang lampau. Pengambilan keputusan pada proyek berdasarkan pada proses pencarian konsensus dibandingkan voting murni, dan mencoba melibatkan banyak pandangan dari komunitas. Contoh populer proyek yang menggunakan model ini meliputi [Node.js](https://foundation.nodejs.org/) dan [Rust](https://www.rust-lang.org/en-US/).
+* **Kontribusi liberal:** Pada model ini, orang-orang yang banyak melakukan pekerjaan adalah yang dianggap berperan, namun ini berbasiskan pada pekerjaan saat ini dan bukan kontribusi yang lampau. Pengambilan keputusan pada proyek berdasarkan pada proses pencarian konsensus dibandingkan voting murni, dan mencoba melibatkan banyak pandangan dari komunitas. Contoh populer proyek yang menggunakan model ini meliputi [Node.js](https://foundation.nodejs.org/) dan [Rust](https://www.rust-lang.org/).
 
 Mana yang harus Anda gunakan? Semuanya tergantung Anda! Setiap model memiliki kelebihan dan kekurangan. Meskipun pada awalnya mereka tampak berbeda di awal, semua model memiliki banyak kesamaan. Jika Anda tertarik untuk mengadopsi salah satu model tersebut, silahkan lihat beberapa template berikut:
 

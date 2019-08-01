@@ -3,11 +3,6 @@ lang: es
 title: Recibir Pagos por Trabajos en C&oacute;digo Abierto
 description: Mant&eacute;n tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
 class: getting-paid
-toc:
-  por-qu&eacute;-algunas-personas-buscan-apoyo-financiero: "¿Por qu&eacute; algunas personas buscan apoyo financiero?"
-  financiando-tu-propio-tiempo: "Financiando tu propio tiempo"
-  encontrando-financiaci&oacute;n-para-tu-proyecto: "Encontrando financiaci&oacute;n para tu proyecto"
-  creando-un-caso-de-apoyo-financiero: "Creando un caso de apoyo financiero"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
