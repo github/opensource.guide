@@ -107,7 +107,7 @@ A személyes körülményeidtől függően megpróbálhatsz önállóan pénzt g
 Végül, néha a nyílt forráskódú projektek díjakat tűznek ki a hibák megoldására, amelyekkel kapcsolatban akár érdemes lehet segítséget nyújtani.
 
 * @ConnorChristie fizetséget kapott azért, mert [segített](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol -nak a javascript könyvtár fejlesztésében, mindezt a [gitcoin rendszeren keresztül](https://gitcoin.co/).
-* @mamiM elvégezte a japán nyelvi fordítást @MetaMask részére, amely [pénzügyileg támogatva volt a Bounties Network-ön](https://bounties.network).
+* @mamiM elvégezte a japán nyelvi fordítást @MetaMask részére, amely [pénzügyileg támogatva volt a Bounties Network-ön](https://explorer.bounties.network/bounty/134).
 
 ## Találd meg a projekt finanszírozását
 
