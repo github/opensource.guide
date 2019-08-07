@@ -52,7 +52,7 @@ Magyarázd el részletesen, hogy a magatartási kódexnek hogyan szerzel érvén
 
 * Meggyőzi a közösséget arról, hogy a felülvizsgálati folyamat tisztességes és átlátható, ha esetleg valakit felelősségre kell vonni a szabálysértés miatt.
 
-Praktikus biztosítani egy privát csatornát (pl. e-mail cím), amin a magatartási kódex megsértését jelenteni tudják. Add meg azt is, hogy ki vagy kik kapják a jelentést. Ez lehet egy- vagy több karbantartó, esetleg egy külön testület.
+Praktikus biztosítani egy privát csatornát (pl. e-mail cím), amin a magatartási kódex megsértését jelenteni tudják. Add meg azt is, hogy ki vagy kik kapják a jelentést. Ez lehet egy vagy több karbantartó, esetleg egy külön testület.
 
 Ne feledd, előfordulhat, hogy épp olyan személyre vonatkozóan érkezik kifogás aki szintén kapja a jelentést. Ebben az esetben adj lehetőséget arra, hogy más személy részére jelentsék a szabálysértést. Például, @ctb és @mr-c [kifejtik ezt a projektjükben](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
