@@ -156,7 +156,7 @@ Proiectele care provin de la o companie mare, cum ar fi [Go](https://github.com/
 În cele din urmă, uneori proiectele cu sursă deschisă pun recompense pe probleme la care ai putea considera să ajuți.
 
 * @ConnorChristie a putut să fie plătită pentru că [a ajutat](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol să lucreze pe biblioteca lor JavaScript [printr-o recompensă pe gitcoin](https://gitcoin.co/).
-* @mamiM a făcut traduceri în japoneză pentru @MetaMask după ce [problema a fost finanțată pe Bounties Network](https://beta.bounties.network/bounty/v1/134).
+* @mamiM a făcut traduceri în japoneză pentru @MetaMask după ce [problema a fost finanțată pe Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Găsirea de finanțare pentru proiectul tău
 
