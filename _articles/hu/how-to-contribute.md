@@ -461,7 +461,7 @@ Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvet�
 
 Tippek a jó párbeszédhez:
 
-* **Ha nyitsz egy hibajegyet, amit meg szeretnél oldani,** kommenteld azt, így más is tudja, hogy foglalkozol vele. Így mások nem dolgoznak ugyanezen felslegesen.
+* **Ha nyitsz egy hibajegyet, amit meg szeretnél oldani,** kommenteld azt, így más is tudja, hogy foglalkozol vele. Így mások nem dolgoznak ugyanezen feleslegesen.
 * **Ha a hibajegy már régóta nyitott,** akkor lehetséges, hogy már máshol foglalkoznak vele, vagy már meg van oldva, így célszerű egy kommentben megkérdezni az állapotát, mielőtt elkezdesz rajta dolgozni.
 * **Ha nyitottál egy hibajegyet és később magadtól rájöttél a megoldásra,** akkor kommentezz, hogy más is megismerje azt, majd zárd le a hibajegyet. Az eredmény dokumentálása is nagyon fontos a projektnek.
 
