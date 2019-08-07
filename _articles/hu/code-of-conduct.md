@@ -44,7 +44,7 @@ Helyezd el a CODE_OF_CONDUCT állomány a projekt gyökérkönyvtárában, és h
   </p>
 </aside>
 
-Magyarázd el részletesen, hogy a magatartási kódexnek hogyan szerzel érvényt, **mielőtt** még szabályszegés történne. Ennek több szempontból előnyös:
+Magyarázd el részletesen, hogy a magatartási kódexnek hogyan szerzel érvényt, **mielőtt** még szabályszegés történne. Ez több szempontból előnyös:
 
 * Megmutatja, hogy komolyan gondolod, hogy szükség esetén cselekszel.
 
