@@ -109,13 +109,13 @@ related:
 * [精英模式模版](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js 的自由贡献规则](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## 启动项目时是否需要治理文档？
 
-其实没有什么合适的时间来撰写项目的治理，但是可以根据社区的动态来进行恰当的定义。开源治理最好的也是最难的部分是有社区本身来塑造！
+其实没有什么合适的时间来撰写项目的治理，但是一旦你看到社区活跃起来就更容易定义。开源治理最好（也是最难）的部分是它由社区塑造！
 
 在项目的治理中，一些早期的文档将会不可避免的，然而也不必太强求，写下你所能够想到的。举例来说，你可以将某些预期的行为定义清楚，贡献的流程是如何的，或者项目是如何启动的，等等。
 
-如果你自己是公司所启动开源的一部分，在启动之前，应该做一些讨论，如公司将会如何维护项目，随着项目的发展，决策该如何定夺。你可以会公开的解释一下，贵公司将如何参与（或不参与）该项目。
+如果你要开源公司的项目，那么在发布之前，有必要进行内部讨论，了解你的公司希望如何维护并做出有关项目进展的决策。你可能还想公开解释贵公司将如何（或不会！）参与项目的具体内容。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
