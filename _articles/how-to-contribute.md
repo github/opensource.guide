@@ -175,9 +175,9 @@ A typical open source project has the following types of people:
 
 * **Author:** The person/s or organization that created the project
 * **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project.
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction.
+* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
+* **Contributors:** Everyone who has contributed something back to the project
+* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction
 
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
 
@@ -236,7 +236,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  Does it have a license? Usually, there is a file called LICENSE in the root of the repository.
   </label>
 </div>
 
