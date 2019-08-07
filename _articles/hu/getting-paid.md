@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+title: Fizetés a nyílt forráskódú munkaért
+description: Tartsd fenn a nyílt forráskódú projektedet azáltal, hogy pénzügyi támogatókat szerzel.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -10,179 +10,180 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## Miért keresünk pénzügyi támogatást?
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+A legtöbb nyílt forráskódú munka önkéntes. Például, ha valaki találkozik egy hibával egy projektben amelyet használ, akkor gyors javítást nyújt be, vagy szabadidejében a nyílt forráskódú projektet javítgatja.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Kerestem egy hobbi projektet, amelyen a Karácsony környéki szabadságom alatt dolgozhattam. (...) Volt egy PC-m, de azon kívül más nem nagyon. Gondoltam írok egy fordítót ahhoz a programnyelvhez, amin már régóta gondolkodtam. (...) Akkor választottam a Python nevet.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Számos oka lehet annak, hogy valaki nem akar fizetést a nyílt forráskódú munkájáért.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Lehet, hogy már főállásban dolgozik, amit szeret,** és ami lehetővé teszi, hogy szabadidejében nyílt forráskódon is dolgozhasson.
+* **Hobbiként tekint a nyílt forráskódú fejlesztésre** vagy a kreatív szabadság kiteljesedéseként és nem akarja magát korlátozni.
+* **Más előnye származik a nyílt forráskódú munkájából,** például a hírnév vagy portfólió építés, tanulás, vagy a közösségi munka öröme.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  A pénzügyi támogatás sok embernek felelősséget is jelent. (...) Számunkra viszont fontos, hogy a világszerte összekapcsolt, gyors tempójú világban, amelyben élünk, azt mondhassuk „ezt nem akarom, úgy érzem, hogy ezt teljesen másként szeretném csinálni”.
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Mások számára, különösen, ha a hozzájárulásuk folyamatosak vagy jelentős időre van szükségük, a nyílt forráskódban való munkájuk megfizetése az egyetlen módja annak, hogy részt vehessenek benne, akár a projekt igényei, akár személyes okok miatt.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+A népszerű projektek fenntartása jelentős felelősséggel járhat, hétről hétre akár 10 vagy 20 órát is igénybe vehet.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  Kérdezz meg egy nyílt forráskódú karbantartót, és el fogja mondani, hogy a valóságban mennyi munkával is jár fenntartani a projektet. Vannak ügyfeleid. Végzel javításokat nekik. Létrehozol új funkciókat. Ez valós igény a te idődre és munkádra.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+A fizetett munka az élet különböző területein élő emberek számára is lehetővé teszi, hogy érdemi hozzájárulást nyújtsanak a projekthez. Egyesek nem engedhetik meg maguknak, hogy fizetetlen időt töltsenek a nyílt forráskódú projekteken a jelenlegi pénzügyi helyzetük, adósságuk vagy családi, vagy esetleg egyéb gondoskodási kötelezettségeik miatt. Ez azt jelenti, hogy a világ soha nem kapja meg a tehetséges emberek hozzájárulását olyanokét, akik nem engedhetik meg maguknak, hogy ingyen dolgozzanak. Ennek etikai következményei vannak, ahogy @ashedryden [írta](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), azoknak akiknek nincs szüksége pénzügyi támogatásra könnyebben végezhetnek nyílt forráskódú munkát, így azzal további előnyöket szerezhetnek, míg aki nem tud pénzügyi okokból ilyen munkát végezni, ezt az előnyt értelem szerűen nem is szerezheti meg, ezzel tovább erősítve a sokszínűség hiányát a nyílt forráskódban.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   Az OSS (nyílt forráskódú szoftver) jelentős előnyökkel jár a technológiai ipar számára, ami viszont minden iparág számára előnyöket jelent. (...) Azonban, ha csak egy ember olyan szerencsés és annyira megszállott, hogy ezzel foglalkozzon, akkor hatalmas, kihasználatlan potenciál marad benne.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Ha pénzügyi támogatást keresel, akkor két irány lehet. Beleteszed a saját idődet, mint résztvevő. vagy találsz egy szervezetet, aki támogatja a projektet.
 
-## Funding your own time
+## Saját időnk finanszírozása
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Ma sok embernek fizetnek részmunkaidőben vagy teljes munkaidőben a nyílt forráskódért. A leggyakoribb módja annak, hogy fizessenek az idődért az, hogy beszélj a saját munkáltatóddal.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Egyszerű a dolog, ha a nyílt forráskódot a munkaadó is használja. Lehet, hogy a munkaadód nem használja a projektet, de használja a Python-t, és egy Python projektbe történő beszállás segíti, hogy a Python fejlesztőket elérje a munkaadód. Ezzel a munkaadód még fejlesztőbarátabbnak tűnik.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  Mint sok más nyílt forráskódú projekt, én is küzdöttem a projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassam, vagy akkor, amikor hazaértem rögtön nekikezdtem. (...) Megtudtam beszélni ezeket a problémáimat a vezetőmmel, és kitaláltuk azt, hogy hogyan lehetne a nyílt forráskódú feladataimat beépíteni a saját munkánkba.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+Ha még nincs nyílt forráskódú projekted amin dolgozhatnál, akkor egyeztesd a munkaadóddal azt, hogy mely projekteket lehetne nyílt forráskódúvá tenni.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+Számos cég fejleszt nyílt forráskódú programokat azért, hogy az imázsukat javítsák és a tehetséges fejlesztőket megszerezzék.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse, például úgy találta, hogy a pénzügyi okok miatt kezdett a [Walmart a nyílt forráskódba fektetni](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). És @jamesgpearce szerint a Facebook nyílt forráskódú programja [változtatott a munkaerő toborzáson](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon):
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> Ez szorosan illeszkedik a fejlesztői kultúránkhoz és a szervezetünk megítéléséhez. Megkérdeztük a kollégáinkat, "Tudtad-e azt, hogy a Facebooknak vannak nyílt forráskódú projektjei?". Kétharmad válaszolt igennel. A megkérdezettek fele mondta azt, hogy ez jelentősen hozzájárult a döntésükhöz, hogy nálunk dolgozzanak! Ezek nem elhanyagolható számok, és remélem, hogy ez a trend folytatódik.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+Ha a vállalat letér erről az útról, fontos, hogy a közösség és a vállalati tevékenység közötti határokat tisztán tartsuk. Végső soron a nyílt forráskód a világ minden tájáról érkező emberek hozzájárulásaival gazdagodik, és ez jóval nagyobb, mint bármelyik vállalat vagy telephely.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  A nyílt forráskódú munka megfizetése ritka és csodálatos lehetőséget kínál, de eközben nem kell lemondanod a szenvedélyedről. A szenvedélyed az, amiért a cégeknek fizetniük kell.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+Ha nem tudod meggyőzni a jelenlegi munkáltatót a nyílt forráskódú munka fontosságáról, fontolj meg esetleg egy új munkaadót olyat, aki ösztönzi a munkavállalók hozzájárulását a nyílt forráskódhoz. Keress olyan cégeket, amelyek kifejezetten a nyílt forráskódú munkát támogatják. Például:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* Néhány cég, mint a [Netflix](https://netflix.github.io/) vagy a [PayPal](https://paypal.github.io/), külön weboldala van, amin a nyílt forráskódú munkát támogatják
+* [Rackspace](https://www.rackspace.com/en-us) publikálta a saját [nyílt forráskódú részvételének szabályait](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) a munkavállalói számára
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+A nagy cégeknél lévő projektek, mint a [Go](https://github.com/golang) vagy a [React](https://github.com/facebook/react), szintén szeretné, ha az alkalmazottjai nyílt forráskódon dolgoznának.
 
-Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+A személyes körülményeidtől függően megpróbálhatsz önállóan pénzt gyűjteni a nyílt forráskódú munkád finanszírozásához. Például:
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon megalapozta a támogatását a [Redux](https://github.com/reactjs/redux)-nak a [Patreon crowdfunding campaign](https://redux.js.org/)-on keresztül (önkéntes támogatás)
+* @andrewgodwin megalapozta a támogatását a Django schema migrációknak [egy Kickstarter kampányon keresztül](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
+Végül, néha a nyílt forráskódú projektek díjakat tűznek ki a hibák megoldására, amelyekkel kapcsolatban akár érdemes lehet segítséget nyújtani.
 
-* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://beta.bounties.network/bounty/v1/134).
+* @ConnorChristie fizetséget kapott azért, mert [segített](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol -nak a javascript könyvtár fejlesztésében, mindezt a [gitcoin rendszeren keresztül](https://gitcoin.co/).
+* @mamiM elvégezte a japán nyelvi fordítást @MetaMask részére, amely [pénzügyileg támogatva volt a Bounties Network-ön](https://explorer.bounties.network/bounty/134).
 
-## Finding funding for your project
+## Találd meg a projekt finanszírozását
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Az egyes résztvevőkre vonatkozó megállapodásokon túl, a projektek néha pénzt nyernek a vállalatoktól, magánszemélyektől vagy másoktól a folyamatban lévő munka finanszírozásához.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+A szervezeti finanszírozás vonatkozhat a jelenlegi résztvevők támogatására, amely fedezi a projekt működtetésének költségeit (például a tárhely díjakat), vagy új funkciókba vagy ötletekbe történő befektetést.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+Ahogy a nyílt forráskód népszerűsége növekszik, a projektek finanszírozása egyre javul, de még van néhány más lehetőség is.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### Támogatáshoz juthatsz a munkádhoz az önkéntes finanszírozási kampányok vagy szponzorálás révén
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+A szponzorálás megtalálása jól működik, ha már erős közönséged vagy hírneved van, vagy a projekt nagyon népszerű.
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+Néhány példa:
 
-### Create a revenue stream
+* **[webpack](https://github.com/webpack)** személyektől és cégektől is támogatáshoz jutott [az OpenCollective-en keresztül](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue)** [a Patreon-on keresztül kapott támogatást](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** egy non-profit szervezet, amely támogatja a [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), és egyéb Ruby infrastruktúra projekteket
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+### Hozz létre bevételi forrást
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+A projektedtől függően kérhetsz szupportért cserébe támogatást, vagy új funkcióért, vagy szolgáltatásért. Néhány példa:
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+* **[Sidekiq](https://github.com/mperham/sidekiq)** kínál fizetős verziót támogatásért cserébe
+* **[Travis CI](https://github.com/travis-ci)** kínál fizetős verziót privát programokért
+* **[Ghost](https://github.com/TryGhost/Ghost)** alapvetően non-profit, de a felügyelt szolgáltatásokért pénzügyi 
 
-### Apply for grant funding
+Néhány híres projekt, mint az [npm](https://github.com/npm/npm) és a [Docker](https://github.com/docker/docker), kockázati tőke befektetés révén jutott pénzügyi eszközökhöz.
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+### Jelentkezz pályázatokra
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+Egyes szoftveralapítványok és cégek támogatást nyújtanak a nyílt forráskódú munkákhoz. Néha a támogatások fizethetők magánszemélyek részére anélkül, hogy jogi személyt hoznának létre a projekthez.
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** támogatást kapott a [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)-tól
+* **[OpenMRS](https://github.com/openmrs)** támogatásban részesült [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees) által
+* **[Libraries.io](https://github.com/librariesio)**  támogatást kapott a [Sloan Foundation](https://sloan.org/programs/digital-technology)-től
+* A **[Python Software Foundation](https://www.python.org/psf/grants/)** támogatást kínál a Python-hoz kapcsolódó projekteknek
 
-## Building a case for financial support
+Részletesebb lehetőségek és esettanulmányokat írt @nayafia [ebben az útmutatóban](https://github.com/nayafia/lemonade-stand), hogy hogyan juthatunk pénzügyi támogatáshoz a nyílt forráskód esetén. A különböző finanszírozási típusok különböző készségeket igényelnek, ezért vedd figyelembe azok erősségeit, gyengeségeit, hogy kitaláld, melyik opció működik neked a legjobban.
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+## Pénzügyi támogatás kiépítése
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Függetlenül attól, hogy a projekt új ötlet-e, vagy már évek óta létezik, számíthatsz arra, hogy jelentős figyelmet kell szentelned a lehetséges támogatók azonosítására és arra, ami ráveszi őket a támogatásra.
 
-### Impact
+Akár a saját idődre, akár a projektre készülsz adománygyűjtésre, válaszolnod kell a következő kérdésekre.
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+### Hatás
 
-### Traction
+Miért olyan hasznos ez a projekt? Miért szeretik a felhasználók vagy a potenciális felhasználók a projektet? Hol fog tartani öt év múlva a projekt?
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+### Figyelem
 
-### Value to funder
+Próbálj meg  tényeket gyűjteni arra vonatkozóan, hogy a projekt lényeges, legyenek számok, anekdoták vagy ajánlások. Vannak-e olyan cégek vagy ismert emberek, akik most is használják a projektet? Ha nincs ilyen, akkor van-e olyan személy, aki pozitívan nyilatkozott róla?
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+### Érték a támogató részére
 
-### Use of funds
+A finanszírozók, akár a munkáltatód, akár egy alapítvány, gyakran a lehetőségek irányából közelítik meg a támogatás kérdését. Miért kellene támogatniuk a projektedet a kihívások ellenére? Hogyan részesülnek a hozadékából, milyen előnyöket jelent számukra a támogatás?
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+### A támogatás felhasználása
 
-### How you'll receive the funds
+Pontosan mit fogsz elérni a javasolt finanszírozással? A pénzügyi kérdések helyett inkább a projekt mérföldköveire vagy eredményeire összpontosíts.
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+### Hogyan kapod meg a támogatást
+
+A támogatónak vannak kikötései a kifizetésekre? Például lehet, hogy non-profit vállalkozásnak vagy non-profit támogatónak kell lenned. De lehet, hogy csak magánszemélyt támogatnak, szervezeteket vagy cégeket nem. Ezek az igények támogatónként eltérhetnek, ezért érdemes ezeket felderíteni.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  Évek óta a weboldal barát ikonok piacvezető forrása, több mint 20 millió ember részvételével, és több mint 70 millió webhelyen szerepelt, beleértve Whitehouse.gov oldalt is. (...) A v4 verzió 3 éves. Azóta a webes technológia sokat változott, és őszintén szólva, a Font Awesome egy kicsit elavult. (...) Épp ezért bevezettük a Font Awesome 5-öt. Modernizáltuk és újraírtuk a CSS-eket és újraterveztünk minden ikont elejétől a végéig. A szebb megjelenésről, az egységesebb kinézetről és a jobb olvashatóságról beszélünk.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Kísérletezz és ne add fel
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Pénzügyi támogatást kapni nem könnyű dolog, legyen szó nyílt forráskódról, non-profit szervezetről, vagy szoftver startupról, legtöbb esetben kreatívnak kell lenned. El kell döntened, hogyan szeretnéd a támogatást megkapni, kutatnod kell, és a támogató helyébe kell képzelned magad, hogy meggyőzhesd a támogatásról.
 
->
+> 

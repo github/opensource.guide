@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: Vezetés és irányítás
+description: A nyílt forráskódú projektek részére előnyt jelent a döntéshozatal formális szabályozása.
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -10,147 +10,147 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## A növekvő projekt irányításának megértése
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+A projekt egyre növekszik, az emberek elkötelezettek, és te is elkötelezted magad, hogy ezt a dolgot csinálod. Ebben a szakaszban valószínűleg érdekelni fog az, hogy hogyan kell a rendszeres résztvevőket beépíteni a munkafolyamatba, függetlenül attól, hogy valaki kódot ad hozzá, vagy épp megoldja a közösségi vitákat. Ezeket a kérdéseket válaszoljuk most meg.
 
-## What are examples of formal roles used in open source projects?
+## Milyen példák vannak a nyílt forráskódú projektekben használt formális szerepekre?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Sok projekt hasonló struktúrát követ a résztvevői szerepek és a szerep azonosítása szempontjából.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Hogy ezek a szerepek valójában mit jelentenek, teljesen rajtad múlik. Íme néhány szerepkör:
 
-* **Maintainer**
-* **Contributor**
-* **Committer**
+* **Karbantartó (Maintainer)**
+* **Résztvevő (Contributor)**
+* **Commiter (Committer)**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**Néhány projektnél a "karbantartók"** azok az emberek akiknek kód módosítási joguk van. Más projektekben, egyszerűen csak hétköznapi résztvevők, akik a README állományban fel vannak sorolva.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+A karbantartó nem feltétlen szükséges, hogy olyan ember legyen aki kódot ír a projektben. Inkább ő olyan, aki nagyon sok munkát fektet a projektbe, hogy ismert legyen az, vagy rengeteg dokumentációt ír, hogy könnyebben érthető legyen a projekt mások számára. Függetlenül attól, hogy mit csinál nap mint nap, a karbantartó valószínűleg olyan ember, aki felelősséget érez a projektért, és elkötelezett az iránt.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**"Résztvevő" akárki lehet** aki kommentez egy hibát vagy egy beolvasztási kérelmet, vagy más értéket ad a projekthez (megold egy hibát, kódot ír, vagy eseményeket szervez), vagy bárki akinek a módosítását beolvasztották a projektbe (talán ez a legszűkebb definíció).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[Node.js,\] esetén mindenki, aki megjelenik mint kommentelő egy hibánál, vagy mint programozó hozzájárul a kódhoz, az a projekt közösségének tagjává válik. Látni lehet azt, ahogy felhasználóból a projekt résztvevőivé válnak az emberek.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**A "committer" fogalma** segít abban, hogy megkülönböztethessük a kódhoz való hozzáférést, mint speciális felelősség attól, amelyet más résztvevői típusok képviselnek.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#mit-jelent-a-hozzájárulás) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Bármilyen szerepkört definiálhatsz a projektedben, de [fontold meg a széleskörben használt definíciókat](../how-to-contribute/#mit-jelent-a-hozzájárulás) hogy ösztönözd a részvétel más formáit is. Használhatsz a vezetői szerepeket, hogy hivatalosan elismerd azokat a személyeket, akik kiemelkedő részvételt nyújtottak a projektben, függetlenül a technikai készségeiktől.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  Úgy ismerhetsz, mint a Django feltalálója ... de a valóságban én csak egy alkalmazott srác voltam, aki egy évvel azután kezdett rajta dolgozni, miután már kész volt. (...) Az emberek azt feltételezik, hogy a programozási készségem miatt vagyok sikeres ... de a legjobb esetben is egy átlagos programozó vagyok.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Hogyan formalizálhatom ezeket a vezetői szerepeket?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+A vezetői szerepek formalizálása segít abban, hogy az emberek érezzék a felelősséget, és hirdeti a többi közösségi tagnak, kitől várhat segítséget.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+Kisebb projekt esetén a vezetők kijelölése olyan egyszerű, hogy a README vagy a CONTRIBUTORS szövegfájlba beírod őket.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Nagyobb projekt esetén, ha van weboldala, hozz létre egy csapatoldalt, ahol bemutathatod a vezetőket. Például, [Postgres](https://github.com/postgres/postgres/) projektnek van egy[átfogó csapatoldala](https://www.postgresql.org/community/contributors/) rövid bemutatkozással minden résztvevő esetén.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Ha a projektben nagyon aktív a közreműködő közösség, akkor a "karbantartók" szűkebb köre vagy akár albizottságok alakulhatnak ki, akik a különböző problémakörök (például biztonsági, problémamegoldó vagy közösségi magatartás) kezelését vállalják. Hagyd, hogy az emberek önszerveződjenek és önkéntesek jelentkezzenek azokért a szerepekért, amelyeket a legjobban szeretnének.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[Mi\] kiegészítettük a központi csapatot számos "alcsoporttal". Minden alcsoportnak speciális területe van, például nyelvi tervezés vagy a programozói könyvtárak. (...) A globális koordináció és a projekt egészének erős, koherens elképzeléseinek biztosítása érdekében minden egyes alcsoportot a központi csapat egy tagja vezeti.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+A vezetői csapatok egy kijelölt csatornát hozhatnak létre (például IRC) vagy találkozhatnak rendszeresen egyéb projekt megbeszéléseken (mint a Gitter vagy Google Hangout). Akár nyilvánosak is lehetnek ezek, így a többi résztvevő is láthatja. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), például, [minden héten időt biztosít erre](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Miután létrehoztad a vezetői szerepeket, ne felejtsd el dokumentálni, hogyan érhetik el őket az emberek! Határozd meg egy világos folyamatot arra vonatkozóan, hogy valaki hogyan válhat karbantartóvá, vagy csatlakozhat egy albizottsághoz a projektben, és írd be a GOVERNANCE.md-be.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Az olyan eszközök, mint a [Vossibility](https://github.com/icecrime/vossibility-stack) segíthetnek annak publikálásában, hogy ki, mennyivel járul hozzá a kódhoz. Az ilyen információk dokumentálása és publikálása megakadályozza azt, hogy a közösség úgy tekintsen, a karbantartókra, mint egy szűk, zárt csoportra, akik önkéntesen döntenek.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
+És végül, ha a projekted a GitHub-on van, gondolkozz el azon, hogy a projekted a személyes fiókodból egy szervezeti (_Organization account_) fiókba migrálod, legalább még egy helyettes adminisztrátor felvételével. [GitHub szervezeti fiók](https://help.github.com/articles/creating-a-new-organization-account/) segít abban, hogy könnyebben kezeld a jogosultságokat, a kód tárolókat, és segít több [társtulajdonost](../building-community/#share-ownership-of-your-project) is beállíthatsz a projektre, ezzel biztosítva a jövőjét.
 
-## When should I give someone commit access?
+## Mikor kell valakinek _commit_ jogot adnom?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Néhányan azt gondolják, hogy mindenkinek, aki hozzájárul a projekthez. Ha ezt teszed, akkor növeled az emberek felelősség érzetét a projekted iránt.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Másrészről, különösen komplex és nagy projektek esetén, csak azoknak az embereknek adsz ilyen jogot, akik bizonyították elkötelezettségüket a projekt felé. Nincs aranyszabály, hogy melyik a jobb, neked kell eldöntened, hogy számodra mi a megfelelő.
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Ha a projekt a GitHub-on van, használhatsz [védett kód ágakat (branch)](https://help.github.com/articles/about-protected-branches/) hogy beállítsd azt, hogy ki és mely kód ágra olvaszthat be kódot, és azt milyen feltételekkel.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  Amikor valaki küld egy beolvasztási kérelmet, akkor kell neki a commit jog. Bár elsőre rossz ötletnek tűnik, ennek a stratégiának a használata kihasználja a GitHub valódi erejét. (...) Miután az emberek önállóan tudnak commit-olni, már nem kell többé aggódniuk azon, hogy nem kerül be a kódjuk a projektbe ... ez pedig sokkal több hozzájárulást jelent.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Melyek a nyílt forráskódú projektek közös irányítási struktúrái?
 
-There are three common governance structures associated with open source projects.
+A nyílt forráskódú projektekhez általában három közös irányítási struktúra tartozik.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL rövidítés a "Benevolent Dictator for Life" rövidítése (Jóindulatú diktátor). Ebben a struktúrában minden végső szó a projekt létrehozójáé, vagy tulajdonosáé. [Python](https://github.com/python) egy klasszikus példa. Kiss projektek alapértelmezetten BDFL struktúrán alapulnak, mert egy-két karbantartó van csak. Azok a projektek is ebbe a kategóriába esnek, amelyeket egy cég felügyel.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Meritokrácia:** **(Megjegyzendő, hogy a "meritokrácia" fogalma negatív fennhangú néhány közösség, vagy kultúra számára, amelynek [összetett társadalmi és politikai története van](http://geekfeminism.wikia.com/wiki/Meritocracy).)** A meritokráciában az aktív karbantartók, akikről köztudott a szakértelmük, formálisan is jogot kapnak a döntések meghozatalára. Általában a döntés ekkor is konszenzuson alapul, egyszerű többséggel. A meritokrácia úttörője az [Apache Foundation](https://www.apache.org/); [minden Apache projekt](https://www.apache.org/index.html#projects-list) meritokrácia. Csak egyének járulhatnak hozzá a kódhoz, cégek vagy cég nevében eljáró egyének nem.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
+* **Liberális hozzájárulás:** A liberális hozzájárulás modellje szerint a legtöbb munkát végző emberek a legbefolyásosabbnak tekintik, de ez a jelenlegi munkán és nem a történelmi hozzájárulásokon alapul. A főbb projekt döntéseket a konszenzus-keresési folyamat jellemzi (a főbb ellentétek feloldása), nem pedig a tiszta szavazás, és arra törekszenek, hogy minél több közösségi igényt figyelembe vegyenek eközben. Ilyen projekt a [Node.js](https://foundation.nodejs.org/) és a [Rust](https://www.rust-lang.org/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Hogy melyiket kell használnod? Tőled függ! Minden modellnek vannak előnyei és hátrányai. És bár elsőre teljesen másnak tűnhetnek, mindhárom modellben több közös vonás van. Nézd meg ezeket a sablonokat:
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [BDFL modell sablon](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [Meritokrácia modell sablon](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Node.js liberális hozzájárulás mintája](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## Szükségem van-e irányítási dokumentumokra, amikor elindítom a projektemet?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Nincs szabály arra, hogy hogyan kell időpontot kijelölni a projekt irányítási dokumentum elkészítésére. Sokkal könnyebb megalkotni, miután láttad a közösség dinamikájának működését. A nyílt forráskódú irányítás legszebb (és egyben legnehezebb) része az, hogy a közösség formálja azt!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+Néhány korai dokumentáció azonban elkerülhetetlenül hozzásegít a projekt stabil irányításához, ezért érdemes az alapokat leírnod. Például meghatározhatod a viselkedésre vonatkozó egyértelmű elvárásokat, vagy a részvételi folyamat működését, de akár a projekt elindításának körülményeit is.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Mielőtt olyan nyílt forráskódú projektet indítasz, amelyet a céged kezdeményez, mindenképpen érdemes megvitatni és tisztázni a céges elvárásokat a karbantartásokra, döntéshozatalra, hogy a projekt gördülékenyen haladjon. Célszerű minden részletét elmagyarázni annak, hogy a projektben a cég hogyan fog (vagy épp nem fog) részt venni.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  Kicsi csapatokat rendelünk a GitHub projektekhez, akik ezeken dolgoznak itt, a Facebook-nál. Például a React projektet a React mérnökök vezetik.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## Mi történik, ha vállalati alkalmazottaktól érkezik hozzájárulás?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+A sikeres nyílt forráskódú projekteket sok ember és cég használja, és egyes vállalatok bevételi forrásokkal rendelkezhetnek, amelyek a projekthez kötődnek. Például egy vállalat a kódot egy komponensében használhatja fel, amellyel bevételhez jut.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+Ahogy a projekt egyre szélesebb körben kerül felhasználásra, a szakértelemmel rendelkező emberekre egyre nagyobb az igény - lehet, hogy te vagy az egyik! - és ezért néha fizetnek a projektben végzett munkádért.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+Fontos, hogy az üzleti tevékenységet normálisnak tekintsük, és csak egy fejlesztést ösztönző lehetőségként kezeljük. Természetesen a fizetett fejlesztőknek nem szabad különleges bánásmódot kapniuk azokkal szemben, akinek ezért nem fizetnek; minden hozzájárulást technikai szempontból kell értékelni. Az üzletileg támogatott embereknek nem szabad kényelmetlenül érezni magukat, még akkor is, amikor egy adott tovább fejlesztést vagy új funkciót megvitatnak.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+Az "Üzlet" teljesen kompatibilis a "Nyílt Forráskóddal". Az "Üzlet" csak azt jelenti, hogy valahol megjelenik a pénz - az üzleti élet használja a kódot, amely növeli annak ismertségét és elfogadottságát. (Ha a nyílt forráskódú szoftvert nem nyílt forráskódú termék részeként használják, a termék továbbra is "saját tulajdonú" szoftver marad, ez a termék vagy használható, vagy nem használható kereskedelmi célokra.)
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+Mint bárki más is, az üzletileg motivált fejlesztők a projekthez minőségében és mennyiségében is jelentősen hozzájárulnak. Nyilvánvaló, hogy egy olyan fejlesztő, aki fizetést kap, többet tud tenni, mint az, aki nem kap érte fizetséget, de ezzel nincs probléma: a fizetés csak egy, a sok lehetséges tényező közül, amely befolyásolhatja, hogy valaki mennyire vesz részt a projektben. A projekt megbeszélések fókuszában a résztvevők álljanak, ne pedig azok a külső tényezők, amelyek azt befolyásolják, hogy valaki milyen közegben járult hozzá a projekthez.
 
-## Do I need a legal entity to support my project?
+## Szükségem van egy jogi személyre a projektem támogatására?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+Nincs szükséged jogi személyre, hogy támogass nyílt forráskódú projektet, kivéve, ha pénzt kezelsz.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+Ha például vállalkozni akarsz, akkor ennek megfelelő céget kell alapítanod. Ha nyílt forráskódhoz tartozó egyéni munkát végzel és ezért pénzt kapsz, akkor a helyi jogszabályoknak megfelelő módon kell eljárnod.
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Ha adományokat szeretnél kapni a nyílt forráskódú projektedért, akkor az adomány gombot kell elhelyezned a weboldalon (PayPal, Stripe, stb.), de ekkor is a helyi jogszabályoknak megfelelő módon kell eljárnod.
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Számos projekt nem akar non-profit jogi személlyé válni, ezért olyan támogatókat keresnek akik már non-profit jogi személyek. Ezek a szervezetek a te nevedben fogadhatnak el adományokat, amelynek adott részéhez akár hozzá is juthatsz. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) és [Open Collective](https://opencollective.com/opensource) számos példa a nyílt forráskódú non-profit szervezetre.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  Célunk, hogy olyan infrastruktúrát biztosítsunk, amelyet a közösségek önállóan használhatnak, így olyan környezetet teremtünk, ahol mindenki - a közreműködők, a támogatók, a szponzorok - kézzelfogható előnyökhöz jutnak.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+Ha a projekted adott programnyelvhez, vagy ökoszisztémához tartozik, akkor ezen területeken kell keresnek a non-profit támogatókat. Például, a [Python Software Foundation](https://www.python.org/psf/) támogatja a [PyPI](https://pypi.org/), nevű Python csomagkezelőt, és a [Node.js Foundation](https://foundation.nodejs.org/) támogatja az [Express.js](https://expressjs.com/), nevű Node.js alapú webes keretrendszert.
