@@ -12,7 +12,7 @@ related:
 
 ## The "what" and "why" of open source
 
-所以你在考虑开始参与开源？恭喜！世界赞赏你的贡献。让我们来谈谈开源是什么，以及人们这样做。
+那你在考虑开始参与开源？恭喜！世界赞赏你的贡献。我们来谈谈开源是什么以及为什么人们这样做。
 
 ### "开源"是什么意思？
 
@@ -35,7 +35,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
 我从开源使用和协作中获得的最有价值的经验之一，就是在我面临许多与其他开发人员相同问题的过程中所建立的联系。
   <p markdown="1" class="pquote-credit">
-    — @kentcdodds, ["参与开源对我来说太棒了"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+    — @kentcdodds, ["参与开源对我来说太棒了"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -57,7 +57,7 @@ related:
 
 因此，大多数开源项目是免费的，但"免费"不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
 
-## Should I launch my own open source project?
+## 我应该启动自己的开源项目吗？
 
 简单来说，答案是肯定的，因为无论结果如何，启动您自己的项目来了解开源的工作原理是一个好方法。
 
@@ -95,7 +95,7 @@ related:
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
 当你开始开源一个项目时，确保您的管理流程考虑到您项目周围社区的贡献和能力很重要。不要害怕让那些没有在你的企业中受雇的贡献者参与项目的关键部分 - 尤其如果他们是频繁的贡献者的话。
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["所以你想开源一个项目，是吗？"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["所以你想开源一个项目，是吗？"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -150,10 +150,10 @@ related:
 您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
 更好的文档意味着更多的用户，更少的求助和更多的贡献者，等等。要记住你的读者不是你自己。来到项目中的每个人可能有着截然不同的经历。
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["这样写给他人看（视频）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["这样写给他人看（视频）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
@@ -177,15 +177,15 @@ related:
 * 你项目的路线图或者版本
 * 贡献者应该（或者不应该）如何与你取得联系
 
-温柔友好的逾期和向贡献者们提供具体的建议（例如写文档或者搭建一个网页）能够有效地使新人感到受欢迎并乐于参与其中。
+使用热情友好的语气并提供具体的贡献建议（例如编写文档或者搭建网站）可以大大提高新人的参与度。
 
 例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以这样的方式开始[它的贡献指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
 
-> 首先， 非常感谢你考虑为 Active Admin 贡献帮助。正式你这样的人们使得 Active Admin 成为了如此优秀的工具。
+> 首先， 非常感谢你考虑为 Active Admin 贡献帮助。正是你这样的人使 Active Admin 成为一个很棒的工具。
 
 在你项目开始的初期，你的贡献文件可以很简单。你应该经常解释如何提交错误和文件问题，以及关于如何作出贡献的技术问题（例如测试）。
 
-随着时间的推移，你硬弓增加其他常见问题到你的贡献文件中去。写下这些信息意味着问你相同问题的人会越来越少。
+随着时间的推移，你可以将其他常见问题添加到贡献文件中去。写下这些信息意味着问你相同问题的人会越来越少。
 
 想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何构建 CONTRIBUTION.md"](https://mozillascience.github.io/working-open-workshop/contributing/)。
 
@@ -203,7 +203,7 @@ related:
   </p>
 </aside>
 
-最后，行为规范有助于为你项目的参与者车里行为规则。这在你为社区或者项目推出一个开源项目的时候尤为有价值。一份行为帮助你促进健康，有建设性的社区行为，这也会减轻你作为维护者的压力。
+最后，行为准则有助于为项目参与者的行为设定基本规则。这在你为社区或者项目推出一个开源项目的时候尤为有价值。一份行为帮助你促进健康，有建设性的社区行为，这也会减轻你作为维护者的压力。
 
 更多信息，请参见 [行为规范指导](../code-of-conduct/)。
 
@@ -238,7 +238,7 @@ related:
 
  你可以查阅[WIPO全球品牌数据库](http://www.wipo.int/branddb/en/)避免商标冲突。如果你是在公司工作，[法律团队会帮你做这件事](../legal/)。
 
-最后，去谷歌搜索你的项目名。大家会很容易地找到你的项目吗？在搜索结果礼是否有你不想让大家看到的东西？
+最后，去谷歌搜索你的项目名。大家会很容易地找到你的项目吗？在搜索结果里是否有你不想让大家看到的东西？
 
 ### 你的写作（和代码）如何影响你的品牌
 
