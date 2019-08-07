@@ -12,7 +12,7 @@ related:
 
 ## Entendendo a governança para seu projeto em crescimento
 
-Seu preojeto está crescendo, pessoas estão engajadas, e você esta comprometido em manter isso em andamento. Neste ponto, você pode estar imaginando como incorporar contribuidores regulares do projeto em seu workflow, seja para dar acesso de commit para alguém ou resolver debates da comunidade. Se você possuir dúvidas, nós temos respostas.
+Seu projeto está crescendo, pessoas estão engajadas, e você esta comprometido em manter isso em andamento. Neste ponto, você pode estar imaginando como incorporar contribuidores regulares do projeto em seu workflow, seja para dar acesso de commit para alguém ou resolver debates da comunidade. Se você possui dúvidas, nós temos as respostas.
 
 ## Quais são os exemplos de papéis formais usados em projetos open source?
 
@@ -58,7 +58,7 @@ Para um projeto menor, designar lideres pode ser tão simples quanto adicionar o
 
 Para um projeto maior, se você possui um website, crie uma página para o time ou liste seus lideres de projeto lá. Por exemplo, o [Postgres](https://github.com/postgres/postgres/) possui uma [página de time completa](https://www.postgresql.org/community/contributors/), com perfis curtos para cada contribuidor.
 
-Se seu projeto possui uma comunidade contribuinte muito ativa, você pode formar um "equipe principal" de mantenedores, ou até mesmo subcomitês de pessoas que terão a propriedade do projeto em diferentes áreas de issues (por exemplo, segurança, triagem de issues ou conduta da comunidade). Deixe as pessoas se auto-organizarem a voluntariarem para os papéis que eles mais se identificam, em vez de atribuí-los.
+Se seu projeto possui uma comunidade contribuinte muito ativa, você pode formar uma "equipe principal" de mantenedores, ou até mesmo subcomitês de pessoas que terão a propriedade do projeto em diferentes áreas de issues (por exemplo, segurança, triagem de issues ou conduta da comunidade). Deixe as pessoas se auto-organizarem e voluntariarem para os papéis que eles mais se identificam, em vez de atribuí-los.
 
 <aside markdown="1" class="pquote">
   \[Nós\] complementamos a equipe principal com várias "subequipes". Cada subequipe é focada em um área específica, e.q., design de linguagem ou bibliotecas. (...) Para assegurar a coordenação global e uma forte e coerente visão para o projeto como um todo, cada subequipe é liderada por um membro da equipe principal.

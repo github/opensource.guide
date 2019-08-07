@@ -107,7 +107,7 @@ Dependendo de suas circunstâncias pessoais, você pode tentar conseguir dinheir
 Finalmente, as vezes, projetos open source põem recompensas em issues que você pode considerar ajudar a resolver. 
 
 * @ConnorChristie conseguiu ser pago por [ajudar](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol a trabalhar em sua biblioteca javascript [através de uma recompensa em gitcoin](https://gitcoin.co/).
-* @mamiM fez traduções para o Japonês para @MetaMask após a [issue ser financiada na Bounties Network](https://beta.bounties.network/bounty/v1/134).
+* @mamiM fez traduções para o Japonês para @MetaMask após a [issue ser financiada na Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Encontrando financiamento para o seu projeto
 
