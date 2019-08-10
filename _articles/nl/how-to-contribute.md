@@ -161,6 +161,7 @@ Zelfs als je een softwareontwikkelaar bent, kan het werken aan een documentatiep
   Als je naar een issue-tracker gaat en dingen verwarrend lijken, ben jij niet de enige. Deze tools vereisen veel impliciete kennis, maar mensen kunnen je helpen ermee te navigeren en je kunt ze vragen stellen.
 
   _If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions._
+
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
@@ -383,6 +384,7 @@ Een project dat vriendelijke en gastvrije signalen geeft dat ze ontvankelijk zul
   Wanneer je een lange thread ziet, controleer dan de reacties van kernontwikkelaars die laat in de thread komen. Maken ze constructief een samenvatting en nemen ze stappen om de draad tot een beslissing te brengen, terwijl ze toch beleefd blijven? Als je veel vlammenoorlogen ziet, is dat vaak een teken dat energie in discussie gaat in plaats van in ontwikkeling.
 
   _Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development._
+
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
@@ -401,6 +403,7 @@ Of je nu een eenmalige bijdrager bent of probeert lid te worden van een communit
   \[Als nieuwe bijdrager\] realiseerde ik me snel dat ik vragen moest stellen als ik de issue wilde kunnen sluiten. Ik bladerde door de code. Toen ik eenmaal enig idee had van wat er aan de hand was, vroeg ik om meer richting. En voilà! Ik kon het probleem oplossen nadat ik alle relevante details had gekregen die ik nodig had.
 
   _\[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed._
+
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
@@ -465,7 +468,8 @@ Als je een substantiële bijdrage wilt leveren, open dan een vraag om te vragen 
   Je leert <em>veel</em> van het nemen van een enkel project dat je actief gebruikt, het "watching" op GitHub en het lezen van elke issue en PR.
 
   _You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR._
-<p markdown="1" class="pquote-credit">
+
+  <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
@@ -512,7 +516,7 @@ Nadat je een bijdrage heeft ingediend, gebeurt een van de volgende dingen:
 
 ### 😭 Je krijgt geen antwoord.
 
-Hopelijk hebt je het project [gecontroleerd op tekenen van activiteit]((#a-checklist-before-you-contribute) ) voordat je een bijdrage leverde. Zelfs bij een actief project is het echter mogelijk dat je bijdrage geen reactie krijgt.
+Hopelijk hebt je het project [gecontroleerd op tekenen van activiteit](#een-checklist-voordat-u-bijdraagt) voordat je een bijdrage leverde. Zelfs bij een actief project is het echter mogelijk dat je bijdrage geen reactie krijgt.
 
 Als je al meer dan een week geen reactie hebt ontvangen, is het eerlijk om beleefd in diezelfde thread te reageren en iemand om een ​​beoordeling te vragen. Als je de naam kent van de juiste persoon om uw bijdrage te beoordelen, kunt je @ vermelden in die thread.
 
