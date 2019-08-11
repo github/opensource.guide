@@ -1,14 +1,14 @@
 ---
-lang: en
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+lang: ro
+title: Măsurători Open Source
+description: Ia decizii în cunoștință de cauză pentru a-ți ajuta proiectul cu sursă deschisă să prospere măsurând și urmărindu-i succesul.
 class: metrics
 toc:
-  why-measure-anything: "Why measure anything?"
-  discovery: "Discovery"
-  usage: "Usage"
-  retention: "Retention"
-  maintainer-activity: "Maintainer activity"
+  why-measure-anything: "De ce să măsori totul?"
+  discovery: "Descoperire"
+  usage: "Folosire"
+  retention: "Retenție"
+  maintainer-activity: "Activitatea întreținătorilor"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
@@ -16,28 +16,30 @@ related:
   - best-practices
 ---
 
-## Why measure anything?
+## De ce să măsori totul?
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+Informațiile, când sunt folosite înțelept, te pot ajuta să iei decizii mai bune în calitate de întreținător de sursă deschisă.
 
-With more information, you can:
+Cu mai multe informații, poți:
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+* Înțelege cum răspund utilizatorii la o nouă facilitate
+* Descoperi de unde vin utilizatorii noi
+* Identifica și decide dacă dorești să susții un caz de utilizare sau funcționalitate marginale
+* Cuantifica popularitatea proiectului tău
+* Înțelege cum este folosit proiectul tău
+* Aduna bani prin sponsorizări și subvenții
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+De exemplu, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) constată că Google Analytics îi ajută să prioritizeze munca:
 
+> Homebrew este oferit gratuit și condus în întregime de voluntari în timpul lor liber. Ca rezultat, noi nu avem resursele pentru a face studii detaliate de utilizatori despre utilizatorii Homebrew pentru a decide asupra cum să proiectăm cel mai bine viitoarele facilități și cum să prioritizăm munca din prezent. Analizele de utilizatori agregate anonime ne permit să prioritizăm reparațiile și facilitățile bazat pe cum, când și unde folosesc oamenii Homebrew.
+> 
 > Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
 
 Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
 
 If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
 
-## Discovery
+## Descoperire
 
 Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
 
@@ -57,7 +59,7 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
 
-## Usage
+## Folosire
 
 People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
 
@@ -80,7 +82,7 @@ Try to figure out where your audience is coming from and ask others for feedback
 
 Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
 
-## Retention
+## Retenție
 
 People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
 
@@ -110,7 +112,7 @@ Examples of community metrics that you may want to regularly track include:
   </p>
 </aside>
 
-## Maintainer activity
+## Activitatea întreținătorilor
 
 Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
 
