@@ -153,27 +153,41 @@ Spre mai bine sau mai rău, consideră să-i anunți chiar dacă este un proiect
 
 Dacă lansezi primul proiect cu sursă deschisă al companiei, ce este scris mai sus este mai mult decât suficient pentru a trece peste (dar nu îți face griji, majoritatea proiectelor nu ar trebui să ridice nicio îngrijorare majoră).
 
-Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
+Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta compania să obțină mai mult din implicarea ei în open source, și pentru a rămâne în siguranță:
 
-* **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Politici de contribuție a angajaților:** Consideră dezvoltarea unei politici corporative care specifică felul în care angajații dumneavoastră contribuie la proiecte cu sursă deschisă. O politică clară va reduce confuzia în rândul angajaților dumneavoastră și îi va ajuta să contribuie la proiecte cu sursă deschisă în interesul companiei, fie ca parte a locurilor lor de muncă sau în timpul lor liber. Un exemplu este [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) al Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
+  <p>
+    Excluderea proprietății intelectuale asociate cu un patch construiește baza de cunoaștere și reputația angajatului. Aceasta arată că compania este investită în dezvoltarea acelui angajat și creează un sentiment de împuternicire și autonomie. Toate aceste beneficii de asemenea conduc la moral mai ridicat și la o mai bună menținere a angajaților.
+  </p>
+  <p>
+    <em>
+      Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
-* **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
-* **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
+* **Ce să lansezi:** [(Aproape) totul?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Dacă echipa voastră juridică înțelege și este investită în strategia open source a companiei voastre, ei vor fi cel mai bine capabili să te ajute în loc să împiedice eforturile tale.
+* **Conformare:** Chiar dacă compania ta nu lansează niciun proiect cu sursă deschisă, ea folosește software open source al altora. [Conștientizarea și procesul](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) pot preveni dureri de cap, întârzieri de produs, și procese.
 
 <aside markdown="1" class="pquote">
-  Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
+  <p>
+    Organizațiile trebuie să aibă o strategie de licență și de conformare în loc care se potrivește atât categoriei [„permisiv” cât și „copyleft”]. Aceasta începe cu păstrarea unei înregistrări a termenilor de licențiere care se aplică software-ului cu sursă deschisă pe care îl folosiți — incluzând subcomponente și dependențe.
+  </p>
+  <p>
+    <em>
+      Organizations must have a license and compliance strategy in place that fits both ["permissive" and "copyleft"] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
 </aside>
 
-* **Patents:** Your company may wish to join the [Open Invention Network](https://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* **Brevete:** Compania ta ar putea dori să se alăture la [Open Invention Network](https://www.openinventionnetwork.com/), un grup comun defensiv de brevete cu scopul de a proteja a membrilor utilizare de proiecte open source majore, sau explorează alte [licențieri alternative de brevete](https://www.eff.org/document/hacking-patent-system-2016).
+* **Guvernare:** În special dacă și când are sens să treci proiectul la o [entitate juridică din afara companiei](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
