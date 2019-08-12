@@ -35,62 +35,62 @@ De exemplu, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8
 > 
 > Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+Popularitatea nu este totul. Oricine intră în open source din motive diferite. Dacă scopul tău în calitate de întreținător open source este să-ți prezinți munca, fii transparent în legătură cu codul tău, sau doar distrează-te, măsurătorile ar putea să nu fie importante pentru tine.
 
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
+Dacă _ești_ interesat în înțelegerea proiectului tău la un nivel mai profund, citește în continuare pentru a afla modalități de a analiza activitatea proiectului tău.
 
 ## Descoperire
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+Înainte ca oricine să poată folosi sau contribui înapoi la proiectul tău, ei trebuie să știe că el există. Întreabă-te: _găsesc oamenii acest proiect?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Grafic de trafic](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
+Dacă proiectul tău este găzduit pe GitHub, [poți vizualiza](https://help.github.com/articles/about-repository-graphs/#traffic) câți oameni ajung la proiectul tău și de unde vin ei. Din pagina proiectului tău, fă clic pe „Insights”, apoi „Traffic”. Pe această pagină, poți vedea:
 
-* **Total page views:** Tells you how many times your project was viewed
+* **Vizualizări totale ale paginii:** Îți spune de câte ori a fost văzut proiectul tău
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **Totalul vizitatorilor unici:** Îți spune câti oameni au văzut proiectul tău
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **Site-uri de referință:** Îți spune de unde au venit vizitatorii. Această măsurătoare te poate ajuta să-ți dai seama unde să ajungi la publicul tău și dacă eforturile tale de promovare funcționează.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
+* **Conținut popular:** Îți spune unde merg vizitatorii în proiectul tău, defalcat în funcție de vizualizările de pagini și vizitatori unici.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[Stelele GitHub](https://help.github.com/articles/about-stars/) pot, de asemenea, furniza o măsură de bază a popularității. În timp ce stelele GitHub nu sunt neapărat corelate cu descărcările și utilizarea, ele îți pot spune cât de mulți oameni îți iau la cunoștință munca.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+Poate ai dori de asemenea să [urmărești abilitatea de a fi descoperit în locuri specifice](https://opensource.com/business/16/6/pirate-metrics): de exemplu, Google PageRank, trafic trimis din site-ul web al proiectului tău, sau trimiteri de la alte proiecte cu sursă deschisă sau site-uri web.
 
 ## Folosire
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+Oamenii îți găsesc proiectul pe acest sălbatic și nebun lucru pe care îl numim Internet. În mod ideal, când îți văd proiectul, ei se vor simți obligați să facă ceva. A doua întrebare pe care o vei vrea să o pui este: _oamenii folosesc acest proiect?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Dacă folosesți un gestionar de pachete, cum ar fi npm sau RubyGems.org, pentru a-ți distribui proiectul, ai putea să urmărești descărcările proiectului tău.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Fiecare gestionar de pachete ar putea folosi o definiție ușor diferită pentru „descărcare”, și descărcările nu sunt neapărat corelate cu instalările sau utilizarea, dar ele furnizează o bază pentru comparație. Încearcă să folosești [Libraries.io](https://libraries.io/) pentru a urmări statisticile de utilizare pe mulți gestionari populari de pachete.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Dacă proiectul tău este pe GitHub, navighează din nou pe pagina „Traffic”. Poți folosi [graficul de clonare](https://github.com/blog/1873-clone-graphs) pentru a vedea de câte ori a fost clonat proiectul tău într-o anumită zi, defalcat în funcție de totalul de clone și clonatori unici.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![Grafic de clonare](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Dacă utilizarea este scăzută în comparație cu numărul de oameni care îți descoperă proiectul, există două probleme de luat în considerare. Fie:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* Proiectul tău nu convertește publicul tău cu succes, fie
+* Atragi publicul greșit
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+De exemplu, dacă proiectul tău ajunge pe prima pagină a Hacker News, probabil vei vedea un vârf în descoperire (trafic), dar o rată de conversie mai mică, deoarece ajungi la toată lumea de pe Hacker News. Dacă proiectul tău Ruby este prezentat la o conferință Ruby, totuși, este mai probabil să vezi o rată de conversie înaltă de la publicul vizat.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Încearcă să-ți dai seama de unde vine publicul tău și să ceri altora feedback asupra paginii proiectului tău pentru a afla cu care din aceste două probleme te confrunți.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+Odată ce știi că oamenii îți folosesc proiectul, ai putea să dorești să încerci să afli ce fac ei cu el. Ei construiesc peste el bifurcându-ți codul și adăugând facilități? Ei îl folosesc pentru știință sau afaceri?
 
 ## Retenție
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+Oamenii îți găsesc proiectul și îl folosesc. Întrebarea următoare pe care vei vrea să ți-o pui este: _oamenii contribuie înapoi la acest proiect?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+Nu este niciodată prea devreme să începi să te gândești la contributori. Fără ca alți oameni să pășească înăuntru, riști să te pui într-o situație nesănătoasă în care proiectul tău este _popular_ (mulți oameni îl folosesc) dar nu _susținut_ (insuficient timp al întreținătorului pentru a satisface cererea).
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+Retenția de asemenea cere un [influx de contributori noi](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), deoarece contributorii activi înainte vor trece la alte lucruri eventual.
 
-Examples of community metrics that you may want to regularly track include:
+Exemple de măsurători ale comunității pe care ai putea dori să le urmărești în mod obișnuit: 
 
 * **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
 
