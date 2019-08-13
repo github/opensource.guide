@@ -24,8 +24,8 @@ ro:
       # [code], [love], and [github] will be replaced by octicons
       format: "[code] cu [love] de [github] și [friends]"
       # Label for code octicon
-      code_label: code
+      code_label: cod
       # Label for love octicon
-      love_label: love
+      love_label: iubire
       # Label for the contributors link
-      friends_label: friends
+      friends_label: prieteni
