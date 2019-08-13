@@ -92,21 +92,28 @@ Retenția de asemenea cere un [influx de contributori noi](http://blog.abigailca
 
 Exemple de măsurători ale comunității pe care ai putea dori să le urmărești în mod obișnuit: 
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Numărul total de contributori și numărul de commit-uri per contributor:** Îți spune cât de mulți contributori ai, și cine este mai mult sau mai puțin activ. Pe GitHub, poți vizualiza aceasta în „Insights” -> „Contributors.” În prezent, acest grafic numără doar contributorii care au făcut commit către ramura implicită a depozitului.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Graficul contributorilor](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **Contributori pentru prima dată, ocazionali sau repetitivi:** Te ajută să urmărești dacă primești contributori noi, și dacă ei revin. (Contributorii ocazionali sunt contributori cu un număr mic de commit-uri. Fie că aceasta înseamnă un commit, mai puțin de cinci commit-uri, sau altceva, depinde de tine.) Fără contributori noi, comunitatea proiectului tău poate deveni stagnantă.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **Numărul de probleme deschise și de cereri de pull deschise _în momentul prezent_:** Dacă aceste numere devin prea mari, ai putea avea nevoie de ajutor cu trierea problemelor și revizuirile de cod.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Numărul de probleme deschise și de cereri de pull deschise _până în momentul prezent_:** Problemele deschise înseamnă că cuiva îi pasă destul de proiectul tău pentru a deschide o problemă. Dacă acel număr crește de-a lungul timpului, aceasta sugerează că oameni sunt interesați de proiectul tău.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Tipuri de contribuții:** De exemplu, commit-uri, corectarea greșelilor de scriere sau rezolvarea de bug-uri, sau comentarea asupra unei probleme.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  <p>
+    Open source este mai mult decât doar cod. Proiectele open source de succes includ contribuții de cod și documentație împreună cu conversații despre aceste schimbări.
+  </p>
+  <p>
+    <em>
+      Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+    </em>
+  </p>
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
@@ -114,21 +121,21 @@ Exemple de măsurători ale comunității pe care ai putea dori să le urmăreș
 
 ## Activitatea întreținătorilor
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+În cele din urmă, vei dori să închizi bucla asigurându-te că întreținătorii proiectului tău sunt capabili să gestioneze volumul de contribuții primit. Ultima întrebare pe care vei vrea să ți-o pui este: _răspund eu (sau răspundem noi) comunității noastre?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+Întreținătorii care nu răspund devin un blocaj pentru proiectele open source. Dacă cineva trimite o contribuție dar nu aude niciodată niciun răspuns de la un întreținător, el s-ar putea simți descurajat și ar putea pleca.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Cercetări de la Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) sugerează că această capacitate de reacție a întreținătorilor este un factor critic în încurajarea contribuțiilor repetate.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Ia în considerare urmărirea a cât de mult durează pentru tine (sau alt întreținător) să răspunzi contribuțiilor, fie o problemă, fie o cerere de pull. A răspunde nu necesită luarea de măsuri. Poate fi atât de simplu ca a spune: _„Mersi pentru înregistrare! O voi revizui pe parcursul săptămânii viitoare.”_
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+Ai putea de asemenea măsura timpul necesar pentru a trece între etapele din procesul de contribuție, cum ar fi:
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+* Durata medie de timp în care o problemă rămâne deschisă
+* Dacă problemele se închid prin PR-uri
+* Dacă problemele vechi se închid
+* Durata medie de timp pentru a îmbina o cerere de pull
 
-## Use 📊 to learn about people
+## Folosește 📊 pentru a învăța despre oameni
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+Înțelegerea măsurătorilor te va ajuta să construiești un proiect cu sursă deschisă activ, în creștere. Chiar dacă nu urmărești toate măsurătorile pe un panou de control, folosește cadrul de lucru de mai sus pentru a-ți concentra atenția pe tipul de comportament care îți va ajuta proiectul să prospere.
