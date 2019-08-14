@@ -557,7 +557,7 @@ După ce ai trimis o contribuție, una din următoarele va avea loc:
 
 ### 😭 Nu primești un răspuns.
 
-Sperăm că ai [verificat proiectul pentru semne de activitate](#a-checklist-before-you-contribute) înainte de a face o contribuție. Chiar și pe un proiect activ, totuși, este posibil ca a ta contribuție să nu primească un răspuns.
+Sperăm că ai [verificat proiectul pentru semne de activitate](#o-listă-de-verificare-înainte-de-a-contribui) înainte de a face o contribuție. Chiar și pe un proiect activ, totuși, este posibil ca a ta contribuție să nu primească un răspuns.
 
 Dacă nu ai primit un răspuns în peste o săptămână, este corect să răspunzi politicos în același fir de discuție, cerând cuiva o analiză. Dacă știi numele persoanei potrivite care să-ți analizeze contribuția, o poți @-menționa în acel fir de discuție.
 

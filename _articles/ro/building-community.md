@@ -30,15 +30,15 @@ Pe măsură ce îți construiești comunitatea, consideră cum cineva din partea
 
 Începe cu documentația ta:
 
-* **Fă ușor pentru cineva să-ți folosească proiectul.** [Un README prietenos](../starting-a-project/#writing-a-readme) și exemple clare de cod vor face mai ușor pentru oricine care ajunge la proiectul tău să înceapă.
-* **Explică clar cum se contribuie**, folosind [fișierul tău CONTRIBUTING](../starting-a-project/#writing-your-contributing-guidelines) și păstrându-ți problemele actualizate.
+* **Fă ușor pentru cineva să-ți folosească proiectul.** [Un README prietenos](../starting-a-project/#scrierea-unui-readme) și exemple clare de cod vor face mai ușor pentru oricine care ajunge la proiectul tău să înceapă.
+* **Explică clar cum se contribuie**, folosind [fișierul tău CONTRIBUTING](../starting-a-project/#scrierea-direcțiilor-tale-de-contribuție) și păstrându-ți problemele actualizate.
 
 [Sondajul open source 2017 al GitHub](http://opensourcesurvey.org/2017/) a arătat că documentația incompletă sau confuzionantă este cea mai mare problemă pentru utilizatorii de sursă deschisă. Documentația bună invită oamenii să interacționeze cu proiectul tău. În cele din urmă, cineva va deschide o problemă sau o cerere de pull. Folosește aceste interacții ca oportunități de a-i muta în jos pe pâlnie.
 
 * **Când cineva nou ajunge la proiectul tău, mulțumește-i pentru interesul său!** E nevoie de doar o singură experiență negativă pentru a face pe cineva să nu vrea să se întoarcă.
 * **Fii receptiv.** Dacă nu răspunzi la problema lui/ei timp de o lună, șansele sunt că a uitat deja de proiectul tău.
-* **Deschide-ți mintea în legătură cu tipurile de contribuții pe care le vei accepta.** Mulți contributori încep cu un raport de bug sau o corectare mică. Există [multe căi de a contribui](../how-to-contribute/#what-it-means-to-contribute) la un proiect. Lasă-i pe oameni să ajute cum vor ei să ajute.
-* **Dacă există o contribuție cu care nu ești de acord,** mulțumește-i pentru ideea sa și [explică de ce](../best-practices/#learning-to-say-no) nu se încadrează în domeniul proiectului, legând către documentație relevantă dacă o ai.
+* **Deschide-ți mintea în legătură cu tipurile de contribuții pe care le vei accepta.** Mulți contributori încep cu un raport de bug sau o corectare mică. Există [multe căi de a contribui](../how-to-contribute/#ce-înseamnă-să-contribui) la un proiect. Lasă-i pe oameni să ajute cum vor ei să ajute.
+* **Dacă există o contribuție cu care nu ești de acord,** mulțumește-i pentru ideea sa și [explică de ce](../best-practices/#învățând-să-spui-nu) nu se încadrează în domeniul proiectului, legând către documentație relevantă dacă o ai.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -149,7 +149,7 @@ Fă tot ce poți pentru a adopta o politică de toleranță zero față de acest
 
 Dezbateri obișnuite asupra unor aspecte triviale ale proiectului tău îi distrag pe alții, inclusiv pe tine, de la concentrarea pe sarcinile importante. Noi oameni care ajung la proiectul tău ar putea vedea aceste conversații și să nu dorească să participe.
 
-Când vezi comportament negativ întâmplându-se pe proiectul tău, numește-l în public. Explică, cu un ton bun dar ferm, de ce comportamentul lor nu este acceptabil. Dacă problema persistă, ar putea fi nevoie să [le ceri să plece](../code-of-conduct/#enforcing-your-code-of-conduct). [Codul tău de conduită](../code-of-conduct/) poate fi un ghid constructiv pentru aceste conversații.
+Când vezi comportament negativ întâmplându-se pe proiectul tău, numește-l în public. Explică, cu un ton bun dar ferm, de ce comportamentul lor nu este acceptabil. Dacă problema persistă, ar putea fi nevoie să [le ceri să plece](../code-of-conduct/#impunerea-codului-tău-de-conduită). [Codul tău de conduită](../code-of-conduct/) poate fi un ghid constructiv pentru aceste conversații.
 
 ### Întâlnește-i pe contributori unde lucrează
 
@@ -235,7 +235,7 @@ Pe măsură ce proiectul tău devine mai popular, mai mulți oameni se vor inter
 
 Când comunitatea ta se luptă cu o problemă dificilă, mânia poate crește. Oamenii pot deveni nervoși sau frustrați și pot să arunce asupra altora, sau asupra ta.
 
-Slujba ta în calitate de întreținător este să păstrezi aceste situații de la escaladare. Chiar dacă ai o părere solidă cu privire la subiect, încearcă să iei poziția de moderator sau facilitator, în loc să sari în luptă și să-ți împingi părerile. Dacă cineva este aspru sau monopolizează conversația, [acționează imediat](../building-community/#dont-tolerate-bad-actors) pentru a menține discuțiile politicoase și productive.
+Slujba ta în calitate de întreținător este să păstrezi aceste situații de la escaladare. Chiar dacă ai o părere solidă cu privire la subiect, încearcă să iei poziția de moderator sau facilitator, în loc să sari în luptă și să-ți împingi părerile. Dacă cineva este aspru sau monopolizează conversația, [acționează imediat](../building-community/#nu-tolera-actori-răi) pentru a menține discuțiile politicoase și productive.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -258,7 +258,7 @@ A-ți păstra calmul nu este ușor, dar conducerea demonstrată îmbunătățeș
 
 ### Tratează-ți README-ul ca pe o constituție
 
-README-ul tău este [mai mult decât doar o mulțime de instrucțiuni](../starting-a-project/#writing-a-readme). Este de asemenea un loc pentru a vorbi despre scopurile tale, viziunea produsului, și foaia de parcurs. Dacă oamenii sunt prea concentrați pe a dezbate meritul unei anumite facilități, poate ajuta să-ți revizuiești README-ul și să vorbești despre viziunea superioară a proiectului tău. Concentrarea pe README-ul tău de asemenea depersonalizează conversația, astfel încât puteți avea o discuție constructivă.
+README-ul tău este [mai mult decât doar o mulțime de instrucțiuni](../starting-a-project/#scrierea-unui-readme). Este de asemenea un loc pentru a vorbi despre scopurile tale, viziunea produsului, și foaia de parcurs. Dacă oamenii sunt prea concentrați pe a dezbate meritul unei anumite facilități, poate ajuta să-ți revizuiești README-ul și să vorbești despre viziunea superioară a proiectului tău. Concentrarea pe README-ul tău de asemenea depersonalizează conversația, astfel încât puteți avea o discuție constructivă.
 
 ### Concentrează-te pe călătorie, nu pe destinație
 

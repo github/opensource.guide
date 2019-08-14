@@ -56,7 +56,7 @@ Un întreținător nu trebuie să fie neapărat cineva care scrie cod pentru pro
 
 **Termenul „committer”** poate fi folosit pentru a distinge accesul la commit, care este un tip specific de responsabilitate, de alte forme de contribuție.
 
-În timp ce poți defini rolurile proiectului tău în orice fel îți place, [consideră folosirea de definiții mai largi](../how-to-contribute/#what-it-means-to-contribute) pentru a încuraja mai multe forme de contribuție. Poți folosi roluri de conducere pentru a recunoaște în mod oficial pe oamenii care au făcut contribuții remarcabile la proiectul tău, indiferent de abilitățile lor tehnice.
+În timp ce poți defini rolurile proiectului tău în orice fel îți place, [consideră folosirea de definiții mai largi](../how-to-contribute/#ce-înseamnă-să-contribui) pentru a încuraja mai multe forme de contribuție. Poți folosi roluri de conducere pentru a recunoaște în mod oficial pe oamenii care au făcut contribuții remarcabile la proiectul tău, indiferent de abilitățile lor tehnice.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
@@ -103,7 +103,7 @@ Odată ce ai stabilit roluri de conducere, nu uita să documentezi modul în car
 
 Unelte cum ar fi [Vossibility](https://github.com/icecrime/vossibility-stack) pot să te ajute să urmărești în mod public cine face (sau nu) contribuții la proiect. Documentarea acestor informații evită percepția comunității că întreținătorii sunt o clică ce își ia deciziile în privat.
 
-În cele din urmă, dacă proiectul tău este pe GitHub, consideră mutarea proiectului tău din contul personal într-o organizație și adăugarea a cel puțin unui administrator de rezervă. [Organizațiile GitHub](https://help.github.com/articles/creating-a-new-organization-account/) ușurează gestionarea permisiunilor și multiplelor depozite și protejează moștenirea proiectului tău prin [proprietate comună](../building-community/#share-ownership-of-your-project).
+În cele din urmă, dacă proiectul tău este pe GitHub, consideră mutarea proiectului tău din contul personal într-o organizație și adăugarea a cel puțin unui administrator de rezervă. [Organizațiile GitHub](https://help.github.com/articles/creating-a-new-organization-account/) ușurează gestionarea permisiunilor și multiplelor depozite și protejează moștenirea proiectului tău prin [proprietate comună](../building-community/#împarte-proprietatea-proiectului-tău).
 
 ## Când ar trebui să dau cuiva acces de commit?
 

@@ -197,7 +197,7 @@ Dacă ești în căutarea altora să pășească înăuntru, începe prin a înt
 
 Când vezi contributori noi făcând contribuții repetate, recunoaște munca lor oferind mai multă responsabilitate. Documentează cum alții pot crește în roluri de conducere dacă doresc.
 
-Încurajându-i pe alții să [împartă proprietatea proiectului](../building-community/#share-ownership-of-your-project) poate reduce foarte mult propriul tău volum de muncă, după cum @lmccart a descoperit pe proiectul ei, [p5.js](https://github.com/processing/p5.js).
+Încurajându-i pe alții să [împartă proprietatea proiectului](../building-community/#împarte-proprietatea-proiectului-tău) poate reduce foarte mult propriul tău volum de muncă, după cum @lmccart a descoperit pe proiectul ei, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
