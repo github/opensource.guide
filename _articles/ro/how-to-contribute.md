@@ -279,12 +279,12 @@ Aici este o listă de verificare la îndemână pentru a evalua dacă un proiect
 
 **Proiectul acceptă în mod activ contribuțiile**
 
-Uită-te la activitatea de comitere pe ramura master. Pe GitHub, poți vedea aceste informații pe pagina principală a depozitului.
+Uită-te la activitatea de commit-uri pe ramura master. Pe GitHub, poți vedea aceste informații pe pagina principală a depozitului.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  Când a fost ultima comitere?
+  Când a fost făcut ultimul commit?
   </label>
 </div>
 
@@ -298,7 +298,7 @@ Uită-te la activitatea de comitere pe ramura master. Pe GitHub, poți vedea ace
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  Cât de des se comite? (Pe GitHub, poți găsi acest lucru dând clic pe "Commits" în bara de sus.)
+  Cât de des se fac commit-uri? (Pe GitHub, poți găsi acest lucru dând clic pe "Commits" în bara de sus.)
   </label>
 </div>
 
