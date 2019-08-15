@@ -31,7 +31,7 @@ Notarea lucrurilor este unul dintre cele mai importante lucruri pe care le poți
 
 Documentația nu doar clarifică propria ta gândire, ci și ajută alți oameni să înțeleagă de ce ai nevoie sau ce aștepți, chiar înainte ca ei să întrebe.
 
-Notând lucruri face mai ușor să spui nu când ceva nu se încadrează în domeniul tău. De asemenea face mai ușor pentru oameni să pășească înăuntru și să ajute. Nu știi niciodată cine ar putea citi sau folosi proiectul tău.
+Notând lucruri face mai ușor să spui „nu” când ceva nu se încadrează în domeniul tău. De asemenea face mai ușor pentru oameni să pășească înăuntru și să ajute. Nu știi niciodată cine ar putea citi sau folosi proiectul tău.
 
 Chiar dacă nu folosești paragrafe complete, notarea bulinelor este mai bună decât să nu scrii nimic.
 
@@ -91,13 +91,13 @@ Dacă te întâlnești cu alți întreținători, sau faci o decizie majoră în
 
 ## Învățând să spui nu
 
-Ai notat lucruri. În mod normal, toată lumea ți-ar citi documentația, dar în realitate, va treui să reamintești celorlalți că aceste cunoștințe există.
+Ai notat lucruri. În mod normal, toată lumea ți-ar citi documentația, dar în realitate, va trebui să reamintești celorlalți că aceste cunoștințe există.
 
 Având totul scris, totuși, ajută la depersonalizarea situațiilor când trebuie să-ți impui regulile.
 
-A spune nu nu este distractiv, dar _„Contribuția ta nu se potrivește cu criteriile acestui proiect”_ se simte mai puțin personal decât _„Nu-mi place contribuția ta”_.
+A spune „nu” nu este distractiv, dar _„Contribuția ta nu se potrivește cu criteriile acestui proiect”_ se simte mai puțin personal decât _„Nu-mi place contribuția ta”_.
 
-A spune nu se aplică la multe situații peste care vei da în calitate de întreținător: cereri de facilități care nu se încadrează în domeniu, cineva care deraiază o discuție, făcând muncă nefolositoare pentru alții.
+A spune „nu” se aplică la multe situații peste care vei da în calitate de întreținător: cereri de facilități care nu se încadrează în domeniu, cineva care deraiază o discuție, făcând muncă nefolositoare pentru alții.
 
 ### Păstrează conversația prietenoasă
 
@@ -149,7 +149,7 @@ Dacă gândul de a spune „nu” te îngrozește, nu ești singur. După cum @j
 
 Nu te simți vinovat în legătură cu a nu vrea să accepți contribuția cuiva. Prima regulă a open source, [după](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Nu este temporar, da este pentru totdeauna.”_ În timp ce a empatiza cu entuziasmul altei persoane este un lucru bun, a respinge o contribuție nu este același lucru cu a respinge persoana din spatele ei.
 
-În cele din urmă, dacă o contribuție nu este destul de bună, nu ai nicio obligație să o accepți. Fii amabil și sensibil când oameni contribuie la proiectul tău, dar acceptă doar schimbări despre care chiar crezi că vor face proiectul tău mai bun. Cu cât mai des practici a spune nu, cu atât devine mai ușor. Promit.
+În cele din urmă, dacă o contribuție nu este destul de bună, nu ai nicio obligație să o accepți. Fii amabil și sensibil când oameni contribuie la proiectul tău, dar acceptă doar schimbări despre care chiar crezi că vor face proiectul tău mai bun. Cu cât mai des practici a spune „nu”, cu atât devine mai ușor. Promit.
 
 ### Fii proactiv
 
@@ -179,7 +179,7 @@ Dacă ei nu îți urmează regulile, închide problema imediat și fă trimitere
   </p>
 </aside>
 
-Uneori, când spui nu, contributorul tău potențial ar putea să se supere sau să-ți critice decizia. Dacă comportamentul lui devine ostil, [ia măsuri să dezamorsezi situația](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) sau chiar să-l înlături din comunitatea ta, dacă nu dorește să colaboreze constructiv.
+Uneori, când spui „nu”, contributorul tău potențial ar putea să se supere sau să-ți critice decizia. Dacă comportamentul lui devine ostil, [ia măsuri să dezamorsezi situația](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) sau chiar să-l înlături din comunitatea ta, dacă nu dorește să colaboreze constructiv.
 
 ### Îmbrățișează mentoratul
 
