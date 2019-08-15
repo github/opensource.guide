@@ -42,7 +42,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  询问任何一位开源项目的维护著，他们都会告诉你关于管理一个项目需要花费大量时间的真相。你拥有客户，你的为他们修复问题，你创建新的功能。这些都需要真正的花时间去做的事情。
+  询问任何一位开源项目维护者，他们会告诉您管理项目的工作量的实际情况。你拥有客户，你要为他们解决问题，你要创建新功能，这些都需要花时间去做。
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["无偿劳动的伦理和开源软件社区"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>

@@ -60,7 +60,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
+  我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods 本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
   <p markdown="1" class="pquote-credit">
 — @orta, ["默认迁移到开源软件"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
@@ -70,7 +70,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  我第一次接触Python开发团队（简称 python-dev)是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
+  我第一次接触 Python 开发团队（简称 python-dev）是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的 bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["维护者的故事"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -94,12 +94,12 @@ related:
 * 撰写和改进项目的文档
 * 能够以实例来展示项目该如何使用的
 * 为项目撰写新闻稿，或者到邮件列表高调布道
-* 为项目撰写教程， [一如 pypa 的贡献者所做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* 为项目撰写教程，[一如 pypa 的贡献者所做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * 翻译项目的文档为本土语言
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  说真心话， \[文档\] 是非常重要的. 目前Babel的文档已经很棒了，这也是其杀手锏的特性之一。当然，还有一些章节需要大家的完善，即使是随便在哪儿增加一个段落都很感激。
+  说真心话， \[文档\] 是非常重要的. 目前 Babel 的文档已经很棒了，这也是其杀手锏的特性之一。当然，还有一些章节需要大家的完善，即使是随便在哪儿增加一个段落都很感激。
   <p markdown="1" class="pquote-credit">
 — @kittens, ["贡献者召集令"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -128,7 +128,7 @@ related:
 
 * 为他人的提交审核代码
 * 为如何利用项目撰写教程
-* 为其他贡献者做导师， [正如 @ereichert 为 @bronzdoc 所做的那样，哦，是 Rust 项目](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* 为其他贡献者做导师，[正如 @ereichert 为 @bronzdoc 所做的那样，哦，是 Rust 项目](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### 其实不必一定是软件项目！
 
@@ -146,7 +146,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  如果你跟着了一条issue，还发现了令人感到困惑的事情，这很正常，不是你一个人这样。这些工具需要大量的隐式的知识，但是总会有人带着你熟悉这些，当然你要找他们问对的问题。
+  如果你跟着了一条 issue，还发现了令人感到困惑的事情，这很正常，不是你一个人这样。这些工具需要大量的隐式的知识，但是总会有人带着你熟悉这些，当然你要找他们问对的问题。
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["如何为开源做贡献"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
@@ -170,23 +170,23 @@ related:
 * **归属者:** 代码仓库或组织的管理员（不一定和作者是同一个人）
 * **维护者:** 贡献者，负责项目的未来走向和组织的管理（他们通常也是项目的作者或归属者。）
 * **贡献者:** 只要是为项目做出了贡献，就算。
-* **社区成员:** 那些实用项目的人们。他们或许是积极的讨论者，又或者是为项目的方向提出意见的人。
+* **社区成员:** 那些使用项目的人们。他们或许是积极的讨论者，又或者是为项目的方向提出意见的人。
 
-一个较大的项目，可能下面还会细分子社区，或者是针对不同的任务分成不同的小组，比如工具小组、分流、社区事务、以及活动组织等。径直到项目到web站点，找到"团队"页面，或者是查看治理文档，从而获得类似到信息。
+一个较大的项目，可能下面还会细分子社区，或者是针对不同的任务分成不同的小组，比如工具小组、分流、社区事务、以及活动组织等。径直到项目到 web 站点，找到"团队"页面，或者是查看治理文档，从而获得类似到信息。
 
-靠谱的开源项目，一般都会有一个文档的，这些文档文件通常会在代码仓库的顶级目录列出。
+靠谱的开源项目，一般都会有文档的，这些文档文件通常会在代码仓库的顶级目录列出。
 
-* **许可协议:** 根据开源软件的定义，每一个开源项目必须是有[开源许可协议](https://choosealicense.com)的. 可以这么认为：假如说某个项目源码开放，但是没有任何的许可协议，那么它就不能叫做开源。
-* **README:**  README 是一个介绍性的说明文件，对初次光临社区对人们表示欢迎，它通常会解释项目有何用处，为何发起，以及如何快速入门等。
-* **贡献:**  READMES 帮助人们来认识项目，贡献这个文件则是帮助对项目如何做贡献。它解释了目前项目需要什么样类型对贡献者，社区对流程是啥样的。并非所有的项目都会有这个文件，它某种程度上也是展示项目对于贡献者的友好程度。
-* **行为准则:** 顾名思义，即是一些参与社区时的一些礼仪、说话方式、行为等，帮助形成一种友好的氛围，不是所有的项目都会撰写行为准则文件，它某种程度上也是展示项目对于贡献者的友好程度。
+* **LICENSE:** 根据开源软件的定义，每一个开源项目必须是有[开源许可协议](https://choosealicense.com)的. 可以这么认为：假如说某个项目源码开放，但是没有任何的许可协议，那么它就不能叫做开源。
+* **README:** README 是一个介绍性的说明文件，对初次光临社区的人们表示欢迎，它通常会解释项目有何用处，为何发起，以及如何快速入门等。
+* **CONTRIBUTING:**  READMEs 帮助人们来认识项目，CONTRIBUTING 这个文件则是帮助对项目如何做贡献。它解释了目前项目需要什么样类型对贡献者，社区的流程是什么样的。并非所有的项目都会有这个文件，它某种程度上也是展示项目对于贡献者的友好程度。
+* **CODE_OF_CONDUCT:** 顾名思义，即是一些参与社区时的一些礼仪、说话方式、行为等，帮助形成一种友好的氛围，不是所有的项目都会撰写行为准则文件，它某种程度上也是展示项目对于贡献者的友好程度。
 * **其它文档:** 有些项目也许还有其它文档，例如教程、导游，或者是治理规则，这在大型项目中常见。
 
 此外，开源项目还会利用如下一些工具来进行组织讨论，阅读这些归档对于理解社区的想法、是如何工作的有非常大的作用。
 
 * **问题追踪:** 这里是人们讨论项目相关问题的地方。
 * **Pull requests:** 审核代码、以及相关的问题讨论。
-* **论坛或邮件列表:** 一些项目会实用会话式的主题（例如 _"How do I..."_ 或 _"What do you think about..."_ 来替代Bug报告或特性请求）。然而有一些项目关于讨论全部实用问题追踪。
+* **论坛或邮件列表:** 一些项目会实用会话式的主题（例如 _"How do I..."_ 或 _"What do you think about..."_ 来替代 Bug 报告或特性请求）。然而有一些项目关于讨论全部实用问题追踪。
 * **即时在线聊天:** 有一些项目会实用聊天频道（诸如 Slack 或 IRC），从而能够随意的谈话、协作和快速交流。
 
 ## Finding a project to contribute to
@@ -203,7 +203,7 @@ related:
 
 开源并不是高级俱乐部；它就是由你这样的人所浇铸和打造。**"开源"只是针对这个世界的需要修复的问题的一个梦幻术语罢了。**
 
-你或许在查看 README的时候，发现了损坏的链接，又或者拼写错误。又或者是你是一名新手，使用的过程中发现了问题，又或者是某问题应该在文档中注明。请不要坐视不理，径直绕开，或者是请求他人修复，伸出你的援助之手，解决这些你能看到的问题。而这正是开源的精髓之所在！
+你或许在查看 README 的时候，发现了损坏的链接，又或者拼写错误。又或者是你是一名新手，使用的过程中发现了问题，又或者是某问题应该在文档中注明。请不要坐视不理，径直绕开，或者是请求他人修复，伸出你的援助之手，解决这些你能看到的问题。而这正是开源的精髓之所在！
 
 > [28% 的随意贡献](https://www.igor.pro.br/publica/papers/saner2016.pdf) 就是说明了文档的开源，诸如拼写错误，段落语句调整、或者是翻译。
 
@@ -234,7 +234,7 @@ related:
 
 **项目被接收的提交活跃度**
 
-在主干上确认提交的活跃度。在GitHub上托管的开源项目，你可以在仓库主页上看到这些信息。
+在主干上确认提交的活跃度。在 GitHub 上托管的开源项目，你可以在仓库主页上看到这些信息。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -269,14 +269,14 @@ related:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    项目的维护者对于处于开放状态的issue响应是否迅速？
+    项目的维护者对于处于开放状态的 issue 响应是否迅速？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    是否有讨论很活跃的issue？
+    是否有讨论很活跃的 issue？
   </label>
 </div>
 
@@ -290,23 +290,23 @@ related:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    有没有关闭的issue？ (在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的issue。)
+    有没有关闭的issue？ (在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的 issue。)
   </label>
 </div>
 
-同样再来看看 PR的情形。
+同样再来看看 PR 的情形。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    现下有多少处于开放状态的PR？
+    现下有多少处于开放状态的 PR？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    当提交了PR后，维护者响应是否迅速？
+    当提交了 PR 后，维护者响应是否迅速？
   </label>
 </div>
 
@@ -320,14 +320,14 @@ related:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    均是近期的RP吗？
+    均是近期的 RP 吗？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    最近有多少PR合并？ (在 GitHub, 点击 RP页面的 "closed" 的标签页来查看已经关闭的标签页。)
+    最近有多少 PR 合并？ (在 GitHub, 点击 RP 页面的 "closed" 的标签页来查看已经关闭的标签页。)
   </label>
 </div>
 
@@ -338,21 +338,21 @@ related:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    在issue的问题中，维护者的回答是否非常有帮助？
+    在 issue 的问题中，维护者的回答是否非常有帮助？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    人们在issue的讨论中、在线聊天室、论坛是否很友好？
+    人们在 issue 的讨论中、在线聊天室、论坛是否很友好？
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    PR是否被review？
+    PR 是否被 review？
   </label>
 </div>
 
@@ -381,13 +381,13 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[作为一名新手,\] 我很快的就意识到，我若是要关闭一条issue时，我不得不问更多的问题。我浏览了代码库，一旦我觉得有什么问题的时候，我就得需要更多的指点，瞧！ 在我得到所有的所需要的信息后，我就可以解决这个问题！
+  \[作为一名新手,\] 我很快的就意识到，我若是要关闭一条 issue 时，我不得不问更多的问题。我浏览了代码库，一旦我觉得有什么问题的时候，我就得需要更多的指点，瞧！ 在我得到所有的所需要的信息后，我就可以解决这个问题！
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [一名菜鸟进入开源世界的坎坷之旅](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
-在你开启一个isse或PR之前，或者是在聊天室问问题之前，请牢记下面所列出的几点建议，会让你的工作更加的高效。
+在你开启一个 issue 或 PR 之前，或者是在聊天室问问题之前，请牢记下面所列出的几点建议，会让你的工作更加的高效。
 
 **给出上下文** 以便于让其他人能够快速的理解。比方说你运行程序时遇到一个错误，要解释你是如何做的，并描述如何才能再现错误现象。又比方说你是提交一个新的想法，要解释你为什么这么想，对于项目有用处吗（不仅仅是只有你！）
 
@@ -409,11 +409,11 @@ related:
 
 **让所有的沟通都是在公开场合下进行。** 哪怕是很不起眼的小事，也不要去给维护者发私信，除非是你要分享一些敏感信息（诸如安全问题或严重的过失）。你若能够保持谈话是公开的，很多人可以你们交换的意见中学习和受益。
 
-> 😇 _(评论) "@维护者 你好！我们该如何处理这个PR？"_
+> 😇 _(评论) "@维护者 你好！我们该如何处理这个 PR？"_
 >
-> 😢 _(邮件) "你好，非常抱歉给发信，但是我实在很希望你能看一下我提交的PR。"_
+> 😢 _(邮件) "你好，非常抱歉给发信，但是我实在很希望你能看一下我提交的 PR。"_
 
-**大胆的提问（但是要谨慎！）。** 每个人参与社区，开始的时候都是新手，哪怕是非常有经验的贡献者也一样，在刚进入一个新的项目的时候，也是新手。出于同样的原因,甚至长期维护人员并不总是熟悉一个项目的每一部分。给他们同样的耐心,你也会得到同样的回报。
+**大胆的提问（但是要谨慎！）。** 每个人参与社区，开始的时候都是新手，哪怕是非常有经验的贡献者也一样，在刚进入一个新的项目的时候，也是新手。出于同样的原因,甚至长期维护人员并不总是熟悉一个项目的每一部分。给他们同样的耐心，你也会得到同样的回报。
 
 > 😇 _"感谢查看了这个错误，我按照您的建议做了，这是输出结果。"_
 >
@@ -425,21 +425,21 @@ related:
 >
 > 😢 _"你为什么不支持我的用例？这是不可接受的！"_
 
-**以上几点，要铭记在心。** 开源是由来自世界各地的人们共同协作实现的。面临的问题是跨语言、跨文化、不同的地理为止、不同的时区，另外，撰写文字的沟通更是难上加难，无法传达语气和情绪。请让这些会话都充满善意吧！在以下情形中请保持礼貌：推动一个想法、请求更多的上下文、进一步澄清你的立场。既然你在互联网找到了自己的所需，那么请尝试让它变得更好！
+**最重要的是，保持优雅** 开源社区有来自世界各地的协作者，所以跨语言、文化、地理位置和时区的情况下会丢失上下文语境。另外，书面交流使得传达语气或情绪变得更加困难。对话过程中善意的理解对方的意图。礼貌地反驳他人的想法，询问更多的上下文语境，或进一步澄清你的立场都是好事。我们要让互联网变得更加美好。
 
 ### 收集上下文
 
 在正式开始之前，做一些快速的检查项，以确保你的想法是没有被讨论过的。遍历项目的 README、问题（开放的和关闭的都算）、邮件列表、Stack Overflow。毋需去花好几个小时去全部折腾一遍，但是使用几个关键的词汇来搜索一下是必要的。
 
-如果你没有找到和你想法一样的内容，你就可以继续了。如果项目是在 GitHub上的话，你可以通过开启一个issue或PR：
+如果你没有找到和你想法一样的内容，你就可以继续了。如果项目是在 GitHub 上的话，你可以通过开启一个 issue 或 PR：
 
 * **Issues** 开启一次对话或讨论
 * **Pull requests** 请求接受自己的解决方法
-* **少量的沟通，** 诸如澄清或how-to的问题，尝试到 Stack Overflow 、IRC、Slack或其它聊天频道。
+* **少量的沟通，** 诸如澄清或how-to的问题，尝试到 Stack Overflow、IRC、Slack 或其它聊天频道。
 
-在你创建issue和PR之前，请检查项目的贡献者文档（文件名通常叫做 CONTRIBUTING，或者就直接包含在README中），找一些你需要的较具体的东西，例如，他们会要求你遵循某个模版，或者是要求你使用某个测试。
+在你创建 issue 和 PR 之前，请检查项目的贡献者文档（文件名通常叫做 CONTRIBUTING，或者就直接包含在README中），找一些你需要的较具体的东西，例如，他们会要求你遵循某个模版，或者是要求你使用某个测试。
 
-如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个issue。监视项目是很有帮助的（在GitHub，[点击 "Watch"](https://help.github.com/articles/watching-repositories/)，所有的对话都会通知到你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
+如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个 issue。监视项目是很有帮助的（在 GitHub，[点击 "Watch"](https://help.github.com/articles/watching-repositories/)，所有的对话都会通知到你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -457,31 +457,31 @@ related:
 * 讨论一个高级主题或想法(例如. 社区、远景、政策等)
 * 期望实现某新的特性，或者其它项目的想法
 
-在issue的沟通中几点实用的技巧:
+在 issue 的沟通中几点实用的技巧:
 
-* **如果你刚好看到一个开放的issue，恰是你打算解决的，** 添加评论，告诉他人你将负责这个。这样的话，可以避免他人重复劳动。
-* **如果说某个issue已经开放很久了，** 这可能是已经有人正在解决中，又或者是早已经解决过了，所以也请添加评论，在打算开启工作之前，最好是确认一下。
-* **如果你创建了一issue，但是没多久自己解决了，** 也要添加评论，让其他人知道，然后关闭该issue。记录本身就是为社区的贡献。
+* **如果你刚好看到一个开放的 issue，恰是你打算解决的，** 添加评论，告诉他人你将负责这个。这样的话，可以避免他人重复劳动。
+* **如果说某个 issue 已经开放很久了，** 这可能是已经有人正在解决中，又或者是早已经解决过了，所以也请添加评论，在打算开启工作之前，最好是确认一下。
+* **如果你创建了一个 issue，但是没多久自己解决了，** 也要添加评论，让其他人知道，然后关闭该 issue。记录本身就是为社区的贡献。
 
 ### 创建 pull request
 
 在下面的情形时，请你务必使用PR：
 
 * 提交补丁 (例如，纠正拼写错误、损坏的链接、或者是其它较明显的错误）
-* 开始一项别人请求的任务，或者是过去在issue中早就讨论过的
+* 开始一项别人请求的任务，或者是过去在 issue 中早就讨论过的
 
-一个 PR 并不代表着工作已经完成。它通常是尽早的开启一个PR，是为了其他人可以观看或者给作者反馈意见。只需要在子标题标记为"WIP"（正在进行中）。作者可以在后面添加很多评论。
+一个 PR 并不代表着工作已经完成。它通常是尽早的开启一个 PR，是为了其他人可以观看或者给作者反馈意见。只需要在子标题标记为"WIP"（正在进行中）。作者可以在后面添加很多评论。
 
-如果说项目是托管在 GitHub上的，以下是我们总结出的提交RP的建议：
+如果说项目是托管在 GitHub 上的，以下是我们总结出的提交 RP 的建议：
 
-* **[Fork 代码仓库](https://guides.github.com/activities/forking/)** 并克隆到本地，在本地的仓库配置"上游"为远端仓库。这样你可以在提交你的PR时保持和"上游"同步，会减少很多解决冲突的时间。(更多关于同步的说明，请参考[这里](https://help.github.com/articles/syncing-a-fork/).)
+* **[Fork 代码仓库](https://guides.github.com/activities/forking/)** 并克隆到本地，在本地的仓库配置"上游"为远端仓库。这样你可以在提交你的 PR 时保持和"上游"同步，会减少很多解决冲突的时间。(更多关于同步的说明，请参考[这里](https://help.github.com/articles/syncing-a-fork/).)
 * **[创建一个分支](https://guides.github.com/introduction/flow/)** 用于自己编辑。
-* **参考任何相关的issue** 或者在你的RP中支持文档(比如. "Closes #37.")
-* **包含之前和之后的快照** 如果你的改动是包含了不同的 HTML/CSS。在你的PR中拖拉相应的图片。
+* **参考任何相关的issue** 或者在你的 RP 中支持文档(比如. "Closes #37.")
+* **包含之前和之后的快照** 如果你的改动是包含了不同的 HTML/CSS。在你的 PR 中拖拉相应的图片。
 * **测试你的改动！** 若测试用例存在的话，跑一遍，以覆盖你的更改，若没有的话，则创建相应的用例。无论测试是否存在，一定要确保你的改动不会破坏掉现有的项目。
 * **和项目现有的风格保持一致** 尽你最大的努力，这也就是意味着在使用缩进、分号、以及注释很可能和你自己的风格大相径庭，但是为了节省维护者的精力，以及未来他人更好的理解和维护，还请你容忍一下。
 
-如果这是你第一次提交PR。可以浏览[PR制造](http://makeapullrequest.com/)的文档，这是 @kentcdodds 专门为初次创建PR的人写的公开的资料。
+如果这是你第一次提交 PR。可以浏览 [PR 制造](http://makeapullrequest.com/)的文档，这是 @kentcdodds 专门为初次创建 PR 的人写的公开的资料。
 
 ## What happens after you submit a contribution
 
@@ -499,17 +499,17 @@ related:
 
 如果你做了所有该做的事情，还是没有人理你，那就是真的没有人对你的贡献做出响应。这可能感觉上不太好受，但是千万不要灰心。每个人都会遇到这样的情况。其实有太多种原因没有人响应你的提交了，包括很多个人情形都是不在你控制范围的。再接再厉，换一种方法去提交，或者换一个项目。这年头，很多社区成员都在积极的参与和响应他人，都在抢夺优秀的人才，若没有人搭理你，你换地方是没有任何不对的地方的。
 
-### 🚧 其他人的要求你对自己的提交做出变更。
+### 🚧 有人要求你对自己的提交做出变更。
 
-对于自己的提交作出变更这件事非常的普遍，可能是你获得了反馈，也可能是变更了代码。
+被要求对你的提交进行更改是很常见的，无论是对你的实现上的反馈，还是你代码改动上的反馈。
 
-当有人提出变更时，请表现出大度的地方，要及时响应。他们花时间审核了你的提交，要尊重他们。开启了PR，然后一走了之，是一种恶习。如果你不知道如何修改，请花时间深入研究问题的所在，如果还是没有想到好的办法，那么是该向他人求助的时候了。
+当有人提出变更时，请表现出大度的地方，要及时响应。他们花时间审核了你的提交，要尊重他们。开启了 PR，然后一走了之，是一种恶习。如果你不知道如何修改，请花时间深入研究问题的所在，如果还是没有想到好的办法，那么是该向他人求助的时候了。
 
-如果你因为没有时间而无法继续在此issue继续工作（举例来说，如果对话已经过去了一个月了，没有任何的回复和进度，环境肯定变得不一样了），那么请向维护者告知你无法在及时的响应了，肯定有人非常乐意接替你的工作的。
+如果你因为没有时间而无法继续在此 issue 继续工作（举例来说，如果对话已经过去了一个月了，没有任何的回复和进度，环境肯定变得不一样了），那么请向维护者告知你无法在及时的响应了，肯定有人非常乐意接替你的工作的。
 
 ### 👎 你的贡献没有获得通过。
 
-你的提交最后可能没有被接受。真心希望你没有在此作出过多的努力。如果你不确定为什么没有被接收的话，这正是一个很好的询问维护者反馈和澄清的机会。最终，无论如何，你都要对他们的决定表示尊重。不要去做过多无谓的争论或者是充满敌意的谩骂。如果你坚持自己，你可以随意的fork项目，按照自己的思路发展出分支来。
+你的提交最后可能没有被接受。真心希望你没有在此作出过多的努力。如果你不确定为什么没有被接收的话，这正是一个很好的询问维护者反馈和澄清的机会。最终，无论如何，你都要对他们的决定表示尊重。不要去做过多无谓的争论或者是充满敌意的谩骂。如果你坚持自己，你可以随意的 fork 项目，按照自己的思路发展出分支来。
 
 ### 🎉 你的贡献被接收。
 
@@ -519,4 +519,4 @@ related:
 
 你刚刚完成了自己的开源贡献处女秀，接下来，你可能打算寻找另外的方法来做贡献，希望本文给你提供了灵感和实践。即使是你的贡献没有被采纳或接收，也不要有失风度，请对帮助过你的维护者表示感谢！
 
-开源就是由你这样的人所铸造：开启一个issue，在提交PR，评论、讨论、收集反馈，直到被接收。就是这么简单。
+开源就是由你这样的人所铸造：开启一个 issue，在提交 PR，评论、讨论、收集反馈，直到被接收。就是这么简单。
