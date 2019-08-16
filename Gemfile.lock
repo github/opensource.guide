@@ -16,7 +16,7 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
-    dnsruby (1.61.2)
+    dnsruby (1.61.3)
       addressable (~> 2.5)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
