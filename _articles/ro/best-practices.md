@@ -6,7 +6,7 @@ class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "Ce înseamnă să fii un întreținător?"
   documenting-your-processes: "Documentarea proceselor tale"
-  learning-to-say-no: "Învățând să spui nu"
+  learning-to-say-no: "Învățând să spui „nu”"
   leverage-your-community: "Mobilizarea comunității tale"
   bring-in-the-robots: "Cheamă roboții"
   its-okay-to-hit-pause: "Este OK să apeși pauză"
@@ -89,7 +89,7 @@ Dacă te întâlnești cu alți întreținători, sau faci o decizie majoră în
 
 În acest mod, oricine se alătură comunității tale va avea acces la aceleași informații ca cineva care a fost acolo de ani de zile.
 
-## Învățând să spui nu
+## Învățând să spui „nu”
 
 Ai notat lucruri. În mod normal, toată lumea ți-ar citi documentația, dar în realitate, va trebui să reamintești celorlalți că aceste cunoștințe există.
 
