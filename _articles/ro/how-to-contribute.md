@@ -8,7 +8,7 @@ toc:
   what-it-means-to-contribute: "Ce înseamnă să contribui"
   orienting-yourself-to-a-new-project: "Orientându-te către un nou proiect"
   finding-a-project-to-contribute-to: "Găsind un proiect la care să contribui"
-  how-to-submit-a-contribution: "Cum să trimit o contribuție?"
+  how-to-submit-a-contribution: "Cum să trimiți o contribuție?"
   what-happens-after-you-submit-a-contribution: "Ce are loc după ce trimiți o contribuție?"
 order: 1
 image: /assets/images/cards/contribute.png
@@ -42,15 +42,15 @@ De ce oamenii contribuie la open source? O mulțime de motive!
 
 Fie că este programare, proiectarea interfeței grafice, proiectare grafică, scriere, sau origanizare, dacă ești în căutare de practică, este o sarcină pentru tine pe un proiect cu sursă deschisă.
 
-### Întâlnește oameni care sunt interesați de lucruri asemănătoare
+### Întâlnesc oameni care sunt interesați de lucruri asemănătoare
 
 Proiectele cu sursă deschisă cu comunități calde, primitoare păstrează oamenii revenind peste ani. Mulți oameni formează prietenii care durează o viață prin participarea lor la open source, fie că este vorba de a-i întâlni la conferințe sau noaptea târziu în chat-uri despre burrito-uri.
 
-### Găsește mentori și învață-i pe alții
+### Găsesc mentori și îi învață pe alții
 
-Lucrând cu alții pe un proiect comun înseamnă că va trebui să explici cum faci lucrurile, și de asemenea să întrebi alți oameni pentru ajutor. Actele de învățare și predare pot fi o activitate împlinitoare pentru oricine e implicat.
+Lucrând cu alții pe un proiect comun înseamnă că va trebui să explici cum faci lucrurile, și de asemenea să ceri ajutor altora. Actele de învățare și predare pot fi o activitate împlinitoare pentru oricine e implicat.
 
-### Construiește artefacte publice care te ajută să crești o reputație (și o carieră)
+### Construiesc artefacte publice care îi ajută să crească o reputație (și o carieră)
 
 Prin definiție, toată munca ta open source este publică, ceea ce înseamnă că primești exemple gratuite de purtat oriunde ca o demonstrație a ceea ce poți face.
 
@@ -68,9 +68,9 @@ Dacă ești un contributor open source nou, procesul poate fi intimidant. Cum g�
 
 Nu te îngrijora! Există o mulțime mare de feluri de a te implica într-un proiect cu sursă deschisă, și câteva sfaturi te vor ajuta să obții cel mai mult din experiența ta.
 
-### Nu trebuie să contribui cod
+### Nu trebuie să contribui cu cod
 
-O neînțelegere comună despre contribuirea la open source este că trebuie să contribui cod. De fapt, deseori sunt celelalte părți ale unui proiect care sunt [cele mai neglijate și omise](https://github.com/blog/2195-the-shape-of-open-source). Vei face proiectului o _gigantă_ favoare oferindu-te să pășești înăuntru cu aceste tipuri de contribuții!
+O neînțelegere comună despre contribuirea la open source este că trebuie să contribui cu cod. De fapt, deseori sunt celelalte părți ale unui proiect care sunt [cele mai neglijate și omise](https://github.com/blog/2195-the-shape-of-open-source). Vei face proiectului o _gigantică_ favoare oferindu-te să pășești înăuntru cu aceste tipuri de contribuții!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
@@ -87,12 +87,12 @@ O neînțelegere comună despre contribuirea la open source este că trebuie să
   </p>
 </aside>
 
-Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale grozavă de a te implica cu un proiect și de a întâlni alți membri ai comunității. Construind aceste relații îți va da oportunități de a lucra pe alte părți ale proiectului.
+Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale grozavă de a te implica într-un proiect și de a întâlni alți membri ai comunității. Construind aceste relații îți va da oportunități de a lucra pe alte părți ale proiectului.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    Întâi am luat legătura cu echipa de dezvoltare Python (denumită și python-dev) când am trimis email la lista de email-uri în 17 iunie 2002 pentru a-mi accepta patch-ul. Am prins repede bug-ul open source, și am decis să încep să organizez rezumatele email-urilor pentru grup. Ei mi-au dat o scuză grozavă pentru a cere clarificări despre un subiect, dar mai critic am putut observa când cineva indica ceva ce necesita rezolvare.
+    Întâi am luat legătura cu echipa de dezvoltare Python (numită și python-dev) când am trimis email la lista de email-uri în 17 iunie 2002 pentru a-mi accepta patch-ul. Am prins repede bug-ul din sursa deschisă, și am decis să încep să organizez rezumatele email-urilor pentru grup. Ei mi-au dat o scuză grozavă pentru a cere clarificări despre un subiect, dar mai critic am putut observa când cineva indica ceva ce necesita rezolvare.
   </p>
   <p>
     <em>
@@ -108,21 +108,21 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
 
 * Organizează ateliere sau întâlniri despre proiect, [precum @fzamperin a făcut pentru NodeSchool](https://github.com/nodeschool/organizers/issues/406)
 * Organizează conferința proiectului (dacă au una)
-* Ajută membrii comunității să găsească conferința potrivită și să trimită propuneri pentru vorbiri
+* Ajută membrii comunității să găsească conferința potrivită și să trimită propuneri pentru discursuri
 
 ### Îți place să proiectezi?
 
 * Restructurează aspectul pentru a îmbunătăți uzabilitatea proiectului
-* Condu cercetare asupra utilizatorilor pentru a reorganiza și rafina navigarea și meniurile proiectului, [precum sugerează Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Condu o cercetare asupra utilizatorilor pentru a reorganiza și rafina navigarea și meniurile proiectului, [precum sugerează Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Pune laolaltă un ghid de stil pentru a ajuta proiectul să aibă un aspect visual consistent
 * Creează artă pentru tricouri sau o nouă siglă, [precum contribuitorii hapi.js au făcut](https://github.com/hapijs/contrib/issues/68)
 
 ### Îți place să scrii?
 
 * Scrie și îmbunătățește documentația proiectului
-* Selectează un dosar de exemple arătând cum proiectul este folosit
+* Selectează un dosar de exemple arătând cum este folosit proiectul
 * Începe un buletin informativ pentru proiect, sau selectează sublinieri din lista de email-uri
-* Scrie tutoriale pentru proiect, [cum contribuitorii PyPA au făcut](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Scrie tutoriale pentru proiect, [cum au făcut contribuitorii PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Scrie o traducere pentru documentația proiectului
 
 <aside markdown="1" class="pquote">
@@ -167,7 +167,7 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
 
 ### Nu trebuie obligatoriu să lucrezi pe proiecte software!
 
-În timp ce „open source” se referă deseori la software, poți colabora pe aproape orice. Acolo sunt cărți, rețete, liste, și cursuri care sunt dezvoltate ca proiecte cu sursă deschisă.
+În timp ce „open source” se referă deseori la software, poți colabora pe aproape orice. Există cărți, rețete, liste, și cursuri care sunt dezvoltate ca proiecte cu sursă deschisă.
 
 De exemplu:
 
@@ -175,7 +175,7 @@ De exemplu:
 * @h5bp menține o [listă de potențiale întrebări de interviu](https://github.com/h5bp/Front-end-Developer-Interview-Questions) pentru candidați la poziția de dezvoltatori front-end
 * @stuartlynn și @nicole-a-tesla au făcut o [colecție despre adevăruri amuzante despre păsări marine cu cioc mare](https://github.com/stuartlynn/puffin_facts)
 
-Chiar dacă sunteți un dezvoltator software, lucrând pe un proiect de documentație poate ajuta să începi în open source. Este deseori mai puțin intimidant să lucrezi pe proiecte care nu includ cod, și procesul de colaborare îți va construi încrederea și experiența.
+Chiar dacă ești un dezvoltator software, lucrând pe un proiect de documentație te poate ajuta să începi în open source. Este deseori mai puțin intimidant să lucrezi pe proiecte care nu includ cod, și procesul de colaborare îți va construi încrederea și experiența.
 
 ## Orientându-te către un nou proiect
 
@@ -214,32 +214,32 @@ Un proiect cu sursă deschisă are următoarele tipuri de persoane:
 * **Contributori:** Oricine a contribuit cu ceva înapoi la proiect
 * **Membrii comunității:** Persoane care folosesc proiectul. Ei ar putea fi activi în conversații sau să-și exprime părerea asupra direcției proiectului
 
-Proiectele mai mari pot de asemenea avea subcomitete sau grupuri de lucru axate pe sarcini diferite, cum ar fi uneltele, triajul, moderarea comunității, și organizarea evenimentelor. Caută pe site-ul unui proiect pentru o pagină „echipă” sau în depozit pentru documentația de guvernare, pentru a găsi această informație.
+Proiectele mai mari pot de asemenea avea subcomitete sau grupuri de lucru axate pe sarcini diferite, cum ar fi uneltele, triajul, moderarea comunității, și organizarea evenimentelor. Caută pe site-ul unui proiect pentru o pagină „echipa” sau în depozit pentru documentația de guvernare, pentru a găsi această informație.
 
 Un proiect are de asemenea documentație. Aceste fișiere sunt de obicei listate în rădăcina depozitului.
 
 * **LICENSE:** Prin definiție, oricare proiect cu sursă deschisă trebuie să aibă o [licență de sursă deschisă](https://choosealicense.com). Dacă proiectul nu are o licență, el nu este cu sursă deschisă.
 * **README:** README-ul este manualul de instrucțiuni care întâmpină noi membri ai comunității la proiect. El explică de ce proiectul este folositor și cum să începi.
-* **CONTRIBUTING:** În timp ce README-urile ajută oamenii să _folosească_ proiectul, documentația de contribuire ajută oamenii să _contribuie_ la proiect. Ea explică ce tipuri de contribuții sunt necesare și cum lucrează procesul. În timp ce nu oricare proiect are un fișier CONTRIBUTING, prezența lui semnalează că acesta este un proiect primitor la care să contribui.
-* **CODE_OF_CONDUCT:** Codul de conduită stabilește reguli de bază pentru comportamentul asociat al participanților și ajută să faciliteze un mediu prietenos și primitor. În timp ce nu oricare proiect are un fișier CODE_OF_CONDUCT, prezența lui semnalează că acesta este un proiect primitor la care să contribui.
+* **CONTRIBUTING:** În timp ce README-urile ajută oamenii să _folosească_ proiectul, documentația de contribuire ajută oamenii să _contribuie_ la proiect. Ea explică ce tipuri de contribuții sunt necesare și cum funcționează procesul. În timp ce nu oricare proiect are un fișier CONTRIBUTING, prezența lui semnalează că acesta este un proiect primitor la care să contribui.
+* **CODE_OF_CONDUCT:** Codul de conduită stabilește reguli de bază pentru comportamentul asociat al participanților și ajută la facilitarea unui mediu prietenos și primitor. În timp ce nu oricare proiect are un fișier CODE_OF_CONDUCT, prezența lui semnalează că acesta este un proiect primitor la care să contribui.
 * **Altă documentație:** Ar putea fi documentație în plus, cum ar fi tutoriale, prezentări, sau politici de guvernare, în special în cazul proiectelor mai mari.
 
-În cele din urmă, proiectele cu sursă deschisă folosesc următoarele unelte pentru organizarea discuțiilor. Citirea prin arhive îți va oferi o imagine bună despre cum comunitatea gândește și lucrează.
+În cele din urmă, proiectele cu sursă deschisă folosesc următoarele unelte pentru organizarea discuțiilor. Citirea prin arhive îți va oferi o imagine bună despre cum gândește și lucrează comunitatea.
 
 * **Urmăritorul de probleme:** Unde oamenii discută problemele legate de proiect.
-* **Cereri de pull:** Unde oamenii discută și analizează schimbările care sunt în progres.
+* **Cereri de pull:** Unde oamenii discută și analizează schimbările în progres.
 * **Forumuri de discuții și liste de email-uri:** Unele proiecte pot folosi aceste canale pentru subiecte conversaționale (de exemplu, _"Cum să..."_ sau _"Ce credeți despre..."_ în loc de rapoarte de bug-uri sau cereri de facilități). Alții folosesc urmăritorul de probleme pentru toate conversațiile.
 * **Canal sincron de chat:** Unele proiecte utilizează canale de chat (cum ar fi Slack sau IRC) pentru conversații cazuale, colaborări, și schimburi rapide.
 
 ## Găsind un proiect la care să contribui
 
-Acum că v-ați dat seama cum proiectele cu sursă deschisă lucrează, este timpul să găsim un proiect la care să contribui!
+Acum că ți-ai dat seama cum lucrează proiectele cu sursă deschisă, este timpul să găsim un proiect la care să contribui!
 
 Dacă nu ai contribuit niciodată la open source până acum, primește niște sfaturi de la Președintele S.U.A. John F. Kennedy, care a spus odată, _„Întreabă nu ceea ce țara ta poate face pentru tine - întreabă ce poți face tu pentru țara ta.”_
 
 Contribuirea la open source are loc la toate nivelele, de-a lungul proiectelor. Nu trebuie să gândești prea mult care mai exact va fi prima ta contribuție, sau cum va arăta.
 
-În schimb, începe prin a gândi despre proiectele pe care le folosești deja, sau vrei să le folosești. Aceste proiecte la care vei contribui activ sunt acelea la care te vei vedea întorcându-te înapoi.
+În schimb, începe prin a gândi despre proiectele pe care le folosești deja, sau pe care vrei să le folosești. Aceste proiecte la care vei contribui activ sunt acelea la care te vei vedea întorcându-te.
 
 În aceste proiecte, de fiecare dată când te prinzi gândindu-te că ceva ar putea fi mai bine sau diferit, acționează pe baza instinctului.
 
@@ -266,7 +266,7 @@ Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să d
 
 Când ai găsit un proiect la care ai dori să contribui, fă o scanare rapidă pentru a te asigura că proiectul este potrivit pentru a accepta contribuții. Altfel, munca ta grea ar putea să nu primească niciodată un răspuns.
 
-Aici este o listă de verificare la îndemână pentru a evalua dacă un proiect este bun petru noi contributori.
+Aici este o listă de verificare la îndemână pentru a evalua dacă un proiect este bun pentru noi contributori.
 
 **Respectă definiția open source**
 
@@ -372,13 +372,13 @@ Acum fă la fel pentru cererile de pull ale proiectului.
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    Cât de recent au fost niște cereri de pull unite? (Pe GitHub, dă clic pe secțiunea „closed” pe pagina Pull Requests pentru a vedea PR-uri închise.)
+    Cât de recent au fost niște cereri de pull îmbinate? (Pe GitHub, dă clic pe secțiunea „closed” pe pagina Pull Requests pentru a vedea PR-uri închise.)
   </label>
 </div>
 
 **Proiectul este primitor**
 
-Un proiect care este prietenos și primitor semnalează că ei vor fi receptivi la noi contributori.
+Un proiect prietenos și primitor semnalează că ei vor fi receptivi la noi contributori.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -423,7 +423,7 @@ Un proiect care este prietenos și primitor semnalează că ei vor fi receptivi 
   </p>
 </aside>
 
-## Cum să trimit o contribuție?
+## Cum să trimiți o contribuție?
 
 Ai găsit un proiect care îți place, și ești pregătit să faci o contribuție. În sfârșit! Iată cum să îți pui contribuția în direcția corectă.
 
@@ -472,7 +472,7 @@ Fie că ești un contributor de o singură dată sau încerci să te alături un
 >
 > 😢 _(ca un email) "Hei, îmi pare rău că te deranjez prin email, dar mă întrebam dacă ai avut o șansă de a-mi revizui PR-ul"_
 
-**Este OK să pui întrebări (dar ai răbdare!).** Oricine a fost nou la proiect la un moment dat, și chiar contributorii cu experiență trebuie să ajungă la viteză când privesc la un proiect nou. În același timp, chiar întreținătorii pe termen lung nu sunt familiari întotdeauna cu oricare parte a proiectului. Arată-le aceeași răbdare pe care ai dori să ți-o arate ei ție.
+**Este OK să pui întrebări (dar ai răbdare!).** Oricine a fost nou în proiect la un moment dat, și chiar contributorii cu experiență trebuie să ajungă la viteză când privesc un proiect nou. În același timp, chiar întreținătorii pe termen lung nu sunt familiari întotdeauna cu oricare parte a proiectului. Arată-le aceeași răbdare pe care ai dori să ți-o arate ei ție.
 
 > 😇 _"Mersi pentru că te-ai uitat la această eroare. Am urmat sugestiile tale. Aici este ieșirea."_
 >
@@ -536,7 +536,7 @@ Ar trebui de obicei să deschideți o cerere de pull în următoarele situații:
 * Trimiți corectări simple (de exemplu, o greșeală gramaticală, un link nefuncțional sau o eroare evidentă)
 * Începi lucrul pe o contribuție care a fost deja cerută, sau pe care ați discutat-o deja, într-o problemă
 
-O cerere de pull nu trebuie să reprezinte muncă finalizată. Este de obicei mai bine să deschizi o cerere de pull mai devreme, astfel încât alții pot să urmărească sau să ofere feedback pe progresului tău. Doar marcheaz-o ca „WIP” (Work in Progress) în linia de subiect. Poți întotdeauna adăuga mai multe commit-uri mai târziu.
+O cerere de pull nu trebuie să reprezinte muncă finalizată. Este de obicei mai bine să deschizi o cerere de pull mai devreme, astfel încât alții pot să urmărească sau să ofere feedback asupra progresului tău. Doar marcheaz-o ca „WIP” (Work in Progress) în linia de subiect. Poți întotdeauna adăuga mai multe commit-uri mai târziu.
 
 Dacă proiectul este pe GitHub, iată cum trimiți o cerere de pull:
 
@@ -551,7 +551,7 @@ Dacă acesta este prima ta cerere de pull, aruncă o privire la [Make a Pull Req
 
 ## Ce are loc după ce trimiți o contribuție?
 
-Ai făcut-o! Felicitări pentru devenirea unui contributor la open source. Sperăm că este prima din multe.
+Ai făcut-o! Felicitări pentru că ai devenit un contributor la open source. Sperăm că este prima contribuție din multe.
 
 După ce ai trimis o contribuție, una din următoarele va avea loc:
 
@@ -563,19 +563,19 @@ Dacă nu ai primit un răspuns în peste o săptămână, este corect să răspu
 
 **Nu** aborda acea persoană în privat; ține minte că comunicarea publică este vitală la proiectele cu sursă deschisă.
 
-Dacă faci un bump politicos și încă nimeni nu răspunde, este posibil ca nimeni să nu răspundă, niciodată. Nu este un sentiment grozav, dar nu-l lăsa să te descurajeze. S-a întâmplat tuturor! Sunt multe motive posibile pentru care tu nu ai primit un răspuns, incluzând circumstanț€ personale care ar putea fi în afara controlului tău. Încearcă să găsești un alt proiect sau cale de a contribui. Dacă e ceva, acesta este un bun motiv pentru a nu investi prea mult timp în a face o contribuție înainte ca alți membri ai comunității să fie implicați și sensibili.
+Dacă faci un bump politicos și încă nimeni nu răspunde, este posibil ca nimeni să nu răspundă, niciodată. Nu este un sentiment grozav, dar nu-l lăsa să te descurajeze. S-a întâmplat tuturor! Sunt multe motive posibile pentru care tu nu ai primit un răspuns, incluzând circumstanțe personale care ar putea fi în afara controlului tău. Încearcă să găsești un alt proiect sau cale de a contribui. Dacă e ceva, acesta este un bun motiv pentru a nu investi prea mult timp în a face o contribuție înainte ca alți membri ai comunității să fie implicați și sensibili.
 
 ### 🚧 Cineva cere schimbări la contribuția ta.
 
 Este obișnuit ca cineva să îți ceară să faci schimbări la contribuția ta, fie că aceasta este feedback în domeniul ideii tale, sau schimbări la codul tău.
 
-Când cineva cere schimbări, fii sensibil. Ei și-au luat din timp pentru a analiza contribuția ta. Deschiderea unui PR și apoi plecarea departe este formă proastă. Dacă nu știi cum să faci schimbări, cercetează problema, apoi cere ajutor dacă ai nevoie de el.
+Când cineva cere schimbări, fii sensibil. Ei și-au luat din timp pentru a analiza contribuția ta. Deschiderea unui PR și apoi plecarea departe este o formă proastă. Dacă nu știi cum să faci schimbări, cercetează problema, apoi cere ajutor dacă ai nevoie de el.
 
 Dacă nu ai timp să mai lucrezi pe problemă (de exemplu, dacă conversația are loc de câteva luni, și circumstanțele tale s-au schimbat), lasă întreținătorul să știe ca să nu aștepte un răspuns. Altcineva ar putea fi fericit să preia controlul.
 
 ### 👎 Contribuția ta nu este acceptată.
 
-Contribuția ta poate fi sau nu acceptată în sfârșit. Sperăm că nu ai pus prea mult efort în ea deja. Dacă nu ești sigur de ce nu a fost acceptată, este perfect rezonabil să întrebi întreținătorul pentru feedback și clarificare. În final, oricum, trebuie să respecți că aceasta este decizia lor. Nu certa și nu deveni ostil. Ești întotdeauna binevenit să bifurci și să lucrezi pe propria ta versiune dacă nu ești de acord!
+Contribuția ta poate fi sau nu acceptată la sfârșit. Sperăm că nu ai pus prea mult efort în ea deja. Dacă nu ești sigur de ce nu a fost acceptată, este perfect rezonabil să întrebi ceri întreținătorului feedback și clarificare. În final, oricum, trebuie să respecți că aceasta este decizia lor. Nu certa și nu deveni ostil. Ești întotdeauna binevenit să bifurci și să lucrezi pe propria ta versiune dacă nu ești de acord!
 
 ### 🎉 Contribuția ta este acceptată.
 
@@ -583,4 +583,4 @@ Ura! Ai făcut cu succes o contribuție open source!
 
 ## Ai făcut-o!
 
-Fie că ai făcut doar prima ta contribuție open source, sau cauți noi căi de a contribui, sperăm că ești inspirat să acționezi. Chiar dacă contribuția ta nu a fost acceptată, nu uita să spui mersi când un întreținător a pus efort în a te ajuta. Open source este făcut de oameni ca tine: câte o problemă, cerere de pull, un comentriu, sau un bate-palma la un moment dat.
+Fie că ai făcut doar prima ta contribuție open source, sau cauți noi căi de a contribui, sperăm că ești inspirat să acționezi. Chiar dacă contribuția ta nu a fost acceptată, nu uita să spui mersi când un întreținător a pus efort în a te ajuta. Open source este făcut de oameni ca tine: câte o problemă, cerere de pull, un comentariu, sau un bate-palma pas cu pas.
