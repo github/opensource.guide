@@ -131,6 +131,7 @@ A few examples of sponsored projects include:
 * **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
 
+
 ### Create a revenue stream
 
 Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
@@ -138,6 +139,7 @@ Depending on your project, you may be able to charge for commercial support, hos
 * **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
 * **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
 * **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Material-UI](https://github.com/mui-org/material-ui)** offers a [managed open source solution](https://tidelift.com/subscription/pkg/npm-material-ui?utm_source=material_ui&utm_medium=referral&utm_campaign=homepage) [through Tidelift](https://tidelift.com/about/lifter)
 
 Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
 
