@@ -24,7 +24,7 @@ Deci te gândești la a începe cu open source? Felicitări! Lumea îți aprecia
 
 Când un proiect este cu sursă deschisă, aceasta înseamnă că **oricine poate vizualiza, utiliza, modifica și distribui proiectul tău în orice scop.** Aceste permisiuni sunt impuse printr-o [licență open source](https://opensource.org/licenses).
 
-Open source este puternic deoarece scade barierele în calea adoptării, permițând ideilor să se răspândească rapid.
+Open source este puternic deoarece coboară barierele în calea adoptării, permițând ideilor să se răspândească repede.
 
 Pentru a înțelege cum funcționează, imaginează-ți că prietenul tău la cină are ghiveci, și tu aduci o plăcintă cu cireșe.
 
@@ -33,7 +33,7 @@ Pentru a înțelege cum funcționează, imaginează-ți că prietenul tău la ci
 * Un prieten, Alex, care este un bucătar de patiserie, sugerează reducerea zahărului (_modifică_)
 * Un alt prieten, Lisa, cere să o folosească pentru o cină săptămâna viitoare (_distribuie_)
 
-Prin comparație, un proces cu sursă închisă merge la un restaurant și comandă o felie de plăcintă cu cireșe. Trebuie să plătești o taxă pentru a mânca plăcinta, și restaurantul probabil nu-ți va da rețeta lor. Dacă ai copia plăcinta lor exact și ai vinde-o cu un nume al tău, restaurantul ar putea lua măsuri împotriva ta.
+Prin comparație, într-un proces cu sursă închisă mergi la un restaurant și comanzi o felie de plăcintă cu cireșe. Trebuie să plătești o taxă pentru a mânca plăcinta, și restaurantul probabil nu-ți va da rețeta lui. Dacă ai copia plăcinta lui exact și ai vinde-o cu un nume al tău, restaurantul ar putea lua măsuri împotriva ta.
 
 ### De ce oamenii deschid sursa muncii lor?
 
@@ -58,7 +58,7 @@ Prin comparație, un proces cu sursă închisă merge la un restaurant și coman
 
 * **Adoptarea și remixarea:** Proiectele cu sursă deschisă pot fi folosite de oricine pentru aproape orice scop. Oamenii le pot folosi chiar și pentru a construi alte lucruri. [WordPress](https://github.com/WordPress), de exemplu, a început ca o bifurcație a unui proiect existent numit [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparența:** Oricine poate inspecta un proiect cu sursă deschisă pentru erori sau neconcordanțe. Transparența contează pentru guverne, cum ar fi [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) sau [Statele Unite](https://sourcecode.cio.gov/), a reglementat industrii cum ar fi sectorul bancar sau asistența medicală, și software-uri de securitate cum ar fi [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparența:** Oricine poate inspecta un proiect cu sursă deschisă pentru erori sau neconcordanțe. Transparența contează pentru guverne, cum ar fi [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) sau [Statele Unite](https://sourcecode.cio.gov/), industrii reglementate cum ar fi sectorul bancar sau asistența medicală, și software-uri de securitate cum ar fi [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source nici nu este doar pentru software. Poți deschide sursa a orice de la seturi de date la cărți. Aruncă o privire la [GitHub Explore](https://github.com/explore) pentru idei despre sursa a ce altceva poți deschide.
 
@@ -105,7 +105,7 @@ Dacă propriul tău scop este să îți arăți munca, poate nici nu vei vrea co
 
 Pe măsură ce proiectul tău crește, comunitatea ta poate avea nevoie de mai mult decât doar cod din partea ta. Răspunzând la probleme, analizând cod, și promovând proiectul sunt toate sarcini importante într-un proiect cu sursă deschisă.
 
-În timp ce timpul pe care îl cheltuiți pe sarcini care nu sunt legate de programare va depinde de mărimea și scopul proiectului tău, tu ar trebui să fii pregătit ca un întreținător să te adresezi lor tu însuți sau să găsești pe cineva să te ajute.
+În timp ce timpul pe care îl cheltuiți pe sarcini care nu sunt legate de programare va depinde de mărimea și scopul proiectului tău, tu ar trebui să fii pregătit în calitate de întreținător să te adresezi lor tu însuți sau să găsești pe cineva să te ajute.
 
 **Dacă ești parte dintr-o companie care deschide sursa unui proiect,** asigurați-vă că proiectul vostru are resursele interne de care are nevoie să prospere. Veți dori să identificați cine este responsabil pentru întreținerea proiectului după lansare, și cum veți împărți aceste sarcini cu comunitatea voastră.
 
@@ -114,7 +114,7 @@ Dacă aveți nevoie de un buget dedicat sau de personal pentru promovare, logist
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    Pe măsură ce începi să deschizi sursa proiectului tău, este important să te asiguri că procesele tale de gestionare iau în considerație contribuțiile și abilitățile comunității din jurul proiectului tău. Nu-ți fie frică să implici contributori care nu sunt angajați în afacerea ta în aspecte cheie ale proiectului — în special dacă ei contribuie frecvent.
+    Pe măsură ce începi să deschizi sursa proiectului tău, este important să te asiguri că procesele tale de gestionare iau în considerare contribuțiile și abilitățile comunității din jurul proiectului tău. Nu-ți fie frică să implici contributori care nu sunt angajați în afacerea ta în aspecte cheie ale proiectului — în special dacă ei contribuie frecvent.
   </p>
   <p>
     <em>
@@ -134,9 +134,9 @@ Dacă nu ești sigur cum să începi ca un contributor, aruncă o privire peste 
 
 ## Lansându-ți propriul tău proiect cu sursă deschisă
 
-Nu există timpul perfect pentru a deschide sursa muncii tale. Poți deschide o idee, muncă în progres, sau după ani în care a fost cu sursă închisă.
+Nu există timpul perfect pentru a deschide sursa muncii tale. Poți deschide o idee, o muncă în progres, sau după ani în care a fost cu sursă închisă.
 
-În general, ar trebui să deschizi sursa proiectului tău când te simți confortabil lăsându-i pe alții să vadă, să dea feedback pe, munca ta.
+În general, ar trebui să deschizi sursa proiectului tău când te simți confortabil lăsându-i pe alții să vadă munca ta, să dea feedback asupra muncii tale.
 
 Indiferent de stadiul în care decizi să deschizi sursa proiectului, oricare proiect ar trebui să includă următoarea documentație:
 
@@ -174,7 +174,7 @@ README-urile fac mai mult decât să explice cum să se folosească proiectul t�
 * Cum să încep?
 * Unde pot obține mai mult ajutor, dacă am nevoie de el?
 
-Poți să-ți folosești README-ul pentru a răspunde altor întrebări, cum ar fi cum tratezi contribuțiile, care sunt scopurile proiectului, și informații despre licențe și drepturi. Dacă tu nu vrei să accepți contribuții, sau proiectul tău nu este pregătit încă pentru producție, scrie această informație.
+Poți să-ți folosești README-ul pentru a răspunde altor întrebări, cum ar fi cum tratezi contribuțiile, care sunt scopurile proiectului, și informații despre licențe și drepturi. Dacă tu nu vrei să accepți contribuții, sau proiectul tău nu este pregătit încă pentru producție, scrie aceste informații.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
@@ -193,7 +193,7 @@ Poți să-ți folosești README-ul pentru a răspunde altor întrebări, cum ar 
 
 Uneori, oamenii evită scrierea unui README deoarece simt că proiectul este nefinalizat, sau ei nu vor contribuții. Acestea sunt toate motive foarte bune pentru a scrie unul.
 
-Pentru mai multă inspirație, încearcă să folosești ["Make a README" guide](https://www.makeareadme.com/) al lui @dguo sau [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) al lui @PurpleBooth pentru a scrie un README complet.
+Pentru mai multă inspirație, încearcă să folosești [ghidul „Make a README”](https://www.makeareadme.com/) al lui @dguo sau [șablonul README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) al lui @PurpleBooth pentru a scrie un README complet.
 
 Când incluzi un fișier README în directorul rădăcină, GitHub îl va afișa automat pe pagina acasă a depozitului.
 
@@ -215,7 +215,7 @@ Folosind un ton cald și prietenos și oferind sugestii specifice pentru contrib
 
 De exemplu, [Active Admin](https://github.com/activeadmin/activeadmin/) începe [ghidul său de contribuire](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) cu:
 
-> Mai întâi de toate, îți mulțumesc pentru că ai considerat să contribui la Active Admin. Sunt oamenii ca voi care fac Active Admin o unealtă grozavă.
+> Mai întâi de toate, îți mulțumesc pentru că ai considerat să contribui la Active Admin. Oamenii ca voi sunt cei care fac Active Admin o unealtă grozavă.
 > 
 > First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
@@ -223,7 +223,7 @@ De exemplu, [Active Admin](https://github.com/activeadmin/activeadmin/) începe 
 
 Cu timpul, ai putea adăuga alte întrebări puse des în fișierul tău CONTRIBUTING. Scriind aceste informații înseamnă că mai puțini oameni vă vor întreba aceleași întrebări de mai multe ori.
 
-Pentru mai mult ajutor cu scrierea fișierului tău CONTRIBUTING, aruncă o privire la [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) al @nayafia sau ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) al @mozilla.
+Pentru mai mult ajutor cu scrierea fișierului tău CONTRIBUTING, aruncă o privire la [șablonul de ghid de contribuire](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) al @nayafia sau [„How to Build a CONTRIBUTING.md”](https://mozillascience.github.io/working-open-workshop/contributing/) al @mozilla.
 
 Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai mulți oameni îl văd. Dacă [amplasezi fișierul tău CONTRIBUTING în depozitul proiectului tău](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub va lega automat către fișierul tău când un contributor creează o problemă sau deschide o cerere de pull.
 
@@ -269,7 +269,7 @@ Alege un nume care este ușor de memorat și, în mod ideal, dă o idee despre c
 
 Dacă construiești peste un proiect existent, folosind numele lor ca prefix poate ajuta să clarifice ce face proiectul tău (de exemplu, [node-fetch](https://github.com/bitinn/node-fetch) aduce `window.fetch` la Node.js).
 
-Consideră claritatea mai presus de toate. Jocurile de cuvinte sunt distractive, dar ține minte că unele glume ar putea să nu se traducă pentru alte culturi sau oameni cu experiențe diferite de ale tale. Unii din utilizatorii tăi potențiali ar putea fi angați din companii: nu vrei să îi faci stânjeniți când trebuie să explice proiectul tău la muncă!
+Consideră claritatea mai presus de toate. Jocurile de cuvinte sunt distractive, dar ține minte că unele glume ar putea să nu se traducă pentru alte culturi sau oameni cu experiențe diferite de ale tale. Unii din utilizatorii tăi potențiali ar putea fi angajați din companii: nu vrei să îi faci stânjeniți când trebuie să explice proiectul tău la muncă!
 
 ### Evitarea conflictelor de nume
 
@@ -308,11 +308,11 @@ Folosirea unui limbaj cald și incluziv (cum ar fi „ei”, chiar când mă ref
 
 Dincolo de modul în care scrii cuvinte, stilul tău de programare poate de asemenea deveni parte din marca proiectului tău. [Angular](https://angular.io/guide/styleguide) și [jQuery](https://contribute.jquery.org/style-guide/js/) sunt două exemple de proiecte cu stiluri de programare și direcții de ghidare riguroase.
 
-Nu este necesar să scrii un ghid de stil pentru proiectul tău la început, și tu poți afla că te bucuri de a incorpora diferite stiluri de programare în proiectul tău oricum. Dar ar trebui să anticipezi cum stilurile de scriere și programare pot atrage sau descuraja diferite tipuri de oameni. Primele etape ale proiectului tău sunt oportunitatea ta de a stabili precedența pe care dorești să o vezi.
+Nu este necesar să scrii un ghid de stil pentru proiectul tău la început, și tu poți afla că te bucuri de a incorpora diferite stiluri de programare în proiectul tău oricum. Dar ar trebui să anticipezi cum stilurile de scriere și programare pot atrage sau descuraja diferite tipuri de oameni. Primele etape ale proiectului tău sunt oportunitatea ta de a stabili precedentul pe care dorești să îl vezi.
 
 ## Lista ta de verificări înainte de lansare
 
-Pregătit să deschizi sursa proiectului tău? Iată o listă de verificare pentru a te ajuta. Bifezi toate cutiile? Ești gata să pornești! [Dă clic pe "publish"](https://help.github.com/articles/making-a-private-repository-public/) și mângâie-te pe spate.
+Ești pregătit să deschizi sursa proiectului tău? Iată o listă de verificare pentru a te ajuta. Bifezi toate cutiile? Ești gata să pornești! [Dă clic pe „publish”](https://help.github.com/articles/making-a-private-repository-public/) și mângâie-te pe spate.
 
 **Documentație**
 
@@ -374,7 +374,7 @@ Dacă ești persoană fizică:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Ai vorbit cu departamentul juridic și/sau înțelegi IP și politicile open source ale companiei tale (dacă ești un angajat undeva)
+  Ai vorbit cu departamentul juridic și/sau înțelegi proprietatea intelectuală și politicile open source ale companiei tale (dacă ești un angajat undeva)
   </label>
 </div>
 
