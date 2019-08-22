@@ -21,9 +21,9 @@ related:
 
 Dacă întreții un proiect cu sursă deschisă pe care mulți oameni îl folosesc, poate ai observat că programezi mai puțin și răspunzi la probleme mai mult.
 
-In primele etape ale unui proiect, experimentezi cu idei noi și decizi bazat pe ce vrei tu. Pe măsură ce proiectul crește în popularitate, te vei afla lucrând cu utilizatorii și contributorii tăi mai mult.
+În primele etape ale unui proiect, experimentezi cu idei noi și decizi bazat pe ce vrei tu. Pe măsură ce proiectul crește în popularitate, te vei afla lucrând cu utilizatorii și contributorii tăi mai mult.
 
-Întreținerea unui proiect necesită mai mult decât cod. Aceste sarcini sunt deseori neașteptate, dar ele sunt exact la fel de importante pentru un proiect în creștere. Am adunat câteva căi pentru a-ți ușura viața, de la documentarea proceselor la mobilizarea comunității tale.
+Întreținerea unui proiect necesită mai mult decât cod. Aceste sarcini sunt deseori neașteptate, dar ele sunt exact la fel de importante pentru un proiect în creștere. Am adunat câteva metode pentru a-ți ușura viața, de la documentarea proceselor la mobilizarea comunității tale.
 
 ## Documentarea proceselor tale
 
@@ -76,7 +76,7 @@ Iată câteva reguli care merită notate:
 
 * Cum o contribuție este analizată și acceptată (_Au nevoie de teste? Un șablon pentru probleme?_)
 * Tipurile de contribuții pe care le vei accepta (_Vrei ajutor doar la o anumită parte a codului tău?_)
-* Când este potrivit să urmezi (_de exemplu, „Puteți aștepta un răspuns de la un întreținător în 7 zile. Dacă nu ați auzit nimic până atunci, simțiți-vă liberi să bâzâiți firul de discuție.”_)
+* Când este potrivit să răspundă (_de exemplu, „Puteți aștepta un răspuns de la un întreținător în 7 zile. Dacă nu ați auzit nimic până atunci, simțiți-vă liberi să bâzâiți firul de discuție.”_)
 * Cât de mult timp cheltui pe proiect (_de exemplu, „Cheltuim doar aproximativ 5 ore pe săptămână pe acest proiect”_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), și [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) sunt câteva exemple de proiecte cu reguli de bază pentru întreținători și contributori.
@@ -105,7 +105,7 @@ Unul dintre cele mai importante locuri unde vei practica spunerea de nu este asu
 
 Poate contribuția schimbă domeniul proiectului tău sau nu se potrivește cu viziunea ta. Poate ideea este bună, dar implementarea este slabă.
 
-Indiferent de motiv, este posibil să gestionați cu mult tact contribuțiile care nu se ridică la standardele proiectului tău.
+Indiferent de motiv, este posibil să gestionezi cu mult tact contribuțiile care nu se ridică la standardele proiectului tău.
 
 Dacă primești o contribuție pe care nu vrei să o accepți, prima ta reacție ar putea fi să o ignori sau să pretinzi că nu ai văzut-o. Făcând astfel ar putea răni sentimentele celeilalte persoane și chiar să demotiveze alți potențiali contributori din comunitatea ta.
 
@@ -128,7 +128,7 @@ Nu lăsa o contribuție nedorită deschisă pentru că te simți vinovat sau dor
 
 Este mai bine să închizi imediat contribuțiile pe care știi că nu vrei să le accepți. Dacă proiectul tău suferă deja de restanțe mari, @steveklabnik are sugestii pentru [cum să triezi problemele eficient](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-În al doilea rând, ignorarea contribuțiilor trimite un semnal negativ către comunitatea ta. A contribui la un proiect poate fi intimidant, în special dacă este prima dată a cuiva. Chiar dacă nu accepți contribuția ei, consideră persoana din spatele ei și mulțumește-i pentru interesul ei. Este un mare compliment!
+În al doilea rând, ignorarea contribuțiilor trimite un semnal negativ către comunitatea ta. A contribui la un proiect poate fi intimidant, în special pentru prima dată. Chiar dacă nu accepți contribuția, consideră persoana din spatele ei și mulțumește-i pentru interes. Este un mare compliment!
 
 Dacă nu dorești să accepți o contribuție:
 
@@ -157,7 +157,7 @@ Pentru a reduce în primul rând volumul de contribuții nedorite, explică proc
 
 Dacă tu primești prea multe contribuții de calitate slabă, cere contributorilor să facă puțină muncă înainte, de exemplu:
 
-* Completează un șablon/o listă de verificare la o problemă sau un PR
+* Completează un șablon sau o listă de verificare, la o problemă sau un PR
 * Deschide o problemă înainte de a trimite un PR
 
 Dacă ei nu îți urmează regulile, închide problema imediat și fă trimitere către documentația ta.
@@ -195,7 +195,7 @@ Nu trebuie să faci totul de unul singur. Comunitatea proiectului tău există c
 
 Dacă ești în căutarea altora să pășească înăuntru, începe prin a întreba prin jur.
 
-Când vezi contributori noi făcând contribuții repetate, recunoaște munca lor oferind mai multă responsabilitate. Documentează cum alții pot crește în roluri de conducere dacă doresc.
+Când vezi contributori noi făcând contribuții repetate, recunoaște munca lor oferind mai multă responsabilitate. Documentează cum pot alții crește în roluri de conducere dacă doresc.
 
 Încurajându-i pe alții să [împartă proprietatea proiectului](../building-community/#împarte-proprietatea-proiectului-tău) poate reduce foarte mult propriul tău volum de muncă, după cum @lmccart a descoperit pe proiectul ei, [p5.js](https://github.com/processing/p5.js).
 
@@ -226,7 +226,7 @@ Dacă alți oameni sunt entuziaști în legătură cu direcția lui, dă-le perm
 
 ### Lasă-i pe ceilalți să construiască soluțiile de care au nevoie
 
-Dacă un contributor potențial are o părere diferită despre ce ar trebui să facă proiectul tău, poate ai vrea să-i încurajezi cu blândețe să lucreze pe propria lor copie.
+Dacă un contributor potențial are o părere diferită despre ce ar trebui să facă proiectul tău, poate ai vrea să îl încurajezi cu blândețe să lucreze pe propria lui copie.
 
 Copierea proiectului nu trebuie să fie un lucru rău. Fiind capabil să copiezi și să modifici proiectele este unul dintre cele mai bune lucruri despre open source. Încurajând membrii comunității tale să lucreze pe propria lor copie poate furniza ieșirea creativă de care ei au nevoie, fără să intre în conflict cu viziunea proiectului tău.
 
@@ -253,7 +253,7 @@ Același lucru se aplică unui utilizator care chiar dorește o soluție pentru 
 
 ## Cheamă roboții
 
-Exact cum există sarcini cu care alți oameni te pot ajuta, există de asemenea sarcini pe care niciun om nu ar trebui să le îndeplinească vreodată. Roboții sunt prietenul tău. Folosește-i pentru a-ți face viața în calitate de întreținător mai ușoară.
+Exact cum există sarcini cu care alți oameni te pot ajuta, există de asemenea sarcini pe care niciun om nu ar trebui să le îndeplinească vreodată. Roboții sunt prietenii tăi. Folosește-i pentru a-ți face viața în calitate de întreținător mai ușoară.
 
 ### Cere teste și alte verificări pentru a îmbunătăți calitatea codului tău
 
@@ -308,7 +308,7 @@ Poate te simți copleșit sau simți un sentiment în creștere de groază când
 
 Burnout-ul este o problemă reală și universală în munca pe sursă deschisă, în special în rândul întreținătorilor. În calitate de întreținător, fericirea ta este o cerință nenegociabilă pentru supraviețuirea oricărui proiect cu sursă deschisă.
 
-Cu toate că ar trebui să meargă fără să se spună, fă o pauză! Nu ar trebui să aștepți până te simți ars pentru a-ți lua o vacanță. @brettcannon, un dezvoltator din inima Python, a decis să-și ia [o vacanță de o lună de zile](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) după 14 ani de muncă voluntară pe OSS.
+Cu toate că ar trebui să meargă fără să se spună, fă o pauză! Nu ar trebui să aștepți până te simți extenuat pentru a-ți lua o vacanță. @brettcannon, un dezvoltator din inima Python, a decis să-și ia [o vacanță de o lună de zile](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) după 14 ani de muncă voluntară pe OSS.
 
 Exact la fel ca oricare alt fel de muncă, luarea de pauze dese te va păstra revigorat, fericit, și încântat de munca ta.
 
