@@ -16,17 +16,23 @@ related:
 
 ## Why is security such a big deal? 
 
-Even small projects in open-source can have a big impact because of the way ideas move through the community. When it comes to software security, vulnerabilities can move through the community just as quickly as great ideas, so it's important that every open-source project think about how they will approach security. 
+Even small projects in open-source can have a big impact because of the way ideas move through the community. 
+
+When it comes to software security, vulnerabilities can move through the community just as quickly as great ideas! If you've created a library, anyone that takes a dependency on your code has included it in their risk surface for the project they run on top of you. And if you're releasing an app or service, you could be putting user data at risk if you don't handle security vulnerabilities. Either way, it's important that every open-source project maintainer to think about how they will approach security up-front.
 
 ## Secure your software supply chain
 
-Software component analysis is an important part of protecting your software supply chain. When open-source modules that you depend on have vulnerabilities, your users are at risk! Services like [GitHub](https://github.com/), [Snyk](https://snyk.io/), or [WhiteSource](https://www.whitesourcesoftware.com/) offer vulnerability scanning for free for open-source projects. These services will send you security alerts when your projects have a vulnerability and will include information on the impact of the vulnerability.
+Software component analysis is an important part of protecting your software supply chain. 
+
+When open-source modules that you depend on have vulnerabilities, your users are at risk! Services like [GitHub](https://github.com/), [Snyk](https://snyk.io/), or [WhiteSource](https://www.whitesourcesoftware.com/) offer vulnerability scanning for free for open-source projects. These services will send you security alerts when your projects have a vulnerability and will include information on the impact of the vulnerability.
 
 Docker containers are another major source of vulnerabilities. Any of the code that's part of a Docker container that you run could have vulnerabilities. The open-source project [Clair](https://github.com/coreos/clair) does scanning of Docker containers for known vulnerabilities. There are also many commercial security vendors which may perform more comprehensive scanning of Docker containers. 
 
 ## Automate repetitive tasks
 
-Updating dependencies can be a frequent, and repetitive task. Many services offer free dependency updates including [Dependabot](https://dependabot.com/) (which is built-into GitHub as a beta right now), and [GreenKeeper](https://greenkeeper.io/). These tools will automatically generate pull requests with the required version updates in response to security vulnerabilities, and dramatically improve the experience of updating dependencies. 
+Updating dependencies can be a frequent, and repetitive task.
+
+Many services offer free dependency updates including [Dependabot](https://dependabot.com/) (which is built-into GitHub as a beta right now), and [GreenKeeper](https://greenkeeper.io/). These tools will automatically generate pull requests with the required version updates in response to security vulnerabilities, and dramatically improve the experience of updating dependencies. 
 
 ## Create a security policy
 
@@ -48,7 +54,9 @@ Safe harbor provisions are important in terms of setting boundaries as to what c
 
 ## Responsibly disclose your vulnerabilities
 
-When you learn about a security vulnerability in your code, it's important that you fix and disclose that issue responsibly. In open-source projects, this can be challenging, since everything is open by default. 
+When you learn about a security vulnerability in your code, it's important that you fix and disclose that issue responsibly. 
+
+In open-source projects, this can be challenging, since everything is open by default. 
 
 GitHub offers a beta feature called [maintainer security advisories](https://help.github.com/en/articles/about-maintainer-security-advisories) which allow you to discuss, fix, and disclose vulnerabilities without disclosing them before they are ready. Some projects may also employ a shadow repository where they maintain a clone of their main repository and lock this down to only trusted maintainers. 
 
@@ -57,6 +65,6 @@ Finally, when you do publish a security fix, you should make sure to publish the
 ## See also
 * [HackerOne's security policy builder](https://hackerone.com/policy-builder/)
 * [Securitytxt.org](https://securitytxt.org)
-* [NTIA Coordinated Vulnerability Disclosure template] (https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf)
+* [NTIA Coordinated Vulnerability Disclosure template](https://www.ntia.doc.gov/files/ntia/publications/ntia_vuln_disclosure_early_stage_template.pdf)
 
 
