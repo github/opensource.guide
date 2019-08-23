@@ -3,7 +3,15 @@ lang: en
 title: Think about security
 description: Build your open source project with security in mind
 class: best-practices
-image: /assets/images/cards/best-practices.png
+toc: 
+  why-is-security-such-a-big-deal: "Why is security such a big deal"
+  secure-your-software-supply-chain: "Secure your software supply chain"
+  automate-repetitive-tasks: "Automate repetitive tasks"
+  create-a-security-policy: "Create a security policy"
+  responsibly-disclose-your-vulnerabilities: "Responsibly disclose your vulnerabilities"
+order: 11
+related:
+  - best-practices
 ---
 
 ## Why is security such a big deal? 
