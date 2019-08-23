@@ -8,7 +8,7 @@ image: /assets/images/cards/best-practices.png
 
 ## Why do I need a security policy? 
 
-Even small projects in open-source can have a big impact because of the way ideas can move through the community. When it comes to software security, vulnerabilities can move through the community just as quickly as great ideas, so it's important that every open-source project think about their security policy. A security policy helps your community by a) letting them know what you will support in terms of security issues, and b) letting them know how to work with you when they discover security issues.  
+Even small projects in open-source can have a big impact because of the way ideas move through the community. When it comes to software security, vulnerabilities can move through the community just as quickly as great ideas, so it's important that every open-source project think about their security policy. A security policy helps your community by a) letting them know what you will support in terms of security issues, and b) letting them know how to work with you when they discover security issues.  
 
 ## Components of a good security policy
 
