@@ -19,7 +19,7 @@ related:
 
 ## Răspândirea cuvântului
 
-Nu există o regulă care spune că trebuie să-ți promovezi proiectul cu sursă deschisă când lansezi. Există multe motive împlinitoare de a lucra în open source care nu au nimic de a face cu popularitatea. În loc să speri că alții vor găsi și vor folosi proiectul tău cu sursă deschisă, trebuie să răspândești cuvântul despre munca ta grea!
+Nu există o regulă care spune că trebuie să-ți promovezi proiectul cu sursă deschisă când îl lansezi. Există multe motive împlinitoare de a lucra în open source care nu au nimic de a face cu popularitatea. În loc să speri că alții vor găsi și vor folosi proiectul tău cu sursă deschisă, trebuie să răspândești cuvântul despre munca ta grea!
 
 ## Găsește-ți mesajul
 
@@ -72,7 +72,7 @@ Dacă nu dorești să configurezi prize pentru proiectul tău încă, promoveaz�
   </p>
 </aside>
 
-**Consideră crearea unui site web pentru proiectul tău.** Un site web face proiectul tău mai prietenos și mai ușor de navigat, în special când este cuplat cu documentație și tutoriale clare. Având un site web sugerează de asemenea că proiectul tău este activ ceea ce îți va face publicul să se simtă mai confortabil folosind-ul. Furnizează exemple pentru a oferi oamenilor idei despre cum să folosească proiectul tău.
+**Consideră crearea unui site web pentru proiectul tău.** Un site web face proiectul tău mai prietenos și mai ușor de navigat, în special când este cuplat cu documentație și tutoriale clare. Având un site web sugerează de asemenea că proiectul tău este activ ceea ce îți va face publicul să se simtă mai confortabil folosindu-l. Furnizează exemple pentru a oferi oamenilor idei despre cum să folosească proiectul tău.
 
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator al Django, a spus că un site web era _„de departe cel mai bun lucru pe care l-am făcut cu Django în primele zile”_.
 
@@ -91,7 +91,7 @@ Profită de comunitățile online și platformele existente pentru a ajunge la p
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    Fiecare program are facilități foarte specifice pe care doar o fracțiune din utilizatori le vor găsi folositoare. Nu spam-ui cât poți de mulți oameni. În schimb, țintește-ți eforturile înspre comunități care vor beneficia de a ști de proiectul tău.
+    Fiecare program are facilități foarte specifice pe care doar o fracțiune din utilizatori le va găsi folositoare. Nu spam-ui cât poți de mulți oameni. În schimb, țintește-ți eforturile înspre comunități care vor beneficia de a ști de proiectul tău.
   </p>
   <p>
     <em>
@@ -103,7 +103,7 @@ Profită de comunitățile online și platformele existente pentru a ajunge la p
   </p>
 </aside>
 
-Vezi dacă poți găsi căi de a-ți împărtăși proiectul în moduri relevante:
+Vezi dacă poți găsi metode relevante de a-ți împărtăși proiectul:
 
 * **Fă cunoștință cu proiecte și comunități open source relevante.** Câteodată, nu trebuie să îți promovezi direct proiectul. Dacă proiectul tău este perfect pentru cercetători de date care folosesc Python, fă cunoștință cu comunitatea de știința datelor în Python. Pe măsură ce oamenii fac cunoștință cu tine, oportunități naturale vor răsări pentru a vorbi despre și a-ți împărtăși munca.
 * **Găsește oameni care experimentează problema pe care proiectul tău o rezolvă.** Caută prin forumuri similare oameni care intră în publicul țintă al proiectului tău. Răspunde la întrebarea lor și găsește o cale cu tact, când este adecvat, pentru a-ți sugera proiectul ca o soluție.
@@ -119,7 +119,7 @@ Dacă nimeni nu acordă atenție sau nu răspunde la mobilizarea ta inițială, 
 
 Evenimentele offline sunt o modalitate populară de a promova noi proiecte publicurilor. Ele sunt o cale excelentă de a ajunge la un public angajat și de a construi conexiuni umane mai profunde, în special dacă ești interesat în a ajunge la dezvoltatori.
 
-Dacă ești [nou la vorbitul în public](https://speaking.io/), începe prin a găsi o întâlnire locală care are o legătură cu limbajul sau ecosistemul proiectului tău.
+Dacă ești [începător la vorbitul în public](https://speaking.io/), începe prin a găsi o întâlnire locală care are o legătură cu limbajul sau ecosistemul proiectului tău.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
@@ -216,4 +216,4 @@ Nu există o soluție peste noapte de a construi un public. Obținerea încreder
 
 ## Continuă!
 
-Este posibil să dureze mult înainte ca utilizatorii să observe proiectul tău cu sursă deschisă. Este în regulă! Unele dintre cele mai populare proiecte de astăzi a durat ani pentru a atinge nivele înalte de activitate. Concentrează-te pe a construi relații în loc de a spera că proiectul tău va câștiga popularitate în mod spontan. Fii răbdător, și continuă să împărtășești munca ta cu cei care o apreciază.
+Este posibil să dureze mult înainte ca utilizatorii să observe proiectul tău cu sursă deschisă. Este în regulă! Unele dintre cele mai populare proiecte de astăzi au avut nevoie de ani pentru a atinge nivele înalte de activitate. Concentrează-te pe a construi relații în loc de a spera că proiectul tău va câștiga popularitate în mod spontan. Fii răbdător, și continuă să împărtășești munca ta cu cei care o apreciază.
