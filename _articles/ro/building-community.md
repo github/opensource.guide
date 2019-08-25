@@ -22,11 +22,11 @@ O comunitate primitoare este o investiție în viitorul și reputația proiectul
 
 ### Fă oamenii să se simtă bineveniți
 
-Un mod de a te gândi despre comunitatea proiectului tău este prin ceea ce @MikeMcQuaid numește [pâlnia contributorilor](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+Un mod de a te gândi la comunitatea proiectului tău este prin ceea ce @MikeMcQuaid numește [pâlnia contributorilor](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
 ![Pâlnia contributorilor](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-Pe măsură ce îți construiești comunitatea, consideră cum cineva din partea de sus a pâlniei (un utilizator potențial) ar putea teoretic să își facă un drum către partea din jos (un întreținător activ). Scopul tău este să reduci fricțiunea la fiecare etapă a experienței contributorilor. Când oamenii înving ușor, ei se vor simți stimulați să facă mai mult.
+Pe măsură ce îți construiești comunitatea, consideră cum cineva din partea de sus a pâlniei (un utilizator potențial) ar putea teoretic să își facă un drum către partea din jos (un întreținător activ). Scopul tău este să reduci fricțiunea la fiecare etapă a experienței contributorilor. Când oamenii înving ușor, se vor simți stimulați să facă mai mult.
 
 Începe cu documentația ta:
 
@@ -38,7 +38,7 @@ Pe măsură ce îți construiești comunitatea, consideră cum cineva din partea
 * **Când cineva nou ajunge la proiectul tău, mulțumește-i pentru interesul său!** E nevoie de doar o singură experiență negativă pentru a face pe cineva să nu vrea să se întoarcă.
 * **Fii receptiv.** Dacă nu răspunzi la problema lui/ei timp de o lună, șansele sunt că a uitat deja de proiectul tău.
 * **Deschide-ți mintea în legătură cu tipurile de contribuții pe care le vei accepta.** Mulți contributori încep cu un raport de bug sau o corectare mică. Există [multe căi de a contribui](../how-to-contribute/#ce-înseamnă-să-contribui) la un proiect. Lasă-i pe oameni să ajute cum vor ei să ajute.
-* **Dacă există o contribuție cu care nu ești de acord,** mulțumește-i pentru ideea sa și [explică de ce](../best-practices/#învățând-să-spui-nu) nu se încadrează în domeniul proiectului, legând către documentație relevantă dacă o ai.
+* **Dacă există o contribuție cu care nu ești de acord,** mulțumește-i pentru ideea sa și [explică de ce](../best-practices/#învățând-să-spui-nu) nu se încadrează în domeniul proiectului, legând către documentație relevantă dacă ai una.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -55,7 +55,7 @@ Pe măsură ce îți construiești comunitatea, consideră cum cineva din partea
   </p>
 </aside>
 
-Majoritatea contributorilor la sursă deschisă sunt „contributori ocazionali”: oameni care contribuie la un proiect doar ocazional. Un contributor ocazional ar putea să nu aibă timp să ajungă la maximă viteză cu proiectul tău, deci sarcina ta este să faci ușor pentru ei să contribuie.
+Majoritatea contributorilor la sursă deschisă sunt „contributori ocazionali”: oameni care contribuie la un proiect doar ocazional. Un contributor ocazional ar putea să nu aibă timp să ajungă la maximă viteză cu proiectul tău, deci sarcina ta este să faci să fie ușor să contribuie.
 
 Încurajarea altor contributori este o investiție în tine însuți, de asemenea. Când împuternicești cei mai mari fani să meargă cu munca de care sunt încântați, este mai puțină presiune să faci totul de unul singur.
 
@@ -155,15 +155,15 @@ Când vezi comportament negativ întâmplându-se pe proiectul tău, numește-l 
 
 Documentația bună devine doar mai importantă pe măsură ce comunitatea ta crește. Contributorii ocazionali, care ar putea să nu fie în caz contrar familiari cu proiectul tău, citesc documentația ta pentru a primi rapid contextul de care au nevoie.
 
-În fișierul tău CONTRIBUTING, spune-le în mod explicit contributorilor noi cum să înceapă. Ai putea chiar să vrei să faci o secțiune dedicată cu acest scop. [Django](https://github.com/django/django), de exemplu, are o pagină de destinație specială pentru primirea noilor contributori.
+În fișierul tău CONTRIBUTING, spune-le în mod explicit contributorilor noi cum să înceapă. Ai putea chiar să vrei să faci o secțiune dedicată cu acest scop. [Django](https://github.com/django/django), de exemplu, are o pagină specială de destinație pentru primirea noilor contributori.
 
 ![Pagina pentru noi contributori Django](/assets/images/building-community/django_new_contributors.png)
 
 În coada ta de probleme, etichetează bug-urile care sunt potrivite pentru diferite tipuri de contributori: de exemplu, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, sau _"documentation"_. [Aceste etichete](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) fac ușor pentru un nou-venit la proiectul tău să scaneze rapid problemele tale și să înceapă.
 
-În cele din urmă, folosește-ți documentația pentru a-i face pe oameni să se simtă bineveniți la fiecare pas din drum.
+În cele din urmă, folosește-ți documentația pentru a-i face pe oameni să se simtă bineveniți la fiecare pas pe drum.
 
-Nu vei interacționa niciodată cu marea majoritate a oamenilor care ajung la proiectul tău. Ar putea fi contribuții pe care nu le-ai primit deoarece cineva s-a simțit intimidat sau nu a știut de unde să înceapă. Chiar câteva cuvinte puține pot ține un om să nu părăsească proiectul tău frustrat.
+Nu vei interacționa niciodată cu marea majoritate a oamenilor care ajung la proiectul tău. Ar putea fi contribuții pe care nu le-ai primit deoarece cineva s-a simțit intimidat sau nu a știut de unde să înceapă. Chiar câteva cuvinte puține pot ține un om să nu părăsească frustrat proiectul tău.
 
 De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe [ghidul său de contribuire](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
 
@@ -176,7 +176,7 @@ De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    Liderii voștri vor avea păreri diferite, așa cum ar trebui să aibă toate comunitățile sănătoase! Totuși, trebuie să faceți niște pași să asigurați că cea mai tare voce nu învinge întotdeauna obosind oamenii, și că vocile mai puțin proeminente și minoritare sunt auzite.
+    Liderii voștri vor avea păreri diferite, așa cum ar trebui să aibă toate comunitățile sănătoase! Totuși, trebuie să faceți niște pași să asigurați că cea mai tare voce nu învinge întotdeauna obosind oamenii, și că vocile mai puțin proeminente și cele minoritare sunt auzite.
   </p>
   <p>
     <em>
@@ -211,7 +211,7 @@ Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprint
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   <p>
-      [Este al tău] cel mai mare interes de a recruta contributori care se bucură și care sunt capabili de a face lucrurile de care tu nu ești. Te încântă programarea, dar nu răspunderea la probleme? Atunci identifică pe acei indivizi din comunitatea ta pe care îi încântă și lasă-le să fie ale lor.
+    [Este al tău] cel mai mare interes de a recruta contributori care se bucură și care sunt capabili de a face lucrurile de care tu nu ești capabil. Te încântă programarea, dar nu răspunderea la probleme? Atunci identifică pe acei indivizi din comunitatea ta pe care îi încântă și lasă-le să fie ale lor.
   </p>
   <p>
     <em>
@@ -225,7 +225,7 @@ Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprint
 
 ## Rezolvarea conflictelor
 
-In stadiile de început ale proiectului tău, a face decizii majore este ușor. Când vrei să faci ceva, pur și simplu faci.
+În stadiile de început ale proiectului tău, a face decizii majore este ușor. Când vrei să faci ceva, pur și simplu faci.
 
 Pe măsură ce proiectul tău devine mai popular, mai mulți oameni se vor interesa de deciziile pe care le faci. Chiar dacă nu ai o comunitate mare de contributori, dacă proiectul tău are mulți utilizatori, vei găsi oameni cântărind deciziile sau ridicând probleme pe cont propriu.
 
@@ -235,7 +235,7 @@ Pe măsură ce proiectul tău devine mai popular, mai mulți oameni se vor inter
 
 Când comunitatea ta se luptă cu o problemă dificilă, mânia poate crește. Oamenii pot deveni nervoși sau frustrați și pot să arunce asupra altora, sau asupra ta.
 
-Slujba ta în calitate de întreținător este să păstrezi aceste situații de la escaladare. Chiar dacă ai o părere solidă cu privire la subiect, încearcă să iei poziția de moderator sau facilitator, în loc să sari în luptă și să-ți împingi părerile. Dacă cineva este aspru sau monopolizează conversația, [acționează imediat](../building-community/#nu-tolera-actori-răi) pentru a menține discuțiile politicoase și productive.
+Slujba ta în calitate de întreținător este să ferești aceste situații de la escaladare. Chiar dacă ai o părere solidă cu privire la subiect, încearcă să iei poziția de moderator sau facilitator, în loc să sari în luptă și să-ți împingi părerile. Dacă cineva este aspru sau monopolizează conversația, [acționează imediat](../building-community/#nu-tolera-actori-răi) pentru a menține discuțiile politicoase și productive.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -252,7 +252,7 @@ Slujba ta în calitate de întreținător este să păstrezi aceste situații de
   </p>
 </aside>
 
-Alți oameni vă caută pentru îndrumare. Stabilește un exemplu bun. Încă poți exprima dezamăgire, nefericire, sau îngrijorare, dar fă astfel cu calm.
+Alți oameni vă caută pentru îndrumare. Stabilește un exemplu bun. Încă poți exprima dezamăgire, nefericire, sau îngrijorare, dar fă aceasta cu calm.
 
 A-ți păstra calmul nu este ușor, dar conducerea demonstrată îmbunătățește sănătatea comunității tale. Internetul îți mulțumește.
 
@@ -281,13 +281,13 @@ Uneori, votarea este o departajare necesară. Totuși, cât de mult poți, accen
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @lee-dohm privind [procesului de luare a deciziilor al Atom](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm privind [procesul de luare a deciziilor al Atom](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
 Chiar dacă nu adopți de fapt un proces de căutare a consensului, în calitate de întreținător de proiect, este important ca oamenii să știe că asculți. A face alți oameni să se simtă auziți, și a te angaja să le rezolvi îngrijorările, merge mult spre a împrăștia situațiile sensibile. Apoi, urmează-ți cuvintele cu acțiuni.
 
-Nu te grăbi să iei o decizie de dragul de a avea o soluționare. Asigură-te că toți se simt auziți și că toate acele informații au fost făcute publice înainte de a înainta către o soluționare.
+Nu te grăbi să iei o decizie de dragul de a avea o soluționare. Asigură-te că toți se simt auziți și că toate acele informații au fost făcute publice înainte de a înainta către o rezoluție.
 
 ### Menține conversația axată pe acțiune
 
