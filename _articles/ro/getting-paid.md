@@ -17,7 +17,7 @@ related:
 
 ## De ce unii oameni caută sprijin financiar
 
-O mare parte din munca open source este voluntară. De exemplu, cineva ar putea da peste un bug într-un proiect pe care-l folosește și să trimită o reparație rapidă, sau ar putea să se bucure să meșterească pe un proiect cu sursă deschisă în timpul său liber.
+O mare parte din munca open source este voluntară. De exemplu, cineva ar putea da peste un bug într-un proiect pe care îl folosește și să trimită o reparație rapidă, sau ar putea să se bucure să meșterească pe un proiect cu sursă deschisă în timpul său liber.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
@@ -36,9 +36,9 @@ O mare parte din munca open source este voluntară. De exemplu, cineva ar putea 
 
 Există multe motive pentru care o persoană nu ar dori să fie plătită pentru munca ei open source.
 
-* **Este posibil ca ea să aibă deja un loc de muncă cu normă întreagă pe îl iubește,** ceea ce îi permite să contribuie la open source în timpul liber.
-* **Ea se bucură de a gândi despre open source ca despre un hobby** sau ca despre o evadare creativă și nu vrea să se simtă obligată financiar să lucreze pe proiectele sale.
-* **Ea obține alte beneficii de la contribuirea pe open source,** cum ar fi construirea reputației sau a portofoliului său, învățarea de noi abilități, sau a se simți mai aproape de comunitate.
+* **Este posibil ca ea să aibă deja un loc de muncă cu normă întreagă pe care îl iubește,** ceea ce îi permite să contribuie la open source în timpul liber.
+* **Ea se bucură de a gândi la open source ca la un hobby** sau ca despre o evadare creativă și nu vrea să se simtă obligată financiar să lucreze pe proiectele sale.
+* **Ea obține alte beneficii de la contribuirea pe open source,** cum ar fi construirea reputației sau a portofoliului său, învățarea de noi abilități, sau se simte mai aproape de comunitate.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
@@ -62,7 +62,7 @@ Pentru alții, în special când contribuțiile sunt în curs de desfășurare s
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    Întreabă oricare întreținător de proiect cu sursă deschisă, și ei îți vor spune de realitatea cantității de muncă ce merge în gestionarea unui proiect. Ai clienți. Rezolvi probleme pentru ei. Creezi noi facilități. Aceasta devine o reală cerere din timpul tău.
+    Întreabă oricare întreținător de proiect cu sursă deschisă, și el îți va spune de realitatea cantității de muncă ce merge în gestionarea unui proiect. Ai clienți. Rezolvi probleme pentru ei. Creezi noi facilități. Aceasta devine o reală cerere din timpul tău.
   </p>
   <p>
     <em>
@@ -97,7 +97,7 @@ Dacă ești în căutare de sprijin financiar, există două căi pe care să le
 
 Astăzi, mulți oameni sunt plătiți să lucreze cu normă parțială sau întreagă pe open source. Cea mai obișnuită modalitate de a fi plătit pentru timpul tău este să vorbești cu angajatorul tău.
 
-Este mai ușor să faci un caz pentru muncă open source dacă angajatorul tău folosește de fapt proiectul, dar devino creativ cu pasul tău. Poate angajatorul tău nu folosește proiectul, dar ei folosesc Python, și întreținerea unui proiect popular Python ajută la atragerea de noi dezvoltatori Python. Poate îl face pe angajatorul tău să arate mai prietenos cu dezvoltatorii în general.
+Este mai ușor să faci un caz pentru muncă open source dacă angajatorul tău folosește de fapt proiectul, dar devino creativ cu pasul tău. Poate angajatorul tău nu folosește proiectul, dar el folosește Python, și întreținerea unui proiect popular Python ajută la atragerea de noi dezvoltatori Python. Poate îl face pe angajatorul tău să arate mai prietenos cu dezvoltatorii în general.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
@@ -120,7 +120,7 @@ Multe companii dezvoltă programe open source pentru a-și construi marca și a 
 
 @hueniverse, de exemplu, a constatat că există motive financiare pentru a justifica [investiția Walmart în open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Și @jamesgpearce a constatat că programul open source al Facebook [a făcut o diferență](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) în recrutare:
 
-> Este strâns aliniată cu cultura noastră a hackerilor, și cu felul în care organizația noastră a fost percepută. Ne-am întrebat angajații, „Ai fost conștient de programul software open source la Facebook?”. Două treimi au zis „Da”. O jumătate a zis că programul a contribuit în mod pozitiv la decizia de a lucra pentru noi. Acestea nu sunt numere marginale, și eu sper, o tendință care continuă.
+> Este strâns aliniată cu cultura noastră a hackerilor, și cu felul în care organizația noastră a fost percepută. Ne-am întrebat angajații, „Ai fost conștient de programul software open source la Facebook?”. Două treimi au zis „Da”. O jumătate a zis că programul a contribuit în mod pozitiv la decizia de a lucra pentru noi. Acestea nu sunt numere marginale, ci, sper eu, o tendință care continuă.
 > 
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
@@ -160,7 +160,7 @@ Proiectele care provin de la o companie mare, cum ar fi [Go](https://github.com/
 
 ## Găsirea de finanțare pentru proiectul tău
 
-Dinolo de aranjamente pentru contributori individuali, uneori proiectele strâng bani de la companii, indivizi, sau alții pentru a finanța muncă în derulare.
+Dincolo de aranjamente pentru contributori individuali, uneori proiectele strâng bani de la companii, indivizi, sau alții pentru a finanța muncă în derulare.
 
 Finanțarea organizațională ar putea să vină în favoarea contributorilor actuali, acoperind costurile de derulare a proiectului (cum ar fi taxe de găzduire), sau în favoarea investirii în noi facilități și idei.
 
@@ -181,7 +181,7 @@ Depinzând de proiectul tău, ai putea să taxezi sprijin comercial, opțiuni de
 
 * **[Sidekiq](https://github.com/mperham/sidekiq)** oferă versiuni plătite pentru asistență în plus
 * **[Travis CI](https://github.com/travis-ci)** oferă versiuni plătite ale produsului său
-* **[Ghost](https://github.com/TryGhost/Ghost)** este un nonprofit cu un serviciu plătit gestionat
+* **[Ghost](https://github.com/TryGhost/Ghost)** este un nonprofit cu un serviciu gestionat plătit
 
 Unele proiecte populare, cum ar fi [npm](https://github.com/npm/npm) și [Docker](https://github.com/docker/docker), chiar strâng capital de risc pentru a susține creșterea afacerii lor.
 
