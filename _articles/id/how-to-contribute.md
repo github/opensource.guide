@@ -445,7 +445,7 @@ Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah lap
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Anda akan belajar <em>banyak</em> dari proyek yang Anda gunakan secara aktif, "melihatnya" pada GitHub dan membaca semua laporan masalah dan PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon on joining projects
   </p>
 </aside>
 
