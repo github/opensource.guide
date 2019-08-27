@@ -127,7 +127,7 @@ Exemple de măsurători ale comunității pe care ai putea dori să le urmăreș
 
 [Cercetări de la Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) sugerează că această capacitate de reacție a întreținătorilor este un factor critic în încurajarea contribuțiilor repetate.
 
-Ia în considerare urmărirea a cât de mult durează pentru tine (sau alt întreținător) să răspunzi contribuțiilor, fie o problemă, fie o cerere de pull. A răspunde nu necesită luarea de măsuri. Poate fi atât de simplu ca a spune: _„Mersi pentru înregistrare! O voi revizui pe parcursul săptămânii viitoare.”_
+Ia în considerare urmărirea a cât de mult durează pentru tine (sau pentru alt întreținător) să răspunzi contribuțiilor, fie o problemă, fie o cerere de pull. A răspunde nu necesită luarea de măsuri. Poate fi atât de simplu ca a spune: _„Mersi pentru înregistrare! O voi revizui pe parcursul săptămânii viitoare.”_
 
 Ai putea de asemenea măsura timpul necesar pentru a trece între etapele din procesul de contribuție, cum ar fi:
 
