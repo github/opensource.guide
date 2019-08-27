@@ -551,7 +551,7 @@ Wenn Sie einen substantiellen Beitrag leisten wollen, öffnen Sie eine Issue, be
   _You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR._
 
 <p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon on joining projects
   </p>
 </aside>
 
