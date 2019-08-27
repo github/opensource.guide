@@ -39,7 +39,7 @@ GEM
       jekyll-commonmark-ghpages (= 0.1.5)
       jekyll-default-layout (= 0.1.4)
       jekyll-feed (= 0.11.0)
-      jekyll-gist (= 1.5.0)
+      jekyll-gist (= 1.5.1)
       jekyll-github-metadata (= 2.12.1)
       jekyll-mentions (= 1.4.1)
       jekyll-optional-front-matter (= 0.3.0)
