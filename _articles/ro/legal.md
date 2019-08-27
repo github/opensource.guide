@@ -55,7 +55,7 @@ Când creezi un nou proiect pe GitHub, ți se va [cere să adaugi o licență](h
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    O licență standardizată servește ca un împuternicit pentru aceia fără pregătire juridică să știe exact ce ei pot și ce nu pot face cu software-ul. Decât dacă este absolut necesar, evită termeni personalizați, modificați, sau non-standard, care vor servi ca o barieră pentru utilizarea în aval a codului agentului.
+    O licență standardizată servește ca un împuternicit pentru aceia fără pregătire juridică să știe exact ce pot ei și ce nu pot face cu software-ul. Dacă nu sunt absolut necesari, evită termeni personalizați, modificați, sau non-standard, care vor servi ca o barieră pentru utilizarea în aval a codului agentului.
   </p>
   <p>
     <em>
