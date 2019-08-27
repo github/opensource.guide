@@ -75,13 +75,13 @@ Un întreținător nu trebuie să fie neapărat cineva care scrie cod pentru pro
 
 ## Cum formalizez aceste roluri de conducere?
 
-Formalizarea rolurilor de conducere ajută oamenii să se simtă proprietari și spune celorlalți membri de comunitate pe cine să caute pentru ajutor.
+Formalizarea rolurilor de conducere ajută oamenii să se simtă proprietari și spune celorlalți membri ai comunității pe cine să caute pentru ajutor.
 
 Pentru un proiect mai mic, desemnarea liderilor poate fi atât de simplă ca adăugarea numelor lor la fișierul tău text README sau CONTRIBUTORS.
 
 Pentru un proiect mai mare, dacă ai un site web, creează o pagină a echipei sau listează liderii proiectului tău acolo. De exemplu, [Postgres](https://github.com/postgres/postgres/) are o [pagină cuprinzătoare a echipei](https://www.postgresql.org/community/contributors/) cu profiluri scurte pentru fiecare contributor.
 
-Dacă proiectul tău are comunitate de contributori foarte activă, ai putea să formezi o „echipă de bază” a întreținătorilor, sau chiar subcomitete ale oamenilor care preiau conducerea unor domenii de probleme diferite (de exemplu, securitate, trierea problemelor, sau conduita comunității). Lasă oamenii să se autoorganizeze și să aplice pentru voluntariat în rolurile de care sunt cei mai încântați, în loc să li le atribui.
+Dacă proiectul tău are o comunitate de contributori foarte activă, ai putea să formezi o „echipă de bază” a întreținătorilor, sau chiar subcomitete ale oamenilor care preiau conducerea unor domenii de probleme diferite (de exemplu, securitate, trierea problemelor, sau conduita comunității). Lasă oamenii să se autoorganizeze și să aplice pentru voluntariat în rolurile de care sunt cei mai încântați, în loc să li le atribui.
 
 <aside markdown="1" class="pquote">
   <p>
@@ -155,7 +155,7 @@ Dacă ești parte dintr-o companie care lansează un proiect cu sursă deschisă
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   <p>
-    Desemnăm echipe mici să gestioneze proiectele pe GitHub care lucrează de fapt pe acestea la Facebook. De exemplu, React este condus de un inginer React.
+    Desemnăm echipe mici, să gestioneze proiectele pe GitHub, echipe care lucrează de fapt pe aceste proiecte la Facebook. De exemplu, React este condus de un inginer React.
   </p>
   <p>
     <em>
@@ -175,7 +175,7 @@ Pe măsură ce proiectul este utilizat pe scară mai largă, oamenii care au exp
 
 Este important să tratezi activitatea comercială ca normală și exact ca pe o altă sursă de energie de dezvoltare. Dezvoltatorii plătiți nu ar trebui să primească tratament special în comparație cu cei neplătiți, de sigur; fiecare contribuție trebuie să fie evaluată pe baza meritelor ei tehnice. Totuși, oamenii ar trebui să se simtă confortabil cu angajarea în activitate comercială, și să se simtă confortabil când își afirmă cazurile de utilizare când argumentează în favoarea unei anumite îmbunătățiri sau facilități.
 
-„Comercial” este complet compatibil cu „sursă deschisă”. „Comercial” doar înseamna că acolo undeva sunt bani implicați - că softul este folosit în comerț, ceea ce este din ce în ce mai probabil pe măsură ce un proiect devine mai adoptat. (Când un soft cu sursă deschisă este folosit ca parte dintr-un produs cu sursă nedeschisă, produsul în ansamblu este încă soft „proprietar”, deși, la fel ca sursa deschisă, el poate fi folosit pentru scopuri comerciale sau necomerciale.)
+„Comercial” este complet compatibil cu „sursă deschisă”. „Comercial” doar înseamna că acolo undeva sunt bani implicați - că softul este folosit în comerț, ceea ce este din ce în ce mai probabil pe măsură ce un proiect devine mai adoptat. (Când un soft cu sursă deschisă este folosit ca parte dintr-un produs cu sursă nedeschisă, produsul în ansamblu este încă soft „proprietar”, totuși, la fel ca sursa deschisă, el poate fi folosit pentru scopuri comerciale sau necomerciale.)
 
 La fel ca oricine altcineva, dezvoltatorii motivați comercial câștigă influență în proiect prin calitatea și cantitatea contribuțiilor lor. În mod evident, un dezvoltator care este plătit pentru timpul său ar putea să facă mai mult decât cineva care nu este plătit, dar asta este OK: plata este doar unul dintre posibilii factori care ar putea afecta cât face cineva. Păstrează-ți discuțiile de proiect concentrate pe contribuții, nu pe factorii externi care dau posibilitatea oamenilor să facă aceste contribuții.
 
