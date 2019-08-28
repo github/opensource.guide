@@ -445,7 +445,7 @@ related:
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
   只要你踊躍的使用 watching ，在 GitHub 上密切觀察專案，並閱讀每一個 issue 和 PR，你會從你積極參與的專案中學到 <em>很多</em> 。
 <p markdown="1" class="pquote-credit">
-— @gaearon 參與專案
+— @gaearon [參與專案](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 

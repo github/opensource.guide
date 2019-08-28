@@ -445,7 +445,7 @@ related:
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   你能够从单个的项目学习到 <em>很多</em> ，只要你踊跃的去使用，在GitHub上密切观察项目，并阅读每一个 issue 和 PR。
 <p markdown="1" class="pquote-credit">
-— @gaearon 参与项目
+— @gaearon [参与项目](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 

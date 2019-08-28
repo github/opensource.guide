@@ -449,7 +449,7 @@ Si vous voulez apporter une contribution substantielle, ouvrez une issue pour de
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Vous apprendrez <em>beaucoup</em> à prendre un seul projet que vous utilisez activement, à le «regarder» sur GitHub et à lire toutes les issues et PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon on joining projects
+— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
