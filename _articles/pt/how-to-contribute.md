@@ -446,7 +446,7 @@ Se você quiser fazer uma contribuição substancial, abra uma issue para pergun
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Você aprenderá <em>muito</em> analizando um projeto que você usa ativamente, "vigiando" ele no GitHub e lendo as issues e PR.
 <p markdown="1" class="pquote-credit">
-— @gaearon on joining projects
+— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
