@@ -512,7 +512,7 @@ Dacă dorești să faci o contribuție substanțială, deschide o problemă și 
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @gaearon despre alăturarea la proiecte
+— @gaearon [despre alăturarea la proiecte](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
