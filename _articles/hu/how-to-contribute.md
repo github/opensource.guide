@@ -437,7 +437,7 @@ Ha nem találod meg a felvetést sehol, akkor mehetsz tovább. Ha a projekt a Gi
 
 * **Issues** (hiba, észrevétel) olyanok mint egy párbeszéd, vagy egy megbeszélés
 * **Pull requests** (beolvasztási kérelem) szolgál a munka megkezdésére
-* **Egyszerű kommunikációra,** például tisztázó- vagy a 'Hogyan...' kérdésekre használd a Stack Overflow-t, IRC-t, Slack-et vagy egyéb rendelkezésre álló csevegő csatornát, ha van ilyen a projektben
+* **Egyszerű kommunikációra,** például tisztázó- vagy a "Hogyan..." kérdésekre használd a Stack Overflow-t, IRC-t, Slack-et vagy egyéb rendelkezésre álló csevegő csatornát, ha van ilyen a projektben
 
 Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet benyújtanál, ellenőrizd a projektben való részvételről szóló dokumentációt (ezt gyakran a CONTRIBUTING vagy a README tartalmazza), mert lehetséges, hogy mellékelned kell valamilyen specifikus információt is. Például, a projekt kérheti azt, hogy egy űrlapot tölts ki, vagy megkövetelheti a teszteket.
 
