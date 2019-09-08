@@ -45,7 +45,7 @@ Working with others on a shared project means you'll have to explain how you do 
 
 ### Build public artifacts that help you grow a reputation (and a career)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+By definition, all offdfsdfs your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
 
 ### Learn people skills
 
