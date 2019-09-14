@@ -9,7 +9,7 @@ function loadLanguage(lang) {
   if (lang === "en") {
     url = base_pathname
   } else {
-    url = base_pathname + lang
+    url = "/" + lang + base_pathname
   }
   window.location.assign(url);
 }

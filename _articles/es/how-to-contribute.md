@@ -497,7 +497,7 @@ Si no tuviste una respuesta en m&aacute;s de una semana, es justo responder en e
 
 **No contactes a esa persona** de manera privada; recuerda que las comunicaciones p&uacute;blicas son vitales para los proyectos de c&oacute;digo abierto.
 
-Si haces una llamada educada y todav&iacute;a nadie responde, es posible que nadie te responda jam&aacute;s. No es un sentimiento agradable, pero no dejes que de desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, &eacute;sta es una buena raz&oacute;n para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que est&aacute;n comprometidos y responden.
+Si haces una llamada educada y todav&iacute;a nadie responde, es posible que nadie te responda jam&aacute;s. No es un sentimiento agradable, pero no dejes que te desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, &eacute;sta es una buena raz&oacute;n para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que est&aacute;n comprometidos y responden.
 
 ### 🚧 Alguien pide cambios a tu colaboraci&oacute;n.
 
