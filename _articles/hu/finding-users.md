@@ -79,7 +79,7 @@ Nézzük, hogyan lehet megtalálni a lényeges helyeket, ahol megoszthatod a pro
 
 * **Ismerd meg a kapcsolódó nyílt forráskódú projekteket és közösségeket.** Néha nem kell közvetlenül hirdetni a projekted. Ha a projekt tökéletes a Python-t használó adathalmaz kutatók számára, ismerkedj meg a Python adatkutató közösséggel. Amint az emberek megismernek, természetes lehetőség adódik a beszélgetésre és arra, hogy megoszd velük a munkád eredményét.
 * **Találd meg azokat az embereket, akiknek a problémájára megoldást kínál a projekted.** Nézd át a kapcsolódó fórumokat, hogy megtaláld azokat az embereket, akik a projekted közönségét alkothatják. Válaszold meg a kérdéseiket és ha lehetséges, tapintatosan ajánld fel a projektedet megoldásként.
-* **Kérj visszajelzést.** Mutasd be magadat és amunkádat egy olyan közösségnek, amelyik érdekesnek találhatja azt. Legyél konkrét abban, hogy szerinted kinek hasznos a projekted. Próbáld így befejezni a mondatod: _"Úgy gondolom, hogy a projektem tényleg nagyon hasznos X csoportnak, akik az Y problémát akarják megoldani_". Hallgasd meg és válaszolj mások észrevételére, ne csak bemutató előadás legyen a projektedről.
+* **Kérj visszajelzést.** Mutasd be magadat és a munkádat egy olyan közösségnek, amelyik érdekesnek találhatja azt. Legyél konkrét abban, hogy szerinted kinek hasznos a projekted. Próbáld így befejezni a mondatod: _"Úgy gondolom, hogy a projektem tényleg nagyon hasznos X csoportnak, akik az Y problémát akarják megoldani_". Hallgasd meg és válaszolj mások észrevételére, ne csak bemutató előadás legyen a projektedről.
 
 Általánosságban: fókuszálj mások megsegítésére mielőtt bármit is kérsz. Mivel bárki képes online egy projektet bemutatni, ezért sok lesz a zaj. Ahhoz, hogy kitűnj a tömegből, az embereknek meg kell érteniük, hogy ki is vagy és nem csak azt, hogy mit akarsz.
 
@@ -89,7 +89,7 @@ Ha senki sem figyel fel vagy válaszol az első kísérletedre, ne add fel! A le
 
 ![Előadás](/assets/images/finding-users/public_speaking.jpg)
 
-A projektek népszerűsítésének népszerű módja, ha egy off-line eseményen mutatod be őket. Ez nagyszerű módja annak, hogy elérjed az elkötelezett közönséget, és mélyebb emberi kapcsolatokat építs ki különösen, ha érdekelt vagy a fejlesztők elérésében.
+A projektek népszerűsítésének gyakori módja, ha egy off-line eseményen mutatod be őket. Ez nagyszerű módja annak, hogy elérjed az elkötelezett közönséget, és mélyebb emberi kapcsolatokat építs ki különösen, ha érdekelt vagy a fejlesztők elérésében.
 
 Ha teljesen [új vagy az előadásban](https://speaking.io/), keress egy helyi szakmai találkozót (meetup) amely kapcsolódik a projekted témájához vagy programnyelvéhez.
 
