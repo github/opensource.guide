@@ -101,7 +101,7 @@ A nagy cégektől származó projektek, mint a [Go](https://github.com/golang) v
 
 A személyes körülményeidtől függően megpróbálhatsz önállóan pénzt gyűjteni a nyílt forráskódú munkád finanszírozásához. Például:
 
-* @gaearon a [Redux](https://github.com/reactjs/redux) projektet egy [Patreon crowdfunding kampányon](https://redux.js.org/) keresztül funanszírozta (önkéntes támogatás)
+* @gaearon a [Redux](https://github.com/reactjs/redux) projektet egy [Patreon crowdfunding kampányon](https://redux.js.org/) keresztül finanszírozta (önkéntes támogatás)
 * @andrewgodwin a Django schema migrációkat [egy Kickstarter kampányon keresztül](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) finanszírozta.
 
 Végül, néha a nyílt forráskódú projektek díjakat tűznek ki a hibák megoldására, amelyekkel kapcsolatban akár érdemes lehet segítséget nyújtani.
