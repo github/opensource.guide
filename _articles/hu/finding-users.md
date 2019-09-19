@@ -133,7 +133,7 @@ A fent vázolt stratégiák mellett a legjobb módja annak, hogy részvételre b
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  Az egyetlen oka annak, hogy az urllib3 a legnépszerűbb független Python csomag ma az, hogy a <a href="(https://github.com/kennethreitz/requests)">requests</a> csomag részévé vált.
+  Az egyetlen oka annak, hogy az urllib3 a legnépszerűbb független Python csomag ma az, hogy a requests csomag részévé vált.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
