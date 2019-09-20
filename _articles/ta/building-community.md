@@ -113,10 +113,10 @@ related:
 இந்த வகையான மக்களிடம் சகிப்பின்மையை கடைப்பிடிப்பது சிறந்தது. இதை தடுக்காமல் விட்டுவிட்டால், எதிர்மறையான மக்கள் உங்கள் சமூகத்தில் பிறருக்கு சங்கடத்தை ஏற்படுத்தலாம். அவர்கள் விலக கூட நேரிடலாம்.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   உண்மை என்னவென்றால் ஒரு ஆதரவான சமூகம் இருப்பது முக்கியமானது. என் சக பணியாளர்கள், நட்பு இணைய அந்நியர்கள் மற்றும் வம்பளக்கிற ஐ.ஆர்.சி. சேனல்கள் ஆகியோரின் உதவியின்றி இந்த வேலையை நான் செய்ய முடியாது. (...) குறைவாக குடியேறாதீர்கள். அறிவில்லாதவர்களை பொறுத்துக்கொள்ள தேவையில்லை.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["ஒரு FOSS திட்டத்தை எவ்வாறு இயக்க வேண்டும்"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["ஒரு FOSS திட்டத்தை எவ்வாறு இயக்க வேண்டும்"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
