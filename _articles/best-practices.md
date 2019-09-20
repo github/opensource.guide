@@ -242,6 +242,7 @@ There are a [variety of tools available](https://github.com/showcases/tools-for-
 * [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
 * [Danger](https://github.com/danger/danger) helps automate code review
 * [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
 
 For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
 
