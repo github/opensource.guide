@@ -1,8 +1,8 @@
 ---
-lang: en
+lang: tr
 title: Açık Kaynak Ölçümleri
-description: Make informed decisions to help your open source project thrive by measuring
-  and tracking its success.
+description: Açık kaynaklı projenizin başarısını ölçüp izleyerek gelişmesine yardımcı
+  olmak için bilinçli kararlar alın.
 class: metrics
 toc:
   why-measure-anything: Neden her şeyi ölçmeli?
@@ -13,7 +13,7 @@ toc:
 order: '9'
 image: "/assets/images/cards/metrics.png"
 related:
-- finding
+- bulgu
 - örnek yöntemler
 ---
 
@@ -21,16 +21,16 @@ related:
 
 Veriler akıllıca kullanıldığında, açık kaynaklı bir geliştirici olarak daha iyi kararlar almanıza yardımcı olabilir.
 
-With more information, you can:
+Daha fazla bilgi ile şunları yapabilirsiniz:
 
-- Understand how users respond to a new feature
+- Kullanıcıların yeni bir özelliğe nasıl yanıt verdiğini anlama
 - Yeni kullanıcıların nereden geldiğini bulma
 - Bir aykırı kullanım senaryosunu veya işlevselliğini belirleme ve destekleyip desteklememeye karar verme
 - Projenizin popülaritesini ölçme
 - Projenizin nasıl kullanıldığını anlama
 - Sponsorluklar ve bağışlar yoluyla para toplama
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+Örneğin, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) , Google Analytics’in çalışmalarına öncelik vermelerine yardımcı olduğunu buluyor:
 
 > Homebrew ücretsiz olarak verilmektedir ve tamamen boş zamanlarında gönüllüler tarafından geliştirilmektedir. Sonuç olarak, gelecekteki özellikleri en iyi nasıl tasarlayacağınıza ve mevcut çalışmaya öncelik vereceğimize karar vermek için Homebrew kullanıcılarının detaylı kullanıcı çalışmalarını yapacak kaynaklara sahip değiliz. Anonim toplam kullanıcı analitiği, insanların Homebrew'i nasıl, nerede ve ne zaman kullandıklarına dayanarak düzeltmeleri ve özellikleri öncelik sırasına koymamızı sağlar.
 
@@ -46,15 +46,15 @@ Herhangi biriniz projenizi kullanmadan veya katkıda bulunmadan önce, onun var 
 
 Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü ve nereden geldikleri [görüntüleyebilirsiniz](https://help.github.com/articles/about-repository-graphs/#traffic). Projenizin sayfasından "Trendler" menüsünü, ardından "Trafik" alt menüsünü tıklayın. Bu sayfada şunları görebilirsiniz:
 
-- **Total page views:** Tells you how many times your project was viewed
+- **Toplam sayfa görüntüleme:** Projenizin kaç kez görüntülendiğini gösterir
 
 - **Toplam tekil ziyaretçi:** Projenizi kaç kişinin görüntülediğini gösterir
 
-- **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+- **Yönlendiren siteler:** Ziyaretçilerin nereden geldiğini gösterir. Bu ölçüm, hedef kitlenize nerede ulaşacağınızı ve tanıtım çalışmalarınızın işe yarayıp yaramadığını çözmenize yardımcı olabilir.
 
 - **Popüler içerik:** Ziyaretçilerin projenizde nereye gittiğini, sayfa görünümlerine ve benzersiz ziyaretçilere göre ayrıldığını gösterir.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub yıldızları](https://help.github.com/articles/about-stars/) ayrıca temel bir popülarite ölçüsü sağlamaya yardımcı olabilir. GitHub yıldızları, indirmeler ve kullanımla mutlaka ilişkilendirilmezken, size kaç kişinin çalışmanızdan haberdar olduğunu söyleyebilirler.
 
 [Belirli yerlerdeki keşfedilebilirliği izlemek](https://opensource.com/business/16/6/pirate-metrics) isteyebilirsiniz: örneğin, Google PageRank, projenizin web sitesinden yönlendirilen trafik veya diğer açık kaynaklı projelerden veya web sitelerinden gelen yönlendirmeler.
 
@@ -62,7 +62,7 @@ Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü
 
 İnsanlar projenizi internet dediğimiz bu vahşi ve çılgın şey üzerinde buluyorlar. İdeal olarak, projenizi gördüklerinde, bir şeyler yapmaya zorlanırlar. Sormak isteyeceğiniz ikinci soru şudur: *insanlar bu projeyi kullanıyorlar mı?*
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Projenizi dağıtmak için npm veya RubyGems.org gibi bir paket yöneticisi kullanıyorsanız, projenizin indirmelerini takip edebilirsiniz.
 
 Her paket yöneticisi "indirme" nin biraz farklı bir tanımını olabilir ve indirme işlemleri kurulum veya kullanım ile mutlaka ilişkili değildir, ancak karşılaştırma için bazı temel bilgiler sağlar. Birçok popüler paket yöneticisinde kullanım istatistiklerini izlemek için [Libraries.io](https://libraries.io/) servisini kullanmayı deneyin.
 
@@ -70,14 +70,14 @@ Projeniz GitHub'daysa, tekrar "Trafik" sayfasına gidin. [Klon grafiğini](https
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Kullanım, projenizi keşfeden kişi sayısına kıyasla düşükse, göz önünde bulundurulması gereken iki husus vardır. Ya:
 
 - Projeniz kitlenizi başarıyla dönüştüremiyor ya
-- You're attracting the wrong audience
+- Yanlış kitleyi çekiyorsun
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+Örneğin, projeniz Hacker News’in ön sayfasına girerse, muhtemelen keşifte (trafik) bir artış göreceksiniz, ancak Hacker News’deki herkese ulaştığınız için daha düşük bir dönüşüm oranı göreceksiniz. Ancak, Ruby projeniz bir Ruby konferansında tanıtılıyorsa, hedef kitleden yüksek bir dönüşüm oranı görmeniz daha olasıdır.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Kitlenizin nereden geldiğini anlamaya çalışın ve bu iki sorunun hangisiyle karşılaştığınızı anlamak için proje sayfanızdan geri bildirim isteyin.
 
 İnsanların projenizi kullandığını öğrendikten sonra, onunla ne yaptığını anlamaya çalışmak isteyebilirsiniz. Kodunuzu yazıp özellikleri ekleyerek üzerine mi inşa ediyorlar? Akademik çalışma ya da iş için mi kullanıyorlar?
 
@@ -91,7 +91,7 @@ Akılda tutulma, daha önce aktif olan katılımcılar eninde sonunda başka şe
 
 Düzenli olarak izlemek isteyebileceğiniz topluluk ölçümleri örnekleri şunlardır:
 
-- **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+- **Katkıda bulunan toplam katılımcı sayısı ve komisyon sayısı:** Ne kadar katılımcının bulunduğunu ve kimin ya da daha az aktif olduğunu gösterir. GitHub'da bunu "Insights" -> "Katkıda Bulunanlar" altında görebilirsiniz. Şu anda, bu grafik yalnızca deponun varsayılan koluna bağlı olan katılımcıları sayar.
 
 ![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
@@ -115,13 +115,13 @@ Tepki vermeyen geliştiriciler açık kaynaklı projeler için bir el freni hali
 
 Bir sorunun ya da PR talebinin katkısına yanıt vermenizin (veya başka bir geliştiricinin) ne kadar sürdüğünü takip edin. Yanıt vermek, harekete geçmek gerektirmez. Şunu söylemek kadar basit olabilir: *"Gönderiminiz için teşekkürler! Bunu önümüzdeki hafta içinde gözden geçireceğim."*
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+Ayrıca, katkı sürecindeki aşamalar arasında geçiş için geçen süreyi ölçebilirsiniz, örneğin:
 
-- Average time an issue remains open
+- Bir sorunun açık kaldığı ortalama süre
 - Sorunların PR'ler ile kapatılıp kapatılmadığı
 - Eski sorunların kapatılıp kapatılmadığı
 - Bir PR isteğini birleştirmek için ortalama süre
 
-## Use 📊 to learn about people
+## İnsanlar hakkında bilgi edinmek için 📊 kullanın.
 
 Ölçümleri anlamak, aktif ve büyüyen bir açık kaynaklı proje oluşturmanıza yardımcı olacaktır. Bir gösterge panosundaki her bir ölçümü izlemeseniz bile, dikkatinizi projenizin gelişmesine yardımcı olacak davranış türüne odaklamak için yukarıdaki çerçeveyi kullanın.
