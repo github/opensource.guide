@@ -6,49 +6,49 @@ description: Belgelendirme işlemlerinden topluluğunuzu güçlendirmeye kadar a
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: Geliştirici olmak ne demektir?
-  documenting-your-processes: Documenting your processes
-  learning-to-say-no: Learning to say no
-  leverage-your-community: Leverage your community
-  bring-in-the-robots: Bring in the robots
-  its-okay-to-hit-pause: It’s okay to hit pause
+  documenting-your-processes: İşlemlerinizi belgelemek
+  learning-to-say-no: Hayır demeyi öğrenme
+  leverage-your-community: Topluluğunuzdan yararlanın
+  bring-in-the-robots: Robotları getirin
+  its-okay-to-hit-pause: Duraklatmak sorun değil
 order: '5'
 image: "/assets/images/cards/best-practices.png"
 related:
 - ölçümler
-- leadership
+- liderlik
 ---
 
 ## Geliştirici olmak ne demektir?
 
 Birçok insanın kullandığı açık kaynaklı bir projeyi sürdürürseniz, daha az kodladığınızı ve sorunlara daha fazla cevap verdiğinizi fark etmiş olabilirsiniz.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+Bir projenin ilk aşamalarında, yeni fikirleri deniyor ve istediğinizi temel alan kararlar alıyorsunuz. Projeniz popülerlik arttıkça, kendinizi kullanıcılarınız ve katkıda bulunanlarınızla daha fazla çalışırken bulabilirsiniz.
 
 Bir projeyi sürdürmek kod yazmaktan daha fazlasını gerektirir. Bu görevler genellikle beklenmedik bir durum değildir, ancak büyümekte olan bir proje için de aynı derecede önemlidir. Yaşamınızı kolaylaştırmak için, belgeleme işlemlerinden topluluğunuzu güçlendirmeye kadar birkaç yol bulduk.
 
-## Documenting your processes
+## İşlemlerinizi belgelemek
 
 Her şeyi yazı hale getirmek, geliştirici olarak yapabileceğiniz en önemli şeylerden biridir.
 
 Dokümantasyon sadece kendi düşüncelerinizi netleştirmekle kalmaz, diğer kişilerin size sormadan önce neye ihtiyacınız olduğunu veya ne beklediğinizi anlamalarına yardımcı olur.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Bir şeyler yazmak, bir şey sizin kapsamınıza uymadığında hayır demeyi kolaylaştırır. Ayrıca insanların girip yardım etmesini kolaylaştırır. Projenizi kimlerin okuyup kullanabileceğini asla bilemezsiniz.
 
 Geniş paragraflar kullanmasanız da, madde imleri kullanarak not almak bile, yazmaktan daha iyidir.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+Belgelerinizi güncel tutmayı unutmayın. Bunu her zaman yapamıyorsanız, eski belgelerinizi silin veya eski olduğunu belirtin; böylece katkıda bulunanlar güncellemelerin memnuniyetle karşılandığını bilir.
 
-### Write down your project's vision
+### Projenizin vizyonunu yazın
 
 Projenizin hedeflerini yazarak başlayın. Bunları README'nize ekleyin veya VISION adlı ayrı bir dosya oluşturun. Bir proje yol haritası gibi, yardımcı olabilecek başka çıktılar varsa, bunları da yayınlayabilirsiniz.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Net ve belgelenmiş bir vizyona sahip olmanız odaklanmanızı sağlar ve başkalarının katkılarından "kapsamın sürünmesini" önlemenize yardımcı olur.
 
 Örneğin, @lord, proje vizyonuna sahip olmanın, hangi ihtiyaç için zaman harcamaya ihtiyaç duyulacağını belirlemesine yardımcı olduğunu keşfetti. Yeni bir geliştirici olarak, [Slate](https://github.com/lord/slate) için ilk uzun metraj talebini aldığında, projesinin kapsamına uymadığı için pişmanlık duydu.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar"> Ben onu karmaşık buldum. Tam bir çözüm bulmak için çaba sarf etmedim. Yarım aşamalı bir çözüm yerine, "Şu an bunun için vaktim yok, ancak uzun vadede yapılacaklar listesine ekleyeceğim" demiş olsaydım keşke. <p markdown="1" class="pquote-credit"> - @lord, ["Yeni açık kaynak sağlayıcıları için ipuçları"] (https://lord.io/blog/2014/oss-tips/) </p></aside>
 
-### Communicate your expectations
+### Beklentilerinizi iletin
 
 Kurallar yazmak için sinir bozucu olabilir. Bazen başkalarının davranışlarına göz attığınızı ya da tüm eğlenceyi öldürdüğünüzü hissedebilirsiniz.
 
@@ -60,10 +60,10 @@ Bunların hepsi olabilir! Sadece başkalarının da bildiğinden emin ol.
 
 Projenizi yarı zamanlı veya tamamen gönüllü olarak sürdürmekteyseniz, ne kadar vaktiniz olduğu konusunda dürüst olun. Bu, projenin ne kadar zaman gerektirdiğini düşündüğünüzle veya başkalarının ne kadar zaman harcamanızı istediği ile aynı değildir.
 
-Here are a few rules that are worth writing down:
+Yazmaya değer birkaç kural:
 
 - Bir katkı nasıl gözden geçirilir ve kabul edilir ( *Testlere ihtiyaçları var mı? Bir sorun şablonu var mı?* )
-- The types of contributions you'll accept (*Do you only want help with a certain part of your code?*)
+- Kabul edeceğiniz katkı türleri ( *Kodunuzun yalnızca belirli bir bölümünde yardım mı istiyorsunuz?* )
 - Bekleme süresi ne kadardır (*örneğin, "7 gün içinde bir bakıcıdan bir yanıt bekleyebilirsiniz. O zamana kadar bir şey duymadıysanız, ipliğe ping atmaktan çekinmeyin."*)
 - Projeye ne kadar zaman harcıyorsunuz (*örneğin, "Bu projeye haftada sadece 5 saat harcıyoruz"*)
 
@@ -77,7 +77,7 @@ Diğer geliştiricilerle tanışırsanız veya özel olarak büyük bir karar ve
 
 Bu şekilde, topluluğunuza yeni katılan herhangi biri, yıllardır orada olan biriyle aynı bilgilere erişebilecektir.
 
-## Learning to say no
+## Hayır demeyi öğrenme
 
 Her şeyi yazdınız. İdeal olarak, herkes belgelerinizi okur, ancak gerçekte, bu bilginin var olduğunu başkalarına hatırlatmanız gerekecek.
 
@@ -93,7 +93,7 @@ Hayır demeyi uygulayacağınız en önemli yerlerden biri de, sorun ve istek s�
 
 Belki yapılan katkı projenizin kapsamını değiştiriyor veya vizyonunuza uymuyor. Belki fikir iyidir, ancak uygulama zayıftır.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Sebep ne olursa olsun, projenizin standartlarına uymayan katkıları titizlikle ele almak mümkündür.
 
 Kabul etmek istemediğiniz bir katkı alırsanız, ilk tepkiniz bunu görmezden gelmek veya görmemiş gibi yapmak olabilir. Bunu yapmak, diğer kişinin duygularına zarar verebilir ve hatta topluluğunuzdaki diğer potansiyel katılımcıların cesaretini kırabilir.
 
@@ -105,7 +105,7 @@ Kabul etmek istemediğinizi bildiğiniz katkıları derhal kapatmak daha iyidir.
 
 İkincisi, katkıları görmezden gelmek, topluluğunuz için olumsuz bir sinyal gönderir. Bir projeye katkıda bulunmak, özellikle birinin ilk defa olması durumunda korkutucu olabilir. Katkısını kabul etmeseniz bile, arkasındaki kişiyi kabul edin ve ilgileri için teşekkür ederiz. Onlar için bu büyük bir iltifat olur!
 
-If you don't want to accept a contribution:
+Bir katkı kabul etmek istemiyorsanız:
 
 - Katkılarından dolayı **teşekkür edin**.
 - **Neden proje kapsamına girmediğini açıklayın** ve mümkünse iyileştirme için net önerilerde bulunun. Nazik ama kararlı olun.
@@ -141,13 +141,13 @@ Bu yaklaşım ilk başta kaba görünebilir olsa da proaktif olmak her iki taraf
 
 Bazen, hayır dediğinizde, katkıda bulunan kişi kararınızdan dolayı kırılabilir veya sizi eleştirebilir. Davranışları düşmanca olursa, yapıcı bir şekilde işbirliği yapmaya istekli olmazlarsa [durumu etkisiz hale getirmek için adımlar atın](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) ve hatta onları topluluğunuzdan çıkarın.
 
-### Embrace mentorship
+### Mentorluğu benimseyin
 
 Belki de topluluğunuzdaki birileri düzenli olarak projenizin standartlarını karşılamayan katkılar sunar. Her iki tarafın da bu reddedilme süreçlerinden defalarca geçmesi sinir bozucu olabilir.
 
 Birinin projeniz için hevesli olduğunu ancak biraz el vermek gerektirdiğini görürseniz, sabırlı olun. Her durumda katkılarının neden projenin beklentilerini karşılamadığını açık bir şekilde açıklayın. Onları ellerini kirletmek için *"ilk iş için uygun"* olarak işaretlenmiş bir konu gibi daha kolay veya daha az belirsiz bir işe yönlendirmeyi deneyin. Vaktiniz varsa, ilk katkılarınla onlara mentor olmayı düşünün veya topluluğunuzda mentor olmaya istekli olabilecek başka birini bulun.
 
-## Leverage your community
+## Topluluğunuzdan yararlanın
 
 Her şeyi kendiniz yapmak zorunda değilsiniz. Projenizin topluluğunun olmasının bir nedeni var! Henüz aktif bir katkıda bulunan topluluğunuz olmasa bile, çok fazla kullanıcınız varsa, onları işe dahil edin.
 
@@ -161,7 +161,7 @@ Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar"> "Evet, herhangi biri katılabilir, çok fazla kodlama uzmanlığına sahip olmanız gerekmiyor" derdim. İnsanları [bir etkinliğe] katılmak için kaydettirdik ve o zaman gerçekten merak ediyordum: bu nasıl olacak? Ortada 40 kişi olacak ve her biriyle tek tek ilgilenemeyeceğim... Ama insanlar bir araya geldi ve birlikte çalıştı. Bir kişi öğrenir öğrenmez, yanındakine öğretebildi. <p markdown="1" class="pquote-credit"> - @lmccart, ["Açık Kaynak" Gerçekten Ne Demektir? P5.js Sürümü") (https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition -98c02d354b39) </p></aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Projenizden, ara sıra veya kalıcı olarak çıkmanız gerekirse, bir başkasının sizin için üstlenmesini istemek utanılacak bir şey değildir.
 
 Diğer insanlar yeni yön konusunda istekliyse, giriş yapmalarını sağlayın veya resmi olarak bir başkasına kontrolünü verin. Birisi projenizi çatalladı ve aktif olarak başka bir yerde sürdürüyorsa, orijinal projenizdeki çatalda bağlantı kurmayı düşünün. Bu kadar çok insanın projenizin devam etmesini istemesi harika bir şeydir!
 
@@ -169,25 +169,19 @@ Diğer insanlar yeni yön konusunda istekliyse, giriş yapmalarını sağlayın 
 
 > Ne istediğimi ve neden istediğimi anlatan bir wiki sayfası yazdım. Bir nedenden dolayı, bakıcıların projeyi bu yönde hareket ettirmeye başlaması bana sürpriz oldu! Tam olarak benim istediğim gibi mi oldu? Her zaman değil. Ama yine de projeyi yazdıklarımın yakınına getirdi.
 
-### Let others build the solutions they need
+### Başkalarının ihtiyaç duydukları çözümleri inşa etmelerine izin verin
 
 Potansiyel bir katılımcının projenizin ne yapması gerektiği konusunda farklı bir görüşü varsa, onları kendi çatalı üzerinde çalışmaya kibarca teşvik etmek isteyebilirsiniz.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Bir projeyi terk etmek kötü bir şey olmak zorunda değildir. Projeleri kopyalayıp değiştirebilmek, açık kaynak kodlu hakkında en iyi şeylerden biridir. Topluluk üyelerinizi kendi çatalı üzerinde çalışmaya teşvik etmek, projenizin vizyonuyla çelişmeden ihtiyaç duydukları yaratıcı çıkışı sağlayabilir.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
-  <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
-  </p>
-</aside>
+<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar"> % 80 kullanım durumunda kalıyorum. Eğer tek boynuzlu atlardan birisiyseniz, lütfen işimi hazırlayın. Kırılmayacağım! Kamu projelerim neredeyse her zaman en yaygın sorunları çözme amaçlıdır; İşimi yayarak ya da genişleterek daha derine inmeyi kolaylaştırmaya çalışıyorum. <p markdown="1" class="pquote-credit"> - @geerlingguy, ["Neden PR'leri Kapatıyorum"]] (https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes) </p></aside>
 
 Aynı şey, inşa edecek bant genişliğine sahip olmadığınız bir çözümü gerçekten isteyen bir kullanıcı için de geçerlidir. API'ler ve kişiselleştirme kancaları sunmak, kaynağını doğrudan değiştirmek zorunda kalmadan, başkalarının kendi ihtiyaçlarını karşılamasına yardımcı olabilir. @orta, CocoaPod'lar için teşvik edici eklentilerin "en ilginç fikirlerin bazılarına" yol açtığını [gördü](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) :
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> Bir proje büyükleştiğinde, bakımcılar yeni kodu nasıl girdikleri konusunda daha muhafazakar hale gelmek neredeyse kaçınılmazdır. Hayır demekte iyisin, ama birçok insanın meşru ihtiyaçları var. Bunun yerine aracınızı bir platforma dönüştürürsünüz.
 
-## Bring in the robots
+## Robotları getirin
 
 Tıpkı diğer insanların size yardımcı olabileceği görevler olduğu gibi, hiçbir insanın yapmaması gereken görevler de vardır. Robotlar senin arkadaşın. Hayatınızı kolaylaştırmak için bunları kullanın.
 
@@ -199,11 +193,11 @@ Testler, katkıda bulunanların hiçbir şeyi kırmayacaklarından emin olmalar�
 
 Tüm gelen katkılarda çalışacak otomatik testler ayarlayın ve testlerinizin katılımcılar tarafından kolayca yerel olarak çalıştırılabildiğinden emin olun. Tüm kod katkılarının gönderilmeden önce testlerinizi geçmesini şart koşun. Tüm gönderiler için minimum kalite standardı belirlenmesine yardımcı olmuş olacaksınız. GitHub'daki [zorunlu durum kontrolleri](https://help.github.com/articles/about-required-status-checks/) , testleriniz geçmeden değişiklik yapılmadan birleştirilmemesini sağlayabilir.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Testler eklerseniz, CONTRIBUTING dosyanızda nasıl çalıştıklarını açıkladığınızdan emin olun.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar"> İnsanların üzerinde çalıştığı tüm kodlar için testlerin gerekli olduğuna inanıyorum. Kod tamamen ve tamamen doğru olsaydı, değişikliğe ihtiyaç duymazdı - değişikliklerin yapılması gerektiğine - yalnızca bir şey yanlış olduğunda, "Çöktüğünde" ya da "Böyle ve böyle bir özellikten yoksun" olduğunda kod yazarız. Yaptığınız değişikliklerden bağımsız olarak, testler yanlışlıkla verebileceğiniz herhangi bir zararı yakalamak için gereklidir. <p markdown="1" class="pquote-credit"> - @edunham, ["Rust'un Topluluk Otomasyonu"] (https://edunham.net/2016/09/27/rust_s_community_automation.html) </p></aside>
 
-### Use tools to automate basic maintenance tasks
+### Temel bakım görevlerini otomatikleştirmek için araçlar kullanın
 
 Popüler bir projeyi sürdürmenin iyi haberi, diğer geliştiricilerin de benzer sorunlarla karşı karşıya kalmaları ve bunun için bir çözüm üretmeleridir.
 
@@ -217,15 +211,15 @@ Bakım çalışmalarının bazı yönlerini otomatikleştirmeye yardımcı olaca
 
 Hata raporları ve diğer genel katkılar için GitHub, aldığınız iletişimi kolaylaştırmak için oluşturabileceğiniz [Sorun Şablonlarına ve PR İsteği Şablonlarına](https://github.com/blog/2111-issue-and-pull-request-templates) sahiptir. @TalAter sorununuzu ve PR şablonlarınızı yazmanıza yardımcı olmak için [Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/) rehberini geliştirdi.
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+E-posta bildirimlerinizi yönetmek için, önceliğe göre düzenlemek için [e-posta filtreleri](https://github.com/blog/2203-email-updates-about-your-own-activity) ayarlayabilirsiniz.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Biraz daha gelişmiş olmak istiyorsanız, stil rehberleri ve taslaklar proje katkılarını standartlaştırabilir ve inceleme ve kabul etmeyi kolaylaştırabilir.
 
 Bununla birlikte, standartlarınız çok karmaşıksa, katılımların önüne engel olabilirler. Herkesin hayatını kolaylaştırmak için sadece yeterince kural eklediğinizden emin olun.
 
 Hangi araçları kullanacağınızdan emin değilseniz, özellikle ekosisteminizdeki diğer popüler projelerin neler yaptığına bakın. Örneğin, katılım süreci diğer Node modülleri için nasıl yapılmış? Benzer araçlar ve yaklaşımlar kullanmak, sürecinizi katkıda bulunması olası insanlar için daha tanıdık yapacaktır.
 
-## It's okay to hit pause
+## Duraklatmak sorun değil
 
 Açık kaynak çalışması bir zamanlar size heyecan ve mutluluk getirmiştir. Ama şimdi size yük veya sorumluluk hissettirmeye başlamış olabilir.
 
@@ -235,7 +229,7 @@ Tükenmişlik, özellikle geliştiriciler arasında açık kaynaklı çalışmal
 
 Söylemeye gerek yok ama, ara verin! Tatil yapmak için yanmış hissedene kadar beklemeniz gerekmez. Bir Python çekirdek geliştiricisi olan @brettcannon, 14 yıllık gönüllü OSS çalışmasının ardından [bir ay boyunca tatil](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) yapmaya karar verdi.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+Tıpkı diğer tüm işlerde olduğu gibi, düzenli molalar vermek de işinizi yenileyecek, mutlu ve heyecanlı tutacaktır.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar"> WP-CLI’yı geliştirirken, önce kendimi mutlu etmem gerektiğini ve katılımım konusunda net sınırlar koymam gerektiğini keşfettim. Bulduğum en iyi denge, normal çalışma programımın bir parçası olarak haftada 2-5 saat. Bu benim katılımımı bir tutku olarak kalmasını sağlıyor ve iş gibi hissetmekten koruyor. Üzerinde çalıştığım konulara öncelik verdiğim için, en önemli olduğunu düşündüğüm konuda düzenli ilerleme sağlayabiliyorum. <p markdown="1" class="pquote-credit"> - @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"] (https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer- of-a-popüler-açık kaynak proje /) </p></aside>
 
