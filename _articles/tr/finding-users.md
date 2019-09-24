@@ -1,22 +1,23 @@
 ---
 lang: tr
-title: Finding Users for Your Project
+title: Projeniz için Kullanıcı Bulma
 description: Açık kaynaklı projenizin, mutlu kullanıcıların eline geçerek büyümesini
   sağlayın.
 class: finding
 toc:
-  spreading-the-word: Spreading the word
+  spreading-the-word: Duyurmak
   figure-out-your-message: Mesajını ilet
-  help-people-find-and-follow-your-project: Help people find and follow your project
+  help-people-find-and-follow-your-project: İnsanların projenizi bulmasına ve takip
+    etmesine yardımcı olun
   go-where-your-projects-audience-is-online: Projenizin izleyicisinin (çevrimiçi)
     olduğu yere gidin
   go-where-your-projects-audience-is-offline: Projenizin kitlesinin (çevrimdışı) olduğu
     yere gidin
-  build-a-reputation: Build a reputation
+  build-a-reputation: Bir itibar oluşturun
 order: '3'
 image: "/assets/images/cards/finding.png"
 related:
-- beginners
+- Yeni başlayanlar
 - geliştirme
 ---
 
@@ -26,19 +27,19 @@ Başlar başlamaz açık kaynaklı bir projeyi tanıtmanız gerektiğini söyley
 
 ## Mesajını ilet
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Projenizi tanıtmaya yönelik asıl çalışmaya başlamadan önce, ne yaptığını ve neden önemli olduğunu açıklayabilmelisiniz.
 
 Projenizi farklı veya ilginç kılan nedir? Neden yarattınız? Bu soruları kendiniz cevaplamak, projenizin önemini bildirmenize yardımcı olacaktır.
 
 İnsanların kullanıcı olarak dahil olduklarını ve sonunda katkıda bulunduğunu unutmayın, çünkü projeniz onlar için bir problemi çözüyor. Projenizin mesajını ve değerini düşündüğünüzde, bunları *kullanıcıların ve katkıda bulunanların* ne isteyebileceğini onların gözünden bakmaya çalışarak görmeye çalışın.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Örneğin, @robb, projesi olan [Cartography'nin](https://github.com/robb/Cartography) neden faydalı olduğunu açıkça belirtmek için kod örnekleri kullanır:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+Mesajlaşmaya daha derin bir dalış yapmak için Mozilla’nın [“Personas and Pathways”](https://mozillascience.github.io/working-open-workshop/personas_pathways/) egzersizini kullanıcı kimliği geliştirmek için kontrol edin.
 
-## Help people find and follow your project
+## İnsanların projenizi bulmasına ve takip etmesine yardımcı olun
 
 <aside markdown="1" class="pquote">İdeal olarak, insanları projenizle ilgili olarak tanıtabileceğiniz ve işaret edebileceğiniz tek bir "anasayfa" URL'sine ihtiyacınız var. Süslü bir şablona, hatta etkili bir alanı adına sahip olmanıza gerek yoktur, ancak projenizin bir odak noktasına ihtiyacı vardır. <p markdown="1" class="pquote-credit"> - Peter Cooper ve Robert Nyman, ["Kodunuzun Mesajı Nasıl Yayılır"] (https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/ ) </p></aside>
 
@@ -70,9 +71,9 @@ Hedef kitlenize ulaşmak için mevcut çevrimiçi topluluklardan ve platformlard
 
 Projenizi ilgili kanallarda paylaşmanın yollarını bulabilecek misiniz bir bakın:
 
-- **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-- **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-- **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: *"I think my project would really help X, who are trying to do Y*". Listen and respond to others' feedback, rather than simply promoting your work.
+- **İlgili açık kaynaklı projeleri ve toplulukları tanıyın.** Bazen projenizi doğrudan tanıtmanız gerekmez. Projeniz Python'u kullanan veri bilimcileri için mükemmelse, Python veri bilimi topluluğunu tanıyın. İnsanlar sizi tanıdıkça, hakkında konuşmak ve çalışmalarınızı paylaşmak için doğal fırsatlar ortaya çıkacaktır.
+- **Projenizin çözdüğü sorunu yaşayan insanları bulun.** Projenizin hedef kitlesine giren kişileri ilgili forumlarda arayın. Projenizi bir çözüm olarak önermek için sorularına cevap verin ve uygun olduğunda temkinli bir yol bulun.
+- **Geri bildirim isteyin.** Kendinizi ve işinizi ilgili ve ilgi çekici bulabilecek bir kitleye tanıtın. Projenizden kimin faydalanacağını düşündüğünüz konusunda net olun. Cümleyi bitirmeye çalışın: *"Projemin gerçekten Y'yi yapmaya çalışan X'e yardım edeceğini düşünüyorum* ." Çalışmanızı tanıtmak yerine, başkalarının geri bildirimlerini dinleyin ve bunlara yanıt verin.
 
 Genel olarak konuşursak, karşılığında bir şey istemeden önce başkalarına yardım etmeye odaklanın. Herkes bir projeyi çevrimiçi olarak kolayca tanıtabildiğinden, çok fazla gürültü çıkacaktır. Kalabalıktan sıyrılmak için, insanlara sadece ne istediğinizi değil, kim olduğunuzu anlatmaya çalışın.
 
@@ -90,42 +91,30 @@ Genel olarak konuşursak, karşılığında bir şey istemeden önce başkaları
 
 Daha önce topluluk önünde konuşmadıysanız, gergin hissetmek tamamen normaldir! İzleyicilerinizin sizin için orada olduğunu unutmayın, çünkü işinizi gerçekten duymak istiyorlar.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+Konuşmanızı yazarken, izleyicilerinizin ilginç bulacağı ve değer kazanacağı şeylere odaklanın. Dilinizi arkadaşça ve ulaşılabilir tutun. Gülümseyin, nefes alın ve eğlenin.
 
-<aside markdown="1" class="pquote">
-  <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
-  <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
-  </p>
-</aside>
+<aside markdown="1" class="pquote"><img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar"> Konuşmanızı yazmaya başladığınızda, konunuz ne olursa olsun, konuşmanızı insanlara anlattığınız bir hikaye olarak görmeniz yararlı olabilir. <p markdown="1" class="pquote-credit"> - Lena Reinhard, ["Teknik Konferans Konuşması Nasıl Hazırlanır ve Yazılır"] (http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference- konuşma /) </p></aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+Hazır olduğunuzda, projenizi tanıtmak için bir konferansta konuşmayı düşünün. Konferanslar, bazen dünyanın her yerinden daha fazla insana ulaşmanıza yardımcı olabilir.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+Dilinize veya ekosisteminize özgü konferansları arayın. Konuşmanızı göndermeden önce, konuşmanızı katılımcılar için uyarlamak ve konferansta konuşma kabul etme şansınızı artırmak için konferansı araştırın. Konferansın konuşmacılarına bakarak, izleyicilerinizi sık sık anlayabilirsiniz.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar"> JSConf insanlarına çok hoş bir şekilde yazdım ve bana JSConf AB'de sunabileceğim bir yer vermeleri için yalvardım. (...) Altı aydır üzerinde çalıştığım bu şeyi sunarken son derece korktum. (...) Bütün konuşma sırasında şunu düşündüm. Aman tanrım, burada ne yapıyorum? <p markdown="1" class="pquote-credit"> - @ry, ["Node.js'nin Hikayesi" (video)] (https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s) </p></aside>
 
-## Build a reputation
+## Bir itibar oluşturun
 
 Yukarıda belirtilen stratejilere ek olarak, insanları projenizi paylaşmaya ve katkıda bulunmaya davet etmenin en iyi yolu, onların projelerini paylaşma ve katkıda bulunmakdır.
 
 Yeni gelenlere yardım etmek, kaynakları paylaşmak ve başkalarının projelerine anlamlı katkılar yapmak olumlu bir itibara kavuşmanıza yardımcı olacaktır. Açık kaynak topluluğunda aktif bir üye olmak, insanların çalışmanız için bağlam oluşturmasına yardımcı olacak ve projenize dikkat etme ve paylaşma olasılıkları artacaktır. Diğer açık kaynaklı projelerle ilişkilerin geliştirilmesi resmi ortaklıklara yol açabilir.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
-  <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
-  </p>
-</aside>
+<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar"> Urllib3'ün günümüzdeki en popüler üçüncü parti Python kütüphanesi olmasının tek nedeni isteklerin parçası olmasıdır. <p markdown="1" class="pquote-credit"> - @shazow, ["Açık kaynak projeniz nasıl gelişir?"] (Https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov /) </p></aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+İtibarınızı oluşturmak için asla çok erken veya geç değildir. Kendi projenizi daha önce başlatmış olsanız bile, başkalarına yardım etmenin yollarını aramaya devam edin.
 
 Kitle oluşturmak için bir gecede çözüm yoktur. Başkalarının güvenini ve saygısını kazanmak zaman alır ve itibarınızı geliştirmek hiç tamamlanmayan bir iştir.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar"> PhantomJS ilk kez 2011 yılının başında piyasaya sürüldü. (...) Mesajını her zamanki gibi yaydım: Tweetledim, yapabileceğin şeyler hakkında blog yazıları yazdım, buluşmalarda çeşitli tartışmalar sırasında bahsettim. 2014 yılında daha iyi tanındığında, onunla ilgili sunumlar yapmaya başladım. <p markdown="1" class="pquote-credit"> - @ariya, ["Geliştirici Hikayeleri"] (https://github.com/open-source/stories/ariya) </p></aside>
 
-## Keep at it!
+## Devam et!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+İnsanların açık kaynaklı projenizi fark etmesi uzun zaman alabilir. Sorun yok! Bugün en popüler projelerden bazılarının yüksek düzeyde faaliyet göstermesi yıllar aldı. Projenizin kendiliğinden popülerlik kazanacağını ummak yerine ilişkiler kurmaya odaklanın. Sabırlı olun ve çalışmanızı takdir edenlerle paylaşmaya devam edin.
