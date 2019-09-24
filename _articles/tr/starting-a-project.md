@@ -1,31 +1,32 @@
 ---
 lang: tr
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your
-  own project.
+title: Açık Kaynaklı bir Projeye Başlamak
+description: Açık kaynak dünyası hakkında daha fazla bilgi edinin ve kendi projenizi
+  başlatmaya hazır olun.
 class: beginners
 toc:
   the-what-and-why-of-open-source: Açık kaynağın nediri ve nedeni
-  should-i-launch-my-own-open-source-project: Should I launch my own open source project?
-  launching-your-own-open-source-project: Launching your own open source project
+  should-i-launch-my-own-open-source-project: Kendi açık kaynaklı projemi başlatmalı
+    mıyım?
+  launching-your-own-open-source-project: Kendi açık kaynaklı projenizi başlatmak
   naming-and-branding-your-project: Projenizi isimlendirme ve markalama
-  your-pre-launch-checklist: Your pre-launch checklist
+  your-pre-launch-checklist: Lansman öncesi kontrol listeniz
 order: '2'
 image: "/assets/images/cards/beginner.png"
 related:
-- finding
+- bulgu
 - geliştirme
 ---
 
 ## Açık kaynağın "nedir"i ve "neden"i
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Yani açık kaynak kodlu bir sisteme başlamayı mı düşünüyorsun? Tebrikler! Dünya katkınızı takdir ediyor. Açık kaynağın ne olduğu ve insanların neden yaptıkları hakkında konuşalım.
 
-### What does "open source" mean?
+### "Açık kaynak" ne demek?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Bir proje açık kaynak olduğunda, **herhangi biri herhangi bir amaç için projenizi görüntüleyebilir, kullanabilir, değiştirebilir ve dağıtabilir.** Bu izinler [açık kaynaklı bir lisans](https://opensource.org/licenses) aracılığıyla uygulanmaktadır.
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Açık kaynak güçlüdür çünkü fikirlerin hızla yayılmasına izin vererek, benimseme engellerini azaltır.
 
 Nasıl çalıştığını anlamak için, arkadaşınızın herkes yemek getirsin partisi verdiğini hayal edin ve vişneli turta götürmüşsünüz.
 
@@ -46,11 +47,11 @@ Bir kişinin veya örgütün bir projeyi açmak istemesinin [birçok nedeni vard
 
 - **Adapte etme ve yeniden tanımlama:** Açık kaynaklı projeler herkes tarafından herhangi bir amaç için kullanılabilir. İnsanlar başka şeyler yapmak için bile kullanabilirler. Örneğin [WordPress](https://github.com/WordPress) , [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) adı verilen mevcut bir projenin çatalı olarak başladı.
 
-- **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+- **Şeffaflık:** Açık kaynaklı bir projeyi herkes hata veya tutarsızlık açısından inceleyebilir. Şeffaflık, [Bulgaristan](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) veya [ABD](https://sourcecode.cio.gov/) gibi hükümetlerle, bankacılık veya sağlık gibi endüstrileri düzenleyen ve [Let's Encrypt](https://github.com/letsencrypt) gibi güvenlik yazılımları için önemlidir.
 
 Açık kaynak sadece yazılım için değil. Veri setlerinden kitaplara kadar her şeyi açık kaynak olarak sunabilirsiniz. [GitHub'a](https://github.com/explore) göz atın başka nelerin açık kaynak olabileceğini görün.
 
-### Does open source mean "free of charge"?
+### Açık kaynak "ücretsiz" anlamına mı geliyor?
 
 Açık kaynağın en büyük çekimlerinden biri paraya mal olmamasıdır. Bununla birlikte, "ücretsiz" olması, açık kaynağın toplam değerinin bir yan ürünüdür.
 
@@ -58,43 +59,43 @@ Açık kaynağın en büyük çekimlerinden biri paraya mal olmamasıdır. Bunun
 
 Sonuç olarak, çoğu açık kaynaklı proje ücretsizdir, ancak “ücretsiz” açık kaynak tanımlamasının bir parçası değildir. Açık kaynaklı projeler için dolaylı olarak ikili lisanslama veya sınırlı özellikler aracılığıyla ücretlendirme yapılmasına rağmen, açık kaynaklı resmi tanımlamaya uymanın yolları vardır.
 
-## Should I launch my own open source project?
+## Kendi açık kaynaklı projemi başlatmalı mıyım?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Kısa cevap evet, çünkü sonuç ne olursa olsun, kendi projenizi başlatmak, açık kaynağın nasıl çalıştığını öğrenmek için harika bir yoldur.
 
 Daha önce hiç kaynaklı bir proje açmadıysanız, insanların ne söyleyeceği veya birileri tarafından hiç fark edilip edilmeyeceği konusunda endişeli olabilirsiniz. Sizin ruh haliniz böyle ise, kesinlikle yalnız değilsin!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Açık kaynak eser, ister yazı ister resim olsun, diğer tüm yaratıcı faaliyetler gibidir. Çalışmanızı dünyayla paylaşmak korkutucu gelebilir, ancak daha iyi olmanın tek yolu pratik yapmaktır - izleyiciniz olmasa bile.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Henüz ikna olmadıysanız, hedeflerinizin ne olabileceğini düşünmek için bir dakikanızı ayırın.
 
-### Setting your goals
+### Hedeflerinizi belirlemek
 
 Hedefler, neyin üzerinde çalışacağınızı, neye hayır diyeceğinizi ve başkalarından yardım almanız gereken yerleri bulmanıza yardımcı olabilir. Kendinize sorarak başlayın, *bu açık kaynak projeyi neden yapıyorum?*
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Bu sorunun doğru bir cevabı yok. Tek bir proje için birden fazla hedefiniz veya farklı hedefleri olan farklı projeleriniz olabilir.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Tek amacınız çalışmanızı göstermekse, katkı bile istemeyebilirsiniz ve hatta README'de de söyleyebilirsiniz. Öte yandan, katkıda bulunanlar istiyorsanız, açık belgelere yatırım yapacak ve yeni gelenlerin kendilerini rahat hissetmelerini sağlayacaksınız.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar"> Bir noktada kullandığım özel bir UIAlertView yarattım ... ve açık kaynak yapmaya karar verdim. Bu yüzden daha dinamik olacak şekilde değiştirdim ve GitHub'a yükledim. Ayrıca diğer geliştiricilere projelerinde nasıl kullanacaklarını açıklayan ilk belgelerimi yazdım. Muhtemelen hiç kimse onu kullanmamıştı çünkü basit bir projeydi ama katkım konusunda kendimi iyi hissediyordum. <p markdown="1" class="pquote-credit"> - @mavris, ["Kendi Kendine Öğrenen Yazılım Geliştiricileri: Açık Kaynak Neden Bizim İçin Önemli?"] (Https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important- to-us-fe2a3473a576) </p></aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Projeniz büyüdükçe, topluluğunuzun yalnızca sizin kodunuzdan daha fazlasına ihtiyacı olabilir. Sorunlara cevap vermek, kodları incelemek ve projenizi geliştirmek, açık kaynaklı bir projedeki tüm önemli görevlerdir.
 
 Kodlama dışı görevler için harcadığınız zaman miktarı projenizin boyutuna ve kapsamına bağlı olsa da, bunları kendiniz yapmak veya size yardımcı olacak birini bulmak için bir sorumlu olarak hazırlanmalısınız.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Bir projeye açık kaynak veren bir şirketin bir parçasıysanız, projenizin** gelişmesi gereken dahili kaynaklara sahip olduğundan emin olun. Projeyi başlattıktan sonra korumaktan kimin sorumlu olduğunu ve bu görevleri topluluğunuzla nasıl paylaşacağınızı belirlemek isteyeceksiniz.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Terfi, işlemler ve projenin sürdürülmesi için özel bir bütçeye veya personele ihtiyaç duyuyorsanız, bu konuşmaları erkenden başlatın.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar"> Projeyi açmaya başladığınızda, yönetim süreçlerinizin projenizdeki topluluğun katkılarını ve yeteneklerini göz önünde bulundurmasını sağlamak önemlidir. İşletmenizde istihdam edilmeyen katılımcıları, projenin kilit noktalarına dahil etmekten korkmayın - özellikle de sık sık katkıda bulunanlarsa. <p markdown="1" class="pquote-credit"> - @captainsafia, ["Öyleyse bir açık kaynak proje açmak istiyorsun, ha?"] (Https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779) </p></aside>
 
-### Contributing to other projects
+### Diğer projelere katkıda bulunmak
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Amacınız başkalarıyla nasıl işbirliği yapabileceğinizi veya açık kaynağın nasıl çalıştığını anlamaksa, mevcut bir projeye katkıda bulunmayı düşünün. Zaten kullandığınız ve sevdiğiniz bir projeyle başlayın. Bir projeye katkıda bulunmak, yazım hatalarını düzeltmek veya belgeleri güncellemek kadar kolay olabilir.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Katkıda bulunmaya nasıl başlayacağınızdan emin değilseniz, [Açık Kaynağa Nasıl Katkıda Bulunur kılavuzumuza bakın](../how-to-contribute/) .
 
-## Launching your own open source project
+## Kendi açık kaynaklı projenizi başlatmak
 
 İşinizi açmak için mükemmel bir zaman yoktur. Bir fikri, ya da yıllarca kapalı kaldıktan sonra eski bir çalışmayı açabilirsiniz.
 
@@ -102,7 +103,7 @@ Genel olarak konuşursak, başkalarının çalışmalarını görmesi ve çalı�
 
 Projenizi hangi aşamada yayınlamaya karar verirseniz verin, her proje aşağıdaki belgeleri içermelidir:
 
-- [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+- [Açık kaynak lisansı](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 - [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 - [Katkıda bulunma kuralları](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 - [Davranış kuralları](../code-of-conduct/)
@@ -111,30 +112,30 @@ Bir geliştirici olarak, bu bileşenler beklentileri iletmenize, katkıları yö
 
 Projeniz GitHub'taysa, bu dosyaları önerilen dosya adlarıyla kök dizininize koymak GitHub'ın onları okuyucularınıza tanıtmasına ve otomatik olarak göstermesine yardımcı olacaktır.
 
-### Choosing a license
+### Bir lisans seçimi
 
 Açık kaynaklı lisans, başkalarının projenize yanıt vermeden kullanabileceğini, kopyalayabileceğini, değiştirebileceğini ve katkıda bulunabileceğini garanti eder. Aynı zamanda sizi kötü yasal durumlardan korur. **Açık kaynak kodlu bir proje başlatırken projenize bir lisans eklemelisiniz.**
 
 Hukiki işler eğlenceli değildir. İyi haber şu ki, mevcut bir lisansı kopyalayıp havuzunuza yapıştırabilirsiniz. Zor işinizi korumak sadece bir dakikanızı alacaktır.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/) , [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) ve [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) en popüler açık kaynaklı lisanslardır, ancak seçilebilecek [başka seçenekler](https://choosealicense.com) de vardır.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+GitHub'da yeni bir proje oluşturduğunuzda, size bir lisans seçme seçeneği sunulur. Açık kaynak lisansı eklemek GitHub projenizi açık kaynak yapar.
 
 ![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
 Eğer bir açık kaynak projesi yönetmek hukuki yönleri etrafında diğer sorularınız veya endişeleriniz varsa, [sizin ihtiyaçlarınızı giderebilecek içeriğimiz var](../legal/) .
 
-### Writing a README
+### Bir README Yazma
 
 README'ler projenizi nasıl kullanacağınızı açıklamaktan daha fazlasını yapar. Ayrıca, projenizin neden önemli olduğunu ve kullanıcılarınızın bununla neler yapabileceğini de açıklar.
 
-In your README, try to answer the following questions:
+README'nizde aşağıdaki soruları cevaplamaya çalışın:
 
-- What does this project do?
-- Why is this project useful?
-- How do I get started?
-- Where can I get more help, if I need it?
+- Bu proje ne yapıyor?
+- Bu proje neden faydalıdır?
+- Nasıl başlarım?
+- İhtiyacım olursa nereden daha fazla yardım alabilirim?
 
 README'nizi, katkıları nasıl ele aldığınız, projenin amaçlarının ne olduğu ve lisanslar ve atıflar hakkında bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkı kabul etmek istemiyorsanız veya projeniz henüz olgun değilse, bunu mutlaka belirtin.
 
@@ -142,22 +143,22 @@ README'nizi, katkıları nasıl ele aldığınız, projenin amaçlarının ne ol
 
 Bazen, insanlar bir README yazmaktan kaçınırlar çünkü proje bitmemiş gibi hissederler veya katkı kabul etmek istemezler. Bunların hepsi yazmak için çok iyi nedenler.
 
-For more inspiration, try using @dguo's ["Make a README" guide](https://www.makeareadme.com/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Daha fazla ilham almak için, eksiksiz bir README yazmak için @ dguo'nun ["Make a README" kılavuzunu](https://www.makeareadme.com/) veya @ PurpleBooth'ın [README şablonunu](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) kullanmayı deneyin.
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Kök dizinine bir README dosyası eklediğinizde, GitHub otomatik olarak depo ana sayfasında görüntüler.
 
 ### Katkıda bulunma rehberinizi yazmak
 
 Bir CONTRIBUTING dosyası, izleyicilerinize projenize nasıl katkıda bulunabileceklerini söyler. Örneğin, şunlarla ilgili bilgiler de ekleyebilirsiniz:
 
 - Hata raporu nasıl gönderilir ([sorun ve istek şablonlarını](https://github.com/blog/2111-issue-and-pull-request-templates) kullanmayı deneyin)
-- How to suggest a new feature
+- Yeni bir özellik nasıl önerilir
 - Proje ortamı nasıl kurulur ve testler nasıl yapılır
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Teknik ayrıntılara ek olarak, bir CONTRIBUTING dosyası, aşağıdakiler gibi katkılar için beklentilerinizi iletme fırsatıdır:
 
-- The types of contributions you're looking for
-- Your roadmap or vision for the project
+- Aradığınız katkı türleri
+- Proje için yol haritanız veya vizyonunuz
 - Katkıda bulunanlar sizinle nasıl temasa geçmeli (veya geçmemeli)
 
 Sıcak, arkadaşça bir ton kullanmak ve katkılar için özel önerilerde bulunmak (örneğin, dokümantasyon yazmak veya bir web sitesi yapmak gibi) yeni gelenlerin kendilerini memnun ve heyecanlı hissetmelerini sağlama konusunda yardımcı olabilir.
@@ -166,9 +167,9 @@ Sıcak, arkadaşça bir ton kullanmak ve katkılar için özel önerilerde bulun
 
 > Öncelikle, Active Admin’e katkıda bulunduğunuz için teşekkür ederiz. Active Admin'i harika bir araç yapan sizin gibi insanlar.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+Projenizin ilk aşamalarında, CONTRIBUTING dosyanız basit olabilir. Hataların veya dosya sorunlarının nasıl bildirileceğini ve katkı sağlamak için teknik gereksinimleri (testler gibi) her zaman açıklamalısınız.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Zamanla, CONTRIBUTING dosyanıza sıkça sorulan diğer soruları ekleyebilirsiniz. Bu bilgileri yazmak, daha az kişinin size aynı soruları tekrar tekrar soracağı anlamına gelir.
 
 CONTRIBUTING dosyanızı yazarken daha fazla yardım için @nayafia'nın [katkıda bulunma rehber şablonuna](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) veya @nozilla'nın ["Bir CONTRIBUTING.md Nasıl Oluşturulur"](https://mozillascience.github.io/working-open-workshop/contributing/) bölümüne bakın.
 
@@ -182,7 +183,7 @@ README'nizden CONTRIBUTING dosyanıza bağlantı verin, böylece daha çok insan
 
 Son olarak, bir davranış kural listesi projenizin katılımcı davranışları için temel kurallar koymanıza yardımcı olur. Bir topluluk veya şirket için açık kaynak kodlu bir proje başlatıyorsanız, bu özellikle değerlidir. Davranış kuralları, sağlıklı ve yapıcı topluluk davranışını kolaylaştırmanıza yardımcı olur ve bu da koruyucu olarak stresinizi azaltacaktır.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Daha fazla bilgi için [Davranış Kuralları kılavuzumuza](../code-of-conduct/) göz atın .
 
 Katılımcıların *nasıl* davranmasını beklediğinizi iletmenin yanı sıra, bir davranış kural listesi de bu beklentilerin kimlere, ne zaman başvuruda bulunduklarına ve bir ihlal meydana geldiğinde ne yapılması gerektiğini açıklamaya meyillidir.
 
@@ -194,7 +195,7 @@ Metni doğrudan projenizdeki bir CODE_OF_CONDUCT dosyasına yapıştırın. Dosy
 
 Marka, gösterişli bir logo veya çekici bir proje adından daha fazlasıdır. Projeniz hakkında nasıl konuştuğunuzla ve mesajınızla kime ulaştığınızla ilgilidir.
 
-### Choosing the right name
+### Doğru ismi seçmek
 
 Hatırlanması kolay olan ve ideal olarak projenin ne yaptığı hakkında bir fikir veren bir isim seçin. Örneğin:
 
@@ -203,9 +204,9 @@ Hatırlanması kolay olan ve ideal olarak projenin ne yaptığı hakkında bir f
 
 Mevcut bir projenin üzerine inşa ediyorsanız, adlarını ön ek olarak kullanmak projenizin ne yaptığını netleştirmeye yardımcı olabilir (örneğin, [node-fetch](https://github.com/bitinn/node-fetch) `window.fetch` komutunu getirir).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Her şeyden önce netlik düşünün. Püf noktaları eğlencelidir, ancak bazı şakaların diğer kültürlere veya sizden farklı deneyimlere sahip insanlara tercüme edilemeyebileceğini unutmayın. Potansiyel kullanıcılarınızdan bazıları şirket çalışanları olabilir: projenizi işte açıklamak zorunda kaldıklarında onları rahatsız etmek istemezsiniz!
 
-### Avoiding name conflicts
+### İsim çatışmalarından kaçınmak
 
 Özellikle aynı dili veya ekosistemi paylaşıyorsanız, [benzer bir adla açık kaynaklı projeleri kontrol edin](http://ivantomic.com/projects/ospnc/) . İsminiz popüler bir projeyle örtüşüyorsa, takipçilerinizin kafaları karışabilir.
 
@@ -213,9 +214,9 @@ Bir web sitesi, Twitter hesabı veya projenizi temsil eden diğer özellikleri i
 
 Projenizin adının herhangi bir ticari markayı ihlal etmediğinden emin olun. Bir şirket sizden projenizi kapatmanızı isteyebilir veya hatta aleyhinize yasal işlem başlatabilir. Bu riske değmez.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+[WIPO Global Marka Veritabanını](http://www.wipo.int/branddb/en/) ticari marka çakışmaları için kontrol edebilirsiniz. Eğer bir şirketteyseniz, bu [yasal ekibinizin size yardımcı olabileceği](../legal/) şeylerden biridir.
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+Sonunda, proje adınız için hızlı bir Google araması yapın. İnsanlar projenizi kolayca bulabilecek mi? Arama sonuçlarında görmelerini istemediğiniz başka bir şey var mı?
 
 ### Nasıl yazdığın (ve kodladığın) markanı da etkiler!
 
@@ -229,9 +230,9 @@ Sıcak, kapsayıcı bir dil kullanmak ("onlar" gibi, tek bir kişiye atıfta bul
 
 Kelimeleri nasıl yazdığınızın ötesinde, kodlama stiliniz de projenizin markasının bir parçası olabilir. [Angular](https://angular.io/guide/styleguide) ve [jQuery](https://contribute.jquery.org/style-guide/js/) titiz kodlama stilleri ve yönergeleri olan projelere iki örnektir.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Yeni başladığınızda, projeniz için bir stil rehberi yazmak gerekli değildir ve yine de projenize farklı kodlama stilleri eklemekten zevk aldığınızı fark edebilirsiniz. Ancak, yazma ve kodlama stilinizin farklı insanları nasıl çekebileceğini veya caydıracağını tahmin etmelisiniz. Projenizin ilk aşamaları, görmek istediğiniz emsali belirleme fırsatınızdır.
 
-## Your pre-launch checklist
+## Lansman öncesi kontrol listeniz
 
 Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol listesi. Bütün kutuları kontrol ettin mi? Gitmeye hazırsın! ["Yayınlayı" tıklayın](https://help.github.com/articles/making-a-private-repository-public/) ve arkanıza yaslanın.
 
@@ -244,16 +245,12 @@ Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol l
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
-  </label>
+  <label for="cbox2" class="overflow-hidden d-block text-normal">Proje temel dokümantasyona sahiptir (README, CONTRIBUTING, CODE_OF_CONDUCT)</label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
-  </label>
+  <label for="cbox3" class="overflow-hidden d-block text-normal">Adı hatırlamak kolaydır, projenin ne yaptığı hakkında bir fikir verir ve mevcut bir projeyle çelişmez veya ticari markaları ihlal etmez</label>
 </div>
 
 <div class="clearfix mb-4">
@@ -278,36 +275,30 @@ Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol l
   <label for="cbox7" class="overflow-hidden d-block text-normal">Revizyon geçmişinde, sorunlarda veya PR isteklerinde (örneğin şifreler veya kamuya açık olmayan diğer bilgiler) hassas bilgi yok</label>
 </div>
 
-**People**
+**İnsanlar**
 
-If you're an individual:
+Bireyseniz:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">Hukuk departmanıyla konuştunuz ve/veya şirketinizin IP ve açık kaynaklı politikalarını anladınız (eğer bir yerde çalışansanız).</label>
 </div>
 
-If you're a company or organization:
+Bir şirket veya kuruluşsanız:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
-  </label>
+  <label for="cbox9" class="overflow-hidden d-block text-normal">Hukuk departmanınızla konuştunuz</label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
-  </label>
+  <label for="cbox10" class="overflow-hidden d-block text-normal">Projeyi duyurmak ve tanıtmak için bir pazarlama planınız var</label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
-  </label>
+  <label for="cbox11" class="overflow-hidden d-block text-normal">Birisi topluluk etkileşimlerini yönetmeyi taahhüt eder (sorunlara cevap verme, çekme isteklerini gözden geçirme ve birleştirme)</label>
 </div>
 
 <div class="clearfix mb-4">
