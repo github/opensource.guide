@@ -5,12 +5,12 @@ description: Açık kaynağa katkıda bulunmak ister misiniz? İlk defa çalış
   için açık kaynak katkıları yapma rehberi.
 class: contribute
 toc:
-  why-contribute-to-open-source: Why contribute to open source?
-  what-it-means-to-contribute: What it means to contribute
-  orienting-yourself-to-a-new-project: Orienting yourself to a new project
-  finding-a-project-to-contribute-to: Finding a project to contribute to
+  why-contribute-to-open-source: Açık kaynağa neden katkıda bulunur?
+  what-it-means-to-contribute: Katkıda bulunmak ne demektir?
+  orienting-yourself-to-a-new-project: Kendinizi yeni bir projeye yönlendirmek
+  finding-a-project-to-contribute-to: Katkıda bulunacak bir proje bulma
   how-to-submit-a-contribution: Nasıl katkı yapılır?
-  what-happens-after-you-submit-a-contribution: What happens after you submit a contribution
+  what-happens-after-you-submit-a-contribution: Bir katkı gönderdikten sonra ne olur?
 order: '1'
 image: "/assets/images/cards/contribute.png"
 related:
@@ -18,11 +18,11 @@ related:
 - geliştirme
 ---
 
-## Why contribute to open source?
+## Açık kaynağa neden katkıda bulunur?
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar"> \ [Freenode \] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmak projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum! <p markdown="1" class="pquote-credit"> - @errietta, ["Neden açık kaynaklı yazılıma katkıda bulunmayı seviyorum"] (https://www.errietta.me/blog/open-source/) </p></aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Açık kaynağa katkıda bulunmak, hayal edebileceğiniz herhangi bir beceri hakkında deneyim öğrenmek, öğretmek ve geliştirmek için faydalı bir yol olabilir.
 
 İnsanlar neden açık kaynağa katkıda bulunur? Bir sürü sebep vardır!
 
@@ -48,75 +48,69 @@ Tanım olarak, açık kaynak kodlu çalışmaların tamamı kamuya açıktır; y
 
 ### İnsani beceriler kazanma
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+Açık kaynak, çatışmaları çözmek, insan ekiplerini organize etmek ve işe öncelik vermek gibi liderlik ve yönetim becerilerini uygulama fırsatları sunar.
 
 ### Küçük bile olsa değişiklik yapabilmek için güçlen verir
 
 Açık kaynaklara katılmaktan zevk alabilmek için ömür boyu katkıda bulunmanız gerekmez. Hiç bir web sitesinde bir yazım hatası gördünüz ve birisinin düzeltmesini dilediniz mi? Açık kaynaklı bir projede, bunu siz yapabilirsiniz. Açık kaynak, insanların yaşamları ve dünyayı nasıl tecrübe ettikleri konusunda kendilerini etkin hissetmelerine yardımcı olur ve bu kendi içinde memnuniyet vericidir.
 
-## What it means to contribute
+## Katkıda bulunmak ne demektir?
 
 Açık kaynak bir projeye ilk defa katkıda bulunuyorsanız, bu süreç korkutucu olabilir. Doğru proje nasıl bulunur? Ya nasıl kodlanacağını bilmiyorsan? Ya bir şeyler ters giderse?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Endişe etmeyin! Açık kaynak kodlu bir projeye dahil olmanın her türlü yolu vardır ve birkaç ipucu deneyiminizden en iyi şekilde yararlanmanıza yardımcı olacaktır.
 
 ### Kod yazarak katkıda bulunmak zorunda değilsin
 
 Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak katkıda bulunmanız gerektiğidir. Aslında, genellikle [en çok ihmal edilen veya göz ardı edilen](https://github.com/blog/2195-the-shape-of-open-source) bir projenin diğer kısımlarıdır. Bu tür katkılara katılmayı teklif ederek projeyi *büyük bir* iyilik yapacaksınız!
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
-  <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
-  </p>
-</aside>
+<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar"> CocoaPods'taki çalışmamla ünlüydüm, ama çoğu insan CocoaPods aracının kendisinde gerçek bir iş yapmadığımı bilmiyor. Projedeki zamanım çoğunlukla belgeleme ve markalaşma gibi şeyler yapmakla geçiyor. <p markdown="1" class="pquote-credit"> - @orta, ["Varsayılan olarak OSS’ye taşıma"] (https://realm.io/news/orta-therox-moving-to-oss-by-default/) </p></aside>
 
 Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve diğer topluluk üyeleriyle tanışmak için harika bir yoldur. Bu ilişkileri kurmak size projenin diğer bölümlerinde çalışma fırsatı verecektir.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar"> İlk önce 17 Haziran 2002 tarihinde düzeltme yamamı e-postayla gönderdiğimde Python geliştirme ekibine (aka python-dev) ulaştım. Hızlı bir şekilde açık kaynaklı hatayı yakaladım ve grubun e-posta özetlerini iyileştirmeye başladım. Bir konu hakkında net bilgi almak için bana büyük bir bahane verdiler, ama daha kritik olarak, birinin düzeltilmesi gereken bir şeyi işaret ettiğini fark ettim. <p markdown="1" class="pquote-credit"> - @brettcannon, ["Geliştirme Hikayeleri"] (https://github.com/open-source/stories/brettcannon) </p></aside>
 
-### Do you like planning events?
+### Etkinlik planlamayı sever misiniz?
 
-- Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-- Organize the project's conference (if they have one)
-- Help community members find the right conferences and submit proposals for speaking
+- [NodeSchool için @fzamperin yaptığı gibi](https://github.com/nodeschool/organizers/issues/406) , proje hakkında atölye çalışmaları veya buluşmalar düzenleyin
+- Projenin konferansını düzenleyin (eğer varsa)
+- Topluluk üyelerinin doğru konferansları bulmasına ve konuşma için öneriler sunmasına yardımcı olun
 
 ### Tasarlamayı sever misiniz?
 
 - Projenin kullanılabilirliğini geliştirmek için şablonları yeniden yapılandırın
 - [Drupal'ın önerdiği gibi](https://www.drupal.org/community-initiatives/drupal-core/usability) , projenin navigasyonunu veya menülerini yeniden düzenleyin ve bunu yapmak için hassas kullanıcı araştırması yapın
-- Put together a style guide to help the project have a consistent visual design
+- Projenin tutarlı bir görsel tasarıma sahip olması için bir stil rehberi hazırlayın
 - [Hapi.js’in katılımcılarının yaptığı gibi](https://github.com/hapijs/contrib/issues/68) t-shirtler veya yeni bir logo tasarlayın
 
-### Do you like to write?
+### Yazmayı sever misin?
 
 - Proje dokümantasyonunu yazın ve geliştirin
 - Projenin nasıl kullanıldığını gösteren bir örnek klasör oluşturun
 - Proje için bir bülten başlatın veya posta listesinden önemli noktaları açığa çıkarın
 - [PyPA'nın katılımcılarının yaptığı gibi](https://github.com/pypa/python-packaging-user-guide/issues/194) proje için dersler yazın
-- Write a translation for the project's documentation
+- Projenin dokümantasyonu için bir çeviri yazın
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar"> Cidden, \[belgeleme\] çok önemlidir. Şu ana kadarki belgeler mükemmeldi ve Babil'in keskin bir özelliği oldu. Bazı özellikleri kesinlikle kullanabilecek bölümler var, hatta burada bir paragrafın eklenmesi bile çok beğeni topluyor. <p markdown="1" class="pquote-credit"> - @kittens, ["Katkıda bulunanlar için çağrı"] (https://github.com/babel/babel/issues/1347) </p></aside>
 
 ### Organize etmeyi sever misiniz?
 
 - Projeyi daha organize hale getirmek için benzer sorunları bağlantılayın ve yeni sorun etiketleri önerin
-- Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-- Ask clarifying questions on recently opened issues to move the discussion forward
+- Açık sorunlardan geçin ve eskileri kapatmayı önerin, [@nzakas'ın ESLint için yaptığı gibi](https://github.com/eslint/eslint/issues/6765)
+- Tartışmayı ileriye taşımak için son açılan konular hakkında açıklayıcı sorular sorun.
 
-### Do you like to code?
+### Kod yazmayı sever misiniz?
 
-- Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+- [@Dianjin'in Leaflet için yaptığı gibi](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560) başa çıkacak açık bir konu bulun
 - Yeni bir özellik yazmak yardımcı olabilir misiniz diye sorun
 - Proje kurulumunu otomatikleştirin
 - Araçları ve testleri geliştirin
 
-### Do you like helping people?
+### İnsanlara yardım etmeyi sever misiniz?
 
 - Proje hakkında soruları yanıtlayın. Örneğin, Stack Overflow'da ([bu Postgres örneğinde olduğu gibi](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) veya Reddit'te
 - İnsanlar için açık konulardaki soruları cevaplayın
-- Help moderate the discussion boards or conversation channels
+- Tartışma panolarını veya konuşma kanallarını yönetmeye yardımcı olun
 
 ### Başkalarına kod yazarken yardım etmeyi sever misiniz?
 
@@ -124,19 +118,19 @@ Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve d
 - Bir projenin nasıl kullanılabileceğini öğretici yazılar yazın
 - Başka bir katılımcıya mentor olmaya çalışın, [@ereichert Rust projesinde @bronzdoc için yaptığı gibi](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### Sadece yazılım projeleri üzerinde çalışmak zorunda değilsiniz!
 
 “Açık kaynak” genellikle yazılımla ilişkilendirilse de, hemen hemen her şey için işbirliği yapabilirsiniz. Açık kaynak projeleri olarak geliştirilen kitaplar, tarifler, listeler ve sınıflar var.
 
-For example:
+Örneğin:
 
 - @sindresorhus ["harika" listelerin bir listesini oluşturuyor](https://github.com/sindresorhus/awesome)
 - @h5bp ön yüz geliştirici adayları için [olası mülakat sorularının bir listesini](https://github.com/h5bp/Front-end-Developer-Interview-Questions) oluşturuyor
 - @stuartlynn ve @nicole-a-tesla [martılar hakkında eğlenceli bilgiler topladı](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+Bir yazılım geliştiricisi olsanız bile, bir dokümantasyon projesi üzerinde çalışmak açık kaynak kodla başlamanıza yardımcı olabilir. Kod içermeyen projeler üzerinde çalışmak genellikle daha az korkutucu olur ve işbirliği süreci sizin güven ve deneyiminizi artıracaktır.
 
-## Orienting yourself to a new project
+## Kendinizi yeni bir projeye yönlendirmek
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar"> Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz. <p markdown="1" class="pquote-credit"> - @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunur"] (https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/) </p></aside>
 
@@ -144,7 +138,7 @@ Bir yazım hatası düzeltilmesinden daha fazla olarak, açık kaynağa katkıda
 
 Kendi önerilerinizle kör bir şekilde atlamadan önce, odanın nasıl okunacağını öğrenmeye başlayın. Bunu yapmak, fikirlerinizi fark etme ve duyma şansınızı arttırır.
 
-### Anatomy of an open source project
+### Açık kaynak kodlu bir projenin anatomisi
 
 Her açık kaynak topluluğu kendine özgüdür.
 
@@ -152,15 +146,15 @@ Bir açık kaynaklı projeye yıl harcamak, bir açık kaynaklı projeyi tanıd�
 
 Bununla birlikte, birçok açık kaynaklı proje benzer bir organizasyon yapısını takip ettiği söylenebilir. Farklı topluluk rollerini ve genel süreci anlamak, herhangi bir yeni projeye hızlı bir şekilde odaklanmanıza yardımcı olacaktır.
 
-A typical open source project has the following types of people:
+Tipik bir açık kaynak projesi aşağıdaki insan türlerine sahiptir:
 
 - **Yazar:** Projeyi yaratan kişi/kurumlar
 - **Sahip:** Kurum veya depo üzerinde yönetim hakkına sahip kişi/kişiler (her zaman orijinal yazarla aynı değil)
 - **Geliştiriciler:** Vizyonu yönlendirmekten ve projenin organizasyonel yönlerini yönetmekten sorumlu olan katkıda bulunanlar (Projenin yazarları veya sahipleri de olabilirler.)
 - **Katkıda Bulunanlar:** Projeye katkıda bulunan herkes
-- **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction
+- **Topluluk Üyeleri:** Projeyi kullanan insanlar. Sohbetlerde aktif olabilirler veya projenin yönü ile ilgili görüşlerini ifade edebilirler.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Daha büyük projeler ayrıca takım, triyaj, topluluk yönetimi ve etkinlik organizasyonu gibi farklı görevlere odaklanmış alt komitelere veya çalışma gruplarına sahip olabilir. Bu bilgileri bulmak için bir projenin "ekip" sayfasına veya yönetişim dokümantasyon deposuna bakın.
 
 Bir projenin de belgeleri de vardır. Bu dosyalar genellikle bir kütüphanenin üst seviyelerinde listelenir.
 
@@ -170,16 +164,16 @@ Bir projenin de belgeleri de vardır. Bu dosyalar genellikle bir kütüphanenin 
 - **CODE_OF_CONDUCT:** Davranış kuralları, katılımcıların davranışlarıyla ilgili temel kuralları belirler ve arkadaşça ve misafirperver bir ortamı kolaylaştırmaya yardımcı olur. Her projenin bir CODE_OF_CONDUCT dosyası olmasa da, varlığı katkıda bulunulabilecek sıcak bir proje olduğunu gösterir.
 - **Diğer belgeler:** Özellikle büyük projelerde öğretici belgeler, izlenecek yollar veya yönetişim politikaları gibi ek belgeler olabilir.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Son olarak, açık kaynaklı projeler tartışmayı düzenlemek için aşağıdaki araçları kullanır. Arşivleri okumak, topluluğun nasıl düşündüğü ve çalıştığı hakkında size iyi bir fikir verecektir.
 
 - **Sorun takipcisi:** İnsanların projeyle ilgili sorunları tartıştıkları yerler.
 - **PR (Çekme) istekleri:** İnsanların devam etmekte olan değişiklikleri tartıştıkları ve inceledikleri yerler.
 - **Tartışma forumları veya e-posta listeleri:** Bazı projeler, tartışma konuları için bu kanalları kullanabilir (örneğin, hata raporları veya özellik istekleri yerine *"Nasıl? ..."* veya *"Ne düşünüyorsunuz ..." gibi* ). Diğerleri, tüm konuşmalar için sorun takipçisi kullanır.
 - **Anlık sohbet kanalı:** Bazı projeler gündelik konuşma, işbirliği ve hızlı fikir alışverişler için sohbet kanalları (Slack veya IRC gibi) kullanır.
 
-## Finding a project to contribute to
+## Katkıda bulunacak bir proje bulma
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Açık kaynaklı projelerin nasıl çalıştığını çözdüğünüze göre, katkıda bulunacak bir proje bulma zamanı!
 
 Daha önce hiç açık kaynağa katkıda bulunmadıysanız, bir keresinde *“Ülkenizin sizin için neler yapabileceğini değil - ülkeniz için neler yapabileceğinizi sorun”* diyen ABD Başkanı John F. Kennedy'yi  örnek alın.
 
@@ -195,7 +189,7 @@ Bir README tarayabilir ve bozuk bir link ya da yazım hatası bulabilirsiniz. Ya
 
 > [Gündelik katkıların %28'i](https://www.igor.pro.br/publica/papers/saner2016.pdf) açık kaynağa yeniden biçimlendirme veya bir çeviri yazarken böyle bir yazım hatası düzeltme gibi belgelerdir.
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+Yeni projeleri keşfetmenize ve katkıda bulunmanıza yardımcı olmak için aşağıdaki kaynaklardan birini de kullanabilirsiniz:
 
 - [GitHub Explore](https://github.com/explore/)
 - [Open Source Friday](https://opensourcefriday.com)
@@ -207,20 +201,20 @@ You can also use one of the following resources to help you discover and contrib
 - [First Contributions](https://firstcontributions.github.io)
 - [SourceSort](https://www.sourcesort.com/)
 
-### A checklist before you contribute
+### Katkıda bulunmadan önce bir kontrol listesi
 
 Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kabul etmeye uygun olduğundan emin olmak için hızlı bir tarama yapın. Aksi takdirde, sıkı çalışmanız asla bir yanıt alamayabilirsiniz.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+İşte bir projenin yeni katılımcılar için iyi olup olmadığını değerlendirmek için kullanışlı bir kontrol listesi.
 
-**Meets the definition of open source**
+**Açık kaynak tanımını karşılar**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.</label>
 </div>
 
-**Project actively accepts contributions**
+**Proje aktif olarak katkı kabul ediyor**
 
 Ana daldaki geliştirici faaliyetine bakın. GitHub'da, bu bilgiyi bir kütüphanenin ana sayfasında görebilirsiniz.
 
@@ -231,9 +225,7 @@ Ana daldaki geliştirici faaliyetine bakın. GitHub'da, bu bilgiyi bir kütüpha
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
-  </label>
+  <label for="cbox3" class="overflow-hidden d-block text-normal">Projenin kaç katılımcısı var?</label>
 </div>
 
 <div class="clearfix mb-4">
@@ -260,16 +252,12 @@ Ardından, projenin sorun listesine bakın.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
-  </label>
+  <label for="cbox8" class="overflow-hidden d-block text-normal">Sorunlar yeni mi?</label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
-  </label>
+  <label for="cbox9" class="overflow-hidden d-block text-normal">Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)</label>
 </div>
 
 Şimdi aynı projenin PR istekleri için yapın.
@@ -325,11 +313,11 @@ Arkadaş canlısı ve misafirperver bir proje, yeni katılımcılara açık olac
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar"> Ne zaman uzun bir tartışma görüyorsanız, çekirdek geliştiricilerin konu başından geç gelen cevaplarını anında kontrol edin. Yapıcı bir şekilde özetliyorlar mı ve kibarlıklarını korurken bir karar vermek için adımlar atıyorlar mı? Çok fazla söz savaşı yaşandığını görüyorsanız, bu genellikle enerjinin gelişme yerine tartışmaya girdiğinin işaretidir. <p markdown="1" class="pquote-credit"> - @kfogel, [_OPS_ üretiliyor] (https://producingoss.com/en/evaluating-oss-projects.html) </p></aside>
 
-## How to submit a contribution
+## Nasıl katkı gönderilir?
 
 Hoşunuza giden bir proje buldunuz ve katkıda bulunmaya hazırsınız. En sonunda! İşte katkınızı doğru şekilde yapmanın yolu.
 
-### Communicating effectively
+### Etkili iletişim kurmak
 
 İster bir kerelik katkı yapan, ister bir topluluğa katılmaya çalışıyor biri olun, başkalarıyla çalışmak açık kaynak dünyasında geliştireceğiniz en önemli becerilerden biridir.
 
@@ -354,22 +342,22 @@ Bir sorunu açmadan veya bir PR oluşturmadan ya da sohbette bir soru sormadan �
 
 **Tüm iletişimi herkese açık tutun.** Her ne kadar cazip olsa da, hassas bilgileri (güvenlik sorunu veya ciddi davranış ihlali gibi) paylaşmanız gerekmedikçe, geliştiricilere özel olarak ulaşmayın. Sohbeti herkese açık tuttuğunuzda, daha fazla kişi alış verişinizden öğrenebilir ve bundan faydalanabilir. Tartışmalar da kendi başlarına katkı olabilir.
 
-> 😇 *(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"*
-> 😢 *(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"*
+> 😇 *(yorum olarak) "@ -maintainer Merhabalar! Bu PR'a nasıl devam edelim?"*
+> 😢 *(bir e-posta olarak) "Hey, e-posta yüzünden sizi rahatsız ettiğim için özür dilerim, ancak PR'mi gözden geçirme şansınız olup olmadığını merak ediyordum"*
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**Soru sormak sorun değil (ama sabırlı olun!).** Herkes bir noktada projede yeniydi ve deneyimli katılımcıların bile yeni bir projeye bakarken hız kazanmaları gerekiyor. Aynı şekilde, uzun süredir devam edenler bile, projenin her bölümüne aşina değildir. Onlara size göstermelerini istediğiniz sabrı gösterin.
 
 > Error *"Bu hatayı incelediğiniz için teşekkür ederiz. Önerilerinizi takip ettim. İşte sonuç."*
 > Problem *"Neden sorunumu çözemiyorsun? Bu senin projen değil mi?"*
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**Topluluk kararlarına saygı gösterin.** Fikirleriniz, toplumun öncelikleri veya vizyonundan farklı olabilir. Geri bildirim sunabilir veya fikrinizi sürdürmemeye karar verebilirler. Tartışmanız ve uzlaşı aramanız gerekirken, bakanlar kararınızla sizden daha uzun yaşamak zorundadır. Yönlerine katılmıyorsanız, daima kendi çatalınızla çalışabilir veya kendi projenizi başlatabilirsiniz.
 
 > Use *"Fikrimi destekleyemediğiniz için hayal kırıklığına uğradım, ancak bunun sadece kullanıcıların küçük bir bölümünü etkilediğini açıkladığınızdan, nedenini anlıyorum. Dinlediğiniz için teşekkürler."*
 > Use *"Neden fikrimi desteklemiyorsun? Bu kabul edilemez!"*
 
 **Her şeyden önce, zarif olun.** Açık kaynak dünyanın her yerinden ortak çalışanlardan oluşur. Bağlam, diller, kültürler, coğrafyalar ve zaman dilimleri arasında kaybolur. Ek olarak, yazılı iletişim bir ton veya ruh halini iletmeyi zorlaştırır. Bu konuşmalardaki iyi niyetleri düşünün. Bir fikre kibarca geri dönmek, daha fazla içerik istemek veya konumunuzu daha da netleştirmek iyi bir şey. İnterneti bulduğunuzdan daha iyi bir yer bırakmaya çalışın.
 
-### Gathering context
+### Bağlam toplama
 
 Herhangi bir şey yapmadan önce, fikrinizin başka bir yerde tartışılmadığından emin olmak için hızlıca kontrol edin. Projenin README'sini, sorunları (açık ve kapalı), posta listesini ve Stack Overflow'u gözden geçirin. Her şeyi yapmak için zaman harcamak zorunda değilsiniz, ancak birkaç anahtar terim için hızlı arama yapmak çok uzun sürüyor.
 
@@ -383,13 +371,7 @@ Bir sorun açmadan veya talepte bulunmadan önce, belirli bir şey eklemeniz ger
 
 Önemli bir katkı yapmak istiyorsanız, üzerinde çalışmadan önce sormanız gereken bir sorun açın. Projeyi bir süre izlemeniz yararlı olacaktır (GitHub'da, tüm konuşmalar size bildirilmek için ["İzle"yi tıklayabilirsiniz](https://help.github.com/articles/watching-repositories/)) ve kabul edilmeyebilecek işleri yapmadan önce topluluk üyelerini tanıyın.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
-<p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
-  </p>
-</aside>
+<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar"> Aktif olarak kullandığınız tek bir projeyi almak, GitHub'da “izlemek” ve her konuyu ve PR'ı okumaktan <em>çok şey</em> öğreneceksiniz. <p markdown="1" class="pquote-credit"> - @gaearon [birleştirme projelerinde] (https://twitter.com/dan_abramov/status/819555257055322112) </p></aside>
 
 ### Bir istek/sorun açmak
 
@@ -399,7 +381,7 @@ Genellikle aşağıdaki durumlarda bir sorun açmalısınız:
 - Üst düzey bir konuyu veya fikri tartışmak için (örneğin, topluluk, vizyon veya politikalar)
 - Yeni bir özellik veya başka bir proje fikri önermek için
 
-Tips for communicating on issues:
+Konularla iletişim kurmak için ipuçları:
 
 - **Başa çıkmak istediğiniz açık bir sorun görürseniz** , konuyla ilgili insanlara çalıştığınızı bildirmek için yorum yapın. Bu şekilde, insanların gereksiz yere çalışması daha az olasıdır.
 - **Eğer bir sorun bir süre önce açılmışsa**, başka bir yerde ele alınması ya da zaten çözülmüş olması olasıdır, bu nedenle çalışmaya başlamadan önce onay istemek için yorum yapın.
@@ -410,14 +392,14 @@ Tips for communicating on issues:
 Genellikle aşağıdaki durumlarda bir PR açmalısınız:
 
 - Önemsiz düzeltmeleri göndermek için (örneğin bir yazım hatası, bozuk bir bağlantı veya açık bir hata)
-- Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+- Bir konuda önceden sorulmuş veya daha önce konuşmuş olduğunuz bir katkı için çalışmaya başlayın
 
 Bir PR, bitmiş işi temsil etmek zorunda değildir. PR'ı erkenden açmak genellikle daha iyidir, bu nedenle diğerleri ilerlemeniz hakkında fikir sahibi olabilir veya geribildirimde bulunabilir. Sadece konu satırında bir "WIP" (Çalışmakta Olan Çalışma) etiketi ile işaretlemeniz yeterlidir. Daha sonra her zaman daha fazla geliştirme ekleyebilirsiniz.
 
 Proje GitHub'taysa, PR nasıl gönderilir:
 
 - **[Depoyu çatallayın](https://guides.github.com/activities/forking/)** ve yerel olarak klonlayın. Kendi yerelinize ana depoyu "upstream"  olarak bağlayın. Sık sık "upstream" den yapılan değişiklikleri çekin, böylece güncel kalırsınız ve çekme isteğinizi gönderdiğinizde, birleştirme çakışmalarının olasılığı daha düşük olur. ( [Burada](https://help.github.com/articles/syncing-a-fork/) daha ayrıntılı talimatlara bakın.)
-- **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
+- Düzenlemeleriniz için **[bir dal oluşturun](https://guides.github.com/introduction/flow/)** .
 - **PR'nızda ilgili sorunlara** veya destekleyici belgelere atıfta bulunun (örneğin, "Closes #37.")
 - Değişiklikleriniz HTML/CSS’de farklılıklar içeriyorsa **önceki ve sonraki ekran görüntülerini ekleyin**. Görüntüleri PR gövdesine sürükleyip bırakın.
 - **Değişikliklerinizi test edin!** Varsa, testleriniz varsa test edin ve gerektiğinde yenilerini oluşturun. Testlerin olup olmadığı, değişikliklerin mevcut projeyi bozmadığından emin olun.
@@ -433,7 +415,7 @@ Katkınızı gönderdikten sonra, aşağıdakilerden biri olacaktır:
 
 ### 😭 Hiç bir cevap almazsınız.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#a-checklist-before-you-contribute) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamayacağı olası.
 
 Bir haftadan uzun bir süredir yanıt alamadıysanız, aynı konuya kibarca yorum yazmak, birinden inceleme istemek doğru olur. Katkınızı gözden geçirecek doğru kişinin adını biliyorsanız, bunları o konuya ekleyebilirsiniz (@).
 
@@ -445,7 +427,7 @@ Kibar hatırlatmanıza rağmen hala kimse cevap vermiyorsa, hiç kimsenin cevap 
 
 Katkınızda değişiklik yapmanızın istenmesi, fikrinizin kapsamı hakkında geribildirimde bulunulması veya kodunuzda değişiklik yapmanız istenmesi yaygındır.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Birisi değişiklik istediğinde, duyarlı olun. Katkınızı gözden geçirmek için zaman harcadılar. Bir PR açmak ve uzaklaşmak kötü bir durumdur. Nasıl değişiklik yapılacağını bilmiyorsanız, sorunu araştırın, daha sonra ihtiyacınız olursa yardım isteyin.
 
 Artık sorun üzerinde çalışmak için zamanınız yoksa (örneğin, tartışma aylardır devam ediyorsa ve koşullarınız değiştiyse), ilgili kişilere yanıt beklememelerini bildirin. Başkası devralmaktan mutlu olabilir.
 
