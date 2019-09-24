@@ -212,6 +212,8 @@ Open source isn't an exclusive club; it's made by people just like you. "Open so
 
 You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
 
+Good first issue is a feature GitHub ships for encouraging new and beginner open source contributors for contributing in an open source project. If you are new for an open sourcr project or have never contributed in an any open source projects you can write a fix for a good first issues. These tickets helps you learn the open source organisation culture, maintainers ethics and communication practices. The maintainers keep the thought in mind that you are a new and beginner contributor in open source project if you are taking a good first issue.
+
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
 You can also use one of the following resources to help you discover and contribute to new projects:
