@@ -122,6 +122,14 @@ Organizational funding might go towards paying current contributors, covering th
 
 As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
 
+There are many good funding places and options are available such as
+- [Google Open Source Funding](https://opensource.google.com/docs/growing/funding/)
+- [Mozilla Open Source Projects Grants and Fundings](https://www.mozilla.org/en-US/moss/)
+- [Open Technology Funding and Grants](https://www.opentech.fund/)
+- [Horizon Open Source Projects Funding](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020)
+- [Python Software Foundation Funding and Grants](https://www.python.org/psf/grants/)
+- [Knight Foundation](https://www.knightfoundation.org/about)
+
 ### Raise money for your work through crowdfunding campaigns or sponsorships
 
 Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
