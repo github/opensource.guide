@@ -31,15 +31,15 @@ Topluluğunuzu oluştururken huninin tepesindeki birinin (potansiyel bir kullan�
 
 Belgelerinizle başlayın:
 
-- **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#writing-a-readme) ve açık kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
-- [CONTRIBUTING dosyanızı](../starting-a-project/#writing-your-contributing-guidelines) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
+* **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#writing-a-readme) ve açık kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
+* [CONTRIBUTING dosyanızı](../starting-a-project/#writing-your-contributing-guidelines) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
 
 [GitHub'un 2017 Açık Kaynak Araştırması](http://opensourcesurvey.org/2017/) , eksik veya kafa karıştırıcı belgelerin açık kaynak kullanıcıları için en büyük sorun olduğunu gösterdi. İyi belgeler insanları projenizle etkileşime teşvik eder. Sonunda birisi bir sorun açacak veya istekte bulunacak. Bu etkileşimleri, dönüşüm hunisinden aşağıya taşımak için fırsat olarak kullanın.
 
-- **Yeni birileri projenize geldiğinde, ilgilendikleri için teşekkür edin!** Birinin geri gelmek istememesi için yalnızca bir olumsuz deneyim yeterlidir.
-- **Hızlı cevap verin.** Sorunlarına bir ay boyunca cevap vermezseniz, büyük olasılıkla projenizi çoktan unutmuş olurlar.
-- **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#what-it-means-to-contribute) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
-- **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#learning-to-say-no) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
+* **Yeni birileri projenize geldiğinde, ilgilendikleri için teşekkür edin!** Birinin geri gelmek istememesi için yalnızca bir olumsuz deneyim yeterlidir.
+* **Hızlı cevap verin.** Sorunlarına bir ay boyunca cevap vermezseniz, büyük olasılıkla projenizi çoktan unutmuş olurlar.
+* **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#what-it-means-to-contribute) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
+* **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#learning-to-say-no) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar"> Açık kaynağa katkıda bulunmak, bazıları için daha kolaydır. İnsanların içinde bir şeyi doğru anlamadıkları ya da yapmadıkları için uyarılma korkuları vardır. (...) Katkı yapanlara çok düşük teknik yeterlilikle (dokümantasyon, web içeriği işaretlemesi vb.) katkıda bulunacakları bir yol vererek, bu korkuyu büyük ölçüde azaltabilirsiniz. bu endişeler. <p markdown="1" class="pquote-credit"> - @mikeal, ["Modern açık kaynakta katılımcı tabanını büyütmek"] (https://opensource.com/life/16/5/growing-contributor-base-modern-open-source) </p></aside>
 
@@ -119,7 +119,7 @@ CONTRIBUTING dosyanızda, yeni katılımcılara nasıl başlayacaklarını açı
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-Sorun listenizde, katkıda bulunanlar için farklı türlerlerde etiket kullanmak uygundur: örneğin, [*"ilk gelenler için"*](https://kentcdodds.com/blog/first-timers-only) , *"başlamak için"* veya *"belge".* [Bu etiketler](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14), projenizde yeni birisinin sorunlarınızı hızla taramasını ve başlamasını kolaylaştırır.
+Sorun listenizde, katkıda bulunanlar için farklı türlerlerde etiket kullanmak uygundur: örneğin, [_"ilk gelenler için"_](https://kentcdodds.com/blog/first-timers-only) , _"başlamak için"_ veya _"belge"._ [Bu etiketler](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14), projenizde yeni birisinin sorunlarınızı hızla taramasını ve başlamasını kolaylaştırır.
 
 Son olarak, insanların yolun her aşamasında kendilerini rahat hissetmelerini sağlamak için belgelerinizi kullanın.
 
@@ -137,17 +137,17 @@ Projenize ulaşan çoğu insanla asla etkileşime geçmeyeceksiniz. Biri kendini
 
 Mülkiyetinizi topluluğunuzla mümkün olduğunca paylaşmanın yollarını bulabilecek misiniz bir bakın. İşte bazı fikirler:
 
-- **Kolay (kritik olmayan) hataları düzeltmeye karşı direnç gösterin.** Bunun yerine, bunları yeni katkıda bulunanlar bulmak için fırsatlar olarak kullanın veya katkıda bulunmak isteyen birini akıl hocası olarak kullanın. İlk başta doğal görünmeyebilir, ancak yatırımınız zamanla karşılığını verir. Örneğin, @michaeljoseph, bir katılımcıdan, kendisini düzeltmek yerine, [Cookiecutter](https://github.com/audreyr/cookiecutter) konusuna ilişkin bir PR isteği göndermesini istedi.
+* **Kolay (kritik olmayan) hataları düzeltmeye karşı direnç gösterin.** Bunun yerine, bunları yeni katkıda bulunanlar bulmak için fırsatlar olarak kullanın veya katkıda bulunmak isteyen birini akıl hocası olarak kullanın. İlk başta doğal görünmeyebilir, ancak yatırımınız zamanla karşılığını verir. Örneğin, @michaeljoseph, bir katılımcıdan, kendisini düzeltmek yerine, [Cookiecutter](https://github.com/audreyr/cookiecutter) konusuna ilişkin bir PR isteği göndermesini istedi.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-- Projenizde, projenize katkıda bulunan herkesi listeleyen **bir CONTRIBUTORS veya AUTHORS dosyası başlatın**,[Sinatra'nın](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) yaptığı gibi.
+* Projenizde, projenize katkıda bulunan herkesi listeleyen **bir CONTRIBUTORS veya AUTHORS dosyası başlatın**,[Sinatra'nın](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) yaptığı gibi.
 
-- Oldukça büyük bir topluluğunuz varsa, **bülten gönderin veya katkıda bulunanlara teşekkür eden bir blog yazısı yazın** . Rust'ın [Rust'ta Bu Hafta](https://this-week-in-rust.org/) ve Hoodie'nin [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) bültenleri iki güzel örnek.
+* Oldukça büyük bir topluluğunuz varsa, **bülten gönderin veya katkıda bulunanlara teşekkür eden bir blog yazısı yazın** . Rust'ın [Rust'ta Bu Hafta](https://this-week-in-rust.org/) ve Hoodie'nin [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) bültenleri iki güzel örnek.
 
-- **Her katkıda bulunana commit izni verin.** @felixge, bunun insanları [yamalarını cilalama konusunda daha heyecanlı](https://felixge.de/2013/03/11/the-pull-request-hack.html) hale getirdiğini buldu ve bir süredir üzerinde çalışmadığı projeler için yeni geliştiriciler buldu.
+* **Her katkıda bulunana commit izni verin.** @felixge, bunun insanları [yamalarını cilalama konusunda daha heyecanlı](https://felixge.de/2013/03/11/the-pull-request-hack.html) hale getirdiğini buldu ve bir süredir üzerinde çalışmadığı projeler için yeni geliştiriciler buldu.
 
-- Projeniz GitHub'daysa, **projenizi kişisel hesabınızdan bir [Organizasyona](https://help.github.com/articles/creating-a-new-organization-account/) hesabına taşıyın** ve en az bir yedek yönetici ekleyin. Organizasyon hesapları, harici çalışanlarla projeler üzerinde çalışmayı kolaylaştırır.
+* Projeniz GitHub'daysa, **projenizi kişisel hesabınızdan bir [Organizasyona](https://help.github.com/articles/creating-a-new-organization-account/) hesabına taşıyın** ve en az bir yedek yönetici ekleyin. Organizasyon hesapları, harici çalışanlarla projeler üzerinde çalışmayı kolaylaştırır.
 
 Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.com/preprints/1233.pdf) bir veya iki koruyucu var. Projeniz büyüdükçe ve topluluğunuz büyüdükçe, yardım bulmak o kadar kolay olur.
 
@@ -187,7 +187,7 @@ Oylama, topluluk üyelerinin birbirlerine iyilik yapmak veya belirli bir şekild
 
 Bazen oy vermek gerekli bir kilitleyicidir. Ancak, mümkün olduğu kadar, fikir birliği yerine ["fikir birliği arayışı"nı](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) vurgulayın.
 
-Bir uzlaşma arayışı sürecinde, topluluk üyeleri yeterince duyulduğunu hissedene kadar önemli endişeleri tartışırlar. Sadece küçük kaygılar devam ederse, topluluk ileriye doğru hareket eder. “Konsensus arayışı”, bir topluluğun mükemmel bir cevaba ulaşamayabileceğini kabul eder. Bunun yerine, dinlemeye ve tartışmaya öncelik verir.
+Bir uzlaşma arayışı sürecinde, topluluk üyeleri yeterince duyulduğunu hissedene kadar önemli endişeleri tartışırlar. Sadece küçük kaygılar devam ederse, topluluk ileriye doğru hareket eder. "Konsensus arayışı", bir topluluğun mükemmel bir cevaba ulaşamayabileceğini kabul eder. Bunun yerine, dinlemeye ve tartışmaya öncelik verir.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar"> Atom sorunları için oylama sisteminin bulunmamasının bir nedeni, Atom ekibinin her durumda bir oylama sistemini takip etmemesidir. Bazen popüler olmasa bile doğru olanı seçmemiz gerekir. (...) Yapabileceğim ve yapabileceğim tek şey ... toplumu dinlemek benim işim. <p markdown="1" class="pquote-credit"> - [Atomun karar alma süreci] 'nde @ lee-dohm (https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2) </p></aside>
 
@@ -203,9 +203,9 @@ Aktif olarak çözüme doğru hareket ettiği sürece tartışmayı teşvik edin
 
 Bu konuşmaların devam etmesine izin vermek yalnızca eldeki sorun için değil, topluluğunuzun sağlığı için de kötüdür. Bu tür konuşmalara izin verildiğini veya hatta teşvik edildiğini bildiren bir mesaj gönderir ve insanları gelecekteki sorunları dile getirmeleri veya çözmeleri konusunda cesaretlerini kırar.
 
-Siz veya başkaları tarafından yapılan her noktada kendinize, *“Bu bizi çözüme nasıl daha fazla yaklaştırır?” Diye sorun.*
+Siz veya başkaları tarafından yapılan her noktada kendinize, _"Bu bizi çözüme nasıl daha fazla yaklaştırır?" Diye sorun._
 
-Konuşma çözülmeye ulaştıysa, sohbeti yeniden odaklamak için gruba *"Bundan sonra hangi adımları atmalıyız?"* diye sorun.
+Konuşma çözülmeye ulaştıysa, sohbeti yeniden odaklamak için gruba _"Bundan sonra hangi adımları atmalıyız?"_ diye sorun.
 
 Bir konuşma açıkça bir yere gitmiyorsa, yapılacak net bir işlem yoksa veya uygun bir işlem yapılmamışsa, sorunu kapatın ve neden kapattığınızı açıklayın.
 
@@ -227,6 +227,6 @@ Projenin ana sorumlusu bir eşitlik bozucu olabilir veya oylamaya dayalı bir ka
 
 Eşitlik bozucu son bir çare olmalı. Bölücü konular topluluğunuzun büyümesi ve öğrenmesi için bir fırsattır. Bu fırsatları benimseyin ve mümkün olan her yerde bir çözüme geçmek için ortak bir süreç kullanın.
 
-## Topluluk açık kaynağın ❤️'ı
+## Topluluk açık kaynağın ❤️'"ı
 
 Sağlıklı, gelişen topluluklar her hafta açık kaynağa dökülen binlerce saati besliyor. Katkıda bulunan birçok kişi, diğer insanlara açık kaynak üzerinde çalışmanın veya çalışmamanın nedeni olarak ilham veriyor. Bu güce yapıcı olarak nasıl dokunulacağını öğrenerek, dışarıdaki birisinin unutulmaz bir açık kaynak deneyimine sahip olmasına yardımcı olacaksınız.

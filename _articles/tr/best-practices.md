@@ -62,10 +62,10 @@ Projenizi yarı zamanlı veya tamamen gönüllü olarak sürdürmekteyseniz, ne 
 
 Yazmaya değer birkaç kural:
 
-- Bir katkı nasıl gözden geçirilir ve kabul edilir ( *Testlere ihtiyaçları var mı? Bir sorun şablonu var mı?* )
-- Kabul edeceğiniz katkı türleri ( *Kodunuzun yalnızca belirli bir bölümünde yardım mı istiyorsunuz?* )
-- Bekleme süresi ne kadardır (*örneğin, "7 gün içinde bir bakıcıdan bir yanıt bekleyebilirsiniz. O zamana kadar bir şey duymadıysanız, ipliğe ping atmaktan çekinmeyin."*)
-- Projeye ne kadar zaman harcıyorsunuz (*örneğin, "Bu projeye haftada sadece 5 saat harcıyoruz"*)
+* Bir katkı nasıl gözden geçirilir ve kabul edilir ( *Testlere ihtiyaçları var mı? Bir sorun şablonu var mı?* )
+* Kabul edeceğiniz katkı türleri ( *Kodunuzun yalnızca belirli bir bölümünde yardım mı istiyorsunuz?* )
+* Bekleme süresi ne kadardır (*örneğin, "7 gün içinde bir bakıcıdan bir yanıt bekleyebilirsiniz. O zamana kadar bir şey duymadıysanız, ipliğe ping atmaktan çekinmeyin."*)
+* Projeye ne kadar zaman harcıyorsunuz (*örneğin, "Bu projeye haftada sadece 5 saat harcıyoruz"*)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) ve [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) geliştiriciler ve katkıda bulunanlar için temel kuralları olan projelere birkaç örnektir.
 
@@ -83,7 +83,7 @@ Her şeyi yazdınız. İdeal olarak, herkes belgelerinizi okur, ancak gerçekte,
 
 Bununla birlikte, her şeyin yazılı olması, kurallarınızı uygulamanız gerektiğinde durumları kişisellikten uzaklaştırmanıza yardımcı olur.
 
-Hayır demenin eğlenceli olmadığı kesin, ancak *“Katkınız bu projenin ölçütlerine uymuyor* *” cevabı “Katkınızı beğenmedim”* cevabından daha kurumsal hissettiriyor.
+Hayır demenin eğlenceli olmadığı kesin, ancak "*Katkınız bu projenin ölçütlerine uymuyor*" cevabı "*Katkınızı beğenmedim*" cevabından daha kurumsal hissettiriyor.
 
 Bir geliştirici olarak karşılaşacağınız birçok durum için hayır demek uygundur: Örneğin, kapsama uygun olmayan özellik talepleri, tartışmanın rayından çıkması durumunda, başkaları için gereksiz işler yapılması durumunda.
 
@@ -107,10 +107,10 @@ Kabul etmek istemediğinizi bildiğiniz katkıları derhal kapatmak daha iyidir.
 
 Bir katkı kabul etmek istemiyorsanız:
 
-- Katkılarından dolayı **teşekkür edin**.
-- **Neden proje kapsamına girmediğini açıklayın** ve mümkünse iyileştirme için net önerilerde bulunun. Nazik ama kararlı olun.
-- Varsa, **ilgili belgelere link verin**. Kabul etmek istemediğiniz şeyler için tekrarlanan istekler fark ederseniz, tekrar etmemek için bunları belgelerinize ekleyin.
-- **İsteği kapatın.**
+* Katkılarından dolayı **teşekkür edin**.
+* **Neden proje kapsamına girmediğini açıklayın** ve mümkünse iyileştirme için net önerilerde bulunun. Nazik ama kararlı olun.
+* Varsa, **ilgili belgelere link verin**. Kabul etmek istemediğiniz şeyler için tekrarlanan istekler fark ederseniz, tekrar etmemek için bunları belgelerinize ekleyin.
+* **İsteği kapatın.**
 
 Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [kerevizin](https://github.com/celery/celery/) kullanıcısı Windows ile ilgili bir hata bildirdiğinde, @berkerpeksag [verdiği cevap](https://github.com/celery/celery/issues/3383):
 
@@ -120,9 +120,9 @@ Eğer hayır deme düşüncesi sizi korkutuyorsa, yalnız değilsiniz. @Jessfraz
 
 > Birkaç farklı açık kaynaklı projeden, Mesos, Kubernetes, Chromium'dan gelenlerle konuştum ve hepsi de bir geliştirici olmanın en zor kısımlarından birinin istemediğiniz yamalar için "Hayır" demek olduğu konusunda hemfikirler.
 
-Birinin katkısını kabul etmek istemediğiniz için suçluluk hissetmeyin. @Shykes'e [göre](https://twitter.com/solomonstre/status/715277134978113536) ilk açık kaynak kuralı: *"Hayır geçici, evet kalıcıdır."* Başka birinin coşkusunu empati etmek iyi bir şey olsa da, bir katkıyı reddetmek, arkasındaki kişiyi reddetmekle aynı değildir.
+Birinin katkısını kabul etmek istemediğiniz için suçluluk hissetmeyin. @Shykes'e [göre](https://twitter.com/solomonstre/status/715277134978113536) ilk açık kaynak kuralı: _"Hayır geçici, evet kalıcıdır."_ Başka birinin coşkusunu empati etmek iyi bir şey olsa da, bir katkıyı reddetmek, arkasındaki kişiyi reddetmekle aynı değildir.
 
-Sonuçta, eğer bir katkı yeterince iyi değilse, kabul etme yükümlülüğünüz yoktur. İnsanlar projenize katkıda bulunurken nazik ve duyarlı olun, ancak yalnızca projenizi daha iyi hale getireceğine gerçekten inandığınız değişiklikleri kabul edin. Ne kadar sık sık hayır demeyi pratik edersen, işin o kadar kolaylaşır. Kesinlikle.
+Sonuçta, eğer bir katkı yeterince iyi değilse, kabul etme yükümlülüğünüz yoktur. İnsanlar projenize katkıda bulunurken nazik ve duyarlı olun, ancak yalnızca projenizi daha iyi hale getireceğine gerçekten inandığınız değişiklikleri kabul edin. Ne kadar sık hayır demeyi pratik edersen, işin o kadar kolaylaşır. Kesinlikle.
 
 ### Proaktif olun
 
@@ -130,8 +130,8 @@ Sonuçta, eğer bir katkı yeterince iyi değilse, kabul etme yükümlülüğün
 
 Çok fazla düşük kaliteli katkı alıyorsanız, katkıda bulunanların önceden biraz çalışma yapmasını isteyin, örneğin:
 
-- Bir sorun veya PR şablonunu veya kontrol listesi doldurma
-- PR göndermeden önce bir sorun açma
+* Bir sorun veya PR şablonunu veya kontrol listesi doldurma
+* PR göndermeden önce bir sorun açma
 
 Kurallarınıza uymuyorlarsa, belgelerinizi referans göstererek sorunu hemen kapatın.
 
@@ -145,7 +145,7 @@ Bazen, hayır dediğinizde, katkıda bulunan kişi kararınızdan dolayı kırı
 
 Belki de topluluğunuzdaki birileri düzenli olarak projenizin standartlarını karşılamayan katkılar sunar. Her iki tarafın da bu reddedilme süreçlerinden defalarca geçmesi sinir bozucu olabilir.
 
-Birinin projeniz için hevesli olduğunu ancak biraz el vermek gerektirdiğini görürseniz, sabırlı olun. Her durumda katkılarının neden projenin beklentilerini karşılamadığını açık bir şekilde açıklayın. Onları ellerini kirletmek için *"ilk iş için uygun"* olarak işaretlenmiş bir konu gibi daha kolay veya daha az belirsiz bir işe yönlendirmeyi deneyin. Vaktiniz varsa, ilk katkılarınla onlara mentor olmayı düşünün veya topluluğunuzda mentor olmaya istekli olabilecek başka birini bulun.
+Birinin projeniz için hevesli olduğunu ancak biraz el vermek gerektirdiğini görürseniz, sabırlı olun. Her durumda katkılarının neden projenin beklentilerini karşılamadığını açık bir şekilde açıklayın. Onları ellerini kirletmek için _"ilk iş için uygun"_ olarak işaretlenmiş bir konu gibi daha kolay veya daha az belirsiz bir işe yönlendirmeyi deneyin. Vaktiniz varsa, ilk katkılarınla onlara mentor olmayı düşünün veya topluluğunuzda mentor olmaya istekli olabilecek başka birini bulun.
 
 ## Topluluğunuzdan yararlanın
 
@@ -203,11 +203,11 @@ Popüler bir projeyi sürdürmenin iyi haberi, diğer geliştiricilerin de benze
 
 Bakım çalışmalarının bazı yönlerini otomatikleştirmeye yardımcı olacak [çeşitli araçlar vardır](https://github.com/showcases/tools-for-open-source). Birkaç örnek:
 
-- [semantic-release](https://github.com/semantic-release/semantic-release) sürümlerinizi otomatikleştirir
-- [mention-bot](https://github.com/facebook/mention-bot) PR talepleri için potansiyel denetçilerden bahseder
-- [Danger](https://github.com/danger/danger) kod incelemesini otomatikleştirmeye yardımcı olur
-- [no-response](https://github.com/probot/no-response) geliştiricilerin uzun süre yanıt vermediği sorunları kapatır
-- [dependabot-preview](https://github.com/marketplace/dependabot-preview) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
+* [semantic-release](https://github.com/semantic-release/semantic-release) sürümlerinizi otomatikleştirir
+* [mention-bot](https://github.com/facebook/mention-bot) PR talepleri için potansiyel denetçilerden bahseder
+* [Danger](https://github.com/danger/danger) kod incelemesini otomatikleştirmeye yardımcı olur
+* [no-response](https://github.com/probot/no-response) geliştiricilerin uzun süre yanıt vermediği sorunları kapatır
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
 
 Hata raporları ve diğer genel katkılar için GitHub, aldığınız iletişimi kolaylaştırmak için oluşturabileceğiniz [Sorun Şablonlarına ve PR İsteği Şablonlarına](https://github.com/blog/2111-issue-and-pull-request-templates) sahiptir. @TalAter sorununuzu ve PR şablonlarınızı yazmanıza yardımcı olmak için [Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/) rehberini geliştirdi.
 
