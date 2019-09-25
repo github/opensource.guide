@@ -19,7 +19,7 @@ toc:
     katkı göndermeye başlarsa ne olur?
   do-i-need-a-legal-entity-to-support-my-project: Projemi desteklemek için tüzel kişiliğe
     ihtiyacım var mı?
-order: '6'
+order: 6
 image: "/assets/images/cards/leadership.png"
 related:
 - örnek uygulamaları
@@ -36,19 +36,19 @@ Birçok proje katılımcı rolleri ve tanınması için ortak benzer bir yapı i
 
 Bu rollerin aslında ne anlama geldiği tamamen size kalmış bir şey. İşte size de tanıdık gelebilecek rollerin birkaçı:
 
-- **Sorumlu (maintainer)**
-- **Katkıda bulunan (contributor)**
-- **Ekip üyesi**
+* **Sorumlu (maintainer)**
+* **Katkıda bulunan (contributor)**
+* **Ekip üyesi**
 
-**Bazı projeler için, "sorumlular"** projeye giriş hakkı olan projedeki tek kişilerdir. Diğer projelerde, onlar sadece README'de listelenen insanlardır.
+**Bazı projeler için, "sorumlular"** projeye giriş hakkı olan projedeki tek kişilerdir. Diğer projelerde, onlar sadece README"de listelenen insanlardır.
 
 Bir sorumlu projeniz için kod yazan bir kişi olması gerekmez. Projenizi değiştirmek için çok fazla iş yapan veya projeyi başkalarına daha erişilebilir kılan yazılı belgeler olabilir. Günlük olarak ne yaptıklarından bağımsız olarak, bir sorumlu muhtemelen proje yönünden sorumluluk duyan ve geliştirmeye kendini adamış bir kişidir.
 
-**"Katkıda bulunan"** , bir sorun veya çekme isteği hakkında yorum yapan, projeye değer katan insanlar (bu, sorunları birleştiren, kod yazan veya etkinlik düzenleyen) veya birleştirilmiş PR'ı olan herkes (belki de en dar tanımı katkıda bulunan) olabilir.
+**"Katkıda bulunan"** , bir sorun veya çekme isteği hakkında yorum yapan, projeye değer katan insanlar (bu, sorunları birleştiren, kod yazan veya etkinlik düzenleyen) veya birleştirilmiş PR"ı olan herkes (belki de en dar tanımı katkıda bulunan) olabilir.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar"> \[Node.js için\] bir sorun hakkında yorum yapan veya kod gönderen herkes proje topluluğunun bir üyesidir. Onları görebilmek, bir kullanıcı olmaktan katkıda bulunmaya kadar çizgiyi aştıkları anlamına geliyor. <p markdown="1" class="pquote-credit"> - @mikeal, ["Sağlıklı Açık Kaynak"] (https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951) </p></aside>
 
-**“committer” terimi** , belirli bir sorumluluk türü olan commit erişimini diğer katkı şekillerinden ayırmak için kullanılabilir.
+**"committer" terimi** , belirli bir sorumluluk türü olan commit erişimini diğer katkı şekillerinden ayırmak için kullanılabilir.
 
 Proje rollerinizi dilediğiniz şekilde tanımlayabilmenize rağmen, daha fazla katkı biçimi geliştirmek için [daha geniş tanımları kullanmayı düşünün](../how-to-contribute/#what-it-means-to-contribute). Teknik becerilerinden bağımsız olarak, projenize olağanüstü katkı sağlayan kişileri resmen tanımak için liderlik rollerini kullanabilirsiniz.
 
@@ -62,11 +62,11 @@ Daha küçük bir proje için, lider seçmek isimlerini README veya bir CONTRIBU
 
 Daha büyük bir proje için, bir web siteniz varsa, bir ekip sayfası oluşturun veya proje liderlerinizi burada listeleyin. Örneğin, [Postgres](https://github.com/postgres/postgres/) , her katılımcı için kısa profillerden oluşan [kapsamlı bir ekip sayfasına](https://www.postgresql.org/community/contributors/) sahiptir.
 
-Projeniz çok aktif bir katılımcı topluluğa sahipse, farklı konu alanlarına (örneğin, güvenlik, sorun izleme veya topluluk davranışı) sahip olan kişilerden oluşan bir “çekirdek ekip” veya hatta alt grup komiteleri oluşturabilirsiniz. İnsanların, kendilerini atamak yerine, en çok heyecanlandıkları roller için kendi kendilerini organize etmelerine ve gönüllü olmalarına izin verin.
+Projeniz çok aktif bir katılımcı topluluğa sahipse, farklı konu alanlarına (örneğin, güvenlik, sorun izleme veya topluluk davranışı) sahip olan kişilerden oluşan bir "çekirdek ekip" veya hatta alt grup komiteleri oluşturabilirsiniz. İnsanların, kendilerini atamak yerine, en çok heyecanlandıkları roller için kendi kendilerini organize etmelerine ve gönüllü olmalarına izin verin.
 
 <aside markdown="1" class="pquote">\[Biz\] çekirdek takıma birkaç "alt takım" ekliyoruz. Her alt takım belirli bir alana, örneğin dil tasarımına veya kütüphanelere odaklanır. (...) Küresel koordinasyon ve bir bütün olarak proje için güçlü, tutarlı bir vizyon sağlamak için her bir alt ekip, çekirdek ekibin bir üyesi tarafından yönetilir. <p markdown="1" class="pquote-credit"> - ["Rust Yönetişim RFC"] (https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md) </p></aside>
 
-Liderlik ekipleri projeyi tartışmak için (Gitter veya Google Hangout'ta olduğu gibi) belirlenmiş bir kanal oluşturmak (IRC'deki gibi) veya düzenli olarak buluşmak isteyebilir. Hatta başkalarının dinleyebilmesi için bu toplantıları halka açabilirsiniz. Örneğin [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [her hafta çalışma saatlerinde yayın yapar yapar](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs) .
+Liderlik ekipleri projeyi tartışmak için (Gitter veya Google Hangout'ta olduğu gibi) belirlenmiş bir kanal oluşturmak (IRC'deki gibi) veya düzenli olarak buluşmak isteyebilir. Hatta başkalarının dinleyebilmesi için bu toplantıları halka açabilirsiniz. Örneğin [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [her hafta çalışma saatlerinde yayın yapar](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs) .
 
 Liderlik rolleri belirledikten sonra, insanların onlara nasıl ulaşabileceğini belgelemeyi unutmayın! Projenizde birisinin nasıl sorumlu olabileceği ya da bir alt komiteye katılabileceği konusunda net bir süreç belirleyin ve bunu GOVERNANCE.md'inize yazın.
 
@@ -80,7 +80,7 @@ Bazı insanlar katkıda bulunan herkese commit yetkisi vermeniz gerektiğini dü
 
 Öte yandan, özellikle daha büyük, daha karmaşık projeler için, yalnızca kendilerini kanıtlayan kişilere commit hakkı vermek isteyebilirsiniz. Bunu yapmanın doğru bir yolu yok - sizi en rahat ettiren şeyi yapın!
 
-Projeniz GitHub’daysa, belirli bir dala kimin ve hangi şartlar altında kod gönderebileceğini yönetmek için [korumalı dalları](https://help.github.com/articles/about-protected-branches/) kullanabilirsiniz.
+Projeniz GitHub"daysa, belirli bir dala kimin ve hangi şartlar altında kod gönderebileceğini yönetmek için [korumalı dalları](https://help.github.com/articles/about-protected-branches/) kullanabilirsiniz.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar"> Birisi size bir PR gönderdiğinde, projenize erişmelerini sağlayın. İlk başta inanılmaz derecede aptalca görünse de, bu stratejiyi kullanmak GitHub’ın gerçek gücünü ortaya çıkarmanıza izin verecektir. (...) İnsanlar bir kez giriş yaptıklarında, yamalarının bozulmadan kalmasından endişe etmiyorlar ... ... daha çok çalışmalarına neden oluyor. <p markdown="1" class="pquote-credit"> - @felixge, ["The Pull Request Hack"] (https://felixge.de/2013/03/11/the-pull-request-hack.html) </p></aside>
 
@@ -88,17 +88,17 @@ Projeniz GitHub’daysa, belirli bir dala kimin ve hangi şartlar altında kod g
 
 Açık kaynak projeleriyle ilgili üç ortak yönetim yapısı vardır.
 
-- **BDFL:** BDFL (Benevolent Dictator for Life) "Yaşam için Yardımcı Diktatör" anlamına gelir. Bu yapı altında, bir kişinin (genellikle projenin ilk yazarı) tüm büyük proje kararları hakkında kesin sözleri vardır. [Python](https://github.com/python) klasik bir örnektir. Daha küçük projeler muhtemelen varsayılan olarak BDFL'dir, çünkü yalnızca bir veya iki koruyucu vardır. Bir şirketten kaynaklanan bir proje de BDFL kategorisine girebilir.
+* **BDFL:** BDFL (Benevolent Dictator for Life) "Yaşam için Yardımcı Diktatör" anlamına gelir. Bu yapı altında, bir kişinin (genellikle projenin ilk yazarı) tüm büyük proje kararları hakkında kesin sözleri vardır. [Python](https://github.com/python) klasik bir örnektir. Daha küçük projeler muhtemelen varsayılan olarak BDFL'dir, çünkü yalnızca bir veya iki koruyucu vardır. Bir şirketten kaynaklanan bir proje de BDFL kategorisine girebilir.
 
-- **Meritokrasi:** **(Not: "meritokrasi" terimi, bazı topluluklar için olumsuz çağrışımlar taşır ve özellikle [karmaşık bir sosyal ve politik tarihe sahip](http://geekfeminism.wikia.com/wiki/Meritocracy) ülkelerde.)** Bir meritokrasi kapsamında, aktif proje katılımcılarına ("sahiplik" gösterenler) resmi bir karar verme rolü verilir. Kararlar genellikle saf oy birliği ile yapılır. Meritokrasi kavramı [Apache Vakfı](https://www.apache.org/) tarafından öncülük edildi; [tüm Apache projeleri](https://www.apache.org/index.html#projects-list) meritokrasilerdir. Katkılar, bir şirketi değil, yalnızca kendilerini temsil eden kişiler tarafından yapılabilir.
+* **Meritokrasi:** **(Not: "meritokrasi" terimi, bazı topluluklar için olumsuz çağrışımlar taşır ve özellikle [karmaşık bir sosyal ve politik tarihe sahip](http://geekfeminism.wikia.com/wiki/Meritocracy) ülkelerde.)** Bir meritokrasi kapsamında, aktif proje katılımcılarına ("sahiplik" gösterenler) resmi bir karar verme rolü verilir. Kararlar genellikle saf oy birliği ile yapılır. Meritokrasi kavramı [Apache Vakfı](https://www.apache.org/) tarafından öncülük edildi; [tüm Apache projeleri](https://www.apache.org/index.html#projects-list) meritokrasilerdir. Katkılar, bir şirketi değil, yalnızca kendilerini temsil eden kişiler tarafından yapılabilir.
 
-- **Liberal katkı:** Liberal katkı modelinde, en çok işi yapan insanlar en etkili olarak kabul edilir, ancak bu mevcut çalışmalara dayanmaktadır ve tarihi katkılara dayanmamaktadır. Büyük proje kararları, saf oylama yerine oybirliği arayışı sürecine (büyük şikayetleri tartışmak) temel almakta ve mümkün olduğunca çok toplum perspektifini dahil etmeye çalışmaktadır. Liberal bir katkı modeli kullanan popüler proje örnekleri arasında [Node.js](https://foundation.nodejs.org/) ve [Rust bulunur](https://www.rust-lang.org/) .
+* **Liberal katkı:** Liberal katkı modelinde, en çok işi yapan insanlar en etkili olarak kabul edilir, ancak bu mevcut çalışmalara dayanmaktadır ve tarihi katkılara dayanmamaktadır. Büyük proje kararları, saf oylama yerine oybirliği arayışı sürecine (büyük şikayetleri tartışmak) temel almakta ve mümkün olduğunca çok toplum perspektifini dahil etmeye çalışmaktadır. Liberal bir katkı modeli kullanan popüler proje örnekleri arasında [Node.js](https://foundation.nodejs.org/) ve [Rust bulunur](https://www.rust-lang.org/) .
 
 Hangisini kullanmalısın? Sana kalmış! Her modelin avantajları ve avantajları vardır. İlk başta oldukça farklı görünseler de, üç modelin de göründüğünden daha çok ortak noktaları vardır. Bu modellerden birini benimsemekle ilgileniyorsanız, şu şablonları inceleyin:
 
-- [BDFL model şablonu](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-- [Meritokrasi modeli şablonu](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-- [Node.js'in liberal katkı politikası](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [BDFL model şablonu](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [Meritokrasi modeli şablonu](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Node.js'in liberal katkı politikası](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Projemi başlattığımda yönetim belgelerine ihtiyacım var mı?
 
@@ -118,7 +118,7 @@ Proje yaygınlaştıkça, konusunda uzmanlığı olan kişilerden daha fazla ra�
 
 Ticari faaliyeti normal ve başka bir gelişme enerjisi kaynağı olarak ele almak önemlidir. Ücretli geliştiriciler elbette ücretsiz olanlar için özel muamele görmemelidir; Her katkı, teknik esasına göre değerlendirilmelidir. Bununla birlikte, insanlar ticari faaliyetlerde bulunmak için kendilerini rahat hissetmeli ve belirli bir geliştirme veya özellik lehine tartışırken kullanım durumlarını belirtmekte kendilerini rahat hissetmelidirler.
 
-"Ticari", "açık kaynak" ile tamamen uyumludur. “Ticari” sadece bir yerde para olduğu anlamına gelir - yazılımın bir projenin benimsenmesi arttıkça artan bir şekilde ticarette kullanıldığı anlamına gelir. (Açık kaynaklı yazılım, açık kaynaklı olmayan bir ürünün parçası olarak kullanıldığında, genel ürün hala "tescilli" bir yazılımdır, ancak açık kaynaklı gibi ticari veya ticari olmayan amaçlar için de kullanılabilir.)
+"Ticari", "açık kaynak" ile tamamen uyumludur. "Ticari" sadece bir yerde para olduğu anlamına gelir - yazılımın bir projenin benimsenmesi arttıkça artan bir şekilde ticarette kullanıldığı anlamına gelir. (Açık kaynaklı yazılım, açık kaynaklı olmayan bir ürünün parçası olarak kullanıldığında, genel ürün hala "tescilli" bir yazılımdır, ancak açık kaynaklı gibi ticari veya ticari olmayan amaçlar için de kullanılabilir.)
 
 Diğer herkes gibi, ticari olarak motive edilmiş geliştiriciler, katkılarının niteliği ve niceliği ile projede etki kazanabilirler. Açıkçası, zamanı için ödeme yapan bir geliştirici, ödeme almayan birinden daha fazlasını yapabilir, ancak sorun değil: ödeme, birisinin ne kadarını etkileyebilecek olası birçok faktörden yalnızca biridir. Proje tartışmalarınızda, insanların bu katkıları yapmalarını sağlayan dış etkenlere değil, katkılara odaklanmaya devam edin.
 
@@ -128,7 +128,7 @@ Parayla çalışmadığınız sürece açık kaynak projenizi desteklemek için 
 
 Örneğin, ticari bir işletme oluşturmak istiyorsanız, bir C Corp veya LLC kurmak istersiniz (ABD merkezli iseniz). Açık kaynak projenizle ilgili sadece sözleşmeli iş yapıyorsanız, parayı tek mal sahibi olarak kabul edebilir veya bir LLC (ABD merkezli iseniz) kurabilirsiniz.
 
-Açık kaynak projeniz için bağış kabul etmek istiyorsanız, bağış butonu ayarlayabilirsiniz (örneğin, PayPal veya Stripe kullanarak), ancak uygun olmayan bir kar amacı gütmediğiniz sürece para vergiden düşülmez (eğer bir 501c3, ABD’desiniz).
+Açık kaynak projeniz için bağış kabul etmek istiyorsanız, bağış butonu ayarlayabilirsiniz (örneğin, PayPal veya Stripe kullanarak), ancak uygun olmayan bir kar amacı gütmediğiniz sürece para vergiden düşülmez (eğer bir 501c3, ABD'desiniz).
 
 Birçok proje kar amacı gütmeyen bir kuruluş kurma zorunluluğunu yaşamak istememektedir, bu yüzden kar amacı gütmeyen bir mali sponsor bulmaktadırlar. Mali bir sponsor, genellikle bağışın bir yüzdesi karşılığında, sizin adınıza bağışları kabul eder. [Yazılım Özgürlüğü Koruması](https://sfconservancy.org/) , [Apache Vakfı](https://www.apache.org/) , [Eclipse Vakfı](https://eclipse.org/org/foundation/) , [Linux Vakfı](https://www.linuxfoundation.org/projects) ve [Açık Kollektifi](https://opencollective.com/opensource) , açık kaynak projeleri için mali sponsor olarak hizmet veren kuruluşlara örnektir.
 
