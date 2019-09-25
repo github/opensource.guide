@@ -31,13 +31,13 @@ Projenizi tanıtmaya yönelik asıl çalışmaya başlamadan önce, ne yaptığ�
 
 Projenizi farklı veya ilginç kılan nedir? Neden yarattınız? Bu soruları kendiniz cevaplamak, projenizin önemini bildirmenize yardımcı olacaktır.
 
-İnsanların kullanıcı olarak dahil olduklarını ve sonunda katkıda bulunduğunu unutmayın, çünkü projeniz onlar için bir problemi çözüyor. Projenizin mesajını ve değerini düşündüğünüzde, bunları *kullanıcıların ve katkıda bulunanların* ne isteyebileceğini onların gözünden bakmaya çalışarak görmeye çalışın.
+İnsanların kullanıcı olarak dahil olduklarını ve sonunda katkıda bulunduğunu unutmayın, çünkü projeniz onlar için bir problemi çözüyor. Projenizin mesajını ve değerini düşündüğünüzde, bunları _kullanıcıların ve katkıda bulunanların_ ne isteyebileceğini onların gözünden bakmaya çalışarak görmeye çalışın.
 
 Örneğin, @robb, projesi olan [Cartography'nin](https://github.com/robb/Cartography) neden faydalı olduğunu açıkça belirtmek için kod örnekleri kullanır:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-Mesajlaşmaya daha derin bir dalış yapmak için Mozilla’nın [“Personas and Pathways”](https://mozillascience.github.io/working-open-workshop/personas_pathways/) egzersizini kullanıcı kimliği geliştirmek için kontrol edin.
+Mesajlaşmaya daha derin bir dalış yapmak için Mozilla'nın ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) egzersizini kullanıcı kimliği geliştirmek için kontrol edin.
 
 ## İnsanların projenizi bulmasına ve takip etmesine yardımcı olun
 
@@ -53,7 +53,7 @@ Henüz projeniz için iletişim noktaları kurmak istemiyorsanız, yaptığını
 
 **Projeniz için bir web sitesi oluşturmayı düşünün.** Bir web sitesi, projenizi daha net hale getirir ve özellikle açık belgeler ve eğitimlerle desteklendiğinde gezinmeyi kolaylaştırır. Bir web sitesine sahip olmak, projenizin aktif olduğunu ve bu sayede hedef kitlenizin kendisini daha rahat hissetmesini sağlayacaktır. İnsanlara projenizi nasıl kullanacakları hakkında fikir vermek için örnekler verin.
 
-Django'nun yaratıcısı [@ adrianholovaty](https://news.ycombinator.com/item?id=7531689) , bir web sitesinin *"ilk günlerde Django için yaptıkları en iyi şey" olduğunu söyledi* .
+Django'nun yaratıcısı [@adrianholovaty](https://news.ycombinator.com/item?id=7531689) , bir web sitesinin _"ilk günlerde Django için yaptıkları en iyi şey" olduğunu söyledi_.
 
 Projeniz GitHub'da barındırıyorsanız, kolayca web sitesi yapmak için [GitHub Pages](https://pages.github.com/) kullanabilirsiniz. [Yeoman](http://yeoman.io/) , [Vagrant](https://www.vagrantup.com/) ve [Middleman](https://middlemanapp.com/) mükemmel, kapsamlı web sitelerine [birkaç örnektir](https://github.com/showcases/github-pages-examples) .
 
@@ -71,9 +71,9 @@ Hedef kitlenize ulaşmak için mevcut çevrimiçi topluluklardan ve platformlard
 
 Projenizi ilgili kanallarda paylaşmanın yollarını bulabilecek misiniz bir bakın:
 
-- **İlgili açık kaynaklı projeleri ve toplulukları tanıyın.** Bazen projenizi doğrudan tanıtmanız gerekmez. Projeniz Python'u kullanan veri bilimcileri için mükemmelse, Python veri bilimi topluluğunu tanıyın. İnsanlar sizi tanıdıkça, hakkında konuşmak ve çalışmalarınızı paylaşmak için doğal fırsatlar ortaya çıkacaktır.
-- **Projenizin çözdüğü sorunu yaşayan insanları bulun.** Projenizin hedef kitlesine giren kişileri ilgili forumlarda arayın. Projenizi bir çözüm olarak önermek için sorularına cevap verin ve uygun olduğunda temkinli bir yol bulun.
-- **Geri bildirim isteyin.** Kendinizi ve işinizi ilgili ve ilgi çekici bulabilecek bir kitleye tanıtın. Projenizden kimin faydalanacağını düşündüğünüz konusunda net olun. Cümleyi bitirmeye çalışın: *"Projemin gerçekten Y'yi yapmaya çalışan X'e yardım edeceğini düşünüyorum* ." Çalışmanızı tanıtmak yerine, başkalarının geri bildirimlerini dinleyin ve bunlara yanıt verin.
+* **İlgili açık kaynaklı projeleri ve toplulukları tanıyın.** Bazen projenizi doğrudan tanıtmanız gerekmez. Projeniz Python'u kullanan veri bilimcileri için mükemmelse, Python veri bilimi topluluğunu tanıyın. İnsanlar sizi tanıdıkça, hakkında konuşmak ve çalışmalarınızı paylaşmak için doğal fırsatlar ortaya çıkacaktır.
+* **Projenizin çözdüğü sorunu yaşayan insanları bulun.** Projenizin hedef kitlesine giren kişileri ilgili forumlarda arayın. Projenizi bir çözüm olarak önermek için sorularına cevap verin ve uygun olduğunda temkinli bir yol bulun.
+* **Geri bildirim isteyin.** Kendinizi ve işinizi ilgili ve ilgi çekici bulabilecek bir kitleye tanıtın. Projenizden kimin faydalanacağını düşündüğünüz konusunda net olun. Cümleyi bitirmeye çalışın: _"Projemin gerçekten Y'yi yapmaya çalışan X'e yardım edeceğini düşünüyorum_ ." Çalışmanızı tanıtmak yerine, başkalarının geri bildirimlerini dinleyin ve bunlara yanıt verin.
 
 Genel olarak konuşursak, karşılığında bir şey istemeden önce başkalarına yardım etmeye odaklanın. Herkes bir projeyi çevrimiçi olarak kolayca tanıtabildiğinden, çok fazla gürültü çıkacaktır. Kalabalıktan sıyrılmak için, insanlara sadece ne istediğinizi değil, kim olduğunuzu anlatmaya çalışın.
 
@@ -97,7 +97,7 @@ Konuşmanızı yazarken, izleyicilerinizin ilginç bulacağı ve değer kazanaca
 
 Hazır olduğunuzda, projenizi tanıtmak için bir konferansta konuşmayı düşünün. Konferanslar, bazen dünyanın her yerinden daha fazla insana ulaşmanıza yardımcı olabilir.
 
-Dilinize veya ekosisteminize özgü konferansları arayın. Konuşmanızı göndermeden önce, konuşmanızı katılımcılar için uyarlamak ve konferansta konuşma kabul etme şansınızı artırmak için konferansı araştırın. Konferansın konuşmacılarına bakarak, izleyicilerinizi sık sık anlayabilirsiniz.
+Dilinize veya ekosisteminize özgü konferansları arayın. Konuşmanızı göndermeden önce, konuşmanızı katılımcılar için uyarlamak ve konferansta konuşma kabul etme şansınızı artırmak için konferansı araştırın. Konferansın konuşmacılarına bakarak, izleyicilerinizi daha kolay anlayabilirsiniz.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar"> JSConf insanlarına çok hoş bir şekilde yazdım ve bana JSConf AB'de sunabileceğim bir yer vermeleri için yalvardım. (...) Altı aydır üzerinde çalıştığım bu şeyi sunarken son derece korktum. (...) Bütün konuşma sırasında şunu düşündüm. Aman tanrım, burada ne yapıyorum? <p markdown="1" class="pquote-credit"> - @ry, ["Node.js'nin Hikayesi" (video)] (https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s) </p></aside>
 

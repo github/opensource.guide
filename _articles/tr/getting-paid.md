@@ -24,9 +24,9 @@ Açık kaynaklı çalışmaların çoğu gönüllüdür. Örneğin, birileri kul
 
 Bir kişiye açık kaynak kodlu çalışmaları için ödeme almak istememesinin birçok nedeni vardır.
 
-- Zaten boş zamanlarında açık kaynağa katkıda bulunmalarını sağlayan, ** sevdikleri bir tam zamanlı işleri olabilir**.
-- **Açık kaynaklı projeyi bir hobi olarak düşünmekten hoşlanıyor olabilirler**, işlerinde gösteremedikleri yaratıcılığı gösterebildikleri bir alan olarak da değerlendirebilir ve projeleri üzerinde çalışmak için mali olarak zorunluluk hissetmek istemeyebilirler.
-- İtibar veya portföylerini oluşturmak, yeni bir beceri öğrenmek veya bir topluluğa daha yakın hissetmek gibi **açık kaynağa katkıda bulunarak başka faydalar elde** etmek istiyor olabilirler.
+* Zaten boş zamanlarında açık kaynağa katkıda bulunmalarını sağlayan, **sevdikleri bir tam zamanlı işleri olabilir**.
+* **Açık kaynaklı projeyi bir hobi olarak düşünmekten hoşlanıyor olabilirler**, işlerinde gösteremedikleri yaratıcılığı gösterebildikleri bir alan olarak da değerlendirebilir ve projeleri üzerinde çalışmak için mali olarak zorunluluk hissetmek istemeyebilirler.
+* İtibar veya portföylerini oluşturmak, yeni bir beceri öğrenmek veya bir topluluğa daha yakın hissetmek gibi **açık kaynağa katkıda bulunarak başka faydalar elde** etmek istiyor olabilirler.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar"> Mali bağışlar, bazıları için bir sorumluluk duygusu yaratır. (...) Yaşadığımız küresel bağlantılı, hızlı tempolu dünyada, "şimdi değil, tamamen farklı bir şeyler yapmak gibi hissediyorum" diyebilmemiz bizim için önemlidir. <p markdown="1" class="pquote-credit"> - @alloy, ["Neden Bağışları Kabul Etmiyoruz]] (https://blog.cocoapods.org/Why-we-dont-accept-donations/) </p></aside>
 
@@ -64,20 +64,20 @@ Birçok şirket markalarını geliştirmek ve kaliteli yetenekler kazanmak için
 
 Mevcut işvereninizi açık kaynak çalışmasına öncelik vermeye ikna edemiyorsanız, çalışan katkılarını açık kaynağa teşvik eden yeni bir işveren bulmayı düşünün. Açık kaynak kodlu çalışmalara açık bir şekilde kendini adadıklarını söyleyen şirketleri arayın. Örneğin:
 
-- [Netflix](https://netflix.github.io/) veya [PayPal](https://paypal.github.io/) gibi bazı şirketler, açık kaynaklara katılımını vurgulayan web sitelerine sahiptir.
-- [Zalando](https://opensource.zalando.com) , çalışanlara yönelik [açık kaynak katkı politikasını](https://opensource.zalando.com/docs/using/contributing/) yayınladı
+* [Netflix](https://netflix.github.io/) veya [PayPal](https://paypal.github.io/) gibi bazı şirketler, açık kaynaklara katılımını vurgulayan web sitelerine sahiptir.
+* [Zalando](https://opensource.zalando.com) , çalışanlara yönelik [açık kaynak katkı politikasını](https://opensource.zalando.com/docs/using/contributing/) yayınladı
 
 [Go](https://github.com/golang) veya [React](https://github.com/facebook/react) gibi büyük bir şirketten gelen projeler, muhtemelen açık kaynak üzerinde çalışmak için insanları istihdam edecek.
 
 Kişisel durumunuza bağlı olarak, açık kaynaklı işinize para yatırmak için bağımsız olarak para toplamayı deneyebilirsiniz. Örneğin:
 
-- @gaearon, [Redux](https://github.com/reactjs/redux) ile ilgili çalışmalarını bir [Patreon kitlesel fonlama kampanyası](https://redux.js.org/) yoluyla finanse etti
-- @andrewgodwin [, bir Kickstarter kampanyasıyla](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) Django şema göçleri konusundaki çalışmaları finanse etti
+* @gaearon, [Redux](https://github.com/reactjs/redux) ile ilgili çalışmalarını bir [Patreon kitlesel fonlama kampanyası](https://redux.js.org/) yoluyla finanse etti
+* @andrewgodwin [, bir Kickstarter kampanyasıyla](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) Django şema göçleri konusundaki çalışmaları finanse etti
 
 Son olarak, bazen açık kaynaklı projeler, yardım etmeyi düşündüğünüz meselelere güçlükler getirir.
 
-- @ConnorChristie, @MARKETProtocol'un javascript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
-- @mamiM, [sorun Bounties Network'te finanse](https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
+* @ConnorChristie, @MARKETProtocol'un javascript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
+* @mamiM, [sorun Bounties Network'te finanse](https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
 
 ## Projeniz için finansman bulma
 
@@ -91,17 +91,17 @@ Açık kaynağın popülaritesi arttıkça, projeler için fon bulmak hala deney
 
 Sponsorluk bulmak, zaten güçlü bir kitleye veya şöhrete sahipseniz veya projeniz çok popülerse işe yarar. Sponsorlu projelere birkaç örnek:
 
-- **[webpack](https://github.com/webpack)** [OpenCollective](https://opencollective.com/webpack) üzerinden şirketler ve bireylerden para topladı
-- **[Vue](https://github.com/vuejs/vue)** [Patreon aracılığıyla finanse edilmektedir](https://github.com/open-source/stories/yyx990803)
-- **[Ruby Together](https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
+* **[webpack](https://github.com/webpack)** [OpenCollective](https://opencollective.com/webpack) üzerinden şirketler ve bireylerden para topladı
+* **[Vue](https://github.com/vuejs/vue)** [Patreon aracılığıyla finanse edilmektedir](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
 
 ### Bir gelir akışı oluşturun
 
 Projenize bağlı olarak, ticari destek, barındırılan seçenekler veya ek özellikler için ücret alabilirsiniz. Birkaç örnek şunları içerir:
 
-- **[Sidekiq](https://github.com/mperham/sidekiq)** , ek destek için ücretli sürümler sunar
-- **[Travis CI](https://github.com/travis-ci)** ürünlerinin ücretli sürümlerini sunuyor
-- **[Ghost](https://github.com/TryGhost/Ghost)** ücretli bir yönetim servisi olan kar amacı gütmeyen bir kurumdur.
+* **[Sidekiq](https://github.com/mperham/sidekiq)** , ek destek için ücretli sürümler sunar
+* **[Travis CI](https://github.com/travis-ci)** ürünlerinin ücretli sürümlerini sunuyor
+* **[Ghost](https://github.com/TryGhost/Ghost)** ücretli bir yönetim servisi olan kar amacı gütmeyen bir kurumdur.
 
 [Npm](https://github.com/npm/npm) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
 
@@ -109,10 +109,10 @@ Projenize bağlı olarak, ticari destek, barındırılan seçenekler veya ek öz
 
 Bazı yazılım kurumları ve şirketleri açık kaynak kodlu çalışmalar için hibe sunar. Bazen, hibeler proje için tüzel kişilik oluşturmadan bireylere ödenebilir.
 
-- **[Read the Docs](https://github.com/rtfd/readthedocs.org)** projesi [Mozilla Açık Kaynak Desteği'nden](https://www.mozilla.org/en-US/grants/) hibe aldı
-- **[OpenMRS](https://github.com/openmrs)** çalışması [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees) ile finanse edildi
-- **[Libraries.io](https://github.com/librariesio)** projesi [Sloan Vakfı'ndan](https://sloan.org/programs/digital-technology) burs aldı.
-- **[Python Yazılım Vakfı](https://www.python.org/psf/grants/)** Python ile ilgili işler için bağışlar sunuyor
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** projesi [Mozilla Açık Kaynak Desteği'nden](https://www.mozilla.org/en-US/grants/) hibe aldı
+* **[OpenMRS](https://github.com/openmrs)** çalışması [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees) ile finanse edildi
+* **[Libraries.io](https://github.com/librariesio)** projesi [Sloan Vakfı'ndan](https://sloan.org/programs/digital-technology) burs aldı.
+* **[Python Yazılım Vakfı](https://www.python.org/psf/grants/)** Python ile ilgili işler için bağışlar sunuyor
 
 Daha ayrıntılı seçenekleri ve vaka çalışmaları için, açık kaynak çalışmalarına finansman bulma için @nayafia [bir rehber yazdı](https://github.com/nayafia/lemonade-stand). Farklı finansman türleri farklı beceriler gerektirir, bu nedenle hangi seçeneğin sizin için en uygun olduğunu bulmak için güçlü yönlerinizi değerlendirin.
 

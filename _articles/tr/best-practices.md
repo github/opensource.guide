@@ -62,10 +62,10 @@ Projenizi yarı zamanlı veya tamamen gönüllü olarak sürdürmekteyseniz, ne 
 
 Yazmaya değer birkaç kural:
 
-* Bir katkı nasıl gözden geçirilir ve kabul edilir ( *Testlere ihtiyaçları var mı? Bir sorun şablonu var mı?* )
-* Kabul edeceğiniz katkı türleri ( *Kodunuzun yalnızca belirli bir bölümünde yardım mı istiyorsunuz?* )
-* Bekleme süresi ne kadardır (*örneğin, "7 gün içinde bir bakıcıdan bir yanıt bekleyebilirsiniz. O zamana kadar bir şey duymadıysanız, ipliğe ping atmaktan çekinmeyin."*)
-* Projeye ne kadar zaman harcıyorsunuz (*örneğin, "Bu projeye haftada sadece 5 saat harcıyoruz"*)
+* Bir katkı nasıl gözden geçirilir ve kabul edilir ( _Testlere ihtiyaçları var mı? Bir sorun şablonu var mı?_ )
+* Kabul edeceğiniz katkı türleri ( _Kodunuzun yalnızca belirli bir bölümünde yardım mı istiyorsunuz?_ )
+* Bekleme süresi ne kadardır (_örneğin, "7 gün içinde bir bakıcıdan bir yanıt bekleyebilirsiniz. O zamana kadar bir şey duymadıysanız, ipliğe ping atmaktan çekinmeyin."_)
+* Projeye ne kadar zaman harcıyorsunuz (_örneğin, "Bu projeye haftada sadece 5 saat harcıyoruz"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) ve [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) geliştiriciler ve katkıda bulunanlar için temel kuralları olan projelere birkaç örnektir.
 
@@ -83,7 +83,7 @@ Her şeyi yazdınız. İdeal olarak, herkes belgelerinizi okur, ancak gerçekte,
 
 Bununla birlikte, her şeyin yazılı olması, kurallarınızı uygulamanız gerektiğinde durumları kişisellikten uzaklaştırmanıza yardımcı olur.
 
-Hayır demenin eğlenceli olmadığı kesin, ancak "*Katkınız bu projenin ölçütlerine uymuyor*" cevabı "*Katkınızı beğenmedim*" cevabından daha kurumsal hissettiriyor.
+Hayır demenin eğlenceli olmadığı kesin, ancak "_Katkınız bu projenin ölçütlerine uymuyor_" cevabı "_Katkınızı beğenmedim_" cevabından daha kurumsal hissettiriyor.
 
 Bir geliştirici olarak karşılaşacağınız birçok durum için hayır demek uygundur: Örneğin, kapsama uygun olmayan özellik talepleri, tartışmanın rayından çıkması durumunda, başkaları için gereksiz işler yapılması durumunda.
 

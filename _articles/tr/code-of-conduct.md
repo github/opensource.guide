@@ -32,10 +32,10 @@ Mümkün olduğunca en erken zamanda bir davranış kural listesi oluşturmaya �
 
 Beklentilerinizi iletmenin yanı sıra, bir davranış kural listesi aşağıdakileri de açıklar:
 
-- Davranış kuralları nerede yürürlüğe girerse *(sadece sorunlar ve talepler üzerine mi yoksa toplantılar gibi topluluk etkinliklerinde mi?)*
-- Davranış kuralları kimin için geçerlidir *(topluluk üyeleri ve bakıcıları, peki ya sponsorlar?)*
-- Birisi davranış kurallarını ihlal ederse ne olur?
-- İhlaller nasıl rapor edilebilir?
+* Davranış kuralları nerede yürürlüğe girerse _(sadece sorunlar ve talepler üzerine mi yoksa toplantılar gibi topluluk etkinliklerinde mi?)_
+* Davranış kuralları kimin için geçerlidir _(topluluk üyeleri ve bakıcıları, peki ya sponsorlar?)_
+* Birisi davranış kurallarını ihlal ederse ne olur?
+* İhlaller nasıl rapor edilebilir?
 
 Nerede olursanız olun, geçmiş tecrübelerden faydalanın. [Katkıda Bulunanlar Sözleşmesi (Contributor Covenant)](https://contributor-covenant.org/) Kubernet, Rails ve Swift dahil olmak üzere 40.000'den fazla açık kaynaklı proje tarafından kullanılan ortak bir davranış kural listesidir.
 
@@ -47,17 +47,17 @@ CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTIN
 
 <aside markdown="1" class="pquote">Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir. <p markdown="1" class="pquote-credit"> - [Ada Girişimi] (https://adainitiative.org/2014/02/18/howto-design-a-code- of-conduct-for- your-community/) </p></aside>
 
-Bir ihlal meydana ***gelmeden önce*** davranış kurallarınızın nasıl uygulanacağını açıklamalısınız. Bunu yapmak için birkaç neden var:
+Bir ihlal meydana _gelmeden önce_ davranış kurallarınızın nasıl uygulanacağını açıklamalısınız. Bunu yapmak için birkaç neden var:
 
-- İhtiyaç duyulduğunda harekete geçme konusunda ciddi olduğunuzu gösterir.
+* İhtiyaç duyulduğunda harekete geçme konusunda ciddi olduğunuzu gösterir.
 
-- Topluluğunuz şikayetlerin gerçekten gözden geçirildiği konusunda daha güvende hissedecektir.
+* Topluluğunuz şikayetlerin gerçekten gözden geçirildiği konusunda daha güvende hissedecektir.
 
-- Topluluğunuza, inceleme sürecinin adil ve şeffaf olduğunu, kendilerini bir ihlal için araştırıldıklarında güvence altında olduklarını hissettirirsiniz.
+* Topluluğunuza, inceleme sürecinin adil ve şeffaf olduğunu, kendilerini bir ihlal için araştırıldıklarında güvence altında olduklarını hissettirirsiniz.
 
 İnsanlara davranış kuralları ihlalini bildirebilmeleri için özel bir yol (e-posta adresi gibi) vermelisiniz ve bu raporun kimlere ulaştığını açıklamalısınız. Bu bir kurucu, bir geliştirme grubu veya bir davranış kuralları çalışma grubu olabilir.
 
-Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebileceğini de unutmayın. Bu durumda, ihlalleri bir başkasına bildirme seçeneği de verin. Örneğin, @ctb ve @mr-c 'nin [projeleri üzerinde açıkladıkları gibi](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst) , [khmer](https://github.com/dib-lab/khmer) :
+Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebileceğini de unutmayın. Bu durumda, ihlalleri bir başkasına bildirme seçeneği de verin. Örneğin, @ctb ve @mr-c"nin [projeleri üzerinde açıkladıkları gibi](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst) , [khmer](https://github.com/dib-lab/khmer) :
 
 > Kötü niyetli, taciz edici veya kabul edilemez davranışların **örnekleri** , yalnızca C. Titus Brown ve Michael R. Crusoe'ye gönderilen **khmer-project@idyll.org adresine** e-posta {strong2}gönderilerek{/strong2} bildirilebilir. İkisini de içeren bir sorunu bildirmek için lütfen {strong3}Judi Brown Clarke, Ph.D.{/strong3} NSAC Bilim ve Teknoloji Merkezi olan, Eylemdeki Evrim Çalışması Merkezi'ndeki BEACON Çeşitlilik Direktörü. *
 
@@ -85,15 +85,15 @@ Birisi bir davranış kuralları ihlali bildirdiğinde, bu durumla yüzleşmesi 
 
 Bir davranış kural ihlaline yanıt vermenin birkaç yolu vardır:
 
-- **Söz konusu kişiye genel bir uyarı verin** ve davranışlarının diğerlerini, nasıl olumsuz etkilediğini tercihen meydana geldiği kanalda açıklayın. Mümkün olan diğer yerlerde de, genel iletişim kanalarında da, davranış kurallarını ciddiye aldığınız toplumun geri kalanına iletir. Kibar olun, ancak iletişiminizde sağlam olun.
+* **Söz konusu kişiye genel bir uyarı verin** ve davranışlarının diğerlerini, nasıl olumsuz etkilediğini tercihen meydana geldiği kanalda açıklayın. Mümkün olan diğer yerlerde de, genel iletişim kanalarında da, davranış kurallarını ciddiye aldığınız toplumun geri kalanına iletir. Kibar olun, ancak iletişiminizde sağlam olun.
 
-- Davranışlarının diğerlerini nasıl olumsuz yönde etkilediğini açıklamak **için ilgili kişiye özel olarak ulaşın**. Durum hassas kişisel bilgiler içeriyorsa, özel bir iletişim kanalı kullanmak isteyebilirsiniz. Biriyle özel olarak iletişim kurarsanız, durumu ilk ihbar eden kişileri CC ile bilgilendirmek iyi bir fikirdir, bu sayede harekete geçtiğinizi bilmiş olurlar. CC'ye eklemeden önce ihbar den kişiden onay isteyin.
+* Davranışlarının diğerlerini nasıl olumsuz yönde etkilediğini açıklamak **için ilgili kişiye özel olarak ulaşın**. Durum hassas kişisel bilgiler içeriyorsa, özel bir iletişim kanalı kullanmak isteyebilirsiniz. Biriyle özel olarak iletişim kurarsanız, durumu ilk ihbar eden kişileri CC ile bilgilendirmek iyi bir fikirdir, bu sayede harekete geçtiğinizi bilmiş olurlar. CC'ye eklemeden önce ihbar den kişiden onay isteyin.
 
 Bazen bir çözüme ulaşılamaz. Söz konusu kişi karşı karşıya geldiğinde saldırgan veya düşmanca olabilir veya davranışlarını değiştirmez. Bu durumda, daha güçlü bir işlem yapmayı düşünebilirsiniz. Örneğin:
 
-- Söz konusu kişiyi projedeki herhangi bir şeye katılamayacak şekilde **gecici olarak engelleyebilirsiniz**
+* Söz konusu kişiyi projedeki herhangi bir şeye katılamayacak şekilde **gecici olarak engelleyebilirsiniz**
 
-- Kişiyi projeden **kalıcı olarak yasaklayabilirsiniz**
+* Kişiyi projeden **kalıcı olarak yasaklayabilirsiniz**
 
 Kalıcı olarak yasaklama üyeleri kolayca alınmamalı ve kalıcı uzlaşmaz bir bakış açısı farklılığını temsil etmelidir. Bu önlemleri yalnızca bir çözüme ulaşılamayacağı açıksa almalısınız.
 
@@ -103,7 +103,7 @@ Davranış kuralları, keyfi olarak uygulanan bir yasa değildir. Davranış kur
 
 Proje sahibi olarak, topluluğunuz için kılavuz ilkeler belirler ve bu ilkeleri davranış kurallarınızda belirtilen kurallara uygun olarak uygularsınız. Bu, herhangi bir davranış kuralları ihlali raporunu ciddiye almak anlamına gelir. İhbar eden şikayeti hakkında kapsamlı ve adil bir inceleme yapılmasını hak eder. Bildirdikleri davranışların bir ihlal olmadığını belirlerseniz, bunu açıkça belirtin ve neden bu konuda harekete geçmeyeceğinizi açıklayın. Bununla ne yapacakları onlara bağlı: Sorunlu olduğunu düşündükleri davranışlara hoşgörü gösterirler veya topluluktan ayrılabilirler.
 
-*Teknik* olarak davranış kurallarını ihlal etmeyen bir davranış raporu, toplumunuzda bir sorun olduğunu gösterebilir ve bu olası sorunu araştırmanız ve buna göre davranmanız gerekir. Bu, kabul edilebilir davranışı netleştirmek için davranış kurallarınızı gözden geçirmeyi ve/veya davranışları rapor edilen kişiyle konuşmayı ve davranış kurallarını ihlal etmemelerine rağmen, diğer katılımcıları rahatsız etiğini bildirmeniz gerekebilir.
+_Teknik_ olarak davranış kurallarını ihlal etmeyen bir davranış raporu, toplumunuzda bir sorun olduğunu gösterebilir ve bu olası sorunu araştırmanız ve buna göre davranmanız gerekir. Bu, kabul edilebilir davranışı netleştirmek için davranış kurallarınızı gözden geçirmeyi ve/veya davranışları rapor edilen kişiyle konuşmayı ve davranış kurallarını ihlal etmemelerine rağmen, diğer katılımcıları rahatsız etiğini bildirmeniz gerekebilir.
 
 Sonunda, bir proje sahibi olarak, kabul edilebilir davranış için standartları belirler ve uygularsınız. Projenin topluluk değerlerini şekillendirme yetkiniz var ve katılımcılar bu değerleri adil ve eşit bir şekilde uygulamanızı beklerler.
 

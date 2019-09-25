@@ -227,6 +227,6 @@ Projenin ana sorumlusu bir eşitlik bozucu olabilir veya oylamaya dayalı bir ka
 
 Eşitlik bozucu son bir çare olmalı. Bölücü konular topluluğunuzun büyümesi ve öğrenmesi için bir fırsattır. Bu fırsatları benimseyin ve mümkün olan her yerde bir çözüme geçmek için ortak bir süreç kullanın.
 
-## Topluluk açık kaynağın ❤️'"ı
+## Topluluk açık kaynağın ❤️
 
 Sağlıklı, gelişen topluluklar her hafta açık kaynağa dökülen binlerce saati besliyor. Katkıda bulunan birçok kişi, diğer insanlara açık kaynak üzerinde çalışmanın veya çalışmamanın nedeni olarak ilham veriyor. Bu güce yapıcı olarak nasıl dokunulacağını öğrenerek, dışarıdaki birisinin unutulmaz bir açık kaynak deneyimine sahip olmasına yardımcı olacaksınız.
