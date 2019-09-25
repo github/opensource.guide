@@ -122,7 +122,7 @@ Organizational funding might go towards paying current contributors, covering th
 
 As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
 
-There are many good funding places and options are available such as
+Few funding options are:
 - [Google Open Source Funding](https://opensource.google.com/docs/growing/funding/)
 - [Mozilla Open Source Projects Grants and Fundings](https://www.mozilla.org/en-US/moss/)
 - [Open Technology Funding and Grants](https://www.opentech.fund/)
