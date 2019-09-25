@@ -1,31 +1,31 @@
 en:
   locale_name: Türkçe
   nav:
-    about: Hakkımızda
-    contribute: Katkıda Bulunmak İçin
+    about: Hakkında 
+    contribute: Katkıda bulun 
   index:
-    lead: Açık kaynaklı yazılımlar, tıpkı sizin gibi insanlar tarafından geliştirilir. Projenizi nasıl başlatacağınız ve büyüteceğinizi öğrenin.
-    opensourcefriday: Bugün cuma! Kullandığınız ve sevdiğiniz yazılıma katkıda bulunmak için birkaç saatini harcayın
+    lead: Açık kaynaklı yazılım, tıpkı sizin gibi insanlar tarafından yapılır. Projenizi nasıl başlatıp büyüteceğinizi öğrenin. 
+    opensourcefriday: Bugün cuma! Kullandığınız ve sevdiğiniz yazılıma katkıda bulunmak için birkaç saat ayırın
   article:
     table_of_contents: İçindekiler
-    back_to_all_guides: Rehberler Listesine Geri Dönün
-    related_guides: İlgili Rehberler
+    back_to_all_guides: Anasayfaya geri dön 
+    related_guides: İlgili Kılavuzlar 
   footer:
     contribute:
-      heading: Katkıda Bulun
-      description: Bir fikriniz mi var? Bu belge de açık kaynak. Geliştirmek için sizde yardımcı olun.
-      button: Katkıda Bulun
+      heading: Katkıda bulun 
+      description: Bir öneride bulunmak ister misiniz? Bu içerik açık kaynak. Geliştirmemize yardımcı olun. 
+      button: Katkıda bulun 
     subscribe:
-      heading: Bizi takip edin
-      description: Github'da açık kaynak ile ilgili gelişmelerden ilk elden haberiniz olsun.
-      label: Email Adresi
-      button: Abone olun
+      heading: İletişimde kalın 
+      description: GitHub'ın en son açık kaynak ipuçlarını ve kaynaklarını ilk duyan siz olun.
+      label: Email Adresiniz
+      button: Abone olun 
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[github] ve [friends] ile beraber [love] ile [code] yazın"
+      format: "[github] ve [friends] ile beraber [love] ile [code]"
       # Label for code octicon
-      code_label: kod
+      code_label: code
       # Label for love octicon
-      love_label: aşk
+      love_label: love
       # Label for the contributors link
-      friends_label: arkadaşlarınız
+      friends_label: friends
