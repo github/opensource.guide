@@ -82,8 +82,6 @@ If you meet with other maintainers, or make a major decision in private, documen
 
 That way, anybody who joins your community will have access to the same information as someone who's been there for years.
 
-As a open source maintainer you would like being respectful and encouraging for open source contributors. People contributing in an open source project is a gain for everyone stakeholder involved, be you as a maintainer or the one is contributing. For helping you in the endeavour we have good first issues, if you label issues as good first issues we will show the issues as a GitHub feature.
-
 ## Learning to say no
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
