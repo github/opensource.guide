@@ -14,7 +14,7 @@ toc:
   go-where-your-projects-audience-is-offline: Projenizin kitlesinin (çevrimdışı) olduğu
     yere gidin
   build-a-reputation: Bir itibar oluşturun
-order: '3'
+order: 3
 image: "/assets/images/cards/finding.png"
 related:
 - Yeni başlayanlar

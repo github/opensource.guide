@@ -11,7 +11,7 @@ toc:
   launching-your-own-open-source-project: Kendi açık kaynaklı projenizi başlatmak
   naming-and-branding-your-project: Projenizi isimlendirme ve markalama
   your-pre-launch-checklist: Lansman öncesi kontrol listeniz
-order: '2'
+order: 2
 image: "/assets/images/cards/beginner.png"
 related:
 - bulgu

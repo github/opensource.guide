@@ -18,7 +18,7 @@ toc:
     sözleşmesine ihtiyacı var mı?
   what-does-my-companys-legal-team-need-to-know: Şirketimin hukuk ekibinin neleri
     bilmesi gerekiyor?
-order: '10'
+order: 10
 image: "/assets/images/cards/legal.png"
 related:
 - katkıda bulun

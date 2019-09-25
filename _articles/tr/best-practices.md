@@ -11,7 +11,7 @@ toc:
   leverage-your-community: Topluluğunuzdan yararlanın
   bring-in-the-robots: Robotları getirin
   its-okay-to-hit-pause: Duraklatmak sorun değil
-order: '5'
+order: 5
 image: "/assets/images/cards/best-practices.png"
 related:
 - ölçümler

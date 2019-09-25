@@ -9,7 +9,7 @@ toc:
   funding-your-own-time: Kendi zamanınızı fonlamak
   finding-funding-for-your-project: Projeniz için finansman bulma
   building-a-case-for-financial-support: Finansal destek için bir süreç oluşturma
-order: '7'
+order: 7
 image: "/assets/images/cards/getting-paid.png"
 related:
 - örnek yöntemler

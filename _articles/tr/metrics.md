@@ -10,7 +10,7 @@ toc:
   usage: Kullanım
   retention: Akılda tutma
   maintainer-activity: Geliştirici etkinliği
-order: '9'
+order: 9
 image: "/assets/images/cards/metrics.png"
 related:
 - bulgu

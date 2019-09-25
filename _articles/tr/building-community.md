@@ -8,7 +8,7 @@ toc:
   setting-your-project-up-for-success: Projenizi başarı için hazırlayın
   growing-your-community: Topluluğunu büyütmek
   resolving-conflicts: Çatışmaları çözme
-order: '4'
+order: 4
 image: "/assets/images/cards/building.png"
 related:
 - örnek yöntemler
