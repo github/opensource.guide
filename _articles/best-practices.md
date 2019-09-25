@@ -196,7 +196,6 @@ If other people are enthusiastic about its direction, give them commit access or
 
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
-
 ### Let others build the solutions they need
 
 If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
