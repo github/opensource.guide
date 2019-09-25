@@ -220,6 +220,8 @@ Good first issue is a feature GitHub ships for encouraging new and beginner open
 
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
+If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example `https://github.com/facebook/react/contribute`).
+
 You can also use one of the following resources to help you discover and contribute to new projects:
 
 * [GitHub Explore](https://github.com/explore/)
