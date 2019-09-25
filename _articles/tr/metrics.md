@@ -13,8 +13,8 @@ toc:
 order: 9
 image: "/assets/images/cards/metrics.png"
 related:
-- bulgu
-- örnek yöntemler
+  - finding
+  - best-practices
 ---
 
 ## Neden her şeyi ölçmeli?

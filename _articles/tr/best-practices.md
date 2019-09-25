@@ -14,8 +14,8 @@ toc:
 order: 5
 image: "/assets/images/cards/best-practices.png"
 related:
-- ölçümler
-- liderlik
+  - metrics
+  - leadership
 ---
 
 ## Geliştirici olmak ne demektir?
@@ -157,7 +157,7 @@ Başkalarının işe girişmesini istiyorsanız, etrafa sorarak başlayın.
 
 Katkıda bulunan yeni katkıda bulunanlar gördüğünüzde, çalışmalarını daha fazla sorumluluk sunarak tanıyın. İsterlerse kendilerinin de yöneticilik rolüne nasıl dönüşebileceğini belgeleyin.
 
-Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building-community/#share-ownership-of-your-project) kendi iş yükünüzü azaltır. @lmccart kendi projesinde bunu nasıl yaptığını aşağıdaki gibi anlatıyor, [p5.js](https://github.com/processing/p5.js) .
+Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building-community/#projenizi-paylan) kendi iş yükünüzü azaltır. @lmccart kendi projesinde bunu nasıl yaptığını aşağıdaki gibi anlatıyor, [p5.js](https://github.com/processing/p5.js) .
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar"> "Evet, herhangi biri katılabilir, çok fazla kodlama uzmanlığına sahip olmanız gerekmiyor" derdim. İnsanları [bir etkinliğe] katılmak için kaydettirdik ve o zaman gerçekten merak ediyordum: bu nasıl olacak? Ortada 40 kişi olacak ve her biriyle tek tek ilgilenemeyeceğim... Ama insanlar bir araya geldi ve birlikte çalıştı. Bir kişi öğrenir öğrenmez, yanındakine öğretebildi. <p markdown="1" class="pquote-credit"> - @lmccart, ["Açık Kaynak" Gerçekten Ne Demektir? P5.js Sürümü") (https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition -98c02d354b39) </p></aside>
 

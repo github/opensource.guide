@@ -14,8 +14,8 @@ toc:
 order: 2
 image: "/assets/images/cards/beginner.png"
 related:
-- bulgu
-- geliştirme
+  - finding
+  - building
 ---
 
 ## Açık kaynağın "nedir"i ve "neden"i
@@ -171,7 +171,7 @@ Projenizin ilk aşamalarında, CONTRIBUTING dosyanız basit olabilir. Hataların
 
 Zamanla, CONTRIBUTING dosyanıza sıkça sorulan diğer soruları ekleyebilirsiniz. Bu bilgileri yazmak, daha az kişinin size aynı soruları tekrar soracağı anlamına gelir.
 
-CONTRIBUTING dosyanızı yazarken daha fazla yardım için @nayafia'nın [katkıda bulunma rehber şablonuna](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) veya @nozilla'nın ["Bir CONTRIBUTING.md Nasıl Oluşturulur"](https://mozillascience.github.io/working-open-workshop/contributing/) bölümüne bakın.
+CONTRIBUTING dosyanızı yazarken daha fazla yardım için @nayafia'nın [katkıda bulunma rehber şablonuna](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) veya @mozilla'nın ["Bir CONTRIBUTING.md Nasıl Oluşturulur"](https://mozillascience.github.io/working-open-workshop/contributing/) bölümüne bakın.
 
 README'nizden CONTRIBUTING dosyanıza bağlantı verin, böylece daha çok insan görsün. [CONTRIBUTING dosyasını projenizin deposuna yerleştirirseniz](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), bir katılımcı bir sorun oluşturduğunda veya bir PR isteği açtığında GitHub otomatik olarak dosyanıza bağlanır.
 

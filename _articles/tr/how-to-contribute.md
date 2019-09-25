@@ -14,8 +14,8 @@ toc:
 order: 1
 image: "/assets/images/cards/contribute.png"
 related:
-- yeni başlayanlar
-- geliştirme
+  - beginners
+  - building
 ---
 
 ## Açık kaynağa neden katkıda bulunur?
@@ -415,7 +415,7 @@ Katkınızı gönderdikten sonra, aşağıdakilerden biri olacaktır:
 
 ### 😭 Hiç bir cevap almazsınız.
 
-Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#a-checklist-before-you-contribute) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamayacağı olası.
+Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkda-bulunmadan-nce-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamayacağı olası.
 
 Bir haftadan uzun bir süredir yanıt alamadıysanız, aynı konuya kibarca yorum yazmak, birinden inceleme istemek doğru olur. Katkınızı gözden geçirecek doğru kişinin adını biliyorsanız, bunları o konuya ekleyebilirsiniz (@).
 

@@ -14,8 +14,8 @@ toc:
 order: 8
 image: "/assets/images/cards/coc.png"
 related:
-- geliştirme
-- liderlik
+  - building
+  - leadership
 ---
 
 ## Neden bir davranış kural listesine ihtiyacım var?

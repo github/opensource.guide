@@ -11,8 +11,8 @@ toc:
 order: 4
 image: "/assets/images/cards/building.png"
 related:
-- örnek yöntemler
-- coc
+  - best-practices
+  - coc
 ---
 
 ## Projenizi başarı için hazırlayın
@@ -31,15 +31,15 @@ Topluluğunuzu oluştururken huninin tepesindeki birinin (potansiyel bir kullan�
 
 Belgelerinizle başlayın:
 
-* **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#writing-a-readme) ve açık kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
-* [CONTRIBUTING dosyanızı](../starting-a-project/#writing-your-contributing-guidelines) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
+* **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#bir-readme-yazma) ve açık kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
+* [CONTRIBUTING dosyanızı](../starting-a-project/#katkda-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
 
 [GitHub'un 2017 Açık Kaynak Araştırması](http://opensourcesurvey.org/2017/) , eksik veya kafa karıştırıcı belgelerin açık kaynak kullanıcıları için en büyük sorun olduğunu gösterdi. İyi belgeler insanları projenizle etkileşime teşvik eder. Sonunda birisi bir sorun açacak veya istekte bulunacak. Bu etkileşimleri, dönüşüm hunisinden aşağıya taşımak için fırsat olarak kullanın.
 
 * **Yeni birileri projenize geldiğinde, ilgilendikleri için teşekkür edin!** Birinin geri gelmek istememesi için yalnızca bir olumsuz deneyim yeterlidir.
 * **Hızlı cevap verin.** Sorunlarına bir ay boyunca cevap vermezseniz, büyük olasılıkla projenizi çoktan unutmuş olurlar.
-* **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#what-it-means-to-contribute) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
-* **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#learning-to-say-no) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
+* **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#katkda-bulunmak-ne-demektir) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
+* **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#hayr-demeyi-renme) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar"> Açık kaynağa katkıda bulunmak, bazıları için daha kolaydır. İnsanların içinde bir şeyi doğru anlamadıkları ya da yapmadıkları için uyarılma korkuları vardır. (...) Katkı yapanlara çok düşük teknik yeterlilikle (dokümantasyon, web içeriği işaretlemesi vb.) katkıda bulunacakları bir yol vererek, bu korkuyu büyük ölçüde azaltabilirsiniz. bu endişeler. <p markdown="1" class="pquote-credit"> - @mikeal, ["Modern açık kaynakta katılımcı tabanını büyütmek"] (https://opensource.com/life/16/5/growing-contributor-base-modern-open-source) </p></aside>
 
@@ -109,7 +109,7 @@ Bu tür insanlara karşı sıfır tolerans politikası benimsemek için elinizde
 
 Projenizin önemsiz yönleriyle ilgili düzenli tartışmalar, sizin de dahil olmak üzere diğerlerini önemli görevlere odaklanmaktan alıkoyuyor. Projenize gelen yeni insanlar bu konuşmaları görebilir ve katılmak istemeyebilir.
 
-Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#enforcing-your-code-of-conduct) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
+Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davran-kural-listesini-glendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
 
 ### Katkıda bulunan katılımcılarla oldukları yerde tanışın
 
@@ -167,7 +167,7 @@ Projeniz popülerleştikçe, aldığınız kararlara daha fazla insan ilgi göst
 
 Topluluğunuz zor bir mesele ile boğuşurken, öfke artırabilir. İnsanlar sinirlenebilir veya öfkelenebilir ve birbirlerine ya da size yönelebilirler.
 
-Bir proje sorumlusu olarak işiniz, bu durumların tırmanmasını önlemektir. Konuyla ilgili güçlü bir fikriniz olsa bile, kavgaya atılmak ve görüşlerinizi itmek yerine, moderatör veya kolaylaştırıcı olarak yer almaya çalışın. Birisi kaba veya tartışmacı davranıyorsa, tartışmaları medeni ve üretken kılmak için [hemen harekete](../building-community/#dont-tolerate-bad-actors) geçin.
+Bir proje sorumlusu olarak işiniz, bu durumların tırmanmasını önlemektir. Konuyla ilgili güçlü bir fikriniz olsa bile, kavgaya atılmak ve görüşlerinizi itmek yerine, moderatör veya kolaylaştırıcı olarak yer almaya çalışın. Birisi kaba veya tartışmacı davranıyorsa, tartışmaları medeni ve üretken kılmak için [hemen harekete](../building-community/#kt-karakterlere-msamaha-gstermeyin) geçin.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar"> Bir proje sorumlusu olarak, katkıda bulunanlarınıza saygılı olmak çok önemlidir. Sıklıkla söylediklerinizi kişisel olarak alırlar. <p markdown="1" class="pquote-credit"> - @kennethreitz, ["Doğru Olun veya Yolda Olun"] (https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way) </p></aside>
 
@@ -177,7 +177,7 @@ Sakinleşmek kolay değildir, ancak liderlik göstermek topluluğunuzun sağlı�
 
 ### README'nizi anayasa olarak kabul edin
 
-README'niz [bir talimat dizisinden daha fazlasıdır](../starting-a-project/#writing-a-readme). Aynı zamanda amaçlarınız, ürün vizyonunuz ve yol haritanız hakkında konuşabileceğiniz bir yer. İnsanlar, belirli bir özelliğin haklarını tartışmaya aşırı odaklanıyorsa, README'nizi tekrar ziyaret etmek ve projenizin vizyonundan bahsetmek yardımcı olabilir. README'nize odaklanmak da konuşmayı kişiselleştirmekten uzaklaştırır, böylece yapıcı bir tartışma yapabilirsiniz.
+README'niz [bir talimat dizisinden daha fazlasıdır](../starting-a-project/#bir-readme-yazma). Aynı zamanda amaçlarınız, ürün vizyonunuz ve yol haritanız hakkında konuşabileceğiniz bir yer. İnsanlar, belirli bir özelliğin haklarını tartışmaya aşırı odaklanıyorsa, README'nizi tekrar ziyaret etmek ve projenizin vizyonundan bahsetmek yardımcı olabilir. README'nize odaklanmak da konuşmayı kişiselleştirmekten uzaklaştırır, böylece yapıcı bir tartışma yapabilirsiniz.
 
 ### Hedefe değil, yolculuğa odaklanın
 

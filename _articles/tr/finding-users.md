@@ -17,8 +17,8 @@ toc:
 order: 3
 image: "/assets/images/cards/finding.png"
 related:
-- Yeni başlayanlar
-- geliştirme
+  - beginners
+  - building
 ---
 
 ## Duyurmak

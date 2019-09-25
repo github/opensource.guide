@@ -12,8 +12,8 @@ toc:
 order: 7
 image: "/assets/images/cards/getting-paid.png"
 related:
-- örnek yöntemler
-- liderlik
+  - best-practices
+  - leadership
 ---
 
 ## Neden bazı insanlar finansal destek ister

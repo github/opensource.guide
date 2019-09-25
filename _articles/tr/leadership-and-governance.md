@@ -22,8 +22,8 @@ toc:
 order: 6
 image: "/assets/images/cards/leadership.png"
 related:
-- örnek uygulamaları
-- ölçümler
+  - best-practices
+  - metrics
 ---
 
 ## Büyüyen projeniz için yönetimi anlama
@@ -50,7 +50,7 @@ Bir sorumlu projeniz için kod yazan bir kişi olması gerekmez. Projenizi deği
 
 **"committer" terimi** , belirli bir sorumluluk türü olan commit erişimini diğer katkı şekillerinden ayırmak için kullanılabilir.
 
-Proje rollerinizi dilediğiniz şekilde tanımlayabilmenize rağmen, daha fazla katkı biçimi geliştirmek için [daha geniş tanımları kullanmayı düşünün](../how-to-contribute/#what-it-means-to-contribute). Teknik becerilerinden bağımsız olarak, projenize olağanüstü katkı sağlayan kişileri resmen tanımak için liderlik rollerini kullanabilirsiniz.
+Proje rollerinizi dilediğiniz şekilde tanımlayabilmenize rağmen, daha fazla katkı biçimi geliştirmek için [daha geniş tanımları kullanmayı düşünün](../how-to-contribute/#katkda-bulunmak-ne-demektir). Teknik becerilerinden bağımsız olarak, projenize olağanüstü katkı sağlayan kişileri resmen tanımak için liderlik rollerini kullanabilirsiniz.
 
 <aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar"> Beni Django'nun mucidi olarak tanıyor olabilirsiniz ... ama gerçekten bir yıl sonra bir şey üzerinde çalışmak üzere işe alınan adamım. (...) İnsanlar programlama becerim yüzünden başarılı olduğumdan şüpheleniyorlar ... ama en iyi ihtimalle ortalama bir programcıyım. <p markdown="1" class="pquote-credit"> - @jacobian, ["PyCon 2015 Keynote" (video)] (https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s) </p></aside>
 
@@ -72,7 +72,7 @@ Liderlik rolleri belirledikten sonra, insanların onlara nasıl ulaşabileceğin
 
 [Vossibility](https://github.com/icecrime/vossibility-stack) gibi araçlar, projeye kimin katkı sağladığını (ya da yapmadığını) izlemenize yardımcı olabilir. Bu bilginin belgelenmesi, topluluk sahiplerinin, kararlarını özel olarak veren bir klik olduğuna inanmalarını engeller.
 
-Son olarak, projeniz GitHub'daysa, projenizi kişisel hesabınızdan bir Kuruluşa taşımayı ve en az bir yedek yönetici eklemeyi düşünün. [GitHub Organizasyonları](https://help.github.com/articles/creating-a-new-organization-account/) izinleri ve çoklu depoları yönetmeyi kolaylaştırır ve projenizin mirasını [ortak mülkiyet](../building-community/#share-ownership-of-your-project) yoluyla korur.
+Son olarak, projeniz GitHub'daysa, projenizi kişisel hesabınızdan bir Kuruluşa taşımayı ve en az bir yedek yönetici eklemeyi düşünün. [GitHub Organizasyonları](https://help.github.com/articles/creating-a-new-organization-account/) izinleri ve çoklu depoları yönetmeyi kolaylaştırır ve projenizin mirasını [ortak mülkiyet](../building-community/#projenizi-paylan) yoluyla korur.
 
 ## Ne zaman birine commit izni vermeliyim?
 
