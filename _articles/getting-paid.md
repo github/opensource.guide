@@ -163,7 +163,6 @@ Few organisation enabling grants for open source projects are:
 * [Python Software Foundation Funding and Grants](https://www.python.org/psf/grants/)
 * [Knight Foundation](https://www.knightfoundation.org/about)
 
-
 Few open source organisations and projects who received open source funding and grants from these organisations are:
 
 * **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
