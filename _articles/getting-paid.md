@@ -154,6 +154,18 @@ Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https
 
 Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
 
+Few organisation enabling grants for open source projects are:
+
+* [Google Open Source Funding](https://opensource.google.com/docs/growing/funding/)
+* [Mozilla Open Source Projects Grants and Fundings](https://www.mozilla.org/en-US/moss/)
+* [Open Technology Funding and Grants](https://www.opentech.fund/)
+* [Horizon Open Source Projects Funding](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020)
+* [Python Software Foundation Funding and Grants](https://www.python.org/psf/grants/)
+* [Knight Foundation](https://www.knightfoundation.org/about)
+
+
+Few open source organisations and projects who received open source funding and grants from these organisations are:
+
 * **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
 * **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
 * **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
