@@ -229,7 +229,9 @@ Sie können eine README überfliegen und einen defekten Link oder einen Tippfehl
 >
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
-Auf einer der folgenden Seiten können Sie neue Projekte zum Beitragen entdecken (alle englischsprachig):
+Wenn Sie Issues suchen, die Sie beheben könnten, hat jedes Open-Source-Projekt eine Seite, die Neuling-freundliche Issues aufzeigt. Navigieren Sie zur Repository-Hauptseite auf GitHub und fügen Sie `/contribute` der URL hinzu (z.B.[`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+
+Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecken (alle englischsprachig):
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
