@@ -28,7 +28,7 @@ Beginnen Sie mit der Dokumentation:
 
 * **Helfen Sie beim Einstieg in ihr Projekt.** [Eine freundliche README](../starting-a-project/#eine-readme-schreiben) und anschauliche Codebeispiele erleichtern Allen, die auf Ihr Projekt stoßen, den Einstieg.
 * **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#ihre-beitragsrichtlinien-aufschreiben), und indem Sie die Issues stets aktuell halten.
-* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen* geeignete Issues explizit kenntlich machen](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
+* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen* geeignete Issues explizit kenntlich machen (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
 
 [GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 

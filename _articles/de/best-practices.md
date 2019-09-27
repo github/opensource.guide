@@ -179,7 +179,7 @@ Sie müssen nicht alles selbst machen. Die Gemeinschaft Ihres Projekts existiert
 
 Wenn Sie auf der Suche nach Mitwirkenden sind, fragen Sie doch einfach mal herum.
 
-Sie können auch [Issues, die für Anfänger einfach genug sind, explizit markieren](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden.
+Sie können auch [Issues, die für Anfänger einfach genug sind, explizit markieren (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden.
 
 Wenn Sie neue Mitwirkende bemerken, die wiederholt Beiträge leisten, erkennen Sie deren Arbeit an, indem Sie ihnen mehr Verantwortung anbieten. Dokumentieren Sie, wie andere in Führungsrollen hineinwachsen können, wenn sie es wünschen.
 
