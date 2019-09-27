@@ -244,6 +244,8 @@ Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecke
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Eine Checkliste, bevor Sie einen Beitrag leisten
 
