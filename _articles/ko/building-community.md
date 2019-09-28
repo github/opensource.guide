@@ -113,10 +113,10 @@ related:
 이런 유형의 사람들에 대해서는 즉각적인 조치를 취해야 합니다. 그냥 넘어간다면 부정적인 사람들이 커뮤니티의 다른 사람들을 불쾌하게, 떠나게까지 만들 수 있습니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project”](https://karissa.github.io/post/okf-de)
+— @okdistribute, ["FOSS 프로젝트를 어떻게 실행하는가"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
