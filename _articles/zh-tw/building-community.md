@@ -114,10 +114,10 @@ related:
 對於這些人，必須採取零容忍的政策。一旦猶豫不決，那麼這些負面的人會給社群的其他人帶來不愉快的感覺。甚至出現劣幣驅逐良幣的現象。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   專案成功的關鍵在於擁有一個能互相支持的社群。如果沒有我的同事、網路上友善的陌生人以及聊天頻道 IRC 的幫助，我不可能做好這些工作。(...）不要退而求其次。不要容忍來搗亂的人。
   <p markdown="1" class="pquote-credit">
-— @karissa, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 

@@ -95,7 +95,7 @@ Se sua empresa tomar tal caminho, é importante manter os limites entre comunida
 Se você não pode convencer o seu atual empregador a priorizar trabalho open source, considere encontrar um novo empregador que encorage as contribuições open source de seus funcionários. Procure empresas que façam a sua dedicação ao trabalho open source explícita. Por exemplo:
 
 * Algumas empresas, como a [Netflix](https://netflix.github.io/) ou o [PayPal](https://paypal.github.io/), têm websites que destacam o seu envolvimento com open source
-* [Rackspace](https://www.rackspace.com/en-us) publicou sua [política de contribuição com open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) para funcionários
+* [Zalando](https://opensource.zalando.com) publicou sua [política de contribuição com open source](https://opensource.zalando.com/docs/using/contributing/) para funcionários
 
 Projetos que se originaram em uma grande empresa, como o [Go](https://github.com/golang) ou o [React](https://github.com/facebook/react), também irão possivelmente empregar pessoas para trabalhar com open source.
 

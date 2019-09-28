@@ -189,7 +189,7 @@ related:
 
 想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何构建 CONTRIBUTION.md"](https://mozillascience.github.io/working-open-workshop/contributing/)。
 
-来你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
+在你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
 
 ![贡献指南](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 

@@ -31,6 +31,10 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 
 Why do people contribute to open source? Plenty of reasons!
 
+### Improve software you rely on
+
+Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+
 ### Improve existing skills
 
 Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
@@ -214,6 +218,8 @@ You might scan a README and find a broken link or a typo. Or you're a new user a
 
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
+If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+
 You can also use one of the following resources to help you discover and contribute to new projects:
 
 * [GitHub Explore](https://github.com/explore/)
@@ -224,6 +230,7 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### A checklist before you contribute
 
