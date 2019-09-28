@@ -3,11 +3,6 @@ lang: zh-cn
 title: 通过为开源工作获得报酬
 description: 为了让你能够持续的为开源项目，理应得到相应的经济上的报酬。
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "为何会有人寻求经济上的支持"
-  funding-your-own-time: "你的时间是最宝贵的，理应得到资助"
-  finding-funding-for-your-project: "为你的项目寻找资助"
-  building-a-case-for-financial-support: "建立经济上的支持"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -21,7 +16,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-我尝试着寻找让人爱不释手的编程项目，从而是我的周末或圣诞节也能保持状态。(...)我拥有一台家用电脑，手头也并不十分宽裕。在思考了一阵子之后，我决定写一新的交互式的编程语言，（...)后来我将这门语言叫做Python。
+我尝试着寻找让人爱不释手的编程项目，从而使我的周末或圣诞节也能保持状态。(...)我拥有一台家用电脑，手头也并不十分宽裕。在思考了一阵子之后，我决定写一新的交互式的编程语言，（...)后来我将这门语言叫做Python。
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Python 编程"](https://www.python.org/doc/essays/foreword/)
   </p>
@@ -37,7 +32,7 @@ related:
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   对于一些情况，金钱上的赞助会增加责任的感觉，（...）这点对于我们来说很重要，尤其是一个全球性的社区，我们生活在一个快节奏的世界，只是想说明"不是现在，我觉得去做一些完全不同的事"。
   <p markdown="1" class="pquote-credit">
-— @alloy, ["为什么我们不接受捐赠"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["为什么我们不接受捐赠"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
@@ -47,7 +42,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  询问任何一位开源项目的维护著，他们都会告诉你关于管理一个项目需要花费大量时间的真相。你拥有客户，你的为他们修复问题，你创建新的功能。这些都需要真正的花时间去做的事情。
+  询问任何一位开源项目维护者，他们会告诉您管理项目的工作量的实际情况。你拥有客户，你要为他们解决问题，你要创建新功能，这些都需要花时间去做。
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["无偿劳动的伦理和开源软件社区"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
@@ -59,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    开源软件为技术领域贡献了巨大的好处，其实，更准确的说是所有的行业。(...) 然而，如果仅仅是靠人们自身的痴迷和兴趣所致，那么很可能就没有开源的今天。
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["金钱与开源"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["金钱与开源"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
@@ -100,13 +95,13 @@ related:
 如果你实在无法在当前的雇主下开展相关开源的工作，那么是该考虑换老板的时候，应到找个支持想开源作贡献的老板！寻找那些致力于开源工作的公司。比如：
 
 * [Ghost](https://ghost.org/)  就是一家围绕很多[开源项目](https://github.com/tryghost/ghost)的好公司
-* [Rackspace](https://www.rackspace.com/en-us) 甚至为其员工提供了[贡献开源守则](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)
+* [Zalando](https://opensource.zalando.com) 甚至为其员工提供了[贡献开源守则](https://opensource.zalando.com/docs/using/contributing/)
 
 那些大公司发起的项目，如 [Go](https://github.com/golang) 或 [React](https://github.com/facebook/react)，均希望雇佣到优秀的工程师来为他们工作。
 
 当然最终还是要看你自身的条件而定，你甚至可以利用你的开源项目来独立的进行融资。这边就有几个案例：
 
-* @gaearon 通过 [Patreon crowdfunding campaign](http://redux.js.org/)为他的项目 [Redux](https://github.com/reactjs/redux)成功的融到了资金。
+* @gaearon 通过 [Patreon crowdfunding campaign](https://redux.js.org/)为他的项目 [Redux](https://github.com/reactjs/redux)成功的融到了资金。
 * @andrewgodwin [通过 Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 为Django schema 迁移拿到了资金
 
 ## Finding funding for your project

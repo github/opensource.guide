@@ -3,10 +3,6 @@ lang: es
 title: Construyendo Comunidades de Bienvenida
 description: Construyendo una comunidad que anime a al gente a usar, contribuir y educar con su proyecto
 class: building
-toc:
-  configurando-tu-proyecto-para-el-&eacute;xito: "Configurando tu proyecto para el &eacute;xito"
-  haciendo-crecer-tu-comunidad: "Haciendo crecer tu comunidad"
-  resolviendo-conflictos: "Resolviendo conflictos"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -58,7 +54,7 @@ Animar a otros colaboradores es tambi&eacute;n invertir en t&iacute; mismo . Cua
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   ¿Alguna vez viste un evento (t&eacute;cnico) en donde no conozcas a nadie, pero todos los dem&aacute;s parece que se encuentran en grupos y conversan como viejos amigos? (...) Ahora imag&iacute;nate queriendo contribuir con un proyecto de c&oacute;digo abierto, pero no distingues porqu&eacute; o c&oacute;mo esto est&aacute; sucediendo.
   <p markdown="1" class="pquote-credit">
-— @janl, ["C&oacute;digo abierto sostenible"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["C&oacute;digo abierto sostenible"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -117,10 +113,10 @@ Cualquier proyecto popular inevitablemente atraer&aacute; a personas que perjudi
 Haz todo lo posible para adoptar una pol&iacute;tica de tolerancia cero hacia este tipo de personas. Si no se controla, las personas negativas har&aacute;n que otras personas de tu comunidad se sientan inc&oacute;modas. Incluso pueden irse.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La verdad es que tener una comunidad de apoyo es clave. Nunca hubiera sido capaz de realizar este trabajo sin la ayuda de mis colegas, los extra&ntilde;os de internet que fueron amigables y los canales IRC de conversaci&oacute;n. (...) No te conformes con menos. No te conformes con los idiotas.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -136,7 +132,7 @@ En tu archivo CONTRIBUTING, indica de manera expl&iacute;cita a los nuevos colab
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n". [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar.
+En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://kentcdodds.com/blog/first-timers-only), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n". [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar.
 
 Finalmente, utiliza tu documentaci&oacute;n para hacer que las personas se sientan bienvenidas en cada etapa del camino.
 
@@ -153,7 +149,7 @@ Por ejemplo, as&iacute; es como [Rubinius](https://github.com/rubinius/rubinius/
  Los l&iacute;deres tendr&aacute;n diferentes opiniones, como deber&iacute;a ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces m&aacute;s potentes no ganen siempre por haber cansado a los dem&aacute;s, y que tambi&eacute;n se escuchen las voces menos potentes y minoritarias.
 
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -169,7 +165,7 @@ Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad ta
 
 * Si tienes una comunidad considerable, **env&iacute;a un bolet&iacute;n o escribe un post en un blog** agradeciendo a los colaboradores. Rust's [This Week in Rust](https://this-week-in-rust.org/) y Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) son dos buenos ejemplos.
 
-* **Da a cada colaborador permiso para hacer commit.** @felixge encontr&oacute; con esto que las personas [se entusiasmaran por pulir sus parches](http://felixge.de/2013/03/11/the-pull-request-hack.html), e incluso encontr&oacute; nuevas personas para mantener proyectos en los que no hab&iacute;a trabajado hace tiempo.
+* **Da a cada colaborador permiso para hacer commit.** @felixge encontr&oacute; con esto que las personas [se entusiasmaran por pulir sus parches](https://felixge.de/2013/03/11/the-pull-request-hack.html), e incluso encontr&oacute; nuevas personas para mantener proyectos en los que no hab&iacute;a trabajado hace tiempo.
 
 
 * Si tu proyecto est&aacute; alojado en GitHub, **mueve tu proyecto desde tu cuenta personal hacia una [Organizaci&oacute;n](https://help.github.com/articles/creating-a-new-organization-account/)** y agrega al menos un administrador de respaldo. Las Organizaciones hacen que sea m&aacute;s f&aacute;cil trabajar en proyectos con colaboradores externos.
@@ -221,7 +217,7 @@ Tu README es [m&aacute;s que un conjunto de instrucciones](../starting-a-project
 
 Algunos proyectos utilizan un proceso de votaci&oacute;n para tomar decisiones importantes. Si bien parece sensato a primera vista, la votaci&oacute;n pone hincapi&eacute; en una "respuesta", m&aacute;s que en escuchar y tratar las preocupaciones de cada uno.
 
-La votaci&oacute;n se puede volver pol&iacute;tica, cuando los miembros de la comunidad se sienten presionados para hacerse favores entre ellos o a votar de determinada manera. No todos votan, si existe una [mayor&iacute;a silenciosa](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) en tu comunidad, o existen usuarios que no se enteraron que se estaba llevando a cabo una votaci&oacute;n.
+La votaci&oacute;n se puede volver pol&iacute;tica, cuando los miembros de la comunidad se sienten presionados para hacerse favores entre ellos o a votar de determinada manera. No todos votan, si existe una [mayor&iacute;a silenciosa](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) en tu comunidad, o existen usuarios que no se enteraron que se estaba llevando a cabo una votaci&oacute;n.
 
 Algunas veces, la votaci&oacute;n se vuelve un desempate necesario. La mayoría de las veces, sin embargo, pone &eacute;nfasis en la ["b&uacute;squeda de concenso"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) m&aacute;s que en concensuar.
 
@@ -257,7 +253,7 @@ Si la conversaci&oacute;n claramente no va a ning&uacute;n lado, no existen acci
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guiar un t&oacute;pico hacia algo &uacute;til sin ser agresivo es un arte. No funcionar&aacute; simplemente con llamar la atenci&oacute;n a las personas para impedir que contin&uacute;en perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: brinda a las personas una ruta, un camino a seguir que los lleve al resultado que quieres, pero sin aparentar que les est&aacute;s dictando una conducta.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

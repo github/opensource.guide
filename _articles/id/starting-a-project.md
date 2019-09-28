@@ -3,12 +3,6 @@ lang: id
 title: Memulai Proyek Open Source
 description: Pelajari lebih lanjut tentang dunia open source dan bersiap-siap untuk merilis proyek Anda sendiri.
 class: beginners
-toc:
-  apa-dan-kenapa-open-source: "Apa dan kenapa open source"
-  perlukah-saya-merilis-proyek-open-source-saya-sendiri: "Perlukah saya merilis proyek open source saya sendiri?"
-  merilis-proyek-open-source-anda: "Merilis proyek open source Anda"
-  penamaan-dan-pencitraan-proyek-anda: "Penamaan dan pencitraan proyek Anda"
-  daftar-checklist-pra-rilis: "Daftar checklist pra-rilis"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -41,11 +35,11 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Salah satu pengalaman yang paling berharga dengan menggunakan dan berkolaborasi pada open source datang dari relasi yang saya bangun dengan pengembang yang lain ketika menghadapi masalah yang sama seperti yang saya alami.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
-[Terdapat banyak alasan](http://ben.balter.com/2015/11/23/why-open-source/) kenapa seseorang atau sebuah organisasi ingin membuka proyek open source. Beberapa diantaranya meliputi:
+[Terdapat banyak alasan](https://ben.balter.com/2015/11/23/why-open-source/) kenapa seseorang atau sebuah organisasi ingin membuka proyek open source. Beberapa diantaranya meliputi:
 
 * **Kolaborasi:** Proyek open source bisa menerima perubahan dari siapapun juga di seluruh dunia. [Exercism](https://github.com/exercism/), sebagai contoh, adalah kerangka latihan pemrograman dengan lebih dari 350 kontributor.
 
@@ -85,7 +79,7 @@ Jika tujuan akhir Anda adalah untuk menunjukkan hasil pekerjaan Anda, Anda mungk
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   Pada suatu titik saya menciptakan UIAlertView hasil modifikasi yang saya gunakan...dan saya memutuskan untuk membuatnya menjadi open source. Lalu saya memodifikasinya menjadi lebih dinamis dan menyimpannya di GitHub. Saya menulis dokumentasi pertama saya dengan menjelaskan kepada pengembang lain bagaimana untuk menggunakannya pada proyek mereka. Mungkin saja tidak ada orang lain yang akan menggunakannya karena merupakan proyek sederhana, tetapi saya memiliki perasaan yang baik tentang kontribusi yang saya lakukan.
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
@@ -101,7 +95,7 @@ Jika Anda membutuhkan pendanaan yang permanen atau alokasi staf untuk promosi, o
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   Ketika Anda mulai untuk membuka proyek Anda pada open source, sangatlah penting untuk memastikan bahwa proses manajemen Anda memperhatikan kontribusi dan kemampuan dari komunitas disekeliling proyek Anda. Jangan takut untuk melibatkan kontributor yang bukan merupakan karyawan sebagai aspek kunci dalam proyek - terutama jika mereka adalah kontributor yang aktif.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -156,10 +150,10 @@ Pada dokumen README, cobalah untuk menjawab pertanyaan berikut:
 Anda bisa menggunakan README untuk menjawab pertanyaan lainnya, seperti bagaiman Anda akan menangani kontribusi, apa tujuan akhir dari proyek, dan informasi tentang lisensi. Jika Anda tidak ingin menerima kontribusi, atau proyek Anda belum siap untuk produksi, tuliskan informasi ini.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Dokumentasi yang lebih baik berarti lebih banyak pengguna, lebih sedikit bantuan untuk dukungan ke pengguna, dan lebih banyak kontributor. (...) Ingatlah bahwa pembaca bukanlah Anda. Terdapat orang-orang yang datang pada sebuah proyek yang memiliki pengalaman yang sama sekali berbeda.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
@@ -193,7 +187,7 @@ Pada fase awal dari proyek Anda, dokumen CONTRIBUTING bisa sangat sederhana. And
 
 Seiring dengan berjalannya waktu, Anda bisa menambahkan pertanyaan yang paling sering ditanyakan pada dokumen CONTRIBUTING. Menuliskan informasi ini berarti lebih sedikit orang yang akan bertanya pertanyaan yang sama kepada Anda berulang kali.
 
-Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
+Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
 
 Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang melihatnya. Jika Anda [meletakkan dokumen CONTRIBUTING pada repositori proyek](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub akan secara otomatis menghubungkan ke dokumen Anda ketika seorang kontributor membuat sebuah laporan masalah atau membuat pull request.
 
@@ -205,7 +199,7 @@ Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang mel
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   Kita semua pernah memiliki pengalaman dimana kita dihadapkan dengan penyalahgunaan, baik sebagai pengelola yang menjelaskan kenapa sesuatu harus dilakukan dengan cara tertentu, atau sebagai pengguna...bertanya sebuah pertanyaan sederhana. (...) Kode etik merupakan dokumen yang mudah untuk dijadikan referensi yang mengindikasikan bahwa tim Anda sangat memperhatikan wacana yang bersifat membangun.
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
@@ -256,13 +250,13 @@ Baik dokumentasi resmi atau email sehari-hari, gaya penulisan Anda merupakan bag
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Saya berusaha untuk ikut terlibat pada setiap diskusi pada mailing list, dan memberikan contoh panutan, bertindak baik kepada orang-orang, menganggap masalah mereka sebagai sesuatu yang serius, dan berusaha untuk membantu. Setelah beberapa waktu, orang-orang tidak hanya berhenti karena ada masalah, namun juga ikut membantu, dan mereka mengikuti gaya saya.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
 Menggunakan bahasa yang hangat, inklusif (seperti "mereka", meskipun mengacu pada satu orang) bisa membuat proyek Anda lebih nyaman bagi kontributor baru. Gunakan bahasa sederhana, karena bisa jadi banyak pengguna Anda bukan merupakan pengguna yang menggunakan bahasa Inggris sehari-harinya.
 
-Selain bagaimana Anda menuliskan kata-kata, gaya pemrograman Anda juga bisa menjadi bagian dari citra proyek Anda. [Angular](https://github.com/johnpapa/angular-styleguide) dan [jQuery](http://contribute.jquery.org/style-guide/js/) adalah dua contoh proyek dengan gaya pemrograman dan panduan yang lengkap.
+Selain bagaimana Anda menuliskan kata-kata, gaya pemrograman Anda juga bisa menjadi bagian dari citra proyek Anda. [Angular](https://github.com/johnpapa/angular-styleguide) dan [jQuery](https://contribute.jquery.org/style-guide/js/) adalah dua contoh proyek dengan gaya pemrograman dan panduan yang lengkap.
 
 Tidaklah penting untuk menuliskan gaya penulisan untuk proyek Anda ketika Anda baru memulainya dan Anda mungkin senang untuk mencoba beberapa gaya pemrograman pada proyek Anda. Tetapi Anda perlu mengantisipasi bagaimana penulisan dan pemrograman Anda bisa memikat orang atau malah membuat orang untuk menghindari proyek Anda. Tahap awal dari proyek Anda adalah kesempatan untuk menentukan arah yang Anda tuju.
 
@@ -330,7 +324,7 @@ Jika Anda perseorangan:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Anda telah mengunjungi kantor hukum dan/atau membahami hak cipta dan kebijakan open source pada perusahaan Anda (jika Anda merupakan karyawan pada sebuah perusahaan)
+  Anda telah mengunjungi kantor hukum dan/atau memahami hak cipta dan kebijakan open source pada perusahaan Anda (jika Anda merupakan karyawan pada sebuah perusahaan)
   </label>
 </div>
 
@@ -360,7 +354,7 @@ Jika Anda merupakan perusahaan atau organisasi:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Minimal terdapat dua orang yang memiliki akses admministratif pada proyek
+    Minimal terdapat dua orang yang memiliki akses administratif pada proyek
   </label>
 </div>
 

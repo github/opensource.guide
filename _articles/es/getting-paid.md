@@ -1,13 +1,8 @@
 ---
 lang: es
 title: Recibir Pagos por Trabajos en C&oacute;digo Abierto
-description: Manten tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
+description: Mant&eacute;n tu trabajo de c&oacute;digo abierto al encontrar apoyo financiero por tu tiempo o tu proyecto.
 class: getting-paid
-toc:
-  porqu&eacute;-algunas-personas-buscan-apoyo-financiero: "¿Porqu&eacute; algunas personas buscan apoyo financiero?"
-  financiando-tu-propio-tiempo: "Financiando tu propio tiempo"
-  encontrando-financiaci&oacute;n-para-tu-proyecto: "Encontrando financiaci&oacute;n para tu proyecto"
-  creando-un-caso-de-apoyo-financiero: "Creando un caso de apoyo financiero"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -15,13 +10,13 @@ related:
   - leadership
 ---
 
-## ¿Porqu&eacute; algunas personas buscan apoyo financiero?
+## ¿Por qu&eacute; algunas personas buscan apoyo financiero?
 
 La mayor parte del trabajo realizado en proyectos de c&oacute;digo abierto es voluntario. Por ejemplo, alguien puede encontrarse con un error en un proyecto que usan y aplican una correcci&oacute;n r&aacute;pida, o simplemente les puede gustar corregir proyectos de c&oacute;digo abierto en su tiempo libre.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-Estaba buscando un proyecto de programacion para tenerlo como "hobby" y que me mantuviese ocupado en la semana de navidad. (...) Ten&iacute;a una computadora de hogar y no mucho m&aacute;s. Decid&iacute; escribir un interpretador para un nuevo lenguaje en el que he estado pensando &uacute;ltimamente. (...) Eleg&iacute; Python como t&iacute;tulo de mi trabajo.
+Estaba buscando un proyecto de programaci&oacute;n para tenerlo como "hobby" y que me mantuviese ocupado en la semana de Navidad. (...) Ten&iacute;a un ordenador personal y no mucho m&aacute;s. Decid&iacute; escribir un interpretador para un nuevo lenguaje en el que he estado pensando &uacute;ltimamente. (...) Eleg&iacute; Python como t&iacute;tulo de mi trabajo.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
@@ -37,7 +32,7 @@ Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pag
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Las donaciones financieras agregan un sentimiento de responsabilidad, para algunos. (...) Es importante para nosotros, en el mundo globalmente conectado y apresurado en el que vivimos, ser capaces de decir: "Espera, no ahora, quiero hacer algo completamente diferente".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
@@ -47,19 +42,19 @@ Mantener proyectos populares puede ser una responsabilidad significativa, tomand
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Pregúntale a cualquier responsable de proyecto de c&oacute;digo abierto, y te informar&aacute; sobre la realidad de la cantidad de trabajo que se dedica a la gesti&oacute;n de un proyecto. Tienes clientes. Estas arreglando los problemas para ellos. Estas creando nuevas funciones. Esto se convierte en una demanda real de tu tiempo.
+  Preg&uacute;ntale a cualquier responsable de proyecto de c&oacute;digo abierto, y te informar&aacute; sobre la realidad de la cantidad de trabajo que se dedica a la gesti&oacute;n de un proyecto. Tienes clientes. Est&aacute;s arreglando los problemas para ellos. Est&aacute;s creando nuevas funciones. Esto se convierte en una demanda real de tu tiempo.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-El trabajo pago tambi&eacute;n habilita a todo tipo de personas a aportar significativamente. Algunas no pueden afrontar un trabajo ad-honorem (trabajo gratis) en proyectos de c&oacute;digo abierto, ya sea por su posici&oacute;n financiera, deudas, familia u otras responsabilidades. Eso significa que el mundo nunca ve contribuciones de personas talentosas que no pueden donar horas de trabajo. Estas implicaciones &eacute;ticas como @ashedryden [ha descripto](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), desde que el trabajo hecho es parcialmente en favor de las personas que tienen ventajas en su vida, quienes de vuelta ganan ventajas adicionales basadas en sus contribuciones voluntarias, mientras que otros que no pueden ofrecerse voluntariamente no obtiene nuevas oportunidades, lo cual refuerza la actual falta de diversidad en la comunidad de c&oacute;digo abierto.
+El trabajo pagado tambi&eacute;n habilita a todo tipo de personas a aportar significativamente. Algunas no pueden afrontar un trabajo ad-honorem (trabajo gratis) en proyectos de c&oacute;digo abierto, ya sea por su posici&oacute;n financiera, deudas, familia u otras responsabilidades. Eso significa que el mundo nunca ve contribuciones de personas talentosas que no pueden donar horas de trabajo. Estas implicaciones &eacute;ticas como @ashedryden [ha descrito](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), desde que el trabajo hecho es parcialmente en favor de las personas que tienen ventajas en su vida, quienes de vuelta ganan ventajas adicionales basadas en sus contribuciones voluntarias, mientras que otros que no pueden ofrecerse voluntariamente no obtiene nuevas oportunidades, lo cual refuerza la actual falta de diversidad en la comunidad de c&oacute;digo abierto.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS obtiene beneficios mas&iacute;vos de la industria de la tecnolog&iacute;a, que, al mismo tiempo, significa beneficios para todas las industrias. (...) Por otro lado, si las &uacute;nicas personas que pueden concentrarse en ello son aquellas con suerte y obsesionadas, entonces hay un gran potencial no explotado.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
@@ -67,13 +62,13 @@ Si tu estas buscando apoyo financiero, hay dos posibles caminos a seguir: puedes
 
 ## Financiando tu propio tiempo
 
-Hoy en dia, muchas personas reciben pagos por trabajos part-time o full-time  en c&oacute;digo abierto. El modo mas com&uacute;n de recibir una paga por tu tiempo es hablar con tu empleador.
+Hoy en d&iacute;a, muchas personas reciben pagos por trabajos a tiempo parcial o tiempo completo  en c&oacute;digo abierto. El modo mas com&uacute;n de recibir una paga por tu tiempo es hablar con tu empleador.
 
-Es mas f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu empleador usa el proyecto, pero ponte creativo. Puede que tu empleador no use el proyecto, pero usan Python, y mantener un proyecto popular de Python puede atraer nuevos desarrolladores de Python. Tambi&eacute;n puede que haga que tu empleador se vea m&aacute;s desarrollador-amigable en general.
+Es mas f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu empleador usa el proyecto, pero ponte creativo. Puede que tu empleador no use el proyecto, pero usa Python, y mantener un proyecto popular de Python puede atraer nuevos desarrolladores de Python. Tambi&eacute;n puede que haga que tu empleador se vea m&aacute;s desarrollador-amigable en general.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforzándome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) Fui capaz de discutir con mi jefe los problemas que estaba enfrentando y nos surgieron ideas sobre c&oacute;mo podr&iacute;amos incorporar las tareas de c&oacute;digo abierto dado nuestro propio uso de Babel.
+  Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforz&aacute;ndome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) Fui capaz de discutir con mi jefe los problemas que estaba enfrentando y nos surgieron ideas sobre c&oacute;mo podr&iacute;amos incorporar las tareas de c&oacute;digo abierto dado nuestro propio uso de Babel.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
@@ -83,11 +78,11 @@ Si tu no tienes un excitante proyecto de c&oacute;digo abierto en el que quisier
 
 Muchas empresas est&aacute;n desarrollando programas de c&oacute;digo abierto para construir su marca y reclutar talentos de calidad.
 
-@hueniverse, por ejemplo, encontró que había razones financieras para justificar [la inversi&oacute;n de Walmart al c&oacute;digo abierto](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Y @jamesgpearce descubri&oacute; que el programa de c&oacute;digo abierto de Facebook [hizo la diferencia](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) en el reclutamiento:
+@hueniverse, por ejemplo, encontr&oacute; que hab&iacute;a razones financieras para justificar [la inversi&oacute;n de Walmart al c&oacute;digo abierto](http://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Y @jamesgpearce descubri&oacute; que el programa de c&oacute;digo abierto de Facebook [hizo la diferencia](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) en el reclutamiento:
 
-> Est&aacute; alineado con nuestra cultura hacker, y cómo nuestra organizacion era percibida. Le preguntamos a nuestros empleados, "¿Sab&iacute;as del programa de software de c&oacute;digo abierto de Facebook?. Dos tercios dijeron "Sí". Una mitad dijo que el programa contribuía positivamente en la decisi&oacute;n de trabajar para nosotros. Estos no son n&uacute;meros marginales, y, espero, que la moda continúe.
+> Est&aacute; alineado con nuestra cultura hacker, y c&oacute;mo nuestra organizacion era percibida. Le preguntamos a nuestros empleados, "¿Sab&iacute;as del programa de software de c&oacute;digo abierto de Facebook?. Dos tercios dijeron "S&iacute;". Una mitad dijo que el programa contribu&iacute;a positivamente en la decisi&oacute;n de trabajar para nosotros. Estos no son n&uacute;meros marginales, y, espero, que la moda contin&uacute;e.
 
-Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n entre la comunidad y la actividad corporativa. &uacute;ltimamente, el c&oacute;digo abierto se mantiene a s&iacute; mismo a trav&eacute;s de contribuciones de personas de todo el mundo, y eso es mas importante que la empresa o la ubicaci&oacute;n de la misma.
+Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n entre la comunidad y la actividad corporativa. &uacute;ltimamente, el c&oacute;digo abierto se mantiene a s&iacute; mismo a trav&eacute;s de contribuciones de personas de todo el mundo, y eso es m&aacute;s importante que la empresa o la ubicaci&oacute;n de la misma.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
@@ -97,21 +92,21 @@ Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n 
   </p>
 </aside>
 
-Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicac&iacute;on al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
+Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicaci&oacute;n al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
 
-* Algunas empresas, como [Netflix](https://netflix.github.io/) o [PayPal](http://paypal.github.io/), tienen paginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
-* [Rackspace](https://www.rackspace.com/en-us) publico su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) para empleados.
+* Algunas empresas, como [Netflix](https://netflix.github.io/) o [PayPal](https://paypal.github.io/), tienen p&aacute;ginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
+* [Zalando](https://opensource.zalando.com) publico su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://opensource.zalando.com/docs/using/contributing/) para empleados.
 
 Proyectos que se originaron en una empresa grande, como [Go](https://github.com/golang) o [React](https://github.com/facebook/react), ser&aacute;n susceptibles a contratar personas que trabajen en c&oacute;digo abierto.
 
 Finalmente, dependiendo de tus circunstancias personales, puedes probar generar dinero de forma independiente para financiar tu trabajo de c&oacute;digo abierto. Por ejemplo:
 
-* @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](http://redux.js.org/)
+* @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 ## Encontrando financiaci&oacute;n para tu proyecto.
 
-Mas all&aacute; de los arreglos con contribuyentes individuales, a veces los proyectos generan dinero de empresas, individuos, u otras para financiar trabajos en proceso.
+M&aacute;s all&aacute; de los arreglos con contribuyentes individuales, a veces los proyectos generan dinero de empresas, individuos, u otras para financiar trabajos en proceso.
 
 La financiaci&oacute;n organizacional podr&iacute;a ir a favor de pagar a los contribuyentes, cubriendo los costos de correr los proyectos (como los costos de hosting), o investigando nuevas funcionalidades o ideas.
 
@@ -136,16 +131,16 @@ Dependiendo de tu proyecto, puede que seas capaz de cobrar por soporte comercial
 
 Algunos proyectos populares, como [npm](https://github.com/npm/npm) y [Docker](https://github.com/docker/docker), generan capital de riesgo para soportar el crecimiento de su negocio.
 
-### Suscribete a subvenciones
+### Suscr&iacute;bete a subvenciones
 
 Algunas fundaciones de software y compa&ntilde;ias ofrecen subvenciones por trabajo en c&oacute;digo abierto. A veces, las subvenciones puede ser pagadas a individuos sin establecer una entidad legal para el proyecto.
 
 * **[Lee los documentos](https://github.com/rtfd/readthedocs.org)** recibe una subvenci&oacute;n del [Soporte al c&oacute;digo abierto de Mozilla](https://www.mozilla.org/en-US/grants/)
 * **[OpenMRS](https://github.com/openmrs)** fue financiado por [un retiro de Stripe](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** recibio una subvenci&oacute;n de [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* **[Libraries.io](https://github.com/librariesio)** recibi&oacute; una subvenci&oacute;n de [Sloan Foundation](https://sloan.org/programs/digital-technology)
 * La **[fundaci&oacute;n de software de Python](https://www.python.org/psf/grants/)** ofrece subvenciones a trabajos relacionados con Python.
 
-Por más opciones y casos de estudio, @nayafia [escribi&oacute; una gu&iacute;a](https://github.com/nayafia/lemonade-stand) para recibir pagos por trabajos en proyectos de c&oacute;digo abierto. Diferentes tipos de financiaci&oacute;n requieren diferentes tipos de habilidades, entonces considera tus fortalezas para descubrir que opciones funcionan mejor para ti.
+Por m&aacute;s opciones y casos de estudio, @nayafia [escribi&oacute; una gu&iacute;a](https://github.com/nayafia/lemonade-stand) para recibir pagos por trabajos en proyectos de c&oacute;digo abierto. Diferentes tipos de financiaci&oacute;n requieren diferentes tipos de habilidades, entonces considera tus fortalezas para descubrir que opciones funcionan mejor para ti.
 
 ## Creando un caso de apoyo financiero
 
@@ -155,11 +150,11 @@ Sin importar si estas buscando pagar por tu propio tiempo, o invertir/generar en
 
 ### Impacto
 
-¿Porqu&eacute; es &uacute;til este proyecto? ¿Porqu&eacute; nuestros usuarios, o potenciales usuarios, les gusta tanto? ¿Donde se encontrar&aacute; dentro de cinco a&ntilde;os?
+¿Por qu&eacute; es &uacute;til este proyecto? ¿Por qu&eacute; nuestros usuarios, o potenciales usuarios, les gusta tanto? ¿D&oacute;nde se encontrar&aacute; dentro de cinco a&ntilde;os?
 
-### Atracción
+### Atracci&oacute;n
 
-Intenta recolectar evidencia de que tu proyecto importa, sin importar las metricas, anécdotas, o testimonios. ¿Hay alguna compa&ntilde;&iacute;a o alg&uacute;n grupo notorio de personas usando tu proyecto ahora mismo? Si no, ¿Hubo alguna persona prominente que lo aprob&oacute;?
+Intenta recolectar evidencia de que tu proyecto importa, sin importar las m&eacute;tricas, an&eacute;cdotas, o testimonios. ¿Hay alguna compa&ntilde;&iacute;a o alg&uacute;n grupo notorio de personas usando tu proyecto ahora mismo? Si no, ¿Hubo alguna persona prominente que lo aprob&oacute;?
 
 ### Valor para el financiador
 
@@ -167,11 +162,11 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
 
 ### Uso de la financiaci&oacute;n
 
-¿Qu&eacute; exactamente lograr&aacute;s con la financiaci&oacute;n propuesta? Concentrate en hitos de proyectos o imprevistos en vez de los pagos de salario.
+¿Qu&eacute; exactamente lograr&aacute;s con la financiaci&oacute;n propuesta? Conc&eacute;ntrate en hitos de proyectos o imprevistos en vez de los pagos de salario.
 
-### Como recibiras la financiaci&oacute;n.
+### Como recibir&aacute;s la financiaci&oacute;n.
 
-¿El financiador tiene algun requisito de como recibiras el dinero? Por ejemplo, puede que necesites ser un sponsor o tener un sponsor fiscal sin fines de lucro. O tal vez la financiaci&oacute;n debe ser entraga a un contratador individual en vez de a una organizaci&oacute;n. Estos requisitos var&iacute;an entre los financiadores, as&iacute; que asegurate de hacer averiguaciones de antemano.
+¿El financiador tiene algun requisito de como recibir&aacute;s el dinero? Por ejemplo, puede que necesites ser un sponsor o tener un sponsor fiscal sin fines de lucro. O tal vez la financiaci&oacute;n debe ser entraga a un contratador individual en vez de a una organizaci&oacute;n. Estos requisitos var&iacute;an entre los financiadores, as&iacute; que asegurate de hacer averiguaciones de antemano.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
@@ -185,6 +180,6 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
 
 ## Experimenta y no te rindas
 
-Recaudar dinero no es f&aacute;cil, ya sea un proyecto de c&oacute;digo abierto, una organizaci&oacute;n sin fines de lucro, o un emprendimiento de software, y la mayor&iacute;a de los casos requieren que seascreativo. Debes identificar cómo quieres que te paguen, debes investigar y debes ponerte en el lugar de tu financiador, de esta manera podrás construir un caso convicente para que te financien.
+Recaudar dinero no es f&aacute;cil, ya sea un proyecto de c&oacute;digo abierto, una organizaci&oacute;n sin fines de lucro, o un emprendimiento de software, y la mayor&iacute;a de los casos requieren que seas creativo. Debes identificar c&oacute;mo quieres que te paguen, debes investigar y debes ponerte en el lugar de tu financiador, de esta manera podr&aacute;s construir un caso convicente para que te financien.
 
 >

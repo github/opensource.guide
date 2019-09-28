@@ -1,14 +1,18 @@
 .breadcrumb-item {
   display: inline-block;
-  margin-left: -4px;
+  margin-left: -0.35em;
   white-space: nowrap;
   list-style: none;
 
   &::after {
-    padding-right: 0.5em;
-    padding-left: 0.5em;
+    padding-right: $em-spacer-5;
+    padding-left: $em-spacer-5;
     color: $border-gray;
     content: "/";
+  }
+
+  &:first-child {
+    margin-left: 0;
   }
 }
 

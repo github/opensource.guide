@@ -3,10 +3,6 @@ lang: fr
 title: Construire des communautés accueillantes
 description: Construire une communauté qui encourage les gens à utiliser, contribuer et évangéliser votre projet.
 class: building
-toc:
-  mise-en-place-de-votre-projet-pour-le-succ&egrave;s: "Mise en place de votre projet pour le succ&egrave;s"
-  cultiver-votre-communaut&eacute;: "Cultiver votre communaut&eacute;"
-  r&eacute;soudre-les-conflits: "R&eacute;soudre les conflits"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -58,7 +54,7 @@ Encourager les autres contributeurs est un investissement en vous aussi. Lorsque
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Avez-vous déjà assisté à un événement (technique) où vous ne connaissiez personne, mais tout le monde semblait se tenir en groupe et discuter comme de vieux amis? (...) Maintenant, imaginez que vous voulez contribuer à un projet open source, mais vous ne voyez pas pourquoi ou comment cela se passe.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -117,10 +113,10 @@ Tout projet populaire attirera inévitablement des gens qui nuisent à votre com
 Faites de votre mieux pour adopter une politique de tolérance zéro envers ces types de personnes. Si rien n'est fait, les personnes négatives mettront mal à l'aise les autres membres de votre communauté. Ils peuvent même partir.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La vérité est qu'ayant une communauté de soutien est la clé. Je ne serais jamais capable de faire ce travail sans l'aide de mes collègues, des étrangers sympathiques sur Internet, et des canaux IRC bavards. (...) Ne vous contentez pas de moins. Ne vous contentez pas de connards.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -136,7 +132,7 @@ Dans votre fichier CONTRIBUTING, expliquez explicitement aux nouveaux contribute
 
 ![Page des nouveaux contributeurs de Django](/assets/images/building-community/django_new_contributors.png)
 
-Dans votre liste d'issue en attente, étiquetez les bogues qui conviennent à différents types de contributeurs : par exemple, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"good first issue"_, ou _"documentation"_. [Ces étiquettes](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) facilitent l'analyse rapide de vos issues par une personne nouvelle dans votre projet de commencer.
+Dans votre liste d'issue en attente, étiquetez les bogues qui conviennent à différents types de contributeurs : par exemple, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, ou _"documentation"_. [Ces étiquettes](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) facilitent l'analyse rapide de vos issues par une personne nouvelle dans votre projet de commencer.
 
 Enfin, utilisez votre documentation pour que les gens se sentent les bienvenus à chaque étape du processus.
 
@@ -152,7 +148,7 @@ Par exemple, voici comment [Rubinius](https://github.com/rubinius/rubinius/) com
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   Vos leaders auront des opinions différentes, comme devraient le faire toutes les communautés en bonne santé ! Cependant, vous devez prendre des mesures pour vous assurer que la voix la plus forte ne gagne pas toujours en fatiguant les gens, et que des voix moins importantes et minoritaires soient entendues.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -254,7 +250,7 @@ Si une conversation ne va clairement nulle part, il n'y a pas de mesures claires
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guider un fil vers l'utilité sans être arriviste est un art. Cela ne servira pas simplement à exhorter les gens à cesser de perdre leur temps, ou à leur demander de ne pas afficher, à moins qu'ils aient quelque chose de constructif à dire. (...) Au lieu de cela, vous devez suggérer des conditions pour de nouveaux progrès: donner aux gens un itinéraire, un chemin à suivre qui mène aux résultats que vous voulez, mais sans donner l'impression que vous dictez une conduite.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

@@ -6,7 +6,7 @@
     "postinstall": "cd test && npm install"
   },
   "dependencies": {
-    "primer-core": "6.10.3",
-    "primer-marketing": "6.2.5"
+    "primer-core": "7.0.0",
+    "primer-marketing": "7.0.0"
   }
 }

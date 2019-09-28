@@ -3,10 +3,6 @@ lang: zh-cn
 title: 打造受欢迎的社区
 description: 打造人们愿意使用、贡献、并主动宣传的人气社区。
 class: building
-toc:
-  setting-your-project-up-for-success: "建立成功的项目"
-  growing-your-community: "社区生长"
-  resolving-conflicts: "解决冲突"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -30,12 +26,12 @@ related:
 
 从你的文档开始：
 
-* **让大家很容易上手。** [一份友好的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写readme)以及清晰的代码示例将让大家很容易的上手。
-* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写你的贡献指南)以及持续更新issues。
+* **让大家很容易上手。** [一份友好的 README](../starting-a-project/#writing-a-readme)以及清晰的代码示例将让大家很容易的上手。
+* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines)以及持续更新issues。
 
 好的文档能够邀请他人参与你们项目的互动。最终，一些人会开一个issue或者pull request。将这些互动视为机会，将他们转移到漏斗的下方。
 
-* **当一些人选择了你们的项目，请对他们表示感谢！** 仅仅只是一次消极的经历就足以让一些人再也不想回来。
+* **当一些人选择了你们的项目，请对他们表示感谢！** 一次糟糕的体验就可能失去一个用户。
 * **及时回应。** 如果你们一个月都没有回答他们的问题，他们可能早已忘记了你们的项目。
 * **对你以后接受的所有贡献者持开放态度。** 很多贡献者是从一份bug报告或者小的修复开始的。这里有[很多为项目做贡献的方式](../how-to-contribute/#what-it-means-to-contribute)。让大家选择他们喜欢的方式。
 * **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#learning-to-say-no)它不适合项目，如果有必要的话你可以给出相关的文档链接。
@@ -59,7 +55,7 @@ related:
   你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["让开源可持续发展"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["让开源可持续发展"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -118,16 +114,16 @@ related:
 对于这类人，必须采取零容忍的政策。一旦犹豫不决，那么这些消极的人会给社区的其他人带来不愉快的感觉。那时就会出现劣币驱逐良币的现象。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
 
-  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要满足于混蛋。
+  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要容忍混蛋。
 
   <p markdown="1" class="pquote-credit">
-— @karissa, ["如何运营一个 FOSS 项目"](https://karissa.github.io/post/okf-de)
+— @okdistribute, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-对项目的微不足道的问题进行定期辩论会分散别人的注意力，包括你自己，要将精力几种在重要的任务上，新人如果看见这样的情景，他们可能不会加入到项目中来。
+关于项目琐碎方面的定期辩论会分散其他人（包括您）的注意力，使他们无法专注于重要任务。新人可能会看到这些对话而不想参加。
 
 当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](../code-of-conduct/#enforcing-your-code-of-conduct)。你的[行为准则](../code-of-conduct/)是为这些情景准备的建设性指南。
 
@@ -139,7 +135,7 @@ related:
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
+在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://kentcdodds.com/blog/first-timers-only), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
 
 最后，撰写让人赏心悦目的文档，进一步让人感到愉悦和舒服。
 
@@ -155,7 +151,7 @@ related:
   <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
   社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["是什么成就一个好的社区？"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sarahsharp, ["是什么成就一个好的社区？"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -171,7 +167,7 @@ related:
 
 * 如果社区有了一定的规模，那么 **发送一封信或者发表一篇博客** 感谢贡献者们。Rust的[Rust周报](https://this-week-in-rust.org/)和Hoodie的[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)就是两个非常好的范例。
 
-* **给每个贡献者提交的通道。**@felixge发现这样会使大家[越发乐意斟酌他们的补丁](http://felixge.de/2013/03/11/the-pull-request-hack.html)，以及他甚至发现，在他没有工作的一段时间，项目依然有新的维护者进来。
+* **给每个贡献者提交的通道。**@felixge发现这样会使大家[越发乐意斟酌他们的补丁](https://felixge.de/2013/03/11/the-pull-request-hack.html)，以及他甚至发现，在他没有工作的一段时间，项目依然有新的维护者进来。
 
 * 如果项目是托管在GitHub上，那么 **将项目从你们的个人账号转移到一个组织**，以及添加至少一个备份管理员。组织能让与其他人一起工作在同一个项目在变得更加容易。
 
@@ -223,7 +219,7 @@ README [不仅仅是一组指令](../starting-a-project/#writing-a-readme)。它
 
 一些项目用投票的方式做重要决定。虽然看上去是明智的，投票强调的是得到一个"答案"，而不是倾听以及解决每个人的顾虑。
 
-投票会变成政治，社区成员在做感兴趣的事或者表决一个明确的方法时会感到压力。不是每个人都参与了投票，可能在你们的社区中[保持沉默的人占了多数](http://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)，或者用户不知道投票这件事正在发生。
+投票会变成政治，社区成员在做感兴趣的事或者表决一个明确的方法时会感到压力。不是每个人都参与了投票，可能在你们的社区中[保持沉默的人占了多数](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users)，或者用户不知道投票这件事正在发生。
 
 有时候，投票是必要的手段。尽你们所能强调["寻求共识"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)而不是共识本身。
 
@@ -261,7 +257,7 @@ Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情�
   指导一件事朝着正确的方向发展是一门艺术。它对阻止人们浪费时间或者要求他们发表有建设性的看法没有作用。（。。。）反而，你们必须为接下来的进展给出条件：给大家一个路线，跟随一个可以得到你们想要的结果的途径，这样就不像是些无用的口头行为。
 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_打造开源软件_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_打造开源软件_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

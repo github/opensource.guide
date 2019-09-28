@@ -3,13 +3,6 @@ lang: es
 title: C&oacute;mo Contribuir con el C&oacute;digo Abierto
 description: ¿Quieres colaborar con el c&oacute;digo abierto? Una gu&iacute;a para hacer contribuciones al c&oacute;digo abierto, para principiantes y veteranos.
 class: contribute
-toc:
-  para-qu&eacute;-contribuir: "¿Para qu&eacute; contribuir?"
-  qu&eacute;-significa-contribuir: "Qu&eacute; significa contribuir"
-  orient&aacute;ndote-a-un-nuevo-proyecto: "Orient&aacute;ndote a un nuevo proyecto"
-  encontrando-un-proyecto-donde-contribuir: "Encontrando un proyecto donde contribuir"
-  c&oacute;mo-enviar-una-contribuci&oacute;n: "C&oacute;mo enviar una contribuci&oacute;n"
-  qu&eacute;-pasa-luego-de-que-enviaste-una-contribuci&oacute;n: "Qu&eacute; pasa luego de que enviaste una contribuci&oacute;n"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -127,7 +120,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 
 ### ¿Te gusta ayudar a las personas?
 
-* Responde las preguntas acerca del proyecto en, por ejemplo, Stack Overflow ([como este ejemplo Postgres](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) o en reddit
+* Responde las preguntas acerca del proyecto en, por ejemplo, Stack Overflow ([como este ejemplo Postgres](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) o en reddit
 * Responde preguntas a las personas en los problemas abiertos
 * Ayuda a moderar los foros de discusi&oacute;n o canales de conversaci&oacute;n
 
@@ -212,17 +205,16 @@ El c&oacute;digo abierto no es un club exclusivo; est&aacute; hecho de personas 
 
 Puedes recorrer un archivo README y encontrar un v&iacute;nculo roto o un error tipogr&aacute;fico. O tal vez eres un nuevo usuario y te diste cuenta de que algo est&aacute; roto, o hay un problema que crees que realmente deber&iacute;a estar en la documentaci&oacute;n. En lugar de ignorarlo y continuar, o solicitar que &aacute;lguien lo solucione, observa si puedes ayudar lanz&aacute;ndote sobre &eacute;l. ¡De eso se trata el c&oacute;digo abierto!
 
-> [El 28% de las contribuciones casuales](http://www.igor.pro.br/publica/papers/saner2016.pdf) a la documentaci&oacute;n del c&oacute;digo abierto se trata de documentaci&oacute;n, como correcciones tipogr&aacute;ficas, reformateos o redacci&oacute;n de una traducci&oacute;n.
+> [El 28% de las contribuciones casuales](https://www.igor.pro.br/publica/papers/saner2016.pdf) a la documentaci&oacute;n del c&oacute;digo abierto se trata de documentaci&oacute;n, como correcciones tipogr&aacute;ficas, reformateos o redacci&oacute;n de una traducci&oacute;n.
 
 Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte a descubrir nuevos proyectos:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
 ### Una lista de verificaci&oacute;n antes de que contribuyas
@@ -335,7 +327,7 @@ Ahora haz lo mismo para los pull requests del proyecto.
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    ¿Cu&aacute;n recientemente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el v&iacute;nculo "closed" en la p&aacute;gina de pull requests para ver los PRs cerrados.)
+    ¿C&oacute;mo de reciente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el v&iacute;nculo "closed" en la p&aacute;gina de pull requests para ver los PRs cerrados.)
   </label>
 </div>
 
@@ -375,7 +367,7 @@ Un proyecto que es amigable y acogedor indica que ser&aacute; receptivo de nuevo
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan m&aacute;s tarde al hilo. ¿Est&aacute;n resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisi&oacute;n y al mismo tiempo contin&uacute;an siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energ&iacute;a se est&aacute; encaminando a discutir m&aacute;s que en desarrollar.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Produciendo Software de c&oacute;digo abierto_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Produciendo Software de c&oacute;digo abierto_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
@@ -505,7 +497,7 @@ Si no tuviste una respuesta en m&aacute;s de una semana, es justo responder en e
 
 **No contactes a esa persona** de manera privada; recuerda que las comunicaciones p&uacute;blicas son vitales para los proyectos de c&oacute;digo abierto.
 
-Si haces una llamada educada y todav&iacute;a nadie responde, es posible que nadie te responda jam&aacute;s. No es un sentimiento agradable, pero no dejes que de desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, &eacute;sta es una buena raz&oacute;n para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que est&aacute;n comprometidos y responden.
+Si haces una llamada educada y todav&iacute;a nadie responde, es posible que nadie te responda jam&aacute;s. No es un sentimiento agradable, pero no dejes que te desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, &eacute;sta es una buena raz&oacute;n para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que est&aacute;n comprometidos y responden.
 
 ### 🚧 Alguien pide cambios a tu colaboraci&oacute;n.
 
