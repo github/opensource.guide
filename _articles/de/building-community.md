@@ -28,6 +28,7 @@ Beginnen Sie mit der Dokumentation:
 
 * **Helfen Sie beim Einstieg in ihr Projekt.** [Eine freundliche README](../starting-a-project/#eine-readme-schreiben) und anschauliche Codebeispiele erleichtern Allen, die auf Ihr Projekt stoßen, den Einstieg.
 * **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#ihre-beitragsrichtlinien-aufschreiben), und indem Sie die Issues stets aktuell halten.
+* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen* geeignete Issues explizit kenntlich machen (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
 
 [GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 
@@ -123,14 +124,14 @@ Jedes populäre Projekt wird unweigerlich Menschen anziehen, die Ihrer Gemeinsch
 Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu verfolgen. Denn wenn obiges Verhalten unsanktioniert bleibt, werden andere Kontributor\*innen sich genervt fühlen und evtl. sogar Ihr Projekt verlassen.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
 
   Es ist wahrlich wichtig, eine unterstützende Gemeinschaft zu haben. Ohne die Hilfe meiner Kollegen\*innen, freundlicher Fremder aus dem Internet und gesprächiger IRC-Kanäle wäre ich nie in der Lage, diese Arbeit zu tun. (...) Geben Sie sich nicht mit weniger zufrieden. Geben Sie sich nicht mit Arschlöchern zufrieden.
 
   _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
 
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 

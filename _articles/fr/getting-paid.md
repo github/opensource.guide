@@ -95,7 +95,7 @@ Si votre entreprise suit cette voie, il est important de garder les limites entr
 Si vous ne pouvez pas convaincre votre employeur actuel d'accorder la priorité au travail open source, envisagez de trouver un nouvel employeur qui encourage les contributions des employés à l'open source. Cherchez des entreprises qui rendent explicite leur dévouement au travail open source. Par exemple :
 
 * Certaines entreprises, comme [Netflix](https://netflix.github.io/) ou [PayPal](https://paypal.github.io/), ont des sites Web qui soulignent leur implication dans l'open source
-* [Rackspace](https://www.rackspace.com/en-us) a publié sa [politique de contribution open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) pour les employés
+* [Zalando](https://opensource.zalando.com) a publié sa [politique de contribution open source](https://opensource.zalando.com/docs/using/contributing/) pour les employés
 
 Les projets provenant d'une grande entreprise, tels que [Go](https://github.com/golang) ou [React](https://github.com/facebook/react), emploieront probablement des personnes pour travailler sur Open source.
 
