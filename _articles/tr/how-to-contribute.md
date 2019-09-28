@@ -20,7 +20,8 @@ related:
 
 ## Açık kaynağa neden katkıda bulunur?
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar"> \ [Freenode \] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmak projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum! <p markdown="1" class="pquote-credit"> - @errietta, ["Neden açık kaynaklı yazılıma katkıda bulunmayı seviyorum"] (https://www.errietta.me/blog/open-source/) </p></aside>
+<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar"> \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmak projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
+<p markdown="1" class="pquote-credit"> - @errietta, ["Neden açık kaynaklı yazılıma katkıda bulunmayı seviyorum"](https://www.errietta.me/blog/open-source/) </p></aside>
 
 Açık kaynağa katkıda bulunmak, hayal edebileceğiniz herhangi bir beceri hakkında deneyim öğrenmek, öğretmek ve geliştirmek için faydalı bir yol olabilir.
 
