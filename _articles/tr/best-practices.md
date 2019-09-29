@@ -1,8 +1,7 @@
 ---
 lang: tr
 title: Geliştiriciler İçin En İyi Uygulamalar
-description: Belgelendirme işlemlerinden topluluğunuzu güçlendirmeye kadar açık bir
-  kaynak geliştiricisi olarak hayatınızı kolaylaştırın.
+description: Belgelendirme işlemlerinden topluluğunuzu güçlendirmeye kadar açık bir kaynak geliştiricisi olarak hayatınızı kolaylaştırın.
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: Geliştirici olmak ne demektir?
@@ -12,7 +11,7 @@ toc:
   bring-in-the-robots: Robotları getirin
   its-okay-to-hit-pause: Duraklatmak sorun değil
 order: 5
-image: "/assets/images/cards/best-practices.png"
+image: /assets/images/cards/best-practices.png
 related:
   - metrics
   - leadership
@@ -46,7 +45,13 @@ Net ve belgelenmiş bir vizyona sahip olmanız odaklanmanızı sağlar ve başka
 
 Örneğin, @lord, proje vizyonuna sahip olmanın, hangi ihtiyaç için zaman harcamaya ihtiyaç duyulacağını belirlemesine yardımcı olduğunu keşfetti. Yeni bir geliştirici olarak, [Slate](https://github.com/lord/slate) için ilk uzun metraj talebini aldığında, projesinin kapsamına uymadığı için pişmanlık duydu.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar"> Ben onu karmaşık buldum. Tam bir çözüm bulmak için çaba sarf etmedim. Yarım aşamalı bir çözüm yerine, "Şu an bunun için vaktim yok, ancak uzun vadede yapılacaklar listesine ekleyeceğim" demiş olsaydım keşke. <p markdown="1" class="pquote-credit"> - @lord, ["Yeni açık kaynak sağlayıcıları için ipuçları"] (https://lord.io/blog/2014/oss-tips/) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
+  Ben onu karmaşık buldum. Tam bir çözüm bulmak için çaba sarf etmedim. Yarım aşamalı bir çözüm yerine, "Şu an bunun için vaktim yok, ancak uzun vadede yapılacaklar listesine ekleyeceğim" demiş olsaydım keşke.
+  <p markdown="1" class="pquote-credit">
+— @lord, ["Yeni açık kaynak sağlayıcıları için ipuçları"](https://lord.io/blog/2014/oss-tips/)
+  </p>
+</aside>
 
 ### Beklentilerinizi iletin
 
@@ -97,7 +102,13 @@ Sebep ne olursa olsun, projenizin standartlarına uymayan katkıları titizlikle
 
 Kabul etmek istemediğiniz bir katkı alırsanız, ilk tepkiniz bunu görmezden gelmek veya görmemiş gibi yapmak olabilir. Bunu yapmak, diğer kişinin duygularına zarar verebilir ve hatta topluluğunuzdaki diğer potansiyel katılımcıların cesaretini kırabilir.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar"> Büyük ölçekli açık kaynaklı projeler için desteği ele almanın anahtarı sorunları devam ettirmektir. Sorunların taklı kalmasını yaşamaktan kaçının. Bir iOS geliştiricisiyseniz, radar göndermek için ne kadar sinir bozucu olabileceğini bilirsiniz. 2 yıl sonra tekrar duyabilir ve iOS'un en son sürümüyle tekrar denemeniz istenir. <p markdown="1" class="pquote-credit"> - @KrauseFx, ["Açık kaynak topluluklarını ölçeklendirme"] (https://krausefx.com/blog/scaling-open-source-communities) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
+  Büyük ölçekli açık kaynaklı projeler için desteği ele almanın anahtarı sorunları devam ettirmektir. Sorunların taklı kalmasını yaşamaktan kaçının. Bir iOS geliştiricisiyseniz, radar göndermek için ne kadar sinir bozucu olabileceğini bilirsiniz. 2 yıl sonra tekrar duyabilir ve iOS'un en son sürümüyle tekrar denemeniz istenir.
+  <p markdown="1" class="pquote-credit">
+— @KrauseFx, ["Açık kaynak topluluklarını ölçeklendirme"](https://krausefx.com/blog/scaling-open-source-communities)
+  </p>
+</aside>
 
 Kendinizi suçlu hissettiğiniz için veya iyi davranmak istediğiniz için, istenmeyen bir katkıyı açık bırakmayın. Zaman içinde, cevaplanmayan sorunlar ve birleştirme istekleri projeniz üzerinde çalışmayı çok daha stresli ve korkutucu hissettirecektir.
 
@@ -137,7 +148,13 @@ Kurallarınıza uymuyorlarsa, belgelerinizi referans göstererek sorunu hemen ka
 
 Bu yaklaşım ilk başta kaba görünebilir olsa da proaktif olmak her iki taraf için de iyidir. Birisinin kabul etmeyeceğiniz bir talep boşa saatlerce çalışma yapma riskini azaltır. Ve sizin de iş yükünüzü yönetmeyi kolaylaştırır.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar"> İdeal olarak, kendilerine işe başlamadan önce bir CONTRIBUTING.md dosyasında gelecekte nelerin kabul edilip edilmeyeceğine dair daha iyi bir gösterge alabileceklerini açıklayın. <p markdown="1" class="pquote-credit"> - @MikeMcQuaid, ["PR İsteklerini Kırmadan Reddetme"] (https://github.com/blog/2124-kindly-closing-pull-requests) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
+  İdeal olarak, kendilerine işe başlamadan önce bir CONTRIBUTING.md dosyasında gelecekte nelerin kabul edilip edilmeyeceğine dair daha iyi bir gösterge alabileceklerini açıklayın.
+  <p markdown="1" class="pquote-credit">
+— @MikeMcQuaid, ["PR İsteklerini Kırmadan Reddetme"](https://github.com/blog/2124-kindly-closing-pull-requests)
+  </p>
+</aside>
 
 Bazen, hayır dediğinizde, katkıda bulunan kişi kararınızdan dolayı kırılabilir veya sizi eleştirebilir. Davranışları düşmanca olursa, yapıcı bir şekilde işbirliği yapmaya istekli olmazlarsa [durumu etkisiz hale getirmek için adımlar atın](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) ve hatta onları topluluğunuzdan çıkarın.
 
@@ -153,13 +170,21 @@ Her şeyi kendiniz yapmak zorunda değilsiniz. Projenizin topluluğunun olmasın
 
 ### İş yükünü paylaşın
 
-Başkalarının işe girişmesini istiyorsanız, etrafa sorarak başlayın.
+Başkalarının işe girişmesini istiyorsanız, bu dile getirerek başlayın.
 
-Katkıda bulunan yeni katkıda bulunanlar gördüğünüzde, çalışmalarını daha fazla sorumluluk sunarak tanıyın. İsterlerse kendilerinin de yöneticilik rolüne nasıl dönüşebileceğini belgeleyin.
+Yeni katılımcılar kazanmanın bir yolu da [yeni katılanlar için kolay çözülebilecek sorunları belirmektir](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub bu sorunları platform üzerindeki farklı sayfalarda göstererek farkedilebilir olmalarını sağlayacaktır.
 
-Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building-community/#projenizi-paylan) kendi iş yükünüzü azaltır. @lmccart kendi projesinde bunu nasıl yaptığını aşağıdaki gibi anlatıyor, [p5.js](https://github.com/processing/p5.js) .
+Katkıda bulunan arasında yeni olanları gördüğünüzde, çalışmalarını daha fazla sorumluluk sunarak tanıyın. İsterlerse kendilerinin de yöneticilik rolüne nasıl dönüşebileceğini belgeleyin.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar"> "Evet, herhangi biri katılabilir, çok fazla kodlama uzmanlığına sahip olmanız gerekmiyor" derdim. İnsanları [bir etkinliğe] katılmak için kaydettirdik ve o zaman gerçekten merak ediyordum: bu nasıl olacak? Ortada 40 kişi olacak ve her biriyle tek tek ilgilenemeyeceğim... Ama insanlar bir araya geldi ve birlikte çalıştı. Bir kişi öğrenir öğrenmez, yanındakine öğretebildi. <p markdown="1" class="pquote-credit"> - @lmccart, ["Açık Kaynak" Gerçekten Ne Demektir? P5.js Sürümü") (https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition -98c02d354b39) </p></aside>
+Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building-community/#projenizi-paylan) kendi iş yükünüzü azaltır. @lmccart kendi projesinde bunu nasıl yaptığını aşağıdaki gibi anlatıyor, [p5.js](https://github.com/processing/p5.js).
+
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
+  "Evet, herhangi biri katılabilir, çok fazla kodlama uzmanlığına sahip olmanız gerekmiyor" derdim. İnsanları [bir etkinliğe] katılmak için kaydettirdik ve o zaman gerçekten merak ediyordum: bu nasıl olacak? Ortada 40 kişi olacak ve her biriyle tek tek ilgilenemeyeceğim... Ama insanlar bir araya geldi ve birlikte çalıştı. Bir kişi öğrenir öğrenmez, yanındakine öğretebildi.
+  <p markdown="1" class="pquote-credit">
+—  @lmccart, ["Açık Kaynak" Gerçekten Ne Demektir? P5.js Sürümü") (https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition -98c02d354b39)
+  </p>
+</aside>
 
 Projenizden, ara sıra veya kalıcı olarak çıkmanız gerekirse, bir başkasının sizin için üstlenmesini istemek utanılacak bir şey değildir.
 
@@ -175,7 +200,13 @@ Potansiyel bir katılımcının projenizin ne yapması gerektiği konusunda fark
 
 Bir projeyi terk etmek kötü bir şey olmak zorunda değildir. Projeleri kopyalayıp değiştirebilmek, açık kaynak kodlu hakkında en iyi şeylerden biridir. Topluluk üyelerinizi kendi çatalı üzerinde çalışmaya teşvik etmek, projenizin vizyonuyla çelişmeden ihtiyaç duydukları yaratıcı çıkışı sağlayabilir.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar"> % 80 kullanım durumunda kalıyorum. Eğer tek boynuzlu atlardan birisiyseniz, lütfen işimi hazırlayın. Kırılmayacağım! Kamu projelerim neredeyse her zaman en yaygın sorunları çözme amaçlıdır; İşimi yayarak ya da genişleterek daha derine inmeyi kolaylaştırmaya çalışıyorum. <p markdown="1" class="pquote-credit"> - @geerlingguy, ["Neden PR'leri Kapatıyorum"]] (https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
+  % 80 kullanım durumunda kalıyorum. Eğer tek boynuzlu atlardan birisiyseniz, lütfen işimi hazırlayın. Kırılmayacağım! Kamu projelerim neredeyse her zaman en yaygın sorunları çözme amaçlıdır; İşimi yayarak ya da genişleterek daha derine inmeyi kolaylaştırmaya çalışıyorum.
+  <p markdown="1" class="pquote-credit">
+— @geerlingguy, ["Neden PR'leri Kapatıyorum"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+  </p>
+</aside>
 
 Aynı şey, inşa edecek bant genişliğine sahip olmadığınız bir çözümü gerçekten isteyen bir kullanıcı için de geçerlidir. API'ler ve kişiselleştirme kancaları sunmak, kaynağını doğrudan değiştirmek zorunda kalmadan, başkalarının kendi ihtiyaçlarını karşılamasına yardımcı olabilir. @orta, CocoaPod'lar için teşvik edici eklentilerin "en ilginç fikirlerin bazılarına" yol açtığını [gördü](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) :
 
@@ -195,7 +226,13 @@ Tüm gelen katkılarda çalışacak otomatik testler ayarlayın ve testlerinizin
 
 Testler eklerseniz, CONTRIBUTING dosyanızda nasıl çalıştıklarını açıkladığınızdan emin olun.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar"> İnsanların üzerinde çalıştığı tüm kodlar için testlerin gerekli olduğuna inanıyorum. Kod tamamen ve tamamen doğru olsaydı, değişikliğe ihtiyaç duymazdı - değişikliklerin yapılması gerektiğine - yalnızca bir şey yanlış olduğunda, "Çöktüğünde" ya da "Böyle ve böyle bir özellikten yoksun" olduğunda kod yazarız. Yaptığınız değişikliklerden bağımsız olarak, testler yanlışlıkla verebileceğiniz herhangi bir zararı yakalamak için gereklidir. <p markdown="1" class="pquote-credit"> - @edunham, ["Rust'un Topluluk Otomasyonu"] (https://edunham.net/2016/09/27/rust_s_community_automation.html) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
+  İnsanların üzerinde çalıştığı tüm kodlar için testlerin gerekli olduğuna inanıyorum. Kod tamamen ve tamamen doğru olsaydı, değişikliğe ihtiyaç duymazdı - değişikliklerin yapılması gerektiğine - yalnızca bir şey yanlış olduğunda, "Çöktüğünde" ya da "Böyle ve böyle bir özellikten yoksun" olduğunda kod yazarız. Yaptığınız değişikliklerden bağımsız olarak, testler yanlışlıkla verebileceğiniz herhangi bir zararı yakalamak için gereklidir.
+  <p markdown="1" class="pquote-credit">
+— @edunham, ["Rust'un Topluluk Otomasyonu"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+  </p>
+</aside>
 
 ### Temel bakım görevlerini otomatikleştirmek için araçlar kullanın
 
@@ -231,7 +268,13 @@ Söylemeye gerek yok ama, ara verin! Tatil yapmak için yanmış hissedene kadar
 
 Tıpkı diğer tüm işlerde olduğu gibi, düzenli molalar vermek de işinizi yenileyecek, mutlu ve heyecanlı tutacaktır.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar"> WP-CLI’yı geliştirirken, önce kendimi mutlu etmem gerektiğini ve katılımım konusunda net sınırlar koymam gerektiğini keşfettim. Bulduğum en iyi denge, normal çalışma programımın bir parçası olarak haftada 2-5 saat. Bu benim katılımımı bir tutku olarak kalmasını sağlıyor ve iş gibi hissetmekten koruyor. Üzerinde çalıştığım konulara öncelik verdiğim için, en önemli olduğunu düşündüğüm konuda düzenli ilerleme sağlayabiliyorum. <p markdown="1" class="pquote-credit"> - @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"] (https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer- of-a-popüler-açık kaynak proje /) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
+  WP-CLI’yı geliştirirken, önce kendimi mutlu etmem gerektiğini ve katılımım konusunda net sınırlar koymam gerektiğini keşfettim. Bulduğum en iyi denge, normal çalışma programımın bir parçası olarak haftada 2-5 saat. Bu benim katılımımı bir tutku olarak kalmasını sağlıyor ve iş gibi hissetmekten koruyor. Üzerinde çalıştığım konulara öncelik verdiğim için, en önemli olduğunu düşündüğüm konuda düzenli ilerleme sağlayabiliyorum.
+  <p markdown="1" class="pquote-credit">
+— @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer- of-a-popüler-açık kaynak proje/)
+  </p>
+</aside>
 
 Bazen, herkesin size ihtiyacı olduğunu düşündüğünüz zamanlarda, açık kaynaklı işten bir mola vermek zor olabilir. İnsanlar uzaklaştığınız için sizi suçlu hissettirmeye çalışabilir.
 

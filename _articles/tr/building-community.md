@@ -1,8 +1,7 @@
 ---
 lang: tr
 title: Misafirperver Topluluklar Oluşturma
-description: İnsanları projenizi kullanmaya, katkıda bulunmaya ve uyarlamaya teşvik
-  eden bir topluluk oluşturmak.
+description: İnsanları projenizi kullanmaya, katkıda bulunmaya ve uyarlamaya teşvik eden bir topluluk oluşturmak.
 class: building
 toc:
   setting-your-project-up-for-success: Projenizi başarı için hazırlayın
@@ -33,15 +32,22 @@ Belgelerinizle başlayın:
 
 * **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#bir-readme-yazma) ve açık kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
 * [CONTRIBUTING dosyanızı](../starting-a-project/#katkda-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
-
 [GitHub'un 2017 Açık Kaynak Araştırması](http://opensourcesurvey.org/2017/) , eksik veya kafa karıştırıcı belgelerin açık kaynak kullanıcıları için en büyük sorun olduğunu gösterdi. İyi belgeler insanları projenizle etkileşime teşvik eder. Sonunda birisi bir sorun açacak veya istekte bulunacak. Bu etkileşimleri, dönüşüm hunisinden aşağıya taşımak için fırsat olarak kullanın.
+
+[GitHub'ın 2017 Açık Kaynak Anketi](http://opensourcesurvey.org/2017/) gösterdi ki açık kaynak kullanıcıları için en büyük problem yarım ya da karmaşık belgelerdir. İyi bir dökümantasyon insanların projeniz ile etkileşime geçmesini sağlar. Eninde sonunda birisi bir sorun bildirecek veya istekte bulunacaktır. Bu etkileşimleri, dönüşüm hunisinden aşağıya taşımak için fırsatlar olarak kullanın.
 
 * **Yeni birileri projenize geldiğinde, ilgilendikleri için teşekkür edin!** Birinin geri gelmek istememesi için yalnızca bir olumsuz deneyim yeterlidir.
 * **Hızlı cevap verin.** Sorunlarına bir ay boyunca cevap vermezseniz, büyük olasılıkla projenizi çoktan unutmuş olurlar.
 * **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#katkda-bulunmak-ne-demektir) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
 * **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#hayr-demeyi-renme) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar"> Açık kaynağa katkıda bulunmak, bazıları için daha kolaydır. İnsanların içinde bir şeyi doğru anlamadıkları ya da yapmadıkları için uyarılma korkuları vardır. (...) Katkı yapanlara çok düşük teknik yeterlilikle (dokümantasyon, web içeriği işaretlemesi vb.) katkıda bulunacakları bir yol vererek, bu korkuyu büyük ölçüde azaltabilirsiniz. bu endişeler. <p markdown="1" class="pquote-credit"> - @mikeal, ["Modern açık kaynakta katılımcı tabanını büyütmek"] (https://opensource.com/life/16/5/growing-contributor-base-modern-open-source) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
+  Açık kaynağa katkıda bulunmak, bazıları için daha kolaydır. İnsanların içinde bir şeyi doğru anlamadıkları ya da yapmadıkları için uyarılma korkuları vardır. (...) Katkı yapanlara çok düşük teknik yeterlilikle (dokümantasyon, web içeriği işaretlemesi vb.) katkıda bulunacakları bir yol vererek, bu korkuyu büyük ölçüde azaltabilirsiniz. bu endişeler.
+  <p markdown="1" class="pquote-credit">
+— @mikeal, ["Modern açık kaynakta katılımcı tabanını büyütmek"] (https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+  </p>
+</aside>
 
 Açık kaynak katkıda bulunanların çoğunluğu "geçici katkı yapanlar" dır: yani bir projeye yalnızca ara sıra katkıda bulunan insanlar. Sıradan bir katılımcının projenizi hızlandırmak için tam zamanı olmayacağı için işiniz onların katkıda bulunmalarını kolaylaştırmaktır.
 
@@ -49,7 +55,13 @@ Diğer katılımcıları teşvik etmek de kendinize yapılan bir yatırımdır. 
 
 ### Her şeyi belgeleyin
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar"> Hiç kimseyi tanımadığınız (teknoloji) bir etkinliğe katıldınız mı, ama diğerleri gruplarda durup eski arkadaşlar gibi sohbet ettiler mi? (...) Şimdi açık kaynaklı bir projeye katkıda bulunmak istediğinizi hayal edin, ancak bunun neden veya nasıl olduğunu görmüyorsunuz. <p markdown="1" class="pquote-credit"> - @janl, ["Sürdürülebilir Açık Kaynak"] (https://writing.jan.io/2015/11/20/sustainable-open-source.html) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
+  Hiç kimseyi tanımadığınız (teknoloji) bir etkinliğe katıldınız mı, ama diğerleri gruplarda durup eski arkadaşlar gibi sohbet ettiler mi? (...) Şimdi açık kaynaklı bir projeye katkıda bulunmak istediğinizi hayal edin, ancak bunun neden veya nasıl olduğunu görmüyorsunuz.
+  <p markdown="1" class="pquote-credit">
+— @janl, ["Sürdürülebilir Açık Kaynak"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+  </p>
+</aside>
 
 Yeni bir projeye başladığınızda, çalışmanızı özel tutmak doğal olabilir. Ancak, açık kaynaklı projeler, sürecinizi halka açık olarak belgelemeniz durumunda gelişir.
 
@@ -105,7 +117,13 @@ Herhangi bir popüler proje kaçınılmaz olarak topluluğunuza yardım etmek ye
 
 Bu tür insanlara karşı sıfır tolerans politikası benimsemek için elinizden geleni yapın. Denetlenmezse, negatif insanlar topluluğunuzdaki diğer insanları rahatsız eder. Hatta gidebilirler.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar"> Gerçek şu ki, destekleyici bir topluluğa sahip olmak anahtardır. Bu işi asla meslektaşlarımın, arkadaş canlısı internet yabancılarının ve konuşkan IRC kanallarının yardımı olmadan yapamam. (...) Daha azına razı olmayın. Pisliklere razı olma. <p markdown="1" class="pquote-credit"> - @okdistribute, ["Bir FOSS Projesinin Nasıl Çalıştırılacağı"] (https://okdistribute.xyz/post/okf-de) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
+  Gerçek şu ki, destekleyici bir topluluğa sahip olmak anahtardır. Bu işi asla meslektaşlarımın, arkadaş canlısı internet yabancılarının ve konuşkan IRC kanallarının yardımı olmadan yapamam. (...) Daha azına razı olmayın. Pisliklere razı olma.
+  <p markdown="1" class="pquote-credit">
+— @okdistribute, ["Bir FOSS Projesinin Nasıl Çalıştırılacağı"](https://okdistribute.xyz/post/okf-de)
+  </p>
+</aside>
 
 Projenizin önemsiz yönleriyle ilgili düzenli tartışmalar, sizin de dahil olmak üzere diğerlerini önemli görevlere odaklanmaktan alıkoyuyor. Projenize gelen yeni insanlar bu konuşmaları görebilir ve katılmak istemeyebilir.
 
@@ -131,7 +149,13 @@ Projenize ulaşan çoğu insanla asla etkileşime geçmeyeceksiniz. Biri kendini
 
 ### Projenizi paylaşın
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar"> Liderleriniz, bütün sağlıklı toplulukların yapması gerektiği gibi farklı görüşlere sahip olacak! Bununla birlikte, en yüksek sesin insanları her zaman yorarak kazanmamasını ve daha az belirgin ve azınlık seslerinin duyulmasını sağlamak için adımlar atmanız gerekir. <p markdown="1" class="pquote-credit"> - @sarahsharp, ["İyi bir topluluğu ne oluşturur?"]] (https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)</p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  Liderleriniz, bütün sağlıklı toplulukların yapması gerektiği gibi farklı görüşlere sahip olacak! Bununla birlikte, en yüksek sesin insanları her zaman yorarak kazanmamasını ve daha az belirgin ve azınlık seslerinin duyulmasını sağlamak için adımlar atmanız gerekir.
+  <p markdown="1" class="pquote-credit">
+— @sarahsharp, ["İyi bir topluluğu ne oluşturur?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+  </p>
+</aside>
 
 İnsanlar sahiplik hissi duyduklarında projelere katkıda bulunmaktan heyecan duyuyorlar. Bu, projenizin vizyonunu devretmeniz veya istemediğiniz katkıları kabul etmeniz gerektiği anlamına gelmez. Ancak başkalarına ne kadar çok kredi verirseniz, o kadar çok sadık kalırlar.
 
@@ -153,7 +177,13 @@ Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.
 
 Çağrıya her zaman cevap verecek birini bulamayacak olsanız da, bir mesaj bırakmak, diğer kişilerin girme şansını arttırır.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar"> \ [Sizin \ \ 'niz \] Sizin yapmadığınız şeyleri yapma yeteneğine sahip olan ve zevk alan katılımcıları işe almak en iyisidir. Kodlamayı seviyor musunuz, ancak soruları yanıtlamıyor musunuz? Topluluğunuzdaki bireylerin bunu yapmasına izin verin. <p markdown="1" class="pquote-credit"> - @ gr2m, ["Toplulukları Karşılama"] (http://hood.ie/blog/welcoming-communities.html) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
+  \[Sizin'niz\] Sizin yapmadığınız şeyleri yapma yeteneğine sahip olan ve zevk alan katılımcıları işe almak en iyisidir. Kodlamayı seviyor musunuz, ancak soruları yanıtlamıyor musunuz? Topluluğunuzdaki bireylerin bunu yapmasına izin verin.
+  <p markdown="1" class="pquote-credit">
+— @gr2m, ["Toplulukları Karşılama"](http://hood.ie/blog/welcoming-communities.html)
+  </p>
+</aside>
 
 ## Çatışmaları çözme
 
@@ -169,7 +199,13 @@ Topluluğunuz zor bir mesele ile boğuşurken, öfke artırabilir. İnsanlar sin
 
 Bir proje sorumlusu olarak işiniz, bu durumların tırmanmasını önlemektir. Konuyla ilgili güçlü bir fikriniz olsa bile, kavgaya atılmak ve görüşlerinizi itmek yerine, moderatör veya kolaylaştırıcı olarak yer almaya çalışın. Birisi kaba veya tartışmacı davranıyorsa, tartışmaları medeni ve üretken kılmak için [hemen harekete](../building-community/#kt-karakterlere-msamaha-gstermeyin) geçin.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar"> Bir proje sorumlusu olarak, katkıda bulunanlarınıza saygılı olmak çok önemlidir. Sıklıkla söylediklerinizi kişisel olarak alırlar. <p markdown="1" class="pquote-credit"> - @kennethreitz, ["Doğru Olun veya Yolda Olun"] (https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
+  Bir proje sorumlusu olarak, katkıda bulunanlarınıza saygılı olmak çok önemlidir. Sıklıkla söylediklerinizi kişisel olarak alırlar.
+  <p markdown="1" class="pquote-credit">
+— @kennethreitz, ["Doğru Olun veya Yolda Olun"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+  </p>
+</aside>
 
 Diğer insanlar rehberlik için size bakar. İyi bir örnek olun. Hala hayal kırıklığını, mutsuzluğu veya endişeyi ifade edebilirsiniz, ancak bunu sakince yapın.
 
@@ -189,7 +225,13 @@ Bazen oy vermek gerekli bir kilitleyicidir. Ancak, mümkün olduğu kadar, fikir
 
 Bir uzlaşma arayışı sürecinde, topluluk üyeleri yeterince duyulduğunu hissedene kadar önemli endişeleri tartışırlar. Sadece küçük kaygılar devam ederse, topluluk ileriye doğru hareket eder. "Konsensus arayışı", bir topluluğun mükemmel bir cevaba ulaşamayabileceğini kabul eder. Bunun yerine, dinlemeye ve tartışmaya öncelik verir.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar"> Atom sorunları için oylama sisteminin bulunmamasının bir nedeni, Atom ekibinin her durumda bir oylama sistemini takip etmemesidir. Bazen popüler olmasa bile doğru olanı seçmemiz gerekir. (...) Yapabileceğim ve yapabileceğim tek şey ... toplumu dinlemek benim işim. <p markdown="1" class="pquote-credit"> - [Atomun karar alma süreci] 'nde @ lee-dohm (https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
+  Atom sorunları için oylama sisteminin bulunmamasının bir nedeni, Atom ekibinin her durumda bir oylama sistemini takip etmemesidir. Bazen popüler olmasa bile doğru olanı seçmemiz gerekir. (...) Yapabileceğim ve yapabileceğim tek şey ... toplumu dinlemek benim işim.
+  <p markdown="1" class="pquote-credit">
+— @lee-dohm [atomun karar alma süreci'nde](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+  </p>
+</aside>
 
 Aslında bir uzlaşma arama sürecini benimsemeseniz bile, bir proje sorumlusu olarak, insanların dinlediğinizi bilmesi önemlidir. Diğer insanların duyulduklarını hissetmeleri ve endişelerini çözmeyi denemezi görmeleri, hassas durumları dağıtmak için size bir yol verir. Ardından, kelimelerinizi eylemlerle devam ettirin.
 
@@ -209,7 +251,13 @@ Konuşma çözülmeye ulaştıysa, sohbeti yeniden odaklamak için gruba _"Bunda
 
 Bir konuşma açıkça bir yere gitmiyorsa, yapılacak net bir işlem yoksa veya uygun bir işlem yapılmamışsa, sorunu kapatın ve neden kapattığınızı açıklayın.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar"> Bir başlığı, baskı yapmadan sonuca doğru yönlendirmek bir sanattır. İnsanları zamanlarını boşa harcamayı bırakmalarına ya da söyleyecek yapıcı bir şeyleri olmadıkça göndermemelerini istemek için uyarmak işe yaramayacaktır. (...) Bunun yerine, daha fazla ilerleme için şartlar önermek zorundasınız: insanlara bir rota verin, istediğiniz sonuçlara götürecek bir yol verin, ancak davranışınızı dikte eder gibi konuşmadan. <p markdown="1" class="pquote-credit"> - @kfogel, [_Producing OSS_] (https://producingoss.com/en/producingoss.html#common-pitfalls) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
+  Bir başlığı, baskı yapmadan sonuca doğru yönlendirmek bir sanattır. İnsanları zamanlarını boşa harcamayı bırakmalarına ya da söyleyecek yapıcı bir şeyleri olmadıkça göndermemelerini istemek için uyarmak işe yaramayacaktır. (...) Bunun yerine, daha fazla ilerleme için şartlar önermek zorundasınız: insanlara bir rota verin, istediğiniz sonuçlara götürecek bir yol verin, ancak davranışınızı dikte eder gibi konuşmadan.
+  <p markdown="1" class="pquote-credit">
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
+  </p>
+</aside>
 
 ### Savaşlarınızı akıllıca seçin
 
