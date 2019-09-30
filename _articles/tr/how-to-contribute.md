@@ -398,7 +398,7 @@ Hoşunuza giden bir proje buldunuz ve katkıda bulunmaya hazırsınız. En sonun
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Yeni bir katılımcı olarak \] Ben konuyu kapatmak istediğimde hemen soru sormam gerektiğini fark ettim. Kod tabanından dolaştım. Bir zamanlar neler olup bittiğine dair bir şeyler hissettiğimde, daha fazla yön istemiştim. Ve voilà! İhtiyacım olan tüm detayları aldıktan sonra sorunu çözebildim.
   <p markdown="1" class="pquote-credit">
-- @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source- 4d108d540b39 # .pcswr2e78)
+- @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
 </aside>
 
@@ -506,7 +506,7 @@ Katkınızı gönderdikten sonra, aşağıdakilerden biri olacaktır:
 
 ### 😭 Hiç bir cevap almazsınız.
 
-Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkda-bulunmadan-nce-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamayacağı olası.
+Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkıda-bulunmadan-önce-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamayacağı olası.
 
 Bir haftadan uzun bir süredir yanıt alamadıysanız, aynı konuya kibarca yorum yazmak, birinden inceleme istemek doğru olur. Katkınızı gözden geçirecek doğru kişinin adını biliyorsanız, bunları o konuya ekleyebilirsiniz (@).
 

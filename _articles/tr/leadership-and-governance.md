@@ -49,7 +49,7 @@ Bir sorumlu projeniz için kod yazan bir kişi olması gerekmez. Projenizi deği
 
 **"committer" terimi** , belirli bir sorumluluk türü olan commit erişimini diğer katkı şekillerinden ayırmak için kullanılabilir.
 
-Proje rollerinizi dilediğiniz şekilde tanımlayabilmenize rağmen, daha fazla katkı biçimi geliştirmek için [daha geniş tanımları kullanmayı düşünün](../how-to-contribute/#katkda-bulunmak-ne-demektir). Teknik becerilerinden bağımsız olarak, projenize olağanüstü katkı sağlayan kişileri resmen tanımak için liderlik rollerini kullanabilirsiniz.
+Proje rollerinizi dilediğiniz şekilde tanımlayabilmenize rağmen, daha fazla katkı biçimi geliştirmek için [daha geniş tanımları kullanmayı düşünün](../how-to-contribute/#katkıda-bulunmak-ne-demektir). Teknik becerilerinden bağımsız olarak, projenize olağanüstü katkı sağlayan kişileri resmen tanımak için liderlik rollerini kullanabilirsiniz.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
@@ -82,7 +82,7 @@ Liderlik rolleri belirledikten sonra, insanların onlara nasıl ulaşabileceğin
 
 [Vossibility](https://github.com/icecrime/vossibility-stack) gibi araçlar, projeye kimin katkı sağladığını (ya da yapmadığını) izlemenize yardımcı olabilir. Bu bilginin belgelenmesi, topluluk sahiplerinin, kararlarını özel olarak veren bir klik olduğuna inanmalarını engeller.
 
-Son olarak, projeniz GitHub'daysa, projenizi kişisel hesabınızdan bir Kuruluşa taşımayı ve en az bir yedek yönetici eklemeyi düşünün. [GitHub Organizasyonları](https://help.github.com/articles/creating-a-new-organization-account/) izinleri ve çoklu depoları yönetmeyi kolaylaştırır ve projenizin mirasını [ortak mülkiyet](../building-community/#projenizi-paylan) yoluyla korur.
+Son olarak, projeniz GitHub'daysa, projenizi kişisel hesabınızdan bir Kuruluşa taşımayı ve en az bir yedek yönetici eklemeyi düşünün. [GitHub Organizasyonları](https://help.github.com/articles/creating-a-new-organization-account/) izinleri ve çoklu depoları yönetmeyi kolaylaştırır ve projenizin mirasını [ortak mülkiyet](../building-community/#projenizi-paylaşın) yoluyla korur.
 
 ## Ne zaman birine commit izni vermeliyim?
 

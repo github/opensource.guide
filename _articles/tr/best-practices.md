@@ -176,7 +176,7 @@ Yeni katılımcılar kazanmanın bir yolu da [yeni katılanlar için kolay çöz
 
 Katkıda bulunan arasında yeni olanları gördüğünüzde, çalışmalarını daha fazla sorumluluk sunarak tanıyın. İsterlerse kendilerinin de yöneticilik rolüne nasıl dönüşebileceğini belgeleyin.
 
-Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building-community/#projenizi-paylan) kendi iş yükünüzü azaltır. @lmccart kendi projesinde bunu nasıl yaptığını aşağıdaki gibi anlatıyor, [p5.js](https://github.com/processing/p5.js).
+Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building-community/#projenizi-paylaşın) kendi iş yükünüzü azaltır. @lmccart kendi projesinde bunu nasıl yaptığını aşağıdaki gibi anlatıyor, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -272,7 +272,7 @@ Tıpkı diğer tüm işlerde olduğu gibi, düzenli molalar vermek de işinizi y
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   WP-CLI’yı geliştirirken, önce kendimi mutlu etmem gerektiğini ve katılımım konusunda net sınırlar koymam gerektiğini keşfettim. Bulduğum en iyi denge, normal çalışma programımın bir parçası olarak haftada 2-5 saat. Bu benim katılımımı bir tutku olarak kalmasını sağlıyor ve iş gibi hissetmekten koruyor. Üzerinde çalıştığım konulara öncelik verdiğim için, en önemli olduğunu düşündüğüm konuda düzenli ilerleme sağlayabiliyorum.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer- of-a-popüler-açık kaynak proje/)
+— @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
