@@ -218,7 +218,7 @@ Bir README tarayabilir ve bozuk bir link ya da yazım hatası bulabilirsiniz. Ya
 
 > [Gündelik katkıların %28'i](https://www.igor.pro.br/publica/papers/saner2016.pdf) açık kaynağa yeniden biçimlendirme veya bir çeviri yazarken böyle bir yazım hatası düzeltme gibi belgelerdir.
 
-Düzeltebileceğiniz mevcut sorunları arıyorsanız, her açık kaynaklı projenin başlangıçta başlayabileceğiniz başlangıç dostu sorunları vurgulayan bir '/contribute' sayfası vardır. GitHub'taki deponun ana sayfasına gidin ve URL'nin sonuna `/contrib` 'ekleyin (Örneğin [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+Düzeltebileceğiniz mevcut sorunları arıyorsanız, her açık kaynaklı projenin başlangıçta başlayabileceğiniz başlangıç dostu sorunları vurgulayan bir `/contribute` sayfası vardır. GitHub'taki deponun ana sayfasına gidin ve URL'nin sonuna `/contrib` ekleyin (Örneğin [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
 Yeni projeleri keşfetmenize ve katkıda bulunmanıza yardımcı olmak için aşağıdaki kaynaklardan birini de kullanabilirsiniz:
 
