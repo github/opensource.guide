@@ -1,23 +1,16 @@
 ---
 lang: tr
 title: Açık Kaynağın Hukuki Tarafı
-description: Açık kaynağın yasal yönü hakkında hiç merak ettiğiniz her şey ve merak
-  etmediğiniz birkaç şey.
+description: Açık kaynağın yasal yönü hakkında hiç merak ettiğiniz her şey ve merak etmediğiniz birkaç şey.
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: İnsanlar neden açık
-    kaynağın yasal tarafını bu kadar önemsiyorlar?
+  why-do-people-care-so-much-about-the-legal-side-of-open-source: İnsanlar neden açık kaynağın yasal tarafını bu kadar önemsiyorlar?
   are-public-github-projects-open-source: Açık GitHub projeleri açık kaynak mı?
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: Sadece bana TL;DR projemi
-    korumak için neye ihtiyacım olduğuna.
-  which-open-source-license-is-appropriate-for-my-project: Projem için hangi açık
-    kaynak lisansı uygundur?
-  what-if-i-want-to-change-the-license-of-my-project: Projemin lisansını değiştirmek
-    istersem ne olur?
-  does-my-project-need-an-additional-contributor-agreement: Projemin ek bir katkı
-    sözleşmesine ihtiyacı var mı?
-  irketimin-hukuk-ekibinin-neleri-bilmesi-gerekiyor: Şirketimin hukuk ekibinin neleri
-    bilmesi gerekiyor?
+  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: Sadece bana TL;DR projemi korumak için neye ihtiyacım olduğuna.
+  which-open-source-license-is-appropriate-for-my-project: Projem için hangi açık kaynak lisansı uygundur?
+  what-if-i-want-to-change-the-license-of-my-project: Projemin lisansını değiştirmek istersem ne olur?
+  does-my-project-need-an-additional-contributor-agreement: Projemin ek bir katkı sözleşmesine ihtiyacı var mı?
+  irketimin-hukuk-ekibinin-neleri-bilmesi-gerekiyor: Şirketimin hukuk ekibinin neleri bilmesi gerekiyor?
 order: 10
 image: "/assets/images/cards/legal.png"
 related:
@@ -59,7 +52,13 @@ Başkalarının projenizi kullanmasını, dağıtmasını, değiştirmesini veya
 
 GitHub'da yeni bir proje oluşturduğunuzda sizden [bir lisans eklemeniz istenir](https://help.github.com/articles/open-source-licensing/) .
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar"> Standartlaştırılmış bir lisans, yasal eğitim almayanların yazılımla neler yapabileceklerini ve yapamadıklarını tam olarak bilmeleri için bir vekil olarak hizmet eder. Kesinlikle gerekli olmadıkça, ajans kodunun akış aşağı kullanımına engel teşkil edecek özel, değiştirilmiş veya standart olmayan terimlerden kaçının. <p markdown="1" class="pquote-credit"> - @benbalter, ["Bir devlet avukatının açık kaynaklı yazılım lisanslama hakkında bilmesi gereken her şey"] (https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
+  Standartlaştırılmış bir lisans, yasal eğitim almayanların yazılımla neler yapabileceklerini ve yapamadıklarını tam olarak bilmeleri için bir vekil olarak hizmet eder. Kesinlikle gerekli olmadıkça, ajans kodunun akış aşağı kullanımına engel teşkil edecek özel, değiştirilmiş veya standart olmayan terimlerden kaçının.
+  <p markdown="1" class="pquote-credit">
+- @benbalter, ["Bir devlet avukatının açık kaynaklı yazılım lisanslama hakkında bilmesi gereken her şey"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+  </p>
+</aside>
 
 ## Projem için hangi açık kaynak lisansı uygundur?
 
@@ -103,7 +102,13 @@ Ek bir katılımcı sözleşmesi - genellikle Katılımcı Lisans Sözleşmesi (
 
 Ayrıca, bazılarının gereksiz olduğuna, anlaşılmasının zor veya haksız olduğuna inandığı "evraklar" ekleyerek (sözleşme alıcısı katkıda bulunanlardan veya halkın projenin açık kaynak lisansı aracılığıyla yaptığı haklardan daha fazla hak kazandığında), ek bir katılımcı anlaşma dostça görülmeyebilir. Projenin topluluğuna.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar"> Node.js. için CLA'yı kaldırdık. Bunu yapmak, Node.js katılımcısı için giriş engelini azalttı ve böylece katılımcı tabanını genişletti. <p markdown="1" class="pquote-credit"> - @bcantrill, ["Node.js Katkıları Genişletmek"] (https://www.joyent.com/blog/broadening-node-js-contributions) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
+  Node.js. için CLA'yı kaldırdık. Bunu yapmak, Node.js katılımcısı için giriş engelini azalttı ve böylece katılımcı tabanını genişletti.
+  <p markdown="1" class="pquote-credit">
+- @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.joyent.com/blog/broadening-node-js-contributions)
+  </p>
+</aside>
 
 Projeniz için ek bir katılımcı sözleşmesi düşünmek isteyebileceğiniz bazı durumlar şunlardır:
 
@@ -138,12 +143,23 @@ Daha uzun vadede hukuk ekibiniz, şirketin açık kaynaklara katılımından dah
 
 * **Çalışanlar için katkı politikaları:** Çalışanlarınızın açık kaynaklı projelere nasıl katkıda bulunduğunu belirten bir kurumsal politika geliştirmeyi düşünün. Açık bir politika, çalışanlarınız arasındaki karmaşayı azaltacaktır ve işlerinin bir parçası olarak veya boş zamanlarında, şirketin çıkarlarına açık kaynaklı projelere katkıda bulunmalarına yardımcı olacaktır. Buna iyi bir örnek Rackspace'in [Model IP'si ve Açık Kaynak Katkı Politikası'dır](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) .
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar"> Bir yama ile ilgili IP'nin serbest bırakılması, çalışanın bilgi birikimini ve itibarını arttırır. Şirketin bu çalışanın gelişimine yatırım yaptığını ve bir güçlendirme ve özerklik duygusu yarattığını göstermektedir. Tüm bu faydalar ayrıca daha yüksek moral ve daha iyi bir çalışanın kalmasına yol açmaktadır. <p markdown="1" class="pquote-credit"> - @vanl, ["Bir Model IP ve Açık Kaynak Katkı Politikası"] (https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
+  Bir yama ile ilgili IP'nin serbest bırakılması, çalışanın bilgi birikimini ve itibarını arttırır. Şirketin bu çalışanın gelişimine yatırım yaptığını ve bir güçlendirme ve özerklik duygusu yarattığını göstermektedir. Tüm bu faydalar ayrıca daha yüksek moral ve daha iyi bir çalışanın kalmasına yol açmaktadır.
+  <p markdown="1" class="pquote-credit">
+- @vanl, ["Bir Model IP ve Açık Kaynak Katkı Politikası"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+  </p>
+</aside>
 
 * **Neyi yayınlama:** [(Neredeyse) her şey?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Eğer yasal ekibiniz şirketinizin açık kaynaklı stratejisini anlıyor ve yatırım yapıyorsa, çabalarınızı engellemekten ziyade en iyi şekilde yardım edebileceklerdir.
 * **Uyumluluk:** Şirketiniz herhangi bir açık kaynaklı proje yayınlamamış olsa bile, başkalarının açık kaynaklı yazılımını kullanır. [Farkındalık ve süreç](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) baş ağrısını, ürün gecikmelerini ve davaları önleyebilir.
 
-<aside markdown="1" class="pquote">Kuruluşların hem \["izin verilen" hem de "copyleft"\] kategorilerine uyan bir lisans ve uyum stratejisi olmalıdır. Bu, alt bileşenler ve bağımlılıklar dahil, kullanmakta olduğunuz açık kaynaklı yazılım için geçerli olan lisans terimlerinin kaydını tutmakla başlar. <p markdown="1" class="pquote-credit"> - Heather Meeker, ["Açık Kaynak Kodlu Yazılım: Uygunluk Esasları ve En İyi Uygulamalar"] (https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/) </p></aside>
+<aside markdown="1" class="pquote">
+  Kuruluşların hem \["izin verilen" hem de "copyleft"\] kategorilerine uyan bir lisans ve uyum stratejisi olmalıdır. Bu, alt bileşenler ve bağımlılıklar dahil, kullanmakta olduğunuz açık kaynaklı yazılım için geçerli olan lisans terimlerinin kaydını tutmakla başlar.
+  <p markdown="1" class="pquote-credit">
+- Heather Meeker, ["Açık Kaynak Kodlu Yazılım: Uygunluk Esasları ve En İyi Uygulamalar"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+  </p>
+</aside>
 
 * **Patentler:** Şirketiniz, üyelerin büyük açık kaynaklı projeleri kullanmalarını korumak için ortak bir savunma patenti havuzu olan [Açık Buluşma Ağı'na](https://www.openinventionnetwork.com/) katılmak veya başka bir [alternatif patent lisansını](https://www.eff.org/document/hacking-patent-system-2016) keşfetmek isteyebilir.
 * **Yönetişim:** Özellikle bir projeyi [şirket dışındaki](../leadership-and-governance/#projemi-desteklemek-iin-tzel-kiilie-ihtiyacm-var-m) bir {a2}tüzel kişiliğe{/a2} taşımanın ne zaman anlamlı olacağı.

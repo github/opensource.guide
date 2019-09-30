@@ -1,13 +1,11 @@
 ---
 lang: tr
 title: Açık Kaynaklı bir Projeye Başlamak
-description: Açık kaynak dünyası hakkında daha fazla bilgi edinin ve kendi projenizi
-  başlatmaya hazır olun.
+description: Açık kaynak dünyası hakkında daha fazla bilgi edinin ve kendi projenizi başlatmaya hazır olun.
 class: beginners
 toc:
   the-what-and-why-of-open-source: Açık kaynağın nediri ve nedeni
-  should-i-launch-my-own-open-source-project: Kendi açık kaynaklı projemi başlatmalı
-    mıyım?
+  should-i-launch-my-own-open-source-project: Kendi açık kaynaklı projemi başlatmalı mıyım?
   launching-your-own-open-source-project: Kendi açık kaynaklı projenizi başlatmak
   naming-and-branding-your-project: Projenizi isimlendirme ve markalama
   your-pre-launch-checklist: Lansman öncesi kontrol listeniz
@@ -39,7 +37,13 @@ Buna karşılık, kapalı kaynak işlemi bir restorana gidip bir dilim vişneli 
 
 ### İnsanlar neden işlerini açık kaynak olarak sunarlar?
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar"> Açık kaynak kullanmaktan ve işbirliği yapmaktan kazandığım en değerli deneyimlerden biri, aynı problemlerle karşı karşıya kalan diğer geliştiricilerle kurduğum ilişkilerden geliyor. <p markdown="1" class="pquote-credit"> - @kentcdodds, ["Açık Kaynağa Girmek Benim İçin Nasıl Harika Oldu"] (https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
+  Açık kaynak kullanmaktan ve işbirliği yapmaktan kazandığım en değerli deneyimlerden biri, aynı problemlerle karşı karşıya kalan diğer geliştiricilerle kurduğum ilişkilerden geliyor.
+  <p markdown="1" class="pquote-credit">
+- @kentcdodds, ["Açık Kaynağa Girmek Benim İçin Nasıl Harika Oldu"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+  </p>
+</aside>
 
 Bir kişinin veya örgütün bir projeyi açmak istemesinin [birçok nedeni vardır](https://ben.balter.com/2015/11/23/why-open-source/). Bazı örnekler:
 
@@ -77,7 +81,13 @@ Bu sorunun doğru bir cevabı yok. Tek bir proje için birden fazla hedefiniz ve
 
 Tek amacınız çalışmanızı göstermekse, katkı bile istemeyebilirsiniz ve hatta README'de de söyleyebilirsiniz. Öte yandan, katkıda bulunanlar istiyorsanız, açık belgelere yatırım yapacak ve yeni gelenlerin kendilerini rahat hissetmelerini sağlayacaksınız.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar"> Bir noktada kullandığım özel bir UIAlertView yarattım ... ve açık kaynak yapmaya karar verdim. Bu yüzden daha dinamik olacak şekilde değiştirdim ve GitHub'a yükledim. Ayrıca diğer geliştiricilere projelerinde nasıl kullanacaklarını açıklayan ilk belgelerimi yazdım. Muhtemelen hiç kimse onu kullanmamıştı çünkü basit bir projeydi ama katkım konusunda kendimi iyi hissediyordum. <p markdown="1" class="pquote-credit"> - @mavris, ["Kendi Kendine Öğrenen Yazılım Geliştiricileri: Açık Kaynak Neden Bizim İçin Önemli?"] (Https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important- to-us-fe2a3473a576) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
+  Bir noktada kullandığım özel bir UIAlertView yarattım ... ve açık kaynak yapmaya karar verdim. Bu yüzden daha dinamik olacak şekilde değiştirdim ve GitHub'a yükledim. Ayrıca diğer geliştiricilere projelerinde nasıl kullanacaklarını açıklayan ilk belgelerimi yazdım. Muhtemelen hiç kimse onu kullanmamıştı çünkü basit bir projeydi ama katkım konusunda kendimi iyi hissediyordum.
+  <p markdown="1" class="pquote-credit">
+- @mavris, ["Kendi Kendine Öğrenen Yazılım Geliştiricileri: Açık Kaynak Neden Bizim İçin Önemli?"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
+  </p>
+</aside>
 
 Projeniz büyüdükçe, topluluğunuzun yalnızca sizin kodunuzdan daha fazlasına ihtiyacı olabilir. Sorunlara cevap vermek, kodları incelemek ve projenizi geliştirmek, açık kaynaklı bir projedeki tüm önemli görevlerdir.
 
@@ -87,7 +97,13 @@ Kodlama dışı görevler için harcadığınız zaman miktarı projenizin boyut
 
 Terfi, işlemler ve projenin sürdürülmesi için özel bir bütçeye veya personele ihtiyaç duyuyorsanız, bu konuşmaları erkenden başlatın.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar"> Projeyi açmaya başladığınızda, yönetim süreçlerinizin projenizdeki topluluğun katkılarını ve yeteneklerini göz önünde bulundurmasını sağlamak önemlidir. İşletmenizde istihdam edilmeyen katılımcıları, projenin kilit noktalarına dahil etmekten korkmayın - özellikle de sık sık katkıda bulunanlarsa. <p markdown="1" class="pquote-credit"> - @captainsafia, ["Öyleyse bir açık kaynak proje açmak istiyorsun, ha?"] (Https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
+  Projeyi açmaya başladığınızda, yönetim süreçlerinizin projenizdeki topluluğun katkılarını ve yeteneklerini göz önünde bulundurmasını sağlamak önemlidir. İşletmenizde istihdam edilmeyen katılımcıları, projenin kilit noktalarına dahil etmekten korkmayın - özellikle de sık sık katkıda bulunanlarsa.
+  <p markdown="1" class="pquote-credit">
+- @captainsafia, ["Öyleyse bir açık kaynak proje açmak istiyorsun, ha?"](Https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
+  </p>
+</aside>
 
 ### Diğer projelere katkıda bulunmak
 
@@ -139,7 +155,13 @@ README'nizde aşağıdaki soruları cevaplamaya çalışın:
 
 README'nizi, katkıları nasıl ele aldığınız, projenin amaçlarının ne olduğu ve lisanslar ve atıflar hakkında bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkı kabul etmek istemiyorsanız veya projeniz henüz olgun değilse, bunu mutlaka belirtin.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar"> Daha iyi belgeler, daha fazla kullanıcı, daha az destek talebi ve daha fazla katkıda bulunan anlamına gelir. (...) Unutma ki okuyucuların sen değilsin. Tamamen farklı deneyimlerle projeye gelebilecek insanlar var. <p markdown="1" class="pquote-credit"> - @tracymakes, ["Yazdıkların okunuyor (video)" ") (https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
+  Daha iyi belgeler, daha fazla kullanıcı, daha az destek talebi ve daha fazla katkıda bulunan anlamına gelir. (...) Unutma ki okuyucuların sen değilsin. Tamamen farklı deneyimlerle projeye gelebilecek insanlar var.
+  <p markdown="1" class="pquote-credit">
+- @tracymakes, ["Yazdıkların okunuyor (video)")(https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+  </p>
+</aside>
 
 Bazen, insanlar bir README yazmaktan kaçınırlar çünkü proje bitmemiş gibi hissederler veya katkı kabul etmek istemezler. Bunların hepsi yazmak için çok iyi nedenler.
 
@@ -179,7 +201,13 @@ README'nizden CONTRIBUTING dosyanıza bağlantı verin, böylece daha çok insan
 
 ### Davranış kural listesi oluşturmak
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">Hepimiz, muhtemelen bir şeyin neden belli bir şekilde olması gerektiğini açıklamaya çalışan bir bakıcı olarak ya da bir kullanıcı olarak... basit bir soru sormakla ... ... kötüye kullanılan şeyin yaşadığı deneyimlerimiz oldu. (...) Davranış kuralları, ekibinizin yapıcı söylemleri çok ciddiye aldığını gösteren, kolayca referans verilen ve bağlanabilir bir belge haline gelir. <p markdown="1" class="pquote-credit"> - @mlynch, ["Açık Kaynağı Daha Mutlu Bir Yer Yapma"] (https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
+  Hepimiz, muhtemelen bir şeyin neden belli bir şekilde olması gerektiğini açıklamaya çalışan bir bakıcı olarak ya da bir kullanıcı olarak... basit bir soru sormakla ... ... kötüye kullanılan şeyin yaşadığı deneyimlerimiz oldu. (...) Davranış kuralları, ekibinizin yapıcı söylemleri çok ciddiye aldığını gösteren, kolayca referans verilen ve bağlanabilir bir belge haline gelir.
+  <p markdown="1" class="pquote-credit">
+- @mlynch, ["Açık Kaynağı Daha Mutlu Bir Yer Yapma"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
+  </p>
+</aside>
 
 Son olarak, bir davranış kural listesi projenizin katılımcı davranışları için temel kurallar koymanıza yardımcı olur. Bir topluluk veya şirket için açık kaynak kodlu bir proje başlatıyorsanız, bu özellikle değerlidir. Davranış kuralları, sağlıklı ve yapıcı topluluk davranışını kolaylaştırmanıza yardımcı olur ve bu da koruyucu olarak stresinizi azaltacaktır.
 
@@ -224,7 +252,13 @@ Projenizin ömrü boyunca birçok yazı yazacaksınız: README'ler, öğretici b
 
 Resmi bir belge veya geçici bir e-posta olsun, yazma stiliniz projenizin markasının bir parçasıdır. Hedef kitlenize nasıl sesleneceğinizi ve bunun iletmek istediğiniz ton olup olmadığını düşünün.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar"> Posta listesindeki her konuya katılmaya ve örnek davranış göstermeye, insanlara iyi davranmaya, sorunlarını ciddiye almaya ve genel olarak yardımcı olmaya çalışmaya çalıştım. Bir süre sonra, insanlar sadece soru sormakla kalmayıp aynı zamanda yanıtlamada da yardımcı olmak için tarzımı taklit ettiler. <p markdown="1" class="pquote-credit"> - [CouchDB] 'deki @janl (https://github.com/apache/couchdb), ["Sürdürülebilir Açık Kaynak"] (https://writing.jan.io/2015/11/20/sustainable-open-source .html) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
+  Posta listesindeki her konuya katılmaya ve örnek davranış göstermeye, insanlara iyi davranmaya, sorunlarını ciddiye almaya ve genel olarak yardımcı olmaya çalışmaya çalıştım. Bir süre sonra, insanlar sadece soru sormakla kalmayıp aynı zamanda yanıtlamada da yardımcı olmak için tarzımı taklit ettiler.
+  <p markdown="1" class="pquote-credit">
+- [CouchDB](https://github.com/apache/couchdb)'deki @janl, ["Sürdürülebilir Açık Kaynak"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+  </p>
+</aside>
 
 Sıcak, kapsayıcı bir dil kullanmak ("onlar" gibi, tek bir kişiye atıfta bulunsanız bile), projenizin yeni katılımcılar için memnuniyetle karşılanmasında yardımcı olabilir. Okuyucularınızın çoğu anadili İngilizce olmayabilir.
 
@@ -240,39 +274,53 @@ Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol l
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">Projenin açık kaynak lisanslı LICENSE dosyası var</label>
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+    Projenin açık kaynak lisanslı LICENSE dosyası var
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">Proje temel dokümantasyona sahiptir (README, CONTRIBUTING, CODE_OF_CONDUCT)</label>
+  <label for="cbox2" class="overflow-hidden d-block text-normal">
+    Proje temel dokümantasyona sahiptir (README, CONTRIBUTING, CODE_OF_CONDUCT)
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">Adı hatırlamak kolaydır, projenin ne yaptığı hakkında bir fikir verir ve mevcut bir projeyle çelişmez veya ticari markaları ihlal etmez</label>
+  <label for="cbox3" class="overflow-hidden d-block text-normal">
+    Adı hatırlamak kolaydır, projenin ne yaptığı hakkında bir fikir verir ve mevcut bir projeyle çelişmez veya ticari markaları ihlal etmez
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">Sorun listesi, açıkça düzenlenmiş ve etiketlenmiş konularla birlikte güncel</label>
+  <label for="cbox4" class="overflow-hidden d-block text-normal">
+    Sorun listesi, açıkça düzenlenmiş ve etiketlenmiş konularla birlikte güncel
+  </label>
 </div>
 
 **Kod**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">Proje tutarlı kod kuralları ve temiz işlev/yöntem/değişken adlarını kullanıyor</label>
+  <label for="cbox5" class="overflow-hidden d-block text-normal">
+    Proje tutarlı kod kuralları ve temiz işlev/yöntem/değişken adlarını kullanıyor
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">Kod açıkça yorumlanmış, amaçları ve aykırı vakaları belgelemektedir.</label>
+  <label for="cbox6" class="overflow-hidden d-block text-normal">
+    Kod açıkça yorumlanmış, amaçları ve aykırı vakaları belgelemektedir.
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">Revizyon geçmişinde, sorunlarda veya PR isteklerinde (örneğin şifreler veya kamuya açık olmayan diğer bilgiler) hassas bilgi yok</label>
+  <label for="cbox7" class="overflow-hidden d-block text-normal">
+    Revizyon geçmişinde, sorunlarda veya PR isteklerinde (örneğin şifreler veya kamuya açık olmayan diğer bilgiler) hassas bilgi yok
+  </label>
 </div>
 
 **İnsanlar**
@@ -281,29 +329,39 @@ Bireyseniz:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">Hukuk departmanıyla konuştunuz ve/veya şirketinizin IP ve açık kaynaklı politikalarını anladınız (eğer bir yerde çalışansanız).</label>
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+    Hukuk departmanıyla konuştunuz ve/veya şirketinizin IP ve açık kaynaklı politikalarını anladınız (eğer bir yerde çalışansanız).
+  </label>
 </div>
 
 Bir şirket veya kuruluşsanız:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">Hukuk departmanınızla konuştunuz</label>
+  <label for="cbox9" class="overflow-hidden d-block text-normal">
+    Hukuk departmanınızla konuştunuz
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">Projeyi duyurmak ve tanıtmak için bir pazarlama planınız var</label>
+  <label for="cbox10" class="overflow-hidden d-block text-normal">
+    Projeyi duyurmak ve tanıtmak için bir pazarlama planınız var
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">Birisi topluluk etkileşimlerini yönetmeyi taahhüt eder (sorunlara cevap verme, çekme isteklerini gözden geçirme ve birleştirme)</label>
+  <label for="cbox11" class="overflow-hidden d-block text-normal">
+    Birisi topluluk etkileşimlerini yönetmeyi taahhüt eder (sorunlara cevap verme, çekme isteklerini gözden geçirme ve birleştirme)
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">En az iki kişinin projeye yönetici erişimi var</label>
+  <label for="cbox12" class="overflow-hidden d-block text-normal">
+    En az iki kişinin projeye yönetici erişimi var
+  </label>
 </div>
 
 ## Başardın!

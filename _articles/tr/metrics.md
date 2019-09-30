@@ -1,8 +1,7 @@
 ---
 lang: tr
 title: Açık Kaynak Ölçümleri
-description: Açık kaynaklı projenizin başarısını ölçüp izleyerek gelişmesine yardımcı
-  olmak için bilinçli kararlar alın.
+description: Açık kaynaklı projenizin başarısını ölçüp izleyerek gelişmesine yardımcı olmak için bilinçli kararlar alın.
 class: metrics
 toc:
   why-measure-anything: Neden her şeyi ölçmeli?
@@ -103,7 +102,13 @@ Düzenli olarak izlemek isteyebileceğiniz topluluk ölçümleri örnekleri şun
 
 * **Katkı türleri:** Örneğin, yazım hatalarını veya hataları düzeltme veya bir konuda yorum yapma.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar"> Açık kaynak koddan daha fazlasıdır. Başarılı açık kaynaklı projeler, bu değişikliklerle ilgili tartışmalar ile birlikte kod ve dokümantasyon katkılarını içerir. <p markdown="1" class="pquote-credit"> - @arfon, ["Açık Kaynağın Şekli"] (https://github.com/blog/2195-the-shape-of-open-source) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
+  Açık kaynak koddan daha fazlasıdır. Başarılı açık kaynaklı projeler, bu değişikliklerle ilgili tartışmalar ile birlikte kod ve dokümantasyon katkılarını içerir.
+  <p markdown="1" class="pquote-credit">
+- @arfon, ["Açık Kaynağın Şekli"](https://github.com/blog/2195-the-shape-of-open-source)
+  </p>
+</aside>
 
 ## Geliştirici etkinliği
 

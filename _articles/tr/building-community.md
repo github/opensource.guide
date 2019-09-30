@@ -45,7 +45,7 @@ Belgelerinizle başlayın:
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Açık kaynağa katkıda bulunmak, bazıları için daha kolaydır. İnsanların içinde bir şeyi doğru anlamadıkları ya da yapmadıkları için uyarılma korkuları vardır. (...) Katkı yapanlara çok düşük teknik yeterlilikle (dokümantasyon, web içeriği işaretlemesi vb.) katkıda bulunacakları bir yol vererek, bu korkuyu büyük ölçüde azaltabilirsiniz. bu endişeler.
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Modern açık kaynakta katılımcı tabanını büyütmek"] (https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+— @mikeal, ["Modern açık kaynakta katılımcı tabanını büyütmek"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 

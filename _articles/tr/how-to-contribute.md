@@ -1,8 +1,7 @@
 ---
 lang: tr
 title: Açık Kaynağa Nasıl Katkıda Bulunulur
-description: Açık kaynağa katkıda bulunmak ister misiniz? İlk defa çalışanlar ve tecrübeliler
-  için açık kaynak katkıları yapma rehberi.
+description: Açık kaynağa katkıda bulunmak ister misiniz? İlk defa çalışanlar ve tecrübeliler için açık kaynak katkıları yapma rehberi.
 class: contribute
 toc:
   why-contribute-to-open-source: Açık kaynağa neden katkıda bulunur?
@@ -20,8 +19,13 @@ related:
 
 ## Açık kaynağa neden katkıda bulunur?
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar"> \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmak projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
-<p markdown="1" class="pquote-credit"> - @errietta, ["Neden açık kaynaklı yazılıma katkıda bulunmayı seviyorum"](https://www.errietta.me/blog/open-source/) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
+  \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmak projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
+  <p markdown="1" class="pquote-credit">
+- @errietta, ["Neden açık kaynaklı yazılıma katkıda bulunmayı seviyorum"](https://www.errietta.me/blog/open-source/)
+  </p>
+</aside>
 
 Açık kaynağa katkıda bulunmak, hayal edebileceğiniz herhangi bir beceri hakkında deneyim öğrenmek, öğretmek ve geliştirmek için faydalı bir yol olabilir.
 
@@ -65,11 +69,23 @@ Endişe etmeyin! Açık kaynak kodlu bir projeye dahil olmanın her türlü yolu
 
 Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak katkıda bulunmanız gerektiğidir. Aslında, genellikle [en çok ihmal edilen veya göz ardı edilen](https://github.com/blog/2195-the-shape-of-open-source) bir projenin diğer kısımlarıdır. Bu tür katkılara katılmayı teklif ederek projeyi _büyük bir_ iyilik yapacaksınız!
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar"> CocoaPods'taki çalışmamla ünlüydüm, ama çoğu insan CocoaPods aracının kendisinde gerçek bir iş yapmadığımı bilmiyor. Projedeki zamanım çoğunlukla belgeleme ve markalaşma gibi şeyler yapmakla geçiyor. <p markdown="1" class="pquote-credit"> - @orta, ["Varsayılan olarak OSS’ye taşıma"] (https://realm.io/news/orta-therox-moving-to-oss-by-default/) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
+  CocoaPods'taki çalışmamla ünlüydüm, ama çoğu insan CocoaPods aracının kendisinde gerçek bir iş yapmadığımı bilmiyor. Projedeki zamanım çoğunlukla belgeleme ve markalaşma gibi şeyler yapmakla geçiyor.
+  <p markdown="1" class="pquote-credit">
+- @orta, ["Varsayılan olarak OSS’ye taşıma"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+  </p>
+</aside>
 
 Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve diğer topluluk üyeleriyle tanışmak için harika bir yoldur. Bu ilişkileri kurmak size projenin diğer bölümlerinde çalışma fırsatı verecektir.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar"> İlk önce 17 Haziran 2002 tarihinde düzeltme yamamı e-postayla gönderdiğimde Python geliştirme ekibine (aka python-dev) ulaştım. Hızlı bir şekilde açık kaynaklı hatayı yakaladım ve grubun e-posta özetlerini iyileştirmeye başladım. Bir konu hakkında net bilgi almak için bana büyük bir bahane verdiler, ama daha kritik olarak, birinin düzeltilmesi gereken bir şeyi işaret ettiğini fark ettim. <p markdown="1" class="pquote-credit"> - @brettcannon, ["Geliştirme Hikayeleri"] (https://github.com/open-source/stories/brettcannon) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
+  İlk önce 17 Haziran 2002 tarihinde düzeltme yamamı e-postayla gönderdiğimde Python geliştirme ekibine (aka python-dev) ulaştım. Hızlı bir şekilde açık kaynaklı hatayı yakaladım ve grubun e-posta özetlerini iyileştirmeye başladım. Bir konu hakkında net bilgi almak için bana büyük bir bahane verdiler, ama daha kritik olarak, birinin düzeltilmesi gereken bir şeyi işaret ettiğini fark ettim.
+  <p markdown="1" class="pquote-credit">
+- @brettcannon, ["Geliştirme Hikayeleri"](https://github.com/open-source/stories/brettcannon)
+  </p>
+</aside>
 
 ### Etkinlik planlamayı sever misiniz?
 
@@ -92,7 +108,13 @@ Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve d
 * [PyPA'nın katılımcılarının yaptığı gibi](https://github.com/pypa/python-packaging-user-guide/issues/194) proje için dersler yazın
 * Projenin dokümantasyonu için bir çeviri yazın
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar"> Cidden, \[belgeleme\] çok önemlidir. Şu ana kadarki belgeler mükemmeldi ve Babil'in keskin bir özelliği oldu. Bazı özellikleri kesinlikle kullanabilecek bölümler var, hatta burada bir paragrafın eklenmesi bile çok beğeni topluyor. <p markdown="1" class="pquote-credit"> - @kittens, ["Katkıda bulunanlar için çağrı"] (https://github.com/babel/babel/issues/1347) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
+  Cidden, \[belgeleme\] çok önemlidir. Şu ana kadarki belgeler mükemmeldi ve Babil'in keskin bir özelliği oldu. Bazı özellikleri kesinlikle kullanabilecek bölümler var, hatta burada bir paragrafın eklenmesi bile çok beğeni topluyor.
+  <p markdown="1" class="pquote-credit">
+- @kittens, ["Katkıda bulunanlar için çağrı"](https://github.com/babel/babel/issues/1347)
+  </p>
+</aside>
 
 ### Organize etmeyi sever misiniz?
 
@@ -133,7 +155,13 @@ Bir yazılım geliştiricisi olsanız bile, bir dokümantasyon projesi üzerinde
 
 ## Kendinizi yeni bir projeye yönlendirmek
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar"> Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz. <p markdown="1" class="pquote-credit"> - @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunur"] (https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
+  Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz.
+  <p markdown="1" class="pquote-credit">
+- @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+  </p>
+</aside>
 
 Bir yazım hatası düzeltilmesinden daha fazla olarak, açık kaynağa katkıda bulunmak, partideki bir grup yabancıyla konuşmaya çalışmak gibidir. Lamalar hakkında konuşmaya başlarsanız, akvaryum balığı ile ilgili derin bir tartışma yapıyorlarsa, muhtemelen size biraz garip bakarlar.
 
@@ -190,6 +218,8 @@ Bir README tarayabilir ve bozuk bir link ya da yazım hatası bulabilirsiniz. Ya
 
 > [Gündelik katkıların %28'i](https://www.igor.pro.br/publica/papers/saner2016.pdf) açık kaynağa yeniden biçimlendirme veya bir çeviri yazarken böyle bir yazım hatası düzeltme gibi belgelerdir.
 
+Düzeltebileceğiniz mevcut sorunları arıyorsanız, her açık kaynaklı projenin başlangıçta başlayabileceğiniz başlangıç dostu sorunları vurgulayan bir '/contribute' sayfası vardır. GitHub'taki deponun ana sayfasına gidin ve URL'nin sonuna `/contrib` 'ekleyin (Örneğin [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+
 Yeni projeleri keşfetmenize ve katkıda bulunmanıza yardımcı olmak için aşağıdaki kaynaklardan birini de kullanabilirsiniz:
 
 * [GitHub Explore](https://github.com/explore/)
@@ -212,7 +242,9 @@ Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kab
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.</label>
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+  Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.
+  </label>
 </div>
 
 **Proje aktif olarak katkı kabul ediyor**
@@ -221,71 +253,97 @@ Ana daldaki geliştirici faaliyetine bakın. GitHub'da, bu bilgiyi bir kütüpha
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">En son kod değişikliği ne zaman yapılmış?</label>
+  <label for="cbox2" class="overflow-hidden d-block text-normal">
+  En son kod değişikliği ne zaman yapılmış?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">Projenin kaç katılımcısı var?</label>
+  <label for="cbox3" class="overflow-hidden d-block text-normal">
+  Projenin kaç katılımcısı var?
+</label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)</label>
+  <label for="cbox4" class="overflow-hidden d-block text-normal">
+  İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)
+  </label>
 </div>
 
 Ardından, projenin sorun listesine bakın.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">Kaç tane açık sorun var?</label>
+  <label for="cbox5" class="overflow-hidden d-block text-normal">
+  Kaç tane açık sorun var?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?</label>
+  <label for="cbox6" class="overflow-hidden d-block text-normal">
+  Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">Sorunların altında aktif tartışma var mı?</label>
+  <label for="cbox7" class="overflow-hidden d-block text-normal">
+  Sorunların altında aktif tartışma var mı?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">Sorunlar yeni mi?</label>
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+  Sorunlar yeni mi?
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)</label>
+  <label for="cbox9" class="overflow-hidden d-block text-normal">
+  Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)
+  </label>
 </div>
 
 Şimdi aynı projenin PR istekleri için yapın.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">Kaç tane açık PR var?</label>
+  <label for="cbox10" class="overflow-hidden d-block text-normal">
+  Kaç tane açık PR var?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox20" class="overflow-hidden d-block text-normal">Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?</label>
+  <label for="cbox20" class="overflow-hidden d-block text-normal">
+  Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">PR'lar üzerinde aktif tartışma var mı?</label>
+  <label for="cbox11" class="overflow-hidden d-block text-normal">
+    PR'lar üzerinde aktif tartışma var mı?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">PR yeni mi gelmiş?</label>
+  <label for="cbox12" class="overflow-hidden d-block text-normal">
+    PR yeni mi gelmiş?
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox13" class="overflow-hidden d-block text-normal">Yakındazamanda ne kadar PR birleştirilmiş? (GitHub'da kapalı PR'leri görmek için PR sayfasındaki "kapalı" sekmesine tıklayın.)</label>
+  <label for="cbox13" class="overflow-hidden d-block text-normal">
+    Yakındazamanda ne kadar PR birleştirilmiş? (GitHub'da kapalı PR'leri görmek için PR sayfasındaki "kapalı" sekmesine tıklayın.)
+  </label>
 </div>
 
 **Proje katkı bekliyor mu?**
@@ -294,25 +352,39 @@ Arkadaş canlısı ve misafirperver bir proje, yeni katılımcılara açık olac
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox14" class="overflow-hidden d-block text-normal">Geliştiriciler, sorunlardaki sorulara yardımcı oluyor mu?</label>
+  <label for="cbox14" class="overflow-hidden d-block text-normal">
+    Geliştiriciler, sorunlardaki sorulara yardımcı oluyor mu?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox15" class="overflow-hidden d-block text-normal">İnsanlar konularda, tartışma forumunda ve sohbette (örneğin, IRC veya Slack) arkadaş canlısı mı?</label>
+  <label for="cbox15" class="overflow-hidden d-block text-normal">
+    İnsanlar konularda, tartışma forumunda ve sohbette (örneğin, IRC veya Slack) arkadaş canlısı mı?
+  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox16" class="overflow-hidden d-block text-normal">PR'lar inceleniyor mu?</label>
+  <label for="cbox16" class="overflow-hidden d-block text-normal">
+    PR'lar inceleniyor mu?
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox17" class="overflow-hidden d-block text-normal">Geliştiriciler insanlara katkılarından dolayı teşekkür eder mi?</label>
+  <label for="cbox17" class="overflow-hidden d-block text-normal">
+    Geliştiriciler insanlara katkılarından dolayı teşekkür eder mi?
+  </label>
 </div>
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar"> Ne zaman uzun bir tartışma görüyorsanız, çekirdek geliştiricilerin konu başından geç gelen cevaplarını anında kontrol edin. Yapıcı bir şekilde özetliyorlar mı ve kibarlıklarını korurken bir karar vermek için adımlar atıyorlar mı? Çok fazla söz savaşı yaşandığını görüyorsanız, bu genellikle enerjinin gelişme yerine tartışmaya girdiğinin işaretidir. <p markdown="1" class="pquote-credit"> - @kfogel, [_OPS_ üretiliyor] (https://producingoss.com/en/evaluating-oss-projects.html) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
+  Ne zaman uzun bir tartışma görüyorsanız, çekirdek geliştiricilerin konu başından geç gelen cevaplarını anında kontrol edin. Yapıcı bir şekilde özetliyorlar mı ve kibarlıklarını korurken bir karar vermek için adımlar atıyorlar mı? Çok fazla söz savaşı yaşandığını görüyorsanız, bu genellikle enerjinin gelişme yerine tartışmaya girdiğinin işaretidir.
+  <p markdown="1" class="pquote-credit">
+- @kfogel, [_OPS_ üretiliyor](https://producingoss.com/en/evaluating-oss-projects.html)
+  </p>
+</aside>
 
 ## Nasıl katkı gönderilir?
 
@@ -322,38 +394,50 @@ Hoşunuza giden bir proje buldunuz ve katkıda bulunmaya hazırsınız. En sonun
 
 İster bir kerelik katkı yapan, ister bir topluluğa katılmaya çalışıyor biri olun, başkalarıyla çalışmak açık kaynak dünyasında geliştireceğiniz en önemli becerilerden biridir.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar"> \[Yeni bir katılımcı olarak \] Ben konuyu kapatmak istediğimde hemen soru sormam gerektiğini fark ettim. Kod tabanından dolaştım. Bir zamanlar neler olup bittiğine dair bir şeyler hissettiğimde, daha fazla yön istemiştim. Ve voilà! İhtiyacım olan tüm detayları aldıktan sonra sorunu çözebildim. <p markdown="1" class="pquote-credit"> - @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk] (https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source- 4d108d540b39 # .pcswr2e78) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
+  \[Yeni bir katılımcı olarak \] Ben konuyu kapatmak istediğimde hemen soru sormam gerektiğini fark ettim. Kod tabanından dolaştım. Bir zamanlar neler olup bittiğine dair bir şeyler hissettiğimde, daha fazla yön istemiştim. Ve voilà! İhtiyacım olan tüm detayları aldıktan sonra sorunu çözebildim.
+  <p markdown="1" class="pquote-credit">
+- @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source- 4d108d540b39 # .pcswr2e78)
+  </p>
+</aside>
 
 Bir sorunu açmadan veya bir PR oluşturmadan ya da sohbette bir soru sormadan önce, fikirlerinizi etkili bir şekilde ortaya çıkarmak için bu noktaları aklınızda bulundurun.
 
 **Bağlam ver.** Başkalarının sizi anlamada hızlanmalarına yardımcı olun. Bir hatayla karşılaşıyorsanız, ne yapmaya çalıştığınızı ve nasıl tekrarlanabileceğini açıklayın. Yeni bir fikir önerecekseniz, neden projeye faydalı olacağını düşündüğünüzü açıklayın (sadece sizin için değil!).
 
 > 😇 _"Y yaptığımda X olmuyor"_
+>
 > X _"X çalışmıyor! Lütfen düzeltin."_
 
 **Ödevini önceden yap.** Bir şeyleri bilmemek normaldir, ama denediğini göster. Yardım istemeden önce, bir projenin README'sini, belgelerini, sorun listesini (açık veya kapalı), posta listesini kontrol ettiğinizden ve bir cevap için interneti aradığınızdan emin olun. Öğrenmeye çalıştığını gösterdiğin zaman insanlar takdir edeceklerdir.
 
 > X _"X'in nasıl uygulanacağından emin değilim. Yardım belgelerini kontrol ettim ve herhangi bir yerde bulamadım."_
+>
 > 😢 _"X nasıl yapılır?"_
 
 **İstekleri kısa ve öz tutun.** Bir e-posta göndermek gibi, ne kadar basit veya yararlı olursa olsun, her katkı başkasının incelemesini gerektirir. Birçok projenin, yardım için uygunların yapabileceklerinden daha fazla gelen talebi olur. Basit olun. Birinin size yardım edebilme şansını artıracaksınız.
 
 > 😇 _"Bir API öğretici belgesi yazmak istiyorum."_
+>
 > 😢 _"Geçen gün otoyoldan aşağı iniyordum ve benzin için durdum ve sonra aklıma yapmamız gereken bir şey için inanılmaz bir fikir geldi, ama bunu açıklamadan önce sana göstereyim ..."_
 
 **Tüm iletişimi herkese açık tutun.** Her ne kadar cazip olsa da, hassas bilgileri (güvenlik sorunu veya ciddi davranış ihlali gibi) paylaşmanız gerekmedikçe, geliştiricilere özel olarak ulaşmayın. Sohbeti herkese açık tuttuğunuzda, daha fazla kişi alış verişinizden öğrenebilir ve bundan faydalanabilir. Tartışmalar da kendi başlarına katkı olabilir.
 
 > 😇 _(yorum olarak) "@-maintainer Merhabalar! Bu PR'a nasıl devam edelim?"_
+>
 > 😢 _(bir e-posta olarak) "Hey, e-posta yüzünden sizi rahatsız ettiğim için özür dilerim, ancak PR'mi gözden geçirme şansınız olup olmadığını merak ediyordum"_
 
 **Soru sormak sorun değil (ama sabırlı olun!).** Herkes bir noktada projede yeniydi ve deneyimli katılımcıların bile yeni bir projeye bakarken hız kazanmaları gerekiyor. Aynı şekilde, uzun süredir devam edenler bile, projenin her bölümüne aşina değildir. Onlara size göstermelerini istediğiniz sabrı gösterin.
 
 > Error _"Bu hatayı incelediğiniz için teşekkür ederiz. Önerilerinizi takip ettim. İşte sonuç."_
+>
 > Problem _"Neden sorunumu çözemiyorsun? Bu senin projen değil mi?"_
 
 **Topluluk kararlarına saygı gösterin.** Fikirleriniz, toplumun öncelikleri veya vizyonundan farklı olabilir. Geri bildirim sunabilir veya fikrinizi sürdürmemeye karar verebilirler. Tartışmanız ve uzlaşı aramanız gerekirken, bakanlar kararınızla sizden daha uzun yaşamak zorundadır. Yönlerine katılmıyorsanız, daima kendi çatalınızla çalışabilir veya kendi projenizi başlatabilirsiniz.
 
 > Use _"Fikrimi destekleyemediğiniz için hayal kırıklığına uğradım, ancak bunun sadece kullanıcıların küçük bir bölümünü etkilediğini açıkladığınızdan, nedenini anlıyorum. Dinlediğiniz için teşekkürler."_
+>
 > Use _"Neden fikrimi desteklemiyorsun? Bu kabul edilemez!"_
 
 **Her şeyden önce, zarif olun.** Açık kaynak dünyanın her yerinden ortak çalışanlardan oluşur. Bağlam, diller, kültürler, coğrafyalar ve zaman dilimleri arasında kaybolur. Ek olarak, yazılı iletişim bir ton veya ruh halini iletmeyi zorlaştırır. Bu konuşmalardaki iyi niyetleri düşünün. Bir fikre kibarca geri dönmek, daha fazla içerik istemek veya konumunuzu daha da netleştirmek iyi bir şey. İnterneti bulduğunuzdan daha iyi bir yer bırakmaya çalışın.
@@ -372,7 +456,13 @@ Bir sorun açmadan veya talepte bulunmadan önce, belirli bir şey eklemeniz ger
 
 Önemli bir katkı yapmak istiyorsanız, üzerinde çalışmadan önce sormanız gereken bir sorun açın. Projeyi bir süre izlemeniz yararlı olacaktır (GitHub'da, tüm konuşmalar size bildirilmek için ["İzle"yi tıklayabilirsiniz](https://help.github.com/articles/watching-repositories/)) ve kabul edilmeyebilecek işleri yapmadan önce topluluk üyelerini tanıyın.
 
-<aside markdown="1" class="pquote"><img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar"> Aktif olarak kullandığınız tek bir projeyi almak, GitHub'da “izlemek” ve her konuyu ve PR'ı okumaktan <em>çok şey</em> öğreneceksiniz. <p markdown="1" class="pquote-credit"> - @gaearon [birleştirme projelerinde] (https://twitter.com/dan_abramov/status/819555257055322112) </p></aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
+  Aktif olarak kullandığınız tek bir projeyi almak, GitHub'da “izlemek” ve her konuyu ve PR'ı okumaktan <em>çok şey</em> öğreneceksiniz.
+  <p markdown="1" class="pquote-credit">
+- @gaearon [birleştirme projelerinde](https://twitter.com/dan_abramov/status/819555257055322112)
+  </p>
+</aside>
 
 ### Bir istek/sorun açmak
 
