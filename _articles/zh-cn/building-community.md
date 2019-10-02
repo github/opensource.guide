@@ -26,12 +26,12 @@ related:
 
 从你的文档开始：
 
-* **让大家很容易上手。** [一份友好的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写readme)以及清晰的代码示例将让大家很容易的上手。
-* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写你的贡献指南)以及持续更新issues。
+* **让大家很容易上手。** [一份友好的 README](../starting-a-project/#writing-a-readme)以及清晰的代码示例将让大家很容易的上手。
+* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines)以及持续更新issues。
 
 好的文档能够邀请他人参与你们项目的互动。最终，一些人会开一个issue或者pull request。将这些互动视为机会，将他们转移到漏斗的下方。
 
-* **当一些人选择了你们的项目，请对他们表示感谢！** 仅仅只是一次消极的经历就足以让一些人再也不想回来。
+* **当一些人选择了你们的项目，请对他们表示感谢！** 一次糟糕的体验就可能失去一个用户。
 * **及时回应。** 如果你们一个月都没有回答他们的问题，他们可能早已忘记了你们的项目。
 * **对你以后接受的所有贡献者持开放态度。** 很多贡献者是从一份bug报告或者小的修复开始的。这里有[很多为项目做贡献的方式](../how-to-contribute/#what-it-means-to-contribute)。让大家选择他们喜欢的方式。
 * **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#learning-to-say-no)它不适合项目，如果有必要的话你可以给出相关的文档链接。
@@ -114,16 +114,16 @@ related:
 对于这类人，必须采取零容忍的政策。一旦犹豫不决，那么这些消极的人会给社区的其他人带来不愉快的感觉。那时就会出现劣币驱逐良币的现象。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
 
-  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要满足于混蛋。
+  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要容忍混蛋。
 
   <p markdown="1" class="pquote-credit">
-— @karissa, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-对项目的微不足道的问题进行定期辩论会分散别人的注意力，包括你自己，要将精力几种在重要的任务上，新人如果看见这样的情景，他们可能不会加入到项目中来。
+关于项目琐碎方面的定期辩论会分散其他人（包括您）的注意力，使他们无法专注于重要任务。新人可能会看到这些对话而不想参加。
 
 当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](../code-of-conduct/#enforcing-your-code-of-conduct)。你的[行为准则](../code-of-conduct/)是为这些情景准备的建设性指南。
 
