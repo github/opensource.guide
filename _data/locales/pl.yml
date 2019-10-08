@@ -1,31 +1,31 @@
-en:
-  locale_name: English
+pl:
+  locale_name: Polish
   nav:
-    about: About
-    contribute: Contribute
+    about: O nas
+    contribute: Kontrybucje
   index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    lead: Oprogramowanie open source jest tworzone przez ludzi takich jak Ty. Dowiedz się, jak stworzyć i rozwijać swój projekt.
+    opensourcefriday: Dziś piątek! Zainwestuj kilka godzin, tworząc oprogramowanie, które używasz i kochasz
   article:
-    table_of_contents: Table of Contents
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    table_of_contents: Spis treści
+    back_to_all_guides: Powrót do listy poradników
+    related_guides: Powiązane poradniki
   footer:
     contribute:
-      heading: Contribute
-      description: Want to make a suggestion? This content is open source. Help us improve it.
-      button: Contribute
+      heading: Kontrybucje
+      description: Masz sugestie? Te treści są na licencji open source. Pomóż nam je ulepszyć.
+      button: Kontrybucja
     subscribe:
-      heading: Stay in touch
-      description: Be the first to hear about GitHub's latest open source tips and resources.
-      label: Email Address
-      button: Subscribe
+      heading: Bądźmy w kontakcie!
+      description: Dowiedz się jako pierwszy/a o najnowszych poradach i materiałach źródłowych Githuba na temat open source.
+      label: Adres email
+      button: Subskrybuj
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
+      format: "[code] z [love] przez [github] i [friends]"
       # Label for code octicon
       code_label: code
       # Label for love octicon
       love_label: love
       # Label for the contributors link
-      friends_label: friends
+      friends_label: przyjaciół
