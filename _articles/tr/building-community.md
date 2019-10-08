@@ -150,10 +150,10 @@ Projenize ulaşan çoğu insanla asla etkileşime geçmeyeceksiniz. Biri kendini
 ### Projenizi paylaşın
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Liderleriniz, bütün sağlıklı toplulukların yapması gerektiği gibi farklı görüşlere sahip olacak! Bununla birlikte, en yüksek sesin insanları her zaman yorarak kazanmamasını ve daha az belirgin ve azınlık seslerinin duyulmasını sağlamak için adımlar atmanız gerekir.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["İyi bir topluluğu ne oluşturur?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["İyi bir topluluğu ne oluşturur?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
