@@ -1,15 +1,15 @@
 ---
 lang: tr
-title: Geliştiriciler İçin En İyi Uygulamalar
+title: Geliştiriciler İçin Örnek Yöntemler
 description: Belgelendirme işlemlerinden topluluğunuzu güçlendirmeye kadar açık bir kaynak geliştiricisi olarak hayatınızı kolaylaştırın.
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: Geliştirici olmak ne demektir?
-  documenting-your-processes: İşlemlerinizi belgelemek
+  documenting-your-processes: İşlemlerinizi belgeleme
   learning-to-say-no: Hayır demeyi öğrenme
-  leverage-your-community: Topluluğunuzdan yararlanın
-  bring-in-the-robots: Robotları getirin
-  its-okay-to-hit-pause: Duraklatmak sorun değil
+  leverage-your-community: Topluluğunuzdan yararlanma
+  bring-in-the-robots: Robotları kullanın
+  its-okay-to-hit-pause: Duraklatmak sorun değildir
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -19,13 +19,13 @@ related:
 
 ## Geliştirici olmak ne demektir?
 
-Birçok insanın kullandığı açık kaynaklı bir projeyi sürdürürseniz, daha az kodladığınızı ve sorunlara daha fazla cevap verdiğinizi fark etmiş olabilirsiniz.
+Birçok insanın kullandığı açık kaynak bir projeyi sürdürürseniz, daha az kodladığınızı ve sorunlara daha fazla cevap verdiğinizi fark etmiş olabilirsiniz.
 
-Bir projenin ilk aşamalarında, yeni fikirleri deniyor ve istediğinizi temel alan kararlar alıyorsunuz. Projeniz popülerlik arttıkça, kendinizi kullanıcılarınız ve katkıda bulunanlarınızla daha fazla çalışırken bulabilirsiniz.
+Bir projenin ilk aşamalarında, yeni fikirleri deniyor ve istediğinizi temel alan kararlar alıyorsunuz. Projeniz popülerlik arttıkça, kendinizi kullanıcılar ve katkıda bulunanlarla daha fazla çalışırken bulabilirsiniz.
 
-Bir projeyi sürdürmek kod yazmaktan daha fazlasını gerektirir. Bu görevler genellikle beklenmedik bir durum değildir, ancak büyümekte olan bir proje için de aynı derecede önemlidir. Yaşamınızı kolaylaştırmak için, belgeleme işlemlerinden topluluğunuzu güçlendirmeye kadar birkaç yol bulduk.
+Bir projeyi sürdürmek kod yazmaktan daha fazlasını gerektirir. Bu görevler genellikle beklenmedik bir durum değildir, ancak büyümekte olan bir proje için son derece önemlidir. Yaşamınızı kolaylaştırmak için, belgeleme işlemlerinden topluluğunuzu güçlendirmeye kadar birkaç yol yöntemi derledik.
 
-## İşlemlerinizi belgelemek
+## İşlemlerinizi belgeleme
 
 Her şeyi yazı hale getirmek, geliştirici olarak yapabileceğiniz en önemli şeylerden biridir.
 
@@ -39,7 +39,7 @@ Belgelerinizi güncel tutmayı unutmayın. Bunu her zaman yapamıyorsanız, eski
 
 ### Projenizin vizyonunu yazın
 
-Projenizin hedeflerini yazarak başlayın. Bunları README'nize ekleyin veya VISION adlı ayrı bir dosya oluşturun. Bir proje yol haritası gibi, yardımcı olabilecek başka çıktılar varsa, bunları da yayınlayabilirsiniz.
+Projenizin hedeflerini yazarak başlayın. Bunları README'nize ekleyin veya VISION adlı ayrı bir dosya oluşturun. Proje yol haritası gibi, yardımcı olabilecek başka çıktılar varsa, bunları da yayınlayabilirsiniz.
 
 Net ve belgelenmiş bir vizyona sahip olmanız odaklanmanızı sağlar ve başkalarının katkılarından "kapsamın sürünmesini" önlemenize yardımcı olur.
 
@@ -116,9 +116,9 @@ Kabul etmek istemediğinizi bildiğiniz katkıları derhal kapatmak daha iyidir.
 
 İkincisi, katkıları görmezden gelmek, topluluğunuz için olumsuz bir sinyal gönderir. Bir projeye katkıda bulunmak, özellikle birinin ilk defa olması durumunda korkutucu olabilir. Katkısını kabul etmeseniz bile, arkasındaki kişiyi kabul edin ve ilgileri için teşekkür ederiz. Onlar için bu büyük bir iltifat olur!
 
-Bir katkı kabul etmek istemiyorsanız:
+Bir katkıyı kabul etmek istemiyorsanız:
 
-* Katkılarından dolayı **teşekkür edin**.
+* Katkıdan dolayı **teşekkür edin**.
 * **Neden proje kapsamına girmediğini açıklayın** ve mümkünse iyileştirme için net önerilerde bulunun. Nazik ama kararlı olun.
 * Varsa, **ilgili belgelere link verin**. Kabul etmek istemediğiniz şeyler için tekrarlanan istekler fark ederseniz, tekrar etmemek için bunları belgelerinize ekleyin.
 * **İsteği kapatın.**
@@ -129,7 +129,7 @@ Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [ke
 
 Eğer hayır deme düşüncesi sizi korkutuyorsa, yalnız değilsiniz. @Jessfraz'ın [söylediği gibi](https://blog.jessfraz.com/post/the-art-of-closing/):
 
-> Birkaç farklı açık kaynaklı projeden, Mesos, Kubernetes, Chromium'dan gelenlerle konuştum ve hepsi de bir geliştirici olmanın en zor kısımlarından birinin istemediğiniz yamalar için "Hayır" demek olduğu konusunda hemfikirler.
+> Birkaç farklı açık kaynaklı projeden, Mesos, Kubernetes, Chromium'dan gelenlerle konuştum ve hepsi de bir geliştirici olmanın en zor kısımlarından birinin yaptığı istemediğiniz yamalar için "Hayır" demek olduğu konusunda hemfikirler.
 
 Birinin katkısını kabul etmek istemediğiniz için suçluluk hissetmeyin. @Shykes'e [göre](https://twitter.com/solomonstre/status/715277134978113536) ilk açık kaynak kuralı: _"Hayır geçici, evet kalıcıdır."_ Başka birinin coşkusunu empati etmek iyi bir şey olsa da, bir katkıyı reddetmek, arkasındaki kişiyi reddetmekle aynı değildir.
 
@@ -164,7 +164,7 @@ Belki de topluluğunuzdaki birileri düzenli olarak projenizin standartlarını 
 
 Birinin projeniz için hevesli olduğunu ancak biraz el vermek gerektirdiğini görürseniz, sabırlı olun. Her durumda katkılarının neden projenin beklentilerini karşılamadığını açık bir şekilde açıklayın. Onları ellerini kirletmek için _"ilk iş için uygun"_ olarak işaretlenmiş bir konu gibi daha kolay veya daha az belirsiz bir işe yönlendirmeyi deneyin. Vaktiniz varsa, ilk katkılarınla onlara mentor olmayı düşünün veya topluluğunuzda mentor olmaya istekli olabilecek başka birini bulun.
 
-## Topluluğunuzdan yararlanın
+## Topluluğunuzdan yararlanma
 
 Her şeyi kendiniz yapmak zorunda değilsiniz. Projenizin topluluğunun olmasının bir nedeni var! Henüz aktif bir katkıda bulunan topluluğunuz olmasa bile, çok fazla kullanıcınız varsa, onları işe dahil edin.
 
@@ -212,7 +212,7 @@ Aynı şey, inşa edecek bant genişliğine sahip olmadığınız bir çözümü
 
 > Bir proje büyükleştiğinde, bakımcılar yeni kodu nasıl girdikleri konusunda daha muhafazakar hale gelmek neredeyse kaçınılmazdır. Hayır demekte iyisin, ama birçok insanın meşru ihtiyaçları var. Bunun yerine aracınızı bir platforma dönüştürürsünüz.
 
-## Robotları getirin
+## Robotları kullanın
 
 Tıpkı diğer insanların size yardımcı olabileceği görevler olduğu gibi, hiçbir insanın yapmaması gereken görevler de vardır. Robotlar senin arkadaşın. Hayatınızı kolaylaştırmak için bunları kullanın.
 
@@ -256,7 +256,7 @@ Bununla birlikte, standartlarınız çok karmaşıksa, katılımların önüne e
 
 Hangi araçları kullanacağınızdan emin değilseniz, özellikle ekosisteminizdeki diğer popüler projelerin neler yaptığına bakın. Örneğin, katılım süreci diğer Node modülleri için nasıl yapılmış? Benzer araçlar ve yaklaşımlar kullanmak, sürecinizi katkıda bulunması olası insanlar için daha tanıdık yapacaktır.
 
-## Duraklatmak sorun değil
+## Duraklatmak sorun değildir
 
 Açık kaynak çalışması bir zamanlar size heyecan ve mutluluk getirmiştir. Ama şimdi size yük veya sorumluluk hissettirmeye başlamış olabilir.
 
@@ -276,7 +276,7 @@ Tıpkı diğer tüm işlerde olduğu gibi, düzenli molalar vermek de işinizi y
   </p>
 </aside>
 
-Bazen, herkesin size ihtiyacı olduğunu düşündüğünüz zamanlarda, açık kaynaklı işten bir mola vermek zor olabilir. İnsanlar uzaklaştığınız için sizi suçlu hissettirmeye çalışabilir.
+Bazen, herkesin size ihtiyacı olduğunu düşündüğünüz zamanlarda, bir açık kaynak projesine mola vermek zor olabilir. İnsanlar uzaklaştığınız için sizi suçlu hissettirmeye çalışabilir.
 
 Bir projeden uzaktayken kullanıcılarınız ve topluluğunuz için destek bulmak için elinizden geleni yapın. İhtiyacınız olan desteği bulamazsanız, yine de bir ara verin. Uygun olmadığınız zamanı duyurduğunuzdan emin olun, böylece insanlar yanıt verme konusundaki eksikliğinizden dolayı şaşkınlığa uğramazlar.
 
