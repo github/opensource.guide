@@ -506,7 +506,7 @@ Katkınızı gönderdikten sonra, aşağıdakilerden biri olacaktır:
 
 ### 😭 Hiç bir cevap almazsınız.
 
-Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkıda-bulunmadan-önce-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamaması olası.
+Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkıda-bulunmadan-önce-üzerinden-geçilebilcek-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamaması olası.
 
 Bir haftadan uzun bir süredir yanıt alamadıysanız, aynı konuya kibarca yorum yazmak, birinden inceleme istemek doğru olur. Katkınızı gözden geçirecek doğru kişinin adını biliyorsanız, bunları o konuya ekleyebilirsiniz (@).
 
