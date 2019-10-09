@@ -33,7 +33,7 @@ Açık kaynağa katkıda bulunmak, hayal edebileceğiniz herhangi bir konuyu ö�
 
 ### Güvendiğiniz yazılımı geliştirme
 
-Açık kaynak kaynak projelere katkıda bulunanların birçoğu projeyle kullanıcısı olarak tanışırlar. Kullandığınız açık kaynaklı bir yazılımda bir hata bulduğunuzda, kendiniz yamalayıp düzeltip düzeltemeyeceğiniz görmek için kaynağa bakmak isteyebilirsiniz. Bu durumda, yamanın yapılmasına katkıda bulunmak, arkadaşlarınızın (ve bir sonraki sürüme geçtiğinizde kendinizin de) bundan faydalanmasını sağlamak için en iyi yoldur.
+Açık kaynak projelere katkıda bulunanların birçoğu projeyle kullanıcısı olarak tanışırlar. Kullandığınız açık kaynaklı bir yazılımda bir hata bulduğunuzda, kendiniz yamalayıp düzeltip düzeltemeyeceğiniz görmek için kaynağa bakmak isteyebilirsiniz. Bu durumda, yamanın yapılmasına katkıda bulunmak, arkadaşlarınızın (ve bir sonraki sürüme geçtiğinizde kendinizin de) bundan faydalanmasını sağlamak için en iyi yoldur.
 
 ### Mevcut becerileri geliştirme
 
