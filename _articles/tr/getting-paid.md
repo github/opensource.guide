@@ -1,10 +1,10 @@
 ---
 lang: tr
-title: Açık Kaynaklı Çalışmalarda Para Kazanın
+title: Açık Kaynak Çalışmalar İçin Ödeme Alma
 description: Zamanınız veya projeniz için maddi destek alarak açık kaynak çabanızı sürdürün.
 class: getting-paid
 toc:
-  why-some-people-seek-financial-support: Neden bazı insanlar finansal destek ister
+  why-some-people-seek-financial-support: Neden bazı insanlar finansal destek ister?
   funding-your-own-time: Kendi zamanınızı fonlamak
   finding-funding-for-your-project: Projeniz için finansman bulma
   building-a-case-for-financial-support: Finansal destek için bir süreç oluşturma
@@ -15,9 +15,9 @@ related:
   - leadership
 ---
 
-## Neden bazı insanlar finansal destek ister
+## Neden bazı insanlar finansal destek ister?
 
-Açık kaynaklı çalışmaların çoğu gönüllüdür. Örneğin, birileri kullandıkları ve hızlı bir düzeltme sundukları bir projede bir hatayla karşılaşabilir veya boş zamanlarında açık kaynak kodlu bir proje ile uğraşmanın tadını çıkarabilirler.
+Açık kaynaklı çalışmaların çoğu gönüllüdür. Örneğin, birileri kullandıkları bir projede bir hatayla karşılaşabilir hızlı bir düzeltme yapabilirler veya boş zamanlarında açık kaynak kodlu bir proje ile uğraşmanın tadını çıkarabilirler.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
@@ -27,9 +27,9 @@ Açık kaynaklı çalışmaların çoğu gönüllüdür. Örneğin, birileri kul
   </p>
 </aside>
 
-Bir kişiye açık kaynak kodlu çalışmaları için ödeme almak istememesinin birçok nedeni vardır.
+Bir kişinin açık kaynak çalışmaları için ödeme almak istememesinin birçok nedeni vardır.
 
-* Zaten boş zamanlarında açık kaynağa katkıda bulunmalarını sağlayan, **sevdikleri bir tam zamanlı işleri olabilir**.
+* Boş zamanlarında açık kaynağa katkıda bulunmalarını sağlayan, **sevdikleri bir tam zamanlı işleri olabilir**.
 * **Açık kaynaklı projeyi bir hobi olarak düşünmekten hoşlanıyor olabilirler**, işlerinde gösteremedikleri yaratıcılığı gösterebildikleri bir alan olarak da değerlendirebilir ve projeleri üzerinde çalışmak için mali olarak zorunluluk hissetmek istemeyebilirler.
 * İtibar veya portföylerini oluşturmak, yeni bir beceri öğrenmek veya bir topluluğa daha yakın hissetmek gibi **açık kaynağa katkıda bulunarak başka faydalar elde** etmek istiyor olabilirler.
 
@@ -41,7 +41,7 @@ Bir kişiye açık kaynak kodlu çalışmaları için ödeme almak istememesinin
   </p>
 </aside>
 
-Bazıları içinse, özellikle katkıların devamlı olduğu veya önemli bir zaman gerektirdiği zaman, açık kaynağa katkıda bulunmak için ödeme almak, projenin gerektirdiği veya kişisel nedenlerden dolayı kabul edebilecekleri tek yoldur.
+Bazıları içinse, özellikle katkıların devamlı olduğu veya önemli bir zaman gerektirdiğinde, açık kaynağa katkıda bulunmak için ödeme almak, projenin gerektirdiği veya kişisel nedenlerden dolayı kabul edebilecekleri tek yoldur.
 
 Popüler projeleri sürdürmek, ayda birkaç saat yerine haftada 10 veya 20 saat süren önemli bir sorumluluk gerektirebilir.
 
@@ -69,7 +69,7 @@ Finansal destek arıyorsanız, dikkate alınması gereken iki yol vardır. Kendi
 
 Bugün, birçok insana yarı zamanlı veya tam zamanlı olarak açık kaynak üzerinde çalışmak için ödeme yapılır. Vaktiniz için ödeme almanın en yaygın yolu işvereninizle konuşmaktır.
 
-Eğer işvereniniz projeyi gerçekten kullanıyorsa, ancak açık kaynak kodlu bir çalışma için daha kolay, ancak adımınızla yaratıcı olun. Belki işvereniniz projeyi kullanmaz, ancak Python'u kullanır ve popüler bir Python projesini sürdürmek yeni Python geliştiricilerini çekmeye yardımcı olur. Belki işvereninizin genel olarak geliştirici dostu görünmesini sağlar.
+Eğer işvereniniz projeyi gerçekten kullanıyorsa, işiniz daha kolay, ancak adımınızda yaratıcı olun. Belki işvereniniz projeyi kullanmaz, ancak Python'u kullanır ve popüler bir Python projesini sürdürmek yeni Python geliştiricilerini çekmeye yardımcı olur. Belki işvereninizin genel olarak geliştirici dostu görünmesini sağlar.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
@@ -79,13 +79,13 @@ Eğer işvereniniz projeyi gerçekten kullanıyorsa, ancak açık kaynak kodlu b
   </p>
 </aside>
 
-Üzerinde çalışmak istediğiniz bir açık kaynak projeniz yoksa, ancak mevcut iş çıktınızın açık kaynaklı olmasını tercih ederseniz, işvereninizin kendi iç yazılımlarının bir kısmını kaynak açması için bir öneride bulunun.
+Üzerinde çalışmak istediğiniz bir açık kaynak projeniz yoksa, ancak mevcut iş çıktınızın açık kaynaklı olmasını tercih ederseniz, işvereninizin kendi iç yazılımlarının bir kısmının kaynağını açması için bir öneride bulunun.
 
 Birçok şirket markalarını geliştirmek ve kaliteli yetenekler kazanmak için açık kaynaklı programlar geliştiriyor.
 
 Örneğin @hueniverse, [Walmart'ın açık kaynak yatırımını](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html) haklılaştırmak için finansal sebeplerin olduğunu belirtti. Ve @jamesgpearce, Facebook'un açık kaynak programının işe alımda [bir fark](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) yarattığını keşfetti:
 
-> Programlama kültürümüz ve kuruluşumuzun nasıl algılandığı ile yakından ilişkilidir. Çalışanlarımıza “Facebook'taki açık kaynaklı yazılım programının farkında mıydınız?” Diye sorduk. Üçte ikisi "Evet" dedi. Yarısı, programın bizim için çalışma kararlarına olumlu katkıda bulunduğunu söyledi. Bunlar marjinal sayılar değildir ve umarım, devam eden bir eğilimdir.
+> Programlama kültürümüz ve kuruluşumuzun nasıl algılandığı ile yakından ilişkilidir. Çalışanlarımıza “Facebook'taki açık kaynaklı yazılım programının farkında mıydınız?” diye sorduk. Üçte ikisi "Evet" dedi. Yarısı, programın bizim için çalışma kararlarına olumlu katkıda bulunduğunu söyledi. Bunlar marjinal sayılar değildir ve umarım devam eden bir eğilimdir.
 
 Şirketiniz bu rotadan geçerse, topluluk ve kurumsal faaliyet arasındaki sınırları net tutmak önemlidir. Sonuçta, açık kaynak, tüm dünyadaki insanlardan sağlanan katkılarla kendisini sürdürüyor ve bu, herhangi bir şirket veya konumdan daha büyüktür.
 
@@ -120,7 +120,7 @@ Bireysel katılımcılar için yapılan düzenlemelerin ötesinde, bazen projele
 
 Örgütsel finansman, projenin yürütülmesi (barındırma ücreti gibi) maliyetlerini kapsayan veya yeni özelliklere veya fikirlere yatırım yapma gibi mevcut katkı paylarını ödemeye yönelebilir.
 
-Açık kaynağın popülaritesi arttıkça, projeler için fon bulmak hala deneysel olmakla birlikte, birkaç seçenek vardır.
+Açık kaynağın popülaritesi arttıkça, projelere fon bulmak için hala deneysel olmakla birlikte, birkaç seçenek vardır.
 
 ### Topluluk fonlama kampanyaları veya sponsorluklarıyla işiniz için para toplayın
 
