@@ -30,7 +30,7 @@ Topluluğunuzu oluştururken huninin tepesindeki birinin (potansiyel bir kullan�
 
 Belgelerinizle başlayın:
 
-* **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#bir-readme-yazma) ve sade kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
+* **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#readme-yazma) ve sade kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
 * [CONTRIBUTING dosyanızı](../starting-a-project/#katkıda-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
 * **Başlamak için iyi sorunlar**: Yeni katkıda bulunanların başlamasına yardımcı olmak için, [yeni başlayanların çözmesi için yeterince basit olan sorunları açıkça etiketlemeyi](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels) düşünün. GitHub daha sonra bu sorunları platformda çeşitli yerlere taşıyacak, faydalı katkıları artıracak ve kullanıcıların seviyeleri için çok zor olan sorunlarla karşılaştırmayak sürtünmeyi azaltacak.
 
@@ -213,7 +213,7 @@ Sakinleşmek kolay değildir, ancak liderlik göstermek topluluğunuzun sağlı�
 
 ### README'nizi anayasa olarak kabul edin
 
-README'niz [bir talimat dizisinden daha fazlasıdır](../starting-a-project/#bir-readme-yazma). Aynı zamanda amaçlarınız, ürün vizyonunuz ve yol haritanız hakkında konuşabileceğiniz bir yerdir. İnsanlar, belirli bir özelliğin haklarını tartışmaya aşırı odaklanıyorsa, README'nizi tekrar ziyaret etmek ve projenizin vizyonundan bahsetmek yardımcı olabilir. README'nize odaklanmak da konuşmayı kişiselleştirmekten uzaklaştırır, böylece yapıcı bir tartışma yapabilirsiniz.
+README'niz [bir talimat dizisinden daha fazlasıdır](../starting-a-project/#readme-yazma). Aynı zamanda amaçlarınız, ürün vizyonunuz ve yol haritanız hakkında konuşabileceğiniz bir yerdir. İnsanlar, belirli bir özelliğin haklarını tartışmaya aşırı odaklanıyorsa, README'nizi tekrar ziyaret etmek ve projenizin vizyonundan bahsetmek yardımcı olabilir. README'nize odaklanmak da konuşmayı kişiselleştirmekten uzaklaştırır, böylece yapıcı bir tartışma yapabilirsiniz.
 
 ### Hedefe değil, yolculuğa odaklanın
 
