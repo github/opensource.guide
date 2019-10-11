@@ -19,7 +19,7 @@ related:
 
 ## Duyurmak
 
-Başlar başlamaz açık kaynaklı bir projeyi tanıtmanız gerektiğini söyleyen bir kural yok. Açık kaynak kodlu çalışmanın popülerlikle ilgisi olmayan birçok yönü var. Başkalarının açık kaynaklı projenizi bulup kullanmasını ümit etmek yerine, yaptığınız sıkı çalışmayıyı duyurmanız gerekir!
+Başlar başlamaz açık kaynak projenizi tanıtmanız gerektiğini söyleyen bir kural yok. Açık kaynak kodlu çalışmanın popülerlikle ilgisi olmayan birçok yönü vardır. Başkalarının açık kaynak projenizi bulup kullanmasını ümit etmek yerine, yaptığınız sıkı çalışmayı duyurmanız gerekir!
 
 ## Mesajını ilet
 
@@ -27,7 +27,7 @@ Projenizi tanıtmaya yönelik asıl çalışmaya başlamadan önce, ne yaptığ�
 
 Projenizi farklı veya ilginç kılan nedir? Neden yarattınız? Bu soruları kendiniz cevaplamak, projenizin önemini bildirmenize yardımcı olacaktır.
 
-İnsanların kullanıcı olarak dahil olduklarını ve sonunda katkıda bulunduğunu unutmayın, çünkü projeniz onlar için bir problemi çözüyor. Projenizin mesajını ve değerini düşündüğünüzde, bunları _kullanıcıların ve katkıda bulunanların_ ne isteyebileceğini onların gözünden bakmaya çalışarak görmeye çalışın.
+İnsanların kullanıcı olarak dahil olduklarını ve sonunda katkıda bulunduğunu unutmayın, çünkü projeniz onlar için bir problemi çözüyor. Projenizin mesajını ve değerini düşündüğünüzde, _kullanıcıların ve katkıda bulunanların_ ne isteyebileceğini onların gözünden bakmaya çalışarak görmeye çalışın.
 
 Örneğin, @robb, projesi olan [Cartography'nin](https://github.com/robb/Cartography) neden faydalı olduğunu açıkça belirtmek için kod örnekleri kullanır:
 
@@ -38,7 +38,7 @@ Mesajlaşmaya daha derin bir dalış yapmak için Mozilla'nın ["Personas and Pa
 ## İnsanların projenizi bulmasına ve takip etmesine yardımcı olun
 
 <aside markdown="1" class="pquote">
-  İdeal olarak, insanları projenizle ilgili olarak tanıtabileceğiniz ve işaret edebileceğiniz tek bir "anasayfa" URL'sine ihtiyacınız var. Süslü bir şablona, hatta etkili bir alanı adına sahip olmanıza gerek yoktur, ancak projenizin bir odak noktasına ihtiyacı vardır.
+  İdeal olarak, insanları projenizle ilgili olarak tanıtabileceğiniz ve işaret edebileceğiniz tek bir "anasayfa" URL'sine ihtiyacınız var. Süslü bir şablona, hatta etkili bir alan adına sahip olmanıza gerek yoktur, ancak projenizin bir odak noktasına ihtiyacı vardır.
   <p markdown="1" class="pquote-credit">
 - Peter Cooper ve Robert Nyman, ["Kodunuzun Mesajı Nasıl Yayılır"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
@@ -46,7 +46,7 @@ Mesajlaşmaya daha derin bir dalış yapmak için Mozilla'nın ["Personas and Pa
 
 İnsanların projenizi tek bir alana işaret ederek bulup hatırlamalarına yardımcı olun.
 
-**Çalışmanızı tanıtmak için açık bir şekilde ele alın.** Bir Twitter tanıtıcısı, GitHub URL'si veya IRC kanalı, insanları projenize yönlendirmenin kolay bir yoludur. Bu iletişim noktaları aynı zamanda projenizin büyüyen topluluğuna toplanacak bir yer sağlar.
+**Çalışmanızı tanıtma işini açık bir şekilde ele alın.** Bir Twitter hesabı, GitHub URL'si veya IRC kanalı, insanları projenize yönlendirmenin kolay bir yoludur. Bu iletişim noktaları aynı zamanda projenizin büyüyen topluluğuna toplanacak bir yer sağlar.
 
 Henüz projeniz için iletişim noktaları kurmak istemiyorsanız, yaptığınız her şeyde kendi Twitter veya GitHub hesabınızı tanıtın. Twitter veya GitHub hesabınızı tanıtmak, insanların sizinle nasıl iletişim kurabileceklerini veya işlerinizi takip etmelerini sağlayacaktır. Bir buluşma veya etkinlikte konuşuyorsanız, iletişim bilgilerinizin biyo veya slaytlarınıza eklendiğinden emin olun.
 

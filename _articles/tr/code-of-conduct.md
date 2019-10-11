@@ -30,8 +30,8 @@ Mümkün olduğunca en erken zamanda bir davranış kural listesi oluşturmaya �
 
 Beklentilerinizi iletmenin yanı sıra, bir davranış kural listesi aşağıdakileri de açıklar:
 
-* Davranış kuralları nerede yürürlüğe girerse _(sadece sorunlar ve talepler üzerine mi yoksa toplantılar gibi topluluk etkinliklerinde mi?)_
-* Davranış kuralları kimin için geçerlidir _(topluluk üyeleri ve bakıcıları, peki ya sponsorlar?)_
+* Davranış kuralları nerede yürürlüğe girer _(sadece sorunlar ve talepler üzerine mi yoksa toplantılar gibi topluluk etkinliklerinde mi?)_?
+* Davranış kuralları kimin için geçerlidir _(topluluk üyeleri ve bakıcıları, peki ya sponsorlar?)_?
 * Birisi davranış kurallarını ihlal ederse ne olur?
 * İhlaller nasıl rapor edilebilir?
 
