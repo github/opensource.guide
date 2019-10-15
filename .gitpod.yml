@@ -1,0 +1,7 @@
+tasks:
+  - command: gp await-port 4000 && sleep 3 && gp preview $(gp url 4000)
+  - init: script/bootstrap
+    command: script/server
+ports:
+  - port: 4000
+    onOpen: ignore

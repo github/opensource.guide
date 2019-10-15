@@ -59,6 +59,10 @@ Once you have that set up, run:
 
 …and open http://localhost:4000 in your web browser.
 
+Alternatively, You can also use [gitpod](https://gitpod.io), with a single click it will launch a ready to code workspace and it will automatically install the dependencies + start the server up so that you can start hacking around straight away without wasting any precious time on the setup.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/github/opensource.guide)
+
 ## Community
 
 Discussions about the Open Source Guides take place on this repository's [Issues](https://github.com/github/opensource.guide/issues) and [Pull Requests](https://github.com/github/opensource.guide/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](http://eepurl.com/cecpnT) for regular updates.
