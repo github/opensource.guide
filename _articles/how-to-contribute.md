@@ -231,6 +231,7 @@ You can also use one of the following resources to help you discover and contrib
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://www.sourcesort.com/)
+* [Open Source Galaxy](https://www.opensourcegalaxy.com)
 
 ### A checklist before you contribute
 
