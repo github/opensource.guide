@@ -1,8 +1,15 @@
 ---
-lang: hu
+lang: en
 title: Best Practices for Maintainers
 description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
+toc:
+  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
+  documenting-your-processes: "Documenting your processes"
+  learning-to-say-no: "Learning to say no"
+  leverage-your-community: "Leverage your community"
+  bring-in-the-robots: "Bring in the robots"
+  its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -165,6 +172,8 @@ You don't have to do everything yourself. Your project's community exists for a 
 
 If you're looking for others to pitch in, start by asking around.
 
+One way to gain new contributors is to explicitly [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing their visibility.
+
 When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
 
 Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
@@ -234,6 +243,8 @@ There are a [variety of tools available](https://github.com/showcases/tools-for-
 * [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
 * [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
 * [Danger](https://github.com/danger/danger) helps automate code review
+* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
 
 For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
 
