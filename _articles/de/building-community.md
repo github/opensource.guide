@@ -28,6 +28,7 @@ Beginnen Sie mit der Dokumentation:
 
 * **Helfen Sie beim Einstieg in ihr Projekt.** [Eine freundliche README](../starting-a-project/#eine-readme-schreiben) und anschauliche Codebeispiele erleichtern Allen, die auf Ihr Projekt stoßen, den Einstieg.
 * **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#ihre-beitragsrichtlinien-aufschreiben), und indem Sie die Issues stets aktuell halten.
+* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen* geeignete Issues explizit kenntlich machen (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
 
 [GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 
@@ -161,14 +162,14 @@ Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kon
 ### Teilen Sie die Eigentümerschaft an Ihrem Projekt
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
 
   Ihre Projektverantwortlichen werden unterschiedliche Meinungen haben, wie es in allen gesunden Gemeinschaften üblich sein sollte. Sie müssen jedoch dafür sorgen, dass nicht immer die lauteste Stimme gewinnt, weil sie andere Leute ermüdet, und dass weniger prominente Stimmen und Minderheitsmeinungen ebenfalls zu hören sind.
 
   _Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard._
 
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](http://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
