@@ -22,14 +22,14 @@ Veriler akıllıca kullanıldığında, açık kaynaklı bir geliştirici olarak
 
 Daha fazla bilgi ile şunları yapabilirsiniz:
 
-* Kullanıcıların yeni bir özelliğe verdiği tepkiyi anlama
+* Kullanıcıların yeni bir özelliğe nasıl yanıt verdiğini anlama
 * Yeni kullanıcıların nereden geldiğini bulma
 * Bir aykırı kullanım senaryosunu veya işlevselliğini belirleme ve destekleyip desteklememeye karar verme
 * Projenizin popülaritesini ölçme
 * Projenizin nasıl kullanıldığını anlama
 * Sponsorluklar ve bağışlar yoluyla para toplama
 
-Örneğin, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) ekibi Google Analytics"in çalışmalarına öncelik vermelerine yardımcı olduğunu keşfediyor:
+Örneğin, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) ekibi Google Analytics"in çalışmalarına öncelik vermelerine yardımcı olduğunu buluyor:
 
 > Homebrew ücretsiz olarak verilmektedir ve tamamen boş zamanlarında gönüllüler tarafından geliştirilmektedir. Sonuç olarak, gelecekteki özellikleri en iyi nasıl tasarlayacağınıza ve mevcut çalışmaya öncelik vereceğimize karar vermek için Homebrew kullanıcılarının detaylı kullanıcı çalışmalarını yapacak kaynaklara sahip değiliz. Anonim toplam kullanıcı analitiği, insanların Homebrew'i nasıl, nerede ve ne zaman kullandıklarına dayanarak düzeltmeleri ve özellikleri öncelik sırasına koymamızı sağlar.
 
@@ -43,7 +43,7 @@ Herhangi biriniz projenizi kullanmadan veya katkıda bulunmadan önce, onun var 
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü ve nereden geldikleri [görüntüleyebilirsiniz](https://help.github.com/articles/about-repository-graphs/#traffic). Projenizin sayfasından "Insights" menüsünü, ardından "Traffic" alt menüsünü tıklayın. Bu sayfada şunları görebilirsiniz:
+Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü ve nereden geldikleri [görüntüleyebilirsiniz](https://help.github.com/articles/about-repository-graphs/#traffic). Projenizin sayfasından "Trendler" menüsünü, ardından "Trafik" alt menüsünü tıklayın. Bu sayfada şunları görebilirsiniz:
 
 * **Toplam sayfa görüntüleme:** Projenizin kaç kez görüntülendiğini gösterir
 
@@ -65,7 +65,7 @@ Projenizi dağıtmak için npm veya RubyGems.org gibi bir paket yöneticisi kull
 
 Her paket yöneticisi "indirme" nin biraz farklı bir tanımını olabilir ve indirme işlemleri kurulum veya kullanım ile mutlaka ilişkili değildir, ancak karşılaştırma için bazı temel bilgiler sağlar. Birçok popüler paket yöneticisinde kullanım istatistiklerini izlemek için [Libraries.io](https://libraries.io/) servisini kullanmayı deneyin.
 
-Projeniz GitHub'daysa, tekrar "Trafik" sayfasına gidin. [Klon grafiğini](https://github.com/blog/1873-clone-graphs), projenizin belirli bir günde kaç kez klonlandığını, toplam klonların ve benzersiz klonların karşılaştırmlı hallerini görmek için kullanabilirsiniz.
+Projeniz GitHub'daysa, tekrar "Trafik" sayfasına gidin. [Klon grafiğini](https://github.com/blog/1873-clone-graphs) , projenizin belirli bir günde kaç kez klonlandığını, toplam klonların ve benzersiz klonların karşılaştırmlı hallerini görmek için kullanabilirsiniz.
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
@@ -74,7 +74,7 @@ Kullanım, projenizi keşfeden kişi sayısına kıyasla düşükse, göz önün
 * Projeniz kitlenizi başarıyla dönüştüremiyor ya
 * Yanlış kitleyi çekiyorsun
 
-Örneğin, projeniz Hacker News'in ön sayfasına girerse, muhtemelen keşifte (trafik) bir artış göreceksiniz, ancak Hacker News'deki herkese ulaştığınız için daha düşük bir dönüşüm oranı göreceksiniz. Ancak, Ruby projeniz bir Ruby konferansında tanıtılıyorsa, hedef kitleden yüksek bir dönüşüm oranı görmeniz daha olasıdır.
+Örneğin, projeniz Hacker News"in ön sayfasına girerse, muhtemelen keşifte (trafik) bir artış göreceksiniz, ancak Hacker News"deki herkese ulaştığınız için daha düşük bir dönüşüm oranı göreceksiniz. Ancak, Ruby projeniz bir Ruby konferansında tanıtılıyorsa, hedef kitleden yüksek bir dönüşüm oranı görmeniz daha olasıdır.
 
 Kitlenizin nereden geldiğini anlamaya çalışın ve bu iki sorunun hangisiyle karşılaştığınızı anlamak için proje sayfanızdan geri bildirim isteyin.
 
@@ -96,9 +96,9 @@ Düzenli olarak izlemek isteyebileceğiniz topluluk ölçümleri örnekleri şun
 
 * **İlk kez, geçici ve tekrar eden katılımcılar:** Yeni katılımcılar alıp almadığınızı ve geri gelip gelmeyeceklerini izlemenize yardımcı olur. (Sıradan katkıda bulunanlar, az sayıda katkı veren katılımcılardır. Bu, bir katkı, beş katkıdan az veya size kalmış başka bir sayı.) Yeni katılımcılar olmadan, projenizin topluluğu durgun hale gelebilir.
 
-* **Açık işlerin ve PR'lerin sayısı:** Bu sayılar çok yükselirse, sorun giderme ve kod incelemeleri konusunda yardıma ihtiyacınız olabilir.
+* **Açık işlerin ve PR isteklerinin sayısı:** Bu sayılar çok yükselirse, sorun giderme ve kod incelemeleri konusunda yardıma ihtiyacınız olabilir.
 
-* **Açılan işlerin ve açılan PR'lerin sayısı:** Açılan sorunlar, birinin projenizi açması için yeterince önemsediği anlamına gelir. Bu sayı zaman içinde artarsa, insanların projenize ilgi duyduğunu gösterir.
+* **Açılan işlerin ve açılan PR isteklerin sayısı:** Açılan sorunlar, birinin projenizi açması için yeterince önemsediği anlamına gelir. Bu sayı zaman içinde artarsa, insanların projenize ilgi duyduğunu gösterir.
 
 * **Katkı türleri:** Örneğin, yazım hatalarını veya hataları düzeltme veya bir konuda yorum yapma.
 
@@ -129,4 +129,4 @@ Ayrıca, katkı sürecindeki aşamalar arasında geçiş için geçen süreyi ö
 
 ## İnsanlar hakkında bilgi edinmek için 📊 kullanın.
 
-Ölçümleri anlamak, aktif ve büyüyen bir açık kaynak proje oluşturmanıza yardımcı olacaktır. Bir gösterge panosundaki her bir ölçümü izlemeseniz bile, dikkatinizi projenizin gelişmesine yardımcı olacak davranış türüne odaklamak için yukarıdaki çerçeveyi kullanın.
+Ölçümleri anlamak, aktif ve büyüyen bir açık kaynaklı proje oluşturmanıza yardımcı olacaktır. Bir gösterge panosundaki her bir ölçümü izlemeseniz bile, dikkatinizi projenizin gelişmesine yardımcı olacak davranış türüne odaklamak için yukarıdaki çerçeveyi kullanın.
