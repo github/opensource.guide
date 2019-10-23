@@ -1,15 +1,8 @@
 ---
-lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+lang: pl
+title: Najlepsze praktyki dla twórców open source
+description: Ułatwienie życia twórców oprogramowania open source, od dokumentowania procesów po wykorzystanie społeczności.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -17,70 +10,71 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## Co oznacza bycie twórcą open source?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Jeśli zarządzasz projektem open sorce, z którego korzysta wiele osób, być może zauważyłeś, że mniej czasu poświęcasz na pisanie kodu, a więcej na zgłoszone problemy.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+Na wczesnych etapach projektu eksperymentujesz z nowymi pomysłami i podejmujesz decyzje w oparciu o to, na czym Ci zależy. Gdy twój projekt zyskuje na popularności, coraz częściej współpracujesz z użytkownikami i współpracownikami.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Utrzymanie projektu wymaga czegoś więcej niż tylko kodu. Te zadania są często nieoczekiwane, ale wciąż ważne dla rozwijającego się projektu. Zebraliśmy kilka sposobów, aby ułatwić ci życie - od dokumentowania procesów po wykorzystanie społeczności.
 
-## Documenting your processes
+## Dokumentowanie procesów
 
-Writing things down is one of the most important things you can do as a maintainer.
+Notowanie jest jedną z najważniejszych rzeczy, które możesz zrobić jako twórca.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Dokumentacja nie tylko ułatwia proces myślenia, ale pomaga innym ludziom zrozumieć, czego potrzebujesz lub oczekujesz, zanim zadadzą pytanie.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Nawet jeśli nie używasz pełnych akapitów, wypunktowanych list jest lepsze niż nienotowanie w ogóle.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Pamiętaj, aby aktualizować dokumentację. Jeśli nie zawsze możesz to zrobić, usuń nieaktualną dokumentację lub wskaż, że jest nieaktualna, aby współtwórcy wiedzieli, że aktualizacje są mile widziane.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+### Stwórz wizję swojego projektu
 
-### Write down your project's vision
+Zacznij od spisania celów swojego projektu. Dodaj je do README lub utwórz osobny plik o nazwie VISION. Jeśli istnieją inne artefakty, które mogą pomóc, na przykład plan projektu, upublicznij je.
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Posiadanie jasnej, udokumentowanej wizji pozwali Ci skoncentrować się i pomoże uniknąć "rozpełzywania się" zakresu po kontrybucjach innych osób.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
-
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Przykładowo - @lord odkrył, że stworzenie wizji projektu pomogło mu określić nad którymi requestami powinien spędzić czas.Jako nowy opiekun żałował, że nie trzymał się ustalonego zakresu swojego projektu, kiedy otrzymał swoją pierwszą prośbę o stworzenie dokumentacji [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+Pogrzebałem to. Nie starałem się znaleźć całościowej koncepcji. Żałuję, że zamiast połowicznego rozwiązania nie powiedziałem: "Nie mam teraz na to czasu, ale dodam to do długoterminowej listy drobnych rzeczy do zrobienia".
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Komunikuj swoje oczekiwania
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Tworzenie reguł może być denerwujące. Czasami możesz mieć wrażenie, żę pilnujesz zachowania innych ludzi i niszczysz całą zabawę.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Jednak spisane i rzetelnie egzekwowane dobre zasady dają siłę twórcom projektów. Zapobiegają one wciągnięciu cię w robienie rzeczy, których nie chcesz robić.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Większość ludzi, którzy natkną się na twój projekt, nie wie nic o tobie ani twoich motywacjach. Mogą założyć, że zarabiasz za pracę nad projektem, szczególnie jeśli jest to coś, na czym polegają i z czego regularnie korzystają. Może w pewnym momencie zdecydujesz się poświęcić dużo czasu na swój projekt, ale aktualnie jesteś akurat zajęty nową pracą lub członkiem rodziny.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Wszystkie te okoliczności są jak najbardziej w porządku! Upewnij się tylko, że inni się o nich dowiedzą.
 
 If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
 
-Here are a few rules that are worth writing down:
+Jeśli tworzysz projekt w niepełnym wymiarze godzin lub w całości na zasadach wolontariatu - bądź szczery i informuj ile masz czasu. Nie jest to ta sama kwestia jak to, ile czasu wymaga projekt lub ile czasu inni chcą nad nim spędzić.
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+Oto kilka zasad, które warto zapisać:
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+- W jaki sposób kontrybucje są weryfikowane i akceptowane? (_Wymagają testów? Czy istnieje szablon dla zgłoszeń?_)
+- Jakie rodzaje kontrybucji są akceptowane? (_Czy potrzebujesz pomocy jednie z określonym fragmentem kodu?_)
+- Kiedy warto ponowić kontakt (_na przykład, "Możesz spodziewać się odpowiedzi od opiekuna w ciągu 7 dni. Jeśli do tego czasu nikt się nie odezwie, ponownie napisz wiadomość w odpowiednim wątku."_)
+- Jak dużo czasu spędzasz nad projektem (_na przykład, "Spędzam jedynie 5 godzin tygodniowo pracując nad tym projektem"_)
 
-### Keep communication public
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), i [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) to kilka przykładów projektów z listą zasad dla twórców i współpracowników.
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+### Komunikuj się publicznie
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Nie zapomnij dokumentować swoich interakcji. Informuj publicznie o swoim projekcie, gdziekolwiek jest to możliwe. Jeśli ktokolwiek próbuje skontaktować się z tobą prywatnie w celu omówienia prośby o dodanie funkcji lub potrzebuje wsparcia, uprzejmie skieruj go do publicznego kanału komunikacji, takiego jak lista mailingowa lub narzędzie do śledzenia i raportowania problemów.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Jeśli spotykasz się z innymi twórcami lub podejmujesz poważną decyzję na osobności, udokumentuj te rozmowy na forum publicznym, np. poprzez uploadowanie notatek.
+
+Dzięki temu każdy, kto dołączy do Twojej społeczności, będzie miał dostęp do tych samych informacji, co osoba która była zaangażowana w projekt od lat.
 
 ## Learning to say no
 
@@ -88,7 +82,7 @@ You've written things down. Ideally, everybody would read your documentation, bu
 
 Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Saying no isn't fun, but _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
 
 Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
 
@@ -118,10 +112,10 @@ Secondly, ignoring contributions sends a negative signal to your community. Cont
 
 If you don't want to accept a contribution:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+- **Thank them** for their contribution
+- **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
+- **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
+- **Close the request**
 
 You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
 
@@ -141,8 +135,8 @@ To reduce the volume of unwanted contributions in the first place, explain your 
 
 If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+- Fill out a issue or PR template/checklist
+- Open an issue before submitting a PR
 
 If they don't follow your rules, close the issue immediately and point to your documentation.
 
@@ -240,11 +234,11 @@ The good news about maintaining a popular project is that other maintainers have
 
 There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
+- [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
+- [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
+- [Danger](https://github.com/danger/danger) helps automate code review
+- [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
+- [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
 
 For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
 
