@@ -94,42 +94,42 @@ Może kontrybucja zmienia zakres projektu lub nie pasuje do twojej wizji. Być m
 
 Niezależnie od powodów, możliwe jest taktyczne obsłużenie kontrybucji, które nie spełniają standardów twojego projektu.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Jeśli otrzymasz kontrybucję, której nie chcesz zaakceptować, pierwszą reakcją może być zignorowanie lub udawanie, że jej nie widziałeś. Może to zranić czyjeś uczucia, a nawet zdemotywować innych potencjalnych współpracowników w Twojej społeczności.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  Kluczowe w obsługi wsparcia dużych projektów open source jest utrzymanie ciągłości rozwiązywania problemów. Staraj się unikać wstrzymywania tego procesu. Jeśli jesteś programistą iOS wiesz, jak frustrujące może być zgłaszanie radarów. Możesz orzymać informację zwrotną 2 lata później z informacją, aby spróbować ponownie z najnowszą wersją systemu iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Nie zostawiaj otwartych zgłoszeń z niechcianymi kontrybucjami, ponieważ czujesz się winny lub nie chcesz być niemiły. Z biegiem czasu lista zgłoszonych problemów bez odpowiedzi i lista PR sprawią, że praca nad projektem będzie o wiele bardziej stresująca i onieśmielająca.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Lepiej niezwłocznie zamknąć zgłoszenia z kontrybucjami, o których wiesz, że nie chcesz ich zaakceptować. Jeśli twój projekt ma już duże zaległości, @steveklabnik ma sugestie jak efektywnie segregować problemy (EN) - [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+Ponadto, ignorowanie kontrybucji wysyła negatywny sygnał do społeczności. Wkład w projekt może być onieśmielający, szczególnie jeśli jest to czyjś pierwszy raz. Nawet jeśli nie zaakceptujesz ich wkładu, uhonoruj osobę, która za tym stoi i podziękuj jej za zainteresowanie. To wielki komplement!
 
-If you don't want to accept a contribution:
+Jeśli nie chcesz akceptować kontrybucji:
 
-- **Thank them** for their contribution
-- **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-- **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-- **Close the request**
+- **Podziękuj** za kontrybucję
+- **Wytłumacz dlaczego nie** wpisuje się w zakres projektu i zaoferuj jasne sugestie dotyczące poprawek. Bądź stanowczy, ale uprzejmy.
+- **Podlinkuj właściwą dokumentację**, jeśli takowa istnieje. Jeśli zauważysz powracające zgłoszenia, których nie chcesz akceptować, dodaj ich listę wraz z objaśnieniem do swojej dokumentacji, aby uniknąć powtarzania się.
+- **Zamknij zgłoszenie**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+Nie powinieneś potrzebować więcej niż 1-2 zdania odpowiedzi. Na przykłąd, kiedy użytkownik [celery](https://github.com/celery/celery/) złosił problem związany z Windows, @berkerpeksag [odpowiedział](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Jeśli myśl o mówieniu "nie" przeraża cię, nie jesteś sam. Jak ujął to @jessfraz w [The Art of Closing](https://blog.jessfraz.com/post/the-art-of-closing/):
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> Rozmawiałem z opiekunami kilku różnych projektów open source, Mesos, Kubernetes, Chromium i wszyscy zgadzają się, że jedną z najtrudniejszych części bycia opiekunem jest mówienie "nie" aktualizacjom, których nie chcesz.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Nie czuj się winny, że nie chcesz zaakceptować czyichś kontrybucji. Pierwsza zasada open source, [zgodnie z](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Nie" jest tymczasowe, "tak" jest na zawsze._ Chociaż empatyzowanie z entuzjazmem innej osoby jest dobrą rzeczą, odrzucenie wkładu to nie to samo, co odrzucenie stojącej za nim osoby.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Finalnie, jeśli wkład nie jest wystarczająco dobry, nie masz obowiązku go zaakceptować. Bądź uprzejmy i elastyczny, gdy ludzie wnoszą swój wkład w projekt, ale akceptuj tylko zmiany, które twoim zdaniem poprawią projekt. Im częściej ćwiczysz mówienie "nie", tym łatwiejsze się staje. Obiecujemy.
 
-### Be proactive
+### Beądź proaktywny
 
 To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
 
