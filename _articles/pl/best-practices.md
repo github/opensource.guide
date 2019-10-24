@@ -129,18 +129,18 @@ Nie czuj się winny, że nie chcesz zaakceptować czyichś kontrybucji. Pierwsza
 
 Finalnie, jeśli wkład nie jest wystarczająco dobry, nie masz obowiązku go zaakceptować. Bądź uprzejmy i elastyczny, gdy ludzie wnoszą swój wkład w projekt, ale akceptuj tylko zmiany, które twoim zdaniem poprawią projekt. Im częściej ćwiczysz mówienie "nie", tym łatwiejsze się staje. Obiecujemy.
 
-### Beądź proaktywny
+### Bądź proaktywny
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Aby zredukować ilość niechcianych kontrybucji, wyjaśnij proces wysyłania i akceptowania wkładów w przewodniku.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Jeśli otrzymujesz zbyt wiele kontrybucji niskiej jakości, poproś, aby autorzy wykonali wcześniej trochę pracy, na przykład:
 
-- Fill out a issue or PR template/checklist
-- Open an issue before submitting a PR
+- Wypełnienie szablonu/checlisty dla PR/zgłoszanego problemu
+- Otworzenie zgłoszernia typu issue przed wysłaniem PR
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Jeśli nie przestrzegają zasad, natychmiast zamknij zgłoszenie i pokieruj do dokumentacji.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Chociaż takie podejście może się początkowo wydawać nieuprzejme, proaktywność jest w rzeczywistości dobra dla obu stron. Zmniejsza to szansę, że ktoś straci wiele godzin pracy na PR, którego nie zamierzasz zaakceptować i ułatwia radzenie sobie z obciążeniami.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
