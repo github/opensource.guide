@@ -76,23 +76,23 @@ Jeśli spotykasz się z innymi twórcami lub podejmujesz poważną decyzję na o
 
 Dzięki temu każdy, kto dołączy do Twojej społeczności, będzie miał dostęp do tych samych informacji, co osoba która była zaangażowana w projekt od lat.
 
-## Learning to say no
+## Naucz się mówić nie
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Zapisałeś wszystkie niezbędne rzeczy. Idealnie byłoby, gdyby każdy przeczytał dokumentację, ale w rzeczywistości będziesz musiał przypominać innym, że ta wiedza istnieje.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Jednak spisanie wszystkiego pomaga zdepersonalizować sytuacje, w których konieczne jest egzekwowanie reguł.
 
-Saying no isn't fun, but _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Mówienie "nie: nigdy nie jest łatwe, ale sformułowanie _"Twoja kontrybucja nie spełnia wymagań tego projektu"_ jest odczuwalnie mniej personalna niż _"Nie podoba mi się twoja kontrybucja"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Mówienie "nie" dotyczy wielu sytuacji, z którymi spotkasz się jako opiekun projektu: żądania dotyczące funkcji, które nie pasują do zakresu, wykolejanie dyskusji, wykonywanie niepotrzebnej pracy.
 
-### Keep the conversation friendly
+### Utrzymuj przyjazny ton konwersacji
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+Jednym z najważniejszych miejsc, w których poćwiczysz mówienie "nie" będzie sekcja raportowania błędów i lista pull requestów. Jako opiekun projektu nieuchronnie otrzymasz sugestie, których nie zechcesz zaakceptować.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Może kontrybucja zmienia zakres projektu lub nie pasuje do twojej wizji. Być może pomysł jest dobry, ale wdrożenie jest słabe.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Niezależnie od powodów, możliwe jest taktyczne obsłużenie kontrybucji, które nie spełniają standardów twojego projektu.
 
 If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
 
