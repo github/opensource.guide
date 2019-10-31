@@ -8,7 +8,7 @@ From the GitHub Manual of Style, which this style guide inherits from:
 
 Where possible, [automated tests](../test/prose) enforce style rules.
 
-## Content Principles
+## Content principles
 All written content should follow these principles:
 
 * **Approachability:** Don't assume reader has prior knowledge
@@ -36,3 +36,7 @@ When referring to a project on GitHub, link to the repository so others can dive
 - :smile: Welcome to Open Source Guides!
 - :smile: The guide is meant to..
 - :cry: The goal of this Guide is to...
+
+## More guidance
+
+Understand our [content model](content-model.md) and [audience](personas.md)

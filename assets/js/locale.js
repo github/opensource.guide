@@ -5,7 +5,7 @@ $(document).ready(function() {
 });
 
 function loadLanguage(lang) {
-  base_pathname = window.location.pathname.replace(/^\/[a-z]+([_-][a-z]+)?\//, "/")
+  base_pathname = window.location.pathname.replace(/\/[a-z]+([_-][a-z]+)?\//, "/")
   if (lang === "en") {
     url = base_pathname
   } else {
