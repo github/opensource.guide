@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/github/opensource.guide.svg?branch=master)](https://travis-ci.org/github/opensource.guide)
 
-Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
+Open Source Guides (https://opensource.guide/) is a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 
 ## Background
 Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is because we felt that there weren't enough resources for people creating open source projects.
