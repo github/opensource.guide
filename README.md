@@ -25,3 +25,5 @@ Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @d
 
 ## Disclaimer
 While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
+
+## 
