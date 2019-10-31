@@ -18,7 +18,7 @@ If there's not, then today is your day to lead this effort! Here's how to start:
 
 Completing an initial translation of the whole site is a fairly large task. One way to break that task up is to work with other translators through pull requests on your fork. Example: [pull requests on fork for German translation](https://github.com/katrinleinweber/opensource.guide/pulls?q=is%3Apr+is%3Aclosed) and corresponding [initial pull request for German translation](https://github.com/github/opensource.guide/pull/577) on this repository.
 
-## Updatng a translation
+## Updating a translation
 
 ### Corrections
 
