@@ -114,10 +114,10 @@ related:
 對於這些人，必須採取零容忍的政策。一旦猶豫不決，那麼這些負面的人會給社群的其他人帶來不愉快的感覺。甚至出現劣幣驅逐良幣的現象。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   專案成功的關鍵在於擁有一個能互相支持的社群。如果沒有我的同事、網路上友善的陌生人以及聊天頻道 IRC 的幫助，我不可能做好這些工作。(...）不要退而求其次。不要容忍來搗亂的人。
   <p markdown="1" class="pquote-credit">
-— @karissa, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -146,10 +146,10 @@ related:
 ### 分享專案的所有權
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   社群的領導者們有著不一樣的意見，這也是所有健康的社群能夠成長的原因！然而，你也必須在每個環節確保，大多數人的意見不會總是蓋過其他見解，讓傑出的、少數人的意見也能被聽見。
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["是什麼成就一個好的社群？"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["是什麼成就一個好的社群？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

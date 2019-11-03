@@ -17,3 +17,21 @@ If there's not, then today is your day to lead this effort! Here's how to start:
 1. Send a pull request.
 
 Completing an initial translation of the whole site is a fairly large task. One way to break that task up is to work with other translators through pull requests on your fork. Example: [pull requests on fork for German translation](https://github.com/katrinleinweber/opensource.guide/pulls?q=is%3Apr+is%3Aclosed) and corresponding [initial pull request for German translation](https://github.com/github/opensource.guide/pull/577) on this repository.
+
+## Updatng a translation
+
+### Corrections
+
+If you notice spelling or grammar errors, typos, or opportunities for better phrasing, open a pull request with your suggested fix. If you see a problem that you aren't sure of or don't have time to fix, open an issue.
+
+### Broken links
+
+When tests find broken links, try to fix them across all translations. Ideally, [only update the linked URLs](https://github.com/github/opensource.guide/pull/880/files), so that translation changes will definitely not be necessary.
+
+### Article updates
+
+We're collecting [tips](https://github.com/github/opensource.guide/issues/1119) on how to check if a translation should be updated to account for improvements made to the English source articles.
+
+### New articles
+
+New articles are rare! When we have one, we'll probably do [some form](https://github.com/github/opensource.guide/issues/1120) of a call for translations.

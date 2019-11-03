@@ -14,13 +14,13 @@
 
 * Has never open sourced a project before
 
-### Primary Goals
+### Primary goals
 
 * Wants people to notice their project
 
 * Wants people to actually use the project and give feedback
 
-### Frustrations/Pain Points
+### Frustrations/pain points
 
 * Doesn't know how to find an audience
 
@@ -40,13 +40,13 @@
 
 * Likely manages projects on their own time (volunteer work)
 
-### Primary Goals
+### Primary goals
 
 * Manage personal time so project demands don't become overwhelming
 
 * Find other contributors or maintainers to help with the project
 
-### Frustrations/Pain Points
+### Frustrations/pain points
 
 * Feeling burned out, exhausted from open source work
 
@@ -66,13 +66,13 @@
 
 * Likely manages projects on their own time (volunteer work)
 
-### Primary Goals
+### Primary goals
 
 * Get people to participate, contribute back to the project
 
 * Make sure everybody involved with the project is happy and has a good experience
 
-### Frustrations/Pain Points
+### Frustrations/pain points
 
 * Managing a community is exhausting, especially when it's volunteer work
 
@@ -92,7 +92,7 @@
 
 * Cares about fostering a healthy community, but does not necessarily want to share ownership in a formal capacity
 
-### Primary Goals
+### Primary goals
 
 * Improve brand and reputation
 
@@ -100,7 +100,7 @@
 
 * Grow a platform (get people to use it)
 
-### Frustrations/Pain Points
+### Frustrations/pain points
 
 * Balancing community + corporate needs
 
