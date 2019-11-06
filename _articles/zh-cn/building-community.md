@@ -26,19 +26,19 @@ related:
 
 从你的文档开始：
 
-* **让大家很容易上手。** [一份友好的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写readme)以及清晰的代码示例将让大家很容易的上手。
-* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#编写你的贡献指南)以及持续更新issues。
+* **让大家很容易上手。** [一份友好的 README](../starting-a-project/#writing-a-readme)以及清晰的代码示例将让大家很容易的上手。
+* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines)以及持续更新issues。
 
 好的文档能够邀请他人参与你们项目的互动。最终，一些人会开一个issue或者pull request。将这些互动视为机会，将他们转移到漏斗的下方。
 
-* **当一些人选择了你们的项目，请对他们表示感谢！** 仅仅只是一次消极的经历就足以让一些人再也不想回来。
+* **当一些人选择了你们的项目，请对他们表示感谢！** 一次糟糕的体验就可能失去一个用户。
 * **及时回应。** 如果你们一个月都没有回答他们的问题，他们可能早已忘记了你们的项目。
 * **对你以后接受的所有贡献者持开放态度。** 很多贡献者是从一份bug报告或者小的修复开始的。这里有[很多为项目做贡献的方式](../how-to-contribute/#what-it-means-to-contribute)。让大家选择他们喜欢的方式。
 * **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#learning-to-say-no)它不适合项目，如果有必要的话你可以给出相关的文档链接。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比底的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
+  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比较低的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -114,16 +114,16 @@ related:
 对于这类人，必须采取零容忍的政策。一旦犹豫不决，那么这些消极的人会给社区的其他人带来不愉快的感觉。那时就会出现劣币驱逐良币的现象。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
 
-  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要满足于混蛋。
+  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要容忍混蛋。
 
   <p markdown="1" class="pquote-credit">
-— @karissa, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-对项目的微不足道的问题进行定期辩论会分散别人的注意力，包括你自己，要将精力几种在重要的任务上，新人如果看见这样的情景，他们可能不会加入到项目中来。
+关于项目琐碎方面的定期辩论会分散其他人（包括您）的注意力，使他们无法专注于重要任务。新人可能会看到这些对话而不想参加。
 
 当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](../code-of-conduct/#enforcing-your-code-of-conduct)。你的[行为准则](../code-of-conduct/)是为这些情景准备的建设性指南。
 
@@ -135,7 +135,7 @@ related:
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
+在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://kentcdodds.com/blog/first-timers-only), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
 
 最后，撰写让人赏心悦目的文档，进一步让人感到愉悦和舒服。
 
@@ -148,10 +148,10 @@ related:
 ### Share ownership of your project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["是什么成就一个好的社区？"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["是什么成就一个好的社区？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

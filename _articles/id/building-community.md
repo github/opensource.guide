@@ -113,10 +113,10 @@ Sembarang proyek yang terkenal akan menarik orang lain untuk merusak dibandingka
 Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-orang jenis ini. Jika dibiarkan, orang-orang negatif ini akan membuat orang lain menjadi tidak nyaman. Bahkan mereka bisa meninggalkan proyek Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Memiliki komunitas yang mendukung adalah kuncinya. Saya tidak akan pernah bisa melakukan pekerjaan ini tanpa rekan-rekan saya, orang asing di Internet yang ramah, dan chanel IRC yang ramai (...).
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -132,7 +132,7 @@ Pada dokumen CONTRIBUTING, jelaskan secara eksplisit bagaimana kontributor baru 
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-Pada daftar laporan masalah Anda, tandai masalah yang cocok untuk setiap jenis kontributor yang berbeda: misalnya, [_"hanya pemula"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"laporan kesalahan pertama"_, atau _"dokumentasi"_. [Label ini](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) mempermudah orang yang baru pada proyek Anda untuk mencari daftar laporan masalah dan mulai berkontribusi.
+Pada daftar laporan masalah Anda, tandai masalah yang cocok untuk setiap jenis kontributor yang berbeda: misalnya, [_"hanya pemula"_](https://kentcdodds.com/blog/first-timers-only), _"laporan kesalahan pertama"_, atau _"dokumentasi"_. [Label ini](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) mempermudah orang yang baru pada proyek Anda untuk mencari daftar laporan masalah dan mulai berkontribusi.
 
 Akhirnya, gunakan dokumentasi Anda untuk membuat orang lain nyaman pada setiap langkahnya.
 
@@ -145,10 +145,10 @@ Sebagai contoh, berikut bagaimana cara [Rubinius](https://github.com/rubinius/ru
 ### Berbagi kepemilikan dari proyek Anda
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Pemimpin Anda akan memiliki opini  yang berbeda, seperti halnya komunitas lainnya! Namun, Anda perlu mengambil langkah-langkah untuk memastikan bahwa suara terbesar tidak selalu menang, dan suara minoritas akan selalu didengarkan.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

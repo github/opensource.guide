@@ -113,10 +113,10 @@ related:
 이러한 유형의 사람들에 대한 무관용 정책을 채택하기 위해 최선을 다하십시오. 선택하지 않는다면, 부정적인 사람들이 커뮤니티의 다른 사람들을 불편하게 만듭니다. 그들은 심지어 떠날지도 모릅니다.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["FOSS 프로젝트를 어떻게 실행하는가"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["FOSS 프로젝트를 어떻게 실행하는가"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -132,7 +132,7 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 
 ![Django 새로운 기여자 페이지](/assets/images/building-community/django_new_contributors.png)
 
-이슈 대기열에서, 기여자의 다른 유형에 적합한 버그 라벨을 붙이십시오: 예를 들어, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"good first issue"_, 혹은 _"documentation"_이 있습니다. [이 라벨들은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+이슈 대기열에서, 기여자의 다른 유형에 적합한 버그 라벨을 붙이십시오: 예를 들어, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, 혹은 _"documentation"_이 있습니다. [이 라벨들은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
 프로젝트에 익숙하지 않은 사용자가 문제를 신속하게 스캔하고 시작하기가 쉽습니다.
 
 마지막으로, 문서를 사용하여 사람들이 모든 단계에서 환영받는다고 느끼게 하십시오.
@@ -146,10 +146,10 @@ CONTRIBUTING 파일에서 새 참여자에게 시작 방법을 명시하십시�
 ### Share ownership of your project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["좋은 커뮤니티는 어떻게 만듭니까?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["좋은 커뮤니티는 어떻게 만듭니까?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

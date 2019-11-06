@@ -113,10 +113,10 @@ related:
 இந்த வகையான மக்களிடம் சகிப்பின்மையை கடைப்பிடிப்பது சிறந்தது. இதை தடுக்காமல் விட்டுவிட்டால், எதிர்மறையான மக்கள் உங்கள் சமூகத்தில் பிறருக்கு சங்கடத்தை ஏற்படுத்தலாம். அவர்கள் விலக கூட நேரிடலாம்.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   உண்மை என்னவென்றால் ஒரு ஆதரவான சமூகம் இருப்பது முக்கியமானது. என் சக பணியாளர்கள், நட்பு இணைய அந்நியர்கள் மற்றும் வம்பளக்கிற ஐ.ஆர்.சி. சேனல்கள் ஆகியோரின் உதவியின்றி இந்த வேலையை நான் செய்ய முடியாது. (...) குறைவாக குடியேறாதீர்கள். அறிவில்லாதவர்களை பொறுத்துக்கொள்ள தேவையில்லை.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["ஒரு FOSS திட்டத்தை எவ்வாறு இயக்க வேண்டும்"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["ஒரு FOSS திட்டத்தை எவ்வாறு இயக்க வேண்டும்"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -132,7 +132,7 @@ related:
 
 ![ஜாங்கோ புதிய பங்களிப்பாளர்கள் பக்கம்](/assets/images/building-community/django_new_contributors.png)
 
-உங்கள் பிரச்சினை வரிசையில், பல்வேறு வகை பங்களிப்பாளர்களுக்கு பொருத்தமான பிழைகளுக்கு விவரத்துணுக்கு கொடுக்கவும்: உதாரணத்திற்கு, [_"முதல் முறை பங்களிப்பாளர்களுக்கு மட்டும்"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"நல்ல முதல் பிழை"_, அல்லது _"ஆவணங்கள்"_. [இந்த விவரத்துணுக்குகள்](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) யாராவது உங்கள் திட்டத்திற்கு புதியவர்கள் விரைவாக உங்கள் பிரச்சினைகளை பார்பதற்கும், தொடங்குவதற்கும் எளிதாக்குகின்றன.
+உங்கள் பிரச்சினை வரிசையில், பல்வேறு வகை பங்களிப்பாளர்களுக்கு பொருத்தமான பிழைகளுக்கு விவரத்துணுக்கு கொடுக்கவும்: உதாரணத்திற்கு, [_"முதல் முறை பங்களிப்பாளர்களுக்கு மட்டும்"_](https://kentcdodds.com/blog/first-timers-only), _"நல்ல முதல் பிழை"_, அல்லது _"ஆவணங்கள்"_. [இந்த விவரத்துணுக்குகள்](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) யாராவது உங்கள் திட்டத்திற்கு புதியவர்கள் விரைவாக உங்கள் பிரச்சினைகளை பார்பதற்கும், தொடங்குவதற்கும் எளிதாக்குகின்றன.
 
 கடைசியாக, ஒவ்வொரு அடியிலும் மக்கள் வரவேற்பைப் பெற உங்கள் ஆவணங்களைப் பயன்படுத்தவும்.
 
@@ -145,10 +145,10 @@ related:
 ### Share ownership of your project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   உங்கள் தலைவர்கள் வித்தியாசமான கருத்துக்களைக் கொண்டிருக்கலாம், அனைத்து ஆரோக்கியமான சமூகங்களைப் போல! எனினும், உரத்த குரல் எப்போதும் மக்கள் சோர்வாகி வெளியேறவும் மூலம் வெற்றி பெறவில்லை என உறுதி செய்ய நடவடிக்கை எடுக்க வேண்டும், மற்றும் குறைந்த முக்கிய மற்றும் சிறுபான்மை குரல்கள் கேட்கப்பட வேண்டும்.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["என்ன ஒரு நல்ல சமூகத்தை உருவாக்குகிறது?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["என்ன ஒரு நல்ல சமூகத்தை உருவாக்குகிறது?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
