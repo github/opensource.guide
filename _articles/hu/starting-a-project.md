@@ -10,7 +10,7 @@ related:
   - building
 ---
 
-## Anyílt forráskód "mit" és "hogyan"-ja
+## A nyílt forráskód "mit" és "hogyan"-ja
 
 Szóval arra gondoltál, hogy elkezded a nyílt forráskódú projekted. Gratulálunk! A világ nagyra fogja értékeli a részvételed. Beszéljünk kicsi arról, hogy mi is az a nyílt forráskód és miért csinálják az emberek.
 
