@@ -278,3 +278,5 @@ Your tiebreaker should be a last resort. Divisive issues are an opportunity for 
 ## Community is the ❤️ of open source
 
 Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+
+I KNOW VERY DIFFICULT ROAD UNTIL THE END BUT I REALLY BELIEVE that ICT. God willing, I WANT TO BE LIKE. AND MORE PEOPLE IN. BİŞEY TROUBLE BUT DO NOT WANT AND MY DAUGHTER SAYS I'm told. BE SURE I DO should SEVİNİCEZ.BÖYL SUPREME JUSTICE.
