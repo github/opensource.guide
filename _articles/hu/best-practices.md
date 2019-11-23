@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+title: Bevált gyakorlatok karbantartók részére
+description: Nyílt forráskódú karbantartóként tedd az életed könnyebbé a folyamatok dokumentálásától kezdve a közösség erejének a kiaknázásáig.
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -10,119 +10,119 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## Mit jelent karbantartónak lenni?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Ha olyan nyílt forráskódú projektet tartasz fenn, amelyet sok ember használ, akkor valószínűleg észrevetted, hogy kevesebbet kódolsz, és többet válaszolsz a problémákra.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+A projekt korai szakaszában új ötletekkel kísérletezel és alapvető döntéseket hozol az alapján, hogy mit szeretnél. Ahogy a projekted népszerűsége növekszik, azon veszed észre magad, hogy egyre többet dolgozol együtt a felhasználókkal és a közreműködőkkel.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Egy projektet fenntartani többet jelent, mint csak kódolni. Ezek a feladatok gyakran váratlanok, de ugyanolyan fontosak egy fejlődő projektben. Összegyűjtöttünk néhány módszert az életünk megkönnyítésére, a folyamatok dokumentálásától kezdve a közösség erejének a kiaknázásáig.
 
-## Documenting your processes
+## A folyamatok dokumentálása
 
-Writing things down is one of the most important things you can do as a maintainer.
+A dolgok leírása az egyik legfontosabb dolog, amelyet karbantartóként megtehetsz.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+A dokumentáció nem csak a saját gondolkodásod letisztulását segíti, hanem elősegíti, hogy más is megértse a szándékodat anélkül, hogy kérdezni kellene.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+A dolgok leírása könnyebbé teszi azt, hogy nemet tudj mondani olyan dolgokra, amelyek nem illeszkednek a projekt hatókörébe. Ezenkívül megkönnyíti az embereknek a belépését és segítését. Sohasem tudhatod, hogy ki olvassa vagy használja a projektet.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Még ha nem is fejted ki a teljes mondanivalód, akkor is jobb legalább felsoroláspontokban röviden összeszedni azt, mintha nem írnál semmit.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+Ne felejtsd el naprakészen tartani a dokumentációt. Ha nem vagy képes ezt mindig megtenni, töröld az elavult dokumentációt, vagy jelezd azt, hogy elavult, így a közreműködők tudják, hogy szívesen várod a frissítéseket ezekre.
 
-### Write down your project's vision
+### Írd le a projekt vízióját
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Kezd azzal, hogy leírod a projekt célját. Írd le a README-ben, vagy hozz létre egy különálló VISION fájlt. Ha van bármi más ami segít, mint például egy projekt roadmap, akkor tedd elérhetővé azt is.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+A tiszta, jól dokumentált elképzelés segít fókuszálni és elkerülni azt, hogy más hozzájárulók felesleges vagy oda nem illő dolgokkat járuljanak hozzá.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Például @lord észrevette, hogy a projekt vízió segített neki rájönni arra, hogy melyik kéréssel töltsön el időt. Új karbantartóként sajnálta, hogy nem ragaszkodott a projektjének hatóköréhez, amikor megkapta az első, funkcióra irányuló kérést a [Slate-hez](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  TODO: Ódzkodtam tőle. Nem törekedtem arra, hogy mindenre megoldás szülessen. Egy fél megoldás helyett inkább azt mondtam volna, hogy: "Erre most nincs elég időm, de hozzá fogom adni a hosszú távú jó-lenne-majd listához."
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["Tippek nyílt forrású projektek karbantartóinak"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Kommunikáld az elvárásaid
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+A szabályok leírása idegesítő lehet. Időnként úgy érzed, mintha más emberek viselkedését szabályoznád, vagy mintha kiölnél minden szórakoztató dolgot.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Ugyanakkor megfelelően leírva és jól végrehajtva, a jó szabályok támogatják a karbantartókat. Megakadályozzák, hogy olyan dolgokba menj bele, amelyekbe nem akarsz.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+A legtöbb ember, aki a projekttel találkozik, semmit sem tud rólad vagy a körülményeidről. Feltételezhetik, hogy fizetetést kapsz a munkádért, különösen, ha rendszeresen használják, és függnek a projektől. Lehet, hogy egy ideig sok időt töltesz a projekttel, de az is lehet, hogy most egy új munkával, vagy épp a családdal foglalkozol.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Mindez teljesen rendben van! Csak legyél biztos abban, hogy mások is tudnak erről.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Ha a projekt fenntartása részmunkaidős vagy tisztán önkéntes, akkor legyél őszinte abban, hogy mennyi időd van rá. Ez nem egyezik meg azzal, hogy szerinted mennyi időt igényelne a projekt, vagy azzal, hogy mennyi időt várnak el mások tőled.
 
-Here are a few rules that are worth writing down:
+Néhány szabály, amelyeket érdemes leírni:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* Hogyan vizsgálod meg és fogadod el a hozzájárulást (_Meg vannak követelve a tesztek? Van az issue-khoz sablon?_)
+* A hozzájárulások típusai, amelyeket elfogadsz (_Csak egy bizonyos részéhez fogadsz el hozzájárulást a kódnak?_)
+* Mikor helyénvaló ismét figyelmeztetni (_például: "7 napon belül várhatsz választ a karbantartótól. Ha ez alatt mégsincs visszajelzés, nyugodtan pingeld meg a szálat."_)
+* Mennyi időt fogsz a projektre költeni (_például: "Mi csak kb. 5 órát foglalkozunk a hetente ezzel a projekttel."_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), és a [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) mellett számos példa van a karbantartók és közreműködők alapszabályairól rendelkező projektekre.
 
-### Keep communication public
+### Legyen a kommunikáció nyilvános
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Ne felejtsd el dokumentálni az interakciókat is. Ahol csak lehet, tartsd nyilvánosan a projekttel kapcsolatos kommunikációt. Ha valaki megpróbál privát kapcsolaton keresztül kommunikálni egy funkciókérést vagy támogatási igényt akkor, udvariasan irányítsd egy nyilvános kommunikációs csatornára, például egy levelezőlistára vagy a hibakövető rendszerre.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Ha találkozol más karbantartókkal, vagy ha zártkörű döntés születik, akkor is nyilvánosan dokumentáld ezeket a beszélgetéseket, még akkor is, ha csak jegyzeteket írsz.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Így bárki, aki csatlakozik a közösséghez, ugyanazt az információt éri el, mint az, aki már évek óta tagja a közösségnek.
 
-## Learning to say no
+## Meg kell tanulni nemet mondani
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Leírtad a dolgokat. Ideális esetben mindenki elolvassa a dokumentációt, de a valóságban ez más, mert figyelmeztetned kell majd másokat arra, hogy ez a tudás létezik.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Ha mindent leírsz, az segít megszüntetni azokat a helyzeteket, amikor szükség van a szabályok érvényesítésére.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Nemet mondani nem kellemes, de a _"Hozzájárulásod nem felel meg a projekt kritériumoknak"_ kevésbé személyeskedő, mint a _"Nem tetszik ez a hozzájárulásod"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+TODO: Sok helyzetben kell majd nemet mondanod, amelyekkel karbantartóként találkozol: olyan funkciókérések, amelyek nem felelnek meg az alkalmazási körnek, mégis valaki levezeti a beszélgetést, és ezzel felesleges munkát generál másoknak.
 
-### Keep the conversation friendly
+### Legyen barátságos a beszélgetés
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+A legfontosabb helyek, ahol gyakorolni fogod a nemet mondást, az az issue-id és a beolvasztási kérelmek. Projekt karbantartóként elkerülhetetlen lesz az a helyzet, amikor olyan javaslatokat kapsz, amelyeket nem akarsz elfogadni.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Lehet, hogy a hozzájárulás megváltoztatja a projekt célját, vagy nem felel meg a jövőképének. Talán az ötlet jó, de a megvalósítás rossz.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Az indoktól függetlenül lehetséges tapintatosan kezelni azokat a hozzájárulásokat, amelyek nem felelnek meg a projekt normáinak.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Ha olyan hozzájárulást kapsz, amelyet nem akarsz elfogadni, akkor az első reakciód az lehet, hogy figyelmen kívül hagyod, vagy úgy teszel, mintha nem látnád. Ha így teszel, akkor a másik személy érzéseit megsértheted, vagy akár más lehetséges hozzájárulók kedvét is elveszed a közösségedben.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  A nagyszabású, nyílt forráskódú projektek támogatásának kezelésének a kulcsa az issue-k mozgásának folyamatos fenntartása. El kell kerülni, hogy az issue-k sokáig álljanak egyhelyben. Ha iOS fejlesztő vagy, akkor tudod, milyen bosszantó lehet egy iOS bug bejelentése. Lehet, hogy 2 évvel később hallasz csak róla, és azt mondják majd, hogy próbáld újra az iOS legújabb verziójával.
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["Nyílt forráskódú közösségek méretezése"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűnösnek érznéd magad, ha nem lennél kedves. Az idő múlásával a megválaszolatlan kérdések és beolvasztási kérelmek sokkal stresszesebbé és ijesztőbbé teszik a projekttel történő munkát.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Sokkal jobb, ha azonnal lezárod a hozzájárulást, ha nem akarod elfogadni. Ha a projekted már eleve nagy feladatlistával rendelkezik, akkor itt van @steveklabnik javaslata arra, hogy [hogyan priorizáld hatékonyan az issue-kat](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+Ugyanakkor a hozzájárulások figyelmen kívül hagyása negatív jelet küldhet a közösségnek. A projekthez való hozzájárulás félelmetes is lehet, különösen, ha valaki először csinálja. Még ha nem is fogadod el az általa benyújtott hozzájárulást, becsüld meg azt a személyt aki benyújtotta, és mondj köszönetet az érdeklődése iránt, ez nagy dícséret!
 
-If you don't want to accept a contribution:
+Ha nem akarsz elfogadni egy hozzájárulást:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* **Köszönd meg nekik** a hozzájárulást
+* **Magyarázd el, miért nem illik bele a projekt kritériumokba,** vagy ha lehetséges, javasolj egyértelmű dolgokat a javításra. Legyél határozott, de kedves.
+* **Linkeld be a releváns dokumentációkat,** ha vannak. Ha arra leszel figyelmes, hogy rendszeresen kapsz olyan kéréseket, amelyeket nem akarsz elfogadni, akkor add hozzá a dokumentációhoz, ezzel elkerülheted, hogy mindig magadat ismételd.
+* **Zárd le a kérést**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+Nem kell több a válaszba mint 1-2 mondat. Például a [celery](https://github.com/celery/celery/) felhasználója jelentett egy Windows-hoz kapcsolódó hibát,  erre @berkerpeksag [így válaszolt](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Ha megijeszt a nemet mondás, ne aggódj, nem vagy egyedül, lásd @jessfraz [írását erről](https://blog.jessfraz.com/post/the-art-of-closing/):
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> Beszéltem karbantartókkal, számos, különböző nyílt forráskódú projektekből, Mesos, Kubernetes, Chromium, és abban mindannyian egyetértettek, hogy a legkeményebb rész a "Nem"-et mondás arra a javításra, amelyet nem akarsz.
 
 Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
 
