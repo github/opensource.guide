@@ -150,10 +150,10 @@ For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts
 ### Share ownership of your project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

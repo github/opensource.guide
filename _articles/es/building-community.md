@@ -145,11 +145,11 @@ Por ejemplo, as&iacute; es como [Rubinius](https://github.com/rubinius/rubinius/
 ### Comparte la propiedad de tu proyecto
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
  Los l&iacute;deres tendr&aacute;n diferentes opiniones, como deber&iacute;a ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces m&aacute;s potentes no ganen siempre por haber cansado a los dem&aacute;s, y que tambi&eacute;n se escuchen las voces menos potentes y minoritarias.
 
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

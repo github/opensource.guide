@@ -143,10 +143,10 @@ Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introdu
 ### Compartilhe a responsabilidade pelo seu projeto
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Seus líderes terão opiniões diferentes, como toda comunidade saudável deve ser! Porém, você precisa tomar certas atitudes para assegurar que a voz mais alta não seja sempre a vencedora, por deixar as outras pessoas cansadas, e que minorias e vozes menos proeminentes sejam ouvidas.
   <p markdown="1" class="pquote-credit">
-  — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+  — @sagesharp, ["What makes a good community?"](http://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

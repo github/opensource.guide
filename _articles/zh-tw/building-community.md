@@ -146,10 +146,10 @@ related:
 ### 分享專案的所有權
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   社群的領導者們有著不一樣的意見，這也是所有健康的社群能夠成長的原因！然而，你也必須在每個環節確保，大多數人的意見不會總是蓋過其他見解，讓傑出的、少數人的意見也能被聽見。
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["是什麼成就一個好的社群？"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["是什麼成就一個好的社群？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
