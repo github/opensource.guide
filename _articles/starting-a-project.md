@@ -35,6 +35,8 @@ To understand how it works, imagine your friend is having a potluck, and you bri
 
 By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
 
+Note "free software" refers to the same set of software as "open source", with an emphasis on freedom. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open soruce software" (FOSS) or "free, libre, and open source software" (FLOSS).
+
 ### Why do people open source their work?
 
 <aside markdown="1" class="pquote">
