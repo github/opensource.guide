@@ -122,36 +122,36 @@ Nem kell több a válaszba mint 1-2 mondat. Például a [celery](https://github.
 
 Ha megijeszt a nemet mondás, ne aggódj, nem vagy egyedül, lásd @jessfraz [írását erről](https://blog.jessfraz.com/post/the-art-of-closing/):
 
-> Beszéltem karbantartókkal, számos, különböző nyílt forráskódú projektekből, Mesos, Kubernetes, Chromium, és abban mindannyian egyetértettek, hogy a legkeményebb rész a "Nem"-et mondás arra a javításra, amelyet nem akarsz.
+> Számos, különböző nyílt forráskódú projektekből beszéltem karbantartókkal, Mesos, Kubernetes, Chromium, és abban mindannyian egyetértettek, hogy a legkeményebb rész a "Nem"-et mondás arra a javításra, amelyet nem akarsz.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Ne érezd magad bűnösnek azért, mert nem fogadsz el egy hozzájárulást. Az első szabálya a nyílt forráskódnak @shykes [szerint](https://twitter.com/solomonstre/status/715277134978113536): _"A nem az átmeneti, az igen az örökös."_ Bár jó érzés a másik ember lelkesedését látni, a hozzájárulás elutasítása nem jelenti a mögötte álló személy elutasítását.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Végül, ha a hozzájárulás nem elég jó, akkor nem vagy köteles elfogadni azt. Légy kedves és közreműködő, ha az emberek hozzájárulnak a projekthez, de csak azokat a változásokat fogadd el, amelyektől valóban azt hiszed, hogy a projekt jobbá válik. Minél gyakrabban gyakorolod a nemet mondást, annál könnyebbé válik.
 
-### Be proactive
+### Legyél proaktív
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+A nemkívánatos hozzájárulások mennyiségének csökkentése érdekében mindenekelőtt mutasd be a hozzájárulási útmutatóban a projekt hozzájárulások benyújtásának és elfogadásának folyamatát.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Ha túl sok gyenge színvonalú hozzájárulást kapsz, kérd meg a közreműködőket, hogy végezzenek el előtte egy kis munkát, például:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Töltsék ki a hibához, vagy beolvasztási kérelemhez rendelt űrlapot, vagy ellenőrző listát
+* Nyissanak egy issue-t, mielőtt beolvasztási kérelmet adnak fel
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Ha nem követik a szabályokat, akkor azonnal zárd le a jelzést és hivatkozd meg a dokumentációt.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Noha ez a megközelítés kezdetben kellemetlennek tűnik, a proaktív fellépés mindkét fél számára jó. Csökkenti annak az esélyét, hogy valaki sok elpazarolt órát fordítson egy beolvasztási kérelembe, amelyet nem fogadsz el. Emellett a munkaterhelés könnyebben kezelhetővé válik.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  Ideális az, ha elmagyarázod egy CONTRIBUTING.md fájlban, hogy miként kaphatnak jobb tájékoztatást a jövőben arról, hogy mit fogadnál el vagy mit nem fogadnál el, még mielőtt a munkát elkezdenék.
   <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["Kedvesen lezárt beolvasztási kérelmek"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Időnként, amikor nemet mondsz, a potenciális közreműködőt felháboríthatja a döntés vagy kritizálhatja azt. Ha a viselkedése ellenségessé válik, akkor [tegyél lépéseket a helyzet enyhítésére](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) vagy akár el is távolíthatod a közösségből a személyt, ha meg sem próbál konstruktívan együttműködni.
 
-### Embrace mentorship
+### Erősítsd a mentorálást
 
 Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
 
