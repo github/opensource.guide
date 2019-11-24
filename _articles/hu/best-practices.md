@@ -153,9 +153,9 @@ Időnként, amikor nemet mondsz, a potenciális közreműködőt felháboríthat
 
 ### Erősítsd a mentorálást
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Lehet, hogy valaki a közösségedben rendszeresen nyújt be olyan hozzájárulásokat, amelyek nem felelnek meg a projekt normáinak. Mindkét fél számára frusztráló lehet az ismételt visszautasítás.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Ha azt látod, hogy valaki lelkesedik a projekted iránt, de egy kis segítségre van szüksége, légy türelmes. Mindig magyarázd el világosan, hogy miért nem felelnek meg a hozzájárulások a projekt elvárásainak. Próbálj ajánlani egy könnyebb vagy kevésbé bonyolult feladatot, például egy feladatot a _"good first issue"_ jelöléssel, hogy a megtegye az első lépéseket. Ha van időd, akkor fontold meg a mentorálásukat az első hozzájárulásuk alkalmával, vagy keress meg valaki mást a közösségében, aki hajlandó mentorálni őket.
 
 ## Leverage your community
 
