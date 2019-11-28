@@ -45,7 +45,7 @@ If you don't see your idea listed, and you think it fits into the goals of this 
 * **If your contribution is minor,** such as a typo fix, open a pull request.
 * **If your contribution is major,** such as a new guide, start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
 
-## Style guide
+## Style guides
 If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the Guides.
 
 ## Setting up your environment
