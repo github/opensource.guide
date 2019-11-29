@@ -1,8 +1,8 @@
+sudo: false
 language: node_js
 node_js:
   - 6
 before_install:
-  - gem install bundler -v 1.16.1
   - rvm install 2.4.3
   - npm install -g npm@5
 install:

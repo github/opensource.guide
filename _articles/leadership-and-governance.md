@@ -3,15 +3,6 @@ lang: en
 title: Leadership and Governance
 description: Growing open source projects can benefit from formal rules for making decisions.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: "Understanding governance for your growing project"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
-  how-do-i-formalize-these-leadership-roles: "How do I formalize these leadership roles?"
-  when-should-i-give-someone-commit-access: "When should I give someone commit access?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
-  do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
