@@ -169,7 +169,7 @@ Az új közreműködők megszerzésének egyik módja az, hogy kifejezetten [oly
 
 Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a projekhez, akkor ismerd el a munkájukat azzal, hogy nagyobb felelősséget adsz számukra. Dokumentáld le, hogy hogyan válhat valaki a projekt irányító tagjává, ha azt szeretné.
 
-Ösztönözz másokat arra, hogy [résztvegyenek a projekt irányításában](../building-community/#share-ownership-of-your-project) ezzel jelentősen csökkented a saját terhelésed, mint ahogy @lmccart észrevette ezt a saját projektjénél, [p5.js](https://github.com/processing/p5.js).
+Ösztönözz másokat arra, hogy [résztvegyenek a projekt irányításában](../building-community/#a-projekt-tulajdonjogának-megosztása) ezzel jelentősen csökkented a saját terhelésed, mint ahogy @lmccart észrevette ezt a saját projektjénél, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -257,7 +257,7 @@ Lehet, hogy túlterhelten érzed magad, vagy szorongást okoz, amikor a projektj
 
 A kiégés létező és széles körben ismert probléma a nyílt forráskódú munkákban, különösen a karbantartók körében. Karbantartóként a megelégedettséged megkérdőjelezhetetlen követelmény a nyílt forráskódú projekted fennmaradásához.
 
-Magától értetődik, hogy szükség van pihenésre! Nem szabad elodázni a pihenést addid, amíg kiégsz. Például @brettcannon, a Python magfejlesztője úgy döntött, hogy [egy hónapos vakációt vesz ki](https://snarky.ca/why-i-toto-october-off-from-oss-volunteering/) 14 éve folyamatosan tartó, önkéntes OSS munka után.
+Magától értetődik, hogy szükség van pihenésre! Nem szabad elodázni a pihenést addid, amíg kiégsz. Például @brettcannon, a Python magfejlesztője úgy döntött, hogy [egy hónapos vakációt vesz ki](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) 14 éve folyamatosan tartó, önkéntes OSS munka után.
 
 Mint minden más munka esetén a rendszeres pihenők tartása felfrissít, boldogabbá teszt és fokozza a munkád iránti vágyadat.
 

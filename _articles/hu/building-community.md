@@ -143,95 +143,96 @@ Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubin
 
 > Mindenekelőtt azzal szeretnénk kezdeni, hogy köszönjük azt, hogy használod a Rubinius-t. Ez a projekt szeretetteljes munkát jelent, és nagyra értékeljük az összes felhasználót, aki hibákat észlel, javít a teljesítményben és segítséget nyújt a dokumentációban. Minden hozzájárulás hasznos, ezért köszönjük a részvételed. Kérjük néhány iránymutatást tarts be, hogy sikeresen meg tudjuk oldani a problémádat.
 
-### Share ownership of your project
+### A projekt tulajdonjogának megosztása
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  A vezetőid eltérõ véleményekkel rendelkezhetnek, ahogy általában minden egészséges közösségnek! Oda kell figyelned azonban annak biztosítására, hogy ne mindig a leghangosabb hang nyerjen az emberek kifárasztásával, és hogy kevésbé prominens személyek és a kisebbségi hangok is hallatszódjanak.
   <p markdown="1" class="pquote-credit">
-— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["Mitől jó egy közösség?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+Az emberek örömmel járulnak hozzá a projektekhez, ha maguknak érzik azt. Ez nem azt jelenti, hogy át kell szabni a projekt víziódat, vagy el kell fogadni a nem kívánt hozzájárulásokat. De minél többet adsz ebből másoknak, annál jobban magukénak fogják érezni.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mértékben megosszd a tulajdont a közösséggel. Íme néhány ötlet:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Állj ellen az egyszerű (nem kritikus) hibák javításának.** Ehelyett használd ezeket a hibákat arra, hogy új segítőket toborozz toborzására, vagy mentorálj valakit, aki szeretne hozzájárulni. Bár furcsának tűnhet, de ez a befektetés idővel megtérül. Például a @michaeljoseph megkérte az egyik közreműködőt, hogy nyújtson be beolvasztási kérelmet egy alábbi, [Cookiecutter] (https://github.com/audreyr/cookiecutter) hibával kapcsolatosan, ahelyett, hogy saját maga javította volna ki.
 
-![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![Cookiecutter hiba](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) does.
+* **Állíts össze egy CONTRIBUTORS vagy AUTHORS fájlt a projektben,** amely listáz mindenkit aki hozzájárul a projekthez. Például ahogy a [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) csinálja.
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* Ha széles közösséged van, **akkor küldj ki hírlevelet vagy vezess blogot** amelyen megköszönöd a hozzájárulásokat. A Rust-nak a [Heti Rust](https://this-week-in-rust.org/) és a Hoodie-nak a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) két jó példa erre.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Minden közreműködő kapjon commit jogot.** @felixge szerint az emberek [sokkal aprólékosabban kidolgozzák a hozzájárulásukat](https://felixge.de/2013/03/11/the-pull-request-hack.html), és még több karbantartót lehet bevonni, akik esetleg korábban passzívak voltak.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* Ha a projekted a GitHub-on van, **akkor mozgasd a projektet át a személyes fiókod alól a [Szervezeti Fiók](https://help.github.com/articles/creating-a-new-organization-account/)** alá és adj hozzá legalább egy admint még biztonság esetére. Az Szervezeti Fiók alkalmasabb külső résztvevők bevonására.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+A valóságban [a legtöbb projektnek](https://peerj.com/preprints/1233.pdf) csak egy, két karbantartója van. Minél nagyobb a projekted, és a közösséged, annál könnyebb segítséget találni.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+Bár nem mindig válaszolnak a felhívásodra, de egy jelzés kiküldése növeli az esélyét, hogy valaki reagál majd rá. És minél előbb megteszed ezt, annál hamarabb segíthetnek az emberek.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  A te érdeked az, hogy olyan munkatársakat toborozz, akik élvezik és képesek megtenni azokat a dolgokat, amelyeket te nem. Szereted a kódolást, de nem válaszolsz a kérdésekre? Keresd meg azokat a személyeket a közösségben, akik ezt megteszik, és hagyd őket dolgozni.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Befogadó közösségek"](http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
-## Resolving conflicts
+## Konfliktusok megoldása
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+A projekt korai szakaszában a fontos döntések meghozatala egyszerű. Ha akarsz csinálni valamit, akkor csak megcsinálod.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+Ahogy a projekt népszerűbbé válik, egyre több embert érdekelnek majd az általad meghozott döntések. Még ha nem is rendelkezel nagy közreműködő közösséggel, de a projektnek már sok felhasználója van, akkor találni fogsz olyan embereket, akik a döntéseket mérlegelni fogják, vagy a saját kifogásaikat megfogalmazzák.
 
 For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+Nagyrészt barátságos és tiszteletteljes közösség esetén és nyíltan dokumentált folyamat esetén találni fogsz megoldást. De néha olyan helyzetbe kerülhetsz, amit kicsit nehezebb lesz megoldani.
 
-### Set the bar for kindness
+### Viselkedéseddel mutass példát
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+Ha a közösség egy nehéz kérdéssel kerül szembe, akkor emelkedetté válhat a hangulat. Az emberek dühösek vagy csalódottak lehetnek, és ezt egymáson vagy épp rajtad vezethetik le.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#ne-tűrd-meg-a-rosszul-viselkedőket) to keep discussions civil and productive.
+Mint karbantartó az a feladatod, hogy ezt a szituációt ne engedd eszkalálódni. Még ha határozott véleményed is van az adott témában, próbáld felvenni a moderátor és az egyeztető szerepet inkább ahelyett, hogy fejest ugranál a csatározásba, és a nézetedet erőltetnéd. Ha valaki barátságtalan, vagy kisajátítja a beszélgetést, akkor [azonnal cselekedj](../building-community/#ne-tűrd-meg-a-rosszul-viselkedőket), hogy a beszélgetés udvarias és produktív maradjon.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  Karbantartóként rendkívül fontos, hogy tiszteld a közreműködőket. Gyakran megfogadják azt, amit személyesen nekik mondasz.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+Mások útmutatást kérnek tőled, mutass jó példát. Bátran kifejezheted a csalódottságod, szomorúságod vagy aggodalmadat, de ezt mindig nyugodtan tedd.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+A nyugalom megtartása nem könnyű, de ennek demonstrálása a projekt vezetés által javítja a közösséget. Az internet meg fogja köszönni.
 
-### Treat your README as a constitution
+### A README-t alkotmányként kezeld
 
-Your README is [more than just a set of instructions](../starting-a-project/#readme-írása). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+A README fájlod [több mint utasítások összessége](../starting-a-project/#readme-írása). Ez egy olyan hely, ahol beszélhetsz a céljaidról, a termék jövőképéről és az ütemtervről. Ha az emberek túlzottan arra koncentrálnak, hogy megvitatják egy adott funkció értékességét, akkor előfordulhat, hogy át kell értékelned a README-t és még pontosabban kell definiálnod a projekt vízióját. A README szem előtt tartása személytelenebbé teszi a beszélgetést, így az konstruktív maradhat.
 
-### Focus on the journey, not the destination
+### Az útra figyelj, ne a végcélra
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+Egyes projektek szavazási folyamatot használnak a nagyobb döntések meghozatalához. Bár a szavazás első pillantásra ésszerű, a szavazás inkább a "válasz" elérésére helyezi a hangsúlyt, ahelyett, hogy meghallgatná és kezelné a véleményeket.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+A szavazás politikai jellegűvé válhat, amikor a közösség tagjai nyomást gyakorolnak egymásra, hogy egymást előnyben részesítsék, vagy bizonyos módon szavazzanak. Nem mindenki szavaz, függetlenül attól, hogy a [néma többségről](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users), vagy a jelenlegi felhasználókról van szó, akik épp nem tudták, hogy szavazás zajlik.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+Időnként a szavazás szükségessé válik. Mindazonáltal, amennyire képes vagy, hangsúlyozd a ["konszenzus keresését"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) a létrehozott konszenzus helyett.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+Konszenzuskeresési folyamat keretében a közösség tagjai megbeszélik a legfontosabb problémákat, amíg úgy nem érzik, hogy mindenkit meg nem hallgattak. Amikor csak apró észrevételek maradnak már csak, akkor a közösség tovább haladhat. A "konszenzuskeresés" elismeri azt, hogy a közösség nem biztos, hogy képes megtalálni a tökéletes választ. Ehelyett egymás meghallgatását, és a beszélgetést részesíti előnyben.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+  Az egyik ok, amiért nem létezik szavazási rendszer az Atom Issues számára az, hogy az Atom csapata nem minden esetben követi a szavazás módszerét. Időnként azt kell választanunk, hogy mit érzünk helyesnek, még akkor is, ha az nem éppen népszerű. (...) Amit felajánlhatok és vállalhatok az, hogy a közösség meghallgatása az én dolgom.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm az [Atom döntési folyamata](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+Ha karbantartóként nem használod a konszenzuskeresési folyamatot, akkor is fontos, hogy az emberek tudják, hogy figyelsz rájuk. Érezzék, hogy meghallgatod őket, és elkötelezed magad a problémáik megoldása mellett, ez a tartós módja annak, hogy elkerüld a komolyabb, kiterjedt problémákat. A szavak után lépj a tettek mezejére.
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+Ne siess a döntéssel annak érdekében, hogy megold. Mielőtt állást foglalnál egy kérdésben, győződj meg arról, hogy mindenki úgy érzi-e, hogy meghallgatták és hogy minden információ ezzel kapcsolatban nyilvánosságra került.
 
 ### Keep the conversation focused on action
 
