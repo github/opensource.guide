@@ -249,11 +249,11 @@ Ellenben, ha a szabályok túl komplikáltak, akkor akadályozzák a hozzájáru
 
 Ha nem vagy biztos abban milyen eszközt kellene használnod, akkor nézz meg más, ismert projekteket, különösen a te ökoszisztémádhoz tartozók közül. Például megnézheted, hogy hogyan néz ki egy hozzájárulási folyamat más Node modulok esetén? Hasonló eszközök és megközelítések alkalmazása segít abban, hogy a folyamatod a hozzájárulók számára már ismert legyen.
 
-## It's okay to hit pause
+## Teljesen rendben van, ha pihensz kicsit
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+Eddig a nyílt forráskódú munka örömet okozott neked, de lehet hogy most már túlterhel téged, ami miatt kerülőd és büntudatod van.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+Lehet, hogy túlterhelten érzed magad, vagy szorongást okoz, amikor a projektjeidre gondolsz, és mindeközben a kérdések és a beolvasztási kérelmek  felhalmozódnak.
 
 Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
 
