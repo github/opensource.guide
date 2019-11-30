@@ -87,21 +87,21 @@ Még ha a kérelmet nem is tudod azonnal átvizsgálni, a korai befogadás segí
 
 A projekttel kapcsolatos beszélgetések az internet más részein is zajlanak, például a StackOverflow, a Twitter vagy a Reddit oldalain. Ezen helyek egy részén értesítéseket állíthatsz be, így figyelmeztetést kapsz, ha valaki megemlíti a projektedet.
 
-### Give your community a place to congregate
+### Biztosíts egy helyet a közösségednek
 
-There are two reasons to give your community a place to congregate.
+Két oka is van, hogy miért kell a közösségnek egy helyet biztosítani, ahol összejöhetnek.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+Az első ok ők maguk. Segíts az embereknek megismerni egymást. A közös érdeklődésű emberek szeretnének egy helyet, ahol lehet beszélgetni. És amikor a kommunikáció nyilvános és hozzáférhető, bárki elolvashatja a múltbeli archívumokat, hogy felvegye a ritmust és hogy részt vegyen a párbeszédben.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+A másik ok te vagy. Ha nem biztosítasz egy nyilvános helyet az embereknek ahol a projektjéről lehet beszélni, akkor valószínűleg közvetlenül téged keresnek meg. A kezdetben ez könnyűnek tűnhet, ha a magánüzenetekre csípőből válaszolunk. De az idő múlásával, különösen, ha a projekt népszerűvé válik, kimerülten fogod magad érezni. Állj ellen annak a kísértésnek, hogy privát módon kommunikálj az emberekkel a projekttel kapcsolatosan. Ehelyett irányítsd őket egy kijelölt és nyilvános csatornára.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+A nyilvános kommunikáció egyszerű lehet, ha arra kéred az embereket, hogy nyissanak egy hibajegyet, ahelyett, hogy közvetlenül e-mailen küldnének azt, vagy megjegyzést fűznének a blogodhoz. Beállíthatsz egy levelezőlistát, vagy létrehozhatsz egy Twitter fiókot, Slack vagy akár egy IRC csatornát arra, hogy az emberek beszéljenek a projektedről. De akár próbálkozhatsz mindegyikkel!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) minden második héten biztosít időt arra, hogy segítse a közösség tagjait:
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
+> Kopsnak minden második héten van elkülönített ideje arra, hogy segítséget és útmutatást nyújtson a közösség számára. A Kops fenntartói megállapodtak abban, hogy külön időt fordítanak az újonnan érkezőkkel való együttműködésre, a PR-ekkel kapcsolatos segítségnyújtásra és az új funkciók megvitatására.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+A nyilvános kommunikáció alól kivételt képeznek: 1) biztonsági kérdések és 2) érzékeny magatartási kódex megsértése. Az embereknek mindig képesnek kell lenniük arra, hogy ezeket a kérdéseket privát módon jelentsék be. Ha nem akarod használni a személyes e-mail címed, akkor állíts be egy külön e-mail címet erre a célra.
 
 ## Growing your community
 
