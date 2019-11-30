@@ -101,7 +101,7 @@ A nyilvános kommunikáció egyszerű lehet, ha arra kéred az embereket, hogy n
 
 > Kopsnak minden második héten van elkülönített ideje arra, hogy segítséget és útmutatást nyújtson a közösség számára. A Kops fenntartói megállapodtak abban, hogy külön időt fordítanak az újonnan érkezőkkel való együttműködésre, a PR-ekkel kapcsolatos segítségnyújtásra és az új funkciók megvitatására.
 
-A nyilvános kommunikáció alól kivételt képeznek: 1) biztonsági kérdések és 2) érzékeny magatartási kódex megsértése. Az embereknek mindig képesnek kell lenniük arra, hogy ezeket a kérdéseket privát módon jelentsék be. Ha nem akarod használni a személyes e-mail címed, akkor állíts be egy külön e-mail címet erre a célra.
+A nyilvános kommunikáció alól kivételt képeznek: a 1) biztonsági kérdések és a 2) magatartási kódex megsértése. Az embereknek mindig képesnek kell lenniük arra, hogy ezeket a kérdéseket privát módon jelentsék be. Ha nem akarod használni a személyes e-mail címed, akkor állíts be egy külön e-mail címet erre a célra.
 
 ## Growing your community
 
