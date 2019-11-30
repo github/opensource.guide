@@ -53,39 +53,39 @@ Más közreműködők ösztönzése számodra is hasznos befektetés. Ha támoga
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  Voltál már valaha olyan (tech-) rendezvényen, ahol nem ismertél senkit, de úgy tűnt számodra, hogy mindenki más csoportokban áll és beszélget, mint a régi barátok? (...) Most képzeld el, hogy hozzá szeretnél járulni egy nyílt forráskódú projekthez, de nem tudod, miként és hogyan lehetséges ez.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Fenntartható Nyílt Forráskód"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+Amikor új projektet indítasz, természetesnek tűnhet, hogy a munkádat nem publikálod. De a nyílt forráskódú projektek akkor sikeresek, ha a folyamatait nyilvánosan dokumentálod.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+Amikor leírod a dolgokat, több ember vehet részt a projekt minden lépésében. Segíthet akár olyan dolgokban is, amelyekre még nem is gondoltad volna, hogy szükséged van.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+A dolgok leírása nem csupán a műszaki dokumentációt jelent. Bármikor, amikor azt érzed, hogy le kell írni valamit, vagy egy magánbeszélgetést folytattál a projektről, gondolkozz el arról, hogy nyilvánosságra tudod-e hozni azt.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Legyen átlátható a projekt ütemterve, a várt hozzájárulások típusai, vagy azok áttekintésének módja és akár az is, hogy miért hoztál meg bizonyos döntéseket.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+Ha több felhasználó jelzi ugyanazt a problémát, akkor dokumentáld a válaszokat a README részben.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+Találkozók alkalmával fontold meg a megjegyzések vagy döntések közzétételét egy vonatkozó kérdésben. Az ilyen átláthatóság szintjén kapott visszajelzés lehet meg fog lepni.
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+Mindennek a dokumentálása az te általad végzett munkára is vonatkozik. Ha a projekt lényeges frissítésén dolgozol,akkor add fel beolvasztási kérelemként és jelöld meg folyamatban lévő munkaként (WIP). Ily módon más emberek már korán bekapcsolódhatnak folyamatba és maguknak érzik azt.
 
-### Be responsive
+### Legyél reszponzív
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+Amint [ismertté próbálod tenni a projektet](../finding-users), az emberek visszajelzéseket fognak küldeni neked. Lesznek kérdéseik a működéséről, vagy épp segítségre lehet szükségük az induláshoz.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+Próbáljon reagálni, ha valaki problémát vagy beolvasztási kérelmet nyújt be, vagy kérdést tesz fel a projekttel kapcsolatban. Ha gyorsan reagálsz, az emberek úgy érzik, hogy részesei a párbeszédnek, és lelkesebben fognak részt venni.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+Még ha a kérelmet nem is tudod azonnal átvizsgálni, a korai befogadás segít növelni az elkötelezettséget. Így válaszolt @tdreyno a [Middleman](https://github.com/middleman/middleman/pull/1466) egyik beolvasztási kérelmére:
 
-![Middleman pull request](/assets/images/building-community/middleman_pr.png)
+![Middleman beolvasztási kérelem](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Egy Mozilla tanulmány szerint](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) azoknak a válaszadóknak, akik 48 órán belül megkapták a kód review eredményét, sokkal magasabb volt a visszatérési aránya a projekthez és a hozzájárulása ahhoz.
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+A projekttel kapcsolatos beszélgetések az internet más részein is zajlanak, például a StackOverflow, a Twitter vagy a Reddit oldalain. Ezen helyek egy részén értesítéseket állíthatsz be, így figyelmeztetést kapsz, ha valaki megemlíti a projektedet.
 
 ### Give your community a place to congregate
 
