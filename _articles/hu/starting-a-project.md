@@ -164,7 +164,7 @@ Továbbiakért nézd meg @dguo ["README" útmutató készítése](https://www.ma
 
 Amikor a README állományt a főkönyvtárba teszed, a GitHub automatikusan megjeleníti azt a kódtározó főoldalán.
 
-### Részvételi irányelvek útmutatója
+### Részvételi irányelvek leírása
 
 A CONTRIBUTING állomány közli az emberekkel, hogy hogyan lehet résztvenni a projektben. Például ezeket az információkat lehet megadni:
 

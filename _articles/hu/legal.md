@@ -154,4 +154,4 @@ Hosszabb távon a jogi csapat többet tehet azért, hogy segítsen a vállalatna
 </aside>
 
 * **Nyílt szabadalmak és védelem:** A céged lehet szívesen csatlakozna az [Open Invention Network](https://www.openinventionnetwork.com/)-höz, megosztott szabadalomvédelmi társulat, a tagok nagyobb, nyílt forráskódú projektjeinek használatának a megóvására, vagy más, [alternatív szabadalmi engedélyezésére](https://www.eff.org/document/hacking-patent-system-2016).
-* **Egyéb irányítás:** Különösen, ha [jogi személy önállóan, a cégtől függetlenül](../leadership-and-governance/#szükségem-van-egy-jogi-személyre-a-projektem-támogatására) végzi az irányítást.
+* **Egyéb irányítás:** Különösen, ha [jogi személy önállóan, a cégtől függetlenül](../leadership-and-governance/#szükségem-van-egy-jogi-személyre-a-projektem-támogatásához) végzi az irányítást.

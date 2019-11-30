@@ -1,7 +1,7 @@
 ---
 lang: hu
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+title: Építs befogadó közösséget
+description: Olyan közösség építése, amely bátorítja az embereket a használatra, a részvételre és a projekt hírnevének terjesztésére.
 class: building
 order: 4
 image: /assets/images/cards/building.png
@@ -10,46 +10,46 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## Sikeres projekt összeállítása
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+Elindítottad a projektet, próbálod ismertté tenni, és az emberek megnézik. Fantasztikus! De hogy fogod őket megtartani?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+A befogadó közösség egy befektetés a projekt jövőjébe és megítélésébe. Ha a projekt éppen most kezdi fogadni az első hozzájárulásokat, akkor kezd azzal, hogy az első közreműködők pozitív tapasztalatokat kapjanak, és könnyítsd meg nekik, hogy folyamatosan visszatérjenek.
 
-### Make people feel welcome
+### Érezzék az emberek, hogy szívesen látod őket
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+Gondolj a projekt közösségére például úgy, ahogyan @MikeMcQuaid amit ő [résztvevői tölcsérnek](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) nevezett el:
 
-![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![résztvevői tölcsér](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+A közösség felépítése során fontold meg, hogy a tölcsér tetejéről valaki (potenciális felhasználó) hogyan tud eljutni a tölcsér aljára (aktív karbantartó). Cél, hogy minden résztvevő tapasztalatát javítsd ezeken a szakaszokon. Amikor az emberek könnyen érnek el eredményt, az ösztönözni fogja őket, hogy még többet tegyenek.
 
-Start with your documentation:
+Kezd a dokumentációkkal:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
-* **Good first issues**: To help new contributors get started, consider explicitly [labeling issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing useful contributions, and reducing friction from users tackling issues that are too hard for their level.
+* **Tedd egyszerűvé, hogy valaki használhassa a projektedet!** [Egy batátságos README](../starting-a-project/#readme-írása) és tiszta kód példák mindenkit hozzásegítenek ahhoz, hogy könnyen el tudjanak indulni.
+* **Tisztán és érthetően magyarázd el, hogy hogyan lehet hozzájárulni**, használd a [ CONTRIBUTING fájlodat](../starting-a-project/#részvételi-irányelvek-leírása) és a hibajelzéseket tartsd naprakészen.
+* **Good first issues**: Az új hozzájárulókat segíti az, ha egyértelműen [jelezve van címkével az az issue, amely kezdőknek ajánlott](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub egyértelműen megmutatja ezeket az issue-kat, és ezzel segíti a hasznos hozzájárulásokat úgy, hogy a hozzájáruló szintjének megfelelő hibát ajánl megoldásra.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+[A GitHub 2017. évi nyílt forráskódú felmérése](http://opensourcesurvey.org/2017/) azt mutatta ki, hogy a félkész és zavaros dokumentáció a legnagyobb probléma a felhasználók számára. A jó dokumentáció beszippantja az embereket a projektbe: egyszercsak valaki nyit egy hibajelzést, vagy beküld egy beolvasztási kérelmet. Használd ki ezeket a lehetőségeket, hogy az emberek tovább mozogjanak lefelé a _résztvevői tölcséren_.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **Ha valaki újként jelenik meg a projektben, akkor köszönd meg neki az érdeklődését!** Egyetlen egy negatív tapasztalat is elég ahhoz, hogy valaki ne jöjjön vissza többé a projekthez.
+* **Legyél reszponzív!** Ha hónapokig nem válaszol a problémájára valakinek, nagy esély van rá, hogy elfelejti a projektedet.
+* **Légy nyitott gondolkodású az új hozzájárulások elfogadásakor!** Sok hozzájáruló hibák jelzésével vagy apró javításokkal kezdi. [Számos módja van a hozzájárulásoknak](../how-to-contribute/#mit-jelent-a-hozzájárulás) a projekthez. Hagy segítsenek az emberek úgy, ahogy ők akarnak.
+* **Ha van olyan hozzájárulás, amivel nem értesz egyet,** akkor köszönd meg az ötletet, és [magyarázd el miért](../best-practices/#meg-kell-tanulni-nemet-mondani) nem felel meg a projekt víziónak és csatold a hivatkozásokat a dokumentációidból.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  A nyílt forrásban való részvétel valaki könnyebb, valakinek nehezebb. Attól tarthat valaki, hogy pellengérre állítják, ha nem tesz valamit helyesen, vagy ha nem illeszkedik be. (...) Azáltal, hogy a nagyon alacsony műszaki jártassággal rendelkező közreműködőknek is megadjuk a lehetőséget a hozzájárulásra (dokumentáció, tartalom, stb.), nagymértékben csökkenthetjük ezt az aggodalmat.
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+— @mikeal, ["Közreműködői bázis bővítése a modern nyílt forráskódban"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+A nyílt forráskódú közreműködők többsége "alkalmi közreműködő": olyan emberek, akik csak alkalmanként járulnak hozzá a projekthez. Előfordulhat, hogy egy alkalmi közreműködőnek nincs ideje teljes mértékben felkészülni a projektre, ezért az a feladatod, hogy megkönnyítsd számukra a hozzájárulást ilyen esetekben is.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Más közreműködők ösztönzése számodra is hasznos befektetés. Ha támogatod a projekt legnagyobb rajongóit abban, hogy azon dolgozzanak amin szeretnének, akkor kevesebb lesz a nyomás rajtad, hogy mindent te csinálj.
 
-### Document everything
+### Dokumentálj mindent
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
