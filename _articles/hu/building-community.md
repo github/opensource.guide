@@ -107,7 +107,7 @@ A nyilvános kommunikáció alól kivételt képeznek: a 1) biztonsági kérdés
 
 A közösség rendkívül erős dolog. Ez a hatalom áldás vagy átok lehet, attól függően, hogy hogyan kezeled. Ahogy a projekt közössége növekszik, vannak olyan módok, amelyek segítenek abban, hogy ez az erő az építés, és ne pusztítás erőjévé váljon.
 
-### Ne tűrd meg a rosszul viselkedőket
+### Ne tűrd el a helytelen viselkedést
 
 Bármely népszerű projekt elkerülhetetlenül vonzza azokat az embereket, akik ahelyett, hogy segítséget nyújtanának a közösségnek inkább ártanak neki. Lehet, hogy felesleges vitákat indítanak, felkavaró kritikákat fogalmaznak meg alapvető funkciókról, vagy másokat piszkálhatnak.
 
@@ -123,7 +123,7 @@ Tegyél meg mindent, hogy zéró toleranciát tanusíts az ilyen típusú embere
 
 A projekt triviális szempontjairól folytatott rendszeres vita zavarhat másokat, köztük téged is, és elvonja a figyelmet a fontos feladatokról. A projektbe érkező új emberek láthatják ezeket a beszélgetéseket, és emiatt nem akarnak részt venni majd benne.
 
-Ha azt látod, hogy negatív viselkedés történt a projektben, azt hozd nyilvánosságra. Magyarázd el kedvesen, de határozott hangon, hogy miért nem fogadható el ez a viselkedés. Ha a probléma továbbra is fennáll, akkor lehet, hogy [fel kell kérned az érintettet a távozásra](../code-of-conduct/#a-magatartási-kódex-érvényesítése). A [Magatartási kódexed](../code-of-conduct/) konstruktív útmutatást jelenthet ezekhez a beszélgetésekhez.
+Ha negatív viselkedést látsz a projektben, azt hozd nyilvánosságra. Magyarázd el kedvesen, de határozott hangon, hogy miért nem fogadható el ez a viselkedés. Ha a probléma továbbra is fennáll, akkor lehet, hogy [fel kell kérned az érintettet a távozásra](../code-of-conduct/#a-magatartási-kódex-érvényesítése). A [Magatartási kódexed](../code-of-conduct/) konstruktív útmutatást jelenthet ezekhez a beszélgetésekhez.
 
 ### Maradj kapcsolatban
 
@@ -194,7 +194,7 @@ Nagyrészt barátságos és tiszteletteljes közösség esetén és nyíltan dok
 
 Ha a közösség egy nehéz kérdéssel kerül szembe, akkor emelkedetté válhat a hangulat. Az emberek dühösek vagy csalódottak lehetnek, és ezt egymáson vagy épp rajtad vezethetik le.
 
-Mint karbantartó az a feladatod, hogy ezt a szituációt ne engedd eszkalálódni. Még ha határozott véleményed is van az adott témában, próbáld felvenni a moderátor és az egyeztető szerepet inkább ahelyett, hogy fejest ugranál a csatározásba, és a nézetedet erőltetnéd. Ha valaki barátságtalan, vagy kisajátítja a beszélgetést, akkor [azonnal cselekedj](../building-community/#ne-tűrd-meg-a-rosszul-viselkedőket), hogy a beszélgetés udvarias és produktív maradjon.
+Mint karbantartó az a feladatod, hogy ezt a szituációt ne engedd eszkalálódni. Még ha határozott véleményed is van az adott témában, próbáld felvenni a moderátor és az egyeztető szerepet inkább ahelyett, hogy fejest ugranál a csatározásba, és a nézetedet erőltetnéd. Ha valaki barátságtalan, vagy kisajátítja a beszélgetést, akkor [azonnal cselekedj](../building-community/#ne-tűrd-el-a-helytelen-viselkedést), hogy a beszélgetés udvarias és produktív maradjon.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -218,7 +218,7 @@ Egyes projektek szavazási folyamatot használnak a nagyobb döntések meghozata
 
 A szavazás politikai jellegűvé válhat, amikor a közösség tagjai nyomást gyakorolnak egymásra, hogy egymást előnyben részesítsék, vagy bizonyos módon szavazzanak. Nem mindenki szavaz, függetlenül attól, hogy a [néma többségről](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users), vagy a jelenlegi felhasználókról van szó, akik épp nem tudták, hogy szavazás zajlik.
 
-Időnként a szavazás szükségessé válik. Mindazonáltal, amennyire képes vagy, hangsúlyozd a ["konszenzus keresését"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) a létrehozott konszenzus helyett.
+Időnként a szavazással történik a szükséges döntéshozás. Mindazonáltal, amennyire képes vagy, hangsúlyozd a ["konszenzus keresését"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) a létrehozott konszenzus helyett.
 
 Konszenzuskeresési folyamat keretében a közösség tagjai megbeszélik a legfontosabb problémákat, amíg úgy nem érzik, hogy mindenkit meg nem hallgattak. Amikor csak apró észrevételek maradnak már csak, akkor a közösség tovább haladhat. A "konszenzuskeresés" elismeri azt, hogy a közösség nem biztos, hogy képes megtalálni a tökéletes választ. Ehelyett egymás meghallgatását, és a beszélgetést részesíti előnyben.
 
@@ -234,44 +234,44 @@ Ha karbantartóként nem használod a konszenzuskeresési folyamatot, akkor is f
 
 Ne siess a döntéssel annak érdekében, hogy megold. Mielőtt állást foglalnál egy kérdésben, győződj meg arról, hogy mindenki úgy érzi-e, hogy meghallgatták és hogy minden információ ezzel kapcsolatban nyilvánosságra került.
 
-### Keep the conversation focused on action
+### A cselekvés legyen a fókuszban
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+A beszélgetés fontos, de különbség van a produktív és a nem produktív beszélgetések között.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+Támogassa a párbeszédet mindaddig, amíg az a megoldást szolgálja. Ha a párbeszéd egyértelműen tárgytalanná, személyeskedővé válik, vagy félrecsúszik, esetleg az emberek lényegtelen, apró részletekkel kezdenek el foglalkozni, akkor ideje leállítani a megbeszélést.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+Ezen beszélgetések továbbengedése nem csak a jelenlegi probléma kezelésére, hanem a közösség egészségére is káros lehet. Azt üzeni, hogy az ilyen típusú beszélgetések megengedettek vagy akár bátoríthatók, ennek következménye, hogy ez visszatarthatja az embereket a jövőbeli kérdések felvetésétől vagy megoldásától.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+Ha már mások minden észrevételét meghallgattad, akkor kérdezd meg magadtól: _"Hogyan visz ez minket közelebb a megoldáshoz?"_
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+Ha a beszélgetés kezd letisztulni, akkor kérdezd meg a csoportot: _"Mi legyen a következő lépés?"_, ezzel továbbra is fókuszálva tartod a beszélgetést.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+Ha egy beszélgetés nyilvánvalóan nem vezet sehova, vagy nincs egyértelmű intézkedés amit végre kell hajtani, vagy az már meg is megtörtént, akkor zárd le a problémát, és indokold meg, miért zártad le.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+  A beszélgetés szálának irányítása a hasznosság felé, anélkül hogy feszültség keletkezne, művészet. Nem működik egyszerűen az emberek figyelmeztetése arra, hogy hagyják abba az idő pazarlását, vagy arra, hogy ne küldjenek több felesleges üzenetet, hacsak nincs valami konstruktív mondanivalójuk. (...) Ehelyett javasolnod kell a továbbhaladás lehetőségeket: mutass az embereknek egy utat, amely a kívánt eredményekhez vezethet, mégpedig anélkül, hogy ez úgy tűnne, hogy parancsolgatsz nekik.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_OSS létrehozása_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
-### Pick your battles wisely
+### Válassz okosan csatát
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+Fontos a környezet. Gondold át, hogy kik vesznek részt a vitában, és hogyan képviselik a közösség többi részét.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+A közösség minden tagja ideges, vagy éppen elragadtatott a kérdéssel kapcsolatban? Vagy egy magányos bajkeverő műve az egész? Ne felejts el figyelni a közösség csendes tagjait, nem csak a hangoskodókat halld meg.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+Ha a téma nem a közösség szélesebb körű igényeit képviseli, akkor el kell fogadni az aggódó hangokat. Ha ez egy rendszeresen visszatérő probléma, egyértelmű megoldás nélkül, akkor mutass rá a témával kapcsolatos korábbi megbeszélésekre, és zárd be a szálat.
 
-### Identify a community tiebreaker
+### Keress döntéshozókat a közösségben
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+Jó hozzáállással, és egyértelmű kommunikációval a legnehezebb helyzetek is megoldhatók. De még egy eredményes beszélgetés után is eltérhet a vélemény arról, hogy hogyan kell folytatni. Ezekre az esetekre keress egy embert vagy embercsoportot, akik döntéshozóként szolgálnak.
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+A döntéshozó lehet a projekt karbantartója, vagy akár egy kis embercsoport, akik szavazás alapján hoznak döntést. Ideális az ha, a döntéshozókat és a kapcsolódó folyamatot egy GOVERNANCE fájlban részletezed.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+A döntéshozódnak az utolsó lehetőségnek kell lennie. A megosztó kérdések a közösség növekedésének és tanulásának a lehetőségét jelentik. Ragadd meg ezeket a lehetőségeket, és használd az együttműködési folyamatot a megoldáshoz, amikor csak lehetséges.
 
-## Community is the ❤️ of open source
+## A nyílt forráskód ❤️ a közösséget
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+Az egészséges, virágzó közösségek heti több ezer órát fordítanak a nyílt forráskódra. Számos résztvevő másokra hivatkozik, hogy miért dolgozik – vagy éppen miért nem dolgozik –, a nyílt forráskódon. Ha megtanulod kreatívan használni a közösség erejét, akkor hozzásegítesz valakit majd ahhoz, hogy felejthetetlen élményeket szerezzen a nyílt forráskódban.
