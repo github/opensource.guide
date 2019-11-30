@@ -249,32 +249,32 @@ Ellenben, ha a szabályok túl komplikáltak, akkor akadályozzák a hozzájáru
 
 Ha nem vagy biztos abban milyen eszközt kellene használnod, akkor nézz meg más, ismert projekteket, különösen a te ökoszisztémádhoz tartozók közül. Például megnézheted, hogy hogyan néz ki egy hozzájárulási folyamat más Node modulok esetén? Hasonló eszközök és megközelítések alkalmazása segít abban, hogy a folyamatod a hozzájárulók számára már ismert legyen.
 
-## Teljesen rendben van, ha pihensz kicsit
+## Teljesen rendben van, ha szünetet tartasz
 
-Eddig a nyílt forráskódú munka örömet okozott neked, de lehet hogy most már túlterhel téged, ami miatt kerülőd és büntudatod van.
+Eddig a nyílt forráskódú munka örömet okozott neked, de lehet hogy most már túlterhel téged, ami miatt kerülöd, és emiatt büntudatod van.
 
-Lehet, hogy túlterhelten érzed magad, vagy szorongást okoz, amikor a projektjeidre gondolsz, és mindeközben a kérdések és a beolvasztási kérelmek  felhalmozódnak.
+Lehet, hogy túlterhelten érzed magad, vagy szorongást okoz, amikor a projektjeidre gondolsz, és mindeközben a kérdések és a beolvasztási kérelmek felhalmozódnak.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+A kiégés létező és széles körben ismert probléma a nyílt forráskódú munkákban, különösen a karbantartók körében. Karbantartóként a megelégedettséged megkérdőjelezhetetlen követelmény a nyílt forráskódú projekted fennmaradásához.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+Magától értetődik, hogy szükség van pihenésre! Nem szabad elodázni a pihenést addid, amíg kiégsz. Például @brettcannon, a Python magfejlesztője úgy döntött, hogy [egy hónapos vakációt vesz ki](https://snarky.ca/why-i-toto-october-off-from-oss-volunteering/) 14 éve folyamatosan tartó, önkéntes OSS munka után.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+Mint minden más munka esetén a rendszeres pihenők tartása felfrissít, boldogabbá teszt és fokozza a munkád iránti vágyadat.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  A WP-CLI fenntartása során felfedeztem, hogy előbb boldoggá kell tennem magam, és egyértelmű határokat kell meghúznom. A legjobb egyensúlyt számomra a hetente 2-5 óra biztosította, a normál munkám részeként. Ez megőrzi a szenvedélyemet és nem érzem azt, hogy túl sokat dolgoztam volna. Mivel priorizálom a munkákat amelyeken dolgozom, így normálisan haladok a véleményem szerint legfontosabb dolgokkal.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Fogadd részvétem, mert Te most egy népszerű, nyílt forráskódú projekt karbantartója lettél"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+Gyakran úgy érzed nehéz pihenőt tartani, mert mindenki téged akar. Vannak akik bűntudatot éreznek, ha pihenni mennek.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+Próbáld kialakítani azt, hogy a legjobb legyen a felhasználóknak és a közösségnek, amikor távol vagy a projekttől. Ha nem találod meg a támogatást ehhez, akkor is tarts szünetet. Határozottan és biztosan kommunikáld azt, amikor nem vagy elérhető, nehogy az emberek összekeverjék azzal, hogy nem szándékosan válaszolsz nekik, vagy nem vagy reszponzív.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+A szünetek nemcsak a vakációk idejére vonatkoznak. Ha nem akarsz hétvégén, vagy munkaidőben nyílt forráskódú munkát végezni, kommunikáld ezt mások felé, így tudni fogják, hogy ne zavarjanak ezen idő alatt téged.
 
-## Take care of yourself first!
+## Legfontosabb, hogy vigyázz magadra!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+A népszerű projekt fenntartása más készségeket igényel később, mint a projekt elején. Karbantartóként vezetői és személyes készségeket gyakorolsz majd olyan szinten, amelyet kevés ember tapasztal meg. Noha ezt nem mindig könnyű kezelni, az egyértelmű határok meghatározása, és csak olyan dolgok elvégzése ami számodra is elfogadható, segítenek abban, hogy boldog, kipihent és produktív maradj.
