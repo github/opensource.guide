@@ -157,97 +157,97 @@ Lehet, hogy valaki a közösségedben rendszeresen nyújt be olyan hozzájárul�
 
 Ha azt látod, hogy valaki lelkesedik a projekted iránt, de egy kis segítségre van szüksége, légy türelmes. Mindig magyarázd el világosan, hogy miért nem felelnek meg a hozzájárulások a projekt elvárásainak. Próbálj ajánlani egy könnyebb vagy kevésbé bonyolult feladatot, például egy feladatot a _"good first issue"_ jelöléssel, hogy a megtegye az első lépéseket. Ha van időd, akkor fontold meg a mentorálásukat az első hozzájárulásuk alkalmával, vagy keress meg valaki mást a közösségében, aki hajlandó mentorálni őket.
 
-## Leverage your community
+## Használd ki a közösség erejét
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Nem kell mindent egymagad csinálni. A projekt közösség okkal létezik! Ha még nincs aktív közreműködő közösség, de már sokan vannak benne, akkor is próbáld munkára fogni őket.
 
-### Share the workload
+### Osszd el a munkaterhelést
 
-If you're looking for others to pitch in, start by asking around.
+Ha szeretnél másokat bevonni, akkor kérdezz körbe.
 
-One way to gain new contributors is to explicitly [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing their visibility.
+Az új közreműködők megszerzésének egyik módja az, hogy kifejezetten [olyan issue-kat nevezel meg, amelyek elég egyszerűek a kezdők számára](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub segíti ezen issue-k kiemelésén és láthatóvá tételét.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a projekhez, akkor ismerd el a munkájukat azzal, hogy nagyobb felelősséget adsz számukra. Dokumentáld le, hogy hogyan válhat valaki a projekt irányító tagjává, ha azt szeretné.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+Ösztönözz másokat arra, hogy [résztvegyenek a projekt irányításában](../building-community/#share-ownership-of-your-project) ezzel jelentősen csökkented a saját terhelésed, mint ahogy @lmccart észrevette ezt a saját projektjénél, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  Azt mondtam: "Igen, bárki jöhet, nem kell sok tapasztalattal rendelkeznie a kódolás területén [...]." Az emberek feliratkoztak, hogy eljöjjenek [a rendezvényre], és nagyon kiváncsi voltam rá, hogy valóban jó-e az, amit mondtam? 40 ember megjelent, és nem úgy tünt hogy mindenkivel, egyenként le tudok ülni beszélni... De az emberek összeálltak, és egyszerűen csak elkezdett minden jól működni. Amint egy ember megértette a dolgot, elkezdte a többieket tanítani.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
+—  @lmccart, ["Mit jelent még az "Nyílt Forrás"? p5.js Kiadás"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Ha a projektet magára kell hagynod rövid vagy akár hosszabb időre, akkor nincs semmi szégyelleni való abban, ha megkérsz mást, hogy vegye át a helyed.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Ha mások is lelkesek a projekt irányát illetően, akkor add meg nekik a hozzáférést, vagy formálisan is add át az irányítást. Ha valaki forkolta a projektet, és másutt aktívan fenntartja azt, fontold meg az eredeti projekt csatlakozását ehhez. Nagyszerű, ha sok ember akarja azt, hogy a projekt tovább éljen!
 
-@progrium [found that](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [úgy találta](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) hogy a projekt vízió dokumentálása a [Dokku](https://github.com/dokku/dokku) esetén, segített abban, hogy a célok tovább éljenek még akkor is, amikor ő már nem vesz részt a projektben:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> Egy wiki oldalon leírtam, hogy mit és miért akartam. Valami oknál fogva meglepetésnek számított nekem, hogy a karbantartók elkezdték vinni a projektet ebbe az irányba! Hogy pontosan úgy történt ez, ahogy én tettem volna? Nem mindig. De mégis közelebb hozta a projektet ahhoz, amit leírtam.
 
-### Let others build the solutions they need
+### Hagyd, hogy mások építsék ki a számukra szükséges megoldásokat
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Ha egy potenciális közreműködő eltérő véleményen van arról, hogy mit kellene a projektben megvalósítani, akkor érdemes udvariasan ösztönözni őt, hogy saját forkon dolgozzon.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+A projekt forkolása (elágaztatása) nem jelent rossz dolgot. A projekt lemásolása és módosítása a legjobb része a nyílt forráskódnak. A közösség tagjainak ösztönzése arra, hogy saját forkon dolgozzanak alkalmas arra, hogy saját kreatívitásukat kiélhessék anélkül, hogy ez ütközne a projekted eredeti víziójával.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  Én garantáltan lefedem a használati esetek 80%-át. Ha te egyike vagy az Unikornisoknak [szakmai guru], akkor kérlek, forkold el a munkám. Nem veszem sértésnek! A publikus projektjeim szinte kivétel nélkül a leggyakoribb problémákra nyújtanak megoldást; én csupán csak megpróbálom megkönnyíteni azt, hogy Te elmélyedhess a problémákban akár a munkám forkolásával vagy annak kiterjesztésével.
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["Miért zárok le beolvasztási kérelmeket?"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+Ugyanez a megoldás jó akkor is, ha valaki komolyan akarna egy megoldást a projektben valamire, de erre neked már nincs kapacitásod. API-k és testreszabható hook-ok biztosítása lehetővé teszi mások számára, hogy anélkül elégítsék ki a szükségleteiket, hogy a projektet módosítani kellene közvetlenül. @orta [szerint](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) a CocoaPods plugin megjelenése vezetett "néhány nagyon érdekes ötlethez":
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> Szinte elkerülhetetlen, hogy ha egy projekt nagyméretűvé válik, a karbantartóknak sokkal konzervatívabbá kell válniuk az új kódok bevezetése terén. Az rendben van, ha tudod mondani a "nem" szót, de sok embernek van valódi, jogos igénye. Emiatt a megoldást végül platformmá alakítod át.
 
-## Bring in the robots
+## Használj robotokat
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Ahogy vannak olyan feladatok, amelyekben mások segítenek, úgy vannak olyan feladatok is, amelyeket nem embereknek kell csinálnia. A robotok a barátaid. Használd őket, hogy megkönnyítsd az életét karbantartóknak.
 
-### Require tests and other checks to improve the quality of your code
+### Szükség van tesztekre és egyéb ellenőrzésekre a kód minőségének javítása érdekében
 
-One of the most important ways you can automate your project is by adding tests.
+A projekt automatizálásának egyik legfontosabb módja a tesztek hozzáadása.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+A tesztek segítenek a közreműködőknek, hogy biztosak legyenek abban, hogy semmit sem rontanak el. Ezenkívül megkönnyítik az észrevételek gyors áttekintését és elfogadását. Minél jobban és gyorsabban reagálsz, annál elkötelezettebbé válhat a közösség.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+Állíts be automatikus teszteket, amelyek az összes bejövő hozzájárulásra futnak, és győződj meg arról, hogy a teszteket a közreműködők könnyen, a saját gépeiken is futtathatják. Mielőtt beküldenék a hozzájárulásokat, követeld meg, hogy az az összes kódminőségi követelményt teljesítse, minden teszten átmenjen. Itt egy segítség a minimális minőségi követelmények megkövetelésére: [Kötelező ellenőrzések](https://help.github.com/articles/about-required-status-checks/), a GitHub segít abban, hogy ellenőrzés nélkül a hozzájárulás ne kerüljön beolvasztásra.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt a CONTRIBUTING.mg fájlban, hogy hogyan működnek.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  Úgy gondolom, hogy tesztek szükségesek minden olyan kódhoz, amelyen az emberek dolgoznak. Ha a kód teljesen és tökéletesen helyes volt, akkor nem lenne szükség változtatásokra - csak akkor írunk kódot, ha valami nincs rendben, legyen az összeomlás vagy hiányzó funkció. És függetlenül attól, hogy milyen változtatásokat hajtunk végre, a tesztek elengedhetetlenek a véletlenszerűen bevezetett regressziós hibák kivédésében.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["A Rust közösségi automatizálása"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Használj eszközöket az alapvető karbantartási feladatok automatizálásához
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+A jó hír egy népszerű projekt fenttartásához az, hogy más karbantartók valószínűleg hasonló problémákkal már szembesültek és megoldást találtak rá.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+[Számos eszköz elérhető](https://github.com/showcases/tools-for-open-source) amelyek a karbantartók munkájának különböző részeit automatizálják. Néhány példa:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
+* [semantic-release](https://github.com/semantic-release/semantic-release) automatizálja a release-elést
+* [mention-bot](https://github.com/facebook/mention-bot) a beolvasztási kérelemben megemlíti automatikusan a lehetséges embereket, akik a kódot majd átnézik (kód review)
+* [Danger](https://github.com/danger/danger) segít automatizálni a kód review-t
+* [no-response](https://github.com/probot/no-response) lezárja azokat az issue-kat, amelyekben az issue szerzője nem válaszolt a további információkérésre
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview) minden nap ellenőrzi a függőségeket, ha talál frissebb verziót, akkor automatikusan beolvasztási kérelmet készít az új verzió számmal
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+A hiba jelzésekhez és más általános hozzájárulásokhoz a GitHub biztosít egy [hiba jelzés és beolvasztási kérelem formanyomtatványt](https://github.com/blog/2111-issue-and-pull-request-templates), amellyel egyszerűsíteni és egységesíteni tudod ezek beadását. @TalAter készített egy [Választásos Kalandjátékot](https://www.talater.com/open-source-templates/#/) hogy segítse ezen formanyomtatványok elkészítését.
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+Az email értesítések kezeléséhez be tudod állítani az [email szűrőket](https://github.com/blog/2203-email-updates-about-your-own-activity) amellyel a priorítás megadható.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Ha még jobban akarod csinálni, akkor a stílus útmutatók és linterek segítenek abban, hogy a hozzájárulások könnyebben áttekinthetőbbek és beolvaszthatók legyenek.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Ellenben, ha a szabályok túl komplikáltak, akkor akadályozzák a hozzájárulást a projekthez. Figyelj arra, hogy annyi szabályt adj hozzá, amely feltétlenül szükséges ahhoz, hogy mindenkinek könnyebb legyen az élete.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Ha nem vagy biztos abban milyen eszközt kellene használnod, akkor nézz meg más, ismert projekteket, különösen a te ökoszisztémádhoz tartozók közül. Például megnézheted, hogy hogyan néz ki egy hozzájárulási folyamat más Node modulok esetén? Hasonló eszközök és megközelítések alkalmazása segít abban, hogy a folyamatod a hozzájárulók számára már ismert legyen.
 
 ## It's okay to hit pause
 
