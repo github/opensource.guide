@@ -22,11 +22,11 @@ Egy projektet fenntartani többet jelent, mint csak kódolni. Ezek a feladatok g
 
 A dolgok leírása az egyik legfontosabb dolog, amelyet karbantartóként megtehetsz.
 
-A dokumentáció nem csak a saját gondolkodásod letisztulását segíti, hanem elősegíti, hogy más is megértse a szándékodat anélkül, hogy kérdezni kellene.
+A dokumentáció nem csak a saját gondolkodásod letisztulását segíti, hanem azt is, hogy más is megértse a szándékodat anélkül, hogy kérdezni kellene.
 
 A dolgok leírása könnyebbé teszi azt, hogy nemet tudj mondani olyan dolgokra, amelyek nem illeszkednek a projekt hatókörébe. Ezenkívül megkönnyíti az embereknek a belépését és segítését. Sohasem tudhatod, hogy ki olvassa vagy használja a projektet.
 
-Még ha nem is fejted ki a teljes mondanivalód, akkor is jobb legalább felsoroláspontokban röviden összeszedni azt, mintha nem írnál semmit.
+Még ha nem is fejted ki a teljes mondanivalód, akkor is jobb legalább felsoroláspontokban röviden összeszedni azt, mintha nem írnál semmit sem.
 
 Ne felejtsd el naprakészen tartani a dokumentációt. Ha nem vagy képes ezt mindig megtenni, töröld az elavult dokumentációt, vagy jelezd azt, hogy elavult, így a közreműködők tudják, hogy szívesen várod a frissítéseket ezekre.
 
@@ -34,9 +34,9 @@ Ne felejtsd el naprakészen tartani a dokumentációt. Ha nem vagy képes ezt mi
 
 Kezd azzal, hogy leírod a projekt célját. Írd le a README-ben, vagy hozz létre egy különálló VISION fájlt. Ha van bármi más ami segít, mint például egy projekt roadmap, akkor tedd elérhetővé azt is.
 
-A tiszta, jól dokumentált elképzelés segít fókuszálni és elkerülni azt, hogy más hozzájárulók felesleges vagy oda nem illő dolgokkat járuljanak hozzá.
+A tiszta, jól dokumentált elképzelés segít fókuszálni és elkerülni azt, hogy más hozzájárulók felesleges vagy oda nem illő dolgokkal járuljanak hozzá.
 
-Például @lord észrevette, hogy a projekt vízió segített neki rájönni arra, hogy melyik kéréssel töltsön el időt. Új karbantartóként sajnálta, hogy nem ragaszkodott a projektjének hatóköréhez, amikor megkapta az első, funkcióra irányuló kérést a [Slate-hez](https://github.com/lord/slate).
+Például @lord észrevette, hogy a projekt vízió segített neki abban, hogy eldöntse, hogy melyik kéréssel töltse az idejét. Új karbantartóként sajnálta, hogy nem ragaszkodott a projektjének hatóköréhez, amikor megkapta az első, funkcióra irányuló kérést a [Slate-hez](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
@@ -48,7 +48,7 @@ Például @lord észrevette, hogy a projekt vízió segített neki rájönni arr
 
 ### Kommunikáld az elvárásaid
 
-A szabályok leírása idegesítő lehet. Időnként úgy érzed, mintha más emberek viselkedését szabályoznád, vagy mintha kiölnél minden szórakoztató dolgot.
+A szabályok leírása idegesítő lehet. Időnként úgy érzed, mintha más emberek viselkedését szabályoznád, vagy mintha kiölnél minden szórakoztató dolgot a projektből.
 
 Ugyanakkor megfelelően leírva és jól végrehajtva, a jó szabályok támogatják a karbantartókat. Megakadályozzák, hogy olyan dolgokba menj bele, amelyekbe nem akarsz.
 
@@ -63,7 +63,7 @@ Néhány szabály, amelyeket érdemes leírni:
 * Hogyan vizsgálod meg és fogadod el a hozzájárulást (_Meg vannak követelve a tesztek? Van az issue-khoz sablon?_)
 * A hozzájárulások típusai, amelyeket elfogadsz (_Csak egy bizonyos részéhez fogadsz el hozzájárulást a kódnak?_)
 * Mikor helyénvaló ismét figyelmeztetni (_például: "7 napon belül várhatsz választ a karbantartótól. Ha ez alatt mégsincs visszajelzés, nyugodtan pingeld meg a szálat."_)
-* Mennyi időt fogsz a projektre költeni (_például: "Mi csak kb. 5 órát foglalkozunk a hetente ezzel a projekttel."_)
+* Mennyi időt fogsz a projektre fordítani (_például: "Csak kb. 5 órát foglalkozunk a hetente ezzel a projekttel."_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), és a [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) mellett számos példa van a karbantartók és közreműködők alapszabályairól rendelkező projektekre.
 
@@ -71,47 +71,47 @@ Néhány szabály, amelyeket érdemes leírni:
 
 Ne felejtsd el dokumentálni az interakciókat is. Ahol csak lehet, tartsd nyilvánosan a projekttel kapcsolatos kommunikációt. Ha valaki megpróbál privát kapcsolaton keresztül kommunikálni egy funkciókérést vagy támogatási igényt akkor, udvariasan irányítsd egy nyilvános kommunikációs csatornára, például egy levelezőlistára vagy a hibakövető rendszerre.
 
-Ha találkozol más karbantartókkal, vagy ha zártkörű döntés születik, akkor is nyilvánosan dokumentáld ezeket a beszélgetéseket, még akkor is, ha csak jegyzeteket írsz.
+Ha személyesen találkozol más karbantartókkal, vagy ha zártkörű döntés születik, akkor is nyilvánosan dokumentáld ezeket a beszélgetéseket, még akkor is, ha csak jegyzeteket írsz.
 
 Így bárki, aki csatlakozik a közösséghez, ugyanazt az információt éri el, mint az, aki már évek óta tagja a közösségnek.
 
 ## Meg kell tanulni nemet mondani
 
-Leírtad a dolgokat. Ideális esetben mindenki elolvassa a dokumentációt, de a valóságban ez más, mert figyelmeztetned kell majd másokat arra, hogy ez a tudás létezik.
+Leírtad a dolgokat. Ideális esetben mindenki elolvassa a dokumentációt, de a valóságban ez nem mindig van így, ezért figyelmeztetned kell majd másokat arra, hogy ez a tudás létezik.
 
 Ha mindent leírsz, az segít megszüntetni azokat a helyzeteket, amikor szükség van a szabályok érvényesítésére.
 
 Nemet mondani nem kellemes, de a _"Hozzájárulásod nem felel meg a projekt kritériumoknak"_ kevésbé személyeskedő, mint a _"Nem tetszik ez a hozzájárulásod"_.
 
-TODO: Sok helyzetben kell majd nemet mondanod, amelyekkel karbantartóként találkozol: olyan funkciókérések, amelyek nem felelnek meg az alkalmazási körnek, mégis valaki levezeti a beszélgetést, és ezzel felesleges munkát generál másoknak.
+Sok helyzetben kell majd nemet mondanod, amelyekkel karbantartóként találkozol: olyan funkciókérések, amelyek nem felelnek meg az alkalmazási körnek, valaki félrevisz egy beszélgetést, amellyel felesleges munkát generál másoknak.
 
 ### Legyen barátságos a beszélgetés
 
-A legfontosabb helyek, ahol gyakorolni fogod a nemet mondást, az az issue-id és a beolvasztási kérelmek. Projekt karbantartóként elkerülhetetlen lesz az a helyzet, amikor olyan javaslatokat kapsz, amelyeket nem akarsz elfogadni.
+A legfontosabb helyek, ahol gyakorolni fogod a nemet mondást, azok az issue-k és a beolvasztási kérelmek. Projekt karbantartóként elkerülhetetlen lesz az a helyzet, amikor olyan javaslatokat kapsz, amelyeket nem akarsz elfogadni.
 
 Lehet, hogy a hozzájárulás megváltoztatja a projekt célját, vagy nem felel meg a jövőképének. Talán az ötlet jó, de a megvalósítás rossz.
 
 Az indoktól függetlenül lehetséges tapintatosan kezelni azokat a hozzájárulásokat, amelyek nem felelnek meg a projekt normáinak.
 
-Ha olyan hozzájárulást kapsz, amelyet nem akarsz elfogadni, akkor az első reakciód az lehet, hogy figyelmen kívül hagyod, vagy úgy teszel, mintha nem látnád. Ha így teszel, akkor a másik személy érzéseit megsértheted, vagy akár más lehetséges hozzájárulók kedvét is elveszed a közösségedben.
+Ha olyan hozzájárulást kapsz, amelyet nem akarsz elfogadni, akkor az első reakciód lehet hogy az, hogy figyelmen kívül hagyod, vagy úgy teszel, mintha nem látnád. Ha így teszel, akkor a másik személy érzéseit megsértheted, vagy akár más, lehetséges hozzájárulók kedvét is elveszed a részvételtől.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  A nagyszabású, nyílt forráskódú projektek támogatásának kezelésének a kulcsa az issue-k mozgásának folyamatos fenntartása. El kell kerülni, hogy az issue-k sokáig álljanak egyhelyben. Ha iOS fejlesztő vagy, akkor tudod, milyen bosszantó lehet egy iOS bug bejelentése. Lehet, hogy 2 évvel később hallasz csak róla, és azt mondják majd, hogy próbáld újra az iOS legújabb verziójával.
+  A nagyszabású, nyílt forráskódú projektek támogatásának fenntartásának a kulcsa az issue-k mozgásának folyamatos fenntartása. El kell kerülni, hogy az issue-k sokáig érintetlenül  álljanak. Ha iOS fejlesztő vagy, akkor tudod, milyen bosszantó lehet egy iOS bug bejelentése. Lehet, hogy 2 évvel később hallasz csak róla, és azt mondják majd, hogy próbáld újra az iOS legújabb verziójával.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Nyílt forráskódú közösségek méretezése"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűnösnek érznéd magad, ha nem lennél kedves. Az idő múlásával a megválaszolatlan kérdések és beolvasztási kérelmek sokkal stresszesebbé és ijesztőbbé teszik a projekttel történő munkát.
+Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűntudatot érznél attól, hogy lezárod. Az idő múlásával a megválaszolatlan kérdések és a nem kívánt beolvasztási kérelmek sokkal stresszesebbé és elrettentőbbé teszik a projekttel való munkát.
 
 Sokkal jobb, ha azonnal lezárod a hozzájárulást, ha nem akarod elfogadni. Ha a projekted már eleve nagy feladatlistával rendelkezik, akkor itt van @steveklabnik javaslata arra, hogy [hogyan priorizáld hatékonyan az issue-kat](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Ugyanakkor a hozzájárulások figyelmen kívül hagyása negatív jelet küldhet a közösségnek. A projekthez való hozzájárulás félelmetes is lehet, különösen, ha valaki először csinálja. Még ha nem is fogadod el az általa benyújtott hozzájárulást, becsüld meg azt a személyt aki benyújtotta, és mondj köszönetet az érdeklődése iránt, ez nagy dícséret!
+Ugyanakkor a hozzájárulások rendszeres figyelmen kívül hagyása negatív jelet küldhet a közösségnek. A projekthez való hozzájárulás elrettentő is lehet, különösen, ha valaki először próbálja. Még ha nem is fogadod el az általa benyújtott hozzájárulást, becsüld meg azt a személyt aki benyújtotta, és mondj köszönetet az érdeklődése iránt, ez nagy dícséret!
 
 Ha nem akarsz elfogadni egy hozzájárulást:
 
-* **Köszönd meg nekik** a hozzájárulást
+* **Köszönd meg neki** a hozzájárulást
 * **Magyarázd el, miért nem illik bele a projekt kritériumokba,** vagy ha lehetséges, javasolj egyértelmű dolgokat a javításra. Legyél határozott, de kedves.
 * **Linkeld be a releváns dokumentációkat,** ha vannak. Ha arra leszel figyelmes, hogy rendszeresen kapsz olyan kéréseket, amelyeket nem akarsz elfogadni, akkor add hozzá a dokumentációhoz, ezzel elkerülheted, hogy mindig magadat ismételd.
 * **Zárd le a kérést**
@@ -122,9 +122,9 @@ Nem kell több a válaszba mint 1-2 mondat. Például a [celery](https://github.
 
 Ha megijeszt a nemet mondás, ne aggódj, nem vagy egyedül, lásd @jessfraz [írását erről](https://blog.jessfraz.com/post/the-art-of-closing/):
 
-> Számos, különböző nyílt forráskódú projektekből beszéltem karbantartókkal, Mesos, Kubernetes, Chromium, és abban mindannyian egyetértettek, hogy a legkeményebb rész a "Nem"-et mondás arra a javításra, amelyet nem akarsz.
+> Számos, különböző nyílt forráskódú projektekből beszéltem karbantartókkal – Mesos, Kubernetes, Chromium –, és abban mindannyian egyetértettek, hogy a legkeményebb rész a "Nem"-et mondás egy olyan javításra, amelyet nem akarsz.
 
-Ne érezd magad bűnösnek azért, mert nem fogadsz el egy hozzájárulást. Az első szabálya a nyílt forráskódnak @shykes [szerint](https://twitter.com/solomonstre/status/715277134978113536): _"A nem az átmeneti, az igen az örökös."_ Bár jó érzés a másik ember lelkesedését látni, a hozzájárulás elutasítása nem jelenti a mögötte álló személy elutasítását.
+Ne érezd bűntudatot azért, mert nem fogadsz el egy hozzájárulást. Az első szabálya a nyílt forráskódnak @shykes [szerint](https://twitter.com/solomonstre/status/715277134978113536): _"A nem az átmeneti, az igen az örökös."_ Bár jó érzés a másik ember lelkesedését látni, a hozzájárulás elutasítása nem jelenti a mögötte álló személy elutasítását.
 
 Végül, ha a hozzájárulás nem elég jó, akkor nem vagy köteles elfogadni azt. Légy kedves és közreműködő, ha az emberek hozzájárulnak a projekthez, de csak azokat a változásokat fogadd el, amelyektől valóban azt hiszed, hogy a projekt jobbá válik. Minél gyakrabban gyakorolod a nemet mondást, annál könnyebbé válik.
 
@@ -139,13 +139,13 @@ Ha túl sok gyenge színvonalú hozzájárulást kapsz, kérd meg a közreműkö
 
 Ha nem követik a szabályokat, akkor azonnal zárd le a jelzést és hivatkozd meg a dokumentációt.
 
-Noha ez a megközelítés kezdetben kellemetlennek tűnik, a proaktív fellépés mindkét fél számára jó. Csökkenti annak az esélyét, hogy valaki sok elpazarolt órát fordítson egy beolvasztási kérelembe, amelyet nem fogadsz el. Emellett a munkaterhelés könnyebben kezelhetővé válik.
+Noha ez a megközelítés kezdetben kellemetlennek tűnik, a proaktív fellépés mindkét fél számára jó. Csökkenti annak az esélyét, hogy valaki sok elpazarolt órát fordítson egy beolvasztási kérelemre, amelyet nem fogsz elfogadni. Emellett a Te munkaterhelésed is könnyebben kezelhetővé válik.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideális az, ha elmagyarázod egy CONTRIBUTING.md fájlban, hogy miként kaphatnak jobb tájékoztatást a jövőben arról, hogy mit fogadnál el vagy mit nem fogadnál el, még mielőtt a munkát elkezdenék.
+  Ideális az, ha elmagyarázod egy CONTRIBUTING.md fájlban, hogy miként kaphatnak jobb képet arról, hogy a jövőben mit fogadnál el vagy mit nem fogadnál el, még mielőtt a munkát elkezdenék.
   <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["Kedvesen lezárt beolvasztási kérelmek"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["Udvariasan lezárt beolvasztási kérelmek"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
