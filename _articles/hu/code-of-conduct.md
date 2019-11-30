@@ -60,7 +60,7 @@ Ne feledd, előfordulhat, hogy épp olyan személyre vonatkozóan érkezik kifog
 
 További inspirációért nézd meg a Django magatartás kódexét [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (nem biztos hogy, ennyire részletes kódexre van szükséged, ez a projekt méretétől függ).
 
-## A magatartási kódex végrehajtása
+## A magatartási kódex érvényesítése
 
 Annak ellenére, hogy mindent megtettél, néha előfordul, hogy valaki vét a szabályok ellen. Ekkor számos módja van a negatív vagy káros viselkedés kezelésének.
 

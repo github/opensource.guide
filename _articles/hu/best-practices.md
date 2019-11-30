@@ -215,7 +215,7 @@ A projekt automatizálásának egyik legfontosabb módja a tesztek hozzáadása.
 
 A tesztek segítenek a közreműködőknek, hogy biztosak legyenek abban, hogy semmit sem rontanak el. Ezenkívül megkönnyítik az észrevételek gyors áttekintését és elfogadását. Minél jobban és gyorsabban reagálsz, annál elkötelezettebbé válhat a közösség.
 
-Állíts be automatikus teszteket, amelyek az összes bejövő hozzájárulásra futnak, és győződj meg arról, hogy a teszteket a közreműködők könnyen, a saját gépeiken is futtathatják. Mielőtt beküldenék a hozzájárulásokat, követeld meg, hogy az az összes kódminőségi követelményt teljesítse, minden teszten átmenjen. Itt egy segítség a minimális minőségi követelmények megkövetelésére: [Kötelező ellenőrzések](https://help.github.com/articles/about-required-status-checks/), a GitHub segít abban, hogy ellenőrzés nélkül a hozzájárulás ne kerüljön beolvasztásra.
+Állíts be automatikus teszteket, amelyek az összes bejövő hozzájárulásra futnak, és győződj meg arról, hogy a teszteket a közreműködők könnyen, a saját gépeiken is futtathatják. Mielőtt beküldenék a hozzájárulásokat, követeld meg, hogy az összes kódminőségi követelményt teljesítse, minden teszten átmenjen. Itt egy segítség a minimális minőségi követelmények megkövetelésére: [Kötelező ellenőrzések](https://help.github.com/articles/about-required-status-checks/), a GitHub segít abban, hogy ellenőrzés nélkül a hozzájárulás ne kerüljön beolvasztásra.
 
 Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt a CONTRIBUTING.mg fájlban, hogy hogyan működnek.
 

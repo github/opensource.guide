@@ -27,8 +27,8 @@ A közösség felépítése során fontold meg, hogy a tölcsér tetejéről val
 Kezd a dokumentációkkal:
 
 * **Tedd egyszerűvé, hogy valaki használhassa a projektedet!** [Egy batátságos README](../starting-a-project/#readme-írása) és tiszta kód példák mindenkit hozzásegítenek ahhoz, hogy könnyen el tudjanak indulni.
-* **Tisztán és érthetően magyarázd el, hogy hogyan lehet hozzájárulni**, használd a [ CONTRIBUTING fájlodat](../starting-a-project/#részvételi-irányelvek-leírása) és a hibajelzéseket tartsd naprakészen.
-* **Good first issues**: Az új hozzájárulókat segíti az, ha egyértelműen [jelezve van címkével az az issue, amely kezdőknek ajánlott](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub egyértelműen megmutatja ezeket az issue-kat, és ezzel segíti a hasznos hozzájárulásokat úgy, hogy a hozzájáruló szintjének megfelelő hibát ajánl megoldásra.
+* **Tisztán és érthetően magyarázd el, hogy hogyan lehet hozzájárulni**, használd a [CONTRIBUTING fájlodat](../starting-a-project/#részvételi-irányelvek-leírása) és a hibajelzéseket tartsd naprakészen.
+* **Good first issues**: Az új hozzájárulókat segíti az, ha egyértelműen [jelezve van címkével az issue, amely kezdőknek ajánlott](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub egyértelműen megmutatja ezeket az issue-kat, és ezzel segíti a hasznos hozzájárulásokat úgy, hogy a hozzájáruló szintjének megfelelő hibát ajánl megoldásra.
 
 [A GitHub 2017. évi nyílt forráskódú felmérése](http://opensourcesurvey.org/2017/) azt mutatta ki, hogy a félkész és zavaros dokumentáció a legnagyobb probléma a felhasználók számára. A jó dokumentáció beszippantja az embereket a projektbe: egyszercsak valaki nyit egy hibajelzést, vagy beküld egy beolvasztási kérelmet. Használd ki ezeket a lehetőségeket, hogy az emberek tovább mozogjanak lefelé a _résztvevői tölcséren_.
 
@@ -103,45 +103,45 @@ A nyilvános kommunikáció egyszerű lehet, ha arra kéred az embereket, hogy n
 
 A nyilvános kommunikáció alól kivételt képeznek: a 1) biztonsági kérdések és a 2) magatartási kódex megsértése. Az embereknek mindig képesnek kell lenniük arra, hogy ezeket a kérdéseket privát módon jelentsék be. Ha nem akarod használni a személyes e-mail címed, akkor állíts be egy külön e-mail címet erre a célra.
 
-## Growing your community
+## Növeld a közösséget
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+A közösség rendkívül erős dolog. Ez a hatalom áldás vagy átok lehet, attól függően, hogy hogyan kezeled. Ahogy a projekt közössége növekszik, vannak olyan módok, amelyek segítenek abban, hogy ez az erő az építés, és ne pusztítás erőjévé váljon.
 
-### Don't tolerate bad actors
+### Ne tűrd meg a rosszul viselkedőket
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+Bármely népszerű projekt elkerülhetetlenül vonzza azokat az embereket, akik ahelyett, hogy segítséget nyújtanának a közösségnek inkább ártanak neki. Lehet, hogy felesleges vitákat indítanak, felkavaró kritikákat fogalmaznak meg alapvető funkciókról, vagy másokat piszkálhatnak.
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+Tegyél meg mindent, hogy zéró toleranciát tanusíts az ilyen típusú emberekkel szemben. Ha figyelmen kívül hagyod ezt, akkor a negatív emberek kellemetlenné teszik a közösség többi tagjának részvételét a projektben. Akár emiatt még távozhatnak is.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  Az igazság az, hogy kulcsfontosságú a támogató közösség. Soha nem tudnám ezt a munkát elvégezni kollégáim, barátságos internetes idegenek, és az IRC-csatornáim nélkül. (...) Ne elégedj meg kevesebbel. Ne fogadd el a seggfejeket.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["Hogyan működik a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+A projekt triviális szempontjairól folytatott rendszeres vita zavarhat másokat, köztük téged is, és elvonja a figyelmet a fontos feladatokról. A projektbe érkező új emberek láthatják ezeket a beszélgetéseket, és emiatt nem akarnak részt venni majd benne.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+Ha azt látod, hogy negatív viselkedés történt a projektben, azt hozd nyilvánosságra. Magyarázd el kedvesen, de határozott hangon, hogy miért nem fogadható el ez a viselkedés. Ha a probléma továbbra is fennáll, akkor lehet, hogy [fel kell kérned az érintettet a távozásra](../code-of-conduct/#a-magatartási-kódex-érvényesítése). A [Magatartási kódexed](../code-of-conduct/) konstruktív útmutatást jelenthet ezekhez a beszélgetésekhez.
 
-### Meet contributors where they're at
+### Maradj kapcsolatban
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+A jó dokumentáció akkor válik fontossabbá, ha közösséged növekszik. Az alkalmi közreműködők, akik esetleg egyébként nem ismerik a projektet, azért olvassák el a dokumentációt, hogy gyorsan megértsék azt a környezetet, amire szükségük van.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+A CONTRIBUTING fájljában kifejezetten mond el az új közreműködőknek az elindulás módját. Érdemes lehet erre a célra egy külön fejezetet létrehozni. Például a [Django](https://github.com/django/django) projektnek van egy speciális nyitóoldallal, amelyen az új közreműködőket fogadják.
 
-![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![Django új közreműködő oldala](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+A hibalistában azon hibákat címkézd meg, amelyek különböző hozzájárulás típusokat igényelnek, például: [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, vagy _"documentation"_. [Ezek a címkék](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) segítik az újonnan érkezőket abban, hogy gyorsan átnézzék a listát és el tudják kezdeni a munkát.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+Végül, de nem utolsó sorban a dokumentáció alapján érezzék az emberek, hogy szívesen látod őket bármely folyamatában a projektnek.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+Általában nem fogsz minden emberrel kommuikálni, aki megfordul a projekten. Lehet, hogy lesznek olyan hozzájárulások, amelyeket azért nem kapsz meg, mert valaki elrettent a projekttől, vagy nem tudta, hol kezdje. Akár néhány kedves szó is elég lehet ahhoz, hogy megakadályozd, hogy valaki csalódottan hagyja el a projektet.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubinius/) projektben, [a CONTRIBUTING útmutatójuk](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+> Mindenekelőtt azzal szeretnénk kezdeni, hogy köszönjük azt, hogy használod a Rubinius-t. Ez a projekt szeretetteljes munkát jelent, és nagyra értékeljük az összes felhasználót, aki hibákat észlel, javít a teljesítményben és segítséget nyújt a dokumentációban. Minden hozzájárulás hasznos, ezért köszönjük a részvételed. Kérjük néhány iránymutatást tarts be, hogy sikeresen meg tudjuk oldani a problémádat.
 
 ### Share ownership of your project
 
@@ -193,7 +193,7 @@ For the most part, if you've cultivated a friendly, respectful community and doc
 
 When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#ne-tűrd-meg-a-rosszul-viselkedőket) to keep discussions civil and productive.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -209,7 +209,7 @@ Keeping your cool isn't easy, but demonstrating leadership improves the health o
 
 ### Treat your README as a constitution
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+Your README is [more than just a set of instructions](../starting-a-project/#readme-írása). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
 
 ### Focus on the journey, not the destination
 
