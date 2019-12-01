@@ -87,7 +87,7 @@ Ahogy a projekt növekszik, a közösségednek többre lehet szüksége, mint pu
 
 A nem kódolási feladatokra fordított idő függ a projekt nagyságától és terjedelmétől, mint karbantartónak, neked is fel kell készülnöd arra, hogy találj valakit aki segíthet ebben.
 
-**Ha egy olyan cég tagja van, aki nyílt forráskódú projektel rendelkezik,** bizonyosodj meg arról, hogy vannak megfelelő belső erőforrások a projekthez. Azonosítsd azokat az emebreket, akik a karbantartói feladatot fognak elvégezni rajta, és oszd meg a közösséggel ezeket a feladatokat.
+**Ha egy olyan cég tagja van, aki nyílt forráskódú projekttel rendelkezik,** bizonyosodj meg arról, hogy vannak megfelelő belső erőforrások a projekthez. Azonosítsd azokat az emebreket, akik a karbantartói feladatot fognak elvégezni rajta, és oszd meg a közösséggel ezeket a feladatokat.
 
 Ha szükséges fix költségvetés, vagy alkalmazotti kör a fejlesztéshez, fenntartáshoz a projektben, akkor kezd el ezeket a beszélgetéseket minnél korábban.
 
