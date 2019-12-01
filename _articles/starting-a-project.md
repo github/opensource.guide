@@ -26,15 +26,6 @@ When a project is open source, that means **anybody can view, use, modify, and d
 
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
-
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
-
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
-
 _Free software_ refers to the same set of software as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open soruce software" (FOSS) or "free, libre, and open source software" (FLOSS).
 
 ### Why do people open source their work?
