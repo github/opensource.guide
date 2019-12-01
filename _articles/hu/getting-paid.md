@@ -64,17 +64,17 @@ Ha pénzügyi támogatást keresel, akkor két irány lehet. Résztvevőként fi
 
 Ma sok embernek fizetnek részmunkaidőben vagy teljes munkaidőben nyílt forráskódú munkáért. A leggyakoribb módja annak, hogy fizessenek az idődért az, hogy megbeszéled a saját munkáltatóddal.
 
-Egyszerűbb elérni ezt, ha az adott nyílt forráskódú projektet a munkaadód is használja. Lehet, hogy a munkaadód nem használja a projektet, de használja a Python-t, és egy népszerű Python projekt fenntartása segíti, hogy új Python fejlesztőket találjon a munkaadód. Ezzel a munkaadód még fejlesztőbarátabbnak tűnik.
+Egyszerűbb elérni ezt, ha az adott nyílt forráskódú projektet a munkaadód is használja. Lehet, hogy a munkaadód nem használja a projektet, de használja a Python-t, és egy népszerű Python projekt fenntartása segíti, hogy új Python fejlesztőket találjon a munkaadód. Ezzel a munkaadód még fejlesztő-barátabbnak tűnik.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémkat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba. 
+  Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémákat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba. 
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-Ha még nincs nyílt forráskódú projekted, amin dolgoznál, de szeretnéd, ha munkád eredménye nyilt forrású lenne, győzd meg a munkaadódat, hogy valamelyik belső projekt forráskódját tegye nyílttá.
+Ha még nincs nyílt forráskódú projekted, amin dolgoznál, de szeretnéd, ha munkád eredménye nyílt forrású lenne, győzd meg a munkaadódat, hogy valamelyik belső projekt forráskódját tegye nyílttá.
 
 Számos cég fejleszt nyílt forráskódú programokat azért, hogy az imázsukat javítsák és a tehetséges fejlesztőket megszerezzék.
 
