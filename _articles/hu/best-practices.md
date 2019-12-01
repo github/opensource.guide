@@ -217,7 +217,7 @@ A tesztek segítenek a közreműködőknek, hogy biztosak legyenek abban, hogy s
 
 Állíts be automatikus teszteket, amelyek az összes bejövő hozzájárulásra futnak, és győződj meg arról, hogy a teszteket a közreműködők könnyen, a saját gépeiken is futtathatják. Mielőtt beküldenék a hozzájárulásokat, követeld meg, hogy az összes kódminőségi követelményt teljesítse, minden teszten átmenjen. Itt egy segítség a minimális minőségi követelmények megkövetelésére: [Kötelező ellenőrzések](https://help.github.com/articles/about-required-status-checks/), a GitHub segít abban, hogy ellenőrzés nélkül a hozzájárulás ne kerüljön beolvasztásra.
 
-Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt a CONTRIBUTING.mg fájlban, hogy hogyan működnek.
+Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt a CONTRIBUTING.md fájlban, hogy hogyan működnek.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
@@ -251,13 +251,13 @@ Ha nem vagy biztos abban milyen eszközt kellene használnod, akkor nézz meg m�
 
 ## Teljesen rendben van, ha szünetet tartasz
 
-Eddig a nyílt forráskódú munka örömet okozott neked, de lehet hogy most már túlterhel téged, ami miatt kerülöd, és emiatt büntudatod van.
+Eddig a nyílt forráskódú munka örömet okozott neked, de lehet hogy most már túlterhel téged, ami miatt kerülöd, és emiatt bűntudatod van.
 
-Lehet, hogy túlterhelten érzed magad, vagy szorongást okoz, amikor a projektjeidre gondolsz, és mindeközben a kérdések és a beolvasztási kérelmek felhalmozódnak.
+Lehet, hogy túlterheltnek érzed magad, vagy szorongást okoz, amikor a projektjeidre gondolsz, és mindeközben a hibajelzések és a beolvasztási kérelmek felhalmozódnak.
 
 A kiégés létező és széles körben ismert probléma a nyílt forráskódú munkákban, különösen a karbantartók körében. Karbantartóként a megelégedettséged megkérdőjelezhetetlen követelmény a nyílt forráskódú projekted fennmaradásához.
 
-Magától értetődik, hogy szükség van pihenésre! Nem szabad elodázni a pihenést addid, amíg kiégsz. Például @brettcannon, a Python magfejlesztője úgy döntött, hogy [egy hónapos vakációt vesz ki](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) 14 éve folyamatosan tartó, önkéntes OSS munka után.
+Magától értetődik, hogy szükség van pihenésre! Nem szabad elodázni a pihenést addid, amíg kiégsz. Például @brettcannon, a Python fejlesztője úgy döntött, hogy [egy hónapos vakációt vesz ki](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) 14 éve folyamatosan tartó, önkéntes OSS munka után.
 
 Mint minden más munka esetén a rendszeres pihenők tartása felfrissít, boldogabbá teszt és fokozza a munkád iránti vágyadat.
 
