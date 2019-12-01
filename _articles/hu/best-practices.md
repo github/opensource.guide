@@ -167,7 +167,7 @@ Ha szeretnél másokat bevonni, akkor kérdezz körbe.
 
 Az új közreműködők megszerzésének egyik módja az, hogy kifejezetten [olyan issue-kat nevezel meg, amelyek elég egyszerűek a kezdők számára](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub segíti ezen issue-k kiemelésén és láthatóvá tételét.
 
-Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a projekhez, akkor ismerd el a munkájukat azzal, hogy nagyobb felelősséget adsz számukra. Dokumentáld le, hogy hogyan válhat valaki a projekt irányító tagjává, ha azt szeretné.
+Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a projekthez, akkor ismerd el a munkájukat azzal, hogy nagyobb felelősséget adsz számukra. Dokumentáld le, hogy hogyan válhat valaki a projekt irányító tagjává, ha azt szeretné.
 
 Ösztönözz másokat arra, hogy [résztvegyenek a projekt irányításában](../building-community/#a-projekt-tulajdonjogának-megosztása) ezzel jelentősen csökkented a saját terhelésed, mint ahogy @lmccart észrevette ezt a saját projektjénél, [p5.js](https://github.com/processing/p5.js).
 
@@ -181,11 +181,11 @@ Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a proje
 
 Ha a projektet magára kell hagynod rövid vagy akár hosszabb időre, akkor nincs semmi szégyelleni való abban, ha megkérsz mást, hogy vegye át a helyed.
 
-Ha mások is lelkesek a projekt irányát illetően, akkor add meg nekik a hozzáférést, vagy formálisan is add át az irányítást. Ha valaki forkolta a projektet, és másutt aktívan fenntartja azt, fontold meg az eredeti projekt csatlakozását ehhez. Nagyszerű, ha sok ember akarja azt, hogy a projekt tovább éljen!
+Ha mások is lelkesek a projekt irányát illetően, akkor add meg nekik a hozzáférést, vagy formálisan is add át az irányítást. Ha valaki forkolta a projektet, és máshol aktívan fenntartja azt, fontold meg az eredeti projekt csatlakozását ehhez. Nagyszerű, ha sok ember akarja azt, hogy a projekt tovább éljen!
 
 @progrium [úgy találta](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) hogy a projekt vízió dokumentálása a [Dokku](https://github.com/dokku/dokku) esetén, segített abban, hogy a célok tovább éljenek még akkor is, amikor ő már nem vesz részt a projektben:
 
-> Egy wiki oldalon leírtam, hogy mit és miért akartam. Valami oknál fogva meglepetésnek számított nekem, hogy a karbantartók elkezdték vinni a projektet ebbe az irányba! Hogy pontosan úgy történt ez, ahogy én tettem volna? Nem mindig. De mégis közelebb hozta a projektet ahhoz, amit leírtam.
+> Egy wiki oldalon leírtam, hogy mit és miért akartam. Valami oknál fogva meglepetésnek számított nekem, hogy a karbantartók elkezdték vinni a projektet ebbe az irányba! Hogy pontosan úgy történt ez, ahogy én csináltam volna? Nem mindig. De mégis közelebb hozta a projektet ahhoz, amit leírtam.
 
 ### Hagyd, hogy mások építsék ki a számukra szükséges megoldásokat
 
