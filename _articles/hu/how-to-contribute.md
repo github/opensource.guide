@@ -121,7 +121,7 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 
 ### Szeretsz segíteni embereken?
 
-* Válaszolj a projekttel kapcsolatos kérdésekre, például a Stack Overflow-n, ([mint ez a Postgres példa](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) vagy a Reddit-en
+* Válaszolj a projekttel kapcsolatos kérdésekre, például a StackOverflow-n, ([mint ez a Postgres példa](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) vagy a Reddit-en
 * Válaszold meg a kérdéseket a nyitott problémákról
 * Segíts moderálni a beszélgetést a fórumokon vagy egyéb csatornákon
 
@@ -433,13 +433,13 @@ Mielőtt hibát jelzel, beolvasztást kérelmezel vagy esetleg kérdéseket tesz
 
 ### Összefoglalás
 
-Mielőtt bármibe belekezdenél, győződjön meg róla, hogy az ötletedet nem vitatták-e már meg máshol. Nézd meg a projekt README-jét, a nyitott és lezárt hibajegyeket és kérdéseket, a levelezőlistát és a Stack Overflow-t. Nem kell órákat töltened azzal, hogy átnézz mindent, de egy gyors keresés néhány kulcsszóra nem tart semeddig.
+Mielőtt bármibe belekezdenél, győződjön meg róla, hogy az ötletedet nem vitatták-e már meg máshol. Nézd meg a projekt README-jét, a nyitott és lezárt hibajegyeket és kérdéseket, a levelezőlistát és a StackOverflow-t. Nem kell órákat töltened azzal, hogy átnézz mindent, de egy gyors keresés néhány kulcsszóra nem tart semeddig.
 
 Ha nem találod meg a felvetést sehol, akkor mehetsz tovább. Ha a projekt a GitHub-on van, akkor nyithatsz egy hibajegyet vagy létrehozhatsz egy beolvasztási kérést a módosított kód alapján:
 
 * **Issues** (hiba, észrevétel) olyanok mint egy párbeszéd, vagy egy megbeszélés
 * **Pull requests** (beolvasztási kérelem) szolgál a munka megkezdésére
-* **Egyszerű kommunikációra,** például tisztázó- vagy a "Hogyan..." kérdésekre használd a Stack Overflow-t, IRC-t, Slack-et vagy egyéb rendelkezésre álló csevegő csatornát, ha van ilyen a projektben
+* **Egyszerű kommunikációra,** például tisztázó- vagy a "Hogyan..." kérdésekre használd a StackOverflow-t, IRC-t, Slack-et vagy egyéb rendelkezésre álló csevegő csatornát, ha van ilyen a projektben
 
 Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet benyújtanál, ellenőrizd a projektben való részvételről szóló dokumentációt (ezt gyakran a CONTRIBUTING vagy a README tartalmazza), mert lehetséges, hogy mellékelned kell valamilyen specifikus információt is. Például, a projekt kérheti azt, hogy egy űrlapot tölts ki, vagy megkövetelheti a teszteket.
 

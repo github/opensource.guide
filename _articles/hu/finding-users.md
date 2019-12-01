@@ -65,7 +65,7 @@ Most, hogy van a projektednek üzenete és van egy könnyű módja annak, hogy a
 
 Az online tájékoztatás nagyszerű módja annak, hogy gyorsan megoszthasd és terjeszd az információt. Az online csatornák használatával lehetőséged van nagyon széles közönség elérésére.
 
-Használd ki a meglévő online közösségeket és platformokat, hogy elérd a saját közönségedet. Ha a nyílt forráskódú projekted szoftver projekt, akkor közönségedet megtalálhatod a [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), vagy [Quora](https://www.quora.com/) oldalakon. Találd meg azokat a csatornákat, ahol olyan emberek vannak, akik a legtöbbet profitálhatnak a munkádból, vagy a leginkább kiváncsiak lehetnek rá.
+Használd ki a meglévő online közösségeket és platformokat, hogy elérd a saját közönségedet. Ha a nyílt forráskódú projekted szoftver projekt, akkor közönségedet megtalálhatod a [StackOverflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), vagy [Quora](https://www.quora.com/) oldalakon. Találd meg azokat a csatornákat, ahol olyan emberek vannak, akik a legtöbbet profitálhatnak a munkádból, vagy a leginkább kíváncsiak lehetnek rá.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
