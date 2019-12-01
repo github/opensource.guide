@@ -103,7 +103,7 @@ Ha olyan hozzájárulást kapsz, amelyet nem akarsz elfogadni, akkor az első re
   </p>
 </aside>
 
-Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűntudatot érznél attól, hogy lezárod. Az idő múlásával a megválaszolatlan kérdések és a nem kívánt beolvasztási kérelmek sokkal stresszesebbé és elrettentőbbé teszik a projekttel való munkát.
+Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűntudatot éreznél attól, hogy lezárod. Az idő múlásával a megválaszolatlan kérdések és a nem kívánt beolvasztási kérelmek sokkal stresszesebbé és elrettentőbbé teszik a projekttel való munkát.
 
 Sokkal jobb, ha azonnal lezárod a hozzájárulást, ha nem akarod elfogadni. Ha a projekted már eleve nagy feladatlistával rendelkezik, akkor itt van @steveklabnik javaslata arra, hogy [hogyan priorizáld hatékonyan az issue-kat](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
@@ -161,7 +161,7 @@ Ha azt látod, hogy valaki lelkesedik a projekted iránt, de egy kis segítségr
 
 Nem kell mindent egymagad csinálni. A projekt közösség okkal létezik! Ha még nincs aktív közreműködő közösség, de már sokan vannak benne, akkor is próbáld munkára fogni őket.
 
-### Osszd el a munkaterhelést
+### Oszd el a munkaterhelést
 
 Ha szeretnél másokat bevonni, akkor kérdezz körbe.
 
