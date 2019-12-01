@@ -22,11 +22,11 @@ So you're thinking about getting started with open source? Congratulations! The 
 
 ### What does "open source" mean?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+When a project is open source, that means **anybody is free to view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Open source is powerful because it lowers the barriers to adoption and collaboration, allowing projects to spread and improve quickly.
 
-_Free software_ refers to the same set of software as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open soruce software" (FOSS) or "free, libre, and open source software" (FLOSS).
+_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open soruce software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
 
 ### Why do people open source their work?
 
