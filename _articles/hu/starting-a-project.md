@@ -16,7 +16,7 @@ Szóval arra gondoltál, hogy elkezded a nyílt forráskódú projekted. Gratul�
 
 ### Mit jelent a nyílt forráskód?
 
-Amikor egy projekt nyílt forráskódú, az azt jelenti, hogy **bárki megnézheto. használhatja, módosíthatja és terjesztheti bármilyen céllal.** Ezt a lehetőséget [az nyílt forráskódú licenc biztosítja](https://opensource.org/licenses).
+Amikor egy projekt nyílt forráskódú, az azt jelenti, hogy **bárki megnézheti, használhatja, módosíthatja és terjesztheti bármilyen céllal.** Ezt a lehetőséget [az nyílt forráskódú licenc biztosítja](https://opensource.org/licenses).
 
 A nyílt forráskód nagy hatású, mivel csökkenti az elterjedés előtt álló akadályokat, és lehetővé teszi az ötletek gyors terjesztését.
 
@@ -27,7 +27,7 @@ Hogy megértsd, hogyan működik, képzeld el, hogy a barátodnak van egy bulija
 * Alex barátod, aki cukrász, azt javasolja, hogy kevesebb cukrot használj (_módosítás_)
 * Liza barátod, szeretné a jövő heti vacsorához ezt elkészíteni (_terjesztés_)
 
-Összehasonlításképpen, egy zárt forráskódú folyamattal: bemész egy étterembe, és egy cseresznyés pitét rendelsz. Kifizetet a pite árát (ha ízlett, ha nem), és az étterem valószínűleg nem adja meg ezzel együtt a receptjét. Ha pontosan lemásoltad a pite receptjét, és saját neved alatt eladod, az étterem lehet, hogy ez ellen fel fog lépni.
+Összehasonlításképpen, egy zárt forráskódú folyamattal: bemész egy étterembe, és egy cseresznyés pitét rendelsz. Kifizeted a pite árát (ha ízlett, ha nem), és az étterem valószínűleg nem adja meg ezzel együtt a receptjét. Ha pontosan lemásoltad a pite receptjét, és saját neved alatt eladod, az étterem lehet, hogy ez ellen fel fog lépni.
 
 ### Miért vesznek részt az emberek a nyílt forráskódú projektekben?
 
@@ -71,13 +71,13 @@ Gondolkozz el azon, hogy mi is az igazi célod, ha még mindig nem lettél meggy
 
 A célok segíthetnek abban, hogy kitaláld, min kell dolgoznod, mit kell mondanod, és hol van szükséged mások segítségére. Kérdezd meg magadtól, hogy _miért nyitom meg ezt a projektet?_
 
-Nincs tökéletes válasz erre a kérdésre. Több féle célod lehet akár egy projekt esetén is, más projekteknél viszon más célok fognak vezérelni.
+Nincs tökéletes válasz erre a kérdésre. Többféle célod lehet akár egy projekt esetén is, más projekteknél viszont más célok fognak vezérelni.
 
-Ha csak az a célod, hogy a munkádat megmutasd, akkor nem akarsz résztvevőket és ezt a README-ben le ís írhatod. Másrszről, ha akarsz résztvevőket a projekteden, akkor időt kell szánnod az alapos dokumentációra, hogy az újonnan érkezők könnyen csatlakozhassanak.
+Ha csak az a célod, hogy a munkádat megmutasd, akkor nem akarsz résztvevőket és ezt a README-ben le is írhatod. Másrészről, ha akarsz résztvevőket a projekteden, akkor időt kell szánnod az alapos dokumentációra, hogy az újonnan érkezők könnyen csatlakozhassanak.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  Készítettem egy UIAlertView komponenst, amit korábban már használtam saját célból... és eldöntöttem hogy nyílt forráskódú projektet csinálok belőle. Így kicsit módosítottam rajta és feltöltöttem a GitHub-ra. Ekkor írtam az első dokumnetációt is, amelyben leírtam, hogy más fejlesztők hogyan használhatják ezt a programjaikban. Persze lehet, hogy soha senki nem használta, de engem mégis örömmel töltött el, mert ez volt életem első nyílt forráskódú projektje.
+  Készítettem egy UIAlertView komponenst, amit korábban már használtam saját célból... és eldöntöttem hogy nyílt forráskódú projektet csinálok belőle. Így kicsit módosítottam rajta és feltöltöttem a GitHub-ra. Ekkor írtam az első dokumentációt is, amelyben leírtam, hogy más fejlesztők hogyan használhatják ezt a programjaikban. Persze lehet, hogy soha senki nem használta, de engem mégis örömmel töltött el, mert ez volt életem első nyílt forráskódú projektje.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
@@ -87,9 +87,9 @@ Ahogy a projekt növekszik, a közösségednek többre lehet szüksége, mint pu
 
 A nem kódolási feladatokra fordított idő függ a projekt nagyságától és terjedelmétől, mint karbantartónak, neked is fel kell készülnöd arra, hogy találj valakit aki segíthet ebben.
 
-**Ha egy olyan cég tagja van, aki nyílt forráskódú projekttel rendelkezik,** bizonyosodj meg arról, hogy vannak megfelelő belső erőforrások a projekthez. Azonosítsd azokat az emebreket, akik a karbantartói feladatot fognak elvégezni rajta, és oszd meg a közösséggel ezeket a feladatokat.
+**Ha egy olyan cég tagja van, aki nyílt forráskódú projekttel rendelkezik,** bizonyosodj meg arról, hogy vannak megfelelő belső erőforrások a projekthez. Azonosítsd azokat az embereket, akik a karbantartói feladatot fognak elvégezni rajta, és oszd meg a közösséggel ezeket a feladatokat.
 
-Ha szükséges fix költségvetés, vagy alkalmazotti kör a fejlesztéshez, fenntartáshoz a projektben, akkor kezd el ezeket a beszélgetéseket minnél korábban.
+Ha szükséges fix költségvetés, vagy alkalmazotti kör a fejlesztéshez, fenntartáshoz a projektben, akkor kezd el ezeket a beszélgetéseket minél korábban.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
@@ -128,7 +128,7 @@ A nyílt forráskódú licenc garantálja, hogy mások használhassák, másolha
 
 A jogi munka nem öröm. A jó hír azonban az, hogy a licencet egyszerűen elhelyezheted a projektedben, csak be kell másolni. Csak néhány percet igényel az, hogy megvédd a munkádat.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), és a [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) a leghresebb licencek, de [van számos másik is](https://choosealicense.com) amelyből választhatsz.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), és a [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) a leghíresebb licencek, de [van számos másik is](https://choosealicense.com) amelyből választhatsz.
 
 Amikor új projektet hozol létre a GitHub-on, lehetőséget kapsz licence választásra. Nyílt forráskódú licencel a projekted nyílt forráskódú lesz.
 
@@ -138,7 +138,7 @@ Ha egyéb kérdésed vagy kételyed van a nyílt forráskódú projektek jogi r�
 
 ### README írása
 
-README több annál, mint hogy leírod azt, hogy hogyan kell a projektet használni. Elmagyarázza azt is, hogy miért lényeges a projekted, és hogy hogyan tud abban más is résztvenni.
+README több annál, mint hogy leírod azt, hogy hogyan kell a projektet használni. Elmagyarázza azt is, hogy miért lényeges a projekted, és hogy hogyan tud abban más is részt venni
 
 A README-ben próbáld meg az alábbiakra megadni a választ:
 
@@ -152,7 +152,7 @@ A README meg tudja még válaszolni azt, hogy hogyan fogadsz el közreműködés
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   A jobb dokumentáció, több felhasználót, kevesebb szupportot, és több közreműködőt jelent.
-  (...) Emlékezz arra, hogy aki olvasni fogja, az nem te vagy. Olyan ebmerek olvassák, akik lehet teljesen más projektből érkeztek ide, és teljesen más tapasztalatokkal rendelkeznek.
+  (...) Emlékezz arra, hogy aki olvasni fogja, az nem te vagy. Olyan emberek olvassák, akik lehet teljesen más projektből érkeztek ide, és teljesen más tapasztalatokkal rendelkeznek.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
@@ -166,9 +166,9 @@ Amikor a README állományt a főkönyvtárba teszed, a GitHub automatikusan meg
 
 ### Részvételi irányelvek leírása
 
-A CONTRIBUTING állomány közli az emberekkel, hogy hogyan lehet résztvenni a projektben. Például ezeket az információkat lehet megadni:
+A CONTRIBUTING állomány közli az emberekkel, hogy hogyan lehet részt venni a projektben. Például ezeket az információkat lehet megadni:
 
-* Hogyan jelents egy hibát (próbáld használni a [hiba és beolvsztási kérés űrlapokat](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Hogyan jelents egy hibát (próbáld használni a [hiba és beolvasztási kérés űrlapokat](https://github.com/blog/2111-issue-and-pull-request-templates))
 * Hogyan javasolj új funkciót
 * Hogyan állítsd be a környezetedet és futtasd a teszteket
 
@@ -182,13 +182,13 @@ Meleg, barátságos hang használata és konkrét javaslatok nyújtása a hozzá
 
 Például az [Active Admin](https://github.com/activeadmin/activeadmin/) a [saját részvételi szabályzatát](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ezzel kezdi:
 
-> Legelősször is, köszönöm hogy részt kívánsz venni az Active Admin projektben. Az olyan emberek mint te, tehetik az Active Admin ilyen nagyszerű eszközzé.
+> Legelőször is, köszönöm hogy részt kívánsz venni az Active Admin projektben. Az olyan emberek mint te, tehetik az Active Admin ilyen nagyszerű eszközzé.
 
 A CONTRIBUTING állomány a projekt korai fázisában egyszerű. Mindig el kell megmagyaráznod benne, hogy hogyan lehet hibát vagy egyéb problémát jelezni, a szükséges technikai igényeket pl. teszteket is le kell írni benne ahhoz, hogy valaki a projekten tudjon dolgozni.
 
 Idővel további gyakori kérdéseket adhatsz hozzá a CONTRIBUTING fájlhoz. Ezen információk írása azt jelenti, hogy kevesebb ember fog újra és újra ugyanazt a kérdést feltenni.
 
-FTovábbi segítségért a CONTRIBUTING írásához, nézd meg @nayafia [részvételi útmutató űrlapját](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) vagy a @mozilla's ["Hogyan építs CONTRIBUTING.md-t?"](https://mozillascience.github.io/working-open-workshop/contributing/).
+További segítségért a CONTRIBUTING írásához, nézd meg @nayafia [részvételi útmutató űrlapját](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) vagy a @mozilla's ["Hogyan építs CONTRIBUTING.md-t?"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
 A CONTRIBUTING állományra hivatkozhatsz a README állományból, így az emberek látják. Ha [elhelyezed a CONTRIBUTING állományt a projekt alatt](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), akkor a GitHub automatikusan linkelni fogja azt, ha valaki hibát jelent vagy beolvasztási kérést hoz létre.
 
@@ -204,13 +204,13 @@ A CONTRIBUTING állományra hivatkozhatsz a README állományból, így az ember
   </p>
 </aside>
 
-A magatartási kódex segít az alapjait lefektetni a viselkedési szabályoknak a projekt résztvevők számára. Különösen értékes, ha egy nyílt forráskódú projektet indítasz egy közösség vagy a cég számára. A magatartási kódex erősíti az egészséges, konstruktív közösségi viselkedést, ami csökkenteni fogja a streszt a karbantartók számára is.
+A magatartási kódex segít az alapjait lefektetni a viselkedési szabályoknak a projekt résztvevők számára. Különösen értékes, ha egy nyílt forráskódú projektet indítasz egy közösség vagy a cég számára. A magatartási kódex erősíti az egészséges, konstruktív közösségi viselkedést, ami csökkenteni fogja a stresszt a karbantartók számára is.
 
 További információkért nézd meg: [magatartási kódex útmutató](../code-of-conduct/).
 
 Amellett, hogy a magatartási kódex leírja, hogy hogyan kell viselkedni, azt is megadja hogy kikre vonatkozik, mikor vonatkozik rájuk, és mi történik akkor, hogyha ezt megsértik.
 
-Mint a nyílt forráskódú licenc esetén, itt is számos standard van a viselkedési szabályok kódexre, így nem kell sajátot írnod. A [Résztvevői Megállapodás](https://contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet több mint [40,000 nyílt forráskódú projekt](https://www.contributor-covenant.org/adopters) használt, mint példul a Kubernetes, Rails, vagy a Swift. Lényegtelen, hogy mit használsz ezekből, de az fontos, hogy kikényszerítsd ennek betartását.
+Mint a nyílt forráskódú licenc esetén, itt is számos standard van a viselkedési szabályok kódexre, így nem kell sajátot írnod. A [Résztvevői Megállapodás](https://contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet több mint [40,000 nyílt forráskódú projekt](https://www.contributor-covenant.org/adopters) használt, mint például a Kubernetes, Rails, vagy a Swift. Lényegtelen, hogy mit használsz ezekből, de az fontos, hogy kikényszerítsd ennek betartását.
 
 A kódtározóba helyezd el CODE_OF_CONDUCT állományt. A főkönyvtárba tedd a README mellé, és hivatkozd meg a README állományból.
 
@@ -231,13 +231,13 @@ Gondolj mindenekelőtt az egyértelműségre. A szójáték szórakoztató, de n
 
 ### Kerüld el a névütközést
 
-[Ellenőrizd le a hasonló nevű nyílt forráskódú projekteket](http://ivantomic.com/projects/ospnc/), különösen akkor, ha ugyanaz a fejlesztői nyelv vagy ökoszisztéma érintett. Ha a neve átfed egy népszerű, meglévő projektvel, akkor az zavart okozhat.
+[Ellenőrizd le a hasonló nevű nyílt forráskódú projekteket](http://ivantomic.com/projects/ospnc/), különösen akkor, ha ugyanaz a fejlesztői nyelv vagy ökoszisztéma érintett. Ha a neve átfed egy népszerű, meglévő projektével, akkor az zavart okozhat.
 
 Ha weboldalt akarsz, vagy Twitter bejegyzéseket, vagy egyéb dolgot, amely a projektedet reprezentálja, akkor is legyél biztos a projekt nevében. Jó esetben [előre le kell foglald a domain nevet](https://instantdomainsearch.com/) a nyugalmad érdekében, még akkor is, ha most nem akarod használni.
 
 Győződj meg róla, hogy a projekt neve nem sérti a védjegyeket. Egy vállalat kérheti, hogy később állítsd le a projekted, vagy akár jogi lépéseket is tehet ellened. Ez nem éri meg a kockázatot.
 
-Ezen az oldalon [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) tudod ellenőrizni a bejegyzet kereskedelmi neveket. Ha cégnél dolgozol, akkor ezt a [cég jogi osztálya is el tudja végezni](../legal/).
+Ezen az oldalon [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) tudod ellenőrizni a bejegyzett kereskedelmi neveket. Ha cégnél dolgozol, akkor ezt a [cég jogi osztálya is el tudja végezni](../legal/).
 
 És végül, végezz egy gyors Google keresést a projekt nevével. Az emberek könnyen megtalálják majd a projektet? Van olyan dolog, ami a keresési eredményekben jelenik meg, és amit nem szeretnél látni?
 
@@ -259,7 +259,7 @@ A kedves, befogadó nyelv használatával jó úton jársz a projekt résztvevő
 
 A szavak írása mellett a kód stílusa is része lehet a projekt márkájának. [Angular](https://angular.io/guide/styleguide) és a [jQuery](https://contribute.jquery.org/style-guide/js/) két példa a szigorú kódolási stílusokkal és iránymutatásokkal rendelkező projektekre.
 
-Nem kell stílus útmutatót írni a projekthez, amikor éppen elkezded, és ha esetleg különböző kódolási stílusokat használsz a projektben. De tisztában kell lenni azzal, hogy az írási és kódolási stílus hogyan vonzhatja vagy riszathatj el a különböző típusú embereket. A projekt legkorábbi szakasza lehetőséget ad arra, hogy meghatározd a kívánt mintát, amit elvársz a későbbiekben a résztvevőktől.
+Nem kell stílus útmutatót írni a projekthez, amikor éppen elkezded, és ha esetleg különböző kódolási stílusokat használsz a projektben. De tisztában kell lenni azzal, hogy az írási és kódolási stílus hogyan vonzhatja, vagy riaszthatja el a különböző típusú embereket. A projekt legkorábbi szakasza lehetőséget ad arra, hogy meghatározd a kívánt mintát, amit elvársz a későbbiekben a résztvevőktől.
 
 ## Indulás előtti ellenőrző lista
 
