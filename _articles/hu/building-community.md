@@ -26,11 +26,11 @@ A közösség felépítése során fontold meg, hogy a tölcsér tetejéről val
 
 Kezd a dokumentációkkal:
 
-* **Tedd egyszerűvé, hogy valaki használhassa a projektedet!** [Egy batátságos README](../starting-a-project/#readme-írása) és tiszta kód példák mindenkit hozzásegítenek ahhoz, hogy könnyen el tudjanak indulni.
+* **Tedd egyszerűvé, hogy valaki használhassa a projektedet!** [Egy barátságos README](../starting-a-project/#readme-írása) és tiszta kód példák mindenkit hozzásegítenek ahhoz, hogy könnyen el tudjanak indulni.
 * **Tisztán és érthetően magyarázd el, hogy hogyan lehet hozzájárulni**, használd a [CONTRIBUTING fájlodat](../starting-a-project/#részvételi-irányelvek-leírása) és a hibajelzéseket tartsd naprakészen.
 * **Good first issues**: Az új hozzájárulókat segíti az, ha egyértelműen [jelezve van címkével az issue, amely kezdőknek ajánlott](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub egyértelműen megmutatja ezeket az issue-kat, és ezzel segíti a hasznos hozzájárulásokat úgy, hogy a hozzájáruló szintjének megfelelő hibát ajánl megoldásra.
 
-[A GitHub 2017. évi nyílt forráskódú felmérése](http://opensourcesurvey.org/2017/) azt mutatta ki, hogy a félkész és zavaros dokumentáció a legnagyobb probléma a felhasználók számára. A jó dokumentáció beszippantja az embereket a projektbe: egyszercsak valaki nyit egy hibajelzést, vagy beküld egy beolvasztási kérelmet. Használd ki ezeket a lehetőségeket, hogy az emberek tovább mozogjanak lefelé a _résztvevői tölcséren_.
+[A GitHub 2017. évi nyílt forráskódú felmérése](http://opensourcesurvey.org/2017/) azt mutatta ki, hogy a félkész és zavaros dokumentáció a legnagyobb probléma a felhasználók számára. A jó dokumentáció beszippantja az embereket a projektbe: egyszer csak valaki nyit egy hibajelzést, vagy beküld egy beolvasztási kérelmet. Használd ki ezeket a lehetőségeket, hogy az emberek tovább mozogjanak lefelé a _résztvevői tölcséren_.
 
 * **Ha valaki újként jelenik meg a projektben, akkor köszönd meg neki az érdeklődését!** Egyetlen egy negatív tapasztalat is elég ahhoz, hogy valaki ne jöjjön vissza többé a projekthez.
 * **Legyél reszponzív!** Ha hónapokig nem válaszol a problémájára valakinek, nagy esély van rá, hogy elfelejti a projektedet.
@@ -111,7 +111,7 @@ A közösség rendkívül erős dolog. Ez a hatalom áldás vagy átok lehet, at
 
 Bármely népszerű projekt elkerülhetetlenül vonzza azokat az embereket, akik ahelyett, hogy segítséget nyújtanának a közösségnek inkább ártanak neki. Lehet, hogy felesleges vitákat indítanak, felkavaró kritikákat fogalmaznak meg alapvető funkciókról, vagy másokat piszkálhatnak.
 
-Tegyél meg mindent, hogy zéró toleranciát tanusíts az ilyen típusú emberekkel szemben. Ha figyelmen kívül hagyod ezt, akkor a negatív emberek kellemetlenné teszik a közösség többi tagjának részvételét a projektben. Akár emiatt még távozhatnak is.
+Tegyél meg mindent, hogy zéró toleranciát tanúsíts az ilyen típusú emberekkel szemben. Ha figyelmen kívül hagyod ezt, akkor a negatív emberek kellemetlenné teszik a közösség többi tagjának részvételét a projektben. Akár emiatt még távozhatnak is.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
@@ -127,7 +127,7 @@ Ha negatív viselkedést látsz a projektben, azt hozd nyilvánosságra. Magyar�
 
 ### Maradj kapcsolatban
 
-A jó dokumentáció akkor válik fontossabbá, ha közösséged növekszik. Az alkalmi közreműködők, akik esetleg egyébként nem ismerik a projektet, azért olvassák el a dokumentációt, hogy gyorsan megértsék azt a környezetet, amire szükségük van.
+A jó dokumentáció akkor válik fontosabbá, ha közösséged növekszik. Az alkalmi közreműködők, akik esetleg egyébként nem ismerik a projektet, azért olvassák el a dokumentációt, hogy gyorsan megértsék azt a környezetet, amire szükségük van.
 
 A CONTRIBUTING fájljában kifejezetten mond el az új közreműködőknek az elindulás módját. Érdemes lehet erre a célra egy külön fejezetet létrehozni. Például a [Django](https://github.com/django/django) projektnek van egy speciális nyitóoldallal, amelyen az új közreműködőket fogadják.
 
@@ -137,7 +137,7 @@ A hibalistában azon hibákat címkézd meg, amelyek különböző hozzájárul�
 
 Végül, de nem utolsó sorban a dokumentáció alapján érezzék az emberek, hogy szívesen látod őket bármely folyamatában a projektnek.
 
-Általában nem fogsz minden emberrel kommuikálni, aki megfordul a projekten. Lehet, hogy lesznek olyan hozzájárulások, amelyeket azért nem kapsz meg, mert valaki elrettent a projekttől, vagy nem tudta, hol kezdje. Akár néhány kedves szó is elég lehet ahhoz, hogy megakadályozd, hogy valaki csalódottan hagyja el a projektet.
+Általában nem fogsz minden emberrel kommunikálni, aki megfordul a projekten. Lehet, hogy lesznek olyan hozzájárulások, amelyeket azért nem kapsz meg, mert valaki elrettent a projekttől, vagy nem tudta, hol kezdje. Akár néhány kedves szó is elég lehet ahhoz, hogy megakadályozd, hogy valaki csalódottan hagyja el a projektet.
 
 Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubinius/) projektben, [a CONTRIBUTING útmutatójuk](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
 
@@ -147,7 +147,7 @@ Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubin
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  A vezetőid eltérõ véleményekkel rendelkezhetnek, ahogy általában minden egészséges közösségnek! Oda kell figyelned azonban annak biztosítására, hogy ne mindig a leghangosabb hang nyerjen az emberek kifárasztásával, és hogy kevésbé prominens személyek és a kisebbségi hangok is hallatszódjanak.
+  A vezetőid eltérő véleményekkel rendelkezhetnek, ahogy általában minden egészséges közösségnek! Oda kell figyelned azonban annak biztosítására, hogy ne mindig a leghangosabb hang nyerjen az emberek kifárasztásával, és hogy kevésbé prominens személyek és a kisebbségi hangok is hallatszódjanak.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["Mitől jó egy közösség?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
@@ -155,7 +155,7 @@ Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubin
 
 Az emberek örömmel járulnak hozzá a projektekhez, ha maguknak érzik azt. Ez nem azt jelenti, hogy át kell szabni a projekt víziódat, vagy el kell fogadni a nem kívánt hozzájárulásokat. De minél többet adsz ebből másoknak, annál jobban magukénak fogják érezni.
 
-Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mértékben megosszd a tulajdont a közösséggel. Íme néhány ötlet:
+Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mértékben megoszd a tulajdont a közösséggel. Íme néhány ötlet:
 
 * **Állj ellen az egyszerű (nem kritikus) hibák javításának.** Ehelyett használd ezeket a hibákat arra, hogy új segítőket toborozz toborzására, vagy mentorálj valakit, aki szeretne hozzájárulni. Bár furcsának tűnhet, de ez a befektetés idővel megtérül. Például a @michaeljoseph megkérte az egyik közreműködőt, hogy nyújtson be beolvasztási kérelmet egy alábbi, [Cookiecutter] (https://github.com/audreyr/cookiecutter) hibával kapcsolatosan, ahelyett, hogy saját maga javította volna ki.
 
@@ -187,7 +187,6 @@ A projekt korai szakaszában a fontos döntések meghozatala egyszerű. Ha akars
 
 Ahogy a projekt népszerűbbé válik, egyre több embert érdekelnek majd az általad meghozott döntések. Még ha nem is rendelkezel nagy közreműködő közösséggel, de a projektnek már sok felhasználója van, akkor találni fogsz olyan embereket, akik a döntéseket mérlegelni fogják, vagy a saját kifogásaikat megfogalmazzák.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
 Nagyrészt barátságos és tiszteletteljes közösség esetén és nyíltan dokumentált folyamat esetén találni fogsz megoldást. De néha olyan helyzetbe kerülhetsz, amit kicsit nehezebb lesz megoldani.
 
 ### Viselkedéseddel mutass példát
