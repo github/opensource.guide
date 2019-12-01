@@ -45,7 +45,7 @@ Ha a munkád a GitHub-on van, [akkor láthatod](https://help.github.com/articles
 
 * **Referring sites:** Megadja, hogy honnan érkeztek az oldalra az emberek. Ez a metrika segíthet kitalálni, hogy hol érheted el a közönséget és hogyan működnek a promóciós erőfeszítéseid.
 
-* **Popular content:** Megadja, hogy a projekted mely részére kiváncsiak a látogatók, lebontva oldalakra és látogatókra.
+* **Popular content:** Megadja, hogy a projekted mely részére kíváncsiak a látogatók, lebontva oldalakra és látogatókra.
 
 [GitHub stars](https://help.github.com/articles/about-stars/) szintén tud a népszerűség mérésében segíteni. Bár a _GitHub stars_ nem szükségszerűen van kapcsolatban azzal, hogy hányan töltötték le vagy használták a projektet, mégis alkalmas arra, hogy mérje azt, hogy mennyi ember érdeklődését keltette fel a munkád.
 
@@ -53,7 +53,7 @@ Lehet, hogy más [egyéb helyen is nyomon akarod követni az elérhetőséget](h
 
 ## Használat
 
-Az emberek megtalálják a projektet ezen a vad és őrült dologon, amit az internetnek hívunk. Jó esetben, ha látják a projektet, késztetést érezhetnek rá, hogy használják. A második kérdés amit fel kell tenned magadnak: _Az emberek használják ezt a projektet?_
+Az emberek megtalálják a projektet ezen a vad és őrült dolgon, amit az internetnek hívunk. Jó esetben, ha látják a projektet, késztetést érezhetnek rá, hogy használják. A második kérdés amit fel kell tenned magadnak: _Az emberek használják ezt a projektet?_
 
 Ha a projekt terjesztéséhez csomagkezelőt (például npm vagy RubyGems.org) használsz, akkor előfordulhat, hogy nyomon követheted a projekt letöltését.
 
