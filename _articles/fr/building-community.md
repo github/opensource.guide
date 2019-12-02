@@ -113,10 +113,10 @@ Tout projet populaire attirera inévitablement des gens qui nuisent à votre com
 Faites de votre mieux pour adopter une politique de tolérance zéro envers ces types de personnes. Si rien n'est fait, les personnes négatives mettront mal à l'aise les autres membres de votre communauté. Ils peuvent même partir.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La vérité est qu'ayant une communauté de soutien est la clé. Je ne serais jamais capable de faire ce travail sans l'aide de mes collègues, des étrangers sympathiques sur Internet, et des canaux IRC bavards. (...) Ne vous contentez pas de moins. Ne vous contentez pas de connards.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -145,10 +145,10 @@ Par exemple, voici comment [Rubinius](https://github.com/rubinius/rubinius/) com
 ### Partager la propri&eacute;t&eacute; de votre projet
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Vos leaders auront des opinions différentes, comme devraient le faire toutes les communautés en bonne santé ! Cependant, vous devez prendre des mesures pour vous assurer que la voix la plus forte ne gagne pas toujours en fatiguant les gens, et que des voix moins importantes et minoritaires soient entendues.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

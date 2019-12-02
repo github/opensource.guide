@@ -28,6 +28,10 @@ Zu Open Source beizutragen, kann ein lohnender Weg sein, um nahezu alle erdenkli
 
 Warum tragen Menschen zu Open Source bei? Es gibt viele Gründe!
 
+### Software verbessern, auf die Sie sich verlassen.
+
+Viele Open-Source-Beitragende waren vorher Nutzer\*innen der Software, zu der sie beitragen. Wenn Sie einen Fehler in einer von Ihnen verwendeten Open-Source-Software finden, sollten Sie sich im Quellcode umsehen, ob Sie den Fehler evtl. selbst patchen können. Wenn ja, ist einen Patch einzureichen der beste Weg sicherzustellen, dass Ihre Kolleg\*innen (und Sie selbst, wenn Sie auf die nächste Version aktualisieren) davon profitieren können.
+
 ### Bestehende Fähigkeiten verbessern
 
 Ob Programmierung, User Interface Design, Grafikdesign, Schreiben oder Organisieren: Wenn Sie auf der Suche nach Praxiserfahrung sind, werden Sie dafür passende Aufgaben in einem Open-Source-Projekt finden.
@@ -229,7 +233,9 @@ Sie können eine README überfliegen und einen defekten Link oder einen Tippfehl
 >
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
-Auf einer der folgenden Seiten können Sie neue Projekte zum Beitragen entdecken (alle englischsprachig):
+Wenn Sie Issues suchen, die Sie beheben könnten, hat jedes Open-Source-Projekt eine Seite, die Neuling-freundliche Issues aufzeigt. Navigieren Sie zur Repository-Hauptseite auf GitHub und fügen Sie `/contribute` der URL hinzu (z.B.[`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+
+Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecken (alle englischsprachig):
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
