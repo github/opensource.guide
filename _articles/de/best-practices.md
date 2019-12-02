@@ -179,6 +179,8 @@ Sie müssen nicht alles selbst machen. Die Gemeinschaft Ihres Projekts existiert
 
 Wenn Sie auf der Suche nach Mitwirkenden sind, fragen Sie doch einfach mal herum.
 
+Sie können auch [Issues, die für Anfänger einfach genug sind, explizit markieren (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden.
+
 Wenn Sie neue Mitwirkende bemerken, die wiederholt Beiträge leisten, erkennen Sie deren Arbeit an, indem Sie ihnen mehr Verantwortung anbieten. Dokumentieren Sie, wie andere in Führungsrollen hineinwachsen können, wenn sie es wünschen.
 
 Andere zu ermutigen, [sich am Projekt zu beteiligen](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt), kann den eigenen Arbeitsaufwand erheblich reduzieren, wie @lmccart in ihrem Projekt [p5.js](https://github.com/processing/p5.js) feststellte.
@@ -262,6 +264,8 @@ Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfro
 * [semantic-release](https://github.com/semantic-release/semantic-release) automatisiert Ihre Veröffentlichungen
 * [mention-bot](https://github.com/facebook/mention-bot) erwähnt potentielle Reviewer für Pull Requests
 * [Danger](https://github.com/danger/danger) hilft bei der Automatisierung des Code Review
+* [no-response](https://github.com/probot/no-response) schließt Issues deren Autor\*in nicht auf Nachfragen antwortet
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview) prüft bekannte Abhängigkeitsdateien täglich und eröffnet Pull Requests, sobald Aktualisierungen verfügbar werden
 
 Für Fehlerberichte und andere allgemeine Beiträge hat GitHub [Issue- und Pull-Request-Templates](https://github.com/blog/2111-issue-and-pull-request-templates), die Sie erstellen können, um die Kommunikation zu optimieren. @TalAter hat einen [Choose Your Own Adventure Guide](https://www.talater.com/open-source-templates/#/) erstellt, der Ihnen beim Schreiben dieser Vorlagen hilft.
 

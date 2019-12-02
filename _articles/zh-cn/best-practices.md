@@ -16,7 +16,7 @@ related:
 
 在项目的起步阶段，你会不断尝试着实现自己的新想法，也能够基于自己想要的作出决定。随着项目逐渐的开始流行，就会发现你的大部分时间都花在了与用户、贡献者打交道上。
 
-维护一个项目需要的不仅仅是写代码的能力。有些时候会有一个你意想不到的的事情要应付，但是这对一个项目的成长也很重要（相对于代码来说），我们收集了一些小技巧来让你的维护工作变得稍轻松些，这些技巧，涉及范围颇广，从写文档到管理社区都有所涉猎。
+维护项目需要的不仅仅是编码。有些意料之外的任务，对于项目的持续发展同样重要。我们收集了几种方法让你的维护工作变得稍轻松些，这些技巧，涉及范围颇广，从编写文档到管理社区都有所涉及。
 
 ## Documenting your processes
 
@@ -61,7 +61,7 @@ related:
 * 怎样的贡献才会被复查和接受（_需要测试吗？提Issue有模板吗？_）
 * 你本人会接受什么类型的贡献？（_你是不是只希望在某些部分的代码上需要别人的帮助？_）
 * 在合适的时候跟进项目（比如说 _如果你在七天之内没有收到maintainer的回复，而且依旧没有其它任何的响应，那么就直接找Ta。_）
-* 你会在这个项目上话多少时间（比如说 "_我们每星期只会在这个项目上花5个小时_"）
+* 你会在这个项目上花多少时间（比如说 "_我们每星期只会在这个项目上花5个小时_"）
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs)、[CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules)、以及 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) 均是为维护者和贡献者提供了很好的基本规则的项目.乃业内典范。
 
@@ -101,7 +101,7 @@ related:
 
 别因为自己感到内疚或者想做一个好人就把你不想接受的贡献继续保留。随着时间的流逝，这些你没有回答的issue和PR会让你觉得很不爽。
 
-更好的方式是马上关掉你不想接受的贡献。如果你的项目已经保守积压的issue的折磨，@steveklabnik 可以给你点儿建议，[如何高效的解决issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
+更好的方式是马上关掉你不想接受的贡献。 如果你的项目已经积压大量的问题，@steveklabnik 可以给你点儿建议，[如何高效的解决issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
 
 第二点，忽略别人的贡献等于是在社区传递了一个负面的信号。让人感觉提交一个贡献是蛮恐惧的事情，尤其是对于刚加入的新手来说。即使你不接受他们的贡献，告诉他们为什么然后致谢。这会让人觉得更舒服。
 
