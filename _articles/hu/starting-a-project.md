@@ -16,18 +16,11 @@ Szóval arra gondoltál, hogy elkezded a nyílt forráskódú projekted. Gratul�
 
 ### Mit jelent a nyílt forráskód?
 
-Amikor egy projekt nyílt forráskódú, az azt jelenti, hogy **bárki megnézheti, használhatja, módosíthatja és terjesztheti bármilyen céllal.** Ezt a lehetőséget [az nyílt forráskódú licenc biztosítja](https://opensource.org/licenses).
+Amikor egy projekt nyílt forráskódú, az azt jelenti, hogy **bárki szabadon használhatja, tanulmányozhatja, módosíthatja és terjesztheti bármilyen céllal.** Ezt a lehetőséget [az nyílt forráskódú licenc biztosítja](https://opensource.org/licenses).
 
-A nyílt forráskód nagy hatású, mivel csökkenti az elterjedés előtt álló akadályokat, és lehetővé teszi az ötletek gyors kibontakozását.
+A nyílt forráskód azért hatásos, mert elhárítja az akadályt az együttműködés és a felhasználás elől, lehetővé teszi az emberek számára a gyors fejlesztést és terjesztést. És még azért is, mert a felhasználók számára lehetővé teszi, hogy kontrolljuk legyen a saját szoftvereik felett, ellenben a zárt forráskóddal. Például egy vállalkozás, amely nyílt forráskódot használ, képes lehet arra, hogy felbérel egy olyan fejelsztőt, aki elvégzi számára a szükséges fejlesztéseket, ahelyett, hogy kizárólag a zárt forrásúkódú szoftvert fejlesztő cég termékdöntéseire támaszkodna.
 
-Hogy megértsd, hogyan működik, képzeld el, hogy a barátodnak van egy bulija, és te cseresznyés pitét viszel neki.
-
-* Mindenki megkóstolja (_használat_)
-* Nagyon ízlik mindenkinek! Elkérik a receptet, amit te készségesen oda is adsz (_megtekintés_)
-* Alex barátod, aki cukrász, azt javasolja, hogy kevesebb cukrot használj (_módosítás_)
-* Liza barátod, szeretné a jövő heti vacsorához ezt elkészíteni (_terjesztés_)
-
-Összehasonlításképpen, egy zárt forráskódú folyamattal: bemész egy étterembe, és egy cseresznyés pitét rendelsz. Kifizeted a pite árát (ha ízlett, ha nem), és az étterem valószínűleg nem adja meg ezzel együtt a receptjét. Ha pontosan lemásoltad a pite receptjét, és saját neved alatt eladod, az étterem lehet, hogy ez ellen fel fog lépni.
+_Free software_ kifejezés ugyanazokra a projektekre vonatkozik, mint amire az _open source_. Néhol láthatod [ezen kifejezések](https://en.wikipedia.org/wiki/Free_and_open-source_software) kombinációját is, mint például "free and open source software" (FOSS) vagy "free, libre, and open source software" (FLOSS). A _Free_ és _libre_ a _szabadságra_ utal, [nem az árra](#a-nyílt-forráskódú projekt-ingyenességet-jelent).
 
 ### Miért vesznek részt az emberek a nyílt forráskódú projektekben?
 
