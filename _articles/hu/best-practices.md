@@ -52,7 +52,7 @@ A szabályok leírása idegesítő lehet. Időnként úgy érzed, mintha más em
 
 Ugyanakkor megfelelően leírva és jól végrehajtva, a jó szabályok támogatják a karbantartókat. Megakadályozzák, hogy olyan dolgokba menj bele, amelyekbe nem akarsz.
 
-A legtöbb ember, aki a projekttel találkozik, semmit sem tud rólad vagy a körülményeidről. Feltételezhetik, hogy fizetetést kapsz a munkádért, különösen, ha rendszeresen használják, és függnek a projektől. Lehet, hogy egy ideig sok időt töltesz a projekttel, de az is lehet, hogy most egy új munkával, vagy épp a családdal foglalkozol.
+A legtöbb ember, aki a projekttel találkozik, semmit sem tud rólad vagy a körülményeidről. Feltételezhetik, hogy fizetést kapsz a munkádért, különösen, ha rendszeresen használják, és függnek a projekttől Lehet, hogy egy ideig sok időt töltesz a projekttel, de az is lehet, hogy most egy új munkával, vagy épp a családdal foglalkozol.
 
 Mindez teljesen rendben van! Csak legyél biztos abban, hogy mások is tudnak erről.
 
@@ -62,7 +62,7 @@ Néhány szabály, amelyeket érdemes leírni:
 
 * Hogyan vizsgálod meg és fogadod el a hozzájárulást (_Meg vannak követelve a tesztek? Van az issue-khoz sablon?_)
 * A hozzájárulások típusai, amelyeket elfogadsz (_Csak egy bizonyos részéhez fogadsz el hozzájárulást a kódnak?_)
-* Mikor helyénvaló ismét figyelmeztetni (_például: "7 napon belül várhatsz választ a karbantartótól. Ha ez alatt mégsincs visszajelzés, nyugodtan pingeld meg a szálat."_)
+* Mikor helyénvaló ismét figyelmeztetni (_például: "7 napon belül várhatsz választ a karbantartótól. Ha ez alatt még sincs visszajelzés, nyugodtan pingeld meg a szálat."_)
 * Mennyi időt fogsz a projektre fordítani (_például: "Csak kb. 5 órát foglalkozunk a hetente ezzel a projekttel."_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), és a [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) mellett számos példa van a karbantartók és közreműködők alapszabályairól rendelkező projektekre.
@@ -103,11 +103,11 @@ Ha olyan hozzájárulást kapsz, amelyet nem akarsz elfogadni, akkor az első re
   </p>
 </aside>
 
-Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűntudatot érznél attól, hogy lezárod. Az idő múlásával a megválaszolatlan kérdések és a nem kívánt beolvasztási kérelmek sokkal stresszesebbé és elrettentőbbé teszik a projekttel való munkát.
+Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűntudatot éreznél attól, hogy lezárod. Az idő múlásával a megválaszolatlan kérdések és a nem kívánt beolvasztási kérelmek sokkal stresszesebbé és elrettentőbbé teszik a projekttel való munkát.
 
 Sokkal jobb, ha azonnal lezárod a hozzájárulást, ha nem akarod elfogadni. Ha a projekted már eleve nagy feladatlistával rendelkezik, akkor itt van @steveklabnik javaslata arra, hogy [hogyan priorizáld hatékonyan az issue-kat](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Ugyanakkor a hozzájárulások rendszeres figyelmen kívül hagyása negatív jelet küldhet a közösségnek. A projekthez való hozzájárulás elrettentő is lehet, különösen, ha valaki először próbálja. Még ha nem is fogadod el az általa benyújtott hozzájárulást, becsüld meg azt a személyt aki benyújtotta, és mondj köszönetet az érdeklődése iránt, ez nagy dícséret!
+Ugyanakkor a hozzájárulások rendszeres figyelmen kívül hagyása negatív jelet küldhet a közösségnek. A projekthez való hozzájárulás elrettentő is lehet, különösen, ha valaki először próbálja. Még ha nem is fogadod el az általa benyújtott hozzájárulást, becsüld meg azt a személyt aki benyújtotta, és mondj köszönetet az érdeklődése iránt, ez nagy dicséret!
 
 Ha nem akarsz elfogadni egy hozzájárulást:
 
@@ -128,7 +128,7 @@ Ne érezd bűntudatot azért, mert nem fogadsz el egy hozzájárulást. Az első
 
 Végül, ha a hozzájárulás nem elég jó, akkor nem vagy köteles elfogadni azt. Légy kedves és közreműködő, ha az emberek hozzájárulnak a projekthez, de csak azokat a változásokat fogadd el, amelyektől valóban azt hiszed, hogy a projekt jobbá válik. Minél gyakrabban gyakorolod a nemet mondást, annál könnyebbé válik.
 
-### Legyél proaktív
+### Legyél pro-aktív
 
 A nemkívánatos hozzájárulások mennyiségének csökkentése érdekében mindenekelőtt mutasd be a hozzájárulási útmutatóban a projekt hozzájárulások benyújtásának és elfogadásának folyamatát.
 
@@ -139,7 +139,7 @@ Ha túl sok gyenge színvonalú hozzájárulást kapsz, kérd meg a közreműkö
 
 Ha nem követik a szabályokat, akkor azonnal zárd le a jelzést és hivatkozd meg a dokumentációt.
 
-Noha ez a megközelítés kezdetben kellemetlennek tűnik, a proaktív fellépés mindkét fél számára jó. Csökkenti annak az esélyét, hogy valaki sok elpazarolt órát fordítson egy beolvasztási kérelemre, amelyet nem fogsz elfogadni. Emellett a Te munkaterhelésed is könnyebben kezelhetővé válik.
+Noha ez a megközelítés kezdetben kellemetlennek tűnik, a pro-aktív fellépés mindkét fél számára jó. Csökkenti annak az esélyét, hogy valaki sok elpazarolt órát fordítson egy beolvasztási kérelemre, amelyet nem fogsz elfogadni. Emellett a Te munkaterhelésed is könnyebben kezelhetővé válik.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
@@ -161,19 +161,19 @@ Ha azt látod, hogy valaki lelkesedik a projekted iránt, de egy kis segítségr
 
 Nem kell mindent egymagad csinálni. A projekt közösség okkal létezik! Ha még nincs aktív közreműködő közösség, de már sokan vannak benne, akkor is próbáld munkára fogni őket.
 
-### Osszd el a munkaterhelést
+### Oszd el a munkaterhelést
 
 Ha szeretnél másokat bevonni, akkor kérdezz körbe.
 
 Az új közreműködők megszerzésének egyik módja az, hogy kifejezetten [olyan issue-kat nevezel meg, amelyek elég egyszerűek a kezdők számára](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub segíti ezen issue-k kiemelésén és láthatóvá tételét.
 
-Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a projekhez, akkor ismerd el a munkájukat azzal, hogy nagyobb felelősséget adsz számukra. Dokumentáld le, hogy hogyan válhat valaki a projekt irányító tagjává, ha azt szeretné.
+Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a projekthez, akkor ismerd el a munkájukat azzal, hogy nagyobb felelősséget adsz számukra. Dokumentáld le, hogy hogyan válhat valaki a projekt irányító tagjává, ha azt szeretné.
 
-Ösztönözz másokat arra, hogy [résztvegyenek a projekt irányításában](../building-community/#a-projekt-tulajdonjogának-megosztása) ezzel jelentősen csökkented a saját terhelésed, mint ahogy @lmccart észrevette ezt a saját projektjénél, [p5.js](https://github.com/processing/p5.js).
+Ösztönözz másokat arra, hogy [részt vegyenek a projekt irányításában](../building-community/#a-projekt-tulajdonjogának-megosztása) ezzel jelentősen csökkented a saját terhelésed, mint ahogy @lmccart észrevette ezt a saját projektjénél, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  Azt mondtam: "Igen, bárki jöhet, nem kell sok tapasztalattal rendelkeznie a kódolás területén [...]." Az emberek feliratkoztak, hogy eljöjjenek [a rendezvényre], és nagyon kiváncsi voltam rá, hogy valóban jó-e az, amit mondtam? 40 ember megjelent, és nem úgy tünt hogy mindenkivel, egyenként le tudok ülni beszélni... De az emberek összeálltak, és egyszerűen csak elkezdett minden jól működni. Amint egy ember megértette a dolgot, elkezdte a többieket tanítani.
+  Azt mondtam: "Igen, bárki jöhet, nem kell sok tapasztalattal rendelkeznie a kódolás területén [...]." Az emberek feliratkoztak, hogy eljöjjenek [a rendezvényre], és nagyon kíváncsi voltam rá, hogy valóban jó-e az, amit mondtam? 40 ember megjelent, és nem úgy tűnt hogy mindenkivel, egyenként le tudok ülni beszélni... De az emberek összeálltak, és egyszerűen csak elkezdett minden jól működni. Amint egy ember megértette a dolgot, elkezdte a többieket tanítani.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["Mit jelent még az "Nyílt Forrás"? p5.js Kiadás"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
@@ -181,17 +181,17 @@ Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a proje
 
 Ha a projektet magára kell hagynod rövid vagy akár hosszabb időre, akkor nincs semmi szégyelleni való abban, ha megkérsz mást, hogy vegye át a helyed.
 
-Ha mások is lelkesek a projekt irányát illetően, akkor add meg nekik a hozzáférést, vagy formálisan is add át az irányítást. Ha valaki forkolta a projektet, és másutt aktívan fenntartja azt, fontold meg az eredeti projekt csatlakozását ehhez. Nagyszerű, ha sok ember akarja azt, hogy a projekt tovább éljen!
+Ha mások is lelkesek a projekt irányát illetően, akkor add meg nekik a hozzáférést, vagy formálisan is add át az irányítást. Ha valaki forkolta a projektet, és máshol aktívan fenntartja azt, fontold meg az eredeti projekt csatlakozását ehhez. Nagyszerű, ha sok ember akarja azt, hogy a projekt tovább éljen!
 
 @progrium [úgy találta](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) hogy a projekt vízió dokumentálása a [Dokku](https://github.com/dokku/dokku) esetén, segített abban, hogy a célok tovább éljenek még akkor is, amikor ő már nem vesz részt a projektben:
 
-> Egy wiki oldalon leírtam, hogy mit és miért akartam. Valami oknál fogva meglepetésnek számított nekem, hogy a karbantartók elkezdték vinni a projektet ebbe az irányba! Hogy pontosan úgy történt ez, ahogy én tettem volna? Nem mindig. De mégis közelebb hozta a projektet ahhoz, amit leírtam.
+> Egy wiki oldalon leírtam, hogy mit és miért akartam. Valami oknál fogva meglepetésnek számított nekem, hogy a karbantartók elkezdték vinni a projektet ebbe az irányba! Hogy pontosan úgy történt ez, ahogy én csináltam volna? Nem mindig. De mégis közelebb hozta a projektet ahhoz, amit leírtam.
 
 ### Hagyd, hogy mások építsék ki a számukra szükséges megoldásokat
 
 Ha egy potenciális közreműködő eltérő véleményen van arról, hogy mit kellene a projektben megvalósítani, akkor érdemes udvariasan ösztönözni őt, hogy saját forkon dolgozzon.
 
-A projekt forkolása (elágaztatása) nem jelent rossz dolgot. A projekt lemásolása és módosítása a legjobb része a nyílt forráskódnak. A közösség tagjainak ösztönzése arra, hogy saját forkon dolgozzanak alkalmas arra, hogy saját kreatívitásukat kiélhessék anélkül, hogy ez ütközne a projekted eredeti víziójával.
+A projekt forkolása (elágaztatása) nem jelent rossz dolgot. A projekt lemásolása és módosítása a legjobb része a nyílt forráskódnak. A közösség tagjainak ösztönzése arra, hogy saját forkon dolgozzanak alkalmas arra, hogy saját kreativitásukat kiélhessék anélkül, hogy ez ütközne a projekted eredeti víziójával.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
@@ -201,7 +201,7 @@ A projekt forkolása (elágaztatása) nem jelent rossz dolgot. A projekt lemáso
   </p>
 </aside>
 
-Ugyanez a megoldás jó akkor is, ha valaki komolyan akarna egy megoldást a projektben valamire, de erre neked már nincs kapacitásod. API-k és testreszabható hook-ok biztosítása lehetővé teszi mások számára, hogy anélkül elégítsék ki a szükségleteiket, hogy a projektet módosítani kellene közvetlenül. @orta [szerint](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) a CocoaPods plugin megjelenése vezetett "néhány nagyon érdekes ötlethez":
+Ugyanez a megoldás jó akkor is, ha valaki komolyan akarna egy megoldást a projektben valamire, de erre neked már nincs kapacitásod. API-k és testre szabható hook-ok biztosítása lehetővé teszi mások számára, hogy anélkül elégítsék ki a szükségleteiket, hogy a projektet módosítani kellene közvetlenül. @orta [szerint](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) a CocoaPods plugin megjelenése vezetett "néhány nagyon érdekes ötlethez":
 
 > Szinte elkerülhetetlen, hogy ha egy projekt nagyméretűvé válik, a karbantartóknak sokkal konzervatívabbá kell válniuk az új kódok bevezetése terén. Az rendben van, ha tudod mondani a "nem" szót, de sok embernek van valódi, jogos igénye. Emiatt a megoldást végül platformmá alakítod át.
 
@@ -217,7 +217,7 @@ A tesztek segítenek a közreműködőknek, hogy biztosak legyenek abban, hogy s
 
 Állíts be automatikus teszteket, amelyek az összes bejövő hozzájárulásra futnak, és győződj meg arról, hogy a teszteket a közreműködők könnyen, a saját gépeiken is futtathatják. Mielőtt beküldenék a hozzájárulásokat, követeld meg, hogy az összes kódminőségi követelményt teljesítse, minden teszten átmenjen. Itt egy segítség a minimális minőségi követelmények megkövetelésére: [Kötelező ellenőrzések](https://help.github.com/articles/about-required-status-checks/), a GitHub segít abban, hogy ellenőrzés nélkül a hozzájárulás ne kerüljön beolvasztásra.
 
-Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt a CONTRIBUTING.mg fájlban, hogy hogyan működnek.
+Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt a CONTRIBUTING.md fájlban, hogy hogyan működnek.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
@@ -229,7 +229,7 @@ Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt 
 
 ### Használj eszközöket az alapvető karbantartási feladatok automatizálásához
 
-A jó hír egy népszerű projekt fenttartásához az, hogy más karbantartók valószínűleg hasonló problémákkal már szembesültek és megoldást találtak rá.
+A jó hír egy népszerű projekt fenntartásához az, hogy más karbantartók valószínűleg hasonló problémákkal már szembesültek és megoldást találtak rá.
 
 [Számos eszköz elérhető](https://github.com/showcases/tools-for-open-source) amelyek a karbantartók munkájának különböző részeit automatizálják. Néhány példa:
 
@@ -241,7 +241,7 @@ A jó hír egy népszerű projekt fenttartásához az, hogy más karbantartók v
 
 A hiba jelzésekhez és más általános hozzájárulásokhoz a GitHub biztosít egy [hiba jelzés és beolvasztási kérelem formanyomtatványt](https://github.com/blog/2111-issue-and-pull-request-templates), amellyel egyszerűsíteni és egységesíteni tudod ezek beadását. @TalAter készített egy [Választásos Kalandjátékot](https://www.talater.com/open-source-templates/#/) hogy segítse ezen formanyomtatványok elkészítését.
 
-Az email értesítések kezeléséhez be tudod állítani az [email szűrőket](https://github.com/blog/2203-email-updates-about-your-own-activity) amellyel a priorítás megadható.
+Az email értesítések kezeléséhez be tudod állítani az [email szűrőket](https://github.com/blog/2203-email-updates-about-your-own-activity) amellyel a prioritás megadható.
 
 Ha még jobban akarod csinálni, akkor a stílus útmutatók és linterek segítenek abban, hogy a hozzájárulások könnyebben áttekinthetőbbek és beolvaszthatók legyenek.
 
@@ -251,13 +251,13 @@ Ha nem vagy biztos abban milyen eszközt kellene használnod, akkor nézz meg m�
 
 ## Teljesen rendben van, ha szünetet tartasz
 
-Eddig a nyílt forráskódú munka örömet okozott neked, de lehet hogy most már túlterhel téged, ami miatt kerülöd, és emiatt büntudatod van.
+Eddig a nyílt forráskódú munka örömet okozott neked, de lehet hogy most már túlterhel téged, ami miatt kerülöd, és emiatt bűntudatod van.
 
-Lehet, hogy túlterhelten érzed magad, vagy szorongást okoz, amikor a projektjeidre gondolsz, és mindeközben a kérdések és a beolvasztási kérelmek felhalmozódnak.
+Lehet, hogy túlterheltnek érzed magad, vagy szorongást okoz, amikor a projektjeidre gondolsz, és mindeközben a hibajelzések és a beolvasztási kérelmek felhalmozódnak.
 
 A kiégés létező és széles körben ismert probléma a nyílt forráskódú munkákban, különösen a karbantartók körében. Karbantartóként a megelégedettséged megkérdőjelezhetetlen követelmény a nyílt forráskódú projekted fennmaradásához.
 
-Magától értetődik, hogy szükség van pihenésre! Nem szabad elodázni a pihenést addid, amíg kiégsz. Például @brettcannon, a Python magfejlesztője úgy döntött, hogy [egy hónapos vakációt vesz ki](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) 14 éve folyamatosan tartó, önkéntes OSS munka után.
+Magától értetődik, hogy szükség van pihenésre! Nem szabad elodázni a pihenést addig, amíg kiégsz. Például @brettcannon, a Python fejlesztője úgy döntött, hogy [egy hónapos vakációt vesz ki](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) 14 éve folyamatosan tartó, önkéntes OSS munka után.
 
 Mint minden más munka esetén a rendszeres pihenők tartása felfrissít, boldogabbá teszt és fokozza a munkád iránti vágyadat.
 

@@ -1,7 +1,7 @@
 ---
 lang: hu
 title: Építs befogadó közösséget
-description: Olyan közösség építése, amely bátorítja az embereket a használatra, a részvételre és a projekt hírnevének terjesztésére.
+description: Közösség építése, amely bátorítja az embereket a használatra, a részvételre és a projekt hírnevének terjesztésére.
 class: building
 order: 4
 image: /assets/images/cards/building.png
@@ -12,34 +12,34 @@ related:
 
 ## Sikeres projekt összeállítása
 
-Elindítottad a projektet, próbálod ismertté tenni, és az emberek megnézik. Fantasztikus! De hogy fogod őket megtartani?
+Elindítottad a projektet, próbálod ismertté tenni, és az emberek érdeklődnek iránta. Fantasztikus! De hogy fogod őket megtartani?
 
-A befogadó közösség egy befektetés a projekt jövőjébe és megítélésébe. Ha a projekt éppen most kezdi fogadni az első hozzájárulásokat, akkor kezd azzal, hogy az első közreműködők pozitív tapasztalatokat kapjanak, és könnyítsd meg nekik, hogy folyamatosan visszatérjenek.
+A befogadó közösség egy befektetés a projekt jövőjébe és megítélésébe. Ha a projekt éppen most kezdi el fogadni az első hozzájárulásokat, akkor kezd azzal, hogy az első közreműködők pozitív tapasztalatokat kapjanak, és könnyítsd meg nekik, hogy rendszeresen visszatérjenek.
 
 ### Érezzék az emberek, hogy szívesen látod őket
 
 Gondolj a projekt közösségére például úgy, ahogyan @MikeMcQuaid amit ő [résztvevői tölcsérnek](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) nevezett el:
 
-![résztvevői tölcsér](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![Résztvevői tölcsér](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-A közösség felépítése során fontold meg, hogy a tölcsér tetejéről valaki (potenciális felhasználó) hogyan tud eljutni a tölcsér aljára (aktív karbantartó). Cél, hogy minden résztvevő tapasztalatát javítsd ezeken a szakaszokon. Amikor az emberek könnyen érnek el eredményt, az ösztönözni fogja őket, hogy még többet tegyenek.
+A közösség felépítése során fontold meg, hogy a tölcsér tetejéről valaki (potenciális felhasználó) hogyan tud eljutni a tölcsér aljára (aktív karbantartó). Cél, hogy minden résztvevő tapasztalatát a projektről javítsd ezeken a szakaszokon. Amikor az emberek könnyen érnek el eredményt, az ösztönözni fogja őket, hogy még többet tegyenek.
 
 Kezd a dokumentációkkal:
 
-* **Tedd egyszerűvé, hogy valaki használhassa a projektedet!** [Egy batátságos README](../starting-a-project/#readme-írása) és tiszta kód példák mindenkit hozzásegítenek ahhoz, hogy könnyen el tudjanak indulni.
+* **Tedd egyszerűvé, hogy valaki könnyen használhassa a projektedet!** [Egy barátságos README](../starting-a-project/#readme-írása) és tiszta kód példák mindenkit hozzásegítenek ahhoz, hogy könnyen el tudjanak indulni.
 * **Tisztán és érthetően magyarázd el, hogy hogyan lehet hozzájárulni**, használd a [CONTRIBUTING fájlodat](../starting-a-project/#részvételi-irányelvek-leírása) és a hibajelzéseket tartsd naprakészen.
-* **Good first issues**: Az új hozzájárulókat segíti az, ha egyértelműen [jelezve van címkével az issue, amely kezdőknek ajánlott](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub egyértelműen megmutatja ezeket az issue-kat, és ezzel segíti a hasznos hozzájárulásokat úgy, hogy a hozzájáruló szintjének megfelelő hibát ajánl megoldásra.
+* **Good first issues**: Az új hozzájárulókat segíti az, ha egyértelműen [jelezve van címkével az issue, amely kezdőknek ajánlott](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub kiemeli ezeket az issue-kat, és ezzel segíti a hasznos hozzájárulásokat úgy, hogy a hozzájáruló szintjének megfelelő hibát ajánl megoldásra.
 
-[A GitHub 2017. évi nyílt forráskódú felmérése](http://opensourcesurvey.org/2017/) azt mutatta ki, hogy a félkész és zavaros dokumentáció a legnagyobb probléma a felhasználók számára. A jó dokumentáció beszippantja az embereket a projektbe: egyszercsak valaki nyit egy hibajelzést, vagy beküld egy beolvasztási kérelmet. Használd ki ezeket a lehetőségeket, hogy az emberek tovább mozogjanak lefelé a _résztvevői tölcséren_.
+[A GitHub 2017. évi nyílt forráskódú felmérése](http://opensourcesurvey.org/2017/) azt mutatta ki, hogy a félkész és zavaros dokumentáció a legnagyobb probléma a felhasználók számára. A jó dokumentáció beszippantja az embereket a projektbe: egyszer csak valaki nyit egy hibajelzést, vagy beküld egy beolvasztási kérelmet. Használd ki ezeket a lehetőségeket, hogy az emberek tovább mozogjanak lefelé a _résztvevői tölcséren_.
 
 * **Ha valaki újként jelenik meg a projektben, akkor köszönd meg neki az érdeklődését!** Egyetlen egy negatív tapasztalat is elég ahhoz, hogy valaki ne jöjjön vissza többé a projekthez.
 * **Legyél reszponzív!** Ha hónapokig nem válaszol a problémájára valakinek, nagy esély van rá, hogy elfelejti a projektedet.
-* **Légy nyitott gondolkodású az új hozzájárulások elfogadásakor!** Sok hozzájáruló hibák jelzésével vagy apró javításokkal kezdi. [Számos módja van a hozzájárulásoknak](../how-to-contribute/#mit-jelent-a-hozzájárulás) a projekthez. Hagy segítsenek az emberek úgy, ahogy ők akarnak.
-* **Ha van olyan hozzájárulás, amivel nem értesz egyet,** akkor köszönd meg az ötletet, és [magyarázd el miért](../best-practices/#meg-kell-tanulni-nemet-mondani) nem felel meg a projekt víziónak és csatold a hivatkozásokat a dokumentációidból.
+* **Légy nyitott gondolkodású az új hozzájárulások elfogadásakor!** Sok hozzájáruló hibák jelzésével vagy apró javításokkal kezdi. [Számos módja van a hozzájárulásoknak](../how-to-contribute/#mit-jelent-a-hozzájárulás) a projekthez. Hagy segítsenek az emberek úgy, ahogy ők szeretnének.
+* **Ha van olyan hozzájárulás, amivel nem értesz egyet,** akkor köszönd meg az ötletet, és [magyarázd el miért](../best-practices/#meg-kell-tanulni-nemet-mondani) nem felel meg a projekt víziónak, és csatold a hivatkozásokat a dokumentációra.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  A nyílt forrásban való részvétel valaki könnyebb, valakinek nehezebb. Attól tarthat valaki, hogy pellengérre állítják, ha nem tesz valamit helyesen, vagy ha nem illeszkedik be. (...) Azáltal, hogy a nagyon alacsony műszaki jártassággal rendelkező közreműködőknek is megadjuk a lehetőséget a hozzájárulásra (dokumentáció, tartalom, stb.), nagymértékben csökkenthetjük ezt az aggodalmat.
+  A nyílt forrásban való részvétel valaki számára könnyebb, valakinek nehezebb. Attól tarthat valaki, hogy pellengérre állítják, ha nem tesz valamit helyesen, vagy ha nem illeszkedik be. (...) Azáltal, hogy a nagyon alacsony műszaki jártassággal rendelkező közreműködőknek is megadjuk a lehetőséget a hozzájárulásra (dokumentáció, tartalom, stb.), nagymértékben csökkenthetjük ezt az aggodalmat.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Közreműködői bázis bővítése a modern nyílt forráskódban"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -53,15 +53,15 @@ Más közreműködők ösztönzése számodra is hasznos befektetés. Ha támoga
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Voltál már valaha olyan (tech-) rendezvényen, ahol nem ismertél senkit, de úgy tűnt számodra, hogy mindenki más csoportokban áll és beszélget, mint a régi barátok? (...) Most képzeld el, hogy hozzá szeretnél járulni egy nyílt forráskódú projekthez, de nem tudod, miként és hogyan lehetséges ez.
+  Voltál már valaha olyan (tech-) rendezvényen, ahol nem ismertél senkit, de úgy tűnt számodra, hogy mindenki más csoportokban áll és beszélget, mint a régi jó barátok? (...) Most képzeld el, hogy hozzá szeretnél járulni egy nyílt forráskódú projekthez, de nem tudod, miként, és hogyan lehetséges ez.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Fenntartható Nyílt Forráskód"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Amikor új projektet indítasz, természetesnek tűnhet, hogy a munkádat nem publikálod. De a nyílt forráskódú projektek akkor sikeresek, ha a folyamatait nyilvánosan dokumentálod.
+Amikor új projektet indítasz, először természetesnek tűnhet, hogy a munkádat nem publikálod. De a nyílt forráskódú projektek akkor sikeresek, ha a folyamatait is nyilvánosan dokumentálod.
 
-Amikor leírod a dolgokat, több ember vehet részt a projekt minden lépésében. Segíthet akár olyan dolgokban is, amelyekre még nem is gondoltad volna, hogy szükséged van.
+Amikor leírod a dolgokat, több ember vehet részt a projekt minden lépésében. Segíthet akár olyan dolgokban is, amelyekre még nem is gondoltad, hogy szükséged van.
 
 A dolgok leírása nem csupán a műszaki dokumentációt jelent. Bármikor, amikor azt érzed, hogy le kell írni valamit, vagy egy magánbeszélgetést folytattál a projektről, gondolkozz el arról, hogy nyilvánosságra tudod-e hozni azt.
 
@@ -69,33 +69,33 @@ Legyen átlátható a projekt ütemterve, a várt hozzájárulások típusai, va
 
 Ha több felhasználó jelzi ugyanazt a problémát, akkor dokumentáld a válaszokat a README részben.
 
-Találkozók alkalmával fontold meg a megjegyzések vagy döntések közzétételét egy vonatkozó kérdésben. Az ilyen átláthatóság szintjén kapott visszajelzés lehet meg fog lepni.
+Találkozók alkalmával fontold meg a megjegyzések, vagy döntések közzétételét az adott kérdésben. Az ilyen szintű átláthatóság miatt kapott visszajelzések lehet meg fognak majd lepni.
 
-Mindennek a dokumentálása az te általad végzett munkára is vonatkozik. Ha a projekt lényeges frissítésén dolgozol,akkor add fel beolvasztási kérelemként és jelöld meg folyamatban lévő munkaként (WIP). Ily módon más emberek már korán bekapcsolódhatnak folyamatba és maguknak érzik azt.
+Mindennek a dokumentálása az te általad végzett munkára is vonatkozik. Ha a projekt lényeges frissítésén dolgozol, akkor add fel beolvasztási kérelemként és jelöld meg folyamatban lévő munkaként (WIP). Ily módon más emberek, már korán bekapcsolódhatnak a folyamatba és így maguknak érzik azt.
 
 ### Legyél reszponzív
 
 Amint [ismertté próbálod tenni a projektet](../finding-users), az emberek visszajelzéseket fognak küldeni neked. Lesznek kérdéseik a működéséről, vagy épp segítségre lehet szükségük az induláshoz.
 
-Próbáljon reagálni, ha valaki problémát vagy beolvasztási kérelmet nyújt be, vagy kérdést tesz fel a projekttel kapcsolatban. Ha gyorsan reagálsz, az emberek úgy érzik, hogy részesei a párbeszédnek, és lelkesebben fognak részt venni.
+Próbálj azonnal reagálni, ha valaki hibajegyet vagy beolvasztási kérelmet nyújt be, vagy kérdést tesz fel a projekttel kapcsolatban. Ha gyorsan reagálsz, az emberek úgy érzik, hogy részesei a párbeszédnek, és lelkesebben fognak részt venni.
 
 Még ha a kérelmet nem is tudod azonnal átvizsgálni, a korai befogadás segít növelni az elkötelezettséget. Így válaszolt @tdreyno a [Middleman](https://github.com/middleman/middleman/pull/1466) egyik beolvasztási kérelmére:
 
 ![Middleman beolvasztási kérelem](/assets/images/building-community/middleman_pr.png)
 
-[Egy Mozilla tanulmány szerint](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) azoknak a válaszadóknak, akik 48 órán belül megkapták a kód review eredményét, sokkal magasabb volt a visszatérési aránya a projekthez és a hozzájárulása ahhoz.
+[Egy Mozilla tanulmány szerint](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) azoknak a válaszadóknak, akik 48 órán belül megkapták a kód review eredményét, sokkal magasabb volt a visszatérési aránya a projekthez, és a hozzájárulásuk ahhoz.
 
 A projekttel kapcsolatos beszélgetések az internet más részein is zajlanak, például a StackOverflow, a Twitter vagy a Reddit oldalain. Ezen helyek egy részén értesítéseket állíthatsz be, így figyelmeztetést kapsz, ha valaki megemlíti a projektedet.
 
 ### Biztosíts egy helyet a közösségednek
 
-Két oka is van, hogy miért kell a közösségnek egy helyet biztosítani, ahol összejöhetnek.
+Két oka is van, hogy miért kell a közösségnek egy állandó helyet biztosítani, ahol összejöhetnek.
 
-Az első ok ők maguk. Segíts az embereknek megismerni egymást. A közös érdeklődésű emberek szeretnének egy helyet, ahol lehet beszélgetni. És amikor a kommunikáció nyilvános és hozzáférhető, bárki elolvashatja a múltbeli archívumokat, hogy felvegye a ritmust és hogy részt vegyen a párbeszédben.
+Az első ok ők maguk. Segíts az embereknek megismerni egymást. A közös érdeklődésű emberek szeretnének egy helyet, ahol lehet beszélgetni. És amikor a kommunikáció nyilvános és hozzáférhető, bárki elolvashatja a múltbeli archívumokat, hogy felvegye a ritmust, és hogy részt vegyen a párbeszédben.
 
-A másik ok te vagy. Ha nem biztosítasz egy nyilvános helyet az embereknek ahol a projektjéről lehet beszélni, akkor valószínűleg közvetlenül téged keresnek meg. A kezdetben ez könnyűnek tűnhet, ha a magánüzenetekre csípőből válaszolunk. De az idő múlásával, különösen, ha a projekt népszerűvé válik, kimerülten fogod magad érezni. Állj ellen annak a kísértésnek, hogy privát módon kommunikálj az emberekkel a projekttel kapcsolatosan. Ehelyett irányítsd őket egy kijelölt és nyilvános csatornára.
+A másik ok te vagy. Ha nem biztosítasz egy nyilvános helyet az embereknek, ahol a projektjéről lehet beszélni, akkor valószínűleg közvetlenül téged keresnek meg. A kezdetben ez könnyűnek tűnhet, hiszen a magánüzenetekre csípőből válaszolunk. De az idő múlásával, különösen, ha a projekt népszerűvé válik, kimerülten fogod magad érezni. Állj ellen annak a kísértésnek, hogy privát módon kommunikálj az emberekkel a projekttel kapcsolatosan. Ehelyett irányítsd őket egy kijelölt, és nyilvános csatornára.
 
-A nyilvános kommunikáció egyszerű lehet, ha arra kéred az embereket, hogy nyissanak egy hibajegyet, ahelyett, hogy közvetlenül e-mailen küldnének azt, vagy megjegyzést fűznének a blogodhoz. Beállíthatsz egy levelezőlistát, vagy létrehozhatsz egy Twitter fiókot, Slack vagy akár egy IRC csatornát arra, hogy az emberek beszéljenek a projektedről. De akár próbálkozhatsz mindegyikkel!
+A nyilvános kommunikáció egyszerű, ha arra kéred az embereket, hogy nyissanak egy hibajegyet, ahelyett, hogy közvetlenül e-mailen küldnének azt, vagy megjegyzést fűznének a blogodhoz. Beállíthatsz egy levelezőlistát, vagy létrehozhatsz egy Twitter fiókot, Slack vagy akár egy IRC csatornát arra, hogy az emberek beszéljenek a projektedről. De akár próbálkozhatsz mindegyikkel!
 
 [Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) minden második héten biztosít időt arra, hogy segítse a közösség tagjait:
 
@@ -105,29 +105,29 @@ A nyilvános kommunikáció alól kivételt képeznek: a 1) biztonsági kérdés
 
 ## Növeld a közösséget
 
-A közösség rendkívül erős dolog. Ez a hatalom áldás vagy átok lehet, attól függően, hogy hogyan kezeled. Ahogy a projekt közössége növekszik, vannak olyan módok, amelyek segítenek abban, hogy ez az erő az építés, és ne pusztítás erőjévé váljon.
+A közösség rendkívül erős dolog. Ez a hatalom áldás vagy átok lehet, attól függően, hogy hogyan kezeled. Ahogy a projekt közössége növekszik, vannak olyan módok, amelyek segítenek abban, hogy ez az erő az építés, és ne pusztítás erejévé váljon.
 
 ### Ne tűrd el a helytelen viselkedést
 
-Bármely népszerű projekt elkerülhetetlenül vonzza azokat az embereket, akik ahelyett, hogy segítséget nyújtanának a közösségnek inkább ártanak neki. Lehet, hogy felesleges vitákat indítanak, felkavaró kritikákat fogalmaznak meg alapvető funkciókról, vagy másokat piszkálhatnak.
+Bármely népszerű projekt elkerülhetetlenül vonzza azokat az embereket, akik ahelyett, hogy segítséget nyújtanának a közösségnek inkább ártanak neki. Lehet, hogy felesleges vitákat indítanak, felkavaró kritikákat fogalmaznak meg alapvető funkciókról, vagy másokat piszkálnak.
 
-Tegyél meg mindent, hogy zéró toleranciát tanusíts az ilyen típusú emberekkel szemben. Ha figyelmen kívül hagyod ezt, akkor a negatív emberek kellemetlenné teszik a közösség többi tagjának részvételét a projektben. Akár emiatt még távozhatnak is.
+Tegyél meg mindent, hogy zéró toleranciát tanúsíts az ilyen típusú emberekkel szemben. Ha figyelmen kívül hagyod ezt, akkor a negatív emberek kellemetlenné teszik a közösség többi tagjának részvételét a projektben, akik akár emiatt még távozhatnak is.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  Az igazság az, hogy kulcsfontosságú a támogató közösség. Soha nem tudnám ezt a munkát elvégezni kollégáim, barátságos internetes idegenek, és az IRC-csatornáim nélkül. (...) Ne elégedj meg kevesebbel. Ne fogadd el a seggfejeket.
+  Az igazság az, hogy kulcsfontosságú a támogató közösség. Soha nem tudnám ezt a munkát elvégezni kollégáim, barátságos internetes idegenek, és az IRC-csatornáim nélkül. (...) Ne elégedj meg kevesebbel. Ne tűrd meg a seggfejeket.
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["Hogyan működik a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-A projekt triviális szempontjairól folytatott rendszeres vita zavarhat másokat, köztük téged is, és elvonja a figyelmet a fontos feladatokról. A projektbe érkező új emberek láthatják ezeket a beszélgetéseket, és emiatt nem akarnak részt venni majd benne.
+A projekt alapvető céljairól folytatott rendszeres vita zavarhat másokat, köztük téged is, és elvonja a figyelmet a fontos feladatokról. A projektbe érkező új emberek láthatják ezeket a beszélgetéseket, és emiatt lehet nem akarnak részt venni majd benne.
 
-Ha negatív viselkedést látsz a projektben, azt hozd nyilvánosságra. Magyarázd el kedvesen, de határozott hangon, hogy miért nem fogadható el ez a viselkedés. Ha a probléma továbbra is fennáll, akkor lehet, hogy [fel kell kérned az érintettet a távozásra](../code-of-conduct/#a-magatartási-kódex-érvényesítése). A [Magatartási kódexed](../code-of-conduct/) konstruktív útmutatást jelenthet ezekhez a beszélgetésekhez.
+Ha negatív viselkedést látsz a projektben, azt hozd nyilvánosságra. Magyarázd el kedvesen, de határozott hangon, hogy miért nem fogadható el ez a viselkedés. Ha a probléma továbbra is fennáll, akkor lehet, hogy [fel kell kérned az érintettet a távozásra](../code-of-conduct/#a-magatartási-kódex-érvényesítése). A [Magatartási kódexed](../code-of-conduct/) konstruktív útmutatást jelenthet az ilyen jellegű beszélgetésekhez.
 
 ### Maradj kapcsolatban
 
-A jó dokumentáció akkor válik fontossabbá, ha közösséged növekszik. Az alkalmi közreműködők, akik esetleg egyébként nem ismerik a projektet, azért olvassák el a dokumentációt, hogy gyorsan megértsék azt a környezetet, amire szükségük van.
+A jó dokumentáció akkor válik fontosabbá, ha közösséged növekszik. Az alkalmi közreműködők, akik esetleg egyébként nem ismerik a projektet, azért olvassák el a dokumentációt, hogy gyorsan megértsék azt a környezetet, amire szükségük van.
 
 A CONTRIBUTING fájljában kifejezetten mond el az új közreműködőknek az elindulás módját. Érdemes lehet erre a célra egy külön fejezetet létrehozni. Például a [Django](https://github.com/django/django) projektnek van egy speciális nyitóoldallal, amelyen az új közreműködőket fogadják.
 
@@ -137,7 +137,7 @@ A hibalistában azon hibákat címkézd meg, amelyek különböző hozzájárul�
 
 Végül, de nem utolsó sorban a dokumentáció alapján érezzék az emberek, hogy szívesen látod őket bármely folyamatában a projektnek.
 
-Általában nem fogsz minden emberrel kommuikálni, aki megfordul a projekten. Lehet, hogy lesznek olyan hozzájárulások, amelyeket azért nem kapsz meg, mert valaki elrettent a projekttől, vagy nem tudta, hol kezdje. Akár néhány kedves szó is elég lehet ahhoz, hogy megakadályozd, hogy valaki csalódottan hagyja el a projektet.
+Általában nem fogsz közvetlenül minden emberrel kommunikálni, aki megfordul a projekten. Lehet, hogy lesznek olyan hozzájárulások, amelyeket azért nem kapsz meg, mert valaki elrettent a projekttől, vagy nem tudta, hogy hol kezdje. Akár néhány kedves szó is elég lehet ahhoz, hogy megakadályozd, hogy valaki csalódottan hagyja el a projektet.
 
 Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubinius/) projektben, [a CONTRIBUTING útmutatójuk](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
 
@@ -147,7 +147,7 @@ Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubin
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  A vezetőid eltérõ véleményekkel rendelkezhetnek, ahogy általában minden egészséges közösségnek! Oda kell figyelned azonban annak biztosítására, hogy ne mindig a leghangosabb hang nyerjen az emberek kifárasztásával, és hogy kevésbé prominens személyek és a kisebbségi hangok is hallatszódjanak.
+  A vezetőid eltérő véleményekkel rendelkezhetnek, ahogy általában minden egészséges közösségnek! Oda kell figyelned azonban annak biztosítására, hogy ne mindig a leghangosabb hang nyerjen az emberek kifárasztásával, és hogy kevésbé prominens személyek és a kisebbségi hangok is hallatszódjanak.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["Mitől jó egy közösség?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
@@ -155,7 +155,7 @@ Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubin
 
 Az emberek örömmel járulnak hozzá a projektekhez, ha maguknak érzik azt. Ez nem azt jelenti, hogy át kell szabni a projekt víziódat, vagy el kell fogadni a nem kívánt hozzájárulásokat. De minél többet adsz ebből másoknak, annál jobban magukénak fogják érezni.
 
-Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mértékben megosszd a tulajdont a közösséggel. Íme néhány ötlet:
+Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mértékben megoszd a tulajdont a közösséggel. Íme néhány ötlet:
 
 * **Állj ellen az egyszerű (nem kritikus) hibák javításának.** Ehelyett használd ezeket a hibákat arra, hogy új segítőket toborozz toborzására, vagy mentorálj valakit, aki szeretne hozzájárulni. Bár furcsának tűnhet, de ez a befektetés idővel megtérül. Például a @michaeljoseph megkérte az egyik közreműködőt, hogy nyújtson be beolvasztási kérelmet egy alábbi, [Cookiecutter] (https://github.com/audreyr/cookiecutter) hibával kapcsolatosan, ahelyett, hogy saját maga javította volna ki.
 
@@ -187,7 +187,6 @@ A projekt korai szakaszában a fontos döntések meghozatala egyszerű. Ha akars
 
 Ahogy a projekt népszerűbbé válik, egyre több embert érdekelnek majd az általad meghozott döntések. Még ha nem is rendelkezel nagy közreműködő közösséggel, de a projektnek már sok felhasználója van, akkor találni fogsz olyan embereket, akik a döntéseket mérlegelni fogják, vagy a saját kifogásaikat megfogalmazzák.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
 Nagyrészt barátságos és tiszteletteljes közösség esetén és nyíltan dokumentált folyamat esetén találni fogsz megoldást. De néha olyan helyzetbe kerülhetsz, amit kicsit nehezebb lesz megoldani.
 
 ### Viselkedéseddel mutass példát

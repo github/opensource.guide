@@ -121,7 +121,7 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 
 ### Szeretsz segíteni embereken?
 
-* Válaszolj a projekttel kapcsolatos kérdésekre, például a Stack Overflow-n, ([mint ez a Postgres példa](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) vagy a Reddit-en
+* Válaszolj a projekttel kapcsolatos kérdésekre, például a StackOverflow-n, ([mint ez a Postgres példa](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) vagy a Reddit-en
 * Válaszold meg a kérdéseket a nyitott problémákról
 * Segíts moderálni a beszélgetést a fórumokon vagy egyéb csatornákon
 
@@ -385,7 +385,7 @@ Akár csak egyszeri résztvevő vagy, vagy csatlakoznál a közösséghez, a má
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[Mint új résztvevő,\] gyorsan észrevettem azt, hogy kérdéseket kell feltennem, ha a végére akarok járni egy problémának. Átrágtam magam a kódon és amint némileg megértettem, hogy hogyan műküdnek a dolgok, további iránymutatást kértem. És _voilà!_ meg tudtam oldani a problémát, miután megkaptam a szükséges részleteket.
+  \[Mint új résztvevő,\] gyorsan észrevettem azt, hogy kérdéseket kell feltennem, ha a végére akarok járni egy problémának. Átrágtam magam a kódon és amint némileg megértettem, hogy hogyan működnek a dolgok, további iránymutatást kértem. És _voilà!_ meg tudtam oldani a problémát, miután megkaptam a szükséges részleteket.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
   </p>
@@ -433,13 +433,13 @@ Mielőtt hibát jelzel, beolvasztást kérelmezel vagy esetleg kérdéseket tesz
 
 ### Összefoglalás
 
-Mielőtt bármibe belekezdenél, győződjön meg róla, hogy az ötletedet nem vitatták-e már meg máshol. Nézd meg a projekt README-jét, a nyitott és lezárt hibajegyeket és kérdéseket, a levelezőlistát és a Stack Overflow-t. Nem kell órákat töltened azzal, hogy átnézz mindent, de egy gyors keresés néhány kulcsszóra nem tart semeddig.
+Mielőtt bármibe belekezdenél, győződjön meg róla, hogy az ötletedet nem vitatták-e már meg máshol. Nézd meg a projekt README-jét, a nyitott és lezárt hibajegyeket és kérdéseket, a levelezőlistát és a StackOverflow-t. Nem kell órákat töltened azzal, hogy átnézz mindent, de egy gyors keresés néhány kulcsszóra nem tart semeddig.
 
 Ha nem találod meg a felvetést sehol, akkor mehetsz tovább. Ha a projekt a GitHub-on van, akkor nyithatsz egy hibajegyet vagy létrehozhatsz egy beolvasztási kérést a módosított kód alapján:
 
 * **Issues** (hiba, észrevétel) olyanok mint egy párbeszéd, vagy egy megbeszélés
 * **Pull requests** (beolvasztási kérelem) szolgál a munka megkezdésére
-* **Egyszerű kommunikációra,** például tisztázó- vagy a "Hogyan..." kérdésekre használd a Stack Overflow-t, IRC-t, Slack-et vagy egyéb rendelkezésre álló csevegő csatornát, ha van ilyen a projektben
+* **Egyszerű kommunikációra,** például tisztázó- vagy a "Hogyan..." kérdésekre használd a StackOverflow-t, IRC-t, Slack-et vagy egyéb rendelkezésre álló csevegő csatornát, ha van ilyen a projektben
 
 Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet benyújtanál, ellenőrizd a projektben való részvételről szóló dokumentációt (ezt gyakran a CONTRIBUTING vagy a README tartalmazza), mert lehetséges, hogy mellékelned kell valamilyen specifikus információt is. Például, a projekt kérheti azt, hogy egy űrlapot tölts ki, vagy megkövetelheti a teszteket.
 
@@ -458,7 +458,7 @@ Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvet�
 Általában a következő helyzetekben kell hibajegyet (_Issue_) nyitni:
 
 * Hiba jelentése, amelyet nem tudsz megoldani egymagad
-* Magasszintű probléma vagy téma, esetleg ötlet megbeszélése (például: közösség, vízió vagy szabályok)
+* Magas szintű probléma vagy téma, esetleg ötlet megbeszélése (például: közösség, vízió vagy szabályok)
 * Új funkció javasolása, vagy más projekt célok, ötletek
 
 Tippek a jó párbeszédhez:
@@ -476,16 +476,16 @@ Tippek a jó párbeszédhez:
 
 A beolvasztási kérelem nem feltétlen jelent befejezett munkát. Gyakran jobb korán megnyitni ezt, így mások megfigyelhetik és visszajelzéseket adhatnak róla. Csak jelöld meg "WIP" (Work in Progress) jelzéssel a tárgy soron. Ezek után bármikor, szabadon adhatsz hozzá új kódot (commit és push).
 
-Ha a projekt a GitHub-on van, akkor a következő képpen kell beolvasztási kérelmet benyújtani:
+Ha a projekt a GitHub-on van, akkor a következőképpen kell beolvasztási kérelmet benyújtani:
 
 * **[Ágaztasd (fork) el a kód tározót](https://guides.github.com/activities/forking/)** és klónozd le magadhoz lokálisan. A lokális másolatodat kapcsold az eredeti tárolóhoz (original "upstream") egy _remote_ hozzáadásával. Frissítsd minél gyakrabban a változásokat az "upstream"-ről, hogy naprakész maradj. Így beolvasztás esetén kisebb eséllyel lesz ütközés a kódok összefésülésekor. (Részletes instrukciókat [itt találsz](https://help.github.com/articles/syncing-a-fork/).)
 * **[Hozz létre egy új ágat (branch)](https://guides.github.com/introduction/flow/)** a módosításaidhoz.
 * **Hivatkozz meg bármilyen releváns hibajegyet** vagy a dokumentációt a beolvasztási kérelmedben (például, "Closes #37.")
 * **Adj hozzá a kérelmedhez "előtte" és "utána" képernyőképeket** ha HTML/CSS változás történt. Húzd be a képeket a beolvasztási kérelembe.
 * **Teszteld a változtatásokat!** Mindig futtasd le a meglévő teszteket a kódodon, vagy írj újakat ha szükséges. Függetlenül a tesztektől bizonyosodj meg arról, hogy a módosításod nem rontja-e el a projektet.
-* **A módosításaidnál alkalmazkodj a projekt kódolási stílusához** a legjobb tudásod szerint. Ez jelentheti azt, hogy más sorbehúzást kell használni a szövegben, lehet hogy a projekt használ pontosvesszőt, de te nem szoktál, vagy másként írják a kód kommenteket, mint ahogy te szoktad. He ezt betartod, a karbantartóknak könnyebb a kódot összefésülni (merge), másoknak pedig karbantartani és megérteni azt.
+* **A módosításaidnál alkalmazkodj a projekt kódolási stílusához** a legjobb tudásod szerint. Ez jelentheti azt, hogy más sorbehúzást kell használni a szövegben, lehet hogy a projekt használ pontosvesszőt, de te nem szoktál, vagy másként írják a kód kommenteket, mint ahogy te szoktad. Ha ezt betartod, a karbantartóknak könnyebb a kódot összefésülni (merge), másoknak pedig karbantartani és megérteni azt.
 
-Ha ez lesz az első beolvasztási kérelmed (Pull Request), akkor nézd ezt meg előtte: [Make a Pull Request](http://makeapullrequest.com/), amelyben @kentcdodds egy részletes videó anyagot készített. A beolvasztási kérelmek benyujtását a @Roshanjossey által készített [First Contributions](https://github.com/Roshanjossey/first-contributions) GitHub projekten is gyakorolhatod.
+Ha ez lesz az első beolvasztási kérelmed (Pull Request), akkor nézd ezt meg előtte: [Make a Pull Request](http://makeapullrequest.com/), amelyben @kentcdodds egy részletes videó anyagot készített. A beolvasztási kérelmek benyújtását a @Roshanjossey által készített [First Contributions](https://github.com/Roshanjossey/first-contributions) GitHub projekten is gyakorolhatod.
 
 ## Mi történik miután beküldted a kész beolvasztási kérelmedet?
 
@@ -513,12 +513,12 @@ Ha már nincs többé időd, hogy a problémán dolgozz (például időközben t
 
 ### 👎 Nem fogadták el a munkád
 
-A munkádat végül vagy elfogadják, vagy nem. Remélhetőleg még nem tettél bele túl sok munkát. Ha nem vagy benne biztos, hogy miért utasították el a hozzájárulásodat, nyugodtan kérdezz és tisztázd az okokat. De végül mindig tartsd tiszeletben a döntést! Ne vitatkozz feleslegesen és ne légy ellenséges! Bármikor megteheted, hogy elágaztatod a projektet (fork) és a saját verziódon dolgozol, ha nem értesz egyet.
+A munkádat végül vagy elfogadják, vagy nem. Remélhetőleg még nem tettél bele túl sok munkát. Ha nem vagy benne biztos, hogy miért utasították el a hozzájárulásodat, nyugodtan kérdezz és tisztázd az okokat. De végül mindig tartsd tiszteletben a döntést! Ne vitatkozz feleslegesen és ne légy ellenséges! Bármikor megteheted, hogy elágaztatod a projektet (fork) és a saját verziódon dolgozol, ha nem értesz egyet.
 
 ### 🎉 Elfogadták a munkád
 
-Hurrá! Sikresen hozzájárultál a nyílt forráskódhoz!
+Hurrá! Sikeresen hozzájárultál a nyílt forráskódhoz!
 
 ## Megcsináltad!
 
-Legyen szó az első nyílt forráskódú munkádról, vagy arról hogy új módját keresed a hozzájárulásnak, reméljük adtunk egy kis inspirációt a cselekvéshez. Még ha nem is fogadták el a hozzájárulásodat, ne feledj el köszönetet mondani a karbantartóknak, hogy energiát szántak rád és a munkádra. A nyílt forráskódot épp olyan emberek alakítják mint te: egy hibejelzés, egy beolvasztási kérés (Pull Request), néhány komment, vagy csak egy egyszerű köszönet.
+Legyen szó az első nyílt forráskódú munkádról, vagy arról hogy új módját keresed a hozzájárulásnak, reméljük adtunk egy kis inspirációt a cselekvéshez. Még ha nem is fogadták el a hozzájárulásodat, ne feledj el köszönetet mondani a karbantartóknak, hogy energiát szántak rád és a munkádra. A nyílt forráskódot épp olyan emberek alakítják mint te: egy hibajelzés, egy beolvasztási kérés (Pull Request), néhány komment, vagy csak egy egyszerű köszönet.

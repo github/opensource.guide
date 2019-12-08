@@ -16,7 +16,7 @@ A magatartási kódex egy olyan dokumentum, amelyben a viselkedéssel kapcsolato
 
 A magatartási kódex nem csak a résztvevőket, téged is meg tud védeni. Karbantartóként találkozhatsz olyan lehangoló résztvevőkkel, akik a negatív hozzáállásukkal elkedvetlenítenek és elszívják az energiáidat.
 
-A magatartási kódex lehetőséget ad arra, hogy az egészséges és konstruktív közösségi viselkedést megtarthasd. A proaktív viselkedésed segíthet abban, hogy te vagy a közösség tagjai elfásuljanak a projekteden, és fel tudsz lépni azok ellen, akik a kódex szabályait megsértik.
+A magatartási kódex lehetőséget ad arra, hogy az egészséges és konstruktív közösségi viselkedést megtarthasd. A pro-aktív viselkedésed segíthet abban, hogy te vagy a közösség tagjai elfásuljanak a projekteden, és fel tudsz lépni azok ellen, akik a kódex szabályait megsértik.
 
 ## A magatartási kódex létrehozása
 
@@ -89,7 +89,7 @@ Számos lehetőséged van arra, hogy eljárj a szabálysértőkkel szemben:
 
 * **Publikusan figyelmeztesd a kérdéses személyt** és magyarázd el, hogy a viselkedése negatívan hatott másokra, lehetőleg azon a csatornán, ahol történt. A nyilvános kommunikáció, ahol lehetséges, azt közvetíti a közösség többi tagja felé, hogy komolyan veszed a magatartási kódexet. Légy kedves, de szilárd a kommunikációban.
 
-* **Privát módon lépj kapcsolatba a kérdéses személlyel** és magyarázd el, hogy a viselkedése negatívan hatott másokra. Szenzitív információk esetén privát csatornákat használj. Ha valakivel privát levelezést folytatsz, akkor jó ötlet CC mezőben értesíteni a bejelentőt, így értesül róla, hogy megtetted a szükéséges lépéseket. Mindenképpen kérd a bejelentő hozzájárulását mielőtt a CC mezőbe teszed.
+* **Privát módon lépj kapcsolatba a kérdéses személlyel** és magyarázd el, hogy a viselkedése negatívan hatott másokra. Szenzitív információk esetén privát csatornákat használj. Ha valakivel privát levelezést folytatsz, akkor jó ötlet CC mezőben értesíteni a bejelentőt, így értesül róla, hogy megtetted a szükséges lépéseket. Mindenképpen kérd a bejelentő hozzájárulását mielőtt a CC mezőbe teszed.
 
 Néha a fentiek nem érnek célt. A kérdéses személy agresszív vagy ellenséges lesz és nem változtatja meg a viselkedését. Ebben a helyzetben meg kell fontolnod keményebb intézkedéseket is, mint például:
 
