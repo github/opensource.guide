@@ -20,7 +20,7 @@ Amikor egy projekt nyílt forráskódú, az azt jelenti, hogy **bárki szabadon 
 
 A nyílt forráskód azért hatásos, mert elhárítja az akadályt az együttműködés és a felhasználás elől, lehetővé teszi az emberek számára a gyors fejlesztést és terjesztést. És még azért is, mert a felhasználók számára lehetővé teszi, hogy kontrolljuk legyen a saját szoftvereik felett, ellenben a zárt forráskóddal. Például egy vállalkozás, amely nyílt forráskódot használ, képes lehet arra, hogy felbérel egy olyan fejelsztőt, aki elvégzi számára a szükséges fejlesztéseket, ahelyett, hogy kizárólag a zárt forrásúkódú szoftvert fejlesztő cég termékdöntéseire támaszkodna.
 
-_Free software_ kifejezés ugyanazokra a projektekre vonatkozik, mint amire az _open source_. Néhol láthatod [ezen kifejezések](https://en.wikipedia.org/wiki/Free_and_open-source_software) kombinációját is, mint például "free and open source software" (FOSS) vagy "free, libre, and open source software" (FLOSS). A _Free_ és _libre_ a _szabadságra_ utal, [nem az árra](#a-nyílt-forráskódú projekt-ingyenességet-jelent).
+_Free software_ kifejezés ugyanazokra a projektekre vonatkozik, mint amire az _open source_. Néhol láthatod [ezen kifejezések](https://en.wikipedia.org/wiki/Free_and_open-source_software) kombinációját is, mint például "free and open source software" (FOSS) vagy "free, libre, and open source software" (FLOSS). A _Free_ és _libre_ a _szabadságra_ utal, [nem az árra](#a-nyílt-forráskódú-projekt-ingyenességet-jelent).
 
 ### Miért vesznek részt az emberek a nyílt forráskódú projektekben?
 
@@ -48,13 +48,13 @@ A legtöbb nyílt forráskódú projekt nem kerül pénzbe. Az ingyenesség ált
 
 Mivel [a nyílt forráskódú licenc előírja](https://opensource.org/osd-annotated) azt, hogy mindenki használhatja, módosíthatja és megoszthatja a projektet bármilyen célra, ezért maga a _projekt_ ingyenes. Ha a projekt úgy döntene, hogy pénzt kér tőled, akkor bárki legálisan másolatot készíthet róla és használhatja az ingyenes verziót helyette.
 
-Bár a nyílt forráskódú projekt önmagában ingyenes, a nyílt forráskód nem definiálja magát az ingyenességet. Van lehetőség arra, hogy pénzt kérj egy nyílt forráskódú projektért, a kettős licencelés vagy a korlátozott funkciókon keresztül, ez még nem ütközik a nyílt forráskód definíciójával.
+Bár a nyílt forráskódú projekt önmagában ingyenes, a nyílt forráskód nem definiálja magát az ingyenességet. Van lehetőség arra, hogy pénzt kérj egy nyílt forráskódú projektért, a kettős licencelés, vagy a korlátozott funkciókon keresztül, ez még nem ütközik a nyílt forráskód definíciójával.
 
 ## Elindíthatom a saját nyílt forráskódú projektemet?
 
-A rövid válasz az igen, mert a saját projekten keresztül megismered a nyílt forráskódú projektek működését.
+A rövid válasz igen, mert a saját projekten keresztül megismered a nyílt forráskódú projektek működését.
 
-Ha sohasem vettél részt még nyílt forráskódú projektben, akkor bátortalan lehetsz majd, ha majd az emberek erre reagálnak, vagy ha felhívják a figyelmedet pár dologra. De emiatt ne aggódj, mert ez természetes, mással is így van!
+Ha sohasem vettél részt még nyílt forráskódú projektben, akkor bátortalan lehetsz majd, ha majd az emberek reakcíója miatt, vagy ha felhívják a figyelmedet pár dologra. De emiatt ne aggódj, mert ez természetes, mással is így van!
 
 A nyílt forráskód egy kreatív viselkedést igénylő dolog, mint az írás vagy a festés. Lehet, először félelmetesnek tűnik, hogy megosztod a munkádat a világgal, de ez a legjobb módja annak, hogy fejlődj, hiszen nem leszel jobb, ha nem kapsz kritikákat.
 
@@ -82,7 +82,7 @@ A nem kódolási feladatokra fordított idő függ a projekt nagyságától és 
 
 **Ha egy olyan cég tagja van, aki nyílt forráskódú projekttel rendelkezik,** bizonyosodj meg arról, hogy vannak megfelelő belső erőforrások a projekthez. Azonosítsd azokat az embereket, akik a karbantartói feladatot fognak végezni rajta, és oszd meg a közösséggel ezeket a feladatokat.
 
-Ha szükséges fix költségvetés, vagy alkalmazotti kör a fejlesztéshez, vagy fenntartáshoz, akkor kezd el ezeket a beszélgetéseket minél korábban.
+Ha szükséges fix költségvetés, vagy alkalmazotti kör a fejlesztéshez, vagy fenntartáshoz, akkor kezd el ezeket a egyeztetéseket minél korábban.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
@@ -94,7 +94,7 @@ Ha szükséges fix költségvetés, vagy alkalmazotti kör a fejlesztéshez, vag
 
 ### Hozzájárulás más projektekhez
 
-Ha a cél az, hogy megtanuld, hogyan működj együtt másokkal, vagy megértsd, hogyan működik a nyílt forráskód, fontold meg egy meglévő projekthez való hozzájárulást. Kezdj el azt a projektet, amelyet már használsz és szeretsz. A projekthez való hozzájárulást kezd olyan egyszerű dolgokkal, mint a helyesírási hibák javítása, vagy a dokumentáció frissítése.
+Ha a cél az, hogy megtanuld, hogyan működj együtt másokkal, vagy megértsd, hogyan működik a nyílt forráskód, fontold meg egy meglévő projekthez való hozzájárulást. Kezd azzal a projektel, amelyet már használsz, és szeretsz. A projekthez való hozzájárulást kezd olyan egyszerű dolgokkal, mint a helyesírási hibák javítása, vagy a dokumentáció frissítése.
 
 Ha nem vagy biztos abban, hogy hogyan kezdj neki, mint résztvevő, akkor nézd meg ezt: [How to Contribute to Open Source guide](../how-to-contribute/).
 
