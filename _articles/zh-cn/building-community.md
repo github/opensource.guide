@@ -26,15 +26,15 @@ related:
 
 从你的文档开始：
 
-* **让大家很容易上手。** [一份友好的 README](../starting-a-project/#writing-a-readme)以及清晰的代码示例将让大家很容易的上手。
-* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines)以及持续更新issues。
+* **让大家很容易上手。** [一份友好的 README](../starting-a-project/#撰写README)以及清晰的代码示例将让大家很容易的上手。
+* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](../starting-a-project/#编写你的贡献指南)以及持续更新issues。
 
 好的文档能够邀请他人参与你们项目的互动。最终，一些人会开一个issue或者pull request。将这些互动视为机会，将他们转移到漏斗的下方。
 
 * **当一些人选择了你们的项目，请对他们表示感谢！** 一次糟糕的体验就可能失去一个用户。
 * **及时回应。** 如果你们一个月都没有回答他们的问题，他们可能早已忘记了你们的项目。
-* **对你以后接受的所有贡献者持开放态度。** 很多贡献者是从一份bug报告或者小的修复开始的。这里有[很多为项目做贡献的方式](../how-to-contribute/#what-it-means-to-contribute)。让大家选择他们喜欢的方式。
-* **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#learning-to-say-no)它不适合项目，如果有必要的话你可以给出相关的文档链接。
+* **对你以后接受的所有贡献者持开放态度。** 很多贡献者是从一份bug报告或者小的修复开始的。这里有[很多为项目做贡献的方式](../how-to-contribute/#贡献意味着什么)。让大家选择他们喜欢的方式。
+* **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#学会说不)它不适合项目，如果有必要的话你可以给出相关的文档链接。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -125,7 +125,7 @@ related:
 
 关于项目琐碎方面的定期辩论会分散其他人（包括您）的注意力，使他们无法专注于重要任务。新人可能会看到这些对话而不想参加。
 
-当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](../code-of-conduct/#enforcing-your-code-of-conduct)。你的[行为准则](../code-of-conduct/)是为这些情景准备的建设性指南。
+当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](../code-of-conduct/#执行你们的行为守则)。你的[行为准则](../code-of-conduct/)是为这些情景准备的建设性指南。
 
 ### 知道贡献者在哪里
 
@@ -145,7 +145,7 @@ related:
 
 > 我们想感谢你们使用Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够找到你们的issue。
 
-### 分享你们的项目所有权
+### 分享项目所有权
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
@@ -212,7 +212,7 @@ related:
 
 ### 将你们的README视为最高法则
 
-README [不仅仅是一组指令](../starting-a-project/#writing-a-readme)。它也是一个谈论目标、产品愿景和路线的地方。
+README [不仅仅是一组指令](../starting-a-project/#撰写README)。它也是一个谈论目标、产品愿景和路线的地方。
 如果人们过分专注于讨论特定功能的优点，它可能有助于重新审视您的README，并谈论项目的更高的愿景。关注README也会使对话变得个人化，所以可以进行建设性的讨论。
 
 ### 专注过程，而不是结果

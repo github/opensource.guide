@@ -36,9 +36,9 @@ related:
 
 如果你们想让他人使用，复制，修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你们的项目是公开的，但没有你们的授权，一些人是不能合法在他们的代码中使用你们GitHub项目中的任何部分。
 
-## Just give me the TL;DR on what I need to protect my project.
+## 如何保护我们的项目
 
-你们很幸运，开源许可协议已经标准化了同时使用简单。你们可以直接复制粘贴一个已经存在的许可协议到你们的项目里。
+你们很幸运，开源许可协议已经标准化了，同时使用简单。你们可以直接复制粘贴一个已经存在的许可协议到你们的项目里。
 
 [MIT](https://choosealicense.com/licenses/mit/)，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)和[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)都是非常流行的开源许可协议，但是也有其它选择。你们可以在[choosealicense.com](https://choosealicense.com/)上找到这些许可协议的全部文本，同时说明了如何使用他们。
 
@@ -68,7 +68,7 @@ related:
 * **你们的项目是否想吸引大企业？**大型企业可能需要所有贡献者的明确专利许可。在这种情况下，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)适合你们。
 * **你们的项目是否想吸引不愿自己的贡献用于其它同类型软件的贡献者？**[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)和[AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)适合你们。
 
-你们的公司可能为自己的项目准备了特定的许可协议。例如，它可能需要许可许可证，以便公司可以在公司的闭源产品中使用你们的项目。或者你们的公司要求强大的copyleft许可协议同时要求贡献者赞成，这样项目只属于你们公司，没有人能在有关的软件中使用你们的项目。或者你们的公司可能有与标准，社会责任或透明度相关的某些需求，其中任何一个都可能需要特定的许可策略。与你们[公司的法律部门](#what-does-my-companys-legal-team-need-to-know)谈谈。
+你们的公司可能为自己的项目准备了特定的许可协议。例如，它可能需要许可许可证，以便公司可以在公司的闭源产品中使用你们的项目。或者你们的公司要求强大的copyleft许可协议同时要求贡献者赞成，这样项目只属于你们公司，没有人能在有关的软件中使用你们的项目。或者你们的公司可能有与标准，社会责任或透明度相关的某些需求，其中任何一个都可能需要特定的许可策略。与你们[公司的法律部门](#公司的法律团队需要知道什么)谈谈。
 
 当你们在GitHub上创建了一个新项目，它给你们提供了选择许可协议的机会。包括上面提到的可以使你们的GitHub项目开源的许可协议。如果你们想要了解其他选择，可以通过查阅[choosealicense.com](https://choosealicense.com)找到适合你们项目（即使它[不是软件](https://choosealicense.com/non-software/)）的许可协议。
 
@@ -86,7 +86,7 @@ related:
 
 或者，你们可以让贡献者事先同意（通过额外的贡献者协议 - 见下文）在某些条件下更改某些许可协议，这些更改将超过现有的开源许可协议。这会改变许可协议改的复杂性。如果在执行许可协议更改时，你们仍然想要和项目利益相关者进行沟通，你们需要从你们律师那得到更多帮助。
 
-## Does my project need an additional contributor agreement?
+## 我们的项目需要额外的贡献者协议吗？
 
 可能不要。对于大多数的开源项目，一个开源许可协议可作用与所有贡献者和用户。
 
