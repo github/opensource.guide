@@ -145,7 +145,7 @@ related:
 
 > 我们想感谢你们使用Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够找到你们的issue。
 
-### 分享项目所有权
+### 共享项目所有权
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
