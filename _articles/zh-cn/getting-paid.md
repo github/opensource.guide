@@ -10,7 +10,7 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## 为何有人需要寻找经济上支持
 
 很多开源的工作都是来自志愿者的辛勤付出。例如，有些人在使用项目的过程中遇到了问题，然后快速的修复了；也有些人是利用他们的业余时间在开源项目中需求挑战。
 
@@ -60,7 +60,7 @@ related:
 
 如果你在寻找金钱上的支持，可以考虑两条路径。你可以作为贡献者来将你的时间作为资金，或者是找一家能够为项目提供资金的组织。
 
-## Funding your own time
+## 为你自己的时间募资
 
 在今天，有很多人在开源中获得了报酬，无论是兼职或全职。最为常见的做法就是，有些老板愿意为你付出的时间和工作成果掏腰包。
 
@@ -104,7 +104,7 @@ related:
 * @gaearon 通过 [Patreon crowdfunding campaign](https://redux.js.org/)为他的项目 [Redux](https://github.com/reactjs/redux)成功的融到了资金。
 * @andrewgodwin [通过 Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 为Django schema 迁移拿到了资金
 
-## Finding funding for your project
+## 为你的项目募资
 
 除了针对个人贡献者的建议之外，还有一些项目可以从公司、独立投资方、以及其它的资金处来获得进一步的工作。
 
@@ -124,7 +124,7 @@ related:
 
 更多的案例和细节， @nayafia [专门写过一个指南](https://github.com/nayafia/lemonade-stand) ，专门针对的就是如何为开源工作获得报酬。不同类型的资助需要不同的技能，所以仔细的掂量下资格，然后找个最适合自己的方式。
 
-## Building a case for financial support
+## 获取商业支持
 
 无论你的项目是新的创意，还是已经运行多年，你都需要为你的资助者满意，并提出有效而合理的案例。
 
@@ -158,6 +158,6 @@ related:
   </p>
 </aside>
 
-## Experiment and don't give up
+## 持续尝试不言放弃
 
 赚更多的钱不是件容易的事情，无论你是在开源项目，亦或是在非盈利组织，又或者是软件的创业公司，但是无论在哪里，挣更多钱的秘密就是更多的创造力。当确定了你想如何获得报酬的时候，请继续你的研究，将自己放在投资人的角度来看问题，可以帮助你更好的构建一个更加令人信服的赚钱之道。

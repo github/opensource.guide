@@ -10,11 +10,11 @@ related:
   - building
 ---
 
-## Spreading the word
+## 四处传播
 
 并没有什么规范说当你创建一个开源项目时，要怎么去推广它。但没有任何理由说必须默默无闻的在开源项目上工作。相反，如果你想要有更多的人发现和使用你的开源项目，你就应该让所有人知道你所努力的成果！
 
-## Figure out your message
+## 发出你的声音
 
 在开始推广你的项目之前，你应该能够解释你的项目是做什么的，为什么大家需要它?
 
@@ -28,7 +28,7 @@ related:
 
 如果你想深入了解如何挖掘项目的"卖点"，看一下Mozilla的["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
-## Help people find and follow your project
+## 帮助用户找到并且追随你的项目
 
 <aside markdown="1" class="pquote">
   你最好有一个唯一的"主页"链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
