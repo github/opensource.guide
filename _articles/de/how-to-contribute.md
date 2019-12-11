@@ -204,7 +204,7 @@ Ein Projekt hat auch eine Dokumentation. Diese Dateien werden in der Regel im Ha
 * **README:** Die README ist die Bedienungsanleitung, die neue Community-Mitglieder im Projekt willkommen heißt. Sie erklärt, warum das Projekt nützlich ist, und wie man beginnen kann, es zu nutzen.
 * **CONTRIBUTING:** Während READMEs den Menschen helfen, das Ergebnis des Projektes _zu nutzen_, hilft die Kontributionsdokumentation dabei, zum Projekt beizutragen. Sie erklärt, welche Arten von Beiträgen benötigt werden und wie der Prozess funktioniert. Obwohl nicht jedes Projekt eine CONTRIBUTING-Datei hat, signalisiert ihre Präsenz, dass dieses Projekt offen für Beiträge ist.
 * **CODE_OF_CONDUCT:** Der Verhaltenskodex legt die Grundregeln für das Verhalten der Teilnehmer\*innen fest und trägt dazu bei, ein freundliches und einladendes Umfeld zu schaffen. Obwohl nicht jedes Projekt eine CODE_OF_CONDUCT-Datei hat, signalisiert ihre Präsenz, dass dieses Projekt offen für Beiträge ist.
-* **Andere Dokumentation:** Es kann zusätzliche Tutorials, Walkthroughs oder Governance-Richtlinien geben, vor llem bei größeren Projekten.
+* **Andere Dokumentation:** Es kann zusätzliche Tutorials, Walkthroughs oder Governance-Richtlinien geben, vor allem bei größeren Projekten.
 
 Schließlich verwenden Open-Source-Projekte die folgenden Werkzeuge, um Diskussionen zu organisieren. Wenn Sie die Archive durchlesen, erhalten Sie ein gutes Bild davon, wie die Gemeinschaft denkt und arbeitet.
 
