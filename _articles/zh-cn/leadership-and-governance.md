@@ -1,7 +1,7 @@
 ---
 lang: zh-cn
 title: 领导力和治理
-description: 决策有了较正式的规则，可让开源项目野蛮生长。
+description: 决策有了较正式的规则，可让开源项目迅速生长。
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -10,11 +10,11 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## 了解社区治理对快速发展的项目的重要性
 
 当项目开始有条不紊的进行，人员也开始稳定，那么你就应该开始社区的治理了。对于社区的治理，你或许有一些疑问，诸如如何将常规项目的贡献者纳入你的工作流？如何才能判断应该赋予谁提交的权限？又或者是如何解决社区的债务？如果你对这些有疑问的话，我们这里会尽力帮你解决。
 
-## What are examples of formal roles used in open source projects?
+## 开源项目中常见的角色有哪些？
 
 很多项目针对贡献者角色和身份均遵循相似的结构。
 
@@ -40,7 +40,7 @@ related:
 
 **术语 "修订者"** 可能用于区分其他形式的贡献的提交访问，这是一种特定类型的责任。
 
-其实你可以根据自己喜欢的方式来定义项目的角色，[考虑使用更广泛的定义](../how-to-contribute/#what-it-means-to-contribute) 来鼓励更多的形式的贡献。无论技术技能如何，您都可以使用领导角色来正式识别为您的项目做出突出贡献的人员。
+其实你可以根据自己喜欢的方式来定义项目的角色，[考虑使用更广泛的定义](../how-to-contribute/#贡献意味着什么) 来鼓励更多的形式的贡献。无论技术技能如何，您都可以使用领导角色来正式识别为您的项目做出突出贡献的人员。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
@@ -50,7 +50,7 @@ related:
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## 如何形成这些领导力角色的？
 
 将领导力角色正规化，可以帮助人们找到归属感，且可以让其它社区成员明白应该找谁能够获得帮助。
 
@@ -75,9 +75,9 @@ related:
 诸如[Vossibility](https://github.com/icecrime/vossibility-stack) 这样的工具，可以帮助你追踪谁是（或不是）项目的贡献者。为这些信息作说明，以避免社区出现维护者作出私自的决定。
 
 另外，如果你的项目在托管在GitHub上，考虑将你的项目从个人账户迁移到某个组织，而且要为组织增加额外的一个备份的管理员。
-[GitHub 上的组织](https://help.github.com/articles/creating-a-new-organization-account/) 能够让权限管理和多仓库管理更加的轻松，而且可通过 [共享所有权](../building-community/#share-ownership-of-your-project)来保护你的项目。
+[GitHub 上的组织](https://help.github.com/articles/creating-a-new-organization-account/) 能够让权限管理和多仓库管理更加的轻松，而且可通过 [共享所有权](../building-community/#共享项目所有权)来保护你的项目。
 
-## When should I give someone commit access?
+## 什么时候授予提交者权限？
 
 有的人认为项目应该对所有人都开放提交访问，从而让任何人都可以做出贡献。理由是这样做的话，会让人们感到拥有这个项目，进而达到鼓励的目的。
 
@@ -93,7 +93,7 @@ related:
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## 开源项目的常见治理架构？
 
 关于开源项目有三类通用的相关治理结构。
 
@@ -125,7 +125,7 @@ related:
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## 企业员工如何开启项目提交贡献之旅？
 
 成功的开源项目，会有很多的用户和公司使用，而且有一些公司的主要收入和项目是绑在一起的。举例来说，某公司在其商业产品或服务中使用了开源项目的代码作为其一个组件。
 
@@ -137,7 +137,7 @@ related:
 
 和这个世界上很多的其它商业产品一样，商业能够激励开发者去积极的贡献于项目，通过他们靠谱的提交贡献。显而易见的是，一位因花了自己的时间和精力的开发者获得报酬，理应比没有获得报酬的更具持久性，当然，这对于某些圣徒是不成立的，或者这么说吧，报酬是能体现一个贡献度的众多衡量因素的其中之一。所以将你的项目讨论聚焦于贡献上，不要让人们分散精力去思考或做其它的事情。
 
-## Do I need a legal entity to support my project?
+## 是否需要一个法律实体来支持我的项目？
 
 除非你特别的有钱，其实你根本没有必要为开源项目而专门搞一个法律实体来支持。
 
