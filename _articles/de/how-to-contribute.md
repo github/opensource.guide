@@ -533,7 +533,7 @@ Bevor Sie ein Issue oder Pull Request aufmachen oder eine Frage im Chat stellen,
 >
 > 😢 _"Warum unterstützen Sie meinen Anwendungsfall nicht? Das ist inakzeptabel!"_
 
-**Vor allem: Bewahren Sie Stil.** Open Source besteht aus Menschen aus der ganzen Welt, die mit uns zusammenarbeiten. Nuancen gehen über Sprachen, Kulturen, Regionen und Zeitzonen hinweg verloren. Darüber hinaus erschwert die schriftliche Kommunikation die Vermittlung eines Tonfalls oder einer Stimmung. Nehmen Sie in Open-Source-Diskussionen gute Absichten an. Es ist in Ordnung, eine Idee höflich zurückzuweisen, nach Kontext zu fragen oder Ihre Position genauer zu erklären. Versuchen Sie einfach, das Internet an einem besseren Ort zu verlassen, als Sie es gefunden haben.
+**Vor allem: Bewahren Sie Stil.** Open Source besteht aus Menschen aus der ganzen Welt, die mit uns zusammenarbeiten. Nuancen gehen über Sprachen, Kulturen, Regionen und Zeitzonen hinweg verloren. Darüber hinaus erschwert die schriftliche Kommunikation die Vermittlung eines Tonfalls oder einer Stimmung. Nehmen Sie in Open-Source-Diskussionen gute Absichten an. Es ist in Ordnung, eine Idee höflich zurückzuweisen, nach Kontext zu fragen oder Ihre Position genauer zu erklären. Versuchen Sie einfach, das Internet als einen besseren Ort zu verlassen, als Sie es gefunden haben.
 
 ### Erfassen Sie den Kontext
 
