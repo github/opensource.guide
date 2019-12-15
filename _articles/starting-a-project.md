@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+description: Learn more about the world of open source and get ready to launch your project.
 class: beginners
-toc:
+to:
   the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
+  should-i-launch-my-own-open-source-project: "Should I launch my open source project?"
+  launching-your-own-open-source-project: "Launching your open source project"
   naming-and-branding-your-project: "Naming and branding your project"
   your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
@@ -22,13 +22,13 @@ So you're thinking about getting started with open source? Congratulations! The 
 
 ### What does "open source" mean?
 
-When a project is open source, that means **anybody is free to use, study, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+When a project is an open-source, that means **anybody is free to use, study, modify, and distribute your project for any purpose.** These permissions are enforced through [an open-source license](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. Also because it gives users a potential to control their own computing, relative to closed source. For example, a business using open source software has the option to hire someone to make custom improvements to the software, rather than relying exclusively on a closed source vendor's product decisions.
+Open source is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. Also because it gives users the potential to control their computing, relative to closed source. For example, a business using open source software has the option to hire someone to make custom improvements to the software, rather than relying exclusively on a closed source vendor's product decisions.
 
-_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open soruce software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
+_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open-source software" (FOSS) or "free, libre, and open-source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
 
-### Why do people open source their work?
+### Why do people open-source their work?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
@@ -44,23 +44,23 @@ _Free software_ refers to the same set of projects as _open source_. Sometimes y
 
 * **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparency:** Anyone can inspect an open-source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explorer](https://github.com/explore) for ideas on what else you can open source.
 
-### Does open source mean "free of charge"?
+### Does opensource mean "free of charge"?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+One of the open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Because [an open-source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally take a copy and use the free version instead.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+As a result, most open source projects are free, but "free of charge" is not part of the open-source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
 
-## Should I launch my own open source project?
+## Should I launch my open source project?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+The short answer is yes because no matter the outcome, launching your project is a great way to learn how open source works.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+If you've never open-sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
 
 Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
 
@@ -68,9 +68,9 @@ If you're not yet convinced, take a moment to think about what your goals might 
 
 ### Setting your goals
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open-sourcing this project?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+There is no one right answer to this question. You may have multiple goals for a single project or different projects with different goals.
 
 If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
 
@@ -82,7 +82,7 @@ If your only goal is to show off your work, you may not even want contributions,
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open-source project.
 
 While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
 
@@ -104,7 +104,7 @@ If your goal is to learn how to collaborate with others or understand how open s
 
 If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
 
-## Launching your own open source project
+## Launching your open source project
 
 There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
 
@@ -123,17 +123,17 @@ If your project is on GitHub, putting these files in your root directory with th
 
 ### Choosing a license
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+An open-source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open-source project.**
 
 Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+When you create a new project on GitHub, you are given the option to select a license. Including an open-source, the license will make your GitHub project open source.
 
 ![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+If you have other questions or concerns around the legal aspects of managing an open-source project, [we've got you covered](../legal/).
 
 ### Writing a README
 
@@ -182,7 +182,7 @@ For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts 
 
 > First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to contribute.
 
 Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
 
@@ -196,17 +196,17 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+Finally, a code of conduct helps set ground rules for behaviour for your project's participants. This is especially valuable if you're launching an open-source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer.
 
 For more information, check out our [Code of Conduct guide](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to when they apply, and what to do if a violation occurs.
 
 Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
 
@@ -221,7 +221,7 @@ Branding is more than a flashy logo or catchy project name. It's about how you t
 Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
 
 * [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby webserver
 
 If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
 
@@ -257,7 +257,7 @@ Using warm, inclusive language (such as "them", even when referring to the singl
 
 Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://angular.io/guide/styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+It isn't necessary to write a style guide for your project when you're just starting, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
 ## Your pre-launch checklist
 
@@ -359,4 +359,4 @@ If you're a company or organization:
 
 ## You did it!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Congratulations on open-sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and others to learn and grow.
