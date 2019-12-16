@@ -18,9 +18,9 @@ Sie denken also über einen Sprung in die Open-Source-Welt nach? Herzlichen Glü
 
 Ein Open-Source-Projekt kann von **jedem Menschen für jeden Zweck verwendet, inspiziert, modifiziert und weiterverbreitet werden.** Diese Rechte werden [mittels einer Open-Source-Lizenz durchgesetzt](https://opensource.org/licenses).
 
-Open Source ist so mächtig, weil es Barrieren für Nutzung und Zusammenarbeit senkt, und Leuten somit ermöglicht, Ideen schneller zu verbreiten, sowie Dinge schneller zu verbessern. Zudem ermöglicht es den Benutzer\*inn\*n, ihr eigenes Computing besser unter Kontrolle zu behalten, als mit proprietären Lösungen. Ein Unternehmen, das Open-Source-Software verwendet, kann bspw. jemanden anheuern, um maßgeschneiderte Verbesserungen an der Software vorzunehmen, anstatt völlig abhängig zu sein von den Produktentscheidungen des Anbieters.
+Open Source ist so mächtig, weil es Barrieren für Nutzung und Zusammenarbeit senkt und Leuten somit ermöglicht, Ideen schneller zu verbreiten und Dinge schneller zu verbessern. Zudem ermöglicht es den Benutzer\*inn\*n, ihr eigenes Computing besser unter Kontrolle zu behalten, als mit proprietären Lösungen. Ein Unternehmen, das Open-Source-Software verwendet, kann beispielsweise jemanden einstellen, um maßgeschneiderte Verbesserungen an der Software vorzunehmen, anstatt von den Produktentscheidungen des Anbieters abhängig zu sein.
 
-_Freie Software_ meint dieselbe Art von Projekten wie _Open Source_. Der [Begriff](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) wird manchmal auch in kombiniert mit "Freie/Libre und Open-Source-Software" (FOSS bzw. FLOSS). _Frei_ und _Libre_ meinen hierbei die Freiheit, nicht den [Preis](#bedeutet-open-source-auch-gratis).
+_Freie Software_ meint dieselbe Art von Projekten wie _Open Source_. Der [Begriff](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) wird manchmal auch kombiniert mit "Freie/Libre und Open-Source-Software" (FOSS bzw. FLOSS). _Frei_ und _Libre_ meinen hierbei die Freiheit, nicht den [Preis](#bedeutet-open-source-auch-gratis).
 
 ### Warum öffnen Menschen den Quellcode ihrer Software?
 
