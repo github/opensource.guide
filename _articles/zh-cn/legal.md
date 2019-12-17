@@ -10,11 +10,11 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## 理解开源的法律含义
 
 向世界分享你们具有创造性的工作，这是一个多么令人激动和有价值的经历。这也意味着你们必须担心一堆你们不清楚的法律问题。幸运的是，你们不必从头开始。我们已经涵盖了你们的法律需求。（在你们行动前，请确定阅读了我们的[免责声明](/notices/)。）
 
-## Why do people care so much about the legal side of open source?
+## 为什么人们这么关心开源的法律问？
 
 很高兴你们提问！当你们行创造性工作（例如写作，图形或代码）时，默认情况下该作品属于专有版权（copyright）。也就是说，法律承认你们是你们作品的作者，他人在没有经得你们同意的情况下不能使用你们的工作。
 
@@ -26,20 +26,19 @@ related:
 
 最后，你们的项目可能具有你们不知道的许可证要求的依赖关系。你们的项目社区，或者你们的雇主政策也可能要求你们使用特定的开源许可协议。
 
-## Are public GitHub projects open source?
+## Github上的公开项目都是开源的吗？
 
 当你们在GitHub上[创建一个新项目](https://help.github.com/articles/creating-a-new-repository/) 时，你们可以选择将仓库设置成**private**或者**public**。
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
-**让你们的GitHub项目公开与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)保护，它允许他人浏览以及fork你们的项目，但是没有权限参与你们的工作。
+**公开你们的GitHub项目与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
 
 如果你们想让他人使用，复制，修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你们的项目是公开的，但没有你们的授权，一些人是不能合法在他们的代码中使用你们GitHub项目中的任何部分。
 
-## Just give me the TL;DR on what I need to protect my project.
+## 如何保护我们的项目
 
-你们很幸运，开源许可协议已经标准化了同时使用简单。你们可以直接复制粘贴一个已经存在的许可协议到你们的项目里。
+你们很幸运，开源许可协议已经标准化了，同时使用简单。你们可以直接复制粘贴一个已经存在的许可协议到你们的项目里。
 
 [MIT](https://choosealicense.com/licenses/mit/)，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)和[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)都是非常流行的开源许可协议，但是也有其它选择。你们可以在[choosealicense.com](https://choosealicense.com/)上找到这些许可协议的全部文本，同时说明了如何使用他们。
 
@@ -53,7 +52,7 @@ related:
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## 我的项目适合什么样的开源许可?
 
 如果你们是小白，那么使用[MIT License](https://choosealicense.com/licenses/mit/)，不容易出错。它很短，很容易理解，并允许任何人做任何事情，只要他们保留许可证的副本，包括你们的版权声明。如果你们需要，您们能够根据不同的许可协议发布项目。
 
@@ -69,11 +68,11 @@ related:
 * **你们的项目是否想吸引大企业？**大型企业可能需要所有贡献者的明确专利许可。在这种情况下，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)适合你们。
 * **你们的项目是否想吸引不愿自己的贡献用于其它同类型软件的贡献者？**[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)和[AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)适合你们。
 
-你们的公司可能为自己的项目准备了特定的许可协议。例如，它可能需要许可许可证，以便公司可以在公司的闭源产品中使用你们的项目。或者你们的公司要求强大的copyleft许可协议同时要求贡献者赞成，这样项目只属于你们公司，没有人能在有关的软件中使用你们的项目。或者你们的公司可能有与标准，社会责任或透明度相关的某些需求，其中任何一个都可能需要特定的许可策略。与你们[公司的法律部门](#what-does-my-companys-legal-team-need-to-know)谈谈。
+你们的公司可能为自己的项目准备了特定的许可协议。例如，它可能需要许可许可证，以便公司可以在公司的闭源产品中使用你们的项目。或者你们的公司要求强大的copyleft许可协议同时要求贡献者赞成，这样项目只属于你们公司，没有人能在有关的软件中使用你们的项目。或者你们的公司可能有与标准，社会责任或透明度相关的某些需求，其中任何一个都可能需要特定的许可策略。与你们[公司的法律部门](#公司的法律团队需要知道什么)谈谈。
 
 当你们在GitHub上创建了一个新项目，它给你们提供了选择许可协议的机会。包括上面提到的可以使你们的GitHub项目开源的许可协议。如果你们想要了解其他选择，可以通过查阅[choosealicense.com](https://choosealicense.com)找到适合你们项目（即使它[不是软件](https://choosealicense.com/non-software/)）的许可协议。
 
-## What if I want to change the license of my project?
+## 如果我想修改开源许可该怎么办?
 
 大多数项目绝不需要更换许可协议。但是情况偶尔有变。
 
@@ -87,7 +86,7 @@ related:
 
 或者，你们可以让贡献者事先同意（通过额外的贡献者协议 - 见下文）在某些条件下更改某些许可协议，这些更改将超过现有的开源许可协议。这会改变许可协议改的复杂性。如果在执行许可协议更改时，你们仍然想要和项目利益相关者进行沟通，你们需要从你们律师那得到更多帮助。
 
-## Does my project need an additional contributor agreement?
+## 我们的项目需要额外的贡献者协议吗？
 
 可能不要。对于大多数的开源项目，一个开源许可协议可作用与所有贡献者和用户。
 
@@ -112,7 +111,7 @@ related:
 
 如果你的项目确实需要使用额外的贡献者协议，请考虑使用[CLA助手](https://github.com/cla-assistant/cla-assistant)等集成来最大限度地减少贡献者分心。
 
-## What does my company's legal team need to know?
+## 公司的法律团队需要知道什么？
 
 作为一名公司的雇员，如果你们在发布一个开源项目，你们首先需要让法律团队知道。
 即使是个人项目，请考虑让他们知道。你们可能和公司有一个"员工知识产权协议"，这给了公司一些对你们项目的控制权，特别是当项目和公司的业务有着很多的联系或者你们使用公司的资源发展项目。你的公司 _应该_ 很容易地给你许可，也许已经通过一个员工友好的知识产权协议或公司政策。如果不是这样，你么可以谈判（例如，解释你们的项目为公司的专业学习和发展目标服务），或者你们在找到一个更好的公司前停止你们项目的工作。

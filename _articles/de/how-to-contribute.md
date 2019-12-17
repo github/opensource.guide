@@ -204,7 +204,7 @@ Ein Projekt hat auch eine Dokumentation. Diese Dateien werden in der Regel im Ha
 * **README:** Die README ist die Bedienungsanleitung, die neue Community-Mitglieder im Projekt willkommen heißt. Sie erklärt, warum das Projekt nützlich ist, und wie man beginnen kann, es zu nutzen.
 * **CONTRIBUTING:** Während READMEs den Menschen helfen, das Ergebnis des Projektes _zu nutzen_, hilft die Kontributionsdokumentation dabei, zum Projekt beizutragen. Sie erklärt, welche Arten von Beiträgen benötigt werden und wie der Prozess funktioniert. Obwohl nicht jedes Projekt eine CONTRIBUTING-Datei hat, signalisiert ihre Präsenz, dass dieses Projekt offen für Beiträge ist.
 * **CODE_OF_CONDUCT:** Der Verhaltenskodex legt die Grundregeln für das Verhalten der Teilnehmer\*innen fest und trägt dazu bei, ein freundliches und einladendes Umfeld zu schaffen. Obwohl nicht jedes Projekt eine CODE_OF_CONDUCT-Datei hat, signalisiert ihre Präsenz, dass dieses Projekt offen für Beiträge ist.
-* **Andere Dokumentation:** Es kann zusätzliche Tutorials, Walkthroughs oder Governance-Richtlinien geben, vor llem bei größeren Projekten.
+* **Andere Dokumentation:** Es kann zusätzliche Tutorials, Walkthroughs oder Governance-Richtlinien geben, vor allem bei größeren Projekten.
 
 Schließlich verwenden Open-Source-Projekte die folgenden Werkzeuge, um Diskussionen zu organisieren. Wenn Sie die Archive durchlesen, erhalten Sie ein gutes Bild davon, wie die Gemeinschaft denkt und arbeitet.
 
@@ -244,6 +244,8 @@ Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecke
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Eine Checkliste, bevor Sie einen Beitrag leisten
 
@@ -533,7 +535,7 @@ Bevor Sie ein Issue oder Pull Request aufmachen oder eine Frage im Chat stellen,
 >
 > 😢 _"Warum unterstützen Sie meinen Anwendungsfall nicht? Das ist inakzeptabel!"_
 
-**Vor allem: Bewahren Sie Stil.** Open Source besteht aus Menschen aus der ganzen Welt, die mit uns zusammenarbeiten. Nuancen gehen über Sprachen, Kulturen, Regionen und Zeitzonen hinweg verloren. Darüber hinaus erschwert die schriftliche Kommunikation die Vermittlung eines Tonfalls oder einer Stimmung. Nehmen Sie in Open-Source-Diskussionen gute Absichten an. Es ist in Ordnung, eine Idee höflich zurückzuweisen, nach Kontext zu fragen oder Ihre Position genauer zu erklären. Versuchen Sie einfach, das Internet an einem besseren Ort zu verlassen, als Sie es gefunden haben.
+**Vor allem: Bewahren Sie Stil.** Open Source besteht aus Menschen aus der ganzen Welt, die mit uns zusammenarbeiten. Nuancen gehen über Sprachen, Kulturen, Regionen und Zeitzonen hinweg verloren. Darüber hinaus erschwert die schriftliche Kommunikation die Vermittlung eines Tonfalls oder einer Stimmung. Nehmen Sie in Open-Source-Diskussionen gute Absichten an. Es ist in Ordnung, eine Idee höflich zurückzuweisen, nach Kontext zu fragen oder Ihre Position genauer zu erklären. Versuchen Sie einfach, das Internet als einen besseren Ort zu verlassen, als Sie es gefunden haben.
 
 ### Erfassen Sie den Kontext
 

@@ -10,7 +10,7 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## 为什么我们需要行为守则？
 
 行为守则是一份确立项目参与者行为规范的文件。采用和执行行为守则可以帮助你们的社区营造积极的氛围。
 
@@ -18,7 +18,7 @@ related:
 
 一份行为守则可以帮助你们促进健康，有建设性的社区行为。积极主动减少你们或其他人在你们的项目中变得疲劳的可能性，并帮助你们在有人做出你们不同意的事情时采取行动。
 
-## Establishing a code of conduct
+## 建立一个行为守则
 
 尽可能早地建立行为守则，当你们第一次创建项目的时候。
 
@@ -35,7 +35,7 @@ related:
 
 请将CODE_OF_CONDUCT文件放在你们项目的根目录，并在README中附上其链接，这样对你们的社区是可见的。
 
-## Deciding how you'll enforce your code of conduct
+## 决定你们如何执行行为守则
 
 <aside markdown="1" class="pquote">
   一份行为守则没有（或者不能）执行会比没有行为守则更糟糕。它释放这样一个信息：行为守则或者尊重在你们的社区并不重要。
@@ -60,7 +60,7 @@ related:
 
 为了获得灵感，可以查阅Django的[执行手册](https://www.djangoproject.com/conduct/enforcement-manual/)（你们是否需要如此详细的手册，这取决于你们的项目）。
 
-## Enforcing your code of conduct
+## 执行你们的行为守则
 
 有时，尽管你们尽了最大的努力，仍然会有人违反守则。当这样的情况发生时，有几种方法来解决消极或有害的行为。
 
