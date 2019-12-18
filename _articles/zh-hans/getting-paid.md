@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 通过为开源工作获得报酬
 description: 为了让你能够持续的为开源项目，理应得到相应的经济上的报酬。
 class: getting-paid
@@ -8,6 +8,7 @@ image: /assets/images/cards/getting-paid.png
 related:
   - best-practices
   - leadership
+redirect_from: /zh-cn/getting-paid/
 ---
 
 ## 为何有人需要寻找经济上支持

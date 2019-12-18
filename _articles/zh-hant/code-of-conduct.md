@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 建立一套行為準則
 description: 為了促進社羣朝健康且有建設性的方向發展，必須設立一個共同遵守的行為守則。
 class: coc
@@ -8,6 +8,7 @@ image: /assets/images/cards/coc.png
 related:
   - building
   - leadership
+redirect_from: /zh-tw/code-of-conduct/
 ---
 
 ## 我爲什麼需要行爲守則

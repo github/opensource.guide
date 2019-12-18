@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 如何為開源做貢獻？
 description: 想為開源貢獻心力？一個菜鳥老手都值得一看的指南。
 class: contribute
@@ -8,6 +8,7 @@ image: /assets/images/cards/contribute.png
 related:
   - beginners
   - building
+redirect_from: /zh-tw/how-to-contribute/
 ---
 
 ## **為何要為開源貢獻心力？**

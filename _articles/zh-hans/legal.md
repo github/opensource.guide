@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 开源的法律保护
 description: 对于开源你应该了解的所有法律知识。
 class: legal
@@ -8,6 +8,7 @@ image: /assets/images/cards/legal.png
 related:
   - contribute
   - leadership
+redirect_from: /zh-cn/legal/
 ---
 
 ## 理解开源的法律含义

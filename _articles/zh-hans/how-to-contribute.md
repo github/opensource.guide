@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 如何为开源做贡献
 description: 想为开源贡献力量？本指南针为"菜鸟"和初学者而准备！
 class: contribute
@@ -8,6 +8,7 @@ image: /assets/images/cards/contribute.png
 related:
   - beginners
   - building
+redirect_from: /zh-cn/how-to-contribute/
 ---
 
 ## 为什么要为开源做贡献?

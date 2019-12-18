@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 领导力和治理
 description: 决策有了较正式的规则，可让开源项目迅速生长。
 class: leadership
@@ -8,6 +8,7 @@ image: /assets/images/cards/leadership.png
 related:
   - best-practices
   - metrics
+redirect_from: /zh-cn/leadership-and-governance/
 ---
 
 ## 了解社区治理对快速发展的项目的重要性

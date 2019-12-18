@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 找尋專案的使用者
 description: 透過使用者的心得來幫助你的開源專案成長。
 class: finding
@@ -8,6 +8,7 @@ image: /assets/images/cards/finding.png
 related:
   - beginners
   - building
+redirect_from: /zh-tw/finding-users/
 ---
 
 ## 四處傳播
