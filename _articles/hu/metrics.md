@@ -33,7 +33,7 @@ Ha viszont mélyebb szinten akarod megismerni a projektedet, olvass tovább, hog
 
 ## Felfedezés
 
-Mielőtt bárki elkezdené használni a projektedet, vagy részt venne benne, tudniuk kell az létezik, és hogy hol találják. Kérdezd meg magadtól: _Az emberek megtalálják ezt a projektet?_
+Mielőtt bárki elkezdené használni a projektedet, vagy részt venne benne, tudniuk kell, hogy az létezik, és hogy hol találják. Kérdezd meg magadtól: _Az emberek megtalálják ezt a projektet?_
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
@@ -106,7 +106,7 @@ Példák a közösségi metrikákra, amelyeket érdemes rendszeresen nyomon köv
 
 ## Karbantartói aktivitás
 
-Végül, hogy a kör bezáruljon, hogy meg kell bizonyosodnod arról, hogy a karbantartók képesek kezelni a beérkező hozzájárulások mennyiségét. Utolsó kérdésként érdemes feltenned magadnak: _Képes vagyok reagálni a közösség munkájára, jelzéseire?_
+És végül, meg kell bizonyosodnod arról, hogy a karbantartók képesek kezelni a beérkező hozzájárulások mennyiségét. Így utolsó kérdésként érdemes feltenned magadnak: _Képes vagyok reagálni a közösség munkájára, jelzéseire?_
 
 Az inaktív karbantartók a nyílt forráskódú projektek szűk keresztmetszetévé válnak. Ha valaki hozzájárulást nyújt be, de a karbantartó soha nem reagál, az illető elkedvetlenedhet és elhagyhatja a projektet.
 
