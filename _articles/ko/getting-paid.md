@@ -95,7 +95,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 현 고용주가 오픈소스 업무의 우선 순위를 결정할 수 없다면, 직원의 오픈소스 기여도를 높이는 새로운 고용주를 찾는 것이 좋습니다. 오픈소스 작업에 대한 헌신을 분명히 하는 회사를 찾아보십시오. 예시입니다 :
 
 * 일부 회사는, [넷플릭스](https://netflix.github.io/)혹은 [페이팔](https://paypal.github.io/)처럼, 오픈소스에 대한 그들의 참여를 강조하는 웹 사이트를 가지고있습니다
-* [Rackspace](https://www.rackspace.com/en-us)는 직원을 위한 [오픈소스 기여 정책](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)을 게시했습니다
+* [Zalando](https://opensource.zalando.com)는 직원을 위한 [오픈소스 기여 정책](https://opensource.zalando.com/docs/using/contributing/)을 게시했습니다
 
 [Go](https://github.com/golang)또는 [React](https://github.com/facebook/react)와 같은 대기업에서 시작된 프로젝트도, 오픈소스 작업에 사람들을 고용 할 가능성이 높습니다.
 

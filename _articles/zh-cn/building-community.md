@@ -10,7 +10,7 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## 让项目向成功方向迈进
 
 现在的你，已经启动了属于自己的项目，而且正在传播它，更重要的是现在已经有人将之下载到本地进行观摩。这真是令人振奋！那么你现在要做的就是，怎么能够让这些有兴趣的人们坚持下去，持续跟进项目。
 
@@ -26,19 +26,19 @@ related:
 
 从你的文档开始：
 
-* **让大家很容易上手。** [一份友好的 README](../starting-a-project/#writing-a-readme)以及清晰的代码示例将让大家很容易的上手。
-* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines)以及持续更新issues。
+* **让大家很容易上手。** [一份友好的 README](../starting-a-project/#撰写自述文件)以及清晰的代码示例将让大家很容易的上手。
+* **清楚的解释如何做贡献**，使用[你的CONTRIBUTING file](../starting-a-project/#编写你的贡献指南)以及持续更新issues。
 
 好的文档能够邀请他人参与你们项目的互动。最终，一些人会开一个issue或者pull request。将这些互动视为机会，将他们转移到漏斗的下方。
 
 * **当一些人选择了你们的项目，请对他们表示感谢！** 一次糟糕的体验就可能失去一个用户。
 * **及时回应。** 如果你们一个月都没有回答他们的问题，他们可能早已忘记了你们的项目。
-* **对你以后接受的所有贡献者持开放态度。** 很多贡献者是从一份bug报告或者小的修复开始的。这里有[很多为项目做贡献的方式](../how-to-contribute/#what-it-means-to-contribute)。让大家选择他们喜欢的方式。
-* **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#learning-to-say-no)它不适合项目，如果有必要的话你可以给出相关的文档链接。
+* **对你以后接受的所有贡献者持开放态度。** 很多贡献者是从一份bug报告或者小的修复开始的。这里有[很多为项目做贡献的方式](../how-to-contribute/#贡献意味着什么)。让大家选择他们喜欢的方式。
+* **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#学会说不)它不适合项目，如果有必要的话你可以给出相关的文档链接。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比底的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
+  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比较低的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -103,29 +103,29 @@ related:
 
 公开交流需要特别注意的事项：1）有关安全方面的issues 2）敏感的行为准则。应该为大家提供一个私下报告这些issue的方式。若不想使用自己的个人邮箱，那么就创建一个公用的邮箱。
 
-## Growing your community
+## 发展你们的社区
 
 社区拥有强大的能量。这种能量可能是正面的也可能是负面的，这一切都取决于你如何驾驭它。随着项目社区的成长，要想办法让之成为建设性的力量，而不是具有破坏性的。
 
-### Don't tolerate bad actors
+### 不纵容坏人
 
 一些流行的项目将不可避免地会吸引到一些破坏它们的人。这些人可能会从一些没必要的争论开始，对一些细枝末节进行纠缠不清，甚或用语言伤及他人。
 
 对于这类人，必须采取零容忍的政策。一旦犹豫不决，那么这些消极的人会给社区的其他人带来不愉快的感觉。那时就会出现劣币驱逐良币的现象。
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
 
   事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要容忍混蛋。
 
   <p markdown="1" class="pquote-credit">
-— @karissa, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
 关于项目琐碎方面的定期辩论会分散其他人（包括您）的注意力，使他们无法专注于重要任务。新人可能会看到这些对话而不想参加。
 
-当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](../code-of-conduct/#enforcing-your-code-of-conduct)。你的[行为准则](../code-of-conduct/)是为这些情景准备的建设性指南。
+当发现社区中有消极的行为时，要即时、公然的指出来。特别说明的是，要用坚定的语气解释他们的行为为什么是不可接受的。如果这种问题继续发生，你有必要[要求他们离开](../code-of-conduct/#执行你们的行为守则)。你的[行为准则](../code-of-conduct/)是为这些情景准备的建设性指南。
 
 ### 知道贡献者在哪里
 
@@ -145,13 +145,13 @@ related:
 
 > 我们想感谢你们使用Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够找到你们的issue。
 
-### Share ownership of your project
+### 共享项目所有权
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["是什么成就一个好的社区？"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["是什么成就一个好的社区？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -183,7 +183,7 @@ related:
   </p>
 </aside>
 
-## Resolving conflicts
+## 解决冲突
 
 在项目的早期，做决定是件蛮容易的事。几乎是想做什么就可以做什么。
 
@@ -212,7 +212,7 @@ related:
 
 ### 将你们的README视为最高法则
 
-README [不仅仅是一组指令](../starting-a-project/#writing-a-readme)。它也是一个谈论目标、产品愿景和路线的地方。
+README [不仅仅是一组指令](../starting-a-project/#撰写自述文件)。它也是一个谈论目标、产品愿景和路线的地方。
 如果人们过分专注于讨论特定功能的优点，它可能有助于重新审视您的README，并谈论项目的更高的愿景。关注README也会使对话变得个人化，所以可以进行建设性的讨论。
 
 ### 专注过程，而不是结果
@@ -277,6 +277,6 @@ Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情�
 
 使用决策者应该是你们最后才能采取的手段。分离issues是一个你们社区成长和学习的机会。利用这些机会并精诚合作，尽量找出问题的解决方案。
 
-## Community is the ❤️ of open source
+## 社区是开源的❤️
 
 健康，蓬勃的社区每周都会为开源付出大量辛勤的劳动。许多贡献者指出其他人在开源工作或不在开源工作的原因。通过学习如何建设性地利用这股力量，你们会帮助他人有一个难忘的开源体验。

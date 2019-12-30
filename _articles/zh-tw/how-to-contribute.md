@@ -320,14 +320,14 @@ related:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    都是最近發的的 RP 嗎？
+    都是最近發的的 PR 嗎？
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    最近有多少 PR 合併？ （在 GitHub, 點擊 RP頁面的 "closed" 的標籤頁來查看已經關閉的標籤頁。）
+    最近有多少 PR 合併？ （在 GitHub, 點擊 PR頁面的 "closed" 的標籤頁來查看已經關閉的標籤頁。）
   </label>
 </div>
 
@@ -472,11 +472,11 @@ related:
 
 一個 PR 並不代表工作已經完成了。它通常是儘早開啓一個 PR ，這樣其他人可以了解或者給你一些回饋。只需要標記爲 "WIP"（Working in Progress）。你可以隨時添加任何留言。
 
-如果說專案是託管在 GitHub 上，以下是我們對於提交 RP 的建議：
+如果說專案是託管在 GitHub 上，以下是我們對於提交 PR 的建議：
 
 * **[Fork 程式碼](https://guides.github.com/activities/forking/)** 並下載到自己的電腦，在本地端設定「上游」爲遠端倉庫。這樣你可以在提交你的 PR 時保持和「上游」同步，合併時會減少解決衝突的時間。（更多關於同步的說明，請參考[這裡](https://help.github.com/articles/syncing-a-fork/)。）
 * **[創建一個分支](https://guides.github.com/introduction/flow/)** 方便自己編輯。
-* **參考任何相關的 issue**或在你的 RP 中註記相關的文件（例如："Closes #37."）
+* **參考任何相關的 issue**或在你的 PR 中註記相關的文件（例如："Closes #37."）
 * **留下更動前後的螢幕截圖**，如果你修改了 HTML/CSS。在你的 PR 中放上截圖。
 * **測試你的工作！**用原本寫好的測試來跑你寫好的新功能，若沒有的話，則需要寫一個測試。無論是否有測試，一定要確保你的改動不會弄壞現有的專案的功能。
 * **和專案現有的風格保持一致**，盡你最大的努力，在使用縮排、分號或註釋很可能和你自己的風格大相徑庭，但這是為了節省維護者的精力，為了以後要了解、維護時的方便。

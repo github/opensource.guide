@@ -10,11 +10,11 @@ related:
   - building
 ---
 
-## Spreading the word
+## 四处传播
 
 并没有什么规范说当你创建一个开源项目时，要怎么去推广它。但没有任何理由说必须默默无闻的在开源项目上工作。相反，如果你想要有更多的人发现和使用你的开源项目，你就应该让所有人知道你所努力的成果！
 
-## Figure out your message
+## 发出你的声音
 
 在开始推广你的项目之前，你应该能够解释你的项目是做什么的，为什么大家需要它?
 
@@ -28,7 +28,7 @@ related:
 
 如果你想深入了解如何挖掘项目的"卖点"，看一下Mozilla的["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
-## Help people find and follow your project
+## 帮助用户找到并且追随你的项目
 
 <aside markdown="1" class="pquote">
   你最好有一个唯一的"主页"链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
@@ -61,7 +61,7 @@ related:
 
 现在你的项目有了"卖点"，和让人们很容易发现你项目的渠道，接下来我们谈谈如何和你的用户交流吧！
 
-## Go where your project's audience is (online)
+## 在线上寻找你的项目用户
 
 网上拓展是分享和快速宣传项目的一个好方法。借助一些网上的渠道，你有可能找到一大批受众。
 
@@ -85,7 +85,7 @@ related:
 
 如果没有人对你的推广感兴趣，不要灰心！大部分的项目的开展都是一个要花费数月和数年的反复过程。如果你第一次没收到反应，尝试换一种策略，或者找办法给别人的项目做做贡献。这都是些需要时间和奉献精神的事情。
 
-## Go where your project's audience is (offline)
+## 在线下寻找你的项目用户
 
 ![public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -123,7 +123,7 @@ related:
   </p>
 </aside>
 
-## Build a reputation
+## 建立声誉
 
 除了上面提到的策略之外，邀请人们分享和支持你的项目的最好办法就是分享和支持他们的项目。
 
@@ -151,6 +151,6 @@ related:
   </p>
 </aside>
 
-## Keep at it!
+## 保持下去!
 
 有时候，让人们注意你的开源项目会花费很多时间。但是没关系！一些今天很流行的项目都是花了很多年才有如今的高活跃度。把重点放在建立声望上而不是企图一夜成名。耐心一点，一如既往的和那些可能会从中受益的人分享你的项目。
