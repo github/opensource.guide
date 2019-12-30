@@ -70,7 +70,9 @@ var prose = unified()
   .use(syntaxMentions)
   .use(emoji)
   .use(sentenceSpacing, {preferred: 1})
-  .use(quotes, {preferred: 'straight'})
+  // Hack for Romanian translation:
+  // https://github.com/github/opensource.guide/pull/1004
+  .use(quotes, {preferred: 'straight', straight: '”'})
   .use(words, {
     "patterns": {
       "this section": { omit: true },
