@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: windows 
 ---
 
 # Contributing to Open Source Guides
@@ -52,7 +52,7 @@ If you're writing content, see the [style guide](./docs/styleguide.md) to help y
 
 This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/).
 
-Once you have that set up, run:
+Once you have that set up, run:windows 
 
     script/bootstrap
     script/server
