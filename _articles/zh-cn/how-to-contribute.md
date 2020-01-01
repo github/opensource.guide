@@ -10,7 +10,7 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## 为什么要为开源做贡献?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
@@ -48,7 +48,7 @@ related:
 
 在开源的世界里，作出贡献的不一定非得是花了很长时间拥有大量经验的人。你是否遇到过浏览某些网站发现有拼写错误，希望有人能修改它？其实，在开源的项目中，你只需要做就可以了。没有那么多的顾忌，开源让人们在很舒服的状态做事，而这才是这个世界应有的体验。
 
-## What it means to contribute
+## 贡献意味着什么
 
 如果你是一名开源界的新手，可能会对贡献的流程心生畏惧。比如：该如何找到正确的项目？不懂编码又想参与怎么办？万一做错事情了怎么办？
 
@@ -142,7 +142,7 @@ related:
 
 尽管你是一名软件开发者，也可以去撰写一些文档去帮助新的入门者。其实项目中那些看起来令人生畏的项目并不是写代码，做开发者总得挑战自己，其实在做得过程中可以增强信心和获得全新的体验。
 
-## Orienting yourself to a new project
+## 选择一个项目加入贡献
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
@@ -189,7 +189,7 @@ related:
 * **论坛或邮件列表:** 一些项目会实用会话式的主题（例如 _"How do I..."_ 或 _"What do you think about..."_ 来替代 Bug 报告或特性请求）。然而有一些项目关于讨论全部实用问题追踪。
 * **即时在线聊天:** 有一些项目会实用聊天频道（诸如 Slack 或 IRC），从而能够随意的谈话、协作和快速交流。
 
-## Finding a project to contribute to
+## 找一个项目开始贡献
 
 你读到这里，说明已经对于一个开源项目如何运作的有了清晰的认识，是该找一个合适的项目做贡献的时候了！
 
@@ -217,7 +217,7 @@ related:
 * [Up For Grabs](https://up-for-grabs.net/)
 * [像忍者一样贡献](https://contributor.ninja)
 
-### A checklist before you contribute
+### 提交贡献之前的检查列表
 
 当你找到了你打算贡献的项目时，在进一步行动之前，作一个快速的扫描工作，以确保项目是否接受贡献的。否则，你煞费苦心的工作可能没有任何的回报。
 
@@ -371,7 +371,7 @@ related:
   </p>
 </aside>
 
-## How to submit a contribution
+## 如何提交贡献
 
 你已经找到了你喜爱的项目，也已准备好贡献了，迫不及待、跃跃欲试了。好吧！以下就是带领你如何以正确的姿势作贡献。
 
@@ -483,7 +483,7 @@ related:
 
 如果这是你第一次提交 PR。可以浏览 [PR 制造](http://makeapullrequest.com/)的文档，这是 @kentcdodds 专门为初次创建 PR 的人写的公开的资料。
 
-## What happens after you submit a contribution
+## 当你提交了之后会发生什么
 
 很不错，你做到了！恭贺你成为开源贡献者。我们希望这是一个良好的开端。
 
@@ -491,7 +491,7 @@ related:
 
 ### 😭 没有人响应你。
 
-希望你确认在开始工作之前[检查过了项目的活跃度](#a-checklist-before-you-contribute)，不过即使检查过了，也不保证一个活跃的项目，没有人理会你的贡献也是很正常的。
+希望你确认在开始工作之前[检查过了项目的活跃度](#提交贡献之前的检查列表)，不过即使检查过了，也不保证一个活跃的项目，没有人理会你的贡献也是很正常的。
 
 如果过去了一周，依旧没有人响应，请心平气和的在后面跟帖，询求他人帮助你审核下。如果你熟悉某个人可以审核你的贡献，你可以使用@+名字，直接提醒他一下。
 
@@ -515,7 +515,7 @@ related:
 
 太棒了！你已经成功的做到了，为开源做贡献也不过如此！
 
-## You did it!
+## 你做到了!
 
 你刚刚完成了自己的开源贡献处女秀，接下来，你可能打算寻找另外的方法来做贡献，希望本文给你提供了灵感和实践。即使是你的贡献没有被采纳或接收，也不要有失风度，请对帮助过你的维护者表示感谢！
 
