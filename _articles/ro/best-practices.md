@@ -218,7 +218,7 @@ Dacă trebuie să renunți la proiectul tău, fie ca pauză sau permanent, nu es
 
 Dacă alți oameni sunt entuziaști în legătură cu direcția lui, dă-le permisiunea de a face commit sau predă controlul în mod formal altcuiva. Dacă cineva a bifurcat proiectul tău și îl menține activ altundeva, consideră legarea către copie din proiectul tău original. Este minunat că atât de mulți oameni vor ca proiectul tău să trăiască!
 
-@progrium [a găsit că](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentarea viziunii pentru proiectul său, [Dokku](https://github.com/dokku/dokku), a ajutat aceste scopuri să trăiască mai departe chiar și după ce el a ieșit din proiect:
+@progrium [a găsit că](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentarea viziunii pentru proiectul său, [Dokku](https://github.com/dokku/dokku), a ajutat aceste scopuri să trăiască mai departe chiar și după ce el a ieșit din proiect:
 
 > Am scris o pagină de wiki descriind ce îmi doream și de ce îmi doream acele lucruri. Din anumite motive a venit ca o surpriză că întreținătorii au început să miște proiectul în acea direcție! S-a întâmplat exact cum aș fi făcut-o eu? Nu întotdeauna. Dar totuși a adus proiectul mai aproape de ceea ce scrisesem.
 > 
