@@ -190,7 +190,7 @@ Projenizden, ara sıra veya kalıcı olarak çıkmanız gerekirse, bir başkası
 
 Diğer insanlar yeni yön konusunda istekliyse, giriş yapmalarını sağlayın veya resmi olarak bir başkasına kontrolünü verin. Birisi projenizi çatalladı ve aktif olarak başka bir yerde sürdürüyorsa, orijinal projenizdeki çatalda bağlantı kurmayı düşünün. Bu kadar çok insanın projenizin devam etmesini istemesi harika bir şeydir!
 
-@progrium [farkına vardı ki](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/); projesinin ([Dokku](https://github.com/dokku/dokku)) vizyonunu belgelemesi sayesinde kendisi projeden çekilse bile hedefleri canlı kalabildi:
+@progrium [farkına vardı ki](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/); projesinin ([Dokku](https://github.com/dokku/dokku)) vizyonunu belgelemesi sayesinde kendisi projeden çekilse bile hedefleri canlı kalabildi:
 
 > Ne istediğimi ve neden istediğimi anlatan bir wiki sayfası yazdım. Bir nedenden dolayı, bakıcıların projeyi bu yönde hareket ettirmeye başlaması bana sürpriz oldu! Tam olarak benim istediğim gibi mi oldu? Her zaman değil. Ama yine de projeyi yazdıklarımın yakınına getirdi.
 
