@@ -384,7 +384,7 @@ Seja você um colaborador ocasional ou esteja tentando entrar em uma comunidade,
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
     \[Como um contribuidor iniciante,\] eu rapidamente percebi que tinha que fazer perguntas se quisesse fechar a issue. Eu analizei o código. Assim que percebi o que estava acontecendo, pedi mais orientações. E voilà! Consegui resolver a issue depois de obter todos os detalhes relevantes de que precisava.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 

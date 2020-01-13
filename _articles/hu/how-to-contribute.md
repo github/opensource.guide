@@ -387,7 +387,7 @@ Akár csak egyszeri résztvevő vagy, vagy csatlakoznál a közösséghez, a má
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Mint új résztvevő,\] gyorsan észrevettem azt, hogy kérdéseket kell feltennem, ha a végére akarok járni egy problémának. Átrágtam magam a kódon és amint némileg megértettem, hogy hogyan működnek a dolgok, további iránymutatást kértem. És _voilà!_ meg tudtam oldani a problémát, miután megkaptam a szükséges részleteket.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
