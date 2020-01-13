@@ -15,7 +15,6 @@ We've put together the following guidelines to help you figure out where you can
 0. [How to contribute](#how-to-contribute)
 0. [Style guide](#style-guide)
 0. [Setting up your environment](#setting-up-your-environment)
-0. [Contribution review process](#contribution-review-process)
 0. [Community](#community)
 
 ## Types of contributions we're looking for
