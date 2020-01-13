@@ -133,7 +133,7 @@ Oricare proiect popular va atrage inevitabil oameni care rănesc, în loc de a a
 Fă tot ce poți pentru a adopta o politică de toleranță zero față de aceste tipuri de oameni. Dacă rămân neverificați, oamenii negativi vor face alți oameni în comunitatea ta incomozi. Ei ar putea chiar să plece.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Adevărul este că a avea o comunitate susținătoare este cheia. Niciodată nu aș putea face această muncă fără ajutorul colegilor mei, străinilor prietenoși de pe Internet, și canale flecare IRC. (...) Nu te mulțumi cu mai puțin. Nu te mulțumi cu nenorociți.
   </p>
@@ -143,7 +143,7 @@ Fă tot ce poți pentru a adopta o politică de toleranță zero față de acest
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
