@@ -398,7 +398,7 @@ Hoşunuza giden bir proje buldunuz ve katkıda bulunmaya hazırsınız. En sonun
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Yeni bir katılımcı olarak \] ben bir sorunu çözmek istediğimde hemen soru sormam gerektiğini fark ettim. Kod tabanında dolaştım. Bir konunun ne olduğunu anladığıma dair bir şeyler hissettiğimde, daha fazla yardım istemiştim. Ve voilà! İhtiyacım olan tüm detayları aldıktan sonra sorunu çözebildim.
   <p markdown="1" class="pquote-credit">
-- @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+- @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
