@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 透過為開源專案工作而獲得報酬
 description: 透過經濟上的補助，支持你在開源專案裡的工作。
 class: getting-paid
@@ -8,6 +8,7 @@ image: /assets/images/cards/getting-paid.png
 related:
   - best-practices
   - leadership
+redirect_from: /zh-tw/getting-paid/
 ---
 
 ## **為何有人尋求經濟上的支持**

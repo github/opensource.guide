@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 領導與治理
 description: 有了正式規則的決策，可讓開源專案順利的成長。
 class: leadership
@@ -8,6 +8,7 @@ image: /assets/images/cards/leadership.png
 related:
   - best-practices
   - metrics
+redirect_from: /zh-tw/leadership-and-governance/
 ---
 
 ## 針對增長的專案來理解治理

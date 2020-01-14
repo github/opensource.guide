@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 維護者最佳實踐
 description: 身為開源的維護者，如何輕鬆駕馭專案？本指南從文件流程到有效利用社群來展開。
 class: best-practices
@@ -8,6 +8,7 @@ image: /assets/images/cards/best-practices.png
 related:
   - metrics
   - leadership
+redirect_from: /zh-tw/best-practices/
 ---
 
 ## 身爲一名維護者意味著什麼?

@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 開源衡量準則
 description: 透過持續的追蹤專案，幫助你做出最佳決策，讓開源專案更成功。
 class: metrics
@@ -8,6 +8,7 @@ image: /assets/images/cards/metrics.png
 related:
   - finding
   - best-practices
+redirect_from: /zh-tw/metrics/
 ---
 
 ## 爲何要度量所有

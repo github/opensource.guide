@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 开源衡量标准
 description: 通过持续的追踪项目，帮助你作出最佳决策，以让开源项目更成功。
 class: metrics
@@ -8,6 +8,7 @@ image: /assets/images/cards/metrics.png
 related:
   - finding
   - best-practices
+redirect_from: /zh-cn/metrics/
 ---
 
 ## 为什么要度量这一切？

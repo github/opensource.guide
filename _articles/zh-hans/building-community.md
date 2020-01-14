@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 打造受欢迎的社区
 description: 打造人们愿意使用、贡献、并主动宣传的人气社区。
 class: building
@@ -8,6 +8,7 @@ image: /assets/images/cards/building.png
 related:
   - best-practices
   - coc
+redirect_from: /zh-cn/building-community/
 ---
 
 ## 让项目向成功方向迈进

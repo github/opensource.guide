@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 维护者最佳实践
 description: 身为开源的维护者，如何轻松驾驭项目？本指南从文档流程到有效利用社区来展开。
 class: best-practices
@@ -8,6 +8,7 @@ image: /assets/images/cards/best-practices.png
 related:
   - metrics
   - leadership
+redirect_from: /zh-cn/best-practices/
 ---
 
 ## 身为维护者意味这什么？

@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 發起一個開源專案
 description: 從開源的世界汲取智慧，著手發起開源專案。
 class: beginners
@@ -8,6 +8,7 @@ image: /assets/images/cards/beginner.png
 related:
   - finding
   - building
+redirect_from: /zh-tw/starting-a-project/
 ---
 
 ## 什麼是開源，爲什麼要開源

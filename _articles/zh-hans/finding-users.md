@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 为项目寻找合适的用户
 description: 通过找到称心如意的用户，帮助开源项目成长。
 class: finding
@@ -8,6 +8,7 @@ image: /assets/images/cards/finding.png
 related:
   - beginners
   - building
+redirect_from: /zh-cn/finding-users/
 ---
 
 ## 四处传播
