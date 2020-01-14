@@ -383,7 +383,7 @@ Que vous soyez un contributeur ponctuel ou que vous essayiez de rejoindre une co
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[En tant que nouveau contributeur,\] je me suis rapidement rendu compte que je devais poser des questions si je voulais pouvoir fermer une issue. J'ai parcouru la code base. Une fois que j'ai eu une idée de ce qui se passait, j'ai demandé plus de pistes. Et voilà! J'ai été capable de résoudre le problème après avoir obtenu tous les détails pertinents dont j'avais besoin.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 

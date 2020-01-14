@@ -181,7 +181,7 @@ Se você precisar se afastar de seu projeto, seja por um hiato ou permanentement
 
 Se outras pessoas estão entusiasmadas com a sua direção, conceda-lhes acesso de commit ou formalmente entregue o controle a outra pessoa. Se alguém "deu fork" em seu projeto e está ativamente mantendo-o em outro lugar, considere ligar o fork ao seu projeto original. É ótimo que tantas pessoas queiram que seu projeto continue vivo!
 
-@progrium [descobriu que](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentar a visão de seu projeto, [Dokku](https://github.com/dokku/dokku), ajudou esses objetivos a sobreviverem, mesmo depois de seu afastamento:
+@progrium [descobriu que](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentar a visão de seu projeto, [Dokku](https://github.com/dokku/dokku), ajudou esses objetivos a sobreviverem, mesmo depois de seu afastamento:
 
 > Eu escrevi um página wiki descrevendo o que queria e porque eu queria. Por alguma razão, para minha surpresa, os mantenedores começaram a fazer o projeto andar naquela direção! As coisas aconteceram exatamente da forma que eu faria? Nem sempre. Mas ainda trouxera o projeto para mais próximo do que escrevi.
 
