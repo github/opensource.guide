@@ -474,7 +474,7 @@ Vous devrez généralement ouvrir une pull request dans les situations suivantes
 * Soumettre des corrections triviales (par exemple, une faute de frappe, un lien cassé ou une erreur évidente)
 * Commencer à travailler sur une contribution qui a déjà été demandée, ou dont vous avez déjà discuté, dans une issue
 
-Une pull request n'a pas à représenter le travail fini. Il est généralement préférable d'ouvrir une pull request au début afin que les autres puissent regarder ou donner votre avis sur vos progrès. Il suffit de marquer "WIP" (Work in Progress) dans la ligne d'objet. Vous pouvez toujours ajouter plus de commits plus tard.
+Une pull request n'a pas à représenter le travail fini. Il est généralement préférable d'ouvrir une pull request au début afin que les autres puissent regarder ou donner leur avis sur vos progrès. Il suffit de marquer "WIP" (Work in Progress) dans la ligne d'objet. Vous pouvez toujours ajouter plus de commits plus tard.
 
 Si le projet est sur GitHub, voici comment soumettre une pull request:
 
@@ -497,7 +497,7 @@ Après avoir soumis une contribution, l'un des événements suivants se produira
 
 J'espère que vous avez [vérifié les signes d'activité dans le projet](#une-checklist-avant-de-contribuer) avant de faire une contribution. Même sur un projet actif, il est possible que votre contribution n'obtienne pas de réponse.
 
-Si vous n'avez pas reçu de réponse depuis plus d'une semaine, il est juste de répondre poliment dans ce même fil, en demandant à quelqu'un de donner votre avis. Si vous connaissez le nom de la bonne personne à consulter votre contribution, vous pouvez @-mentionner dans ce fil.
+Si vous n'avez pas reçu de réponse depuis plus d'une semaine, il est juste de répondre poliment dans ce même fil, en demandant à quelqu'un de donner son avis. Si vous connaissez le nom de la bonne personne à consulter votre contribution, vous pouvez @-mentionner dans ce fil.
 
 **Ne pas** tendre la main à cette personne en privé. Rappelez-vous que la communication publique est vitale pour les projets open source.
 
