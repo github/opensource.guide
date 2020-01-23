@@ -5,7 +5,7 @@ description: Want to contribute to open source? A guide to making open source co
 class: contribute
 toc:
   why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
+  what-it-means-to-contribute: "What it means to hcontribute"
   orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
   how-to-submit-a-contribution: "How to submit a contribution"
