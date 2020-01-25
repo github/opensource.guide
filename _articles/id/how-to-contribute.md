@@ -383,7 +383,7 @@ Apakah Anda merupakan kontributor atau mencoba untuk bergabung dengan sebuah kom
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Sebagai kontributor baru,\] saya menyadari bahwa saya perlu bertanya jika ingin menutup sebuah laporan masalah. Saya mengamati kode program. Setelah saya mengetahui situasinya, saya bertanya untuk pengarahan lebih lanjut. Dan akhirnya! Saya berhasil menutup sebuah laporan masalah setelah mendapatkan semua informasi relevan yang saya butuhkan.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 

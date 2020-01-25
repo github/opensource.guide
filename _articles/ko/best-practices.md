@@ -181,7 +181,7 @@ related:
 
 프로젝트 방침에 열성적인 사람이 있다면 커밋이나 커뮤니티 관리 권한을 부여하세요. 여러분의 프로젝트를 포크해서 활동적으로 유지보수하는 사람이 있다면 여러분의 원본 프로젝트에서 링크를 제공하는 것도 고려해보세요. 여러분의 프로젝트가 계속 발전하길 바라는 사람이 많다는 것은 좋은 일입니다!
 
-@progrium은 그의 프로젝트 [Dokku](https://github.com/dokku/dokku)에 비전을 적어둔 것이 그가 프로젝트 관리에서 물러나고서도 [원래 목표를 향해 나아가는 데 도움](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/)이 되었다는 사실을 알았습니다.
+@progrium은 그의 프로젝트 [Dokku](https://github.com/dokku/dokku)에 비전을 적어둔 것이 그가 프로젝트 관리에서 물러나고서도 [원래 목표를 향해 나아가는 데 도움](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/)이 되었다는 사실을 알았습니다.
 
 > 저는 제가 원했던 것과 왜 그걸 원했는지에 대해 위키 페이지를 만들어 설명했어요. 관리자들이 프로젝트를 제가 의도한 대로 움직이기 시작한 것을 보고 놀라지 않을 수 없었습니다! 항상 정확히 제가 의도한 대로 되지는 않았지만, 기록해둔 것과는 가까웠지요.
 
