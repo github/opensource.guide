@@ -174,7 +174,7 @@ De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe 
 ### Împarte proprietatea proiectului tău
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Liderii voștri vor avea păreri diferite, așa cum ar trebui să aibă toate comunitățile sănătoase! Totuși, trebuie să faceți niște pași să asigurați că cea mai tare voce nu învinge întotdeauna obosind oamenii, și că vocile mai puțin proeminente și cele minoritare sunt auzite.
   </p>
@@ -184,7 +184,7 @@ De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe 
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
