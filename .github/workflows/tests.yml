@@ -13,6 +13,9 @@ jobs:
     - name: Set up Ruby
       uses: actions/setup-ruby@v1
 
+    - name: Set up Node
+      uses: actions/setup-node@v1
+
     - name: Bootstrap
       run: script/bootstrap
 
