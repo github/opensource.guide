@@ -32,3 +32,6 @@ related:
 
 untranslated:
   type: TrueClass
+
+redirect_from:
+  type: String

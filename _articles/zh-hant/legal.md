@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 開源的法律保障
 description: 對於開源你應該瞭解的法律知識。
 class: legal
@@ -8,6 +8,7 @@ image: /assets/images/cards/legal.png
 related:
   - contribute
   - leadership
+redirect_from: /zh-tw/legal/
 ---
 
 ## 瞭解開源的法律含義

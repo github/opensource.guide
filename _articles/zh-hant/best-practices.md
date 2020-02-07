@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 維護者最佳實踐
 description: 身為開源的維護者，如何輕鬆駕馭專案？本指南從文件流程到有效利用社群來展開。
 class: best-practices
@@ -8,6 +8,7 @@ image: /assets/images/cards/best-practices.png
 related:
   - metrics
   - leadership
+redirect_from: /zh-tw/best-practices/
 ---
 
 ## 身爲一名維護者意味著什麼?
@@ -176,7 +177,7 @@ related:
 
 如果別人認同專案的發展方向，給他們提交的權限或者正式把專案所有權轉移給他。如果有人fork了你的專案而且在保持活躍的維護中，考慮在你的原始的倉庫放上這個fork版本的鏈接。如果大家都希望你的專案繼續的話這不失爲一種好辦法
 
-[@progruim](https://github.com/progrium) [發現](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) 由於它給他的專案[Dokku](https://github.com/dokku/dokku)寫一個關於專案發展方向的文件，即使在它離開這個專案後他的那些目標仍然會被實現。
+[@progruim](https://github.com/progrium) [發現](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) 由於它給他的專案[Dokku](https://github.com/dokku/dokku)寫一個關於專案發展方向的文件，即使在它離開這個專案後他的那些目標仍然會被實現。
 
 > 我寫了一個wiki來描述我想要啥和爲什麼。不知道爲啥，專案的維護者就開始推動專案朝這個方向發展，這對我來說還是有點驚訝的。他們會絲毫不差的按照我的意願去做這個專案嗎？不總是這樣，但是總是會把專案推動到離我的理想狀態更近的位置。
 

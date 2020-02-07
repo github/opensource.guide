@@ -183,7 +183,7 @@ Ha a projektet magára kell hagynod rövid vagy akár hosszabb időre, akkor nin
 
 Ha mások is lelkesek a projekt irányát illetően, akkor add meg nekik a hozzáférést, vagy formálisan is add át az irányítást. Ha valaki forkolta a projektet, és máshol aktívan fenntartja azt, fontold meg az eredeti projekt csatlakozását ehhez. Nagyszerű, ha sok ember akarja azt, hogy a projekt tovább éljen!
 
-@progrium [úgy találta](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) hogy a projekt vízió dokumentálása a [Dokku](https://github.com/dokku/dokku) esetén, segített abban, hogy a célok tovább éljenek még akkor is, amikor ő már nem vesz részt a projektben:
+@progrium [úgy találta](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) hogy a projekt vízió dokumentálása a [Dokku](https://github.com/dokku/dokku) esetén, segített abban, hogy a célok tovább éljenek még akkor is, amikor ő már nem vesz részt a projektben:
 
 > Egy wiki oldalon leírtam, hogy mit és miért akartam. Valami oknál fogva meglepetésnek számított nekem, hogy a karbantartók elkezdték vinni a projektet ebbe az irányba! Hogy pontosan úgy történt ez, ahogy én csináltam volna? Nem mindig. De mégis közelebb hozta a projektet ahhoz, amit leírtam.
 

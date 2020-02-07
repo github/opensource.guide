@@ -133,7 +133,7 @@ Oricare proiect popular va atrage inevitabil oameni care rănesc, în loc de a a
 Fă tot ce poți pentru a adopta o politică de toleranță zero față de aceste tipuri de oameni. Dacă rămân neverificați, oamenii negativi vor face alți oameni în comunitatea ta incomozi. Ei ar putea chiar să plece.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Adevărul este că a avea o comunitate susținătoare este cheia. Niciodată nu aș putea face această muncă fără ajutorul colegilor mei, străinilor prietenoși de pe Internet, și canale flecare IRC. (...) Nu te mulțumi cu mai puțin. Nu te mulțumi cu nenorociți.
   </p>
@@ -143,7 +143,7 @@ Fă tot ce poți pentru a adopta o politică de toleranță zero față de acest
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -174,7 +174,7 @@ De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe 
 ### Împarte proprietatea proiectului tău
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Liderii voștri vor avea păreri diferite, așa cum ar trebui să aibă toate comunitățile sănătoase! Totuși, trebuie să faceți niște pași să asigurați că cea mai tare voce nu învinge întotdeauna obosind oamenii, și că vocile mai puțin proeminente și cele minoritare sunt auzite.
   </p>
@@ -184,7 +184,7 @@ De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe 
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 

@@ -1,5 +1,5 @@
 ---
-lang: zh-tw
+lang: zh-hant
 title: 打造友善、溫暖的社群
 description: 打造個人們願意使用、貢獻並願意主動宣傳的人氣社群。
 class: building
@@ -8,6 +8,7 @@ image: /assets/images/cards/building.png
 related:
   - best-practices
   - coc
+redirect_from: /zh-tw/building-community/
 ---
 
 ## 讓專案朝成功邁進

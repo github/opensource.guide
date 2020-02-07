@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 行为准则
 description: 社区的长远发展和健康成长，离不开一些行为准则，需要遵守并执行。
 class: coc
@@ -8,6 +8,7 @@ image: /assets/images/cards/coc.png
 related:
   - building
   - leadership
+redirect_from: /zh-cn/code-of-conduct/
 ---
 
 ## 为什么我们需要行为守则？

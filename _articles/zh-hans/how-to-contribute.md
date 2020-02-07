@@ -1,5 +1,5 @@
 ---
-lang: zh-cn
+lang: zh-hans
 title: 如何为开源做贡献
 description: 想为开源贡献力量？本指南针为"菜鸟"和初学者而准备！
 class: contribute
@@ -8,6 +8,7 @@ image: /assets/images/cards/contribute.png
 related:
   - beginners
   - building
+redirect_from: /zh-cn/how-to-contribute/
 ---
 
 ## 为什么要为开源做贡献?
@@ -383,7 +384,7 @@ related:
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[作为一名新手,\] 我很快的就意识到，我若是要关闭一条 issue 时，我不得不问更多的问题。我浏览了代码库，一旦我觉得有什么问题的时候，我就得需要更多的指点，瞧！ 在我得到所有的所需要的信息后，我就可以解决这个问题！
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [一名菜鸟进入开源世界的坎坷之旅](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [一名菜鸟进入开源世界的坎坷之旅](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 

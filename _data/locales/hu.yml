@@ -22,10 +22,10 @@ hu:
       button: Feliratkozás
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
+      format: "[code] amely [love] készült a [github] és [friends] által"
       # Label for code octicon
-      code_label: code
+      code_label: kód
       # Label for love octicon
-      love_label: love
+      love_label: szeretettel
       # Label for the contributors link
-      friends_label: friends
+      friends_label: barátai
