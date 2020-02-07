@@ -384,7 +384,7 @@ master ブランチのコミットアクティビティをみてみましょう�
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[新しいコントリビューターとして、\] イシューをクローズできるようになりたいのであれば、質問をする必要があるということにすぐに気づきました。私はコードベースをざっと読んで、一旦何が行われているのか感覚を掴んだら、さらなる方向について質問をしました。そして、ほら！必要だった関連する詳細を全て手に入れて、イシューを解決することができました。
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
