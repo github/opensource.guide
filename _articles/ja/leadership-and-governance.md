@@ -50,7 +50,7 @@ related:
   </p>
 </aside>
 
-## どのようにしてリーダーシップの役割を明確なものにするのか？
+## どのようにしてリーダーシップの役割を明確にするか？
 
 リーダーシップの役割を明確にすることで、人々に責任を持たせ、他のコミュニティメンバーが助けが必要な時に誰に聞くべきかが明確になります。
 
@@ -147,7 +147,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  私達のゴールは、コミュニティが自立して時速可能になるようなインフラを提供することで、コントリビューター、支援者、スポンサーの全員が利益を得ることができるような環境を作ることです。  
+  私達のゴールは、コミュニティが自立して持続可能になるようなインフラを提供することで、コントリビューター、支援者、スポンサーの全員が利益を得ることができるような環境を作ることです。
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
   </p>
