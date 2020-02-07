@@ -80,7 +80,7 @@ related:
 
 コントリビューターについて考え始めるのに早すぎる事はありません。あなた以外の人々からの支援なしでは、プロジェクトが有名（沢山の人が使っている）になってもサポートされていない（必要なメンテナー作業を行うことが出来ない）という不健康な状況に陥るリスクがあります。
 
-活動的だったコントリビューターも最終的には他に写ってしまうため、リテンションには[新しいコントリビューターの流入](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2)も必要です。
+活動的だったコントリビューターも最終的には他に移ってしまうため、リテンションには[新しいコントリビューターの流入](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2)も必要です。
 
 下記に定期的にトラッキングした方が良いコミュニティメトリクスの例を挙げます：
 
