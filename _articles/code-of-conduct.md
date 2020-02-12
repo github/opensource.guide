@@ -14,7 +14,7 @@ image: /assets/images/cards/coc.png
 related:
   - building
   - leadership
----
+---better team within communication
 
 ## Why do I need a code of conduct?
 
@@ -81,11 +81,11 @@ Before you respond, give yourself time to understand what happened. Read through
 <aside markdown="1" class="pquote">
   Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
   <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+— Stephanie Zvan, ["So You've Got Yourself a Policy.
   </p>
 </aside>
 
-### Take appropriate action
+### Take appropriate action 
 
 After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
 
