@@ -178,5 +178,3 @@ Apakah pemberi dana memiliki persyaratan? Misalnya Anda harus bersifat nirlaba a
 ## Eksperimen dan jangan menyerah
 
 Mendapatkan pendanaan tidaklah mudah, baik untuk proyek open source, nirlaba, atau startup perangkat lunak, dan pada banyak kasus, Anda harus kreatif. mengindentifikasi bagaimana Anda hendak didanai, melakukan riset, dan menempatkan diri Anda pada penyandang dana akan membantu Anda membangun kasus yang meyakinkan untuk pendanaan.
-
->
