@@ -1,14 +1,14 @@
 ---
-lang: en
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
-class: beginners
+lang: ru
+title: Запуск проекта с открытым исходным кодом
+description: Узнайте больше о мире открытого исходного кода и подготовьте к запуску собственный проект.
+class: начинающие
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  the-what-and-why-of-open-source: "Что это и зачем - открытый исходный код"
+  should-i-launch-my-own-open-source-project: "Стоит ли мне запускать свой проект с открытым исходным кодом?"
+  launching-your-own-open-source-project: "Запуск собственного проекта с открытым исходным кодом"
+  naming-and-branding-your-project: "Название и брендинг вашего проекта"
+  your-pre-launch-checklist: "Ваш контрольный список перед запуском"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,347 +16,346 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## Открытый исходный код: что это и зачем? 
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Итак, вы думаете о запуске своего проекта с открытым исходным кодом (open source)? Поздравляем! Мир ценит ваш участие. Давайте поговорим о том, что такое open source и почему люди это делают.
 
-### What does "open source" mean?
+### Что означает "open source"?
 
-When a project is open source, that means **anybody is free to use, study, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Когда код проекта открыт, это означает, что **любой может свободно использовать, изучать, изменять и распространять ваш проект для любых целей.** Эти разрешения даются через [лицензию с открытым исходным кодом](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. Also because it gives users a potential to control their own computing, relative to closed source. For example, a business using open source software has the option to hire someone to make custom improvements to the software, rather than relying exclusively on a closed source vendor's product decisions.
+Преимущество открытого кода в том, что он снижает барьеры для выбора вашей программы и сотрудничества, позволяя людям быстро распространять и улучшать проекты. Кроме того, это дает пользователям возможность контролировать код, в отличии от закрытого. Компания, использующая программное обеспечение (ПО) с открытым исходным кодом, может нанять кого-то для внесения улучшений в ПО, а не полагаться исключительно на решение поставщика с закрытым исходным кодом.
 
-_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open source software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
+_Свободное ПО (Free software)_ ссылается на те же проекты, что и _открытое ПО (open source)_. Иногда вы можете встретить комбинации этих [терминов](https://en.wikipedia.org/wiki/Free_and_open-source_software): "Свободное и открытое ПО" (free and open source software FOSS или free, libre, and open source software FLOSS). Слова free и libre здесь означают "свободное", а не ["бесплатное"](#does-open-source-mean-free-of-charge).  
 
-### Why do people open source their work?
+### Почему люди делают свою работу открытой? 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Одно из самых больших вознаграждений, которое я получил от open source - это отношения, установившиеся с другими разработчиками, столкнувшимися с такими же проблемами как и я. 
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+— @kentcdodds, ["Как мне было здорово войти в Open Source"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Есть много причин](https://ben.balter.com/2015/11/23/why-open-source/) почему индивид или организация открывают исходники своего проекта. Вот некоторые из них: 
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Сотрудничество:** Open source проект может получать доработки от любого человека из любой страны мира. Например, платформа для упражнений программированию [Exercism](https://github.com/exercism/), делается усилиями 350 авторов. 
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Адаптация и ремиксы:** Open source проект может быть использован кем угодно, почти для чего угодно.  Люди могут использовать ваш проект совершенно по-новому. [WordPress](https://github.com/WordPress), например, стартовал как ответвление уже существовавшего проекта [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Прозрачность:** Любой может проверять open source проект на ошибки и несоответствия. Прозрачность важна даже на государственном уровне. Например, правительство [Болгарии](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) и [США](https://sourcecode.cio.gov/) законодательно предписали прозрачность для таких отраслей как: банковское дело, здравоохранение, и ПО безопасности, вроде [Let's Encrypt](https://github.com/letsencrypt).    
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open source (открытый исходник) применимо не только к ПО, но и ко всему остальному: от наборов данных до книг. В [Обзоре GitHub](https://github.com/explore) вы можете почерпнуть больше идей насчёт того, что можно заопенсорсить. 
 
-### Does open source mean "free of charge"?
+### Open source - значит бесплатно?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+Бесплатность open source - это одно из его самых больших преимуществ, но не единственное, а скорее - побочный продукт его совокупной ценности. 
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Поскольку [открытая лицензия предполагает](https://opensource.org/osd-annotated), что кто угодно может использовать, модифицировать, и распространять ваш проект почти для любых целей, то в большинстве случаев это подразумевает бесплатность. Потому что, если бы вы просили плату, то люди бы скачивали проект и использовали его бесплатно, абсолютно легально.  
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Поэтому большинство open source проектов бесплатны, но это не входит в определение open source. Существуют способы взимания платы за проекты с открытым исходным кодом косвенно, через двойное лицензирование или ограниченные функции, но при этом они соответствуют официальному определению open source.
 
-## Should I launch my own open source project?
+## Стоит ли мне запускать свой open source проект?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Краткий ответ - да, потому что независимо от результата, запуск своего проекта - это хороший способ понять, как работает open source.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Если вы никогда прежде не запускали подобных проектов, вы можете переживать: "что скажут люди?", "а вдруг вообще никто его не заметит?". Если вам это знакомо, не беспокойтесь, вы не один такой!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Open source, как и любая творческая работа, будь то писательство или рисование, вызывает волнение прежде чем поделиться ей с миром. Но единственный способ улучшить её - практиковаться, даже если у вас не будет аудитории.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Если вы ещё не решились, найдите время подумать о ваших возможных целях. 
 
-### Setting your goals
+### Постановка целей
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Цели помогут вам определиться, над чем работать, от чего отказаться, и где вам понадобится помощь со стороны. Спросите себя: _"зачем я опенсорсю этот проект?"_. 
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Единого ответа на этот вопрос не существует. Вы можете иметь много целей для одного проекта, или разные проекты с разными целями. 
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Если ваша цель просто показать свою работу и нет нужды в сотрудничестве, вы можете так и написать в файле README. С другой стороны, если вы заинтересованы в помощниках, то вам следует вложить своё время в написание понятной документации и проявлять заботу о новичках. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+Однажды я сделал настраиваемый UIAlertView для своих нужд... и решил сделать его open source. Я сделал его более динамичным и загрузил на GitHub. Я так же написал свою первую документацию, объясняющую другим разработчикам, как они могут использовать мою работу в своих проектах. Возможно, ей так никто и не воспользовался из-за её простоты. Но зато я испытал хорошее чувство от всего этого процесса. 
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
+— @mavris, ["Программисты самоучки: Почему Open Source важен для нас"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+По мере роста проекта ваше сообщество будет нуждаться не только в коде. Ответы на вопросы (issues), проверка кода, распространение информации о себе - всё это важные задачи open source проекта.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+Хотя количество времени на непрограммистские задачи зависит от размера и масштаба вашего проекта, вы должны быть готовы решать их сами или найти для этого помощника. 
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Если вы - часть компании, запускающей open source проект,**, убедитесь заранее, что вы имеете внутренние ресурсы для его развития. Назначьте ответственного за сопровождение после запуска и определите, как будут распределяться задачи внутри сообщества. 
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Если вам нужен выделенный бюджет или персонал для продвижения, эксплуатации и поддержки проекта, обговорите это как можно раньше.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+Когда вы начинаете open source проект, важно, чтобы процессы управления в организации учитывали вклад и возможности сообщества, образовавшегося вокруг проекта. Не бойтесь вовлекать посторонних людей, даже в ключевых аспектах, особенно если они активно участвуют. 
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
+— @captainsafia, ["Чё, хочешь открыть код проекта?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
-### Contributing to other projects
+### Участие в чужих проектах
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Если ваша цель - понять как взаимодействовать с другими и как работает open source, рассмотрите возможность участия в уже существующем проекте, который вы используете и любите. Вашим участием могут быть такие простые вещи, как исправление опечаток и обновление документации. 
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Если вы не понимаете, как начать участие в чужом проекте, ознакомьтесь с нашим руководством [Как участвовать в open source проекте](../how-to-contribute/).
 
-## Launching your own open source project
+## Запуск собственного open source проекта
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Нет идеального момента, когда нужно открывать исходники своей работы. Вы можете открыть их на стадии идеи, в процессе работы или после нескольких лет закрытости.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+В общем случае, открывать исходники можно, когда вы чувствуете себя уверенно настолько, чтобы показать свою работу посторонним людям и получать их отзывы. 
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Каждый проект вне зависимости от стадии, на которой вы решили открыть исходники, должен иметь следующую документацию: 
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Лицензию open source](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Руководство для участников](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Кодекс поведения](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Они помогут вам донести ожидания, принимать правки других участников, и защитить законные права всех соавторов, включая себя. Это значительно увеличивает вероятность позитивного опыта. 
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Если ваш проект на Гитхабе и вы разместите эти файлы в корневой категории с рекомендованными названиями, Гитхаб распознает их и будет автоматически отображать для ваших читателей. 
 
-### Choosing a license
+### Выбор лицензии
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+Лицензия для открытого исходного кода гарантирует, что другие могут использовать, копировать, изменять и вносить правки в ваш проект без каких-либо последствий. Она также защищает вас от неприятных юридических ситуаций. **Вы должны включить лицензию при запуске проекта с открытым исходным кодом.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Юридическая работа - не из легких. Но есть хорошие новости: вы можете скопировать существующую лицензию и разместить её в своём репозитории, за одну минуту защитив ваш тяжелый труд.  
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), и [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) - это самые популярные лицензии, но [есть и другие варианты](https://choosealicense.com) для выбора.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Когда вы создаёте новый проект на Гитхабе, вам дается на выбор несколько лицензий. Выбрав open source лицензию, вы сделаете свой проект - открытым. 
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Выберете лицензию](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Если у вас есть другие вопросы или беспокойства относительно юридических аспектов open source, [мы описали их здесь](../legal/).  
 
-### Writing a README
+### Составление README
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+Файл README ("прочитай меня") не только рассказывает, как использовать ваш проект, но и объясняет, почему он важен, и что пользователи могут с ним делать.
 
-In your README, try to answer the following questions:
+Постарайтесь ответить в README на следующие вопросы: 
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Что делает этот проект?
+* Чем этот проект полезен?
+* Как я могу начать работать с ним?
+* Где я могу получить помощь, если понадобится?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+Вы можете указать в README: как участвовать в вашем проекте, каковы его цели, рассказать о лицензии и авторстве. Если вы не планируете принимать доработки других людей, или он ещё не готов для запуска - так и напишите об этом. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  Хорошая документация - это больше пользователей, меньше просьб о помощи, и больше соавторов. (...) Помните, что ваши пользователи - не вы. Это могут быть люди с опытом - сильно отличным от вашего. 
   <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Писать так, чтобы ваши слова читали (видео)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Иногда люди откладывают написание README, потому что чувствуют, что проект не завершен, или не хотят принимать доработки других людей. Но это как раз хороший повод написать об этом. 
 
-For more inspiration, try using @dguo's ["Make a README" guide](https://www.makeareadme.com/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Для вдохновения, можете почитать @dguo's ["Сделай README" - руководство](https://www.makeareadme.com/) или @PurpleBooth's [Шаблон README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). 
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Когда вы добавляете файл README в корневую директорию проекта, Гитхаб автоматически отображает его на главной странице репозитория. 
 
-### Writing your contributing guidelines
+### Написание руководства для участников
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+Файл CONTRIBUTING говорит вашей аудитории, как стать участником вашего проекта. Например: 
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Как сообщить об ошибке (попробуйте использовать [шаблоны для issue и pull request](https://github.com/blog/2111-issue-and-pull-request-templates))
+* Как предложить новую функцию
+* Как настроить среду выполнения и запустить тесты
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Помимо технических деталей, файл CONTRIBUTING - хорошее место, чтобы изложить свои ожидания относительно участия других людей. Например: 
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* Какого рода участие вы ждёте? 
+* Ваши планы и видение развития проекта 
+* Как участники могут (и не могут) связываться с вами 
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Ваш тёплый дружеский тон и конкретные предложения по участию, вроде написания документации или создания сайта, могут иметь большое значение для привлечения новичков к работе над проектом.  
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+Например, [Active Admin](https://github.com/activeadmin/activeadmin/) начинает [своё руководство по участию](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) с таких слов:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> В первую очередь хотим выразить вам благодарность за то, что подумываете об участии в развитии Active Admin. Именно такие люди как вы делают Active Admin прекрасным инструментом. 
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+На ранних стадиях проекта ваш файл CONTRIBUTING может быть простым. Вы всегда должны объяснить как сообщать об ошибках и оформлять вопросы, а так же описать технические требования к правкам участников (например, тесты). 
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Со временем вы можете дополнить его ответами на часто задаваемые вопросы. Благодаря этому меньше людей будут спрашивать вас об одном и том же снова и снова.  
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Чтобы вам было проще составить файл CONTRIBUTING, ознакомьтесь с  @nayafia's [шаблоном руководства по сотрудничеству](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) или @mozilla's ["Как составить файл CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+Поставьте ссылку на файл CONTRIBUTING внутри README, так больше людей увидят его. Если вы [разместите файл CONTRIBUTING.md в корне вашего проекта](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), то Гитхаб будет автоматически ссылаться на него, когда кто-то открывает новый вопрос (issue) или добавляет правку в проект (pull request).  
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![руководство по сотрудничеству](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### Разработка кодекса поведения
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+ Все мы сталкивались с неприятными ситуациями, когда хозяин проекта грубо объяснял что-то или пользователи задавали элементарные вопросы. (...) Кодекс поведения становится документом, на который легко ссылаться, и который говорит, что ваша команда очень серьезно относится к конструктивному диалогу. 
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
+— @mlynch, [Делаем open source более счастливым местом](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+В итоге, кодекс поведения задаёт базовые правила поведения для участников вашего проекта. Это особенно важно, если вы запускаете проект для компании или сообщества. Кодекс поведения способствует установлению здорового, конструктивного поведения в сообществе, что снижает стресс для вас, как для ответственного за проект. 
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Подробнее смотрите: [Кодекс поведения - руководство](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Помимо описания _каким_ вы хотите видеть поведение участников, кодекс поведения также разъясняет, к кому и когда он применяется, и что будет в случае его нарушения. 
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+По аналогии с лицензией, вам не обязательно писать кодекс самим, а можно скопировать один из существующих вариантов. [Соглашение участника](https://contributor-covenant.org/) используется в [более 40,000 open source проектах](https://www.contributor-covenant.org/adopters), включая Kubernetes, Rails, и Swift. Какой бы кодекс вы не использовали, вы должны быть готовы применить его при необходимости. 
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Поместите файл CODE_OF_CONDUCT.md в корень вашего проекта, так его будет проще находить и ссылаться на него, например, из README. 
 
-## Naming and branding your project
+## Именование и брендирование вашего проекта
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+Брендирование - это не только броский логотип и запоминающееся название, но и то, как вы говорите о своём проекте и до кого доходит ваше послание. 
 
-### Choosing the right name
+### Выбор правильного названия 
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Выберите название, которое легко запомнить и, в идеале, даёт представление о сути проекта. Например: 
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Караул](https://github.com/getsentry/sentry) оповещает о падении приложения. 
+* [Дрищ](https://github.com/macournoyer/thin) быстрый и простой веб-сервер на Ruby. 
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Если ваш проект - это дополнение к существующему проекту, то используйте его название как префикс, это поможет понять, что делает ваш проект. Например [node-fetch](https://github.com/bitinn/node-fetch) привносит `window.fetch` в Node.js). 
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Выбирайте в пользу понятности. Каламбуры могут быть забавными, но подумайте о людях из других культур или с отличным от вашего опытом, которые могут не понять шутку. Ваши потенциальные пользователи могут быть работниками компаний, которые будут рассказывать о вашем проекте начальству. Не заставляйте их краснеть при этом.
 
-### Avoiding name conflicts
+### Конфликт имён 
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Проверьте наличие open source проектов с таким же названием](http://ivantomic.com/projects/ospnc/), особенно если вы используете один и тот же язык или экосистему. Если ваше название совпадёт с популярным существующим проектом, вы можете запутать свою аудиторию.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Если вы планируете завести сайт, твиттер или любую площадку для публикаций, убедитесь, что нужное вам название там свободно. И лучше [зарезервируйте эти имена сейчас](https://instantdomainsearch.com/) для душевного спокойствия, даже если пока не планируете ими пользоваться. 
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Убедитесь, что вы не посягаете на торговую марку какой-нибудь компании. В будущем она сможет попросить вас закрыть проект или даже подать в суд. Это неоправданный риск.  
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+Вы можете проверить конфликт брендов по [всемирной базе брендов WIPO](http://www.wipo.int/branddb/en/). Если вы делаете проект от лица компании, то [юридический отдел может помочь вам с этим](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+Напоследок, сделайте быстрый поиск в Google по названию вашего проекта. Смогут ли люди по нему легко найти ваш проект? А может быть, по этому запросу появляется что-то нежелательное? 
 
-### How you write (and code) affects your brand, too!
+### То, как вы пишите (и кодите) тоже влияет на ваш бренд!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+За всю жизнь проекта вы будете много писать: README, руководства, документы сообщества, ответы на вопросы, возможно даже информационные бюллетени и списки рассылки. 
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Будь то официальная документация или обычное сообщение, ваш стиль письма - это часть бренда проекта. Подумайте о том, в каком свете вы выглядите перед аудиторией, и правильный ли подобрали тон. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+Я старался участвовать в каждой теме в списке рассылки и показывать образцовое поведение, быть доброжелательным к людям, серьезно относиться к их проблемам и быть полезным в общем. Через некоторое время люди стали не только задавать вопросы, но и помогать с ответами, и, к моему полному восторгу, они подражали моему стилю.
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
+Добрый и вежливый язык создаст приятную атмосферу для новых участников. Следите так же за простотой изложения, так как для многих читателей английский может быть не родным. 
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+Не только слова, что вы пишете, но и стиль кода может стать частью бренда вашего проекта. [Angular](https://angular.io/guide/styleguide) и [jQuery](https://contribute.jquery.org/style-guide/js/) два примера проектов со строгими стилями и рекомендациями.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://angular.io/guide/styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Нет необходимости составлять руководство по стилю, когда вы только начинаете, и в любом случае вы наверняка захотите включать в свой проект разные стили. Но вы должны заранее понимать, что ваш стиль письма и кода будет привлекать одних людей и отталкивать других. Ранние стадии проекта - это возможность создать прецедент, из которого будет расти проект в желаемом для вас виде.  
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+## Проверочный лист перед запуском
 
-## Your pre-launch checklist
+Вы готовы открыть свой проект? Вот вам проверочный лист в помощь. Когда отметите все пункты, [нажмите "опубликовать"](https://help.github.com/articles/making-a-private-repository-public/) и похвалите себя.
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
-
-**Documentation**
+**Документация**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    В проекте есть файл LICENSE с лицензией open source 
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    В проекте есть базовая документация (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    Название легко запоминается, даёт представление о сути проекта, не конфликтует с существующими проектами и не посягает на торговые марки. 
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+  Список задач (issues) актуальный, хорошо организованный и помечен ярлыками
   </label>
 </div>
 
-**Code**
+**Код**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+  Проект использует согласованные договорённости по коду и понятные названия функций/методов/переменных
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+  Код понятно комментируется, документируются замыслы и особые случаи. 
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+  Нигде нет чувствительных данных вроде паролей или другой не публичной информации - в истории ревизий, вопросах (issues) и запросах на правки (pull requests). 
   </label>
 </div>
 
-**People**
+**Люди**
 
-If you're an individual:
+Если вы частное лицо:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Вы поговорили с юридическим отделом и/или поняли правила интеллектуальной собственности и политику open source вашей компании (если вы где-то трудоустроены)
   </label>
 </div>
 
-If you're a company or organization:
+Если вы юридическое лицо:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+   Вы поговорили с юридическим отделом 
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    У вас есть маркетинговый план для запуска и продвижения проекта 
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+  Кто-то назначен ответственным за взаимодействие с сообществом: отвечать на вопросы (issues), проверять запросы на правки (pull requests) и присоединять их к проекту
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Как минимум два человека имеют административный доступ к проекту
   </label>
 </div>
 
-## You did it!
+## Вы сделали это!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Поздравляем с открытием исходников вашего первого проекта! Вне зависимости от результата, работа на виду у людей - это подарок для сообщества. Каждый коммит, комментарий и запрос на правку - это возможность учиться и расти для вас и других.
