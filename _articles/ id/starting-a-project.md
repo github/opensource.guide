@@ -1,5 +1,5 @@
 ---
-lang: id
+lang: fianproperty88
 title: Memulai Proyek Open Source
 description: Pelajari lebih lanjut tentang dunia open source dan bersiap-siap untuk merilis proyek Anda sendiri.
 class: beginners
