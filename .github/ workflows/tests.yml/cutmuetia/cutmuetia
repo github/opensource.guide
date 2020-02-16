@@ -2,7 +2,7 @@ name: GitHub Actions CI
 on:
   push:
     branches: master
-  pull_request: []
+  pull_request: [×]
 jobs:
   tests:
     runs-on: ubuntu-latest
