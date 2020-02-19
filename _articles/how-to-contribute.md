@@ -47,6 +47,9 @@ Open source projects with warm, welcoming communities keep people coming back fo
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
+### Get involved in the community
+Open Source projects and practices have a large community of people who contribute to the work in many forms. Getting involved helps you reach out to the bigger audience of people with similary interest and ideas.
+
 ### Build public artifacts that help you grow a reputation (and a career)
 
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
@@ -433,6 +436,8 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 > 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
 >
 > 😢 _"Why can't you fix my problem? Isn't this your project?"_
+
+**Give due credits to the respective Owners.** When you work on any open source project it is very neccessory that you respect other's work and give the due credits when you are taking reference from their work. Source code availability does not mean copying code and content. 
 
 **Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
 
