@@ -40,7 +40,7 @@ Când tu [creezi un proiect nou](https://help.github.com/articles/creating-a-new
 
 ![Creează depozit](/assets/images/legal/repo-create-name.png)
 
-**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
+**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
 
 Dacă dorești ca alții să folosească, să distribuie, să modifice, sau să contribuie înapoi la proiectul tău, tu trebuie să incluzi o licență open source. De exemplu, cineva nu poate în mod legal folosi nicio parte a proiectului tău GitHub în codul lor, chiar dacă este public, decât dacă tu le dai în mod explicit dreptul să facă acest lucru.
 
@@ -103,7 +103,7 @@ De exemplu, pe măsură ce proiectul tău crește el adaugă dependențe sau uti
 
 ## Proiectul meu are nevoie de o înțelegere cu contributorii în plus?
 
-Probabil că nu. Pentru marea majoritate a proiectelor open source, o licență open source implicit servește atât ca licență de intrare (de la contributori) cât și de ieșire (celorlalți contributori și utilizatori). Dacă proiectul tău este pe GitHub, Termenii serviciului GitHub fac „intrare = ieșire” [explicitul implicit](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Probabil că nu. Pentru marea majoritate a proiectelor open source, o licență open source implicit servește atât ca licență de intrare (de la contributori) cât și de ieșire (celorlalți contributori și utilizatori). Dacă proiectul tău este pe GitHub, Termenii serviciului GitHub fac „intrare = ieșire” [explicitul implicit](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
 Un acord de contributor în plus -- deseori numit un Contributor License Agreement (CLA) -- poate crea muncă administrativă pentru întreținătorii proiectului. Cât de multă muncă adaugă un acord depinde de proiect și de implementare. Un simplu acord ar putea necesita ca acei contributori să confirme, cu un clic, că ei au drepturile necesare să contribuie în baza licenței open source a proiectului. Un acord mai complicat ar putea necesita revizuire juridică și semnături de la angajatorii contributorilor.
 

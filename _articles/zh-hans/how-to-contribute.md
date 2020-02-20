@@ -63,7 +63,7 @@ redirect_from: /zh-cn/how-to-contribute/
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods 本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
   <p markdown="1" class="pquote-credit">
-— @orta, ["默认迁移到开源软件"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["默认迁移到开源软件"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
