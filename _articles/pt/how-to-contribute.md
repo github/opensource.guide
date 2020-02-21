@@ -62,7 +62,7 @@ Um equívoco comum sobre contribuir para o open source é que você precisa cont
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Fui elogiado pelo meu trabalho no CocoaPods, mas a maioria das pessoas não sabe que eu realmente não faço nenhum trabalho real na própria ferramenta CocoaPods. Meu tempo no projeto é principalmente gasto fazendo coisas como documentação e trabalhando na marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
