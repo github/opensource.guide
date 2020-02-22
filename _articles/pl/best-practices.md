@@ -97,7 +97,8 @@ Jeśli otrzymasz wkład, którego nie chcesz zaakceptować, pierwszą reakcją m
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  <i>
+  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.</i>
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
@@ -120,161 +121,166 @@ Aby odpowiedzieć, nie powinieneś potrzebować więcej niż 1-2 zdań. Na przyk
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-Jeśli myśl o mówieniu „nie” przeraża cię, nie jesteś sam. Tak jak @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Jeśli myśl o mówieniu „nie” przeraża cię, nie jesteś sam. Tak jak @jessfraz ['put it'](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Nie czuj się winny, że nie chcesz zaakceptować czyichś wkładów. Pierwsza zasada open source, [według](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"'Nie' jest tymczasowe, 'tak' jest na zawsze."_ Chociaż zrozumienie entuzjazmu innej osoby jest dobrą rzeczą, odrzucenie wkładu nie jest tym samym, co odrzucenie osoby stojącej za nim.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Ostatecznie, jeśli wkład nie jest wystarczająco dobry, nie masz obowiązku go zaakceptować. Bądź uprzejmy i elastyczny, gdy ludzie wnoszą swój wkład w projekt, ale akceptuj tylko zmiany, które według ciebie poprawią Twój projekt. Im częściej ćwiczysz mówienie „nie”, tym jest łatwiej. Obiecuję.
 
-### Be proactive
+### Bądź proaktywny
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Aby przede wszystkim zmniejszyć liczbę niechcianych wkładów, wyjaśnij proces składania i przyjmowania wkładów w projekcie w przewodniku.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Jeśli otrzymujesz zbyt wiele wkładów niskiej jakości, poproś, aby autorzy wykonali wcześniej trochę pracy, na przykład:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Wypełnij problem lub szablon/listę kontrolną PR
+* Otwórz problem przed przesłaniem PR
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Jeśli nie będą przestrzegać twoich zasad, natychmiast zamknij problem i wskaż dokumentację.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Chociaż takie podejście może początkowo wydawać się niemiłe, bycie proaktywnym jest w rzeczywistości dobre dla obu stron. Zmniejsza to szansę, że ktoś poświęci wiele straconych godzin pracy na żądanie ściągnięcia, którego nie zamierzasz zaakceptować. I ułatwia zarządzanie twoim obciążeniem pracą.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  <i>
+  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.</i>
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Czasami, gdy odmówisz, twój potencjalny współpracownik może się zdenerwować lub skrytykować twoją decyzję. Jeśli ich zachowanie stanie się wrogie, [podejmij kroki w celu rozładowania sytuacji](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) lub nawet usuń ze swojej społeczności, jeśli nie chcą konstruktywnie współpracować.
 
-### Embrace mentorship
+### Objęcie mentoringiem
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Być może ktoś w Twojej społeczności regularnie przesyła materiały, które nie spełniają standardów twojego projektu. Wielokrotne odrzucanie przez obie strony może być frustrujące.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Jeśli widzisz, że ktoś jest entuzjastycznie nastawiony do twojego projektu, ale potrzebuje odrobiny dopracowania, bądź cierpliwy. Wyjaśnij jasno w każdej sytuacji, dlaczego ich wkład nie spełnia oczekiwań projektu. Spróbuj wskazać im łatwiejsze lub mniej dwuznaczne zadanie, takie jak problem oznaczony jako _"good first issue,"_, aby zmoczyć stopy. Jeśli masz czas, zastanów się nad ich mentoringiem poprzez ich pierwszy wkład lub znajdź kogoś w swojej społeczności, kto mógłby być ich mentorem.
 
-## Leverage your community
+## Wykorzystaj swoją społeczność
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Nie musisz robić wszystkiego sam. Społeczność twojego projektu istnieje bez powodu! Nawet jeśli nie masz jeszcze aktywnej społeczności współautorów, jeśli masz wielu użytkowników, włącz ich do pracy.
 
-### Share the workload
+### Udostępnij obciążenie pracą
 
-If you're looking for others to pitch in, start by asking around.
+Jeśli szukasz innych osób, zacznij od pytania.
 
-One way to gain new contributors is to explicitly [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing their visibility.
+Jednym ze sposobów na pozyskanie nowych współpracowników jest jawne [label issues które są wystarczająco proste dla początkujących](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub wyświetli te problemy w różnych miejscach platformy, zwiększając ich widoczność.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Gdy zobaczysz, że nowi współautorzy wnoszą powtarzający się wkład, rozpoznaj ich pracę, oferując większą odpowiedzialność. Udokumentuj, w jaki sposób inni mogą stać się przywódcami, jeśli chcą.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+Zachęcanie innych do [współdzielenia własności projektu](../building-community/#share-ownership-of-your-project) może znacznie zmniejszyć własne obciążenie pracą, jak odkrył @lmccart w swoim projekcie, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  <i>
+  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.</i>
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Jeśli musisz odejść od projektu, albo na chwilę, albo na stałe, nie wstydź się poprosić kogoś innego o przejęcie go.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Jeśli inni ludzie entuzjastycznie podchodzą do jego kierunku, daj im dostęp lub formalnie przekaż kontrolę komuś innemu. Jeśli ktoś rozwidlił twój projekt i aktywnie utrzymuje go w innym miejscu, rozważ połączenie z forkiem z oryginalnego projektu. To wspaniałe, że tak wiele osób chce, aby Twój projekt przetrwał!
 
-@progrium [found that](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [znalazł to](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) dokumentowanie wizji swojego projektu, [Dokku](https://github.com/dokku/dokku), pomógł utrzymać te cele nawet po odejściu z projektu:
 
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
-### Let others build the solutions they need
+### Pozwól innym zbudować potrzebne im rozwiązania
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Jeśli potencjalny współpracownik ma inne zdanie na temat tego, co powinien zrobić Twój projekt, możesz delikatnie zachęcić go do pracy nad własnym forkiem.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Forkowanie projektu nie musi być złą rzeczą. Możliwość kopiowania i modyfikowania projektów jest jedną z najlepszych rzeczy w open source. Zachęcanie członków społeczności do pracy nad własnym forkiem może zapewnić kreatywny rynek, którego potrzebują, bez sprzeczności z wizją projektu.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  <i>
+  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.</i>
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+To samo dotyczy użytkownika, który naprawdę chce rozwiązania, które po prostu nie ma wystarczającej przepustowości do zbudowania. Oferowanie interfejsów API i customization hooks może pomóc innym w zaspokojeniu ich własnych potrzeb, bez konieczności bezpośredniej modyfikacji źródła. @orta [znalazł to](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) zachęcające wtyczki dla CocoaPods doprowadziły do "jednych z najbardziej interesujących pomysłów":
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
-## Bring in the robots
+## Sprowadź roboty
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Tak jak istnieją zadania, w których inni mogą ci pomóc, istnieją również zadania, których żaden człowiek nigdy nie powinien wykonywać. Roboty są twoim przyjacielem. Użyj ich, aby ułatwić Ci życie jako opiekunowi.
 
-### Require tests and other checks to improve the quality of your code
+### Wymagaj testów i innych kontroli w celu poprawy jakości kodu
 
-One of the most important ways you can automate your project is by adding tests.
+Jednym z najważniejszych sposobów automatyzacji projektu jest dodanie testów.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Testy pomagają współpracownikom mieć pewność, że niczego nie zniszczą. Ułatwiają także szybkie przeglądanie i przyjmowanie wkładów. Im bardziej jesteś responsywny, tym bardziej zaangażowana może być twoja społeczność.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+Skonfiguruj automatyczne testy, które będą przeprowadzane na wszystkich przychodzących kontrybucjach, i upewnij się, że twoje testy mogą być łatwo uruchomione lokalnie przez autorów. Wymagaj, aby wszystkie elementy kodu pomyślnie przeszły testy, zanim będą mogły zostać przesłane. Pomożesz ustalić minimalny standard jakości wszystkich zgłoszeń. [Wymagane kontrole statusu](https://help.github.com/articles/about-required-status-checks/) na GitHub mogą pomóc zapewnić, że żadna zmiana nie zostanie scalona bez pozytywnego wyniku testów.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Jeśli dodasz testy, wyjaśnij, jak działają w pliku CONTRIBUTING.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  <i>
+  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.</i>
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Użyj narzędzi do automatyzacji podstawowych podtrzymujących zadań
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+Dobra wiadomość o utrzymaniu popularnego projektu polega na tym, że inni opiekunowie prawdopodobnie napotkali podobne problemy i opracowali dla niego rozwiązanie.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+Dostępnych jest [wiele dostępnych narzędzi](https://github.com/showcases/tools-for-open-source) aby zautomatyzować niektóre aspekty prac konserwacyjnych. Kilka przykładów:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
+* [semantic-release](https://github.com/semantic-release/semantic-release) automatyzuje twoje wydania
+* [mention-bot](https://github.com/facebook/mention-bot) wymienia potencjalnych recenzentów dla pull requestów
+* [Danger](https://github.com/danger/danger) pomaga zautomatyzować code review
+* [no-response](https://github.com/probot/no-response) zamyka issues gdzie autor nie odpowiedział na request lub więcej informacji
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview) sprawdza pliki zależności każdego dnia pod kątem nieaktualnych wymagań i otwiera indywidualne pull requesty dla każdego, kogo znajdzie
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+W przypadku raportów o błędach i innych typowych treści GitHub ma [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), które możesz utworzyć, aby usprawnić otrzymywaną komunikację. @TalAter stworzył [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) aby pomóc Ci napisać swój issue i szablony PR.
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+Aby zarządzać powiadomieniami e-mail, możesz skonfigurować [filtry e-mail](https://github.com/blog/2203-email-updates-about-your-own-activity) aby organizować według priorytetu.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Jeśli chcesz być nieco bardziej zaawansowany, przewodniki po stylach i strzały mogą ujednolicić wkład projektu i ułatwić jego przeglądanie i akceptowanie.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Jeśli jednak twoje standardy są zbyt skomplikowane, mogą zwiększyć bariery dla wkładu. Upewnij się, że dodajesz tylko wystarczającą liczbę zasad, aby ułatwić wszystkim życie.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Jeśli nie masz pewności, jakich narzędzi użyć, sprawdź, co robią inne popularne projekty, zwłaszcza te w Twoim ekosystemie. Na przykład, jak wygląda proces wkładu dla innych modułów Node? Korzystanie z podobnych narzędzi i podejść sprawi, że proces będzie lepiej znany docelowym współpracownikom.
 
-## It's okay to hit pause
+## Można wcisnąć pauzę
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+Kiedyś praca open source przyniosła ci radość. Może teraz zaczyna sprawiać, że czujesz się jako unikający lub winny.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+Być może czujesz się przytłoczony lub masz coraz większy lęk, gdy myślisz o swoich projektach. W międzyczasie narastają problemy i pull requesty.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+Wypalenie jest prawdziwym i wszechobecnym problemem w pracy open source, szczególnie wśród opiekunów. Jako opiekun, twoje szczęście jest niezbywalnym wymogiem przetrwania każdego projektu typu open source.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+Chociaż powinno to być oczywiste, zrób sobie przerwę! Nie powinieneś czekać, aż poczujesz się wypalony, zrób wakacje. @brettcannon, główny programista Pythona postanowił wziąć [miesięczne wakacje](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) po 14 latach wolontariatu OSS.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+Podobnie jak w przypadku każdego innego rodzaju pracy, regularne przerwy sprawią, że będziesz odświeżony, szczęśliwy i podekscytowany swoją pracą.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  <i>
+  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.</i>
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+Czasami trudno jest zrobić sobie przerwę w pracy nad oprogramowaniem open source, gdy wydaje się, że wszyscy cię potrzebują. Ludzie mogą nawet próbować sprawić, byś poczuł się winny za odejście.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+Staraj się znaleźć wsparcie dla użytkowników i społeczności, gdy jesteś z dala od projektu. Jeśli nie możesz znaleźć potrzebnego wsparcia, zrób sobie przerwę. Komunikuj się, gdy nie będziesz dostępny, aby ludzie nie byli zdezorientowani brakiem reakcji.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+Robienie przerw dotyczy nie tylko wakacji. Jeśli nie chcesz wykonywać pracy typu open source w weekendy lub w godzinach pracy, przekaż te oczekiwania innym, aby nie przeszkadzali.
 
-## Take care of yourself first!
+## Najpierw zadbaj o siebie!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+Utrzymanie popularnego projektu wymaga innych umiejętności niż wcześniejsze etapy rozwoju, ale jest nie mniej satysfakcjonujące. Jako opiekun ćwiczysz umiejętności przywódcze i osobiste na poziomie, którego niewielu ludzi może doświadczyć. Chociaż nie zawsze jest to łatwe do zarządzania, ustalanie wyraźnych granic i przyjmowanie tylko tego, z czym czujesz się komfortowo, pomoże ci pozostać szczęśliwym, odświeżonym i produktywnym.
