@@ -1,14 +1,8 @@
 ---
-lang: en
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+lang: pl
+title: Twój kodeks postępowania
+description: Ułatwienie zdrowego i konstruktywnego zachowania społeczności poprzez przyjęcie i egzekwowanie kodeksu postępowania.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
-  your-responsibilities-as-a-maintainer: "Your responsibilities as a maintainer"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -16,32 +10,32 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## Dlaczego potrzebuję kodeksu postępowania?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Kodeks postępowania to dokument, który określa oczekiwania dotyczące zachowania uczestników projektu. Przyjęcie i egzekwowanie kodeksu postępowania może pomóc stworzyć pozytywną atmosferę społeczną dla społeczności.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Kodeksy postępowania chronią nie tylko uczestników, ale i ciebie. Jeśli utrzymasz projekt, może się okazać, że nieproduktywne postawy innych uczestników mogą z czasem powodować wyczerpanie lub niezadowolenie z pracy.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Kodeks postępowania umożliwia ci zdrowe, konstruktywne zachowanie społeczności. Aktywne podejście zmniejsza prawdopodobieństwo zmęczenia twojego projektu i pomaga podejmować działania, gdy ktoś robi coś, z czym się nie zgadzasz.
 
-## Establishing a code of conduct
+## Ustanowienie kodeksu postępowania
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Postaraj się ustalić kodeks postępowania tak wcześnie, jak to możliwe: najlepiej przy pierwszym tworzeniu projektu.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+Oprócz przekazywania swoich oczekiwań kodeks postępowania opisuje następujące kwestie:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Gdzie obowiązuje kodeks postępowania _(tylko w przypadku problemów i wniosków lub działań społeczności, takich jak wydarzenia?)_
+* Do kogo odnosi się kodeks postępowania _(członkowie społeczności i opiekunowie, ale co ze sponsorami?)_
+* Co się stanie, jeśli ktoś naruszy kodeks postępowania
+* Jak ktoś może zgłaszać naruszenia
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Gdziekolwiek możesz, skorzystaj ze stanu techniki. [Przymierze współautorów](https://contributor-covenant.org/) to rozwijany kodeks postępowania używany przez ponad 40 000 projektów open source, w tym Kubernetes, Rails i Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+[Kodeks postępowania Django](https://www.djangoproject.com/conduct/) oraz [Kodeks postępowania obywatelskiego](http://citizencodeofconduct.org/) to także dwa przykłady dobrego kodeksu postępowania.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+Umieść plik CODE_OF_CONDUCT w katalogu głównym projektu i uczyń go widocznym dla społeczności, łącząc go z plikiem CONTRIBUTING  lub README.
 
-## Deciding how you'll enforce your code of conduct
+## Decydowanie o tym, jak będziesz egzekwować swój kodeks postępowania
 
 <aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
@@ -50,33 +44,33 @@ Place a CODE_OF_CONDUCT file in your project's root directory, and make it visib
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Musisz wyjaśnić, w jaki sposób Twój kodeks postępowania będzie egzekwowany **_zanim_** nastąpi naruszenie. Istnieje kilka powodów:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* To pokazuje, że poważnie podchodzisz do działania, gdy jest to potrzebne.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Twoja społeczność poczuje się bardziej pewnie, że skargi faktycznie zostaną rozpatrzone.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Zapewnisz swoją społeczność, że proces sprawdzania jest uczciwy i przejrzysty, jeśli kiedykolwiek zostaną zbadani pod kątem naruszenia.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Powinieneś dać ludziom prywatny sposób (np. Adres e-mail), aby zgłosić naruszenie zasad postępowania i wyjaśnić, kto otrzyma to zgłoszenie. Może to być opiekun, grupa opiekunów lub grupa robocza ds. Kodeksu postępowania.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Nie zapominaj, że ktoś może chcieć zgłosić naruszenie dotyczące osoby, która je otrzyma. W takim przypadku daj im możliwość zgłaszania naruszeń komuś innemu. Na przykład, @ctb oraz @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Przypadki obraźliwych, nękających lub w inny sposób niedopuszczalnych zachowań można zgłaszać, wysyłając wiadomość e-mail na adres **khmer-project@idyll.org**, który jest wysyłany tylko do C. Titusa Browna i Michaela R. Crusoe. Aby zgłosić problem dotyczący któregokolwiek z nich, wyślij wiadomość e-mail **dr Judi Brown Clarke** dyrektor ds. Różnorodności w Centrum Badań nad Ewolucją w Działaniu BEACON, Centrum Nauki i Technologii NSF.*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+Aby uzyskać inspirację, zapoznaj się z [instrukcją egzekwowania Django](https://www.djangoproject.com/conduct/enforcement-manual/) (chociaż możesz nie potrzebować czegoś tak kompleksowego, w zależności od wielkości twojego projektu).
 
-## Enforcing your code of conduct
+## Egzekwowanie Twojego kodeksu postępowania
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Czasami, pomimo twoich starań, ktoś zrobi coś, co narusza ten kod. Istnieje kilka sposobów przeciwdziałania negatywnym lub szkodliwym zachowaniom.
 
-### Gather information about the situation
+### Zbierz informacje o sytuacji
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Traktuj głos każdego członka społeczności tak samo ważny jak własny. Jeśli otrzymasz zgłoszenie, że ktoś naruszył kodeks postępowania, podejmij go poważnie i zbadaj sprawę, nawet jeśli nie pasuje on do twoich doświadczeń z tą osobą. Takie postępowanie sygnalizuje społeczności, że cenisz ich perspektywę i ufasz ich osądowi.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+Członek społeczności, o którym mowa, może być wielokrotnym przestępcą, który konsekwentnie sprawia, że inni czują się niekomfortowo, lub mogą powiedzieć coś lub zrobić tylko raz. Oba mogą być podstawą do podjęcia działania, w zależności od kontekstu.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Zanim odpowiesz, daj sobie czas na zrozumienie, co się stało. Przeczytaj wcześniejsze komentarze i rozmowy tej osoby, aby lepiej zrozumieć, kim ona jest i dlaczego mogła postąpić w taki sposób. Spróbuj zebrać inne niż własne opinie na temat tej osoby i jej zachowania.
 
 <aside markdown="1" class="pquote">
   Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
@@ -85,36 +79,36 @@ Before you respond, give yourself time to understand what happened. Read through
   </p>
 </aside>
 
-### Take appropriate action
+### Podejmij odpowiednie działania
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+Po zebraniu i przetworzeniu wystarczających informacji musisz zdecydować, co robić. Rozważając kolejne kroki, pamiętaj, że Twoim celem jako moderatora jest promowanie bezpiecznego, pełnego szacunku i współpracy środowiska. Zastanów się nie tylko, jak poradzić sobie z daną sytuacją, ale także, w jaki sposób twoja reakcja wpłynie na dalsze zachowania i oczekiwania twojej społeczności.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Gdy ktoś zgłosi naruszenie kodeksu postępowania, jego zadaniem jest zająć się nim, a nie jego obowiązkiem. Czasami reporter ujawnia informacje z dużym ryzykiem dla ich kariery, reputacji lub bezpieczeństwa fizycznego. Zmuszenie ich do konfrontacji z napastnikiem może postawić reportera w kompromitującej sytuacji. Należy obsługiwać bezpośrednią komunikację z daną osobą, chyba że reporter wyraźnie zażąda inaczej.
 
-There are a few ways you might respond to a code of conduct violation:
+Istnieje kilka sposobów reagowania na naruszenie kodeksu postępowania:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Daj osobie, o której mowa, publiczne ostrzeżenie** i wyjaśnij, w jaki sposób ich zachowanie wpłynęło negatywnie na innych, najlepiej w kanale, w którym miało miejsce. Tam, gdzie to możliwe, komunikacja publiczna przekazuje reszcie społeczności, że poważnie podchodzisz do kodeksu postępowania. Bądź miły, ale stanowczy w swojej komunikacji.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Prywatnie skontaktuj się z osobą** w celu wyjaśnienia, w jaki sposób ich zachowanie wpłynęło negatywnie na innych. Możesz skorzystać z prywatnego kanału komunikacji, jeśli sytuacja dotyczy poufnych danych osobowych. Jeśli komunikujesz się z kimś prywatnie, dobrym pomysłem jest skontaktowanie się z osobami, które jako pierwsze zgłosiły sytuację, aby wiedziały, że podjąłeś działania. Poproś osobę zgłaszającą o zgodę przed jej wysłaniem.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Czasami nie można osiągnąć rozdzielczości. Dana osoba może stać się agresywna lub wroga, gdy zostanie skonfrontowana lub nie zmieni swojego zachowania. W tej sytuacji możesz rozważyć podjęcie silniejszych działań. Na przykład:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Zawieś osobę** w kwestii projektu, egzekwowane przez tymczasowy zakaz uczestnictwa w jakimkolwiek aspekcie projektu
 
-* **Permanently ban** the person from the project
+* **Trwale zbanuj** tę osobę w projekcie
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+Zbanowanych członków nie należy lekceważyć, stanowią trwałą i niemożliwą do pogodzenia różnicę perspektyw. Powinieneś podjąć te środki tylko wtedy, gdy jest jasne, że nie można osiągnąć rozwiązania.
 
-## Your responsibilities as a maintainer
+## Twoje obowiązki jako opiekuna
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+Kodeks postępowania nie jest prawem egzekwowanym arbitralnie. Jesteś podmiotem egzekwującym kodeks postępowania i Twoim obowiązkiem jest przestrzegać zasad ustanowionych w tym kodeksie postępowania.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+Jako opiekun ustalasz wytyczne dla swojej społeczności i egzekwujesz je zgodnie z zasadami określonymi w kodeksie postępowania. Oznacza to poważne potraktowanie każdego zgłoszenia naruszenia kodeksu postępowania. Zgłaszającemu należy się dokładna i rzetelna ocena jego skargi. Jeśli stwierdzisz, że zgłoszone przez nich zachowanie nie stanowi naruszenia, przekaż im to jasno i wyjaśnij, dlaczego nie zamierzasz podjąć działań w związku z tym. To, co zrobią z tym, zależy od nich: tolerować zachowanie, z którym mieli problem, lub przestać uczestniczyć w społeczności.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+Raport o zachowaniu, który nie narusza kodeksu postępowania technicznego, może nadal wskazywać na problem w Twojej społeczności i powinieneś zbadać ten potencjalny problem i podjąć odpowiednie działania. Może to obejmować rewizję twojego kodeksu postępowania w celu wyjaśnienia dopuszczalnego zachowania i / lub rozmowę z osobą, której zachowanie zostało zgłoszone i poinformowanie ich, że chociaż nie naruszyli kodeksu postępowania, omijają granicę oczekiwań i upewniają się uczestnicy czują się niekomfortowo.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+W końcu, jako opiekun, ustalasz i egzekwujesz standardy dotyczące akceptowalnego zachowania. Masz możliwość kształtowania wartości społeczności w ramach projektu, a uczestnicy oczekują, że egzekwujesz te wartości w uczciwy i zrównoważony sposób.
 
-## Encourage the behavior you want to see in the world 🌎
+## Zachęcaj do zachowań, które chcesz zobaczyć na świecie 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Kiedy projekt wydaje się wrogi lub niechciany, nawet jeśli jest to tylko jedna osoba, której zachowanie jest tolerowane przez innych, ryzykujesz utratą znacznie większej liczby współpracowników, z którymi niektórzy mogą nawet nie spotkać. Przyjęcie lub egzekwowanie kodeksu postępowania nie zawsze jest łatwe, ale promowanie przyjaznego środowiska pomoże Twojej społeczności w rozwoju.
