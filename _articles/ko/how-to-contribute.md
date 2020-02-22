@@ -62,7 +62,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
-— @orta, ["기본적으로 OSS으로 이동하기"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["기본적으로 OSS으로 이동하기"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 

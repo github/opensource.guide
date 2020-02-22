@@ -32,7 +32,7 @@ Wenn Sie [ein neues Projekt auf GitHub erstellen](https://help.github.com/articl
 
 ![Ein Repo erstellen](/assets/images/legal/repo-create-name.png)
 
-**Ihr GitHub-Projekt öffentlich zu machen, ist nicht dasselbe, wie eine Lizenz zu vergeben.** Öffentliche Projekte unterliegen [GitHubs Servicebedingungen](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), die Anderen das Ansehen und Forken Ihres Projektes erlauben. Dies bringt allerdings keine weiteren Erlaubnisse für Ihr Werk mit sich.
+**Ihr GitHub-Projekt öffentlich zu machen, ist nicht dasselbe, wie eine Lizenz zu vergeben.** Öffentliche Projekte unterliegen [GitHubs Servicebedingungen](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), die Anderen das Ansehen und Forken Ihres Projektes erlauben. Dies bringt allerdings keine weiteren Erlaubnisse für Ihr Werk mit sich.
 
 Wenn Sie anderen die Nutzung, Verbreitung, Modifikation Ihres Projektes erlauben möchten, sowie zu ihm beizutragen, müssen Sie eine Open-Source-Lizenz vergeben. Beispielsweise darf legalerweise kein Mensch irgendeinen Teil Ihres GitHub-Projektes in seinen/ihren eigenen Code nutzen (selbst wenn es öffentlich ist) solange Sie nicht das Recht dazu explizit eingeräumt haben.
 
@@ -92,7 +92,7 @@ Alternativ können Sie auch im Voraus bestimmte Lizenzänderungen unter bestimmt
 
 ## Benötigt mein Projekt eine zusätzliche Kontributionsvereinbarung?
 
-Wahrscheinlich nicht. Für die überwiegende Mehrheit der Open-Source-Projekte gilt eine Open-Source-Lizenz implizit sowohl für reinkommende Beiträge als auch ausgehend an andere Mitwirkende und Benutzer\*innen. Wenn Ihr Projekt auf GitHub steht, machen GitHubs Terms of Service diese "inbound=outbound" genannte Praxis zum [expliziten Standard](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Wahrscheinlich nicht. Für die überwiegende Mehrheit der Open-Source-Projekte gilt eine Open-Source-Lizenz implizit sowohl für reinkommende Beiträge als auch ausgehend an andere Mitwirkende und Benutzer\*innen. Wenn Ihr Projekt auf GitHub steht, machen GitHubs Terms of Service diese "inbound=outbound" genannte Praxis zum [expliziten Standard](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
 Eine zusätzliche Kontributionsvereinbarung - oft auch Contributor License Agreement (CLA) genannt - kann Verwaltungsarbeit für die Projektbetreuer\*in schaffen. Hierbei hängt der Umfang der zusätzlichen Arbeit vom Projekt und der Implementierung ab. Eine einfache Vereinbarung erfordert, dass die Kontributor\*innen mit einem Klick bestätigen, dass sie die erforderlichen Rechte innehaben, um zum Projekts im Rahmen dessen Open-Source-Lizenz beizutragen.
 
