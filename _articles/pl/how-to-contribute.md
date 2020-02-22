@@ -1,15 +1,8 @@
 ---
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+lang: pl
+title: Jak przyczynić się do Open Source
+description: Chcesz przyczynić się do open source? Przewodnik po wkładach typu open source, dla nowicjuszy i weteranów.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -17,210 +10,220 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Po co przyczyniać się do open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  </i>
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Wkład w open source może być satysfakcjonującym sposobem uczenia się, nauczania i budowania doświadczenia w prawie każdej umiejętności, jaką możesz sobie wyobrazić.
 
-Why do people contribute to open source? Plenty of reasons!
+Dlaczego ludzie przyczyniają się do open source? Wiele powodów!
 
-### Improve software you rely on
+### Ulepsz oprogramowanie, na którym możesz polegać
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Wielu współpracowników open source zaczyna od bycia użytkownikami oprogramowania, do którego się wnosi. Gdy znajdziesz błąd w używanym oprogramowaniu open source, możesz zajrzeć do źródła, aby sprawdzić, czy możesz go naprawić samodzielnie. Jeśli tak jest, to dodanie poprawki jest najlepszym sposobem, aby zapewnić, że Twoi znajomi (i ty, kiedy zaktualizujesz do następnej wersji) będą mogli z niej skorzystać.
 
-### Improve existing skills
+### Popraw istniejące umiejętności
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Niezależnie od tego, czy chodzi o kodowanie, projektowanie interfejsu użytkownika, projektowanie graficzne, pisanie czy organizowanie, jeśli szukasz praktyki, jest dla ciebie zadanie w projekcie open source.
 
-### Meet people who are interested in similar things
+### Poznawaj ludzi, którzy są zainteresowani podobnymi rzeczami
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Projekty open source z ciepłymi, przyjaznymi społecznościami sprawiają, że ludzie wracają na lata. Wiele osób nawiązuje przyjaźnie na całe życie poprzez udział w otwartym kodzie źródłowym, bez względu na to, czy spotykają się na konferencjach, czy późno w nocy na czatach internetowych o burritos.
 
-### Find mentors and teach others
+### Znajdź mentorów i ucz innych
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Praca z innymi przy wspólnym projekcie oznacza, że musisz wyjaśnić, jak to robisz, a także poprosić o pomoc innych ludzi. Działania związane z uczeniem się i nauczaniem mogą być satysfakcjonującym zajęciem dla wszystkich zaangażowanych osób.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Twórz publiczne artefakty, które pomogą ci zdobyć reputację (i karierę)
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+Z definicji cała twoja praca z otwartym kodem źródłowym jest publiczna, co oznacza, że masz darmowe przykłady do zabrania w dowolne miejsce jako demonstrację tego, co możesz zrobić.
 
-### Learn people skills
+### Naucz ludzi umiejętności
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+Open source oferuje możliwości ćwiczenia umiejętności przywódczych i zarządczych, takich jak rozwiązywanie konfliktów, organizowanie zespołów ludzi i ustalanie priorytetów pracy.
 
-### It's empowering to be able to make changes, even small ones
+### Daje to możliwość wprowadzania zmian, nawet tych małych
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+Nie musisz stać się dożywotnim uczestnikiem, aby cieszyć się uczestnictwem w otwartym oprogramowaniu. Czy widziałeś kiedyś literówkę na stronie i żałowałeś, że ktoś to nie naprawi? W projekcie open source możesz to zrobić. Open source pomaga ludziom odczuwać agencję w ich życiu i doświadczaniu świata, a to samo w sobie jest satysfakcjonujące.
 
-## What it means to contribute
+## Co to znaczy przyczynić się
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+Jeśli jesteś nowym współpracownikiem typu open source, proces może być zastraszający. Jak znaleźć odpowiedni projekt? Co jeśli nie wiesz, jak kodować? Co jeśli coś pójdzie nie tak?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Nie martwić się! Istnieje wiele sposobów na zaangażowanie się w projekt open source, a kilka wskazówek pomoże Ci w pełni wykorzystać swoje doświadczenie.
 
-### You don't have to contribute code
+### Nie musisz przekazywać kodu
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+Powszechnym błędnym przekonaniem na temat przyczyniania się do open source jest to, że musisz wnieść kod. W rzeczywistości często inne części projektu są [najbardziej zaniedbywane lub pomijane](https://github.com/blog/2195-the-shape-of-open-source). Zrobisz projekt z _wielką_ przysługą, oferując wkład w tego rodzaju wkłady!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na zaangażowanie się w projekt i poznanie innych członków społeczności. Budowanie tych relacji da ci możliwość pracy nad innymi częściami projektu.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### Do you like planning events?
+### Czy lubisz planować wydarzenia?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* Organizuj warsztaty lub spotkania dotyczące projektu, [jak @fzamperin dla NodeSchool](https://github.com/nodeschool/organizers/issues/406)
+* Zorganizuj konferencję projektu (jeśli ją mają)
+* Pomóż członkom społeczności znaleźć odpowiednie konferencje i przesłać propozycje wystąpień
 
-### Do you like to design?
+### Czy lubisz projektować?
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* Przebuduj układy, aby poprawić użyteczność projektu
+* Przeprowadź badania użytkowników w celu reorganizacji i dopracowania nawigacji lub menu projektu, [jak sugeruje Drupal] (https://www.drupal.org/community-initicjatywy/drupal-core/usability)
+* Przygotuj przewodnik po stylu, aby projekt miał spójny wygląd
+* Twórz grafiki na koszulki lub nowe logo, tak jak zrobili to autorzy hapi.js](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### Lubisz pisać?
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* Napisz i popraw dokumentację projektu
+* Wybierz folder z przykładami pokazującymi, w jaki sposób projekt jest używany
+* Rozpocznij biuletyn dotyczący projektu lub wybieraj najważniejsze informacje z listy mailingowej
+* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA] (https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Napisz tłumaczenie dokumentacji projektu
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### Czy lubisz organizować?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* Łącze do duplikatów problemów i sugeruj nowe etykiety problemów, aby utrzymać porządek
+* Przejrzyj otwarte problemy i sugeruj zamknięcie starych, [jak @nzakas zrobił dla ESLint] (https://github.com/eslint/eslint/issues/6765)
+* Zadaj pytania wyjaśniające na temat ostatnio otwartych zagadnień, aby popchnąć dyskusję do przodu
 
-### Do you like to code?
+### Czy lubisz kodować?
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* Znajdź otwarty problem do rozwiązania [jak @dianjin zrobił dla Ulotki] (https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Zapytaj, czy możesz pomóc napisać nową funkcję
+* Zautomatyzuj konfigurację projektu
+* Ulepsz oprzyrządowanie i testy
 
-### Do you like helping people?
+### Czy lubisz pomagać ludziom?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* Odpowiedz na pytania dotyczące projektu na przykład na Stack Overflow ([jak ten przykład Postgres] (https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying- to-ge)) lub Reddit
+* Odpowiedz na pytania dotyczące otwartych problemów
+* Pomóż moderować fora dyskusyjne lub kanały rozmów
 
-### Do you like helping others code?
+### Czy lubisz pomagać innym kodować?
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Przejrzyj kod zgłoszeń innych osób
+* Napisz tutoriale dotyczące sposobu wykorzystania projektu
+* Oferta mentorowania innego autora [jak @ereichert zrobił dla @bronzdoc na Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### Nie musisz tylko pracować nad projektami oprogramowania!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+Podczas gdy „open source” często odnosi się do oprogramowania, możesz współpracować nad praktycznie wszystkim. Istnieją książki, przepisy kulinarne, listy i klasy opracowywane jako projekty typu open source.
 
-For example:
+Na przykład:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus przygotowuje [listę „niesamowitych” list](https://github.com/sindresorhus/awesome)
+* @h5bp utrzymuje [listę potencjalnych pytań do rozmowy kwalifikacyjnej](https://github.com/h5bp/Front-end-Developer-Interview-Questions) dla kandydatów na programistów front-end
+* @stuartlynn a @ nicole-a-tesla stworzyła [zbiór zabawnych faktów na temat maskonurów](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc w rozpoczęciu pracy w środowisku open source. Praca z projektami niewymagającymi kodu jest często mniej zastraszająca, a proces współpracy zwiększy Twoje zaufanie i doświadczenie.
 
-## Orienting yourself to a new project
+## Orientacja na nowy projekt
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+W przypadku czegoś więcej niż poprawka literówek, udział w open source jest jak podchodzenie do grupy nieznajomych na imprezie. Jeśli zaczniesz mówić o lamach, gdy byli głęboko w dyskusji na temat złotych rybek, prawdopodobnie spojrzą na ciebie trochę dziwnie.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+Zanim wskoczysz na ślepo z własnymi sugestiami, zacznij od nauki czytania pokoju. Takie postępowanie zwiększa szanse, że Twoje pomysły zostaną zauważone i usłyszane.
 
-### Anatomy of an open source project
+### Anatomia projektu open source
 
-Every open source community is different.
+Każda społeczność open source jest inna.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Spędzanie lat na jednym projekcie typu open source oznacza, że znasz jeden projekt typu open source. Przejdź do innego projektu, a może się okazać, że słownictwo, normy i style komunikacji są zupełnie inne.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+To powiedziawszy, wiele projektów open source ma podobną strukturę organizacyjną. Zrozumienie różnych ról społeczności i ogólnego procesu pomoże ci szybko zorientować się w każdym nowym projekcie.
 
-A typical open source project has the following types of people:
+Typowy projekt open source ma następujące typy osób:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction
+* **Autor:** Osoba lub organizacja, która utworzyła projekt
+* **Właściciel:** Osoba / osoby posiadające uprawnienia administracyjne do organizacji lub repozytorium (nie zawsze takie same jak oryginalny autor)
+* **Opiekunowie:** Współtwórcy odpowiedzialni za kierowanie wizją i zarządzanie aspektami organizacyjnymi projektu (mogą być także autorami lub właścicielami projektu).
+* **Współtwórcy:** Każdy, kto wniósł coś z powrotem do projektu
+* **Członkowie społeczności:** Ludzie, którzy korzystają z projektu. Mogą być aktywni w rozmowach lub wyrażać swoją opinię na temat kierunków projektu
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Większe projekty mogą również obejmować podkomitety lub grupy robocze zajmujące się różnymi zadaniami, takimi jak oprzyrządowanie, segregacja, moderacja społeczności i organizacja wydarzeń. Na stronie internetowej projektu można znaleźć stronę „zespołu” lub w repozytorium dokumentacji dotyczącej zarządzania, aby znaleźć te informacje.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+Projekt ma również dokumentację. Te pliki są zwykle wymienione na najwyższym poziomie repozytorium.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** Z definicji każdy projekt typu open source musi posiadać [licencję typu open source](https://choosealicense.com). Jeśli projekt nie ma licencji, nie jest open source.
+* **README:** Plik README to instrukcja obsługi, która wita nowych członków społeczności w projekcie. Wyjaśnia, dlaczego projekt jest użyteczny i jak zacząć.
+* **CONTRIBUTING:** Podczas gdy pliki README pomagają ludziom _użytkować_ projekt, udostępnianie dokumentów pomaga ludziom _komponować_ w projekcie. Wyjaśnia, jakie rodzaje wkładów są potrzebne i jak działa proces. Chociaż nie każdy projekt ma plik WKŁAD, jego obecność sygnalizuje, że jest to przyjazny projekt, do którego należy się przyczynić.
+* **CODE_OF_CONDUCT:** tworzeniu przyjaznego i przyjaznego środowiska. Chociaż nie każdy projekt ma plik CODE_OF_CONDUCT, jego obecność sygnalizuje, że jest to przyjazny projekt, do którego można się przyczynić.
+* **Other documentation:** Może istnieć dodatkowa dokumentacja, taka jak samouczki, instrukcje lub zasady zarządzania, szczególnie w przypadku większych projektów.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Wreszcie, projekty open source wykorzystują następujące narzędzia do organizowania dyskusji. Czytanie archiwów daje dobry obraz tego, jak społeczność myśli i działa.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Issue tracker:** Gdzie ludzie omawiają kwestie związane z projektem.
+* **Pull requests:** Gdzie ludzie omawiają i sprawdzają zmiany, które są w toku.
+* **Discussion forums or mailing lists:** Niektóre projekty mogą wykorzystywać te kanały do prowadzenia wątków konwersacyjnych (na przykład _„Jak mam ...”_ lub _„Co sądzisz o ...”_ zamiast raportów o błędach lub propozycji funkcji). Inni używają narzędzia do śledzenia problemów do wszystkich rozmów.
+* **Synchronous chat channel:** Niektóre projekty wykorzystują kanały czatu (takie jak Slack lub IRC) do swobodnej rozmowy, współpracy i szybkiej wymiany.
 
-## Finding a project to contribute to
+## Znalezienie projektu, do którego można się przyczynić
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Teraz, gdy już zorientowałeś się, jak działają projekty typu open source, nadszedł czas, aby znaleźć projekt, do którego możesz się przyczynić!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Jeśli nigdy wcześniej nie uczestniczyłeś w tworzeniu oprogramowania typu open source, skorzystaj z porady Prezydenta Stanów Zjednoczonych Johna F. Kennedy'ego, który powiedział kiedyś, _"Ask not what your country can do for you - ask what you can do for your country."_
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Wkład w open source ma miejsce na wszystkich poziomach, w różnych projektach. Nie musisz zastanawiać się, jaki dokładnie będzie twój pierwszy wkład ani jak będzie wyglądał.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+Zamiast tego zacznij od przemyślenia projektów, z których już korzystasz lub z których chcesz skorzystać. Projekty, w których aktywnie uczestniczysz, to te, do których wracasz.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+W ramach tych projektów, ilekroć przyłapiesz się na myśleniu, że coś może być lepsze lub inne, działaj instynktownie.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+Open source nie jest ekskluzywnym klubem; zrobili to ludzie tacy jak ty. „Open source” to tylko wymyślny termin na traktowanie problemów świata jako możliwych do rozwiązania.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+Możesz zeskanować plik README i znaleźć uszkodzony link lub literówkę. Lub jesteś nowym użytkownikiem i zauważyłeś, że coś jest zepsute lub problem, który Twoim zdaniem powinien naprawdę znajdować się w dokumentacji. Zamiast ignorować i przejść dalej lub poprosić kogoś o naprawę, sprawdź, czy możesz pomóc, wprowadzając. Właśnie o to chodzi w open source!
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% of casualowych kontrybucji](https://www.igor.pro.br/publica/papers/saner2016.pdf) open source to dokumentacja, na przykład poprawka literówki, formatowanie lub pisanie tłumaczenia.
 
-If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+Jeśli szukasz istniejących problemów, które możesz naprawić, każdy projekt open source ma stronę `/contribute`, która podkreśla problemy przyjazne dla początkujących, z którymi możesz zacząć. Przejdź do strony głównej repozytorium w serwisie GitHub i dodaj `/contribute` na końcu adresu URL (na przykład [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+Możesz także skorzystać z jednego z następujących zasobów, aby pomóc Ci odkryć nowe projekty i wnieść swój wkład:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -232,13 +235,13 @@ You can also use one of the following resources to help you discover and contrib
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://www.sourcesort.com/)
 
-### A checklist before you contribute
+### Lista kontrolna przed wniesieniem wkładu
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Po znalezieniu projektu, do którego chcesz się przyłączyć, wykonaj szybki skan, aby upewnić się, że projekt nadaje się do przyjmowania wkładów. W przeciwnym razie twoja ciężka praca może nigdy nie uzyskać odpowiedzi.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Oto przydatna lista kontrolna do oceny, czy projekt jest dobry dla nowych autorów.
 
-**Meets the definition of open source**
+**Spełnia definicję open source**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -247,9 +250,9 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
   </label>
 </div>
 
-**Project actively accepts contributions**
+**Projekt aktywnie przyjmuje wkłady**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Spójrz na działanie zatwierdzania w gałęzi master. Na GitHub możesz zobaczyć te informacje na stronie głównej repozytorium.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -272,7 +275,7 @@ Look at the commit activity on the master branch. On GitHub, you can see this in
   </label>
 </div>
 
-Next, look at the project's issues.
+Następnie spójrz na issues projektu.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -346,9 +349,9 @@ Now do the same for the project's pull requests.
   </label>
 </div>
 
-**Project is welcoming**
+**Projekt jest mile widziany**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -386,13 +389,13 @@ A project that is friendly and welcoming signals that they will be receptive to 
   </p>
 </aside>
 
-## How to submit a contribution
+## Jak przesłać kontrybucję
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+Znalazłeś projekt, który Ci się podoba i jesteś gotowy, aby wnieść swój wkład. Wreszcie! Oto, w jaki sposób uzyskać odpowiedni wkład we właściwy sposób.
 
-### Communicating effectively
+### Skuteczna komunikacja
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+Niezależnie od tego, czy jesteś jednorazowym współpracownikiem, czy próbujesz dołączyć do społeczności, praca z innymi jest jedną z najważniejszych umiejętności, które rozwiniesz w środowisku open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
@@ -402,59 +405,59 @@ Whether you're a one-time contributor or trying to join a community, working wit
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o tych punktach, aby pomóc skutecznie znaleźć swoje pomysły.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**Podaj kontekst.** Pomóż innym szybko przyśpieszyć. Jeśli napotkasz błąd, wyjaśnij, co próbujesz zrobić i jak go odtworzyć. Jeśli sugerujesz nowy pomysł, wyjaśnij, dlaczego uważasz, że byłby przydatny dla projektu (nie tylko dla ciebie!).
 
 > 😇 _"X doesn't happen when I do Y"_
 >
 > 😢 _"X is broken! Please fix it."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Zrób swoją pracę domową wcześniej.** Nie można nic wiedzieć, ale pokazać, że próbowałeś. Zanim poprosisz o pomoc, koniecznie sprawdź README projektu, dokumentację, problemy (otwarte lub zamknięte), listę mailingową i wyszukaj w Internecie odpowiedź. Ludzie docenią, gdy pokażesz, że próbujesz się uczyć.
 
 > 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
 >
 > 😢 _"How do I X?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**Requesty powinny być krótkie i bezpośrednie.** Podobnie jak wysyłanie wiadomości e-mail, każdy wkład, bez względu na to, jak prosty lub pomocny, wymaga oceny innej osoby. Wiele projektów ma więcej przychodzących próśb niż ludzi dostępnych do pomocy. Bądź zwięzły. Zwiększysz szansę, że ktoś będzie mógł ci pomóc.
 
 > 😇 _"I'd like to write an API tutorial."_
 >
 > 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**Trzymaj całą komunikację publiczną.** Chociaż jest to kuszące, nie kontaktuj się prywatnie z opiekunami, chyba że musisz udostępniać poufne informacje (takie jak problem z bezpieczeństwem lub poważne naruszenie zasad postępowania). Gdy udostępnisz rozmowę publicznie, więcej osób może się uczyć i korzystać z wymiany. Dyskusje mogą być same w sobie wkładem.
 
 > 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
 >
 > 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**Można zadawać pytania (ale bądź cierpliwy!).** W pewnym momencie wszyscy byli nowi w projekcie, a nawet doświadczeni współpracownicy muszą przyspieszyć, gdy patrzą na nowy projekt. Z tego samego powodu, nawet wieloletni opiekunowie nie zawsze znają każdą część projektu. Pokaż im tę samą cierpliwość, którą chciałbyś, aby ci pokazali.
 
 > 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
 >
 > 😢 _"Why can't you fix my problem? Isn't this your project?"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**Szanuj decyzje społeczności.** Twoje pomysły mogą różnić się od priorytetów lub wizji społeczności. Mogą oferować informacje zwrotne lub zdecydować o nie realizowaniu Twojego pomysłu. Podczas gdy powinieneś dyskutować i szukać kompromisu, opiekunowie muszą żyć z twoją decyzją dłużej niż ty. Jeśli nie zgadzasz się z ich kierunkiem, zawsze możesz pracować nad własnym widelcem lub rozpocząć własny projekt.
 
 > 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
 >
 > 😢 _"Why won't you support my use case? This is unacceptable!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**Przede wszystkim zachowaj klasę.** Open source składa się ze współpracowników z całego świata. Kontekst gubi się w różnych językach, kulturach, regionach geograficznych i strefach czasowych. Ponadto pisemna komunikacja utrudnia przekazanie tonu lub nastroju. Przyjmij dobre intencje w tych rozmowach. Dobrze jest grzecznie odepchnąć pomysł, poprosić o więcej kontekstu lub wyjaśnić swoje stanowisko. Po prostu spróbuj zostawić Internet w lepszym miejscu niż wtedy, gdy go znajdziesz.
 
-### Gathering context
+### Zbieranie kontekstu
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+Zanim cokolwiek zrobisz, szybko sprawdź, czy Twój pomysł nie został omówiony w innym miejscu. Przejrzyj README projektu, problemy (otwarte i zamknięte), listę mailingową i przepełnienie stosu. Nie musisz spędzać godzin na przeglądaniu wszystkiego, ale szybkie poszukiwanie kilku kluczowych haseł to długa droga.
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+Jeśli nie możesz znaleźć swojego pomysłu w innym miejscu, możesz zrobić krok. Jeśli projekt jest w serwisie GitHub, prawdopodobnie komunikujesz się, otwierając problem lub wysyłając żądanie:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Issues** są jak rozpoczęcie rozmowy lub dyskusji
+* **Pull requests** są za rozpoczęcie pracy nad rozwiązaniem
+* **Aby uzyskać lekką komunikację,** takie jak pytanie wyjaśniające lub poradnik, spróbuj zadać pytanie na temat przepełnienia stosu, IRC, Slacka lub innych kanałów czatu, jeśli projekt ma taki
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+Zanim otworzysz problem lub wyciągniesz prośbę, sprawdź dokumenty wspierające projekt (zwykle plik o nazwie CONTRIBUTING lub w README), aby sprawdzić, czy musisz dołączyć coś konkretnego. Na przykład mogą poprosić o przestrzeganie szablonu lub wymagać użycia testów.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+Jeśli chcesz wnieść znaczący wkład, otwórz problem, który chcesz zadać, zanim zaczniesz nad nim pracować. Przydatne jest obejrzenie projektu przez chwilę (na GitHub, [możesz kliknąć "Watch"](https://help.github.com/articles/watching-repositories/) aby otrzymywać powiadomienia o wszystkich rozmowach) i poznać członków społeczności przed podjęciem pracy, która może nie zostać zaakceptowana.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -464,72 +467,72 @@ If you want to make a substantial contribution, open an issue to ask before work
   </p>
 </aside>
 
-### Opening an issue
+### Otwieranie issue
 
-You should usually open an issue in the following situations:
+Zazwyczaj powinieneś otworzyć problem w następujących sytuacjach:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Zgłoś błąd, którego nie możesz rozwiązać samodzielnie
+* Omów temat lub pomysł na wysokim poziomie (na przykład społeczność, wizja lub zasady)
+* Zaproponuj nową funkcję lub inny pomysł na projekt
 
-Tips for communicating on issues:
+Wskazówki dotyczące komunikowania się w issue:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **Jeśli widzisz otwarty problem, który chcesz rozwiązać,** skomentuj ten problem, aby inni wiedzieli, że na nim jesteś. W ten sposób ludzie są mniej skłonni do powielania twojej pracy.
+* **Jeśli jakiś problem został otwarty jakiś czas temu,** możliwe, że problem został rozwiązany gdzieś indziej lub został już rozwiązany, więc skomentuj, aby poprosić o potwierdzenie przed rozpoczęciem pracy.
+* **Jeśli otworzyłeś problem, ale sam później zorientowałeś się,** skomentuj problem, aby dać innym znać, a następnie zamknij problem. Nawet udokumentowanie tego wyniku stanowi wkład w projekt.
 
-### Opening a pull request
+### Otwieranie pull request
 
-You should usually open a pull request in the following situations:
+Zwykle należy otworzyć żądanie ściągnięcia w następujących sytuacjach:
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* Prześlij trywialne poprawki (na przykład literówka, zepsuty link lub oczywisty błąd)
+* Rozpocznij pracę nad wkładem, o który zostałeś już poproszony lub który już omawiałeś w numerze
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+Żądanie ściągnięcia nie musi reprezentować ukończonej pracy. Zwykle lepiej jest wcześniej otworzyć prośbę ściągnięcia, aby inni mogli obserwować twoje postępy lub udzielać informacji zwrotnych. Po prostu zaznacz go jako „WIP” (Work in Progress) w temacie. Zawsze możesz później dodać więcej zatwierdzeń.
 
-If the project is on GitHub, here's how to submit a pull request:
+Jeśli projekt znajduje się na GitHub, oto jak przesłać żądanie ściągnięcia:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Fork repozytorium](https://guides.github.com/activities/forking/)** i jego klon lokalnie. Podłącz swoje lokalne do oryginalnego repozytorium „upstream”, dodając je jako zdalne. Wyciągaj zmiany z „upstream” często, abyś był na bieżąco, aby po przesłaniu żądania ściągania konflikty scalania były mniej prawdopodobne. (Zobacz bardziej szczegółowe instrukcje [tutaj](https://help.github.com/articles/syncing-a-fork/).)
+* **[Stworzenie brancha](https://guides.github.com/introduction/flow/)** dla swoich zmian.
+* **Odniesienie się do wszelkich istotnych issues** lub dokumentacja uzupełniająca w twoim PR (na przykład, "Closes #37.")
+* **Dołączenie zrzutów ekranu przed i po** jeśli zmiany zawierają różnice w HTML / CSS. Przeciągnij i upuść obrazy w treści żądania ściągnięcia.
+* **Sprawdzenie swoich zmian!** Uruchom zmiany w stosunku do istniejących testów, jeśli istnieją, i w razie potrzeby utwórz nowe. Niezależnie od tego, czy testy istnieją, czy nie, upewnij się, że zmiany nie psują istniejącego projektu.
+* **Wkład w styl projektu** najlepiej jak potrafisz. Może to oznaczać stosowanie wcięć, średników lub komentarzy inaczej niż w swoim własnym repozytorium, ale ułatwia opiekunowi scalenie, innym zrozumienie i utrzymanie w przyszłości.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
+Jeśli to twój pierwszy pull request, sprawdź [Make a Pull Request](http://makeapullrequest.com/), które @kentcdodds utworzone jako instruktażowy samouczek wideo. Możesz także przećwiczyć składanie pull request w repozytorium [First Contributions](https://github.com/Roshanjossey/first-contributions), stworzonym przez @Roshanjossey.
 
-## What happens after you submit a contribution
+## Co dzieje się po przesłaniu wkładu
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Zrobiłeś to! Gratulujemy zostania współpracownikiem typu open source. Mamy nadzieję, że to pierwszy z wielu.
 
-After you submit a contribution, one of the following will happen:
+Po przesłaniu wkładu nastąpi jedna z następujących sytuacji:
 
-### 😭 You don't get a response.
+### 😭 Nie dostaniesz odpowiedzi.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](#a-checklist-before-you-contribute) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że Twój wkład nie uzyska odpowiedzi.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Jeśli nie otrzymałeś odpowiedzi od ponad tygodnia, możesz grzecznie odpowiedzieć w tym samym wątku, prosząc kogoś o recenzję. Jeśli znasz nazwisko właściwej osoby do sprawdzenia swojego wkładu, możesz @-mentionować ją w tym wątku.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**Nie** docieraj do tej osoby prywatnie; pamiętaj, że komunikacja publiczna jest niezbędna w projektach typu open source.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Jeśli zrobisz uprzejme uderzenie i nadal nikt nie zareaguje, możliwe, że nikt nigdy nie odpowie. To nie jest wspaniałe uczucie, ale nie zniechęcaj się. Zdarzyło się wszystkim! Istnieje wiele możliwych powodów, dla których nie otrzymałeś odpowiedzi, w tym okoliczności osobiste, które mogą być poza twoją kontrolą. Spróbuj znaleźć inny projekt lub sposób na wniesienie wkładu. Jeśli tak, to dobry powód, aby nie poświęcać zbyt wiele czasu na wkład, zanim inni członkowie społeczności będą zaangażowani i reagują.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Ktoś prosi o zmianę Twojego wkładu.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+Często zdarza się, że będziesz proszony o wprowadzenie zmian do Twojego wkładu, niezależnie od tego, czy jest to opinia na temat zakresu Twojego pomysłu, czy zmiany w kodzie.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Gdy ktoś prosi o zmiany, bądź responsywny. Sprawdzili Twój wkład. Otwarcie PR i odejście to zła forma. Jeśli nie wiesz, jak wprowadzić zmiany, zbadaj problem, a następnie poproś o pomoc, jeśli jej potrzebujesz.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Jeśli nie masz czasu na pracę nad problemem (na przykład, jeśli rozmowa trwa od miesięcy, a Twoja sytuacja uległa zmianie), powiadom opiekuna, aby nie oczekiwał odpowiedzi. Ktoś inny może być szczęśliwy, aby przejąć.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Twój wkład nie zostanie zaakceptowany.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+Twój wkład może, ale nie musi, zostać ostatecznie zaakceptowany. Mam nadzieję, że nie włożyłeś już w to zbyt wiele pracy. Jeśli nie masz pewności, dlaczego nie zostało to zaakceptowane, całkowicie uzasadnione jest poproszenie opiekuna o opinie i wyjaśnienia. Ostatecznie jednak musisz uszanować, że to jest ich decyzja. Nie kłóć się ani nie bądź wrogi. Jeśli się nie zgadzasz, możesz zawsze rozwidlać i pracować nad własną wersją!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Twój wkład zostanie zaakceptowany.
 
-Hooray! You've successfully made an open source contribution!
+Hooray! Udało ci się wnieść wkład typu open source!
 
-## You did it!
+## Zrobiłeś to!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Niezależnie od tego, czy właśnie wniósłeś swój pierwszy wkład typu open source, czy szukasz nowych sposobów, mamy nadzieję, że zainspirujesz się do działania. Nawet jeśli Twój wkład nie został zaakceptowany, nie zapomnij podziękować, gdy opiekun wkłada wysiłek, aby ci pomóc. Oprogramowanie typu open source jest tworzone przez osoby takie jak Ty: jeden problem, żądanie ściągnięcia, komentarz lub piątka na raz.
