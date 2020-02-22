@@ -1,16 +1,8 @@
 ---
-lang: en
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+lang: pl
+title: Prawna strona Open Source
+description: Wszystko, co kiedykolwiek zastanawiałeś się nad prawną stroną otwartego oprogramowania i kilka rzeczy, których nie zrobiłeś.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
-  are-public-github-projects-open-source: "Are public GitHub projects open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
-  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
-  what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
-  does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
-  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -18,142 +10,148 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## Zrozumienie prawnych konsekwencji otwartego oprogramowania
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+Dzielenie się kreatywną pracą ze światem może być ekscytującym i satysfakcjonującym doświadczeniem. Może to również oznaczać szereg legalnych spraw, o których nie wiedziałeś, że musisz się martwić. Na szczęście nie musisz zaczynać od zera. Zaspokajamy Twoje potrzeby prawne. (Przed wkopaniem zapoznaj się z naszym [disclaimer](/notices/).)
 
-## Why do people care so much about the legal side of open source?
+## Dlaczego ludzie tak bardzo troszczą się o prawną stronę otwartego oprogramowania?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+Cieszę się, że zapytałeś! Kiedy tworzysz pracę twórczą (taką jak pisanie, grafika lub kod), ta praca jest domyślnie objęta wyłącznym prawem autorskim. Oznacza to, że prawo zakłada, że jako autor twojej pracy masz wpływ na to, co inni mogą z tym zrobić.
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+Zasadniczo oznacza to, że nikt inny nie może używać, kopiować, rozpowszechniać ani modyfikować Twojej pracy bez narażania się na wady, wstrząsy lub spory sądowe.
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+Otwarte źródło jest jednak niezwykłą okolicznością, ponieważ autor oczekuje, że inni będą używać, modyfikować i udostępniać dzieło. Ponieważ jednak domyślnym ustawowym prawem autorskim są nadal wyłączne prawa autorskie, potrzebujesz licencji, która wyraźnie określa te uprawnienia.
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+Jeśli nie zastosujesz licencji typu open source, każdy, kto przyczyni się do twojego projektu, stanie się także wyłącznym właścicielem praw autorskich do swojej pracy. Oznacza to, że nikt nie może używać, kopiować, rozpowszechniać ani modyfikować swoich wpisów - i że „nikt” nie obejmuje Ciebie.
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+Wreszcie, twój projekt może być zależny od wymagań licencyjnych, o których nie wiedziałeś. Społeczność twojego projektu lub zasady twojego pracodawcy mogą również wymagać od twojego projektu używania określonych licencji open source. Omówimy te sytuacje poniżej.
 
-## Are public GitHub projects open source?
+## Czy publiczne projekty GitHub są open source?
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+Kiedy [tworzysz nowy projekt](https://help.github.com/articles/creating-a-new-repository/) na GitHub masz opcję utworzenia repozytorium **private** lub **public**.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**Upublicznienie projektu GitHub to nie to samo, co licencjonowanie projektu.** Projekty publiczne są objęte [Warunkami świadczenia usług GitHub] (https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-licytations-grants), który pozwala innym przeglądać i rozwidlać twój projekt, ale w przeciwnym razie twoja praca nie ma żadnych uprawnień.
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+Jeśli chcesz, aby inni używali, rozpowszechniali, modyfikowali lub wnieśli swój wkład z powrotem do twojego projektu, musisz dołączyć licencję typu open source. Na przykład, ktoś nie może legalnie wykorzystywać żadnej części twojego projektu GitHub w swoim kodzie, nawet jeśli jest on publiczny, chyba że wyraźnie mu to umożliwisz.
 
-## Just give me the TL;DR on what I need to protect my project.
+## Po prostu daj mi TL;DR na to, czego potrzebuję do ochrony mojego projektu.
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+Masz szczęście, ponieważ dziś licencje open source są ustandaryzowane i łatwe w użyciu. Możesz skopiować i wkleić istniejącą licencję bezpośrednio do swojego projektu.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), i [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) są najpopularniejszymi licencjami typu open source, ale istnieją inne opcje do wyboru. Możesz znaleźć pełny tekst tych licencji i instrukcje, jak z nich korzystać, na [choosealicense.com](https://choosealicense.com/).
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+Kiedy tworzysz nowy projekt w GitHub, zostaniesz [poproszony o dodanie licencji](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## Która licencja typu open source jest odpowiednia dla mojego projektu?
 
-If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
+Jeśli zaczynasz od pustej listy, trudno jest pomylić się z [Licencją MIT] (https://choosealicense.com/licenses/mit/). Jest krótki, bardzo łatwy do zrozumienia i pozwala każdemu robić wszystko, o ile zachowuje kopię licencji, w tym informację o prawach autorskich. Jeśli zajdzie taka potrzeba, możesz wydać projekt na innej licencji.
 
-Otherwise, picking the right open source license for your project depends on your objectives.
+W przeciwnym razie wybór odpowiedniej licencji typu open source dla twojego projektu zależy od twoich celów.
 
-Your project very likely has (or will have) **dependencies**. For example, if you're open sourcing a Node.js project, you'll probably use libraries from the Node Package Manager (npm). Each of those libraries you depend on will have its own open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
+Twój projekt najprawdopodobniej ma (lub będzie miał) **zależności**. Na przykład, jeśli korzystasz z otwartego źródła projektu Node.js, prawdopodobnie użyjesz bibliotek z Menedżera pakietów Node (npm). Każda z tych bibliotek, na których polegasz, będzie miała własną licencję typu open source. Jeśli każda z ich licencji jest „dozwolona” (daje publiczne pozwolenie na używanie, modyfikowanie i udostępnianie, bez żadnych warunków dla dalszych licencji), możesz użyć dowolnej licencji. Popularne licencje obejmują MIT, Apache 2.0, ISC i BSD.
 
-On the other hand, if any of your dependencies' licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+Z drugiej strony, jeśli którakolwiek licencja na twoje zależności jest „silnym copyleft” (daje również publiczne takie same uprawnienia, pod warunkiem korzystania z tej samej licencji na dalszym etapie), twój projekt będzie musiał użyć tej samej licencji. Typowe silne licencje copyleft obejmują GPLv2, GPLv3 i AGPLv3.
 
-You may also want to consider the **communities** you hope will use and contribute to your project:
+Możesz także rozważyć **społeczności**, które mają nadzieję wykorzystać i przyczynić się do twojego projektu:
 
-* **Do you want your project to be used as a dependency by other projects?** Probably best to use the most popular license in your relevant community. For example, [MIT](https://choosealicense.com/licenses/mit/) is the most popular license for [npm libraries](https://libraries.io/search?platforms=NPM).
-* **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
-* **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
+* **Czy chcesz, aby Twój projekt był używany przez inne projekty jako zależność?** Prawdopodobnie najlepiej użyć najpopularniejszej licencji w odpowiedniej społeczności. Na przykład [MIT] (https://choosealicense.com/licenses/mit/) jest najpopularniejszą licencją dla [npm libraries](https://libraries.io/search?platforms=NPM).
+* **Czy chcesz, aby Twój projekt spodobał się dużym firmom?** Duży biznes prawdopodobnie będzie chciał uzyskać wyraźną licencję patentową od wszystkich autorów. W takim przypadku usługa [Apache 2.0] (https://choosealicense.com/licenses/apache-2.0/) obejmuje Ciebie (i ich).
+* **Czy chcesz, aby Twój projekt był atrakcyjny dla autorów, którzy nie chcą, aby ich wkład był wykorzystywany w oprogramowaniu zamkniętym?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) lub (jeśli nie chcą również wnosić wkładu do usług zamkniętego źródła) [AGPLv3] (https://choosealicense.com/licenses/agpl-3.0/) przejdzie dobrze.
 
-Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
+Twoja **firma** może mieć określone wymagania licencyjne dla swoich projektów open source. Na przykład, może wymagać zezwolenia licencyjnego, aby firma mogła wykorzystać Twój projekt w zamkniętym źródłowym produkcie firmy. Lub Twoja firma może wymagać silnej licencji copyleft i dodatkowej umowy o współautorze (patrz poniżej), aby tylko Twoja firma i nikt inny nie mógł używać twojego projektu w oprogramowaniu zamkniętym. Lub Twoja firma może mieć pewne potrzeby związane ze standardami, odpowiedzialnością społeczną lub przejrzystością, z których każda może wymagać określonej strategii licencjonowania. Porozmawiaj z działem prawnym swojej firmy](#what-does-my-companys-legal-team-need-to-know).
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
+Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. Dołączenie jednej z wyżej wymienionych licencji sprawi, że Twój projekt GitHub stanie się open source. Jeśli chcesz zobaczyć inne opcje, sprawdź [choosealicense.com] (https://choosealicense.com), aby znaleźć odpowiednią licencję dla swojego projektu, nawet jeśli nie jest to [oprogramowanie] (https://choosealicense.com/non-software/).
 
-## What if I want to change the license of my project?
+## Co jeśli chcę zmienić licencję mojego projektu?
 
-Most projects never need to change licenses. But occasionally circumstances change.
+Większość projektów nigdy nie musi zmieniać licencji. Ale czasami okoliczności się zmieniają.
 
-For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing your project's license:
+Na przykład, wraz z rozwojem projektu, dodaje on zależności lub użytkowników, lub firma zmienia strategie, z których każda może wymagać lub wymagać innej licencji. Ponadto, jeśli od samego początku zaniedbywałeś licencjonowanie swojego projektu, dodanie licencji jest identyczne jak zmiana licencji. Przy dodawaniu lub zmienianiu licencji projektu należy wziąć pod uwagę trzy podstawowe rzeczy:
 
-**It's complicated.** Determining license compatibility and compliance and who holds copyright can get complicated and confusing very quickly. Switching to a new but compatible license for new releases and contributions is different from relicensing all existing contributions. Involve your legal team at the first hint of any desire to change licenses. Even if you have or can obtain permission from your project's copyright holders for a license change, consider the impact of the change on your project's other users and contributors. Think of a license change as a "governance event" for your project that will more likely go smoothly with clear communications and consultation with your project's stakeholders. All the more reason to choose and use an appropriate license for your project from its inception!
+**To skomplikowane.** Określenie zgodności i zgodności licencji oraz tego, kto jest właścicielem praw autorskich, może bardzo szybko się skomplikować i wprowadzić w błąd. Przejście na nową, ale zgodną licencję dla nowych wydań i wkładów różni się od ponownego licencjonowania wszystkich istniejących wkładów. Zaangażuj swój zespół prawny przy pierwszej sugestii zmiany licencji. Nawet jeśli masz lub możesz uzyskać pozwolenie od posiadaczy praw autorskich do projektu na zmianę licencji, rozważ wpływ tej zmiany na innych użytkowników i współtwórców projektu. Pomyśl o zmianie licencji jako o „zdarzeniu związanym z zarządzaniem” dla twojego projektu, który najprawdopodobniej przejdzie gładko dzięki jasnej komunikacji i konsultacjom z interesariuszami twojego projektu. Tym bardziej powód, aby wybrać i używać odpowiedniej licencji dla swojego projektu od samego początku!
 
-**Your project's existing license.** If your project's existing license is compatible with the license you want to change to, you could just start using the new license. That's because if license A is compatible with license B, you'll comply with the terms of A while complying with the terms of B (but not necessarily vice versa). So if you're currently using a permissive license (e.g., MIT), you could change to a license with more conditions, so long as you retain a copy of the MIT license and any associated copyright notices (i.e., continue to comply with the MIT license's minimal conditions). But if your current license is not permissive (e.g., copyleft, or you don't have a license) and you aren't the sole copyright holder, you couldn't just change your project's license to MIT. Essentially, with a permissive license the project's copyright holders have given permission in advance to change licenses.
+**Istniejąca licencja twojego projektu.** Jeśli istniejąca licencja projektu jest zgodna z licencją, którą chcesz zmienić, możesz po prostu zacząć korzystać z nowej licencji. Jest tak, ponieważ jeśli licencja A jest zgodna z licencją B, będziesz przestrzegać warunków A, jednocześnie przestrzegając warunków B (ale niekoniecznie odwrotnie). Jeśli więc obecnie korzystasz z licencji permisive (np. MIT), możesz zmienić ją na licencję z większą liczbą warunków, o ile zachowasz kopię licencji MIT i wszelkich powiązanych informacji o prawach autorskich (tj. Nadal będziesz przestrzegać Minimalne warunki licencji MIT). Ale jeśli twoja aktualna licencja nie jest dozwolona (np. Copyleft lub nie masz licencji) i nie jesteś jedynym właścicielem praw autorskich, nie możesz po prostu zmienić licencji projektu na MIT. Zasadniczo, posiadając zezwolenie licencyjne, właściciele praw autorskich projektu uprzednio wyrazili zgodę na zmianę licencji.
 
-**Your project's existing copyright holders.** If you're the sole contributor to your project then either you or your company is the project's sole copyright holder. You can add or change to whatever license you or your company wants to. Otherwise there may be other copyright holders that you need agreement from in order to change licenses. Who are they? People who have commits in your project is a good place to start. But in some cases copyright will be held by those people's employers. In some cases people will have only made minimal contributions, but there's no hard and fast rule that contributions under some number of lines of code are not subject to copyright. What to do? It depends. For a relatively small and young project, it may be feasible to get all existing contributors to agree to a license change in an issue or pull request. For large and long-lived projects, you may have to seek out many contributors and even their heirs. Mozilla took years (2001-2006) to relicense Firefox, Thunderbird, and related software.
+**Obecni posiadacze praw autorskich do Twojego projektu.** Jeśli jesteś jedynym współtwórcą swojego projektu, to Ty lub Twoja firma jesteś wyłącznym właścicielem praw autorskich do projektu. Możesz dodać lub zmienić dowolną licencję, którą Ty lub Twoja firma chcecie. W przeciwnym razie mogą istnieć inni właściciele praw autorskich, od których potrzebujesz zgody, aby zmienić licencje. Kim oni są? Ludzie, którzy mają zobowiązania w twoim projekcie, to dobry początek. Ale w niektórych przypadkach pracodawcy tych osób będą mieli prawa autorskie. W niektórych przypadkach ludzie wnoszą minimalny wkład, ale nie ma twardej i szybkiej zasady, że wkłady o określonej liczbie wierszy kodu nie podlegają prawu autorskiemu. Co robić? To zależy. W przypadku stosunkowo małego i młodego projektu może być wykonalne, aby wszyscy obecni współpracownicy zgodzili się na zmianę licencji w żądaniu wydania lub wycofania. W przypadku dużych i długotrwałych projektów może być konieczne znalezienie wielu współpracowników, a nawet ich spadkobierców. Mozilla potrzebowała lat (2001-2006) na licencjonowanie Firefoksa, Thunderbirda i powiązanego oprogramowania.
 
-Alternatively, you can have contributors agree in advance (via an additional contributor agreement -- see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
+Ewentualnie możesz poprosić autorów o wcześniejsze uzgodnienie (za pośrednictwem dodatkowej umowy o współautorach - patrz poniżej) pewnych zmian licencji pod pewnymi warunkami, wykraczającymi poza dozwolone przez twoją istniejącą licencję typu open source. To nieco zmienia złożoność zmiany licencji. Będziesz potrzebować dodatkowej pomocy od swoich prawników i nadal będziesz chciał wyraźnie komunikować się z interesariuszami projektu podczas przeprowadzania zmiany licencji.
 
-## Does my project need an additional contributor agreement?
+## Czy mój projekt wymaga dodatkowej umowy wnoszącej wkład?
 
-Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Prawdopodobnie nie. W zdecydowanej większości projektów typu open source licencja typu open source domyślnie służy zarówno jako licencja przychodząca (od współpracowników), jak i wychodząca (dla innych autorów i użytkowników). Jeśli Twój projekt działa na GitHub, Warunki korzystania z usługi GitHub sprawiają, że „przychodzące = wychodzące” jest [jawnym domyślnym](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
-An additional contributor agreement -- often called a Contributor License Agreement (CLA) -- can create administrative work for project maintainers. How much work an agreement adds depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
+Dodatkowa umowa współtwórcy - często zwana umową licencyjną współtwórcy (CLA) - może tworzyć prace administracyjne dla opiekunów projektów. Ile pracy dodaje umowa zależy od projektu i realizacji. Prosta umowa może wymagać, aby uczestnicy potwierdzili jednym kliknięciem, że mają prawa niezbędne do wniesienia wkładu w ramach licencji open source projektu. Bardziej skomplikowana umowa może wymagać weryfikacji prawnej i wypisania się od pracodawców współpracowników.
 
-Also, by adding "paperwork" that some believe is unnecessary, hard to understand, or unfair (when the agreement recipient gets more rights than contributors or the public do via the project's open source license), an additional contributor agreement may be perceived as unfriendly to the project's community.
+Ponadto poprzez dodanie „dokumentacji”, którą niektórzy uważają za niepotrzebną, trudną do zrozumienia lub niesprawiedliwą (gdy odbiorca umowy otrzymuje więcej praw niż współautorzy lub odbiorcy publiczni dzięki licencji open source projektu), dodatkową umowę wnoszącą wkład można uznać za nieprzyjazną dla społeczności projektu.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
+  <i>
     We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
+   </i>
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
-Some situations where you may want to consider an additional contributor agreement for your project include:
+Niektóre sytuacje, w których warto rozważyć zawarcie dodatkowej umowy wnoszącej wkład dla twojego projektu, obejmują:
 
-* Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps because they feel the open source license itself is not enough (even though it is!). If this is the only concern, a contributor agreement that affirms the project's open source license should be enough. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is a good example of a lightweight additional contributor agreement.
-* You or your lawyers want developers to represent that each commit they make is authorized. A [Developer Certificate of Origin](https://developercertificate.org/) requirement is how many projects achieve this. For example, the Node.js community [uses](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md) the DCO [instead](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) of their prior CLA. A simple option to automate enforcement of the DCO on your repository is the [DCO Probot](https://github.com/probot/dco).
-* Your project uses an open source license that does not include an express patent grant (such as MIT), and you need a patent grant from all contributors, some of whom may work for companies with large patent portfolios that could be used to target you or the project's other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
-* Your project is under a copyleft license, but you also need to distribute a proprietary version of the project. You'll need every contributor to assign copyright to you or grant you (but not the public) a permissive license. The [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) is an example this type of agreement.
-* You think your project might need to change licenses over its lifetime and want contributors to agree in advance to such changes.
+* Twoi prawnicy chcą, aby wszyscy współtwórcy wyraźnie zaakceptowali warunki udziału (_sign_, online lub offline), być może dlatego, że uważają, że sama licencja typu open source nie wystarczy (nawet jeśli jest!). Jeśli jest to jedyny problem, wystarczy umowa współtwórcy, która potwierdza licencję open source projektu. [Umowa licencyjna na indywidualnego dostawcę jQuery] (https://contribute.jquery.org/CLA/) jest dobrym przykładem niewielkiej dodatkowej umowy na współautora.
+* Ty lub twoi prawnicy chcielibyście, aby programiści oświadczyli, że każde dokonane przez nich zatwierdzenie jest dozwolone. Wymaganiem [Developer Certificate of Origin] (https://developercertificate.org/) jest to, ile projektów to osiąga. Na przykład społeczność Node.js [używa] (https://github.com/nodejs/node/blob/master/CONTRIBUTING.md) DCO [zamiast] (https://nodejs.org/en/blog/ niesklasyfikowane / notatki z drogi / # łatwiejszy wkład) wcześniejszego CLA. Prostą opcją zautomatyzowania wymuszania kontroli DCO w repozytorium jest [DCO Probot] (https://github.com/probot/dco).
+* Twój projekt wykorzystuje licencję typu open source, która nie obejmuje wyraźnej granty patentowej (takiej jak MIT), i potrzebujesz grantu patentowego od wszystkich autorów, z których niektórzy mogą pracować dla firm z dużymi portfelami patentowymi, które mogłyby być wykorzystane do Ciebie lub inni uczestnicy projektu i użytkownicy. [Umowa licencyjna na indywidualnego dostawcę Apache] (https://www.apache.org/licenses/icla.pdf) to powszechnie stosowana dodatkowa umowa na współautora, której udzielenie patentowe odzwierciedla kopię zawartą w licencji Apache 2.0.
+* Twój projekt jest objęty licencją copyleft, ale musisz także rozpowszechniać zastrzeżoną wersję projektu. Będziesz potrzebował każdego współtwórcy, aby przypisać Ci prawa autorskie lub udzielić (ale nie publicznie) zezwolenia na korzystanie z licencji. [Umowa współtwórcy MongoDB] (https://www.mongodb.com/legal/contributor-agreement) jest przykładem tego rodzaju umowy.
+* Uważasz, że Twój projekt może wymagać zmiany licencji przez cały okres jego użytkowania i chcesz, aby współtwórcy zgodzili się z wyprzedzeniem na takie zmiany.
 
-If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
+Jeśli potrzebujesz skorzystać z dodatkowej umowy z dostawcą w swoim projekcie, rozważ zastosowanie integracji, takiej jak [asystent CLA] (https://github.com/cla-assistant/cla-assistant), aby zminimalizować rozproszenie współpracowników.
 
-## What does my company's legal team need to know?
+## Co powinien wiedzieć zespół prawny mojej firmy?
 
-If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
+Jeśli zwalniasz projekt typu open source jako pracownik firmy, najpierw zespół prawny powinien wiedzieć, że masz otwarty projekt.
 
-For better or worse, consider letting them know even if it's a personal project. You probably have an "employee IP agreement" with your company that gives them some control of your projects, especially if they are at all related to the company's business or you use any company resources to develop the project. Your company _should_ easily give you permission, and maybe already has through an employee-friendly IP agreement or a company policy. If not, you can negotiate (for example, explain that your project serves the company's professional learning and development objectives for you), or avoid working on your project until you find a better company.
+Na lepsze lub gorsze, warto poinformować ich, nawet jeśli jest to projekt osobisty. Prawdopodobnie masz „umowę o pracę z pracownikiem” ze swoją firmą, która daje im pewną kontrolę nad twoimi projektami, szczególnie jeśli są one w ogóle związane z działalnością firmy lub wykorzystujesz zasoby firmy do opracowania projektu. Twoja firma powinna z łatwością dać ci pozwolenie, a być może już zawarła przyjazną dla pracowników umowę IP lub politykę firmy. Jeśli nie, możesz negocjować (na przykład wyjaśnić, że Twój projekt służy profesjonalnym celom firmy w zakresie uczenia się i rozwoju) lub unikać pracy nad projektem, dopóki nie znajdziesz lepszej firmy.
 
-**If you're open sourcing a project for your company,** then definitely let them know. Your legal team probably already has policies for what open source license (and maybe additional contributor agreement) to use based on the company's business requirements and expertise around ensuring your project complies with the licenses of its dependencies. If not, you and they are in luck! Your legal team should be eager to work with you to figure this stuff out. Some things to think about:
+**Jeśli masz otwarty projekt dla swojej firmy,** to zdecydowanie daj znać. Twój zespół prawny prawdopodobnie już ma zasady dotyczące tego, z której licencji open source (i być może dodatkowej umowy wnoszącej wkład) należy korzystać w oparciu o wymagania biznesowe firmy i wiedzę specjalistyczną w zakresie zapewniania zgodności projektu z licencjami jego zależności. Jeśli nie, ty i oni mają szczęście! Twój zespół prawny powinien chętnie z Tobą współpracować przy rozwiązywaniu tego problemu. Kilka rzeczy do przemyślenia:
 
-* **Third party material:** Does your project have dependencies created by others or otherwise include or use others' code? If these are open source, you'll need to comply with the materials' open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you're meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others' code that doesn't have an open source license, you'll probably have to ask the third party maintainers to [add an open source license](https://choosealicense.com/no-license/#for-users), and if you can't get one, stop using their code in your project.
+* **Materiały stron trzecich:** Czy twój projekt ma zależności stworzone przez innych lub w inny sposób zawierają lub wykorzystują kod innych osób? Jeśli są to oprogramowanie typu open source, musisz przestrzegać licencji na materiały typu open source. Zaczyna się to od wyboru licencji, która współpracuje z licencjami open source stron trzecich (patrz wyżej). Jeśli Twój projekt modyfikuje lub rozpowszechnia materiały open source stron trzecich, Twój zespół prawny będzie chciał również wiedzieć, że spełniasz inne warunki licencji open source stron trzecich, takie jak zachowanie informacji o prawach autorskich. Jeśli Twój projekt korzysta z kodu innej osoby, który nie ma licencji open source, prawdopodobnie będziesz musiał poprosić zewnętrznych opiekunów o [dodanie licencji open source] (https://choosealicense.com/no-license/# dla użytkowników), a jeśli nie możesz go zdobyć, przestań używać jego kodu w swoim projekcie.
 
 * **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material you want to keep private.
 
-* **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
+* **Patenty:** Czy Twoja firma ubiega się o patent, którego otwarty projekt stanowiłby [ujawnienie publiczne] (https://en.wikipedia.org/wiki/Public_disclosure)? Niestety możesz zostać poproszony o poczekanie (a może firma ponownie rozważy mądrość aplikacji). Jeśli oczekujesz wkładu w projekt od pracowników firm z dużymi portfelami patentów, Twój zespół prawny może chcieć, abyś użył licencji z wyraźnym udzieleniem patentu od autorów (takich jak Apache 2.0 lub GPLv3), lub dodatkowej umowy wnoszącej wkład ( patrz wyżej).
 
-* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../starting-a-project/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
+* **Znaki towarowe:** Sprawdź dwukrotnie, czy nazwa twojego projektu [nie powoduje konfliktu z istniejącymi znakami towarowymi] (../ start-a-project / # unikanie-konflikty nazw). Jeśli używasz w projekcie własnych znaków towarowych firmy, sprawdź, czy nie powoduje to żadnych konfliktów. [FOSSmarks] (http://fossmarks.org/) to praktyczny przewodnik do zrozumienia znaków towarowych w kontekście projektów bezpłatnych i otwartych.
 
-* **Privacy:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
+* **Prywatność:** Czy Twój projekt zbiera dane o użytkownikach? „Telefon do domu” do serwerów firmy? Twój zespół prawny może pomóc Ci w przestrzeganiu zasad firmy i przepisów zewnętrznych.
 
-If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
+Jeśli wypuszczasz pierwszy projekt open source swojej firmy, powyższe rozwiązania są wystarczające, aby się z tym pogodzić (ale nie martw się, większość projektów nie powinna budzić większych obaw).
 
-Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
+W dłuższej perspektywie Twój zespół prawny może zrobić więcej, aby pomóc firmie lepiej wykorzystać zaangażowanie w open source i zachować bezpieczeństwo:
 
-* **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Zasady dotyczące składek pracowniczych:** Rozważ opracowanie zasad korporacyjnych, które określają, w jaki sposób pracownicy przyczyniają się do projektów typu open source. Jasna polityka zmniejszy zamieszanie wśród pracowników i pomoże im przyczyniać się do projektów typu open source w najlepszym interesie firmy, zarówno w ramach pracy, jak i czasu wolnego. Dobrym przykładem jest [Model IP i Open Source Contribution Policy]](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
-* **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
-* **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
+* ** Co wydać:** [(Prawie) wszystko?] (Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Jeśli Twój zespół prawny rozumie i jest zainwestowane w strategię otwartego oprogramowania firmy, najlepiej będą w stanie pomóc, a nie utrudnić wysiłki.
+* ** Zgodność:** Nawet jeśli Twoja firma nie wydaje żadnych projektów typu open source, korzysta z oprogramowania innego typu. [Świadomość i proces] (https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) może zapobiegać bólom głowy, opóźnieniom produktowym, i procesy sądowe.
 
 <aside markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
@@ -162,5 +160,5 @@ Longer term, your legal team can do more to help the company get more from its i
   </p>
 </aside>
 
-* **Patents:** Your company may wish to join the [Open Invention Network](https://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+  * **Patenty:** Twoja firma może dołączyć do [Open Invention Network] (https://www.openinventionnetwork.com/), wspólnej puli patentów obronnych, aby chronić korzystanie przez członków z dużych projektów open source lub odkryć inne [alternatywne licencjonowanie patentów] (https://www.eff.org/document/hacking-patent-system-2016).
+* **Zarządzanie:** Zwłaszcza jeśli i kiedy sensowne jest przeniesienie projektu do [podmiotu prawnego spoza firmy](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
