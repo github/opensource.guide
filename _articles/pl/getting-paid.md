@@ -1,13 +1,8 @@
 ---
-lang: en
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+lang: pl
+title: Zarabianie za pracę Open Source
+description: Utrzymaj swoją pracę w otwartym kodzie źródłowym, uzyskując wsparcie finansowe na Twój czas lub projekt.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -15,177 +10,191 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## Dlaczego niektórzy ludzie szukają wsparcia finansowego
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Duża część pracy open source jest dobrowolna. Na przykład ktoś może natknąć się na błąd w projekcie, z którego korzysta, i przesłać szybką poprawkę, lub może w wolnym czasie majstrować przy projekcie open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
+  <i>
 I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+</i>
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Istnieje wiele powodów, dla których dana osoba nie chce otrzymywać wynagrodzenia za pracę typu open source.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Mogą już mieć pracę na pełny etat, którą kochają,** co pozwala im wnieść wkład w open source w wolnym czasie.
+* **Lubią myśleć o otwartym źródle jako hobby** lub kreatywnej ucieczce i nie chcą czuć się zobowiązani finansowo do pracy nad swoimi projektami.
+* **Dostają inne korzyści z wkładu w open source,** takie jak budowanie reputacji lub portfolio, uczenie się nowych umiejętności lub zbliżenie się do społeczności.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
   <p markdown="1" class="pquote-credit">
+  </i>
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Dla innych, szczególnie gdy składki są w toku lub wymagają znacznego czasu, zarabianie na wkładach w open source jest jedynym sposobem, w jaki mogą wziąć udział, ponieważ wymaga tego projekt lub z powodów osobistych.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Utrzymanie popularnych projektów może być znaczącą odpowiedzialnością, ponieważ zajmuje 10 lub 20 godzin tygodniowo zamiast kilku godzin miesięcznie.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+Płatna praca umożliwia także osobom z różnych środowisk życiowych wniesienie znaczącego wkładu. Niektóre osoby nie mogą sobie pozwolić na niepłatne spędzanie czasu na projektach typu open source, w oparciu o ich obecną sytuację finansową, zadłużenie, rodzinę lub inne obowiązki opiekuńcze. Oznacza to, że świat nigdy nie dostrzega wkładu utalentowanych ludzi, których nie stać na poświęcenie swojego czasu. Ma to implikacje etyczne, jak to [opisał] @ashedryden(https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), ponieważ praca, która jest wykonana, jest uprzedzony na korzyść tych, którzy już mają zalety w życiu, którzy następnie zyskują dodatkowe korzyści na podstawie swojego wkładu wolontariuszy, podczas gdy inni, którzy nie są w stanie zgłosić się na ochotnika, nie dostają później możliwości, co wzmacnia obecny brak różnorodności w otwartym oprogramowaniu społeczność.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
+  <i>
    OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   </i>
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Jeśli szukasz wsparcia finansowego, musisz rozważyć dwie ścieżki. Możesz sfinansować swój czas jako współpracownik lub możesz znaleźć fundusze organizacyjne dla projektu.
 
-## Funding your own time
+## Finansowanie własnego czasu
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Obecnie wiele osób otrzymuje wynagrodzenie za pracę w niepełnym lub pełnym wymiarze godzin na otwartym oprogramowaniu. Najczęstszym sposobem zarabiania za czas jest rozmowa z pracodawcą.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Łatwiej jest uzasadnić pracę z otwartym kodem źródłowym, jeśli Twój pracodawca faktycznie korzysta z projektu, ale wykaż się kreatywnością. Być może twój pracodawca nie korzysta z projektu, ale używa Pythona, a utrzymanie popularnego projektu w Pythonie pomaga przyciągnąć nowych deweloperów języka Python. Być może sprawia to, że Twój pracodawca wydaje się bardziej przyjazny dla programistów.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+Jeśli nie masz istniejącego projektu typu open source, nad którym chciałbyś pracować, ale wolisz, aby twoje bieżące wyniki pracy były typu open source, poproś pracodawcę o otwarcie częściowego oprogramowania wewnętrznego.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+Wiele firm opracowuje programy typu open source, aby budować swoją markę i rekrutować talenty wysokiej jakości.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse, na przykład stwierdzono, że istnieją finansowe powody, aby uzasadnić [inwestycję Walmarta w open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). I @jamesgpearce stwierdził, że program open source Facebooka [zrobił różnicę] (https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) w rekrutacji:
 
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+Jeśli Twoja firma pójdzie tą drogą, ważne jest, aby zachować wyraźne granice między działalnością społeczności a działalnością firmy. Ostatecznie, open source utrzymuje się dzięki wkładom ludzi z całego świata, a to jest większe niż jakakolwiek jedna firma lub lokalizacja.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+Jeśli nie możesz przekonać swojego obecnego pracodawcy do priorytetowego traktowania pracy typu open source, zastanów się nad znalezieniem nowego pracodawcy, który zachęca pracowników do korzystania z oprogramowania typu open source. Poszukaj firm, które wyrażają swoje zaangażowanie w pracę z otwartym oprogramowaniem. Na przykład:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Zalando](https://opensource.zalando.com) published its [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) for employees
+* Niektóre firmy, jak [Netflix](https://netflix.github.io/) lub [PayPal](https://paypal.github.io/), mają strony internetowe, które podkreślają ich zaangażowanie w open source
+* [Zalando](https://opensource.zalando.com) opublikował [politykę dotyczącą wkładu typu open source](https://opensource.zalando.com/docs/using/contributing/) dla pracowników
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+Projekty, które powstały w dużej firmie, takie jak [Go](https://github.com/golang) lub [React](https://github.com/facebook/react), prawdopodobnie również zatrudnią ludzi do pracy na otwartym oprogramowaniu.
 
-Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+W zależności od osobistych okoliczności możesz spróbować samodzielnie zebrać pieniądze, aby sfinansować swoją pracę typu open source. Na przykład:
 
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @gaearon sfinansował swoją pracę [Redux](https://github.com/reactjs/redux) poprzez [kampanię crowdfundingową Patreon](https://redux.js.org/)
+* @andrewgodwin sfinansował prace nad migracjami schematu Django [poprzez kampanię Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
+Wreszcie, czasami projekty open source dają nagrody za problemy, z którymi możesz pomyśleć o pomocy.
 
-* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+* @ConnorChristie był w stanie otrzymać wynagrodzenie za [pomoc](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol pracować nad biblioteką javascript [poprzez nagrodę za gitcoin](https://gitcoin.co/).
+* @mamiM zrobiłem japońskie tłumaczenia dla @MetaMask po tym, jak [problem został sfinansowany przez Bounties Network](https://explorer.bounties.network/bounty/134).
 
-## Finding funding for your project
+## Znajdowanie funduszy na swój projekt
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Oprócz ustaleń dotyczących indywidualnych uczestników, czasami projekty zbierają pieniądze od firm, osób fizycznych lub innych osób na finansowanie bieżącej pracy.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+Finansowanie organizacyjne może zostać przeznaczone na opłacenie obecnych uczestników, pokrycie kosztów prowadzenia projektu (takich jak opłaty za hosting) lub inwestowanie w nowe funkcje lub pomysły.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+Wraz ze wzrostem popularności oprogramowania typu open source znalezienie funduszy na projekty jest nadal eksperymentalne, ale dostępnych jest kilka typowych opcji.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### Zbieraj pieniądze na swoją pracę poprzez kampanie crowdfundingowe lub sponsoring
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+Znalezienie sponsorów działa dobrze, jeśli masz już silną publiczność lub reputację lub twój projekt jest bardzo popularny.
+Kilka przykładów sponsorowanych projektów to:
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack)** zbiera pieniądze od firm i osób prywatnych [poprzez OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue)** jest [finansowany przez Patreon](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** organizacja non-profit, która płaci za pracę [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), i inne projekty infrastruktury Ruby
 
-### Create a revenue stream
+### Utwórz strumień przychodów
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+W zależności od projektu możesz być w stanie pobierać opłaty za wsparcie komercyjne, opcje hostowane lub dodatkowe funkcje. Kilka przykładów obejmuje:
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Sidekiq](https://github.com/mperham/sidekiq)** oferuje płatne wersje dodatkowego wsparcia
+* **[Travis CI](https://github.com/travis-ci)** oferuje płatne wersje swojego produktu
+* **[Ghost](https://github.com/TryGhost/Ghost)** jest organizacją non-profit z płatną usługą zarządzaną
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+Niektóre popularne projekty, takie jak [npm](https://github.com/npm/npm) oraz [Docker](https://github.com/docker/docker), nawet pozyskały kapitał wysokiego ryzyka w celu wsparcia rozwoju ich działalności.
 
-### Apply for grant funding
+### Złóż wniosek o dofinansowanie
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+Niektóre fundacje i firmy oferują granty na prace typu open source. Czasami dotacje można wypłacać osobom fizycznym bez zakładania osobowości prawnej dla projektu.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** otrzymał dotację od [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
+* **[OpenMRS](https://github.com/openmrs)** praca została sfinansowana przez [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
+* **[Libraries.io](https://github.com/librariesio)** otrzymał dotację z [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* **[Python Software Foundation](https://www.python.org/psf/grants/)** oferuje granty na prace związane z Pythonem
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+Aby uzyskać bardziej szczegółowe opcje i studia przypadków, @nayafia [napisał przewodnik](https://github.com/nayafia/lemonade-stand) jak zarabiać za pracę typu open source. Różne rodzaje finansowania wymagają różnych umiejętności, więc rozważ swoje mocne strony, aby dowiedzieć się, która opcja będzie dla Ciebie najlepsza.
 
-## Building a case for financial support
+## Budowanie uzasadnienia wsparcia finansowego
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Niezależnie od tego, czy Twój projekt jest nowym pomysłem, czy istnieje już od lat, powinieneś się zastanowić, czy nie zidentyfikować docelowego fundatora i przedstawić przekonujący argument.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Niezależnie od tego, czy chcesz zapłacić za swój czas, czy zbierać fundusze na projekt, powinieneś być w stanie odpowiedzieć na następujące pytania.
 
-### Impact
+### Wpływ
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Dlaczego ten projekt jest przydatny? Dlaczego tak lubią Twoi użytkownicy lub potencjalni użytkownicy? Gdzie będzie za pięć lat?
 
-### Traction
+### Trakcja
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Postaraj się zebrać dowody na to, że projekt ma znaczenie, czy to metryki, anegdoty czy referencje. Czy są teraz jakieś firmy lub godne uwagi osoby korzystające z Twojego projektu? Jeśli nie, czy wybitna osoba to poparła?
 
-### Value to funder
+### Wartość do finansowania
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+Do fundatorów, czy to pracodawcy, czy fundacji przyznającej granty, często zwraca się szansa. Dlaczego powinni wesprzeć Twój projekt w jakikolwiek inny sposób? Jakie korzyści odnoszą osobiście?
 
-### Use of funds
+### Wykorzystanie funduszy
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Co dokładnie osiągniesz dzięki proponowanemu finansowaniu? Skoncentruj się na kamieniach milowych projektu lub jego wynikach, zamiast płacić pensję.
 
-### How you'll receive the funds
+### Jak otrzymasz fundusze
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+Czy podmiot finansujący ma jakieś wymagania dotyczące wypłaty? Na przykład być może trzeba być organizacją non-profit lub mieć sponsora podatkowego typu non-profit. A może fundusze należy przekazać indywidualnemu kontrahentowi, a nie organizacji. Wymagania te różnią się w zależności od fundatora, dlatego należy wcześniej przeprowadzić badania.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
+  <i>
   For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  </i>
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Eksperymentuj i nie poddawaj się
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Zbieranie pieniędzy nie jest łatwe, bez względu na to, czy jesteś projektem typu open source, organizacją non-profit, czy też uruchomieniem oprogramowania, aw większości przypadków wymaga kreatywności. Określenie, w jaki sposób chcesz otrzymać zapłatę, przeprowadzenie badań i postawienie się w sytuacji gracza finansującego, pomoże ci zbudować przekonującą argumentację za finansowaniem.
