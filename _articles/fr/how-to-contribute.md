@@ -62,7 +62,7 @@ Une idée commune fausse sur la contribution à l'open source est que vous devez
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Je suis renommé pour mon travail sur CocoaPods, mais la plupart des gens ne savent pas que je ne travaille pas vraiment sur l'outil CocoaPods lui-même. Mon temps sur le projet est principalement passé à faire des choses comme la documentation et à travailler sur l'image de marque.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
