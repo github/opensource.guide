@@ -73,7 +73,7 @@ A common misconception about contributing to open source is that you need to con
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 

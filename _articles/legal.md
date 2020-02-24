@@ -40,7 +40,7 @@ When you [create a new project](https://help.github.com/articles/creating-a-new-
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
 
 If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
 
@@ -96,7 +96,7 @@ Alternatively, you can have contributors agree in advance (via an additional con
 
 ## Does my project need an additional contributor agreement?
 
-Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
 An additional contributor agreement -- often called a Contributor License Agreement (CLA) -- can create administrative work for project maintainers. How much work an agreement adds depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
 

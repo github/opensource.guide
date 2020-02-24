@@ -33,7 +33,7 @@ redirect_from: /zh-cn/legal/
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**公开你们的GitHub项目与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
+**公开你们的GitHub项目与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
 
 如果你们想让他人使用，复制，修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你们的项目是公开的，但没有你们的授权，一些人是不能合法在他们的代码中使用你们GitHub项目中的任何部分。
 

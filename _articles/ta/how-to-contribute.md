@@ -62,7 +62,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
 நான் கோகோபாட்களில் எனது பணிக்காக புகழ் பெற்றிருக்கிறேன், ஆனால் கோகோபாட்ஸ் கருவியில் எந்தவொரு உண்மையான வேலையும் செய்யவில்லை என்று பெரும்பாலான மக்களுக்கு தெரியாது. திட்டத்தில் என் நேரம் பெரும்பாலும் ஆவணங்கள் மற்றும் வர்த்தக வேலை போன்ற விஷயங்களை செய்வதாகும்.
   <p markdown="1" class="pquote-credit">
-— @orta, ["இயல்பாகவே OSS க்கு நகரவும்"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["இயல்பாகவே OSS க்கு நகரவும்"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
