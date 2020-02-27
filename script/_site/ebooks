@@ -1,0 +1,196 @@
+#!/usr/bin/env node
+
+// Generate EPUB and MOBI ebooks
+
+const fs = require('fs');
+const path = require('path');
+const exec = require('child_process').exec;
+const fastmatter = require('fastmatter');
+const mkdirp = require('mkdirp');
+const slug = require('slug');
+const unified = require('unified');
+const parse = require('remark-parse');
+const stringify = require('remark-stringify');
+const visit = require('unist-util-visit');
+const download = require('download');
+const ebrew = require('ebrew');
+
+const processor = unified()
+  .use(parse)
+  .use(replaceAsides)
+  .use(replaceCheckboxes)
+  .use(fixImages)
+  .use(downloadImages)
+  .use(stringify);
+
+buildBooks([
+  '_articles/how-to-contribute.md',
+  '_articles/starting-a-project.md',
+  '_articles/finding-users.md',
+  '_articles/building-community.md',
+  '_articles/best-practices.md',
+  '_articles/leadership-and-governance.md',
+  '_articles/getting-paid.md',
+  '_articles/code-of-conduct.md',
+  '_articles/metrics.md',
+  '_articles/legal.md',
+]);
+
+function buildBooks(files) {
+  const out = 'assets/ebooks/open-source-guide';
+  const tempFile = '_ebook.md';
+
+  mkdirp.sync('assets/ebooks');
+  mkdirp.sync('.asset-downloads');
+
+  let source = files.map(readFile).join('\n\n');
+  const { text, promises } = downloadImages(source);
+  fs.writeFileSync(tempFile, text);
+
+  promises
+    .then(() => markdownToEpub(tempFile, `${out}.epub`))
+    .then(() => epubToMobi(`${out}.epub`, `${out}.mobi`))
+    .then(() => fs.unlinkSync(tempFile))
+    .catch(err => console.error(err));
+}
+
+function readFile(file) {
+  const md = fs.readFileSync(file, 'utf8');
+
+  // Replace frontmatter with chapter title
+  const { attributes, body } = fastmatter(md);
+  let text = `# ${attributes.title}\n\n${body}`;
+
+  return processor.process(text).contents;
+}
+
+function markdownToEpub(mdFile, epubFile) {
+  return new Promise((resolve, reject) => {
+    console.log(`Building ${epubFile}...`);
+
+    const manifestFile = '_ebook.json';
+    fs.writeFileSync(manifestFile, JSON.stringify({
+      tocDepth: 1,
+      title: 'Open Source Guides',
+      subtitle: 'Open source software is made by people just like you. Learn how to launch and grow your project.',
+      author: 'GitHub',
+      publisher: 'GitHub',
+      rights: 'CC-BY-4.0',
+      date: (new Date()).toISOString().slice(0, 10),
+      contents: path.resolve(mdFile),
+    }));
+
+    ebrew.generate(manifestFile, epubFile, err => {
+      fs.unlinkSync(manifestFile);
+      if (err) {
+        reject(err.stack || err);
+      } else {
+        resolve();
+      }
+    });
+  });
+}
+
+function epubToMobi(epubFile, mobiFile) {
+  return new Promise((resolve, reject) => {
+    console.log(`Building ${mobiFile}...`);
+
+    const kindlegen = require.resolve('kindlegen/bin/kindlegen');
+    exec(`${kindlegen} ${epubFile} -c2 -verbose -o ${path.basename(mobiFile)}`, (err, stdout) => {
+      if (err && stdout.includes('MOBI file could not be generated because of errors!')) {
+        reject(stdout);
+      } else {
+        resolve();
+      }
+    });
+  });
+}
+
+function downloadImages(text) {
+  function image(processor) {
+    return ast => visit(ast, 'image', node => {
+      if (node.url.startsWith('http')) {
+        const url = node.url;
+        const filename = slug(path.basename(node.url));
+        const filepath = `./.asset-downloads/${filename}.jpg`
+        node.url = filepath;
+        if (fs.existsSync(filepath)) {
+          promises.push(Promise.resolve());
+        } else {
+          const promise = download(url)
+            .then(data => {
+              fs.writeFileSync(filepath, data);
+            });
+          promises.push(promise);
+        }
+      }
+    });
+  }
+
+  let promises = [];
+  const processor = unified()
+    .use(parse)
+    .use(image)
+    .use(stringify);
+
+  text = processor.process(text).contents;
+
+  return {
+    promises: Promise.all(promises),
+    text,
+  };
+}
+
+/*
+Replace asides with Markdown blockquotes:
+<aside markdown="1" class="pquote">
+  <img src="https://avatars2.githubusercontent.com/u/1976330?v=3&s=460" class="pquote-avatar" alt="avatar" alt="@lord avatar">
+  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  <p markdown="1" class="pquote-credit">
+— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+  </p>
+</aside>
+*/
+function replaceAsides(processor) {
+  return ast => visit(ast, 'html', node => {
+    if (node.value.startsWith('<aside')) {
+      node.value = node.value
+        .replace(/  <img src="(.*?)"[^>]*>/, '![]($1)\n')
+        .replace(/\(\/assets\//, '(./assets/')
+        .replace(/<\/?(aside|p).*?>/g, '')
+        .trim()
+        .replace(/(^|\n) */g, '\n> ');
+    }
+  });
+}
+
+/*
+Replace checkboxes with unordered lists:
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+  Does it have a license? Usually, this is a file called LICENSE in the root of the repository.
+  </label>
+</div>
+*/
+function replaceCheckboxes(processor) {
+  return ast => visit(ast, 'html', node => {
+    if (node.value.startsWith('<div')) {
+      node.value = node.value
+        .replace(/<\/?.*?>/g, '')
+        .trim()
+        .replace(/^/, '* ');
+    }
+  });
+}
+
+/*
+1. Remove image alts, otherwise they will be visible in a book
+2. Fix asset paths
+*/
+function fixImages(processor) {
+  return ast => visit(ast, 'image', node => {
+    node.alt = null;
+    node.url = node.url.replace(/^\/assets\//, './assets/');
+  });
+}

@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "html-proofer"
+
+url_ignores = [
+  "https://okdistribute.xyz/post/okf-de",
+  "https://www.drupal.org/community-initiatives/drupal-core/usability",
+  "https://scripts.sil.org/ofl",
+]
+
+HTMLProofer::Runner.new(
+  ["_site"],
+  parallel: { in_threads: 4 },
+  type: :directory,
+  url_ignore: url_ignores,
+  check_html: true,
+  check_opengraph: true,
+  check_img_http: true,
+  favicon: true,
+  assume_extension: true,
+  only_4xx: true,
+).run
