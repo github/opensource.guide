@@ -70,7 +70,7 @@ Jeśli Twój projekt ma bardzo aktywną społeczność współpracowników, moż
   </p>
 </aside>
 
-Zespoły kierownicze mogą chcieć utworzyć wyznaczony kanał (np. Na IRC) lub regularnie spotykać się w celu omówienia projektu (np. Na Gitter lub Google Hangout). Możesz nawet upublicznić te spotkania, aby inni mogli je słuchać. [Cucumber-ruby] (https://github.com/cucumber/cucumber-ruby), na przykład [organizuje godziny pracy co tydzień] (https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs
+Zespoły kierownicze mogą chcieć utworzyć wyznaczony kanał (np. Na IRC) lub regularnie spotykać się w celu omówienia projektu (np. Na Gitter lub Google Hangout). Możesz nawet upublicznić te spotkania, aby inni mogli je słuchać. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), na przykład [organizuje godziny pracy co tydzień](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs
 
 Po ustaleniu ról przywódczych nie zapomnij udokumentować, w jaki sposób ludzie mogą je osiągnąć! Ustal przejrzysty proces, w jaki sposób ktoś może zostać opiekunem lub dołączyć do podkomitetu w swoim projekcie, i zapisz go w swoim GOVERNANCE.md.
 
