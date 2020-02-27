@@ -49,7 +49,7 @@ Jeśli Twój projekt jest hostowany na GitHub, [możesz zobaczyć] (https://help
 
 [GitHub stars](https://help.github.com/articles/about-stars/) może również pomóc w zapewnieniu podstawowej miary popularności. Chociaż gwiazdy GitHub niekoniecznie korelują z pobieraniem i użytkowaniem, mogą powiedzieć, ile osób zwraca uwagę na Twoją pracę.
 
-Możesz także chcieć [śledzić wykrywalność w określonych miejscach] (https://opensource.com/business/16/6/pirate-metrics): na przykład Google PageRank, ruch z odsyłaczy z witryny Twojego projektu lub skierowania z innych otwartych projekty źródłowe lub strony internetowe.
+Możesz także chcieć [śledzić wykrywalność w określonych miejscach](https://opensource.com/business/16/6/pirate-metrics): na przykład Google PageRank, ruch z odsyłaczy z witryny Twojego projektu lub skierowania z innych otwartych projekty źródłowe lub strony internetowe.
 
 ## Stosowanie
 
