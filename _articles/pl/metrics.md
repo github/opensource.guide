@@ -53,7 +53,7 @@ Możesz także chcieć [śledzić wykrywalność w określonych miejscach] (http
 
 ## Stosowanie
 
-Ludzie znajdują Twój projekt w tej szalonej i szalonej rzeczy, którą nazywamy internetem. Idealnie, gdy zobaczą Twój projekt, poczują się zmuszeni do zrobienia czegoś. Drugie pytanie, które chcesz zadać, to: _ czy ludzie korzystają z tego projektu? _
+Ludzie znajdują Twój projekt w tej szalonej i szalonej rzeczy, którą nazywamy internetem. Idealnie, gdy zobaczą Twój projekt, poczują się zmuszeni do zrobienia czegoś. Drugie pytanie, które chcesz zadać, to: _czy ludzie korzystają z tego projektu?_
 
 Jeśli używasz menedżera pakietów, takiego jak npm lub RubyGems.org, do rozpowszechniania projektu, możesz być w stanie śledzić pobrania projektu.
 
