@@ -160,7 +160,7 @@ Możesz użyć swojego README, aby odpowiedzieć na inne pytania, takie jak spos
 
 Czasami ludzie unikają pisania pliku README, ponieważ uważają, że projekt jest niedokończony lub nie chcą wkładów. Są to bardzo dobre powody, aby napisać jeden.
 
-Aby uzyskać więcej inspiracji, spróbuj użyć przewodnika @ „dguo [„ Make README ”]] (https://www.makeareadme.com/) lub @ PurpleBooth w [szablon README] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) napisać kompletny plik README.
+Aby uzyskać więcej inspiracji, spróbuj użyć przewodnika @ „dguo [„ Make README ”]](https://www.makeareadme.com/) lub @ PurpleBooth w [szablon README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) napisać kompletny plik README.
 
 Po dołączeniu pliku README do katalogu głównego GitHub automatycznie wyświetli go na stronie głównej repozytorium.
 
