@@ -97,7 +97,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 * Przebuduj układy, aby poprawić użyteczność projektu
 * Przeprowadź badania użytkowników w celu reorganizacji i dopracowania nawigacji lub menu projektu, [jak sugeruje Drupal] (https://www.drupal.org/community-initicjatywy/drupal-core/usability)
 * Przygotuj przewodnik po stylu, aby projekt miał spójny wygląd
-* Twórz grafiki na koszulki lub nowe logo, tak jak zrobili to autorzy hapi.js](https://github.com/hapijs/contrib/issues/68)
+* Twórz grafiki na koszulki lub nowe logo, tak jak zrobili to autorzy [hapi.js](https://github.com/hapijs/contrib/issues/68)
 
 ### Lubisz pisać?
 
@@ -132,7 +132,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 
 ### Czy lubisz pomagać ludziom?
 
-* Odpowiedz na pytania dotyczące projektu na przykład na Stack Overflow ([jak ten przykład Postgres] (https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying- to-ge)) lub Reddit
+* Odpowiedz na pytania dotyczące projektu na przykład na Stack Overflow ([jak ten przykład Postgres](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) lub Reddit
 * Odpowiedz na pytania dotyczące otwartych problemów
 * Pomóż moderować fora dyskusyjne lub kanały rozmów
 
