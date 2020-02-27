@@ -160,7 +160,7 @@ Możesz użyć swojego README, aby odpowiedzieć na inne pytania, takie jak spos
 
 Czasami ludzie unikają pisania pliku README, ponieważ uważają, że projekt jest niedokończony lub nie chcą wkładów. Są to bardzo dobre powody, aby napisać jeden.
 
-Aby uzyskać więcej inspiracji, spróbuj użyć przewodnika @ „dguo [„ Make README ”]](https://www.makeareadme.com/) lub @ PurpleBooth w [szablon README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) napisać kompletny plik README.
+Aby uzyskać więcej inspiracji, spróbuj użyć przewodnika @dguo ['Make README'](https://www.makeareadme.com/) lub @PurpleBooth w [szablon README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) napisać kompletny plik README.
 
 Po dołączeniu pliku README do katalogu głównego GitHub automatycznie wyświetli go na stronie głównej repozytorium.
 
@@ -208,11 +208,11 @@ Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Je
 
 Wreszcie kodeks postępowania pomaga ustalić podstawowe zasady postępowania dla uczestników projektu. Jest to szczególnie cenne, jeśli uruchamiasz projekt open source dla społeczności lub firmy. Kodeks postępowania umożliwia ci zdrowe, konstruktywne zachowanie społeczności, które zmniejszy stres jako opiekuna.
 
-Aby uzyskać więcej informacji, zapoznaj się z naszym [Przewodnikiem Kodeksu Postępowania] (../ kodeksem postępowania /).
+Aby uzyskać więcej informacji, zapoznaj się z naszym [Przewodnikiem Kodeksu Postępowania](https://github.com/github/opensource.guide/blob/master/code-of-conduct).
 
 Oprócz informowania, w jaki sposób oczekuje się, że uczestnicy będą się zachowywać, kodeks postępowania ma również na celu opisanie, do kogo odnoszą się te oczekiwania, kiedy mają zastosowanie, i co zrobić, gdy nastąpi naruszenie.
 
-Podobnie jak licencje typu open source, pojawiają się również nowe standardy kodeksów postępowania, więc nie musisz pisać własnych. [Porozumienie dla współautorów] (https://contributor-covenant.org/) to rozwijany kodeks postępowania używany przez [ponad 40 000 projektów open source] (https://www.contributor-covenant.org/adopters ), w tym Kubernetes, Rails i Swift. Bez względu na to, jakiego tekstu użyjesz, powinieneś być przygotowany do egzekwowania swojego kodeksu postępowania, jeśli to konieczne.
+Podobnie jak licencje typu open source, pojawiają się również nowe standardy kodeksów postępowania, więc nie musisz pisać własnych. [Porozumienie dla współautorów](https://contributor-covenant.org/) to rozwijany kodeks postępowania używany przez [ponad 40 000 projektów open source](https://www.contributor-covenant.org/adopters), w tym Kubernetes, Rails i Swift. Bez względu na to, jakiego tekstu użyjesz, powinieneś być przygotowany do egzekwowania swojego kodeksu postępowania, jeśli to konieczne.
 
 Wklej tekst bezpośrednio do pliku CODE_OF_CONDUCT w repozytorium. Zachowaj plik w katalogu głównym projektu, aby łatwo go znaleźć i połączyć go z README.
 
@@ -225,7 +225,7 @@ Branding to coś więcej niż efektowne logo lub chwytliwa nazwa projektu. Chodz
 Wybierz nazwę, która jest łatwa do zapamiętania i najlepiej daje wyobrażenie o tym, co robi projekt. Na przykład:
 
 * [Sentry](https://github.com/getsentry/sentry) monitoruje aplikacje pod kątem zgłaszania awarii
-* [Thin] (https://github.com/macournoyer/thin) to szybki i prosty serwer internetowy Ruby
+* [Thin](https://github.com/macournoyer/thin) to szybki i prosty serwer internetowy Ruby
 
 Jeśli bazujesz na istniejącym projekcie, użycie ich nazwy jako prefiksu może pomóc wyjaśnić, co robi twój projekt (na przykład, [node-fetch](https://github.com/bitinn/node-fetch) przynosi `window.fetch` do Node.js).
 
@@ -233,13 +233,13 @@ Rozważ przede wszystkim przejrzystość. Kalambury są zabawne, ale pamiętaj, 
 
 ### Unikanie konfliktów nazw
 
-[Sprawdź projekty open source o podobnej nazwie] (http://ivantomic.com/projects/ospnc/), szczególnie jeśli korzystasz z tego samego języka lub ekosystemu. Jeśli twoje imię pokrywa się z popularnym istniejącym projektem, możesz pomylić odbiorców.
+[Sprawdź projekty open source o podobnej nazwie](http://ivantomic.com/projects/ospnc/), szczególnie jeśli korzystasz z tego samego języka lub ekosystemu. Jeśli twoje imię pokrywa się z popularnym istniejącym projektem, możesz pomylić odbiorców.
 
-Jeśli chcesz, aby witryna internetowa, uchwyt na Twitterze lub inne właściwości reprezentowały Twój projekt, upewnij się, że możesz uzyskać odpowiednie nazwy. Najlepiej jest [zarezerwować teraz te nazwy] (https://instantdomainsearch.com/) dla spokoju ducha, nawet jeśli jeszcze nie zamierzasz ich używać.
+Jeśli chcesz, aby witryna internetowa, uchwyt na Twitterze lub inne właściwości reprezentowały Twój projekt, upewnij się, że możesz uzyskać odpowiednie nazwy. Najlepiej jest [zarezerwować teraz te nazwy](https://instantdomainsearch.com/) dla spokoju ducha, nawet jeśli jeszcze nie zamierzasz ich używać.
 
 Upewnij się, że nazwa twojego projektu nie narusza żadnych znaków towarowych. Firma może poprosić cię o późniejsze wycofanie projektu, a nawet podjęcie kroków prawnych przeciwko tobie. To po prostu nie jest warte ryzyka.
 
-Możesz sprawdzić [WIPO Global Brand Database] (http://www.wipo.int/branddb/en/) pod kątem konfliktów znaków towarowych. Jeśli pracujesz w firmie, jest to jedna z rzeczy, w których [zespół prawny może ci pomóc] (../legal/).
+Możesz sprawdzić [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) pod kątem konfliktów znaków towarowych. Jeśli pracujesz w firmie, jest to jedna z rzeczy, w których [zespół prawny może ci pomóc](../legal/).
 
 Na koniec wykonaj szybkie wyszukiwanie w Google nazwy swojego projektu. Czy ludzie będą mogli łatwo znaleźć Twój projekt? Czy w wynikach wyszukiwania pojawia się coś jeszcze, czego nie chciałbyś, żeby zobaczyli?
 
@@ -261,13 +261,13 @@ Niezależnie od tego, czy jest to oficjalna dokumentacja, czy zwykły e-mail, st
 
 Używanie ciepłego, inkluzywnego języka (takiego jak „je”, nawet w odniesieniu do jednej osoby) może znacznie przyczynić się do tego, aby Twój projekt był przyjemny dla nowych współpracowników. Trzymaj się prostego języka, ponieważ wielu czytelników może nie być rodzimym językiem angielskim.
 
-Poza tym, jak piszesz słowa, twój styl kodowania może również stać się częścią marki twojego projektu. [Angular] (https://angular.io/guide/styleguide) i [jQuery] (https://contribute.jquery.org/style-guide/js/) to dwa przykłady projektów z rygorystycznymi stylami kodowania i wytycznymi.
+Poza tym, jak piszesz słowa, twój styl kodowania może również stać się częścią marki twojego projektu. [Angular](https://angular.io/guide/styleguide) i [jQuery](https://contribute.jquery.org/style-guide/js/) to dwa przykłady projektów z rygorystycznymi stylami kodowania i wytycznymi.
 
 Nie musisz pisać przewodnika po stylu dla swojego projektu, gdy dopiero zaczynasz, i może się okazać, że lubisz włączać różne style kodowania do swojego projektu. Ale powinieneś przewidzieć, w jaki sposób Twój styl pisania i kodowania może przyciągać lub zniechęcać różne typy ludzi. Najwcześniejsze etapy projektu to okazja do ustanowienia precedensu, który chcesz zobaczyć.
 
 ## Twoja lista kontrolna przed uruchomieniem
 
-Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznacz wszystkie pola? Jesteś gotowy! [Kliknij „opublikuj”] (https://help.github.com/articles/making-a-private-repository-public/) i poklep się po plecach.
+Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznacz wszystkie pola? Jesteś gotowy! [Kliknij „opublikuj”](https://help.github.com/articles/making-a-private-repository-public/) i poklep się po plecach.
 
 **Dokumentacja**
 
