@@ -22,7 +22,7 @@ Co sprawia, że Twój projekt jest inny lub interesujący? Dlaczego to stworzył
 
 Pamiętaj, że ludzie angażują się jako użytkownicy i ostatecznie stają się współpracownikami, ponieważ Twój projekt rozwiązuje dla nich problem. Gdy myślisz o przesłaniu i wartości projektu, spróbuj spojrzeć na nie z perspektywy potencjalnych użytkowników i współpracowników.
 
-Na przykład @robb używa przykładów kodu, aby jasno przekazać, dlaczego jego projekt [Kartografia] (https://github.com/robb/Cartography) jest przydatny:
+Na przykład @robb używa przykładów kodu, aby jasno przekazać, dlaczego jego projekt [Cartography](https://github.com/robb/Cartography) jest przydatny:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
