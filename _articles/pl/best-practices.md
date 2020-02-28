@@ -75,7 +75,7 @@ Jeśli spotykasz się z innymi opiekunami lub podejmujesz poważną decyzję na 
 
 W ten sposób każdy, kto dołączy do Twojej społeczności, będzie miał dostęp do tych samych informacji, co ktoś, kto był tam od lat.
 
-## Naucz się mówić 'nie'
+## Naucz się mówić nie
 
 Zapisałeś wszystko. Idealnie byłoby, gdyby każdy przeczytał twoją dokumentację, ale w rzeczywistości będziesz musiał przypomnieć innym, że ta wiedza istnieje.
 
