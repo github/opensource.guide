@@ -44,7 +44,7 @@ _Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwart
 
 Open source to nie tylko oprogramowanie. Możesz otworzyć wszystko, od zbiorów danych po książki. Sprawdź [GitHub Explore](https://github.com/explore), aby uzyskać pomysły na to, co jeszcze możesz otworzyć.
 
-### Czy open source oznacza „bezpłatnie”?
+### Czy open source oznacza bezpłatnie
 
 Jednym z największych losowań open source jest to, że nie kosztuje. „Bezpłatny” jest jednak produktem ubocznym ogólnej wartości open source.
 
