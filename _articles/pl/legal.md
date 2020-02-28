@@ -130,7 +130,7 @@ Na lepsze lub gorsze, warto poinformować ich, nawet jeśli jest to projekt osob
 
 * **Patenty:** Czy Twoja firma ubiega się o patent, którego otwarty projekt stanowiłby [ujawnienie publiczne](https://en.wikipedia.org/wiki/Public_disclosure)? Niestety możesz zostać poproszony o poczekanie (a może firma ponownie rozważy mądrość aplikacji). Jeśli oczekujesz wkładu w projekt od pracowników firm z dużymi portfelami patentów, Twój zespół prawny może chcieć, abyś użył licencji z wyraźnym udzieleniem patentu od autorów (takich jak Apache 2.0 lub GPLv3), lub dodatkowej umowy wnoszącej wkład ( patrz wyżej).
 
-* **Znaki towarowe:** Sprawdź dwukrotnie, czy nazwa twojego projektu [nie powoduje konfliktu z istniejącymi znakami towarowymi](https://github.com/github/opensource.guide/blob/master/starting-a-project/#avoiding-name-conflicts). Jeśli używasz w projekcie własnych znaków towarowych firmy, sprawdź, czy nie powoduje to żadnych konfliktów. [FOSSmarks](http://fossmarks.org/) to praktyczny przewodnik do zrozumienia znaków towarowych w kontekście projektów bezpłatnych i otwartych.
+* **Znaki towarowe:** Sprawdź dwukrotnie, czy nazwa twojego projektu [nie powoduje konfliktu z istniejącymi znakami towarowymi](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/starting-a-project.md#Unikanie-konfliktów-nazw). Jeśli używasz w projekcie własnych znaków towarowych firmy, sprawdź, czy nie powoduje to żadnych konfliktów. [FOSSmarks](http://fossmarks.org/) to praktyczny przewodnik do zrozumienia znaków towarowych w kontekście projektów bezpłatnych i otwartych.
 
 * **Prywatność:** Czy Twój projekt zbiera dane o użytkownikach? „Telefon do domu” do serwerów firmy? Twój zespół prawny może pomóc Ci w przestrzeganiu zasad firmy i przepisów zewnętrznych.
 
