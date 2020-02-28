@@ -41,7 +41,7 @@ Opiekun niekoniecznie musi być kimś, kto pisze kod dla twojego projektu. Może
 
 **Określenie "committer"** może zostać wykorzystane do odróżnienia dostępu do zatwierdzenia, który jest szczególnym rodzajem odpowiedzialności, od innych form wkładu.
 
-Chociaż możesz zdefiniować role swojego projektu w dowolny sposób, [rozważ użycie szerszych definicji](../how-to-contribute/#what-it-means-to-contribute) aby zachęcić więcej form wkładu. Możesz użyć ról przywódczych, aby formalnie rozpoznać osoby, które wniosły wybitny wkład w Twój projekt, niezależnie od ich umiejętności technicznych.
+Chociaż możesz zdefiniować role swojego projektu w dowolny sposób, [rozważ użycie szerszych definicji](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/how-to-contribute.md/#co-to-znaczy-przyczynić-się) aby zachęcić więcej form wkładu. Możesz użyć ról przywódczych, aby formalnie rozpoznać osoby, które wniosły wybitny wkład w Twój projekt, niezależnie od ich umiejętności technicznych.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
@@ -76,7 +76,7 @@ Po ustaleniu ról przywódczych nie zapomnij udokumentować, w jaki sposób ludz
 
 Narzędzia jak [Vossibility](https://github.com/icecrime/vossibility-stack) mogą pomóc Ci publicznie śledzić, kto przyczynia się (lub nie) do projektu. Dokumentowanie tych informacji pozwala uniknąć postrzegania przez społeczność, że opiekunowie są kliką, która podejmuje decyzje prywatnie.
 
-Wreszcie, jeśli Twój projekt jest w GitHub, rozważ przeniesienie projektu z konta osobistego do organizacji i dodanie co najmniej jednego administratora kopii zapasowych. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) ułatwiają zarządzanie uprawnieniami i wieloma repozytoriami oraz chronią dziedzictwo projektu poprzez [współwłasność](../building-community/#share-ownership-of-your-project).
+Wreszcie, jeśli Twój projekt jest w GitHub, rozważ przeniesienie projektu z konta osobistego do organizacji i dodanie co najmniej jednego administratora kopii zapasowych. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) ułatwiają zarządzanie uprawnieniami i wieloma repozytoriami oraz chronią dziedzictwo projektu poprzez [współwłasność](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/building-community.md/#udostępnij-własność-swojego-projektu).
 
 ## Kiedy powinienem dać komuś dostęp?
 
