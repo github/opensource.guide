@@ -102,7 +102,7 @@ Jeśli potrzebujesz specjalnego budżetu lub personelu na promocję, operacje i 
 
 Jeśli Twoim celem jest nauczenie się, jak współpracować z innymi lub zrozumieć, jak działa open source, rozważ przyczynienie się do istniejącego projektu. Zacznij od projektu, którego już używasz i który kochasz. Wkład w projekt może być tak prosty, jak poprawianie literówek lub aktualizacja dokumentacji.
 
-Jeśli nie masz pewności, jak rozpocząć pracę jako współpracownik, zapoznaj się z naszym [Jak przyczynić się do tworzenia otwartego oprogramowania](../how-to-contribute/).
+Jeśli nie masz pewności, jak rozpocząć pracę jako współpracownik, zapoznaj się z naszym [Jak przyczynić się do tworzenia otwartego oprogramowania](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/how-to-contribute.md).
 
 ## Uruchomienie własnego projektu open source
 
@@ -115,7 +115,7 @@ Bez względu na to, na jakim etapie zdecydujesz się na otwarcie projektu, każd
 * [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Code of conduct](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/code-of-conduct.md)
 
 Jako opiekun, te komponenty pomogą ci komunikować oczekiwania, zarządzać składkami i chronić prawa wszystkich osób (w tym własnych). Znacząco zwiększają twoje szanse na pozytywne doświadczenie.
 
@@ -133,7 +133,7 @@ Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. 
 
 ![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
-Jeśli masz inne pytania lub wątpliwości związane z aspektami prawnymi zarządzania projektem typu open source, [zapewniamy Ci ochronę](../legal/).
+Jeśli masz inne pytania lub wątpliwości związane z aspektami prawnymi zarządzania projektem typu open source, [zapewniamy Ci ochronę](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/legal.md).
 
 ### Pisanie README
 
@@ -239,7 +239,7 @@ Jeśli chcesz, aby witryna internetowa, uchwyt na Twitterze lub inne właściwo�
 
 Upewnij się, że nazwa twojego projektu nie narusza żadnych znaków towarowych. Firma może poprosić cię o późniejsze wycofanie projektu, a nawet podjęcie kroków prawnych przeciwko tobie. To po prostu nie jest warte ryzyka.
 
-Możesz sprawdzić [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) pod kątem konfliktów znaków towarowych. Jeśli pracujesz w firmie, jest to jedna z rzeczy, w których [zespół prawny może ci pomóc](../legal/).
+Możesz sprawdzić [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) pod kątem konfliktów znaków towarowych. Jeśli pracujesz w firmie, jest to jedna z rzeczy, w których [zespół prawny może ci pomóc](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/legal.md).
 
 Na koniec wykonaj szybkie wyszukiwanie w Google nazwy swojego projektu. Czy ludzie będą mogli łatwo znaleźć Twój projekt? Czy w wynikach wyszukiwania pojawia się coś jeszcze, czego nie chciałbyś, żeby zobaczyli?
 
