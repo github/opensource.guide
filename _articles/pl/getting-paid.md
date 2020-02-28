@@ -88,7 +88,7 @@ Jeśli nie masz istniejącego projektu typu open source, nad którym chciałbyś
 
 Wiele firm opracowuje programy typu open source, aby budować swoją markę i rekrutować talenty wysokiej jakości.
 
-@hueniverse, na przykład stwierdzono, że istnieją finansowe powody, aby uzasadnić [inwestycję Walmarta w open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). I @jamesgpearce stwierdził, że program open source Facebooka [zrobił różnicę] (https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) w rekrutacji:
+@hueniverse, na przykład stwierdzono, że istnieją finansowe powody, aby uzasadnić [inwestycję Walmarta w open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). I @jamesgpearce stwierdził, że program open source Facebooka [zrobił różnicę](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) w rekrutacji:
 
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
