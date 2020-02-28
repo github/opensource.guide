@@ -26,16 +26,16 @@ Tworząc społeczność, zastanów się, jak teoretycznie osoba na górze ście�
 
 Zacznij od dokumentacji:
 
-* **Ułatw innym korzystanie z Twojego projektu.** [Przyjazny README](../starting-a-project/#writing-a-readme) jasne przykłady kodu ułatwią rozpoczęcie pracy każdemu, kto wyląduje na Twoim projekcie.
-* **Wyjaśnij, jak wnieść wkład**, używając [twój plik CONTRIBUTING](../starting-a-project/#writing-your-contributing-guidelines) i aktualizując swoje issues.
+* **Ułatw innym korzystanie z Twojego projektu.** [Przyjazny README](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/starting-a-project.md/#pisanie-readme) jasne przykłady kodu ułatwią rozpoczęcie pracy każdemu, kto wyląduje na Twoim projekcie.
+* **Wyjaśnij, jak wnieść wkład**, używając [twój plik CONTRIBUTING](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/starting-a-project.md/#pisanie-swoich-wytycznych) i aktualizując swoje issues.
 * **Dobre pierwsze issues**: Aby pomóc nowym autorom w rozpoczęciu pracy, rozważ wyraźnie [problemy z etykietowaniem, które są na tyle proste, że początkujący mogą je rozwiązać](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub wyświetli te problemy w różnych miejscach na platformie, zwiększając użyteczny wkład i zmniejszając tarcie ze strony użytkowników zajmujących się problemami, które są zbyt trudne dla ich poziomu.
 
 [Ankieta GitHuba 2017 Open Source](http://opensourcesurvey.org/2017/) wykazała, że niekompletna lub myląca dokumentacja jest największym problemem dla użytkowników open source. Dobra dokumentacja zachęca ludzi do interakcji z Twoim projektem. W końcu ktoś otworzy problem lub wyciągnie prośbę. Użyj tych interakcji jako okazji do przeniesienia ich w dół ścieżki.
 
 * **Gdy ktoś nowy wyląduje w twoim projekcie, podziękuj mu za zainteresowanie!** Wystarczy jedno negatywne doświadczenie, aby ktoś już nie chciał wracać.
 * **Reaguj szybko.** Jeśli nie odpowiesz na ich problem przez miesiąc, są szanse, że już zapomnną o twoim projekcie.
-* **Miej otwarty umysł na typy wkładów, które akceptujesz.** Wielu autorów zaczyna od zgłoszenia błędu lub drobnej poprawki. Istnieje [wiele sposobów na wniesienie wkładu](../how-to-contribute/#what-it-means-to-contribute) do projektu. Pozwól ludziom pomóc, jak chcą pomóc.
-* **Jeśli masz wkład, z którym się nie zgadzasz,** podziękuj im za pomysł i [wyjaśnij dlaczego](../best-practices/#learning-to-say-no) to nie pasuje do zakresu projektu, zawierając link do odpowiedniej dokumentacji.
+* **Miej otwarty umysł na typy wkładów, które akceptujesz.** Wielu autorów zaczyna od zgłoszenia błędu lub drobnej poprawki. Istnieje [wiele sposobów na wniesienie wkładu](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/how-to-contribute.md#co-to-znaczy-przyczynić-się) do projektu. Pozwól ludziom pomóc, jak chcą pomóc.
+* **Jeśli masz wkład, z którym się nie zgadzasz,** podziękuj im za pomysł i [wyjaśnij dlaczego](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/best-practices.md#naucz-się-mówić-nie) to nie pasuje do zakresu projektu, zawierając link do odpowiedniej dokumentacji.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -129,7 +129,7 @@ Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśl
 
 Regularne debaty na temat trywialnych aspektów projektu odwracają uwagę innych, w tym ciebie, od koncentrowania się na ważnych zadaniach. Nowe osoby, które przybędą do Twojego projektu, mogą zobaczyć te rozmowy i nie chcą brać udziału.
 
-Kiedy zobaczysz negatywne zachowanie w twoim projekcie, wywołaj to publicznie. Wyjaśnij, życzliwym, ale zdecydowanym tonem, dlaczego ich zachowanie jest nie do przyjęcia. Jeśli problem będzie się powtarzał, być może będziesz musiał [poprosić ich o odejście](../code-of-conduct/#enforcing-your-code-of-conduct). Twój [kodeks postępowania](../code-of-conduct/) może być konstruktywnym przewodnikiem dla tych rozmów.
+Kiedy zobaczysz negatywne zachowanie w twoim projekcie, wywołaj to publicznie. Wyjaśnij, życzliwym, ale zdecydowanym tonem, dlaczego ich zachowanie jest nie do przyjęcia. Jeśli problem będzie się powtarzał, być może będziesz musiał [poprosić ich o odejście](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/code-of-conduct.md/#enforcing-your-code-of-conduct). Twój [kodeks postępowania](../code-of-conduct/) może być konstruktywnym przewodnikiem dla tych rozmów.
 
 ### Poznaj współpracowników tam, gdzie są
 
@@ -203,7 +203,7 @@ W większości przypadków, jeśli kultywujesz przyjazną, pełną szacunku spo�
 
 Gdy Twoja społeczność zmaga się z trudnym problemem, temperament może wzrosnąć. Ludzie mogą się złościć lub sfrustrować i wyładowywać się na sobie nawzajem lub na tobie.
 
-Twoim zadaniem jako opiekuna jest zapobieganie eskalacji tych sytuacji. Nawet jeśli masz silną opinię na ten temat, spróbuj zająć stanowisko moderatora lub facylitatora, zamiast skakać do walki i popychać swoje poglądy. Jeśli ktoś jest nieuprzejmy lub monopolizuje rozmowę, [działaj natychmiast](../building-community/#dont-tolerate-bad-actors) aby dyskusje były spokojne i owocne.
+Twoim zadaniem jako opiekuna jest zapobieganie eskalacji tych sytuacji. Nawet jeśli masz silną opinię na ten temat, spróbuj zająć stanowisko moderatora lub facylitatora, zamiast skakać do walki i popychać swoje poglądy. Jeśli ktoś jest nieuprzejmy lub monopolizuje rozmowę, [działaj natychmiast](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/building-community.md/#dont-tolerate-bad-actors) aby dyskusje były spokojne i owocne.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -221,7 +221,7 @@ Utrzymanie spokoju nie jest łatwe, ale wykazanie się przywództwem poprawia zd
 
 ### Traktuj swój plik README jak konstytucję
 
-Twój plik README to [więcej niż tylko zestaw instrukcji](../starting-a-project/#writing-a-readme). To także miejsce, w którym można porozmawiać o swoich celach, wizji produktu i mapie drogowej. Jeśli ludzie nadmiernie skupiają się na debacie na temat zalet konkretnej funkcji, pomocne może być ponowne przejrzenie pliku README i omówienie wyższej wizji projektu. Skupienie się na README powoduje również depersonalizację rozmowy, dzięki czemu możesz prowadzić konstruktywną dyskusję.
+Twój plik README to [więcej niż tylko zestaw instrukcji](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/starting-a-project.md/#pisanie-readme). To także miejsce, w którym można porozmawiać o swoich celach, wizji produktu i mapie drogowej. Jeśli ludzie nadmiernie skupiają się na debacie na temat zalet konkretnej funkcji, pomocne może być ponowne przejrzenie pliku README i omówienie wyższej wizji projektu. Skupienie się na README powoduje również depersonalizację rozmowy, dzięki czemu możesz prowadzić konstruktywną dyskusję.
 
 ### Skoncentruj się na podróży, a nie na celu
 
