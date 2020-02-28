@@ -95,7 +95,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 ### Czy lubisz projektować?
 
 * Przebuduj układy, aby poprawić użyteczność projektu
-* Przeprowadź badania użytkowników w celu reorganizacji i dopracowania nawigacji lub menu projektu, [jak sugeruje Drupal] (https://www.drupal.org/community-initicjatywy/drupal-core/usability)
+* Przeprowadź badania użytkowników w celu reorganizacji i dopracowania nawigacji lub menu projektu, [jak sugeruje Drupal](https://www.drupal.org/community-initicjatywy/drupal-core/usability)
 * Przygotuj przewodnik po stylu, aby projekt miał spójny wygląd
 * Twórz grafiki na koszulki lub nowe logo, tak jak zrobili to autorzy [hapi.js](https://github.com/hapijs/contrib/issues/68)
 
@@ -104,7 +104,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 * Napisz i popraw dokumentację projektu
 * Wybierz folder z przykładami pokazującymi, w jaki sposób projekt jest używany
 * Rozpocznij biuletyn dotyczący projektu lub wybieraj najważniejsze informacje z listy mailingowej
-* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA] (https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Napisz tłumaczenie dokumentacji projektu
 
 <aside markdown="1" class="pquote">
@@ -120,12 +120,12 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 ### Czy lubisz organizować?
 
 * Łącze do duplikatów problemów i sugeruj nowe etykiety problemów, aby utrzymać porządek
-* Przejrzyj otwarte problemy i sugeruj zamknięcie starych, [jak @nzakas zrobił dla ESLint] (https://github.com/eslint/eslint/issues/6765)
+* Przejrzyj otwarte problemy i sugeruj zamknięcie starych, [jak @nzakas zrobił dla ESLint](https://github.com/eslint/eslint/issues/6765)
 * Zadaj pytania wyjaśniające na temat ostatnio otwartych zagadnień, aby popchnąć dyskusję do przodu
 
 ### Czy lubisz kodować?
 
-* Znajdź otwarty problem do rozwiązania [jak @dianjin zrobił dla Ulotki] (https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Znajdź otwarty problem do rozwiązania [jak @dianjin zrobił dla Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Zapytaj, czy możesz pomóc napisać nową funkcję
 * Zautomatyzuj konfigurację projektu
 * Ulepsz oprzyrządowanie i testy
@@ -150,7 +150,7 @@ Na przykład:
 
 * @sindresorhus przygotowuje [listę „niesamowitych” list](https://github.com/sindresorhus/awesome)
 * @h5bp utrzymuje [listę potencjalnych pytań do rozmowy kwalifikacyjnej](https://github.com/h5bp/Front-end-Developer-Interview-Questions) dla kandydatów na programistów front-end
-* @stuartlynn a @ nicole-a-tesla stworzyła [zbiór zabawnych faktów na temat maskonurów](https://github.com/stuartlynn/puffin_facts)
+* @stuartlynn a @nicole-a-tesla stworzyła [zbiór zabawnych faktów na temat maskonurów](https://github.com/stuartlynn/puffin_facts)
 
 Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc w rozpoczęciu pracy w środowisku open source. Praca z projektami niewymagającymi kodu jest często mniej zastraszająca, a proces współpracy zwiększy Twoje zaufanie i doświadczenie.
 
