@@ -95,7 +95,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 ### Czy lubisz projektować?
 
 * Przebuduj układy, aby poprawić użyteczność projektu
-* Przeprowadź badania użytkowników w celu reorganizacji i dopracowania nawigacji lub menu projektu, [jak sugeruje Drupal](https://www.drupal.org/community-initicjatywy/drupal-core/usability)
+* Przeprowadź badania użytkowników w celu reorganizacji i dopracowania nawigacji lub menu projektu, [jak sugeruje Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Przygotuj przewodnik po stylu, aby projekt miał spójny wygląd
 * Twórz grafiki na koszulki lub nowe logo, tak jak zrobili to autorzy [hapi.js](https://github.com/hapijs/contrib/issues/68)
 
@@ -509,7 +509,7 @@ Po przesłaniu wkładu nastąpi jedna z następujących sytuacji:
 
 ### 😭 Nie dostaniesz odpowiedzi.
 
-Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](#a-checklist-before-you-contribute) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że Twój wkład nie uzyska odpowiedzi.
+Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/how-to-contribute.md#Lista-kontrolna-przed-wniesieniem-wkładu) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że Twój wkład nie uzyska odpowiedzi.
 
 Jeśli nie otrzymałeś odpowiedzi od ponad tygodnia, możesz grzecznie odpowiedzieć w tym samym wątku, prosząc kogoś o recenzję. Jeśli znasz nazwisko właściwej osoby do sprawdzenia swojego wkładu, możesz @-mentionować ją w tym wątku.
 
