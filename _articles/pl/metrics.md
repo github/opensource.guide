@@ -80,7 +80,7 @@ Ludzie znajdują Twój projekt i go używają. Następnym pytaniem, które chces
 
 Nigdy nie jest za wcześnie, aby zacząć myśleć o autorach. Bez udziału innych osób ryzykujesz, że wpadniesz w niezdrową sytuację, w której Twój projekt jest popularny (wiele osób go używa), ale nie jest wspierany (za mało czasu opiekuna na zaspokojenie popytu).
 
-Przechowywanie wymaga również [napływu nowych współautorów](http://blog.abigailcabunoc.com/increase-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), ponieważ wcześniej aktywni współautorzy w końcu przejdą dalej do innych rzeczy.
+Przechowywanie wymaga również [napływu nowych współautorów](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), ponieważ wcześniej aktywni współautorzy w końcu przejdą dalej do innych rzeczy.
 
 Przykłady wskaźników społeczności, które warto regularnie śledzić, obejmują:
 
