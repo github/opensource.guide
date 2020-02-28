@@ -32,7 +32,7 @@ Kiedy [tworzysz nowy projekt](https://help.github.com/articles/creating-a-new-re
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Upublicznienie projektu GitHub to nie to samo, co licencjonowanie projektu.** Projekty publiczne są objęte [Warunkami świadczenia usług GitHub] (https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-licytations-grants), który pozwala innym przeglądać i rozwidlać twój projekt, ale w przeciwnym razie twoja praca nie ma żadnych uprawnień.
+**Upublicznienie projektu GitHub to nie to samo, co licencjonowanie projektu.** Projekty publiczne są objęte [Warunkami świadczenia usług GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-licytations-grants), który pozwala innym przeglądać i rozwidlać twój projekt, ale w przeciwnym razie twoja praca nie ma żadnych uprawnień.
 
 Jeśli chcesz, aby inni używali, rozpowszechniali, modyfikowali lub wnieśli swój wkład z powrotem do twojego projektu, musisz dołączyć licencję typu open source. Na przykład, ktoś nie może legalnie wykorzystywać żadnej części twojego projektu GitHub w swoim kodzie, nawet jeśli jest on publiczny, chyba że wyraźnie mu to umożliwisz.
 
@@ -56,7 +56,7 @@ Kiedy tworzysz nowy projekt w GitHub, zostaniesz [poproszony o dodanie licencji]
 
 ## Która licencja typu open source jest odpowiednia dla mojego projektu?
 
-Jeśli zaczynasz od pustej listy, trudno jest pomylić się z [Licencją MIT] (https://choosealicense.com/licenses/mit/). Jest krótki, bardzo łatwy do zrozumienia i pozwala każdemu robić wszystko, o ile zachowuje kopię licencji, w tym informację o prawach autorskich. Jeśli zajdzie taka potrzeba, możesz wydać projekt na innej licencji.
+Jeśli zaczynasz od pustej listy, trudno jest pomylić się z [Licencją MIT](https://choosealicense.com/licenses/mit/). Jest krótki, bardzo łatwy do zrozumienia i pozwala każdemu robić wszystko, o ile zachowuje kopię licencji, w tym informację o prawach autorskich. Jeśli zajdzie taka potrzeba, możesz wydać projekt na innej licencji.
 
 W przeciwnym razie wybór odpowiedniej licencji typu open source dla twojego projektu zależy od twoich celów.
 
@@ -66,13 +66,13 @@ Z drugiej strony, jeśli którakolwiek licencja na twoje zależności jest „si
 
 Możesz także rozważyć **społeczności**, które mają nadzieję wykorzystać i przyczynić się do twojego projektu:
 
-* **Czy chcesz, aby Twój projekt był używany przez inne projekty jako zależność?** Prawdopodobnie najlepiej użyć najpopularniejszej licencji w odpowiedniej społeczności. Na przykład [MIT] (https://choosealicense.com/licenses/mit/) jest najpopularniejszą licencją dla [npm libraries](https://libraries.io/search?platforms=NPM).
-* **Czy chcesz, aby Twój projekt spodobał się dużym firmom?** Duży biznes prawdopodobnie będzie chciał uzyskać wyraźną licencję patentową od wszystkich autorów. W takim przypadku usługa [Apache 2.0] (https://choosealicense.com/licenses/apache-2.0/) obejmuje Ciebie (i ich).
-* **Czy chcesz, aby Twój projekt był atrakcyjny dla autorów, którzy nie chcą, aby ich wkład był wykorzystywany w oprogramowaniu zamkniętym?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) lub (jeśli nie chcą również wnosić wkładu do usług zamkniętego źródła) [AGPLv3] (https://choosealicense.com/licenses/agpl-3.0/) przejdzie dobrze.
+* **Czy chcesz, aby Twój projekt był używany przez inne projekty jako zależność?** Prawdopodobnie najlepiej użyć najpopularniejszej licencji w odpowiedniej społeczności. Na przykład [MIT](https://choosealicense.com/licenses/mit/) jest najpopularniejszą licencją dla [npm libraries](https://libraries.io/search?platforms=NPM).
+* **Czy chcesz, aby Twój projekt spodobał się dużym firmom?** Duży biznes prawdopodobnie będzie chciał uzyskać wyraźną licencję patentową od wszystkich autorów. W takim przypadku usługa [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) obejmuje Ciebie (i ich).
+* **Czy chcesz, aby Twój projekt był atrakcyjny dla autorów, którzy nie chcą, aby ich wkład był wykorzystywany w oprogramowaniu zamkniętym?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) lub (jeśli nie chcą również wnosić wkładu do usług zamkniętego źródła) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) przejdzie dobrze.
 
 Twoja **firma** może mieć określone wymagania licencyjne dla swoich projektów open source. Na przykład, może wymagać zezwolenia licencyjnego, aby firma mogła wykorzystać Twój projekt w zamkniętym źródłowym produkcie firmy. Lub Twoja firma może wymagać silnej licencji copyleft i dodatkowej umowy o współautorze (patrz poniżej), aby tylko Twoja firma i nikt inny nie mógł używać twojego projektu w oprogramowaniu zamkniętym. Lub Twoja firma może mieć pewne potrzeby związane ze standardami, odpowiedzialnością społeczną lub przejrzystością, z których każda może wymagać określonej strategii licencjonowania. Porozmawiaj z działem prawnym swojej firmy](#what-does-my-companys-legal-team-need-to-know).
 
-Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. Dołączenie jednej z wyżej wymienionych licencji sprawi, że Twój projekt GitHub stanie się open source. Jeśli chcesz zobaczyć inne opcje, sprawdź [choosealicense.com] (https://choosealicense.com), aby znaleźć odpowiednią licencję dla swojego projektu, nawet jeśli nie jest to [oprogramowanie] (https://choosealicense.com/non-software/).
+Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. Dołączenie jednej z wyżej wymienionych licencji sprawi, że Twój projekt GitHub stanie się open source. Jeśli chcesz zobaczyć inne opcje, sprawdź [choosealicense.com](https://choosealicense.com), aby znaleźć odpowiednią licencję dla swojego projektu, nawet jeśli nie jest to [oprogramowanie](https://choosealicense.com/non-software/).
 
 ## Co jeśli chcę zmienić licencję mojego projektu?
 
@@ -108,13 +108,13 @@ Ponadto poprzez dodanie „dokumentacji”, którą niektórzy uważają za niep
 
 Niektóre sytuacje, w których warto rozważyć zawarcie dodatkowej umowy wnoszącej wkład dla twojego projektu, obejmują:
 
-* Twoi prawnicy chcą, aby wszyscy współtwórcy wyraźnie zaakceptowali warunki udziału (_sign_, online lub offline), być może dlatego, że uważają, że sama licencja typu open source nie wystarczy (nawet jeśli jest!). Jeśli jest to jedyny problem, wystarczy umowa współtwórcy, która potwierdza licencję open source projektu. [Umowa licencyjna na indywidualnego dostawcę jQuery] (https://contribute.jquery.org/CLA/) jest dobrym przykładem niewielkiej dodatkowej umowy na współautora.
+* Twoi prawnicy chcą, aby wszyscy współtwórcy wyraźnie zaakceptowali warunki udziału (_sign_, online lub offline), być może dlatego, że uważają, że sama licencja typu open source nie wystarczy (nawet jeśli jest!). Jeśli jest to jedyny problem, wystarczy umowa współtwórcy, która potwierdza licencję open source projektu. [Umowa licencyjna na indywidualnego dostawcę jQuery](https://contribute.jquery.org/CLA/) jest dobrym przykładem niewielkiej dodatkowej umowy na współautora.
 * Ty lub twoi prawnicy chcielibyście, aby programiści oświadczyli, że każde dokonane przez nich zatwierdzenie jest dozwolone. Wymaganiem [Developer Certificate of Origin](https://developercertificate.org/) jest to, ile projektów to osiąga. Na przykład społeczność Node.js [używa](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md) DCO [zamiast](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) wcześniejszego CLA. Prostą opcją zautomatyzowania wymuszania kontroli DCO w repozytorium jest [DCO Probot](https://github.com/probot/dco).
-* Twój projekt wykorzystuje licencję typu open source, która nie obejmuje wyraźnej granty patentowej (takiej jak MIT), i potrzebujesz grantu patentowego od wszystkich autorów, z których niektórzy mogą pracować dla firm z dużymi portfelami patentowymi, które mogłyby być wykorzystane do Ciebie lub inni uczestnicy projektu i użytkownicy. [Umowa licencyjna na indywidualnego dostawcę Apache] (https://www.apache.org/licenses/icla.pdf) to powszechnie stosowana dodatkowa umowa na współautora, której udzielenie patentowe odzwierciedla kopię zawartą w licencji Apache 2.0.
-* Twój projekt jest objęty licencją copyleft, ale musisz także rozpowszechniać zastrzeżoną wersję projektu. Będziesz potrzebował każdego współtwórcy, aby przypisać Ci prawa autorskie lub udzielić (ale nie publicznie) zezwolenia na korzystanie z licencji. [Umowa współtwórcy MongoDB] (https://www.mongodb.com/legal/contributor-agreement) jest przykładem tego rodzaju umowy.
+* Twój projekt wykorzystuje licencję typu open source, która nie obejmuje wyraźnej granty patentowej (takiej jak MIT), i potrzebujesz grantu patentowego od wszystkich autorów, z których niektórzy mogą pracować dla firm z dużymi portfelami patentowymi, które mogłyby być wykorzystane do Ciebie lub inni uczestnicy projektu i użytkownicy. [Umowa licencyjna na indywidualnego dostawcę Apache](https://www.apache.org/licenses/icla.pdf) to powszechnie stosowana dodatkowa umowa na współautora, której udzielenie patentowe odzwierciedla kopię zawartą w licencji Apache 2.0.
+* Twój projekt jest objęty licencją copyleft, ale musisz także rozpowszechniać zastrzeżoną wersję projektu. Będziesz potrzebował każdego współtwórcy, aby przypisać Ci prawa autorskie lub udzielić (ale nie publicznie) zezwolenia na korzystanie z licencji. [Umowa współtwórcy MongoDB](https://www.mongodb.com/legal/contributor-agreement) jest przykładem tego rodzaju umowy.
 * Uważasz, że Twój projekt może wymagać zmiany licencji przez cały okres jego użytkowania i chcesz, aby współtwórcy zgodzili się z wyprzedzeniem na takie zmiany.
 
-Jeśli potrzebujesz skorzystać z dodatkowej umowy z dostawcą w swoim projekcie, rozważ zastosowanie integracji, takiej jak [asystent CLA] (https://github.com/cla-assistant/cla-assistant), aby zminimalizować rozproszenie współpracowników.
+Jeśli potrzebujesz skorzystać z dodatkowej umowy z dostawcą w swoim projekcie, rozważ zastosowanie integracji, takiej jak [asystent CLA](https://github.com/cla-assistant/cla-assistant), aby zminimalizować rozproszenie współpracowników.
 
 ## Co powinien wiedzieć zespół prawny mojej firmy?
 
