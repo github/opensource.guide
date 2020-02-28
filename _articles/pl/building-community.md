@@ -135,7 +135,7 @@ Kiedy zobaczysz negatywne zachowanie w twoim projekcie, wywołaj to publicznie. 
 
 Dobra dokumentacja staje się coraz ważniejsza w miarę rozwoju społeczności. Przypadkowi współpracownicy, którzy w innym przypadku mogliby nie znać Twojego projektu, czytają dokumentację, aby szybko uzyskać potrzebny im kontekst.
 
-W swoim pliku CONTRIBUTING wyraźnie powiedz nowym autorom, jak zacząć. Możesz nawet utworzyć specjalną sekcję do tego celu. [Django] (https://github.com/django/django), na przykład, ma specjalną stronę docelową, aby powitać nowych autorów.
+W swoim pliku CONTRIBUTING wyraźnie powiedz nowym autorom, jak zacząć. Możesz nawet utworzyć specjalną sekcję do tego celu. [Django](https://github.com/django/django), na przykład, ma specjalną stronę docelową, aby powitać nowych autorów.
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
@@ -165,15 +165,15 @@ Ludzie są podekscytowani, że mogą uczestniczyć w projektach, kiedy mają poc
 
 Sprawdź, czy możesz w jak największym stopniu znaleźć sposób na dzielenie się własnością ze społecznością. Oto kilka pomysłów:
 
-* **Odporne na naprawianie łatwych (niekrytycznych) błędów.** Zamiast tego wykorzystaj je jako okazję do rekrutacji nowych współpracowników lub mentora dla kogoś, kto chciałby się przyłączyć. Na początku może się to wydawać nienaturalne, ale z czasem inwestycja się zwróci. Na przykład @michaeljoseph poprosił współpracownika o przesłanie żądania ściągnięcia w sprawie [Cookiecutter] (https://github.com/audreyr/cookiecutter) poniżej, zamiast samemu go naprawić.
+* **Odporne na naprawianie łatwych (niekrytycznych) błędów.** Zamiast tego wykorzystaj je jako okazję do rekrutacji nowych współpracowników lub mentora dla kogoś, kto chciałby się przyłączyć. Na początku może się to wydawać nienaturalne, ale z czasem inwestycja się zwróci. Na przykład @michaeljoseph poprosił współpracownika o przesłanie żądania ściągnięcia w sprawie [Cookiecutter](https://github.com/audreyr/cookiecutter) poniżej, zamiast samemu go naprawić.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Uruchom plik CONTRIBUTORS lub AUTHORS w swoim projekcie** zawiera listę wszystkich, którzy przyczynili się do twojego projektu, takich jak [Sinatra] (https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Uruchom plik CONTRIBUTORS lub AUTHORS w swoim projekcie** zawiera listę wszystkich, którzy przyczynili się do twojego projektu, takich jak [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
 
 * Jeśli masz sporą społeczność, **wyślij biuletyn lub napisz post na blogu** dziękując autorom. Rusta [This Week in Rust](https://this-week-in-rust.org/) i Hoodie'ego [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) są dwoma dobrymi przykładami
 
-* **Daj dostęp każdemu współautorowi.** @felixge stwierdził, że to sprawiło, że ludzie [bardziej podekscytowani polerowaniem swoich łat] (https://felixge.de/2013/03/11/the-pull-request-hack.html), a nawet znalazł nowych opiekunów dla projektów, nad którymi on od jakiegoś czasu nie pracował.
+* **Daj dostęp każdemu współautorowi.** @felixge stwierdził, że to sprawiło, że ludzie [bardziej podekscytowani polerowaniem swoich łat](https://felixge.de/2013/03/11/the-pull-request-hack.html), a nawet znalazł nowych opiekunów dla projektów, nad którymi on od jakiegoś czasu nie pracował.
 
 * Jeśli Twój projekt jest w serwisie GitHub, **przenieś swój projekt z konta osobistego do [Organizacji](https://help.github.com/articles/creating-a-new-organization-account/)** i dodaj co najmniej jednego administratora kopii zapasowych. Organizacje ułatwiają pracę nad projektami z zewnętrznymi współpracownikami.
 
