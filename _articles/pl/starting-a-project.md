@@ -20,7 +20,7 @@ To znaczy, gdy projekt jest open source **każdy może swobodnie korzystać, stu
 
 Open source jest potężny, ponieważ obniża bariery adopcji i współpracy, umożliwiając ludziom szybkie rozprzestrzenianie i ulepszanie projektów. Również dlatego, że daje użytkownikom możliwość kontrolowania własnego przetwarzania w odniesieniu do zamkniętego źródła. Na przykład firma korzystająca z oprogramowania typu open source ma możliwość zatrudnienia kogoś, kto wprowadzi niestandardowe ulepszenia oprogramowania, zamiast polegać wyłącznie na decyzjach dostawcy zamkniętego źródła.
 
-_Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwarte źródło_. Czasami zobaczysz również [niniejsze warunki] (https://en.wikipedia.org/wiki/Free_and_open-source_software) w połączeniu jako „bezpłatne i otwarte oprogramowanie” (FOSS) lub „wolne, darmowe i otwarte oprogramowanie” (OPLĄT). _Free_ i _libre_ odnoszą się do wolności, [nie ceny](#does-open-source-mean-free-of-charge).
+_Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwarte źródło_. Czasami zobaczysz również [niniejsze warunki](https://en.wikipedia.org/wiki/Free_and_open-source_software) w połączeniu jako „bezpłatne i otwarte oprogramowanie” (FOSS) lub „wolne, darmowe i otwarte oprogramowanie” (OPLĄT). _Free_ i _libre_ odnoszą się do wolności, [nie ceny](#does-open-source-mean-free-of-charge).
 
 ### Dlaczego ludzie open source-ują swoją pracę?
 
@@ -36,13 +36,13 @@ _Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwart
 
 [Jest wiele powodów](https://ben.balter.com/2015/11/23/why-open-source/) dlaczego osoba lub organizacja chciałaby otworzyć projekt. Niektóre przykłady obejmują:
 
-* **Współpraca:** Projekty open source mogą akceptować zmiany od każdego na świecie. [Exercism] (https://github.com/exercism/), na przykład, jest platformą ćwiczeń programistycznych z ponad 350 uczestnikami.
+* **Współpraca:** Projekty open source mogą akceptować zmiany od każdego na świecie. [Exercism](https://github.com/exercism/), na przykład, jest platformą ćwiczeń programistycznych z ponad 350 uczestnikami.
 
-* **Adopcja i remiksowanie:** projekty open source mogą być wykorzystywane przez każdego do prawie dowolnego celu. Ludzie mogą nawet używać go do budowania innych rzeczy. [WordPress] (https://github.com/WordPress), na przykład, zaczął się jako rozwidlenie istniejącego projektu o nazwie[b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adopcja i remiksowanie:** projekty open source mogą być wykorzystywane przez każdego do prawie dowolnego celu. Ludzie mogą nawet używać go do budowania innych rzeczy. [WordPress](https://github.com/WordPress), na przykład, zaczął się jako rozwidlenie istniejącego projektu o nazwie[b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparentność:** Każdy może sprawdzić projekt open source pod kątem błędów lub niespójności. Przejrzystość ma znaczenie dla rządów takich jak [Bułgaria] (https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) lub [Stany Zjednoczone] (https://sourcecode.cio.gov/), regulowane branże, takie jak bankowość lub opieka zdrowotna, oraz oprogramowanie zabezpieczające, takie jak [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparentność:** Każdy może sprawdzić projekt open source pod kątem błędów lub niespójności. Przejrzystość ma znaczenie dla rządów takich jak [Bułgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) lub [Stany Zjednoczone](https://sourcecode.cio.gov/), regulowane branże, takie jak bankowość lub opieka zdrowotna, oraz oprogramowanie zabezpieczające, takie jak [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source to nie tylko oprogramowanie. Możesz otworzyć wszystko, od zbiorów danych po książki. Sprawdź [GitHub Explore] (https://github.com/explore), aby uzyskać pomysły na to, co jeszcze możesz otworzyć.
+Open source to nie tylko oprogramowanie. Możesz otworzyć wszystko, od zbiorów danych po książki. Sprawdź [GitHub Explore](https://github.com/explore), aby uzyskać pomysły na to, co jeszcze możesz otworzyć.
 
 ### Czy open source oznacza „bezpłatnie”?
 
@@ -127,7 +127,7 @@ Licencja typu open source gwarantuje, że inni mogą używać, kopiować, modyfi
 
 Legalna praca to nie zabawa. Dobrą wiadomością jest to, że możesz skopiować i wkleić istniejącą licencję do swojego repozytorium. Ochrona twojej ciężkiej pracy zajmie tylko chwilę.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), i [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) są najpopularniejszymi licencjami typu open source, ale [istnieją inne opcje] (https://choosealicense.com) do wyboru.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), i [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) są najpopularniejszymi licencjami typu open source, ale [istnieją inne opcje](https://choosealicense.com) do wyboru.
 
 Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. Dołączenie licencji open source sprawi, że Twój projekt GitHub stanie się open source.
 
@@ -168,7 +168,7 @@ Po dołączeniu pliku README do katalogu głównego GitHub automatycznie wyświe
 
 Plik CONTRIBUTING  mówi odbiorcom, jak wziąć udział w projekcie. Na przykład możesz podać informacje o:
 
-* Jak złożyć raport o błędzie (spróbuj użyć [szablonów zgłaszania problemów i pobierania] (https://github.com/blog/2111-issue-and-pull-request-templates))
+* Jak złożyć raport o błędzie (spróbuj użyć [szablonów zgłaszania problemów i pobierania](https://github.com/blog/2111-issue-and-pull-request-templates))
 * Jak zasugerować nową funkcję
 * Jak skonfigurować środowisko i uruchomić testy
 
@@ -180,7 +180,7 @@ Oprócz szczegółów technicznych plik CONTRIBUTING jest także okazją do wyra
 
 Używanie ciepłego, przyjaznego tonu i oferowanie konkretnych sugestii dotyczących wkładu (takich jak pisanie dokumentacji lub tworzenie strony internetowej) może znacznie przyczynić się do tego, że nowo przybyli poczują się mile widziani i podekscytowani uczestnictwem.
 
-Na przykład [Active Admin] (https://github.com/activeadmin/activeadmin/) uruchamia [swój przewodnik pomocniczy] (https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) z:
+Na przykład [Active Admin](https://github.com/activeadmin/activeadmin/) uruchamia [swój przewodnik pomocniczy](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) z:
 
 > Po pierwsze, dziękuję za rozważenie włączenia się w Active Admin. Ludzie tacy jak Ty sprawiają, że Active Admin jest tak doskonałym narzędziem.
 
