@@ -142,7 +142,7 @@ Ważne jest, aby traktować działalność komercyjną jako normalną i jako kol
 
 Jak wszyscy inni, programiści komercyjni zyskują wpływ na projekt dzięki jakości i ilości swoich wkładów. Oczywiście programista, który otrzymuje wynagrodzenie za swój czas, może zrobić więcej niż ktoś, kto nie jest opłacany, ale to w porządku: płatność jest tylko jednym z wielu możliwych czynników, które mogą mieć wpływ na to, ile ktoś robi. Dyskusje dotyczące projektu powinny koncentrować się na wkładach, a nie na czynnikach zewnętrznych, które umożliwiają ludziom wniesienie wkładu.
 
-## Czy potrzebuję osobowości prawnej do obsługi mojego projektu?
+## Czy potrzebuję osobowości prawnej do obsługi mojego projektu
 
 Nie potrzebujesz osoby prawnej do obsługi projektu open source, chyba że zajmujesz się pieniędzmi.
 
