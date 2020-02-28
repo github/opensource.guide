@@ -161,4 +161,4 @@ W dłuższej perspektywie Twój zespół prawny może zrobić więcej, aby pomó
 </aside>
 
 * **Patenty:** Twoja firma może dołączyć do [Open Invention Network](https://www.openinventionnetwork.com/), wspólnej puli patentów obronnych, aby chronić korzystanie przez członków z dużych projektów open source lub odkryć inne [alternatywne licencjonowanie patentów](https://www.eff.org/document/hacking-patent-system-2016).
-* **Zarządzanie:** Zwłaszcza jeśli i kiedy sensowne jest przeniesienie projektu do [podmiotu prawnego spoza firmy](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* **Zarządzanie:** Zwłaszcza jeśli i kiedy sensowne jest przeniesienie projektu do [podmiotu prawnego spoza firmy](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/leadership-and-governance.md/#Czy-potrzebuję-osobowości-prawnej-do-obsługi-mojego-projektu).
