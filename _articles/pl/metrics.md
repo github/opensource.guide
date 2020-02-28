@@ -23,7 +23,7 @@ Więcej informacji pozwala:
 * Zrozum, w jaki sposób używany jest twój projekt
 * Zbieraj pieniądze poprzez sponsoring i granty
 
-Na przykład [Homebrew] (https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) stwierdza, że Google Analytics pomaga im nadać priorytet pracy:
+Na przykład [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) stwierdza, że Google Analytics pomaga im nadać priorytet pracy:
 
 > Homebrew jest oferowany bezpłatnie i jest prowadzony wyłącznie przez wolontariuszy w wolnym czasie. W rezultacie nie mamy zasobów do przeprowadzenia szczegółowych badań użytkowników Homebrew, aby zdecydować, jak najlepiej zaprojektować przyszłe funkcje i nadać priorytet bieżącym pracom. Anonimowe zagregowane analizy użytkowników pozwalają nam nadawać priorytet poprawkom i funkcjom w oparciu o to, jak, gdzie i kiedy ludzie korzystają z Homebrew.
 
@@ -37,7 +37,7 @@ Zanim ktokolwiek będzie mógł wykorzystać Twój projekt lub wesprzeć go, mus
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Jeśli Twój projekt jest hostowany na GitHub, [możesz zobaczyć] (https://help.github.com/articles/about-repository-graphs/#traffic), ile osób wylądowało na twoim projekcie i skąd pochodzi. Na stronie projektu kliknij „Statystyki”, a następnie „Ruch”. Na tej stronie możesz zobaczyć:
+Jeśli Twój projekt jest hostowany na GitHub, [możesz zobaczyć](https://help.github.com/articles/about-repository-graphs/#traffic), ile osób wylądowało na twoim projekcie i skąd pochodzi. Na stronie projektu kliknij „Statystyki”, a następnie „Ruch”. Na tej stronie możesz zobaczyć:
 
 * **Łączna liczba wyświetleń strony:** Informuje, ile razy Twój projekt był oglądany
 
@@ -57,9 +57,9 @@ Ludzie znajdują Twój projekt w tej szalonej i szalonej rzeczy, którą nazywam
 
 Jeśli używasz menedżera pakietów, takiego jak npm lub RubyGems.org, do rozpowszechniania projektu, możesz być w stanie śledzić pobrania projektu.
 
-Każdy menedżer pakietów może używać nieco innej definicji „pobierania”, a pobieranie niekoniecznie koreluje z instalacjami lub użyciem, ale zapewnia pewną podstawę do porównania. Spróbuj użyć [Libraries.io] (https://libraries.io/) do śledzenia statystyk użytkowania wielu popularnych menedżerów pakietów.
+Każdy menedżer pakietów może używać nieco innej definicji „pobierania”, a pobieranie niekoniecznie koreluje z instalacjami lub użyciem, ale zapewnia pewną podstawę do porównania. Spróbuj użyć [Libraries.io](https://libraries.io/) do śledzenia statystyk użytkowania wielu popularnych menedżerów pakietów.
 
-Jeśli Twój projekt znajduje się na GitHub, ponownie przejdź do strony „Ruch drogowy”. Możesz użyć [wykres klonowania] (https://github.com/blog/1873-clone-graphs), aby zobaczyć, ile razy twój projekt został sklonowany w danym dniu, w podziale na całkowitą liczbę klonów i unikatowych klonerów.
+Jeśli Twój projekt znajduje się na GitHub, ponownie przejdź do strony „Ruch drogowy”. Możesz użyć [wykres klonowania](https://github.com/blog/1873-clone-graphs), aby zobaczyć, ile razy twój projekt został sklonowany w danym dniu, w podziale na całkowitą liczbę klonów i unikatowych klonerów.
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
@@ -80,7 +80,7 @@ Ludzie znajdują Twój projekt i go używają. Następnym pytaniem, które chces
 
 Nigdy nie jest za wcześnie, aby zacząć myśleć o autorach. Bez udziału innych osób ryzykujesz, że wpadniesz w niezdrową sytuację, w której Twój projekt jest popularny (wiele osób go używa), ale nie jest wspierany (za mało czasu opiekuna na zaspokojenie popytu).
 
-Przechowywanie wymaga również [napływu nowych współautorów] (http://blog.abigailcabunoc.com/increase-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), ponieważ wcześniej aktywni współautorzy w końcu przejdą dalej do innych rzeczy.
+Przechowywanie wymaga również [napływu nowych współautorów](http://blog.abigailcabunoc.com/increase-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), ponieważ wcześniej aktywni współautorzy w końcu przejdą dalej do innych rzeczy.
 
 Przykłady wskaźników społeczności, które warto regularnie śledzić, obejmują:
 
