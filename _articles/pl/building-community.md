@@ -79,7 +79,7 @@ Dokumentowanie wszystkiego dotyczy także wykonywanej pracy. Jeśli pracujesz na
 
 ### Bądź responsywny
 
-Jak [promujesz swój projekt](../finding-users), ludzie będą mieli dla ciebie opinie. Mogą mieć pytania dotyczące sposobu działania lub potrzebują pomocy na początku.
+Jak [promujesz swój projekt](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/finding-users.md), ludzie będą mieli dla ciebie opinie. Mogą mieć pytania dotyczące sposobu działania lub potrzebują pomocy na początku.
 
 Postaraj się reagować, gdy ktoś zgłosi problem, prześle pull request lub zadaje pytanie o Twój projekt. Gdy odpowiesz szybko, ludzie poczują, że są częścią dialogu i będą bardziej entuzjastycznie nastawieni do uczestnictwa.
 
@@ -129,7 +129,7 @@ Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśl
 
 Regularne debaty na temat trywialnych aspektów projektu odwracają uwagę innych, w tym ciebie, od koncentrowania się na ważnych zadaniach. Nowe osoby, które przybędą do Twojego projektu, mogą zobaczyć te rozmowy i nie chcą brać udziału.
 
-Kiedy zobaczysz negatywne zachowanie w twoim projekcie, wywołaj to publicznie. Wyjaśnij, życzliwym, ale zdecydowanym tonem, dlaczego ich zachowanie jest nie do przyjęcia. Jeśli problem będzie się powtarzał, być może będziesz musiał [poprosić ich o odejście](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/code-of-conduct.md/#enforcing-your-code-of-conduct). Twój [kodeks postępowania](../code-of-conduct/) może być konstruktywnym przewodnikiem dla tych rozmów.
+Kiedy zobaczysz negatywne zachowanie w twoim projekcie, wywołaj to publicznie. Wyjaśnij, życzliwym, ale zdecydowanym tonem, dlaczego ich zachowanie jest nie do przyjęcia. Jeśli problem będzie się powtarzał, być może będziesz musiał [poprosić ich o odejście](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/code-of-conduct.md/#enforcing-your-code-of-conduct). Twój [kodeks postępowania](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/code-of-conduct.md) może być konstruktywnym przewodnikiem dla tych rozmów.
 
 ### Poznaj współpracowników tam, gdzie są
 
