@@ -509,7 +509,7 @@ Po przesłaniu wkładu nastąpi jedna z następujących sytuacji:
 
 ### 😭 Nie dostaniesz odpowiedzi.
 
-Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](../how-to-contribute/#Lista-kontrolna-przed-wniesieniem-wkładu) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że Twój wkład nie uzyska odpowiedzi.
+Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](../how-to-contribute/#lista-kontrolna-przed-wniesieniem-wkładu) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że Twój wkład nie uzyska odpowiedzi.
 
 Jeśli nie otrzymałeś odpowiedzi od ponad tygodnia, możesz grzecznie odpowiedzieć w tym samym wątku, prosząc kogoś o recenzję. Jeśli znasz nazwisko właściwej osoby do sprawdzenia swojego wkładu, możesz @-mentionować ją w tym wątku.
 

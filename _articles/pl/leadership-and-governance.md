@@ -2,6 +2,7 @@
 lang: pl
 title: Przywództwo i zarządzanie
 description: Rosnące projekty open source mogą korzystać z formalnych zasad podejmowania decyzji.
+class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
 related:

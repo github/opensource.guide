@@ -20,7 +20,7 @@ To znaczy, gdy projekt jest open source **każdy może swobodnie korzystać, stu
 
 Open source jest potężny, ponieważ obniża bariery adopcji i współpracy, umożliwiając ludziom szybkie rozprzestrzenianie i ulepszanie projektów. Również dlatego, że daje użytkownikom możliwość kontrolowania własnego przetwarzania w odniesieniu do zamkniętego źródła. Na przykład firma korzystająca z oprogramowania typu open source ma możliwość zatrudnienia kogoś, kto wprowadzi niestandardowe ulepszenia oprogramowania, zamiast polegać wyłącznie na decyzjach dostawcy zamkniętego źródła.
 
-_Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwarte źródło_. Czasami zobaczysz również [niniejsze warunki](https://en.wikipedia.org/wiki/Free_and_open-source_software) w połączeniu jako „bezpłatne i otwarte oprogramowanie” (FOSS) lub „wolne, darmowe i otwarte oprogramowanie” (OPLĄT). _Free_ i _libre_ odnoszą się do wolności, [nie ceny](../starting-a-project/#Czy-open-source-oznacza-bezpłatnie).
+_Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwarte źródło_. Czasami zobaczysz również [niniejsze warunki](https://en.wikipedia.org/wiki/Free_and_open-source_software) w połączeniu jako „bezpłatne i otwarte oprogramowanie” (FOSS) lub „wolne, darmowe i otwarte oprogramowanie” (OPLĄT). _Free_ i _libre_ odnoszą się do wolności, [nie ceny](../starting-a-project/#czy-open-source-oznacza-bezpłatnie).
 
 ### Dlaczego ludzie open source-ują swoją pracę?
 
@@ -208,7 +208,7 @@ Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Je
 
 Wreszcie kodeks postępowania pomaga ustalić podstawowe zasady postępowania dla uczestników projektu. Jest to szczególnie cenne, jeśli uruchamiasz projekt open source dla społeczności lub firmy. Kodeks postępowania umożliwia ci zdrowe, konstruktywne zachowanie społeczności, które zmniejszy stres jako opiekuna.
 
-Aby uzyskać więcej informacji, zapoznaj się z naszym [Przewodnikiem Kodeksu Postępowania](https://github.com/github/opensource.guide/blob/master/code-of-conduct).
+Aby uzyskać więcej informacji, zapoznaj się z naszym [Przewodnikiem Kodeksu Postępowania](../code-of-conduct/).
 
 Oprócz informowania, w jaki sposób oczekuje się, że uczestnicy będą się zachowywać, kodeks postępowania ma również na celu opisanie, do kogo odnoszą się te oczekiwania, kiedy mają zastosowanie, i co zrobić, gdy nastąpi naruszenie.
 
