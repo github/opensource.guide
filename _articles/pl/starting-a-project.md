@@ -20,7 +20,7 @@ To znaczy, gdy projekt jest open source **każdy może swobodnie korzystać, stu
 
 Open source jest potężny, ponieważ obniża bariery adopcji i współpracy, umożliwiając ludziom szybkie rozprzestrzenianie i ulepszanie projektów. Również dlatego, że daje użytkownikom możliwość kontrolowania własnego przetwarzania w odniesieniu do zamkniętego źródła. Na przykład firma korzystająca z oprogramowania typu open source ma możliwość zatrudnienia kogoś, kto wprowadzi niestandardowe ulepszenia oprogramowania, zamiast polegać wyłącznie na decyzjach dostawcy zamkniętego źródła.
 
-_Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwarte źródło_. Czasami zobaczysz również [niniejsze warunki](https://en.wikipedia.org/wiki/Free_and_open-source_software) w połączeniu jako „bezpłatne i otwarte oprogramowanie” (FOSS) lub „wolne, darmowe i otwarte oprogramowanie” (OPLĄT). _Free_ i _libre_ odnoszą się do wolności, [nie ceny](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/starting-a-project.md#Czy-open-source-oznacza-bezpłatnie).
+_Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwarte źródło_. Czasami zobaczysz również [niniejsze warunki](https://en.wikipedia.org/wiki/Free_and_open-source_software) w połączeniu jako „bezpłatne i otwarte oprogramowanie” (FOSS) lub „wolne, darmowe i otwarte oprogramowanie” (OPLĄT). _Free_ i _libre_ odnoszą się do wolności, [nie ceny](../starting-a-project/#Czy-open-source-oznacza-bezpłatnie).
 
 ### Dlaczego ludzie open source-ują swoją pracę?
 
@@ -102,7 +102,7 @@ Jeśli potrzebujesz specjalnego budżetu lub personelu na promocję, operacje i 
 
 Jeśli Twoim celem jest nauczenie się, jak współpracować z innymi lub zrozumieć, jak działa open source, rozważ przyczynienie się do istniejącego projektu. Zacznij od projektu, którego już używasz i który kochasz. Wkład w projekt może być tak prosty, jak poprawianie literówek lub aktualizacja dokumentacji.
 
-Jeśli nie masz pewności, jak rozpocząć pracę jako współpracownik, zapoznaj się z naszym [Jak przyczynić się do tworzenia otwartego oprogramowania](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/how-to-contribute.md).
+Jeśli nie masz pewności, jak rozpocząć pracę jako współpracownik, zapoznaj się z naszym [Jak przyczynić się do tworzenia otwartego oprogramowania](../how-to-contribute/).
 
 ## Uruchomienie własnego projektu open source
 
@@ -115,7 +115,7 @@ Bez względu na to, na jakim etapie zdecydujesz się na otwarcie projektu, każd
 * [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/code-of-conduct.md)
+* [Code of conduct](../code-of-conduct/)
 
 Jako opiekun, te komponenty pomogą ci komunikować oczekiwania, zarządzać składkami i chronić prawa wszystkich osób (w tym własnych). Znacząco zwiększają twoje szanse na pozytywne doświadczenie.
 
@@ -133,7 +133,7 @@ Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. 
 
 ![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
-Jeśli masz inne pytania lub wątpliwości związane z aspektami prawnymi zarządzania projektem typu open source, [zapewniamy Ci ochronę](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/legal.md).
+Jeśli masz inne pytania lub wątpliwości związane z aspektami prawnymi zarządzania projektem typu open source, [zapewniamy Ci ochronę](../legal/).
 
 ### Pisanie README
 
@@ -239,7 +239,7 @@ Jeśli chcesz, aby witryna internetowa, uchwyt na Twitterze lub inne właściwo�
 
 Upewnij się, że nazwa twojego projektu nie narusza żadnych znaków towarowych. Firma może poprosić cię o późniejsze wycofanie projektu, a nawet podjęcie kroków prawnych przeciwko tobie. To po prostu nie jest warte ryzyka.
 
-Możesz sprawdzić [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) pod kątem konfliktów znaków towarowych. Jeśli pracujesz w firmie, jest to jedna z rzeczy, w których [zespół prawny może ci pomóc](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/legal.md).
+Możesz sprawdzić [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) pod kątem konfliktów znaków towarowych. Jeśli pracujesz w firmie, jest to jedna z rzeczy, w których [zespół prawny może ci pomóc](../legal/).
 
 Na koniec wykonaj szybkie wyszukiwanie w Google nazwy swojego projektu. Czy ludzie będą mogli łatwo znaleźć Twój projekt? Czy w wynikach wyszukiwania pojawia się coś jeszcze, czego nie chciałbyś, żeby zobaczyli?
 

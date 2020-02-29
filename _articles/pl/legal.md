@@ -130,7 +130,7 @@ Na lepsze lub gorsze, warto poinformować ich, nawet jeśli jest to projekt osob
 
 * **Patenty:** Czy Twoja firma ubiega się o patent, którego otwarty projekt stanowiłby [ujawnienie publiczne](https://en.wikipedia.org/wiki/Public_disclosure)? Niestety możesz zostać poproszony o poczekanie (a może firma ponownie rozważy mądrość aplikacji). Jeśli oczekujesz wkładu w projekt od pracowników firm z dużymi portfelami patentów, Twój zespół prawny może chcieć, abyś użył licencji z wyraźnym udzieleniem patentu od autorów (takich jak Apache 2.0 lub GPLv3), lub dodatkowej umowy wnoszącej wkład ( patrz wyżej).
 
-* **Znaki towarowe:** Sprawdź dwukrotnie, czy nazwa twojego projektu [nie powoduje konfliktu z istniejącymi znakami towarowymi](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/starting-a-project.md#Unikanie-konfliktów-nazw). Jeśli używasz w projekcie własnych znaków towarowych firmy, sprawdź, czy nie powoduje to żadnych konfliktów. [FOSSmarks](http://fossmarks.org/) to praktyczny przewodnik do zrozumienia znaków towarowych w kontekście projektów bezpłatnych i otwartych.
+* **Znaki towarowe:** Sprawdź dwukrotnie, czy nazwa twojego projektu [nie powoduje konfliktu z istniejącymi znakami towarowymi](../starting-a-project/#Unikanie-konfliktów-nazw). Jeśli używasz w projekcie własnych znaków towarowych firmy, sprawdź, czy nie powoduje to żadnych konfliktów. [FOSSmarks](http://fossmarks.org/) to praktyczny przewodnik do zrozumienia znaków towarowych w kontekście projektów bezpłatnych i otwartych.
 
 * **Prywatność:** Czy Twój projekt zbiera dane o użytkownikach? „Telefon do domu” do serwerów firmy? Twój zespół prawny może pomóc Ci w przestrzeganiu zasad firmy i przepisów zewnętrznych.
 
@@ -161,4 +161,4 @@ W dłuższej perspektywie Twój zespół prawny może zrobić więcej, aby pomó
 </aside>
 
 * **Patenty:** Twoja firma może dołączyć do [Open Invention Network](https://www.openinventionnetwork.com/), wspólnej puli patentów obronnych, aby chronić korzystanie przez członków z dużych projektów open source lub odkryć inne [alternatywne licencjonowanie patentów](https://www.eff.org/document/hacking-patent-system-2016).
-* **Zarządzanie:** Zwłaszcza jeśli i kiedy sensowne jest przeniesienie projektu do [podmiotu prawnego spoza firmy](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/leadership-and-governance.md/#Czy-potrzebuję-osobowości-prawnej-do-obsługi-mojego-projektu).
+* **Zarządzanie:** Zwłaszcza jeśli i kiedy sensowne jest przeniesienie projektu do [podmiotu prawnego spoza firmy](../leadership-and-governance/#Czy-potrzebuję-osobowości-prawnej-do-obsługi-mojego-projektu).

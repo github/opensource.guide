@@ -171,7 +171,7 @@ Jednym ze sposobów na pozyskanie nowych współpracowników jest jawne [label i
 
 Gdy zobaczysz, że nowi współautorzy wnoszą powtarzający się wkład, rozpoznaj ich pracę, oferując większą odpowiedzialność. Udokumentuj, w jaki sposób inni mogą stać się przywódcami, jeśli chcą.
 
-Zachęcanie innych do [współdzielenia własności projektu](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/pl/building-community.md/#Udostępnij-własność-swojego-projektu) może znacznie zmniejszyć własne obciążenie pracą, jak odkrył @lmccart w swoim projekcie, [p5.js](https://github.com/processing/p5.js).
+Zachęcanie innych do [współdzielenia własności projektu](../building-community/#Udostępnij-własność-swojego-projektu) może znacznie zmniejszyć własne obciążenie pracą, jak odkrył @lmccart w swoim projekcie, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
