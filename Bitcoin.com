@@ -1,15 +1,32 @@
 # Contributor Covenant Code of Conduct
 
-## Our Pledge
-
+## Our chikita Isaac
+Add Bitcoin to Varo.com.chikitaisaac123@gmail.com
+chikitaisaac123@gmail.com and Bitcoin.com
+Chikita Isaac
+Lili.comfreelancer.com
+chikitaisaac123@gmail.com
+Litcoin.com
+Google maps.com
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level of experience,
 nationality, personal appearance, race, religion, or sexual identity and
 orientation.
+chikitaisaac123@gmail.com
+🐕.coM
+Gifhhub.com
+Googlepay.com
+Googlepay.com
+HSBC.bank.com
+Walerous.com
+HSBC.com
+Walerous.com
+Ripple.com
 
-## Our Standards
+
+## Our Stand
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -31,7 +48,16 @@ advances
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## Our Responsibilities
+## Our Responsibilities add Bitcoin to Varo.com.chikitaisaac123@gmail.com
+Also crypto currency exchange to Varo.com.chikitaisaac123@gmail.com
+Lili.com
+Google pay.com
+HSBC.com
+🐕.coM
+Nerdwallet.com
+Zendesk.com
+Google maps.com
+Coinbase.com
 
 Project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
@@ -43,7 +69,8 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
-## Scope
+## Scope add Bitcoin to Varo.com.chikitaisaac123@gmail.com
+Account also Google drive to Bitcoin 
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
@@ -53,7 +80,10 @@ representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
 ## Enforcement
-
+Add Bitcoin to Varo.com.chikitaisaac123@gmail.com
+Lili.com
+Litcoin.com
+HSBC.com.gif.com
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting opensource@github.com, which is a shared team inbox. If the incident involves someone who receives that shared inbox, you can contact an individual maintainer (@bkeepers or @nayafia) at ```GitHub username``` + ```@github.com```. All
 complaints will be reviewed and investigated and will result in a response that
@@ -65,10 +95,10 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-## Attribution
+## Attribution chikitaisaac123@gmail.com 
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
 available at [https://contributor-covenant.org/version/1/4][version]
 
-[homepage]: https://contributor-covenant.org
-[version]: https://contributor-covenant.org/version/1/4/
+[homepage]: https://contributor-.chikitaisaac123@gmail.com
+[version]: https://contributor-Chikita Isaac Chikita*Isaac.org/version/1/4/
