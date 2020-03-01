@@ -179,7 +179,7 @@ Si necesitas alejarte de tu proyecto, ya sea por un tiempo o permanentemente, no
 
 Si otras personas son entusiastas acerca de la direcci&oacute;n del proyecto, dales permiso para relizar commits o formalmente entr&eacute;gale el control a alguien m&aacute;s. Si alguien realiz&oacute; un fork de tu proyecto y lo est&aacute; manteniendo activamente en otro lugar, considera enlazar el fork desde tu proyecto original. ¡Es genial que tantas personas quieran que tu proyecto crezca!
 
-@progrium [encontr&oacute; que](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentar la visi&oacute;n de su proyecto, [Dokku](https://github.com/dokku/dokku), ayud&oacute; a esos objetivos a perdurar, incluso despu&eacute;s de que se alej&oacute; del proyecto:
+@progrium [encontr&oacute; que](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentar la visi&oacute;n de su proyecto, [Dokku](https://github.com/dokku/dokku), ayud&oacute; a esos objetivos a perdurar, incluso despu&eacute;s de que se alej&oacute; del proyecto:
 
 > Escrib&iacute; una p&aacute;gina wiki describiendo lo que quer&iacute;a y por qu&eacute; lo quer&iacute;a. ¡Por alguna raz&oacute;n me sorprendi&oacute; que los mantenedores comenzaran a mover el proyecto en esa direcci&oacute;n! ¿Sucedi&oacute; exactamente c&oacute;mo lo har&iacute;a? No siempre. Pero a&uacute;n as&iacute; acerc&oacute; el proyecto a lo que quer&iacute;a.
 

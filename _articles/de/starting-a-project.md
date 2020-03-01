@@ -18,16 +18,9 @@ Sie denken also über einen Sprung in die Open-Source-Welt nach? Herzlichen Glü
 
 Ein Open-Source-Projekt kann von **jedem Menschen für jeden Zweck verwendet, inspiziert, modifiziert und weiterverbreitet werden.** Diese Rechte werden [mittels einer Open-Source-Lizenz durchgesetzt](https://opensource.org/licenses).
 
-Open Source ist leistungsstark, weil es Akzeptanzbarrieren senkt und Ideen schneller verbreiten lässt.
+Open Source ist so mächtig, weil es Barrieren für Nutzung und Zusammenarbeit senkt und Personen somit ermöglicht, Ideen schneller zu verbreiten und Dinge schneller zu verbessern. Zudem ermöglicht es den Benutzer\*inn\*n, ihr eigenes Computing besser unter Kontrolle zu behalten, als mit proprietären Lösungen. Ein Unternehmen, das Open-Source-Software verwendet, kann beispielsweise jemanden einstellen, um maßgeschneiderte Verbesserungen an der Software vorzunehmen, anstatt von den Produktentscheidungen des Anbieters abhängig zu sein.
 
-Um zu verstehen, wie es funktioniert, stellen Sie sich vor, eine Freundin von Ihnen lädt zur Grillparty ein und Sie bringen einen Kartoffelsalat mit.
-
-* Alle probiere den Salat (_verwenden_)
-* Er ist der Hit! Andere Gäste fragen Sie nach dem Rezept, das Sie auch gerne nennen (_inspizieren_)
-* Ihr süddeutscher Freund Alex schlägt vor, weniger Majo zu nehmen (_modifizieren_)
-* Eine andere Freundin, Lisa, möchte den Salat für ein Abendessen nächste Woche selbst ausprobieren (_weiterverbreiten_)
-
-Zum Vergleich: Closed-Source entspricht einem Restaurantbesuch mit der Bestellung einer Portion Kartoffelsalat. Sie müssen eine Gebühr zahlen, um ihn zu essen, und das Restaurant wird Ihnen das Rezept wahrscheinlich nicht geben. Wenn Sie den Salat genau kopieren und unter Ihrem eigenen Namen verkaufen würden, könnte das Restaurant gegen Sie vorgehen.
+_Freie Software_ meint dieselbe Art von Projekten wie _Open Source_. Der [Begriff](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) wird manchmal auch kombiniert mit "Freie/Libre und Open-Source-Software" (FOSS bzw. FLOSS). _Frei_ und _Libre_ meinen hierbei die Freiheit, nicht den [Preis](#bedeutet-open-source-auch-gratis).
 
 ### Warum öffnen Menschen den Quellcode ihrer Software?
 
@@ -49,7 +42,7 @@ Zum Vergleich: Closed-Source entspricht einem Restaurantbesuch mit der Bestellun
 
 * **Anpassungen:** Open-Source-Projekte können von jedem Menschen für fast jeden Zweck benutzt werden. Leute können daraus sogar andere Dinge bauen. [WordPress](https://github.com/WordPress) beispielsweise begann als ein Fork eines existierenden Projekts namens [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparenz:** In einem Open-Source-Projekt können Fehler oder Ungereimtheiten von jedem behoben werden. Transparenz ist sowohl für Regierungen in [Bulgarien](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) oder den [Vereinigten Staaten](https://web.archive.org/web/20180306072551/https://sourcecode.cio.gov/), für regulierte Industrien wie den Banken- oder Gesundheitssektor, und für Sicherheitssoftware wie [Let's Encrypt](https://github.com/letsencrypt) gleichermaßen wichtig.
+* **Transparenz:** In einem Open-Source-Projekt können Fehler oder Ungereimtheiten von jedem behoben werden. Transparenz ist sowohl für Regierungen in [Bulgarien](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) oder den [Vereinigten Staaten](https://web.archive.org/web/20180306072551/https://sourcecode.cio.gov/), für regulierte Industrien wie den Banken- oder Gesundheitssektor und für Sicherheitssoftware wie [Let's Encrypt](https://github.com/letsencrypt) gleichermaßen wichtig.
 
 Open Source ist nicht nur für Software, sondern auch für alle anderen Bereiche geeignet, von Datensätzen bis hin zu Büchern. Stöbern Sie durch [GitHub Explore](https://github.com/explore), um einen Eindruck der thematischen Breite von Open-Source-Projekten zu bekommen.
 
@@ -57,27 +50,27 @@ Open Source ist nicht nur für Software, sondern auch für alle anderen Bereiche
 
 Einer der größten Vorteile von Open Source ist, dass es kein Geld kostet. "Gratis" dagegen ist nur ein Nebenprodukt des Gesamtwertes.
 
-Weil [eine Open-Source-Lizense bedingt](https://opensource.org/osd-annotated), dass jede\*r die Software nutzen, modifizieren, und weiterverbreiten darf (für nahezu jeden Zweck), nehmen die Projekte selbst meist kein Geld dafür. Wenn sie es täten, könnte jede\*r ganz legal das Projekte kopieren und die dann freie Version nutzen.
+Weil [eine Open-Source-Lizenz bedingt](https://opensource.org/osd-annotated), dass jede\*r die Software nutzen, modifizieren, und weiterverbreiten darf (für nahezu jeden Zweck), nehmen die Projekte selbst meist kein Geld dafür. Wenn sie es täten, könnte jede\*r ganz legal die Projekte kopieren und die dann freie Version nutzen.
 
-Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppellizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin einzuhalten.
+Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppel-Lizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin einzuhalten.
 
 ## Sollte ich mein eigenes Open-Source-Projekt starten?
 
-Die kurze Antwort ist "Ja!", denn egal wie das Ergebnis aussieht: Ein eigenes Projekt zu starten, ist eine großartige Möglichkeit zu lernen, wie Open Source funktioniert.
+Die kurze Antwort ist "Ja!", denn egal wie das Ergebnis aussieht: Ein eigenes Projekt zu starten ist eine großartige Möglichkeit zu lernen, wie Open Source funktioniert.
 
-Wenn Sie noch nie den Quellcode eines Projektes geöffnet haben, werden Sie vielleicht nervös darüber sein, was die Leute sagen werden, oder ob es jemandem auffallen wird. Mit diesen Bedenken wären Sie nicht allein!
+Wenn Sie noch nie den Quellcode eines Projektes geöffnet haben, werden Sie vielleicht nervös darüber sein, was die Leute sagen werden, oder ob es jemandem auffallen wird. Mit diesen Bedenken sind Sie nicht allein!
 
-Open-Source-Arbeit ist eine kreative Aktivität wie Schreiben oder Malen, oder anderes. Es kann beängstigend sein, seine Arbeit mit der Welt zu teilen, aber der einzige Weg besser zu werden, ist zu üben - auch wenn man kein Publikum hat.
+Open-Source-Arbeit ist eine kreative Aktivität wie Schreiben oder Malen, oder anderes. Es kann beängstigend sein, seine Arbeit mit der Welt zu teilen. Jedoch ist Übung der einzige Weg besser zu werden, auch wenn man kein Publikum hat.
 
 Wenn Sie noch nicht überzeugt sind, nehmen Sie sich einen Moment Zeit, um darüber nachzudenken, was Ihre Ziele sein könnten.
 
 ### Ihre Ziele definieren
 
-Ziele können Ihnen helfen, herauszufinden, woran Sie arbeiten sollen, was Sie ablehnen sollen und wo Sie Hilfe von anderen brauchen. Fragen Sie sich zuerst: _Warum öffne ich dieses Projekt?_
+Ziele können Ihnen helfen, herauszufinden, woran Sie arbeiten sollen, was Sie ablehnen sollten und wo Sie Hilfe von anderen brauchen. Fragen Sie sich zuerst: _Warum öffne ich dieses Projekt?_
 
 Es gibt keine richtige Antwort auf diese Frage. Vielleicht haben Sie mehrere Ziele für ein einzelnes Projekt oder verschiedene Projekte mit unterschiedlichen Zielen.
 
-Wenn es Ihr einziges Ziel ist, Ihre Arbeit zu zeigen, wollen Sie vielleicht nicht einmal Beiträge, und sagen dies sogar in Ihrer README. Andererseits, wenn Sie sich Beiträge wünschen: Investieren Sie Zeit in eine klare Dokumentation, damit sich Neuankömmlinge willkommen fühlen.
+Wenn es Ihr einziges Ziel ist, Ihre Arbeit zu zeigen, wollen Sie vielleicht nicht einmal Beiträge und sagen dies sogar in Ihrer README. Andererseits, wenn Sie sich Beiträge wünschen: Investieren Sie Zeit in eine klare Dokumentation, damit sich Neuankömmlinge willkommen fühlen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
@@ -113,13 +106,13 @@ Wenn Sie ein dediziertes Budget oder Personal für Werbung, Betrieb und Wartung 
 
 ### Zu anderen Projekten beitragen
 
-Wenn Ihr Ziel das Lernen ist, wie man mit anderen zusammenarbeitet oder wie Open Source funktioniert, sollten Sie in Erwägung ziehen, zu einem bestehenden Projekt beizutragen. Dies kann so einfach sein wie die Korrektur von Tippfehlern oder das Aktualisieren der Dokumentation.
+Ist Ihr Ziel zu lernen, wie man mit anderen zusammenarbeitet oder wie Open Source funktioniert, sollten Sie in Erwägung ziehen zu einem bestehenden Projekt beizutragen. Dies kann so einfach sein wie die Korrektur von Tippfehlern oder das Aktualisieren der Dokumentation.
 
 Wenn Sie sich nicht sicher sind, wie Sie als Mitwirkende\*r anfangen können, schauen Sie sich unseren Artikel "[Wie zu Open Source beitragen?](../how-to-contribute/)" an.
 
 ## Ein eigenes Open-Source-Projekt starten
 
-Es gibt keine perfekte Zeit, um Ihre Arbeit zu veröffentlichen. Sie können eine Idee, ein in Arbeit befindliches Projekt, oder ein Jahre altes Closed-Source-Pröjekt öffnen.
+Es gibt keine perfekte Zeit, um Ihre Arbeit zu veröffentlichen. Sie können eine Idee, ein in Arbeit befindliches Projekt, oder ein Jahre altes Closed-Source-Projekt öffnen.
 
 Im Prinzip immer, wenn Sie sich sicher sind, dass andere Ihre Arbeit sehen sollten, und Feedback dazu geben.
 
@@ -136,7 +129,7 @@ Wenn sich Ihr Projekt auf GitHub befindet, können Sie diese Dateien mit den emp
 
 ### Eine Lizenz auswählen
 
-Eine Open-Source-Lizenz garantiert, dass andere Ihr Projekt ohne Nebenwirkungen nutzen, kopieren, modifizieren und wieder einbringen können, und schützt Sie vor unangenehmen rechtlichen Situationen. **Wenn Sie ein Open-Source-Projekt starten, müssen Sie eine Lizenz angeben.**
+Eine Open-Source-Lizenz garantiert, dass andere Ihr Projekt ohne Nebenwirkungen nutzen, kopieren, modifizieren und wieder einbringen können und schützt Sie vor unangenehmen rechtlichen Situationen. **Wenn Sie ein Open-Source-Projekt starten, müssen Sie eine Lizenz angeben.**
 
 Rechtsangelegenheiten sind kein Spaß. Die gute Nachricht ist, dass Sie eine bestehende Lizenz kopieren und in Ihr Repository einfügen können. Es dauert also nur eine Minute, Ihre harte Arbeit zu schützen.
 
@@ -185,13 +178,14 @@ Eine CONTRIBUTING-Datei erklärt Ihrem Publikum, wie es zu Ihrem Projekt beitrag
 
 * Wie eine Fehlerbericht eingereicht werden kann (probieren Sie hierfür die [Issue- und Pull-Request-Vorlagen](https://github.com/blog/2111-issue-and-pull-request-templates))
 * Wie neue Funktionen vorgeschlagen werden sollten
-* Wie die Entwicklungsumgebung eingerichtet wird, und wie getestet wird
+* Wie die Entwicklungsumgebung eingerichtet wird
+* Wie getestet wird
 
 Neben thematischen Details präsentiert die CONTRIBUTING-Datei auch Ihre Erwartungen an Beiträge, z.B:
 
 * Die Beitragsarten, die Sie gerne hätten
 * Ihre Planungen und Ziele für das Projekt
-* Wie Beitragseinreicher\*innen Sie kontaktieren sollten (oder auch nicht)
+* Wie Beitrags-Einreicher\*innen Sie kontaktieren sollten (oder auch nicht)
 
 Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge (wie z.B. "Dokumentationen verfassen" oder "eine Website erstellen") können Sie dazu beitragen, dass sich Neuankömmlinge willkommen und begeistert fühlen.
 
@@ -227,17 +221,17 @@ Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bem
 
 Letztendlich hilft ein Verhaltenskodex, Grundregeln für das Verhalten der Projektbeteiligten festzulegen. Insbesondere wenn Sie ein Open-Source-Projekt für eine Community oder ein Unternehmen starten. Ein Verhaltenskodex hilft Ihnen, ein gesundes, konstruktives Gemeinschaftsverhalten zu fördern, das Ihnen als Maintainer\*in Stress erspart.
 
-Weitere Information finden Sie in unserer [Anleitung für Verhaltenskodices](../code-of-conduct/).
+Weitere Information finden Sie in unserer [Anleitung für Verhaltenskodizes](../code-of-conduct/).
 
 Neben der Klarstellung _welches_ Verhalten Sie von den Teilnehmer\*innen erwarten, beschreibt ein Verhaltenskodex auch, auf wen sich diese Erwartungen beziehen, wann sie gelten und was zu tun ist, wenn ein Verstoß vorliegt.
 
-Ähnlich zu Open-Source-Lizenzen, kommen auch Standards für Verhaltenskodices auf, sodass Sie keinen komplett eigenen schreiben müssen. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein einsatzbereiter Verhaltenskodex, der von [über 40'000 Open-Source-Projekten](http://contributor-covenant.org/adopters/) verwendet wird, einschließlich Kubernetes, Rails und Swift. Egal welchen Text Sie nutzen, Sie sollten vorbereitet sein, ihn wenn nötig auch durchzusetzen.
+Ähnlich zu Open-Source-Lizenzen, kommen auch Standards für Verhaltenskodizes auf, sodass Sie keinen komplett eigenen schreiben müssen. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein einsatzbereiter Verhaltenskodex, der von [über 40'000 Open-Source-Projekten](http://contributor-covenant.org/adopters/) verwendet wird, einschließlich Kubernetes, Rails und Swift. Egal welchen Text Sie nutzen, Sie sollten vorbereitet sein, ihn wenn nötig auch durchzusetzen.
 
 Fügen Sie den Text direkt in eine CODE_OF_CONDUCT-Datei in Ihrem Repository ein. Halten Sie die Datei im Stammverzeichnis Ihres Projekts, damit sie leicht zu finden ist, und verlinken Sie sie von Ihrer README.
 
 ## Ihr Projekt benennen und zur Marke machen
 
-Eine Marke besteht aus mehr als einem auffälligen Logo oder einem einprägsamem Projektnamen. Es geht darum, wie Sie über Ihr Projekt sprechen und wen Sie mit Ihrer Botschaft erreichen.
+Eine Marke besteht aus mehr als einem auffälligen Logo oder einem einprägsamen Projektnamen. Es geht darum, wie Sie über Ihr Projekt sprechen und wen Sie mit Ihrer Botschaft erreichen.
 
 ### Den richtigen Namen auswählen
 
@@ -252,11 +246,11 @@ Denken Sie vor allem an die Klarheit. Wortspiele machen Spaß, aber denken Sie d
 
 ### Namenskonflikte vermeiden
 
-[Prüfen Sie, ob es Open-Source-Projekte mit ähnlichem Namen gibt](http://ivantomic.com/projects/ospnc/), insb. in der selben Sprache oder demselben Ökosystem. Wenn Ihr Projektname mit einem existierenden, populären Projekt überlappt, könnte das Ihr Publikum verwirren.
+[Prüfen Sie, ob es Open-Source-Projekte mit ähnlichem Namen gibt](http://ivantomic.com/projects/ospnc/), insbesondere in derselben Sprache oder demselben Ökosystem. Wenn Ihr Projektname mit einem existierenden, populären Projekt überlappt, könnte das Ihr Publikum verwirren.
 
 Wenn Sie möchten, dass eine Website, ein Twitter-Handle, o.Ä. Ihr Projekt repräsentieren, stellen Sie sicher, dass Sie die von Ihnen gewünschten Namen erhalten können. Um auf Nummer sicher zu gehen, können Sie [diese Namen jetzt reservieren](https://instantdomainsearch.com/), auch wenn Sie sie noch nicht verwenden möchten.
 
-Achten Sie darauf, dass der Name Ihres Projekts keine Marken verletzt, denn ein Unternehmen könnte Sie auffordern, Ihr Projekt zu einem späteren Zeitpunkt abzubrechen oder sogar rechtliche Schritte gegen Sie einzuleiten. Dieses Risiko einzugehen, ist es einfach nicht wert.
+Achten Sie darauf, dass der Name Ihres Projekts keine Marken verletzt, denn ein Unternehmen könnte Sie auffordern, Ihr Projekt zu einem späteren Zeitpunkt abzubrechen. Im schlimmsten Fall leitet ein Unternehmen sogar rechtliche Schritte gegen Sie ein. Dieses Risiko einzugehen, ist es einfach nicht wert.
 
 Nutzen Sie die [WIPO Global Brand Database](http://www.wipo.int/branddb/en/), um auf Namenskonflikte zu prüfen. Wenn Sie in einer Firma sind, ist dies eine der Aufgaben, bei denen [Ihr Justiziariat Sie unterstützen kann](../legal/).
 
@@ -264,7 +258,7 @@ Zum Schluss noch eine schnelle Google-Suche nach Ihrem Projektnamen: Werden die 
 
 ### Auch den Schreib- und Programmierstil beeinflussen Ihre Marke!
 
-Während der Lebenszeit Ihres Projektes werden Sie eine Menge schreiben: README, Anleitungen, Dokumentation, Antworten auf Anfragen, vielleicht sogar Newsletter und auf einer Mailingliste.
+Während der Lebenszeit Ihres Projektes werden Sie eine Menge schreiben: README, Anleitungen, Dokumentation, Antworten auf Anfragen, vielleicht sogar Newsletter an eine Mailingliste.
 
 Egal ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein Markenzeichen Ihres Projektes. Bedenken Sie, wie er bei Ihrem Publikum ankommt, und ob dies dem Tonfall entspricht, den Sie rüberbringen möchten.
 
@@ -295,7 +289,7 @@ Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Licenz
+    Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Lizenz
   </label>
 </div>
 
@@ -309,7 +303,7 @@ Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    Der Projektname ist einprägsam, vermittelt Zweck und Nutzen des Projektes, überschneidet sich nicht im einem existierenden Projekt oder einem Markennamen
+    Der Projektname ist einprägsam, vermittelt Zweck und Nutzen des Projektes, überschneidet sich nicht mit einem existierenden Projekt oder einem Markennamen
   </label>
 </div>
 
@@ -386,4 +380,4 @@ Wenn Sie als Firma oder Organisation arbeiten:
 
 ## Sie haben's geschafft!
 
-Herzlichen Glückwunsch zu Ihrem ersten Open-Source-Projekt! Egal was hinten raus kommt, öffentlich zu arbeiten, ist ein Geschenk an die Gemeinschaft. Sie erschaffen mit jedem Commit, jedem Kommentar und jedem Pull Request eine Gelegenheit für sich selbst und andere, etwas zu lernen und intellektuell zu wachsen.
+Herzlichen Glückwunsch zu Ihrem ersten Open-Source-Projekt! Egal was dabei rauskommt, öffentlich zu arbeiten, ist ein Geschenk an die Gemeinschaft. Sie erschaffen mit jedem Commit, jedem Kommentar und jedem Pull Request eine Gelegenheit für sich selbst und andere, etwas zu lernen und intellektuell zu wachsen.
