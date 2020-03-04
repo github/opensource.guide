@@ -39,7 +39,7 @@ Par comparaison, un processus de source fermée serait de se rendre dans un rest
   </p>
 </aside>
 
-[Il y a plein de raisons] (https://ben.balter.com/2015/11/23/why-open-source/) pour une personne ou une organisation de vouloir ouvrir un projet. Par exemple :
+[Il y a plein de raisons](https://ben.balter.com/2015/11/23/why-open-source/) pour une personne ou une organisation de vouloir ouvrir un projet. Par exemple :
 
 * **Collaboration :** Les projets open source peuvent accepter des changements de n'importe qui dans le monde. [Exercism](https://github.com/exercism/), par exemple, est une plate-forme d'exercices de programmation avec plus de 350 contributeurs.
 
