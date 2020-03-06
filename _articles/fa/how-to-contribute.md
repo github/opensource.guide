@@ -3,13 +3,6 @@ lang: fa
 title: چگونه در متن‌باز مشارکت کنیم
 description: می‌خواهید در متن‌باز مشارکت کنید؟ راهنمایی برای مشارکت در متن‌باز، برای تازه‌کاران و پیش‌کسوتان.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
