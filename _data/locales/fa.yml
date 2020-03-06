@@ -1,8 +1,8 @@
-en:
-  locale_name: English
+fa:
+  locale_name: فارسی
   nav:
-    about: About
-    contribute: Contribute
+    about: درباره
+    contribute: مشارکت
   index:
     lead: Open source software is made by people just like you. Learn how to launch and grow your project.
     opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
@@ -22,10 +22,10 @@ en:
       button: Subscribe
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
+      format: "[code] با [love] توسط [github] و [friends]"
       # Label for code octicon
-      code_label: code
+      code_label: نوشته شده
       # Label for love octicon
-      love_label: love
+      love_label: عشق
       # Label for the contributors link
-      friends_label: friends
+      friends_label: دوستان
