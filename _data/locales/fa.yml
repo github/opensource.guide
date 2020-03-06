@@ -2,24 +2,25 @@ fa:
   locale_name: فارسی
   nav:
     about: درباره
-    contribute: مشارکت
+    contribute: مشارکت کنید
   index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    lead: نرم‌افزارهای متن‌باز توسط افرادی مثل شما ساخته‌شده است. بیاموزید چگونه پروژه خود را راه‌اندازی کنید و رشد دهید.
+    opensourcefriday: امروز جمعه است! چند ساعتی را برای مشارکت در نرم‌افزاری که استفاده می‌کنید و دوست دارید سرمایه‌گذاری کنید!
   article:
-    table_of_contents: Table of Contents
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    table_of_contents: جدول محتوا
+    back_to_all_guides: بازگشت به همه راهنماها
+    related_guides: راهنماهای مرتبط
   footer:
     contribute:
-      heading: Contribute
-      description: Want to make a suggestion? This content is open source. Help us improve it.
-      button: Contribute
+      heading: مشارکت
+      description: می‌خواهید پیشنهادی ارائه دهید؟ این محتوا متن‌باز است. به ما در بهبود آن کمک کنید.
+      button: مشارکت کنید
     subscribe:
-      heading: Stay in touch
-      description: Be the first to hear about GitHub's latest open source tips and resources.
-      label: Email Address
-      button: Subscribe
+      heading: در ارتباط بمانید
+      description: اولین نفری باشید که درباره آخرین منابع و نکات متن‌باز گیت‌هاب باخبر می‌شود.
+      description: اولین نفری باشید که درباره 
+      label: نشانی ایمیل
+      button: مشترک شوید
     byline:
       # [code], [love], and [github] will be replaced by octicons
       format: "[code] با [love] توسط [github] و [friends]"
