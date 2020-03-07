@@ -28,7 +28,9 @@ related:
 .
 ### !بهبود نرم‌افزاری که به آن علاقمندید
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+.بسیاری از مشارکت کنندگان در پروژه‌های متن‌باز با مشارکت در نرم‌افزارهایی که عموماً کاربر آن‌ها هستند یا به آن علاقمندند کار خود  را آغار می‌کنند
+
+When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
 
 ### Improve existing skills
 
