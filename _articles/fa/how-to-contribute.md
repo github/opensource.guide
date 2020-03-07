@@ -35,9 +35,8 @@ related:
 اگر اینگونه باشد، بهترین گزینه برای اطمینان از اینکه دوستانتان هم بتوانند از این مزیت استفاده کنند، کمک به پچ بازگشت است
 ### بهبود توانایی‌های فعلی خود
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
-
-### Meet people who are interested in similar things
+برنامه‌نویسی، طراحی رابط کاربری، طراحی گرافیک، نوشتن و یا سازماندهی! تفاوتی نمی‌کند، اگر به دنبال تمرین هستید، در یک پروژه متن‌باز همیشه کاری برای شما وجود دارد
+###  ملاقات با افرادی که به موارد مشابه شما علاقه دارند 
 
 Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
 
