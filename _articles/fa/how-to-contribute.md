@@ -30,7 +30,8 @@ related:
 
 .بسیاری از مشارکت کنندگان در پروژه‌های متن‌باز با مشارکت در نرم‌افزارهایی که عموماً کاربر آن‌ها هستند یا به آن علاقمندند کار خود  را آغار می‌کنند
 
-When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+وقتی در نرم‌افزار متن‌باز مورد استفاده خود اشکالی پیدا می‌کنید، ممکن است بخواهید به کد منبع آن نگاه کنید تا ببینید که آیا می‌توانید خودتان مشکل را حل کنید.
+If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
 
 ### Improve existing skills
 
