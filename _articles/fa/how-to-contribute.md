@@ -30,10 +30,10 @@ related:
 
 .بسیاری از مشارکت کنندگان در پروژه‌های متن‌باز با مشارکت در نرم‌افزارهایی که عموماً کاربر آن‌ها هستند یا به آن علاقمندند کار خود  را آغار می‌کنند
 
-وقتی در نرم‌افزار متن‌باز مورد استفاده خود اشکالی پیدا می‌کنید، ممکن است بخواهید به کد منبع آن نگاه کنید تا ببینید که آیا می‌توانید خودتان مشکل را حل کنید.
-If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
-
-### Improve existing skills
+وقتی در نرم‌افزار متن‌باز مورد استفاده خود اشکالی پیدا می‌کنید، ممکن است بخواهید به کد منبع آن نگاه کنید تا ببینید که آیا می‌توانید خودتان مشکل را حل کنید 
+.
+اگر اینگونه باشد، بهترین گزینه برای اطمینان از اینکه دوستانتان هم بتوانند از این مزیت استفاده کنند، کمک به پچ بازگشت است
+### بهبود توانایی‌های فعلی خود
 
 Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
 
