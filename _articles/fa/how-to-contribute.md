@@ -19,7 +19,7 @@ related:
     
     
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["چرا من علاقمند به مشارکت در جامعه متن‌باز هستم"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
