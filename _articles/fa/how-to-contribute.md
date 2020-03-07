@@ -38,8 +38,8 @@ related:
 برنامه‌نویسی، طراحی رابط کاربری، طراحی گرافیک، نوشتن و یا سازماندهی! تفاوتی نمی‌کند، اگر به دنبال تمرین هستید، در یک پروژه متن‌باز همیشه کاری برای شما وجود دارد
 ###  ملاقات با افرادی که به موارد مشابه شما علاقه دارند 
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
-
+استقبال جامعه متن‌باز باعث می‌شود تا مجدد مردم در سال‌های بعد نیز برگردند و در پروژه های متن‌باز مشارکت کنند
+سیاری از افراد از طریق مشارکت در جامعه متن باز، دوستی مادام العمر ایجاد می‌کنند، خواه در رویدادها به همدیگر می‌پیوندند یا چت‌های آنلاین اواخر شب دربارهٔ سالاد
 ### Find mentors and teach others
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
