@@ -66,7 +66,11 @@ related:
 
 ### !شما مجبور به مشارکت در برنامه‌نویسی نیستید
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+یک تصور غلط و رایج دربارهٔ مشارکت در جامعه متن‌باز این است که شما حتماً باید در کد و برنامه‌نویسی کمک و مشارکت کنید.
+اما در حقیقت، اغلب بخش‌های دیگر یک پروژه است که بیشتر [مورد غفلت یا نادیده گرفته شدن قرار می‌گیرد](https://github.com/blog/2195-the-shape-of-open-source)
+
+
+You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
