@@ -57,9 +57,9 @@ related:
 اگر شما یک مشارکت کننده جدید در جامعه متن‌باز هستید، این روند ممکن است باعث ترسیدن شما شود.
 آیا تاکنون یک خطای املایی را در یک وب سایت مشاهده کرده‌اید، و یا آرزو کرده‌اید که کسی آن را برطرف کند؟در یک پروژه متن‌باز می‌توانید همین کار را انجام دهید.
 
-Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+جامعه متن‌باز به مردم کمک می‌کند تا نسبت به زندگی خود و نحوه تجربه جهان از خود احساس تأثیر کنندگی کنند و این خود به خود رضایت بخش و خوشحال‌کننده است.
 
-## What it means to contribute
+## منظور از مشارکت کردن دقیقا چیست؟
 
 
 . How do you find the right project? What if you don't know how to code? What if something goes wrong?
