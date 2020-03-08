@@ -50,7 +50,7 @@ related:
 با این تعریف، همه پروژه‌های متن‌باز شما عمومی هستند، به این معنی که نمونه‌های رایگان دریافت می‌کنید تا بتوانید در هر مکانی به عنوان نمایشی از آنچه می‌توانید انجام دهید ارائه دادن دهید.
 ### مهارت‌های دیگر افراد را یادبگیرید
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+جامعه متن‌باز فرصت‌هایی را برای تمرین مهارت‌های رهبری و مدیریتی، از جمله حل مناقشات، سازماندهی تیم‌هایی از افراد و اولویت بندی کارها فراهم می‌کند.
 
 ### It's empowering to be able to make changes, even small ones
 
