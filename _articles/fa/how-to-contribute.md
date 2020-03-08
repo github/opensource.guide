@@ -42,7 +42,8 @@ related:
 بسیاری از افراد از طریق مشارکت در جامعه متن باز، دوستی مادام العمر ایجاد می‌کنند، خواه در رویدادها به همدیگر می‌پیوندند و یا در چت‌های آنلاین اواخر شب دربارهٔ سالاد
 ### استادان خود را پیدا کنید و به دیگران آموزش دهید
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+کار با دیگران در یک پروژه مشترک به این معنی است که شما باید چگونگی انجام کارها را توضیح دهید و همچنین از سایر افراد بخواهید که به شما کمک کنند.
+The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
 ### پروژه‌های هنری عمومی بسازید که به شما در رشد شهرت (و یک مهارت) کمک می‌کند
 
