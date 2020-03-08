@@ -47,9 +47,8 @@ related:
 
 ### پروژه‌های هنری عمومی بسازید که به شما در رشد شهرت (و یک مهارت) کمک می‌کند
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
-
-### مهارت دیگر افراد را یادبگیرید
+ببا این تعریف، همه پروژه‌های متن‌باز شما عمومی هستند، به این معنی که نمونه‌های رایگان دریافت می‌کنید تا بتوانید در هر مکانی به عنوان نمایشی از آنچه می‌توانید انجام دهید ارائه دادن دهید.
+### مهارت‌های دیگر افراد را یادبگیرید
 
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
