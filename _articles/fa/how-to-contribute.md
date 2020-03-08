@@ -100,14 +100,14 @@ related:
 * Organize the project's conference (if they have one)
 * Help community members find the right conferences and submit proposals for speaking
 
-### Do you like to design?
+### آیا به طراحی کردن علاقمندید؟
 
 * Restructure layouts to improve the project's usability
 * Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Put together a style guide to help the project have a consistent visual design
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### آیا نوشتن را دوست دارید؟
 
 * Write and improve the project's documentation
 * Curate a folder of examples showing how the project is used
