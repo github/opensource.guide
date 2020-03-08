@@ -53,12 +53,15 @@ related:
 جامعه متن‌باز فرصت‌هایی را برای تمرین مهارت‌های رهبری و مدیریتی، از جمله حل مناقشات، سازماندهی تیم‌هایی از افراد و اولویت بندی کارها فراهم می‌کند.
 
 ### It's empowering to be able to make changes, even small ones
+برای لذت بردن از مشارکت در منبع آزاد ، لازم نیست شما همکار مادام العمر شوید.
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
 ## What it means to contribute
+برای لذت بردن از مشارکت در جامعه متن‌باز، لازم نیست شما همکار مادام العمر شوید.
+اگر شما یک مشارکت کننده جدید در جامعه متن‌باز هستید، این روند ممکن است باعث ترسیدن شما شود.
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+. How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
 
