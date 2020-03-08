@@ -40,7 +40,7 @@ related:
 
 استقبال جامعه متن‌باز باعث می‌شود تا مجدد مردم در سال‌های بعد نیز برگردند و در پروژه های متن‌باز مشارکت کنند
 بسیاری از افراد از طریق مشارکت در جامعه متن باز، دوستی مادام العمر ایجاد می‌کنند، خواه در رویدادها به همدیگر می‌پیوندند و یا در چت‌های آنلاین اواخر شب دربارهٔ سالاد
-### Find mentors and teach others
+### استادان خود را پیدا کنید و به دیگران آموزش دهید
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
