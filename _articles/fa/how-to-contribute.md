@@ -123,20 +123,20 @@ related:
   </p>
 </aside>
 
-### Do you like organizing?
+### آیا سازماندهی پروژه‌ها را دوست دارید؟
 
 * Link to duplicate issues, and suggest new issue labels, to keep things organized
 * Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
 * Ask clarifying questions on recently opened issues to move the discussion forward
 
-### Do you like to code?
+### به کد نویسی علاقمندید؟
 
 * Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * Ask if you can help write a new feature
 * Automate project setup
 * Improve tooling and testing
 
-### Do you like helping people?
+### آیا کمک به دیگران را دوست دارید؟
 
 * Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
 * Answer questions for people on open issues
