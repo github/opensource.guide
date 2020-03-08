@@ -64,7 +64,7 @@ related:
 اگر شما یک مشارکت کننده تازه‌کار در جامعه متن‌باز هستید، این روند ممکن است باعث ترس شما شود. چگونه یک پروژه مناسب خود را پیدا کنید؟ اگر ندانید چگونه کد بنویسید؟ اگر اشتباهی رخ داد سپس چه می‌شود؟
 نگران نباشید! انواع روش‌های مشارکت در یک پروژه متن‌باز وجود دارد و چند نکته به شما کمک می‌کند تا از تجربه خود نهایت استفاده را ببرید.
 
-### You don't have to contribute code
+### شما مجبور به مشارکت در برنامه‌نویسی نیستید!
 
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
 
