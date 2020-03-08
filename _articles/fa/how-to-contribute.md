@@ -61,10 +61,8 @@ related:
 
 ## منظور از مشارکت کردن دقیقا چیست؟
 
-
-. How do you find the right project? What if you don't know how to code? What if something goes wrong?
-
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+اگر شما یک مشارکت کننده تازه‌کار در جامعه متن‌باز هستید، این روند ممکن است باعث ترس شما شود. چگونه یک پروژه مناسب خود را پیدا کنید؟ اگر ندانید چگونه کد بنویسید؟ اگر اشتباهی رخ داد سپس چه می‌شود؟
+نگران نباشید! انواع روش‌های مشارکت در یک پروژه متن‌باز وجود دارد و چند نکته به شما کمک می‌کند تا از تجربه خود نهایت استفاده را ببرید.
 
 ### You don't have to contribute code
 
