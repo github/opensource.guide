@@ -142,13 +142,13 @@ related:
 * Answer questions for people on open issues
 * Help moderate the discussion boards or conversation channels
 
-### Do you like helping others code?
+### آیا دوست دارید در کد نویسی به دیگران کمک کنید؟
 
 * Review code on other people's submissions
 * Write tutorials for how a project can be used
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### !شما فقط لازم نیست  بر روی پروژه های نرم افزاری کار کنید
 
 While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
 
