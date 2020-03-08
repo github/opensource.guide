@@ -160,7 +160,7 @@ For example:
 
 Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
 
-## Orienting yourself to a new project
+## خود را به سمت مشارکت در یک پروژه جدید سوق دهید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
