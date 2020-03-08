@@ -80,8 +80,9 @@ related:
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
-
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+حتی اگر دوست دارید کد بنویسید، انواع دیگر مشارکت‌ها نیز راهی عالی برای همکاری با یک پروژه و دیدار با دیگر اعضای جامعه است
+.
+ ایجاد این روابط با دیگران به شما فرصت می‌دهد تا در قسمت‌های دیگر پروژه مشارکت کنید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
