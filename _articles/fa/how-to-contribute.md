@@ -72,9 +72,10 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
- من به خاطر کارم در پروژه کوکوپاد مشهور شده‌ام، اما اکثر مردم نمی‌دانند که من واقعاً هیچ کاری واقعی روی ابزار کوکوپاد انجام نمی‌دهم.
+ من به خاطر کارم در پروژه کوکوپاد مشهور شده‌ام، اما اکثر مردم نمی‌دانند که من واقعاً هیچ کاری واقعی روی ابزار کوکوپاد انجام نمی‌دهم
+.
+ در حقیقت بیشتر وقت من برای مشارکت این پروژه صرف انجام کارهایی مانند مستندسازی و کار در زمینه برندسازی آن شده‌است
   
-  My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
