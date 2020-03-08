@@ -67,10 +67,8 @@ related:
 ### !شما مجبور به مشارکت در برنامه‌نویسی نیستید
 
 یک تصور غلط و رایج دربارهٔ مشارکت در جامعه متن‌باز این است که شما حتماً باید در کد و برنامه‌نویسی کمک و مشارکت کنید.
-اما در حقیقت، اغلب بخش‌های دیگر یک پروژه است که بیشتر [مورد غفلت یا نادیده گرفته شدن قرار می‌گیرد](https://github.com/blog/2195-the-shape-of-open-source)
-
-
-You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+اما در حقیقت، اغلب بخش‌های دیگر یک پروژه است که بیشتر [مورد غفلت یا نادیده گرفته شدن قرار می‌گیرد](https://github.com/blog/2195-the-shape-of-open-source).
+شما می‌توانید با ارائه خدمات به این نوع از مشارکت‌ها، پروژه را به نفع خود انجام دهید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
