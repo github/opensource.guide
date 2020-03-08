@@ -15,7 +15,6 @@ We've put together the following guidelines to help you figure out where you can
 0. [How to contribute](#how-to-contribute)
 0. [Style guide](#style-guide)
 0. [Setting up your environment](#setting-up-your-environment)
-0. [Contribution review process](#contribution-review-process)
 0. [Community](#community)
 
 ## Types of contributions we're looking for
@@ -58,10 +57,6 @@ Once you have that set up, run:
     script/server
 
 …and open http://localhost:4000 in your web browser.
-
-## Contribution review process
-
-This repo is currently maintained by @nayafia and @mikemcquaid, who have commit access. They will likely review your contribution. If you haven't heard from anyone in 10 days, feel free to bump the thread or @-mention a maintainer to review your contribution.
 
 ## Community
 

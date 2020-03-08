@@ -3,13 +3,6 @@ lang: id
 title: Bagaimana Berkontribusi pada Open Source
 description: Ingin berkontribusi pada open source? Sebuah panduan untuk melakukan kontribusi open source, untuk pemula dan veteran.
 class: contribute
-toc:
-  mengapa-berkontribusi-pada-open-source: "Mengapa berkontribusi pada open source?"
-  apa-artinya-berkontribusi: "Apa artinya berkontribusi"
-  berorientasi-pada-proyek-baru: "Berorientasi pada proyek baru"
-  menemukan-sebuah-proyek-untuk-melakukan-kontribusi: "Menemukan sebuah proyek untuk melakukan kontribusi"
-  bagaimana-mengajukan-kontribusi: "Bagaimana mengajukan kontribusi"
-  apa-yang-terjadi-setelah-anda-mengajukan-sebuah-kontribusi: "Apa yang terjadi setelah Anda mengajukan sebuah kontribusi"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -69,7 +62,7 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -127,7 +120,7 @@ Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan c
 
 ### Apakah Anda suka membantu orang lain?
 
-* Menjawab pertanyaan tentang proyek, pada (misalnya) Stack Overflow ([seperti contoh Postgres ini](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) atau reddit
+* Menjawab pertanyaan tentang proyek, pada (misalnya) Stack Overflow ([seperti contoh Postgres ini](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) atau reddit
 * Menjawab pertanyaan pada permasalahaan terbuka
 * Membantu memoderasi halaman diskusi atau chanel diskusi
 
@@ -155,7 +148,7 @@ Meskipun Anda seorang pengembang perangkat lunak, bekerja pada proyek dokumentas
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Jika Anda mengunjungi issue tracker dan tampaknya membingungkan, hal itu terjadi bukan hanya kepada Anda saja. Perangkat ini membutuhkan banyak pemahaman implisit, tetapi orang lain mampu membantu Anda dalam mengeksplorasi dan Anda bisa bertanya kepada mereka.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
@@ -212,17 +205,16 @@ Open source bukanlah klub ekslusif; Open source dibuat oleh orang-orang seperti 
 
 Anda bisa melihat dokumen README dan menemukan tautan yang tidak valid atau kesalahan pengetikkan. Atau Anda sebagai pengguna baru dan melihat bahwa ada yang salah, atau sebuah laporan dimana Anda rasa penting untuk didokumentasikan. Daripada mengabaikannya, atau meminta orang lain untuk memperbaikinya, cari tahu apakah Anda bisa membantu dengan ikut serta didalamnya. Itulah makna sesungguhnya dari open source!
 
-> [28% dari kontribusi umum](http://www.igor.pro.br/publica/papers/saner2016.pdf) pada open source adalah berupa dokumentasi, seperti kesalahan pengetikkan, pemformatan ulang, atau menuliskan terjemahan.
+> [28% dari kontribusi umum](https://www.igor.pro.br/publica/papers/saner2016.pdf) pada open source adalah berupa dokumentasi, seperti kesalahan pengetikkan, pemformatan ulang, atau menuliskan terjemahan.
 
 Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk mencari dan berkontribusi pada proyek baru:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 
 ### Daftar sebelum Anda berkontribusi
@@ -375,7 +367,7 @@ Sebuah proyek yang bersahabat dan menyambut menandai bahwa mereka sangat menerim
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Setiap kali Anda melihat diskusi yang panjang, amati respon dari pengembang inti di bagian akhir dari diskusi. Apakah mereka meringkasnya secara konstruktif dan mengambil langkah-langkah untuk mendapatkan kesimpulan tanpa mengabaikan sopan santun? Jika Anda melihat banyak perdebatan yang tidak konstruktif (_flame war_), biasanya merupakan sebuah tanda bahwa energi dihabiskan untuk berargumentasi dibandingkan untuk pengembangan proyek.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
@@ -391,7 +383,7 @@ Apakah Anda merupakan kontributor atau mencoba untuk bergabung dengan sebuah kom
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Sebagai kontributor baru,\] saya menyadari bahwa saya perlu bertanya jika ingin menutup sebuah laporan masalah. Saya mengamati kode program. Setelah saya mengetahui situasinya, saya bertanya untuk pengarahan lebih lanjut. Dan akhirnya! Saya berhasil menutup sebuah laporan masalah setelah mendapatkan semua informasi relevan yang saya butuhkan.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 

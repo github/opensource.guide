@@ -3,14 +3,6 @@ lang: es
 title: Aspectos legales del codigo abierto.
 description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
 class: legal
-toc:
-  por-qu&eacute;-la-gente-se-preocupa-tanto-acerca-de-los-aspectos-legales-del-c&oacute;digo-abierto: "¿Por qu&eacute; la gente se preocupa tanto acerca de los aspectos legales del c&oacute;digo abierto?"
-  son-p&uacute;blicos-los-proyectos-de-c&oacute;digo-abierto-de-github: "¿Son p&uacute;blicos los proyectos de c&oacute;digo abierto de GitHub?"
-  solo-dame-un-resumen-acerca-de-lo-que-necesito-para-proteger-mi-proyecto: "Solo dame un resumen acerca de lo que necesito para proteger mi proyecto"
-  cu&aacute;l-licencia-de-c&oacute;digo-abierto-es-apropiada-para-mi-proyecto: "¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?"
-  y-si-quieres-cambiar-la-licencia-de-tu-proyecto: "Y si quieres cambiar la licencia de tu proyecto"
-  necesita-mi-proyecto-un-acuerdo-adicional-de-colaboradores: "¿Necesita mi proyecto un acuerdo adicional de colaboradores?"
-  qu&eacute;-necesita-saber-el-equipo-legal-de-mi-empresa: "¿Qu&eacute; necesita saber el equipo legal de mi empresa?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -40,7 +32,7 @@ Cuando t&uacute; [creas un nuevo proyecto](https://help.GitHub.com/articles/crea
 
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
 
-**Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [Los T&eacute;rminos de Servicio de GitHub](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
+**Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [Los T&eacute;rminos de Servicio de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
 
 Si quieres que otros usen, copien, modifiquen, o contribuyan a tu proyecto, debes incluir una licencia de c&oacute;digo abierto. Por ejemplo, nadie puede usar legalmente cualquier parte de tu proyecto de GitHub en su c&oacute;digo, incluso si es p&uacute;blico, a menos que expl&iacute;citamente le concedas dicho derecho.
 
@@ -57,7 +49,7 @@ Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una 
   Una licencia estandarizada sirve como aproximaci&oacute;n para quienes no tengan entrenamiento legal para saber con precisi&oacute;n lo que pueden y lo que no pueden hacer con el software.
 A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, modificados o no estandarizados, lo cual te servir&aacute; como barrera para el uso posterior de la agencia de c&oacute;digo.
   <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
@@ -73,7 +65,7 @@ Por otro lado, si cualquiera de las licencias de tus dependencias son copyleft "
 
 Deber&iacute;as considerar tambi&eacute;n a las **comunidades** qu&eacute; esperas que usaran y contribuir&aacute;n a tu proyecto:
 
-* **¿Quieres que tu proyecto sea usado como dependencia por otros proyectos?** Probablemente, la mejor opci&oacute;n sea usar la licencia m&aacute;s popular en tu comunidad. Por ejemplo, [MIT](https://choosealicense.com/licenses/mit/) es la licencia m&aacute;s popular para [npm libraries](https://libraries.io/npm).
+* **¿Quieres que tu proyecto sea usado como dependencia por otros proyectos?** Probablemente, la mejor opci&oacute;n sea usar la licencia m&aacute;s popular en tu comunidad. Por ejemplo, [MIT](https://choosealicense.com/licenses/mit/) es la licencia m&aacute;s popular para [npm libraries](https://libraries.io/search?platforms=NPM).
 * **¿Quieres que tu proyecto atraiga a grandes empresas?** Una gran empresa seguramente querr&aacute; una licencia de patente expresa por parte de todos los contribuyentes. En este caso, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) te tiene a ti (y a ellos) cubiertos.
 * **¿Quieres que tu proyecto atraiga a colaboradores los cuales no quieren que sus contribuciones sean usado en software de c&oacute;digo cerrado?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) o (si tampoco quieren contribuir a servicios de c&oacute;digo cerrado) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) Seria el m&aacute;s apropiado.
 
@@ -97,7 +89,7 @@ De manera alternativa, puedes tener colaboradores que est&eacute;n de acuerdo po
 
 ## ¿Necesita mi proyecto un acuerdo adicional de colaboradores?
 
-Probablemente no. En la mayor&iacute;a de los proyectos de c&oacute;digo abierto, una licencia de c&oacute;digo abierto sirve impl&iacute;citamente de licencia tanto para el interior (colaboradores) como para el exterior (a otros colaboradores y usuarios). Si tu proyecto se encuentra en GitHub, los T&eacute;rminos de Servicio de GitHub al hacen "entrante=saliente" la [expl&iacute;cita por defecto](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Probablemente no. En la mayor&iacute;a de los proyectos de c&oacute;digo abierto, una licencia de c&oacute;digo abierto sirve impl&iacute;citamente de licencia tanto para el interior (colaboradores) como para el exterior (a otros colaboradores y usuarios). Si tu proyecto se encuentra en GitHub, los T&eacute;rminos de Servicio de GitHub al hacen "entrante=saliente" la [expl&iacute;cita por defecto](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
 Un acuerdo adicional de colaboradores – a menudo llamado Acuerdo de Licencia de colaboradores (en ingl&eacute;s, CLA) – puede crear trabajo administrativo para mantenedores de proyecto. La cantidad de trabajo que suma un acuerdo depende del proyecto y su implementaci&oacute;n. Un acuerdo simple puede requerir que los colaboradores confirmen, con un click, que tienen los derechos necesarios para contribuir bajo la licencia de condigo abierto del proyecto. Un acuerdo m&aacute;s complicado, requerir&aacute; revisi&oacute;n legal y la aprobaci&oacute;n de los empleadores del contribuyente.
 
@@ -159,7 +151,7 @@ A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a
 
 * **Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s capaces de ayudar en lugar de dificultar tus esfuerzos.
 
-* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linux.com/blog/why-companies-use-open-source-need-compliance-program) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
+* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
 
 <aside markdown="1" class="pquote">
   Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias.

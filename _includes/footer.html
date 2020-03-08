@@ -6,7 +6,7 @@
       <div class="col-12 col-sm-6 mb-4 col-border">
         <div class="height-full p-5">
           <img src="{{ "/assets/images/illos/squirrel.svg" | relative_url }}" class="little-illo mb-3" alt="squirrel illustration">
-          <h3 class="alt-h3 mb-3">{{ t.footer.contribute.heading }}</h3>
+          <h3 class="h3-mktg mb-3">{{ t.footer.contribute.heading }}</h3>
           <p class="mb-3 p-large">{{ t.footer.contribute.description }}</p>
           <p>
             <a data-proofer-ignore href="https://github.com/{{ site.github.repository_nwo }}/edit/master/{{ page.path }}" class="btn btn-outline">
@@ -21,7 +21,7 @@
           <form action="//github.us11.list-manage.com/subscribe/post?u=9d7ced8c4bbd6c2f238673f0f&amp;id=b514344ba3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
               <div id="mc_embed_signup_scroll">
               <img src="{{ "/assets/images/illos/bird.svg" | relative_url }}" class="little-illo mb-3" alt="bird illustration">
-              <h3 class="alt-h3 mb-3">{{ t.footer.subscribe.heading }}</h3>
+              <h3 class="h3-mktg mb-3">{{ t.footer.subscribe.heading }}</h3>
               <p class="mb-3 p-large">{{ t.footer.subscribe.description }}</p>
 
               <div class="mc-field-group col-12">
@@ -43,20 +43,6 @@
     </div>
 
     <div class="border-top text-gray py-5">
-      {% if page.lang and site.data.locales.size > 1 %}
-      <select id="language" class="float-md-left">
-        {% assign locales = site.data.locales | sort %}
-        {% for locale in locales %}
-          {% assign lang = locale[0] %}
-          {% assign locale_name = locale[1][lang].locale_name %}
-          {% if page.lang == lang %}
-          <option value="{{ lang }}" selected="selected">{{ locale_name }}</option>
-          {% else %}
-          <option value="{{ lang }}">{{ locale_name }}</option>
-          {% endif %}
-        {% endfor %}
-      </select>
-      {% endif %}
       <p class="float-md-right"><a class="text-gray-light text-small" href="{{ "/notices/" | relative_url }}">fine print</a></p>
 
       <div>

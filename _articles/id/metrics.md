@@ -3,12 +3,6 @@ lang: id
 title: Metrik Open Source
 description: Buat keputusan yang tepat untuk membantu proyek open source Anda berkembang dengan mengukur dan melacak kesuksesannya.
 class: metrics
-toc:
-  kenapa-mengukur-segalanya: "Kenapa mengukur segalanya?"
-  penemuan: "Penemuan"
-  penggunaan: "Penggunaan"
-  mempertahankan: "Mempertahankan"
-  aktivitas-pengelola: "Aktivitas pengelola"
 order: 9
 image: /assets/images/cards/metrics.png
 related:

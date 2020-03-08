@@ -3,11 +3,6 @@ lang: id
 title: Dibayar untuk Pekerjaan Open Source
 description: Pertahankan pekerjaan Anda pada open source dengan mendapatkan dukungan finansial untuk waktu Anda pada proyek.
 class: getting-paid
-toc:
-  kenapa-beberapa-orang-mencari-dukungan-finansial: "Kenapa beberapa orang mencari dukungan finansial"
-  mendanai-waktu-anda-sendiri: "Mendanai waktu Anda sendiri"
-  mencari-pendanaan-untuk-proyek-anda: "Mencari pendanaan untuk proyek Anda"
-  membangun-kasus-untuk-dukungan-finansial: "Membangun kasus untuk dukungan finansial"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -37,7 +32,7 @@ Terdapat banyak alasan kenapa seseorang tidak ingin dibayar untuk pekerjaan open
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Donasi finansial memang menambahkan perasaan tanggung jawab untuk beberapa orang. (...) Merupakan sesuatu yang penting bagi kami yang hidup pada dunia yang sangat cepat dan terkoneksi secara global untuk bisa mengatakan "belum waktunya, saya merasa melakukan sesuatunya dengan cara yang berbeda".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
@@ -59,7 +54,7 @@ Pekerjaan yang dibayar juga memungkinkan orang-orang dari berbagai latar belakan
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS menghasilkan keuntungan yang besar pada industri teknologi, yang akan menguntungkan semua industri. (...) Namun, jika satu-satunya orang yang bisa berfokus padanya adalah orang yang beruntung dan terobsesi, maka terdapat potensi yang sangat besar.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
@@ -99,14 +94,14 @@ Jika perusahaan Anda mengikuti rute ini, merupakan hal yang penting untuk menjag
 
 Jika Anda tidak mampu meyakinkan perusahaan untuk memprioritaskan pekerjaan open source, pertimbangkan untuk mencari perusahaan lain yang mendorong kontribusi karyawan pada open source. Cari perusahaan yang mendedikasikan pada pekerjaan open source secara eksplisit. Sebagai contoh:
 
-* Beberapa perusahaan, seperti [Netflix](https://netflix.github.io/) atau [PayPal](http://paypal.github.io/), memiliki halaman web yang menunjukan keterlibatan mereka pada open source
-* [Rackspace](https://www.rackspace.com/en-us) mempublikasikan [kebijakan kontribusi open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) bagi pegawai
+* Beberapa perusahaan, seperti [Netflix](https://netflix.github.io/) atau [PayPal](https://paypal.github.io/), memiliki halaman web yang menunjukan keterlibatan mereka pada open source
+* [Zalando](https://opensource.zalando.com) mempublikasikan [kebijakan kontribusi open source](https://opensource.zalando.com/docs/using/contributing/) bagi pegawai
 
 Proyek-proyek yang berasal dari perusahaan besar, seperti [Go](https://github.com/golang) atau [React](https://github.com/facebook/react), juga akan memperkerjakan orang-orang untuk bekerja pada open source.
 
 Akhirnya, melihat dari kondisi pribadi Anda, Anda bisa mencoba mengumpulkan uang secara mandiri untuk mendanai proyek open source Anda. Sebagai contoh:
 
-* @gaearon mendanai pekerjaannya pada [Redux](https://github.com/reactjs/redux) melalui [kampanye Patreon crowdfunding](http://redux.js.org/)
+* @gaearon mendanai pekerjaannya pada [Redux](https://github.com/reactjs/redux) melalui [kampanye Patreon crowdfunding](https://redux.js.org/)
 * @andrewgodwin mendanai pekerjaan pada migrasi skema Django [melalui kampanye Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 ## Mencari pendanaan untuk proyek Anda
@@ -183,5 +178,3 @@ Apakah pemberi dana memiliki persyaratan? Misalnya Anda harus bersifat nirlaba a
 ## Eksperimen dan jangan menyerah
 
 Mendapatkan pendanaan tidaklah mudah, baik untuk proyek open source, nirlaba, atau startup perangkat lunak, dan pada banyak kasus, Anda harus kreatif. mengindentifikasi bagaimana Anda hendak didanai, melakukan riset, dan menempatkan diri Anda pada penyandang dana akan membantu Anda membangun kasus yang meyakinkan untuk pendanaan.
-
->

@@ -8,6 +8,14 @@
 }
 
 // Handy container styles that match our breakpoints
+
+// 544px
+.container-sm {
+  max-width: $width-sm;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 // 768px
 .container-md {
   max-width: $container-md;
