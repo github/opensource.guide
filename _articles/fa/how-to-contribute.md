@@ -54,12 +54,11 @@ related:
 
 ### It's empowering to be able to make changes, even small ones
 برای لذت بردن از مشارکت در منبع آزاد ، لازم نیست شما همکار مادام العمر شوید.
-
+اگر شما یک مشارکت کننده جدید در جامعه متن‌باز هستید، این روند ممکن است باعث ترسیدن شما شود.
 Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
 ## What it means to contribute
-برای لذت بردن از مشارکت در جامعه متن‌باز، لازم نیست شما همکار مادام العمر شوید.
-اگر شما یک مشارکت کننده جدید در جامعه متن‌باز هستید، این روند ممکن است باعث ترسیدن شما شود.
+
 
 . How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
