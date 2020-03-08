@@ -44,11 +44,11 @@ related:
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### پروژه‌های هنری عمومی بسازید که به شما در رشد شهرت (و یک مهارت) کمک می‌کند
 
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
 
-### Learn people skills
+### مهارت دیگر افراد را یادبگیرید
 
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
