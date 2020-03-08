@@ -94,7 +94,7 @@ related:
   </p>
 </aside>
 
-### Do you like planning events?
+### آیا شما برنامه‌ریزی رویدادها را دوست دارید؟
 
 * Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
 * Organize the project's conference (if they have one)
