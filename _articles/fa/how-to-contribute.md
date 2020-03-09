@@ -153,9 +153,11 @@ related:
 
 ### !شما فقط لازم نیست  بر روی پروژه های نرم افزاری کار کنید
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+در حالی که «جامعه متن‌باز» اغلب به نرم‌افزار اشاره دارد، شما می‌توانید تقریباً در هر چیزی مشارکت کنید
+.
+کتاب‌ها، دستور العمل‌ها، فهرست‌ها و کلاس‌هایی وجود دارد که به عنوان پروژه‌های متن‌باز توسعه می‌یابند.
 
-For example:
+به عنوان نمونه :
 
 * @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
 * @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
