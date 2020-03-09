@@ -142,8 +142,8 @@ related:
 ### آیا کمک به دیگران را دوست دارید؟
 
 * Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* به سوالات دیگر افراد در ایشو های باز شده پاسخ دهید
+* به انجمن گفتگو و یا کانال های گفتگو کمک کنید
 
 ### آیا دوست دارید در کد نویسی به دیگران کمک کنید؟
 
