@@ -147,8 +147,8 @@ related:
 
 ### آیا دوست دارید در کد نویسی به دیگران کمک کنید؟
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
+* بررسی کدهای ارسال شده توسط دیگران
+* برای چگونگی و نحوه استفاده از یک پروژه، آموزشی تولید کنید
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### !شما فقط لازم نیست  بر روی پروژه های نرم افزاری کار کنید
