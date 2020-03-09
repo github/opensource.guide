@@ -190,7 +190,7 @@ Move to a different project, and you might find the vocabulary, norms, and commu
 
 بر طبق این گفته، بسیاری از پروژه‌های منبع باز از یک ساختار سازمانی مشابه پیروی می‌کنند. شناخت نقش‌های مختلف جامعه متن‌باز و روند کلی آن به شما کمک می‌کند تا به سرعت در هر پروژه جدید متمرکز شوید.
 
-A typical open source project has the following types of people:
+:یک پروژه متن‌باز معمول از انواع مختلف افراد زیر تشکیل شده‌است
 
 * **Author:** The person/s or organization that created the project
 * **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
