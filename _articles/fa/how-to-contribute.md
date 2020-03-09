@@ -128,9 +128,9 @@ related:
 
 ### آیا سازماندهی پروژه‌ها را دوست دارید؟
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
+* لینک دادن به نسخه‌های مختلف پروژه، و برچسب‌های شماره جدید، جهت منظم و سازماندهی ماندن پروژه
 * Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* سؤالات مشخص درمورد موضوعات اخیراً باز شده مربوط به پروژه بپرسید تا بحث به جلو پیش رود
 
 ### به کد نویسی علاقمندید؟
 
