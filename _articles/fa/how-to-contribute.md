@@ -182,11 +182,13 @@ Before jumping in blindly with your own suggestions, start by learning how to re
 
 ### ساختار یک پروژه متن‌باز
 
-Every open source community is different.
+هر جامعه متن‌باز با دیگری متفاوت است
+.
+سالها مشارکت بر روی یک پروژه متن‌باز به این معنی است که شما با ساختار یک پروژه متن‌باز آشنا شده‌اید
+.
+Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
-
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+بر طبق این گفته، بسیاری از پروژه‌های منبع باز از یک ساختار سازمانی مشابه پیروی می‌کنند. شناخت نقش‌های مختلف جامعه متن‌باز و روند کلی آن به شما کمک می‌کند تا به سرعت در هر پروژه جدید متمرکز شوید.
 
 A typical open source project has the following types of people:
 
