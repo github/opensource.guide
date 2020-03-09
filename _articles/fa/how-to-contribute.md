@@ -97,8 +97,8 @@ related:
 ### آیا شما برنامه‌ریزی رویدادها را دوست دارید؟
 
 * Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* رویداد های پروژه را برنامه ریزی کنید(درصورت وجود)
+* به اعضای جامعه متن‌باز کمک کنید تا کنفرانس‌های مناسب را پیدا کرده و پیشنهادهایی برای سخنرانی ارائه دهند
 
 ### آیا به طراحی کردن علاقمندید؟
 
