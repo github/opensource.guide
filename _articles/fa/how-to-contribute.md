@@ -135,9 +135,9 @@ related:
 ### به کد نویسی علاقمندید؟
 
 * Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* سؤال کنید که آیا می‌توانید به نوشتن یک ویژگی جدید در پروژه کمک کنید؟
+* راه‌انداز پروژه را به صورت خودکار در آورید
+* بهبود و آزمایش ابزارها
 
 ### آیا کمک به دیگران را دوست دارید؟
 
