@@ -107,7 +107,7 @@ related:
 * برای کمک به پروژه در طراحی بصری مداوم، یک راهنمای طراحی را در کنار هم قرار دهید
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
-### آیا نوشتن را دوست دارید؟
+### آیا به مستندسازی علاقمندید؟
 
 * مستندات پروژه را بنویسید و یا بهبود دهید
 * پوشه ای از راهنماها را بسازید که نحوه استفاده از پروژه را نشان می‌دهد
@@ -118,7 +118,9 @@ related:
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   به‌طور یقین، مستندسازی یک پروژه مهم است.
- The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+ همچنین روند مستندسازی از گذشته‌دور تا به کنون یک ویژگی منحصر به فرد بوده‌است. 
+ 
+ There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
