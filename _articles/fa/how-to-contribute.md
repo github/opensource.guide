@@ -163,8 +163,9 @@ related:
 * @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
 * @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
-
+حتی اگر شما یک توسعه دهنده نرم‌افزار هستید، کار بر روی یک پروژه مستندسازی می‌تواند به شما در شروع کار با جامعه متن‌باز کمک کند
+.
+اغلب مشارکت در پروژه‌هایی که شامل کد نمی‌شود ترسناکتر است و روند همکاری در آن‌ها باعث ایجاد اعتماد به نفس و تجربه شما خواهد شد
 ## خود را به سمت مشارکت در یک پروژه جدید سوق دهید
 
 <aside markdown="1" class="pquote">
