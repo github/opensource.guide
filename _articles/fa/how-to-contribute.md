@@ -103,13 +103,13 @@ related:
 ### آیا به طراحی کردن علاقمندید؟
 
 * بهبود لایه‌بندی‌های پروژه برای بهبود قابلیت استفاده از آن
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
+* انجام تحقیقات کاربر برای سازماندهی مجدد و پالایش ناوبری پروژه یا منوها، همانند [پیشنهادات دروپال](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* برای کمک به پروژه در طراحی بصری مداوم، یک راهنمای طراحی را در کنار هم قرار دهید
 * Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
 ### آیا نوشتن را دوست دارید؟
 
-* Write and improve the project's documentation
+* مستندات پروژه را بنویسید و یا بهبود دهید
 * Curate a folder of examples showing how the project is used
 * Start a newsletter for the project, or curate highlights from the mailing list
 * Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
