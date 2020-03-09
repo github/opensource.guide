@@ -180,7 +180,7 @@ For anything more than a typo fix, contributing to open source is like walking u
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
 
-### Anatomy of an open source project
+### ساختار یک پروژه متن‌باز
 
 Every open source community is different.
 
