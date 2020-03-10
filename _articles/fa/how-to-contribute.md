@@ -113,8 +113,8 @@ related:
 * مستندات پروژه را بنویسید و یا بهبود دهید
 * پوشه ای از راهنماها را بسازید که نحوه استفاده از پروژه را نشان می‌دهد
 * یک خبرنامه برای این پروژه شروع کنید و یا نکات برجسته پروژه را در لیست پستی انتخاب کنید
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* ترجمه ای را برای مستندات پروژه بنویسید
+* آموزشی برای استفاده از پروژه بنویسید.مانند کاری که [مشارکت‌کنندگان پروژه بسته‌بندی پایتون](https://github.com/pypa/python-packaging-user-guide/issues/194)  انجام دادند.
+* ترجمه ای را برای مستندات یک پروژه بنویسید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
