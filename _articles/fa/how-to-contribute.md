@@ -198,9 +198,12 @@ Move to a different project, and you might find the vocabulary, norms, and commu
 * **Contributors:** شامل هرکسی که به پروژه کمک و مشارکت کرده است
 * **Community Members:** افرادی که از این پروژه استفاده می کنند. آنها ممکن است در ایشو‌ها فعال باشند و یا عقیده خود را در مورد جهت پیشرفت پروژه بیان کنند
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+پروژه های بزرگتر ممکن است دارای انجمن فرعی یا کارگروه کوچیکتر نیز باشند که بر روی کارهای مختلف، از جمله ابزارسازی، آزمایش، 
+مدیریت جامعه و سازماندهی رویدادها متمرکز شده اند
+.
+برای یافتن این اطلاعات می‌توانید به صفحه وب سایت یک پروژه یا در مخزن مستندات آن نگاه کنید
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+همچنین یک پروژه مستنداتی دارد که پرونده‌های آن معمولاً در سطح بالای یک مخزن ذکر شده اند
 
 * **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
 * **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
