@@ -195,8 +195,8 @@ Move to a different project, and you might find the vocabulary, norms, and commu
 * **Author:** .شخص و یا سازمانی که پروژه را ایجاد کرده است
 * **Owner:**  شخصی که مالکیت اداری بر سازمان یا مخزن ایجاد شده دارد
 * **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction
+* **Contributors:** شامل هرکسی که به پروژه کمک و مشارکت کرده است
+* **Community Members:** افرادی که از این پروژه استفاده می کنند. آنها ممکن است در ایشو‌ها فعال باشند و یا عقیده خود را در مورد جهت پیشرفت پروژه بیان کنند
 
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
 
