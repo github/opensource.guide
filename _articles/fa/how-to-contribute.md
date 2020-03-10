@@ -205,7 +205,9 @@ Move to a different project, and you might find the vocabulary, norms, and commu
 
 همچنین یک پروژه مستنداتی دارد که پرونده‌های آن معمولاً در سطح بالای یک مخزن ذکر شده اند
 
-* **پروانه(مجوز):** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
+* **پروانه(مجوز):**  طبق تعریف، هر پروژه متن‌باز باید دارای [مجوز متن‌باز باشد](https://choosealicense.com). 
+
+If the project does not have a license, it is not open source.
 * **فایل رید‌می:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
 * **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
