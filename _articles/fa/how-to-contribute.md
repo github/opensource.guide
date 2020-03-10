@@ -192,8 +192,8 @@ Move to a different project, and you might find the vocabulary, norms, and commu
 
 :یک پروژه متن‌باز معمول از انواع مختلف افراد زیر تشکیل شده‌است
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+* **Author:** .شخص و یا سازمانی که پروژه را ایجاد کرده است
+* **Owner:**  شخصی که مالکیت اداری بر سازمان یا مخزن ایجاد شده دارد
 * **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
 * **Contributors:** Everyone who has contributed something back to the project
 * **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction
