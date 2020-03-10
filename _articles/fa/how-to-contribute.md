@@ -192,11 +192,11 @@ Move to a different project, and you might find the vocabulary, norms, and commu
 
 :یک پروژه متن‌باز معمول از انواع مختلف افراد زیر تشکیل شده‌است
 
-* **Author:** .شخص و یا سازمانی که پروژه را ایجاد کرده است
-* **Owner:**  شخصی که مالکیت اداری بر سازمان یا مخزن ایجاد شده دارد
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
-* **Contributors:** شامل هرکسی که به پروژه کمک و مشارکت کرده است
-* **Community Members:** افرادی که از این پروژه استفاده می کنند. آنها ممکن است در ایشو‌ها فعال باشند و یا عقیده خود را در مورد جهت پیشرفت پروژه بیان کنند
+* **سازنده:** .شخص و یا سازمانی که پروژه را ایجاد کرده است
+* **مالک:**  شخصی که مالکیت اداری بر سازمان یا مخزن ایجاد شده دارد
+* **نگهدارندگان:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
+* **مشارکت‌کنندگان:** شامل هرکسی که به پروژه کمک و مشارکت کرده است
+* **اعضای انجمن:** افرادی که از این پروژه استفاده می کنند. آنها ممکن است در ایشو‌ها فعال باشند و یا عقیده خود را در مورد جهت پیشرفت پروژه بیان کنند
 
 پروژه های بزرگتر ممکن است دارای انجمن فرعی یا کارگروه کوچیکتر نیز باشند که بر روی کارهای مختلف، از جمله ابزارسازی، آزمایش، 
 مدیریت جامعه و سازماندهی رویدادها متمرکز شده اند
