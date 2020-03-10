@@ -105,7 +105,8 @@ related:
 * بهبود قابلیت لایه‌بندی‌های پروژه جهت استفاده از آن
 * انجام تحقیقات کاربر برای سازماندهی مجدد و پالایش ناوبری پروژه یا منوها، همانند [پیشنهادات دروپال](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * برای کمک به پروژه در طراحی بصری مداوم، یک راهنمای طراحی را در کنار هم قرار دهید
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* یک لوگو و یا یک تی‌شرت هنری بسازید مانند کاری که [مشارکت‌کنندگان پروژه هپی جی‌اس](https://github.com/hapijs/contrib/issues/68)
+انجام دادند
 
 ### آیا به مستندسازی علاقمندید؟
 
