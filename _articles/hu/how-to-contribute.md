@@ -62,7 +62,7 @@ Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programo
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Híres vagyok a CocoaPods-szal végzett munkámról, de a legtöbb ember nem is tudja, hogy nem is dolgozom magán a CocoaPods kódján. Az időm nagy részét a projekten dokumentációval és márkaépítéssel töltöm.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Természetes az OSS-re való átállás"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Természetes az OSS-re való átállás"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
