@@ -234,7 +234,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 در عوض ، با فکر کردن در مورد پروژه هایی که قبلاً از آنها استفاده کرده اید، , یا می خواهید از آنها استفاده کنید، کار خود را شروع کنید
 .
 پروژه هایی که به طور فعال در آن شرکت خواهید کرد ، پروژه هایی هستند که خود را در حال بازگشت به آنها می دانید
-
+.
 در داخل آن پروژه ها، هر زمان فکر کردید که چیزی می‌تواند بهتر یا متفاوت تر باشد، به غریزه خود عمل کنید و آن را تغیر دهید
 
 Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
