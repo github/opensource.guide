@@ -208,7 +208,7 @@ Move to a different project, and you might find the vocabulary, norms, and commu
 
 * **پروانه(مجوز):**  طبق تعریف، هر پروژه متن‌باز باید دارای [مجوز متن‌باز باشد](https://choosealicense.com). 
 
-If the project does not have a license, it is not open source.
+اگر پروژه مورد نظر دارای مجوز نباشد درنتیجه یک پروژه متن‌باز محسوب نمی‌شود
 * **فایل رید‌می:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
 * **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
@@ -221,7 +221,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-## Finding a project to contribute to
+## پروژه ای را جهت مشارکت درآن پیدا کنید
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
