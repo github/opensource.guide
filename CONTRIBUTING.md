@@ -27,7 +27,7 @@ There are many ways you can directly contribute to the guides (in descending ord
 
 Interested in making a contribution? Read on!
 
-## Ground rules & expectations
+## Ground rules & expectations rtat.net
 
 Before we get started, here are a few things we expect from you (and that you should expect from others):
 
