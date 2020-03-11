@@ -225,9 +225,11 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 اکنون که فهمیدید که پروژه های متن‌باز چگونه کار می کنند، وقت آن رسیده است که یک پروژه را پیدا کنید و در آن مشارکت کنید
 .
-اگر پیش از این هرگز در یک پروژّه متن‌باز  مشاركت نکرده اید، از جان اف کندی رئیس جمهور آمریكا الهام بگیرید، كه یك بار گفت: - نپرسید كشور شما برای شما چه كاری می تواند انجام دهد - سؤال كنید كه چه کاری می توانید برای كشور خود انجام دهید
+اگر پیش از این هرگز در یک پروژه متن‌باز  مشاركت نکرده اید، از جان اف کندی رئیس جمهور آمریكا الهام بگیرید، كه یك بار گفت: - نپرسید كشور شما برای شما چه كاری می تواند انجام دهد - سؤال كنید كه چه کاری می توانید برای كشور خود انجام دهید
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+مشارکت در جامعه متن‌باز در همه سطوح و در سراسر یک پروژه اتفاق می افتد
+.
+نیازی نیست که به طور کلی نگران مشارکت خود و یا اینکه چگونه به نظر می رسد باشید
 
 Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
 
