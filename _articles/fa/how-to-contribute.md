@@ -230,10 +230,12 @@ Finally, open source projects use the following tools to organize discussion. Re
 مشارکت در جامعه متن‌باز در همه سطوح و در سراسر یک پروژه اتفاق می افتد
 .
 نیازی نیست که به طور کلی نگران مشارکت خود و یا اینکه چگونه به نظر می رسد باشید
+.
+در عوض ، با فکر کردن در مورد پروژه هایی که قبلاً از آنها استفاده کرده اید، , یا می خواهید از آنها استفاده کنید، کار خود را شروع کنید
+.
+پروژه هایی که به طور فعال در آن شرکت خواهید کرد ، پروژه هایی هستند که خود را در حال بازگشت به آنها می دانید
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
-
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+در داخل آن پروژه ها، هر زمان فکر کردید که چیزی می‌تواند بهتر یا متفاوت تر باشد، به غریزه خود عمل کنید و آن را تغیر دهید
 
 Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
 
