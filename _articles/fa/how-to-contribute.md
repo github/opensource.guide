@@ -265,7 +265,7 @@ If you're looking for existing issues you can fix, every open source project has
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://www.sourcesort.com/)
 
-### A checklist before you contribute
+### یک چک لیست کارها قبل از شروع مشارکت
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
 
