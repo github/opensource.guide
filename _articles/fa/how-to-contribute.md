@@ -237,7 +237,10 @@ Finally, open source projects use the following tools to organize discussion. Re
 .
 در داخل آن پروژه ها، هر زمان فکر کردید که چیزی می‌تواند بهتر یا متفاوت تر باشد، به غریزه خود عمل کنید و آن را تغیر دهید
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+جامعه متن‌باز یک انجمن اختصاصی نیست بلکه این جامعه توسط افرادی درست مثل خود شما ساخته شده است
+.
+«متن‌باز» فقط یک اصطلاح جالب برای حل مشکلات جهان با عنوانی ثابت است
+
 
 You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
 
