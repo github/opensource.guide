@@ -223,9 +223,9 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 ## پروژه ای را جهت مشارکت درآن پیدا کنید
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
-
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+اکنون که فهمیدید که پروژه های متن‌باز چگونه کار می کنند، وقت آن رسیده است که یک پروژه را پیدا کنید و در آن مشارکت کنید
+.
+اگر پیش از این هرگز در یک پروژّه متن‌باز  مشاركت نکرده اید، از جان اف کندی رئیس جمهور آمریكا الهام بگیرید، كه یك بار گفت: - "نپرسید كشور شما برای شما چه كاری می تواند انجام دهد - سؤال كنید كه چه کاری می توانید برای كشور خود انجام دهید."
 
 Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
 
