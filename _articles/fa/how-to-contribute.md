@@ -253,7 +253,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+:همچنین می توانید از یکی از منابع زیر جهت کمک به کشف و مشارکت در پروژه های جدید استفاده کنید
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
