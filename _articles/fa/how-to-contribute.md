@@ -242,7 +242,12 @@ Finally, open source projects use the following tools to organize discussion. Re
 «متن‌باز» فقط یک اصطلاح جالب برای حل مشکلات جهان با عنوانی ثابت است
 
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+شما ممکن است یک فایل ریدمی را بررسی کرده و پیوند شکسته یا اشتباه تایپی در آن پیدا کنید
+.
+و یا اینکه شما یک کاربر جدید هستید و متوجه شده‌اید که چیزی اشتباه است، یا مسئله ای که فکر می‌کنید واقعاً باید در مستندات پروژه وجود داشته باشد
+.
+به جای نادیده گرفتن آن و ادامه کار یا درخواست از شخص دیگری برای رفع آن، بررسی کنید که آیا با ورود به سیستم می‌توانید به بهبود آن کمک کنید؟
+!این تمام چیزی است که جامعه متن‌باز را در بر می‌گیرد
 
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
