@@ -113,7 +113,7 @@ Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre e
 
 Lassen Sie keinen unerwünschten Beitrag offen, weil Sie sich schuldig fühlen oder nett sein wollen. Im Laufe der Zeit werden unbeantwortete Issues und PRs die Projektarbeit stressiger und einschüchternder machen.
 
-Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) (Englisch).
+Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) (Englisch).
 
 Zweitens sendet das Ignorieren von Beiträgen ein negatives Signal an die Gemeinschaft um Ihr Projekt. Einen Projektbeitrag einzureichen, kann einschüchternd sein, besonders für Neulinge. Auch wenn Sie ihren Beitrag nicht annehmen, danken Sie der einreichenden Person für ihr Interesse. Das ist ein großes Kompliment!
 
