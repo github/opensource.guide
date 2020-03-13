@@ -32,7 +32,7 @@ Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creatin
 
 ![Créer un référentiel](/assets/images/legal/repo-create-name.png)
 
-**Rendre public votre projet GitHub n'est pas la même chose que la licence de votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), ce qui permet aux autres de voir et de forker votre projet, mais votre travail n'est pas autorisé.
+**Rendre public votre projet GitHub n'est pas la même chose que la licence de votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais votre travail n'est pas autorisé.
 
 Si vous souhaitez que d'autres personnes utilisent, distribuent, modifient ou contribuent à votre projet, vous devez inclure une licence open source. Par exemple, quelqu'un ne peut légalement utiliser aucune partie de votre projet GitHub dans son code, même s'il est public, à moins que vous ne lui donniez explicitement le droit de le faire.
 
@@ -88,7 +88,7 @@ Alternativement, vous pouvez demander aux contributeurs d'accepter à l'avance (
 
 ## Mon projet a-t-il besoin d'un accord de contribution suppl&eacute;mentaire
 
-Probablement pas. Pour la grande majorité des projets open source, une licence open source sert implicitement à la fois de licence entrante (des contributeurs) et sortante (aux autres contributeurs et utilisateurs). Si votre projet est sur GitHub, les conditions d'utilisation de GitHub font de "inbound = outbound" le [paramètre par défaut explicite](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Probablement pas. Pour la grande majorité des projets open source, une licence open source sert implicitement à la fois de licence entrante (des contributeurs) et sortante (aux autres contributeurs et utilisateurs). Si votre projet est sur GitHub, les conditions d'utilisation de GitHub font de "inbound = outbound" le [paramètre par défaut explicite](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
 Un accord de contribution supplémentaire - souvent appelé Accord de licence de contributeur (CLA) - peut créer un travail administratif pour les responsables de projet. La quantité de travail ajoutée par un accord dépend du projet et de la mise en œuvre. Un accord simple peut exiger que les contributeurs confirment, en un clic, qu'ils ont les droits nécessaires pour contribuer sous la licence open source du projet. Un accord plus compliqué pourrait nécessiter un examen juridique et une approbation des employeurs des cotisants.
 

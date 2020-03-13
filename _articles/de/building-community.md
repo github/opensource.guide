@@ -63,7 +63,7 @@ Andere zur Mitarbeit zu ermutigen, ist auch eine Investition in sich selbst: Wen
   _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -287,7 +287,7 @@ Wenn eine Diskussion offensichtlich nirgendwo hinführt, es keine klaren Maßnah
   _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

@@ -33,7 +33,7 @@ redirect_from: /zh-tw/legal/
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**讓你們的GitHub專案公開與許可你們的專案是不同的。**公開專案是由[GitHub的服務條款](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)保護，它允許他人瀏覽以及fork你們的專案，但是沒有權限參與你們的工作。
+**讓你們的GitHub專案公開與許可你們的專案是不同的。**公開專案是由[GitHub的服務條款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保護，它允許他人瀏覽以及fork你們的專案，但是沒有權限參與你們的工作。
 
 如果你們想讓他人使用，複製，修改你們的專案，或者參與貢獻你們的專案，那麼你們的專案就需要包含一個開源許可協議。例如，即使你們的專案是公開的，但沒有你們的授權，一些人是不能合法在他們的程式碼中使用你們GitHub專案中的任何部分。
 

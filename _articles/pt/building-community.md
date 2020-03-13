@@ -54,7 +54,7 @@ Encorajar outros contribuidores é, também, um investimento em si mesmo. Quando
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Você alguma vez já esteve presente em um evento (de tecnologia), onde não conhecia ninguém, porém o restante das pessoas parecia se reunir em grupos e batiam papo como velhos amigos? (...) Agora imagine que você quer contribuir em um projeto open source, mas não consegue enxergar por que ou como isso está acontecendo.
   <p markdown="1" class="pquote-credit">
-  — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+  — @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -248,7 +248,7 @@ Se está claro que uma conversa não está caminhando para nenhum lugar, não h�
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guiar uma thread em direção à utilidade, sem ser insistente, é uma arte. Advertir as pessoas a parar de perder tempo não irá funcionar, ou mesmo pedir para que não postem nada a não ser que tenham algo construtivo a dizer. (...) Em vez disso, você tem de sugerir condições para um maior progresso: dar as pessoas uma rota, um caminho a seguir que leve aos resultados que você queira, sem que pareça que você esteja ditando uma conduta.
   <p markdown="1" class="pquote-credit">
-  — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+  — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
