@@ -272,7 +272,7 @@ If you're looking for existing issues you can fix, every open source project has
 در اینجا یک چک لیست برای ارزیابی اینکه آیا یک پروژه برای مشارکت کنندگان جدید مناسب است یا خیر، وجود دارد
 .
 
-**Meets the definition of open source**
+**همخوانی با استاندارد های متن‌باز**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
