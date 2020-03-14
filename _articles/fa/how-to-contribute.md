@@ -281,7 +281,7 @@ If you're looking for existing issues you can fix, every open source project has
   </label>
 </div>
 
-**Project actively accepts contributions**
+**پروژه به طور فعال مشارکت‌کننده و مشارکت را بپذیرد**
 
 Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
 
