@@ -267,9 +267,10 @@ If you're looking for existing issues you can fix, every open source project has
 
 ### یک چک لیست کارها قبل از شروع مشارکت
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+وقتی پروژه ای که می‌خواهید در آن مشارکت کنید را پیدا کردید، یک بررسی سریع انجام دهید تا مطمئن شوید این پروژه برای پذیرش مشارکت در آن مناسب است. در غیر این صورت، سخت کوشی شما در مشارکت کردن ممکن است بی نتیجه بماند
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+در اینجا یک چک لیست برای ارزیابی اینکه آیا یک پروژه برای مشارکت کنندگان جدید مناسب است یا خیر، وجود دارد
+.
 
 **Meets the definition of open source**
 
