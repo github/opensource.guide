@@ -285,8 +285,8 @@ If you're looking for existing issues you can fix, every open source project has
 
 **پروژه به طور فعال مشارکت‌کننده و مشارکت را بپذیرد**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
-
+به میزان فعالیت و کامیت در شاخه اصلی پروژه نگاه کنید. در گیت‌هاب، می‌توانید این اطلاعات را در صفحه اصلی یک مخزن مشاهده کنید
+.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
