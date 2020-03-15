@@ -54,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   これまでに（技術）イベントに参加して、知り合いが誰もおらず、周りは皆グループになって古くからの友人同士のように話しているといった経験をしたことはありませんか？（中略）オープンソースプロジェクトにコントリビュートをしたいと思っているのに、なぜ、またはどのようにそのプロジェクトが立ち上がったのかがわからないという状況を想像してみて下さい。
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -250,7 +250,7 @@ README は[単なる手順書以上の存在です](../starting-a-project/#readm
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   強引にならずに議論を実利的なものに導いていくのはある種の技術です。単に無駄な時間を使わないよう忠告したり、建設的な内容がない限り書かないでほしいとお願いするだけではうまくいきません。 (中略) そうする代わりに、議論を進める条件を提案する必要があります：例えば指針を与えたり、あなたが望む結論に導くための道筋を提示したりといったことです。ただ、あなたが行動を指示しているように聞こえないよう気をつける必要があります。
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

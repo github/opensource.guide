@@ -73,7 +73,7 @@ Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak ka
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   CocoaPods'taki çalışmamla ünlüydüm, ama çoğu insan CocoaPods aracının kendisinde gerçek bir iş yapmadığımı bilmiyor. Projedeki zamanım çoğunlukla belgeleme ve markalaşma gibi şeyler yapmakla geçiyor.
   <p markdown="1" class="pquote-credit">
-- @orta, ["Varsayılan olarak OSS’ye taşıma"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+- @orta, ["Varsayılan olarak OSS’ye taşıma"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
