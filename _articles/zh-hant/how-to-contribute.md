@@ -63,7 +63,7 @@ redirect_from: /zh-tw/how-to-contribute/
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
   我被大家所熟知是因為為 CocoaPods 做了一些事, 但大多數人並不知道我實際並沒有為 CocoaPods 本身做了什麼，我多數的工作是撰寫說明文件與品牌宣傳的事情。
   <p markdown="1" class="pquote-credit">
-— @orta, ["將自己預設為開源軟體"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["將自己預設為開源軟體"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -368,7 +368,7 @@ redirect_from: /zh-tw/how-to-contribute/
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
   當你看到一個很長的對話時，來自核心開發者的零星的回覆排在列表的後面。你就得想想，他們是否在作建設性的總結？是否保持風度的情況下做出最後的決定？如果你看到的是更多的口水仗，這通常代表社群的能量都在拿來爭論，已經不在開發上了。
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_開源軟體生產力_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_開源軟體生產力_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
