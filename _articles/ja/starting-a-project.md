@@ -10,7 +10,7 @@ related:
   - building
 ---
 
-## オープンソースとは"なに"であり、"なぜ"それを行うのか
+## オープンソースとは何でなぜそれを行うのか
 
 さて、あなたはオープンソースを始めようと考えているのですか？おめでとう！世界はあなたのコントリビュートに感謝します。オープンソースとはなんであってなぜ人々はそれを行うのかについて話しましょう。
 
@@ -243,7 +243,7 @@ README に CONTRIBUTING ファイルへのリンクをすることで、より�
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   メーリングリストのすべてのスレッドに関わるようにしましたし、模範的な行動を示し、人々に親切にし、イシューを真剣に捉え、何より助けになるようにしました。しばらくすると、人々は質問をするだけでなく、質問に答えたり、何よりも嬉しいことに私のスタイルを真似してくれたのです。
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -255,7 +255,7 @@ README に CONTRIBUTING ファイルへのリンクをすることで、より�
 
 ## 立ち上げ前のチェックリスト
 
-あなたのプロジェクトをオープンソースにする準備が整いましたか？ここにあなたの助けとなるよう、チェックリストを用意しました。全てにチェックが付きましたか？そうであれば準備万端です！
+あなたのプロジェクトをオープンソースにする準備が整いましたか？ここにあなたの助けとなるよう、チェックリストを用意しました。全てにチェックが就きましたか？そうであれば準備万端です！
 ["publish" をクリックして](https://help.github.com/articles/making-a-private-repository-public/)、自分を褒めてあげましょう。
 
 **ドキュメント**
