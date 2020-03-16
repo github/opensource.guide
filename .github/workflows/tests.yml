@@ -16,6 +16,13 @@ jobs:
     - name: Set up Node
       uses: actions/setup-node@v1
 
+    - name: Restore bundler cache
+      uses: actions/cache@v1
+      with:
+        path: vendor/gems
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: ${{ runner.os }}-gems-
+
     - name: Bootstrap
       run: script/bootstrap
 

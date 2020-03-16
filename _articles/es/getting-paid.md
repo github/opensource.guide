@@ -181,5 +181,3 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
 ## Experimenta y no te rindas
 
 Recaudar dinero no es f&aacute;cil, ya sea un proyecto de c&oacute;digo abierto, una organizaci&oacute;n sin fines de lucro, o un emprendimiento de software, y la mayor&iacute;a de los casos requieren que seas creativo. Debes identificar c&oacute;mo quieres que te paguen, debes investigar y debes ponerte en el lugar de tu financiador, de esta manera podr&aacute;s construir un caso convicente para que te financien.
-
->
