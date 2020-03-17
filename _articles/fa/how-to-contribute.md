@@ -417,7 +417,11 @@ If you're looking for existing issues you can fix, every open source project has
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+هر زمان که یک موضوع طولانی را مشاهده کردید، پاسخ‌های برنامه نویسان اصلی را که دیر هنگام وارد موضوع می‌شوند بررسی کنید.
+.
+آیا آنها  به‌طور خلاصه و در حالی که مودبانه بحث می‌کنند، قدم‌هایی برای تصمیم‌گیری در مورد موضوع مورد نظر می گیرند؟
+
+If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
