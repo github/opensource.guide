@@ -383,9 +383,9 @@ If you're looking for existing issues you can fix, every open source project has
   </label>
 </div>
 
-**Project is welcoming**
+**پروژه از مشارکت شما استقبال می‌کند**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+پروژه ای که از راهنماهای دوستانه استقبال می‌کند و پذیرای همکاران جدید خواهد بودد
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -397,7 +397,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+    آیا افراد در ایشوها، بخش بحث و گفتگوو (به عنوان مثال، آی‌آرسی یا اسلک) دوست هستند یا دوستانه برخورد می‌کنند؟
   </label>
 </div>
 
