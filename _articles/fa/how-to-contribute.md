@@ -425,11 +425,11 @@ If you're looking for existing issues you can fix, every open source project has
 
 ## چگونه مشارکت خود را ثبت کنیم؟
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+شما پروژه ای را که دوست دارید پیدا کرده‌اید، و آماده هستید تا مشارکت کنید؛ و سرانجام! در اینجا نحوه مشارکت سهم خود از راه درست آورده شده‌است.
 
-### Communicating effectively
+### برقراری ارتباط موثر
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+این که آیا شما فقط یک بار مشارکت خواهید کرد یا سعی در پیوستن به اجتماع دارید، کار کردن و ارتباط با دیگران یکی از مهمترین مهارت‌هایی است که شما در جامعه متن باز توسعه می‌دهید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
