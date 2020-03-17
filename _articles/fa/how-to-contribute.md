@@ -390,7 +390,7 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    آیا ناظران پروژه به سؤالات مربوط در ایشوها کمک می‌کنند؟
   </label>
 </div>
 
@@ -411,7 +411,7 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+   آیا ناظران پروژه از افراد به خاطر مشارکتشان تشکر می‌کنند؟
   </label>
 </div>
 
