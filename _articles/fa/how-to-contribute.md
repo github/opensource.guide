@@ -342,11 +342,11 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    حال همین کار را برای درخواست‌های پول رکوعست انجام دهید.
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
