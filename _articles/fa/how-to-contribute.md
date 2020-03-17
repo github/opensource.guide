@@ -304,11 +304,11 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+مردم معمولاً چه تعداد کامیت می‌دهند؟ (در گیت‌هاب، می‌توانید با کلیک روی «کامیت‌ها» در نوار بالا، این کار را پیدا کنید)
   </label>
 </div>
 
-Next, look at the project's issues.
+سپس، به ایشوهای پروژه نگاه کنید.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
