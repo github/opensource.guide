@@ -379,7 +379,7 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-آیا اخیراً درخواست‌های پول ریکوئست ادغام شده‌است؟ (در گیت‌هاب، روی برگه «بسته شده» در صفحه پول ریکوئست کلیک کنید تا پول ریکوئست‌های بسته را ببینید)
+آیا اخیراً درخواست‌های پول ریکوئست ادغام شده‌است؟ (در گیت‌هاب، روی پنجره «بسته شده‌ها» در صفحه پول ریکوئست کلیک کنید تا پول ریکوئست‌های بسته را ببینید)
   </label>
 </div>
 
