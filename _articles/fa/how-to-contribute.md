@@ -404,7 +404,7 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    آیا به درخواست‌های پول ریکوئست پاسخی داده می‌شود؟
   </label>
 </div>
 
@@ -423,7 +423,7 @@ If you're looking for existing issues you can fix, every open source project has
   </p>
 </aside>
 
-## How to submit a contribution
+## چگونه مشارکت خود را ثبت کنیم؟
 
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
 
