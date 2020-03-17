@@ -365,7 +365,7 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+   آیا بحث فعالی در مورد درخواست‌های پول ریکوئست وجود دارد؟
   </label>
 </div>
 
