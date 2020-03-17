@@ -313,30 +313,31 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+   چند مورد ایشو باز وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    آیا ناظران پروژه هنگام باز شدن ایشوها، سریع به مسائل پاسخ می‌دهند؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+   آیا بحث فعالی در ایشوها وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+   آیا آن ایشو مربوط به زمان اخیر است؟
   </label>
 </div>
+آیا ایشوها بسته می‌شوند؟ (در گیت‌هاب، روی پنچره «بسته شده‌ها» در صفحه ایشو کلیک کنید تا ایشوهای بسته شده را مشاهده کنید)
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
