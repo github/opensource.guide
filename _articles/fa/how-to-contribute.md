@@ -290,14 +290,14 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  آخرین کامیت پروژه مربوط به چه زمانی است؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  این پروژه چند مشارکت کننده دارد؟
   </label>
 </div>
 
