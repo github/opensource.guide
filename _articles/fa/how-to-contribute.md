@@ -351,14 +351,14 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+   چه تعداد درخواست پول ریکوئست باز وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+   آیا ناظران پروژه به هنگام باز شدن درخواست‌های پول ریکوئست به سرعت پاسخ آن می‌دهند؟
   </label>
 </div>
 
@@ -372,14 +372,14 @@ If you're looking for existing issues you can fix, every open source project has
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    آیا آن پول ریکوئست مربوط به زمان اخیر است؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+آیا اخیراً درخواست‌های پول ریکوئست ادغام شده‌است؟ (در گیت‌هاب، روی برگه «بسته شده» در صفحه پول ریکوئست کلیک کنید تا پول ریکوئست‌های بسته را ببینید)
   </label>
 </div>
 
