@@ -531,12 +531,21 @@ If you want to make a substantial contribution, open an issue to ask before work
  
 :شما معمولاً باید در موارد زیر درخواست ریکوئست را ایجاد کنید 
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* اصلاحات پیش پا افتاده را ارسال کنید (به عنوان مثال، یک اشتباه املایی، یک لینک خراب یا یک خطای آشکار)
+* کار را روی مشارکتی که قبلاً خواسته شده بود یا در مورد آن در ایشو بحث کرده‌اید، شروع کنید
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+درخواست پول ریکوئست به نمایندگی از کار تمام شده نیست
+.
+معمولاً بهتر است زودتر درخواست پول ریکوئست راایجاد کنید، تا دیگران بتوانند پیشرفت شمارا تماشاکنند و یا بازخوردی نسبت به آن نشان دهند
+.
 
-If the project is on GitHub, here's how to submit a pull request:
+فقط آن را به عنوان «WIP» (کار در حال پیشرفت) در خط موضوع علامت گذاری کنید.
+.
+
+همیشه می‌توانید بعداً کامیت‌های بیشتری را اضافه کنید
+
+
+:اگر پروژه مورد نظر در گیت‌هاب است، نحوه ارائه درخواست پول ریکوئست آورده شده‌است
 
 * **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
 * **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
