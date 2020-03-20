@@ -522,7 +522,10 @@ If you want to make a substantial contribution, open an issue to ask before work
 .
 * **اگر ایشوای مدتی قبل ایجاد شده،** 
 ممکن است که در جایی دیگر به آن پرداخته شده باشد، یا قبلاً حل شده باشد، بنابراین قبل از شروع کار در مورد آن اظهار نظر کنید (کامنت بزارید) تا از ناظران پروژه درخواست تأیید کنید
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **اگر ایشو ای را ایجاد کردید، اما بعداً جواب خود را پیدا کردید،**
+در مورد آن موضوع نظر دهید تا افراد دیگر هم بدانند، سپس ایشو را ببندید 
+.
+حتی مستندسازی این نتیجه و راه حل شما، سهمی برای مشارکت در  پروژه است
 
 ### Opening a pull request
 
