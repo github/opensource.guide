@@ -527,7 +527,7 @@ If you want to make a substantial contribution, open an issue to ask before work
 .
 حتی مستندسازی این نتیجه و راه حل شما، سهمی برای مشارکت در  پروژه است
 
-### Opening a pull request
+###  ایجاد درخواست برای پول ریکوئست 
 
 You should usually open a pull request in the following situations:
 
