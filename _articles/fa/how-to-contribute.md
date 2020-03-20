@@ -505,9 +505,9 @@ If you want to make a substantial contribution, open an issue to ask before work
   </p>
 </aside>
 
-### Opening an issue
+### ایجاد یک ایشو
 
-You should usually open an issue in the following situations:
+:شما معمولاً باید در موارد زیر یک ایشو را ایجاد کنید
 
 * Report an error you can't solve yourself
 * Discuss a high-level topic or idea (for example, community, vision or policies)
