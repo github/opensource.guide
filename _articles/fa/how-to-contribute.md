@@ -528,8 +528,8 @@ If you want to make a substantial contribution, open an issue to ask before work
 حتی مستندسازی این نتیجه و راه حل شما، سهمی برای مشارکت در  پروژه است
 
 ###  ایجاد درخواست برای پول ریکوئست 
-
-You should usually open a pull request in the following situations:
+ 
+:شما معمولاً باید در موارد زیر درخواست ریکوئست را ایجاد کنید 
 
 * Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 * Start work on a contribution that was already asked for, or that you've already discussed, in an issue
