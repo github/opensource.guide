@@ -547,7 +547,11 @@ If you want to make a substantial contribution, open an issue to ask before work
 
 :اگر پروژه مورد نظر در گیت‌هاب است، نحوه ارائه درخواست پول ریکوئست آورده شده‌است
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
+* **[مخزن را فورک کنید](https://guides.github.com/activities/forking/)** و آن را به صورت لوکال کلون کنید
+
+.
+
+Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
 * **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
 * **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
 * **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
@@ -556,8 +560,7 @@ If you want to make a substantial contribution, open an issue to ask before work
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
-## What happens after you submit a contribution
-
+## پس از ثبت و ارسال مشارکت شما چه اتفاقی می‌افتد؟
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
 After you submit a contribution, one of the following will happen:
