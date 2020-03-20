@@ -473,7 +473,7 @@ Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber
   _Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development._
 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
