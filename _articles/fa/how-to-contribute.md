@@ -520,7 +520,8 @@ If you want to make a substantial contribution, open an issue to ask before work
 .
 به این ترتیب مردم کمتر احتمال دارد که کارهای شما را کپی کنند
 .
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
+* **اگر ایشوای مدتی قبل ایجاد شده،** 
+ممکن است که در جایی دیگر به آن پرداخته شده باشد، یا قبلاً حل شده باشد، بنابراین قبل از شروع کار در مورد آن اظهار نظر کنید (کامنت بزارید) تا از ناظران پروژه درخواست تأیید کنید
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
 ### Opening a pull request
