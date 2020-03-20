@@ -509,13 +509,17 @@ If you want to make a substantial contribution, open an issue to ask before work
 
 :شما معمولاً باید در موارد زیر یک ایشو را ایجاد کنید
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* خطایی را گزارش دهید که خودتان نمی‌توانید حل کنید
+* بحث در مورد یک موضوع یا ایده سطح بالا در پروژه (به عنوان مثال، انجمن، چشم‌انداز یا سیاست‌ها)
+* ویژگی جدید یا ایده پروژه دیگری را پیشنهاد دهید
 
-Tips for communicating on issues:
+:نکاتی برای برقراری ارتباط در مورد ایشوها 
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
+* **اگر یک ایشوی باز را مشاهده کردید که می‌خواهید در بحث آن شرکت کنید،**
+دربارهٔ این موضوع اظهار نظر کنید تا مردم بدانند که شما در این ایشو حضور دارید
+.
+به این ترتیب مردم کمتر احتمال دارد که کارهای شما را کپی کنند
+.
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
