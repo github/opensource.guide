@@ -163,7 +163,7 @@ Untuk insipirasi lainnya, Silahkan coba ["Membuat README lebih Terbaca"](https:/
 
 Ketika Anda menyertakan dokumen README pada direktori induk, GitHub akan secara otomatis menampilkannya pada homepage repositori.
 
-### Menulis panduan kontribusi Anda
+### Panduan Menulis kontribusi
 
 Sebuah dokumen CONTRIBUTING menjelaskan kepada pengguna tentang bagaimana berpartisipasi pada proyek Anda. Sebagai contoh, Anda mungkin menyertakan informasi tentang:
 
