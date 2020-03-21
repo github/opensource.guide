@@ -2,7 +2,7 @@
 lang: id
 title: Memulai Proyek Open Source
 description: Pelajari lebih lanjut tentang dunia open source dan bersiap-siap untuk merilis proyek Anda sendiri.
-class: beginners
+class: pemula
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -18,14 +18,14 @@ Anda berpikir untuk memulai pada open source? Selamat! Dunia ini menghargai kont
 
 Ketika sebuah proyek bersifat open source, hal itu berarti **setiap orang bisa melihat, menggunakan, memodifikasi, dan mendistribusikan proyek Anda untuk segala tujuan.** Hak akses ini diakui melalui [lisensi open source](https://opensource.org/licenses).
 
-Open source sangatlah berkuasa karena mengurangi hambatan untuk adopsi, memungkinkan ide untuk berkembang dengan pesat.
+Open source sangatlah sangat berguna karena mengurangi hambatan untuk adopsi, memungkinkan ide ide dapat berkembang dengan pesat.
 
 Untuk memahami bagaimana proses ini bekerja, bayangkan teman Anda sedang makan, dan Anda membawa sebuah pai berisi buah ceri.
 
 * Semua orang mencoba pai (_menggunakan_)
 * Pai menjadi viral! Orang menanyakan resepnya kepada Anda, dan Anda berikan (_lihat_)
 * Salah seorang teman, Alex, seorang chef pastry, menyarankan untuk mengurangi gula (_modifikasi_)
-* Teman lain, Lisa, ingin menggunakannya untuk makan malam minggu depan (_distribusi_)
+* Teman lain, Lisa, ingin menggunakannya untuk di makan malam minggu depan (_distribusi_)
 
 Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi ke sebuah rumah makan dan memesan sepotong pai buah ceri. Anda harus membayar untuk memakan potongan tersebut, dan rumah makan tersebut tidak akan memberikan resepnya kepada Anda. Jika Anda membuat salinan utuh pai mereka dan menjualnya dengan nama Anda, rumah makan bisa mengambil sebuah tindakan terhadap Anda.
 
@@ -143,7 +143,7 @@ README berisi lebih dari sekedar penjelasan bagaimana menggunakan proyek Anda. D
 Pada dokumen README, cobalah untuk menjawab pertanyaan berikut:
 
 * Apa yang dilakukan proyek ini?
-* Kenapa proyek ini berguna?
+* Kenapa proyek ini bermanfaat?
 * Bagaimana saya memulainya?
 * Jika saya membutuhkan bantuan, dimana saya bisa mendapatkannya?
 
@@ -161,9 +161,9 @@ Seringkali, banyak orang menghindari untuk menulis README karena mereka merasa b
 
 Untuk insipirasi lainnya, Silahkan coba ["Membuat README lebih Terbaca"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) milik @18F atau [Template README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) milik @PurpleBooth untuk menulis README yang lengkap.
 
-Ketika Anda menyertakan dokumen README pada direktori induk, GitHub akan secara otomatis menampilkannya pada homepage repositori.
+Ketika Anda menyertakan dokumen README pada direktori induk, GitHub akan secara otomatis menampilkannya pada halaman utama repositori.
 
-### Menulis panduan kontribusi Anda
+### Panduan menulis kontribusi
 
 Sebuah dokumen CONTRIBUTING menjelaskan kepada pengguna tentang bagaimana berpartisipasi pada proyek Anda. Sebagai contoh, Anda mungkin menyertakan informasi tentang:
 
