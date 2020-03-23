@@ -62,7 +62,7 @@ Um equívoco comum sobre contribuir para o open source é que você precisa cont
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Fui elogiado pelo meu trabalho no CocoaPods, mas a maioria das pessoas não sabe que eu realmente não faço nenhum trabalho real na própria ferramenta CocoaPods. Meu tempo no projeto é principalmente gasto fazendo coisas como documentação e trabalhando na marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -368,7 +368,7 @@ Um projeto que é amigavel e acolhedor indica que eles serão receptivos a novos
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Sempre que você vir uma thread longa, verifique as respostas dos principais desenvolvedores no final da thread. Eles estão resumindo construtivamente e tomando providências para levar a discussão a uma decisão de forma educada? Se você vir um monte de guerras acontecendo, isso frequentemente é um sinal de que energia esta sendo gasta em discussões em vez de desenvolvimento.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
@@ -384,7 +384,7 @@ Seja você um colaborador ocasional ou esteja tentando entrar em uma comunidade,
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
     \[Como um contribuidor iniciante,\] eu rapidamente percebi que tinha que fazer perguntas se quisesse fechar a issue. Eu analizei o código. Assim que percebi o que estava acontecendo, pedi mais orientações. E voilà! Consegui resolver a issue depois de obter todos os detalhes relevantes de que precisava.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 

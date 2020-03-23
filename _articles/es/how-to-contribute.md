@@ -62,7 +62,7 @@ Un error conceptual com&uacute;n acerca de contribuir con el c&oacute;digo abier
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Me han reconocido por mi trabajo en CocoaPods, pero la mayor&iacute;a de las personas no conoce que en realidad yo no realizo ning&uacute;n trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -383,7 +383,7 @@ Sin importar si eres un colaborador para una sola vez o est&aacute;s intentando 
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Como un nuevo colaborador,\] me di cuenta r&aacute;pidamente que necesitaba hacer preguntas si quer&iacute;a poder cerrar el problema. Recorr&iacute; el c&oacute;digo base. Una vez que comprend&iacute; lo que estaba ocurriendo, pregunt&eacute; que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
