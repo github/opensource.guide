@@ -558,19 +558,20 @@ Connect your local to the original "upstream" repository by adding it as a remot
 * **[یک برنچ(شاخه) ](https://guides.github.com/introduction/flow/)** برای تغیرات خودتان بسازید.
 * **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
 * **اسکرین‌شات مربوط به قبل و بعد آن را درج کنید** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **!تغییرات خود را آزمایش و بررسی کنید** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
+* **در سبک مورد نظر پروژه مشارکت کنید** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
 ## پس از ثبت و ارسال مشارکت شما چه اتفاقی می‌افتد؟
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+توانجامش دادی! تبریک می‌گوییم که به عنوان یک مشارکت کننده جامعه متن‌باز تبدیل می‌شوید. امیدواریم که این اولین مورد از موارد بسیاری باشد که بعداً مشارکت خواهید کرد.
 
-After you submit a contribution, one of the following will happen:
+:پس از ارسال سهم خود از مشارکت در پروژه، یکی از موارد زیر اتفاق می‌افتد
 
-### 😭 You don't get a response.
+### 😭 .شما پاسخی دریافت نمی‌کنید
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+امیدواریم که قبل از مشارکت در پروژه، آن را برای علائم فعالیت و حیات بررسی کرده باشید. با این حال، حتی در یک پروژه فعال هم ممکن است که به درخواست مشارکت شما پاسخی داده نشود 
+
 
 If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
 
@@ -586,14 +587,13 @@ When someone requests changes, be responsive. They've taken the time to review y
 
 If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 .مشارکت شما پذیرفته نمی شود
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
-
-Hooray! You've successfully made an open source contribution!
-
-## You did it!
+### 🎉 .مشارکت شما پذیرفته می شود
+ 
+هورا! شما با موفقیت یک مشارکت در پروژه متن‌باز را انجام دادید
+## !شما انجامش دادید
 
 Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
