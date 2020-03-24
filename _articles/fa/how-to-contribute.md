@@ -546,16 +546,18 @@ If you want to make a substantial contribution, open an issue to ask before work
 همیشه می‌توانید بعداً کامیت‌های بیشتری را اضافه کنید
 
 
-:اگر پروژه مورد نظر در گیت‌هاب است، نحوه ارائه درخواست پول ریکوئست آورده شده‌است
+:اگر پروژه مورد نظر شما در گیت‌هاب است، نحوه ارائه درخواست پول ریکوئست در اینجا آورده شده‌است
 
 * **[مخزن را فورک کنید](https://guides.github.com/activities/forking/)** و آن را به صورت لوکال کلون کنید
 
 .
 
 Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
+
+
+* **[یک برنچ(شاخه) ](https://guides.github.com/introduction/flow/)** برای تغیرات خودتان بسازید.
 * **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
+* **اسکرین‌شات مربوط به قبل و بعد آن را درج کنید** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
 * **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
 * **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
