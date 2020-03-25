@@ -17,6 +17,7 @@ related:
   - building
 ---
 
+
 ## Why contribute to open source?
 
 <aside markdown="1" class="pquote">
@@ -30,6 +31,7 @@ related:
 Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
 
 Why do people contribute to open source? Plenty of reasons!
+
 
 ### Improve software you rely on
 
