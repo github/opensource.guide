@@ -231,7 +231,7 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
 * [mention-bot](https://github.com/facebook/mention-bot) 可能的贡献者来帮你复查代码
 * [Danger](https://github.com/danger/danger) 帮你自动复查代码
 
-对于 bug 报告和其他常见形式的贡献，Github 有[Issue 模版和 Pull Request 模版](https://github.com/blog/2111-issue-and-pull-request-templates), 你可以用来降低沟通成本。你也可以设置[邮件过滤](https://github.com/blog/2203-email-updates-about-your-own-activity)来管理你的邮件提醒。
+对于 bug 报告和其他常见形式的贡献，GitHub 有[Issue 模版和 Pull Request 模版](https://github.com/blog/2111-issue-and-pull-request-templates), 你可以用来降低沟通成本。你也可以设置[邮件过滤](https://github.com/blog/2203-email-updates-about-your-own-activity)来管理你的邮件提醒。
 
 如果你想更加的先进和高效，代码风格指南和 linter 能让你项目收到的贡献更加规范，而且更容易复查和被接受。
 
