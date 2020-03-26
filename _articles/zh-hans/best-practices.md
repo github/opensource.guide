@@ -233,7 +233,7 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
 
 对于 bug 报告和其他常见形式的贡献，Github 有[Issue 模版和 Pull Request 模版](https://github.com/blog/2111-issue-and-pull-request-templates), 你可以用来降低沟通成本。你也可以设置[邮件过滤](https://github.com/blog/2203-email-updates-about-your-own-activity)来管理你的邮件提醒。
 
-如果你想更加的先进和高效，代码风格指南和 linte r能让你项目收到的贡献更加规范，而且更容易复查和被接受。
+如果你想更加的先进和高效，代码风格指南和 linter 能让你项目收到的贡献更加规范，而且更容易复查和被接受。
 
 当然啦，如果你的标准太复杂了，反倒会增加了贡献的难度。所以保证你只添加那些让每个人工作起来更容易的规则。
 
