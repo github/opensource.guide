@@ -1,27 +1,28 @@
-# Open Source Guides
+# Guias de Open Source
 
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
-Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
+Guias de Open Source (https://opensource.guide/) 
+são uma coleção de recursos para indivíduos, comunidades e empresas que desejam aprender a executar e contribuir para um projeto de código aberto.
 
 ## Background
-Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is because we felt that there weren't enough resources for people creating open source projects.
+Os Guias de Open Source foram criados e possuem curadoria do GitHub, juntamente com informações de revisores externos da comunidade, mas eles não são exclusivos dos produtos GitHub. Uma razão de termos iniciado este projeto foi porque nós sentimos que não havia recursos suficientes para as pessoas que criam projetos de código aberto.
 
-Our goal is to aggregate community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we try to use examples and quotations from others to illustrate our points.
+Nosso objetivo é agregar as melhores práticas da comunidade, * não * o que o GitHub (ou qualquer outro indivíduo ou entidade) considera melhor. Portanto, tentamos usar exemplos e citações de outras pessoas para ilustrar nossos pontos.
 
-## Contributing
+## Contribuições
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
+Este site é desenvolvido por [Jekyll](https://jekyllrb.com/). Confira nossa [contributing guidelines](/CONTRIBUTING.md) de maneiras de oferecer feedback e contribuir.
 
-## Licenses
+## Licensas
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+O conteúdo é liberado em [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Veja [notices](notices.md) para mais detalhes, incluindo diretrizes de atribuição, termos de contribuição, e licenças e permissões de software e de terceiros.
 
-## Acknowledgments
+## Agradecimentos
 
-The initial release of these guides were authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
+O conteúdo inicial desses guias é da atuoria de **@nayafia, @bkeepers, @stephbwills,** e **@mlinksva**.
 
-Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jessfraz, @joshsimmons, @kfogel, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nruff, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** and **@jeejkang** for designing and illustrating the guides.
+Obrigado a **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jessfraz, @joshsimmons, @kfogel, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nruff, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** Por emprestar suas valiosas contribuições e conhecimentos que antecederam o lançamento inicial e **@sophshep** E **@jeejkang** por fazer o design e a ilustração dos guias.
 
-## Disclaimer
-While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
+## Aviso legal
+Embora tenhamos conselhos sobre a execução de um projeto de código aberto, não somos advogados. Leia nosso [disclaimer](notices.md#legal-disclaimer) antes de entrar de cabeça nisso.
