@@ -1,7 +1,7 @@
 ---
 lang: tr
 title: Açık Kaynağa Nasıl Katkıda Bulunulur
-description: Açık kaynağa katkıda bulunmak ister misiniz? İlk defa yapanlar ve tecrübeliler için katkı yapma rehberi.
+description: Açık kaynağa katkıda bulunmak ister misiniz? İlk defa yapacaklar ve tecrübeliler için katkı yapma rehberi.
 class: contribute
 toc:
   why-contribute-to-open-source: Açık kaynağa neden katkıda bulunmalıyım?
@@ -23,21 +23,21 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmanın projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
   <p markdown="1" class="pquote-credit">
-- @errietta, ["Neden açık kaynaklı yazılıma katkıda bulunmayı seviyorum"](https://www.errietta.me/blog/open-source/)
+- @errietta, ["Açık kaynaklı yazılımlara katkıda bulunmayı neden seviyorum"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
 Açık kaynağa katkıda bulunmak, hayal edebileceğiniz herhangi bir konuyu öğrenmek, öğretmek ve deneyim geliştirmek için faydalı bir yol olabilir.
 
-İnsanlar neden açık kaynağa katkıda bulunur? Bunun biir sürü sebep vardır!
+İnsanlar neden açık kaynağa katkıda bulunur? Bunun bir sürü sebebi vardır!
 
 ### Güvendiğiniz yazılımı geliştirme
 
-Açık kaynak projelere katkıda bulunanların birçoğu projeyle kullanıcısı olarak tanışırlar. Kullandığınız açık kaynaklı bir yazılımda bir hata bulduğunuzda, kendiniz yamalayıp düzeltip düzeltemeyeceğiniz görmek için kaynağa bakmak isteyebilirsiniz. Bu durumda, yamanın yapılmasına katkıda bulunmak, arkadaşlarınızın (ve bir sonraki sürüme geçtiğinizde kendinizin de) bundan faydalanmasını sağlamak için en iyi yoldur.
+Açık kaynak projelere katkıda bulunanların birçoğu projeyle kullanıcısı olarak tanışırlar. Kullandığınız açık kaynak bir yazılımda bir hata bulduğunuzda, kendiniz yamalayıp düzeltip düzeltemeyeceğiniz görmek için kaynağa bakmak isteyebilirsiniz. Bu durumda, yamanın yapılmasına katkıda bulunmak, arkadaşlarınızın (ve bir sonraki sürüme geçtiğinizde kendinizin de) bundan faydalanmasını sağlamak için en iyi yoldur.
 
 ### Mevcut becerileri geliştirme
 
-Kodlama, kullanıcı arayüzü tasarımı, grafik tasarımı, yazma veya düzenleme, pratik arıyorsanız, açık kaynak kodlu herhangi bir projede sizin için mutlaka bir görev vardır.
+Kodlama, kullanıcı arayüzü tasarımı, grafik tasarımı, yazma veya düzenleme gibi konularda pratik arıyorsanız, herhangi bir açık kaynak projede sizin için mutlaka bir görev vardır.
 
 ### Benzer şeylerle ilgilenen insanlarla tanışma
 
@@ -103,7 +103,7 @@ Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve d
 ### Yazmayı sever misin?
 
 * Proje dokümantasyonunu yazın ve geliştirin
-* Projenin nasıl kullanıldığını gösteren bir örnek klasör oluşturun
+* Projenin nasıl kullanıldığını gösteren örnekler oluşturun
 * Proje için bir bülten başlatın veya posta listesinden önemli noktaları açığa çıkarın
 * [PyPA'nın katılımcılarının yaptığı gibi](https://github.com/pypa/python-packaging-user-guide/issues/194) proje için dersler yazın
 * Projenin dokümantasyonu için çeviri yapın
@@ -159,13 +159,13 @@ Bir yazılım geliştiricisi olsanız bile, bir dokümantasyon projesi üzerinde
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz.
   <p markdown="1" class="pquote-credit">
-- @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+- @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunulur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-Bir yazım hatası düzeltilmesinden daha fazla olarak, açık kaynağa katkıda bulunmak, partideki bir grup yabancıyla konuşmaya çalışmak gibidir. Lamalar hakkında konuşmaya başlarsanız, akvaryum balığı ile ilgili derin bir tartışma yapıyorlarsa, muhtemelen size biraz garip bakarlar.
+Bir yazım hatasının düzeltilmesinden daha fazla olarak, açık kaynağa katkıda bulunmak, partideki bir grup yabancıyla konuşmaya çalışmak gibidir. Lamalar hakkında konuşmaya başlarsanız, akvaryum balığı ile ilgili derin bir tartışma yapıyorlarsa, muhtemelen size biraz garip bakarlar.
 
-Kendi önerilerinizle kör bir şekilde atlamadan önce, odanın nasıl okunacağını öğrenmeye başlayın. Bunu yapmak, fikirlerinizi fark etme ve duyma şansınızı arttırır.
+Kendi önerilerinizle kör bir şekilde atlamadan önce, odanın neler konuştuğunu öğrenmekle başlayın. Bunu yapmak, fikirlerinizi fark ettirme ve duyurma şansınızı arttırır.
 
 ### Açık kaynak kodlu bir projenin anatomisi
 
@@ -189,16 +189,16 @@ Projelerin belgeleri de vardır. Bu dosyalar genellikle bir kütüphanenin dizin
 
 * **LICENCE:** Tanım gereği her açık kaynak projenin [bir açık kaynak lisansa](https://choosealicense.com) sahip olması gerekir. Projenin lisansı yoksa açık kaynak değildir.
 * **README:** README, projeye yeni topluluk üyelerini karşılayan kullanım kılavuzudur. Projenin neden yararlı olduğunu ve nasıl başlayacaklarını açıklar.
-* **CONTRIBUTING** README dosyaları projeyi insanların _kullanmalarına_ yardımcı olurken, katkı dökümanları insanların projeye _katkıda_ bulunmalarına yardımcı olur. Hangi tür katkıların gerekli olduğunu ve sürecin nasıl çalıştığını açıklar. Her projenin bir CONTRIBUTING dosyası olmasa da, varlığı bunun katkı bekleyen bir proje olduğunu işaret eder.
+* **CONTRIBUTING:** README dosyaları projeyi insanların _kullanmalarına_ yardımcı olurken, CONTRIBUTING dökümanları insanların projeye _katkıda_ bulunmalarına yardımcı olur. Hangi tür katkıların gerekli olduğunu ve sürecin nasıl çalıştığını açıklar. Her projenin bir CONTRIBUTING dosyası olmasa da, varlığı bunun katkı bekleyen bir proje olduğunu işaret eder.
 * **CODE_OF_CONDUCT:** Davranış kuralları, katılımcıların davranışlarıyla ilgili temel kuralları belirler ve arkadaşça ve misafirperver bir ortamı oluşturmaya yardımcı olur. Her projenin bir CODE_OF_CONDUCT dosyası olmasa da, varlığı bu konuya dikkate edilen bir proje olduğunu gösterir.
 * **Diğer belgeler:** Özellikle büyük projelerde öğretici belgeler, izlenecek yollar veya yönetim politikaları gibi ek belgeler olabilir.
 
 Son olarak, açık kaynak projeler tartışmaları yönetmek için aşağıdaki araçları kullanır. Arşivleri okumak, topluluğun nasıl düşündüğü ve çalıştığı hakkında size iyi bir fikir verecektir.
 
 * **Sorun listesi:** İnsanların projeyle ilgili sorunları tartıştıkları yerler.
-* **PR (Çekme) istekleri:** İnsanların devam etmekte olan değişiklikleri tartıştıkları ve inceledikleri yerler.
-* **Tartışma forumları veya e-posta listeleri:** Bazı projeler, tartışma konuları için bu kanalları kullanabilir (örneğin, hata raporları veya özellik istekleri yerine _"Nasıl? ..."_ veya _"Ne düşünüyorsunuz ..." gibi_). Diğerleri, tüm konuşmalar için sorun takipçisi kullanır.
-* **Anlık sohbet kanalı:** Bazı projelerde gündelik konuşmalar, işbirlikleri ve hızlı fikir alışverişleri için sohbet kanalları (Slack veya IRC gibi) kullanılır.
+* **PR (Değişiklik istekleri):** İnsanların devam etmekte olan değişiklikleri tartıştıkları ve inceledikleri yerler.
+* **Tartışma forumları veya e-posta listeleri:** Bazı projeler, tartışma konuları için bu kanalları kullanabilir (örneğin, hata raporları veya özellik istekleri yerine _"Nasıl ...?"_ veya _"Ne düşünüyorsunuz ...?" gibi_). Diğerleri, tüm konuşmalar için sorun listesini kullanır.
+* **Anlık sohbet kanalları:** Bazı projelerde gündelik konuşmalar, işbirlikleri ve hızlı fikir alışverişleri için sohbet kanalları (Slack veya IRC gibi) kullanılır.
 
 ## Katkıda bulunacak bir proje bulma
 
