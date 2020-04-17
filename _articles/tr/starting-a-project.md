@@ -1,7 +1,7 @@
 ---
 lang: tr
 title: Açık Kaynaklı bir Projeye Başlamak
-description: Açık kaynak dünyası hakkında daha fazla bilgi edinin ve kendi projenizi başlatmaya hazır olun.
+description: Açık kaynak dünyası hakkında daha fazla bilgi edinin ve kendinizi proje başlatmaya hazırlayın.
 class: beginners
 toc:
   the-what-and-why-of-open-source: Açık kaynağın nediri ve nedeni
@@ -47,21 +47,21 @@ Buna karşılık, kapalı kaynak işlemi bir restorana gidip bir dilim vişneli 
 
 Bir kişinin veya örgütün bir projeyi açmak istemesinin [birçok nedeni vardır](https://ben.balter.com/2015/11/23/why-open-source/). Bazı örnekler:
 
-* **İşbirliği:** Açık kaynaklı projeler, dünyadaki herhangi birinden değişiklikleri kabul edebilir. [Exercism](https://github.com/exercism/), örneğin, 350'den fazla katkıda bulunanlarla bir programlama egzersizi platformudur.
+* **İşbirliği:** Açık kaynak projeler, dünyadaki herhangi birinden değişiklikleri kabul edebilir. Örneğin, [Exercism](https://github.com/exercism/) 350'den fazla katkıda bulunana sahip bir programlama egzersiz platformudur.
 
-* **Adapte etme ve yeniden tanımlama:** Açık kaynaklı projeler herkes tarafından herhangi bir amaç için kullanılabilir. İnsanlar başka şeyler yapmak için bile kullanabilirler. Örneğin [WordPress](https://github.com/WordPress), [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) adı verilen mevcut bir projenin dalı olarak başladı.
+* **Adapte etme ve yeniden tanımlama:** Açık kaynaklı projeler herkes tarafından herhangi bir amaç için kullanılabilir. İnsanlar başka şeyler yapmak için bile kullanabilirler. Örneğin [WordPress](https://github.com/WordPress), [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) adı verilen mevcut bir projenin alt dalı olarak başladı.
 
-* **Şeffaflık:** Açık kaynaklı bir projeyi herkes hata veya tutarsızlık açısından inceleyebilir. Şeffaflık, [Bulgaristan](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) veya [ABD](https://sourcecode.cio.gov/) gibi hükümetlerle, bankacılık veya sağlık gibi endüstrileri düzenleyen ve [Let's Encrypt](https://github.com/letsencrypt) gibi güvenlik yazılımları için önemlidir.
+* **Şeffaflık:** Açık kaynaklı bir projeyi herkes hata veya tutarsızlık açısından inceleyebilir. Şeffaflık, [Bulgaristan](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) veya [ABD](https://sourcecode.cio.gov/) gibi develetler, bankacılık veya sağlık gibi sıkı kurallara bağlı endüstriler ve [Let's Encrypt](https://github.com/letsencrypt) gibi güvenlik yazılımları için önemlidir.
 
-Açık kaynak sadece yazılım için değil. Veri setlerinden kitaplara kadar her şeyi açık kaynak olarak sunabilirsiniz. [GitHub'a](https://github.com/explore) göz atın başka nelerin açık kaynak olabileceğini görün.
+Açık kaynak sadece yazılım için değildir. Veri setlerinden kitaplara kadar her şeyi açık kaynak olarak sunabilirsiniz. [GitHub'a](https://github.com/explore) göz atın başka nelerin açık kaynak olabileceğini görün.
 
 ### Açık kaynak "ücretsiz" anlamına mı geliyor?
 
 Açık kaynağın en büyük çekimlerinden biri paraya mal olmamasıdır. Bununla birlikte, "ücretsiz" olması, açık kaynağın toplam değerinin bir yan ürünüdür.
 
-[Açık kaynaklı bir lisans](https://opensource.org/osd-annotated), herkesin projenizi neredeyse her amaç için kullanmasını, değiştirmesini ve paylaşmasını gerektirdiğinden, projelerin kendileri ücretsiz olma eğilimindedir. Projenin kullanımı paraya mal olursa, herkes yasal olarak bir kopya çıkarabilir ve bunun yerine ücretsiz sürümü kullanabilir.
+[Açık kaynaklı bir lisans](https://opensource.org/osd-annotated), herkesin projenizi neredeyse her amaç için kullanmasını, değiştirmesini ve paylaşmasını gerektirdiğinden, projelerin kendileri ücretsiz olma eğilimindedir. Projenin kullanımı ücretli olursa, herkes yasal olarak bir kopya çıkarabilir ve bunun yerine ücretsiz sürümü kullanabilir.
 
-Sonuç olarak, çoğu açık kaynaklı proje ücretsizdir, ancak "ücretsiz" açık kaynak tanımlamasının bir parçası değildir. Açık kaynaklı projeler için dolaylı olarak ikili lisanslama veya sınırlı özellikler aracılığıyla ücretlendirme yapılmasına rağmen, açık kaynaklı resmi tanımlamaya uymanın yolları vardır.
+Sonuç olarak, çoğu açık kaynaklı proje ücretsizdir, ancak "ücretsiz" açık kaynak tanımlamasının bir parçası değildir. Açık kaynak projeler için açık kaynak tanımına uyarak ikili lisanslama veya sınırlı özellikler aracılığıyla ücretlendirme yolları vardır.
 
 ## Kendi açık kaynak projemi başlatmalı mıyım?
 
@@ -69,7 +69,7 @@ Kısa cevap evet, çünkü sonuç ne olursa olsun, kendi projenizi başlatmak, a
 
 Daha önce hiç kaynaklı bir proje açmadıysanız, insanların ne söyleyeceği veya birileri tarafından hiç fark edilip edilmeyeceği konusunda endişeli olabilirsiniz. Sizin ruh haliniz böyle ise, kesinlikle yalnız değilsin!
 
-Açık kaynak eser, ister yazı ister resim olsun, diğer tüm yaratıcı faaliyetler gibidir. Çalışmanızı dünyayla paylaşmak korkutucu gelebilir, ancak daha iyi olmanın tek yolu pratik yapmaktır - izleyiciniz olmasa bile.
+Açık kaynak eserler, ister yazı ister resim olsun diğer tüm yaratıcı faaliyetler gibidir. Çalışmanızı dünyayla paylaşmak korkutucu gelebilir, ancak daha iyi olmanın tek yolu pratik yapmaktır. İzleyiciniz olmasa bile.
 
 Henüz ikna olmadıysanız, hedeflerinizin ne olabileceğini düşünmek için biraz zaman ayırın.
 
@@ -150,7 +150,7 @@ README'nizde aşağıdaki soruları cevaplamaya çalışın:
 
 * Bu proje ne yapıyor?
 * Bu proje neden faydalıdır?
-* Kullanmaya naıl başlarım?
+* Kullanmaya nasıl başlarım?
 * İhtiyacım olursa nereden daha fazla yardım alabilirim?
 
 README'nizi, katkıları nasıl ele aldığınız, projenin amaçlarının ne olduğu ve lisanslar ve atıflar hakkında bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkı kabul etmek istemiyorsanız veya projeniz henüz olgun değilse, bunu mutlaka belirtin.
