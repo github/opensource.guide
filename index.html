@@ -1,4 +1,28 @@
----
-layout: index
-lang: en
----
+
+   public function twitt(Request $request)
+{
+    $request->validate([
+        'beforesong' => 'required|string|max:255',
+        'aftersong'=> 'required|string|max:255',
+        'image'   => 'required|image|mimes:jpeg,png,jpg,gif,svg|max:2048', ]);
+    $beforesong = $request->beforesong;
+    $aftersong = $request->aftersong;
+    $image = $request->file('image');
+
+    $newTwitte = ['status' => $beforesong.' '.$aftersong];
+
+    
+    if(!empty($request->images)){
+        foreach ($image as $key => $value) {
+            $uploaded_media = Twitter::uploadMedia(['media' => File::get($value->getRealPath())]);
+            if(!empty($uploaded_media)){
+                $newTwitte['media_ids'][$uploaded_media->media_id_string] = $uploaded_media->media_id_string;
+            }
+        }
+    }
+
+
+    $twitter = Twitter::postTweet($newTwitte);
+
+    
+    return back();   }`
