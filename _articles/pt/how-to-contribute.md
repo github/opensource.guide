@@ -233,7 +233,7 @@ Aqui está um checklist útil para avaliar se um projeto é bom para novos contr
   </label>
 </div>
 
-**O projeto aceita cotribuições ativamente**
+**O projeto aceita contribuições ativamente**
 
 Veja a atividade de commit no branch master. No GitHub, você pode ver essas informações na página inicial de um repositório.
 
@@ -334,7 +334,7 @@ Agora faça o mesmo para os pedidos de pull requests do projeto.
 
 **Projeto é acolhedor**
 
-Um projeto que é amigavel e acolhedor indica que eles serão receptivos a novos contribuidores.
+Um projeto que é amigável e acolhedor indica que eles serão receptivos a novos contribuidores.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -402,7 +402,7 @@ Antes de abrir uma issue, pull request ou fazer uma pergunta no bate-papo, ter o
 >
 > 😢 _"Como eu faço X?"_
 
-**Mantenha-se conciso e direto.** Assim como enviar um e-mail, todas as contribuições, por mais simples ou útil, exigem a análise de outra pessoa. Muitos projetos têm mais solicitações recebidas do que pessoas disponíveis para ajudar. Seja conciso. Você aumentará a chance de que alguém possa ajudá-lo.
+**Mantenha-se conciso e direto.** Assim como enviar um e-mail, todas as contribuições, por mais simples ou úteis, exigem a análise de outra pessoa. Muitos projetos têm mais solicitações recebidas do que pessoas disponíveis para ajudar. Seja conciso. Você aumentará a chance de que alguém possa ajudá-lo.
 
 > 😇 _"Eu gostaria de escrever um tutorial da API"_
 >
