@@ -26,7 +26,7 @@ Bir proje açık kaynak olduğunda, **herhangi biri herhangi bir amaç için pro
 
 Açık kaynak güçlüdür çünkü fikirlerin hızla yayılmasına izin vererek, benimseme engellerini azaltır. Ayrıca, kullanıcılara kapalı kaynağa göre kendi bilgisayarlarını ve bilgisayarlarında çalışan işlemleri kontrol etme imkanı da verir. Örneğin, açık kaynak yazılım kullanan bir işletme, yalnızca kapalı kaynak satıcısının ürün kararlarına güvenmek yerine, bir kişiyi yazılımda özel iyileştirmeler yapması için işe alma seçeneğine sahiptir.
 
-_Özgür yazılım_ , _açık kaynak ile_ aynı proje grubunu ifade eder. Bazen [bu terimleri](https://en.wikipedia.org/wiki/Free_and_open-source_software) "ücretsiz ve açık kaynak yazılım" (FOSS) veya "ücretsiz, özgür ve açık kaynak yazılım" (FLOSS) olarak birleştirilir. _Free_ ve  _Libre_ özgürlüğe atıfta bulunur [fiyata değil](#açık-kaynak-ücretsiz-anlamına-mı-geliyor).
+*Özgür yazılım* , *açık kaynak ile* aynı proje grubunu ifade eder. Bazen [bu terimleri](https://en.wikipedia.org/wiki/Free_and_open-source_software) "ücretsiz ve açık kaynak yazılım" (FOSS) veya "ücretsiz, özgür ve açık kaynak yazılım" (FLOSS) olarak birleştirilir. *Free* ve  *Libre* özgürlüğe atıfta bulunur [ fiyata değil](#does-open-source-mean-free-of-charge) .
 
 ### İnsanlar neden işlerini açık kaynak olarak sunarlar?
 
@@ -34,11 +34,11 @@ _Özgür yazılım_ , _açık kaynak ile_ aynı proje grubunu ifade eder. Bazen 
 
 Bir kişinin veya örgütün bir projeyi açmak istemesinin [birçok nedeni](https://ben.balter.com/2015/11/23/why-open-source/) vardır . Bazı örnekler:
 
-* **İşbirliği:** Açık kaynak projeler, dünyadaki herhangi birinden değişiklikleri kabul edebilir. Örneğin, [Exercism](https://github.com/exercism/) 350'den fazla katkıda bulunana sahip bir programlama egzersiz platformudur.
+- **İşbirliği:** Açık kaynak projeler, dünyadaki herhangi birinden değişiklikleri kabul edebilir. Örneğin, [Exercism](https://github.com/exercism/) 350'den fazla katkıda bulunana sahip bir programlama egzersiz platformudur.
 
-* **Adapte etme ve yeniden tanımlama:** Açık kaynaklı projeler herkes tarafından herhangi bir amaç için kullanılabilir. İnsanlar başka şeyler yapmak için bile kullanabilirler. Örneğin [WordPress](https://github.com/WordPress), [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) adı verilen mevcut bir projenin alt dalı olarak başladı.
+- **Adapte etme ve yeniden tanımlama:** Açık kaynaklı projeler herkes tarafından herhangi bir amaç için kullanılabilir. İnsanlar başka şeyler yapmak için bile kullanabilirler. Örneğin [WordPress](https://github.com/WordPress), [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) adı verilen mevcut bir projenin alt dalı olarak başladı.
 
-* **Şeffaflık:** Açık kaynaklı bir projeyi herkes hata veya tutarsızlık açısından inceleyebilir. Şeffaflık, [Bulgaristan](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) veya [ABD](https://sourcecode.cio.gov/) gibi develetler, bankacılık veya sağlık gibi sıkı kurallara bağlı endüstriler ve [Let's Encrypt](https://github.com/letsencrypt) gibi güvenlik yazılımları için önemlidir.
+- **Şeffaflık:** Açık kaynaklı bir projeyi herkes hata veya tutarsızlık açısından inceleyebilir. Şeffaflık, [Bulgaristan](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) veya [ABD](https://sourcecode.cio.gov/) gibi develetler, bankacılık veya sağlık gibi sıkı kurallara bağlı endüstriler ve [Let's Encrypt](https://github.com/letsencrypt) gibi güvenlik yazılımları için önemlidir.
 
 Açık kaynak sadece yazılım için değil. Veri kümelerinden kitaplara kadar her şeyi açık kaynak koduyla açabilirsiniz. Açık kaynak başka neler yapabileceğiniz hakkında fikir edinmek için [GitHub Explore](https://github.com/explore)'a göz atın.
 
@@ -62,7 +62,7 @@ Henüz ikna olmadıysanız, hedeflerinizin ne olabileceğini düşünmek için b
 
 ### Hedeflerinizi belirlemek
 
-Hedefler, neyin üzerinde çalışacağınızı, neye hayır diyeceğinizi ve başkalarından nereden yardıma ihtiyacınız olduğunu anlamanıza yardımcı olabilir. Kendinize şunu sorarak başlayın, _neden bu projeye kaynak açıyorum?_
+Hedefler, neyin üzerinde çalışacağınızı, neye hayır diyeceğinizi ve başkalarından nereden yardıma ihtiyacınız olduğunu anlamanıza yardımcı olabilir. Kendinize şunu sorarak başlayın, *neden bu projeye kaynak açıyorum?*
 
 Bu sorunun tek bir doğru cevabı yok. Tek bir proje veya farklı hedeflere sahip farklı projeler için birden fazla hedefiniz olabilir.
 
@@ -94,10 +94,10 @@ Genel olarak konuşursak, başkalarının işinizi görmesini ve işiniz hakkın
 
 Projenizi hangi aşamada açmaya karar verirseniz verin, her proje aşağıdaki belgeleri içermelidir:
 
-* [Açık kaynak lisansı](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Katkıda bulunma kuralları](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Davranış kuralları](../code-of-conduct/)
+- [Açık kaynak lisansı](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+- [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
+- [Katkıda bulunma kuralları](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+- [Davranış kuralları](../code-of-conduct/)
 
 Bir geliştirici olarak, bu bileşenler beklentileri iletmenize, katkıları yönetmenize ve herkesin yasal haklarını (kendi haklarınız dahil) korumanıza yardımcı olur. Olumlu bir deneyim yaşama şansınızı önemli ölçüde artırırlar.
 
@@ -123,10 +123,10 @@ README'ler projenizi nasıl kullanacağınızı açıklamaktan daha fazlasını 
 
 README'nizde aşağıdaki soruları cevaplamaya çalışın:
 
-* Bu proje ne yapıyor?
-* Bu proje neden faydalıdır?
-* Kullanmaya nasıl başlarım?
-* İhtiyacım olursa nereden daha fazla yardım alabilirim?
+- Bu proje ne yapıyor?
+- Bu proje neden faydalıdır?
+- Kullanmaya nasıl başlarım?
+- İhtiyacım olursa nereden daha fazla yardım alabilirim?
 
 README'nizi, katkıları nasıl ele aldığınız, projenin amaçlarının ne olduğu ve lisanslar ve atıflar hakkında bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkı kabul etmek istemiyorsanız veya projeniz henüz olgun değilse, bunu mutlaka belirtin.
 
@@ -142,15 +142,15 @@ Kök dizinine bir README dosyası eklediğinizde, GitHub otomatik olarak depo an
 
 Bir CONTRIBUTING dosyası, izleyicilerinize projenize nasıl katkıda bulunabileceklerini söyler. Örneğin, şunlarla ilgili bilgiler de ekleyebilirsiniz:
 
-* Hata raporu nasıl gönderilir ([sorun ve istek şablonlarını](https://github.com/blog/2111-issue-and-pull-request-templates) kullanmayı deneyin)
-* Yeni bir özellik nasıl önerilir
-* Proje ortamı nasıl kurulur ve testler nasıl yapılır
+- Hata raporu nasıl gönderilir ([sorun ve istek şablonlarını](https://github.com/blog/2111-issue-and-pull-request-templates) kullanmayı deneyin)
+- Yeni bir özellik nasıl önerilir
+- Proje ortamı nasıl kurulur ve testler nasıl yapılır
 
 Teknik ayrıntılara ek olarak, bir CONTRIBUTING dosyası, aşağıdakiler gibi katkılar için beklentilerinizi iletme fırsatıdır:
 
-* Aradığınız katkı türleri
-* Proje için yol haritanız veya vizyonunuz
-* Katkıda bulunanlar sizinle nasıl temasa geçmeli (veya geçmemeli)
+- Aradığınız katkı türleri
+- Proje için yol haritanız veya vizyonunuz
+- Katkıda bulunanlar sizinle nasıl temasa geçmeli (veya geçmemeli)
 
 Sıcak, arkadaşça bir ton kullanmak ve katkılar için özel önerilerde bulunmak (örneğin, dokümantasyon yazmak veya bir web sitesi yapmak gibi) yeni gelenlerin kendilerini memnun ve istekli hissetmelerini sağlama konusunda yardımcı olabilir.
 
@@ -176,7 +176,7 @@ Son olarak, bir davranış kural listesi projenizin katılımcı davranışları
 
 Daha fazla bilgi için [Davranış Kuralları kılavuzumuza](../code-of-conduct/) göz atın.
 
-Katılımcıların _nasıl_ davranmasını beklediğinizi iletmenin yanı sıra, bir davranış kural listesi de bu beklentilerin kimlere, ne zaman başvuruda bulunduklarına ve bir ihlal meydana geldiğinde ne yapılması gerektiğini açıklamaya meyillidir.
+Katılımcıların *nasıl* davranmasını beklediğinizi iletmenin yanı sıra, bir davranış kural listesi de bu beklentilerin kimlere, ne zaman başvuruda bulunduklarına ve bir ihlal meydana geldiğinde ne yapılması gerektiğini açıklamaya meyillidir.
 
 Açık kaynaklı lisanslara benzer şekilde, davranış kuralları için de yeni ortaya çıkan standartlar vardır, bu yüzden kendiniz yazmak zorunda değilsiniz. [Contributor Covenant](https://contributor-covenant.org/), Kubernet, Rails ve Swift dahil olmak üzere [40.000'den fazla açık kaynaklı proje](https://www.contributor-covenant.org/adopters) tarafından kullanılan bir davranış kural listesi şablonudur. Hangi metni kullanırsanız kullanın, gerektiğinde davranış kurallarınızı uygulamak için hazırlıklı olmalısınız.
 
@@ -190,8 +190,8 @@ Marka, gösterişli bir logo veya çekici bir proje adından daha fazlasıdır. 
 
 Hatırlanması kolay olan ve ideal olarak projenin ne yaptığı hakkında bir fikir veren bir isim seçin. Örneğin:
 
-* [Sentry](https://github.com/getsentry/sentry) çöküş raporlaması için uygulamaları izler
-* [Thin](https://github.com/macournoyer/thin) hızlı ve basit bir Ruby web sunucusudur
+- [Sentry](https://github.com/getsentry/sentry) çöküş raporlaması için uygulamaları izler
+- [Thin](https://github.com/macournoyer/thin) hızlı ve basit bir Ruby web sunucusudur
 
 Mevcut bir projenin üzerine inşa ediyorsanız, adlarını ön ek olarak kullanmak projenizin ne yaptığını netleştirmeye yardımcı olabilir (örneğin, [node-fetch](https://github.com/bitinn/node-fetch) `window.fetch` komutunu getirir).
 
@@ -225,7 +225,7 @@ Yeni başladığınızda, projeniz için bir stil rehberi yazmak gerekli değild
 
 ## Lansman öncesi kontrol listeniz
 
-Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol listesi. Tüm kutuları işaretleyin? Projeye açmaya hazırsın! ["publish"](https://help.github.com/articles/making-a-private-repository-public/) düğmesine basın ve arkanıza yaslanın.
+Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol listesi. Tüm kutuları işaretleyin? Projeye açmaya hazırsın! [ "publish"](https://help.github.com/articles/making-a-private-repository-public/) düğmesine basın ve arkanıza yaslanın.
 
 **Belgeler**
 
