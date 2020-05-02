@@ -9,7 +9,7 @@ toc:
   learning-to-say-no: Hayır demeyi öğrenme
   leverage-your-community: Topluluğunuzdan yararlanma
   bring-in-the-robots: Robotları kullanın
-  its-okay-to-hit-pause: It’s okay to hit pause
+  its-okay-to-hit-pause: Duraklatmak sorun değildir
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
