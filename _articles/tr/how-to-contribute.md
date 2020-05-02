@@ -4,12 +4,12 @@ title: Açık Kaynağa Nasıl Katkıda Bulunulur
 description: Açık kaynağa katkıda bulunmak ister misiniz? İlk defa yapacaklar ve tecrübeliler için katkı yapma rehberi.
 class: contribute
 toc:
-  why-contribute-to-open-source: Açık kaynağa neden katkıda bulunmalıyım?
-  what-it-means-to-contribute: Katkıda bulunmak ne demektir?
-  orienting-yourself-to-a-new-project: Kendinizi yeni bir projeye yönlendirmek
-  finding-a-project-to-contribute-to: Katkıda bulunacak bir proje bulma
-  how-to-submit-a-contribution: Nasıl katkı yapılır?
-  what-happens-after-you-submit-a-contribution: Bir katkı gönderdikten sonra ne olur?
+  why-contribute-to-open-source: "Açık kaynağa neden katkıda bulunmalıyım?"
+  what-it-means-to-contribute: "Katkıda bulunmak ne demektir?"
+  orienting-yourself-to-a-new-project: "Kendinizi yeni bir projeye yönlendirmek"
+  finding-a-project-to-contribute-to: "Katkıda bulunacak bir proje bulma"
+  how-to-submit-a-contribution: "Nasıl katkı yapılır?"
+  what-happens-after-you-submit-a-contribution: "Bir katkı gönderdikten sonra ne olur?"
 order: 1
 image: "/assets/images/cards/contribute.png"
 related:
