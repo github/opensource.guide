@@ -26,14 +26,7 @@ Bir proje açık kaynak olduğunda, **herhangi biri herhangi bir amaç için pro
 
 Açık kaynak güçlüdür çünkü fikirlerin hızla yayılmasına izin vererek, benimseme engellerini azaltır.
 
-Nasıl çalıştığını anlamak için, arkadaşınızın herkes yemek getirsin partisi verdiğini hayal edin ve vişneli turta götürmüşsünüz.
-
-* Herkes turta yemek istedi (_kullanma_)
-* Turta çok popüler oldu! Sizden tarifi isterler (_görüntüleme_)
-* Bir arkadaşın, pasta şefi Alex şekeri azaltmayı önerir (_değiştirme_)
-* Başka bir arkadaş, Lisa gelecek hafta bir akşam yemeği için kullanmak istiyor (_dağıtma_)
-
-Buna karşılık, kapalı kaynak işlemi bir restorana gidip bir dilim vişneli turta siparişi vermek gibidir. Pasta yemek için bir ücret ödemeniz gerekir ve restoran muhtemelen size tariflerini vermez. Pastalarını aynen kopyalayıp kendi adınızla satarsanız, restoran size karşı dava açabilir.
+_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open source software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
 
 ### İnsanlar neden işlerini açık kaynak olarak sunarlar?
 
