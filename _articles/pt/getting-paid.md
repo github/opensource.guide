@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: Sendo Pago por Trabalhos Open Source
-description: Mantenha seu trabalho open source conseguindo suporte financeiro por seu tempo ou seu porojeto.
+description: Mantenha seu trabalho open source conseguindo suporte financeiro por seu tempo ou seu projeto.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -184,5 +184,3 @@ O financiador tem algum requisito acerca do desembolso? Por exemplo, pode ser ne
 ## Experimente e não desista
 
 Conseguir dinheiro não é fácil, quer você seja um projeto open source, uma organização sem fins lucrativos ou uma startup de software, e, na maioria dos casos, requer que você seja criativo. Identificar o quanto você precisa ser pago, fazer sua pesquisa, e se colocar no lugar do seu financiador irá ajudá-lo a construir um caso convincente de financiamento.
-
->

@@ -20,4 +20,5 @@ HTMLProofer::Runner.new(
   favicon: true,
   assume_extension: true,
   only_4xx: true,
+  http_status_ignore: [429]
 ).run

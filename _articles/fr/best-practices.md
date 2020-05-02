@@ -181,7 +181,7 @@ Si vous avez besoin de quitter votre projet, que ce soit en pause ou en permanen
 
 Si d'autres personnes sont enthousiastes à l'égard de sa direction, donnez-leur l'autorisation de s'engager ou remettez officiellement le contrôle à quelqu'un d'autre. Si quelqu'un a forké votre projet et le maintient activement ailleurs, envisagez de créer un lien vers le fork de votre projet d'origine. C'est génial que tant de gens veulent que votre projet continue à vivre !
 
-@progrium [a trouvé que](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentant la vision de son projet, [Dokku](https://github.com/dokku/dokku), a aidé à atteindre ces objectifs même après s'être retiré du projet:
+@progrium [a trouvé que](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentant la vision de son projet, [Dokku](https://github.com/dokku/dokku), a aidé à atteindre ces objectifs même après s'être retiré du projet:
 
 > J'ai écrit une page wiki décrivant ce que je voulais et pourquoi je le voulais. Pour une raison ou une autre, j'ai été surpris de constater que les responsables ont commencé à faire avancer le projet dans cette direction ! Est-ce arrivé exactement comment je le ferais ? Pas toujours. Mais cela rapprochait encore le projet de ce que j'avais écrit.
 
