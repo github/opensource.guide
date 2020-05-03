@@ -19,7 +19,13 @@ related:
 
 ## Açık kaynağa neden katkıda bulunmalıyım?
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">   \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmanın projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!   <p markdown="1" class="pquote-credit"> - @errietta, ["Açık kaynaklı yazılımlara katkıda bulunmayı neden seviyorum"](https://www.errietta.me/blog/open-source/)   </p> </aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
+  \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmanın projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
+  <p markdown="1" class="pquote-credit">
+- @errietta, ["Açık kaynaklı yazılımlara katkıda bulunmayı neden seviyorum"](https://www.errietta.me/blog/open-source/)
+  </p>
+</aside>
 
 Açık kaynağa katkıda bulunmak, hayal edebileceğiniz herhangi bir konuyu öğrenmek, öğretmek ve deneyim geliştirmek için faydalı bir yol olabilir.
 
@@ -63,11 +69,23 @@ Endişe etmeyin! Açık kaynak kodlu bir projeye dahil olmanın çok farklı yol
 
 Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak katkıda bulunmanız gerektiğidir. Aslında, genellikle [en çok ihmal edilen veya göz ardı edilen](https://github.com/blog/2195-the-shape-of-open-source) projenin diğer kısımlarıdır. Bu tür katkılara katılmayı teklif ederek projeye _büyük bir_ iyilik yapacaksınız!
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">   CocoaPods'taki çalışmamla ünlüydüm, ama çoğu insan CocoaPods aracının kendisinde gerçek bir iş yapmadığımı bilmiyor. Projedeki zamanım çoğunlukla belgeleme ve markalaşma gibi şeyler yapmakla geçiyor.   <p markdown="1" class="pquote-credit"> - @orta, ["Varsayılan olarak OSS’ye taşıma"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)   </p> </aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
+  CocoaPods'taki çalışmamla ünlüydüm, ama çoğu insan CocoaPods aracının kendisinde gerçek bir iş yapmadığımı bilmiyor. Projedeki zamanım çoğunlukla belgeleme ve markalaşma gibi şeyler yapmakla geçiyor.
+  <p markdown="1" class="pquote-credit">
+- @orta, ["Varsayılan olarak OSS’ye taşıma"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+  </p>
+</aside>
 
 Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve diğer topluluk üyeleriyle tanışmak için harika bir yoldur. Bu ilişkileri kurmak size projenin diğer bölümlerinde de çalışma fırsatı verecektir.
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">   İlk önce 17 Haziran 2002 tarihinde düzeltme yamamı e-postayla gönderdiğimde Python geliştirme ekibine (aka python-dev) ulaştım. Hızlı bir şekilde hatayı yakaladım ve grubun e-posta özetlerini iyileştirmeye başladım. Bir konu hakkında net bilgi almak için bana büyük bir bahane verdiler, ama daha kritik olarak, birinin düzeltilmesi gereken bir şeyi işaret ettiğini fark ettim.   <p markdown="1" class="pquote-credit"> - @brettcannon, ["Geliştirme Hikayeleri"](https://github.com/open-source/stories/brettcannon)   </p> </aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
+  İlk önce 17 Haziran 2002 tarihinde düzeltme yamamı e-postayla gönderdiğimde Python geliştirme ekibine (aka python-dev) ulaştım. Hızlı bir şekilde hatayı yakaladım ve grubun e-posta özetlerini iyileştirmeye başladım. Bir konu hakkında net bilgi almak için bana büyük bir bahane verdiler, ama daha kritik olarak, birinin düzeltilmesi gereken bir şeyi işaret ettiğini fark ettim.
+  <p markdown="1" class="pquote-credit">
+- @brettcannon, ["Geliştirme Hikayeleri"](https://github.com/open-source/stories/brettcannon)
+  </p>
+</aside>
 
 ### Etkinlik planlamayı sever misiniz?
 
@@ -90,7 +108,13 @@ Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve d
 * [PyPA'nın katılımcılarının yaptığı gibi](https://github.com/pypa/python-packaging-user-guide/issues/194) proje için dersler yazın
 * Projenin dokümantasyonu için çeviri yapın
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">   Cidden, \[belgeleme\] çok önemlidir. Şu ana kadarki belgeler mükemmeldi ve Babil'in keskin bir özelliği oldu. Bazı özellikleri kesinlikle kullanabilecek bölümler var, hatta burada bir paragrafın eklenmesi bile çok beğeni topluyor.   <p markdown="1" class="pquote-credit"> - @kittens, ["Katkıda bulunanlar için çağrı"](https://github.com/babel/babel/issues/1347)   </p> </aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
+  Cidden, \[belgeleme\] çok önemlidir. Şu ana kadarki belgeler mükemmeldi ve Babil'in keskin bir özelliği oldu. Bazı özellikleri kesinlikle kullanabilecek bölümler var, hatta burada bir paragrafın eklenmesi bile çok beğeni topluyor.
+  <p markdown="1" class="pquote-credit">
+- @kittens, ["Katkıda bulunanlar için çağrı"](https://github.com/babel/babel/issues/1347)
+  </p>
+</aside>
 
 ### Organize etmeyi sever misiniz?
 
@@ -131,7 +155,13 @@ Bir yazılım geliştiricisi olsanız bile, bir dokümantasyon projesi üzerinde
 
 ## Kendinizi yeni bir projeye yönlendirmek
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">   Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz.   <p markdown="1" class="pquote-credit"> - @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunulur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)   </p> </aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
+  Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz.
+  <p markdown="1" class="pquote-credit">
+- @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunulur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+  </p>
+</aside>
 
 Bir yazım hatasının düzeltilmesinden daha fazla olarak, açık kaynağa katkıda bulunmak, partideki bir grup yabancıyla konuşmaya çalışmak gibidir. Lamalar hakkında konuşmaya başlarsanız, akvaryum balığı ile ilgili derin bir tartışma yapıyorlarsa, muhtemelen size biraz garip bakarlar.
 
