@@ -38,8 +38,8 @@ Belgelerinizle başlayın:
 
 * **Yeni birileri projenize geldiğinde, ilgilendikleri için teşekkür edin!** Birinin geri gelmek istememesi için yalnızca bir olumsuz deneyim yeterlidir.
 * **Hızlı cevap verin.** Sorunlarına bir ay boyunca cevap vermezseniz, büyük olasılıkla projenizi çoktan unutmuş olurlar.
-* **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#katkda-bulunmak-ne-demektir) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
-* **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#hayr-demeyi-renme) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
+* **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#katkıda-bulunmak-ne-demektir) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
+* **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#hayır-demeyi-öğrenme) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
