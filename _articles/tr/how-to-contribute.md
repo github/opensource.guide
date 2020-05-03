@@ -202,7 +202,7 @@ Yeni projeleri keşfetmenize ve katkıda bulunmanıza yardımcı olmak için aş
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://www.sourcesort.com/)
 
-### Katkıda bulunmadan önce üzerinden geçilebilcek bir kontrol listesi
+### Katkıda bulunmadan önce üzerinden geçilebilecek bir kontrol listesi
 
 Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kabul etmeye uygun olduğundan emin olmak için hızlı bir tarama yapın. Aksi takdirde, sıkı çalışmanız asla bir yanıt alamayabilirsiniz.
 
@@ -416,7 +416,7 @@ Katkınızı gönderdikten sonra, aşağıdakilerden biri olacaktır:
 
 ### 😭 Hiç bir cevap almazsınız.
 
-Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkıda-bulunmadan-önce-üzerinden-geçilebilcek-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamaması olası.
+Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkıda-bulunmadan-önce-üzerinden-geçilebilecek-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamaması olası.
 
 Bir haftadan uzun bir süredir yanıt alamadıysanız, aynı konuya kibarca yorum yazmak, birinden inceleme istemek doğru olur. Katkınızı gözden geçirecek doğru kişinin adını biliyorsanız, bunları o konuya ekleyebilirsiniz (@).
 

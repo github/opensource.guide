@@ -108,7 +108,7 @@ Projeniz için ek bir katılımcı sözleşmesi düşünmek isteyebileceğiniz b
 
 Projeniz için ek bir katılımcı sözleşmesi kullanmanız gerekiyorsa, katılımcıların dikkatini dağıtmayı en aza indirmek için [CLA yardımcısı](https://github.com/cla-assistant/cla-assistant) gibi bir entegrasyon kullanmayı düşünün.
 
-## Şirketimin hukuk ekibinin neyi bilmesi gerekiyor?
+## Şirketimin hukuk ekibinin neleri bilmesi gerekiyor?
 
 Açık kaynaklı bir projeyi bir şirket çalışanı olarak yayınlıyorsanız, önce hukuk ekibiniz bir proje tedarik ettiğinizi bilmelidir.
 
@@ -122,7 +122,7 @@ Daha iyi veya daha kötüsü, kişisel bir proje olsa bile, onlara bildirmeyi d�
 
 * **Patentler:** Şirketiniz, projenizin açık kaynak kodlu bir şekilde [kamuya açıklanmasını](https://en.wikipedia.org/wiki/Public_disclosure) sağlayacak bir patent başvurusu yapıyor mu? Ne yazık ki beklemeniz istenebilir (veya şirketten, uygulamanın bilgeliğini yeniden gözden geçirir). Projenize büyük patent portföyüne sahip şirketlerin çalışanlarından katkıda bulunmayı bekliyorsanız, yasal ekibiniz katkıda bulunanlardan (Apache 2.0 veya GPLv3 gibi) açık bir patent ödeneği olan bir lisans  veya ek bir katılımcı sözleşmesini ( yukarıyı bakın) kullanmanızı isteyebilir.
 
-* **Ticari Markalar:** Projenizin adının [mevcut hiçbir ticari marka ile çakışmadığından](../starting-a-project/#i%CC%87sim-%C3%A7at%C4%B1%C5%9Fmalar%C4%B1ndan-ka%C3%A7%C4%B1nmak) emin olun. Projede kendi şirket ticari markalarınızı kullanıyorsanız, herhangi bir anlaşmazlık yaratmadığını kontrol edin. [FOSSmarks](http://fossmarks.org/) , markaları ücretsiz ve açık kaynaklı projeler bağlamında anlamak için pratik bir rehberdir.
+* **Ticari Markalar:** Projenizin adının [mevcut hiçbir ticari marka ile çakışmadığından](../starting-a-project/#isim-çatışmalarından-kaçınmak) emin olun. Projede kendi şirket ticari markalarınızı kullanıyorsanız, herhangi bir anlaşmazlık yaratmadığını kontrol edin. [FOSSmarks](http://fossmarks.org/) , markaları ücretsiz ve açık kaynaklı projeler bağlamında anlamak için pratik bir rehberdir.
 
 * **Gizlilik:** Projeniz kullanıcılar hakkında veri topluyor mu? Şirket sunucularına "bağlanıyor" mu? Hukuk ekibiniz şirket politikalarına ve dış düzenlemelere uymanıza yardımcı olabilir.
 
