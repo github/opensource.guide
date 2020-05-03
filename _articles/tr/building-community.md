@@ -31,15 +31,15 @@ Topluluğunuzu oluştururken huninin tepesindeki birinin (potansiyel bir kullan�
 Belgelerinizle başlayın:
 
 * **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#readme-yazma) ve sade kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
-* [CONTRIBUTING dosyanızı](../starting-a-project/#katkıda-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
+* [CONTRIBUTING dosyanızı](../starting-a-project/#katkda-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
 * **Başlamak için iyi sorunlar**: Yeni katkıda bulunanların başlamasına yardımcı olmak için, [yeni başlayanların çözmesi için yeterince basit olan sorunları açıkça etiketlemeyi](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels) düşünün. GitHub daha sonra bu sorunları platformda çeşitli yerlere taşıyacak, faydalı katkıları artıracak ve kullanıcıların seviyeleri için çok zor olan sorunlarla karşılaştırmayak sürtünmeyi azaltacak.
 
 [GitHub'ın 2017 Açık Kaynak Anketi](http://opensourcesurvey.org/2017/) gösterdi ki açık kaynak kullanıcıları için en büyük problem yarım ya da karmaşık belgelerdir. İyi bir dökümantasyon insanların projeniz ile etkileşime geçmesini sağlar. Eninde sonunda birisi bir sorun bildirecek veya istekte bulunacaktır. Bu etkileşimleri, dönüşüm hunisinden aşağıya taşımak için fırsatlar olarak kullanın.
 
 * **Yeni birileri projenize geldiğinde, ilgilendikleri için teşekkür edin!** Birinin geri gelmek istememesi için yalnızca bir olumsuz deneyim yeterlidir.
 * **Hızlı cevap verin.** Sorunlarına bir ay boyunca cevap vermezseniz, büyük olasılıkla projenizi çoktan unutmuş olurlar.
-* **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#katkıda-bulunmak-ne-demektir) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
-* **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#hayır-demeyi-öğrenme) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
+* **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#katkda-bulunmak-ne-demektir) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
+* **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#hayr-demeyi-renme) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -127,7 +127,7 @@ Bu tür insanlara karşı sıfır tolerans politikası benimsemek için elinizde
 
 Projenizin önemsiz yönleriyle ilgili düzenli tartışmalar, sizin de dahil olmak üzere diğerlerini önemli görevlere odaklanmaktan alıkoyuyor. Projenize gelen yeni insanlar bu konuşmaları görebilir ve katılmak istemeyebilir.
 
-Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davranış-kural-listesini-güçlendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
+Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davran-kural-listesini-glendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
 
 ### Katkıda bulunan katılımcılarla oldukları yerde tanışın
 
