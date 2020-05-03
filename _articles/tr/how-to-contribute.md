@@ -342,7 +342,13 @@ Arkadaş canlısı ve misafirperver bir proje, yeni katılımcılara açık olac
   <label for="cbox17" class="overflow-hidden d-block text-normal">     Geliştiriciler insanlara katkılarından dolayı teşekkür eder mi?   </label>
 </div>
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">   Ne zaman uzun bir tartışma görüyorsanız, çekirdek geliştiricilerin konu başından geç gelen cevaplarını anında kontrol edin. Yapıcı bir şekilde özetliyorlar mı ve kibarlıklarını korurken bir karar vermek için adımlar atıyorlar mı? Çok fazla söz savaşı yaşandığını görüyorsanız, bu genellikle enerjinin gelişme yerine tartışmaya girdiğinin işaretidir.   <p markdown="1" class="pquote-credit"> - @kfogel, [_OPS_ üretiliyor](https://producingoss.com/en/evaluating-oss-projects.html)   </p> </aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
+  Ne zaman uzun bir tartışma görüyorsanız, çekirdek geliştiricilerin konu başından geç gelen cevaplarını anında kontrol edin. Yapıcı bir şekilde özetliyorlar mı ve kibarlıklarını korurken bir karar vermek için adımlar atıyorlar mı? Çok fazla söz savaşı yaşandığını görüyorsanız, bu genellikle enerjinin gelişme yerine tartışmaya girdiğinin işaretidir.
+  <p markdown="1" class="pquote-credit">
+- @kfogel, [_OPS_ üretiliyor](https://producingoss.com/en/evaluating-oss-projects.html)
+  </p>
+</aside>
 
 ## Nasıl katkı yapılır?
 
@@ -352,7 +358,13 @@ Hoşunuza giden bir proje buldunuz ve katkıda bulunmaya hazırsınız. En sonun
 
 İster bir kerelik bir katkı yapan, ister bir topluluğa katılmaya çalışan biri olun, başkalarıyla çalışmak açık kaynak dünyasında geliştireceğiniz en önemli becerilerden biridir.
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">   \[Yeni bir katılımcı olarak \] ben bir sorunu çözmek istediğimde hemen soru sormam gerektiğini fark ettim. Kod tabanında dolaştım. Bir konunun ne olduğunu anladığıma dair bir şeyler hissettiğimde, daha fazla yardım istemiştim. Ve voilà! İhtiyacım olan tüm detayları aldıktan sonra sorunu çözebildim.   <p markdown="1" class="pquote-credit"> - @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)   </p> </aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
+  \[Yeni bir katılımcı olarak \] ben bir sorunu çözmek istediğimde hemen soru sormam gerektiğini fark ettim. Kod tabanında dolaştım. Bir konunun ne olduğunu anladığıma dair bir şeyler hissettiğimde, daha fazla yardım istemiştim. Ve voilà! İhtiyacım olan tüm detayları aldıktan sonra sorunu çözebildim.
+  <p markdown="1" class="pquote-credit">
+- @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+  </p>
+</aside>
 
 Bir sorunu açmadan veya bir PR oluşturmadan ya da sohbette bir soru sormadan önce, fikirlerinizi etkili bir şekilde ortaya çıkarmak için bu noktaları aklınızda bulundurun.
 
@@ -402,7 +414,13 @@ Bir sorun açmadan veya talepte bulunmadan önce, belirli bir şey eklemeniz ger
 
 Önemli bir katkı yapmak istiyorsanız, üzerinde çalışmadan önce sormanız gereken bir sorun açın. Projeyi bir süre izlemeniz yararlı olacaktır (GitHub'da, tüm konuşmalar size bildirilmek için ["İzle"yi tıklayabilirsiniz](https://help.github.com/articles/watching-repositories/)) ve kabul edilmeyebilecek bir işe başlamadan önce topluluk üyelerini tanıyın.
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">   Aktif olarak kullandığınız bir projeyi seçmek, GitHub'da “izlemek” ve her konuyu ve PR'ı okumaktan <em>çok şey</em> öğreneceksiniz.   <p markdown="1" class="pquote-credit"> - @gaearon [birleştirme projelerinde](https://twitter.com/dan_abramov/status/819555257055322112)   </p> </aside>
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
+  Aktif olarak kullandığınız bir projeyi seçmek, GitHub'da “izlemek” ve her konuyu ve PR'ı okumaktan <em>çok şey</em> öğreneceksiniz.
+  <p markdown="1" class="pquote-credit">
+- @gaearon [birleştirme projelerinde](https://twitter.com/dan_abramov/status/819555257055322112)
+  </p>
+</aside>
 
 ### Bir istek/sorun açmak
 
