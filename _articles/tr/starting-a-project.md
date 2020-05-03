@@ -26,7 +26,7 @@ Bir proje açık kaynak olduğunda, **herhangi biri herhangi bir amaç için pro
 
 Açık kaynak güçlüdür çünkü fikirlerin hızla yayılmasına izin vererek, benimseme engellerini azaltır. Ayrıca, kullanıcılara kapalı kaynağa göre kendi bilgisayarlarını ve bilgisayarlarında çalışan işlemleri kontrol etme imkanı da verir. Örneğin, açık kaynak yazılım kullanan bir işletme, yalnızca kapalı kaynak satıcısının ürün kararlarına güvenmek yerine, bir kişiyi yazılımda özel iyileştirmeler yapması için işe alma seçeneğine sahiptir.
 
-*Özgür yazılım* , *açık kaynak ile* aynı proje grubunu ifade eder. Bazen [bu terimleri](https://en.wikipedia.org/wiki/Free_and_open-source_software) "ücretsiz ve açık kaynak yazılım" (FOSS) veya "ücretsiz, özgür ve açık kaynak yazılım" (FLOSS) olarak birleştirilir. *Free* ve  *Libre* özgürlüğe atıfta bulunur [ fiyata değil](#does-open-source-mean-free-of-charge) .
+*Özgür yazılım* , *açık kaynak ile* aynı proje grubunu ifade eder. Bazen [bu terimleri](https://en.wikipedia.org/wiki/Free_and_open-source_software) "ücretsiz ve açık kaynak yazılım" (FOSS) veya "ücretsiz, özgür ve açık kaynak yazılım" (FLOSS) olarak birleştirilir. *Free* ve  *Libre* özgürlüğe atıfta bulunur [ fiyata değil](#açık-kaynak-ücretsiz-anlamına-mı-geliyor) .
 
 ### İnsanlar neden işlerini açık kaynak olarak sunarlar?
 
