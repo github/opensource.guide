@@ -31,7 +31,7 @@ Topluluğunuzu oluştururken huninin tepesindeki birinin (potansiyel bir kullan�
 Belgelerinizle başlayın:
 
 * **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#readme-yazma) ve sade kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
-* [CONTRIBUTING dosyanızı](../starting-a-project/#katkda-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
+* [CONTRIBUTING dosyanızı](../starting-a-project/#katkıda-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
 * **Başlamak için iyi sorunlar**: Yeni katkıda bulunanların başlamasına yardımcı olmak için, [yeni başlayanların çözmesi için yeterince basit olan sorunları açıkça etiketlemeyi](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels) düşünün. GitHub daha sonra bu sorunları platformda çeşitli yerlere taşıyacak, faydalı katkıları artıracak ve kullanıcıların seviyeleri için çok zor olan sorunlarla karşılaştırmayak sürtünmeyi azaltacak.
 
 [GitHub'ın 2017 Açık Kaynak Anketi](http://opensourcesurvey.org/2017/) gösterdi ki açık kaynak kullanıcıları için en büyük problem yarım ya da karmaşık belgelerdir. İyi bir dökümantasyon insanların projeniz ile etkileşime geçmesini sağlar. Eninde sonunda birisi bir sorun bildirecek veya istekte bulunacaktır. Bu etkileşimleri, dönüşüm hunisinden aşağıya taşımak için fırsatlar olarak kullanın.
