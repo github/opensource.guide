@@ -226,7 +226,7 @@ Mevcut bir projenin üzerine inşa ediyorsanız, adlarını ön ek olarak kullan
 
 Her şeyden önce netlik düşünün. Püf noktaları eğlencelidir, ancak bazı şakaların diğer kültürlere veya sizden farklı deneyimlere sahip insanlara tercüme edilemeyebileceğini unutmayın. Potansiyel kullanıcılarınızdan bazıları şirket çalışanları olabilir: projenizi işte açıklamak zorunda kaldıklarında onları rahatsız etmek istemezsiniz!
 
-### İsim örtüşmesinden kaçmak
+### Benzersiz isim bulmak
 
 Özellikle aynı dili veya ekosistemi paylaşıyorsanız, [benzer bir adla açık kaynaklı projeleri kontrol edin](http://ivantomic.com/projects/ospnc/). İsminiz popüler bir projeyle örtüşüyorsa, takipçilerinizin kafaları karışabilir.
 
