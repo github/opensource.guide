@@ -368,7 +368,7 @@ master ブランチのコミットアクティビティをみてみましょう�
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   長いスレッドを見つけたら常に、スレッドの中で遅れてやってくるコア開発者の返答を確認してみましょう。彼らは建設的にまとめて、丁寧な姿勢を保ちつつもスレッドを結論に仕向けるべく一歩を踏み出していますか？もし罵り合いが多くあるのであれば、それはエネルギーが開発に向けられる代わりに議論に使われている兆候です。
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
