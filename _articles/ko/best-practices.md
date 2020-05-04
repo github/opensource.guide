@@ -167,7 +167,7 @@ related:
 
 반복적으로 기여하고 있는 사람을 찾았다면 그들에게 더 많은 권한을 주며 그들의 공로를 인정하세요. 그들이 원한다면 관리자 자리까지 맡게 되는 모범적인 경우를 더 많은 사람들에게 보일 수도 있습니다.
 
-@lmccart가 프로젝트 [p5.js](https://github.com/processing/p5.js)에서 발견한 대로 사람들이 [프로젝트의 소유감을 나눌 수 있도록](../building-community/#share-ownership-of-your-project) 독려하면 여러분이 맡는 일의 양을 현저히 줄일 수 있습니다.
+@lmccart가 프로젝트 [p5.js](https://github.com/processing/p5.js)에서 발견한 대로 사람들이 [프로젝트의 소유감을 나눌 수 있도록](../building-community/#프로젝트를-공동으로-소유하세요) 독려하면 여러분이 맡는 일의 양을 현저히 줄일 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">

@@ -154,4 +154,4 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 </aside>
 
 * **특허:** 귀사는 회원사의 주요 오픈소스 프로젝트 사용을 보호하거나 다른 대체 특허 라이센싱을 모색하기 위해, [Open Invention Network](http://www.openinventionnetwork.com/)에 가입 할 수 있습니다.
-* **가버넌스:** 특히 프로젝트를 [회사 외부의 법인](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project)으로 옮기는 것이 이치에 맞을 경우에 할 수 있습니다.
+* **가버넌스:** 특히 프로젝트를 [회사 외부의 법인](../leadership-and-governance/#제-프로젝트를-지원하려면-법인이-필요한가요)으로 옮기는 것이 이치에 맞을 경우에 할 수 있습니다.
