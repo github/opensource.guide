@@ -1,9 +1,13 @@
 ---
 ---
 
+// The Inter-UI-* fonts referenced in primer-marketing are located here, until we upgrade to the new Primer.
+$marketing-font-path: "/assets/fonts/";
+
 @import "primer-core/index.scss";
 @import "primer-marketing/index.scss";
 @import "toc.scss";
 @import "custom.scss";
 @import "covers.scss";
 @import "anchor.scss";
+

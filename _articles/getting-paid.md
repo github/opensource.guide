@@ -100,7 +100,7 @@ If your company goes down this route, it's important to keep the boundaries betw
 If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
 
 * Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Rackspace](https://www.rackspace.com/en-us) published its [open source contribution policy](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) for employees
+* [Zalando](https://opensource.zalando.com) published its [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) for employees
 
 Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
 
@@ -112,7 +112,7 @@ Depending on your personal circumstances, you can try raising money independentl
 Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
 
 * @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://beta.bounties.network/bounty/v1/134).
+* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Finding funding for your project
 
@@ -189,5 +189,3 @@ Does the funder have any requirements around disbursal? For example, you may nee
 ## Experiment and don't give up
 
 Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
-
->

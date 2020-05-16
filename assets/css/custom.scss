@@ -62,12 +62,16 @@ blockquote {
   line-height: 0;
 }
 
-.main-links a {
-  &:hover {
-    background: $bg-gray-light;
-    text-decoration: none;
-    color: $gray-dark;
+.main-links {
+  a {
+    &:hover {
+      background: $bg-gray-light;
+      text-decoration: none;
+      color: $gray-dark;
+    }
   }
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 .breadcrumb {

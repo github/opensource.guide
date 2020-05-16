@@ -36,6 +36,7 @@ defaults:
 
 plugins:
   - jekyll-mentions
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 

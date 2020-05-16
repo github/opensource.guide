@@ -113,7 +113,7 @@ Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre e
 
 Lassen Sie keinen unerwünschten Beitrag offen, weil Sie sich schuldig fühlen oder nett sein wollen. Im Laufe der Zeit werden unbeantwortete Issues und PRs die Projektarbeit stressiger und einschüchternder machen.
 
-Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) (Englisch).
+Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) (Englisch).
 
 Zweitens sendet das Ignorieren von Beiträgen ein negatives Signal an die Gemeinschaft um Ihr Projekt. Einen Projektbeitrag einzureichen, kann einschüchternd sein, besonders für Neulinge. Auch wenn Sie ihren Beitrag nicht annehmen, danken Sie der einreichenden Person für ihr Interesse. Das ist ein großes Kompliment!
 
@@ -179,6 +179,8 @@ Sie müssen nicht alles selbst machen. Die Gemeinschaft Ihres Projekts existiert
 
 Wenn Sie auf der Suche nach Mitwirkenden sind, fragen Sie doch einfach mal herum.
 
+Sie können auch [Issues, die für Anfänger einfach genug sind, explizit markieren (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden.
+
 Wenn Sie neue Mitwirkende bemerken, die wiederholt Beiträge leisten, erkennen Sie deren Arbeit an, indem Sie ihnen mehr Verantwortung anbieten. Dokumentieren Sie, wie andere in Führungsrollen hineinwachsen können, wenn sie es wünschen.
 
 Andere zu ermutigen, [sich am Projekt zu beteiligen](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt), kann den eigenen Arbeitsaufwand erheblich reduzieren, wie @lmccart in ihrem Projekt [p5.js](https://github.com/processing/p5.js) feststellte.
@@ -199,7 +201,7 @@ Wenn Sie sich aus Ihrem Projekt zurückziehen müssen (egal ob temporär oder au
 
 Wenn andere Leute von Ihrer Projektrichtung begeistert sind, gewähren Sie ihnen Commit-Rechte oder übergeben Sie formell die Kontrolle. Wenn jemand einen Fork Ihres Projektes erstellt hat, und es an anderer Stelle aktiv pflegt, sollten Sie in Erwägung ziehen, aus Ihrem ursprünglichen Projekt heraus auf den Fork zu verweisen. Es ist großartig, dass Menschen Ihr Projekt weiterleben sehen wollen!
 
-@progrium [fand heraus](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) (Englisch), dass es seinem Projekt [Dokku](https://github.com/dokku/dokku) auch nach seinem Rückzug weiter zu leben half, dass er die Vision dokumentiert hatte,
+@progrium [fand heraus](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) (Englisch), dass es seinem Projekt [Dokku](https://github.com/dokku/dokku) auch nach seinem Rückzug weiter zu leben half, dass er die Vision dokumentiert hatte,
 
 > Ich habe eine Wiki-Seite geschrieben, die beschreibt, was ich wollte und warum ich es wollte. Aus irgendeinem Grund war es für mich eine Überraschung, dass die Maintainer\*innen das Projekt in diese Richtung bewegten! Ist es genau so passiert, wie ich es getan habe? Nicht immer. Aber sie brachten das Projekt trotzdem näher an das heran, was ich aufgeschrieben habe.
 >
@@ -262,6 +264,8 @@ Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfro
 * [semantic-release](https://github.com/semantic-release/semantic-release) automatisiert Ihre Veröffentlichungen
 * [mention-bot](https://github.com/facebook/mention-bot) erwähnt potentielle Reviewer für Pull Requests
 * [Danger](https://github.com/danger/danger) hilft bei der Automatisierung des Code Review
+* [no-response](https://github.com/probot/no-response) schließt Issues deren Autor\*in nicht auf Nachfragen antwortet
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview) prüft bekannte Abhängigkeitsdateien täglich und eröffnet Pull Requests, sobald Aktualisierungen verfügbar werden
 
 Für Fehlerberichte und andere allgemeine Beiträge hat GitHub [Issue- und Pull-Request-Templates](https://github.com/blog/2111-issue-and-pull-request-templates), die Sie erstellen können, um die Kommunikation zu optimieren. @TalAter hat einen [Choose Your Own Adventure Guide](https://www.talater.com/open-source-templates/#/) erstellt, der Ihnen beim Schreiben dieser Vorlagen hilft.
 

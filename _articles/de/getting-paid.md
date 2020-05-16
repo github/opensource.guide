@@ -121,7 +121,7 @@ Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwische
 Wenn Sie Ihren derzeitigen Arbeitgeber nicht davon überzeugen können, Open-Source-Arbeit zu priorisieren, sollten Sie sich überlegen, einen neuen Arbeitgeber zu finden, der Mitarbeit an Open Source fördert. Zum Beispiel:
 
 * Manche Firmen, wie [Netflix](https://netflix.github.io/) oder [PayPal](https://paypal.github.io/), zeigen ihr Open-Source-Engagement auf ihren Webseiten
-* [Rackspace](https://www.rackspace.com/en-us) veröffentlicht seine [Open-Source-Beitragsrichtlinie](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) für Angestellte
+* [Zalando](https://opensource.zalando.com) veröffentlicht seine [Open-Source-Beitragsrichtlinie](https://opensource.zalando.com/docs/using/contributing/) für Angestellte
 
 Aus einer großen Firma stammende Projekte, wie z.B. [Go](https://github.com/golang) oder [React](https://github.com/facebook/react), stellen vermutlich auch weiterhin Leute für Open-Source-Arbeit an.
 
