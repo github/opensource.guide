@@ -30,7 +30,7 @@ Açık kaynak güçlüdür çünkü fikirlerin hızla yayılmasına izin vererek
 
 ### İnsanlar neden işlerini açık kaynak olarak sunarlar?
 
-<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">     Açık kaynak kullanmaktan ve işbirliği yapmaktan kazandığım en değerli deneyimlerden biri, aynı problemlerle karşı karşıya kalan diğer geliştiricilerle kurduğum ilişkilerden geliyor.   <p markdown="1" class="pquote-credit"> — @kentcdodds, ["Açık Kaynağa Girmek Benim İçin Nasıl Harika Oldu"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)   </p> </aside>
+<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">   Açık kaynak kullanmaktan ve işbirliği yapmaktan kazandığım en değerli deneyimlerden biri, aynı problemlerle karşı karşıya kalan diğer geliştiricilerle kurduğum ilişkilerden geliyor.   <p markdown="1" class="pquote-credit"> - @kentcdodds, ["Açık Kaynağa Girmek Benim İçin Nasıl Harika Oldu"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)   </p> </aside>
 
 Bir kişinin veya örgütün bir projeyi açmak istemesinin [birçok nedeni](https://ben.balter.com/2015/11/23/why-open-source/) vardır . Bazı örnekler:
 
@@ -68,7 +68,7 @@ Bu sorunun tek bir doğru cevabı yok. Tek bir proje veya farklı hedeflere sahi
 
 Tek amacınız işinizi göstermekse, katkı bile istemeyebilir ve hatta bunu README'nizde bile söyleyebilirsiniz. Öte yandan, katkıda bulunanlar istiyorsanız, açık belgelere ve yeni gelenlerin hoş karşılanmasına zaman ayıracaksınız.
 
-<aside markdown="1" class="pquote">    <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">    Bir noktada kullandığım özel bir UIAlertView yarattım ... ve açık kaynak yapmaya karar verdim. Bu yüzden daha dinamik olacak şekilde değiştirdim ve GitHub'a yükledim. Ayrıca diğer geliştiricilere projelerinde nasıl kullanacaklarını açıklayan ilk belgelerimi yazdım. Muhtemelen hiç kimse onu kullanmamıştı çünkü basit bir projeydi ama katkım konusunda kendimi iyi hissediyordum.    <p markdown="1" class="pquote-credit"> — @mavris, ["Kendi Kendine Öğrenen Yazılım Geliştiricileri: Açık Kaynak Neden Bizim İçin Önemli?"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)    </p> </aside>
+<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">   Bir noktada kullandığım özel bir UIAlertView yarattım ... ve açık kaynak yapmaya karar verdim. Bu yüzden daha dinamik olacak şekilde değiştirdim ve GitHub'a yükledim. Ayrıca diğer geliştiricilere projelerinde nasıl kullanacaklarını açıklayan ilk belgelerimi yazdım. Muhtemelen hiç kimse onu kullanmamıştı çünkü basit bir projeydi ama katkım konusunda kendimi iyi hissediyordum.   <p markdown="1" class="pquote-credit"> - @mavris, ["Kendi Kendine Öğrenen Yazılım Geliştiricileri: Açık Kaynak Neden Bizim İçin Önemli?"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)   </p> </aside>
 
 Projeniz büyüdükçe, topluluğunuzun sizden sadece kod yazmaktan daha fazlasına ihtiyacı olabilir. Sorunlara cevap vermek, kodu gözden geçirmek ve projenizi geliştirmek, açık kaynaklı bir projedeki önemli görevlerdir.
 
@@ -121,7 +121,7 @@ Açık kaynak kodlu bir projeyi yönetmenin yasal yönleri hakkında başka soru
 
 README'ler projenizi nasıl kullanacağınızı açıklamaktan daha fazlasını yapar. Ayrıca, projenizin neden önemli olduğunu ve kullanıcılarınızın bununla neler yapabileceğini de açıklar.
 
-In your README, try to answer the following questions:
+README'ler projenizi nasıl kullanacağınızı açıklamaktan daha fazlasını yapar. Ayrıca, projenizin neden önemli olduğunu ve kullanıcılarınızın bununla neler yapabileceğini de açıklar.
 
 - Bu proje ne yapıyor?
 - Bu proje neden faydalıdır?
@@ -130,7 +130,7 @@ In your README, try to answer the following questions:
 
 README'nizi, katkıları nasıl ele aldığınız, projenin amaçlarının ne olduğu ve lisanslar ve atıflar hakkında bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkı kabul etmek istemiyorsanız veya projeniz henüz olgun değilse, bunu mutlaka belirtin.
 
-<aside markdown="1" class="pquote">    <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">    Daha iyi belgeler, daha fazla kullanıcı, daha az destek talebi ve daha fazla katkıda bulunan anlamına gelir. (...) Unutma ki okuyucuların sen değilsin. Tamamen farklı deneyimlerle projeye gelebilecek insanlar var.    <p markdown="1" class="pquote-credit"> - @tracymakes, ["Yazdıkların okunuyor (video)")(https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)    </p> </aside>
+<aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">   Daha iyi belgeler, daha fazla kullanıcı, daha az destek talebi ve daha fazla katkıda bulunan anlamına gelir. (...) Unutma ki okuyucuların sen değilsin. Tamamen farklı deneyimlerle projeye gelebilecek insanlar var.   <p markdown="1" class="pquote-credit"> - @tracymakes, ["Yazdıkların okunuyor (video)")(https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)   </p> </aside>
 
 Bazen, insanlar bir README yazmaktan kaçınırlar çünkü proje bitmemiş gibi hissederler veya katkı kabul etmek istemezler. Bunların hepsi yazmak için çok iyi nedenler.
 
