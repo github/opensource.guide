@@ -5,7 +5,7 @@
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 
 ## Background
-Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is because we felt that there weren't enough resources for people creating open source projects.
+Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is because we felt that there weren't enough resources available to people creating an open source projects.
 
 Our goal is to aggregate community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we try to use examples and quotations from others to illustrate our points.
 
@@ -25,3 +25,4 @@ Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @d
 
 ## Disclaimer
 While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
+Happy Coding :)
