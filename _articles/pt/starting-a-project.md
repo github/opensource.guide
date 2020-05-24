@@ -27,7 +27,7 @@ Para entender como funciona, imagine que seu amigo está dando uma festa, e voc�
 * Um amigo, Alex, que é um chefe de pastelaria, sugere reduzir o açúcar (_modifica_)
 * Outra amiga, Lisa, pede para utilizá-la em um jantar na próxima semana (_distribui_)
 
-Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se vocẽ copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
+Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se você copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
 
 ### Por que as pessoas tornam seu trabalho open source?
 
