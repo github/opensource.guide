@@ -203,7 +203,7 @@ Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que m
   </p>
 </aside>
 
-Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se vocẽ está lançando um projeto open source para a comunidade ou alguma empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, o que irá reduzir seu estresse como mantenedor.
+Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se você está lançando um projeto open source para a comunidade ou alguma empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, o que irá reduzir seu estresse como mantenedor.
 
 Para mais informações, dê uma olhada no nosso [guia do Código de Conduta](../code-of-conduct/).
 
