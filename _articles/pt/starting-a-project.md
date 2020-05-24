@@ -87,7 +87,7 @@ A medida que o seu projeto cresce, sua comunidade pode precisar de mais do que a
 
 Enquanto a quantidade de tempo que você gasta em tarefas que não envolvem código depende do tamanho e escopo do seu projeto, você deve estar preparado, como um mantenedor, a cuidar delas você mesmo ou a encontrar alguém para ajudá-lo.
 
-**Se você faz parte de uma empresa tornando um projeto open source,** certifique-se de que seu projeto tem os recursos internos que ele precisa para florescer. Vocẽ irá querer identificar quem é responsável por manter o projeto após o almoço e compartilhar essas tarefas com a comunidade.
+**Se você faz parte de uma empresa tornando um projeto open source,** certifique-se de que seu projeto tem os recursos internos que ele precisa para florescer. Você irá querer identificar quem é responsável por manter o projeto após o almoço e compartilhar essas tarefas com a comunidade.
 
 Se você precisar de uma renda dedicada ou pessoal para promoção, operações e manutenção do projeto, comece essas discussões cedo.
 
