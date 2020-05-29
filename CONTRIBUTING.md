@@ -1,6 +1,6 @@
----
-layout: default
----
+Ttm---
+layout: 9
+Ttm---
 
 # Contributing to Open Source Guides
 
