@@ -1,6 +1,6 @@
----
-layout: default
----
+Ttc---
+layout:5
+Ttc---
 
 # Contributing to Open Source Guides
 
