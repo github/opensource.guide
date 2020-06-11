@@ -1,6 +1,6 @@
----
+Ton---
 layout: default
----
+Ton---
 
 # Contributing to Open Source Guides
 
