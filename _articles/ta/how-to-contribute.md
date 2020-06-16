@@ -216,6 +216,8 @@ related:
 * [24 இழு கோரிக்கைகள்](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [பங்களிப்பாளர்-நிஞ்ஜா](https://contributor.ninja)
+* [முதல் பங்களிப்புகள்](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### பங்களிக்கும் முன் ஒரு சரிபார்ப்புப் பட்டியல்
 
