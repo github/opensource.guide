@@ -27,7 +27,7 @@ Para entender como funciona, imagine que seu amigo está dando uma festa, e voc�
 * Um amigo, Alex, que é um chefe de pastelaria, sugere reduzir o açúcar (_modifica_)
 * Outra amiga, Lisa, pede para utilizá-la em um jantar na próxima semana (_distribui_)
 
-Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se vocẽ copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
+Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se você copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
 
 ### Por que as pessoas tornam seu trabalho open source?
 
@@ -87,13 +87,13 @@ A medida que o seu projeto cresce, sua comunidade pode precisar de mais do que a
 
 Enquanto a quantidade de tempo que você gasta em tarefas que não envolvem código depende do tamanho e escopo do seu projeto, você deve estar preparado, como um mantenedor, a cuidar delas você mesmo ou a encontrar alguém para ajudá-lo.
 
-**Se você faz parte de uma empresa tornando um projeto open source,** certifique-se de que seu projeto tem os recursos internos que ele precisa para florescer. Vocẽ irá querer identificar quem é responsável por manter o projeto após o almoço e compartilhar essas tarefas com a comunidade.
+**Se você faz parte de uma empresa tornando um projeto open source,** certifique-se de que seu projeto tem os recursos internos que ele precisa para florescer. Você irá querer identificar quem é responsável por manter o projeto após o almoço e compartilhar essas tarefas com a comunidade.
 
 Se você precisar de uma renda dedicada ou pessoal para promoção, operações e manutenção do projeto, comece essas discussões cedo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  Quando você começa a tornar o projeto open source, é importante se certificar de que os seus processos ãdministrativos levam em consideração as contribuições e habilidades da comunidade em torno do seu projeto. Não tenha medo de envolver contribuidores que não são empregados da sua empresa em aspectos chave do projeto - especialmente se eles sao contribuidores assíduos.
+  Quando você começa a tornar o projeto open source, é importante se certificar de que os seus processos administrativos levam em consideração as contribuições e habilidades da comunidade em torno do seu projeto. Não tenha medo de envolver contribuidores que não são empregados da sua empresa em aspectos chave do projeto - especialmente se eles são contribuidores assíduos.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
@@ -118,7 +118,7 @@ Independente do estágio em que você decida tornar o seu projeto open source, t
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Code of conduct](../code-of-conduct/)
 
-Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas espectativas, administrar contribuições, e projeger o direito legal de todos (inclusive o seu). Eles aumentam suas chances de ter uma experência positiva significativamente.
+Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas espectativas, administrar contribuições, e proteger o direito legal de todos (inclusive o seu). Eles aumentam suas chances de ter uma experência positiva significativamente.
 
 Se seu projeto está no GitHub, colocar esses arquivos no seu diretório root com os nomes recomendados ajudará o GitHub a reconhecê-los e automaticamente mostrá-los da maneira apropriada aos seus leitores.
 
@@ -203,7 +203,7 @@ Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que m
   </p>
 </aside>
 
-Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se vocẽ está lançando um projeto open source para a comunidade ou alguma empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, o que irá reduzir seu estresse como mantenedor.
+Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se você está lançando um projeto open source para a comunidade ou alguma empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, o que irá reduzir seu estresse como mantenedor.
 
 Para mais informações, dê uma olhada no nosso [guia do Código de Conduta](../code-of-conduct/).
 
@@ -250,7 +250,7 @@ Quer seja documentação oficial ou um email casual, seu estilo de escrita é pa
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Eu procurei estar envolvido com todas as threads na lista de emails e mostrar comportamento exemplar, sendo legal com as pessoas, levando seus problemas a sério e tentando ser útil de um modo geral. Após um tempo, as pessoas permaneceram não somente para fazer questionamentos, mas para ajudar com as respostas também, e, para minha completa alegria, elas imitaram o meu estilo.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

@@ -181,7 +181,7 @@ Jika Anda perlu sedikit menjauh dari proyek Anda, baik sementara atau selamanya,
 
 Jika orang lain sangat antusias dengan arah proyek Anda, berikan akses atau serahkan kendali pada orang lain. Jika seseorang melakukan _fork_ terhadap proyek Anda dan mengelolanya secara aktif di tempat lain, pertimbangkan untuk menghubungkan ke proyek tersebut melalui proyek Anda. Sangatlah hebat melihat banyak orang menginginkan proyek Anda terus hidup.!
 
-@progrium [menemukan bahwa](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) dengan mendokumentasikan visi proyeknya, [Dokku](https://github.com/dokku/dokku), membantu tujuannya tetap bertahan meskipun dia sudah meninggalkan proyeknya:
+@progrium [menemukan bahwa](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) dengan mendokumentasikan visi proyeknya, [Dokku](https://github.com/dokku/dokku), membantu tujuannya tetap bertahan meskipun dia sudah meninggalkan proyeknya:
 
 > Saya menuliskan sebuah halaman wiki menjelaskan tentang apa yang saya inginkan dan kenapa. Mengejutkan bagi saya karena pengelola mulai menjalankan proyek sesuai dengan arahan tersebut! Apakah ia melakukannya sesuai dengan apa yang saya kehendaki? Tidak selalu, tetapi ia membawa proyek ini semakin dekat dengan apa yang saya tuliskan.
 

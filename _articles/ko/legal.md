@@ -32,7 +32,7 @@ related:
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**GitHub 프로젝트를 공개하는 것은 프로젝트 라이센싱과 동일하지 않습니다.** 공개 프로젝트는 [GitHub의 서비스 약관](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership)에 명시되어 있으며, 다른 사람들이 프로젝트를 포크화할 수는 있지만, 그렇지 않은 경우에는 권한이 없습니다.
+**GitHub 프로젝트를 공개하는 것은 프로젝트 라이센싱과 동일하지 않습니다.** 공개 프로젝트는 [GitHub의 서비스 약관](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)에 명시되어 있으며, 다른 사람들이 프로젝트를 포크화할 수는 있지만, 그렇지 않은 경우에는 권한이 없습니다.
 
 다른 사람들이 프로젝트를 사용, 복사, 수정 또는 다시 사용할 수 있게하려면, 오픈소스 라이선스를 포함해야합니다. 예를 들어, 권한을 부여하지 않는다는 조건에서는 공개적으로 GitHub 프로젝트의 일부를 코드에 명시적으로 사용할 수는 없습니다.
 
@@ -88,7 +88,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 
 ## Does my project need an additional contributor agreement?
 
-아마도 그렇지 않습니다. 대다수의 오픈소스 프로젝트에서 공개 소스 라이선스는 인바운드(기여자)와 아웃바운드(다른 참여자 및 사용자) 라이선스로 암묵적으로 사용됩니다. 프로젝트가 GitHub에 있는 경우, GitHub 서비스 약관은 "인바운드 = 아웃 바운드" [명시적 기본값](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license)으로 지정합니다.
+아마도 그렇지 않습니다. 대다수의 오픈소스 프로젝트에서 공개 소스 라이선스는 인바운드(기여자)와 아웃바운드(다른 참여자 및 사용자) 라이선스로 암묵적으로 사용됩니다. 프로젝트가 GitHub에 있는 경우, GitHub 서비스 약관은 "인바운드 = 아웃 바운드" [명시적 기본값](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license)으로 지정합니다.
 
 기여자 라이선스 계약(CLA)이라고도 부르는 추가 기여자 계약은 프로젝트 메인테이너를 위한 관리 작업을 생성할 수 있습니다. 계약서에 얼마나 많은 작업을 추가할지는 프로젝트와 구현에 달려 있습니다. 간단한 동의는 프로젝트 참여자가 프로젝트 오픈소스 라이선스하에 기여할 수 있는 권리를 클릭으로 확인해야 할 수도 있습니다. 보다 복잡한 합의는 법적 검토와 기여자 고용주의 서명을 요구할 수 있습니다.
 
@@ -125,7 +125,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 
 * **특허:** 귀하의 회사가 귀하의 프로젝트를 [공개](https://en.wikipedia.org/wiki/Public_disclosure)하여 특허를 신청할 계획입니까? 안타깝게도, 기다려달라는 요청을 받을 수 있습니다 (또는 회사에서 애플리케이션의 지혜를 재고 할 수도 있음). 대규모 특허 포트폴리오를 보유한 회사의 직원으로부터 프로젝트에 대한 기여가 기대되는 경우, 법무팀은 기여자(Apache 2.0 또는 GPLv3 등)의 명시적인 특허 지원 또는 추가 기부자 동의서를 사용하여 라이선스를 사용하기를 원할 수 있습니다(위 참조).
 
-* **상표:** 프로젝트 이름이 [기존 상표와 충돌하지 않는지](../starting-a-project/#avoiding-name-conflicts) 다시 확인하십시오. 만약 프로젝트에서 자신의 회사 상표를 사용하는 경우에 충돌이 발생하지 않는지도 확인하십시오. [FOSSmarks](http://fossmarks.org/)는 무료 및 오픈소스 프로젝트의 맥락에서 상표를 이해하는 실질적인 가이드입니다.
+* **상표:** 프로젝트 이름이 [기존 상표와 충돌하지 않는지](../starting-a-project/#이름-중복-피하기) 다시 확인하십시오. 만약 프로젝트에서 자신의 회사 상표를 사용하는 경우에 충돌이 발생하지 않는지도 확인하십시오. [FOSSmarks](http://fossmarks.org/)는 무료 및 오픈소스 프로젝트의 맥락에서 상표를 이해하는 실질적인 가이드입니다.
 
 * **개인 정보:** 프로젝트가 사용자에 대한 데이터를 수집합니까? 법률팀은 회사 정책 및 외부 규정을 준수하도록 도울 수 있습니다.
 
@@ -154,4 +154,4 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 </aside>
 
 * **특허:** 귀사는 회원사의 주요 오픈소스 프로젝트 사용을 보호하거나 다른 대체 특허 라이센싱을 모색하기 위해, [Open Invention Network](http://www.openinventionnetwork.com/)에 가입 할 수 있습니다.
-* **가버넌스:** 특히 프로젝트를 [회사 외부의 법인](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project)으로 옮기는 것이 이치에 맞을 경우에 할 수 있습니다.
+* **가버넌스:** 특히 프로젝트를 [회사 외부의 법인](../leadership-and-governance/#제-프로젝트를-지원하려면-법인이-필요한가요)으로 옮기는 것이 이치에 맞을 경우에 할 수 있습니다.

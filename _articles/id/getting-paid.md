@@ -95,7 +95,7 @@ Jika perusahaan Anda mengikuti rute ini, merupakan hal yang penting untuk menjag
 Jika Anda tidak mampu meyakinkan perusahaan untuk memprioritaskan pekerjaan open source, pertimbangkan untuk mencari perusahaan lain yang mendorong kontribusi karyawan pada open source. Cari perusahaan yang mendedikasikan pada pekerjaan open source secara eksplisit. Sebagai contoh:
 
 * Beberapa perusahaan, seperti [Netflix](https://netflix.github.io/) atau [PayPal](https://paypal.github.io/), memiliki halaman web yang menunjukan keterlibatan mereka pada open source
-* [Rackspace](https://www.rackspace.com/en-us) mempublikasikan [kebijakan kontribusi open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) bagi pegawai
+* [Zalando](https://opensource.zalando.com) mempublikasikan [kebijakan kontribusi open source](https://opensource.zalando.com/docs/using/contributing/) bagi pegawai
 
 Proyek-proyek yang berasal dari perusahaan besar, seperti [Go](https://github.com/golang) atau [React](https://github.com/facebook/react), juga akan memperkerjakan orang-orang untuk bekerja pada open source.
 
@@ -178,5 +178,3 @@ Apakah pemberi dana memiliki persyaratan? Misalnya Anda harus bersifat nirlaba a
 ## Eksperimen dan jangan menyerah
 
 Mendapatkan pendanaan tidaklah mudah, baik untuk proyek open source, nirlaba, atau startup perangkat lunak, dan pada banyak kasus, Anda harus kreatif. mengindentifikasi bagaimana Anda hendak didanai, melakukan riset, dan menempatkan diri Anda pada penyandang dana akan membantu Anda membangun kasus yang meyakinkan untuk pendanaan.
-
->

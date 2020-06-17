@@ -62,7 +62,7 @@ Um equívoco comum sobre contribuir para o open source é que você precisa cont
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Fui elogiado pelo meu trabalho no CocoaPods, mas a maioria das pessoas não sabe que eu realmente não faço nenhum trabalho real na própria ferramenta CocoaPods. Meu tempo no projeto é principalmente gasto fazendo coisas como documentação e trabalhando na marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -94,7 +94,7 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 * Escreva e melhore a documentação do projeto
 * Organize uma pasta de exemplos mostrando como o projeto é usado
 * Inicie uma newsletter para o projeto ou selecione resumos da lista de discussão
-* Escreva tutoriais para o projeto, [como os crontribuidore do PyPA fizeram](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Escreva tutoriais para o projeto, [como os contribuidores do PyPA fizeram](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Escreva uma tradução para a documentação do projeto
 
 <aside markdown="1" class="pquote">
@@ -140,7 +140,7 @@ Por exemplo:
 * @h5bp mantém uma [lista de possíveis perguntas de entrevistas](https://github.com/h5bp/Front-end-Developer-Interview-Questions) para candidatos a desenvolvedor front-end
 * @stuartlynn e @nicole-a-tesla fizeram uma [coleção de curiosidades sobre papagaios-do-mar](https://github.com/stuartlynn/puffin_facts)
 
-Mesmo que vocẽ seja um desenvolvedor de software, trabalhar na documentação de um projeto pode ajudá-lo a começar no open source. Geralmente, é menos intimidador trabalhar em projetos que não envolvam código, e o processo de colaboração aumentará sua confiança e experiência.
+Mesmo que você seja um desenvolvedor de software, trabalhar na documentação de um projeto pode ajudá-lo a começar no open source. Geralmente, é menos intimidador trabalhar em projetos que não envolvam código, e o processo de colaboração aumentará sua confiança e experiência.
 
 ## Se orientando para um novo projeto
 
@@ -211,12 +211,13 @@ Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e c
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Um checklist antes de você contribuir
 
@@ -233,7 +234,7 @@ Aqui está um checklist útil para avaliar se um projeto é bom para novos contr
   </label>
 </div>
 
-**O projeto aceita cotribuições ativamente**
+**O projeto aceita contribuições ativamente**
 
 Veja a atividade de commit no branch master. No GitHub, você pode ver essas informações na página inicial de um repositório.
 
@@ -328,13 +329,13 @@ Agora faça o mesmo para os pedidos de pull requests do projeto.
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    Quão recentemente algum pull request foi aceito e incluido? (No GitHub, clique na guia "closed" na página Pull Requests para ver os PRs fechados.)
+    Quão recentemente algum pull request foi aceito e incluído? (No GitHub, clique na guia "closed" na página Pull Requests para ver os PRs fechados.)
   </label>
 </div>
 
 **Projeto é acolhedor**
 
-Um projeto que é amigavel e acolhedor indica que eles serão receptivos a novos contribuidores.
+Um projeto que é amigável e acolhedor indica que eles serão receptivos a novos contribuidores.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -366,9 +367,9 @@ Um projeto que é amigavel e acolhedor indica que eles serão receptivos a novos
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Sempre que você vir uma thread longa, verifique as respostas dos principais desenvolvedores no final da thread. Eles estão resumindo construtivamente e tomando providências para levar a discussão a uma decisão de forma educada? Se você vir um monte de guerras acontecendo, isso frequentemente é um sinal de que energia esta sendo gasta em discussões em vez de desenvolvimento.
+  Sempre que você vir uma thread longa, verifique as respostas dos principais desenvolvedores no final da thread. Eles estão resumindo construtivamente e tomando providências para levar a discussão a uma decisão de forma educada? Se você vir um monte de guerras acontecendo, isso frequentemente é um sinal de que energia está sendo gasta em discussões em vez de desenvolvimento.
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
@@ -382,15 +383,15 @@ Seja você um colaborador ocasional ou esteja tentando entrar em uma comunidade,
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-    \[Como um contribuidor iniciante,\] eu rapidamente percebi que tinha que fazer perguntas se quisesse fechar a issue. Eu analizei o código. Assim que percebi o que estava acontecendo, pedi mais orientações. E voilà! Consegui resolver a issue depois de obter todos os detalhes relevantes de que precisava.
+    \[Como um contribuidor iniciante,\] eu rapidamente percebi que tinha que fazer perguntas se quisesse fechar a issue. Eu analisei o código. Assim que percebi o que estava acontecendo, pedi mais orientações. E voilà! Consegui resolver a issue depois de obter todos os detalhes relevantes de que precisava.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
 Antes de abrir uma issue, pull request ou fazer uma pergunta no bate-papo, ter os pontos a seguir em mente irá ajudar a transmitir sua ideia de maneira eficaz.
 
-**Contextualize** Ajude os outros a entenderem rapidamente. Se você esta patinando em um erro, explique o que esta você esta tentando fazer e como reproduzir este erro. Se você está sugerindo um nova ideia, explique por que você acha que ela seria util para o projeto (não apenas para você).
+**Contextualize** Ajude os outros a entenderem rapidamente. Se você está patinando em um erro, explique o que você está tentando fazer e como reproduzir este erro. Se você está sugerindo um nova ideia, explique por que você acha que ela seria útil para o projeto (não apenas para você).
 
 > 😇 _"Não acontece X quando eu faço Y"_
 >
@@ -402,13 +403,13 @@ Antes de abrir uma issue, pull request ou fazer uma pergunta no bate-papo, ter o
 >
 > 😢 _"Como eu faço X?"_
 
-**Mantenha-se conciso e direto.** Assim como enviar um e-mail, todas as contribuições, por mais simples ou útil, exigem a análise de outra pessoa. Muitos projetos têm mais solicitações recebidas do que pessoas disponíveis para ajudar. Seja conciso. Você aumentará a chance de que alguém possa ajudá-lo.
+**Mantenha-se conciso e direto.** Assim como enviar um e-mail, todas as contribuições, por mais simples ou úteis, exigem a análise de outra pessoa. Muitos projetos têm mais solicitações recebidas do que pessoas disponíveis para ajudar. Seja conciso. Você aumentará a chance de que alguém possa ajudá-lo.
 
 > 😇 _"Eu gostaria de escrever um tutorial da API"_
 >
 > 😢 _"Eu estava dirigindo pela estrada no outro dia e parei para abastecer, e então eu tive essa ideia incrível para algo que deveríamos fazer, mas antes de explicar isso, deixe-me mostrar-lhe ..."_
 
-**Mantenha toda a comunicação publica** Embora seja tentador, não procure mantenedores de forma privada, a menos que você precise compartilhar informações confidenciais (como um problema de segurança ou violação grave de conduta). Quando você mantém a conversa pública, mais pessoas podem aprender e se beneficiar com a sua troca. As discussões podem ser, em si mesmas, contribuições.
+**Mantenha toda a comunicação pública** Embora seja tentador, não procure mantenedores de forma privada, a menos que você precise compartilhar informações confidenciais (como um problema de segurança ou violação grave de conduta). Quando você mantém a conversa pública, mais pessoas podem aprender e se beneficiar com a sua troca. As discussões podem ser, em si mesmas, contribuições.
 
 > 😇 _(um comentário) "@-maintainer Olá! Como devemos proceder neste PR?"_
 >
@@ -416,7 +417,7 @@ Antes de abrir uma issue, pull request ou fazer uma pergunta no bate-papo, ter o
 
 **Não há problema em fazer perguntas (mas seja paciente!).** Todo mundo já foi novo no projeto em algum momento, e até colaboradores experientes precisam se atualizar quando olham para um novo projeto. Da mesma forma, mantenedores de longa data nem sempre estão familiarizados com todas as partes do projeto. Mostre a mesma paciência que você gostaria que eles tivessem com você.
 
-> 😇 _"Obrigado por pegar este erro. Eu segui sua sugestão. Aqui esta a saída."_
+> 😇 _"Obrigado por pegar este erro. Eu segui sua sugestão. Aqui está a saída."_
 >
 > 😢 _"Porque você não pode resolver meu problema? Este projeto não é seu?"_
 
@@ -424,7 +425,7 @@ Antes de abrir uma issue, pull request ou fazer uma pergunta no bate-papo, ter o
 
 > 😇 _"Estou desapontado por não poder apoiar o meu caso de uso, mas como você explicou, isso afeta apenas uma pequena parte dos usuários, eu entendo o porquê. Obrigado por ouvir."_
 >
-> 😢 _"Porque você não dá suporte ao meu caso de uso? Isto é inaceitavel!"_
+> 😢 _"Porque você não dá suporte ao meu caso de uso? Isto é inaceitável!"_
 
 **Acima de tudo, mantenha a classe.** O open source é composto por contribuidores de todo o mundo. O contexto se perde em idiomas, culturas, regiões geográficas e fusos horários. Além disso, a comunicação escrita torna mais difícil transmitir um tom ou humor. Assuma boas intenções nessas conversas. É normal se desfazer de uma ideia de forma educada e pedir mais contexto ou esclarecer melhor sua posição. Apenas tente deixar a internet em um lugar melhor do que quando você a encontrou.
 
@@ -434,9 +435,9 @@ Antes de fazer qualquer coisa, faça uma verificação rápida para garantir que
 
 Se você não encontrar sua ideia em outro lugar, você está pronto para fazer uma contribuição. Se o projeto estiver no GitHub, você provavelmente se comunicará abrindo uma issue ou pull request:
 
-* **Issues** são como o inicio de uma conversa ou discussão
-* **Pull requests** são para inicio dos trabalhos em uma solução
-* **Para communicações leves,** para esclarecimentos ou questões de como fazer, tente perguntar no Stack Overflow, IRC, Slack, ou outro canal de comunicação, se o projeto tiver.
+* **Issues** são como o início de uma conversa ou discussão
+* **Pull requests** são para início dos trabalhos em uma solução
+* **Para comunicações leves,** para esclarecimentos ou questões de como fazer, tente perguntar no Stack Overflow, IRC, Slack, ou outro canal de comunicação, se o projeto tiver.
 
 Antes de abrir uma issue ou pull request, verifique os documentos de contribuição do projeto (geralmente um arquivo chamado CONTRIBUTING ou no README), para ver se é necessário incluir algo específico. Por exemplo, eles podem pedir que você siga um modelo ou exigir que você use testes.
 
@@ -444,7 +445,7 @@ Se você quiser fazer uma contribuição substancial, abra uma issue para pergun
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  Você aprenderá <em>muito</em> analizando um projeto que você usa ativamente, "vigiando" ele no GitHub e lendo as issues e PR.
+  Você aprenderá <em>muito</em> analisando um projeto que você usa ativamente, "vigiando" ele no GitHub e lendo as issues e PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
@@ -455,14 +456,14 @@ Se você quiser fazer uma contribuição substancial, abra uma issue para pergun
 Você deve normalmente abrir uma issue nas seguintes situações:
 
 * Reportar um erro que você não pode resolver por conta própria.
-* Discutir um tópico de alto nível ou ideia (por exemplo, comunidade, visão ou politicas)
+* Discutir um tópico de alto nível ou ideia (por exemplo, comunidade, visão ou políticas)
 * Propor uma nova função ou outra ideia do projeto.
 
 Dicas para se comunicar sobre problemas:
 
 * **Se você vir uma issue aberta que deseja resolver,** comente na issue para que as pessoas saibam que você está interessado nela. Dessa forma, as pessoas estarão menos propensas a duplicar seu trabalho.
 * **Se uma issue foi aberta há algum tempo,** É possível que ela esteja sendo resolvida em algum outro lugar ou já tenha sido resolvida, por isso, comente para pedir confirmação antes de iniciar o trabalho.
-* **Se você abriu uma issue, mas descobriu a resposta mais tarde,** comente na issue para que as pessoas saibam, então feche a issue. Mesmo este registro serve como documetação para o projeto.
+* **Se você abriu uma issue, mas descobriu a resposta mais tarde,** comente na issue para que as pessoas saibam, então feche a issue. Mesmo este registro serve como documentação para o projeto.
 
 ### Abrindo um pull request
 
@@ -475,12 +476,12 @@ Um pull request não precisa representar o trabalho final. Geralmente, é melhor
 
 Se o projeto estiver no GitHub, veja como enviar um pull request:
 
-* **[Faça um fork do repositorio](https://guides.github.com/activities/forking/)** e clone localmente. Conecte seu repositorio local com o "upstream" adicionado-o como repositorio remoto. Baixe as alterações do "upstream" com frequência para que você fique atualizado, quando enviar seu pull request, os conflitos de mesclagem serão menos prováveis. (Veja instruções mais detalhadas [aqui](https://help.github.com/articles/syncing-a-fork/).)
+* **[Faça um fork do repositório](https://guides.github.com/activities/forking/)** e clone localmente. Conecte seu repositório local com o "upstream" adicionado-o como repositório remoto. Baixe as alterações do "upstream" com frequência para que você fique atualizado, quando enviar seu pull request, os conflitos de mesclagem serão menos prováveis. (Veja instruções mais detalhadas [aqui](https://help.github.com/articles/syncing-a-fork/).)
 * **[Crie um branch](https://guides.github.com/introduction/flow/)** para suas edições.
 * **Referencie qualquer issue relevante** ou documentação de suporte em seu PR (por exemplo, "Closes #37.")
-* **Inclua imagens do antes e depois** se suas mudanças incluirem diferenças no HTML/CSS. Copie e cole as imagens na mensagem do seu pull request.
+* **Inclua imagens do antes e depois** se suas mudanças incluírem diferenças no HTML/CSS. Copie e cole as imagens na mensagem do seu pull request.
 * **Teste suas mudanças!** Execute suas alterações em relação a quaisquer testes existentes, e crie novos quando necessário. Se os testes existirem sempre verifique se suas alterações não quebram o projeto existente.
-* **Contribua para o estilo do projeto** para melhorar suas habilidades. Isso pode significar usar recuos, ponto-e-vírgula ou comentários de maneira diferente do que você faria em seu próprio repositório, mas torna mais fácil para o mantenedor unir codigos, e para outros manter, enteder e melhorar no futuro.
+* **Contribua para o estilo do projeto** para melhorar suas habilidades. Isso pode significar usar recuos, ponto-e-vírgula ou comentários de maneira diferente do que você faria em seu próprio repositório, mas torna mais fácil para o mantenedor unir códigos, e para outros manter, entender e melhorar no futuro.
 
 Se este é o seu primeiro pull request, confira [Faça um pull request](http://makeapullrequest.com/), que @kentcdodds criou como um tutorial em vídeo passo a passo. Você também pode praticar a criação de um pull request no repositório [Primeira Contribuição](https://github.com/Roshanjossey/first-contributions), criado por @Roshanjossey.
 
@@ -494,7 +495,7 @@ Depois de enviar uma contribuição, uma das seguintes situações ocorrerá:
 
 Espero que você [tenha checado o projeto em busca de sinais de atividade](#um-checklist-antes-de-você-contribuir) antes de fazer uma contribuição. Mesmo em um projeto ativo, no entanto, é possível que sua contribuição não receba uma resposta.
 
-Se você não obtiver uma resposta após uma semana, é justo responder educadamente no mesmo tópico, pedindo a revisão de alguém. Se você souber o nome da pessoa certa para revisar sua contribuição, você poderá @-menciona-la nesse tópico.
+Se você não obtiver uma resposta após uma semana, é justo responder educadamente no mesmo tópico, pedindo a revisão de alguém. Se você souber o nome da pessoa certa para revisar sua contribuição, você poderá @-mencioná-la nesse tópico.
 
 **Não** contate essa pessoa em particular; Lembre-se de que a comunicação pública é vital para projetos open source.
 

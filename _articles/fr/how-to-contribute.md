@@ -62,7 +62,7 @@ Une idée commune fausse sur la contribution à l'open source est que vous devez
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Je suis renommé pour mon travail sur CocoaPods, mais la plupart des gens ne savent pas que je ne travaille pas vraiment sur l'outil CocoaPods lui-même. Mon temps sur le projet est principalement passé à faire des choses comme la documentation et à travailler sur l'image de marque.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -216,6 +216,8 @@ Vous pouvez également utiliser l'une des ressources suivantes pour vous aider �
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Une checklist avant de contribuer
 
@@ -383,7 +385,7 @@ Que vous soyez un contributeur ponctuel ou que vous essayiez de rejoindre une co
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[En tant que nouveau contributeur,\] je me suis rapidement rendu compte que je devais poser des questions si je voulais pouvoir fermer une issue. J'ai parcouru la code base. Une fois que j'ai eu une idée de ce qui se passait, j'ai demandé plus de pistes. Et voilà! J'ai été capable de résoudre le problème après avoir obtenu tous les détails pertinents dont j'avais besoin.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
@@ -474,7 +476,7 @@ Vous devrez généralement ouvrir une pull request dans les situations suivantes
 * Soumettre des corrections triviales (par exemple, une faute de frappe, un lien cassé ou une erreur évidente)
 * Commencer à travailler sur une contribution qui a déjà été demandée, ou dont vous avez déjà discuté, dans une issue
 
-Une pull request n'a pas à représenter le travail fini. Il est généralement préférable d'ouvrir une pull request au début afin que les autres puissent regarder ou donner votre avis sur vos progrès. Il suffit de marquer "WIP" (Work in Progress) dans la ligne d'objet. Vous pouvez toujours ajouter plus de commits plus tard.
+Une pull request n'a pas à représenter le travail fini. Il est généralement préférable d'ouvrir une pull request au début afin que les autres puissent regarder ou donner leur avis sur vos progrès. Il suffit de marquer "WIP" (Work in Progress) dans la ligne d'objet. Vous pouvez toujours ajouter plus de commits plus tard.
 
 Si le projet est sur GitHub, voici comment soumettre une pull request:
 
@@ -497,7 +499,7 @@ Après avoir soumis une contribution, l'un des événements suivants se produira
 
 J'espère que vous avez [vérifié les signes d'activité dans le projet](#une-checklist-avant-de-contribuer) avant de faire une contribution. Même sur un projet actif, il est possible que votre contribution n'obtienne pas de réponse.
 
-Si vous n'avez pas reçu de réponse depuis plus d'une semaine, il est juste de répondre poliment dans ce même fil, en demandant à quelqu'un de donner votre avis. Si vous connaissez le nom de la bonne personne à consulter votre contribution, vous pouvez @-mentionner dans ce fil.
+Si vous n'avez pas reçu de réponse depuis plus d'une semaine, il est juste de répondre poliment dans ce même fil, en demandant à quelqu'un de donner son avis. Si vous connaissez le nom de la bonne personne à consulter votre contribution, vous pouvez @-mentionner dans ce fil.
 
 **Ne pas** tendre la main à cette personne en privé. Rappelez-vous que la communication publique est vitale pour les projets open source.
 

@@ -62,7 +62,7 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -216,6 +216,8 @@ Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk me
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Daftar sebelum Anda berkontribusi
 
@@ -383,7 +385,7 @@ Apakah Anda merupakan kontributor atau mencoba untuk bergabung dengan sebuah kom
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Sebagai kontributor baru,\] saya menyadari bahwa saya perlu bertanya jika ingin menutup sebuah laporan masalah. Saya mengamati kode program. Setelah saya mengetahui situasinya, saya bertanya untuk pengarahan lebih lanjut. Dan akhirnya! Saya berhasil menutup sebuah laporan masalah setelah mendapatkan semua informasi relevan yang saya butuhkan.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 

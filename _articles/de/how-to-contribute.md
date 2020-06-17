@@ -28,6 +28,10 @@ Zu Open Source beizutragen, kann ein lohnender Weg sein, um nahezu alle erdenkli
 
 Warum tragen Menschen zu Open Source bei? Es gibt viele Gründe!
 
+### Software verbessern, auf die Sie sich verlassen.
+
+Viele Open-Source-Beitragende waren vorher Nutzer\*innen der Software, zu der sie beitragen. Wenn Sie einen Fehler in einer von Ihnen verwendeten Open-Source-Software finden, sollten Sie sich im Quellcode umsehen, ob Sie den Fehler evtl. selbst patchen können. Wenn ja, ist einen Patch einzureichen der beste Weg sicherzustellen, dass Ihre Kolleg\*innen (und Sie selbst, wenn Sie auf die nächste Version aktualisieren) davon profitieren können.
+
 ### Bestehende Fähigkeiten verbessern
 
 Ob Programmierung, User Interface Design, Grafikdesign, Schreiben oder Organisieren: Wenn Sie auf der Suche nach Praxiserfahrung sind, werden Sie dafür passende Aufgaben in einem Open-Source-Projekt finden.
@@ -70,7 +74,7 @@ Ein weit verbreiteter Irrtum! Aber in Wirklichkeit sind es oft andere Projektasp
   _I've been renowned for my work on CocoaPods, but most people don't know that I actually don't do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
 
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -174,7 +178,7 @@ Auch wenn Sie ein\*e Software-Entwickler\*in sind, kann Ihnen die Arbeit an eine
 
 Für alles über eine Tippfehlerkorrektur hinaus ist ein Beitrag zu Open Source, als würde man sich zu einer Gruppe von Fremden auf einer Party gesellen. Wenn Sie anfangen, über Lamas zu reden, während die Anderen tief in einer Diskussion über Goldfische stecken, werden diese Sie wahrscheinlich ein wenig seltsam ansehen.
 
-Bevor Sie blindlings mit Ihren eigenen Vorschlägen daherkommen, lernen Sie zunächst, die Situation zu einzuschätzen. Dies erhöht die Chancen, dass später Ihre Ideen wahrgenommen und gehört werden.
+Bevor Sie blindlings mit Ihren eigenen Vorschlägen daherkommen, lernen Sie zunächst, die Situation einzuschätzen. Dies erhöht die Chancen, dass später Ihre Ideen wahrgenommen und gehört werden.
 
 ### Anatomie eines Open-Source-Projekts
 
@@ -188,7 +192,7 @@ Ein typisches Open-Source-Projekt beinhaltet die folgenden Typen von Personen:
 
 * **Autor\*in:** Die Person/en oder Organisation, die das Projekt erstellt hat/haben
 * **Owners:** Die Person/en, die administrativen Zugang zu der Organisation oder dem Repository hat/haben (nicht immer derselbe wie der/die ursprüngliche Autor*in).
-* **Maintainers:** Mitwirkende, die für die Umsetzung der Vision verantwortlich sind, und für die organisatorischen Aspekte des Projekts. (Dies können auch Autoren oder Eigentümerinnen des Projekts sein.)
+* **Maintainers:** Mitwirkende, die für die Umsetzung der Vision verantwortlich sind und für die organisatorischen Aspekte des Projekts. (Dies können auch Autoren oder Eigentümerinnen des Projekts sein.)
 * **Contributors:** Alle, die etwas zum Projekt beigetragen haben.
 * **Community-Mitglieder:** Personen, die das Projekt nutzen. Sie können in Diskussionen aktiv sein oder ihre Meinung über die Richtung des Projekts äußern.
 
@@ -200,12 +204,12 @@ Ein Projekt hat auch eine Dokumentation. Diese Dateien werden in der Regel im Ha
 * **README:** Die README ist die Bedienungsanleitung, die neue Community-Mitglieder im Projekt willkommen heißt. Sie erklärt, warum das Projekt nützlich ist, und wie man beginnen kann, es zu nutzen.
 * **CONTRIBUTING:** Während READMEs den Menschen helfen, das Ergebnis des Projektes _zu nutzen_, hilft die Kontributionsdokumentation dabei, zum Projekt beizutragen. Sie erklärt, welche Arten von Beiträgen benötigt werden und wie der Prozess funktioniert. Obwohl nicht jedes Projekt eine CONTRIBUTING-Datei hat, signalisiert ihre Präsenz, dass dieses Projekt offen für Beiträge ist.
 * **CODE_OF_CONDUCT:** Der Verhaltenskodex legt die Grundregeln für das Verhalten der Teilnehmer\*innen fest und trägt dazu bei, ein freundliches und einladendes Umfeld zu schaffen. Obwohl nicht jedes Projekt eine CODE_OF_CONDUCT-Datei hat, signalisiert ihre Präsenz, dass dieses Projekt offen für Beiträge ist.
-* **Andere Dokumentation:** Es kann zusätzliche Tutorials, Walkthroughs oder Governance-Richtlinien geben, vor Allem bei größeren Projekten.
+* **Andere Dokumentation:** Es kann zusätzliche Tutorials, Walkthroughs oder Governance-Richtlinien geben, vor allem bei größeren Projekten.
 
 Schließlich verwenden Open-Source-Projekte die folgenden Werkzeuge, um Diskussionen zu organisieren. Wenn Sie die Archive durchlesen, erhalten Sie ein gutes Bild davon, wie die Gemeinschaft denkt und arbeitet.
 
-* **Issue Tracker:** Wo Leute über Themen diskutieren, die im Zusammenhang mit dem Projekt stehen.
-* **Pull Requests:** Wo Leute anstehende Änderungen diskutieren und überprüfen.
+* **Issue Tracker:** Hier diskutieren Personen über Themen, die im Zusammenhang mit dem Projekt stehen.
+* **Pull Requests:** Hier diskutieren und überprüfen Personen anstehende Änderungen.
 * **Diskussionsforen oder Mailinglisten:** Einige Projekte nutzen solche Kanäle für Konversationen (z.B. _"Wie kann ich..."_ oder _"Was denkt ihr über..."_) anstelle von Fehlerberichten oder Feature Requests. Andere verwenden den Issue Tracker für alle Konversationen.
 * **Synchroner Chat-Kanal:** Einige Projekte verwenden Kanäle wie z.B. Slack oder IRC für gelegentliche Gespräche, Zusammenarbeit und schnellen Austausch.
 
@@ -229,15 +233,19 @@ Sie können eine README überfliegen und einen defekten Link oder einen Tippfehl
 >
 > [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
-Auf einer der folgenden Seiten können Sie neue Projekte zum Beitragen entdecken (alle englischsprachig):
+Wenn Sie Issues suchen, die Sie beheben könnten, hat jedes Open-Source-Projekt eine Seite, die Neuling-freundliche Issues aufzeigt. Navigieren Sie zur Repository-Hauptseite auf GitHub und fügen Sie `/contribute` der URL hinzu (z.B.[`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+
+Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecken (alle englischsprachig):
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Eine Checkliste, bevor Sie einen Beitrag leisten
 
@@ -465,13 +473,13 @@ Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber
   _Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development._
 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
 ## Wie man einen Beitrag einreicht
 
-Sie haben ein Projekt gefunden, das Ihnen gefällt, und sind zum Leisten eines Beitrags bereit? Endlich! So erreichen Sie dies auf die richtige Art und Weise.
+Sie haben ein Projekt gefunden, das Ihnen gefällt und sind zum Leisten eines Beitrags bereit? Endlich! So erreichen Sie dies auf die richtige Art und Weise.
 
 ### Effektive Kommunikation
 
@@ -485,7 +493,7 @@ Unabhängig davon, ob Sie ein\*e einmalige\*r Beitragende\*r sind oder versuchen
   _\[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed._
 
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
@@ -527,11 +535,11 @@ Bevor Sie ein Issue oder Pull Request aufmachen oder eine Frage im Chat stellen,
 >
 > 😢 _"Warum unterstützen Sie meinen Anwendungsfall nicht? Das ist inakzeptabel!"_
 
-**Vor allem: Bewahren Sie Stil.** Open Source besteht aus Menschen aus der ganzen Welt, die mit uns zusammenarbeiten. Nuancen gehen über Sprachen, Kulturen, Regionen und Zeitzonen hinweg verloren. Darüber hinaus erschwert die schriftliche Kommunikation die Vermittlung eines Tonfalls oder einer Stimmung. Nehmen Sie in Open-Source-Diskussionsn gute Absichten an. Es ist in Ordnung, eine Idee höflich zurückzuweisen, nach Kontext zu fragen oder Ihre Position genauer zu erklären. Versuchen Sie einfach, das Internet an einem besseren Ort zu verlassen, als wenn Sie es gefunden haben.
+**Vor allem: Bewahren Sie Stil.** Open Source besteht aus Menschen aus der ganzen Welt, die mit uns zusammenarbeiten. Nuancen gehen über Sprachen, Kulturen, Regionen und Zeitzonen hinweg verloren. Darüber hinaus erschwert die schriftliche Kommunikation die Vermittlung eines Tonfalls oder einer Stimmung. Nehmen Sie in Open-Source-Diskussionen gute Absichten an. Es ist in Ordnung, eine Idee höflich zurückzuweisen, nach Kontext zu fragen oder Ihre Position genauer zu erklären. Versuchen Sie einfach, das Internet als einen besseren Ort zu verlassen, als Sie es gefunden haben.
 
 ### Erfassen Sie den Kontext
 
-Bevor Sie etwas tun, sollten Sie kurz sicherzustellen, dass Ihre Idee nicht schon an anderer Stelle besprochen wurde. Überfliegen Sie die README des Projekts, Issues (offen und geschlossen), die Mailingliste und Stack Overflow. Sie müssen nicht stundenlang alles durchgehen, aber eine schnelle Suche nach ein paar Schlüsselbegriffen bringt Sie weiter.
+Bevor Sie etwas tun, sollten Sie kurz sicherstellen, dass Ihre Idee nicht schon an anderer Stelle besprochen wurde. Überfliegen Sie die README des Projekts, Issues (offen und geschlossen), die Mailingliste und Stack Overflow. Sie müssen nicht stundenlang alles durchgehen, aber eine schnelle Suche nach ein paar Schlüsselbegriffen bringt Sie weiter.
 
 Wenn Sie Ihre Idee woanders nicht finden können, sind Sie bereit für den ersten Schritt. Wenn sich das Projekt auf GitHub befindet, werden Sie Ihre Idee vermutlich als Issue kommunizieren, oder ein Pull Request stellen:
 
@@ -541,7 +549,7 @@ Wenn Sie Ihre Idee woanders nicht finden können, sind Sie bereit für den erste
 
 Bevor Sie ein Issue oder Pull Request öffnen, überprüfen Sie die Beitragsdokumentationen des Projekts (normalerweise eine Datei namens CONTRIBUTING, oder in der README), um zu verstehen, was in Anfragen erwünscht ist. Beispielsweise kann das Projekt verlangen, dass Sie einer Vorlage folgen oder Tests verwenden.
 
-Wenn Sie einen substantiellen Beitrag leisten wollen, öffnen Sie eine Issue, bevor Sie daran arbeiten. Bevor Sie Arbeiten ausführen, die möglicherweise nicht angenommen werden, schauen Sie sich das Projekt lieber eine Weile an (auf GitHub, [auf "Watch" klicken](https://help.github.com/articles/watching-repositories/), um über alle Konversationen informiert zu werden), und lernen die Community-Mitglieder kennen.
+Wenn Sie einen substantiellen Beitrag leisten wollen, öffnen Sie einen Issue, bevor Sie daran arbeiten. Bevor Sie Arbeiten ausführen, die möglicherweise nicht angenommen werden, schauen Sie sich das Projekt lieber eine Weile an (auf GitHub, [auf "Watch" klicken](https://help.github.com/articles/watching-repositories/), um über alle Konversationen informiert zu werden), und lernen die Community-Mitglieder kennen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -565,7 +573,7 @@ In der Regel sollten Sie in den folgenden Situationen ein Issue erstellen:
 
 Tipps für die Kommunikation zu Issues:
 
-* **Wenn Sie ein offenes Issue sehen, das Sie in Angriff nehmen wollen,** kommentieren Sie dies und lassen Sie die Leute wissen, dass Sie am Ball. Auf diese Weise ist es weniger wahrscheinlich, dass jemand eine Arbeit doppelt macht.
+* **Wenn Sie ein offenes Issue sehen, das Sie in Angriff nehmen wollen,** kommentieren Sie dies und lassen Sie die Leute wissen, dass Sie am Ball sind. Auf diese Weise ist es weniger wahrscheinlich, dass jemand eine Arbeit doppelt macht.
 * **Wenn ein Issue vor einer Weile geöffnet wurde,** ist es möglich, dass es woanders bearbeitet wird, oder bereits gelöst wurde. Daher bitten Sie um Bestätigung, bevor Sie mit der Arbeit beginnen.
 * **Wenn Sie ein Issue geöffnet haben, aber die Antwort später selbst herausgefunden haben,** kommentieren Sie das Issue, um anderen Leuten die Antwort mitzuteilen. Schließen Sie danach das Issue. Auch die Dokumentation dieses Ergebnisses ist ein Beitrag zum Projekt.
 
