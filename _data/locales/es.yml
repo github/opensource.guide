@@ -4,21 +4,21 @@ es:
     about: Acerca de
     contribute: Contribuir
   index:
-    lead: El software de c&oacute;digo abierto es desarrollado por personas como tu, aprende c&oacute;mo crear y hacer que tu proyecto crezca.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    lead: El software de código abierto es desarrollado por personas como tu, aprende cómo crear y hacer que tu proyecto crezca.
+    opensourcefriday: ¡Es viernes! Invierte unas cuántas horas para contribuir al software que usas y amas
   article:
     table_of_contents: Tabla de contenidos
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    back_to_all_guides: Volver a todas las guías
+    related_guides: Guías relacionadas
   footer:
     contribute:
       heading: Contribuir
-      description: Tienes alguna sugerencia? Este contenido es de c&oacute;digo abierto. Ay&uacute;danos a mejorarlo.
+      description: ¿Tienes alguna sugerencia? Este contenido es de código abierto. Ayúdanos a mejorarlo.
       button: Contribuir
     subscribe:
       heading: Suscribirse para novedades
       description: Sea el primero en enterarse de los últimos consejos y recursos de código abierto.
-      label: Direcci&oacute;n de correo
+      label: Dirección de correo
       button: Suscribirse
     byline:
       # [code], [love], and [github] will be replaced by octicons
