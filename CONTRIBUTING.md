@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultsexytango.sexyteen.com
 ---
 
 # Contributing to Open Source Guides
