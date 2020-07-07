@@ -4,3 +4,4 @@
 **Please note: we will close your PR without comment if you do not check the boxes above and provide ALL requested information.**
 
 -----
+PULL_REQUEST_TEMPLATE
