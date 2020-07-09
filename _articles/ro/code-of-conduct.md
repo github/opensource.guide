@@ -67,10 +67,10 @@ Ar trebui să explici cum codul tău de conduită va fi impus **_înainte_** ca 
 
 Ar trebui să oferi oamenilor o cale privată (cum ar fi o adresă de email) pentru a raporta o încălcare a codului de conduită și să explici cine primește raportul. Ar putea fi un întreținător, un grup de întreținători, sau un grup de lucru pentru codul de conduită.
 
-Nu uita că cineva ar putea să vrea să raporteze o încălcare despre o persoană care primește aceste rapoarte. În acest caz, dă-le o opțiune să raporteze încălcările altcuiva. De exemplu @ctb și @mr-c [explică despre proiectul lor](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Nu uita că cineva ar putea să vrea să raporteze o încălcare despre o persoană care primește aceste rapoarte. În acest caz, dă-le o opțiune să raporteze încălcările altcuiva. De exemplu @ctb și @mr-c [explică despre proiectul lor](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Exemple de comportament abuziv, hărțuitor, sau altfel inacceptabil pot fi raportate scriind email către **khmer-project@idyll.org** care ajung doar la C. Titus Brown și Michael R. Crusoe. Pentru a raporta o problemă care implică pe oricare din aceștia te rugăm să scrii email către **Judi Brown Clarke, Ph.D.** Directorul pentru Diversitate la Centrul BEACON pentru Studiul Evoluției în Acțiune, un Centru NSF pentru Știință și Tehnologie.
-> 
+>
 > Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.
 
 Pentru inspirație, aruncă o privire la [manualul impunerii](https://www.djangoproject.com/conduct/enforcement-manual/) al Django (deși poate nu vei avea nevoie de ceva atât de cuprinzător, depinzând de dimensiunea proiectului tău).

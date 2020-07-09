@@ -139,7 +139,7 @@ Végül, de nem utolsó sorban a dokumentáció alapján érezzék az emberek, h
 
 Általában nem fogsz közvetlenül minden emberrel kommunikálni, aki megfordul a projekten. Lehet, hogy lesznek olyan hozzájárulások, amelyeket azért nem kapsz meg, mert valaki elrettent a projekttől, vagy nem tudta, hogy hol kezdje. Akár néhány kedves szó is elég lehet ahhoz, hogy megakadályozd, hogy valaki csalódottan hagyja el a projektet.
 
-Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubinius/) projektben, [a CONTRIBUTING útmutatójuk](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubinius/) projektben, [a CONTRIBUTING útmutatójuk](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
 > Mindenekelőtt azzal szeretnénk kezdeni, hogy köszönjük azt, hogy használod a Rubinius-t. Ez a projekt szeretetteljes munkát jelent, és nagyra értékeljük az összes felhasználót, aki hibákat észlel, javít a teljesítményben és segítséget nyújt a dokumentációban. Minden hozzájárulás hasznos, ezért köszönjük a részvételed. Kérjük néhány iránymutatást tarts be, hogy sikeresen meg tudjuk oldani a problémádat.
 
@@ -161,7 +161,7 @@ Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mérték
 
 ![Cookiecutter hiba](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Állíts össze egy CONTRIBUTORS vagy AUTHORS fájlt a projektben,** amely listáz mindenkit aki hozzájárul a projekthez. Például ahogy a [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) csinálja.
+* **Állíts össze egy CONTRIBUTORS vagy AUTHORS fájlt a projektben,** amely listáz mindenkit aki hozzájárul a projekthez. Például ahogy a [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) csinálja.
 
 * Ha széles közösséged van, **akkor küldj ki hírlevelet vagy vezess blogot** amelyen megköszönöd a hozzájárulásokat. A Rust-nak a [Heti Rust](https://this-week-in-rust.org/) és a Hoodie-nak a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) két jó példa erre.
 

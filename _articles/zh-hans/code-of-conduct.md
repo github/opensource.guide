@@ -55,7 +55,7 @@ redirect_from: /zh-cn/code-of-conduct/
 
 你们可以给大家一个私有的渠道（如email地址）以便大家报告违规行为以及解释谁收到了这一的报告。它可以是维护者，一组维护者或行为守则工作组。
 
-请不要忘记了有人可能想要报告某些人违规接受了这些报告。在这样的情况下，也给他们举报那些人的机会。例如，@ctb和@mr-c [在他们的项目上解释](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst)， [khmer](https://github.com/dib-lab/khmer)：
+请不要忘记了有人可能想要报告某些人违规接受了这些报告。在这样的情况下，也给他们举报那些人的机会。例如，@ctb和@mr-c [在他们的项目上解释](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst)， [khmer](https://github.com/dib-lab/khmer)：
 
 > 对于滥用现象，扰乱或者其他不可接受的行为都可以向**khmer-project@idyll.org**（仅由C. Titus Brown和Michael R. Crusoe处理）发送邮件。要报告涉及其中任何一个的问题，请电邮**Judi Brown Clarke，Ph.D.** BEACON行动进化研究中心的多元化主任，NSF科学技术中心。
 

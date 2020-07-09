@@ -63,11 +63,11 @@ Ha a projektben nagyon aktív a közreműködő közösség, akkor a "karbantart
 <aside markdown="1" class="pquote">
   A központi csapatot számos "alcsoporttal" egészítettük ki. Minden alcsoportnak saját területe van, például nyelvi tervezés vagy a programozói könyvtárak. (...) Minden egyes alcsoportot a központi csapat egy tagja vezeti, ezzel biztosítjuk a globális koordinációt és az egész projekt egységes, koherens vízióját.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-A vezetői csapatok egy kijelölt csatornát hozhatnak létre (például IRC) vagy találkozhatnak rendszeresen egyéb projekt megbeszéléseken (mint a Gitter vagy Google Hangout). Akár nyilvánosak is lehetnek ezek, így a többi résztvevő is láthatja. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), például, [minden héten időt biztosít erre](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+A vezetői csapatok egy kijelölt csatornát hozhatnak létre (például IRC) vagy találkozhatnak rendszeresen egyéb projekt megbeszéléseken (mint a Gitter vagy Google Hangout). Akár nyilvánosak is lehetnek ezek, így a többi résztvevő is láthatja. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), például, [minden héten időt biztosít erre](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Miután létrehoztad a vezetői szerepeket, ne felejtsd el dokumentálni, hogyan érhetik el őket az emberek! Határozz meg egy világos folyamatot arra vonatkozóan, hogy valaki hogyan válhat karbantartóvá, vagy csatlakozhat egy albizottsághoz a projektben, és írd le a GOVERNANCE.md-ben.
 

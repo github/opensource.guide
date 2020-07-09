@@ -63,11 +63,11 @@ Si votre projet a une communauté de contributeurs très active, vous pouvez for
 <aside markdown="1" class="pquote">
   \[Nous\] complétons l'équipe de base avec plusieurs "sous-équipes". Chaque sous-équipe est concentrée sur une zone spécifique, par exemple, la conception de langage ou les bibliothèques. (...) Pour assurer une coordination globale et une vision forte et cohérente pour le projet dans son ensemble, chaque sous-équipe est dirigée par un membre de l'équipe de base.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Les équipes de direction peuvent vouloir créer une chaîne désignée (comme sur IRC) ou se rencontrer régulièrement pour discuter du projet (comme sur Gitter ou Google Hangout). Vous pouvez même rendre ces réunions publiques afin que les autres puissent les écouter. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), par exemple, [héberge des heures de bureau chaque semaine](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Les équipes de direction peuvent vouloir créer une chaîne désignée (comme sur IRC) ou se rencontrer régulièrement pour discuter du projet (comme sur Gitter ou Google Hangout). Vous pouvez même rendre ces réunions publiques afin que les autres puissent les écouter. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), par exemple, [héberge des heures de bureau chaque semaine](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Une fois que vous avez établi des rôles de leadership, n'oubliez pas de documenter comment les gens peuvent les atteindre ! Établissez un processus clair pour que quelqu'un puisse devenir responsable ou rejoindre un sous-comité dans votre projet, et l'écrire dans votre GOVERNANCE.md.
 

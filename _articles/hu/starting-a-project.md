@@ -36,7 +36,7 @@ _Free software_ kifejezés ugyanazokra a projektekre vonatkozik, mint amire az _
 
 * **Együttműködés:** A nyílt forráskódú projektek bárkitől elfogadnak módosítást a világ bármely részéről. [Exercism](https://github.com/exercism/), például egy programozási gyakorlást segítő projekt több, mint 350 fejlesztő részvételével.
 
-* **Elterjedés és újrafelhasználás:** A nyílt forráskódú projekteket bárki használhatja szinte bármilyen célra. Az emberek akár más dolgok létrehozására is felhasználhatják. A [WordPress] (https://github.com/WordPress) például úgy kezdte, hogy egy létező, [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) nevű projektet elágaztattak.
+* **Elterjedés és újrafelhasználás:** A nyílt forráskódú projekteket bárki használhatja szinte bármilyen célra. Az emberek akár más dolgok létrehozására is felhasználhatják. A [WordPress] (https://github.com/WordPress) például úgy kezdte, hogy egy létező, [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) nevű projektet elágaztattak.
 
 * **Átláthatóság:** A nyílt forráskódú projektet bárki megvizsgálhatja, vagy hibákat kereshet benne. Az átláthatóság a kormányoknak is fontos, mint ahogy [Bulgária](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) teszi ezt, vagy ahogy az [Amerikai Egyesült Államok](https://sourcecode.cio.gov/) szabályozza a bank, és egészségügy iparát, de fontos a biztonsági szoftverek esetén is, mint a [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -173,7 +173,7 @@ A műszaki adatokon kívül, a CONTRIBUTING fájl lehetőséget nyújt arra, hog
 
 Kedves, barátságos hang használata, és konkrét javaslatok nyújtása a hozzájárulásokhoz (például dokumentáció készítése vagy weboldal készítése) nagyban hozzájárulhat ahhoz, hogy az újonnan érkezők azt érezzék, hogy szívesen látják őket, és örüljenek a részvételnek.
 
-Például az [Active Admin](https://github.com/activeadmin/activeadmin/) a [saját részvételi szabályzatát](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ezzel kezdi:
+Például az [Active Admin](https://github.com/activeadmin/activeadmin/) a [saját részvételi szabályzatát](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) ezzel kezdi:
 
 > Legelőször is, köszönöm hogy részt kívánsz venni az Active Admin projektben. Az olyan emberek mint te, tehetik az Active Admin ilyen nagyszerű eszközzé.
 
@@ -181,7 +181,7 @@ A CONTRIBUTING állomány a projekt korai fázisában egyszerű. Mindig el kell 
 
 Idővel további gyakori kérdéseket adhatsz hozzá a CONTRIBUTING fájlhoz. Ezen információk írása azt jelenti, hogy kevesebb ember fogja újra és újra ugyanazt a kérdést feltenni.
 
-További segítségért a CONTRIBUTING írásához, nézd meg @nayafia [részvételi útmutató űrlapját](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) vagy a @mozilla's ["Hogyan építs CONTRIBUTING.md-t?"](https://mozillascience.github.io/working-open-workshop/contributing/).
+További segítségért a CONTRIBUTING írásához, nézd meg @nayafia [részvételi útmutató űrlapját](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) vagy a @mozilla's ["Hogyan építs CONTRIBUTING.md-t?"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
 A CONTRIBUTING állományra hivatkozhatsz a README állományból, így az emberek azonnal látják azt. Ha [elhelyezed a CONTRIBUTING állományt a projekt alatt](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), akkor a GitHub automatikusan linkelni fogja azt, ha valaki hibát jelent, vagy beolvasztási kérést hoz létre.
 
