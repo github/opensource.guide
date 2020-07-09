@@ -36,7 +36,7 @@ _フリーソフトウェア_ という言葉も _オープンソース_ と同�
 
 * **コラボレーション：** オープンソースプロジェクトは世界の誰からも変更を受け付けます。例えば [Exercism](https://github.com/exercism/) は、350を超えるコントリビューターがいるプログラミング練習プラットフォームです。
 
-* **取り入れて再構成：** オープンソースプロジェクトは誰しもがほとんどいかなる理由のためにも使えるものです。人々は他のものを作るためにでも使うことができます。例えば [WordPress](https://github.com/WordPress) は、 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) と呼ばれる既存のプロジェクトのフォークとして始まりました。
+* **取り入れて再構成：** オープンソースプロジェクトは誰しもがほとんどいかなる理由のためにも使えるものです。人々は他のものを作るためにでも使うことができます。例えば [WordPress](https://github.com/WordPress) は、 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) と呼ばれる既存のプロジェクトのフォークとして始まりました。
 
 * **透明性：** 誰でもオープンソースプロジェクトにエラーがないかや一貫していないところがないか調べることができます。透明性は[ブルガリア](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)や[アメリカ](https://sourcecode.cio.gov/)のような政府、銀行やヘルスケアのような規制産業、 [Let's Encrypt](https://github.com/letsencrypt) のようなセキュリティソフトウェアにとって重要です。
 
@@ -172,7 +172,7 @@ CONTRIBUTING ファイルはあなたのプロジェクトにどうやって参�
 
 暖かく友好的なトーンを使って、（ドキュメントを書く、もしくはウェブサイトを作る、といったような）コントリビュートを具体的に提示することで、新しく来る人が歓迎されていて是非参加したいと思ってもらうのにとても役に立ちます。
 
-例えば、 [Active Admin](https://github.com/activeadmin/activeadmin/) は[コントリビュートガイド](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)を下記の内容から始めています：
+例えば、 [Active Admin](https://github.com/activeadmin/activeadmin/) は[コントリビュートガイド](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md)を下記の内容から始めています：
 
 > まずはじめに、 Active Admin へのコントリビュートを考えてくれてありがとうございます。あなたのような人々が Active Admin を偉大なツールにしているのです。
 
@@ -180,7 +180,7 @@ CONTRIBUTING ファイルはあなたのプロジェクトにどうやって参�
 
 時間が経つにつれて、 CONTRIBUTING ファイルに頻繁に聞かれる質問を加えるでしょう。こういった情報を書くことによって、同じ質問を何度も繰り返ししてくる人が減っていくでしょう。
 
-CONTRIBUTING ファイルを書くときに更に役に立つものとして、 @nayafia の [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) や @mozilla の ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) も参考になるでしょう。
+CONTRIBUTING ファイルを書くときに更に役に立つものとして、 @nayafia の [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) や @mozilla の ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) も参考になるでしょう。
 
 README に CONTRIBUTING ファイルへのリンクをすることで、より多くの人の目に触れるようになります。 [CONTRIBUTING ファイルをプロジェクトのリポジトリに置くことで](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)、 GitHub でコントリビューターがイシューを登録したり、プルリクエストをオープンする際に、そのファイルへのリンクが自動的に表示されます。
 

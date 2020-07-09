@@ -30,7 +30,7 @@ related:
 * **コントリビュートの仕方をわかりやすく説明しよう**。その際、 [CONTRIBUTING ファイルを使い](../starting-a-project/#コントリビュートのガイドラインを書く)、イシューの状態を最新に保ちましょう。
 
 [GitHub の 2017 Open Source Survey](http://opensourcesurvey.org/2017/) では、未完成であったり混乱するドキュメントはオープンソースプロジェクトのユーザーにとって最大の問題である事が示されています。良いドキュメントが人々をあなたのプロジェクトに招き入れます。結果として、イシューやプルリクエストを登録する人が出てきます。こういったやり取りを、漏斗の底に近づいてもらう機会として利用しましょう。
- 
+
 * **新しくプロジェクトに参加してくれた人に対して、興味を示してくれたことへの感謝の気持ちを伝えよう！** 一度ネガティブな経験をしただけで、人は戻ってきてくれなくなってしまいます。
 * **すぐに返事を返すようにしよう。** 一ヶ月もの間イシューに返事をしなければ、おそらく彼らはあなたのプロジェクトのことを忘れ去ってしまうでしょう。
 * **受け入れるコントリビュートの種類について心を広く持とう。** 多くのコントリビューターがバグレポートや小さな修正から始めます。プロジェクトへの[コントリビュートには多くのやり方](../how-to-contribute/#コントリビュートするということが意味するもの)があります。人々が望むやり方でコントリビュートできるように手助けしましょう。
@@ -82,7 +82,7 @@ related:
 
 ![Middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[Mozilla の調査によると](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)、48時間以内にコードレビューをしてもらったコントリビューターは返答や再度コントリビュートを行う確率が非常に高いということがわかっています。 
+[Mozilla の調査によると](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)、48時間以内にコードレビューをしてもらったコントリビューターは返答や再度コントリビュートを行う確率が非常に高いということがわかっています。
 
 Stack Overflow、Twitter、Reddit といったインターネットにおける他の場所でもあなたのプロジェクトについての会話が交わされることがあります。そのような場所からも通知が来るよう設定しておくことで、誰かがあなたのプロジェクトに言及したときに通知を受け取ることができます。
 
@@ -138,7 +138,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 プロジェクトを見たほとんどの人はあなたとやり取りすることはないでしょう。人々は恐れを感じたり、どのように始めたらよいかわからないといった理由で、コントリビュートをやめたかもしれません。そういった場合でも、ほんの少しでも彼らを歓迎する言葉があれば、彼らがイライラしてプロジェクトを去ってしまう事を防ぐことができます。
 
-これは [Rubinius](https://github.com/rubinius/rubinius/) の[コントリビュートガイド](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)の書き出しの例です：
+これは [Rubinius](https://github.com/rubinius/rubinius/) の[コントリビュートガイド](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md)の書き出しの例です：
 
 > まず最初に、Rubinius を使ってくれてありがとうとお伝えしたいと思います。このプロジェクトは愛の結晶であり、バグを見つけてくれたり、性能を向上させたり、ドキュメントを書くことを手伝ってくれる全てのユーザーに感謝しています。あらゆるコントリビュートには意味があるので、参加してくれることに感謝しています。そうは言っても、私達があなた達の問題に首尾よく取り組む事ができるように、いくつかのガイドラインに従うようお願いしたいと思います。
 
@@ -160,7 +160,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **CONTRIBUTORS ファイルや AUTHORS ファイルをプロジェクトに作ろう。** [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) が実施しているように、これらのファイルにプロジェクトにコントリビュートしてくれた人すべてをリストしましょう。
+* **CONTRIBUTORS ファイルや AUTHORS ファイルをプロジェクトに作ろう。** [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) が実施しているように、これらのファイルにプロジェクトにコントリビュートしてくれた人すべてをリストしましょう。
 
 * かなり大きなコミュニティを既に獲得しているのであれば、コントリビューターへの感謝を伝える **ニュースレターを送ったり、ブログポストを書いたりしましょう。** Rust の [This Week in Rust](https://this-week-in-rust.org/) や Hoodie の [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) はどちらも良い事例です。
 

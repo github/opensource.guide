@@ -138,7 +138,7 @@ Enfin, utilisez votre documentation pour que les gens se sentent les bienvenus �
 
 Vous n'interagirez jamais avec la plupart des personnes qui atterrissent sur votre projet. Il se peut que vous ayez reçu des contributions parce que quelqu'un se sentait intimidé ou ne savait pas par où commencer. Même quelques mots gentils peuvent empêcher quelqu'un de quitter votre projet avec de la frustration.
 
-Par exemple, voici comment [Rubinius](https://github.com/rubinius/rubinius/) commence [son guide de contribution] (https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) :
+Par exemple, voici comment [Rubinius](https://github.com/rubinius/rubinius/) commence [son guide de contribution] (https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) :
 
 > Nous voulons commencer par vous dire merci d'utiliser Rubinius. Ce projet est un travail d'amour, et nous apprécions tous les utilisateurs qui détectent les bogues, améliorent les performances et aident à la documentation. Chaque contribution est significative, alors merci de votre participation. Cela étant dit, voici quelques lignes directrices que nous vous demandons de suivre afin que nous puissions résoudre votre problème avec succès.
 
@@ -160,7 +160,7 @@ Voyez si vous pouvez trouver le moyen de partager la propriété avec votre comm
 
 ![Problème de Cookiecutter](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Démarrez un fichier CONTRIBUTORS ou AUTHORS dans votre projet** qui répertorie tous ceux qui ont contribué à votre projet, comme [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Démarrez un fichier CONTRIBUTORS ou AUTHORS dans votre projet** qui répertorie tous ceux qui ont contribué à votre projet, comme [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Si vous avez une communauté importante **, envoyez un bulletin d'information ou rédigez un article** remerciant les contributeurs. [La semaine de Rust](https://this-week-in-rust.org/) et celle de Hoodie [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) sont deux bons exemples.
 
