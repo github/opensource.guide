@@ -43,7 +43,7 @@ Em comparação, um processo de código fechado seria ir a um restaurante e pedi
 
 * **Colaboração:** Projetos open source podem aceitar mudanças de qualquer pessoa no mundo. [Exercism](https://github.com/exercism/), por exemplo, é uma plataforma de exercícios de programação com mais de 350 contribuidores.
 
-* **Adoção e remixing:** Projetos open source podem ser utilizados por qualquer um para praticamente qualquer propósito. As pessoas podem até mesmo utilizá-lo para construir outras coisas. [WordPress](https://github.com/WordPress), por exemplo, começou como um fork de um projeto chamado [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adoção e remixing:** Projetos open source podem ser utilizados por qualquer um para praticamente qualquer propósito. As pessoas podem até mesmo utilizá-lo para construir outras coisas. [WordPress](https://github.com/WordPress), por exemplo, começou como um fork de um projeto chamado [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparência:** Qualquer um pode inspecionar um projeto open source por erros ou inconsistências. A transparência importa a gorvernos como a [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou os [Estados Unidos](https://sourcecode.cio.gov/), industrias regulamentadas como bancos ou industrias de saúde, e softwares de segurança como [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -179,7 +179,7 @@ Além dos detalhes técnicos, um arquivo CONTRIBUTING é uma oportunidade de com
 
 Usar um tom acolhedor, amigável e oferecer sugestões específicas para contribuições (como escrever uma documentação, ou fazer um website) pode fazer uma grande diferença em fazer com que novos contribuidores se sintam bem vindos e felizes em participar.
 
-Por exemplo, o [Active Admin](https://github.com/activeadmin/activeadmin/) começa [seu guia de contribuição](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) com:
+Por exemplo, o [Active Admin](https://github.com/activeadmin/activeadmin/) começa [seu guia de contribuição](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) com:
 
 > Primeiramente, obrigado por considerar contribuir para o Active Admin. São pessoas como você que fazem o Active Admin esta grande ferramenta.
 
@@ -187,7 +187,7 @@ Nos primeiros estágios do seu projeto, seu arquivo de CONTRIBUTING pode ser sim
 
 Ao longo do tempo, você pode adicionar outras questões frequentemente respondidas ao seu arquivo CONTRIBUTING. Escrever essas informações significa que menos pessoas te farão as mesmas perguntas repetidas vezes.
 
-Para mais ajuda em como escrever seu arquivo CONTRIBUTING, dê uma olhada no [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) de @nayafia ou o ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) do @mozilla.
+Para mais ajuda em como escrever seu arquivo CONTRIBUTING, dê uma olhada no [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) de @nayafia ou o ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) do @mozilla.
 
 Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que mais pessoas possam vê-lo. Se você [colocar seu arquivo CONTRIBUTING no repositório do seu projeto](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), o GitHub irá automaticamente "linkar" para o seu arquivo quando um contribuidor criar uma issue ou abrir um pull request.
 

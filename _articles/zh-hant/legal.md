@@ -125,7 +125,7 @@ redirect_from: /zh-tw/legal/
 
 * **專利：**你們公司是否申請了與你們專案有關的專利？如果開源源程式碼，這會對公司的專利進行[公開披露](https://en.wikipedia.org/wiki/Public_disclosure)。可悲的是，你們可能被要求等待（或者公司會重新思考應用程序）。如果你們期望從擁有大量專利組合的公司的員工那裏得到貢獻，們的法律團隊可能希望你們使用來自貢獻者的明確專利授權的許可協議（例如Apache 2.0或GPLv3）或其他貢獻者協議（見上文）。
 
-* **商標：**認真檢查你們的專案名[沒有與已經存在的商標衝突](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#避免命名衝突)。如果你們將自己公司的商標用於專案，請檢查它有沒有造成衝突。[FOSSmarks](http://fossmarks.org/)是在自由和開源專案的背景下理解商標的實用指南。
+* **商標：**認真檢查你們的專案名[沒有與已經存在的商標衝突](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-02.md#避免命名衝突)。如果你們將自己公司的商標用於專案，請檢查它有沒有造成衝突。[FOSSmarks](http://fossmarks.org/)是在自由和開源專案的背景下理解商標的實用指南。
 
 * **隱私：**你們的專案是否收集了用戶數據並存儲到公司的服務器？你們的法律團隊可以幫助你們遵守公司政策和外部法規。
 

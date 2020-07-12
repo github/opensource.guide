@@ -93,11 +93,11 @@ Dacă proiectul tău are o comunitate de contributori foarte activă, ai putea s
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Echipele de conducere ar putea dori să creeze un canal desemnat (cum ar fi pe IRC) sau să se întâlnească periodic să discute despre proiect (cum ar fi pe Gitter sau Google Hangouts). Poți chiar face aceste întâlniri publice astfel încât alți oameni pot asculta. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), de exemplu, [găzduiește ore de lucru săptămânal](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Echipele de conducere ar putea dori să creeze un canal desemnat (cum ar fi pe IRC) sau să se întâlnească periodic să discute despre proiect (cum ar fi pe Gitter sau Google Hangouts). Poți chiar face aceste întâlniri publice astfel încât alți oameni pot asculta. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), de exemplu, [găzduiește ore de lucru săptămânal](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Odată ce ai stabilit roluri de conducere, nu uita să documentezi modul în care oamenii pot să le atingă! Stabilește un proces clar pentru cum cineva poate deveni un întreținător sau să se alăture unui subcomitet în cadrul proiectului tău, și scrie aceasta în GOVERNANCE.md-ul tău.
 

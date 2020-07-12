@@ -98,7 +98,7 @@ var markdown = unified()
   .use(stringify)
   .use(frontmatter, 'yaml')
 
-  // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
+  // https://github.com/wooorm/remark-lint/blob/HEAD/doc/rules.md
   .use(lint)
 
   // Headings

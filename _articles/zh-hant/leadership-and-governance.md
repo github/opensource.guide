@@ -25,7 +25,7 @@ redirect_from: /zh-tw/leadership-and-governance/
 * **貢獻者**
 * **修訂者**
 
-**對於某些專案來說， "維護者"** 就是唯一擁有提交權限的人。然而在其它的一些專案中，維護者會列在README上  
+**對於某些專案來說， "維護者"** 就是唯一擁有提交權限的人。然而在其它的一些專案中，維護者會列在README上
 
 作爲一名維護者，不一定非得一定要爲專案撰寫程式。有可能是專案的佈道師，爲專案的宣傳做了很多的工作，又或者是撰寫文件讓更多的人參與進來。不管他們每天做什麼，維護者就是那些對專案方向負責的人，並致力於專案的改進。
 
@@ -64,12 +64,12 @@ redirect_from: /zh-tw/leadership-and-governance/
 <aside markdown="1" class="pquote">
   \[我們\] 爲核心團隊設立多個"子團隊"。每個子團隊都會專門的聚焦於某個特定的領域，舉例來說，語言設計或程序庫(...) 爲了確保全局的協調和健壯，會將整體的專案設置爲同一個願景，每個子團隊是由核心團隊的一員。
   <p markdown="1" class="pquote-credit">
-— ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
 領導者團隊或許要創建一個指定的頻道（如IRC），又或者是參與專案的日常討論（如Gitter或Google Hangout）。你需要將這些會議可以公開訪問，以便讓人們方便傾聽。舉例來說，
- [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就會[每週開一次會議，每次持續幾小時](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+ [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就會[每週開一次會議，每次持續幾小時](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 一旦你建立了領導力角色，一定不要忘記撰寫文件，告訴人們如何成爲領導者！要爲如何成爲一名維護者或加入到專案的子委員會創建一個清晰的流程，並將之寫入 GOVERNANCE.md 文件。
 

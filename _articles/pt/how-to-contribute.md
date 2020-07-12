@@ -211,12 +211,13 @@ Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e c
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
+* [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Um checklist antes de você contribuir
 
@@ -426,7 +427,7 @@ Antes de abrir uma issue, pull request ou fazer uma pergunta no bate-papo, ter o
 >
 > 😢 _"Porque você não dá suporte ao meu caso de uso? Isto é inaceitável!"_
 
-**Acima de tudo, mantenha a classe.** O open source é composto por contribuidores de todo o mundo. O contexto se perde em idiomas, culturas, regiões geográficas e fusos horários. Além disso, a comunicação escrita torna mais difícil transmitir um tom ou humor. Assuma boas intenções nessas conversas. É normal se desfazer de uma ideia de forma educada e pedir mais contexto ou esclarecer melhor sua posição. Apenas tente deixar a internet em um lugar melhor do que quando você a encontrou.
+**Acima de tudo, mantenha a classe.** O open source é composto por contribuidores de todo o mundo. O contexto se perde em idiomas, culturas, regiões geográficas e fusos horários. Além disso, a comunicação escrita torna mais difícil transmitir um tom ou humor. Assuma boas intenções nessas conversas. É normal se desfazer de uma ideia de forma educada e pedir mais contexto ou esclarecer melhor sua posição. Apenas tente deixar a internet melhor do que quando você a encontrou.
 
 ### Capturando o contexto
 

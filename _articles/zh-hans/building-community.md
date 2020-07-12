@@ -76,7 +76,7 @@ redirect_from: /zh-cn/building-community/
 
 ### 积极回应
 
-一旦你[推广项目](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-03.md)，人们将会给你们反馈。他们可能会问项目是如何工作的，或者参与项目初期需要你的帮助。
+一旦你[推广项目](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-03.md)，人们将会给你们反馈。他们可能会问项目是如何工作的，或者参与项目初期需要你的帮助。
 
 当有人列出一条issue，提交一个pull request，或者询问项目的有关问题时，你们应该尽量回答他们。当你们快速地做出回应时，人们将感觉到他们参与了对话，以及他们将会更热情地参与。
 
@@ -142,7 +142,7 @@ redirect_from: /zh-cn/building-community/
 
 你不可能做到与项目中的绝大多数人产生互动，你们可能没有收到一些贡献，因为有些人感到害怕或者不知道该从何处开始，有时候即使是几个字也能阻止一些人沮丧地离开你们的项目。
 
-例如，这里是[Rubinius](https://github.com/rubinius/rubinius/)如何开始[它的贡献指南](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)：
+例如，这里是[Rubinius](https://github.com/rubinius/rubinius/)如何开始[它的贡献指南](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md)：
 
 > 我们想感谢你们使用Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够找到你们的issue。
 

@@ -153,7 +153,7 @@ Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen z
 
 Sie werden mit den meisten Leuten, die auf Ihr Projekt stoßen nie interagieren. Ihnen könnten Beiträge entgehen, weil jemand sich eingeschüchtert fühlte, oder nicht herausfand, was es denn zu tun gab. Schon ein paar freundliche Worte können verhindern, dass jemand einfach weiter zieht.
 
-Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) mit:
+Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) mit:
 
 > Zum Einstieg möchten wir Dir erstmal unseren Dank aussprechen, dass Du Rubinius nutzt. Dieses Projekt wurde mit viel Liebe aufgebaut und wir schätzen alle Benutzer\*innen, die Fehler aufspüren, Geschwindigkeitsverbesserungen vornehmen und bei der Dokumentation helfen. Jeder Beitrag bedeutet uns etwas, also vielen Dank für Ihre Teilnahme! Wir bitten Sie jedoch, einige Richtlinien zu befolgen, damit wir Ihr Issue erfolgreich bearbeiten können.
 >
@@ -181,7 +181,7 @@ Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie mögli
 
 ![Cookiecutter-Issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Wenn Sie schon eine etwas größere Gemeinschaft versammelt haben, **senden Sie eine Rundmail oder schreiben ins Blog**, dass Sie Kontributor\*innen danken. Rusts [This Week in Rust](https://this-week-in-rust.org/) und Hoodies [Shoutout-Grüße](http://hood.ie/blog/shoutouts-week-24.html) sind zwei gute Beispiele dafür.
 

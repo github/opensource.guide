@@ -138,7 +138,7 @@ Finalmente, utiliza tu documentaci&oacute;n para hacer que las personas se sient
 
 Nunca vas a interactuar con la mayor&iacute;a de las personas que se acercan a tu proyecto. Puede haber colaboradores que no recibiste porque &aacute;lguien se sinti&oacute; intimidado o no supo c&oacute;mo comenzar. Incluso algunas palabras amables pueden evitar que esas personas abandonen tu proyecto por verse frustradas
 
-Por ejemplo, as&iacute; es como [Rubinius](https://github.com/rubinius/rubinius/) comienza su  [gu&iacute;a de contribuciones](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):/
+Por ejemplo, as&iacute; es como [Rubinius](https://github.com/rubinius/rubinius/) comienza su  [gu&iacute;a de contribuciones](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):/
 
 > Queremos comenzar agradeciendo por utilizar Rubinius. Este proyecto es un trabajo de amor, y apreciamos a todos los usuarios que detectan errores, hacen mejoras al rendimiento, y ayudan con su documentaci&oacute;n. Cada contribuci&oacute;n es significativa, as&iacute; que gracias por participar. Dicho esto, aqu&iacute; dejamos algunas pautas que pedimos que sigan para que podamos abordar con &eacute;xito su problema.
 
@@ -161,7 +161,7 @@ Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad ta
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Inicia un archivo de COLABORADORES o AUTORES en tu proyecto** que liste a todos los que colaboraron con tu proyecto, como lo hace [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Inicia un archivo de COLABORADORES o AUTORES en tu proyecto** que liste a todos los que colaboraron con tu proyecto, como lo hace [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Si tienes una comunidad considerable, **env&iacute;a un bolet&iacute;n o escribe un post en un blog** agradeciendo a los colaboradores. Rust's [This Week in Rust](https://this-week-in-rust.org/) y Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) son dos buenos ejemplos.
 

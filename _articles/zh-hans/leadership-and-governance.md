@@ -64,12 +64,12 @@ redirect_from: /zh-cn/leadership-and-governance/
 <aside markdown="1" class="pquote">
   \[我们\] 为核心团队设立多个"子团队"。每个子团队都会专门的聚焦于某个特定的领域，举例来说，语言设计或程序库(...) 为了确保全局的协调和健壮，会将整体的项目设置为同一个愿景，每个子团队是由核心团队的一员。
   <p markdown="1" class="pquote-credit">
-— ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
 领导者团队或许要创建一个指定的频道（如IRC），又或者是参与项目的日常讨论（如Gitter或Google Hangout）。你需要将这些会议可以公开访问，以便让人们方便倾听。举例来说，
- [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就会[每周开一次会议，每次持续几小时](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+ [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就会[每周开一次会议，每次持续几小时](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 一旦你建立了领导力角色，一定不要忘记撰写文档，告诉人们如何成为领导者！要为如何成为一名维护者或加入到项目的子委员会创建一个清晰的流程，并将之写入 GOVERNANCE.md 文件。
 
