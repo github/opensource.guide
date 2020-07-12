@@ -30,16 +30,16 @@ Topluluğunuzu oluştururken huninin tepesindeki birinin (potansiyel bir kullan�
 
 Belgelerinizle başlayın:
 
-- **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#readme-yazma) ve sade kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
-- [CONTRIBUTING dosyanızı](../starting-a-project/#katk%C4%B1da-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
-- **Başlamak için iyi sorunlar**: Yeni katkıda bulunanların başlamasına yardımcı olmak için, [yeni başlayanların çözmesi için yeterince basit olan sorunları açıkça etiketlemeyi](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels) düşünün. GitHub daha sonra bu sorunları platformda çeşitli yerlere taşıyacak, faydalı katkıları artıracak ve kullanıcıların seviyeleri için çok zor olan sorunlarla karşılaştırmayak sürtünmeyi azaltacak.
+* **Birinin projenizi kullanmasını kolaylaştırın.** [Dostça bir README](../starting-a-project/#readme-yazma) ve sade kod örnekleri, projenize ulaşan herkesin başlamasını kolaylaştıracaktır.
+* [CONTRIBUTING dosyanızı](../starting-a-project/#katk%C4%B1da-bulunma-rehberinizi-yazmak) kullanarak ve sorun listenizi güncel tutarak **nasıl katkıda bulunulabileceğini açıkça belirtin**.
+* **Başlamak için iyi sorunlar**: Yeni katkıda bulunanların başlamasına yardımcı olmak için, [yeni başlayanların çözmesi için yeterince basit olan sorunları açıkça etiketlemeyi](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels) düşünün. GitHub daha sonra bu sorunları platformda çeşitli yerlere taşıyacak, faydalı katkıları artıracak ve kullanıcıların seviyeleri için çok zor olan sorunlarla karşılaştırmayak sürtünmeyi azaltacak.
 
 [GitHub'ın 2017 Açık Kaynak Anketi](http://opensourcesurvey.org/2017/) gösterdi ki açık kaynak kullanıcıları için en büyük problem yarım ya da karmaşık belgelerdir. İyi bir dökümantasyon insanların projeniz ile etkileşime geçmesini sağlar. Eninde sonunda birisi bir sorun bildirecek veya istekte bulunacaktır. Bu etkileşimleri, dönüşüm hunisinden aşağıya taşımak için fırsatlar olarak kullanın.
 
-- **Yeni birileri projenize geldiğinde, ilgilendikleri için teşekkür edin!** Birinin geri gelmek istememesi için yalnızca bir olumsuz deneyim yeterlidir.
-- **Hızlı cevap verin.** Sorunlarına bir ay boyunca cevap vermezseniz, büyük olasılıkla projenizi çoktan unutmuş olurlar.
-- **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#katk%C4%B1da-bulunmak-ne-demektir) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
-- **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#hay%C4%B1r-demeyi-%C3%B6%C4%9Frenme) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
+* **Yeni birileri projenize geldiğinde, ilgilendikleri için teşekkür edin!** Birinin geri gelmek istememesi için yalnızca bir olumsuz deneyim yeterlidir.
+* **Hızlı cevap verin.** Sorunlarına bir ay boyunca cevap vermezseniz, büyük olasılıkla projenizi çoktan unutmuş olurlar.
+* **Kabul edeceğiniz katkı türleri konusunda açık fikirli olun.** Katkıda bulunan birçok kişi bir hata raporu veya küçük bir düzeltme ile başlar. Bir projeye [katkıda bulunmak için birçok yol](../how-to-contribute/#katk%C4%B1da-bulunmak-ne-demektir) var. İnsanların nasıl istiyorlarsa öyle yardım etmelerine izin verin.
+* **Katılmadığınız bir katkı varsa** , fikirleri için onlara teşekkür edin ve [niçin](../best-practices/#hay%C4%B1r-demeyi-%C3%B6%C4%9Frenme) projenin kapsamına uymadığını açıklayın, varsa ilgili dokümantasyondan alıntı yapın.
 
 <aside markdown="1" class="pquote">   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/mikeal?s=180">   Bazıları için açık kaynağa katkıda bulunmak diğerlerinden daha kolaydır. Doğru bir şey yapmamak ya da sadece uyum sağlamaktan bağırmaktan korkmak çok fazla. (...) Katkıda bulunanlara çok düşük teknik yeterliliğe (dokümantasyon, web içeriği işaretleme, vb.) Katkıda bulunacak bir yer vererek bu kaygılar.  <p markdown="1" class="pquote-credit"> — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)   </p></aside>
 
@@ -119,7 +119,7 @@ CONTRIBUTING dosyanızda, yeni katılımcılara nasıl başlayacaklarını açı
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-Sorun listenizde, katkıda bulunanlar için farklı türlerlerde etiket kullanmak uygundur: örneğin, [*"ilk gelenler için"*](https://kentcdodds.com/blog/first-timers-only) , *"başlamak için"* veya *"belge".* [Bu etiketler](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14), projenizde yeni birisinin sorunlarınızı hızla taramasını ve başlamasını kolaylaştırır.
+Sorun listenizde, katkıda bulunanlar için farklı türlerlerde etiket kullanmak uygundur: örneğin, [_"ilk gelenler için"_](https://kentcdodds.com/blog/first-timers-only) , _"başlamak için"_ veya _"belge"._ [Bu etiketler](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14), projenizde yeni birisinin sorunlarınızı hızla taramasını ve başlamasını kolaylaştırır.
 
 Son olarak, insanların yolun her aşamasında kendilerini rahat hissetmelerini sağlamak için belgelerinizi kullanın.
 
@@ -137,17 +137,17 @@ Projenize ulaşan çoğu insanla asla etkileşime geçemeyeceksiniz. Biri kendin
 
 Mülkiyetinizi topluluğunuzla mümkün olduğunca paylaşmanın yollarını bulabilecek misiniz bir bakın. İşte bazı fikirler:
 
-- **Kolay (kritik olmayan) hataları kendiniz düzeltmeye karşı direnç gösterin.** Bunun yerine, bunları yeni katkıda bulunanlar bulmak için fırsatlar olarak kullanın veya katkıda bulunmak isteyen birini akıl hocası olarak kullanın. İlk başta doğal görünmeyebilir, ancak yatırımınız zamanla karşılığını verir. Örneğin, @michaeljoseph, bir katılımcıdan, sorunu kendisini düzeltmek yerine, [Cookiecutter](https://github.com/audreyr/cookiecutter) konusuna ilişkin bir PR isteği göndermesini istedi.
+* **Kolay (kritik olmayan) hataları kendiniz düzeltmeye karşı direnç gösterin.** Bunun yerine, bunları yeni katkıda bulunanlar bulmak için fırsatlar olarak kullanın veya katkıda bulunmak isteyen birini akıl hocası olarak kullanın. İlk başta doğal görünmeyebilir, ancak yatırımınız zamanla karşılığını verir. Örneğin, @michaeljoseph, bir katılımcıdan, sorunu kendisini düzeltmek yerine, [Cookiecutter](https://github.com/audreyr/cookiecutter) konusuna ilişkin bir PR isteği göndermesini istedi.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-- Projenizde, projenize katkıda bulunan herkesi listeleyen **bir CONTRIBUTORS veya AUTHORS dosyası başlatın**,[Sinatra'nın](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) yaptığı gibi.
+* Projenizde, projenize katkıda bulunan herkesi listeleyen **bir CONTRIBUTORS veya AUTHORS dosyası başlatın**,[Sinatra'nın](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) yaptığı gibi.
 
-- Oldukça büyük bir topluluğunuz varsa, **bülten gönderin veya katkıda bulunanlara teşekkür eden bir blog yazısı yazın**. Rust'ın [Rust'ta Bu Hafta](https://this-week-in-rust.org/) ve Hoodie'nin [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) bültenleri iki güzel örnek.
+* Oldukça büyük bir topluluğunuz varsa, **bülten gönderin veya katkıda bulunanlara teşekkür eden bir blog yazısı yazın**. Rust'ın [Rust'ta Bu Hafta](https://this-week-in-rust.org/) ve Hoodie'nin [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) bültenleri iki güzel örnek.
 
-- **Her katkıda bulunana commit izni verin.** @felixge, bunun insanları [yamalarını geliştirme konusunda daha heyecanlı](https://felixge.de/2013/03/11/the-pull-request-hack.html) hale getirdiğini buldu ve bir süredir üzerinde çalışamadığı projeler için yeni geliştiriciler buldu.
+* **Her katkıda bulunana commit izni verin.** @felixge, bunun insanları [yamalarını geliştirme konusunda daha heyecanlı](https://felixge.de/2013/03/11/the-pull-request-hack.html) hale getirdiğini buldu ve bir süredir üzerinde çalışamadığı projeler için yeni geliştiriciler buldu.
 
-- Projeniz GitHub'daysa, **projenizi kişisel hesabınızdan bir [Organizasyona](https://help.github.com/articles/creating-a-new-organization-account/) hesabına taşıyın** ve en az bir yedek yönetici ekleyin. Organizasyon hesapları, harici çalışanlarla projeler üzerinde çalışmayı kolaylaştırır.
+* Projeniz GitHub'daysa, **projenizi kişisel hesabınızdan bir [Organizasyona](https://help.github.com/articles/creating-a-new-organization-account/) hesabına taşıyın** ve en az bir yedek yönetici ekleyin. Organizasyon hesapları, harici çalışanlarla projeler üzerinde çalışmayı kolaylaştırır.
 
 Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.com/preprints/1233.pdf) bir veya iki geliştirici vardır. Projeniz büyüdükçe ve topluluğunuz büyüdükçe, yardım bulmak o kadar kolay olur.
 
@@ -203,9 +203,9 @@ Aktif olarak çözüme doğru hareket ettiği sürece tartışmayı teşvik edin
 
 Bu konuşmaların devam etmesine izin vermek yalnızca eldeki sorun için değil, topluluğunuzun sağlığı için de kötüdür. Bu tür konuşmalara izin verildiğini veya hatta teşvik edildiğini gösteren bir mesaj verir ve insanların gelecekteki sorunları dile getirmeleri veya çözmeleri konusunda cesaretlerini kırar.
 
-Siz veya başkaları tarafından yapılan her noktada kendinize, *"Bu bizi çözüme nasıl daha fazla yaklaştırır?" Diye sorun.*
+Siz veya başkaları tarafından yapılan her noktada kendinize, _"Bu bizi çözüme nasıl daha fazla yaklaştırır?" Diye sorun._
 
-Konuşma çözülmeye ulaştıysa, sohbeti yeniden odaklamak için gruba *"Bundan sonra hangi adımları atmalıyız?"* diye sorun.
+Konuşma çözülmeye ulaştıysa, sohbeti yeniden odaklamak için gruba _"Bundan sonra hangi adımları atmalıyız?"_ diye sorun.
 
 Bir konuşma açıkça bir yere gitmiyorsa, yapılacak net bir işlem yoksa veya uygun bir işlem yapılmamışsa, sorunu kapatın ve neden kapattığınızı açıklayın.
 
