@@ -216,6 +216,8 @@ Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte 
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Una lista de verificaci&oacute;n antes de que contribuyas
 

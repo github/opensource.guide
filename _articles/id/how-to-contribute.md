@@ -216,6 +216,8 @@ Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk me
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Daftar sebelum Anda berkontribusi
 

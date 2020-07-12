@@ -63,11 +63,11 @@ Se seu projeto possui uma comunidade contribuinte muito ativa, você pode formar
 <aside markdown="1" class="pquote">
   \[Nós\] complementamos a equipe principal com várias "subequipes". Cada subequipe é focada em um área específica, e.q., design de linguagem ou bibliotecas. (...) Para assegurar a coordenação global e uma forte e coerente visão para o projeto como um todo, cada subequipe é liderada por um membro da equipe principal.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Times de lideranças podem querer criar um canal designado (como no IRC) ou se encontrar regularmente para discutir o projeto (como no Gitter ou Google Hangouts). Você pode sempre tornar essas reuniões públicas para que outras pessoãs possam escutá-las. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), por exemplo, [disponibiliza horários de atendimento toda semana](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Times de lideranças podem querer criar um canal designado (como no IRC) ou se encontrar regularmente para discutir o projeto (como no Gitter ou Google Hangouts). Você pode sempre tornar essas reuniões públicas para que outras pessoãs possam escutá-las. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), por exemplo, [disponibiliza horários de atendimento toda semana](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Uma vez que você tenha estabelecido papéis de liderança, não esqueça de documentar como as pessoas podem alcançá-los! Estabeleça um processo claro de como alguém pode se tornar um mantenedor, ou se juntar à um subcomitê em seu projeto, e escreva isso em seu arquivo GOVERNANCE.md.
 

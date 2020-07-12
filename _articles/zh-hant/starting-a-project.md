@@ -44,7 +44,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 * **協作：** 開源專案可以接受世界各地人們的修改。 例如 [Exercism](https://github.com/exercism/) 就是一個擁有350多個貢獻者的練習平臺。
 
-* **採用和重組：** 任何人幾乎可以出於任何目的使用開源專案。人們甚至可以使用它來構建其他東西。例如，[WordPress](https://github.com/WordPress) 就是派生自一個名爲 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) 的現有專案。
+* **採用和重組：** 任何人幾乎可以出於任何目的使用開源專案。人們甚至可以使用它來構建其他東西。例如，[WordPress](https://github.com/WordPress) 就是派生自一個名爲 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) 的現有專案。
 
 * **透明度：** 任何人都可以檢查開源專案是否有錯誤或不一致。 透明度對[保加利亞](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美國](https://sourcecode.cio.gov/)等政府，銀行或醫療保健等受監管行業以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全軟件都很重要。
 
@@ -180,7 +180,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 溫柔友好的逾期和向貢獻者們提供具體的建議（例如寫文檔或者搭建一個網頁）能夠有效地使新人感到受歡迎並樂於參與其中。
 
-例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以這樣的方式開始[它的貢獻指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
+例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以這樣的方式開始[它的貢獻指南](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md)：
 
 > 首先， 非常感謝你考慮爲 Active Admin 貢獻幫助。正式你這樣的人們使得 Active Admin 成爲瞭如此優秀的工具。
 
@@ -188,7 +188,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 隨着時間的推移，你硬弓增加其他常見問題到你的貢獻文件中去。寫下這些資訊意味着問你相同問題的人會越來越少。
 
-想要獲得更多有關編寫貢獻文件的方式，請查閱 @nayafia 的 [貢獻指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何構建 CONTRIBUTION.md"](http://mozillascience.github.io/working-open-workshop/contributing/)。
+想要獲得更多有關編寫貢獻文件的方式，請查閱 @nayafia 的 [貢獻指南模板](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何構建 CONTRIBUTION.md"](http://mozillascience.github.io/working-open-workshop/contributing/)。
 
 來你的 README 中鏈接你的 CONTRIBUTING，這樣更多人就能看到他。如果你[在你的專案中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，當一個貢獻者創建 issue 或者開啓一個 pull request 時，GitHub 會自動鏈接你的文件。
 

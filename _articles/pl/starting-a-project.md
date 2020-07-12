@@ -38,7 +38,7 @@ _Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwart
 
 * **Współpraca:** Projekty open source mogą akceptować zmiany od każdego na świecie. [Exercism](https://github.com/exercism/), na przykład, jest platformą ćwiczeń programistycznych z ponad 350 uczestnikami.
 
-* **Adopcja i remiksowanie:** projekty open source mogą być wykorzystywane przez każdego do prawie dowolnego celu. Ludzie mogą nawet używać go do budowania innych rzeczy. [WordPress](https://github.com/WordPress), na przykład, zaczął się jako rozwidlenie istniejącego projektu o nazwie[b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adopcja i remiksowanie:** projekty open source mogą być wykorzystywane przez każdego do prawie dowolnego celu. Ludzie mogą nawet używać go do budowania innych rzeczy. [WordPress](https://github.com/WordPress), na przykład, zaczął się jako rozwidlenie istniejącego projektu o nazwie[b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparentność:** Każdy może sprawdzić projekt open source pod kątem błędów lub niespójności. Przejrzystość ma znaczenie dla rządów takich jak [Bułgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) lub [Stany Zjednoczone](https://sourcecode.cio.gov/), regulowane branże, takie jak bankowość lub opieka zdrowotna, oraz oprogramowanie zabezpieczające, takie jak [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -180,7 +180,7 @@ Oprócz szczegółów technicznych plik CONTRIBUTING jest także okazją do wyra
 
 Używanie ciepłego, przyjaznego tonu i oferowanie konkretnych sugestii dotyczących wkładu (takich jak pisanie dokumentacji lub tworzenie strony internetowej) może znacznie przyczynić się do tego, że nowo przybyli poczują się mile widziani i podekscytowani uczestnictwem.
 
-Na przykład [Active Admin](https://github.com/activeadmin/activeadmin/) uruchamia [swój przewodnik pomocniczy](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) z:
+Na przykład [Active Admin](https://github.com/activeadmin/activeadmin/) uruchamia [swój przewodnik pomocniczy](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) z:
 
 > Po pierwsze, dziękuję za rozważenie włączenia się w Active Admin. Ludzie tacy jak Ty sprawiają, że Active Admin jest tak doskonałym narzędziem.
 
@@ -188,7 +188,7 @@ Na najwcześniejszych etapach projektu plik WKŁADU może być prosty. Zawsze po
 
 Z czasem możesz dodawać inne często zadawane pytania do pliku WKŁAD. Zapisanie tych informacji oznacza, że coraz mniej osób będzie zadawać ci te same pytania w kółko.
 
-Aby uzyskać więcej pomocy w pisaniu pliku WKŁAD, sprawdź @nayafia [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) lub @mozilla ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Aby uzyskać więcej pomocy w pisaniu pliku WKŁAD, sprawdź @nayafia [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) lub @mozilla ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
 Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Jeśli [umieścisz plik CONTRIBUTING w repozytorium swojego projektu](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub automatycznie doda link do Twojego pliku, gdy współtwórca utworzy problem lub otworzy żądanie ściągnięcia.
 

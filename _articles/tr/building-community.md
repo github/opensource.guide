@@ -143,7 +143,7 @@ Son olarak, insanların yolun her aşamasında kendilerini rahat hissetmelerini 
 
 Projenize ulaşan çoğu insanla asla etkileşime geçemeyeceksiniz. Biri kendini çekingen hissettiği veya nereden başlayacağını bilmediği için almadığınız katkılar olabilir. Birkaç nazik kelime bile, birisinin projenizde hayal kırıklığına uğratmasına engel olabilirsiniz.
 
-Örneğin, [Rubinius](https://github.com/rubinius/rubinius/)[katkıda bulunan kılavuzuna](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) {a2}şöyle{/a2} başlıyor:
+Örneğin, [Rubinius](https://github.com/rubinius/rubinius/)[katkıda bulunan kılavuzuna](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) {a2}şöyle{/a2} başlıyor:
 
 > Rubinius'u kullandığınız için teşekkür ederek başlamak istiyoruz. Bu proje bir sevgi emeğidir ve hataları yakalayan, performans iyileştirmeleri yapan ve belgelere yardımcı olan tüm kullanıcıları takdir ediyoruz. Her katkı anlamlıdır, katılımınız için teşekkür ederiz. İşte sorununuzu başarıyla çözebilmemiz için izlemenizi istediğimiz birkaç kural.
 
@@ -165,7 +165,7 @@ Mülkiyetinizi topluluğunuzla mümkün olduğunca paylaşmanın yollarını bul
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* Projenizde, projenize katkıda bulunan herkesi listeleyen **bir CONTRIBUTORS veya AUTHORS dosyası başlatın**,[Sinatra'nın](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) yaptığı gibi.
+* Projenizde, projenize katkıda bulunan herkesi listeleyen **bir CONTRIBUTORS veya AUTHORS dosyası başlatın**,[Sinatra'nın](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) yaptığı gibi.
 
 * Oldukça büyük bir topluluğunuz varsa, **bülten gönderin veya katkıda bulunanlara teşekkür eden bir blog yazısı yazın**. Rust'ın [Rust'ta Bu Hafta](https://this-week-in-rust.org/) ve Hoodie'nin [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) bültenleri iki güzel örnek.
 

@@ -63,11 +63,11 @@ related:
 <aside markdown="1" class="pquote">
   \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
   <p markdown="1" class="pquote-credit">
-— [“Rust Governance RFC”](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— [“Rust Governance RFC”](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-리더 팀은 IRC 등 지정된 채널을 만들거나 Gitter나 Google Hangout 등에서 정기적으로 프로젝트 토론 시간을 가지는 것이 좋습니다. 다른 사람들도 참관할 수 있게 채널이나 토론을 공개해도 됩니다. 예컨대 [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)는 [매주 토론 시간을 갖습니다](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+리더 팀은 IRC 등 지정된 채널을 만들거나 Gitter나 Google Hangout 등에서 정기적으로 프로젝트 토론 시간을 가지는 것이 좋습니다. 다른 사람들도 참관할 수 있게 채널이나 토론을 공개해도 됩니다. 예컨대 [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)는 [매주 토론 시간을 갖습니다](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 리더십 역할을 구성한 후에는 사람들이 어떻게 그 역할을 부여받을 수 있는지 문서화하는 것을 잊지 마세요! 관리자나 특정 분야 전문 기여자가 되는 방법을 명확하게 정하고 GOVERNANCE 파일에 기록하세요.
 

@@ -136,7 +136,7 @@ Por fim, use a sua documentação para fazer as pessoas se sentirem bem-vindas a
 
 Você não interagirá com a maior parte das pessoas que chegarem ao seu projeto. Podem haver contribuições que você não recebeu porque alguém se sentiu intimidado ou não soube como começar. Até mesmo algumas palavras gentis podem fazer com que alguém não deixe, frustradamente, o seu projeto.
 
-Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introduz o [seu guia de contribuição](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introduz o [seu guia de contribuição](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
 > Em primeiro lugar, gostaríamos de agradecer por usar o Rubinus. Este projeto é um trabalho de amor, e apreciamos todos os usuários que capturam bugs, fazem melhorias de desempenho, e ajudam com a documentação. Toda contribuição é importante, então obrigado por participar. Dito isso, aqui estão algumas orientações que pedimos que siga, de modo que possamos ter sucesso em identificar o seu problema.
 
@@ -158,7 +158,7 @@ Procure encontrar maneiras de compartilhar a propriedade com a sua comunidade o 
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Crie um arquivo CONTRIBUTORS ou AUTHORS em seu projeto** que liste todos os que contribuíram para o seu projeto, como o [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) faz.
+* **Crie um arquivo CONTRIBUTORS ou AUTHORS em seu projeto** que liste todos os que contribuíram para o seu projeto, como o [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) faz.
 
 * Se você possui uma comunidade de tamanho razoável, **envie uma newsletterm ou escreva um post em um blog** agradecendo aos contribuidores. A [This Week in Rust](https://this-week-in-rust.org/), do Rust, e a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html), da Hoodie, são dois bons exemplos.
 

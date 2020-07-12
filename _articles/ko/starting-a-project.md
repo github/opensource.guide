@@ -43,7 +43,7 @@ related:
 
 * **협업:** 오픈소스 프로젝트는 전 세계 누구에게서든 수정을 받을 수 있습니다. 예를 들어 [Exercism](https://github.com/exercism/)은 350명이 넘는 기여자가 참여하는 프로그래밍 연습 플랫폼입니다.
 
-* **채택과 재가공:** 오픈소스 프로젝트는 거의 모든 용도로 누구나 사용할 수 있습니다. 심지어 사람들이 그 프로젝트를 기반으로 다른 프로젝트를 만들 수도 있습니다. 예컨대 [WordPress](https://github.com/WordPress)는 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md)라는 기존 프로젝트의 포크로 시작했습니다.
+* **채택과 재가공:** 오픈소스 프로젝트는 거의 모든 용도로 누구나 사용할 수 있습니다. 심지어 사람들이 그 프로젝트를 기반으로 다른 프로젝트를 만들 수도 있습니다. 예컨대 [WordPress](https://github.com/WordPress)는 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md)라는 기존 프로젝트의 포크로 시작했습니다.
 
 * **투명성:** 누구나 오픈소스 프로젝트에서 오류나 불일치를 검사 할 수 있습니다. 투명성은 [불가리아](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)나 [미국](https://sourcecode.cio.gov/) 같은 정부, 은행 또는 의료 같은 규제 대상 산업, Let's Encrypt 등의 보안 소프트웨어에는 투명성이 중요합니다.
 
@@ -175,11 +175,11 @@ CONTRIBUTING 파일은 잠재 기여자들에게 프로젝트에 기여하는 �
 
 * 원하는 기여 유형
 * 프로젝트 로드맵 또는 비전
-* 기여자가 여러분과 연락하는 데 사용할 (혹은 사용하지 말아야 할) 방법 
+* 기여자가 여러분과 연락하는 데 사용할 (혹은 사용하지 말아야 할) 방법
 
 따뜻하고 친근한 어조를 사용하고, 문서나 웹사이트 작성 등 기여에 대한 구체적인 제안을 제공하는 것은 새로운 사람들이 기꺼이 기여를 만들게 하는 데 도움이 될 수 있습니다.
 
-예를 들어 [Active Admin](https://github.com/activeadmin/activeadmin/)은 다음과 같이 [기여 가이드](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)를 시작합니다.
+예를 들어 [Active Admin](https://github.com/activeadmin/activeadmin/)은 다음과 같이 [기여 가이드](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md)를 시작합니다.
 
 > 먼저, Active Admin에 기여해 주셔서 감사합니다. 여러분의 기여가 Active Admin을 이렇게 훌륭한 툴로 만듭니다.
 
@@ -187,7 +187,7 @@ CONTRIBUTING 파일은 잠재 기여자들에게 프로젝트에 기여하는 �
 
 시간이 지나면 자주 묻는 질문을 CONTRIBUTING 파일에 추가할 수 있습니다. 이 정보를 적어두면 같은 질문을 반복해서 하는 사람들이 줄어들 것입니다.
 
-CONTRIBUTING 파일을 작성하는 데 도움이 필요하면 @nayafia의 [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 또는 @mozilla의 ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/)을 참조하세요.
+CONTRIBUTING 파일을 작성하는 데 도움이 필요하면 @nayafia의 [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) 또는 @mozilla의 ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/)을 참조하세요.
 
 README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할 수 있습니다. [CONTRIBUTING 파일을 프로젝트의 저장소에 두면](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) 기여자가 이슈를 생성하거나 PR를 열 때 GitHub가 자동으로 링크를 생성합니다.
 

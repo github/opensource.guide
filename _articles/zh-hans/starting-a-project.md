@@ -44,7 +44,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 * **协作：** 开源项目可以接受世界各地人们的修改。 例如 [Exercism](https://github.com/exercism/) 就是一个拥有350多个贡献者的练习平台。
 
-* **采用和重组：** 任何人几乎可以出于任何目的使用开源项目。人们甚至可以使用它来构建其他东西。例如，[WordPress](https://github.com/WordPress) 就是派生自一个名为 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) 的现有项目。
+* **采用和重组：** 任何人几乎可以出于任何目的使用开源项目。人们甚至可以使用它来构建其他东西。例如，[WordPress](https://github.com/WordPress) 就是派生自一个名为 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) 的现有项目。
 
 * **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
 
@@ -180,7 +180,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 使用热情友好的语气并提供具体的贡献建议（例如编写文档或者搭建网站）可以大大提高新人的参与度。
 
-例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以这样的方式开始[它的贡献指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
+例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以这样的方式开始[它的贡献指南](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md)：
 
 > 首先， 非常感谢你考虑为 Active Admin 贡献帮助。正是你这样的人使 Active Admin 成为一个很棒的工具。
 
@@ -188,7 +188,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 随着时间的推移，你可以将其他常见问题添加到贡献文件中去。写下这些信息意味着问你相同问题的人会越来越少。
 
-想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何构建 CONTRIBUTION.md"](https://mozillascience.github.io/working-open-workshop/contributing/)。
+想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何构建 CONTRIBUTION.md"](https://mozillascience.github.io/working-open-workshop/contributing/)。
 
 在你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
 

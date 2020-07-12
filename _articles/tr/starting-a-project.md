@@ -36,7 +36,7 @@ Bir kişinin veya örgütün bir projeyi açmak istemesinin [birçok nedeni](htt
 
 - **İşbirliği:** Açık kaynak projeler, dünyadaki herhangi birinden değişiklikleri kabul edebilir. Örneğin, [Exercism](https://github.com/exercism/) 350'den fazla katkıda bulunana sahip bir programlama egzersiz platformudur.
 
-- **Adapte etme ve yeniden tanımlama:** Açık kaynaklı projeler herkes tarafından herhangi bir amaç için kullanılabilir. İnsanlar başka şeyler yapmak için bile kullanabilirler. Örneğin [WordPress](https://github.com/WordPress), [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) adı verilen mevcut bir projenin alt dalı olarak başladı.
+* **Adapte etme ve yeniden tanımlama:** Açık kaynaklı projeler herkes tarafından herhangi bir amaç için kullanılabilir. İnsanlar başka şeyler yapmak için bile kullanabilirler. Örneğin [WordPress](https://github.com/WordPress), [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) adı verilen mevcut bir projenin alt dalı olarak başladı.
 
 - **Şeffaflık:** Açık kaynaklı bir projeyi herkes hata veya tutarsızlık açısından inceleyebilir. Şeffaflık, [Bulgaristan](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) veya [ABD](https://sourcecode.cio.gov/) gibi develetler, bankacılık veya sağlık gibi sıkı kurallara bağlı endüstriler ve [Let's Encrypt](https://github.com/letsencrypt) gibi güvenlik yazılımları için önemlidir.
 
@@ -154,7 +154,7 @@ Teknik ayrıntılara ek olarak, bir CONTRIBUTING dosyası, aşağıdakiler gibi 
 
 Sıcak, arkadaşça bir ton kullanmak ve katkılar için özel önerilerde bulunmak (örneğin, dokümantasyon yazmak veya bir web sitesi yapmak gibi) yeni gelenlerin kendilerini memnun ve istekli hissetmelerini sağlama konusunda yardımcı olabilir.
 
-Örneğin, [Active Admin](https://github.com/activeadmin/activeadmin/) [katkıda bulunan rehberine](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) şu şekilde başlar:
+Örneğin, [Active Admin](https://github.com/activeadmin/activeadmin/) [katkıda bulunan rehberine](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) şu şekilde başlar:
 
 > Öncelikle, Active Admin’e katkıda bulunduğunuz için teşekkür ederiz. Active Admin'i harika bir araç yapan sizin gibi insanlar.
 
@@ -162,7 +162,7 @@ Projenizin ilk aşamalarında, CONTRIBUTING dosyanız basit olabilir. Hataların
 
 Zamanla, CONTRIBUTING dosyanıza sıkça sorulan diğer soruları ekleyebilirsiniz. Bu bilgileri yazmak, daha az kişinin size aynı soruları tekrar soracağı anlamına gelir.
 
-CONTRIBUTING dosyanızı yazarken daha fazla yardım için @nayafia'nın [katkıda bulunma rehber şablonuna](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) veya @mozilla'nın ["Bir CONTRIBUTING.md Nasıl Oluşturulur"](https://mozillascience.github.io/working-open-workshop/contributing/) makalesine bakabilirsiniz.
+CONTRIBUTING dosyanızı yazarken daha fazla yardım için @nayafia'nın [katkıda bulunma rehber şablonuna](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) veya @mozilla'nın ["Bir CONTRIBUTING.md Nasıl Oluşturulur"](https://mozillascience.github.io/working-open-workshop/contributing/) makalesine bakabilirsiniz.
 
 CONTRIBUTING dosyanızı yazarken daha fazla yardım için @nayafia'nın [katkıda bulunma rehber şablonuna](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) veya @mozilla'nın ["Bir CONTRIBUTING.md Nasıl Oluşturulur"](https://mozillascience.github.io/working-open-workshop/contributing/) makalesine bakabilirsiniz.
 
