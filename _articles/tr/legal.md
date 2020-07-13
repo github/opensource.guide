@@ -120,7 +120,7 @@ Projeniz için ek bir katılımcı sözleşmesi düşünmek isteyebileceğiniz b
 
 Projeniz için ek bir katılımcı sözleşmesi kullanmanız gerekiyorsa, katılımcıların dikkatini dağıtmayı en aza indirmek için [CLA yardımcısı](https://github.com/cla-assistant/cla-assistant) gibi bir entegrasyon kullanmayı düşünün.
 
-## Şirketimin hukuk ekibinin neyi bilmesi gerekiyor?
+## Şirketimin hukuk ekibinin neleri bilmesi gerekiyor?
 
 Açık kaynaklı bir projeyi bir şirket çalışanı olarak yayınlıyorsanız, önce hukuk ekibiniz bir proje tedarik ettiğinizi bilmelidir.
 
