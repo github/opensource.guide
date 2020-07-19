@@ -44,7 +44,7 @@ Belgelerinizle başlayın:
 <aside markdown="1" class="pquote">
   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/mikeal?s=180">
   Bazıları için açık kaynağa katkıda bulunmak diğerlerinden daha kolaydır. Doğru bir şey yapmamak ya da sadece uyum sağlamaktan bağırmaktan korkmak çok fazla. (...) Katkıda bulunanlara çok düşük teknik yeterliliğe (dokümantasyon, web içeriği işaretleme, vb.) Katkıda bulunacak bir yer vererek bu kaygılar.
-    <p markdown="1" class="pquote-credit">
+  <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
