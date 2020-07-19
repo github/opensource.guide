@@ -118,7 +118,7 @@ Independente do estágio em que você decida tornar o seu projeto open source, t
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Code of conduct](../code-of-conduct/)
 
-Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas espectativas, administrar contribuições, e proteger o direito legal de todos (inclusive o seu). Eles aumentam suas chances de ter uma experência positiva significativamente.
+Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas expectativas, administrar contribuições, e proteger o direito legal de todos (inclusive o seu). Eles aumentam suas chances de ter uma experência positiva significativamente.
 
 Se seu projeto está no GitHub, colocar esses arquivos no seu diretório root com os nomes recomendados ajudará o GitHub a reconhecê-los e automaticamente mostrá-los da maneira apropriada aos seus leitores.
 
