@@ -23,7 +23,7 @@ O open source é poderoso porque diminui as barreiras para adoção, o que permi
 Para entender como funciona, imagine que seu amigo está dando uma festa, e você leva uma torta de cereja.
 
 * Todos experimentam a torta (_usa_)
-* A torta é um sucesso! Eles te pedem a receita, que você disponibilizai (_vê_)
+* A torta é um sucesso! Eles te pedem a receita, que você disponibiliza (_vê_)
 * Um amigo, Alex, que é um chefe de pastelaria, sugere reduzir o açúcar (_modifica_)
 * Outra amiga, Lisa, pede para utilizá-la em um jantar na próxima semana (_distribui_)
 
