@@ -8,6 +8,8 @@ Thanks for checking out the Open Source Guides! We're excited to hear and learn 
 
 We've put together the following guidelines to help you figure out where you can best be helpful.
 
+name:gayathri
+
 ## Table of Contents
 
 0. [Types of contributions we're looking for](#types-of-contributions-were-looking-for)
