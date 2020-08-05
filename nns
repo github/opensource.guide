@@ -1,0 +1,54 @@
+jonico-patch-1
+Got notification: {type=CHANNEL_ACK, channel_ids=709587882876207155}
+Processed ready payload in 0.128 seconds
+Discovered 81 initial users.
+Notice seen: https://discord.gg/a6PGgTF @ 1596620709322
+[MessageLoader] Loaded 50 messages for channel [709587882876207155], all loaded: false.
+[MessageLoader] Disconnected, resetting all message loaded states.
+Intent handler activated for: discord://app/channels/709238553808207973/709587882876207155/
+Got notification: {channel_id=709587882876207155, message_id=740505466269990953, guild_icon=a_b6ae0e6f3e43d3099cef16a8a0fac06b, guild_name=ʚ : ₊ akai‒ify, guild_id=709238553808207973, message_type_=0, user_avatar=b07c17a2dc7ed136a643e2a6dea06fbc, message_content=@・─ ₊˚ ꒰꒰RosePM⁷꒱꒱ 𝙥𝙢, user_username=luumiiiiiiiii ʚ ^ ɞ, user_id=711428816127393844, channel_name=ε⠁⌇🌿｡ﾟ୭-partners˚₊·, channel_type=0, type=MESSAGE_CREATE, __sound=message1.mp3}
+Got notification: {channel_id=709587882876207155, message_id=740505465443581983, guild_icon=a_b6ae0e6f3e43d3099cef16a8a0fac06b, guild_name=ʚ : ₊ akai‒ify, guild_id=709238553808207973, message_type_=0, user_avatar=5ecd53b909533bf17f4c7855486ff870, message_content=•• ━━━━━━ ••●•• ━━━━━━ •
+
+                 ❢◥ __**『Vernoque』**__◤❢
+
+•• ━━━━━━ ••●•• ━━━━━━ •
+
+> **A server based on a Cyber City theme,**
+
+> ・・・・・・**We offer**
+> ◈:•:►\🟣 `simple and organized`
+> ◈:•:►\🤍`self roles`
+> ◈:•:►\🟣`partnerships`
+> ◈:•:►\🤍`lots of cool emotes`
+
+***Join now ***
+
+:•:•:•:•:꒰\💜 https://discord.gg/a6PGgTF
+:•:•:•:•:꒰\☁️https://imgur.com/PtMC9Xr, user_username=・─ ₊˚ ꒰꒰RosePM⁷꒱꒱ 𝙥𝙢, user_id=734833199296937994, channel_name=ε⠁⌇🌿｡ﾟ୭-partners˚₊·, channel_type=0, type=MESSAGE_CREATE, __sound=message1.mp3}
+[Persister] Cached STORE_CHANNELS_V21 in 0.581 seconds.
+Got notification: {type=CHANNEL_ACK, channel_ids=738928192051740778}
+[MessageLoader] Loaded 50 messages for channel [738928192051740778], all loaded: false.
+Intent handler activated for: discord://app/channels/738928192051740775/738928192051740778/
+Got notification: {channel_id=738928192051740778, message_id=740504461566541855, guild_icon=356d26e4a6d3661156488d1009fb5498, guild_name=♡Orangies♡, guild_id=738928192051740775, message_type_=0, user_avatar=b50adff099924dd5e6b72d13f77eb9d7, message_content=Hiee @Iam𝐺𝑒𝑛𝑒𝑟𝑎𝑙𝑂𝑜𝑓, welcome to **♡Orangies♡**! Hope you enjoy your stay and please don't be toxic!🍊, user_username=MEE6, user_id=159985870458322944, channel_name=𝕕𝕠𝕠𝕣, channel_type=0, type=MESSAGE_CREATE, __sound=message1.mp3}
+Got notification: {channel_id=738928192051740778, message_id=740504457594273809, guild_icon=356d26e4a6d3661156488d1009fb5498, guild_name=♡Orangies♡, guild_id=738928192051740775, message_type_=7, user_avatar=2fb86c8e24c803ef89b2e00e19025ce9, message_content=, user_username=Iam𝐺𝑒𝑛𝑒𝑟𝑎𝑙𝑂𝑜𝑓, user_id=667440463850242057, channel_name=𝕕𝕠𝕠𝕣, channel_type=0, type=MESSAGE_CREATE, message={"mention_everyone":false,"pinned":false,"attachments":[],"author":{"public_flags":0,"id":"667440463850242057","avatar":"2fb86c8e24c803ef89b2e00e19025ce9","username":"Iam𝐺𝑒𝑛𝑒𝑟𝑎𝑙𝑂𝑜𝑓","discriminator":"6521"},"flags":0,"type":7,"mention_roles":[],"edited_timestamp":null,"content":"","tts":false,"mentions":[],"id":"740504457594273809","embeds":[],"channel_id":"738928192051740778","timestamp":"2020-08-05T09:40:20.598000+00:00"}, __sound=message1.mp3}
+[Persister] Cached STORE_CHANNELS_V21 in 0.518 seconds.
+[Persister] Cached STORE_EMOJI_AVAILABLE_V4 in 0.221 seconds.
+Got notification: {type=CHANNEL_ACK, channel_ids=709587882876207155}
+Processed ready payload in 0.117 seconds
+Discovered 86 initial users.
+[MessageLoader] Loaded 50 messages for channel [709587882876207155], all loaded: false.
+[MessageLoader] Disconnected, resetting all message loaded states.
+Intent handler activated for: discord://app/channels/709238553808207973/709587882876207155/
+Got notification: {channel_id=709587882876207155, message_id=740504174613102674, guild_icon=a_b6ae0e6f3e43d3099cef16a8a0fac06b, guild_name=ʚ : ₊ akai‒ify, guild_id=709238553808207973, message_type_=0, user_avatar=5ecd53b909533bf17f4c7855486ff870, message_content=❢◥⋘ ─────────── ∗ ⋅◈⋅ ∗ ──── ───────⋙ ◤❢
+
+                         `☁️`⌘ __**『Baudwerry』**__:⌘`☁️`
+
+❢◥⋘ ─────────── ∗ ⋅◈⋅ ∗ ──── ───────⋙ ◤❢
+
+> ***A well organized server based on the Harry Potter Universe , Come Join our world  and have loads of fun time!
+> ***
+> ╭・・・・・・**We offer**
+> :: ꒰`✨` plenty of fun emotes
+> :: ꒰`💚`Partnerships
+> :: ꒰`💧` self roles 
+> :: ꒰`
