@@ -193,7 +193,7 @@ Oleh kerana projek anda menjadi lebih popular, lebih ramai orang akan tertarik d
 
 Sebahagian besarnya, jika anda telah membina komuniti yang ramah, hormat dan mendokumentasikan proses anda secara terbuka, komuniti anda seharusnya dapat mencari penyelesaian. Tetapi kadang-kadang anda menghadapi masalah yang agak sukar untuk ditangani.
 
-### Tetapkan bar untuk kebaikan
+### jangan-bertolak-ansur-buruk-pelakon
 
 Apabila komuniti anda bergelut dengan masalah yang sukar, kemarahan mungkin akan meningkat. Orang mungkin menjadi marah atau kecewa dan mengeluarkannya satu sama lain, atau pada anda.
 
