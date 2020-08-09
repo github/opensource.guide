@@ -197,7 +197,7 @@ Sebahagian besarnya, jika anda telah membina komuniti yang ramah, hormat dan men
 
 Apabila komuniti anda bergelut dengan masalah yang sukar, kemarahan mungkin akan meningkat. Orang mungkin menjadi marah atau kecewa dan mengeluarkannya satu sama lain, atau pada anda.
 
-Tugas anda sebagai penyelenggara adalah untuk memastikan situasi ini tidak meningkat. Walaupun anda mempunyai pendapat yang kuat mengenai topik ini, cubalah mengambil kedudukan sebagai moderator atau fasilitator, daripada melompat ke dalam pertengkaran dan mendorong pandangan anda. Sekiranya seseorang bersikap tidak baik atau memonopoli perbualan, [act immediately](../building-community/#dont-tolerate-bad-actors) agar perbincangan tetap sopan dan produktif.
+Tugas anda sebagai penyelenggara adalah untuk memastikan situasi ini tidak meningkat. Walaupun anda mempunyai pendapat yang kuat mengenai topik ini, cubalah mengambil kedudukan sebagai moderator atau fasilitator, daripada melompat ke dalam pertengkaran dan mendorong pandangan anda. Sekiranya seseorang bersikap tidak baik atau memonopoli perbualan, [bertindak segera](../building-community/#jangan-bertolak-ansur-buruk-pelakon) agar perbincangan tetap sopan dan produktif.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
