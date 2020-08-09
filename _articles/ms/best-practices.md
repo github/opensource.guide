@@ -169,7 +169,7 @@ Salah satu cara untuk mendapatkan penyumbang baru adalah dengan secara eksplisit
 
 Apabila anda melihat penyumbang baru memberikan sumbangan berulang, kenali karya mereka dengan menawarkan lebih banyak tanggungjawab. Mendokumentasikan bagaimana orang lain dapat berkembang menjadi peranan kepemimpinan jika mereka mahu.
 
-Menggalakkan orang lain untuk [berkongsi pemilikan projek](../building-community/#berkongsi-pemilikan-projek) dapat mengurangkan beban kerja anda sendiri, seperti yang dijumpai oleh @lmccart pada projeknya, [p5.js](https://github.com/processing/p5.js).
+Menggalakkan orang lain untuk [berkongsi pemilikan projek](../building-community/#kongsi-pemilikan-projek-anda) dapat mengurangkan beban kerja anda sendiri, seperti yang dijumpai oleh @lmccart pada projeknya, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">

@@ -30,16 +30,16 @@ Semasa anda membina komuniti, pertimbangkan bagaimana seseorang di bahagian atas
 
 Mulakan dengan dokumentasi anda:
 
-* **Permudahkan seseorang untuk menggunakan projek anda.**[A friendly README](../starting-a-project/#writing-a-readme) dan contoh kod yang jelas akan memudahkan sesiapa sahaja yang memasuki projek anda untuk memulakan.
-* **Terangkan dengan jelas cara menyumbang**, menggunakan [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) dan mengemas kini masalah anda.
-* **Isu pertama yang baik**: Untuk membantu penyumbang baru memulakan, pertimbangkan secara jelas [labeling issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub kemudian akan memaparkan isu-isu ini di berbagai tempat di platform, meningkatkan sumbangan berguna, dan mengurangkan geseran dari pengguna menangani masalah yang terlalu sukar untuk tahap mereka.
+* **Permudahkan seseorang untuk menggunakan projek anda.**[README yang mesra](../starting-a-project/#menulis-readme) dan contoh kod yang jelas akan memudahkan sesiapa sahaja yang memasuki projek anda untuk memulakan.
+* **Terangkan dengan jelas cara menyumbang**, menggunakan [fail CONTRIBUTING anda](../starting-a-project/#menulis-garis-panduan-penyumbang-anda) dan mengemas kini masalah anda.
+* **Isu pertama yang baik**: Untuk membantu penyumbang baru memulakan, pertimbangkan secara jelas [masalah pelabelan yang cukup mudah untuk diatasi oleh pemula](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub kemudian akan memaparkan isu-isu ini di berbagai tempat di platform, meningkatkan sumbangan berguna, dan mengurangkan geseran dari pengguna menangani masalah yang terlalu sukar untuk tahap mereka.
 
 [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) menunjukkan dokumentasi yang tidak lengkap atau membingungkan adalah masalah terbesar bagi pengguna sumber terbuka. Dokumentasi yang baik mengundang orang untuk berinteraksi dengan projek anda. Akhirnya, seseorang akan membuka masalah atau menarik permintaan. Gunakan interaksi ini sebagai peluang untuk mengalihkannya ke corong.
 
 * **Apabila seseorang baru memasuki projek anda, terima kasih atas minat mereka!** Hanya memerlukan satu pengalaman negatif untuk membuat seseorang tidak mahu kembali.
 * **Bersikap responsif.** Sekiranya anda tidak menjawab masalah mereka selama sebulan, kemungkinannya, mereka sudah melupakan projek anda.
-* **Berfikiran terbuka tentang jenis sumbangan yang akan anda terima.** Banyak penyumbang bermula dengan laporan bug atau perbaikan kecil. Disana ada[many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) ke projek. Biarkan orang menolong bagaimana mereka mahu menolong.
-* **Sekiranya ada sumbangan yang anda tidak setuju,** terima kasih atas idea mereka dan [explain why](../best-practices/#learning-to-say-no) ini tidak sesuai dengan skop projek, menghubungkan ke dokumentasi yang relevan jika anda memilikinya.
+* **Berfikiran terbuka tentang jenis sumbangan yang akan anda terima.** Banyak penyumbang bermula dengan laporan bug atau perbaikan kecil. Disana ada[banyak cara untuk menyumbang](../how-to-contribute/#apa-maksudnya-menyumbang) ke projek. Biarkan orang menolong bagaimana mereka mahu menolong.
+* **Sekiranya ada sumbangan yang anda tidak setuju,** terima kasih atas idea mereka dan [terangkan mengapa](../best-practices/#belajar-bila-untuk-mengatakan-tidak) ini tidak sesuai dengan skop projek, menghubungkan ke dokumentasi yang relevan jika anda memilikinya.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -79,7 +79,7 @@ Mendokumentasikan segala-galanya juga berlaku untuk pekerjaan yang anda lakukan.
 
 ### Bersikap responsif
 
-Seperti awak[promote your project](../finding-users), orang akan mempunyai maklum balas untuk anda. Mereka mungkin mempunyai pertanyaan tentang bagaimana sesuatu berfungsi, atau memerlukan bantuan untuk memulai.
+Seperti awak[mempromosikan projek anda](../finding-users), orang akan mempunyai maklum balas untuk anda. Mereka mungkin mempunyai pertanyaan tentang bagaimana sesuatu berfungsi, atau memerlukan bantuan untuk memulai.
 
 Try responsif ketika seseorang mengajukan masalah, mengajukan permintaan tarik, atau mengajukan pertanyaan mengenai projek anda. Apabila anda bertindak balas dengan cepat, orang akan merasakan mereka adalah sebahagian daripada dialog, dan mereka akan lebih bersemangat untuk turut serta.
 
@@ -127,7 +127,7 @@ Lakukan yang terbaik untuk mengamalkan dasar toleransi sifar terhadap jenis oran
 
 Perbahasan berkala mengenai aspek sepele projek anda mengalihkan perhatian orang lain, termasuk anda, daripada memfokus pada tugas penting. Orang baru yang tiba ke projek anda mungkin melihat perbualan ini dan tidak mahu mengambil bahagian.
 
-Apabila anda melihat tingkah laku negatif berlaku pada projek anda, panggilnya secara terbuka. Jelaskan, dengan nada yang baik tetapi tegas, mengapa tingkah laku mereka tidak dapat diterima. Sekiranya masalah itu berlanjutan, anda mungkin perlu [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) boleh menjadi panduan yang membina untuk perbualan ini.
+Apabila anda melihat tingkah laku negatif berlaku pada projek anda, panggilnya secara terbuka. Jelaskan, dengan nada yang baik tetapi tegas, mengapa tingkah laku mereka tidak dapat diterima. Sekiranya masalah itu berlanjutan, anda mungkin perlu [minta mereka pergi](../code-of-conduct/#menguatkuasakan-tatakelakuan-anda). Kamu punya [tatakelakuan](../code-of-conduct/) boleh menjadi panduan yang membina untuk perbualan ini.
 
 ### Temui penyumbang di mana mereka berada
 
@@ -213,7 +213,7 @@ Menjaga kesegaran anda tidak mudah, tetapi menunjukkan kepemimpinan dapat mening
 
 ### Perlakukan README anda sebagai perlembagaan
 
-README anda adalah [more than just a set of instructions](../starting-a-project/#writing-a-readme). Ia juga merupakan tempat untuk membincangkan tujuan, visi produk, dan peta jalan anda. Sekiranya orang terlalu fokus memperdebatkan kelebihan ciri tertentu, ia mungkin dapat meninjau semula README anda dan membincangkan visi projek anda yang lebih tinggi. Memfokuskan pada README anda juga melumpuhkan perbualan, sehingga anda dapat mengadakan perbincangan yang membina.
+README anda adalah [lebih daripada sekumpulan arahan](../starting-a-project/#menulis-readme). Ia juga merupakan tempat untuk membincangkan tujuan, visi produk, dan peta jalan anda. Sekiranya orang terlalu fokus memperdebatkan kelebihan ciri tertentu, ia mungkin dapat meninjau semula README anda dan membincangkan visi projek anda yang lebih tinggi. Memfokuskan pada README anda juga melumpuhkan perbualan, sehingga anda dapat mengadakan perbincangan yang membina.
 
 ### Fokus pada perjalanan, bukan destinasi
 
