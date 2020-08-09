@@ -60,7 +60,7 @@ Sekiranya anda belum mahu menyediakan kedai untuk projek anda, promosikan pegang
 
 **Pertimbangkan untuk membuat laman web untuk projek anda.** Laman web menjadikan projek anda lebih mesra dan lebih mudah dilayari, terutama jika dipasangkan dengan dokumentasi dan tutorial yang jelas. Mempunyai laman web juga menunjukkan bahawa projek anda aktif yang akan membuatkan penonton anda merasa lebih selesa menggunakannya. Berikan contoh untuk memberi idea kepada orang ramai tentang cara menggunakan projek anda.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), pencipta bersama Django, mengatakan bahawa laman web adalah _ "sejauh ini adalah perkara terbaik yang kami lakukan dengan Django pada masa awal" _.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), pencipta bersama Django, mengatakan bahawa laman web adalah _"sejauh ini adalah perkara terbaik yang kami lakukan dengan Django pada masa awal"_.
 
 Sekiranya projek anda dihoskan di GitHub, anda boleh menggunakan [GitHub Pages](https://pages.github.com/) untuk membuat laman web dengan mudah. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), dan [Middleman](https://middlemanapp.com/) ialah [a few examples](https://github.com/showcases/github-pages-examples) laman web yang sangat baik dan komprehensif.
 
@@ -86,7 +86,7 @@ Lihat apakah anda dapat mencari cara untuk berkongsi projek anda dengan cara yan
 
 * **Kenali projek dan komuniti sumber terbuka yang relevan.** Kadang kala, anda tidak perlu mempromosikan projek anda secara langsung. Sekiranya projek anda sesuai untuk saintis data yang menggunakan Python, kenali komuniti sains data Python. Apabila orang mengenali anda, peluang semula jadi akan timbul untuk membincangkan dan berkongsi kerja anda.
 * **Cari orang yang mengalami masalah yang diselesaikan oleh projek anda.** Cari melalui forum yang berkaitan untuk orang yang menjadi sasaran khalayak projek anda. Jawab soalan mereka dan cari cara yang bijaksana, bila sesuai, untuk mencadangkan projek anda sebagai jalan penyelesaian.
-* **Minta maklum balas.** Perkenalkan diri anda dan karya anda kepada penonton yang menganggapnya relevan dan menarik. Jadilah spesifik mengenai siapa yang anda fikir akan mendapat manfaat daripada projek anda. Cuba selesaikan ayat: _ "Saya rasa projek saya akan benar-benar membantu X, yang berusaha melakukan Y_". Dengarkan dan balas maklum balas orang lain, bukan sekadar mempromosikan karya anda.
+* **Minta maklum balas.** Perkenalkan diri anda dan karya anda kepada penonton yang menganggapnya relevan dan menarik. Jadilah spesifik mengenai siapa yang anda fikir akan mendapat manfaat daripada projek anda. Cuba selesaikan ayat: _"Saya rasa projek saya akan benar-benar membantu X, yang berusaha melakukan Y_". Dengarkan dan balas maklum balas orang lain, bukan sekadar mempromosikan karya anda.
 
 Secara umumnya, fokus menolong orang lain sebelum meminta sesuatu sebagai balasan. Kerana sesiapa sahaja dapat mempromosikan projek dalam talian dengan mudah, akan ada banyak kebisingan. Untuk menonjol dari orang ramai, beri orang konteks untuk siapa anda dan bukan hanya yang anda mahukan.
 

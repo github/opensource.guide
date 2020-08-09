@@ -30,8 +30,8 @@ Cuba buat kod tingkah laku seawal mungkin: idealnya, ketika pertama kali membuat
 
 Selain menyampaikan harapan anda, kod tingkah laku menerangkan perkara berikut:
 
-* Di mana tatakelakuan berkuatkuasa _ (hanya pada isu dan permintaan tarik, atau aktiviti masyarakat seperti acara?) _
-* Siapa yang mematuhi tata kelakuan _ (anggota masyarakat dan penyelenggara, tetapi bagaimana dengan penaja?) _
+* Di mana tatakelakuan berkuatkuasa _(hanya pada isu dan permintaan tarik, atau aktiviti masyarakat seperti acara?)_
+* Siapa yang mematuhi tata kelakuan _(anggota masyarakat dan penyelenggara, tetapi bagaimana dengan penaja?)_
 * Apa yang berlaku sekiranya seseorang melanggar tatakelakuan
 * Bagaimana seseorang dapat melaporkan pelanggaran
 

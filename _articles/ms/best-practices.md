@@ -88,7 +88,7 @@ Anda telah menulis perkara. Sebaik-baiknya, semua orang akan membaca dokumentasi
 
 Akan tetapi, segala sesuatu yang ditulis dapat membantu melumpuhkan situasi ketika anda perlu menguatkuasakan peraturan anda.
 
-Mengatakan tidak tidak menyenangkan, tetapi _ "Sumbangan anda tidak sesuai dengan kriteria projek ini" _ terasa kurang peribadi daripada _ "Saya tidak suka sumbangan anda" _.
+Mengatakan tidak menyenangkan, tetapi _"Sumbangan anda tidak sesuai dengan kriteria projek ini"_ terasa kurang peribadi daripada _"Saya tidak suka sumbangan anda"_.
 
 Mengatakan tidak berlaku untuk banyak situasi yang akan anda hadapi sebagai penjaga: permintaan ciri yang tidak sesuai dengan ruang lingkup, seseorang menggelincirkan perbincangan, melakukan pekerjaan yang tidak perlu untuk orang lain.
 
@@ -131,7 +131,7 @@ Sekiranya memikirkan untuk tidak menakutkan anda, anda tidak sendirian. Sebagai 
 
 > Saya telah bercakap dengan penyelenggara dari beberapa projek sumber terbuka yang berbeza, Mesos, Kubernetes, Chromium, dan mereka semua bersetuju bahawa salah satu bahagian yang paling sukar untuk menjadi penyelenggara adalah mengatakan "Tidak" untuk membetulkan yang tidak anda mahukan.
 
-Jangan merasa bersalah kerana tidak mahu menerima sumbangan seseorang. Peraturan pertama sumber terbuka, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Tidak adalah sementara, ya adalah selamanya." _ Walaupun berempati dengan semangat orang lain adalah perkara yang baik, menolak sumbangan tidak sama dengan menolak orang di belakangnya."
+Jangan merasa bersalah kerana tidak mahu menerima sumbangan seseorang. Peraturan pertama sumber terbuka, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Tidak adalah sementara, ya adalah selamanya."_ Walaupun berempati dengan semangat orang lain adalah perkara yang baik, menolak sumbangan tidak sama dengan menolak orang di belakangnya."
 
 Pada akhirnya, jika sumbangan tidak cukup baik, anda tidak berkewajiban untuk menerimanya. Bersikap baik dan responsif apabila orang menyumbang kepada projek anda, tetapi hanya menerima perubahan yang anda benar-benar yakin akan menjadikan projek anda lebih baik. Semakin kerap anda berlatih mengatakan tidak, semakin mudah. Janji.
 
@@ -162,7 +162,7 @@ Kadang kala, apabila anda mengatakan tidak, calon penyumbang anda mungkin marah 
 
 Mungkin seseorang dalam komuniti anda kerap menghantar sumbangan yang tidak memenuhi piawaian projek anda. Ini boleh membuat frustasi bagi kedua-dua pihak untuk berulang kali menolak.
 
-Sekiranya anda melihat bahawa seseorang berminat dengan projek anda, tetapi memerlukan sedikit penggilap, bersabarlah. Terangkan dengan jelas dalam setiap situasi mengapa sumbangan mereka tidak memenuhi jangkaan projek. Cuba arahkan mereka ke tugas yang lebih mudah atau tidak samar-samar, seperti masalah yang ditandai _ "isu pertama yang baik", _ agar kaki mereka basah. Sekiranya anda mempunyai masa, pertimbangkan untuk membimbing mereka melalui sumbangan pertama mereka, atau cari orang lain dalam komuniti anda yang mungkin bersedia membimbing mereka.
+Sekiranya anda melihat bahawa seseorang berminat dengan projek anda, tetapi memerlukan sedikit penggilap, bersabarlah. Terangkan dengan jelas dalam setiap situasi mengapa sumbangan mereka tidak memenuhi jangkaan projek. Cuba arahkan mereka ke tugas yang lebih mudah atau tidak samar-samar, seperti masalah yang ditandai _"isu pertama yang baik",_ agar kaki mereka basah. Sekiranya anda mempunyai masa, pertimbangkan untuk membimbing mereka melalui sumbangan pertama mereka, atau cari orang lain dalam komuniti anda yang mungkin bersedia membimbing mereka.
 
 ## Macamana manfaatkan komuniti anda
 
@@ -208,7 +208,7 @@ Memaksa projek tidak harus menjadi perkara yang buruk. Mampu menyalin dan mengub
   </p>
 </aside>
 
-Perkara yang sama berlaku untuk pengguna yang benar-benar mahukan penyelesaian yang anda tidak mempunyai lebar jalur untuk dibina. Menawarkan API dan penyesuaian penyesuaian dapat membantu orang lain memenuhi keperluan mereka sendiri, tanpa harus mengubah sumbernya secara langsung. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) pemalam yang menggalakkan untuk CocoaPod membawa kepada "beberapa idea yang paling menarik":
+Perkara yang sama berlaku untuk pengguna yang benar-benar mahukan penyelesaian yang anda tidak mempunyai lebar jalur untuk dibina. Menawarkan API dan penyesuaian dapat membantu orang lain memenuhi keperluan mereka sendiri, tanpa harus mengubah sumbernya secara langsung. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) pemalam yang menggalakkan untuk CocoaPod membawa kepada "beberapa idea yang paling menarik":
 
 > Hampir tidak dapat dielakkan apabila projek menjadi besar, penyelenggara harus menjadi lebih konservatif mengenai bagaimana mereka memperkenalkan kod baru. Anda menjadi pandai mengatakan "tidak", tetapi banyak orang mempunyai keperluan yang sah. Oleh itu, anda akhirnya menukar alat anda menjadi platform.
 
@@ -225,6 +225,7 @@ Ujian membantu penyumbang merasa yakin bahawa mereka tidak akan merosakkan apa-a
 Sediakan ujian automatik yang akan dijalankan pada semua sumbangan yang masuk, dan pastikan ujian anda dapat dijalankan dengan mudah secara tempatan oleh penyumbang. Wajibkan semua sumbangan kod lulus ujian anda sebelum dapat dihantar. Anda akan membantu menetapkan standard kualiti minimum untuk semua penyerahan. [Pemeriksaan status yang diperlukan] (https://help.github.com/articles/about-required-status-checks/) di GitHub dapat membantu memastikan tiada perubahan digabungkan tanpa ujian anda lulus.
 
 Sekiranya anda menambahkan ujian, pastikan untuk menerangkan bagaimana ia berfungsi dalam fail CONTRIBUTING anda.
+
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahawa ujian diperlukan untuk semua kod yang diusahakan oleh orang lain. Sekiranya kodnya betul dan betul, ia tidak memerlukan perubahan - kami hanya menulis kod apabila ada yang tidak kena, sama ada "Ia rosak" atau "Tidak mempunyai ciri seperti itu". Dan tanpa mengira perubahan yang anda buat, ujian sangat penting untuk mengatasi kemunduran yang mungkin anda buat secara tidak sengaja.

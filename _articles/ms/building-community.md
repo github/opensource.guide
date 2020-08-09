@@ -137,7 +137,7 @@ Dalam fail CONTRIBUTING anda, jelaskan cara penyumbang baru kepada penyumbang ba
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-Dalam barisan masalah anda, labelkan pepijat yang sesuai untuk pelbagai jenis penyumbang: sebagai contoh, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only),_ "terbitan pertama yang baik" _, atau _ "dokumentasi" _. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) permudahkan seseorang yang baru dalam projek anda untuk mengimbas masalah anda dengan cepat dan memulakannya.
+Dalam barisan masalah anda, labelkan pepijat yang sesuai untuk pelbagai jenis penyumbang: sebagai contoh, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only),_"terbitan pertama yang baik"_, atau _"dokumentasi"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) permudahkan seseorang yang baru dalam projek anda untuk mengimbas masalah anda dengan cepat dan memulakannya.
 
 Akhirnya, gunakan dokumentasi anda untuk membuat orang merasa diterima di setiap langkah.
 
@@ -198,6 +198,7 @@ Sebahagian besarnya, jika anda telah membina komuniti yang ramah, hormat dan men
 Apabila komuniti anda bergelut dengan masalah yang sukar, kemarahan mungkin akan meningkat. Orang mungkin menjadi marah atau kecewa dan mengeluarkannya satu sama lain, atau pada anda.
 
 Tugas anda sebagai penyelenggara adalah untuk memastikan situasi ini tidak meningkat. Walaupun anda mempunyai pendapat yang kuat mengenai topik ini, cubalah mengambil kedudukan sebagai moderator atau fasilitator, daripada melompat ke dalam pertengkaran dan mendorong pandangan anda. Sekiranya seseorang bersikap tidak baik atau memonopoli perbualan, [act immediately](../building-community/#dont-tolerate-bad-actors) agar perbincangan tetap sopan dan produktif.
+
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
  Sebagai penyelenggara projek, sangat penting untuk menghormati penyumbang anda. Mereka sering mengambil apa yang anda katakan secara peribadi.
@@ -244,9 +245,9 @@ Galakkan perbincangan selagi ia bergerak secara aktif ke arah penyelesaian. Seki
 
 Membiarkan perbualan ini diteruskan bukan hanya buruk untuk masalah yang dihadapi, tetapi juga buruk bagi kesihatan komuniti anda. Ini mengirimkan mesej bahawa jenis percakapan ini diizinkan atau bahkan digalakkan, dan ini dapat mendorong orang untuk membangkitkan atau menyelesaikan masalah di masa depan.
 
-Dengan setiap titik yang dibuat oleh anda atau oleh orang lain, tanyakan pada diri sendiri, _ "Bagaimana ini mendekatkan kita dengan penyelesaian?" _
+Dengan setiap titik yang dibuat oleh anda atau oleh orang lain, tanyakan pada diri sendiri, _"Bagaimana ini mendekatkan kita dengan penyelesaian?"_
 
-Sekiranya perbualan mula terungkai, tanyakan kepada kumpulan, _ "Langkah mana yang harus kita ambil selanjutnya?" _ Untuk memfokuskan kembali perbualan.
+Sekiranya perbualan mula terungkai, tanyakan kepada kumpulan, _"Langkah mana yang harus kita ambil selanjutnya?"_ Untuk memfokuskan kembali perbualan.
 
 Sekiranya perbualan jelas tidak akan ke mana-mana, tidak ada tindakan yang jelas untuk diambil, atau tindakan yang sesuai telah diambil, tutup masalahnya dan terangkan mengapa anda menutupnya.
 
