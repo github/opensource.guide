@@ -26,7 +26,7 @@ Apabila projek adalah sumber terbuka, itu bermaksud **siapa sahaja bebas menggun
 
 Sumber terbuka sangat kuat kerana ia dapat mengurangkan halangan untuk menerima pakai dan berkolaborasi, memungkinkan orang menyebarkan dan memperbaiki projek dengan cepat. Juga kerana memberi pengguna potensi untuk mengendalikan pengkomputeran mereka sendiri, berbanding dengan sumber tertutup. Sebagai contoh, perniagaan yang menggunakan perisian sumber terbuka mempunyai pilihan untuk mengupah seseorang untuk membuat penambahbaikan khusus pada perisian, daripada hanya bergantung pada keputusan produk penjual sumber tertutup.
 
-_Perisian percuma_ merujuk kepada set projek yang sama dengan _open source_. Kadang-kadang anda juga akan melihat[these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) digabungkan sebagai "perisian sumber bebas dan terbuka" (FOSS) atau "perisian bebas, bebas, dan sumber terbuka" (FLOSS). _Free_ dan _libre_ merujuk kepada kebebasan,[not price](#does-open-source-mean-free-of-charge).
+_Perisian percuma_ merujuk kepada set projek yang sama dengan _open source_. Kadang-kadang anda juga akan melihat[these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) digabungkan sebagai "perisian sumber bebas dan terbuka" (FOSS) atau "perisian bebas, bebas, dan sumber terbuka" (FLOSS). _Free_ dan _libre_ merujuk kepada kebebasan,[bukan harga](#adakah-sumber-terbuka-bermaksud-percuma).
 
 ### Mengapa orang membuka sumber pekerjaan mereka?
 

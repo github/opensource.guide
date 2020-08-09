@@ -506,7 +506,7 @@ Selepas anda menghantar sumbangan, salah satu perkara berikut akan berlaku:
 
 ### 😭 Anda tidak mendapat sambutan.
 
-Semoga anda[checked the project for signs of activity](#a-checklist-before-you-contribute)sebelum memberi sumbangan. Walaupun pada projek yang aktif, kemungkinan sumbangan anda tidak mendapat sambutan.
+Semoga anda[memeriksa projek untuk tanda-tanda aktiviti](#senarai-semak-sebelum-anda-menyumbang)sebelum memberi sumbangan. Walaupun pada projek yang aktif, kemungkinan sumbangan anda tidak mendapat sambutan.
 
 Sekiranya anda tidak mendapat sambutan selama lebih dari seminggu, adalah wajar untuk memberi respons dengan sopan dalam utas yang sama, meminta ulasan seseorang. Sekiranya anda mengetahui nama orang yang tepat untuk mengulas sumbangan anda, anda boleh @ -menyebutkannya dalam utas itu.
 

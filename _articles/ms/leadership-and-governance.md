@@ -49,7 +49,7 @@ Penyelenggara tidak semestinya menjadi seseorang yang menulis kod untuk projek a
 
 **Istilah "committer"** mungkin digunakan untuk membezakan akses komit, yang merupakan jenis tanggungjawab tertentu, dari bentuk sumbangan lain.
 
-Walaupun anda dapat menentukan peranan projek anda dengan cara yang anda mahukan, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) untuk mendorong lebih banyak bentuk sumbangan. Anda boleh menggunakan peranan kepemimpinan untuk mengenali secara rasmi orang yang telah memberikan sumbangan yang luar biasa untuk projek anda, tanpa mengira kemahiran teknikal mereka.
+Walaupun anda dapat menentukan peranan projek anda dengan cara yang anda mahukan, [pertimbangkan untuk menggunakan definisi yang lebih luas](../how-to-contribute/#apa-maksudnya-menyumbang) untuk mendorong lebih banyak bentuk sumbangan. Anda boleh menggunakan peranan kepemimpinan untuk mengenali secara rasmi orang yang telah memberikan sumbangan yang luar biasa untuk projek anda, tanpa mengira kemahiran teknikal mereka.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
@@ -82,7 +82,7 @@ Setelah anda menentukan peranan kepemimpinan, jangan lupa untuk mendokumentasika
 
 Alatan seperti [Vossibility](https://github.com/icecrime/vossibility-stack) dapat membantu anda mengesan secara terbuka siapa (atau tidak) yang menyumbang kepada projek tersebut. Mendokumentasikan maklumat ini mengelakkan persepsi masyarakat bahawa penyelenggara adalah klise yang membuat keputusannya secara tertutup.
 
-Akhirnya, jika projek anda berada di GitHub, pertimbangkan untuk memindahkan projek anda dari akaun peribadi anda ke Organisasi dan tambahkan sekurang-kurangnya satu pentadbir sandaran. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/)mempermudah untuk menguruskan kebenaran dan beberapa repositori dan melindungi warisan projek anda melalui [shared ownership](../building-community/#share-ownership-of-your-project).
+Akhirnya, jika projek anda berada di GitHub, pertimbangkan untuk memindahkan projek anda dari akaun peribadi anda ke Organisasi dan tambahkan sekurang-kurangnya satu pentadbir sandaran. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/)mempermudah untuk menguruskan kebenaran dan beberapa repositori dan melindungi warisan projek anda melalui [pemilikan bersama](../building-community/#kongsi-pemilikan-projek-anda).
 
 ## Bilakah saya harus memberikan akses kepada seseorang?
 
