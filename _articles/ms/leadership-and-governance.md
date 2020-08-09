@@ -65,7 +65,6 @@ Memformalkan peranan kepemimpinan anda membantu orang merasakan kepemilikan dan 
 
 Untuk projek yang lebih kecil, menetapkan pemimpin boleh semudah menambahkan nama mereka ke nama anda dalam fail README atau fail CONTRIBUTORS.
 
-
 Untuk projek yang lebih besar, jika anda mempunyai laman web, buat halaman pasukan atau senaraikan pemimpin projek anda di sana. Sebagai contoh, [Postgres](https://github.com/postgres/postgres/) mempunyai [comprehensive team page](https://www.postgresql.org/community/contributors/) dengan profil pendek untuk setiap penyumbang.
 
 Sekiranya projek anda mempunyai komuniti penyumbang yang sangat aktif, anda mungkin membentuk "pasukan teras" penyelenggara, atau bahkan jawatankuasa kecil orang yang mengambil alih bidang isu yang berbeza (contohnya keselamatan, pencetus masalah, atau tingkah laku masyarakat). Biarkan orang mengatur diri sendiri dan menjadi sukarelawan untuk peranan yang paling mereka gemari, daripada menyerahkannya.

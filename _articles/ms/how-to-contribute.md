@@ -80,7 +80,7 @@ Kesalahpahaman umum mengenai menyumbang kepada sumber terbuka ialah anda perlu m
 Walaupun anda suka menulis kod, jenis sumbangan lain adalah kaedah terbaik untuk terlibat dengan projek dan bertemu dengan ahli komuniti lain. Membina hubungan tersebut akan memberi anda peluang untuk bekerja di bahagian lain projek.
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
- Saya pertama kali menghubungi pasukan pengembangan Python (aka python-dev) ketika saya menghantar e-mel kepada senarai mel pada 17 Jun 2002 mengenai penerimaan tampalan saya. Saya dengan cepat menangkap bug sumber terbuka, dan memutuskan untuk mula menguruskan pencernaan e-mel untuk kumpulan itu. Mereka memberi saya alasan yang baik untuk meminta penjelasan mengenai sesuatu topik, tetapi lebih kritikal saya dapat melihat ketika seseorang menunjukkan sesuatu yang perlu diperbaiki.
+   Saya pertama kali menghubungi pasukan pengembangan Python (aka python-dev) ketika saya menghantar e-mel kepada senarai mel pada 17 Jun 2002 mengenai penerimaan tampalan saya. Saya dengan cepat menangkap bug sumber terbuka, dan memutuskan untuk mula menguruskan pencernaan e-mel untuk kumpulan itu. Mereka memberi saya alasan yang baik untuk meminta penjelasan mengenai sesuatu topik, tetapi lebih kritikal saya dapat melihat ketika seseorang menunjukkan sesuatu yang perlu diperbaiki.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -196,14 +196,14 @@ Akhirnya, projek sumber terbuka menggunakan alat berikut untuk mengatur perbinca
 
 * **Issue tracker:** Di mana orang membincangkan masalah yang berkaitan dengan projek.
 * **Pull requests:** Tempat orang membincangkan dan mengkaji perubahan yang sedang dilakukan.
-* **Discussion forums or mailing lists:** Beberapa projek mungkin menggunakan saluran ini untuk topik perbualan (misalnya, _ "Bagaimana saya ..." _ atau _ "Apa pendapat anda tentang ..." _ bukannya laporan pepijat atau permintaan ciri). Yang lain menggunakan pelacak masalah untuk semua perbualan.
+* **Discussion forums or mailing lists:** Beberapa projek mungkin menggunakan saluran ini untuk topik perbualan (misalnya, _"Bagaimana saya ..."_ atau _"Apa pendapat anda tentang ..."_ bukannya laporan pepijat atau permintaan ciri). Yang lain menggunakan pelacak masalah untuk semua perbualan.
 * **Synchronous chat channel:** Beberapa projek menggunakan saluran sembang (seperti Slack atau IRC) untuk perbualan santai, kolaborasi, dan pertukaran cepat.
 
 ## Mencari projek untuk disumbangkan
 
 Sekarang setelah anda mengetahui bagaimana projek sumber terbuka berfungsi, inilah masanya untuk mencari projek untuk disumbangkan!
 
-Sekiranya anda tidak pernah menyumbang kepada sumber terbuka sebelumnya, dapatkan nasihat Presiden A.S. John F. Kennedy, yang pernah berkata, _ "Jangan tanya apa yang boleh dilakukan oleh negara anda untuk anda - tanyakan apa yang boleh anda lakukan untuk negara anda." _
+Sekiranya anda tidak pernah menyumbang kepada sumber terbuka sebelumnya, dapatkan nasihat Presiden A.S. John F. Kennedy, yang pernah berkata, _"Jangan tanya apa yang boleh dilakukan oleh negara anda untuk anda - tanyakan apa yang boleh anda lakukan untuk negara anda."_
 
 Menyumbang kepada sumber terbuka berlaku di semua peringkat, di semua projek. Anda tidak perlu terlalu memikirkan apa sebenarnya sumbangan pertama anda, atau bagaimana bentuknya.
 
@@ -246,7 +246,7 @@ Berikut adalah senarai semak yang berguna untuk menilai sama ada projek itu baik
   </label>
 </div>
 
-** Projek secara aktif menerima sumbangan **
+**Projek secara aktif menerima sumbangan**
 
 Lihat aktiviti komit di cawangan induk. Di GitHub, anda dapat melihat maklumat ini di laman utama repositori.
 
@@ -345,7 +345,7 @@ Sekarang lakukan perkara yang sama untuk permintaan tarikan projek.
   </label>
 </div>
 
-** Projek dialu-alukan **
+**Projek dialu-alukan**
 
 Projek yang mesra dan mesra memberi isyarat bahawa mereka akan menerima penyumbang baru.
 
@@ -403,43 +403,43 @@ Sama ada anda penyumbang sekali atau cuba menyertai komuniti, bekerja dengan ora
 
 Sebelum anda membuka masalah atau menarik permintaan, atau mengajukan soalan dalam sembang, ingatlah perkara ini untuk membantu idea anda disampaikan dengan berkesan.
 
-** Beri konteks. ** Bantu orang lain dengan pantas. Sekiranya anda mengalami ralat, jelaskan apa yang anda cuba lakukan dan bagaimana menghasilkannya. Sekiranya anda mencadangkan idea baru, jelaskan mengapa anda berpendapat bahawa ia berguna untuk projek ini (bukan hanya untuk anda!).
+**Beri konteks.** Bantu orang lain dengan pantas. Sekiranya anda mengalami ralat, jelaskan apa yang anda cuba lakukan dan bagaimana menghasilkannya. Sekiranya anda mencadangkan idea baru, jelaskan mengapa anda berpendapat bahawa ia berguna untuk projek ini (bukan hanya untuk anda!).
 
-> 😇 _ "X tidak berlaku semasa saya melakukan Y" _
+> 😇 _"X tidak berlaku semasa saya melakukan Y"_
 >
-> 😢 _ "X rosak! Sila perbaiki." _
+> 😢 _"X rosak! Sila perbaiki."_
 
-** Lakukan kerja rumah anda terlebih dahulu. ** Tidak perlu mengetahui apa-apa, tetapi tunjukkan bahawa anda telah mencuba. Sebelum meminta bantuan, pastikan untuk memeriksa README, dokumentasi, masalah (terbuka atau tertutup), senarai mel, dan cari di internet untuk mendapatkan jawapan. Orang akan menghargai apabila anda menunjukkan bahawa anda cuba belajar.
+**Lakukan kerja rumah anda terlebih dahulu.** Tidak perlu mengetahui apa-apa, tetapi tunjukkan bahawa anda telah mencuba. Sebelum meminta bantuan, pastikan untuk memeriksa README, dokumentasi, masalah (terbuka atau tertutup), senarai mel, dan cari di internet untuk mendapatkan jawapan. Orang akan menghargai apabila anda menunjukkan bahawa anda cuba belajar.
 
-> 😇 _ "Saya tidak pasti bagaimana melaksanakan X. Saya memeriksa dokumen bantuan dan tidak menemui sebutan." _
+> 😇 _"Saya tidak pasti bagaimana melaksanakan X. Saya memeriksa dokumen bantuan dan tidak menemui sebutan."_
 >
-> 😢 _ "Bagaimana saya X?" _
+> 😢 _"Bagaimana saya X?"_
 
-** Jauhkan permintaan pendek dan langsung. ** Sama seperti menghantar e-mel, setiap sumbangan, tidak kira seberapa sederhana atau bermanfaat, memerlukan ulasan orang lain. Banyak projek mempunyai lebih banyak permintaan masuk daripada orang yang ada untuk membantu. Bersikap ringkas. Anda akan meningkatkan peluang seseorang dapat menolong anda.
+**Jauhkan permintaan pendek dan langsung.** Sama seperti menghantar e-mel, setiap sumbangan, tidak kira seberapa sederhana atau bermanfaat, memerlukan ulasan orang lain. Banyak projek mempunyai lebih banyak permintaan masuk daripada orang yang ada untuk membantu. Bersikap ringkas. Anda akan meningkatkan peluang seseorang dapat menolong anda.
 
-> 😇 _ "Saya ingin menulis tutorial API." _
+> 😇 _"Saya ingin menulis tutorial API."_
 >
-> 😢 _ "Saya memandu di jalan raya pada suatu hari dan berhenti untuk mencari minyak, dan kemudian saya mempunyai idea yang luar biasa ini untuk sesuatu yang seharusnya kita lakukan, tetapi sebelum saya menerangkannya, izinkan saya menunjukkan kepada anda ..." _
+> 😢 _"Saya memandu di jalan raya pada suatu hari dan berhenti untuk mencari minyak, dan kemudian saya mempunyai idea yang luar biasa ini untuk sesuatu yang seharusnya kita lakukan, tetapi sebelum saya menerangkannya, izinkan saya menunjukkan kepada anda ..."_
 
-** Jauhkan semua komunikasi untuk umum. ** Walaupun menggoda, jangan menghubungi penyelenggara secara tertutup kecuali anda perlu berkongsi maklumat sensitif (seperti masalah keselamatan atau pelanggaran tingkah laku serius). Apabila perbualan anda tetap terbuka, lebih ramai orang dapat belajar dan mendapat faedah daripada pertukaran anda. Perbincangan boleh menjadi sumbangan mereka sendiri.
+**Jauhkan semua komunikasi untuk umum.** Walaupun menggoda, jangan menghubungi penyelenggara secara tertutup kecuali anda perlu berkongsi maklumat sensitif (seperti masalah keselamatan atau pelanggaran tingkah laku serius). Apabila perbualan anda tetap terbuka, lebih ramai orang dapat belajar dan mendapat faedah daripada pertukaran anda. Perbincangan boleh menjadi sumbangan mereka sendiri.
 
->😇 _ (sebagai komen) "@ -maintainer Hai! Bagaimana kita harus meneruskan PR ini?" _
+>😇 _(sebagai komen) "@ -maintainer Hai! Bagaimana kita harus meneruskan PR ini?"_
 >
-> 😢 _ (sebagai e-mel) "Hai, maaf kerana mengganggu anda melalui e-mel, tetapi saya tertanya-tanya adakah anda berpeluang untuk mengkaji semula PR saya" _
+> 😢 _(sebagai e-mel) "Hai, maaf kerana mengganggu anda melalui e-mel, tetapi saya tertanya-tanya adakah anda berpeluang untuk mengkaji semula PR saya"_
 
-** Tidak apa-apa untuk mengemukakan soalan (tetapi bersabarlah!). ** Semua orang baru dalam projek ini pada satu ketika, dan bahkan penyumbang yang berpengalaman perlu terus maju ketika mereka melihat projek baru. Dengan cara yang sama, penyelenggara lama juga tidak selalu mengenal setiap bahagian projek. Tunjukkan kepada mereka kesabaran yang sama seperti yang anda mahukan kepada mereka.
+**Tidak apa-apa untuk mengemukakan soalan (tetapi bersabarlah!).** Semua orang baru dalam projek ini pada satu ketika, dan bahkan penyumbang yang berpengalaman perlu terus maju ketika mereka melihat projek baru. Dengan cara yang sama, penyelenggara lama juga tidak selalu mengenal setiap bahagian projek. Tunjukkan kepada mereka kesabaran yang sama seperti yang anda mahukan kepada mereka.
 
-> 😇 _ "Terima kasih kerana melihat ralat ini. Saya mengikuti cadangan anda. Inilah hasilnya." _
+> 😇 _"Terima kasih kerana melihat ralat ini. Saya mengikuti cadangan anda. Inilah hasilnya."_
 >
-> 😢 _ "Mengapa anda tidak dapat menyelesaikan masalah saya? Bukankah ini projek anda?" _
+> 😢 _"Mengapa anda tidak dapat menyelesaikan masalah saya? Bukankah ini projek anda?"_
 
-** Hormati keputusan masyarakat. ** Idea anda mungkin berbeza dengan keutamaan atau visi masyarakat. Mereka mungkin memberikan maklum balas atau memutuskan untuk tidak meneruskan idea anda. Walaupun anda harus berbincang dan mencari kompromi, penyelenggara harus mematuhi keputusan anda lebih lama daripada yang anda mahukan. Sekiranya anda tidak bersetuju dengan arahan mereka, anda sentiasa boleh menggunakan garpu anda sendiri atau memulakan projek anda sendiri.
+**Hormati keputusan masyarakat.** Idea anda mungkin berbeza dengan keutamaan atau visi masyarakat. Mereka mungkin memberikan maklum balas atau memutuskan untuk tidak meneruskan idea anda. Walaupun anda harus berbincang dan mencari kompromi, penyelenggara harus mematuhi keputusan anda lebih lama daripada yang anda mahukan. Sekiranya anda tidak bersetuju dengan arahan mereka, anda sentiasa boleh menggunakan garpu anda sendiri atau memulakan projek anda sendiri.
 
-> 😇 _ "Saya kecewa anda tidak dapat menyokong kes penggunaan saya, tetapi seperti yang anda jelaskan, ini hanya mempengaruhi sebahagian kecil pengguna, saya faham mengapa. Terima kasih kerana mendengar." _
+> 😇 _"Saya kecewa anda tidak dapat menyokong kes penggunaan saya, tetapi seperti yang anda jelaskan, ini hanya mempengaruhi sebahagian kecil pengguna, saya faham mengapa. Terima kasih kerana mendengar."_
 >
-> 😢 _ "Mengapa anda tidak menyokong kes penggunaan saya? Ini tidak boleh diterima!" _
+> 😢 _"Mengapa anda tidak menyokong kes penggunaan saya? Ini tidak boleh diterima!"_
 
-** Yang terpenting, jaga agar tetap berkelas. ** Sumber terbuka terdiri daripada kolaborator dari seluruh dunia. Konteks hilang di seluruh bahasa, budaya, geografi, dan zon waktu. Di samping itu, komunikasi bertulis menjadikannya lebih sukar untuk menyampaikan nada atau mood. Anggap niat baik dalam perbualan ini. Adalah baik untuk menolak idea dengan sopan, meminta lebih banyak konteks, atau memperjelas kedudukan anda. Cubalah tinggalkan internet di tempat yang lebih baik daripada ketika anda menjumpainya.
+**Yang terpenting, jaga agar tetap berkelas.** Sumber terbuka terdiri daripada kolaborator dari seluruh dunia. Konteks hilang di seluruh bahasa, budaya, geografi, dan zon waktu. Di samping itu, komunikasi bertulis menjadikannya lebih sukar untuk menyampaikan nada atau mood. Anggap niat baik dalam perbualan ini. Adalah baik untuk menolak idea dengan sopan, meminta lebih banyak konteks, atau memperjelas kedudukan anda. Cubalah tinggalkan internet di tempat yang lebih baik daripada ketika anda menjumpainya.
 
 ### Mengumpulkan konteks
 
@@ -495,7 +495,7 @@ Sekiranya projek tersebut berada di GitHub, berikut adalah cara mengemukakan per
 * **Uji perubahan anda!** Jalankan perubahan anda terhadap ujian yang ada jika ada dan buat yang baru bila diperlukan. Sama ada ujian ada atau tidak, pastikan perubahan anda tidak mematahkan projek yang ada.
 * **Sumbang dalam gaya projek** dengan sebaik mungkin. Ini mungkin bermaksud menggunakan inden, titik koma atau komen yang berbeza daripada yang anda lakukan di repositori anda sendiri, tetapi memudahkan penyelenggara bergabung, yang lain memahami dan mengekalkannya di masa depan.
 
-Permintaan adalah permintaan permintaan pertama anda, periksa [Make a Pull Request](http://makeapullrequest.com/), yang @kentcdodds buat sebagai tutorial video panduan. Anda juga boleh berlatih membuat permintaan tarik di[First Contributions](https://github.com/Roshanjossey/first-contributions) repositori, dibuat oleh @Roshanjossey.
+Permintaan adalah permintaan pertama anda, periksa [Make a Pull Request](http://makeapullrequest.com/), yang @kentcdodds buat sebagai tutorial video panduan. Anda juga boleh berlatih membuat permintaan tarik di[First Contributions](https://github.com/Roshanjossey/first-contributions) repositori, dibuat oleh @Roshanjossey.
 
 ## Apa yang berlaku selepas anda menghantar sumbangan
 
@@ -509,7 +509,7 @@ Semoga anda[checked the project for signs of activity](#a-checklist-before-you-c
 
 Sekiranya anda tidak mendapat sambutan selama lebih dari seminggu, adalah wajar untuk memberi respons dengan sopan dalam utas yang sama, meminta ulasan seseorang. Sekiranya anda mengetahui nama orang yang tepat untuk mengulas sumbangan anda, anda boleh @ -menyebutkannya dalam utas itu.
 
-** Jangan ** hubungi orang itu secara peribadi; ingat bahawa komunikasi awam sangat penting untuk projek sumber terbuka.
+**Jangan** hubungi orang itu secara peribadi; ingat bahawa komunikasi awam sangat penting untuk projek sumber terbuka.
 
 Sekiranya anda membuat bongkahan yang sopan dan masih tidak ada yang bertindak balas, kemungkinan tidak ada yang akan bertindak balas. Ini bukan perasaan yang hebat, tetapi jangan biarkan itu mengecewakan anda. Ia berlaku kepada semua orang! Terdapat banyak kemungkinan sebab mengapa anda tidak mendapat sambutan, termasuk keadaan peribadi yang mungkin di luar kawalan anda. Cuba cari projek atau cara lain untuk menyumbang. Sekiranya ada, ini adalah alasan yang baik untuk tidak meluangkan terlalu banyak masa untuk membuat sumbangan sebelum anggota masyarakat lain terlibat dan responsif.
 

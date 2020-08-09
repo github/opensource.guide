@@ -31,7 +31,7 @@ Dengan lebih banyak maklumat, anda boleh:
 
 Contohnya, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) mendapati bahawa Analitis Google membantu mereka mengutamakan kerja:
 
->Homebrew disediakan secara percuma dan dikendalikan sepenuhnya oleh sukarelawan pada masa lapang. Hasilnya, kami tidak mempunyai sumber untuk membuat kajian pengguna terperinci mengenai pengguna Homebrew untuk memutuskan cara terbaik untuk merancang ciri masa depan dan mengutamakan kerja semasa. Analisis pengguna agregat tanpa nama membolehkan kami mengutamakan pembaikan dan ciri berdasarkan bagaimana, di mana dan kapan orang menggunakan Homebrew.
+> Homebrew disediakan secara percuma dan dikendalikan sepenuhnya oleh sukarelawan pada masa lapang. Hasilnya, kami tidak mempunyai sumber untuk membuat kajian pengguna terperinci mengenai pengguna Homebrew untuk memutuskan cara terbaik untuk merancang ciri masa depan dan mengutamakan kerja semasa. Analisis pengguna agregat tanpa nama membolehkan kami mengutamakan pembaikan dan ciri berdasarkan bagaimana, di mana dan kapan orang menggunakan Homebrew.
 
 Populariti bukan segalanya. Semua orang masuk ke sumber terbuka dengan alasan yang berbeza. Sekiranya matlamat anda sebagai penyelenggara sumber terbuka adalah untuk mempamerkan karya anda, bersikap telus mengenai kod anda, atau hanya bersenang-senang, metrik mungkin tidak penting bagi anda.
 
@@ -39,7 +39,7 @@ Sekiranya anda berminat untuk memahami projek anda pada tahap yang lebih mendala
 
 ## Penemuan
 
-Sebelum ada yang dapat menggunakan atau menyumbang kembali ke projek anda, mereka perlu mengetahui bahawa ia wujud. Tanya pada diri anda: _apa orang mencari projek ini? _
+Sebelum ada yang dapat menggunakan atau menyumbang kembali ke projek anda, mereka perlu mengetahui bahawa ia wujud. Tanya pada diri anda: _apa orang mencari projek ini?_
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
