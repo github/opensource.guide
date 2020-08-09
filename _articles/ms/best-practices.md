@@ -3,13 +3,6 @@ lang: ms
 title: Memulakan projek sumber terbuka
 description: Ketahui lebih lanjut mengenai dunia sumber terbuka dan bersiap sedia untuk melancarkan projek anda sendiri.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "Apa maksudnya menjadi pemelihara?"
-  documenting-your-processes: "Mendokumentasikan proses anda"
-  learning-to-say-no: "Belajar bila untuk mengatakan tidak"
-  leverage-your-community: "Macamana manfaatkan komuniti anda"
-  bring-in-the-robots: "belajar proses mana yang perlu automatik (robots)"
-  its-okay-to-hit-pause: "Tidak apa-apa untuk berhenti sebentar"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
