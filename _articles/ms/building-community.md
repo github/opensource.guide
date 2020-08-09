@@ -193,11 +193,11 @@ Oleh kerana projek anda menjadi lebih popular, lebih ramai orang akan tertarik d
 
 Sebahagian besarnya, jika anda telah membina komuniti yang ramah, hormat dan mendokumentasikan proses anda secara terbuka, komuniti anda seharusnya dapat mencari penyelesaian. Tetapi kadang-kadang anda menghadapi masalah yang agak sukar untuk ditangani.
 
-### jangan-bertolak-ansur-buruk-pelakon
+### Tetapkan bar untuk kebaikan
 
 Apabila komuniti anda bergelut dengan masalah yang sukar, kemarahan mungkin akan meningkat. Orang mungkin menjadi marah atau kecewa dan mengeluarkannya satu sama lain, atau pada anda.
 
-Tugas anda sebagai penyelenggara adalah untuk memastikan situasi ini tidak meningkat. Walaupun anda mempunyai pendapat yang kuat mengenai topik ini, cubalah mengambil kedudukan sebagai moderator atau fasilitator, daripada melompat ke dalam pertengkaran dan mendorong pandangan anda. Sekiranya seseorang bersikap tidak baik atau memonopoli perbualan, [bertindak segera](../building-community/#jangan-bertolak-ansur-buruk-pelakon) agar perbincangan tetap sopan dan produktif.
+Tugas anda sebagai penyelenggara adalah untuk memastikan situasi ini tidak meningkat. Walaupun anda mempunyai pendapat yang kuat mengenai topik ini, cubalah mengambil kedudukan sebagai moderator atau fasilitator, daripada melompat ke dalam pertengkaran dan mendorong pandangan anda. Sekiranya seseorang bersikap tidak baik atau memonopoli perbualan, [bertindak segera](../building-community/#Jangan-bertolak-ansur-dengan-pelakon-jahat) agar perbincangan tetap sopan dan produktif.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
