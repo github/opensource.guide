@@ -65,11 +65,11 @@ Sekiranya anda menggunakan pengurus pakej, seperti npm atau RubyGems.org, untuk 
 
 Setiap pengurus pakej boleh menggunakan definisi "download" yang sedikit berbeza, dan muat turuntuk mengesan statistik penggunaan di banyak pengurus pakej yang popular.
 
-Sekiranya projek anda berada di GitHub, arahkan kembali ke halaman "Traffic". Anda boleh menggunakanun tidak semestinya berkaitan dengan pemasangan atau penggunaan, tetapi menyediakan beberapa asas untuk perbandingan. Cuba gunakan [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Sekiranya projek anda berada di GitHub, arahkan kembali ke halaman "Traffic". Anda boleh menggunakanun tidak semestinya berkaitan dengan pemasangan atau penggunaan, tetapi menyediakan beberapa asas untuk perbandingan. Cuba gunakan [Libraries.io](https://libraries.io/) untuk mengesan statistik penggunaan di banyak pengurus pakej yang popular.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Sekiranya projek anda berada di GitHub, arahkan kembali ke halaman "Traffic". Anda boleh menggunakan[graf klon](https://github.com/blog/1873-clone-graphs) untuk melihat berapa kali projek anda diklon pada hari tertentu, dipecah berdasarkan jumlah klon dan klon unik.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![graf klon](/assets/images/metrics/clone_graph.png)
 
 Sekiranya penggunaannya rendah berbanding dengan jumlah orang yang menemui projek anda, ada dua masalah yang perlu dipertimbangkan. Sama ada:
 

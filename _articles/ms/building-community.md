@@ -165,11 +165,11 @@ Lihat apakah anda boleh mencari cara untuk berkongsi pemilikan dengan komuniti a
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Mulakan fail CONTRIBUTORS atau AUTHORS dalam projek anda** yang menyenaraikan semua orang yang menyumbang untuk projek anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) does.
+* **Mulakan fail CONTRIBUTORS atau AUTHORS dalam projek anda** yang menyenaraikan semua orang yang menyumbang untuk projek anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md)
 
-* Sekiranya anda mempunyai komuniti yang cukup besar, **menghantar surat berita atau menulis catatan blog** mengucapkan terima kasih kepada penyumbang. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) adalah dua contoh yang baik.
+* Sekiranya anda mempunyai komuniti yang cukup besar, **menghantar surat berita atau menulis catatan blog** mengucapkan terima kasih kepada penyumbang. Penyumbang Rust [This Week in Rust](https://this-week-in-rust.org/) dan penyumbang Hoodie [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) adalah dua contoh yang baik.
 
-* **Berikan akses kepada setiap penyumbang.** @felixge mendapati bahawa ini menjadikan orang[more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Berikan akses kepada setiap penyumbang.** @felixge mendapati bahawa ini menjadikan orang [lebih teruja untuk menggilap patch mereka](https://felixge.de/2013/03/11/the-pull-request-hack.html), dan dia malah menjumpai penyelenggara baru untuk projek-projek yang belum pernah dia kerjakan sebentar lagi.
 
 * Sekiranya projek anda berada di GitHub, **pindahkan projek anda dari akaun peribadi anda ke [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** dan tambahkan sekurang-kurangnya satu pentadbir sandaran. Organisasi menjadikannya lebih mudah untuk mengerjakan projek dengan kolaborator luar.
 
