@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{% assign t = site.data.locales[page.lang][page.lang] %}
+{% if page.title %}
+  {% assign header = page.title %}
+{% else %}
+  {% assign header = site.title %}
+{% endif %}
+{% include nav.html %}
+
+<div class="bg-gray-light">
+
+  <header class="py-4 py-md-6">
+    <div class="container-lg p-responsive mx-auto text-center pt-6">
+      <h1 class="h00-mktg">{{ header }}</h1>
+      <p class="lead-mktg text-gray mb-md-5 col-md-8 mx-auto">
+        {{ t.index.lead }}
+      </p>
+      <p class="lead-mktg " id="opensourcefriday" style="display:none">
+        {{ t.index.opensourcefriday }}:
+        <a href='https://opensourcefriday.com'>opensourcefriday.com</a>
+      </p>
+    </div>
+  </header>
+
+  <div class="container-lg p-responsive pb-6">
+    <div class="gutter-sm d-flex flex-wrap flex-items-stretch pb-md-6">
+      {% assign articles = site.articles | where: 'lang', page.lang | sort: 'order' %}
+      {% for article in articles %}
+      {% if article.layout != 'index' %}
+      <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
+        <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} Box height-full d-block">
+
+          <div class="lh-none guide-cover-img text-center pt-4">
+            <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
+          </div>
+
+          <div class="flex-self-end p-4 text-center p-lg-5">
+            <h3 class="h3-mktg text-bold lh-condensed mb-2 text-black">
+              {{ article.title }}
+            </h3>
+            <div class="mb-0 text-gray">
+              {{ article.description | markdownify }}
+            </div>
+          </div>
+
+        </a>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+
+{% include footer.html %}

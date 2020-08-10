@@ -1,0 +1,31 @@
+fr:
+  locale_name: Français
+  nav:
+    about: A propos
+    contribute: Contribuer
+  index:
+    lead: Les logiciels libres sont fait par des gens exactement comme vous. Apprennez comment lancer et développer votre projet.
+    opensourcefriday: C'est Vendredi ! Investissez quelques heures en contribuant aux logiciels que vous utilisez et aimez
+  article:
+    table_of_contents: Table des Matières
+    back_to_all_guides: Retour a tous les guides
+    related_guides: Guides Liés
+  footer:
+    contribute:
+      heading: Contribuer
+      description: Vous souhaitez faire une suggestion ? Ce contenu est libre. Aidez nous a l'améliorer.
+      button: Contribuer
+    subscribe:
+      heading: Restons en contact
+      description: Soyez le premier à découvrir les dernières astuces et ressources concernant les logiciels libres avec Github.
+      label: Adresse Email
+      button: S'abonner
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] avec [love] par [github] et [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: amour
+      # Label for the contributors link
+      friends_label: amis

@@ -1,0 +1,31 @@
+id:
+  locale_name: Indonesia
+  nav:
+    about: Tentang
+    contribute: Kontribusi
+  index:
+    lead: Perangkat lunak open source dihasilkan oleh orang-orang seperti Anda. Pelajari bagaimana merilis dan mengembangkan proyek Anda.
+    opensourcefriday: Hari Jumat! Investasikan beberapa jam untuk berkontribusi pada perangkat lunak yang Anda gunakan dan cintai
+  article:
+    table_of_contents: Daftar Isi
+    back_to_all_guides: Kembali ke semua panduan
+    related_guides: Panduan yang relevan
+  footer:
+    contribute:
+      heading: Kontribusi
+      description: Ingin memberikan masukan? Konten halaman ini bersifat terbuka. Bantu kami untuk melakukan penyempurnaan.
+      button: Kontribusi
+    subscribe:
+      heading: Terus berhubungan
+      description: Jadilah yang pertama untuk mendengar tentang tips dan sumber daya open source terbaru Github.
+      label: Alamat Email
+      button: Berlangganan
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] dengan [love] oleh [github] dan [friends]"
+      # Label for code octicon
+      code_label: dikodekan
+      # Label for love octicon
+      love_label: cinta
+      # Label for the contributors link
+      friends_label: teman-teman

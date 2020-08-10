@@ -1,6 +1,6 @@
 # Each piece of content has YAML front matter with these properties:
 
-locale:
+lang:
   type: String
 
 layout:
@@ -29,3 +29,9 @@ image: {}
 
 related:
   type: Array
+
+untranslated:
+  type: TrueClass
+
+redirect_from:
+  type: String

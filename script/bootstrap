@@ -1,10 +1,11 @@
-#!/bin/sh
+#!/bin/bash
 
 set -e
-export CC=gcc
+
+cd "$(dirname "$0")/.."
 
 echo "==> Installing gem dependencies…"
-bundle check --path vendor/gems 2>&1 > /dev/null || {
+bundle check --path vendor/gems &>/dev/null || {
   time bundle install --binstubs bin --path vendor/gems
 }
 

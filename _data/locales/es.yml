@@ -1,0 +1,31 @@
+es:
+  locale_name: Español
+  nav:
+    about: Acerca de
+    contribute: Contribuir
+  index:
+    lead: El software de código abierto es desarrollado por personas como tu, aprende cómo crear y hacer que tu proyecto crezca.
+    opensourcefriday: ¡Es viernes! Invierte unas cuántas horas para contribuir al software que usas y amas
+  article:
+    table_of_contents: Tabla de contenidos
+    back_to_all_guides: Volver a todas las guías
+    related_guides: Guías relacionadas
+  footer:
+    contribute:
+      heading: Contribuir
+      description: ¿Tienes alguna sugerencia? Este contenido es de código abierto. Ayúdanos a mejorarlo.
+      button: Contribuir
+    subscribe:
+      heading: Suscribirse para novedades
+      description: Sea el primero en enterarse de los últimos consejos y recursos de código abierto.
+      label: Dirección de correo
+      button: Suscribirse
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] con [love] hecho por [github] y [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: amigos

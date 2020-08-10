@@ -15,19 +15,15 @@ We've put together the following guidelines to help you figure out where you can
 0. [How to contribute](#how-to-contribute)
 0. [Style guide](#style-guide)
 0. [Setting up your environment](#setting-up-your-environment)
-0. [Contribution review process](#contribution-review-process)
 0. [Community](#community)
 
 ## Types of contributions we're looking for
-First and foremost, this project is a forum to discuss open source best practices, then document them in a guide when we've found consensus. Your first contribution might be starting a new conversation, or adding to an existing conversation, around best practices. You can do so under [Issues](https://github.com/github/opensource.guide/issues).
-
-There are also many ways you can directly contribute to the guides (in descending order of need):
+There are many ways you can directly contribute to the guides (in descending order of need):
 
 * Fix editorial inconsistencies or inaccuracies
 * Add stories, examples, or anecdotes that help illustrate a point
 * Revise language to be more approachable and friendly
 * [Translate guides into other languages](docs/translations.md)
-* Propose a new guide ([here's how](./docs/new-guides.md))
 
 Interested in making a contribution? Read on!
 
@@ -46,7 +42,7 @@ If you'd like to contribute, start by searching through the [issues](https://git
 
 If you don't see your idea listed, and you think it fits into the goals of this guide, do one of the following:
 * **If your contribution is minor,** such as a typo fix, open a pull request.
-* **If your contribution is major,** such as a new guide or a [translation](docs/translations.md), start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
+* **If your contribution is major,** such as a new guide, start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
 
 ## Style guide
 If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the Guides.
@@ -61,10 +57,6 @@ Once you have that set up, run:
     script/server
 
 …and open http://localhost:4000 in your web browser.
-
-## Contribution review process
-
-This repo is currently maintained by @nayafia and @bkeepers, who have commit access. They will likely review your contribution. If you haven't heard from anyone in 10 days, feel free to bump the thread or @-mention a maintainer to review your contribution.
 
 ## Community
 

@@ -4,16 +4,21 @@ require "bundler/setup"
 require "html-proofer"
 
 url_ignores = [
-  %r{^https://github.com/github/opensource.guide},
-  'https://karissa.github.io/post/okf-de',
-  'https://this-week-in-rust.org/',
-  'https://www.vagrantup.com/',
-  'https://www.quora.com/'
+  "https://okdistribute.xyz/post/okf-de",
+  "https://www.drupal.org/community-initiatives/drupal-core/usability",
+  "https://scripts.sil.org/ofl",
 ]
 
-HTMLProofer::Runner.new(["_site"],
-  :type => :directory,
-  :url_ignore => url_ignores,
-  :verbose => !!ENV["VERBOSE"],
-  :check_html => true
+HTMLProofer::Runner.new(
+  ["_site"],
+  parallel: { in_threads: 4 },
+  type: :directory,
+  url_ignore: url_ignores,
+  check_html: true,
+  check_opengraph: true,
+  check_img_http: true,
+  favicon: true,
+  assume_extension: true,
+  only_4xx: true,
+  http_status_ignore: [429]
 ).run

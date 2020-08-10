@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.locale }}">
+<html lang="{{ page.lang }}">
   {% include head.html %}
   <body>
     <main>
@@ -10,9 +10,6 @@
 
     <script src="{{ "/assets/js/index.js" | relative_url }}"></script>
     <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-    {% unless site.locale == "en-US" %}
-    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.15.0/localization/messages_{{ site.locale | split: "-" | first }}.js"></script>
-    {% endunless %}
     <script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
   </body>
 </html>

@@ -1,0 +1,31 @@
+hu:
+  locale_name: Magyar
+  nav:
+    about: Rólunk
+    contribute: Közreműködés
+  index:
+    lead: A nyílt forráskódú szoftvereket ugyanolyan emberek készítik mint te. Tanuld meg, hogy hogyan indíthatod el és hogyan növekedhet a projekted!
+    opensourcefriday: Péntek van! Szánj pár órát a kedvenc szoftveredre amit használsz!
+  article:
+    table_of_contents: Tartalomjegyzék
+    back_to_all_guides: Vissza az Útmutatókra
+    related_guides: Kapcsolódó Útmutató
+  footer:
+    contribute:
+      heading: Közreműködés
+      description: Van javaslatod? Ez a tartalom is nyílt forráskód, segíts benne!
+      button: Közreműködés
+    subscribe:
+      heading: Maradjunk kapcsolatban
+      description: Legyél Te az első, aki hall a GitHub's legfissebb nyílt forráskódú híreiről és anyagairól
+      label: Email cím
+      button: Feliratkozás
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] amely [love] készült a [github] és [friends] által"
+      # Label for code octicon
+      code_label: kód
+      # Label for love octicon
+      love_label: szeretettel
+      # Label for the contributors link
+      friends_label: barátai

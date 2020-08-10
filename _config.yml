@@ -1,15 +1,9 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
-
-# See: docs/translations.md
-locale: en-US
-translations:
-  en-US:
-    name: English (US)
-    url: https://opensource.guide
+title: Open Source Guides
+description: Learn how to launch and grow your project.
 
 exclude:
   - bin
+  - CNAME
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - docs
@@ -21,14 +15,13 @@ exclude:
   - script
   - test
   - vendor
-  - node_modules
 
 permalink: /:path/
 
 collections:
   articles:
     output: true
-    permalink: /:name/
+    permalink: /:path/
 
 defaults:
   - scope:
@@ -41,20 +34,19 @@ defaults:
     values:
       layout: article
 
-gems:
+plugins:
   - jekyll-mentions
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 
-markdown: kramdown
-
 sass:
-  style: :compressed
   sass_dir: assets/css/
+  style: :compressed
   load_paths:
     - node_modules
 
-branch: gh-pages
+logo: /assets/images/cards/default.png
 
 github:
   repository_nwo: github/opensource.guide
