@@ -158,9 +158,10 @@ Longer term, your legal team can do more to help the company get more from its i
 <aside markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
   <p markdown="1" class="pquote-credit">
-— Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+— Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
 </aside>
 
 * **Patents:** Your company may wish to join the [Open Invention Network](https://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
 * **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+khakhhuni007/o
