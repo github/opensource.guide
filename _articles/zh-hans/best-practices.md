@@ -2,40 +2,38 @@
 lang: zh-hans
 title: 维护者最佳实践
 description: 身为开源的维护者，如何轻松驾驭项目？本指南从文档流程到有效利用社区来展开。
-class: best-practices
+class: best-Pull Requestactices
 order: 5
-image: /assets/images/cards/best-practices.png
+image: /assets/images/cards/best-Pull Requestactices.png
 related:
   - metrics
   - leadership
-redirect_from: /zh-cn/best-practices/
+redirect_from: /zh-cn/best-Pull Requestactices/
 ---
 
 ## 身为维护者意味这什么？
 
-如果你维护着一个非常流行的项目，你可能就会意识到自己写代码的时间变少，而花费在回答 issue 的时间越来越多。
+如果你维护着一个非常流行的项目，你可能就会意识到自己写代码的时间变少，而花费在回答 Issue 的时间越来越多。
 
 在项目的起步阶段，你会不断尝试着实现自己的新想法，也能够基于自己想要的作出决定。随着项目逐渐的开始流行，就会发现你的大部分时间都花在了与用户、贡献者打交道上。
 
-维护项目需要的不仅仅是编码。有些意料之外的任务，对于项目的持续发展同样重要。我们收集了几种方法让你的维护工作变得稍轻松些，这些技巧，涉及范围颇广，从编写文档到管理社区都有所涉及。
+维护项目需要的不仅仅是代码。有些意料之外的任务，对于项目的持续发展同样重要。我们收集了几种方法让你的维护工作变得稍轻松些，这些技巧，涉及范围颇广，从编写文档到管理社区都有所涉及。
 
 ## 流程文档化
 
 对于一个项目的维护者来说写文档是最重要的事情之一。
 
-文档不仅说清楚了你的想法是什么，而且还帮助别人在问问题之前理解你需要什么和接下在希望做什么。
+文档不仅说清楚了你的想法是什么，而且还帮助别人在问问题之前理解你需要什么和接下在希望做什么。将一些东西写下来，当遇到不符合项目预期的内容时，可以轻松的拒绝。同时，它对于人们的参与和提供帮助提供了指导。
 
-将一些东西写下来，当遇到不符合项目预期的内容时，可以轻松的拒绝。同时，它对于人们的参与和提供帮助提供了指导。最有意思的是，撰写文档的人可能永远也不知道是谁读了他写的文档，或者使用项目。
+最有意思的是，撰写文档的人可能永远也不知道是谁读了他写的文档，或者使用项目。即使你不想长篇大论，对要点略说一二也比啥都不写要好。
 
-即使你不想长篇大论，对要点略说一二也比啥都不写要好。
-
-### 写下你的项目的发展方向
+### 写下项目的发展方向
 
 请在项目启动时就写下项目目标，并将之加到 README 文件中， 或者创建一个单独的 **VISION** 文件，其它还能帮助人们了解这方面的信息如项目管理路线图，最好是也把他们公开。
 
 有一个明确的，用文档表达清晰的愿景，能保证项目的走向不会跑偏，同时也能保障因为其他的贡献者增加的奇怪的需求而使项目变质。
 
-比如，@lord 发现项目有一个明确的愿景能够帮助他决定哪个 PR 值得花时间。作为一个维护者的新手，他甚至还后悔当他接到第一个关于 [slate](https://github.com/lord/slate)) PR 的时候没有坚持项目本身的原则。
+比如，@lord 发现项目有一个明确的愿景能够帮助他决定哪个 Pull Request 值得花时间。作为一个维护者的新手，他甚至还后悔当他接到第一个关于 [slate](https://github.com/lord/slate)) Pull Request 的时候没有坚持项目本身的原则。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
@@ -68,7 +66,7 @@ redirect_from: /zh-cn/best-practices/
 
 ### 保证交流是公开进行的
 
-不管是什么时候，保证你的交流是在公共的场所（就是大家都能看到的地方）。如果有人尝试和你私聊，哪怕是讨论一个新的需求或者功能，请礼貌的引导 Ta 到公共的交流场所，比如邮件列表或者 issue tracker。
+不管是什么时候，保证你的交流是在公共的场所（就是大家都能看到的地方）。如果有人尝试和你私聊，哪怕是讨论一个新的需求或者功能，请礼貌的引导 Ta 到公共的交流场所，比如邮件列表或者 Issue tracker。
 
 如果你和别的维护者见面了，或者在私下做了一个很重要的决定，把这些信息告诉大家，即使只是把你的笔记发上去。
 
@@ -80,11 +78,11 @@ redirect_from: /zh-cn/best-practices/
 
 拒绝别人确实不是很好玩，但是也要表现出专业程度，比如使用"你的贡献不符合这个项目的标准"而不是"我不喜欢你的贡献"这样显得粗鲁的语句。
 
-作为一个维护者，在很多情况下，你都要拒绝别人：不符合项目规则的 PR, 某个人脱离了讨论的重点，给别人做无关紧要的工作等等。
+作为一个维护者，在很多情况下，你都要拒绝别人：不符合项目规则的 Pull Request, 某个人脱离了讨论的重点，给别人做无关紧要的工作等等。
 
 ### 保持友好沟通
 
-你要学会拒绝的最重要的地方就是 Issue 和 PR 请求。作为一个项目的维护者, 你会不可避免的收到你不想接受的建议。
+你要学会拒绝的最重要的地方就是 Issue 和 Pull Request 请求。作为一个项目的维护者, 你会不可避免的收到你不想接受的建议。
 
 可能某个贡献并不在项目的范围或者和你的期望不合。又或者是可能想法很好，但是实现的却很烂。
 
@@ -94,15 +92,15 @@ redirect_from: /zh-cn/best-practices/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  管理大型开源项目的关键就是保证 issue 活跃。尽量避免让 issue 停滞不前。如果你是一个IOS开发者，你会知道<abbr title="提交问题到 Apple 的 Radar bug 跟踪系统">提交雷达</abbr>是多么让人沮丧。您可能会在2年后收到回复，并被告知要再次使用最新版本的iOS。
+  管理大型开源项目的关键就是保证 Issue 活跃。尽量避免让 Issue 停滞不前。如果你是一个IOS开发者，你会知道<abbr title="提交问题到 Apple 的 Radar Bug 跟踪系统">提交雷达</abbr>是多么让人沮丧。您可能会在2年后收到回复，并被告知要再次使用最新版本的iOS。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["开源社区黑客增长"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-别因为自己感到内疚或者想做一个好人就把你不想接受的贡献继续保留。随着时间的流逝，这些你没有回答的 issue 和 PR 会让你觉得很不爽。
+别因为自己感到内疚或者想做一个好人就把你不想接受的贡献继续保留。随着时间的流逝，这些你没有回答的 Issue 和 Pull Request 会让你觉得很不爽。
 
-更好的方式是马上关掉你不想接受的贡献。 如果你的项目已经积压大量的问题，@steveklabnik 可以给你点儿建议，[如何高效的解决 issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
+更好的方式是马上关掉你不想接受的贡献。 如果你的项目已经积压大量的问题，@steveklabnik 可以给你点儿建议，[如何高效的解决 Issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
 
 第二点，忽略别人的贡献等于是在社区传递了一个负面的信号。让人感觉提交一个贡献是蛮恐惧的事情，尤其是对于刚加入的新手来说。即使你不接受他们的贡献，告诉他们为什么然后致谢。这会让人觉得更舒服。
 
@@ -112,9 +110,9 @@ redirect_from: /zh-cn/best-practices/
 * **解释为什么他们的贡献不符合** 项目的需求范围，然后提供清楚的建议以供改善，如果你可以的话。和蔼一点，但同时也要讲原则。
 * **引用相关的文档，** 如果你有的话。如果你发现你反复收到你不想接受的贡献，把他们加到文档以免你重复叙述。
 
-你不需要用超过 1-2 两句话来回复。比如，当一个[celery](https://github.com/celery/celery/)的用户报告了一个window相关的错误，@berkerpeksag 是[这么](https://github.com/celery/celery/issues/3383)回复的
+你不需要用超过 1-2 两句话来回复。比如，当一个[celery](https://github.com/celery/celery/)的用户报告了一个window相关的错误，@berkerpeksag 是[这么](https://github.com/celery/celery/Issues/3383)回复的
 
-![celery screenshot](/assets/images/best-practices/celery.png)
+![celery screenshot](/assets/images/best-Pull Requestactices/celery.png)
 
 如果你感觉拒绝别人很不好意思，也很正常，其实很多人都是这样。就像 @jessfraz [说到的](https://blog.jessfraz.com/post/the-art-of-closing/):
 
@@ -130,18 +128,18 @@ redirect_from: /zh-cn/best-practices/
 
 如果你收到太多低质量的贡献，让那个贡献者先多做做功课，比如：
 
-* 填写一个 issue 或者 PR 的模板/清单
-* 在提交PR之前先开一个 issue
+* 填写一个 Issue 或者 Pull Request 的模板/清单
+* 在提交Pull Request之前先开一个 Issue
 
-如果他们不遵从你的规则，马上关掉 issue 并引用你的文档。
+如果他们不遵从你的规则，马上关掉 Issue 并引用你的文档。
 
-当然啦，这么搞一开始是不太舒服，但是你主动一点确实对双方都好。它减少了某个人花了太多时间到一个你不想要的 PR 上的可能性。而且让你管理起来更轻松。
+当然啦，这么搞一开始是不太舒服，但是你主动一点确实对双方都好。它减少了某个人花了太多时间到一个你不想要的 Pull Request 上的可能性。而且让你管理起来更轻松。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   理论上，在 CONTRIBUTING.md 文件里面告诉别人在他们开始干活之前如何更清楚的知道的干完之后会不会被接受。
   <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["优雅的关闭 PR "](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["优雅的关闭 Pull Request "](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
@@ -151,7 +149,7 @@ redirect_from: /zh-cn/best-practices/
 
 可能在你的社区里有人不断提交一些不符合项目需求的贡献。对你们双方来说，不停的拒绝他的提交，会令双方都很尴尬。
 
-如果你发现有人对你的项目很上心，但是就是需要调教，那就耐心一点。给他解释明白每次它的提交为什么不符合项目需求。尝试着让他先做一些简单一点的事，比如那些标有 _"good first issue"_ 标签的 issue，以此让他慢慢习惯。如果你有时间的话，考虑教 Ta 怎么完成第一次贡献，或者在社区找一个人教 Ta。
+如果你发现有人对你的项目很上心，但是就是需要调教，那就耐心一点。给他解释明白每次它的提交为什么不符合项目需求。尝试着让他先做一些简单一点的事，比如那些标有 _"good first Issue"_ 标签的 Issue，以此让他慢慢习惯。如果你有时间的话，考虑教 Ta 怎么完成第一次贡献，或者在社区找一个人教 Ta。
 
 ## 依托你的社区
 
@@ -163,7 +161,7 @@ redirect_from: /zh-cn/best-practices/
 
 当你看到新的贡献者不停的提交贡献，通过分配给他们更多任务来表示认可。如果别人愿意的话，记录下别人是怎么成长为领导者的过程。
 
-鼓励别人来[一起管理项目](../building-community/#共享项目所有权)能很大程度上减轻你的工作量，就像 [@lmccart](https://github.com/lmccart) 在他的项目上做的那样，[p5.js](https://github.com/processing/p5.js)
+鼓励别人来[一起管理项目](../building-community/#共享项目所有权)能很大程度上减轻你的工作量，就像 [@lmccart](https://github.com/lmccart) 在他的项目上做的那样，[p5.js](https://github.com/Pull Requestocessing/p5.js)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -177,7 +175,7 @@ redirect_from: /zh-cn/best-practices/
 
 如果别人认同项目的发展方向，给他们提交的权限或者正式把项目所有权转移给他。如果有人 fork 了你的项目而且在保持活跃的维护中，考虑在你的原始的仓库放上这个 fork 版本的链接。如果大家都希望你的项目继续的话这不失为一种好办法。
 
-[@progruim](https://github.com/progrium) [发现](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) 由于它给他的项目[Dokku](https://github.com/dokku/dokku)写一个关于项目发展方向的文档，即使在它离开这个项目后他的那些目标仍然会被实现。
+[@Pull Requestogruim](https://github.com/Pull Requestogrium) [发现](https://web.archive.org/web/20151204215958/https://Pull Requestogrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) 由于它给他的项目[Dokku](https://github.com/dokku/dokku)写一个关于项目发展方向的文档，即使在它离开这个项目后他的那些目标仍然会被实现。
 
 > 我写了一个wiki来描述我想要啥和为什么。不知道为啥，项目的维护者就开始推动项目朝这个方向发展，这对我来说还是有点惊讶的。他们会丝毫不差的按照我的意愿去做这个项目吗？不总是这样，但是总是会把项目推动到离我的理想状态更近的位置。
 
@@ -191,11 +189,11 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   我迎合 80% 的用户需求。但是如果你是那 20% 中的一个，那么 fork 我的项目吧。我不会介意的！我的公开的项目是用来解决那些最常见的问题的。我尝试着让别人fork 我的项目然后在上面拓展得更加简单。
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["为何我关闭了 PR"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["为何我关闭了 Pull Request"](https://www.jeffgeerling.com/blog/2016/why-i-close-Pull Requests-oss-Pull Requestoject-maintainer-notes)
   </p>
 </aside>
 
-这对于那些强烈的需要某个你没时间实现的解决方案的用户来说也是一样的。提供 API 或者自定义的钩子帮助他们更好的实现自己的需求而不需要改动源码。[@orta](https://github.com/orta)[发现](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)鼓励在 CocoaPods 上使用插件导致了很多有趣的想法的诞生。
+这对于那些强烈的需要某个你没时间实现的解决方案的用户来说也是一样的。提供 API 或者自定义的钩子帮助他们更好的实现自己的需求而不需要改动源码。[@orta](https://github.com/orta)[发现](https://artsy.github.io/blog/2016/07/03/handling-big-Pull Requestojects/)鼓励在 CocoaPods 上使用插件导致了很多有趣的想法的诞生。
 
 > 一旦一个项目变大之后，维护者对怎么增加新代码变得保守是不可避免的事情。你可能很会拒绝别人的需求，但是很多人提的都是合法的需求。所以，你不得不把你的一个工具变成平台。
 
@@ -231,7 +229,7 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
 * [mention-bot](https://github.com/facebook/mention-bot) 可能的贡献者来帮你复查代码
 * [Danger](https://github.com/danger/danger) 帮你自动复查代码
 
-对于 bug 报告和其他常见形式的贡献，GitHub 有[Issue 模版和 Pull Request 模版](https://github.com/blog/2111-issue-and-pull-request-templates), 你可以用来降低沟通成本。你也可以设置[邮件过滤](https://github.com/blog/2203-email-updates-about-your-own-activity)来管理你的邮件提醒。
+对于 Bug 报告和其他常见形式的贡献，GitHub 有[Issue 模版和 Pull Request 模版](https://github.com/blog/2111-Issue-and-pull-request-templates), 你可以用来降低沟通成本。你也可以设置[邮件过滤](https://github.com/blog/2203-email-updates-about-your-own-activity)来管理你的邮件提醒。
 
 如果你想更加的先进和高效，代码风格指南和 linter 能让你项目收到的贡献更加规范，而且更容易复查和被接受。
 
@@ -243,25 +241,19 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
 
 开源项目曾经让你开心，但可能现在开始让你不开心了。
 
-可能当你想到你的项目的时候感觉到"亚历山大"。而同时，issue 和 PR 又纷至沓来。
+可能当你想到你的项目的时候感觉到"亚历山大"。而同时，Issue 和 Pull Request 又纷至沓来。疲倦在开源工作工作中是一个常见的问题，特别是在维护者中间。作为一个维护者，你做的开心对项目的生存来说是一个没有商量余地的条件。
 
-疲倦在开源工作工作中是一个常见的问题，特别是在维护者中间。作为一个维护者，你做的开心对项目的生存来说是一个没有商量余地的条件。
-
-虽然你不需要跟谁请假，但是也不要拖到自己疲倦不堪的时候才去度假。[@brettcannon](https://github.com/brettcannon)，一个 Python 的核心开发者，决定在 14 年的义务劳动之后[休一个月的假](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)。
-
-就像其他工作一样，有规律的休息会让你对工作保持舒适愉快的心情。
+虽然你不需要跟谁请假，但是也不要拖到自己疲倦不堪的时候才去度假。[@brettcannon](https://github.com/brettcannon)，一个 Python 的核心开发者，决定在 14 年的义务劳动之后[休一个月的假](http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering)。就像其他工作一样，有规律的休息会让你对工作保持舒适愉快的心情。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  我是 WP-CLI 的维护者，我发现我需要首先让自己开心，在开源项目和其他事情之间设定清楚的界限。我发现最好的平衡点就是每周在日常的工作安排中花 2-5 小时在这上面。这会让我从感觉太累到保持持续的激情。因为我给我需要解决的 issue 标上了优先级，从而我能够在我认为重要的事情上有所进展。
+  我是 WP-CLI 的维护者，我发现我需要首先让自己开心，在开源项目和其他事情之间设定清楚的界限。我发现最好的平衡点就是每周在日常的工作安排中花 2-5 小时在这上面。这会让我从感觉太累到保持持续的激情。因为我给我需要解决的 Issue 标上了优先级，从而我能够在我认为重要的事情上有所进展。
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["我的悼文，你现在是一个非常流行的项目的维护者"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["我的悼文，你现在是一个非常流行的项目的维护者"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-Pull Requestoject/)
   </p>
 </aside>
 
-有时候，当你感觉大家都离不开你的时候，请假去休息是一件蛮困难的事情。甚至你自己会因为离开而感到愧疚。
-
-在你离开项目的时候尽可能的在用户和社区中间寻求支持，如果你找到支持你的人，还是休息吧。在你不工作的时候还是要保持和别人交流，这样人们不会因为你的失联而感到奇怪。
+有时候，当你感觉大家都离不开你的时候，请假去休息是一件蛮困难的事情。甚至你自己会因为离开而感到愧疚。在你离开项目的时候尽可能的在用户和社区中间寻求支持，如果你找到支持你的人，还是休息吧。在你不工作的时候还是要保持和别人交流，这样人们不会因为你的失联而感到奇怪。
 
 休假不仅适用于度假。如果你周末不想做开源项目的工作了，或者在本该工作的时候不想干活了，和别人说，这样他们知道什么时候不该打扰你。
 

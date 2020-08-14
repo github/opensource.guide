@@ -13,24 +13,24 @@ redirect_from: /zh-cn/starting-a-project/
 
 ## 什么是开源,为什么要开源
 
-那你在考虑开始参与开源？恭喜！世界赞赏你的贡献。我们来谈谈开源是什么以及为什么人们这样做。
+那你在考虑开始参与开源？恭喜！我们欢迎你的贡献。我们来谈谈开源是什么以及为什么人们这样做。
 
 ### "开源"是什么意思？
 
-当一个项目被开源，这意味着**任何人都可以出于任何目的查看，使用，修改和分发你的项目**。 这些权限通过[开源许可](https://opensource.org/licenses)强制实施。
+当一个项目被开源，这意味着**任何人都可以出于任何目的查看，使用，修改和分发你的项目**。 这些权限通过[开源许可证](https://opensource.org/licenses)强制实施。
 
 开源是强大的，因为它降低了事物被采纳的障碍，允许想法迅速传播。
 
 要了解它的工作原理，想象你的朋友组织了一场聚餐，而你带去了一个樱桃派。
 
-* 每个人都尝了那个派（_使用_)
-* 派的味道棒极了！大家请你分享它的配方（_view_）
+* 每个人都尝了那个樱桃派（_使用_)
+* 樱桃派的味道棒极了！大家请你分享它的配方（_view_）
 * 一个叫 Alex 的朋友是个糕点师，他建议少放点糖（_modify_）
 * 一个叫 Lisa 的朋友想要用它作为下周的晚餐（_distribute_）
 
-相比之下，一个闭源过程就像去一家餐厅订购一个樱桃派。你必须为了吃饼支付费用，餐厅恐怕不会给你他们的食谱。如果你准确地复制了他们的馅饼，并以你自己的名义出售，餐厅可以对你采取措施。
+相比之下，一个闭源过程就像去一家餐厅吃一个樱桃派。你必须为了吃樱桃派而去支付费用，餐厅也不会给你他们的食谱。如果你准确地复制了他们的樱桃派，并以你自己的名义出售，餐厅可以对你采取措施。
 
-### 人们为什么把他们的作品开源？
+### 很多人为什么把他们的项目开源？
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
@@ -40,13 +40,13 @@ redirect_from: /zh-cn/starting-a-project/
   </p>
 </aside>
 
-个人或组织为何想要开源一个项目，[有各种各样的的原因](https://ben.balter.com/2015/11/23/why-open-source/)，例如：
+个人或组织为何想要开源一个项目，有[各种各样的的原因](https://ben.balter.com/2015/11/23/why-open-source/)，例如：
 
 * **协作：** 开源项目可以接受世界各地人们的修改。 例如 [Exercism](https://github.com/exercism/) 就是一个拥有350多个贡献者的练习平台。
 
 * **采用和重组：** 任何人几乎可以出于任何目的使用开源项目。人们甚至可以使用它来构建其他东西。例如，[WordPress](https://github.com/WordPress) 就是派生自一个名为 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) 的现有项目。
 
-* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
+* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
 
 开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 开找找有什么是你可以开源的。
 
@@ -56,7 +56,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
 
-因此，大多数开源项目是免费的，但"免费"不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
+因此，大多数开源项目是免费的，但"免费"不是开源定义的一部分。 有些方法可以通过双重许可证或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
 
 ## 我应该启动自己的开源项目吗？
 
@@ -112,14 +112,14 @@ redirect_from: /zh-cn/starting-a-project/
 
 一般来说，如果你乐意于他人对你工作的查看和反馈，你就应该开源你的项目。
 
-无论您决定开展项目的哪个阶段，每个项目都应包括以下文档：
+无论您决定开展项目的哪个阶段，每个项目都应包括以下内容：
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [开源许可证](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [自述文件](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
+* [如何贡献](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [行为准则](../code-of-conduct/)
 
-作为维护者，这些组件将帮助你交流你的期望，管理贡献并保护每个人的合法权益（也包括您自己的）。他们能够大大增加你积极体验的机会。
+作为维护者，这些组件将帮助你交流你的期望，管理贡献并保护每个人的合法权益（包括您自己的）。他们能够大大增加你积极体验的机会。
 
 如果您的项目在 GitHub 上，则将这些文件放在您的根目录中，并使用推荐的文件名将有助于 GitHub 识别并自动将其显示给读者。
 
@@ -129,7 +129,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 法律工作是非常无趣的。但好消息是，您可以将现有许可证复制并粘贴到存储库中。只需要花这么一点时间，就能保护你的辛苦工作。
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 你可以选择[其他的许可证](https://choosealicense.com).
 
 当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源。
 
@@ -145,7 +145,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 * 这个项目做什么？
 * 为什么这个项目有用？
-* 如何开始？
+* 如何使用？
 * 如果需要，我可以在哪里获得更多的帮助？
 
 您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
@@ -168,7 +168,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
 
-* 如何提交错误报告（尝试使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
+* 如何提交错误报告（尝试使用[Issue 和 Pull Request 模板](https://github.com/blog/2111-Issue-and-pull-request-templates)）
 * 如何建议一个新功能
 * 如何配置你的环境和运行测试
 
@@ -190,7 +190,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何构建 CONTRIBUTION.md"](https://mozillascience.github.io/working-open-workshop/contributing/)。
 
-在你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
+在你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 Issue 或者开启一个 Pull Request 时，GitHub 会自动链接你的文件。
 
 ![贡献指南](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -216,13 +216,13 @@ redirect_from: /zh-cn/starting-a-project/
 
 ## 项目命名以及品牌建设
 
-品牌不仅是一个华丽的logo或者易记的项目名。它还关于你如何谈论你的项目，以及你想把信息传递给谁。
+羡慕不仅需要一个适合的标志或者易记的项目名。它还关于你如何谈论你的项目，以及你想把信息传递给谁。
 
 ### 选择正确的名字
 
 选择一个容易记住，有创意，能表达项目用意的名字。例如：
 
-* [Sentry](https://github.com/getsentry/sentry) 监控应用程序的崩溃报告
+* [Sentry](https://github.com/getsentry/sentry) 监控应用程序的崩溃报告。
 * [Thin](https://github.com/macournoyer/thin) 是一个简单快速的Ruby web服务器。
 
 如果你的项目是基于一个已存在的项目创建，那么使用他们的名字作为你项目名的前缀会帮助你阐述你项目的用途。 (例如 [node-fetch](https://github.com/bitinn/node-fetch)将`window.fetch` 添加到了 Node.js)。
@@ -243,13 +243,13 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 你的写作（和代码）如何影响你的品牌
 
-在项目的整个生命周期中，你需要做很多文字工作：READMEs，教程，社区文档，回复issues，甚至肯能要处理很多来信和邮件。
+在项目的整个生命周期中，你需要做很多写作工作：自述文件，教程，社区文档，回复Issues，甚至肯能要处理很多来信和邮件。
 
 是否是官方文档或者一封普通的邮件，你的书写风格都是你项目品牌的一部分。考虑你可能会拥有粉丝，以及这是你想传达的声音。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  我尝试处理每一个细节，包括：处理邮件，展示示例，友好待人，认真处理大家的issues以及试图帮助到大家。经过一段时间后，大家可能不再是只问问题，还会帮助我解决其他人的疑问以及给我喜悦，他们模仿我的风格。
+  我尝试处理每一个细节，包括：处理邮件，展示示例，友好待人，认真处理大家的Issues以及试图帮助到大家。经过一段时间后，大家可能不再是只问问题，还会帮助我解决其他人的疑问以及给我喜悦，他们模仿我的风格。
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
@@ -291,7 +291,7 @@ redirect_from: /zh-cn/starting-a-project/
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    最新的issue队列，组织和标记清除的issues
+    最新的Issue队列，组织和标记清除的Issues
   </label>
 </div>
 
@@ -314,7 +314,7 @@ redirect_from: /zh-cn/starting-a-project/
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    在修改历史，issues或者 pull requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
+    在修改历史，Issues或者 Pull Requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
   </label>
 </div>
 
@@ -334,31 +334,31 @@ redirect_from: /zh-cn/starting-a-project/
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    你已经告诉了你的法律部门
+    你已经告诉了你的法律部门。
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    你有一个宣布和促进项目的营销计划
+    你有一个宣布和促进项目的营销计划。
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    一些人被允许管理社区互动（回复issues，检查和合并pull requests）
+    一些人被允许管理社区互动（回复Issues，检查和合并Pull Requests）。
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    至少有两人管理访问项目
+    至少有两人管理访问项目。
   </label>
 </div>
 
 ## 你做到了!
 
-恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，你正在为自己或者他人创造学习和成长的机会。
+恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次提交和Pull Request，你正在为自己或者他人创造学习和成长的机会。

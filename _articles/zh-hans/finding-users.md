@@ -17,10 +17,9 @@ redirect_from: /zh-cn/finding-users/
 
 ## 发出你的声音
 
-在开始推广你的项目之前，你应该能够解释你的项目是做什么的，为什么大家需要它?
+在开始推广你的项目之前，你应该能够解释：“你的项目是做什么的，为什么大家需要它？”
 
-是什么让你的项目变得不同或者有趣，在自己心中问这些问题会让你更容易说服别人。
-
+是什么让你的项目变得不同或者有趣？在自己心中问这些问题会让你更容易说服别人。
 牢记一件事情，别人之所以使用你的项目，甚至是为你的项目做贡献，是因为你的项目解决了他们的问题。所以你要找出他们需要什么，然后把它当成你项目的卖点或者说价值所在。
 
 举个例子，[@robb](https://github.com/robb)用代码实例来清晰的阐述为什么他的项目[Cartography](https://github.com/robb/Cartography)是有用的。
@@ -40,13 +39,13 @@ redirect_from: /zh-cn/finding-users/
 
 通过引导他们到一个唯一的地址来帮助人们发现和记住你的项目。
 
-**要有一个推广的主阵地。**一个Twitter账号，Github链接，或者IRC频道是引导人们查看你的项目的一个简单方式。这些方式也给你日益增长的社区一个讨论的好地方。
+**要有一个推广的主阵地。**一个推特账号，Github链接，或者IRC频道是引导人们查看你的项目的一个简单方式。这些方式也给你日益增长的社区一个讨论的好地方。
 
-如果你目前还不想给你的项目搞这么多乱七八糟的东西，只要在有机会的时候推广你的Twitter账户和Github账户即可。举个例子，如果你在某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
+如果你目前还不想给你的项目搞这么多乱七八糟的东西，只要在有机会的时候推广你的推特账户和Github账户即可。举个例子，如果你在某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  我之前犯过的一个错误就是没有给项目开一个Twitter账户。Twitter是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。
+  我之前犯过的一个错误就是没有给项目开一个推特账户。推特是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
@@ -146,7 +145,7 @@ redirect_from: /zh-cn/finding-users/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS公开第一个版本的时候是在2011年初。我也就是用了一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。到2014年它已经广为人知的时候，我才开始做关于它的演讲。
+  PhantomJS公开第一个版本的时候是在2011年初。我也就是用了一些常规的方法来推广：发推特，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。到2014年它已经广为人知的时候，我才开始做关于它的演讲。
   <p markdown="1" class="pquote-credit">
 — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
   </p>
