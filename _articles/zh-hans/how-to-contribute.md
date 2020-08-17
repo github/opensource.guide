@@ -27,7 +27,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 无论是编写代码、设计用户界面、图形设计、编写文档、或是组织活动，假如你有实践的愿望，你总能在开源项目中找到自己的位置。
 
-### 遇见那些和你合得来的人
+### 遇见那些与你合得来的人
 
 开源项目一般都会有一个和谐、热心的社区，以让大家团结一致。实际上，开源界经常发生这样的情形，很多深厚友谊都是通过共同参与开源所建立起来的，至于具体的方式，可能是在一次技术研讨会上相谈甚欢，也可能是一直在聊天室中探讨问题。
 
@@ -43,7 +43,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 开源为实践领导力和管理技能提供了很好的机会，比如解决冲突、组织团队、工作的优先级排列。
 
-### 鼓励作出改变，哪怕改变是很微小的
+### 鼓励作出改变，哪怕改变是很微小的改变
 
 在开源的世界里，作出贡献的不一定非得是花了很长时间拥有大量经验的人。你是否遇到过浏览某些网站发现有拼写错误，希望有人能修改它？其实，在开源的项目中，你只需要做就可以了。没有那么多的顾忌，开源让人们在很舒服的状态做事，而这才是这个世界应有的体验。
 
@@ -53,9 +53,9 @@ redirect_from: /zh-cn/how-to-contribute/
 
 其实没有关系的啦！条条大路通罗马，开源项目有太多的路径可以参与！以下是一些实用的技巧，帮助你快速的获得经验。
 
-### 你不具备编程的能力
+### 你不必具备编程的能力
 
-对于为开源做贡献常见的误解就是：为开源做贡献必须得提交代码。事实上，代码固然重要，但是项目中不需要代码的重要部分[经常被忽视](https://github.com/blog/2195-the-shape-of-open-source)。你若做了这部分，对于项目来说可是莫大的贡献，而这根本就不需要什么编写代码！
+对于为开源做贡献常见的误解就是：为开源做贡献必须要提交代码。事实上，代码固然重要，但是项目中不需要代码的部分[经常被忽视](https://github.com/blog/2195-the-shape-of-open-source)。你若做了这部分，对于项目来说可是很大的贡献，而这根本就不需要编写代码！
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
@@ -65,11 +65,11 @@ redirect_from: /zh-cn/how-to-contribute/
   </p>
 </aside>
 
-即使你是一位开发者，编写代码之外的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
+即使你是一位开发者，代码之外的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  我第一次接触 Python 开发团队（简称 python-dev）是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的 bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
+  我第一次接触 Python 开发团队（简称 python-dev）是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的 Bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["维护者的故事"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -90,11 +90,11 @@ redirect_from: /zh-cn/how-to-contribute/
 
 ### 你是否热衷于写作？
 
-* 编写和改进项目的文档
+* 编写和改进项目文档
 * 能够以实例来展示项目该如何使用的
 * 为项目编写新闻稿，或者到邮件列表高调布道
-* 为项目编写教程，[一如 pypa 的贡献者所做的](https://github.com/pypa/python-packaging-user-guide/Issues/194)
-* 翻译项目的文档为本土语言
+* 为项目编写使用教程，[一如 pypa 的贡献者所做的](https://github.com/pypa/python-packaging-user-guide/Issues/194)
+* 翻译项目的文档为本地语言
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
@@ -115,7 +115,7 @@ redirect_from: /zh-cn/how-to-contribute/
 * 找到一个开放的问题并解决它，[就像 @dianjin 为 Leaflet 做的](https://github.com/Leaflet/Leaflet/Issues/4528#Issuecomment-216520560)
 * 想一想你是否可以帮忙开发一个新的功能
 * 自动化项目设置
-* 改进项目和测试
+* 改进和测试项目
 
 ### 热衷于帮助他人？
 
@@ -129,9 +129,9 @@ redirect_from: /zh-cn/how-to-contribute/
 * 为如何利用项目编写教程
 * 为其他贡献者做导师，[正如 @ereichert 为 @bronzdoc 所做的那样，哦，是 Rust 项目](https://github.com/rust-lang/book/Issues/123#Issuecomment-238049666)
 
-### 其实不必一定是软件项目！
+### 开源不必是软件项目！
 
-尽管人们一提起"开源"二字，默认就是指开源软件，其实不尽然，开源可以是任何事情的修饰，而不仅仅是指软件。比如图书、食谱、列表、以及任何可以开源的项目类别。
+尽管人们一提起“开源”二字，默认就是指开源软件，其实不尽然，开源可以是任何事情的修饰，而不仅仅是指软件。比如图书、食谱、列表、以及任何可以开源的项目类别。
 
 举例来说：
 
@@ -175,8 +175,8 @@ redirect_from: /zh-cn/how-to-contribute/
 
 靠谱的开源项目，一般都会有文档的，这些文档文件通常会在代码仓库的顶级目录列出。
 
-* **LICENSE:** 根据开源软件的定义，每一个开源项目必须是有[开源许可协议](https://choosealicense.com)的. 可以这么认为：假如说某个项目源码开放，但是没有任何的许可协议，那么它就不能叫做开源。
-* **README:** README 是一个介绍性的说明文件，对初次光临社区的人们表示欢迎，它通常会解释项目有何用处，为何发起，以及如何快速入门等。
+* **LICENSE:** 根据开源软件的定义，每一个开源项目必须是有[开源许可证](https://choosealicense.com)的。可以这么认为：假如说某个项目源码开放，但是没有任何的许可证，那么它就不能叫做开源。
+* **README:** README 是一个介绍性的说明文件，对初次来到社区的人们表示欢迎，它通常会解释项目有何用处，为何发起，以及快速入门等。
 * **CONTRIBUTING:**  README 文件帮助人们来认识项目，而 CONTRIBUTING 文件则是告诉人们对项目如何做贡献。它解释了目前项目需要什么样类型的贡献者，社区的流程是什么样的。并非所有的项目都会有这个文件，它某种程度上也是展示项目对于贡献者的友好程度。
 * **CODE_OF_CONDUCT:** 顾名思义，即是一些参与社区时的一些礼仪、说话方式、行为等，让社区形成一种友好的氛围，不是所有的项目都会写行为准则文件，它某种程度上也是展示项目对于贡献者的友好程度。
 * **其它文档:** 有些项目也许还有其它文档，例如教程、导游，或者是治理规则，这在大型项目中常见。
@@ -184,7 +184,7 @@ redirect_from: /zh-cn/how-to-contribute/
 此外，开源项目还会利用如下一些工具来进行组织讨论，阅读这些归档对于理解社区的想法、是如何工作的有非常大的作用。
 
 * **问题追踪:** 这里是人们讨论项目相关问题的地方。
-* **Pull requests:** 审核代码、以及相关的问题讨论。
+* **Pull Requests:** 审核代码、以及相关的问题讨论。
 * **论坛或邮件列表:** 一些项目会使用会话式的主题（例如 _"How do I..."_ 或 _"What do you think about..."_ 来替代 Bug 报告或特性请求）。然而有一些项目关于讨论全部实用问题追踪。
 * **即时在线聊天:** 有一些项目会使用聊天频道（诸如 Slack 或 IRC），从而能够随意的谈话、协作和快速交流。
 
@@ -200,7 +200,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 一旦进入某项目，不论何时，你都要听从自己的直觉，做你认为更好或者不同的事情。
 
-开源并不是高级俱乐部；它就是由你这样的人所浇铸和打造。**"开源"只是针对这个世界的需要修复的问题的一个梦幻术语罢了。**
+开源并不是高级俱乐部；它就是由你这样的人所浇铸和打造。**“开源”只是针对这个世界的需要修复的问题的一个梦幻术语罢了。**
 
 你或许在查看 README 的时候，发现了损坏的链接，又或者拼写错误。又或者是你是一名新手，使用的过程中发现了问题，又或者是某问题应该在文档中注明。请不要坐视不理，径直绕开，或者是请求他人修复，伸出你的援助之手，解决这些你能看到的问题。而这正是开源的精髓之所在！
 
@@ -229,7 +229,7 @@ redirect_from: /zh-cn/how-to-contribute/
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  有许可协议吗？通常情况下，会在根目录有一个叫做 LICENSE 的文件。
+  有许可证吗？通常情况下，会在根目录有一个叫做 LICENSE 的文件。
   </label>
 </div>
 
@@ -435,7 +435,7 @@ redirect_from: /zh-cn/how-to-contribute/
 如果你没有找到和你想法一样的内容，你就可以继续了。如果项目是在 GitHub 上的话，你可以通过开启一个 Issue 或 Pull Request：
 
 * **Issues** 开启一次对话或讨论
-* **Pull requests** 请求接受自己的解决方法
+* **Pull Requests** 请求接受自己的解决方法
 * **少量的沟通，** 诸如澄清或"怎样做"的问题，尝试到 Stack Overflow、IRC、Slack 或其它聊天平台去问。
 
 在你创建 Issue 和 Pull Request 之前，请检查项目的贡献者文档（文件名通常叫做 CONTRIBUTING，或者就直接包含在README中），找一些你需要的较具体的东西，例如，他们会要求你遵循某个模版，或者是要求你使用某个测试。
@@ -464,7 +464,7 @@ redirect_from: /zh-cn/how-to-contribute/
 * **如果说某个 Issue 已经开放很久了，** 这可能是已经有人正在解决中，又或者是早已经解决过了，所以也请添加评论，在打算开启工作之前，最好是确认一下。
 * **如果你创建了一个 Issue，但是没多久自己解决了，** 也要添加评论，让其他人知道，然后关闭该 Issue。记录本身就是为社区的贡献。
 
-### 创建 pull request
+### 创建 Pull Request
 
 在下面的情形时，请你务必使用Pull Request：
 
