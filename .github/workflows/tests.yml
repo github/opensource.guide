@@ -27,4 +27,4 @@ jobs:
       run: script/bootstrap
 
     - name: Tests
-      run: script/test
+      run: script.CI](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg?branch=Update-how-to-contribute.md&event=push)
