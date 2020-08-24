@@ -1,15 +1,15 @@
 ---
 lang: nl
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+title: Tips voor open source-beheerder
+description: Uw leven gemakkelijker maken als open source-beheerder, van het documenteren van processen tot het benutten van uw gemeenschap.
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
+  what-does-it-mean-to-be-a-maintainer: "Wat betekent het om een open source-onderhouder te zijn?"
+  documenting-your-processes: "Documenteren van uw processen"
+  learning-to-say-no: "Nee leren zeggen"
+  leverage-your-community: "Maak gebruik van uw community"
+  bring-in-the-robots: "Breng de robots"
+  its-okay-to-hit-pause: "Het is oké om op pauze te drukken"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -17,72 +17,75 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## Wat betekent het om een open source-onderhouder te zijn?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Als je een open source-project onderhoudt dat veel mensen gebruiken, heb je misschien gemerkt dat je minder codeert en meer op problemen reageert.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+In de vroege stadia van een project experimenteer je met nieuwe ideeën en neem je beslissingen op basis van wat je wilt. Naarmate uw project populairder wordt, zult u merken dat u meer met uw gebruikers en bijdragers samenwerkt.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Voor het onderhouden van een project is meer nodig dan alleen code. Deze taken zijn vaak onverwacht, maar net zo belangrijk voor een groeiend project. We hebben een aantal manieren verzameld om uw leven gemakkelijker te maken, van het documenteren van processen tot het benutten van uw gemeenschap.
 
-## Documenting your processes
+## Documenteren van uw processen
 
-Writing things down is one of the most important things you can do as a maintainer.
+Dingen documenteren is een van de belangrijkste dingen die u als onderhouder kunt doen.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Documentatie verduidelijkt niet alleen uw eigen denken, maar het helpt andere mensen ook te begrijpen wat u nodig heeft of verwacht, nog voordat ze erom vragen.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Door dingen op te schrijven, wordt het gemakkelijker om nee te zeggen als iets niet binnen uw bereik past. Het maakt het ook gemakkelijker voor mensen om in te springen en te helpen. Je weet nooit wie je project leest of gebruikt.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Zelfs als u geen volledige alinea's gebruikt, is het beter om opsommingstekens op te schrijven dan helemaal niet te documenteren.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+Denk eraan om uw documentatie up-to-date te houden. Als u dit niet altijd kunt doen, verwijdert u uw verouderde documentatie of geeft u aan dat deze verouderd is, zodat bijdragers weten dat updates welkom zijn.
 
-### Write down your project's vision
+### Schrijf de visie van uw project op
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Begin met het opschrijven van de doelen van uw project. Voeg ze toe aan je README, of maak een apart bestand met de naam VISION. Als er andere artefacten zijn die kunnen helpen, zoals een projectroadmap, maak die dan ook openbaar.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Door een duidelijke, gedocumenteerde visie te hebben, blijft u gefocust en kunt u voorkomen dat u "scoop" van andermans bijdragen krijgt.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+@Lord ontdekte bijvoorbeeld dat het hebben van een projectvisie hem hielp uitzoeken aan welke verzoeken hij tijd moest besteden. Als nieuwe open source-onderhouder had hij er spijt van dat hij zich niet aan de reikwijdte van zijn project had gehouden toen hij zijn eerste functieverzoek kreeg voor [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+Ik heb het gerommeld. Ik heb niet de moeite genomen om met een complete oplossing te komen. In plaats van een halfslachtige oplossing, zou ik willen dat ik had gezegd: "Ik heb hier momenteel geen tijd voor, maar ik zal het toevoegen aan de lange termijn lijst met leuke dingen."
+  
+_I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."_
+
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Communiceer uw verwachtingen
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Regels kunnen zenuwslopend zijn om op te schrijven. Soms heb je misschien het gevoel dat je het gedrag van andere mensen controleert of al het plezier wegneemt.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Eerlijk geschreven en gehandhaafd, maar goede regels geven open soruce-onderhouders meer mogelijkheden. Ze voorkomen dat u wordt meegesleurd in dingen die u niet wilt doen.
+ 
+De meeste mensen die uw project tegenkomen, weten niets over u of uw omstandigheden. Ze gaan er misschien van uit dat je wordt betaald om eraan te werken, vooral als het iets is dat ze regelmatig gebruiken en waarvan ze afhankelijk zijn. Misschien heb je op een gegeven moment veel tijd in je project gestoken, maar ben je nu bezig met een nieuwe baan of familielid.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Dit is allemaal in orde! Zorg ervoor dat andere mensen ervan op de hoogte zijn.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Als het onderhouden van uw project parttime of puur vrijwillig is, wees dan eerlijk over hoeveel tijd u hebt. Dit is niet hetzelfde als hoeveel tijd u denkt dat het project nodig heeft, of hoeveel tijd anderen willen dat u eraan besteedt.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Hier zijn een paar regels die het waard zijn om op te schrijven:
 
-Here are a few rules that are worth writing down:
+* Hoe een bijdrage wordt beoordeeld en geaccepteerd (_Hebben ze tests nodig? Een issue-sjabloon? _)
+* De soorten bijdragen die je accepteert (_Wil je alleen hulp bij een bepaald deel van je code? _)
+* Wanneer het gepast is om op te volgen (_bijvoorbeeld: "U kunt binnen 7 dagen een reactie van een onderhouder verwachten. Als u tegen die tijd niets heeft gehoord, kunt u de discussie pingen." _)
+* Hoeveel tijd u aan het project besteedt (_bijvoorbeeld: "We besteden slechts ongeveer 5 uur per week aan dit project" _)
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), en [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) zijn verschillende voorbeelden van projecten met basisregels voor beheerders en bijdragers.
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+### Houd de communicatie openbaar
 
-### Keep communication public
+Vergeet ook niet uw interacties te documenteren. Houd de communicatie over uw project waar mogelijk openbaar. Als iemand privé contact met u opneemt om een functieverzoek of ondersteuningsbehoefte te bespreken, verwijs hem dan beleefd naar een openbaar communicatiekanaal, zoals een mailinglijst of issue tracker.
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Als u andere beheerders ontmoet, of een belangrijke beslissing neemt in privé, documenteer deze gesprekken dan in het openbaar, zelfs als u alleen maar uw aantekeningen plaatst.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
-
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
-
-## Learning to say no
+Op die manier heeft iedereen die lid wordt van uw community toegang tot dezelfde informatie als iemand die er al jaren is.
+ 
+## Nee leren zeggen
 
 You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
 
@@ -164,7 +167,7 @@ Maybe someone in your community regularly submits contributions that don't meet 
 
 If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
 
-## Leverage your community
+## Maak gebruik van uw community
 
 You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
 
@@ -212,7 +215,7 @@ The same applies to a user who really wants a solution that you simply don't hav
 
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
-## Bring in the robots
+## Breng de robots
 
 Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
 
@@ -256,7 +259,7 @@ However, if your standards are too complicated, they can increase the barriers t
 
 If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
 
-## It's okay to hit pause
+## Het is oké om op pauze te drukken
 
 Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
 
