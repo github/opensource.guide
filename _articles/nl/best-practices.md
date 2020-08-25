@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Tips voor open source-beheerder
+title: Tips voor een open source-beheerder
 description: Uw leven gemakkelijker maken als open source-beheerder, van het documenteren van processen tot het benutten van uw gemeenschap.
 class: best-practices
 toc:
@@ -87,52 +87,56 @@ Op die manier heeft iedereen die lid wordt van uw community toegang tot dezelfde
  
 ## Nee leren zeggen
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Je hebt dingen opgeschreven. Idealiter zou iedereen uw documentatie lezen, maar in werkelijkheid moet u anderen eraan herinneren dat deze kennis bestaat.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Door alles op te schrijven, kunt u situaties onpersoonlijk maken waarin u uw regels wel moet handhaven.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Nee zeggen is niet leuk, maar _"Uw bijdrage voldoet niet aan de criteria van dit project"_ voelt minder persoonlijk dan _"Ik vind uw bijdrage niet leuk"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Nee zeggen is van toepassing op veel situaties die je als open source-onderhouder tegenkomt: functieverzoeken die niet binnen het bereik passen, iemand die een discussie ontspoort, onnodig werk voor anderen doet.
 
-### Keep the conversation friendly
+### Houd het gesprek vriendelijk
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+Een van de belangrijkste plaatsen waar u kunt oefenen om nee te zeggen, is uw issue en pull request lijst met verzoeken. Als projectbeheerder ontvangt u onvermijdelijk suggesties die u niet wilt accepteren.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Misschien verandert de bijdrage de reikwijdte van uw project of past deze niet bij uw visie. Misschien is het idee goed, maar de implementatie is slecht.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Ongeacht de reden is het mogelijk om tactvol om te gaan met bijdragen die niet voldoen aan de normen van uw project.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Als u een bijdrage ontvangt die u niet wilt accepteren, is uw eerste reactie misschien dat u deze negeert of doet alsof u deze niet hebt gezien. Dit kan de gevoelens van de ander schaden en zelfs andere potentiële bijdragers in uw gemeenschap demotiveren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  De sleutel tot het afhandelen van ondersteuning voor grootschalige open source-projecten is om problemen in beweging te houden. Probeer te voorkomen dat problemen vastlopen. Als je een iOS-ontwikkelaar bent, weet je hoe frustrerend het kan zijn om radars in te dienen. Mogelijk hoort u 2 jaar later terug en wordt u verteld het opnieuw te proberen met de nieuwste versie van iOS.
+  
+  _The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS._
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Laat geen ongewenste bijdrage openstaan omdat je je schuldig voelt of aardig wilt zijn. Na verloop van tijd zullen uw onbeantwoorde problemen en PR's het werken aan uw project veel stressvoller en intimiderend maken.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Het is beter om de bijdragen waarvan u weet dat u ze niet wilt accepteren, onmiddellijk af te sluiten. Als uw project al een grote achterstand heeft, heeft @steveklabnik suggesties voor [hoe u problemen efficiënt kunt sorteren (Engels)](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+Ten tweede is het negeren van bijdragen een negatief signaal naar uw gemeenschap. Bijdragen aan een project kan intimiderend zijn, vooral als het iemands eerste keer is. Zelfs als u hun bijdrage niet accepteert, erken de persoon erachter en bedank hem voor zijn interesse. Het is een groot compliment!
+ 
+Als u een bijdrage niet wil accepteren:
 
-If you don't want to accept a contribution:
+* **Bedank ze** voor hun bijdrage
+* **Leg uit waarom het niet past** in de scope van het project, en bied duidelijke suggesties voor verbetering, als je kunt. Wees aardig, maar standvastig.
+* **Link naar relevante documentatie**, als u die heeft. Als u herhaalde verzoeken opmerkt voor dingen die u niet wilt accepteren, voegt u deze toe aan uw documentatie om te voorkomen dat u zichzelf herhaalt.
+* **Sluit het verzoek**
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
-
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+Je hebt niet meer dan 1-2 zinnen nodig om te reageren. Als voorbeeld, als een gebruiker van [celery](https://github.com/celery/celery/) een Windows-gerelateerde fout meldde, @berkerpeksag [reageerde met (Engels)](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Als de gedachte om nee te zeggen je bang maakt, ben je niet de enige. zoals @jessfraz [het omschrijft](https://blog.jessfraz.com/post/the-art-of-closing/):
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> Ik heb met onderhouders van verschillende open source-projecten gesproken, Mesos, Kubernetes, Chromium, en ze zijn het er allemaal over eens dat een van de moeilijkste aspecten van het zijn van een onderhouder is om "Nee" te zeggen tegen patches die je niet wilt.
+
+> _I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want._
 
 Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
 
@@ -279,12 +283,12 @@ Just like any other type of work, taking regular breaks will keep you refreshed,
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+Soms kan het moeilijk zijn om een pauze in te lassen van open source-werk als het voelt alsof iedereen je nodig heeft. Mensen kunnen zelfs proberen je een schuldgevoel te geven omdat je weggaat.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+Doe uw best om ondersteuning voor uw gebruikers en gemeenschap te vinden terwijl u niet aan een project zit. Als je de ondersteuning die je nodig hebt niet kunt vinden, neem dan toch een pauze. Zorg ervoor dat u communiceert wanneer u niet beschikbaar bent, zodat mensen niet in de war raken door uw gebrek aan reactievermogen.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+Pauzes nemen geldt ook voor meer dan alleen vakanties. Als je in het weekend of tijdens werkuren geen open source-werk wilt doen, communiceer die verwachtingen dan aan anderen, zodat ze weten dat ze je niet lastig vallen.
 
 ## Take care of yourself first!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+Het onderhouden van een populair project vereist andere vaardigheden dan de eerdere groeifasen, maar het is niet minder lonend. Als onderhouder oefen je leiderschap en persoonlijke vaardigheden op een niveau dat maar weinig mensen ervaren. Hoewel het niet altijd gemakkelijk te beheren is, helpt het stellen van duidelijke grenzen en alleen aan te nemen waar je je prettig bij voelt, je gelukkig, verfrist en productief te blijven.
