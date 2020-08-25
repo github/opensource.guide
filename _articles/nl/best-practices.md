@@ -117,7 +117,7 @@ Als u een bijdrage ontvangt die u niet wilt accepteren, is uw eerste reactie mis
 
 Laat geen ongewenste bijdrage openstaan omdat je een schuldgevoel hebt of aardig wilt zijn. Na verloop van tijd zullen uw onbeantwoorde problemen en PR's het werken aan uw project veel stressvoller en intimiderend maken.
 
-Het is beter om de bijdragen waarvan u weet dat u ze niet wilt accepteren, onmiddellijk af te sluiten. Als uw project al een grote achterstand heeft, heeft @steveklabnik suggesties voor [hoe u problemen efficiënt kunt sorteren (Engels)](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Het is beter om de bijdragen waarvan u weet dat u ze niet wilt accepteren, onmiddellijk af te sluiten. Als uw project al een grote achterstand heeft, heeft @steveklabnik suggesties voor [hoe u problemen efficiënt kunt sorteren](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
 Ten tweede is het negeren van bijdragen een negatief signaal naar uw gemeenschap. Bijdragen aan een project kan intimiderend zijn, vooral als het iemands eerste keer is. Zelfs als u hun bijdrage niet accepteert, erken de persoon erachter en bedank hem voor zijn interesse. Het is een groot compliment!
  
@@ -128,7 +128,7 @@ Als u een bijdrage niet wil accepteren:
 * **Link naar relevante documentatie**, als u die heeft. Als u herhaalde verzoeken opmerkt voor dingen die u niet wilt accepteren, voegt u deze toe aan uw documentatie om te voorkomen dat u zichzelf herhaalt.
 * **Sluit het verzoek**
 
-Je hebt niet meer dan 1-2 zinnen nodig om te reageren. Als voorbeeld, als een gebruiker van [celery](https://github.com/celery/celery/) een Windows-gerelateerde fout meldde, @berkerpeksag [reageerde met (Engels)](https://github.com/celery/celery/issues/3383):
+Je hebt niet meer dan 1-2 zinnen nodig om te reageren. Als voorbeeld, als een gebruiker van [celery](https://github.com/celery/celery/) een Windows-gerelateerde fout meldde, @berkerpeksag [reageerde met](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
@@ -136,78 +136,83 @@ Als de gedachte om nee te zeggen je bang maakt, ben je niet de enige. zoals @jes
 
 > Ik heb met onderhouders van verschillende open source-projecten gesproken, Mesos, Kubernetes, Chromium, en ze zijn het er allemaal over eens dat een van de moeilijkste aspecten van het zijn van een onderhouder is om "Nee" te zeggen tegen patches die je niet wilt.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Voel je niet schuldig over het niet willen accepteren van iemands bijdrage. De eerste regel van open source, [volgens](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Nee is tijdelijk, ja is voor altijd."_ Hoewel empathie met het enthousiasme van een ander een goede zaak is, is het afwijzen van een bijdrage niet hetzelfde als het afwijzen van de persoon erachter.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Als een bijdrage uiteindelijk niet goed genoeg is, bent u niet verplicht deze te accepteren. Wees vriendelijk en responsief wanneer mensen bijdragen aan uw project, maar accepteer alleen veranderingen waarvan u echt denkt dat ze uw project beter zullen maken. Hoe vaker je oefent om nee te zeggen, hoe gemakkelijker het wordt. Beloofd.
 
-### Be proactive
+### Wees proactief
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Om het aantal ongewenste bijdragen in de eerste plaats te verminderen, legt u het proces van uw project voor het indienen en accepteren van bijdragen uit in uw handleiding voor bijdragen.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Als u te veel bijdragen van lage kwaliteit ontvangt, moet u van tevoren eisen dat bijdragers wat werk doen, bijvoorbeeld:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Vul een probleem of PR-sjabloon/checklist in
+* Open een issue voordat je een PR opent
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Als ze uw regels niet volgen, sluit u het probleem onmiddellijk af en verwijst u naar uw documentatie.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Hoewel deze aanpak in het begin misschien onaardig aanvoelt, is proactief zijn eigenlijk goed voor beide partijen. Het verkleint de kans dat iemand veel verspilde uren werk in een pull-verzoek stopt dat u niet zult accepteren. En het maakt uw werklast gemakkelijker te beheren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  Leg ze idealiter en in een CONTRIBUTING.md-bestand uit hoe ze in de toekomst een betere indicatie kunnen krijgen van wat wel of niet geaccepteerd zou worden voordat ze met het werk beginnen.
+  
+  _Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work._
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Soms, als u nee zegt, kan uw potentiële bijdrager van streek raken of uw beslissing bekritiseren. Als hun gedrag vijandig wordt, [neem deze maatregelen om het positief te houden](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) of verwijder ze zelfs uit uw gemeenschap, als ze niet bereid zijn constructief samen te werken.
 
-### Embrace mentorship
+### Omarm mentorschap
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Misschien dient iemand in uw gemeenschap regelmatig bijdragen in die niet voldoen aan de normen van uw project. Het kan voor beide partijen frustrerend zijn om herhaaldelijk afwijzingen te doorstaan.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Als je ziet dat iemand enthousiast is over je project, maar een beetje gepolijst moet worden, wees dan geduldig. Leg in elke situatie duidelijk uit waarom hun bijdragen niet voldoen aan de verwachtingen van het project. Wijs ze op een gemakkelijkere of minder dubbelzinnige taak, zoals een probleem met de aanduiding _"good first issue"_ om ze te laten wennen. Als u tijd heeft, overweeg dan om hen te begeleiden door middel van hun eerste bijdrage, of zoek iemand anders in uw gemeenschap die misschien bereid is om hen te begeleiden.
 
 ## Maak gebruik van uw community
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+U hoeft niet alles zelf te doen. De gemeenschap van uw project bestaat niet voor niets! Zelfs als u nog geen actieve bijdragersgemeenschap heeft, kunt u, als u veel gebruikers heeft, ze aan het werk zetten.
 
-### Share the workload
+### Deel de werklast
 
-If you're looking for others to pitch in, start by asking around.
+Als je op zoek bent naar anderen om bij te praten, begin dan met rond te vragen.
 
-One way to gain new contributors is to explicitly [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing their visibility.
+Een manier om nieuwe bijdragers te werven, is door expliciet [label problemen die voor beginners eenvoudig genoeg zijn om aan te pakken](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub zal deze problemen vervolgens op verschillende plaatsen op het platform aan de oppervlakte brengen, waardoor hun zichtbaarheid wordt vergroot.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Als je ziet dat nieuwe bijdragers herhaaldelijk bijdragen leveren, erken dan hun werk door meer verantwoordelijkheid te bieden. Documenteer hoe anderen kunnen uitgroeien tot leiderschapsrollen als ze dat willen.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+Anderen aanmoedigen om [aandeelhouderschap van het project](../building-community/#share-ownership-of-your-project) te nemen, kan je werklast verlagen, zoals @lmccart ondekte op haar project, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  Ik had gezegd: "Ja, iedereen kan erbij betrokken zijn, je hoeft niet veel codeerkennis te hebben [...]." Er waren mensen die zich hadden aangemeld om [naar een evenement] te komen en toen vroeg ik me echt af: is dit waar, wat ik heb gezegd? Er zullen 40 mensen komen opdagen, en het is niet alsof ik bij elk van hen kan zitten... Maar mensen kwamen samen, en het werkte gewoon. Zodra een persoon het kreeg, konden ze het hun buurman leren.
+  
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
+—  @lmccart, ["Wat betekent "open source"? P5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Als u afstand moet nemen van uw project, hetzij op pauze, hetzij permanent, is het geen schande om iemand anders te vragen om het voor u over te nemen.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Als andere mensen enthousiast zijn over de richting, geef ze dan toegang of draag de controle formeel over aan iemand anders. Als iemand uw project heeft geforked en het actief elders onderhoudt, overweeg dan om te linken naar de fork van uw oorspronkelijke project. Het is geweldig dat zoveel mensen willen dat uw project voortleeft!
 
-@progrium [found that](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [merkte dat](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) het documentern van zijn visie voor het project, [Dokku](https://github.com/dokku/dokku), hielp die doelen voortleven, zelfs nadat hij het project had verlaten:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> Ik schreef een wikipagina die beschreef wat ik wilde en waarom ik het wilde. Om de een of andere reden kwam het als een verrassing voor mij dat de beheerders het project in die richting begonnen te bewegen! Is het precies gebeurd zoals ik het zou doen? Niet altijd. Maar het bracht het project nog steeds dichter bij wat ik had opgeschreven.
 
-### Let others build the solutions they need
+### Laat anderen de oplossingen bouwen die ze nodig hebben
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Als een potentiële bijdrager een andere mening heeft over wat uw project zou moeten doen, wilt u hem misschien voorzichtig aanmoedigen om aan zijn eigen fork te werken.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Een project forceren hoeft geen slechte zaak te zijn. Projecten kunnen kopiëren en wijzigen is een van de beste dingen van open source. Door uw gemeenschapsleden aan te moedigen om aan hun eigen fork te werken, kan dit de creatieve uitlaatklep zijn die ze nodig hebben, zonder in strijd te zijn met de visie van uw project.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  Ik speel in op de use case van 80%. Als je een van de eenhoorns bent, fork mijn werk dan alsjeblieft. Ik zal niet beledigd worden! Mijn openbare projecten zijn bijna altijd bedoeld om de meest voorkomende problemen op te lossen; Ik probeer het gemakkelijk te maken om dieper te gaan door mijn werk te forceren of uit te breiden.
+  
+  _I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it._
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>

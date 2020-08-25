@@ -26,6 +26,6 @@ nl:
       # Label for code octicon
       code_label: code
       # Label for love octicon
-      love_label: love
+      love_label: liefde
       # Label for the contributors link
-      friends_label: friends
+      friends_label: vrienden
