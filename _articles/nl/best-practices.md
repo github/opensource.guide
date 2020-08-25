@@ -115,7 +115,7 @@ Als u een bijdrage ontvangt die u niet wilt accepteren, is uw eerste reactie mis
   </p>
 </aside>
 
-Laat geen ongewenste bijdrage openstaan omdat je je schuldig voelt of aardig wilt zijn. Na verloop van tijd zullen uw onbeantwoorde problemen en PR's het werken aan uw project veel stressvoller en intimiderend maken.
+Laat geen ongewenste bijdrage openstaan omdat je een schuldgevoel hebt of aardig wilt zijn. Na verloop van tijd zullen uw onbeantwoorde problemen en PR's het werken aan uw project veel stressvoller en intimiderend maken.
 
 Het is beter om de bijdragen waarvan u weet dat u ze niet wilt accepteren, onmiddellijk af te sluiten. Als uw project al een grote achterstand heeft, heeft @steveklabnik suggesties voor [hoe u problemen efficiënt kunt sorteren (Engels)](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
@@ -135,8 +135,6 @@ Je hebt niet meer dan 1-2 zinnen nodig om te reageren. Als voorbeeld, als een ge
 Als de gedachte om nee te zeggen je bang maakt, ben je niet de enige. zoals @jessfraz [het omschrijft](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > Ik heb met onderhouders van verschillende open source-projecten gesproken, Mesos, Kubernetes, Chromium, en ze zijn het er allemaal over eens dat een van de moeilijkste aspecten van het zijn van een onderhouder is om "Nee" te zeggen tegen patches die je niet wilt.
-
-> _I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want._
 
 Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
 
@@ -291,4 +289,4 @@ Pauzes nemen geldt ook voor meer dan alleen vakanties. Als je in het weekend of 
 
 ## Take care of yourself first!
 
-Het onderhouden van een populair project vereist andere vaardigheden dan de eerdere groeifasen, maar het is niet minder lonend. Als onderhouder oefen je leiderschap en persoonlijke vaardigheden op een niveau dat maar weinig mensen ervaren. Hoewel het niet altijd gemakkelijk te beheren is, helpt het stellen van duidelijke grenzen en alleen aan te nemen waar je je prettig bij voelt, je gelukkig, verfrist en productief te blijven.
+Het onderhouden van een populair project vereist andere vaardigheden dan de eerdere groeifasen, maar het is niet minder lonend. Als onderhouder oefen je leiderschap en persoonlijke vaardigheden op een niveau dat maar weinig mensen ervaren. Hoewel het niet altijd gemakkelijk te beheren is, helpt het stellen van duidelijke grenzen en alleen aan te nemen waar je een prettig gevoel bij hebt, je gelukkig door voelt of wat je verfrist om productief te blijven.
