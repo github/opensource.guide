@@ -70,10 +70,10 @@ Als het onderhouden van uw project parttime of puur vrijwillig is, wees dan eerl
 
 Hier zijn een paar regels die het waard zijn om op te schrijven:
 
-* Hoe een bijdrage wordt beoordeeld en geaccepteerd (_Hebben ze tests nodig? Een issue-sjabloon? _)
-* De soorten bijdragen die je accepteert (_Wil je alleen hulp bij een bepaald deel van je code? _)
-* Wanneer het gepast is om op te volgen (_bijvoorbeeld: "U kunt binnen 7 dagen een reactie van een onderhouder verwachten. Als u tegen die tijd niets heeft gehoord, kunt u de discussie pingen." _)
-* Hoeveel tijd u aan het project besteedt (_bijvoorbeeld: "We besteden slechts ongeveer 5 uur per week aan dit project" _)
+* Hoe een bijdrage wordt beoordeeld en geaccepteerd (_Hebben ze tests nodig? Een issue-sjabloon?_)
+* De soorten bijdragen die je accepteert (_Wil je alleen hulp bij een bepaald deel van je code?_)
+* Wanneer het gepast is om op te volgen (_bijvoorbeeld: "U kunt binnen 7 dagen een reactie van een onderhouder verwachten. Als u tegen die tijd niets heeft gehoord, kunt u de discussie pingen."_)
+* Hoeveel tijd u aan het project besteedt (_bijvoorbeeld: "We besteden slechts ongeveer 5 uur per week aan dit project"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), en [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) zijn verschillende voorbeelden van projecten met basisregels voor beheerders en bijdragers.
 
