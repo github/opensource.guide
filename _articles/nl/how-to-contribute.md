@@ -21,206 +21,217 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Door aan \[freenode\] te werken, heb ik veel van de vaardigheden verworven die ik later gebruikte voor mijn studie aan de universiteit en mijn huidige baan. Ik denk dat werken aan open source-projecten mij net zo goed helpt als het project!
+  
+  _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Waarom ik graag bijdraag aan open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Bijdragen aan open source kan een lonende manier zijn om te leren, les te geven en ervaring op te doen met vrijwel elke vaardigheid die je maar kunt bedenken.
 
-Why do people contribute to open source? Plenty of reasons!
+Waarom dragen mensen bij aan open source? Redenen genoeg!
 
-### Improve software you rely on
+### Verbeter de software waarop u vertrouwt
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Veel open source-bijdragers beginnen door gebruikers te zijn van software waaraan ze bijdragen. Als je een bug vindt in open source-software die je gebruikt, wil je misschien naar de bron kijken om te zien of je deze zelf kunt patchen. Als dat het geval is, is het bijdragen van de patch de beste manier om ervoor te zorgen dat uw vrienden (en uzelf wanneer u een update naar de volgende release uitvoert) hiervan kunnen profiteren.
 
-### Improve existing skills
+### Verbeter bestaande vaardigheden
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Of het nu gaat om codering, ontwerp van gebruikersinterface, grafisch ontwerp, schrijven of organiseren, als u op zoek bent naar oefening, is er een taak voor u in een open source-project.
 
-### Meet people who are interested in similar things
+### Ontmoet mensen die geïnteresseerd zijn in soortgelijke dingen
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Open source-projecten met warme, gastvrije gemeenschappen zorgen ervoor dat mensen jarenlang terug blijven komen. Veel mensen vormen vriendschappen voor het leven door deel te nemen aan open source, of ze nu elkaar tegenkomen op conferenties of 's avonds laat online chats over burrito's.
 
-### Find mentors and teach others
+### Vind mentoren en leer anderen
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Als je met anderen aan een gedeeld project werkt, moet je uitleggen hoe je de dingen doet, en ook andere mensen om hulp vragen. Het leren en onderwijzen kan voor alle betrokkenen een bevredigende activiteit zijn.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Bouw openbare artefacten waarmee u een reputatie (en een carrière) kunt opbouwen
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+Al uw open source-werk is per definitie openbaar, wat betekent dat u gratis voorbeelden krijgt die u overal mee naartoe kunt nemen als demonstratie van wat u kunt doen.
 
-### Learn people skills
+### Leer de vaardigheden van mensen
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+Open source biedt mogelijkheden om leiderschaps- en managementvaardigheden te oefenen, zoals het oplossen van conflicten, het organiseren van teams van mensen en het prioriteren van werk.
 
-### It's empowering to be able to make changes, even small ones
+### Het geeft kracht om veranderingen aan te brengen, zelfs kleine
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+U hoeft geen levenslange donateur te worden om te genieten van deelname aan open source. Heb je ooit een typefout op een website gezien en zou je willen dat iemand het zou repareren? Bij een open source-project kunt u precies dat doen. Open source helpt mensen keuzevrijheid te voelen over hun leven en hoe zij de wereld ervaren, en dat is op zichzelf al verheugend.
 
 ## Wat het betekent om bij te dragen
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+Als u een nieuwe open source-bijdrager bent, kan het proces intimiderend zijn. Hoe vind je het juiste project? Wat als u niet weet hoe u moet coderen? Wat als er iets mis gaat?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Geen zorgen! Er zijn allerlei manieren om betrokken te raken bij een open source-project, en een paar tips zullen u helpen het meeste uit uw ervaring te halen.
 
-### You don't have to contribute code
+### U hoeft geen code bij te dragen
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+Een veel voorkomende misvatting over bijdragen aan open source is dat je code moet bijdragen. In feite zijn het vaak de andere delen van een project die [het meest worden verwaarloosd of over het hoofd gezien](https://github.com/blog/2195-the-shape-of-open-source). Je doet het project een _grote_ gunst door aan te bieden mee te werken met dit soort bijdragen!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  Ik sta bekend om mijn werk aan CocoaPods, maar de meeste mensen weten niet dat ik eigenlijk geen echt werk aan de CocoaPods-tool zelf doe. Mijn tijd aan het project besteed ik voornamelijk aan zaken als documentatie en branding.
+  
+  _I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
+  
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Standaard naar OSS gaan"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige manier om bij een project betrokken te raken en andere leden van de gemeenschap te ontmoeten. Door die relaties op te bouwen, krijg je de kans om aan andere delen van het project te werken.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  Ik nam voor het eerst contact op met het Python-ontwikkelingsteam (ook bekend als python-dev) toen ik de mailinglijst op 17 juni 2002 e-mailde over het accepteren van mijn patch. Ik ontdekte snel de open source-bug en besloot om e-mailsamenvattingen voor de groep te gaan beheren. Ze gaven me een geweldig excuus om opheldering over een onderwerp te vragen, maar kritischer merkte ik dat iemand op iets wees dat moest worden opgelost.
+  
+  _I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing._
+  
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### Do you like planning events?
+### Houd je van het plannen van evenementen?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* Organiseer workshops of meetups over het project, [zoals @fzamperin deed voor NodeSchool](https://github.com/nodeschool/organizers/issues/406)
+* Organiseer de conferentie van het project (als ze er een hebben)
+* Help leden van de gemeenschap de juiste conferenties te vinden en presenteer voorstellen om te spreken
 
-### Do you like to design?
+### Houd je van ontwerpen?
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* Herstructureer lay-outs om de bruikbaarheid van het project te verbeteren
+* Voer gebruikersonderzoek uit om de navigatie of menu's van het project te reorganiseren en te verfijnen [zoals Drupal suggereert](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Stel een stijlgids samen om het project te helpen een consistent visueel ontwerp te hebben
+* Maak kunst voor t-shirts of een nieuw logo, [zoals de bijdragers van hapi.js deden](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### Vind je het leuk om te schrijven?
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* Schrijf en verbeter de projectdocumentatie
+* Beheer een map met voorbeelden die laten zien hoe het project wordt gebruikt
+* Start een nieuwsbrief voor het project of cureer hoogtepunten uit de mailinglijst
+* Schrijf tutorials voor het project, [zoals de bijdragers van PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Schrijf een vertaling voor de documentatie van het project
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  Serieus, \[documentatie\] is enorm belangrijk. De documentatie tot nu toe was geweldig en was een geweldige eigenschap van Babel. Er zijn secties die zeker wat werk kunnen gebruiken en zelfs de toevoeging van een alinea hier of daar wordt enorm gewaardeerd.
+  
+  _Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated._
+  
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["Roep bijdragers op"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### Houd je van organiseren?
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* Link naar dubbele problemen en stel nieuwe labels voor om alles georganiseerd te houden
+* Doorloop openstaande issues en stel voor om oude te sluiten, [zoals @nzakas deed voor ESLint](https://github.com/eslint/eslint/issues/6765)
+* Stel verhelderende vragen over recent geopende kwesties om de discussie vooruit te helpen
 
-### Do you like to code?
+### Vind je het leuk om te coderen?
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* Zoek een openstaand probleem om aan te pakken, [zoals @dianjin deed voor Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* Vraag of u kunt helpen bij het schrijven van een nieuwe functie
+* Automatiseer het opzetten van projecten
+* Verbeter tooling en testen
 
-### Do you like helping people?
+### Vind je het leuk om mensen te helpen?
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* Beantwoord vragen over het project op bijvoorbeeld Stack Overflow ([zoals dit Postgres-voorbeeld] (https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) of Reddit
+* Beantwoord vragen voor mensen over openstaande kwesties
+* Help de discussieborden of gesprekskanalen te modereren
 
-### Do you like helping others code?
+### Vind je het leuk om anderen te helpen bij het coderen?
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* Beoordeel code inzendingen van andere mensen
+* Schrijf tutorials over hoe een project kan worden gebruikt
+* Aanbieding om een andere bijdrager te begeleiden, [zoals @ereichert deed voor @bronzdoc op Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### U hoeft niet alleen aan softwareprojecten te werken!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+Hoewel "open source" vaak verwijst naar software, kunt u aan vrijwel alles samenwerken. Er zijn boeken, recepten, lijsten en klassen die worden ontwikkeld als open source-projecten.
 
-For example:
+Bijvoorbeeld:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus beheert een [lijst met "geweldige" lijsten](https://github.com/sindresorhus/awesome)
+* @h5bp houdt een [lijst met potentiële interviewvragen](https://github.com/h5bp/Front-end-Developer-Interview-Questions) bij voor front-end ontwikkelaarskandidaten
+* @stuartlynn en @nicole-a-tesla hebben een [verzameling leuke weetjes over papegaaiduikers](https://github.com/stuartlynn/puffin_facts) gemaakt
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+Zelfs als u een softwareontwikkelaar bent, kan het werken aan een documentatieproject u helpen aan de slag te gaan in open source. Het is vaak minder intimiderend om aan projecten te werken waarbij geen code wordt gebruikt, en het samenwerkingsproces zal uw vertrouwen en ervaring vergroten.
 
 ## Je oriënteren op een nieuw project
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  Als je naar een issue-tracker gaat en de dingen verwarrend lijken, ben jij het niet alleen. Deze tools vereisen veel impliciete kennis, maar mensen kunnen je helpen er doorheen te navigeren en je kunt ze vragen stellen.
   <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+— @shaunagm, ["Hoe u kunt bijdragen aan Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+Voor meer dan een typefout is bijdragen aan open source net zoiets als naar een groep vreemden lopen op een feestje. Als je over lama's begint te praten, terwijl ze diep in een discussie over goudvissen zaten, zullen ze je waarschijnlijk een beetje vreemd aankijken.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+Voordat u blindelings met uw eigen suggesties begint, moet u eerst leren hoe u de kamer moet lezen. Hierdoor vergroot u de kans dat uw ideeën worden opgemerkt en gehoord.
 
-### Anatomy of an open source project
+### Anatomie van een open source-project
 
-Every open source community is different.
+Elke open source-community is anders.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Jarenlang aan één open source-project besteden, betekent dat je één open source-project hebt leren kennen. Ga naar een ander project en je zult misschien ontdekken dat de woordenschat, normen en communicatiestijlen totaal verschillend zijn.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+Dat gezegd hebbende, veel open source-projecten volgen een vergelijkbare organisatiestructuur. Als u de verschillende rollen van de gemeenschap en het algehele proces begrijpt, kunt u zich snel op elk nieuw project oriënteren.
 
-A typical open source project has the following types of people:
+Een typisch open source-project heeft de volgende soorten mensen:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction
+* **Auteur:** De persoon/personen of organisatie die het project heeft gemaakt
+* **Eigenaar:** De persoon/personen die het administratieve eigendom hebben over de organisatie of opslagplaats (niet altijd dezelfde als de oorspronkelijke auteur)
+* **Beheerders:** medewerkers die verantwoordelijk zijn voor het aansturen van de visie en het managen van de organisatorische aspecten van het project (ze kunnen ook auteurs of eigenaren van het project zijn.)
+* **Bijdragers:** Iedereen die iets heeft bijgedragen aan het project
+* **Communityleden:** Mensen die het project gebruiken. Ze kunnen actief zijn in gesprekken of hun mening geven over de richting van het project
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+Grotere projecten kunnen ook subcommissies of werkgroepen hebben die zich richten op verschillende taken, zoals tooling, triage, community-moderatie en het organiseren van evenementen. Kijk op de website van een project voor een "team"-pagina of in de repository voor bestuursdocumentatie om deze informatie te vinden.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+Een project heeft ook documentatie. Deze bestanden worden meestal op het hoogste niveau van een repository vermeld.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **LICENSE:** Per definitie moet elk open source project een [open source licentie](https://choosealicense.com) hebben. Als het project geen licentie heeft, is het geen open source.
+* **README:** De README is de instructiehandleiding die nieuwe gemeenschapsleden verwelkomt bij het project. Het legt uit waarom het project nuttig is en hoe u ermee kunt beginnen.
+* **CONTRIBUTORS:** Terwijl README's mensen helpen het project te _gebruiken_, helpen bijdragende documenten mensen _bij te dragen_ aan het project. Het legt uit welke soorten bijdragen nodig zijn en hoe het proces werkt. Hoewel niet elk project een CONTRIBUTING-bestand heeft, geeft de aanwezigheid ervan aan dat dit een welkom project is om aan bij te dragen.
+* **CODE_OF_CONDUCT:** De gedragscode stelt basisregels vast voor het bijbehorende gedrag van deelnemers en helpt om een ​​vriendelijke, gastvrije omgeving mogelijk te maken. Hoewel niet elk project een CODE_OF_CONDUCT-bestand heeft, geeft de aanwezigheid ervan aan dat dit een welkom project is om aan bij te dragen.
+* **Andere documentatie:** Er kan aanvullende documentatie zijn, zoals tutorials, walkthroughs of governance-beleid, vooral bij grotere projecten.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Ten slotte gebruiken open source-projecten de volgende tools om discussies te organiseren. Als je de archieven doorleest, krijg je een goed beeld van hoe de gemeenschap denkt en werkt.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Issue tracker:** waar mensen problemen bespreken die verband houden met het project.
+* **Pull-verzoeken:** waar mensen wijzigingen bespreken en beoordelen die aan de gang zijn.
+* **Discussieforums of mailinglijsten** Sommige projecten kunnen deze kanalen gebruiken voor gespreksonderwerpen (bijvoorbeeld _"Hoe kan ik ..."_ of _"Waar denk je aan ..."_ in plaats van bugs rapporten of functieverzoeken). Anderen gebruiken de issue tracker voor alle gesprekken.
+* **Synchroon chatkanaal:** Sommige projecten gebruiken chatkanalen (zoals Slack of IRC) voor informele gesprekken, samenwerking en snelle uitwisselingen.
 
 ## Een project vinden om aan bij te dragen
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+Nu je weet hoe open source-projecten werken, is het tijd om een ​​project te vinden waaraan je kunt bijdragen!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+Als je nog nooit eerder hebt bijgedragen aan open source, neem dan wat advies in van de Amerikaanse president John F. Kennedy, die ooit zei: _"Vraag niet wat uw land voor u kan doen - vraag wat u voor uw land kunt doen."_
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+Bijdragen aan open source gebeurt op alle niveaus, over projecten heen. U hoeft niet te veel na te denken over wat uw eerste bijdrage precies zal zijn, of hoe deze eruit zal zien.
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+Begin in plaats daarvan met nadenken over de projecten die u al gebruikt of wilt gebruiken. De projecten waaraan u actief bijdraagt, zijn de projecten waar u naar terugkeert.
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+Wanneer je binnen die projecten merkt dat je denkt dat iets beter of anders kan, handel dan naar je instinct.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+Open source is geen exclusieve club; het is gemaakt door mensen zoals jij. "Open source" is gewoon een mooie term om de problemen van de wereld als herstelbaar te behandelen.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+U kunt een README lezen en een incorrecte link of typefout vinden. Of je bent een nieuwe gebruiker en je hebt gemerkt dat er iets kapot is, of een probleem waarvan je denkt dat het echt in de documentatie zou moeten staan. In plaats van het te negeren en verder te gaan, of iemand anders te vragen om het op te lossen, kijk of je kunt helpen door mee te doen. Dat is waar het bij open source om draait!
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% van de losse bijdragen](https://www.igor.pro.br/publica/papers/saner2016.pdf) aan open source zijn documentatie, zoals een typefout, herformattering of het schrijven van een vertaling.
 
-If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+Als u op zoek bent naar bestaande problemen die u kunt oplossen, heeft elk open source-project een '/ contribute'-pagina die beginnersvriendelijke problemen belicht waarmee u kunt beginnen. Navigeer naar de hoofdpagina van de repository op GitHub en voeg '/ contribute' toe aan het einde van de URL (bijvoorbeeld [`https://github.com/facebook/react/contribute`](https://github.com/facebook/contribute/contribute)).
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekken van en bijdragen aan nieuwe projecten:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -232,43 +243,43 @@ You can also use one of the following resources to help you discover and contrib
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://www.sourcesort.com/)
 
-### A checklist before you contribute
+### Een checklist voordat u bijdraagt
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+Als je een project hebt gevonden waaraan je zou willen bijdragen, doe dan een snelle scan om er zeker van te zijn dat het project geschikt is om bijdragen te accepteren. Anders krijgt uw harde werk misschien nooit een reactie.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+Hier is een handige checklist om te evalueren of een project goed is voor nieuwe bijdragers.
 
-**Meets the definition of open source**
+**Voldoet aan de definitie van open source**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, there is a file called LICENSE in the root of the repository.
+  Heeft het een licentie? Gewoonlijk is er een bestand met de naam LICENSE in de root van de repository.
   </label>
 </div>
 
-**Project actively accepts contributions**
+**Project accepteert actief bijdragen**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Kijk naar de commit-activiteit op de main branch. Op GitHub kun je deze informatie zien op de startpagina van een repository.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  Wanneer was de laatste commit?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  Hoeveel bijdragers heeft het project?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  Hoe vaak commiten mensen? (Op GitHub kun je dit vinden door op "Commits" in de bovenste balk te klikken.)
   </label>
 </div>
 
@@ -277,259 +288,268 @@ Next, look at the project's issues.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    Hoeveel openstaande issues zijn er?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    Reageren beheerders snel op issues wanneer ze worden geopend?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    Is er een actieve discussie over de issues?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    Zijn de issues recent?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    Worden problemen gesloten? (Klik op GitHub op het tabblad "closed" op de pagina Issues om gesloten problemen te zien.)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Doe nu hetzelfde voor de pull-verzoeken van het project.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    Hoeveel openstaande pull-aanvragen zijn er?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    Reageren beheerders snel op pull-verzoeken wanneer ze worden geopend?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    Is er actieve discussie over de pull-aanvragen?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    Zijn de pull-aanvragen recent?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    Hoe recent zijn pull-verzoeken samengevoegd? (Klik op GitHub op het tabblad "closed" op de pagina Pull Requests om gesloten PR's te zien.)
   </label>
 </div>
 
-**Project is welcoming**
+**Project is gastvrij**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+Een project dat vriendelijk en gastvrij is, geeft aan dat ze ontvankelijk zullen zijn voor nieuwe bijdragers.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    Reageren de beheerders behulpzaam op vragen in problemen?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+    Zijn mensen vriendelijk in de problemen, het discussieforum en de chat (bijvoorbeeld IRC of Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    Worden pull-aanvragen beoordeeld?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    Bedanken onderhouders mensen voor hun bijdragen?
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  Elke keer dat je een lange thread ziet, controleer dan de reacties van kernontwikkelaars die laat in de thread komen. Vatten ze constructief samen en ondernemen ze stappen om de rode draad tot een beslissing te brengen terwijl ze beleefd blijven? Als je veel vlammenoorlogen ziet plaatsvinden, is dat vaak een teken dat energie in discussie gaat in plaats van in ontwikkeling.
+  
+  _Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development._
+  
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
+— @kfogel, [_OSS Produceren_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
 ## Hoe u een bijdrage kunt indienen
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+Je hebt een project gevonden dat je leuk vindt en je bent klaar om een bijdrage te leveren. Tenslotte! Hier leest u hoe u uw bijdrage op de juiste manier krijgt.
 
-### Communicating effectively
+### Effectief communiceren
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+Of je nu een eenmalige bijdrage levert of probeert lid te worden van een community, samenwerken met anderen is een van de belangrijkste vaardigheden die je in open source zult ontwikkelen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[Als nieuwe bijdrager\] realiseerde ik me al snel dat ik vragen moest stellen als ik het probleem wilde sluiten. Ik bladerde door de codebasis. Toen ik eenmaal een idee had van wat er aan de hand was, vroeg ik om meer richting. En voilà! Ik kon het probleem oplossen nadat ik alle relevante details had gekregen die ik nodig had.
+  
+  _\[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed._
+  
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+— @shubheksha, [Een hobbelige reis voor beginners door de wereld van open source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Houd deze punten in gedachten voordat u een probleem of pull-aanvraag opent of een vraag stelt in de chat, zodat uw ideeën effectief overkomen.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**Geef context.** Help anderen om snel aan de slag te gaan. Als u een fout tegenkomt, leg dan uit wat u probeert te doen en hoe u deze kunt reproduceren. Als je een nieuw idee voorstelt, leg dan uit waarom je denkt dat het nuttig zou zijn voor het project (niet alleen voor jou!).
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"X gebeurt niet wanneer ik Y doe"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X is kapot! Los het probleem op."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Maak van tevoren je huiswerk.** Het is oké om dingen niet te weten, maar laat zien dat je het geprobeerd hebt. Voordat u om hulp vraagt, moet u de README, documentatie, problemen (open of gesloten), mailinglijst van een project raadplegen en op internet naar een antwoord zoeken. Mensen zullen het waarderen als je laat zien dat je probeert te leren.
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"Ik weet niet zeker hoe ik X moet implementeren. Ik heb de helpdocumenten gecontroleerd en geen vermeldingen gevonden."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"Hoe kan ik X?"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**Houd verzoeken kort en direct.** Net als bij het verzenden van een e-mail, vereist elke bijdrage, hoe eenvoudig of nuttig ook, de beoordeling van iemand anders. Veel projecten hebben meer inkomende verzoeken dan mensen die beschikbaar zijn om te helpen. Wees beknopt. Je vergroot de kans dat iemand je kan helpen.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"Ik zou graag een API-tutorial willen schrijven."_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"Ik reed onlangs over de snelweg en stopte om te tanken, en toen had ik een geweldig idee voor iets dat we zouden moeten doen, maar voordat ik dat uitleg, wil ik je laten zien ..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**Houd alle communicatie openbaar.** Hoewel het verleidelijk is, moet u niet privé contact opnemen met beheerders, tenzij u gevoelige informatie moet delen (zoals een beveiligingsprobleem of een ernstige schending van het gedrag). Als u het gesprek openbaar houdt, kunnen meer mensen leren en profiteren van uw uitwisseling. Discussies kunnen op zichzelf bijdragen zijn.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(als commentaar) "@-maintainer Hallo! Hoe gaan we verder met deze PR?"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 _(als e-mail) "Hallo, sorry dat ik je stoor via e-mail, maar ik vroeg me af of je de kans hebt gehad om mijn PR te herzien"_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**Het is oké om vragen te stellen (maar wees geduldig!).** Iedereen was op een gegeven moment nieuw in het project en zelfs ervaren bijdragers moeten op de hoogte zijn als ze naar een nieuw project kijken. Op dezelfde manier zijn zelfs langdurige beheerders niet altijd bekend met elk onderdeel van het project. Toon ze hetzelfde geduld dat je zou willen dat ze je tonen.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"Bedankt voor het onderzoeken van deze fout. Ik heb uw suggesties gevolgd. Hier is de uitvoer."_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"Waarom kun je mijn probleem niet oplossen? Is dit niet jouw project?"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**Respecteer gemeenschapsbeslissingen.** Uw ideeën kunnen verschillen van de prioriteiten of visie van de gemeenschap. Ze kunnen feedback geven of besluiten uw idee niet na te streven. Terwijl u moet discussiëren en zoeken naar een compromis, moeten beheerders langer met uw beslissing leven dan u wilt. Als je het niet eens bent met hun richting, kun je altijd aan je eigen vork werken of je eigen project starten.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"Ik ben teleurgesteld dat je mijn use case niet kunt ondersteunen, maar zoals je hebt uitgelegd, heeft het slechts invloed op een klein deel van de gebruikers, ik begrijp waarom. Bedankt voor het luisteren."_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"Waarom steun je mijn use case niet? Dit is onaanvaardbaar!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**Houd het vooral netjes.** Open source bestaat uit medewerkers van over de hele wereld. Context gaat verloren in talen, culturen, geografische gebieden en tijdzones. Bovendien maakt schriftelijke communicatie het moeilijker om een ​​toon of stemming over te brengen. Ga in deze gesprekken uit van goede bedoelingen. Het is prima om beleefd terug te komen op een idee, om meer context te vragen of je standpunt verder te verduidelijken. Probeer gewoon het internet op een betere plek achter te laten dan toen u het vond.
 
-### Gathering context
+### Context verzamelen
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+Voordat u iets doet, controleert u eerst of uw idee nergens anders is besproken. Bekijk de README, problemen (open en gesloten), mailinglijst en Stack Overflow van het project. Je hoeft geen uren te besteden aan het doornemen van alles, maar een snelle zoektocht naar een paar sleutelbegrippen gaat ver.
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+Als u uw idee nergens anders kunt vinden, bent u klaar om een ​​stap te zetten. Als het project op GitHub staat, communiceer je waarschijnlijk door een issue of pull request te openen:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Problemen/Issues** zijn als het starten van een gesprek of discussie
+* **Pull-aanvragen** zijn bedoeld om aan een oplossing te beginnen
+* **Voor eenvoudige communicatie**, zoals een verhelderende of how-to-vraag, kunt u vragen stellen op Stack Overflow, IRC, Slack of andere chatkanalen, als het project er een heeft
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+Voordat je een issue of pull request opent, controleer je de bijdragende documenten van het project (meestal een bestand genaamd CONTRIBUTING, of in de README), om te zien of je iets specifieks moet opnemen. Ze kunnen u bijvoorbeeld vragen een sjabloon te volgen, of eisen dat u tests gebruikt.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+Als je een substantiële bijdrage wilt leveren, open dan een vraagstuk voordat je eraan gaat werken. Het is handig om het project een tijdje te bekijken (op GitHub, [u kunt op "Bekijken" klikken](https://help.github.com/articles/watching-repositories/) om op de hoogte te worden gehouden van alle gesprekken), en ken de leden van de gemeenschap voordat u werk gaat doen dat misschien niet wordt geaccepteerd.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  Je leert <em>veel</em> door een enkel project te nemen dat je actief gebruikt, het op GitHub te "bekijken" en elk nummer en PR te lezen.
+  
+  _You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR._
+  
 <p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+— @gaearon [over deelname aan projecten](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
-### Opening an issue
+### Een issue openen
 
-You should usually open an issue in the following situations:
+U zou gewoonlijk een probleem (_issue_) moeten openen in de volgende situaties:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Meld een fout die u niet zelf kunt oplossen
+* Bespreek een onderwerp of idee op hoog niveau (bijvoorbeeld gemeenschap, visie of beleid)
+* Stel een nieuwe functie of ander projectidee voor
 
-Tips for communicating on issues:
+Tips voor het communiceren over problemen:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **Als u een openstaand probleem ziet dat u wilt aanpakken,** geef dan commentaar op het probleem om mensen te laten weten dat u ermee bezig bent. Op die manier is de kans kleiner dat mensen uw werk dupliceren.
+* **Als een probleem een tijdje geleden is geopend,** is het mogelijk dat het ergens anders wordt aangepakt of al is opgelost, dus reageer om bevestiging te vragen voordat u aan het werk gaat.
+* **Als je een probleem hebt geopend, maar het antwoord later zelf hebt bedacht,** geef dan commentaar op het probleem om mensen dit te laten weten en sluit het probleem vervolgens. Zelfs het documenteren van die uitkomst is een bijdrage aan het project.
 
-### Opening a pull request
+### Een pull-verzoek openen
 
-You should usually open a pull request in the following situations:
+U moet gewoonlijk een pull-aanvraag openen in de volgende situaties:
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* Voer triviale reparaties in (bijvoorbeeld een typefout, een verbroken link of een duidelijke fout)
+* Ga aan de slag met een bijdrage waar al om is gevraagd, of die je al hebt besproken in een issue
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+Een pull-verzoek hoeft niet het voltooide werk te vertegenwoordigen. Het is meestal beter om vroegtijdig een pull-verzoek te openen, zodat anderen uw voortgang kunnen bekijken of feedback kunnen geven. Markeer het gewoon als een "WIP" (Work in Progress) in de onderwerpregel. Je kunt later altijd meer commits toevoegen.
 
-If the project is on GitHub, here's how to submit a pull request:
+Als het project op GitHub staat, kun je als volgt een pull-aanvraag indienen:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Fork the repository](https://guides.github.com/activities/forking/)** en kloon het lokaal. Verbind uw locale met de originele "upstream" repository door deze toe te voegen als een remote. Haal vaak wijzigingen van "upstream" binnen, zodat u up-to-date blijft, zodat wanneer u uw pull-verzoek indient, samenvoegingsconflicten minder waarschijnlijk zijn. (Zie meer gedetailleerde instructies [hier](https://help.github.com/articles/syncing-a-fork/).)
+* **[Maak een branch aan](https://guides.github.com/introduction/flow/)** voor uw bewerkingen.
+* **Verwijs naar relevante problemen (_issues_)** of ondersteunende documentatie in uw PR (bijvoorbeeld 'Closes #37'.)
+* **Voeg schermafbeeldingen toe van de voor en na** als uw wijzigingen verschillen in HTML / CSS bevatten. Sleep de afbeeldingen naar de hoofdtekst van uw pull-aanvraag.
+* **Test uw wijzigingen!** Voer uw wijzigingen uit met bestaande tests als deze bestaan ​​en maak nieuwe aan als dat nodig is. Of er tests bestaan ​​of niet, zorg ervoor dat uw wijzigingen het bestaande project niet verstoren.
+* **Draag zo goed mogelijk bij in de stijl van het project**. Dit kan betekenen dat u inspringingen, puntkomma's of commentaren anders moet gebruiken dan in uw eigen repository, maar het maakt het gemakkelijker voor de onderhouder om samen te voegen, zodat anderen het begrijpen en onderhouden in de toekomst.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
+Als dit je eerste pull-verzoek is, bekijk dan [Maak een  Pull Request](http://makeapullrequest.com/), dat @kentcdodds heeft gemaakt als een walkthrough video-tutorial. Je kunt ook oefenen met het maken van een pull-verzoek in de [First Contributions](https://github.com/Roshanjossey/first-contributions) repo, gemaakt door @Roshanjossey.
 
 ## Wat gebeurt er nadat u een bijdrage heeft ingeleverd?
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Je hebt het gedaan! Gefeliciteerd met het worden van een open source-bijdrager. We hopen dat dit de eerste van vele is.
 
-After you submit a contribution, one of the following will happen:
+Nadat u een bijdrage heeft ingeleverd, gebeurt een van de volgende zaken:
 
-### 😭 You don't get a response.
+### 😭 U krijgt geen antwoord.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Hopelijk heb je [het project gecontroleerd op tekenen van een checklist voordat je bijdraagt](#een-checklist-voordat-u-bijdraagt) voordat je een bijdrage levert. Zelfs bij een actief project is het echter mogelijk dat uw bijdrage geen reactie krijgt.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+Als je al meer dan een week geen reactie hebt gekregen, is het redelijk om beleefd te reageren in dezelfde thread en iemand om een ​​recensie te vragen. Als u de naam kent van de juiste persoon om uw bijdrage te beoordelen, kunt u deze @-vermelding in die thread.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**Reik niet** privé naar die persoon; Onthoud dat openbare communicatie essentieel is voor open source-projecten.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+Als je een beleefde hobbel maakt en nog steeds niemand reageert, is het mogelijk dat niemand ooit zal reageren. Het is geen geweldig gevoel, maar laat dat je niet ontmoedigen. Het is iedereen overkomen! Er zijn veel mogelijke redenen waarom u geen reactie heeft gekregen, waaronder persoonlijke omstandigheden waar u mogelijk geen controle over heeft. Probeer een ander project of een andere manier te vinden om bij te dragen. Dit is in ieder geval een goede reden om niet te veel tijd te investeren in het leveren van een bijdrage voordat andere leden van de gemeenschap betrokken en responsief zijn.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Iemand vraagt ​​om wijzigingen in uw bijdrage.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+Het komt vaak voor dat u wordt gevraagd om wijzigingen aan te brengen in uw bijdrage, of dat nu feedback is over de reikwijdte van uw idee of wijzigingen in uw code.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+Reageer als iemand om veranderingen vraagt. Ze hebben de tijd genomen om uw bijdrage te herzien. Een PR openen en weglopen is een slechte vorm. Als u niet weet hoe u wijzigingen moet aanbrengen, onderzoek dan het probleem en vraag indien nodig om hulp.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+Als je geen tijd meer hebt om aan de kwestie te werken (bijvoorbeeld als het gesprek al maanden aan de gang is en je omstandigheden zijn veranderd), laat het de beheerder dan weten, zodat hij geen reactie verwacht. Iemand anders neemt het misschien graag over.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Uw bijdrage wordt niet geaccepteerd.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+Uw bijdrage kan uiteindelijk wel of niet worden geaccepteerd. Hopelijk heb je er niet al te veel werk in gestoken. Als u niet zeker weet waarom het niet werd geaccepteerd, is het volkomen redelijk om de beheerder om feedback en opheldering te vragen. Uiteindelijk moet u echter respecteren dat dit hun beslissing is. Maak geen ruzie en word niet vijandig. Je bent altijd welkom om te fork en aan je eigen versie te werken als je het niet eens bent!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Uw bijdrage wordt geaccepteerd.
 
-Hooray! You've successfully made an open source contribution!
+Hoera! Je hebt met succes een open source bijdrage geleverd!
 
-## You did it!
+## Je hebt het gedaan!
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Of je nu net je eerste open source-bijdrage hebt geleverd of op zoek bent naar nieuwe manieren om bij te dragen, we hopen dat je geïnspireerd bent om actie te ondernemen. Zelfs als uw bijdrage niet werd geaccepteerd, vergeet dan niet te bedanken wanneer een onderhouder moeite heeft gedaan om u te helpen. Open source wordt gemaakt door mensen zoals jij: één probleem, pull-verzoek, opmerking of high-five tegelijk.
