@@ -132,7 +132,7 @@ Doe je best om een nultolerantiebeleid te voeren ten aanzien van dit soort mense
 
 Regelmatige debatten over triviale aspecten van uw project leiden anderen, waaronder u, af om zich op belangrijke taken te concentreren. Nieuwe mensen die naar uw project komen, kunnen deze gesprekken zien en willen niet deelnemen.
 
-Als u negatief gedrag in uw project ziet gebeuren, meld dit dan in het openbaar. Leg op vriendelijke maar krachtige toon uit waarom hun gedrag niet acceptabel is. Als het probleem aanhoudt, kan het nodig zijn [om te vragen om te vertrekken](../code-of-conduct/#enforcing-your-code-of-conduct). Uw [gedragsregels](../code-of-conduct/) kan een constructieve gids zijn voor deze gesprekken.
+Als u negatief gedrag in uw project ziet gebeuren, meld dit dan in het openbaar. Leg op vriendelijke maar krachtige toon uit waarom hun gedrag niet acceptabel is. Als het probleem aanhoudt, kan het nodig zijn [om te vragen om te vertrekken](../code-of-conduct/#handhaving-van-uw-gedragscode). Uw [gedragsregels](../code-of-conduct/) kan een constructieve gids zijn voor deze gesprekken.
 
 ### Ontmoet bijdragers waar ze zijn
 

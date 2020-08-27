@@ -1,14 +1,14 @@
 ---
 lang: nl
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+title: Uw gedragscode
+description: Faciliteer gezond en constructief gedrag in de gemeenschap door een gedragscode aan te nemen en af te dwingen.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
-  your-responsibilities-as-a-maintainer: "Your responsibilities as a maintainer"
+  why-do-i-need-a-code-of-conduct: "Waarom heb ik een gedragscode nodig?"
+  establishing-a-code-of-conduct: "Opstellen van een gedragscode"
+  deciding-how-youll-enforce-your-code-of-conduct: "Beslissen hoe u uw gedragscode handhaaft"
+  enforcing-your-code-of-conduct: "Handhaving van uw gedragscode"
+  your-responsibilities-as-a-maintainer: "Uw verantwoordelijkheden als open source-onderhouder"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -16,15 +16,15 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## Waarom heb ik een gedragscode nodig?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Een gedragscode is een document waarin de verwachtingen voor het gedrag van de deelnemers aan uw project worden vastgelegd. Door een gedragscode aan te nemen en af te dwingen, kunt u een positieve sociale sfeer voor uw gemeenschap creëren.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Gedragscodes helpen niet alleen uw deelnemers te beschermen, maar ook uzelf. Als u een project onderhoudt, zult u merken dat een onproductieve houding van andere deelnemers u na verloop van tijd uitgeput of ongelukkig kan maken met uw werk.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Een gedragscode stelt je in staat om gezond, constructief gemeenschapsgedrag te faciliteren. Door proactief te zijn, wordt de kans kleiner dat u of anderen vermoeid raken door uw project, en kunt u actie ondernemen wanneer iemand iets doet waar u het niet mee eens bent.
 
-## Establishing a code of conduct
+## Opstellen van een gedragscode
 
 Try to establish a code of conduct as early as possible: ideally, when you first create your project.
 
@@ -41,80 +41,85 @@ The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Ci
 
 Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
 
-## Deciding how you'll enforce your code of conduct
+## Beslissen hoe u uw gedragscode handhaaft
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  Een gedragscode die niet (of niet) kan worden afgedwongen, is erger dan helemaal geen gedragscode: het geeft de boodschap af dat de waarden in de gedragscode niet echt belangrijk of gerespecteerd worden in uw gemeenschap.
+  
+  _A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community._
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+U moet uitleggen hoe uw gedragscode wordt gehandhaafd **_voordat_** een overtreding plaatsvindt. Er zijn verschillende redenen om dit te doen:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* Het toont aan dat u serieus actie onderneemt wanneer dat nodig is.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Uw gemeenschap zal zich meer gerustgesteld voelen dat klachten daadwerkelijk worden beoordeeld.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* U verzekert uw gemeenschap ervan dat het beoordelingsproces eerlijk en transparant is, mochten ze ooit worden onderzocht op een overtreding.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Geef mensen een privé manier (zoals een e-mailadres) om een schending van de gedragscode te melden en leg uit wie die melding ontvangt. Het kan een onderhouder, een groep beheerders of een werkgroep gedragscode zijn.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Vergeet niet dat iemand misschien een overtreding wil melden over een persoon die deze meldingen ontvangt. Geef ze in dat geval de mogelijkheid om overtredingen aan iemand anders te melden. Bijvoorbeeld @ctb en @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Gevallen van beledigend, intimiderend of anderszins onaanvaardbaar gedrag kunnen worden gemeld door een e-mail te sturen naar **khmer-project@idyll.org**, dat alleen naar C. Titus Brown en Michael R. Crusoe gaat. Om een probleem te melden waarbij een van hen betrokken is, kunt u een e-mail sturen naar **Judi Brown Clarke, Ph.D.** de Diversity Director van het BEACON Center for the Study of Evolution in Action, een NSF Center for Science and Technology.
+>
+> _Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*_
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+Voor inspiratie, bekijk Django's [handhavingshandboek](https://www.djangoproject.com/conduct/enforcement-manual/) (hoewel je zoiets alomvattends misschien niet nodig hebt, afhankelijk van de grootte van je project).
 
-## Enforcing your code of conduct
+## Handhaving van uw gedragscode
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Soms, ondanks uw beste inspanningen, zal iemand iets doen dat in strijd is met deze code. Er zijn verschillende manieren om negatief of schadelijk gedrag aan te pakken als het zich voordoet.
 
-### Gather information about the situation
+### Verzamel informatie over de situatie
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Behandel de stem van elk communitylid net zo belangrijk als die van jou. Als u een melding ontvangt dat iemand de gedragscode heeft geschonden, neem deze dan serieus en onderzoek de zaak, zelfs als deze niet overeenkomt met uw eigen ervaring met die persoon. Door dit te doen, geeft u uw gemeenschap aan dat u hun perspectief waardeert en hun oordeel vertrouwt.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+Het gemeenschapslid in kwestie kan een recidiverende overtreder zijn die anderen consequent een ongemakkelijk gevoel geeft, of ze hebben misschien maar één keer iets gezegd of gedaan. Beide kunnen aanleiding zijn om actie te ondernemen, afhankelijk van de context.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Geef uzelf de tijd om te begrijpen wat er is gebeurd voordat u reageert. Lees de eerdere opmerkingen en gesprekken van de persoon door om beter te begrijpen wie ze zijn en waarom ze zich misschien op zo'n manier hebben gedragen. Probeer andere dan de uwe perspectieven te verzamelen over deze persoon en zijn gedrag.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  Laat je niet verleiden tot ruzie. Laat u niet op een zijspoor zetten om met het gedrag van iemand anders om te gaan voordat u klaar bent met het afhandelen van de kwestie. Concentreer u op wat u nodig heeft.
+  
   <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+— Stephanie Zvan, ["Dus je hebt een beleid. Wat nu?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### Onderneem passende maatregelen
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+Nadat u voldoende informatie heeft verzameld en verwerkt, moet u beslissen wat u gaat doen. Bedenk bij het overwegen van uw volgende stappen dat het uw doel als moderator is om een ​​veilige, respectvolle en samenwerkende omgeving te creëren. Bedenk niet alleen hoe u met de situatie in kwestie om moet gaan, maar ook hoe uw reactie het gedrag en de verwachtingen van uw gemeenschap in de toekomst zal beïnvloeden.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Wanneer iemand een overtreding van de gedragscode meldt, is het uw taak, niet hun taak om ermee om te gaan. Soms geeft de melder informatie vrij die een groot risico inhoudt voor zijn carrière, reputatie of fysieke veiligheid. Door hen te dwingen hun dader te confronteren, zou de verslaggever in een compromitterende positie kunnen komen. U dient de directe communicatie met de persoon in kwestie af te handelen, tenzij de melder uitdrukkelijk anders verzoekt.
 
-There are a few ways you might respond to a code of conduct violation:
+Er zijn een paar manieren waarop u kunt reageren op een overtreding van de gedragscode:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Geef de persoon in kwestie een openbare waarschuwing** en leg uit hoe zijn gedrag een negatieve invloed heeft gehad op anderen, bij voorkeur in het kanaal waar het plaatsvond. Waar mogelijk maakt openbare communicatie aan de rest van de gemeenschap duidelijk dat u de gedragscode serieus neemt. Wees vriendelijk, maar standvastig in uw communicatie.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Neem persoonlijk contact op met de persoon in kwestie** om uit te leggen hoe zijn gedrag een negatieve invloed heeft op anderen. U kunt een privé-communicatiekanaal gebruiken als het om gevoelige persoonlijke informatie gaat. Als je privé met iemand communiceert, is het een goed idee om diegenen die de situatie voor het eerst hebben gemeld te CC te geven, zodat ze weten dat je actie hebt ondernomen. Vraag de melder om toestemming voordat u een CC invoert.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Soms kan er geen oplossing worden gevonden. De persoon in kwestie kan agressief of vijandig worden wanneer hij wordt geconfronteerd, of verandert zijn gedrag niet. In deze situatie kunt u overwegen om krachtigere maatregelen te nemen. Bijvoorbeeld:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Schorsing van de persoon** in kwestie van het project, afgedwongen door een tijdelijk verbod op deelname aan enig aspect van het project
 
-* **Permanently ban** the person from the project
+* **Bannen** de persoon permanent van het project
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+Het verbieden van leden moet niet lichtvaardig worden opgevat en vertegenwoordigt een permanent en onverenigbaar verschil in perspectieven. U dient deze maatregelen alleen te nemen als het duidelijk is dat er geen oplossing kan worden gevonden.
 
-## Your responsibilities as a maintainer
+## Uw verantwoordelijkheden als open source-onderhouder
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+Een gedragscode is geen wet die willekeurig wordt gehandhaafd. U bent de handhaver van de gedragscode en het is uw verantwoordelijkheid om de regels te volgen die in de gedragscode zijn vastgelegd.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+Als onderhouder stelt u de richtlijnen voor uw gemeenschap op en handhaaft u die richtlijnen volgens de regels die in uw gedragscode zijn uiteengezet. Dit betekent dat elke melding van een overtreding van de gedragscode serieus wordt genomen. De melder is een grondige en eerlijke beoordeling van zijn klacht verschuldigd. Als u vaststelt dat het gedrag dat zij hebben gemeld geen overtreding is, communiceer dat dan duidelijk aan hen en leg uit waarom u er geen actie tegen gaat ondernemen. Wat ze daarmee doen, is aan hen: tolereer het gedrag waarmee ze een probleem hadden, of stop met deelnemen aan de gemeenschap.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+Een melding van gedrag dat _technisch_ niet in strijd is met de gedragscode, kan nog steeds aangeven dat er een probleem is in uw gemeenschap, en u dient dit potentiële probleem te onderzoeken en dienovereenkomstig te handelen. Dit kan het herzien van uw gedragscode omvatten om acceptabel gedrag te verduidelijken en / of praten met de persoon wiens gedrag werd gemeld en hen vertellen dat hoewel ze de gedragscode niet hebben overtreden, ze de rand van wat wordt verwacht niet overschrijden en ervoor zorgen dat deelnemers voelen zich ongemakkelijk.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+Uiteindelijk bepaal en handhaaf je als onderhouder de normen voor acceptabel gedrag. Je hebt het vermogen om de gemeenschapswaarden van het project vorm te geven en deelnemers verwachten dat je die waarden op een eerlijke en evenwichtige manier afdwingt.
 
-## Encourage the behavior you want to see in the world 🌎
+## Moedig het gedrag aan dat u in de wereld wilt zien 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Als een project vijandig of onwelkom lijkt, zelfs als het maar één persoon is wiens gedrag door anderen wordt getolereerd, loop je het risico veel meer bijdragers te verliezen, van wie je sommigen misschien nooit zult ontmoeten. Het is niet altijd gemakkelijk om een gedragscode aan te nemen of af te dwingen, maar door een gastvrije omgeving te creëren, kan uw gemeenschap groeien.
