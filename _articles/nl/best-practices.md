@@ -183,7 +183,7 @@ Een manier om nieuwe bijdragers te werven, is door expliciet [label problemen di
 
 Als je ziet dat nieuwe bijdragers herhaaldelijk bijdragen leveren, erken dan hun werk door meer verantwoordelijkheid te bieden. Documenteer hoe anderen kunnen uitgroeien tot leiderschapsrollen als ze dat willen.
 
-Anderen aanmoedigen om [aandeelhouderschap van het project](../building-community/#share-ownership-of-your-project) te nemen, kan je werklast verlagen, zoals @lmccart ondekte op haar project, [p5.js](https://github.com/processing/p5.js).
+Anderen aanmoedigen om [aandeelhouderschap van het project](../building-community/#deel-het-eigendom-van-uw-project) te nemen, kan je werklast verlagen, zoals @lmccart ondekte op haar project, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">

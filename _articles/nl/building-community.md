@@ -1,12 +1,12 @@
 ---
 lang: nl
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+title: Bouwen aan gastvrije gemeenschappen
+description: Een gemeenschap opbouwen die mensen aanmoedigt om uw project te gebruiken, eraan bij te dragen en het te evangeliseren.
 class: building
 toc:
-  setting-your-project-up-for-success: "Setting your project up for success"
-  growing-your-community: "Growing your community"
-  resolving-conflicts: "Resolving conflicts"
+  setting-your-project-up-for-success: "Uw project opzetten voor succes"
+  growing-your-community: "Je community laten groeien"
+  resolving-conflicts: "Conflicten oplossen"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -14,267 +14,284 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## Uw project opzetten voor succes
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+Je hebt je project gelanceerd, je verspreidt het woord en mensen bekijken het. Geweldig! Nu, hoe zorg je ervoor dat ze blijven hangen?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+Een gastvrije gemeenschap is een investering in de toekomst en reputatie van uw project. Als je project net zijn eerste bijdragen begint te zien, begin dan met het geven van een positieve ervaring aan vroege bijdragers en zorg ervoor dat ze gemakkelijk terug blijven komen.
 
-### Make people feel welcome
+### Zorg ervoor dat mensen zich welkom voelen
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+Een manier om na te denken over de gemeenschap van uw project is door wat @MikeMcQuaid het [bijdrager trechter](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) noemt:
 
-![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![bijdrager trechter](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+Bedenk bij het opbouwen van uw community hoe iemand bovenaan de trechter (een potentiële gebruiker) theoretisch de weg naar de bodem kan vinden (een actieve onderhouder). Uw doel is om wrijving in elke fase van de bijdragerservaring te verminderen. Als mensen gemakkelijk winnen, voelen ze zich gestimuleerd om meer te doen.
 
-Start with your documentation:
+Begin met uw documentatie:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
-* **Good first issues**: To help new contributors get started, consider explicitly [labeling issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing useful contributions, and reducing friction from users tackling issues that are too hard for their level.
+* **Maak het voor iemand gemakkelijk om uw project te gebruiken.** [Een vriendelijke README](../starting-a-project/#writing-a-readme) en duidelijke codevoorbeelden maken het gemakkelijker voor iedereen die op uw project belandt om aan de slag te gaan.
+* **Leg duidelijk uit hoe u kunt bijdragen**, gebruik [je CONTRIBUTING bestand](../starting-a-project/#writing-your-contributing-guidelines) en uw issues up-to-date houden.
+* **Goede first issues**: Overweeg expliciet om nieuwe bijdragers op weg te helpen [label issues die eenvoudig genoeg zijn voor beginners om aan te pakken](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub zal deze issues vervolgens op verschillende plaatsen op het platform aan de oppervlakte brengen, waardoor nuttige bijdragen worden verhoogd en de wrijving wordt verminderd van gebruikers die problemen aanpakken die te moeilijk zijn voor hun niveau.
+* [GitHub's Open Source-enquête 2017](http://opensourcesurvey.org/2017/) vertoonde onvolledige of verwarrende documentatie is het grootste probleem voor open source-gebruikers. Goede documentatie nodigt uit tot interactie met uw project. Uiteindelijk zal iemand een issue of pull request openen. Gebruik deze interacties als kansen om ze door de trechter te verplaatsen.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
-
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#nee-leren-zeggen) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **Als iemand nieuw op uw project komt, bedank hem dan voor zijn interesse!** Er is maar één negatieve ervaring nodig om ervoor te zorgen dat iemand niet meer terug wil komen.
+* **Wees responsief.** Als u een maand lang niet op hun probleem reageert, is de kans groot dat ze uw project al zijn vergeten.
+* **Sta open voor de soorten bijdragen die u accepteert.** Veel bijdragers beginnen met een bugrapport of een kleine oplossing. Er zijn [veel manieren om bij te dragen](../how-to-contribute/#what-it-means-to-contribute) aan een project. Laat mensen helpen zoals ze willen helpen.
+* **Als er een bijdrage is waar u het niet mee eens bent,** bedank ze voor hun idee, en [vertel waarom](../best-practices/#nee-leren-zeggen) het niet past in de scope van het project en linkt naar relevante documentatie als je die hebt.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  Bijdragen aan open source is voor sommigen gemakkelijker dan voor anderen. Er is veel angst om te worden uitgescholden omdat ze iets niet goed doen of gewoon niet passen. (...) Door bijdragers een plek te geven om bij te dragen met een zeer lage technische vaardigheid (documentatie, afwaardering van webinhoud, enz.), Kunt u aanzienlijk verminderen die zorgen.
+  
+  _Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns._
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+— @mikeal, ["Een bijdrage leveren in moderne open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+De meeste open source-bijdragers zijn "casual bijdragers": mensen die slechts af en toe bijdragen aan een project. Een toevallige bijdrager heeft misschien geen tijd om volledig op de hoogte te zijn van uw project, dus het is uw taak om het hem gemakkelijk te maken om bij te dragen.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Andere bijdragers aanmoedigen is ook een investering in uzelf. Als u uw grootste fans de kracht geeft om te rennen met het werk waar ze enthousiast over zijn, is er minder druk om alles zelf te doen.
 
-### Document everything
+### Documenteer alles
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  Ben je ooit naar een (tech-) evenement geweest waar je niemand kende, maar iedereen leek in groepen te staan en te chatten als oude vrienden? (...) Stel je nu voor dat je wilt bijdragen aan een open source-project, maar je begrijpt niet waarom of hoe dit gebeurt.
+  
+  _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Duurzame open source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+Wanneer u aan een nieuw project begint, kan het natuurlijk aanvoelen om uw werk privé te houden. Maar open source-projecten gedijen goed wanneer u uw proces openbaar documenteert.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+Als je dingen opschrijft, kunnen er bij elke stap meer mensen deelnemen. U kunt misschien hulp krijgen bij iets waarvan u niet eens wist dat u het nodig had.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+Dingen opschrijven is meer dan alleen technische documentatie. Elke keer dat u de neiging voelt om iets op te schrijven of uw project privé te bespreken, vraag uzelf dan af of u het openbaar kunt maken.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Wees transparant over de roadmap van uw project, de soorten bijdragen die u zoekt, hoe bijdragen worden beoordeeld of waarom u bepaalde beslissingen hebt genomen.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+Als u merkt dat meerdere gebruikers tegen hetzelfde probleem aanlopen, documenteer de antwoorden dan in de README.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+Overweeg voor vergaderingen uw aantekeningen of afhaalrestaurants te publiceren in een relevant nummer. De feedback die u van dit transparantieniveau krijgt, zal u misschien verbazen.
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+Alles documenteren is ook van toepassing op het werk dat u doet. Als u aan een substantiële update van uw project werkt, plaatst u dit in een pull-aanvraag en markeert u het als een work in progress (_Werk in uitvoering_) (WIP). Op die manier kunnen andere mensen zich al vroeg bij het proces betrokken voelen.
 
-### Be responsive
+### Wees responsief
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+Als jij [je project promoot](../finding-users), zullen mensen feedback voor je hebben. Ze hebben misschien vragen over hoe dingen werken of hebben hulp nodig om aan de slag te gaan.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+Probeer responsief te zijn wanneer iemand een probleem issue, een pull-verzoek indient of een vraag stelt over uw project. Als je snel reageert, zullen mensen het gevoel hebben dat ze deel uitmaken van een dialoog en zullen ze enthousiaster zijn over deelname.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+Zelfs als u het verzoek niet onmiddellijk kunt beoordelen, helpt het vroegtijdig erkennen van het verzoek de betrokkenheid te vergroten. Hier is hoe @tdreyno reageerde op een pull-verzoek op [Middleman](https://github.com/middleman/middleman/pull/1466):
 
 ![Middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Een Mozilla-studie zag dat](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) bijdragers die binnen 48 uur codebeoordelingen ontvingen, een veel hoger rendement hadden en een veel hogere bijdrage.
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Gesprekken over uw project kunnen ook plaatsvinden op andere plaatsen op internet, zoals Stack Overflow, Twitter of Reddit. U kunt op sommige van deze plaatsen meldingen instellen, zodat u wordt gewaarschuwd wanneer iemand uw project noemt.
 
-### Give your community a place to congregate
+### Geef uw gemeenschap een plek om samen te komen
 
-There are two reasons to give your community a place to congregate.
+Er zijn twee redenen om uw gemeenschap een plek te geven om samen te komen.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+De eerste reden is voor hen. Help mensen elkaar te leren kennen. Mensen met gemeenschappelijke interesses zullen onvermijdelijk een plek willen hebben om erover te praten. En als communicatie openbaar en toegankelijk is, kan iedereen archieven uit het verleden lezen om op de hoogte te blijven en deel te nemen.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+De tweede reden is voor jou. Als je mensen geen openbare plek geeft om over je project te praten, zullen ze waarschijnlijk rechtstreeks contact met je opnemen. In het begin lijkt het misschien eenvoudig genoeg om "voor een keer" op privéberichten te reageren. Maar na verloop van tijd, vooral als uw project populair wordt, zult u zich uitgeput voelen. Weersta de verleiding om privé met mensen over uw project te communiceren. Verwijs ze in plaats daarvan naar een aangewezen openbaar kanaal.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+Openbare communicatie kan zo simpel zijn als mensen sturen om een ​​probleem te openen in plaats van u rechtstreeks te e-mailen of te reageren op uw blog. Je kunt ook een mailinglijst opzetten, of een Twitter-account, Slack- of IRC-kanaal maken zodat mensen over je project kunnen praten. Of probeer al het bovenstaande!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) reserveert om de week kantooruren om leden van de gemeenschap te helpen:
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
+> Kops heeft ook om de week tijd vrijgemaakt om hulp en begeleiding te bieden aan de gemeenschap. De beheerders van Kops zijn overeengekomen om tijd vrij te maken die specifiek is bedoeld voor het werken met nieuwkomers, het helpen met PR's en het bespreken van nieuwe functies.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+Uitzonderingen op openbare communicatie zijn: 1) beveiligingskwesties en 2) schendingen van gevoelige gedragscodes. U moet altijd een manier hebben waarop mensen deze problemen privé kunnen melden. Als u uw persoonlijke e-mailadres niet wilt gebruiken, stelt u een speciaal e-mailadres in.
 
-## Growing your community
+## Je community laten groeien
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+Gemeenschappen zijn buitengewoon krachtig. Die macht kan een zegen of een vloek zijn, afhankelijk van hoe u die uitoefent. Naarmate de gemeenschap van uw project groeit, zijn er manieren om het te helpen een bouwkracht te worden, geen vernietiging.
 
-### Don't tolerate bad actors
+### Sta geen slechte acteurs toe
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+Elk populair project zal onvermijdelijk mensen aantrekken die uw gemeenschap schaden in plaats van helpen. Ze kunnen onnodige debatten beginnen, kibbelen over triviale kenmerken of anderen pesten.
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+Doe je best om een nultolerantiebeleid te voeren ten aanzien van dit soort mensen. Als dit niet wordt aangevinkt, zullen negatieve mensen andere mensen in uw gemeenschap ongemakkelijk maken. Ze kunnen zelfs vertrekken.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  De waarheid is dat het hebben van een ondersteunende gemeenschap de sleutel is. Ik zou dit werk nooit kunnen doen zonder de hulp van mijn collega's, vriendelijke internetvreemdelingen en spraakzame IRC-kanalen. (...) Neem geen genoegen met minder. Neem geen genoegen met klootzakken.
+  
+  _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+Regelmatige debatten over triviale aspecten van uw project leiden anderen, waaronder u, af om zich op belangrijke taken te concentreren. Nieuwe mensen die naar uw project komen, kunnen deze gesprekken zien en willen niet deelnemen.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+Als u negatief gedrag in uw project ziet gebeuren, meld dit dan in het openbaar. Leg op vriendelijke maar krachtige toon uit waarom hun gedrag niet acceptabel is. Als het probleem aanhoudt, kan het nodig zijn [om te vragen om te vertrekken](../code-of-conduct/#enforcing-your-code-of-conduct). Uw [gedragsregels](../code-of-conduct/) kan een constructieve gids zijn voor deze gesprekken.
 
-### Meet contributors where they're at
+### Ontmoet bijdragers waar ze zijn
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+Goede documentatie wordt alleen maar belangrijker naarmate uw gemeenschap groeit. Toevallige bijdragers, die anders misschien niet bekend zijn met uw project, lezen uw documentatie om snel de context te krijgen die ze nodig hebben.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+Vertel nieuwe bijdragers in uw CONTRIBUTORS-bestand expliciet hoe ze aan de slag kunnen. Misschien wilt u voor dit doel zelfs een speciale sectie maken. [Django](https://github.com/django/django), heeft bijvoorbeeld een speciale bestemmingspagina om nieuwe bijdragers te verwelkomen.
 
-![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![Django niewe bijdragers pagina](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+Label in uw issue wachtrij bugs die geschikt zijn voor verschillende soorten bijdragers: bijvoorbeeld [_"alleen first timers"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentatie"_. [Deze labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) maken het gemakkelijk voor iemand die nieuw is bij uw project om snel uw problemen te scannen en aan de slag te gaan.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+Gebruik ten slotte uw documentatie om ervoor te zorgen dat mensen zich bij elke stap welkom voelen.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+U zult nooit contact hebben met de meeste mensen die op uw project terechtkomen. Er kunnen bijdragen zijn die u niet hebt ontvangen omdat iemand zich geïntimideerd voelde of niet wist waar hij moest beginnen. Zelfs een paar vriendelijke woorden kunnen iemand ervan weerhouden uw project gefrustreerd te verlaten.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
+Hier is bijvoorbeeld hoe [Rubinius](https://github.com/rubinius/rubinius/) startte [zijn bijdrage gids](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+> Om te beginnen willen we u bedanken voor het gebruik van Rubinius. Dit project is een werk van liefde, en we waarderen alle gebruikers die bugs ontdekken, prestatieverbeteringen aanbrengen en helpen met documentatie. Elke bijdrage is zinvol, dus bedankt voor je deelname. Dat gezegd hebbende, zijn hier enkele richtlijnen die we u vragen te volgen, zodat we uw probleem met succes kunnen oplossen.
 
-### Share ownership of your project
+### Deel het eigendom van uw project
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  Je leiders zullen verschillende meningen hebben, zoals alle gezonde gemeenschappen zouden moeten! U moet echter maatregelen nemen om ervoor te zorgen dat de luidste stem niet altijd wint door mensen uit te putten, en dat minder prominente stemmen en minderheidsstemmen worden gehoord.
+
+  _Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard._
+
   <p markdown="1" class="pquote-credit">
-— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["Wat maakt een goede gemeenschap?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+Mensen zijn enthousiast om bij te dragen aan projecten als ze een gevoel van eigenaarschap voelen. Dat betekent niet dat u de visie van uw project moet overdragen of bijdragen moet accepteren die u niet wilt. Maar hoe meer je anderen erkent, hoe meer ze blijven hangen.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Kijk of je manieren kunt vinden om het eigendom zoveel mogelijk met je gemeenschap te delen. Hier zijn enkele ideeën:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Weersta het oplossen van gemakkelijke (niet-kritieke) bugs.** Gebruik ze in plaats daarvan als kansen om nieuwe bijdragers te werven of iemand te begeleiden die een bijdrage wil leveren. In het begin lijkt het misschien onnatuurlijk, maar uw investering zal zich na verloop van tijd terugbetalen. @Michaeljoseph vroeg bijvoorbeeld een bijdrager om een pull-verzoek in te dienen voor een [Cookiecutter](https://github.com/audreyr/cookiecutter) issue hieronder, in plaats van het zelf te repareren.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) does.
+* **Start een CONTRIBUTORS- of AUTHORS-bestand in uw project** met een lijst van iedereen die aan uw project heeft bijgedragen, zoals [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) doet.
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* Als je een omvangrijke community hebt, **stuur dan een nieuwsbrief of schrijf een blogpost** om bijdragers te bedanken. Rust's [Deze week in Rust](https://this-week-in-rust.org/) en Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) zijn twee goede voorbeelden.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Geef elke bijdrager toegang tot commit.** @felixge ontdekte dat dit mensen [meer enthousiast maakte om hun patches op te poetsen](https://felixge.de/2013/03/11/the-pull-request-hack.html), en hij vond zelfs nieuwe beheerders voor projecten waaraan hij al een tijdje niet had gewerkt.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* Als uw project zich op GitHub bevindt, **verplaats uw project dan van uw persoonlijke account naar een [Organisatie](https://help.github.com/articles/creating-a-new-organization-account/)** en voeg minstens één back-upbeheerder toe. Organisaties maken het gemakkelijker om met externe medewerkers aan projecten te werken.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+De realiteit is dat bij [de meeste projecten]
+(https://peerj.com/preprints/1233.pdf) een of twee beheerders die het meeste werk doen. Hoe groter uw project en hoe groter uw gemeenschap, hoe gemakkelijker het is om hulp te vinden.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+Hoewel je misschien niet altijd iemand vindt om de oproep te beantwoorden, vergroot het geven van een signaal de kans dat andere mensen meedoen. En hoe eerder je begint, hoe eerder mensen kunnen helpen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  \[Het is in uw belang\] om bijdragers te werven die plezier hebben en die in staat zijn om de dingen te doen die u niet bent. Houd je van coderen, maar beantwoord je geen problemen? Identificeer vervolgens die personen in uw gemeenschap die dat wel doen en laat ze het hebben.
+  
+  _\[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it._
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Gastvrije gemeenschappen"](http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
-## Resolving conflicts
+## Conflicten oplossen
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+In de vroege stadia van uw project is het nemen van belangrijke beslissingen eenvoudig. Als je iets wilt doen, doe het dan gewoon.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+Naarmate uw project populairder wordt, zullen meer mensen belangstelling tonen voor de beslissingen die u neemt. Zelfs als je geen grote gemeenschap van bijdragers hebt, als je project veel gebruikers heeft, zul je merken dat mensen een afweging maken bij beslissingen of hun eigen problemen aan de orde stellen.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+Als je een vriendelijke, respectvolle gemeenschap hebt ontwikkeld en je processen openlijk hebt gedocumenteerd, zou je gemeenschap voor het grootste deel een oplossing moeten kunnen vinden. Maar soms kom je een probleem tegen dat wat moeilijker op te lossen is.
 
-### Set the bar for kindness
+### Leg de lat voor vriendelijkheid
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+Wanneer uw gemeenschap worstelt met een moeilijk probleem, kunnen de gemoederen stijgen. Mensen kunnen boos of gefrustreerd worden en het op elkaar of op jou afkraken.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Het is jouw taak als onderhouder om te voorkomen dat deze situaties escaleren. Zelfs als je een uitgesproken mening over het onderwerp hebt, probeer dan de positie van moderator of facilitator in te nemen, in plaats van de strijd aan te gaan en je mening te benadrukken. Als iemand onaardig is of het gesprek monopoliseert, [reageer meteen](../building-community/#sta-geen-slechte-acteurs-toe) discussies netjes en productief houden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  Als projectonderhouder is het uiterst belangrijk om respectvol te zijn voor uw bijdragers. Ze vatten wat je zegt vaak heel persoonlijk op.
+  
+  _As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally._
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Wees hartelijk of ga op weg"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+Andere mensen vragen je om advies. Geef een goed voorbeeld. U kunt nog steeds teleurstelling, ongeluk of bezorgdheid uiten, maar doe dit rustig.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+Het hoofd koel houden is niet eenvoudig, maar leiderschap tonen verbetert de gezondheid van uw gemeenschap. Het internet dankt je.
 
-### Treat your README as a constitution
+### Behandel uw README als een grondwet
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+Uw README is [meer dan alleen een reeks instructies](../starting-a-project/#writing-a-readme). Het is ook een plek om te praten over uw doelen, productvisie en roadmap. Als mensen overdreven gefocust zijn op het bespreken van de waarde van een bepaalde functie, kan het helpen om je README opnieuw te bekijken en te praten over de hogere visie van je project. Focussen op je README maakt het gesprek ook onpersoonlijk, zodat je een constructieve discussie kunt voeren.
 
-### Focus on the journey, not the destination
+### Concentreer u op de reis, niet op de bestemming
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+Sommige projecten gebruiken een stemproces om belangrijke beslissingen te nemen. Hoewel stemmen op het eerste gezicht verstandig zijn, legt het de nadruk op het vinden van een 'antwoord' in plaats van naar elkaars zorgen te luisteren en erop in te gaan.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+Stemmen kan politiek worden, waarbij leden van de gemeenschap onder druk gezet worden om elkaar goed te doen of op een bepaalde manier te stemmen. Ook niet iedereen stemt of het de [stille meerderheid](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) is in uw gemeenschap, of huidige gebruikers die niet wisten dat er gestemd werd.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+Soms is stemmen een noodzakelijk kwaad. Zoveel als je kunt, leg echter de nadruk op ["consensus zoeken"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) in plaats van consensus.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+In het kader van een proces voor het zoeken naar consensus, bespreken leden van de gemeenschap belangrijke zorgen totdat ze vinden dat ze voldoende zijn gehoord. Als er nog maar kleine zorgen zijn, gaat de gemeenschap vooruit. "Consensus zoeken" erkent dat een gemeenschap misschien niet in staat zal zijn om tot een perfect antwoord te komen. In plaats daarvan geeft het prioriteit aan luisteren en discussiëren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+  Een deel van de reden waarom er geen stemsysteem bestaat voor Atom Issues is dat het Atom-team niet in alle gevallen een stemsysteem gaat volgen. Soms moeten we kiezen wat we vinden dat juist is, zelfs als het niet populair is. (...) Wat ik kan bieden en beloven te doen ... is dat het mijn taak is om naar de gemeenschap te luisteren.
+  
+  _Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community._
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on [Atom's besluitvormingsproces](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+Zelfs als u niet echt een consensuszoekproces toepast, is het als projectonderhouder belangrijk dat mensen weten dat u luistert. Door ervoor te zorgen dat andere mensen zich gehoord voelen en zich ertoe verbinden hun zorgen op te lossen, kunnen gevoelige situaties aanzienlijk worden verspreid. Volg vervolgens uw woorden met daden.
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+Overhaast geen beslissing om een oplossing te hebben. Zorg ervoor dat iedereen zich gehoord voelt en dat alle informatie openbaar is gemaakt voordat u naar een oplossing gaat.
 
-### Keep the conversation focused on action
+### Houd het gesprek gericht op actie
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+Discussie is belangrijk, maar er is een verschil tussen productieve en onproductieve gesprekken.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+Moedig discussie aan zolang deze actief naar een oplossing toe evolueert. Als het duidelijk is dat een gesprek wegkwijnt of afwijkt van het onderwerp, prikkels persoonlijk worden of mensen kibbelen over kleine details, is het tijd om het af te sluiten.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+Deze gesprekken laten doorgaan is niet alleen slecht voor het betreffende probleem, maar ook slecht voor de gezondheid van uw gemeenschap. Het geeft een bericht dat dit soort gesprekken is toegestaan ​​of zelfs aangemoedigd, en het kan mensen ontmoedigen om toekomstige problemen aan de orde te stellen of op te lossen.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+Stel uzelf bij elk punt dat door u of anderen wordt gemaakt, de vraag: _"Hoe brengt dit ons dichter bij een oplossing?"_
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+Als het gesprek begint te ontrafelen, vraag dan aan de groep: _"Welke stappen moeten we hierna nemen?"_ Om het gesprek opnieuw te focussen.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+Als een gesprek duidelijk nergens heen gaat, er geen duidelijke acties kunnen worden ondernomen, of als de juiste actie al is ondernomen, sluit dan het probleem af en leg uit waarom je het hebt gesloten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+  Een draad naar bruikbaarheid leiden zonder opdringerig te zijn, is een kunst. Het zal niet werken om mensen simpelweg te vermanen om te stoppen met het verspillen van hun tijd, of om hen te vragen niet te posten tenzij ze iets constructiefs te melden hebben. (...) In plaats daarvan moet je voorwaarden stellen voor verdere vooruitgang: geef mensen een route, een pad om te volgen dat leidt tot de resultaten die je wilt, maar zonder dat het lijkt alsof je gedrag dicteert.
+  
+  _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_OSS Produceren_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
-### Pick your battles wisely
+### Kies je gevechten verstandig
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+Context is belangrijk. Bedenk wie er bij de discussie betrokken is en hoe zij de rest van de gemeenschap vertegenwoordigen.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+Is iedereen in de gemeenschap boos over of zelfs betrokken bij deze kwestie? Of is het een eenzame onruststoker? Vergeet niet rekening te houden met uw stille gemeenschapsleden, niet alleen met de actieve stemmen.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+Als het probleem niet de bredere behoeften van uw gemeenschap weerspiegelt, moet u misschien de zorgen van een paar mensen erkennen. Als dit een terugkerend probleem is zonder een duidelijke oplossing, verwijs ze dan naar eerdere discussies over het onderwerp en sluit de thread.
 
-### Identify a community tiebreaker
+### Identificeer een schiftingspercentage van de gemeenschap
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+Met een goede instelling en duidelijke communicatie zijn de meeste moeilijke situaties op te lossen. Maar zelfs in een productief gesprek kan er eenvoudig een verschil in mening zijn over hoe verder te gaan. Identificeer in deze gevallen een persoon of een groep mensen die als schiftingsvariant kunnen dienen.
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+Een doorslag kan de primaire instandhouder van het project zijn, of het kan een kleine groep mensen zijn die een beslissing neemt op basis van stemmen. Idealiter heb je een schiftingspercentage en het bijbehorende proces geïdentificeerd in een GOVERNANCE-bestand voordat je het ooit hoeft te gebruiken.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+Je schifting zou een laatste redmiddel moeten zijn. Kwesties die verdeeldheid zaaien, zijn een kans voor uw gemeenschap om te groeien en te leren. Omarm deze kansen en gebruik een samenwerkingsproces om waar mogelijk tot een oplossing te komen.
 
-## Community is the ❤️ of open source
+## Community is het ❤️ van open source
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+Gezonde, bloeiende gemeenschappen voeden de duizenden uren die elke week in open source worden gestoken. Veel bijdragers wijzen op andere mensen als de reden om wel of niet aan open source te werken. Door constructief te leren hoe je die kracht kunt aanboren, help je iemand daarbuiten een onvergetelijke open source-ervaring te hebben.
