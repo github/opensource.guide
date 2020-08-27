@@ -224,65 +224,71 @@ The same applies to a user who really wants a solution that you simply don't hav
 
 ## Breng de robots
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Net zoals er taken zijn waar andere mensen je mee kunnen helpen, zijn er ook taken die geen mens ooit zou moeten hoeven doen. Robots zijn je vrienden. Gebruik ze om uw leven als open source-onderhouder gemakkelijker te maken.
 
-### Require tests and other checks to improve the quality of your code
+### Vereis tests en andere controles om de kwaliteit van uw code te verbeteren
 
-One of the most important ways you can automate your project is by adding tests.
+Een van de belangrijkste manieren waarop u uw project kunt automatiseren, is door tests toe te voegen.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Tests helpen bijdragers het vertrouwen te hebben dat ze niets zullen breken. Ze maken het ook gemakkelijker voor u om bijdragen snel te bekijken en te accepteren. Hoe responsiever u bent, hoe meer uw gemeenschap betrokken kan zijn.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+Stel automatische tests in die op alle inkomende bijdragen worden uitgevoerd en zorg ervoor dat uw tests gemakkelijk lokaal door bijdragers kunnen worden uitgevoerd. Vereisen dat alle codebijdragen slagen voor uw tests voordat ze kunnen worden ingediend. Je helpt mee met het instellen van een minimale kwaliteitsnorm voor alle inzendingen. [Vereiste statuschecks](https://help.github.com/articles/about-required-status-checks/) op GitHub kan ervoor zorgen dat geen enkele wijziging wordt gemerged zonder dat uw tests slagen.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Als u tests toevoegt, leg dan uit hoe ze werken in uw CONTRIBUTING-bestand.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  Ik geloof dat tests nodig zijn voor alle code waar mensen aan werken. Als de code volledig en perfect correct was, zou het geen wijzigingen nodig hebben - we schrijven alleen code als er iets mis is, of dat nu "Het crasht" of "Het mist zo-en-zo-functie". En ongeacht de wijzigingen die u aanbrengt, zijn tests essentieel om eventuele regressies op te sporen die u per ongeluk zou kunnen introduceren.
+  
+  _I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce._
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's gemeenschapsautomatisering"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Gebruik tools om eenvoudige onderhoudstaken te automatiseren
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+Het goede nieuws over het onderhouden van een populair project is dat andere beheerders waarschijnlijk met soortgelijke problemen te maken hebben gehad en er een oplossing voor hebben gebouwd.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+Er zijn een hoop [verschillende tools beschikbaar](https://github.com/showcases/tools-for-open-source) om te helpen om sommige aspecten te automatiseren. 
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
+Een paar voorbeelden:
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+* [semantic-release](https://github.com/semantic-release/semantic-release) automatiseert uw releases
+* [mention-bot](https://github.com/facebook/mention-bot) vermeldt potentiële reviewers voor pull-aanvragen
+* [Danger](https://github.com/danger/danger) helpt bij het automatiseren van codebeoordeling
+* [no-response](https://github.com/probot/no-response) sluit issues af waarbij de auteur niet heeft gereageerd op een verzoek om meer informatie
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview) controleert uw afhankelijkheidsbestanden elke dag op verouderde vereisten en opent individuele pull-verzoeken voor alle gevonden items
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+Voor bugrapporten en andere veelvoorkomende bijdragen heeft GitHub [Issue-sjablonen en Pull Request-sjablonen](https://github.com/blog/2111-issue-and-pull-request-templates), die u kunt maken om de communicatie die u ontvangt te stroomlijnen. @TalAter heeft een [Kies je eigen avonturengids](https://www.talater.com/open-source-templates/#/) gemaakt om u te helpen bij het schrijven van uw issue en PR-sjablonen.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Om uw e-mailmeldingen te beheren, kunt u [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) instellen om te organiseren op prioriteit.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Als je wat geavanceerder wilt worden, kunnen stijlgidsen en linters projectbijdragen standaardiseren en ze gemakkelijker te beoordelen en te accepteren maken.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Als uw normen echter te ingewikkeld zijn, kunnen ze de drempels voor bijdragen vergroten. Zorg ervoor dat u alleen voldoende regels toevoegt om het leven van iedereen gemakkelijker te maken.
+
+Als u niet zeker weet welke tools u moet gebruiken, kijk dan wat andere populaire projecten doen, vooral die in uw ecosysteem. Hoe ziet het contributieproces er bijvoorbeeld uit voor andere Node-modules? Het gebruik van vergelijkbare tools en benaderingen zal uw proces ook meer vertrouwd maken bij uw beoogde bijdragers.
 
 ## Het is oké om op pauze te drukken
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+Open source-werk heeft je ooit vreugde gebracht. Misschien begint het je nu een ontwijkend of schuldig gevoel te geven.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+Misschien heb je het gevoel overweldigd te zijn of krijg je steeds meer angst als je aan je projecten denkt. En ondertussen stapelen de problemen en pull-verzoeken zich op.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+Burn-out is een echt en doordringend probleem in open source-werk, vooral onder beheerders. Als open source-onderhouder is uw geluk een niet-onderhandelbare vereiste voor het voortbestaan van elk open source-project.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+Hoewel het vanzelfsprekend zou moeten zijn, neem een pauze! U hoeft niet te wachten tot u zich opgebrand voelt om op vakantie te gaan. @brettcannon, een Python-kernontwikkelaar, besloot [een maand lang op vakantie te gaan](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) na 14 jaar als vrijwillig OSS (Opensource) werk.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+Net als bij elk ander soort werk, zal het nemen van regelmatige pauzes je verfrist, blij en enthousiast over je werk houden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  Bij het onderhouden van WP-CLI heb ik ontdekt dat ik mezelf eerst gelukkig moet maken en duidelijke grenzen moet stellen aan mijn betrokkenheid. De beste balans die ik heb gevonden, is 2-5 uur per week, als onderdeel van mijn normale werkschema. Dit zorgt ervoor dat mijn betrokkenheid een passie blijft, en dat ik me niet te veel als werk voel. Omdat ik prioriteit geef aan de problemen waaraan ik werk, kan ik regelmatig vooruitgang boeken op wat ik denk dat het belangrijkst is.
+  
+  _In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important._
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Mijn condoleances, u bent nu de onderhouder (_maintainer_) van een populair open source-project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
@@ -292,6 +298,6 @@ Doe uw best om ondersteuning voor uw gebruikers en gemeenschap te vinden terwijl
 
 Pauzes nemen geldt ook voor meer dan alleen vakanties. Als je in het weekend of tijdens werkuren geen open source-werk wilt doen, communiceer die verwachtingen dan aan anderen, zodat ze weten dat ze je niet lastig vallen.
 
-## Take care of yourself first!
+## Zorg eerst voor uzelf!
 
 Het onderhouden van een populair project vereist andere vaardigheden dan de eerdere groeifasen, maar het is niet minder lonend. Als onderhouder oefen je leiderschap en persoonlijke vaardigheden op een niveau dat maar weinig mensen ervaren. Hoewel het niet altijd gemakkelijk te beheren is, helpt het stellen van duidelijke grenzen en alleen aan te nemen waar je een prettig gevoel bij hebt, je gelukkig door voelt of wat je verfrist om productief te blijven.
