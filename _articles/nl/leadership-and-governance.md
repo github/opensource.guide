@@ -21,39 +21,43 @@ related:
 
 ## Inzicht in governance voor uw groeiende project
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Je project groeit, mensen zijn betrokken en je bent vastbesloten om dit ding gaande te houden. In dit stadium vraagt u zich misschien af hoe u regelmatige projectmedewerkers in uw workflow kunt opnemen, of het nu gaat om iemand commit-toegang te geven of om discussies in de gemeenschap op te lossen. Als u vragen heeft, hebben we de antwoorden.
 
 ## Wat zijn voorbeelden van formele rollen die worden gebruikt in open source-projecten?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Veel projecten volgen een vergelijkbare structuur voor rollen en erkenning van medewerkers.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Wat deze rollen eigenlijk betekenen, is geheel aan jou. Hier zijn een paar soorten rollen die u wellicht herkent:
 
-* **Maintainer**
-* **Contributor**
+* **Open source-beheerder / Maintainer**
+* **Bijdrager / Contributor**
 * **Committer**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**Voor sommige projecten zijn "open source-beheerders"** de enige mensen in een project met commit-toegang. In andere projecten zijn het gewoon de mensen die in de README worden vermeld als beheerders.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+Een onderhouder hoeft niet per se iemand te zijn die code voor uw project schrijft. Het kan iemand zijn die veel werk heeft verzet om uw project te evangeliseren, of schriftelijke documentatie die het project toegankelijker heeft gemaakt voor anderen. Ongeacht wat ze van dag tot dag doen, een onderhouder is waarschijnlijk iemand die verantwoordelijkheid voelt over de richting van het project en zich inzet om het te verbeteren.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**Een 'bijdrager' kan iedereen zijn** die opmerkingen maakt over een probleem of pull-verzoek, mensen die waarde toevoegen aan het project (of het nu gaat om triaging-problemen, het schrijven van code of het organiseren van evenementen), of iemand met een samengevoegd pull-verzoek (misschien de engste definitie van een bijdrager).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[Voor Node.js\] is elke persoon die komt opdagen om commentaar te geven op een probleem of code in te dienen, lid van de community van een project. Alleen al om ze te kunnen zien, betekent dat ze de grens hebben overschreden van een gebruiker naar een bijdrager.
+  
+  _\[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor._
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
+— @mikeal, ["Gezond Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**De term "committer"** kan worden gebruikt om commit-toegang, wat een specifiek type verantwoordelijkheid is, te onderscheiden van andere vormen van bijdrage.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#waarom-bijdragen-aan-open-source) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Hoewel u uw projectrollen op elke gewenste manier kunt definiëren, [overweeg het gebruik van bredere definities](../how-to-contribute/#waarom-bijdragen-aan-open-source) om meer vormen van bijdrage aan te moedigen. U kunt leiderschapsrollen gebruiken om formeel mensen te erkennen die een uitstekende bijdrage aan uw project hebben geleverd, ongeacht hun technische vaardigheden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  Je kent me misschien als de "uitvinder" van Django... maar eigenlijk ben ik de man die werd aangenomen om aan iets te werken een jaar nadat het al gemaakt was. (...) Mensen vermoeden dat ik succesvol ben vanwege mijn programmeervaardigheid... maar ik ben op zijn best een gemiddelde programmeur.
+  
+  _You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer._
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
@@ -61,40 +65,44 @@ While you can define your project roles any way you'd like, [consider using broa
 
 ## Hoe formaliseer ik deze leiderschapsrollen?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Het formaliseren van uw leiderschapsrollen helpt mensen zich eigenaar te voelen en vertelt andere gemeenschapsleden naar wie ze moeten zoeken voor hulp.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+Voor een kleiner project kan het aanwijzen van leiders net zo eenvoudig zijn als het toevoegen van hun naam aan uw README of een CONTRIBUTORS tekstbestand.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Voor een groter project, als u een website heeft, maak dan een teampagina aan of vermeld uw projectleiders daar. [Postgres](https://github.com/postgres/postgres/) heeft bijvoorbeeld een [uitgebreide teampagina](https://www.postgresql.org/community/contributors/) met korte profielen voor elke bijdrager.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Als uw project een zeer actieve bijdragersgemeenschap heeft, kunt u een "kernteam" van beheerders vormen, of zelfs subcommissies van mensen die de verantwoordelijkheid nemen voor verschillende probleemgebieden (bijvoorbeeld beveiliging, probleemopsporing of gedrag van de gemeenschap). Laat mensen zichzelf organiseren en vrijwilligerswerk doen voor de rollen waar ze het meest enthousiast over zijn, in plaats van ze toe te wijzen.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[We\] vullen het kernteam aan met verschillende "subteams". Elk subteam is gericht op een specifiek gebied, bijvoorbeeld taalontwerp of bibliotheken. (...) Om wereldwijde coördinatie en een sterke, samenhangende visie voor het project als geheel te verzekeren, wordt elk subteam geleid door een lid van het kernteam.
+  
+  _\[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team._
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
+— ["Rust Bestuur RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
+Leiderschapsteams willen misschien een aangewezen kanaal creëren (zoals op IRC) of regelmatig bijeenkomen om het project te bespreken (zoals op Gitter of Google Hangout). U kunt die bijeenkomsten zelfs openbaar maken, zodat andere mensen kunnen luisteren. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), bijvoorbeeld [host wekelijks kantooruren](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Als u eenmaal leiderschapsrollen heeft vastgesteld, vergeet dan niet te documenteren hoe mensen deze kunnen bereiken! Stel een duidelijk proces vast voor hoe iemand een onderhouder kan worden of lid kan worden van een subcommissie in uw project, en schrijf het op uw GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Tools zoals [Vossibility](https://github.com/icecrime/vossibility-stack) kunnen je helpen om publiekelijk bij te houden wie (of niet) bijdraagt ​​aan het project. Door deze informatie te documenteren, wordt de perceptie van de gemeenschap vermeden dat beheerders een kliek zijn die privé beslissingen neemt.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#deel-het-eigendom-van-uw-project).
+Ten slotte, als uw project op GitHub staat, overweeg dan om uw project van uw persoonlijke account naar een organisatie te verplaatsen en ten minste één back-upbeheerder toe te voegen. [GitHub Organisations](https://help.github.com/articles/creating-a-new-organization-account/) maken het gemakkelijker om machtigingen en meerdere opslagplaatsen te beheren en de nalatenschap van je project te beschermen via [gedeeld eigendom](../building-community/#deel-het-eigendom-van-uw-project).
 
 ## Wanneer moet ik iemand commit-toegang geven?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Sommige mensen vinden dat je commitment moet geven aan iedereen die een bijdrage levert. Dit zou meer mensen kunnen aanmoedigen om zich eigenaar te voelen van uw project.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Aan de andere kant, vooral voor grotere, meer complexe projecten, wil je misschien alleen commitment geven aan mensen die hun betrokkenheid hebben getoond. Er is niet één goede manier om het te doen - doe wat je het prettigst vindt!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Als je project op GitHub staat, kun je [beschermde branches](https://help.github.com/articles/about-protected-branches/) gebruiken om te beheren wie naar een bepaalde branch kan pushen, en onder welke omstandigheden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  Elke keer dat iemand je een pull-request stuurt, geef hem dan commit-toegang tot je project. Hoewel het in het begin misschien ongelooflijk stom klinkt, kun je met deze strategie de ware kracht van GitHub ontketenen. (...) Als mensen eenmaal commit-toegang hebben, zijn ze niet langer bang dat hun patch niet zal worden samengevoegd... waardoor ze er veel meer werk in steken.
+  
+  _Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it._
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
@@ -102,64 +110,69 @@ If your project is on GitHub, you can use [protected branches](https://help.gith
 
 ## Wat zijn enkele van de algemene bestuursstructuren voor open source-projecten?
 
-There are three common governance structures associated with open source projects.
+Er zijn drie algemene bestuursstructuren die verband houden met open source-projecten.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL staat voor "Benevolent Dictator for Life". Volgens deze structuur heeft één persoon (meestal de oorspronkelijke auteur van het project) het laatste woord over alle belangrijke projectbeslissingen. [Python](https://github.com/python) is een klassiek voorbeeld. Kleinere projecten zijn waarschijnlijk standaard BDFL, omdat er maar één of twee beheerders zijn. Een project dat is ontstaan ​​bij een bedrijf kan ook in de categorie BDFL vallen.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Meritocratie:** **(Opmerking: de term "meritocratie" heeft een negatieve connotatie voor sommige gemeenschappen en heeft een [complexe sociale en politieke geschiedenis](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Onder een meritocratie krijgen actieve projectmedewerkers (degenen die "verdienste" aantonen) een formele besluitvormende rol. Beslissingen worden meestal genomen op basis van zuivere stemconsensus. Het concept van meritocratie is ontwikkeld door de [Apache Foundation](https://www.apache.org/); [alle Apache-projecten](https://www.apache.org/index.html#projects-list) zijn meritocratieën. Bijdragen kunnen alleen worden gedaan door individuen die zichzelf vertegenwoordigen, niet door een bedrijf.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
+* **Liberale bijdrage (_Liberal contribution_):** Volgens een liberaal contributiemodel worden de mensen die het meeste werk doen als meest invloedrijk erkend, maar dit is gebaseerd op huidig ​​werk en niet op historische bijdragen. Beslissingen voor grote projecten worden genomen op basis van een proces van consensus zoeken (bespreek belangrijke grieven) in plaats van pure stemming, en het streven is om zoveel mogelijk gemeenschapsperspectieven op te nemen. Populaire voorbeelden van projecten die een liberaal contributiemodel gebruiken, zijn onder meer [Node.js] (https://foundation.nodejs.org/) en [Rust] (https://www.rust-lang.org/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Welke moet je gebruiken? Het is aan jou! Elk model heeft voordelen en afwegingen. En hoewel ze in eerste instantie misschien heel anders lijken, hebben alle drie de modellen meer gemeen dan ze lijken. Bekijk deze sjablonen als u geïnteresseerd bent in het adopteren van een van deze modellen:
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [BDFL-modelsjabloon](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [Modelmodel voor meritocratie](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Node.js's liberale bijdragebeleid](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Heb ik beheersdocumenten nodig wanneer ik mijn project start?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Er is geen goed moment om de governance van uw project op te schrijven, maar het is veel gemakkelijker te definiëren als u eenmaal de dynamiek van uw gemeenschap heeft gezien. Het beste (en moeilijkste) deel van open source governance is dat het wordt gevormd door de gemeenschap!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+Sommige vroege documentatie zal echter onvermijdelijk bijdragen aan het beheer van uw project, dus begin met opschrijven wat u kunt. U kunt bijvoorbeeld duidelijke verwachtingen voor gedrag definiëren, of hoe uw bijdragersproces werkt, zelfs bij de lancering van uw project.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Als u deel uitmaakt van een bedrijf dat een open source-project lanceert, is het de moeite waard om vóór de lancering een interne discussie te hebben over hoe uw bedrijf verwacht te handhaven en beslissingen te nemen over het toekomstige project. Misschien wilt u ook in het openbaar uitleggen hoe uw bedrijf wel of niet bij het project betrokken zal zijn (of niet!).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  We wijzen kleine teams toe om projecten op GitHub te beheren die hier daadwerkelijk aan werken op Facebook. React wordt bijvoorbeeld gerund door een React-engineer.
+  
+  _We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer._
   <p markdown="1" class="pquote-credit">
-— @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
+— @caabernathy, ["Een kijkje in open source bij Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
 ## Wat gebeurt er als bedrijfsmedewerkers bijdragen beginnen in te dienen?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Succesvolle open source-projecten worden door veel mensen en bedrijven gebruikt, en sommige bedrijven kunnen uiteindelijk inkomstenstromen hebben die uiteindelijk aan het project zijn gekoppeld. Een bedrijf kan bijvoorbeeld de projectcode gebruiken als een onderdeel van een commerciële dienstverlening.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+Naarmate het project op grotere schaal wordt gebruikt, wordt er meer vraag naar mensen die er expertise in hebben - misschien bent u een van hen! - en worden soms betaald voor het werk dat ze in het project doen.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+Het is belangrijk om commerciële activiteiten als normaal te behandelen en als een nieuwe bron van ontwikkelingsenergie. Betaalde ontwikkelaars mogen natuurlijk geen speciale behandeling krijgen ten opzichte van onbetaalde ontwikkelaars; elke bijdrage moet op zijn technische merites worden beoordeeld. Mensen moeten zich echter op hun gemak voelen bij commerciële activiteiten en zich op hun gemak voelen bij het vermelden van hun gebruiksscenario's wanneer ze pleiten voor een bepaalde verbetering of functie.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+"Commercial" is volledig compatibel met "open source". "Commercieel" betekent gewoon dat er ergens geld mee gemoeid is - dat de software wordt gebruikt in de handel, wat steeds waarschijnlijker wordt naarmate een project wordt geaccepteerd. (Wanneer open source-software wordt gebruikt als onderdeel van een niet-open-sourceproduct, is het algehele product nog steeds "eigen" software, hoewel het, net als open source, voor commerciële of niet-commerciële doeleinden kan worden gebruikt.)
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+Net als ieder ander krijgen commercieel gemotiveerde ontwikkelaars invloed in het project door de kwaliteit en kwantiteit van hun bijdragen. Het is duidelijk dat een ontwikkelaar die voor haar tijd wordt betaald, meer kan dan iemand die niet wordt betaald, maar dat is oké: betaling is slechts een van de vele mogelijke factoren die van invloed kunnen zijn op hoeveel iemand doet. Houd uw projectdiscussies gericht op de bijdragen, niet op de externe factoren waardoor mensen die bijdragen kunnen leveren.
 
 ## Heb ik een juridische entiteit nodig om mijn project te ondersteunen?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+U hebt geen juridische entiteit nodig om uw open source-project te ondersteunen, tenzij u met geld omgaat.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+Als u bijvoorbeeld een commercieel bedrijf wilt opzetten, wilt u een C Corp of LLC opzetten (als u in de VS bent gevestigd). Als u alleen contractwerk doet in verband met uw open source-project, kunt u geld accepteren als een eenmanszaak of een LLC opzetten (als u in de VS bent gevestigd).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Als u donaties voor uw open source-project wilt accepteren, kunt u een donatieknop instellen (bijvoorbeeld met PayPal of Stripe), maar het geld is niet aftrekbaar voor de belasting, tenzij u een in aanmerking komende non-profitorganisatie bent (een 501c3, als je bent in de VS).
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Veel projecten willen niet de moeite nemen om een ​​non-profitorganisatie op te zetten, dus zoeken ze in plaats daarvan een fiscale sponsor zonder winstoogmerk. Een fiscale sponsor accepteert namens u schenkingen, meestal in ruil voor een percentage van de schenking. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) en [Open Collective](https://opencollective.com/opensource) zijn voorbeelden van organisaties die als fiscale sponsors dienen voor open source-projecten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+    Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+
+  _Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it._
+  
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
+— @piamancini, ["Verder gaan dan het liefdadigheidskader"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+Als uw project nauw verbonden is met een bepaalde taal of een bepaald ecosysteem, kan er ook een gerelateerde softwarefundament zijn waarmee u kunt werken. De [Python Software Foundation](https://www.python.org/psf/) helpt bijvoorbeeld bij het ondersteunen van [PyPI](https://pypi.org/), de Python-pakketbeheerder en de [Node.js Foundation](https://foundation.nodejs.org/) helpt bij het ondersteunen van [Express.js](https://expressjs.com/), een op knooppunten gebaseerd raamwerk.
