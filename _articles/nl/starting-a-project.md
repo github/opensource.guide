@@ -18,278 +18,290 @@ related:
 
 ## Het "wat" en "waarom" van open source
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Dus je denkt erover om aan de slag te gaan met open source? Gefeliciteerd! De wereld waardeert uw bijdrage. Laten we het hebben over wat open source is en waarom mensen het doen.
 
-### What does "open source" mean?
+### Wat betekent "open source"?
 
-When a project is open source, that means **anybody is free to use, study, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Als een project open source is, betekent dit **dat iedereen vrij is om uw project voor elk doel te gebruiken, bestuderen, wijzigen en distribueren.** Deze machtigingen worden afgedwongen via [een open source-licentie](https://opensource.org/licenties).
 
-Open source is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. Also because it gives users a potential to control their own computing, relative to closed source. For example, a business using open source software has the option to hire someone to make custom improvements to the software, rather than relying exclusively on a closed source vendor's product decisions.
+Open source is krachtig omdat het de barrières voor acceptatie en samenwerking verlaagt, waardoor mensen projecten snel kunnen verspreiden en verbeteren. Ook omdat het gebruikers de mogelijkheid geeft om hun eigen computergebruik te beheersen, in vergelijking met closed source. Een bedrijf dat open source software gebruikt, heeft bijvoorbeeld de mogelijkheid om iemand in te huren om aangepaste verbeteringen aan de software aan te brengen, in plaats van uitsluitend te vertrouwen op de productbeslissingen van een closed source-leverancier.
 
-_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open source software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
+_Vrije software (Free software)_ verwijst naar dezelfde reeks projecten als _open source_. Soms zie je ook [deze termen](https://en.wikipedia.org/wiki/Free_and_open-source_software) gecombineerd als "free en open source software" (FOSS) of "free, libre en open source software" (FLOSS). _Free_ en _libre_ verwijzen naar vrijheid, [niet de prijs](#betekend-open-source-gratis).
 
-### Why do people open source their work?
+### Waarom stellen mensen hun werk als open source beschikbaar?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  Een van de meest lonende ervaringen die ik krijg bij het gebruiken van en samenwerken aan open source, komt voort uit de relaties die ik opbouw met andere ontwikkelaars die met veel van dezelfde problemen worden geconfronteerd als ik.
+  
+  _One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am._
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+— @kentcdodds, ["Het was geweldig om in Open Source te komen"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[Er zijn veel redenen](https://ben.balter.com/2015/11/23/why-open-source/) waarom een persoon of organisatie een project zou willen open source maken. Enkele voorbeelden zijn:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **Samenwerking:** Open source-projecten kunnen wijzigingen van iedereen ter wereld accepteren. [Exercism](https://github.com/exercism/) is bijvoorbeeld een oefenplatform voor programmeren met meer dan 350 medewerkers.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
+* **Adoptie en remixen:** Open source-projecten kunnen door iedereen voor bijna elk doel worden gebruikt. Mensen kunnen er zelfs andere dingen mee bouwen. [WordPress](https://github.com/WordPress) is bijvoorbeeld begonnen als een splitsing van een bestaand project met de naam [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparantie:** Iedereen kan een open source-project inspecteren op fouten of inconsistenties. Transparantie is belangrijk voor regeringen zoals [Bulgarije](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) of de [Verenigde Staten](https://sourcecode.cio.gov/), gereguleerde industrieën zoals het bankwezen of de gezondheidszorg, en beveiligingssoftware zoals [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+Open source is niet alleen voor software. U kunt alles openen, van datasets tot boeken. Bekijk [GitHub Explore](https://github.com/explore) voor ideeën over wat je nog meer kunt open source.
 
-### Does open source mean "free of charge"?
+### Betekend open source gratis?
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+Een van de grootste voordelen van open source is dat het geen geld kost. "Gratis" is echter een bijproduct van de totale waarde van open source.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Omdat [een open source-licentie vereist](https://opensource.org/osd-annotated) dat iedereen uw project voor bijna elk doel kan gebruiken, wijzigen en delen, zijn projecten zelf meestal gratis. Als het project geld kost om te gebruiken, kan iedereen legaal een kopie maken en in plaats daarvan de gratis versie gebruiken.
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+Als gevolg hiervan zijn de meeste open source-projecten gratis, maar 'gratis' maakt geen deel uit van de open source-definitie. Er zijn manieren om indirect kosten in rekening te brengen voor open source-projecten via dubbele licenties of beperkte functies, terwijl ze toch voldoen aan de officiële definitie van open source.
 
 ## Moet ik mijn eigen open source-project lanceren?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+Het korte antwoord is ja, want wat de uitkomst ook is, het starten van je eigen project is een geweldige manier om te leren hoe open source werkt.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Als je nog nooit een project hebt geopend, ben je misschien zenuwachtig over wat mensen zullen zeggen, of dat iemand het überhaupt zal opmerken. Als dit klinkt zoals jij, ben je niet de enige!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+Open source werken is net als elke andere creatieve activiteit, of het nu gaat om schrijven of schilderen. Het kan eng aanvoelen om je werk met de wereld te delen, maar de enige manier om beter te worden, is door te oefenen - zelfs als je geen publiek hebt.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Als u nog niet overtuigd bent, neem dan even de tijd om na te denken over uw doelen.
 
-### Setting your goals
+### Je doelen stellen
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Doelen kunnen u helpen erachter te komen waaraan u moet werken, waar u nee tegen moet zeggen en waar u hulp van anderen nodig heeft. Begin met jezelf af te vragen: _waarom ben ik open source voor dit project?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Er is geen goed antwoord op deze vraag. Mogelijk hebt u meerdere doelen voor een enkel project, of verschillende projecten met verschillende doelen.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Als het je enige doel is om met je werk te pronken, wil je misschien niet eens bijdragen, en dat zeg je zelfs in je README. Aan de andere kant, als u donateurs wilt, investeert u tijd in duidelijke documentatie en zorgt u ervoor dat nieuwkomers zich welkom voelen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  Op een gegeven moment heb ik een aangepaste UIAlertView gemaakt die ik gebruikte ... en ik besloot het open source te maken. Dus ik heb het aangepast om het dynamischer te maken en het naar GitHub geüpload. Ik schreef ook mijn eerste documentatie waarin ik aan andere ontwikkelaars uitlegde hoe ze het voor hun projecten konden gebruiken. Waarschijnlijk heeft niemand het ooit gebruikt omdat het een eenvoudig project was, maar ik voelde me goed over mijn bijdrage.
+  
+  _At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution._
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
+— @mavris, ["Zelf onderwezen softwareontwikkelaars: waarom open source belangrijk voor ons is"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Naarmate uw project groeit, heeft uw gemeenschap mogelijk meer nodig dan alleen code van u. Reageren op problemen, code herzien en uw project promoten, zijn allemaal belangrijke taken in een open source-project.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+Hoewel de hoeveelheid tijd die u aan niet-coderende taken besteedt, afhangt van de omvang en reikwijdte van uw project, moet u als onderhouder erop voorbereid zijn om ze zelf aan te pakken of iemand te zoeken om u te helpen.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**Als u deel uitmaakt van een bedrijf dat een project opent,** zorg ervoor dat uw project over de interne middelen beschikt die het nodig heeft om te gedijen. U wilt weten wie verantwoordelijk is voor het onderhoud van het project na de lancering, en hoe u die taken met uw community deelt.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+Als u een specifiek budget of personeel nodig heeft voor promotie, operaties en het onderhouden van het project, begin die gesprekken dan vroeg.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  Als u begint met het openen van het project, is het belangrijk om ervoor te zorgen dat uw beheerprocessen rekening houden met de bijdragen en capaciteiten van de gemeenschap rond uw project. Wees niet bang om bijdragers die niet in uw bedrijf werkzaam zijn, te betrekken bij de belangrijkste aspecten van het project, vooral als ze regelmatig bijdragen.
+  
+  _As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors._
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
+— @captainsafia, ["Dus je wilt een project openen, hè?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
-### Contributing to other projects
+### Bijdragen aan andere projecten
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+Als het uw doel is om te leren samenwerken met anderen of om te begrijpen hoe open source werkt, overweeg dan om bij te dragen aan een bestaand project. Begin met een project dat je al gebruikt en waar je van houdt. Bijdragen aan een project kan zo simpel zijn als het corrigeren van typefouten of het bijwerken van documentatie.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+Als u niet zeker weet hoe u als bijdrager aan de slag kunt gaan, bekijk dan onze [Hoe u kunt bijdragen aan Open Source-gids](../how-to-contribute/).
 
 ## Uw eigen open source-project lanceren
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Er is geen perfect moment om uw werk open source te maken. U kunt een idee openen, een werk in uitvoering of na jarenlang closed source te zijn geweest.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+Over het algemeen moet u uw project openen als u zich op uw gemak voelt als anderen uw werk bekijken en er feedback op geven.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Ongeacht in welke fase u besluit uw project te openen, elk project moet de volgende documentatie bevatten:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Open source-licentie](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Richtlijnen voor het bijdragen](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Gedragscode](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+Als open source-onderhouder helpen deze componenten u bij het communiceren van verwachtingen, het beheren van bijdragen en het beschermen van ieders wettelijke rechten (inclusief die van uzelf). Ze vergroten uw kansen op een positieve ervaring aanzienlijk.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Als je project op GitHub staat, zal het plaatsen van deze bestanden in je root-directory met de aanbevolen bestandsnamen GitHub helpen ze te herkennen en automatisch aan je lezers te laten zien.
 
-### Choosing a license
+### Een licentie kiezen
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+Een open source-licentie garandeert dat anderen uw project zonder repercussies kunnen gebruiken, kopiëren, wijzigen en eraan kunnen bijdragen. Het beschermt je ook tegen plakkerige juridische situaties. **U moet een licentie toevoegen wanneer u een open source-project start.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Juridisch werk is niet leuk. Het goede nieuws is dat u een bestaande licentie kunt kopiëren en in uw repository kunt plakken. Het duurt maar een minuut om uw harde werk te beschermen.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) en [GPLv3](https://choicealicense.com/licenses/gpl-3.0/) zijn de meest populaire open source licenties, maar [er zijn andere opties](https://choosealicense.com) om uit te kiezen.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Wanneer u een nieuw project op GitHub maakt, krijgt u de mogelijkheid om een ​​licentie te selecteren. Als u een open source-licentie opneemt, wordt uw GitHub-project open source.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Kies een licentie](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Als u andere vragen of opmerkingen heeft over de juridische aspecten van het beheren van een open source-project, [wij hebben u gedekt](../legal/).
 
-### Writing a README
+### Een README schrijven
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+README's doen meer dan alleen uitleggen hoe u uw project kunt gebruiken. Ze leggen ook uit waarom uw project ertoe doet en wat uw gebruikers ermee kunnen doen.
 
-In your README, try to answer the following questions:
+Probeer in je README de volgende vragen te beantwoorden:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Wat doet dit project?
+* Waarom is dit project nuttig?
+* Hoe begin ik eraan?
+* Waar kan ik meer hulp krijgen als ik die nodig heb?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+U kunt uw README gebruiken om andere vragen te beantwoorden, zoals hoe u omgaat met bijdragen, wat de doelen van het project zijn en informatie over licenties en attributie. Als u geen bijdragen wilt accepteren, of uw project is nog niet klaar voor productie, schrijf deze informatie dan op.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  Betere documentatie betekent meer gebruikers, minder ondersteuningsverzoeken en meer bijdragers. (...) Onthoud dat u niet uw lezers bent. Er zijn mensen die misschien naar een project komen die totaal andere ervaringen hebben.
+  
+  _Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences._
   <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Schrijven zodat uw woorden worden gelezen (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+Soms vermijden mensen het schrijven van een README omdat ze het gevoel hebben dat het project niet af is, of omdat ze geen bijdragen willen. Dit zijn allemaal hele goede redenen om er een te schrijven.
 
-For more inspiration, try using @dguo's ["Make a README" guide](https://www.makeareadme.com/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+Voor meer inspiratie, probeer @dguo's ["Maak een README"-gids](https://www.makeareadme.com/) of @PurpleBooth's [README-sjabloon](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) om een volledige README te schrijven.
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+Als je een README-bestand opneemt in de root-directory, zal GitHub het automatisch op de startpagina van de repository weergeven.
 
-### Writing your contributing guidelines
+### Schrijven van uw bijdrage richtlijnen
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+Een CONTRIBUTING-bestand vertelt uw publiek hoe ze aan uw project kunnen deelnemen. U kunt bijvoorbeeld informatie opnemen over:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* Hoe een bugrapport in te dienen (probeer [sjablonen voor issue en pull-verzoeken](https://github.com/blog/2111-issue-and-pull-request-templates) te gebruiken)
+* Hoe u een nieuwe functie kunt voorstellen
+* Hoe u uw omgeving instelt en tests uitvoert
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+Naast technische details is een CONTRIBUTING-bestand een gelegenheid om uw verwachtingen voor bijdragen te communiceren, zoals:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* De soorten bijdragen die u zoekt
+* Uw roadmap of visie voor het project
+* Hoe bijdragers wel of niet contact met u moeten opnemen
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+Het gebruik van een warme, vriendelijke toon en het aanbieden van specifieke suggesties voor bijdragen (zoals het schrijven van documentatie of het maken van een website) kan ertoe bijdragen dat nieuwkomers zich welkom en enthousiast voelen om deel te nemen.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) with:
+Bijvoorbeeld: [Active Admin](https://github.com/activeadmin/activeadmin/) start [zijn bijdragende gids](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) met:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> Allereerst bedankt dat u overweegt om bij te dragen aan Active Admin. Het zijn mensen zoals jij die Active Admin tot zo'n geweldig hulpmiddel maken.
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+In de vroegste stadia van uw project kan uw CONTRIBUTING-bestand eenvoudig zijn. U moet altijd uitleggen hoe u bugs of problemen met bestanden meldt, en welke technische vereisten (zoals tests) u heeft om een bijdrage te leveren.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+Na verloop van tijd kunt u andere veelgestelde vragen aan uw CONTRIBUTING-bestand toevoegen. Als u deze informatie opschrijft, zullen minder mensen u keer op keer dezelfde vragen stellen.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Voor meer hulp bij het schrijven van je CONTRIBUTING-bestand, ga je naar @nayafia's [sjabloon voor bijdrage gids](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) of @mozilla's ["Bouw een CONTRIBUTING.md workshop"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+Link naar uw BIJDRAGEN-bestand vanuit uw README, zodat meer mensen het kunnen zien. Als je [het CONTRIBUTING-bestand in de repository van je project plaatst](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), zal GitHub automatisch naar je bestand linken wanneer een bijdrager een issue maakt of opent een pull-verzoek.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### Opstellen van een gedragscode
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  We hebben allemaal ervaringen gehad waarbij we te maken kregen met wat waarschijnlijk misbruik was, hetzij als onderhouder die probeerde uit te leggen waarom iets op een bepaalde manier moest zijn, of als gebruiker ... die een simpele vraag stelde. (...) Een gedragscode wordt een gemakkelijk te raadplegen en koppelbaar document dat aangeeft dat uw team constructief discours zeer serieus neemt.
+  
+  _We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
+— @mlynch, ["Open Source een gelukkiger plek maken"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+Ten slotte helpt een gedragscode om basisregels vast te stellen voor het gedrag van de deelnemers aan uw project. Dit is vooral waardevol als u een open source-project start voor een gemeenschap of bedrijf. Een gedragscode stelt je in staat om gezond, constructief gemeenschapsgedrag te faciliteren, wat je stress als onderhouder zal verminderen.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+Raadpleeg voor meer informatie onze [Gedragscode-gids](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+Naast het communiceren van _hoe_ je verwacht dat deelnemers zich gedragen, beschrijft een gedragscode ook vaak op wie deze verwachtingen van toepassing zijn, wanneer ze van toepassing zijn en wat te doen bij een overtreding.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Net als bij open source-licenties, zijn er ook nieuwe normen voor gedragscodes, zodat u deze niet zelf hoeft te schrijven. De [Bijdrager Covenant](https://contributor-covenant.org/) is een drop-in gedragscode die wordt gebruikt door [meer dan 40.000 open source-projecten](https://www.contributor-covenant.org/adopters), inclusief Kubernetes, Rails en Swift. Welke tekst u ook gebruikt, u moet bereid zijn om uw gedragscode waar nodig af te dwingen.
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+Plak de tekst rechtstreeks in een CODE_OF_CONDUCT-bestand in uw repository. Bewaar het bestand in de root-directory van je project zodat het gemakkelijk te vinden is, en link ernaar vanuit je README.
 
 ## Geef uw project een naam en branding
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+Branding is meer dan een flitsend logo of pakkende projectnaam. Het gaat erom hoe u over uw project praat en wie u bereikt met uw bericht.
 
-### Choosing the right name
+### De juiste naam kiezen
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+Kies een naam die gemakkelijk te onthouden is en idealiter een idee geeft van wat het project doet. Bijvoorbeeld:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) controleert apps op crashrapportage
+* [Thin](https://github.com/macournoyer/thin) is een snelle en eenvoudige Ruby-webserver
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+Als u voortbouwt op een bestaand project, kan het gebruik van hun naam als voorvoegsel helpen verduidelijken wat uw project doet (bijvoorbeeld [node-fetch](https://github.com/bitinn/node-fetch) brengt `window.fetch` naar Node.js).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+Overweeg vooral duidelijkheid. Woordspelingen zijn leuk, maar onthoud dat sommige grappen mogelijk niet vertalen naar andere culturen of mensen met andere ervaringen dan jij. Sommige van uw potentiële gebruikers kunnen werknemers van het bedrijf zijn: u wilt ze niet ongemakkelijk maken als ze uw project op het werk moeten uitleggen!
 
-### Avoiding name conflicts
+### Naamconflicten vermijden
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Controleer op open source-projecten met een vergelijkbare naam](http://ivantomic.com/projects/ospnc/), vooral als je dezelfde taal of hetzelfde ecosysteem deelt. Als uw naam overlapt met een populair bestaand project, kunt u uw publiek in verwarring brengen.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+Als u wilt dat een website, Twitter-handle of andere eigenschappen uw project vertegenwoordigen, zorg er dan voor dat u de gewenste namen krijgt. Idealiter [reserveer deze namen nu](https://instantdomainsearch.com/) voor gemoedsrust, zelfs als u ze nog niet wilt gebruiken.
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+Zorg ervoor dat de naam van uw project geen inbreuk maakt op handelsmerken. Een bedrijf kan u vragen om uw project later stop te zetten, of zelfs juridische stappen tegen u ondernemen. Het is het risico gewoon niet waard.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+U kunt de [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) raadplegen voor handelsmerkconflicten. Als u bij een bedrijf werkt, is dit een van de dingen waarmee uw [juridische team u kan helpen](../legal/).
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+Voer tot slot een snelle Google-zoekopdracht uit naar uw projectnaam. Zullen mensen uw project gemakkelijk kunnen vinden? Verschijnt er iets anders in de zoekresultaten waarvan u niet wilt dat ze het zien?
 
-### How you write (and code) affects your brand, too!
+### Hoe u schrijft (en codeert), heeft ook invloed op uw merk!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+Gedurende de levensduur van uw project zult u veel schrijven: README's, tutorials, gemeenschapsdocumenten, reageren op problemen, misschien zelfs nieuwsbrieven en mailinglijsten.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+Of het nu gaat om officiële documentatie of een informele e-mail, uw schrijfstijl maakt deel uit van het merk van uw project. Bedenk hoe u op uw publiek zou kunnen overkomen en of dat de toon is die u wilt overbrengen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  Ik probeerde betrokken te zijn bij elke thread op de mailinglijst en voorbeeldig gedrag te tonen, aardig te zijn tegen mensen, hun problemen serieus te nemen en in het algemeen behulpzaam te zijn. Na een tijdje bleven mensen rondhangen om niet alleen vragen te stellen, maar ook om te helpen met het beantwoorden, en tot mijn grote vreugde bootsten ze mijn stijl na.
+  
+  _I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style._
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl op [CouchDB](https://github.com/apache/couchdb), ["Duurzaam open source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+Het gebruik van warme, inclusieve taal (zoals 'zij', zelfs als je naar de enige persoon verwijst), kan er voor zorgen dat je project een welkom gevoel krijgt bij nieuwe bijdragers. Blijf bij eenvoudige taal, aangezien veel van uw lezers mogelijk geen moedertaalsprekers Engels zijn.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://angular.io/guide/styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Naast hoe u woorden schrijft, kan uw codeerstijl ook onderdeel worden van het merk van uw project. [Angular](https://angular.io/guide/styleguide) en [jQuery](https://contribute.jquery.org/style-guide/js/) zijn twee voorbeelden van projecten met rigoureuze coderingsstijlen en richtlijnen.
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+Het is niet nodig om een stijlgids voor je project te schrijven als je net begint, en het kan zijn dat je het toch leuk vindt om verschillende codeerstijlen in je project op te nemen. Maar u moet anticiperen op hoe uw schrijf- en coderingsstijl verschillende soorten mensen zou kunnen aantrekken of ontmoedigen. De vroegste stadia van uw project zijn uw kans om het precedent te scheppen dat u wenst te zien.
 
 ## Uw checklist vóór de lancering
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+Klaar om uw project te openen? Hier is een checklist om te helpen. Alle vakjes aanvinken? Je bent klaar om te gaan! [Klik op "publiceren"](https://help.github.com/articles/making-a-private-repository-public/) en geef jezelf een schouderklopje.
 
-**Documentation**
+**Documentatie**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Project heeft een LICENSE-bestand met een open source-licentie
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Project heeft basisdocumentatie (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    De naam is gemakkelijk te onthouden, geeft een idee van wat het project doet en is niet in strijd met een bestaand project of inbreuk op handelsmerken
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    De issue wachtrij is up-to-date, met issues duidelijk geordend en gelabeld
   </label>
 </div>
 
@@ -298,55 +310,55 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    Project gebruikt consistente codeconventies en duidelijke functie/methode/variabelenamen
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    De code is duidelijk becommentarieerd en documenteert intenties en randgevallen
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    Er zijn geen gevoelige materialen in de revisiegeschiedenis, problemen of pull-verzoeken (bijvoorbeeld wachtwoorden of andere niet-openbare informatie)
   </label>
 </div>
 
-**People**
+**Mensen**
 
-If you're an individual:
+Als je een individu bent:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Je hebt met de juridische afdeling gesproken en/of je begrijpt het IP/IE en open source-beleid van je bedrijf (als je ergens een werknemer bent)
   </label>
 </div>
 
-If you're a company or organization:
+Als u een bedrijf of organisatie bent:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    U heeft met uw juridische afdeling gesproken
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Je hebt een marketingplan om het project aan te kondigen en te promoten
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Iemand zet zich in voor het beheren van community-interacties (reageren op problemen, beoordelen en samenvoegen van pull-verzoeken)
   </label>
 </div>
 

@@ -30,8 +30,8 @@ Bedenk bij het opbouwen van uw community hoe iemand bovenaan de trechter (een po
 
 Begin met uw documentatie:
 
-* **Maak het voor iemand gemakkelijk om uw project te gebruiken.** [Een vriendelijke README](../starting-a-project/#writing-a-readme) en duidelijke codevoorbeelden maken het gemakkelijker voor iedereen die op uw project belandt om aan de slag te gaan.
-* **Leg duidelijk uit hoe u kunt bijdragen**, gebruik [je CONTRIBUTING bestand](../starting-a-project/#writing-your-contributing-guidelines) en uw issues up-to-date houden.
+* **Maak het voor iemand gemakkelijk om uw project te gebruiken.** [Een vriendelijke README](../starting-a-project/#een-readme-schrijven) en duidelijke codevoorbeelden maken het gemakkelijker voor iedereen die op uw project belandt om aan de slag te gaan.
+* **Leg duidelijk uit hoe u kunt bijdragen**, gebruik [je CONTRIBUTING-bestand](../starting-a-project/#schrijven-van-uw-bijdrage-richtlijnen) en uw issues up-to-date houden.
 * **Goede first issues**: Overweeg expliciet om nieuwe bijdragers op weg te helpen [label issues die eenvoudig genoeg zijn voor beginners om aan te pakken](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub zal deze issues vervolgens op verschillende plaatsen op het platform aan de oppervlakte brengen, waardoor nuttige bijdragen worden verhoogd en de wrijving wordt verminderd van gebruikers die problemen aanpakken die te moeilijk zijn voor hun niveau.
 * [GitHub's Open Source-enquête 2017](http://opensourcesurvey.org/2017/) vertoonde onvolledige of verwarrende documentatie is het grootste probleem voor open source-gebruikers. Goede documentatie nodigt uit tot interactie met uw project. Uiteindelijk zal iemand een issue of pull request openen. Gebruik deze interacties als kansen om ze door de trechter te verplaatsen.
 
@@ -226,7 +226,7 @@ Het hoofd koel houden is niet eenvoudig, maar leiderschap tonen verbetert de gez
 
 ### Behandel uw README als een grondwet
 
-Uw README is [meer dan alleen een reeks instructies](../starting-a-project/#writing-a-readme). Het is ook een plek om te praten over uw doelen, productvisie en roadmap. Als mensen overdreven gefocust zijn op het bespreken van de waarde van een bepaalde functie, kan het helpen om je README opnieuw te bekijken en te praten over de hogere visie van je project. Focussen op je README maakt het gesprek ook onpersoonlijk, zodat je een constructieve discussie kunt voeren.
+Uw README is [meer dan alleen een reeks instructies](../starting-a-project/#een-readme-schrijven). Het is ook een plek om te praten over uw doelen, productvisie en roadmap. Als mensen overdreven gefocust zijn op het bespreken van de waarde van een bepaalde functie, kan het helpen om je README opnieuw te bekijken en te praten over de hogere visie van je project. Focussen op je README maakt het gesprek ook onpersoonlijk, zodat je een constructieve discussie kunt voeren.
 
 ### Concentreer u op de reis, niet op de bestemming
 
