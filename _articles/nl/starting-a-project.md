@@ -1,14 +1,14 @@
 ---
 lang: nl
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: Een open source-project starten
+description: Leer meer over de wereld van open source en bereid je voor om je eigen project te lanceren.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  the-what-and-why-of-open-source: "Het wat en waarom van open source"
+  should-i-launch-my-own-open-source-project: "Moet ik mijn eigen open source-project lanceren?"
+  launching-your-own-open-source-project: "Uw eigen open source-project lanceren"
+  naming-and-branding-your-project: "Geef uw project een naam en branding"
+  your-pre-launch-checklist: "Uw checklist vóór de lancering"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,7 +16,7 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## Het "wat" en "waarom" van open source
 
 So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
 
@@ -56,7 +56,7 @@ Because [an open source license requires](https://opensource.org/osd-annotated) 
 
 As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
 
-## Should I launch my own open source project?
+## Moet ik mijn eigen open source-project lanceren?
 
 The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
 
@@ -104,7 +104,7 @@ If your goal is to learn how to collaborate with others or understand how open s
 
 If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
 
-## Launching your own open source project
+## Uw eigen open source-project lanceren
 
 There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
 
@@ -212,7 +212,7 @@ Much like open source licenses, there are also emerging standards for codes of c
 
 Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
 
-## Naming and branding your project
+## Geef uw project een naam en branding
 
 Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
 
@@ -259,7 +259,7 @@ Beyond how you write words, your coding style may also become part of your proje
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 
-## Your pre-launch checklist
+## Uw checklist vóór de lancering
 
 Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
 
@@ -357,6 +357,6 @@ If you're a company or organization:
   </label>
 </div>
 
-## You did it!
+## Je hebt het gedaan!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+Gefeliciteerd met het openen van uw eerste project. Ongeacht de uitkomst, werken in het openbaar is een geschenk voor de gemeenschap. Met elk commit-, commentaar- en pull-verzoek creëer je kansen voor jezelf en voor anderen om te leren en te groeien.

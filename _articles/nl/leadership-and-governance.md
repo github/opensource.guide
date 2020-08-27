@@ -1,17 +1,17 @@
 ---
 lang: nl
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: Leiderschap en bestuur
+description: Groeiende open source-projecten kunnen profiteren van formele regels voor het nemen van beslissingen.
 class: leadership
 toc:
-  understanding-governance-for-your-growing-project: "Understanding governance for your growing project"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
-  how-do-i-formalize-these-leadership-roles: "How do I formalize these leadership roles?"
-  when-should-i-give-someone-commit-access: "When should I give someone commit access?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "What are some of the common governance structures for open source projects?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
-  do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
+  understanding-governance-for-your-growing-project: "Inzicht in governance voor uw groeiende project"
+  what-are-examples-of-formal-roles-used-in-open-source-projects: "Wat zijn voorbeelden van formele rollen die worden gebruikt in open source-projecten?"
+  how-do-i-formalize-these-leadership-roles: "Hoe formaliseer ik deze leiderschapsrollen?"
+  when-should-i-give-someone-commit-access: "Wanneer moet ik iemand commit-toegang geven?"
+  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Wat zijn enkele van de algemene bestuursstructuren voor open source-projecten?"
+  do-i-need-governance-docs-when-i-launch-my-project: "Heb ik beheersdocumenten nodig wanneer ik mijn project start?"
+  what-happens-if-corporate-employees-start-submitting-contributions: "Wat gebeurt er als bedrijfsmedewerkers bijdragen beginnen in te dienen?"
+  do-i-need-a-legal-entity-to-support-my-project: "Heb ik een juridische entiteit nodig om mijn project te ondersteunen?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -19,11 +19,11 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## Inzicht in governance voor uw groeiende project
 
 Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
 
-## What are examples of formal roles used in open source projects?
+## Wat zijn voorbeelden van formele rollen die worden gebruikt in open source-projecten?
 
 Many projects follow a similar structure for contributor roles and recognition.
 
@@ -49,7 +49,7 @@ A maintainer doesn't necessarily have to be someone who writes code for your pro
 
 **The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#waarom-bijdragen-aan-open-source) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
@@ -59,7 +59,7 @@ While you can define your project roles any way you'd like, [consider using broa
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Hoe formaliseer ik deze leiderschapsrollen?
 
 Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
 
@@ -84,7 +84,7 @@ Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help
 
 Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#deel-het-eigendom-van-uw-project).
 
-## When should I give someone commit access?
+## Wanneer moet ik iemand commit-toegang geven?
 
 Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
 
@@ -100,7 +100,7 @@ If your project is on GitHub, you can use [protected branches](https://help.gith
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Wat zijn enkele van de algemene bestuursstructuren voor open source-projecten?
 
 There are three common governance structures associated with open source projects.
 
@@ -116,7 +116,7 @@ Which one should you use? It's up to you! Every model has advantages and trade-o
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## Heb ik beheersdocumenten nodig wanneer ik mijn project start?
 
 There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
 
@@ -132,7 +132,7 @@ If you're part of a company launching an open source project, it's worth having 
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## Wat gebeurt er als bedrijfsmedewerkers bijdragen beginnen in te dienen?
 
 Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
 
@@ -144,7 +144,7 @@ It's important to treat commercial activity as normal and as just another source
 
 Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
 
-## Do I need a legal entity to support my project?
+## Heb ik een juridische entiteit nodig om mijn project te ondersteunen?
 
 You don't need a legal entity to support your open source project unless you're handling money.
 

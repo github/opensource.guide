@@ -37,7 +37,7 @@ Begin met uw documentatie:
 
 * **Als iemand nieuw op uw project komt, bedank hem dan voor zijn interesse!** Er is maar één negatieve ervaring nodig om ervoor te zorgen dat iemand niet meer terug wil komen.
 * **Wees responsief.** Als u een maand lang niet op hun probleem reageert, is de kans groot dat ze uw project al zijn vergeten.
-* **Sta open voor de soorten bijdragen die u accepteert.** Veel bijdragers beginnen met een bugrapport of een kleine oplossing. Er zijn [veel manieren om bij te dragen](../how-to-contribute/#what-it-means-to-contribute) aan een project. Laat mensen helpen zoals ze willen helpen.
+* **Sta open voor de soorten bijdragen die u accepteert.** Veel bijdragers beginnen met een bugrapport of een kleine oplossing. Er zijn [veel manieren om bij te dragen](../how-to-contribute/#waarom-bijdragen-aan-open-source) aan een project. Laat mensen helpen zoals ze willen helpen.
 * **Als er een bijdrage is waar u het niet mee eens bent,** bedank ze voor hun idee, en [vertel waarom](../best-practices/#nee-leren-zeggen) het niet past in de scope van het project en linkt naar relevante documentatie als je die hebt.
 
 <aside markdown="1" class="pquote">

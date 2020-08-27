@@ -1,14 +1,14 @@
 ---
 lang: nl
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+title: Open source-statistieken
+description: Neem weloverwogen beslissingen om uw open source-project te laten gedijen door het succes ervan te meten en bij te houden.
 class: metrics
 toc:
-  why-measure-anything: "Why measure anything?"
-  discovery: "Discovery"
-  usage: "Usage"
+  why-measure-anything: "Waarom iets meten?"
+  discovery: "Ontdekking"
+  usage: "Gebruik"
   retention: "Retention"
-  maintainer-activity: "Maintainer activity"
+  maintainer-activity: "open source beheerdersactiviteit"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
@@ -16,117 +16,119 @@ related:
   - best-practices
 ---
 
-## Why measure anything?
+## Waarom iets meten?
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+Data, mits verstandig gebruikt, kunnen u helpen betere beslissingen te nemen als open source-onderhouder.
 
-With more information, you can:
+Met meer informatie kunt u:
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+* Begrijp hoe gebruikers reageren op een nieuwe functie
+* Zoek uit waar nieuwe gebruikers vandaan komen
+* Identificeer, en beslis of u een uitbijtergebruikscasus of -functionaliteit wilt ondersteunen
+* Kwantificeer de populariteit van uw project
+* Begrijp hoe uw project wordt gebruikt
+* Zamel geld in via sponsoring en beurzen
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+[Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) stelt bijvoorbeeld vast dat Google Analytics hen helpt bij het prioriteren van werk:
 
-> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+> Homebrew wordt gratis verstrekt en wordt in hun vrije tijd volledig gerund door vrijwilligers. Als gevolg hiervan hebben we niet de middelen om gedetailleerde gebruikersstudies van Homebrew-gebruikers uit te voeren om te beslissen hoe toekomstige functies het beste kunnen worden ontworpen en prioriteit kunnen worden gegeven aan huidig werk. Anonieme geaggregeerde gebruikersanalyses stellen ons in staat om prioriteit te geven aan fixes en functies op basis van hoe, waar en wanneer mensen Homebrew gebruiken.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+Populariteit is niet alles. Iedereen komt om verschillende redenen in open source. Als het je doel is als open source-onderhouder om te pronken met je werk, transparant te zijn over je code of gewoon plezier te hebben, dan zijn metrics misschien niet belangrijk voor je.
 
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
+Als u _geïnteresseerd_ bent om uw project op een dieper niveau te begrijpen, lees dan verder voor manieren om de activiteit van uw project te analyseren.
 
-## Discovery
+## Ontdekking
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+Voordat iemand uw project kan gebruiken of eraan kan bijdragen, moet hij of zij weten dat het bestaat. Stel uzelf de vraag: _vinden mensen dit project?_
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
+Als je project wordt gehost op GitHub, [je kunt zien](https://help.github.com/articles/about-repository-graphs/#traffic) hoeveel mensen op je project terechtkomen en waar ze vandaan komen. Klik op de pagina van uw project op "Insights" en vervolgens op "Traffic". Op deze pagina ziet u:
 
-* **Total page views:** Tells you how many times your project was viewed
+* **Total page views:** geeft aan hoe vaak uw project is bekeken
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **Total unique visitors:** geeft aan hoeveel mensen uw project hebben bekeken
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **Referring sites:** vertelt u waar bezoekers vandaan kwamen. Deze statistiek kan u helpen erachter te komen waar u uw publiek kunt bereiken en of uw promotie-inspanningen werken.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
+* **Populaire content:** vertelt u waar bezoekers naartoe gaan in uw project, uitgesplitst naar paginaweergaven en unieke bezoekers.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub stars](https://help.github.com/articles/about-stars/) kan ook helpen bij het geven van een basismeting van populariteit. Hoewel GitHub-sterren niet noodzakelijkerwijs verband houden met downloads en gebruik, kunnen ze u wel vertellen hoeveel mensen kennis nemen van uw werk.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+U kunt ook [vindbaarheid op specifieke plaatsen bijhouden](https://opensource.com/business/16/6/pirate-metrics): bijvoorbeeld Google PageRank, verwijzingsverkeer van de website van uw project of verwijzingen van andere open bronprojecten of websites.
 
-## Usage
+## Gebruik
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+Mensen vinden uw project op dit wilde en gekke ding dat we internet noemen. Idealiter voelen ze zich genoodzaakt om iets te doen als ze uw project zien. De tweede vraag die u wilt stellen is: _gebruiken mensen dit project?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Als u een pakketbeheerder gebruikt, zoals npm of RubyGems.org, om uw project te distribueren, kunt u mogelijk de downloads van uw project volgen.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Elke pakketbeheerder kan een iets andere definitie van "downloaden" gebruiken, en downloads correleren niet noodzakelijkerwijs met installaties of gebruik, maar het biedt een basis ter vergelijking. Probeer [Libraries.io](https://libraries.io/) te gebruiken om gebruiksstatistieken bij te houden van veel populaire pakketbeheerders.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Als je project op GitHub staat, navigeer dan opnieuw naar de "Traffic"-pagina. U kunt de [kloongrafiek](https://github.com/blog/1873-clone-graphs) gebruiken om te zien hoe vaak uw project op een bepaalde dag is gekloond, opgesplitst in totaal aantal klonen en unieke klonen.
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Als het gebruik laag is in vergelijking met het aantal mensen dat uw project ontdekt, zijn er twee zaken waarmee u rekening moet houden. Een van beide:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* Uw project slaagt er niet in uw publiek te converteren, of
+* Je trekt het verkeerde publiek aan
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+Als uw project bijvoorbeeld op de voorpagina van Hacker News belandt, ziet u waarschijnlijk een piek in de ontdekking (verkeer), maar een lagere conversieratio, omdat u iedereen op Hacker News bereikt. Als uw Ruby-project echter wordt gepresenteerd op een Ruby-conferentie, is de kans groter dat u een hoge conversieratio ziet bij een gericht publiek.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Probeer erachter te komen waar uw publiek vandaan komt en vraag anderen om feedback op uw projectpagina om erachter te komen met welke van deze twee problemen u te maken heeft.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+Als je eenmaal weet dat mensen je project gebruiken, wil je misschien proberen erachter te komen wat ze ermee doen. Bouwen ze erop door uw code te forken en functies toe te voegen? Gebruiken ze het voor wetenschap of zaken?
 
-## Retention
+## Retentie
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+Mensen vinden uw project en ze gebruiken het. De volgende vraag die je jezelf wilt stellen is: _dragen mensen bij aan dit project?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+Het is nooit te vroeg om na te denken over bijdragers. Zonder dat andere mensen meewerken, riskeer je jezelf in een ongezonde situatie te brengen waarin je project _populair_ is (veel mensen gebruiken het) maar niet _ondersteund_ (niet genoeg tijd om aan de vraag te voldoen).
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+Retentie vereist ook een [instroom van nieuwe bijdragers](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), aangezien voorheen actieve bijdragers uiteindelijk verder zullen gaan naar andere dingen.
 
-Examples of community metrics that you may want to regularly track include:
+Voorbeelden van communitystatistieken die u regelmatig wilt bijhouden, zijn:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Totaal aantal bijdragers en aantal commits per bijdrager:** vertelt je hoeveel bijdragers je hebt en wie er meer of minder actief is. Op GitHub kun je dit bekijken onder "Insights" -> "Contributors". Op dit moment telt deze grafiek alleen bijdragers die zich hebben gecommitteerd aan de standaardvertakking van de repository.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Bijdrager-grafiek](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **Eerste keer, losse en terugkerende bijdragers:** Helpt u bij te houden of u nieuwe bijdragers krijgt en of ze terugkomen. (Toevallige bijdragers zijn bijdragers met een laag aantal commits. Of dat nu één commit is, minder dan vijf commits of iets anders, is aan jou.) Zonder nieuwe bijdragers kan de community van je project stagneren.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **Aantal openstaande issues en openstaande pull-verzoeken:** Als deze aantallen te hoog worden, heb je wellicht hulp nodig bij het testen van issues en codebeoordelingen.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Aantal _geopende_ issues en _geopende_ pull requests:** Geopende issues betekent dat iemand genoeg geeft om je project om een ​​issue te openen. Als dat aantal in de loop van de tijd toeneemt, suggereert dit dat mensen geïnteresseerd zijn in uw project.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Soorten bijdragen:** Bijvoorbeeld commits, typefouten of bugs verhelpen, of commentaar geven op een probleem.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  Open source is meer dan alleen code. Succesvolle open source-projecten omvatten bijdragen aan code en documentatie, samen met gesprekken over deze veranderingen.
+  
+  _Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes._
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
 </aside>
 
-## Maintainer activity
+## open source beheerdersactiviteit
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+Ten slotte wilt u de cirkel sluiten door ervoor te zorgen dat de beheerders van uw project het volume van de ontvangen bijdragen aankunnen. De laatste vraag die je jezelf wilt stellen is: _Reageer ik (of zijn wij) op onze community?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+Niet-reagerende beheerders worden een bottleneck voor open source-projecten. Als iemand een bijdrage indient maar nooit iets van een onderhouder hoort, kan hij of zij zich ontmoedigd voelen en vertrekken.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Onderzoek van Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggereert dat het reactievermogen van de open source-onderhouder een cruciale factor is bij het aanmoedigen van herhaalde bijdragen.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Overweeg om bij te houden hoe lang het duurt voordat u (of een andere onderhouder) reageert op bijdragen, of dit nu een probleem of een pull-verzoek is. Reageren vereist geen actie. Het kan zo simpel zijn als te zeggen: _"Bedankt voor uw inzending! Ik zal dit binnen de komende week beoordelen."_
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+U kunt ook de tijd meten die nodig is om tussen fasen in het bijdrageproces te schakelen, zoals:
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+* Gemiddelde tijd dat een probleem open blijft
+* Of kwesties worden gesloten door PR's
+* Of oude problemen worden gesloten
+* Gemiddelde tijd om een ​​pull-aanvraag samen te voegen
 
-## Use 📊 to learn about people
+## Gebruik 📊 om over mensen te leren
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+Door statistieken te begrijpen, kunt u een actief, groeiend open source-project opzetten. Zelfs als u niet elke statistiek op een dashboard volgt, kunt u het bovenstaande framework gebruiken om uw aandacht te richten op het soort gedrag dat uw project zal helpen gedijen.

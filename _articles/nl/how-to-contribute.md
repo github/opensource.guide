@@ -1,15 +1,15 @@
 ---
 lang: nl
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+title: Hoe u kunt bijdragen aan Open Source
+description: Wil je bijdragen aan open source? Een gids voor het maken van open source-bijdragen, voor beginners en veteranen.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  why-contribute-to-open-source: "Waarom bijdragen aan open source?"
+  what-it-means-to-contribute: "Wat het betekent om bij te dragen"
+  orienting-yourself-to-a-new-project: "Je oriënteren op een nieuw project"
+  finding-a-project-to-contribute-to: "Een project vinden om aan bij te dragen"
+  how-to-submit-a-contribution: "Hoe u een bijdrage kunt indienen"
+  what-happens-after-you-submit-a-contribution: "Wat gebeurt er nadat u een bijdrage heeft ingeleverd?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -17,7 +17,7 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Waarom bijdragen aan open source?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
@@ -59,7 +59,7 @@ Open source offers opportunities to practice leadership and management skills, s
 
 You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
-## What it means to contribute
+## Wat het betekent om bij te dragen
 
 If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
@@ -153,7 +153,7 @@ For example:
 
 Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
 
-## Orienting yourself to a new project
+## Je oriënteren op een nieuw project
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
@@ -200,7 +200,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
 
-## Finding a project to contribute to
+## Een project vinden om aan bij te dragen
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
@@ -386,7 +386,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
   </p>
 </aside>
 
-## How to submit a contribution
+## Hoe u een bijdrage kunt indienen
 
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
 
@@ -498,7 +498,7 @@ If the project is on GitHub, here's how to submit a pull request:
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
-## What happens after you submit a contribution
+## Wat gebeurt er nadat u een bijdrage heeft ingeleverd?
 
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 

@@ -1,16 +1,16 @@
 ---
 lang: nl
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+title: De juridische kant van open source
+description: Alles wat je je ooit hebt afgevraagd over de juridische kant van open source, en een paar dingen die je niet deed.
 class: legal
 toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
-  are-public-github-projects-open-source: "Are public GitHub projects open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Just give me the TL;DR on what I need to protect my project"
-  which-open-source-license-is-appropriate-for-my-project: "Which open source license is appropriate for my project?"
-  what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
-  does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
-  what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
+  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Waarom geven mensen zoveel om de juridische kant van open source?"
+  are-public-github-projects-open-source: "Zijn openbare GitHub-projecten open source?"
+  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Geef me gewoon de TL;DR over wat ik nodig heb om mijn project te beschermen"
+  which-open-source-license-is-appropriate-for-my-project: "Welke open source-licentie is geschikt voor mijn project?"
+  what-if-i-want-to-change-the-license-of-my-project: "Wat moet ik doen als ik de licentie van mijn project wil wijzigen?"
+  does-my-project-need-an-additional-contributor-agreement: "Heeft mijn project een aanvullende contribuantenovereenkomst nodig?"
+  what-does-my-companys-legal-team-need-to-know: "Wat moet het juridische team van mijn bedrijf weten?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -22,7 +22,7 @@ related:
 
 Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
 
-## Why do people care so much about the legal side of open source?
+## Waarom geven mensen zoveel om de juridische kant van open source?
 
 Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
 
@@ -34,7 +34,7 @@ If you don't apply an open source license, everybody who contributes to your pro
 
 Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
 
-## Are public GitHub projects open source?
+## Zijn openbare GitHub-projecten open source?
 
 When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
 
@@ -44,7 +44,7 @@ When you [create a new project](https://help.github.com/articles/creating-a-new-
 
 If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
 
-## Just give me the TL;DR on what I need to protect my project.
+## Geef me gewoon de TL;DR over wat ik nodig heb om mijn project te beschermen
 
 You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
 
@@ -60,7 +60,7 @@ When you create a new project on GitHub, you'll be [asked to add a license](http
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## Welke open source-licentie is geschikt voor mijn project?
 
 If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
 
@@ -76,11 +76,11 @@ You may also want to consider the **communities** you hope will use and contribu
 * **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
 * **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
 
-Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
+Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#wat-moet-het-juridische-team-van-mijn-bedrijf-weten).
 
 When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
 
-## What if I want to change the license of my project?
+## Wat moet ik doen als ik de licentie van mijn project wil wijzigen?
 
 Most projects never need to change licenses. But occasionally circumstances change.
 
@@ -94,7 +94,7 @@ For example, as your project grows it adds dependencies or users, or your compan
 
 Alternatively, you can have contributors agree in advance (via an additional contributor agreement -- see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
 
-## Does my project need an additional contributor agreement?
+## Heeft mijn project een aanvullende contribuantenovereenkomst nodig?
 
 Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
@@ -120,7 +120,7 @@ Some situations where you may want to consider an additional contributor agreeme
 
 If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
 
-## What does my company's legal team need to know?
+## Wat moet het juridische team van mijn bedrijf weten?
 
 If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
 
@@ -163,4 +163,4 @@ Longer term, your legal team can do more to help the company get more from its i
 </aside>
 
 * **Patents:** Your company may wish to join the [Open Invention Network](https://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#heb-ik-een-juridische-entiteit-nodig-om-mijn-project-te-ondersteunen).
