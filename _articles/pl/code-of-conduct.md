@@ -54,7 +54,7 @@ Musisz wyjaśnić, w jaki sposób Twój kodeks postępowania będzie egzekwowany
 
 Powinieneś dać ludziom prywatny sposób (np. Adres e-mail), aby zgłosić naruszenie zasad postępowania i wyjaśnić, kto otrzyma to zgłoszenie. Może to być opiekun, grupa opiekunów lub grupa robocza ds. Kodeksu postępowania.
 
-Nie zapominaj, że ktoś może chcieć zgłosić naruszenie dotyczące osoby, która je otrzyma. W takim przypadku daj im możliwość zgłaszania naruszeń komuś innemu. Na przykład, @ctb oraz @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Nie zapominaj, że ktoś może chcieć zgłosić naruszenie dotyczące osoby, która je otrzyma. W takim przypadku daj im możliwość zgłaszania naruszeń komuś innemu. Na przykład, @ctb oraz @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Przypadki obraźliwych, nękających lub w inny sposób niedopuszczalnych zachowań można zgłaszać, wysyłając wiadomość e-mail na adres **khmer-project@idyll.org**, który jest wysyłany tylko do C. Titusa Browna i Michaela R. Crusoe. Aby zgłosić problem dotyczący któregokolwiek z nich, wyślij wiadomość e-mail **dr Judi Brown Clarke** dyrektor ds. Różnorodności w Centrum Badań nad Ewolucją w Działaniu BEACON, Centrum Nauki i Technologii NSF.*
 

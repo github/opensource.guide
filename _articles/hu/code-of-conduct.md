@@ -54,7 +54,7 @@ Magyarázd el részletesen, hogy a magatartási kódexnek hogyan szerzel érvén
 
 Praktikus biztosítani egy privát csatornát (pl. e-mail cím), amin a magatartási kódex megsértését jelenteni tudják. Add meg azt is, hogy ki vagy kik kapják a jelentést. Ez lehet egy vagy több karbantartó, esetleg egy külön testület.
 
-Ne feledd, előfordulhat, hogy épp olyan személyre vonatkozóan érkezik kifogás aki szintén kapja a jelentést. Ebben az esetben adj lehetőséget arra, hogy más személy részére jelentsék a szabálysértést. Például, @ctb és @mr-c [kifejtik ezt a projektjükben](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Ne feledd, előfordulhat, hogy épp olyan személyre vonatkozóan érkezik kifogás aki szintén kapja a jelentést. Ebben az esetben adj lehetőséget arra, hogy más személy részére jelentsék a szabálysértést. Például, @ctb és @mr-c [kifejtik ezt a projektjükben](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > A zaklató, erőszakos vagy egyéb elfogadhatatlan viselkedést emailben lehet jelenteni **khmer-project@idyll.org** címre, amelyet csak C. Titus Brown és Michael R. Crusoe kap meg. Ha bármelyikük érintett a szabálysértésben, akkor **Judi Brown Clarke, Ph.D.** Sokszínűségért Felelős Igazgató legyen a címzett.*
 

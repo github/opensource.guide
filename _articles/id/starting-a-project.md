@@ -43,7 +43,7 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
 
 * **Kolaborasi:** Proyek open source bisa menerima perubahan dari siapapun juga di seluruh dunia. [Exercism](https://github.com/exercism/), sebagai contoh, adalah kerangka latihan pemrograman dengan lebih dari 350 kontributor.
 
-* **Adopsi dan menggabungkan:** Proyek open source bisa digunakan oleh siapapun untuk hampir semua tujuan. Bahkan bisa digunakan untuk membangun proyek lain. [WordPress](https://github.com/WordPress), sebagai contoh, dimulai dari hasil _fork_ dari proyek yang sudah ada bernama [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adopsi dan menggabungkan:** Proyek open source bisa digunakan oleh siapapun untuk hampir semua tujuan. Bahkan bisa digunakan untuk membangun proyek lain. [WordPress](https://github.com/WordPress), sebagai contoh, dimulai dari hasil _fork_ dari proyek yang sudah ada bernama [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparansi:** Setiap orang dapat melihat kesalahan atau inkonsistensi pada proyek open source. Transparansi sangat penting bagi pemerintah seperti [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) atau  [Amerika Serikat](https://sourcecode.cio.gov/), industri yang memiliki regulasi seperti perbankan atau kesehatan, dan perangkat lunak keamanan seperti [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -179,7 +179,7 @@ Selain aspek teknis, dokumen CONTRIBUTING juga merupakan kesempatan untuk mengko
 
 Menggunakan nada yang bersahabat dan menawarkan tawaran yang spesifik untuk kontribusi (misalnya menuliskan dokumentasi, atau membuat halaman web) bisa membuat pendatang merasa nyaman dan diterima serta tertarik untuk berpartisipasi.
 
-Sebagai contoh, [Active Admin](https://github.com/activeadmin/activeadmin/) memulai [panduan kontribusinya](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) dengan:
+Sebagai contoh, [Active Admin](https://github.com/activeadmin/activeadmin/) memulai [panduan kontribusinya](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) dengan:
 
 > Pertama-tama, terima kasih karena Anda mempertimbangkan untuk berpartisipasi pada Active Admin. Orang-orang seperti Anda yang membuat Active Admin menjadi sebuah perangkat yang hebat.
 
@@ -187,7 +187,7 @@ Pada fase awal dari proyek Anda, dokumen CONTRIBUTING bisa sangat sederhana. And
 
 Seiring dengan berjalannya waktu, Anda bisa menambahkan pertanyaan yang paling sering ditanyakan pada dokumen CONTRIBUTING. Menuliskan informasi ini berarti lebih sedikit orang yang akan bertanya pertanyaan yang sama kepada Anda berulang kali.
 
-Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
+Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
 
 Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang melihatnya. Jika Anda [meletakkan dokumen CONTRIBUTING pada repositori proyek](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub akan secara otomatis menghubungkan ke dokumen Anda ketika seorang kontributor membuat sebuah laporan masalah atau membuat pull request.
 

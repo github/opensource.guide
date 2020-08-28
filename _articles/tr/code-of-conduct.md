@@ -60,7 +60,7 @@ Bir ihlal meydana _gelmeden önce_ davranış kurallarınızın nasıl uygulanac
 
 İnsanlara davranış kuralları ihlalini bildirebilmeleri için özel bir yol (e-posta adresi gibi) vermelisiniz ve bu raporun kimlere ulaştığını açıklamalısınız. Bu bir kurucu, bir geliştirme grubu veya bir davranış kuralları çalışma grubu olabilir.
 
-Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebileceğini de unutmayın. Bu durumda, ihlalleri bir başkasına bildirme seçeneği de verin. Örneğin, @ctb ve @mr-c"nin [projeleri üzerinde açıkladıkları gibi](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst) , [khmer](https://github.com/dib-lab/khmer) :
+Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebileceğini de unutmayın. Bu durumda, ihlalleri bir başkasına bildirme seçeneği de verin. Örneğin, @ctb ve @mr-c"nin [projeleri üzerinde açıkladıkları gibi](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst) , [khmer](https://github.com/dib-lab/khmer) :
 
 > Kötü niyetli, taciz edici veya kabul edilemez davranışların **örnekleri** , yalnızca C. Titus Brown ve Michael R. Crusoe'ye gönderilen **khmer-project@idyll.org adresine** e-posta {strong2}gönderilerek{/strong2} bildirilebilir. İkisini de içeren bir sorunu bildirmek için lütfen {strong3}Judi Brown Clarke, Ph.D.{/strong3} NSAC Bilim ve Teknoloji Merkezi olan, Eylemdeki Evrim Çalışması Merkezi'ndeki BEACON Çeşitlilik Direktörü. *
 

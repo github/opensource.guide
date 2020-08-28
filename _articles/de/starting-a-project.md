@@ -40,7 +40,7 @@ _Freie Software_ meint dieselbe Art von Projekten wie _Open Source_. Der [Begrif
 
 * **Zusammenarbeit:** Open-Source-Projekte nehmen Beiträge aus der ganzen Welt an. [Exercism](https://github.com/exercism/) beispielsweise ist eine Programmierübungsplatform mit über 350 Kontributor\*innen.
 
-* **Anpassungen:** Open-Source-Projekte können von jedem Menschen für fast jeden Zweck benutzt werden. Leute können daraus sogar andere Dinge bauen. [WordPress](https://github.com/WordPress) beispielsweise begann als ein Fork eines existierenden Projekts namens [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Anpassungen:** Open-Source-Projekte können von jedem Menschen für fast jeden Zweck benutzt werden. Leute können daraus sogar andere Dinge bauen. [WordPress](https://github.com/WordPress) beispielsweise begann als ein Fork eines existierenden Projekts namens [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparenz:** In einem Open-Source-Projekt können Fehler oder Ungereimtheiten von jedem behoben werden. Transparenz ist sowohl für Regierungen in [Bulgarien](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) oder den [Vereinigten Staaten](https://web.archive.org/web/20180306072551/https://sourcecode.cio.gov/), für regulierte Industrien wie den Banken- oder Gesundheitssektor und für Sicherheitssoftware wie [Let's Encrypt](https://github.com/letsencrypt) gleichermaßen wichtig.
 
@@ -189,7 +189,7 @@ Neben thematischen Details präsentiert die CONTRIBUTING-Datei auch Ihre Erwartu
 
 Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge (wie z.B. "Dokumentationen verfassen" oder "eine Website erstellen") können Sie dazu beitragen, dass sich Neuankömmlinge willkommen und begeistert fühlen.
 
-Beispielsweise leitet [Active Admin](https://github.com/activeadmin/activeadmin/)  [ihre Beitragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ein mit:
+Beispielsweise leitet [Active Admin](https://github.com/activeadmin/activeadmin/)  [ihre Beitragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) ein mit:
 
 > Zuerst einmal vielen Dank, dass Sie überlegt haben, einen Beitrag zu Active Admin zu leisten, denn es sind Menschen wie Sie, die Active Admin so großartig machen.
 >
@@ -199,7 +199,7 @@ In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Si
 
 Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBUTING-Datei hinzufügen. Diese Informationen aufzuschreiben verhindert, dass weniger Leute die immer wieder gleichen Fragen stellen werden.
 
-@nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
+@nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
 
 Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bemerken. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
 
