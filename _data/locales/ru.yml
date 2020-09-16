@@ -1,0 +1,31 @@
+en:
+  locale_name: Русский
+  nav:
+    about: О сайте
+    contribute: Помощь
+  index:
+    lead: Программы с отрытым кодом создают такие же простые люди, как и вы. Научитесь запускать и развивать свой проект.
+    opensourcefriday:  Сегодня пятница! Посвятите несколько часов понравившейся программе, которую вы используете.
+  article:
+    table_of_contents: Содержание
+    back_to_all_guides: Вернуться к списку руководств
+    related_guides: Другие руководства
+  footer:
+    contribute:
+      heading: Не оставайтесь в стороне
+      description: Хотите что-то предложить? Весь контент на этом сайте открыт для редактирования. Вы можете помочь улучшить его.
+      button: Принять участие
+    subscribe:
+      heading: Держите руку на пульсе
+      description: Узнавайте первыми о последних советах и ресурсах в мире опенсорса от GitHub.
+      label: Адрес электронной почты
+      button: Подписаться на рассылку
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] с [love] от [github] и [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: friends
