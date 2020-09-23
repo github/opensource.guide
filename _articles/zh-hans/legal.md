@@ -27,7 +27,7 @@ redirect_from: /zh-cn/legal/
 
 最后，你们的项目可能和你们不知道的许可证要求存在依赖关系。你们的项目社区，或者你们的雇主政策也可能要求你们使用特定的开源许可协议。我们将在下面介绍这些情况。
 
-## Github上的公开项目都是开源的吗？
+## GitHub上的公开项目都是开源的吗？
 
 当你们在GitHub上[创建一个新项目](https://help.github.com/articles/creating-a-new-repository/) 时，你们可以选择将仓库设置成**private**或者**public**。
 
