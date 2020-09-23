@@ -38,7 +38,7 @@ redirect_from: /zh-cn/metrics/
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-如果你的项目是托管在Github, 你可以[访问](https://help.github.com/articles/about-repository-graphs/#traffic) 获取诸如多少人访问过你的项目，他们从哪里得知的之类的信息。在你的项目主页，点击"Graphs", 然后"Traffic"。在这个页面，你可以看到:
+如果你的项目是托管在GitHub, 你可以[访问](https://help.github.com/articles/about-repository-graphs/#traffic) 获取诸如多少人访问过你的项目，他们从哪里得知的之类的信息。在你的项目主页，点击"Graphs", 然后"Traffic"。在这个页面，你可以看到:
 
 * **总浏览量:** 项目被查看了多少次
 
@@ -60,7 +60,7 @@ redirect_from: /zh-cn/metrics/
 
 每个包管理工具可能会对下载量有着大同小异的定义，而且下载量并不直接和安装、使用有关，但是它提供了一个基本的比较标准。尝试使用[Libraries.io](https://libraries.io/) 来跟踪很多流行包管理工具的使用数据。
 
-如果你的项目是托管在Github上，再一次切换到"Traffic" 页面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的项目在一个给定的日期被克隆了多少次，按照独立克隆者的总克隆数排序。
+如果你的项目是托管在GitHub上，再一次切换到"Traffic" 页面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的项目在一个给定的日期被克隆了多少次，按照独立克隆者的总克隆数排序。
 
 ![clone graph](/assets/images/metrics/clone_graph.png)
 

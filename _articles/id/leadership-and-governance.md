@@ -117,7 +117,7 @@ Jika Anda bagian dari sebuah perusahaan yang merilis proyek open source, maka ak
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  Kami menugaskan kelompok kecil untuk mengelola proyek pada Github di Facebook. Sebagai contoh, React dikelola oleh pengembang React.
+  Kami menugaskan kelompok kecil untuk mengelola proyek pada GitHub di Facebook. Sebagai contoh, React dikelola oleh pengembang React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
