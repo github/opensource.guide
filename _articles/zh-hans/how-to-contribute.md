@@ -1,7 +1,7 @@
 ---
 lang: zh-hans
 title: 如何为开源做贡献
-description: 想为开源贡献力量？本指南针为"菜鸟"和初学者而准备！
+description: 想为开源贡献力量？本指南为"菜鸟"和初学者而准备！
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
