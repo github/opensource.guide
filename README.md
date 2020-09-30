@@ -3,6 +3,7 @@
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
+don't forget to contribute to this amazing open source website.
 
 ## Background
 Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is because we felt that there weren't enough resources for people creating open source projects.
