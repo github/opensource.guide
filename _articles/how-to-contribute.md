@@ -64,7 +64,7 @@ You don't have to become a lifelong contributor to enjoy participating in open s
 If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
-
+I learned a lot from this blog!
 ### You don't have to contribute code
 
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
