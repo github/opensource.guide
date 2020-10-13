@@ -3,11 +3,6 @@ lang: ko
 title: 오픈소스 작업에 대한 비용 지불하기
 description: 시간이나 프로젝트에 대한 재정적 지원을 받음으로써 오픈소스에서의 작업을 지속합니다.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "어떤 사람들은 왜 재정 지원을 요청 하는가"
-  funding-your-own-time: "시간 펀딩하기"
-  finding-funding-for-your-project: "프로젝트 펀딩 찾기"
-  building-a-case-for-financial-support: "재정 지원 사례 구축하기"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -37,7 +32,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["우리가 왜 기여를 허락하면 안되는가"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["우리가 왜 기여를 허락하면 안되는가"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
@@ -59,7 +54,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["현금과 오픈소스"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
+— @isaacs, ["현금과 오픈소스"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
@@ -99,14 +94,14 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 현 고용주가 오픈소스 업무의 우선 순위를 결정할 수 없다면, 직원의 오픈소스 기여도를 높이는 새로운 고용주를 찾는 것이 좋습니다. 오픈소스 작업에 대한 헌신을 분명히 하는 회사를 찾아보십시오. 예시입니다 :
 
-* 일부 회사는, [넷플릭스](https://netflix.github.io/)혹은 [페이팔](http://paypal.github.io/)처럼, 오픈소스에 대한 그들의 참여를 강조하는 웹 사이트를 가지고있습니다
-* [Rackspace](https://www.rackspace.com/en-us)는 직원을 위한 [오픈소스 기여 정책](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)을 게시했습니다
+* 일부 회사는, [넷플릭스](https://netflix.github.io/)혹은 [페이팔](https://paypal.github.io/)처럼, 오픈소스에 대한 그들의 참여를 강조하는 웹 사이트를 가지고있습니다
+* [Zalando](https://opensource.zalando.com)는 직원을 위한 [오픈소스 기여 정책](https://opensource.zalando.com/docs/using/contributing/)을 게시했습니다
 
 [Go](https://github.com/golang)또는 [React](https://github.com/facebook/react)와 같은 대기업에서 시작된 프로젝트도, 오픈소스 작업에 사람들을 고용 할 가능성이 높습니다.
 
 마지막으로, 개인적인 상황에 따라, 오픈소스 작업을 위해 독립적으로 돈을 모으는 노력을 할 수 있습니다. 예시:
 
-* @gaearon은 [Patreon crowdfunding campaign](http://redux.js.org/)을 통해 [Redux](https://github.com/reactjs/redux)에 대한 그의 작업에 펀드했습니다.
+* @gaearon은 [Patreon crowdfunding campaign](https://redux.js.org/)을 통해 [Redux](https://github.com/reactjs/redux)에 대한 그의 작업에 펀드했습니다.
 * @andrewgodwin은 Django 스키마 마이그레이션 작업을 [Kickstarter 캠페인을 통해](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 펀드했습니다.
 
 ## Finding funding for your project

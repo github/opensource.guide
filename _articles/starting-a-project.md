@@ -22,18 +22,11 @@ So you're thinking about getting started with open source? Congratulations! The 
 
 ### What does "open source" mean?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+When a project is open source, that means **anybody is free to use, study, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Open source is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. Also because it gives users a potential to control their own computing, relative to closed source. For example, a business using open source software has the option to hire someone to make custom improvements to the software, rather than relying exclusively on a closed source vendor's product decisions.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
-
-* Everybody tries the pie (_use_)
-* The pie is a hit! They ask you for the recipe, which you provide (_view_)
-* One friend, Alex, who's a pastry chef, suggests reducing the sugar (_modify_)
-* Another friend, Lisa, asks to use it for a dinner next week (_distribute_)
-
-By comparison, a closed source process would be going to a restaurant and ordering a slice of cherry pie. You must pay a fee to eat the pie, and the restaurant probably won't give you their recipe. If you copied their pie exactly and sold it under your own name, the restaurant could take action against you.
+_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open source software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
 
 ### Why do people open source their work?
 
@@ -41,7 +34,7 @@ By comparison, a closed source process would be going to a restaurant and orderi
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.pjt9oqp4w)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -49,7 +42,7 @@ By comparison, a closed source process would be going to a restaurant and orderi
 
 * **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -85,7 +78,7 @@ If your only goal is to show off your work, you may not even want contributions,
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
@@ -101,7 +94,7 @@ If you need a dedicated budget or staffing for promotion, operations and maintai
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -156,16 +149,16 @@ In your README, try to answer the following questions:
 You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
 Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+For more inspiration, try using @dguo's ["Make a README" guide](https://www.makeareadme.com/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
 
 When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
 
@@ -185,7 +178,7 @@ In addition to technical details, a CONTRIBUTING file is an opportunity to commu
 
 Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) with:
 
 > First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
@@ -193,7 +186,7 @@ In the earliest stages of your project, your CONTRIBUTING file can be simple. Yo
 
 Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
 Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
 
@@ -205,7 +198,7 @@ Link to your CONTRIBUTING file from your README, so more people see it. If you [
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
@@ -215,7 +208,7 @@ For more information, check out our [Code of Conduct guide](../code-of-conduct/)
 
 In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters/), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
 
 Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
 
@@ -256,13 +249,13 @@ Whether it's official documentation or a casual email, your writing style is par
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
 Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://github.com/johnpapa/angular-styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://angular.io/guide/styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
 
 It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
 

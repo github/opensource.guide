@@ -4,11 +4,9 @@ require "bundler/setup"
 require "html-proofer"
 
 url_ignores = [
-  %r{^https://github.com/github/opensource.guide},
-  "https://karissa.github.io/post/okf-de",
-  "https://this-week-in-rust.org/",
-  "https://www.vagrantup.com/",
-  "https://www.quora.com/",
+  "https://okdistribute.xyz/post/okf-de",
+  "https://www.drupal.org/community-initiatives/drupal-core/usability",
+  "https://scripts.sil.org/ofl",
 ]
 
 HTMLProofer::Runner.new(
@@ -21,5 +19,6 @@ HTMLProofer::Runner.new(
   check_img_http: true,
   favicon: true,
   assume_extension: true,
-  http_status_ignore: [0]
+  only_4xx: true,
+  http_status_ignore: [429]
 ).run
