@@ -329,7 +329,7 @@ Jeśli jesteś osobą fizyczną:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  Rozmawiałeś z działem prawnym i/lub rozumiesz zasady dotyczące własności intelektualnej i zasad dotyczące oprogramowania open source (jeśli jesteś zatrudniony)
   </label>
 </div>
 
@@ -338,28 +338,28 @@ Jeśli jesteś firmą lub organizacją:
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    Rozmawiałeś ze swoim działem prawnym
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    Masz plan marketingowy, aby ogłosić i promować swój projekt
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    Ktoś jest zaangażowany w zarządzanie interakcjami społeczności (odpowiadanie na problemy, przeglądanie i łączenie pull requests)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    Przynajmniej dwie osoby mają dostęp administracyjny do projektu
   </label>
 </div>
 
