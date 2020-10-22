@@ -304,21 +304,21 @@ Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznac
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    Projekt wykorzystuje spójne konwencje kodu i przejrzyste nazwy funkcji, metod oraz zmiennych
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    Kod jest dobrze skomentowany, dokumentując intencje i skrajne przypadki
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    W historii zmian, w problemach lub Pull Request nie ma żadnych poufnych materiałów (na przykład haseł lub innych niepublicznych informacji)
   </label>
 </div>
 
