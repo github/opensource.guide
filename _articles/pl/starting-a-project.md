@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Starting an Open Source Project
+title: Rozpoczęcie projektu Open Source
 description: Dowiedz się więcej o świecie open source i przygotuj się do uruchomienia własnego projektu.
 class: beginners
 order: 2
