@@ -274,28 +274,28 @@ Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznac
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    Projekt posiada plik LICENSE z licencją typu open source
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    Projekt posiada podstawową dokumentację (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    Nazwa jest łatwa do zapamiętania, daje pewne wyobrażenie o tym, czym jest projekt i nie koliduje z istniejącym projektem oraz nie narusza znaków towarowych
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    Lista "issue" jest aktualna, a sprawy są przejrzyście uporządkowane i opatrzone etykietami
   </label>
 </div>
 
