@@ -246,7 +246,7 @@ Oto przydatna lista kontrolna do oceny, czy projekt jest dobry dla nowych autor�
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, there is a file called LICENSE in the root of the repository.
+  Czy ma licencję? Zwykle w katalogu głównym repozytorium znajduje się plik o nazwie LICENSE.
   </label>
 </div>
 
