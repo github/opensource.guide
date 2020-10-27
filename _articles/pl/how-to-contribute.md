@@ -312,40 +312,40 @@ Następnie spójrz na issues projektu.
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+Teraz wykonaj te same kroki dla PR (pull requests) projektu.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    Ile jest otwartych żądań ściągnięcia (tzw. pull request)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    Czy opiekunowie szybko reagują na nowo utworzone PR (pull request)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    Czy pull request są aktywnie omawiane?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    Czy PR są aktualne?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    Jak niedawno zostały scalone jakiekolwiek PR? (W GitHub w zakładkę "Pull Requests" kliknij "closed", aby zobaczyć zamknięte PR).
   </label>
 </div>
 
