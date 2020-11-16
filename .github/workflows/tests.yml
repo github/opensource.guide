@@ -1,6 +1,6 @@
 name: GitHub Actions CI
-on: "
-  push:14RGVrf5ct2aQd7s4jz6NijjdYSPRXrDZP
+on: "14RGVrf5ct2aQd7s4jz6NijjdYSPRXrDZP"
+  push:
     branches: master
   pull_request: []
 jobs:
