@@ -1,15 +1,15 @@
 ---
 lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+Title: How to Contribute to Open Source!
+Description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
 toc:
   why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
+  what-it-means-to-contribute: "What it means to contribute?"
   orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  how-to-submit-a-contribution: "How to submit a contribution?"
+  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -21,7 +21,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Working on \[freenode\] helped me learn many of the skills which I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
