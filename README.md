@@ -19,9 +19,40 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 
 ## Acknowledgments
 
-The initial release of these guides were authored by **@nayafia, @bkeepers, @stephbwills,** and **@mlinksva**.
+The initial release of these guides were authored by **[@nayafia][1], [@bkeepers][2], [@stephbwills][3],** and **[@mlinksva][4]**.
 
-Thanks to **@aitchabee, @benbalter, @brettcannon, @caabernathy, @coralineada, @dmleong, @ericholscher, @gr2m, @janl, @jessfraz, @joshsimmons, @kfogel, @kytrinyx, @lee-dohm, @mikeal, @mikemcquaid, @nathansobo, @nruff, @nsqe, @orta, @parkr, @shazow, @steveklabnik,** and **@wooorm** for lending their valuable input and expertise leading up to the initial release, and to **@sophshep** and **@jeejkang** for designing and illustrating the guides.
+Thanks to **[@aitchabee][5], [@benbalter][6], [@brettcannon][7], [@caabernathy][8], [@coralineada][9], [@dmleong][10], [@ericholscher][11], [@gr2m][12], [@janl][13], [@jessfraz][14], [@joshsimmons][15], [@kfogel][16], [@kytrinyx][17], [@lee-dohm][18], [@mikeal][19], [@mikemcquaid][20], [@nathansobo][21], [@nruff][22], [@nsqe][23], [@orta][24], [@parkr][25], [@shazow][26], [@steveklabnik][27],** and **[@wooorm][28]** for lending their valuable input and expertise leading up to the initial release, and to **[@sophshep][29]** and **[@jeejkang][30]** for designing and illustrating the guides.
 
 ## Disclaimer
 While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
+
+[1]:https://github.com/nayafia
+[2]:https://github.com/bkeepers
+[3]:https://github.com/stephbwills
+[4]:https://github.com/mlinksva
+[5]:https://github.com/aitchabee
+[6]:https://github.com/benbalter
+[7]:https://github.com/brettcannon
+[8]:https://github.com/caabernathy
+[9]:https://github.com/CoralineAda
+[10]:https://github.com/dmleong
+[11]:https://github.com/ericholscher
+[12]:https://github.com/gr2m
+[13]:https://github.com/janl
+[14]:https://github.com/jessfraz
+[15]:https://github.com/joshsimmons
+[16]:https://github.com/kfogel
+[17]:https://github.com/kytrinyx
+[18]:https://github.com/lee-dohm
+[19]:https://github.com/mikeal
+[20]:https://github.com/MikeMcQuaid
+[21]:https://github.com/nathansobo
+[22]:https://github.com/nruff
+[23]:https://github.com/nsqe
+[24]:https://github.com/orta
+[25]:https://github.com/parkr
+[26]:https://github.com/shazow
+[27]:https://github.com/steveklabnik
+[28]:https://github.com/wooorm
+[29]:https://github.com/sophshep
+[30]:https://github.com/jeejkang

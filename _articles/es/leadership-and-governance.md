@@ -117,7 +117,7 @@ Si usted es parte de una empresa lanzando un proyecto de c&oacute;digo abierto, 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  Nosotros asignamos peque&ntilde;os equipos para gestionar proyectos en Github, los cuales está actualmente trabajando en ellos en Facebook. Por ejemplo, React es ejecutado por un Ingeniero de React.
+  Nosotros asignamos peque&ntilde;os equipos para gestionar proyectos en GitHub, los cuales está actualmente trabajando en ellos en Facebook. Por ejemplo, React es ejecutado por un Ingeniero de React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["Una vista interna del c&oacute;digo abierto en Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
