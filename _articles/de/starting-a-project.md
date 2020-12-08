@@ -210,7 +210,7 @@ Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bem
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
 
-  Wir haben alle Erfahrungen gemacht, wo wir mit Beleidigungen zu tun hatten, entweder als Betreuer\*in beim Erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) beim Stellen einfacher Frage. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verlinkbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
+  Wir haben alle Erfahrungen gemacht, wo wir mit Beleidigungen zu tun hatten, entweder als Betreuer\*in beim Erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) beim Stellen einer einfachen Frage. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verlinkbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
 
   _We've all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
 
