@@ -244,7 +244,7 @@ Akár hivatalos dokumentáció, akár alkalmi e-mail, az írási stílusa része
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Megpróbáltam részt venni a levelezőlista minden szálában, és példamutató magatartást mutatni, kedves voltam az emberekkel, komolyan vettem a kérdéseket, és általában mindenkinek segítettem. Egy idő múlva az emberek úgy kezdtek el viselkedni mint én, és nem csak kérdéseket tettek fel, hanem a válaszokat is adtak az én stílusomban, ennek nagyon örültem.
   <p markdown="1" class="pquote-credit">
-— @janl [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
