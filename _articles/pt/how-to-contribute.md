@@ -487,7 +487,7 @@ Se este é o seu primeiro pull request, confira [Faça um pull request](http://m
 
 ## O que acontece depois que você envia uma contribuição
 
-Você fez isso! Parabéns por se tornar um contribuidor open source. Esperamos que seja a primeira de muitas.
+Você conseguiu! Parabéns por se tornar um contribuidor open source. Esperamos que seja a primeira de muitas.
 
 Depois de enviar uma contribuição, uma das seguintes situações ocorrerá:
 
@@ -517,6 +517,6 @@ Sua contribuição pode ou não ser aceita no final. Espero que você não tenha
 
 Viva! Você fez uma contribuição open source com sucesso!
 
-## Você fez isso!
+## Você conseguiu!
 
 Se você acabou de fazer sua primeira contribuição open source ou está procurando novas maneiras de contribuir, esperamos que você esteja inspirado a agir. Mesmo que sua contribuição não tenha sido aceita, não se esqueça de agradecer quando um mantenedor se esforçar para ajudá-lo. O open source é feito por pessoas como você: uma issue, pull request, comentário ou high-five de cada vez.

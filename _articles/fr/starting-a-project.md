@@ -250,7 +250,7 @@ Qu'il s'agisse d'une documentation officielle ou d'un courriel occasionnel, votr
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   J'ai essayé de m'impliquer dans tous les sujets de la liste de diffusion, de montrer un comportement exemplaire, d'être gentil avec les gens, de prendre leurs problèmes au sérieux et d'essayer d'être utile dans l'ensemble. Au bout d'un moment, les gens sont restés non seulement à poser des questions, mais aussi à répondre aux questions, et à mon plus grand plaisir, ils ont imité mon style.
   <p markdown="1" class="pquote-credit">
-— @janl sur [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl sur [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
