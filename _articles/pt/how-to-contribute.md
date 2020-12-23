@@ -30,7 +30,7 @@ Seja codificando, desenhando interface do usuário, desenhando gráfico, escreve
 
 ### Encontre pessoas que estão interessadas em coisas parecidas
 
-Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões em conferências ou conversas online sobre burritos.
+Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões, em conferências ou conversas online sobre burritos.
 
 ### Encontre mentores e ensine outras pessoas
 
