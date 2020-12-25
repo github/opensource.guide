@@ -125,3 +125,7 @@ $ gh auth refresh --scopes admin:org
     }
   }
 }
+
+
+sudo sysctl -w net.ipv4.tcp_window_scaling=0
+repo sync -j1
