@@ -58,3 +58,5 @@ While we've got advice about running an open source project, we're not lawyers. 
 [30]:https://github.com/jeejkang
 
 $ ssh-keygen -t ed25519 -C "lionsavage1992@gmail.com"
+
+$ gh auth refresh --scopes admin:org
