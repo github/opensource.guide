@@ -174,7 +174,7 @@ Funders, whether your employer or a grantmaking foundation, are frequently appro
 
 What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
 
-### How you'll receive the funds
+
 
 Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
 
