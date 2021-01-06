@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Aspectos legales del codigo abierto.
+title: Aspectos legales del código abierto.
 description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
 class: legal
 order: 10
@@ -32,7 +32,7 @@ Cuando t&uacute; [creas un nuevo proyecto](https://help.GitHub.com/articles/crea
 
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
 
-**Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [Los T&eacute;rminos de Servicio de GitHub](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
+**Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [Los T&eacute;rminos de Servicio de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
 
 Si quieres que otros usen, copien, modifiquen, o contribuyan a tu proyecto, debes incluir una licencia de c&oacute;digo abierto. Por ejemplo, nadie puede usar legalmente cualquier parte de tu proyecto de GitHub en su c&oacute;digo, incluso si es p&uacute;blico, a menos que expl&iacute;citamente le concedas dicho derecho.
 
@@ -89,7 +89,7 @@ De manera alternativa, puedes tener colaboradores que est&eacute;n de acuerdo po
 
 ## ¿Necesita mi proyecto un acuerdo adicional de colaboradores?
 
-Probablemente no. En la mayor&iacute;a de los proyectos de c&oacute;digo abierto, una licencia de c&oacute;digo abierto sirve impl&iacute;citamente de licencia tanto para el interior (colaboradores) como para el exterior (a otros colaboradores y usuarios). Si tu proyecto se encuentra en GitHub, los T&eacute;rminos de Servicio de GitHub al hacen "entrante=saliente" la [expl&iacute;cita por defecto](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Probablemente no. En la mayor&iacute;a de los proyectos de c&oacute;digo abierto, una licencia de c&oacute;digo abierto sirve impl&iacute;citamente de licencia tanto para el interior (colaboradores) como para el exterior (a otros colaboradores y usuarios). Si tu proyecto se encuentra en GitHub, los T&eacute;rminos de Servicio de GitHub al hacen "entrante=saliente" la [expl&iacute;cita por defecto](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
 Un acuerdo adicional de colaboradores – a menudo llamado Acuerdo de Licencia de colaboradores (en ingl&eacute;s, CLA) – puede crear trabajo administrativo para mantenedores de proyecto. La cantidad de trabajo que suma un acuerdo depende del proyecto y su implementaci&oacute;n. Un acuerdo simple puede requerir que los colaboradores confirmen, con un click, que tienen los derechos necesarios para contribuir bajo la licencia de condigo abierto del proyecto. Un acuerdo m&aacute;s complicado, requerir&aacute; revisi&oacute;n legal y la aprobaci&oacute;n de los empleadores del contribuyente.
 

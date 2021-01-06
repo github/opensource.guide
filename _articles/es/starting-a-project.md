@@ -35,7 +35,7 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Una de las experiencias m&aacute;s gratificantes que obtengo de usar y colaborar en "C&oacute;digo abierto" proviene de las relaciones que construyo con cada uno de los desarrolladores que se encuentran enfrentando los mismos problemas que yo.
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80)
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -43,7 +43,7 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
 
 * **Colaboraci&oacute;n:** Los proyectos de c&oacute;digo abierto pueden aceptar cambios efectuados por cualquier persona alrededor del mundo. [Exercism](https://github.com/exercism/), por ejemplo, una plataforma para ejercicios de programaci&oacute;n con m&aacute;s de 350 colaboradores.
 
-* **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto puedne ser usados por cualquiera para casi cualquier pr&oacute;p&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto puedne ser usados por cualquiera para casi cualquier pr&oacute;p&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparencia:** Cualquiera puede inspeccionar un proyecto de este tipo, ya sea para encontrar errores como inconsistencias. La transparencia es de importancia para gobiernos como el de [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o [United States](https://sourcecode.cio.gov/), para industrias reguladas como la bancaria o la del cuidado de la salud, y para la seguridad del software como [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -77,7 +77,7 @@ Si tu &uacute;nico objetivo es mostrar al mundo tu trabajo, quiz&aacute;s no nec
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  En alg&uacute;n punto cre&eacute; un UIAlertView personalizado que estaba usando... I decid&iacute; hacerla c&oacute;digo abierto. Entonces la modifiqu&eacute; para que fuera m&aacute;s din&aacute;mica y la sub&iacute; a GitHub. Adem&aacute;s escrib&iacute; mi primera documentaci&oacute;n explicando a otros desarrolladores c&oacute;mo usarla en sus proyectos. Probablemente nadie jam&aacute;s la haya usado porque era un proyecto muy simple, pero me sent&iacute;a bien habiendo contribuido.
+  En alg&uacute;n punto cre&eacute; un UIAlertView personalizado que estaba usando... Y decid&iacute; hacerlo c&oacute;digo abierto. Entonces lo modifiqu&eacute; para que fuera m&aacute;s din&aacute;mico y lo sub&iacute; a GitHub. Adem&aacute;s escrib&iacute; mi primera documentaci&oacute;n explicando a otros desarrolladores c&oacute;mo usarlo en sus proyectos. Probablemente nadie jam&aacute;s lo haya usado porque era un proyecto muy simple, pero me sent&iacute;a bien habiendo contribuido.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
@@ -95,7 +95,7 @@ Si necesitas un presupuesto dedicado o personal para la promoci&oacute;n, operac
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   A medida que abres el c&oacute;digo de tu proyecto, es importante que puedas asegurarte de que los procesos de administraci&oacute;n tengan en cuenta a las contribuciones y a las habilidades de la comunidad alrededor de tu proyecto. No hay que asustarse al involucrar contribuyentes, que no est&eacute;n empleados en tu empresa, en aspectos claves del proyecto (especialmente si son contribuyentes frecuentes).
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
+— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
@@ -150,10 +150,10 @@ Trata de que tu README responda a las siguientes preguntas:
 Puedes usarlo para responder otras preguntas: c&oacute;mo manejo las contribuciones, cu&aacute;les son las metas del proyecto, e informaci&oacute;n acerca de licencias y atribuciones. Si no quieres aceptar contribuciones, o tu proyecto no est&aacute; listo para producci&oacute;n, lo escribes.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/limedaring?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Mejor documentaci&oacute;n significa m&aacute;s usuarios, menos pedidos de soporte, y m&aacute;s contribuyentes. Recuerda que tus lectores no son t&uacute;, son personas que quiz&aacute;s acudan al proyecto con experiencias totalmente distintas a las tuyas.
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
@@ -179,7 +179,7 @@ Adem&aacute;s de detalles t&eacute;cnicos, este archivo es una oportunidad para 
 
 Usando un tono c&aacute;lido y amigable, y ofreciendo sugerencias espec&iacute;ficas para contribuciones puede ayudar a los iniciados a sentirse bienvenidos y ansiosos de participar.
 
-Por ejemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) comienza [su gu&iacute;a de contribuciones](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) con:
+Por ejemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) comienza [su gu&iacute;a de contribuciones](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) con:
 
 > Primero, muchas gracias por considerar contribuir a Active Admin. Son personas como ustedes las que la hacen una gran herramienta.
 
@@ -187,7 +187,7 @@ En las primeras etapas del proyecto, tu archivo CONTRIBUITNG puede ser simple. S
 
 Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir &eacute;sta informaci&oacute;n significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
 
-Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
 Vincula tu CONTRIBUTING desde tu README, as&iacute; m&aacute;s personas pueden verlo.Si tu [colocas el archivo en tu repositorio](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub autom&aacute;ticamente lo vincular&aacute; cuando un contribuyente cree un issue o abra un pull request.
 
@@ -250,7 +250,7 @@ Ya sea documentaci&oacute;n oficial como casual (un email), tu estilo de redacci
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   He tratado de involucrarme con cada hilo del listado de emails, y mostrando un comportamiento ejemplar, siendo agradable con las personas, tomando sus issues seriamente y tratando de ser de ayuda por sobre todo. Despu&eacute;s de un tiempo las personas no solo me buscaban para hacerme preguntas si no para ayudarme a responderlas, y, para mi sorpresa, imitaban mi estilo.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

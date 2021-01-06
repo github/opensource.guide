@@ -54,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   நீங்கள் யாரையும் தெரியாத இடத்தில் (தொழில்நுட்ப-) நிகழ்வில் எப்போதாவது இருந்திருக்கிறீர்களா, ஆனால் எல்லோரும் குழுக்களில் நின்றுக்கொண்டு பழைய நண்பர்களைப் போல் அரட்டை அடிக்கிறார்களா? (...) Nஇப்போது நீங்கள் ஒரு திறந்த மூல திட்டத்தில் பங்களிப்பு செய்ய விரும்புகிறீர்கள் என்று கற்பனை செய்யுங்கள், ஆனால் இது ஏன் அல்லது எப்படி நடக்கிறது என்பதை நீங்கள் பார்க்கவில்லை.
   <p markdown="1" class="pquote-credit">
-— @janl, ["நிலையான திறந்த மூலம்"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["நிலையான திறந்த மூலம்"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -113,10 +113,10 @@ related:
 இந்த வகையான மக்களிடம் சகிப்பின்மையை கடைப்பிடிப்பது சிறந்தது. இதை தடுக்காமல் விட்டுவிட்டால், எதிர்மறையான மக்கள் உங்கள் சமூகத்தில் பிறருக்கு சங்கடத்தை ஏற்படுத்தலாம். அவர்கள் விலக கூட நேரிடலாம்.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   உண்மை என்னவென்றால் ஒரு ஆதரவான சமூகம் இருப்பது முக்கியமானது. என் சக பணியாளர்கள், நட்பு இணைய அந்நியர்கள் மற்றும் வம்பளக்கிற ஐ.ஆர்.சி. சேனல்கள் ஆகியோரின் உதவியின்றி இந்த வேலையை நான் செய்ய முடியாது. (...) குறைவாக குடியேறாதீர்கள். அறிவில்லாதவர்களை பொறுத்துக்கொள்ள தேவையில்லை.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["ஒரு FOSS திட்டத்தை எவ்வாறு இயக்க வேண்டும்"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["ஒரு FOSS திட்டத்தை எவ்வாறு இயக்க வேண்டும்"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -132,23 +132,23 @@ related:
 
 ![ஜாங்கோ புதிய பங்களிப்பாளர்கள் பக்கம்](/assets/images/building-community/django_new_contributors.png)
 
-உங்கள் பிரச்சினை வரிசையில், பல்வேறு வகை பங்களிப்பாளர்களுக்கு பொருத்தமான பிழைகளுக்கு விவரத்துணுக்கு கொடுக்கவும்: உதாரணத்திற்கு, [_"முதல் முறை பங்களிப்பாளர்களுக்கு மட்டும்"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"நல்ல முதல் பிழை"_, அல்லது _"ஆவணங்கள்"_. [இந்த விவரத்துணுக்குகள்](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) யாராவது உங்கள் திட்டத்திற்கு புதியவர்கள் விரைவாக உங்கள் பிரச்சினைகளை பார்பதற்கும், தொடங்குவதற்கும் எளிதாக்குகின்றன.
+உங்கள் பிரச்சினை வரிசையில், பல்வேறு வகை பங்களிப்பாளர்களுக்கு பொருத்தமான பிழைகளுக்கு விவரத்துணுக்கு கொடுக்கவும்: உதாரணத்திற்கு, [_"முதல் முறை பங்களிப்பாளர்களுக்கு மட்டும்"_](https://kentcdodds.com/blog/first-timers-only), _"நல்ல முதல் பிழை"_, அல்லது _"ஆவணங்கள்"_. [இந்த விவரத்துணுக்குகள்](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) யாராவது உங்கள் திட்டத்திற்கு புதியவர்கள் விரைவாக உங்கள் பிரச்சினைகளை பார்பதற்கும், தொடங்குவதற்கும் எளிதாக்குகின்றன.
 
 கடைசியாக, ஒவ்வொரு அடியிலும் மக்கள் வரவேற்பைப் பெற உங்கள் ஆவணங்களைப் பயன்படுத்தவும்.
 
 உங்கள் திட்டத்தில் உள்ள பெரும்பாலான மக்களுடன் நீங்கள் தொடர்பு கொள்ள மாட்டீர்கள். நீங்கள் பெறாத பங்களிப்புகள் இருக்கலாம், ஏனெனில் யாரோ ஒருவர் பயமுறுத்தப்பட்டார் அல்லது எங்கு தொடங்குவது என தெரியாமல் இருக்கலாம். உங்கள் திட்டத்தை இருந்து யாரேனும் விலகுவதை உங்களின் ஒரு சில கனிவான வார்த்தைகளால் தடுக்கலாம்.
 
-உதாரணமாக, [ரூபினிஸ்](https://github.com/rubinius/rubinius/) இங்கே எப்படி [அதன் பங்களிப்பு வழிகாட்டியை](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) தொடங்குகியது:
+உதாரணமாக, [ரூபினிஸ்](https://github.com/rubinius/rubinius/) இங்கே எப்படி [அதன் பங்களிப்பு வழிகாட்டியை](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) தொடங்குகியது:
 
 > ரூபினியஸைப் பயன்படுத்துவதற்கு நன்றி தெரிவிப்பதன் மூலம் நாம் துவங்க வேண்டும். இந்த திட்டம் காதலால் உருவானது, மற்றும் பிழைகள் பிடிக்க, செயல்திறன் மேம்பாடுகள், மற்றும் ஆவணங்களை உதவி என்று அனைத்து பயனர்களையும் பாராட்டுகிறோம். ஒவ்வொரு பங்களிப்பும் அர்த்தமுள்ளது, எனவே பங்கு பெறுவதற்கு நன்றி. இதனால் கூறப்படுவதன் என்னவெனில், உங்களுடைய பிரச்சினையை வெற்றிகரமாக தீர்க்க நாங்கள் பின்பற்றும் சில வழிகாட்டு நெறிகள் நீங்கள் பின்பற்ற வேண்டும் .
 
 ### Share ownership of your project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   உங்கள் தலைவர்கள் வித்தியாசமான கருத்துக்களைக் கொண்டிருக்கலாம், அனைத்து ஆரோக்கியமான சமூகங்களைப் போல! எனினும், உரத்த குரல் எப்போதும் மக்கள் சோர்வாகி வெளியேறவும் மூலம் வெற்றி பெறவில்லை என உறுதி செய்ய நடவடிக்கை எடுக்க வேண்டும், மற்றும் குறைந்த முக்கிய மற்றும் சிறுபான்மை குரல்கள் கேட்கப்பட வேண்டும்.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["என்ன ஒரு நல்ல சமூகத்தை உருவாக்குகிறது?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["என்ன ஒரு நல்ல சமூகத்தை உருவாக்குகிறது?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -160,7 +160,7 @@ related:
 
 ![Cookiecutter சிக்கல்](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* [சினாட்ரா](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) போன்று உங்கள் திட்டத்தில் பங்களித்த அனைவருக்கும் **உங்கள் திட்டத்தில் ஒரு பங்களிப்பாளர்கள்(CONTRIBUTORS) அல்லது நூலாசிரியர்கள்(AUTHORS) கோப்பைத் தொடங்கவும்.**
+* [சினாட்ரா](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) போன்று உங்கள் திட்டத்தில் பங்களித்த அனைவருக்கும் **உங்கள் திட்டத்தில் ஒரு பங்களிப்பாளர்கள்(CONTRIBUTORS) அல்லது நூலாசிரியர்கள்(AUTHORS) கோப்பைத் தொடங்கவும்.**
 
 * உங்கள் சமூகம் பெரியதாயிருந்தால், **ஒரு செய்திமடலை முடிக்க அல்லது வலைப்பதிவு இடுகையை எழுதுவதன் முலம்** பங்களிப்பாளர்களுக்கு நன்றி சொல்லுங்கள். ரஸ்ட்-ன் [இந்த வாரம் ரஸ்ட்](https://this-week-in-rust.org/) மற்றும் ஹூடி-ன் [கூச்சலிடுங்கள்](http://hood.ie/blog/shoutouts-week-24.html) இரண்டு நல்ல உதாரணங்களாகும்.
 
@@ -198,7 +198,7 @@ related:
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   ஒரு திட்டம் பராமரிப்பாளராக, உங்களுக்கு பங்களிப்பவர்களுக்கு மரியாதை கொடுத்தல் மிகவும் முக்கியம். அவர்கள் அடிக்கடி நீங்கள் தனிப்பட்ட முறையில் என்ன சொல்கிறீர்கள் என்பதை எடுத்துக்கொள்கிறார்கள்.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["உள்ளன்புள்ள அல்லது தனிவழியாக இருத்தல்"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["உள்ளன்புள்ள அல்லது தனிவழியாக இருத்தல்"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

@@ -54,7 +54,7 @@ Encourager les autres contributeurs est un investissement en vous aussi. Lorsque
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Avez-vous déjà assisté à un événement (technique) où vous ne connaissiez personne, mais tout le monde semblait se tenir en groupe et discuter comme de vieux amis? (...) Maintenant, imaginez que vous voulez contribuer à un projet open source, mais vous ne voyez pas pourquoi ou comment cela se passe.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -113,10 +113,10 @@ Tout projet populaire attirera inévitablement des gens qui nuisent à votre com
 Faites de votre mieux pour adopter une politique de tolérance zéro envers ces types de personnes. Si rien n'est fait, les personnes négatives mettront mal à l'aise les autres membres de votre communauté. Ils peuvent même partir.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La vérité est qu'ayant une communauté de soutien est la clé. Je ne serais jamais capable de faire ce travail sans l'aide de mes collègues, des étrangers sympathiques sur Internet, et des canaux IRC bavards. (...) Ne vous contentez pas de moins. Ne vous contentez pas de connards.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -132,23 +132,23 @@ Dans votre fichier CONTRIBUTING, expliquez explicitement aux nouveaux contribute
 
 ![Page des nouveaux contributeurs de Django](/assets/images/building-community/django_new_contributors.png)
 
-Dans votre liste d'issue en attente, étiquetez les bogues qui conviennent à différents types de contributeurs : par exemple, [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"good first issue"_, ou _"documentation"_. [Ces étiquettes](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) facilitent l'analyse rapide de vos issues par une personne nouvelle dans votre projet de commencer.
+Dans votre liste d'issue en attente, étiquetez les bogues qui conviennent à différents types de contributeurs : par exemple, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, ou _"documentation"_. [Ces étiquettes](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) facilitent l'analyse rapide de vos issues par une personne nouvelle dans votre projet de commencer.
 
 Enfin, utilisez votre documentation pour que les gens se sentent les bienvenus à chaque étape du processus.
 
 Vous n'interagirez jamais avec la plupart des personnes qui atterrissent sur votre projet. Il se peut que vous ayez reçu des contributions parce que quelqu'un se sentait intimidé ou ne savait pas par où commencer. Même quelques mots gentils peuvent empêcher quelqu'un de quitter votre projet avec de la frustration.
 
-Par exemple, voici comment [Rubinius](https://github.com/rubinius/rubinius/) commence [son guide de contribution] (https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) :
+Par exemple, voici comment [Rubinius](https://github.com/rubinius/rubinius/) commence [son guide de contribution] (https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) :
 
 > Nous voulons commencer par vous dire merci d'utiliser Rubinius. Ce projet est un travail d'amour, et nous apprécions tous les utilisateurs qui détectent les bogues, améliorent les performances et aident à la documentation. Chaque contribution est significative, alors merci de votre participation. Cela étant dit, voici quelques lignes directrices que nous vous demandons de suivre afin que nous puissions résoudre votre problème avec succès.
 
 ### Partager la propri&eacute;t&eacute; de votre projet
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Vos leaders auront des opinions différentes, comme devraient le faire toutes les communautés en bonne santé ! Cependant, vous devez prendre des mesures pour vous assurer que la voix la plus forte ne gagne pas toujours en fatiguant les gens, et que des voix moins importantes et minoritaires soient entendues.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -160,7 +160,7 @@ Voyez si vous pouvez trouver le moyen de partager la propriété avec votre comm
 
 ![Problème de Cookiecutter](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Démarrez un fichier CONTRIBUTORS ou AUTHORS dans votre projet** qui répertorie tous ceux qui ont contribué à votre projet, comme [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Démarrez un fichier CONTRIBUTORS ou AUTHORS dans votre projet** qui répertorie tous ceux qui ont contribué à votre projet, comme [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Si vous avez une communauté importante **, envoyez un bulletin d'information ou rédigez un article** remerciant les contributeurs. [La semaine de Rust](https://this-week-in-rust.org/) et celle de Hoodie [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) sont deux bons exemples.
 
@@ -198,7 +198,7 @@ Votre travail en tant que mainteneur consiste à éviter l'escalade de ces situa
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   En tant que responsable du projet, il est extrêmement important d'être respectueux envers vos contributeurs. Ils prennent souvent ce que vous dites très personnellement.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

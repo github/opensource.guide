@@ -54,7 +54,7 @@ Vous devrez expliquer comment votre code de conduite sera appliqué **_avant_** 
 
 Vous devriez donner aux gens un moyen privé (comme une adresse e-mail) de signaler une violation du code de conduite et d'expliquer qui reçoit ce rapport. Il pourrait s'agir d'un responsable, d'un groupe de responsables ou d'un groupe de travail sur le code de conduite.
 
-N'oubliez pas que quelqu'un pourrait vouloir signaler une violation à propos d'une personne qui reçoit ces rapports. Dans ce cas, donnez-leur la possibilité de signaler les violations à quelqu'un d'autre. Par exemple, @ctb et @mr-c [expliquent sur leur projet](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer) :
+N'oubliez pas que quelqu'un pourrait vouloir signaler une violation à propos d'une personne qui reçoit ces rapports. Dans ce cas, donnez-leur la possibilité de signaler les violations à quelqu'un d'autre. Par exemple, @ctb et @mr-c [expliquent sur leur projet](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer) :
 
 > Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en envoyant un courriel à **khmer-project@idyll.org**, ce qui ne concerne que C. Titus Brown et Michael R. Crusoe. Pour signaler un problème concernant l'un ou l'autre d'entre eux, veuillez envoyer un courriel à **Judi Brown Clarke, Ph. D.** Directrice de la diversité au Centre BEACON pour l'étude de l'évolution en action, un centre NSF pour la science et la technologie.*
 

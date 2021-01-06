@@ -63,11 +63,11 @@ Jika proyek Anda memiliki komunitas kontributor yang aktif, Anda mungkin perlu m
 <aside markdown="1" class="pquote">
   \[Kami\] melengkapi tim inti dengan beberapa "sub tim". Setiap sub tim berfokus pada area tertentu, misalnya desain bahasa atau pustaka. (...) Untuk memastikan koordinasi yang kuat dan global, penyamaan visi pada proyek secara keseluruhan, setiap sub tim dipimpin oleh anggota dari tim inti.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Tim pemimpin mungkin perlu membuat chanel khusus (seperti IRC) atau bertemu secara rutin untuk mendiskusikan proyek (seperti pada Gitter atau Google Hangout). Anda bisa membuat hasil rapat tersebut secara terbuka sehingga orang lain bisa mendengarkan. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), misalnya, [mengadakan jam kerja setiap minggunya](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Tim pemimpin mungkin perlu membuat chanel khusus (seperti IRC) atau bertemu secara rutin untuk mendiskusikan proyek (seperti pada Gitter atau Google Hangout). Anda bisa membuat hasil rapat tersebut secara terbuka sehingga orang lain bisa mendengarkan. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), misalnya, [mengadakan jam kerja setiap minggunya](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Setelah Anda mendefinisikan peran pemimpin Anda, jangan lupa untuk mendokumentasikan bagaimana orang lain bisa mencapai posisi tersebut! Buatlah proses yang jelas bagaimana seseorang bisa menjadi seorang pengelola atau bergabung pada sub komite pada proyek Anda, dan tuliskan pada GOVERNANCE.md.
 
@@ -117,7 +117,7 @@ Jika Anda bagian dari sebuah perusahaan yang merilis proyek open source, maka ak
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  Kami menugaskan kelompok kecil untuk mengelola proyek pada Github di Facebook. Sebagai contoh, React dikelola oleh pengembang React.
+  Kami menugaskan kelompok kecil untuk mengelola proyek pada GitHub di Facebook. Sebagai contoh, React dikelola oleh pengembang React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
