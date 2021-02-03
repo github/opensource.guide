@@ -30,7 +30,7 @@ redirect_from: /zh-tw/building-community/
 * **讓大家很容易上手。** [一份好閱讀的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-02.md#編寫readme)以及清晰的程式碼範例，讓大家很容易的上手。
 * **清楚的說明該如何貢獻**，使用[你的CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-02.md#編寫你的貢獻指南)並持續更新issues。
 
-在 [GitHub 2017 開源調查報告](http://opensourcesurvey.org/2017/)中指出，令人困惑或不完整的說明文件是開源使用者最大的困擾，好的說明文建會吸引人們與專案互動。總有一天，會有人開啟一個 issue 或 PR。盡量使用這些工具讓人們有機會朝漏斗的下方邁進。
+在 [GitHub 2017 開源調查報告](http://opensourcesurvey.org/2017/)中指出，令人困惑或不完整的說明文件是開源使用者最大的困擾，好的說明文件會吸引人們與專案互動。總有一天，會有人開啟一個 issue 或 PR。盡量使用這些工具讓人們有機會朝漏斗的下方邁進。
 
 * **當有人選擇了你們的專案，記得對他們表示謝意！** 因為可能只是一次不愉快的經歷，就足以讓一些人再也不想回來。
 * **及時回應。** 如果一個月都沒有回答他們的 issue，他們可能也早就忘記了你們的專案。
