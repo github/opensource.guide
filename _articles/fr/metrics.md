@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Metriques Open Source
+title: Métriques Open Source
 description: Prendre des décisions éclairées pour aider votre projet open source à prospérer en mesurant et en suivant son succès.
 class: metrics
 order: 9
