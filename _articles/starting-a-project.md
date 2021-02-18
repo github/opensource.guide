@@ -90,6 +90,7 @@ While the amount of time you spend on non-coding tasks will depend on the size a
 
 If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
 
+
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
