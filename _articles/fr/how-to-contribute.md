@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Comment contribuer à l'Open Source
-description: Vous voulez contribuer à l'open source ? Un guide pour faire des contributions open source, pour les débutants et pour les vétérans.
+description: Vous voulez contribuer à l'Open Source ? Un guide pour faire des contributions Open Source, pour les débutants et pour les vétérans.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
