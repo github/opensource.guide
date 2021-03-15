@@ -78,6 +78,7 @@ The community member in question may be a repeat offender who consistently makes
 
 Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
 
+
 <aside markdown="1" class="pquote">
   Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
   <p markdown="1" class="pquote-credit">
