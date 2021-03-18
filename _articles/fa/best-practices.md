@@ -3,13 +3,6 @@ lang: fa
 title: بهترین روال‌های تجربه شده برای نگهدارنده‌ها
 description: زندگی خود را به عنوان یک نگهدارنده‌ی اوپن سورس آسان‌تر کنید؛ از ثبت‌کردن فرآیندها گرفته تا بهره‌بردن از اجتماع‌تان.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -17,13 +10,14 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## نگهدارنده بودن به چه معناست؟
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+اگر شما نگه‌دارنده‌ی پروژه‌ای اوپن سورس باشید که افراد زیادی از آن استفاده می‌کنند، حتما متوجه شده‌اید که کمتر مشغول به کدنویسی هستید و بیشتر نقش پاسخگویی به مشکلات را بر عهده‌ی خود دارید.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+در مراحل اولیه‌ی هر پروژه‌ای، شما ایده‌های جدیدی را امتحان می‌کنید و بر اساس آنچه می‌خواهید تصمیم‌گیری می‌کنید. با افزایش محبوبیت پروژه، متوجه می‌شوید که بیشتر مشغول کار با کاربران و همکاران خود خواهید بود.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+نگهداری یک پروژه، به چیزی بیشتر از کدنویسی نیاز دارد. این وظایف اغلب به صورت ناگهانی پیش می‌آیند؛ اما آن‌ها به همان اندازه‌ی پروژه‌ی در حال رشد مهم هستند. ما برای آسان‌تر کردن زندگی‌تان چند روش آماده کرده‌ایم؛ از مراحل ثبت کردن فرآیند گرفته تا بهره‌بردن از اجتماع‌تان.
+
 
 ## Documenting your processes
 
