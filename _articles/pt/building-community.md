@@ -54,7 +54,7 @@ Encorajar outros contribuidores é, também, um investimento em si mesmo. Quando
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Você alguma vez já esteve presente em um evento (de tecnologia), onde não conhecia ninguém, porém o restante das pessoas parecia se reunir em grupos e batiam papo como velhos amigos? (...) Agora imagine que você quer contribuir em um projeto open source, mas não consegue enxergar por que ou como isso está acontecendo.
   <p markdown="1" class="pquote-credit">
-  — @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+  — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -136,7 +136,7 @@ Por fim, use a sua documentação para fazer as pessoas se sentirem bem-vindas a
 
 Você não interagirá com a maior parte das pessoas que chegarem ao seu projeto. Podem haver contribuições que você não recebeu porque alguém se sentiu intimidado ou não soube como começar. Até mesmo algumas palavras gentis podem fazer com que alguém não deixe, frustradamente, o seu projeto.
 
-Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introduz o [seu guia de contribuição](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introduz o [seu guia de contribuição](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
 > Em primeiro lugar, gostaríamos de agradecer por usar o Rubinus. Este projeto é um trabalho de amor, e apreciamos todos os usuários que capturam bugs, fazem melhorias de desempenho, e ajudam com a documentação. Toda contribuição é importante, então obrigado por participar. Dito isso, aqui estão algumas orientações que pedimos que siga, de modo que possamos ter sucesso em identificar o seu problema.
 
@@ -158,7 +158,7 @@ Procure encontrar maneiras de compartilhar a propriedade com a sua comunidade o 
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Crie um arquivo CONTRIBUTORS ou AUTHORS em seu projeto** que liste todos os que contribuíram para o seu projeto, como o [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) faz.
+* **Crie um arquivo CONTRIBUTORS ou AUTHORS em seu projeto** que liste todos os que contribuíram para o seu projeto, como o [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) faz.
 
 * Se você possui uma comunidade de tamanho razoável, **envie uma newsletterm ou escreva um post em um blog** agradecendo aos contribuidores. A [This Week in Rust](https://this-week-in-rust.org/), do Rust, e a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html), da Hoodie, são dois bons exemplos.
 
@@ -196,7 +196,7 @@ Seu trabalho como um mantenedor é prevenir que tais situações cresçam, escal
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Como um mantenedor de projeto, é extremamente importante ser respeitoso para com seus contribuidores. Eles frequentemente levam o que você fala para o lado pessoal.
   <p markdown="1" class="pquote-credit">
-  — @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+  — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

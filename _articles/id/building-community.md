@@ -54,7 +54,7 @@ Mendorong kontributor lain adalah sebuah investasi pada diri Anda juga. Ketika A
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Apakah Anda pernah menghadiri sebuah acara dimana Anda tidak mengenal siapapun, tetapi orang lain tampak saling mengenal satu sama lain dan berbicara seperti sahabat dekat? (...) Sekarang bayangkan Anda ingin berkontribusi pada proyek open source, namun Anda tidak dapat melihat kenapa dan bagaimana ini bisa terjadi.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -138,7 +138,7 @@ Akhirnya, gunakan dokumentasi Anda untuk membuat orang lain nyaman pada setiap l
 
 Anda tidak akan pernah berinteraksi dengan sebagian besar orang-orang yang hadir pada proyek Anda. Bisa jadi terdapat kontribusi yang tidak Anda dapatkan karena seseorang merasa terintimidasi atau tidak tahu bagaimana memulainya. Sebuah kata-kata sederhana bisa menjaga mereka untuk tetap bertahan dan bebas dari rasa frustasi.
 
-Sebagai contoh, berikut bagaimana cara [Rubinius](https://github.com/rubinius/rubinius/) memulai [panduan kontribusinya](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Sebagai contoh, berikut bagaimana cara [Rubinius](https://github.com/rubinius/rubinius/) memulai [panduan kontribusinya](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
 > Kita ingin memulainya dengan mengucapkan terima kasih karena menggunakan Rubinius. Proyek ini merupakan hasil cinta kami, dan kami menghargai semua pengguna yang menemukan kesalahan, membuat perbaikan performa, dan membantu dengan dokumentasi. Setiap kontribusi sangat berharga, sehingga kami mengucapkan terima kasih untuk berpartisipasi. Meski demikian, berikut adalah beberapa panduan yang kami harapkan untuk bisa diikuti sehingga kami bisa menyelesaikan permasalahan Anda dengan baik.
 
@@ -160,7 +160,7 @@ Cari cara untuk bisa berbagi kepemilikan dengan komunitas Anda sebanyak mungkin.
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Bualah dokumen CONTRIBUTORS atau AUTHORS pada proyek Anda** yang mendata semua orang yang berkontribusi pada proyek Anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Bualah dokumen CONTRIBUTORS atau AUTHORS pada proyek Anda** yang mendata semua orang yang berkontribusi pada proyek Anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Jika Anda memiliki komunitas yang cukup besar, **kirimkan surat berita atau tuliskan blog** dan ucapkan terima kasih pada kontributor. [This Week in Rust](https://this-week-in-rust.org/) milik Rust dan [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) milik Hoodie adalah dua contoh bagus.
 
@@ -198,7 +198,7 @@ Tugas Anda sebagai pengelola adalah menjaga situasi ini agar tidak sampai memunc
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Sebagai pengelola proyek, sangatlah penting untuk menghargai kontributor Anda. Mereka seringkali menerima apa yang Anda sampaikan secara personal.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

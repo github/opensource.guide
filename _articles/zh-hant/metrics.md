@@ -38,7 +38,7 @@ redirect_from: /zh-tw/metrics/
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-如果你的專案是託管在Github, 你可以[訪問](https://help.github.com/articles/about-repository-graphs/#traffic) 獲取諸如多少人訪問過你的專案，他們從哪裏得知的之類的資訊。在你的專案主頁，點擊"Graphs", 然後"Traffic"。在這個頁面，你可以看到:
+如果你的專案是託管在GitHub, 你可以[訪問](https://help.github.com/articles/about-repository-graphs/#traffic) 獲取諸如多少人訪問過你的專案，他們從哪裏得知的之類的資訊。在你的專案主頁，點擊"Graphs", 然後"Traffic"。在這個頁面，你可以看到:
 
 * **總瀏覽量:** 專案被查看了多少次
 
@@ -60,7 +60,7 @@ redirect_from: /zh-tw/metrics/
 
 每個包管理工具可能會對下載量有着大同小異的定義，而且下載量並不直接和安裝、使用有關，但是它提供了一個基本的比較標準。嘗試使用[Libraries.io](https://libraries.io/) 來跟蹤很多流行包管理工具的使用數據。
 
-如果你的專案是託管在Github上，再一次切換到"Traffic" 頁面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的專案在一個給定的日期被克隆了多少次，按照獨立克隆者的總克隆數排序。
+如果你的專案是託管在GitHub上，再一次切換到"Traffic" 頁面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的專案在一個給定的日期被克隆了多少次，按照獨立克隆者的總克隆數排序。
 
 ![clone graph](/assets/images/metrics/clone_graph.png)
 

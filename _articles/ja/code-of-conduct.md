@@ -54,7 +54,7 @@ CODE_OF_CONDUCT ファイルをプロジェクトのルートディレクトリ�
 
 メンバーに対しては、行動規範の違反を報告するための（メールアドレスのような）プライベートな方法を与え、それを受け取るのが誰なのかを説明するべきです。それは一人のメンテナーかもしれないし、メンテナー達のグループかもしれないし、行動規範チームかもしれません。
 
-行動規範違反の報告を受けている人自身の違反行為を、誰かが報告するかもしれないことを忘れてはいけません。この場合は、他の人に違反を報告できるような選択肢を設けましょう。例えば、 @ctb と @mr-c は、彼らの [khmer](https://github.com/dib-lab/khmer) というプロジェクトで[このように説明しています](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst):
+行動規範違反の報告を受けている人自身の違反行為を、誰かが報告するかもしれないことを忘れてはいけません。この場合は、他の人に違反を報告できるような選択肢を設けましょう。例えば、 @ctb と @mr-c は、彼らの [khmer](https://github.com/dib-lab/khmer) というプロジェクトで[このように説明しています](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst):
 
 > 不正行為やハラスメント、受け入れられない行為は、 **khmer-project@idyll.org** にメールを送ることによって報告することが出来ます。このメールは、 C. Titus Brown と Michael R. Crusoe のみが受け取ります。彼ら二人のどちらかが関係する問題について報告する場合は、 NSF Center for Science and Technology の BEACON Center for the Study of Evolution in Action のダイバーシティディレクターの **Judi Brown Clarke, Ph.D.** にメールで報告して下さい。*
 

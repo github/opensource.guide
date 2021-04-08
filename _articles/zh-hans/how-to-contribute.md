@@ -1,7 +1,7 @@
 ---
 lang: zh-hans
 title: 如何为开源做贡献
-description: 想为开源贡献力量？本指南针为"菜鸟"和初学者而准备！
+description: 想为开源贡献力量？本指南为"菜鸟"和初学者而准备！
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -29,7 +29,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 无论是撰写代码、设计用户界面、图形设计、撰写文档、亦或是组织活动，假如你有实践的愿望，你总能在开源项目中找到自己的位置。
 
-### 遇见那些和你"臭味相投"的人
+### 遇见那些和你志趣相投之人
 
 开源项目一般都会有一个和谐、热心的社区，以让大家团结一致。实际上，开源界经常发生这样的情形，很多人的深厚友谊都是通过共同参与开源所建立起来的，至于具体的方式，可能是在一次技术研讨会上相谈甚欢，也可能是一直在聊天室中探讨问题。
 
@@ -217,6 +217,8 @@ redirect_from: /zh-cn/how-to-contribute/
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [像忍者一样贡献](https://contributor.ninja)
+* [最初的贡献](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### 提交贡献之前的检查列表
 

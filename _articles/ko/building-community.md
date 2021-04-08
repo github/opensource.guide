@@ -54,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source”](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source”](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -139,7 +139,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 여러분의 프로젝트에서 작업하는 대부분의 사람과는 직접 의사소통할 기회가 없을 것입니다. 누군가 자신이 없거나 어디서 시작할지 갈피를 잡지 못해서, 결국 하지 못한 기여 또한 있을 것입니다. 친절함을 담은 몇 마디면 사람들이 실망한 채 프로젝트를 떠나는 것을 예방할 수 있습니다.
 
-[Rubinius](https://github.com/rubinius/rubinius/)의 [기여 가이드](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)는 어떻게 시작하는지 참조하세요.
+[Rubinius](https://github.com/rubinius/rubinius/)의 [기여 가이드](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md)는 어떻게 시작하는지 참조하세요.
 
 > Rubinius를 사용해 주시는 것에 대해 먼저 감사의 말씀을 드리고 싶습니다. 이 프로젝트는 여러분의 사랑의 산출물이며, 저희는 버그를 잡고, 성능을 개선하고, 문서화를 돕는 모든 여러분께 고마움을 느낍니다. 모든 기여는 의미가 있습니다. 프로젝트에 참여해 주셔서 감사합니다. 다만, 저희가 여러분의 이슈를 받아들이기 위해 필요로 하는 몇 가지 지침이 있으니 참고해 주세요.
 
@@ -161,7 +161,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 ![Cookiecutter 이슈](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md)가 사용하는 방법처럼 **CONTRIBUTORS 혹은 AUTHORS 파일**을 만들어 모든 프로젝트 기여자를 담은 하나의 목록을 작성하세요. 
+* [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md)가 사용하는 방법처럼 **CONTRIBUTORS 혹은 AUTHORS 파일**을 만들어 모든 프로젝트 기여자를 담은 하나의 목록을 작성하세요.
 
 * 어느 정도 규모의 커뮤니티가 형성됐다면 기여자들에 대한 감사를 담은 **뉴스 레터를 보내거나 블로그 포스트를 게시하세요**. Rust의 [This Week in Rust](https://this-week-in-rust.org/)와 Hoodie의 [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)가 좋은 예입니다.
 
@@ -199,7 +199,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way”](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way”](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
