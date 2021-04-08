@@ -1,0 +1,31 @@
+ro:
+  locale_name: Romanian
+  nav:
+    about: Despre
+    contribute: Contribuie
+  index:
+    lead: Software-ul cu sursă deschisă este făcut de oameni exact ca tine. Învață cum să îți lansezi și să îți crești proiectul.
+    opensourcefriday: Este vineri! Investește câteva ore contribuind la software-ul pe care îl folosești și îl iubești
+  article:
+    table_of_contents: Cuprins
+    back_to_all_guides: Înapoi la toate ghidurile
+    related_guides: Ghiduri relevante
+  footer:
+    contribute:
+      heading: Contribuie
+      description: Dorești să sugerezi ceva? Acest conținut este cu sursă deschisă. Ajută-ne să-l îmbunătățim.
+      button: Contribuie
+    subscribe:
+      heading: Păstrează legătura
+      description: Fii primul care să audă despe ultimele sfaturi și resurse despre open source ale GitHub.
+      label: Adresă de email
+      button: Abonează-te
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] cu [love] de [github] și [friends]"
+      # Label for code octicon
+      code_label: cod
+      # Label for love octicon
+      love_label: iubire
+      # Label for the contributors link
+      friends_label: prieteni

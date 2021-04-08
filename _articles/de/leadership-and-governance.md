@@ -75,11 +75,11 @@ Wenn Ihr Projekt eine sehr aktive Gemeinschaft von Mitwirkenden hat, können Sie
   _\[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team._
 
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Führungsteams können einen Kommunikationskanal einrichten (z.B. im IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zu wöchentlichen Sprechstunden ein](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Führungsteams können einen Kommunikationskanal einrichten (z.B. im IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zu wöchentlichen Sprechstunden ein](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Vergessen Sie nicht, nach der Festlegung von Führungsrollen zu dokumentieren, wie Menschen diese erreichen können! Richten Sie einen klaren Prozess ein, wie Leute Maintainer\*in werden oder einem Gremium in Ihrem Projekt beitreten können, und beschreiben Sie diesen Prozess in einer GOVERNANCE.md.
 

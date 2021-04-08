@@ -63,7 +63,7 @@ Andere zur Mitarbeit zu ermutigen, ist auch eine Investition in sich selbst: Wen
   _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -153,7 +153,7 @@ Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen z
 
 Sie werden mit den meisten Leuten, die auf Ihr Projekt stoßen nie interagieren. Ihnen könnten Beiträge entgehen, weil jemand sich eingeschüchtert fühlte, oder nicht herausfand, was es denn zu tun gab. Schon ein paar freundliche Worte können verhindern, dass jemand einfach weiter zieht.
 
-Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) mit:
+Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) mit:
 
 > Zum Einstieg möchten wir Dir erstmal unseren Dank aussprechen, dass Du Rubinius nutzt. Dieses Projekt wurde mit viel Liebe aufgebaut und wir schätzen alle Benutzer\*innen, die Fehler aufspüren, Geschwindigkeitsverbesserungen vornehmen und bei der Dokumentation helfen. Jeder Beitrag bedeutet uns etwas, also vielen Dank für Ihre Teilnahme! Wir bitten Sie jedoch, einige Richtlinien zu befolgen, damit wir Ihr Issue erfolgreich bearbeiten können.
 >
@@ -181,7 +181,7 @@ Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie mögli
 
 ![Cookiecutter-Issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Wenn Sie schon eine etwas größere Gemeinschaft versammelt haben, **senden Sie eine Rundmail oder schreiben ins Blog**, dass Sie Kontributor\*innen danken. Rusts [This Week in Rust](https://this-week-in-rust.org/) und Hoodies [Shoutout-Grüße](http://hood.ie/blog/shoutouts-week-24.html) sind zwei gute Beispiele dafür.
 
@@ -227,7 +227,7 @@ Ihre Aufgabe als Maintainer\*in ist es, solche Situationen vor einer Eskalation 
   _As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally._
 
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -287,7 +287,7 @@ Wenn eine Diskussion offensichtlich nirgendwo hinführt, es keine klaren Maßnah
   _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

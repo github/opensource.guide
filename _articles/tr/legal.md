@@ -10,12 +10,12 @@ toc:
   which-open-source-license-is-appropriate-for-my-project: Projem için hangi açık kaynak lisansı uygundur?
   what-if-i-want-to-change-the-license-of-my-project: Projemin lisansını değiştirmek istersem ne olur?
   does-my-project-need-an-additional-contributor-agreement: Projemin ek bir katkı sözleşmesine ihtiyacı var mı?
-  irketimin-hukuk-ekibinin-neleri-bilmesi-gerekiyor: Şirketimin hukuk ekibinin neleri bilmesi gerekiyor?
+  what-does-my-companys-legal-team-need-to-know: Şirketimin hukuk ekibinin neleri bilmesi gerekiyor?
 order: 10
-image: "/assets/images/cards/legal.png"
+image: /assets/images/cards/legal.png
 related:
-  - contribute
-  - leadership
+- contribute
+- leadership
 ---
 
 ## Açık kaynağın yasal etkilerini anlama
@@ -40,7 +40,7 @@ GitHub'da [yeni bir proje oluşturduğunuzda](https://help.github.com/articles/c
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**GitHub projenizi herkese açık hale getirmek, projenizi lisanslamakla aynı değildir.** Genel projeler, başkalarının projenizi görüntülemesine ve düzenlemesine izin veren [GitHub'ın Hizmet Koşulları](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership) kapsamındadır, gizli yaparsanız işiniz başkalarına izinsizdir.
+**GitHub projenizi herkese açık hale getirmek, projenizi lisanslamakla aynı değildir.** Genel projeler, başkalarının projenizi görüntülemesine ve düzenlemesine izin veren [GitHub'ın Hizmet Koşulları](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) kapsamındadır, gizli yaparsanız işiniz başkalarına izinsizdir.
 
 Başkalarının projenizi kullanmasını, dağıtmasını, değiştirmesini veya katkıda bulunmasını istiyorsanız, açık kaynaklı bir lisans eklemeniz gerekir. Örneğin, birileri, açıkça yapma hakkını vermediğiniz sürece, kamuya açık olsa bile, GitHub projenizin herhangi bir bölümünü yasalarında kullanamaz.
 
@@ -56,7 +56,7 @@ GitHub'da yeni bir proje oluşturduğunuzda sizden [bir lisans eklemeniz istenir
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Standartlaştırılmış bir lisans, yasal eğitim almayanların yazılımla neler yapabileceklerini ve yapamadıklarını tam olarak bilmeleri için bir vekil olarak hizmet eder. Kesinlikle gerekli olmadıkça, ajans kodunun akış aşağı kullanımına engel teşkil edecek özel, değiştirilmiş veya standart olmayan terimlerden kaçının.
   <p markdown="1" class="pquote-credit">
-- @benbalter, ["Bir devlet avukatının açık kaynaklı yazılım lisanslama hakkında bilmesi gereken her şey"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+— @benbalter, ["Bir devlet avukatının açık kaynaklı yazılım lisanslama hakkında bilmesi gereken her şey"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
@@ -96,7 +96,7 @@ Alternatif olarak, katkıda bulunanlara, mevcut açık kaynak lisansınız taraf
 
 ## Projemin ek bir katkı sözleşmesine ihtiyacı var mı?
 
-Muhtemelen yoktur. Açık kaynak projelerin büyük çoğunluğu için açık kaynaklı bir lisans, hem gelenler (katkıda bulunanlardan) hem de gidenler (diğer katkıda bulunanlar ve kullanıcılar için) için lisans olarak açık şekilde hizmet vermektedir. Projeniz GitHub'daysa, GitHub Hizmet Şartları "inbound = outbound" ı [açık varsayılan yapar](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) .
+Muhtemelen yoktur. Açık kaynak projelerin büyük çoğunluğu için açık kaynaklı bir lisans, hem gelenler (katkıda bulunanlardan) hem de gidenler (diğer katkıda bulunanlar ve kullanıcılar için) için lisans olarak açık şekilde hizmet vermektedir. Projeniz GitHub'daysa, GitHub Hizmet Şartları "inbound = outbound" ı [açık varsayılan yapar](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) .
 
 Ek bir katılımcı sözleşmesi - genellikle Katılımcı Lisans Sözleşmesi (CLA) olarak adlandırılır - proje sahipleri için idari işler yaratabilir. Bir anlaşmanın ne kadar iş gerektirdiği proje ve uygulamaya bağlıdır. Basit bir anlaşma, katkıda bulunanların, bir tıklamayla, proje açık kaynak lisansı kapsamında katkıda bulunmak için gerekli haklara sahip olduklarını onaylamalarını gerektirebilir. Daha karmaşık bir anlaşma, katkıda bulunanların işverenlerinin yasal incelemesini ve imzalarını gerektirebilir.
 
@@ -106,7 +106,7 @@ Ayrıca, bazılarının gereksiz olduğuna, anlaşılmasının zor veya haksız 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   Node.js için CLA'yı kaldırdık. Bunu yapmak, Node.js katılımcısı için giriş engelini azalttı ve böylece katılımcı tabanını genişletti.
   <p markdown="1" class="pquote-credit">
-- @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
@@ -116,6 +116,7 @@ Projeniz için ek bir katılımcı sözleşmesi düşünmek isteyebileceğiniz b
 * Projeniz, açık bir patent hibesi (MIT gibi) içermeyen bir açık kaynak lisansı kullanıyor ve bazıları sizi hedeflemek için kullanılabilecek büyük patent portföyleri olan şirketler için çalışabilecek tüm katılımcılardan bir patent hibesine ihtiyacınız var. [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf)  Apache License 2.0. lisansında bulunan ve çokça kullanılan bir katılımcı sözleşmesidir.
 * Projeniz bir copyleft lisansı altında, ancak aynı zamanda projenin tescilli bir versiyonunu da dağıtmanız gerekiyor. Size telif hakkı veren veya size (ancak halka değil) izin veren bir lisans veren her katılımcıya ihtiyacınız olacaktır. [MongoDB Katılımcı Anlaşması](https://www.mongodb.com/legal/contributor-agreement) bu tür bir anlaşma örneğidir.
 * Projenizin ömrü boyunca lisansları değiştirmesi gerekebileceğini ve katkıda bulunanların bu tür değişiklikleri önceden kabul etmesini isteyebileceğinizi düşünüyorsunuz.
+* Projenizin kullanım ömrü boyunca lisansları değiştirmesi gerekebileceğini ve katkıda bulunanların bu tür değişiklikleri önceden kabul etmelerini isteyebilirsiniz.
 
 Projeniz için ek bir katılımcı sözleşmesi kullanmanız gerekiyorsa, katılımcıların dikkatini dağıtmayı en aza indirmek için [CLA yardımcısı](https://github.com/cla-assistant/cla-assistant) gibi bir entegrasyon kullanmayı düşünün.
 
@@ -133,7 +134,7 @@ Daha iyi veya daha kötüsü, kişisel bir proje olsa bile, onlara bildirmeyi d�
 
 * **Patentler:** Şirketiniz, projenizin açık kaynak kodlu bir şekilde [kamuya açıklanmasını](https://en.wikipedia.org/wiki/Public_disclosure) sağlayacak bir patent başvurusu yapıyor mu? Ne yazık ki beklemeniz istenebilir (veya şirketten, uygulamanın bilgeliğini yeniden gözden geçirir). Projenize büyük patent portföyüne sahip şirketlerin çalışanlarından katkıda bulunmayı bekliyorsanız, yasal ekibiniz katkıda bulunanlardan (Apache 2.0 veya GPLv3 gibi) açık bir patent ödeneği olan bir lisans  veya ek bir katılımcı sözleşmesini ( yukarıyı bakın) kullanmanızı isteyebilir.
 
-* **Ticari Markalar:** Projenizin adının [mevcut hiçbir ticari marka ile çakışmadığından](../starting-a-project/#i̇sim-çatışmalarından-kaçınmak) emin olun. Projede kendi şirket ticari markalarınızı kullanıyorsanız, herhangi bir anlaşmazlık yaratmadığını kontrol edin. [FOSSmarks](http://fossmarks.org/) , markaları ücretsiz ve açık kaynaklı projeler bağlamında anlamak için pratik bir rehberdir.
+* **Ticari Markalar:** Projenizin adının [mevcut hiçbir ticari marka ile çakışmadığından](../starting-a-project/#benzersiz-isim-bulmak) emin olun. Projede kendi şirket ticari markalarınızı kullanıyorsanız, herhangi bir anlaşmazlık yaratmadığını kontrol edin. [FOSSmarks](http://fossmarks.org/) , markaları ücretsiz ve açık kaynaklı projeler bağlamında anlamak için pratik bir rehberdir.
 
 * **Gizlilik:** Projeniz kullanıcılar hakkında veri topluyor mu? Şirket sunucularına "bağlanıyor" mu? Hukuk ekibiniz şirket politikalarına ve dış düzenlemelere uymanıza yardımcı olabilir.
 
@@ -147,7 +148,7 @@ Daha uzun vadede hukuk ekibiniz, şirketin açık kaynaklara katılımından dah
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Bir yama ile ilgili IP'nin serbest bırakılması, çalışanın bilgi birikimini ve itibarını arttırır. Şirketin bu çalışanın gelişimine yatırım yaptığını ve bir güçlendirme ve özerklik duygusu yarattığını göstermektedir. Tüm bu faydalar ayrıca daha yüksek moral ve daha iyi bir çalışanın kalmasına yol açmaktadır.
   <p markdown="1" class="pquote-credit">
-- @vanl, ["Bir Model IP ve Açık Kaynak Katkı Politikası"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["Bir Model IP ve Açık Kaynak Katkı Politikası"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
@@ -157,9 +158,9 @@ Daha uzun vadede hukuk ekibiniz, şirketin açık kaynaklara katılımından dah
 <aside markdown="1" class="pquote">
   Kuruluşların hem \["izin verilen" hem de "copyleft"\] kategorilerine uyan bir lisans ve uyum stratejisi olmalıdır. Bu, alt bileşenler ve bağımlılıklar dahil, kullanmakta olduğunuz açık kaynaklı yazılım için geçerli olan lisans terimlerinin kaydını tutmakla başlar.
   <p markdown="1" class="pquote-credit">
-- Heather Meeker, ["Açık Kaynak Kodlu Yazılım: Uygunluk Esasları ve En İyi Uygulamalar"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+— Heather Meeker, ["Açık Kaynak Kodlu Yazılım: Uygunluk Esasları ve En İyi Uygulamalar"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
 </aside>
 
 * **Patentler:** Şirketiniz, üyelerin büyük açık kaynaklı projeleri kullanmalarını korumak için ortak bir savunma patenti havuzu olan [Açık Buluşma Ağı](https://www.openinventionnetwork.com/)'na katılmak veya başka bir [alternatif patent lisansını](https://www.eff.org/document/hacking-patent-system-2016) keşfetmek isteyebilir.
-* **Yönetişim:** Özellikle bir projeyi [şirket dışındaki](../leadership-and-governance/#projemi-desteklemek-için-tüzel-kişiliğe-ihtiyacım-var-mı) bir {a2}tüzel kişiliğe{/a2} taşımanın ne zaman anlamlı olacağı.
+* **Yönetişim:** Özellikle bir projeyi [şirket dışındaki](../leadership-and-governance/#projemi-desteklemek-i%C3%A7in-t%C3%BCzel-ki%C5%9Fili%C4%9Fe-ihtiyac%C4%B1m-var-m%C4%B1) bir {a2}tüzel kişiliğe{/a2} taşımanın ne zaman anlamlı olacağı.

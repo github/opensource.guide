@@ -101,6 +101,7 @@ Proyectos que se originaron en una empresa grande, como [Go](https://github.com/
 
 Finalmente, dependiendo de tus circunstancias personales, puedes probar generar dinero de forma independiente para financiar tu trabajo de c&oacute;digo abierto. Por ejemplo:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -181,5 +182,3 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
 ## Experimenta y no te rindas
 
 Recaudar dinero no es f&aacute;cil, ya sea un proyecto de c&oacute;digo abierto, una organizaci&oacute;n sin fines de lucro, o un emprendimiento de software, y la mayor&iacute;a de los casos requieren que seas creativo. Debes identificar c&oacute;mo quieres que te paguen, debes investigar y debes ponerte en el lugar de tu financiador, de esta manera podr&aacute;s construir un caso convicente para que te financien.
-
->

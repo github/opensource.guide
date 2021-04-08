@@ -106,12 +106,13 @@ Projects that originated at a large company, such as [Go](https://github.com/gol
 
 Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with. 
+Finally, sometimes open source projects put bounties on issues that you might consider helping with.
 
-* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their javascript library [through a bounty on gitcoin](https://gitcoin.co/).
+* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their JavaScript library [through a bounty on gitcoin](https://gitcoin.co/).
 * @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Finding funding for your project
@@ -189,5 +190,3 @@ Does the funder have any requirements around disbursal? For example, you may nee
 ## Experiment and don't give up
 
 Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
-
->

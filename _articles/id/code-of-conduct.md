@@ -54,7 +54,7 @@ Anda harus menjelaskan bagaimana kode etik Anda akan diterapkan **_sebelum_** pe
 
 Anda harus memberikan sebuah jalan yang pribadi (seperti alamat email) untuk melaporkan pelanggaran kode etik dan menjelaskan siapa yang menerima laporan tersebut. Penerima laporan bisa jadi pengelola, sekelompok orang pengelola, atau tim kode etik.
 
-Jangan lupa bahwa seseorang mungkin melaporkan pelanggaran terhadap orang yang akan menerima laporan tersebut. Pada kasus ini, berikan opsi untuk melaporkan pelanggaran pada orang lain. Misalnya, @ctb dan @mr-c [menjelaskan pada proyek mereka](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Jangan lupa bahwa seseorang mungkin melaporkan pelanggaran terhadap orang yang akan menerima laporan tersebut. Pada kasus ini, berikan opsi untuk melaporkan pelanggaran pada orang lain. Misalnya, @ctb dan @mr-c [menjelaskan pada proyek mereka](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Perilaku kasar, melecehkan, atau perilaku lainnya yang tidak dapat diterima dapat dilaporkan dengan mengirimkan email pada **khmer-project@idyll.org** yang akan sampai pada C. Titus Brown dan Michael R. Crusoe. Untuk melaporkan masalah pada salah satu dari mereka, kirimkan email pada **Judi Brown Clarke, Ph.D.** Direktur  Diversity pada BEACON Center untuk Studi Evolusi, sebuah pusat studi NSF untuk Ilmu Pengetahuan dan Teknologi.*
 
