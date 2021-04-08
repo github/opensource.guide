@@ -55,7 +55,7 @@ redirect_from: /zh-tw/code-of-conduct/
 
 你們可以給大家一個私有的渠道（如email地址）以便大家報告違規行爲以及解釋誰收到了這一的報告。它可以是維護者，一組維護者或行爲守則工作組。
 
-請不要忘記了有人可能想要報告某些人違規接受了這些報告。在這樣的情況下，也給他們舉報那些人的機會。例如，@ctb和@mr-c [在他們的專案上解釋](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst)， [khmer](https://github.com/dib-lab/khmer)：
+請不要忘記了有人可能想要報告某些人違規接受了這些報告。在這樣的情況下，也給他們舉報那些人的機會。例如，@ctb和@mr-c [在他們的專案上解釋](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst)， [khmer](https://github.com/dib-lab/khmer)：
 
 > 對於濫用現象，擾亂或者其他不可接受的行爲都可以向**khmer-project@idyll.org**（僅由C. Titus Brown和Michael R. Crusoe處理）發送郵件。要報告涉及其中任何一個的問題，請電郵**Judi Brown Clarke，Ph.D.** BEACON行動進化研究中心的多元化主任，NSF科學技術中心。
 

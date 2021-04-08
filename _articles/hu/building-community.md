@@ -55,7 +55,7 @@ Más közreműködők ösztönzése számodra is hasznos befektetés. Ha támoga
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Voltál már valaha olyan (tech-) rendezvényen, ahol nem ismertél senkit, de úgy tűnt számodra, hogy mindenki más csoportokban áll és beszélget, mint a régi jó barátok? (...) Most képzeld el, hogy hozzá szeretnél járulni egy nyílt forráskódú projekthez, de nem tudod, miként, és hogyan lehetséges ez.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Fenntartható Nyílt Forráskód"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Fenntartható Nyílt Forráskód"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -139,7 +139,7 @@ Végül, de nem utolsó sorban a dokumentáció alapján érezzék az emberek, h
 
 Általában nem fogsz közvetlenül minden emberrel kommunikálni, aki megfordul a projekten. Lehet, hogy lesznek olyan hozzájárulások, amelyeket azért nem kapsz meg, mert valaki elrettent a projekttől, vagy nem tudta, hogy hol kezdje. Akár néhány kedves szó is elég lehet ahhoz, hogy megakadályozd, hogy valaki csalódottan hagyja el a projektet.
 
-Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubinius/) projektben, [a CONTRIBUTING útmutatójuk](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubinius/) projektben, [a CONTRIBUTING útmutatójuk](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
 > Mindenekelőtt azzal szeretnénk kezdeni, hogy köszönjük azt, hogy használod a Rubinius-t. Ez a projekt szeretetteljes munkát jelent, és nagyra értékeljük az összes felhasználót, aki hibákat észlel, javít a teljesítményben és segítséget nyújt a dokumentációban. Minden hozzájárulás hasznos, ezért köszönjük a részvételed. Kérjük néhány iránymutatást tarts be, hogy sikeresen meg tudjuk oldani a problémádat.
 
@@ -161,7 +161,7 @@ Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mérték
 
 ![Cookiecutter hiba](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Állíts össze egy CONTRIBUTORS vagy AUTHORS fájlt a projektben,** amely listáz mindenkit aki hozzájárul a projekthez. Például ahogy a [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) csinálja.
+* **Állíts össze egy CONTRIBUTORS vagy AUTHORS fájlt a projektben,** amely listáz mindenkit aki hozzájárul a projekthez. Például ahogy a [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) csinálja.
 
 * Ha széles közösséged van, **akkor küldj ki hírlevelet vagy vezess blogot** amelyen megköszönöd a hozzájárulásokat. A Rust-nak a [Heti Rust](https://this-week-in-rust.org/) és a Hoodie-nak a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) két jó példa erre.
 
@@ -199,7 +199,7 @@ Mint karbantartó az a feladatod, hogy ezt a szituációt ne engedd eszkalálód
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Karbantartóként rendkívül fontos, hogy tiszteld a közreműködőket. Gyakran megfogadják azt, amit személyesen nekik mondasz.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

@@ -216,6 +216,8 @@ Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk me
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Daftar sebelum Anda berkontribusi
 
@@ -439,7 +441,7 @@ Jika Anda tidak bisa menemukan ide Anda dimanapun, Anda siap untuk bergerak. Jik
 
 Sebelum Anda membuka sebuah laporan masalah atau melakukan pull request, periksa dokumen kontribusi proyek (biasanya pada dokumen bernama CONTRIBUTING, atau pada README), untuk melihat apakah Anda perlu mencantumkan informasi yang spesifik. Sebagai contoh, mereka mungkin meminta Anda untuk mengikuti sebuah template, atau mengharuskan Anda untuk menggunakan perangkat pengujian.
 
-Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada Github, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
+Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada GitHub, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">

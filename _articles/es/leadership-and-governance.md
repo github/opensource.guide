@@ -63,11 +63,11 @@ Si tu proyecto tiene una comunidad de contribuidores muy activa, puede formar un
 <aside markdown="1" class="pquote">
   Nosotros complementamos el equipo central con varios "sub-grupos". Cada sub-grupo se centra en un &aacute;rea espec&iacute;fica, por ejemplo, dise&ntilde;o de lenguajes o bibliotecas. (...) Para garantizar una coordinaci&oacute;n global y una visi&oacute;n s&oacute;lida y coherente del proyecto en su conjunto, cada sub-grupo est&aacute; dirigido por un miembro del equipo central.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Los equipos de liderazgo pueden querer crear un canal designado (como en IRC) o reunirse regularmente para discutir el proyecto (como en Gitter o Google Hangout). Incluso puedes hacer p&uacute;blicas esas reuniones para que otras personas puedan escucharlas. [Cucumber-rub&iacute;](https://github.com/cucumber/cucumber-ruby), por ejemplo, [hospeda las horas de oficina cada semana](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talk-with-other-devs).
+Los equipos de liderazgo pueden querer crear un canal designado (como en IRC) o reunirse regularmente para discutir el proyecto (como en Gitter o Google Hangout). Incluso puedes hacer p&uacute;blicas esas reuniones para que otras personas puedan escucharlas. [Cucumber-rub&iacute;](https://github.com/cucumber/cucumber-ruby), por ejemplo, [hospeda las horas de oficina cada semana](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talk-with-other-devs).
 
 Una vez que haya establecido roles de liderazgo, ¡no olvides documentar c&oacute;mo la gente puede alcanzarlos! Establece un proceso claro para que alguien pueda convertirse en un mantenedor o unirse a un subcomit&eacute; en su proyecto y escribirlo en su GOVERNANCE.md.
 
@@ -117,7 +117,7 @@ Si usted es parte de una empresa lanzando un proyecto de c&oacute;digo abierto, 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  Nosotros asignamos peque&ntilde;os equipos para gestionar proyectos en Github, los cuales está actualmente trabajando en ellos en Facebook. Por ejemplo, React es ejecutado por un Ingeniero de React.
+  Nosotros asignamos peque&ntilde;os equipos para gestionar proyectos en GitHub, los cuales está actualmente trabajando en ellos en Facebook. Por ejemplo, React es ejecutado por un Ingeniero de React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["Una vista interna del c&oacute;digo abierto en Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>

@@ -106,12 +106,13 @@ Mevcut işvereninizi açık kaynak çalışmasına öncelik vermeye ikna edemiyo
 
 Kişisel durumunuza bağlı olarak, açık kaynaklı işinize para yatırmak için bağımsız olarak para toplamayı deneyebilirsiniz. Örneğin:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon, [Redux](https://github.com/reactjs/redux) ile ilgili çalışmalarını bir [Patreon kitlesel fonlama kampanyası](https://redux.js.org/) yoluyla finanse etti
 * @andrewgodwin [, bir Kickstarter kampanyasıyla](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) Django şema göçleri konusundaki çalışmaları finanse etti
 
 Son olarak, bazen açık kaynaklı projeler, yardım etmeyi düşündüğünüz meselelere güçlükler getirir.
 
-* @ConnorChristie, @MARKETProtocol'un javascript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
+* @ConnorChristie, @MARKETProtocol'un JavaScript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
 * @mamiM, [sorun Bounties Network'te finanse](https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
 
 ## Projeniz için finansman bulma
