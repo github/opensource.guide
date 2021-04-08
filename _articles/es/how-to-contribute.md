@@ -62,7 +62,7 @@ Un error conceptual com&uacute;n acerca de contribuir con el c&oacute;digo abier
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Me han reconocido por mi trabajo en CocoaPods, pero la mayor&iacute;a de las personas no conoce que en realidad yo no realizo ning&uacute;n trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -172,7 +172,7 @@ Un proyecto de c&oacute;digo abierto tiene los siguientes tipos de personas:
 * **Colaboradores:** Cualquiera que haya contribuido con algo al proyecto.
 * **Miembros de la comunidad:** Las personas que utilizan al proyecto. Pueden tener un rol activo en las conversaciones o expresar su opini&oacute;n sobre la direcci&oacute;n que toma el proyecto.
 
-Los proyectos m&aacute;s grandes pueden tener tambi&eacute;n subcomisiones o grupos de trabajo enfocados en tareas diferentes, como herramientas, priorizaci&oacute;n de urgencias, moderaci&oacute;n de la comunidad, y organizaci&oacute;n de eventos. Busca en el sitio web del proyecto una p&aacute;gina del "equipo", o en su repositorio para encontrar la documentaci&oacute;n pol&iacute;tica de gobierno, para encontrar &eacute;sta documentaci&oacute;n.
+Los proyectos m&aacute;s grandes pueden tener tambi&eacute;n subcomisiones o grupos de trabajo enfocados en tareas diferentes, como herramientas, priorizaci&oacute;n de urgencias, moderaci&oacute;n de la comunidad, y organizaci&oacute;n de eventos. Busca en el sitio web del proyecto una p&aacute;gina del "equipo", o en su repositorio para encontrar la documentaci&oacute;n pol&iacute;tica de gobierno, para encontrar esta documentaci&oacute;n.
 
 Un proyecto tambi&eacute;n tiene documentaci&oacute;n. Estos archivos est&aacute;n normalmente listados en un nivel alto del repositorio.
 
@@ -193,7 +193,7 @@ Finalmente, los proyectos de c&oacute;digo abierto utilizan las siguientes herra
 
 ¡Ahora que ya has descubierto c&oacute;mo funcionan los proyectos de c&oacute;digo abierto, es tiempo de encontrar un proyecto con el que contribuir!
 
-Si nunca antes contribuiste al c&oacute;digo abierto, acepta algunos consejos del presidente de los Estados Unidos, John F. Kennedy, quien una vez dijo, _"No preguntes qu&eacute; es lo que tu pa&iacute;s puede hacer por ti;, preg&uacute;ntate qu&eacute; es lo que t&uacute; puedes hacer por &eacute;l"_
+Si nunca antes contribuiste al c&oacute;digo abierto, acepta algunos consejos del presidente de los Estados Unidos, John F. Kennedy, quien una vez dijo, _"No preguntes qu&eacute; es lo que tu pa&iacute;s puede hacer por ti; preg&uacute;ntate qu&eacute; es lo que t&uacute; puedes hacer por &eacute;l"_
 
 Las contribuciones al c&oacute;digo abierto ocurren en todos los niveles a lo largo de los proyectos. No necesitas pensar demasiado cu&aacute;l ser&aacute; tu primera colaboraci&oacute;n, o c&oacute;mo se ver&aacute;.
 
@@ -216,6 +216,8 @@ Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte 
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### Una lista de verificaci&oacute;n antes de que contribuyas
 
@@ -373,7 +375,7 @@ Un proyecto que es amigable y acogedor indica que ser&aacute; receptivo de nuevo
 
 ## C&oacute;mo enviar una contribuci&oacute;n
 
-Ya encontraste un proyecto que te gustaba, y est&aacute;s listo para hacer una contribuci&oacute;n. ¡Por fin! A continuaci&oacute;n de mostramos c&oacute;mo hacer que tu contribuci&oacute;n siga por el buen camino.
+Ya encontraste un proyecto que te gustaba, y est&aacute;s listo para hacer una contribuci&oacute;n. ¡Por fin! A continuaci&oacute;n te mostramos c&oacute;mo hacer que tu contribuci&oacute;n siga por el buen camino.
 
 ### Comunic&aacute;ndote de manera efectiva
 
@@ -383,7 +385,7 @@ Sin importar si eres un colaborador para una sola vez o est&aacute;s intentando 
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Como un nuevo colaborador,\] me di cuenta r&aacute;pidamente que necesitaba hacer preguntas si quer&iacute;a poder cerrar el problema. Recorr&iacute; el c&oacute;digo base. Una vez que comprend&iacute; lo que estaba ocurriendo, pregunt&eacute; que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
@@ -433,9 +435,9 @@ Antes de hacer nada, haz una r&aacute;pida verificaci&oacute;n para asegurarte q
 
 Si no puedes encontrar tu idea en ning&uacute;n otro lado, est&aacute;s listo para dar el paso. Si el proyecto est&aacute; en GitHub, es probable que lo comuniques abriendo un problema o un pull request:
 
-* **Problemas (Issues)** son como comenzar una conversaci&oacute;n o discusi&oacute;n
-* **Pull requests** son para comenzar a trabajar en una soluci&oacute;n
-* **Para una comunicaci&oacute;n ligera,** como una explicaci&oacute;n o una pregunta de "c&oacute;mo", trata preguntando en Stack Overflow, IRC, Slack u otro canal de chat, si el proyecto tiene alguno
+* **Problemas (Issues)** son como comenzar una conversaci&oacute;n o discusi&oacute;n.
+* **Pull requests** son para comenzar a trabajar en una soluci&oacute;n.
+* **Para una comunicaci&oacute;n ligera,** como una explicaci&oacute;n o una pregunta de "c&oacute;mo", trata preguntando en Stack Overflow, IRC, Slack u otro canal de chat, si el proyecto tiene alguno.
 
 Antes de abrir un problema o un pull request, verifica los documentos de verificaci&oacute;n del proyecto (com&uacute;nmente es un archivo que se llama CONTRIBUTING), para ver si se necesitan incluir algo espec&iacute;fico, puede ser que soliciten que respetes un modelo, o requerir que utilices pruebas.
 
@@ -453,9 +455,9 @@ Si quieres hacer una contribuci&oacute;n sustancial, abre un problema para pregu
 
 Frecuentemente deber&iacute;as abrir un problema en las siguientes situaciones:
 
-* Reportar un error que t&uacute; no puedes resolver
-* Discutir un t&oacute;pico o idea de alto nivel (por ejemplo sobre la comunidad, la visi&oacute;n o pol&iacute;ticas)
-* Proponer una nueva caracter&iacute;stica u otra idea del proyecto
+* Reportar un error que t&uacute; no puedes resolver.
+* Discutir un t&oacute;pico o idea de alto nivel (por ejemplo sobre la comunidad, la visi&oacute;n o pol&iacute;ticas).
+* Proponer una nueva caracter&iacute;stica u otra idea del proyecto.
 
 Consejos para comunicar los problemas:
 
@@ -467,12 +469,12 @@ Consejos para comunicar los problemas:
 
 Usualmente deber&iacute;as abrir un pull request en las siguientes situaciones:
 
-* Enviar arreglos triviales (por ejemplo una correcci&oacute;n tipogr&aacute;fica, un link ca&iacute;do o un error obvio)
-* Comenzar a trabajar en una contribuci&oacute;n que ya fue solicitada, o que ya discutiste en un problema
+* Enviar arreglos triviales (por ejemplo una correcci&oacute;n tipogr&aacute;fica, un link ca&iacute;do o un error obvio).
+* Comenzar a trabajar en una contribuci&oacute;n que ya fue solicitada, o que ya discutiste en un problema.
 
 Un pull request no representa trabajo terminado. Usualmente es mejor abrir un pull request de forma temprana, de manera que otros puedan observar o dar retroalimentaci&oacute;n a tu progreso. Solo m&aacute;rcalo como "trabajo en proceso" (WIP por sus siglas en ingl&eacute;s, work in progress) en la l&iacute;nea del tema. Siempre puedes agregar m&aacute;s commits despu&eacute;s.
 
-Si el proyecto est&aacute; alojado en GITHUb, ac&aacute; te explicamos los pasos para enviar un pull request:
+Si el proyecto est&aacute; alojado en GITHUB, ac&aacute; te explicamos los pasos para enviar un pull request:
 
 * **[Abre un fork del repositorio](https://guides.github.com/activities/forking/)** y haz un clon local. Conecta tu repositorio local con el repositorio "superior" original agreg&aacute;ndolo como remoto. Descarga los cambios desde el repositorio superior con frecuencia de manera que puedas mantener al d&iacute;a, de forma que cuando tu env&iacute;es tu pull request, sea menos probable que haya conflictos. (ver m&aacute;s instrucciones detalladas [aqu&iacute;](https://help.github.com/articles/syncing-a-fork/).)
 * **[Crea una rama](https://guides.github.com/introduction/flow/)** para tus ediciones.
@@ -497,13 +499,13 @@ Si no tuviste una respuesta en m&aacute;s de una semana, es justo responder en e
 
 **No contactes a esa persona** de manera privada; recuerda que las comunicaciones p&uacute;blicas son vitales para los proyectos de c&oacute;digo abierto.
 
-Si haces una llamada educada y todav&iacute;a nadie responde, es posible que nadie te responda jam&aacute;s. No es un sentimiento agradable, pero no dejes que de desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, &eacute;sta es una buena raz&oacute;n para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que est&aacute;n comprometidos y responden.
+Si haces una llamada educada y todav&iacute;a nadie responde, es posible que nadie te responda jam&aacute;s. No es un sentimiento agradable, pero no dejes que te desanime. ¡Les pasa a todos! Existen muchas razones posibles por las que no tuviste tu respuesta, incluyendo circunstancias personales que pueden estar fuera de control. Trata de encontrar otro proyecto u otra forma de contribuir. En todo caso, &eacute;sta es una buena raz&oacute;n para no invertir mucho tiempo en hacer contribuciones antes de ver que existen otros miembros en la comunidad que est&aacute;n comprometidos y responden.
 
 ### 🚧 Alguien pide cambios a tu colaboraci&oacute;n.
 
 Es com&uacute;n que te pidan hacer cambios a tu contribuci&oacute;n, ya sea una retroalimentaci&oacute;n sobre el alcance de tu idea, o cambios en tu c&oacute;digo.
 
-Cuando &aacute;lguien te pide cambios, comp&oacute;rtate de manera sensible, Se tomaron el tiempo necesario para revisar tu contribuci&oacute;n. Abrir un pull request y luego alejarse es de malos modales. Si no sabes c&oacute;mo hacer los cambios, investiga el problema, y luego pregunta por ayuda si la necesitas.
+Cuando alguien te pide cambios, comp&oacute;rtate de manera sensible, se tomaron el tiempo necesario para revisar tu contribuci&oacute;n. Abrir un pull request y luego alejarse es de malos modales. Si no sabes c&oacute;mo hacer los cambios, investiga el problema, y luego pregunta por ayuda si la necesitas.
 
 Si no tienes el tiempo para volver a trabajar en ese problema (por ejemplo, si la conversaci&oacute;n tuvo lugar durante meses, y tus circunstancias cambiaron), permite que el responsable lo sepa, de manera que no quede a la espera de una respuesta. Alguien puede sentirse complacido de hacerse cargo.
 

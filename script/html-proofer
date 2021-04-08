@@ -5,7 +5,9 @@ require "html-proofer"
 
 url_ignores = [
   "https://okdistribute.xyz/post/okf-de",
-  "https://www.drupal.org/community-initiatives/drupal-core/usability"
+  "https://www.drupal.org/community-initiatives/drupal-core/usability",
+  "https://scripts.sil.org/ofl",
+  %r{^https?://twitter\.com/},
 ]
 
 HTMLProofer::Runner.new(
@@ -19,4 +21,5 @@ HTMLProofer::Runner.new(
   favicon: true,
   assume_extension: true,
   only_4xx: true,
+  http_status_ignore: [429]
 ).run

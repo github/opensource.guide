@@ -28,6 +28,7 @@ Beginnen Sie mit der Dokumentation:
 
 * **Helfen Sie beim Einstieg in ihr Projekt.** [Eine freundliche README](../starting-a-project/#eine-readme-schreiben) und anschauliche Codebeispiele erleichtern Allen, die auf Ihr Projekt stoßen, den Einstieg.
 * **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#ihre-beitragsrichtlinien-aufschreiben), und indem Sie die Issues stets aktuell halten.
+* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen* geeignete Issues explizit kenntlich machen (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
 
 [GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 
@@ -62,7 +63,7 @@ Andere zur Mitarbeit zu ermutigen, ist auch eine Investition in sich selbst: Wen
   _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -123,14 +124,14 @@ Jedes populäre Projekt wird unweigerlich Menschen anziehen, die Ihrer Gemeinsch
 Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu verfolgen. Denn wenn obiges Verhalten unsanktioniert bleibt, werden andere Kontributor\*innen sich genervt fühlen und evtl. sogar Ihr Projekt verlassen.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
 
   Es ist wahrlich wichtig, eine unterstützende Gemeinschaft zu haben. Ohne die Hilfe meiner Kollegen\*innen, freundlicher Fremder aus dem Internet und gesprächiger IRC-Kanäle wäre ich nie in der Lage, diese Arbeit zu tun. (...) Geben Sie sich nicht mit weniger zufrieden. Geben Sie sich nicht mit Arschlöchern zufrieden.
 
   _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
 
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -146,13 +147,13 @@ Geben Sie in Ihrer CONTRIBUTING-Datei explizit an, wie sie anfangen sollen. Viel
 
 ![Djangos Startseite für neue Mitwirkende](/assets/images/building-community/django_new_contributors.png)
 
-Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributor\*innen: z.B. [_"first timers only"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
+Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, sowie Issues auch für unterschiedliche potentielle Kontributor\*innen: z.B. [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, oder _"documentation"_. [Solche  "Labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) vereinfachen es Neuankömmlingen, sich in Ihrem Projekt zurechtzufinden und mit der Lösung eines Problems zu beginnen.
 
 Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen zu empfangen und ihnen Schritt-für-Schritt zu helfen.
 
 Sie werden mit den meisten Leuten, die auf Ihr Projekt stoßen nie interagieren. Ihnen könnten Beiträge entgehen, weil jemand sich eingeschüchtert fühlte, oder nicht herausfand, was es denn zu tun gab. Schon ein paar freundliche Worte können verhindern, dass jemand einfach weiter zieht.
 
-Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) mit:
+Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) mit:
 
 > Zum Einstieg möchten wir Dir erstmal unseren Dank aussprechen, dass Du Rubinius nutzt. Dieses Projekt wurde mit viel Liebe aufgebaut und wir schätzen alle Benutzer\*innen, die Fehler aufspüren, Geschwindigkeitsverbesserungen vornehmen und bei der Dokumentation helfen. Jeder Beitrag bedeutet uns etwas, also vielen Dank für Ihre Teilnahme! Wir bitten Sie jedoch, einige Richtlinien zu befolgen, damit wir Ihr Issue erfolgreich bearbeiten können.
 >
@@ -161,14 +162,14 @@ Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kon
 ### Teilen Sie die Eigentümerschaft an Ihrem Projekt
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
 
   Ihre Projektverantwortlichen werden unterschiedliche Meinungen haben, wie es in allen gesunden Gemeinschaften üblich sein sollte. Sie müssen jedoch dafür sorgen, dass nicht immer die lauteste Stimme gewinnt, weil sie andere Leute ermüdet, und dass weniger prominente Stimmen und Minderheitsmeinungen ebenfalls zu hören sind.
 
   _Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard._
 
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](http://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -180,7 +181,7 @@ Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie mögli
 
 ![Cookiecutter-Issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Wenn Sie schon eine etwas größere Gemeinschaft versammelt haben, **senden Sie eine Rundmail oder schreiben ins Blog**, dass Sie Kontributor\*innen danken. Rusts [This Week in Rust](https://this-week-in-rust.org/) und Hoodies [Shoutout-Grüße](http://hood.ie/blog/shoutouts-week-24.html) sind zwei gute Beispiele dafür.
 
@@ -226,7 +227,7 @@ Ihre Aufgabe als Maintainer\*in ist es, solche Situationen vor einer Eskalation 
   _As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally._
 
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -286,7 +287,7 @@ Wenn eine Diskussion offensichtlich nirgendwo hinführt, es keine klaren Maßnah
   _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
 
   <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 

@@ -95,12 +95,13 @@ Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n 
 Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicaci&oacute;n al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
 
 * Algunas empresas, como [Netflix](https://netflix.github.io/) o [PayPal](https://paypal.github.io/), tienen p&aacute;ginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
-* [Rackspace](https://www.rackspace.com/en-us) publico su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) para empleados.
+* [Zalando](https://opensource.zalando.com) publico su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://opensource.zalando.com/docs/using/contributing/) para empleados.
 
 Proyectos que se originaron en una empresa grande, como [Go](https://github.com/golang) o [React](https://github.com/facebook/react), ser&aacute;n susceptibles a contratar personas que trabajen en c&oacute;digo abierto.
 
 Finalmente, dependiendo de tus circunstancias personales, puedes probar generar dinero de forma independiente para financiar tu trabajo de c&oacute;digo abierto. Por ejemplo:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -181,5 +182,3 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
 ## Experimenta y no te rindas
 
 Recaudar dinero no es f&aacute;cil, ya sea un proyecto de c&oacute;digo abierto, una organizaci&oacute;n sin fines de lucro, o un emprendimiento de software, y la mayor&iacute;a de los casos requieren que seas creativo. Debes identificar c&oacute;mo quieres que te paguen, debes investigar y debes ponerte en el lugar de tu financiador, de esta manera podr&aacute;s construir un caso convicente para que te financien.
-
->
