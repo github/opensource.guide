@@ -59,7 +59,7 @@ Zachęcanie innych współpracowników to także inwestycja w ciebie. Gdy umożl
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
   </i>
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -145,7 +145,7 @@ Na koniec skorzystaj z dokumentacji, aby ludzie czuli się mile widziani na każ
 
 Nigdy nie będziesz wchodzić w interakcje z większością ludzi, którzy wylądują na twoim projekcie. Mogą istnieć kontrybucje, których nie otrzymałeś, ponieważ ktoś czuł się zastraszony lub nie wiedział, od czego zacząć. Nawet kilka miłych słów może zniechęcić kogoś do opuszczenia projektu.
 
-Na przykład oto jak [Rubinius](https://github.com/rubinius/rubinius/) zaczyna [jego pomocny przewodnik](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Na przykład oto jak [Rubinius](https://github.com/rubinius/rubinius/) zaczyna [jego pomocny przewodnik](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
 > We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
 
@@ -169,7 +169,7 @@ Sprawdź, czy możesz w jak największym stopniu znaleźć sposób na dzielenie 
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Uruchom plik CONTRIBUTORS lub AUTHORS w swoim projekcie** zawiera listę wszystkich, którzy przyczynili się do twojego projektu, takich jak [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Uruchom plik CONTRIBUTORS lub AUTHORS w swoim projekcie** zawiera listę wszystkich, którzy przyczynili się do twojego projektu, takich jak [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Jeśli masz sporą społeczność, **wyślij biuletyn lub napisz post na blogu** dziękując autorom. Rusta [This Week in Rust](https://this-week-in-rust.org/) i Hoodie'ego [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) są dwoma dobrymi przykładami
 
@@ -211,7 +211,7 @@ Twoim zadaniem jako opiekuna jest zapobieganie eskalacji tych sytuacji. Nawet je
   As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
   </i>
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 

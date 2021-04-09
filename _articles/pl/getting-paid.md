@@ -113,12 +113,13 @@ Projekty, które powstały w dużej firmie, takie jak [Go](https://github.com/go
 
 W zależności od osobistych okoliczności możesz spróbować samodzielnie zebrać pieniądze, aby sfinansować swoją pracę typu open source. Na przykład:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon sfinansował swoją pracę [Redux](https://github.com/reactjs/redux) poprzez [kampanię crowdfundingową Patreon](https://redux.js.org/)
 * @andrewgodwin sfinansował prace nad migracjami schematu Django [poprzez kampanię Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 Wreszcie, czasami projekty open source dają nagrody za problemy, z którymi możesz pomyśleć o pomocy.
 
-* @ConnorChristie był w stanie otrzymać wynagrodzenie za [pomoc](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol pracować nad biblioteką javascript [poprzez nagrodę za gitcoin](https://gitcoin.co/).
+* @ConnorChristie był w stanie otrzymać wynagrodzenie za [pomoc](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol pracować nad biblioteką JavaScript [poprzez nagrodę za gitcoin](https://gitcoin.co/).
 * @mamiM zrobiłem japońskie tłumaczenia dla @MetaMask po tym, jak [problem został sfinansowany przez Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Znajdowanie funduszy na swój projekt
