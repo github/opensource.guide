@@ -72,11 +72,11 @@ Projeniz çok aktif bir katılımcı topluluğa sahipse, farklı konu alanların
 <aside markdown="1" class="pquote">
   \[Biz\] çekirdek takıma birkaç "alt takım" ekliyoruz. Her alt takım belirli bir alana, örneğin dil tasarımına veya kütüphanelere odaklanır. (...) Küresel koordinasyon ve bir bütün olarak proje için güçlü, tutarlı bir vizyon sağlamak için her bir alt ekip, çekirdek ekibin bir üyesi tarafından yönetilir.
   <p markdown="1" class="pquote-credit">
-- ["Rust Yönetişim RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+- ["Rust Yönetişim RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Liderlik ekipleri projeyi tartışmak için (Gitter veya Google Hangout'ta olduğu gibi) belirlenmiş bir kanal oluşturmak (IRC'deki gibi) veya düzenli olarak buluşmak isteyebilir. Hatta başkalarının dinleyebilmesi için bu toplantıları halka açabilirsiniz. Örneğin [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [her hafta çalışma saatlerinde yayın yapar](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs) .
+Liderlik ekipleri projeyi tartışmak için (Gitter veya Google Hangout'ta olduğu gibi) belirlenmiş bir kanal oluşturmak (IRC'deki gibi) veya düzenli olarak buluşmak isteyebilir. Hatta başkalarının dinleyebilmesi için bu toplantıları halka açabilirsiniz. Örneğin [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [her hafta çalışma saatlerinde yayın yapar](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs) .
 
 Liderlik rolleri belirledikten sonra, insanların onlara nasıl ulaşabileceğini belgelemeyi unutmayın! Projenizde birisinin nasıl sorumlu olabileceği ya da bir alt komiteye katılabileceği konusunda net bir süreç belirleyin ve bunu GOVERNANCE.md'inize yazın.
 

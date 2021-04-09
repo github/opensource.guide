@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Aspectos legales del codigo abierto.
+title: Aspectos legales del código abierto.
 description: Todo lo que te has preguntado sobre la parte legal de c&oacute;digo abierto.
 class: legal
 order: 10

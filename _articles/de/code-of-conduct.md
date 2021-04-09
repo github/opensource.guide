@@ -58,7 +58,7 @@ Sie sollten erklären, wie Ihr Verhaltenskodex durchgesetzt wird, **_bevor_** es
 
 Sie sollten Leuten einen privaten Weg (z.B. eine E-Mail-Adresse) geben, um einen Verstoß gegen den Verhaltenskodex zu melden und erklären, wer diesen Bericht erhält. Es kann ein\*e Maintainer\*in, eine Gruppe von Maintainer\*innen oder eine Verhaltenskodex-Arbeitsgruppe sein.
 
-Vergessen Sie nicht, dass jemand einen Verstoß über eine Person melden können möchte, die diese Berichte erhält. Bieten Sie in diesem Fall die Möglichkeit, Verstöße an eine andere Person zu melden. @ctb und @mr-c zum Beispiel [erklären zu ihrem Projekt](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Vergessen Sie nicht, dass jemand einen Verstoß über eine Person melden können möchte, die diese Berichte erhält. Bieten Sie in diesem Fall die Möglichkeit, Verstöße an eine andere Person zu melden. @ctb und @mr-c zum Beispiel [erklären zu ihrem Projekt](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem Verhalten können per E-Mail an **khmer-project@idyll.org** gemeldet werden, die nur an C. Titus Brown und Michael R. Crusoe geht. Um ein Problem zu melden, das einen von ihnen betrifft, senden Sie bitte eine E-Mail an **Judi Brown Clarke, Ph.D.** den Diversity Director am BEACON Center for the Study of Evolution in Action, einem NSF Center for Science and Technology.*
 >

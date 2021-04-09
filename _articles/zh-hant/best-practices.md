@@ -231,7 +231,7 @@ fork一個專案不什麼壞事情。能複製並且修改別人的程式是開�
 * [mention-bot](https://github.com/facebook/mention-bot) 可能的貢獻者來幫你複查程式
 * [Danger](https://github.com/danger/danger) 幫你自動複查程式
 
-對於bug報告和其他常見形式的貢獻，Github有[Issue 模版和 Pull Request 模版](https://github.com/blog/2111-issue-and-pull-request-templates), 你可以用來降低溝通成本。你也可以設置[郵件過濾](https://github.com/blog/2203-email-updates-about-your-own-activity)來管理你的郵件提醒。
+對於bug報告和其他常見形式的貢獻，GitHub有[Issue 模版和 Pull Request 模版](https://github.com/blog/2111-issue-and-pull-request-templates), 你可以用來降低溝通成本。你也可以設置[郵件過濾](https://github.com/blog/2203-email-updates-about-your-own-activity)來管理你的郵件提醒。
 
 如果你想更加的先進和高效，程式風格指南和linter能讓你專案收到的貢獻更加規範，而且更容易複查和被接受。
 

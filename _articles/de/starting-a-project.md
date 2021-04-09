@@ -40,7 +40,7 @@ _Freie Software_ meint dieselbe Art von Projekten wie _Open Source_. Der [Begrif
 
 * **Zusammenarbeit:** Open-Source-Projekte nehmen Beiträge aus der ganzen Welt an. [Exercism](https://github.com/exercism/) beispielsweise ist eine Programmierübungsplatform mit über 350 Kontributor\*innen.
 
-* **Anpassungen:** Open-Source-Projekte können von jedem Menschen für fast jeden Zweck benutzt werden. Leute können daraus sogar andere Dinge bauen. [WordPress](https://github.com/WordPress) beispielsweise begann als ein Fork eines existierenden Projekts namens [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Anpassungen:** Open-Source-Projekte können von jedem Menschen für fast jeden Zweck benutzt werden. Leute können daraus sogar andere Dinge bauen. [WordPress](https://github.com/WordPress) beispielsweise begann als ein Fork eines existierenden Projekts namens [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparenz:** In einem Open-Source-Projekt können Fehler oder Ungereimtheiten von jedem behoben werden. Transparenz ist sowohl für Regierungen in [Bulgarien](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) oder den [Vereinigten Staaten](https://web.archive.org/web/20180306072551/https://sourcecode.cio.gov/), für regulierte Industrien wie den Banken- oder Gesundheitssektor und für Sicherheitssoftware wie [Let's Encrypt](https://github.com/letsencrypt) gleichermaßen wichtig.
 
@@ -189,7 +189,7 @@ Neben thematischen Details präsentiert die CONTRIBUTING-Datei auch Ihre Erwartu
 
 Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge (wie z.B. "Dokumentationen verfassen" oder "eine Website erstellen") können Sie dazu beitragen, dass sich Neuankömmlinge willkommen und begeistert fühlen.
 
-Beispielsweise leitet [Active Admin](https://github.com/activeadmin/activeadmin/)  [ihre Beitragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) ein mit:
+Beispielsweise leitet [Active Admin](https://github.com/activeadmin/activeadmin/)  [ihre Beitragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) ein mit:
 
 > Zuerst einmal vielen Dank, dass Sie überlegt haben, einen Beitrag zu Active Admin zu leisten, denn es sind Menschen wie Sie, die Active Admin so großartig machen.
 >
@@ -199,7 +199,7 @@ In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Si
 
 Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBUTING-Datei hinzufügen. Diese Informationen aufzuschreiben verhindert, dass weniger Leute die immer wieder gleichen Fragen stellen werden.
 
-@nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
+@nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
 
 Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bemerken. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
 
@@ -210,7 +210,7 @@ Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bem
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
 
-  Wir haben alle Erfahrungen gemacht, wo wir mit Beleidigungen zu tun hatten, entweder als Betreuer\*in beim Erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) beim Stellen einfacher Frage. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verlinkbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
+  Wir haben alle Erfahrungen gemacht, wo wir mit Beleidigungen zu tun hatten, entweder als Betreuer\*in beim Erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) beim Stellen einer einfachen Frage. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verlinkbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
 
   _We've all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
 
@@ -270,7 +270,7 @@ Egal ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein
   _I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style._
 
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

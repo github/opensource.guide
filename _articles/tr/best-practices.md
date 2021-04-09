@@ -72,7 +72,7 @@ Yazmaya değer birkaç kural:
 * Bekleme süresi ne kadardır (_örneğin, "7 gün içinde bir bakıcıdan bir yanıt bekleyebilirsiniz. O zamana kadar bir şey duymadıysanız, ipliğe ping atmaktan çekinmeyin."_)
 * Projeye ne kadar zaman harcıyorsunuz (_örneğin, "Bu projeye haftada sadece 5 saat harcıyoruz"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) ve [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) geliştiriciler ve katkıda bulunanlar için temel kuralları olan projelere birkaç örnektir.
+[Jekyll](https://github.com/jekyll/jekyll/tree/HEAD/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) ve [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) geliştiriciler ve katkıda bulunanlar için temel kuralları olan projelere birkaç örnektir.
 
 ### İletişimi herkese açık tutun
 
@@ -176,7 +176,7 @@ Yeni katılımcılar kazanmanın bir yolu da [yeni katılanlar için kolay çöz
 
 Katkıda bulunan arasında yeni olanları gördüğünüzde, çalışmalarını daha fazla sorumluluk sunarak tanıyın. İsterlerse kendilerinin de yöneticilik rolüne nasıl dönüşebileceğini belgeleyin.
 
-Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building-community/#projenizi-payla%C5%9F%C4%B1n) kendi iş yükünüzü azaltır. @lmccart kendi projesinde bunu nasıl yaptığını aşağıdaki gibi anlatıyor, [p5.js](https://github.com/processing/p5.js).
+Başkalarını yüreklendirmek ve [projenin sahipliğini paylaşmak](../building-community/#projenizi-paylaşın) kendi iş yükünüzü azaltır. @lmccart kendi projesinde bunu nasıl yaptığını aşağıdaki gibi anlatıyor, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">

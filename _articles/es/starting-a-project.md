@@ -43,7 +43,7 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
 
 * **Colaboraci&oacute;n:** Los proyectos de c&oacute;digo abierto pueden aceptar cambios efectuados por cualquier persona alrededor del mundo. [Exercism](https://github.com/exercism/), por ejemplo, una plataforma para ejercicios de programaci&oacute;n con m&aacute;s de 350 colaboradores.
 
-* **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto puedne ser usados por cualquiera para casi cualquier pr&oacute;p&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto puedne ser usados por cualquiera para casi cualquier pr&oacute;p&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparencia:** Cualquiera puede inspeccionar un proyecto de este tipo, ya sea para encontrar errores como inconsistencias. La transparencia es de importancia para gobiernos como el de [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o [United States](https://sourcecode.cio.gov/), para industrias reguladas como la bancaria o la del cuidado de la salud, y para la seguridad del software como [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -179,7 +179,7 @@ Adem&aacute;s de detalles t&eacute;cnicos, este archivo es una oportunidad para 
 
 Usando un tono c&aacute;lido y amigable, y ofreciendo sugerencias espec&iacute;ficas para contribuciones puede ayudar a los iniciados a sentirse bienvenidos y ansiosos de participar.
 
-Por ejemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) comienza [su gu&iacute;a de contribuciones](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) con:
+Por ejemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) comienza [su gu&iacute;a de contribuciones](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) con:
 
 > Primero, muchas gracias por considerar contribuir a Active Admin. Son personas como ustedes las que la hacen una gran herramienta.
 
@@ -187,7 +187,7 @@ En las primeras etapas del proyecto, tu archivo CONTRIBUITNG puede ser simple. S
 
 Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir &eacute;sta informaci&oacute;n significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
 
-Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
 Vincula tu CONTRIBUTING desde tu README, as&iacute; m&aacute;s personas pueden verlo.Si tu [colocas el archivo en tu repositorio](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub autom&aacute;ticamente lo vincular&aacute; cuando un contribuyente cree un issue o abra un pull request.
 
@@ -250,7 +250,7 @@ Ya sea documentaci&oacute;n oficial como casual (un email), tu estilo de redacci
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   He tratado de involucrarme con cada hilo del listado de emails, y mostrando un comportamiento ejemplar, siendo agradable con las personas, tomando sus issues seriamente y tratando de ser de ayuda por sobre todo. Despu&eacute;s de un tiempo las personas no solo me buscaban para hacerme preguntas si no para ayudarme a responderlas, y, para mi sorpresa, imitaban mi estilo.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

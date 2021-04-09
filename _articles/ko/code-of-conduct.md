@@ -54,7 +54,7 @@ related:
 
 행동강령을 보고하고 누가 그 보고서를 받았는지 설명하기 위해 사람들에게 사적인 (이메일 주소같은) 방법을 제공해야합니다. 메인테이너, 그룹 메인테이너 또는 행동강령 그룹이 될 수 있습니다.
 
-누군가 그 보고서를 받는 사람에 대한 위반 사항을 보고하기를 원할 수도 있다는 것을 잊지 마십시오. 이 경우, 위반 사항을 다른 사람에게 보고 할 수있는 옵션을 제공하십시오. 예시로, @ctb와 @mr-c는 [그 프로젝트에 설명하고](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer)하고 있습니다:
+누군가 그 보고서를 받는 사람에 대한 위반 사항을 보고하기를 원할 수도 있다는 것을 잊지 마십시오. 이 경우, 위반 사항을 다른 사람에게 보고 할 수있는 옵션을 제공하십시오. 예시로, @ctb와 @mr-c는 [그 프로젝트에 설명하고](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer)하고 있습니다:
 
 > 학대, 괴롭힘 또는 기타 용납 될 수없는 행동의 사례는 C.kidman Brown과 Michael R. Crusoe에게만 보내지는 **khmer-project@idyll.org** 로 이메일을 보내서 신고할 수 있습니다. 두 가지 중 하나와 관련된 문제를 신고하려면  BEACON 행동 과학 연구 센터 (NSF Center for Science and Technology)의 다양성 책임자 (Diversity Director)인 **Judi Brown Clarke 박사**에게 이메일을 보내 주시기 바랍니다
 

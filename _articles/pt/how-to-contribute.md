@@ -30,7 +30,7 @@ Seja codificando, desenhando interface do usuário, desenhando gráfico, escreve
 
 ### Encontre pessoas que estão interessadas em coisas parecidas
 
-Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões em conferências ou conversas online sobre burritos.
+Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões, em conferências ou conversas online sobre burritos.
 
 ### Encontre mentores e ensine outras pessoas
 
@@ -427,7 +427,7 @@ Antes de abrir uma issue, pull request ou fazer uma pergunta no bate-papo, ter o
 >
 > 😢 _"Porque você não dá suporte ao meu caso de uso? Isto é inaceitável!"_
 
-**Acima de tudo, mantenha a classe.** O open source é composto por contribuidores de todo o mundo. O contexto se perde em idiomas, culturas, regiões geográficas e fusos horários. Além disso, a comunicação escrita torna mais difícil transmitir um tom ou humor. Assuma boas intenções nessas conversas. É normal se desfazer de uma ideia de forma educada e pedir mais contexto ou esclarecer melhor sua posição. Apenas tente deixar a internet em um lugar melhor do que quando você a encontrou.
+**Acima de tudo, mantenha a classe.** O open source é composto por contribuidores de todo o mundo. O contexto se perde em idiomas, culturas, regiões geográficas e fusos horários. Além disso, a comunicação escrita torna mais difícil transmitir um tom ou humor. Assuma boas intenções nessas conversas. É normal se desfazer de uma ideia de forma educada e pedir mais contexto ou esclarecer melhor sua posição. Apenas tente deixar a internet melhor do que quando você a encontrou.
 
 ### Capturando o contexto
 
@@ -487,7 +487,7 @@ Se este é o seu primeiro pull request, confira [Faça um pull request](http://m
 
 ## O que acontece depois que você envia uma contribuição
 
-Você fez isso! Parabéns por se tornar um contribuidor open source. Esperamos que seja a primeira de muitas.
+Você conseguiu! Parabéns por se tornar um contribuidor open source. Esperamos que seja a primeira de muitas.
 
 Depois de enviar uma contribuição, uma das seguintes situações ocorrerá:
 
@@ -517,6 +517,6 @@ Sua contribuição pode ou não ser aceita no final. Espero que você não tenha
 
 Viva! Você fez uma contribuição open source com sucesso!
 
-## Você fez isso!
+## Você conseguiu!
 
 Se você acabou de fazer sua primeira contribuição open source ou está procurando novas maneiras de contribuir, esperamos que você esteja inspirado a agir. Mesmo que sua contribuição não tenha sido aceita, não se esqueça de agradecer quando um mantenedor se esforçar para ajudá-lo. O open source é feito por pessoas como você: uma issue, pull request, comentário ou high-five de cada vez.

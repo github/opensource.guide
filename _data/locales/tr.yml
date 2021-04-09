@@ -22,7 +22,7 @@ tr:
       button: Abone Olun 
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[github] ve [friends] ile beraber [love] ile [code]"
+      format: "[github] ve [friends] tarafından [love] ile [code]"
       # Label for code octicon
       code_label: code
       # Label for love octicon
