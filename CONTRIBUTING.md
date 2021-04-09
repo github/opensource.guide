@@ -1,4 +1,4 @@
----
+--
 layout: default
 ---
 
@@ -41,9 +41,6 @@ If you'd like to contribute, start by searching through the [issues](https://git
 
 If you don't see your idea listed, and you think it fits into the goals of this guide, open a pull request.
 
-## Style guide
-
-If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the guides.
 
 ## Setting up your environment
 
