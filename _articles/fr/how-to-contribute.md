@@ -429,10 +429,6 @@ Avant d'ouvrir une issue ou une pull request, ou de poser une question dans une 
 
 **Surtout, gardez-le classique.** L'open source est composé de collaborateurs du monde entier. Le contexte se perd dans les langues, les cultures, les zones géographiques et les fuseaux horaires. De plus, la communication écrite rend plus difficile la transmission d'un ton ou d'une humeur. Supposer de bonnes intentions dans ces conversations. Il est bon de repousser poliment une idée, de demander plus de contexte ou de clarifier davantage votre position. Juste essayer de laisser l'Internet un meilleur endroit que lorsque vous l'avez trouvé.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
->
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
-
 ### Rassembler le contexte
 
 Avant de faire quoi que ce soit, faites une vérification rapide pour vous assurer que votre idée n'a pas été discutée ailleurs. Parcourez le fichier README du projet, les issues (ouvertes et fermées), la liste de diffusion et Stack Overflow. Vous n'avez pas à passer des heures à tout faire, mais une recherche rapide de quelques termes clés va aider.
