@@ -19,263 +19,277 @@ related:
 نگهداری یک پروژه، به چیزی بیشتر از کدنویسی نیاز دارد. این وظایف اغلب به صورت ناگهانی پیش می‌آیند؛ اما آن‌ها به همان اندازه‌ی پروژه‌ی در حال رشد مهم هستند. ما برای آسان‌تر کردن زندگی‌تان چند روش آماده کرده‌ایم؛ از مراحل ثبت کردن فرآیند گرفته تا بهره‌بردن از اجتماع‌تان.
 
 
-## Documenting your processes
+## ثبت کردن فرآیندها
 
-Writing things down is one of the most important things you can do as a maintainer.
+نوشتن مطالب، یکی از مهم‌ترین کارهایی است که می‌توانید به عنوان نگهدارنده انجام دهید.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+ثبت کردن مطالب، نه تنها باعث شفافیت تفکر شما می‌شود، بلکه به دیگران کمک می‌کند تا حتی بدون پرسیدن سوالی، با احتیاجات و انتظارات شما آشنا شوند.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+نوشتن مطالب، نه گفتن به چیزی که به درد شما نمی‌خورد را آسان‌تر می‌کند. همچنین فرآیند کمک کردن به شما را برای سایرین آسان‌تر می‌کند. شما هرگز نمی‌دانید که چه کسی ممکن است پروژه‌ی شما را مطالعه یا از آن استفاده کند.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+حتی اگر از پاراگراف‌های طولانی استفاده نمی‌کنید!، نوشتن نکات مهم بهتر از چیزی ننوشتن است.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+به یاد داشته باشید که نوشتن مطالب را به روز نگه دارید. اگر همیشه قادر به انجام این کار نیستید، مطالب قدیمی خود را حذف کنید یا مشخص کنید که این مطالب  منسوخ شده‌اند تا مانع به روز رسانی‌های مشارکت‌کنندگان نشوید.
 
-### Write down your project's vision
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+### چشم انداز خودتان از پروژه را یادداشت کنید
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+با نوشتن هدف‌های خودتان از پروژه، شروع کنید. آن‌ها را به «README» (من را بخوانید) خود اضافه کنید یا یک فایل جداگانه به نام  «VISION » (چشم انداز) ایجاد کنید. اگر موارد دیگری وجود دارد که می‌تواند به شما کمک کند؛ مانند نقشه‌ی راه پروژه، آن‌ها را نیز به صورت عمومی منتشر کنید.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+داشتن چشم‌اندازی واضح و ثبت شده، شما را متمرکز نگه می‌دارد و به شما کمک می‌کند تا از بسط یا تغییرات در اهداف اولیه جلوگیری شود.
+
+به عنوان مثال، @lord، متوجه شد که داشتن چشم‌انداز پروژه به او کمک می‌کند تا بفهمد برای کدام درخواست‌ها وقت بگذارد. به عنوان یک نگهدارنده‌ی جدید، وقتی اولین درخواست خود را برای [Slate](https://github.com/lord/slate) دریافت کرد، از عدم پایبندی به اهداف پروژه‌ی خود پشیمان شد.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+	دستپاچه شدم. تلاشی نکردم تا به راه‌حلی کامل دست پیدا کنم. ای کاش به جای یک راه‌حل بی‌فکر، می‌گفتم: «الان برای این وقت ندارم، اما آن را به لیست بلند مدت خودم اضافه کردم».
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### انتظارات خود را اعلام کنید
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+نوشتن قوانین، می‌تواند اعصاب خردکن باشد. گاهی اوقات ممکن است این حس را داشته باشید که در حال کنترل رفتار دیگران و یا از بین بردن هیجان و لذت در میان دیگران هستید.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+با این حال، اگر قوانین، مناسب و به طور عادلانه‌ای نوشته و اجرا شوند باعث نگهداری هر چه بهتر می‌شوند. این قوانین، جلوی کارهایی که نمی‌خواهید انجام دهید را می‌گیرد.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+اکثر افرادی که با پروژه‌ی شما روبرو می‌شوند، چیزی از شما و شرایط شما نمی‌دانند. ممکن است فرض کنند که شما برای کار کردن بر روی پروژه حقوق می‌گیرید، به ویژه اگر آن پروژه چیزی باشد که آن‌ها مرتباً استفاده می‌کنند و به آن وابستگی دارند. ممکن است زمانی وقت زیادی را صرف پروژه‌ی خود می‌کردید، اما اکنون مشغول کار یا گذران زمان با خانواده‌ی خود هستید.
 
-All of this is perfectly okay! Just make sure other people know about it.
+شما مرتکب کار اشتباهی نشده‌اید! ولی اطمینان حاصل کنید که بقیه‌ هم راجع به این مسائل اطلاع داشته باشند.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+اگر نگهداری پروژه برای شما کاری نیمه وقت است یا کاملاً داوطلبانه است، درمورد آن صادق باشید و روشن کنید که چقدر زمان برای این کار دارید. این مسئله با میزان زمانی که شما فکر می‌کنید پروژه به آن نیاز دارد یا مدت زمانی که دیگران می‌خواهند شما در آن صرف کنید، یکی نیست و با هم فرق می‌کند.
 
-Here are a few rules that are worth writing down:
+در اینجا چند قانون داریم که به یاد داشتن آن‌ها ارزش دارد:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* مشارکت چگونه تعریف و پذیرفته می‌شود (_آیا نیاز به آزمون دارد؟ یا قالب طرح مشکل؟_)
+* انواع مشارکت‌هایی که می‌پذیرید (_آیا فقط برای قسمت‌های خاصی از کد خود کمک می‌خواهید؟_)
+* چه زمانی برای پیگیری مناسب است (_به عنوان مثال، «شما در طی 7 روز از  نگهدارنده می‌توانید انتظار پاسخگویی داشته باشید. اگر تا آن موقع خبری نشد، یادآوری کنید._)
+* چه مدت زمان صرف پروژه می‌کنید (_به عنوان مثال، «ما فقط 5 ساعت در هفته برای این پروژه وقت می‌گذاریم»_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), و [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) نمونه‌هایی از پروژه‌ها با دستور‌العمل‌هایی برای نگهدارندگان و مشارکت‌کنندگان هستند.
 
-### Keep communication public
+### ابلاغیه‌های خود را به صورت عمومی اعلام کنید
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+تعاملات خود با بیرون را نیز ثبت کنید. در هر جایی که ممکن بود، ابلاغیه‌های مربوط به پروژ‌ه‌ی خود را به صورت عمومی اعلام کنید. اگر کسی خواست که به طور خصوصی درباره‌ی درخواستی یا پشتیبانی با شما به گفتگو بپردازد، مودبانه او را به کانال ارتباطی عمومی، همچون فهرست پستی (mailing list) یا «issue tracker» هدایت کنید.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+اگر با سایر نگهدارنده‌ها ملاقات کردید یا در خلوت تصمیم مهمی گرفتید، این مکالمه‌ها را به صورت عمومی ثبت کنید؛ حتی اگر بخواهد به صورت پست کردن یادداشت‌هایتان باشد.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+به این ترتیب، هر کسی که به انجمن شما بپیوندد به همان اطلاعاتی که سال‌ها در آنجا بوده است، دسترسی خواهد داشت.
 
-## Learning to say no
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+## نه گفتن، را یاد بگیرید
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+شما مطالب خود را ثبت کردید. در حالت ایده آل، همه نوشته‌ها و مستندات شما را می‌خوانند، اما در واقع، شما باید به دیگران وجود این اطلاعات را نیز یادآوری کنید.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+درصورتی که لازم باشد قوانین خود را اجرا کنید، با نوشتن و ثبت کردن همه چیز، به شما کمک می‌کند تا شرایط را از حالت شخصی‌سازی شده در‌آورید.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+نه گفتن، لذت‌بخش نیست؛ اما گفتن «مشارکت شما با معیارهای این پروژه مطابقت ندارد» کمتر از «من مشارکت با شما را دوست ندارم»، به شخصیت طرف برمی‌خورد.
 
-### Keep the conversation friendly
+نه گفتن در بسیاری از شرایطی که به عنوان نگهدارنده با آن روبرو خواهید شد، به کار می‌آید: درخواست‌هایی که با ویژگی‌های پروژه‌ی شما متناسب نیستند، کسی که بحث را به بیراهه می‌کشاند، انجام کارهای غیرضروری برای دیگران.
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+### دوستانه با دیگران ارتباط برقرار کنید
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+یکی از مهم‌ترین جاهایی که شما باید تمرین نه گفتن را انجام دهید، در سر برخی از مسائل و «درخواست‌های pull» ای است که از شما می‌شود. به عنوان نگهدارنده‌ی پروژه، ناگزیر پیشنهادهایی دریافت خواهید کرد که نمی‌خواهید آن‌ها را بپذیرید.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+چونکه شاید آن مشارکت، اهداف پروژه‌ی شما را تغییر دهد یا با چشم‌انداز شما مطابقت نداشته باشد. یا شاید ایده خوب باشد، ولی اجرای آن ضعیف باشد.
+
+صرف نظر از هرچه که دلیل بخواهد باشد، می‌توان مشارکت‌هایی را که مطابق با استانداردهای پروژه‌ی شما نیستند را با درایت مدیریت کرد.
+
+اگر مشارکتی به شما پیشنهاد بشود که نخواهید آن را بپذیرید؛ اولین واکنش شما ممکن است نادیده گرفتن آن یا تظاهر به ندیدن آن باشد. انجام این کار می‌تواند به احساسات طرف مقابل ضربه بزند و حتی باعث کاهش انگیزه‌ی سایر مشارکت‌کنندگان بالقوه‌ی اجتماع (community) شما شود.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+	 نکته‌ی مهم در مدیریت پروژه‌های اوپن سورس در مقیاسی بزرگ، حرکت رو به جلو است. سعی کنید از ماندگاری مسائل و مشکلات، جلوگیری کنید. اگر توسعه‌دهنده‌ی iOS باشید، می‌دانید که این مسائل چقدر طاقت‌فرسا هستند. ممکن است 2 سال بعد دوباره این مسائل به سراغ شما بیاد و به شما گفته شود که با آخرین نسخه iOS دوباره امتحان کنید.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+مشارکت ناخواسته را صرف اینکه آدم خوبی به نظر برسید، ادامه ندهید زیرا در ادامه‌ی راه احساس گناه خواهید کرد. با گذشت زمان، مسائل و روابط عمومی بی‌پاسخ باعث می‌شود که کارتان روی پروژه بسیار استرس‌زا و ترسناک پیش برود. 
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+بهتر است فوراً به مشارکت‌هایی که آن‌ها را نمی‌خواهید، پایان دهید. اکر پروژه شما از کمبود بک لاگ رنج می برد, @steveklabnik در مقاله [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) پیشنهاداتی در این خصوص ارائه کرده است.
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+ثانیاً، بی‌توجهی به مشارکت‌هایتان، سیگنال‌های منفی‌ای به درون اجتماع می‌فرستد. مشارکت در هر پروژه‌ای می‌تواند دلهره‌آور باشد، خصوصاً اگر برای اولین بار باشد که در پروژه‌ای شرکت می‌کنید. حتی اگر مشارکت آن‌ها را قبول نکردید، از آن شخص تشکر کرده و از توجه او سپاسگزار باشید. کار پسندیده‌ای است!
 
-If you don't want to accept a contribution:
+اگر نمی‌خواهید مشارکت کسی را قبول کنید:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* از توجه آن‌ها **تشکر کنید**.
+* **توضیح دهید که چرا نمی‌توانید با آن‌ها همکاری داشته باشید** و اگر می‌توانید، پیشنهادهای واضحی را برای بهبود آن‌ها برای آینده ارائه دهید؛ مهربان باشید، اما مصمم.
+* در صورت داشتن دسترسی، آن‌ها را **به مستندات مربوطه ارجاع دهید**. اگر با درخواست‌های مکرر برای مواردی که نمی‌خواهید آن‌ها را بپذیرید، مواجه شدید؛ آن موارد را برای جلوگیری از مکررات به مستندات خود اضافه کنید. 
+* **درخواست مشارکت را ببندید**.
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+شما به 1 یا 2 جمله بیشتر، برای پاسخگویی نیاز نخواهید داشت. به عنوان مثال، هنگامی که [celery](https://github.com/celery/celery/)، خطایی مربوط به ویندوز را گزارش داد، «berkerpeksag» [اینگونه پاسخ](https://github.com/celery/celery/issues/3383) داد:
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+اگر فکر نه گفتن شما را وحشت زده می‌کند، بدانید که شما تنها نیستید. همانطور که @jessfraz می‌گوید:
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> من با نگهدارنده‌هایی از پروژه‌های اوپن سورس مختلف مانندMesos» ،«Kubernetes» «Chromium صحبت کرده‌ام و همه موافق هستند که یکی از سخت‌ترین قسمت‌های نگهدارنده بودن، «نه» گفتن به اصلاحاتی است که نمی‌خواهید.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+در نپذیرفتن پیشنهاد مشارکت کسی، احساس گناه نکنید. [طبق گفته‌ی](https://twitter.com/solomonstre/status/715277134978113536) @shykes، اولین قانون پروژه‌های اوپن سورس این است که: «نه موقتی‌ست، بله برای همیشه».  در حالی که همدردی با اشتیاق فرد دیگر، چیز پسندیده‌ای است؛ اما رد کردن پیشنهاد مشارکت به معنای رد کردن هویت فرد پشت سر آن پیشنهاد نیست.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+ختم کلام این است که اگر مشارکت با دیگری به اندازه کافی خوب نباشد، شما ملزم به پذیرفتن هیچ تعهدی نیستید. وقتی دیگران در پروژه‌ی شما مشارکت می‌کنند، مهربان و پاسخگو باشید؛ اما فقط تغییراتی را قبول کنید که واقعاً معتقد هستید پروژه‌ی شما را بهتر می‌کند. هر چه در نه گفتن، تمرین بیشتری داشته باشید؛ گفتن آن راحت‌تر می‌شود. به شما قول می‌دهم.
 
-### Be proactive
+### فعال باشید
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+برای کاهش حجم مشارکت‌های ناخواسته در وهله‌ی اول، روند پروژه خود را در راهنمای ارسال و پذیرش مشارکت‌ها توضیح دهید.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+اگر درخواست‌های مشارکت بسیار کم کیفیت دریافت می‌کنید، از افراد متقاضی بخواهید کمی قبل از ارسال پیشنهاد، کارهایی انجام دهند؛ به عنوان مثال:
+
 
 * Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* قبل از ارسال درخواست Pull یک گزارش اشکال ارسال کنند.
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+اگر از قوانین شما پیروی نکردند، بلافاصله درخواست را رد کنید و آن‌ها را به راهنمای ارسال مرجوع کنید.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+اگرچه ممکن است در ابتدا این رویکرد کمی خشن به نظر برسد، اما فعال بودن برای هر دو طرف خوب است. در نتیجه این احتمال را کاهش می‌دهد که کسی ساعت‌های زیادی صرف «درخواست Pull»ی که شما آن را قبول نخواهید کرد، نکند. و ثانیا حجم کاری شما را نیز کمتر می‌کند و مدیریت آن ساده‌تر می‌شود
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+	بهتر است که به افراد متقاضی در یک فایل «CONTRIBUTING.md» توضیح دهید که چه چیزهایی مورد قبول و چه چیزهایی مورد قبول شما برای شروع کردن کارشان نیست.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+بعضی اوقات، وقتی نه می‌گویید، مشارکت‌کننده‌ی بالقوه ممکن است ناراحت شود یا از تصمیم شما انتقاد کند. اگر آن‌ها خصومت‌آمیز رفتار کردند و اگر نخواستند به طور سازنده همکاری کنند، [قدم‌هایی را برای خنثی کردن موقعیت](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) بردارید یا حتی آن‌ها را از اجتماع خودتان اخراج کنید.
 
-### Embrace mentorship
+### با آعوش باز، پذیرای راهنمایی‌ و مشاوره باشید
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+شاید کسانی در اجتماع شما باشند که مرتباً درخواست‌های مشارکتی پیشنهاد می‌کنند که با استانداردهای پروژه‌ی شما مطابقت نداشته باشد. مسلما رد شدن پیاپی برای هر دو طرف، طاقت‌فرساست.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+اگر دیدید کسی مشتاق پروژه‌ی شما است، اما به کمی پیشرفت نیاز دارد، صبور باشید. در هر شرایطی به روشنی توضیح دهید که چرا مشارکت آن‌ها متناسب با انتظارات پروژه‌ی شما نیست. سعی کنید ابتدا وظایفی ساده‌تر و با ابهامات کمتر به آن‌ها بسپرید تا به قول معروف «آماده‌ی کار شوند». اگر وقت داشتید، در اولین مشارکت، آن‌ها را راهنمایی کنید، یا شخص دیگری را در اجتماع خود پیدا کنید که تمایل به راهنمایی کردن آن‌ها داشته باشد.
 
-## Leverage your community
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+## از اجتماع خود بهره ببرید
 
-### Share the workload
+لازم نیست همه‌ی کارها را خودتان انجام دهید. دلیلی دارد که پروژه‌ی شما، اجتماعی برای خود دارد! حتی اگر هنوز اجتماعی فعال ندارید، اگر کاربران زیادی دارید، کارها را به آن‌ها بسپرید.
 
-If you're looking for others to pitch in, start by asking around.
+### حجم کار را با دیگران تقسیم کنید
 
-One way to gain new contributors is to explicitly [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing their visibility.
+اگر می‌خواهید که دیگران به شما کمک کنند، از آن‌ها درخواست کنید.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+راهی برای جذب مشارکت‌کنندگان این است که کارها را از نظر سختی درجه‌بندی کنید و [کارهای ساده را به مبتدی‌ها بسپرید](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). سپس GitHub این موضوعات را در فضاهای مختلف خودش به نمایش می‌گذارد و باعث افزایش دیده شدن آن‌ها می‌شود.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+وقتی مشاهده کردید که مشارکت‌کنندگان جدید به صورت مکرر همکاری می‌کنند، با دادن مسئولیت‌های بیشتر، آن‌ها را تصدیق کنید و به رسمیت بشناسید. مشخص کنید که چگونه دیگران می‌توانند در صورت اشتیاق به جایگاه‌های رهبری دست یابند.
+
+
+همانطور که @lmccart در پروژه‌ی خود متوجه شد، تشویق دیگران [به اشتراک گذاشتن مالکیت پروژه](../building-community/#share-ownership-of-your-project) می‌تواند حجم کاری شما را بسیار کاهش دهد[p5.js](https://github.com/processing/p5.js).
+
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  من می‌گفتم، «هر کسی می‌تواند در پروژه سهیم شود، لازم نیست که حتما مهارت زیادی در زمینه‌ی کدنویسی داشته باشید [...]» افرادی بودند که برای ورود به رویداد ما ثبت‌نام کردند و آن وقت بود که من واقعاً با خودم فکر کردم «آیا حرف‌هایی که می‌زدم واقعیت دارند؟» قرار هست که 40 نفر در رویداد حضور پیدا کنند و اینطور نیست که من بتوانم با هرکدام بنشینم و با آن‌ها صحبت کنم... اما مردم دور هم جمع شدند و خود به خود همه چی به خوبی پیش رفت. به محض اینکه یک نفر یاد گرفت، آن‌ها می‌توانند به یکدیگر یاد دهند.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+اگر لازم است کمی از پروژه‌ی خود فاصله بگیرید، یا وقفه‌ای در آن ایجاد کنید یا به طور کلی کنار بکشید؛ به هیچ وجه شرم‌آمور نیست که از شخص دیگری بخواهید مسئولیت کار شما را به عهده بگیرد.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+اگر افراد دیگری مشتاق این هستند، به آن‌ها اجازه‌ی دسترسی دهید یا کنترل پروژه را به طور رسمی به شخص دیگری بسپارید. اگر کسی پروژه‌ی شما را به چند شاخه تبدیل کرد و به طور فعال آن را در جای دیگری نگهداری کرد، پیوند دادن پروژه‌ی اصلی خود به شاخه را مد نظر قرار دهید. این خیلی خوب است که مردم می‌خواهند پروژه شما ادامه یابد!
 
-@progrium [found that](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+@progrium [متوجه شد]( https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) که ثبت کردن چشم‌انداز [پروژه](https://github.com/dokku/dokku)، کمک کرد تا آن اهداف حتی پس از کنار کشیدن او ادامه یابند:
 
-### Let others build the solutions they need
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+> من یک صفحه‌ در ویکی نوشتم و آنچه را که می‌خواهم و چرایی آن را توصیف کردم. بنا به دلایلی برای من تعجب‌آور بود که نگهدارندگان شروع به انتقال پروژه به سمت و سوی دلخواه خود کردند! آیا آنطور که می‌خواستم، پیش رفت؟ نه همیشه. ولی پروژه را به آنچه که نوشته‌ بودم، نزدیک‌تر کرد.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+### به دیگران اجازه دهید تا راه‎‌حل‌های مورد نیاز خودشان را طراحی کنند
+
+اگر فرد مشارکت‌کننده‌ای نظر دیگری در مورد کاری که پروژه باید انجام دهد داشته باشد، بهتر است که آن‌ها را با مهربانی تشویق به کار بر روی شاخه‌ی خودشان از پروژه بکنید.
+
+به چند شاخه تقسیم کردن پروژه، الزاما چیز بدی نیست. امکان کپی و اصلاح پروژه‌ها، یکی از بهترین ویژگی‌های اوپن سورس بودن است. تشویق اجتماع (community) خودتان به کار بر روی شاخه‌های خودشان می‌تواند فضای خلاقانه‌ی مورد نیاز را فراهم آورد، بدون اینکه با چشم‌اندازهای پروژه‌ی شما تداخلی ایجاد کند.
+
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  من زمینه‌ی 80% موارد کاربردی را فراهم می‌کنم.  اگر از کار خود اطمینان دارید، لطفا شاخه‌ای از پروژه‌ی من را بردارید. دلخور نخواهم شد! پروژه‌های عمومی من اکثرا برای حل رایج‌ترین مشکلات هستند؛ سعی می‌کنم با شاخه شاخه کردن کارم یا بسط دادن، آن را کاربردی‌تر بکنم.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+این موضوع همچنین درمورد کاربری صدق می‌کند که واقعاً نیاز به راه‌حلی دارد که ظرفیت طراحی آن را ندارید. ارائه‌ی APIها و هوک‌های سفارشی‌سازی (customization hooks)، بدون نیاز به تغییر مستقیم سورس، می‌توانند به دیگران در تأمین نیازهاشان کمک کنند. @orta [متوجه شد](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) که افزونه‌های پرورشی برای «CocoaPods» منجر به «برخی از جالب‌ترین ایده‌ها» شد:
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
-## Bring in the robots
+> تقریباً اجتناب‌ناپذیر به نظر می‌رسد که به محض بزرگ‌تر شدن پروژه، نگهدارنده‌ها باید در مورد نحوه تعریف کدهای جدید بسیار محافظه‌کارانه‌تر عمل کنند. شاید در گفتن «نه» تبحر پیدا کرده باشید، اما هنوز بسیاری از مردم نیازهایی معقول و منطقی دارند. بنابراین، در نهایت ابزار شما به یک پلتفرم تبدیل می‌شود.
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+## از ربات‌ها استفاده کنید
 
-### Require tests and other checks to improve the quality of your code
+همانطور که وظایفی وجود دارد که دیگران می‌توانند در انجام آن‌ها به شما کمک کنند، وظایفی نیز وجود دارد که هیچ انسانی هرگز نباید آن‌ها را انجام دهد. ربات‌ها دوست شما هستند. به عنوان یک نگهدارنده، از آن‌ها برای سهولت زندگی خود استفاده کنید.
 
-One of the most important ways you can automate your project is by adding tests.
+### برای بهبود کیفیت کدهای خود، از تست‌ها و دیگر ابزار استفاده کنید.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+یکی از مهم‌ترین راه‌ها برای اتوماتیک کردن پروژه‌ی خود، افزودن تست است.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+تست‌ها به مشارکت‌کنندگان کمک می‌کند تا اطمینان داشته باشند که چیزی را خراب نمی‎کنند. تست‌ها، همچنین بررسی و پذیرش سریع مشارکت‌ها را برای شما آسان می‌کند. هر چقدر از خود علاقه‌ی بیشتری نمایش دهید و مشتاق‌تر باشید، اجتماع شما مشارکت بیشتری خواهد داشت.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+تست‌های خودکاری را طراحی کنید که برای همه مشارکت‌های آتی اجرا شود و اطمینان حاصل کنید که تست‌های شما به راحتی توسط مشارکت‌کنندگان قابل اجرا باشند. قبول کردن درخواست‌های مشارکت در کدها را ملزم به قبول شدن در آن تست بکنید. با این کار، حداقل استاندارد کیفیتی را برای همه‌ی درخواست‌ها تعیین می‌کنید. [با بررسی وضعیت](https://help.github.com/articles/about-required-status-checks/) در GitHub می‌توانید اطمینان حاصل کنید که بدون گذراندن تست‌های شما اجازه‌ی هیچ گونه تغییری داده نمی‌شود.
+
+اگر تست‌هایی اضافه کردید، حتماً نحوه‌ی کارکرد آن‌ها را در فایل «CONTRIBUTING» (مشارکت) خود توضیح دهید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  من معتقد هستم که تست‌ها برای همه‌ی کدهایی که افراد روی آن‌‌ها کار می‌کنند، لازم است. اگر کد کاملاً صحیح و سالم باشد، دیگر نیازی به تغییر نخواهد داشت - ما فقط درصورتی که مشکلی پیش آمده باشد کد می‌نویسیم؛ مگر در زمان‌هایی که کد «خراب شود» یا «فاقد فلان ویژگی باشد». و صرف نظر از تغییراتی که ایجاد می‌کنید، تست‌ها برای دستیابی به رگرسیون‌هایی که به طور تصادفی به وجود می‌آ‌‌ورید، ضروری است.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### از ابزارها برای اتوماتیک کردن کارهای ساده‌ی نگهداری استفاده کنید
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+خبر خوب در مورد نگهداری پروژه‌های محبوب این است که نگهدارندگان دیگر احتمالاً با مسائل مشابهی روبرو شده‌اند و راه‌حلی از قبل برای آن طراحی کرده‌اند.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+[ابزارهای متنوعی برای کمک](https://github.com/showcases/tools-for-open-source) به اتوماتیک کردن برخی جنبه‌های کار نگهداری وجود دارد. به عنوان مثال:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+* ابزار [emantic-release](https://github.com/semantic-release/semantic-release)، عرضه نسخه‌های جدید شما را اتوماتیک می‌کند.
+* ابزار [mention-bot](https://github.com/facebook/mention-bot)، به بازبین‌های بالقوه برای «درخواست pull»ها خبر می دهد.
+* ابزار [Danger](https://github.com/danger/danger)، به بررسی و بازبینی اتوماتیک کد کمک می‌کند.
+* ابزار [no-response](https://github.com/probot/no-response)، مسائلی را که نویسنده به درخواست‌ها برای اطلاعات بیشتر پاسخ نداده است، می‌بندد.
+* ابزار [dependabot-preview](https://github.com/marketplace/dependabot-preview)، هر روز «فایل‌های وابسته» (مثل کتابخانه‌ها یا کلاس‌های جانبی یا ماژول‌ها) شما را از نظر الزامات منسوخ شده بررسی می‌کند و «درخواست‌های pull» را برای هر موردی که پیدا می‌کند، باز می‌کند.
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+برای گزارش اشکالات (bug) و سایر مشارکت‌های متداول، GitHub دارای [قالب‌های طرح مشکل و قالب‌های درخواست‌های pull](https://github.com/blog/2111-issue-and-pull-request-templates) است، که می‌توانید برای کارآمد ساختن ارتباطاتی که دریافت می‌کنید، استفاده کنید. «TalAter»، برای کمک کردن به شما برای طرح مشکلات و مسائل روابط عمومی (PR templates)، ابزار [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) را ساخت.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+برای مدیریت اعلان‌های ایمیل خود، می‌توانید [فیلترهای ایمیل](https://github.com/blog/2203-email-updates-about-your-own-activity) را تنظیم کنید تا ایمیل‌ها براساس اولویت سازماندهی شوند.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+اگر می خواهید فراتر از حد معمول باشید، شیوه‌نامه‌ها (style guides) و ابزار «linters» می‌توانند مشارکت‌های پروژه را استاندارد کرده و بررسی و پذیرش آن‌ها را آسان کنند.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+اگرچه اگر استانداردهای شما بسیار پیچیده باشد، می تواند موانع و مسائل مشارکت را افزایش دهند. مطمئن شوید که فقط به اندازه‌ی کافی قوانینی را برای در آسایش قرار گرفتن دیگران اضافه کنید.
 
-## It's okay to hit pause
+اگر مطمئن نیستید که از چه ابزاری استفاده کنید، به سایر پروژه‌های معروف به ویژه آن پروژه‌هایی که مربوط به اکوسیستم خودتان است، توجه کنید. به عنوان مثال، فرآیند مشارکت برای سایر ماژول‌های «Node»، چگونه است؟ همچنین استفاده از ابزارها و رویکردهای مشابه، فرآیند کارتان را برای مشارکت‌کنندگان‌ شما آشناتر می‌کند.
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+## اشکالی ندارد اگر که وقفه‌ای در کار خود ایجاد کنید
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+کار کردن به صورت اوپن سورس برای شما شادی آورد. شاید اکنون باعث شده است شما احساس انزواطلبی داشته باشید یا احساس گناه کنید.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+شاید وقتی به پروژه‌های خود فکر می‌کنید بیش از حد احساس آشفتگی و یا احساس ترس می‌کنید. و در همین حال، «مشکلات» و «درخواست‌های pull» روی هم انباشته می‌شود.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+فرسودگی و خسته شدن از کار، مسئله‌ای واقعی و فراگیر در پروژه‌های اوپن سورس است؛ مخصوصاً در میان نگهدارندگان. به عنوان یک فرد نگهدارنده، خوشحالی و رضایت شما برای بقای هر پروژه‌ی‌ اوپن سورسی، ضروری است.
+
+پس نیازی به گفتن نیست؛ به خودتان استراحت بدهید! نیازی نیست تا سر حد خستگی و فرسودگی پیش بروید تا سپس به تعطیلات بروید. @brettcannon، توسعه‌دهنده‌ی پایتون، [تصمیم گرفت پس از 14 سال کار داوطلبانه در OSS، به تعطیلات یک ماهه برود](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/). 
+
+درست مانند هر کار دیگری، تعطیلات منظم، شما را باطراوت نگه می‌دارد و باعث خوشحالی و هیجان شما نسبت به کارتان می‌شود.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  در حین نگهداری «WP CLI»، متوجه شدم که باید ابتدا خودم را خوشحال کنم و مرزهای مشخصی را برای مشارکت خودم تعیین کنم. بهترین تعادلی که پیدا کردم این بود که 2 تا 5 ساعت را در هفته صرف این مشارکت جدای از برنامه‌ی عادی کارم، بکنم. این باعث شد که اشتیاقم به این کار مانند روز اول باشد و آن حس اجباری بودن کار را بر روی دوش حس نکنم. از آنجا که من موضوعاتی که بر روی آن‌ها کار می‌کنم را اولویت‌بندی می‌کنم، می‌توانم مرتباً در آن کارهایی که از نظرم مهم هستند، پیشرفت داشته باشم.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+گاهی اوقات، زمان‌هایی که حس می‌کنید همه به شما احتیاج دارند؛ ممکن است فاصله گرفتن از پروژه‌ی اوپن سورس سخت باشد. حتی ممکن است دیگران، شما را به خاطر فاصله گرفتن سرزنش کنند.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+در حالی که از پروژه فاصله گرفتید، تلاش خود را برای یافتن پشتیبانی از کاربران و اجتماع خود بکنید. اگر نتوانستید پشتیبانی دیگران را به دست آورید، به هر حال کار خودتان را بکنید و فاصله‌ای را که نیاز دارید از پروژه بگیرید. زمانی که حضور نداشتید، حتماً ارتباط خود را با دیگران حفظ کنید؛ تا مردم از نبود پاسخگویی گیج نشوند.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+فاصله گرفتن، فقط منحصر به تعطیلات می‌شود. اگر نمی‌خواهید آخر هفته‌ یا در ساعات کاری، پروژه‌های اوپن سورس انجام دهید، این را به اطلاع دیگران برسانید تا بدانند که در آن اوقات مزاحم شما نشوند.
 
-## Take care of yourself first!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+## ابتدا به فکر خودتان باشید!
+
+نگهداری یک پروژه‌ی محبوب به مهارت‌های متفاوتی در مقایسه با مهارت‌های مراحل اولیه‌ی رشد نیاز دارد، اما به همان میزان پاداش بیشتری هم خواهد داشت. به عنوان یک نگهدارنده، شما باید مهارت‌های رهبری و شخصی در سطحی فرای دیگران داشته باشید. اگرچه مدیریت آن همیشه آسان نیست، اما تعیین مرزهای مشخص و تنها پذیرفتن آنچه که با آن راحت هستید به شما کمک می‌کند تا شاد، سرحال و کارآمد باشید.
