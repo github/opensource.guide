@@ -1,15 +1,8 @@
 ---
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+lang: fa
+title: چگونه در یک پروژه‌ی متن باز مشارکت کنیم
+description: می‌خواهید در یک پروژه‌ی متن باز مشارکت کنید؟ در ادامه‌ی مقاله نحوه‌ی مشارکت در یک پروژه‌ی متن باز برای افراد مبتدی و باتجربه شرح داده شده است.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -17,210 +10,212 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## چرایی مشارکت در یک پروژه‌ی متن باز؟
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  کار کردن در Freenode به من در یادگیری بسیاری از مهارت‌ها کمک کرد و توانستم از آن‌ها در تحقیقات دانشگاهی و شغلم استفاده کنم. فکر می‌کنم به همان اندازه که کار کردن روی پروژه‌های متن باز به پیشبرد پروژه کمک می‌کند به همان اندازه به من هم کمک می‌کند!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+زمانی که در پروژه‌های متن باز مشارکت می‌کنید، چیزهای زیادی یاد می‌گیرد یا یاد می‌دهید، حتی می‌توانید در هر مهارتی که تصورش را می‌کنید تجربه کسب کنید.
 
-Why do people contribute to open source? Plenty of reasons!
+چرا افراد در پروژه‌های متن باز مشارکت می‌کنند؟ خب، دلایل زیادی وجود دارد!
 
-### Improve software you rely on
+### نرم‌افزاری که به آن متکی هستید را بهبود می‌دهید
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+مشارکت‌کننده‌ها مشارکت خود از پروژه‌هایی شروع می‌کنند که کاربر آن می‌شوند. زمانی که در نرم‌افزار یک پروژه‌ی متن باز باگ یا خطایی مشاهده کردید، در صورتی که توانایی برطرف کردن آن را داشته باشید می‌توانید به سرس کد آن نگاهی بیندازید و خودتان اصلاحیه‌ای برایش بنویسید. اگر با چنین موردی روبه‌رو شدید، مشارکت در اصلاح آن باگ بهترین راه برای مطمئن کردن دوستان (و خودتان مخصوصاً زمانی که نسخه‌ی بعدی آن به روز شود) باشد که می‌تواند مزیت‌های داشته باشد.
 
-### Improve existing skills
+### مهارت‌های موجودتان تقویت می‌شود
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+اگر به دنبال تمرین کدنویسی، طراحی رابط‌کاربری کاربر، طراحی گرافیک، نویسندگی یا سازماندهی کردن هستید، پروژه‌ی متن باز این تمرین‌ها را در اختیارتان قرار می‌دهد.
 
-### Meet people who are interested in similar things
+### با افرادی ملاقات می‌کنید که علایق‌شان با شما مشابه است
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+پروژه‌های متن باز با انجمن‌های گرم و گیرایش باعث می‌شود افرادی که در آن حضور دارند برای سال‌ها به آن مراجعه کنند. حتی بسیاری هستند که به واسطه‌ی همکاری‌شان در راه‌اندازی کنفرانس‌ها یا چت‌های آنلاین شبانه‌شان درباره‌ی burritos ، روابط دوستانه‌ی طولانی مدتی دارند.
 
-### Find mentors and teach others
+### استاد پیدا می‌کنید و به دیگران آموزش می‌دهید
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+کار کردن با دیگران در پروژه‌های مشترک شما را مجبور می‌کند نحوه‌ی انجام دادن کارها را توضیح دهید و به همان اندازه هم از دیگران کمک بخواهید. هر کسی می‌تواند خود را درگیری فعالیت‌های یادگیری و آموزشی کند.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### محصولی عمومی تولید کنید که به رشد اعتبار و حرفه‌ی کاری‌تان کمک کند
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+بر اساس تعریف، تمام پروژه‌های متن باز شما عمومی هستند. به این معنا که نمونه پروژه‌ها را دریافت می‌کنید و می‌توانید آن را همه جا ببرید و نشان دهید که چه کارهایی می‌توانید با آن انجام دهید.
 
-### Learn people skills
+### مهارت‌های دیگران را یاد می‌گیرید
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+روژه‌های متن باز فرصتی فراهم می‌کنند که به واسطه‌ی آن می‌توانید مهارت‌های مدیریت و رهبری پروژه‌ی خود مانند برطرف کردن تضادها، سازماندهی کردن تیم و اولیت بندی کارها، را تقویت کنید.
 
-### It's empowering to be able to make changes, even small ones
+### به شما قدرت اعمال تغییرات هرچند کوچک را می‌دهد
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+لازم نیست برای لذت بردن از همکاری در یک پروژه‌ی متن باز، به یک مشارکت‌کننده‌ی درازمدت تبدیل شوید. تا حالا شده در یک وب‌سایت چند غلط‌های املائی ببینید و دوست داشتید یک نفر آن را اصلاح کند؟ خب، گر چنین حالتی برای پروژه‌تان به وجود بیاید، به راحتی می‌توانید آن را برطرف کنید. پروژه‌ی متن باز می‌تواند به افراد کمک کند تا شرکتی که در آن فعالیت می‌کنند و نحوه‌ی کسب کردن تجربه‌شان را از زندگی خود مهم‌تر بدانند و همین مسئله حس رضایت‌بخشی به آن‌ها می‌دهد.
 
-## What it means to contribute
+## مشارکت به چه معناست؟
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+اگر در مشارکت یک پروژه‌ی متن باز تازه‌وارد هستید، فرآیند آن می‌تواند ترسناک باشد. شما چگونه یک پروژه درست برای مشارکت کردن در آن را انتخاب می‌کنید؟ اگر چیزی از کد نویسی ندانید، چی؟ اگر چیزی درست پیش نرود، چی؟
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+خب، نگران نباشید! راه‌های زیادی برای مشارکت در پروژه‌های متن باز وجود دارد که در ادامه‌ی مقاله مواردی از آن‌ها را می‌آوریم که می‌تواند به بدست آوردن تجربه‌های بیشتر به شما کمک کند.
 
-### You don't have to contribute code
+### الزماً قرار نیست در فرایند کدنویسی مشارکت کنید
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+یک دید غلط و مرسومی که برای مشارکت در پروژه‌های متن باز وجود دارد این است که فکر می‌کنند برای مشارکت در آن باید حتما کدنویسی شود. در حقیقت، [اغلب بخش‌های دیگر پروژه](https://github.com/blog/2195-the-shape-of-open-source) است که از آن غفلت یا بیش از حد به آن توجه می‌شود. شما با برطرف کردن مشکلات و مشارکت در آن بخش‌ها لطف بزرگی به پروژه‌های متن باز می‌کنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  من شهرتم را از کار در CocoaPods به دست آوردم، اما بیشتر مردم نمی‌دانند که من واقعاً هیچ کار واقعی با ابزار CocoaPods انجام نمی‌دادم. زمانم در آن پروژه بیشتر روی چیزهایی مانند اسناد یا کار روی برندسازی صرف می‌شد.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+حتی اگر هم به کدنویسی در پروژه علاقه‌مند باشید، روش‌های دیگر مشارکت بهترین راه‌برای درگیر شدن در یک پروژه و ملاقات با اعضای انجمن‌های دیگر وجود دارد. ساختن این روابط به شما فرصت‌هایی می‌دهد تا در بخش‌های دیگر پروژه مشارکت کنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  زمانی که درخواست مشارکتم را در 17 ژوئن سال 2002 به تیم توسعه‌ی پایتون با نام مستعار (python-dev) ارسال کردم، توانستم اولین مشارکتم را با آن‌ها شروع کنم. به سرعت باگ‌ها و خطاهای پروژه‌ی متن باز را پیدا می‌کردم و تصمیم می‌گرفتم خلاصه‌های آن را برای گروه تنظیم کردم. آن‌ها بهانه‌های زیادی می‌آوردند که یک موضوع را روشن کنم، اما با تمام انتقادات، زمانی که هر کسی برای برطرف کردن یک مشکل به کمک نیاز داشت، من آن را متوجه می‌شدم.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
-### Do you like planning events?
+### آیا به برگزاری رویدادها علاقه‌مند هستید؟
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* ورکشاپ (کارگاه‌ها) را سازماندهی یا جلسات پروژه را برگزار کنید، مانند کاری که @fzamperin برای [NodeSchool](https://github.com/nodeschool/organizers/issues/406) انجام داد
+* در صورت داشتن، برای یک پروژه کنفرانس برگزار کنید
+* به اعضای انجمن کمک کنید تا کنفرانس‌های درستی پیدا و برای کنفرانس پرپوزال خود را ارسال کنند.
 
-### Do you like to design?
+### آیا به طراحی علاقه‌مند هستید؟
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* با هدف افزایش قابلیت استفاده به بهبود ساختار برنامه ها کمک کنید.
+* مشابه [دروپال](https://www.drupal.org/community-initiatives/drupal-core/usability) می‌توانید با هدف بهبود رابط کاربری اقدام به کاربرپژوهی و مطالعاتی از این دست کنید. 
+* با جمع آوری و یک کاسه کردن الگوهای طراحی به کار گرفته شده در پروژه یک شیونه نامه (استایل گاید) متمرکز ایجاد کنید.
+* اقدام به خلق کارهای هنری مثل طراحی لوگو یا تی شرت مخصوص کنید. مثل کاری که [hapi.js](https://github.com/hapijs/contrib/issues/68) انجام داد.
 
-### Do you like to write?
+### آیا به نویسندگی در پروژه علاقه‌مند هستید؟
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* اسناد پروژه را بنویسید و اصلاح کنید
+* پوشه‌ی نمونه‌ها را تنظیم کنید تا نحوه‌ی استفاده‌ی پروژه را نشان دهد
+* برای پروژه یک خبرنامه راه‌اندازی کنید، یا شاخصه‌های آن را نوشته و تنظیم کنید
+* برای پروژه، مطالب آموزشی بنویسید، مانند مشارکت‌کننده‌هایی که برای [PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194) مطالب آموزشی نوشتند
+* مستندات پروژه را به زبانی دیگر ترجمه کنید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  اسناد یک پروژه به طور جدی مهم هستند. اسناد پروژه تا به الان عالی پیش رفتند و یکی از ویژگی‌های بی‌نظیر Babel نیز بوده است. بخش‌هایی در اسناد یک پروژه وجود دارد که مطمئناً می‌تواند از آن در برخی کارها استفاده کرد، حتی افزودن یک پاراگراف در این‌جا یا آن‌جا بی‌نهایت قایل تقدیر است.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### آیا به سازماندهی پروژه علاقه‌مند هستید؟
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* برای سازماندهی کردن همه چیز، مشکلات تکراری را لینک کنید و مسائل جدیدی مطرح کنید
+* با مسئله‌های (issue) باز رودرو شوید و پیشنهاد دهید مسائل قدیمی حل شوند، مانند کاری که @nzakas برای [ESLin](https://github.com/eslint/eslint/issues/6765) انجام داد
+* برای پیشبرد بحث، سوالات شفافی درباره‌ی مسائل باز اخیر بپرسید
 
-### Do you like to code?
+### آیا به کدنویسی علاقه دارید؟
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* مسائل باز و حل نشده را پیدا و حل کنید، مانند کاری که @dianjin برای [Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560) انجام داد
+* اگر می‌توانید برای اعمال یک ویژگی جدید به پروژه کمک کنید، درخواست‌تان را مطرح کنید
+* نصب پروژه را خودکار کنید
+* ابزارهای مرتبط و تسهیل کننده و تست پروژه را تقویت کنید
 
-### Do you like helping people?
+### آیا از کمک کردن به مردم لذت می‌برید؟
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* به سوالاتی که افراد درباره‌ی پروژه در سایت‌هایی مانند Stack، Postgres، یا Reddit می‌پرسند، جواب بدهید 
+* سوالات افرادی که مسائل حل نشده‌ای دارند را جواب بدهید
+* در اداره کانال‌های گفتگو و تالارهای گفتمان مشارکت کنید
 
-### Do you like helping others code?
+### آیا دوست دارید در کدنویسی به دیگران کمک کنید؟
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* کدنویسی سایر افراد را بررسی کنید
+* برای نحوه‌ی استفاده‌ی یک پروژه‌ی متن باز، مطلب آموزشی بنویسید
+* یک مشارکت کننده دیگر که می‌شناسید را پیشنهاد دهید، [مثل کاری که @ereichert در Rust برای @bronzdoc کرد][like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666).
+ 
+### لازم نیست فقط روی پروژه‌های نرم‌افزاری وقت صرف کنید!
 
-### You don't just have to work on software projects!
+با اینکه بیشتر پروژه‌های متن باز به نرم‌افزارها اطلاق می‌شود، اما می‌توانید هرچیزی از جمله کتاب‌ها، دستورالعمل، لیست چیزهای مختلف و کلاس‌ها را در پروژه‌های متن باز توسعه دهید.
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+به عنوان مثال:
 
-For example:
+* @sindresorhus [لیست‌هایی موسوم به «awesome»](https://github.com/sindresorhus/awesome) گردآوری و تنظیم می‌کند
+* @h5bp [یک لیست حاوی سوالاتی جهت مصاحبه برای توسعه دهندگان فرانت اند](https://github.com/h5bp/Front-end-Developer-Interview-Questions) را نگهداری و مرتب می‌کند
+* @stuartivnn و @nicole-a-tesla [مجموعه‌ای از حقایق جالب درباره‌ی طوطی دریایی](https://github.com/stuartlynn/puffin_facts) ایجاد کرده‌اند.
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+حتی اگر توسعه‌دهنده‌ی نرم‌افزار هم باشید، کار روی اسناد یک پروژه می‌توانید به شما کمک کند تا پروژه‌ی متن بازتان را شروع کنید. کار روی پروژه‌هایی که کدنویسی کمتری دارد اغلب ترس کمتری دارد و فرآیند همکاری در آن باعث می‌شود اعتمادبه‌نفس و تجربه‌ی شما افزایش پیدا کند.
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
-
-## Orienting yourself to a new project
+## ورود و وفق دادن خودمان به یک پروژه جدید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  اگر به یک ایشو ترکر (issue tracker) برخوردید و چیزهای گیج‌کننده‌ای دیدید، نگران نباشید چون شما تنها نیستید. این ابزارها به دانش ضمنی زیادی نیاز دارند، اما سایرین می‌توانند به شما کمک کند و می‌توانید از آن‌ها سوالاتی بپرسید.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+مشارکت کردن در یک پروژه‌ی متن باز که بیشتر از اصلاح غلط‌هایی املائی است، مانند وارد شدن به پارتی غریبه‌هاست. اگر در این پارتی درباره ماهی قرمز بحث عمیقی شکل گرفته، شما درباره‌ی لاماها صحبت کنید، احتمالاً نگاه عجیبی به شما می‌شود.
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+بنابراین، قبل از اینکه کورکورانه با پیشنهادهای‌تان وارد کاری شوید، یاد بگیرید که چگونه در چت روم‌ها گفتگو کنید. این کار شانس شما را برای شنیده شدن و توجه به ایده‌هایتان را بالا می‌برد.
 
-### Anatomy of an open source project
 
-Every open source community is different.
+### آناتومی یک پروژه‌ی متن باز
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+جامعه‌ها در پروژه‌های متن باز متفاوت هستند.
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+زمانی که سال‌ها روی یک پروژه‌ی متن باز صرف می‌کنید، باید آن پروژه‌ی متن باز را بشناسید. از طرفی، زمانی هم که به پروژه‌ی متفاوتی منتقل می‌شوید، لغات، قوائد و سبک ارتباطاتی آن که ممکن است کاملاً متفاوت باشد را باید پیدا کنید.
 
-A typical open source project has the following types of people:
+گفته می‌شود بیشتر پروژه‌های متن باز از یک ساختار سازماندهی مشابه پیروی می‌کنند. شناخت و درک نقش‌ها در جوامع مختلف و فرآیند کلی آن به شما کمک می‌کند به سرعت وارد هر پروژه‌ی جدیدی شوید.
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction
+افراد مختلفی در یک پروژه‌ی متن باز معمولی مشارکت می‌کنند:
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+* **نویسنده:** شخص یا سازمانی که یک پروژه را خلق می‌کند
+* **صاحب مالک:** شخص یا اشخاصی که صاحب اداری آن سازمان یا مخزن هستند (البته صاحب پروژه همیشه با نویسنده‌ی اصلی یکسان نیست)
+* **مسئول‌نگهداری پروژه:** مشارکت‌کننده‌هایی که مسئول پیش بردن چشم انداز و مدیریت جنبه‌های سازمانی یک پروژه باشند (این افراد همچنین می‌توانند نویسنده یا صاحب پروژه باشند)
+* **مشارکت‌کننده:** هر کسی که در پروژه مشارکت داشته باشد
+* **اعضای انجمن:** افرادی که از پروژه استفاده می‌کنند، می‌توانند مکالمات فعالانه‌ای داشته باشند یا نظرات‌شان را برای مسیر دادن به پروژه ابراز کنند
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+پروژه‌های بزرگ‌تر همچنین ممکن است زیرکمیته‌ها یا گروه‌های کاری داشته باشند که روی وظایف متفاوتی مانند مجهز کردن، triage (تریاژ)، معتدل کردن انجمن و سازماندهی رویداد متمرکز می‌شوند. زمانی که به صفحه‌ی «تیم» پروژه‌ی یک وب‌سایت، یا مخزن مراجعه کنید، می‌توانید اطلاعات این زیرکمیته‌ها و نقش افراد کلیدی را مشاهده کنید.
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+پروژه‌های متن باز اسناد مختلفی دارند که این فایل‌ها معمولا در بالای لیست مخزن قرار می‌گیرند.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+* **لایسنس/ گواهینامه (LICENSE):** طبق تعریف، هر پروژه‌ی متن بازی باید لایسنس مخصوص به خود را داشته باشد. اگر یک پروژه لایسنس نداشته باشد، اصلاً متن باز محسوب نمی‌شود
+* **فایل README:** فایل README یک دستورالعمل ساختاری برای تمام اعضای جدید انجمن است که می‌توانند آن را مطالعه می‌کنند. در این فایل به خوبی آورده شده که پروژه‌ی در دست چه فوایدی دارد و چگونه باید از آن استفاده کرد
+* **فایل CONTRIBUTING:** زمانی که یک فایل README می‌تواند به مردم برای استفاده از پروژه کمک کنند، فایل CONTRIBUTING هم می‌تواند برای مشارکت افراد در پروژه به شما و به آن‌ها کمک کند. در این فایل توضیح داده شده که به چه نوع مشارکتی نیاز است و فرآیند کاری پروژه به چه نحوه است. با اینکه هر پروژه فایل CONTRIBUTING ندارد، اما در صورت وجود چنین فایلی در پروژه می‌تواند به افراد مختلف سیگنال مشارکت در پروژه بدهد.
+* **CODE_OF_CONDUCT:** در فایل code of conduct می‌توانید قوائدی که شرکت‌کنندگان باید با در نظر گرفتن آن به صورت دوستانه و راحت و در یک محیط پذیرا با سایرین برخورد کنند را بنویسید. با اینکه هر پروژه ممکن است حاوی این فایل نباشد، اما زمانی که یک پروژه‌ی متن باز این فایل را داشته باشد، به مشارکت‌کننده‌ها این سیگنال را می‌فرستد می‌توانند در پروژه مشارکت داشته باشند. این فایل تقریباً حاوی توصیه‌هایی رفتاری برای تعامل است.
+* **اسناد دیگر:** یک پروژه‌ی متن باز به خصوص پروژه‌های بزرگ‌تر ممکن است حاوی اسناد دیگری مانند فایل‌های آموزشی، بازنگری فنی، راهنمای گام به گام (walkthroughs)، یا سیاست‌های دولتی باشند.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+در نهایت، پروژه‌های متن باز برای سازماندهی بحث‌ها از ابزارهای زیر  استفاده می‌کنند. مطالعه‌ی آرشیو پروژه‌ها می‌تواند دید خوبی از نحوه‌ی فکر و کار انجمن‌ها بدهد.
 
-## Finding a project to contribute to
+* **ایشو ترکر (Issue tracker):** جایی که افراد درباره‌ی مشکلات مرتبط با پروژه بحث می‌کنند
+* **درخواست Pull (Pull requests):** جایی که افراد درباره‌ی تغییرات جاری بحث و بازبینی می‌کنند.
+* **انجمن گفتگو یا خبرنامه های ایمیلی:** برخی از پروژه ها ممکن است برای موضوعات نیازمند بحث و گفتگو از انجمن های گفتگو یا خبرنامه ایمیلی به جای ایشو ترکر استفاده کنند. البته برخی دیگر ممکن است همین کار را به صورت کامل در بخش ایشو ترکر انجام دهند.
+* **Synchronous chat channel:** بعضی از پروژه‌های از کانال‌های چت مانند Slack یا IRC برای مکالمات محاوره‌ای، همکاری یا تبادلات سریع استفاده می‌کنند.
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+## یافتن یک پروژه جهت مشارکت کردن در آن
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
+اکنون می‌دانید نحوه‌ی کار یک پروژه‌ی متن باز چگونه است. بنابراین، زمانش رسیده تا برای مشارکت، یک پروژه‌ی متن باز پیدا کنید!
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+اگر قبلا در هیچ پروژه‌ی متن بازی مشارکت نداشته‌اید، نصیحت رئیس جمهور آمریکا، جان. اف. کندی را بشنوید که گفت:«نگویید کشورتان برای شما چه کار کرده– بپرسید شما برای کشورتان چه کار کرده‌اید.»
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+مشارکت‌کننده‌ها در تمام سطح‌های می‌توانند در پروژه‌های متن باز مشارکت کنند. لازم نیست بیش از حد به ذهن خود فشار بیاورید که اولین مشارکت شما در یک پروژه دقیقاً به چه صورت است، یا اولین مشارکت‌تان در آن پروژه چگونه خواهد شد. 
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+در عوض، به پروژه‌هایی فکر کنید که قبلا استفاده شده، یا می‌خواهید استفاده کنید. پروژه‌هایی که به صورت فعال در آن مشارکت می‌کنید، پروژه‌هایی هستند که برمی‌گردند.
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+هر زمان در چنین پروژه‌هایی به این موضوع فکر کردید که می‌توانستید بهتر از این یا متفاوت‌تر باشد، بهتر است از روی غریزه کار کنید.
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+فکر نکنید یک پروژه‌ی متن باز انحصاری است، چون پروژه‌های متن باز توسط افرادی مانند شما طراحی شده است. یک پروژه‌ی متن باز تنها یک لفظ فانتزی برای برطرف کردن و حل مشکلات در دنیاست.
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+شما در پروژه‌های متن باز می‌توانید فایل README را مطالعه، لینک‌های خراب و غلط‌های املائی را پیدا و برطرف کنید. شما و کاربران جدیدتان هم می‌توانند متوجه مشکل یا مسئله‌ای شوند که فکر کی‌کند باید از اسناد پروژه باشد. به جای نادیده گرفتن، عبور کردن یا سپردن آن مسائل به افراد دیگر، برای اصلاح آن مشکلات می‌توانید کمک کنید. این تمام چیزی است که یک پروژه‌ی متن باز می‌تواند داشته باشد!
 
-If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+> [28% از مشارکت‌کننده‌های معمولی](https://www.igor.pro.br/publica/papers/saner2016.pdf) روی اسناد پروژه‌ی متن باز مانند اصلاح غلط‌های املائی، شکل ‌دهی مجدد، یا نوشتن ترجمه مشارکت می‌کنند.
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+اگر به دنبال مسائل موجود پروژه‌ی متن بازتان هستید تا آن را برطرف کنید، می‌توانید وارد صفحه‌ی `/contribute` هر پروژه‌ی متن باز شوید که مشکلات را برای تازه‌واردها برجسته می‌کند. شما می‌توانید با حل کردن آن مشکلات، در مشارکت پروژه‌ی متن باز همکاری داشته باشد. برای این منظور می‌توانید به صفحه‌ی اصلی repository (مخزن) در سایت GitHub مراجعه کنید و کلمه‌ی `/contribute` را به انتهای آدرس URL آن اضافه کنید. به عنوان مثال:
+[`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+
+شما همچنین می‌توانید از منابع زیر برای کشف و مشارکت در پروژه‌های جدید کمک بگیرید:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -232,304 +227,306 @@ You can also use one of the following resources to help you discover and contrib
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://www.sourcesort.com/)
 
-### A checklist before you contribute
+### بررسی چک لیست قبل از مشارکت در پروژه‌ی متن باز
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+زمانی که پروژه‌ی مورد علاقه‌تان برای مشارکت را پیدا کردید، نگاهی سریعی داشته باشید که آیا آن پروژه مناسب است تا درخواست همکاری‌تان را بفرستید. در غیر این صورت، کار پُرتلاش شما ممکن است هیچوقت به نتیجه نرسد.
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+در ادامه می‌تواند چک لیست دستی را ببینید که می‌تواند مشارکت‌کننده‌های جدید یک پروژه را ارزیابی کند.
 
-**Meets the definition of open source**
+**پروژه با تعریف پروژه‌ی متن باز مطابقت داشته باشد**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, there is a file called LICENSE in the root of the repository.
+  پروژه‌ای که می‌خواهید در آن مشارکت کنید، لایسنس دارد؟ در هر پروژه‌ی متن باز معمولاً فایلی با نام LICENSE در روت رسپاستوری (مخزن) آن وجود دارد
   </label>
 </div>
 
-**Project actively accepts contributions**
+**پروژه‌ی متن باز به صورت فعالانه‌ای حضور مشارکت‌کننده‌ها را قبول می‌کند**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
-
+نگاهی به کامیت های اخیر در شاخه اصلی بیاندازید. در گیت‌هاب این این مورد در صفحه اصلی مخزن دیده می‌شود.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
+  آخرین کامیت چه زمانی بود؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
+  چه تعداد مشارکت‌کننده در پروژه حضور دارند؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+  افراد چند بار کامیت می‌کنند؟ (در GitHub، با کلیک روی «commits» روی بالای بار می‌توانید آن را متوجه شوید.)
   </label>
 </div>
 
-Next, look at the project's issues.
+در قدم بعدی به مسائل پروژه (issue) نگاهی بیندازید.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+    چه تعداد مسائل حل‌نشده و باز در پروژه وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
+    آیا نگهدارندگان به موقع به مسائلی که مطرح می‌شوند واکنش نشان می‌دهند؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+    آیا بحث‌ها و گفتگوهای فعالی جهت حل مسائل وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+    آیا اخیراً مسائلی گزارش شده است؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+    مسائل پروژه‌ی متن باز برطرف شدند؟ (می‌توانید به صفحه‌ی Issues در GitHub و تب «closed» مراجعه کنید تا مسائل حل‌شده را ببینید.)
   </label>
 </div>
 
-Now do the same for the project's pull requests.
+حالا، تمام این مراحل را برای درخواست ادغام یا Pull Request پروژه هم در نظر بگیرید.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    چه تعداد درخواست ادغام یا Pull Request در پروژه وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+    آیا زمان دریافت درخواست‌های ادغام، مسئول‌نگهداری به سرعت به آن‌ها جواب می‌دهد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+    آیا بحث‌های فعالی برای درخواست‌های ادغام وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+    آیا درخواست‌های ادغام جدیدی در پروژه وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+    جدیدترین درخواست‌هایی که ادغام شدن چه بودند؟ (می‌توانید در صفحه‌ی Pull Requests و تب «closed» در سایت GitHub بروید تا درخواست‌های ادغام انجام شده را ببینید
   </label>
 </div>
 
-**Project is welcoming**
+**پروژه پذیرای مشارکت است**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+زمانی که یک پروژه‌ی متن باز پذیرای مشارکت‌کننده‌های جدید باشد، سیگنال‌های دوستانه‌ای برای مشارکت‌کننده‌ها می‌فرستد.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
+    آیا مسئول ‌نگهداری جواب مفیدی به سوالات در بخش مسائل (Issues) می‌دهد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+    آیا افراد در صفحه‌ی issue، تالارهای گفتگو، و صفحات چت مانند IRC یا Slack به طور دوستانه‌ای رفتار می‌کنند؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
+    آیا درخواست‌های ادغام بررسی می‌شوند؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
+    آیا مسئول ‌نگهداری از افراد به خاطر مشارکت‌شان تشکر می‌کند؟
   </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+  هر زمان که با یک موضوع طولانی روبه‌رو شدید، جواب‌های توسعه‌دهندگان اصلی که در اواخر موضوع قرار دادند را بررسی کنید. آیا جواب آن‌ها به طور سازنده‌ای خلاصه است و با لحن مودبانه‌ای تصمیم می‌گیرند؟ اگر چیزهای بی‌ادبانه‌ای می‌بینید، اغلب به این خاطر است که به جای توسعه، انرژی منفی می‌دهند
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
-## How to submit a contribution
+## چگونه درخواست مشارکت را ارسال کنیم
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+زمانی که پروژه‌ی مورد علاقه‌تان را پیدا کردید، آماده‌ی مشارکت در آن می‌شوید و در نهایت باید راهی برای ارسال مشارکت خود به آن پیدا کنید.
 
-### Communicating effectively
+### ارتباط موثر
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+خواه مشارکت‌کننده‌ی یک‌باره باشید، یا سعی داشته باشید در یک انجمن عضو شوید، کار کردن با دیگران می‌تواند یکی از مهم‌ترین مهارت‌هایی باشد که در مشارکت در پروژه‌ی متن باز می‌توانید آن‌ را توسعه و بهبود دهید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  من به عنوان یک مشارکت‌کننده‌ی جدید به سرعت متوجه شدم که اگر می‌خواهم مسائل مرتبط با پروژه متن باز را برطرف کنم، باید سوال بپرسم. کد را سرسری مطالعه کردم، به خود آمدم و خواستم من را بیشتر راهنمایی کنند. در نتیجه، بعد از دریافت تمام جزئیاتی که نیاز داشتم، توانستم مسائل پروژه را برطرف کنم
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+قبل از درخواست ادغام یا باز کردن issue در بخش گزارش مسئله یا پرسیدن سوال در چت، نکته‌های زیر را در نظر داشته باشید تا به شما کمک کند تا ایده‌هایتان کارآمد و موثرتر باشد.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**ارائه‌ی زمینه:** به دیگران کمک کنید تا سرعت خود را افزایش دهند. اگر خطایی پیدا کردید و در حال برطرف کردن آن هستید، به دیگران توضیح دهید که سعی دارید چه کاری انجام می‌دهید و چگونه آن مشکل را حل می‌کنید. اگر ایده‌ی جدیدی هم پیشنهاد می‌دهید، نه تنها برای خود، بلکه برای دیگران توضیح دهید که چرا فکر می‌کنید این ایده‌ی شما می‌تواند برای پروژه مفید باشد.
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"زمانی که Y را انجام می‌دهم، X اتفاق نمی‌افتد"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X به مشکل برخورد کرده است! لطفا برطرفش کنید."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**تکالیف‌تان را از قبل انجام دهید.** اگر چیزی نمی‌دانید مشکلی نیست، اما باید نشان دهید که تلاش‌تان را می‌کنید. قبل از اینکه از دیگران کمک بخواهید، مطمئن شوید که فایل README، اسناد، مسائل حل شده یا حل نشده، لیست پست پروژه را خوانده‌اید، یا در اینترنت به دنبال جواب‌تان گشته‌اید. وقتی تلاش‌تان برای یادگیری را نشان می‌دهید، مورد توجه تحسین دیگران قرار می‌گیرید
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"مطمئن نیستم چگونه X را اجرا کنم. برای پیدا کردن جواب، فایل‌ها را بررسی کردم و هیچ جوابی نگرفتم."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"چگونه مسئله X را برطرف کنم؟"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**درخواست‌ها را مختصر و مفید مطرح کنید** هر مشارکتی مانند ارسال یک ایمیل، بدون در نظر گرفتن ساده یا مفید بودنش، به توجه‌ی دیگران نیاز دارد. معمولاً درخواست‌ها و سوالات اکثر پروژه‌ها از افرادی که می‌خواهند به آن‌ها جواب بدهند بیشتر است. بنابراین، درخواست‌ها باید مختصر باشد. با کوتاه بودن درخواست‌ها به افراد شانس بیشتری می‌دهید تا فرصت کمک کردن به شما را پیدا کنند.
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"تمایل دارم یک فایل آموزشی API بنویسم"_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+> 😢 _"زمانی که در بزرگ‌راه در حال رانندگی کردن بودم، کنار یک پمپ بنزین توقف کردم و ایده‌ی شگفت‌انگیزی به ذهنم رسید که باید آن را عملی کنیم، اما قبل از توضیح، اجازه دهید ایده‌ام را به شما نشان بدهم ..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**تمام ارتباطات و تعاملات را به صورت عمومی نگهدارید.** هرچند وسوسه‌کننده است، اما به طور خصوصی با مسئول‌نگهداری پروژه تماس نگیرید مگر اینکه لازم باشد اطلاعات حساس مانند مسائل امنیتی یا نقض رفتار جدیدی را رد و بدل کنید. زمانی که مکالمه‌ی شما عمومی شود، افراد بیشتری از تبادیل این ارتباطات یاد می‌گیرند و بهره می‌گیرند. بحث و گفتگوها می‌تواند خودبه خود کمک‌رسان باشد.
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 (در کامنت) «@-مسئول‌نگهداری: سلام! چگونه درخواست ادغام را پیش ببریم؟"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+> 😢 (در ایمیل) «سلام، ببخشید از طریق ایمیل مزاحم می‌شم، اما نمی‌دانم که می‌توانید درخواست ادغام من را بررسی کنید.»_
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**سوال کردن عیب نیست (اما صبور باشید!).** هرکسی در ابتدای کار در پروژه تازه‌وارد بوده است. حتی مشارکت‌کننده‌های باتجربه زمانی که به پروژه‌ی جدیدی مراجعه می‌کنند، باید سرعت خود را افزایش دهند. با این حساب، حتی مسئول‌نگهدارهای طولانی مدت هم همیشه با تمام بخش‌های یک پروژه آشنا نیستند. بنابراین، سعی کنید صبور باشید تا فرصت نشان دادن آن را به شما بدهند.
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"بابت بررسی کردن این خطا ممنونم. پیشنهادهای شما را دنبال می‌کنم. این خروجی کار است"_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+> 😢 _"چرا مشکل من را نمی‌توانید حل کنید؟ این پروژه مگر پروژه‌ی شما نیست؟"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**به تصمیمات انجمن احترام بگذارید.** ایده‌های شما ممکن است با اولویت‌ها و دید انجمن متفاوت باشد. آن‌ها یا می‌توانند به ایده‌های شما بازخورد بدهند یا آن را دنبال نکنند. درحالی‌که باید بحث و گفتگو کنید و به دنبال مصالحه باشید، مسئول‌نگهداری باید با تصمیمات شما بیشتر از شما زندگی کند. اگر با مسیر آن‌ها مخالف هستید، همیشه می‌توانید روی کار خود تمرکز کنید و پروژه‌ی خودتان را شروع کنید.
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"ناامید شدم که نمی‌توانید پرونده‌ی من را پشتیبانی کنید، اما همانطور که توضیح دادید این مسئله تنها روی بخشی از کاربران تاثیر می‌گذارد. متوجه هستم چرا. بابت شنیدن پیامم ممنون هستم"_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+> 😢 _"چرا مورد من را پشتیبانی نمی‌کنید؟ این کار شما غیرقابل قبول است!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**فراتر از همه اینها.** مشارکت‌کننده‌های سراسر دنیا پروژه‌های متن باز را می‌سازند. متن‌های پروژه‌ها می‌تواند با زبان‌ها، فرهنگ‌ها، جغرافیاها و مناطق زمانی زیادی باشد. مدل ارتباط نوشتاری رساندن لحن و حالت مشارکت‌کننده‌های یک پروژه را مشکل می‌کند. اما نیت خیر تمام این گفتگوها را در نظر داشته باشید. خوب است که ایده‌ی خود را مودبانه منتقل کنید، متن و محتوای بیشتری درخواست کنید، یا موقعیت‌تان را روشن‌تر کنید. فقط سعی کنید اینترنت را از زمانی که وارد شدید، را جای بهتری کرده باشید
 
 ### Gathering context
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+قبل از اینکه کاری انجام دهید، به سرعت بررسی کنید و مطمئن شوید که ایده‌ی شما در هیج جای مورد بحث قرار نگرفته باشد. فایل README، مسائل حل‌شده یا حل‌نشده، لیست پست و گفتگوهای Stack را به طور سرسری مطالعه کنید. لازم نیست ساعت‌ها صرف خواندن آن‌ها کنید، اما جستجوی سریع درباره‌ی کلمات کلیدی می‌تواند تا حد زیادی به شما کمک کند
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+اگر ایده‌ی شما در جای دیگری مطرح نشده بود، می‌توانید آن را بیان کنید. اگر پروژه در GitHub باشد، با باز کردن Issue یا درخواست ادغام Pull Request احتمالاً می‌توانید مکالمه داشته باشید:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Issues** مانند شروع یک مکالمه یا گفتگو است
+* **Pull Requests** برای کار روی راه‌حل است
+* **سایر راه های ارتباطی راه‌های ارتباطی** مانند شفاف‌سازی، نحوه‌ی پرسیدن سوال (How-to question)، پرسیدن سوال در Stack، IRC، Slack یا دیگر کانال‌های چت است، البته اگر یک پروژه چنین راه‌های ارتباطی را باز گذاشته باشد.
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+قبل از باز کردن issue یا درخواست ادغام، اسناد مشارکت پروژه را بررسی کنید که معمولاً در فایل‌هایی به نام CONTRIBUTING یا README آورده شدند تا چیزهای خاصی که دنبالش هستید را مطالعه کنید. به عنوان مثال، آن‌ها ممکن است از شما درخواست کنند الگوها را پیروی کنید یا به این نیاز داشته باشند که از این تست‌ها استفاده کنند.
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+اگر در یک پروژه مشارکت عمیق و اساسی داشته باشید، قبل از مشارکت در پروژه، یک issue باز کنید و سوال کنید. این کار مفید است و باعث می‌شود پروژه‌ی شما مدتی مشاهده شود. (در سایت GitHub می‌توانید [روی «Watch» کلیک کنید](https://help.github.com/articles/watching-repositories/) تا از تمام مکالمات مطلع شوید)، و قبل از انجام دادم کار که ممکن است پذیرفته نشود، اعضای انجمن را بشناسید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  با فعالیت در پروژه‌های GitHub و مطالعه‌ی تمام issue و درخواست‌های ادغام می‌توانید چیزهای زیادی یاد بگیرید.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
-### Opening an issue
+### باز کردن Issue یا طرح سوال و گفتگو
 
-You should usually open an issue in the following situations:
+در موقعیت‌های زیر معمولاً باید یک issue باز کنید:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* جهت گزارش خطایی که خودتان نمی‌توانید آن را حل کنید
+* درباره‌ی موضوعات یا ایده‌ی سطح بالا بحث کنید (به عنوان مثال، درباره‎ی جامعه، دیدگاه یا سیاست‌ها)
+* ویژگی جدید یا ایده‌ی جدیدی برای پروژه پیشنهاد دهید
 
-Tips for communicating on issues:
+نکاتی برای برقراری ارتباط با مشکلات issues:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+* **اگر با مسئله‌ی بازی روبه‌رو شدید که می‌خواهید آن را برطرف کنید**، کامنت کردن برای یک مسئله به افراد اجازه می‌دهد بدانند که شما این مسئله را باز کردید. به این ترتیب، افراد احتمالاً کمتر با مشکلات مشابه‌ی شما برخورد می‌کنند
+* **اگر یک issue مدتی پیش باز بوده است**، احتمال دارد جای دیگر به آن جواب داده شده باشد، یا قبلا حل شده است. بنابراین، قبل از شروع کار می‌توانید برای تایید حل شدن یا حل نشدن آن درخوست کامنت بدهید.
+* **اگر یک issue باز کردید**، اما جواب آن را بعدها متوجه شدید، روی issue کامنت بگذارید تا مردم متوجه شوند، سپس issue را ببندید. حتی با نوشتن اسناد می‌تواند سهمی در مشارکت پروژه داشته باشید.
 
-### Opening a pull request
+### ارسال Pull request (درخواست ادغام)
 
-You should usually open a pull request in the following situations:
+شما معمولاً در موقیعت‌های زیر باید درخواست ادغام باز کنید:
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* ارائه اصلاحات ناچیز (به عنوان نمونه، غلط‌های املائی، لینک‌های خراب یا خطاهای مشهود)
+* کار کردن روی مشارکتی که قبلا درخواست شده یا درباره‌ی آن بحث و گفتگو شده باشد
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+درخواست ادغام لزوماً به معنای پایان کار نیست. معمولاً بهتر است درخواست ادغام را قبلا باز کنید تا دیگران بتوانند آن را مشاهده و بازخوردهای خود را برای پیشرفت شما ارسال کنند. فقط آن را به «WIP» (کار در حال انجام) در کادر عنوان نشانه‌گذاری کنید. شما بعدها می‌توانید کامیت‌های بیشتری اضافه کنید.
 
-If the project is on GitHub, here's how to submit a pull request:
+اگر پروژه در GitHub باشد، با روش‌های زیر می‌توانید درخواست ادغام ارسال کنید:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Fork the repository](https://guides.github.com/activities/forking/)** و یک نسخه برای خودتان کپی کنید. نسخه محلی خود را به مخزن بالادستی متصل کنید. هر از چندگاهی با دستور Pull آخرین نسخه تغییرات در مخزن اصلی را دریافت کنید تا پیش از اینکه تعارضی ما بین نسخه محلی و مخزن ایجاد شد بتوانید با مشکلات احتمالی کمتری تغییرات خود را به سمت مخزن اصلی ارسال کنید. [برای کسب اطلاعات بیشتر اینجا را مرور کنید](https://help.github.com/articles/syncing-a-fork/)
+* **[ایجاد یک شاخه](https://guides.github.com/introduction/flow/)** برای اعمال ویرایش ها.
+* در حین ارسال ها **به مسائل (issue) مرتبط ارجاع دهید** یا در کامنت مربوط به تغییرات جدید به مستندات مربوطه اشاره کنید.(مثال: این تغییر مشکل مطرح شده در مسئله شماره 37 را برطرف می‌کند.)
+* اگر تغییرات شما حاوی تفاوت‌های HTML/CSS باشد، **تصاویر مربوط به قبل و بعد آن را اضافه کنید**. تصاویر را وارد بدنه‌ی درخواست ادغام کنید و رها کنید.
+* تغییرات‌تان را **تست کنید!** تغییرات خود را در برابر تست‌های موجود اجرا کنید و در صورت لزوم تغییرات جدیدی خلق کنید. اگر حتی تست‌هایی تعریف نشده بود، مطمئن شوید تغییرات‌تان پروژه‌ی موجود شما را خراب نکند.
+* با تمام توانایی‌تان ** الگوها را رعایت کرده و مطابق سبک پروژه مشارکت کنید**. این توانایی می‌تواند به معنای استفاده از تورفتگی‌ها، نقطه ویرگول (semi-colons)، یا کامنت‌های متفاوتی باشد که شما در مخزن‌تان خودتان دارید. این کار ادغام مسئول‌نگهداری را ساده می‌کند، دیگران هم متوجه آن می‌شوند و می‌توانند آن را برای زمان‌های آتی حفظ کنند.
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
+اگر این اولین درخواست ادغام شماست، فیلم آموزشی [Make a Pull Request](http://makeapullrequest.com/) که @kentcdodds آن را خلق کرده، بررسی کنید. شما همچنین می‌توانید از [Make a Pull Request](https://github.com/Roshanjossey/first-contributions) که توسط @Roshanjossey ایجاد شده به عنوان یک محزن تمرینی برای اولین تجربه خود استفاده کنید.
 
-## What happens after you submit a contribution
+## بعد از ارسال درخواست مشارکت چه اتفاقی می‌افتد
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+شما درخواست‌تان را ارسال کردید! شروع مشارکت‌تان در یک پروژه‌ی متن باز را تبریک می‌گوییم. امیدواریم این اولین قدم‌تان باشد.
 
-After you submit a contribution, one of the following will happen:
+بعد از ارسال درخواست مشارکت‌تان، یکی از اتفاقات زیر رخ می‌دهد:
 
-### 😭 You don't get a response.
+### 😭 جوابی دریافت نمی‌کنید.
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+امیدواریم قبل از ارسال درخواست مشارکت، [چک لیست فعالیت‌های پروژه](#a-checklist-before-you-contribute) را برررسی کرده باشید. هرچند، حتی در پروژه‌ی فعال هم این احتمال وجود دارد که به درخواست مشارکت شما پاسخ ندهند.
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+اگر بیش از یک هفته جوابی برایتان ارسال نشد، به طور مودبانه می‌توانید درخواست جواب دهید و از کسی بخواهید درخواست شما را بررسی کند. اگر نام کسی که می‌خواهید درخواست شما را بررسی کند می‌دانید، می توانید به اون اشاره (منشن: با گذاشتن علامت @ در ابتدای نام کاربری) کنید.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+به صورت خصوصی با آن شخص **تماس نگیرید**. به یاد داشته باشید ارتباط عمومی برای پروژه‌ها بسیار حیاتی است.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+اگر به طور مودبانه درخواست‌هایتان را فرستاده باشید اما هنوز هیچ‌کس پاسخگو نیست، احتمالاً هیچ‌کس هیچوقت پاسخ شما را نخواهد داد. می‌دانیم که حس خوبی ندارد، اما اجازه ندهید این موضوع شما را دلسرد کند چون این اتفاق ممکن است برای همه رخ دهد! 
 
-### 🚧 Someone requests changes to your contribution.
+برای برطرف کردن این مشکل دلایل زیادی وجود دارد که به شما می‌گوید چرا پاسخ درخواست‌تان داده نمی‌شود؛ دلایلی مانند شرایط شخصی که ممکن است از کنترل خارج شود. شما می‌تواند پروژه‌ی دیگر یا راهی برای مشارکت پیدا کنید. قبل از اینکه اعضای یک انجمن متهد یا پاسخگو باشند، زمان زیادی را صرف ارسال درخواست مشارکت‌تان نکنید.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+### 🚧 یک نفر برای تغییر درخواست‌تان به شما پیام می‌دهد.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
+مرسوم است کسی بخواهید درخواست مشارکت خود را تغییر دهید، این درخواست تغییر می‌تواند در بازخورد ایده‌ یا در تغییرات کد شما باشد.
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+اگر کسی درخواست تغییر برای‌تان ارسال کرد، پاسخگو باشید، چون آن‌ها برای بررسی درخواست مشارکت شما زمان گذاشتند. باز گذاشتن PR (درخواست ادغام) و نادیده گرفتن آن صورت خوبی ندارد. اگر نمی‌دانید چگونه روی درخواست‌تان آن تغییرات را اعمال کنید، مشکلات را جستجو کنید و در صورت نیاز از کسی کمک بخواهید.
 
-### 👎 Your contribution doesn't get accepted.
+اگر برای برطرف کردن مسائل پروژه دیگر زمان کافی ندارید (به عنوان نمونه، اگر مکالمه‌ی شما ماه‌ها طول کشید، و اکنون شرایط شما تغییر کند)، اجازه دهید مسئول‌نگهداری پروژه از این موضوع مطلع شود تا منتظر جواب شما نباشد. حتی کسی دیگری ممکن است جای شما را بگیرد.
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
+### 👎 درخواست مشارکت‌تان پذیرفته نشد
 
-Hooray! You've successfully made an open source contribution!
+در پایان، درخواست مشارکت‌تان ممکن است پذیرفته شود یا نشود. هرچند، در صورت پذیرفته نشدن درخواست‌تان امیدواریم زمان زیادی روی آن صرف نکرده باشید. اگر مطمئن نیستید که چرا درخواست‌تان پذیرفته نشده، کاملاً معقولانه است که برای درخواست بازخورد و شفاف‌سازی از مسئول‌نگهداری جواب بخواهید. در نهایت، با احترام به تصمیم آن‌ها نباید خشمگین و عصبانی شوید. همیشه می‌توانید پروژه‌ی دیگری انتخاب کنید و اگر هم نمی‌خواهید در پروژه‌ای مشرکت کنید، می‌توانید پروژه‌ی خودتان را داشته باشید!
 
-## You did it!
+### 🎉 درخواست مشارکت شما پذیرفته شد.
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+هوررا! درخواست مشارکت شما برای پروژه‌ی متن باز موفقیت‌آمیز بوده است
+
+## انجامش دادی!
+
+خواه دنبال ارسال درخواست مشارکت خود برای اولین پروژه‌تان باشد، یا دنبال راه یک جدید برای مشارکت در یک پروژه‌ی متن باز باشید، امیدواریم انگیزه این کار را داشته باشید. حتی اگر درخواست‌تان هم پذیرفته نشد، فراموش نکنید از تلاش مسئول‌نگهداری پروژه تشکر کنید که تمام تلاش خود را برای کمک به شما گذاشت. پروژه‌های متن باز، مسائل، درخواست ادغام، کامنت توسط افرادی مانند شما تولید می‌شود.
