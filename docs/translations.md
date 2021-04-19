@@ -17,7 +17,7 @@ If there's not, then today is your day to lead this effort! Here's how to start:
 1. Run `script/test` and make sure there are no failures with your translation files. Note that you may need to fix broken links.
 1. Send a pull request. (You may send a pull request before all steps above are complete: e.g., you may want to ask for help with translations, or getting tests to pass. However your pull request will not be merged until all steps above are complete.)
 
-Completing an initial translation of the whole site is a fairly large task. One way to break that task up is to work with other translators through pull requests on your fork. Example: [pull requests on fork for German translation](https://github.com/katrinleinweber/opensource.guide/pulls?q=is%3Apr+is%3Aclosed) and corresponding [initial pull request for German translation](https://github.com/github/opensource.guide/pull/577) on this repository. You can also [add collaborators to your fork](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) if you'd like to inivte other translators to commit directly to your fork and share responsibility for merging pull requests.
+Completing an initial translation of the whole site is a fairly large task. One way to break that task up is to work with other translators through pull requests on your fork. Example: [pull requests on fork for German translation](https://github.com/katrinleinweber/opensource.guide/pulls?q=is%3Apr+is%3Aclosed) and corresponding [initial pull request for German translation](https://github.com/github/opensource.guide/pull/577) on this repository. You can also [add collaborators to your fork](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) if you'd like to invite other translators to commit directly to your fork and share responsibility for merging pull requests.
 
 ## Updating a translation
 
@@ -31,8 +31,8 @@ When tests find broken links, try to fix them across all translations. Ideally, 
 
 ### Article updates
 
-We're collecting [tips](https://github.com/github/opensource.guide/issues/1119) on how to check if a translation should be updated to account for improvements made to the English source articles.
+Add the updated text in English to all translations to implicitly solicit pull requests to translate these strings.
 
 ### New articles
 
-New articles are rare! When we have one, we'll probably do [some form](https://github.com/github/opensource.guide/issues/1120) of a call for translations.
+We do not plan on ever adding any new articles.
