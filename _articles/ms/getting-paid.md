@@ -140,7 +140,7 @@ Bergantung pada projek anda, anda mungkin dapat mengenakan bayaran untuk sokonga
 * **[Travis CI](https://github.com/travis-ci)** menawarkan versi berbayar produknya
 * **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
 
-Beberapa projek popular, seperti [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker),malah mengumpulkan modal teroka untuk menyokong pertumbuhan perniagaan mereka.
+Beberapa projek popular, seperti [npm](https://github.com/npm/cli) and [Docker](https://github.com/docker/docker),malah mengumpulkan modal teroka untuk menyokong pertumbuhan perniagaan mereka.
 
 ### Memohon pembiayaan geran
 

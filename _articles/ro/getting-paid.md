@@ -184,7 +184,7 @@ Depinzând de proiectul tău, ai putea să taxezi sprijin comercial, opțiuni de
 * **[Travis CI](https://github.com/travis-ci)** oferă versiuni plătite ale produsului său
 * **[Ghost](https://github.com/TryGhost/Ghost)** este un nonprofit cu un serviciu gestionat plătit
 
-Unele proiecte populare, cum ar fi [npm](https://github.com/npm/npm) și [Docker](https://github.com/docker/docker), chiar strâng capital de risc pentru a susține creșterea afacerii lor.
+Unele proiecte populare, cum ar fi [npm](https://github.com/npm/cli) și [Docker](https://github.com/docker/docker), chiar strâng capital de risc pentru a susține creșterea afacerii lor.
 
 ### Aplicați pentru finanțare nerambursabilă
 
