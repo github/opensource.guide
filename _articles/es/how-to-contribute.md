@@ -168,9 +168,9 @@ Un proyecto de c&oacute;digo abierto tiene los siguientes tipos de personas:
 
 * **Autor:** La/s persona/s u organizaci&oacute;n que cre&oacute;/crearon el proyecto.
 * **Dueño:** La/s persona/s que tiene/n la propiedad administrativa sobre la organizaci&oacute;n o el repositorio(no siempre es la misma que el autor original)
-* **Encargados:** Colaboradores que son responsables de dirigir la visi&oacute;n y la administrar aspectos organizacionales del proyecto. (Pueden tambi&eacute;n ser autores o dueños del proyecto.)
+* **Encargados:** Colaboradores que son responsables de dirigir la visi&oacute;n y de administrar aspectos organizacionales del proyecto. (Pueden tambi&eacute;n ser autores o dueños del proyecto.)
 * **Colaboradores:** Cualquiera que haya contribuido con algo al proyecto.
-* **Miembros de la comunidad:** Las personas que utilizan al proyecto. Pueden tener un rol activo en las conversaciones o expresar su opini&oacute;n sobre la direcci&oacute;n que toma el proyecto.
+* **Miembros de la comunidad:** Las personas que utilizan el proyecto. Pueden tener un rol activo en las conversaciones o expresar su opini&oacute;n sobre la direcci&oacute;n que toma el proyecto.
 
 Los proyectos m&aacute;s grandes pueden tener tambi&eacute;n subcomisiones o grupos de trabajo enfocados en tareas diferentes, como herramientas, priorizaci&oacute;n de urgencias, moderaci&oacute;n de la comunidad, y organizaci&oacute;n de eventos. Busca en el sitio web del proyecto una p&aacute;gina del "equipo", o en su repositorio para encontrar la documentaci&oacute;n pol&iacute;tica de gobierno, para encontrar esta documentaci&oacute;n.
 
@@ -178,7 +178,7 @@ Un proyecto tambi&eacute;n tiene documentaci&oacute;n. Estos archivos est&aacute
 
 * **LICENSE:** Por definici&oacute;n, cada proyecto de c&oacute;digo abierto debe tener una [licencia open source](https://choosealicense.com). Si el proyecto no tiene una licencia, entonces no es de c&oacute;digo abierto.
 * **README:** El archivo README es un manual de instrucci&oacute;n que da la bienvenida al proyecto a los nuevos miembros de la comunidad. Explica por qu&eacute; el proyecto es &uacute;til y c&oacute;mo comenzar.
-* **CONTRIBUTING:** Mientras que el archivo READMES ayuda a las personas a _usar_ el proyecto, el archivo CONTRIBUTING ayuda a las personas a _contribuir_ con el proyecto. Explica qu&eacute; tipo de contribuciones son necesarias y c&oacute;mo llevar adelante el trabajo. Si bien no todos los proyectos tienen un archivo CONTRIBUTING, su presencia señala que se trata de un buen proyecto para contribuir.
+* **CONTRIBUTING:** Mientras que el archivo README ayuda a las personas a _usar_ el proyecto, el archivo CONTRIBUTING ayuda a las personas a _contribuir_ con el proyecto. Explica qu&eacute; tipo de contribuciones son necesarias y c&oacute;mo llevar adelante el trabajo. Si bien no todos los proyectos tienen un archivo CONTRIBUTING, su presencia señala que se trata de un buen proyecto para contribuir.
 * **CODE_OF_CONDUCT:** Sienta s&oacute;lidas reglas sobre la conducta de los participantes asociados y ayuda a facilitar un entorno acogedor y amistoso. Si bien no todos los proyectos tienen un archivo CODE_OF_CONDUCT, su presencia señala que se trata de un buen proyecto para contribuir.
 * **Otra documentaci&oacute;n:** Puede haber documentaci&oacute;n adicional, como tutoriales, recorridos o pol&iacute;ticas de gobierno, especialmente en proyectos de mayor envergadura.
 
@@ -186,7 +186,7 @@ Finalmente, los proyectos de c&oacute;digo abierto utilizan las siguientes herra
 
 * **Seguidor de problemas (Issue tracker):** Es donde las personas discuten los problemas relacionados con el proyecto.
 * **Pull requests:** Es donde las personas discuten y revisan los cambios que est&aacute;n en progreso.
-* **Foros de discusi&oacute;n o lista de correos electr&oacute;nicos:** Algunos proyectos pueden utilizar estos canales de conversación para t&oacute;picos de conversaci&oacute;n (por ejemplo _"C&oacute;mo hago para..._ o _"Qu&eacute; piensas sobre..."_ en luga de reportes de errores o pedido de requerimientos). Otros utilizan un rastreador de problemas para todas las conversaciones.
+* **Foros de discusi&oacute;n o lista de correos electr&oacute;nicos:** Algunos proyectos pueden utilizar estos canales de conversación para t&oacute;picos de conversaci&oacute;n (por ejemplo _"C&oacute;mo hago para..._ o _"Qu&eacute; piensas sobre..."_ en lugar de reportes de errores o pedido de requerimientos). Otros utilizan un rastreador de problemas para todas las conversaciones.
 * **Canal de chat s&iacute;ncrono:** Algunos proyectos utilizan canales de chat (como Slack o IRC) para conversaciones casuales, colaboraci&oacute;n e intercambios r&aacute;pidos.
 
 ## Encontrando un proyecto donde contribuir
