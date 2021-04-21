@@ -1,8 +1,7 @@
 ---
-lang: en
-title: Starting an Open Source Project
+title: learning an Open Source Project
 description: Learn more about the world of open source and get ready to launch your own project.
-class: beginners
+class: noobs
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"
   should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
