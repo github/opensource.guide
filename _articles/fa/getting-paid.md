@@ -1,13 +1,8 @@
 ---
-lang: en
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+lang: fa
+title: گرفتن دستمزد برای کارهای متن باز
+description: با دریافت پشتیبانی‌های مالی در ازای زمانی که می‌گذارید یا به خاطر پروژه‌ای که پیش می‌برید، کار متن باز خود را حمایت کنید.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -15,178 +10,179 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## چرا برخی افراد به دنبال پشتیبانی‌های‌ مالی هستند
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+بیشتر کارهای متن باز داوطلبانه است. به عنوان مثال، کسی ممکن است در پروژه‌ای که از آن استفاده می‌کند با ایرادی (باگ) روبرو شود و راه‌حلی آسان برای ایراد ارائه کند، یا ممکن است کسی در اوقات فراغت خود از دستکاری در پروژه‌ی متن باز لذت ببرد.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+	من به دنبال یک پروژه‌ی برنامه نویسی به دید «سرگرمی» بودم که بتواند مرا در طول هفته در ایام کریسمس به خود مشغول کند. (…) و فقط یک کامپیوتر در دست و بالم بود. تصمیم گرفتم برای «زبان اسکریپتی» جدیدی که اخیراً به آن فکر می‌کردم، مفسر بنویسم. پایتون را به عنوان اسم موقت انتخاب کردم
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+دلایل زیادی برای مایل نبودن شخص برای دریافت دستمزد در ازای کار متن باز خود، وجود دارد.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* ممکن است از قبل، **کار تمام وقت مورد علاقه‌ی خود را داشته باشند** که به آن‌ها این امکان را می‌دهد تا در اوقات فراغت خود در کارهای متن باز مشارکت داشته باشند.
+* آن‌ها از تصور کردن کارهای متن باز **به عنوان یک سرگرمی یا فرآیندی خلاقانه لذت می‌برند** و نمی‌خواهند از نظر مالی ملزم به کار در پروژه‌های خود باشند.
+* آن‌ها از طریق مشارکت در کارهای متن باز **از مزایای دیگری برخوردار می‌شوند**، همچون ایجاد نمونه‌کار یا شهرت و اعتباری برای خود، یادگیری مهارت جدید یا احساس نزدیک‌تر بودن و صمیمیت بیشتر با اجتماع.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  کمک‌های مالی باعث ایجاد احساس مسئولیت برای برخی می‌شود. (…)برای ما مهم است که در جهان شتابان و و بهم پیوسته‌ای که در آن زندگی می‌کنیم، بتوانیم بگوییم «نه، الان حس و حال انجام کار دیگه‌ای را دارم».
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+برای دیگران، به ویژه هنگامی که مشارکت‌ها باید ادامه بیابد و یا به زمان قابل توجهی نیاز داشته باشد؛ اگر پروژه به آن‌ها نیاز داشته باشد یا به دلایل شخصی باید به کار ادامه دهند، پرداخت دستمزد برای مشارکت در کار متن باز، تنها راه برای مشارکت است.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+حفظ پروژه‌های پرطرفدار، می‌تواند مسئولیت سنگینی را بر روی دوش افراد بگذارد، می‌تواند بجای چند ساعت در ماه 10 یا 20 ساعت در هفته را به خود اختصاص دهد.
+
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  از هر نگهدارنده‌ی پروژه‌ی متن بازی که خواستید بپرسید، و آن‌ها در مورد واقعیت میزان کاری که برای مدیریت یک پروژه انجام می‌دهند، به شما می‌گویند. شما موکل‌هایی خواهید داشت. مسائلی را برای آن‌ها حل و فصل می‌کنید. ویژگی‌های جدیدی را خلق می‌کنید. و این‌ها، زمانی زیادی را از شما می‌طلبند.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+همچنین کارهای با دستمزد، این امکان برای افراد از اقشار مختلف جامعه را فراهم می‌آورد تا مشارکت‌های قابل‌توجه و معناداری انجام دهند. برخی از افراد، به سبب وضعیت مالی کنونی‌شان، بدهی یا خانواده یا سایر تعهدات، امکان مشارکت بدون دستمزد در پروژه‌های متن باز را ندارند. این بدان معناست که جهان هرگز مشارکت افراد مستعدی را که توانایی مالی برای مشارکت داوطلبانه را ندارند، نمی‌بیند.  همانطور که @ashedryden [گفته است](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)، پیامدهایی اخلاقی در این میان وجود دارد، زیرا کسانی که از قبل در زندگی دارای مزایایی هستند، شانس بیشتری در کارهایی که انجام می‌شود دارند، درنتیجه بر اساس مشارکت‌های داوطلبانه‌ی خود مزایای بیشتری کسب می‌کنند، در حالی که سایر افرادی که قادر به داوطلب شدن نیستند، فرصت‌های آتی را از دست می‌دهند، که این عدم تنوع را در اجتماع کنونی (community) متن باز گسترش می‌دهد.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   «OSS»، مزایای زیادی برای صنعت فناوری به همراه دارد که به نوبه‌ی خود به معنای مزایایی برای کلیه‌ی صنایع است. (…)با این حال، اگر تنها افراد خوش‌شانس (کسانی که قادر به مشارکت داوطلبانه هستند) و به شدت علاقه‌مند هستند که می‌توانند در پروژه‌های متن باز تمرکز کنند، ظرفیتی فوق‌العاده از استعدادهای استفاده نشده وجود خواهد داشت.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+اگر به دنبال حمایت‌های مالی هستید، دو راه وجود دارد. می‌توانید زمان مناسب را برای مشارکت پیدا کنید، یا می‌توانید بودجه‌ای برای پروژه‌ی خودتان پیدا کنید.
 
-## Funding your own time
+## وقت خود را سرمایه‌گذاری کنید
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+امروزه بسیاری از افراد برای کار به صورت پاره وقت یا تمام وقت در پروژه‌های متن باز دستمزد دریافت می‌کنند. متداول‌ترین راه برای دریافت دستمزد برای وقتی که صرف می‌کنید، صحبت کردن با کارفرمای خودتان است.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+متقاعد کردن کارفرما در پروژه‌ای که واقعا از آن استفاده ‌می‌کند آسان‌تر است، اما در مورد صحبتی که با او خواهید کرد، رویه‌ای خلاقانه در نظر بگیرید. شاید کارفرمای شما از این پروژه استفاده نکند، اما آن‌ها از پایتون استفاده می‌کنند و نگهداری از  پروژه‌ی پایتون محبوب به جذب توسعه‌دهندگان جدید پایتون کمک می‌کند. شاید این امر باعث شود که کارفرمای شما به طور کلی در در ارتباط با توسعه‌دهندگان سازنده‌تر و دوستانه‌تر به نظر برسد.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  مانند بسیاری پروژه‌های متن باز، با سنگینی مسئولیت نگهداری پروژه دست و پنجه نرم می‌کردم. هنگامی که من برای اولین بار شروع به انجام پروژه‌های متن باز کردم، تا در وقت سر کار می‌ماندم تا روی آن کار کنم یا درست وقتی که به خانه می‌رسیدم، کار روی آن را ادامه می‌دادم. (...) من این امکان را داشتم مسائلی را که با آن روبرو می‌شدم را با رئیس خودم در میان بگذارم و به ایده‌هایی درباره‌ی چگونگی ادغام کردن وظایف پروژه‌های متن باز با شلوغی کار خودمان دست یابیم.
   <p markdown="1" class="pquote-credit">
 — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+اگر در حال حاضر پروژه‌ای متن باز ندارید که بخواهید روی آن کار کنید، اما ترجیح می‌دهید که خروجی کار فعلی شما متن باز باشد، از کارفرمای خود درخواست کنید که برخی از نرم‌افزارهای داخلی خود را متن باز کند.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+بسیاری از شرکت‌ها برنامه‌هایی متن باز توسعه می‌دهند تا اعتباری برای نام برند خود ایجاد کنند و افرادی با استعداد استخدام کنند.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+به عنوان مثال، @hueniverse دریافت که دلایلی تجاری برای توجیه [سرمایه‌گذاری والمارت (Walmart)] (https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html)در متن باز وجود دارد. و jamesgpearce@، دریافت که برنامه‌ی متن باز فیس‌بوک، [تفاوت‌هایی را در استخدام ایجاد کرده است](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon)
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> کاملا با فرهنگ خلاقیت‌جویانه‌ی ما و آنچه که سازمان ما با آن شناخته می‌شود، سازگار و همسو است. ما از کارمندان خود پرسیدیم، «آیا از برنامه‌ی نرم‌افزاری متن باز فیس‌بوک آگاهی داشتید؟» دو سوم آن‌ها گفتند «بله» یک دوم آن‌ها گفتند که این برنامه به تصمیم‌شان برای کار کردن در فیس‌بوک تاثیر داشت. اینها اعداد کمی نیستند و امیدواریم که این روند ادامه داشته باشد.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+اگر شرکت شما این مسیر را طی می‌کند، مهم است که مرزهای بین اجتماع و فعالیت‌های شرکتی را روشن کنید. در آخر، پروژه‌های متن باز از طریق مشارکت‌های مردم در سرتاسر جهان از خود نگهداری می‌کند؛ این پروژه‌ها بزرگ‌تر از هر شرکت یا فضایی هستند.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  دریافت دستمزد برای کار در پروژه‌های متن باز فرصتی نادر و شگفت‌انگیز است، اما نباید اشتیاق خود در راه را از دست بدهید. اشتیاق شما باید چیزی باشد که شرکت به دنبال آن است.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+اگر نمی‌توانید کارفرمای کنونی خودتان را متقاعد به اولویت‌بندی کارهای متن باز بکنید، سعی کنید کارفرماهای جدیدی پیدا کنید که کارمندان را تشویق به مشارکت در متن باز می‌کنند. به دنبال شرکت‌هایی بگردید که تعهد صریحی برای کار با پروژه‌های متن باز داشته باشند. به عنوان مثال:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Zalando](https://opensource.zalando.com) published its [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) for employees
+* برخی شرکت‌ها مانند [Netflix](https://netflix.github.io/) یا [PayPal](https://paypal.github.io/)، وب‌سایت‌هایی دارند که مشارکت آن‌ها در متن باز را برجسته و نمایان می‌کند
+* 	شرکت [Zalando](https://opensource.zalando.com)، «سیاست‌های مشارکت متن باز» خود برای کارمندان را منتشر کرد
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+پروژه‌هایی که از شرکت‌های بزرگی مانند [Go](https://github.com/golang) یا [React](https://github.com/facebook/react) سرچشمه گرفته‌اند و به آن وصل‌اند نیز احتمالاً افرادی را برای کار با متن باز استخدام خواهند کرد
 
-Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+بسته به شرایط شخصی خودتان، می‌توانید به طور مستقل برای تأمین هزینه‌های کار متن باز خود، پول جمع کنید. به عنوان مثال:
 
-* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with.
+* نرم‌افزار متن باز @Homebrew ([و بسیاری از نگهدارندگان و سازمان‌ها](https://github.com/sponsors/community))، کار خودشان را از طریق حامیان مالی [GitHub](https://github.com/sponsors) تأمین می‌کنند
+* @gaearon کار خود در [Redux](https://github.com/reactjs/redux) را از طریق کمپین سرمایه‌گذاری جمعی «Patreon» تأمین مالی کرد
+* @andrewgodwin از [طریق کمپین Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) کارش در مورد مایگریشن‌های دیتابیس «Django» را تأمین مالی کرد. (Schema Migration)
 
-* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their JavaScript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+در آخر اینکه گاهی اوقات پروژه‌های متن باز درمورد موضوعاتی که ممکن است در آن بخواهید کمک کنید پاداش‌هایی قرار می‌دهند.
 
-## Finding funding for your project
+* @ConnorChristie توانست بابت [کمک](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) به @MARKETProtocol در «JavaScript library» (کتابخانه‌ی جاوا اسکریپت) از طریق پاداشی‌ تعیین شده در [gitcoin](https://gitcoin.co/)، دستمزد بگیرد
+* @mamiM پس از تأمین اعتبار مربوط به مشکلِ شبکه‌ی Bounties، ترجمه‌ی ژاپنی برای @MetaMask انجام داد.
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+## یافتن بودجه برای پروژه‌
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+علاوه‌ بر توافق‌های اولیه با مشارکت‌کنندگان، گاهی اوقات پروژه‌ها از شرکت‌ها، افراد حقیقی یا دیگران برای تأمین بودجه‌ی کارهای جاری پول جمع‌آوری می‌کنند.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+بودجه‌های سازمانی ممکن است به پرداخت دستمزد مشارکت‌کنندگان، تأمین هزینه‌های اجرای پروژه (مانند هزینه‌های میزبانی) یا سرمایه‌گذاری بر روی ویژگی‌ها یا ایده‌های جدید اختصاص یابد.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+با افزایش محبوبیت ‌متن باز، هنوز هم یافتن بودجه برای پروژه‌ها به صورت تجربی و آزمایشی است، اما چندین گزینه‌ی متداول در دسترس است.
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+### جمع‌آوری سرمایه از طریق کمپین‌های سرمایه‌گذاری جمعی یا حمایت‌های مالی
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+اگر از قبل مخاطب یا اعتبار بالایی داشته باشید یا پروژه‌ی شما از محبوبیت بالایی برخوردار باشد، یافتن حمایت‌های مالی امکان‌پذیر است. چند نمونه از پروژه‌های حمایت شده:
 
-### Create a revenue stream
+* پروژه‌ی **[webpack](https://github.com/webpack)** از طریق [OpenCollective](https://opencollective.com/webpack) از شرکت‌ها و اشخاص پول جمع‌آوری می‌کند
+* بودجه‌ی **[Vue](https://github.com/vuejs/vue)** از طریق [Patreon](https://github.com/open-source/stories/yyx990803) تأمین می‌شود
+* **[Ruby Together](https://rubytogether.org/)،** یک سازمان غیر‌انتفاعی است که هزینه‌های کار در [bundler](https://github.com/bundler/bundler)،  [RubyGems](https://github.com/rubygems/rubygems) و سایر پروژه‌های بر پایه‌ی زیرساختی «Ruby» را پرداخت می‌کند
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+### ایجاد یک منبع درآمدی
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+بسته به پروژه‌ی خود، ممکن است بتوانید از طریق تبلیغات، گزینه‌های میزبانی شده یا ویژگی‌های اضافی کسب درآمد داشته باشید. چندین مثال در این زمینه:
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+* **[Sidekiq](https://github.com/mperham/sidekiq)**، نسخه‌هایی پولی به منظور پشتیبانی بیشتر ارائه می‌دهد
+* **[Travis CI](https://github.com/travis-ci)**، نسخه‌های پولی محصولات خود را ارائه می‌دهد
+* **[Ghost](https://github.com/TryGhost/Ghost)**، یک سازمان غیرانتفاعی است که خدمات مدیریتی پولی ارائه می‌دهد
 
-### Apply for grant funding
+بعضی از پروژه‌های محبوب مانند [npm](https://github.com/npm/npm) و [Docker](https://github.com/docker/docker)، برای حمایت از رشد کسب و کار خود، حتی سرمایه‌های مخاطره‌آمیزی را جمع‌آوری می‌کنند
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+### برای بودجه، درخواست کمک هزینه (بورسیه) دهید
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+برخی از موسسات و شرکت‌های نرم‌افزاری، کمک‌هزینه‌های مالی برای کارهای متن باز ارائه می‌دهند. گاهی اوقات، بدون ایجاد نهاد قانونی‌ای برای پروژه، کمک‌هزینه‌های مالی به افراد حقیقی پرداخت می‌شود.
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+* **نرم‌افزار [Read the Docs](https://github.com/rtfd/readthedocs.org)**، از پشتیبانی بخش متن باز [Mozilla](https://www.mozilla.org/en-US/grants/)، کمک‌هزینه دریافت کرد
+* **بودجه‌ی کار [OpenMRS](https://github.com/openmrs)** توسط [Stripe’s Open Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees) تأمین شد
+* **[Libraries.io](https://github.com/librariesio)** از موسسه‌ی [Sloan](https://sloan.org/programs/digital-technology) کمک‌هزینه‌ دریافت کرد
+* **موسسه‌ی نرم‌افزار پایتون (Python Software Foundation)**، کمک‌های مالی برای کارهای مرتبط با پایتون ارائه می‌دهد
 
-## Building a case for financial support
+برای جزئیات دقیق‌تر و مطالعات موردی، @nayafia راهنمای دریافت دستمزد برای کارهای متن باز را [نوشت](https://github.com/nayafia/lemonade-stand). انواع بودجه‌ها به مهارت‌های مختلفی نیاز دارد، بنابراین نقاط قوت خود را در نظر بگیرید تا  گزینه‌ی مناسب برای کار خودتان را دریابید.
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+## ایجاد پرونده‌ی موردی (فایل) به منظور دریافت حمایت مالی
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+این که آیا پروژه‌ی شما ایده‌ی جدیدی است یا سال‌هاست که وجود دارد؛ باید برای شناسایی و مشخص کردن سرمایه‌گذار هدف و ایجاد یک پرونده‌‌ی اغواکننده، باید به خوبی راجع به آن فکر کنید.
 
-### Impact
+چه بخواهید هزینه‌ی زمانی که صرف می‌کنید را خودتان پرداخت کنید و یا موسسه‌ای هزینه‌ی پروژه‌ی شما را پرداخت کند، باید بتوانید به سوالات زیر پاسخ دهید.
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+### تاثیرگذاری
 
-### Traction
+این پروژه به چه دردی می‌خورد؟ برای چه کاربران شما، یا کاربران بالقوه‌ی شما، پروژه‌ را دوست داشته باشند؟ پروژه‌ی خود را در پنج سال آینده چطور می‌بینید؟
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+### مقبولیت
 
-### Value to funder
+سعی کنید شواهدی را در مورد اهمیت پروژه‌ی خود جمع‌آوری کنید؛ چه بخواهد معیارهای سنجش، تجربه‌های گذشته، یا اظهارنظرهای مثبتی باشد. آیا شرکت‌ها یا افراد قابل ذکری وجود دارند که از پروژه‌ی شما استفاده بکنند؟ اگر نه، آیا شخص برجسته‌ای پروژه‌ی شما را تأیید کرده است؟
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+### ارزش آن برای سرمایه‌گذار
 
-### Use of funds
+سرمایه‌گذاران، چه کارفرمای شما باشد و یا چه یک موسسه‌ی اعطای کمک‌هزینه، اکثرا جذب فرصت‌ها می‌شوند. چرا آن‌ها باید از پروژه‌ی شما در برابر سایر فرصت‌ها حمایت کنند؟ از پروژه‌ی شما چه منفعت شخصی‌ای می‌برند؟
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+### مصارف بودجه
 
-### How you'll receive the funds
+با بودجه پیشنهادی، دقیقاً به چه نتیجه‌ای دست خواهید یافت؟ به جای فکر کردن به پرداخت حقوق و دستمزد، روی نقاط عطف یا نتایج پروژه متمرکز شوید.
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+### چگونه بودجه را دریافت خواهید کرد
+
+آیا سرمایه‌گذار، الزاماتی در مورد پرداخت هزینه مدنظر دارد؟ به عنوان مثال، ممکن است لازم باشد شما سازمانی غیرانتفاعی باشید یا یک حامی مالی غیرانتفاعی داشته باشید. یا شاید بودجه باید به جای سازمان به یک پیمانکار حقیقی داده شود. هر شخص سرمایه‌گذاری الزامات متفاوتی دارد، بنابراین حتماً از قبل تحقیقات خود را انجام دهید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  سال‌هاست که ما با داشتن بیش از 20 میلیون نفر در اجتماع‌مان، وب‌سایت برتر در زمینه‌ی نماد‌ها (آیکون) در بیش از 70 میلیون وب‌سایت، از جمله «Whitehouse.gov»، مشخص شده‌ایم. (…)نسخه‌ی 4، سه سال پیش بود. فناوری وب از آن زمان با تغییرات زیادی همراه بوده است و صادقانه بگویم، «Font Awesome»، کمی قدیمی شده است. (…)به همین دلیل است که ما «Font Awesome 5» را معرفی می‌کنیم. ما در حال مدرن‌سازی و بازنویسی «CSS» و طراحی مجدد همه‌ی نمادها هستیم. داریم درباره‌ی طراحی بهتر، سازگاری بهتر و خوانایی بهتر صحبت میکنیم.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## آزمایش و تجربه کنید و تسلیم نشوید
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+جمع‌آوری پول آسان نیست، چه پروژه‌ای متن باز باشید، چه یک سازمان غیرانتفاعی و یا یک استارت‌آپ نرم‌افزاری؛ باید در بیشتر موارد با دیدی خلاقانه به موضوع نگاه کنید. با مشخص کردن اینکه چگونه می‌خواهید دستمزد بگیرید، با تحقیقات خود و قرار دادن خود به جای سرمایه‌گذار، به شما کمک می‌کند تا پرونده‌ای قانع‌کننده برای تأمین بودجه بسازید.
