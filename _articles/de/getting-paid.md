@@ -157,7 +157,7 @@ Abhängig von Ihrem Projekt können Sie kommerziellen Support, gehostete Optione
 * **[Travis CI](https://github.com/travis-ci)** bietet Bezahlversionen ihres Dienstes
 * **[Ghost](https://github.com/TryGhost/Ghost)** ist ein Non-Profit mit Bezahldiensten
 
-Einige populäre Projekte, wie z.B. [npm](https://github.com/npm/npm) und [Docker](https://github.com/docker/docker), sammeln sogar Wagniskapital ein, um ihr Wachstum zu unterstützen.
+Einige populäre Projekte, wie z.B. [npm](https://github.com/npm/cli) und [Docker](https://github.com/docker/docker), sammeln sogar Wagniskapital ein, um ihr Wachstum zu unterstützen.
 
 ### Fördermittel beantragen
 

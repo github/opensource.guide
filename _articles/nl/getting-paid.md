@@ -158,7 +158,7 @@ Afhankelijk van uw project kunt u mogelijk kosten in rekening brengen voor comme
 * **[Travis CI](https://github.com/travis-ci)** biedt betaalde versies van zijn product
 * **[Ghost](https://github.com/TryGhost/Ghost)** is een non-profitorganisatie met een betaalde beheerde service
 
-Sommige populaire projecten, zoals [npm](https://github.com/npm/npm) en [Docker](https://github.com/docker/docker), halen zelfs risicokapitaal op om de groei van hun bedrijf te ondersteunen.
+Sommige populaire projecten, zoals [npm](https://github.com/npm/cli) en [Docker](https://github.com/docker/docker), halen zelfs risicokapitaal op om de groei van hun bedrijf te ondersteunen.
 
 ### Subsidie ​​aanvragen
 
