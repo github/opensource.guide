@@ -130,7 +130,7 @@ En fonction de votre projet, vous pouvez facturer un support commercial, des opt
 * **[Travis CI](https://github.com/travis-ci)** offre des versions payantes de son produit
 * **[Ghost](https://github.com/TryGhost/Ghost)** est un organisme à but non lucratif avec un service géré payant
 
-Certains projets populaires, tels que [npm](https://github.com/npm/npm) et [Docker](https://github.com/docker/docker), permettent même de lever du capital-risque pour soutenir la croissance de leur entreprise.
+Certains projets populaires, tels que [npm](https://github.com/npm/cli) et [Docker](https://github.com/docker/docker), permettent même de lever du capital-risque pour soutenir la croissance de leur entreprise.
 
 ### Demande de financement
 

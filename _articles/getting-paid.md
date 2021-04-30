@@ -140,7 +140,7 @@ Depending on your project, you may be able to charge for commercial support, hos
 * **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
 * **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+Some popular projects, like [npm](https://github.com/npm/cli) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
 
 ### Apply for grant funding
 
