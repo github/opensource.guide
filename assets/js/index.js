@@ -3,6 +3,7 @@
 
 {% include_relative jquery.min.js %}
 {% include_relative anchor.min.js %}
+{% include_relative ga.js %}
 {% include_relative toc.js %}
 {% include_relative locale.js %}
 
