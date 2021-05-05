@@ -147,7 +147,7 @@ W zależności od projektu możesz być w stanie pobierać opłaty za wsparcie k
 * **[Travis CI](https://github.com/travis-ci)** oferuje płatne wersje swojego produktu
 * **[Ghost](https://github.com/TryGhost/Ghost)** jest organizacją non-profit z płatną usługą zarządzaną
 
-Niektóre popularne projekty, takie jak [npm](https://github.com/npm/npm) oraz [Docker](https://github.com/docker/docker), nawet pozyskały kapitał wysokiego ryzyka w celu wsparcia rozwoju ich działalności.
+Niektóre popularne projekty, takie jak [npm](https://github.com/npm/cli) oraz [Docker](https://github.com/docker/docker), nawet pozyskały kapitał wysokiego ryzyka w celu wsparcia rozwoju ich działalności.
 
 ### Złóż wniosek o dofinansowanie
 
