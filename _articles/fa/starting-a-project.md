@@ -1,14 +1,8 @@
 ---
-lang: en
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+lang: fa
+title: شروع یک پروژه‌ی متن باز / منبع باز / اوپن سورس
+description: در این مقاله چیزهای زیادی درباره‌ی دنیای متن بازها می‌آموزید و آماده‌ی انتشار پروژه‌ی متن باز خودتان می‌شوید.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,296 +10,300 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## چیستی و چرایی متن باز
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+اگر در حال فکر کردن این هستید که پروژه‌ی متن باز خودتان را شروع کنید؟ به شما تبریک می‌گوییم! دنیا قدردان کمک و مشارکت شماست. اجازه دهید در ادامه درباره پروژه‌های متن باز بیشتر صحبت کنیم و ببینیم چرا مردم پروژه‌هایشان را متن باز می‌کنند.
 
-### What does "open source" mean?
+### متن باز به چه معناست؟
 
-When a project is open source, that means **anybody is free to use, study, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+زمانی که یک پروژه متن باز یا اوپن سورس باشد، **هر کسی می‌تواند و اجازه دارد به صورت رایگان آن را استفاده، مطالعه، ویرایش و برای هر هدفی که می‌خواهد، توزیع کند**. این اجازه‌ها در [لایسنس متن باز](https://opensource.org/licenses) قید شده و قابل اجراست
 
-Open source is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. Also because it gives users a potential to control their own computing, relative to closed source. For example, a business using open source software has the option to hire someone to make custom improvements to the software, rather than relying exclusively on a closed source vendor's product decisions.
+پروژه‌های متن باز قدرتمند هستند، چون موانعی که در اختیارات و مشارکت‌ها دیده می‌شود را کاهش و به افراد اجازه می‌دهد پروژه‌های خود را به سرعت گستردش و بهبود دهند. یکی دیگر از دلایل قدرتمند بودن متن بازها این است که پتانسیل کنترل محاسبه را بسته به منابع محدود به کاربران می‌دهد. اگر بخواهیم برای روشن شدن مطلب نمونه‌ای بیاوریم، می‌توانیم به کسب‌وکارهایی اشاره کنیم که به جای تکیه بر منابع محصور و محدود محصولات انحصاری فروشنده‌های نرم‌افزار، از نرم‌افزارهای متن بازی استفاده می‌کنند که به آن‌ها اجازه می‌دهد شخصی را استخدام کنند تا آن نرم‌افزار را برای آن‌ها شخصی‌سازی یا بهینه کند.
 
-_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open source software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
+_نرم‌افزارهای رایگان_ همچنین به پروژه‌های متن باز منسوب می‌شود. گاهی هم ممکن است برنامه‌هایی ببینید که [ترکیبی](https://en.wikipedia.org/wiki/Free_and_open-source_software) از اصلاحات «نرم‌افزار متن باز و رایگان» (FOSS) یا «نرم‌افزار متن باز، آزاد و رایگان» (FLOSS) استفاده می‌کنند. خب، باید بگوییم که کلمه‌ی _Free_ (رایگان) و _libre_ (آزاد / رایگان) هر دو به معنای آزادی در استفاده و دسترسی اطلاق می‌شود، [نه قیمت آن](#does-open-source-mean-free-of-charge)
 
-### Why do people open source their work?
+### چرا مردم پروژه‌های‌شان را متن باز می‌کنند؟
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  یکی از رضایت‌بخش‌ترین تجربه‌هایی که از استفاده و مشارکت در پروژه‌های متن باز به دست آوردم، آشنایی با افراد و توسعه‌دهنده‌هایی بود که همان مشکلاتی را داشتند که من با آن‌ها مواجه شده بودم.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[دلایل زیادی وجود دارد](https://ben.balter.com/2015/11/23/why-open-source/) که یک شخص یا سازمان بخواهد پروژه‌های خود را متن باز کند. این دلایل عبارتند از:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **مشارکت:** هر فردی در دنیا می‌تواند پروژه‌های متن باز را تغییر دهد و در ویرایش آن مشارکت داشته باشد. به عنوان نمونه، Exercism که به عنوان یک پلتفرم متن باز برای تمرین برنامه‌نویسی شناخته می‌شود، با مشارکت افراد مختلف تا به الان بیش از 350 توزیع و ویرایش داشته است.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
+* **اقتباس و تغییر مجدد:** هر فردی تقریباً با هر هدفی می‌تواند از پروژه‌های متن باز استفاده کند. افراد حتی می‌توانند از یک پروژه، پروژه‌های دیگری به وجود بیاورند. به عنوان مثال می‌توانیم به [وردپرس](https://github.com/WordPress) اشاره کنیم که از پروژه موجودی به نام [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) منشعب شده است.
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **شفافیت:** هرکسی می‌تواند خطاها و تناقض پروژه‌های متن باز را بازرسی کند. از این رو، شفافیت برای دولت‌هایی مانند دولت [بلغارستان](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) یا [ایالات متحده آمریکا](https://sourcecode.cio.gov/) و صنایع مقرراتی مانند بانکداری، مراکز بهداشت وُ درمانی و نرم‌افزار امنیتی مانند [Let’s Encrypt](https://github.com/letsencrypt) اهمیت بالایی پیدا می‌کند تا زمان بازرسی خطاها توسط افراد مختلف، دچار مشکل نشوند.
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+ویژگی متن باز فقط مختص به نرم‌افزارها نیست، شما هر چیزی حتی مجموعه‌ای از داده‌های یک کتابخانه را می‌توانید متن باز کنید. اگر می‌خواهید بیشتر بدانید که چه چیزهای دیگری را می‌شود متن باز کرد، می‌توانید به [GitHub Explore](https://github.com/explore) مراجعه کنید.
 
-### Does open source mean "free of charge"?
+### آیا پروژ‌های متن باز «مجانی / رایگان» هستند؟
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+یکی از بزرگ‌ترین جذابیت‌های متن بازها این است که پولی نیستند. هرچند، رایگان بودن، یک محصول جانبی با ارزش کلی یک پروژه‌ی متن باز است.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+به عبارت دیگر، [در لایسنس و گواهینامه‌ی پروژه‌های متن بازها آورده شده است](https://opensource.org/osd-annotated) که هر کسی می‌تواند آن‌ها را استفاده، ویرایش و تقریباً با هر هدفی به اشتراک بگذارد. از این رو، پروژه‌های متن باز به صورت رایگان عرضه می‌شوند و اگر هم استفاده‌ از این پروژه‌ها پولی شود، هر کسی به صورت قانونی می‌تواند از آن کپی بگیرد و درعوض، از نسخه‌ی رایگان آن استفاده کند
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+در نتیجه، بیشتر پروژه‌های متن باز به صورت رایگان ارائه می‌شوند و از طرفی هم «رایگان بودن / مجانی بودن» به عنوان بخشی از تعریف پروژه‌های متن باز به حساب نمی‌آید، یعنی پروژه‌های متن باز هم به صورت رایگان و هم به صورت پولی هستند. البته راههایی سازگار با مجوزهای متن باز مثل ارائه مجوز دوگانه یا محدودکردن ویژگی ها به دو دسته رایگان و پولی برای کسب درآمد غیرمستقیم از پروژه‌های متن باز وجود دارد.
 
-## Should I launch my own open source project?
+## آیا پروژه‌ی متن باز خودم را باید منتشر کنم؟
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+اگر بخواهیم کوتاه جواب بدهیم، بله. چون خروجی پروژه‌ی شما مهم نیست. مهم این است که پروژه‌تان منتشر شود و بهترین راه هم برای یاد گرفتن نحوه‌ی کار پروژه‌های متن باز انتشار آن‌هاست.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+اگر هیچوقت پروژه‌ی متن بازتان را منتشر نکردید، ممکن است این نگرانی برای‌تان پیش بیاید افراد مختلف چه چیزی درباره‌ی پروژه‌تان می‌گویند یا اصلا به پروژه‌ی شما توجه می‌کنند یا خیر. اگر چنین احساسی دارید، باید بگوییم که تنها نیستید.
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+کار یک پروژه‌ی متن باز مانند هر فعالیت خلاقانه‌ی دیگری مثل نویسندگی و نقاشی است. زمانی که شما به عنوان یک هنرمند اولین اثر خود را با دنیا به اشتراک می‌گذارید، احساس ترس به سراغتان می‌آید. اما این کار را باید انجام دهید، چون تمرین تنها راه بهتر شدن است؛ حتی اگر یک مخاطب هم نداشته باشید.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
 
-### Setting your goals
+اگر هنوز هم متقاعد نشدید، به این فکر کنید که اهداف‌تان چه چیزهایی می‌توانند باشند.
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+### اهداف‌تان را مشخص کنید
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+اهداف می‌تواند به شما کمک کند تا متوجه شوید که بر روی چه چیزی کار کنید، به چه چیزی نه بگویید و کجا به کمک دیگران نیاز دارید. با سوال کردن از خودتان شروع کنید. از خودتان بپرسید: _چرا می‌خواهم این پروژه را متن باز کنم؟_
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+خب، واضح است که هیچ کس جواب درستی برای این سوال ندارد. چون ممکن است چندین هدف برای یک پروژه یا پروژه‌های مختلفی با اهداف متفاوتی وجود داشته باشد.
+
+اگر نمایش دادن کارتان تنها هدف برای متن باز کردن پروژه‌تان باشد، احتمالاً مشارکت دیگران را نمی‌خواهید و این نخواستن مشارکت را هم در فایل README پروژه‌تان نیز می‌آورید. از طرف دیگر، اگر واقعاً مشارکت دیگران را بخواهید، زمان خود را صرف مرتب کردن اسناد و صرف خوشامدگویی به افرادی می‌کنید که تازه وارد این حوزه شدند.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  زمانی که پروژه‌ی UIAlertView شخصی را تولید و استفاده کردم ....  و تصمیم گرفتم آن را متن باز کنم، تغییراتی در آن اعمال کردم تا پویایی بیشتری داشته باشد و آن را در GitHub آپلود کردم. من همچنین اولین سندی (که توضیح پروژه در آن نوشته می‌شود) را برای سایر توسعه‌دهنده‌ها نوشتم که نحوه‌ی کار با پروژه‌ی من چگونه است. احتمالاً به خاطر اینکه پروژه‌ی ساده‌ی بود، هیچ‌کس از آن استفاده نکرد. هرچند، اما به خاطر مشارکتم به سایر توسعه‌دهنده‌ها احساس خوبی داشتم.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+وقتی که پروژه‌ی شما رشد می‌کند، جامعه‌ی مخاطب پروژه‌هایتان احتمالاً بیشتر از یک کد به شما نیاز خواهند داشت. وظایف مهمی که در یک پروژه‌ی متن باز به شما محول می‌شود این است که برای مشکلات پاسخی داشته باشید، کدها را بررسی کنید و مژده‌ی پروژه‌ی متن بازتان را به دیگران بدهید.
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+اگرچه مدت زمانی که صرف کارهای غیرکدنویسی می‌کنید، به اندازه و دامنه‌ی پروژه‌یتان بستگی دارد، اما به عنوان یک مسئول‌نگهداری پروژه باید خودتان را آماده کنید آن‌ها را انجام دهید یا حداقل شخصی را پیدا کنید که در کارهای غیرکدنویسی به شما کمک کند.
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+**اگر جزئی از یک پروژه‌ی متن باز یک شرکت هستید،** مطمئن شوید پروژه‌یتان منابع لازم داخلی برای پیشرفت را داشته باشد. از این رو، باید بدانید که چه کسی مسئول نگهداری پروژه‌ی متن بازتان است و چگونه می‌خواهید این وظایف را با جامعه‌ی خود به اشتراک بگذارید
+
+اگر برای ارتقاء، بهره‌برداری و نگهداری پروژه به بودجه خاص یا کارمند نیاز دارید، می‌توانید این نیازها را در ابتدا اعلام کنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+  زمانی که پروژه‌ی متن بازتان را شروع می‌کنید، مهم است که اطمینان حاصل کنید که فرآیندهای مدیریتی شما ظرفیت مشارکت‌ها و توانایی‌های جامعه‌ی پیرامونی و مخاطب پروژه‌تان را در برگیرد. از مشارکت دادن مشارکت‌کننده‌هایی نترسید که از جنبه‌های کلیدی پروژه کارمند کسب و کارتان نیستند، به خصوص اگر مشارکت آن‌ها با شما مکرر باشد.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
-### Contributing to other projects
+### مشارکت در سایر پروژه‌ها
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+اگر هدف‌تان این باشد که با دیگران در پروژه‌های متن باز همکاری کنید یا می‌خواهید نحوه‌ی عملکرد یک پروژ‌ه‌ی متن باز را درک کنید، همکاری و مشارکت با پروژه‌های موجود را در نظر بگیرید. با پروژه‌ای شروع کنید که قبلا به آن علاقه‌مند بودید و از آن استفاده می‌کردید. مشارکت در یک پروژه‌ی متن باز می‌تواند به سادگی اصلاح یک کد اشتباه یا آپدیت / به‌روزرسانی اسناد باشد.
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+اگر مطمئن نیستید که چگونه می‌توانید در سایر پروژه‌ها مشارکت کنید، به مقاله‌ی [راهنمای نحوه‌ی همکاری در پروژه‌ی متن باز](../how-to-contribute/) مراجعه کنید
 
-## Launching your own open source project
+## انتشار پروژه‌ی متن باز خودتان
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+زمان مناسبی برای متن باز کردن پروژه‌تان وجود ندارد. از این رو، می‌توانید یک ایده، کارهایی در دست اقدام یا پروژه‌هایی که بعد از سال‌ها بسته ماندند، را متن باز کنید.
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+به طور کلی، هر زمان که احساس کردید با دیدگاه‌ها و بازخوردهای دیگران راحت هستید، باید پروژه‌یتان را متن باز کنید.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+مهم نیست در چه مرحله‌ای تصمیم گرفتید پروژه‌تان را متن باز کنید. هر پروژه‌ای باید حاوی اسناد زیر باشد:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [لایسنس متن باز](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [راهنمای مشارکت](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [آیین نامه رفتار](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+این مؤلفه‌ها به شما به عنوان مسئول‌نگهداری پروژه کمک می‌کند تا انتظارات‌تان را بیان، مشارکت‌ها را مدیریت و از حقوق قانونی خود و دیگران محافظت کنید. این موارد شانس شما را برای داشتن یک تجربه‌ی خوب افزایش می‌دهد.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+اگر پروژه‌ی شما در GitHub قرار دارد، قرار دادن فایل‌های فوق به همراه نام فایل‌های توصیه‌شده در پوشه ریشه (root) می‌تواند به GitHub کمک کند تا آن‌ها را به صورت خودکار به مخاطبان‌تان شناسایی کند و نمایش دهد.
 
-### Choosing a license
+### انتخاب لایسنس یا مجوز
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+لایسنسِ یا مجوز یک پروژه‌ی متن باز به دیگران ضمانت می‌دهد از پروژه‌ی متن باز استفاده، کپی، ویرایش و بدون هیچ عواقبی در آن مشارکت کنند. لایسنس همچنین از شما در برابر موقعیت‌های سخت قانونی محافظت می‌کند. **زمانی که می‌خواهید پروژه‌ی متن بازتان را منتشر کنید، حتما لایسنس آن را هم ضمیمه کنید**.
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+کارهای ادارای و حقوقی برای گرفتن لایسنس هیچ جذابیتی ندارد، اما خبر خوب اینجاست که می‌توانید لایسنس‌های موجود و در دسترس را که از قبل توسط دیگران تدوین شده را در repository (مخزن) خود کپی و پیست کنید. برای محافظت از تلاشی که برای متن باز کردن پروژه‌تان انجام دادید، این کار تنها یک دقیقه وقت شما را می‌گیرد.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/)، [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) و [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) جزء محبوب‌ترین لایسنس‌های متن باز هستند. هرچند، لایسنس‌های دیگری هم وجود دارد که می‌توانید از آن‌ها استفاده کنید.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+زمانی که پروژه‌ی جدیدی در GitHub ایجاد می‌کنید، به شما امکان انتخاب لایسنس داده می‌شود. انتخاب کردن لایسنس باعث می‌شود GitHub پروژه‌ی شما را متن باز نشان دهد.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![انتخاب مجوز](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+در ادامه‌ی مقاله، سایر سوالات و نگرانی‌هایتان درباره‌ی [جنبه‌های قانونی](../legal/) مدیریت پروژه‌ی متن بازتان را بررسی خواهیم کرد.
 
-### Writing a README
+### نوشتن فایل «README» (فایلی که توضیحات پروژه در آن آورده می‌شود)
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+فایل README اطلاعات بیشتری نسبت به این دارد که نحوه‌ی استفاده از پروژه‌تان را به کاربر توضیح دهد. این فایل همچنین توضیح می‌دهد که پروژه‌ی شما چه اهمیتی دارد و کاربران‌تان با این پروژه چه کارهای می‌توانند انجام دهند.
 
-In your README, try to answer the following questions:
+سعی کنید در فایل README خودتان به سوالات زیر پاسخ دهید و جواب آن‌ها را در فایل بیاورید:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* پروژه‌ی شما چه کاری انجام می‌دهد؟
+* چرا این پروژه مفید است؟
+* چگونه شروع کردم؟
+* در صورت نیاز، از کجا می‌توانم کمک بیشتری دریافت کنم؟
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+
+شما با فایل README می‌توانید به سایر سوالات نیز پاسخ دهید؛ سوالاتی مانند اینکه چگونه مشارکت‌تان را مدیریت می‌کنید، اهداف پروژه‌تان چیست و اطلاعات لایسنس و اختیارات پروژه‌تان را هم می‌توانید بیاورید. اگر مشارکت کسی را نمی‌خواهید قبول کنید، یا پروژه‌ی شما هنوز برای ارائه آماده نشده باشد، می‌توانید این توضیحات را در فایل README بیاورید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  هرچه اسنادتان اعم از فایل README، راهنمای مشارکت، آیین نامه رفتار و لایسنس در پروژه‌ی متن باز شما بهتر باشد، کاربران بیشتری به شما جذب می‌شود، پشتیبانی کمتری درخواست می‌شود و مشارکت‌کننده‌های بیشتری در پروژه مشارکت می‌کنند. به یاد داشته باشید که مخاطبانتان جای شما نیستند و افرادی ممکن است وارد پروژه‌ی شما شوند که تجربه‌های کاملاً متفاوتی دارند.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+بعضی از افراد از نوشتن فایل README خودداری می‌کنند، چون فکر می‌کنند پروژه‌ی آن‌ها هنوز تکمیل نشده یا اینکه نمی‌خواهند کسی مشارکتی داشته باشد. همین‌ها دلایل خیلی خوبی برای نوشتن یک فایل README محسوب می‌شوند.
 
-For more inspiration, try using @dguo's ["Make a README" guide](https://www.makeareadme.com/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+برای نوشتن یک فایل README کامل، می‌توانید به مقالات @dguo’s ["Make a README" guide](https://www.makeareadme.com/) یا @PurpleBooth’s [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) مراجعه کنید و از آن‌ها الهام بگیرید
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+زمانی که فایل README را در دایرکتوری ریشه خود قرار می‌دهید، GitHub به صورت خودکار آن را در صفحه‌ی اصلی repository (انبار) نشان می‌دهد.
 
-### Writing your contributing guidelines
+### نوشتن راهنمای مشارکت
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+فایل CONTRIBUTING (مشارکت) به مخاطبان‌تان می‌گوید که چگونه در پروژه‌ی شما مشارکت کنند. به عنوان مثال، می‌توانید اطلاعات زیر را در آن قید کنید:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* چگونه یک باگ یا مشکل گزارش شود
+* چگونه ویژگی جدیدی پیشنهاد دهند
+* چگونه محیط پروژه‌تان را تنظیم و آن را برای تست اجرا کنند
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+به علاوه، در فایل CONTRIBUTING می‌توانید جزئیات فنی و انتظارات‌تان را برای مشارکت‌کننده‌ها بیان کنید. به عنوان مثال:
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+* نوع مشارکتی که به دنبال آن هستید
+* نقشه‌ی راه یا دیدگاهی که به پروژه دارید
+* چگونه مشارکت‌کننده‌ها باید (یا نباید) با شما در تماس باشند
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) with:
+زمانی که با خونگرمی، حس دوستانه و دادن پیشنهادهای خاص (مانند نوشتن اسناد، یا طراحی وب‌سایت) با  مشارکت‌کننده‌هایتان برخورد می‌کنید، بیشتر راه را برای استقبال از تازه‌واردها رفته‌اید و همین کار شما باعث می‌شود آن‌ها برای همکاری با شما هیجان‌زده شوند.
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+برای روشن شدن مطلب اجازه دهید نمونه‌ای بیاوریم. به عنوان مثال، [Active Admin](https://github.com/activeadmin/activeadmin/) [راهنمای مشارکت خود](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) به مشارکت‌کننده‌ها را اینگونه شروع می‌کند
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+> در ابتدا، از شما ممنون هستم که می‌خواهید با Active Admin مشارکت کنید. افرادی مثل شما هستند که باعث می‌شوند Active Admin عملکرد خوبی داشته باشد.
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+در ابتدایی‌ترین مرحله‌ی پروژه‌تان، فایل CONTRIBUTING می‌تواند ساده باشد. شما در این فایل همیشه باید نحوه‌ی گزارش دادن باگ‌ها (خطاها) یا مشکلات فایل و هر نیاز فنی مانند تست کردن را برای مشارکت‌کننده‌ها توضیح دهید.
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+در طول زمان، ممکن است اطلاعات و سوالات مکرر زیادی به فایل CONTRIBUTING خود اضافه کنید. از این رو، افراد کمتری پیدا می‌شوند که سوالات تکراری از شما بپرسند.
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+برای اینکه بدانید چگونه اطلاعات فایل CONTRIBUTING خود را بنویسید، می‌توانید به مقالات @nayafia’s [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) یا @mozilla’s ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) مراجعه کنید
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+[لینک فایل CONTRIBUTING خود را در فایل README قرار دهید](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) تا افرادی که آن را مطالعه می‌کنند این فایل مشارکت را هم ببینند. اگر فایل CONTRIBUTING خود را در repository (انبار) (مخزن) پروژه‌تان قرار داده باشید، زمانی که یک مشارکت‌کننده طرح مشکل یا گزارش یک باگ یا درخواست ادغام کند، GitHub به صورت خودکار او را به لینک فایل CONTRIBUTING هدایت می‌کند
 
-### Establishing a code of conduct
+![راهنماهای مشارکت](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+
+### تعیین آیین نامه‌ی رفتاری (Code of Conduct)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+  همه‌ی ما به عنوان یک مسئول‌نگهداری پروژه با سوءاستفاده‌هایی مواجه شده‌ایم که در آن سعی می‌کردیم توضیح دهیم چرا چیزی را باید از مسیر خاص خودش طی کنیم، یا به عنوان یک کاربر تلاش می‌کردیم یک سوال ساده بپرسیم. آیین نامه‌ی رفتاری به سندی قابل ارجاع و پیوندی تبدیل شده که نشان می‌دهد تیم شما اجرای گفتمان سازنده را بسیار جدی می‌گیرد.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+بالاخره، آیین نامه‌ی رفتاری به ما کمک می‌کند برای رفتارهای مشارکت‌کننده‌های پروژه‌تان قوائدی تعیین کنید. زمانی که بخواهید یک پروژه‌ی متن بازی را برای انجمن یا یک شرکت منتشر کنید، این قوائد می‌تواند ارزشمند باشد. آیین نامه‌ی رفتاری یا (Code of Conduct) این قدرت را به شما می‌دهد تا رفتارهای سازنده و سالم  را در بین جامعه کاربران ترویج کنید که در آینده به عنوان یک مسئول‌نگهداری پروژه احساس استرس کمتری داشته باشید.
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+برای اطلاعات بیشتر می‌توانید به [راهنمای آیین نامه‌ی رفتاری](../code-of-conduct/) مراجعه کنید.
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+علاوه بر اینکه یک آیین نامه‌ی رفتاری رفتارهایی که از شرکت‌کنند‌هایتان انتظار دارید را باید به آن‌ها بگوید، این را هم باید تعریف کنید که اجرای این انتظارات به چه کسانی و در چه زمان‌هایی باید انجام می‌شود. آیین نامه‌ی رفتاری همچنین مشخص می‌کند که درصورت بروز تخلف چه کاری باید انجام شود.
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+مشابه استفاده از مجوزهایی که از قبل توسط دیگران تدوین شده استانداردهای نوظهوری برای آیین نامه‌ی رفتاری وجود دارد که لازم نیست خودتان آن را بنویسید. (https://contributor-covenant.org/)[Contributor Covenant] یکی از جاهایی است که آیین نامه‌هایی در همین خصوص ارائه می‌کند و حاصل کار آن در [بیش از 40.000 پروژه‌ی متن باز](https://www.contributor-covenant.org/adopters) مانند Kubernetes، Rails و Swift استفاده می‌شود. مهم نیست متن آیین نامه‌ی رفتاری شما چیست، مهم این است که در صورت لزوم باید از آیین نامه‌ی رفتاری خودتان استفاده کنید
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+متن آیین نامه‌ی رفتاری خود را مستقیما در فایل CODE_OF_CONDUCT در repository (مخزن) گیت هاب خودتان کپی و پیست کنید. فایل را در دایرکتوری روت پروژه‌تان ذخیره کنید تا پیدا کردن و لینک دادن آن به فایل README راحت باشد.
 
-## Naming and branding your project
+## نام‌گذاری و برندسازی پروژه
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+برندسازی چیزی فراتر از یک لوگوی پُر زرق وُ برق یا یک نام جذاب برای پروژه‌تان است. برندسازی نحوه‌ی صبحت کردن درباره‌ی پروژه و نحوه رساندن پیام به مخاطب‌تان را نشان می‌دهد.
 
-### Choosing the right name
+### انتخاب نام درست
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+برای پروژه‌تان از نامی استفاده کنید که یادآوری آن ساده باشد. به طور ایده آل، می‌توانید بعضی از ایده‌ها را از پروژه‌های زیر مشاهده کنید. به عنوان نمونه:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) اپ ها را با هدف گزارش خطاهای رخ داده در آنها پایش می کند
+* [Thin](https://github.com/macournoyer/thin) یک وب سرور ساده و سریع روبی است
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+اگر در حال طراحی پروژه‌تان هستید، به کارگیری نام آن‌ها به عنوان پیشوند می‌تواند به شفاف کردن پروژه‌تان کمک کند. به عنوان نمونه، ([node-fetch](https://github.com/bitinn/node-fetch)، Window.fetch را به Node.js می‌آورد).
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+با در نظر گرفتن توصیه بالا. می‌توان عناوین بامزه یا خوب زیادی ساخت، اما این را به یاد داشته باشید که بعضی از بازی با کلمات و جناس‌ها ممکن است در سایر فرهنگ‌ها یا افرادی که تجربه‌های متفاوتی نسبت به شما دارند، مفهوم یا ترجمه‌ی نادرستی داشته باشد. برخی از کاربران بالقوه شما هم ممکن است کارمندان یک شرکت باشند و حتما نمی‌خواهید زمانی که در حال توضیح دادن نحوه‌ی پروژه‌تان در محل کارشان هستند، احساس نامساعدی داشته باشند.
 
-### Avoiding name conflicts
+### از نام‌گذاری‌های دارای منافات خودداری کنید
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+اگر پروژه‌ی شما زبان و اکوسیستم یکسانی دارد، می‌توانید نام پروژه‌های مشابه با پروژه‌تان را [بررسی کنید](http://ivantomic.com/projects/ospnc/). اگر نام پروژه‌ی شما با پروژه‌ی دیگری شباهت زیادی داشته باشد، مخاطب شما ممکن است سردرگم شود.
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+اگر با یک وب‌سایت، توئیتر یا دیگر شبکه‌های اجتماعی می‌خواهید پروژه‌تان را نشان دهید، مطمئن شوید همان نامی را انتخاب کنید که می‌خواهید. به طور ایده آل، حتی اگر هنوز نمی‌‌خواهید از آن نام استفاده کنید و برای اینکه خیال‌تان راحت باشد، آن نام را [وارونه کنید](https://instantdomainsearch.com/)
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+مطمئن شوید نام پروژه‌ی شما هیچ برند تجاری را نقض نمی‌کند. اگر چنین باشد، آن شرکت می‌تواند بعدها از شما درخواست کند پروژه‌تان را کنسل کرده یا حتی به صورت قانونی با شما برخورد کند. بنابراین، ارزش این همه ریسک را ندارد و برای جلوگیری از چنین مشکلاتی حتما از نام مناسبی استفاده کنید.
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+برای بررسی تضاد و منافات برندهای تجاری می‌توانید به پایگاه داده برندهای جهانی [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) مراجعه کنید. اگر شما یک شخص حقوقی هستید و در یک شرکت فعالیت می‌کنید، این یکی از چیزهایی است که [تیم حقوقی‌تان می‌تواند](../legal/) به شما کمک کند
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+در نهایت، نام پروژه‌تان را به سرعت در گوگل جستجو کنید. ببینید که افراد به راحتی می‌توانند پروژه‌تان را پیدا کنند؟ در نتایج جستجوی شما چیزی دیگر پیدا می‌شود که نمی‌خواهید کاربران آن را مشاهده کنند؟
 
-### How you write (and code) affects your brand, too!
+### چگونه نوشتن و کدنویسی شما روی برندتان اثر می‌گذارد!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+در طول عمر پروژه‌تان، در حال نوشتن چیزهای زیادی خواهید بود که می‌توان به نوشتن فایل‌های README، آموزش‌ها، اسناد انجمن، نوشتن پاسخ به مشکلات، حتی شاید نوشتن و پاسخ دادن به خبرنامه و فهرست پستی، اشاره کرد.
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+سبک نویسندگی شما چه در اسناد رسمی و چه در ایمیل‌های محاوره‌ای بخشی از برند پروژه‌تان است. به این فکر کنید چگونه می‌خواهید با مخاطب‌تان برخورد کنید و ببینید این لحن نوشتاری همان چیزی است که می‌خواهید به مخاطب فرستاده شود یا خیر.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  زمان ارسال هر پست، تلاش می‌کردم رفتار ستوده‌ای داشته باشم، با مردم درست رفتار کنم، مشکلات‌شان را جدی بگیرم و در کل سعی می‌کردم مفید باشم. بعد از مدتی، افراد نه تنها سوال می‌پرسیدند، بلکه در جواب دادن در برخی سوالات به من کمک می‌کردند و در نهایت لذت آن‌ها از سبک نویسندگی من تقلید می‌کردند
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+زمانی که از یک زبان جامع و گرم استفاده می‌کنید و حتی زمانی که با یک فرد صحبت می‌کنید، به جای کلمه‌ی «تو» کلمه‌ی «شما» را به کار می‌برید، کمک زیادی به شما می‌کند تا مشارکت‌کننده‌های جدید از پروژه‌ی شما استقبال کنند. اگر می‌خواهید به زبان انگلیسی بنویسید، سعی کنید ساده باشد. چون زبان بیشتر خواننده‌های شما بومی نیست.
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://angular.io/guide/styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+جدا از کلماتی که در نوشتن اسناد مختلف استفاده می‌کنید، سبک کدنویسی شما هم ممکن است به بخشی از برند پروژه‌تان تبدیل شود. به عنوان مثال می‌توانیم به دو نمونه پروژه به نام‌های [Angular](https://angular.io/guide/styleguide) و [jQuery](https://contribute.jquery.org/style-guide/js/) اشاره کنیم که راهنما و سبک کدنویسی سختی دارند
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+در ابتدای کار لازم نیست از راهنمای سبک نویسندگی استفاده کنید. به هر حال، به مرور از ترکیب سبک متفاوت کدنویسی خود در پروژه‌تان لذت خواهید برد. هرچند، این را باید پیش‌بینی کنید که نحوه‌ی نویسندگی و سبک کدنویسی شما ممکن است انواع مختلف افراد را جذب یا دفع کند. در ابتدای‌ترین مرحله‌ی پروژه‌تان فرصت دارید مقدماتی که می‌خواهید مخاطبان ببنند را ارائه دهید.
 
-## Your pre-launch checklist
+## مرور (چک لیست / لیست بررسی) قبل از انتشار پروژه‌ی متن باز
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+خب، آماده هستید تا پروژه‌تان را متن باز کنید؟ چک لیست در این مرحله می‌تواند به شما کمک کند. تمام گزینه‌ها و تیک‌ها را بررسی کرده‌اید؟ به محض آماده شدن، روی انتشار [publish](https://help.github.com/articles/making-a-private-repository-public/) کلیک کنید و به خودتان تبریک بگویید.
 
-**Documentation**
+**مستندات**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    پروژه حاوی فایل (LICENSE) و لایسنس متن باز است
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    پروژه حاوی اسناد پایه اعم از (فایل README، CONTRIBUTING و فایل CODE_OF_CONDUCT) است
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    نام پروژه ساده است، می‌توان آن را به راحتی به خاطر سپرد، نام پروژه این ایده را به مخاطب می‌دهد که پروژه چه کارهایی انجام می‌دهد و نام پروژه با هیچ پروژه موجودی منافات ندارد یا هیچ برند تجاری را نقض نمی‌کند.
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    صف مشکلات و مسائل گزارش شده با زدن برچسب های مناسب سازماندهی شده و بروز است.
   </label>
 </div>
 
-**Code**
+**کد**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    پروژه از توافق‌های از پیش تعیین شده در خصوص نام‌های متغیر/متدها و توابع استفاده می‌کند
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+	کد به خوبی کامنت‌گذاری شده و تو رفتگی‌ها و کوچکی و بزرگی حروف در جای لازم رعایت شده است.    
   </label>
 </div>
 
@@ -313,50 +311,51 @@ Ready to open source your project? Here's a checklist to help. Check all the box
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+	اطلاعات حساسی مثل کلمه های عبور یا کلیدهای خصوصی از طریق Pull Request یا گزارش مشکل و... برای عموم آشکار نشود
   </label>
 </div>
 
-**People**
+**افراد**
 
-If you're an individual:
+اگر شما شخص حقیقی هستید:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  (اگر در جایی کارمند هستید)، با دپارتمان / بخش حقوقی خود صحبت کرده‌اید، IP و شرایط و قوانین متن باز شرکت را متوجه شده‌اید.
   </label>
 </div>
 
-If you're a company or organization:
+اگر شخص حقوقی هستید و در یک سازمان یا یک شرکت فعالیت می‌کنید:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    با دپارتمان / بخش حقوقی صحبت کرده‌اید.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    برای اطلاع رسانی و ترویج پروژه‌ام برنامه‌ی بازاریابی دارم.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
-  </label>
+	یک شخص برای مدیریت تعاملات اجتماعی (پاسخ به مشکلات، بررسی و درخواست ادغام) که متعهد باشد حضور دارد.
+    </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    حداقل دو نفر دسترسی مدیریتی (Admin) به پروژه داشته باشند
   </label>
 </div>
 
-## You did it!
+## انجامش دادی!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+اولین پروژه‌ی متن بازتان را تبریک می‌گوییم. بهتر است بدانید که خروجی آن مهم نیست، فقط با این کار تجربه‌ی کار در فضای جامعه را به دست آوردید. با هر کامیت (Commit)، کامنت (Comment) و پاسخ به درخواست ادغام فرصتی برای رشد و یادگیری خود و دیگران ایجاد می‌کنید.
