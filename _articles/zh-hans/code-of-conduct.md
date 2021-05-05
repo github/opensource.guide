@@ -32,7 +32,7 @@ redirect_from: /zh-cn/code-of-conduct/
 
 无论你们在哪里，请使用已有的行为守则。[贡献者盟约](https://www.contributor-covenant.org/)是一个被超过40,000个开源项目（包括Kubernetes, Rails和Swift）所使用的行为守则。
 
-[Django行为守则](https://www.djangoproject.com/conduct/)和[Citizen行为守则](http://citizencodeofconduct.org/)都是非常好的行为守则。
+[Django行为守则](https://www.djangoproject.com/conduct/)和[Citizen行为守则](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/)都是非常好的行为守则。
 
 请将CODE_OF_CONDUCT文件放在你们项目的根目录，并在README中附上其链接，这样对你们的社区是可见的。
 
