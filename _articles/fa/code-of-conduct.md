@@ -1,14 +1,8 @@
 ---
-lang: en
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+lang: fa
+title: منشور اخلاقی
+description: با تصویب و اجرای منشور اخلاقی، رفتار سالم و سازنده را در انجمن (community) خود تسهیل کنید.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
-  your-responsibilities-as-a-maintainer: "Your responsibilities as a maintainer"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -16,105 +10,108 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## چرا به منشور اخلاقی نیاز داریم؟
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+منشور اخلاقی سندی است که انتظارات مربوط به رفتار را برای شرکت‌کنندگان پروژه تعیین می‌کند.   تصویب و اجرای منشور اخلاقی می‌تواند به ایجاد جو اجتماعی مثبت و سازنده برای انجمن شما کمک کند.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+منشور اخلاقی نه تنها از شرکت‌کنندگان پروژه بلکه از شما هم محافظت می‌کند. اگر شما از پروژه‌ای نگهداری می‌کنید، ممکن است متوجه شده باشید که نگرش‌های مخرب از طرف دیگر شرکت‌کنندگان باعث می‌شود در طول کار از کار خود خسته یا ناراضی شوید.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+منشور اخلاقی این امکان را به شما می‌دهد تا رفتاری سالم و سازنده را در جامعه تسهیل کنید. داشتن نگرشی پیشگیرانه، احتمال اینکه شما یا دیگران از پروژه خسته شوید را کاهش می‌دهد و این امکان را برای شما فراهم می‌سازد تا وقتی کسی کاری را اشتباه انجام داد بتوانید با آن مقابله و جلوی آن را بگیرید.
 
-## Establishing a code of conduct
+## ایجاد منشور اخلاقی
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+سعی کنید هر چه زودتر منشور اخلاق را ایجاد کنید: در حالت ایده‌آل، هنگامی که پروژۀ خود را شروع می‌کنید.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+علاوه بر ابلاغ انتظاراتی که دارید، منشور اخلاقی موارد زیر را شرح می‌دهد:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* منشور اخلاقی در چه جاهایی اعمال می‌شود _(فقط در مورد مشکلات و درخواست‌های pull، یا دیگر فعالیت‌های انجمن مانند رویدادها؟)_
+* منشور اخلاقی برای چه کسانی اعمال می‌شود _(اعضای انجمن و نگه‌دارندگان، در مورد حامیان مالی چطور؟)_
+* اگر کسی منشور اخلاقی را نقض کند چه اتفاقی می‌افتد؟
+* چگونه می‌توان تخلفات را گزارش داد؟
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+در هر جا که می‌توانید، از دانش پیشین خود استفاده کنید. [عهدنامۀ مشارکت‌کنندگان](https://contributor-covenant.org/) نوعی منشور اخلاقی جا افتاده و مقبول است که بیش از 40،000 پروژۀ متن باز از جمله «Kubernetes»، « «Rails و «Swift» از آن استفاده می‌کنند.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](http://citizencodeofconduct.org/) are also two good code of conduct examples.
+[منشور اخلاقی Django](https://www.djangoproject.com/conduct/) و [منشور اخلاقی Citizen](http://citizencodeofconduct.org/) نیز دو نمونۀ خوب دیگر هستند.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+فایل «منشور اخلاقی» را در فهرست اصلی پروژه قرار دهید و با لینک کردن آن با فایل‌های CONTRIBUTING یا README، آن را در دیدگاه انجمن خود قرار دهید.
 
-## Deciding how you'll enforce your code of conduct
+## تصمیم‌گیری در مورد نحوۀ پیش بردن منشور اخلاقی
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  منشور اخلاقی‌ای که اجرا نمی‌شود (یا نمی‌توان آن را اجرا کرد) بدتر از نبود هیچ منشور اخلاقی‌ای می‌باشد: نبود منشور اخلاقی این پیام را با خود به همراه دارد که ارزش‌های درج شده در منشور اخلاقی در انجمن شما مهم نیستد و مورد احترام واقع نمی‌شوند.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+شما باید **قبل از وقوع** هر گونه تخلفی ابتدا توضیح دهید که منشور اخلاقی شما چگونه عملیاتی می‌شود. چندین دلیل برای اینکار وجود دارد:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* نشان می‌دهد که شما جدی هستید و در صورت لزوم اقدام می‌کنید.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* انجمن‌تان نسبت به بررسی شدن شکایات، اطمینان بیشتری پیدا می‌کند.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* به انجمن خود در صورت مرتکب شدن به تخلفی اطمینان خواهید داد که روند بازبینی منصفانه و شفاف خواهد بود.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+شما باید روشی ویژه‌ای (مانند آدرس ایمیل) برای مردم فراهم آورید تا بتوانند تخلفات ناشی از منشور اخلاقی را گزارش دهند و توضیح دهند که چه کسی مرتکب تخلفات شده است. می‌تواند یک نگهدارنده، گروهی از نگهدارنده‌ها یا یک کارگروه ویژۀ منشور اخلاقی باشد.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+فراموش نکنید که ممکن است کسی بخواهد در مورد شخصی که این گزارشات را دریافت می‌کند تخلفی را گزارش دهد. در این صورت، برای آن‌ها گزینه‌ای تعبیه کنید تا بتوانند تخلفات را به شخص دیگری گزارش دهند. به عنوان مثال، @ctb و @mr-c در مورد [پروژۀ خود «khmer»](https://github.com/dib-lab/khmer) می‌گویند: 
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> مواردی از سوءرفتار، آزار و اذیت و رفتارهای غیر‌قابل‌قبول را می توان با ایمیل زدن به **khmer project@idyll.org** گزارش داد که فقط «C. Titus Brown» و Michael R. Crusoe» به آن دسترسی دارند. برای گزارش مسئله‌ای در رابطه با هر کدام از آن‌ها، لطفاً به **Judi Brown Clarke** دکترای مدیریت در مرکز «BEACON» برای مطالعۀ تکامل در عمل، مرکز علوم و فناوری «NSF» ایمیل بزنید.
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+برای ایده گرفتن، به [کتابچۀ راهنمای اجرای](https://www.djangoproject.com/conduct/enforcement-manual/) «Django» مراجعه کنید (اگرچه ممکن است بنا به اندازه پروژۀ خود، نیازی به چنین کتابچۀ جامعی نداشته باشید).
 
-## Enforcing your code of conduct
+## عملیاتی کردن منشور اخلاقی
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+گاهی اوقات علی‌رغم تلاشی که می‌کنید، شخصی کاری خلاف منشور اخلاقی انجام می‌دهد. روش‌های مختلفی برای پرداختن و عکس‌العمل نشان دادن به رفتار منفی و مضر در هنگام بروز آن وجود دارد.
 
-### Gather information about the situation
+### جمع‌آوری اطلاعات در مورد وضعیت
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+با هر یک از اعضای انجمن خود، رفتاری یکسان داشته باشید. اگر گزارشی منوط بر نقص منشور اخلاقی دریافت کردید، آن را جدی بگیرید و موضوع را بررسی کنید، حتی اگر با آن شخص رابطه‌ای نزدیک دارید. با این کار به انجمن خود نشان می‌دهید که برای دیدگاه آن‌ها ارزش قائل هستید و به قضاوت آن‌ها اعتماد دارید.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+آن عضو خطاکار انجمن ممکن است اولین بار نباشد که مرتکب به خطایی شده و به طور مداوم دیگران را ناراحت می‌کند، یا ممکن است اولین بار آن‌ها باشد. بسته به خطایی که مرتکب می‌شوند، اقدامات لازمی باید اجرا شود.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+قبل از عکس‌العمل نشان دادن، زمان کافی را برای فهمیدن کامل ماجرا صرف کنید. نظرات و گفتگوهای مربوط به گذشتۀ شخص را بررسی کنید تا آن‌ها را بهتر بشناسید و  متوجه شوید چرا ممکن است چنین رفتاری از آن‌ها سر بزند. سعی کنید دیدگاه‌های دیگری را غیر از دیدگاه‌های خودتان دربارۀ این فرد و رفتار او جمع‌آوری کنید.
+
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  وارد بحث و جدل با شخص نشوید. قبل از اتمام شدن رسیدگی به موضوع مورد بحث، وارد موضوع دیگر و رسیدگی به شخص دیگری نشوید. بر آنچه که نیاز هست تمرکز کنید.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### اقداماتی مناسب به کار ببرید
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+پس از جمع آوری و بررسی اطلاعات کافی، باید تصمیم بگیرید که چه کاری انجام دهید. همانطور که به قدم بعدی می‌اندیشید، به یاد داشته باشید که هدف شما به عنوان ناظر، ایجاد محیطی امن، محترم و فضایی مشارکتی است. در نظر داشته باشید که تنها مسئلۀ چگونگی برخورد در آن موقعیت مهم نیست، بلکه چگونگی پاسخ و عکس‌العمل شما در آینده‌ی رفتار و انتظارات افراد حاضر در انجمن شما تأثیر می‌گذارد.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+وقتی کسی گزارشی منوط بر تخلف در منشور اخلاقی می‌دهد، رسیدگی به آن وظیفۀ شماست و نه خود او. گاهی اوقات، فرد گزارش‌دهنده با افشای این اطلاعات، آیندۀ شغلی، اعتبار یا ایمنی خود را ممکن است در معرض خطر بزرگی قرار دهد. وادار کردن آن‌ها به مقابله کردن با فرد مزاحم و خاطی می‌تواند فرد گزارش‌دهنده را در موقعیتی مخاطره‌آمیز قرار دهد. شما باید شخصا ارتباط مستقیم با فرد خاطی مورد نظر را مدیریت کنید، مگر اینکه فرد گزارش‌دهنده صریحاً خلاف آن را درخواست کند.
 
-There are a few ways you might respond to a code of conduct violation:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+چند روش وجود دارد که شما می‌توانید با استفاده از آن‌ها با موارد نقض منشور اخلاقی برخورد کنید:
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **به شخص مورد نظر ترجیحاً به طور مشخص‌ و واضح اخطار عمومی دهید** و توضیح دهید که چگونه رفتار او بر دیگران تأثیر منفی می‌گذارد. اخطار به صورت عمومی به بقیۀ افراد انجمن این پیام را می‌رساند که منشور اخلاقی را جدی می‌گیرید. در مکالمه‌های خود خوش‌برخود باشید ولی جدی بمانید.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+* **به طور خصوصی با شخص مورد نظر صحبت بکنید** تا توضیح دهید که چگونه رفتار او بر دیگران تأثیر منفی می‌گذارد. اگر موقعیت طوری باشد که اطلاعات حساس شخصی فرد در میان باشد، بهتر است از کانال‌های ارتباطی خصوصی استفاده کنید. اگر با شخص به طور خصوصی صحبت می‌کنید، بهتر است کسانی را که برای اولین بار وضعیت را گزارش کرده‌اند مطلع کنید تا بدانند که اقدام کرده‌اید. قبل از پیگیری کردن گزارش مربوطه، از شخص گزارش‌دهنده رضایت بگیرید.
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+گاهی اوقات، نمی‌توان به نتیجه‌ای قطعی رسید. فرد مورد نظر ممکن است در مواجهه با او پرخاشگر یا خصمانه برخورد کند یا  تغییری در رفتار خود ایجاد نکند. در این شرایط، ممکن است بخواهید اقدامات جدی‌تری را در نظر بگیرید. مثلا:
 
-* **Permanently ban** the person from the project
+* **فرد مورد نظر را از ادامۀ همکاری در پروژه تعلیق کنید**، که از طریق منع موقت یا شرکت در هر جنبه‌ای از پروژه اعمال می‌شود
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+* **فرد مورد نظر را به طور دائمی** از ادامۀ همکاری در پروژه تعلیق کنید
 
-## Your responsibilities as a maintainer
+منع کردن اعضا نباید امری ساده تلقی شود و باید نشان‌دهندۀ اختلاف دائمی در دیدگاه و آشتی‌ناپذیری تلقی شود. این اقدامات را فقط باید در مواقعی پیش بگیرید که مشخص باشد امکان دستیابی به نتیجه‌ای قطعی وجود ندارد.
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+## وظایف شما به عنوان یک نگهدارنده
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+منشور اخلاقی آیین‌نامه‌ای نیست که به صورت خودسرانه اجرا شود. شما مجری منشور اخلاقی هستید و مسئولیت پیروی از قوانین تعیین شده به وسیله‌ی منشور اخلاقی از وظایف شماست.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+شما به عنوان نگهدارنده، دستورالعمل‌هایی را برای انجمن خود تعیین می‌کنید و آن دستورالعمل‌ها را مطابق با قوانین مندرج در منشور اخلاقی اجرا می‌کنید. این به معنای جدی گرفتن هر گونه گزارش مربوطی به نقض منشور اخلاقی است. گزارش فرد گزارش‌دهنده باید کاملا جامع و منصفانه بررسی شود. اگر تشخیص دادید رفتاری که آن‌ها گزارش داده‌اند، نقض منشور اخلاقی نیست، این مسئله را به وضوح با آن‌ها در میان بگذارید و توضیح دهید که چرا در این زمینه اقدامی نمی‌کنید. عکس‌العملی که نشان می‌دهند به خودشان مربوط است: باید رفتاری که آن‌ها با آن روبرو بوده‌اند را تحمل کنند یا مشارکت‌شان در انجمن را متوقف سازند.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+گزارش رفتاری که در واقع منشور اخلاقی شما را نقض نمی‌کند، همچنان نشان‌دهندۀ مشکلی در انجمن شما است و شما باید این مشکل بالقوه را بررسی کرده و چاره‌ای برای آن پیدا کنید.  که این ممکن است شامل بازنگری در منشور اخلاقی برای روشن ساختن رفتار قابل‌قبول یا صحبت با شخصی باشد که رفتار وی گزارش شده است و شما باید به فرد بگویید که اگرچه منشور اخلاقی را نقض نکرده‌اند، اما دارند در لبۀ آنچه که از آن‌ها انتظار می‌رود راه می‌روند و موجب ناراحتی در برخی از شرکت‌کنندگان شده‌اند.
 
-## Encourage the behavior you want to see in the world 🌎
+موضوع مهم این است که شما به عنوان یک نگهدارنده، باید استانداردهای رفتار قابل‌قبول را تعیین و عملیاتی کنید. شما توانایی شکل دادن به ارزش‌های اجتماعی پروژه را دارید و شرکت‌کنندگان انتظار دارند که شما این ارزش‌ها را به صورت منصفانه و یکسان اجرا کنید.
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+
+## ترغیب‌کنندۀ رفتاری باشید که می‌خواهید در دنیا آن را مشاهده کنید 🌎
+
+هنگامی که یک پروژه خصمانه یا ناخوشایند به نظر می‌رسد، حتی اگر فقط یک نفر باشد که رفتار او غیرقابل‌تحمل باشد، ممکن است مشارکت‌کنندگان بیشتری را از دست بدهید که حتی ممکن است بعضی از آن‌ها را هرگز ملاقات نکرده باشید. اتخاذ یا اجرای منشور اخلاقی همیشه ساده نیست، اما ایجاد فضایی دوستانه به رشد انجمن شما کمک می کند.
