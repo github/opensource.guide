@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Lancer un projet Open Source
-description: En savoir plus sur le monde de l'open source et préparez-vous à lancer votre propre projet.
+description: En savoir plus sur le monde de l'Open Source et préparez-vous à lancer votre propre projet.
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png
