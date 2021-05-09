@@ -134,7 +134,7 @@ related:
 * **[Travis CI](https://github.com/travis-ci)** は、製品の有償版を提供しています。
 * **[Ghost](https://github.com/TryGhost/Ghost)** は、有償のマネージドサービスを提供する非営利サービスです。
 
-[npm](https://github.com/npm/npm) や [Docker](https://github.com/docker/docker) のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
+[npm](https://github.com/npm/cli) や [Docker](https://github.com/docker/docker) のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
 
 ### 助成金に応募する
 
