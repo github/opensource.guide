@@ -2,3 +2,165 @@
 layout: index
 lang: en
 ---
+GitHub Docs
+Organizations Managing access to your organization's repositories Repository permission levels for an organization
+Repository permission levels for an organization
+
+You can customize access to each repository in your organization with granular permission levels, giving people access to the features and tasks they need.
+In this article
+
+    Permission levels for repositories owned by an organization
+    Repository access for each permission level
+    Permission requirements for security features
+    Further reading
+
+People with admin permissions can manage individual and team access to an organization-owned repository.
+Permission levels for repositories owned by an organization
+
+You can give organization members, outside collaborators, and teams of people different levels of access to repositories owned by an organization. Each permission level progressively increases access to a repository's content and settings. Choose the level that best fits each person or team's role in your project without giving people more access to the project than they need.
+
+From least access to most access, the permission levels for an organization repository are:
+
+    Read: Recommended for non-code contributors who want to view or discuss your project
+    Triage: Recommended for contributors who need to proactively manage issues and pull requests without write access
+    Write: Recommended for contributors who actively push to your project
+    Maintain: Recommended for project managers who need to manage the repository without access to sensitive or destructive actions
+    Admin: Recommended for people who need full access to the project, including sensitive and destructive actions like managing security or deleting a repository
+
+For more information about giving people and teams access to repositories, see "Managing access to your organization's repositories."
+
+Organization owners can set base permissions that apply to all members of an organization when accessing any of the organization's repositories. For more information, see "Setting base permissions for an organization."
+
+Organization owners can also choose to further limit access to certain settings and actions across the organization. For more information on options for specific settings, see "Managing organization settings."
+
+In addition to managing organization-level settings, organization owners have admin permissions for every repository owned by the organization. For more information, see "Permission levels for an organization."
+
+Warning: When someone adds a deploy key to a repository, any user who has the private key can read from or write to the repository (depending on the key settings), even if they're later removed from the organization.
+Repository access for each permission level
+
+Note: Repository permissions required to use security features are listed in "Permission requirements for security features" below.
+Repository action	Read	Triage	Write	Maintain	Admin
+Pull from the person or team's assigned repositories	X	X	X	X	X
+Fork the person or team's assigned repositories	X	X	X	X	X
+Edit and delete their own comments	X	X	X	X	X
+Open issues	X	X	X	X	X
+Close issues they opened themselves	X	X	X	X	X
+Reopen issues they closed themselves	X	X	X	X	X
+Have an issue assigned to them	X	X	X	X	X
+Send pull requests from forks of the team's assigned repositories	X	X	X	X	X
+Submit reviews on pull requests	X	X	X	X	X
+View published releases	X	X	X	X	X
+View GitHub Actions workflow runs	X	X	X	X	X
+Edit wikis	X	X	X	X	X
+Report abusive or spammy content	X	X	X	X	X
+Apply/dismiss labels		X	X	X	X
+Create, edit, delete labels			X	X	X
+Close, reopen, and assign all issues and pull requests		X	X	X	X
+Enable and disable auto-merge on a pull request			X	X	X
+Apply milestones		X	X	X	X
+Mark duplicate issues and pull requests		X	X	X	X
+Request pull request reviews		X	X	X	X
+Push to (write) the person or team's assigned repositories			X	X	X
+Edit and delete anyone's comments on commits, pull requests, and issues			X	X	X
+Hide anyone's comments			X	X	X
+Lock conversations			X	X	X
+Transfer issues (see "Transferring an issue to another repository" for details)			X	X	X
+Act as a designated code owner for a repository			X	X	X
+Mark a draft pull request as ready for review			X	X	X
+Convert a pull request to a draft			X	X	X
+Submit reviews that affect a pull request's mergeability			X	X	X
+Apply suggested changes to pull requests			X	X	X
+Create status checks			X	X	X
+Create, edit, run, re-run, and cancel GitHub Actions workflows			X	X	X
+Create and edit releases			X	X	X
+View draft releases			X	X	X
+Edit a repository's description				X	X
+View and install packages	X	X	X	X	X
+Publish packages			X	X	X
+Delete and restore packages					X
+Manage topics				X	X
+Enable wikis and restrict wiki editors				X	X
+Enable project boards				X	X
+Configure pull request merges				X	X
+Configure a publishing source for GitHub Pages				X	X
+Push to protected branches				X	X
+Create and edit repository social cards				X	X
+Limit interactions in a repository				X	X
+Delete an issue (see "Deleting an issue")					X
+Merge pull requests on protected branches, even if there are no approving reviews					X
+Define code owners for a repository					X
+Add a repository to a team (see "Managing team access to an organization repository" for details)					X
+Manage outside collaborator access to a repository					X
+Change a repository's visibility					X
+Make a repository a template (see "Creating a template repository")					X
+Change a repository's settings					X
+Manage team and collaborator access to the repository					X
+Edit the repository's default branch					X
+Rename the repository's default branch (see "Renaming a branch")					X
+Rename a branch other than the repository's default branch (see "Renaming a branch")			X	X	X
+Manage webhooks and deploy keys					X
+Manage data use settings for your private repository					X
+Manage the forking policy for a repository					X
+Transfer repositories into the organization					X
+Delete or transfer repositories out of the organization					X
+Archive repositories					X
+Display a sponsor button (see "Displaying a sponsor button in your repository")					X
+Create autolink references to external resources, like JIRA or Zendesk (see "Configuring autolinks to reference external resources")					X
+Enable GitHub Discussions in a repository				X	X
+Create and edit categories for GitHub Discussions				X	X
+Move a discussion to a different category			X	X	X
+Transfer a discussion to a new repository			X	X	X
+Manage pinned discussions			X	X	X
+Convert issues to discussions in bulk			X	X	X
+Lock and unlock discussions		X	X	X	X
+Individually convert issues to discussions		X	X	X	X
+Create new discussions and comment on existing discussions	X	X	X	X	X
+Delete a discussion				X	X
+Permission requirements for security features
+
+In this section, you can find the repository permission levels required for security features, such as Advanced Security features.
+Repository action	Read	Triage	Write	Maintain	Admin
+Receive Dependabot alerts for vulnerable dependencies in a repository					X
+Dismiss Dependabot alerts					X
+Designate additional people or teams to receive Dependabot alerts for vulnerable dependencies					X
+Create security advisories					X
+Manage access to GitHub Advanced Security features (see "Managing security and analysis settings for your organization")					X
+Enable the dependency graph for a private repository					X
+View dependency reviews	X	X	X	X	X
+View code scanning alerts on pull requests	X	X	X	X	X
+List, dismiss, and delete code scanning alerts			X	X	X
+View secret scanning alerts in a repository			X[1]	X[1]	X
+Resolve, revoke, or re-open secret scanning alerts			X[1]	X[1]	X
+Designate additional people or teams to receive secret scanning alerts in repositories					X
+
+[1] Repository writers and maintainers can only see alert information for their own commits.
+Further reading
+
+    "Managing access to your organization's repositories"
+    "Adding outside collaborators to repositories in your organization"
+    "Project board permissions for an organization"
+
+Did this doc help you?
+
+Privacy policy
+
+Help us make these docs great!
+
+All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+
+Or, learn how to contribute.
+Still need help?
+
+    © 2021 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+    Contact GitHub
+    Pricing
+    Developer API
+    Training
+    About
+
+
