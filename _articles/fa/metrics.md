@@ -1,14 +1,8 @@
 ---
 lang: en
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+title: سنجه‌های پروژه‌های متن باز
+description: آگاهانه تصمیم‌گیری کنید تا با ارزیابی و پیگیری موفقیت، به پیشرفت پروژۀ متن باز خود کمک کنید.
 class: metrics
-toc:
-  why-measure-anything: "Why measure anything?"
-  discovery: "Discovery"
-  usage: "Usage"
-  retention: "Retention"
-  maintainer-activity: "Maintainer activity"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
@@ -16,117 +10,118 @@ related:
   - best-practices
 ---
 
-## Why measure anything?
+## چرا چیزی را ارزیابی کنیم؟
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+هنگامی که داده‌ها هوشمندانه استفاده شوند، به شما کمک می‌کنند تا به عنوان یک نگهدارندۀ متن باز تصمیمات بهتری بگیرید.
 
-With more information, you can:
+با اطلاعات بیشتر، می‌توانید:
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+* درک بهتری از واکنش کاربران به ویژگی‌های جدید داشته باشید
+* بفهمید کاربران جدید از کجا آمده‌اند
+* موارد کاربردی برجسته و قابلیت‌ها را شناسایی کنید و تصمیم بگیرید که آیا به پشتیبانی از آن‌ها ادامه می‌دهید یا خیر
+* محبوبیت پروژۀ خود را بسنجید
+* جنبه‌های کاربردی پروژه را درک کنید
+* از طریق اسپانسرها و کمک‌هزینه‌ها، پول جمع‌آوری کنید
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+به عنوان مثال، پروژۀ متن باز [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) دریافت که «Google Analytics» به آن‌ها در اولویت‌بندی کارها کمک می‌کند.
 
-> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+> «Homebrew» بصورت رایگان در اختیار کاربران قرار می‌گیرد و توسط داوطلبان در اوقات فراغت‌شان اداره می‌شود. در نتیجه، ما منابع لازم برای انجام مطالعات دقیق دربارۀ کاربران «Homebrew» را نداریم تا در مورد چگونگی بهترین طراحی برای ‌آینده و اولویت‌بندی کارهای فعلی تصمیم بگیریم. تجزیه و تحلیل کلی و ناشناس در رابطه با کاربران به ما امکان می‌دهد اصلاحات و ویژگی‌ها را بر اساس شیوه، مکان و زمان استفادۀ کاربران از «Homebrew» اولویت‌بندی کنیم.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+محبوبیت، همه چیز نیست. دلایل متفاوت زیادی برای ورود افراد در پروژه‌های متن باز وجود دارد. اگر هدف شما به عنوان نگهدارندۀ متن باز این است که کار خود را در معرض نمایش بگذارید، پس همینطور برخورد کنید یا فقط از آن لذت ببرید؛ معیارها برای شما آنچنان مهم نیستند.
 
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
+اگر _می‌خواهید_ به سطح درک عمیق‌تری دربارۀ پروژۀ خودتان برسید، روش‌های تجزیه و تحلیل فعالیت‌های پروژه خود را بدانید.
 
-## Discovery
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+## کشف و پیدا کردن
+
+قبل از اینکه کسی بتواند از پروژۀ شما استفاده کند یا در آن مشارکت داشته باشد، باید بداند که همچین پروژه‌ای وجود دارد. از خودتان بپرسید: _آیا مردم می‌توانند این پروژه را پیدا کنند؟_
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
+اگر پروژۀ شما در «GitHub» قرار دارد، [می‌توانید ببینید](https://help.github.com/articles/about-repository-graphs/#traffic) افرادی که در پروژۀ شما هستند از کجا آمده‌اند؟ در صفحه پروژۀ خود، روی «Insights» و سپس «Traffic» کلیک کنید. در این صفحه، این موارد را می‌توانید ببینید:
 
-* **Total page views:** Tells you how many times your project was viewed
+* **تعداد بازدیدها از صفحه:** به شما می‌گوید پروژه چند بار دیده شده است
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **تعداد بازدیدکنندگان منحصر به فرد:** به شما می‌گوید چند نفر پروژه را دیده‌اند
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **سایت‌های ارجاع دهنده یا معرفی‌کننده:** به شما می‌گوید، بازدیدکنندگان از کجا آمده‌اند. این معیار به شما کمک می‌کند تا بفهمید در کجا می‌توانید به مخاطب خود دسترسی پیدا کنید و آیا تلاش‌های تبلیغاتی شما موثر واقع شده است یا خیر.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
+* **محتوای محبوب:** به شما می‌گوید، بازدیدکنندگان به کدام بخش پروژۀ شما می‌روند و شمار بازدیدهای صفحه و بازدیدکنندگان منحصر به فرد را نشان می‌دهد.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+قسمت [GitHub stars](https://help.github.com/articles/about-stars/) هم می‌تواند به صورت معیاری برای محبوبیت عمل کند.اگرچه «GitHub stars» لزوماً با تعداد دانلودها و استفاده از محتوا ارتباط مستقیمی ندارد، اما این قسمت می‌تواند به شما بگوید که چه تعدادی از آدم‌ها متوجه پروژۀ شما شده‌اند..
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+همچنین شاید بخواهید قابلیت کشف شدن (شناخته‌ شدن) را در [بخش‌های مشخصی ردیابی کنید](https://opensource.com/business/16/6/pirate-metrics): به عنوان مثال، «Google PageRank»، ترافیک رجوعی به وب‌سایت پروژۀ شما، یا مراجعات از سایر پروژه‌های متنباز یا سایر وب‌سایت‌ها.
 
-## Usage
+## استفاده
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+مردم پروژۀ شما را در این دنیای عجیب‌غریبی که اینترنت می‌نامیم، پیدا می‌کنند. در بهترین حالت، وقتی پروژۀ شما را ببینند، به آن مشتاق می‌شوند و می‌خواهند کاری انجام دهند. دومین سوالی که باید از خود بپرسید این است که: _آیا مردم از این پروژه استفاده می‌کنند؟_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+اگر از یک برنامۀ مدیریت پکیج (package manager) مانند «npm» یا «RubyGems.org» برای انتشار پروژۀ خود استفاده می‌کنید، می‌توانید دانلودهای مربوط به پروژه را ردیابی کنید.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+هر برنامۀ  مدیریت پکیجی ممکن است تعریف متفاوتی از دانلود داشته باشد و دانلود لزوماً با نصب یا استفاده ارتباط داشته باشد، اما مبنایی را برای مقایسه فراهم می‌کند. برای پیگیری آمارهای مختلف می‌توانید در میان بسیاری از مدیریت‌های محبوب پیکیج، از [Libraries.io](https://libraries.io/) استفاده کنید.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+اگر پروژۀ شما در «GitHub» است، دوباره به صفحۀ «Traffic» بروید. می‌توانید از نمودار کلون [clone graph](https://github.com/blog/1873-clone-graphs) استفاده کنید تا ببینید چند بار پروژۀ شما در یک روز مشخص کپی شده است، که این نمودار براساس کل کلون‌ها (کپی‌ها) و کپی‌های منحصر به فرد مشخص شده است.
 
 ![Clone graph](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+اگر میزان استفاده در مقایسه با تعداد افرادی که پروژۀ شما را پیدا می‌کنند کم است، دو مسئله وجود دارد که باید در نظر بگیرید:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* مخاطبان به طور موفقیت‌آمیز با پروژۀ شما ارتباط نمی‌گیرند
+* یا مخاطبان اشتباهی را جذب کرده‌اید
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+به عنوان مثال، اگر پروژۀ شما در صفحۀ اول «Hacker News» قرار گیرد، احتمالاً جهشی در میزان کشف (ترافیک) اما با نرخ گرایش پایینی را مشاهده خواهید کرد؛ زیرا در Hacker News، افراد زیادی پروژۀ شما را پیدا می‌کنند. اگر پروژۀ «Ruby» شما در یک مجمع «Ruby» ارائه شده باشد، به احتمال زیاد نرخ گرایش بالایی از مخاطبان هدف را شاهد خواهید بود.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+سعی کنید بفهمید مخاطبان شما از کجا می‌آیند و از نظرات دیگران در مورد صفحۀ پروژۀ خود بهره ببرید تا متوجه شوید با کدام یک از این دو مسئله روبرو هستید.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+وقتی با مخاطبان و افرادی که از پروژۀ شما استفاده می‌کنند آشنا شدید، بهتر است بفهمید که آن‌ها چه استفاده‌ای از پروژه می‌کنند. آیا آن‌ها با فورک کردن کد شما و افزودن ویژگی‌های مختلف، بر روی آن کار می‌کنند؟ آیا آن‌ها از آن برای مصارف علمی یا تجاری استفاده می‌کنند؟
 
-## Retention
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+## استمرار و نگهداری
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+مردم پروژۀ شما را پیدا می‌کنند و از آن استفاده می‌کنند. سوالی که باید از خودتان بپرسید این است که: _آیا مردم در آن مشارکت هم می‌کنند یا خیر؟_
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+هیچ‌وقت برای فکر کردن به مشارکت‌کنندگان دیر نیست. اگر پروژۀ شما محبوب باشد (بسیاری از از آن استفاده کنند) و سایر افراد دست به کار نشوند و از آن _پشتیبانی نکنند_ خود را در موقعیتی ناسالم قرار می‌دهید (به اندازۀ کافی نگهدارنده نداشته باشید).
 
-Examples of community metrics that you may want to regularly track include:
+نگهداری، مستلزم [ورود مشارکت‌کنندگان جدید](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2) است، زیرا مشارکت‌کنندگان فعال قبلی در نهایت به سراغ کارهای دیگر می‌روند.
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+نمونه‌هایی از معیارهای انجمن که باید مرتباً آن‌ها را بررسی کنید، شامل این موارد می‌شود:
+
+* **تعداد کل مشارکت‌کنندگان و تعداد تعهدات هر مشارکت‌کننده:** به شما می‌گوید چه تعداد مشارکت‌کننده دارید و چه کسانی کم و بیش فعال هستند. این بخش را می‌توانید در «GitHub» در قسمت «Insights -> Contributors» مشاهده کنید. در حال حاضر، این نمودار فقط مشارکت‌کنندگانی که متعهد به شاخۀ پیش‌فرض مرکز ذخیره‌سازی شده‌اند را مشخص می‌کند.
 
 ![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **مشارکت‌کنندگان تازه‌کار، عادی، همیشگی:**  کمک می‌کند تا پیگیری کنید که آیا مشارکت‌کنندگان جدیدی دریافت می‌کنید یا خیر. (مشارکت‌کنندگان عادی، مشارکت‌کنندگانی با تعهدات کم هستند که البته تعریف «تعهدات کم» به خود شما بستگی دارد و می‌تواند یک یا پنج یا کمتر باشد) بدون مشارکت‌کنندگان جدید، انجمن پروژه راکد و کم‌رونق می‌شود.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **تعداد مسائل در جریان و درخواست‌های باز pull:** اگر بیش از حد زیاد شوند، ممکن است در اولویت‌بندی مسائل و بررسی کدها به کمک نیاز داشته باشید.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **تعداد مسائل باز شده (open issued)  و درخواست های باز شدۀ pull:** مسائل باز شده، یعنی کسی به اندازه کافی به پروژۀ شما اهمیت بدهد تا مسئله‌ای را باز کند. اگر این تعداد با گذشت زمان افزایش یابد، نشان‌دهندۀ این است که مردم به پروژۀ شما علاقه‌مند هستند.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **انواع مشارکت‌ها:** به عنوان مثال، نوع تعهدها، رفع اشتباهات یا اشکالات یا اظهار نظر در مورد یک موضوع.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  پروژه‌های متن باز، چیزی فراتر از کد هستند. پروژه‌های متن باز موفق شامل مشارکت در کد و مستند سازی به همراه مکالماتی در مورد این تغییرات هستند.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
 </aside>
 
-## Maintainer activity
+## فعالیت‌های شخص نگهدارنده
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+نگهدارنده‌هایی که پاسخگو نیستند به نقطۀ ضعف پروژه‌های متن باز تبدیل می‌شوند. اگر کسی مشارکتی از خود به جای بگذارد اما هرگز از یک نگهدارنده پاسخی دریافت نکند، ممکن است احساس دلسردی کرده و آنجا را ترک کند.
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+[تحقیقات که در Mozilla شکل گرفت](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) نشان می‌دهد که پاسخگو بودن نگهدارنده عاملی حیاتی در تشویق به مشارکت‌های بیشتر است.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+در نظر بگیرید که چه مدت طول می‌کشد تا شما (یا نگهدارنده‌ای دیگر) به مشارکت‌ها پاسخ دهید، خواه مسئله‌ای باشد یا درخواست pull. پاسخگو بودن نیاز به اقدام خاصی ندارد. می‌تواند به این سادگی باشد: _«ممنون از درخواست شما! در عرض یک هفته آن را بررسی می‌کنم.»_
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+همچنین می‌توانید مدت زمانی که برای تکمیل مراحل مختلف فرآیند مشارکت لازم است را اندازه بگیرید، همچون:
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+* متوسط زمان باز ماندن مسئله
+* بسته شدن مسئله توسط روابط عمومی (PR)
+* بسته شدن مسائل قدیمی
+* متوسط زمان ادغام کردن درخواست‌های pull
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
 
-## Use 📊 to learn about people
+## از آمار 📊 برای درک مردم استفاده کنید
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+درک معیارها (استانداردها) به شما کمک می‌کند تا پروژۀ متن باز فعال و رو به‌ رشدی داشته باشید. حتی اگر هم تمامی معیارها را پیگیری نمی‌کنید، از چارچوب بالا استفاده کنید تا توجه خود را به نوع رفتاری که به پیشرفت پروژه کمک می‌کند متمرکز کنید.
