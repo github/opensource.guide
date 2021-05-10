@@ -128,7 +128,7 @@ README'ler projenizi nasıl kullanacağınızı açıklamaktan daha fazlasını 
 - Kullanmaya nasıl başlarım?
 - İhtiyacım olursa nereden daha fazla yardım alabilirim?
 
-README'nizi, katkıları nasıl ele aldığınız, projenin amaçlarının ne olduğu ve lisanslar ve atıflar hakkında bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkı kabul etmek istemiyorsanız veya projeniz henüz olgun değilse, bunu mutlaka belirtin.
+README'nizi, katkıları nasıl ele aldığınız, projenin hedeflerinin ne olduğu ve lisanslar ve atıfla ilgili bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkıları kabul etmek istemiyorsanız veya projeniz henüz üretime hazır değilse, bu bilgileri not edin.
 
 <aside markdown="1" class="pquote">   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">   Daha iyi dokümantasyon, daha fazla kullanıcı, daha az destek talebi ve daha fazla katılımcı anlamına gelir. (...) Okuyucularınızın siz olmadığını unutmayın. Tamamen farklı deneyimleri olan ve projeye gelebilecek insanlar var.   <p markdown="1" class="pquote-credit"> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&amp;list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&amp;index=10)   </p></aside>
 
