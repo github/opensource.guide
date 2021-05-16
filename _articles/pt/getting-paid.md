@@ -135,7 +135,7 @@ Dependendo do seu projeto, você pode ser capaz de cobrar por suporte comercial,
 * **[Travis CI](https://github.com/travis-ci)** oferece versões pagas de seu produto
 * **[Ghost](https://github.com/TryGhost/Ghost)** é uma organização sem fins lucrativos, com um serviço gerenciado pago
 
-Alguns projetos populares, como o [npm](https://github.com/npm/npm) e o [Docker](https://github.com/docker/docker), conseguem até mesmo capital de risco para dar suporte ao crescimento de seu negócio.
+Alguns projetos populares, como o [npm](https://github.com/npm/cli) e o [Docker](https://github.com/docker/docker), conseguem até mesmo capital de risco para dar suporte ao crescimento de seu negócio.
 
 ### Solicite financiamento de subsídio
 

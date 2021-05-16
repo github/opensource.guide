@@ -139,7 +139,7 @@ Projenize bağlı olarak, ticari destek, barındırılan seçenekler veya ek öz
 * **[Travis CI](https://github.com/travis-ci)** ürünlerinin ücretli sürümlerini sunuyor
 * **[Ghost](https://github.com/TryGhost/Ghost)** ücretli bir yönetim servisi olan kar amacı gütmeyen bir kurumdur.
 
-[Npm](https://github.com/npm/npm) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
+[Npm](https://github.com/npm/cli) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
 
 ### Hibe fonu için başvur
 
