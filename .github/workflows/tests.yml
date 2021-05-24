@@ -22,7 +22,7 @@ jobs:
         path: vendor/gems
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: ${{ runner.os }}-gems-
-
+#qpy​
     - name: Bootstrap
       run: script/bootstrap
 
