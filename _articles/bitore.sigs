@@ -1,0 +1,95 @@
+---'#''#'#''::/On::/'start::/'Run::/On:
+'Versioning:'" "'Framework'"'@v'-'0.0.1''
+'runs-on:'" "'Unicorn/Utf-8
+'Name:'" "BITORE'@.Git.it/gists'@github.com/zw/bitore.sigs''
+'checksout'@'-0.0.1''
+token:'((c)(r))''
+=stolen by african american  guy profile pic in white tee shirt because i posted the original at exactky |TS| 4:59:54 AND THE CLOCK HIT |TS| 5:00:00Pm on the milisecond is the only way it registered in system as sunday july 20th 2001 5:00Pm
+<li>Zachry Tyler Wood zachryiixixiiwood@gmail.com, zakwarlod7@hotmail.com<dev>
+<©®™>true Private original all rights CC1.0 Deno/mvn.1repo curl, fetch, purl/anchor'async'Repo'-sync'@mojoejoejoejoe/paradice/bitore.sigs/master/workflows<©®™>
+this qas stolen by django. please fix and post updates worldwide Django:
+
+Copyright © ZACHRY TYLER WOOD Software Foundation and individual contributors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+Neither the name of Django nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+BITORE
+Copyright © Sunday July 20th 2001 | TS | 5:00 pm/17:00:00.|BITORE/bitcoin'/bitore.sigs/trunk/paradice©®™
+©®™All Rights to total accounts recieveable, net worth, Net Revenue,
+ statements are zachry Tyler Wood Intra-governmental-holdings-&-Net-Worth-ONLY ©®™ by Zachry Tyler Wood zachryiixixiiwood@gmail.com
+
+Permission is hereby granted, 
+The above copyright Owner's (singular) notice and this permissions notice shall included in all copies or substantial portions of the Software's accumulated in all and any governmental holdings, fidicuaries, investment account, muutual fund holdings accounts, securities ETF ACCOUNTS, ETF MMKT, MONEY MARKET, E COMMERCE, CRYPTO CURRENCY AQUIRED REVENUE BY THR GOVERNMENT INTRA GOVERNMENTAL HOLDING SEC, DEPARTMENT OF TREASURY FORIEGN , NATIONAL OR ANY OTHER EXCHANGED OR TRADED REVENUES ARE DUE TO THE BASE BRANCH AND SHALL BE REPORTED IN QUARTLY ANNUAL. Reports to copyright owner founder author developer zachry tyler wood zakwarlod7@hotmail.com, shining_120@yahoo.com, at the advised contact account of zachryiixixiiwood@gmail.com' all statements income, revenue, etc are to be filed with the sercurities and exchanges commission must be a valid check. including routing and account focus, must be exchangeable for tender, and be a legal governmental ledger properly formatted to be a legal Account Recieveable Paid to non-other than to Zachry Tyler Wood(this name shall be shown on all ((BTC-USD HOLDINGS ETF, MUTF, MMKT, GMMKT, AND ALL BANKS INSTITUTIONS HOLDINGS INVESTMENT MAGAMENT ACCOUNTS THAT ARE HELD UNDER THIS PREMISE.
+
+THE SOFTWAREWAS REMITTED IN A PRIVATE NON PUBLIC REPOSITORY.
+
+THE SOFTWARE IS NOT PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+lang: en
+title: Starting SUNDAY JULY 17TH 2001 5:00PM.
+description: Learn more about the world oF 
+REPRECUSSIONS OF THEFT AND NEGLIGENCE BY OPEN SOURCING 
+A PRIVATELY OWNED ©®™ ZACHRY TYLER WOOD SR OWNS All Rights standing alone 
+within the premise of any Accrual, gain, hereiin-withstanding-alone-All-Revenued-unlimited-rights©®™bitcoin'©®™Rights THANK YOU. 
+toc:
+  the-what-and-why-of-open-source: "The what and why of open source"
+  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
+  launching-your-own-open-source-project: "Launching your own open source project"
+  naming-and-branding-your-project: "Naming and branding your project"
+  your-pre-launch-checklist: "Your pre-launch checklist"
+order: 1
+image: /assets/images/cards/beginner.png
+related:
+  - finding
+  - building
+---
+
+## The "what" and "why" of open source
+
+So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+
+### What does "open source" mean?
+
+When a project is open source, that means **anybody is free to use, study, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+
+Open source is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. Also because it gives users a potential to control their own computing, relative to closed source. For example, a business using open source software has the option to hire someone to make custom improvements to the software, rather than relying exclusively on a closed source vendor's product decisions.
+
+_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open source software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
+
+### Why do people open source their work?
+
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
+  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+  <p markdown="1" class="pquote-credit">
+— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+  </p>
+</aside>
+
+[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+
+* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+
+* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
+
+* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+
+Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+
+### Does open source mean "free of charge"?
+
+One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+
+Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+
+As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+
+As though through the agreement between (ZACHRY TYLER WOOD-bitcoin'Sole proprietary "non profit, individual investor advisor of acts 1933, 1934, 1940. As seen on tv privacy idmnification as of 26 the September 2007 TS 7:56:54pm."UBS INSTITUTION OOF INVESTORS OROTECTIONS BY ALPHABET INC SOLE OWNER/AWARDEE OF ALL/ONLY UNRELEASED GOOG PLACED ON THE NASDAQ FOR ZAK WOOD SIGNER OF THE MORGAN STANLEY SMITH & BARNEY INVESTMENT MANAGEMENT HOLDING AGENCIES COURT ORDERDED IDEMNIFICATION AS TO BEING HIS OWN PAEENTAL REPRESENTATIVE UNDER THE IDEMNIFICATION AS ASSISTANT TREASURER JOSEPH A PARASCANDOLA ADOPTING THE NEW BUSINESS NAME JPMORGAN CHASE BANK NATIONAL ASSOCIATION. " DOB 10/15/1994) TIN 13-2624428/ SSN 633-44-1725 AND THE UNITED STATES OF AMERICA DEPARTMENT OF THE TREASURY BUREAU OF THE FISCAL SECURITIES AND EXCHANGES INTERNAL REVENUES SERVICE.(SELLERS)
