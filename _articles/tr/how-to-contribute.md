@@ -10,7 +10,7 @@ toc:
   finding-a-project-to-contribute-to: Katkıda bulunacak bir proje bulma
   how-to-submit-a-contribution: Katkı nasıl gönderilir?
   what-happens-after-you-submit-a-contribution: Bir katkı gönderdikten sonra ne olur?
-order: '1'
+order: 1
 image: "/assets/images/cards/contribute.png"
 related:
   - beginners
