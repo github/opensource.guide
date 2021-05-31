@@ -26,7 +26,7 @@ Bir proje açık kaynak olduğunda, **herhangi biri herhangi bir amaç için pro
 
 Açık kaynak güçlüdür çünkü fikirlerin hızla yayılmasına izin vererek, benimseme engellerini azaltır. Ayrıca, kullanıcılara kapalı kaynağa göre kendi bilgisayarlarını ve bilgisayarlarında çalışan işlemleri kontrol etme imkanı da verir. Örneğin, açık kaynak yazılım kullanan bir işletme, yalnızca kapalı kaynak satıcısının ürün kararlarına güvenmek yerine, bir kişiyi yazılımda özel iyileştirmeler yapması için işe alma seçeneğine sahiptir.
 
-*Özgür yazılım* , *açık kaynak ile* aynı proje grubunu ifade eder. Bazen [bu terimleri](https://en.wikipedia.org/wiki/Free_and_open-source_software) "ücretsiz ve açık kaynak yazılım" (FOSS) veya "ücretsiz, özgür ve açık kaynak yazılım" (FLOSS) olarak birleştirilir. *Free* ve  *Libre* özgürlüğe atıfta bulunur [fiyata değil](#a%C3%A7%C4%B1k-kaynak-%C3%BCcretsiz-anlam%C4%B1na-m%C4%B1-geliyor).
+_Özgür yazılım_ , _açık kaynak ile_ aynı proje grubunu ifade eder. Bazen [bu terimleri](https://en.wikipedia.org/wiki/Free_and_open-source_software) "ücretsiz ve açık kaynak yazılım" (FOSS) veya "ücretsiz, özgür ve açık kaynak yazılım" (FLOSS) olarak birleştirilir. *Free* ve  *Libre* özgürlüğe atıfta bulunur [fiyata değil](#a%C3%A7%C4%B1k-kaynak-%C3%BCcretsiz-anlam%C4%B1na-m%C4%B1-geliyor).
 
 ### İnsanlar neden işlerini açık kaynak olarak sunarlar?
 
@@ -68,7 +68,7 @@ Henüz ikna olmadıysanız, hedeflerinizin ne olabileceğini düşünmek için b
 
 ### Hedeflerinizi belirlemek
 
-Hedefler, neyin üzerinde çalışacağınızı, neye hayır diyeceğinizi ve başkalarından nereden yardıma ihtiyacınız olduğunu anlamanıza yardımcı olabilir. Kendinize şunu sorarak başlayın, *neden bu projeye kaynak açıyorum?*
+Hedefler, neyin üzerinde çalışacağınızı, neye hayır diyeceğinizi ve başkalarından nereden yardıma ihtiyacınız olduğunu anlamanıza yardımcı olabilir. Kendinize şunu sorarak başlayın, _neden bu projeye kaynak açıyorum?_
 
 Bu sorunun tek bir doğru cevabı yok. Tek bir proje veya farklı hedeflere sahip farklı projeler için birden fazla hedefiniz olabilir.
 
@@ -206,7 +206,7 @@ Son olarak, bir davranış kural listesi projenizin katılımcı davranışları
 
 Daha fazla bilgi için [Davranış Kuralları kılavuzumuza](../code-of-conduct/) göz atın.
 
-Katılımcıların *nasıl* davranmasını beklediğinizi iletmenin yanı sıra, bir davranış kural listesi de bu beklentilerin kimlere, ne zaman başvuruda bulunduklarına ve bir ihlal meydana geldiğinde ne yapılması gerektiğini açıklamaya meyillidir.
+Katılımcıların _nasıl_ davranmasını beklediğinizi iletmenin yanı sıra, bir davranış kural listesi de bu beklentilerin kimlere, ne zaman başvuruda bulunduklarına ve bir ihlal meydana geldiğinde ne yapılması gerektiğini açıklamaya meyillidir.
 
 Açık kaynaklı lisanslara benzer şekilde, davranış kuralları için de yeni ortaya çıkan standartlar vardır, bu yüzden kendiniz yazmak zorunda değilsiniz. [Contributor Covenant](https://contributor-covenant.org/), Kubernet, Rails ve Swift dahil olmak üzere [40.000'den fazla açık kaynaklı proje](https://www.contributor-covenant.org/adopters) tarafından kullanılan bir davranış kural listesi şablonudur. Hangi metni kullanırsanız kullanın, gerektiğinde davranış kurallarınızı uygulamak için hazırlıklı olmalısınız.
 

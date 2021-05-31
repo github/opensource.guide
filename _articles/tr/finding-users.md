@@ -86,7 +86,7 @@ Projenizi ilgili kanallarda paylaşmanın yollarını bulabilecek misiniz bir ba
 
 * **İlgili açık kaynaklı projeleri ve toplulukları tanıyın.** Bazen projenizi doğrudan tanıtmanız gerekmez. Projeniz Python'u kullanan veri bilimcileri için mükemmelse, Python veri bilimi topluluğunu tanıyın. İnsanlar sizi tanıdıkça, hakkında konuşmak ve çalışmalarınızı paylaşmak için doğal fırsatlar ortaya çıkacaktır.
 * **Projenizin çözdüğü sorunu yaşayan insanları bulun.** Projenizin hedef kitlesine giren kişileri ilgili forumlarda arayın. Projenizi bir çözüm olarak önermek için sorularına cevap verin ve uygun olduğunda temkinli bir yol bulun.
-* **Geri bildirim isteyin.** Kendinizi ve işinizi ilgili ve ilgi çekici bulabilecek bir kitleye tanıtın. Projenizden kimin faydalanacağını düşündüğünüz konusunda net olun. Cümleyi bitirmeye çalışın: *"Projemin gerçekten Y'yi yapmaya çalışan X'e yardım edeceğini düşünüyorum* ." Çalışmanızı tanıtmak yerine, başkalarının geri bildirimlerini dinleyin ve bunlara yanıt verin.
+* **Geri bildirim isteyin.** Kendinizi ve işinizi ilgili ve ilgi çekici bulabilecek bir kitleye tanıtın. Projenizden kimin faydalanacağını düşündüğünüz konusunda net olun. Cümleyi bitirmeye çalışın: _"Projemin gerçekten Y'yi yapmaya çalışan X'e yardım edeceğini düşünüyorum_ ." Çalışmanızı tanıtmak yerine, başkalarının geri bildirimlerini dinleyin ve bunlara yanıt verin.
 
 Genel olarak konuşursak, karşılığında bir şey istemeden önce başkalarına yardım etmeye odaklanın. Herkes bir projeyi çevrimiçi olarak kolayca tanıtabildiğinden, çok fazla gürültü çıkacaktır. Kalabalıktan sıyrılmak için, insanlara sadece ne istediğinizi değil, kim olduğunuzu anlatmaya çalışın.
 

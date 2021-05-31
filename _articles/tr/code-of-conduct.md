@@ -50,7 +50,7 @@ CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTIN
   </p>
 </aside>
 
-Bir ihlal meydana *gelmeden önce* davranış kurallarınızın nasıl uygulanacağını açıklamalısınız. Bunu yapmak için birkaç neden var:
+Bir ihlal meydana _gelmeden önce_ davranış kurallarınızın nasıl uygulanacağını açıklamalısınız. Bunu yapmak için birkaç neden var:
 
 * İhtiyaç duyulduğunda harekete geçme konusunda ciddi olduğunuzu gösterir.
 

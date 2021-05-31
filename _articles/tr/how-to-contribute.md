@@ -67,7 +67,7 @@ Endişe etmeyin! Açık kaynak kodlu bir projeye dahil olmanın çok farklı yol
 
 ### Kod yazarak katkıda bulunmak zorunda değilsin
 
-Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak katkıda bulunmanız gerektiğidir. Aslında, genellikle [en çok ihmal edilen veya göz ardı edilen](https://github.com/blog/2195-the-shape-of-open-source) projenin diğer kısımlarıdır. Bu tür katkılara katılmayı teklif ederek projeye *büyük bir* iyilik yapacaksınız!
+Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak katkıda bulunmanız gerektiğidir. Aslında, genellikle [en çok ihmal edilen veya göz ardı edilen](https://github.com/blog/2195-the-shape-of-open-source) projenin diğer kısımlarıdır. Bu tür katkılara katılmayı teklif ederek projeye _büyük bir_ iyilik yapacaksınız!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
@@ -189,7 +189,7 @@ Projelerin belgeleri de vardır. Bu dosyalar genellikle bir kütüphanenin dizin
 
 * **LICENCE:** Tanım gereği her açık kaynak projenin [bir açık kaynak lisansa](https://choosealicense.com) sahip olması gerekir. Projenin lisansı yoksa açık kaynak değildir.
 * **README:** README, projeye yeni topluluk üyelerini karşılayan kullanım kılavuzudur. Projenin neden yararlı olduğunu ve nasıl başlayacaklarını açıklar.
-* **CONTRIBUTING:** README dosyaları projeyi insanların *kullanmalarına* yardımcı olurken, CONTRIBUTING dökümanları insanların projeye *katkıda* bulunmalarına yardımcı olur. Hangi tür katkıların gerekli olduğunu ve sürecin nasıl çalıştığını açıklar. Her projenin bir CONTRIBUTING dosyası olmasa da, varlığı bunun katkı bekleyen bir proje olduğunu işaret eder.
+* **CONTRIBUTING:** README dosyaları projeyi insanların _kullanmalarına_ yardımcı olurken, CONTRIBUTING dökümanları insanların projeye _katkıda_ bulunmalarına yardımcı olur. Hangi tür katkıların gerekli olduğunu ve sürecin nasıl çalıştığını açıklar. Her projenin bir CONTRIBUTING dosyası olmasa da, varlığı bunun katkı bekleyen bir proje olduğunu işaret eder.
 * **CODE_OF_CONDUCT:** Davranış kuralları, katılımcıların davranışlarıyla ilgili temel kuralları belirler ve arkadaşça ve misafirperver bir ortamı oluşturmaya yardımcı olur. Her projenin bir CODE_OF_CONDUCT dosyası olmasa da, varlığı bu konuya dikkate edilen bir proje olduğunu gösterir.
 * **Diğer belgeler:** Özellikle büyük projelerde öğretici belgeler, izlenecek yollar veya yönetim politikaları gibi ek belgeler olabilir.
 
@@ -197,14 +197,14 @@ Son olarak, açık kaynak projeler tartışmaları yönetmek için aşağıdaki 
 
 * **Sorun listesi:** İnsanların projeyle ilgili sorunları tartıştıkları yerler.
 * **PR (Değişiklik istekleri):** İnsanların devam etmekte olan değişiklikleri tartıştıkları ve inceledikleri yerler.
-* **Tartışma forumları veya e-posta listeleri:** Bazı projeler, tartışma konuları için bu kanalları kullanabilir (örneğin, hata raporları veya özellik istekleri yerine *"Nasıl ...?"* veya *"Ne düşünüyorsunuz ...?" gibi*). Diğerleri, tüm konuşmalar için sorun listesini kullanır.
+* **Tartışma forumları veya e-posta listeleri:** Bazı projeler, tartışma konuları için bu kanalları kullanabilir (örneğin, hata raporları veya özellik istekleri yerine _"Nasıl ...?"_ veya _"Ne düşünüyorsunuz ...?" gibi_). Diğerleri, tüm konuşmalar için sorun listesini kullanır.
 * **Anlık sohbet kanalları:** Bazı projelerde gündelik konuşmalar, işbirlikleri ve hızlı fikir alışverişleri için sohbet kanalları (Slack veya IRC gibi) kullanılır.
 
 ## Katkıda bulunacak bir proje bulma
 
 Açık kaynak projelerin nasıl çalıştığını çözdüğünüze göre, katkıda bulunacak bir proje bulma zamanı!
 
-Daha önce hiç bir açık kaynak projeye katkıda bulunmadıysanız, *"Ülkenizin sizin için neler yapabileceğini değil * ülkeniz için neler yapabileceğinizi sorun"* diyen ABD Başkanı John F. Kennedy'yi  örnek alın.
+Daha önce hiç bir açık kaynak projeye katkıda bulunmadıysanız, _"Ülkenizin sizin için neler yapabileceğini değil, ülkeniz için neler yapabileceğinizi sorun"_ diyen ABD Başkanı John F. Kennedy'yi  örnek alın.
 
 Açık kaynağa katkıda bulunmak, farklı projelerde her seviyede gerçekleşir. İlk katkınızın tam olarak ne olacağını veya nasıl görüneceğini düşünmeniz gerekmez.
 
@@ -406,39 +406,39 @@ Bir sorunu açmadan veya bir PR oluşturmadan ya da sohbette bir soru sormadan �
 
 **Bağlam ver.** Başkalarının sizi anlamada hızlanmalarına yardımcı olun. Bir hatayla karşılaşıyorsanız, ne yapmaya çalıştığınızı ve nasıl tekrarlanabileceğini açıklayın. Yeni bir fikir önerecekseniz, neden projeye faydalı olacağını düşündüğünüzü açıklayın (sadece sizin için değil!).
 
-> 😇 *"Y yaptığımda X olmuyor"*
+> 😇 _"Y yaptığımda X olmuyor"_
 >
-> 😢 *"X çalışmıyor! Lütfen düzeltin."*
+> 😢 _"X çalışmıyor! Lütfen düzeltin."_
 
 **Ödevini önceden yap.** Bir şeyleri bilmemek normaldir, ama denediğini göster. Yardım istemeden önce, bir projenin README'sini, belgelerini, sorun listesini (açık veya kapalı), e-posta listesini kontrol ettiğinizden ve bir cevap için interneti aradığınızdan emin olun. Öğrenmeye çalıştığını gösterdiğin zaman insanlar takdir edeceklerdir.
 
-> 😇 *"X'in nasıl uygulanacağından emin değilim. Yardım belgelerini kontrol ettim ve herhangi bir yerde bulamadım."*
+> 😇 _"X'in nasıl uygulanacağından emin değilim. Yardım belgelerini kontrol ettim ve herhangi bir yerde bulamadım."_
 >
 > 😢 <em>"X nasıl yapılır?"</em>
 
 **İstekleri kısa ve öz tutun.** Bir e-posta göndermek gibi, ne kadar basit veya yararlı olursa olsun, her katkı başkasının incelemesini gerektirir. Birçok projenin, yardım için uygunların yapabileceklerinden daha fazla gelen talebi olur. Basit olun. Birinin size yardım edebilme şansını artıracaksınız.
 
-> 😇 *"Bir API öğretici belgesi yazmak istiyorum."*
+> 😇 _"Bir API öğretici belgesi yazmak istiyorum."_
 >
-> 😢 *"Geçen gün otoyoldan aşağı iniyordum ve benzin için durdum ve sonra aklıma yapmamız gereken bir şey için inanılmaz bir fikir geldi, ama bunu açıklamadan önce sana göstereyim ..."*
+> 😢 _"Geçen gün otoyoldan aşağı iniyordum ve benzin için durdum ve sonra aklıma yapmamız gereken bir şey için inanılmaz bir fikir geldi, ama bunu açıklamadan önce sana göstereyim ..."_
 
 **Tüm iletişimi herkese açık tutun.** Her ne kadar cazip olsa da, hassas bilgileri (güvenlik sorunu veya ciddi davranış ihlali gibi) paylaşmanız gerekmedikçe, geliştiricilere özel olarak ulaşmayın. Sohbeti herkese açık tuttuğunuzda, daha fazla kişi alış verişinizden öğrenebilir ve bundan faydalanabilir. Tartışmalar da kendi başlarına katkı sayılabilir.
 
-> 😇 *(yorum olarak) "@-maintainer Merhabalar! Bu PR'a nasıl devam edelim?"*
+> 😇 _(yorum olarak) "@-maintainer Merhabalar! Bu PR'a nasıl devam edelim?"_
 >
-> 😢 *(bir e-posta olarak) "Hey, e-posta yüzünden sizi rahatsız ettiğim için özür dilerim, ancak PR'mi gözden geçirme şansınız olup olmadığını merak ediyordum"*
+> 😢 _(bir e-posta olarak) "Hey, e-posta yüzünden sizi rahatsız ettiğim için özür dilerim, ancak PR'mi gözden geçirme şansınız olup olmadığını merak ediyordum"_
 
 **Soru sormak sorun değil (ama sabırlı olun!).** Herkes bir zamanlar projede yeniydi ve deneyimli katılımcıların bile yeni bir projeye bakarken hız kazanmaları gerekiyor. Aynı şekilde, uzun süredir devam edenler bile, projenin her bölümüne aşina değildir. Onlara size göstermelerini istediğiniz sabrı gösterin.
 
-> 😇 *"Bu hatayı incelediğiniz için teşekkür ederiz. Önerilerinizi takip ettim. İşte sonuç."*
+> 😇 _"Bu hatayı incelediğiniz için teşekkür ederiz. Önerilerinizi takip ettim. İşte sonuç."_
 >
-> 😢 *"Neden sorunumu çözemiyorsun? Bu senin projen değil mi?"*
+> 😢 _"Neden sorunumu çözemiyorsun? Bu senin projen değil mi?"_
 
 **Topluluk kararlarına saygı gösterin.** Fikirleriniz, toplumun öncelikleri veya vizyonundan farklı olabilir. Geri bildirim sunabilir veya fikrinizi sürdürmemeye karar verebilirler. Tartışmanız ve uzlaşı aramanız gerekirken, geliştiriciler kararınızla sizden daha uzun yaşamak zorundadır. Düşüncelerine katılmıyorsanız, her zaman kendi çatalınızla çalışabilir veya kendi projenizi başlatabilirsiniz.
 
-> 😇 *"Fikrimi destekleyemediğiniz için hayal kırıklığına uğradım, ancak bunun sadece kullanıcıların küçük bir bölümünü etkilediğini açıkladığınızdan, nedenini anlıyorum. Dinlediğiniz için teşekkürler."*
+> 😇 _"Fikrimi destekleyemediğiniz için hayal kırıklığına uğradım, ancak bunun sadece kullanıcıların küçük bir bölümünü etkilediğini açıkladığınızdan, nedenini anlıyorum. Dinlediğiniz için teşekkürler."_
 >
-> 😢 *"Neden fikrimi desteklemiyorsun? Bu kabul edilemez!"*
+> 😢 _"Neden fikrimi desteklemiyorsun? Bu kabul edilemez!"_
 
 **Her şeyden önce, zarif olun.** Açık kaynak dünyanın her yerinden ortak çalışanlardan oluşur. Bağlam diller, kültürler, coğrafyalar ve zaman dilimleri arasında kaybolur. Ek olarak, yazılı iletişim bir ton veya ruh halini iletmeyi zorlaştırır. Bu konuşmaların niyetlerinin iyi olduğunu düşünün. Bir fikre kibarca geri dönmek, daha fazla içerik istemek veya konumunuzu daha da netleştirmek iyi bir şey. İnterneti bulduğunuzdan daha iyi bir yer bırakmaya çalışın.
 
