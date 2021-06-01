@@ -300,7 +300,7 @@ redirect_from: /zh-cn/starting-a-project/
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    项目使用一致的代码风格和明确的功能/方法/可用的名字
+    项目使用一致的代码风格和明确的函数/方法/变量的名字
   </label>
 </div>
 
