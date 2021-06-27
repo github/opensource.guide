@@ -1,7 +1,7 @@
 ---
 layout: article-alt
 title: Legal Disclaimer and Notices
-lang: en
+lang: vn
 untranslated: true
 ---
 
