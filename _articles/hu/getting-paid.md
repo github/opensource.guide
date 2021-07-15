@@ -136,7 +136,7 @@ A projektedtől függően kérhetsz támogatást szupportért, új funkcióért,
 * **[Travis CI](https://github.com/travis-ci)** kínál fizetős verziót privát használatra
 * **[Ghost](https://github.com/TryGhost/Ghost)** alapvetően non-profit, de a felügyelt szolgáltatásért fizetni kell
 
-Néhány híres projekt, mint az [npm](https://github.com/npm/npm) és a [Docker](https://github.com/docker/docker), még kockázati tőkét is bevontak a növekedés finanszírozásához.
+Néhány híres projekt, mint az [npm](https://github.com/npm/cli) és a [Docker](https://github.com/docker/docker), még kockázati tőkét is bevontak a növekedés finanszírozásához.
 
 ### Jelentkezz pályázatokra
 

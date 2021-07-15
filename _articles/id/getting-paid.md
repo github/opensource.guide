@@ -129,7 +129,7 @@ Anda mungkin memberikan tambahan biaya untuk dukungan komersial, opsi hosting, a
 * **[Travis CI](https://github.com/travis-ci)** menawarkan versi berbayar untuk produknya
 * **[Ghost](https://github.com/TryGhost/Ghost)** bersifat nirlaba dengan layanan pembayaran
 
-Beberapa proyek yang populer, seperti [npm](https://github.com/npm/npm) dan [Docker](https://github.com/docker/docker), bahkan mengajukan pendanaan pada venture capital untuk mendukung pertumbuhan bisnisnya.
+Beberapa proyek yang populer, seperti [npm](https://github.com/npm/cli) dan [Docker](https://github.com/docker/docker), bahkan mengajukan pendanaan pada venture capital untuk mendukung pertumbuhan bisnisnya.
 
 ### Mengajukan hibah pendanaan
 
