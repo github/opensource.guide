@@ -1,12 +1,12 @@
-$(function() {
-    $(document).click(function() {
+$(() => {
+    $(document).click(() => {
       // Hiding ToC
       $('.toc-trigger').removeClass('toc-open');
       $('.toc-list').removeClass('is-shown');
     });
 
     // Toggle Nav on Click
-    $('.toc-trigger').click(function(e) {
+    $('.toc-trigger').click(e => {
         // Prevent bubbling event for proper hiding
         e.stopPropagation();
         // Calling a function in case you want to expand upon this.
