@@ -2,7 +2,7 @@
 layout:
 ---
 
-(function() {
+(() => {
 
 var searchWorker;
 var searchURL = "{{ "/search/" | relative_url }}";
@@ -13,7 +13,7 @@ var searchBox = document.getElementById('search-box');
 document.addEventListener("DOMContentLoaded", setup);
 window.addEventListener("popstate", maintainHistoryState);
 
-function setup() {
+const setup = () => {
   var searchQuery = getQueryVariable('q');
 
   // Search term was provided in URL
@@ -22,12 +22,12 @@ function setup() {
   }
 
   // Listen for changes to search box
-  searchBox.addEventListener('keyup', function(e) {
+  searchBox.addEventListener('keyup', e => {
     search(searchBox.value);
   });
 }
 
-function search(searchTerm) {
+const search = searchTerm => {
   updateHistory(searchTerm);
   setSearchingState();
 
@@ -37,7 +37,7 @@ function search(searchTerm) {
   if(!searchWorker) {
     searchWorker = new Worker("{{ "/js/search_worker.js" | relative_url }}");
 
-    searchWorker.addEventListener("message", function(e) {
+    searchWorker.addEventListener("message", e => {
       displaySearchResults(e.data);
     });
   }
@@ -45,7 +45,7 @@ function search(searchTerm) {
   searchWorker.postMessage(searchTerm);
 }
 
-function displaySearchResults(results) {
+const displaySearchResults = results => {
   var searchResults = document.getElementById('search-results');
 
   if (results.length) {
@@ -55,7 +55,7 @@ function displaySearchResults(results) {
   }
 }
 
-function getQueryVariable(variable) {
+const getQueryVariable = variable => {
   var query = window.location.search.substring(1);
   var vars = query.split('&');
 
@@ -68,15 +68,15 @@ function getQueryVariable(variable) {
   }
 }
 
-function setSearchingState() {
+const setSearchingState = () => {
   document.body.classList.add("searching");
 }
 
-function unsetSearchingState() {
+const unsetSearchingState = () => {
   document.body.classList.remove("searching");
 }
 
-function updateHistory(searchTerm) {
+const updateHistory = searchTerm => {
   var newURL = searchURL + "?q=" + encodeURIComponent(searchTerm);
 
   if (replaceState) {
@@ -85,12 +85,12 @@ function updateHistory(searchTerm) {
     history.pushState({search: searchTerm}, "", newURL);
     replaceState = true;
     clearTimeout(replaceStateTimeout)
-    replaceStateTimeout = setTimeout(function() { replaceState = false; }, 5000);
+    replaceStateTimeout = setTimeout(() => { replaceState = false; }, 5000);
   }
 }
 
 // event handler for the "popstate" event
-function maintainHistoryState(event) {
+const maintainHistoryState = event => {
   if(!event.state) {
     unsetSearchingState();
   } else if (event.state.search) {
