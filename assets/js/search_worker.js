@@ -18,7 +18,7 @@ var store = {
 };
 
 // Initialize lunr
-var idx = lunr(function () {
+var idx = lunr(() => {
   this.ref('url');
   this.field('title', { boost: 10 });
   this.field('content');
@@ -29,8 +29,8 @@ for(var id in store) {
   idx.add(store[id]);
 }
 
-onmessage = function (e) {
-  var results = idx.search(e.data).map(function(result) {
+onmessage = e => {
+  var results = idx.search(e.data).map(result => {
     return store[result.ref].html;
   });
   postMessage(results);
