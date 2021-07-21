@@ -24,7 +24,7 @@ GEM
       http_parser.rb (~> 0.6.0)
     ethon (0.14.0)
       ffi (>= 1.15.0)
-    eventmachine (1.2.7-x64-mingw32)
+    eventmachine (1.2.7)
     execjs (2.8.1)
     faraday (1.4.2)
       faraday-em_http (~> 1.0)
@@ -39,7 +39,7 @@ GEM
     faraday-excon (1.1.0)
     faraday-net_http (1.0.1)
     faraday-net_http_persistent (1.1.0)
-    ffi (1.15.1-x64-mingw32)
+    ffi (1.15.1)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (215)
@@ -221,13 +221,15 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    mini_portile2 (2.5.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.11.6-x64-mingw32)
+    nokogiri (1.11.6)
+      mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     nokogumbo (2.0.5)
       nokogiri (~> 1.8, >= 1.8.4)
@@ -270,14 +272,13 @@ GEM
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.7.7-x64-mingw32)
+    unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     yell (2.2.2)
     zeitwerk (2.4.2)
 
 PLATFORMS
   ruby
-  x64-mingw32
 
 DEPENDENCIES
   github-pages
@@ -285,4 +286,4 @@ DEPENDENCIES
   rake
 
 BUNDLED WITH
-   2.2.20
+   2.1.2
