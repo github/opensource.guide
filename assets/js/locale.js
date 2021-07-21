@@ -1,10 +1,10 @@
-$(document).ready(function() {
-  $('#language').change(function() {
+$(document).ready(() => {
+  $('#language').change(() => {
     loadLanguage($('#language option:selected').val());
   });
 });
 
-function loadLanguage(lang) {
+const loadLanguage = lang => {
   base_pathname = window.location.pathname.replace(/\/[a-z]+([_-][a-z]+)?\//, "/")
   if (lang === "en") {
     url = base_pathname
