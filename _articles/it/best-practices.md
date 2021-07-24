@@ -3,13 +3,6 @@ lang: it
 title: Buone pratiche per Maintainer
 description: Come rendere la tua vita da maintainer open source più facile. Dai processi di documentazione alla valorizzazione e utilizzo della tua community.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "Cosa significa essere un maintainer?"
-  documenting-your-processes: "Il processo di documentazione"
-  learning-to-say-no: "Imparare a dire di no"
-  leverage-your-community: "Utilizza la tua community"
-  bring-in-the-robots: "Automatizza"
-  its-okay-to-hit-pause: "Prenditi una pausa"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -283,32 +276,33 @@ Se non sei sicuro quali tool utilizzare, dai un'occhiata a come operano altri pr
 
 ## mettere in pausa è perfettamente accettabile!
 
+Il lavoro Open source una volta era motivo di gioia. Forse ora ti fa sentire ansioso o in colpa.
 
+Magari ti senti stravolto o con un senso di terrore sempre crescente quando pensi ai tuoi progetti. Nel frattempo, le issue e richieste di pull si accumulano.
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+Il burnout (esaurimento) è una reale condizione pervasiva nel lavoro open source, specialmente tra maintainer. Come maintainer, la tua felicità è un requisito non negoziabile per la soppravvivenza di qualsiasi progetto open source.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+Nonostante possa sembrare scontato, prendi una pausa! Non aspettare di essere sfinito prima di prendere una vacanza. @brettcannon, uno sviluppatore Python core, decise di prendersi [un mese di vacanza](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) dopo 14 anni di volontariato OSS.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
-
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
-
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+Come in qualsiasi altro tipo di lavoro, prendere pause regolari ti terrà riposato, felice, ed entusiasta del tuo lavoro.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+
+  Nel mantenere WP-CLI, ho scoperto di aver bisogno, prima di tutto, di prioritizzare la mia felicità, e di stabilire limiti chiari rispetto al mio coinvolgimento. Il migliore equilibrio che ho trovato sono 2-5 ore a settimana, come parte della mia normale routine lavorativa. Questo fa sì che il mio coinvolgimento rimanga appassionato e che non diventi troppo come lavoro. Dando priorità alle issue su cui lavoro, posso fare progresso regolare su ciò che ritengo sia più importante.
+
+  _In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important._
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+Prendere una pausa da lavoro open source può essere difficile quando hai la sensazione che tutti abbiano bisogno di te. Alcuni potrebbero persino farti sentire in colpa per esserti allontanato.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+Fai del tuo meglio per trovare supporto utile ai tuoi user e alla tua community mentre sei via dal progetto. Se non trovi il supporto di cui hai bisogno, prendi una pausa ugualmente. Accertati di comunicare quando non sarai disponibile, cosicchè non ci possa essere confusione davanti alle tue mancate risposte.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+Prendere una pausa vale per più che vacanze. Se non vuoi fare lavoro open source nei weekend, o durante l'orario di lavoro, comunica quelle aspettative ad altri, per fare in modo che sappiano di non disturbarti.
 
-## Take care of yourself first!
+## Prenditi cura di te, prima di tutto!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+Mantenere un progetto popolare richiede abilità differenti dalle precedenti fasi di sviluppo, ma non per questo meno gratificanti. Come maintainer, metterai in pratica abilità di leadership e abilità personali ad un livello che pochi provano. Pur non essendo sempre facile da gestire, stabilendo dei limiti chiari e accollandoti soltanto di lavoro che sei tranquillo di poter affrontare, ti aiuterà a rimanere sereno, rilassato e produttivo.
