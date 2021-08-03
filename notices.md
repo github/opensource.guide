@@ -4,7 +4,7 @@ title: Legal Disclaimer and Notices
 lang: en
 untranslated: true
 ---
-
+ 
 ## Legal Disclaimer
 
 GitHub is not a law firm. As such, GitHub does not provide legal advice. The material in this guide does not constitute legal advice nor does contributing to the guide or communicating with GitHub or other contributors about the guide create an attorney-client relationship.
