@@ -1,4 +1,4 @@
----
+--- 
 lang: fr
 title: Lancer un projet Open Source
 description: En savoir plus sur le monde de l'Open Source et préparez-vous à lancer votre propre projet.
