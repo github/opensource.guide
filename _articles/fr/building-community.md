@@ -25,7 +25,7 @@ Une façon de penser à la communauté de votre projet est ce que @MikeMcQuaid a
 Au fur et à mesure que vous construisez votre communauté, réfléchissez à la façon dont une personne en haut de l'entonnoir (un utilisateur potentiel) pourrait théoriquement se frayer un chemin vers le bas (un responsable actif). Votre but est de réduire la friction à chaque étape de l'expérience du contributeur. Quand les gens ont des victoires faciles, ils se sentent incités à faire plus.
 
 Commencez avec votre documentation:
-
+ 
 * **Facilitez l'utilisation de votre projet par quelqu'un.** [Un fichier README amical](../starting-a-project/#ecrire-un-fichier-readme) et des exemples de code clair faciliteront la tâche à tous ceux qui atterriront votre projet pour commencer.
 * **Expliquez clairement comment contribuer**, en utilisant [votre fichier CONTRIBUTING](../starting-a-project/#r&eacute;daction-de-vos-directives-de-contribution) et en gardant vos issues à jour.
 
