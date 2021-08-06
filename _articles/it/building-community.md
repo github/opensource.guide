@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+lang: it
+title: Creare community accoglienti
+description: Creare una community che incoraggia le persone ad utilizzare, contribuire a, e venerare il tuo progetto.
 class: building
 order: 4
 image: /assets/images/cards/building.png
@@ -10,156 +10,179 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## Prepara il tuo progetto al successo
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+Hai avviato il tuo progetto, si sta spargendo la voce, e la gente lo sta visitando. Ottimo! Ora, come fai in modo che rimangano nei paraggi?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+Una community accogliente è un investimento per il futuro del tuo progetto e la tua reputazione. Se il tuo progetto ha appena cominciato ad avere contributi, comincia con l'offrire ai primi contributor una buona esperienza, e rendi appetibile il loro ritorno.
 
-### Make people feel welcome
+### Falli sentire benvenuti
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+Un modo per riflettere sulla community del tuo progetto è attraverso ciò che @MikeMcQuaid chiama l'[imbuto dei contributor (contributor funnel)](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+Man mano che costruisci la tua community, considera come qualcuno all'apice dell'imbuto (un potenziale utente) possa teoricamente raggiungere il fondo (diventando un maintainer attivo). Il tuo obiettivo è ridurre la frizione dell'esperienza del contributore ad ogni stadio. Quando la gente vince facile, è incentivata a fare di più.
 
-Start with your documentation:
+Comincia con la tua documentazione:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
-* **Good first issues**: To help new contributors get started, consider explicitly [labeling issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing useful contributions, and reducing friction from users tackling issues that are too hard for their level.
+* **Rendi l'utilizzo del tuo progetto semplice** [Un amichevole README](../starting-a-project/#writing-a-readme) ed esempi di codice chiari renderanno più semplice l'inizio del lavoro da parte di coloro che si ritrovano sul tuo progetto.
+* **Spiega in modo chiaro come contribuire**, utilizzando [il tuo file CONTRIBUTING](../starting-a-project/#writing-your-contributing-guidelines) e mantenendo le tue issue aggiornate.
+* **Buone prime issue**: Per aiutare nuovi contributor ad iniziare, considera esplicitamente [di contrassegnare quelle issue semplici e adatte a principianti come tali](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). Github si prenderà cura di rendere quelle issue visibili in altri posti sulla piattaforma, incrementando i contributi utili, e riducendo la frizione creata da utenti che affrontano issue troppo difficili al loro livello.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) mostra che documentazione confusa o incompleta è il più grande problema per utenti open source. Una buona documentazione invita le persone a interagire con il tuo progetto. Prima o poi, qualcuno invierà una issue o pull request. Usa queste interazioni come opportunità di movimento verso il fondo dell'imbuto.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **Quando qualcuno si ritrova sul tuo progetto, ringraziali per il loro interesse!** Occorre soltanto un'esperienza negativa per far sì che qualcuno non voglia ritornare.
+* **Sii reattivo.** Se non rispondi alla loro issue per un mese, ci sono buon probabilità che abbiano già dimenticato il tuo progetto.
+* **Mantieni una mente aperta rispetto a quali contributi accetti** Molti contributor cominciano con un piccolo bug report o una piccola soluzione. Ci sono [molti modi di contribuire](../how-to-contribute/#what-it-means-to-contribute) ad un progetto. Lascia che le persone aiutino come vogliono aiutare.
+* **Se c'è un contributo con cui non sei d'accordo,** ringraziali per la loro idea e [spiega perchè](../best-practices/#learning-to-say-no) non è adatto allo scope del progetto, fornendo link alla documentazione relativa se disponibile.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+
+  Contribuire all'open source talvolta è più facile per qualcuno che per altri. C'è molta paura di essere rimproverati per non aver fatto qualcosa in moro corretto o non adatto. (...) Dando uno spazio dove i contributor possono contribuire anche con minori conoscenze technice (documentazione, contentuti web markdown, ecc.) puoi ridurre in maniera drastica quei timori.
+
+  _Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns._
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+La maggior parte dei contributor open source sono "contributor casuali": persone che contribuiscono al progetto soltanto occasionalmente. Un contributore casuale potrebbe non avere il tempo di essere aggiornato perfettamente con il tuo progetto. Per questo, è il tuo compito di rendere facile la loro contribuzione.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Incoraggiare altri contributor è anche un investimento per te stesso. Quando responsabilizzi i tuoi più grandi fan a eseguire il lavoro per cui sono più appassionati, c'è molta meno pressione di dover fare tutto da solo.
 
-### Document everything
+### Documenta tutto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+
+  Sei mai stato ad un evento (tech) dove non conoscevi nessuno, ma tutti gli altri sembravano fossero in gruppi a chiacchierare come vecchi amici? (...) Ora immagina che vuoi contribuire ad progetto open source, ma non vedi perchè o come questo sta succedendo.
+
+  _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
+
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+Quando incominci un nuovo progetto, tenere il tuo lavoro privato potrebbe sembrare naturale. Ma progetti open source prosperano quando documenti il tuo processo pubblicamente.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+Quando annoti il tuo processo, più persone possono rendersi partecipi ad ogni passo del tuo cammino. Potresti ricevere aiuto su qualcosa che nemmeno sapevi di aver bisogno di ricevere.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+Annotare significa più di una semplice trasposizione della documentazione puramente tecnica. Ogni volta che senti l'impulso di scrivere qualcosa o di discuterlo privatamente, domandati se puoi renderlo pubblico.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+Sii trasparente rispetto alla tua roadmap di progetto, i tipi di contributi che cerchi, come i contributi sono revisionati, o perchè hai preso certe decisioni.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+Se noti che diversi hanno lo stesso problema, documenta le tue risposte nel README.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+Quando si tratta di incontri, considera la pubblicazione delle tue note o cose da ricordare in una issue pertinente. Il feedback che riceverai tramite questo livello di trasparenza potrebbe sorprenderti.
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+Documentare tutto comprende anche il lavoro che fai. Se stai lavorando su un aggiornamento considerevole per il tuo progetto, mettilo in una pull request e marcalo come work in progress (WIP). Così facendo gli altri potranno sentirsi al più presto parte del processo.
 
-### Be responsive
+### Sii reattivo
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+Mentre [promuovi il tuo progetto](../finding-users), riceverai feedback da diverse persone. Potrebbero avere domande su come funzionano le cose, o potrebbero aver bisogno di aiuto su come cominciare.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+Cerca di rimanere reattivo quando qualcuno invia una issue, una pull request, o fa domande sul tuo progetto. Quando rispondi in fretta, li farai sentire parte di un dialogo e saranno più entusiaste a partecipare.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+Anche se non riesci a controllare la request immediatamente, prendendo atto e rendendo noto presto di averla ricevuta fa in modo che il livello di coinvolgimento aumenti. Ecco come @tdreyno ha risposto ad una pull request su [Middleman](https://github.com/middleman/middleman/pull/1466):
 
 ![Middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Uno studio condotto da Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) ha trovato che contributor che avevano ricevuto una revisione entro le 48 ore, avevano avuto una percentuale di rientro maggiore e contribuzioni ripetute.
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+Conversazioni relative al tuo progetto potrebbero anche avvenire in altri posti online come Stack Overflow, Twitter, o Reddit. Puoi configurare le tue notifiche su alcuni di questi siti per essere avvertito quando qualcuno menziona il tuo progetto.
 
-### Give your community a place to congregate
+### Offri alla tua community un posto dove radunarsi
 
-There are two reasons to give your community a place to congregate.
+Ci sono due ragioni per offrire alla tua community un posto dove possono ritrovarsi.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+La prima ragione è per loro. Aiuta a far sì che ognuno si possa conoscere. Persone aventi interessi in comune vorrano inevitabilmente un posto dove possono parlarne. E quando la comunicazione è pubblica ed accessibile, chiunque può leggere archivi passati per aggiornarsi e partecipare.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+La seconda ragione è per te. Se non offri loro un posto pubblico dove possono parlare del tuo progetto, ti contatteranno direttamente. All'inizio, rispondere a messaggi privati "solo questa volta" potrebbe sembrare abbastanza semplice. Col passare del tempo, specialmente se il tuo progetto diviene popolare, ti sentirai esausto. Resisti la tentazione di comunicare del tuo progetto in privato. Cerca invece di indirizzali verso un canale pubblico designato.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+La comunicazione pubblica può consistere in semplici accorgimenti come quello di incoraggiare le persone ad aprire una issue invece di mandarti una email direttamente o commentare sul tuo blog. Potresti inoltre configurare una mailing list o creare un account Twitter, Slack o un canale IRC predisposto alla discussione del tuo progetto. O tutto quanto sopra menzionato!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) alloca ore d'ufficio ogni due settimane per aiutare membri della community:
 
+> Kops inoltre, alloca un certo orario ogni due settimane per offrire assistanza e orientamento alla community. I maintainer di Kops hanno messo da parte tempo specifico da dedicare al lavoro con nuovi arrivati, aiutando con PRs, e discutendo nuove feature.
+>
 > Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+Eccezioni di rilievo alla comunicazione pubblica sono: 1) problemi di sicurezza e 2) violazioni ai codici di condotta sensibili. Dovresti sempre avere modalità di report separate per gestire queste problematiche privatamente. Se non vuoi utilizzare la tua email personale, configura un indirizzo email dedicato.
 
-## Growing your community
+## La crescita della tua community
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+Le community sono estremamente potenti. Tale potere può essere una benedizione così come una maledizione, a seconda di come viene esercitato. Man mano che la tua community di progetto cresce, ci sono modi per facilitare il suo divenire una forza costruttiva, anzichè una distruttiva.
 
-### Don't tolerate bad actors
+### Non tollerare i malintenzionati
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+Qualunque progetto popolare attrarrà inevitabilmente persone che vogliono danneggiare, piuttosto che aiutare, la tua community. Potrebbero cominciare discussioni inutili, disquisire su feature insignificanti, o intimidire altre persone.  
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+Adotta il più possibile una polizza tolleranza zero rispetto a questo tipo di persone. Se non controllate, persone negative di questo genere creeranno esperienze sgradevoli che potrebbero persino indurre altri membri ad abbandonare la community.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+
+  La verità è che avere una community incoraggiante e solidale è essenziale. Non riuscirei mai a fare questo lavoro senza l'aiuto dei miei colleghi, amichevoli stranieri su internet, e canali IRC loquaci. (...) Non accontentarti di meno. Non accontentarti degli stronzi.
+
+  _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
+
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+Discussioni regolari su aspetti banali del progetto distraggono gli altri, te stesso, e impedisce che ci si possa concentrare su mansioni importanti. Potrebbe succedere che nuove persone appena giunte sul tuo progetto vedano queste conversazioni e decidino di non partecipare.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+Quando noti comportamenti negativi attorno al tuo progetto, rendilo noto pubblicamente. Spiega, in un tono cortese ma fermo, come mai il loro comportamento non è accettabile. Se il problema persiste, potrebbe essere il caso di [richiedergli di andarsene](../code-of-conduct/#enforcing-your-code-of-conduct). Il tuo [codice di condotta](../code-of-conduct/) può essere una guida costruttiva per questo tipo di conversazioni.
 
-### Meet contributors where they're at
+### Incontra i contributor dove sono
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+Più la tua community cresce, più importante diventa avere buona documentazione. contributor casuali, i quali potrebbero non essere ancora familiari con il tuo progretto, leggeranno la tua documentazione per farsi il quadro del progetto e della situazione velocemente.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+Nel tuo file CONTRIBUTING, spiega esplicitamente come nuovi contributor possono iniziare. A questo fine potresti anche creare una sezione dedicata. [Django](https://github.com/django/django), per esempio, ha una pagina landing speciale per dare il benvenuto a nuovi contributor.
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+Nella tua coda di issue, marca bug come adatti a diversi tipi di contributor: per esempio, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, oppure _"documentation"_. [Queste "labels"](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) rendono semplice e veloce, per coloro che sono nuovi al tuo progetto, la rilevazione di issue e il loro inizio.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+Infine, usa la tua documentazione per far sentire tutti benvenuti ad ogni passo.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+Non interagirai con la maggior parte delle persone che atterreranno sul tuo progetto. Ci potrebbero essere contributi che nemmeno riceverai perchè qualcuno potrebbe essersi sentito impaurito o non sapeva dove cominciare. Bastano poche parole gentili e incoraggianti a far sì che qualcuno non abbandoni il tuo progetto frustrati.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+Per esempio, ecco come [Rubinius](https://github.com/rubinius/rubinius/) comincia [la sua guida contributing](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
-### Share ownership of your project
+>Volevamo cominciare col ringraziarti per aver scelto di utilizzare Rubinius. Questo progetto è un lavoro d'amore, e apprezziamo tutti gli utenti che trovano bug, migliorano i tempi di esecuzione, e aiutano con la documentazione. Ogni contributo è importante, quindi grazie per la tua partecipazione. Detto ciò, ecco alcune linee guida che ti chiediamo di seguire nell'interesse di una risoluzione positiva alla tua issue.
+>
+>We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+
+### Condividi un senso di proprietà sul progetto
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+
+  I tuoi leader avranno opinioni diverse, come è consono che sia in community sane! Ciò nonostante, occorre prendere certi accorgimenti per assicurarsi che le voci più rumorose non vincano sempre su quelle meno prominenti. In modo da poter essere anche quest'ultime sentite.
+
+  _Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard._
+
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+Le persone sono più entusiaste a contribuire quando hanno la sensazione che il progetto sia loro. Questo non significa che tu debba rinunciare alla tua visione di progetto o accetare contributi che non vuoi. Ma dando maggiore e maggiore credito per lavoro altrui, man mano incrementerai la possibilità che i tuoi contributor rimangano nei paraggi.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Vedi se riesci a trovare modi per condividere la proprietà del tuo progetto il maggiormente possibile. Ecco alcune idee:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Non risolvere semplici bug (non critici).** Usali come opportunità per la recluta di nuovi contributor, o per fare da mentore a chi vuole contribuire. Inizialmente potrebbe sembrare non naturale, ma col passare del tempo ne varrà l'investimento. Per esempio, @michaeljoseph ha richiesto a contributor di inviare una pull request su una issue [Cookiecutter](https://github.com/audreyr/cookiecutter), piuttosto che risolverla da sè.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+
+
+
 
 * **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) does.
 
