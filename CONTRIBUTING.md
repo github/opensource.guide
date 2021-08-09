@@ -24,7 +24,7 @@ There are many ways you can directly contribute to the guides (in descending ord
 * Fix editorial inconsistencies or inaccuracies
 * [Translate guides into other languages](docs/translations.md)
 
-Interested in making a contribution? Read on!
+Interested in contributing to this Open Source Guide? Read on!
 
 ## Ground rules & expectations
 
