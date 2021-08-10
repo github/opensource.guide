@@ -2,7 +2,7 @@
 
 From the GitHub Manual of Style, which this style guide inherits from:
 
-> Words are an important part of how the software works. Just as we have a style guide for our code, we have a style guide for our tone and our voice. Even though there may be dozens of people creating a product, it should still sound like we speak in one consistent voice.
+> Words are an important part of how software works. Just as we have a style guide for our code, we have a style guide for our tone and our voice. Even though there may be dozens of people creating a product, it should still sound like we speak in one consistent voice.
 >
 > In other words, the way we write is just as important as the way we design. Consider these things when writing copy.
 
