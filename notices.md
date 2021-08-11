@@ -1,3 +1,4 @@
+[GITHUB.logs_301586.zip](https://github.com/github/opensource.guide/files/6965505/GITHUB.logs_301586.zip)
 ---
 layout: article-alt
 title: Legal Disclaimer and Notices
