@@ -23,6 +23,7 @@ There are many ways you can directly contribute to the guides (in descending ord
 
 * Fix editorial inconsistencies or inaccuracies
 * [Translate guides into other languages](docs/translations.md)
+* Open-Source Software is a type of software whose code is publicly available to use and modify. Open-Source Contribution involves contributing to the development or improvement of open-source software.
 
 Interested in contributing to this Open Source Guide? Read on!
 
