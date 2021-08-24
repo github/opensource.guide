@@ -40,7 +40,7 @@ CODE_OF_CONDUCT ファイルをプロジェクトのルートディレクトリ�
 <aside markdown="1" class="pquote">
   遵守されていない行動規範は、全く行動指針がない状態よりも悪い状態です： 行動規範が遵守されていない状態は、行動規範に記載されている価値観が実際は重要でないか尊重されていないというメッセージをコミュニティの人々に与えてしまうからです。
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

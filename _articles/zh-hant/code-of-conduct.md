@@ -41,7 +41,7 @@ redirect_from: /zh-tw/code-of-conduct/
 <aside markdown="1" class="pquote">
   一份行爲守則沒有（或者不能）執行會比沒有行爲守則更糟糕。它釋放這樣一個資訊：行爲守則或者尊重在你們的社群並不重要。
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
