@@ -40,7 +40,7 @@ Coloque um arquivo CODE_OF_CONDUCT no diretório raiz do seu projeto, e faça-o 
 <aside markdown="1" class="pquote">
   Um código de conduta que não é (ou não pode ser) aplicado é pior do que não ter nenhum código de conduta: isso passa a mensagem de que os valores no código de conduta não são, na verdade, importantes ou respeitados em sua comunidade.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
