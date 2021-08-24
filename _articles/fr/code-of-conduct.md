@@ -40,7 +40,7 @@ Placez un fichier CODE_OF_CONDUCT dans le répertoire racine de votre projet et 
 <aside markdown="1" class="pquote">
   Un code de conduite qui n'est pas (ou ne peut pas être) appliqué est pire qu'aucun code de conduite: il envoie le message que les valeurs du code de conduite ne sont pas vraiment importantes ou respectées dans votre communauté.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
