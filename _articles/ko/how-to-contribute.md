@@ -46,7 +46,7 @@ related:
 
 ### 사람을 대하는 기술을 배우세요
 
-오픈소스는 갈등 해결, 팀 구성, 업무 우선순위화와 같은 리더십 및 관리 기술을 연습할 수 있는 기회를 제공합니다.
+오픈소스는 갈등 해결, 팀 구성, 업무 우선순위화와 같은 리더십과 관리 기술을 연습할 수 있는 기회를 제공합니다.
 
 ### 작은 변화라도 만들어 낼 수 있도록 힘을 실어줍니다
 
@@ -178,7 +178,7 @@ related:
 
 규모가 큰 프로젝트에는 툴링, 분류, 커뮤니티 중재, 행사 구성 같은 다양한 업무에 초점을 둔 소위원회 또는 실무 그룹이 있을 수도 있습니다. 프로젝트 웹 사이트에서 "팀" 페이지를 찾거나 거버넌스 문서 저장소에서 정보를 찾아보세요.
 
-프로젝트에도 문서가 있습니다. 이러한 파일은 대개 저장소의 최상위 레벨에 있습니다.
+프로젝트에도 문서가 있습니다. 이러한 파일은 일반적으로 저장소의 최상단에 있습니다.
 
 - **LICENSE:** 정의에 따라 모든 오픈소스 프로젝트에는 [오픈소스 라이선스가 있어야 합니다](https://choosealicense.com). 만약 프로젝트에 라이선스가 없다면 오픈소스가 아닙니다.
 - **README:** README는 프로젝트에 참여하는 새로운 커뮤니티 구성원을 환영하는 사용 설명서입니다. 프로젝트가 유용한 이유와 시작하는 방법을 설명합니다.
@@ -195,46 +195,48 @@ related:
 
 ## Finding a project to contribute to
 
-오픈소스 프로젝트가 어떻게 작동하는지 알았으니, 이제 기여할 프로젝트를 찾아야 합니다!
+오픈소스 프로젝트가 어떻게 작동하는지 알았으니, 이제 기여할 프로젝트를 찾아야 할 때입니다!
 
-이전에 오픈소스에 기여한 적이 없다면, 케네디 미국 전 대통령으로부터 조언을 구하세요. _"Ask not what your country can do for you - ask what you can do for your country."_
+오픈소스에 기여해 본 적이 없다면, 케네디 미국 전 대통령의 조언을 들어보세요. _"Ask not what your country can do for you - ask what you can do for your country."_
 
-오픈소스에 기여하는 것은 프로젝트 전반에 걸쳐 모든 수준에서 발생합니다. 여러분의 첫 번째 기여가 정확히 무엇이고 어떻게 보일지 생각할 필요가 없습니다.
+오픈소스에 기여하는 일은 프로젝트 전반에 걸쳐 모든 수준에서 발생합니다. 여러분의 첫 번째 기여가 정확히 무엇이고 어떻게 보일지 고민할 필요가 없습니다.
 
-대신, 이미 사용하고 있거나 사용하고 싶은 프로젝트에 대해 생각하는 것으로 시작하세요. 여러분이 적극적으로 기여하게 될 프로젝트는 여러분이 계속 사용하게 되는 프로젝트입니다.
+이미 사용하고 있거나 사용하고 싶은 프로젝트에 대해 생각해보세요. 여러분이 적극적으로 기여하게 될 프로젝트는 여러분이 계속 사용하는 프로젝트입니다.
 
-그 프로젝트에서, 뭔가가 더 좋거나 다를 수 있다고 생각할 때마다 본능에 따라 행동하세요.
+프로젝트 중에서, 뭔가 더 좋거나 다를 수 있다고 생각할 때마다 본능에 따라 행동하세요.
 
-오픈소스는 독점적인 클럽이 아닙니다. 여러분과 같은 사람들에 의해 만들어졌습니다. "오픈소스"는 전세계의 문제들을 유연하게 해결할 수 있는 멋진 용어입니다.
+오픈소스는 독점적인 클럽이 아니라, 여러분과 같은 사람들에 의해 만들어졌습니다. "오픈소스"는 전세계의 문제들을 해결할 수 있는 것으로 보는 멋진 용어일 뿐입니다.
 
-README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또는 여러분이 새로운 사용자로서 제대로 동작하지 않거나 문서에서 다뤄져야 할 이슈를 발견할 수도 있습니다. 그것을 무시하거나 다른 사람에게 그것을 고쳐달라고 하는 대신, 여러분이 직접 도움을 줄 수 있는지 알아보세요. 그것이 바로 오픈소스입니다!
+여러분은 README를 읽고 깨진 링크나 오타를 찾을 수 있습니다. 아니면 여러분이 새로운 사용자로서 제대로 동작하지 않거나 문서에서 다뤄져야 할 이슈를 발견할 수도 있습니다. 그것을 무시하거나 다른 사람에게 고쳐달라고 부탁하는 대신, 여러분이 직접 도움을 줄 수 있는지 알아보세요. 그것이 바로 오픈소스입니다!
 
 > [일반적인 기여의 28%](http://www.igor.pro.br/publica/papers/saner2016.pdf)는 오타 수정, 서식 재지정 또는 번역 작성과 같은 문서입니다.
 
-다음 리소스 중 하나를 사용하여 새 프로젝트를 찾고 기여할 수 있습니다.
+만약 여러분이 이미 있는 문제를 찾고 싶다면, 모든 오픈소스 프로젝트에는 처음 시작하는 사람들이 참여할 만한 이슈를 모아놓은 `/contribute` 페이지가 있습니다. GitHub에서 저장소의 메인 페이지로 이동한 후, `https://github.com/facebook/react/contribute`처럼 URL 끝에 `/contribute`를 붙여보세요.
+
+다음 리소스 중 하나를 통해 새 프로젝트를 찾고 기여할 수도 있습니다.
 
 - [GitHub Explore](https://github.com/explore/)
-- [Open Source Friday](https://opensourcefriday.com)
+- [Open Source Friday](https://opensourcefriday.com/)
 - [First Timers Only](https://www.firsttimersonly.com/)
 - [CodeTriage](https://www.codetriage.com/)
 - [24 Pull Requests](https://24pullrequests.com/)
 - [Up For Grabs](https://up-for-grabs.net/)
-- [Contributor-ninja](https://contributor.ninja)
-- [First Contributions](https://firstcontributions.github.io)
+- [Contributor-ninja](https://contributor.ninja/)
+- [First Contributions](https://firstcontributions.github.io/)
 - [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### 기여하기 전 확인할 사항
 
-기여하고 싶은 프로젝트를 찾았으면, 프로젝트가 기여를 받기에 적합한지 빠르게 확인하세요. 그렇지 않으면, 노력이 영원히 응답을 받지 못할 수도 있습니다.
+기여하고 싶은 프로젝트를 찾았으면 프로젝트가 기여를 받아들이기에 적합한지 빠르게 확인하세요. 그렇지 않으면, 여러분의 노력이 응답을 받지 못할 수도 있습니다.
 
-다음은 프로젝트가 새로운 기여자에게 적합한지 평가할 수 있는 편리한 체크리스트입니다.
+다음은 프로젝트가 새로운 기여자에게 적합한지 평가할 수 있는 유용한 체크리스트입니다.
 
 **오픈소스의 정의를 충족시킬 것**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  라이선스가 있나요? 대부분, 저장소의 최상단에 있는 LICENSE라 불리는 파일입니다.
+  라이선스가 있나요? 일반적으로 저장소의 최상단에 LICENSE라는 파일이 있습니다.
   </label>
 </div>
 
@@ -252,7 +254,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  몇 명의 기여자가 프로젝트에 참여했나요?
+  몇 명의 기여자가 프로젝트에 참여하고 있나요?
   </label>
 </div>
 
@@ -282,7 +284,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    이슈에 대한 활발한 토론이 있나요?
+    이슈에 대한 활발한 토론이 진행되고 있나요?
   </label>
 </div>
 
@@ -296,7 +298,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    이슈가 닫히고 있나요? (GitHub에서는, Issues 페이지에서 닫힌 이슈를 "closed" 탭을 눌러 볼 수 있습니다.)
+    이슈가 닫히고 있나요? (GitHub에서는 Issues 페이지에서 닫힌 이슈를 "closed" 탭을 눌러 볼 수 있습니다.)
   </label>
 </div>
 
@@ -319,7 +321,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    PR에서 활발한 토론이 진행되나요?
+    PR에서 활발한 토론이 진행되고 있나요?
   </label>
 </div>
 
@@ -333,13 +335,13 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    최근에 PR이 병합된 건 언제인가요? (GitHub에서는, Pull requests 페이지에서 "closed" 탭을 눌러 닫힌 PR을 볼 수 있습니다.)
+    최근에 PR이 병합된 건 언제인가요? (GitHub에서는 Pull Requests 페이지에서 "closed" 탭을 눌러 닫힌 PR을 볼 수 있습니다.)
   </label>
 </div>
 
 **프로젝트가 기여자를 환영할 것**
 
-친근하고 환영하는 분위기의 프로젝트는 새로운 기여자를 기꺼이 맞이합니다.
+프로젝트의 친절하고 환영하는 분위기는 새로운 기여자를 잘 수용한다는 신호입니다.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -351,7 +353,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    이슈, 토론 포럼 및 채팅(IRC 혹은 Slack 등)에 있는 사람들이 친절한가요?
+    이슈, 토론 포럼, 채팅(IRC 혹은 Slack 등)에 있는 사람들이 친절한가요?
   </label>
 </div>
 
