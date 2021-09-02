@@ -106,7 +106,7 @@ If you're not sure how to get started as a contributor, check out our [How to Co
 
 ## Launching your own open source project
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+There is no per time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
 
 Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
 
