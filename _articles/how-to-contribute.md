@@ -238,7 +238,7 @@ When you've found a project you'd like to contribute to, do a quick scan to make
 
 Here's a handy checklist to evaluate whether a project is good for new contributors.
 
-**Meets the definition of open source**
+**Meets the definition of open source vvgd**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
