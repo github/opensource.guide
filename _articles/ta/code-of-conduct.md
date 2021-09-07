@@ -40,7 +40,7 @@ related:
 <aside markdown="1" class="pquote">
   நடமுறைப்படுத்தாத (அல்லது நடமுறைப்படுத்த முடியாத) ஒரு நடத்தை விதி, நடத்தை விதித் தொகுப்பு இல்லாமலிருப்பதை விட மோசமானதாகும்: நடத்தை விதிகளில் உள்ள மதிப்புகள் உண்மையிலேயே முக்கியம் அல்ல, உங்கள் சமூகத்தில் மதிக்கப்படுவதில்லை என்று குறிப்பை அனுப்புகிறது.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

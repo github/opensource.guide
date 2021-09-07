@@ -1,6 +1,6 @@
 # Translations
 
-Thanks for your interest in helping translating the guides!
+Thanks for your interest in helping to translate the guides!
 
 ## Starting a translation
 
@@ -15,7 +15,7 @@ If there's not, then today is your day to lead this effort! Here's how to start:
 1. Create a new directory in `_articles/` for your language e.g. `_articles/es/`, copy each guide from `_articles/` into that folder and translate the content in each guide, except for the field names in the front matter between the `---`s at the top of each file, e.g., `title:` should remain unchanged. Remove the `toc:` fields (they are only used for English).
 1. Copy `index.html` to your target language index file e.g. `[_articles/es/index.html](https://github.com/github/opensource.guide/blob/HEAD/_articles/es/index.html)` and update the `lang:` and add the `permalink:` fields. Example: `lang: es` and `permalink: /es/`. All other fields' values must remain unchanged.
 1. Run `script/test` and make sure there are no failures with your translation files. Note that you may need to fix broken links.
-1. Send a pull request. (You may send a pull request before all steps above are complete: e.g., you may want to ask for help with translations, or getting tests to pass. However your pull request will not be merged until all steps above are complete.)
+1. Send a pull request. (You may send a pull request before all steps above are complete: e.g., you may want to ask for help with translations, or getting tests to pass. However, your pull request will not be merged until all steps above are complete.)
 
 Completing an initial translation of the whole site is a fairly large task. One way to break that task up is to work with other translators through pull requests on your fork. Example: [pull requests on fork for German translation](https://github.com/katrinleinweber/opensource.guide/pulls?q=is%3Apr+is%3Aclosed) and corresponding [initial pull request for German translation](https://github.com/github/opensource.guide/pull/577) on this repository. You can also [add collaborators to your fork](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) if you'd like to invite other translators to commit directly to your fork and share responsibility for merging pull requests.
 

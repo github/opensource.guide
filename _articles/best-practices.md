@@ -47,7 +47,7 @@ For example, @lord discovered that having a project vision helped him figure out
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of a half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
@@ -104,7 +104,7 @@ If you receive a contribution you don't want to accept, your first reaction migh
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  The key to handling support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
@@ -236,7 +236,7 @@ If you add tests, make sure to explain how they work in your CONTRIBUTING file.
 
 ### Use tools to automate basic maintenance tasks
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for it.
+The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for them.
 
 There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
 
