@@ -127,7 +127,7 @@ Bu tür insanlara karşı sıfır tolerans politikası benimsemek için elinizde
 
 Projenizin önemsiz yönleriyle ilgili düzenli tartışmalar, sizin de dahil olmak üzere diğerlerini önemli görevlere odaklanmaktan alıkoyuyor. Projenize gelen yeni insanlar bu konuşmaları görebilir ve katılmak istemeyebilir.
 
-Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davran%C4%B1%C5%9F-kural-listesini-g%C3%BC%C3%A7lendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
+Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davran%C4%B1%C5%9F-kurallar%C4%B1n%C4%B1z%C4%B1-g%C3%BC%C3%A7lendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
 
 ### Katkıda bulunan katılımcılarla oldukları yerde tanışın
 

@@ -10,7 +10,7 @@
 
 * Sees self as ultimate decisionmaker
 
-* Still building community reputation
+* Still building a community reputation
 
 * Has never open sourced a project before
 
