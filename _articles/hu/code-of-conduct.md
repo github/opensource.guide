@@ -40,7 +40,7 @@ Helyezd el a CODE_OF_CONDUCT állomány a projekt gyökérkönyvtárában, és h
 <aside markdown="1" class="pquote">
   Az a magatartási kódex, amelyet nem (vagy nem tudnak) betartatni rosszabb, mintha nem lenne: azt üzeni, hogy az értékek, amelyek benne megfogalmazásra kerültek nem fontosak és lényegtelenek a közösség számára.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
