@@ -46,7 +46,7 @@ CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTIN
 <aside markdown="1" class="pquote">
   Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir.
   <p markdown="1" class="pquote-credit">
-- [Ada Girişimi](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Girişimi](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

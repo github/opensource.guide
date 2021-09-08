@@ -41,7 +41,7 @@ redirect_from: /zh-cn/code-of-conduct/
 <aside markdown="1" class="pquote">
   一份行为守则没有（或者不能）执行会比没有行为守则更糟糕。它释放这样一个信息：行为守则或者尊重在你们的社区并不重要。
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
