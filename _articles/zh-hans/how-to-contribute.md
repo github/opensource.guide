@@ -15,7 +15,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我认为从开源项目中得到的收获的远大於我的贡献！
+  在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我认为从开源项目中得到的收获的远大于我的贡献！
   <p markdown="1" class="pquote-credit">
 — @errietta, ["我为何是如此的热衷于为开源软件贡献力量"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -27,7 +27,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 ### 巩固现有技能
 
-无论是撰写代码、设计用户界面、图形设计、撰写文档、亦或是组织活动，假如你有实践的愿望，你总能在开源项目中找到自己的位置。
+无论是撰写代码、设计用户界面、图形设计、撰写文档、亦或是组织活动，只要你想做，你总能在开源项目中找到自己的位置。
 
 ### 遇见那些和你志趣相投之人
 
@@ -35,7 +35,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 ### 寻找导师，并且尝试帮助他人
 
-和他人共同在一个共享的项目下工作，这意味着需要向他人解释清楚自己是如何做的，同理，也需要向他人求助，询问别人是如何做的。相互学习和彼此教学对于每位参与者都能满载而归。
+和他人共同在一个共享的项目下工作，这意味着需要向他人解释清楚自己是如何做的，同理，也需要向他人求助，询问别人是如何做的。相互学习和彼此教学可以让每位参与者都能满载而归。
 
 ### 在公众间建立你的声誉（职业口碑）
 
@@ -109,12 +109,12 @@ redirect_from: /zh-cn/how-to-contribute/
 ### 你喜欢组织活动吗？
 
 * 链接重复的问题，并建议新的问题标签，使事物井井有条
-* 通过开放的问题，并建议关闭旧的，[就像 @nzakas 为 eslint 做的](https://github.com/eslint/eslint/issues/6765)
+* 通过开放新的问题，并建议关闭旧的，[就像 @nzakas 为 eslint 做的](https://github.com/eslint/eslint/issues/6765)
 * 把最近开放的问题阐述清晰，以推动讨论
 
 ### 享受编码的乐趣？
 
-* 找到一个开放的问题并解决它，[就像 @dianjin 为 Leaflet 做的](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* 找到一个打开的问题并解决它，[就像 @dianjin 为 Leaflet 做的](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
 * 想一想你是否可以帮忙写一个新的功能
 * 自动化项目设置
 * 改进工具和测试
@@ -129,7 +129,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 * 为他人的提交审核代码
 * 为如何利用项目撰写教程
-* 为其他贡献者做导师，[正如 @ereichert 为 @bronzdoc 所做的那样，哦，是 Rust 项目](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* 为其他贡献者做导师，[正如 @ereichert 为 @bronzdoc 在 Rust 项目中所做的那样](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
 ### 其实不必一定是软件项目！
 
@@ -169,8 +169,8 @@ redirect_from: /zh-cn/how-to-contribute/
 
 * **作者:** 项目的创始人或创始组织
 * **归属者:** 代码仓库或组织的管理员（不一定和作者是同一个人）
-* **维护者:** 贡献者，负责项目的未来走向和组织的管理（他们通常也是项目的作者或归属者。）
-* **贡献者:** 只要是为项目做出了贡献，就算。
+* **维护者:** 贡献者，负责项目的未来走向和组织的管理（他们通常也是项目的作者或归属者）
+* **贡献者:** 只要是为项目做出了贡献，就算是贡献者
 * **社区成员:** 那些使用项目的人们。他们或许是积极的讨论者，又或者是为项目的方向提出意见的人。
 
 一个较大的项目，可能下面还会细分子社区，或者是针对不同的任务分成不同的小组，比如工具小组、分流、社区事务、以及活动组织等。径直到项目到网站，找到"团队"页面，或者是查看治理文档，从而获得类似到信息。
@@ -422,7 +422,7 @@ redirect_from: /zh-cn/how-to-contribute/
 >
 > 😢 _"你为什么不修复我的问题？这难道不是你的项目吗？"_
 
-**尊重社区的决定。** 你的想法可能会和社区的优先级、愿景等有差异，他们可能对于你的想法提供了反馈和最后决定的理由，这时你应该去积极的讨论，并寻求妥协的办法，维护者必须慎重的考虑你的想法。但是如果你实在是不能同意社区的做法，你可以坚持下去！继续维护自己的分支，或者另起炉灶。
+**尊重社区的决定。** 你的想法可能会和社区的优先级、远景等有差异，他们可能对于你的想法提供了反馈和最后决定的理由，这时你应该去积极的讨论，并寻求妥协的办法，维护者必须慎重的考虑你的想法。但是如果你实在是不能同意社区的做法，你可以坚持下去！继续维护自己的分支，或者另起炉灶。
 
 > 😇 _"你不能支持我的用例，我很失望，但是你的解释仅仅是对一小部分用户起作用，我理解为什么。感谢你的耐心倾听。"_
 >
@@ -446,7 +446,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  你能够从单个的项目学习到 <em>很多</em> ，只要你踊跃的去使用，在GitHub上密切观察项目，并阅读每一个 issue 和 PR。
+  你能够从单个的项目学习到 <em>很多</em> ，只要你踊跃的去使用，在 GitHub 上密切观察项目，并阅读每一个 issue 和 PR。
 <p markdown="1" class="pquote-credit">
 — @gaearon [参与项目](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
