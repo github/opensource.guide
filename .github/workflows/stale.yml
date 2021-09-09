@@ -15,8 +15,8 @@ jobs:
           had recent activity. It will be closed if no further activity occurs.
           Thank you for your contributions.
         stale-issue-label: "stale"
-        exempt-issue-labels: "pinned,security,translation"
-        days-before-issue-stale: 60
+        exempt-issue-labels: "pinned,security"
+        days-before-issue-stale: 30
         days-before-issue-close: 7
         ascending: true
         operations-per-run: 100
