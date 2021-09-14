@@ -40,7 +40,7 @@ related:
 <aside markdown="1" class="pquote">
   منشور اخلاقی‌ای که اجرا نمی‌شود (یا نمی‌توان آن را اجرا کرد) بدتر از نبود هیچ منشور اخلاقی‌ای می‌باشد: نبود منشور اخلاقی این پیام را با خود به همراه دارد که ارزش‌های درج شده در منشور اخلاقی در انجمن شما مهم نیستد و مورد احترام واقع نمی‌شوند.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
