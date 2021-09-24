@@ -3,12 +3,6 @@ lang: ms
 title: Metrik Sumber Terbuka
 description: Buat keputusan yang tepat untuk membantu projek sumber terbuka anda berkembang dengan mengukur dan mengesan kejayaannya.
 class: metrics
-toc:
-  why-measure-anything: "Mengapa mengukur apa-apa?"
-  discovery: "Penemuan"
-  usage: "Penggunaan"
-  retention: "Pengekalan"
-  maintainer-activity: "Aktiviti penyelenggara"
 order: 9
 image: /assets/images/cards/metrics.png
 related:

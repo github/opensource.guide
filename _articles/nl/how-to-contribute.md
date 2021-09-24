@@ -3,13 +3,6 @@ lang: nl
 title: Hoe u kunt bijdragen aan Open Source
 description: Wil je bijdragen aan open source? Een gids voor het maken van open source-bijdragen, voor beginners en veteranen.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Waarom bijdragen aan open source?"
-  what-it-means-to-contribute: "Wat het betekent om bij te dragen"
-  orienting-yourself-to-a-new-project: "Je oriënteren op een nieuw project"
-  finding-a-project-to-contribute-to: "Een project vinden om aan bij te dragen"
-  how-to-submit-a-contribution: "Hoe u een bijdrage kunt indienen"
-  what-happens-after-you-submit-a-contribution: "Wat gebeurt er nadat u een bijdrage heeft ingeleverd?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:

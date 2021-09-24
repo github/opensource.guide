@@ -3,13 +3,6 @@ lang: tr
 title: Projeniz için Kullanıcı Bulma
 description: Açık kaynaklı projenizin, mutlu kullanıcıların eline geçerek büyümesini sağlayın.
 class: finding
-toc:
-  spreading-the-word: Duyurmak
-  figure-out-your-message: Mesajını ilet
-  help-people-find-and-follow-your-project: İnsanların projenizi bulmasına ve takip etmesine yardımcı olun
-  go-where-your-projects-audience-is-online: Projenizin izleyicisinin (çevrimiçi) olduğu yere gidin
-  go-where-your-projects-audience-is-offline: Projenizin kitlesinin (çevrimdışı) olduğu yere gidin
-  build-a-reputation: Bir itibar oluşturun
 order: 3
 image: "/assets/images/cards/finding.png"
 related:

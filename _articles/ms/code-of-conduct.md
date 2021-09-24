@@ -3,12 +3,6 @@ lang: ms
 title: Tatakelakuan Anda
 description: Memudahkan tingkah laku masyarakat yang sihat dan konstruktif dengan menerapkan dan menguatkuasakan tatakelakuan.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "Mengapa saya memerlukan tatakelakuan?"
-  establishing-a-code-of-conduct: "Menetapkan tatakelakuan"
-  deciding-how-youll-enforce-your-code-of-conduct: "Memutuskan bagaimana anda akan melaksanakan tatakelakuan anda"
-  enforcing-your-code-of-conduct: "Menguatkuasakan tatakelakuan anda"
-  your-responsibilities-as-a-maintainer: "Tanggungjawab anda sebagai penjaga"
 order: 8
 image: /assets/images/cards/coc.png
 related:

@@ -3,13 +3,6 @@ lang: tr
 title: Geliştiriciler İçin Örnek Yöntemler
 description: Belgelendirme işlemlerinden topluluğunuzu güçlendirmeye kadar açık bir kaynak geliştiricisi olarak hayatınızı kolaylaştırın.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: Geliştirici olmak ne demektir?
-  documenting-your-processes: İşlemlerinizi belgeleme
-  learning-to-say-no: Hayır demeyi öğrenme
-  leverage-your-community: Topluluğunuzdan yararlanma
-  bring-in-the-robots: Robotları kullanın
-  its-okay-to-hit-pause: Duraklatmak sorun değildir
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

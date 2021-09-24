@@ -3,12 +3,6 @@ lang: tr
 title: Davranış Kurallarınız
 description: Bir davranış kuralını benimseyerek ve uygulayarak sağlıklı ve yapıcı topluluk davranışını kolaylaştırın.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: Neden bir davranış kural listesine ihtiyacım var?
-  establishing-a-code-of-conduct: Davranış kuralları oluşturmak
-  deciding-how-youll-enforce-your-code-of-conduct: Davranış kurallarınızı nasıl uygulayacağınıza karar verme
-  enforcing-your-code-of-conduct: Davranış kurallarınızı uygulama
-  your-responsibilities-as-a-maintainer: Bir koruyucu olarak sorumluluklarınız
 order: 8
 image: "/assets/images/cards/coc.png"
 related:
