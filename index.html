@@ -2,3 +2,92 @@
 layout: index
 lang: en
 ---
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="//s1.bdstatic.com/cache/static/jquery-1.10.2.min_f2fb5194.js"></script>
+<!-- 头部 -->
+<div class="g-hd">
+    <!-- LOGO -->
+    <h1 class="m-logo"><a href="#">LOGO</a></h1>
+    <!-- /LOGO -->
+    <!-- 导航 -->
+    <ul class="m-nav">
+        <li><a href="#">NAV1</a></li>
+        <li><a href="#">NAV2</a></li>
+        <!-- 更多导航项 -->
+    </ul>
+    <!-- /导航 -->
+</div>
+<!-- /头部 -->
+<!-- good -->
+<table cellspacing="0">...</table>
+<!-- bad -->
+<table cellSpacing="0">...</table>
+
+<!-- good -->
+<script src="esl.js"></script>
+<!-- bad -->
+<script src='esl.js'></script>
+<script src=esl.js></script>
+<audio controls>
+    <source src="audio.mp3" type="audio/mpeg">
+    <source src="audio.ogg" type="audio/ogg">
+    <object width="100" height="50" data="audio.mp3">
+        <embed width="100" height="50" src="audio.swf">
+    </object>
+</audio>
+
+<video width="100" height="50" controls>
+    <source src="video.mp4" type="video/mp4">
+    <source src="video.ogg" type="video/ogg">
+    <object width="100" height="50" data="video.mp4">
+        <embed width="100" height="50" src="video.swf">
+    </object>
+</video>
+<div class="title">我的个人主页</div>
+    <div class="menu">
+    <ul>
+    <li><a href="index.html"><b>个人主页</b></a></li>
+    <li><a href="jieshao.html">个人介绍</a></li>
+    <li><a href="zuopin.html">我的作品</a></li>
+    <li><a href="jineng.html">个人技能</a></li>
+	<li><a href="liuyan.html">在线留言</a></li>
+    </ul>
+	</div>
+    <div class="left">
+    <p><img src="img/tx.jpg" width="200"></p></div>
+    <div class="right">
+	<p>姓名： <br>籍贯： <br>电话：********<br>邮箱：********<br>
+  <br>认识别人就是智慧； 了解自己是真正的智慧。 掌握别人就是力量； 掌握自己才是真正的力量</p>
+	</div>
+//外层框架
+<frameset cols = "20%, *">
+    <frame src="left.html">
+    <frame src="right.html">
+</frameset>
+
+//里层框架
+<frameset rows = "50%,*">
+    <frame src="top.html">
+    <frame src="bottom.html" name="bottom">        
+</frameset>
+
+//锚点页
+<ul class="list">
+    <li class="in"><a href="chap1.html" target="_self">chap1(_self)</a></li>
+    <li class="in"><a href="chap2.html" target="_blank">chap2(_blank)</a></li>
+    <li class="in"><a href="chap3.html" target="_parent">chap3(_parent)</a></li>
+    <li class="in"><a href="chap4.html" target="_top">chap4(_top)</a></li>    
+    <li class="in"><a href="chap5.html" target="bottom">chap5(framename)</a></li>
+</ul>
+<a href="prev.html" rel="prev prefetch prerender">前一页</a>
+<a href="next.html" rel="next prefetch prerender">后一页</a>
+    //当然prefetch也可以用于预加载其他类型的资源
+<link rel="prefetch prerender" href="test.img">
+<div style="color: red;">
+    <a href="#">[1]从父级继承不到红色字体</a>
+    <br>
+    <a href="#" style="color: green">[2]下划线颜色与文本同色</a>
+    <br>
+    <a href="#">前面<a href="#">[3]a标签不可嵌套</a></a>
+</div>
