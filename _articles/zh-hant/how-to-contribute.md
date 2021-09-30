@@ -237,7 +237,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 **專案是否積極地接受各方的貢獻**
 
-在 master branch 上看看提交的活躍度。在 GitHub 上託管的開源專案，你可以在專案主頁上看到這些訊息。
+在 main branch 上看看提交的活躍度。在 GitHub 上託管的開源專案，你可以在專案主頁上看到這些訊息。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
