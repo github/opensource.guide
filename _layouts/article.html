@@ -14,7 +14,7 @@ layout: default
         <a class="toc-trigger d-block text-center p-3">
           <span class="text-black">{{ t.article.table_of_contents }}</span><svg height="18" class="octicon octicon-triangle-down ml-2 fill-blue v-align-middle icon-flip" viewBox="0 0 12 16" version="1.1" width="13" role="img"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"></path></svg>
         </a>
-        {% include toc.html html=content h_max=2 ordered=true class="toc-list list-style-none" item_class="border-top" anchor_class="d-block py-3 px-3" %}
+        {% include jekyll-toc.html html=content h_max=2 ordered=true class="toc-list list-style-none" item_class="border-top" anchor_class="d-block py-3 px-3" %}
       </div>
     </nav>
     <div class="col-sm-10 mx-auto lh-none cover-img">
