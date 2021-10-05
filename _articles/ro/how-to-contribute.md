@@ -3,13 +3,6 @@ lang: ro
 title: Cum să contribui la open source?
 description: Dorești să contribui la open source? Un ghid pentru facerea de contribuții open source, pentru începători și pentru veterani.
 class: contribute
-toc:
-  why-contribute-to-open-source: "De ce să contribui la open source?"
-  what-it-means-to-contribute: "Ce înseamnă să contribui"
-  orienting-yourself-to-a-new-project: "Orientându-te către un nou proiect"
-  finding-a-project-to-contribute-to: "Găsind un proiect la care să contribui"
-  how-to-submit-a-contribution: "Cum să trimiți o contribuție?"
-  what-happens-after-you-submit-a-contribution: "Ce are loc după ce trimiți o contribuție?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:

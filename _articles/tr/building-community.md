@@ -3,10 +3,6 @@ lang: tr
 title: Misafirperver Topluluklar Oluşturma
 description: İnsanları projenizi kullanmaya, katkıda bulunmaya ve uyarlamaya teşvik eden bir topluluk oluşturmak.
 class: building
-toc:
-  setting-your-project-up-for-success: Projenizi başarı için hazırlamak
-  growing-your-community: Topluluğunuzu büyütmek
-  resolving-conflicts: Çatışmaları çözmek
 order: 4
 image: /assets/images/cards/building.png
 related:

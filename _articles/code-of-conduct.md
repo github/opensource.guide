@@ -3,12 +3,6 @@ lang: en
 title: Your Code of Conduct
 description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
-  your-responsibilities-as-a-maintainer: "Your responsibilities as a maintainer"
 order: 8
 image: /assets/images/cards/coc.png
 related:

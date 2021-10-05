@@ -3,10 +3,6 @@ lang: nl
 title: Bouwen aan gastvrije gemeenschappen
 description: Een gemeenschap opbouwen die mensen aanmoedigt om uw project te gebruiken, eraan bij te dragen en het te evangeliseren.
 class: building
-toc:
-  setting-your-project-up-for-success: "Uw project opzetten voor succes"
-  growing-your-community: "Je community laten groeien"
-  resolving-conflicts: "Conflicten oplossen"
 order: 4
 image: /assets/images/cards/building.png
 related:

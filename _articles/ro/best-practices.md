@@ -3,13 +3,6 @@ lang: ro
 title: Cele mai bune practici pentru întreținători
 description: Ușurarea vieții tale în calitate de întreținător open source, de la documentarea proceselor la mobilizarea comunității
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "Ce înseamnă să fii un întreținător?"
-  documenting-your-processes: "Documentarea proceselor tale"
-  learning-to-say-no: "Învățând să spui „nu”"
-  leverage-your-community: "Mobilizarea comunității tale"
-  bring-in-the-robots: "Cheamă roboții"
-  its-okay-to-hit-pause: "Este OK să apeși pauză"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

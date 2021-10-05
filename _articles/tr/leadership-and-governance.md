@@ -3,15 +3,6 @@ lang: tr
 title: Liderlik ve Yönetim
 description: Büyüyen açık kaynak projeleri, karar almak için resmi kurallardan yararlanabilir.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: Büyüyen projeniz için yönetimi anlama
-  what-are-examples-of-formal-roles-used-in-open-source-projects: Açık kaynak projelerde kullanılan resmi rol türleri nelerdir?
-  how-do-i-formalize-these-leadership-roles: Bu liderlik rollerini nasıl formalize ederim?
-  when-should-i-give-someone-commit-access: Ne zaman birine commit izni vermeliyim?
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: Açık kaynaklı projeler için ortak yönetim yapılarının bazıları nelerdir?
-  do-i-need-governance-docs-when-i-launch-my-project: Projemi başlattığımda yönetim belgelerine ihtiyacım var mı?
-  what-happens-if-corporate-employees-start-submitting-contributions: Şirket çalışanları katkı göndermeye başlarsa ne olur?
-  do-i-need-a-legal-entity-to-support-my-project: Projemi desteklemek için tüzel kişiliğe ihtiyacım var mı?
 order: 6
 image: "/assets/images/cards/leadership.png"
 related:

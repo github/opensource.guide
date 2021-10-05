@@ -3,13 +3,6 @@ lang: en
 title: Best Practices for Maintainers
 description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

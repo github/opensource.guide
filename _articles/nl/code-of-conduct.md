@@ -3,12 +3,6 @@ lang: nl
 title: Uw gedragscode
 description: Faciliteer gezond en constructief gedrag in de gemeenschap door een gedragscode aan te nemen en af te dwingen.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "Waarom heb ik een gedragscode nodig?"
-  establishing-a-code-of-conduct: "Opstellen van een gedragscode"
-  deciding-how-youll-enforce-your-code-of-conduct: "Beslissen hoe u uw gedragscode handhaaft"
-  enforcing-your-code-of-conduct: "Handhaving van uw gedragscode"
-  your-responsibilities-as-a-maintainer: "Uw verantwoordelijkheden als open source-onderhouder"
 order: 8
 image: /assets/images/cards/coc.png
 related:
