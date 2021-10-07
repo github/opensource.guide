@@ -3,14 +3,6 @@ lang: tr
 title: Açık Kaynağın Hukuki Tarafı
 description: Açık kaynağın yasal yönü hakkında merak ettiğiniz her şey ve merak etmediğiniz birkaç şey.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: İnsanlar neden açık kaynağın yasal tarafını bu kadar önemsiyorlar?
-  are-public-github-projects-open-source: Açık GitHub projeleri açık kaynak mı?
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: Sadece bana projemi korumak için ihtiyacım olan karışık metni verin.
-  which-open-source-license-is-appropriate-for-my-project: Projem için hangi açık kaynak lisansı uygundur?
-  what-if-i-want-to-change-the-license-of-my-project: Projemin lisansını değiştirmek istersem ne olur?
-  does-my-project-need-an-additional-contributor-agreement: Projemin ek bir katkı sözleşmesine ihtiyacı var mı?
-  what-does-my-companys-legal-team-need-to-know: Şirketimin hukuk ekibinin neleri bilmesi gerekiyor?
 order: 10
 image: /assets/images/cards/legal.png
 related:

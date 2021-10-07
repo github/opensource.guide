@@ -3,13 +3,6 @@ lang: ms
 title: Mencari Pengguna untuk Projek Anda
 description: Bantu projek sumber terbuka anda berkembang dengan mendapatkannya di tangan pengguna yang gembira.
 class: finding
-toc:
-  spreading-the-word: "Menyebarkan berita"
-  figure-out-your-message: "Cari tahu mesej anda"
-  help-people-find-and-follow-your-project: "Bantu orang mencari dan mengikuti projek anda"
-  go-where-your-projects-audience-is-online: "Pergi ke tempat penonton projek anda (dalam talian)"
-  go-where-your-projects-audience-is-offline: "Pergi ke tempat khalayak projek anda (luar talian)"
-  build-a-reputation: "Membina reputasi"
 order: 3
 image: /assets/images/cards/finding.png
 related:

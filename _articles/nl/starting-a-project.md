@@ -3,12 +3,6 @@ lang: nl
 title: Een open source-project starten
 description: Leer meer over de wereld van open source en bereid je voor om je eigen project te lanceren.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "Het wat en waarom van open source"
-  should-i-launch-my-own-open-source-project: "Moet ik mijn eigen open source-project lanceren?"
-  launching-your-own-open-source-project: "Uw eigen open source-project lanceren"
-  naming-and-branding-your-project: "Geef uw project een naam en branding"
-  your-pre-launch-checklist: "Uw checklist vóór de lancering"
 order: 2
 image: /assets/images/cards/beginner.png
 related:

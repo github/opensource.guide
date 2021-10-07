@@ -1,0 +1,22 @@
+name: Mark stale PRs
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 12 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/stale@v4
+      with:
+        stale-pr-message: >
+          This pull request has been automatically marked as stale because it has not
+          had recent activity. It will be closed if no further activity occurs.
+          Thank you for your contributions.
+        stale-pr-label: "stale"
+        exempt-pr-labels: "pinned,security"
+        days-before-pr-stale: 30
+        days-before-pr-close: 7
+        ascending: true
+        operations-per-run: 100

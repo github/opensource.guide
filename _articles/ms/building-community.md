@@ -3,10 +3,6 @@ lang: ms
 title: Membina Komuniti Sambutan
 description: Membangun komuniti yang mendorong orang untuk menggunakan, menyumbang, dan menginjil projek anda.
 class: building
-toc:
-  setting-your-project-up-for-success: "Menyiapkan projek anda untuk berjaya"
-  growing-your-community: "Memperkembangkan komuniti anda"
-  resolving-conflicts: "Menyelesaikan konflik"
 order: 4
 image: /assets/images/cards/building.png
 related:
