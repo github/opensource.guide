@@ -140,7 +140,7 @@ related:
 
 به عنوان مثال:
 
-* @sindresorhus [لیست‌هایی موسوم به «awesome»](https://github.com/sindresorhus/awesome) گردآوری و تنظیم می‌کند
+* @sindresorhus [لیست‌هایی موسوم به <span dir="rtl">«awesome»</span>](https://github.com/sindresorhus/awesome) گردآوری و تنظیم می‌کند
 * @h5bp [یک لیست حاوی سوالاتی جهت مصاحبه برای توسعه دهندگان فرانت اند](https://github.com/h5bp/Front-end-Developer-Interview-Questions) را نگهداری و مرتب می‌کند
 * @stuartivnn و @nicole-a-tesla [مجموعه‌ای از حقایق جالب درباره‌ی طوطی دریایی](https://github.com/stuartlynn/puffin_facts) ایجاد کرده‌اند.
 
