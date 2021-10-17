@@ -3,13 +3,6 @@ lang: nl
 title: Tips voor een open source-beheerder
 description: Uw leven gemakkelijker maken als open source-beheerder, van het documenteren van processen tot het benutten van uw gemeenschap.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "Wat betekent het om een open source-onderhouder te zijn?"
-  documenting-your-processes: "Documenteren van uw processen"
-  learning-to-say-no: "Nee leren zeggen"
-  leverage-your-community: "Maak gebruik van uw community"
-  bring-in-the-robots: "Breng de robots"
-  its-okay-to-hit-pause: "Het is oké om op pauze te drukken"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:

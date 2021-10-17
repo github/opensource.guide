@@ -3,13 +3,6 @@ lang: ms
 title: Cara Menyumbang kepada Sumber Terbuka
 description: Ingin menyumbang kepada sumber terbuka? Panduan untuk membuat sumbangan sumber terbuka, untuk pertama kali dan untuk veteran.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Mengapa menyumbang kepada sumber terbuka?"
-  what-it-means-to-contribute: "Apa maksudnya menyumbang"
-  orienting-yourself-to-a-new-project: "Mengarahkan diri anda ke projek baru"
-  finding-a-project-to-contribute-to: "Mencari projek untuk disumbangkan"
-  how-to-submit-a-contribution: "Cara menghantar sumbangan"
-  what-happens-after-you-submit-a-contribution: "Apa yang berlaku setelah anda menghantar sumbangan"
 order: 1
 image: /assets/images/cards/contribute.png
 related:

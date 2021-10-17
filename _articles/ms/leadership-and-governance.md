@@ -3,15 +3,6 @@ lang: ms
 title: Kepimpinan dan Pemerintahan
 description: Projek sumber terbuka yang berkembang dapat memanfaatkan peraturan formal untuk membuat keputusan.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: "Memahami tadbir urus untuk projek anda yang sedang berkembang"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "What are examples of formal roles used in open source projects?"
-  how-do-i-formalize-these-leadership-roles: "Bagaimana saya memformalkan peranan kepemimpinan ini?"
-  when-should-i-give-someone-commit-access: "Bilakah saya harus memberikan akses kepada seseorang?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Apakah beberapa struktur pemerintahan biasa untuk projek sumber terbuka?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Adakah saya memerlukan dokumen tadbir urus semasa melancarkan projek saya?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "Apa yang berlaku sekiranya pekerja korporat mula menghantar sumbangan?"
-  do-i-need-a-legal-entity-to-support-my-project: "Adakah saya memerlukan entiti undang-undang untuk menyokong projek saya?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

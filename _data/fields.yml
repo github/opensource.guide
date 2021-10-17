@@ -19,9 +19,6 @@ description:
 class:
   type: String
 
-toc:
-  type: Hash
-
 order:
   type: Integer
 

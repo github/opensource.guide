@@ -3,13 +3,6 @@ lang: nl
 title: Gebruikers zoeken voor uw project
 description: Help uw open source-project te groeien door het in handen te krijgen van tevreden gebruikers.
 class: finding
-toc:
-  spreading-the-word: "Het woord verspreiden"
-  figure-out-your-message: "Zoek uit wat je bericht is"
-  help-people-find-and-follow-your-project: "Help mensen uw project te vinden en te volgen"
-  go-where-your-projects-audience-is-online: "Ga waar het publiek van uw project is (online)"
-  go-where-your-projects-audience-is-offline: "Ga waar het publiek van uw project is (offline)"
-  build-a-reputation: "Bouw een reputatie op"
 order: 3
 image: /assets/images/cards/finding.png
 related:

@@ -3,13 +3,6 @@ lang: en
 title: How to Contribute to Open Source
 description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -249,7 +242,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Look at the commit activity on the main branch. On GitHub, you can see this information on a repository's homepage.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">

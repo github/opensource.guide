@@ -3,12 +3,6 @@ lang: tr
 title: Açık Kaynaklı bir Projeye Başlamak
 description: Açık kaynak dünyası hakkında daha fazla bilgi edinin ve kendinizi proje başlatmaya hazırlayın.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: Açık kaynağın nediri ve nedeni
-  should-i-launch-my-own-open-source-project: Kendi açık kaynak projemi başlatmalı mıyım?
-  launching-your-own-open-source-project: Kendi açık kaynak projenizi başlatmak
-  naming-and-branding-your-project: Projenizi isimlendirme ve markalama
-  your-pre-launch-checklist: Lansman öncesi kontrol listeniz
 order: 2
 image: "/assets/images/cards/beginner.png"
 related:

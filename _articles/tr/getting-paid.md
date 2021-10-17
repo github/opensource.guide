@@ -3,11 +3,6 @@ lang: tr
 title: Açık Kaynak Çalışmalar İçin Ödeme Alma
 description: Zamanınız veya projeniz için maddi destek alarak açık kaynak çabanızı sürdürün.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: Neden bazı insanlar finansal destek ister?
-  funding-your-own-time: Kendi zamanınızı finanse etme
-  finding-funding-for-your-project: Projeniz için finansman bulma
-  building-a-case-for-financial-support: Finansal destek için bir süreç oluşturma
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
