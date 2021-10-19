@@ -1,0 +1,3 @@
+hashcat -m 0 -a 0 hash.txt passwordlist.txt
+hashcat -m10 -a0 hash.txt passwordlist.txt
+hashcat -m 500 -a 0 hash.txt passwordlist.txt
