@@ -3,12 +3,6 @@ lang: tr
 title: Davranış Kurallarınız
 description: Bir davranış kuralını benimseyerek ve uygulayarak sağlıklı ve yapıcı topluluk davranışını kolaylaştırın.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: Neden bir davranış kural listesine ihtiyacım var?
-  establishing-a-code-of-conduct: Davranış kuralları oluşturmak
-  deciding-how-youll-enforce-your-code-of-conduct: Davranış kurallarınızı nasıl uygulayacağınıza karar verme
-  enforcing-your-code-of-conduct: Davranış kurallarınızı uygulama
-  your-responsibilities-as-a-maintainer: Bir koruyucu olarak sorumluluklarınız
 order: 8
 image: "/assets/images/cards/coc.png"
 related:
@@ -46,7 +40,7 @@ CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTIN
 <aside markdown="1" class="pquote">
   Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir.
   <p markdown="1" class="pquote-credit">
-- [Ada Girişimi](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Girişimi](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

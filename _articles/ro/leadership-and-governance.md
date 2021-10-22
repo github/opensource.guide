@@ -3,15 +3,6 @@ lang: ro
 title: Conducere și guvernare
 description: Proiectele în creștere cu sursă deschisă pot beneficia de reguli formale pentru luarea deciziilor.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: "Înțelegerea guvernării pentru proiectul tău în creștere"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "Care sunt exemplele de roluri formale utilizate în proiecte cu sursă deschisă?"
-  how-do-i-formalize-these-leadership-roles: "Cum formalizez aceste roluri de conducere?"
-  when-should-i-give-someone-commit-access: "Când ar trebui să dau cuiva acces de commit?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Care sunt unele dintre structurile obișnuite de guvernanță pentru proiectele cu sursă deschisă?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Am nevoie de documente de guvernare atunci când lansez proiectul meu?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "Ce se întâmplă dacă angajați din companii încep să trimită contribuții?"
-  do-i-need-a-legal-entity-to-support-my-project: "Am nevoie de o entitate juridică pentru a-mi susține proiectul?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

@@ -11,7 +11,7 @@ Where possible, [automated tests](../test/prose) enforce style rules.
 ## Content principles
 All written content should follow these principles:
 
-* **Approachability:** Don't assume reader has prior knowledge
+* **Approachability:** Don't assume the reader has prior knowledge
 * **Brevity:** Keep it simple, link to outside content for deeper dives
 * **Curation:** Amplify community best practices vs. any individual's point of view
 
@@ -34,7 +34,7 @@ When referring to a project on GitHub, link to the repository so others can dive
 "Guides" is capitalized when referring to the "Open Source Guides", but not when saying "the guide" or "this guide".
 
 - :smile: Welcome to Open Source Guides!
-- :smile: The guide is meant to..
+- :smile: The guide is meant to...
 - :cry: The goal of this Guide is to...
 
 ## More guidance
