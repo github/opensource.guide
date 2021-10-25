@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+lang: ge
+title: საუკეთესო პრაქტიკა შემსრულებლებისთვის
+description: გაამარტივეთ თქვენი ცხოვრება, როგორც ღია კოდის შემსრულებელი, პროცესების დოკუმენტირებიდან თქვენი საზოგადოების გამოყენებამდე.
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -10,19 +10,19 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## რას ნიშნავს იყო კოდის შემანარჩუნებელი??
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Iთუ თქვენ შეინარჩუნებთ ღია კოდის პროექტს, რომელსაც ბევრი ადამიანი იყენებს, თქვენ შეიძლება შეამჩნიოთ, რომ თქვენ ნაკლებად წერთ კოდს და მეტს პასუხობთ საკითხებზე.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+პროექტის ადრეულ ეტაპებზე, თქვენ ატარებთ ექსპერიმენტებს ახალ იდეებზე და იღებთ გადაწყვეტილებებს იმის მიხედვით, რაც გსურთ. რაც უფრო იზრდება თქვენი პროექტი პოპულარობით, თქვენ აღმოჩნდებით, რომ უფრო მეტად მუშაობთ თქვენს მომხმარებლებთან და კონტრიბუტორებთან.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+პროექტის შენახვა კოდზე მეტს მოითხოვს. ეს ამოცანები ხშირად მოულოდნელია, მაგრამ ისინი ისეთივე მნიშვნელოვანია მზარდი პროექტისთვის. ჩვენ შევკრიბეთ რამოდენიმე გზა, თქვენი ცხოვრების გასაადვილებლად, დაწყებული პროცესების დოკუმენტირებით დამთავრებული თქვენი საზოგადოებისთვის.
 
-## Documenting your processes
+## თქვენი პროცესების დოკუმენტირება
 
-Writing things down is one of the most important things you can do as a maintainer.
+აღწერილობა არის ერთ-ერთი ყველაზე მნიშვნელოვანი რამ, რისი გაკეთებაც შეგიძლიათ, როგორც შემნახველმა.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+დოკუმენტაცია არა მხოლოდ განმარტავს თქვენს აზროვნებას, არამედ ის ეხმარება სხვა ადამიანებს გაიგონ რა გჭირდებათ ან რას ელოდებით, სანამ მათ კითხვები გაუჩნდებათ.
 
 Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
 
