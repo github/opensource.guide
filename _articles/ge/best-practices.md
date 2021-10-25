@@ -49,42 +49,43 @@ Iთუ თქვენ შეინარჩუნებთ ღია კოდ
 
 ### აცნობეთ თქვენს მოლოდინებს
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+წესების ჩაწერა შეიძლება ნერვების მომშლელი იყოს. ზოგჯერ შეიძლება გგონიათ, რომ აკონტროლებთ სხვა ადამიანების ქცევას ან კლავთ მთელ გართობას.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+თუმცა, სამართლიანად დაწერილი და აღსრულებული, კარგი წესები აძლიერებს შემსრულებლებს. ისინი ხელს გიშლიან იმაში, რომ არ ჩაითრიონ ისეთი რამ, რისი გაკეთებაც არ გინდა.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+ადამიანების უმეტესობამ, ვინც ხვდება თქვენს პროექტს, არაფერი იცის თქვენზე ან თქვენს გარემოებებზე. მათ შეიძლება ჩათვალონ, რომ ფულს იღებთ მასზე მუშაობისთვის, განსაკუთრებით თუ ეს არის ის, რასაც ისინი რეგულარულად იყენებენ და დამოკიდებულნი არიან. შესაძლოა ერთ მომენტში დიდი დრო დაუთმოთ თქვენს პროექტს, მაგრამ ახლა დაკავებული ხართ ახალი სამსახურით ან ოჯახის წევრით..
 
-All of this is perfectly okay! Just make sure other people know about it.
+ეს ყველაფერი სავსებით მისაღებია! უბრალოდ დარწმუნდით, რომ სხვა ადამიანებმა იციან ამის შესახებ.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+თუ თქვენი პროექტის შენარჩუნება არის ნახევარ განაკვეთზე ან წმინდა ნებაყოფლობით, იყავით გულწრფელი იმის შესახებ, თუ რამდენი დრო გაქვთ. ეს არ არის იგივე თუ რამდენი დრო ჭირდება
+პროექტზე მუშაობას.
 
-Here are a few rules that are worth writing down:
+აქ არის რამდენიმე წესი, რომელთა ჩაწერა ღირს:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* როგორ ხდება შეტანილი წვლილის განხილვა და მიღება (_სჭირდებათ მათ ტესტები? პრობლემის შაბლონი?_)
+* კონტრიბუციის ტიპებ რომლებსაც მიიღებთ (_გსურთ დახმარება მხოლოდ თქვენი კოდის გარკვეულ ნაწილთან დაკავშირებით?_)
+* როდის არის მიზანშეწონილი დაკვირვება (_მაგალითისთვის, "თქვენ შეიძლება ელოდოთ პასუხს 7 დღის განმავლობაში შემსრულებლისგან. ამ დროის მანძილზე თუ არ შეგეხმიანეს თავისუფლად იგრძენი თავი თემის დასაპინგად."_)
+*  რამდენ დროს გამოყოფთ პროექტისთვის (_მაგალითისთვის, "ჩვენ მხოლოდ 5 საათს ვუთმობთ ყოველ კივრა ამ პროექტს"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), და [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) არის პროექტების რამდენიმე მაგალითი, ძირითადი წესებით შემსრულებლებისა და კონტრიბუტორებისთვის.
 
-### Keep communication public
+### მიყევით საჯარო კომუნიკაციას 
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+არ დაგავიწყდეთ თქვენი ურთიერთქმედების დოკუმენტირებაც. სადაც  შეგიძლიათ, განაგრძოთ კომუნიკაცია თქვენი პროექტის შესახებ საჯაროდ. თუ ვინმე შეეცდება თქვენთან პირადად დაკავშირებას ფუნქციის მოთხოვნის ან მხარდაჭერის საჭიროების განსახილველად, თავაზიანად მიმართეთ მას საჯარო საკომუნიკაციო არხზე, როგორიცაა: საფოსტო სია ან საკითხის ტრეკერი.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+თუ თქვენ შეხვდებით სხვა დამხმარეებს, ან მიიღებთ მნიშვნელოვან გადაწყვეტილებას პირადში, დააფიქსირეთ ეს საუბრები საჯაროდ, თუნდაც ეს მხოლოდ თქვენი შენიშვნების გამოქვეყნებაა.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+ამგვარად, ნებისმიერს, ვინც თქვენს საზოგადოებას შეუერთდება, ექნება წვდომა იმავე ინფორმაციაზე, როგორც ვინმეს, ვინც იქ წლების განმავლობაში იმყოფება.
 
-## Learning to say no
+## ისწავლე უარის თქმა
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+შენ დაწერე აღწერილობა. იდეალურ შემთხვევაში, ყველა წაიკითხავს თქვენს დოკუმენტაციას, მაგრამ სინამდვილეში, თქვენ უნდა შეახსენოთ სხვებს, რომ ამის აღწერა არსებობს.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+თუმცა, ყველაფრის ჩაწერა დაგეხმარებათ იმ სიტუაციების დეპერსონალიზაციაში, როდესაც თქვენი წესების დაცვა გჭირდებათ.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+არას თქმა არ არის სახალისო, მაგრამ  _"თქვენს მიერ შეტანილი წვლილი არ ემთხვევა ამ პროექტის კრიტერიუმებს"_ იგრძნობა ნაკლებად პირადულად ვიდრე _"მე არ მომწონს შენს მიერ შეტანილი წვლილი"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+უარყოფა შესაძლოა მოგიწიოთ ბევრ სიტუაციაში რომელსაც შეხვდებით. 
 
 ### Keep the conversation friendly
 
