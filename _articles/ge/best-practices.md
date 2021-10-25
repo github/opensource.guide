@@ -30,23 +30,24 @@ Iთუ თქვენ შეინარჩუნებთ ღია კოდ
 
 გახსოვდეთ, შეინარჩუნოთ დოკუმენტაცია განახლებული. თუ ყოველთვის არ შეგიძლიათ ამის გაკეთება, წაშალეთ თქვენი მოძველებული დოკუმენტაცია ან მიუთითეთ ის მოძველებულია, რათა კონტრიბუტორებმა იცოდნენ, რომ განახლებები მისასალმებელია.
 
-### Write down your project's vision
+### ჩამოწერეთ თქვენი პროექტის ხედვა
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+დაიწყე შენი პროექტის მიზნის ჩამოწერა. დაამატეთ ის თქვენს README ფაილში, ან შექმენით ცალკე ფაილი სახელად VISION. ასევე ეს ყველაფერი გახადეთ საჯარო.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+მკაფიო, დოკუმენტირებული ხედვის ქონა გინარჩუნებთ კონცენტრირებას.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+მაგალითისთვის, @lord აღმოაჩინა რომ პროექტის ხედვა დაეხმარა მას იმის გარკვევაში, თუ რომელ მოთხოვნაზე დაეხარჯა დრო. როგორც ახალმა შემსრულებელი, ის ნანობდა, რომ არ დაემორჩილა თავისი პროექტის ფარგლებს, როდესაც მიიღო მისი პირველი მოთხოვნა ფუნქციის გაუმჯობესების . [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of a half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  მე შევცდი. მე არ დამიხარჯია დრო იმაზე რომ მიმეღო საბოლოო გამოსავალი. იმის ნაცვლად რომ არ
+  შემიფასებია შესაბამისად, ვისურვებდი მეთქვა "მე არ მქონდა დრო მაგისთვის ამ ეტაპზე, მაგრამ მე მას დავამატებ გრძელვადიან სასიამოვნო პროდუქტთა სიას."
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["რჩევები ღია კოდის დამწყები შემსრულებლებისთვის"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### აცნობეთ თქვენს მოლოდინებს
 
 Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
 
