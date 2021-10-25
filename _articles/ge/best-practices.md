@@ -87,75 +87,74 @@ Iთუ თქვენ შეინარჩუნებთ ღია კოდ
 
 უარყოფა შესაძლოა მოგიწიოთ ბევრ სიტუაციაში რომელსაც შეხვდებით. 
 
-### Keep the conversation friendly
+### შეინარჩუნეთ საუბარი მეგობრულად
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+ერთ-ერთი ყველაზე მნიშვნელოვანი ადგილი, სადაც თქვენ ივარჯიშებთ არას თქმაში, არის თქვენი საკითხი და მოთხოვნის რიგის გაყვანა. როგორც პროექტის შემსრულებელი, თქვენ აუცილებლად მიიღებთ წინადადებებს, რომელთა მიღებაც არ გსურთ.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+შესაძლოა კონტრიბუცია ცვლის თქვენი პროექტის ფარგლებს ან არ ემთხვევა თქვენს ხედვას. შეიძლება იდეა კარგია, მაგრამ განხორციელება ცუდია.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+განურჩევლად მიზეზისა, შესაძლებელია ტაქტიკურად გამოიყენოთ წვლილი, რომელიც არ აკმაყოფილებს თქვენი პროექტის სტანდარტებს.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+თუ თქვენ მიიღებთ წვლილს, რომლის მიღებაც არ გსურთ, თქვენი პირველი რეაქცია შეიძლება იყოს მისი უგულებელყოფა ან თითქოს, რომ არ გინახავთ. ამით შეიძლება ზიანი მიაყენოს სხვის გრძნობებს და თქვენი საზოგადოების სხვა პოტენციური კონტრიბუტორების დემოტივაციასაც კი მოახდენს.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handling support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  ფართომასშტაბიანი ღია კოდის პროექტების მხარდაჭერის გასაღები არის პრობლემების მოძრაობა. შეეცადეთ თავიდან აიცილოთ პრობლემების შეჩერება. თუ თქვენ iOS-ის დეველოპერი ხართ, იცით, რამდენად სამარცხვინო შეიძლება იყოს რადარების გაგზავნა. შეიძლება გაიგოთ 2 წლის შემდეგ და გითხრეს, რომ ხელახლა სცადოთ iOS-ის უახლესი ვერსიით.
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["ღია კოდის თემების მასშტაბირება"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+არ დატოვოთ არასასურველი წვლილი ღია, რადგან თავს დამნაშავედ გრძნობთ ან გსურთ იყოთ კეთილგანწყობილი. დროთა განმავლობაში, თქვენი პასუხგაუცემელი საკითხები და PR-ები გახდის თქვენს პროექტზე მუშაობას უფრო სტრესული და დამაშინებელი.
+უმჯობესია დაუყოვნებლივ დახუროთ ის შენატანები, რომელთა მიღებაც იცით, რომ არ გსურთ. თუ თქვენი პროექტი უკვე განიცდის დიდ ჩამორჩენას, @steveklabnik აქვს წინადადებები [როგორ მოვაგვაროთ საკითხები ეფექტურად](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+მეორეც, შენატანების იგნორირება უარყოფით სიგნალს უგზავნის თქვენს საზოგადოებას. პროექტში წვლილის შეტანა შეიძლება დამაშინებელი იყოს, განსაკუთრებით თუ ეს ვინმესთვის პირველად ხდება. მაშინაც კი, თუ თქვენ არ მიიღებთ მათ წვლილს, აღიარეთ ის, ვინც მის უკან დგას და მადლობა გადაუხადეთ ინტერესისათვის. ეს საკმაოდ დიდი კომპლიმენტია!
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+თუ არ გსურთ წვლილის მიღება:
 
-If you don't want to accept a contribution:
+* **გადაუხადე მადლობა** მათი წვლილისთვის (კონტრიბუციისთვის)
+* **აუხსენი რატო არ ჯდებაt** პროექტის ფარგლებში და შესთავაზეთ მკაფიო წინადადებები გაუმჯობესებისთვის, თუ შეგიძლიათ. იყავი კეთილი, მაგრამ მტკიცე.
+* **მიაბით ბმული შესაბამისი დოკუმენტაციით**, თუ გაქვთ იგი. თუ შეამჩნევთ განმეორებით მოთხოვნებს იმ საკითხებზე, რისი მიღებაც არ გსურთ, დაამატეთ ისინი თქვენს დოკუმენტაციაში, რათა თავიდან აიცილოთ საკუთარი თავის გამეორება.
+* **დახურეთ მოთხოვნა**
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
-
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+პასუხისთვის 1-2 წინადადებაზე მეტი არ უნდა დაგჭირდეთ.მაგალითისთვის, როდესაც მომხმარებელი [celery](https://github.com/celery/celery/) მოახსენა Windows-თან დაკავშირებული ერორი, @berkerpeksag [პასუხი გასცა](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+თუ არას თქმის ფიქრი გაშინებთ, თქვენ მარტო არ ხართ. როგორც @jessfraz [აღწერს](https://blog.jessfraz.com/post/the-art-of-closing/):
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> მე ვესაუბრე დამხმარეებს სხვადასხვა ღია კოდის პროექტებიდან, Mesos, Kubernetes, Chromium, და ისინი ყველა თანხმდებიან, რომ ერთ-ერთი უმძიმესი ნაწილია , შემსრულებელზე უარის თქმა.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+ნუ იგრძნობთ თავს დამნაშავედ იმის გამო, რომ არ გსურთ ვინმეს კონტრიბუციის მიღება. ღია წყაროს პირველი წესი, [twitter-ზე](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"უარი დროებითია, თანხმობა სამუდამო."_ მიუხედავად იმისა, რომ სხვისი ენთუზიაზმით თანაგრძნობა კარგია, წვლილის უარყოფა არ არის იგივე, რაც მის უკან მყოფი ადამიანის უარყოფა.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+საბოლოო ჯამში, თუ კონტრიბუცია საკმარისად კარგი არ არის, თქვენ არ ხართ ვალდებული მიიღოთ იგი. იყავით კეთილი და პასუხისმგებელი, როდესაც ადამიანები წვლილი შეაქვს თქვენს პროექტში, მაგრამ მიიღეთ მხოლოდ ის ცვლილებები, რომლებიც ნამდვილად გჯერათ, რომ თქვენი პროექტს უკეთესს გახდის. რაც უფრო ხშირად ვარჯიშობთ არას თქმაში, მით უფრო ადვილი ხდება კბირდებით.
 
-### Be proactive
+### იყავი პრო-აქტიური
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+არასასურველი შენატანების მოცულობის შესამცირებლად, პირველ რიგში, ახსენით თქვენი პროექტის პროცესი წვლილის წარდგენისა და მიღების შესახებ თქვენს დამხმარე სახელმძღვანელოში.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+თუ თქვენ იღებთ ძალიან ბევრ უხარისხო შენატანს, მოითხოვეთ, რომ კონტრიბუტორებმა წინასწარ გააკეთონ ცოტა სამუშაო, მაგალითად:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* შეავსეთ საკითხი ან PR შაბლონი/შემოწმების სია
+* გახსენით საკითხი PR-ის გაგზავნამდე
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+თუ ისინი არ იცავენ თქვენს წესებს, დაუყოვნებლივ დახურეთ საკითხი და მიუთითეთ თქვენს დოკუმენტაციაზე.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+მიუხედავად იმისა, რომ ეს მიდგომა თავიდან შეიძლება არაკეთილსინდისიერი იყოს, პროაქტიული ყოფნა რეალურად კარგია ორივე მხარისთვის. ეს ამცირებს იმის შანსს, რომ ვინმემ დახარჯოს უამრავ ფუჭად დახარჯულ სამუშაო საათებში მოთხოვნის მოთხოვნა, რომელსაც თქვენ არ ეთანხმებით. და ეს გაადვილებს თქვენი დატვირთვის მართვას.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  იდეალურ შემთხვევაში, აუხსენით მათ  CONTRIBUTING.md ფაილი და აღუწერეთ, თუ როგორ შეუძლიათ მიიღონ უკეთესი მითითება მომავალში იმის შესახებ, თუ რას მიიღებენ ან არ მიიღებენ სამუშაოს დაწყებამდე.
   <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["გთხოვთ დახუროთ მოთხოვნა"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+ხანდახან, როცა უარს ამბობთ, შესაძლოა თქვენი პოტენციური კონტრიბუტორი განაწყენდეს ან გააკრიტიკოს თქვენი გადაწყვეტილება. თუ მათი ქცევა მტრული ხდება, [მიიღეთ ზომები სიტუაციის განმუხტვის მიზნით](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) ან თუნდაც წაშალეთ ისინი თქვენი ქომუნითისგან, თუ მათ არ სურთ კონსტრუქციული თანამშრომლობა.
 
-### Embrace mentorship
+### მიიღეთ მენტორობა
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+შესაძლოა, ვინმე თქვენს საზოგადოებაში რეგულარულად წარადგენს შენატანებს, რომლებიც არ შეესაბამება თქვენი პროექტის სტანდარტებს. ორივე მხარისთვის შეიძლება იყოს იმედგაცრუებული, განმეორებით უარის თქმა.
 
 If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
 
