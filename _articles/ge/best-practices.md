@@ -24,11 +24,11 @@ Iთუ თქვენ შეინარჩუნებთ ღია კოდ
 
 დოკუმენტაცია არა მხოლოდ განმარტავს თქვენს აზროვნებას, არამედ ის ეხმარება სხვა ადამიანებს გაიგონ რა გჭირდებათ ან რას ელოდებით, სანამ მათ კითხვები გაუჩნდებათ.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+ჩამონაწერი აადვილებს უარის თქმას, როდესაც რაღაც არ ჯდება თქვენს ასპექტში. ეს ასევე აადვილებს ადამიანებს მონაწილეობას და დახმარებას. თქვენ არასოდეს იცით ვინ კითხულობს ან იყენებს თქვენს პროექტს.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+მაშინაც კი, თუ არ იყენებთ სრულ აბზაცებს, შენიშვნის ჩაწერა უკეთესია, ვიდრე საერთოდ არ დაწეროთ.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+გახსოვდეთ, შეინარჩუნოთ დოკუმენტაცია განახლებული. თუ ყოველთვის არ შეგიძლიათ ამის გაკეთება, წაშალეთ თქვენი მოძველებული დოკუმენტაცია ან მიუთითეთ ის მოძველებულია, რათა კონტრიბუტორებმა იცოდნენ, რომ განახლებები მისასალმებელია.
 
 ### Write down your project's vision
 
