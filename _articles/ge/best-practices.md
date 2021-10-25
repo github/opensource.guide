@@ -156,33 +156,33 @@ Iთუ თქვენ შეინარჩუნებთ ღია კოდ
 
 შესაძლოა, ვინმე თქვენს საზოგადოებაში რეგულარულად წარადგენს შენატანებს, რომლებიც არ შეესაბამება თქვენი პროექტის სტანდარტებს. ორივე მხარისთვის შეიძლება იყოს იმედგაცრუებული, განმეორებით უარის თქმა.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+თუ ხედავთ, რომ ვინმე ენთუზიაზმით არის განწყობილი თქვენი პროექტის მიმართ, მაგრამ ცოტაოდენი გაპრიალება სჭირდება, იყავით მოთმინება. ნათლად აუხსენით თითოეულ სიტუაციაში, რატომ არ აკმაყოფილებს მათი წვლილი პროექტის მოლოდინებს. სცადეთ მიუთითოთ ისინი უფრო მარტივ ან ნაკლებად ორაზროვან ამოცანაზე, როგორიცაა მონიშნული საკითხი _"კარგი პირველი საკითხი,"_ რათა მიიღონ სკილი. თუ დრო გაქვთ, იფიქრეთ მათ მენტორობაზე მათი პირველი წვლილის მეშვეობით, ან იპოვნეთ ვინმე სხვა თქვენს საზოგადოებაში, რომელიც შეიძლება მოინდომოს მათ მენტორობას.
 
-## Leverage your community
+## გამოიყენეთ თქვენი საზოგადოება
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+თქვენ არ გჭირდებათ ყველაფერი თავად გააკეთოთ. თქვენი პროექტის ქომუნითი არსებობს გარკვეული მიზნების გამო! მაშინაც კი, თუ ჯერ არ გყავთ აქტიური კონტრიბუტორების საზოგადოება, თუ ბევრი მომხმარებელი გყავთ, ამუშავეთ ისინი.
 
-### Share the workload
+### გააზიარეთ დატვირთვა
 
-If you're looking for others to pitch in, start by asking around.
+თუ თქვენ ეძებთ სხვებს, რომ წამოაყენონ, დაიწყეთ გარშემო კითხვით.
 
-One way to gain new contributors is to explicitly [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing their visibility.
+ერთი გზა ახალი კონტრიბუტორების მოსაპოვებლად არის მკაფიოდ [მონიშნეთ საკითხები, რომლებიც საკმარისად მარტივია დამწყებთათვის მოსაგვარებლად](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels).შემდეგ GitHub-ი გამოავლენს ამ საკითხებს პლატფორმის სხვადასხვა ადგილას, გაზრდის მათ ხილვადობას.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+როდესაც ხედავთ ახალ კონტრიბუტორებს, რომლებიც განმეორებით აკეთებენ წვლილს, აღიარეთ მათი ნამუშევარი მეტი პასუხისმგებლობის შეთავაზებით. დააფიქსირეთ, თუ როგორ შეიძლება სხვები გაიზარდონ ლიდერის როლებში, თუ სურთ.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+წაახალისეთ სხვები [პროექტის წილი საკუთრებაში](../building-community/#share-ownership-of-your-project) შეუძლია მნიშვნელოვნად შეამციროს საკუთარი დატვირთვა, როგორც @lmccart აღმოაჩნდა მის პროექტზე, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  მე ვამბობდი, "დიახ, ნებისმიერს შეუძლია ჩაერთოს, თქვენ არ უნდა გქონდეთ კოდირების დიდი გამოცდილება [...]." ჩვენ გვყავდა ხალხი დარეგისტრირებული, რომ მოსულიყვნენ [ივენთზე] და სწორედ მაშინ მაინტერესებდა: ეს სიმართლეა, რასაც მე ვამბობდი? მანდ იქნება 40 ადამიანი, რომელიც გამოჩნდება და არ შემიძლია თითოეულ მათგანთან ჯდომა...მაგრამ ხალხი შეიკრიბა და ამან უბრალოდ იმუშავა. როგორც კი ერთმა ადამიანმა მიიღო ეს, მათ შეეძლოთ ესწავლებინათ მეგობრისთვის.
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
+—  @lmccart, ["რას ნიშნავს თუნდაც "ღია წყარო"? p5.js გამოცემა"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+თუ თქვენ გესაჭიროებათ თქვენი პროექტისგან თავის არიდება, დროებით ან სამუდამოდ, არ არის სირცხვილი, რომ სთხოვოთ სხვას, რომ თქვენი ადგილი დაიკავოს.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+თუ სხვა ადამიანები ენთუზიაზმით არიან განწყობილნი მისი მიმართულებით, მიეცით მათ წვდომა ან ოფიციალურად გადაეცით კონტროლი სხვას. თუ ვინმემ დაფორკა თქვენი პროექტი და აქტიურად ინახავს მას სხვაგან, განიხილეთ ფორკის დაკავშირება თქვენი ორიგინალური პროექტისგან. ძალიან კარგია, რომ ბევრ ადამიანს სურს, რომ თქვენი პროექტი განაგრძოს და იყოს ლაივში!
 
 @progrium [found that](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
 
