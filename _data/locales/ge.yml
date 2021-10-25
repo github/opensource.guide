@@ -4,22 +4,22 @@ ge:
     about: ჩვენს შესახებ
     contribute: შეიტანე წვლილი 
   index:
-    lead: ღია კოდის პროგრამები შექმნილია ისეთივე ხალხით როგორიც შენ ხარ. ისწავლე როგორ დაიწყო და გაზარდო შენი პროექტები.
-    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+    lead: ღია კოდის პროგრამები შექმნილია ისეთივე ხალხით როგორიც თქვენ ხართ. ისწავლე როგორ დაიწყო და გაზარდო შენი პროექტები.
+    opensourcefriday: დღეს პარასკევია! გააკეთე რამოდენიმე საათიანი ინვესტიცია რათა წვლილი შეიტანო პროგრამაში რომელიც მოგწონს და გიყვარს
   article:
-    table_of_contents: Table of Contents
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    table_of_contents: სარჩევი
+    back_to_all_guides: მთავარზე გადასვლა
+    related_guides: დაკავშირებული თემები
   footer:
     contribute:
-      heading: Contribute
-      description: Want to make a suggestion? This content is open source. Help us improve it.
-      button: Contribute
+      heading: წვლილი შეიტანე
+      description: გსურს წინადადების შეთავაზება? ეს კონტენტო ღია წყაროა. დაგვეხმარეთ გავაუმჯობესოთ.
+      button: წვლილი შეიტანე
     subscribe:
-      heading: Stay in touch
-      description: Be the first to hear about GitHub's latest open source tips and resources.
-      label: Email Address
-      button: Subscribe
+      heading: იყავ ხაზზე
+      description: იყავი პირველი ვინც გაიგებს ღია წყაროს სიახლეს.
+      label: ელექტრონული მისამართი 
+      button: გამოწერა
     byline:
       # [code], [love], and [github] will be replaced by octicons
       format: "[code] with [love] by [github] and [friends]"
