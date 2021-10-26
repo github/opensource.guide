@@ -184,71 +184,71 @@ Iთუ თქვენ შეინარჩუნებთ ღია კოდ
 
 თუ სხვა ადამიანები ენთუზიაზმით არიან განწყობილნი მისი მიმართულებით, მიეცით მათ წვდომა ან ოფიციალურად გადაეცით კონტროლი სხვას. თუ ვინმემ დაფორკა თქვენი პროექტი და აქტიურად ინახავს მას სხვაგან, განიხილეთ ფორკის დაკავშირება თქვენი ორიგინალური პროექტისგან. ძალიან კარგია, რომ ბევრ ადამიანს სურს, რომ თქვენი პროექტი განაგრძოს და იყოს ლაივში!
 
-@progrium [found that](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [იპოვა](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) მისი პროექტის ხედვის დოკუმენტირება, [Dokku](https://github.com/dokku/dokku),დაეხმარა ამ მიზნების შენარჩუნებას მაშინაც კი, როდესაც ის დაშორდა პროექტს:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> მე დავწერე ვიკი გვერდი, სადაც აღწერილია რა მინდოდა და რატომ მინდოდა ეს. რატომღაც ჩემთვის მოულოდნელი იყო, რომ შემსრულებლებმა დაიწყეს პროექტის გადატანა ამ მიმართულებით! მოხდა ზუსტად ისე, როგორც მე გავაკეთებდი ამას? ყოველთვის არა. მაგრამ მაინც მიუახლოვდა პროექტი იმას, რაც მინდოდა.
 
-### Let others build the solutions they need
+### მიეცით საშუალება სხვებს შექმნან მათთვის საჭირო გადაწყვეტილებები
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+თუ პოტენციურ კონტრიბუტორს აქვს განსხვავებული აზრი იმის შესახებ, თუ რა უნდა გააკეთოს თქვენსმა პროექტმა, შეგიძლიათ ნაზად წაახალისოთ ისინი, რომ იმუშაონ საკუთარ დაფორკილზე.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+პროექტის დაფორკვა არ უნდა იყოს ცუდი. პროექტების კოპირება და შეცვლა ერთ-ერთი საუკეთესოა ღია კოდის შესახებ. თქვენი საზოგადოების წევრების წახალისება, რომ იმუშაონ საკუთარ ფორკირებულ რეპოსთან, შეუძლია უზრუნველყოს მათთვის საჭირო შემოქმედებითი საშუალება, თქვენი პროექტის ხედვასთან კონფლიქტის გარეშე.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  მე ვაფასებ 80% გამოყენების შემთხვევას. თუ თქვენ ერთ-ერთი ერთრქა ხართ, შეგიძლიათ დაფორკოთ. მე არ გავბრაზდები! ჩემი საჯარო პროექტები თითქმის ყოველთვის გამიზნულია ყველაზე გავრცელებული პრობლემების გადასაჭრელად; ვცდილობ გავაადვილო უფრო ღრმად ჩასვლა ჩემი ნამუშევრის კოპირებით ან გაფართოებით.
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["რატომ ვხურავ PR-ებს"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+იგივე ეხება მომხმარებელს, რომელსაც ნამდვილად სურს გამოსავალი, რომლის ასაშენებლად უბრალოდ არ გაქვთ გამტარუნარიანობა. API-ების და პერსონალიზაციის კაუჭების შეთავაზებას შეუძლია დაეხმაროს სხვებს საკუთარი საჭიროებების დაკმაყოფილებაში, წყაროს უშუალოდ შეცვლის გარეშე. @orta [იპოვა](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) CocoaPods-ის წამახალისებელმა დანამატებმა გამოიწვია „ზოგიერთი ყველაზე საინტერესო იდეა“:
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> თითქმის გარდაუვალია, რომ როგორც კი პროექტი დიდი გახდება, შემსრულებლებმა უნდა გახდნენ უფრო კონსერვატიული იმის შესახებ, თუ როგორ შემოიტანენ ახალი კოდი. „არას“ თქმაგაგიადვილდება, მაგრამ ბევრ ადამიანს აქვს ლეგიტიმური მოთხოვნილებები. ასე რომ, სამაგიეროდ თქვენ დაასრულებთ თქვენი ხელსაწყოს პლატფორმად გარდაქმნას.
 
-## Bring in the robots
+## შემოიტანეთ რობოტები
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+ისევე როგორც არის ამოცანები, რომლებშიც სხვა ადამიანები დაგეხმარებიან, ასევე არის დავალებები,რომლის განხორციელებისთვის არც არის საჭირო მათი ჩართულობა არასდროს. რობოტები შენი მეგობარია. გამოიყენეთ ისინი, რათა გააადვილოთ თქვენი, როგორც შემნახველის ცხოვრება.
 
-### Require tests and other checks to improve the quality of your code
+### მოითხოვეთ ტესტები და სხვა შემოწმება თქვენი კოდის ხარისხის გასაუმჯობესებლად
 
-One of the most important ways you can automate your project is by adding tests.
+თქვენი პროექტის ავტომატიზაციის ერთ-ერთი ყველაზე მნიშვნელოვანი გზა არის ტესტირების შესაძლებლობის დამატება.
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+ტესტები ეხმარება მონაწილეებს დარწმუნებული იყვნენ, რომ ისინი არაფერს დაარღვიებენ. ისინი ასევე გაგიადვილებთ შენატანების სწრაფად განხილვას და მიღებას.რაც უფრო პასუხისმგებელია, მით უფრო ჩართული იქნება თქვენი საზოგადოება.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+დააყენეთ ავტომატური ტესტები, რომლებიც იმუშავებს ყველა შემომავალ წვლილზე და დარწმუნდით, რომ თქვენი ტესტები ლოკალურად გატესტილი იქნება კონტრიბუტორების მიერ. მოითხოვეთ, რომ ყველა კოდის შენატანი გაიაროს თქვენი ტესტი, სანამ ისინი გაგზავნილი იქნებიან. თქვენ დაეხმარებით ყველა წარდგენის ხარისხის მინიმალური სტანდარტის დაყენებაში. [საჭიროა სტატუსის შემოწმება](https://help.github.com/articles/about-required-status-checks/) GitHub-ზე დაგეხმარებათ იმის უზრუნველსაყოფად, რომ რაიმე ცვლილება არ გაერთიანდეს თქვენი ტესტების გავლის გარეშე.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+თუ დაამატებთ ტესტებს, დარწმუნდით, რომ აუხსენით, როგორ მუშაობენ ისინი თქვენს CONTRIBUTING ფაილში.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  მე მჯერა, რომ ტესტები აუცილებელია ყველა კოდისთვის, რომელზეც ადამიანები მუშაობენ.თუ კოდი სრულად და სრულყოფილად სწორი იყო, მას ცვლილებები არ დასჭირდებოდა – ჩვენ ვწერთ კოდს მხოლოდ მაშინ, როდესაც რაღაც არასწორია, იქნება ეს „ქრაში“ თუ „აკლდება ამა თუ იმ ფუნქციას“.და განურჩევლად ცვლილებებისა, რომელსაც აკეთებთ, ტესტები აუცილებელია ნებისმიერი რეგრესიის დასაფიქსირებლად, რომელიც შეიძლება შემთხვევით შემოიღოთ.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust-ის საზოგადოების ავტომატიზაცია"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### გამოიყენეთ ინსტრუმენტები ძირითადი ტექნიკური ამოცანების ავტომატიზაციისთვის
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for them.
+კარგი ამბავი პოპულარული პროექტის შენარჩუნების შესახებ არის ის, რომ სხვა შემსრულებლებს ალბათ შეექმნათ მსგავსი პრობლემები და შექმნეს მართვის გამოსავალი.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+არსებობს [მრავალფეროვანი ხელსაწყოები](https://github.com/showcases/tools-for-open-source)  სამუშაოების ზოგიერთი ასპექტის ავტომატიზაციაში დასახმარებლად. მაგალითისთვის:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
+* [semantic-release](https://github.com/semantic-release/semantic-release) რელისების ავტომატიზირება
+* [mention-bot](https://github.com/facebook/mention-bot) ახსენებს პოტენციურ მიმომხილველებს მოზიდვის მოთხოვნებისთვის
+* [Danger](https://github.com/danger/danger) ეხმარება კოდის მიმოხილვის ავტომატიზაციას
+* [no-response](https://github.com/probot/no-response) ხურავს საკითხებს, სადაც ავტორს არ უპასუხა დამატებითი ინფორმაციის მოთხოვნაზე
+* [dependabot-preview](https://github.com/marketplace/dependabot-preview)ყოველდღე ამოწმებს თქვენს დამოკიდებულების ფაილებს მოძველებული მოთხოვნებისთვის და ხსნის ინდივიდუალურ მოთხოვნებს ნებისმიერი აღმოჩენისთვის
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+შეცდომების შესახებ შეტყობინებებისა და სხვა საერთო წვლილისთვის, GitHub-ს აქვს [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates),რომელიც შეგიძლიათ შექმნათ მიღებული კომუნიკაციის გასამარტივებლად. @TalAter შექმნა [აირჩიეთ თქვენი საკუთარი სათავგადასავლო სახელმძღვანელო](https://www.talater.com/open-source-templates/#/) რათა დაგეხმაროთ დაწეროთ თქვენი პრობლემა და PR შაბლონები.
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+თქვენი ელფოსტის შეტყობინებების სამართავად, შეგიძლიათ დააყენოთ [მეილის ფილტრაცია](https://github.com/blog/2203-email-updates-about-your-own-activity) რათა დააორგანიზაციოს პრიორიტეტების მიხედვით.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+თუ გსურთ მიიღოთ ცოტა უფრო დახვეწილი, სტილის სახელმძღვანელოებს და ლინტერებს შეუძლიათ პროექტის წვლილის სტანდარტიზირება და მათი განხილვა და მიღება უფრო ადვილი გახადონ.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+თუმცა, თუ თქვენი სტანდარტები ძალიან რთულია, მათ შეუძლიათ გაზარდონ წვლილის ბარიერები. დარწმუნდით, რომ მხოლოდ საკმარის წესებს ამატებთ, რათა ყველას ცხოვრება გაუადვილოთ.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+თუ არ ხართ დარწმუნებული, რომელი ინსტრუმენტები გამოიყენოთ, შეხედეთ რას აკეთებენ სხვა პოპულარული პროექტები, განსაკუთრებით ისინი თქვენს ეკოსისტემაში. მაგალითისთვის, როგორ გამოიყურება კონტრიბუციის პროცესი სხვა "Node" მოდულისთვის? Using similar tools and approaches will also make your process more familiar to your target contributors.
 
 ## It's okay to hit pause
 
