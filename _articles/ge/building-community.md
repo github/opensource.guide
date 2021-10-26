@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+lang: ge
+title: მისასალმებელი თემების შემუშავება
+description: საზოგადოების შექმნა, რომელიც მოუწოდებს ხალხს გამოიყენონ, წვლილი შეიტანონ და გააუმჯობესონ თქვენი პროექტი.
 class: building
 order: 4
 image: /assets/images/cards/building.png
@@ -10,25 +10,25 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## თქვენი პროექტის შექმნა წარმატებისთვის
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+თქვენ წამოიწყეთ თქვენი პროექტი, თქვენ ავრცელებთ ინფორმაციას და ხალხი ამოწმებს მას. შესანიშნავია! ეხლა კი, როგორ უბიძგებთ მათ გარშემო?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+მისასალმებელი საზოგადოება არის ინვესტიცია თქვენი პროექტის მომავალსა და რეპუტაციაში. თუ თქვენი პროექტი ახლახან იწყებს თავისი პირველი წვლილის ხილვას, დაიწყეთ ადრეულ კონტრიბუტორებს დადებითი გამოცდილების მინიჭებით და გაუადვილეთ მათთვის დაბრუნება.
 
-### Make people feel welcome
+### აგრძნობინეთ ხალხს თავი მისაღებად
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+თქვენი პროექტის საზოგადოების შესახებ ფიქრის ერთ-ერთი გზა არის რა @MikeMcQuaid უწოდებს [კონტრიბუტორის მილი](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
-![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![კონტრიბუციის მილი](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+როდესაც თქვენ ქმნით თქვენს საზოგადოებას, იფიქრეთ იმაზე, თუ როგორ შეიძლება ვინმემ მილიდ ზედა ნაწილში (პოტენციური მომხმარებელი) თეორიულად გაიაროს ბოლოში (აქტიური შემსრულებელი). თქვენი მიზანია შეამციროთ ხახუნი კონტრიბუტორის გამოცდილების თითოეულ ეტაპზე. როდესაც ადამიანებს აქვთ მარტივი მოგება, ისინი იგრძნობენ სტიმულს, გააკეთონ მეტი.
 
-Start with your documentation:
+დაიწყეთ თქვენი დოკუმენტაციით:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
-* **Good first issues**: To help new contributors get started, consider explicitly [labeling issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing useful contributions, and reducing friction from users tackling issues that are too hard for their level.
+* **გახადეთ მარტივი თქვენი პროექტი რათა სხვებმაც გამოიყენონ.** [გასაგები, მეგობრული README](../starting-a-project/#writing-a-readme) და მკაფიო კოდის მაგალითები გაუადვილებს ყველას, ვინც თქვენს პროექტზე იმუშავებს.
+* **გასაგებად აღწერეთ თუ როგორ შეიტანონ წვლილი**,  [თქვენი CONTRIBUTING ფაილის](../starting-a-project/#writing-your-contributing-guidelines) მიხედვით.
+* **კარგი პირველი საკითხი**: ახალი კონტრიბუტორების დასახმარებლად დაწყებაში, განიხილეთ პირდაპირ [ეტიკეტირების საკითხები, რომლებიც საკმარისად მარტივია დამწყებთათვის მოსაგვარებლად](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). შემდეგ GitHub გამოავლენს ამ საკითხებს პლატფორმის სხვადასხვა ადგილას, გაზრდის სასარგებლო წვლილს და შეამცირებს უთანხმოებას მომხმარებლების მხრიდან, რომლებიც აგვარებენ საკითხებს, რომლებიც ძალიან რთულია მათი დონისთვის.
 
 [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
 

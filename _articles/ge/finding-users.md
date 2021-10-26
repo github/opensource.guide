@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: ge
 title: Finding Users for Your Project
 description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
