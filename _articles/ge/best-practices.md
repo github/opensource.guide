@@ -248,34 +248,35 @@ Iთუ თქვენ შეინარჩუნებთ ღია კოდ
 
 თუმცა, თუ თქვენი სტანდარტები ძალიან რთულია, მათ შეუძლიათ გაზარდონ წვლილის ბარიერები. დარწმუნდით, რომ მხოლოდ საკმარის წესებს ამატებთ, რათა ყველას ცხოვრება გაუადვილოთ.
 
-თუ არ ხართ დარწმუნებული, რომელი ინსტრუმენტები გამოიყენოთ, შეხედეთ რას აკეთებენ სხვა პოპულარული პროექტები, განსაკუთრებით ისინი თქვენს ეკოსისტემაში. მაგალითისთვის, როგორ გამოიყურება კონტრიბუციის პროცესი სხვა "Node" მოდულისთვის? Using similar tools and approaches will also make your process more familiar to your target contributors.
+თუ არ ხართ დარწმუნებული, რომელი ინსტრუმენტები გამოიყენოთ, შეხედეთ რას აკეთებენ სხვა პოპულარული პროექტები, განსაკუთრებით ისინი თქვენს ეკოსისტემაში. მაგალითისთვის, როგორ გამოიყურება კონტრიბუციის პროცესი სხვა "Node" მოდულისთვის?მსგავსი ინსტრუმენტებისა და მიდგომების გამოყენება ასევე გახდის თქვენს პროცესს უფრო ნაცნობს თქვენი სამიზნე კონტრიბუტორებისთვის.
 
-## It's okay to hit pause
+## სრულიად ნორმალურია დროებითი შეჩერება
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+ღია კოდის მუშაობამ ერთხელ მოგიტანა სიხარული. შესაძლოა, ახლა ის იწყებს გაქცევას, რომ თავი აარიდოს ან დამნაშავედ იგრძნოს.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+შესაძლოა, თქვენ გრძნობთ გადატვირთულობას ან მზარდი შიშის გრძნობას, როდესაც ფიქრობთ თქვენს პროექტებზე.ამასობაში, პრობლემები და მოთხოვნები გროვდება.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+გადატვირთულობა არის რეალური და გავრცელებული საკითხი ღია კოდის სამუშაოებში, განსაკუთრებით შემსრულებლებს შორის. როგორც დამხმარე, თქვენი ბედნიერება არის შეუთანხმებელი მოთხოვნა ნებისმიერი ღია კოდის პროექტის გადარჩენისთვის.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+მიუხედავად იმისა, რომ ეს არ უნდა იყოს ნათქვამი, დაისვენეთ! არ უნდა დაგჭირდეთ ლოდინი, სანამ არ იგრძნობთ დაღლილობას დასვენებისთვის. @brettcannon,  Python-ის ბაზური დეველოპერმა, გადაწყვიტა  [ერთ თვის მანძილზე დასვენება](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) 14 წლიანი მოხალისების შემდეგ OSS-ი მუშაობს.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+ისევე, როგორც ნებისმიერი სხვა სახის სამუშაო, რეგულარული შესვენებები გაგახალისებს, ბედნიერს და აღფრთოვანებულს გიქმმნის სამუშაოთი.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+   WP-CLI-სთან მუშაობისას, აღმოვაჩინე, რომ ჯერ ჩემი თავი ბედნიერი უნდა გავხადო, და დაადგინა მკაფიო საზღვრები ჩემს ჩართულობაში. საუკეთესო ბალანსი მე ვიპოვე 2-5 საათით ყოველ კვირა, როგორც ჩემი ჩვეულებრივი სამუშაო გრაფიკის ნაწილი. ეს ინარჩუნებს ჩემს ჩართულობას ვნებას და არ ვგრძნობ, და იგრძნობა როგორც ნამდვილი სამუშაო. იმიტომ, რომ პრიორიტეტულ საკითხებზე ვმუშაობ, მე შემიძლია რეგულარულად მივაღწიო პროგრესს იმასთან დაკავშირებით, რაც ყველაზე მნიშვნელოვანია.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["ჩემი სამძიმარი, თქვენ ახლა ხართ პოპულარული ღია კოდის პროექტის შემსრულებელი"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+ზოგჯერ ძნელია შესვენება ღია კოდის მუშაობისგან, როდესაც გრძნობს, რომ ყველას სჭირდები. ადამიანები შეიძლება ცდილობდნენ კიდეც გაგრძნობინოთ თავი დამნაშავედ მათი დატოვების გამო.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+გააკეთეთ ყველაფერი, რომ იპოვოთ მხარდაჭერა თქვენი მომხმარებლებისა და საზოგადოებისთვის, სანამ პროექტს მოშორებული ხართ.
+თუ ვერ იპოვნეთ საჭირო მხარდაჭერა, მაინც დაისვენეთ. დარწმუნდით, რომ დაუკავშირდით, როდესაც არ ხართ ხელმისაწვდომი, რათა ხალხი არ იყპს დაბნეული  თქვენი რეაგირების ნაკლებობით.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+შესვენების გაკეთება უფრო მეტს ეხება, ვიდრე უბრალოდ არდადეგებს. თუ არ გსურთ ღია კოდის სამუშაოების შესრულება შაბათ-კვირას ან სამუშაო საათებში, მიაწოდეთ ეს მოლოდინები სხვებს, რათა მათ იცოდნენ, რომ არ შეგაწუხოთ.
 
-## Take care of yourself first!
+## ჯერ საკუთარ თავზე იზრუნეთ!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+პოპულარული პროექტის შენარჩუნება მოითხოვს განსხვავებულ უნარებს, ვიდრე ზრდის ადრეულ ეტაპებს, მაგრამ ეს არანაკლებ მომგებიანია. როგორც შემსრულებელი (მეინთეინერი), თქვენ ივარჯიშებთ ლიდერობისა და პიროვნული უნარების დონეზე, რომელსაც ცოტა ადამიანი განიცდის. მიუხედავად იმისა, რომ ყოველთვის ადვილი არ არის მისი მართვა, მკაფიო საზღვრების დაწესება და მხოლოდ იმის მიღება, რაც თქვენთვის კომფორტულია, დაგეხმარებათ იყოთ ბედნიერი, განახლებული და პროდუქტიული.
