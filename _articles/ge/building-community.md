@@ -30,11 +30,11 @@ related:
 * **გასაგებად აღწერეთ თუ როგორ შეიტანონ წვლილი**,  [თქვენი CONTRIBUTING ფაილის](../starting-a-project/#writing-your-contributing-guidelines) მიხედვით.
 * **კარგი პირველი საკითხი**: ახალი კონტრიბუტორების დასახმარებლად დაწყებაში, განიხილეთ პირდაპირ [ეტიკეტირების საკითხები, რომლებიც საკმარისად მარტივია დამწყებთათვის მოსაგვარებლად](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). შემდეგ GitHub გამოავლენს ამ საკითხებს პლატფორმის სხვადასხვა ადგილას, გაზრდის სასარგებლო წვლილს და შეამცირებს უთანხმოებას მომხმარებლების მხრიდან, რომლებიც აგვარებენ საკითხებს, რომლებიც ძალიან რთულია მათი დონისთვის.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+[GitHub's 2017 Open Source გამოკითხვა](http://opensourcesurvey.org/2017/)არასრული ან დამაბნეველი დოკუმენტაციის ჩვენება ყველაზე დიდი პრობლემაა ღია კოდის მომხმარებლებისთვის. კარგი დოკუმენტაცია იწვევს ადამიანებს თქვენს პროექტთან ურთიერთობისთვის. საბოლოოდ, ვინმე გაგიხსნით pull-ის მოთხოვნას ან issue-ს. გამოიყენეთ ეს ურთიერთქმედებები, როგორც შესაძლებლია მათი გადასატანად.
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or a small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
+* **როდესაც თქვენს პროექტზე ვინმე ახალი მოდის, მადლობა გადაუხადეთ დაინტერესებისთვის!** საკმარისია მხოლოდ ერთი ნეგატიური გამოცდილება, რათა ვინმემ არ მოისურვოს დაბრუნება.
+* **იყავით მზად პასუხისთვის.** თუ მათ საკითხს ერთი თვის განმავლობაში არ უპასუხებთ, დიდია, მათ უკვე დაივიწყეს თქვენი პროექტი.
+* **იყავით გახსნილი აზროვნების, თუ რა სახის წვლილს მიიღებთ.** ბევრი მონაწილე იწყებს შეცდომის მოხსენებით ან მცირე გამოსწორებით. არსებობს [წვლილის შეტანის მრავალი გზა](../how-to-contribute/#what-it-means-to-contribute) პროექტზე. დაეხმარონ ადამიანებს ისე, როგორც მათ სურთ.
 * **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
 
 <aside markdown="1" class="pquote">
