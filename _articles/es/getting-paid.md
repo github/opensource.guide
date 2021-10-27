@@ -25,7 +25,7 @@ Estaba buscando un proyecto de programaci&oacute;n para tenerlo como "hobby" y q
 Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pagaran por su trabajo en c&oacute;digo abierto.
 
 * **Ellos pueden llegar a tener ya un trabajo de tiempo completo que disfruten**, que los habilite a contribuir al c&oacute;digo abierto en su tiempo libre.
-* **Les gusta contribuir a los proyectos de c&oacute;digo abierto como un hobby** o escape creativo y no quieren sentise financieramente obligados a trabajar.
+* **Les gusta contribuir a los proyectos de c&oacute;digo abierto como un hobby** o escape creativo y no quieren sentirse financieramente obligados a trabajar.
 * **Reciben otros beneficios al contribuir al c&oacute;digo abierto,** como construir su portfolio de reputaci&oacute;n, obtener nuevas habilidades, o sentirse cercanos a una comunidad.
 
 <aside markdown="1" class="pquote">
@@ -58,13 +58,13 @@ El trabajo pagado tambi&eacute;n habilita a todo tipo de personas a aportar sign
   </p>
 </aside>
 
-Si tu estas buscando apoyo financiero, hay dos posibles caminos a seguir: puedes pagar por tu propio tiempo como contribuyente, o puedes encontrar organizaciones que aporten a tu proyecto.
+Si tu est&aacute;s buscando apoyo financiero, hay dos posibles caminos a seguir: puedes pagar por tu propio tiempo como contribuyente, o puedes encontrar organizaciones que aporten a tu proyecto.
 
 ## Financiando tu propio tiempo
 
-Hoy en d&iacute;a, muchas personas reciben pagos por trabajos a tiempo parcial o tiempo completo  en c&oacute;digo abierto. El modo mas com&uacute;n de recibir una paga por tu tiempo es hablar con tu empleador.
+Hoy en d&iacute;a, muchas personas reciben pagos por trabajos a tiempo parcial o tiempo completo en c&oacute;digo abierto. El modo m&aacute;s com&uacute;n de recibir una paga por tu tiempo es hablar con tu empleador.
 
-Es mas f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu empleador usa el proyecto, pero ponte creativo. Puede que tu empleador no use el proyecto, pero usa Python, y mantener un proyecto popular de Python puede atraer nuevos desarrolladores de Python. Tambi&eacute;n puede que haga que tu empleador se vea m&aacute;s desarrollador-amigable en general.
+Es m&aacute;s f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu empleador usa el proyecto, pero ponte creativo. Puede que tu empleador no use el proyecto, pero usa Python, y mantener un proyecto popular de Python puede atraer nuevos desarrolladores de Python. Tambi&eacute;n puede que haga que tu empleador se vea m&aacute;s desarrollador-amigable en general.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
@@ -74,7 +74,7 @@ Es mas f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu emplead
   </p>
 </aside>
 
-Si tu no tienes un excitante proyecto de c&oacute;digo abierto en el que quisieras trabajar, pero te gustar&iacute;a que tu actual trabajo genere aportes al c&oacute;digo abierto, establece un acuerdo con tu empleador para aportar algo del software interno de la organizacion a la comunidad de c&oacute;digo abierto.
+Si tu no tienes un excitante proyecto de c&oacute;digo abierto en el que quisieras trabajar, pero te gustar&iacute;a que tu actual trabajo genere aportes al c&oacute;digo abierto, establece un acuerdo con tu empleador para aportar algo del software interno de la organizaci&oacute;n a la comunidad de c&oacute;digo abierto.
 
 Muchas empresas est&aacute;n desarrollando programas de c&oacute;digo abierto para construir su marca y reclutar talentos de calidad.
 
@@ -95,14 +95,14 @@ Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n 
 Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicaci&oacute;n al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
 
 * Algunas empresas, como [Netflix](https://netflix.github.io/) o [PayPal](https://paypal.github.io/), tienen p&aacute;ginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
-* [Zalando](https://opensource.zalando.com) publico su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://opensource.zalando.com/docs/using/contributing/) para empleados.
+* [Zalando](https://opensource.zalando.com) public&oacute; su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://opensource.zalando.com/docs/using/contributing/) para empleados.
 
 Proyectos que se originaron en una empresa grande, como [Go](https://github.com/golang) o [React](https://github.com/facebook/react), ser&aacute;n susceptibles a contratar personas que trabajen en c&oacute;digo abierto.
 
 Finalmente, dependiendo de tus circunstancias personales, puedes probar generar dinero de forma independiente para financiar tu trabajo de c&oacute;digo abierto. Por ejemplo:
 
-* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
-* @gaearon financio su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](https://redux.js.org/)
+* @Homebrew (y [varios mantenedores y organizaciones](https://github.com/sponsors/community)) financian su trabajo a través de [GitHub Sponsors](https://github.com/sponsors)
+* @gaearon financi&oacute; su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 ## Encontrando financiaci&oacute;n para tu proyecto.
@@ -147,7 +147,7 @@ Por m&aacute;s opciones y casos de estudio, @nayafia [escribi&oacute; una gu&iac
 
 Sin importar si tu proyecto es una nueva idea, o estuvo dando vueltas por a&ntilde;os, deber&iacute;as preveer que tendr&aacute;s que ponerle mucho esfuerzo en identificar a tu financiador objetivo y construir un caso acorde.
 
-Sin importar si estas buscando pagar por tu propio tiempo, o invertir/generar en un proyecto, deber&iacute;as poder responderte las siguientes preguntas:
+Sin importar si est&aacute;s buscando pagar por tu propio tiempo, o invertir/generar en un proyecto, deber&iacute;as poder responderte las siguientes preguntas:
 
 ### Impacto
 
@@ -167,7 +167,7 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
 
 ### Como recibir&aacute;s la financiaci&oacute;n.
 
-¿El financiador tiene algun requisito de como recibir&aacute;s el dinero? Por ejemplo, puede que necesites ser un sponsor o tener un sponsor fiscal sin fines de lucro. O tal vez la financiaci&oacute;n debe ser entraga a un contratador individual en vez de a una organizaci&oacute;n. Estos requisitos var&iacute;an entre los financiadores, as&iacute; que asegurate de hacer averiguaciones de antemano.
+¿El financiador tiene algun requisito de como recibir&aacute;s el dinero? Por ejemplo, puede que necesites ser un sponsor o tener un sponsor fiscal sin fines de lucro. O tal vez la financiaci&oacute;n debe ser entregada a un contratador individual en vez de a una organizaci&oacute;n. Estos requisitos var&iacute;an entre los financiadores, as&iacute; que asegurate de hacer averiguaciones de antemano.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
