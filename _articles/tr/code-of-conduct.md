@@ -3,12 +3,6 @@ lang: tr
 title: Davranış Kurallarınız
 description: Bir davranış kuralını benimseyerek ve uygulayarak sağlıklı ve yapıcı topluluk davranışını kolaylaştırın.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: Neden bir davranış kural listesine ihtiyacım var?
-  establishing-a-code-of-conduct: Davranış kuralları oluşturmak
-  deciding-how-youll-enforce-your-code-of-conduct: Davranış kurallarınızı nasıl uygulayacağınıza karar verme
-  enforcing-your-code-of-conduct: Davranış kurallarınızı güçlendirmek
-  your-responsibilities-as-a-maintainer: Bir koruyucu olarak sorumluluklarınız
 order: 8
 image: "/assets/images/cards/coc.png"
 related:
@@ -37,7 +31,7 @@ Beklentilerinizi iletmenin yanı sıra, bir davranış kural listesi aşağıdak
 
 Nerede olursanız olun, geçmiş tecrübelerden faydalanın. [Katkıda Bulunanlar Sözleşmesi (Contributor Covenant)](https://contributor-covenant.org/) Kubernet, Rails ve Swift dahil olmak üzere 40.000'den fazla açık kaynaklı proje tarafından kullanılan ortak bir davranış kural listesidir.
 
-[Django Davranış Kuralları](https://www.djangoproject.com/conduct/) ve [Vatandaş Davranış Kuralları](http://citizencodeofconduct.org/) da aynı zamanda iki iyi davranış kural listesi örneğidir.
+[Django Davranış Kuralları](https://www.djangoproject.com/conduct/) ve [Vatandaş Davranış Kuralları](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) da aynı zamanda iki iyi davranış kural listesi örneğidir.
 
 CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTING veya README dosyanızdan bağlantılayarak topluluğunuz tarafından görülebilir hale getirin.
 
@@ -46,7 +40,7 @@ CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTIN
 <aside markdown="1" class="pquote">
   Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir.
   <p markdown="1" class="pquote-credit">
-- [Ada Girişimi](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Girişimi](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
@@ -66,7 +60,7 @@ Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebilec
 
 İlham almak için Django'nun [uygulama kılavuzunu inceleyin](https://www.djangoproject.com/conduct/enforcement-manual/) (ancak projenizin büyüklüğüne bağlı olarak bu kadar kapsamlı bir şeye ihtiyacınız olmayabilir).
 
-## Davranış kural listesini güçlendirmek
+## Davranış kurallarınızı güçlendirmek
 
 Bazen, en iyi çabalarınıza rağmen, birileri bu kodu ihlal eden bir şey yapabilir. Olay ortaya çıktığında olumsuz ya da zararlı davranışları ele almanın birkaç yolu vardır.
 

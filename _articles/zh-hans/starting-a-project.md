@@ -1,6 +1,6 @@
 ---
 lang: zh-hans
-title: 开启一个开源项目
+title: 开始一个开源项目
 description: 从开源的世界汲取智慧，然后开始准备着手发起开源项目。
 class: beginners
 order: 2
@@ -13,15 +13,15 @@ redirect_from: /zh-cn/starting-a-project/
 
 ## 什么是开源,为什么要开源
 
-那你在考虑开始参与开源？恭喜！世界赞赏你的贡献。我们来谈谈开源是什么以及为什么人们这样做。
+如果你正在考虑开始参与开源，那么恭喜你！世界会感激你的贡献。首先我们来谈谈什么是开源以及为什么我们要开源。
 
 ### "开源"是什么意思？
 
 当一个项目被开源，这意味着**任何人都可以出于任何目的查看，使用，修改和分发你的项目**。 这些权限通过[开源许可](https://opensource.org/licenses)强制实施。
 
-开源是强大的，因为它降低了事物被采纳的障碍，允许想法迅速传播。
+开源是强大的，因为它降低了事物被采纳的障碍，使得我们的想法可以被迅速传播。
 
-要了解它的工作原理，想象你的朋友组织了一场聚餐，而你带去了一个樱桃派。
+接下来我们通过一个例子了解它的工作原理。想象你的朋友组织了一场聚餐，而你带去了一个樱桃派。
 
 * 每个人都尝了那个派（_使用_)
 * 派的味道棒极了！大家请你分享它的配方（_view_）
@@ -48,19 +48,19 @@ redirect_from: /zh-cn/starting-a-project/
 
 * **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
 
-开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 开找找有什么是你可以开源的。
+开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 来找找有什么是你可以开源的。
 
 ### 开源是指"免费"吗？
 
-开源最大的吸引之一是它不花钱。 但是，"免费"只是开源的总体价值的一个副产品。
+开源最大的吸引之一是它不花钱。 但是，"免费"只是开源的总体价值的一小部分。
 
-因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
+因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目的使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
 
 因此，大多数开源项目是免费的，但"免费"不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
 
-## 我应该启动自己的开源项目吗？
+## 我应该开始自己的开源项目吗？
 
-简单来说，答案是肯定的，因为无论结果如何，启动您自己的项目来了解开源的工作原理是一个好方法。
+简单来说，答案是肯定的，因为无论结果如何，开始一个您自己的开源项目来了解开源的工作原理是一个好方法。
 
 如果你从来没有创建过一个项目，你可能会担心人们会说什么，或者是否有人会注意到。 如果这听起来像你现在的状态，别担心，你并不孤独！
 
@@ -70,7 +70,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 设置你的目标
 
-目标可以帮助你弄清该做什么，不应该说什么，以及你在哪方面需要其他人的帮助。 首先问自己，_我是为什么开源这个项目？_
+目标可以帮助你弄清该做什么，不应该说什么，以及你在哪方面需要其他人的帮助。 首先问自己，_我为什么要开源这个项目？_
 
 这个问题没有标准答案。 对于一个项目你可以有多个目标，或者具有不同目标的不同项目。
 
@@ -104,7 +104,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 如果你的目标是学习如何与他人合作或了解开源的工作方式，请考虑为现有项目做出贡献。从你已经使用并喜欢的项目开始。像修复拼写错误或更新文档简单的事也能为项目做出贡献。
 
-如果你不知道如何开始作为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
+如果你不知道如何开始成为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
 
 ## 发起你自己的开源项目
 
@@ -131,7 +131,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
 
-当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源。
+当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源项目。
 
 ![挑选一个许可证](/assets/images/starting-a-project/repository-license-picker.png)
 
@@ -148,7 +148,7 @@ redirect_from: /zh-cn/starting-a-project/
 * 如何开始？
 * 如果需要，我可以在哪里获得更多的帮助？
 
-您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
+您可以使用自己的 README 回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
@@ -166,7 +166,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 编写你的贡献指南
 
-贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
+贡献文件 (CONTRIBUTING 文件) 告诉你的受众如何参与你的项目. 例如，你可以包括以下信息:
 
 * 如何提交错误报告（尝试使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
 * 如何建议一个新功能
@@ -300,7 +300,7 @@ redirect_from: /zh-cn/starting-a-project/
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    项目使用一致的代码风格和明确的功能/方法/可用的名字
+    项目使用一致的代码风格和明确的函数/方法/变量的名字
   </label>
 </div>
 

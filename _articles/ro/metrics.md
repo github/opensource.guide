@@ -3,12 +3,6 @@ lang: ro
 title: Măsurători Open Source
 description: Ia decizii în cunoștință de cauză pentru a-ți ajuta proiectul cu sursă deschisă să prospere măsurând și urmărindu-i succesul.
 class: metrics
-toc:
-  why-measure-anything: "De ce să măsori totul?"
-  discovery: "Descoperire"
-  usage: "Folosire"
-  retention: "Retenție"
-  maintainer-activity: "Activitatea întreținătorilor"
 order: 9
 image: /assets/images/cards/metrics.png
 related:

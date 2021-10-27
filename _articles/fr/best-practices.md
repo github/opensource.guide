@@ -261,7 +261,7 @@ Tout comme n'importe quel autre type de travail, prendre des pauses régulières
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   En maintenant le WP-CLI, j'ai découvert que je devais d'abord me rendre heureux et fixer des limites claires sur mon implication. Le meilleur équilibre que j'ai trouvé est de 2 à 5 heures par semaine, dans le cadre de mon horaire de travail normal. Cela maintient ma participation en tant que passion, sans le sentir trop comme du travail. Parce que je priorise les problèmes sur lesquels je travaille, je peux faire des progrès réguliers sur ce que je pense être le plus important.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

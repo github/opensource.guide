@@ -3,13 +3,6 @@ lang: ro
 title: Găsirea de utilizatori pentru proiectul tău
 description: Ajută-ți proiectul cu sursă deschisă să crească punându-l în mâinile utilizatorilor fericiți.
 class: finding
-toc:
-  spreading-the-word: "Răspândirea cuvântului"
-  figure-out-your-message: "Găsește-ți mesajul"
-  help-people-find-and-follow-your-project: "Ajută oamenii să-ți găsească și să-ți urmeze proiectul"
-  go-where-your-projects-audience-is-online: "Mergi acolo unde este audiența proiectului tău (online)"
-  go-where-your-projects-audience-is-offline: "Mergi acolo unde este audiența proiectului tău (offline)"
-  build-a-reputation: "Construiește-ți o reputație"
 order: 3
 image: /assets/images/cards/finding.png
 related:

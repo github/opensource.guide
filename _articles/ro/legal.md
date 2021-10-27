@@ -3,14 +3,6 @@ lang: ro
 title: Latura juridică a open source
 description: Tot ce te-ai întrebat vreodată de latura juridică a open source, și câteva lucruri de care nu te-ai întrebat.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "De ce oamenilor le pasă atât de mult de partea juridică a open source?"
-  are-public-github-projects-open-source: "Sunt proiectele GitHub publice open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Doar dă-mi TL;DR-ul a ce-mi trebuie pentru a-mi proteja proiectul."
-  which-open-source-license-is-appropriate-for-my-project: "Ce licență open source este potrivită pentru proiectul meu?"
-  what-if-i-want-to-change-the-license-of-my-project: "Ce se întâmplă dacă vreau să schimb licența proiectului meu?"
-  does-my-project-need-an-additional-contributor-agreement: "Proiectul meu are nevoie de o înțelegere cu contributorii în plus?"
-  what-does-my-companys-legal-team-need-to-know: "Ce trebuie să știe echipa juridică a companiei mele?"
 order: 10
 image: /assets/images/cards/legal.png
 related:

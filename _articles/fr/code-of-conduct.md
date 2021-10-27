@@ -31,7 +31,7 @@ En plus de communiquer vos attentes, un code de conduite décrit ce qui suit:
 
 Quand vous le pouvez, utilisez l'existant. Le [Contributor Covenant](https://contributor-covenant.org/) est un code de conduite qui est utilisé par plus de 40 000 projets open source, y compris Kubernetes, Rails et Swift.
 
-Le [Django Code of Conduct](https://www.djangoproject.com/conduct/) et le [Citizen Code of Conduct](http://citizencodeofconduct.org/) sont également deux bons exemples de code de conduite.
+Le [Django Code of Conduct](https://www.djangoproject.com/conduct/) et le [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sont également deux bons exemples de code de conduite.
 
 Placez un fichier CODE_OF_CONDUCT dans le répertoire racine de votre projet et rendez-le visible pour votre communauté en le liant à votre fichier CONTRIBUTING ou README.
 
@@ -40,7 +40,7 @@ Placez un fichier CODE_OF_CONDUCT dans le répertoire racine de votre projet et 
 <aside markdown="1" class="pquote">
   Un code de conduite qui n'est pas (ou ne peut pas être) appliqué est pire qu'aucun code de conduite: il envoie le message que les valeurs du code de conduite ne sont pas vraiment importantes ou respectées dans votre communauté.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

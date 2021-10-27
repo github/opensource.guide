@@ -3,12 +3,6 @@ lang: ro
 title: Codul tău de conduită
 description: Facilitează comportamente constructive și sănătoase în comunitate prin adoptarea și impunerea unui cod de conduită.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "De ce am nevoie de un cod de conduită?"
-  establishing-a-code-of-conduct: "Stabilirea unui cod de conduită"
-  deciding-how-youll-enforce-your-code-of-conduct: "Decizând cum îți vei impune codul de conduită"
-  enforcing-your-code-of-conduct: "Impunerea codului tău de conduită"
-  your-responsibilities-as-a-maintainer: "Responsabilitățile tale în calitate de întreținător"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -37,7 +31,7 @@ Pe lângă comunicarea așteptărilor tale, un cod de conduită descrie următoa
 
 Oricând poți, folosește stadiul cunoscut al tehnicii. [Contributor Covenant](https://contributor-covenant.org/) este un cod de conduită ușor de instalat care este folosit de peste 40.000 de proiecte cu sursă deschisă, inclusiv Kubernetes, Rails, și Swift.
 
-[Codul de conduită Django](https://www.djangoproject.com/conduct/) și [Citizen Code of Conduct](http://citizencodeofconduct.org/) sunt de asemenea două exemple bune de coduri de conduită.
+[Codul de conduită Django](https://www.djangoproject.com/conduct/) și [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sunt de asemenea două exemple bune de coduri de conduită.
 
 Amplasează un fișier CODE_OF_CONDUCT în directorul rădăcină al proiectului tău, și fă-l vizibil pentru comunitatea ta legând către el din fișierele tale CONTRIBUTING sau README.
 
@@ -53,7 +47,7 @@ Amplasează un fișier CODE_OF_CONDUCT în directorul rădăcină al proiectului
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

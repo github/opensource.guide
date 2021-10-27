@@ -3,11 +3,6 @@ lang: ms
 title: Mendapat Bayaran untuk Kerja Sumber Terbuka
 description: Pertahankan kerja anda dalam sumber terbuka dengan mendapatkan sokongan kewangan untuk masa atau projek anda.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "Mengapa sebilangan orang meminta sokongan kewangan"
-  funding-your-own-time: "Membiayai masa anda sendiri"
-  finding-funding-for-your-project: "Mencari dana untuk projek anda"
-  building-a-case-for-financial-support: "Membina kes untuk sokongan kewangan"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -106,6 +101,7 @@ Projek yang berasal dari syarikat besar, seperti [Go](https://github.com/golang)
 
 Bergantung pada keadaan peribadi anda, anda boleh mencuba mengumpulkan wang secara bebas untuk membiayai kerja sumber terbuka anda. Sebagai contoh:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon membiayai kerjanya [Redux](https://github.com/reactjs/redux) melalui [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin membiayai kerja migrasi skema Django [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -139,7 +135,7 @@ Bergantung pada projek anda, anda mungkin dapat mengenakan bayaran untuk sokonga
 * **[Travis CI](https://github.com/travis-ci)** menawarkan versi berbayar produknya
 * **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
 
-Beberapa projek popular, seperti [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker),malah mengumpulkan modal teroka untuk menyokong pertumbuhan perniagaan mereka.
+Beberapa projek popular, seperti [npm](https://github.com/npm/cli) and [Docker](https://github.com/docker/docker),malah mengumpulkan modal teroka untuk menyokong pertumbuhan perniagaan mereka.
 
 ### Memohon pembiayaan geran
 

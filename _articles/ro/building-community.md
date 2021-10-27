@@ -3,10 +3,6 @@ lang: ro
 title: Clădirea comunităților primitoare
 description: Construirea unei comunități care încurajează oamenii să folosească, să contribuie la, și să promoveze proiectul tău
 class: building
-toc:
-  setting-your-project-up-for-success: "Configurarea proiectului tău pentru succes"
-  growing-your-community: "Dezvoltarea comunității tale"
-  resolving-conflicts: "Rezolvarea conflictelor"
 order: 4
 image: /assets/images/cards/building.png
 related:
