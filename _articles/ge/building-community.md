@@ -35,95 +35,95 @@ related:
 * **როდესაც თქვენს პროექტზე ვინმე ახალი მოდის, მადლობა გადაუხადეთ დაინტერესებისთვის!** საკმარისია მხოლოდ ერთი ნეგატიური გამოცდილება, რათა ვინმემ არ მოისურვოს დაბრუნება.
 * **იყავით მზად პასუხისთვის.** თუ მათ საკითხს ერთი თვის განმავლობაში არ უპასუხებთ, დიდია, მათ უკვე დაივიწყეს თქვენი პროექტი.
 * **იყავით გახსნილი აზროვნების, თუ რა სახის წვლილს მიიღებთ.** ბევრი მონაწილე იწყებს შეცდომის მოხსენებით ან მცირე გამოსწორებით. არსებობს [წვლილის შეტანის მრავალი გზა](../how-to-contribute/#what-it-means-to-contribute) პროექტზე. დაეხმარონ ადამიანებს ისე, როგორც მათ სურთ.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **თუ არის რაიმე წვლილი, რომელსაც არ ეთანხმებით,** მადლობა გადაუხადეთ მათი იდეისთვის და [აუხსენი რატო](../best-practices/#learning-to-say-no) ის არ ჯდება პროექტის არეალში, თუ გაქვთ შესაბამისი დოკუმენტაცია.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  ღია წყაროში წვლილის შეტანა ზოგიერთისთვის უფრო ადვილია, ვიდრე სხვებისთვის. არსებობს დიდი შიში იმისა, რომ გიყვირიან იმის გამო, რომ რაღაცას არ აკეთებ სწორად ან უბრალოდ არ ჯდება. (...) კონტრიბუტორებისთვის ადგილის მინიჭებით, რათა წვლილი შეიტანონ ძალიან დაბალი ტექნიკური ცოდნით (დოკუმენტაცია, ვებ შიგთავსის მარკირება და ა.შ.) თქვენ შეგიძლიათ მნიშვნელოვნად შეამციროთ ეს შეშფოთება.
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+— @mikeal, ["კონტრიბუტორთა ბაზის გაზრდა თანამედროვე ღია წყაროში"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+ღია კოდის მომხმარებელთა უმრავლესობა არის „შემთხვევითი კონტრიბუტორი“: ადამიანები, რომლებიც პროექტში წვლილი შეიტანენ მხოლოდ ხანდახან. შემთხვევით კონტრიბუტორს შეიძლება არ ჰქონდეს დრო, რომ სრულად გაეცნოს თქვენს პროექტს, ამიტომ თქვენი ამოცანაა გაუადვილოთ მათ წვლილი შეიტანონ.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+სხვა კონტრიბუტორების წახალისება არის ინვესტიცია საკუთარ თავშიც. როდესაც თქვენ აძლევთ უფლებას თქვენს უდიდეს ფანებს, იმუშაონ იმ საქმით, რომლითაც ისინი აღფრთოვანებულნი არიან, ნაკლები ზეწოლა გექნებათ, რომ ყველაფერი თავად გააკეთოთ.
 
-### Document everything
+### აღწერეთ დოკუმენტაციაში სრულად და გასაგებად
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
+  ყოფილხართ ოდესმე (ტექნიკური) ღონისძიებაზე, სადაც არავის იცნობთ, მაგრამ ყველა დანარჩენი თითქოს ჯგუფურად დგანან და ძველი მეგობრებივით საუბრობენ? (...) ახლა წარმოიდგინეთ, რომ გსურთ წვლილი შეიტანოთ ღია კოდის პროექტში, მაგრამ ვერ ხედავთ რატომ ან როგორ ხდება ეს.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["მდგრადი ღია წყარო"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
-When you start a new project, it may feel natural to keep your work private. But open source projects thrive when you document your process in public.
+როდესაც იწყებთ ახალ პროექტს, შეიძლება ბუნებრივი იყოს თქვენი სამუშაოს კონფიდენციალურობის შენარჩუნება. მაგრამ ღია კოდის პროექტები აყვავდება, როდესაც თქვენს პროცესს საჯაროდ აფიქსირებთ.
 
-When you write things down, more people can participate at every step of the way. You might get help on something you didn't even know you needed.
+როდესაც რამეს წერთ, უფრო მეტ ადამიანს შეუძლია მონაწილეობა მიიღოს ყოველ ნაბიჯზე. შესაძლოა მიიღოთ დახმარება ისეთ რამეზე, რაც არც კი იცოდით, რომ გჭირდებათ.
 
-Writing things down means more than just technical documentation. Any time you feel the urge to write something down or privately discuss your project, ask yourself whether you can make it public.
+ნივთების ჩაწერა უფრო მეტს ნიშნავს, ვიდრე უბრალოდ ტექნიკური დოკუმენტაცია. ნებისმიერ დროს, როცა გაგიჩნდებათ სურვილი დაწეროთ რაიმე ან პირადად განიხილოთ თქვენი პროექტი, ჰკითხეთ საკუთარ თავს, შეგიძლიათ თუ არა ის საჯარო გახადოთ.
 
-Be transparent about your project's roadmap, the types of contributions you're looking for, how contributions are reviewed, or why you made certain decisions.
+იყავით გამჭვირვალე თქვენი პროექტის საგზაო რუქის, შენატანების ტიპების შესახებ, რომლებსაც ეძებთ, როგორ განიხილება შენატანები ან რატომ მიიღეთ გარკვეული გადაწყვეტილებები.
 
-If you notice multiple users running into the same problem, document the answers in the README.
+თუ შეამჩნევთ, რომ რამდენიმე მომხმარებელი აწუხებთ ერთი და იმავე პრობლემას, დააფიქსირეთ პასუხები README-ში.
 
-For meetings, consider publishing your notes or takeaways in a relevant issue. The feedback you'll get from this level of transparency may surprise you.
+შეხვედრებისთვის, განიხილეთ თქვენი ჩანაწერების ან წაკითხულის გამოქვეყნება შესაბამის ნომერში. გამოხმაურება, რომელსაც მიიღებთ გამჭვირვალობის ამ დონისგან, შეიძლება გაგიკვირდეთ.
 
-Documenting everything applies to the work you do, too. If you're working on a substantial update to your project, put it into a pull request and mark it as a work in progress (WIP). That way, other people can feel involved in the process early on.
+ყველაფრის დოკუმენტირება ასევე ეხება იმ სამუშაოს, რომელსაც თქვენ აკეთებთ. თუ თქვენ მუშაობთ თქვენი პროექტის არსებით განახლებაზე, განათავსეთ იგი pull მოთხოვნაში და მონიშნეთ, როგორც მიმდინარე სამუშაოდ (WIP). ამგვარად, სხვა ადამიანებს შეუძლიათ ადრევე იგრძნონ მონაწილეობა პროცესში.
 
-### Be responsive
+### იყავი მოპასუხე
 
-As you [promote your project](../finding-users), people will have feedback for you. They may have questions about how things work, or need help getting started.
+როგორც კი [პოპულარულს გახდით თქვენს პროექტს](../finding-users), ხალხს ექნება გამოხმაურება თქვენთვის. მათ შეიძლება ჰქონდეთ კითხვები იმის შესახებ, თუ როგორ მუშაობს ყველაფერი, ან დახმარება დასჭირდეს დასაწყებად.
 
-Try to be responsive when someone files an issue, submits a pull request, or asks a question about your project. When you respond quickly, people will feel they are part of a dialogue, and they'll be more enthusiastic about participating.
+ეცადეთ იყოთ კომუნიკაბელური როცა ვინმე აკეთებს issue-ს, ან pull-ის მოთხოვნას, ან შეეკითხეთ თქვენი პროექტის შესახებ. როცა ხალხს სწრაფად პასუხობთ, ხალხი ფიქრობს რომ ისინი დიალოგისმონაწილეები არიან, და უფრო მეტი ენთუზიაზმით შეეცდებია წვლილი შეიტანონ თქვენს პროექტში.
 
-Even if you can't review the request immediately, acknowledging it early helps increase engagement. Here's how @tdreyno responded to a pull request on [Middleman](https://github.com/middleman/middleman/pull/1466):
+თუნდაც, ეგრევე რომ ვერ შეძლოთ მოთხოვნის გადახედვა, ადრეული შემჩნევა ხელს უწყობს ჩართულობის გაზრდას. მაგალითად @tdreyno უპასუხა pull-ის მოთხოვნას [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![Middleman pull request](/assets/images/building-community/middleman_pr.png)
+![შუამავლის pull-ის მოთხოვნა](/assets/images/building-community/middleman_pr.png)
 
-[A Mozilla study found that](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) contributors who received code reviews within 48 hours had a much higher rate of return and repeat contribution.
+[Mozilla-ს დაკვირვებამ აღმოაჩინა რომ](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)კონტრიბუტორებს, რომლებმაც მიიღეს კოდის მიმოხილვა 48 საათის განმავლობაში, ჰქონდათ გაცილებით მაღალი შეფასება და განმეორებითი წვლილი.
 
-Conversations about your project could also be happening in other places around the internet, such as Stack Overflow, Twitter, or Reddit. You can set up notifications in some of these places so you are alerted when someone mentions your project.
+საუბარი თქვენი პროექტის შესახებ შეიძლება ხორციელდებოდეს ინტერნეტის მაშტაბით სხვადასხვა პლათფორმებზე, როგორებიცაა Stack Overflow, Twitter, ან  Reddit. თქვენ შეგიძლიათ დააყენოთ შეტყობინებები ზოგიერთ ამ ადგილას, ასე რომ თქვენ გეცოდინებათ, როდესაც ვინმე თქვენს პროექტს ახსენებს.
 
-### Give your community a place to congregate
+### მიეცით თქვენს საზოგადოებას ადგილი შეკრებისთვის
 
-There are two reasons to give your community a place to congregate.
+არსებობს ორი მიზეი თუ რატო უნდა მისცეთ შეხვედრის ადგილი თქვენს საზოგადოებას.
 
-The first reason is for them. Help people get to know each other. People with common interests will inevitably want a place to talk about it. And when communication is public and accessible, anybody can read past archives to get up to speed and participate.
+პირველი მიზეზი მათთვისაა. დაეხმარეთ ადამიანებს იცნობდნენ ერთმანეთს. საერთო ინტერესების მქონე ადამიანებს აუცილებლად მოუნდებათ ადგილი სასაუბროდ. და როდესაც კომუნიკაცია საჯარო და ხელმისაწვდომია, ნებისმიერს შეუძლია წაიკითხოს წარსული არქივები, რათა სწრაფად დაკავდეს და მონაწილეობა მიიღოს.
 
-The second reason is for you. If you don't give people a public place to talk about your project, they will likely contact you directly. In the beginning, it may seem easy enough to respond to private messages "just this once". But over time, especially if your project becomes popular, you will feel exhausted. Resist the temptation to communicate with people about your project in private. Instead, direct them to a designated public channel.
+მეორე მიზეზი თქვენთვისაა. თუ ხალხს არ აძლევთ საჯარო ადგილს თქვენს პროექტზე სასაუბროდ, ისინი სავარაუდოდ პირდაპირ დაგიკავშირდებიან. თავიდან შეიძლება საკმაოდ მარტივი ჩანდეს პირად შეტყობინებებზე პასუხის გაცემა "მხოლოდ ამ ერთხელ". მააგრამ გარკვეული დროის შემდეგ, განსაკუთრებით თუ თქვენი პროექტი გახდა პოპულარული, თავს დაღლილად იგრძნობთ. წინაათმდეგობა გაუწიე ცდუნებას, დაამყაროთ კომუნიკაცია ადამიანებთან თქვენი პროექტის შესახებ პირადში. ამის ნაცვლად, მიმართეთ მათ დანიშნულ საჯარო ჩანელზე.
 
-Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog. You could also set up a mailing list, or create a Twitter account, Slack, or IRC channel for people to talk about your project. Or try all of the above!
+საჯარო კომუნიკაცია შეიძლება იყოს ისეთივე მარტივი, როგორც ხალხის მითითება, რომ გახსნან საკითხი, ნაცვლად იმისა, რომ პირდაპირ ელ.წერილი მოგწერონ ან თქვენს ბლოგზე კომენტარი გააკეთონ. თქვენ ასევე შეგიძლიათ შექმნათ საფოსტო სია, ან შექმნათ Twitter-ის გვერდი, Slack-ი, ან კიდე IRC ჩანელი, ხალხისთვის რათა ქონდეთ შესაძლებლობა ისაუბრონ თქვენს პროექტზე. ან სცადეთ რაც ზემოთ არის ჩამოთვლილი!
 
-[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) sets aside office hours every other week to help community members:
+[Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) ყოველ მეორე კვირას გამოყავით სამუშაო საათების შემდეგ საზოგადოების წევრების დასახმარებლად:
 
-> Kops also has time set aside every other week to offer help and guidance to the community. Kops maintainers have agreed to set aside time specifically dedicated to working with newcomers, helping with PRs, and discussing new features.
+> Kops ასევე აქვს დრო გამოყოფილი ყოველ მეორე კვირას, რათა შესთავაზოს დახმარება და ხელმძღვანელობა საზოგადოებას. Kops დამხმარეები შეთანხმდნენ, გამოყოს დრო, რომელიც სპეციალურად დაეთმო ახალ მაინთენერებთან(შემსრულებლებთან) მუშაობას, PR-ებთან დასახმარებლად და ახალი ფუნქციების განხილვას.
 
-Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. You should always have a way for people to report these issues privately. If you don't want to use your personal email, set up a dedicated email address.
+საჯარო კომუნიკაციის მნიშვნელოვანი გამონაკლისი არის: 1) უსაფრთხოების საკითხები და 2) სენსიტიური კოდექსის მგრძნობიარე დარღვევები. თქვენ ყოველთვის უნდა გქონდეთ საშუალება, რომ ადამიანებს ეს საკითხები პირადად შეატყობინონ. თუ არ გსურთ თქვენი პირადი ელ.ფოსტის გამოყენება, დააყენეთ გამოყოფილი ელფოსტის მისამართი.
 
-## Growing your community
+## თქვენი საზოგადოების გაზრდა
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+საზოგადოებები ძალიან ძლიერია. ეს ძალა შეიძლება იყოს კურთხევა ან წყევლა, დამოკიდებულია იმაზე, თუ როგორ იყენებთ მას. როგორც თქვენი პროექტის საზოგადოება იზრდება, არსებობს გზები, რათა დაეხმაროს მას გახდეს კონსტრუქციის ძალა და არა დესტრუქციის.
 
-### Don't tolerate bad actors
+### ნუ მოითმენთ ცუდ მსახიობებს
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+ნებისმიერი პოპულარული პროექტი აუცილებლად მიიზიდავს ადამიანებს, რომლებიც ზიანს აყენებენ თქვენს საზოგადოებას და არა პირიქით. მათ შეუძლიათ არასაჭირო დებატები წამოიწყონ, ტრივიალურ მახასიათებლებზე ჩხუბი ან სხვების დაცინვა.
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+გააკეთეთ ყველაფერი, რომ მიიღოთ ნულოვანი ტოლერანტობის პოლიტიკა ამ ტიპის ადამიანების მიმართ. თუ შეუმჩნეველი დარჩება, ნეგატიური ადამიანები თქვენს საზოგადოებაში დისკომფორტს შექმნიან.    შეიძლება დატოვონ კიდეც.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  სიმართლე ის არის, რომ მხარდამჭერი საზოგადოების არსებობა მთავარია. მე ვერასოდეს შევძლებ ამ საქმეს ჩემი კოლეგების დახმარებისა, მეგობრული ინტერნეტ უცნობებისა, და ჩატ IRC ჩანელების გარეშე. (...) ნაკლებს ნუ დააკმაყოფილებთ. ნუ დაეთანხმებით სულელებს.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["როგორ გაუშვათ FOSS პროექტი"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+თქვენი პროექტის უმცირეს ასპექტებზე რეგულარული დებატები სხვებს, მათ შორის თქვენც, ყურადღებას გიფანტავთ მნიშვნელოვან ამოცანებზე ფოკუსირებისთვის. ახალი ადამიანებმა, რომლებიც თქვენს პროექტს უერთდებიან, შეიძლება ნახონ ეს საუბრები და არ მოისურვონ მონაწილეო
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+როდესაც ხედავთ, რომ ნეგატიური ქცევა ხდება თქვენს პროექტზე, გამოაშკარავეთ საჯაროდ. აუხსენით, კეთილი, მაგრამ მტკიცე ტონით,რატომ არ არის მისაღები მათი ქცევა. თუ პრობლემა გაგრძელდა შეგიძლია მოსთხოვო  [მათ რომ გავიდნენ](../code-of-conduct/#enforcing-your-code-of-conduct). შენი [ქცევის კოდექსი](../code-of-conduct/) შეიძლება იყოს კონსტრუქციული გაიდლაინი ამ საუბრებისთვის.
 
 ### Meet contributors where they're at
 
