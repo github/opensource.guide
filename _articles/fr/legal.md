@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Le côté légal de l'Open Source
-description: Tout ce que vous avez jamais osé demandé sur le côté juridique de l'open source, et quelques autres.
+description: Tout ce que vous n'avez jamais osé demander sur le côté juridique de l'Open Source, et quelques autres.
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
@@ -125,7 +125,7 @@ Pour le meilleur ou pour le pire, envisagez de les informer même s'il s'agit d'
 
 * **Brevets :** Votre entreprise demande-t-elle un brevet dont l'open source de votre projet constituerait [divulgation publique](https://en.wikipedia.org/wiki/Public_disclosure) ? Malheureusement, vous pourriez être invité à attendre (ou peut-être que l'entreprise reconsidérera la maturité de l'application). Si vous attendez des contributions d'employés d'entreprises ayant de grands portefeuilles de brevets, votre équipe juridique voudra peut-être utiliser une licence avec un brevet spécialement pour les contributeurs (comme Apache 2.0 ou GPLv3) ou un accord de contribution supplémentaire (voir au dessus).
 
-* **Marques :** Vérifiez que le nom de votre projet [n'est pas en conflit avec les marques existantes](../starting-a-project/#eviter-les-conflits-de-noms). Si vous utilisez les marques de votre propre entreprise dans le projet, vérifiez qu'il ne provoque aucun conflit. [FOSSmarks](http://fossmarks.org/) est un guide pratique pour comprendre les marques dans le contexte de projets libres et open source.
+* **Marques :** Vérifiez que le nom de votre projet [n'est pas en conflit avec les marques existantes](../starting-a-project/#éviter-les-conflits-de-noms). Si vous utilisez les marques de votre propre entreprise dans le projet, vérifiez qu'il ne provoque aucun conflit. [FOSSmarks](http://fossmarks.org/) est un guide pratique pour comprendre les marques dans le contexte de projets libres et open source.
 
 * **Confidentialité :** Votre projet recueille-t-il des données sur les utilisateurs ? "Téléphone Maison" aux serveurs de l'entreprise ? Votre équipe juridique peut vous aider à respecter les politiques de l'entreprise et les réglementations externes.
 

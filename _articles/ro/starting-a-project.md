@@ -3,12 +3,6 @@ lang: ro
 title: Pornind un proiect cu sursă deschisă
 description: Învață mai multe despre lumea open source și pregătește-te să-ți lansezi primul proiect.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "„Care”-urile și „de ce”-urile open source"
-  should-i-launch-my-own-open-source-project: "Ar trebui să-mi lansez propriul meu proiect cu sursă deschisă?"
-  launching-your-own-open-source-project: "Lansându-ți propriul tău proiect cu sursă deschisă"
-  naming-and-branding-your-project: "Numirea și marcarea proiectului tău"
-  your-pre-launch-checklist: "Lista ta de verificări înainte de lansare"
 order: 2
 image: /assets/images/cards/beginner.png
 related:

@@ -31,7 +31,7 @@ related:
 
 가능한 모든 곳에서 이전 기술을 사용하십시오. [기여자 규약](https://www.contributor-covenant.org/)은 Kubernetes, Rails 및 Swift를 포함하여 40,000 개 이상의 오픈소스 프로젝트에서 사용되는 행동강령입니다.
 
-[Django 행동강령](https://www.djangoproject.com/conduct/)과 [Citizen 행동강령](http://citizencodeofconduct.org/)은 두가지 훌륭한 행동강령입니다.
+[Django 행동강령](https://www.djangoproject.com/conduct/)과 [Citizen 행동강령](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/)은 두가지 훌륭한 행동강령입니다.
 
 프로젝트의 최상단 디렉토리에 CODE_OF_CONDUCT 파일을 놓고 CONTRIBUTING 또는 README 파일에서 링크하여 커뮤니티에 표시되게 하십시오.
 
@@ -40,7 +40,7 @@ related:
 <aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
   <p markdown="1" class="pquote-credit">
-— [Ada 발의](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada 발의](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
