@@ -133,7 +133,7 @@ Probablemente tengas un "acuerdo IP de empleado" con tu empresa que les da ciert
 
 * **Marca comercial** Verifica que el nombre de tu proyecto [no entre en conflicto con alguna marca existente](../starting-a-project/#evitando-conflictos-con-los-nombres). Si utilizas marcas comerciales de tu empresa en el proyecto, comprueba que no genere ning&uacute;n conflicto. [FOSSmarks](http://fossmarks.org/) es una gu&iacute;a pr&aacute;ctica para la comprensi&oacute;n de las marcas en el contexto de los proyectos de c&oacute;digo libre y abierto.
 
-* **Privacidad** ¿Recolecta tu proyecto datos de sus usuarios? ¿Recopila su proyecto datos en los servidores de la empresa sin el consentimiento de los usuarios?  Tu equipo legal puede ayudarte a cumplir con las pol&iacute;ticas de la empresa y las regulaciones externas.
+* **Privacidad** ¿Recolecta tu proyecto datos de sus usuarios? ¿Recopila su proyecto datos en los servidores de la empresa sin el consentimiento de los usuarios? Tu equipo legal puede ayudarte a cumplir con las pol&iacute;ticas de la empresa y las regulaciones externas.
 
 Si est&aacute;s lanzando el primer proyecto de c&oacute;digo abierto de tu empresa, lo anterior es m&aacute;s que suficiente para conseguirlo.
 
