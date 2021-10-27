@@ -125,7 +125,7 @@ related:
 
 როდესაც ხედავთ, რომ ნეგატიური ქცევა ხდება თქვენს პროექტზე, გამოაშკარავეთ საჯაროდ. აუხსენით, კეთილი, მაგრამ მტკიცე ტონით,რატომ არ არის მისაღები მათი ქცევა. თუ პრობლემა გაგრძელდა შეგიძლია მოსთხოვო  [მათ რომ გავიდნენ](../code-of-conduct/#enforcing-your-code-of-conduct). შენი [ქცევის კოდექსი](../code-of-conduct/) შეიძლება იყოს კონსტრუქციული გაიდლაინი ამ საუბრებისთვის.
 
-### Meet contributors where they're at
+### შეხვდით კონტრიბუტორებს იქ, სადაც ისინი არიან
 
 Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
 
