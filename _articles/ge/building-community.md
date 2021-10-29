@@ -127,57 +127,57 @@ related:
 
 ### შეხვდით კონტრიბუტორებს იქ, სადაც ისინი არიან
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+კარგი დოკუმენტაცია ხდება უფრო მნიშვნელოვანი, როდესაც თქვენი საზოგადოება იზრდება.. შემთხვევითი კონტრიბუტორები, რომლებიც შესაძლოა სხვაგვარად არ იცნობდნენ თქვენს პროექტს, კითხულობენ თქვენს დოკუმენტაციას, რათა სწრაფად მიიღონ საჭირო კონტექსტი.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+თქვენს CONTRIBUTING ფაილში, მკაფიოდ უთხარით ახალ კონტრიბუტორებს როგორ დაიწყონ. თქვენ შეიძლება დაგჭირდეთ ამ მიზნით გამოყოფილი განყოფილების გაკეთება. [Django](https://github.com/django/django), მაგალითად, აქვს სპეციალური  გვერდი ახალი კონტრიბუტორების მისასალმებლად.
 
-![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![Django-ს ახალი კონტრიბუტორების გვერდი](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+თქვენი საკითხის რიგში, ეტიკეტირებულია შეცდომები, რომლებიც შესაფერისია სხვადასხვა ტიპის კონტრიბუტორებისთვის: for example, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"კარგი პირველი საკითხი"_, or _"დოკუმენტაცია"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) გაუადვილეთ თქვენს პროექტში ახალმა ადამიანმა სწრაფად შეამოწმოს თქვენი პრობლემები და დაიწყონ მუშაობა.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+და ბოლოს, გამოიყენეთ თქვენი დოკუმენტაცია იმისთვის, რომ ადამიანებმა თავი მისასალმენულად იგრძნონ ყოველ ნაბიჯზე.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+თქვენ არასოდეს დაუკავშირდებით ადამიანთა უმეტესობას, ვინც თქვენს პროექტზე ეშვება. შეიძლება იყოს შენატანები, რომლებიც არ მიგიღიათ, რადგან ვიღაცამ თავი შეშინებულად იგრძნო ან არ იცოდა სად უნდა დაეწყო. რამდენიმე კეთილ სიტყვასაც კი შეუძლია ვინმეს ხელი შეუშალოს იმედგაცრუებულმა დატოვოს თქვენი პროექტი.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
+მაგალითად, აი როგორ [Rubinius=მა](https://github.com/rubinius/rubinius/) დაიწყო [თავისი კონტრიბუციის გაიდლაინი](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+> ჩვენ გვინდა დავიწყოთ იმით, რომ გმადლობთ  Rubinius-ის გამოყენებისთვის. ეს პროექტი სიყვარულით გახლავთ შექმნილი და ჩვენ ვაფასებთ ყველა იმ მომხმარებელს, ვინც შეცდომებს პოულობს, შესრულების აუმჯობესებს, და გვეხმარება დოკუმენტაციაში. ყოველი წვლილი მნიშვნელოვანია, ასე რომ მადლობა თქვენი კონტრიბუციისთვის. როგორც ითქვა, აქ არის რამდენიმე გაიდლაინის მითითება, რომელთა დაცვასაც გთხოვთ, რათა წარმატებით მოვაგვაროთ თქვენი პრობლემა.
 
-### Share ownership of your project
+### გააზიარეთ თქვენი პროექტის მფლობელობა
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  თქვენს ლიდერებს განსხვავებული მოსაზრებები ექნებათ, როგორც ყველა ჯანსაღი საზოგადოებას უნდა ქონდეს! თუმცა, თქვენ უნდა გადადგათ ნაბიჯები, რათა უზრუნველყოთ, რომ ყველაზე ხმამაღალი ხმა ყოველთვის არ გაიმარჯვებს ხალხის დაღლილობის გამო.
   <p markdown="1" class="pquote-credit">
-— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["რა ქმნის კარგ საზოგადოებას?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+ხალხი აღფრთოვანებულია პროექტებში წვლილის შეტანით, როდესაც ისინი გრძნობენ მემბერში გრძნობას. ეს არ ნიშნავს, რომ თქვენ უნდა შეცვალოთ თქვენი პროექტის ხედვა ან მიიღოთ წვლილის მიღება, რომელიც არ გსურთ. მაგრამ რაც უფრო მეტ კრედიტს ანიჭებთ სხვებს, მით უფრო მეტად დარჩებიან ისინი გარშემო.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+ნახეთ, შეგიძლიათ თუ არა იპოვოთ გზები, რომ მაქსიმალურად გააზიაროთ საკუთრება თქვენს საზოგადოებასთან. აქ არის რამდენიმე იდეა:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **აარიდეთ თავი მარტივი (არაკრიტიკული) შეცდომების გამოსწორებას.** ამის ნაცვლად, გამოიყენეთ ისინი, როგორც ახალი კონტრიბუტორების მოსაზიდად, ან გაუწიეთ მენტორობა ვინმეს, ვისაც სურს წვლილი შეიტანოს. თავიდან შეიძლება არაბუნებრივი ჩანდეს,მაგრამ თქვენი ინვესტიცია ანაზღაურდება გარკვეული დროის შემდეგ. მაგალითისთვის, @michaeljoseph სთხოვა კონტრიბუტორს განეხორციელებინა pull-ის მოთხოვნა შემდეგ [Cookiecutter](https://github.com/audreyr/cookiecutter) საკითხი ქვემოთ, ვიდრე თვითონ გამოესწორებინა.
 
-![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![Cookiecutter-ის პრობლემის საკითხი](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) does.
+* **დაიწყეთ CONTRIBUTOR-ის ან AUTHOR-ის ფაილი თქვენს პროექტში**სადაც ჩამოთვლილია ყველა, ვინც წვლილი შეიტანა თქვენს პროექტში, rogorc [Sinatra-ს](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) აქვს.
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* თუ თქვენ გაყავთ საკმაოდ დიდი საზოგადოება, **გააგზავნეთ ბიულეტენი ან დაწერეთ ბლოგის პოსტი** მადლობა გადაუხადეთ კონტრიბუტორებს. Rust's [ეს კვირა Rust-ზე](https://this-week-in-rust.org/) და Hoodie's [შეძახილები](http://hood.ie/blog/shoutouts-week-24.html) არი ორი კარგი მაგალითი.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **მიეცით ყველა მონაწილეს კონტრიბუციის შესაძლებლობა** @felixgeაღმოაჩინა, რომ ამით ხალხი [უფრო აღფრთოვანებული იყო მათი ლაქების გასაპრიალებლად](https://felixge.de/2013/03/11/the-pull-request-hack.html),და მან იპოვა ახალი შემსრულებლები პროექტებისთვის, რომლებზეც დიდი ხანია არ უმუშავია.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* თუ თქვენი პროექტი GitHub-ზეა, **გადაიტანეთ თქვენი პროექტი თქვენი პირადი აქაუნთიდან [ორგანიზაციაში](https://help.github.com/articles/creating-a-new-organization-account/)** და დაამატეთ მინიმუმ ერთი სარეზერვო ადმინისტრატორი.ორგანიზაციები აადვილებენ პროექტებზე მუშაობას გარე თანამშრომლებთან.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233.pdf) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+რეალობა ისაა, რომ [პროექტების უმეტესობას ყავს მხოლოდ](https://peerj.com/preprints/1233.pdf) ერთი ან ორი შემსრულებელი, რომლებიც ასრულებენ სამუშაოს უმეტეს ნაწილს. რაც უფრო დიდია თქვენი პროექტი და რაც უფრო დიდია თქვენი საზოგადოება, მით უფრო ადვილია დახმარების პოვნა.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+მიუხედავად იმისა, რომ ყოველთვის ვერ იპოვით ვინმეს, ვინც ზარს უპასუხებს, სიგნალის გაშვება ზრდის სხვა ადამიანების გამოხმაურების შანსებს. და რაც უფრო ადრე დაიწყებთ, მით უფრო მალე შეძლებთ ადამიანების დახმარებას.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  \[თქვენს\] ინტერესშია კონტრიბუტორების დაქირავება, რომლებსაც სიამოვნებთ და რომელთაც შეუძლიათ გააკეთონ ის, რასაც თქვენ არ აკეთებთ. მოგწონთ კოდირება, მაგრამ არა კითხვებზე პასუხის გაცემა? შემდეგ დაასახელეთ ის პირები თქვენს საზოგადოებაში, ვინც ამას აკეთებს და მიეცით მათ უფლებები.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["მისასალმებელი ქომუნითი"](http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
