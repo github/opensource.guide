@@ -181,43 +181,43 @@ related:
   </p>
 </aside>
 
-## Resolving conflicts
+## კონფლიქტების მოგვარება
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+თქვენი პროექტის ადრეულ ეტაპზე ძირითადი გადაწყვეტილებების მიღება მარტივია.როცა რაღაცის გაკეთება გინდა, უბრალოდ აკეთებ.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+რაც უფრო პოპულარული ხდება თქვენი პროექტი, უფრო მეტი ადამიანი დაინტერესდება თქვენს მიერ მიღებული გადაწყვეტილებებით.მაშინაც კი, თუ არ გყავთ კონტრიბუტორების დიდი საზოგადოება, თუ თქვენს პროექტს ბევრი მომხმარებელი ჰყავს, ნახავთ ადამიანებს, რომლებიც იწონებენ გადაწყვეტილებებს ან აყენებენ საკუთარ საკითხებს.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+უმეტესწილად, თუ თქვენ განავითარეთ მეგობრული ურთიერთობა, პატივსაცემი საზოგადოება და ღიად დააფიქსირა თქვენი პროცესები, თქვენს საზოგადოებას უნდა შეეძლოს გამოსავლის პოვნა. მაგრამ ხანდახან აწყდებით საკითხს, რომლის მოგვარებაც ცოტა რთულია.
 
-### Set the bar for kindness
+### დააწესეთ სიკეთის სტანდარტი
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+როდესაც თქვენი საზოგადოება ებრძვის რთულ საკითხს, ტემპერამენტი შეიძლება გაიზარდოს. ადამიანები შეიძლება გაბრაზდნენ ან იმედგაცრუებულნი გახდნენ და ეს ერთმანეთზე ან თქვენზე გადაიტანონ.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+თქვენი, როგორც შემნახველის ამოცანაა, თავიდან აიცილოთ ეს სიტუაციები ესკალაციისგან. მაშინაც კი, თუ თქვენ გაქვთ ძლიერი აზრი ამ თემაზე, შეეცადეთ დაიკავოთ მოდერატორის ან ფასილიტატორის პოზიცია, ვიდრე კამათზე გადასვლა და თქვენი შეხედულებების გაღვივება. თუ ვინმე არის არაკეთილსინდისიერი ან მონოპოლიზებულია საუბარი, [იმოქმედეთ დროულად](../building-community/#dont-tolerate-bad-actors) რათა დისკუსიები იყოს სამოქალაქო და პროდუქტიული.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  როგორც პროექტის შემსრულებელი, ძალზე მნიშვნელოვანია თქვენი კონტრიბუტორების მიმართ პატივისცემა. ისინი ხშირად იღებენ თქვენს ნათქვამს ძალიან პირადად.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["იყავით გულწრფელი ან იყავით თქვენს გზაზე"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
-Other people are looking to you for guidance. Set a good example. You can still express disappointment, unhappiness, or concern, but do so calmly.
+სხვა ადამიანები ეძებენ თქვენს ხელმძღვანელობას. მიეცით კარგი მაგალითი. თქვენ მაინც შეგიძლიათ გამოხატოთ იმედგაცრუება, უბედურება ან შეშფოთება, მაგრამ ეს გააკეთეთ მშვიდად.
 
-Keeping your cool isn't easy, but demonstrating leadership improves the health of your community. The internet thanks you.
+სიმშვიდის შენარჩუნება ადვილი არ არის, მაგრამ ლიდერობის დემონსტრირება აუმჯობესებს თქვენი საზოგადოების ჯანმრთელობას. ინტერნეტი მადლობას გეტყვით.
 
-### Treat your README as a constitution
+### მოეპყარით თქვენს README-ის, როგორც კონსტიტუციას
 
-Your README is [more than just a set of instructions](../starting-a-project/#writing-a-readme). It's also a place to talk about your goals, product vision, and roadmap. If people are overly focused on debating the merit of a particular feature, it may help to revisit your README and talk about the higher vision of your project. Focusing on your README also depersonalizes the conversation, so you can have a constructive discussion.
+თქვენი README არის [უფრო მეტი ვიდრე უბრალოდ ინსტრუქციების ჩამონათვალი](../starting-a-project/#writing-a-readme). ეს ასევე არის ადგილი სასაუბროდ თქვენს მიზნებზე, პროდუქტის ხედვაზე და დირექტორიების რუკაზე. თუ ადამიანები ზედმეტად არიან ორიენტირებულნი კონკრეტული მახასიათებლის დამსახურებაზე დებატებზე, შესაძლოა დაგეხმაროთ თქვენი README-ის ხელახლა გადახედვაში და თქვენი პროექტის უფრო მაღალ ხედვაზე საუბარში.თქვენს README-ზე ფოკუსირება ასევე ახდენს საუბრის დეპერსონალიზაციას, ასე რომ თქვენ შეგიძლიათ გქონდეთ კონსტრუქციული დისკუსია.
 
-### Focus on the journey, not the destination
+### ყურადღება გაამახვილეთ მოგზაურობაზე და არა დანიშნულების ადგილზე
 
-Some projects use a voting process to make major decisions. While sensible at first glance, voting emphasizes getting to an "answer," rather than listening to and addressing each other's concerns.
+ზოგიერთი პროექტი იყენებს ხმის მიცემის პროცესს ძირითადი გადაწყვეტილებების მისაღებად. მიუხედავად იმისა, რომ ერთი შეხედვით გონივრულია, კენჭისყრა ხაზს უსვამს "პასუხის" მიღებას, ვიდრე ერთმანეთის შეშფოთების მოსმენას და მათ მიმართებას.
 
-Voting can become political, where community members feel pressured to do each other favors or vote a certain way. Not everybody votes, either, whether it's the [silent majority](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in your community, or current users who didn't know a vote was taking place.
+ხმის მიცემა შეიძლება გახდეს პოლიტიკური, სადაც საზოგადოების წევრები გრძნობენ ზეწოლას ერთმანეთის წინააღმდეგ ან თუნდაც ხმის მიცემის გარკვეული გზებით. ყველა არ აძლევს ხმას, შეიძლება ეს, არის [მდუმარე უმრავლესობა](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) თქვენს საზოგადოებაში, ან ამჟამინდელი მომხმარებლები, რომლებმაც არ იცოდნენ, რომ ხმის მიცემა ხდებოდა.
 
-Sometimes, voting is a necessary tiebreaker. As much as you are able, however, emphasize ["consensus seeking"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) rather than consensus.
+ხანდახან ხმის მიცემა აუცილებელი გასამარჯვებლად. თუმცა, რამდენადაც შეგიძლიათ, ხაზგასმით აღნიშნეთ ["კონსენსუსის ძიება"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) ვიდრე შეთანხმება.
 
 Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
 
@@ -263,14 +263,14 @@ Is everybody in the community upset about, or even engaged with, this issue? Or 
 
 If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
 
-### Identify a community tiebreaker
+### გამოავლინეთ საზოგადოების გამარჯვებული
 
-With a good attitude and clear communication, most difficult situations are resolvable. However, even in a productive conversation, there can simply be a difference in opinion on how to proceed. In these cases, identify an individual or group of people that can serve as a tiebreaker.
+კარგი დამოკიდებულებით და მკაფიო კომუნიკაციით, ყველაზე რთული სიტუაციები არის მოგვარებადი. თუმცა, პროდუქტიულ საუბარშიც კი, უბრალოდ შეიძლება არსებობდეს აზრთა სხვადასხვაობა იმის შესახებ, თუ როგორ უნდა გააგრძელოთ. ამ შემთხვევაში, გამოავლინეთ ინდივიდი ან ადამიანთა ჯგუფი, რომელიც შეიძლება იყოს გამარჯვებული
 
-A tiebreaker could be the primary maintainer of the project, or it could be a small group of people who make a decision based on voting. Ideally, you've identified a tiebreaker and the associated process in a GOVERNANCE file before you ever have to use it.
+ტაიბრეიკერი შეიძლება იყოს პროექტის მთავარი შემსრულებელი,ან შეიძლება იყოს ადამიანთა მცირე ჯგუფი, რომელიც გადაწყვეტილებას იღებს ხმის მიცემის საფუძველზე. იდეალურ შემთხვევაში, თქვენ გამოავლინეთ გამარჯვებული და მასთან დაკავშირებული პროცესი GOVERNANCE ფაილში, სანამ ოდესმე მოგიწევთ მისი გამოყენება.
 
-Your tiebreaker should be a last resort. Divisive issues are an opportunity for your community to grow and learn. Embrace these opportunities and use a collaborative process to move to a resolution wherever possible.
+თქვენი ტაიბრეიკერი უკანასკნელი საშუალება უნდა იყოს. განხეთქილების საკითხები თქვენი საზოგადოების განვითარებისა და სწავლის შესაძლებლობაა. ისარგებლეთ ამ შესაძლებლობებით და გამოიყენეთ ერთობლივი პროცესი გადაწყვეტილების მისაღებად, სადაც ეს შესაძლებელია.
 
-## Community is the ❤️ of open source
+## საზოგადოება არის ❤️ ღია წყაროსთვის
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+ჯანსაღი, აყვავებული საზოგადოებები ავსებენ ათასობით საათს, რომელიც იხარჯება ღია წყაროში ყოველ კვირას. ბევრი მონაწილე მიუთითებს სხვა ადამიანებზე მუშაობის მიზეზს - ან რომ არ მუშაობენ - ღია წყაროზე. სწავლის პროცესში ისწავლით როგორ გამოიყენოთ ეს ძალა კონსტრუქციულად, თქვენ დაეხმარებით ვინმეს დაუვიწყარი ღია კოდის გამოცდილების მიღებაში.
