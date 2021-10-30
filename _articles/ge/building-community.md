@@ -219,49 +219,51 @@ related:
 
 ხანდახან ხმის მიცემა აუცილებელი გასამარჯვებლად. თუმცა, რამდენადაც შეგიძლიათ, ხაზგასმით აღნიშნეთ ["კონსენსუსის ძიება"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) ვიდრე შეთანხმება.
 
-Under a consensus seeking process, community members discuss major concerns until they feel they have been adequately heard. When only minor concerns remain, the community moves forward. "Consensus seeking" acknowledges that a community may not be able to reach a perfect answer. Instead, it prioritizes listening and discussion.
+კონსენსუსის ძიების პროცესში, საზოგადოების წევრები განიხილავენ ძირითად საკითხებს, სანამ არ იგრძნობენ, რომ მათ სათანადოდ მოუსმენენ. როცა მხოლოდ უმნიშვნელო საზრუნავი რჩება, საზოგადოება წინ მიიწევს. „კონსენსუსის ძიება“ აღიარებს, რომ საზოგადოებამ შეიძლება ვერ მიაღწიოს სრულყოფილ პასუხს. ამის ნაცვლად, ის პრიორიტეტს ანიჭებს მოსმენას და დისკუსიას.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
+  ნაწილი მიზეზი იმისა, თუ რატომ არ არსებობს ხმის მიცემის სისტემა Atom-ის საკითხებში იმიტომ, რომ Atom-ის გუნდი არ აპირებს ხმის მიცემის სისტემას ყველა შემთხვევაში.ზოგჯერ ჩვენ გვიწევს ავირჩიოთ ის, რაც მიგვაჩნია სწორად, თუნდაც ის არაპოპულარული იყოს. (...)რაც შემიძლია შემოგთავაზოთ და დავპირდე, რომ გავაკეთებ... არის ის, რომ ჩემი საქმეა საზოგადოების მოსმენა.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on [Atom'-ის გადაწყვეტილების მიღების პროცესი](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
   </p>
 </aside>
 
-Even if you don't actually adopt a consensus seeking process, as a project maintainer, it's important that people know you are listening. Making other people feel heard, and committing to resolving their concerns, goes a long way to diffuse sensitive situations. Then, follow up on your words with actions.
+მაშინაც კი, თუ თქვენ რეალურად არ მიიღებთ კონსენსუსის ძიების პროცესს, როგორც პროექტის შემსრულებელი, მნიშვნელოვანია, რომ ხალხმა იცოდეს, რომ უსმენთ.სხვა ადამიანების გაგონება და მათი პრობლემების გადაჭრის ვალდებულება დიდ გზას ადგას მგრძნობიარე სიტუაციების გაფანტვაში. შემდეგ, მიჰყევით თქვენს სიტყვებს მოქმედებებით.
 
-Don't rush into a decision for the sake of having a resolution. Make sure that everybody feels heard and that all information has been made public before moving toward a resolution.
+ნუ ჩქარობთ გადაწყვეტილების მიღებას გადაწყვეტილების მიღების მიზნით. დარწმუნდით, რომ ყველა გრძნობს, რომ ისმის და რომ ყველა ინფორმაცია საჯაროდ არის ცნობილი, სანამ გადაწყვეტისკენ გადახვალთ.
 
-### Keep the conversation focused on action
+### შეინახეთ საუბარი მოქმედებაზე
 
-Discussion is important, but there is a difference between productive and unproductive conversations.
+დისკუსია მნიშვნელოვანია, მაგრამ არის განსხვავება პროდუქტიულ და არაპროდუქტიულ საუბრებს 
+შორის.
 
-Encourage discussion so long as it is actively moving towards resolution. If it's clear that conversation is languishing or going off-topic, jabs are getting personal, or people are quibbling about minor details, it's time to shut it down.
+წაახალისეთ დისკუსია, სანამ ის აქტიურად მიიწევს გადაწყვეტისკენ. თუ ცხადია, რომ საუბარი თრგუნავს ან თემას არ ეხება, ხვრელები ხდება პიროვნული, ან ხალხი კამათობს წვრილმან დეტალებზე, მაშინ დროა დაასრულოთ კომუნიკაცია.
 
-Allowing these conversations to continue is not only bad for the issue at hand, but bad for the health of your community. It sends a message that these types of conversations are permitted or even encouraged, and it can discourage people from raising or resolving future issues.
+ამ საუბრების გაგრძელების დაშვება არა მხოლოდ საზიანოა განსახილველი საკითხისთვის,მაგრამ საზიანოა თქვენი საზოგადოების ჯამრთელი კომუნიკაციისთვის. ის აგზავნის შეტყობინებას, რომ ამ ტიპის საუბრები დაშვებულია ან წახალისებულია,და ამან შეიძლება ხელი შეუშალოს ადამიანებს სამომავლო საკითხების წამოჭრის ან გადაჭრისგან.
 
-With every point made by you or by others, ask yourself, _"How does this bring us closer to a resolution?"_
+ყოველ თქვენს მიერ მინიჭებულ მნიშვნელობისას ან სხვისმიე, ჰკითხე საკუთარ თავს, _"როგორ გვაახლოებს ეს გადაწყვეტილებასთან?"_
 
-If the conversation is starting to unravel, ask the group, _"Which steps should we take next?"_ to refocus the conversation.
+თუ საუბარი იწყებს გახსნას, ჰკითხეთ ჯგუფს, _"რა ნაბიჯები უნდა გადავდგათ შემდეგ?"_ რათა ~
+მოხდეს საუბრის ფოკუსირება.
 
-If a conversation clearly isn't going anywhere, there are no clear actions to be taken, or the appropriate action has already been taken, close the issue and explain why you closed it.
+თუ საუბარი აშკარად არსად მიდის, არ არის გასატარებელი მკაფიო ქმედებები, ან შესაბამისი ქმედება უკვე მიღებულია, დახურეთ საკითხი და ახსენით, რატომ დახურეთ იგი.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
+  აღწერის სარგებლობისაკენ წარმართვა დაძაბულობის გარეშე ხელოვნებაა. არ იმუშავებს უბრალოდ ხალხისთვის გაფრთხილება, რომ შეწყვიტონ დროის დაკარგვა, ან რომ სთხოვეთ არ გამოაქვეყნონ, თუ რაიმე კონსტრუქციული სათქმელი არ აქვთ. (...) ამის ნაცვლად, თქვენ უნდა შესთავაზოთ პირობები შემდგომი პროგრესისთვის: მიეცით ხალხს მარშრუტი, გზა, რომელსაც უნდა მიჰყვეთ, რომელსაც მივყავართ თქვენთვის სასურველ შედეგებამდე, თუმცა ისე არა უნდა ჟღერდეს, თითქოს ქცევას კარნახობთ.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
-### Pick your battles wisely
+### აირჩიეთ თქვენი ბრძოლა გონივრულად
 
-Context is important. Consider who is involved in the discussion and how they represent the rest of the community.
+კონტექსტი მნიშვნელოვანია. იფიქრეთ იმაზე, თუ ვინ არის ჩართული დისკუსიაში და როგორ წარმოადგენენ დანარჩენ საზოგადოებას.
 
-Is everybody in the community upset about, or even engaged with, this issue? Or is a lone troublemaker? Don't forget to consider your silent community members, not just the active voices.
+არის თუ არა საზოგადოებაში ყველა განაწყენებული, ან თუნდაც დაკავებული ამ საკითხით? ან მარტოხელა პრობლემისმქნელი. არ დაგავიწყდეთ თქვენი საზოგადოების მდუმარე წევრების გათვალისწინება, არა მხოლოდ აქტიური ხმები.
 
-If the issue does not represent the broader needs of your community, you may just need to acknowledge the concerns of a few people. If this is a recurring issue without a clear resolution, point them to previous discussions on the topic and close the thread.
+თუ საკითხი არ წარმოადგენს თქვენი საზოგადოების უფრო ფართო საჭიროებებს, შეიძლება დაგჭირდეთ მხოლოდ რამდენიმე ადამიანის წუხილის აღიარება. თუ ეს განმეორებადი საკითხია მკაფიო გადაწყვეტის გარეშე, მიუთითეთ ისინი წინა დისკუსიების თემაზე და დახურეთ თემა.
 
 ### გამოავლინეთ საზოგადოების გამარჯვებული
 
