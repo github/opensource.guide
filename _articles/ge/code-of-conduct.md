@@ -1,7 +1,7 @@
 ---
 lang: ge
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+title: თქვენი ქცევის კოდექსი
+description: საზოგადოების ჯანსაღი და კონსტრუქციული ქცევის ხელშეწყობა ქცევის კოდექსის მიღებითა და აღსრულებით. 
 class: coc
 order: 8
 image: /assets/images/cards/coc.png
@@ -10,26 +10,26 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## რატომ მჭირდება ქცევის კოდექსი? 
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+ქცევის კოდექსი არის დოკუმენტი, რომელიც აყალიბებს თქვენი პროექტის მონაწილეთა ქცევის მოლოდინებს. ქცევის კოდექსის მიღება და აღსრულება დაგეხმარებათ შექმნათ პოზიტიური სოციალური ატმოსფერო თქვენი საზოგადოებისთვის. 
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+ქცევის კოდექსი დაგეხმარებათ დაიცვათ არა მხოლოდ თქვენი მონაწილეები, არამედ საკუთარი თავი.  თუ თქვენ ინარჩუნებთ პროექტს, შეიძლება აღმოაჩინოთ, რომ სხვა მონაწილეების არაპროდუქტიულმა დამოკიდებულებამ შეიძლება დროთა განმავლობაში დაცლილად ან უკმაყოფილო გაგრძნობინონ თქვენი სამუშაო. 
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+ქცევის კოდექსი გაძლევს უფლებას ხელი შეუწყო ჯანსაღი, კონსტრუქციული საზოგადოების ქცევას . პროაქტიულობა ამცირებს იმის ალბათობას, რომ თქვენ ან სხვები დაიღალოთ თქვენი პროექტით ,და გეხმარებათ იმოქმედოთ, როცა ვინმე აკეთებს იმას, რასაც არ ეთანხმებით. 
 
-## Establishing a code of conduct
+## ქცევის კოდექსის დადგენა 
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+შეეცადეთ დაადგინოთ ქცევის კოდექსი რაც შეიძლება ადრე: იდეალურ შემთხვევაში, როდესაც პირველად შექმნით თქვენს პროექტს. 
 
-In addition to communicating your expectations, a code of conduct describes the following:
+თქვენი მოლოდინების გადმოცემის გარდა, ქცევის კოდექსი აღწერს შემდეგს :
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* სადაც მოქმედებს ქცევის კოდექსი  _(მხოლოდ საკითხებზე და მოთხოვნებთან დაკავშირებით ,ან საზოგადოების აქტივობები, როგორიცაა ღონისძიებები ?)_
+* ვისზეც ვრცელდება ქცევის კოდექსი  _(საზოგადოების წევრები და დამხმარეები , რაც შეეხება სპონსორებს ?)_
+* რა მოხდება, თუ ვინმე დაარღვევს ქცევის კოდექსს 
+* როგორ შეუძლია ვინმეს შეატყობინოს დარღვევები 
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+სადაც შეგიძლიათ, გამოიყენეთ წინა ხელოვნება . [კონტრიბუტორის შეთანხმება ](https://contributor-covenant.org/) არის ჩამოყალიბებული ქცევის კოდექსი, რომელსაც იყენებს 40000-ზე მეტი ღია კოდის პროექტი ,  Kubernetes-ის ჩათვლით, Rails-ის, და Swift-ის.
 
 The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) are also two good code of conduct examples.
 
