@@ -31,38 +31,38 @@ related:
 
 სადაც შეგიძლიათ, გამოიყენეთ წინა ხელოვნება . [კონტრიბუტორის შეთანხმება ](https://contributor-covenant.org/) არის ჩამოყალიბებული ქცევის კოდექსი, რომელსაც იყენებს 40000-ზე მეტი ღია კოდის პროექტი ,  Kubernetes-ის ჩათვლით, Rails-ის, და Swift-ის.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) are also two good code of conduct examples.
+ [Django-ს Ქცევის კოდექსი ](https://www.djangoproject.com/conduct/) და  [მოქალაქის ქცევის კოდექსი ](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) ასევე არის ორი კარგი ქცევის კოდექსის მაგალითი. 
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+მოათავსეთ CODE_OF_CONDUCT ფაილი თქვენი პროექტის root დირექტორიაში,  და გახადეთ ის ხილული თქვენი საზოგადოებისთვის თქვენი CONTRIBUTING ან README ფაილთან მიბმით .
 
-## Deciding how you'll enforce your code of conduct
+## გადაწყვიტეთ როგორ აღასრულოთ თქვენი ქცევის კოდექსი 
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  ქცევის კოდექსი, რომელიც არ არის (ან არ შეიძლება) აღსრულდეს, უარესია, ვიდრე ქცევის კოდექსის არარსებობა:  ის აგზავნის მესიჯს, რომ ქცევის კოდექსში მოცემული ღირებულებები რეალურად არ არის მნიშვნელოვანი ან პატივცემული თქვენს საზოგადოებაში. 
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+თქვენ უნდა აუხსნათ, როგორ აღსრულდება თქვენი ქცევის კოდექსი  **_სანამ_**  დარღვევა  მოხდება. ამის გაკეთების რამდენიმე მიზეზი არსებობს:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* ეს ცხადყოფს, რომ თქვენ სერიოზულად ახორციელებთ მოქმედებას, როცა ეს საჭიროა 
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* თქვენი საზოგადოება უფრო დარწმუნებული იქნება, რომ საჩივრები რეალურად განიხილება. 
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* თქვენ დაარწმუნებთ თქვენს საზოგადოებას, რომ განხილვის პროცესი სამართლიანი და გამჭვირვალეა, თუ ისინი ოდესმე გამოიძიებენ დარღვევის გამო. 
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+თქვენ უნდა მისცეთ ხალხს პირადი გზა (როგორიცაა ელექტრონული ფოსტის მისამართი), რათა შეატყობინონ ქცევის კოდექსის დარღვევის შესახებ და აუხსნათ ვინ იღებს ამ ანგარიშს. ეს შეიძლება იყოს დამხმარე, შემსრულებელთა ჯგუფი ან ქცევის კოდექსის სამუშაო ჯგუფი. 
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+არ დაგავიწყდეთ, რომ ვინმეს შეიძლება სურდეს შეატყობინოს დარღვევის შესახებ იმ პირის შესახებ, რომელიც იღებს ამ ანგარიშებს.  ამ შემთხვევაში, მიეცით მათ საშუალება, შეატყობინონ სხვას დარღვევების შესახებ . მაგალითისთვის, @ctb და @mr-c [ხსნიან თავიანთ პროექტში](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> შეურაცხმყოფელი, შევიწროების ან სხვაგვარად მიუღებელი ქცევის შემთხვევები შეიძლება დაფიქსირდეს ელექტრონული ფოსტით  **khmer-project@idyll.org** რომელიც მხოლოდ მიდის  C. Titus Brown და Michael R. Crusoe-ზე. რომელიმე მათგანთან დაკავშირებული პრობლემის შესახებ შეტყობინებისთვის, გთხოვთ, გაუგზავნოთ მეილი  **Judi Brown Clarke, Ph.D.** ევოლუციის მოქმედებაში შესწავლის BEACON ცენტრის მრავალფეროვნების დირექტორი,  NSF ცენტრი მეცნიერებისა და ტექნოლოგიებისთვის .*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+შთაგონებისთვის, შეამოწმეთ  Django's [აღსრულების სახელმძღვანელო](https://www.djangoproject.com/conduct/enforcement-manual/) (თუმცა შეიძლება არ დაგჭირდეთ რაიმე ასეთი ყოვლისმომცველი , თქვენი პროექტის ზომიდან გამომდინარე ).
 
-## Enforcing your code of conduct
+## თქვენი ქცევის კოდექსის აღსრულება 
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+ზოგჯერ, თქვენი მცდელობის მიუხედავად , ვიღაც გააკეთებს ისეთ რამეს, რაც არღვევს ამ კოდექსს. უარყოფითი ან მავნე ქცევის მოსაგვარებლად რამდენიმე გზა არსებობს .
 
 ### Gather information about the situation
 
