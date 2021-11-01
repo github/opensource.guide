@@ -64,51 +64,51 @@ related:
 
 ზოგჯერ, თქვენი მცდელობის მიუხედავად , ვიღაც გააკეთებს ისეთ რამეს, რაც არღვევს ამ კოდექსს. უარყოფითი ან მავნე ქცევის მოსაგვარებლად რამდენიმე გზა არსებობს .
 
-### Gather information about the situation
+### შეაგროვეთ ინფორმაცია სიტუაციის შესახებ 
 
-Treat each community member's voice as important as your own.If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+მოეპყარით საზოგადოების თითოეული წევრის ხმას ისე მნიშვნელოვანს, როგორც საკუთარს. თუ თქვენ მიიღებთ შეტყობინებას, რომ ვინმემ დაარღვია ქცევის კოდექსი, მიიღეთ ეს სერიოზულად და გამოიძიეთ ეს საკითხი, მაშინაც კი, თუ ეს არ შეესაბამება თქვენს გამოცდილებას ამ ადამიანთან. ამის გაკეთება თქვენს საზოგადოებას მიანიშნებს, რომ თქვენ აფასებთ მათ პერსპექტივას და ენდობით მათ გადაწყვეტილებას.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+თემის განსახილველი წევრი შეიძლება იყოს განმეორებითი დამნაშავე, რომელიც მუდმივად აგრძნობინებს სხვებს უხერხულობას, ან შეიძლება მხოლოდ ერთხელ თქვას ან გააკეთა რაღაც. ორივე შეიძლება იყოს მოქმედების საფუძველი, კონტექსტიდან გამომდინარე.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+სანამ უპასუხებთ, მიეცით საკუთარ თავს დრო, რომ გაიგოთ რა მოხდა.  წაიკითხეთ პიროვნების წარსული კომენტარები და საუბრები, რათა უკეთ გაიგოთ ვინ არიან ისინი და რატომ მოიქცნენ ასე.  შეეცადეთ შეაგროვოთ თქვენი პერსპექტივები ამ ადამიანისა და მისი ქცევის შესახებ. 
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  არ ჩაერთოთ კამათში. ნუ გადაუხვევთ სხვის ქცევას, სანამ არ დაასრულებთ საქმეს. ფოკუსირება გააკეთეთ იმაზე, რაც გჭირდებათ.
   <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+— Stephanie Zvan, ["ასე რომ, თქვენ გაქვთ საკუთარი თავის პოლიტიკა. ახლა რა? "](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### მიიღეთ შესაბამისი ზომები 
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+საკმარისი ინფორმაციის შეგროვებისა და დამუშავების შემდეგ, თქვენ უნდა გადაწყვიტოთ რა უნდა გააკეთოთ. თქვენი შემდეგი ნაბიჯების განხილვისას გახსოვდეთ, რომ თქვენი, როგორც მოდერატორის მიზანია უსაფრთხო, პატივისცემით და თანამშრომლობითი გარემოს შექმნა. იფიქრეთ არა მხოლოდ იმაზე, თუ როგორ უნდა გაუმკლავდეთ მოცემულ სიტუაციას, მაგრამ როგორ იმოქმედებს თქვენი პასუხი თქვენი საზოგადოების დანარჩენ ქცევაზე და მოლოდინებზე. 
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+როდესაც ვინმე ატყობინებს ქცევის კოდექსის დარღვევას, ეს თქვენი და არა მათი მოვალეობაა, გაუმკლავდეთ მას. ზოგჯერ რეპორტიორი ავრცელებს ინფორმაციას, რომელიც დიდ საფრთხეს უქმნის მათ კარიერას, რეპუტაციას ან ფიზიკურ უსაფრთხოებას. მათი იძულება, დაუპირისპირდნენ მათ მოძალადეებს, შეიძლება რეპორტიორი კომპრომატიულ მდგომარეობაში ჩააგდოს. თქვენ უნდა აწარმოოთ პირდაპირი კომუნიკაცია განსახილველ ადამიანთან, თუ რეპორტიორი პირდაპირ არ ითხოვს სხვას.
 
-There are a few ways you might respond to a code of conduct violation:
+ქცევის კოდექსის დარღვევაზე რეაგირების რამდენიმე გზა არსებობს:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **მიეცით მოცემული პირი საჯარო გაფრთხილება** და აუხსენით, როგორ უარყოფითად იმოქმედა მათმა ქცევამ სხვებზე, სასურველია არხზე, სადაც ეს მოხდა. სადაც შესაძლებელია, საჯარო კომუნიკაცია დანარჩენ საზოგადოებას აწვდის, რომ თქვენ სერიოზულად იღებთ ქცევის კოდექსს. იყავით კეთილი, მაგრამ მტკიცე კომუნიკაციაში.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **პირადად დაუკავშირდით ადამიანს** კითხვაზე იმის ასახსნელად, თუ როგორ იმოქმედა მათმა ქცევამ სხვებზე. შეიძლება დაგჭირდეთ პირადი საკომუნიკაციო არხის გამოყენება, თუ სიტუაცია ეხება მგრძნობიარე პერსონალურ ინფორმაციას. თუ ვინმე პირადად დაუკავშირდებით, კარგი იდეაა CC, ასე რომ მათ იციან, რომ თქვენ იმოქმედეთ. მანამდე სთხოვეთ მომხსენებელს თანხმობა სანამ CC-ის გაუწევ.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+ზოგჯერ გადაწყვეტილების მიღწევა შეუძლებელია. მოცემული ადამიანი შეიძლება გახდეს აგრესიული ან მტრული, როდესაც დაუპირისპირდება ან არ ცვლის თავის ქცევას. ამ სიტუაციაში, შეიძლება გქონდეთ უფრო ძლიერი ქმედებების განხილვა. მაგალითისთვის:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **შეაჩერე პირი** პროექტისგან განხილული, რომელიც განხორციელდა პროექტის ნებისმიერ ასპექტში მონაწილეობის დროებითი აკრძალვით 
 
-* **Permanently ban** the person from the project
+* **სამუდამოდ აკრძალვა** პირი პროექტიდან
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+წევრების აკრძალვა მსუბუქად არ უნდა იქნას მიღებული და წარმოადგენს პერსპექტივების მუდმივ და შეურიგებელ განსხვავებას. თქვენ უნდა მიიღოთ ეს ზომები მხოლოდ მაშინ, როდესაც ცხადია, რომ გადაწყვეტილების მიღწევა შეუძლებელია. 
 
-## Your responsibilities as a maintainer
+## თქვენი მოვალეობები, როგორც დამხმარე
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+ქცევის კოდექსი არ არის კანონი, რომელიც აღსრულდება თვითნებურად. თქვენ ხართ ქცევის კოდექსის აღმსრულებელი და თქვენი პასუხისმგებლობაა დაიცვას ქცევის კოდექსის დადგენილი წესები.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+როგორც დამხმარე, თქვენ ადგენთ გაიდლაინებს თქვენი საზოგადოებისთვის და აღასრულებთ ამ მითითებებს თქვენი ქცევის კოდექსით დადგენილი წესების შესაბამისად. ეს ნიშნავს ქცევის კოდექსის დარღვევის შესახებ ნებისმიერი ანგარიშის სერიოზულად მიღებას. მომხსენებელს ევალება მათი საჩივრის საფუძვლიანი და სამართლიანი განხილვა. თუ დაადგენთ, რომ ქცევა, რომლის შესახებაც მათ განაცხადეს, არ არის დარღვევა, ნათლად აცნობეთ მათ და აუხსენით, რატომ არ აპირებთ მასზე ზომების მიღებას. რას გააკეთებენ ამით, მათი გადასაწყვეტია: მოითმენთ ქცევას, რომლითაც მათ პრობლემა ჰქონდათ, ან შეწყვიტეთ მონაწილეობა საზოგადოებაში. 
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+ქცევის მოხსენება, რომელიც _ტექნიკურად_ არ არღვევს ქცევის კოდექსს, შეიძლება მაინც მიუთითებდეს, რომ თქვენს საზოგადოებაში არის პრობლემა, და თქვენ უნდა გამოიკვლიოთ ეს პოტენციური პრობლემა და იმოქმედოთ შესაბამისად. ეს შეიძლება მოიცავდეს თქვენი ქცევის კოდექსის გადახედვას მისაღები ქცევის გასარკვევად და/ან იმ პირთან საუბრისას, რომლის ქცევაც იყო მოხსენებული, და ეუბნება მათ, რომ მიუხედავად იმისა, რომ მათ არ დაარღვიეს ქცევის კოდექსი, ისინი სცილდებიან იმას, რაც მოსალოდნელია და გარკვეულ მონაწილეები უხერხულად გრძნობენ .
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+საბოლოოდ, როგორც მეინთეინერი, თქვენ ადგენთ და აღასრულებთ მისაღები ქცევის სტანდარტებს. თქვენ გაქვთ შესაძლებლობა ჩამოაყალიბოთ პროექტის საზოგადოების ღირებულებები, და მონაწილეები მოელიან, რომ განახორციელოთ ეს ღირებულებები სამართლიანად და თანაბარი გზით.
 
-## Encourage the behavior you want to see in the world 🌎
+## წაახალისეთ ის ქცევა, რომლის ნახვაც გსურთ მსოფლიოში 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+როდესაც პროექტი არაკეთილსინდისიერად გეჩვენებათ, მაშინაც კი, თუ ეს არის მხოლოდ ერთი ადამიანი, რომლის ქცევას სხვები მოითმენენ, თქვენ რისკავთ დაკარგოთ კიდევ ბევრი კონტრიბუტორი, რომელთაგან ზოგიერთს შეიძლება არც კი შეხვდეთ. ყოველთვის არ არის ადვილი ქცევის კოდექსის მიღება ან აღსრულება, მაგრამ მისასალმებელი გარემოს ხელშეწყობა დაგეხმარებათ თქვენი საზოგადოების განვითარებაში.
