@@ -22,10 +22,7 @@ GEM
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
-    ethon (0.15.0)
-      ffi (>= 1.15.0)
-    eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
+    
     execjs (2.8.1)
     faraday (1.8.0)
       faraday-em_http (~> 1.0)
