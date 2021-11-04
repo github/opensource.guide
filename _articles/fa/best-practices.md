@@ -217,7 +217,7 @@ related:
 
 تست‌های خودکاری را طراحی کنید که برای همه مشارکت‌های آتی اجرا شود و اطمینان حاصل کنید که تستهای شما به راحتی توسط مشارکت‌کنندگان قابل اجرا باشند. قبول کردن درخواست‌های مشارکت در کدها را ملزم به قبول شدن در آن تست بکنید. با این کار، حداقل استاندارد کیفیتی را برای همه‌ی درخواست‌ها تعیین می‌کنید. [با بررسی وضعیت](https://help.github.com/articles/about-required-status-checks/) در <span dir="rtl">GitHub</span> می‌توانید اطمینان حاصل کنید که بدون گذراندن تست‌های شمااجازه‌ی هیچ گونه تغییری داده نمی‌شود.
 
-اگر تست‌هایی اضافه کردید، حتماً نحوه‌ی کارکرد آن‌ها را در فایل <span dir="rtl">(CONTRIBUTING)</span> (مشارکت) خود توضیح دهید.
+اگر تست‌هایی اضافه کردید، حتماً نحوه‌ی کارکرد آن‌ها را در فایل <span dir="rtl">CONTRIBUTING</span> (مشارکت) خود توضیح دهید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
@@ -239,7 +239,7 @@ related:
 * ابزار [no-response](https://github.com/probot/no-response)، مسائلی را که نویسنده به درخواست‌ها برای اطلاعات بیشتر پاسخ نداده است، می‌بندد.
 * ابزار [dependabot-preview](https://github.com/marketplace/dependabot-preview)، هر روز «فایل‌های وابسته» (مثل کتابخانه‌ها یا کلاس‌های جانبی یا ماژول‌ها) شما را از نظر الزامات منسوخ شده بررسی می‌کند و «درخواست‌های <span dir="rtl">pull</span>» را برای هر موردی که پیدا می‌کند، باز می‌کند.
 
-برای گزارش اشکالات <span dir="rtl">(bug)</span> و سایر مشارکت‌های متداول، <span dir="rtl">GitHub</span> دارای [قالب‌های طرح مشکل و قالب‌های درخواست‌های <span dir="rtl">pull</span>](https://github.com/blog/2111-issue-and-pull-request-templates) است، که می‌توانید برای کارآمد ساختن ارتباطاتی که دریافت می‌کنید، استفاده کنید. <span dir="rtl">«TalAter»</span>، برای کمک کردن به شما برای طرح مشکلات و مسائل روابط عمومی <span dir="rtl">(PR templates)</span>، ابزار [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) را ساخت.
+برای گزارش اشکالات <span dir="rtl">(bug)</span> و سایر مشارکت‌های متداول، <span dir="rtl">GitHub</span> دارای [قالب‌های طرح مشکل و قالب‌های درخواست‌های pull](https://github.com/blog/2111-issue-and-pull-request-templates) است، که می‌توانید برای کارآمد ساختن ارتباطاتی که دریافت می‌کنید، استفاده کنید. <span dir="rtl">«TalAter»</span>، برای کمک کردن به شما برای طرح مشکلات و مسائل روابط عمومی <span dir="rtl">(PR templates)</span>، ابزار [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) را ساخت.
 
 برای مدیریت اعلان‌های ایمیل خود، می‌توانید [فیلترهای ایمیل](https://github.com/blog/2203-email-updates-about-your-own-activity) را تنظیم کنید تا ایمیل‌ها براساس اولویت سازماندهی شوند.
 
