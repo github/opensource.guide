@@ -233,11 +233,11 @@ related:
 
 [ابزارهای متنوعی برای کمک](https://github.com/showcases/tools-for-open-source) به اتوماتیک کردن برخی جنبه‌های کار نگهداری وجود دارد. به عنوان مثال:
 
-* ابزار [ <span dir="rtl">emantic-release</span> ](https://github.com/semantic-release/semantic-release)، عرضه نسخه‌های جدید شما را اتوماتیک می‌کند.
-* ابزار [<span dir="rtl">mention-bot</span>](https://github.com/facebook/mention-bot)، به بازبین‌های بالقوه برای «درخواست <span dir="rtl">pull</span> »ها خبر می دهد.
-* ابزار [<span dir="rtl">Danger</span>](https://github.com/danger/danger)، به بررسی و بازبینی اتوماتیک کد کمک می‌کند.
-* ابزار [<span dir="rtl">no-response</span>](https://github.com/probot/no-response)، مسائلی را که نویسنده به درخواست‌ها برای اطلاعات بیشتر پاسخ نداده است، می‌بندد.
-* ابزار [<span dir="rtl">dependabot-preview</span>](https://github.com/marketplace/dependabot-preview)، هر روز «فایل‌های وابسته» (مثل کتابخانه‌ها یا کلاس‌های جانبی یا ماژول‌ها) شما را از نظر الزامات منسوخ شده بررسی می‌کند و «درخواست‌های <span dir="rtl">pull</span> » را برای هر موردی که پیدا می‌کند، باز می‌کند.
+* ابزار [ <p dir="rtl">emantic-release</p> ](https://github.com/semantic-release/semantic-release)، عرضه نسخه‌های جدید شما را اتوماتیک می‌کند.
+* ابزار [<p dir="rtl">mention-bot</p>](https://github.com/facebook/mention-bot)، به بازبین‌های بالقوه برای درخواست <span dir="rtl">pull</span> ها خبر می دهد.
+* ابزار [<p dir="rtl">Danger</p>](https://github.com/danger/danger)، به بررسی و بازبینی اتوماتیک کد کمک می‌کند.
+* ابزار [<p dir="rtl">no-response</p>](https://github.com/probot/no-response)، مسائلی را که نویسنده به درخواست‌ها برای اطلاعات بیشتر پاسخ نداده است، می‌بندد.
+* ابزار [<p dir="rtl">dependabot-preview</p>](https://github.com/marketplace/dependabot-preview)، هر روز «فایل‌های وابسته» (مثل کتابخانه‌ها یا کلاس‌های جانبی یا ماژول‌ها) شما را از نظر الزامات منسوخ شده بررسی می‌کند و درخواست‌های <span dir="rtl">pull</span> را برای هر موردی که پیدا می‌کند، باز می‌کند.
 
 برای گزارش اشکالات <span dir="rtl">(bug)</span> و سایر مشارکت‌های متداول، <span dir="rtl">GitHub</span> دارای [قالب‌های طرح مشکل و قالب‌های درخواست‌های <span dir="rtl">pull</span>](https://github.com/blog/2111-issue-and-pull-request-templates) است، که می‌توانید برای کارآمد ساختن ارتباطاتی که دریافت می‌کنید، استفاده کنید. <span dir="rtl">«TalAter»</span>، برای کمک کردن به شما برای طرح مشکلات و مسائل روابط عمومی <span dir="rtl">(PR templates)</span>، ابزار [<span dir="rtl">Choose Your Own Adventure guide</span>](https://www.talater.com/open-source-templates/#/) را ساخت.
 
