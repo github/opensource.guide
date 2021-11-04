@@ -221,7 +221,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  من معتقد هستم که تست‌ها برای همه‌ی کدهایی که افراد روی آن‌‌ها کار می‌کنند، لازم است. اگر کد کاملاً صحیح و سالم باشد، دیگر نیازی به تغییر نخواهد داشت - ما فقط درصورتی که مشکلی پیش آمده باشد کد می‌نویسیم؛ مگر در زمان‌هایی که کد «خراب شود» یا «فاقد فلان ویژگی باشد». و صرف نظر از تغییراتی که ایجاد می‌کنید، تست‌ها برای دستیابی به رگرسیون‌هایی که به طور تصادفی به وجود می‌آ‌‌ورید، ضروری است.
+  من معتقد هستم که تست‌ها برای همه‌ی کدهایی که افراد روی آن‌ها کار می‌کنند، لازم است. اگر کد کاملاً صحیح و سالم باشد، دیگر نیازی به تغییر نخواهد داشت - ما فقط درصورتی که مشکلی پیش آمده باشد کد می‌نویسیم؛ مگر در زمان‌هایی که کد «خراب شود» یا «فاقد فلان ویژگی باشد». و صرف نظر از تغییراتی که ایجاد می‌کنید، تست‌ها برای دستیابی به رگرسیون‌هایی که به طور تصادفی به وجود می‌آورید، ضروری است.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
@@ -233,7 +233,7 @@ related:
 
 [ابزارهای متنوعی برای کمک](https://github.com/showcases/tools-for-open-source) به اتوماتیک کردن برخی جنبه‌های کار نگهداری وجود دارد. به عنوان مثال:
 
-* ابزار [<span dir="rtl">emantic-release</span>](https://github.com/semantic-release/semantic-release)، عرضه نسخه‌های جدید شما را اتوماتیک می‌کند.
+* ابزار [ <span dir="rtl">emantic-release</span> ](https://github.com/semantic-release/semantic-release)، عرضه نسخه‌های جدید شما را اتوماتیک می‌کند.
 * ابزار [<span dir="rtl">mention-bot</span>](https://github.com/facebook/mention-bot)، به بازبین‌های بالقوه برای «درخواست <span dir="rtl">pull</span> »ها خبر می دهد.
 * ابزار [<span dir="rtl">Danger</span>](https://github.com/danger/danger)، به بررسی و بازبینی اتوماتیک کد کمک می‌کند.
 * ابزار [<span dir="rtl">no-response</span>](https://github.com/probot/no-response)، مسائلی را که نویسنده به درخواست‌ها برای اطلاعات بیشتر پاسخ نداده است، می‌بندد.
