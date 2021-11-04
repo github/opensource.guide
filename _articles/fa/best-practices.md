@@ -65,7 +65,7 @@ related:
 * چه زمانی برای پیگیری مناسب است (_به عنوان مثال، «شما در طی 7 روز از  نگهدارنده می‌توانید انتظار پاسخگویی داشته باشید. اگر تا آن موقع خبری نشد، یادآوری کنید._)
 * چه مدت زمان صرف پروژه می‌کنید (_به عنوان مثال، «ما فقط 5 ساعت در هفته برای این پروژه وقت می‌گذاریم»_)
 
-[<span dir="rtl">Jekyll</span>](https://github.com/jekyll/jekyll/tree/master/docs), [<span dir="rtl">CocoaPods</span>](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), و [<span dir="rtl">Homebrew</span>](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) نمونه‌هایی از پروژه‌ها با دستور‌العمل‌هایی برای نگهدارندگان و مشارکت‌کنندگان هستند.
+[<span dir="rtl">Jekyll</span>] (https://github.com/jekyll/jekyll/tree/master/docs), [<span dir="rtl">CocoaPods</span>] (https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) , و [<span dir="rtl">Homebrew</span>] (https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) نمونه‌هایی از پروژه‌ها با دستور‌العمل‌هایی برای نگهدارندگان و مشارکت‌کنندگان هستند.
 
 ### ابلاغیه‌های خود را به صورت عمومی اعلام کنید
 
@@ -105,7 +105,7 @@ related:
 
 مشارکت ناخواسته را صرف اینکه آدم خوبی به نظر برسید، ادامه ندهید زیرا در ادامه‌ی راه احساس گناه خواهید کرد. با گذشت زمان، مسائل و روابط عمومی بی‌پاسخ باعث می‌شود که کارتان روی پروژه بسیار استرس‌زا و ترسناک پیش برود. 
 
-بهتر است فوراً به مشارکت‌هایی که آن‌ها را نمی‌خواهید، پایان دهید. اگر پروژه شما از کمبود بک لاگ رنج می برد, <span dir="rtl">@steveklabnik</span> در مقاله [ <span dir="rtl">how to triage issues efficiently</span>](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) پیشنهاداتی در این خصوص ارائه کرده است.
+بهتر است فوراً به مشارکت‌هایی که آن‌ها را نمی‌خواهید، پایان دهید. اگر پروژه شما از کمبود بک لاگ رنج می برد, <span dir="rtl">@steveklabnik</span> در مقاله [<span dir="rtl">how to triage issues efficiently</span>](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) پیشنهاداتی در این خصوص ارائه کرده است.
 
 ثانیاً، بی‌توجهی به مشارکت‌هایتان، سیگنال‌های منفی‌ای به درون اجتماع می‌فرستد. مشارکت در هر پروژه‌ای می‌تواند دلهره‌آور باشد، خصوصاً اگر برای اولین بار باشد که در پروژه‌ای شرکت می‌کنید. حتی اگر مشارکت آن‌ها را قبول نکردید، از آن شخص تشکر کرده و از توجه او سپاسگزار باشید. کار پسندیده‌ای است!
 
@@ -217,7 +217,7 @@ related:
 
 تست‌های خودکاری را طراحی کنید که برای همه مشارکت‌های آتی اجرا شود و اطمینان حاصل کنید که تست‌های شما به راحتی توسط مشارکت‌کنندگان قابل اجرا باشند. قبول کردن درخواست‌های مشارکت در کدها را ملزم به قبول شدن در آن تست بکنید. با این کار، حداقل استاندارد کیفیتی را برای همه‌ی درخواست‌ها تعیین می‌کنید. [با بررسی وضعیت](https://help.github.com/articles/about-required-status-checks/) در <span dir="rtl">GitHub</span> می‌توانید اطمینان حاصل کنید که بدون گذراندن تست‌های شما اجازه‌ی هیچ گونه تغییری داده نمی‌شود.
 
-اگر تست‌هایی اضافه کردید، حتماً نحوه‌ی کارکرد آن‌ها را در فایل <span dir="rtl">«CONTRIBUTING»</span> (مشارکت) خود توضیح دهید.
+اگر تست‌هایی اضافه کردید، حتماً نحوه‌ی کارکرد آن‌ها را در فایل <span dir="rtl">CONTRIBUTING</span> (مشارکت) خود توضیح دهید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
@@ -233,11 +233,11 @@ related:
 
 [ابزارهای متنوعی برای کمک](https://github.com/showcases/tools-for-open-source) به اتوماتیک کردن برخی جنبه‌های کار نگهداری وجود دارد. به عنوان مثال:
 
-* ابزار [ <p dir="rtl">emantic-release</p> ](https://github.com/semantic-release/semantic-release)، عرضه نسخه‌های جدید شما را اتوماتیک می‌کند.
-* ابزار [<p dir="rtl">mention-bot</p>](https://github.com/facebook/mention-bot)، به بازبین‌های بالقوه برای درخواست <span dir="rtl">pull</span> ها خبر می دهد.
-* ابزار [<p dir="rtl">Danger</p>](https://github.com/danger/danger)، به بررسی و بازبینی اتوماتیک کد کمک می‌کند.
-* ابزار [<p dir="rtl">no-response</p>](https://github.com/probot/no-response)، مسائلی را که نویسنده به درخواست‌ها برای اطلاعات بیشتر پاسخ نداده است، می‌بندد.
-* ابزار [<p dir="rtl">dependabot-preview</p>](https://github.com/marketplace/dependabot-preview)، هر روز «فایل‌های وابسته» (مثل کتابخانه‌ها یا کلاس‌های جانبی یا ماژول‌ها) شما را از نظر الزامات منسوخ شده بررسی می‌کند و درخواست‌های <span dir="rtl">pull</span> را برای هر موردی که پیدا می‌کند، باز می‌کند.
+* ابزار [<span dir="rtl">emantic-release</span>](https://github.com/semantic-release/semantic-release)، عرضه نسخه‌های جدید شما را اتوماتیک می‌کند.
+* ابزار [<span dir="rtl">mention-bot</span>](https://github.com/facebook/mention-bot)، به بازبین‌های بالقوه برای درخواست <span dir="rtl">pull</span> ها خبر می دهد.
+* ابزار [<span dir="rtl">Danger</span>](https://github.com/danger/danger)، به بررسی و بازبینی اتوماتیک کد کمک می‌کند.
+* ابزار [<span dir="rtl">no-response</span>](https://github.com/probot/no-response)، مسائلی را که نویسنده به درخواست‌ها برای اطلاعات بیشتر پاسخ نداده است، می‌بندد.
+* ابزار [<span dir="rtl">dependabot-preview</span>](https://github.com/marketplace/dependabot-preview)، هر روز «فایل‌های وابسته» (مثل کتابخانه‌ها یا کلاس‌های جانبی یا ماژول‌ها) شما را از نظر الزامات منسوخ شده بررسی می‌کند و درخواست‌های <span dir="rtl">pull</span> را برای هر موردی که پیدا می‌کند، باز می‌کند.
 
 برای گزارش اشکالات <span dir="rtl">(bug)</span> و سایر مشارکت‌های متداول، <span dir="rtl">GitHub</span> دارای [قالب‌های طرح مشکل و قالب‌های درخواست‌های <span dir="rtl">pull</span>](https://github.com/blog/2111-issue-and-pull-request-templates) است، که می‌توانید برای کارآمد ساختن ارتباطاتی که دریافت می‌کنید، استفاده کنید. <span dir="rtl">«TalAter»</span>، برای کمک کردن به شما برای طرح مشکلات و مسائل روابط عمومی <span dir="rtl">(PR templates)</span>، ابزار [<span dir="rtl">Choose Your Own Adventure guide</span>](https://www.talater.com/open-source-templates/#/) را ساخت.
 
