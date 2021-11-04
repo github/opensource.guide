@@ -250,9 +250,9 @@ blockquote {
 .form-select {
   -webkit-appearance: none;
 }
+
 *:lang(fa) {
- .article-body,
-  h2 + p {
+ .article-body {
    direction: rtl;
   }
 }
