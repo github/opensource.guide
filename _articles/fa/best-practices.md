@@ -36,7 +36,7 @@ related:
 
 داشتن چشم‌اندازی واضح و ثبت شده، شما را متمرکز نگه می‌دارد و به شما کمک می‌کند تا از بسط یا تغییرات در اهداف اولیه جلوگیری شود.
 
-به عنوان مثال، <span dir="rtl"> @lord </span>، متوجه شد که داشتن چشم‌انداز پروژه به او کمک می‌کند تا بفهمد برای کدام درخواست‌ها وقت بگذارد. به عنوان یک نگهدارنده‌ی جدید، وقتی اولین درخواست خود را برای [<span dir="rtl">Slate</span>](https://github.com/lord/slate) دریافت کرد، از عدم پایبندی به اهداف پروژه‌ی خود پشیمان شد.
+به عنوان مثال، <span dir="rtl"> @lord </span>، متوجه شد که داشتن چشم‌انداز پروژه به او کمک می‌کند تا بفهمد برای کدام درخواست‌ها وقت بگذارد. به عنوان یک نگهدارنده‌ی جدید، وقتی اولین درخواست خود را برای [Slate](https://github.com/lord/slate) دریافت کرد، از عدم پایبندی به اهداف پروژه‌ی خود پشیمان شد.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
@@ -65,7 +65,7 @@ related:
 * چه زمانی برای پیگیری مناسب است (_به عنوان مثال، «شما در طی 7 روز از  نگهدارنده می‌توانید انتظار پاسخگویی داشته باشید. اگر تا آن موقع خبری نشد، یادآوری کنید._)
 * چه مدت زمان صرف پروژه می‌کنید (_به عنوان مثال، «ما فقط 5 ساعت در هفته برای این پروژه وقت می‌گذاریم»_)
 
-[<span dir="rtl">Jekyll</span>](https://github.com/jekyll/jekyll/tree/master/docs), [<span dir="rtl">CocoaPods</span>](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), و [<span dir="rtl">Homebrew</span>](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) نمونه‌هایی از پروژه‌ها با دستور‌العمل‌هایی برای نگهدارندگان و مشارکت‌کنندگان هستند.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [<span dir="rtl">CocoaPods</span>](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), و [<span dir="rtl">Homebrew</span>](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) نمونه‌هایی از پروژه‌ها با دستور‌العمل‌هایی برای نگهدارندگان و مشارکت‌کنندگان هستند.
 
 ### ابلاغیه‌های خود را به صورت عمومی اعلام کنید
 
@@ -105,7 +105,7 @@ related:
 
 مشارکت ناخواسته را صرف اینکه آدم خوبی به نظر برسید، ادامه ندهید زیرا در ادامه‌ی راه احساس گناه خواهید کرد. با گذشت زمان، مسائل و روابط عمومی بی‌پاسخ باعث می‌شود که کارتان روی پروژه بسیار استرس‌زا و ترسناک پیش برود. 
 
-بهتر است فوراً به مشارکت‌هایی که آن‌ها را نمی‌خواهید، پایان دهید. اگر پروژه شما از کمبود بک لاگ رنج می برد, <span dir="rtl">@steveklabnik</span> در مقاله [<span dir="rtl">how to triage issues efficiently</span>](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) پیشنهاداتی در این خصوص ارائه کرده است.
+بهتر است فوراً به مشارکت‌هایی که آن‌ها را نمی‌خواهید، پایان دهید. اگر پروژه شما از کمبود بک لاگ رنج می برد, <span dir="rtl">@steveklabnik</span> در مقاله [How to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) پیشنهاداتی در این خصوص ارائه کرده است.
 
 ثانیاً، بی‌توجهی به مشارکت‌هایتان، سیگنال‌های منفی‌ای به درون اجتماع می‌فرستد. مشارکت در هر پروژه‌ای می‌تواند دلهره‌آور باشد، خصوصاً اگر برای اولین بار باشد که در پروژه‌ای شرکت می‌کنید. حتی اگر مشارکت آن‌ها را قبول نکردید، از آن شخص تشکر کرده و از توجه او سپاسگزار باشید. کار پسندیده‌ای است!
 
@@ -116,7 +116,7 @@ related:
 * در صورت داشتن دسترسی، آن‌ها را **به مستندات مربوطه ارجاع دهید**. اگر با درخواست‌های مکرر برای مواردی که نمی‌خواهید آن‌ها را بپذیرید، مواجه شدید؛ آن موارد را برای جلوگیری از مکررات به مستندات خود اضافه کنید. 
 * **درخواست مشارکت را ببندید**.
 
-شما به 1 یا 2 جمله بیشتر، برای پاسخگویی نیاز نخواهید داشت. به عنوان مثال، هنگامی که [<span dir="rtl">celery</span>](https://github.com/celery/celery/)، خطایی مربوط به ویندوز را گزارش داد، <span dir="rtl">«berkerpeksag»</span> [اینگونه پاسخ](https://github.com/celery/celery/issues/3383) داد:
+شما به 1 یا 2 جمله بیشتر، برای پاسخگویی نیاز نخواهید داشت. به عنوان مثال، هنگامی که [celery](https://github.com/celery/celery/)، خطایی مربوط به ویندوز را گزارش داد، «berkerpeksag» [اینگونه پاسخ](https://github.com/celery/celery/issues/3383) داد:
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
