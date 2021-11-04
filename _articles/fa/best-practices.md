@@ -65,7 +65,7 @@ related:
 * چه زمانی برای پیگیری مناسب است (_به عنوان مثال، «شما در طی 7 روز از  نگهدارنده می‌توانید انتظار پاسخگویی داشته باشید. اگر تا آن موقع خبری نشد، یادآوری کنید._)
 * چه مدت زمان صرف پروژه می‌کنید (_به عنوان مثال، «ما فقط 5 ساعت در هفته برای این پروژه وقت می‌گذاریم»_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [<span dir="rtl">CocoaPods</span>](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), و [<span dir="rtl">Homebrew</span>](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) نمونه‌هایی از پروژه‌ها با دستور‌العمل‌هایی برای نگهدارندگان و مشارکت‌کنندگان هستند.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), و [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) نمونه‌هایی از پروژه‌ها با دستور‌العمل‌هایی برای نگهدارندگان و مشارکت‌کنندگان هستند.
 
 ### ابلاغیه‌های خود را به صورت عمومی اعلام کنید
 
@@ -169,7 +169,7 @@ related:
 
 وقتی مشاهده کردید که مشارکت‌کنندگان جدید به صورت مکرر همکاری می‌کنند، با دادن مسئولیت‌های بیشتر، آن‌ها را تصدیق کنید و به رسمیت بشناسید. مشخص کنید که چگونه دیگران می‌توانند در صورت اشتیاق به جایگاه‌های رهبری دست یابند.
 
-همانطور که <span dir="rtl">@lmccart</span> در پروژه‌ی خود متوجه شد، تشویق دیگران [به اشتراک گذاشتن مالکیت پروژه](../building-community/#share-ownership-of-your-project) می‌تواند حجم کاری شما را بسیار کاهش دهد[<span dir="rtl">p5.js</span>](https://github.com/processing/p5.js).
+همانطور که <span dir="rtl">@lmccart</span> در پروژه‌ی خود متوجه شد، تشویق دیگران [به اشتراک گذاشتن مالکیت پروژه](../building-community/#share-ownership-of-your-project) می‌تواند حجم کاری شما را بسیار کاهش دهد[p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -257,7 +257,7 @@ related:
 
 فرسودگی و خسته شدن از کار، مسئله‌ای واقعی و فراگیر در پروژه‌های اوپن سورس است؛ مخصوصاً در میان نگهدارندگان. به عنوان یک فرد نگهدارنده، خوشحالی و رضایت شما برای بقای هر پروژه‌ی‌ اوپن سورسی، ضروری است.
 
-پس نیازی به گفتن نیست؛ به خودتان استراحت بدهید! نیازی نیست تا سر حد خستگی و فرسودگی پیش بروید تا سپس به تعطیلات بروید. <span dir="rtl">@brettcannon</span>، توسعه‌دهنده‌ی پایتون، [تصمیم گرفت پس از 14 سال کار داوطلبانه در <span dir="rtl">OSS</span>، به تعطیلات یک ماهه برود](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/). 
+پس نیازی به گفتن نیست؛ به خودتان استراحت بدهید! نیازی نیست تا سر حد خستگی و فرسودگی پیش بروید تا سپس به تعطیلات بروید. <span dir="rtl">@brettcannon</span>، توسعه‌دهنده‌ی پایتون، [تصمیم گرفت پس از 14 سال کار داوطلبانه در OSS، به تعطیلات یک ماهه برود](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/). 
 
 درست مانند هر کار دیگری، تعطیلات منظم، شما را باطراوت نگه می‌دارد و باعث خوشحالی و هیجان شما نسبت به کارتان می‌شود.
 
