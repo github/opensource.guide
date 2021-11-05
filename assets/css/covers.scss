@@ -185,3 +185,9 @@
     padding-right: $spacer-5;
   }
 }
+
+*:lang(fa) {
+#content {
+   direction: rtl;
+  }
+}
