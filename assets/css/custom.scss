@@ -252,7 +252,9 @@ blockquote {
 }
 
 *:lang(fa) {
- #content {
+ .lead,
+  .lead-mktg ,
+  h2 + p + h3 {
    direction: rtl;
   }
 }
