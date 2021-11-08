@@ -166,7 +166,7 @@ Procure encontrar maneiras de compartilhar a propriedade com a sua comunidade o 
 
 * Se o seu projeto está no GitHub, **mova-o da sua conta pessoal para uma [Organização](https://help.github.com/articles/creating-a-new-organization-account/)** e adicione pelo menos um administrador de backup. As organizações fazem com que seja mais fácil trabalhar em projetos com colaboradores externos.
 
-A verdade é que [a maioria dos projetos tem somente](https://peerj.com/preprints/1233.pdf) um ou dois mantenedores que fazem a maior parte do trabalho. Quanto maior o seu projeto, e maior a sua comunidade, mais fácil é encontrar ajuda.
+A verdade é que [a maioria dos projetos tem somente](https://peerj.com/preprints/1233/) um ou dois mantenedores que fazem a maior parte do trabalho. Quanto maior o seu projeto, e maior a sua comunidade, mais fácil é encontrar ajuda.
 
 Muito embora nem sempre você encontre alguém para responder ao chamado, colocar um aviso em algum lugar aumenta a chance de que outras pessoas contribuam. E quanto antes você começar, mais cedo as pessoas poderão ajudar.
 
