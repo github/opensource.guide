@@ -170,7 +170,7 @@ Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad ta
 
 * Si tu proyecto est&aacute; alojado en GitHub, **mueve tu proyecto desde tu cuenta personal hacia una [Organizaci&oacute;n](https://help.github.com/articles/creating-a-new-organization-account/)** y agrega al menos un administrador de respaldo. Las Organizaciones hacen que sea m&aacute;s f&aacute;cil trabajar en proyectos con colaboradores externos.
 
-La realidad es que [la mayor&iacute;a de los proyectos solo tienen](https://peerj.com/preprints/1233.pdf) una o dos personas que lo mantengan y que hacen la mayor&iacute;a del trabajo. Mientras m&aacute;s grande sea tu proyecto, y mientras m&aacute;s grande sea tu comunidad, m&aacute;s f&aacute;cil es encontrar ayuda.
+La realidad es que [la mayor&iacute;a de los proyectos solo tienen](https://peerj.com/preprints/1233/) una o dos personas que lo mantengan y que hacen la mayor&iacute;a del trabajo. Mientras m&aacute;s grande sea tu proyecto, y mientras m&aacute;s grande sea tu comunidad, m&aacute;s f&aacute;cil es encontrar ayuda.
 
 Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al por fuera incrementa las probabilidades de que otras personas se presenten. Y mientras m&aacute;s temprano comiences, m&aacute;s pronto las personas podr&aacute;n ayudar.
 
