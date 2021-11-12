@@ -73,7 +73,7 @@ Une fois que vous avez établi des rôles de leadership, n'oubliez pas de docume
 
 Des outils tels que [Vossibility](https://github.com/icecrime/vossibility-stack) peuvent vous aider à savoir qui contribue (ou non) au projet. Documenter cette information évite la perception de la communauté que les responsables sont une clique qui prend ses décisions en privé.
 
-Enfin, si votre projet est sur GitHub, envisagez de transférer votre projet de votre compte personnel vers une organisation et d'ajouter au moins un administrateur de sauvegarde. [Les organisations GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitent la gestion des permissions et des dépôts multiples et protègent l'héritage de votre projet par [propriété partagée](../building-community/#partager-la-propri&eacute;t&eacute;-de-votre-projet).
+Enfin, si votre projet est sur GitHub, envisagez de transférer votre projet de votre compte personnel vers une organisation et d'ajouter au moins un administrateur de sauvegarde. [Les organisations GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitent la gestion des permissions et des dépôts multiples et protègent l'héritage de votre projet par [propriété partagée](/fr/building-community/#partager-la-propri%C3%A9t%C3%A9-de-votre-projet).
 
 ## Quand dois-je donner &agrave; quelqu'un le droit de commit
 
