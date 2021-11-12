@@ -3,12 +3,6 @@ lang: ms
 title: Memulakan Projek Sumber Terbuka
 description: Ketahui lebih lanjut mengenai dunia sumber terbuka dan bersiap sedia untuk melancarkan projek anda sendiri.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "Apa dan mengapa sumber terbuka"
-  should-i-launch-my-own-open-source-project: "Sekiranya saya melancarkan projek sumber terbuka saya sendiri?"
-  launching-your-own-open-source-project: "Melancarkan projek sumber terbuka anda sendiri"
-  naming-and-branding-your-project: "Menamakan dan menjenamakan projek anda"
-  your-pre-launch-checklist: "Senarai semak pra-pelancaran anda"
 order: 2
 image: /assets/images/cards/beginner.png
 related:

@@ -3,11 +3,6 @@ lang: ms
 title: Mendapat Bayaran untuk Kerja Sumber Terbuka
 description: Pertahankan kerja anda dalam sumber terbuka dengan mendapatkan sokongan kewangan untuk masa atau projek anda.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "Mengapa sebilangan orang meminta sokongan kewangan"
-  funding-your-own-time: "Membiayai masa anda sendiri"
-  finding-funding-for-your-project: "Mencari dana untuk projek anda"
-  building-a-case-for-financial-support: "Membina kes untuk sokongan kewangan"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:

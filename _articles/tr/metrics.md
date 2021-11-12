@@ -3,12 +3,6 @@ lang: tr
 title: Açık Kaynak Ölçümleri
 description: Açık kaynaklı projenizin başarısını ölçüp izleyerek gelişmesine yardımcı olmak için bilinçli kararlar alın.
 class: metrics
-toc:
-  why-measure-anything: Neden her şeyi ölçmeli?
-  discovery: Keşif
-  usage: Kullanım
-  retention: Akılda tutma
-  maintainer-activity: Geliştirici etkinliği
 order: 9
 image: "/assets/images/cards/metrics.png"
 related:

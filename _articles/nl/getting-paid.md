@@ -3,11 +3,6 @@ lang: nl
 title: Betaald worden voor open source-werk
 description: Ondersteun uw werk in open source door financiële steun te krijgen voor uw tijd of uw project.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "Waarom sommige mensen financiële steun zoeken"
-  funding-your-own-time: "Je eigen tijd financieren"
-  finding-funding-for-your-project: "Financiering vinden voor uw project"
-  building-a-case-for-financial-support: "Het bouwen van een case voor financiële steun"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:

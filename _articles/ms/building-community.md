@@ -3,10 +3,6 @@ lang: ms
 title: Membina Komuniti Sambutan
 description: Membangun komuniti yang mendorong orang untuk menggunakan, menyumbang, dan menginjil projek anda.
 class: building
-toc:
-  setting-your-project-up-for-success: "Menyiapkan projek anda untuk berjaya"
-  growing-your-community: "Memperkembangkan komuniti anda"
-  resolving-conflicts: "Menyelesaikan konflik"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -173,7 +169,7 @@ Lihat apakah anda boleh mencari cara untuk berkongsi pemilikan dengan komuniti a
 
 * Sekiranya projek anda berada di GitHub, **pindahkan projek anda dari akaun peribadi anda ke [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** dan tambahkan sekurang-kurangnya satu pentadbir sandaran. Organisasi menjadikannya lebih mudah untuk mengerjakan projek dengan kolaborator luar.
 
-Kenyataannya adalah bahawa[most projects only have](https://peerj.com/preprints/1233.pdf)satu atau dua penyelenggara yang melakukan sebahagian besar kerja. Semakin besar projek anda, dan semakin besar komuniti anda, semakin mudah mendapatkan bantuan.
+Kenyataannya adalah bahawa[most projects only have](https://peerj.com/preprints/1233/)satu atau dua penyelenggara yang melakukan sebahagian besar kerja. Semakin besar projek anda, dan semakin besar komuniti anda, semakin mudah mendapatkan bantuan.
 
 Walaupun anda mungkin tidak selalu menjumpai seseorang untuk menjawab panggilan tersebut, memberi isyarat di luar sana akan meningkatkan kemungkinan orang lain akan masuk. Dan lebih awal anda memulakannya, semakin cepat orang dapat membantu.
 

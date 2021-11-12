@@ -168,7 +168,7 @@ Voyez si vous pouvez trouver le moyen de partager autant que possible la propri�
 
 * Si votre projet est sur GitHub, **déplacez votre projet de votre compte personnel vers un [compte Organisation](https://help.github.com/articles/creating-a-new-organization-account/)** et ajoutez au moins un administrateur de réserve. Les organisations facilitent le travail sur des projets avec des collaborateurs externes.
 
-La réalité est que [la plupart des projets ont seulement](https://peerj.com/preprints/1233.pdf) un ou deux mainteneurs qui font la plupart du travail. Plus votre projet est important et plus votre communauté est grande, plus il est facile de trouver de l'aide.
+La réalité est que [la plupart des projets ont seulement](https://peerj.com/preprints/1233/) un ou deux mainteneurs qui font la plupart du travail. Plus votre projet est important et plus votre communauté est grande, plus il est facile de trouver de l'aide.
 
 Même s'il se peut que vous ne trouviez pas toujours quelqu'un pour répondre à l'appel, envoyer un signal augmente les chances que d'autres personnes interviennent. Plus tôt vous commencerez, plus tôt les gens pourront vous aider.
 

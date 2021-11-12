@@ -70,7 +70,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 设置你的目标
 
-目标可以帮助你弄清该做什么，不应该说什么，以及你在哪方面需要其他人的帮助。 首先问自己，_我是为什么开源这个项目？_
+目标可以帮助你弄清该做什么，不应该说什么，以及你在哪方面需要其他人的帮助。 首先问自己，_我为什么要开源这个项目？_
 
 这个问题没有标准答案。 对于一个项目你可以有多个目标，或者具有不同目标的不同项目。
 
@@ -104,7 +104,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 如果你的目标是学习如何与他人合作或了解开源的工作方式，请考虑为现有项目做出贡献。从你已经使用并喜欢的项目开始。像修复拼写错误或更新文档简单的事也能为项目做出贡献。
 
-如果你不知道如何开始作为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
+如果你不知道如何开始成为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
 
 ## 发起你自己的开源项目
 
@@ -131,7 +131,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
 
-当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源。
+当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源项目。
 
 ![挑选一个许可证](/assets/images/starting-a-project/repository-license-picker.png)
 
@@ -148,7 +148,7 @@ redirect_from: /zh-cn/starting-a-project/
 * 如何开始？
 * 如果需要，我可以在哪里获得更多的帮助？
 
-您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
+您可以使用自己的 README 回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
@@ -166,7 +166,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 编写你的贡献指南
 
-贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
+贡献文件 (CONTRIBUTING 文件) 告诉你的受众如何参与你的项目. 例如，你可以包括以下信息:
 
 * 如何提交错误报告（尝试使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
 * 如何建议一个新功能

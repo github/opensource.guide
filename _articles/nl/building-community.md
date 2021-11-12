@@ -3,10 +3,6 @@ lang: nl
 title: Bouwen aan gastvrije gemeenschappen
 description: Een gemeenschap opbouwen die mensen aanmoedigt om uw project te gebruiken, eraan bij te dragen en het te evangeliseren.
 class: building
-toc:
-  setting-your-project-up-for-success: "Uw project opzetten voor succes"
-  growing-your-community: "Je community laten groeien"
-  resolving-conflicts: "Conflicten oplossen"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -185,7 +181,7 @@ Kijk of je manieren kunt vinden om het eigendom zoveel mogelijk met je gemeensch
 * Als uw project zich op GitHub bevindt, **verplaats uw project dan van uw persoonlijke account naar een [Organisatie](https://help.github.com/articles/creating-a-new-organization-account/)** en voeg minstens één back-upbeheerder toe. Organisaties maken het gemakkelijker om met externe medewerkers aan projecten te werken.
 
 De realiteit is dat bij [de meeste projecten]
-(https://peerj.com/preprints/1233.pdf) een of twee beheerders die het meeste werk doen. Hoe groter uw project en hoe groter uw gemeenschap, hoe gemakkelijker het is om hulp te vinden.
+(https://peerj.com/preprints/1233/) een of twee beheerders die het meeste werk doen. Hoe groter uw project en hoe groter uw gemeenschap, hoe gemakkelijker het is om hulp te vinden.
 
 Hoewel je misschien niet altijd iemand vindt om de oproep te beantwoorden, vergroot het geven van een signaal de kans dat andere mensen meedoen. En hoe eerder je begint, hoe eerder mensen kunnen helpen.
 

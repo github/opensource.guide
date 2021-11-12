@@ -3,14 +3,6 @@ lang: nl
 title: De juridische kant van open source
 description: Alles wat je je ooit hebt afgevraagd over de juridische kant van open source, en een paar dingen die je niet deed.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Waarom geven mensen zoveel om de juridische kant van open source?"
-  are-public-github-projects-open-source: "Zijn openbare GitHub-projecten open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Geef me gewoon de TL;DR over wat ik nodig heb om mijn project te beschermen"
-  which-open-source-license-is-appropriate-for-my-project: "Welke open source-licentie is geschikt voor mijn project?"
-  what-if-i-want-to-change-the-license-of-my-project: "Wat moet ik doen als ik de licentie van mijn project wil wijzigen?"
-  does-my-project-need-an-additional-contributor-agreement: "Heeft mijn project een aanvullende contribuantenovereenkomst nodig?"
-  what-does-my-companys-legal-team-need-to-know: "Wat moet het juridische team van mijn bedrijf weten?"
 order: 10
 image: /assets/images/cards/legal.png
 related:

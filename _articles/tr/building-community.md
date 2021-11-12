@@ -3,10 +3,6 @@ lang: tr
 title: Misafirperver Topluluklar Oluşturma
 description: İnsanları projenizi kullanmaya, katkıda bulunmaya ve uyarlamaya teşvik eden bir topluluk oluşturmak.
 class: building
-toc:
-  setting-your-project-up-for-success: Projenizi başarı için hazırlamak
-  growing-your-community: Topluluğunuzu büyütmek
-  resolving-conflicts: Çatışmaları çözmek
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -173,7 +169,7 @@ Mülkiyetinizi topluluğunuzla mümkün olduğunca paylaşmanın yollarını bul
 
 * Projeniz GitHub'daysa, **projenizi kişisel hesabınızdan bir [Organizasyona](https://help.github.com/articles/creating-a-new-organization-account/) hesabına taşıyın** ve en az bir yedek yönetici ekleyin. Organizasyon hesapları, harici çalışanlarla projeler üzerinde çalışmayı kolaylaştırır.
 
-Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.com/preprints/1233.pdf) bir veya iki geliştirici vardır. Projeniz büyüdükçe ve topluluğunuz büyüdükçe, yardım bulmak o kadar kolay olur.
+Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.com/preprints/1233/) bir veya iki geliştirici vardır. Projeniz büyüdükçe ve topluluğunuz büyüdükçe, yardım bulmak o kadar kolay olur.
 
 Çağrıya her zaman cevap verecek birini bulamayacak olsanız da, bir mesaj bırakmak, diğer kişilerin girme şansını arttırır.
 
