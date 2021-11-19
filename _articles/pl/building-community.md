@@ -177,7 +177,7 @@ Sprawdź, czy możesz w jak największym stopniu znaleźć sposób na dzielenie 
 
 * Jeśli Twój projekt jest w serwisie GitHub, **przenieś swój projekt z konta osobistego do [Organizacji](https://help.github.com/articles/creating-a-new-organization-account/)** i dodaj co najmniej jednego administratora kopii zapasowych. Organizacje ułatwiają pracę nad projektami z zewnętrznymi współpracownikami.
 
-Rzeczywistość jest taka, że [większość projektów ma tylko](https://peerj.com/preprints/1233.pdf) jednego lub dwóch opiekunów, którzy wykonują większość pracy. Im większy projekt i większa społeczność, tym łatwiej jest znaleźć pomoc.
+Rzeczywistość jest taka, że [większość projektów ma tylko](https://peerj.com/preprints/1233/) jednego lub dwóch opiekunów, którzy wykonują większość pracy. Im większy projekt i większa społeczność, tym łatwiej jest znaleźć pomoc.
 
 Chociaż nie zawsze możesz znaleźć kogoś, kto odbierze połączenie, wysłanie sygnału zwiększa szanse na pojawienie się innych osób. Im wcześniej zaczniesz, tym szybciej ludzie mogą pomóc.
 
