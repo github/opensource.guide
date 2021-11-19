@@ -3,13 +3,6 @@ lang: en
 title: How to Contribute to Open Source
 description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -230,7 +223,7 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### A checklist before you contribute
 
@@ -249,7 +242,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Look at the commit activity on the main branch. On GitHub, you can see this information on a repository's homepage.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -410,7 +403,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 >
 > 😢 _"X is broken! Please fix it."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate it when you demonstrate that you're trying to learn.
 
 > 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
 >

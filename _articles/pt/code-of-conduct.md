@@ -31,7 +31,7 @@ Além de comunicar aquilo que você espera, um código de conduta descreve o seg
 
 Sempre que possível, use exemplos passados. O [Contributor Covenant](https://contributor-covenant.org/) é um código de conduta que é usado por mais de 40.000 projetos _open source_, incluindo Kubernetes, Rails, e Swift.
 
-O [Django Code of Conduct](https://www.djangoproject.com/conduct/) e o [Citizen Code of Conduct](http://citizencodeofconduct.org/) são, tambémm, outros dois bons exemplos de códigos de conduta.
+O [Django Code of Conduct](https://www.djangoproject.com/conduct/) e o [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) são, tambémm, outros dois bons exemplos de códigos de conduta.
 
 Coloque um arquivo CODE_OF_CONDUCT no diretório raiz do seu projeto, e faça-o visivel a sua comunidade criando um link para ele no arquivo CONTRIBUTING ou README.
 
@@ -40,7 +40,7 @@ Coloque um arquivo CODE_OF_CONDUCT no diretório raiz do seu projeto, e faça-o 
 <aside markdown="1" class="pquote">
   Um código de conduta que não é (ou não pode ser) aplicado é pior do que não ter nenhum código de conduta: isso passa a mensagem de que os valores no código de conduta não são, na verdade, importantes ou respeitados em sua comunidade.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

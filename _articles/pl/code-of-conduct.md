@@ -31,7 +31,7 @@ Oprócz przekazywania swoich oczekiwań kodeks postępowania opisuje następują
 
 Gdziekolwiek możesz, skorzystaj ze stanu techniki. [Przymierze współautorów](https://contributor-covenant.org/) to rozwijany kodeks postępowania używany przez ponad 40 000 projektów open source, w tym Kubernetes, Rails i Swift.
 
-[Kodeks postępowania Django](https://www.djangoproject.com/conduct/) oraz [Kodeks postępowania obywatelskiego](http://citizencodeofconduct.org/) to także dwa przykłady dobrego kodeksu postępowania.
+[Kodeks postępowania Django](https://www.djangoproject.com/conduct/) oraz [Kodeks postępowania obywatelskiego](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) to także dwa przykłady dobrego kodeksu postępowania.
 
 Umieść plik CODE_OF_CONDUCT w katalogu głównym projektu i uczyń go widocznym dla społeczności, łącząc go z plikiem CONTRIBUTING  lub README.
 
@@ -40,7 +40,7 @@ Umieść plik CODE_OF_CONDUCT w katalogu głównym projektu i uczyń go widoczny
 <aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

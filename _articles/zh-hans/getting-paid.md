@@ -79,7 +79,7 @@ redirect_from: /zh-cn/getting-paid/
 
 很多公司都在开发开源项目，从而能够打造自己的品牌，以及希望雇佣到高质量的人才。
 
-@hueniverse ，举例来说，有充足的证据证明 [沃尔玛对开源的投资](https://hueniverse.com/2014/08/15/open-source-aint-charity/)是合理的。 @jamesgpearce 同样，脸谱网的开源项目让它的招聘显得[与众不同](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) :
+@hueniverse ，举例来说，有充足的证据证明 [沃尔玛对开源的投资](https://hueniverse.com/2014/08/15/open-source-aint-charity/)是合理的。 @jamesgpearce 同样，Facebook 的开源项目让它的招聘显得[与众不同](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) :
 
 > 开源能够与我们 Hacker 文化密切配合，也能够和我们的组织融洽。我们询问员工："在 Facebook 真的那么的在意开源软件？" 超过2/3的人的回答是"yes"。一半的人表示，该计划对他们为我们工作的决定作出了积极的贡献。这可不是一个戏谑的数字，我们希望继续保持这样。
 
@@ -93,7 +93,7 @@ redirect_from: /zh-cn/getting-paid/
   </p>
 </aside>
 
-如果你实在无法在当前的雇主下开展相关开源的工作，那么是该考虑换老板的时候，应到找个支持想开源作贡献的老板！寻找那些致力于开源工作的公司。比如：
+如果你实在无法在当前的雇主下开展相关开源的工作，那么是到了该考虑换老板的时候，应到找个支持想为开源作贡献的老板！寻找那些致力于开源工作的公司。比如：
 
 * [Ghost](https://ghost.org/)  就是一家围绕很多[开源项目](https://github.com/tryghost/ghost)的好公司
 * [Zalando](https://opensource.zalando.com) 甚至为其员工提供了[贡献开源守则](https://opensource.zalando.com/docs/using/contributing/)
@@ -102,6 +102,7 @@ redirect_from: /zh-cn/getting-paid/
 
 当然最终还是要看你自身的条件而定，你甚至可以利用你的开源项目来独立的进行融资。这边就有几个案例：
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon 通过 [Patreon crowdfunding campaign](https://redux.js.org/) 为他的项目 [Redux](https://github.com/reactjs/redux) 成功的融到了资金。
 * @andrewgodwin [通过 Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 为 Django schema 迁移拿到了资金
 
@@ -145,7 +146,7 @@ redirect_from: /zh-cn/getting-paid/
 
 ### 利用风投
 
-您将如何用拟议的资金完成什么？专注于项目里程碑或成果，而不是支付工资。
+您将如何分配拟议的资金？专注于项目里程碑或成果，而不是支付工资。
 
 ### 你将以何种方式接受资助
 

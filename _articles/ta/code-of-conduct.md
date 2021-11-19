@@ -31,7 +31,7 @@ related:
 
 நீங்கள் எங்கு வேண்டுமானாலும், முந்தைய உபாயத்தை பயன்படுத்தவும். [பங்களிப்பாளரின் உடன்படிக்கை](https://contributor-covenant.org/) என்பது ஒரு நடத்தை விதியாகும், இது குபெர்னீஸ், ரெயில்ஸ் மற்றும் ஸ்விஃப்ட் உள்ளிட்ட 40,000 திறந்த மூல திட்டங்களில் பயன்படுத்தப்படுகிறது.
 
-[Django நடத்தை விதித் தொகுப்பு](https://www.djangoproject.com/conduct/) மற்றும் [சிட்டிசன் நடத்தை விதித் தொகுப்பு](http://citizencodeofconduct.org/) நடத்தை விதித் தொகுப்புக்கான இரண்டு நல்ல உதாரணங்களாகும்.
+[Django நடத்தை விதித் தொகுப்பு](https://www.djangoproject.com/conduct/) மற்றும் [சிட்டிசன் நடத்தை விதித் தொகுப்பு](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) நடத்தை விதித் தொகுப்புக்கான இரண்டு நல்ல உதாரணங்களாகும்.
 
 உங்கள் திட்டத்தின் மூலம் கோப்பகத்தில் CODE_OF_CONDUCT கோப்பை வைக்கவும், மேலும் உங்கள் CONTRIBUTING அல்லது README கோப்பில் இருந்து அதை இணைப்பதன் மூலம் அதை உங்கள் சமூகத்திற்குத் தெரியப்படுத்தவும்.
 
@@ -40,7 +40,7 @@ related:
 <aside markdown="1" class="pquote">
   நடமுறைப்படுத்தாத (அல்லது நடமுறைப்படுத்த முடியாத) ஒரு நடத்தை விதி, நடத்தை விதித் தொகுப்பு இல்லாமலிருப்பதை விட மோசமானதாகும்: நடத்தை விதிகளில் உள்ள மதிப்புகள் உண்மையிலேயே முக்கியம் அல்ல, உங்கள் சமூகத்தில் மதிக்கப்படுவதில்லை என்று குறிப்பை அனுப்புகிறது.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
