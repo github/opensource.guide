@@ -134,6 +134,12 @@ Even if you like to write code, other types of contributions are a great way to 
 * Write tutorials for how a project can be used
 * Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
+### Do you like to run the code?
+* Find new bugs
+* New ideas can be fabricated 
+* Learn new ways to write the code as well as comments
+
+
 ### You don't just have to work on software projects!
 
 While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
