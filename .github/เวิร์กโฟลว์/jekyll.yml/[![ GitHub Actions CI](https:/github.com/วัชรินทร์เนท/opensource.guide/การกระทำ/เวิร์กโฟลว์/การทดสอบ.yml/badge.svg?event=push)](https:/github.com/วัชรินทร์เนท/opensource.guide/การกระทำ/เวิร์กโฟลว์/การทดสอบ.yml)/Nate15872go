@@ -1,0 +1,1052 @@
+name: Jekyll site CI&https://github.com/WatcharinNate/opensource.guide/actions/workflows/tests.yml/badge.svg?event=push
+
+on:
+  push:[![GitHub Actions CI](https://github.com/WatcharinNate/opensource.guide/actions/workflows/tests.yml/badge.svg?event=push)](https://github.com/WatcharinNate/opensource.guide/actions/workflows/tests.yml)
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:https://github.com/WatcharinNate/opensource.guide/actions/workflows/tests.yml
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: #ไฟล์ที่รวบรวม / เพิ่มประสิทธิภาพ / DLL ไบต์
+__pycache__ /
+* .py [ cod ]
+* $py.class
+
+# C นามสกุล
+* .so
+
+#จำหน่าย / บรรจุภัณฑ์
+.Python
+สร้าง /
+ไข่พัฒนา /
+dist /
+ดาวน์โหลด /
+ไข่ /
+.ไข่ /
+ลิบ /
+lib64 /
+ชิ้นส่วน /
+sdist /
+วาร์ /
+ล้อ /
+pip-wheel-ข้อมูลเมตา /
+แบ่งปัน / python-wheels /
+* .egg-info /
+.installed.cfg
+* .eg
+MANIFEST
+
+# PyInstaller
+#   โดยปกติไฟล์เหล่านี้เขียนด้วยสคริปต์หลามจากเทมเพลต
+#   ก่อนที่ PyInstaller จะสร้าง exe เพื่อใส่วันที่/ข้อมูลอื่น ๆ ลงไป
+* .manifest
+* .spec
+
+#บันทึกการติดตั้ง
+pip-log.txt
+pip-delete-this-directory.txt
+
+#หน่วยทดสอบ / รายงานความครอบคลุม
+htmlcov /
+.tox /
+.nox /
+.ครอบคลุม
+.ครอบคลุม *
+.cache
+nosetests.xml
+ความคุ้มครอง.xml
+* .cover
+* .py ปก
+.สมมติฐาน /
+.pytest_cache /
+
+# การแปล
+* .mo
+* .pot
+
+#สิ่งของ Django:
+* .log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+#สิ่งของกระติก:
+ตัวอย่าง /
+.webasset-cache
+
+#สิ่งที่น่าขยะแขยง:
+.scrapy
+
+#เอกสารสฟิงซ์
+เอกสาร / _build /
+
+# PyBuilder
+เป้าหมาย /
+
+#โน๊ตบุ๊ค Jupyter
+.ipynb_checkpoints
+
+# IPython
+profile_default /
+ipython_config.py
+
+#เพียววี่
+.python-เวอร์ชั่น
+
+#ปิ่นเกล้า
+#    ตาม pypa/pipenv#598 ขอแนะนำให้รวม Pipfile.lock ไว้ในการควบคุมเวอร์ชัน
+#    อย่างไรก็ตามในกรณีของการทำงานร่วมกันหากมีการพึ่งพาหรือขึ้นต่อกันเฉพาะแพลตฟอร์ม
+#    ไม่มีการสนับสนุนข้ามแพลตฟอร์ม pipenv อาจติดตั้งการพึ่งพาที่ไม่ทำงานหรือไม่
+#    ติดตั้งการพึ่งพาที่จำเป็นทั้งหมด
+# Pipfile.lock
+
+#เป๊ป 582; ใช้โดยเช่น github.com/David-OConnor/pyflow
+__pypackages__ /
+
+#ขึ้นฉ่ายฝรั่ง
+celerybeat-ตารางเวลา
+celerybeat.pid
+
+# SageMath แยกวิเคราะห์ไฟล์
+* .sage.py
+
+#สิ่งแวดล้อม
+.env
+.venv
+สิ่งแวดล้อม /
+เวฟ /
+ENV /
+env.bak /
+venv.bak /
+
+#การตั้งค่าโครงการ Spyder
+.spyderproject
+.spyproject
+
+#การตั้งค่าโครงการเชือก
+.ropeproject
+
+#เอกสาร mkdocs
+/ เว็บไซต์
+
+#มายปี้
+.mypy_cache /
+.dmypy.json
+dmypy.json
+
+#ตัวตรวจสอบประเภท Pyre
+.pyre /#ไฟล์ที่รวบรวม / เพิ่มประสิทธิภาพ / DLL ไบต์
+__pycache__ /
+* .py [ cod ]
+* $py.class
+
+# C นามสกุล
+* .so
+
+#จำหน่าย / บรรจุภัณฑ์
+.Python
+สร้าง /
+ไข่พัฒนา /
+dist /
+ดาวน์โหลด /
+ไข่ /
+.ไข่ /
+ลิบ /
+lib64 /
+ชิ้นส่วน /
+sdist /
+วาร์ /
+ล้อ /
+pip-wheel-ข้อมูลเมตา /
+แบ่งปัน / python-wheels /
+* .egg-info /
+.installed.cfg
+* .eg
+MANIFEST
+
+# PyInstaller
+#   โดยปกติไฟล์เหล่านี้เขียนด้วยสคริปต์หลามจากเทมเพลต
+#   ก่อนที่ PyInstaller จะสร้าง exe เพื่อใส่วันที่/ข้อมูลอื่น ๆ ลงไป
+* .manifest
+* .spec
+
+#บันทึกการติดตั้ง
+pip-log.txt
+pip-delete-this-directory.txt
+
+#หน่วยทดสอบ / รายงานความครอบคลุม
+htmlcov /
+.tox /
+.nox /
+.ครอบคลุม
+.ครอบคลุม *
+.cache
+nosetests.xml
+ความคุ้มครอง.xml
+* .cover
+* .py ปก
+.สมมติฐาน /
+.pytest_cache /
+
+# การแปล
+* .mo
+* .pot
+
+#สิ่งของ Django:
+* .log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+#สิ่งของกระติก:
+ตัวอย่าง /
+.webasset-cache
+
+#สิ่งที่น่าขยะแขยง:
+.scrapy
+
+#เอกสารสฟิงซ์
+เอกสาร / _build /
+
+# PyBuilder
+เป้าหมาย /
+
+#โน๊ตบุ๊ค Jupyter
+.ipynb_checkpoints
+
+# IPython
+profile_default /
+ipython_config.py
+
+#เพียววี่
+.python-เวอร์ชั่น
+
+#ปิ่นเกล้า
+#    ตาม pypa/pipenv#598 ขอแนะนำให้รวม Pipfile.lock ไว้ในการควบคุมเวอร์ชัน
+#    อย่างไรก็ตามในกรณีของการทำงานร่วมกันหากมีการพึ่งพาหรือขึ้นต่อกันเฉพาะแพลตฟอร์ม
+#    ไม่มีการสนับสนุนข้ามแพลตฟอร์ม pipenv อาจติดตั้งการพึ่งพาที่ไม่ทำงานหรือไม่
+#    ติดตั้งการพึ่งพาที่จำเป็นทั้งหมด
+# Pipfile.lock
+
+#เป๊ป 582; ใช้โดยเช่น github.com/David-OConnor/pyflow
+__pypackages__ /
+
+#ขึ้นฉ่ายฝรั่ง
+celerybeat-ตารางเวลา
+celerybeat.pid
+
+# SageMath แยกวิเคราะห์ไฟล์
+* .sage.py
+
+#สิ่งแวดล้อม
+.env
+.venv
+สิ่งแวดล้อม /
+เวฟ /
+ENV /
+env.bak /
+venv.bak /
+
+#การตั้งค่าโครงการ Spyder
+.spyderproject
+.spyproject
+
+#การตั้งค่าโครงการเชือก
+.ropeproject
+
+#เอกสาร mkdocs
+/ เว็บไซต์
+
+#มายปี้
+.mypy_cache 0s
+Run actions/setup-node@v2.5.0
+1s
+Run actions/cache@v2.1.7
+Cache not found for input keys: Linux-gems-b24cdae800fb814a4c68bae302fdc55bdbb88c95f1a355fba341e5816b50ab26, Linux-gems-
+1m 34s
+Run script/bootstrap
+==> Installing gem dependencies…
+[DEPRECATED] The `--path` flag is deprecated because it relies on being remembered across bundler invocations, which bundler will no longer do in future versions. Instead please use `bundle config set --local path 'vendor/gems'`, and stop using this flag
+[DEPRECATED] The --binstubs option will be removed in favor of `bundle binstubs --all`
+Fetching gem metadata from https://rubygems.org/.........
+Fetching rake 13.0.6
+Installing rake 13.0.6
+Fetching concurrent-ruby 1.1.9
+Fetching minitest 5.14.4
+Installing minitest 5.14.4
+Fetching thread_safe 0.3.6
+Installing concurrent-ruby 1.1.9
+Installing thread_safe 0.3.6
+Fetching zeitwerk 2.5.1
+Fetching public_suffix 4.0.6
+Installing zeitwerk 2.5.1
+Installing public_suffix 4.0.6
+Using bundler 2.2.32
+Fetching coffee-script-source 1.11.1
+Fetching execjs 2.8.1
+Installing execjs 2.8.1
+Installing coffee-script-source 1.11.1
+Fetching colorator 1.1.0
+Fetching unf_ext 0.0.8
+Installing colorator 1.1.0
+Fetching eventmachine 1.2.7
+Installing unf_ext 0.0.8 with native extensions
+Installing eventmachine 1.2.7 with native extensions
+Fetching http_parser.rb 0.8.0
+Installing http_parser.rb 0.8.0 with native extensions
+Fetching ffi 1.15.4
+Installing ffi 1.15.4 with native extensions
+Fetching faraday-em_http 1.0.0
+Installing faraday-em_http 1.0.0
+Fetching faraday-em_synchrony 1.0.0
+Installing faraday-em_synchrony 1.0.0
+Fetching faraday-excon 1.1.0
+Installing faraday-excon 1.1.0
+Fetching faraday-httpclient 1.0.1
+Installing faraday-httpclient 1.0.1
+Fetching faraday-net_http 1.0.1
+Installing faraday-net_http 1.0.1
+Fetching faraday-net_http_persistent 1.2.0
+Installing faraday-net_http_persistent 1.2.0
+Fetching faraday-patron 1.0.0
+Installing faraday-patron 1.0.0
+Fetching faraday-rack 1.0.0
+Installing faraday-rack 1.0.0
+Fetching multipart-post 2.1.1
+Installing multipart-post 2.1.1
+Fetching ruby2_keywords 0.0.5
+Installing ruby2_keywords 0.0.5
+Fetching forwardable-extended 2.6.0
+Installing forwardable-extended 2.6.0
+Fetching gemoji 3.0.1
+Installing gemoji 3.0.1
+Fetching rb-fsevent 0.11.0
+Installing rb-fsevent 0.11.0
+Fetching rexml 3.2.5
+Installing rexml 3.2.5
+Fetching liquid 4.0.3
+Installing liquid 4.0.3
+Fetching mercenary 0.3.6
+Installing mercenary 0.3.6
+Fetching rouge 3.26.0
+Installing rouge 3.26.0
+Fetching safe_yaml 1.0.5
+Installing safe_yaml 1.0.5
+Fetching mini_portile2 2.6.1
+Installing mini_portile2 2.6.1
+Fetching racc 1.6.0
+Installing racc 1.6.0 with native extensions
+Fetching jekyll-paginate 1.1.0
+Installing jekyll-paginate 1.1.0
+Fetching rubyzip 2.3.2
+Installing rubyzip 2.3.2
+Fetching jekyll-swiss 1.0.0
+Installing jekyll-swiss 1.0.0
+Fetching unicode-display_width 1.8.0
+Installing unicode-display_width 1.8.0
+Fetching parallel 1.20.1
+Installing parallel 1.20.1
+Fetching rainbow 3.0.0
+Installing rainbow 3.0.0
+Fetching yell 2.2.2
+Installing yell 2.2.2
+Fetching i18n 0.9.5
+Installing i18n 0.9.5
+Fetching tzinfo 1.2.9
+Installing tzinfo 1.2.9
+Fetching addressable 2.8.0
+Installing addressable 2.8.0
+Fetching coffee-script 2.4.1
+Installing coffee-script 2.4.1
+Fetching unf 0.1.4
+Installing unf 0.1.4
+Fetching ethon 0.15.0
+Installing ethon 0.15.0
+Fetching rb-inotify 0.10.1
+Installing rb-inotify 0.10.1
+Fetching faraday 1.8.0
+Installing faraday 1.8.0
+Fetching pathutil 0.16.2
+Installing pathutil 0.16.2
+Fetching kramdown 2.3.1
+Installing kramdown 2.3.1
+Fetching em-websocket 0.5.3
+Installing em-websocket 0.5.3
+Fetching terminal-table 1.8.0
+Installing terminal-table 1.8.0
+Fetching ruby-enum 0.9.0
+Fetching activesupport 6.0.4.1
+Installing ruby-enum 0.9.0
+Installing activesupport 6.0.4.1
+Fetching jekyll-coffeescript 1.1.1
+Installing jekyll-coffeescript 1.1.1
+Fetching simpleidn 0.2.1
+Fetching typhoeus 1.4.0
+Installing simpleidn 0.2.1
+Installing typhoeus 1.4.0
+Fetching sass-listen 4.0.0
+Fetching listen 3.7.0
+Installing sass-listen 4.0.0
+Fetching sawyer 0.8.2
+Installing listen 3.7.0
+Fetching kramdown-parser-gfm 1.1.0
+Installing sawyer 0.8.2
+Installing kramdown-parser-gfm 1.1.0
+Fetching nokogiri 1.12.5 (x86_64-linux)
+Fetching commonmarker 0.17.13
+Installing commonmarker 0.17.13 with native extensions
+Installing nokogiri 1.12.5 (x86_64-linux)
+Fetching dnsruby 1.61.7
+Installing dnsruby 1.61.7
+Fetching sass 3.7.4
+Installing sass 3.7.4
+Fetching jekyll-watch 2.2.1
+Installing jekyll-watch 2.2.1
+Fetching octokit 4.21.0
+Installing octokit 4.21.0
+Fetching html-pipeline 2.14.0
+Installing html-pipeline 2.14.0
+Fetching nokogumbo 2.0.5
+Installing nokogumbo 2.0.5 with native extensions
+Fetching jekyll-sass-converter 1.5.2
+Installing jekyll-sass-converter 1.5.2
+Fetching github-pages-health-check 1.17.9
+Installing github-pages-health-check 1.17.9
+Fetching jekyll-gist 1.5.0
+Installing jekyll-gist 1.5.0
+Fetching html-proofer 3.19.2
+Installing html-proofer 3.19.2
+Fetching jekyll 3.9.0
+Installing jekyll 3.9.0
+Fetching jekyll-avatar 0.7.0
+Installing jekyll-avatar 0.7.0
+Fetching jekyll-default-layout 0.1.4
+Installing jekyll-default-layout 0.1.4
+Fetching jekyll-feed 0.15.1
+Installing jekyll-feed 0.15.1
+Fetching jekyll-github-metadata 2.13.0
+Installing jekyll-github-metadata 2.13.0
+Fetching jekyll-mentions 1.6.0
+Installing jekyll-mentions 1.6.0
+Fetching jekyll-optional-front-matter 0.3.2
+Installing jekyll-optional-front-matter 0.3.2
+Fetching jekyll-readme-index 0.3.0
+Installing jekyll-readme-index 0.3.0
+Fetching jekyll-redirect-from 0.16.0
+Installing jekyll-redirect-from 0.16.0
+Fetching jekyll-relative-links 0.6.1
+Installing jekyll-relative-links 0.6.1
+Fetching jekyll-remote-theme 0.4.3
+Installing jekyll-remote-theme 0.4.3
+Fetching jekyll-seo-tag 2.7.1
+Installing jekyll-seo-tag 2.7.1
+Fetching jekyll-sitemap 1.4.0
+Installing jekyll-sitemap 1.4.0
+Fetching jekyll-titles-from-headings 0.5.3
+Installing jekyll-titles-from-headings 0.5.3
+Fetching jemoji 0.12.0
+Fetching jekyll-theme-architect 0.2.0
+Installing jemoji 0.12.0
+Fetching jekyll-theme-cayman 0.2.0
+Installing jekyll-theme-architect 0.2.0
+Fetching jekyll-theme-dinky 0.2.0
+Installing jekyll-theme-cayman 0.2.0
+Fetching jekyll-theme-hacker 0.2.0
+Installing jekyll-theme-dinky 0.2.0
+Fetching jekyll-theme-leap-day 0.2.0
+Installing jekyll-theme-hacker 0.2.0
+Fetching jekyll-theme-merlot 0.2.0
+Installing jekyll-theme-merlot 0.2.0
+Installing jekyll-theme-leap-day 0.2.0
+Fetching jekyll-theme-midnight 0.2.0
+Fetching jekyll-theme-minimal 0.2.0
+Installing jekyll-theme-minimal 0.2.0
+Fetching jekyll-theme-modernist 0.2.0
+Installing jekyll-theme-modernist 0.2.0
+Fetching jekyll-theme-primer 0.6.0
+Installing jekyll-theme-primer 0.6.0
+Fetching jekyll-theme-slate 0.2.0
+Installing jekyll-theme-midnight 0.2.0
+Installing jekyll-theme-slate 0.2.0
+Fetching jekyll-theme-tactile 0.2.0
+Installing jekyll-theme-tactile 0.2.0
+Fetching jekyll-theme-time-machine 0.2.0
+Installing jekyll-theme-time-machine 0.2.0
+Fetching minima 2.5.1
+Installing minima 2.5.1
+Fetching jekyll-commonmark 1.3.1
+Installing jekyll-commonmark 1.3.1
+Fetching jekyll-commonmark-ghpages 0.1.6
+Installing jekyll-commonmark-ghpages 0.1.6
+Fetching github-pages 222
+Installing github-pages 222
+Bundle complete! 3 Gemfile dependencies, 106 gems now installed.
+Bundled gems are installed into `./vendor/gems`
+Post-install message from dnsruby:
+Installing dnsruby...
+  For issues and source code: https://github.com/alexdalitz/dnsruby
+  For general discussion (please tell us how you use dnsruby): https://groups.google.com/forum/#!forum/dnsruby
+Post-install message from sass:
+
+Ruby Sass has reached end-of-life and should no longer be used.
+
+* If you use Sass as a command-line tool, we recommend using Dart Sass, the new
+  primary implementation: https://sass-lang.com/install
+
+* If you use Sass as a plug-in for a Ruby web framework, we recommend using the
+  sassc gem: https://github.com/sass/sassc-ruby#readme
+
+* For more details, please refer to the Sass blog:
+  https://sass-lang.com/blog/posts/7828841
+
+Post-install message from html-pipeline:
+-------------------------------------------------
+Thank you for installing html-pipeline!
+You must bundle Filter gem dependencies.
+See html-pipeline README.md for more details.
+https://github.com/jch/html-pipeline#dependencies
+-------------------------------------------------
+Post-install message from rubyzip:
+RubyZip 3.0 is coming!
+**********************
+
+The public API of some Rubyzip classes has been modernized to use named
+parameters for optional arguments. Please check your usage of the
+following classes:
+  * `Zip::File`
+  * `Zip::Entry`
+  * `Zip::InputStream`
+  * `Zip::OutputStream`
+
+Please ensure that your Gemfiles and .gemspecs are suitably restrictive
+to avoid an unexpected breakage when 3.0 is released (e.g. ~> 2.3.0).
+See https://github.com/rubyzip/rubyzip for details. The Changelog also
+lists other enhancements and bugfixes that have been implemented since
+version 2.3.0.
+
+==> Installing node dependencies…
+real	0m28.225s
+user	0m39.318s
+sys	0m5.174s
+npm WARN old lockfile 
+npm WARN old lockfile The package-lock.json file was created with an old version of npm,
+npm WARN old lockfile so supplemental metadata must be fetched from the registry.
+npm WARN old lockfile 
+npm WARN old lockfile This is a one-time fix-up, please be patient...
+npm WARN old lockfile 
+
+> postinstall
+> cd test && npm install
+
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm ERR! code 1
+npm ERR! path /home/runner/work/opensource.guide/opensource.guide/test/node_modules/kindlegen
+npm ERR! command failed
+npm ERR! command sh -c node install.js
+npm ERR! /home/runner/work/opensource.guide/opensource.guide/test/node_modules/got/index.js:182
+npm ERR! 			proxy.emit('error', new got.HTTPError(statusCode, opts), null, res);
+npm ERR! 			                    ^
+npm ERR! ErrorClass [HTTPError]: Response code 403 (Forbidden)
+npm ERR!     at EventEmitter.<anonymous> (/home/runner/work/opensource.guide/opensource.guide/test/node_modules/got/index.js:182:24)
+npm ERR!     at EventEmitter.emit (node:events:390:28)
+npm ERR!     at Immediate.<anonymous> (/home/runner/work/opensource.guide/opensource.guide/test/node_modules/got/index.js:61:8)
+npm ERR!     at processImmediate (node:internal/timers:464:21) {
+npm ERR!   host: 'kindlegen.s3.amazonaws.com',
+npm ERR!   hostname: 'kindlegen.s3.amazonaws.com',
+npm ERR!   method: 'GET',
+npm ERR!   path: '/kindlegen_linux_2.6_i386_v2_9.tar.gz',
+npm ERR!   statusCode: 403,
+npm ERR!   statusMessage: 'Forbidden',
+npm ERR!   bufferedData: Buffer(0) [Uint8Array] []
+npm ERR! }
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/runner/.npm/_logs/2021-12-11T07_07_59_208Z-debug.log
+npm ERR! code 1
+npm ERR! path /home/runner/work/opensource.guide/opensource.guide
+npm ERR! command failed
+npm ERR! command sh -c cd test && npm install
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/runner/.npm/_logs/2021-12-11T07_07_59_248Z-debug.log /
+.dmypy.json
+dmypy.json
+
+#ตัวตรวจสอบประเภท Pyre
+.pyre /|
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+Boost Software License - เวอร์ชัน 1.0 - 17 สิงหาคม 2546
+
+อนุญาตโดยไม่เสียค่าใช้จ่ายใดๆ แก่บุคคลหรือองค์กรใดๆ
+รับสำเนาซอฟต์แวร์และเอกสารประกอบที่ครอบคลุมโดย
+ใบอนุญาตนี้ ("ซอฟต์แวร์") เพื่อใช้ ผลิตซ้ำ แสดง แจกจ่าย
+ดำเนินการและส่งซอฟต์แวร์และเตรียมงานลอกเลียนแบบของ
+ซอฟต์แวร์ และเพื่ออนุญาตให้บุคคลที่สามซึ่งซอฟต์แวร์ได้รับมอบให้แก่
+ให้ดำเนินการทั้งหมดดังต่อไปนี้:
+
+ประกาศเกี่ยวกับลิขสิทธิ์ในซอฟต์แวร์และคำชี้แจงทั้งหมดนี้ รวมถึง
+การให้ใบอนุญาตข้างต้น ข้อจำกัดนี้ และข้อจำกัดความรับผิดชอบต่อไปนี้
+ต้องรวมอยู่ในสำเนาทั้งหมดของซอฟต์แวร์ทั้งหมดหรือบางส่วนและ
+งานลอกเลียนแบบทั้งหมดของซอฟต์แวร์ เว้นแต่สำเนาหรืออนุพันธ์ดังกล่าว
+งานอยู่ในรูปแบบของรหัสอ็อบเจ็กต์ที่สามารถเรียกใช้งานได้ของเครื่องที่สร้างโดย .เท่านั้น
+ตัวประมวลผลภาษาต้นทาง
+
+ซอฟต์แวร์มีให้ "ตามที่เป็น" โดยไม่มีการรับประกันใดๆ ไม่ว่าโดยชัดแจ้งหรือ
+โดยนัย ซึ่งรวมถึงแต่ไม่จำกัดเพียงการรับประกันความสามารถในการขาย
+ความเหมาะสมสำหรับวัตถุประสงค์เฉพาะ ชื่อ และการไม่ละเมิด ไม่มีเหตุการณ์
+ผู้ถือลิขสิทธิ์หรือใครก็ตามที่จำหน่ายซอฟต์แวร์ต้องรับผิด
+สำหรับความเสียหายหรือความรับผิดอื่น ๆ ไม่ว่าจะเป็นในสัญญา การละเมิดหรืออย่างอื่น
+เกิดขึ้นจาก ออกจาก หรือเกี่ยวข้องกับซอฟต์แวร์หรือการใช้งานหรืออื่นๆ
+ข้อตกลงในซอฟต์แวร์
+Run actions/setup-ruby@v1.1.3
+------------------------
+NOTE: This action is deprecated and is no longer maintained.
+Please, migrate to https://github.com/ruby/setup-ruby, which is being actively maintained.
+------------------------0s
+Run actions/setup-node@v2.5.0
+1s
+Run actions/cache@v2.1.7
+Cache not found for input keys: Linux-gems-b24cdae800fb814a4c68bae302fdc55bdbb88c95f1a355fba341e5816b50ab26, Linux-gems-
+1m 34s
+Run script/bootstrap
+==> Installing gem dependencies…
+[DEPRECATED] The `--path` flag is deprecated because it relies on being remembered across bundler invocations, which bundler will no longer do in future versions. Instead please use `bundle config set --local path 'vendor/gems'`, and stop using this flag
+[DEPRECATED] The --binstubs option will be removed in favor of `bundle binstubs --all`
+Fetching gem metadata from https://rubygems.org/.........
+Fetching rake 13.0.6
+Installing rake 13.0.6
+Fetching concurrent-ruby 1.1.9
+Fetching minitest 5.14.4
+Installing minitest 5.14.4
+Fetching thread_safe 0.3.6
+Installing concurrent-ruby 1.1.9
+Installing thread_safe 0.3.6
+Fetching zeitwerk 2.5.1
+Fetching public_suffix 4.0.6
+Installing zeitwerk 2.5.1
+Installing public_suffix 4.0.6
+Using bundler 2.2.32
+Fetching coffee-script-source 1.11.1
+Fetching execjs 2.8.1
+Installing execjs 2.8.1
+Installing coffee-script-source 1.11.1
+Fetching colorator 1.1.0
+Fetching unf_ext 0.0.8
+Installing colorator 1.1.0
+Fetching eventmachine 1.2.7
+Installing unf_ext 0.0.8 with native extensions
+Installing eventmachine 1.2.7 with native extensions
+Fetching http_parser.rb 0.8.0
+Installing http_parser.rb 0.8.0 with native extensions
+Fetching ffi 1.15.4
+Installing ffi 1.15.4 with native extensions
+Fetching faraday-em_http 1.0.0
+Installing faraday-em_http 1.0.0
+Fetching faraday-em_synchrony 1.0.0
+Installing faraday-em_synchrony 1.0.0
+Fetching faraday-excon 1.1.0
+Installing faraday-excon 1.1.0
+Fetching faraday-httpclient 1.0.1
+Installing faraday-httpclient 1.0.1
+Fetching faraday-net_http 1.0.1
+Installing faraday-net_http 1.0.1
+Fetching faraday-net_http_persistent 1.2.0
+Installing faraday-net_http_persistent 1.2.0
+Fetching faraday-patron 1.0.0
+Installing faraday-patron 1.0.0
+Fetching faraday-rack 1.0.0
+Installing faraday-rack 1.0.0
+Fetching multipart-post 2.1.1
+Installing multipart-post 2.1.1
+Fetching ruby2_keywords 0.0.5
+Installing ruby2_keywords 0.0.5
+Fetching forwardable-extended 2.6.0
+Installing forwardable-extended 2.6.0
+Fetching gemoji 3.0.1
+Installing gemoji 3.0.1
+Fetching rb-fsevent 0.11.0
+Installing rb-fsevent 0.11.0
+Fetching rexml 3.2.5
+Installing rexml 3.2.5
+Fetching liquid 4.0.3
+Installing liquid 4.0.3
+Fetching mercenary 0.3.6
+Installing mercenary 0.3.6
+Fetching rouge 3.26.0
+Installing rouge 3.26.0
+Fetching safe_yaml 1.0.5
+Installing safe_yaml 1.0.5
+Fetching mini_portile2 2.6.1
+Installing mini_portile2 2.6.1
+Fetching racc 1.6.0
+Installing racc 1.6.0 with native extensions
+Fetching jekyll-paginate 1.1.0
+Installing jekyll-paginate 1.1.0
+Fetching rubyzip 2.3.2
+Installing rubyzip 2.3.2
+Fetching jekyll-swiss 1.0.0
+Installing jekyll-swiss 1.0.0
+Fetching unicode-display_width 1.8.0
+Installing unicode-display_width 1.8.0
+Fetching parallel 1.20.1
+Installing parallel 1.20.1
+Fetching rainbow 3.0.0
+Installing rainbow 3.0.0
+Fetching yell 2.2.2
+Installing yell 2.2.2
+Fetching i18n 0.9.5
+Installing i18n 0.9.5
+Fetching tzinfo 1.2.9
+Installing tzinfo 1.2.9
+Fetching addressable 2.8.0
+Installing addressable 2.8.0
+Fetching coffee-script 2.4.1
+Installing coffee-script 2.4.1
+Fetching unf 0.1.4
+Installing unf 0.1.4
+Fetching ethon 0.15.0
+Installing ethon 0.15.0
+Fetching rb-inotify 0.10.1
+Installing rb-inotify 0.10.1
+Fetching faraday 1.8.0
+Installing faraday 1.8.0
+Fetching pathutil 0.16.2
+Installing pathutil 0.16.2
+Fetching kramdown 2.3.1
+Installing kramdown 2.3.1
+Fetching em-websocket 0.5.3
+Installing em-websocket 0.5.3
+Fetching terminal-table 1.8.0
+Installing terminal-table 1.8.0
+Fetching ruby-enum 0.9.0
+Fetching activesupport 6.0.4.1
+Installing ruby-enum 0.9.0
+Installing activesupport 6.0.4.1
+Fetching jekyll-coffeescript 1.1.1
+Installing jekyll-coffeescript 1.1.1
+Fetching simpleidn 0.2.1
+Fetching typhoeus 1.4.0
+Installing simpleidn 0.2.1
+Installing typhoeus 1.4.0
+Fetching sass-listen 4.0.0
+Fetching listen 3.7.0
+Installing sass-listen 4.0.0
+Fetching sawyer 0.8.2
+Installing listen 3.7.0
+Fetching kramdown-parser-gfm 1.1.0
+Installing sawyer 0.8.2
+Installing kramdown-parser-gfm 1.1.0
+Fetching nokogiri 1.12.5 (x86_64-linux)
+Fetching commonmarker 0.17.13
+Installing commonmarker 0.17.13 with native extensions
+Installing nokogiri 1.12.5 (x86_64-linux)
+Fetching dnsruby 1.61.7
+Installing dnsruby 1.61.7
+Fetching sass 3.7.4
+Installing sass 3.7.4
+Fetching jekyll-watch 2.2.1
+Installing jekyll-watch 2.2.1
+Fetching octokit 4.21.0
+Installing octokit 4.21.0
+Fetching html-pipeline 2.14.0
+Installing html-pipeline 2.14.0
+Fetching nokogumbo 2.0.5
+Installing nokogumbo 2.0.5 with native extensions
+Fetching jekyll-sass-converter 1.5.2
+Installing jekyll-sass-converter 1.5.2
+Fetching github-pages-health-check 1.17.9
+Installing github-pages-health-check 1.17.9
+Fetching jekyll-gist 1.5.0
+Installing jekyll-gist 1.5.0
+Fetching html-proofer 3.19.2
+Installing html-proofer 3.19.2
+Fetching jekyll 3.9.0
+Installing jekyll 3.9.0
+Fetching jekyll-avatar 0.7.0
+Installing jekyll-avatar 0.7.0
+Fetching jekyll-default-layout 0.1.4
+Installing jekyll-default-layout 0.1.4
+Fetching jekyll-feed 0.15.1
+Installing jekyll-feed 0.15.1
+Fetching jekyll-github-metadata 2.13.0
+Installing jekyll-github-metadata 2.13.0
+Fetching jekyll-mentions 1.6.0
+Installing jekyll-mentions 1.6.0
+Fetching jekyll-optional-front-matter 0.3.2
+Installing jekyll-optional-front-matter 0.3.2
+Fetching jekyll-readme-index 0.3.0
+Installing jekyll-readme-index 0.3.0
+Fetching jekyll-redirect-from 0.16.0
+Installing jekyll-redirect-from 0.16.0
+Fetching jekyll-relative-links 0.6.1
+Installing jekyll-relative-links 0.6.1
+Fetching jekyll-remote-theme 0.4.3
+Installing jekyll-remote-theme 0.4.3
+Fetching jekyll-seo-tag 2.7.1
+Installing jekyll-seo-tag 2.7.1
+Fetching jekyll-sitemap 1.4.0
+Installing jekyll-sitemap 1.4.0
+Fetching jekyll-titles-from-headings 0.5.3
+Installing jekyll-titles-from-headings 0.5.3
+Fetching jemoji 0.12.0
+Fetching jekyll-theme-architect 0.2.0
+Installing jemoji 0.12.0
+Fetching jekyll-theme-cayman 0.2.0
+Installing jekyll-theme-architect 0.2.0
+Fetching jekyll-theme-dinky 0.2.0
+Installing jekyll-theme-cayman 0.2.0
+Fetching jekyll-theme-hacker 0.2.0
+Installing jekyll-theme-dinky 0.2.0
+Fetching jekyll-theme-leap-day 0.2.0
+Installing jekyll-theme-hacker 0.2.0
+Fetching jekyll-theme-merlot 0.2.0
+Installing jekyll-theme-merlot 0.2.0
+Installing jekyll-theme-leap-day 0.2.0
+Fetching jekyll-theme-midnight 0.2.0
+Fetching jekyll-theme-minimal 0.2.0
+Installing jekyll-theme-minimal 0.2.0
+Fetching jekyll-theme-modernist 0.2.0
+Installing jekyll-theme-modernist 0.2.0
+Fetching jekyll-theme-primer 0.6.0
+Installing jekyll-theme-primer 0.6.0
+Fetching jekyll-theme-slate 0.2.0
+Installing jekyll-theme-midnight 0.2.0
+Installing jekyll-theme-slate 0.2.0
+Fetching jekyll-theme-tactile 0.2.0
+Installing jekyll-theme-tactile 0.2.0
+Fetching jekyll-theme-time-machine 0.2.0
+Installing jekyll-theme-time-machine 0.2.0
+Fetching minima 2.5.1
+Installing minima 2.5.1
+Fetching jekyll-commonmark 1.3.1
+Installing jekyll-commonmark 1.3.1
+Fetching jekyll-commonmark-ghpages 0.1.6
+Installing jekyll-commonmark-ghpages 0.1.6
+Fetching github-pages 222
+Installing github-pages 222
+Bundle complete! 3 Gemfile dependencies, 106 gems now installed.
+Bundled gems are installed into `./vendor/gems`
+Post-install message from dnsruby:
+Installing dnsruby...
+  For issues and source code: https://github.com/alexdalitz/dnsruby
+  For general discussion (please tell us how you use dnsruby): https://groups.google.com/forum/#!forum/dnsruby
+Post-install message from sass:
+
+Ruby Sass has reached end-of-life and should no longer be used.
+
+* If you use Sass as a command-line tool, we recommend using Dart Sass, the new
+  primary implementation: https://sass-lang.com/install
+
+* If you use Sass as a plug-in for a Ruby web framework, we recommend using the
+  sassc gem: https://github.com/sass/sassc-ruby#readme
+
+* For more details, please refer to the Sass blog:
+  https://sass-lang.com/blog/posts/7828841
+
+Post-install message from html-pipeline:
+-------------------------------------------------
+Thank you for installing html-pipeline!
+You must bundle Filter gem dependencies.
+See html-pipeline README.md for more details.
+https://github.com/jch/html-pipeline#dependencies
+-------------------------------------------------
+Post-install message from rubyzip:
+RubyZip 3.0 is coming!
+**********************
+
+The public API of some Rubyzip classes has been modernized to use named
+parameters for optional arguments. Please check your usage of the
+following classes:
+  * `Zip::File`
+  * `Zip::Entry`
+  * `Zip::InputStream`
+  * `Zip::OutputStream`
+
+Please ensure that your Gemfiles and .gemspecs are suitably restrictive
+to avoid an unexpected breakage when 3.0 is released (e.g. ~> 2.3.0).
+See https://github.com/rubyzip/rubyzip for details. The Changelog also
+lists other enhancements and bugfixes that have been implemented since
+version 2.3.0.
+
+==> Installing node dependencies…
+real	0m28.225s
+user	0m39.318s
+sys	0m5.174s
+npm WARN old lockfile 
+npm WARN old lockfile The package-lock.json file was created with an old version of npm,
+npm WARN old lockfile so supplemental metadata must be fetched from the registry.
+npm WARN old lockfile 
+npm WARN old lockfile This is a one-time fix-up, please be patient...
+npm WARN old lockfile 
+
+> postinstall
+> cd test && npm install
+
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm ERR! code 1
+npm ERR! path /home/runner/work/opensource.guide/opensource.guide/test/node_modules/kindlegen
+npm ERR! command failed
+npm ERR! command sh -c node install.js
+npm ERR! /home/runner/work/opensource.guide/opensource.guide/test/node_modules/got/index.js:182
+npm ERR! 			proxy.emit('error', new got.HTTPError(statusCode, opts), null, res);
+npm ERR! 			                    ^
+npm ERR! ErrorClass [HTTPError]: Response code 403 (Forbidden)
+npm ERR!     at EventEmitter.<anonymous> (/home/runner/work/opensource.guide/opensource.guide/test/node_modules/got/index.js:182:24)
+npm ERR!     at EventEmitter.emit (node:events:390:28)
+npm ERR!     at Immediate.<anonymous> (/home/runner/work/opensource.guide/opensource.guide/test/node_modules/got/index.js:61:8)
+npm ERR!     at processImmediate (node:internal/timers:464:21) {
+npm ERR!   host: 'kindlegen.s3.amazonaws.com',
+npm ERR!   hostname: 'kindlegen.s3.amazonaws.com',
+npm ERR!   method: 'GET',
+npm ERR!   path: '/kindlegen_linux_2.6_i386_v2_9.tar.gz',
+npm ERR!   statusCode: 403,
+npm ERR!   statusMessage: 'Forbidden',
+npm ERR!   bufferedData: Buffer(0) [Uint8Array] []
+npm ERR! }
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/runner/.npm/_logs/2021-12-11T07_07_59_208Z-debug.log
+npm ERR! code 1
+npm ERR! path /home/runner/work/opensource.guide/opensource.guide
+npm ERR! command failed
+npm ERR! command sh -c cd test && npm install
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/runner/.npm/_logs/2021-12-11T07_07_59_248Z-debug.log#ไฟล์ที่รวบรวม / เพิ่มประสิทธิภาพ / DLL ไบต์
+__pycache__ /
+* .py [ cod ]
+* $py.class
+
+# C นามสกุล
+* .so
+
+#จำหน่าย / บรรจุภัณฑ์
+.Python
+สร้าง /
+ไข่พัฒนา /
+dist /
+ดาวน์โหลด /
+ไข่ /
+.ไข่ /
+ลิบ /
+lib64 /
+ชิ้นส่วน /
+sdist /
+วาร์ /
+ล้อ /
+pip-wheel-ข้อมูลเมตา /
+แบ่งปัน / python-wheels /
+* .egg-info /
+.installed.cfg
+* .eg
+MANIFEST
+
+# PyInstaller
+#   โดยปกติไฟล์เหล่านี้เขียนด้วยสคริปต์หลามจากเทมเพลต
+#   ก่อนที่ PyInstaller จะสร้าง exe เพื่อใส่วันที่/ข้อมูลอื่น ๆ ลงไป
+* .manifest
+* .spec
+
+#บันทึกการติดตั้ง
+pip-log.txt
+pip-delete-this-directory.txt
+
+#หน่วยทดสอบ / รายงานความครอบคลุม
+htmlcov /
+.tox /
+.nox /
+.ครอบคลุม
+.ครอบคลุม *
+.cache
+nosetests.xml
+ความคุ้มครอง.xml
+* .cover
+* .py ปก
+.สมมติฐาน /
+.pytest_cache /
+
+# การแปล
+* .mo
+* .pot
+
+#สิ่งของ Django:
+* .log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+#สิ่งของกระติก:
+ตัวอย่าง /
+.webasset-cache
+
+#สิ่งที่น่าขยะแขยง:
+.scrapy
+
+#เอกสารสฟิงซ์
+เอกสาร / _build /
+
+# PyBuilder
+เป้าหมาย /
+
+#โน๊ตบุ๊ค Jupyter
+.ipynb_checkpoints
+
+# IPython
+profile_default /
+ipython_config.py
+
+#เพียววี่
+.python-เวอร์ชั่น
+
+#ปิ่นเกล้า
+#    ตาม pypa/pipenv#598 ขอแนะนำให้รวม Pipfile.lock ไว้ในการควบคุมเวอร์ชัน
+#    อย่างไรก็ตามในกรณีของการทำงานร่วมกันหากมีการพึ่งพาหรือขึ้นต่อกันเฉพาะแพลตฟอร์ม
+#    ไม่มีการสนับสนุนข้ามแพลตฟอร์ม pipenv อาจติดตั้งการพึ่งพาที่ไม่ทำงานหรือไม่
+#    ติดตั้งการพึ่งพาที่จำเป็นทั้งหมด
+# Pipfile.lock
+
+#เป๊ป 582; ใช้โดยเช่น github.com/David-OConnor/pyflow
+__pypackages__ /
+
+#ขึ้นฉ่ายฝรั่ง
+celerybeat-ตารางเวลา
+celerybeat.pid
+
+# SageMath แยกวิเคราะห์ไฟล์
+* .sage.py
+
+#สิ่งแวดล้อม
+.env
+.venv
+สิ่งแวดล้อม /
+เวฟ /
+ENV /
+env.bak /
+venv.bak /
+
+#การตั้งค่าโครงการ Spyder
+.spyderproject
+.spyproject
+
+#การตั้งค่าโครงการเชือก
+.ropeproject
+
+#เอกสาร mkdocs
+/ เว็บไซต์
+
+#มายปี้
+.mypy_cache /
+.dmypy.json
+dmypy.json
+
+#ตัวตรวจสอบประเภท Pyre
+.pyre /
