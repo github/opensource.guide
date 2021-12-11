@@ -1,0 +1,41 @@
+''การผสผสานกับ bot 3 ขั้นตอน เพื่อสร้างช่องทาง
+#layout: index: window: ghost: Running :actions:
+on:
+  push:
+    branches:
+      - master
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@master
+      - uses: TryGhost/action-deploy-theme@v1.4.1
+        with:
+          api-url: ${{ secrets.GHOST_ADMIN_API_URL }}
+          api-key: ${{ secrets.GHOST_ADMIN_API_KEY }}
+
+-ขั้นตอนที่2
+ชื่อ : ปรับใช้ธีม
+เมื่อ :
+   พุช :
+     สาขา :
+      - โท 
+      - หลัก
+งาน :
+   การปรับใช้ :
+     วิ่งบน : อูบุนตู 18.04 
+    ขั้นตอน :
+      - ใช้ : actions/checkout@v2 
+      - ชื่อ : Deploy Ghost Theme 
+        ใช้ : TryGhost/action-deploy-theme@v1.4.0 
+        กับ :
+           api-url : ${{ secrets.GHOST_ADMIN_API_URL }} 
+          api-key : ${{ secrets. GHOST_ADMIN_API_KEY
+-ขั้นตอนที่3
+# sizeContent();
+$(window).resize(sizeContent);
+function sizeContent() {
+    var newHeight = $(window).height();
+    $(".banner").css("height", newHeight);
+}''
