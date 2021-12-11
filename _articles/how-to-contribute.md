@@ -70,7 +70,7 @@ A common misconception about contributing to open source is that you need to con
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the projects and helps to gain the knowledge.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
