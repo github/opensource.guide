@@ -52,7 +52,7 @@ Zapisywanie zasad może być denerwujące. Czasami możesz mieć wrażenie, że 
 
 Napisane i rzetelnie egzekwowane dobre zasady, jednak upoważniają opiekunów. Zapobiegają wciągnięciu cię w robienie rzeczy, których nie chcesz robić.
 
-Większość ludzi, którzy natkną się na twój projekt, nie wie nic o tobie ani twoich okolicznościach. Mogą założyć, że zarabiasz za pracę nad tym, zwłaszcza jeśli jest to coś, z czego regularnie korzystają i na którym polegają. Może w pewnym momencie poświęcisz dużo czasu na swój projekt, ale teraz jesteś zajęty nową pracą lub członkiem rodziny.
+Większość ludzi, którzy natkną się na twój projekt, nie wie nic o tobie ani twoich okolicznościach. Mogą założyć, że zarabiasz za pracę nad tym, zwłaszcza jeśli jest to coś, z czego regularnie korzystają i na czym polegają. Może w pewnym momencie poświęcałeś dużo czasu na swój projekt, ale teraz jesteś zajęty nową pracą lub członkiem rodziny.
 
 Wszystko to jest w porządku! Upewnij się tylko, że inni wiedzą o tym.
 
@@ -161,7 +161,7 @@ Jeśli widzisz, że ktoś jest entuzjastycznie nastawiony do twojego projektu, a
 
 ## Wykorzystaj swoją społeczność
 
-Nie musisz robić wszystkiego sam. Społeczność twojego projektu istnieje bez powodu! Nawet jeśli nie masz jeszcze aktywnej społeczności współautorów, jeśli masz wielu użytkowników, włącz ich do pracy.
+Nie musisz robić wszystkiego sam. Społeczność twojego projektu nie istnieje bez powodu! Nawet jeśli nie masz jeszcze aktywnej społeczności współautorów, jeśli masz wielu użytkowników, włącz ich do pracy.
 
 ### Udostępnij obciążenie pracą
 

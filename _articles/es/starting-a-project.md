@@ -43,7 +43,7 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
 
 * **Colaboraci&oacute;n:** Los proyectos de c&oacute;digo abierto pueden aceptar cambios efectuados por cualquier persona alrededor del mundo. [Exercism](https://github.com/exercism/), por ejemplo, una plataforma para ejercicios de programaci&oacute;n con m&aacute;s de 350 colaboradores.
 
-* **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto puedne ser usados por cualquiera para casi cualquier pr&oacute;p&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
+* **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto pueden ser usados por cualquiera para casi cualquier pr&oacute;p&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
 * **Transparencia:** Cualquiera puede inspeccionar un proyecto de este tipo, ya sea para encontrar errores como inconsistencias. La transparencia es de importancia para gobiernos como el de [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o [United States](https://sourcecode.cio.gov/), para industrias reguladas como la bancaria o la del cuidado de la salud, y para la seguridad del software como [Let's Encrypt](https://github.com/letsencrypt).
 
@@ -71,7 +71,7 @@ Si no estás convencido todav&iacute;a, toma un momento para pensar acerca de cu
 
 Los objetivos pueden ayudarte a detectar puntos en los que continuar trabajando, a qu&eacute; decirle que no, y a d&oacute;nde recurrir por ayuda. Comienza pregunt&aacute;ndote, _&iquest;Por qu&eacute; estoy haciendo "c&oacute;digo abierto" a mi proyecto?_
 
-No hay nunca una respuesta correcta a la &eacute;sta pregunta. Puedes tener m&uacute;ltiples objetivos para un solo proyecto, o diferentes proyectos con diferentes objetivos.
+No hay nunca una respuesta correcta a esta pregunta. Puedes tener m&uacute;ltiples objetivos para un solo proyecto, o diferentes proyectos con diferentes objetivos.
 
 Si tu &uacute;nico objetivo es mostrar al mundo tu trabajo, quiz&aacute;s no necesites ni quieras contribuci&oacute;n, y quiz&aacute;s digas eso en el README. Por otra parte, si quieres ayuda, invertir&aacute;s tiempo en clarificar la documentaci&oacute;n y en hacer sentir a los reci&eacute;n llegados bienvenidos.
 
@@ -103,11 +103,11 @@ Si necesitas un presupuesto dedicado o personal para la promoci&oacute;n, operac
 
 Si tu meta es aprender c&oacute;mo contribuir con otros o entender c&oacute;mo funciona el "c&oacute;digo abierto", considera contribuir en proyectos existentes. Comienza con proyectos que ya has estado usando y que te gustan. Contribuir a un proyecto puede ser tan simple como arreglar "typos" o actualizar documentaci&oacute;n.
 
-Si no sab&eacute;s como comenzar a contribuir, mira esto [Gu&iacute;a sobre c&oacute;mo contribuir](../how-to-contribute/).
+Si no sab&eacute;s como comenzar a contribuir, mira esta [Gu&iacute;a sobre c&oacute;mo contribuir](../how-to-contribute/).
 
 ## Lanzando tu propio proyecto de C&oacute;digo Abierto
 
-No hay momento prefecto para abrir el c&oacute;digo de tu trabajo. Puedes abrir el de una idea, el de un trabajo en progreso, o despu&eacute;s de varios a&ntilde;os de ser un proyecto cerrado.
+No hay momento perfecto para abrir el c&oacute;digo de tu trabajo. Puedes abrir el de una idea, el de un trabajo en progreso, o despu&eacute;s de varios a&ntilde;os de ser un proyecto cerrado.
 
 Generalmente, puedes abrir el c&oacute;digo de tu proyecto cuando te sientas c&oacute;modo de que otras personas vean y te aconsejen sobre tu trabajo.
 
@@ -183,9 +183,9 @@ Por ejemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) comienz
 
 > Primero, muchas gracias por considerar contribuir a Active Admin. Son personas como ustedes las que la hacen una gran herramienta.
 
-En las primeras etapas del proyecto, tu archivo CONTRIBUITNG puede ser simple. Siempre debes explicar c&oacute;mo reportar bugs o issues, y cualquier requerimiento t&eacute;cnico (como tests) para hacer una contribuci&oacute;n.
+En las primeras etapas del proyecto, tu archivo CONTRIBUTING puede ser simple. Siempre debes explicar c&oacute;mo reportar bugs o issues, y cualquier requerimiento t&eacute;cnico (como tests) para hacer una contribuci&oacute;n.
 
-Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir &eacute;sta informaci&oacute;n significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
+Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir esta informaci&oacute;n significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
 
 Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
@@ -211,7 +211,7 @@ Adem&aacute;s de comunicar _c&oacute;mo_ esperas que se comporten los participan
 
 Como muchas licencias de c&oacute;digo abierto, existen est&aacute;ndares emergentes para c&oacute;digos de conducta para que no debas escribir uno propio. El [Contributor Covenant](https://www.contributor-covenant.org/) es un c&oacute;digo de conducta usado por [m&aacute;s de 40000 proyectos de c&oacute;digo abierto](https://www.contributor-covenant.org/adopters), incluyendo Kubernetes, Rails, and Swift. Debes estar preparado para redefinir el tuyo cuando sea necesario.
 
-Copia el texto directamente en el archivo CODE_OF_CONDUCT dentro de tu repositorio, en el directorio ra&iacute;z, y vinculalo desde tu README.
+Copia el texto directamente en el archivo CODE_OF_CONDUCT dentro de tu repositorio, en el directorio ra&iacute;z, y vincúlalo desde tu README.
 
 ## Dando un nombre y una marca a tu proyecto
 
@@ -232,7 +232,7 @@ Considera claridad por sobre todo. Los chismes son divertidos,pero recuerda que 
 
 Busca proyectos con el mismo nombre, o similar, especialmente si compartes el mismo ecosistema o idioma. Si tu nombre coincide con alg&uacute;n otro proyecto popular, puede confundir a las personas.
 
-Si quieres una p&aacute;gina web, manejo de Twitter, u otros &iacute;tems que representen tu proyecto, asegurate de que puedas asignar el nombre que quieras. En lo posible, [reserva tu nombre ahora](https://instantdomainsearch.com/) para estar tranquilo, aunque a&uacute;n no lo vayas a usar.
+Si quieres una p&aacute;gina web, manejo de Twitter, u otros &iacute;tems que representen tu proyecto, asegúrate de que puedas asignar el nombre que quieras. En lo posible, [reserva tu nombre ahora](https://instantdomainsearch.com/) para estar tranquilo, aunque a&uacute;n no lo vayas a usar.
 
 Tu nombre no debe infringir ninguna marca (trademark), de ser as&iacute; la compa&ntilde;&iacute;a puede pedirte que des de baja a tu proyecto, o puede tomar acciones legales en tu contra. No vale el riesgo.
 
