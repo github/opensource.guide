@@ -3,14 +3,9 @@
   "devDependencies": {
     "async": "^2.0.0",
     "dictionary-en-us": "^2.0.0",
-    "download": "^5.0.3",
-    "ebrew": "^0.2.3",
-    "fastmatter": "^1.1.1",
     "glob": "^7.0.5",
     "ignore": "^3.1.3",
     "js-yaml": "^3.6.1",
-    "kindlegen": "^1.1.0",
-    "mkdirp": "^0.5.1",
     "remark-frontmatter": "^1.1.0",
     "remark-lint": "^6.0.0",
     "remark-lint-blockquote-indentation": "^1.0.0",
@@ -56,10 +51,8 @@
     "retext-syntax-mentions": "^1.1.0",
     "retext-syntax-urls": "^1.0.0",
     "retext-words": "bkeepers/retext-words",
-    "slug": "^0.9.1",
     "to-vfile": "^2.1.0",
     "unified": "^6.1.0",
-    "unist-util-visit": "^1.1.1",
     "vfile-reporter": "^4.0.0",
     "vfile-statistics": "^1.0.0"
   }
