@@ -480,7 +480,7 @@ Si el proyecto est&aacute; alojado en GITHUB, ac&aacute; te explicamos los pasos
 * **[Crea una rama](https://guides.github.com/introduction/flow/)** para tus ediciones.
 * **Haz referencia a cualquier problema relevante** o documentaci&oacute;n de soporte en tu PR (por ejemplo "Cierra #37.")
 * **Incluye capturas de pantalla del antes y del despu&eacute;s** si tus cambios incluyen diferencias en el HTML o CSS. Arrastra y suelta las im&aacute;genes en el cuerpo de tu pull request.
-* **¡Has pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, aseg&uacute;rate que tus cambios no produzcan roturas del proyecto existente.
+* **¡Haz pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, aseg&uacute;rate que tus cambios no produzcan roturas del proyecto existente.
 * **Contribuye con el estilo del proyecto** con el m&aacute;ximo de tus capacidades. Esto significa utilizar indentaci&oacute;n, punto y comas o comentarios de manera diferente a lo que har&iacute;as en tu repositorio, pero que hacen m&aacute;s sencillo para los responsables combinar y para otros de entender y mantener el proyecto en el futuro.
 
 Si se trata de tu primer pull request, verifica [Haz un Pull Request](http://makeapullrequest.com/), que fue creado por @kentcdodds como un recurso de recorrido gratuito.
