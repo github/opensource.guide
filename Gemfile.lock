@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.0.4.1)
+    activesupport (6.0.4.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -48,7 +48,7 @@ GEM
     ffi (1.15.4)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
-    github-pages (222)
+    github-pages (223)
       github-pages-health-check (= 1.17.9)
       jekyll (= 3.9.0)
       jekyll-avatar (= 0.7.0)
@@ -58,6 +58,7 @@ GEM
       jekyll-feed (= 0.15.1)
       jekyll-gist (= 1.5.0)
       jekyll-github-metadata (= 2.13.0)
+      jekyll-include-cache (= 0.2.1)
       jekyll-mentions (= 1.6.0)
       jekyll-optional-front-matter (= 0.3.2)
       jekyll-paginate (= 1.1.0)
@@ -146,6 +147,8 @@ GEM
     jekyll-github-metadata (2.13.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
+    jekyll-include-cache (0.2.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -232,7 +235,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.14.4)
+    minitest (5.15.0)
     multipart-post (2.1.1)
     nokogiri (1.12.5)
       mini_portile2 (~> 2.6.1)
@@ -279,7 +282,7 @@ GEM
     unf_ext (0.0.8)
     unicode-display_width (1.8.0)
     yell (2.2.2)
-    zeitwerk (2.5.1)
+    zeitwerk (2.5.2)
 
 PLATFORMS
   ruby
