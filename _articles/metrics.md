@@ -12,7 +12,7 @@ related:
 
 ## Why measure anything?
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+Data, when used wisely, can help you make better decisions as an open-source maintainer.
 
 With more information, you can:
 
@@ -25,9 +25,9 @@ With more information, you can:
 
 For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
 
-> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where, and when people use Homebrew.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open-source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
 
 If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
 
@@ -49,7 +49,7 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 [GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open-source projects or websites.
 
 ## Usage
 
@@ -84,15 +84,15 @@ Retention also requires an [inflow of new contributors](http://blog.abigailcabun
 
 Examples of community metrics that you may want to regularly track include:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Total contributor count and the number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
 
 ![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits or something else is up to you.) Without new contributors, your project's community can become stagnant.
 
 * **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Number of _opened_ issues and _opened_ pull requests:** Opened issues mean somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
@@ -106,7 +106,7 @@ Examples of community metrics that you may want to regularly track include:
 
 ## Maintainer activity
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+Finally, you'll want to close the loop by making sure your project's maintainers can handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
 
 Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
 
