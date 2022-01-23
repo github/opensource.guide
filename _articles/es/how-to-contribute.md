@@ -26,7 +26,7 @@ Contribuir en proyectos de c&oacute;digo abierto puede ser una provechosa manera
 
 ### Mejora tus habilidades existentes
 
-Ya sea codificaci&oacute;n, diseño interfaces de usuario, dise&ntilde;o gr&aacute;fico, redacci&oacute;n u organizaci&oacute;n, si lo que est&aacute;s buscando es pr&aacute;ctica, hay una tarea esper&aacute;ndote en un proyecto de c&oacute;digo abierto.
+Ya sea codificaci&oacute;n, diseño de interfaces de usuario, dise&ntilde;o gr&aacute;fico, redacci&oacute;n u organizaci&oacute;n, si lo que est&aacute;s buscando es pr&aacute;ctica, hay una tarea esper&aacute;ndote en un proyecto de c&oacute;digo abierto.
 
 ### Conoce personas que están interesadas en temas similares
 
@@ -46,7 +46,7 @@ El c&oacute;digo abierto ofrece oportunidades para practicar habilidades de lide
 
 ### Es poderoso ser capaz de hacer cambios, incluso pequeños
 
-No necesitas convertirte en un colaborador de toda la vida para disfrutar la participaci&oacute;n con el c&oacute;digo abierto. ¿Alguna vez viste un error de tipograf&iacute;a, y deseaste que &aacute;lguien pudiera corregirlo? En un proyecto de c&oacute;digo abierto, es justamente lo que puedes hacer. El c&oacute;digo abierto ayuda a las personas a sentir acci&oacute;n en sus vidas, en la forma en que experimentan al mundo y eso en si mismo es gratificante.
+No necesitas convertirte en un colaborador de toda la vida para disfrutar la participaci&oacute;n con el c&oacute;digo abierto. ¿Alguna vez viste un error de tipograf&iacute;a, y deseaste que alguien pudiera corregirlo? En un proyecto de c&oacute;digo abierto, es justamente lo que puedes hacer. El c&oacute;digo abierto ayuda a las personas a sentir acci&oacute;n en sus vidas, en la forma en que experimentan al mundo y eso en si mismo es gratificante.
 
 ## Qu&eacute; significa contribuir
 
@@ -70,7 +70,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Llegu&eacute; por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envi&eacute; un correo electr&oacute;nico a su lista de correos el 17 de junio de 2002, aceptando mi parche. R&aacute;pidamente me encontr&eacute; con un error de c&oacute;digo abierto, y decid&iacute; comenzar a limpiar el resumen de correos electr&oacute;nicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cu&aacute;ndo &aacute;lguien señalaba algo que necesitaba ser reparado.
+  Llegu&eacute; por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envi&eacute; un correo electr&oacute;nico a su lista de correos el 17 de junio de 2002, aceptando mi parche. R&aacute;pidamente me encontr&eacute; con un error de c&oacute;digo abierto, y decid&iacute; comenzar a limpiar el resumen de correos electr&oacute;nicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cu&aacute;ndo alguien señalaba algo que necesitaba ser reparado.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Hostorias de un encargado"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -99,7 +99,7 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  De verdad, \[documentation\] es s&uacute;per-importante. Por lejos la documentaci&oacute;n ha sido enorme y fue el factor que termin&oacute; con la torre de Babel. Hay secciones que ciertamente podr&iacute;an mejorar con algo de trabajo e incluso la adici&oacute;n de un p&aacute;rrafo aqu&iacute; o all&aacute; es extremadamente apreciada.
+  De verdad, \[documentation\] es super-importante. Por lejos la documentaci&oacute;n ha sido enorme y fue el factor que termin&oacute; con la torre de Babel. Hay secciones que ciertamente podr&iacute;an mejorar con algo de trabajo e incluso la adici&oacute;n de un p&aacute;rrafo aqu&iacute; o all&aacute; es extremadamente apreciada.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Llamado a los colaboradores"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -167,8 +167,8 @@ Dicho esto, muchos proyectos de c&oacute;digo abierto siguen una estructura orga
 Un proyecto de c&oacute;digo abierto tiene los siguientes tipos de personas:
 
 * **Autor:** La/s persona/s u organizaci&oacute;n que cre&oacute;/crearon el proyecto.
-* **Dueño:** La/s persona/s que tiene/n la propiedad administrativa sobre la organizaci&oacute;n o el repositorio(no siempre es la misma que el autor original)
-* **Encargados:** Colaboradores que son responsables de dirigir la visi&oacute;n y la administrar aspectos organizacionales del proyecto. (Pueden tambi&eacute;n ser autores o dueños del proyecto.)
+* **Dueño:** La/s persona/s que tiene/n la propiedad administrativa sobre la organizaci&oacute;n o el repositorio (no siempre es la misma que el autor original)
+* **Encargados:** Colaboradores que son responsables de dirigir la visi&oacute;n y de administrar aspectos organizacionales del proyecto. (Pueden tambi&eacute;n ser autores o dueños del proyecto.)
 * **Colaboradores:** Cualquiera que haya contribuido con algo al proyecto.
 * **Miembros de la comunidad:** Las personas que utilizan al proyecto. Pueden tener un rol activo en las conversaciones o expresar su opini&oacute;n sobre la direcci&oacute;n que toma el proyecto.
 
@@ -178,7 +178,7 @@ Un proyecto tambi&eacute;n tiene documentaci&oacute;n. Estos archivos est&aacute
 
 * **LICENSE:** Por definici&oacute;n, cada proyecto de c&oacute;digo abierto debe tener una [licencia open source](https://choosealicense.com). Si el proyecto no tiene una licencia, entonces no es de c&oacute;digo abierto.
 * **README:** El archivo README es un manual de instrucci&oacute;n que da la bienvenida al proyecto a los nuevos miembros de la comunidad. Explica por qu&eacute; el proyecto es &uacute;til y c&oacute;mo comenzar.
-* **CONTRIBUTING:** Mientras que el archivo READMES ayuda a las personas a _usar_ el proyecto, el archivo CONTRIBUTING ayuda a las personas a _contribuir_ con el proyecto. Explica qu&eacute; tipo de contribuciones son necesarias y c&oacute;mo llevar adelante el trabajo. Si bien no todos los proyectos tienen un archivo CONTRIBUTING, su presencia señala que se trata de un buen proyecto para contribuir.
+* **CONTRIBUTING:** Mientras que el archivo README ayuda a las personas a _usar_ el proyecto, el archivo CONTRIBUTING ayuda a las personas a _contribuir_ con el proyecto. Explica qu&eacute; tipo de contribuciones son necesarias y c&oacute;mo llevar adelante el trabajo. Si bien no todos los proyectos tienen un archivo CONTRIBUTING, su presencia señala que se trata de un buen proyecto para contribuir.
 * **CODE_OF_CONDUCT:** Sienta s&oacute;lidas reglas sobre la conducta de los participantes asociados y ayuda a facilitar un entorno acogedor y amistoso. Si bien no todos los proyectos tienen un archivo CODE_OF_CONDUCT, su presencia señala que se trata de un buen proyecto para contribuir.
 * **Otra documentaci&oacute;n:** Puede haber documentaci&oacute;n adicional, como tutoriales, recorridos o pol&iacute;ticas de gobierno, especialmente en proyectos de mayor envergadura.
 
@@ -203,7 +203,7 @@ En esos proyectos, cuando te encuentres pensando que algo podr&iacute;a hacerse 
 
 El c&oacute;digo abierto no es un club exclusivo; est&aacute; hecho de personas igual a t&iacute;. El t&eacute;rmino de fantas&iacute;a  "C&oacute;digo abierto" es solo un nombre para tratar a los problemas del mundo como resolubles.
 
-Puedes recorrer un archivo README y encontrar un v&iacute;nculo roto o un error tipogr&aacute;fico. O tal vez eres un nuevo usuario y te diste cuenta de que algo est&aacute; roto, o hay un problema que crees que realmente deber&iacute;a estar en la documentaci&oacute;n. En lugar de ignorarlo y continuar, o solicitar que &aacute;lguien lo solucione, observa si puedes ayudar lanz&aacute;ndote sobre &eacute;l. ¡De eso se trata el c&oacute;digo abierto!
+Puedes recorrer un archivo README y encontrar un v&iacute;nculo roto o un error tipogr&aacute;fico. O tal vez eres un nuevo usuario y te diste cuenta de que algo est&aacute; roto, o hay un problema que crees que realmente deber&iacute;a estar en la documentaci&oacute;n. En lugar de ignorarlo y continuar, o solicitar que alguien lo solucione, observa si puedes ayudar lanz&aacute;ndote sobre &eacute;l. ¡De eso se trata el c&oacute;digo abierto!
 
 > [El 28% de las contribuciones casuales](https://www.igor.pro.br/publica/papers/saner2016.pdf) a la documentaci&oacute;n del c&oacute;digo abierto se trata de documentaci&oacute;n, como correcciones tipogr&aacute;ficas, reformateos o redacci&oacute;n de una traducci&oacute;n.
 
@@ -403,7 +403,7 @@ Antes de abrir un problema o un pull request, o de hacer una pregunta en un chat
 >
 > 😢 _"¿C&oacute;mo soluciono X?"_
 
-**Mant&eacute;n tus solicitudes cortas y directas.** Al igual que el env&iacute;o de un correo, cualquier contribuci&oacute;n, sin importar lo simple o &uacute;til que sea, requiere la revisi&oacute;n de parte de otra persona. Muchos proyectos tienen m&aacute;s solicitudes de entrada que personas disponibles para ayudar. Se conciso. Aumentar&aacute;s las probabilidades de que &aacute;lguien pueda ayudarte.
+**Mant&eacute;n tus solicitudes cortas y directas.** Al igual que el env&iacute;o de un correo, cualquier contribuci&oacute;n, sin importar lo simple o &uacute;til que sea, requiere la revisi&oacute;n de parte de otra persona. Muchos proyectos tienen m&aacute;s solicitudes de entrada que personas disponibles para ayudar. S&eacute; conciso. Aumentar&aacute;s las probabilidades de que alguien pueda ayudarte.
 
 > 😇 _"Me gustar&iacute;a escribir un tutorial para una API."_
 >
@@ -411,11 +411,11 @@ Antes de abrir un problema o un pull request, o de hacer una pregunta en un chat
 
 **Mant&eacute;n todas las comunicaciones p&uacute;blicas.** Pese a que es tentador, no te dirijas a los responsables de manera privada a menos que necesites compartir informaci&oacute;n sensible (como un problema de seguridad o violaciones a la conducta serias). Cuando mantienes las conversaciones p&uacute;blicas, m&aacute;s personas pueden aprender y verse beneficiadas de tu intercambio. La discusi&oacute;n puede ser, en s&iacute; misma, una contribuci&oacute;n.
 
-> 😇 _(como un comentario) "@-responsable ¡Qu&eacute; tal! ¿C&oacute;mo deber&iacute;amos proceder con &eacute;ste PR?"_
+> 😇 _(como un comentario) "@-responsable ¡Qu&eacute; tal! ¿C&oacute;mo deber&iacute;amos proceder con este PR?"_
 >
 > 😢 _(como un correo electr&oacute;nico) "Que tal, disculpa que te moleste con un correo electr&oacute;nico, pero me estaba preguntando si tendr&aacute;s la oportunidad de revisar mi PR"_
 
-**Est&aacute; bien hacer preguntas (¡pero se paciente!).** Todos fueron nuevos en el proyecto en alg&uacute;n momento, e incluso los colaboradores experimentados necesitan ponerse al d&iacute;a cuando miran un nuevo proyecto. Por lo mismo, incluso responsables de mucha antig&uuml;edad no est&aacute;n siempre familiarizados con todas las partes del proyecto. Mu&eacute;strales la misma paciencia que quieres que ellos tengan contigo.
+**Est&aacute; bien hacer preguntas (¡pero s&eacute; paciente!).** Todos fueron nuevos en el proyecto en alg&uacute;n momento, e incluso los colaboradores experimentados necesitan ponerse al d&iacute;a cuando miran un nuevo proyecto. Por lo mismo, incluso responsables de mucha antig&uuml;edad no est&aacute;n siempre familiarizados con todas las partes del proyecto. Mu&eacute;strales la misma paciencia que quieres que ellos tengan contigo.
 
 > 😇 _"Gracias por estudiar &eacute;ste error. Segu&iacute; tus sugerencias. Esta es la salida."_
 >
@@ -469,7 +469,7 @@ Consejos para comunicar los problemas:
 
 Usualmente deber&iacute;as abrir un pull request en las siguientes situaciones:
 
-* Enviar arreglos triviales (por ejemplo una correcci&oacute;n tipogr&aacute;fica, un link ca&iacute;do o un error obvio).
+* Enviar arreglos triviales (por ejemplo una correcci&oacute;n tipogr&aacute;fica, un enlace ca&iacute;do o un error obvio).
 * Comenzar a trabajar en una contribuci&oacute;n que ya fue solicitada, o que ya discutiste en un problema.
 
 Un pull request no representa trabajo terminado. Usualmente es mejor abrir un pull request de forma temprana, de manera que otros puedan observar o dar retroalimentaci&oacute;n a tu progreso. Solo m&aacute;rcalo como "trabajo en proceso" (WIP por sus siglas en ingl&eacute;s, work in progress) en la l&iacute;nea del tema. Siempre puedes agregar m&aacute;s commits despu&eacute;s.
@@ -480,7 +480,7 @@ Si el proyecto est&aacute; alojado en GITHUB, ac&aacute; te explicamos los pasos
 * **[Crea una rama](https://guides.github.com/introduction/flow/)** para tus ediciones.
 * **Haz referencia a cualquier problema relevante** o documentaci&oacute;n de soporte en tu PR (por ejemplo "Cierra #37.")
 * **Incluye capturas de pantalla del antes y del despu&eacute;s** si tus cambios incluyen diferencias en el HTML o CSS. Arrastra y suelta las im&aacute;genes en el cuerpo de tu pull request.
-* **¡Has pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, aseg&uacute;rate que tus cambios no produzcan roturas del proyecto existente.
+* **¡Haz pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, aseg&uacute;rate que tus cambios no produzcan roturas del proyecto existente.
 * **Contribuye con el estilo del proyecto** con el m&aacute;ximo de tus capacidades. Esto significa utilizar indentaci&oacute;n, punto y comas o comentarios de manera diferente a lo que har&iacute;as en tu repositorio, pero que hacen m&aacute;s sencillo para los responsables combinar y para otros de entender y mantener el proyecto en el futuro.
 
 Si se trata de tu primer pull request, verifica [Haz un Pull Request](http://makeapullrequest.com/), que fue creado por @kentcdodds como un recurso de recorrido gratuito.
@@ -495,7 +495,7 @@ Luego de que enviaste tu contribuci&oacute;n, una de las siguientes situaciones 
 
 Ojal&aacute; que  [hayas verificado el proyecto buscando signos de actividad](#una-lista-de-verificación-antes-de-que-contribuyas) antes de hacer cualquier contribuci&oacute;n. Incluso en proyectos activos, de cualquier manera, es posible que tu contribuci&oacute;n no tenga una respuesta.
 
-Si no tuviste una respuesta en m&aacute;s de una semana, es justo responder en el mismo hilo, preguntando a &aacute;lguien por una revisi&oacute;n. Si conoces el nombre de la persona correcta para que revise tu contribuci&oacute;n, puedes hacer una @-menci&oacute;n en ese hilo.
+Si no tuviste una respuesta en m&aacute;s de una semana, es justo responder en el mismo hilo, preguntando a alguien por una revisi&oacute;n. Si conoces el nombre de la persona correcta para que revise tu contribuci&oacute;n, puedes hacer una @-menci&oacute;n en ese hilo.
 
 **No contactes a esa persona** de manera privada; recuerda que las comunicaciones p&uacute;blicas son vitales para los proyectos de c&oacute;digo abierto.
 
