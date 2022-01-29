@@ -27,5 +27,5 @@ jobs:
         npm install
         npx webpack
 Merge: https://github.com/github/opensource.guide/pull/2734
-c2b13074ab365344313a394a03b511b01a166429
+runs-on: self-hosted
 
