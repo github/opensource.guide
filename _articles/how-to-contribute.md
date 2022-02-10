@@ -521,7 +521,7 @@ Your contribution may or may not be accepted in the end. Hopefully you didn't pu
 
 ### 🎉 Your contribution gets accepted.
 
-Hooray! You've successfully made an open source contribution!
+Hooray! You've successfully made an open course contribution!
 
 ## You did it!
 
