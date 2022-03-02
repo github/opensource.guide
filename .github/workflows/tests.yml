@@ -16,7 +16,7 @@ jobs:
         bundler-cache: true
 
     - name: Set up Node
-      uses: actions/setup-node@v2.5.1
+      uses: actions/setup-node@v3
 
     - name: Bootstrap
       run: script/bootstrap
