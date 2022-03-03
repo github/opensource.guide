@@ -124,3 +124,5 @@ You could also measure the time it takes to move between stages in the contribut
 ## Use 📊 to learn about people
 
 Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+
+[CHAOSS](https://chaoss.community/) is a welcoming, open source community focused on analytics, metrics and software for community health.
