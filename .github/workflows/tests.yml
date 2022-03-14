@@ -1,5 +1,5 @@
 name: GitHub Actions CI
-on:
+on:2.6.7
   push:
     branches: master
   pull_request: []
