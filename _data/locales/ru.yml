@@ -17,12 +17,12 @@ ru:
       button: Сотрудничать
     subscribe:
       heading: Оставайтесь на связи
-      description: Будьте первым, кто узнает последние новости открытого кода
+      description: Будьте первым, кто узнает новости из мира открытого кода.
       label: Электронная почта
       button: Подписаться
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: '[программируйте] с [любовью] вместе с [github] и [друзьями]'
+      format: '[code] с [love] вместе с [github] и [друзьями]'
       # Label for code octicon
       code_label: программируйте
       # Label for love octicon
