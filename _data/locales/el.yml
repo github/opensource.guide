@@ -24,7 +24,7 @@ el:
       # [code], [love], and [github] will be replaced by octicons
       format: "[code] με [love] από το [github] και [friends]"
       # Label for code octicon
-      code_label: code
+      code_label: κώδικας
       # Label for love octicon
       love_label: αγάπη
       # Label for the contributors link
