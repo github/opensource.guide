@@ -249,32 +249,32 @@ related:
 
 Αν δεν είστε σίγουροι για το ποια εργαλεία να χρησιμοποιήσετε, κοιτάξτε τι κάνουν άλλα δημοφιλή πρότζεκτ, ειδικά αυτά που ανήκουν στο οικοσύστημά σας. Για παράδειγμα, πώς μοιάζει η διαδικασία συνεισφοράς για άλλες ενότητες του Node; Η χρήση παρόμοιων εργαλείων και προσεγγίσεων θα κάνει επίσης τη διαδικασία σας πιο οικεία στους συνεισφέροντες-στόχους σας.
 
-## It's okay to hit pause
+## Δεν πειράζει να κάνετε διάλειμμα!
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+Η εργασία σε ανοιχτό κώδικα κάποτε σας έδινε χαρά. Ίσως τώρα αρχίζει να σας κάνει να νιώθετε αποφυγή ή ενοχές.
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+Ίσως αισθάνεστε συγκλονισμένοι ή μια αυξανόμενη αίσθηση τρόμου όταν σκέφτεστε τα πρότζεκτ σας. Και εν τω μεταξύ, τα ζητήματα και τα αιτήματα για την έκδοση προτάσεων συσσωρεύονται.
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+Η επαγγελματική εξουθένωση είναι ένα πραγματικό και διάχυτο ζήτημα στην εργασία ανοιχτού κώδικα, ειδικά μεταξύ των συντηρητών. Ως συντηρητής, η ευτυχία σας είναι αδιαπραγμάτευτη προϋπόθεση για την επιβίωση κάθε έργου ανοιχτού κώδικα.
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+Αν και θα έπρεπε να είναι αυτονόητο, κάντε ένα διάλειμμα! Δεν θα πρέπει να περιμένετε μέχρι να νιώσετε εξαντλημένοι για να κάνετε διακοπές. Ο @brettcannon, ένας κύριος προγραμματιστής της Python, αποφάσισε να κάνει [ένα μήνα διακοπές](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) μετά από 14 χρόνια εθελοντικής εργασίας στο OSS.
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+Ακριβώς όπως και σε κάθε άλλο είδος εργασίας, το να κάνετε τακτικά διαλείμματα θα σας κρατήσει ανανεωμένους, χαρούμενους και ενθουσιασμένους με τη δουλειά σας.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+  Διατηρώντας το WP-CLI, ανακάλυψα ότι πρέπει πρώτα να κάνω τον εαυτό μου ευτυχισμένο και να θέσω σαφή όρια στη συμμετοχή μου. Η καλύτερη ισορροπία που έχω βρει είναι 2-5 ώρες την εβδομάδα, ως μέρος του κανονικού μου προγράμματος εργασίας. Αυτό κρατάει τη συμμετοχή μου ως πάθος και δεν την αισθάνομαι υπερβολικά σαν δουλειά. Επειδή ιεραρχώ τα θέματα στα οποία εργάζομαι, μπορώ να σημειώνω τακτική πρόοδο σε ό,τι θεωρώ πιο σημαντικό.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+- @danielbachhuber, ["Τα συλλυπητήριά μου, είστε τώρα ο συντηρητής ενός δημοφιλούς πρότζεκτ ανοικτού κώδικα"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+Μερικές φορές, μπορεί να είναι δύσκολο να κάνεις ένα διάλειμμα από την εργασία ανοιχτού κώδικα όταν νιώθεις ότι όλοι σε χρειάζονται. Οι άνθρωποι μπορεί ακόμη και να προσπαθήσουν να σας κάνουν να νιώσετε ένοχοι που απομακρύνεστε.
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+Κάνετε ό,τι μπορείτε για να βρείτε υποστήριξη για τους χρήστες και την κοινότητά σας, ενώ βρίσκεστε μακριά από ένα έργο. Αν δεν μπορείτε να βρείτε την υποστήριξη που χρειάζεστε, κάντε ένα διάλειμμα ούτως ή άλλως. Φροντίστε να επικοινωνείτε όταν δεν είστε διαθέσιμοι, ώστε οι άνθρωποι να μην μπερδεύονται από την έλλειψη ανταπόκρισής σας.
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+Το να κάνετε διαλείμματα ισχύει και για κάτι περισσότερο από τις διακοπές. Αν δεν θέλετε να κάνετε εργασίες ανοιχτού κώδικα τα Σαββατοκύριακα ή κατά τη διάρκεια των ωρών εργασίας, επικοινωνήστε αυτές τις προσδοκίες στους άλλους, ώστε να ξέρουν να μην σας ενοχλούν.
 
-## Take care of yourself first!
+## Φροντίστε πρώτα τον εαυτό σας!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+Η διατήρηση ενός δημοφιλούς πρότζεκτ απαιτεί διαφορετικές δεξιότητες από τα προηγούμενα στάδια ανάπτυξης, αλλά δεν είναι λιγότερο ικανοποιητική. Ως συντηρητής, θα εξασκήσετε ηγετικές και προσωπικές δεξιότητες σε ένα επίπεδο που λίγοι άνθρωποι έχουν την ευκαιρία να βιώσουν. Αν και δεν είναι πάντα εύκολο να το διαχειριστείτε, ο καθορισμός σαφών ορίων και η ανάληψη μόνο όσων σας βολεύουν θα σας βοηθήσει να παραμείνετε ευτυχισμένοι, ανανεωμένοι και παραγωγικοί.
