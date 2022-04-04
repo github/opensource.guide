@@ -109,145 +109,145 @@ related:
 
 Δεύτερον, η αγνόηση συνεισφορών στέλνει ένα αρνητικό μήνυμα στην κοινότητά σας. Η συνεισφορά σε ένα έργο μπορεί να είναι εκφοβιστική, ειδικά αν είναι η πρώτη φορά που κάποιος συνεισφέρει. Ακόμα και αν δεν αποδεχτείτε τη συνεισφορά του, αναγνωρίστε το άτομο που βρίσκεται πίσω από αυτή και ευχαριστήστε το για το ενδιαφέρον του. Είναι ένα μεγάλο κομπλιμέντο!
 
-If you don't want to accept a contribution:
+Εάν δεν θέλετε να δεχτείτε μια συνεισφορά:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* **Ευχαριστήστε τους** για τη συνεισφορά τους
+* **Εξηγήστε γιατί δεν ταιριάζει** στο πεδίο εφαρμογής του έργου, και προσφέρετε σαφείς προτάσεις βελτίωσης, αν είστε σε θέση. Να είστε ευγενικοί, αλλά σταθεροί.
+* **Να παραπέμψετε σε σχετική τεκμηρίωση**, αν την έχετε. Εάν παρατηρήσετε επαναλαμβανόμενες αιτήσεις για πράγματα που δεν θέλετε να δεχτείτε, προσθέστε τα στην τεκμηρίωσή σας για να αποφύγετε την επανάληψη.
+* **Κλείστε το αίτημα**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+Δεν θα πρέπει να χρειάζεστε περισσότερες από 1-2 προτάσεις για να απαντήσετε. Για παράδειγμα, όταν ένας χρήστης του [celery](https://github.com/celery/celery/) ανέφερε ένα σφάλμα σχετικό με τα Windows, ο @berkerpeksag [απάντησε με](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+Αν η σκέψη να πείτε όχι σας τρομάζει, δεν είστε οι μόνοι. Όπως [το έθεσε](https://blog.jessfraz.com/post/the-art-of-closing/) ο @jessfraz:
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> Έχω μιλήσει με συντηρητές από διάφορα πρότζεκτς ανοιχτού κώδικα, Mesos, Kubernetes, Chromium, και όλοι συμφωνούν ότι ένα από τα δυσκολότερα μέρη του να είσαι συντηρητής είναι να λέει κανείς "Όχι" σε patches που δεν θέλεις.
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+Μην αισθάνεστε ένοχοι που δεν θέλετε να αποδεχτείτε την συνεισφορά κάποιου. Ο πρώτος κανόνας του ανοιχτού κώδικα, [σύμφωνα με τον](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Το όχι είναι προσωρινό, το ναι είναι παντοτινό."_ Ενώ η κατανόηση του ενθουσιασμού ενός άλλου ατόμου είναι καλό πράγμα, η απόρριψη μιας συνεισφοράς δεν είναι το ίδιο με την απόρριψη του ατόμου πίσω από αυτήν.
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+Σε τελική ανάλυση, αν μια συνεισφορά δεν είναι αρκετά καλή, δεν είστε υποχρεωμένοι να την αποδεχτείτε. Να είστε ευγενικοί και να ανταποκρίνεστε όταν οι άνθρωποι συνεισφέρουν στο έργο σας, αλλά να δέχεστε μόνο τις αλλαγές που πραγματικά πιστεύετε ότι θα κάνουν το έργο σας καλύτερο. Όσο πιο συχνά εξασκείστε στο να λέτε όχι, τόσο πιο εύκολο γίνεται. Υπόσχεση.
 
-### Be proactive
+### Να είστε προνοητικοί
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+Για να μειώσετε εξαρχής τον όγκο των ανεπιθύμητων συνεισφορών, εξηγήστε τη διαδικασία του έργου σας για την υποβολή και την αποδοχή συνεισφορών στον οδηγό συνεισφοράς σας.
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+Αν λαμβάνετε πάρα πολλές συνεισφορές χαμηλής ποιότητας, απαιτήστε από τους συνεισφέροντες να κάνουν λίγη δουλειά εκ των προτέρων, για παράδειγμα:
 
-* Fill out a issue or PR template/checklist
-* Open an issue before submitting a PR
+* Συμπλήρωση ενός ζητήματος (issue) ή έναν κατάλογο αιτήματος (pull request)
+* Άνοιγμα ζητήματος πριν την υποβολή ενός αιτήματος
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+Αν δεν τηρούν τους κανόνες σας, κλείστε αμέσως το θέμα και παραπέμψτε στην τεκμηρίωσή σας.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+Αν και αυτή η προσέγγιση μπορεί να σας φανεί αγενής στην αρχή, το να είστε προληπτικοί είναι στην πραγματικότητα καλό και για τα δύο μέρη. Μειώνει την πιθανότητα κάποιος να αφιερώσει πολλές χαμένες ώρες εργασίας σε ένα pull request που δεν πρόκειται να αποδεχτείτε. Και καθιστά ευκολότερη τη διαχείριση του φόρτου εργασίας σας.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+  Ιδανικά, εξηγήστε τους και σε ένα αρχείο CONTRIBUTING.md πώς μπορούν να πάρουν μια καλύτερη ένδειξη στο μέλλον για το τι θα γίνει ή δεν θα γίνει αποδεκτό πριν ξεκινήσουν την εργασία.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+Μερικές φορές, όταν λέτε όχι, ο πιθανός συνεισφορέας σας μπορεί να εκνευριστεί ή να επικρίνει την απόφασή σας. Αν η συμπεριφορά του γίνει εχθρική, [λάβετε μέτρα για να εκτονώσετε την κατάσταση](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) ή ακόμα και να τον απομακρύνετε από την κοινότητά σας, αν δεν είναι πρόθυμος να συνεργαστεί εποικοδομητικά.
 
-### Embrace mentorship
+### Αποδεχτείτε την καθοδήγηση
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+Ίσως κάποιος στην κοινότητά σας υποβάλλει τακτικά συνεισφορές που δεν ανταποκρίνονται στα πρότυπα του έργου σας. Μπορεί να είναι απογοητευτικό και για τα δύο μέρη να περνούν επανειλημμένα από απορρίψεις.
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+Αν δείτε ότι κάποιος είναι ενθουσιασμένος με το έργο σας, αλλά χρειάζεται λίγη βελτίωση, κάντε υπομονή. Εξηγήστε με σαφήνεια σε κάθε περίπτωση γιατί οι συνεισφορές τους δεν ανταποκρίνονται στις προσδοκίες του έργου. Προσπαθήστε να τους υποδείξετε μια πιο εύκολη ή λιγότερο ασαφή εργασία, όπως ένα ζήτημα με την ένδειξη _"καλό πρώτο ζήτημα",_ για να αρχίσουν να συμμετέχουν. Αν έχετε χρόνο, σκεφτείτε να τους καθοδηγήσετε κατά την πρώτη τους συνεισφορά ή βρείτε κάποιον άλλον στην κοινότητά σας που θα μπορούσε να είναι πρόθυμος να τους καθοδηγήσει.
 
-## Leverage your community
+## Αξιοποιήστε την κοινότητά σας
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+Δεν χρειάζεται να κάνετε τα πάντα μόνοι σας. Η κοινότητα του έργου σας υπάρχει για κάποιο λόγο! Ακόμα και αν δεν έχετε ακόμα μια ενεργή κοινότητα συνεισφερόντων, αν έχετε πολλούς χρήστες, βάλτε τους να δουλέψουν.
 
-### Share the workload
+### Μοιραστείτε το φόρτο εργασίας
 
-If you're looking for others to pitch in, start by asking around.
+Αν ψάχνετε για άλλους να συνεισφέρουν, ξεκινήστε ρωτώντας γύρω σας.
 
-One way to gain new contributors is to explicitly [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing their visibility.
+Ένας τρόπος για να κερδίσετε νέους συνεισφέροντες είναι να επισημάνετε ρητά [θέματα που είναι αρκετά απλά για να τα αντιμετωπίσουν οι αρχάριοι](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). Στη συνέχεια, το GitHub θα εμφανίσει αυτά τα ζητήματα σε διάφορα σημεία της πλατφόρμας, αυξάνοντας την προβολή τους.
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+Όταν βλέπετε νέους συνεισφέροντες να κάνουν επαναλαμβανόμενες συνεισφορές, αναγνωρίστε το έργο τους προσφέροντας περισσότερες ευθύνες. Τεκμηριώστε τον τρόπο με τον οποίο οι άλλοι μπορούν να εξελιχθούν σε ηγετικούς ρόλους αν το επιθυμούν.
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+Το να ενθαρρύνετε τους άλλους να [μοιράζονται την ιδιοκτησία του έργου](../building-community/#share-ownership-of-your-project) μπορεί να μειώσει σημαντικά τον δικό σας φόρτο εργασίας, όπως ανακάλυψε η @lmccart στο έργο της, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  Έλεγα, "Ναι, ο καθένας μπορεί να συμμετάσχει, δεν χρειάζεται να έχεις μεγάλη εμπειρία στον προγραμματισμό [...]". Είχαμε ανθρώπους που δήλωναν συμμετοχή [σε μια εκδήλωση] και τότε ήταν που πραγματικά αναρωτήθηκα: είναι αλήθεια αυτό που έλεγα; Θα εμφανιστούν 40 άτομα και δεν είναι ότι μπορώ να καθίσω με τον καθένα τους... Αλλά οι άνθρωποι συγκεντρώθηκαν και κατά κάποιο τρόπο λειτούργησε. Μόλις ένα άτομο το καταλάβαινε, μπορούσε να διδάξει τον διπλανό του.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+Αν χρειαστεί να αποχωρήσετε από το έργο σας, είτε για διακοπή είτε μόνιμα, δεν είναι ντροπή να ζητήσετε από κάποιον άλλον να αναλάβει τη θέση σας.
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+Αν άλλοι άνθρωποι είναι ενθουσιασμένοι με την κατεύθυνσή του, δώστε τους δεσμευτική πρόσβαση ή παραδώστε επίσημα τον έλεγχο σε κάποιον άλλον. Αν κάποιος έχει διακλαδίσει το έργο σας (fork) και το συντηρεί ενεργά αλλού, σκεφτείτε το ενδεχόμενο να παραπέμψετε στη διακλάδωση από το αρχικό σας έργο. Είναι σπουδαίο που τόσοι πολλοί άνθρωποι θέλουν να συνεχίσει το έργο σας να ζει!
 
-@progrium [found that](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+Ο @progrium [διαπίστωσε ότι](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) καταγράφοντας το όραμα για το έργο του, [Dokku](https://github.com/dokku/dokku), βοήθησε αυτούς τους στόχους να συνεχίσουν να ζουν ακόμα και μετά την αποχώρησή του από το έργο:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> Έγραψα μια σελίδα wiki που περιέγραφε τι ήθελα και γιατί το ήθελα. Για κάποιο λόγο με εξέπληξε το γεγονός ότι οι συντηρητές άρχισαν να κινούν το πρότζεκτ προς αυτή την κατεύθυνση! Συνέβη ακριβώς όπως θα το έκανα εγώ; Όχι πάντα. Αλλά και πάλι έφερε το έργο πιο κοντά σε αυτό που έγραψα.
 
-### Let others build the solutions they need
+### Αφήστε τους άλλους να φτιάξουν τις λύσεις που χρειάζονται
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+Αν ένας πιθανός συνεισφέροντας έχει διαφορετική άποψη για το τι πρέπει να κάνει το έργο σας, ίσως θελήσετε να τον ενθαρρύνετε απαλά να δουλέψει στο δικό του fork.
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+Η διακλάδωση ενός έργου δεν χρειάζεται να είναι κάτι κακό. Η δυνατότητα αντιγραφής και τροποποίησης έργων είναι ένα από τα καλύτερα πράγματα στον ανοικτό κώδικα. Το να ενθαρρύνετε τα μέλη της κοινότητάς σας να εργαστούν στη δική τους διακλάδωση μπορεί να τους προσφέρει τη δημιουργική διέξοδο που χρειάζονται, χωρίς να έρχεται σε σύγκρουση με το όραμα του έργου σας.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+  Εξυπηρετώ το 80% των περιπτώσεων χρήσης. Αν είστε ένας από τους μονόκερους, παρακαλείσθε να κάνετε fork τη δουλειά μου. Δεν θα προσβληθώ! Τα δημόσια πρότζεκτ μου προορίζονται σχεδόν πάντα για την επίλυση των πιο συνηθισμένων προβλημάτων- προσπαθώ να διευκολύνω την εμβάθυνση, είτε με το να κάνω fork το πρότζεκτ μου είτε με το να το επεκτείνω.
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+- @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+Το ίδιο ισχύει και για έναν χρήστη που θέλει πραγματικά μια λύση την οποία απλά δεν έχετε το εύρος ζώνης για να κατασκευάσετε. Η προσφορά APIs και customization hooks μπορεί να βοηθήσει τους άλλους να ικανοποιήσουν τις δικές τους ανάγκες, χωρίς να χρειάζεται να τροποποιήσουν άμεσα τον πηγαίο κώδικα. Ο @orta [διαπίστωσε ότι](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) η ενθάρρυνση των plugins για τα CocoaPods οδήγησε σε "μερικές από τις πιο ενδιαφέρουσες ιδέες":
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> Είναι σχεδόν αναπόφευκτο ότι μόλις ένα πρότζεκτ γίνει μεγάλο, οι συντηρητές πρέπει να γίνουν πολύ πιο συντηρητικοί σχετικά με το πώς εισάγουν νέο κώδικα. Γίνεστε καλοί στο να λέτε "όχι", αλλά πολλοί άνθρωποι έχουν νόμιμες ανάγκες. Οπότε, αντί γι' αυτό, καταλήγετε να μετατρέψετε το εργαλείο σας σε πλατφόρμα.
 
-## Bring in the robots
+## Φέρτε τα ρομπότ
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+Όπως ακριβώς υπάρχουν εργασίες στις οποίες μπορούν να σας βοηθήσουν άλλοι άνθρωποι, έτσι υπάρχουν και εργασίες που δεν θα έπρεπε ποτέ να κάνει κανένας άνθρωπος. Τα ρομπότ είναι οι φίλοι σας. Χρησιμοποιήστε τα για να κάνετε τη ζωή σας ως συντηρητής ευκολότερη.
 
-### Require tests and other checks to improve the quality of your code
+### Απαιτήστε δοκιμές και άλλους ελέγχους για να βελτιώσετε την ποιότητα του κώδικά σας
 
-One of the most important ways you can automate your project is by adding tests.
+Ένας από τους σημαντικότερους τρόπους με τους οποίους μπορείτε να αυτοματοποιήσετε το πρότζεκτ σας είναι η προσθήκη δοκιμών (tests).
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+Οι δοκιμές βοηθούν τους συνεισφέροντες να αισθάνονται σίγουροι ότι δεν θα χαλάσουν τίποτα. Επίσης, σας διευκολύνουν να αναθεωρείτε και να αποδέχεστε γρήγορα τις συνεισφορές. Όσο πιο ευέλικτοι είστε, τόσο πιο αφοσιωμένη μπορεί να είναι η κοινότητά σας.
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+Ορίστε αυτόματες δοκιμές που θα εκτελούνται σε όλες τις εισερχόμενες συνεισφορές και βεβαιωθείτε ότι οι δοκιμές σας μπορούν εύκολα να εκτελούνται τοπικά από τους συνεισφέροντες. Απαιτήστε ότι όλες οι συνεισφορές κώδικα περνούν τις δοκιμές σας πριν υποβληθούν. Θα βοηθήσετε στον καθορισμό ενός ελάχιστου προτύπου ποιότητας για όλες τις υποβολές. Οι [Απαιτούμενοι έλεγχοι κατάστασης](https://help.github.com/articles/about-required-status-checks/) στο GitHub μπορούν να βοηθήσουν να διασφαλιστεί ότι καμία αλλαγή δεν συγχωνεύεται χωρίς να έχουν περάσει οι δοκιμές σας.
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+Αν προσθέσετε δοκιμές, φροντίστε να εξηγήσετε πώς λειτουργούν στο αρχείο CONTRIBUTING.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  Πιστεύω ότι οι δοκιμές είναι απαραίτητες για όλο τον κώδικα που δουλεύουν οι άνθρωποι. Αν ο κώδικας ήταν πλήρως και απόλυτα σωστός, δεν θα χρειαζόταν αλλαγές - γράφουμε κώδικα μόνο όταν κάτι είναι λάθος, είτε αυτό σημαίνει ότι "Καταρρέει" είτε ότι "Του λείπει το τάδε χαρακτηριστικό". Και ανεξαρτήτως των αλλαγών που κάνετε, οι δοκιμές είναι απαραίτητες για να πιάνετε τυχόν παλινδρομήσεις που μπορεί να εισαγάγετε κατά λάθος.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+- @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Χρησιμοποιήστε εργαλεία για την αυτοματοποίηση βασικών εργασιών συντήρησης
 
-The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for them.
+Τα καλά νέα σχετικά με τη συντήρηση ενός δημοφιλούς πρότζεκτ είναι ότι άλλοι συντηρητές έχουν πιθανότατα αντιμετωπίσει παρόμοια ζητήματα και έχουν κατασκευάσει μια λύση για αυτά.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+Υπάρχει μια [ποικιλία διαθέσιμων εργαλείων](https://github.com/showcases/tools-for-open-source) που βοηθούν στην αυτοματοποίηση ορισμένων πτυχών των εργασιών συντήρησης. Μερικά παραδείγματα:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
+* Το [semantic-release](https://github.com/semantic-release/semantic-release) αυτοματοποιεί τις εκδόσεις σας
+* Το [mention-bot](https://github.com/facebook/mention-bot) αναφέρει πιθανούς αναθεωρητές (reviewers) για τα pull requests
+* Το [Danger](https://github.com/danger/danger) βοηθά στην αυτοματοποίηση της αναθεώρησης κώδικα (code review)
+* Το [no-response](https://github.com/probot/no-response) κλείνει θέματα στα οποία ο συγγραφέας δεν έχει απαντήσει σε ένα αίτημα για περισσότερες πληροφορίες
+* Το [dependabot-preview](https://github.com/marketplace/dependabot-preview) ελέγχει τα αρχεία εξαρτήσεων σας κάθε μέρα για ξεπερασμένες απαιτήσεις και ανοίγει μεμονωμένα pull requests για όποια βρει
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+Για αναφορές σφαλμάτων και άλλες κοινές συνεισφορές, το GitHub διαθέτει [Πρότυπα ζητημάτων και πρότυπα αιτημάτων](https://github.com/blog/2111-issue-and-pull-request-templates), τα οποία μπορείτε να δημιουργήσετε για να βελτιώσετε την επικοινωνία που λαμβάνετε. Ο @TalAter δημιούργησε έναν οδηγό [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) για να σας βοηθήσει να γράψετε τα πρότυπα των ζητημάτων και των PR σας.
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+Για να διαχειριστείτε τις ειδοποιήσεις ηλεκτρονικού ταχυδρομείου σας, μπορείτε να δημιουργήσετε [φίλτρα ηλεκτρονικού ταχυδρομείου](https://github.com/blog/2203-email-updates-about-your-own-activity) για να οργανώνετε με βάση την προτεραιότητα.
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+Αν θέλετε να προχωρήσετε λίγο περισσότερο, οι οδηγοί στυλ και οι λιντέρ μπορούν να τυποποιήσουν τις συνεισφορές στο πρότζεκτ και να τις κάνουν πιο εύκολες στην αναθεώρηση και στην αποδοχή τους.
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+Ωστόσο, αν τα πρότυπα σας είναι πολύ περίπλοκα, μπορεί να αυξήσουν τα εμπόδια στη συνεισφορά. Βεβαιωθείτε ότι προσθέτετε μόνο αρκετούς κανόνες για να κάνετε τη ζωή όλων πιο εύκολη.
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+Αν δεν είστε σίγουροι για το ποια εργαλεία να χρησιμοποιήσετε, κοιτάξτε τι κάνουν άλλα δημοφιλή πρότζεκτ, ειδικά αυτά που ανήκουν στο οικοσύστημά σας. Για παράδειγμα, πώς μοιάζει η διαδικασία συνεισφοράς για άλλες ενότητες του Node; Η χρήση παρόμοιων εργαλείων και προσεγγίσεων θα κάνει επίσης τη διαδικασία σας πιο οικεία στους συνεισφέροντες-στόχους σας.
 
 ## It's okay to hit pause
 
