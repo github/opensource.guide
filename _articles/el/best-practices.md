@@ -10,104 +10,104 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## Τι σημαίνει να είσαι συντηρητής;
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Αν συντηρείτε ένα έργο ανοιχτού κώδικα που χρησιμοποιείται από πολλούς ανθρώπους, μπορεί να έχετε παρατηρήσει ότι προγραμματίζετε λιγότερο και απαντάτε περισσότερο σε ερωτήματα.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+Στα αρχικά στάδια ενός πρότζεκτ, πειραματίζεστε με νέες ιδέες και παίρνετε αποφάσεις με βάση το τι θέλετε. Καθώς το έργο σας αυξάνει τη φήμη του, θα βρεθείτε να συνεργάζεστε περισσότερο με τους χρήστες και τους συνεισφορείς σας.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Η συντήρηση ενός έργου απαιτεί κάτι περισσότερο από κώδικα. Αυτές οι εργασίες είναι συχνά απροσδόκητες, αλλά είναι εξίσου σημαντικές για ένα αναπτυσσόμενο πρότζεκτ. Συγκεντρώσαμε μερικούς τρόπους για να κάνετε τη ζωή σας ευκολότερη, από την τεκμηρίωση των διαδικασιών μέχρι την αξιοποίηση της κοινότητάς σας.
 
-## Documenting your processes
+## Τεκμηριώνοντας τις διαδικασίες σας
 
-Writing things down is one of the most important things you can do as a maintainer.
+Η καταγραφή των πραγμάτων είναι ένα από τα πιο σημαντικά πράγματα που μπορείτε να κάνετε ως συντηρητής.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Η τεκμηρίωση του πρότζεκτ όχι μόνο αποσαφηνίζει τη δική σας σκέψη, αλλά βοηθάει και τους άλλους να καταλάβουν τι χρειάζεστε ή τι περιμένετε, πριν καν ρωτήσουν.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Η καταγραφή των πραγμάτων καθιστά ευκολότερο να λέτε όχι όταν κάτι δεν ταιριάζει στο πεδίο εφαρμογής σας. Επίσης, διευκολύνει τους άλλους να συνεισφέρουν και να βοηθήσουν. Ποτέ δεν ξέρετε ποιος μπορεί να διαβάσει ή να χρησιμοποιήσει το έργο σας.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Ακόμα και αν δεν χρησιμοποιείτε ολόκληρες παραγράφους, το να σημειώνετε πράγματα με bullet points είναι καλύτερο από το να μην γράφετε τίποτα.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+Να θυμάστε να διατηρείτε την τεκμηρίωσή σας ενημερωμένη. Αν δεν μπορείτε να το κάνετε πάντα αυτό, διαγράψτε την ξεπερασμένη τεκμηρίωσή σας ή αναφέρετε ότι είναι ξεπερασμένη, ώστε οι συνεισφέροντες να γνωρίζουν ότι οι ενημερώσεις είναι ευπρόσδεκτες.
 
-### Write down your project's vision
+### Καταγράψτε το όραμα του πρότζεκτ σας
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Ξεκινήστε γράφοντας τους στόχους του έργου σας. Προσθέστε τους στο αρχείο README ή δημιουργήστε ένα ξεχωριστό αρχείο με το όνομα VISION. Αν υπάρχουν άλλα αντικείμενα που θα μπορούσαν να βοηθήσουν, όπως ένας χάρτης πορείας του έργου, δημοσιοποιήστε και αυτά.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Η ύπαρξη ενός σαφούς, τεκμηριωμένου οράματος σας κρατάει εστιασμένους και σας βοηθά να αποφύγετε τον "ερπυσμό του πεδίου εφαρμογής" από τις συνεισφορές των άλλων.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Για παράδειγμα, ο @lord διαπίστωσε ότι η ύπαρξη ενός οράματος έργου τον βοήθησε να καταλάβει σε ποια αιτήματα να αφιερώσει χρόνο. Ως νέος συντηρητής, μετάνιωσε που δεν τήρησε το πεδίο εφαρμογής του έργου του, όταν έλαβε το πρώτο του αίτημα για μία νέα λειτορυγία για το [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of a half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  Τα έκανα μαντάρα. Δεν κατέβαλα προσπάθεια για να βρω μια ολοκληρωμένη λύση. Αντί για μια μισή λύση, θα ήθελα να είχα πει "Δεν έχω χρόνο γι' αυτό τώρα, αλλά θα το προσθέσω στη μακροπρόθεσμη λίστα των καλών-αν-υπήρχαν πραγμάτων".
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### Επικοινωνήστε τις προσδοκίες σας
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Οι κανόνες μπορεί να είναι νευραλγικοί για να τους γράψετε. Μερικές φορές μπορεί να αισθάνεστε ότι αστυνομεύετε τη συμπεριφορά των άλλων ή ότι σκοτώνετε όλη τη διασκέδαση.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Γραμμένοι και επιβαλλόμενοι δίκαια, ωστόσο, οι καλοί κανόνες ενδυναμώνουν τους συντηρητές. Σας αποτρέπουν από το να σας παρασύρουν να κάνετε πράγματα που δεν θέλετε.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Οι περισσότεροι άνθρωποι που έρχονται σε επαφή με το πρότζεκτ σας δεν γνωρίζουν τίποτα για εσάς ή τις συνθήκες που επικρατούν. Μπορεί να υποθέσουν ότι πληρώνεστε για να εργάζεστε σε αυτό, ειδικά αν πρόκειται για κάτι που χρησιμοποιούν τακτικά και από το οποίο εξαρτώνται. Ίσως κάποια στιγμή αφιερώσατε πολύ χρόνο στο πρότζεκτ σας, αλλά τώρα είστε απασχολημένοι με μια νέα δουλειά ή ένα νέο μέλος της οικογένειας.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Όλα αυτά είναι απολύτως εντάξει! Απλώς βεβαιωθείτε ότι οι άλλοι άνθρωποι το γνωρίζουν.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Αν η συντήρηση του έργου σας γίνεται με μερική απασχόληση ή καθαρά εθελοντικά, να είστε ειλικρινείς σχετικά με το πόσο χρόνο διαθέτετε. Αυτό δεν είναι το ίδιο με το πόσο χρόνο νομίζετε ότι απαιτεί το έργο ή πόσο χρόνο θέλουν οι άλλοι να ξοδέψετε.
 
-Here are a few rules that are worth writing down:
+Ακολουθούν μερικοί κανόνες που αξίζει να καταγράψετε:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* Πώς μια συνεισφορά εξετάζεται και γίνεται αποδεκτή (_Χρειάζονται δοκιμές; Ένα πρότυπο θέματος;_)
+* Τα είδη των συνεισφορών που θα δεχτείτε (_Θέλετε βοήθεια μόνο για ένα συγκεκριμένο μέρος του κώδικά σας;_)
+* Πότε είναι σκόπιμο να δώσετε συνέχεια (_για παράδειγμα, "Μπορείτε να περιμένετε απάντηση από έναν συντηρητή εντός 7 ημερών. Αν δεν έχετε ακούσει τίποτα μέχρι τότε, μπορείτε να στείλετε μήνυμα στο νήμα."_)
+* Πόσο χρόνο αφιερώνετε στο έργο (_για παράδειγμα, "Ξοδεύουμε μόνο περίπου 5 ώρες την εβδομάδα σε αυτό το έργο"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+Το [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), και το [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) είναι κάποια παραδείγματα από πρότζεκτ με κανόνες για τους συντηρητές και τους συνεισφέροντες.
 
-### Keep communication public
+### Κρατήστε την επικοινωνία δημόσια
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Μην ξεχνάτε επίσης να τεκμηριώνετε τις αλληλεπιδράσεις σας. Όπου μπορείτε, κρατήστε την επικοινωνία σχετικά με το πρότζεκτ σας δημόσια. Αν κάποιος προσπαθήσει να επικοινωνήσει μαζί σας ιδιαιτέρως για να συζητήσει ένα αίτημα χαρακτηριστικών ή μια ανάγκη υποστήριξης, κατευθύνετε τον ευγενικά σε ένα δημόσιο κανάλι επικοινωνίας, όπως μια λίστα αλληλογραφίας ή έναν ανιχνευτή προβλημάτων.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Εάν συναντηθείτε με άλλους συντηρητές ή λάβετε μια σημαντική απόφαση ιδιωτικά, τεκμηριώστε αυτές τις συζητήσεις δημόσια, ακόμη και αν πρόκειται απλώς για την ανάρτηση των σημειώσεών σας.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Με αυτόν τον τρόπο, όποιος προσχωρεί στην κοινότητά σας θα έχει πρόσβαση στις ίδιες πληροφορίες με κάποιον που είναι εκεί για χρόνια.
 
-## Learning to say no
+## Μαθαίνοντας να λέτε όχι
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Έχετε καταγράψει τα πράγματα. Ιδανικά, όλοι θα διάβαζαν το έγγραφο τεκμηρίωσής σας, αλλά στην πραγματικότητα, θα πρέπει να υπενθυμίζετε στους άλλους ότι υπάρχει αυτή η γνώση.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Το να έχετε τα πάντα καταγεγραμμένα, ωστόσο, βοηθά στην αποπροσωποποίηση των καταστάσεων όταν χρειάζεται να επιβάλλετε τους κανόνες σας.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Το να λέτε όχι δεν έχει πλάκα, αλλά _"Η συνεισφορά σας δεν ταιριάζει με τα κριτήρια αυτού του έργου"_ μοιάζει λιγότερο προσωπικό από το _"Δεν μου αρέσει η συνεισφορά σας"_.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Το να λέτε όχι ισχύει σε πολλές περιπτώσεις που θα συναντήσετε ως συντηρητής: αιτήσεις για χαρακτηριστικά που δεν ταιριάζουν στο πεδίο εφαρμογής, κάποιος που εκτροχιάζει μια συζήτηση, που κάνει περιττή δουλειά για άλλους.
 
-### Keep the conversation friendly
+### Κρατήστε τη συζήτηση φιλική
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+Ένα από τα πιο σημαντικά μέρη που θα εξασκηθείτε στο να λέτε όχι είναι στην ουρά των ζητημάτων και των αιτημάτων (issues and pull requests). Ως συντηρητής έργου, αναπόφευκτα θα λάβετε προτάσεις που δεν θέλετε να δεχτείτε.
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+Ίσως η συνεισφορά να αλλάζει το πεδίο εφαρμογής του έργου σας ή να μην ταιριάζει με το όραμά σας. Ίσως η ιδέα είναι καλή, αλλά η υλοποίηση είναι φτωχή.
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+Ανεξάρτητα από τον λόγο, είναι δυνατόν να χειριστείτε με διακριτικότητα τις συνεισφορές που δεν ανταποκρίνονται στα πρότυπα του έργου σας.
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+Αν λάβετε μια συνεισφορά που δεν θέλετε να αποδεχτείτε, η πρώτη σας αντίδραση μπορεί να είναι να την αγνοήσετε ή να προσποιηθείτε ότι δεν την είδατε. Κάτι τέτοιο θα μπορούσε να πληγώσει τα αισθήματα του άλλου ατόμου και να αποθαρρύνει ακόμη και άλλους πιθανούς συνεισφέροντες στην κοινότητά σας.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handling support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+  Το κλειδί για τον χειρισμό της υποστήριξης πρότζεκτ ανοιχτού κώδικα μεγάλης κλίμακας είναι η συνεχής λύση των θεμάτων. Προσπαθήστε να αποφύγετε την καθυστέρηση των θεμάτων. Αν είστε προγραμματιστής iOS ξέρετε πόσο απογοητευτικό μπορεί να είναι να υποβάλλετε radars. Μπορεί να λάβετε απάντηση 2 χρόνια αργότερα και να σας πουν να προσπαθήσετε ξανά με την τελευταία έκδοση του iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+Μην αφήνετε μια ανεπιθύμητη συνεισφορά ανοιχτή επειδή αισθάνεστε ένοχοι ή επειδή θέλετε να είστε ευγενικοί. Με την πάροδο του χρόνου, τα αναπάντητα ζητήματα και αιτήματα θα κάνουν την εργασία στο έργο σας να μοιάζει πολύ πιο αγχωτική και εκφοβιστική.
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Είναι προτιμότερο να κλείνετε αμέσως τις συνεισφορές που ξέρετε ότι δεν θέλετε να δεχτείτε. Αν το έργο σας πάσχει ήδη από ένα μεγάλο ανεκτέλεστο, ο @steveklabnik έχει προτάσεις για το [πώς να ταξινομείτε αποτελεσματικά τα θέματα](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+Δεύτερον, η αγνόηση συνεισφορών στέλνει ένα αρνητικό μήνυμα στην κοινότητά σας. Η συνεισφορά σε ένα έργο μπορεί να είναι εκφοβιστική, ειδικά αν είναι η πρώτη φορά που κάποιος συνεισφέρει. Ακόμα και αν δεν αποδεχτείτε τη συνεισφορά του, αναγνωρίστε το άτομο που βρίσκεται πίσω από αυτή και ευχαριστήστε το για το ενδιαφέρον του. Είναι ένα μεγάλο κομπλιμέντο!
 
 If you don't want to accept a contribution:
 
