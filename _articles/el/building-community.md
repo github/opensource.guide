@@ -103,103 +103,103 @@ related:
 
 Αξιοσημείωτες εξαιρέσεις στη δημόσια επικοινωνία είναι: 1) θέματα ασφάλειας και 2) ευαίσθητες παραβιάσεις του κώδικα συμπεριφοράς. Θα πρέπει πάντα να έχετε έναν τρόπο για τους ανθρώπους να αναφέρουν αυτά τα ζητήματα ιδιωτικά. Αν δεν θέλετε να χρησιμοποιείτε το προσωπικό σας email, δημιουργήστε μια ειδική διεύθυνση email.
 
-## Growing your community
+## Μεγαλώνοντας την κοινότητά σας
 
-Communities are extremely powerful. That power can be a blessing or a curse, depending on how you wield it. As your project's community grows, there are ways to help it become a force of construction, not destruction.
+Οι κοινότητες είναι εξαιρετικά ισχυρές. Αυτή η δύναμη μπορεί να είναι ευλογία ή κατάρα, ανάλογα με τον τρόπο που την ασκείτε. Καθώς η κοινότητα του πρότζεκτ σας μεγαλώνει, υπάρχουν τρόποι να τη βοηθήσετε να γίνει μια δύναμη οικοδόμησης και όχι καταστροφής.
 
-### Don't tolerate bad actors
+### Μην ανέχεστε τους κακούς φορείς
 
-Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
+Κάθε δημοφιλές πρότζεκτ θα προσελκύσει αναπόφευκτα ανθρώπους που βλάπτουν, αντί να βοηθούν, την κοινότητά σας. Μπορεί να ξεκινήσουν περιττές συζητήσεις, να τσακωθούν για ασήμαντα χαρακτηριστικά ή να εκφοβίσουν άλλους.
 
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
+Κάντε ό,τι μπορείτε για να υιοθετήσετε μια πολιτική μηδενικής ανοχής απέναντι σε αυτούς τους τύπους ανθρώπων. Αν δεν ελεγχθούν, οι αρνητικοί άνθρωποι θα κάνουν τους άλλους ανθρώπους της κοινότητάς σας να νιώθουν άβολα. Μπορεί ακόμη και να φύγουν.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
+  Η αλήθεια είναι ότι η ύπαρξη μιας υποστηρικτικής κοινότητας είναι το κλειδί. Δεν θα μπορούσα ποτέ να κάνω αυτή τη δουλειά χωρίς τη βοήθεια των συναδέλφων μου, των φιλικών αγνώστων στο διαδίκτυο και των φλύαρων καναλιών IRC. (...) Μην συμβιβάζεστε με λιγότερα. Μην συμβιβάζεστε με μαλάκες.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+- @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
+Οι τακτικές συζητήσεις για ασήμαντες πτυχές του πρότζεκτ σας αποσπούν την προσοχή των άλλων, συμπεριλαμβανομένου και εσάς, από το να επικεντρωθούν σε σημαντικά καθήκοντα. Τα νέα άτομα που φτάνουν στο πρότζεκτ σας μπορεί να δουν αυτές τις συζητήσεις και να μην θέλουν να συμμετάσχουν.
 
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to [ask them to leave](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) can be a constructive guide for these conversations.
+Όταν βλέπετε αρνητική συμπεριφορά να συμβαίνει στο πρότζεκτ σας, φωνάξτε την δημόσια. Εξηγήστε, με ευγενικό αλλά αυστηρό τόνο, γιατί η συμπεριφορά τους δεν είναι αποδεκτή. Αν το πρόβλημα επιμένει, ίσως χρειαστεί να [τους ζητήσετε να φύγουν](../code-of-conduct/#enforcing-your-code-of-conduct). Ο [κώδικας δεοντολογίας](../code-of-conduct/) μπορεί να αποτελέσει εποικοδομητικό οδηγό για αυτές τις συζητήσεις.
 
-### Meet contributors where they're at
+### Συναντήστε τους συνεισφέροντες εκεί που βρίσκονται
 
-Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
+Η καλή τεκμηρίωση γίνεται όλο και πιο σημαντική καθώς η κοινότητά σας μεγαλώνει. Οι περιστασιακοί συνεισφέροντες, οι οποίοι μπορεί διαφορετικά να μην είναι εξοικειωμένοι με το πρότζεκτ σας, διαβάζουν την τεκμηρίωσή σας για να αποκτήσουν γρήγορα το πλαίσιο που χρειάζονται.
 
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. [Django](https://github.com/django/django), for example, has a special landing page to welcome new contributors.
+Στο αρχείο σας CONTRIBUTING, πείτε ρητά στους νέους συνεισφέροντες πώς να ξεκινήσουν. Ίσως μάλιστα να θέλετε να φτιάξετε μια ειδική ενότητα για το σκοπό αυτό. Το [Django](https://github.com/django/django), για παράδειγμα, έχει μια ειδική σελίδα για να καλωσορίζει τους νέους συνεισφέροντες.
 
 ![Django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
-In your issue queue, label bugs that are suitable for different types of contributors: for example, [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentation"_. [These labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) make it easy for someone new to your project to quickly scan your issues and get started.
+Στην ουρά θεμάτων σας, επισημάνετε σφάλματα που είναι κατάλληλα για διαφορετικούς τύπους συνεισφερόντων: για παράδειγμα, [_"μόνο για πρωτοεμφανιζόμενους"_](https://kentcdodds.com/blog/first-timers-only), _"καλό πρώτο θέμα"_, ή _"τεκμηρίωση"_. [Αυτές οι ετικέτες](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) διευκολύνουν κάποιον νέο στο πρότζεκτ σας να σαρώσει γρήγορα τα θέματά σας και να ξεκινήσει.
 
-Finally, use your documentation to make people feel welcome at every step of the way.
+Τέλος, χρησιμοποιήστε την τεκμηρίωσή σας για να κάνετε τους ανθρώπους να αισθάνονται ευπρόσδεκτοι σε κάθε βήμα της διαδικασίας.
 
-You will never interact with most people who land on your project. There may be contributions you didn't receive because somebody felt intimidated or didn't know where to get started. Even a few kind words can keep someone from leaving your project in frustration.
+Δεν θα αλληλεπιδράσετε ποτέ με τους περισσότερους ανθρώπους που θα βρεθούν στο πρότζεκτ σας. Μπορεί να υπάρξουν συνεισφορές που δεν λάβατε επειδή κάποιος ένιωσε εκφοβισμένος ή δεν ήξερε από πού να ξεκινήσει. Ακόμη και μερικά καλά λόγια μπορούν να αποτρέψουν κάποιον από το να εγκαταλείψει το πρότζεκτ σας απογοητευμένος.
 
-For example, here's how [Rubinius](https://github.com/rubinius/rubinius/) starts [its contributing guide](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
+Για παράδειγμα, να πώς ξεκινάει ο [Rubinius](https://github.com/rubinius/rubinius/) τον [οδηγό συνεισφοράς του](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
-> We want to start off by saying thank you for using Rubinius. This project is a labor of love, and we appreciate all of the users that catch bugs, make performance improvements, and help with documentation. Every contribution is meaningful, so thank you for participating. That being said, here are a few guidelines that we ask you to follow so we can successfully address your issue.
+> Θέλουμε να ξεκινήσουμε λέγοντας σας ευχαριστούμε που χρησιμοποιείτε το Rubinius. Αυτό το πρότζεκτ είναι έργο αγάπης και εκτιμούμε όλους τους χρήστες που εντοπίζουν σφάλματα, κάνουν βελτιώσεις στην απόδοση και βοηθούν με την τεκμηρίωση. Κάθε συνεισφορά έχει νόημα, γι' αυτό σας ευχαριστούμε για τη συμμετοχή σας. Τούτου λεχθέντος, παραθέτουμε μερικές οδηγίες που σας ζητάμε να ακολουθήσετε ώστε να μπορέσουμε να αντιμετωπίσουμε με επιτυχία το πρόβλημά σας.
 
-### Share ownership of your project
+### Μοιραστείτε την ιδιοκτησία του πρότζεκτ σας
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
+  Οι ηγέτες σας θα έχουν διαφορετικές απόψεις, όπως πρέπει να έχουν όλες οι υγιείς κοινότητες! Ωστόσο, πρέπει να λάβετε μέτρα για να διασφαλίσετε ότι η πιο δυνατή φωνή δεν κερδίζει πάντα, κουράζοντας τους ανθρώπους, και ότι ακούγονται οι λιγότερο εξέχουσες και μειονοτικές φωνές.
   <p markdown="1" class="pquote-credit">
-— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+- @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
-People are excited to contribute to projects when they feel a sense of ownership. That doesn't mean you need to turn over your project's vision or accept contributions you don't want. But the more you give credit to others, the more they'll stick around.
+Οι άνθρωποι είναι ενθουσιασμένοι να συνεισφέρουν σε πρότζεκτς όταν αισθάνονται την αίσθηση της ιδιοκτησίας. Αυτό δεν σημαίνει ότι πρέπει να παραδώσετε το όραμα του πρότζεκτ σας ή να δεχτείτε συνεισφορές που δεν θέλετε. Αλλά όσο περισσότερο δίνετε τα εύσημα στους άλλους, τόσο περισσότερο θα παραμείνουν στο πρότζεκτ.
 
-See if you can find ways to share ownership with your community as much as possible. Here are some ideas:
+Δείτε αν μπορείτε να βρείτε τρόπους να μοιράζεστε την ιδιοκτησία με την κοινότητά σας όσο το δυνατόν περισσότερο. Ακολουθούν μερικές ιδέες:
 
-* **Resist fixing easy (non-critical) bugs.** Instead, use them as opportunities to recruit new contributors, or mentor someone who'd like to contribute. It may seem unnatural at first, but your investment will pay off over time. For example, @michaeljoseph asked a contributor to submit a pull request on a [Cookiecutter](https://github.com/audreyr/cookiecutter) issue below, rather than fix it himself.
+* **Αποφύγετε την επιδιόρθωση εύκολων (μη κρίσιμων) σφαλμάτων.** Αντ' αυτού, χρησιμοποιήστε τα ως ευκαιρίες για να προσλάβετε νέους συνεισφέροντες ή να καθοδηγήσετε κάποιον που θα ήθελε να συνεισφέρει. Μπορεί να φαίνεται αφύσικο στην αρχή, αλλά η επένδυσή σας θα αποδώσει με την πάροδο του χρόνου. Για παράδειγμα, ο @michaeljoseph ζήτησε από έναν συνεργάτη να υποβάλει ένα pull request για ένα πρόβλημα [Cookiecutter](https://github.com/audreyr/cookiecutter) παρακάτω, αντί να το διορθώσει ο ίδιος.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Start a CONTRIBUTORS or AUTHORS file in your project** that lists everyone who's contributed to your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) does.
+* **Ξεκινήστε ένα αρχείο CONTRIBUTORS ή AUTHORS στο πρότζκετ σας** το οποίο θα απαριθμεί όλους όσους έχουν συνεισφέρει στο πρότζεκτ σας, όπως κάνει το [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* If you've got a sizable community, **send out a newsletter or write a blog post** thanking contributors. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) are two good examples.
+* Αν έχετε μια σημαντική κοινότητα, **αποστείλετε ένα ενημερωτικό δελτίο ή γράψτε μια δημοσίευση στο ιστολόγιο** ευχαριστώντας τους συνεισφέροντες. Το [This Week in Rust](https://this-week-in-rust.org/) του Rust και το [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) του Hoodie είναι δύο καλά παραδείγματα.
 
-* **Give every contributor commit access.** @felixge found that this made people [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), and he even found new maintainers for projects that he hadn't worked on in awhile.
+* **Δώστε σε κάθε συνεισφέροντα πρόσβαση για commit.** Ο @felixge διαπίστωσε ότι αυτό έκανε τους ανθρώπους [πιο ενθουσιασμένους να γυαλίζουν τις διορθώσεις τους](https://felixge.de/2013/03/11/the-pull-request-hack.html), και βρήκε ακόμα και νέους συντηρητές για πρότζεκτ στα οποία δεν είχε δουλέψει για λίγο καιρό.
 
-* If your project is on GitHub, **move your project from your personal account to an [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
+* Αν το πρότζεκτ σας είναι στο GitHub, **μεταφέρετε το πρότζκετ σας από τον προσωπικό σας λογαριασμό σε έναν [Οργανισμό](https://help.github.com/articles/creating-a-new-organization-account/)** και προσθέστε τουλάχιστον έναν εφεδρικό διαχειριστή. Οι οργανισμοί διευκολύνουν την εργασία σε πρότζεκτς με εξωτερικούς συνεργάτες.
 
-The reality is that [most projects only have](https://peerj.com/preprints/1233/) one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
+Η πραγματικότητα είναι ότι [τα περισσότερα πρότζεκτς έχουν μόνο](https://peerj.com/preprints/1233/) έναν ή δύο συντηρητές που κάνουν την περισσότερη δουλειά. Όσο μεγαλύτερο είναι το πρότζεκτ σας και όσο μεγαλύτερη είναι η κοινότητά σας, τόσο πιο εύκολο είναι να βρείτε βοήθεια.
 
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+Παρόλο που μπορεί να μην βρίσκετε πάντα κάποιον να ανταποκριθεί στο κάλεσμα, το να στέλνετε ένα σήμα εκεί έξω αυξάνει τις πιθανότητες να βοηθήσουν και άλλοι άνθρωποι. Και όσο νωρίτερα ξεκινήσετε, τόσο νωρίτερα μπορούν να βοηθήσουν οι άνθρωποι.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
+  \[Είναι προς το συμφέρον σας\] να προσλάβετε συνεργάτες που απολαμβάνουν και είναι ικανοί να κάνουν τα πράγματα που εσείς δεν κάνετε. Σας αρέσει να προγραμματίζετε, αλλά όχι να απαντάτε σε θέματα; Τότε εντοπίστε εκείνα τα άτομα στην κοινότητά σας που το κάνουν και αφήστε τα να το κάνουν.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+- @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
-## Resolving conflicts
+## Επίλυση συγκρούσεων
 
-In the early stages of your project, making major decisions is easy. When you want to do something, you just do it.
+Στα αρχικά στάδια του πρότζεκτ σας, η λήψη σημαντικών αποφάσεων είναι εύκολη. Όταν θέλετε να κάνετε κάτι, απλά το κάνετε.
 
-As your project becomes more popular, more people will take interest in the decisions you make. Even if you don't have a big community of contributors, if your project has a lot of users, you'll find people weighing in on decisions or raising issues of their own.
+Καθώς το πρότζεκτ σας γίνεται πιο δημοφιλές, περισσότεροι άνθρωποι θα ενδιαφέρονται για τις αποφάσεις που παίρνετε. Ακόμα και αν δεν έχετε μια μεγάλη κοινότητα συνεισφερόντων, αν το πρότζεκτ σας έχει πολλούς χρήστες, θα βρείτε ανθρώπους να συμμετέχουν στις αποφάσεις ή να θέτουν τα δικά τους ζητήματα.
 
-For the most part, if you've cultivated a friendly, respectful community and documented your processes openly, your community should be able to find resolution. But sometimes you run into an issue that's a bit harder to address.
+Ως επί το πλείστον, αν έχετε καλλιεργήσει μια φιλική κοινότητα με σεβασμό και έχετε τεκμηριώσει ανοιχτά τις διαδικασίες σας, η κοινότητά σας θα μπορέσει να βρει λύση. Αλλά μερικές φορές συναντάτε ένα ζήτημα που είναι λίγο πιο δύσκολο να αντιμετωπιστεί.
 
-### Set the bar for kindness
+### Ορίστε τον πήχη της ευγένειας
 
-When your community is grappling with a difficult issue, tempers may rise. People may become angry or frustrated and take it out on one another, or on you.
+Όταν η κοινότητά σας παλεύει με ένα δύσκολο ζήτημα, τα πνεύματα μπορεί να ανέβουν. Οι άνθρωποι μπορεί να θυμώσουν ή να απογοητευτούν και να ξεσπάσουν ο ένας στον άλλον ή σε εσάς.
 
-Your job as a maintainer is to keep these situations from escalating. Even if you have a strong opinion on the topic, try to take the position of a moderator or facilitator, rather than jumping into the fight and pushing your views. If someone is being unkind or monopolizing the conversation, [act immediately](../building-community/#dont-tolerate-bad-actors) to keep discussions civil and productive.
+Η δουλειά σας ως συντηρητής είναι να αποτρέψετε την κλιμάκωση αυτών των καταστάσεων. Ακόμα και αν έχετε ισχυρή άποψη για το θέμα, προσπαθήστε να πάρετε τη θέση του συντονιστή ή του διευκολυντή, αντί να μπείτε στη μάχη και να προωθήσετε τις απόψεις σας. Αν κάποιος είναι αγενής ή μονοπωλεί τη συζήτηση, [δράστε αμέσως](../building-community/#μην-ανέχεστε-τους-κακούς-φορείς) για να διατηρήσετε τις συζητήσεις πολιτισμένες και παραγωγικές.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
+  Ως συντηρητής ενός πρότζεκτ, είναι εξαιρετικά σημαντικό να σέβεστε τους συνεργάτες σας. Συχνά παίρνουν πολύ προσωπικά αυτά που λέτε.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
+- @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
