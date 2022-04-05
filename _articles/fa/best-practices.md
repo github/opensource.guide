@@ -169,7 +169,7 @@ related:
 
 وقتی مشاهده کردید که مشارکت‌کنندگان جدید به صورت مکرر همکاری می‌کنند، با دادن مسئولیت‌های بیشتر، آن‌ها را تصدیق کنید و به رسمیت بشناسید. مشخص کنید که چگونه دیگران می‌توانند در صورت اشتیاق به جایگاه‌های رهبری دست یابند.
 
-همانطور که @lmccart در پروژه‌ی خود متوجه شد، تشویق دیگران [به اشتراک گذاشتن مالکیت پروژه](../building-community/#share-ownership-of-your-project) می‌تواند حجم کاری شما را بسیار کاهش دهد[p5.js](https://github.com/processing/p5.js).
+همانطور که @lmccart در پروژه‌ی خود متوجه شد، تشویق دیگران [به اشتراک گذاشتن مالکیت پروژه](../building-community/#مالکیت-پروژه-تان-را-به-اشتراک-بگذارید) می‌تواند حجم کاری شما را بسیار کاهش دهد[p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
