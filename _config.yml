@@ -17,12 +17,12 @@ exclude:
   - test
   - vendor
 
-permalink: "/:slug"
+permalink: "/:path/"
 
 collections:
   articles:
     output: true
-    permalink: "/:path"
+    permalink: "/:path/"
 
 defaults:
   - scope:
