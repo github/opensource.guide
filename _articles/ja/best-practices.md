@@ -66,7 +66,7 @@ related:
 * どのくらいの時間をプロジェクトに使えるか（ _例えば、「我々はこのプロジェクトに週5時間しか使いません。」_ ）
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs) や [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) 、 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) は、メンテナーとコントリビューターのための基本ルールを定めたプロジェクトの良い例です。
- 
+
 ### コミュニケーションを公開しよう
 
 あなたのやり取りをドキュメント化することも忘れないようにしましょう。可能な限りどこでも、プロジェクトについてのコミュニケーションを公開しましょう。機能要望やサポートリクエストについてプライベートにコンタクトしてくる人がいたら、彼らをメーリングリストやイシュートラッカーのようなパブリックなコミュニケーションチャネルに丁寧に誘導しましょう。
@@ -261,7 +261,7 @@ related:
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   WP-CLI をメンテナンスする中で、まずは自分自身を幸せにし、自分がどこまで関わるかの境界を明確にすることが必要であると気づきました。私が見つけた最も良いバランスは、私の通常の仕事時間の中で週に2 ~ 5時間を充てるというものです。このバランスで、私はプロジェクトに熱心に関わることができ、かつ仕事のようだと感じることもありません。取り掛かるイシューの優先順位付けをしているので、最も重要だと思うことで定期的に進捗を出すことができるのです。
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
