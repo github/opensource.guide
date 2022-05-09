@@ -40,7 +40,7 @@ Tempatkan dokumen CODE_OF_CONDUCT pada induk direktori proyek Anda, dan hubungka
 <aside markdown="1" class="pquote">
   Kode etik yang tidak (bisa) diterapkan jauh lebih jelek dibandingkan tanpa kode etik sama sekali: hal ini mengirimkan pesan bahwa nilai dari kode etik tidaklah penting atau dihargai pada komunitas Anda.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

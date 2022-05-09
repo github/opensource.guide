@@ -169,7 +169,7 @@ Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mérték
 
 * Ha a projekted a GitHub-on van, **akkor mozgasd a projektet át a személyes fiókod alól a [Szervezeti Fiók](https://help.github.com/articles/creating-a-new-organization-account/)** alá és adj hozzá legalább egy admint még biztonság esetére. Az Szervezeti Fiók alkalmasabb külső résztvevők bevonására.
 
-A valóságban [a legtöbb projektnek](https://peerj.com/preprints/1233.pdf) csak egy, két karbantartója van. Minél nagyobb a projekted, és a közösséged, annál könnyebb segítséget találni.
+A valóságban [a legtöbb projektnek](https://peerj.com/preprints/1233/) csak egy, két karbantartója van. Minél nagyobb a projekted, és a közösséged, annál könnyebb segítséget találni.
 
 Bár nem mindig válaszolnak a felhívásodra, de egy jelzés kiküldése növeli az esélyét, hogy valaki reagál majd rá. És minél előbb megteszed ezt, annál hamarabb segíthetnek az emberek.
 

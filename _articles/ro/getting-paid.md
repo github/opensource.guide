@@ -3,11 +3,6 @@ lang: ro
 title: Cum să fii plătit pentru muncă open source
 description: Susține-ți munca în open source obținând sprijin financiar pentru timpul sau proiectul tău.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "De ce unii oameni caută sprijin financiar"
-  funding-your-own-time: "Finanțarea propriului tău timp"
-  finding-funding-for-your-project: "Găsirea de finanțare pentru proiectul tău"
-  building-a-case-for-financial-support: "Construirea unui caz pentru sprijin financiar"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:

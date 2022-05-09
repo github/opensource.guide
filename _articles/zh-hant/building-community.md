@@ -170,7 +170,7 @@ redirect_from: /zh-tw/building-community/
 
 * 如果專案是放在 GitHub 上，那麼 **將專案從你們的個人賬號轉移到一個[組織](https://help.github.com/articles/collaborating-with-groups-in-organizations/)**，加入至少一個備份管理員。組織能讓社群與來自外界的貢獻，彼此協作的工作變得更加容易。
 
-事實上很多專案[只有一個或者兩個維護者](https://peerj.com/preprints/1233.pdf)去做大部分的工作。隨著社群變得越來越大，就會有更多的人參與進來。
+事實上很多專案[只有一個或者兩個維護者](https://peerj.com/preprints/1233/)去做大部分的工作。隨著社群變得越來越大，就會有更多的人參與進來。
 
 雖然並不是一直都有人在回答問題，但是你可以去試著增加一些機會，讓他人有能夠參與的機會，越是儘早開始，越是能夠獲得幫助。
 

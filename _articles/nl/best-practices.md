@@ -3,13 +3,6 @@ lang: nl
 title: Tips voor een open source-beheerder
 description: Uw leven gemakkelijker maken als open source-beheerder, van het documenteren van processen tot het benutten van uw gemeenschap.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: "Wat betekent het om een open source-onderhouder te zijn?"
-  documenting-your-processes: "Documenteren van uw processen"
-  learning-to-say-no: "Nee leren zeggen"
-  leverage-your-community: "Maak gebruik van uw community"
-  bring-in-the-robots: "Breng de robots"
-  its-okay-to-hit-pause: "Het is oké om op pauze te drukken"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -48,7 +41,7 @@ Door een duidelijke, gedocumenteerde visie te hebben, blijft u gefocust en kunt 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
 Ik heb het gerommeld. Ik heb niet de moeite genomen om met een complete oplossing te komen. In plaats van een halfslachtige oplossing, zou ik willen dat ik had gezegd: "Ik heb hier momenteel geen tijd voor, maar ik zal het toevoegen aan de lange termijn lijst met leuke dingen."
-  
+
 _I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."_
 
   <p markdown="1" class="pquote-credit">
@@ -61,7 +54,7 @@ _I fumbled it. I didn't put in the effort to come up with a complete solution. I
 Regels kunnen zenuwslopend zijn om op te schrijven. Soms heb je misschien het gevoel dat je het gedrag van andere mensen controleert of al het plezier wegneemt.
 
 Eerlijk geschreven en gehandhaafd, maar goede regels geven open soruce-onderhouders meer mogelijkheden. Ze voorkomen dat u wordt meegesleurd in dingen die u niet wilt doen.
- 
+
 De meeste mensen die uw project tegenkomen, weten niets over u of uw omstandigheden. Ze gaan er misschien van uit dat je wordt betaald om eraan te werken, vooral als het iets is dat ze regelmatig gebruiken en waarvan ze afhankelijk zijn. Misschien heb je op een gegeven moment veel tijd in je project gestoken, maar ben je nu bezig met een nieuwe baan of familielid.
 
 Dit is allemaal in orde! Zorg ervoor dat andere mensen ervan op de hoogte zijn.
@@ -84,7 +77,7 @@ Vergeet ook niet uw interacties te documenteren. Houd de communicatie over uw pr
 Als u andere beheerders ontmoet, of een belangrijke beslissing neemt in privé, documenteer deze gesprekken dan in het openbaar, zelfs als u alleen maar uw aantekeningen plaatst.
 
 Op die manier heeft iedereen die lid wordt van uw community toegang tot dezelfde informatie als iemand die er al jaren is.
- 
+
 ## Nee leren zeggen
 
 Je hebt dingen opgeschreven. Idealiter zou iedereen uw documentatie lezen, maar in werkelijkheid moet u anderen eraan herinneren dat deze kennis bestaat.
@@ -108,8 +101,9 @@ Als u een bijdrage ontvangt die u niet wilt accepteren, is uw eerste reactie mis
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   De sleutel tot het afhandelen van ondersteuning voor grootschalige open source-projecten is om problemen in beweging te houden. Probeer te voorkomen dat problemen vastlopen. Als je een iOS-ontwikkelaar bent, weet je hoe frustrerend het kan zijn om radars in te dienen. Mogelijk hoort u 2 jaar later terug en wordt u verteld het opnieuw te proberen met de nieuwste versie van iOS.
-  
+
   _The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS._
+
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
@@ -120,7 +114,7 @@ Laat geen ongewenste bijdrage openstaan omdat je een schuldgevoel hebt of aardig
 Het is beter om de bijdragen waarvan u weet dat u ze niet wilt accepteren, onmiddellijk af te sluiten. Als uw project al een grote achterstand heeft, heeft @steveklabnik suggesties voor [hoe u problemen efficiënt kunt sorteren](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
 Ten tweede is het negeren van bijdragen een negatief signaal naar uw gemeenschap. Bijdragen aan een project kan intimiderend zijn, vooral als het iemands eerste keer is. Zelfs als u hun bijdrage niet accepteert, erken de persoon erachter en bedank hem voor zijn interesse. Het is een groot compliment!
- 
+
 Als u een bijdrage niet wil accepteren:
 
 * **Bedank ze** voor hun bijdrage
@@ -156,8 +150,9 @@ Hoewel deze aanpak in het begin misschien onaardig aanvoelt, is proactief zijn e
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Leg ze idealiter en in een CONTRIBUTING.md-bestand uit hoe ze in de toekomst een betere indicatie kunnen krijgen van wat wel of niet geaccepteerd zou worden voordat ze met het werk beginnen.
-  
+
   _Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work._
+
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
@@ -188,7 +183,7 @@ Anderen aanmoedigen om [aandeelhouderschap van het project](../building-communit
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Ik had gezegd: "Ja, iedereen kan erbij betrokken zijn, je hoeft niet veel codeerkennis te hebben [...]." Er waren mensen die zich hadden aangemeld om [naar een evenement] te komen en toen vroeg ik me echt af: is dit waar, wat ik heb gezegd? Er zullen 40 mensen komen opdagen, en het is niet alsof ik bij elk van hen kan zitten... Maar mensen kwamen samen, en het werkte gewoon. Zodra een persoon het kreeg, konden ze het hun buurman leren.
-  
+
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["Wat betekent "open source"? P5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
@@ -211,8 +206,9 @@ Een project forceren hoeft geen slechte zaak te zijn. Projecten kunnen kopiëren
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   Ik speel in op de use case van 80%. Als je een van de eenhoorns bent, fork mijn werk dan alsjeblieft. Ik zal niet beledigd worden! Mijn openbare projecten zijn bijna altijd bedoeld om de meest voorkomende problemen op te lossen; Ik probeer het gemakkelijk te maken om dieper te gaan door mijn werk te forceren of uit te breiden.
-  
+
   _I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it._
+
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
@@ -239,8 +235,9 @@ Als u tests toevoegt, leg dan uit hoe ze werken in uw CONTRIBUTING-bestand.
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Ik geloof dat tests nodig zijn voor alle code waar mensen aan werken. Als de code volledig en perfect correct was, zou het geen wijzigingen nodig hebben - we schrijven alleen code als er iets mis is, of dat nu "Het crasht" of "Het mist zo-en-zo-functie". En ongeacht de wijzigingen die u aanbrengt, zijn tests essentieel om eventuele regressies op te sporen die u per ongeluk zou kunnen introduceren.
-  
+
   _I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce._
+
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's gemeenschapsautomatisering"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
@@ -250,7 +247,7 @@ Als u tests toevoegt, leg dan uit hoe ze werken in uw CONTRIBUTING-bestand.
 
 Het goede nieuws over het onderhouden van een populair project is dat andere beheerders waarschijnlijk met soortgelijke problemen te maken hebben gehad en er een oplossing voor hebben gebouwd.
 
-Er zijn een hoop [verschillende tools beschikbaar](https://github.com/showcases/tools-for-open-source) om te helpen om sommige aspecten te automatiseren. 
+Er zijn een hoop [verschillende tools beschikbaar](https://github.com/showcases/tools-for-open-source) om te helpen om sommige aspecten te automatiseren.
 
 Een paar voorbeelden:
 
@@ -285,10 +282,11 @@ Net als bij elk ander soort werk, zal het nemen van regelmatige pauzes je verfri
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Bij het onderhouden van WP-CLI heb ik ontdekt dat ik mezelf eerst gelukkig moet maken en duidelijke grenzen moet stellen aan mijn betrokkenheid. De beste balans die ik heb gevonden, is 2-5 uur per week, als onderdeel van mijn normale werkschema. Dit zorgt ervoor dat mijn betrokkenheid een passie blijft, en dat ik me niet te veel als werk voel. Omdat ik prioriteit geef aan de problemen waaraan ik werk, kan ik regelmatig vooruitgang boeken op wat ik denk dat het belangrijkst is.
-  
+
   _In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important._
+
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Mijn condoleances, u bent nu de onderhouder (_maintainer_) van een populair open source-project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Mijn condoleances, u bent nu de onderhouder (_maintainer_) van een populair open source-project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
