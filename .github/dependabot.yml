@@ -10,3 +10,10 @@ updates:
       separator: "-"
     open-pull-requests-limit: 99
     rebase-strategy: disabled
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule: 
+     interval: daily
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+  
