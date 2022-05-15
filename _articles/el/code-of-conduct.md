@@ -10,105 +10,105 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## Γιατί χρειάζομαι έναν κώδικα δεοντολογίας;
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Ο κώδικας δεοντολογίας είναι ένα έγγραφο που καθορίζει τις προσδοκίες συμπεριφοράς για τους συμμετέχοντες στο πρότζεκτ σας. Η υιοθέτηση και η επιβολή ενός κώδικα δεοντολογίας μπορεί να συμβάλει στη δημιουργία θετικής κοινωνικής ατμόσφαιρας για την κοινότητά σας.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Οι κώδικες δεοντολογίας βοηθούν στην προστασία όχι μόνο των συμμετεχόντων σας, αλλά και εσάς τους ίδιους. Εάν συντηρείτε ένα πρότζεκτ, μπορεί να διαπιστώσετε ότι οι μη παραγωγικές συμπεριφορές των άλλων συμμετεχόντων μπορεί να σας κάνουν να νιώθετε εξαντλημένοι ή δυσαρεστημένοι με την εργασία σας με την πάροδο του χρόνου.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Ένας κώδικας δεοντολογίας σας δίνει τη δυνατότητα να διευκολύνετε την υγιή, εποικοδομητική συμπεριφορά της κοινότητας. Το να είστε προληπτικοί μειώνει την πιθανότητα να κουραστείτε εσείς ή άλλοι από το πρότζεκτ σας και σας βοηθά να αναλάβετε δράση όταν κάποιος κάνει κάτι με το οποίο δεν συμφωνείτε.
 
-## Establishing a code of conduct
+## Καθιέρωση ενός κώδικα συμπεριφοράς
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Προσπαθήστε να καθιερώσετε έναν κώδικα συμπεριφοράς όσο το δυνατόν νωρίτερα: ιδανικά, όταν δημιουργείτε για πρώτη φορά το πρότζεκτ σας.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+Εκτός από την κοινοποίηση των προσδοκιών σας, ένας κώδικας δεοντολογίας περιγράφει τα εξής:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Πού τίθεται σε ισχύ ο κώδικας συμπεριφοράς _(μόνο σε θέματα και αιτήσεις διανομής ή σε δραστηριότητες της κοινότητας, όπως εκδηλώσεις;)_
+* Σε ποιους ισχύει ο κώδικας συμπεριφοράς _(μέλη της κοινότητας και συντηρητές, αλλά τι γίνεται με τους χορηγούς;)_
+* Τι συμβαίνει αν κάποιος παραβιάσει τον κώδικα συμπεριφοράς
+* Πώς μπορεί κάποιος να αναφέρει παραβιάσεις
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Όπου μπορείτε, χρησιμοποιήστε την προϋπάρχουσα τέχνη. Το [Contributor Covenant] (https://contributor-covenant.org/) είναι ένας drop-in κώδικας συμπεριφοράς που χρησιμοποιείται από πάνω από 40.000 έργα ανοικτού κώδικα, συμπεριλαμβανομένων των Kubernetes, Rails και Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) are also two good code of conduct examples.
+Ο [Django Code of Conduct](https://www.djangoproject.com/conduct/) και ο [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) είναι επίσης δύο καλά παραδείγματα κώδικα συμπεριφοράς.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+Τοποθετήστε ένα αρχείο CODE_OF_CONDUCT στο ριζικό κατάλογο του πρότζεκτ σας και κάντε το ορατό στην κοινότητά σας, συνδέοντάς το από το αρχείο CONTRIBUTING ή README.
 
-## Deciding how you'll enforce your code of conduct
+## Αποφασίζοντας πώς θα επιβάλλετε τον κώδικα συμπεριφοράς σας
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  Ένας κώδικας συμπεριφοράς που δεν επιβάλλεται (ή δεν μπορεί να επιβληθεί) είναι χειρότερος από το να μην υπάρχει καθόλου κώδικας συμπεριφοράς: στέλνει το μήνυμα ότι οι αξίες του κώδικα συμπεριφοράς δεν είναι στην πραγματικότητα σημαντικές ή σεβαστές στην κοινότητά σας.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+- [Πρωτοβουλία Ada](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Θα πρέπει να εξηγήσετε πώς θα επιβληθεί ο κώδικας συμπεριφοράς σας **_πριν_** συμβεί μια παραβίαση. Υπάρχουν διάφοροι λόγοι για να το κάνετε αυτό:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* Δείχνει ότι είστε σοβαροί στο να αναλάβετε δράση όταν χρειάζεται.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Η κοινότητά σας θα αισθάνεται πιο καθησυχαστική ότι οι καταγγελίες πράγματι εξετάζονται.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Θα καθησυχάσετε την κοινότητά σας ότι η διαδικασία επανεξέτασης είναι δίκαιη και διαφανής, σε περίπτωση που ποτέ βρεθούν υπό διερεύνηση για παραβίαση.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Θα πρέπει να δώσετε στους ανθρώπους έναν ιδιωτικό τρόπο (όπως μια διεύθυνση ηλεκτρονικού ταχυδρομείου) για να αναφέρουν μια παραβίαση του κώδικα δεοντολογίας και να εξηγήσετε ποιος λαμβάνει αυτή την αναφορά. Θα μπορούσε να είναι ένας συντηρητής, μια ομάδα συντηρητών ή μια ομάδα εργασίας κώδικα δεοντολογίας.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Μην ξεχνάτε ότι κάποιος μπορεί να θέλει να αναφέρει μια παραβίαση για ένα άτομο που λαμβάνει αυτές τις αναφορές. Σε αυτή την περίπτωση, δώστε τους τη δυνατότητα να αναφέρουν τις παραβιάσεις σε κάποιον άλλο. Για παράδειγμα, οι @ctb και @mr-c [εξηγούν για το πρότζεκτ τους](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Περιπτώσεις καταχρηστικής, παρενοχλητικής ή άλλως απαράδεκτης συμπεριφοράς μπορούν να αναφερθούν στέλνοντας email στο **khmer-project@idyll.org**, το οποίο απευθύνεται μόνο στους C. Titus Brown και Michael R. Crusoe. Για να αναφέρετε ένα θέμα που αφορά κάποιον από τους δύο, στείλτε email στον **Judi Brown Clarke, Ph.D.**, τον διευθυντή ποικιλομορφίας στο Κέντρο BEACON για τη μελέτη της εξέλιξης στην πράξη, ένα Κέντρο Επιστήμης και Τεχνολογίας του NSF*.
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+Για έμπνευση, δείτε το [εγχειρίδιο επιβολής](https://www.djangoproject.com/conduct/enforcement-manual/) του Django (αν και μπορεί να μην χρειάζεστε κάτι τόσο περιεκτικό, ανάλογα με το μέγεθος του πρότζεκτ σας).
 
-## Enforcing your code of conduct
+## Επιβολή του κώδικα συμπεριφοράς σας
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Μερικές φορές, παρά τις προσπάθειές σας, κάποιος θα κάνει κάτι που παραβιάζει αυτόν τον κώδικα. Υπάρχουν διάφοροι τρόποι για να αντιμετωπίσετε την αρνητική ή επιβλαβή συμπεριφορά όταν αυτή προκύψει.
 
-### Gather information about the situation
+### Συγκεντρώστε πληροφορίες σχετικά με την κατάσταση
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Αντιμετωπίστε τη φωνή κάθε μέλους της κοινότητας εξίσου σημαντική με τη δική σας. Αν λάβετε μια αναφορά ότι κάποιος παραβίασε τον κώδικα συμπεριφοράς, πάρτε την στα σοβαρά και ερευνήστε το θέμα, ακόμη και αν δεν ταιριάζει με τη δική σας εμπειρία με το συγκεκριμένο άτομο. Με τον τρόπο αυτό σηματοδοτείτε στην κοινότητά σας ότι εκτιμάτε την άποψή της και εμπιστεύεστε την κρίση της.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+Το εν λόγω μέλος της κοινότητας μπορεί να είναι ένας επαναλαμβανόμενος παραβάτης που κάνει τους άλλους να αισθάνονται συνεχώς άβολα, ή μπορεί να έχει πει ή κάνει κάτι μόνο μία φορά. Και τα δύο μπορούν να αποτελέσουν λόγο για τη λήψη μέτρων, ανάλογα με το πλαίσιο.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Πριν απαντήσετε, δώστε χρόνο στον εαυτό σας να καταλάβει τι συνέβη. Διαβάστε τα προηγούμενα σχόλια και συζητήσεις του ατόμου για να καταλάβετε καλύτερα ποιος είναι και γιατί μπορεί να ενήργησε με αυτόν τον τρόπο. Προσπαθήστε να συγκεντρώσετε άλλες οπτικές γωνίες εκτός από τις δικές σας σχετικά με αυτό το άτομο και τη συμπεριφορά του.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  Μην παρασύρεστε σε μια διαφωνία. Μην παρασυρθείτε στο να ασχοληθείτε με τη συμπεριφορά κάποιου άλλου πριν τελειώσετε με το θέμα που σας απασχολεί. Επικεντρωθείτε σε αυτό που χρειάζεστε.
   <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+- Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### Αναλάβετε την κατάλληλη δράση
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+Αφού συγκεντρώσετε και επεξεργαστείτε επαρκείς πληροφορίες, θα πρέπει να αποφασίσετε τι πρέπει να κάνετε. Καθώς εξετάζετε τα επόμενα βήματά σας, να θυμάστε ότι στόχος σας ως συντονιστής είναι να προωθήσετε ένα ασφαλές, με σεβασμό και συνεργασία περιβάλλον. Σκεφτείτε όχι μόνο πώς να αντιμετωπίσετε την εν λόγω κατάσταση, αλλά και πώς η αντίδρασή σας θα επηρεάσει τη συμπεριφορά και τις προσδοκίες της υπόλοιπης κοινότητάς σας στο μέλλον.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Όταν κάποιος αναφέρει μια παραβίαση του κώδικα συμπεριφοράς, είναι δική σας δουλειά, όχι δική τους, να το χειριστείτε. Ορισμένες φορές, ο καταγγέλλων αποκαλύπτει πληροφορίες με μεγάλο κίνδυνο για την καριέρα του, τη φήμη του ή τη σωματική του ακεραιότητα. Ο εξαναγκασμός τους να αντιμετωπίσουν τον παρενοχλητή τους θα μπορούσε να θέσει τον αναφέροντα σε επικίνδυνη θέση. Θα πρέπει να χειρίζεστε την άμεση επικοινωνία με το εν λόγω πρόσωπο, εκτός εάν ο δημοσιογράφος ζητήσει ρητά το αντίθετο.
 
-There are a few ways you might respond to a code of conduct violation:
+Υπάρχουν μερικοί τρόποι με τους οποίους μπορείτε να αντιδράσετε σε μια παραβίαση του κώδικα δεοντολογίας:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Δώστε στο εν λόγω άτομο μια δημόσια προειδοποίηση** και εξηγήστε πώς η συμπεριφορά του επηρέασε αρνητικά τους άλλους, κατά προτίμηση στο κανάλι όπου συνέβη. Όπου είναι δυνατόν, η δημόσια επικοινωνία μεταφέρει στην υπόλοιπη κοινότητα ότι παίρνετε σοβαρά τον κώδικα συμπεριφοράς. Να είστε ευγενικοί, αλλά αυστηροί στην επικοινωνία σας.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Επικοινωνήστε ιδιωτικά με το εν λόγω άτομο** για να εξηγήσετε πώς η συμπεριφορά του επηρέασε αρνητικά τους άλλους. Μπορεί να θέλετε να χρησιμοποιήσετε ένα ιδιωτικό κανάλι επικοινωνίας, εάν η κατάσταση αφορά ευαίσθητες προσωπικές πληροφορίες. Εάν επικοινωνήσετε με κάποιον ιδιαιτέρως, καλό θα ήταν να ενημερώσετε όσους ανέφεραν πρώτοι την κατάσταση, ώστε να γνωρίζουν ότι αναλάβατε δράση. Ζητήστε τη συγκατάθεση του ατόμου που έκανε την αναφορά πριν τον κάνετε CC.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Μερικές φορές, δεν μπορεί να επιτευχθεί λύση. Το εν λόγω άτομο μπορεί να γίνει επιθετικό ή εχθρικό όταν έρθει αντιμέτωπο ή δεν αλλάζει τη συμπεριφορά του. Σε αυτή την περίπτωση, μπορεί να θέλετε να εξετάσετε το ενδεχόμενο να αναλάβετε ισχυρότερη δράση. Για παράδειγμα:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Αποβολή του εν λόγω ατόμου** από το πρότζεκτ, με προσωρινή απαγόρευση συμμετοχής σε οποιαδήποτε πτυχή του πρότζεκτ.
 
-* **Permanently ban** the person from the project
+* **Μόνιμος αποκλεισμός** του ατόμου από το πρότζεκτ
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+Ο αποκλεισμός μελών δεν πρέπει να λαμβάνεται ελαφρά τη καρδία και αντιπροσωπεύει μια μόνιμη και αγεφύρωτη διαφορά απόψεων. Θα πρέπει να λαμβάνετε αυτά τα μέτρα μόνο όταν είναι σαφές ότι δεν μπορεί να επιτευχθεί λύση.
 
-## Your responsibilities as a maintainer
+## Οι ευθύνες σας ως συντηρητής
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+Ένας κώδικας συμπεριφοράς δεν είναι ένας νόμος που επιβάλλεται αυθαίρετα. Εσείς είστε ο εφαρμοστής του κώδικα δεοντολογίας και είναι δική σας ευθύνη να ακολουθείτε τους κανόνες που θεσπίζει ο κώδικας δεοντολογίας.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+Ως συντηρητής θεσπίζετε τις κατευθυντήριες γραμμές για την κοινότητά σας και επιβάλλετε αυτές τις κατευθυντήριες γραμμές σύμφωνα με τους κανόνες που ορίζονται στον κώδικα συμπεριφοράς σας. Αυτό σημαίνει ότι λαμβάνετε σοβαρά υπόψη κάθε αναφορά για παραβίαση του κώδικα συμπεριφοράς. Ο καταγγέλλων οφείλει να εξετάσει διεξοδικά και δίκαια την καταγγελία του. Εάν διαπιστώσετε ότι η συμπεριφορά που ανέφεραν δεν αποτελεί παραβίαση, επικοινωνήστε το με σαφήνεια σε αυτούς και εξηγήστε τους γιατί δεν πρόκειται να λάβετε μέτρα γι' αυτό. Το τι θα κάνουν με αυτό εξαρτάται από αυτούς: να ανεχθούν τη συμπεριφορά με την οποία είχαν πρόβλημα ή να σταματήσουν να συμμετέχουν στην κοινότητα.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+Μια αναφορά συμπεριφοράς που _τεχνικά_ δεν παραβιάζει τον κώδικα συμπεριφοράς μπορεί να υποδεικνύει ότι υπάρχει πρόβλημα στην κοινότητά σας, και θα πρέπει να διερευνήσετε αυτό το πιθανό πρόβλημα και να ενεργήσετε αναλόγως. Αυτό μπορεί να περιλαμβάνει την αναθεώρηση του κώδικα συμπεριφοράς σας για να αποσαφηνίσετε την αποδεκτή συμπεριφορά ή/και να μιλήσετε με το άτομο του οποίου η συμπεριφορά αναφέρθηκε και να του πείτε ότι, ενώ δεν παραβίασε τον κώδικα συμπεριφοράς, παρακάμπτει τα όρια του αναμενόμενου και κάνει ορισμένους συμμετέχοντες να αισθάνονται άβολα.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+Τελικά, ως συντηρητής, εσείς θέτετε και επιβάλλετε τα πρότυπα αποδεκτής συμπεριφοράς. Έχετε τη δυνατότητα να διαμορφώσετε τις αξίες της κοινότητας του πρότζεκτ και οι συμμετέχοντες περιμένουν από εσάς να επιβάλλετε αυτές τις αξίες με δίκαιο και ισορροπημένο τρόπο.
 
-## Encourage the behavior you want to see in the world 🌎
+## Ενθαρρύνετε τη συμπεριφορά που θέλετε να δείτε στον κόσμο 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Όταν ένα πρότζεκτ φαίνεται εχθρικό ή μη φιλόξενο, ακόμη και αν πρόκειται για ένα μόνο άτομο του οποίου η συμπεριφορά είναι ανεκτή από τους άλλους, κινδυνεύετε να χάσετε πολλούς ακόμη συνεισφέροντες, μερικούς από τους οποίους μπορεί να μην συναντήσετε ποτέ. Δεν είναι πάντα εύκολο να υιοθετήσετε ή να επιβάλλετε έναν κώδικα συμπεριφοράς, αλλά η καλλιέργεια ενός φιλόξενου περιβάλλοντος θα βοηθήσει την κοινότητά σας να αναπτυχθεί.
