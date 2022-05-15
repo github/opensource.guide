@@ -1,7 +1,7 @@
 ---
 lang: el
 title: Λαμβάνοντας Αμοιβή για Συνεισφορά Ανοιχτού Κώδικα
-description: Διατηρήστε το έργο σας στον ανοιχτό κώδικα λαμβάνοντας οικονομική υποστήριξη για τον χρόνο σας ή το πρότζεκτ σας.
+description: Διατηρήστε το πρότζεκτ σας στον ανοιχτό κώδικα λαμβάνοντας οικονομική υποστήριξη για τον χρόνο σας ή το πρότζεκτ σας.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -10,178 +10,178 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## Γιατί κάποιοι άνθρωποι ζητούν οικονομική στήριξη
 
-Much of the work of open source is voluntary. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Μεγάλο μέρος του πρότζεκτ του ανοικτού κώδικα είναι εθελοντικό. Για παράδειγμα, κάποιος μπορεί να συναντήσει ένα σφάλμα σε ένα πρότζεκτ που χρησιμοποιεί και να υποβάλει μια γρήγορη διόρθωση, ή μπορεί να του αρέσει να ασχολείται με ένα πρότζεκτ ανοιχτού κώδικα στον ελεύθερο χρόνο του.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Έψαχνα για ένα "χόμπι" προγραμματισμού που θα με απασχολούσε κατά τη διάρκεια της εβδομάδας γύρω από τα Χριστούγεννα. (...) Είχα έναν υπολογιστή στο σπίτι και όχι πολλά άλλα πράγματα στα χέρια μου. Αποφάσισα να γράψω έναν διερμηνέα για τη νέα γλώσσα σεναρίων που σκεφτόμουν τελευταία. (...) Επέλεξα την Python ως τίτλο εργασίας.
   <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
+- @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Υπάρχουν πολλοί λόγοι για τους οποίους ένα άτομο δεν θα ήθελε να πληρωθεί για την εργασία του στον ανοικτό κώδικα.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Μπορεί να έχουν ήδη μια δουλειά πλήρους απασχόλησης που αγαπούν,** η οποία τους επιτρέπει να συνεισφέρουν στον ανοιχτό κώδικα στον ελεύθερο χρόνο τους.
+* **Απολαμβάνουν να σκέφτονται τον ανοιχτό κώδικα ως χόμπι** ή ως δημιουργική απόδραση και δεν θέλουν να αισθάνονται οικονομικά υποχρεωμένοι να εργάζονται στα έργα τους.
+* **Αποκομίζουν άλλα οφέλη από τη συνεισφορά τους στον ανοικτό κώδικα,** όπως η δημιουργία της φήμης τους ή του χαρτοφυλακίου τους, η εκμάθηση μιας νέας δεξιότητας ή το αίσθημα ότι βρίσκονται πιο κοντά σε μια κοινότητα.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  Οι οικονομικές δωρεές προσθέτουν ένα αίσθημα ευθύνης, για κάποιους. (...) Είναι σημαντικό για εμάς, στον παγκοσμίως συνδεδεμένο, γρήγορο κόσμο που ζούμε, να μπορούμε να πούμε "όχι τώρα, έχω όρεξη να κάνω κάτι εντελώς διαφορετικό".
   <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
+- @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+Για άλλους, ειδικά όταν οι συνεισφορές είναι συνεχείς ή απαιτούν σημαντικό χρόνο, το να πληρώνονται για να συνεισφέρουν στον ανοιχτό κώδικα είναι ο μόνος τρόπος που μπορούν να συμμετέχουν, είτε επειδή το απαιτεί το πρότζεκτ, είτε για προσωπικούς λόγους.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Η συντήρηση δημοφιλών έργων μπορεί να αποτελεί σημαντική ευθύνη, καταλαμβάνοντας 10 ή 20 ώρες την εβδομάδα αντί για λίγες ώρες το μήνα.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  Ρωτήστε οποιονδήποτε συντηρητή πρότζεκτ ανοιχτού κώδικα και θα σας πει για την πραγματικότητα του όγκου εργασίας που απαιτείται για τη διαχείριση ενός πρότζεκτ. Έχετε πελάτες. Διορθώνετε προβλήματα γι' αυτούς. Δημιουργείτε νέα χαρακτηριστικά. Αυτό γίνεται μια πραγματική απαίτηση για το χρόνο σας.
   <p markdown="1" class="pquote-credit">
-— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+- @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+Η αμειβόμενη εργασία δίνει επίσης τη δυνατότητα σε ανθρώπους από διαφορετικά κοινωνικά στρώματα να συνεισφέρουν ουσιαστικά. Ορισμένοι άνθρωποι δεν έχουν την οικονομική δυνατότητα να αφιερώσουν απλήρωτο χρόνο σε έργα ανοικτού κώδικα, με βάση την τρέχουσα οικονομική τους κατάσταση, τα χρέη τους ή τις οικογενειακές ή άλλες υποχρεώσεις φροντίδας. Αυτό σημαίνει ότι ο κόσμος δεν βλέπει ποτέ συνεισφορές από ταλαντούχους ανθρώπους που δεν έχουν την οικονομική δυνατότητα να προσφέρουν εθελοντικά τον χρόνο τους. Αυτό έχει ηθικές επιπτώσεις, όπως [έχει περιγράψει](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) ο @ashedryden, καθώς η εργασία που γίνεται μεροληπτεί υπέρ εκείνων που έχουν ήδη πλεονεκτήματα στη ζωή τους, οι οποίοι στη συνέχεια αποκτούν πρόσθετα πλεονεκτήματα με βάση τις εθελοντικές συνεισφορές τους, ενώ άλλοι που δεν είναι σε θέση να προσφέρουν εθελοντικά, τότε δεν παίρνουν αργότερα ευκαιρίες, γεγονός που ενισχύει την τρέχουσα έλλειψη ποικιλομορφίας στην κοινότητα ανοιχτού κώδικα.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   Ο OSS αποφέρει τεράστια οφέλη στην τεχνολογική βιομηχανία, τα οποία με τη σειρά τους σημαίνουν οφέλη για όλες τις βιομηχανίες. (...) Ωστόσο, αν οι μόνοι που μπορούν να εστιάσουν σε αυτό είναι οι τυχεροί και οι εμμονικοί, τότε υπάρχει ένα τεράστιο ανεκμετάλλευτο δυναμικό.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
+- @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Εάν αναζητάτε οικονομική στήριξη, υπάρχουν δύο τρόποι που μπορείτε να εξετάσετε. Μπορείτε να χρηματοδοτήσετε το χρόνο σας ως συνεργάτης, ή μπορείτε να βρείτε οργανωτική χρηματοδότηση για το πρότζεκτ.
 
-## Funding your own time
+## Χρηματοδότηση του χρόνου σας
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Σήμερα, πολλοί άνθρωποι αμείβονται για να εργάζονται με μερική ή πλήρη απασχόληση στον ανοικτό κώδικα. Ο πιο συνηθισμένος τρόπος για να πληρωθείτε για το χρόνο σας είναι να μιλήσετε με τον εργοδότη σας.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+Είναι πιο εύκολο να υποστηρίξετε την εργασία σε ανοιχτό κώδικα αν ο εργοδότης σας χρησιμοποιεί πραγματικά το πρότζεκτ, αλλά γίνετε δημιουργικοί με την προσφορά σας. Ίσως ο εργοδότης σας δεν χρησιμοποιεί το πρότζεκτ, αλλά χρησιμοποιεί την Python, και η διατήρηση ενός δημοφιλούς πρότζεκτ Python συμβάλλει στην προσέλκυση νέων προγραμματιστών Python. Ίσως αυτό κάνει τον εργοδότη σας να φαίνεται γενικά πιο φιλικός προς τους προγραμματιστές.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+  Όπως πολλοί στον τομέα του ανοιχτού κώδικα, πάλευα με το βάρος της συντήρησης ενός πρότζεκτ. Όταν πρωτοξεκίνησα να ασχολούμαι με τον ανοιχτό κώδικα, συνήθιζα να μένω μέχρι αργά για να δουλέψω πάνω σε αυτό ή αμέσως μόλις γύριζα σπίτι. (...) Μπόρεσα να συζητήσω με το αφεντικό μου τα ζητήματα που αντιμετώπιζα και σκεφτήκαμε ιδέες για το πώς θα μπορούσαμε να ενσωματώσουμε εργασίες ανοιχτού κώδικα, δεδομένης της δικής μας χρήσης της Babel.
   <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
+- @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
   </p>
 </aside>
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+Αν δεν έχετε κάποιο υπάρχον πρότζεκτ ανοικτού κώδικα στο οποίο θα θέλατε να εργαστείτε, αλλά θα προτιμούσατε να είναι ανοικτού κώδικα το τρέχον αποτέλεσμα της δουλειάς σας, κάντε μια πρόταση στον εργοδότη σας να ανοίξει κάποιο από τα εσωτερικά του λογισμικά.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+Πολλές εταιρείες αναπτύσσουν προγράμματα ανοικτού κώδικα για να χτίσουν το εμπορικό τους σήμα και να προσλάβουν ποιοτικά ταλέντα.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+Η @hueniverse, για παράδειγμα, διαπίστωσε ότι υπάρχουν οικονομικοί λόγοι που δικαιολογούν [την επένδυση της Walmart στον ανοικτό κώδικα](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Και ο @jamesgpearce διαπίστωσε ότι το πρόγραμμα ανοικτού κώδικα του Facebook [έκανε τη διαφορά](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) στην πρόσληψη προσωπικού:
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> Είναι στενά ευθυγραμμισμένο με την κουλτούρα μας ως χάκερ και με το πώς αντιλαμβανόταν ο οργανισμός μας. Ρωτήσαμε τους υπαλλήλους μας: "Γνωρίζατε το πρόγραμμα λογισμικού ανοικτού κώδικα στο Facebook;". Τα δύο τρίτα απάντησαν "Ναι". Οι μισοί δήλωσαν ότι το πρόγραμμα συνέβαλε θετικά στην απόφασή τους να εργαστούν σε εμάς. Αυτά δεν είναι οριακά νούμερα, και ελπίζω, μια τάση που συνεχίζεται.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+Εάν η εταιρεία σας ακολουθήσει αυτόν τον δρόμο, είναι σημαντικό να διατηρήσετε σαφή τα όρια μεταξύ της κοινοτικής και της εταιρικής δραστηριότητας. Τελικά, ο ανοιχτός κώδικας συντηρείται μέσω των συνεισφορών ανθρώπων από όλο τον κόσμο, και αυτό είναι μεγαλύτερο από οποιαδήποτε εταιρεία ή τοποθεσία.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  Το να πληρώνεσαι για να δουλεύεις πάνω στον ανοιχτό κώδικα είναι μια σπάνια και θαυμάσια ευκαιρία, αλλά δεν θα πρέπει να εγκαταλείψεις το πάθος σου στη διαδικασία. Το πάθος σας θα πρέπει να είναι ο λόγος για τον οποίο οι εταιρείες θέλουν να σας πληρώσουν.
   <p markdown="1" class="pquote-credit">
-— @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
+- @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+Αν δεν μπορείτε να πείσετε τον σημερινό σας εργοδότη να δώσει προτεραιότητα στην εργασία ανοιχτού κώδικα, σκεφτείτε να βρείτε έναν νέο εργοδότη που ενθαρρύνει τις συνεισφορές των εργαζομένων στον ανοιχτό κώδικα. Αναζητήστε εταιρείες που καθιστούν ρητή την αφοσίωσή τους στην εργασία ανοικτού κώδικα. Για παράδειγμα:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Zalando](https://opensource.zalando.com) published its [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) for employees
+* Ορισμένες εταιρείες, όπως η [Netflix](https://netflix.github.io/) ή η [PayPal](https://paypal.github.io/), διαθέτουν ιστότοπους που αναδεικνύουν τη συμμετοχή τους στον ανοικτό κώδικα.
+* Η [Zalando](https://opensource.zalando.com) δημοσίευσε την [πολιτική συνεισφοράς στον ανοικτό κώδικα](https://opensource.zalando.com/docs/using/contributing/) για τους υπαλλήλους της.
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+Έργα που ξεκίνησαν από μια μεγάλη εταιρεία, όπως το [Go](https://github.com/golang) ή το [React](https://github.com/facebook/react), είναι επίσης πιθανό να απασχολούν άτομα που εργάζονται στον ανοιχτό κώδικα.
 
-Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+Ανάλογα με τις προσωπικές σας συνθήκες, μπορείτε να προσπαθήσετε να μαζέψετε χρήματα ανεξάρτητα για να χρηματοδοτήσετε την εργασία σας στον ανοικτό κώδικα. Για παράδειγμα:
 
-* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* Το @Homebrew (και [πολλοί άλλοι συντηρητές και οργανισμοί](https://github.com/sponsors/community)) χρηματοδοτούν το πρότζεκτ τους μέσω του [GitHub Sponsors](https://github.com/sponsors)
+* Ο @gaearon χρηματοδότησε το πρότζεκτ του στο [Redux](https://github.com/reactjs/redux) μέσω μιας [Patreon crowdfunding campaign](https://redux.js.org/)
+* Ο @andrewgodwin χρηματοδότησε το πρότζεκτ του για τις μεταναστεύσεις σχημάτων Django [μέσω μιας καμπάνιας Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with.
+Τέλος, μερικές φορές τα έργα ανοικτού κώδικα προκηρύσσουν αμοιβές για θέματα που θα μπορούσατε να σκεφτείτε να βοηθήσετε.
 
-* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their JavaScript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+* Ο @ConnorChristie μπόρεσε να πληρωθεί για [βοήθεια](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) Η @MARKETProtocol εργάζεται στη βιβλιοθήκη JavaScript [μέσω μιας επικήρυξης στο gitcoin](https://gitcoin.co/).
+* Η @mamiM έκανε μεταφράσεις στα ιαπωνικά για την @MetaMask μετά την [χρηματοδότηση του θέματος στο Bounties Network](https://explorer.bounties.network/bounty/134).
 
-## Finding funding for your project
+## Εύρεση χρηματοδότησης για το πρότζεκτ σας
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Πέρα από τους διακανονισμούς για μεμονωμένους συνεισφέροντες, μερικές φορές τα έργα συγκεντρώνουν χρήματα από εταιρείες, ιδιώτες ή άλλους για τη χρηματοδότηση της τρέχουσας εργασίας.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing in new features or ideas.
+Η οργανωτική χρηματοδότηση μπορεί να προορίζεται για την πληρωμή των σημερινών συνεισφερόντων, την κάλυψη των εξόδων λειτουργίας του πρότζεκτ (όπως τα τέλη φιλοξενίας) ή την επένδυση σε νέα χαρακτηριστικά ή ιδέες.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+Καθώς η δημοτικότητα του ανοικτού κώδικα αυξάνεται, η εξεύρεση χρηματοδότησης για έργα είναι ακόμη πειραματική, αλλά υπάρχουν μερικές κοινές επιλογές.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### Συγκεντρώστε χρήματα για το πρότζεκτ σας μέσω εκστρατειών crowdfunding ή χορηγιών
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+Η εξεύρεση χορηγιών λειτουργεί καλά αν έχετε ήδη ένα ισχυρό κοινό ή φήμη ή αν το πρότζεκτ σας είναι πολύ δημοφιλές.
+Μερικά παραδείγματα έργων με χορηγίες περιλαμβάνουν:
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack)** συγκεντρώνει χρήματα από εταιρείες και ιδιώτες [μέσω του OpenCollective](https://opencollective.com/webpack)
+* **[Vue](https://github.com/vuejs/vue)** χρηματοδοτείται [μέσω του Patreon](https://github.com/open-source/stories/yyx990803)
+* **[Ruby Together](https://rubytogether.org/),** ένας μη κερδοσκοπικός οργανισμός που πληρώνει για εργασίες στα [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), και άλλα έργα υποδομής Ruby
 
-### Create a revenue stream
+### Δημιουργία μιας ροής εσόδων
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+Ανάλογα με το πρότζεκτ σας, μπορεί να είστε σε θέση να χρεώνετε για εμπορική υποστήριξη, επιλογές φιλοξενίας ή πρόσθετα χαρακτηριστικά. Μερικά παραδείγματα περιλαμβάνουν:
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Sidekiq](https://github.com/mperham/sidekiq)** προσφέρει εκδόσεις επί πληρωμή για πρόσθετη υποστήριξη
+* **[Travis CI](https://github.com/travis-ci)** προσφέρει εκδόσεις επί πληρωμή του προϊόντος του
+* **[Ghost](https://github.com/TryGhost/Ghost)** είναι ένα μη κερδοσκοπικό ίδρυμα με επί πληρωμή υπηρεσία διαχείρισης
 
-Some popular projects, like [npm](https://github.com/npm/cli) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+Ορισμένα δημοφιλή έργα, όπως το [npm](https://github.com/npm/cli) και το [Docker](https://github.com/docker/docker), συγκεντρώνουν ακόμη και επιχειρηματικά κεφάλαια για να υποστηρίξουν την επιχειρηματική τους ανάπτυξη.
 
-### Apply for grant funding
+### Υποβολή αίτησης για επιχορήγηση
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+Ορισμένα ιδρύματα λογισμικού και εταιρείες προσφέρουν επιχορηγήσεις για εργασίες ανοικτού κώδικα. Ορισμένες φορές, οι επιχορηγήσεις μπορούν να καταβληθούν σε ιδιώτες χωρίς τη δημιουργία νομικής οντότητας για το πρότζεκτ.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[Διαβάστε τα έγγραφα](https://github.com/rtfd/readthedocs.org)** έλαβε επιχορήγηση από την [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
+* **[OpenMRS](https://github.com/openmrs)** το πρότζεκτ χρηματοδοτήθηκε από το [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
+* **[Libraries.io](https://github.com/librariesio)** έλαβε επιχορήγηση από το [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* Το **[Python Software Foundation](https://www.python.org/psf/grants/)** προσφέρει επιχορηγήσεις για εργασίες που σχετίζονται με την Python.
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+Για πιο λεπτομερείς επιλογές και μελέτες περιπτώσεων, ο @nayafia [έγραψε έναν οδηγό](https://github.com/nayafia/lemonade-stand) για να πληρωθείτε για εργασία ανοιχτού κώδικα. Διαφορετικοί τύποι χρηματοδότησης απαιτούν διαφορετικές δεξιότητες, οπότε λάβετε υπόψη τα δυνατά σας σημεία για να βρείτε ποια επιλογή σας ταιριάζει καλύτερα.
 
-## Building a case for financial support
+## Χτίζοντας μια υπόθεση για οικονομική υποστήριξη
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Είτε το πρότζεκτ σας είναι μια νέα ιδέα, είτε υπάρχει εδώ και χρόνια, θα πρέπει να περιμένετε να βάλετε σημαντική σκέψη για να εντοπίσετε τον χρηματοδότη-στόχο σας και να παρουσιάσετε μια πειστική υπόθεση.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Είτε επιθυμείτε να πληρώσετε για τον δικό σας χρόνο, είτε να συγκεντρώσετε χρήματα για ένα πρότζεκτ, θα πρέπει να είστε σε θέση να απαντήσετε στις ακόλουθες ερωτήσεις.
 
-### Impact
+### Αντίκτυπος
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Γιατί είναι χρήσιμο αυτό το πρότζεκτ; Γιατί αρέσει τόσο πολύ στους χρήστες σας ή στους δυνητικούς χρήστες; Πού θα βρίσκεται σε πέντε χρόνια;
 
-### Traction
+### Έλξη
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Προσπαθήστε να συγκεντρώσετε αποδείξεις ότι το πρότζεκτ σας έχει σημασία, είτε πρόκειται για μετρήσεις, είτε για ανέκδοτα, είτε για μαρτυρίες. Υπάρχουν εταιρείες ή αξιόλογοι άνθρωποι που χρησιμοποιούν το πρότζεκτ σας αυτή τη στιγμή; Αν όχι, το έχει υποστηρίξει κάποιο εξέχον πρόσωπο;
 
-### Value to funder
+### Αξία για τον χρηματοδότη
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+Οι χρηματοδότες, είτε πρόκειται για τον εργοδότη σας είτε για ένα ίδρυμα που χορηγεί επιχορηγήσεις, προσεγγίζονται συχνά με ευκαιρίες. Γιατί θα πρέπει να υποστηρίξουν το πρότζεκτ σας έναντι οποιασδήποτε άλλης ευκαιρίας; Πώς ωφελούνται προσωπικά;
 
-### Use of funds
+### Χρήση των κονδυλίων
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Τι ακριβώς θα επιτύχετε με την προτεινόμενη χρηματοδότηση; Επικεντρωθείτε σε ορόσημα ή αποτελέσματα του πρότζεκτ και όχι στην καταβολή μισθού.
 
-### How you'll receive the funds
+### Πώς θα λάβετε τα κεφάλαια
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+Έχει ο χρηματοδότης οποιεσδήποτε απαιτήσεις σχετικά με την εκταμίευση; Για παράδειγμα, μπορεί να χρειαστεί να είστε μη κερδοσκοπικός οργανισμός ή να έχετε μη κερδοσκοπικό φορολογικό χορηγό. Ή ίσως τα κονδύλια πρέπει να δοθούν σε μεμονωμένο ανάδοχο και όχι σε οργανισμό. Οι απαιτήσεις αυτές διαφέρουν από χρηματοδότη σε χρηματοδότη, οπότε φροντίστε να κάνετε την έρευνά σας εκ των προτέρων.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  Εδώ και χρόνια, είμαστε η κορυφαία πηγή εικονιδίων φιλικών προς τον ιστότοπο, με μια κοινότητα άνω των 20 εκατομμυρίων ανθρώπων και έχουμε εμφανιστεί σε περισσότερους από 70 εκατομμύρια ιστότοπους, συμπεριλαμβανομένου του Whitehouse.gov. (...) Η έκδοση 4 ήταν πριν από τρία χρόνια. Η τεχνολογία του Web έχει αλλάξει πολύ από τότε και ειλικρινά, το Font Awesome έχει γίνει λίγο μπαγιάτικο. (...) Γι' αυτό παρουσιάζουμε τη Font Awesome 5. Εκσυγχρονίζουμε και ξαναγράφουμε το CSS και επανασχεδιάζουμε κάθε εικονίδιο από πάνω μέχρι κάτω. Μιλάμε για καλύτερο σχεδιασμό, καλύτερη συνοχή και καλύτερη αναγνωσιμότητα.
   <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+- @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Πειραματιστείτε και μην τα παρατάτε
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Η συγκέντρωση χρημάτων δεν είναι εύκολη υπόθεση, είτε πρόκειται για πρότζεκτ ανοιχτού κώδικα, είτε για μη κερδοσκοπικό οργανισμό, είτε για νεοσύστατη επιχείρηση λογισμικού, και στις περισσότερες περιπτώσεις απαιτεί να γίνετε δημιουργικοί. Το να προσδιορίσετε πώς θέλετε να πληρωθείτε, να κάνετε την έρευνά σας και να μπείτε στη θέση του χρηματοδότη σας θα σας βοηθήσει να δημιουργήσετε μια πειστική υπόθεση για χρηματοδότηση.
