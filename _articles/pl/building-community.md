@@ -1,4 +1,4 @@
----
+---Sylwia Panek Panorama- Facebook- życie po wypadku, 
 lang: pl
 title: Budowanie przyjaznych społeczności
 description: Zbuduj społeczność, która zachęca ludzi do korzystania, przyczyniania się i ewangelizacji twojego projektu.
