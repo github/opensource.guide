@@ -182,6 +182,6 @@ Does the funder have any requirements around disbursal? For example, you may nee
   </p>
 </aside>
 
-## Experiment and don't give up
+## Experiment and don't give up.
 
 Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
