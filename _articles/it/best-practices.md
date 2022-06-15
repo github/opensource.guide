@@ -1,7 +1,7 @@
 ---
 lang: es
-title: Buenas Pr&aacute;cticas para Mantenedores de C&oacute;digo.
-description: Haci&eacute;ndote la vida m&aacute;s f&aacute;cil como un mantenedor de c&oacute;digo abierto, desde el proceso de documentaci&oacute;n hasta sacar el m&aacute;ximo provecho de la comunidad.
+title: Buone pratiche per i manutentori del codice.
+description: Semplificandoti la vita come manutentore open source, dal processo di documentazione per ottenere il massimo dalla community.
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -10,11 +10,10 @@ related:
   - leadership
 ---
 
-## ¿Qu&eacute; significa ser un mantenedor de c&oacute;digo?
+## Cosa significa essere un manutentore del codice?
+Se il tuo compito &egrave; mantenere un progetto open source utilizzato da molte persone, probabilmente avrai notato che dedichi pi&ugrave; tempo a rispondere ai problemi di programmazione.
 
-Si tu trabajo es mantener un proyecto de c&oacute;digo abierto que mucha gente usa, probablemente te hayas percatado que pasas m&aacute;s tiempo respondiendo issues que programando.
-
-En etapas tempranas de un proyecto, pasas tiempo experimentando con ideas nuevas y tomando decisiones en base a lo que te gusta. A medida que tu proyecto crece en popularidad, te encontrar&aacute;s en una situaci&oacute;n en la que trabajar&aacute;s con tus usuarios y colaboradores cada vez m&aacute;s.
+Nelle prime fasi di un progetto, trascorri del tempo a sperimentare nuove idee e prendere decisioni in base a ci&ograve; che ti piace. Man mano che il tuo progetto cresce in popolarit&agrave;, ti ritroverai a lavorare sempre di pi&ugrave; con i tuoi utenti e collaboratori.
 
 Mantener un proyecto requiere m&aacute;s que solamente c&oacute;digo. Estas tareas no suelen ser tenidas en cuenta, pero son igual de importantes para un proyecto en crecimiento. Hemos reunido algunas ideas que har&aacute;n tu vida m&aacute;s f&aacute;cil, desde el proceso de documentaci&oacute;n hasta sacar el m&aacute;ximo provecho de la comunidad.
 
