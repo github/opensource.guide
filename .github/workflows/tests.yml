@@ -2,7 +2,7 @@ name: GitHub Actions CI
 on:
   push:
     branches: master
-  pull_request: []
+  pull_request: [snyk-fix-48104f3a897962eaf3bbd20d78350ea2]
 jobs:
   tests:
     runs-on: ubuntu-latest
