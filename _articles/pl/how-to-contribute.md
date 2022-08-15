@@ -48,7 +48,7 @@ Z definicji cała twoja praca z otwartym kodem źródłowym jest publiczna, co o
 
 ### Rozwiń swoje zdolności interpersonalne
 
-Open source oferuje możliwośc ćwiczenia umiejętności przywódczych i zarządczych, takich jak rozwiązywanie konfliktów, organizowanie zespołów i ustalanie priorytetów pracy.
+Open source oferuje możliwość ćwiczenia umiejętności przywódczych i zarządczych, takich jak rozwiązywanie konfliktów, organizowanie zespołów i ustalanie priorytetów pracy.
 
 ### Daje to możliwość wprowadzania zmian, nawet tych małych
 
