@@ -120,7 +120,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 ### Czy lubisz organizować?
 
 * Twórz łącza do duplikatów problemów i sugeruj ich nowe etykiety, aby utrzymać porządek
-* Przejrzyj otwarte problemy i zassugeruj zamknięcie starych, [jak @nzakas zrobił dla ESLint](https://github.com/eslint/eslint/issues/6765)
+* Przejrzyj otwarte problemy i zasugeruj zamknięcie starych, [jak @nzakas zrobił dla ESLint](https://github.com/eslint/eslint/issues/6765)
 * Zadaj pytania wyjaśniające na temat ostatnio otwartych zagadnień, aby popchnąć dyskusję do przodu
 
 ### Czy lubisz kodować?
@@ -349,7 +349,7 @@ Teraz wykonaj te same kroki dla PR (pull requests) projektu.
   </label>
 </div>
 
-**Projekt jest otwarty na nwoych autorów**
+**Projekt jest otwarty na nowych autorów**
 
 Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów.
 
@@ -453,7 +453,7 @@ Jeśli nie możesz znaleźć swojego pomysłu w innym miejscu, możesz zrobić k
 
 * **Issues** są jak rozpoczęcie rozmowy lub dyskusji
 * **Pull requests** są rozpoczęciem pracy nad rozwiązaniem
-* **Aby uzyskać lekką komunikację,** takie jak pytanie wyjaśniające lub poradnik, spróbuj zadać pytanie Stack Overflow, IRC, Slacka lub innych kanałów komunikacyjnych, jeśli projekt ma taki
+* **Aby uzyskać lekką komunikację,** takie jak pytanie wyjaśniające lub poradnik, spróbuj zadać pytanie Stack Overflow, IRC, Slacka lub innych kanałów komunikacyjnych, jeśli projekt takie ma
 
 Zanim otworzysz problem lub pull request, sprawdź dokumenty wspierające projekt (zwykle plik o nazwie CONTRIBUTING lub w README), aby sprawdzić, czy musisz dołączyć coś konkretnego. Na przykład projekt może wymagać przestrzegania szablonu lub użycia testów.
 
@@ -496,7 +496,7 @@ Jeśli projekt znajduje się na GitHub, oto jak przesłać pull request:
 * **[Stworzenie brancha](https://guides.github.com/introduction/flow/)** dla swoich zmian.
 * **Odniesienie się do wszelkich istotnych issues** lub dokumentacja uzupełniająca w twoim PR (na przykład, "Closes #37.")
 * **Dołączenie zrzutów ekranu przed i po** jeśli zmiany zawierają różnice w HTML / CSS. Przeciągnij i upuść obrazy w treści pull requesta.
-* **Sprawdzenie swoich zmian!** Uruchom istniejące testy w stosunku to twoich zmian, i w razie potrzeby utwórz nowe. Niezależnie od tego, czy testy istnieją, czy nie, upewnij się, że zmiany nie psują istniejącego projektu.
+* **Sprawdzenie swoich zmian!** Uruchom istniejące testy w stosunku do twoich zmian, i w razie potrzeby utwórz nowe. Niezależnie od tego, czy testy istnieją, czy nie, upewnij się, że zmiany nie psują istniejącego projektu.
 * **Wkład w styl projektu** najlepiej jak potrafisz. Może to oznaczać stosowanie wcięć, średników lub komentarzy inaczej niż w swoim własnym repozytorium, co ułatwia opiekunowi scalenie, innym zrozumienie i utrzymanie w przyszłości.
 
 Jeśli to twój pierwszy pull request, sprawdź [Make a Pull Request](http://makeapullrequest.com/), które @kentcdodds utworzone jako instruktażowy samouczek wideo. Możesz także przećwiczyć składanie pull request w repozytorium [First Contributions](https://github.com/Roshanjossey/first-contributions), stworzonym przez @Roshanjossey.
@@ -515,7 +515,7 @@ Jeśli nie otrzymałeś odpowiedzi od ponad tygodnia, możesz grzecznie odpowied
 
 **Nie** docieraj do tej osoby prywatnie; pamiętaj, że komunikacja publiczna jest niezbędna w projektach typu open source.
 
-Jeśli uprzejmie kogoś zapytasz i nadal nikt nie zareaguje, możliwe, że nikt nigdy nie odpowie. To nie jest zbyt miłe uczucie, ale nie zniechęcaj się. Zdarzyło się wszystkim! Istnieje wiele możliwych powodów, dla których nie otrzymałeś odpowiedzi, w tym okoliczności osobiste, które mogą być poza twoją kontrolą. Spróbuj znaleźć inny projekt lub sposób na wniesienie wkładu. Jeśli tak, to dobry powód, aby nie poświęcać zbyt wiele czasu na wkład, zanim inni członkowie społeczności nie będą zaangażowani i nie będą reagować.
+Jeśli uprzejmie kogoś zapytasz i nadal nikt nie zareaguje, możliwe, że nikt nigdy nie odpowie. To nie jest to zbyt miłe uczucie, ale nie zniechęcaj się. Zdarzyło się wszystkim! Istnieje wiele możliwych powodów, dla których nie otrzymałeś odpowiedzi, w tym okoliczności osobiste, które mogą być poza twoją kontrolą. Spróbuj znaleźć inny projekt lub sposób na wniesienie wkładu. Jeśli tak, to dobry powód, aby nie poświęcać zbyt wiele czasu na wkład, zanim inni członkowie społeczności nie będą zaangażowani i nie będą reagować.
 
 ### 🚧 Ktoś prosi o zmianę Twojego wkładu.
 
