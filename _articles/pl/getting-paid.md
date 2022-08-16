@@ -176,7 +176,7 @@ Postaraj się zebrać dowody na to, że projekt ma znaczenie, czy to metryki, an
 
 ### Wartość do finansowania
 
-Do fundatorów, czy to pracodawcy, czy fundacji przyznającej granty, często zwracają się inne projekty. Dlaczego powinni wesprzeć akurat twój projekt w jakikolwiek sposób? Jakie korzyści odnosią z tego osobiście?
+Do fundatorów, czy to pracodawcy, czy fundacji przyznającej granty, często zwracają się inne projekty. Dlaczego powinni wesprzeć akurat twój projekt w jakikolwiek sposób? Jakie korzyści odniosą z tego osobiście?
 
 ### Wykorzystanie funduszy
 
