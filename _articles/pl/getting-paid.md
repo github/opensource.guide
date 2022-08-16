@@ -1,7 +1,7 @@
 ---
 lang: pl
 title: Zarabianie za pracę Open Source
-description: Utrzymaj swoją pracę w otwartym kodzie źródłowym, uzyskując wsparcie finansowe na Twój czas lub projekt.
+description: Utrzymaj swoją pracę w otwartym kodzie źródłowym, uzyskując wsparcie finansowe na twój czas lub projekt.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -72,7 +72,7 @@ Jeśli szukasz wsparcia finansowego, musisz rozważyć dwie ścieżki. Możesz s
 
 Obecnie wiele osób otrzymuje wynagrodzenie za pracę w niepełnym lub pełnym wymiarze godzin na otwartym oprogramowaniu. Najczęstszym sposobem zarabiania za czas jest rozmowa z pracodawcą.
 
-Łatwiej jest uzasadnić pracę z otwartym kodem źródłowym, jeśli Twój pracodawca faktycznie korzysta z projektu, ale wykaż się kreatywnością. Być może twój pracodawca nie korzysta z projektu, ale używa Pythona, a utrzymanie popularnego projektu w Pythonie pomaga przyciągnąć nowych deweloperów języka Python. Być może sprawia to, że Twój pracodawca wydaje się bardziej przyjazny dla programistów.
+Łatwiej jest uzasadnić pracę z otwartym kodem źródłowym, jeśli twój pracodawca faktycznie korzysta z projektu, ale wykaż się kreatywnością. Być może twój pracodawca nie korzysta z projektu, ale używa Pythona, a utrzymanie popularnego projektu w Pythonie pomaga przyciągnąć nowych deweloperów języka Python. Być może sprawia to, że twój pracodawca wydaje się bardziej przyjazny dla programistów.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
@@ -158,11 +158,11 @@ Niektóre fundacje i firmy oferują granty na prace typu open source. Czasami do
 * **[Libraries.io](https://github.com/librariesio)** otrzymał dotację z [Sloan Foundation](https://sloan.org/programs/digital-technology)
 * **[Python Software Foundation](https://www.python.org/psf/grants/)** oferuje granty na prace związane z Pythonem
 
-Aby uzyskać bardziej szczegółowe opcje i studia przypadków, @nayafia [napisał przewodnik](https://github.com/nayafia/lemonade-stand) jak zarabiać za pracę typu open source. Różne rodzaje finansowania wymagają różnych umiejętności, więc rozważ swoje mocne strony, aby dowiedzieć się, która opcja będzie dla Ciebie najlepsza.
+Aby uzyskać bardziej szczegółowe opcje i studia przypadków, @nayafia [napisał przewodnik](https://github.com/nayafia/lemonade-stand) jak zarabiać za pracę typu open source. Różne rodzaje finansowania wymagają różnych umiejętności, więc rozważ swoje mocne strony, aby dowiedzieć się, która opcja będzie dla ciebie najlepsza.
 
 ## Budowanie uzasadnienia wsparcia finansowego
 
-Niezależnie od tego, czy Twój projekt jest nowym pomysłem, czy istnieje już od lat, powinieneś się zastanowić, czy nie zidentyfikować docelowego fundatora i przedstawić przekonujący argument.
+Niezależnie od tego, czy twój projekt jest nowym pomysłem, czy istnieje już od lat, powinieneś się zastanowić, czy nie zidentyfikować docelowego fundatora i przedstawić przekonujący argument.
 
 Niezależnie od tego, czy chcesz zapłacić za swój czas, czy zbierać fundusze na projekt, powinieneś być w stanie odpowiedzieć na następujące pytania.
 
@@ -176,7 +176,7 @@ Postaraj się zebrać dowody na to, że projekt ma znaczenie, czy to metryki, an
 
 ### Wartość do finansowania
 
-Do fundatorów, czy to pracodawcy, czy fundacji przyznającej granty, często zwraca się szansa. Dlaczego powinni wesprzeć Twój projekt w jakikolwiek inny sposób? Jakie korzyści odnoszą osobiście?
+Do fundatorów, czy to pracodawcy, czy fundacji przyznającej granty, często zwraca się szansa. Dlaczego powinni wesprzeć twój projekt w jakikolwiek inny sposób? Jakie korzyści odnoszą osobiście?
 
 ### Wykorzystanie funduszy
 
