@@ -28,7 +28,7 @@ Dlaczego ludzie przyczyniają się do open source? Z wielu powodów!
 
 ### Ulepsz oprogramowanie, na którym możesz polegać
 
-Wielu współpracowników open source zaczyna od bycia użytkownikami oprogramowania, do którego następnie wnoszą swój wkład. Gdy znajdziesz błąd w używanym przez ciebie oprogramowaniu open source, możesz zajrzeć do źródła, aby sprawdzić, czy możesz go naprawić samodzielnie. Jeśli tak jest, to dodanie poprawki jest najlepszym sposobem, aby zapewnić, że Twoi znajomi (i ty, kiedy zaktualizujesz do następnej wersji) będą mogli z niej skorzystać.
+Wielu współpracowników open source zaczyna od bycia użytkownikami oprogramowania, do którego następnie wnoszą swój wkład. Gdy znajdziesz błąd w używanym przez ciebie oprogramowaniu open source, możesz zajrzeć do źródła, aby sprawdzić, czy możesz go naprawić samodzielnie. Jeśli tak jest, to dodanie poprawki jest najlepszym sposobem, aby zapewnić, że twoi znajomi (i ty, kiedy zaktualizujesz do następnej wersji) będą mogli z niej skorzystać.
 
 ### Rozwiń swoje umiejętności
 
@@ -58,7 +58,7 @@ Nie musisz stać się dożywotnim uczestnikiem, aby cieszyć się uczestnictwem 
 
 Jeśli jesteś nowym współpracownikiem typu open source, proces może być zastraszający. Jak znaleźć odpowiedni projekt? Co jeśli nie wiesz, jak programować? Co jeśli coś pójdzie nie tak?
 
-Nie martwić się! Istnieje wiele sposobów na zaangażowanie się w projekt open source, a kilka wskazówek pomoże Ci w pełni wykorzystać swoje doświadczenie.
+Nie martwić się! Istnieje wiele sposobów na zaangażowanie się w projekt open source, a kilka wskazówek pomoże ci w pełni wykorzystać swoje doświadczenie.
 
 ### Nie musisz przekazywać kodu
 
@@ -152,7 +152,7 @@ Na przykład:
 * @h5bp utrzymuje [listę potencjalnych pytań do rozmowy kwalifikacyjnej](https://github.com/h5bp/Front-end-Developer-Interview-Questions) dla kandydatów na programistów front-end
 * @stuartlynn a @nicole-a-tesla stworzyła [zbiór zabawnych faktów na temat maskonurów](https://github.com/stuartlynn/puffin_facts)
 
-Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc w rozpoczęciu pracy w środowisku open source. Praca z projektami niewymagającymi kodu jest często mniej zastraszająca, a proces współpracy zwiększy Twoje zaufanie i doświadczenie.
+Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc w rozpoczęciu pracy w środowisku open source. Praca z projektami niewymagającymi kodu jest często mniej zastraszająca, a proces współpracy zwiększy twoje zaufanie i doświadczenie.
 
 ## Orientacja na nowy projekt
 
@@ -168,7 +168,7 @@ Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc
 
 W przypadku czegoś więcej niż poprawa literówek, udział w open source jest jak podchodzenie do grupy nieznajomych na imprezie. Jeśli zaczniesz mówić o lamach, gdy byli głęboko w dyskusji na temat złotych rybek, prawdopodobnie spojrzą na ciebie trochę dziwnie.
 
-Zanim wskoczysz na ślepo z własnymi sugestiami, zacznij od nauki wybadywania terenu. Takie postępowanie zwiększa szanse, że Twoje pomysły zostaną zauważone i usłyszane.
+Zanim wskoczysz na ślepo z własnymi sugestiami, zacznij od nauki wybadywania terenu. Takie postępowanie zwiększa szanse, że twoje pomysły zostaną zauważone i usłyszane.
 
 ### Anatomia projektu open source
 
@@ -223,7 +223,7 @@ Możesz zeskanować plik README i znaleźć uszkodzony link lub literówkę. Lub
 
 Jeśli szukasz istniejących problemów, które możesz naprawić, każdy projekt open source ma stronę `/contribute`, która podkreśla problemy przyjazne dla początkujących, z którymi możesz zacząć. Przejdź do strony głównej repozytorium w serwisie GitHub i dodaj `/contribute` na końcu adresu URL (na przykład [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
-Możesz także skorzystać z jednego z następujących zasobów, aby pomóc Ci odkryć nowe projekty i wnieść swój wkład:
+Możesz także skorzystać z jednego z następujących zasobów, aby pomóc ci odkryć nowe projekty i wnieść swój wkład:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -391,7 +391,7 @@ Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów
 
 ## Jak przesłać kontrybucję
 
-Znalazłeś projekt, który Ci się podoba i jesteś gotowy, aby wnieść swój wkład. Wreszcie! Oto, w jaki sposób uzyskać odpowiedni wkład we właściwy sposób.
+Znalazłeś projekt, który ci się podoba i jesteś gotowy, aby wnieść swój wkład. Wreszcie! Oto, w jaki sposób uzyskać odpowiedni wkład we właściwy sposób.
 
 ### Skuteczna komunikacja
 
@@ -447,7 +447,7 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 
 ### Zbieranie kontekstu
 
-Zanim cokolwiek zrobisz, szybko sprawdź, czy Twój pomysł nie został omówiony w innym miejscu. Przejrzyj README projektu, problemy (otwarte i zamknięte), listę mailingową i przepełnienie stosu. Nie musisz spędzać godzin na przeglądaniu wszystkiego, ale szybkie poszukiwanie kilku kluczowych haseł to długa droga.
+Zanim cokolwiek zrobisz, szybko sprawdź, czy twój pomysł nie został omówiony w innym miejscu. Przejrzyj README projektu, problemy (otwarte i zamknięte), listę mailingową i przepełnienie stosu. Nie musisz spędzać godzin na przeglądaniu wszystkiego, ale szybkie poszukiwanie kilku kluczowych haseł to długa droga.
 
 Jeśli nie możesz znaleźć swojego pomysłu w innym miejscu, możesz zrobić krok. Jeśli projekt jest w serwisie GitHub, prawdopodobnie komunikujesz się, otwierając problem lub wysyłając żądanie:
 
@@ -509,7 +509,7 @@ Po przesłaniu wkładu nastąpi jedna z następujących sytuacji:
 
 ### 😭 Nie dostaniesz odpowiedzi.
 
-Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](../how-to-contribute/#lista-kontrolna-przed-wniesieniem-wkładu) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że Twój wkład nie uzyska odpowiedzi.
+Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](../how-to-contribute/#lista-kontrolna-przed-wniesieniem-wkładu) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że twój wkład nie uzyska odpowiedzi.
 
 Jeśli nie otrzymałeś odpowiedzi od ponad tygodnia, możesz grzecznie odpowiedzieć w tym samym wątku, prosząc kogoś o recenzję. Jeśli znasz właściwą osobę do sprawdzenia swojego wkładu, możesz @-mentionować ją w tym wątku.
 
@@ -519,11 +519,11 @@ Jeśli uprzejmie kogoś zapytasz i nadal nikt nie zareaguje, możliwe, że nikt 
 
 ### 🚧 Ktoś prosi o zmianę Twojego wkładu.
 
-Często zdarza się, że będziesz proszony o wprowadzenie zmian do Twojego wkładu, niezależnie od tego, czy jest to opinia na temat zakresu Twojego pomysłu, czy zmiany w kodzie.
+Często zdarza się, że będziesz proszony o wprowadzenie zmian do twojego wkładu, niezależnie od tego, czy jest to opinia na temat zakresu twojego pomysłu, czy zmiany w kodzie.
 
-Gdy ktoś prosi o zmiany, bądź responsywny. Sprawdzili Twój wkład. Otwarcie PR i odejście to zła forma. Jeśli nie wiesz, jak wprowadzić zmiany, zbadaj problem, a następnie poproś o pomoc, jeśli jej potrzebujesz.
+Gdy ktoś prosi o zmiany, bądź responsywny. Sprawdzili twój wkład. Otwarcie PR i odejście to zła forma. Jeśli nie wiesz, jak wprowadzić zmiany, zbadaj problem, a następnie poproś o pomoc, jeśli jej potrzebujesz.
 
-Jeśli nie masz czasu na pracę nad problemem (na przykład, jeśli rozmowa trwa od miesięcy, a Twoja sytuacja uległa zmianie), powiadom opiekuna, aby nie oczekiwał odpowiedzi. Ktoś inny może być szczęśliwy, aby przejąć ten problem.
+Jeśli nie masz czasu na pracę nad problemem (na przykład, jeśli rozmowa trwa od miesięcy, a twoja sytuacja uległa zmianie), powiadom opiekuna, aby nie oczekiwał odpowiedzi. Ktoś inny może być szczęśliwy, aby przejąć ten problem.
 
 ### 👎 Twój wkład nie zostanie zaakceptowany.
 
@@ -535,4 +535,4 @@ Hooray! Udało ci się wnieść wkład typu open source!
 
 ## Zrobiłeś to!
 
-Niezależnie od tego, czy właśnie wniósłeś swój pierwszy wkład typu open source, czy szukasz nowych sposobów, mamy nadzieję, że zainspirujesz się do działania. Nawet jeśli Twój wkład nie został zaakceptowany, nie zapomnij podziękować, gdy opiekun wkłada wysiłek, aby ci pomóc. Oprogramowanie typu open source jest tworzone przez osoby takie jak Ty: jeden problem, żądanie ściągnięcia, komentarz lub piątka na raz.
+Niezależnie od tego, czy właśnie wniósłeś swój pierwszy wkład typu open source, czy szukasz nowych sposobów, mamy nadzieję, że zainspirujesz się do działania. Nawet jeśli twój wkład nie został zaakceptowany, nie zapomnij podziękować, gdy opiekun wkłada wysiłek, aby ci pomóc. Oprogramowanie typu open source jest tworzone przez osoby takie jak ty: jeden problem, żądanie ściągnięcia, komentarz lub piątka na raz.
