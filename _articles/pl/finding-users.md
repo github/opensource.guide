@@ -39,7 +39,7 @@ Aby zagłębić się w tworzenie odpowiednich komunikatów, sprawdź artykuł Mo
 
 Pomóż innym znaleźć i zapamiętać twój projekt, poprzez utworzenie odpowiedniej nazwy firmowej która będzie reprezentować cały projekt.
 
-**Znajdz odpowiednie miejsce do promowania swojej pracy.** Twitter, GitHub URL lub kanał IRC to łatwy sposób promowania twojego projektu. Te miejsca pozwolą także na zbieranie się rosnącej społeczności twojego projektu.
+**Znajdź odpowiednie miejsce do promowania swojej pracy.** Twitter, GitHub URL lub kanał IRC to łatwy sposób promowania twojego projektu. Te miejsca pozwolą także na zbieranie się rosnącej społeczności twojego projektu.
 
 Jeśli nie chcesz jeszcze zakładać takich punktów dla swojego projektu, promuj go na swoim własnym koncie Twitter lub GitHub. Promowanie swojego projektu na Twitterze lub GitHub pozwoli ludziom wiedzieć, jak się z tobą skontaktować lub śledzić twoją pracę. Jeśli przemawiasz na spotkaniu lub wydarzeniu, upewnij się, że twoje dane kontaktowe znajdują się w prezentacji.
 
