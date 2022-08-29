@@ -1,7 +1,7 @@
 ---
 lang: pl
 title: Jak przyczynić się do Open Source
-description: Chcesz przyczynić się do open source? Przewodnik po wkładach typu open source, dla nowicjuszy i weteranów.
+description: Chciałbyś przyczynić się do open source? Przewodnik po wkładach typu open source, dla nowicjuszy i weteranów.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -22,47 +22,47 @@ related:
   </p>
 </aside>
 
-Wkład w open source może być satysfakcjonującym sposobem uczenia się, nauczania i budowania doświadczenia w prawie każdej umiejętności, jaką możesz sobie wyobrazić.
+Wkład w open source może być satysfakcjonującym sposobem uczenia się oraz nauczania i budowania doświadczenia w prawie każdej umiejętności, jaką możesz sobie wyobrazić.
 
-Dlaczego ludzie przyczyniają się do open source? Wiele powodów!
+Dlaczego ludzie przyczyniają się do open source? Z wielu powodów!
 
 ### Ulepsz oprogramowanie, na którym możesz polegać
 
-Wielu współpracowników open source zaczyna od bycia użytkownikami oprogramowania, do którego się wnosi. Gdy znajdziesz błąd w używanym oprogramowaniu open source, możesz zajrzeć do źródła, aby sprawdzić, czy możesz go naprawić samodzielnie. Jeśli tak jest, to dodanie poprawki jest najlepszym sposobem, aby zapewnić, że Twoi znajomi (i ty, kiedy zaktualizujesz do następnej wersji) będą mogli z niej skorzystać.
+Wielu współpracowników open source zaczyna od bycia użytkownikami oprogramowania, do którego następnie wnoszą swój wkład. Gdy znajdziesz błąd w używanym przez ciebie oprogramowaniu open source, możesz zajrzeć do źródła, aby sprawdzić, czy możesz go naprawić samodzielnie. Jeśli tak jest, to dodanie poprawki jest najlepszym sposobem, aby zapewnić, że twoi znajomi (i ty, kiedy zaktualizujesz do następnej wersji) będą mogli z niej skorzystać.
 
-### Popraw istniejące umiejętności
+### Rozwiń swoje umiejętności
 
-Niezależnie od tego, czy chodzi o kodowanie, projektowanie interfejsu użytkownika, projektowanie graficzne, pisanie czy organizowanie, jeśli szukasz praktyki, jest dla ciebie zadanie w projekcie open source.
+Niezależnie od tego, czy chodzi o programowanie, projektowanie interfejsu użytkownika, projektowanie graficzne, pisanie czy organizowanie, jeśli szukasz praktyki, to znajdziesz odpowiednie zadanie w projekcie open source.
 
-### Poznawaj ludzi, którzy są zainteresowani podobnymi rzeczami
+### Poznawaj ludzi, którzy mają podobne zainteresowania
 
 Projekty open source z ciepłymi, przyjaznymi społecznościami sprawiają, że ludzie wracają na lata. Wiele osób nawiązuje przyjaźnie na całe życie poprzez udział w otwartym kodzie źródłowym, bez względu na to, czy spotykają się na konferencjach, czy późno w nocy na czatach internetowych o burritos.
 
 ### Znajdź mentorów i ucz innych
 
-Praca z innymi przy wspólnym projekcie oznacza, że musisz wyjaśnić, jak to robisz, a także poprosić o pomoc innych ludzi. Działania związane z uczeniem się i nauczaniem mogą być satysfakcjonującym zajęciem dla wszystkich zaangażowanych osób.
+Praca z innymi przy wspólnym projekcie oznacza, że musisz wyjaśnić, jak coś robisz, a także poprosić o pomoc innych ludzi. Działania związane z uczeniem się i nauczaniem mogą być satysfakcjonującym zajęciem dla wszystkich zaangażowanych osób.
 
 ### Twórz publiczne artefakty, które pomogą ci zdobyć reputację (i karierę)
 
-Z definicji cała twoja praca z otwartym kodem źródłowym jest publiczna, co oznacza, że masz darmowe przykłady do zabrania w dowolne miejsce jako demonstrację tego, co możesz zrobić.
+Z definicji cała twoja praca z otwartym kodem źródłowym jest publiczna, co oznacza, że masz darmowe przykłady do pokazania w dowolnym miejscu jako demonstrację tego, co potrafisz zrobić.
 
-### Naucz ludzi umiejętności
+### Rozwiń swoje zdolności interpersonalne
 
-Open source oferuje możliwości ćwiczenia umiejętności przywódczych i zarządczych, takich jak rozwiązywanie konfliktów, organizowanie zespołów ludzi i ustalanie priorytetów pracy.
+Open source oferuje możliwość ćwiczenia umiejętności przywódczych i zarządczych, takich jak rozwiązywanie konfliktów, organizowanie zespołów i ustalanie priorytetów pracy.
 
 ### Daje to możliwość wprowadzania zmian, nawet tych małych
 
-Nie musisz stać się dożywotnim uczestnikiem, aby cieszyć się uczestnictwem w otwartym oprogramowaniu. Czy widziałeś kiedyś literówkę na stronie i żałowałeś, że ktoś to nie naprawi? W projekcie open source możesz to zrobić. Open source pomaga ludziom odczuwać agencję w ich życiu i doświadczaniu świata, a to samo w sobie jest satysfakcjonujące.
+Nie musisz stać się dożywotnim uczestnikiem, aby cieszyć się uczestnictwem w otwartym oprogramowaniu. Czy widziałeś kiedyś literówkę na stronie i żałowałeś, że ktoś to nie naprawił? W projekcie open source możesz to zrobić. Open source pomaga ludziom odczuwać poczucie kontroli w ich życiu i doświadczaniu świata, a to samo w sobie jest satysfakcjonujące.
 
 ## Co to znaczy przyczynić się
 
-Jeśli jesteś nowym współpracownikiem typu open source, proces może być zastraszający. Jak znaleźć odpowiedni projekt? Co jeśli nie wiesz, jak kodować? Co jeśli coś pójdzie nie tak?
+Jeśli jesteś nowym współpracownikiem typu open source, proces może być zastraszający. Jak znaleźć odpowiedni projekt? Co jeśli nie wiesz, jak programować? Co jeśli coś pójdzie nie tak?
 
-Nie martwić się! Istnieje wiele sposobów na zaangażowanie się w projekt open source, a kilka wskazówek pomoże Ci w pełni wykorzystać swoje doświadczenie.
+Nie martwić się! Istnieje wiele sposobów na zaangażowanie się w projekt open source, a kilka wskazówek pomoże ci w pełni wykorzystać swoje doświadczenie.
 
 ### Nie musisz przekazywać kodu
 
-Powszechnym błędnym przekonaniem na temat przyczyniania się do open source jest to, że musisz wnieść kod. W rzeczywistości często inne części projektu są [najbardziej zaniedbywane lub pomijane](https://github.com/blog/2195-the-shape-of-open-source). Zrobisz projekt z _wielką_ przysługą, oferując wkład w tego rodzaju wkłady!
+Powszechnym błędnym przekonaniem na temat przyczyniania się do open source jest to, że musisz wnieść kod. W rzeczywistości często inne części projektu są [najbardziej zaniedbywane lub pomijane](https://github.com/blog/2195-the-shape-of-open-source). Zrobisz projektowi _wielką_ przysługę, oferując swój wkład w taką część projektu!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
@@ -89,12 +89,12 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 ### Czy lubisz planować wydarzenia?
 
 * Organizuj warsztaty lub spotkania dotyczące projektu, [jak @fzamperin dla NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Zorganizuj konferencję projektu (jeśli ją mają)
+* Zorganizuj konferencję projektu (jeśli taką mają)
 * Pomóż członkom społeczności znaleźć odpowiednie konferencje i przesłać propozycje wystąpień
 
 ### Czy lubisz projektować?
 
-* Przebuduj układy, aby poprawić użyteczność projektu
+* Przebuduj strukturę interfejsu, aby poprawić użyteczność projektu
 * Przeprowadź badania użytkowników w celu reorganizacji i dopracowania nawigacji lub menu projektu, [jak sugeruje Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
 * Przygotuj przewodnik po stylu, aby projekt miał spójny wygląd
 * Twórz grafiki na koszulki lub nowe logo, tak jak zrobili to autorzy [hapi.js](https://github.com/hapijs/contrib/issues/68)
@@ -119,16 +119,16 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 
 ### Czy lubisz organizować?
 
-* Łącze do duplikatów problemów i sugeruj nowe etykiety problemów, aby utrzymać porządek
-* Przejrzyj otwarte problemy i sugeruj zamknięcie starych, [jak @nzakas zrobił dla ESLint](https://github.com/eslint/eslint/issues/6765)
+* Twórz łącza do duplikatów problemów i sugeruj ich nowe etykiety, aby utrzymać porządek
+* Przejrzyj otwarte problemy i zasugeruj zamknięcie starych, [jak @nzakas zrobił dla ESLint](https://github.com/eslint/eslint/issues/6765)
 * Zadaj pytania wyjaśniające na temat ostatnio otwartych zagadnień, aby popchnąć dyskusję do przodu
 
 ### Czy lubisz kodować?
 
 * Znajdź otwarty problem do rozwiązania [jak @dianjin zrobił dla Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Zapytaj, czy możesz pomóc napisać nową funkcję
+* Zapytaj, czy możesz pomóc napisać nową funkcjonalność
 * Zautomatyzuj konfigurację projektu
-* Ulepsz oprzyrządowanie i testy
+* Ulepsz narzędzia używane w projekcie i testy
 
 ### Czy lubisz pomagać ludziom?
 
@@ -138,7 +138,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 
 ### Czy lubisz pomagać innym kodować?
 
-* Przejrzyj kod zgłoszeń innych osób
+* Przejrzyj kod zgłoszeń od innych osób
 * Napisz tutoriale dotyczące sposobu wykorzystania projektu
 * Oferta mentorowania innego autora [jak @ereichert zrobił dla @bronzdoc na Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
@@ -152,7 +152,7 @@ Na przykład:
 * @h5bp utrzymuje [listę potencjalnych pytań do rozmowy kwalifikacyjnej](https://github.com/h5bp/Front-end-Developer-Interview-Questions) dla kandydatów na programistów front-end
 * @stuartlynn a @nicole-a-tesla stworzyła [zbiór zabawnych faktów na temat maskonurów](https://github.com/stuartlynn/puffin_facts)
 
-Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc w rozpoczęciu pracy w środowisku open source. Praca z projektami niewymagającymi kodu jest często mniej zastraszająca, a proces współpracy zwiększy Twoje zaufanie i doświadczenie.
+Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc w rozpoczęciu pracy w środowisku open source. Praca z projektami niewymagającymi kodu jest często mniej zastraszająca, a proces współpracy zwiększy twoje zaufanie i doświadczenie.
 
 ## Orientacja na nowy projekt
 
@@ -166,9 +166,9 @@ Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc
   </p>
 </aside>
 
-W przypadku czegoś więcej niż poprawka literówek, udział w open source jest jak podchodzenie do grupy nieznajomych na imprezie. Jeśli zaczniesz mówić o lamach, gdy byli głęboko w dyskusji na temat złotych rybek, prawdopodobnie spojrzą na ciebie trochę dziwnie.
+W przypadku czegoś więcej niż poprawa literówek, udział w open source jest jak podchodzenie do grupy nieznajomych na imprezie. Jeśli zaczniesz mówić o lamach, gdy byli głęboko w dyskusji na temat złotych rybek, prawdopodobnie spojrzą na ciebie trochę dziwnie.
 
-Zanim wskoczysz na ślepo z własnymi sugestiami, zacznij od nauki czytania pokoju. Takie postępowanie zwiększa szanse, że Twoje pomysły zostaną zauważone i usłyszane.
+Zanim wskoczysz na ślepo z własnymi sugestiami, zacznij od nauki wybadywania terenu. Takie postępowanie zwiększa szanse, że twoje pomysły zostaną zauważone i usłyszane.
 
 ### Anatomia projektu open source
 
@@ -181,19 +181,19 @@ To powiedziawszy, wiele projektów open source ma podobną strukturę organizacy
 Typowy projekt open source ma następujące typy osób:
 
 * **Autor:** Osoba lub organizacja, która utworzyła projekt
-* **Właściciel:** Osoba / osoby posiadające uprawnienia administracyjne do organizacji lub repozytorium (nie zawsze takie same jak oryginalny autor)
+* **Właściciel:** Osoba / osoby posiadające uprawnienia administracyjne do organizacji lub repozytorium (nie zawsze taki sam jak oryginalny autor)
 * **Opiekunowie:** Współtwórcy odpowiedzialni za kierowanie wizją i zarządzanie aspektami organizacyjnymi projektu (mogą być także autorami lub właścicielami projektu).
-* **Współtwórcy:** Każdy, kto wniósł coś z powrotem do projektu
+* **Współtwórcy:** Każdy, kto wniósł coś do projektu
 * **Członkowie społeczności:** Ludzie, którzy korzystają z projektu. Mogą być aktywni w rozmowach lub wyrażać swoją opinię na temat kierunków projektu
 
-Większe projekty mogą również obejmować podkomitety lub grupy robocze zajmujące się różnymi zadaniami, takimi jak oprzyrządowanie, segregacja, moderacja społeczności i organizacja wydarzeń. Na stronie internetowej projektu można znaleźć stronę „zespołu” lub w repozytorium dokumentacji dotyczącej zarządzania, aby znaleźć te informacje.
+Większe projekty mogą również obejmować podkomitety lub grupy robocze zajmujące się różnymi zadaniami, takimi jak narzędzia projektowe, segregacja, moderacja społeczności i organizacja wydarzeń. Na stronie internetowej projektu można znaleźć stronę „zespołu” lub w repozytorium dokumentacji dotyczącej zarządzania, aby znaleźć te informacje.
 
 Projekt ma również dokumentację. Te pliki są zwykle wymienione na najwyższym poziomie repozytorium.
 
-* **LICENSE:** Z definicji każdy projekt typu open source musi posiadać [licencję typu open source](https://choosealicense.com). Jeśli projekt nie ma licencji, nie jest open source.
+* **LICENSE:** Z definicji każdy projekt typu open source musi posiadać [licencję typu open source](https://choosealicense.com). Jeśli projekt nie ma licencji, to nie jest open source.
 * **README:** Plik README to instrukcja obsługi, która wita nowych członków społeczności w projekcie. Wyjaśnia, dlaczego projekt jest użyteczny i jak zacząć.
-* **CONTRIBUTING:** Podczas gdy pliki README pomagają ludziom _użytkować_ projekt, udostępnianie dokumentów pomaga ludziom _komponować_ w projekcie. Wyjaśnia, jakie rodzaje wkładów są potrzebne i jak działa proces. Chociaż nie każdy projekt ma plik WKŁAD, jego obecność sygnalizuje, że jest to przyjazny projekt, do którego należy się przyczynić.
-* **CODE_OF_CONDUCT:** tworzeniu przyjaznego i przyjaznego środowiska. Chociaż nie każdy projekt ma plik CODE_OF_CONDUCT, jego obecność sygnalizuje, że jest to przyjazny projekt, do którego można się przyczynić.
+* **CONTRIBUTING:** Podczas gdy pliki README pomagają ludziom _użytkować_ projekt, udostępnianie dokumentów pomaga ludziom _komponować_ w projekcie. Wyjaśnia, jakie rodzaje wkładów są potrzebne i jak działa proces. Chociaż nie każdy projekt ma plik CONTRIBUTING, jego obecność sygnalizuje, że jest to przyjazny projekt, do którego można wnieść swój wkład.
+* **CODE_OF_CONDUCT:** tworzeniu przyjaznego i przyjaznego środowiska. Chociaż nie każdy projekt ma plik CODE_OF_CONDUCT, jego obecność sygnalizuje, że jest to przyjazny projekt, do którego można wnieść swój wkład.
 * **Other documentation:** Może istnieć dodatkowa dokumentacja, taka jak samouczki, instrukcje lub zasady zarządzania, szczególnie w przypadku większych projektów.
 
 Wreszcie, projekty open source wykorzystują następujące narzędzia do organizowania dyskusji. Czytanie archiwów daje dobry obraz tego, jak społeczność myśli i działa.
@@ -203,13 +203,13 @@ Wreszcie, projekty open source wykorzystują następujące narzędzia do organiz
 * **Discussion forums or mailing lists:** Niektóre projekty mogą wykorzystywać te kanały do prowadzenia wątków konwersacyjnych (na przykład _„Jak mam ...”_ lub _„Co sądzisz o ...”_ zamiast raportów o błędach lub propozycji funkcji). Inni używają narzędzia do śledzenia problemów do wszystkich rozmów.
 * **Synchronous chat channel:** Niektóre projekty wykorzystują kanały czatu (takie jak Slack lub IRC) do swobodnej rozmowy, współpracy i szybkiej wymiany.
 
-## Znalezienie projektu, do którego można się przyczynić
+## Znalezienie projektu, do którego można wnieść swój wkład
 
-Teraz, gdy już zorientowałeś się, jak działają projekty typu open source, nadszedł czas, aby znaleźć projekt, do którego możesz się przyczynić!
+Teraz, gdy już zorientowałeś się, jak działają projekty typu open source, nadszedł czas, aby znaleźć projekt, do którego możesz wnieść swój wkład!
 
 Jeśli nigdy wcześniej nie uczestniczyłeś w tworzeniu oprogramowania typu open source, skorzystaj z porady Prezydenta Stanów Zjednoczonych Johna F. Kennedy'ego, który powiedział kiedyś, _"Ask not what your country can do for you - ask what you can do for your country."_
 
-Wkład w open source ma miejsce na wszystkich poziomach, w różnych projektach. Nie musisz zastanawiać się, jaki dokładnie będzie twój pierwszy wkład ani jak będzie wyglądał.
+Wkład w open source ma miejsce na wszystkich poziomach, w różnych projektach. Nie musisz się zastanawiać, jaki dokładnie będzie twój pierwszy wkład ani jak będzie wyglądał.
 
 Zamiast tego zacznij od przemyślenia projektów, z których już korzystasz lub z których chcesz skorzystać. Projekty, w których aktywnie uczestniczysz, to te, do których wracasz.
 
@@ -223,7 +223,7 @@ Możesz zeskanować plik README i znaleźć uszkodzony link lub literówkę. Lub
 
 Jeśli szukasz istniejących problemów, które możesz naprawić, każdy projekt open source ma stronę `/contribute`, która podkreśla problemy przyjazne dla początkujących, z którymi możesz zacząć. Przejdź do strony głównej repozytorium w serwisie GitHub i dodaj `/contribute` na końcu adresu URL (na przykład [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
-Możesz także skorzystać z jednego z następujących zasobów, aby pomóc Ci odkryć nowe projekty i wnieść swój wkład:
+Możesz także skorzystać z jednego z następujących zasobów, aby pomóc ci odkryć nowe projekty i wnieść swój wkład:
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
@@ -349,7 +349,7 @@ Teraz wykonaj te same kroki dla PR (pull requests) projektu.
   </label>
 </div>
 
-**Projekt jest mile widziany**
+**Projekt jest otwarty na nowych autorów**
 
 Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów.
 
@@ -391,7 +391,7 @@ Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów
 
 ## Jak przesłać kontrybucję
 
-Znalazłeś projekt, który Ci się podoba i jesteś gotowy, aby wnieść swój wkład. Wreszcie! Oto, w jaki sposób uzyskać odpowiedni wkład we właściwy sposób.
+Znalazłeś projekt, który ci się podoba i jesteś gotowy, aby wnieść swój wkład. Wreszcie! Oto, w jaki sposób uzyskać odpowiedni wkład we właściwy sposób.
 
 ### Skuteczna komunikacja
 
@@ -405,15 +405,15 @@ Niezależnie od tego, czy jesteś jednorazowym współpracownikiem, czy próbuje
   </p>
 </aside>
 
-Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o tych punktach, aby pomóc skutecznie znaleźć swoje pomysły.
+Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o tych punktach, aby pomóc skutecznie zrozumieć twoje pomysły.
 
-**Podaj kontekst.** Pomóż innym szybko przyśpieszyć. Jeśli napotkasz błąd, wyjaśnij, co próbujesz zrobić i jak go odtworzyć. Jeśli sugerujesz nowy pomysł, wyjaśnij, dlaczego uważasz, że byłby przydatny dla projektu (nie tylko dla ciebie!).
+**Podaj kontekst.** Pomóż innym szybko wgryźć się w temat. Jeśli napotkasz błąd, wyjaśnij, co próbujesz zrobić i jak go odtworzyć. Jeśli sugerujesz nowy pomysł, wyjaśnij, dlaczego uważasz, że byłby przydatny dla projektu (nie tylko dla ciebie!).
 
 > 😇 _"X doesn't happen when I do Y"_
 >
 > 😢 _"X is broken! Please fix it."_
 
-**Zrób swoją pracę domową wcześniej.** Nie można nic wiedzieć, ale pokazać, że próbowałeś. Zanim poprosisz o pomoc, koniecznie sprawdź README projektu, dokumentację, problemy (otwarte lub zamknięte), listę mailingową i wyszukaj w Internecie odpowiedź. Ludzie docenią, gdy pokażesz, że próbujesz się uczyć.
+**Odrób swoją pracę domową wcześniej.** To w porządku, jeśli wszystkiego nie wiesz, ale pokazałeś, że próbowałeś. Zanim poprosisz o pomoc, koniecznie sprawdź README projektu, dokumentację, problemy (otwarte lub zamknięte), listę mailingową i wyszukaj w Internecie odpowiedź. Ludzie docenią, gdy pokażesz, że próbujesz się uczyć.
 
 > 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
 >
@@ -425,7 +425,7 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 >
 > 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
 
-**Trzymaj całą komunikację publiczną.** Chociaż jest to kuszące, nie kontaktuj się prywatnie z opiekunami, chyba że musisz udostępniać poufne informacje (takie jak problem z bezpieczeństwem lub poważne naruszenie zasad postępowania). Gdy udostępnisz rozmowę publicznie, więcej osób może się uczyć i korzystać z wymiany. Dyskusje mogą być same w sobie wkładem.
+**Trzymaj całą komunikację publiczną.** Chociaż jest to kuszące, nie kontaktuj się prywatnie z opiekunami, chyba że musisz udostępniać poufne informacje (takie jak problem z bezpieczeństwem lub poważne naruszenie zasad postępowania). Gdy udostępnisz rozmowę publicznie, więcej osób może się uczyć i korzystać z wymiany zdań. Dyskusje mogą być same w sobie wkładem.
 
 > 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
 >
@@ -437,27 +437,27 @@ Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o ty
 >
 > 😢 _"Why can't you fix my problem? Isn't this your project?"_
 
-**Szanuj decyzje społeczności.** Twoje pomysły mogą różnić się od priorytetów lub wizji społeczności. Mogą oferować informacje zwrotne lub zdecydować o nie realizowaniu Twojego pomysłu. Podczas gdy powinieneś dyskutować i szukać kompromisu, opiekunowie muszą żyć z twoją decyzją dłużej niż ty. Jeśli nie zgadzasz się z ich kierunkiem, zawsze możesz pracować nad własnym widelcem lub rozpocząć własny projekt.
+**Szanuj decyzje społeczności.** Twoje pomysły mogą różnić się od priorytetów lub wizji społeczności. Mogą oni oferować informacje zwrotne lub zdecydować o nie realizowaniu Twojego pomysłu. Podczas gdy powinieneś dyskutować i szukać kompromisu, opiekunowie muszą żyć z twoją decyzją dłużej niż ty. Jeśli nie zgadzasz się z ich kierunkiem, zawsze możesz pracować nad własnym forkiem lub rozpocząć własny projekt.
 
 > 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
 >
 > 😢 _"Why won't you support my use case? This is unacceptable!"_
 
-**Przede wszystkim zachowaj klasę.** Open source składa się ze współpracowników z całego świata. Kontekst gubi się w różnych językach, kulturach, regionach geograficznych i strefach czasowych. Ponadto pisemna komunikacja utrudnia przekazanie tonu lub nastroju. Przyjmij dobre intencje w tych rozmowach. Dobrze jest grzecznie odepchnąć pomysł, poprosić o więcej kontekstu lub wyjaśnić swoje stanowisko. Po prostu spróbuj zostawić Internet w lepszym miejscu niż wtedy, gdy go znajdziesz.
+**Przede wszystkim zachowaj klasę.** Open source składa się ze współpracowników z całego świata. Kontekst gubi się w różnych językach, kulturach, regionach geograficznych i strefach czasowych. Ponadto pisemna komunikacja utrudnia przekazanie tonu lub nastroju. Przyjmij dobre intencje w tych rozmowach. Dobrze jest grzecznie odepchnąć pomysł, poprosić o więcej kontekstu lub wyjaśnić swoje stanowisko. Po prostu spróbuj zostawić Internet w lepszym miejscu niż wtedy, gdy go znalazłeś.
 
 ### Zbieranie kontekstu
 
-Zanim cokolwiek zrobisz, szybko sprawdź, czy Twój pomysł nie został omówiony w innym miejscu. Przejrzyj README projektu, problemy (otwarte i zamknięte), listę mailingową i przepełnienie stosu. Nie musisz spędzać godzin na przeglądaniu wszystkiego, ale szybkie poszukiwanie kilku kluczowych haseł to długa droga.
+Zanim cokolwiek zrobisz, szybko sprawdź, czy twój pomysł nie został omówiony w innym miejscu. Przejrzyj README projektu, problemy (otwarte i zamknięte), listę mailingową i przepełnienie stosu. Nie musisz spędzać godzin na przeglądaniu wszystkiego, ale szybkie poszukiwanie kilku kluczowych haseł to długa droga.
 
 Jeśli nie możesz znaleźć swojego pomysłu w innym miejscu, możesz zrobić krok. Jeśli projekt jest w serwisie GitHub, prawdopodobnie komunikujesz się, otwierając problem lub wysyłając żądanie:
 
 * **Issues** są jak rozpoczęcie rozmowy lub dyskusji
-* **Pull requests** są za rozpoczęcie pracy nad rozwiązaniem
-* **Aby uzyskać lekką komunikację,** takie jak pytanie wyjaśniające lub poradnik, spróbuj zadać pytanie na temat przepełnienia stosu, IRC, Slacka lub innych kanałów czatu, jeśli projekt ma taki
+* **Pull requests** są rozpoczęciem pracy nad rozwiązaniem
+* **Aby uzyskać lekką komunikację,** takie jak pytanie wyjaśniające lub poradnik, spróbuj zadać pytanie Stack Overflow, IRC, Slacka lub innych kanałów komunikacyjnych, jeśli projekt takie ma
 
-Zanim otworzysz problem lub wyciągniesz prośbę, sprawdź dokumenty wspierające projekt (zwykle plik o nazwie CONTRIBUTING lub w README), aby sprawdzić, czy musisz dołączyć coś konkretnego. Na przykład mogą poprosić o przestrzeganie szablonu lub wymagać użycia testów.
+Zanim otworzysz problem lub pull request, sprawdź dokumenty wspierające projekt (zwykle plik o nazwie CONTRIBUTING lub w README), aby sprawdzić, czy musisz dołączyć coś konkretnego. Na przykład projekt może wymagać przestrzegania szablonu lub użycia testów.
 
-Jeśli chcesz wnieść znaczący wkład, otwórz problem, który chcesz zadać, zanim zaczniesz nad nim pracować. Przydatne jest obejrzenie projektu przez chwilę (na GitHub, [możesz kliknąć "Watch"](https://help.github.com/articles/watching-repositories/) aby otrzymywać powiadomienia o wszystkich rozmowach) i poznać członków społeczności przed podjęciem pracy, która może nie zostać zaakceptowana.
+Jeśli chcesz wnieść znaczący wkład, otwórz problem, który chcesz rozwiązać, zanim zaczniesz nad nim pracować. Przydatne jest obserwowanie projektu przez jakiś czas (na GitHub, [możesz kliknąć "Watch"](https://help.github.com/articles/watching-repositories/) aby otrzymywać powiadomienia o wszystkich rozmowach) i poznać członków społeczności przed podjęciem pracy, która może nie zostać zaakceptowana.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -477,57 +477,57 @@ Zazwyczaj powinieneś otworzyć problem w następujących sytuacjach:
 
 Wskazówki dotyczące komunikowania się w issue:
 
-* **Jeśli widzisz otwarty problem, który chcesz rozwiązać,** skomentuj ten problem, aby inni wiedzieli, że na nim jesteś. W ten sposób ludzie są mniej skłonni do powielania twojej pracy.
-* **Jeśli jakiś problem został otwarty jakiś czas temu,** możliwe, że problem został rozwiązany gdzieś indziej lub został już rozwiązany, więc skomentuj, aby poprosić o potwierdzenie przed rozpoczęciem pracy.
+* **Jeśli widzisz otwarty problem, który chcesz rozwiązać,** skomentuj ten problem, aby inni wiedzieli, że nad nim pracujesz. W ten sposób ludzie są mniej skłonni do powielania twojej pracy.
+* **Jeśli jakiś problem został otwarty jakiś czas temu,** możliwe, że problem został przedyskutowany gdzieś indziej lub został już rozwiązany, więc skomentuj, aby poprosić o potwierdzenie przed rozpoczęciem pracy.
 * **Jeśli otworzyłeś problem, ale sam później zorientowałeś się,** skomentuj problem, aby dać innym znać, a następnie zamknij problem. Nawet udokumentowanie tego wyniku stanowi wkład w projekt.
 
 ### Otwieranie pull request
 
-Zwykle należy otworzyć żądanie ściągnięcia w następujących sytuacjach:
+Zwykle należy otworzyć pull request w następujących sytuacjach:
 
 * Prześlij trywialne poprawki (na przykład literówka, zepsuty link lub oczywisty błąd)
 * Rozpocznij pracę nad wkładem, o który zostałeś już poproszony lub który już omawiałeś w numerze
 
-Żądanie ściągnięcia nie musi reprezentować ukończonej pracy. Zwykle lepiej jest wcześniej otworzyć prośbę ściągnięcia, aby inni mogli obserwować twoje postępy lub udzielać informacji zwrotnych. Po prostu zaznacz go jako „WIP” (Work in Progress) w temacie. Zawsze możesz później dodać więcej zatwierdzeń.
+Pull request nie musi reprezentować ukończonej pracy. Zwykle lepiej jest wcześniej otworzyć pull request, aby inni mogli obserwować twoje postępy lub udzielać informacji zwrotnych. Po prostu zaznacz go jako „WIP” (Work in Progress) w temacie. Zawsze możesz później dodać więcej commitów.
 
-Jeśli projekt znajduje się na GitHub, oto jak przesłać żądanie ściągnięcia:
+Jeśli projekt znajduje się na GitHub, oto jak przesłać pull request:
 
-* **[Fork repozytorium](https://guides.github.com/activities/forking/)** i jego klon lokalnie. Podłącz swoje lokalne do oryginalnego repozytorium „upstream”, dodając je jako zdalne. Wyciągaj zmiany z „upstream” często, abyś był na bieżąco, aby po przesłaniu żądania ściągania konflikty scalania były mniej prawdopodobne. (Zobacz bardziej szczegółowe instrukcje [tutaj](https://help.github.com/articles/syncing-a-fork/).)
+* **[Fork repozytorium](https://guides.github.com/activities/forking/)** i jego klon lokalnie. Podłącz swoje lokalne repozytorium do oryginalnego„upstream”, dodając je jako remote. Pobieraj zmiany z „upstream” często, abyś był na bieżąco, aby po stworzeniu pull requesta konflikty w kodzie były mniej prawdopodobne. (Zobacz bardziej szczegółowe instrukcje [tutaj](https://help.github.com/articles/syncing-a-fork/).)
 * **[Stworzenie brancha](https://guides.github.com/introduction/flow/)** dla swoich zmian.
 * **Odniesienie się do wszelkich istotnych issues** lub dokumentacja uzupełniająca w twoim PR (na przykład, "Closes #37.")
-* **Dołączenie zrzutów ekranu przed i po** jeśli zmiany zawierają różnice w HTML / CSS. Przeciągnij i upuść obrazy w treści żądania ściągnięcia.
-* **Sprawdzenie swoich zmian!** Uruchom zmiany w stosunku do istniejących testów, jeśli istnieją, i w razie potrzeby utwórz nowe. Niezależnie od tego, czy testy istnieją, czy nie, upewnij się, że zmiany nie psują istniejącego projektu.
-* **Wkład w styl projektu** najlepiej jak potrafisz. Może to oznaczać stosowanie wcięć, średników lub komentarzy inaczej niż w swoim własnym repozytorium, ale ułatwia opiekunowi scalenie, innym zrozumienie i utrzymanie w przyszłości.
+* **Dołączenie zrzutów ekranu przed i po** jeśli zmiany zawierają różnice w HTML / CSS. Przeciągnij i upuść obrazy w treści pull requesta.
+* **Sprawdzenie swoich zmian!** Uruchom istniejące testy w stosunku do twoich zmian, i w razie potrzeby utwórz nowe. Niezależnie od tego, czy testy istnieją, czy nie, upewnij się, że zmiany nie psują istniejącego projektu.
+* **Wkład w styl projektu** najlepiej jak potrafisz. Może to oznaczać stosowanie wcięć, średników lub komentarzy inaczej niż w swoim własnym repozytorium, co ułatwia opiekunowi scalenie, innym zrozumienie i utrzymanie w przyszłości.
 
 Jeśli to twój pierwszy pull request, sprawdź [Make a Pull Request](http://makeapullrequest.com/), które @kentcdodds utworzone jako instruktażowy samouczek wideo. Możesz także przećwiczyć składanie pull request w repozytorium [First Contributions](https://github.com/Roshanjossey/first-contributions), stworzonym przez @Roshanjossey.
 
 ## Co dzieje się po przesłaniu wkładu
 
-Zrobiłeś to! Gratulujemy zostania współpracownikiem typu open source. Mamy nadzieję, że to pierwszy z wielu.
+Zrobiłeś to! Gratulujemy zostania współpracownikiem typu open source. Mamy nadzieję, że to pierwszy z wielu twoich wkładów.
 
 Po przesłaniu wkładu nastąpi jedna z następujących sytuacji:
 
 ### 😭 Nie dostaniesz odpowiedzi.
 
-Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](../how-to-contribute/#lista-kontrolna-przed-wniesieniem-wkładu) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że Twój wkład nie uzyska odpowiedzi.
+Mam nadzieję, że [sprawdziłeś projekt pod kątem oznak aktywności](../how-to-contribute/#lista-kontrolna-przed-wniesieniem-wkładu) przed wniesieniem wkładu. Jednak nawet w przypadku aktywnego projektu możliwe jest, że twój wkład nie uzyska odpowiedzi.
 
-Jeśli nie otrzymałeś odpowiedzi od ponad tygodnia, możesz grzecznie odpowiedzieć w tym samym wątku, prosząc kogoś o recenzję. Jeśli znasz nazwisko właściwej osoby do sprawdzenia swojego wkładu, możesz @-mentionować ją w tym wątku.
+Jeśli nie otrzymałeś odpowiedzi od ponad tygodnia, możesz grzecznie odpowiedzieć w tym samym wątku, prosząc kogoś o recenzję. Jeśli znasz właściwą osobę do sprawdzenia swojego wkładu, możesz @-mentionować ją w tym wątku.
 
 **Nie** docieraj do tej osoby prywatnie; pamiętaj, że komunikacja publiczna jest niezbędna w projektach typu open source.
 
-Jeśli zrobisz uprzejme uderzenie i nadal nikt nie zareaguje, możliwe, że nikt nigdy nie odpowie. To nie jest wspaniałe uczucie, ale nie zniechęcaj się. Zdarzyło się wszystkim! Istnieje wiele możliwych powodów, dla których nie otrzymałeś odpowiedzi, w tym okoliczności osobiste, które mogą być poza twoją kontrolą. Spróbuj znaleźć inny projekt lub sposób na wniesienie wkładu. Jeśli tak, to dobry powód, aby nie poświęcać zbyt wiele czasu na wkład, zanim inni członkowie społeczności będą zaangażowani i reagują.
+Jeśli uprzejmie kogoś zapytasz i nadal nikt nie zareaguje, możliwe, że nikt nigdy nie odpowie. To nie jest to zbyt miłe uczucie, ale nie zniechęcaj się. Zdarzyło się wszystkim! Istnieje wiele możliwych powodów, dla których nie otrzymałeś odpowiedzi, w tym okoliczności osobiste, które mogą być poza twoją kontrolą. Spróbuj znaleźć inny projekt lub sposób na wniesienie wkładu. Jeśli tak, to dobry powód, aby nie poświęcać zbyt wiele czasu na wkład, zanim inni członkowie społeczności nie będą zaangażowani i nie będą reagować.
 
 ### 🚧 Ktoś prosi o zmianę Twojego wkładu.
 
-Często zdarza się, że będziesz proszony o wprowadzenie zmian do Twojego wkładu, niezależnie od tego, czy jest to opinia na temat zakresu Twojego pomysłu, czy zmiany w kodzie.
+Często zdarza się, że będziesz proszony o wprowadzenie zmian do twojego wkładu, niezależnie od tego, czy jest to opinia na temat zakresu twojego pomysłu, czy zmiany w kodzie.
 
-Gdy ktoś prosi o zmiany, bądź responsywny. Sprawdzili Twój wkład. Otwarcie PR i odejście to zła forma. Jeśli nie wiesz, jak wprowadzić zmiany, zbadaj problem, a następnie poproś o pomoc, jeśli jej potrzebujesz.
+Gdy ktoś prosi o zmiany, bądź responsywny. Sprawdzili twój wkład. Otwarcie PR i odejście to zła forma. Jeśli nie wiesz, jak wprowadzić zmiany, zbadaj problem, a następnie poproś o pomoc, jeśli jej potrzebujesz.
 
-Jeśli nie masz czasu na pracę nad problemem (na przykład, jeśli rozmowa trwa od miesięcy, a Twoja sytuacja uległa zmianie), powiadom opiekuna, aby nie oczekiwał odpowiedzi. Ktoś inny może być szczęśliwy, aby przejąć.
+Jeśli nie masz czasu na pracę nad problemem (na przykład, jeśli rozmowa trwa od miesięcy, a twoja sytuacja uległa zmianie), powiadom opiekuna, aby nie oczekiwał odpowiedzi. Ktoś inny może być szczęśliwy, aby przejąć ten problem.
 
 ### 👎 Twój wkład nie zostanie zaakceptowany.
 
-Twój wkład może, ale nie musi, zostać ostatecznie zaakceptowany. Mam nadzieję, że nie włożyłeś już w to zbyt wiele pracy. Jeśli nie masz pewności, dlaczego nie zostało to zaakceptowane, całkowicie uzasadnione jest poproszenie opiekuna o opinie i wyjaśnienia. Ostatecznie jednak musisz uszanować, że to jest ich decyzja. Nie kłóć się ani nie bądź wrogi. Jeśli się nie zgadzasz, możesz zawsze rozwidlać i pracować nad własną wersją!
+Twój wkład może, ale nie musi, zostać ostatecznie zaakceptowany. Mam nadzieję, że nie włożyłeś już w to zbyt wiele pracy. Jeśli nie masz pewności, dlaczego nie zostało to zaakceptowane, całkowicie uzasadnione jest poproszenie opiekuna o opinie i wyjaśnienia. Ostatecznie jednak musisz uszanować, że to jest ich decyzja. Nie kłóć się ani nie bądź wrogi. Jeśli się nie zgadzasz, możesz zawsze zrobić forka i pracować nad własną wersją!
 
 ### 🎉 Twój wkład zostanie zaakceptowany.
 
@@ -535,4 +535,4 @@ Hooray! Udało ci się wnieść wkład typu open source!
 
 ## Zrobiłeś to!
 
-Niezależnie od tego, czy właśnie wniósłeś swój pierwszy wkład typu open source, czy szukasz nowych sposobów, mamy nadzieję, że zainspirujesz się do działania. Nawet jeśli Twój wkład nie został zaakceptowany, nie zapomnij podziękować, gdy opiekun wkłada wysiłek, aby ci pomóc. Oprogramowanie typu open source jest tworzone przez osoby takie jak Ty: jeden problem, żądanie ściągnięcia, komentarz lub piątka na raz.
+Niezależnie od tego, czy właśnie wniósłeś swój pierwszy wkład typu open source, czy szukasz nowych sposobów, mamy nadzieję, że zainspirujesz się do działania. Nawet jeśli twój wkład nie został zaakceptowany, nie zapomnij podziękować, gdy opiekun wkłada wysiłek, aby ci pomóc. Oprogramowanie typu open source jest tworzone przez osoby takie jak ty: jeden problem, żądanie ściągnięcia, komentarz lub piątka na raz.

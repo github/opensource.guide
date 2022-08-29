@@ -17,12 +17,12 @@ exclude:
   - test
   - vendor
 
-permalink: /:path/
+permalink: "/:path/"
 
 collections:
   articles:
     output: true
-    permalink: /:path/
+    permalink: "/:path/"
 
 defaults:
   - scope:
@@ -36,14 +36,13 @@ defaults:
       layout: article
 
 plugins:
-  - jekyll-mentions
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 
 sass:
   sass_dir: assets/css/
-  style: :compressed
+  style: compressed
   load_paths:
     - node_modules
 
