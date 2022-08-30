@@ -16,4 +16,3 @@ updates:
      interval: daily
     open-pull-requests-limit: 99
     rebase-strategy: disabled
-  
