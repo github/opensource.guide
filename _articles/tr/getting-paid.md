@@ -3,11 +3,6 @@ lang: tr
 title: Açık Kaynak Çalışmalar İçin Ödeme Alma
 description: Zamanınız veya projeniz için maddi destek alarak açık kaynak çabanızı sürdürün.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: Neden bazı insanlar finansal destek ister?
-  funding-your-own-time: Kendi zamanınızı finanse etme
-  finding-funding-for-your-project: Projeniz için finansman bulma
-  building-a-case-for-financial-support: Finansal destek için bir süreç oluşturma
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -139,7 +134,7 @@ Projenize bağlı olarak, ticari destek, barındırılan seçenekler veya ek öz
 * **[Travis CI](https://github.com/travis-ci)** ürünlerinin ücretli sürümlerini sunuyor
 * **[Ghost](https://github.com/TryGhost/Ghost)** ücretli bir yönetim servisi olan kar amacı gütmeyen bir kurumdur.
 
-[Npm](https://github.com/npm/npm) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
+[Npm](https://github.com/npm/cli) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
 
 ### Hibe fonu için başvur
 

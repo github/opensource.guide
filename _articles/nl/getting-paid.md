@@ -3,11 +3,6 @@ lang: nl
 title: Betaald worden voor open source-werk
 description: Ondersteun uw werk in open source door financiële steun te krijgen voor uw tijd of uw project.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "Waarom sommige mensen financiële steun zoeken"
-  funding-your-own-time: "Je eigen tijd financieren"
-  finding-funding-for-your-project: "Financiering vinden voor uw project"
-  building-a-case-for-financial-support: "Het bouwen van een case voor financiële steun"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -158,7 +153,7 @@ Afhankelijk van uw project kunt u mogelijk kosten in rekening brengen voor comme
 * **[Travis CI](https://github.com/travis-ci)** biedt betaalde versies van zijn product
 * **[Ghost](https://github.com/TryGhost/Ghost)** is een non-profitorganisatie met een betaalde beheerde service
 
-Sommige populaire projecten, zoals [npm](https://github.com/npm/npm) en [Docker](https://github.com/docker/docker), halen zelfs risicokapitaal op om de groei van hun bedrijf te ondersteunen.
+Sommige populaire projecten, zoals [npm](https://github.com/npm/cli) en [Docker](https://github.com/docker/docker), halen zelfs risicokapitaal op om de groei van hun bedrijf te ondersteunen.
 
 ### Subsidie ​​aanvragen
 

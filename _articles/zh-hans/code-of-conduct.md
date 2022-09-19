@@ -21,7 +21,7 @@ redirect_from: /zh-cn/code-of-conduct/
 
 ## 建立一个行为守则
 
-尽可能早地建立行为守则，当你们第一次创建项目的时候。
+当你们第一次创建项目的时候，尽可能早的建立行为守则。
 
 此外，说出你们的要求。行为守则的描述遵循如下几点：
 
@@ -32,7 +32,7 @@ redirect_from: /zh-cn/code-of-conduct/
 
 无论你们在哪里，请使用已有的行为守则。[贡献者盟约](https://www.contributor-covenant.org/)是一个被超过40,000个开源项目（包括Kubernetes, Rails和Swift）所使用的行为守则。
 
-[Django行为守则](https://www.djangoproject.com/conduct/)和[Citizen行为守则](http://citizencodeofconduct.org/)都是非常好的行为守则。
+[Django行为守则](https://www.djangoproject.com/conduct/)和[Citizen行为守则](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/)都是非常好的行为守则。
 
 请将CODE_OF_CONDUCT文件放在你们项目的根目录，并在README中附上其链接，这样对你们的社区是可见的。
 
@@ -41,7 +41,7 @@ redirect_from: /zh-cn/code-of-conduct/
 <aside markdown="1" class="pquote">
   一份行为守则没有（或者不能）执行会比没有行为守则更糟糕。它释放这样一个信息：行为守则或者尊重在你们的社区并不重要。
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
@@ -57,7 +57,7 @@ redirect_from: /zh-cn/code-of-conduct/
 
 请不要忘记了有人可能想要报告某些人违规接受了这些报告。在这样的情况下，也给他们举报那些人的机会。例如，@ctb和@mr-c [在他们的项目上解释](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst)， [khmer](https://github.com/dib-lab/khmer)：
 
-> 对于滥用现象，扰乱或者其他不可接受的行为都可以向**khmer-project@idyll.org**（仅由C. Titus Brown和Michael R. Crusoe处理）发送邮件。要报告涉及其中任何一个的问题，请电邮**Judi Brown Clarke，Ph.D.** BEACON行动进化研究中心的多元化主任，NSF科学技术中心。
+> 对于滥用现象，扰乱或者其他不可接受的行为都可以向**khmer-project@idyll.org**（仅由C. Titus Brown和Michael R. Crusoe处理）发送邮件。要报告涉及其中任何一个的问题，请发送邮件给**Judi Brown Clarke，Ph.D.** BEACON行动进化研究中心的多元化主任，NSF科学技术中心。
 
 为了获得灵感，可以查阅Django的[执行手册](https://www.djangoproject.com/conduct/enforcement-manual/)（你们是否需要如此详细的手册，这取决于你们的项目）。
 

@@ -12,23 +12,23 @@ related:
 
 ## Entendiendo el gobierno de su proyecto en crecimiento
 
-Tu proyecto est&aacute; creciendo, la gente est&aacute; comprometida, y estas comprometido a mantener esto en marcha. En esta etapa, es posible que te preguntes c&oacute;mo incorporar a los contribuyentes regulares de proyectos en su flujo de trabajo, ya sea para darle a alguien el compromiso de acceso o para resolver los debates de la comunidad. Si tiene preguntas, tenemos respuestas.
+Tu proyecto est&aacute; creciendo, la gente est&aacute; comprometida, y est&aacute;s comprometido a mantener esto en marcha. En esta etapa, es posible que te preguntes c&oacute;mo incorporar a los contribuyentes regulares de proyectos en su flujo de trabajo, ya sea para darle a alguien el compromiso de acceso o para resolver los debates de la comunidad. Si tiene preguntas, tenemos respuestas.
 
 ## &iquest;Cu&aacute;les son ejemplos de roles formales utilizados en proyectos de c&oacute;digo abierto?
 
 Muchos proyectos siguen estructuras similares para reconocer y asignar roles a los contribuyentes.
 
-El significado de estos roles queda a tu criterio. Aqu&iacute; puedes encontrar algunos tipos de rol que quiz&iacute;s reconozcas:
+El significado de estos roles queda a tu criterio. Aqu&iacute; puedes encontrar algunos tipos de rol que quiz&aacute;s reconozcas:
 
 * **Mantenedor**
 * **Contribuyente**
 * **Committer**
 
-**Para algunos proyectos, los "mantenedores"** son las únicas personas en el proyecto con permisos de commit. En otros proyectos, son simplemente personas que estan listadas en el archivo README.md como mantenedores.
+**Para algunos proyectos, los "mantenedores"** son las únicas personas en el proyecto con permisos de commit. En otros proyectos, son simplemente personas que est&aacute;n listadas en el archivo README.md como mantenedores.
 
 Un mantenedor no necesariamente tiene que ser alguien que escribe c&oacute;digo para su proyecto. Podr&iacute;a ser alguien que ha hecho mucho trabajo evangelizando su proyecto, o documentaci&oacute;n escrita que hizo el proyecto m&aacute;s accesible a los dem&aacute;s. Independientemente de lo que hacen d&iacute;a a d&iacute;a, un mantenedor es probablemente alguien que se siente responsable sobre la direcci&oacute;n del proyecto y se ha comprometido a mejorarlo.
 
-**Un "contribuyente" puede ser cualquiera** que comente en una issue o un pull request, personas que agreguen valor al proyecto (sin importar si sólo está clasificando issues, escribiendo c&oacute;digo u organizando eventos), o cualquiera con un merged pull request (esta es la definici&oacute;n mas estrecha de un contribuyente).
+**Un "contribuyente" puede ser cualquiera** que comente en una issue o un pull request, personas que agreguen valor al proyecto (sin importar si sólo está clasificando issues, escribiendo c&oacute;digo u organizando eventos), o cualquiera con un merged pull request (esta es la definici&oacute;n m&aacute;s estrecha de un contribuyente).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -56,7 +56,7 @@ La formalizaci&oacute;n de tus funciones de liderazgo ayuda a las personas a sen
 
 Para un proyecto m&aacute;s peque&ntilde;o, designar l&iacute;deres puede ser tan simple como agregar sus nombres a su archivo de texto README o CONTRIBUTORS.
 
-Por un proyecto mas grande, si tienes una pagina web, crea una p&aacute;gina de equipo o lista tus l&iacute;deres de proyecto all&iacute;. Por ejemplo, [PostgreSQL](https://github.com/postgres/postgres/) tiene una [p&aacute;gina exhaustiva de equipo](https://www.postgresql.org/community/contributors/) con perfiles cortos para cada contribuyente.
+Por un proyecto m&aacute;s grande, si tienes una p&aacute;gina web, crea una p&aacute;gina de equipo o lista tus l&iacute;deres de proyecto all&iacute;. Por ejemplo, [PostgreSQL](https://github.com/postgres/postgres/) tiene una [p&aacute;gina exhaustiva de equipo](https://www.postgresql.org/community/contributors/) con perfiles cortos para cada contribuyente.
 
 Si tu proyecto tiene una comunidad de contribuidores muy activa, puede formar un "equipo central" de mantenedores, o incluso subcomisiones de personas que se apropian de diferentes &aacute;reas tem&aacute;ticas (por ejemplo, seguridad, clasificaci&oacute;n de temas o conducta comunitaria). Permite que la gente se auto-organice y se ofrezca como voluntaria para los papeles que m&aacute;s le entusiasman, en lugar de asignarlos.
 
@@ -75,7 +75,7 @@ Herramientas como [Vossibility](https://github.com/icecrime/vossibility-stack) p
 
 Por &uacute;ltimo, si su proyecto est&aacute; en GitHub, considere la posibilidad de mover su proyecto de su cuenta personal a una organizaci&oacute;n y agregar al menos un administrador de copias de seguridad. [Las organizaciones GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitan la administraci&oacute;n de permisos y m&uacute;ltiples repositorios y protegen el legado de su proyecto mediante [la propiedad compartida](../building-community/#comparte-la-propiedad-de-tu-proyecto).
 
-## &iquest;Cuando le puedo dar acceso a hacer commits a alguien?
+## &iquest;Cu&aacute;ndo le puedo dar acceso a hacer commits a alguien?
 
 Algunas personas piensan que debe dar acceso de commits a todos los que hacen una contribuci&oacute;n. Hacerlo podr&iacute;a alentar a m&aacute;s personas a sentirse due&ntilde;as de su proyecto.
 
@@ -97,7 +97,7 @@ Hay tres estructuras de gobierno comunes asociadas a los proyectos de c&oacute;d
 
 * **BDFL:** BDFL significa "Benevolent Dictator for Life" (en espa&ntilde;ol, "Dictador benevolente para la vida"). Bajo esta estructura, una persona (generalmente el autor inicial del proyecto) tiene la palabra final en todas las decisiones importantes del proyecto. [Python](https://github.com/python) es un ejemplo cl&aacute;sico. Los proyectos m&aacute;s peque&ntilde;os son probablemente BDFL por defecto, porque s&oacute;lo hay uno o dos mantenedores. Un proyecto que se origin&oacute; en una empresa tambi&eacute;n podr&iacute;a caer en la categor&iacute;a BDFL.
 
-* **Meritocracia:** **(Nota: el t&eacute;rmino "meritocracia" tiene connotaciones negativas para algunas comunidades y tiene un [historia social y pol&iacute;tico compleja](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Bajo una meritocracia, a los contribuyentes activos del proyecto (Aquellos que demuestran "m&eacute;rito") se les da un papel formal de toma de decisiones. Las decisiones se toman generalmente en base a un consenso de voto puro. El concepto de meritocracia fue iniciado por la [Fundaci&oacute;n Apache](https://www.apache.org/); [Todos los proyectos de Apache](https://www.apache.org/index.html#projects-list) son meritocracias. Las contribuciones s&oacute;lo pueden ser hechas por individuos que representan a s&iacute; mismos, no por una empresa.
+* **Meritocracia:** **(Nota: el t&eacute;rmino "meritocracia" tiene connotaciones negativas para algunas comunidades y tiene un [historia social y pol&iacute;tico compleja](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Bajo una meritocracia, a los contribuyentes activos del proyecto (aquellos que demuestran "m&eacute;rito") se les da un papel formal de toma de decisiones. Las decisiones se toman generalmente en base a un consenso de voto puro. El concepto de meritocracia fue iniciado por la [Fundaci&oacute;n Apache](https://www.apache.org/); [Todos los proyectos de Apache](https://www.apache.org/index.html#projects-list) son meritocracias. Las contribuciones s&oacute;lo pueden ser hechas por individuos que se representan a s&iacute; mismos, no por una empresa.
 
 * **Contribuci&oacute;n liberal:** Bajo un modelo de contribuci&oacute;n liberal, las personas que hacen m&aacute;s trabajo son reconocidas como las m&aacute;s influyentes, pero esto se basa en el trabajo actual y no en contribuciones hist&oacute;ricas. Las decisiones importantes del proyecto se toman sobre la base de un proceso de b&uacute;squeda de consenso (discutir quejas mayores) en lugar de voto puro, y tratar de incluir tantas perspectivas de la comunidad como sea posible. Ejemplos populares de proyectos que utilizan un modelo de contribuci&oacute;n liberal incluyen [Node.js](https://foundation.nodejs.org/) y [Rust](https://www.rust-lang.org/).
 
@@ -129,7 +129,7 @@ Los proyectos exitosos de c&oacute;digo abierto se utilizan por muchas personas 
 
 A medida que el proyecto se utiliza m&aacute;s ampliamente, las personas que tienen experiencia en ella comienzan a estar m&aacute;s demandados - ¡puedes ser uno de ellos! - y a veces se les paga por el trabajo que realizan en el proyecto.
 
-Es importante tratar la actividad comercial como algo normal y como otra fuente de energ&iacute;a de desarrollo. Por supuesto, los desarrolladores pagados no deben recibir un trato especial sobre los no pagados; Cada contribuci&oacute;n debe ser evaluada por sus m&eacute;ritos t&eacute;cnicos. Sin embargo, la gente debe sentirse c&oacute;moda participando en la actividad comercial, y sentirse c&oacute;moda diciendo sus casos de uso al argumentar a favor de una mejora o caracter&iacute;stica en particular.
+Es importante tratar la actividad comercial como algo normal y como otra fuente de energ&iacute;a de desarrollo. Por supuesto, los desarrolladores pagados no deben recibir un trato especial sobre los no pagados. Cada contribuci&oacute;n debe ser evaluada por sus m&eacute;ritos t&eacute;cnicos. Sin embargo, la gente debe sentirse c&oacute;moda participando en la actividad comercial, y sentirse c&oacute;moda diciendo sus casos de uso al argumentar a favor de una mejora o caracter&iacute;stica en particular.
 
 "Comercial" es completamente compatible con "c&oacute;digo abierto". "Comercial" s&oacute;lo significa que existe dinero involucrado en alguna parte - que el software se utiliza en el comercio, que es cada vez m&aacute;s probable como un proyecto gana la adopci&oacute;n. (Cuando se utiliza software de c&oacute;digo abierto como parte de un producto que no es de c&oacute;digo abierto, el producto general sigue siendo un software "propietario", aunque, al igual que el c&oacute;digo abierto, podr&iacute;a utilizarse con fines comerciales o no comerciales).
 

@@ -2,7 +2,8 @@
 <nav class="main-nav">
   <div class="container-lg mx-auto clearfix">
     <div class="float-sm-right">
-      <ul class="main-links d-flex flex-wrap flex-items-stretch flex-justify-center border-left border-bottom border-sm-0 list-style-none">
+      <ul
+        class="main-links d-flex flex-wrap flex-items-stretch flex-justify-center border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
           <a class="d-block p-4" href="https://github.com/github/opensource.guide#readme">
             {{ t.nav.about }}
@@ -19,13 +20,13 @@
             <select id="language" class="form-select">
               {% assign locales = site.data.locales | sort %}
               {% for locale in locales %}
-                {% assign lang = locale[0] %}
-                {% assign locale_name = locale[1][lang].locale_name %}
-                {% if page.lang == lang %}
-                <option value="{{ lang }}" selected="selected">{{ locale_name }}</option>
-                {% else %}
-                <option value="{{ lang }}">{{ locale_name }}</option>
-                {% endif %}
+              {% assign lang = locale[0] %}
+              {% assign locale_name = locale[1][lang].locale_name %}
+              {% if page.lang == lang %}
+              <option value="{{ lang }}" selected="selected">{{ locale_name }}</option>
+              {% else %}
+              <option value="{{ lang }}">{{ locale_name }}</option>
+              {% endif %}
               {% endfor %}
             </select>
           </div>

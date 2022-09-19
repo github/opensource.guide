@@ -217,7 +217,7 @@ Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e c
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Um checklist antes de você contribuir
 
@@ -236,7 +236,7 @@ Aqui está um checklist útil para avaliar se um projeto é bom para novos contr
 
 **O projeto aceita contribuições ativamente**
 
-Veja a atividade de commit no branch master. No GitHub, você pode ver essas informações na página inicial de um repositório.
+Veja a atividade de commit no branch main. No GitHub, você pode ver essas informações na página inicial de um repositório.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">

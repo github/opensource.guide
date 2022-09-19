@@ -99,7 +99,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  உண்மையாக, \[ஆவணங்கள்\] மிகவும் முக்கியம். இதுவரை ஆவணங்கள் Babel-ன் ஒரு முக்கிய அம்சமாக இருந்தது. திட்டத்தின் சில பகுதிகள் பங்களிப்பை உபயோகப்படுத்திக் கொள்வதோடு, பத்தியில் இங்கும் அங்கும் மாற்றம் செய்வதுகூட பாராட்டத்தக்கதாகும்.
+  உண்மையாக, \[ஆவணங்கள்\] மிகவும் முக்கியம். இதுவரை ஆவணங்கள் Babel-ன் ஒரு முக்கிய அம்சமாக இருந்தது. திட்டத்தின் சில பகுதிகள் பங்களிப்பை உபயோகப்படுத்திக் கொள்வதோடு, பத்தியில் இங்கும் அங்கும் மாற்றம் செய்வதுகூட பாராட்டத்தக்கதாகும்.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["பங்களிப்பாளர்களுக்கு அழைப்பு"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -217,7 +217,7 @@ related:
 * [Up For Grabs](https://up-for-grabs.net/)
 * [பங்களிப்பாளர்-நிஞ்ஜா](https://contributor.ninja)
 * [முதல் பங்களிப்புகள்](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### பங்களிக்கும் முன் ஒரு சரிபார்ப்புப் பட்டியல்
 

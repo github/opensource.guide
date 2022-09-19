@@ -40,7 +40,7 @@ related:
 
 **"커미터"**라는 용어는 다른 기여 유형에 대비해 커밋이라는 특정 권한과 책임을 가진 사람을 구분하고자 사용합니다.
 
-프로젝트 역할은 여러분이 원하는 대로 정의할 수 있지만, 다양한 유형의 기여를 이끌어내기 위해 되도록 [넓은 정의를 사용하세요](../how-to-contribute/#what-it-means-to-contribute). 전문적인 기술 수준과 별개로 프로젝트에 대단한 기여를 한 사람들에게 리더십 역할을 부여하며 그들에게 답례를 표할 수 있습니다.
+프로젝트 역할은 여러분이 원하는 대로 정의할 수 있지만, 다양한 유형의 기여를 이끌어내기 위해 되도록 [넓은 정의를 사용하세요](../how-to-contribute/#기여한다는-것의-의미). 전문적인 기술 수준과 별개로 프로젝트에 대단한 기여를 한 사람들에게 리더십 역할을 부여하며 그들에게 답례를 표할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">

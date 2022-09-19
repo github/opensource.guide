@@ -118,7 +118,7 @@ Unresponsive Betreuer\*innen werden zum Flaschenhals für Open-Source-Projekte. 
 
 [Untersuchungen von Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) deuten darauf hin, dass eine schnelle und freundliche Reaktion der Maintainer\*innen Mitwirkende zu weiteren Beiträgen ermutigt.
 
-Überlegen Sie, wie lange es dauert, bis Sie (oder ein anderer Betreuer) auf Beiträge reagieren, egal ob es sich um ein Issue oder ein Pull Request handelt. Die Reaktion muss keine Maßnahme sein; Auch ein einfaches : _"Vielen Dank für diesen Beitrag! Ich werde ihn innerhalb einer Woche überprüfen."_ zählt.
+Überlegen Sie, wie lange es dauert, bis Sie (oder ein\*e andere\*r Betreuer\*in) auf Beiträge reagieren, egal ob es sich um ein Issue oder ein Pull Request handelt. Die Reaktion muss keine Maßnahme sein; Auch ein einfaches : _"Vielen Dank für diesen Beitrag! Ich werde ihn innerhalb einer Woche überprüfen."_ zählt.
 
 Sie können auch die Zeit messen, die benötigt wird, um zwischen den einzelnen Phasen des Beitragsprozesses zu wechseln, wie z.B:
 

@@ -245,7 +245,7 @@ Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecke
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Eine Checkliste, bevor Sie einen Beitrag leisten
 
@@ -268,7 +268,7 @@ Hier ist eine praktische Checkliste, um zu beurteilen, ob ein Projekt für neue 
 
 **Das Projekt nimmt aktiv Beiträge entgegen**
 
-Sehen Sie sich die Commit-Aktivität auf dem Master-Branch an. Auf GitHub können Sie diese Informationen auf der Repository-Hauptsite sehen.
+Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können Sie diese Informationen auf der Repository-Hauptsite sehen.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">

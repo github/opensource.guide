@@ -31,7 +31,7 @@ Neben der Klarstellung Ihrer Erwartungen beschreibt ein Verhaltenskodex Folgende
 
 Wo immer Sie können, nutzen Sie Vorhandenes. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein Verhaltenskodex, der von über 40.000 Open-Source-Projekten wie Kubernetes, Rails und Swift verwendet wird.
 
-Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Citizen Code of Conduct](http://citizencodeofconduct.org/) sind ebenfalls zwei gute Beispiele.
+Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sind ebenfalls zwei gute Beispiele.
 
 Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und machen Sie sie für Ihre Community sichtbar, indem Sie sie von Ihrer CONTRIBUTING- oder README-Datei verlinken.
 
@@ -44,7 +44,7 @@ Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und 
   _A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community._
 
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
