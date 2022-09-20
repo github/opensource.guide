@@ -145,7 +145,7 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
 </aside>
 
 * **何をリリースすべきですか？：** [(ほぼ)すべて？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) もし法務部門が企業のオープンソース戦略を理解し、それに投資している場合は、あなたの努力を妨害するよりもむしろ助けとなってくれるでしょう。
-* **コンプライアンス：** たとえあなたの企業が 1 つもオープンソースプロジェクトをリリースしていないとしても、他の人のオープンソースソフトウェアを使っているはずです。 [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
+* **コンプライアンス：** たとえあなたの企業が 1 つもオープンソースプロジェクトをリリースしていないとしても、他の人のオープンソースソフトウェアを使っているはずです。 [Awareness and process](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
 
 <aside markdown="1" class="pquote">
 組織は、\[「寛容」と「コピーレフト」\]の両方のカテゴリにフィットするライセンス戦略、コンプライアンス戦略を確立しなければなりません。まずは使っているオープンソースソフトウェアとそのサブコンポーネント、依存関係に適用されているライセンス条項の記録を保持する所から始めましょう。

@@ -151,7 +151,7 @@ W dłuższej perspektywie Twój zespół prawny może zrobić więcej, aby pomó
 </aside>
 
 * **Co wydać:** [(Prawie) wszystko?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Jeśli Twój zespół prawny rozumie i jest zaangażowany w strategię otwartego oprogramowania firmy, najlepiej będzie Ci w stanie pomóc, a nie utrudnić wysiłki.
-* **Zgodność:** Nawet jeśli Twoja firma nie wydaje żadnych projektów typu open source, korzysta z oprogramowania innego typu. [Świadomość i proces](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) może zapobiegać bólom głowy, opóźnieniom produktowym, i procesom sądowym.
+* **Zgodność:** Nawet jeśli Twoja firma nie wydaje żadnych projektów typu open source, korzysta z oprogramowania innego typu. [Świadomość i proces](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) może zapobiegać bólom głowy, opóźnieniom produktowym, i procesom sądowym.
 
 <aside markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
