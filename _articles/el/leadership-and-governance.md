@@ -10,147 +10,147 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## Κατανόηση της διακυβέρνησης για το αναπτυσσόμενο πρότζεκτ σας
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Το πρότζεκτ σας αναπτύσσεται, οι άνθρωποι είναι αφοσιωμένοι και είστε αποφασισμένοι να το συνεχίσετε. Σε αυτό το στάδιο, μπορεί να αναρωτιέστε πώς να ενσωματώσετε τους τακτικούς συνεργάτες του πρότζεκτ στη ροή εργασίας σας, είτε πρόκειται για την παροχή σε κάποιον πρόσβασης στη δέσμευση είτε για την επίλυση των συζητήσεων της κοινότητας. Αν έχετε απορίες, έχουμε απαντήσεις.
 
-## What are examples of formal roles used in open source projects?
+## Ποια είναι παραδείγματα επίσημων ρόλων που χρησιμοποιούνται σε πρότζεκτ ανοικτού κώδικα;
 
-Many projects follow a similar structure for contributor roles and recognition.
+Πολλά πρότζεκτ ακολουθούν μια παρόμοια δομή για τους ρόλους και την αναγνώριση των συνεισφερόντων.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Το τι σημαίνουν στην πραγματικότητα αυτοί οι ρόλοι, όμως, εξαρτάται αποκλειστικά από εσάς. Ακολουθούν μερικοί τύποι ρόλων που μπορεί να αναγνωρίσετε:
 
-* **Maintainer**
+* **Συντηρητής**
 * **Contributor**
 * **Committer**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**Για ορισμένα πρότζεκτ, οι "συντηρητές"** είναι τα μόνα άτομα σε ένα πρότζεκτ με πρόσβαση στa commits. Σε άλλα πρότζεκτ, είναι απλά τα άτομα που αναφέρονται στο README ως συντηρητές.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+Ένας συντηρητής δεν χρειάζεται απαραίτητα να είναι κάποιος που γράφει κώδικα για το πρότζεκτ σας. Θα μπορούσε να είναι κάποιος που έχει κάνει πολλή δουλειά για να ευαγγελιστεί το πρότζεκτ σας, ή έχει γράψει τεκμηρίωση που έκανε το πρότζεκτ πιο προσιτό σε άλλους. Ανεξάρτητα από το τι κάνει καθημερινά, ένας συντηρητής είναι πιθανότατα κάποιος που αισθάνεται την ευθύνη για την κατεύθυνση του πρότζεκτ και δεσμεύεται να το βελτιώσει.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**Ένας "contributor" θα μπορούσε να είναι οποιοσδήποτε** που σχολιάζει ένα θέμα ή ένα pull request, άνθρωποι που προσθέτουν αξία στο πρότζεκτ (είτε πρόκειται για τη διαχείριση θεμάτων, τη συγγραφή κώδικα ή τη διοργάνωση εκδηλώσεων), ή οποιοσδήποτε με ένα συγχωνευμένο pull request (ίσως ο στενότερος ορισμός ενός contributor).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[Για το Node.js,\] κάθε άτομο που εμφανίζεται για να σχολιάσει ένα θέμα ή να υποβάλει κώδικα είναι μέλος της κοινότητας ενός πρότζεκτ. Και μόνο το γεγονός ότι είναι σε θέση να τους βλέπεις σημαίνει ότι είναι πια συνεισφέροντες και όχι απλώς χρήστες.
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
+- @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**Ο όρος "committer"** θα μπορούσε να χρησιμοποιηθεί για να διακρίνει την πρόσβαση στα commits, η οποία είναι ένας συγκεκριμένος τύπος ευθύνης, από άλλες μορφές συνεισφοράς.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Ενώ μπορείτε να ορίσετε τους ρόλους του πρότζεκτ σας με όποιον τρόπο θέλετε, [εξετάστε το ενδεχόμενο να χρησιμοποιήσετε ευρύτερους ορισμούς](../how-to-contribute/#what-it-means-to-contribute) για να ενθαρρύνετε περισσότερες μορφές συνεισφοράς. Μπορείτε να χρησιμοποιήσετε τους ρόλους ηγεσίας για να αναγνωρίσετε επίσημα τους ανθρώπους που έχουν συνεισφέρει εξαιρετικά στο πρότζεκτ σας, ανεξάρτητα από τις τεχνικές τους δεξιότητες.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  Μπορεί να με ξέρετε ως τον "εφευρέτη" του Django... αλλά στην πραγματικότητα είμαι ο τύπος που προσλήφθηκε για να δουλέψει πάνω σε ένα πράγμα ένα χρόνο αφότου είχε ήδη φτιαχτεί. (...) Οι άνθρωποι υποψιάζονται ότι είμαι επιτυχημένος λόγω των προγραμματιστικών μου ικανοτήτων... αλλά είμαι στην καλύτερη περίπτωση ένας μέτριος προγραμματιστής.
   <p markdown="1" class="pquote-credit">
-— @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
+- @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Πώς μπορώ να επισημοποιήσω αυτούς τους ηγετικούς ρόλους;
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Η επισημοποίηση των ηγετικών σας ρόλων βοηθάει τους ανθρώπους να αισθάνονται ιδιοκτησία και λέει στα άλλα μέλη της κοινότητας σε ποιον να απευθυνθούν για βοήθεια.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+Για ένα μικρότερο πρότζεκτ, ο ορισμός των ηγετών μπορεί να είναι τόσο απλός όσο η προσθήκη των ονομάτων τους στο README ή σε ένα αρχείο κειμένου CONTRIBUTORS.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+Για ένα μεγαλύτερο πρότζεκτ, αν έχετε έναν ιστότοπο, δημιουργήστε μια σελίδα ομάδας ή αναφέρετε εκεί τους επικεφαλής του πρότζεκτ σας. Για παράδειγμα, το [Postgres](https://github.com/postgres/postgres/) έχει μια [ολοκληρωμένη σελίδα ομάδας](https://www.postgresql.org/community/contributors/) με σύντομα προφίλ για κάθε συνεισφέροντα.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Εάν το πρότζεκτ σας έχει μια πολύ ενεργή κοινότητα συνεισφερόντων, μπορείτε να δημιουργήσετε μια "βασική ομάδα" συντηρητών ή ακόμη και υποεπιτροπές ατόμων που αναλαμβάνουν την ευθύνη για διαφορετικούς τομείς θεμάτων (για παράδειγμα, ασφάλεια, διαχείριση θεμάτων ή συμπεριφορά της κοινότητας). Αφήστε τους ανθρώπους να αυτοοργανωθούν και να αναλάβουν εθελοντικά τους ρόλους που τους ενθουσιάζουν περισσότερο, αντί να τους αναθέσετε.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[Εμείς\] συμπληρώνουμε τη βασική ομάδα με διάφορες "υποομάδες". Κάθε υποομάδα επικεντρώνεται σε έναν συγκεκριμένο τομέα, π.χ. στο σχεδιασμό γλωσσών ή στις βιβλιοθήκες. (...) Για να εξασφαλιστεί ο συνολικός συντονισμός και ένα ισχυρό, συνεκτικό όραμα για το πρότζεκτ ως σύνολο, κάθε υποομάδα καθοδηγείται από ένα μέλος της βασικής ομάδας.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
+- ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
+Οι ηγετικές ομάδες μπορεί να θέλουν να δημιουργήσουν ένα καθορισμένο κανάλι (όπως στο IRC) ή να συναντώνται τακτικά για να συζητούν το πρότζεκτ (όπως στο Gitter ή στο Google Hangout). Μπορείτε ακόμη και να κάνετε αυτές τις συναντήσεις δημόσιες ώστε να μπορούν να τις ακούνε και άλλοι. Το [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), για παράδειγμα, [φιλοξενεί ώρες γραφείου κάθε εβδομάδα](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+Αφού καθιερώσετε ηγετικούς ρόλους, μην ξεχάσετε να τεκμηριώσετε πώς οι άνθρωποι μπορούν να τους αποκτήσουν! Καθορίστε μια σαφή διαδικασία για το πώς κάποιος μπορεί να γίνει συντηρητής ή να ενταχθεί σε μια υποεπιτροπή του πρότζεκτ σας και γράψτε την στο GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Εργαλεία όπως το [Vossibility](https://github.com/icecrime/vossibility-stack) μπορούν να σας βοηθήσουν να παρακολουθείτε δημόσια ποιος συνεισφέρει (ή δεν συνεισφέρει) στο πρότζεκτ. Η τεκμηρίωση αυτών των πληροφοριών αποφεύγει την αντίληψη της κοινότητας ότι οι συντηρητές είναι μια κλίκα που παίρνει τις αποφάσεις της ιδιωτικά.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#μοιραστείτε-την-ιδιοκτησία-του-πρότζεκτ-σας).
+Τέλος, αν το πρότζεκτ σας βρίσκεται στο GitHub, εξετάστε το ενδεχόμενο να μεταφέρετε το πρότζεκτ σας από τον προσωπικό σας λογαριασμό σε έναν Οργανισμό και να προσθέσετε τουλάχιστον έναν εφεδρικό διαχειριστή. Οι [Οργανισμοί του GitHub](https://help.github.com/articles/creating-a-new-organization-account/) διευκολύνουν τη διαχείριση των δικαιωμάτων και των πολλαπλών αποθετηρίων και προστατεύουν την κληρονομιά του πρότζεκτ σας μέσω της [κοινής ιδιοκτησίας](../building-community/#μοιραστείτε-την-ιδιοκτησία-του-πρότζεκτ-σας).
 
-## When should I give someone commit access?
+## Πότε θα πρέπει να δώσω σε κάποιον πρόσβαση στα commits;
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Κάποιοι πιστεύουν ότι πρέπει να δίνετε πρόσβαση στα commits σε όλους όσους συνεισφέρουν. Κάτι τέτοιο θα μπορούσε να ενθαρρύνει περισσότερους ανθρώπους να νιώσουν ιδιοκτησία του πρότζεκτ σας.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+Από την άλλη πλευρά, ειδικά για μεγαλύτερα, πιο σύνθετα πρότζεκτ, μπορεί να θέλετε να δώσετε πρόσβαση στη δέσμευση μόνο σε άτομα που έχουν αποδείξει τη δέσμευσή τους. Δεν υπάρχει ένας μόνο σωστός τρόπος - κάντε αυτό που σας κάνει να αισθάνεστε πιο άνετα!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Αν το πρότζεκτ σας βρίσκεται στο GitHub, μπορείτε να χρησιμοποιήσετε το [protected branches](https://help.github.com/articles/about-protected-branches/) για να διαχειριστείτε ποιος μπορεί να προωθήσει σε ένα συγκεκριμένο κλάδο και υπό ποιες συνθήκες.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  Κάθε φορά που κάποιος σας στέλνει ένα pull request, δώστε του πρόσβαση στα commits στο πρότζεκτ σας. Αν και μπορεί να ακούγεται απίστευτα ανόητο στην αρχή, η χρήση αυτής της στρατηγικής θα σας επιτρέψει να απελευθερώσετε την πραγματική δύναμη του GitHub. (...) Μόλις οι άνθρωποι έχουν πρόσβαση στα commits, δεν ανησυχούν πλέον ότι η διόρθωσή τους μπορεί να μην ενσωματωθεί... με αποτέλεσμα να βάλουν πολύ περισσότερη δουλειά σε αυτήν.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
+- @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Ποιες είναι μερικές από τις συνήθεις δομές διακυβέρνησης για πρότζεκτ ανοικτού κώδικα;
 
-There are three common governance structures associated with open source projects.
+Υπάρχουν τρεις κοινές δομές διακυβέρνησης που σχετίζονται με πρότζεκτ ανοικτού κώδικα.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** Το BDFL σημαίνει "καλοπροαίρετος δικτάτορας για όλη τη ζωή" (Benevolent Dictator For Life). Σύμφωνα με αυτή τη δομή, ένα άτομο (συνήθως ο αρχικός ιδιοκτήτης του πρότζεκτ) έχει τον τελικό λόγο σε όλες τις σημαντικές αποφάσεις του πρότζεκτ. Η [Python](https://github.com/python) είναι ένα κλασικό παράδειγμα. Τα μικρότερα πρότζεκτ είναι πιθανώς εξ ορισμού BDFL, επειδή υπάρχουν μόνο ένας ή δύο συντηρητές. Ένα πρότζεκτ που προέρχεται από μια εταιρεία μπορεί επίσης να εμπίπτει στην κατηγορία BDFL.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Μεριτοκρατία:** **(Σημείωση: ο όρος "αξιοκρατία" έχει αρνητική χροιά για ορισμένες κοινότητες και έχει μια [πολύπλοκη κοινωνική και πολιτική ιστορία](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Στο πλαίσιο μιας αξιοκρατίας, στους ενεργούς συνεισφέροντες στο πρότζεκτ (αυτούς που επιδεικνύουν "αξία") δίνεται επίσημος ρόλος στη λήψη αποφάσεων. Οι αποφάσεις λαμβάνονται συνήθως με βάση την καθαρή συναίνεση της ψηφοφορίας. Η έννοια της αξιοκρατίας πρωτοπορήθηκε από το [Apache Foundation](https://www.apache.org/)- [όλα τα πρότζεκτ του Apache](https://www.apache.org/index.html#projects-list) είναι αξιοκρατίες. Οι συνεισφορές μπορούν να γίνουν μόνο από άτομα που εκπροσωπούν τον εαυτό τους, όχι από μια εταιρεία.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
+* **Φιλελεύθερη συνεισφορά:** Σύμφωνα με το μοντέλο της φιλελεύθερης συνεισφοράς, τα άτομα που κάνουν τη μεγαλύτερη δουλειά αναγνωρίζονται ως τα άτομα με τη μεγαλύτερη επιρροή, αλλά αυτό βασίζεται στην τρέχουσα δουλειά και όχι στις ιστορικές συνεισφορές. Οι σημαντικές αποφάσεις για το πρότζεκτ λαμβάνονται με βάση μια διαδικασία αναζήτησης συναίνεσης (συζήτηση των σημαντικότερων παραπόνων) και όχι με καθαρή ψηφοφορία, και επιδιώκεται να συμπεριληφθούν όσο το δυνατόν περισσότερες προοπτικές της κοινότητας. Δημοφιλή παραδείγματα πρότζεκτ που χρησιμοποιούν ένα φιλελεύθερο μοντέλο συνεισφοράς περιλαμβάνουν το [Node.js](https://foundation.nodejs.org/) και το [Rust](https://www.rust-lang.org/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Ποιο από τα δύο πρέπει να χρησιμοποιήσετε; Εξαρτάται από εσάς! Κάθε μοντέλο έχει πλεονεκτήματα και συμβιβασμούς. Και παρόλο που μπορεί να φαίνονται αρκετά διαφορετικά στην αρχή, και τα τρία μοντέλα έχουν περισσότερα κοινά απ' όσα φαίνονται. Αν ενδιαφέρεστε να υιοθετήσετε ένα από αυτά τα μοντέλα, δείτε αυτά τα πρότυπα:
 
-* [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-* [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-* [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [Πρότυπο μοντέλου BDFL](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [Πρότυπο μοντέλου αξιοκρατίας](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Η φιλελεύθερη πολιτική συνεισφοράς του Node.js](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## Χρειάζομαι έγγραφα διακυβέρνησης όταν ξεκινάω το πρότζεκτ μου;
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Δεν υπάρχει σωστή στιγμή για να καταγράψετε τη διακυβέρνηση του πρότζεκτ σας, αλλά είναι πολύ πιο εύκολο να την ορίσετε μόλις δείτε τη δυναμική της κοινότητάς σας να εξελίσσεται. Το καλύτερο (και δυσκολότερο) μέρος της διακυβέρνησης του ανοιχτού κώδικα είναι ότι διαμορφώνεται από την κοινότητα!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+Ωστόσο, κάποια πρώιμη τεκμηρίωση θα συμβάλει αναπόφευκτα στη διακυβέρνηση του πρότζεκτ σας, οπότε αρχίστε να γράφετε ό,τι μπορείτε. Για παράδειγμα, μπορείτε να ορίσετε σαφείς προσδοκίες για τη συμπεριφορά ή τον τρόπο λειτουργίας της διαδικασίας συνεισφοράς σας, ακόμη και κατά την έναρξη του πρότζεκτ σας.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Αν ανήκετε σε μια εταιρεία που εγκαινιάζει ένα πρότζεκτ ανοιχτού κώδικα, αξίζει να κάνετε μια εσωτερική συζήτηση πριν από την έναρξη σχετικά με το πώς η εταιρεία σας αναμένει να συντηρεί και να λαμβάνει αποφάσεις σχετικά με το πρότζεκτ που προχωράει. Μπορεί επίσης να θέλετε να εξηγήσετε δημόσια οτιδήποτε ιδιαίτερο σχετικά με τον τρόπο με τον οποίο η εταιρεία σας θα συμμετέχει (ή δεν θα συμμετέχει!) στο πρότζεκτ.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  Αναθέτουμε τη διαχείριση πρότζεκτ στο GitHub σε μικρές ομάδες που εργάζονται πραγματικά σε αυτά στο Facebook. Για παράδειγμα, το React διευθύνεται από έναν μηχανικό του React.
   <p markdown="1" class="pquote-credit">
-— @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
+- @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## Τι θα συμβεί αν οι εταιρικοί υπάλληλοι αρχίσουν να υποβάλλουν συνεισφορές;
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Τα επιτυχημένα πρότζεκτ ανοικτού κώδικα χρησιμοποιούνται από πολλούς ανθρώπους και εταιρείες, και ορισμένες εταιρείες μπορεί τελικά να έχουν ροές εσόδων που συνδέονται τελικά με το πρότζεκτ. Για παράδειγμα, μια εταιρεία μπορεί να χρησιμοποιήσει τον κώδικα του πρότζεκτ ως ένα συστατικό στοιχείο σε μια εμπορική προσφορά υπηρεσιών.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+Καθώς το πρότζεκτ χρησιμοποιείται ευρύτερα, οι άνθρωποι που έχουν εμπειρία σε αυτό γίνονται πιο περιζήτητοι - ίσως είστε ένας από αυτούς! - και μερικές φορές θα πληρώνονται για τη δουλειά που κάνουν στο πρότζεκτ.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+Είναι σημαντικό να αντιμετωπίζετε την εμπορική δραστηριότητα ως φυσιολογική και ως μια ακόμη πηγή ενέργειας ανάπτυξης. Φυσικά, οι αμειβόμενοι προγραμματιστές δεν πρέπει να τυγχάνουν ιδιαίτερης μεταχείρισης σε σχέση με τους μη αμειβόμενους- κάθε συνεισφορά πρέπει να αξιολογείται με βάση την τεχνική της αξία. Ωστόσο, οι άνθρωποι θα πρέπει να αισθάνονται άνετα να συμμετέχουν σε εμπορική δραστηριότητα και να αισθάνονται άνετα να αναφέρουν τις περιπτώσεις χρήσης τους όταν επιχειρηματολογούν υπέρ μιας συγκεκριμένης βελτίωσης ή λειτουργίας.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+Το "εμπορικό" είναι απολύτως συμβατό με το "ανοιχτό κώδικα". "Εμπορικό" σημαίνει απλώς ότι κάπου εμπλέκονται χρήματα - ότι το λογισμικό χρησιμοποιείται στο εμπόριο, κάτι που είναι όλο και πιο πιθανό καθώς ένα πρότζεκτ κερδίζει την αποδοχή του. (Όταν το λογισμικό ανοικτού κώδικα χρησιμοποιείται ως μέρος ενός προϊόντος μη ανοικτού κώδικα, το συνολικό προϊόν εξακολουθεί να είναι "ιδιόκτητο" λογισμικό, αν και, όπως και ο ανοικτός κώδικας, μπορεί να χρησιμοποιηθεί για εμπορικούς ή μη εμπορικούς σκοπούς).
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+Όπως όλοι οι άλλοι, οι προγραμματιστές με εμπορικά κίνητρα αποκτούν επιρροή στο πρότζεκτ μέσω της ποιότητας και της ποσότητας των συνεισφορών τους. Προφανώς, ένας προγραμματιστής που πληρώνεται για το χρόνο του μπορεί να είναι σε θέση να κάνει περισσότερα από κάποιον που δεν πληρώνεται, αλλά αυτό δεν πειράζει: η πληρωμή είναι απλώς ένας από τους πολλούς πιθανούς παράγοντες που θα μπορούσαν να επηρεάσουν το πόσο κάνει κάποιος. Κρατήστε τις συζητήσεις σας για το πρότζεκτ επικεντρωμένες στις συνεισφορές και όχι στους εξωτερικούς παράγοντες που επιτρέπουν στους ανθρώπους να κάνουν αυτές τις συνεισφορές.
 
-## Do I need a legal entity to support my project?
+## Χρειάζομαι μια νομική οντότητα για να υποστηρίξω το πρότζεκτ μου;
 
-You don't need a legal entity to support your open source project unless you're handling money.
+Δεν χρειάζεστε μια νομική οντότητα για την υποστήριξη του πρότζεκτ σας ανοικτού κώδικα, εκτός αν διαχειρίζεστε χρήματα.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+Για παράδειγμα, αν θέλετε να δημιουργήσετε μια εμπορική επιχείρηση, θα πρέπει να δημιουργήσετε μια C Corp ή LLC (αν έχετε την έδρα σας στις ΗΠΑ). Αν απλά κάνετε εργασίες συμβολαίου που σχετίζονται με το πρότζεκτ σας ανοικτού κώδικα, μπορείτε να δεχτείτε χρήματα ως ατομική επιχείρηση ή να δημιουργήσετε μια LLC (αν έχετε την έδρα σας στις ΗΠΑ).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Αν θέλετε να δέχεστε δωρεές για το ανοικτού κώδικα πρότζεκτ σας, μπορείτε να δημιουργήσετε ένα κουμπί δωρεάς (χρησιμοποιώντας το PayPal ή το Stripe, για παράδειγμα), αλλά τα χρήματα δεν θα εκπίπτουν από τη φορολογία, εκτός αν είστε αναγνωρισμένος μη κερδοσκοπικός οργανισμός (501c3, αν είστε στις ΗΠΑ).
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Πολλά πρότζεκτ δεν επιθυμούν να μπουν στον κόπο να δημιουργήσουν έναν μη κερδοσκοπικό οργανισμό, οπότε βρίσκουν έναν μη κερδοσκοπικό φορολογικό χορηγό. Ένας φορολογικός χορηγός δέχεται δωρεές εκ μέρους σας, συνήθως με αντάλλαγμα ένα ποσοστό της δωρεάς. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) και [Open Collective](https://opencollective.com/opensource) είναι παραδείγματα οργανισμών που λειτουργούν ως φορολογικοί χορηγοί για πρότζεκτ ανοικτού κώδικα.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  Στόχος μας είναι να παρέχουμε μια υποδομή που οι κοινότητες μπορούν να χρησιμοποιήσουν για να είναι αυτοσυντηρούμενες, δημιουργώντας έτσι ένα περιβάλλον όπου όλοι - συνεισφέροντες, υποστηρικτές, χορηγοί - θα έχουν συγκεκριμένα οφέλη.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
+- @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+Εάν το πρότζεκτ σας συνδέεται στενά με μια συγκεκριμένη γλώσσα ή οικοσύστημα, μπορεί επίσης να υπάρχει ένα σχετικό ίδρυμα λογισμικού με το οποίο μπορείτε να συνεργαστείτε. Για παράδειγμα, το [Python Software Foundation](https://www.python.org/psf/) βοηθά στην υποστήριξη του [PyPI](https://pypi.org/), του διαχειριστή πακέτων Python, και το [Node.js Foundation](https://foundation.nodejs.org/) βοηθά στην υποστήριξη του [Express.js](https://expressjs.com/), ενός πλαισίου βασισμένου στο Node.
