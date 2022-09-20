@@ -145,7 +145,7 @@ Hosszabb távon a jogi csapat többet tehet azért, hogy segítsen a vállalatna
 </aside>
 
 * **Mit kell kiadni:** [(Majdnem) mindent?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Ha a jogi csapat megérti és hajlandó munkát befektetni a vállalat nyílt forráskódú stratégiájába, akkor az inkább segíteni fog, mint akadályozni.
-* **Megfelelés:** Még ha a céged nem is fejleszt nyílt forráskódot, biztosan használja azt. A [tudatosság és folytonosság](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) megakadályozhatja a fejfájást, a késedelmeket és a pereket.
+* **Megfelelés:** Még ha a céged nem is fejleszt nyílt forráskódot, biztosan használja azt. A [tudatosság és folytonosság](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) megakadályozhatja a fejfájást, a késedelmeket és a pereket.
 
 <aside markdown="1" class="pquote">
   A szervezeteknek rendelkezniük kell olyan licenc- és megfelelőségi stratégiával, amely megfelel mind a „megengedő”, mind a „copyleft” kategóriáknak. Ez azzal kezdődik, hogy nyilvántartást vezetnek az általad használt nyílt forráskódú szoftverekre vonatkozó licencfeltételekről, beleértve az alkomponenseket és a függőségeket.

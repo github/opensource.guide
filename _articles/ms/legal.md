@@ -145,7 +145,7 @@ Jangka panjang, pasukan undang-undang anda boleh melakukan lebih banyak perkara 
 </aside>
 
 * **Apa yang hendak dilepaskan:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Sekiranya pasukan undang-undang anda memahami dan dilaburkan dalam strategi sumber terbuka syarikat anda, mereka akan dapat membantu dan bukannya menghalang usaha anda.
-* **Pematuhan:** Walaupun syarikat anda tidak mengeluarkan projek sumber terbuka, ia menggunakan perisian sumber terbuka orang lain. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) dapat mencegah sakit kepala, kelewatan produk, dan tuntutan mahkamah.
+* **Pematuhan:** Walaupun syarikat anda tidak mengeluarkan projek sumber terbuka, ia menggunakan perisian sumber terbuka orang lain. [Awareness and process](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) dapat mencegah sakit kepala, kelewatan produk, dan tuntutan mahkamah.
 
 <aside markdown="1" class="pquote">
   Organisasi mesti mempunyai strategi lesen dan pematuhan yang sesuai dengan kedua kategori [["permisive" dan "copyleft" \]. Ini bermula dengan mencatat syarat-syarat pelesenan yang berlaku untuk perisian sumber terbuka yang Anda gunakan - termasuk subkomponen dan dependensi.
