@@ -157,7 +157,7 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
 </aside>
 
 * **Was veröffentlichen?** [(Fast) alles?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html). Wenn Ihre Rechtsabteilung die Open-Source-Strategie Ihres Unternehmens versteht und in sie investiert, kann sie Ihnen am besten helfen, anstatt Ihre Bemühungen zu behindern.
-* **Compliance:** Auch wenn Ihr Unternehmen keine Open-Source-Projekte veröffentlicht, verwendet es die Open-Source-Software von anderen. [Bewusstsein darüber und Prozesse dafür](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) helfen, Kopfschmerzen, Produktverzögerungen und Klagen zu vermeiden.
+* **Compliance:** Auch wenn Ihr Unternehmen keine Open-Source-Projekte veröffentlicht, verwendet es die Open-Source-Software von anderen. [Bewusstsein darüber und Prozesse dafür](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) helfen, Kopfschmerzen, Produktverzögerungen und Klagen zu vermeiden.
 
 <aside markdown="1" class="pquote">
 
