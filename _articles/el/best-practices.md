@@ -265,7 +265,7 @@ related:
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Διατηρώντας το WP-CLI, ανακάλυψα ότι πρέπει πρώτα να κάνω τον εαυτό μου ευτυχισμένο και να θέσω σαφή όρια στη συμμετοχή μου. Η καλύτερη ισορροπία που έχω βρει είναι 2-5 ώρες την εβδομάδα, ως μέρος του κανονικού μου προγράμματος εργασίας. Αυτό κρατάει τη συμμετοχή μου ως πάθος και δεν την αισθάνομαι υπερβολικά σαν δουλειά. Επειδή ιεραρχώ τα θέματα στα οποία εργάζομαι, μπορώ να σημειώνω τακτική πρόοδο σε ό,τι θεωρώ πιο σημαντικό.
   <p markdown="1" class="pquote-credit">
-- @danielbachhuber, ["Τα συλλυπητήριά μου, είστε τώρα ο συντηρητής ενός δημοφιλούς πρότζεκτ ανοικτού κώδικα"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+- @danielbachhuber, ["Τα συλλυπητήριά μου, είστε τώρα ο συντηρητής ενός δημοφιλούς πρότζεκτ ανοικτού κώδικα"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
