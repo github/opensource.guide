@@ -1,5 +1,7076 @@
-- [ ] Have you followed the [contributing guidelines](https://github.com/github/opensource.guide/blob/HEAD/CONTRIBUTING.md)?
-- [ ] Have you explained what your changes do, and why they add value to the Guides?
+= Beginner's Guide to Python =
+New to programming? Python is free and easy to learn if you know where to start! This guide will help you to get started quickly.
+
+[[BeginnersGuideChinese|Chinese Translation/中文版入门]]
+
+== New to Python? ==
+Read [[BeginnersGuide/Overview]] for a short explanation of what Python is.
+
+== Getting Python ==
+Next, install the Python 3 interpreter on your computer. This is the program that reads Python programs and carries out their instructions; you need it before you can do any Python programming. Mac and Linux distributions may include an outdated version of Python (Python 2), but you should install an updated one (Python 3). See [[BeginnersGuide/Download]] for instructions to download the correct version of Python.
+
+There are also Python interpreter and IDE bundles available, such as [[http://thonny.org|Thonny]]. Other options can be found at IntegratedDevelopmentEnvironments.
+
+At some stage, you'll want to edit and save your program code. Take a look at HowToEditPythonCode for some advice and recommendations.
+
+== Learning Python ==
+Next, read a tutorial and try some simple experiments with your new Python interpreter.
+
+ * If you have never programmed before, see BeginnersGuide/NonProgrammers for a list of suitable tutorials.
+ * If you have previous programming experience, consult [[BeginnersGuide/Programmers]], which lists more advanced tutorials.
+ * If English isn't your first language, you might be more comfortable with a tutorial that's been translated into your language. Consult python.org's [[Languages|list of Non-English resources]].
+
+Most tutorials assume that you know how to run a program on your computer. If you are using Windows and need help with this, see [[http://www.python.org/doc/faq/windows/#how-do-i-run-a-python-program-under-windows|How do I Run a Program Under Windows]].
+
+Some sites offer in-browser coding for those who want to learn Python:
+
+/* please keep this list alphabetized */
+
+ * [[https://www.codecademy.com/learn/learn-python|Codecademy]]
+
+ * [[https://www.codedex.io|Codédex]]
+
+ * [[https://www.coding-bootcamps.com|Coding Bootcamps]]
+
+ * [[https://www.datacamp.com|DataCamp]]
+
+ * [[https://www.dataquest.io|Dataquest]] for Python for data science.
+
+ * [[https://www.hackinscience.org|HackInScience]] free and open source platform.
+
+ * [[https://www.myhsts.org|High School Technology Services]] for general Python
+
+ * [[https://python.land/python-tutorial|Python Land: A completely free beginners tutorial with interactive, editable code examples]]
+
+Print a [[https://blog.finxter.com/python-cheat-sheet/|cheat sheet]] of the most important Python features and post it to your office wall until you know the basics well.
+
+Once you have read a tutorial, you can browse through [[http://docs.python.org|Python's online documentation]]. It includes [[http://docs.python.org/tut/|a tutorial]] that might come in handy, [[http://docs.python.org//lib/|a Library Reference]] that lists all of the modules that come standard with Python, and [[http://docs.python.org/ref/|the Language Reference]] for a complete (if rather dry) explanation of Python's syntax.
+
+When you are ready to write your first program, you will need a [[PythonEditors|text editor]] or an [[IntegratedDevelopmentEnvironments|IDE]]. If you don't want to use Thonny or something more advanced, then you can use [[https://docs.python.org/3/library/idle.html|IDLE]], which is bundled with Python and supports [[http://idlex.sourceforge.net|extensions]].
+
+This Python wiki also contains a page about [[Powerful Python One-Liners|Python One-Liners]] -- an obscure but interesting subculture in Python.
+
+== Need Help? ==
+Need help with any of this? Read [[BeginnersGuide/Help]] for mailing lists and newsgroups.
+
+Most Python books will include an introduction to the language; see IntroductoryBooks for suggested titles.
+
+Consult [[BeginnersGuide/Examples]] for small programs and little snippets of code that can help you learn.
+
+Or, if you prefer to learn Python through listening to a lecture, you can attend a training course or even hire a trainer to come to your company. Consult the PythonEvents page to see if any training courses are scheduled in your area and the PythonTraining page for a list of trainers.
+
+Teachers can join the [[http://www.python.org/sigs/edu-sig/|EDU-SIG]], a mailing list for discussion of Python's use in teaching at any level ranging from K-12 up to university.
+
+== Complete list of Beginner's Guide pages ==
+<<PageList(BeginnersGuide/)>>
+
+== Quiz and Exercises ==
+ * Finxter - [[https://finxter.com|How good are your Python skills? Test and Training with a Daily Python Puzzle]]
+ * CheckIO - [[http://www.checkio.org|Online learning, testing and improving your python skills]]
+ * After Hours Programming - [[http://www.afterhoursprogramming.com/tutorial/Python/Python-Quiz/|Python Quiz]]
+ * PyGUI - [[http://www.pythongui.com|Collection of python quiz answers, Examples And GUI Tkinter Tutorials For Beginners]]
+ * Pythonspot - [[https://pythonspot.com/python-tests-quizes/|Python Quiz]]
+ * Python Challenge - [[https://play.google.com/store/apps/details?id=sg.apps.garden.pythonchallenge|A Python Quiz App on Android Platform]]
+ * [[http://cscircles.cemc.uwaterloo.ca|CS Circles - online lessons and graded exercises]]
+
+== Python Style Checker ==
+ * [[http://pythonchecker.com/|Pythonchecker.com]] - An educative online tool to rate your Python style (with dynamic score computation and hints)
+
+== Looking for a particular Python module or application? ==
+ * The first place to look is the [[http://pypi.python.org/pypi|Python Package Index]].
+
+ * If you can't find anything relevant in the Package Index,
+ try [[http://www.python.org/search/|searching python.org]] - you can find anything mentioned on the Python site, in the [[http://www.python.org/doc/faq/|FAQs]], or in the newsgroup. More info: [[http://www.python.org/search/|where to search]].
+
+ * You may also try our external guest project, [[http://pydoc.net/|pydoc.net]], for advanced package and module search.
+
+ * Next, try [[http://www.google.com|Google]] or another search engine of your choice. Searching for "python" and some relevant keywords will usually find something helpful.
+
+ * Finally, you can try posting a query to the comp.lang.python Usenet group.
+
+== Python-Related Cheat Sheets ==
+ * Python: [[https://blog.finxter.com/collection-5-cheat-sheets-every-python-coder-must-own/|Collection of 11 Best Python Cheat Sheets]]
+
+ * NumPy: [[https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/|Collection of 10 Best NumPy Cheat Sheets]]
+
+ * Pandas: [[https://blog.finxter.com/pandas-cheat-sheets/|Collection of 7 Beautiful Pandas Cheat Sheets]]
+
+ * Machine Learning: [[https://blog.finxter.com/machine-learning-cheat-sheets/|Collection of 15 Machine Learning Cheat Sheets]]
+
+== Want to contribute? ==
+ * Python is a product of the [[http://www.python.org/psf/|Python Software Foundation]], a non-profit organization that holds the copyright. [[http://www.python.org/psf/donations/|Donations to the PSF]] are tax-deductible in the USA, and you can donate via credit card or PayPal.
+
+ * To report a bug in the Python core, use the [[http://bugs.python.org/|Python Bug Tracker]].
+
+ * To contribute a bug fix or other patch to the Python core, read the [[http://www.python.org/dev/|Python Developer's Guide]] for more information about Python's development process.
+
+ * To contribute to the official [[http://www.python.org/doc/|Python documentation]], join the [[http://www.python.org/sigs/doc-sig/|Documentation SIG]], write to docs@python.org , or use the [[http://bugs.python.org/|Issue Tracker]] to contribute a documentation patch.
+
+ * To announce your module or application to the Python community, use [[news:comp.lang.python.announce|comp.lang.python.announce]]. See [[http://www.python.org/community/lists/#comp-lang-python-announce|the guide to Python mailing lists]] for more information.
+
+ * To propose changes to the Python core, post your thoughts to [[news:comp.lang.python|comp.lang.python]]. If you have an implementation, follow the [[http://www.python.org/patches/|Python Patch Guidelines]].
+
+ * If you have a question are not sure where to report it, check out the [[WhereDoIReportThis?]] page.
+
+----
+CategoryDocumentationGmail	ZACHRY WOOD <zachryiixixiiwood@gmail.com>
+Please update your Mobile Phone Number
+ZACHRY WOOD <zachryiixixiiwood@gmail.com>	Sat, Oct 15, 2022 at 11:37 AM
+To: PNC Alerts <pncalerts@pnc.com>
+USD in "000'"s +Repayments for Long Term Debt 182527 161857 +Costs and expenses: +Cost of revenues 84732 71896 +Research and development 27573 26018 +Sales and marketing 17946 18464 +General and administrative 11052 09551 +European Commission fines 00000 01697 +Total costs and expenses 141303 127626 +Income from operations 41224 34231 +Other income (expense), net 6858000000 05394 +Income before income taxes 22677000000 19289000000 +Provision for income taxes 22677000000 19289000000 +Net income 22677000000 19289000000 +*include interest paid, capital obligation, and underweighting + + + + + + + + + + + + +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) +*include interest paid, capital obligation, and underweighting + +Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) + +
+
+					Ssn					
++United States Department of the Treasury +General Counsel +(Administrative & Law) +1500 Pennsylvania Avenue +Washington, D.C. 20220-1219 Paid Period 2019-09-28 - 2021-09-29 +Room.#1402 - Paid Date 2022-04-18
+
+								Pay Date	2022-04-18	
++main. +1 (202) 622-2000] EIN xxxxx7919 TIN xxx-xx-1725 DoB 1994-10-15
+
+			-	Q1	70842745000	70842745000				
++main. +1 (202) 622-2000] Gross Q2 70842745000 70842745000 Rate 00000 00000
+
+			70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	00000	08854	
+			Taxes / Deductions		Stub Number: 1		FICA - Medicare	00000	00000	
+			00000	Rate			Employer Taxes			
+			Net Pay				FUTA	00000	00000	
+			70842745000				SUTA	00000	00000	
+					This period	YTD	Taxes / Deductions	Current	YTD	
+				Pay Schedulec	70842745000	70842745000	Federal Withholding	00000	00000	
+				Annually	70842745000	70842745000	Federal Withholding	00000	00000	
+				Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+				Q3	70842745000	70842745000	Federal Withholding	00000	00000	
+				Q4	70842745000	70842745000	Federal Withholding	00000	00000	
+				CHECK NO.			FICA - Social Security	00000	08854	
+-				20210418			FICA - Medicare	00000	00000	
+-										
+			-							
+			-							
++INTERNAL REVENUE SERVICE, +PO BOX 1214, +CHARLOTTE, NC 28201-1214 + +ZACHRY WOOD +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000 41159000000 46075000000 40499000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000 7977000000 9266000000 9177000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 00000 00000 00000 +Reported Normalized Income 6836000000 +Reported Normalized Operating Profit 7977000000 +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 00010 00010 00015 00010 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Reported Normalized Diluted EPS 00010 +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. + + + + + + +important information + + + + + + + +Description + +Restated Certificate of Incorporation of PayPal Holdings, Inc. +(incorporated by reference to Exhibit 3.01 to PayPal Holdings, Inc.'s +Quarterly Report on Form 10-Q, as filed with the Commission on +July 27, 2017). + +Amended and Restated Bylaws of PayPal Holdings, Inc. (incorporated +by reference to Exhibit 3.1 to PayPal Holdings, Inc.'s Current Report +on Form 8-K, as filed with the Commission on January 18, 2019). + +Opinion of Faegre Drinker Biddle & Reath LLP. + +Consent of PricewaterhouseCoopers LLP, Independent Registered Public +Accounting Firm. + +Consent of Faegre Drinker Biddle & Reath LLP (included in +Exhibit 5.1 to this Registration Statement). + +Power of Attorney (included on the signature page of this +Registration Statement). + +All of Us Financial Inc. 2021 Equity Incentive Plan. + +Filing Fee Table. + + + + + + + +Business Checking +For 24-hour account information, sign on to +pnc.com/mybusiness/ +Business Checking Account number: 47-2041-6547 - continued +Activity Detail +Deposits and Other Additions +ACH Additions +Date posted Amount Transaction description For the period 04/13/2022 to 04/29/2022 +ZACHRY TYLER WOOD +Primary account number: 47-2041-6547 Page 2 of 3 +44678 00063 Reverse Corporate ACH Debit +Effective 04-26-22 Reference number +Checks and Other Deductions 22116905560149 +Deductions Reference number +Date posted Amount Transaction description 22116905560149 +44677 00063 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number +Service Charges and Fees 22116905560149 +Date posted Amount Transaction description on your next statement as a single line item entitled Service +Waived - New Customer Period +4/27/2022 00036 Returned Item Fee (nsf) +Detail of Services Used During Current Period +Note: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement a Charge Period Ending 04/29/2022, +Description Volume Amount +Account Maintenance Charge 70846743866 00000 +Total For Services Used This Peiiod 00000 00000 +Total Service (harge 00
+
+00000 +Reviewing Your Statement ('PNCBANK +Please review this statement carefully and reconcile it with your records. Call the telephone number on the upper right side of the first page of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; +• you have any questions regarding interest paid to an interest-bearing account. É +Balancing Your Account +Update Your Account Register +Certified Copy of Resolutionsl +Authorizations For Accounts And Loans @PNCBANK +(Corporations, Partnerships, Unincorporated Associations, Sole Proprietorships & Other Organizations) step 2: Add together checks and other deductions listed in your account register but not on your statement. +PNC Bank, National Association ("Bank") Taxpayer I.D. Number (TIN) C'eck +Deduction Descretio• Anount +account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law. D pNCBANK +In addition but not by way of limitation, the Bank may take checks, drafts or other items payable to "cash", the Bank or the Customer, and pay the sums represented by such Items in cash to any person presenting such items or credit such Items to the account or obligations of any person presenting such items or any other person or entity as directed by any such person. +Products and Services. Resolved that any of the persons listed in Section 3 above are authorized to enter into contracts and agreements, written or verbal, for any products or services now or in the future offered by the Bank, including but not limited to (i) cash management services, (ii) purchases or sales of foreign exchange, securities or other financial products, (iii) computer/internet-based products and services, (iv) wire transfer of funds from or to the accounts of the Customer at the Bank, and (v) ACH transactions, and the Bank may charge any accounts of the Customer at the Bank for such products or services. +00005 Taxpayer I.D. Number (TIN) +OWNER ("Customer") 633-44-1725 +are hereby authorized (i) to effect loans, advances and renewals at any time for the Customer from the Bank; (ii) to sign and deliver any notes (with or without warrant of attorney to confess judgment) and evidences of indebtedness of the Customer; (iii) to request the Bank to issue letters of credit and to sign and deliver to the bank any agreements on behalf of the Customer to reimburse the Bank for all payments made and expenses incurred by it under such letters of credit and drafts drawn pursuant thereto; (iv) to sign and deliver any instruments or documents on behalf of the Customer guaranteeing, endorsing or securing the payment of any debts or obligations of any person, form or corporation to the Bank; (v) to pledge, assign, transfer, mortgage, grant a security interest in or otherwise hypothecate to the Bank any stock, securities, commercial paper, warehouse receipts and other documents of title, bills, accounts receivable, contract rights, inventory, equipment, real property, and any other investments or property of the Customer, real or personal, tangible or intangible as security for the payment of any and all loans, advances, indebtedness and other liabilities of the Customer to the Bank of every kind and description, direct or indirect, absolute and contingent, joint or several, whether as drawer, maker, endorsee, guarantor, surety or otherwise, and to execute on behalf of the Customer mortgages, pledges, security agreements, financing statements and other instruments or documents in connection therewith; and (vi) to sell or discount with the Bank any commercial paper, bills and other instruments and evidence of indebtedness, warehouse receipts and other documents of title, accounts, accounts receivable, contract rights, and other assets, tangible and intangible, at any time held by the Customer and for such purpose to endorse, assign, transfer and deliver the same to the Bank. +Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET +Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr +R +•d +Ming +or serVlCö n lent services, (ii) purchases or sales of foreig xlll) computerfinternet-based products and services, (iv) wir he Customer at the Bank, and (v) ACH transactions, and the Ba the Bank for such products or services. +It. Resolved that any one of the following:Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testingprocedures as may be established between the Customer and the Bank from time to time. +General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer procedures as may be established between the Customer and the Bank from time to time. +General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer +without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the +/ Customer Copy, page 2 of 4 +without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the Withdrawals and Transfers. Resolved that the Bank is authorized to make payments from the account(s) of +Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner: Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner: +Column1 Column2 +Loans and Extensions of Credit. Resolved that any one of the following:
+
+			Date of this notice: 				44658			
+			Employer Identification Number: 88-1656496							
+			Form: 	SS-4						
++INTERNAL REVENUE SERVICE ZACHRY T WOOD Number of this notice: CP 575 A +CINCINNATI OH 45999-0023 ALPHABET For assistance you may call us at:
+
+5323 BRADFORD DR			1-800-829-4933							
+DALLAS, TX 75235										
+			IF YOU WRITE, ATTACH THE
++STUB AT THE BD OF THIS NOTICE.
+
+						We assigned you				
+This EIN will identify you, your business accounts, tax returns, and +WE ASSIGNED YOU AN EMPLOYER IDENTIFICATION NUMBER +Thank you for applying for an Employer Identification Number (EIN) . +EIN 88-1656496. If the information is + + + + + + +
+
+								Please		
+							6.35-			
++for the tax period(s) in question, please file the return (s) showing you have no liabilities . +If you have questions about at the the forms address or the shown due at dates the top shown, of you this can notice. call us If atyou the phone number or write to us Publication 538, +need help in determining your annual accounting period (tax year) , see Accounting Periods and Methods.
+
+			Total Year to Date							
+	Total for this Period									
++Overdraft and Returned Item Fee Summary 00036 00036 + +Total Returned Item Fees (NSF)
+
+Items	Amount		Checks and Other Deductions
++Description Items Amount
+
+00001	00063		ACH Deductions						00001	00063
++Deposits and Other Additions +Description Service Charges and Fees 00001 00036 +ACH Additions 00001 00063 Total 00002 00099
+
+	Date		Ledger balance			Date				Ledger balance
++Total +Daily Balance (279 62.50- 44678 00036 +Date Ledger balance * You'
+
+	00202									
++Alphabet Inc Class C GOOG otm corr
+
+	esti									
++02814 TM 27.8414.76% 63500 53.:
+
+	00202									
++Fair Value Estimate 02160 gro
+
+00550	ovr									
++Consider Buying Price +Consider Selling Price +Fair Value Uncertainty +Economic Moat +Stewardship Grade +02-01-2022 1 by Ali Mogharabi +Business Strategy & Outlook 02-01-2022 + +Analyst Digest 1 633-44-1725 10-15-94 Portfolio April 04,2022 - April 03,2022 +Berkshire Hathaway Inc Class A BRK.A +
+
+525000 +527760 $0.001 0.00% 367500 +Fair Value Estimate +Consider Buying Price $708,750.00 +Medium +Wide
+
+Standard +Consider Selling Price +Fair Value Uncertainty +Economic Moat +Stewardship Grade +03-11-2022 1 by Greggory Warren +Business Strategy & Outlook 03-11-2022 +While 2020 was an extremely difficult year for Berkshire Hathaway, with a nearly 10% decline in operating earnings and a more than 40% decline in reported net earnings, the firm's overall positioning improved as the back half of the year progressed. The firm saw an even more marked improvement in its insurance investment portfolio, as well as the operating results of its various subsidiaries, last year. As such, we expect 2022 and 2023 to be a return to more normalized levels of revenue growth and profitability (albeit with inflation impacting results in the first half of this year).We continue to view Berkshire's decentralized business model, broad business diversification, high cash-generation capabilities, and unmatched balance sheet strength as true differentiators. While these advantages have been overshadowed by an ever-expanding cash balance-ANhich is earning next to nothing in a near-zero interest-rate environment--we believe the company has finally hit a nexus where it is far more focused on reducing its cash hoard through stock and bond investments and share repurchases. During the past eight calendar quarters, the + + + +not correct as shown above, please make the correction using the attached tear-off stub and return it to us . +Based on the information received from you or your representative, you must file the following forms by the dates shown. We assigned you
+
+4/7/2022 +Form 940 4/7/2022 +Form 943 4/7/2022 If the information is +Form 1065 4/7/2022 +Form 720 4/7/2022 +Your Form 2290 becomes due the month after your vehicle is put into use . +Your Form 1 IC and/or 730 becomes due the month after your wagering starts . +After our review of your information, we have determined that you have not filed +tax returns for the above-mentioned tax period (s) dating as far back as 2007. Plea S +file your return(s) by 04/22/2022. If there is a balance due on the return (s) +penalties and interest will continue to accumulate from the due date of the return (s) +until it is filed and paid. If you were not in business or did not hire any employees +for the tax period(s) in question, please file the return (s) showing you have no liabilities . +If you have questions about the forms or the due dates shown, you can call us at PI +the phone number or write to us at the address shown at the top of this notice. If you +need help in determining your annual accounting period (tax year) , see Publication 538, Accounting Periods and Methods. + +Business Checking +PNCBANK @PNCBANK +For the period 04/13/2022 Primary account number: 47-2041-6547 Page 1 of 3 +146967 1022462 Q 304 Number of enclosures: 0 +ZACHRY TYLER WOOD ALPHABET +5323 BRADFORD DR +DALLAS TX 75235-8314 For 24-hour banking sign on to +PNC Bank Online Banking on pnc.com +FREE Online Bill Pay +For customer service call 1-877-BUS-BNKG +PNC accepts Telecommunications Relay Service (TRS) calls. 00009 +111111111011111000000000000000000000000000000000000000000000000 Para servicio en espalol, 1877.BUS-BNKC, +Moving? Please contact your local branch. +@ Write to: Customer Service PO Box 609 +Pittsburgh , PA 15230-9738 +Visit us at PNC.com/smaIIbusiness +IMPORTANT INFORMATION FOR BUSINESS DEPOSIT CUSTOMERS Date of this notice: +Effective February 18,2022, PNC will be temporarily waiving fees for statement, check image, deposit ticket and deposited item copy requests until further notice. Statement, check image, deposit ticket and deposited Item requests will continue to be displayed in the Details of Services Used section of your monthly statement. We will notify you via statement message prior to reinstating these fees. +If vou have any questions, you may reach out to your business banker branch or call us at 1-877-BUS-BNKG (1-877-287-2654). +Business Checking Summary +Account number; 47-2041-6547 +Overdraft Protection has not been established for this account. Please contact us if you would like to set up this service. Zachry Tyler Wood Alphabet Employer Identification Number: 88-1656496 +Balance Summary Checks and other deductions Ending balance Form: SS-4 +Beginning balance Deposits and other additions Number of this notice: +00000 = 98.50 Average ledger balance 36.00- +Average collected balance For assistance you may call ug at:
+
+			6.35-			6.35-		1-800-829-4933		
++Overdraft and Returned Item Fee Summary Total Year to Date
+
+Total for this Period										
++Total Returned Item Fees (NSF) 00036 00036 IF YOU WRITE, ATTATCHA TYE +STUB AT OYE END OF THIS NOTICE. +Deposits and Other Additions +Description Items Amount Checks and Other Deductions +Description Items Amount +ACH Additions 00001 00063 ACH Deductions 00001 00063
+
+			Service Charges and Fees			00001	00036			
++Total 00001 00063 Total 00002 00099 +Daily Balance Date Date Ledger balance +Date Ledger balance Ledger balance +4/13/2022 00000 44677 62.50- 44678 00036
+
+Form 940 44658 Berkshire Hatha,a,n.. +Business Checking For the period 04/13/2022 to 04/29/2022 44680 +For 24-hour account information, sign on to pnc.com/mybusiness/ ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 +Business Checking Account number: 47-2041-6547 - continued Page 2 of 3 +Acüvity Detail +Deposits and Other Additions did not hire any employee +ACH Additions Referenc numb +Date posted 04/27 Transaction +Amount description +62.50 Reverse Corporate ACH Debit +Effective 04-26-22 the due dates shown, you can call us at
+
+			22116905560149							
++Checks and Other Deductions +ACH Deductions Referenc +Date posted Transaction +Amount description
+
+			number							
++44677 70842743866 Corporate ACH Quickbooks 180041ntuit 1940868
+
+			22116905560149							
++ervice Charges and Fees Referenc +Date posted Transaction +Amount descripton +44678 22116905560149 numb +Detail of Services Used During Current Period 22116905560149
+
+::NOTE:: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement as a single line item entitled Service Charge Period Ending 04/29/2022. +e: The total charge for the following Penod Ending 04/29/2022. +Service Charge description Amount +Account Maintenance Charge 00063 +Total For Services Used This Period 00036 +Total Service Charge 00099 Waived - Waived - New Customer Period +Reviewing Your Statement +of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; you have any questions regarding interest paid to an interest-bearing account. PNCBANK +Balancing Your Account +Update Your Account Register Volume +Compare: The activity detail section of your statement to your account register. +Check Off: +Add to Your Account Register: Balance: +Subtract From Your Account Register Balance: All items in your account register that also appear on your statement. Remember to begin with the ending date of your last statement. (An asterisk { * } will appear in the Checks section if there is a gap in the listing of consecutive check numbers.) +Any deposits or additions including interest payments and ATM or electronic deposits listed on the statement that are not already entered in your register. +Any account deductions including fees and ATM or electronic deductions listed on the statement that are not already entered in your register. +Your Statement Information : step 2: Add together checks and other deductions listed in your account register but not on your statement.
+
+	Amount						Check
++Deduction Descrption Amount +Balancing Your Account +Update Your Account Register
+
+on deposit: 22934637118600.00USD +4720416547 +Reviewing Your Statement +of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; you have any questions regarding interest paid to an interest-bearing account. Total A=$22934637118600 + +Step 3: 22934637118600 + + +Enter the ending balance recorded on your statement +Add deposits and other additions not recorded Total A + $22934637118600 +
+
+		Subtotal=$22934637118600								
++Subtract checks and other deductions not recorded Total B $ 22934637118600 + +The result should equal your account register balance $ 22934637118600
+
+							Total B22934637118600			
++Verification of Direct Deposits + +To verify whether a direct deposit or other transfer to your account has occurred, call us Monday - Friday: 7 AM - 10 PM ET and Saturday & Sunday: 8 AM - 5 PM ET at the customer service number listed on the upper right side of the first page of this statement. +In Case of Errors or Questions About Your Electronic Transfers +Telephone us at the customer service number listed on the upper right side of the first page of this statement or write us at PNC Bank Debit Card Services, 500 First Avenue, 4th Floor, Mailstop P7-PFSC-04-M, Pittsburgh, PA 15219 as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the error or problem appeared. +Tell us your name and account number (if any). +Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information. +Tell us the dollar amount of the suspected error. +We will investigate your complaint and will correct any error promptly. If we take longer than 10 business days, we will provisionally credit your account for the amount you think is in error, so that you will have use of the money during the time it Cakes us to complete our investigation. +EquaLHousing Lender +Member FDIC + + + +Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +Export Custom Report as Excel File +Show 00000
+
+Excel report exports are in XLSX format. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. +1 Locate the report you want to export in the custom reports section of the Reports dashboard, and click an Excel export link. To export the report without first viewing the data, click the “Export XLS” link under the Action button menu. To view the report prior to exporting, click on its linked Report Name, then click the “xls” link in the Export line directly above the report Snapshot. NOTE: You can filter the report by Date Range or Payment Method prior to exporting it; the export will include only those transactions included by the filters. +2 Depending on your browser, you will have the option to open and/or save the file.
+
+a To open the file, click the “Open” button in the dialog box. The file will open in Excel, but will not be saved. You will need to save the file in Excel if you want to store it on your computer. b To save the file to your computer. i Click the “Save” button in the dialog box. ii A Save As dialog box opens. NOTE: In Google Chrome, and some other browsers, clicking the “xls” link will take you directly to this step. iii Enter a name for your file, and select a location on your computer where you want to save the file. iv Click the “Save” button. v You can now open the report directly from your computer at any time, without being logged into ADP Payments. +Next › Reciepient's Social Security Number & TIN :633-44-1725 +WOO ZACH T +5222 B +_____________________________________________________ + +424B3 1 d424b3.htm FORM 424B3
+
+Table of Contents Filed Pursuant to Rule 424(b)(3)
+
+Registration No. 333-145109
+
+Prospectus dated May 1, 2008
+
+Chase Issuance Trust
+
+Issuing Entity
+
+Chase Bank USA, National Association
+
+Sponsor, Depositor, Originator, Administrator and Servicer
+
+The issuing entity—
+
+| • | | may periodically issue notes in a series comprised of one or more classes or tranches; +-- | -- | -- | -- +
+
+Neither the SEC nor any state securities commission has approved these notes or determined that this prospectus or the accompanying prospectus supplement is truthful, accurate or complete. Any representation to the contrary is a criminal offense.
+You should consider the discussion under “ Risk Factors” beginning on page 11 of this prospectus before you purchase any notes.
+The notes are obligations of the issuing entity only and are not interests in or obligations of Chase Bank USA, National Association, any of its affiliates or any other person or entity.
+The notes are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality.
+424B3 1 d424b3.htm FORM 424B3 +Table of Contents +Filed Pursuant to Rule 424(b)(3) + +Registration No. 333-145109 + + + +Prospectus dated May 1, 2008 + + + +Chase Issuance Trust + +Issuing Entity + + + +Chase Bank USA, National Association + +Sponsor, Depositor, Originator, Administrator and Servicer + + + +The issuing entity— + + + • +may periodically issue notes in a series comprised of one or more classes or tranches; • +will own— — one or more collateral certificates, each representing an undivided interest in a credit card master trust or other securitization special purpose entity whose assets consist primarily of credit card receivables arising in revolving credit card accounts owned by Chase USA or by one of its affiliates; and — credit card receivables that arise in revolving credit card accounts owned by Chase USA or by one of its affiliates; and • +may own— — other property described in this prospectus and in the accompanying prospectus supplement. +The notes— + + +
+• +will be secured by the issuing entity’s assets and will be paid solely from proceeds of the issuing entity’s assets; • +to be offered with this prospectus and the accompanying prospectus supplement will be rated in one of the four highest rating categories by at least one nationally recognized rating agency; and • +will be issued as part of a designated tranche within a class of the CHASEseries. +Neither the SEC nor any state securities commission has approved these notes or determined that this prospectus or the accompanying prospectus supplement is truthful, accurate or complete. Any representation to the contrary is a criminal offense. + + + +You should consider the discussion under “ Risk Factors” beginning on page 11 of this prospectus before you purchase any notes. + + + +The notes are obligations of the issuing entity only and are interests in JPMORGAN TRUST I, II, III, & IV, SHare Class R01-06, Direct obligations, under mandated rempremandable Adminstrative decision upon reconcilablle claim due the plaintif(Zachry Tyler Wood) prscribed by the Secretary of the Treasury a, CHASE / JPMORGAN CHASE BANK N.A, power holding shareholders, of the Board of Directors.
+Copyrights Trademark and Logo & etc..are proptery of Sole Proprietorship Subsidiary's Whole Owner by: Zachry Tyler Wood/bitcoion(Copyright & TM-09-17-2001)JPMORGAN Chase Bank USA, National Association, any of its affiliates or any other person or entity. +The notes are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality. +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 +Reported Normalized Income +Reported Normalized Operating Profit +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 +Reported Normalized Diluted EPS +Basic EPS 00114 00031 00028 00028 00027 00023 00017 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. + + + + + + +important information + + + + + + + +Description +Cash Flow from Investing Activities +Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+	-6383000000	-6819000000	-5496000000	-5942000000	-5479000000
++Purchase/Sale and Disposal of Property, Plant and Equipment, Net +Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 +Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 +Purchase/Sale of Investments, Net +Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000
+
+	100000000	388000000	23000000	30000000	-57000000
++Sale of Investments +Other Investing Cash Flow -15254000000 +Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 +Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 +Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 +Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 +Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 +Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 +Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 +Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 +Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 +Proceeds from Issuance of Long Term Debt +Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 + +Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 +Other Financing Cash Flow +Cash and Cash Equivalents, End of Period +Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 +Effect of Exchange Rate Changes 25930000000 235000000000) -3175000000 300000000 6126000000 +Cash and Cash Equivalents, Beginning of Period 181000000000 146000000000 183000000 -143000000 210000000 +Cash Flow Supplemental Section 23719000000000 26622000000000 26465000000000 20129000000000 +Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 +Income Tax Paid, Supplemental 13412000000 157000000 +ZACHRY T WOOD -4990000000 +Cash and Cash Equivalents, Beginning of Period + + +SC 13G/A +1 +us02079k1079_031122.txt + +us02079k1079_031122.txt + +SECURITIES AND EXCHANGE COMMISSION + +Washington, D.C. 20549 + +SCHEDULE 13G + +Under the Securities Exchange Act of 1934 + +(Amendment No: 4) + +ZACHRY T WOOD +-------------------------------------------------------- +(Name of Issuer) +
+
+Common Stock +-------------------------------------------------------- +(Title of Class of Securities) +02079K107 +-------------------------------------------------------- +(CUSIP Number) + +December 31, 2021 +-------------------------------------------------------- +(Date of Event Which Requires Filing of this Statement) + +Check the appropriate box to designate the rule pursuant to +which this Schedule is filed: + +[X] Rule 13d-1(b) +[ ] Rule 13d-1(c) +[ ] Rule 13d-1(d) + + +*The remainder of this cover page shall be filled out +for a reporting person's initial filing on this form with +respect to the subject class of securities, and for any +subsequent amendment containing information which +would alter the disclosures provided in a prior cover page. + +The information required in the remainder of this cover +page shall not be deemed to be "filed" for the purpose +of Section 18 of the Securities Exchange Act of 1934 +("Act") or otherwise subject to the liabilities of that +section of the Act but shall be subject to all other +provisions of the Act (however, see the Notes). + + + + + +CUSIP No. 02079K107 + +(1)Names of reporting persons. Zachry T Wood + + +(2) Check the appropriate box if a member of a group +(a) [ ] +(b) [X] + + +(3) SEC use only + +(4) Citizenship or place of organization + +Delaware + +Number of shares beneficially owned by each reporting person with: + +(5) Sole voting power +
+
+100% +(6) Shared voting power +
+
+100% +(7) Sole dispositive power + +100% +(8) Shared dispositive power +
+
+100% +(9) Aggregate amount beneficially owned by each reporting person +
+
+100% +(10) Check if the aggregate amount in Row (9) excludes certain shares + +(11) Percent of class represented by amount in Row 9 + +100% + +(12) Type of reporting person + +SP + + + + + +Item 1. + +Item 1(a) Name of issuer: +----------------------------------------------------------------------- + +ZACHRY T WOOD +ALPHABET + +Item 1(b) Address of issuer's principal executive offices: +----------------------------------------------------------------------- +5323 BRADFORD DR +DALLAS, TX 75235 +Business: +1600 AMPHITHEATRE PARKWAY +MOUNTAIN VIEW CA 94043 + + +Item 2. + + +2(a) ZachryTWoood +---------------------------------------------------------------------- +BlackRock, Inc. + + +2(b) 5323 BRADFORD DR DALLAS TX 75235 +----------------------------------------------------------------------- +BlackRock, Inc. +55 East 52nd Street +New York, NY 10055 + + +2(c) Citizenship: - [22/7] - CORRECTED +--------------------------------------------------------------------
+
+See Item 4 of Cover Page +2(d) Title of class of securities: +------------------------------------------------------------------- +
+
+Common Stock +2(e) CUSIP No.: +See Cover Page + + + + + + +Item 3. + +If this statement is filed pursuant to Rules 13d-1(b), or 13d-2(b) or (c), +check whether the person filing is a: +[ ] Broker or dealer registered under Section 15 of the Act; +[ ] Bank as defined in Section 3(a)(6) of the Act; +[ ] Insurance company as defined in Section 3(a)(19) of the Act; +[ ] Investment company registered under Section 8 of the +Investment Company Act of 1940; +[ ] An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E); +[ ] An employee benefit plan or endowment fund in accordance with
+
+   Rule 13d-1(b)(1)(ii)(F);
++[ ] A parent holding company or control person in accordance with
+
+   Rule 13d-1(b)(1)(ii)(G);
++[ ] A savings associations as defined in Section 3(b) of the Federal
+
+   Deposit Insurance Act (12 U.S.C. 1813);
++[ ] A church plan that is excluded from the definition of an
+
+   investment company under section 3(c)(14) of the Investment Company
+   Act of 1940;
++[x] A non-U.S. institution in accordance with
+
+   Rule 240.13d-1(b)(1)(ii)(J);
++[ ] Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K). If filing
+
+   as a non-U.S. institution in accordance with
+   Rule 240.13d-1(b)(1)(ii)(J), please specify the type of
+   institution:
++Item 4. Ownership + +Provide the following information regarding the aggregate number +and percentage of the class of securities of the issuer identified in Item 1. + + +Amount beneficially owned: +
+
+19224377 +Percent of class + +6.1% + +Number of shares as to which such person has: + +Sole power to vote or to direct the vote + + +Shared power to vote or to direct the vote + +Sole power to dispose or to direct the disposition of + +Shared power to dispose or to direct the disposition + +Item 5. + +Ownership of 5 Percent or Less of a Class. If this statement is being +filed to report the fact that as of the date hereof the reporting person +has ceased to be the beneficial owner of more than 5 percent of the +class of securities, check the following - [22/7] - + +Item 6. Ownership of More than 5 Percent on Behalf of Another Person +
+
+If any other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities, a statement to that effect should be included in response to this item and, if such interest relates to more than 5 percent of the class, such person should be identified. A listing of the shareholders of an investment company registered under the Investment Company Act of 1940 or the beneficiaries of employee benefit plan, pension fund or endowment fund is not required. Various persons have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of the common stock of ALPHABET INC. No, One person's, interest in the common stock of ALPHABET INC A, C, and BRK.B is more than five percent of the total outstanding common shares. +Item 7. Identification and Classification of the Subsidiary Which +Acquired the Security Being Reported on by the Parent Holding +Company or Control Person. + + +See Exhibit A + + +Item 8. Identification and Classification of Members of the Group + + +If a group has filed this schedule pursuant to Rule 13d-1(b)(ii)(J), +so indicate under Item 3(j) and attach an exhibit stating the identity +and Item 3 classification of each member of the group. If a group +has filed this schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d), +attach an exhibit stating the identity of each member of the group. + + +Item 9. Notice of Dissolution of Group + +Notice of dissolution of a group may be furnished as an exhibit +stating the date of the dissolution and that all further filings with +respect to transactions in the security reported on will be filed, +if required, by members of the group, in their individual capacity. + +See Item 5. + +Item 10. Certifications +By signing below I certify that, to the best of my knowledge and +belief, the securities referred to above were acquired and are +held in the ordinary course of business and were not acquired +and are not held for the purpose of or with the effect of changing +or influencing the control of the issuer of the securities and were +not acquired and are not held in connection with or as a participant +in any transaction having that purpose or effect. + +Signature.__\s +ZACHRY T O + +After reasonable inquiry and to the best of my knowledge and +belief, I certify that the information set forth in this statement +is true, complete and correct. + + +Dated: March 11, 2022 +BlackRock, Inc. + + +Signature: Spencer Fleming + + + +------------------------------------------- + +Name/Title Attorney-In-Fact + + +The original statement shall be signed by each person on whose +behalf the statement is filed or his authorized representative. +If the statement is signed on behalf of a person by his authorized +representative other than an executive officer or general partner +of the filing person, evidence of the representative's authority to +sign on behalf of such person shall be filed with the statement, +provided, however, that a power of attorney for this purpose +which is already on file with the Commission may be incorporated +by reference. The name and any title of each person who +signs the statement shall be typed or printed beneath his signature. + + + +Attention: Intentional misstatements or omissions of fact constitute +Federal criminal violations (see 18 U.S.C. 1001). + + +Exhibit A + + + +Subsidiary + +
+
+BlackRock Life Limited BlackRock International Limited BlackRock Advisors, LLC Aperio Group, LLC BlackRock (Netherlands) B.V. BlackRock Institutional Trust Company, National Association BlackRock Asset Management Ireland Limited BlackRock Financial Management, Inc. BlackRock Japan Co., Ltd. BlackRock Asset Management Schweiz AG BlackRock Investment Management, LLC FutureAdvisor, Inc. BlackRock Investment Management (UK) Limited BlackRock Asset Management Canada Limited BlackRock Asset Management Deutschland AG BlackRock (Luxembourg) S.A. BlackRock Investment Management (Australia) Limited BlackRock Advisors (UK) Limited BlackRock Fund Advisors BlackRock Asset Management North Asia Limited BlackRock (Singapore) Limited BlackRock Fund Managers Ltd +Entity beneficially owns 5% or greater of the outstanding +shares of the security class being reported on this +Schedule 13G. +Exhibit B + + +POWER OF ATTORNEY + +The undersigned, BLACKROCK, INC., a corporation duly organized +under the laws of the State of Delaware, United States (the +"Company"), does hereby make, constitute and appoint each of +Christopher Meade, Daniel Waltcher, Una Neary, Richard Cundiff, +Charles Park, Enda McMahon, Arlene Klein, Con Tzatzakis, Karen Clark, +David Maryles, Daniel Ronnen, John Stelley, Daniel Riemer, +Elizabeth Kogut, Maureen Gleeson, Daniel Kalish and Spencer Fleming acting +severally, as its true and lawful attorneys-in-fact, for the purpose of, from +time to time, executing in its name and on its behalf, whether the Company +individually or as representative of others, any and all documents, is acting +certificates, instruments, statements, other filings and amendments to the +foregoing (collectively, "documents") determined by such person to +be necessary or appropriate to comply with ownership or control-person +reporting requirements imposed by any United States or non-United States +governmental or regulatory authority, Including without limitation +Forms 3, 4, 5, 13D, 13F, 13G and 13H and any amendments to any of the +Foregoing as may be required to be filed with the Securities and +Exchange Commission, and delivering, furnishing or filing any +such documents with the appropriate governmental, regulatory +authority or other person, and giving and granting to each such +attorney-in-fact power and authority to act in the premises as fully +and to all intents and purposes as the Company might or could +do if personally present by one of its authorized signatories, +hereby ratifying and confirming all that said attorney-in-fact shall +lawfully do or cause to be done by virtue hereof. Any such +determination by an attorney-in-fact named herein shall be +conclusively evidenced by such person's execution, delivery, +furnishing or filing of the applicable document. + +This power of attorney shall expressly revoke the power of attorney +dated 8th day of December, 2015 in respect of the subject matter hereof, +shall be valid from the date hereof and shall remain in full force and +effect until either revoked in writing by the Company, or, in respect of +any attorney-in-fact named herein, until such person ceases to be an +employee of the Company or one of its affiliates. + + +IN WITNESS WHEREOF, the undersigned has caused this power of +attorney to be executed as of this 2nd day of January, 2019. + +BLACKROCK, INC. + + +By:_ /s/ + + + + + + + + + + + + + +\s_____________ +Name: Zachry Tyler Wood +Title: General Counsel + + + + + + + +:Build:: +const : +Name :bitcash : +title : BCS/USD +TOKEN :(BCHS\USD) : +secret +gemfile :'{'{'{'{'"$'' '"'['{'{'{'{['('('(c')')"('('(r')')']'}']'('{'[100000000'.'[00']'M']'}']'('['B'I'T'O'R'E'_34173'.1337'_189931']'(BCHS\USD')'}')''' ')]'}'}'}'"'' +='' ':'B'R'K'.'B' :, BRKUX, BRK.A, AJTXX(26.54B Last Year@https://am.jpmorganfunds.com/* +Alejandro MartinezAlejandro.martinez131@pnc.com** +Michael GoochMichael.gooch@pnc.com** +Michael Sotelo<Michael.sotelo@pnc.com** +Michael Allenmichael.allen10@pnc.com** +An official website of the United States government. Here's how you know + +Official websites use .gov +A .gov website belongs to an official government organization in the United States. + + +Secure .gov websites use HTTPS +A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. + +FBI +MORE +WHAT WE INVESTIGATE +Search FBI +Search FBI + +WHAT WE INVESTIGATE + +Terrorism +Counterintelligence +Cyber Crime +Public Corruption +Civil Rights +Organized Crime + More +News +Most Wanted +Business And Industry Partners +The Cyber Threat +Malicious cyber activity threatens the public’s safety and our national and economic security. The FBI’s cyber strategy is to impose risk and consequences on cyber adversaries. Our goal is to change the behavior of criminals and nation-states who believe they can compromise U.S. networks, steal financial and intellectual property, and put critical infrastructure at risk without facing risk themselves. To do this, we use our unique mix of authorities, capabilities, and partnerships to impose consequences against our cyber adversaries. + +The FBI is the lead federal agency for investigating cyber attacks and intrusions. We collect and share intelligence and engage with victims while working to unmask those committing malicious cyber activities, wherever they are. + +Learn more about what you can do to protect yourself from cyber criminals, how you can report cyber crime, and the Bureau's efforts in combating the evolving cyber threat.﻿ + +Private Sector Partners +Learn how businesses and organizations can work with the FBI to get ahead of the threat and make an impact on our cyber adversaries. + +Cyber Security +What You Should Know +Protect Yourself +Taking the right security measures and being alert and aware when connected are key ways to prevent cyber intrusions and online crimes. Learn how to protect your computer, network, and personal information. +Understand Common Crimes and Risks Online +Business email compromise (BEC) scams exploit the fact that so many of us rely on email to conduct business—both personal and professional—and it’s one of the most financially damaging online crimes. +Identity theft happens when someone steals your personal information, like your Social Security number, and uses it to commit theft or fraud. +Ransomware is a type of malicious software, or malware, that prevents you from accessing your computer files, systems, or networks and demands you pay a ransom for their return. +Spoofing and phishing are schemes aimed at tricking you into providing sensitive information to scammers. +Online predators are a growing threat to young people. +More common crimes and scams +Respond and Report +Depiction of banner being used in campaign to encourage the public to report Internet crime to the FBI's Internet Crime Complaint Center (IC3). +File a Report with the Internet Crime Complaint Center + +If you are the victim of online or internet-enabled crime, file a report with the Internet Crime Complaint Center (IC3) as soon as possible. Crime reports are used for investigative and intelligence purposes. Rapid reporting can also help support the recovery of lost funds. Visit ic3.gov for more information, including tips and information about current crime trends. + +Contact Your Local FBI Field Office +If you or your organization is the victim of a network intrusion, data breach, or ransomware attack, contact your nearest FBI field office or report it at tips.fbi.gov. + +Combating the Evolving Cyber Threat +Our adversaries look to exploit gaps in our intelligence and information security networks. The FBI is committed to working with our federal counterparts, our foreign partners, and the private sector to close those gaps. + +These partnerships allow us to defend networks, attribute malicious activity, sanction bad behavior, and take the fight to our adversaries overseas. The FBI fosters this team approach through unique hubs where government, industry, and academia form long-term trusted relationships to combine efforts against cyber threats. + +Within government, that hub is the National Cyber Investigative Joint Task Force (NCIJTF). The FBI leads this task force of more than 30 co-located agencies from the Intelligence Community and law enforcement. The NCIJTF is organized around mission centers based on key cyber threat areas and led by senior executives from partner agencies. Through these mission centers, operations and intelligence are integrated for maximum impact against U.S. adversaries. + +Only together can we achieve safety, security, and confidence in a digitally connected world. + +How We Work +Whether through developing innovative investigative techniques, using cutting-edge analytic tools, or forging new partnerships in our communities, the FBI continues to adapt to meet the challenges posed by the evolving cyber threat. + +The FBI has specially trained cyber squads in each of our 56 field offices, working hand-in-hand with interagency task force partners. +The rapid-response Cyber Action Team can deploy across the country within hours to respond to major incidents. +With cyber assistant legal attachés in embassies across the globe, the FBI works closely with our international counterparts to seek justice for victims of malicious cyber activity. +The Internet Crime Complaint Center (IC3) collects reports of Internet crime from the public. Using such complaints, the IC3’s Recovery Asset Team has assisted in freezing hundreds of thousands of dollars for victims of cyber crime. +CyWatch is the FBI’s 24/7 operations center and watch floor, providing around-the-clock support to track incidents and communicate with field offices across the country. +Cyber News +08.26.2022 FBI Dallas Encourages Businesses to Stay Vigilant for Cyber Threats, Partner with the FBI +08.26.2022 Iowa Woman Sentenced to Prison for Email Threats +08.26.2022 FBI Las Vegas Federal Fact Friday: Tech Support Fraud +08.24.2022 Former Investment Bank Employee Arrested for Cyberstalking +08.23.2022 FBI Tech Tuesday: Protecting Your Smart Devices from Swatting +08.22.2022 Phoenix Man Convicted of Cyberstalking +08.22.2022 FBI Philadelphia Urges Cybersecurity Awareness +08.22.2022 FBI Warns Individuals Employed in the Health Care Industry of the Ongoing Scam Involving the Impersonation of Law Enforcement and Government Officials +08.19.2022 Former Army Officer and Attorney Arrested on Cyberstalking Charge +08.18.2022 Man Sentenced to Over 10 Years for Role in International Romance Fraud Scheme +More News + +Featured Story +FBI Strategy Addresses Evolving Cyber Threat +FBI Strategy Addresses Evolving Cyber Threat +Additional Links, Resources, and Related Priorities +The Iran Threat +The Iran Threat +Threats from the Iranian regime and its terrorist partners are far reaching. The FBI is committed to identifying… + +InfraGard: Protecting Infrastructure +iGuardian: The FBI’s Industry-Focused Cyber Intrusion Reporting Platform +National Cyber Awareness System﻿ +Law Enforcement Cyber Incident Reporting +Stop.Think.Connect Campaign +Lawful Access﻿ +Law enforcement agencies all over the country are bumping up against “warrant-proof” encryption. This means that even with a warrant, law enforcement cannot obtain the electronic evidence needed to investigate and prosecute crimes or security threats. + +Most Wanted +Ten Most Wanted +Fugitives +Terrorism +Kidnappings / Missing Persons +Seeking Information +Bank Robbers +ECAP +ViCAP +About +Mission & Priorities +Leadership & Structure +Partnerships +Community Outreach +FAQs +News +Stories +Videos +Press Release +Speeches +Testimony +Podcasts and Radio +Photos +Español +Apps +Resources +Law Enforcement +Businesses +Victim Assistance +Reports & Publications +What We Investigate +Terrorism +Counterintelligence +Cyber Crime +Public Corruption +Civil Rights +Organized Crime +White-Collar Crime +Violent Crime +WMD +Contact Us +Field Offices +FBI Headquarters +Overseas Offices +Services +CJIS +CIRG +Laboratory Services +Training Academy +Operational Technology +Information Management +FBI Jobs +Submit a Tip +Crime Statistics +History +FOIPA +Scams & Safety +FBI Kids +FBI Tour +Additional Resources +Accessibility +eRulemaking +Freedom of Information / Privacy Act +Legal Notices +Legal Policies & Disclaimers +Privacy Policy +USA.gov +White House +No FEAR Act +Equal Opportunity + +FBI +FEDERAL BUREAU OF INVESTIGATION +FBI.gov Contact Center + +{% "requirements for furnishing Form 1099-G electronically : either furnish 1099-Gs electronically to recipients: or, considering electronic furnishing, rule and regulation. If upi, have questions,The TE/GE Office of Federal, State, and Local, Government has oversight for 1099-G filing for government entities. I’ll share how to successfully implement furnishing 1099-Gs electronically, discuss the requirements, and answer questions that many have about the process. Our goal is to provide all the information to help you implement an e-furnishing system for these information returns that complies with the rules and regulations.We all know that our income tax system relies on self-reporting of income, and most Americans depend on receiving and including income reported on various information returns. The likelihood of income being reported properly is greatly improved when information returns are prepared correctly and delivered to payees efficiently.Therefore, the IRS has focused for many years on e-filing and educating payers about e-furnishing to recipients. The Office of Federal State and Local Governments published a web article on this topic, and you can find it by going to IRS.gov and search "requirements for furnishing Form 1099-G electronically". You may want to refer to the article later to review the information provided. It contains many resource links, but the most important one we will be discussing today, which will be mentioned throughout, is Publication 1179, General Rules and Specifications for Substitute Forms 1096, 1098, 1099, 5498, W-2G, and 1042-S.Your best resource for developing a system to electronically furnish information returns is found in Section 4.6, Electronic Delivery of Recipient Statements on pages 28 and 29 of the publication. As is true with all IRS forms and publications, Publication 1179 can be accessed by going to IRS.gov and selecting 'Forms and Instructions'. You can view forms and publications online, download a PDF, or order hard copies via the Forms and Instructions page.Let's talk about the Form 1099-G, which is an information return that is used by government entities to report certain payments.Government entities are required to file and furnish Form 1099-G if payments were made throughout the year for: unemployment compensation; state or local income tax refunds, credits or offsets; Reemployment Trade Adjustment Assistance payments; taxable grants; and agricultural payments. You must also file Form 1099-G if you received payments on a commodity credit corporation loan. More details on the types of payments reportable can be found in the instructions for Form 1099-G, also available via IRS.gov.In general, the furnishing requirement is met by providing the recipient or payee with a paper copy of Form 1099-G by January 31 of the year following the year of payment. You must also file a copy of the 1099-G with the IRS before February 28, unless you file electronically, which allows for a due date of March 31st of the same year. The Internal Revenue Code and regulations allow for most information returns to be furnished electronically. +complete: list of allowable return's' ":" found on pages 28 of Pub. 1179, under Section 4.6, Electronic Delivery of Recipient Statements. The 2021 General Instructions for Certain Information Returns specifies who must file information returns, when and where to file them and information about electronic reporting.The instructions also cover correcting and voiding returns, providing statements to recipients, taxpayer identification numbers, backup withholding, penalties and more.With our focus today on furnishing 1099-Gs to recipients electronically what are the incentives to do so?Why migrate to furnishing Form 1099-G electronically to recipients? There are quite a few advantages to it.There may be significant cost benefits that result when paper and printing costs are reduced, mailing processes and fees are reduced if not eliminated, paper handling costs from filing, sorting, storing and shredding are reduced; eliminating re-typing and/or editing of documents reduces costs; and finally, accessibility is a factor. Distribution via secure web access and email is usually most cost-effective and convenient for recipients. How must it be done? In general, organizations will request affirmative consent, receive and document the consent, provide required notifications, and furnish statements to consenting payees electronically.Now let's go into a little more detail on these steps. To use electronic deliveries for information returns to payees, the payer must obtain an affirmative consent from each recipient to whom a statement will be furnished electronically.The consent must be made by the recipient electronically in a way that confirms the recipient can access the statement in the same electronic format in which it will be furnished. For example, if the Form 1099-G will be delivered as a portable document format, or PDF file, then the affirmative consent document format should also be in PDF. In addition, the payer must make certain notifications to each consenting individual. These will be addressed later in the presentation. What does the consent process look like? The first step in the process is to obtain consent from your payees.The procedures that follow were originally included in Revenue Procedure 2004-58 and have been annually updated without material change through and including the current Revenue Procedure 2021-27.You may refer to the affirmative consent procedures on pages 28 and 29 of Publication 1179, under Section 4.6, Electronic Delivery of Recipient Statements. The process begins with correspondence sent to each individual payee, requesting affirmative consent to electronic delivery of their Form 1099-G. The correspondence may be delivered by mail, electronic mail, in person, or via web site posting, and it must provide instructions on how to affirmatively consent.The correspondence must include the following statement in capital letters: "IMPORTANT TAX RETURN DOCUMENT AVAILABLE." If the correspondence is provided by electronic mail, the foregoing statement must be on the subject line of the electronic mail.If the electronic notice is returned as undeliverable and the correct electronic address cannot be obtained from the payee's records, or from the payee, then the furnisher must furnish the notice by mail, or in person, within 30 days after the electronic notice is returned.The following examples for securing consent are found in Regulation 31.6051-1. These examples apply to any electronically furnished information return. Example one: consent is requested via correspondence.The state sends the recipient a letter, stating the recipient may consent to receive the form electronically on a web site, instead of paper.The letter contains instructions explaining how to consent to receive the form electronically, by accessing the web site, downloading the consent document, completing the consent document, and emailing it back to the state.The consent document posted on the web site uses the same electronic format that the state will use for the electronically furnished form. The recipient reads the instructions and submits the consent in the manner provided in the instructions. The recipient has consented to receive the statements electronically in the manner described in the regulations. Example two: consent is requested via e-mail.The state sends the recipient an e-mail, stating the recipient may consent to receive the form electronically instead of paper format. The email contains an attachment, instructing the recipient how to consent to receive the form electronically.The e-mail attachment uses the same electronic format that the state will use for the electronically furnished form. The recipient opens the attachment, reads the instructions, and submits the consent in the manner provided in the instructions. The recipient has consented to receive the form electronically in the manner described in the regulations.Example three: consent is requested via a web site posting.The state posts a notice on its web site, stating the recipient may receive the form electronically instead of paper format. The web site contains instructions on how the recipient may access a secure web page and consent to receive the statements electronically By accessing the secure web page and giving consent, the recipient has consented to receive the form electronically in the manner described in the regulations. In each case, the payer took the steps to notify recipients by letter, email or web site posting about the availability of a consent election, prior to issuing returns electronically. Electronic statements are furnished to an individual only after that individual responded with an affirmative consent.If the payee does not consent, a paper document must be sent. As part of the consent process, the government entity must provide a statement with all the following notifications prominently displayed. There are seven notifications.Number one is, if the payee does not consent, a paper copy will be provided. Two, the scope and duration of the consent.Three, how to obtain a paper copy after giving consent.Four, how to withdraw the consent. Five, conditions under which an electronic statement will no longer be furnished.Six, procedures to update payee information. And Seven, a description of hardware and software required to access, print and retain a state-ment, and when it will no longer be available.If the government entity makes any hardware or software changes that create a risk that the recipient won't be able to access the statement, a notice of these changes must be provided to the recipient before changing the hardware or software. The notice must inform the recipient that a new consent to receive the form in the revised electronic format must be provided.After implementing the revised hardware and software changes, the furnisher must obtain a new consent or confirmation of consent from the recipient to receive the form electronically.You can refer to the affirmative consent procedures on pages 28 and 29 of Publication 1179, under Section 4.6.2, Consent. What do you need to do after you have secured consent? The government entity must place electronically posted Forms 1099-G on the applicable web site by January 31, the due date, and the statement must remain available until at least October 15 of that year.When Forms 1099-G are posted, the issuing entity must notify the consenting payees, either electronically or by mail. For payees who do not provide consent, or who withdraw their consent to receive the Form 1099-G electronically before the statement is furnished, the payer must provide a paper payee statement within the regular deadline.And again, the deadline would be January 31 for the Form 1099-G. As a payor, you should have a record of the payee consent for every statement you furnish electronically. If you fail to furnish the information in the required manner, this could result in the payee neglecting to report the income on their individual federal, state or local income tax returns. And this could subject them to enforcement actions, including penalties and possibly interest, by multiple government taxing authorities on any taxes that were due and owing. The affirmative consent requirement ensures each payee will either receive the statement on paper or agrees to the electronic delivery.Now here are a few reminders. One, the recipient must not have withdrawn the consent before the statement is furnished. Two, if the recipient subsequently withdraws their consent, your system must notify you and a paper reporting requirement must be resumed. You must provide a paper payee statement within the regular deadline, and again that is January 31 for Form 1099-Gs. Three, remember, a new consent to receive the statement electronically is required after any new hardware or new software is put into service. And four, all electronic statements must be in a format that conforms to the requirements as stated in Publication 1179.The affirmative consent requirements assure a payee knows the information statement will be furnished electronically, they have the right hardware and software to receive the information statement, and if they don't consent, a paper statement will be provided to them. I’ll share a few common questions we receive about this process and the answers next: The first question is, does the consent to receive the statement electronically have to be provided each tax year, or does it stay in effect until the payee withdraws the consent? The answer is the furnisher can make the determination regarding the scope and duration of the consent if the payee is informed. They can decide whether a consent to receive payee statements electronically lasts for each succeeding tax year, unless it is withdrawn or there is a change in hardware or software requirements, or whether the consent is only effective for the first information return required to be furnished following the date the consent is given. Remember, prior to furnishing the statements electronically, you must provide the recipient a statement with prominently displayed notices, including the scope and duration of the consent.The second question is whether the furnisher has met its obligation to furnish the information return if the payee has affirmatively consented to receive the information return electronically but does not actually retrieve the information return?The answer is they've met their obligation to furnish the info return under Internal Revenue Code Sections 6050B(b) and 6050E(b)if the payee affirmatively consents to receive it electronically. Section 401 of the Job Creation and Workers' Assistance Act of 2002 permits the electronic furnishing of all statements required under Section 6041 through 6050W, if the recipient consents to receive the statement in a manner similar to the one permitted by regulations under Section 6051, or in such other manner as provided by the Secretary.The next question is: Does the furnisher have to obtain affirmative consent to furnish the Form 1099-G electronically? The answer is the furnisher must obtain affirmative consent before they may furnish the Form 1099-G electronically.If a furnisher does not obtain affirmative consent, they must furnish the return by paper, or they will be in violation of the Internal Revenue Code and regulations.The fourth question is: Why should the furnisher comply with the affirmative consent requirement?The affirmative consent requirement assures the payee knows the information return or statement will be furnished electronically and has the right hardware and software to receive the information statement. If the payee does not know the statement is furnished electronically or does not have the right hardware and software to receive it electronically, they may not report income when required. This would result in loss of revenue and increased correspondence and compliance costs. Moreover, and this is not to say that the Internal Revenue Service is considering doing this, the legislative history to the Tax Reform Act of 1984 states, the conferees anticipate the Secretary would seriously consider terminating any exchange of returns or return information under Section 6103 with the state that does not report refunds to the taxpayer. This statement was in the House-Senate Conference Report, HR report number 861, at page 992, dated June 23, 1984.Question five is: What does the phrase 'must furnish a Form 1099-G' mean? The answer is the furnisher must either furnish the payee a paper copy of the Form 1099-G or furnish the Form 1099-G electronically by email or on a secure web site, if it has obtained affirmative consent by the payee.The next question is: Is it acceptable to stop mailing Form 1099-G and furnish the form electronically to the recipients? The answer is the furnisher may furnish the information return electronically if the payee has affirmatively consented to receive the information return electronically. Under current regulations, this means furnishing either by email or on a secure web site.And the last question is: What is a Form 4419 and who needs to file it? The answer is a Form 4419, Application for Filing Information Returns Electronically, is submitted by those payers or agents who file information returns with the IRS electronically. Please review the instructions to Form 4419 for information on how to fill out/submit Form 4419 to the IRS.I hope this has helped clarify the procedures to furnish recipients Form 1099-Gs electronically.These procedures include requesting affirmative consents, receiving and documenting consents, providing required notifications, and furnishing statements to consenting payees electronically" %}. Again, if you want more information, visit IRS.gov. Thank you and we hope you have a successful day.
+
+S-8 1 a20220726alphabets-8for202.htm S-8
+
+Registration No. 333-
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM S-8 REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 Alphabet Inc. (Exact Name of Registrant as Specified in Its Charter) | | | | | | | | +-- | -- | -- | -- | -- | -- | -- | -- | -- +Delaware | | 61-1767919 +Texas | | 88-1303491 +
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below hereby constitutes and appoints Sundar Pichai, Ruth M. Porat, Kent Walker, and Kathryn W. Hall, and each of them acting individually, as his or her true and lawful attorney-in-fact and agent, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities (unless revoked in writing), to sign any and all amendments (including post-effective amendments thereto) to the Registration Statement on Form S-8, and to file the same, with exhibits thereto and other documents in connection therewith, with the SEC, granting to such attorney-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as full to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that such attorney-in-fact and agents, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. Pursuant to the requirements of the Securities Act, the Registration Statement has been signed by the following persons in the capacities and on the date indicated S-8 1 a20220726alphabets-8for202.htm S-8 + + Registration No. 333- +UNITED STATES +SECURITIES AND EXCHANGE COMMISSION +Washington, D.C. 20549 + +FORM S-8 +REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 + +Alphabet Inc. +Zachry Tyler Wood + +Delaware 61-1767919 +Texas (EIN)88-1303491 +Texas (FIN)88-1656496 +(I.R.S. Employer Identification No.) + +1600 Amphitheatre Parkway +Mountain View, CA 94043 +(650) 253-0000 + +5323 BRADFORD DR +DALLAS, TX 75235 +(469) 697-4300 +(Address, including zip code, and telephone number, including area code, of Registrant’s principal executive offices) + +ALPHABET, INCOME & ROYALTY, Federal Individual Amended Return', REfunds, Credit Notes, Cash Refund' Quartlerly', 2021 Individual Income Tax Return, 1099s', 1040-ES Payment Voucher 1, 2, 3, 4, & V, Quarterly Annual , Semi-Annuals, Federal Repurchase Agreement Act, & Employee' Income Statements, Pay, and Outstanding, contingenci' +(Full Title of the Plan) +
+
+Zachry Tyler Wood +INDEPENDANT DIRECTOR +NASDAQGOOG(GOOGL). +5325 BRADFORD DR +DALLAS, TX 75235 +(469) 697-4300 +(Name, address and telephone number, including area code, of agent for service) +Copies to: +Jeffrey D. Karpf, Esq. +Kent Walker, Esq. +Kathryn W. Hall, Esq. +Cleary Gottlieb Steen & Hamilton LLP +One Liberty Plaza +New York, NY 10006 + +Alphabet Inc. +1600 Amphitheatre Parkway +Mountain View, CA 94043 +(650) 253-0000 + +Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. + +Large accelerated filer ☒ Accelerated filer ☐ +Non-accelerated filer ☐ Smaller reporting company ☐ +Emerging growth company ☐ + + +If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. ☐ + + +REGISTRATION OF ADDITIONAL SECURITIES PURSUANT TO GENERAL INSTRUCTION E OF +FORM S-8 +EXPLANATORY NOTE +This Registration Statement is being filed by Alphabet Inc., a Delaware corporation (the “Registrant”), to register 674778000 additional shares of its Class C capital stock, par value $113.20 per share (the “Class C Capital Stock”) issuable to eligible employees, consultants, contractors, and directors of the Registrant and its affiliates under the Registrant’s Amended and Restated 2021 Stock Plan (the “Plan”). On June 2, 2021, the Registrant filed with the U.S. Securities and Exchange Commission (the “SEC”): (i) Post-Effective Amendment to Form S-8 Registration Statement (File No. 001-37580) and (ii) Form S-8 Registration Statement (File No. 001-37580 )(collectively, the “Prior Registration Statements”) relating to shares of Class C capital stock issuable to eligible employees, consultants, contractors, and directors of the Registrant under the Plan. The Prior Registration Statements are currently effective. The Registration Statement relates to securities of the same class as those to which the Prior Registration Statements relate and is submitted in accordance with General Instruction E of Form S-8 regarding Registration of Additional Securities. Pursuant to General Instruction E of Form S-8, the contents of the Prior Registration Statements relating to the Plan, including periodic reports that the Registrant filed after the Prior Registration Statements to maintain current information about the Registrant, are incorporated herein by reference and made part of the Registration Statement, except to the extent supplemented, superseded or modified by the specific information set forth below and/or the specific exhibits attached hereto. + +PART II. INFORMATION REQUIRED IN REGISTRATION STATEMENT +Item 8. Exhibits. + +Exhibit +Number
+
+Exhibit Description +3.1‡ +Amended and Restated Certificate of Incorporation of Alphabet Inc., dated June 3, 2022 (incorporated by reference to Exhibit 3.01 filed with Registrant’s Current Report on Form 8-K (File No. 001-37580) filed with the SEC on June 3, 2022) +3.2‡ +Amended and Restated Bylaws of Alphabet Inc. dated October 21, 2020 (incorporated by reference to Exhibit 3.02 filed with Registrant’s Current Report on Form 8-K/A (File No. 001-37580), as filed with the SEC on October 29, 2020) +4.1‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan (incorporated by reference to Exhibit 10.01 filed with Registrant’s Current Report on Form 8-K (File No. 001-37580) filed with the SEC on June 3, 2022) +4.2‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan - Form of Alphabet Restricted Stock Unit Agreement (incorporated by reference to Exhibit 10.01.1 to Quarterly Report on Form 10-Q (file No. 001-37580), as filed with the SEC on July 28, 2021) +4.3‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan - Form of Alphabet 2022 Non-CEO Performance Stock Unit Agreement (incorporated by reference to Exhibit 10.07.2 filed with the Registrant’s Annual Report on Form 10-K (File No. 001-37580), as filed with the SEC on February 2, 2022) +5.1* +Opinion of Cleary Gottlieb Steen & Hamilton LLP +23.1* +Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm +23.2* +Consent of Cleary Gottlieb Steen & Hamilton LLP (filed as part of Exhibit 5.1) +24.0* +Power of Attorney (included as part of the signature page of the Registration Statement) +107* +Filing Fee Table +* Filed herewith +‡ Incorporated herein by reference + + + +SIGNATURES + +Pursuant to the requirements of the Securities Act, the Registrant certifies that it has reasonable grounds to believe that it meets all of the requirements for filing on Form S-8 and has duly caused the Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Mountain View, State of California, on July 26, 2022. + +ALPHABET INC. +By: /S/ ZAK WOOD +Zachry Tyler Wood +Significance +Cerifying Officer or Authorized Signature +Indapendant Director + + + + +POWER OF ATTORNEY + +KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below hereby constitutes and appoints Sundar Pichai, Ruth M. Porat, Kent Walker, and Kathryn W. Hall, and each of them acting individually, as his or her true and lawful attorney-in-fact and agent, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities (unless revoked in writing), to sign any and all amendments (including post-effective amendments thereto) to the Registration Statement on Form S-8, and to file the same, with exhibits thereto and other documents in connection therewith, with the SEC, granting to such attorney-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as full to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that such attorney-in-fact and agents, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. +Pursuant to the requirements of the Securities Act, the Registration Statement has been signed by the following persons in the capacities and on the date indicated +Zachry Tyler Wood +5323 BRADFORD DR +DALLAS, TX 75235 +CONSOLIDATED STATEMENTS OF CASH FLOWS - USD ($) $ in Millions 12 Months Ended
+
+Dec. 31, 2020 Dec. 31, 2019 Dec. 31, 2018 +Operating activities +Net income $ 40,269 $ 34,343 $ 30,736 +Adjustments: +Depreciation and impairment of property and equipment 12,905 10,856 8,164 +Amortization and impairment of intangible assets 792 925 871 +Stock-based compensation expense 12,991 10,794 9,353 +Deferred income taxes 1,390 173 778 +Gain on debt and equity securities, net (6,317) (2,798) (6,650) +Other 1,267 (592) (189) +Changes in assets and liabilities, net of effects of acquisitions: +Accounts receivable (6,524) (4,340) (2,169) +Income taxes, net 1,209 (3,128) (2,251) +Other assets (1,330) (621) (1,207) +Accounts payable 694 428 1,067 +Accrued expenses and other liabilities 5,504 7,170 8,614 +Accrued revenue share 1,639 1,273 483 +Deferred revenue 635 37 371 +Net cash provided by operating activities 65,124 54,520 47,971 +Investing activities +Purchases of property and equipment (22,281) (23,548) (25,139) +Purchases of marketable securities (136,576) (100,315) (50,158) +Maturities and sales of marketable securities 132,906 97,825 48,507 +Purchases of non-marketable investments (7,175) (1,932) (2,073) +Maturities and sales of non-marketable investments 1,023 405 1,752 +Acquisitions, net of cash acquired, and purchases of intangible assets (738) (2,515) (1,491) +Other investing activities 68 589 98 +Net cash used in investing activities (32,773) (29,491) (28,504) +Financing activities +Net payments related to stock-based award activities (5,720) (4,765) (4,993) +Repurchases of capital stock (31,149) (18,396) (9,075) +Proceeds from issuance of debt, net of costs 11,761 317 6,766 +Repayments of debt (2,100) (585) (6,827) +Proceeds from sale of interest in consolidated entities, net 2,800 220 950 +Net cash used in financing activities (24,408) (23,209) (13,179) +Effect of exchange rate changes on cash and cash equivalents 24 (23) (302) +Net increase in cash and cash equivalents 7,967 1,797 5,986 +Cash and cash equivalents at beginning of period 18,498 16,701 10,715 +Cash and cash equivalents at end of period 26,465 18,498 16,701 +Supplemental disclosures of cash flow information +Cash paid for taxes, net of refunds $ 4,990 $ 8,203 $ 5,671 +You have the right to get a free copy of your credit file disclosure, commonly called a credit report, once every 12 months, from each of the nationwide consumer credit reporting companies - Equifax, Experian and TransUnion. For instant access to your free credit report, visit www.annualcreditreport.com. +For more information on obtaining your free credit report, visit www.annualcreditreport.com or call 877-322-8228. +Use this form if you prefer to write to request your credit report from any, or all, of the nationwide consumer credit reporting companies. The following information is required to process your request. Omission of any information may delay your request. +Once complete, fold (do not staple or tape), place into a #10 envelope, affix required postage and mail to: +Annual Credit Report Request Service P.O. Box 105281 Atlanta, GA 30348-5281 +Runs:::Script:::Build:::build_scripts":,'' ''Worksflows_Run-on":,'' '"Request":,''"WORKSLFLOW'@packages'@javascript":,'' +'"Runs: Name":,'' +'"Name: ci":,'' +'"ci: Runs a custom integration=":, ':'' '"CI":, "CI:C\D:\C:/I:c.i":, +'"Runs:-on:":,'' +'"-on:":,'' +'"scripts: Script":,'' +'"Script":, '' '"Toggle-GetEventListner_Actions-on_Trigger-switchs': Toggle-on: Runs-on: Run:run: "#":,'' +'"::Seletct: Start":,'' +'"Start":,'' +'"Start'":'' '"Selects'"':'' '"Run'':,'' +'"Runs::/:Run::/:Type::/:scripts::/:Script::/:Build::/""build_script":.'"':,'' +'"Build_script'"':'' '"Build'' 'and'' 'Deploy":,'"'''' +"':'Build and Deploy : build_script":,'' +"build_script : DEPOSIT_TICKET'@'C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA//POST":,''":,'"'''' +'"'#':' DEPOSIT_TICKET : "SERVICE_ID":, :60600052''ci :Try calling :navigator.credentials.create(depository)=Try calling :navigator.credentials.create(C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA)"';'' '"//POST":,'' +'"Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +For Paperwork Reduction Act Notice, see the seperate Instructions. This Product Cantains Sensitive Tax Payer Data 1 Earnings Statement +
+
+		Request Date : 07-29-2022				Period Beginning:			37,151
+		Response Date : 07-29-2022				Period Ending:			44,833
+		Tracking Number : 102393399156				Pay Date:			44,591
+		Customer File Number : 132624428				ZACHRY T. 			WOOD
+						5,323	BRADFORD DR		
++important information Wage and Income Transcript
+
+		SSN Provided : XXX-XX-1725				DALLAS		TX 75235-8314	
+		Tax Periood Requested :  December, 2020							
+units					year to date	Other Benefits and			
+674678000					75,698,871,600	Information			
+					        	Pto Balance			
+					        	Total Work Hrs			
+Form W-2 Wage and Tax Statement					        	Important Notes			
++Employer : COMPANY PH Y: 650-253-0000
+
+Employer Identification Number (EIN) :XXXXX7919 BASIS OF PAY: BASIC/DILUTED EPS +INTU +2700 C +Quarterly Report on Form 10-Q, as filed with the Commission on +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 3330.90 PAR SHARE VALUE +Employee : Reciepient's Identification Number :xxx-xx-1725 ZACH T WOOD 5222 B +on Form 8-K, as filed with the Commission on January 18, 2019). +Submission Type : Original document +Wages, Tips and Other Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5105000.00 510500000 Advice number: 650,001 +Federal Income Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1881380.00 188813800 Pay date: 44,669 +Social Security Wages : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137700.00 13770000 +Social Security Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 853700 xxxxxxxx6547 transit ABA +Medicare Wages and Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510500000 71,921,891 +Medicare Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118166700 NON-NEGOTIABLE +Social Security Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Allocated Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Dependent Care Benefits : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Deffered Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Q" Nontaxable Combat Pay : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "W" Employer Contributions tp a Health Savings Account : . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Y" Defferels under a section 409A nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . . 0 +Code "Z" Income under section 409A on a nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . 0 +Code "R" Employer's Contribution to MSA : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .' 0 +Code "S" Employer's Cotribution to Simple Account : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "T" Expenses Incurred for Qualified Adoptions : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "V" Income from exercise of non-statutory stock options : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "AA" Designated Roth Contributions under a Section 401 (k) Plan : . . . . . . . . . . . . . . . . . . . . 0 +Code "BB" Designated Roth Contributions under a Section 403 (b) Plan : . . . . . . . . . . . . . . . . . . . . . 0 +Code "DD" Cost of Employer-Sponsored Health Coverage : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . +Code "EE" Designated ROTH Contributions Under a Governmental Section 457 (b) Plan : . . . . . . . . . . . . . . . . . . . . . +Code "FF" Permitted benefits under a qualified small employer health reimbursment arrangement : . . . . . . . . . 0 +Code "GG" Income from Qualified Equity Grants Under Section 83 (i) : . . . . . . . . . . . . . . . . . . . . . . $0.00 +Code "HH" Aggregate Defferals Under section 83(i) Elections as of the Close of the Calendar Year : . . . . . . . 0 +Third Party Sick Pay Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Retirement Plan Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Statutory Employee : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Not Statutory Employee +W2 Submission Type : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Original +W2 WHC SSN Validation Code : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correct SSN The U.S. Internal Revenue Code of 1986, as amended, the Treasury Regulations promulgated thereunder, published pronouncements of the Internal Revenue Service, which may be cited or used as precedents, and case law, any of which may be changed at any time with retroactive effect. No opinion is expressed on any matters other than those specifically referred to above. EMPLOYER IDENTIFICATION NUMBER: 61-1767919 EIN 61-1767919 FEIN 88-1303491 [DRAFT FORM OF TAX OPINION] ID: SSN: DOB: 37,305,581 633,441,725 34,622 ALPHABET Name Tax Period Total Social Security Medicare Withholding ZACHRY T WOOD Fed 941 Corporate Sunday, September 30, 2007 66,987 28,841 6,745 31,400 5323 BRADFORD DR Fed 941 West Subsidiary Sunday, September 30, 2007 17,115 7,369 1,723 8,023 DALLAS TX 75235-8314 Fed 941 South Subsidiary Sunday, September 30, 2007 23,906 10,293 2,407 11,206 ORIGINAL REPORT Fed 941 East Subsidiary Sunday, September 30, 2007 11,248 4,843 1,133 5,272 Income, Rents, & Royalty Fed 941 Corp - Penalty Sunday, September 30, 2007 27,199 11,710 2,739 12,749 INCOME STATEMENT Fed 940 Annual Unemp - Corp Sunday, September 30, 2007 17,028 GOOGL_income-statement_Quarterly_As_Originally_Reported TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020 Q1 2020 Q4 2019 Q3 2019 Gross Profit 146698000000 42337000000 37497000000 35653000000 31211000000 30,818,000,000 25,056,000,000 19,744,000,000 22,177,000,000 25,055,000,000 22,931,000,000 Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 64,133,000,000 34,071,000,000 Other Revenue 6,428,000,000 Cost of Revenue 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 Cost of Goods and Services 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 Operating Income/Expenses 67984000000 20452000000 16466000000 16292000000 14774000000 -15,167,000,000 -13,843,000,000 -13,361,000,000 -14,200,000,000 -15,789,000,000 -13,754,000,000 Selling, General and Administrative Expenses 36422000000 11744000000 8772000000 8617000000 7289000000 -8,145,000,000 -6,987,000,000 -6,486,000,000 -7,380,000,000 -8,567,000,000 -7,200,000,000 General and Administrative Expenses 13510000000 4140000000 3256000000 3341000000 2773000000 -2,831,000,000 -2,756,000,000 -2,585,000,000 -2,880,000,000 -2,829,000,000 -2,591,000,000 Selling and Marketing Expenses 22912000000 7604000000 5516000000 5276000000 4516000000 -5,314,000,000 -4,231,000,000 -3,901,000,000 -4,500,000,000 -5,738,000,000 -4,609,000,000 Research and Development Expenses 31562000000 8708000000 7694000000 7675000000 7485000000 -7,022,000,000 -6,856,000,000 -6,875,000,000 -6,820,000,000 -7,222,000,000 -6,554,000,000 Total Operating Profit/Loss 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Non-Operating Income/Expenses, Total 12020000000 2517000000 2033000000 2624000000 4846000000 3,038,000,000 2,146,000,000 1,894,000,000 -220,000,000 1,438,000,000 -549,000,000 Total Net Finance Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 Net Interest Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 Interest Expense Net of Capitalized Interest 346000000 117000000 77000000 76000000 76000000 -53,000,000 -48,000,000 -13,000,000 -21,000,000 -17,000,000 -23,000,000 Interest Income 1499000000 378000000 387000000 389000000 345000000 386,000,000 460,000,000 433,000,000 586,000,000 621,000,000 631,000,000 Net Investment Income 12364000000 2364000000 2207000000 2924000000 4869000000 3,530,000,000 1,957,000,000 1,696,000,000 -809,000,000 899,000,000 -1,452,000,000 Gain/Loss on Investments and Other Financial Instruments 12270000000 2478000000 2158000000 2883000000 4751000000 3,262,000,000 2,015,000,000 1,842,000,000 -802,000,000 399,000,000 -1,479,000,000 Income from Associates, Joint Ventures and Other Participating Interests 334000000 49000000 188000000 92000000 5000000 355,000,000 26,000,000 -54,000,000 74,000,000 460,000,000 -14,000,000 Gain/Loss on Foreign Exchange 240000000 163000000 139000000 51000000 113000000 -87,000,000 -84,000,000 -92,000,000 -81,000,000 40,000,000 41,000,000 Irregular Income/Expenses 0 0 0 0 0 0 0 0 Other Irregular Income/Expenses 0 0 0 0 0 0 0 0 Other Income/Expense, Non-Operating 1497000000 108000000 484000000 613000000 292000000 -825,000,000 -223,000,000 -222,000,000 24,000,000 -65,000,000 295,000,000 Pretax Income 90734000000 24402000000 23064000000 21985000000 21283000000 18,689,000,000 13,359,000,000 8,277,000,000 7,757,000,000 10,704,000,000 8,628,000,000 Provision for Income Tax 14701000000 3760000000 4128000000 3460000000 3353000000 -3,462,000,000 -2,112,000,000 -1,318,000,000 -921,000,000 -33,000,000 -1,560,000,000 Net Income from Continuing Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income after Extraordinary Items and Discontinued Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income after Non-Controlling/Minority Interests 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Diluted Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Income Statement Supplemental Section Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Reported Effective Tax Rate 0 0 0 0 0 0 0 0 Reported Normalized Income 6,836,000,000 Reported Normalized Operating Profit 7,977,000,000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS 333.90 31 28 28 27 23 17 10 10 15 10 Basic EPS from Continuing Operations 114 31 28 28 27 22 17 10 10 15 10 Basic EPS from Discontinued Operations Diluted EPS 3330.90 31 28 27 26 22 16 10 10 15 10 Diluted EPS from Continuing Operations 3330.90 31 28 27 26 22 16 10 10 15 10 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Reported Normalized Diluted EPS 10 Basic EPS 114 31 28 28 27 23 17 10 10 15 10 Diluted EPS 112 31 28 27 26 22 16 10 10 15 10 Basic WASO 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted WASO 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Fiscal year end September 28th., 2022. | USD 31622,6:39 PM Morningstar.com Intraday Fundamental Portfolio View Print Report Print 3/6/2022 at 6:37 PM Current Value 15,335,150,186,014 GOOGL_income-statement_Quarterly_As_Originally_Reported Q4 2021 Cash Flow from Operating Activities, Indirect 24934000000 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Net Cash Flow from Continuing Operating Activities, Indirect 24934000000 25539000000 37497000000 31211000000 30,818,000,000 Cash Generated from Operating Activities 24934000000 25539000000 21890000000 19289000000 22,677,000,000 Income/Loss before Non-Cash Adjustment 20642000000 25539000000 21890000000 19289000000 22,677,000,000 Total Adjustments for Non-Cash Items 6517000000 18936000000 18525000000 17930000000 15,227,000,000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3439000000 3797000000 4236000000 2592000000 5,748,000,000 Depreciation and Amortization, Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3,725,000,000 Depreciation, Non-Cash Adjustment 3215000000 3304000000 2945000000 2753000000 3,725,000,000 Amortization, Non-Cash Adjustment 224000000 3085000000 2730000000 2525000000 3,539,000,000 Stock-Based Compensation, Non-Cash Adjustment 3954000000 219000000 215000000 228000000 186,000,000 Taxes, Non-Cash Adjustment 1616000000 3874000000 3803000000 3745000000 3,223,000,000 Investment Income/Loss, Non-Cash Adjustment 2478000000 1287000000 379000000 1100000000 1,670,000,000 Gain/Loss on Financial Instruments, Non-Cash Adjustment 2478000000 2158000000 2883000000 4751000000 -3,262,000,000 Other Non-Cash Items 14000000 2158000000 2883000000 4751000000 -3,262,000,000 Changes in Operating Capital 2225000000 64000000 8000000 255000000 392,000,000 Change in Trade and Other Receivables 5819000000 2806000000 871000000 1233000000 1,702,000,000 Change in Trade/Accounts Receivable 5819000000 2409000000 3661000000 2794000000 -5,445,000,000 Change in Other Current Assets 399000000 2409000000 3661000000 2794000000 -5,445,000,000 Change in Payables and Accrued Expenses 6994000000 1255000000 199000000 7000000 -738,000,000 Change in Trade and Other Payables 1157000000 3157000000 4074000000 4956000000 6,938,000,000 Change in Trade/Accounts Payable 1157000000 238000000 130000000 982000000 963,000,000 Change in Accrued Expenses 5837000000 238000000 130000000 982000000 963,000,000 Change in Deferred Assets/Liabilities 368000000 2919000000 4204000000 3974000000 5,975,000,000 Change in Other Operating Capital 3369000000 272000000 3000000 137000000 207,000,000 Change in Prepayments and Deposits 3041000000 1082000000 785000000 740,000,000 Cash Flow from Investing Activities 11016000000 Cash Flow from Continuing Investing Activities 11016000000 10050000000 9074000000 5383000000 -7,281,000,000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net 6383000000 10050000000 9074000000 5383000000 -7,281,000,000 Purchase of Property, Plant and Equipment 6383000000 6819000000 5496000000 5942000000 -5,479,000,000 Sale and Disposal of Property, Plant and Equipment 6819000000 5496000000 5942000000 -5,479,000,000 Purchase/Sale of Business, Net 385000000 Purchase/Acquisition of Business 385000000 259000000 308000000 1666000000 -370,000,000 Purchase/Sale of Investments, Net 4348000000 259000000 308000000 1666000000 -370,000,000 Purchase of Investments 40860000000 3360000000 3293000000 2195000000 -1,375,000,000 Sale of Investments 36512000000 35153000000 24949000000 37072000000 -36,955,000,000 Other Investing Cash Flow 100000000 31793000000 21656000000 39267000000 35,580,000,000 Purchase/Sale of Other Non-Current Assets, Net 388000000 23000000 30000000 -57,000,000 Sales of Other Non-Current Assets Cash Flow from Financing Activities 16511000000 15254000000 Cash Flow from Continuing Financing Activities 16511000000 15254000000 15991000000 13606000000 -9,270,000,000 Issuance of/Payments for Common Stock, Net 13473000000 12610000000 15991000000 13606000000 -9,270,000,000 Payments for Common Stock 13473000000 12610000000 12796000000 11395000000 -7,904,000,000 Proceeds from Issuance of Common Stock 12796000000 11395000000 -7,904,000,000 Issuance of/Repayments for Debt, Net 115000000 42000000 Issuance of/Repayments for Long Term Debt, Net 115000000 42000000 1042000000 37000000 -57,000,000 Proceeds from Issuance of Long Term Debt 6250000000 6350000000 1042000000 37000000 -57,000,000 Repayments for Long Term Debt 6365000000 6392000000 6699000000 900000000 0 Proceeds from Issuance/Exercising of Stock Options/Warrants 2923000000 2602000000 7741000000 937000000 -57,000,000 2453000000 2184000000 -1,647,000,000 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 0 300000000 10000000 338,000,000,000 Effect of Exchange Rate Changes 20945000000 23719000000 23630000000 26622000000 26,465,000,000 Cash and Cash Equivalents, Beginning of Period 25930000000 235000000000 3175000000 300000000 6,126,000,000 Cash Flow Supplemental Section 181000000000 146000000000 183000000 143000000 210,000,000 Change in Cash as Reported, Supplemental 23719000000000 23630000000000 26622000000000 26465000000000 20,129,000,000,000 Income Tax Paid, Supplemental 2774000000 89000000 2992000000 6,336,000,000 Cash and Cash Equivalents, Beginning of Period 13412000000 157000000 -4,990,000,000 12 Months Ended Q4 2020 Q4 2019 Income Statement USD in "000'"s Repayments for Long Term Debt Dec. 31, 2020 Dec. 31, 2019 Costs and expenses: Cost of revenues 182527 161,857 Research and development Sales and marketing 84732 71,896 General and administrative 27573 26,018 European Commission fines 17946 18,464 Total costs and expenses 11052 9,551 Income from operations 0 1,697 Other income (expense), net 141303 127,626 Income before income taxes 41224 34,231 Provision for income taxes 6858000000 5,394 Net income 22677000000 19,289,000,000 *include interest paid, capital obligation, and underweighting 22677000000 19,289,000,000 22677000000 19,289,000,000 Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)-- Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) For Paperwork Reduction Act Notice, see the seperate Instructions. JPMORGAN TRUST III A/R Aging Summary As of July 28, 2022 ZACHRY T WOOD Days over due Effeective Tax Rate Prescribed by the Secretary of the Treasury. 44591 31 - 60 61 - 90 91 and over TOTAL £134,839.00 Alphabet Inc. =USD('"'$'"'-in'-millions)" Ann. Rev. Date £43,830.00 £43,465.00 £43,100.00 £42,735.00 £42,369.00 Revenues £161,857.00 £136,819.00 £110,855.00 £90,272.00 £74,989.00 Cost of revenues -£71,896.00 -£59,549.00 -£45,583.00 -£35,138.00 -£28,164.00 Gross profit £89,961.00 £77,270.00 £65,272.00 £55,134.00 £46,825.00 Research and development -£26,018.00 -£21,419.00 -£16,625.00 -£13,948.00 -£12,282.00 Sales and marketing -£18,464.00 -£16,333.00 -£12,893.00 -£10,485.00 -£9,047.00 General and administrative -£9,551.00 -£8,126.00 -£6,872.00 -£6,985.00 -£6,136.00 European Commission fines -£1,697.00 -£5,071.00 -£2,736.00 — — Income from operations £34,231.00 £26,321.00 £26,146.00 £23,716.00 £19,360.00 Interest income £2,427.00 £1,878.00 £1,312.00 £1,220.00 £999.00:,'' +'"Publish::":,''' +'"Launch::":,'' +'"Release::":,'' +'"Deploy::":, "Deposit'@47-2041-6547'@071921891'@pnc.com/mybusiness/":,'' +'"const":,'' +'"322,203 63,069,282 90,262,454 11,073,033 15,576,684 260,314,845 +:Build:: +PUBLISH: +LAUNCH: +RELEASE: +DEPLOY :AUTOMATE +AUTOMATE :DISPATCH 👍 ::From 4e8bc6c0180cbeb882f6c425ff38a41db1a79e76 Mon Sep 17 00:00:00 2001 +From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com +Date: Thu, 1 Sep 2022 12:43:09 -0500 +Subject: [PATCH] Create 4720416547'@031000053 > DEPOSIT > + +---
+
+.../4720416547'@031000053 > DEPOSIT > | 36 +++++++++++++++++++ 1 file changed, 36 insertions(+) create mode 100644 .github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +diff --git a/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > b/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +new file mode 100644 +index 00000000..9f0ebb86 +--- /dev/null ++++ b/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +@@ -0,0 +1,36 @@ ++# This is a basic workflow to help you get started with Actions ++ ++name: CI ++ ++# Controls when the workflow will run ++on: ++ # Triggers the workflow on push or pull request events but only for the "master" branch ++ push: ++ branches: [ "master" ] ++ pull_request: ++ branches: [ "master" ] ++ ++ # Allows you to run this workflow manually from the Actions tab ++ workflow_dispatch: ++ ++# A workflow run is made up of one or more jobs that can run sequentially or in parallel ++jobs: ++ # This workflow contains a single job called "build" ++ build: ++ # The type of runner that the job will run on ++ runs-on: ubuntu-latest ++ ++ # Steps represent a sequence of tasks that will be executed as part of the job ++ steps: ++ # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it ++ - uses: actions/checkout@v3 ++ ++ # Runs a single command using the runners shell ++ - name: Run a one-line script ++ run: echo Hello, world! ++ ++ # Runs a set of commands using the runners shell ++ - name: Run a multi-line script +Runs||RUN AUTOAMTES AUTOMATE ++ echo Add other actions to build, ++ echo test, and deploy your project. : +DISPATCH :AUTOMATE +AUTOMATES +424B3 1 d424b3.htm FORM 424B3
+
+Table of Contents Filed Pursuant to Rule 424(b)(3)
+
+Registration No. 333-145109
+
+Prospectus dated May 1, 2008
+
+Chase Issuance Trust
+
+Issuing Entity
+
+Chase Bank USA, National Association
+
+Sponsor, Depositor, Originator, Administrator and Servicer
+
+The issuing entity—
+
+| • | | may periodically issue notes in a series comprised of one or more classes or tranches; +-- | -- | -- | -- +
+
+“Principal Collections” means, for any month, the sum of (1) for credit card receivables designated for inclusion in the issuing entity, all collections other than those designated as Finance Charge Collections on revolving credit card accounts designated for that month and (2) for any collateral certificate designated for inclusion in the issuing entity, all collections of principal receivables, including Collateral Certificate Principal Shortfall Payments, allocated to the holder of that collateral certificate for that month.
+
+“Principal Payment Date” means, for any series, class or tranche of notes, any date on which a payment in respect of principal is to be made.
+
+“Rapid Amortization Period” means (1) for Series 2002-CC, the period beginning on and including the pay out commencement date and ending on the earlier of the Series 2002-CC termination date and the First USA Master Trust Termination Date and (2) for Series 2004-CC, the period beginning on and including the pay out commencement date and ending on the earlier of the Series 2004-CC termination date and the Chase Master Trust Termination Date.
+
+“Rating Agency” means, with respect to each series, the rating agency or agencies, if any, specified in the related prospectus supplement.
+
+“Receivables Servicing Fee” means, for any month, one-twelfth of the product of (1) the Receivables Servicing Fee Percentage and (2) the Issuing Entity Average Principal Balance for that month.
+
+172
+
+Table of Contents “Receivables Servicing Fee Percentage” means, 1.50% for so long as Chase Bank USA, National Association is the servicer, or 2.00% if Chase Bank USA, National Association is no longer the servicer.
+
+“Recoveries” means Chase Master Trust Recoveries, First USA Master Trust Recoveries or Issuing Entity Recoveries, as applicable.
+
+“Regulation AB” shall mean Subpart 229.1100 — Asset Backed Securities (Regulation AB), 17 C.F.R. §§229.1100-229.1123, as such may be amended from time to time, and subject to such clarification and interpretation as have been provided by the SEC in the adopting release (Asset-Backed Securities, Securities Act Release No. 33-8518, 70 Fed. Reg. 1,506, 1,531 (Jan. 7, 2005)) or by the staff of the SEC, or as may be provided by the SEC or its staff from time to time.
+
+“Removal Date” means the date of any removal of credit card receivables in revolving credit card accounts from the First USA Master Trust Portfolio or the Chase Master Trust Portfolio, as applicable.
+
+“Required Transferor Amount” means, for any month, the product of (1) with respect to any date of determination, the aggregate outstanding dollar amount of receivables in the issuing entity that are principal receivables as of the close of business on the last day of that month and (2) the Required Transferor Amount Percentage.
+
+“Required Transferor Amount Percentage” means 4% or such other percentage as will be designated from time to time by the servicer, but, if that other percentage is less than 4%, the servicer must have provided to the indenture trustee and the collateral agent (A) an Issuing Entity Tax Opinion, and (B) written confirmation from each rating agency that has rated any outstanding notes that the change will not result in the reduction, qualification with negative implications or withdrawal of its then-current rating of any outstanding notes.
+
+“Revolving Period” means a First USA Collateral Certificate Revolving Period or a Chase Collateral Certificate Revolving Period.
+
+“Scheduled Principal Payment Date” means, for any series, class or tranche of notes, the date on which the stated principal amount of that series, class or tranche is expected to be repaid.
+
+“SEC” means the United States Securities and Exchange Commission, as from time to time constituted, created under the Securities Exchange Act of 1934, as amended.
+
+“Segregated Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Segregated Finance Charge Collections.”
+
+“Servicing Fee” means, for any month, the product of (1) the Receivables Servicing Fee for that month and (2) the CHASEseries Floating Allocation Percentage for that month.
+
+“Servicing Fee Percentage” means, for any month, the annualized percentage equivalent of a fraction, the numerator of which is the Servicing Fee and the denominator of which is the Nominal Liquidation Amount used in the calculation of the CHASEseries Floating Allocation Percentage for that month.
+
+“SFAS 140” means Statement of Financial Accounting Standards No. 140, Accounting for Transfers and Servicing of Financial Assets and Extinguishments of Liabilities, a replacement of FASB Statement 125, or any replacement FASB Statement, or amendment or interpretation thereof.
+
+“Shared Excess Available Finance Charge Collections” means, for any month, as of the related determination date, with respect to any series of notes in Shared Excess Available Finance Charge Collections Group A, the sum of (1) the amount of Available Finance Charge Collections with respect to that month,
+
+173
+
+Table of Contents available after application to cover targeted deposits to the interest funding account, payment of the Servicing Fee and application to cover any unfunded CHASEseries Default Amount or any deficits in the Nominal Liquidation Amount of the notes, targeted deposits to the Class C reserve account, if applicable, and any other payments in respect of CHASEseries notes and (2) the Finance Charge Collections remaining after all required payments and deposits from all other series identified as belonging to Shared Excess Available Finance Charge Collections Group A which the applicable indenture supplements for those series specify are to be treated as “Shared Excess Available Finance Charge Collections.”
+
+“Shared Excess Available Finance Charge Collections Group A” means the various series of notes—which will include the CHASEseries notes—that may be designated as a single group for the purpose of sharing Shared Excess Available Finance Charge Collections.
+
+“Shared Excess Available Principal Collections” means, for any month, the sum of (1) with respect to the notes, the amount of Available Principal Collections remaining after all required applications of those amounts described in “Deposit and Application of Funds in the Issuing Entity—Application of Available Principal Collections,” (2) with respect to any series of notes other than the CHASEseries, the Principal Collections allocated to that series of notes remaining after all required payments and deposits that are specified to be treated as “Shared Excess Available Principal Collections” in the applicable indenture supplement, and (3) the aggregate amount on deposit in the excess funding account following any deposit or withdrawal made during that month as described in “Sources of Funds to Pay the Notes—Issuing Entity Bank Accounts.”
+
+“Transfer Date” means the Business Day immediately prior to the applicable distribution date for any series of certificates issued by the Chase Master Trust or the First USA Master Trust.
+
+“Transferor Amount” means, for any month, an amount equal to (1) the Pool Balance for that month minus (2) the aggregate Nominal Liquidation Amount of all notes as of the close of business on the last day of that month.
+
+“Transferor Certificate” means (1) the certificate representing the Transferor Amount or (2) the uncertificated interest in the issuing entity comprising the Transferor Amount.
+
+“Transferor Percentage” means, for any month, 100% minus the sum of the aggregate CHASEseries Noteholder Percentage of all series outstanding with respect to Principal Collections, Finance Charge Collections, the Receivables Servicing Fee or the Default Amount, as applicable.
+
+“Trust Portfolios” means the First USA Master Trust Portfolio, the Chase Master Trust Portfolio and the issuing entity portfolio.
+
+“UCC” means the Uniform Commercial Code as in effect from time to time in the applicable jurisdiction.
+
+“Unapplied Excess Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Excess Finance Charge Collections and Unapplied Master Trust Level Excess Finance Charge Collections.”
+
+“Unapplied Master Trust Level Excess Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Excess Finance Charge Collections and Unapplied Master Trust Level Excess Finance Charge Collections.”
+
+“Unapplied Master Trust Level Principal Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Master Trust Level Principal Collections.”
+
+174
+
+-::Run'@https:://pnc.com/https:://pnc.com/README.md/README.md/071921891/071921891/README.md/README.md/47-2041-6547/47-2041-6547/README.md/README.md + + + + +Show | Show +-- | -- +Show + + ADP Payments
+
+Home > Chapter 7: Reports > Sample Custom Reports > Echeck (ACH) Transaction Report
+
+ECHECK (ACH) TRANSACTION REPORT Use this configuration to create a report containing all of the Echeck (ACH) transactions processed in your ADP Payments account for any given date range.
+
+To create an Echeck (ACH) Transaction report, follow the steps for Creating Custom Reports described above, and use the following filters:sample_report_achtrans.jpg
+
+Check both the Transactions and the Customers checkboxes in the Include in Report section.
+
+Set the Date Range filters to “all,” select a rolling date range, or enter a custom Start date and End date. Then select whether you want to Report on transactions by “Enter date” or “Settle date.”
+
+In the Payment Options section, check only the E-Check box in the Type section.
+
+In the Payment Options section, check the All box under Status.
+
+Suggested fields to add to the report:
+
+Transaction.Transaction ID
+
+Transaction.Transaction Date
+
+Transaction.Status
+
+Transaction.Payment Type
+
+Transaction.Amount
+
+Transaction.Masked Account Number
+
+Transaction.Estimated Settle Date
+
+Transaction.Actual Settlement Date
+
+Transaction.Invoice Number
+
+Transaction.Schedule Id
+
+Customer.Customer ID
+
+Customer.Account Number
+
+Customer.Company
+
+Customer.First Name
+
+Customer.Last Name
+
+Customer.Billing City
+
+Customer.Billing State
+
+Customer.Phone 1
+
+Customer.Email
+
+Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Sample Custom Reports > Echeck (ACH) Transaction Report + +ECHECK (ACH) TRANSACTION REPORT +Use this configuration to create a report containing all of the Echeck (ACH) transactions processed in your ADP Payments account for any given date range. + + + +To create an Echeck (ACH) Transaction report, follow the steps for Creating Custom Reports described above, and use the following filters:sample_report_achtrans.jpg + +Check both the Transactions and the Customers checkboxes in the Include in Report section. + +Set the Date Range filters to “all,” select a rolling date range, or enter a custom Start date and End date. Then select whether you want to Report on transactions by “Enter date” or “Settle date.” + +In the Payment Options section, check only the E-Check box in the Type section. + +In the Payment Options section, check the All box under Status. + +Suggested fields to add to the report: + +Transaction.Transaction ID + +Transaction.Transaction Date + +Transaction.Status + +Transaction.Payment Type + +Transaction.Amount + +Transaction.Masked Account Number + +Transaction.Estimated Settle Date + +Transaction.Actual Settlement Date + +Transaction.Invoice Number + +Transaction.Schedule Id + +Customer.Customer ID + +Customer.Account Number + +Customer.Company + +Customer.First Name + +Customer.Last Name + +Customer.Billing City + +Customer.Billing State + +Customer.Phone 1 + +Customer.Email
+
++Next › +Click the Action button associated with the report, then click “Add Quick Link.” + +add_quick_link.png + + +You will now see the report in the Reports Quick Links list. +NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name. + +quick_link_report_added00027.jpg +Next › + +Show | Show +-- | -- +Show + + ADP Payments
+Home > Chapter 7: Reports > Custom Reports > Adding Custom Report Quick Links
+
+ADDING CUSTOM REPORT QUICK LINKS Custom reports can be added to the Reports Quick Links section in side navigation by following the steps below. (For more information on Reports Quick Links see Reports Quick Links above.)
+
+Locate the report you want to add in the custom reports table.
+
+Click the Action button associated with the report, then click “Add Quick Link.”
+
+add_quick_link.png You will now see the report in the Reports Quick Links list. NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name.
+
+quick_link_report_added00027.jpg Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Adding Custom Report Quick Links + +ADDING CUSTOM REPORT QUICK LINKS +Custom reports can be added to the Reports Quick Links section in side navigation by following the steps below. (For more information on Reports Quick Links see Reports Quick Links above.) + + + +Locate the report you want to add in the custom reports table. + +Click the Action button associated with the report, then click “Add Quick Link.” + +add_quick_link.png + + +You will now see the report in the Reports Quick Links list. +NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name. + +quick_link_report_added00027.jpg +Next › +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Unsubscribe to a Custom Report + +Unsubscribe to a Custom Report +You can unsubscribe to a custom report at any time. Simply follow the steps below: + +Locate the report to which you want to unsubscribe in the custom reports table. +NOTE: You will know a report has a subscription attached to it if you see an entry in the Subscription field. + +Click the Action button, then click the “Unsubscribe” link. + +unsubscribe_link_custom_report.jpg + + +A pop-up window appears asking you to confirm this request. Click “yes” to continue, or “no” to leave the subscription as is. + +confirm_unsubscribe.jpg +You return to the custom reports table, and the entry in the Subscription column of the table for your report will be blank. + +noate.gif + +You can unsubscribe to any report in the system regardless of the user who created the subscription. So if you don’t recognize a subscription, it’s a good idea to check with your colleagues before removing it. + + + +Next › +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Unsubscribe to a Custom Report + +Unsubscribe to a Custom Report +You can unsubscribe to a custom report at any time. Simply follow the steps below: + +Locate the report to which you want to unsubscribe in the custom reports table. +NOTE: You will know a report has a subscription attached to it if you see an entry in the Subscription field. + +Click the Action button, then click the “Unsubscribe” link. + +unsubscribe_link_custom_report.jpg + + +A pop-up window appears asking you to confirm this request. Click “yes” to continue, or “no” to leave the subscription as is. + +confirm_unsubscribe.jpg +You return to the custom reports table, and the entry in the Subscription column of the table for your report will be blank. + +noate.gif + +You can unsubscribe to any report in the system regardless of the user who created the subscription. So if you don’t recognize a subscription, it’s a good idea to check with your colleagues before removing it. + + + +Next › + +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Subscribe to a Custom Report + +Subscribe to a Custom Report +Follow the steps below to subscribe to a custom report: + +Locate the report to which you want to subscribe in the custom reports table on the Reports dashboard. + +Click the Action button, then click the “Subscribe” link. + +subscribe_link_custom_report.jpg + + +The New subscription pop-up window appears. + +new_subscription_custom_report.jpg + + +Enter the email address to which you want the reports sent in the Email address field. + +Click the down-arrow in the Frequency drop-down box to select how often you want the report emailed. + +If you select “Weekly” or “Every other week” you will see a second drop-down box in which to select the day of the week you want the report sent. + +If you select “Specific day of month,” you will see a second drop-down box in which to select the day of the month you want the report sent. + + + +subscribe_select_frequency.jpg +In the Report types section, select how you would like to receive the report. Select “PDF” for an Adobe Acrobat file, or select “XLS” for an Excel file. +NOTE: You can open the file in Excel and then change its format to import data into other programs. + +noate.gif + +The file provided is an XLSX file. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. + +Click the “save” button. + +You will return to the custom reports table, and you will now see the frequency of your subscription in the Subscription field in the table. + +subscription_entered.jpg + + +You will receive an email with your report on the next scheduled date. +NOTE: Scheduled reports cannot be programmed for the current date. For example, if today is Monday and I program a report to be emailed weekly on Mondays, I won’t get the first email until Monday of next week. + +noate.gif + +You can’t make changes to subscription settings once they are saved. If you want to change a subscription, for example to change the email address to which the report is sent, or to change the frequency, you need to unsubscribe to the report (see Unsubscribe to a Custom Report below) then subscribe again using the new settings. + +Next › + +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Subscribe to a Custom Report + +Subscribe to a Custom Report +Follow the steps below to subscribe to a custom report: + +Locate the report to which you want to subscribe in the custom reports table on the Reports dashboard. + +Click the Action button, then click the “Subscribe” link. + +subscribe_link_custom_report.jpg + + +The New subscription pop-up window appears. + +new_subscription_custom_report.jpg + + +Enter the email address to which you want the reports sent in the Email address field. + +Click the down-arrow in the Frequency drop-down box to select how often you want the report emailed. + +If you select “Weekly” or “Every other week” you will see a second drop-down box in which to select the day of the week you want the report sent. + +If you select “Specific day of month,” you will see a second drop-down box in which to select the day of the month you want the report sent. + + + +subscribe_select_frequency.jpg +In the Report types section, select how you would like to receive the report. Select “PDF” for an Adobe Acrobat file, or select “XLS” for an Excel file. +NOTE: You can open the file in Excel and then change its format to import data into other programs. + +noate.gif + +The file provided is an XLSX file. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. + +Click the “save” button. + +You will return to the custom reports table, and you will now see the frequency of your subscription in the Subscription field in the table. + +subscription_entered.jpg + + +You will receive an email with your report on the next scheduled date. +NOTE: Scheduled reports cannot be programmed for the current date. For example, if today is Monday and I program a report to be emailed weekly on Mondays, I won’t get the first email until Monday of next week. + +noate.gif + +You can’t make changes to subscription settings once they are saved. If you want to change a subscription, for example to change the email address to which the report is sent, or to change the frequency, you need to unsubscribe to the report (see Unsubscribe to a Custom Report below) then subscribe again using the new settings. + +Next › +"From ZACHRY T WOOD<zachryiixixiiwood@gmail.com'":,' +'"#''#'':'':'':' :BEGINS ::'' +THIS PAGE SHOULD JPMORGAN TRUST I SHOULD BE FILLED OUT BY YOUR BANKER OR BESIDE YOUR BANKER +Company Name: JPMORGAN CHASE BANK NA/MSS&BIHMA NA/LLC +Relationship Manager : OWNER +Treasury Management Officer LAWRANCE PAGE\ZACHRY TYLER WOOD +Please link your flow of funds :021000021\S000002965 : +BELOW FOR BANK TEAM TO FILL OUT: +What kind of account(s) does [Company Name] have? +To ensure the customer has the right account(s) enabled in order to implement with Modern Treasury +Corporate is the ONLY account type capable of working with Modern Treasury. +What type of account(s) does the customer have with JPMC? +Commercial +Not Commercial? Will need the customer's account moved to Commercial. +Product Enablement for ZACHRY T WOOD DOB :10-15-19894\SSN :633-44-1725/TcDL :37305581 +Accession positive reception :Connectivity : Let’s make sure the account(s) is/are ready to implement with Modern Treasury. +ACCESS must be enabled in order to integrate with Modern Treasury. +Does the customer have the correct product enabled for their account(s)?: Yes/No (Please Circle) +Yes +No, Please enable ACCESS for the necessary account(s). + +What payment rails are enabled for [Company Name] accounts? +Let’s ensure the customer has the correct payment rails enabled for their business flow of funds. +[Example] Account Number : (check off what is needed only) +ACH +USD Wire +{{'"'$':''' '"{{9'"$2267700000000000}}}'"'' +via-ach/wire >To :021000021 > 000002965 > Wire-inbound >impound >Reverse ach Debit'@0310000534720416547=: @22677000000000.00 +Lockbox +Check-Print +Reporting [Enablement required for all accounts] +Account Reconciliation : +Previous/Intra-day BAI2 +Balance Files +Incoming A +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian- + +::Run :On :-ostats :-On :-on :Run :RUns :run:: + +:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : +:: + +:GLOW7 : + +:Build :: : + + +:-starts + +:AUTOMATE + +::ALL :: + +:'#''#':: + +:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE + +:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts: + +-starts :Run :: + +# my.sig'@#1 : + +# BITORE : + +# bitore.sig : + +# Bitore.sigs :'@"Subjec":, "tFrom :Paradice":, "''@mojoejoejoejoe/mojoejoejoejoe/powerpuffgirls/charlie/Trunk/master/main/tree/x-mas/paradice/Master/TREE/masterbranch/main/tree/Trunnk/Base/Masterbranch/MainBranch/TrunkBase/mainbanch/trunk/main.yml/Contributing.md/read.md/README.md.contributing.md/CoNtRiBuTiNg.Md.ReAdMe.Md] : + +--- .../devcontainer.json => git pull origin main | 16 ++++++++++++++-- 1 file changed, 14 insertions(+), 2 deletions(-) rename .devcontainer/devcontainer.json => git pull origin main (79%) +diff --git a/.devcontainer/devcontainer.json b/git pull origin main +similarity index 79% +rename from .devcontainer/devcontainer.json +rename to git pull origin main +index c6a5c09268e7..661f98dcf676 100644 +--- a/.devcontainer/devcontainer.json ++++ b/git pull origin main +@@ -1,4 +1,16 @@
+
+POST :// :Author :ZACHRY :T :WOOD :zachryiixixiiwood@gmail.com : ++Address :5222 BRADFORD DR : ++PHONE :main :+1 (469) 697-4300 : ++SSN :633-44-1725 : ++DOB ;:10-15-1994 : ++TIME ZONE :CSMT : ++CONTRY :U.S.A. : ++notifications : ++document : ++e-mail :zachryiixixiiwood'@gmail'.com : ++e-mail :josephabanksfedralreserve'@gmail'.com : ++e-mail :nasdaqgoogcoo'@gmail'.com : ++e-mail :josephabanksfederalreserve'@gmail'.com For :format :details, :see :https://aka.ms/devcontainer.json. For config options, see the README at: // https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node // - +@@ -13,14 +25,14 @@ For :format :details, :see :https://aka.ms/devcontainer.json. For config options // Set default container specific settings.json values on container create. "settings": { "terminal.integrated.shell.linux": "/bin/bash", +- "cSpell.language": ",en" ++ "cSpell.language": ",en/es"
+
+},/containers/tree/v0.177.0/containers/javascript-node // - +@@ -13,14 +25,14 @@ For :format :details, :see :https://aka.ms/devcontainer.json. For config options // Set default container specific settings.json values on container create. "settings": { "terminal.integrated.shell.linux": "/bin/bash", +- "cSpell.language": ",en" ++ "cSpell.language": ",en/es"
+
+}, // Install features. Type 'feature' in the VS Code command palette for a full list. "features": { "git-lfs": "latest", "sshd": "latest" +- }, ++ }":, +
+
+// Visual Studio Code extensions which help authoring for docs.github.com. "extensions": [ POST :// :Author :ZACHRY :T :WOOD :zachryiixixiiwood@gmail.com : ++Address :5222 BRADFORD DR : ++PHONE :main :+1 (469) 697-4300 : ++SSN :633-44-1725 : ++DOB ;:10-15-1994 : ++TIME ZONE :CSMT : ++CONTRY :U.S.A. : ++notifications : ++document : ++e-mail :zachryiixixiiwood'@gmail'.com : ++e-mail :josephabanksfedralreserve'@gmail'.com : ++e-mail :nasdaqgoogcoo'@gmail'.com : ++e-mail :josephabanksfederalreserve'@gmail'.com For :format :details, :see :https://aka.ms/devcontainer.json. For config options, see the README at: // https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node // - +@@ -13,14 +25,14 @@ For :format :details, :see :https://aka.ms/devcontainer.json. For config options // Set default container specific settings.json values on container create. "settings": { "terminal.integrated.shell.linux": "/bin/bash", +- "cSpell.language": ",en" ++ "cSpell.language": ",en/es"
+
+}, // Install features. Type 'feature' in the VS Code command palette for a full list. "features": { "git-lfs": "latest", "sshd": "latest" +- }, ++ }":, +
+
+// Visual Studio Code extensions which help authoring for docs.github.com. "extensions": [ + +<\html/> +
+
+<iframe tabindex="-Run::/:Type::/:scripts::/:Script::/:Build::/""build_script":.'"':,'' +'"Build_script'"':'' '"Build'' 'and'' 'Deploy":,'"'''' +"':'Build and Deploy : build_script":,'' +"build_script : DEPOSIT_TICKET'@'C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA//POST":,''":,'"'''' +'"'#':' DEPOSIT_TICKET : "SERVICE_ID":, :60600052''ci :Try calling :navigator.credentials.create(depository)=Try calling :navigator.credentials.create(C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA)"';'' '"//POST":,'' +'"Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +For Paperwork Reduction Act Notice, see the seperate Instructions. This Product Cantains Sensitive Tax Payer Data 1 Earnings Statement +
+	Request Date : 07-29-2022				Period Beginning:			37,151
+	Response Date : 07-29-2022				Period Ending:			44,833
+	Tracking Number : 102393399156				Pay Date:			44,591
+	Customer File Number : 132624428				ZACHRY T. 			WOOD
+					5,323	BRADFORD DR		
++important information Wage and Income Transcript +SSN Provided : XXX-XX-1725 DALLAS TX 75235-8314 +Tax Periood Requested : December, 2020 +units year to date Other Benefits and +674678000 75,698,871,600 Information +Pto Balance +Total Work Hrs +Form W-2 Wage and Tax Statement Important Notes +Employer : COMPANY PH Y: 650-253-0000 +Employer Identification Number (EIN) :XXXXX7919 BASIS OF PAY: BASIC/DILUTED EPS +INTU +2700 C +Quarterly Report on Form 10-Q, as filed with the Commission on +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 3330.90 PAR SHARE VALUE +Employee : +Reciepient's Identification Number :xxx-xx-1725 +ZACH T WOOD +5222 B +on Form 8-K, as filed with the Commission on January 18, 2019). +Submission Type : Original document +Wages, Tips and Other Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5105000.00 510500000 Advice number: 650,001 +Federal Income Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1881380.00 188813800 Pay date: 44,669 +Social Security Wages : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137700.00 13770000 +Social Security Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 853700 xxxxxxxx6547 transit ABA +Medicare Wages and Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510500000 71,921,891 +Medicare Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118166700 NON-NEGOTIABLE +Social Security Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Allocated Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Dependent Care Benefits : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Deffered Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Q" Nontaxable Combat Pay : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "W" Employer Contributions tp a Health Savings Account : . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Y" Defferels under a section 409A nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . . 0 +Code "Z" Income under section 409A on a nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . 0 +Code "R" Employer's Contribution to MSA : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .' 0 +Code "S" Employer's Cotribution to Simple Account : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "T" Expenses Incurred for Qualified Adoptions : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "V" Income from exercise of non-statutory stock options : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "AA" Designated Roth Contributions under a Section 401 (k) Plan : . . . . . . . . . . . . . . . . . . . . 0 +Code "BB" Designated Roth Contributions under a Section 403 (b) Plan : . . . . . . . . . . . . . . . . . . . . . 0 +Code "DD" Cost of Employer-Sponsored Health Coverage : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . +Code "EE" Designated ROTH Contributions Under a Governmental Section 457 (b) Plan : . . . . . . . . . . . . . . . . . . . . . +Code "FF" Permitted benefits under a qualified small employer health reimbursment arrangement : . . . . . . . . . 0 +Code "GG" Income from Qualified Equity Grants Under Section 83 (i) : . . . . . . . . . . . . . . . . . . . . . . $0.00 +Code "HH" Aggregate Defferals Under section 83(i) Elections as of the Close of the Calendar Year : . . . . . . . 0 +Third Party Sick Pay Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Retirement Plan Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Statutory Employee : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Not Statutory Employee +W2 Submission Type : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Original +W2 WHC SSN Validation Code : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correct SSN +The U.S. Internal Revenue Code of 1986, as amended, the Treasury Regulations promulgated thereunder, published pronouncements of the Internal Revenue Service, which may be cited or used as precedents, and case law, any of which may be changed at any time with retroactive effect. No opinion is expressed on any matters other than those specifically referred to above. + +EMPLOYER IDENTIFICATION NUMBER: 61-1767919 EIN 61-1767919
+
+		FEIN	88-1303491					
++[DRAFT FORM OF TAX OPINION] ID: SSN: DOB:
+
+			37,305,581		633,441,725		34,622	
++ALPHABET Name Tax Period Total Social Security Medicare Withholding +ZACHRY T WOOD Fed 941 Corporate Sunday, September 30, 2007 66,987 28,841 6,745 31,400 +5323 BRADFORD DR Fed 941 West Subsidiary Sunday, September 30, 2007 17,115 7,369 1,723 8,023 +DALLAS TX 75235-8314 Fed 941 South Subsidiary Sunday, September 30, 2007 23,906 10,293 2,407 11,206 +ORIGINAL REPORT Fed 941 East Subsidiary Sunday, September 30, 2007 11,248 4,843 1,133 5,272 +Income, Rents, & Royalty Fed 941 Corp - Penalty Sunday, September 30, 2007 27,199 11,710 2,739 12,749 +INCOME STATEMENT Fed 940 Annual Unemp - Corp Sunday, September 30, 2007 17,028 + +GOOGL_income-statement_Quarterly_As_Originally_Reported TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020 Q1 2020 Q4 2019 Q3 2019 + +Gross Profit 146698000000 42337000000 37497000000 35653000000 31211000000 30,818,000,000 25,056,000,000 19,744,000,000 22,177,000,000 25,055,000,000 22,931,000,000 +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000
+
+257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 64,133,000,000 34,071,000,000 +Other Revenue 6,428,000,000 +Cost of Revenue 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 +Cost of Goods and Services 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 +Operating Income/Expenses 67984000000 20452000000 16466000000 16292000000 14774000000 -15,167,000,000 -13,843,000,000 -13,361,000,000 -14,200,000,000 -15,789,000,000 -13,754,000,000 +Selling, General and Administrative Expenses 36422000000 11744000000 8772000000 8617000000 7289000000 -8,145,000,000 -6,987,000,000 -6,486,000,000 -7,380,000,000 -8,567,000,000 -7,200,000,000 +General and Administrative Expenses 13510000000 4140000000 3256000000 3341000000 2773000000 -2,831,000,000 -2,756,000,000 -2,585,000,000 -2,880,000,000 -2,829,000,000 -2,591,000,000 +Selling and Marketing Expenses 22912000000 7604000000 5516000000 5276000000 4516000000 -5,314,000,000 -4,231,000,000 -3,901,000,000 -4,500,000,000 -5,738,000,000 -4,609,000,000 +Research and Development Expenses 31562000000 8708000000 7694000000 7675000000 7485000000 -7,022,000,000 -6,856,000,000 -6,875,000,000 -6,820,000,000 -7,222,000,000 -6,554,000,000 +Total Operating Profit/Loss 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 +Non-Operating Income/Expenses, Total 12020000000 2517000000 2033000000 2624000000 4846000000 3,038,000,000 2,146,000,000 1,894,000,000 -220,000,000 1,438,000,000 -549,000,000 +Total Net Finance Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 +Net Interest Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 +Interest Expense Net of Capitalized Interest 346000000 117000000 77000000 76000000 76000000 -53,000,000 -48,000,000 -13,000,000 -21,000,000 -17,000,000 -23,000,000 +Interest Income 1499000000 378000000 387000000 389000000 345000000 386,000,000 460,000,000 433,000,000 586,000,000 621,000,000 631,000,000 +Net Investment Income 12364000000 2364000000 2207000000 2924000000 4869000000 3,530,000,000 1,957,000,000 1,696,000,000 -809,000,000 899,000,000 -1,452,000,000 +Gain/Loss on Investments and Other Financial Instruments 12270000000 2478000000 2158000000 2883000000 4751000000 3,262,000,000 2,015,000,000 1,842,000,000 -802,000,000 399,000,000 -1,479,000,000 +Income from Associates, Joint Ventures and Other Participating Interests 334000000 49000000 188000000 92000000 5000000 355,000,000 26,000,000 -54,000,000 74,000,000 460,000,000 -14,000,000 +Gain/Loss on Foreign Exchange 240000000 163000000 139000000 51000000 113000000 -87,000,000 -84,000,000 -92,000,000 -81,000,000 40,000,000 41,000,000 +Irregular Income/Expenses 0 0 0 0 0 0 0 0 +Other Irregular Income/Expenses 0 0 0 0 0 0 0 0 +Other Income/Expense, Non-Operating 1497000000 108000000 484000000 613000000 292000000 -825,000,000 -223,000,000 -222,000,000 24,000,000 -65,000,000 295,000,000 +Pretax Income 90734000000 24402000000 23064000000 21985000000 21283000000 18,689,000,000 13,359,000,000 8,277,000,000 7,757,000,000 10,704,000,000 8,628,000,000 +Provision for Income Tax 14701000000 3760000000 4128000000 3460000000 3353000000 -3,462,000,000 -2,112,000,000 -1,318,000,000 -921,000,000 -33,000,000 -1,560,000,000 +Net Income from Continuing Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Net Income after Extraordinary Items and Discontinued Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Net Income after Non-Controlling/Minority Interests 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Diluted Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Income Statement Supplemental Section +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 +Reported Effective Tax Rate 0 0 0 0 0 0 0 0 +Reported Normalized Income 6,836,000,000 +Reported Normalized Operating Profit 7,977,000,000 +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 333.90 31 28 28 27 23 17 10 10 15 10 +Basic EPS from Continuing Operations 114 31 28 28 27 22 17 10 10 15 10 +Basic EPS from Discontinued Operations +Diluted EPS 3330.90 31 28 27 26 22 16 10 10 15 10 +Diluted EPS from Continuing Operations 3330.90 31 28 27 26 22 16 10 10 15 10 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 +Reported Normalized Diluted EPS 10 +Basic EPS 114 31 28 28 27 23 17 10 10 15 10 +Diluted EPS 112 31 28 27 26 22 16 10 10 15 10 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 +Fiscal year end September 28th., 2022. | USD + +31622,6:39 PM +Morningstar.com Intraday Fundamental Portfolio View Print Report Print + +3/6/2022 at 6:37 PM Current Value
+
+								15,335,150,186,014
++GOOGL_income-statement_Quarterly_As_Originally_Reported Q4 2021 +Cash Flow from Operating Activities, Indirect 24934000000 Q3 2021 Q2 2021 Q1 2021 Q4 2020 +Net Cash Flow from Continuing Operating Activities, Indirect 24934000000 25539000000 37497000000 31211000000 30,818,000,000 +Cash Generated from Operating Activities 24934000000 25539000000 21890000000 19289000000 22,677,000,000 +Income/Loss before Non-Cash Adjustment 20642000000 25539000000 21890000000 19289000000 22,677,000,000 +Total Adjustments for Non-Cash Items 6517000000 18936000000 18525000000 17930000000 15,227,000,000 +Depreciation, Amortization and Depletion, Non-Cash Adjustment 3439000000 3797000000 4236000000 2592000000 5,748,000,000 +Depreciation and Amortization, Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3,725,000,000 +Depreciation, Non-Cash Adjustment 3215000000 3304000000 2945000000 2753000000 3,725,000,000 +Amortization, Non-Cash Adjustment 224000000 3085000000 2730000000 2525000000 3,539,000,000 +Stock-Based Compensation, Non-Cash Adjustment 3954000000 219000000 215000000 228000000 186,000,000 +Taxes, Non-Cash Adjustment 1616000000 3874000000 3803000000 3745000000 3,223,000,000 +Investment Income/Loss, Non-Cash Adjustment 2478000000 1287000000 379000000 1100000000 1,670,000,000 +Gain/Loss on Financial Instruments, Non-Cash Adjustment 2478000000 2158000000 2883000000 4751000000 -3,262,000,000 +Other Non-Cash Items 14000000 2158000000 2883000000 4751000000 -3,262,000,000 +Changes in Operating Capital 2225000000 64000000 8000000 255000000 392,000,000 +Change in Trade and Other Receivables 5819000000 2806000000 871000000 1233000000 1,702,000,000 +Change in Trade/Accounts Receivable 5819000000 2409000000 3661000000 2794000000 -5,445,000,000 +Change in Other Current Assets 399000000 2409000000 3661000000 2794000000 -5,445,000,000 +Change in Payables and Accrued Expenses 6994000000 1255000000 199000000 7000000 -738,000,000 +Change in Trade and Other Payables 1157000000 3157000000 4074000000 4956000000 6,938,000,000 +Change in Trade/Accounts Payable 1157000000 238000000 130000000 982000000 963,000,000 +Change in Accrued Expenses 5837000000 238000000 130000000 982000000 963,000,000 +Change in Deferred Assets/Liabilities 368000000 2919000000 4204000000 3974000000 5,975,000,000 +Change in Other Operating Capital 3369000000 272000000 3000000 137000000 207,000,000 +Change in Prepayments and Deposits 3041000000 1082000000 785000000 740,000,000 +Cash Flow from Investing Activities 11016000000 +Cash Flow from Continuing Investing Activities 11016000000 10050000000 9074000000 5383000000 -7,281,000,000 +Purchase/Sale and Disposal of Property, Plant and Equipment, Net 6383000000 10050000000 9074000000 5383000000 -7,281,000,000 +Purchase of Property, Plant and Equipment 6383000000 6819000000 5496000000 5942000000 -5,479,000,000 +Sale and Disposal of Property, Plant and Equipment 6819000000 5496000000 5942000000 -5,479,000,000 +Purchase/Sale of Business, Net 385000000 +Purchase/Acquisition of Business 385000000 259000000 308000000 1666000000 -370,000,000 +Purchase/Sale of Investments, Net 4348000000 259000000 308000000 1666000000 -370,000,000 +Purchase of Investments 40860000000 3360000000 3293000000 2195000000 -1,375,000,000 +Sale of Investments 36512000000 35153000000 24949000000 37072000000 -36,955,000,000 +Other Investing Cash Flow 100000000 31793000000 21656000000 39267000000 35,580,000,000 +Purchase/Sale of Other Non-Current Assets, Net 388000000 23000000 30000000 -57,000,000 +Sales of Other Non-Current Assets +Cash Flow from Financing Activities 16511000000 15254000000 +Cash Flow from Continuing Financing Activities 16511000000 15254000000 15991000000 13606000000 -9,270,000,000 +Issuance of/Payments for Common Stock, Net 13473000000 12610000000 15991000000 13606000000 -9,270,000,000 +Payments for Common Stock 13473000000 12610000000 12796000000 11395000000 -7,904,000,000 +Proceeds from Issuance of Common Stock 12796000000 11395000000 -7,904,000,000 +Issuance of/Repayments for Debt, Net 115000000 42000000 +Issuance of/Repayments for Long Term Debt, Net 115000000 42000000 1042000000 37000000 -57,000,000 +Proceeds from Issuance of Long Term Debt 6250000000 6350000000 1042000000 37000000 -57,000,000 +Repayments for Long Term Debt 6365000000 6392000000 6699000000 900000000 0 +Proceeds from Issuance/Exercising of Stock Options/Warrants 2923000000 2602000000 7741000000 937000000 -57,000,000
+
+	2453000000	2184000000	-1,647,000,000					
++Other Financing Cash Flow +Cash and Cash Equivalents, End of Period +Change in Cash 0 300000000 10000000 338,000,000,000 +Effect of Exchange Rate Changes 20945000000 23719000000 23630000000 26622000000 26,465,000,000 +Cash and Cash Equivalents, Beginning of Period 25930000000 235000000000 3175000000 300000000 6,126,000,000 +Cash Flow Supplemental Section 181000000000 146000000000 183000000 143000000 210,000,000 +Change in Cash as Reported, Supplemental 23719000000000 23630000000000 26622000000000 26465000000000 20,129,000,000,000 +Income Tax Paid, Supplemental 2774000000 89000000 2992000000 6,336,000,000 +Cash and Cash Equivalents, Beginning of Period 13412000000 157000000 -4,990,000,000 + +12 Months Ended +_________________________________________________________
+
+Q4 2020			Q4  2019					
++Income Statement +USD in "000'"s +Repayments for Long Term Debt Dec. 31, 2020 Dec. 31, 2019 +Costs and expenses: +Cost of revenues 182527 161,857 +Research and development +Sales and marketing 84732 71,896 +General and administrative 27573 26,018 +European Commission fines 17946 18,464 +Total costs and expenses 11052 9,551 +Income from operations 0 1,697 +Other income (expense), net 141303 127,626 +Income before income taxes 41224 34,231 +Provision for income taxes 6858000000 5,394 +Net income 22677000000 19,289,000,000 +*include interest paid, capital obligation, and underweighting 22677000000 19,289,000,000
+
+22677000000			19,289,000,000					
++Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)-- +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) + + +For Paperwork Reduction Act Notice, see the seperate Instructions. +JPMORGAN TRUST III +A/R Aging Summary +As of July 28, 2022 +ZACHRY T WOOD
+
+Days over due +Effeective Tax Rate Prescribed by the Secretary of the Treasury. 44591 31 - 60 61 - 90 91 and over +TOTAL £134,839.00
+
+Alphabet Inc. =USD('"'$'"'-in'-millions)" Ann. Rev. Date £43,830.00 £43,465.00 £43,100.00 £42,735.00 £42,369.00 Revenues £161,857.00 £136,819.00 £110,855.00 £90,272.00 £74,989.00 Cost of revenues -£71,896.00 -£59,549.00 -£45,583.00 -£35,138.00 -£28,164.00 Gross profit £89,961.00 £77,270.00 £65,272.00 £55,134.00 £46,825.00 Research and development -£26,018.00 -£21,419.00 -£16,625.00 -£13,948.00 -£12,282.00 Sales and marketing -£18,464.00 -£16,333.00 -£12,893.00 -£10,485.00 -£9,047.00 General and administrative -£9,551.00 -£8,126.00 -£6,872.00 -£6,985.00 -£6,136.00 European Commission fines -£1,697.00 -£5,071.00 -£2,736.00 — — Income from operations £34,231.00 £26,321.00 £26,146.00 £23,716.00 £19,360.00 Interest income £2,427.00 £1,878.00 £1,312.00 £1,220.00 £999.00:,''" aria-hidden="true" style="position: absolute; width: 9em; height: 9em; top: -99em;"></iframe> Conversation opened. 1 read message.
+
+Skip to content Using Gmail with screen readers | You’re out of storage space and will soon be unable to send or receive emails until you free up space or purchase additional storage. Changes to your storage space may take up to 24 hours to update. +Pay. +Inbox + +ZACHRY WOOD zachryiixixiiwood@gmail.com +Sat, Sep 3, 1:46 PM (22 hours ago) +to me + +Get answers to your investing questions from the SEC's website dedicated to retail investors +Get answers to your investing questions from the SEC's website dedicated to retail investors +1 A 2 Earnings Statement +ALPHABET 37151 ALPHABET Period Beginning: +1600 AMPITHEATRE PARKWAY Period Ending: 44833 1601 AMPITHEATRE PARKWAY DR Period Ending: DR +MOUNTAIN VIEW, C.A., 94043 Pay Date: 44591 MOUNTAIN VIEW, C.A., 94044 Pay Date: +Taxable Marital Status: +Exemptions/Allowances ZACHRY T. WOOD Taxable Marital Status: +Exemptions/Allowances Married ZACHRY T. Married +5323 BRADFORD DR 5324 +Federal: Federal: +DALLAS TX 75235-8314 DALLAS +TX: NO State Incorne Tax TX: NO State Incorne Tax +rate units year to date Other Benefits and Earnings rate units year to date Earnings Other Benefits and +112.2 674678000 7569887160000.0% Information this period total to date Regular 1349355888 2024033776 75698871601 Regular Information +Pto Balance Overtime Overtime Pto Balance +Total Work Hrs 0 75698871600 Bonus +Training Bonus +Training Total Work Hrs +Gross Pay 75698871600 Important Notes Gross Pay 75698871601 Important Notes +COMPANY PH Y: 650-253-0000 COMPANY PH Y: 650-253-0001 +Statutory BASIS OF PAY: BASIC/DILUTED EPS Deductions Statutory Deductions BASIS OF PAY: BASIC/DILUTED EPS +Federal Income Tax Federal Income Tax +Social Security Tax Social Security Tax +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE +Medicare Tax Medicare Tax +Net Pay 70842743866 70842743866 Net Pay 70842743867 70842743867 +CHECKING CHECKING +Net Check $70,842,743,866.00 Net Check 70842743867 +Your federal taxable wages this period are $ Your federal taxable wages this period are $ +ALPHABET INCOME Advice number: 650001 ALPHABET INCOME Advice number: +1600 AMPIHTHEATRE PARKWAY MOUNTAIN VIEW CA 94043 Pay date:_ 44669 1601 AMPIHTHEATRE PARKWAY MOUNTAIN VIEW CA 94043 Pay date:_ +Deposited to the account Of xxxxxxxx6547 transit ABA amount Deposited to the account Of xxxxxxxx6548 +PLEASE READ THE IMPORTANT DISCLOSURES BELOW + +FEDERAL RESERVE MASTER SUPPLIER ACCOUNT 31000053-052101023 COD +633-44-1725 Zachryiixixiiiwood@gmail.com 47-2041-6547 111000614 31000053 +PNC Bank PNC Bank Business Tax I.D. Number: 633441725 +CIF Department (Online Banking) Checking Account: 47-2041-6547 +P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation +500 First Avenue ALPHABET +Pittsburgh, PA 15219-3128 5323 BRADFORD DR +NON-NEGOTIABLE DALLAS TX 75235 8313 +ZACHRY, TYLER, WOOD +4/18/2022 650-2530-000 469-697-4300 +SIGNATURE Time Zone: Eastern Central Mountain Pacific +Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value +5264-5331 70842743866 +PLEASE READ THE IMPORTANT DISCLOSURES BELOW + +FEDERAL RESERVE MASTER SUPPLIER ACCOUNT 31000053-052101023 COD +633-44-1725 Zachryiixixiiiwood@gmail.com 47-2041-6547 111000614 31000053 +PNC Bank PNC Bank Business Tax I.D. Number: 633441725 +CIF Department (Online Banking) Checking Account: 47-2041-6547 +P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation +500 First Avenue ALPHABET +Pittsburgh, PA 15219-3128 5323 BRADFORD DR +NON-NEGOTIABLE DALLAS TX 75235 8313 +ZACHRY, TYLER, WOOD +4/18/2022 650-2530-000 469-697-4300 +SIGNATURE Time Zone: Eastern Central Mountain Pacific +Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value +NON-NEGOTIABLE NON-NEGOTIABLE +PLEASE READ THE IMPORTANT DISCLOSURES BELOW PLEASE READ THE IMPORTANT DISCLOSURES BELOW +... + +[Message clipped] View entire message +<\head> +Purl=xvlmsnvx==2001="Author":,"ZachryTylerWood'@Administrator'@.it.git/.github.gist.'@.github.com'@.github.gists/secret/BTIORE/RESTORE: :BITORE_34173/t/((c)(r))/ +<\head/> +<tit/le> +
+
+<iframe tabindex="-1" aria-hidden="true" style="position: absolute; width: 9em; height: 9em; top: -99em;"></iframe>
+Conversation opened. 1 read message.
+
+Skip to content Using Gmail with screen readers + | You’re out of storage space and will soon be unable to send or receive emails until you free up space or purchase additional storage. Changes to your storage space may take up to 24 hours to update. +-- | -- +
+
+Conversation opened. 1 read message. + +Skip to content +Using Gmail with screen readers You’re out of storage space and will soon be unable to send or receive emails until you free up space or purchase additional storage. Changes to your storage space may take up to 24 hours to update. +2 of 19,184 +Pay. +Inbox +ZACHRY WOOD zachryiixixiiwood@gmail.com +Sat, Sep 3, 1:46 PM (22 hours ago) +to me + +Get answers to your investing questions from the SEC's website dedicated to retail investors +Get answers to your investing questions from the SEC's website dedicated to retail investors +1 A 2 Earnings Statement +ALPHABET 37151 ALPHABET Period Beginning: +1600 AMPITHEATRE PARKWAY Period Ending: 44833 1601 AMPITHEATRE PARKWAY DR Period Ending: DR +MOUNTAIN VIEW, C.A., 94043 Pay Date: 44591 MOUNTAIN VIEW, C.A., 94044 Pay Date: +Taxable Marital Status: +Exemptions/Allowances ZACHRY T. WOOD Taxable Marital Status: +Exemptions/Allowances Married ZACHRY T. Married +5323 BRADFORD DR 5324 +Federal: Federal: +DALLAS TX 75235-8314 DALLAS +TX: NO State Incorne Tax TX: NO State Incorne Tax +rate units year to date Other Benefits and Earnings rate units year to date Earnings Other Benefits and +112.2 674678000 7569887160000.0% Information this period total to date Regular 1349355888 2024033776 75698871601 Regular Information +Pto Balance Overtime Overtime Pto Balance +Total Work Hrs 0 75698871600 Bonus +Training Bonus +Training Total Work Hrs +Gross Pay 75698871600 Important Notes Gross Pay 75698871601 Important Notes +COMPANY PH Y: 650-253-0000 COMPANY PH Y: 650-253-0001 +Statutory BASIS OF PAY: BASIC/DILUTED EPS Deductions Statutory Deductions BASIS OF PAY: BASIC/DILUTED EPS +Federal Income Tax Federal Income Tax +Social Security Tax Social Security Tax +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE +Medicare Tax Medicare Tax +Net Pay 70842743866 70842743866 Net Pay 70842743867 70842743867 +CHECKING CHECKING +Net Check $70,842,743,866.00 Net Check 70842743867 +Your federal taxable wages this period are $ Your federal taxable wages this period are $ +ALPHABET INCOME Advice number: 650001 ALPHABET INCOME Advice number: +1600 AMPIHTHEATRE PARKWAY MOUNTAIN VIEW CA 94043 Pay date:_ 44669 1601 AMPIHTHEATRE PARKWAY MOUNTAIN VIEW CA 94043 Pay date:_ +Deposited to the account Of xxxxxxxx6547 transit ABA amount Deposited to the account Of xxxxxxxx6548 +PLEASE READ THE IMPORTANT DISCLOSURES BELOW + +FEDERAL RESERVE MASTER SUPPLIER ACCOUNT 31000053-052101023 COD +633-44-1725 Zachryiixixiiiwood@gmail.com 47-2041-6547 111000614 31000053 +PNC Bank PNC Bank Business Tax I.D. Number: 633441725 +CIF Department (Online Banking) Checking Account: 47-2041-6547 +P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation +500 First Avenue ALPHABET +Pittsburgh, PA 15219-3128 5323 BRADFORD DR +NON-NEGOTIABLE DALLAS TX 75235 8313 +ZACHRY, TYLER, WOOD +4/18/2022 650-2530-000 469-697-4300 +SIGNATURE Time Zone: Eastern Central Mountain Pacific +Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value +5264-5331 70842743866 +PLEASE READ THE IMPORTANT DISCLOSURES BELOW + +FEDERAL RESERVE MASTER SUPPLIER ACCOUNT 31000053-052101023 COD +633-44-1725 Zachryiixixiiiwood@gmail.com 47-2041-6547 111000614 31000053 +PNC Bank PNC Bank Business Tax I.D. Number: 633441725 +CIF Department (Online Banking) Checking Account: 47-2041-6547 +P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation +500 First Avenue ALPHABET +Pittsburgh, PA 15219-3128 5323 BRADFORD DR +NON-NEGOTIABLE DALLAS TX 75235 8313 +ZACHRY, TYLER, WOOD +4/18/2022 650-2530-000 469-697-4300 +SIGNATURE Time Zone: Eastern Central Mountain Pacific +Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value +NON-NEGOTIABLE NON-NEGOTIABLE +PLEASE READ THE IMPORTANT DISCLOSURES BELOW PLEASE READ THE IMPORTANT DISCLOSURES BELOW +... + +[Message clipped] View entire message +<\title/> +
+
+| <style type="text/css"> { | position: absolute; | top: 0; | left: 0; | width: 100%; | height: 100%; | border: none; | display: block; | } | </style> | | <script src="../scripts/third_party/webcomponentsjs/webcomponents-lite.min.js"></script> | | | | | | | <script src="../scripts/configs/requirejsConfig.js"></script> | <script data-main="../scripts/mainApp" src="../scripts/third_party/requireJs/require.js"></script> | | | | | <iframe id="sandbox" name="sandbox" allowfullscreen="true" sandbox="allow-scripts allow-modals allow-same-origin allow-popups" src="qowt.html"></iframe> | | | |
+
++<title></title>
+<style type="text/css"> #sandbox { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; display: block; } </style> <script src="[../scripts/third_party/webcomponentsjs/webcomponents-lite.min.js](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/scripts/third_party/webcomponentsjs/webcomponents-lite.min.js)"></script> <script src="[../scripts/configs/requirejsConfig.js](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/scripts/configs/requirejsConfig.js)"></script> <script data-main="../scripts/mainApp" src="[../scripts/third_party/requireJs/require.js](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/scripts/third_party/requireJs/require.js)"></script>
++<iframe id="sandbox" name="sandbox" allowfullscreen="true" sandbox="allow-scripts allow-modals allow-same-origin allow-popups" src="[qowt.html](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/qowt.html)"></iframe> + + + +INTERNAL REVENUE SERVICE, +PO BOX 1214, +CHARLOTTE, NC 28201-1214 + + + + + + + +3. Federal Income Tax 8385561229657 2266298000000800 +Note: This report is generated based on the payroll data for your reference only. Please contact IRS office for special cases such as late payment. Previous overpayment. +Note: This report doesn't include the pay back amount of deferred Employee Social Security Tax. +Employer Customized Report +ADP +Report Range5/4/2022 - 6/4/2022 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 +EIN: +Customized Report Amount Employee Payment Report +ADP +Employee Number: 3 +Description +Wages, Tips and Other Compensation 22662983361014 Report Range: Tips +Taxable SS Wages 215014 Name: +SSN: 00000 +Taxable SS Tips 00000 Payment Summary +Taxable Medicare Wages 22662983361014 Salary Vacation hourly OT +Advanced EIC Payment 00000 3361014 +Federal Income Tax Withheld 8385561229657 Bonus 00000 00000 +Employee SS Tax Withheld 13331 00000 Other Wages 1 Other Wages 2 +Employee Medicare Tax Withheld 532580113436 Total 00000 00000 +State Income Tax Withheld 00000 22662983361014 +Local Income Tax Withheld +Customized Employer Tax Report 00000 Deduction Summary +Description Amount Health Insurance +Employer SS Tax +Employer Medicare Tax 13331 00000 +Federal Unemployment Tax 328613309009 Tax Summary +State Unemployment Tax 00442 Federal Tax 00007 Total Tax +Customized Deduction Report 00840 $8,385,561,229,657@3,330.90 Local Tax +Health Insurance 00000 +401K 00000 Advanced EIC Payment 8918141356423
+00000 00000 Total 401K 00000 00000 +ZACHRY T WOOD Social Security Tax Medicare Tax State Tax 532580113050 + + +SHAREHOLDERS ARE URGED TO READ THE DEFINITIVE PROXY STATEMENT AND ANY OTHER RELEVANT MATERIALS THAT THE COMPANY WILL FILE WITH THE SEC CAREFULLY IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE. SUCH DOCUMENTS WILL CONTAIN IMPORTANT INFORMATION ABOUT THE COMPANY AND ITS DIRECTORS, OFFICERS AND AFFILIATES. INFORMATION REGARDING THE INTERESTS OF CERTAIN OF THE COMPANY’S DIRECTORS, OFFICERS AND AFFILIATES WILL BE AVAILABLE IN THE DEFINITIVE PROXY STATEMENT. +The Definitive Proxy Statement and any other relevant materials that will be filed with the SEC will be available free of charge at the SEC’s website at www.sec.gov. In addition, the Definitive Proxy Statement (when available) and other relevant documents will also be available, without charge, by directing a request by mail to Attn: Investor Relations, Alphabet Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043 or by contacting investor-relations@abc.xyz. The Definitive Proxy Statement and other relevant documents will also be available on the Company’s Investor Relations website at https://abc.xyz/investor/other/annual-meeting/. + +The Company and its directors and certain of its executive officers may be consideredno participants in the solicitation of proxies with respect to the proposals under the Definitive Proxy Statement under the rules of the SEC. Additional information regarding the participants in the proxy solicitations and a description of their direct and indirect interests, by security holdings or otherwise, also will be included in the Definitive Proxy Statement and other relevant materials to be filed with the SEC when they become available. . 9246754678763 + + + + +3/6/2022 at 6:37 PM
+
+  Q4 2021	Q3 2021	Q2 2021	Q1 2021	Q4 2020					
++GOOGL_income-statement_Quarterly_As_Originally_Reported 24934000000 25539000000 37497000000 31211000000 30818000000
+
+	24934000000	25539000000	21890000000	19289000000	22677000000					
++Cash Flow from Operating Activities, Indirect 24934000000 25539000000 21890000000 19289000000 22677000000 +Net Cash Flow from Continuing Operating Activities, Indirect 20642000000 18936000000 18525000000 17930000000 15227000000 +Cash Generated from Operating Activities 6517000000 3797000000 4236000000 2592000000 5748000000 +Income/Loss before Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3725000000 +Total Adjustments for Non-Cash Items 3439000000 3304000000 2945000000 2753000000 3725000000 +Depreciation, Amortization and Depletion, Non-Cash Adjustment 3215000000 3085000000 2730000000 2525000000 3539000000 +Depreciation and Amortization, Non-Cash Adjustment 224000000 219000000 215000000 228000000 186000000 +Depreciation, Non-Cash Adjustment 3954000000 3874000000 3803000000 3745000000 3223000000 +Amortization, Non-Cash Adjustment 1616000000 -1287000000 379000000 1100000000 1670000000 +Stock-Based Compensation, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 +Taxes, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 +Investment Income/Loss, Non-Cash Adjustment -14000000 64000000 -8000000 -255000000 392000000 +Gain/Loss on Financial Instruments, Non-Cash Adjustment -2225000000 2806000000 -871000000 -1233000000 1702000000 +Other Non-Cash Items -5819000000 -2409000000 -3661000000 2794000000 -5445000000 +Changes in Operating Capital -5819000000 -2409000000 -3661000000 2794000000 -5445000000 +Change in Trade and Other Receivables -399000000 -1255000000 -199000000 7000000 -738000000 +Change in Trade/Accounts Receivable 6994000000 3157000000 4074000000 -4956000000 6938000000 +Change in Other Current Assets 1157000000 238000000 -130000000 -982000000 963000000 +Change in Payables and Accrued Expenses 1157000000 238000000 -130000000 -982000000 963000000 +Change in Trade and Other Payables 5837000000 2919000000 4204000000 -3974000000 5975000000 +Change in Trade/Accounts Payable 368000000 272000000 -3000000 137000000 207000000 +Change in Accrued Expenses -3369000000 3041000000 -1082000000 785000000 740000000 +Change in Deferred Assets/Liabilities +Change in Other Operating Capital
+
+	-11016000000	-10050000000	-9074000000	-5383000000	-7281000000					
++Change in Prepayments and Deposits -11016000000 -10050000000 -9074000000 -5383000000 -7281000000 +Cash Flow from Investing Activities +Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+	-6383000000	-6819000000	-5496000000	-5942000000	-5479000000					
++Purchase/Sale and Disposal of Property, Plant and Equipment, Net +Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 +Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 +Purchase/Sale of Investments, Net +Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000
+
+	100000000	388000000	23000000	30000000	-57000000					
++Sale of Investments +Other Investing Cash Flow -15254000000 +Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 +Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 +Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 +Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 +Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 +Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 +Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 +Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 +Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 +Proceeds from Issuance of Long Term Debt +Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 + +Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 +Other Financing Cash Flow +Cash and Cash Equivalents, End of Period +Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 +Effect of Exchange Rate Changes 25930000000 235000000000) -3175000000 300000000 6126000000 +Cash and Cash Equivalents, Beginning of Period 181000000000 146000000000 183000000 -143000000 210000000 +Cash Flow Supplemental Section 23719000000000 26622000000000 26465000000000 20129000000000 +Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 +Income Tax Paid, Supplemental 13412000000 157000000 +ZACHRY T WOOD -4990000000 +Cash and Cash Equivalents, Beginning of Period +Department of the Treasury +Internal Revenue Service
+
+		Q4 2020			Q4  2019					
++Calendar Year +Due: 04/18/2022
+
+		Dec. 31, 2020			Dec. 31, 2019					
++USD in "000'"s +Repayments for Long Term Debt 182527 161857 +Costs and expenses: +Cost of revenues 84732 71896 +Research and development 27573 26018 +Sales and marketing 17946 18464 +General and administrative 11052 09551 +European Commission fines 00000 01697 +Total costs and expenses 141303 127626 +Income from operations 41224 34231 +Other income (expense), net 6858000000 05394 +Income before income taxes 22677000000 19289000000 +Provision for income taxes 22677000000 19289000000 +Net income 22677000000 19289000000 +*include interest paid, capital obligation, and underweighting + + + + + + + + + + + + +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) +*include interest paid, capital obligation, and underweighting + +Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) + +
+
+					Ssn					
++United States Department of the Treasury +General Counsel +(Administrative & Law) +1500 Pennsylvania Avenue +Washington, D.C. 20220-1219 Paid Period 2019-09-28 - 2021-09-29 +Room.#1402 - Paid Date 2022-04-18
+
+								Pay Date	2022-04-18	
++main. +1 (202) 622-2000] EIN xxxxx7919 TIN xxx-xx-1725 DoB 1994-10-15
+
+			-	Q1	70842745000	70842745000				
++main. +1 (202) 622-2000] Gross Q2 70842745000 70842745000 Rate 00000 00000
+
+			70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	00000	08854	
+			Taxes / Deductions		Stub Number: 1		FICA - Medicare	00000	00000	
+			00000	Rate			Employer Taxes			
+			Net Pay				FUTA	00000	00000	
+			70842745000				SUTA	00000	00000	
+					This period	YTD	Taxes / Deductions	Current	YTD	
+				Pay Schedulec	70842745000	70842745000	Federal Withholding	00000	00000	
+				Annually	70842745000	70842745000	Federal Withholding	00000	00000	
+				Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+				Q3	70842745000	70842745000	Federal Withholding	00000	00000	
+				Q4	70842745000	70842745000	Federal Withholding	00000	00000	
+				CHECK NO.			FICA - Social Security	00000	08854	
+-				20210418			FICA - Medicare	00000	00000	
+-										
+			-							
+			-							
++INTERNAL REVENUE SERVICE, +PO BOX 1214, +CHARLOTTE, NC 28201-1214 + +ZACHRY WOOD +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000 41159000000 46075000000 40499000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000 7977000000 9266000000 9177000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 00000 00000 00000 +Reported Normalized Income 6836000000 +Reported Normalized Operating Profit 7977000000 +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 00010 00010 00015 00010 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Reported Normalized Diluted EPS 00010 +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. + + + + + + +important information + + + + + + + +Description + +Restated Certificate of Incorporation of PayPal Holdings, Inc. +(incorporated by reference to Exhibit 3.01 to PayPal Holdings, Inc.'s +Quarterly Report on Form 10-Q, as filed with the Commission on +July 27, 2017). + +Amended and Restated Bylaws of PayPal Holdings, Inc. (incorporated +by reference to Exhibit 3.1 to PayPal Holdings, Inc.'s Current Report +on Form 8-K, as filed with the Commission on January 18, 2019). + +Opinion of Faegre Drinker Biddle & Reath LLP. + +Consent of PricewaterhouseCoopers LLP, Independent Registered Public +Accounting Firm. + +Consent of Faegre Drinker Biddle & Reath LLP (included in +Exhibit 5.1 to this Registration Statement). + +Power of Attorney (included on the signature page of this +Registration Statement). + +All of Us Financial Inc. 2021 Equity Incentive Plan. + +Filing Fee Table. + + + + + + + +Business Checking +For 24-hour account information, sign on to +pnc.com/mybusiness/ +Business Checking Account number: 47-2041-6547 - continued +Activity Detail +Deposits and Other Additions +ACH Additions +Date posted Amount Transaction description For the period 04/13/2022 to 04/29/2022 +ZACHRY TYLER WOOD +Primary account number: 47-2041-6547 Page 2 of 3 +44678 00063 Reverse Corporate ACH Debit +Effective 04-26-22 Reference number +Checks and Other Deductions 22116905560149 +Deductions Reference number +Date posted Amount Transaction description 22116905560149 +44677 00063 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number +Service Charges and Fees 22116905560149 +Date posted Amount Transaction description on your next statement as a single line item entitled Service +Waived - New Customer Period +4/27/2022 00036 Returned Item Fee (nsf) +Detail of Services Used During Current Period +Note: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement a Charge Period Ending 04/29/2022, +Description Volume Amount +Account Maintenance Charge 70846743866 00000 +Total For Services Used This Peiiod 00000 00000 +Total Service (harge 00
+
+00000 +Reviewing Your Statement ('PNCBANK +Please review this statement carefully and reconcile it with your records. Call the telephone number on the upper right side of the first page of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; +• you have any questions regarding interest paid to an interest-bearing account. É +Balancing Your Account +Update Your Account Register +Certified Copy of Resolutionsl +Authorizations For Accounts And Loans @PNCBANK +(Corporations, Partnerships, Unincorporated Associations, Sole Proprietorships & Other Organizations) step 2: Add together checks and other deductions listed in your account register but not on your statement. +PNC Bank, National Association ("Bank") Taxpayer I.D. Number (TIN) C'eck +Deduction Descretio• Anount +account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law. D pNCBANK +In addition but not by way of limitation, the Bank may take checks, drafts or other items payable to "cash", the Bank or the Customer, and pay the sums represented by such Items in cash to any person presenting such items or credit such Items to the account or obligations of any person presenting such items or any other person or entity as directed by any such person. +Products and Services. Resolved that any of the persons listed in Section 3 above are authorized to enter into contracts and agreements, written or verbal, for any products or services now or in the future offered by the Bank, including but not limited to (i) cash management services, (ii) purchases or sales of foreign exchange, securities or other financial products, (iii) computer/internet-based products and services, (iv) wire transfer of funds from or to the accounts of the Customer at the Bank, and (v) ACH transactions, and the Bank may charge any accounts of the Customer at the Bank for such products or services. +00005 Taxpayer I.D. Number (TIN) +OWNER ("Customer") 633-44-1725 +are hereby authorized (i) to effect loans, advances and renewals at any time for the Customer from the Bank; (ii) to sign and deliver any notes (with or without warrant of attorney to confess judgment) and evidences of indebtedness of the Customer; (iii) to request the Bank to issue letters of credit and to sign and deliver to the bank any agreements on behalf of the Customer to reimburse the Bank for all payments made and expenses incurred by it under such letters of credit and drafts drawn pursuant thereto; (iv) to sign and deliver any instruments or documents on behalf of the Customer guaranteeing, endorsing or securing the payment of any debts or obligations of any person, form or corporation to the Bank; (v) to pledge, assign, transfer, mortgage, grant a security interest in or otherwise hypothecate to the Bank any stock, securities, commercial paper, warehouse receipts and other documents of title, bills, accounts receivable, contract rights, inventory, equipment, real property, and any other investments or property of the Customer, real or personal, tangible or intangible as security for the payment of any and all loans, advances, indebtedness and other liabilities of the Customer to the Bank of every kind and description, direct or indirect, absolute and contingent, joint or several, whether as drawer, maker, endorsee, guarantor, surety or otherwise, and to execute on behalf of the Customer mortgages, pledges, security agreements, financing statements and other instruments or documents in connection therewith; and (vi) to sell or discount with the Bank any commercial paper, bills and other instruments and evidence of indebtedness, warehouse receipts and other documents of title, accounts, accounts receivable, contract rights, and other assets, tangible and intangible, at any time held by the Customer and for such purpose to endorse, assign, transfer and deliver the same to the Bank. +Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET +Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr +R +•d +Ming +or serVlCö n lent services, (ii) purchases or sales of foreig xlll) computerfinternet-based products and services, (iv) wir he Customer at the Bank, and (v) ACH transactions, and the Ba the Bank for such products or services. +It. Resolved that any one of the following:Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testingprocedures as may be established between the Customer and the Bank from time to time. +General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer procedures as may be established between the Customer and the Bank from time to time. +General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer +without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the +/ Customer Copy, page 2 of 4 +without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the Withdrawals and Transfers. Resolved that the Bank is authorized to make payments from the account(s) of +Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner: Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner: +Column1 Column2 +Loans and Extensions of Credit. Resolved that any one of the following:
+
+			Date of this notice: 				44658			
+			Employer Identification Number: 88-1656496							
+			Form: 	SS-4						
++INTERNAL REVENUE SERVICE ZACHRY T WOOD Number of this notice: CP 575 A +CINCINNATI OH 45999-0023 ALPHABET For assistance you may call us at:
+
+5323 BRADFORD DR			1-800-829-4933							
+DALLAS, TX 75235										
+			IF YOU WRITE, ATTACH THE
++STUB AT THE BD OF THIS NOTICE.
+
+						We assigned you				
+This EIN will identify you, your business accounts, tax returns, and +WE ASSIGNED YOU AN EMPLOYER IDENTIFICATION NUMBER +Thank you for applying for an Employer Identification Number (EIN) . +EIN 88-1656496. If the information is + + + + + + +
+
+								Please		
+							6.35-			
++for the tax period(s) in question, please file the return (s) showing you have no liabilities . +If you have questions about at the the forms address or the shown due at dates the top shown, of you this can notice. call us If atyou the phone number or write to us Publication 538, +need help in determining your annual accounting period (tax year) , see Accounting Periods and Methods.
+
+			Total Year to Date							
+	Total for this Period									
++Overdraft and Returned Item Fee Summary 00036 00036 + +Total Returned Item Fees (NSF)
+
+Items	Amount		Checks and Other Deductions
++Description Items Amount
+
+00001	00063		ACH Deductions						00001	00063
++Deposits and Other Additions +Description Service Charges and Fees 00001 00036 +ACH Additions 00001 00063 Total 00002 00099
+
+	Date		Ledger balance			Date				Ledger balance
++Total +Daily Balance (279 62.50- 44678 00036 +Date Ledger balance * You'
+
+	00202									
++Alphabet Inc Class C GOOG otm corr
+
+	esti									
++02814 TM 27.8414.76% 63500 53.:
+
+	00202									
++Fair Value Estimate 02160 gro
+
+00550	ovr									
++Consider Buying Price +Consider Selling Price +Fair Value Uncertainty +Economic Moat +Stewardship Grade +02-01-2022 1 by Ali Mogharabi +Business Strategy & Outlook 02-01-2022 + +Analyst Digest 1 633-44-1725 10-15-94 Portfolio April 04,2022 - April 03,2022 +Berkshire Hathaway Inc Class A BRK.A +
+
+525000 +527760 $0.001 0.00% 367500 +Fair Value Estimate +Consider Buying Price $708,750.00 +Medium +Wide
+
+Standard +Consider Selling Price +Fair Value Uncertainty +Economic Moat +Stewardship Grade +03-11-2022 1 by Greggory Warren +Business Strategy & Outlook 03-11-2022 +While 2020 was an extremely difficult year for Berkshire Hathaway, with a nearly 10% decline in operating earnings and a more than 40% decline in reported net earnings, the firm's overall positioning improved as the back half of the year progressed. The firm saw an even more marked improvement in its insurance investment portfolio, as well as the operating results of its various subsidiaries, last year. As such, we expect 2022 and 2023 to be a return to more normalized levels of revenue growth and profitability (albeit with inflation impacting results in the first half of this year).We continue to view Berkshire's decentralized business model, broad business diversification, high cash-generation capabilities, and unmatched balance sheet strength as true differentiators. While these advantages have been overshadowed by an ever-expanding cash balance-ANhich is earning next to nothing in a near-zero interest-rate environment--we believe the company has finally hit a nexus where it is far more focused on reducing its cash hoard through stock and bond investments and share repurchases. During the past eight calendar quarters, the + + + +not correct as shown above, please make the correction using the attached tear-off stub and return it to us . +Based on the information received from you or your representative, you must file the following forms by the dates shown. We assigned you
+
+4/7/2022 +Form 940 4/7/2022 +Form 943 4/7/2022 If the information is +Form 1065 4/7/2022 +Form 720 4/7/2022 +Your Form 2290 becomes due the month after your vehicle is put into use . +Your Form 1 IC and/or 730 becomes due the month after your wagering starts . +After our review of your information, we have determined that you have not filed +tax returns for the above-mentioned tax period (s) dating as far back as 2007. Plea S +file your return(s) by 04/22/2022. If there is a balance due on the return (s) +penalties and interest will continue to accumulate from the due date of the return (s) +until it is filed and paid. If you were not in business or did not hire any employees +for the tax period(s) in question, please file the return (s) showing you have no liabilities . +If you have questions about the forms or the due dates shown, you can call us at PI +the phone number or write to us at the address shown at the top of this notice. If you +need help in determining your annual accounting period (tax year) , see Publication 538, Accounting Periods and Methods. + +Business Checking +PNCBANK @PNCBANK +For the period 04/13/2022 Primary account number: 47-2041-6547 Page 1 of 3 +146967 1022462 Q 304 Number of enclosures: 0 +ZACHRY TYLER WOOD ALPHABET +5323 BRADFORD DR +DALLAS TX 75235-8314 For 24-hour banking sign on to +PNC Bank Online Banking on pnc.com +FREE Online Bill Pay +For customer service call 1-877-BUS-BNKG +PNC accepts Telecommunications Relay Service (TRS) calls. 00009 +111111111011111000000000000000000000000000000000000000000000000 Para servicio en espalol, 1877.BUS-BNKC, +Moving? Please contact your local branch. +@ Write to: Customer Service PO Box 609 +Pittsburgh , PA 15230-9738 +Visit us at PNC.com/smaIIbusiness +IMPORTANT INFORMATION FOR BUSINESS DEPOSIT CUSTOMERS Date of this notice: +Effective February 18,2022, PNC will be temporarily waiving fees for statement, check image, deposit ticket and deposited item copy requests until further notice. Statement, check image, deposit ticket and deposited Item requests will continue to be displayed in the Details of Services Used section of your monthly statement. We will notify you via statement message prior to reinstating these fees. +If vou have any questions, you may reach out to your business banker branch or call us at 1-877-BUS-BNKG (1-877-287-2654). +Business Checking Summary +Account number; 47-2041-6547 +Overdraft Protection has not been established for this account. Please contact us if you would like to set up this service. Zachry Tyler Wood Alphabet Employer Identification Number: 88-1656496 +Balance Summary Checks and other deductions Ending balance Form: SS-4 +Beginning balance Deposits and other additions Number of this notice: +00000 = 98.50 Average ledger balance 36.00- +Average collected balance For assistance you may call ug at:
+
+			6.35-			6.35-		1-800-829-4933		
++Overdraft and Returned Item Fee Summary Total Year to Date
+
+Total for this Period										
++Total Returned Item Fees (NSF) 00036 00036 IF YOU WRITE, ATTATCHA TYE +STUB AT OYE END OF THIS NOTICE. +Deposits and Other Additions +Description Items Amount Checks and Other Deductions +Description Items Amount +ACH Additions 00001 00063 ACH Deductions 00001 00063
+
+			Service Charges and Fees			00001	00036			
++Total 00001 00063 Total 00002 00099 +Daily Balance Date Date Ledger balance +Date Ledger balance Ledger balance +4/13/2022 00000 44677 62.50- 44678 00036
+
+Form 940 44658 Berkshire Hatha,a,n.. +Business Checking For the period 04/13/2022 to 04/29/2022 44680 +For 24-hour account information, sign on to pnc.com/mybusiness/ ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 +Business Checking Account number: 47-2041-6547 - continued Page 2 of 3 +Acüvity Detail +Deposits and Other Additions did not hire any employee +ACH Additions Referenc numb +Date posted 04/27 Transaction +Amount description +62.50 Reverse Corporate ACH Debit +Effective 04-26-22 the due dates shown, you can call us at
+
+			22116905560149							
++Checks and Other Deductions +ACH Deductions Referenc +Date posted Transaction +Amount description
+
+			number							
++44677 70842743866 Corporate ACH Quickbooks 180041ntuit 1940868
+
+			22116905560149							
++ervice Charges and Fees Referenc +Date posted Transaction +Amount descripton +44678 22116905560149 numb +Detail of Services Used During Current Period 22116905560149
+
+::NOTE:: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement as a single line item entitled Service Charge Period Ending 04/29/2022. +e: The total charge for the following Penod Ending 04/29/2022. +Service Charge description Amount +Account Maintenance Charge 00063 +Total For Services Used This Period 00036 +Total Service Charge 00099 Waived - Waived - New Customer Period +Reviewing Your Statement +of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; you have any questions regarding interest paid to an interest-bearing account. PNCBANK +Balancing Your Account +Update Your Account Register Volume +Compare: The activity detail section of your statement to your account register. +Check Off: +Add to Your Account Register: Balance: +Subtract From Your Account Register Balance: All items in your account register that also appear on your statement. Remember to begin with the ending date of your last statement. (An asterisk { * } will appear in the Checks section if there is a gap in the listing of consecutive check numbers.) +Any deposits or additions including interest payments and ATM or electronic deposits listed on the statement that are not already entered in your register. +Any account deductions including fees and ATM or electronic deductions listed on the statement that are not already entered in your register. +Your Statement Information : step 2: Add together checks and other deductions listed in your account register but not on your statement.
+
+	Amount						Check
++Deduction Descrption Amount +Balancing Your Account +Update Your Account Register
+
+on deposit: 22934637118600.00USD +4720416547 +Reviewing Your Statement +of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; you have any questions regarding interest paid to an interest-bearing account. Total A=$22934637118600 + +Step 3: 22934637118600 + + +Enter the ending balance recorded on your statement +Add deposits and other additions not recorded Total A + $22934637118600 +
+
+		Subtotal=$22934637118600								
++Subtract checks and other deductions not recorded Total B $ 22934637118600 + +The result should equal your account register balance $ 22934637118600
+
+							Total B22934637118600			
++Verification of Direct Deposits + +To verify whether a direct deposit or other transfer to your account has occurred, call us Monday - Friday: 7 AM - 10 PM ET and Saturday & Sunday: 8 AM - 5 PM ET at the customer service number listed on the upper right side of the first page of this statement. +In Case of Errors or Questions About Your Electronic Transfers +Telephone us at the customer service number listed on the upper right side of the first page of this statement or write us at PNC Bank Debit Card Services, 500 First Avenue, 4th Floor, Mailstop P7-PFSC-04-M, Pittsburgh, PA 15219 as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the error or problem appeared. +Tell us your name and account number (if any). +Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information. +Tell us the dollar amount of the suspected error. +We will investigate your complaint and will correct any error promptly. If we take longer than 10 business days, we will provisionally credit your account for the amount you think is in error, so that you will have use of the money during the time it Cakes us to complete our investigation. +EquaLHousing Lender +Member FDIC + + + +Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +Export Custom Report as Excel File +Show 00000
+
+Excel report exports are in XLSX format. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. +1 Locate the report you want to export in the custom reports section of the Reports dashboard, and click an Excel export link. To export the report without first viewing the data, click the “Export XLS” link under the Action button menu. To view the report prior to exporting, click on its linked Report Name, then click the “xls” link in the Export line directly above the report Snapshot. NOTE: You can filter the report by Date Range or Payment Method prior to exporting it; the export will include only those transactions included by the filters. +2 Depending on your browser, you will have the option to open and/or save the file.
+
+a To open the file, click the “Open” button in the dialog box. The file will open in Excel, but will not be saved. You will need to save the file in Excel if you want to store it on your computer. b To save the file to your computer. i Click the “Save” button in the dialog box. ii A Save As dialog box opens. NOTE: In Google Chrome, and some other browsers, clicking the “xls” link will take you directly to this step. iii Enter a name for your file, and select a location on your computer where you want to save the file. iv Click the “Save” button. v You can now open the report directly from your computer at any time, without being logged into ADP Payments. +Next › Reciepient's Social Security Number & TIN :633-44-1725 +WOO ZACH T +5222 B +_____________________________________________________ + +424B3 1 d424b3.htm FORM 424B3
+
+Table of Contents Filed Pursuant to Rule 424(b)(3)
+
+Registration No. 333-145109
+
+Prospectus dated May 1, 2008
+
+Chase Issuance Trust
+
+Issuing Entity
+
+Chase Bank USA, National Association
+
+Sponsor, Depositor, Originator, Administrator and Servicer
+
+The issuing entity—
+
+| • | | may periodically issue notes in a series comprised of one or more classes or tranches; +-- | -- | -- | -- +
+
+Neither the SEC nor any state securities commission has approved these notes or determined that this prospectus or the accompanying prospectus supplement is truthful, accurate or complete. Any representation to the contrary is a criminal offense.
+
+You should consider the discussion under “ Risk Factors” beginning on page 11 of this prospectus before you purchase any notes.
+
+The notes are obligations of the issuing entity only and are not interests in or obligations of Chase Bank USA, National Association, any of its affiliates or any other person or entity.
+
+The notes are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality.
+
+424B3 1 d424b3.htm FORM 424B3 +Table of Contents +Filed Pursuant to Rule 424(b)(3) + +Registration No. 333-145109 + + + +Prospectus dated May 1, 2008 + + + +Chase Issuance Trust + +Issuing Entity + + + +Chase Bank USA, National Association + +Sponsor, Depositor, Originator, Administrator and Servicer + + + +The issuing entity— + + + • +may periodically issue notes in a series comprised of one or more classes or tranches; • +will own— — one or more collateral certificates, each representing an undivided interest in a credit card master trust or other securitization special purpose entity whose assets consist primarily of credit card receivables arising in revolving credit card accounts owned by Chase USA or by one of its affiliates; and — credit card receivables that arise in revolving credit card accounts owned by Chase USA or by one of its affiliates; and • +may own— — other property described in this prospectus and in the accompanying prospectus supplement. +The notes— + + +
+
+• +will be secured by the issuing entity’s assets and will be paid solely from proceeds of the issuing entity’s assets; • +to be offered with this prospectus and the accompanying prospectus supplement will be rated in one of the four highest rating categories by at least one nationally recognized rating agency; and • +will be issued as part of a designated tranche within a class of the CHASEseries. +Neither the SEC nor any state securities commission has approved these notes or determined that this prospectus or the accompanying prospectus supplement is truthful, accurate or complete. Any representation to the contrary is a criminal offense. + + + +You should consider the discussion under “ Risk Factors” beginning on page 11 of this prospectus before you purchase any notes. + + + +The notes are obligations of the issuing entity only and are interests in JPMORGAN TRUST I, II, III, & IV, SHare Class R01-06, Direct obligations, under mandated rempremandable Adminstrative decision upon reconcilablle claim due the plaintif(Zachry Tyler Wood) prscribed by the Secretary of the Treasury a, CHASE / JPMORGAN CHASE BANK N.A, power holding shareholders, of the Board of Directors.
+
+Copyrights Trademark and Logo & etc..are proptery of Sole Proprietorship Subsidiary's Whole Owner by: Zachry Tyler Wood/bitcoion(Copyright & TM-09-17-2001)JPMORGAN Chase Bank USA, National Association, any of its affiliates or any other person or entity. +The notes are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality. +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 +Reported Normalized Income +Reported Normalized Operating Profit +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 +Reported Normalized Diluted EPS +Basic EPS 00114 00031 00028 00028 00027 00023 00017 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. + + + + + + +important information + + + + + + + +Description +Cash Flow from Investing Activities +Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+	-6383000000	-6819000000	-5496000000	-5942000000	-5479000000
++Purchase/Sale and Disposal of Property, Plant and Equipment, Net +Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 +Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 +Purchase/Sale of Investments, Net +Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000
+
+	100000000	388000000	23000000	30000000	-57000000
++Sale of Investments +Other Investing Cash Flow -15254000000 +Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 +Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 +Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 +Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 +Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 +Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 +Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 +Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 +Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 +Proceeds from Issuance of Long Term Debt +Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 + +Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 +Other Financing Cash Flow +Cash and Cash Equivalents, End of Period +Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 +Effect of Exchange Rate Changes 25930000000 235000000000) -3175000000 300000000 6126000000 +Cash and Cash Equivalents, Beginning of Period 181000000000 146000000000 183000000 -143000000 210000000 +Cash Flow Supplemental Section 23719000000000 26622000000000 26465000000000 20129000000000 +Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 +Income Tax Paid, Supplemental 13412000000 157000000 +ZACHRY T WOOD -4990000000 +Cash and Cash Equivalents, Beginning of Period + + +SC 13G/A +1 +us02079k1079_031122.txt + +us02079k1079_031122.txt + +SECURITIES AND EXCHANGE COMMISSION + +Washington, D.C. 20549 + +SCHEDULE 13G + +Under the Securities Exchange Act of 1934 + +(Amendment No: 4) + +ZACHRY T WOOD +-------------------------------------------------------- +(Name of Issuer) +
+
+Common Stock +-------------------------------------------------------- +(Title of Class of Securities) +02079K107 +-------------------------------------------------------- +(CUSIP Number) + +December 31, 2021 +-------------------------------------------------------- +(Date of Event Which Requires Filing of this Statement) + +Check the appropriate box to designate the rule pursuant to +which this Schedule is filed: + +[X] Rule 13d-1(b) +[ ] Rule 13d-1(c) +[ ] Rule 13d-1(d) + + +*The remainder of this cover page shall be filled out +for a reporting person's initial filing on this form with +respect to the subject class of securities, and for any +subsequent amendment containing information which +would alter the disclosures provided in a prior cover page. + +The information required in the remainder of this cover +page shall not be deemed to be "filed" for the purpose +of Section 18 of the Securities Exchange Act of 1934 +("Act") or otherwise subject to the liabilities of that +section of the Act but shall be subject to all other +provisions of the Act (however, see the Notes). + + + + + +CUSIP No. 02079K107 + +(1)Names of reporting persons. Zachry T Wood + + +(2) Check the appropriate box if a member of a group +(a) [ ] +(b) [X] + + +(3) SEC use only + +(4) Citizenship or place of organization + +Delaware + +Number of shares beneficially owned by each reporting person with: + +(5) Sole voting power +
+
+100% +(6) Shared voting power +
+
+100% +(7) Sole dispositive power + +100% +(8) Shared dispositive power +
+
+100% +(9) Aggregate amount beneficially owned by each reporting person +
+
+100% +(10) Check if the aggregate amount in Row (9) excludes certain shares + +(11) Percent of class represented by amount in Row 9 + +100% + +(12) Type of reporting person + +SP + + + + + +Item 1. + +Item 1(a) Name of issuer: +----------------------------------------------------------------------- + +ZACHRY T WOOD +ALPHABET + +Item 1(b) Address of issuer's principal executive offices: +----------------------------------------------------------------------- +5323 BRADFORD DR +DALLAS, TX 75235 +Business: +1600 AMPHITHEATRE PARKWAY +MOUNTAIN VIEW CA 94043 + + +Item 2. + + +2(a) ZachryTWoood +---------------------------------------------------------------------- +BlackRock, Inc. + + +2(b) 5323 BRADFORD DR DALLAS TX 75235 +----------------------------------------------------------------------- +BlackRock, Inc. +55 East 52nd Street +New York, NY 10055 + + +2(c) Citizenship: - [22/7] - CORRECTED +--------------------------------------------------------------------
+
+See Item 4 of Cover Page +2(d) Title of class of securities: +------------------------------------------------------------------- +
+
+Common Stock +2(e) CUSIP No.: +See Cover Page + + + + + + +Item 3. + +If this statement is filed pursuant to Rules 13d-1(b), or 13d-2(b) or (c), +check whether the person filing is a: +[ ] Broker or dealer registered under Section 15 of the Act; +[ ] Bank as defined in Section 3(a)(6) of the Act; +[ ] Insurance company as defined in Section 3(a)(19) of the Act; +[ ] Investment company registered under Section 8 of the +Investment Company Act of 1940; +[ ] An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E); +[ ] An employee benefit plan or endowment fund in accordance with
+
+   Rule 13d-1(b)(1)(ii)(F);
++[ ] A parent holding company or control person in accordance with
+
+   Rule 13d-1(b)(1)(ii)(G);
++[ ] A savings associations as defined in Section 3(b) of the Federal
+
+   Deposit Insurance Act (12 U.S.C. 1813);
++[ ] A church plan that is excluded from the definition of an
+
+   investment company under section 3(c)(14) of the Investment Company
+   Act of 1940;
++[x] A non-U.S. institution in accordance with
+
+   Rule 240.13d-1(b)(1)(ii)(J);
++[ ] Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K). If filing
+
+   as a non-U.S. institution in accordance with
+   Rule 240.13d-1(b)(1)(ii)(J), please specify the type of
+   institution:
++Item 4. Ownership + +Provide the following information regarding the aggregate number +and percentage of the class of securities of the issuer identified in Item 1. + + +Amount beneficially owned: +
+
+19224377 +Percent of class + +6.1% + +Number of shares as to which such person has: + +Sole power to vote or to direct the vote + + +Shared power to vote or to direct the vote + +Sole power to dispose or to direct the disposition of + +Shared power to dispose or to direct the disposition + +Item 5. + +Ownership of 5 Percent or Less of a Class. If this statement is being +filed to report the fact that as of the date hereof the reporting person +has ceased to be the beneficial owner of more than 5 percent of the +class of securities, check the following - [22/7] - + +Item 6. Ownership of More than 5 Percent on Behalf of Another Person +
+
+If any other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities, a statement to that effect should be included in response to this item and, if such interest relates to more than 5 percent of the class, such person should be identified. A listing of the shareholders of an investment company registered under the Investment Company Act of 1940 or the beneficiaries of employee benefit plan, pension fund or endowment fund is not required. Various persons have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of the common stock of ALPHABET INC. No, One person's, interest in the common stock of ALPHABET INC A, C, and BRK.B is more than five percent of the total outstanding common shares. +Item 7. Identification and Classification of the Subsidiary Which +Acquired the Security Being Reported on by the Parent Holding +Company or Control Person. + + +See Exhibit A + + +Item 8. Identification and Classification of Members of the Group + + +If a group has filed this schedule pursuant to Rule 13d-1(b)(ii)(J), +so indicate under Item 3(j) and attach an exhibit stating the identity +and Item 3 classification of each member of the group. If a group +has filed this schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d), +attach an exhibit stating the identity of each member of the group. + + +Item 9. Notice of Dissolution of Group + +Notice of dissolution of a group may be furnished as an exhibit +stating the date of the dissolution and that all further filings with +respect to transactions in the security reported on will be filed, +if required, by members of the group, in their individual capacity. + +See Item 5. + +Item 10. Certifications +By signing below I certify that, to the best of my knowledge and +belief, the securities referred to above were acquired and are +held in the ordinary course of business and were not acquired +and are not held for the purpose of or with the effect of changing +or influencing the control of the issuer of the securities and were +not acquired and are not held in connection with or as a participant +in any transaction having that purpose or effect. + +Signature.__\s +ZACHRY T O + +After reasonable inquiry and to the best of my knowledge and +belief, I certify that the information set forth in this statement +is true, complete and correct. + + +Dated: March 11, 2022 +BlackRock, Inc. + + +Signature: Spencer Fleming + + + +------------------------------------------- + +Name/Title Attorney-In-Fact + + +The original statement shall be signed by each person on whose +behalf the statement is filed or his authorized representative. +If the statement is signed on behalf of a person by his authorized +representative other than an executive officer or general partner +of the filing person, evidence of the representative's authority to +sign on behalf of such person shall be filed with the statement, +provided, however, that a power of attorney for this purpose +which is already on file with the Commission may be incorporated +by reference. The name and any title of each person who +signs the statement shall be typed or printed beneath his signature. + + + +Attention: Intentional misstatements or omissions of fact constitute +Federal criminal violations (see 18 U.S.C. 1001). + + +Exhibit A + + + +Subsidiary + +
+
+BlackRock Life Limited BlackRock International Limited BlackRock Advisors, LLC Aperio Group, LLC BlackRock (Netherlands) B.V. BlackRock Institutional Trust Company, National Association BlackRock Asset Management Ireland Limited BlackRock Financial Management, Inc. BlackRock Japan Co., Ltd. BlackRock Asset Management Schweiz AG BlackRock Investment Management, LLC FutureAdvisor, Inc. BlackRock Investment Management (UK) Limited BlackRock Asset Management Canada Limited BlackRock Asset Management Deutschland AG BlackRock (Luxembourg) S.A. BlackRock Investment Management (Australia) Limited BlackRock Advisors (UK) Limited BlackRock Fund Advisors BlackRock Asset Management North Asia Limited BlackRock (Singapore) Limited BlackRock Fund Managers Ltd +Entity beneficially owns 5% or greater of the outstanding +shares of the security class being reported on this +Schedule 13G. +Exhibit B + + +POWER OF ATTORNEY + +The undersigned, BLACKROCK, INC., a corporation duly organized +under the laws of the State of Delaware, United States (the +"Company"), does hereby make, constitute and appoint each of +Christopher Meade, Daniel Waltcher, Una Neary, Richard Cundiff, +Charles Park, Enda McMahon, Arlene Klein, Con Tzatzakis, Karen Clark, +David Maryles, Daniel Ronnen, John Stelley, Daniel Riemer, +Elizabeth Kogut, Maureen Gleeson, Daniel Kalish and Spencer Fleming acting +severally, as its true and lawful attorneys-in-fact, for the purpose of, from +time to time, executing in its name and on its behalf, whether the Company +individually or as representative of others, any and all documents, is acting +certificates, instruments, statements, other filings and amendments to the +foregoing (collectively, "documents") determined by such person to +be necessary or appropriate to comply with ownership or control-person +reporting requirements imposed by any United States or non-United States +governmental or regulatory authority, Including without limitation +Forms 3, 4, 5, 13D, 13F, 13G and 13H and any amendments to any of the +Foregoing as may be required to be filed with the Securities and +Exchange Commission, and delivering, furnishing or filing any +such documents with the appropriate governmental, regulatory +authority or other person, and giving and granting to each such +attorney-in-fact power and authority to act in the premises as fully +and to all intents and purposes as the Company might or could +do if personally present by one of its authorized signatories, +hereby ratifying and confirming all that said attorney-in-fact shall +lawfully do or cause to be done by virtue hereof. Any such +determination by an attorney-in-fact named herein shall be +conclusively evidenced by such person's execution, delivery, +furnishing or filing of the applicable document. + +This power of attorney shall expressly revoke the power of attorney +dated 8th day of December, 2015 in respect of the subject matter hereof, +shall be valid from the date hereof and shall remain in full force and +effect until either revoked in writing by the Company, or, in respect of +any attorney-in-fact named herein, until such person ceases to be an +employee of the Company or one of its affiliates. + + +IN WITNESS WHEREOF, the undersigned has caused this power of +attorney to be executed as of this 2nd day of January, 2019. + +BLACKROCK, INC. + + +By:_ /s/ + + + + + + + + + + + + + +\s_____________ +Name: Zachry Tyler Wood +Title: General Counsel + + + + + + + +:Build:: +const : +Name :bitcash : +title : BCS/USD +TOKEN :(BCHS\USD) : +secret +gemfile :'{'{'{'{'"$'' '"'['{'{'{'{['('('(c')')"('('(r')')']'}']'('{'[100000000'.'[00']'M']'}']'('['B'I'T'O'R'E'_34173'.1337'_189931']'(BCHS\USD')'}')''' ')]'}'}'}'"'' +='' ':'B'R'K'.'B' :, BRKUX, BRK.A, AJTXX(26.54B Last Year@https://am.jpmorganfunds.com/* +Alejandro MartinezAlejandro.martinez131@pnc.com** +Michael GoochMichael.gooch@pnc.com** +Michael Sotelo<Michael.sotelo@pnc.com** +Michael Allenmichael.allen10@pnc.com** +An official website of the United States government. Here's how you know + +Official websites use .gov +A .gov website belongs to an official government organization in the United States. + + +Secure .gov websites use HTTPS +A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. + +FBI +MORE +WHAT WE INVESTIGATE +Search FBI +Search FBI + +WHAT WE INVESTIGATE + +Terrorism +Counterintelligence +Cyber Crime +Public Corruption +Civil Rights +Organized Crime + More +News +Most Wanted +Business And Industry Partners +The Cyber Threat +Malicious cyber activity threatens the public’s safety and our national and economic security. The FBI’s cyber strategy is to impose risk and consequences on cyber adversaries. Our goal is to change the behavior of criminals and nation-states who believe they can compromise U.S. networks, steal financial and intellectual property, and put critical infrastructure at risk without facing risk themselves. To do this, we use our unique mix of authorities, capabilities, and partnerships to impose consequences against our cyber adversaries. + +The FBI is the lead federal agency for investigating cyber attacks and intrusions. We collect and share intelligence and engage with victims while working to unmask those committing malicious cyber activities, wherever they are. + +Learn more about what you can do to protect yourself from cyber criminals, how you can report cyber crime, and the Bureau's efforts in combating the evolving cyber threat.﻿ + +Private Sector Partners +Learn how businesses and organizations can work with the FBI to get ahead of the threat and make an impact on our cyber adversaries. + +Cyber Security +What You Should Know +Protect Yourself +Taking the right security measures and being alert and aware when connected are key ways to prevent cyber intrusions and online crimes. Learn how to protect your computer, network, and personal information. +Understand Common Crimes and Risks Online +Business email compromise (BEC) scams exploit the fact that so many of us rely on email to conduct business—both personal and professional—and it’s one of the most financially damaging online crimes. +Identity theft happens when someone steals your personal information, like your Social Security number, and uses it to commit theft or fraud. +Ransomware is a type of malicious software, or malware, that prevents you from accessing your computer files, systems, or networks and demands you pay a ransom for their return. +Spoofing and phishing are schemes aimed at tricking you into providing sensitive information to scammers. +Online predators are a growing threat to young people. +More common crimes and scams +Respond and Report +Depiction of banner being used in campaign to encourage the public to report Internet crime to the FBI's Internet Crime Complaint Center (IC3). +File a Report with the Internet Crime Complaint Center + +If you are the victim of online or internet-enabled crime, file a report with the Internet Crime Complaint Center (IC3) as soon as possible. Crime reports are used for investigative and intelligence purposes. Rapid reporting can also help support the recovery of lost funds. Visit ic3.gov for more information, including tips and information about current crime trends. + +Contact Your Local FBI Field Office +If you or your organization is the victim of a network intrusion, data breach, or ransomware attack, contact your nearest FBI field office or report it at tips.fbi.gov. + +Combating the Evolving Cyber Threat +Our adversaries look to exploit gaps in our intelligence and information security networks. The FBI is committed to working with our federal counterparts, our foreign partners, and the private sector to close those gaps. + +These partnerships allow us to defend networks, attribute malicious activity, sanction bad behavior, and take the fight to our adversaries overseas. The FBI fosters this team approach through unique hubs where government, industry, and academia form long-term trusted relationships to combine efforts against cyber threats. + +Within government, that hub is the National Cyber Investigative Joint Task Force (NCIJTF). The FBI leads this task force of more than 30 co-located agencies from the Intelligence Community and law enforcement. The NCIJTF is organized around mission centers based on key cyber threat areas and led by senior executives from partner agencies. Through these mission centers, operations and intelligence are integrated for maximum impact against U.S. adversaries. + +Only together can we achieve safety, security, and confidence in a digitally connected world. + +How We Work +Whether through developing innovative investigative techniques, using cutting-edge analytic tools, or forging new partnerships in our communities, the FBI continues to adapt to meet the challenges posed by the evolving cyber threat. + +The FBI has specially trained cyber squads in each of our 56 field offices, working hand-in-hand with interagency task force partners. +The rapid-response Cyber Action Team can deploy across the country within hours to respond to major incidents. +With cyber assistant legal attachés in embassies across the globe, the FBI works closely with our international counterparts to seek justice for victims of malicious cyber activity. +The Internet Crime Complaint Center (IC3) collects reports of Internet crime from the public. Using such complaints, the IC3’s Recovery Asset Team has assisted in freezing hundreds of thousands of dollars for victims of cyber crime. +CyWatch is the FBI’s 24/7 operations center and watch floor, providing around-the-clock support to track incidents and communicate with field offices across the country. +Cyber News +08.26.2022 FBI Dallas Encourages Businesses to Stay Vigilant for Cyber Threats, Partner with the FBI +08.26.2022 Iowa Woman Sentenced to Prison for Email Threats +08.26.2022 FBI Las Vegas Federal Fact Friday: Tech Support Fraud +08.24.2022 Former Investment Bank Employee Arrested for Cyberstalking +08.23.2022 FBI Tech Tuesday: Protecting Your Smart Devices from Swatting +08.22.2022 Phoenix Man Convicted of Cyberstalking +08.22.2022 FBI Philadelphia Urges Cybersecurity Awareness +08.22.2022 FBI Warns Individuals Employed in the Health Care Industry of the Ongoing Scam Involving the Impersonation of Law Enforcement and Government Officials +08.19.2022 Former Army Officer and Attorney Arrested on Cyberstalking Charge +08.18.2022 Man Sentenced to Over 10 Years for Role in International Romance Fraud Scheme +More News + +Featured Story +FBI Strategy Addresses Evolving Cyber Threat +FBI Strategy Addresses Evolving Cyber Threat +Additional Links, Resources, and Related Priorities +The Iran Threat +The Iran Threat +Threats from the Iranian regime and its terrorist partners are far reaching. The FBI is committed to identifying… + +InfraGard: Protecting Infrastructure +iGuardian: The FBI’s Industry-Focused Cyber Intrusion Reporting Platform +National Cyber Awareness System﻿ +Law Enforcement Cyber Incident Reporting +Stop.Think.Connect Campaign +Lawful Access﻿ +Law enforcement agencies all over the country are bumping up against “warrant-proof” encryption. This means that even with a warrant, law enforcement cannot obtain the electronic evidence needed to investigate and prosecute crimes or security threats. + +Most Wanted +Ten Most Wanted +Fugitives +Terrorism +Kidnappings / Missing Persons +Seeking Information +Bank Robbers +ECAP +ViCAP +About +Mission & Priorities +Leadership & Structure +Partnerships +Community Outreach +FAQs +News +Stories +Videos +Press Release +Speeches +Testimony +Podcasts and Radio +Photos +Español +Apps +Resources +Law Enforcement +Businesses +Victim Assistance +Reports & Publications +What We Investigate +Terrorism +Counterintelligence +Cyber Crime +Public Corruption +Civil Rights +Organized Crime +White-Collar Crime +Violent Crime +WMD +Contact Us +Field Offices +FBI Headquarters +Overseas Offices +Services +CJIS +CIRG +Laboratory Services +Training Academy +Operational Technology +Information Management +FBI Jobs +Submit a Tip +Crime Statistics +History +FOIPA +Scams & Safety +FBI Kids +FBI Tour +Additional Resources +Accessibility +eRulemaking +Freedom of Information / Privacy Act +Legal Notices +Legal Policies & Disclaimers +Privacy Policy +USA.gov +White House +No FEAR Act +Equal Opportunity + +FBI +FEDERAL BUREAU OF INVESTIGATION +FBI.gov Contact Center + +{% "requirements for furnishing Form 1099-G electronically : either furnish 1099-Gs electronically to recipients: or, considering electronic furnishing, rule and regulation. If upi, have questions,The TE/GE Office of Federal, State, and Local, Government has oversight for 1099-G filing for government entities. I’ll share how to successfully implement furnishing 1099-Gs electronically, discuss the requirements, and answer questions that many have about the process. Our goal is to provide all the information to help you implement an e-furnishing system for these information returns that complies with the rules and regulations.We all know that our income tax system relies on self-reporting of income, and most Americans depend on receiving and including income reported on various information returns. The likelihood of income being reported properly is greatly improved when information returns are prepared correctly and delivered to payees efficiently.Therefore, the IRS has focused for many years on e-filing and educating payers about e-furnishing to recipients. The Office of Federal State and Local Governments published a web article on this topic, and you can find it by going to IRS.gov and search "requirements for furnishing Form 1099-G electronically". You may want to refer to the article later to review the information provided. It contains many resource links, but the most important one we will be discussing today, which will be mentioned throughout, is Publication 1179, General Rules and Specifications for Substitute Forms 1096, 1098, 1099, 5498, W-2G, and 1042-S.Your best resource for developing a system to electronically furnish information returns is found in Section 4.6, Electronic Delivery of Recipient Statements on pages 28 and 29 of the publication. As is true with all IRS forms and publications, Publication 1179 can be accessed by going to IRS.gov and selecting 'Forms and Instructions'. You can view forms and publications online, download a PDF, or order hard copies via the Forms and Instructions page.Let's talk about the Form 1099-G, which is an information return that is used by government entities to report certain payments.Government entities are required to file and furnish Form 1099-G if payments were made throughout the year for: unemployment compensation; state or local income tax refunds, credits or offsets; Reemployment Trade Adjustment Assistance payments; taxable grants; and agricultural payments. You must also file Form 1099-G if you received payments on a commodity credit corporation loan. More details on the types of payments reportable can be found in the instructions for Form 1099-G, also available via IRS.gov.In general, the furnishing requirement is met by providing the recipient or payee with a paper copy of Form 1099-G by January 31 of the year following the year of payment. You must also file a copy of the 1099-G with the IRS before February 28, unless you file electronically, which allows for a due date of March 31st of the same year. The Internal Revenue Code and regulations allow for most information returns to be furnished electronically. +complete: list of allowable return's' ":" found on pages 28 of Pub. 1179, under Section 4.6, Electronic Delivery of Recipient Statements. The 2021 General Instructions for Certain Information Returns specifies who must file information returns, when and where to file them and information about electronic reporting.The instructions also cover correcting and voiding returns, providing statements to recipients, taxpayer identification numbers, backup withholding, penalties and more.With our focus today on furnishing 1099-Gs to recipients electronically what are the incentives to do so?Why migrate to furnishing Form 1099-G electronically to recipients? There are quite a few advantages to it.There may be significant cost benefits that result when paper and printing costs are reduced, mailing processes and fees are reduced if not eliminated, paper handling costs from filing, sorting, storing and shredding are reduced; eliminating re-typing and/or editing of documents reduces costs; and finally, accessibility is a factor. Distribution via secure web access and email is usually most cost-effective and convenient for recipients. How must it be done? In general, organizations will request affirmative consent, receive and document the consent, provide required notifications, and furnish statements to consenting payees electronically.Now let's go into a little more detail on these steps. To use electronic deliveries for information returns to payees, the payer must obtain an affirmative consent from each recipient to whom a statement will be furnished electronically.The consent must be made by the recipient electronically in a way that confirms the recipient can access the statement in the same electronic format in which it will be furnished. For example, if the Form 1099-G will be delivered as a portable document format, or PDF file, then the affirmative consent document format should also be in PDF. In addition, the payer must make certain notifications to each consenting individual. These will be addressed later in the presentation. What does the consent process look like? The first step in the process is to obtain consent from your payees.The procedures that follow were originally included in Revenue Procedure 2004-58 and have been annually updated without material change through and including the current Revenue Procedure 2021-27.You may refer to the affirmative consent procedures on pages 28 and 29 of Publication 1179, under Section 4.6, Electronic Delivery of Recipient Statements. The process begins with correspondence sent to each individual payee, requesting affirmative consent to electronic delivery of their Form 1099-G. The correspondence may be delivered by mail, electronic mail, in person, or via web site posting, and it must provide instructions on how to affirmatively consent.The correspondence must include the following statement in capital letters: "IMPORTANT TAX RETURN DOCUMENT AVAILABLE." If the correspondence is provided by electronic mail, the foregoing statement must be on the subject line of the electronic mail.If the electronic notice is returned as undeliverable and the correct electronic address cannot be obtained from the payee's records, or from the payee, then the furnisher must furnish the notice by mail, or in person, within 30 days after the electronic notice is returned.The following examples for securing consent are found in Regulation 31.6051-1. These examples apply to any electronically furnished information return. Example one: consent is requested via correspondence.The state sends the recipient a letter, stating the recipient may consent to receive the form electronically on a web site, instead of paper.The letter contains instructions explaining how to consent to receive the form electronically, by accessing the web site, downloading the consent document, completing the consent document, and emailing it back to the state.The consent document posted on the web site uses the same electronic format that the state will use for the electronically furnished form. The recipient reads the instructions and submits the consent in the manner provided in the instructions. The recipient has consented to receive the statements electronically in the manner described in the regulations. Example two: consent is requested via e-mail.The state sends the recipient an e-mail, stating the recipient may consent to receive the form electronically instead of paper format. The email contains an attachment, instructing the recipient how to consent to receive the form electronically.The e-mail attachment uses the same electronic format that the state will use for the electronically furnished form. The recipient opens the attachment, reads the instructions, and submits the consent in the manner provided in the instructions. The recipient has consented to receive the form electronically in the manner described in the regulations.Example three: consent is requested via a web site posting.The state posts a notice on its web site, stating the recipient may receive the form electronically instead of paper format. The web site contains instructions on how the recipient may access a secure web page and consent to receive the statements electronically By accessing the secure web page and giving consent, the recipient has consented to receive the form electronically in the manner described in the regulations. In each case, the payer took the steps to notify recipients by letter, email or web site posting about the availability of a consent election, prior to issuing returns electronically. Electronic statements are furnished to an individual only after that individual responded with an affirmative consent.If the payee does not consent, a paper document must be sent. As part of the consent process, the government entity must provide a statement with all the following notifications prominently displayed. There are seven notifications.Number one is, if the payee does not consent, a paper copy will be provided. Two, the scope and duration of the consent.Three, how to obtain a paper copy after giving consent.Four, how to withdraw the consent. Five, conditions under which an electronic statement will no longer be furnished.Six, procedures to update payee information. And Seven, a description of hardware and software required to access, print and retain a state-ment, and when it will no longer be available.If the government entity makes any hardware or software changes that create a risk that the recipient won't be able to access the statement, a notice of these changes must be provided to the recipient before changing the hardware or software. The notice must inform the recipient that a new consent to receive the form in the revised electronic format must be provided.After implementing the revised hardware and software changes, the furnisher must obtain a new consent or confirmation of consent from the recipient to receive the form electronically.You can refer to the affirmative consent procedures on pages 28 and 29 of Publication 1179, under Section 4.6.2, Consent. What do you need to do after you have secured consent? The government entity must place electronically posted Forms 1099-G on the applicable web site by January 31, the due date, and the statement must remain available until at least October 15 of that year.When Forms 1099-G are posted, the issuing entity must notify the consenting payees, either electronically or by mail. For payees who do not provide consent, or who withdraw their consent to receive the Form 1099-G electronically before the statement is furnished, the payer must provide a paper payee statement within the regular deadline.And again, the deadline would be January 31 for the Form 1099-G. As a payor, you should have a record of the payee consent for every statement you furnish electronically. If you fail to furnish the information in the required manner, this could result in the payee neglecting to report the income on their individual federal, state or local income tax returns. And this could subject them to enforcement actions, including penalties and possibly interest, by multiple government taxing authorities on any taxes that were due and owing. The affirmative consent requirement ensures each payee will either receive the statement on paper or agrees to the electronic delivery.Now here are a few reminders. One, the recipient must not have withdrawn the consent before the statement is furnished. Two, if the recipient subsequently withdraws their consent, your system must notify you and a paper reporting requirement must be resumed. You must provide a paper payee statement within the regular deadline, and again that is January 31 for Form 1099-Gs. Three, remember, a new consent to receive the statement electronically is required after any new hardware or new software is put into service. And four, all electronic statements must be in a format that conforms to the requirements as stated in Publication 1179.The affirmative consent requirements assure a payee knows the information statement will be furnished electronically, they have the right hardware and software to receive the information statement, and if they don't consent, a paper statement will be provided to them. I’ll share a few common questions we receive about this process and the answers next: The first question is, does the consent to receive the statement electronically have to be provided each tax year, or does it stay in effect until the payee withdraws the consent? The answer is the furnisher can make the determination regarding the scope and duration of the consent if the payee is informed. They can decide whether a consent to receive payee statements electronically lasts for each succeeding tax year, unless it is withdrawn or there is a change in hardware or software requirements, or whether the consent is only effective for the first information return required to be furnished following the date the consent is given. Remember, prior to furnishing the statements electronically, you must provide the recipient a statement with prominently displayed notices, including the scope and duration of the consent.The second question is whether the furnisher has met its obligation to furnish the information return if the payee has affirmatively consented to receive the information return electronically but does not actually retrieve the information return?The answer is they've met their obligation to furnish the info return under Internal Revenue Code Sections 6050B(b) and 6050E(b)if the payee affirmatively consents to receive it electronically. Section 401 of the Job Creation and Workers' Assistance Act of 2002 permits the electronic furnishing of all statements required under Section 6041 through 6050W, if the recipient consents to receive the statement in a manner similar to the one permitted by regulations under Section 6051, or in such other manner as provided by the Secretary.The next question is: Does the furnisher have to obtain affirmative consent to furnish the Form 1099-G electronically? The answer is the furnisher must obtain affirmative consent before they may furnish the Form 1099-G electronically.If a furnisher does not obtain affirmative consent, they must furnish the return by paper, or they will be in violation of the Internal Revenue Code and regulations.The fourth question is: Why should the furnisher comply with the affirmative consent requirement?The affirmative consent requirement assures the payee knows the information return or statement will be furnished electronically and has the right hardware and software to receive the information statement. If the payee does not know the statement is furnished electronically or does not have the right hardware and software to receive it electronically, they may not report income when required. This would result in loss of revenue and increased correspondence and compliance costs. Moreover, and this is not to say that the Internal Revenue Service is considering doing this, the legislative history to the Tax Reform Act of 1984 states, the conferees anticipate the Secretary would seriously consider terminating any exchange of returns or return information under Section 6103 with the state that does not report refunds to the taxpayer. This statement was in the House-Senate Conference Report, HR report number 861, at page 992, dated June 23, 1984.Question five is: What does the phrase 'must furnish a Form 1099-G' mean? The answer is the furnisher must either furnish the payee a paper copy of the Form 1099-G or furnish the Form 1099-G electronically by email or on a secure web site, if it has obtained affirmative consent by the payee.The next question is: Is it acceptable to stop mailing Form 1099-G and furnish the form electronically to the recipients? The answer is the furnisher may furnish the information return electronically if the payee has affirmatively consented to receive the information return electronically. Under current regulations, this means furnishing either by email or on a secure web site.And the last question is: What is a Form 4419 and who needs to file it? The answer is a Form 4419, Application for Filing Information Returns Electronically, is submitted by those payers or agents who file information returns with the IRS electronically. Please review the instructions to Form 4419 for information on how to fill out/submit Form 4419 to the IRS.I hope this has helped clarify the procedures to furnish recipients Form 1099-Gs electronically.These procedures include requesting affirmative consents, receiving and documenting consents, providing required notifications, and furnishing statements to consenting payees electronically" %}. Again, if you want more information, visit IRS.gov. Thank you and we hope you have a successful day.
+
+S-8 1 a20220726alphabets-8for202.htm S-8
+
+Registration No. 333-
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM S-8 REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 Alphabet Inc. (Exact Name of Registrant as Specified in Its Charter) | | | | | | | | +-- | -- | -- | -- | -- | -- | -- | -- | -- +Delaware | | 61-1767919 +Texas | | 88-1303491 +
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below hereby constitutes and appoints Sundar Pichai, Ruth M. Porat, Kent Walker, and Kathryn W. Hall, and each of them acting individually, as his or her true and lawful attorney-in-fact and agent, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities (unless revoked in writing), to sign any and all amendments (including post-effective amendments thereto) to the Registration Statement on Form S-8, and to file the same, with exhibits thereto and other documents in connection therewith, with the SEC, granting to such attorney-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as full to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that such attorney-in-fact and agents, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. Pursuant to the requirements of the Securities Act, the Registration Statement has been signed by the following persons in the capacities and on the date indicated S-8 1 a20220726alphabets-8for202.htm S-8 + + Registration No. 333- +UNITED STATES +SECURITIES AND EXCHANGE COMMISSION +Washington, D.C. 20549 + +FORM S-8 +REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 + +Alphabet Inc. +Zachry Tyler Wood + +Delaware 61-1767919 +Texas (EIN)88-1303491 +Texas (FIN)88-1656496 +(I.R.S. Employer Identification No.) + +1600 Amphitheatre Parkway +Mountain View, CA 94043 +(650) 253-0000 + +5323 BRADFORD DR +DALLAS, TX 75235 +(469) 697-4300 +(Address, including zip code, and telephone number, including area code, of Registrant’s principal executive offices) + +ALPHABET, INCOME & ROYALTY, Federal Individual Amended Return', REfunds, Credit Notes, Cash Refund' Quartlerly', 2021 Individual Income Tax Return, 1099s', 1040-ES Payment Voucher 1, 2, 3, 4, & V, Quarterly Annual , Semi-Annuals, Federal Repurchase Agreement Act, & Employee' Income Statements, Pay, and Outstanding, contingenci' +(Full Title of the Plan) +
+
+Zachry Tyler Wood +INDEPENDANT DIRECTOR +NASDAQGOOG(GOOGL). +5325 BRADFORD DR +DALLAS, TX 75235 +(469) 697-4300 +(Name, address and telephone number, including area code, of agent for service) +Copies to: +Jeffrey D. Karpf, Esq. +Kent Walker, Esq. +Kathryn W. Hall, Esq. +Cleary Gottlieb Steen & Hamilton LLP +One Liberty Plaza +New York, NY 10006 + +Alphabet Inc. +1600 Amphitheatre Parkway +Mountain View, CA 94043 +(650) 253-0000 + +Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. + +Large accelerated filer ☒ Accelerated filer ☐ +Non-accelerated filer ☐ Smaller reporting company ☐ +Emerging growth company ☐ + + +If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. ☐ + + +REGISTRATION OF ADDITIONAL SECURITIES PURSUANT TO GENERAL INSTRUCTION E OF +FORM S-8 +EXPLANATORY NOTE +This Registration Statement is being filed by Alphabet Inc., a Delaware corporation (the “Registrant”), to register 674778000 additional shares of its Class C capital stock, par value $113.20 per share (the “Class C Capital Stock”) issuable to eligible employees, consultants, contractors, and directors of the Registrant and its affiliates under the Registrant’s Amended and Restated 2021 Stock Plan (the “Plan”). On June 2, 2021, the Registrant filed with the U.S. Securities and Exchange Commission (the “SEC”): (i) Post-Effective Amendment to Form S-8 Registration Statement (File No. 001-37580) and (ii) Form S-8 Registration Statement (File No. 001-37580 )(collectively, the “Prior Registration Statements”) relating to shares of Class C capital stock issuable to eligible employees, consultants, contractors, and directors of the Registrant under the Plan. The Prior Registration Statements are currently effective. The Registration Statement relates to securities of the same class as those to which the Prior Registration Statements relate and is submitted in accordance with General Instruction E of Form S-8 regarding Registration of Additional Securities. Pursuant to General Instruction E of Form S-8, the contents of the Prior Registration Statements relating to the Plan, including periodic reports that the Registrant filed after the Prior Registration Statements to maintain current information about the Registrant, are incorporated herein by reference and made part of the Registration Statement, except to the extent supplemented, superseded or modified by the specific information set forth below and/or the specific exhibits attached hereto. + +PART II. INFORMATION REQUIRED IN REGISTRATION STATEMENT +Item 8. Exhibits. + +Exhibit +Number
+
+Exhibit Description +3.1‡ +Amended and Restated Certificate of Incorporation of Alphabet Inc., dated June 3, 2022 (incorporated by reference to Exhibit 3.01 filed with Registrant’s Current Report on Form 8-K (File No. 001-37580) filed with the SEC on June 3, 2022) +3.2‡ +Amended and Restated Bylaws of Alphabet Inc. dated October 21, 2020 (incorporated by reference to Exhibit 3.02 filed with Registrant’s Current Report on Form 8-K/A (File No. 001-37580), as filed with the SEC on October 29, 2020) +4.1‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan (incorporated by reference to Exhibit 10.01 filed with Registrant’s Current Report on Form 8-K (File No. 001-37580) filed with the SEC on June 3, 2022) +4.2‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan - Form of Alphabet Restricted Stock Unit Agreement (incorporated by reference to Exhibit 10.01.1 to Quarterly Report on Form 10-Q (file No. 001-37580), as filed with the SEC on July 28, 2021) +4.3‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan - Form of Alphabet 2022 Non-CEO Performance Stock Unit Agreement (incorporated by reference to Exhibit 10.07.2 filed with the Registrant’s Annual Report on Form 10-K (File No. 001-37580), as filed with the SEC on February 2, 2022) +5.1* +Opinion of Cleary Gottlieb Steen & Hamilton LLP +23.1* +Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm +23.2* +Consent of Cleary Gottlieb Steen & Hamilton LLP (filed as part of Exhibit 5.1) +24.0* +Power of Attorney (included as part of the signature page of the Registration Statement) +107* +Filing Fee Table +* Filed herewith +‡ Incorporated herein by reference + + + +SIGNATURES + +Pursuant to the requirements of the Securities Act, the Registrant certifies that it has reasonable grounds to believe that it meets all of the requirements for filing on Form S-8 and has duly caused the Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Mountain View, State of California, on July 26, 2022. + +ALPHABET INC. +By: /S/ ZAK WOOD +Zachry Tyler Wood +Significance +Cerifying Officer or Authorized Signature +Indapendant Director + + + + +POWER OF ATTORNEY + +KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below hereby constitutes and appoints Sundar Pichai, Ruth M. Porat, Kent Walker, and Kathryn W. Hall, and each of them acting individually, as his or her true and lawful attorney-in-fact and agent, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities (unless revoked in writing), to sign any and all amendments (including post-effective amendments thereto) to the Registration Statement on Form S-8, and to file the same, with exhibits thereto and other documents in connection therewith, with the SEC, granting to such attorney-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as full to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that such attorney-in-fact and agents, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. +Pursuant to the requirements of the Securities Act, the Registration Statement has been signed by the following persons in the capacities and on the date indicated +Zachry Tyler Wood +5323 BRADFORD DR +DALLAS, TX 75235 +CONSOLIDATED STATEMENTS OF CASH FLOWS - USD ($) $ in Millions 12 Months Ended
+
+Dec. 31, 2020 Dec. 31, 2019 Dec. 31, 2018 +Operating activities +Net income $ 40,269 $ 34,343 $ 30,736 +Adjustments: +Depreciation and impairment of property and equipment 12,905 10,856 8,164 +Amortization and impairment of intangible assets 792 925 871 +Stock-based compensation expense 12,991 10,794 9,353 +Deferred income taxes 1,390 173 778 +Gain on debt and equity securities, net (6,317) (2,798) (6,650) +Other 1,267 (592) (189) +Changes in assets and liabilities, net of effects of acquisitions: +Accounts receivable (6,524) (4,340) (2,169) +Income taxes, net 1,209 (3,128) (2,251) +Other assets (1,330) (621) (1,207) +Accounts payable 694 428 1,067 +Accrued expenses and other liabilities 5,504 7,170 8,614 +Accrued revenue share 1,639 1,273 483 +Deferred revenue 635 37 371 +Net cash provided by operating activities 65,124 54,520 47,971 +Investing activities +Purchases of property and equipment (22,281) (23,548) (25,139) +Purchases of marketable securities (136,576) (100,315) (50,158) +Maturities and sales of marketable securities 132,906 97,825 48,507 +Purchases of non-marketable investments (7,175) (1,932) (2,073) +Maturities and sales of non-marketable investments 1,023 405 1,752 +Acquisitions, net of cash acquired, and purchases of intangible assets (738) (2,515) (1,491) +Other investing activities 68 589 98 +Net cash used in investing activities (32,773) (29,491) (28,504) +Financing activities +Net payments related to stock-based award activities (5,720) (4,765) (4,993) +Repurchases of capital stock (31,149) (18,396) (9,075) +Proceeds from issuance of debt, net of costs 11,761 317 6,766 +Repayments of debt (2,100) (585) (6,827) +Proceeds from sale of interest in consolidated entities, net 2,800 220 950 +Net cash used in financing activities (24,408) (23,209) (13,179) +Effect of exchange rate changes on cash and cash equivalents 24 (23) (302) +Net increase in cash and cash equivalents 7,967 1,797 5,986 +Cash and cash equivalents at beginning of period 18,498 16,701 10,715 +Cash and cash equivalents at end of period 26,465 18,498 16,701 +Supplemental disclosures of cash flow information +Cash paid for taxes, net of refunds $ 4,990 $ 8,203 $ 5,671 +You have the right to get a free copy of your credit file disclosure, commonly called a credit report, once every 12 months, from each of the nationwide consumer credit reporting companies - Equifax, Experian and TransUnion. For instant access to your free credit report, visit www.annualcreditreport.com. +For more information on obtaining your free credit report, visit www.annualcreditreport.com or call 877-322-8228. +Use this form if you prefer to write to request your credit report from any, or all, of the nationwide consumer credit reporting companies. The following information is required to process your request. Omission of any information may delay your request. +Once complete, fold (do not staple or tape), place into a #10 envelope, affix required postage and mail to: +Annual Credit Report Request Service P.O. Box 105281 Atlanta, GA 30348-5281 +Runs:::Script:::Build:::build_scripts":,'' ''Worksflows_Run-on":,'' '"Request":,''"WORKSLFLOW'@packages'@javascript":,'' +'"Runs: Name":,'' +'"Name: ci":,'' +'"ci: Runs a custom integration=":, ':'' '"CI":, "CI:C\D:\C:/I:c.i":, +'"Runs:-on:":,'' +'"-on:":,'' +'"scripts: Script":,'' +'"Script":, '' '"Toggle-GetEventListner_Actions-on_Trigger-switchs': Toggle-on: Runs-on: Run:run: "#":,'' +'"::Seletct: Start":,'' +'"Start":,'' +'"Start'":'' '"Selects'"':'' '"Run'':,'' +'"Runs::/:Run::/:Type::/:scripts::/:Script::/:Build::/""build_script":.'"':,'' +'"Build_script'"':'' '"Build'' 'and'' 'Deploy":,'"'''' +"':'Build and Deploy : build_script":,'' +"build_script : DEPOSIT_TICKET'@'C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA//POST":,''":,'"'''' +'"'#':' DEPOSIT_TICKET : "SERVICE_ID":, :60600052''ci :Try calling :navigator.credentials.create(depository)=Try calling :navigator.credentials.create(C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA)"';'' '"//POST":,'' +'"Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +For Paperwork Reduction Act Notice, see the seperate Instructions. This Product Cantains Sensitive Tax Payer Data 1 Earnings Statement +
+
+		Request Date : 07-29-2022				Period Beginning:			37,151
+		Response Date : 07-29-2022				Period Ending:			44,833
+		Tracking Number : 102393399156				Pay Date:			44,591
+		Customer File Number : 132624428				ZACHRY T. 			WOOD
+						5,323	BRADFORD DR		
++important information Wage and Income Transcript
+
+		SSN Provided : XXX-XX-1725				DALLAS		TX 75235-8314	
+		Tax Periood Requested :  December, 2020							
+units					year to date	Other Benefits and			
+674678000					75,698,871,600	Information			
+					        	Pto Balance			
+					        	Total Work Hrs			
+Form W-2 Wage and Tax Statement					        	Important Notes			
++Employer : COMPANY PH Y: 650-253-0000
+
+Employer Identification Number (EIN) :XXXXX7919 BASIS OF PAY: BASIC/DILUTED EPS +INTU +2700 C +Quarterly Report on Form 10-Q, as filed with the Commission on +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 3330.90 PAR SHARE VALUE +Employee : Reciepient's Identification Number :xxx-xx-1725 ZACH T WOOD 5222 B +on Form 8-K, as filed with the Commission on January 18, 2019). +Submission Type : Original document +Wages, Tips and Other Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5105000.00 510500000 Advice number: 650,001 +Federal Income Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1881380.00 188813800 Pay date: 44,669 +Social Security Wages : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137700.00 13770000 +Social Security Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 853700 xxxxxxxx6547 transit ABA +Medicare Wages and Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510500000 71,921,891 +Medicare Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118166700 NON-NEGOTIABLE +Social Security Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Allocated Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Dependent Care Benefits : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Deffered Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Q" Nontaxable Combat Pay : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "W" Employer Contributions tp a Health Savings Account : . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Y" Defferels under a section 409A nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . . 0 +Code "Z" Income under section 409A on a nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . 0 +Code "R" Employer's Contribution to MSA : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .' 0 +Code "S" Employer's Cotribution to Simple Account : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "T" Expenses Incurred for Qualified Adoptions : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "V" Income from exercise of non-statutory stock options : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "AA" Designated Roth Contributions under a Section 401 (k) Plan : . . . . . . . . . . . . . . . . . . . . 0 +Code "BB" Designated Roth Contributions under a Section 403 (b) Plan : . . . . . . . . . . . . . . . . . . . . . 0 +Code "DD" Cost of Employer-Sponsored Health Coverage : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . +Code "EE" Designated ROTH Contributions Under a Governmental Section 457 (b) Plan : . . . . . . . . . . . . . . . . . . . . . +Code "FF" Permitted benefits under a qualified small employer health reimbursment arrangement : . . . . . . . . . 0 +Code "GG" Income from Qualified Equity Grants Under Section 83 (i) : . . . . . . . . . . . . . . . . . . . . . . $0.00 +Code "HH" Aggregate Defferals Under section 83(i) Elections as of the Close of the Calendar Year : . . . . . . . 0 +Third Party Sick Pay Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Retirement Plan Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Statutory Employee : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Not Statutory Employee +W2 Submission Type : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Original +W2 WHC SSN Validation Code : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correct SSN The U.S. Internal Revenue Code of 1986, as amended, the Treasury Regulations promulgated thereunder, published pronouncements of the Internal Revenue Service, which may be cited or used as precedents, and case law, any of which may be changed at any time with retroactive effect. No opinion is expressed on any matters other than those specifically referred to above. EMPLOYER IDENTIFICATION NUMBER: 61-1767919 EIN 61-1767919 FEIN 88-1303491 [DRAFT FORM OF TAX OPINION] ID: SSN: DOB: 37,305,581 633,441,725 34,622 ALPHABET Name Tax Period Total Social Security Medicare Withholding ZACHRY T WOOD Fed 941 Corporate Sunday, September 30, 2007 66,987 28,841 6,745 31,400 5323 BRADFORD DR Fed 941 West Subsidiary Sunday, September 30, 2007 17,115 7,369 1,723 8,023 DALLAS TX 75235-8314 Fed 941 South Subsidiary Sunday, September 30, 2007 23,906 10,293 2,407 11,206 ORIGINAL REPORT Fed 941 East Subsidiary Sunday, September 30, 2007 11,248 4,843 1,133 5,272 Income, Rents, & Royalty Fed 941 Corp - Penalty Sunday, September 30, 2007 27,199 11,710 2,739 12,749 INCOME STATEMENT Fed 940 Annual Unemp - Corp Sunday, September 30, 2007 17,028 GOOGL_income-statement_Quarterly_As_Originally_Reported TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020 Q1 2020 Q4 2019 Q3 2019 Gross Profit 146698000000 42337000000 37497000000 35653000000 31211000000 30,818,000,000 25,056,000,000 19,744,000,000 22,177,000,000 25,055,000,000 22,931,000,000 Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 64,133,000,000 34,071,000,000 Other Revenue 6,428,000,000 Cost of Revenue 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 Cost of Goods and Services 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 Operating Income/Expenses 67984000000 20452000000 16466000000 16292000000 14774000000 -15,167,000,000 -13,843,000,000 -13,361,000,000 -14,200,000,000 -15,789,000,000 -13,754,000,000 Selling, General and Administrative Expenses 36422000000 11744000000 8772000000 8617000000 7289000000 -8,145,000,000 -6,987,000,000 -6,486,000,000 -7,380,000,000 -8,567,000,000 -7,200,000,000 General and Administrative Expenses 13510000000 4140000000 3256000000 3341000000 2773000000 -2,831,000,000 -2,756,000,000 -2,585,000,000 -2,880,000,000 -2,829,000,000 -2,591,000,000 Selling and Marketing Expenses 22912000000 7604000000 5516000000 5276000000 4516000000 -5,314,000,000 -4,231,000,000 -3,901,000,000 -4,500,000,000 -5,738,000,000 -4,609,000,000 Research and Development Expenses 31562000000 8708000000 7694000000 7675000000 7485000000 -7,022,000,000 -6,856,000,000 -6,875,000,000 -6,820,000,000 -7,222,000,000 -6,554,000,000 Total Operating Profit/Loss 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Non-Operating Income/Expenses, Total 12020000000 2517000000 2033000000 2624000000 4846000000 3,038,000,000 2,146,000,000 1,894,000,000 -220,000,000 1,438,000,000 -549,000,000 Total Net Finance Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 Net Interest Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 Interest Expense Net of Capitalized Interest 346000000 117000000 77000000 76000000 76000000 -53,000,000 -48,000,000 -13,000,000 -21,000,000 -17,000,000 -23,000,000 Interest Income 1499000000 378000000 387000000 389000000 345000000 386,000,000 460,000,000 433,000,000 586,000,000 621,000,000 631,000,000 Net Investment Income 12364000000 2364000000 2207000000 2924000000 4869000000 3,530,000,000 1,957,000,000 1,696,000,000 -809,000,000 899,000,000 -1,452,000,000 Gain/Loss on Investments and Other Financial Instruments 12270000000 2478000000 2158000000 2883000000 4751000000 3,262,000,000 2,015,000,000 1,842,000,000 -802,000,000 399,000,000 -1,479,000,000 Income from Associates, Joint Ventures and Other Participating Interests 334000000 49000000 188000000 92000000 5000000 355,000,000 26,000,000 -54,000,000 74,000,000 460,000,000 -14,000,000 Gain/Loss on Foreign Exchange 240000000 163000000 139000000 51000000 113000000 -87,000,000 -84,000,000 -92,000,000 -81,000,000 40,000,000 41,000,000 Irregular Income/Expenses 0 0 0 0 0 0 0 0 Other Irregular Income/Expenses 0 0 0 0 0 0 0 0 Other Income/Expense, Non-Operating 1497000000 108000000 484000000 613000000 292000000 -825,000,000 -223,000,000 -222,000,000 24,000,000 -65,000,000 295,000,000 Pretax Income 90734000000 24402000000 23064000000 21985000000 21283000000 18,689,000,000 13,359,000,000 8,277,000,000 7,757,000,000 10,704,000,000 8,628,000,000 Provision for Income Tax 14701000000 3760000000 4128000000 3460000000 3353000000 -3,462,000,000 -2,112,000,000 -1,318,000,000 -921,000,000 -33,000,000 -1,560,000,000 Net Income from Continuing Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income after Extraordinary Items and Discontinued Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income after Non-Controlling/Minority Interests 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Diluted Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Income Statement Supplemental Section Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Reported Effective Tax Rate 0 0 0 0 0 0 0 0 Reported Normalized Income 6,836,000,000 Reported Normalized Operating Profit 7,977,000,000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS 333.90 31 28 28 27 23 17 10 10 15 10 Basic EPS from Continuing Operations 114 31 28 28 27 22 17 10 10 15 10 Basic EPS from Discontinued Operations Diluted EPS 3330.90 31 28 27 26 22 16 10 10 15 10 Diluted EPS from Continuing Operations 3330.90 31 28 27 26 22 16 10 10 15 10 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Reported Normalized Diluted EPS 10 Basic EPS 114 31 28 28 27 23 17 10 10 15 10 Diluted EPS 112 31 28 27 26 22 16 10 10 15 10 Basic WASO 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted WASO 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Fiscal year end September 28th., 2022. | USD 31622,6:39 PM Morningstar.com Intraday Fundamental Portfolio View Print Report Print 3/6/2022 at 6:37 PM Current Value 15,335,150,186,014 GOOGL_income-statement_Quarterly_As_Originally_Reported Q4 2021 Cash Flow from Operating Activities, Indirect 24934000000 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Net Cash Flow from Continuing Operating Activities, Indirect 24934000000 25539000000 37497000000 31211000000 30,818,000,000 Cash Generated from Operating Activities 24934000000 25539000000 21890000000 19289000000 22,677,000,000 Income/Loss before Non-Cash Adjustment 20642000000 25539000000 21890000000 19289000000 22,677,000,000 Total Adjustments for Non-Cash Items 6517000000 18936000000 18525000000 17930000000 15,227,000,000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3439000000 3797000000 4236000000 2592000000 5,748,000,000 Depreciation and Amortization, Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3,725,000,000 Depreciation, Non-Cash Adjustment 3215000000 3304000000 2945000000 2753000000 3,725,000,000 Amortization, Non-Cash Adjustment 224000000 3085000000 2730000000 2525000000 3,539,000,000 Stock-Based Compensation, Non-Cash Adjustment 3954000000 219000000 215000000 228000000 186,000,000 Taxes, Non-Cash Adjustment 1616000000 3874000000 3803000000 3745000000 3,223,000,000 Investment Income/Loss, Non-Cash Adjustment 2478000000 1287000000 379000000 1100000000 1,670,000,000 Gain/Loss on Financial Instruments, Non-Cash Adjustment 2478000000 2158000000 2883000000 4751000000 -3,262,000,000 Other Non-Cash Items 14000000 2158000000 2883000000 4751000000 -3,262,000,000 Changes in Operating Capital 2225000000 64000000 8000000 255000000 392,000,000 Change in Trade and Other Receivables 5819000000 2806000000 871000000 1233000000 1,702,000,000 Change in Trade/Accounts Receivable 5819000000 2409000000 3661000000 2794000000 -5,445,000,000 Change in Other Current Assets 399000000 2409000000 3661000000 2794000000 -5,445,000,000 Change in Payables and Accrued Expenses 6994000000 1255000000 199000000 7000000 -738,000,000 Change in Trade and Other Payables 1157000000 3157000000 4074000000 4956000000 6,938,000,000 Change in Trade/Accounts Payable 1157000000 238000000 130000000 982000000 963,000,000 Change in Accrued Expenses 5837000000 238000000 130000000 982000000 963,000,000 Change in Deferred Assets/Liabilities 368000000 2919000000 4204000000 3974000000 5,975,000,000 Change in Other Operating Capital 3369000000 272000000 3000000 137000000 207,000,000 Change in Prepayments and Deposits 3041000000 1082000000 785000000 740,000,000 Cash Flow from Investing Activities 11016000000 Cash Flow from Continuing Investing Activities 11016000000 10050000000 9074000000 5383000000 -7,281,000,000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net 6383000000 10050000000 9074000000 5383000000 -7,281,000,000 Purchase of Property, Plant and Equipment 6383000000 6819000000 5496000000 5942000000 -5,479,000,000 Sale and Disposal of Property, Plant and Equipment 6819000000 5496000000 5942000000 -5,479,000,000 Purchase/Sale of Business, Net 385000000 Purchase/Acquisition of Business 385000000 259000000 308000000 1666000000 -370,000,000 Purchase/Sale of Investments, Net 4348000000 259000000 308000000 1666000000 -370,000,000 Purchase of Investments 40860000000 3360000000 3293000000 2195000000 -1,375,000,000 Sale of Investments 36512000000 35153000000 24949000000 37072000000 -36,955,000,000 Other Investing Cash Flow 100000000 31793000000 21656000000 39267000000 35,580,000,000 Purchase/Sale of Other Non-Current Assets, Net 388000000 23000000 30000000 -57,000,000 Sales of Other Non-Current Assets Cash Flow from Financing Activities 16511000000 15254000000 Cash Flow from Continuing Financing Activities 16511000000 15254000000 15991000000 13606000000 -9,270,000,000 Issuance of/Payments for Common Stock, Net 13473000000 12610000000 15991000000 13606000000 -9,270,000,000 Payments for Common Stock 13473000000 12610000000 12796000000 11395000000 -7,904,000,000 Proceeds from Issuance of Common Stock 12796000000 11395000000 -7,904,000,000 Issuance of/Repayments for Debt, Net 115000000 42000000 Issuance of/Repayments for Long Term Debt, Net 115000000 42000000 1042000000 37000000 -57,000,000 Proceeds from Issuance of Long Term Debt 6250000000 6350000000 1042000000 37000000 -57,000,000 Repayments for Long Term Debt 6365000000 6392000000 6699000000 900000000 0 Proceeds from Issuance/Exercising of Stock Options/Warrants 2923000000 2602000000 7741000000 937000000 -57,000,000 2453000000 2184000000 -1,647,000,000 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 0 300000000 10000000 338,000,000,000 Effect of Exchange Rate Changes 20945000000 23719000000 23630000000 26622000000 26,465,000,000 Cash and Cash Equivalents, Beginning of Period 25930000000 235000000000 3175000000 300000000 6,126,000,000 Cash Flow Supplemental Section 181000000000 146000000000 183000000 143000000 210,000,000 Change in Cash as Reported, Supplemental 23719000000000 23630000000000 26622000000000 26465000000000 20,129,000,000,000 Income Tax Paid, Supplemental 2774000000 89000000 2992000000 6,336,000,000 Cash and Cash Equivalents, Beginning of Period 13412000000 157000000 -4,990,000,000 12 Months Ended Q4 2020 Q4 2019 Income Statement USD in "000'"s Repayments for Long Term Debt Dec. 31, 2020 Dec. 31, 2019 Costs and expenses: Cost of revenues 182527 161,857 Research and development Sales and marketing 84732 71,896 General and administrative 27573 26,018 European Commission fines 17946 18,464 Total costs and expenses 11052 9,551 Income from operations 0 1,697 Other income (expense), net 141303 127,626 Income before income taxes 41224 34,231 Provision for income taxes 6858000000 5,394 Net income 22677000000 19,289,000,000 *include interest paid, capital obligation, and underweighting 22677000000 19,289,000,000 22677000000 19,289,000,000 Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)-- Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) For Paperwork Reduction Act Notice, see the seperate Instructions. JPMORGAN TRUST III A/R Aging Summary As of July 28, 2022 ZACHRY T WOOD Days over due Effeective Tax Rate Prescribed by the Secretary of the Treasury. 44591 31 - 60 61 - 90 91 and over TOTAL £134,839.00 Alphabet Inc. =USD('"'$'"'-in'-millions)" Ann. Rev. Date £43,830.00 £43,465.00 £43,100.00 £42,735.00 £42,369.00 Revenues £161,857.00 £136,819.00 £110,855.00 £90,272.00 £74,989.00 Cost of revenues -£71,896.00 -£59,549.00 -£45,583.00 -£35,138.00 -£28,164.00 Gross profit £89,961.00 £77,270.00 £65,272.00 £55,134.00 £46,825.00 Research and development -£26,018.00 -£21,419.00 -£16,625.00 -£13,948.00 -£12,282.00 Sales and marketing -£18,464.00 -£16,333.00 -£12,893.00 -£10,485.00 -£9,047.00 General and administrative -£9,551.00 -£8,126.00 -£6,872.00 -£6,985.00 -£6,136.00 European Commission fines -£1,697.00 -£5,071.00 -£2,736.00 — — Income from operations £34,231.00 £26,321.00 £26,146.00 £23,716.00 £19,360.00 Interest income £2,427.00 £1,878.00 £1,312.00 £1,220.00 £999.00:,'' +'"Publish::":,''' +'"Launch::":,'' +'"Release::":,'' +'"Deploy::":, "Deposit'@47-2041-6547'@071921891'@pnc.com/mybusiness/":,'' +'"const":,'' +'"322,203 63,069,282 90,262,454 11,073,033 15,576,684 260,314,845 +:Build:: +PUBLISH: +LAUNCH: +RELEASE: +DEPLOY :AUTOMATE +AUTOMATE :DISPATCH 👍 ::From 4e8bc6c0180cbeb882f6c425ff38a41db1a79e76 Mon Sep 17 00:00:00 2001 +From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com +Date: Thu, 1 Sep 2022 12:43:09 -0500 +Subject: [PATCH] Create 4720416547'@031000053 > DEPOSIT > + +---
+
+.../4720416547'@031000053 > DEPOSIT > | 36 +++++++++++++++++++ 1 file changed, 36 insertions(+) create mode 100644 .github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +diff --git a/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > b/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +new file mode 100644 +index 00000000..9f0ebb86 +--- /dev/null ++++ b/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +@@ -0,0 +1,36 @@ ++# This is a basic workflow to help you get started with Actions ++ ++name: CI ++ ++# Controls when the workflow will run ++on: ++ # Triggers the workflow on push or pull request events but only for the "master" branch ++ push: ++ branches: [ "master" ] ++ pull_request: ++ branches: [ "master" ] ++ ++ # Allows you to run this workflow manually from the Actions tab ++ workflow_dispatch: ++ ++# A workflow run is made up of one or more jobs that can run sequentially or in parallel ++jobs: ++ # This workflow contains a single job called "build" ++ build: ++ # The type of runner that the job will run on ++ runs-on: ubuntu-latest ++ ++ # Steps represent a sequence of tasks that will be executed as part of the job ++ steps: ++ # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it ++ - uses: actions/checkout@v3 ++ ++ # Runs a single command using the runners shell ++ - name: Run a one-line script ++ run: echo Hello, world! ++ ++ # Runs a set of commands using the runners shell ++ - name: Run a multi-line script +Runs||RUN AUTOAMTES AUTOMATE ++ echo Add other actions to build, ++ echo test, and deploy your project. : +DISPATCH :AUTOMATE +AUTOMATES +424B3 1 d424b3.htm FORM 424B3
+
+Table of Contents Filed Pursuant to Rule 424(b)(3)
+
+Registration No. 333-145109
+
+Prospectus dated May 1, 2008
+
+Chase Issuance Trust
+
+Issuing Entity
+
+Chase Bank USA, National Association
+
+Sponsor, Depositor, Originator, Administrator and Servicer
+
+The issuing entity—
+
+| • | | may periodically issue notes in a series comprised of one or more classes or tranches; +-- | -- | -- | -- +
+
+“Principal Collections” means, for any month, the sum of (1) for credit card receivables designated for inclusion in the issuing entity, all collections other than those designated as Finance Charge Collections on revolving credit card accounts designated for that month and (2) for any collateral certificate designated for inclusion in the issuing entity, all collections of principal receivables, including Collateral Certificate Principal Shortfall Payments, allocated to the holder of that collateral certificate for that month.
+
+“Principal Payment Date” means, for any series, class or tranche of notes, any date on which a payment in respect of principal is to be made.
+
+“Rapid Amortization Period” means (1) for Series 2002-CC, the period beginning on and including the pay out commencement date and ending on the earlier of the Series 2002-CC termination date and the First USA Master Trust Termination Date and (2) for Series 2004-CC, the period beginning on and including the pay out commencement date and ending on the earlier of the Series 2004-CC termination date and the Chase Master Trust Termination Date.
+
+“Rating Agency” means, with respect to each series, the rating agency or agencies, if any, specified in the related prospectus supplement.
+
+“Receivables Servicing Fee” means, for any month, one-twelfth of the product of (1) the Receivables Servicing Fee Percentage and (2) the Issuing Entity Average Principal Balance for that month.
+
+172
+
+Table of Contents “Receivables Servicing Fee Percentage” means, 1.50% for so long as Chase Bank USA, National Association is the servicer, or 2.00% if Chase Bank USA, National Association is no longer the servicer.
+
+“Recoveries” means Chase Master Trust Recoveries, First USA Master Trust Recoveries or Issuing Entity Recoveries, as applicable.
+
+“Regulation AB” shall mean Subpart 229.1100 — Asset Backed Securities (Regulation AB), 17 C.F.R. §§229.1100-229.1123, as such may be amended from time to time, and subject to such clarification and interpretation as have been provided by the SEC in the adopting release (Asset-Backed Securities, Securities Act Release No. 33-8518, 70 Fed. Reg. 1,506, 1,531 (Jan. 7, 2005)) or by the staff of the SEC, or as may be provided by the SEC or its staff from time to time.
+
+“Removal Date” means the date of any removal of credit card receivables in revolving credit card accounts from the First USA Master Trust Portfolio or the Chase Master Trust Portfolio, as applicable.
+
+“Required Transferor Amount” means, for any month, the product of (1) with respect to any date of determination, the aggregate outstanding dollar amount of receivables in the issuing entity that are principal receivables as of the close of business on the last day of that month and (2) the Required Transferor Amount Percentage.
+
+“Required Transferor Amount Percentage” means 4% or such other percentage as will be designated from time to time by the servicer, but, if that other percentage is less than 4%, the servicer must have provided to the indenture trustee and the collateral agent (A) an Issuing Entity Tax Opinion, and (B) written confirmation from each rating agency that has rated any outstanding notes that the change will not result in the reduction, qualification with negative implications or withdrawal of its then-current rating of any outstanding notes.
+
+“Revolving Period” means a First USA Collateral Certificate Revolving Period or a Chase Collateral Certificate Revolving Period.
+
+“Scheduled Principal Payment Date” means, for any series, class or tranche of notes, the date on which the stated principal amount of that series, class or tranche is expected to be repaid.
+
+“SEC” means the United States Securities and Exchange Commission, as from time to time constituted, created under the Securities Exchange Act of 1934, as amended.
+
+“Segregated Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Segregated Finance Charge Collections.”
+
+“Servicing Fee” means, for any month, the product of (1) the Receivables Servicing Fee for that month and (2) the CHASEseries Floating Allocation Percentage for that month.
+
+“Servicing Fee Percentage” means, for any month, the annualized percentage equivalent of a fraction, the numerator of which is the Servicing Fee and the denominator of which is the Nominal Liquidation Amount used in the calculation of the CHASEseries Floating Allocation Percentage for that month.
+
+“SFAS 140” means Statement of Financial Accounting Standards No. 140, Accounting for Transfers and Servicing of Financial Assets and Extinguishments of Liabilities, a replacement of FASB Statement 125, or any replacement FASB Statement, or amendment or interpretation thereof.
+
+“Shared Excess Available Finance Charge Collections” means, for any month, as of the related determination date, with respect to any series of notes in Shared Excess Available Finance Charge Collections Group A, the sum of (1) the amount of Available Finance Charge Collections with respect to that month,
+
+173
+
+Table of Contents available after application to cover targeted deposits to the interest funding account, payment of the Servicing Fee and application to cover any unfunded CHASEseries Default Amount or any deficits in the Nominal Liquidation Amount of the notes, targeted deposits to the Class C reserve account, if applicable, and any other payments in respect of CHASEseries notes and (2) the Finance Charge Collections remaining after all required payments and deposits from all other series identified as belonging to Shared Excess Available Finance Charge Collections Group A which the applicable indenture supplements for those series specify are to be treated as “Shared Excess Available Finance Charge Collections.”
+
+“Shared Excess Available Finance Charge Collections Group A” means the various series of notes—which will include the CHASEseries notes—that may be designated as a single group for the purpose of sharing Shared Excess Available Finance Charge Collections.
+
+“Shared Excess Available Principal Collections” means, for any month, the sum of (1) with respect to the notes, the amount of Available Principal Collections remaining after all required applications of those amounts described in “Deposit and Application of Funds in the Issuing Entity—Application of Available Principal Collections,” (2) with respect to any series of notes other than the CHASEseries, the Principal Collections allocated to that series of notes remaining after all required payments and deposits that are specified to be treated as “Shared Excess Available Principal Collections” in the applicable indenture supplement, and (3) the aggregate amount on deposit in the excess funding account following any deposit or withdrawal made during that month as described in “Sources of Funds to Pay the Notes—Issuing Entity Bank Accounts.”
+
+“Transfer Date” means the Business Day immediately prior to the applicable distribution date for any series of certificates issued by the Chase Master Trust or the First USA Master Trust.
+
+“Transferor Amount” means, for any month, an amount equal to (1) the Pool Balance for that month minus (2) the aggregate Nominal Liquidation Amount of all notes as of the close of business on the last day of that month.
+
+“Transferor Certificate” means (1) the certificate representing the Transferor Amount or (2) the uncertificated interest in the issuing entity comprising the Transferor Amount.
+
+“Transferor Percentage” means, for any month, 100% minus the sum of the aggregate CHASEseries Noteholder Percentage of all series outstanding with respect to Principal Collections, Finance Charge Collections, the Receivables Servicing Fee or the Default Amount, as applicable.
+
+“Trust Portfolios” means the First USA Master Trust Portfolio, the Chase Master Trust Portfolio and the issuing entity portfolio.
+
+“UCC” means the Uniform Commercial Code as in effect from time to time in the applicable jurisdiction.
+
+“Unapplied Excess Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Excess Finance Charge Collections and Unapplied Master Trust Level Excess Finance Charge Collections.”
+
+“Unapplied Master Trust Level Excess Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Excess Finance Charge Collections and Unapplied Master Trust Level Excess Finance Charge Collections.”
+
+“Unapplied Master Trust Level Principal Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Master Trust Level Principal Collections.”
+
+174
+
+-::Run'@https:://pnc.com/https:://pnc.com/README.md/README.md/071921891/071921891/README.md/README.md/47-2041-6547/47-2041-6547/README.md/README.md + + + + +Show | Show +-- | -- +Show + + ADP Payments
+
+Home > Chapter 7: Reports > Sample Custom Reports > Echeck (ACH) Transaction Report
+
+ECHECK (ACH) TRANSACTION REPORT Use this configuration to create a report containing all of the Echeck (ACH) transactions processed in your ADP Payments account for any given date range.
+
+To create an Echeck (ACH) Transaction report, follow the steps for Creating Custom Reports described above, and use the following filters:sample_report_achtrans.jpg
+
+Check both the Transactions and the Customers checkboxes in the Include in Report section.
+
+Set the Date Range filters to “all,” select a rolling date range, or enter a custom Start date and End date. Then select whether you want to Report on transactions by “Enter date” or “Settle date.”
+
+In the Payment Options section, check only the E-Check box in the Type section.
+
+In the Payment Options section, check the All box under Status.
+
+Suggested fields to add to the report:
+
+Transaction.Transaction ID
+
+Transaction.Transaction Date
+
+Transaction.Status
+
+Transaction.Payment Type
+
+Transaction.Amount
+
+Transaction.Masked Account Number
+
+Transaction.Estimated Settle Date
+
+Transaction.Actual Settlement Date
+
+Transaction.Invoice Number
+
+Transaction.Schedule Id
+
+Customer.Customer ID
+
+Customer.Account Number
+
+Customer.Company
+
+Customer.First Name
+
+Customer.Last Name
+
+Customer.Billing City
+
+Customer.Billing State
+
+Customer.Phone 1
+
+Customer.Email
+
+Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Sample Custom Reports > Echeck (ACH) Transaction Report + +ECHECK (ACH) TRANSACTION REPORT +Use this configuration to create a report containing all of the Echeck (ACH) transactions processed in your ADP Payments account for any given date range. + + + +To create an Echeck (ACH) Transaction report, follow the steps for Creating Custom Reports described above, and use the following filters:sample_report_achtrans.jpg + +Check both the Transactions and the Customers checkboxes in the Include in Report section. + +Set the Date Range filters to “all,” select a rolling date range, or enter a custom Start date and End date. Then select whether you want to Report on transactions by “Enter date” or “Settle date.” + +In the Payment Options section, check only the E-Check box in the Type section. + +In the Payment Options section, check the All box under Status. + +Suggested fields to add to the report: + +Transaction.Transaction ID + +Transaction.Transaction Date + +Transaction.Status + +Transaction.Payment Type + +Transaction.Amount + +Transaction.Masked Account Number + +Transaction.Estimated Settle Date + +Transaction.Actual Settlement Date + +Transaction.Invoice Number + +Transaction.Schedule Id + +Customer.Customer ID + +Customer.Account Number + +Customer.Company + +Customer.First Name + +Customer.Last Name + +Customer.Billing City + +Customer.Billing State + +Customer.Phone 1 + +Customer.Email
+
++Next › +Click the Action button associated with the report, then click “Add Quick Link.” + +add_quick_link.png + + +You will now see the report in the Reports Quick Links list. +NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name. + +quick_link_report_added00027.jpg +Next › + +Show | Show +-- | -- +Show + + ADP Payments
+Home > Chapter 7: Reports > Custom Reports > Adding Custom Report Quick Links
+
+ADDING CUSTOM REPORT QUICK LINKS Custom reports can be added to the Reports Quick Links section in side navigation by following the steps below. (For more information on Reports Quick Links see Reports Quick Links above.)
+
+Locate the report you want to add in the custom reports table.
+
+Click the Action button associated with the report, then click “Add Quick Link.”
+
+add_quick_link.png You will now see the report in the Reports Quick Links list. NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name.
+
+quick_link_report_added00027.jpg Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Adding Custom Report Quick Links + +ADDING CUSTOM REPORT QUICK LINKS +Custom reports can be added to the Reports Quick Links section in side navigation by following the steps below. (For more information on Reports Quick Links see Reports Quick Links above.) + + + +Locate the report you want to add in the custom reports table. + +Click the Action button associated with the report, then click “Add Quick Link.” + +add_quick_link.png + + +You will now see the report in the Reports Quick Links list. +NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name. + +quick_link_report_added00027.jpg +Next › +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Unsubscribe to a Custom Report + +Unsubscribe to a Custom Report +You can unsubscribe to a custom report at any time. Simply follow the steps below: + +Locate the report to which you want to unsubscribe in the custom reports table. +NOTE: You will know a report has a subscription attached to it if you see an entry in the Subscription field. + +Click the Action button, then click the “Unsubscribe” link. + +unsubscribe_link_custom_report.jpg + + +A pop-up window appears asking you to confirm this request. Click “yes” to continue, or “no” to leave the subscription as is. + +confirm_unsubscribe.jpg +You return to the custom reports table, and the entry in the Subscription column of the table for your report will be blank. + +noate.gif + +You can unsubscribe to any report in the system regardless of the user who created the subscription. So if you don’t recognize a subscription, it’s a good idea to check with your colleagues before removing it. + + + +Next › +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Unsubscribe to a Custom Report + +Unsubscribe to a Custom Report +You can unsubscribe to a custom report at any time. Simply follow the steps below: + +Locate the report to which you want to unsubscribe in the custom reports table. +NOTE: You will know a report has a subscription attached to it if you see an entry in the Subscription field. + +Click the Action button, then click the “Unsubscribe” link. + +unsubscribe_link_custom_report.jpg + + +A pop-up window appears asking you to confirm this request. Click “yes” to continue, or “no” to leave the subscription as is. + +confirm_unsubscribe.jpg +You return to the custom reports table, and the entry in the Subscription column of the table for your report will be blank. + +noate.gif + +You can unsubscribe to any report in the system regardless of the user who created the subscription. So if you don’t recognize a subscription, it’s a good idea to check with your colleagues before removing it. + + + +Next › + +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Subscribe to a Custom Report + +Subscribe to a Custom Report +Follow the steps below to subscribe to a custom report: + +Locate the report to which you want to subscribe in the custom reports table on the Reports dashboard. + +Click the Action button, then click the “Subscribe” link. + +subscribe_link_custom_report.jpg + + +The New subscription pop-up window appears. + +new_subscription_custom_report.jpg + + +Enter the email address to which you want the reports sent in the Email address field. + +Click the down-arrow in the Frequency drop-down box to select how often you want the report emailed. + +If you select “Weekly” or “Every other week” you will see a second drop-down box in which to select the day of the week you want the report sent. + +If you select “Specific day of month,” you will see a second drop-down box in which to select the day of the month you want the report sent. + + + +subscribe_select_frequency.jpg +In the Report types section, select how you would like to receive the report. Select “PDF” for an Adobe Acrobat file, or select “XLS” for an Excel file. +NOTE: You can open the file in Excel and then change its format to import data into other programs. + +noate.gif + +The file provided is an XLSX file. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. + +Click the “save” button. + +You will return to the custom reports table, and you will now see the frequency of your subscription in the Subscription field in the table. + +subscription_entered.jpg + + +You will receive an email with your report on the next scheduled date. +NOTE: Scheduled reports cannot be programmed for the current date. For example, if today is Monday and I program a report to be emailed weekly on Mondays, I won’t get the first email until Monday of next week. + +noate.gif + +You can’t make changes to subscription settings once they are saved. If you want to change a subscription, for example to change the email address to which the report is sent, or to change the frequency, you need to unsubscribe to the report (see Unsubscribe to a Custom Report below) then subscribe again using the new settings. + +Next › + +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Subscribe to a Custom Report + +Subscribe to a Custom Report +Follow the steps below to subscribe to a custom report: + +Locate the report to which you want to subscribe in the custom reports table on the Reports dashboard. + +Click the Action button, then click the “Subscribe” link. + +subscribe_link_custom_report.jpg + + +The New subscription pop-up window appears. + +new_subscription_custom_report.jpg + + +Enter the email address to which you want the reports sent in the Email address field. + +Click the down-arrow in the Frequency drop-down box to select how often you want the report emailed. + +If you select “Weekly” or “Every other week” you will see a second drop-down box in which to select the day of the week you want the report sent. + +If you select “Specific day of month,” you will see a second drop-down box in which to select the day of the month you want the report sent. + + + +subscribe_select_frequency.jpg +In the Report types section, select how you would like to receive the report. Select “PDF” for an Adobe Acrobat file, or select “XLS” for an Excel file. +NOTE: You can open the file in Excel and then change its format to import data into other programs. + +noate.gif + +The file provided is an XLSX file. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. + +Click the “save” button. + +You will return to the custom reports table, an
+
+
+On Sat, Oct 15, 2022 at 11:24 AM ZACHRY WOOD <zachryiixixiiwood@gmail.com> wrote:
+Amount	Employee Payment Report ADP
+$22,662,983,361,013.70	Report Range:	Tips
+$215,014.49	Name: ZACHRY T. WOOD SSN: 13	$0.00
+0	Payment Summary
+22,662,983,361,014	Salary	Vacation hourly	OT
+$0.00	$3,361,013.70
+$8,385,561,229,657.00	Bonus	$0.00	$0.00
+$13,330.90	$0.00	Other Wages 1	Other Wages 2
+532,580,113,436	Total	$0.00	$0.00
+0	22,662,983,361,014
+0	Deduction Summary
+Amount	Health Insurance
+$13,330.90	$0.00
+328,613,309,009	Tax Summary
+$441.70	Federal Tax	$7.00	Total Tax
+$840.00	$8,385,561,229,657@3,330.90	Local Tax
+$0.00
+$0.00	Advanced EIC Payment	$8,918,141,356,423.43
+$0.00	$0.00	Total
+401K
+$0.00	$0.00
+Social Security Tax Medicare TaxState Tax
+$532,580,113,050)
+$9,246,754,678,763.00
+Q4 2021	Q3 2021	Q2 2021	Q1 2021	Q4 2020
+$24,934,000,000.00	$25,539,000,000.00	$37,497,000,000.00	$31,211,000,000.00	$30,818,000,000.00
+$24,934,000,000.00	$25,539,000,000.00	$21,890,000,000.00	$19,289,000,000.00	$22,677,000,000.00
+$24,934,000,000.00	$25,539,000,000.00	$21,890,000,000.00	$19,289,000,000.00	$22,677,000,000.00
+$20,642,000,000.00	$18,936,000,000.00	$18,525,000,000.00	$17,930,000,000.00	$15,227,000,000.00
+$6,517,000,000.00	$3,797,000,000.00	$4,236,000,000.00	$2,592,000,000.00	$5,748,000,000.00
+$3,439,000,000.00	$3,304,000,000.00	$2,945,000,000.00	$2,753,000,000.00	$3,725,000,000.00
+$3,439,000,000.00	$3,304,000,000.00	$2,945,000,000.00	$2,753,000,000.00	$3,725,000,000.00
+$3,215,000,000.00	$3,085,000,000.00	$2,730,000,000.00	$2,525,000,000.00	$3,539,000,000.00
+$224,000,000.00	$219,000,000.00	$215,000,000.00	$228,000,000.00	$186,000,000.00
+$3,954,000,000.00	$3,874,000,000.00	$3,803,000,000.00	$3,745,000,000.00	$3,223,000,000.00
+$1,616,000,000.00	-$1,287,000,000.00	$379,000,000.00	$1,100,000,000.00	$1,670,000,000.00
+-$2,478,000,000.00	-$2,158,000,000.00	-$2,883,000,000.00	-$4,751,000,000.00	-$3,262,000,000.00
+-$2,478,000,000.00	-$2,158,000,000.00	-$2,883,000,000.00	-$4,751,000,000.00	-$3,262,000,000.00
+-$14,000,000.00	$64,000,000.00	-$8,000,000.00	-$255,000,000.00	$392,000,000.00
+-$2,225,000,000.00	$2,806,000,000.00	-$871,000,000.00	-$1,233,000,000.00	$1,702,000,000.00
+-$5,819,000,000.00	-$2,409,000,000.00	-$3,661,000,000.00	$2,794,000,000.00	-$5,445,000,000.00
+-$5,819,000,000.00	-$2,409,000,000.00	-$3,661,000,000.00	$2,794,000,000.00	-$5,445,000,000.00
+-$399,000,000.00	-$1,255,000,000.00	-$199,000,000.00	$7,000,000.00	-$738,000,000.00
+$6,994,000,000.00	$3,157,000,000.00	$4,074,000,000.00	-$4,956,000,000.00	$6,938,000,000.00
+$1,157,000,000.00	$238,000,000.00	-$130,000,000.00	-$982,000,000.00	$963,000,000.00
+$1,157,000,000.00	$238,000,000.00	-$130,000,000.00	-$982,000,000.00	$963,000,000.00
+$5,837,000,000.00	$2,919,000,000.00	$4,204,000,000.00	-$3,974,000,000.00	$5,975,000,000.00
+$368,000,000.00	$272,000,000.00	-$3,000,000.00	$137,000,000.00	$207,000,000.00
+-$3,369,000,000.00	$3,041,000,000.00	-$1,082,000,000.00	$785,000,000.00	$740,000,000.00
+-$11,016,000,000.00	-$10,050,000,000.00	-$9,074,000,000.00	-$5,383,000,000.00	-$7,281,000,000.00
+-$11,016,000,000.00	-$10,050,000,000.00	-$9,074,000,000.00	-$5,383,000,000.00	-$7,281,000,000.00
+-$6,383,000,000.00	-$6,819,000,000.00	-$5,496,000,000.00	-$5,942,000,000.00	-$5,479,000,000.00
+-$6,383,000,000.00	-$6,819,000,000.00	-$5,496,000,000.00	-$5,942,000,000.00	-$5,479,000,000.00
+-$385,000,000.00	-$259,000,000.00	-$308,000,000.00	-$1,666,000,000.00	-$370,000,000.00
+-$385,000,000.00	-$259,000,000.00	-$308,000,000.00	-$1,666,000,000.00	-$370,000,000.00
+-$4,348,000,000.00	-$3,360,000,000.00	-$3,293,000,000.00	$2,195,000,000.00	-$1,375,000,000.00
+-$40,860,000,000.00	-$35,153,000,000.00	-$24,949,000,000.00	-$37,072,000,000.00	-$36,955,000,000.00
+$36,512,000,000.00	$31,793,000,000.00	$21,656,000,000.00	$39,267,000,000.00	$35,580,000,000.00
+$100,000,000.00	$388,000,000.00	$23,000,000.00	$30,000,000.00	-$57,000,000.00
+-$15,254,000,000.00
+-$16,511,000,000.00	-$15,254,000,000.00	-$15,991,000,000.00	-$13,606,000,000.00	-$9,270,000,000.00
+-$16,511,000,000.00	-$12,610,000,000.00	-$15,991,000,000.00	-$13,606,000,000.00	-$9,270,000,000.00
+-$13,473,000,000.00	-$12,610,000,000.00	-$12,796,000,000.00	-$11,395,000,000.00	-$7,904,000,000.00
+$13,473,000,000.00	-$12,796,000,000.00	-$11,395,000,000.00	-$7,904,000,000.00
+-$42,000,000.00
+$115,000,000.00	-$42,000,000.00	-$1,042,000,000.00	-$37,000,000.00	-$57,000,000.00
+$115,000,000.00	$6,350,000,000.00	-$1,042,000,000.00	-$37,000,000.00	-$57,000,000.00
+$6,250,000,000.00	-$6,392,000,000.00	$6,699,000,000.00	$900,000,000.00	$0.00
+$6,365,000,000.00	-$2,602,000,000.00	-$7,741,000,000.00	-$937,000,000.00	-$57,000,000.00
+$2,923,000,000.00	-$2,453,000,000.00	-$2,184,000,000.00	-$1,647,000,000.00
+$0.00	$300,000,000.00	$10,000,000.00	$338,000,000,000.00
+$20,945,000,000.00	$23,719,000,000.00	$23,630,000,000.00	$26,622,000,000.00	$26,465,000,000.00
+$25,930,000,000.00	$235,000,000,000.00	-$3,175,000,000.00	$300,000,000.00	$6,126,000,000.00
+$181,000,000,000.00	$146,000,000,000.00
+$62.50	Reverse Corporate ACH Debit Effective 04-26-22	Reference number
+"PLEASE READ THE IMPORTANT DISCLOSURES BELOW
+COD : 633441725
+CIF Department (Online Banking) Business Checking's Account: 47-2041-6547 P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation 500 First Avenue ALPHABET Pittsburgh, PA 15219-3128 5323 BRADFORD DR NON-NEGOTIABLE DALLAS TX 75235 8313 ZACHRY, TYLER, WOOD 4/18/2022 650-2530-000 469-697-4300 SIGNATURE Time Zone: Eastern Central Mountain Pacific Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value" "($143,000,000.00) $210,000,000.00 $23,719,000,000,000.00 $26,622,000,000,000.00 $26,465,000,000,000.00 $20,129,000,000,000.00 $2,774,000,000.00 $89,000,000.00 $2,992,000,000.00 $6,336,000,000.00 $13,412,000,000.00 $157,000,000.00 $4,990,000,000.00 Q4 2020Q4 2019 Dec. 31, 2020Dec. 31, 2019 $182,527.00 $161,857.00 $84,732.00 $71,896.00 $27,573.00 $26,018.00 $17,946.00 $18,464.00 $11,052.00 $9,551.00 $0.00 $1,697.00 $141,303.00 $127,626.00 $41,224.00 $34,231.00 $6,858,000,000.00 $5,394.00 $22,677,000,000.00 $19,289,000,000.00 $22,677,000,000.00 $19,289,000,000.00 $22,677,000,000.00 $19,289,000,000.00 $20,210,418.00 RateUnitsTotalYTDTaxes / DeductionsCurrentYTD --$70,842,745,000.00 $70,842,745,000.00 Federal Withholding$0.00 $0.00 FICA - Social Security$0.00 $8,853.60 FICA - Medicare$0.00 $0.00 Employer Taxes FUTA$0.00 $0.00 SUTA$0.00 $0.00 EIN: 61-1767919 SSN: 633441725 Gross $70,842,745,000.00 Earnings Statement Taxes / DeductionsStub Number: 1 $0.00 Net PaySSNPay SchedulePay PeriodSep 28, 2022 to Sep 29, 2023Pay Date$44,669.00 $70,842,745,000.00 XXX-XX-1725Annually CHECK NUMBER 221116905560140 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $257,637,000,000.00 $75,325,000,000.00 $65,118,000,000.00 $61,880,000,000.00 $55,314,000,000.00 $56,898,000,000.00 $46,173,000,000.00 $38,297,000,000.00 $41,159,000,000.00 $46,075,000,000.00 $40,499,000,000.00 $78,714,000,000.00 $21,885,000,000.00 $21,031,000,000.00 $19,361,000,000.00 $16,437,000,000.00 $15,651,000,000.00 $11,213,000,000.00 $6,383,000,000.00 $7,977,000,000.00 $9,266,000,000.00 $9,177,000,000.00 $0.16 $0.18 $0.16 $0.16 $0.16 $0.16 $0.12 $0.18 $6,836,000,000.00 $7,977,000,000.00 $113.88 $31.15 $28.44 $27.69 $26.63 $22.54 $16.55 $10.21 $9.96 $15.49 $10.20 $113.88 $31.12 $28.44 $27.69 $26.63 $22.46 $16.55 $10.21 $9.96 $15.47 $10.20 $112.20 $30.69 $27.99 $27.26 $26.29 $22.30 $16.40 $10.13 $9.87 $15.35 $10.12 $112.20 $30.67 $27.99 $27.26 $26.29 $22.23 $16.40 $10.13 $9.87 $15.33 $10.12 $667,650,000.00 $662,664,000.00 $665,758,000.00 $668,958,000.00 $673,220,000.00 $675,581,000.00 $679,449,000.00 $681,768,000.00 $686,465,000.00 $688,804,000.00 $692,741,000.00 $677,674,000.00 $672,493,000.00 $676,519,000.00 $679,612,000.00 $682,071,000.00 $682,969,000.00 $685,851,000.00 $687,024,000.00 $692,267,000.00 $695,193,000.00 $698,199,000.00 $9.87 $113.88 $31.15 $28.44 $27.69 $26.63 $22.54 $16.55 $10.21 $9.96 $15.49 $10.20 $1.00 $112.20 $30.69 $27.99 $27.26 $26.29 $22.30 $16.40 $10.13 $9.87 $15.35 $10.12 $667,650,000.00 $662,664,000.00 $665,758,000.00 $668,958,000.00 $673,220,000.00 $675,581,000.00 $679,449,000.00 $681,768,000.00 $686,465,000.00 $688,804,000.00 $692,741,000.00 $677,674,000.00 $672,493,000.00 $676,519,000.00 $679,612,000.00 $682,071,000.00 $682,969,000.00 $685,851,000.00 $687,024,000.00 $692,267,000.00 $695,193,000.00 $698,199,000.00 Amount Transaction descriptionFor the period 04/13/2022 to 04/29/2022 ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3"" $22,116,905,560,149.00 Reference number Amount Transaction description $22,116,905,560,149.00 $62.50 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number $22,116,905,560,149.00 Amount Transaction description on your next statement as a single line item entitled Service Waived - New Customer Period $36.00 Returned Item Fee (nsf)
+Amount
+$0.00
+$0.00
+('PNCBANK
+É
+#NAME?
+step 2: Add together checks and other deductions listed in your account register but not on your statement.
+C'eck Deduction Descretio•	Anount
+account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law.
+Taxpayer I.D. Number (TIN)
+(Customer"")"	633-44-1725
+Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr R •d Ming procedures as may be established between the Customer and the Bank from time to time. General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the Customer Copy, page 2 of 4 Withdrawals and Transfers. Resolved that the Bank is authorized to make payments from the account(s) of Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner:
+45999-0023
+44658
+SS-4
+CP 575 A
+75235
+We assigned you
+This EIN will identify you, your business accounts, tax returns, and
+If the information is
+Please	b
+6.35-
+8
+Total Year to Date	3,
+Total for this Period
+36	36
+18
+t ly of
+Items	Amount	Checks and Other Deductions Description	Items	Amount
+1	62.5	ACH Deductions	1	62.5	he
+Service Charges and Fees	1	36
+1	62.5	Total	2	98.5
+Date	Ledger balance	Date	Ledger balance
+(279	62.50-	44678	36
+Ledger balance * You' 202 otm corr esti TM 27.8414.76% 63500 53.: 202 2160 gro 550 ovr
+525000
+$0.001 0.00% 367500
+$708,750.00 Medium Wide
+Standard
+ING payments, or replying to any related correspondence,
+If the information is
+We assigned you
+44658
+44658
+44658	If the information is
+44658
+44658
+Plea S
+If there is a balance due on the return (s)
+If you were not in business or did not hire any employees PI If you
+#NAME?
+Primary account number: 47-2041-6547 Page 1 of 3
+1022462	Q 304	Number of enclosures: 0
+For 24-hour banking sign on to PNC Bank Online Banking on pnc.com FREE Online Bill Pay For customer service call 1-877-BUS-BNKG PNC accepts Telecommunications Relay Service (TRS) calls.	9
+Para servicio en espalol, 1877.BUS-BNKC, Moving? Please contact your local branch. @ Write to: Customer Service PO Box 609 Pittsburgh , PA 15230-9738 Visit us at PNC.com/smaIIbusiness
+Date of this notice:
+44658
+Zachry Tyler Wood Alphabet	Employer Identification Number: 88-1656496
+Checks and other deductions	Ending balance	Form:	SS-4
+Deposits and other additions	Number of this notice:	CP 575 A
+#ERROR!	98.50 Average ledger balance	36.00- Average collected balance	For assistance you may call ug at:
+6.35-	6.35-	1-800-829-4933
+Total Year to Date
+Total for this Period
+36	36	IF YOU WRITE, ATTATCHA TYE STUB AT OYE END OF THIS NOTICE.
+Items	Amount	Checks and Other Deductions Description	Items	Amount
+1	62.5	ACH Deductions	1	62.5	We assigned you
+Service Charges and Fees	1	36
+1	62.5	Total	2	98.5
+Date	Date	Ledger balance	If the information is
+Ledger balance Ledger balance 0 44677 62.50- 44678 36 Form 940 44658 Berkshire Hathaway For the period 04/13/2022 to 04/29/2022 44680 ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 Please Page 2 of 3
+did not hire any employee
+Referenc numb
+$ Current Shares $ Market % Price $ Change % Change Held Value Weight 2749.75 21.24 0.78 500000000 1374875000000 5.65 2749.75 0.78 9,000,000,000.00 24,747,750,000,000.00 101.67 1 0 0 65000000 65000000 0 1 0 0 1 1 0 1 0 0 -9000000 -9000000 0 1 0 0 127537500000 127537500000 0.52 1 0 0 -1909,957,000,000.00 -1909957000000 -7.85 201780000000 0.84 24340261500001 99.99 T Lc•s Detail .. May u 2022
+• OCE
+GOOG	Morningstar Rating
+Ascending
+Export
+41609	41974	42339	2021-12
+41244
+44166
+42705	43070	43435	43800
+50175	59825	66001	74989	$257,637.00	$257,637.00
+90272	110855	136819	161857	182527
+58.9	56.8	61.1	62.4	$56.90	$56.90
+61.1	58.9	56.5	55.6	53.6
+12760	13966	16496	19360	23716	28882	31392	35928	41224	$78,714.00	$78,714.00
+$30.60	$30.60
+25.4	23.3	25	25.8	26.3	26.1	22.9	22.2	22.6
+10737	12920	14444	16348	19478	12662	30736	34343	40269	$76,033.00	$76,033.00
+16.16	18.79	20.57	22.84	27.85	18	43.7	49.16	58.61	$112.20	$112.20
+665	678	687	693	699	704	703	699	687	$678.00	$678.00
+145.08	169.12	193.99	226.11	244.18	283.25	315.33	$369.37	$380.70
+16619	18659	22376	26024	36036	37091	47971	54520	65124	$91,652.00	$91,652.00
+-3273	-7358	-10959	-9915	-10212	-13184	-25139	-23548	-22281	-$24,640.00	-$24,640.00
+Mil	13346	11301	11417	16109	25824	23907	22832	30972	42843	$67,012.00	$67,012.00
+16.92	21.15	33.65	34.57	32.49	40.72	49.3	$96.52
+46117	56978	63880	70804	88652	100125	101056	107357	117462	$123,889.00
+Growth	Cash Flow	Financial Health	Efficiency Ratios
+2012-12 2013-12	41974	42339	42705	43070	43435	43800	44166	2021-12	TTY
+100.00 100.00	100	100	100	100	100	100	100	$100.00	$100.00
+41.12 43.22	38.93	37.56	38.92	41.12	43.52	44.42	46.42	$43.06	$43.06
+58.88 56.78	61.07	62.44	61.08	58.88	56.48	55.58	53.58	$56.94	$56.94
+19.91 20.14	21.18	20.25	19.35	17.83	17.88	17.31	15.89	$14.14	$14.14
+13.54 13.29	14.9	16.38	15.45	15	15.65	16.07	15.11	$12.25	$12.25
+25.43 23.34	24.99	25.82	26.27	26.05	22.94	22.2	22.59	$30.55	$30.55
+1.25 0.89	1.16	0.39	0.48	-1.52	2.57	2.28	3.76	$4.67	$4.67
+26.68 24.23	26.15	26.21	26.75	24.53	25.52	24.48	26.34	$35.22	$35.22
+2012-12 2013-12	41974	42339	42705	43070	43435	43800	44166	2021-12	TTM
+19.41 15.74	19.3	16.81	19.35	53.44	11.96	13.33	16.25	$16.20	$16.20
+21.40 21.60	21.88	21.1	21.58	11.42	22.46	21.22	$22.06	$29.51	$29.51
+0.60 0.58	0.55	0.54	0.57	0.61	0.64	0.64	$0.61	$0.76	$0.76
+12.91 12.62	11.93	11.36	12.37	6.94	14.29	13.5	$13.52	$22.40	$22.40
+1.31 1.27	1.25	1.23	1.2	1.29	1.31	1.37	$1.44	$1.43	$1.43
+16.54 16.25	15.06	14.08	15.02	8.69	18.62	18.12	$19.00	$32.07	32,07
+14.66 14.52	13.77	12.82	14.02	7.98	17.26	16.15	$16.63	$28.36	$28.36
+160.36 175.65	171.88	189.95	195.76	250.48	307.25	397.25	$357.16	$263.24	$263.24
+' '	wo	oo•ooo'ooo'08L'voz	POOM 101K' Ousn
+ALPHABÉT L.L.C. Profit and Loss Detail January 1 - May 22, 2022
+TRANSACTION NUM TYPE NAME MEMO/DESCRIPTION SPLIT AMOUNT BALANCE
+1004
+Sales Receipt
+Internal Revenue Service (IRS) - Internal Revenue Service 1111 Constitution Ave. N.W. Washinton DC 20535	Transaction description Effective 04-27-22 Amount 36.00 Reverse ACH Debit	Business Checking	0	0
+Effective 04-26-22
+Reference number
+22116905560140
+Sales Receipt	1003	Internal Revenue Service (IRS) - Internal Revenue Service 1111 Constitution Ave. N.W. Washinton DC 20535	Transaction description Effective 04-26-22 Amount 62.50 Reverse ACH Debit	Business Checking	70,842,743,866.00 70,842,743,866.00
+Effective 04-26-22 Reference number
+22116905560149
+70842743866
+70842743866
+00022116905560149 All figures are estimates based on samples—money amounts are in ZAC thousands of dollars - INCOME	Accounts Payable (XP)
+bitcoin'	Accounts
+Bill	7364071921891
+Payable (AP)	#ERROR!
+SVCCHRG
+Business Checking	62.5	62.5
+fees
+ard fees	62.5
+12753754062
+1275379063
+$58,0849egeoa50
+Transaction Amount description 62.50 Reverse Corporate ACH Debit Effective 04-26-22	Referernce number	the due dates shown, you can call us at
+|00022116905560149|	If you
+Transaction Amount description Reference number 70842743866 Corporate ACH Quickbooks 180041ntuit 1940868 |00022116905560149|
+Transaction Amount descripton Reference 0 number |00022116905560149|
+Amount
+62.5
+36
+98.5	Waived -	Waived - New Customer Period
+PNCBANK
+Volume
+The activity detail section of your statement to your account register. All items in your account register that also appear on your statement. Remember to begin with the ending date of your last statement. (An asterisk { * } will appear in the Checks section if there is a gap in the listing of consecutive check numbers.) Any deposits or additions including interest payments and ATM or electronic deposits listed on the statement that are not already entered in your register. Any account deductions including fees and ATM or electronic deductions listed on the statement that are not already entered in your register. step 2: Add together checks and other deductions listed in your account register but not on your statement. Amount Check Deduction Descrption Amount
+on Deposit: NON-NEGOTIABLE Employee Payment Report ADP $22,662,983,361,013.70 Report Range: Tips
+$215,014.49 Name: ZACHRY T. WOOD SSN: 13 $0.00
+0 Payment Summary
+22,662,983,361,014 Salary Vacation hourly OT
+$0.00 $3,361,013.70
+$8,385,561,229,657.00 Bonus $0.00 $0.00
+$13,330.90 $0.00 Other Wages 1 Other Wages 2 532,580,113,436 Total $0.00 $0.00
+0 22,662,983,361,014
+0 Deduction Summary Amount Health Insurance
+$13,330.90 $0.00
+3J2P8,M61O3R,3G09A,0N09TRUTaSxTSIum0m0a0r0y02965 TOTAL (includes tax of (0.00)) 64,454,859,587.62
+$840.00 $8,385,561,229,657@3,330.90 Local Tax
+$0.00
+$0.00 Advanced EIC Payment $8,918,141,356,423.43Page 1 of 1
+Total A=$22934637118600
+22934637118600
+Total A + $22934637118600
+Subtotal=$22934637118600
+$	22934637118600
+$	22934637118600
+Total B22934637118600
+0
+
+
+On Sat, Oct 15, 2022 at 10:54 AM ZACHRY WOOD <zachryiixixiiwood@gmail.com> wrote:
+NTERNAL REVENUE SERVICE,PO BOX 1214,CHARLOTTE, NC 28201-1214ALINE Pay, FSDD, ADPCheck, WGPS, Garnishment Services, EBTS, Benefit Services, Other Bank Bank Address Account Name ABA DDA Collection Method JPMorgan Chase One Chase Manhattan Plaza New York, NY 10005 ADP Tax Services 021000021 323269036 Reverse Wire Impound Deutsche Bank 60 Wall Street New York, NY 10005-2858 ADP Tax Services 021001033 00416217 Reverse Wire Impound Tax & 401(k) Bank Bank Address Account Name ABA DDA Collection Method JPMorgan Chase One Chase Manhattan Plaza New York, NY 10005 ADP Tax Services 021000021 9102628675 Reverse Wire Impound Deutsche Bank 60 Wall Street New York, NY 10005-2858 ADP Tax Services 021001033 00153170 Reverse Wire Impound Workers Compensation Bank Bank Address Account Name ABA DDA Collection Method JPMorgan Chase One Chase Manhattan Plaza New York, NY 10005 ADP Tax Services 021000021 304939315 Reverse Wire Impound NOTICE CLIENT acknowledges that if sufficient funds are there-in, are. Have, been, and Will: Be Available Soley for the purposees of ZACHRY TYLER WOOD AT HIS DISCREATION AS ADVISED BY :ZACHRY :TYLER : WOOD :DOB 1994-10-15 :SSN :633441725 :ONLY. As, So. It Stands, that. The date, required due recoginition of funds and services to be provided by :ADP :passed by :and unders those sunch same provisionings clauses and terms and conditions have. VOID this Agreement and causeing NOTICE TO CHANGE IN STATMENT OF BENIFICIAL OWNERSHIP TO BE GRANTED TO ZACHRY TYLER WOOOD("1) ":,:"CLIENT "=" NOW+OWNER":, "will immediately become solely responsible for all tax deposits and filings, all employee wages, all wage garnishments, all CLIENT third- party payments (e.g., vendor payments) and all related penalties and interest due then and thereafter, (2) any and all ADP Services may, at ADP’s option, be immediately terminated, (3) neither BANK nor ADP will have any further obligation to CLIENT or any third party with respect to any such Services and (4) ADP may take such action as it deems appropriate to collect ADP’s Fees for Services. Client shall not initiate any ACH transactions utilizing ADP’s services that constitute International ACH transactions without first (i) notifying ADP of such IAT transactions in writing utilizing ADP’s Declaration of International ACH Transaction form (or such other form as directed by ADP) and (ii) complying with the requirements applicable to IAT transactions. ADP shall not be liable for any delay or failure in processing any ACH transaction due to Client’s failure to so notify ADP of Client’s IAT transactions or Client’s failure to comply with applicable IAT requirements. EXHIBIT A ZACHRY WOOD15 $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000For Disclosure, Privacy Act, and Paperwork Reduction ActNotice, see separate instructions. $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000Cat. No. 11320B $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000Form 1040 (2021) $76,033,000,000.00 20,642,000,000 18,936,000,000Reported Normalized and Operating Income/ExpenseSupplemental SectionTotal Revenue as Reported, Supplemental $257,637,000,000.00 75,325,000,000 65,118,000,000 61,880,000,000 55,314,000,000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000Total Operating Profit/Loss as Reported, Supplemental $78,714,000,000.00 21,885,000,000 21,031,000,000 19,361,000,000 16,437,000,000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000Reported Effective Tax Rate $0.16 0.179 0.157 0.158 0.158 0.159 0.119 0.181Reported Normalized Income 6,836,000,000Reported Normalized Operating Profit 7,977,000,000Other Adjustments to Net Income Available to CommonStockholdersDiscontinued OperationsBasic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2Basic EPS from Continuing Operations $113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2Basic EPS from Discontinued OperationsDiluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12Diluted EPS from Continuing Operations $112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12Diluted EPS from Discontinued OperationsBasic Weighted Average Shares Outstanding $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000Reported Normalized Diluted EPS 9.87Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000Fiscal year end September 28th., 2022. | USDFor Paperwork Reduction Act Notice, see the seperateInstructions.THIS NOTE IS LEGAL TENDERTENDERFOR ALL DEBTS, PUBLIC ANDPRIVATECurrent ValueUnappropriated, Affiliated, Securities, at Value.(1) For subscriptions, your payment method on file will be automatically charged monthly/annually at the then-current list price until you cancel. If you have a discount it will apply to the then-current list price until it expires. To cancel your subscription at any time, go to Account & Settings and cancel the subscription. (2) For one-time services, your payment method on file will reflect the charge in the amount referenced in this invoice. Terms, conditions, pricing, features, service, and support options are subject to change without notice.All dates and times are Pacific Standard Time (PST).INTERNAL REVENUE SERVICE, $20,210,418.00 PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00 Earnings FICA - Social Security $0.00 $8,853.60 Commissions FICA - Medicare $0.00 $0.00 Employer Taxes FUTA $0.00 $0.00 SUTA $0.00 $0.00 EIN: 61-1767ID91:900037305581 SSN: 633441725 YTD Gross Gross $70,842,745,000.00 $70,842,745,000.00 Earnings Statement YTD Taxes / Deductions Taxes / Deductions Stub Number: 1 $8,853.60 $0.00 YTD Net Pay net, pay. SSN Pay Schedule Paid Period Sep 28, 2022 to Sep 29, 2023 15-Apr-22 Pay Day 18-Apr-22 $70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually Sep 28, 2022 to Sep 29, 2023 CHECK DATE CHECK NUMBER 001000 18-Apr-22 PAY TO THE : ZACHRY WOOD ORDER OF :Office of the 46th President Of The United States. 117th US Congress Seal Of The US Treasury Department, 1769 W.H.W. DC, US 2022. : INTERNAL REVENUE SERVICE,PO BOX 1214,CHARLOTTE, NC 28201-1214 CHECK AMOUNT $70,842,745,000.00 Pay ZACHRY.WOOD********** :NON-NEGOTIABLE : VOID AFTER 14 DAYS INTERNAL REVENUE SERVICE :000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $257,637,000,000.00 $75,325,000,000.00 $65,118,000,000.00 $61,880,000,000.00 $55,314,000,000.00 $56,898,000,000.00 $46,173,000,000.00 $38,297,000,000.00 $41,159,000,000.00 $46,075,000,000.00 $40,499,000,000.00 $78,714,000,000.00 $21,885,000,000.00 $21,031,000,000.00 $19,361,000,000.00 $16,437,000,000.00 $15,651,000,000.00 $11,213,000,000.00 $6,383,000,000.00 $7,977,000,000.00 $9,266,000,000.00 $9,177,000,000.00 $0.16 $0.18 $0.16 $0.16 $0.16 $0.16 $0.12 $0.18 $6,836,000,000.00 $7,977,000,000.00 $113.88 $31.15 $28.44 $27.69 $26.63 $22.54 $16.55 $10.21 $9.96 $15.49 $10.20 $113.88 $31.12 $28.44 $27.69 $26.63 $22.46 $16.55 $10.21 $9.96 $15.47 $10.20 $112.20 $30.69 $27.99 $27.26 $26.29 $22.30 $16.40 $10.13 $9.87 $15.35 $10.12 $112.20 $30.67 $27.99 $27.26 $26.29 $22.23 $16.40 $10.13 $9.87 $15.33 $10.12 $667,650,000.00 $662,664,000.00 $665,758,000.00 $668,958,000.00 $673,220,000.00 $675,581,000.00 $679,449,000.00 $681,768,000.00 $686,465,000.00 $688,804,000.00 $692,741,000.00 $677,674,000.00 $672,493,000.00 $676,519,000.00 $679,612,000.00 $682,071,000.00 $682,969,000.00 $685,851,000.00 $687,024,000.00 $692,267,000.00 $695,193,000.00 $698,199,000.00 $9.87 $113.88 $31.15 $28.44 $27.69 $26.63 $22.54 $16.55 $10.21 $9.96 $15.49 $10.20 $1.00 $112.20 $30.69 $27.99 $27.26 $26.29 $22.30 $16.40 $10.13 $9.87 $15.35 $10.12 $667,650,000.00 $662,664,000.00 $665,758,000.00 $668,958,000.00 $673,220,000.00 $675,581,000.00 $679,449,000.00 $681,768,000.00 $686,465,000.00 $688,804,000.00 $692,741,000.00 $677,674,000.00 $672,493,000.00 $676,519,000.00 $679,612,000.00 $682,071,000.00 $682,969,000.00 $685,851,000.00 $687,024,000.00 $692,267,000.00 $695,193,000.00 $698,199,000.00 : $70,842,745,000.00 633-44-1725 Annually : branches: - main : on: schedule: - cron: "0 2 * * 1-5 : obs: my_job: name :deploy to staging : runs-on :ubuntu-18.04 :The available virtual machine types are:ubuntu-latest, ubuntu-18.04, or ubuntu-16.04 :windows-latest :# :Controls when the workflow will run :"#":, "Triggers the workflow on push or pull request events but only for the "Masterbranch" branch :":, push: EFT information Routing number: 021000021Payment account ending: 9036Name on the account: ADPTax reporting informationInternal Revenue ServiceUnited States Department of the TreasuryMemphis, TN 375001-1498Tracking ID: 1023934415439Customer File Number: 132624428Date of Issue: 07-29-2022ZACHRY T WOOD3050 REMOND DR APT 1206DALLAS, TX 75211Taxpayer's Name: ZACH T WOOTaxpayer Identification Number: XXX-XX-1725Tax Period: December, 2018Return: 1040 ZACHRY TYLER WOOD 5323 BRADFORD DRIVE DALLAS TX 75235 EMPLOYER IDENTIFICATION NUMBER :611767919 :FIN :xxxxx4775 THE 101YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM $0.001 TO 33611.5895286 :State Income TaxTotal Work HrsBonusTrainingYour federal taxable wages this period are $22,756,988,716,000.00Net.Important Notes0.001 TO 112.20 PAR SHARE VALUETot*$70,842,743,866.00$22,756,988,716,000.00$22,756,988,716,000.001600 AMPIHTHEATRE PARKWAYMOUNTAIN VIEW CA 94043Statement of Assets and Liabilities As of  Mountain View, C.A. 94043
+Taxable Maritial Status: Single Exemptions/Allowances TX: 28 Federal 941 Deposit Report ADP Report Range5/4/2022 - 6/4/2022 Local ID: EIN: 63-3441725State ID: 633441725 Employee NAumboeurn:t3 Description 5/4/2022 - 6/4/2022 Payment Amount (Total) $9,246,754,678,763.00 Display All
+
+Social Security (Employee + Employer) $26,661.80
+Medicare (Employee + Employer) $861,193,422,444.20 Hourly
+Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800 Note: This report is generated based on the payroll data for your reference only. Please contact IRS office for special cases such as late payment, previous overpayment, penalty and others. Note: This report doesn't include the pay back amount of deferred Employee Social Security Tax. Commission Employer Customized Report ADP Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00 EIN: Customized Report Amount Employee Payment Report ADP Employee Number: 3 Description Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips Taxable SS Wages $215,014.49 Name: SSN: $0.00 Taxable SS Tips $0 Payment Summary Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT Advanced EIC Payment $0.00 $3,361,013.70 Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00 Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2 Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00 State Income Tax Withheld $0.00 $22,662,983,361,013.70 Local Income Tax Withheld Customized Employer Tax Report $0.00 Deduction Summary Description Amount Health Insurance Employer SS Tax Employer Medicare Tax $13,330.90 $0.00 Federal Unemployment Tax $328,613,309,008.67 Tax Summary State Unemployment Tax $441.70 Federal Tax Total Tax Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax Health Insurance $0.00 401K $0.00 Advanced EIC Payment $8,918,141,356,423.43 $0.00 $0.00 Total 401K $0.00 $0.00 Social Security Tax Medicare TaxState Tax $532,580,113,050) 3/6/2022 at 6:37 PM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 GOOGL_income�statement_Quarterly_As_Originally_Reported 24,934,000,000 25,539,000,000 37,497,000,000 31,211,000,000 30,818,000,000 24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000 Cash Flow from Operating Activities, Indirect 24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000 Net Cash Flow from Continuing Operating Activities, Indirect 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 Cash Generated from Operating Activities 6,517,000,000 3,797,000,000 4,236,000,000 2,592,000,000 5,748,000,000 Income/Loss before Non-Cash Adjustment 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000 Total Adjustments for Non-Cash Items 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3,215,000,000 3,085,000,000 2,730,000,000 2,525,000,000 3,539,000,000 Depreciation and Amortization, Non-Cash Adjustment 224,000,000 219,000,000 215,000,000 228,000,000 186,000,000 Depreciation, Non-Cash Adjustment 3,954,000,000 3,874,000,000 3,803,000,000 3,745,000,000 3,223,000,000 Amortization, Non-Cash Adjustment 1,616,000,000 -1,287,000,000 379,000,000 1,100,000,000 1,670,000,000 Stock-Based Compensation, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000 Taxes, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000 Investment Income/Loss, Non-Cash Adjustment -14,000,000 64,000,000 -8,000,000 -255,000,000 392,000,000 Gain/Loss on Financial Instruments, Non-Cash Adjustment -2,225,000,000 2,806,000,000 -871,000,000 -1,233,000,000 1,702,000,000 Other Non-Cash Items -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000 Changes in Operating Capital -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000 Change in Trade and Other Receivables -399,000,000 -1,255,000,000 -199,000,000 7,000,000 -738,000,000 Change in Trade/Accounts Receivable 6,994,000,000 3,157,000,000 4,074,000,000 -4,956,000,000 6,938,000,000 Change in Other Current Assets 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000 Change in Payables and Accrued Expenses 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000 Change in Trade and Other Payables 5,837,000,000 2,919,000,000 4,204,000,000 -3,974,000,000 5,975,000,000 Change in Trade/Accounts Payable 368,000,000 272,000,000 -3,000,000 137,000,000 207,000,000 Change in Accrued Expenses -3,369,000,000 3,041,000,000 -1,082,000,000 785,000,000 740,000,000 Change in Deferred Assets/Liabilities Change in Other Operating Capital -11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000 Change in Prepayments and Deposits -11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000 Cash Flow from Investing Activities Cash Flow from Continuing Investing Activities -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000 -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net Purchase of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000 Sale and Disposal of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000 Purchase/Sale of Business, Net -4,348,000,000 -3,360,000,000 -3,293,000,000 2,195,000,000 -1,375,000,000 Purchase/Acquisition of Business -40,860,000,000 -35,153,000,000 -24,949,000,000 -37,072,000,000 -36,955,000,000 Purchase/Sale of Investments, Net Purchase of Investments 36,512,000,000 31,793,000,000 21,656,000,000 39,267,000,000 35,580,000,000 100,000,000 388,000,000 23,000,000 30,000,000 -57,000,000 Sale of Investments Other Investing Cash Flow -15,254,000,000 Purchase/Sale of Other Non-Current Assets, Net -16,511,000,000 -15,254,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000 Sales of Other Non-Current Assets -16,511,000,000 -12,610,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000 Cash Flow from Financing Activities -13,473,000,000 -12,610,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000 Cash Flow from Continuing Financing Activities 13,473,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000 Issuance of/Payments for Common Stock, Net -42,000,000 Payments for Common Stock 115,000,000 -42,000,000 -1,042,000,000 -37,000,000 -57,000,000 Proceeds from Issuance of Common Stock 115,000,000 6,350,000,000 -1,042,000,000 -37,000,000 -57,000,000 Issuance of/Repayments for Debt, Net 6,250,000,000 -6,392,000,000 6,699,000,000 900,000,000 0 Issuance of/Repayments for Long Term Debt, Net 6,365,000,000 -2,602,000,000 -7,741,000,000 -937,000,000 -57,000,000 Proceeds from Issuance of Long Term Debt Repayments for Long Term Debt 2,923,000,000 -2,453,000,000 -2,184,000,000 -1,647,000,000 Proceeds from Issuance/Exercising of Stock Options/Warrants 0 300,000,000 10,000,000 3.38E+11 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 20,945,000,000 23,719,000,000 23,630,000,000 26,622,000,000 26,465,000,000 Effect of Exchange Rate Changes 25930000000) 235000000000) -3,175,000,000 300,000,000 6,126,000,000 Cash and Cash Equivalents, Beginning of Period PAGE="$USD(181000000000)".XLS BRIN="$USD(146000000000)".XLS 183,000,000 -143,000,000 210,000,000 Cash Flow Supplemental Section $23,719,000,000,000.00 $26,622,000,000,000.00 $26,465,000,000,000.00 $20,129,000,000,000.00 Change in Cash as Reported, Supplemental 2,774,000,000 89,000,000 -2,992,000,000 6,336,000,000 Income Tax Paid, Supplemental 13,412,000,000 157,000,000 ZACHRY T WOOD -4990000000 Cash and Cash Equivalents, Beginning of Period Department of the Treasury Internal Revenue Service Q4 2020 Q4 2019 Calendar Year Due: 04/18/2022 Dec. 31, 2020 Dec. 31, 2019 USD in "000'"s Repayments for Long Term Debt 182527 161857 Costs and expenses: Cost of revenues 84732 71896 Research and development 27573 26018 Sales and marketing 17946 18464 General and administrative 11052 9551 European Commission fines 0 1697 Total costs and expenses 141303 127626 Income from operations 41224 34231 Other income (expense), net 6858000000 5394 Income before income taxes 22,677,000,000 19,289,000,000 Provision for income taxes 22,677,000,000 19,289,000,000 Net income 22,677,000,000 19,289,000,000 *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) ALPHABET 88-1303491 5323 BRADFORD DR, DALLAS, TX 75235-8314 Employee Info United States Department of The Treasury Employee Id: 9999999998 IRS No. 000000000000 INTERNAL REVENUE SERVICE, $20,210,418.00 PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00 Earnings FICA - Social Security $0.00 $8,853.60 Commissions FICA - Medicare $0.00 $0.00 Employer Taxes FUTA $0.00 $0.00 SUTA $0.00 $0.00 EIN: 61-1767ID91:900037305581 SSN: 633441725 YTD Gross Gross $70,842,745,000.00 $70,842,745,000.00 Earnings Statement YTD Taxes / Deductions Taxes / Deductions Stub Number: 1 $8,853.60 $0.00 YTD Net Pay Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 18-Apr-22 $70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually CHECK DATE CHECK NUMBER 18-Apr-22 **$70,842,745,000.00 THIS IS NOT A CHECK CHECK AMOUNT VOID INTERNAL REVENUE SERVICE, PO BOX 1214, CHARLOTTE, NC 28201-1214 ZACHRY WOOD 15 $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Cat. No. 11320B $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Form 1040 (2021) $76,033,000,000.00 20,642,000,000 18,936,000,000 Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental $257,637,000,000.00 75,325,000,000 65,118,000,000 61,880,000,000 55,314,000,000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 Total Operating Profit/Loss as Reported, Supplemental $78,714,000,000.00 21,885,000,000 21,031,000,000 19,361,000,000 16,437,000,000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Reported Effective Tax Rate $0.16 0.179 0.157 0.158 0.158 0.159 0.119 0.181 Reported Normalized Income 6,836,000,000 Reported Normalized Operating Profit 7,977,000,000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 Basic EPS from Continuing Operations $113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2 Basic EPS from Discontinued Operations Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12 Diluted EPS from Continuing Operations $112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Reported Normalized Diluted EPS 9.87 Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1 Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12 Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 ￼￼
+We'll be back shortly.
+
+For real-time updates, follow @ChaseSupport on Twitter.
+
+Our advisors are available weekdays, 7 AM to 9 PM ET, and Saturdays from 8 AM to 5 PM ET.
+
+Telephone bankers may be able to access some account information while our site is unavailable.
+
+You can reach them at one of the numbers below:
+
+
+Person Checking, Savings & CD1-800-935-9935Mortgages1-800-848-9136Business Banking1-800-242-7338Auto Loans & Leases1-800-336-6675Home Equity Line of Credit Loans1-800-836-5656Student Loans1-800-487-4404Retirement self-directed Accounts1-800-776-6061J.P.Morgan Securities1-888-807-6898Chase private Client (or contact your Private Client Banker)1-888-994-5626Investments/Retirement1-800-392-5749Credit CardsCall the number on the back of your credit cardChase Commercial OnlineSMCall your Client Service Professional or Client Service Officer 28, 2022Fiscal' year' s end | September 28th.Total (includes tax of (00.00)":, Company Registration No: CIK0000835271. Registered Office: 1600 AMPITHEATRE PARKWAY MOUNTAIN VIEW C.A., 94043, United States Department of the National. CREDIT NOTE Internal Revenue Service (IRS) - Internal Revenue Service - 1111 Constitution Ave., N.W. Washinton, D.C. 20535 633441725 ZACHRY T WOOD 132-62-4428 Zachry Tyler Wood III 5323 BRADFORD DR DALLAS TX 75235-8313 UNITED STATES [1:L] #1125612613 S-8 1 a20220726alphabets-8for202.htm S-8
+Registration No. 333-33333
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+United States Department of The Treasury 19289000000.00 Unted States Department of The Treasury
+
+19289000000 19289000000 Federal 941 Deposit Report
+
+ADP
+
+Report Range5/4/2022 - 6/4/2022" Local ID: EIN: 63-3441725 State ID: 633441725 "Employee Number: 3
+
+Description" Amount 5/4/2022 - 6/4/2022 Payment Amount (Total) $9,246,754,678,763 Display All
+
+Social Security (Employee + Employer) 26661.8 Medicare (Employee + Employer) 861193422444 Hourly Federal Income Tax 8385561229657 2.2663E+15 "Note: This report is generated based on the payroll data for your reference only. Please contact IRS office for special cases such as late payment, previous overpayment, penalty and others. Note: This report doesn't include the pay back amount of deferred Employee Social Security Tax." Commission "Employer Customized Report
+
+ADP
+
+Report Range5/4/2022 - 6/4/2022" 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 EIN: Report : Range: 5/4/2022 - 6/4/2022 Local ID: EIN: 63-3441725 State ID: 633441725 Employee Number: 3 Transaction description: Amount 5/4/2022 - 6/4/2022 Payment Amount (Total) $9,246,754,678,763 Display All
+
+Social Security (Employee + Employer) 26661.8 Medicare (Employee + Employer) 861193422444 Federal Income Tax 8385561229657 2.2663E+15 Note: This report is generated based on the payroll data for your reference only. Please contact IRS office for special cases such as late payment, previous overpayment, penalty and others. Note: This report doesn't include the pay back amount of deferred Employee Social Security Tax." Commission":"2267700000000000" Employer Customized Report(IRS USE ONLY) 575 A 575 WOOD B 99999999999 03-18-2022 SS-4 Report Range5/4/2022 - 6/4/2022" 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 EIN: 88-1303491 : Customized Report Amount "Employee Payment Report ADP" "Employee Number: 3 Description" Wages, Tips and Other Compensation 22662983361014 Report Range: Tips Taxable SS Wages 215014.49 "Name: 17 Station Street, 3rd Floor, Brookline, MA 02445, USA \SignaturePage\S\65025300004696974300\EXECUTOR\ADMINISTRATOR\AUTHORIZEDSIGNATUREAUTHORIZEDSIGNATUREAUTHORIZEDSIGNATUREAUTHORIZEDSIGNATUREAUTHORIZEDSIGNATUREAUTHORIZEDSIGNATURE
+
+
+On Sat, Oct 15, 2022 at 7:38 AM ZACHRY WOOD <zachryiixixiiwood@gmail.com> wrote:
+GLctxObject
+: 
+GLctx
+: 
+WebGL2RenderingContext
+currentProgram
+: 
+null
+dibvbi
+: 
+null
+disjointTimerQueryExt
+: 
+EXTDisjointTimerQueryWebGL2 {}
+mdibvbi
+: 
+null
+multiDrawWebgl
+: 
+WebGLMultiDraw {}
+canvas
+: 
+canvas.ink-engine
+drawingBufferColorSpace
+: 
+"srgb"
+drawingBufferHeight
+: 
+636
+drawingBufferWidth
+: 
+826
+unpackColorSpace
+: 
+"srgb"
+[[Prototype]]
+: 
+WebGL2RenderingContext
+ACTIVE_ATTRIBUTES
+: 
+35721
+ACTIVE_TEXTURE
+: 
+34016
+ACTIVE_UNIFORMS
+: 
+35718
+ACTIVE_UNIFORM_BLOCKS
+: 
+35382
+ALIASED_LINE_WIDTH_RANGE
+: 
+33902
+ALIASED_POINT_SIZE_RANGE
+: 
+33901
+ALPHA
+: 
+6406
+ALPHA_BITS
+: 
+3413
+ALREADY_SIGNALED
+: 
+37146
+ALWAYS
+: 
+519
+ANY_SAMPLES_PASSED
+: 
+35887
+ANY_SAMPLES_PASSED_CONSERVATIVE
+: 
+36202
+ARRAY_BUFFER
+: 
+34962
+ARRAY_BUFFER_BINDING
+: 
+34964
+ATTACHED_SHADERS
+: 
+35717
+BACK
+: 
+1029
+BLEND
+: 
+3042
+BLEND_COLOR
+: 
+32773
+BLEND_DST_ALPHA
+: 
+32970
+BLEND_DST_RGB
+: 
+32968
+BLEND_EQUATION
+: 
+32777
+BLEND_EQUATION_ALPHA
+: 
+34877
+BLEND_EQUATION_RGB
+: 
+32777
+BLEND_SRC_ALPHA
+: 
+32971
+BLEND_SRC_RGB
+: 
+32969
+BLUE_BITS
+: 
+3412
+BOOL
+: 
+35670
+BOOL_VEC2
+: 
+35671
+BOOL_VEC3
+: 
+35672
+BOOL_VEC4
+: 
+35673
+BROWSER_DEFAULT_WEBGL
+: 
+37444
+BUFFER_SIZE
+: 
+34660
+BUFFER_USAGE
+: 
+34661
+BYTE
+: 
+5120
+CCW
+: 
+2305
+CLAMP_TO_EDGE
+: 
+33071
+COLOR
+: 
+6144
+COLOR_ATTACHMENT0
+: 
+36064
+COLOR_ATTACHMENT1
+: 
+36065
+COLOR_ATTACHMENT2
+: 
+36066
+COLOR_ATTACHMENT3
+: 
+36067
+COLOR_ATTACHMENT4
+: 
+36068
+COLOR_ATTACHMENT5
+: 
+36069
+COLOR_ATTACHMENT6
+: 
+36070
+COLOR_ATTACHMENT7
+: 
+36071
+COLOR_ATTACHMENT8
+: 
+36072
+COLOR_ATTACHMENT9
+: 
+36073
+COLOR_ATTACHMENT10
+: 
+36074
+COLOR_ATTACHMENT11
+: 
+36075
+COLOR_ATTACHMENT12
+: 
+36076
+COLOR_ATTACHMENT13
+: 
+36077
+COLOR_ATTACHMENT14
+: 
+36078
+COLOR_ATTACHMENT15
+: 
+36079
+COLOR_BUFFER_BIT
+: 
+16384
+COLOR_CLEAR_VALUE
+: 
+3106
+COLOR_WRITEMASK
+: 
+3107
+COMPARE_REF_TO_TEXTURE
+: 
+34894
+COMPILE_STATUS
+: 
+35713
+COMPRESSED_TEXTURE_FORMATS
+: 
+34467
+CONDITION_SATISFIED
+: 
+37148
+CONSTANT_ALPHA
+: 
+32771
+CONSTANT_COLOR
+: 
+32769
+CONTEXT_LOST_WEBGL
+: 
+37442
+COPY_READ_BUFFER
+: 
+36662
+COPY_READ_BUFFER_BINDING
+: 
+36662
+COPY_WRITE_BUFFER
+: 
+36663
+COPY_WRITE_BUFFER_BINDING
+: 
+36663
+CULL_FACE
+: 
+2884
+CULL_FACE_MODE
+: 
+2885
+CURRENT_PROGRAM
+: 
+35725
+CURRENT_QUERY
+: 
+34917
+CURRENT_VERTEX_ATTRIB
+: 
+34342
+CW
+: 
+2304
+DECR
+: 
+7683
+DECR_WRAP
+: 
+34056
+DELETE_STATUS
+: 
+35712
+DEPTH
+: 
+6145
+DEPTH24_STENCIL8
+: 
+35056
+DEPTH32F_STENCIL8
+: 
+36013
+DEPTH_ATTACHMENT
+: 
+36096
+DEPTH_BITS
+: 
+3414
+DEPTH_BUFFER_BIT
+: 
+256
+DEPTH_CLEAR_VALUE
+: 
+2931
+DEPTH_COMPONENT
+: 
+6402
+DEPTH_COMPONENT16
+: 
+33189
+DEPTH_COMPONENT24
+: 
+33190
+DEPTH_COMPONENT32F
+: 
+36012
+DEPTH_FUNC
+: 
+2932
+DEPTH_RANGE
+: 
+2928
+DEPTH_STENCIL
+: 
+34041
+DEPTH_STENCIL_ATTACHMENT
+: 
+33306
+DEPTH_TEST
+: 
+2929
+DEPTH_WRITEMASK
+: 
+2930
+DITHER
+: 
+3024
+DONT_CARE
+: 
+4352
+DRAW_BUFFER0
+: 
+34853
+DRAW_BUFFER1
+: 
+34854
+DRAW_BUFFER2
+: 
+34855
+DRAW_BUFFER3
+: 
+34856
+DRAW_BUFFER4
+: 
+34857
+DRAW_BUFFER5
+: 
+34858
+DRAW_BUFFER6
+: 
+34859
+DRAW_BUFFER7
+: 
+34860
+DRAW_BUFFER8
+: 
+34861
+DRAW_BUFFER9
+: 
+34862
+DRAW_BUFFER10
+: 
+34863
+DRAW_BUFFER11
+: 
+34864
+DRAW_BUFFER12
+: 
+34865
+DRAW_BUFFER13
+: 
+34866
+DRAW_BUFFER14
+: 
+34867
+DRAW_BUFFER15
+: 
+34868
+DRAW_FRAMEBUFFER
+: 
+36009
+DRAW_FRAMEBUFFER_BINDING
+: 
+36006
+DST_ALPHA
+: 
+772
+DST_COLOR
+: 
+774
+DYNAMIC_COPY
+: 
+35050
+DYNAMIC_DRAW
+: 
+35048
+DYNAMIC_READ
+: 
+35049
+ELEMENT_ARRAY_BUFFER
+: 
+34963
+ELEMENT_ARRAY_BUFFER_BINDING
+: 
+34965
+EQUAL
+: 
+514
+FASTEST
+: 
+4353
+FLOAT
+: 
+5126
+FLOAT_32_UNSIGNED_INT_24_8_REV
+: 
+36269
+FLOAT_MAT2
+: 
+35674
+FLOAT_MAT2x3
+: 
+35685
+FLOAT_MAT2x4
+: 
+35686
+FLOAT_MAT3
+: 
+35675
+FLOAT_MAT3x2
+: 
+35687
+FLOAT_MAT3x4
+: 
+35688
+FLOAT_MAT4
+: 
+35676
+FLOAT_MAT4x2
+: 
+35689
+FLOAT_MAT4x3
+: 
+35690
+FLOAT_VEC2
+: 
+35664
+FLOAT_VEC3
+: 
+35665
+FLOAT_VEC4
+: 
+35666
+FRAGMENT_SHADER
+: 
+35632
+FRAGMENT_SHADER_DERIVATIVE_HINT
+: 
+35723
+FRAMEBUFFER
+: 
+36160
+FRAMEBUFFER_ATTACHMENT_ALPHA_SIZE
+: 
+33301
+FRAMEBUFFER_ATTACHMENT_BLUE_SIZE
+: 
+33300
+FRAMEBUFFER_ATTACHMENT_COLOR_ENCODING
+: 
+33296
+FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE
+: 
+33297
+FRAMEBUFFER_ATTACHMENT_DEPTH_SIZE
+: 
+33302
+FRAMEBUFFER_ATTACHMENT_GREEN_SIZE
+: 
+33299
+FRAMEBUFFER_ATTACHMENT_OBJECT_NAME
+: 
+36049
+FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE
+: 
+36048
+FRAMEBUFFER_ATTACHMENT_RED_SIZE
+: 
+33298
+FRAMEBUFFER_ATTACHMENT_STENCIL_SIZE
+: 
+33303
+FRAMEBUFFER_ATTACHMENT_TEXTURE_CUBE_MAP_FACE
+: 
+36051
+FRAMEBUFFER_ATTACHMENT_TEXTURE_LAYER
+: 
+36052
+FRAMEBUFFER_ATTACHMENT_TEXTURE_LEVEL
+: 
+36050
+FRAMEBUFFER_BINDING
+: 
+36006
+FRAMEBUFFER_COMPLETE
+: 
+36053
+FRAMEBUFFER_DEFAULT
+: 
+33304
+FRAMEBUFFER_INCOMPLETE_ATTACHMENT
+: 
+36054
+FRAMEBUFFER_INCOMPLETE_DIMENSIONS
+: 
+36057
+FRAMEBUFFER_INCOMPLETE_MISSING_ATTACHMENT
+: 
+36055
+FRAMEBUFFER_INCOMPLETE_MULTISAMPLE
+: 
+36182
+FRAMEBUFFER_UNSUPPORTED
+: 
+36061
+FRONT
+: 
+1028
+FRONT_AND_BACK
+: 
+1032
+FRONT_FACE
+: 
+2886
+FUNC_ADD
+: 
+32774
+FUNC_REVERSE_SUBTRACT
+: 
+32779
+FUNC_SUBTRACT
+: 
+32778
+GENERATE_MIPMAP_HINT
+: 
+33170
+GEQUAL
+: 
+518
+GREATER
+: 
+516
+GREEN_BITS
+: 
+3411
+HALF_FLOAT
+: 
+5131
+HIGH_FLOAT
+: 
+36338
+HIGH_INT
+: 
+36341
+IMPLEMENTATION_COLOR_READ_FORMAT
+: 
+35739
+IMPLEMENTATION_COLOR_READ_TYPE
+: 
+35738
+INCR
+: 
+7682
+INCR_WRAP
+: 
+34055
+INT
+: 
+5124
+INTERLEAVED_ATTRIBS
+: 
+35980
+INT_2_10_10_10_REV
+: 
+36255
+INT_SAMPLER_2D
+: 
+36298
+INT_SAMPLER_2D_ARRAY
+: 
+36303
+INT_SAMPLER_3D
+: 
+36299
+INT_SAMPLER_CUBE
+: 
+36300
+INT_VEC2
+: 
+35667
+INT_VEC3
+: 
+35668
+INT_VEC4
+: 
+35669
+INVALID_ENUM
+: 
+1280
+INVALID_FRAMEBUFFER_OPERATION
+: 
+1286
+INVALID_INDEX
+: 
+4294967295
+INVALID_OPERATION
+: 
+1282
+INVALID_VALUE
+: 
+1281
+INVERT
+: 
+5386
+KEEP
+: 
+7680
+LEQUAL
+: 
+515
+LESS
+: 
+513
+LINEAR
+: 
+9729
+LINEAR_MIPMAP_LINEAR
+: 
+9987
+LINEAR_MIPMAP_NEAREST
+: 
+9985
+LINES
+: 
+1
+(...)
+attributes
+: 
+alpha
+: 
+true
+antialias
+: 
+true
+depth
+: 
+true
+enableExtensionsByDefault
+: 
+1
+explicitSwapControl
+: 
+0
+failIfMajorPerformanceCaveat
+: 
+false
+majorVersion
+: 
+2
+minorVersion
+: 
+0
+powerPreference
+: 
+"default"
+premultipliedAlpha
+: 
+true
+preserveDrawingBuffer
+: 
+false
+proxyContextToMainThread
+: 
+0
+renderViaOffscreenBackBuffer
+: 
+0
+stencil
+: 
+false
+[[Prototype]]
+: 
+Object
+handle
+: 
+7302488
+initExtensionsDone
+: 
+true
+version
+: 
+2
+[[Prototype]]
+: 
+Object
+accessKey
+: 
+""
+ariaAtomic
+: 
+null
+ariaAutoComplete
+: 
+null
+ariaBusy
+: 
+null
+ariaChecked
+: 
+null
+ariaColCount
+: 
+null
+ariaColIndex
+: 
+null
+ariaColSpan
+: 
+null
+ariaCurrent
+: 
+null
+ariaDescription
+: 
+null
+ariaDisabled
+: 
+null
+ariaExpanded
+: 
+null
+ariaHasPopup
+: 
+null
+ariaHidden
+: 
+null
+ariaInvalid
+: 
+null
+ariaKeyShortcuts
+: 
+null
+ariaLabel
+: 
+"Use “Open in PDF viewer” in the “More options” menu to open this file with screenreader support"
+ariaLevel
+: 
+null
+ariaLive
+: 
+null
+ariaModal
+: 
+null
+ariaMultiLine
+: 
+null
+ariaMultiSelectable
+: 
+null
+ariaOrientation
+: 
+null
+ariaPlaceholder
+: 
+null
+ariaPosInSet
+: 
+null
+ariaPressed
+: 
+null
+ariaReadOnly
+: 
+null
+ariaRelevant
+: 
+null
+ariaRequired
+: 
+null
+ariaRoleDescription
+: 
+null
+ariaRowCount
+: 
+null
+ariaRowIndex
+: 
+null
+ariaRowSpan
+: 
+null
+ariaSelected
+: 
+null
+ariaSetSize
+: 
+null
+ariaSort
+: 
+null
+ariaValueMax
+: 
+null
+ariaValueMin
+: 
+null
+ariaValueNow
+: 
+null
+ariaValueText
+: 
+null
+assignedSlot
+: 
+null
+attributeStyleMap
+: 
+StylePropertyMap {size: 4}
+attributes
+: 
+NamedNodeMap {0: class, 1: tabindex, 2: width, 3: height, 4: style, 5: aria-label, class: class, tabindex: tabindex, width: width, height: height, style: style, …}
+autocapitalize
+: 
+""
+autofocus
+: 
+false
+baseURI
+: 
+"chrome-untrusted://media-app/app.html"
+childElementCount
+: 
+0
+childNodes
+: 
+NodeList []
+children
+: 
+HTMLCollection []
+classList
+: 
+DOMTokenList ['ink-engine', value: 'ink-engine']
+className
+: 
+"ink-engine"
+clientHeight
+: 
+848
+clientLeft
+: 
+0
+clientTop
+: 
+0
+clientWidth
+: 
+1101
+contentEditable
+: 
+"inherit"
+dataset
+: 
+DOMStringMap {}
+dir
+: 
+""
+draggable
+: 
+false
+elementTiming
+: 
+""
+enterKeyHint
+: 
+""
+firstChild
+: 
+null
+firstElementChild
+: 
+null
+height
+: 
+636
+hidden
+: 
+false
+id
+: 
+""
+inert
+: 
+false
+innerHTML
+: 
+""
+innerText
+: 
+""
+inputMode
+: 
+""
+isConnected
+: 
+true
+isContentEditable
+: 
+false
+lang
+: 
+""
+lastChild
+: 
+null
+lastElementChild
+: 
+null
+localName
+: 
+"canvas"
+namespaceURI
+: 
+"http://www.w3.org/1999/xhtml"
+nextElementSibling
+: 
+div.post-canvas-tab-target
+nextSibling
+: 
+div.post-canvas-tab-target
+nodeName
+: 
+"CANVAS"
+nodeType
+: 
+1
+nodeValue
+: 
+null
+nonce
+: 
+""
+offsetHeight
+: 
+848
+offsetLeft
+: 
+0
+offsetParent
+: 
+div.ink-emscripten-engine
+offsetTop
+: 
+0
+offsetWidth
+: 
+1101
+onabort
+: 
+null
+onanimationend
+: 
+null
+onanimationiteration
+: 
+null
+onanimationstart
+: 
+null
+onauxclick
+: 
+null
+onbeforecopy
+: 
+null
+onbeforecut
+: 
+null
+onbeforeinput
+: 
+null
+onbeforematch
+: 
+null
+onbeforepaste
+: 
+null
+onbeforexrselect
+: 
+null
+onblur
+: 
+null
+oncancel
+: 
+null
+oncanplay
+: 
+null
+oncanplaythrough
+: 
+null
+onchange
+: 
+null
+onclick
+: 
+null
+onclose
+: 
+null
+oncontextlost
+: 
+null
+oncontextmenu
+: 
+null
+oncontextrestored
+: 
+null
+oncopy
+: 
+null
+oncuechange
+: 
+null
+oncut
+: 
+null
+ondblclick
+: 
+null
+ondrag
+: 
+null
+ondragend
+: 
+null
+ondragenter
+: 
+null
+ondragleave
+: 
+null
+ondragover
+: 
+null
+ondragstart
+: 
+null
+ondrop
+: 
+null
+ondurationchange
+: 
+null
+onemptied
+: 
+null
+onended
+: 
+null
+onerror
+: 
+null
+onfocus
+: 
+null
+onformdata
+: 
+null
+onfullscreenchange
+: 
+null
+onfullscreenerror
+: 
+null
+ongotpointercapture
+: 
+null
+oninput
+: 
+null
+oninvalid
+: 
+null
+onkeydown
+: 
+null
+onkeypress
+: 
+null
+onkeyup
+: 
+null
+onload
+: 
+null
+onloadeddata
+: 
+null
+onloadedmetadata
+: 
+null
+onloadstart
+: 
+null
+onlostpointercapture
+: 
+null
+onmousedown
+: 
+null
+onmouseenter
+: 
+null
+onmouseleave
+: 
+null
+onmousemove
+: 
+null
+onmouseout
+: 
+null
+onmouseover
+: 
+null
+onmouseup
+: 
+null
+onmousewheel
+: 
+null
+onpaste
+: 
+null
+onpause
+: 
+null
+onplay
+: 
+null
+onplaying
+: 
+null
+onpointercancel
+: 
+null
+onpointerdown
+: 
+null
+onpointerenter
+: 
+null
+onpointerleave
+: 
+null
+onpointermove
+: 
+null
+onpointerout
+: 
+null
+onpointerover
+: 
+null
+onpointerrawupdate
+: 
+null
+onpointerup
+: 
+null
+onprogress
+: 
+null
+onratechange
+: 
+null
+onreset
+: 
+null
+onresize
+: 
+null
+onscroll
+: 
+null
+onsearch
+: 
+null
+onsecuritypolicyviolation
+: 
+null
+onseeked
+: 
+null
+onseeking
+: 
+null
+onselect
+: 
+null
+onselectionchange
+: 
+null
+onselectstart
+: 
+null
+onslotchange
+: 
+null
+onstalled
+: 
+null
+onsubmit
+: 
+null
+onsuspend
+: 
+null
+ontimeupdate
+: 
+null
+ontoggle
+: 
+null
+ontransitioncancel
+: 
+null
+ontransitionend
+: 
+null
+ontransitionrun
+: 
+null
+ontransitionstart
+: 
+null
+onvolumechange
+: 
+null
+onwaiting
+: 
+null
+onwebkitanimationend
+: 
+null
+onwebkitanimationiteration
+: 
+null
+onwebkitanimationstart
+: 
+null
+onwebkitfullscreenchange
+: 
+null
+onwebkitfullscreenerror
+: 
+null
+onwebkittransitionend
+: 
+null
+onwheel
+: 
+null
+outerHTML
+: 
+"<canvas class=\"ink-engine\" tabindex=\"0\" width=\"826\" height=\"636\" style=\"width: 1101.33px; height: 848px; left: 0px; top: 0px;\" aria-label=\"Use “Open in PDF viewer” in the “More options” menu to open this file with screenreader support\"></canvas>"
+outerText
+: 
+""
+ownerDocument
+: 
+document
+parentElement
+: 
+div.ink-emscripten-engine
+parentNode
+: 
+div.ink-emscripten-engine
+part
+: 
+DOMTokenList [value: '']
+prefix
+: 
+null
+previousElementSibling
+: 
+style
+previousSibling
+: 
+style
+role
+: 
+null
+scrollHeight
+: 
+848
+scrollLeft
+: 
+0
+scrollTop
+: 
+0
+scrollWidth
+: 
+1101
+shadowRoot
+: 
+null
+slot
+: 
+""
+spellcheck
+: 
+true
+style
+: 
+CSSStyleDeclaration {0: 'width', 1: 'height', 2: 'left', 3: 'top', accentColor: '', additiveSymbols: '', alignContent: '', alignItems: '', alignSelf: '', …}
+tabIndex
+: 
+0
+tagName
+: 
+"CANVAS"
+textContent
+: 
+""
+title
+: 
+""
+translate
+: 
+true
+virtualKeyboardPolicy
+: 
+""
+width
+: 
+826
+
+On Sat, Oct 15, 2022 at 12:32 AM ZACHRY WOOD <zachryiixixiiwood@gmail.com> wrote:
+**From 8b87b6af796ab6f69aaef0a8dc7543cd19cc2bd7 Mon Sep 17 00:00:00 2001 From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com Date: Wed, 7 Sep 2022 05:48:53 -0500 Subject: [PATCH 1/4] Update README.md
+
+README.md | 57 +++++++++++++++++++------------------------------------ 1 file changed, 20 insertions(+), 37 deletions(-)
+
+diff --git a/README.md b/README.md index 95c30ba..407c65c 100644 --- a/README.md +++ b/README.md @@ -1,40 +1,23 @@ -'"#''#'':'':'':' :BEGINS ::''
+-'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian-
+-::Run :On :-ostats :-On :-on :Run :RUns :run::
+-:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : -::
+-:GLOW7 :
+-:Build :: :
+-:-starts
+-:AUTOMATE
+-::ALL ::
+-:'#''#'::
+-:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE
+-:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:
+--starts :Run ::
+-# my.sig'@#1 :
+-# BITORE :
+-# bitore.sig :
+-# Bitore.sigs :
+-# Runs :Return :'Run :'' ::Runs :'"'' +'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED '' +'REPOSITORYIES"@ZACHRYTYLERWOODADMINISTRATOR'@'.IT'.GIT'.GIST'.GITHUB'.COM'@.github.gists'@.Github.com/gists/secrets/BITORE/((c)(r))/BITORE_34173/'' ':RUNS'' :'' '::'' +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian'-'' +'::Run :On :-ostats :-On :-on :Run :RUns'' ':run:'' ':'' +':Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/WindosXP89_98/Intel82_86/Mozilla/5.0/'-latest''' :'' +':GLOW7'' ':'' +':Build'':'':'' ':'' +':-starts':'' +':AUTOMATE'' ':'' +'::ALL :: +':'#''#':: +':## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE'' +':ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:'' +'-starts :Run :: +'# my.sig'@'#1'/my'.sigs/bitore.'sig'/BITCORE'' ':'"'' +'# ''BITORE : +'#'' 'bitore.sig : +'#'' 'Bitore.sigs : +'#'' 'Runs'' ':'' +':Return'' ':'' '"Runs":',':'' 'Run'' ':'':'Runs'-on':' Run'' '"':'':'"''
+
+From 3b07024434b7edf008a33e86381227a0863c23a7 Mon Sep 17 00:00:00 2001 From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com Date: Wed, 7 Sep 2022 05:59:53 -0500 Subject: [PATCH 2/4] Update README.md
+
+README.md | 81 ++++++++++++++++++++++++++++++++++++++++++++++++++++--- 1 file changed, 77 insertions(+), 4 deletions(-)
+
+diff --git a/README.md b/README.md index 407c65c..81a751b 100644 --- a/README.md +++ b/README.md @@ -1,23 +1,96 @@ -'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED '' -'REPOSITORYIES"@ZACHRYTYLERWOODADMINISTRATOR'@'.IT'.GIT'.GIST'.GITHUB'.COM'@.github.gists'@.Github.com/gists/secrets/BITORE/((c)(r))/BITORE_34173/'' ':RUNS'' :'' '::'' +'"':'':Runs'':'-'On'':'':''-on'':'"'' +'"'#''!''/''usr''/''bin''/''bash''/''Usrs''/''bin''/''BASH'' +'"'"#''#'':'':'':' :BEGINS ::'' + +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian- + +::Run :On :-ostats :-On :-on :Run :RUns :run:: + +:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : +:: + +:GLOW7 : + +:Build :: : + + +:-starts + +:AUTOMATE + +::ALL :: + +:'#''#':: + +:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE + +:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigslog :logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts: + +-starts :Run :: + +# my.sig'@#1 : + +# BITORE : + +# bitore.sig : + +# Bitore.sigs : + +# Runs :Return :'Run :'' ::Runs :'"'''"'' '''':'''':'''':'' + + +''''':'' '"'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED '' + +'"REPOSITORYIES'@Z'A'C'H'R'Y'T'Y'L'E'R''W'O'O'D'A'D'M'I'N'I'S'T'R'A'TO'R'@'.I'T'.'G'I'T'.'G'I'S'T'.'G'I'T'H'U'B''.'C'O'M'@'.github'.gists'@.'Git'Hub'.com'/'' +'gist'/secrets'/BITORE'/'('(c')'.'(r')'')'/BITORE'_34173'.1337'/'/NPRT'' + +'"'/'/POST''' + +':RUNS'' :'' '::'' + '#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian'-'' + '::Run :On :-ostats :-On :-on :Run :RUns'' ':run:'' ':'' + ':Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/WindosXP89_98/Intel82_86/Mozilla/5.0/'-latest''' :'' + ':GLOW7'' ':'' + ':Build'':'':'' ':'' + ':-starts':'' + ':AUTOMATE'' ':'' + '::ALL :: + ':'#''#':: -':## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE'' + +':'':''#''#'':'':'"'' ':'':''#'':''Gideon.sigs/bitore.sig/BITCORE'"'' + +'"src'.dist/'.dir'/'.dist'@sun.java.org'@'containers.io'@mojoejoejoejoe/moejoejoejoe/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog + +:AUTOMATE'' + ':ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigslog :logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:'' + '-starts :Run :: + '# my.sig'@'#1'/my'.sigs/bitore.'sig'/BITCORE'' ':'"'' + '# ''BITORE : + '#'' 'bitore.sig : + '#'' 'Bitore.sigs : + '#'' 'Runs'' ':'' -':Return'' ':'' '"Runs":',':'' 'Run'' ':'':'Runs'-on':' Run'' '"':'':'"'' + +':Return'' ':'' '"Runs":',':'' 'Run'' ':'':'Runs'-on':' Run'' '"':'':'"''''''':'':BEGIN'':'':'"'' + +'BEGIN'' + +'GLOW7':'' '"'.'Txt'.'Docx'"''''
+
+From 3cb1fc96b8f82a753b762eb191910aa65a810a3a Mon Sep 17 00:00:00 2001 From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com Date: Wed, 7 Sep 2022 06:00:30 -0500 Subject: [PATCH 3/4] Update README.md
+
+README.md | 37 +++++++++++++++++++++++++++++++++++++ 1 file changed, 37 insertions(+)
+
+diff --git a/README.md b/README.md index 81a751b..980d663 100644 --- a/README.md +++ b/README.md @@ -1,3 +1,40 @@ +'"#''#'':'':'':' :BEGINS ::'' + +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian- + +::Run :On :-ostats :-On :-on :Run :RUns :run:: + +:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : +:: + +:GLOW7 : + +:Build :: : + + +:-starts + +:AUTOMATE + +::ALL :: + +:'#''#':: + +:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE + +:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts: + +-starts :Run :: + +# my.sig'@#1 : + +# BITORE : + +# bitore.sig : + +# Bitore.sigs : + +# Runs :Return :'Run :'' ::Runs :'"'' '"':'':Runs'':'-'On'':'':''-on'':'"'' '"'#''!''/''usr''/''bin''/''bash''/''Usrs''/''bin''/''BASH'' '"'"#''#'':'':'':' :BEGINS ::''
+
+From 0c86eb3f2b7f90544a7481516d64685a249585c3 Mon Sep 17 00:00:00 2001 From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com Date: Wed, 7 Sep 2022 06:10:03 -0500 Subject: [PATCH 4/4] BITCORE (#2)
+
+Bitore.sigs | 23 +++++++++ README.md | 133 ---------------------------------------------------- 2 files changed, 23 insertions(+), 133 deletions(-) create mode 100644 Bitore.sigs delete mode 100644 README.md
+
+diff --git a/Bitore.sigs b/Bitore.sigs new file mode 100644 index 0000000..407c65c --- /dev/null +++ b/Bitore.sigs @@ -0,0 +1,23 @@ +'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED '' +'REPOSITORYIES"@ZACHRYTYLERWOODADMINISTRATOR'@'.IT'.GIT'.GIST'.GITHUB'.COM'@.github.gists'@.Github.com/gists/secrets/BITORE/((c)(r))/BITORE_34173/'' ':RUNS'' :'' '::'' +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian'-'' +'::Run :On :-ostats :-On :-on :Run :RUns'' ':run:'' ':'' +':Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/WindosXP89_98/Intel82_86/Mozilla/5.0/'-latest''' :'' +':GLOW7'' ':'' +':Build'':'':'' ':'' +':-starts':'' +':AUTOMATE'' ':'' +'::ALL :: +':'#''#':: +':## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE'' +':ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:'' +'-starts :Run :: +'# my.sig'@'#1'/my'.sigs/bitore.'sig'/BITCORE'' ':'"'' +'# ''BITORE : +'#'' 'bitore.sig : +'#'' 'Bitore.sigs : +'#'' 'Runs'' ':'' +':Return'' ':'' '"Runs":',':'' 'Run'' ':'':'Runs'-on':' Run'' '"':'':'"'' + + + diff --git a/README.md b/README.md deleted file mode 100644 index 980d663..0000000 --- a/README.md +++ /dev/null @@ -1,133 +0,0 @@ -'"#''#'':'':'':' :BEGINS ::''
+-'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian-
+-::Run :On :-ostats :-On :-on :Run :RUns :run::
+-:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : -::
+-:GLOW7 :
+-:Build :: :
+-:-starts
+-:AUTOMATE
+-::ALL ::
+-:'#''#'::
+-:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE
+-:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:
+--starts :Run ::
+-# my.sig'@#1 :
+-# BITORE :
+-# bitore.sig :
+-# Bitore.sigs :
+-# Runs :Return :'Run :'' ::Runs :'"'' -'"':'':Runs'':'-'On'':'':''-on'':'"'' -'"'#''!''/''usr''/''bin''/''bash''/''Usrs''/''bin''/''BASH'' -'"'"#''#'':'':'':' :BEGINS ::''
+-'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian-
+-::Run :On :-ostats :-On :-on :Run :RUns :run::
+-:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : -::
+-:GLOW7 :
+-:Build :: :
+-:-starts
+-:AUTOMATE
+-::ALL ::
+-:'#''#'::
+-:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE
+-:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:
+--starts :Run ::
+-# my.sig'@#1 :
+-# BITORE :
+-# bitore.sig :
+-# Bitore.sigs :
+-# Runs :Return :'Run :'' ::Runs :'"'''"'' '''':'''':'''':''
+-''''':'' '"'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED ''
+-'"REPOSITORYIES'@Z'A'C'H'R'Y'T'Y'L'E'R''W'O'O'D'A'D'M'I'N'I'S'T'R'A'TO'R'@'.I'T'.'G'I'T'.'G'I'S'T'.'G'I'T'H'U'B''.'C'O'M'@'.github'.gists'@.'Git'Hub'.com'/'' -'gist'/secrets'/BITORE'/'('(c')'.'(r')'')'/BITORE'_34173'.1337'/'/NPRT''
+-'"'/'/POST'''
+-':RUNS'' :'' '::''
+-'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian'-''
+-'::Run :On :-ostats :-On :-on :Run :RUns'' ':run:'' ':''
+-':Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/WindosXP89_98/Intel82_86/Mozilla/5.0/'-latest''' :''
+-':GLOW7'' ':''
+-':Build'':'':'' ':''
+-':-starts':''
+-':AUTOMATE'' ':''
+-'::ALL ::
+-':'#''#'::
+-':'':''#''#'':'':'"'' ':'':''#'':''Gideon.sigs/bitore.sig/BITCORE'"''
+-'"src'.dist/'.dir'/'.dist'@sun.java.org'@'containers.io'@mojoejoejoejoe/moejoejoejoe/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog
+-:AUTOMATE''
+-':ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:''
+-'-starts :Run ::
+-'# my.sig'@'#1'/my'.sigs/bitore.'sig'/BITCORE'' ':'"''
+-'# ''BITORE :
+Gmail	ZACHRY WOOD <zachryiixixiiwood@gmail.com>
+Please update your Mobile Phone Number
+ZACHRY WOOD <zachryiixixiiwood@gmail.com>	Sat, Oct 15, 2022 at 11:37 AM
+To: PNC Alerts <pncalerts@pnc.com>
+USD in "000'"s +Repayments for Long Term Debt 182527 161857 +Costs and expenses: +Cost of revenues 84732 71896 +Research and development 27573 26018 +Sales and marketing 17946 18464 +General and administrative 11052 09551 +European Commission fines 00000 01697 +Total costs and expenses 141303 127626 +Income from operations 41224 34231 +Other income (expense), net 6858000000 05394 +Income before income taxes 22677000000 19289000000 +Provision for income taxes 22677000000 19289000000 +Net income 22677000000 19289000000 +*include interest paid, capital obligation, and underweighting + + + + + + + + + + + + +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) +*include interest paid, capital obligation, and underweighting + +Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) + +
+
+					Ssn					
++United States Department of the Treasury +General Counsel +(Administrative & Law) +1500 Pennsylvania Avenue +Washington, D.C. 20220-1219 Paid Period 2019-09-28 - 2021-09-29 +Room.#1402 - Paid Date 2022-04-18
+
+								Pay Date	2022-04-18	
++main. +1 (202) 622-2000] EIN xxxxx7919 TIN xxx-xx-1725 DoB 1994-10-15
+
+			-	Q1	70842745000	70842745000				
++main. +1 (202) 622-2000] Gross Q2 70842745000 70842745000 Rate 00000 00000
+
+			70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	00000	08854	
+			Taxes / Deductions		Stub Number: 1		FICA - Medicare	00000	00000	
+			00000	Rate			Employer Taxes			
+			Net Pay				FUTA	00000	00000	
+			70842745000				SUTA	00000	00000	
+					This period	YTD	Taxes / Deductions	Current	YTD	
+				Pay Schedulec	70842745000	70842745000	Federal Withholding	00000	00000	
+				Annually	70842745000	70842745000	Federal Withholding	00000	00000	
+				Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+				Q3	70842745000	70842745000	Federal Withholding	00000	00000	
+				Q4	70842745000	70842745000	Federal Withholding	00000	00000	
+				CHECK NO.			FICA - Social Security	00000	08854	
+-				20210418			FICA - Medicare	00000	00000	
+-										
+			-							
+			-							
++INTERNAL REVENUE SERVICE, +PO BOX 1214, +CHARLOTTE, NC 28201-1214 + +ZACHRY WOOD +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000 41159000000 46075000000 40499000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000 7977000000 9266000000 9177000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 00000 00000 00000 +Reported Normalized Income 6836000000 +Reported Normalized Operating Profit 7977000000 +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 00010 00010 00015 00010 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Reported Normalized Diluted EPS 00010 +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. + + + + + + +important information + + + + + + + +Description + +Restated Certificate of Incorporation of PayPal Holdings, Inc. +(incorporated by reference to Exhibit 3.01 to PayPal Holdings, Inc.'s +Quarterly Report on Form 10-Q, as filed with the Commission on +July 27, 2017). + +Amended and Restated Bylaws of PayPal Holdings, Inc. (incorporated +by reference to Exhibit 3.1 to PayPal Holdings, Inc.'s Current Report +on Form 8-K, as filed with the Commission on January 18, 2019). + +Opinion of Faegre Drinker Biddle & Reath LLP. + +Consent of PricewaterhouseCoopers LLP, Independent Registered Public +Accounting Firm. + +Consent of Faegre Drinker Biddle & Reath LLP (included in +Exhibit 5.1 to this Registration Statement). + +Power of Attorney (included on the signature page of this +Registration Statement). + +All of Us Financial Inc. 2021 Equity Incentive Plan. + +Filing Fee Table. + + + + + + + +Business Checking +For 24-hour account information, sign on to +pnc.com/mybusiness/ +Business Checking Account number: 47-2041-6547 - continued +Activity Detail +Deposits and Other Additions +ACH Additions +Date posted Amount Transaction description For the period 04/13/2022 to 04/29/2022 +ZACHRY TYLER WOOD +Primary account number: 47-2041-6547 Page 2 of 3 +44678 00063 Reverse Corporate ACH Debit +Effective 04-26-22 Reference number +Checks and Other Deductions 22116905560149 +Deductions Reference number +Date posted Amount Transaction description 22116905560149 +44677 00063 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number +Service Charges and Fees 22116905560149 +Date posted Amount Transaction description on your next statement as a single line item entitled Service +Waived - New Customer Period +4/27/2022 00036 Returned Item Fee (nsf) +Detail of Services Used During Current Period +Note: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement a Charge Period Ending 04/29/2022, +Description Volume Amount +Account Maintenance Charge 70846743866 00000 +Total For Services Used This Peiiod 00000 00000 +Total Service (harge 00
+
+00000 +Reviewing Your Statement ('PNCBANK +Please review this statement carefully and reconcile it with your records. Call the telephone number on the upper right side of the first page of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; +• you have any questions regarding interest paid to an interest-bearing account. É +Balancing Your Account +Update Your Account Register +Certified Copy of Resolutionsl +Authorizations For Accounts And Loans @PNCBANK +(Corporations, Partnerships, Unincorporated Associations, Sole Proprietorships & Other Organizations) step 2: Add together checks and other deductions listed in your account register but not on your statement. +PNC Bank, National Association ("Bank") Taxpayer I.D. Number (TIN) C'eck +Deduction Descretio• Anount +account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law. D pNCBANK +In addition but not by way of limitation, the Bank may take checks, drafts or other items payable to "cash", the Bank or the Customer, and pay the sums represented by such Items in cash to any person presenting such items or credit such Items to the account or obligations of any person presenting such items or any other person or entity as directed by any such person. +Products and Services. Resolved that any of the persons listed in Section 3 above are authorized to enter into contracts and agreements, written or verbal, for any products or services now or in the future offered by the Bank, including but not limited to (i) cash management services, (ii) purchases or sales of foreign exchange, securities or other financial products, (iii) computer/internet-based products and services, (iv) wire transfer of funds from or to the accounts of the Customer at the Bank, and (v) ACH transactions, and the Bank may charge any accounts of the Customer at the Bank for such products or services. +00005 Taxpayer I.D. Number (TIN) +OWNER ("Customer") 633-44-1725 +are hereby authorized (i) to effect loans, advances and renewals at any time for the Customer from the Bank; (ii) to sign and deliver any notes (with or without warrant of attorney to confess judgment) and evidences of indebtedness of the Customer; (iii) to request the Bank to issue letters of credit and to sign and deliver to the bank any agreements on behalf of the Customer to reimburse the Bank for all payments made and expenses incurred by it under such letters of credit and drafts drawn pursuant thereto; (iv) to sign and deliver any instruments or documents on behalf of the Customer guaranteeing, endorsing or securing the payment of any debts or obligations of any person, form or corporation to the Bank; (v) to pledge, assign, transfer, mortgage, grant a security interest in or otherwise hypothecate to the Bank any stock, securities, commercial paper, warehouse receipts and other documents of title, bills, accounts receivable, contract rights, inventory, equipment, real property, and any other investments or property of the Customer, real or personal, tangible or intangible as security for the payment of any and all loans, advances, indebtedness and other liabilities of the Customer to the Bank of every kind and description, direct or indirect, absolute and contingent, joint or several, whether as drawer, maker, endorsee, guarantor, surety or otherwise, and to execute on behalf of the Customer mortgages, pledges, security agreements, financing statements and other instruments or documents in connection therewith; and (vi) to sell or discount with the Bank any commercial paper, bills and other instruments and evidence of indebtedness, warehouse receipts and other documents of title, accounts, accounts receivable, contract rights, and other assets, tangible and intangible, at any time held by the Customer and for such purpose to endorse, assign, transfer and deliver the same to the Bank. +Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET +Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr +R +•d +Ming +or serVlCö n lent services, (ii) purchases or sales of foreig xlll) computerfinternet-based products and services, (iv) wir he Customer at the Bank, and (v) ACH transactions, and the Ba the Bank for such products or services. +It. Resolved that any one of the following:Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testingprocedures as may be established between the Customer and the Bank from time to time. +General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer procedures as may be established between the Customer and the Bank from time to time. +General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer +without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the +/ Customer Copy, page 2 of 4 +without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the Withdrawals and Transfers. Resolved that the Bank is authorized to make payments from the account(s) of +Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner: Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner: +Column1 Column2 +Loans and Extensions of Credit. Resolved that any one of the following:
+
+			Date of this notice: 				44658			
+			Employer Identification Number: 88-1656496							
+			Form: 	SS-4						
++INTERNAL REVENUE SERVICE ZACHRY T WOOD Number of this notice: CP 575 A +CINCINNATI OH 45999-0023 ALPHABET For assistance you may call us at:
+
+5323 BRADFORD DR			1-800-829-4933							
+DALLAS, TX 75235										
+			IF YOU WRITE, ATTACH THE
++STUB AT THE BD OF THIS NOTICE.
+
+						We assigned you				
+This EIN will identify you, your business accounts, tax returns, and +WE ASSIGNED YOU AN EMPLOYER IDENTIFICATION NUMBER +Thank you for applying for an Employer Identification Number (EIN) . +EIN 88-1656496. If the information is + + + + + + +
+
+								Please		
+							6.35-			
++for the tax period(s) in question, please file the return (s) showing you have no liabilities . +If you have questions about at the the forms address or the shown due at dates the top shown, of you this can notice. call us If atyou the phone number or write to us Publication 538, +need help in determining your annual accounting period (tax year) , see Accounting Periods and Methods.
+
+			Total Year to Date							
+	Total for this Period									
++Overdraft and Returned Item Fee Summary 00036 00036 + +Total Returned Item Fees (NSF)
+
+Items	Amount		Checks and Other Deductions
++Description Items Amount
+
+00001	00063		ACH Deductions						00001	00063
++Deposits and Other Additions +Description Service Charges and Fees 00001 00036 +ACH Additions 00001 00063 Total 00002 00099
+
+	Date		Ledger balance			Date				Ledger balance
++Total +Daily Balance (279 62.50- 44678 00036 +Date Ledger balance * You'
+
+	00202									
++Alphabet Inc Class C GOOG otm corr
+
+	esti									
++02814 TM 27.8414.76% 63500 53.:
+
+	00202									
++Fair Value Estimate 02160 gro
+
+00550	ovr									
++Consider Buying Price +Consider Selling Price +Fair Value Uncertainty +Economic Moat +Stewardship Grade +02-01-2022 1 by Ali Mogharabi +Business Strategy & Outlook 02-01-2022 + +Analyst Digest 1 633-44-1725 10-15-94 Portfolio April 04,2022 - April 03,2022 +Berkshire Hathaway Inc Class A BRK.A +
+
+525000 +527760 $0.001 0.00% 367500 +Fair Value Estimate +Consider Buying Price $708,750.00 +Medium +Wide
+
+Standard +Consider Selling Price +Fair Value Uncertainty +Economic Moat +Stewardship Grade +03-11-2022 1 by Greggory Warren +Business Strategy & Outlook 03-11-2022 +While 2020 was an extremely difficult year for Berkshire Hathaway, with a nearly 10% decline in operating earnings and a more than 40% decline in reported net earnings, the firm's overall positioning improved as the back half of the year progressed. The firm saw an even more marked improvement in its insurance investment portfolio, as well as the operating results of its various subsidiaries, last year. As such, we expect 2022 and 2023 to be a return to more normalized levels of revenue growth and profitability (albeit with inflation impacting results in the first half of this year).We continue to view Berkshire's decentralized business model, broad business diversification, high cash-generation capabilities, and unmatched balance sheet strength as true differentiators. While these advantages have been overshadowed by an ever-expanding cash balance-ANhich is earning next to nothing in a near-zero interest-rate environment--we believe the company has finally hit a nexus where it is far more focused on reducing its cash hoard through stock and bond investments and share repurchases. During the past eight calendar quarters, the + + + +not correct as shown above, please make the correction using the attached tear-off stub and return it to us . +Based on the information received from you or your representative, you must file the following forms by the dates shown. We assigned you
+
+4/7/2022 +Form 940 4/7/2022 +Form 943 4/7/2022 If the information is +Form 1065 4/7/2022 +Form 720 4/7/2022 +Your Form 2290 becomes due the month after your vehicle is put into use . +Your Form 1 IC and/or 730 becomes due the month after your wagering starts . +After our review of your information, we have determined that you have not filed +tax returns for the above-mentioned tax period (s) dating as far back as 2007. Plea S +file your return(s) by 04/22/2022. If there is a balance due on the return (s) +penalties and interest will continue to accumulate from the due date of the return (s) +until it is filed and paid. If you were not in business or did not hire any employees +for the tax period(s) in question, please file the return (s) showing you have no liabilities . +If you have questions about the forms or the due dates shown, you can call us at PI +the phone number or write to us at the address shown at the top of this notice. If you +need help in determining your annual accounting period (tax year) , see Publication 538, Accounting Periods and Methods. + +Business Checking +PNCBANK @PNCBANK +For the period 04/13/2022 Primary account number: 47-2041-6547 Page 1 of 3 +146967 1022462 Q 304 Number of enclosures: 0 +ZACHRY TYLER WOOD ALPHABET +5323 BRADFORD DR +DALLAS TX 75235-8314 For 24-hour banking sign on to +PNC Bank Online Banking on pnc.com +FREE Online Bill Pay +For customer service call 1-877-BUS-BNKG +PNC accepts Telecommunications Relay Service (TRS) calls. 00009 +111111111011111000000000000000000000000000000000000000000000000 Para servicio en espalol, 1877.BUS-BNKC, +Moving? Please contact your local branch. +@ Write to: Customer Service PO Box 609 +Pittsburgh , PA 15230-9738 +Visit us at PNC.com/smaIIbusiness +IMPORTANT INFORMATION FOR BUSINESS DEPOSIT CUSTOMERS Date of this notice: +Effective February 18,2022, PNC will be temporarily waiving fees for statement, check image, deposit ticket and deposited item copy requests until further notice. Statement, check image, deposit ticket and deposited Item requests will continue to be displayed in the Details of Services Used section of your monthly statement. We will notify you via statement message prior to reinstating these fees. +If vou have any questions, you may reach out to your business banker branch or call us at 1-877-BUS-BNKG (1-877-287-2654). +Business Checking Summary +Account number; 47-2041-6547 +Overdraft Protection has not been established for this account. Please contact us if you would like to set up this service. Zachry Tyler Wood Alphabet Employer Identification Number: 88-1656496 +Balance Summary Checks and other deductions Ending balance Form: SS-4 +Beginning balance Deposits and other additions Number of this notice: +00000 = 98.50 Average ledger balance 36.00- +Average collected balance For assistance you may call ug at:
+
+			6.35-			6.35-		1-800-829-4933		
++Overdraft and Returned Item Fee Summary Total Year to Date
+
+Total for this Period										
++Total Returned Item Fees (NSF) 00036 00036 IF YOU WRITE, ATTATCHA TYE +STUB AT OYE END OF THIS NOTICE. +Deposits and Other Additions +Description Items Amount Checks and Other Deductions +Description Items Amount +ACH Additions 00001 00063 ACH Deductions 00001 00063
+
+			Service Charges and Fees			00001	00036			
++Total 00001 00063 Total 00002 00099 +Daily Balance Date Date Ledger balance +Date Ledger balance Ledger balance +4/13/2022 00000 44677 62.50- 44678 00036
+
+Form 940 44658 Berkshire Hatha,a,n.. +Business Checking For the period 04/13/2022 to 04/29/2022 44680 +For 24-hour account information, sign on to pnc.com/mybusiness/ ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 +Business Checking Account number: 47-2041-6547 - continued Page 2 of 3 +Acüvity Detail +Deposits and Other Additions did not hire any employee +ACH Additions Referenc numb +Date posted 04/27 Transaction +Amount description +62.50 Reverse Corporate ACH Debit +Effective 04-26-22 the due dates shown, you can call us at
+
+			22116905560149							
++Checks and Other Deductions +ACH Deductions Referenc +Date posted Transaction +Amount description
+
+			number							
++44677 70842743866 Corporate ACH Quickbooks 180041ntuit 1940868
+
+			22116905560149							
++ervice Charges and Fees Referenc +Date posted Transaction +Amount descripton +44678 22116905560149 numb +Detail of Services Used During Current Period 22116905560149
+
+::NOTE:: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement as a single line item entitled Service Charge Period Ending 04/29/2022. +e: The total charge for the following Penod Ending 04/29/2022. +Service Charge description Amount +Account Maintenance Charge 00063 +Total For Services Used This Period 00036 +Total Service Charge 00099 Waived - Waived - New Customer Period +Reviewing Your Statement +of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; you have any questions regarding interest paid to an interest-bearing account. PNCBANK +Balancing Your Account +Update Your Account Register Volume +Compare: The activity detail section of your statement to your account register. +Check Off: +Add to Your Account Register: Balance: +Subtract From Your Account Register Balance: All items in your account register that also appear on your statement. Remember to begin with the ending date of your last statement. (An asterisk { * } will appear in the Checks section if there is a gap in the listing of consecutive check numbers.) +Any deposits or additions including interest payments and ATM or electronic deposits listed on the statement that are not already entered in your register. +Any account deductions including fees and ATM or electronic deductions listed on the statement that are not already entered in your register. +Your Statement Information : step 2: Add together checks and other deductions listed in your account register but not on your statement.
+
+	Amount						Check
++Deduction Descrption Amount +Balancing Your Account +Update Your Account Register
+
+on deposit: 22934637118600.00USD +4720416547 +Reviewing Your Statement +of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; you have any questions regarding interest paid to an interest-bearing account. Total A=$22934637118600 + +Step 3: 22934637118600 + + +Enter the ending balance recorded on your statement +Add deposits and other additions not recorded Total A + $22934637118600 +
+
+		Subtotal=$22934637118600								
++Subtract checks and other deductions not recorded Total B $ 22934637118600 + +The result should equal your account register balance $ 22934637118600
+
+							Total B22934637118600			
++Verification of Direct Deposits + +To verify whether a direct deposit or other transfer to your account has occurred, call us Monday - Friday: 7 AM - 10 PM ET and Saturday & Sunday: 8 AM - 5 PM ET at the customer service number listed on the upper right side of the first page of this statement. +In Case of Errors or Questions About Your Electronic Transfers +Telephone us at the customer service number listed on the upper right side of the first page of this statement or write us at PNC Bank Debit Card Services, 500 First Avenue, 4th Floor, Mailstop P7-PFSC-04-M, Pittsburgh, PA 15219 as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the error or problem appeared. +Tell us your name and account number (if any). +Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information. +Tell us the dollar amount of the suspected error. +We will investigate your complaint and will correct any error promptly. If we take longer than 10 business days, we will provisionally credit your account for the amount you think is in error, so that you will have use of the money during the time it Cakes us to complete our investigation. +EquaLHousing Lender +Member FDIC + + + +Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +Export Custom Report as Excel File +Show 00000
+
+Excel report exports are in XLSX format. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. +1 Locate the report you want to export in the custom reports section of the Reports dashboard, and click an Excel export link. To export the report without first viewing the data, click the “Export XLS” link under the Action button menu. To view the report prior to exporting, click on its linked Report Name, then click the “xls” link in the Export line directly above the report Snapshot. NOTE: You can filter the report by Date Range or Payment Method prior to exporting it; the export will include only those transactions included by the filters. +2 Depending on your browser, you will have the option to open and/or save the file.
+
+a To open the file, click the “Open” button in the dialog box. The file will open in Excel, but will not be saved. You will need to save the file in Excel if you want to store it on your computer. b To save the file to your computer. i Click the “Save” button in the dialog box. ii A Save As dialog box opens. NOTE: In Google Chrome, and some other browsers, clicking the “xls” link will take you directly to this step. iii Enter a name for your file, and select a location on your computer where you want to save the file. iv Click the “Save” button. v You can now open the report directly from your computer at any time, without being logged into ADP Payments. +Next › Reciepient's Social Security Number & TIN :633-44-1725 +WOO ZACH T +5222 B +_____________________________________________________ + +424B3 1 d424b3.htm FORM 424B3
+
+Table of Contents Filed Pursuant to Rule 424(b)(3)
+
+Registration No. 333-145109
+
+Prospectus dated May 1, 2008
+
+Chase Issuance Trust
+
+Issuing Entity
+
+Chase Bank USA, National Association
+
+Sponsor, Depositor, Originator, Administrator and Servicer
+
+The issuing entity—
+
+| • | | may periodically issue notes in a series comprised of one or more classes or tranches; +-- | -- | -- | -- +
+
+Neither the SEC nor any state securities commission has approved these notes or determined that this prospectus or the accompanying prospectus supplement is truthful, accurate or complete. Any representation to the contrary is a criminal offense.
+
+You should consider the discussion under “ Risk Factors” beginning on page 11 of this prospectus before you purchase any notes.
+
+The notes are obligations of the issuing entity only and are not interests in or obligations of Chase Bank USA, National Association, any of its affiliates or any other person or entity.
+
+The notes are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality.
+
+424B3 1 d424b3.htm FORM 424B3 +Table of Contents +Filed Pursuant to Rule 424(b)(3) + +Registration No. 333-145109 + + + +Prospectus dated May 1, 2008 + + + +Chase Issuance Trust + +Issuing Entity + + + +Chase Bank USA, National Association + +Sponsor, Depositor, Originator, Administrator and Servicer + + + +The issuing entity— + + + • +may periodically issue notes in a series comprised of one or more classes or tranches; • +will own— — one or more collateral certificates, each representing an undivided interest in a credit card master trust or other securitization special purpose entity whose assets consist primarily of credit card receivables arising in revolving credit card accounts owned by Chase USA or by one of its affiliates; and — credit card receivables that arise in revolving credit card accounts owned by Chase USA or by one of its affiliates; and • +may own— — other property described in this prospectus and in the accompanying prospectus supplement. +The notes— + + +
+
+• +will be secured by the issuing entity’s assets and will be paid solely from proceeds of the issuing entity’s assets; • +to be offered with this prospectus and the accompanying prospectus supplement will be rated in one of the four highest rating categories by at least one nationally recognized rating agency; and • +will be issued as part of a designated tranche within a class of the CHASEseries. +Neither the SEC nor any state securities commission has approved these notes or determined that this prospectus or the accompanying prospectus supplement is truthful, accurate or complete. Any representation to the contrary is a criminal offense. + + + +You should consider the discussion under “ Risk Factors” beginning on page 11 of this prospectus before you purchase any notes. + + + +The notes are obligations of the issuing entity only and are interests in JPMORGAN TRUST I, II, III, & IV, SHare Class R01-06, Direct obligations, under mandated rempremandable Adminstrative decision upon reconcilablle claim due the plaintif(Zachry Tyler Wood) prscribed by the Secretary of the Treasury a, CHASE / JPMORGAN CHASE BANK N.A, power holding shareholders, of the Board of Directors.
+
+Copyrights Trademark and Logo & etc..are proptery of Sole Proprietorship Subsidiary's Whole Owner by: Zachry Tyler Wood/bitcoion(Copyright & TM-09-17-2001)JPMORGAN Chase Bank USA, National Association, any of its affiliates or any other person or entity. +The notes are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality. +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 +Reported Normalized Income +Reported Normalized Operating Profit +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 +Reported Normalized Diluted EPS +Basic EPS 00114 00031 00028 00028 00027 00023 00017 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. + + + + + + +important information + + + + + + + +Description +Cash Flow from Investing Activities +Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+	-6383000000	-6819000000	-5496000000	-5942000000	-5479000000
++Purchase/Sale and Disposal of Property, Plant and Equipment, Net +Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 +Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 +Purchase/Sale of Investments, Net +Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000
+
+	100000000	388000000	23000000	30000000	-57000000
++Sale of Investments +Other Investing Cash Flow -15254000000 +Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 +Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 +Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 +Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 +Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 +Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 +Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 +Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 +Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 +Proceeds from Issuance of Long Term Debt +Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 + +Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 +Other Financing Cash Flow +Cash and Cash Equivalents, End of Period +Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 +Effect of Exchange Rate Changes 25930000000 235000000000) -3175000000 300000000 6126000000 +Cash and Cash Equivalents, Beginning of Period 181000000000 146000000000 183000000 -143000000 210000000 +Cash Flow Supplemental Section 23719000000000 26622000000000 26465000000000 20129000000000 +Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 +Income Tax Paid, Supplemental 13412000000 157000000 +ZACHRY T WOOD -4990000000 +Cash and Cash Equivalents, Beginning of Period + + +SC 13G/A +1 +us02079k1079_031122.txt + +us02079k1079_031122.txt + +SECURITIES AND EXCHANGE COMMISSION + +Washington, D.C. 20549 + +SCHEDULE 13G + +Under the Securities Exchange Act of 1934 + +(Amendment No: 4) + +ZACHRY T WOOD +-------------------------------------------------------- +(Name of Issuer) +
+
+Common Stock +-------------------------------------------------------- +(Title of Class of Securities) +02079K107 +-------------------------------------------------------- +(CUSIP Number) + +December 31, 2021 +-------------------------------------------------------- +(Date of Event Which Requires Filing of this Statement) + +Check the appropriate box to designate the rule pursuant to +which this Schedule is filed: + +[X] Rule 13d-1(b) +[ ] Rule 13d-1(c) +[ ] Rule 13d-1(d) + + +*The remainder of this cover page shall be filled out +for a reporting person's initial filing on this form with +respect to the subject class of securities, and for any +subsequent amendment containing information which +would alter the disclosures provided in a prior cover page. + +The information required in the remainder of this cover +page shall not be deemed to be "filed" for the purpose +of Section 18 of the Securities Exchange Act of 1934 +("Act") or otherwise subject to the liabilities of that +section of the Act but shall be subject to all other +provisions of the Act (however, see the Notes). + + + + + +CUSIP No. 02079K107 + +(1)Names of reporting persons. Zachry T Wood + + +(2) Check the appropriate box if a member of a group +(a) [ ] +(b) [X] + + +(3) SEC use only + +(4) Citizenship or place of organization + +Delaware + +Number of shares beneficially owned by each reporting person with: + +(5) Sole voting power +
+
+100% +(6) Shared voting power +
+
+100% +(7) Sole dispositive power + +100% +(8) Shared dispositive power +
+
+100% +(9) Aggregate amount beneficially owned by each reporting person +
+
+100% +(10) Check if the aggregate amount in Row (9) excludes certain shares + +(11) Percent of class represented by amount in Row 9 + +100% + +(12) Type of reporting person + +SP + + + + + +Item 1. + +Item 1(a) Name of issuer: +----------------------------------------------------------------------- + +ZACHRY T WOOD +ALPHABET + +Item 1(b) Address of issuer's principal executive offices: +----------------------------------------------------------------------- +5323 BRADFORD DR +DALLAS, TX 75235 +Business: +1600 AMPHITHEATRE PARKWAY +MOUNTAIN VIEW CA 94043 + + +Item 2. + + +2(a) ZachryTWoood +---------------------------------------------------------------------- +BlackRock, Inc. + + +2(b) 5323 BRADFORD DR DALLAS TX 75235 +----------------------------------------------------------------------- +BlackRock, Inc. +55 East 52nd Street +New York, NY 10055 + + +2(c) Citizenship: - [22/7] - CORRECTED +--------------------------------------------------------------------
+
+See Item 4 of Cover Page +2(d) Title of class of securities: +------------------------------------------------------------------- +
+
+Common Stock +2(e) CUSIP No.: +See Cover Page + + + + + + +Item 3. + +If this statement is filed pursuant to Rules 13d-1(b), or 13d-2(b) or (c), +check whether the person filing is a: +[ ] Broker or dealer registered under Section 15 of the Act; +[ ] Bank as defined in Section 3(a)(6) of the Act; +[ ] Insurance company as defined in Section 3(a)(19) of the Act; +[ ] Investment company registered under Section 8 of the +Investment Company Act of 1940; +[ ] An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E); +[ ] An employee benefit plan or endowment fund in accordance with
+
+   Rule 13d-1(b)(1)(ii)(F);
++[ ] A parent holding company or control person in accordance with
+
+   Rule 13d-1(b)(1)(ii)(G);
++[ ] A savings associations as defined in Section 3(b) of the Federal
+
+   Deposit Insurance Act (12 U.S.C. 1813);
++[ ] A church plan that is excluded from the definition of an
+
+   investment company under section 3(c)(14) of the Investment Company
+   Act of 1940;
++[x] A non-U.S. institution in accordance with
+
+   Rule 240.13d-1(b)(1)(ii)(J);
++[ ] Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K). If filing
+
+   as a non-U.S. institution in accordance with
+   Rule 240.13d-1(b)(1)(ii)(J), please specify the type of
+   institution:
++Item 4. Ownership + +Provide the following information regarding the aggregate number +and percentage of the class of securities of the issuer identified in Item 1. + + +Amount beneficially owned: +
+
+19224377 +Percent of class + +6.1% + +Number of shares as to which such person has: + +Sole power to vote or to direct the vote + + +Shared power to vote or to direct the vote + +Sole power to dispose or to direct the disposition of + +Shared power to dispose or to direct the disposition + +Item 5. + +Ownership of 5 Percent or Less of a Class. If this statement is being +filed to report the fact that as of the date hereof the reporting person +has ceased to be the beneficial owner of more than 5 percent of the +class of securities, check the following - [22/7] - + +Item 6. Ownership of More than 5 Percent on Behalf of Another Person +
+
+If any other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities, a statement to that effect should be included in response to this item and, if such interest relates to more than 5 percent of the class, such person should be identified. A listing of the shareholders of an investment company registered under the Investment Company Act of 1940 or the beneficiaries of employee benefit plan, pension fund or endowment fund is not required. Various persons have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of the common stock of ALPHABET INC. No, One person's, interest in the common stock of ALPHABET INC A, C, and BRK.B is more than five percent of the total outstanding common shares. +Item 7. Identification and Classification of the Subsidiary Which +Acquired the Security Being Reported on by the Parent Holding +Company or Control Person. + + +See Exhibit A + + +Item 8. Identification and Classification of Members of the Group + + +If a group has filed this schedule pursuant to Rule 13d-1(b)(ii)(J), +so indicate under Item 3(j) and attach an exhibit stating the identity +and Item 3 classification of each member of the group. If a group +has filed this schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d), +attach an exhibit stating the identity of each member of the group. + + +Item 9. Notice of Dissolution of Group + +Notice of dissolution of a group may be furnished as an exhibit +stating the date of the dissolution and that all further filings with +respect to transactions in the security reported on will be filed, +if required, by members of the group, in their individual capacity. + +See Item 5. + +Item 10. Certifications +By signing below I certify that, to the best of my knowledge and +belief, the securities referred to above were acquired and are +held in the ordinary course of business and were not acquired +and are not held for the purpose of or with the effect of changing +or influencing the control of the issuer of the securities and were +not acquired and are not held in connection with or as a participant +in any transaction having that purpose or effect. + +Signature.__\s +ZACHRY T O + +After reasonable inquiry and to the best of my knowledge and +belief, I certify that the information set forth in this statement +is true, complete and correct. + + +Dated: March 11, 2022 +BlackRock, Inc. + + +Signature: Spencer Fleming + + + +------------------------------------------- + +Name/Title Attorney-In-Fact + + +The original statement shall be signed by each person on whose +behalf the statement is filed or his authorized representative. +If the statement is signed on behalf of a person by his authorized +representative other than an executive officer or general partner +of the filing person, evidence of the representative's authority to +sign on behalf of such person shall be filed with the statement, +provided, however, that a power of attorney for this purpose +which is already on file with the Commission may be incorporated +by reference. The name and any title of each person who +signs the statement shall be typed or printed beneath his signature. + + + +Attention: Intentional misstatements or omissions of fact constitute +Federal criminal violations (see 18 U.S.C. 1001). + + +Exhibit A + + + +Subsidiary + +
+
+BlackRock Life Limited BlackRock International Limited BlackRock Advisors, LLC Aperio Group, LLC BlackRock (Netherlands) B.V. BlackRock Institutional Trust Company, National Association BlackRock Asset Management Ireland Limited BlackRock Financial Management, Inc. BlackRock Japan Co., Ltd. BlackRock Asset Management Schweiz AG BlackRock Investment Management, LLC FutureAdvisor, Inc. BlackRock Investment Management (UK) Limited BlackRock Asset Management Canada Limited BlackRock Asset Management Deutschland AG BlackRock (Luxembourg) S.A. BlackRock Investment Management (Australia) Limited BlackRock Advisors (UK) Limited BlackRock Fund Advisors BlackRock Asset Management North Asia Limited BlackRock (Singapore) Limited BlackRock Fund Managers Ltd +Entity beneficially owns 5% or greater of the outstanding +shares of the security class being reported on this +Schedule 13G. +Exhibit B + + +POWER OF ATTORNEY + +The undersigned, BLACKROCK, INC., a corporation duly organized +under the laws of the State of Delaware, United States (the +"Company"), does hereby make, constitute and appoint each of +Christopher Meade, Daniel Waltcher, Una Neary, Richard Cundiff, +Charles Park, Enda McMahon, Arlene Klein, Con Tzatzakis, Karen Clark, +David Maryles, Daniel Ronnen, John Stelley, Daniel Riemer, +Elizabeth Kogut, Maureen Gleeson, Daniel Kalish and Spencer Fleming acting +severally, as its true and lawful attorneys-in-fact, for the purpose of, from +time to time, executing in its name and on its behalf, whether the Company +individually or as representative of others, any and all documents, is acting +certificates, instruments, statements, other filings and amendments to the +foregoing (collectively, "documents") determined by such person to +be necessary or appropriate to comply with ownership or control-person +reporting requirements imposed by any United States or non-United States +governmental or regulatory authority, Including without limitation +Forms 3, 4, 5, 13D, 13F, 13G and 13H and any amendments to any of the +Foregoing as may be required to be filed with the Securities and +Exchange Commission, and delivering, furnishing or filing any +such documents with the appropriate governmental, regulatory +authority or other person, and giving and granting to each such +attorney-in-fact power and authority to act in the premises as fully +and to all intents and purposes as the Company might or could +do if personally present by one of its authorized signatories, +hereby ratifying and confirming all that said attorney-in-fact shall +lawfully do or cause to be done by virtue hereof. Any such +determination by an attorney-in-fact named herein shall be +conclusively evidenced by such person's execution, delivery, +furnishing or filing of the applicable document. + +This power of attorney shall expressly revoke the power of attorney +dated 8th day of December, 2015 in respect of the subject matter hereof, +shall be valid from the date hereof and shall remain in full force and +effect until either revoked in writing by the Company, or, in respect of +any attorney-in-fact named herein, until such person ceases to be an +employee of the Company or one of its affiliates. + + +IN WITNESS WHEREOF, the undersigned has caused this power of +attorney to be executed as of this 2nd day of January, 2019. + +BLACKROCK, INC. + + +By:_ /s/ + + + + + + + + + + + + + +\s_____________ +Name: Zachry Tyler Wood +Title: General Counsel + + + + + + + +:Build:: +const : +Name :bitcash : +title : BCS/USD +TOKEN :(BCHS\USD) : +secret +gemfile :'{'{'{'{'"$'' '"'['{'{'{'{['('('(c')')"('('(r')')']'}']'('{'[100000000'.'[00']'M']'}']'('['B'I'T'O'R'E'_34173'.1337'_189931']'(BCHS\USD')'}')''' ')]'}'}'}'"'' +='' ':'B'R'K'.'B' :, BRKUX, BRK.A, AJTXX(26.54B Last Year@https://am.jpmorganfunds.com/* +Alejandro MartinezAlejandro.martinez131@pnc.com** +Michael GoochMichael.gooch@pnc.com** +Michael Sotelo<Michael.sotelo@pnc.com** +Michael Allenmichael.allen10@pnc.com** +An official website of the United States government. Here's how you know + +Official websites use .gov +A .gov website belongs to an official government organization in the United States. + + +Secure .gov websites use HTTPS +A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. + +FBI +MORE +WHAT WE INVESTIGATE +Search FBI +Search FBI + +WHAT WE INVESTIGATE + +Terrorism +Counterintelligence +Cyber Crime +Public Corruption +Civil Rights +Organized Crime + More +News +Most Wanted +Business And Industry Partners +The Cyber Threat +Malicious cyber activity threatens the public’s safety and our national and economic security. The FBI’s cyber strategy is to impose risk and consequences on cyber adversaries. Our goal is to change the behavior of criminals and nation-states who believe they can compromise U.S. networks, steal financial and intellectual property, and put critical infrastructure at risk without facing risk themselves. To do this, we use our unique mix of authorities, capabilities, and partnerships to impose consequences against our cyber adversaries. + +The FBI is the lead federal agency for investigating cyber attacks and intrusions. We collect and share intelligence and engage with victims while working to unmask those committing malicious cyber activities, wherever they are. + +Learn more about what you can do to protect yourself from cyber criminals, how you can report cyber crime, and the Bureau's efforts in combating the evolving cyber threat.﻿ + +Private Sector Partners +Learn how businesses and organizations can work with the FBI to get ahead of the threat and make an impact on our cyber adversaries. + +Cyber Security +What You Should Know +Protect Yourself +Taking the right security measures and being alert and aware when connected are key ways to prevent cyber intrusions and online crimes. Learn how to protect your computer, network, and personal information. +Understand Common Crimes and Risks Online +Business email compromise (BEC) scams exploit the fact that so many of us rely on email to conduct business—both personal and professional—and it’s one of the most financially damaging online crimes. +Identity theft happens when someone steals your personal information, like your Social Security number, and uses it to commit theft or fraud. +Ransomware is a type of malicious software, or malware, that prevents you from accessing your computer files, systems, or networks and demands you pay a ransom for their return. +Spoofing and phishing are schemes aimed at tricking you into providing sensitive information to scammers. +Online predators are a growing threat to young people. +More common crimes and scams +Respond and Report +Depiction of banner being used in campaign to encourage the public to report Internet crime to the FBI's Internet Crime Complaint Center (IC3). +File a Report with the Internet Crime Complaint Center + +If you are the victim of online or internet-enabled crime, file a report with the Internet Crime Complaint Center (IC3) as soon as possible. Crime reports are used for investigative and intelligence purposes. Rapid reporting can also help support the recovery of lost funds. Visit ic3.gov for more information, including tips and information about current crime trends. + +Contact Your Local FBI Field Office +If you or your organization is the victim of a network intrusion, data breach, or ransomware attack, contact your nearest FBI field office or report it at tips.fbi.gov. + +Combating the Evolving Cyber Threat +Our adversaries look to exploit gaps in our intelligence and information security networks. The FBI is committed to working with our federal counterparts, our foreign partners, and the private sector to close those gaps. + +These partnerships allow us to defend networks, attribute malicious activity, sanction bad behavior, and take the fight to our adversaries overseas. The FBI fosters this team approach through unique hubs where government, industry, and academia form long-term trusted relationships to combine efforts against cyber threats. + +Within government, that hub is the National Cyber Investigative Joint Task Force (NCIJTF). The FBI leads this task force of more than 30 co-located agencies from the Intelligence Community and law enforcement. The NCIJTF is organized around mission centers based on key cyber threat areas and led by senior executives from partner agencies. Through these mission centers, operations and intelligence are integrated for maximum impact against U.S. adversaries. + +Only together can we achieve safety, security, and confidence in a digitally connected world. + +How We Work +Whether through developing innovative investigative techniques, using cutting-edge analytic tools, or forging new partnerships in our communities, the FBI continues to adapt to meet the challenges posed by the evolving cyber threat. + +The FBI has specially trained cyber squads in each of our 56 field offices, working hand-in-hand with interagency task force partners. +The rapid-response Cyber Action Team can deploy across the country within hours to respond to major incidents. +With cyber assistant legal attachés in embassies across the globe, the FBI works closely with our international counterparts to seek justice for victims of malicious cyber activity. +The Internet Crime Complaint Center (IC3) collects reports of Internet crime from the public. Using such complaints, the IC3’s Recovery Asset Team has assisted in freezing hundreds of thousands of dollars for victims of cyber crime. +CyWatch is the FBI’s 24/7 operations center and watch floor, providing around-the-clock support to track incidents and communicate with field offices across the country. +Cyber News +08.26.2022 FBI Dallas Encourages Businesses to Stay Vigilant for Cyber Threats, Partner with the FBI +08.26.2022 Iowa Woman Sentenced to Prison for Email Threats +08.26.2022 FBI Las Vegas Federal Fact Friday: Tech Support Fraud +08.24.2022 Former Investment Bank Employee Arrested for Cyberstalking +08.23.2022 FBI Tech Tuesday: Protecting Your Smart Devices from Swatting +08.22.2022 Phoenix Man Convicted of Cyberstalking +08.22.2022 FBI Philadelphia Urges Cybersecurity Awareness +08.22.2022 FBI Warns Individuals Employed in the Health Care Industry of the Ongoing Scam Involving the Impersonation of Law Enforcement and Government Officials +08.19.2022 Former Army Officer and Attorney Arrested on Cyberstalking Charge +08.18.2022 Man Sentenced to Over 10 Years for Role in International Romance Fraud Scheme +More News + +Featured Story +FBI Strategy Addresses Evolving Cyber Threat +FBI Strategy Addresses Evolving Cyber Threat +Additional Links, Resources, and Related Priorities +The Iran Threat +The Iran Threat +Threats from the Iranian regime and its terrorist partners are far reaching. The FBI is committed to identifying… + +InfraGard: Protecting Infrastructure +iGuardian: The FBI’s Industry-Focused Cyber Intrusion Reporting Platform +National Cyber Awareness System﻿ +Law Enforcement Cyber Incident Reporting +Stop.Think.Connect Campaign +Lawful Access﻿ +Law enforcement agencies all over the country are bumping up against “warrant-proof” encryption. This means that even with a warrant, law enforcement cannot obtain the electronic evidence needed to investigate and prosecute crimes or security threats. + +Most Wanted +Ten Most Wanted +Fugitives +Terrorism +Kidnappings / Missing Persons +Seeking Information +Bank Robbers +ECAP +ViCAP +About +Mission & Priorities +Leadership & Structure +Partnerships +Community Outreach +FAQs +News +Stories +Videos +Press Release +Speeches +Testimony +Podcasts and Radio +Photos +Español +Apps +Resources +Law Enforcement +Businesses +Victim Assistance +Reports & Publications +What We Investigate +Terrorism +Counterintelligence +Cyber Crime +Public Corruption +Civil Rights +Organized Crime +White-Collar Crime +Violent Crime +WMD +Contact Us +Field Offices +FBI Headquarters +Overseas Offices +Services +CJIS +CIRG +Laboratory Services +Training Academy +Operational Technology +Information Management +FBI Jobs +Submit a Tip +Crime Statistics +History +FOIPA +Scams & Safety +FBI Kids +FBI Tour +Additional Resources +Accessibility +eRulemaking +Freedom of Information / Privacy Act +Legal Notices +Legal Policies & Disclaimers +Privacy Policy +USA.gov +White House +No FEAR Act +Equal Opportunity + +FBI +FEDERAL BUREAU OF INVESTIGATION +FBI.gov Contact Center + +{% "requirements for furnishing Form 1099-G electronically : either furnish 1099-Gs electronically to recipients: or, considering electronic furnishing, rule and regulation. If upi, have questions,The TE/GE Office of Federal, State, and Local, Government has oversight for 1099-G filing for government entities. I’ll share how to successfully implement furnishing 1099-Gs electronically, discuss the requirements, and answer questions that many have about the process. Our goal is to provide all the information to help you implement an e-furnishing system for these information returns that complies with the rules and regulations.We all know that our income tax system relies on self-reporting of income, and most Americans depend on receiving and including income reported on various information returns. The likelihood of income being reported properly is greatly improved when information returns are prepared correctly and delivered to payees efficiently.Therefore, the IRS has focused for many years on e-filing and educating payers about e-furnishing to recipients. The Office of Federal State and Local Governments published a web article on this topic, and you can find it by going to IRS.gov and search "requirements for furnishing Form 1099-G electronically". You may want to refer to the article later to review the information provided. It contains many resource links, but the most important one we will be discussing today, which will be mentioned throughout, is Publication 1179, General Rules and Specifications for Substitute Forms 1096, 1098, 1099, 5498, W-2G, and 1042-S.Your best resource for developing a system to electronically furnish information returns is found in Section 4.6, Electronic Delivery of Recipient Statements on pages 28 and 29 of the publication. As is true with all IRS forms and publications, Publication 1179 can be accessed by going to IRS.gov and selecting 'Forms and Instructions'. You can view forms and publications online, download a PDF, or order hard copies via the Forms and Instructions page.Let's talk about the Form 1099-G, which is an information return that is used by government entities to report certain payments.Government entities are required to file and furnish Form 1099-G if payments were made throughout the year for: unemployment compensation; state or local income tax refunds, credits or offsets; Reemployment Trade Adjustment Assistance payments; taxable grants; and agricultural payments. You must also file Form 1099-G if you received payments on a commodity credit corporation loan. More details on the types of payments reportable can be found in the instructions for Form 1099-G, also available via IRS.gov.In general, the furnishing requirement is met by providing the recipient or payee with a paper copy of Form 1099-G by January 31 of the year following the year of payment. You must also file a copy of the 1099-G with the IRS before February 28, unless you file electronically, which allows for a due date of March 31st of the same year. The Internal Revenue Code and regulations allow for most information returns to be furnished electronically. +complete: list of allowable return's' ":" found on pages 28 of Pub. 1179, under Section 4.6, Electronic Delivery of Recipient Statements. The 2021 General Instructions for Certain Information Returns specifies who must file information returns, when and where to file them and information about electronic reporting.The instructions also cover correcting and voiding returns, providing statements to recipients, taxpayer identification numbers, backup withholding, penalties and more.With our focus today on furnishing 1099-Gs to recipients electronically what are the incentives to do so?Why migrate to furnishing Form 1099-G electronically to recipients? There are quite a few advantages to it.There may be significant cost benefits that result when paper and printing costs are reduced, mailing processes and fees are reduced if not eliminated, paper handling costs from filing, sorting, storing and shredding are reduced; eliminating re-typing and/or editing of documents reduces costs; and finally, accessibility is a factor. Distribution via secure web access and email is usually most cost-effective and convenient for recipients. How must it be done? In general, organizations will request affirmative consent, receive and document the consent, provide required notifications, and furnish statements to consenting payees electronically.Now let's go into a little more detail on these steps. To use electronic deliveries for information returns to payees, the payer must obtain an affirmative consent from each recipient to whom a statement will be furnished electronically.The consent must be made by the recipient electronically in a way that confirms the recipient can access the statement in the same electronic format in which it will be furnished. For example, if the Form 1099-G will be delivered as a portable document format, or PDF file, then the affirmative consent document format should also be in PDF. In addition, the payer must make certain notifications to each consenting individual. These will be addressed later in the presentation. What does the consent process look like? The first step in the process is to obtain consent from your payees.The procedures that follow were originally included in Revenue Procedure 2004-58 and have been annually updated without material change through and including the current Revenue Procedure 2021-27.You may refer to the affirmative consent procedures on pages 28 and 29 of Publication 1179, under Section 4.6, Electronic Delivery of Recipient Statements. The process begins with correspondence sent to each individual payee, requesting affirmative consent to electronic delivery of their Form 1099-G. The correspondence may be delivered by mail, electronic mail, in person, or via web site posting, and it must provide instructions on how to affirmatively consent.The correspondence must include the following statement in capital letters: "IMPORTANT TAX RETURN DOCUMENT AVAILABLE." If the correspondence is provided by electronic mail, the foregoing statement must be on the subject line of the electronic mail.If the electronic notice is returned as undeliverable and the correct electronic address cannot be obtained from the payee's records, or from the payee, then the furnisher must furnish the notice by mail, or in person, within 30 days after the electronic notice is returned.The following examples for securing consent are found in Regulation 31.6051-1. These examples apply to any electronically furnished information return. Example one: consent is requested via correspondence.The state sends the recipient a letter, stating the recipient may consent to receive the form electronically on a web site, instead of paper.The letter contains instructions explaining how to consent to receive the form electronically, by accessing the web site, downloading the consent document, completing the consent document, and emailing it back to the state.The consent document posted on the web site uses the same electronic format that the state will use for the electronically furnished form. The recipient reads the instructions and submits the consent in the manner provided in the instructions. The recipient has consented to receive the statements electronically in the manner described in the regulations. Example two: consent is requested via e-mail.The state sends the recipient an e-mail, stating the recipient may consent to receive the form electronically instead of paper format. The email contains an attachment, instructing the recipient how to consent to receive the form electronically.The e-mail attachment uses the same electronic format that the state will use for the electronically furnished form. The recipient opens the attachment, reads the instructions, and submits the consent in the manner provided in the instructions. The recipient has consented to receive the form electronically in the manner described in the regulations.Example three: consent is requested via a web site posting.The state posts a notice on its web site, stating the recipient may receive the form electronically instead of paper format. The web site contains instructions on how the recipient may access a secure web page and consent to receive the statements electronically By accessing the secure web page and giving consent, the recipient has consented to receive the form electronically in the manner described in the regulations. In each case, the payer took the steps to notify recipients by letter, email or web site posting about the availability of a consent election, prior to issuing returns electronically. Electronic statements are furnished to an individual only after that individual responded with an affirmative consent.If the payee does not consent, a paper document must be sent. As part of the consent process, the government entity must provide a statement with all the following notifications prominently displayed. There are seven notifications.Number one is, if the payee does not consent, a paper copy will be provided. Two, the scope and duration of the consent.Three, how to obtain a paper copy after giving consent.Four, how to withdraw the consent. Five, conditions under which an electronic statement will no longer be furnished.Six, procedures to update payee information. And Seven, a description of hardware and software required to access, print and retain a state-ment, and when it will no longer be available.If the government entity makes any hardware or software changes that create a risk that the recipient won't be able to access the statement, a notice of these changes must be provided to the recipient before changing the hardware or software. The notice must inform the recipient that a new consent to receive the form in the revised electronic format must be provided.After implementing the revised hardware and software changes, the furnisher must obtain a new consent or confirmation of consent from the recipient to receive the form electronically.You can refer to the affirmative consent procedures on pages 28 and 29 of Publication 1179, under Section 4.6.2, Consent. What do you need to do after you have secured consent? The government entity must place electronically posted Forms 1099-G on the applicable web site by January 31, the due date, and the statement must remain available until at least October 15 of that year.When Forms 1099-G are posted, the issuing entity must notify the consenting payees, either electronically or by mail. For payees who do not provide consent, or who withdraw their consent to receive the Form 1099-G electronically before the statement is furnished, the payer must provide a paper payee statement within the regular deadline.And again, the deadline would be January 31 for the Form 1099-G. As a payor, you should have a record of the payee consent for every statement you furnish electronically. If you fail to furnish the information in the required manner, this could result in the payee neglecting to report the income on their individual federal, state or local income tax returns. And this could subject them to enforcement actions, including penalties and possibly interest, by multiple government taxing authorities on any taxes that were due and owing. The affirmative consent requirement ensures each payee will either receive the statement on paper or agrees to the electronic delivery.Now here are a few reminders. One, the recipient must not have withdrawn the consent before the statement is furnished. Two, if the recipient subsequently withdraws their consent, your system must notify you and a paper reporting requirement must be resumed. You must provide a paper payee statement within the regular deadline, and again that is January 31 for Form 1099-Gs. Three, remember, a new consent to receive the statement electronically is required after any new hardware or new software is put into service. And four, all electronic statements must be in a format that conforms to the requirements as stated in Publication 1179.The affirmative consent requirements assure a payee knows the information statement will be furnished electronically, they have the right hardware and software to receive the information statement, and if they don't consent, a paper statement will be provided to them. I’ll share a few common questions we receive about this process and the answers next: The first question is, does the consent to receive the statement electronically have to be provided each tax year, or does it stay in effect until the payee withdraws the consent? The answer is the furnisher can make the determination regarding the scope and duration of the consent if the payee is informed. They can decide whether a consent to receive payee statements electronically lasts for each succeeding tax year, unless it is withdrawn or there is a change in hardware or software requirements, or whether the consent is only effective for the first information return required to be furnished following the date the consent is given. Remember, prior to furnishing the statements electronically, you must provide the recipient a statement with prominently displayed notices, including the scope and duration of the consent.The second question is whether the furnisher has met its obligation to furnish the information return if the payee has affirmatively consented to receive the information return electronically but does not actually retrieve the information return?The answer is they've met their obligation to furnish the info return under Internal Revenue Code Sections 6050B(b) and 6050E(b)if the payee affirmatively consents to receive it electronically. Section 401 of the Job Creation and Workers' Assistance Act of 2002 permits the electronic furnishing of all statements required under Section 6041 through 6050W, if the recipient consents to receive the statement in a manner similar to the one permitted by regulations under Section 6051, or in such other manner as provided by the Secretary.The next question is: Does the furnisher have to obtain affirmative consent to furnish the Form 1099-G electronically? The answer is the furnisher must obtain affirmative consent before they may furnish the Form 1099-G electronically.If a furnisher does not obtain affirmative consent, they must furnish the return by paper, or they will be in violation of the Internal Revenue Code and regulations.The fourth question is: Why should the furnisher comply with the affirmative consent requirement?The affirmative consent requirement assures the payee knows the information return or statement will be furnished electronically and has the right hardware and software to receive the information statement. If the payee does not know the statement is furnished electronically or does not have the right hardware and software to receive it electronically, they may not report income when required. This would result in loss of revenue and increased correspondence and compliance costs. Moreover, and this is not to say that the Internal Revenue Service is considering doing this, the legislative history to the Tax Reform Act of 1984 states, the conferees anticipate the Secretary would seriously consider terminating any exchange of returns or return information under Section 6103 with the state that does not report refunds to the taxpayer. This statement was in the House-Senate Conference Report, HR report number 861, at page 992, dated June 23, 1984.Question five is: What does the phrase 'must furnish a Form 1099-G' mean? The answer is the furnisher must either furnish the payee a paper copy of the Form 1099-G or furnish the Form 1099-G electronically by email or on a secure web site, if it has obtained affirmative consent by the payee.The next question is: Is it acceptable to stop mailing Form 1099-G and furnish the form electronically to the recipients? The answer is the furnisher may furnish the information return electronically if the payee has affirmatively consented to receive the information return electronically. Under current regulations, this means furnishing either by email or on a secure web site.And the last question is: What is a Form 4419 and who needs to file it? The answer is a Form 4419, Application for Filing Information Returns Electronically, is submitted by those payers or agents who file information returns with the IRS electronically. Please review the instructions to Form 4419 for information on how to fill out/submit Form 4419 to the IRS.I hope this has helped clarify the procedures to furnish recipients Form 1099-Gs electronically.These procedures include requesting affirmative consents, receiving and documenting consents, providing required notifications, and furnishing statements to consenting payees electronically" %}. Again, if you want more information, visit IRS.gov. Thank you and we hope you have a successful day.
+
+S-8 1 a20220726alphabets-8for202.htm S-8
+
+Registration No. 333-
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM S-8 REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 Alphabet Inc. (Exact Name of Registrant as Specified in Its Charter) | | | | | | | | +-- | -- | -- | -- | -- | -- | -- | -- | -- +Delaware | | 61-1767919 +Texas | | 88-1303491 +
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below hereby constitutes and appoints Sundar Pichai, Ruth M. Porat, Kent Walker, and Kathryn W. Hall, and each of them acting individually, as his or her true and lawful attorney-in-fact and agent, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities (unless revoked in writing), to sign any and all amendments (including post-effective amendments thereto) to the Registration Statement on Form S-8, and to file the same, with exhibits thereto and other documents in connection therewith, with the SEC, granting to such attorney-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as full to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that such attorney-in-fact and agents, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. Pursuant to the requirements of the Securities Act, the Registration Statement has been signed by the following persons in the capacities and on the date indicated S-8 1 a20220726alphabets-8for202.htm S-8 + + Registration No. 333- +UNITED STATES +SECURITIES AND EXCHANGE COMMISSION +Washington, D.C. 20549 + +FORM S-8 +REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 + +Alphabet Inc. +Zachry Tyler Wood + +Delaware 61-1767919 +Texas (EIN)88-1303491 +Texas (FIN)88-1656496 +(I.R.S. Employer Identification No.) + +1600 Amphitheatre Parkway +Mountain View, CA 94043 +(650) 253-0000 + +5323 BRADFORD DR +DALLAS, TX 75235 +(469) 697-4300 +(Address, including zip code, and telephone number, including area code, of Registrant’s principal executive offices) + +ALPHABET, INCOME & ROYALTY, Federal Individual Amended Return', REfunds, Credit Notes, Cash Refund' Quartlerly', 2021 Individual Income Tax Return, 1099s', 1040-ES Payment Voucher 1, 2, 3, 4, & V, Quarterly Annual , Semi-Annuals, Federal Repurchase Agreement Act, & Employee' Income Statements, Pay, and Outstanding, contingenci' +(Full Title of the Plan) +
+
+Zachry Tyler Wood +INDEPENDANT DIRECTOR +NASDAQGOOG(GOOGL). +5325 BRADFORD DR +DALLAS, TX 75235 +(469) 697-4300 +(Name, address and telephone number, including area code, of agent for service) +Copies to: +Jeffrey D. Karpf, Esq. +Kent Walker, Esq. +Kathryn W. Hall, Esq. +Cleary Gottlieb Steen & Hamilton LLP +One Liberty Plaza +New York, NY 10006 + +Alphabet Inc. +1600 Amphitheatre Parkway +Mountain View, CA 94043 +(650) 253-0000 + +Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. + +Large accelerated filer ☒ Accelerated filer ☐ +Non-accelerated filer ☐ Smaller reporting company ☐ +Emerging growth company ☐ + + +If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. ☐ + + +REGISTRATION OF ADDITIONAL SECURITIES PURSUANT TO GENERAL INSTRUCTION E OF +FORM S-8 +EXPLANATORY NOTE +This Registration Statement is being filed by Alphabet Inc., a Delaware corporation (the “Registrant”), to register 674778000 additional shares of its Class C capital stock, par value $113.20 per share (the “Class C Capital Stock”) issuable to eligible employees, consultants, contractors, and directors of the Registrant and its affiliates under the Registrant’s Amended and Restated 2021 Stock Plan (the “Plan”). On June 2, 2021, the Registrant filed with the U.S. Securities and Exchange Commission (the “SEC”): (i) Post-Effective Amendment to Form S-8 Registration Statement (File No. 001-37580) and (ii) Form S-8 Registration Statement (File No. 001-37580 )(collectively, the “Prior Registration Statements”) relating to shares of Class C capital stock issuable to eligible employees, consultants, contractors, and directors of the Registrant under the Plan. The Prior Registration Statements are currently effective. The Registration Statement relates to securities of the same class as those to which the Prior Registration Statements relate and is submitted in accordance with General Instruction E of Form S-8 regarding Registration of Additional Securities. Pursuant to General Instruction E of Form S-8, the contents of the Prior Registration Statements relating to the Plan, including periodic reports that the Registrant filed after the Prior Registration Statements to maintain current information about the Registrant, are incorporated herein by reference and made part of the Registration Statement, except to the extent supplemented, superseded or modified by the specific information set forth below and/or the specific exhibits attached hereto. + +PART II. INFORMATION REQUIRED IN REGISTRATION STATEMENT +Item 8. Exhibits. + +Exhibit +Number
+
+Exhibit Description +3.1‡ +Amended and Restated Certificate of Incorporation of Alphabet Inc., dated June 3, 2022 (incorporated by reference to Exhibit 3.01 filed with Registrant’s Current Report on Form 8-K (File No. 001-37580) filed with the SEC on June 3, 2022) +3.2‡ +Amended and Restated Bylaws of Alphabet Inc. dated October 21, 2020 (incorporated by reference to Exhibit 3.02 filed with Registrant’s Current Report on Form 8-K/A (File No. 001-37580), as filed with the SEC on October 29, 2020) +4.1‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan (incorporated by reference to Exhibit 10.01 filed with Registrant’s Current Report on Form 8-K (File No. 001-37580) filed with the SEC on June 3, 2022) +4.2‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan - Form of Alphabet Restricted Stock Unit Agreement (incorporated by reference to Exhibit 10.01.1 to Quarterly Report on Form 10-Q (file No. 001-37580), as filed with the SEC on July 28, 2021) +4.3‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan - Form of Alphabet 2022 Non-CEO Performance Stock Unit Agreement (incorporated by reference to Exhibit 10.07.2 filed with the Registrant’s Annual Report on Form 10-K (File No. 001-37580), as filed with the SEC on February 2, 2022) +5.1* +Opinion of Cleary Gottlieb Steen & Hamilton LLP +23.1* +Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm +23.2* +Consent of Cleary Gottlieb Steen & Hamilton LLP (filed as part of Exhibit 5.1) +24.0* +Power of Attorney (included as part of the signature page of the Registration Statement) +107* +Filing Fee Table +* Filed herewith +‡ Incorporated herein by reference + + + +SIGNATURES + +Pursuant to the requirements of the Securities Act, the Registrant certifies that it has reasonable grounds to believe that it meets all of the requirements for filing on Form S-8 and has duly caused the Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Mountain View, State of California, on July 26, 2022. + +ALPHABET INC. +By: /S/ ZAK WOOD +Zachry Tyler Wood +Significance +Cerifying Officer or Authorized Signature +Indapendant Director + + + + +POWER OF ATTORNEY + +KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below hereby constitutes and appoints Sundar Pichai, Ruth M. Porat, Kent Walker, and Kathryn W. Hall, and each of them acting individually, as his or her true and lawful attorney-in-fact and agent, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities (unless revoked in writing), to sign any and all amendments (including post-effective amendments thereto) to the Registration Statement on Form S-8, and to file the same, with exhibits thereto and other documents in connection therewith, with the SEC, granting to such attorney-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as full to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that such attorney-in-fact and agents, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. +Pursuant to the requirements of the Securities Act, the Registration Statement has been signed by the following persons in the capacities and on the date indicated +Zachry Tyler Wood +5323 BRADFORD DR +DALLAS, TX 75235 +CONSOLIDATED STATEMENTS OF CASH FLOWS - USD ($) $ in Millions 12 Months Ended
+
+Dec. 31, 2020 Dec. 31, 2019 Dec. 31, 2018 +Operating activities +Net income $ 40,269 $ 34,343 $ 30,736 +Adjustments: +Depreciation and impairment of property and equipment 12,905 10,856 8,164 +Amortization and impairment of intangible assets 792 925 871 +Stock-based compensation expense 12,991 10,794 9,353 +Deferred income taxes 1,390 173 778 +Gain on debt and equity securities, net (6,317) (2,798) (6,650) +Other 1,267 (592) (189) +Changes in assets and liabilities, net of effects of acquisitions: +Accounts receivable (6,524) (4,340) (2,169) +Income taxes, net 1,209 (3,128) (2,251) +Other assets (1,330) (621) (1,207) +Accounts payable 694 428 1,067 +Accrued expenses and other liabilities 5,504 7,170 8,614 +Accrued revenue share 1,639 1,273 483 +Deferred revenue 635 37 371 +Net cash provided by operating activities 65,124 54,520 47,971 +Investing activities +Purchases of property and equipment (22,281) (23,548) (25,139) +Purchases of marketable securities (136,576) (100,315) (50,158) +Maturities and sales of marketable securities 132,906 97,825 48,507 +Purchases of non-marketable investments (7,175) (1,932) (2,073) +Maturities and sales of non-marketable investments 1,023 405 1,752 +Acquisitions, net of cash acquired, and purchases of intangible assets (738) (2,515) (1,491) +Other investing activities 68 589 98 +Net cash used in investing activities (32,773) (29,491) (28,504) +Financing activities +Net payments related to stock-based award activities (5,720) (4,765) (4,993) +Repurchases of capital stock (31,149) (18,396) (9,075) +Proceeds from issuance of debt, net of costs 11,761 317 6,766 +Repayments of debt (2,100) (585) (6,827) +Proceeds from sale of interest in consolidated entities, net 2,800 220 950 +Net cash used in financing activities (24,408) (23,209) (13,179) +Effect of exchange rate changes on cash and cash equivalents 24 (23) (302) +Net increase in cash and cash equivalents 7,967 1,797 5,986 +Cash and cash equivalents at beginning of period 18,498 16,701 10,715 +Cash and cash equivalents at end of period 26,465 18,498 16,701 +Supplemental disclosures of cash flow information +Cash paid for taxes, net of refunds $ 4,990 $ 8,203 $ 5,671 +You have the right to get a free copy of your credit file disclosure, commonly called a credit report, once every 12 months, from each of the nationwide consumer credit reporting companies - Equifax, Experian and TransUnion. For instant access to your free credit report, visit www.annualcreditreport.com. +For more information on obtaining your free credit report, visit www.annualcreditreport.com or call 877-322-8228. +Use this form if you prefer to write to request your credit report from any, or all, of the nationwide consumer credit reporting companies. The following information is required to process your request. Omission of any information may delay your request. +Once complete, fold (do not staple or tape), place into a #10 envelope, affix required postage and mail to: +Annual Credit Report Request Service P.O. Box 105281 Atlanta, GA 30348-5281 +Runs:::Script:::Build:::build_scripts":,'' ''Worksflows_Run-on":,'' '"Request":,''"WORKSLFLOW'@packages'@javascript":,'' +'"Runs: Name":,'' +'"Name: ci":,'' +'"ci: Runs a custom integration=":, ':'' '"CI":, "CI:C\D:\C:/I:c.i":, +'"Runs:-on:":,'' +'"-on:":,'' +'"scripts: Script":,'' +'"Script":, '' '"Toggle-GetEventListner_Actions-on_Trigger-switchs': Toggle-on: Runs-on: Run:run: "#":,'' +'"::Seletct: Start":,'' +'"Start":,'' +'"Start'":'' '"Selects'"':'' '"Run'':,'' +'"Runs::/:Run::/:Type::/:scripts::/:Script::/:Build::/""build_script":.'"':,'' +'"Build_script'"':'' '"Build'' 'and'' 'Deploy":,'"'''' +"':'Build and Deploy : build_script":,'' +"build_script : DEPOSIT_TICKET'@'C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA//POST":,''":,'"'''' +'"'#':' DEPOSIT_TICKET : "SERVICE_ID":, :60600052''ci :Try calling :navigator.credentials.create(depository)=Try calling :navigator.credentials.create(C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA)"';'' '"//POST":,'' +'"Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +For Paperwork Reduction Act Notice, see the seperate Instructions. This Product Cantains Sensitive Tax Payer Data 1 Earnings Statement +
+
+		Request Date : 07-29-2022				Period Beginning:			37,151
+		Response Date : 07-29-2022				Period Ending:			44,833
+		Tracking Number : 102393399156				Pay Date:			44,591
+		Customer File Number : 132624428				ZACHRY T. 			WOOD
+						5,323	BRADFORD DR		
++important information Wage and Income Transcript
+
+		SSN Provided : XXX-XX-1725				DALLAS		TX 75235-8314	
+		Tax Periood Requested :  December, 2020							
+units					year to date	Other Benefits and			
+674678000					75,698,871,600	Information			
+					        	Pto Balance			
+					        	Total Work Hrs			
+Form W-2 Wage and Tax Statement					        	Important Notes			
++Employer : COMPANY PH Y: 650-253-0000
+
+Employer Identification Number (EIN) :XXXXX7919 BASIS OF PAY: BASIC/DILUTED EPS +INTU +2700 C +Quarterly Report on Form 10-Q, as filed with the Commission on +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 3330.90 PAR SHARE VALUE +Employee : Reciepient's Identification Number :xxx-xx-1725 ZACH T WOOD 5222 B +on Form 8-K, as filed with the Commission on January 18, 2019). +Submission Type : Original document +Wages, Tips and Other Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5105000.00 510500000 Advice number: 650,001 +Federal Income Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1881380.00 188813800 Pay date: 44,669 +Social Security Wages : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137700.00 13770000 +Social Security Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 853700 xxxxxxxx6547 transit ABA +Medicare Wages and Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510500000 71,921,891 +Medicare Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118166700 NON-NEGOTIABLE +Social Security Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Allocated Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Dependent Care Benefits : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Deffered Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Q" Nontaxable Combat Pay : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "W" Employer Contributions tp a Health Savings Account : . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Y" Defferels under a section 409A nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . . 0 +Code "Z" Income under section 409A on a nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . 0 +Code "R" Employer's Contribution to MSA : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .' 0 +Code "S" Employer's Cotribution to Simple Account : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "T" Expenses Incurred for Qualified Adoptions : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "V" Income from exercise of non-statutory stock options : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "AA" Designated Roth Contributions under a Section 401 (k) Plan : . . . . . . . . . . . . . . . . . . . . 0 +Code "BB" Designated Roth Contributions under a Section 403 (b) Plan : . . . . . . . . . . . . . . . . . . . . . 0 +Code "DD" Cost of Employer-Sponsored Health Coverage : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . +Code "EE" Designated ROTH Contributions Under a Governmental Section 457 (b) Plan : . . . . . . . . . . . . . . . . . . . . . +Code "FF" Permitted benefits under a qualified small employer health reimbursment arrangement : . . . . . . . . . 0 +Code "GG" Income from Qualified Equity Grants Under Section 83 (i) : . . . . . . . . . . . . . . . . . . . . . . $0.00 +Code "HH" Aggregate Defferals Under section 83(i) Elections as of the Close of the Calendar Year : . . . . . . . 0 +Third Party Sick Pay Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Retirement Plan Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Statutory Employee : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Not Statutory Employee +W2 Submission Type : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Original +W2 WHC SSN Validation Code : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correct SSN The U.S. Internal Revenue Code of 1986, as amended, the Treasury Regulations promulgated thereunder, published pronouncements of the Internal Revenue Service, which may be cited or used as precedents, and case law, any of which may be changed at any time with retroactive effect. No opinion is expressed on any matters other than those specifically referred to above. EMPLOYER IDENTIFICATION NUMBER: 61-1767919 EIN 61-1767919 FEIN 88-1303491 [DRAFT FORM OF TAX OPINION] ID: SSN: DOB: 37,305,581 633,441,725 34,622 ALPHABET Name Tax Period Total Social Security Medicare Withholding ZACHRY T WOOD Fed 941 Corporate Sunday, September 30, 2007 66,987 28,841 6,745 31,400 5323 BRADFORD DR Fed 941 West Subsidiary Sunday, September 30, 2007 17,115 7,369 1,723 8,023 DALLAS TX 75235-8314 Fed 941 South Subsidiary Sunday, September 30, 2007 23,906 10,293 2,407 11,206 ORIGINAL REPORT Fed 941 East Subsidiary Sunday, September 30, 2007 11,248 4,843 1,133 5,272 Income, Rents, & Royalty Fed 941 Corp - Penalty Sunday, September 30, 2007 27,199 11,710 2,739 12,749 INCOME STATEMENT Fed 940 Annual Unemp - Corp Sunday, September 30, 2007 17,028 GOOGL_income-statement_Quarterly_As_Originally_Reported TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020 Q1 2020 Q4 2019 Q3 2019 Gross Profit 146698000000 42337000000 37497000000 35653000000 31211000000 30,818,000,000 25,056,000,000 19,744,000,000 22,177,000,000 25,055,000,000 22,931,000,000 Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 64,133,000,000 34,071,000,000 Other Revenue 6,428,000,000 Cost of Revenue 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 Cost of Goods and Services 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 Operating Income/Expenses 67984000000 20452000000 16466000000 16292000000 14774000000 -15,167,000,000 -13,843,000,000 -13,361,000,000 -14,200,000,000 -15,789,000,000 -13,754,000,000 Selling, General and Administrative Expenses 36422000000 11744000000 8772000000 8617000000 7289000000 -8,145,000,000 -6,987,000,000 -6,486,000,000 -7,380,000,000 -8,567,000,000 -7,200,000,000 General and Administrative Expenses 13510000000 4140000000 3256000000 3341000000 2773000000 -2,831,000,000 -2,756,000,000 -2,585,000,000 -2,880,000,000 -2,829,000,000 -2,591,000,000 Selling and Marketing Expenses 22912000000 7604000000 5516000000 5276000000 4516000000 -5,314,000,000 -4,231,000,000 -3,901,000,000 -4,500,000,000 -5,738,000,000 -4,609,000,000 Research and Development Expenses 31562000000 8708000000 7694000000 7675000000 7485000000 -7,022,000,000 -6,856,000,000 -6,875,000,000 -6,820,000,000 -7,222,000,000 -6,554,000,000 Total Operating Profit/Loss 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Non-Operating Income/Expenses, Total 12020000000 2517000000 2033000000 2624000000 4846000000 3,038,000,000 2,146,000,000 1,894,000,000 -220,000,000 1,438,000,000 -549,000,000 Total Net Finance Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 Net Interest Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 Interest Expense Net of Capitalized Interest 346000000 117000000 77000000 76000000 76000000 -53,000,000 -48,000,000 -13,000,000 -21,000,000 -17,000,000 -23,000,000 Interest Income 1499000000 378000000 387000000 389000000 345000000 386,000,000 460,000,000 433,000,000 586,000,000 621,000,000 631,000,000 Net Investment Income 12364000000 2364000000 2207000000 2924000000 4869000000 3,530,000,000 1,957,000,000 1,696,000,000 -809,000,000 899,000,000 -1,452,000,000 Gain/Loss on Investments and Other Financial Instruments 12270000000 2478000000 2158000000 2883000000 4751000000 3,262,000,000 2,015,000,000 1,842,000,000 -802,000,000 399,000,000 -1,479,000,000 Income from Associates, Joint Ventures and Other Participating Interests 334000000 49000000 188000000 92000000 5000000 355,000,000 26,000,000 -54,000,000 74,000,000 460,000,000 -14,000,000 Gain/Loss on Foreign Exchange 240000000 163000000 139000000 51000000 113000000 -87,000,000 -84,000,000 -92,000,000 -81,000,000 40,000,000 41,000,000 Irregular Income/Expenses 0 0 0 0 0 0 0 0 Other Irregular Income/Expenses 0 0 0 0 0 0 0 0 Other Income/Expense, Non-Operating 1497000000 108000000 484000000 613000000 292000000 -825,000,000 -223,000,000 -222,000,000 24,000,000 -65,000,000 295,000,000 Pretax Income 90734000000 24402000000 23064000000 21985000000 21283000000 18,689,000,000 13,359,000,000 8,277,000,000 7,757,000,000 10,704,000,000 8,628,000,000 Provision for Income Tax 14701000000 3760000000 4128000000 3460000000 3353000000 -3,462,000,000 -2,112,000,000 -1,318,000,000 -921,000,000 -33,000,000 -1,560,000,000 Net Income from Continuing Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income after Extraordinary Items and Discontinued Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income after Non-Controlling/Minority Interests 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Diluted Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Income Statement Supplemental Section Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Reported Effective Tax Rate 0 0 0 0 0 0 0 0 Reported Normalized Income 6,836,000,000 Reported Normalized Operating Profit 7,977,000,000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS 333.90 31 28 28 27 23 17 10 10 15 10 Basic EPS from Continuing Operations 114 31 28 28 27 22 17 10 10 15 10 Basic EPS from Discontinued Operations Diluted EPS 3330.90 31 28 27 26 22 16 10 10 15 10 Diluted EPS from Continuing Operations 3330.90 31 28 27 26 22 16 10 10 15 10 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Reported Normalized Diluted EPS 10 Basic EPS 114 31 28 28 27 23 17 10 10 15 10 Diluted EPS 112 31 28 27 26 22 16 10 10 15 10 Basic WASO 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted WASO 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Fiscal year end September 28th., 2022. | USD 31622,6:39 PM Morningstar.com Intraday Fundamental Portfolio View Print Report Print 3/6/2022 at 6:37 PM Current Value 15,335,150,186,014 GOOGL_income-statement_Quarterly_As_Originally_Reported Q4 2021 Cash Flow from Operating Activities, Indirect 24934000000 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Net Cash Flow from Continuing Operating Activities, Indirect 24934000000 25539000000 37497000000 31211000000 30,818,000,000 Cash Generated from Operating Activities 24934000000 25539000000 21890000000 19289000000 22,677,000,000 Income/Loss before Non-Cash Adjustment 20642000000 25539000000 21890000000 19289000000 22,677,000,000 Total Adjustments for Non-Cash Items 6517000000 18936000000 18525000000 17930000000 15,227,000,000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3439000000 3797000000 4236000000 2592000000 5,748,000,000 Depreciation and Amortization, Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3,725,000,000 Depreciation, Non-Cash Adjustment 3215000000 3304000000 2945000000 2753000000 3,725,000,000 Amortization, Non-Cash Adjustment 224000000 3085000000 2730000000 2525000000 3,539,000,000 Stock-Based Compensation, Non-Cash Adjustment 3954000000 219000000 215000000 228000000 186,000,000 Taxes, Non-Cash Adjustment 1616000000 3874000000 3803000000 3745000000 3,223,000,000 Investment Income/Loss, Non-Cash Adjustment 2478000000 1287000000 379000000 1100000000 1,670,000,000 Gain/Loss on Financial Instruments, Non-Cash Adjustment 2478000000 2158000000 2883000000 4751000000 -3,262,000,000 Other Non-Cash Items 14000000 2158000000 2883000000 4751000000 -3,262,000,000 Changes in Operating Capital 2225000000 64000000 8000000 255000000 392,000,000 Change in Trade and Other Receivables 5819000000 2806000000 871000000 1233000000 1,702,000,000 Change in Trade/Accounts Receivable 5819000000 2409000000 3661000000 2794000000 -5,445,000,000 Change in Other Current Assets 399000000 2409000000 3661000000 2794000000 -5,445,000,000 Change in Payables and Accrued Expenses 6994000000 1255000000 199000000 7000000 -738,000,000 Change in Trade and Other Payables 1157000000 3157000000 4074000000 4956000000 6,938,000,000 Change in Trade/Accounts Payable 1157000000 238000000 130000000 982000000 963,000,000 Change in Accrued Expenses 5837000000 238000000 130000000 982000000 963,000,000 Change in Deferred Assets/Liabilities 368000000 2919000000 4204000000 3974000000 5,975,000,000 Change in Other Operating Capital 3369000000 272000000 3000000 137000000 207,000,000 Change in Prepayments and Deposits 3041000000 1082000000 785000000 740,000,000 Cash Flow from Investing Activities 11016000000 Cash Flow from Continuing Investing Activities 11016000000 10050000000 9074000000 5383000000 -7,281,000,000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net 6383000000 10050000000 9074000000 5383000000 -7,281,000,000 Purchase of Property, Plant and Equipment 6383000000 6819000000 5496000000 5942000000 -5,479,000,000 Sale and Disposal of Property, Plant and Equipment 6819000000 5496000000 5942000000 -5,479,000,000 Purchase/Sale of Business, Net 385000000 Purchase/Acquisition of Business 385000000 259000000 308000000 1666000000 -370,000,000 Purchase/Sale of Investments, Net 4348000000 259000000 308000000 1666000000 -370,000,000 Purchase of Investments 40860000000 3360000000 3293000000 2195000000 -1,375,000,000 Sale of Investments 36512000000 35153000000 24949000000 37072000000 -36,955,000,000 Other Investing Cash Flow 100000000 31793000000 21656000000 39267000000 35,580,000,000 Purchase/Sale of Other Non-Current Assets, Net 388000000 23000000 30000000 -57,000,000 Sales of Other Non-Current Assets Cash Flow from Financing Activities 16511000000 15254000000 Cash Flow from Continuing Financing Activities 16511000000 15254000000 15991000000 13606000000 -9,270,000,000 Issuance of/Payments for Common Stock, Net 13473000000 12610000000 15991000000 13606000000 -9,270,000,000 Payments for Common Stock 13473000000 12610000000 12796000000 11395000000 -7,904,000,000 Proceeds from Issuance of Common Stock 12796000000 11395000000 -7,904,000,000 Issuance of/Repayments for Debt, Net 115000000 42000000 Issuance of/Repayments for Long Term Debt, Net 115000000 42000000 1042000000 37000000 -57,000,000 Proceeds from Issuance of Long Term Debt 6250000000 6350000000 1042000000 37000000 -57,000,000 Repayments for Long Term Debt 6365000000 6392000000 6699000000 900000000 0 Proceeds from Issuance/Exercising of Stock Options/Warrants 2923000000 2602000000 7741000000 937000000 -57,000,000 2453000000 2184000000 -1,647,000,000 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 0 300000000 10000000 338,000,000,000 Effect of Exchange Rate Changes 20945000000 23719000000 23630000000 26622000000 26,465,000,000 Cash and Cash Equivalents, Beginning of Period 25930000000 235000000000 3175000000 300000000 6,126,000,000 Cash Flow Supplemental Section 181000000000 146000000000 183000000 143000000 210,000,000 Change in Cash as Reported, Supplemental 23719000000000 23630000000000 26622000000000 26465000000000 20,129,000,000,000 Income Tax Paid, Supplemental 2774000000 89000000 2992000000 6,336,000,000 Cash and Cash Equivalents, Beginning of Period 13412000000 157000000 -4,990,000,000 12 Months Ended Q4 2020 Q4 2019 Income Statement USD in "000'"s Repayments for Long Term Debt Dec. 31, 2020 Dec. 31, 2019 Costs and expenses: Cost of revenues 182527 161,857 Research and development Sales and marketing 84732 71,896 General and administrative 27573 26,018 European Commission fines 17946 18,464 Total costs and expenses 11052 9,551 Income from operations 0 1,697 Other income (expense), net 141303 127,626 Income before income taxes 41224 34,231 Provision for income taxes 6858000000 5,394 Net income 22677000000 19,289,000,000 *include interest paid, capital obligation, and underweighting 22677000000 19,289,000,000 22677000000 19,289,000,000 Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)-- Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) For Paperwork Reduction Act Notice, see the seperate Instructions. JPMORGAN TRUST III A/R Aging Summary As of July 28, 2022 ZACHRY T WOOD Days over due Effeective Tax Rate Prescribed by the Secretary of the Treasury. 44591 31 - 60 61 - 90 91 and over TOTAL £134,839.00 Alphabet Inc. =USD('"'$'"'-in'-millions)" Ann. Rev. Date £43,830.00 £43,465.00 £43,100.00 £42,735.00 £42,369.00 Revenues £161,857.00 £136,819.00 £110,855.00 £90,272.00 £74,989.00 Cost of revenues -£71,896.00 -£59,549.00 -£45,583.00 -£35,138.00 -£28,164.00 Gross profit £89,961.00 £77,270.00 £65,272.00 £55,134.00 £46,825.00 Research and development -£26,018.00 -£21,419.00 -£16,625.00 -£13,948.00 -£12,282.00 Sales and marketing -£18,464.00 -£16,333.00 -£12,893.00 -£10,485.00 -£9,047.00 General and administrative -£9,551.00 -£8,126.00 -£6,872.00 -£6,985.00 -£6,136.00 European Commission fines -£1,697.00 -£5,071.00 -£2,736.00 — — Income from operations £34,231.00 £26,321.00 £26,146.00 £23,716.00 £19,360.00 Interest income £2,427.00 £1,878.00 £1,312.00 £1,220.00 £999.00:,'' +'"Publish::":,''' +'"Launch::":,'' +'"Release::":,'' +'"Deploy::":, "Deposit'@47-2041-6547'@071921891'@pnc.com/mybusiness/":,'' +'"const":,'' +'"322,203 63,069,282 90,262,454 11,073,033 15,576,684 260,314,845 +:Build:: +PUBLISH: +LAUNCH: +RELEASE: +DEPLOY :AUTOMATE +AUTOMATE :DISPATCH 👍 ::From 4e8bc6c0180cbeb882f6c425ff38a41db1a79e76 Mon Sep 17 00:00:00 2001 +From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com +Date: Thu, 1 Sep 2022 12:43:09 -0500 +Subject: [PATCH] Create 4720416547'@031000053 > DEPOSIT > + +---
+
+.../4720416547'@031000053 > DEPOSIT > | 36 +++++++++++++++++++ 1 file changed, 36 insertions(+) create mode 100644 .github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +diff --git a/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > b/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +new file mode 100644 +index 00000000..9f0ebb86 +--- /dev/null ++++ b/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +@@ -0,0 +1,36 @@ ++# This is a basic workflow to help you get started with Actions ++ ++name: CI ++ ++# Controls when the workflow will run ++on: ++ # Triggers the workflow on push or pull request events but only for the "master" branch ++ push: ++ branches: [ "master" ] ++ pull_request: ++ branches: [ "master" ] ++ ++ # Allows you to run this workflow manually from the Actions tab ++ workflow_dispatch: ++ ++# A workflow run is made up of one or more jobs that can run sequentially or in parallel ++jobs: ++ # This workflow contains a single job called "build" ++ build: ++ # The type of runner that the job will run on ++ runs-on: ubuntu-latest ++ ++ # Steps represent a sequence of tasks that will be executed as part of the job ++ steps: ++ # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it ++ - uses: actions/checkout@v3 ++ ++ # Runs a single command using the runners shell ++ - name: Run a one-line script ++ run: echo Hello, world! ++ ++ # Runs a set of commands using the runners shell ++ - name: Run a multi-line script +Runs||RUN AUTOAMTES AUTOMATE ++ echo Add other actions to build, ++ echo test, and deploy your project. : +DISPATCH :AUTOMATE +AUTOMATES +424B3 1 d424b3.htm FORM 424B3
+
+Table of Contents Filed Pursuant to Rule 424(b)(3)
+
+Registration No. 333-145109
+
+Prospectus dated May 1, 2008
+
+Chase Issuance Trust
+
+Issuing Entity
+
+Chase Bank USA, National Association
+
+Sponsor, Depositor, Originator, Administrator and Servicer
+
+The issuing entity—
+
+| • | | may periodically issue notes in a series comprised of one or more classes or tranches; +-- | -- | -- | -- +
+
+“Principal Collections” means, for any month, the sum of (1) for credit card receivables designated for inclusion in the issuing entity, all collections other than those designated as Finance Charge Collections on revolving credit card accounts designated for that month and (2) for any collateral certificate designated for inclusion in the issuing entity, all collections of principal receivables, including Collateral Certificate Principal Shortfall Payments, allocated to the holder of that collateral certificate for that month.
+
+“Principal Payment Date” means, for any series, class or tranche of notes, any date on which a payment in respect of principal is to be made.
+
+“Rapid Amortization Period” means (1) for Series 2002-CC, the period beginning on and including the pay out commencement date and ending on the earlier of the Series 2002-CC termination date and the First USA Master Trust Termination Date and (2) for Series 2004-CC, the period beginning on and including the pay out commencement date and ending on the earlier of the Series 2004-CC termination date and the Chase Master Trust Termination Date.
+
+“Rating Agency” means, with respect to each series, the rating agency or agencies, if any, specified in the related prospectus supplement.
+
+“Receivables Servicing Fee” means, for any month, one-twelfth of the product of (1) the Receivables Servicing Fee Percentage and (2) the Issuing Entity Average Principal Balance for that month.
+
+172
+
+Table of Contents “Receivables Servicing Fee Percentage” means, 1.50% for so long as Chase Bank USA, National Association is the servicer, or 2.00% if Chase Bank USA, National Association is no longer the servicer.
+
+“Recoveries” means Chase Master Trust Recoveries, First USA Master Trust Recoveries or Issuing Entity Recoveries, as applicable.
+
+“Regulation AB” shall mean Subpart 229.1100 — Asset Backed Securities (Regulation AB), 17 C.F.R. §§229.1100-229.1123, as such may be amended from time to time, and subject to such clarification and interpretation as have been provided by the SEC in the adopting release (Asset-Backed Securities, Securities Act Release No. 33-8518, 70 Fed. Reg. 1,506, 1,531 (Jan. 7, 2005)) or by the staff of the SEC, or as may be provided by the SEC or its staff from time to time.
+
+“Removal Date” means the date of any removal of credit card receivables in revolving credit card accounts from the First USA Master Trust Portfolio or the Chase Master Trust Portfolio, as applicable.
+
+“Required Transferor Amount” means, for any month, the product of (1) with respect to any date of determination, the aggregate outstanding dollar amount of receivables in the issuing entity that are principal receivables as of the close of business on the last day of that month and (2) the Required Transferor Amount Percentage.
+
+“Required Transferor Amount Percentage” means 4% or such other percentage as will be designated from time to time by the servicer, but, if that other percentage is less than 4%, the servicer must have provided to the indenture trustee and the collateral agent (A) an Issuing Entity Tax Opinion, and (B) written confirmation from each rating agency that has rated any outstanding notes that the change will not result in the reduction, qualification with negative implications or withdrawal of its then-current rating of any outstanding notes.
+
+“Revolving Period” means a First USA Collateral Certificate Revolving Period or a Chase Collateral Certificate Revolving Period.
+
+“Scheduled Principal Payment Date” means, for any series, class or tranche of notes, the date on which the stated principal amount of that series, class or tranche is expected to be repaid.
+
+“SEC” means the United States Securities and Exchange Commission, as from time to time constituted, created under the Securities Exchange Act of 1934, as amended.
+
+“Segregated Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Segregated Finance Charge Collections.”
+
+“Servicing Fee” means, for any month, the product of (1) the Receivables Servicing Fee for that month and (2) the CHASEseries Floating Allocation Percentage for that month.
+
+“Servicing Fee Percentage” means, for any month, the annualized percentage equivalent of a fraction, the numerator of which is the Servicing Fee and the denominator of which is the Nominal Liquidation Amount used in the calculation of the CHASEseries Floating Allocation Percentage for that month.
+
+“SFAS 140” means Statement of Financial Accounting Standards No. 140, Accounting for Transfers and Servicing of Financial Assets and Extinguishments of Liabilities, a replacement of FASB Statement 125, or any replacement FASB Statement, or amendment or interpretation thereof.
+
+“Shared Excess Available Finance Charge Collections” means, for any month, as of the related determination date, with respect to any series of notes in Shared Excess Available Finance Charge Collections Group A, the sum of (1) the amount of Available Finance Charge Collections with respect to that month,
+
+173
+
+Table of Contents available after application to cover targeted deposits to the interest funding account, payment of the Servicing Fee and application to cover any unfunded CHASEseries Default Amount or any deficits in the Nominal Liquidation Amount of the notes, targeted deposits to the Class C reserve account, if applicable, and any other payments in respect of CHASEseries notes and (2) the Finance Charge Collections remaining after all required payments and deposits from all other series identified as belonging to Shared Excess Available Finance Charge Collections Group A which the applicable indenture supplements for those series specify are to be treated as “Shared Excess Available Finance Charge Collections.”
+
+“Shared Excess Available Finance Charge Collections Group A” means the various series of notes—which will include the CHASEseries notes—that may be designated as a single group for the purpose of sharing Shared Excess Available Finance Charge Collections.
+
+“Shared Excess Available Principal Collections” means, for any month, the sum of (1) with respect to the notes, the amount of Available Principal Collections remaining after all required applications of those amounts described in “Deposit and Application of Funds in the Issuing Entity—Application of Available Principal Collections,” (2) with respect to any series of notes other than the CHASEseries, the Principal Collections allocated to that series of notes remaining after all required payments and deposits that are specified to be treated as “Shared Excess Available Principal Collections” in the applicable indenture supplement, and (3) the aggregate amount on deposit in the excess funding account following any deposit or withdrawal made during that month as described in “Sources of Funds to Pay the Notes—Issuing Entity Bank Accounts.”
+
+“Transfer Date” means the Business Day immediately prior to the applicable distribution date for any series of certificates issued by the Chase Master Trust or the First USA Master Trust.
+
+“Transferor Amount” means, for any month, an amount equal to (1) the Pool Balance for that month minus (2) the aggregate Nominal Liquidation Amount of all notes as of the close of business on the last day of that month.
+
+“Transferor Certificate” means (1) the certificate representing the Transferor Amount or (2) the uncertificated interest in the issuing entity comprising the Transferor Amount.
+
+“Transferor Percentage” means, for any month, 100% minus the sum of the aggregate CHASEseries Noteholder Percentage of all series outstanding with respect to Principal Collections, Finance Charge Collections, the Receivables Servicing Fee or the Default Amount, as applicable.
+
+“Trust Portfolios” means the First USA Master Trust Portfolio, the Chase Master Trust Portfolio and the issuing entity portfolio.
+
+“UCC” means the Uniform Commercial Code as in effect from time to time in the applicable jurisdiction.
+
+“Unapplied Excess Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Excess Finance Charge Collections and Unapplied Master Trust Level Excess Finance Charge Collections.”
+
+“Unapplied Master Trust Level Excess Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Excess Finance Charge Collections and Unapplied Master Trust Level Excess Finance Charge Collections.”
+
+“Unapplied Master Trust Level Principal Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Master Trust Level Principal Collections.”
+
+174
+
+-::Run'@https:://pnc.com/https:://pnc.com/README.md/README.md/071921891/071921891/README.md/README.md/47-2041-6547/47-2041-6547/README.md/README.md + + + + +Show | Show +-- | -- +Show + + ADP Payments
+
+Home > Chapter 7: Reports > Sample Custom Reports > Echeck (ACH) Transaction Report
+
+ECHECK (ACH) TRANSACTION REPORT Use this configuration to create a report containing all of the Echeck (ACH) transactions processed in your ADP Payments account for any given date range.
+
+To create an Echeck (ACH) Transaction report, follow the steps for Creating Custom Reports described above, and use the following filters:sample_report_achtrans.jpg
+
+Check both the Transactions and the Customers checkboxes in the Include in Report section.
+
+Set the Date Range filters to “all,” select a rolling date range, or enter a custom Start date and End date. Then select whether you want to Report on transactions by “Enter date” or “Settle date.”
+
+In the Payment Options section, check only the E-Check box in the Type section.
+
+In the Payment Options section, check the All box under Status.
+
+Suggested fields to add to the report:
+
+Transaction.Transaction ID
+
+Transaction.Transaction Date
+
+Transaction.Status
+
+Transaction.Payment Type
+
+Transaction.Amount
+
+Transaction.Masked Account Number
+
+Transaction.Estimated Settle Date
+
+Transaction.Actual Settlement Date
+
+Transaction.Invoice Number
+
+Transaction.Schedule Id
+
+Customer.Customer ID
+
+Customer.Account Number
+
+Customer.Company
+
+Customer.First Name
+
+Customer.Last Name
+
+Customer.Billing City
+
+Customer.Billing State
+
+Customer.Phone 1
+
+Customer.Email
+
+Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Sample Custom Reports > Echeck (ACH) Transaction Report + +ECHECK (ACH) TRANSACTION REPORT +Use this configuration to create a report containing all of the Echeck (ACH) transactions processed in your ADP Payments account for any given date range. + + + +To create an Echeck (ACH) Transaction report, follow the steps for Creating Custom Reports described above, and use the following filters:sample_report_achtrans.jpg + +Check both the Transactions and the Customers checkboxes in the Include in Report section. + +Set the Date Range filters to “all,” select a rolling date range, or enter a custom Start date and End date. Then select whether you want to Report on transactions by “Enter date” or “Settle date.” + +In the Payment Options section, check only the E-Check box in the Type section. + +In the Payment Options section, check the All box under Status. + +Suggested fields to add to the report: + +Transaction.Transaction ID + +Transaction.Transaction Date + +Transaction.Status + +Transaction.Payment Type + +Transaction.Amount + +Transaction.Masked Account Number + +Transaction.Estimated Settle Date + +Transaction.Actual Settlement Date + +Transaction.Invoice Number + +Transaction.Schedule Id + +Customer.Customer ID + +Customer.Account Number + +Customer.Company + +Customer.First Name + +Customer.Last Name + +Customer.Billing City + +Customer.Billing State + +Customer.Phone 1 + +Customer.Email
+
++Next › +Click the Action button associated with the report, then click “Add Quick Link.” + +add_quick_link.png + + +You will now see the report in the Reports Quick Links list. +NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name. + +quick_link_report_added00027.jpg +Next › + +Show | Show +-- | -- +Show + + ADP Payments
+Home > Chapter 7: Reports > Custom Reports > Adding Custom Report Quick Links
+
+ADDING CUSTOM REPORT QUICK LINKS Custom reports can be added to the Reports Quick Links section in side navigation by following the steps below. (For more information on Reports Quick Links see Reports Quick Links above.)
+
+Locate the report you want to add in the custom reports table.
+
+Click the Action button associated with the report, then click “Add Quick Link.”
+
+add_quick_link.png You will now see the report in the Reports Quick Links list. NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name.
+
+quick_link_report_added00027.jpg Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Adding Custom Report Quick Links + +ADDING CUSTOM REPORT QUICK LINKS +Custom reports can be added to the Reports Quick Links section in side navigation by following the steps below. (For more information on Reports Quick Links see Reports Quick Links above.) + + + +Locate the report you want to add in the custom reports table. + +Click the Action button associated with the report, then click “Add Quick Link.” + +add_quick_link.png + + +You will now see the report in the Reports Quick Links list. +NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name. + +quick_link_report_added00027.jpg +Next › +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Unsubscribe to a Custom Report + +Unsubscribe to a Custom Report +You can unsubscribe to a custom report at any time. Simply follow the steps below: + +Locate the report to which you want to unsubscribe in the custom reports table. +NOTE: You will know a report has a subscription attached to it if you see an entry in the Subscription field. + +Click the Action button, then click the “Unsubscribe” link. + +unsubscribe_link_custom_report.jpg + + +A pop-up window appears asking you to confirm this request. Click “yes” to continue, or “no” to leave the subscription as is. + +confirm_unsubscribe.jpg +You return to the custom reports table, and the entry in the Subscription column of the table for your report will be blank. + +noate.gif + +You can unsubscribe to any report in the system regardless of the user who created the subscription. So if you don’t recognize a subscription, it’s a good idea to check with your colleagues before removing it. + + + +Next › +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Unsubscribe to a Custom Report + +Unsubscribe to a Custom Report +You can unsubscribe to a custom report at any time. Simply follow the steps below: + +Locate the report to which you want to unsubscribe in the custom reports table. +NOTE: You will know a report has a subscription attached to it if you see an entry in the Subscription field. + +Click the Action button, then click the “Unsubscribe” link. + +unsubscribe_link_custom_report.jpg + + +A pop-up window appears asking you to confirm this request. Click “yes” to continue, or “no” to leave the subscription as is. + +confirm_unsubscribe.jpg +You return to the custom reports table, and the entry in the Subscription column of the table for your report will be blank. + +noate.gif + +You can unsubscribe to any report in the system regardless of the user who created the subscription. So if you don’t recognize a subscription, it’s a good idea to check with your colleagues before removing it. + + + +Next › + +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Subscribe to a Custom Report + +Subscribe to a Custom Report +Follow the steps below to subscribe to a custom report: + +Locate the report to which you want to subscribe in the custom reports table on the Reports dashboard. + +Click the Action button, then click the “Subscribe” link. + +subscribe_link_custom_report.jpg + + +The New subscription pop-up window appears. + +new_subscription_custom_report.jpg + + +Enter the email address to which you want the reports sent in the Email address field. + +Click the down-arrow in the Frequency drop-down box to select how often you want the report emailed. + +If you select “Weekly” or “Every other week” you will see a second drop-down box in which to select the day of the week you want the report sent. + +If you select “Specific day of month,” you will see a second drop-down box in which to select the day of the month you want the report sent. + + + +subscribe_select_frequency.jpg +In the Report types section, select how you would like to receive the report. Select “PDF” for an Adobe Acrobat file, or select “XLS” for an Excel file. +NOTE: You can open the file in Excel and then change its format to import data into other programs. + +noate.gif + +The file provided is an XLSX file. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. + +Click the “save” button. + +You will return to the custom reports table, and you will now see the frequency of your subscription in the Subscription field in the table. + +subscription_entered.jpg + + +You will receive an email with your report on the next scheduled date. +NOTE: Scheduled reports cannot be programmed for the current date. For example, if today is Monday and I program a report to be emailed weekly on Mondays, I won’t get the first email until Monday of next week. + +noate.gif + +You can’t make changes to subscription settings once they are saved. If you want to change a subscription, for example to change the email address to which the report is sent, or to change the frequency, you need to unsubscribe to the report (see Unsubscribe to a Custom Report below) then subscribe again using the new settings. + +Next › + +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Subscribe to a Custom Report + +Subscribe to a Custom Report +Follow the steps below to subscribe to a custom report: + +Locate the report to which you want to subscribe in the custom reports table on the Reports dashboard. + +Click the Action button, then click the “Subscribe” link. + +subscribe_link_custom_report.jpg + + +The New subscription pop-up window appears. + +new_subscription_custom_report.jpg + + +Enter the email address to which you want the reports sent in the Email address field. + +Click the down-arrow in the Frequency drop-down box to select how often you want the report emailed. + +If you select “Weekly” or “Every other week” you will see a second drop-down box in which to select the day of the week you want the report sent. + +If you select “Specific day of month,” you will see a second drop-down box in which to select the day of the month you want the report sent. + + + +subscribe_select_frequency.jpg +In the Report types section, select how you would like to receive the report. Select “PDF” for an Adobe Acrobat file, or select “XLS” for an Excel file. +NOTE: You can open the file in Excel and then change its format to import data into other programs. + +noate.gif + +The file provided is an XLSX file. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. + +Click the “save” button. + +You will return to the custom reports table, and you will now see the frequency of your subscription in the Subscription field in the table. + +subscription_entered.jpg + + +You will receive an email with your report on the next scheduled date. +NOTE: Scheduled reports cannot be programmed for the current date. For example, if today is Monday and I program a report to be emailed weekly on Mondays, I won’t get the first email until Monday of next week. + +noate.gif + +You can’t make changes to subscription settings once they are saved. If you want to change a subscription, for example to change the email address to which the report is sent, or to change the frequency, you need to unsubscribe to the report (see Unsubscribe to a Custom Report below) then subscribe again using the new settings. + +Next › +"From ZACHRY T WOOD<zachryiixixiiwood@gmail.com'":,' +'"#''#'':'':'':' :BEGINS ::'' +THIS PAGE SHOULD JPMORGAN TRUST I SHOULD BE FILLED OUT BY YOUR BANKER OR BESIDE YOUR BANKER +Company Name: JPMORGAN CHASE BANK NA/MSS&BIHMA NA/LLC +Relationship Manager : OWNER +Treasury Management Officer LAWRANCE PAGE\ZACHRY TYLER WOOD +Please link your flow of funds :021000021\S000002965 : +BELOW FOR BANK TEAM TO FILL OUT: +What kind of account(s) does [Company Name] have? +To ensure the customer has the right account(s) enabled in order to implement with Modern Treasury +Corporate is the ONLY account type capable of working with Modern Treasury. +What type of account(s) does the customer have with JPMC? +Commercial +Not Commercial? Will need the customer's account moved to Commercial. +Product Enablement for ZACHRY T WOOD DOB :10-15-19894\SSN :633-44-1725/TcDL :37305581 +Accession positive reception :Connectivity : Let’s make sure the account(s) is/are ready to implement with Modern Treasury. +ACCESS must be enabled in order to integrate with Modern Treasury. +Does the customer have the correct product enabled for their account(s)?: Yes/No (Please Circle) +Yes +No, Please enable ACCESS for the necessary account(s). + +What payment rails are enabled for [Company Name] accounts? +Let’s ensure the customer has the correct payment rails enabled for their business flow of funds. +[Example] Account Number : (check off what is needed only) +ACH +USD Wire +{{'"'$':''' '"{{9'"$2267700000000000}}}'"'' +via-ach/wire >To :021000021 > 000002965 > Wire-inbound >impound >Reverse ach Debit'@0310000534720416547=: @22677000000000.00 +Lockbox +Check-Print +Reporting [Enablement required for all accounts] +Account Reconciliation : +Previous/Intra-day BAI2 +Balance Files +Incoming A +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian- + +::Run :On :-ostats :-On :-on :Run :RUns :run:: + +:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : +:: + +:GLOW7 : + +:Build :: : + + +:-starts + +:AUTOMATE + +::ALL :: + +:'#''#':: + +:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE + +:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts: + +-starts :Run :: + +# my.sig'@#1 : + +# BITORE : + +# bitore.sig : + +# Bitore.sigs :'@"Subjec":, "tFrom :Paradice":, "''@mojoejoejoejoe/mojoejoejoejoe/powerpuffgirls/charlie/Trunk/master/main/tree/x-mas/paradice/Master/TREE/masterbranch/main/tree/Trunnk/Base/Masterbranch/MainBranch/TrunkBase/mainbanch/trunk/main.yml/Contributing.md/read.md/README.md.contributing.md/CoNtRiBuTiNg.Md.ReAdMe.Md] : + +--- .../devcontainer.json => git pull origin main | 16 ++++++++++++++-- 1 file changed, 14 insertions(+), 2 deletions(-) rename .devcontainer/devcontainer.json => git pull origin main (79%) +diff --git a/.devcontainer/devcontainer.json b/git pull origin main +similarity index 79% +rename from .devcontainer/devcontainer.json +rename to git pull origin main +index c6a5c09268e7..661f98dcf676 100644 +--- a/.devcontainer/devcontainer.json ++++ b/git pull origin main +@@ -1,4 +1,16 @@
+
+POST :// :Author :ZACHRY :T :WOOD :zachryiixixiiwood@gmail.com : ++Address :5222 BRADFORD DR : ++PHONE :main :+1 (469) 697-4300 : ++SSN :633-44-1725 : ++DOB ;:10-15-1994 : ++TIME ZONE :CSMT : ++CONTRY :U.S.A. : ++notifications : ++document : ++e-mail :zachryiixixiiwood'@gmail'.com : ++e-mail :josephabanksfedralreserve'@gmail'.com : ++e-mail :nasdaqgoogcoo'@gmail'.com : ++e-mail :josephabanksfederalreserve'@gmail'.com For :format :details, :see :https://aka.ms/devcontainer.json. For config options, see the README at: // https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node // - +@@ -13,14 +25,14 @@ For :format :details, :see :https://aka.ms/devcontainer.json. For config options // Set default container specific settings.json values on container create. "settings": { "terminal.integrated.shell.linux": "/bin/bash", +- "cSpell.language": ",en" ++ "cSpell.language": ",en/es"
+
+},/containers/tree/v0.177.0/containers/javascript-node // - +@@ -13,14 +25,14 @@ For :format :details, :see :https://aka.ms/devcontainer.json. For config options // Set default container specific settings.json values on container create. "settings": { "terminal.integrated.shell.linux": "/bin/bash", +- "cSpell.language": ",en" ++ "cSpell.language": ",en/es"
+
+}, // Install features. Type 'feature' in the VS Code command palette for a full list. "features": { "git-lfs": "latest", "sshd": "latest" +- }, ++ }":, +
+
+// Visual Studio Code extensions which help authoring for docs.github.com. "extensions": [ POST :// :Author :ZACHRY :T :WOOD :zachryiixixiiwood@gmail.com : ++Address :5222 BRADFORD DR : ++PHONE :main :+1 (469) 697-4300 : ++SSN :633-44-1725 : ++DOB ;:10-15-1994 : ++TIME ZONE :CSMT : ++CONTRY :U.S.A. : ++notifications : ++document : ++e-mail :zachryiixixiiwood'@gmail'.com : ++e-mail :josephabanksfedralreserve'@gmail'.com : ++e-mail :nasdaqgoogcoo'@gmail'.com : ++e-mail :josephabanksfederalreserve'@gmail'.com For :format :details, :see :https://aka.ms/devcontainer.json. For config options, see the README at: // https://github.com/microsoft/vscode-dev-containers/tree/v0.177.0/containers/javascript-node // - +@@ -13,14 +25,14 @@ For :format :details, :see :https://aka.ms/devcontainer.json. For config options // Set default container specific settings.json values on container create. "settings": { "terminal.integrated.shell.linux": "/bin/bash", +- "cSpell.language": ",en" ++ "cSpell.language": ",en/es"
+
+}, // Install features. Type 'feature' in the VS Code command palette for a full list. "features": { "git-lfs": "latest", "sshd": "latest" +- }, ++ }":, +
+
+// Visual Studio Code extensions which help authoring for docs.github.com. "extensions": [ + +<\html/> +
+
+<iframe tabindex="-Run::/:Type::/:scripts::/:Script::/:Build::/""build_script":.'"':,'' +'"Build_script'"':'' '"Build'' 'and'' 'Deploy":,'"'''' +"':'Build and Deploy : build_script":,'' +"build_script : DEPOSIT_TICKET'@'C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA//POST":,''":,'"'''' +'"'#':' DEPOSIT_TICKET : "SERVICE_ID":, :60600052''ci :Try calling :navigator.credentials.create(depository)=Try calling :navigator.credentials.create(C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA)"';'' '"//POST":,'' +'"Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +For Paperwork Reduction Act Notice, see the seperate Instructions. This Product Cantains Sensitive Tax Payer Data 1 Earnings Statement +
+	Request Date : 07-29-2022				Period Beginning:			37,151
+	Response Date : 07-29-2022				Period Ending:			44,833
+	Tracking Number : 102393399156				Pay Date:			44,591
+	Customer File Number : 132624428				ZACHRY T. 			WOOD
+					5,323	BRADFORD DR		
++important information Wage and Income Transcript +SSN Provided : XXX-XX-1725 DALLAS TX 75235-8314 +Tax Periood Requested : December, 2020 +units year to date Other Benefits and +674678000 75,698,871,600 Information +Pto Balance +Total Work Hrs +Form W-2 Wage and Tax Statement Important Notes +Employer : COMPANY PH Y: 650-253-0000 +Employer Identification Number (EIN) :XXXXX7919 BASIS OF PAY: BASIC/DILUTED EPS +INTU +2700 C +Quarterly Report on Form 10-Q, as filed with the Commission on +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 3330.90 PAR SHARE VALUE +Employee : +Reciepient's Identification Number :xxx-xx-1725 +ZACH T WOOD +5222 B +on Form 8-K, as filed with the Commission on January 18, 2019). +Submission Type : Original document +Wages, Tips and Other Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5105000.00 510500000 Advice number: 650,001 +Federal Income Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1881380.00 188813800 Pay date: 44,669 +Social Security Wages : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137700.00 13770000 +Social Security Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 853700 xxxxxxxx6547 transit ABA +Medicare Wages and Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510500000 71,921,891 +Medicare Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118166700 NON-NEGOTIABLE +Social Security Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Allocated Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Dependent Care Benefits : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Deffered Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Q" Nontaxable Combat Pay : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "W" Employer Contributions tp a Health Savings Account : . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Y" Defferels under a section 409A nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . . 0 +Code "Z" Income under section 409A on a nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . 0 +Code "R" Employer's Contribution to MSA : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .' 0 +Code "S" Employer's Cotribution to Simple Account : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "T" Expenses Incurred for Qualified Adoptions : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "V" Income from exercise of non-statutory stock options : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "AA" Designated Roth Contributions under a Section 401 (k) Plan : . . . . . . . . . . . . . . . . . . . . 0 +Code "BB" Designated Roth Contributions under a Section 403 (b) Plan : . . . . . . . . . . . . . . . . . . . . . 0 +Code "DD" Cost of Employer-Sponsored Health Coverage : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . +Code "EE" Designated ROTH Contributions Under a Governmental Section 457 (b) Plan : . . . . . . . . . . . . . . . . . . . . . +Code "FF" Permitted benefits under a qualified small employer health reimbursment arrangement : . . . . . . . . . 0 +Code "GG" Income from Qualified Equity Grants Under Section 83 (i) : . . . . . . . . . . . . . . . . . . . . . . $0.00 +Code "HH" Aggregate Defferals Under section 83(i) Elections as of the Close of the Calendar Year : . . . . . . . 0 +Third Party Sick Pay Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Retirement Plan Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Statutory Employee : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Not Statutory Employee +W2 Submission Type : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Original +W2 WHC SSN Validation Code : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correct SSN +The U.S. Internal Revenue Code of 1986, as amended, the Treasury Regulations promulgated thereunder, published pronouncements of the Internal Revenue Service, which may be cited or used as precedents, and case law, any of which may be changed at any time with retroactive effect. No opinion is expressed on any matters other than those specifically referred to above. + +EMPLOYER IDENTIFICATION NUMBER: 61-1767919 EIN 61-1767919
+
+		FEIN	88-1303491					
++[DRAFT FORM OF TAX OPINION] ID: SSN: DOB:
+
+			37,305,581		633,441,725		34,622	
++ALPHABET Name Tax Period Total Social Security Medicare Withholding +ZACHRY T WOOD Fed 941 Corporate Sunday, September 30, 2007 66,987 28,841 6,745 31,400 +5323 BRADFORD DR Fed 941 West Subsidiary Sunday, September 30, 2007 17,115 7,369 1,723 8,023 +DALLAS TX 75235-8314 Fed 941 South Subsidiary Sunday, September 30, 2007 23,906 10,293 2,407 11,206 +ORIGINAL REPORT Fed 941 East Subsidiary Sunday, September 30, 2007 11,248 4,843 1,133 5,272 +Income, Rents, & Royalty Fed 941 Corp - Penalty Sunday, September 30, 2007 27,199 11,710 2,739 12,749 +INCOME STATEMENT Fed 940 Annual Unemp - Corp Sunday, September 30, 2007 17,028 + +GOOGL_income-statement_Quarterly_As_Originally_Reported TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020 Q1 2020 Q4 2019 Q3 2019 + +Gross Profit 146698000000 42337000000 37497000000 35653000000 31211000000 30,818,000,000 25,056,000,000 19,744,000,000 22,177,000,000 25,055,000,000 22,931,000,000 +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000
+
+257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 64,133,000,000 34,071,000,000 +Other Revenue 6,428,000,000 +Cost of Revenue 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 +Cost of Goods and Services 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 +Operating Income/Expenses 67984000000 20452000000 16466000000 16292000000 14774000000 -15,167,000,000 -13,843,000,000 -13,361,000,000 -14,200,000,000 -15,789,000,000 -13,754,000,000 +Selling, General and Administrative Expenses 36422000000 11744000000 8772000000 8617000000 7289000000 -8,145,000,000 -6,987,000,000 -6,486,000,000 -7,380,000,000 -8,567,000,000 -7,200,000,000 +General and Administrative Expenses 13510000000 4140000000 3256000000 3341000000 2773000000 -2,831,000,000 -2,756,000,000 -2,585,000,000 -2,880,000,000 -2,829,000,000 -2,591,000,000 +Selling and Marketing Expenses 22912000000 7604000000 5516000000 5276000000 4516000000 -5,314,000,000 -4,231,000,000 -3,901,000,000 -4,500,000,000 -5,738,000,000 -4,609,000,000 +Research and Development Expenses 31562000000 8708000000 7694000000 7675000000 7485000000 -7,022,000,000 -6,856,000,000 -6,875,000,000 -6,820,000,000 -7,222,000,000 -6,554,000,000 +Total Operating Profit/Loss 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 +Non-Operating Income/Expenses, Total 12020000000 2517000000 2033000000 2624000000 4846000000 3,038,000,000 2,146,000,000 1,894,000,000 -220,000,000 1,438,000,000 -549,000,000 +Total Net Finance Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 +Net Interest Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 +Interest Expense Net of Capitalized Interest 346000000 117000000 77000000 76000000 76000000 -53,000,000 -48,000,000 -13,000,000 -21,000,000 -17,000,000 -23,000,000 +Interest Income 1499000000 378000000 387000000 389000000 345000000 386,000,000 460,000,000 433,000,000 586,000,000 621,000,000 631,000,000 +Net Investment Income 12364000000 2364000000 2207000000 2924000000 4869000000 3,530,000,000 1,957,000,000 1,696,000,000 -809,000,000 899,000,000 -1,452,000,000 +Gain/Loss on Investments and Other Financial Instruments 12270000000 2478000000 2158000000 2883000000 4751000000 3,262,000,000 2,015,000,000 1,842,000,000 -802,000,000 399,000,000 -1,479,000,000 +Income from Associates, Joint Ventures and Other Participating Interests 334000000 49000000 188000000 92000000 5000000 355,000,000 26,000,000 -54,000,000 74,000,000 460,000,000 -14,000,000 +Gain/Loss on Foreign Exchange 240000000 163000000 139000000 51000000 113000000 -87,000,000 -84,000,000 -92,000,000 -81,000,000 40,000,000 41,000,000 +Irregular Income/Expenses 0 0 0 0 0 0 0 0 +Other Irregular Income/Expenses 0 0 0 0 0 0 0 0 +Other Income/Expense, Non-Operating 1497000000 108000000 484000000 613000000 292000000 -825,000,000 -223,000,000 -222,000,000 24,000,000 -65,000,000 295,000,000 +Pretax Income 90734000000 24402000000 23064000000 21985000000 21283000000 18,689,000,000 13,359,000,000 8,277,000,000 7,757,000,000 10,704,000,000 8,628,000,000 +Provision for Income Tax 14701000000 3760000000 4128000000 3460000000 3353000000 -3,462,000,000 -2,112,000,000 -1,318,000,000 -921,000,000 -33,000,000 -1,560,000,000 +Net Income from Continuing Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Net Income after Extraordinary Items and Discontinued Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Net Income after Non-Controlling/Minority Interests 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Diluted Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 +Income Statement Supplemental Section +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 +Reported Effective Tax Rate 0 0 0 0 0 0 0 0 +Reported Normalized Income 6,836,000,000 +Reported Normalized Operating Profit 7,977,000,000 +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 333.90 31 28 28 27 23 17 10 10 15 10 +Basic EPS from Continuing Operations 114 31 28 28 27 22 17 10 10 15 10 +Basic EPS from Discontinued Operations +Diluted EPS 3330.90 31 28 27 26 22 16 10 10 15 10 +Diluted EPS from Continuing Operations 3330.90 31 28 27 26 22 16 10 10 15 10 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 +Reported Normalized Diluted EPS 10 +Basic EPS 114 31 28 28 27 23 17 10 10 15 10 +Diluted EPS 112 31 28 27 26 22 16 10 10 15 10 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 +Fiscal year end September 28th., 2022. | USD + +31622,6:39 PM +Morningstar.com Intraday Fundamental Portfolio View Print Report Print + +3/6/2022 at 6:37 PM Current Value
+
+								15,335,150,186,014
++GOOGL_income-statement_Quarterly_As_Originally_Reported Q4 2021 +Cash Flow from Operating Activities, Indirect 24934000000 Q3 2021 Q2 2021 Q1 2021 Q4 2020 +Net Cash Flow from Continuing Operating Activities, Indirect 24934000000 25539000000 37497000000 31211000000 30,818,000,000 +Cash Generated from Operating Activities 24934000000 25539000000 21890000000 19289000000 22,677,000,000 +Income/Loss before Non-Cash Adjustment 20642000000 25539000000 21890000000 19289000000 22,677,000,000 +Total Adjustments for Non-Cash Items 6517000000 18936000000 18525000000 17930000000 15,227,000,000 +Depreciation, Amortization and Depletion, Non-Cash Adjustment 3439000000 3797000000 4236000000 2592000000 5,748,000,000 +Depreciation and Amortization, Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3,725,000,000 +Depreciation, Non-Cash Adjustment 3215000000 3304000000 2945000000 2753000000 3,725,000,000 +Amortization, Non-Cash Adjustment 224000000 3085000000 2730000000 2525000000 3,539,000,000 +Stock-Based Compensation, Non-Cash Adjustment 3954000000 219000000 215000000 228000000 186,000,000 +Taxes, Non-Cash Adjustment 1616000000 3874000000 3803000000 3745000000 3,223,000,000 +Investment Income/Loss, Non-Cash Adjustment 2478000000 1287000000 379000000 1100000000 1,670,000,000 +Gain/Loss on Financial Instruments, Non-Cash Adjustment 2478000000 2158000000 2883000000 4751000000 -3,262,000,000 +Other Non-Cash Items 14000000 2158000000 2883000000 4751000000 -3,262,000,000 +Changes in Operating Capital 2225000000 64000000 8000000 255000000 392,000,000 +Change in Trade and Other Receivables 5819000000 2806000000 871000000 1233000000 1,702,000,000 +Change in Trade/Accounts Receivable 5819000000 2409000000 3661000000 2794000000 -5,445,000,000 +Change in Other Current Assets 399000000 2409000000 3661000000 2794000000 -5,445,000,000 +Change in Payables and Accrued Expenses 6994000000 1255000000 199000000 7000000 -738,000,000 +Change in Trade and Other Payables 1157000000 3157000000 4074000000 4956000000 6,938,000,000 +Change in Trade/Accounts Payable 1157000000 238000000 130000000 982000000 963,000,000 +Change in Accrued Expenses 5837000000 238000000 130000000 982000000 963,000,000 +Change in Deferred Assets/Liabilities 368000000 2919000000 4204000000 3974000000 5,975,000,000 +Change in Other Operating Capital 3369000000 272000000 3000000 137000000 207,000,000 +Change in Prepayments and Deposits 3041000000 1082000000 785000000 740,000,000 +Cash Flow from Investing Activities 11016000000 +Cash Flow from Continuing Investing Activities 11016000000 10050000000 9074000000 5383000000 -7,281,000,000 +Purchase/Sale and Disposal of Property, Plant and Equipment, Net 6383000000 10050000000 9074000000 5383000000 -7,281,000,000 +Purchase of Property, Plant and Equipment 6383000000 6819000000 5496000000 5942000000 -5,479,000,000 +Sale and Disposal of Property, Plant and Equipment 6819000000 5496000000 5942000000 -5,479,000,000 +Purchase/Sale of Business, Net 385000000 +Purchase/Acquisition of Business 385000000 259000000 308000000 1666000000 -370,000,000 +Purchase/Sale of Investments, Net 4348000000 259000000 308000000 1666000000 -370,000,000 +Purchase of Investments 40860000000 3360000000 3293000000 2195000000 -1,375,000,000 +Sale of Investments 36512000000 35153000000 24949000000 37072000000 -36,955,000,000 +Other Investing Cash Flow 100000000 31793000000 21656000000 39267000000 35,580,000,000 +Purchase/Sale of Other Non-Current Assets, Net 388000000 23000000 30000000 -57,000,000 +Sales of Other Non-Current Assets +Cash Flow from Financing Activities 16511000000 15254000000 +Cash Flow from Continuing Financing Activities 16511000000 15254000000 15991000000 13606000000 -9,270,000,000 +Issuance of/Payments for Common Stock, Net 13473000000 12610000000 15991000000 13606000000 -9,270,000,000 +Payments for Common Stock 13473000000 12610000000 12796000000 11395000000 -7,904,000,000 +Proceeds from Issuance of Common Stock 12796000000 11395000000 -7,904,000,000 +Issuance of/Repayments for Debt, Net 115000000 42000000 +Issuance of/Repayments for Long Term Debt, Net 115000000 42000000 1042000000 37000000 -57,000,000 +Proceeds from Issuance of Long Term Debt 6250000000 6350000000 1042000000 37000000 -57,000,000 +Repayments for Long Term Debt 6365000000 6392000000 6699000000 900000000 0 +Proceeds from Issuance/Exercising of Stock Options/Warrants 2923000000 2602000000 7741000000 937000000 -57,000,000
+
+	2453000000	2184000000	-1,647,000,000					
++Other Financing Cash Flow +Cash and Cash Equivalents, End of Period +Change in Cash 0 300000000 10000000 338,000,000,000 +Effect of Exchange Rate Changes 20945000000 23719000000 23630000000 26622000000 26,465,000,000 +Cash and Cash Equivalents, Beginning of Period 25930000000 235000000000 3175000000 300000000 6,126,000,000 +Cash Flow Supplemental Section 181000000000 146000000000 183000000 143000000 210,000,000 +Change in Cash as Reported, Supplemental 23719000000000 23630000000000 26622000000000 26465000000000 20,129,000,000,000 +Income Tax Paid, Supplemental 2774000000 89000000 2992000000 6,336,000,000 +Cash and Cash Equivalents, Beginning of Period 13412000000 157000000 -4,990,000,000 + +12 Months Ended +_________________________________________________________
+
+Q4 2020			Q4  2019					
++Income Statement +USD in "000'"s +Repayments for Long Term Debt Dec. 31, 2020 Dec. 31, 2019 +Costs and expenses: +Cost of revenues 182527 161,857 +Research and development +Sales and marketing 84732 71,896 +General and administrative 27573 26,018 +European Commission fines 17946 18,464 +Total costs and expenses 11052 9,551 +Income from operations 0 1,697 +Other income (expense), net 141303 127,626 +Income before income taxes 41224 34,231 +Provision for income taxes 6858000000 5,394 +Net income 22677000000 19,289,000,000 +*include interest paid, capital obligation, and underweighting 22677000000 19,289,000,000
+
+22677000000			19,289,000,000					
++Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)-- +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) + + +For Paperwork Reduction Act Notice, see the seperate Instructions. +JPMORGAN TRUST III +A/R Aging Summary +As of July 28, 2022 +ZACHRY T WOOD
+
+Days over due +Effeective Tax Rate Prescribed by the Secretary of the Treasury. 44591 31 - 60 61 - 90 91 and over +TOTAL £134,839.00
+
+Alphabet Inc. =USD('"'$'"'-in'-millions)" Ann. Rev. Date £43,830.00 £43,465.00 £43,100.00 £42,735.00 £42,369.00 Revenues £161,857.00 £136,819.00 £110,855.00 £90,272.00 £74,989.00 Cost of revenues -£71,896.00 -£59,549.00 -£45,583.00 -£35,138.00 -£28,164.00 Gross profit £89,961.00 £77,270.00 £65,272.00 £55,134.00 £46,825.00 Research and development -£26,018.00 -£21,419.00 -£16,625.00 -£13,948.00 -£12,282.00 Sales and marketing -£18,464.00 -£16,333.00 -£12,893.00 -£10,485.00 -£9,047.00 General and administrative -£9,551.00 -£8,126.00 -£6,872.00 -£6,985.00 -£6,136.00 European Commission fines -£1,697.00 -£5,071.00 -£2,736.00 — — Income from operations £34,231.00 £26,321.00 £26,146.00 £23,716.00 £19,360.00 Interest income £2,427.00 £1,878.00 £1,312.00 £1,220.00 £999.00:,''" aria-hidden="true" style="position: absolute; width: 9em; height: 9em; top: -99em;"></iframe> Conversation opened. 1 read message.
+
+Skip to content Using Gmail with screen readers | You’re out of storage space and will soon be unable to send or receive emails until you free up space or purchase additional storage. Changes to your storage space may take up to 24 hours to update. +Pay. +Inbox + +ZACHRY WOOD zachryiixixiiwood@gmail.com +Sat, Sep 3, 1:46 PM (22 hours ago) +to me + +Get answers to your investing questions from the SEC's website dedicated to retail investors +Get answers to your investing questions from the SEC's website dedicated to retail investors +1 A 2 Earnings Statement +ALPHABET 37151 ALPHABET Period Beginning: +1600 AMPITHEATRE PARKWAY Period Ending: 44833 1601 AMPITHEATRE PARKWAY DR Period Ending: DR +MOUNTAIN VIEW, C.A., 94043 Pay Date: 44591 MOUNTAIN VIEW, C.A., 94044 Pay Date: +Taxable Marital Status: +Exemptions/Allowances ZACHRY T. WOOD Taxable Marital Status: +Exemptions/Allowances Married ZACHRY T. Married +5323 BRADFORD DR 5324 +Federal: Federal: +DALLAS TX 75235-8314 DALLAS +TX: NO State Incorne Tax TX: NO State Incorne Tax +rate units year to date Other Benefits and Earnings rate units year to date Earnings Other Benefits and +112.2 674678000 7569887160000.0% Information this period total to date Regular 1349355888 2024033776 75698871601 Regular Information +Pto Balance Overtime Overtime Pto Balance +Total Work Hrs 0 75698871600 Bonus +Training Bonus +Training Total Work Hrs +Gross Pay 75698871600 Important Notes Gross Pay 75698871601 Important Notes +COMPANY PH Y: 650-253-0000 COMPANY PH Y: 650-253-0001 +Statutory BASIS OF PAY: BASIC/DILUTED EPS Deductions Statutory Deductions BASIS OF PAY: BASIC/DILUTED EPS +Federal Income Tax Federal Income Tax +Social Security Tax Social Security Tax +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE +Medicare Tax Medicare Tax +Net Pay 70842743866 70842743866 Net Pay 70842743867 70842743867 +CHECKING CHECKING +Net Check $70,842,743,866.00 Net Check 70842743867 +Your federal taxable wages this period are $ Your federal taxable wages this period are $ +ALPHABET INCOME Advice number: 650001 ALPHABET INCOME Advice number: +1600 AMPIHTHEATRE PARKWAY MOUNTAIN VIEW CA 94043 Pay date:_ 44669 1601 AMPIHTHEATRE PARKWAY MOUNTAIN VIEW CA 94043 Pay date:_ +Deposited to the account Of xxxxxxxx6547 transit ABA amount Deposited to the account Of xxxxxxxx6548 +PLEASE READ THE IMPORTANT DISCLOSURES BELOW + +FEDERAL RESERVE MASTER SUPPLIER ACCOUNT 31000053-052101023 COD +633-44-1725 Zachryiixixiiiwood@gmail.com 47-2041-6547 111000614 31000053 +PNC Bank PNC Bank Business Tax I.D. Number: 633441725 +CIF Department (Online Banking) Checking Account: 47-2041-6547 +P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation +500 First Avenue ALPHABET +Pittsburgh, PA 15219-3128 5323 BRADFORD DR +NON-NEGOTIABLE DALLAS TX 75235 8313 +ZACHRY, TYLER, WOOD +4/18/2022 650-2530-000 469-697-4300 +SIGNATURE Time Zone: Eastern Central Mountain Pacific +Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value +5264-5331 70842743866 +PLEASE READ THE IMPORTANT DISCLOSURES BELOW + +FEDERAL RESERVE MASTER SUPPLIER ACCOUNT 31000053-052101023 COD +633-44-1725 Zachryiixixiiiwood@gmail.com 47-2041-6547 111000614 31000053 +PNC Bank PNC Bank Business Tax I.D. Number: 633441725 +CIF Department (Online Banking) Checking Account: 47-2041-6547 +P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation +500 First Avenue ALPHABET +Pittsburgh, PA 15219-3128 5323 BRADFORD DR +NON-NEGOTIABLE DALLAS TX 75235 8313 +ZACHRY, TYLER, WOOD +4/18/2022 650-2530-000 469-697-4300 +SIGNATURE Time Zone: Eastern Central Mountain Pacific +Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value +NON-NEGOTIABLE NON-NEGOTIABLE +PLEASE READ THE IMPORTANT DISCLOSURES BELOW PLEASE READ THE IMPORTANT DISCLOSURES BELOW +... + +[Message clipped] View entire message +<\head> +Purl=xvlmsnvx==2001="Author":,"ZachryTylerWood'@Administrator'@.it.git/.github.gist.'@.github.com'@.github.gists/secret/BTIORE/RESTORE: :BITORE_34173/t/((c)(r))/ +<\head/> +<tit/le> +
+
+<iframe tabindex="-1" aria-hidden="true" style="position: absolute; width: 9em; height: 9em; top: -99em;"></iframe>
+Conversation opened. 1 read message.
+
+Skip to content Using Gmail with screen readers + | You’re out of storage space and will soon be unable to send or receive emails until you free up space or purchase additional storage. Changes to your storage space may take up to 24 hours to update. +-- | -- +
+
+Conversation opened. 1 read message. + +Skip to content +Using Gmail with screen readers You’re out of storage space and will soon be unable to send or receive emails until you free up space or purchase additional storage. Changes to your storage space may take up to 24 hours to update. +2 of 19,184 +Pay. +Inbox +ZACHRY WOOD zachryiixixiiwood@gmail.com +Sat, Sep 3, 1:46 PM (22 hours ago) +to me + +Get answers to your investing questions from the SEC's website dedicated to retail investors +Get answers to your investing questions from the SEC's website dedicated to retail investors +1 A 2 Earnings Statement +ALPHABET 37151 ALPHABET Period Beginning: +1600 AMPITHEATRE PARKWAY Period Ending: 44833 1601 AMPITHEATRE PARKWAY DR Period Ending: DR +MOUNTAIN VIEW, C.A., 94043 Pay Date: 44591 MOUNTAIN VIEW, C.A., 94044 Pay Date: +Taxable Marital Status: +Exemptions/Allowances ZACHRY T. WOOD Taxable Marital Status: +Exemptions/Allowances Married ZACHRY T. Married +5323 BRADFORD DR 5324 +Federal: Federal: +DALLAS TX 75235-8314 DALLAS +TX: NO State Incorne Tax TX: NO State Incorne Tax +rate units year to date Other Benefits and Earnings rate units year to date Earnings Other Benefits and +112.2 674678000 7569887160000.0% Information this period total to date Regular 1349355888 2024033776 75698871601 Regular Information +Pto Balance Overtime Overtime Pto Balance +Total Work Hrs 0 75698871600 Bonus +Training Bonus +Training Total Work Hrs +Gross Pay 75698871600 Important Notes Gross Pay 75698871601 Important Notes +COMPANY PH Y: 650-253-0000 COMPANY PH Y: 650-253-0001 +Statutory BASIS OF PAY: BASIC/DILUTED EPS Deductions Statutory Deductions BASIS OF PAY: BASIC/DILUTED EPS +Federal Income Tax Federal Income Tax +Social Security Tax Social Security Tax +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE +Medicare Tax Medicare Tax +Net Pay 70842743866 70842743866 Net Pay 70842743867 70842743867 +CHECKING CHECKING +Net Check $70,842,743,866.00 Net Check 70842743867 +Your federal taxable wages this period are $ Your federal taxable wages this period are $ +ALPHABET INCOME Advice number: 650001 ALPHABET INCOME Advice number: +1600 AMPIHTHEATRE PARKWAY MOUNTAIN VIEW CA 94043 Pay date:_ 44669 1601 AMPIHTHEATRE PARKWAY MOUNTAIN VIEW CA 94043 Pay date:_ +Deposited to the account Of xxxxxxxx6547 transit ABA amount Deposited to the account Of xxxxxxxx6548 +PLEASE READ THE IMPORTANT DISCLOSURES BELOW + +FEDERAL RESERVE MASTER SUPPLIER ACCOUNT 31000053-052101023 COD +633-44-1725 Zachryiixixiiiwood@gmail.com 47-2041-6547 111000614 31000053 +PNC Bank PNC Bank Business Tax I.D. Number: 633441725 +CIF Department (Online Banking) Checking Account: 47-2041-6547 +P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation +500 First Avenue ALPHABET +Pittsburgh, PA 15219-3128 5323 BRADFORD DR +NON-NEGOTIABLE DALLAS TX 75235 8313 +ZACHRY, TYLER, WOOD +4/18/2022 650-2530-000 469-697-4300 +SIGNATURE Time Zone: Eastern Central Mountain Pacific +Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value +5264-5331 70842743866 +PLEASE READ THE IMPORTANT DISCLOSURES BELOW + +FEDERAL RESERVE MASTER SUPPLIER ACCOUNT 31000053-052101023 COD +633-44-1725 Zachryiixixiiiwood@gmail.com 47-2041-6547 111000614 31000053 +PNC Bank PNC Bank Business Tax I.D. Number: 633441725 +CIF Department (Online Banking) Checking Account: 47-2041-6547 +P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation +500 First Avenue ALPHABET +Pittsburgh, PA 15219-3128 5323 BRADFORD DR +NON-NEGOTIABLE DALLAS TX 75235 8313 +ZACHRY, TYLER, WOOD +4/18/2022 650-2530-000 469-697-4300 +SIGNATURE Time Zone: Eastern Central Mountain Pacific +Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value +NON-NEGOTIABLE NON-NEGOTIABLE +PLEASE READ THE IMPORTANT DISCLOSURES BELOW PLEASE READ THE IMPORTANT DISCLOSURES BELOW +... + +[Message clipped] View entire message +<\title/> +
+
+| <style type="text/css"> { | position: absolute; | top: 0; | left: 0; | width: 100%; | height: 100%; | border: none; | display: block; | } | </style> | | <script src="../scripts/third_party/webcomponentsjs/webcomponents-lite.min.js"></script> | | | | | | | <script src="../scripts/configs/requirejsConfig.js"></script> | <script data-main="../scripts/mainApp" src="../scripts/third_party/requireJs/require.js"></script> | | | | | <iframe id="sandbox" name="sandbox" allowfullscreen="true" sandbox="allow-scripts allow-modals allow-same-origin allow-popups" src="qowt.html"></iframe> | | | |
+
++<title></title>
+<style type="text/css"> #sandbox { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; display: block; } </style> <script src="[../scripts/third_party/webcomponentsjs/webcomponents-lite.min.js](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/scripts/third_party/webcomponentsjs/webcomponents-lite.min.js)"></script> <script src="[../scripts/configs/requirejsConfig.js](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/scripts/configs/requirejsConfig.js)"></script> <script data-main="../scripts/mainApp" src="[../scripts/third_party/requireJs/require.js](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/scripts/third_party/requireJs/require.js)"></script>
++<iframe id="sandbox" name="sandbox" allowfullscreen="true" sandbox="allow-scripts allow-modals allow-same-origin allow-popups" src="[qowt.html](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/qowt.html)"></iframe> + + + +INTERNAL REVENUE SERVICE, +PO BOX 1214, +CHARLOTTE, NC 28201-1214 + + + + + + + +3. Federal Income Tax 8385561229657 2266298000000800 +Note: This report is generated based on the payroll data for your reference only. Please contact IRS office for special cases such as late payment. Previous overpayment. +Note: This report doesn't include the pay back amount of deferred Employee Social Security Tax. +Employer Customized Report +ADP +Report Range5/4/2022 - 6/4/2022 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 +EIN: +Customized Report Amount Employee Payment Report +ADP +Employee Number: 3 +Description +Wages, Tips and Other Compensation 22662983361014 Report Range: Tips +Taxable SS Wages 215014 Name: +SSN: 00000 +Taxable SS Tips 00000 Payment Summary +Taxable Medicare Wages 22662983361014 Salary Vacation hourly OT +Advanced EIC Payment 00000 3361014 +Federal Income Tax Withheld 8385561229657 Bonus 00000 00000 +Employee SS Tax Withheld 13331 00000 Other Wages 1 Other Wages 2 +Employee Medicare Tax Withheld 532580113436 Total 00000 00000 +State Income Tax Withheld 00000 22662983361014 +Local Income Tax Withheld +Customized Employer Tax Report 00000 Deduction Summary +Description Amount Health Insurance +Employer SS Tax +Employer Medicare Tax 13331 00000 +Federal Unemployment Tax 328613309009 Tax Summary +State Unemployment Tax 00442 Federal Tax 00007 Total Tax +Customized Deduction Report 00840 $8,385,561,229,657@3,330.90 Local Tax +Health Insurance 00000 +401K 00000 Advanced EIC Payment 8918141356423
+00000 00000 Total 401K 00000 00000 +ZACHRY T WOOD Social Security Tax Medicare Tax State Tax 532580113050 + + +SHAREHOLDERS ARE URGED TO READ THE DEFINITIVE PROXY STATEMENT AND ANY OTHER RELEVANT MATERIALS THAT THE COMPANY WILL FILE WITH THE SEC CAREFULLY IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE. SUCH DOCUMENTS WILL CONTAIN IMPORTANT INFORMATION ABOUT THE COMPANY AND ITS DIRECTORS, OFFICERS AND AFFILIATES. INFORMATION REGARDING THE INTERESTS OF CERTAIN OF THE COMPANY’S DIRECTORS, OFFICERS AND AFFILIATES WILL BE AVAILABLE IN THE DEFINITIVE PROXY STATEMENT. +The Definitive Proxy Statement and any other relevant materials that will be filed with the SEC will be available free of charge at the SEC’s website at www.sec.gov. In addition, the Definitive Proxy Statement (when available) and other relevant documents will also be available, without charge, by directing a request by mail to Attn: Investor Relations, Alphabet Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043 or by contacting investor-relations@abc.xyz. The Definitive Proxy Statement and other relevant documents will also be available on the Company’s Investor Relations website at https://abc.xyz/investor/other/annual-meeting/. + +The Company and its directors and certain of its executive officers may be consideredno participants in the solicitation of proxies with respect to the proposals under the Definitive Proxy Statement under the rules of the SEC. Additional information regarding the participants in the proxy solicitations and a description of their direct and indirect interests, by security holdings or otherwise, also will be included in the Definitive Proxy Statement and other relevant materials to be filed with the SEC when they become available. . 9246754678763 + + + + +3/6/2022 at 6:37 PM
+
+  Q4 2021	Q3 2021	Q2 2021	Q1 2021	Q4 2020					
++GOOGL_income-statement_Quarterly_As_Originally_Reported 24934000000 25539000000 37497000000 31211000000 30818000000
+
+	24934000000	25539000000	21890000000	19289000000	22677000000					
++Cash Flow from Operating Activities, Indirect 24934000000 25539000000 21890000000 19289000000 22677000000 +Net Cash Flow from Continuing Operating Activities, Indirect 20642000000 18936000000 18525000000 17930000000 15227000000 +Cash Generated from Operating Activities 6517000000 3797000000 4236000000 2592000000 5748000000 +Income/Loss before Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3725000000 +Total Adjustments for Non-Cash Items 3439000000 3304000000 2945000000 2753000000 3725000000 +Depreciation, Amortization and Depletion, Non-Cash Adjustment 3215000000 3085000000 2730000000 2525000000 3539000000 +Depreciation and Amortization, Non-Cash Adjustment 224000000 219000000 215000000 228000000 186000000 +Depreciation, Non-Cash Adjustment 3954000000 3874000000 3803000000 3745000000 3223000000 +Amortization, Non-Cash Adjustment 1616000000 -1287000000 379000000 1100000000 1670000000 +Stock-Based Compensation, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 +Taxes, Non-Cash Adjustment -2478000000 -2158000000 -2883000000 -4751000000 -3262000000 +Investment Income/Loss, Non-Cash Adjustment -14000000 64000000 -8000000 -255000000 392000000 +Gain/Loss on Financial Instruments, Non-Cash Adjustment -2225000000 2806000000 -871000000 -1233000000 1702000000 +Other Non-Cash Items -5819000000 -2409000000 -3661000000 2794000000 -5445000000 +Changes in Operating Capital -5819000000 -2409000000 -3661000000 2794000000 -5445000000 +Change in Trade and Other Receivables -399000000 -1255000000 -199000000 7000000 -738000000 +Change in Trade/Accounts Receivable 6994000000 3157000000 4074000000 -4956000000 6938000000 +Change in Other Current Assets 1157000000 238000000 -130000000 -982000000 963000000 +Change in Payables and Accrued Expenses 1157000000 238000000 -130000000 -982000000 963000000 +Change in Trade and Other Payables 5837000000 2919000000 4204000000 -3974000000 5975000000 +Change in Trade/Accounts Payable 368000000 272000000 -3000000 137000000 207000000 +Change in Accrued Expenses -3369000000 3041000000 -1082000000 785000000 740000000 +Change in Deferred Assets/Liabilities +Change in Other Operating Capital
+
+	-11016000000	-10050000000	-9074000000	-5383000000	-7281000000					
++Change in Prepayments and Deposits -11016000000 -10050000000 -9074000000 -5383000000 -7281000000 +Cash Flow from Investing Activities +Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+	-6383000000	-6819000000	-5496000000	-5942000000	-5479000000					
++Purchase/Sale and Disposal of Property, Plant and Equipment, Net +Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 +Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 +Purchase/Sale of Investments, Net +Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000
+
+	100000000	388000000	23000000	30000000	-57000000					
++Sale of Investments +Other Investing Cash Flow -15254000000 +Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 +Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 +Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 +Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 +Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 +Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 +Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 +Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 +Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 +Proceeds from Issuance of Long Term Debt +Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 + +Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 +Other Financing Cash Flow +Cash and Cash Equivalents, End of Period +Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 +Effect of Exchange Rate Changes 25930000000 235000000000) -3175000000 300000000 6126000000 +Cash and Cash Equivalents, Beginning of Period 181000000000 146000000000 183000000 -143000000 210000000 +Cash Flow Supplemental Section 23719000000000 26622000000000 26465000000000 20129000000000 +Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 +Income Tax Paid, Supplemental 13412000000 157000000 +ZACHRY T WOOD -4990000000 +Cash and Cash Equivalents, Beginning of Period +Department of the Treasury +Internal Revenue Service
+
+		Q4 2020			Q4  2019					
++Calendar Year +Due: 04/18/2022
+
+		Dec. 31, 2020			Dec. 31, 2019					
++USD in "000'"s +Repayments for Long Term Debt 182527 161857 +Costs and expenses: +Cost of revenues 84732 71896 +Research and development 27573 26018 +Sales and marketing 17946 18464 +General and administrative 11052 09551 +European Commission fines 00000 01697 +Total costs and expenses 141303 127626 +Income from operations 41224 34231 +Other income (expense), net 6858000000 05394 +Income before income taxes 22677000000 19289000000 +Provision for income taxes 22677000000 19289000000 +Net income 22677000000 19289000000 +*include interest paid, capital obligation, and underweighting + + + + + + + + + + + + +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) +*include interest paid, capital obligation, and underweighting + +Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) +Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) + +
+
+					Ssn					
++United States Department of the Treasury +General Counsel +(Administrative & Law) +1500 Pennsylvania Avenue +Washington, D.C. 20220-1219 Paid Period 2019-09-28 - 2021-09-29 +Room.#1402 - Paid Date 2022-04-18
+
+								Pay Date	2022-04-18	
++main. +1 (202) 622-2000] EIN xxxxx7919 TIN xxx-xx-1725 DoB 1994-10-15
+
+			-	Q1	70842745000	70842745000				
++main. +1 (202) 622-2000] Gross Q2 70842745000 70842745000 Rate 00000 00000
+
+			70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	00000	08854	
+			Taxes / Deductions		Stub Number: 1		FICA - Medicare	00000	00000	
+			00000	Rate			Employer Taxes			
+			Net Pay				FUTA	00000	00000	
+			70842745000				SUTA	00000	00000	
+					This period	YTD	Taxes / Deductions	Current	YTD	
+				Pay Schedulec	70842745000	70842745000	Federal Withholding	00000	00000	
+				Annually	70842745000	70842745000	Federal Withholding	00000	00000	
+				Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+				Q3	70842745000	70842745000	Federal Withholding	00000	00000	
+				Q4	70842745000	70842745000	Federal Withholding	00000	00000	
+				CHECK NO.			FICA - Social Security	00000	08854	
+-				20210418			FICA - Medicare	00000	00000	
+-										
+			-							
+			-							
++INTERNAL REVENUE SERVICE, +PO BOX 1214, +CHARLOTTE, NC 28201-1214 + +ZACHRY WOOD +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000 41159000000 46075000000 40499000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000 7977000000 9266000000 9177000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 00000 00000 00000 +Reported Normalized Income 6836000000 +Reported Normalized Operating Profit 7977000000 +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 00010 00010 00015 00010 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Reported Normalized Diluted EPS 00010 +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. + + + + + + +important information + + + + + + + +Description + +Restated Certificate of Incorporation of PayPal Holdings, Inc. +(incorporated by reference to Exhibit 3.01 to PayPal Holdings, Inc.'s +Quarterly Report on Form 10-Q, as filed with the Commission on +July 27, 2017). + +Amended and Restated Bylaws of PayPal Holdings, Inc. (incorporated +by reference to Exhibit 3.1 to PayPal Holdings, Inc.'s Current Report +on Form 8-K, as filed with the Commission on January 18, 2019). + +Opinion of Faegre Drinker Biddle & Reath LLP. + +Consent of PricewaterhouseCoopers LLP, Independent Registered Public +Accounting Firm. + +Consent of Faegre Drinker Biddle & Reath LLP (included in +Exhibit 5.1 to this Registration Statement). + +Power of Attorney (included on the signature page of this +Registration Statement). + +All of Us Financial Inc. 2021 Equity Incentive Plan. + +Filing Fee Table. + + + + + + + +Business Checking +For 24-hour account information, sign on to +pnc.com/mybusiness/ +Business Checking Account number: 47-2041-6547 - continued +Activity Detail +Deposits and Other Additions +ACH Additions +Date posted Amount Transaction description For the period 04/13/2022 to 04/29/2022 +ZACHRY TYLER WOOD +Primary account number: 47-2041-6547 Page 2 of 3 +44678 00063 Reverse Corporate ACH Debit +Effective 04-26-22 Reference number +Checks and Other Deductions 22116905560149 +Deductions Reference number +Date posted Amount Transaction description 22116905560149 +44677 00063 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number +Service Charges and Fees 22116905560149 +Date posted Amount Transaction description on your next statement as a single line item entitled Service +Waived - New Customer Period +4/27/2022 00036 Returned Item Fee (nsf) +Detail of Services Used During Current Period +Note: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement a Charge Period Ending 04/29/2022, +Description Volume Amount +Account Maintenance Charge 70846743866 00000 +Total For Services Used This Peiiod 00000 00000 +Total Service (harge 00
+
+00000 +Reviewing Your Statement ('PNCBANK +Please review this statement carefully and reconcile it with your records. Call the telephone number on the upper right side of the first page of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; +• you have any questions regarding interest paid to an interest-bearing account. É +Balancing Your Account +Update Your Account Register +Certified Copy of Resolutionsl +Authorizations For Accounts And Loans @PNCBANK +(Corporations, Partnerships, Unincorporated Associations, Sole Proprietorships & Other Organizations) step 2: Add together checks and other deductions listed in your account register but not on your statement. +PNC Bank, National Association ("Bank") Taxpayer I.D. Number (TIN) C'eck +Deduction Descretio• Anount +account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law. D pNCBANK +In addition but not by way of limitation, the Bank may take checks, drafts or other items payable to "cash", the Bank or the Customer, and pay the sums represented by such Items in cash to any person presenting such items or credit such Items to the account or obligations of any person presenting such items or any other person or entity as directed by any such person. +Products and Services. Resolved that any of the persons listed in Section 3 above are authorized to enter into contracts and agreements, written or verbal, for any products or services now or in the future offered by the Bank, including but not limited to (i) cash management services, (ii) purchases or sales of foreign exchange, securities or other financial products, (iii) computer/internet-based products and services, (iv) wire transfer of funds from or to the accounts of the Customer at the Bank, and (v) ACH transactions, and the Bank may charge any accounts of the Customer at the Bank for such products or services. +00005 Taxpayer I.D. Number (TIN) +OWNER ("Customer") 633-44-1725 +are hereby authorized (i) to effect loans, advances and renewals at any time for the Customer from the Bank; (ii) to sign and deliver any notes (with or without warrant of attorney to confess judgment) and evidences of indebtedness of the Customer; (iii) to request the Bank to issue letters of credit and to sign and deliver to the bank any agreements on behalf of the Customer to reimburse the Bank for all payments made and expenses incurred by it under such letters of credit and drafts drawn pursuant thereto; (iv) to sign and deliver any instruments or documents on behalf of the Customer guaranteeing, endorsing or securing the payment of any debts or obligations of any person, form or corporation to the Bank; (v) to pledge, assign, transfer, mortgage, grant a security interest in or otherwise hypothecate to the Bank any stock, securities, commercial paper, warehouse receipts and other documents of title, bills, accounts receivable, contract rights, inventory, equipment, real property, and any other investments or property of the Customer, real or personal, tangible or intangible as security for the payment of any and all loans, advances, indebtedness and other liabilities of the Customer to the Bank of every kind and description, direct or indirect, absolute and contingent, joint or several, whether as drawer, maker, endorsee, guarantor, surety or otherwise, and to execute on behalf of the Customer mortgages, pledges, security agreements, financing statements and other instruments or documents in connection therewith; and (vi) to sell or discount with the Bank any commercial paper, bills and other instruments and evidence of indebtedness, warehouse receipts and other documents of title, accounts, accounts receivable, contract rights, and other assets, tangible and intangible, at any time held by the Customer and for such purpose to endorse, assign, transfer and deliver the same to the Bank. +Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET +Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr +R +•d +Ming +or serVlCö n lent services, (ii) purchases or sales of foreig xlll) computerfinternet-based products and services, (iv) wir he Customer at the Bank, and (v) ACH transactions, and the Ba the Bank for such products or services. +It. Resolved that any one of the following:Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testingprocedures as may be established between the Customer and the Bank from time to time. +General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer procedures as may be established between the Customer and the Bank from time to time. +General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer +without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the +/ Customer Copy, page 2 of 4 +without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the Withdrawals and Transfers. Resolved that the Bank is authorized to make payments from the account(s) of +Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner: Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner: +Column1 Column2 +Loans and Extensions of Credit. Resolved that any one of the following:
+
+			Date of this notice: 				44658			
+			Employer Identification Number: 88-1656496							
+			Form: 	SS-4						
++INTERNAL REVENUE SERVICE ZACHRY T WOOD Number of this notice: CP 575 A +CINCINNATI OH 45999-0023 ALPHABET For assistance you may call us at:
+
+5323 BRADFORD DR			1-800-829-4933							
+DALLAS, TX 75235										
+			IF YOU WRITE, ATTACH THE
++STUB AT THE BD OF THIS NOTICE.
+
+						We assigned you				
+This EIN will identify you, your business accounts, tax returns, and +WE ASSIGNED YOU AN EMPLOYER IDENTIFICATION NUMBER +Thank you for applying for an Employer Identification Number (EIN) . +EIN 88-1656496. If the information is + + + + + + +
+
+								Please		
+							6.35-			
++for the tax period(s) in question, please file the return (s) showing you have no liabilities . +If you have questions about at the the forms address or the shown due at dates the top shown, of you this can notice. call us If atyou the phone number or write to us Publication 538, +need help in determining your annual accounting period (tax year) , see Accounting Periods and Methods.
+
+			Total Year to Date							
+	Total for this Period									
++Overdraft and Returned Item Fee Summary 00036 00036 + +Total Returned Item Fees (NSF)
+
+Items	Amount		Checks and Other Deductions
++Description Items Amount
+
+00001	00063		ACH Deductions						00001	00063
++Deposits and Other Additions +Description Service Charges and Fees 00001 00036 +ACH Additions 00001 00063 Total 00002 00099
+
+	Date		Ledger balance			Date				Ledger balance
++Total +Daily Balance (279 62.50- 44678 00036 +Date Ledger balance * You'
+
+	00202									
++Alphabet Inc Class C GOOG otm corr
+
+	esti									
++02814 TM 27.8414.76% 63500 53.:
+
+	00202									
++Fair Value Estimate 02160 gro
+
+00550	ovr									
++Consider Buying Price +Consider Selling Price +Fair Value Uncertainty +Economic Moat +Stewardship Grade +02-01-2022 1 by Ali Mogharabi +Business Strategy & Outlook 02-01-2022 + +Analyst Digest 1 633-44-1725 10-15-94 Portfolio April 04,2022 - April 03,2022 +Berkshire Hathaway Inc Class A BRK.A +
+
+525000 +527760 $0.001 0.00% 367500 +Fair Value Estimate +Consider Buying Price $708,750.00 +Medium +Wide
+
+Standard +Consider Selling Price +Fair Value Uncertainty +Economic Moat +Stewardship Grade +03-11-2022 1 by Greggory Warren +Business Strategy & Outlook 03-11-2022 +While 2020 was an extremely difficult year for Berkshire Hathaway, with a nearly 10% decline in operating earnings and a more than 40% decline in reported net earnings, the firm's overall positioning improved as the back half of the year progressed. The firm saw an even more marked improvement in its insurance investment portfolio, as well as the operating results of its various subsidiaries, last year. As such, we expect 2022 and 2023 to be a return to more normalized levels of revenue growth and profitability (albeit with inflation impacting results in the first half of this year).We continue to view Berkshire's decentralized business model, broad business diversification, high cash-generation capabilities, and unmatched balance sheet strength as true differentiators. While these advantages have been overshadowed by an ever-expanding cash balance-ANhich is earning next to nothing in a near-zero interest-rate environment--we believe the company has finally hit a nexus where it is far more focused on reducing its cash hoard through stock and bond investments and share repurchases. During the past eight calendar quarters, the + + + +not correct as shown above, please make the correction using the attached tear-off stub and return it to us . +Based on the information received from you or your representative, you must file the following forms by the dates shown. We assigned you
+
+4/7/2022 +Form 940 4/7/2022 +Form 943 4/7/2022 If the information is +Form 1065 4/7/2022 +Form 720 4/7/2022 +Your Form 2290 becomes due the month after your vehicle is put into use . +Your Form 1 IC and/or 730 becomes due the month after your wagering starts . +After our review of your information, we have determined that you have not filed +tax returns for the above-mentioned tax period (s) dating as far back as 2007. Plea S +file your return(s) by 04/22/2022. If there is a balance due on the return (s) +penalties and interest will continue to accumulate from the due date of the return (s) +until it is filed and paid. If you were not in business or did not hire any employees +for the tax period(s) in question, please file the return (s) showing you have no liabilities . +If you have questions about the forms or the due dates shown, you can call us at PI +the phone number or write to us at the address shown at the top of this notice. If you +need help in determining your annual accounting period (tax year) , see Publication 538, Accounting Periods and Methods. + +Business Checking +PNCBANK @PNCBANK +For the period 04/13/2022 Primary account number: 47-2041-6547 Page 1 of 3 +146967 1022462 Q 304 Number of enclosures: 0 +ZACHRY TYLER WOOD ALPHABET +5323 BRADFORD DR +DALLAS TX 75235-8314 For 24-hour banking sign on to +PNC Bank Online Banking on pnc.com +FREE Online Bill Pay +For customer service call 1-877-BUS-BNKG +PNC accepts Telecommunications Relay Service (TRS) calls. 00009 +111111111011111000000000000000000000000000000000000000000000000 Para servicio en espalol, 1877.BUS-BNKC, +Moving? Please contact your local branch. +@ Write to: Customer Service PO Box 609 +Pittsburgh , PA 15230-9738 +Visit us at PNC.com/smaIIbusiness +IMPORTANT INFORMATION FOR BUSINESS DEPOSIT CUSTOMERS Date of this notice: +Effective February 18,2022, PNC will be temporarily waiving fees for statement, check image, deposit ticket and deposited item copy requests until further notice. Statement, check image, deposit ticket and deposited Item requests will continue to be displayed in the Details of Services Used section of your monthly statement. We will notify you via statement message prior to reinstating these fees. +If vou have any questions, you may reach out to your business banker branch or call us at 1-877-BUS-BNKG (1-877-287-2654). +Business Checking Summary +Account number; 47-2041-6547 +Overdraft Protection has not been established for this account. Please contact us if you would like to set up this service. Zachry Tyler Wood Alphabet Employer Identification Number: 88-1656496 +Balance Summary Checks and other deductions Ending balance Form: SS-4 +Beginning balance Deposits and other additions Number of this notice: +00000 = 98.50 Average ledger balance 36.00- +Average collected balance For assistance you may call ug at:
+
+			6.35-			6.35-		1-800-829-4933		
++Overdraft and Returned Item Fee Summary Total Year to Date
+
+Total for this Period										
++Total Returned Item Fees (NSF) 00036 00036 IF YOU WRITE, ATTATCHA TYE +STUB AT OYE END OF THIS NOTICE. +Deposits and Other Additions +Description Items Amount Checks and Other Deductions +Description Items Amount +ACH Additions 00001 00063 ACH Deductions 00001 00063
+
+			Service Charges and Fees			00001	00036			
++Total 00001 00063 Total 00002 00099 +Daily Balance Date Date Ledger balance +Date Ledger balance Ledger balance +4/13/2022 00000 44677 62.50- 44678 00036
+
+Form 940 44658 Berkshire Hatha,a,n.. +Business Checking For the period 04/13/2022 to 04/29/2022 44680 +For 24-hour account information, sign on to pnc.com/mybusiness/ ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 +Business Checking Account number: 47-2041-6547 - continued Page 2 of 3 +Acüvity Detail +Deposits and Other Additions did not hire any employee +ACH Additions Referenc numb +Date posted 04/27 Transaction +Amount description +62.50 Reverse Corporate ACH Debit +Effective 04-26-22 the due dates shown, you can call us at
+
+			22116905560149							
++Checks and Other Deductions +ACH Deductions Referenc +Date posted Transaction +Amount description
+
+			number							
++44677 70842743866 Corporate ACH Quickbooks 180041ntuit 1940868
+
+			22116905560149							
++ervice Charges and Fees Referenc +Date posted Transaction +Amount descripton +44678 22116905560149 numb +Detail of Services Used During Current Period 22116905560149
+
+::NOTE:: The total charge for the following services will be posted to your account on 05/02/2022 and will appear on your next statement as a single line item entitled Service Charge Period Ending 04/29/2022. +e: The total charge for the following Penod Ending 04/29/2022. +Service Charge description Amount +Account Maintenance Charge 00063 +Total For Services Used This Period 00036 +Total Service Charge 00099 Waived - Waived - New Customer Period +Reviewing Your Statement +of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; you have any questions regarding interest paid to an interest-bearing account. PNCBANK +Balancing Your Account +Update Your Account Register Volume +Compare: The activity detail section of your statement to your account register. +Check Off: +Add to Your Account Register: Balance: +Subtract From Your Account Register Balance: All items in your account register that also appear on your statement. Remember to begin with the ending date of your last statement. (An asterisk { * } will appear in the Checks section if there is a gap in the listing of consecutive check numbers.) +Any deposits or additions including interest payments and ATM or electronic deposits listed on the statement that are not already entered in your register. +Any account deductions including fees and ATM or electronic deductions listed on the statement that are not already entered in your register. +Your Statement Information : step 2: Add together checks and other deductions listed in your account register but not on your statement.
+
+	Amount						Check
++Deduction Descrption Amount +Balancing Your Account +Update Your Account Register
+
+on deposit: 22934637118600.00USD +4720416547 +Reviewing Your Statement +of this statement if: +you have any questions regarding your account(s); your name or address is incorrect; you have any questions regarding interest paid to an interest-bearing account. Total A=$22934637118600 + +Step 3: 22934637118600 + + +Enter the ending balance recorded on your statement +Add deposits and other additions not recorded Total A + $22934637118600 +
+
+		Subtotal=$22934637118600								
++Subtract checks and other deductions not recorded Total B $ 22934637118600 + +The result should equal your account register balance $ 22934637118600
+
+							Total B22934637118600			
++Verification of Direct Deposits + +To verify whether a direct deposit or other transfer to your account has occurred, call us Monday - Friday: 7 AM - 10 PM ET and Saturday & Sunday: 8 AM - 5 PM ET at the customer service number listed on the upper right side of the first page of this statement. +In Case of Errors or Questions About Your Electronic Transfers +Telephone us at the customer service number listed on the upper right side of the first page of this statement or write us at PNC Bank Debit Card Services, 500 First Avenue, 4th Floor, Mailstop P7-PFSC-04-M, Pittsburgh, PA 15219 as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer on the statement or receipt. We must hear from you no later than 60 days after we sent you the FIRST statement on which the error or problem appeared. +Tell us your name and account number (if any). +Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information. +Tell us the dollar amount of the suspected error. +We will investigate your complaint and will correct any error promptly. If we take longer than 10 business days, we will provisionally credit your account for the amount you think is in error, so that you will have use of the money during the time it Cakes us to complete our investigation. +EquaLHousing Lender +Member FDIC + + + +Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +Export Custom Report as Excel File +Show 00000
+
+Excel report exports are in XLSX format. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. +1 Locate the report you want to export in the custom reports section of the Reports dashboard, and click an Excel export link. To export the report without first viewing the data, click the “Export XLS” link under the Action button menu. To view the report prior to exporting, click on its linked Report Name, then click the “xls” link in the Export line directly above the report Snapshot. NOTE: You can filter the report by Date Range or Payment Method prior to exporting it; the export will include only those transactions included by the filters. +2 Depending on your browser, you will have the option to open and/or save the file.
+
+a To open the file, click the “Open” button in the dialog box. The file will open in Excel, but will not be saved. You will need to save the file in Excel if you want to store it on your computer. b To save the file to your computer. i Click the “Save” button in the dialog box. ii A Save As dialog box opens. NOTE: In Google Chrome, and some other browsers, clicking the “xls” link will take you directly to this step. iii Enter a name for your file, and select a location on your computer where you want to save the file. iv Click the “Save” button. v You can now open the report directly from your computer at any time, without being logged into ADP Payments. +Next › Reciepient's Social Security Number & TIN :633-44-1725 +WOO ZACH T +5222 B +_____________________________________________________ + +424B3 1 d424b3.htm FORM 424B3
+
+Table of Contents Filed Pursuant to Rule 424(b)(3)
+
+Registration No. 333-145109
+
+Prospectus dated May 1, 2008
+
+Chase Issuance Trust
+
+Issuing Entity
+
+Chase Bank USA, National Association
+
+Sponsor, Depositor, Originator, Administrator and Servicer
+
+The issuing entity—
+
+| • | | may periodically issue notes in a series comprised of one or more classes or tranches; +-- | -- | -- | -- +
+
+Neither the SEC nor any state securities commission has approved these notes or determined that this prospectus or the accompanying prospectus supplement is truthful, accurate or complete. Any representation to the contrary is a criminal offense.
+
+You should consider the discussion under “ Risk Factors” beginning on page 11 of this prospectus before you purchase any notes.
+
+The notes are obligations of the issuing entity only and are not interests in or obligations of Chase Bank USA, National Association, any of its affiliates or any other person or entity.
+
+The notes are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality.
+
+424B3 1 d424b3.htm FORM 424B3 +Table of Contents +Filed Pursuant to Rule 424(b)(3) + +Registration No. 333-145109 + + + +Prospectus dated May 1, 2008 + + + +Chase Issuance Trust + +Issuing Entity + + + +Chase Bank USA, National Association + +Sponsor, Depositor, Originator, Administrator and Servicer + + + +The issuing entity— + + + • +may periodically issue notes in a series comprised of one or more classes or tranches; • +will own— — one or more collateral certificates, each representing an undivided interest in a credit card master trust or other securitization special purpose entity whose assets consist primarily of credit card receivables arising in revolving credit card accounts owned by Chase USA or by one of its affiliates; and — credit card receivables that arise in revolving credit card accounts owned by Chase USA or by one of its affiliates; and • +may own— — other property described in this prospectus and in the accompanying prospectus supplement. +The notes— + + +
+
+• +will be secured by the issuing entity’s assets and will be paid solely from proceeds of the issuing entity’s assets; • +to be offered with this prospectus and the accompanying prospectus supplement will be rated in one of the four highest rating categories by at least one nationally recognized rating agency; and • +will be issued as part of a designated tranche within a class of the CHASEseries. +Neither the SEC nor any state securities commission has approved these notes or determined that this prospectus or the accompanying prospectus supplement is truthful, accurate or complete. Any representation to the contrary is a criminal offense. + + + +You should consider the discussion under “ Risk Factors” beginning on page 11 of this prospectus before you purchase any notes. + + + +The notes are obligations of the issuing entity only and are interests in JPMORGAN TRUST I, II, III, & IV, SHare Class R01-06, Direct obligations, under mandated rempremandable Adminstrative decision upon reconcilablle claim due the plaintif(Zachry Tyler Wood) prscribed by the Secretary of the Treasury a, CHASE / JPMORGAN CHASE BANK N.A, power holding shareholders, of the Board of Directors.
+
+Copyrights Trademark and Logo & etc..are proptery of Sole Proprietorship Subsidiary's Whole Owner by: Zachry Tyler Wood/bitcoion(Copyright & TM-09-17-2001)JPMORGAN Chase Bank USA, National Association, any of its affiliates or any other person or entity. +The notes are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other governmental agency or instrumentality. +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 +Reported Normalized Income +Reported Normalized Operating Profit +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 +Reported Normalized Diluted EPS +Basic EPS 00114 00031 00028 00028 00027 00023 00017 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. + + + + + + +important information + + + + + + + +Description +Cash Flow from Investing Activities +Cash Flow from Continuing Investing Activities -6383000000 -6819000000 -5496000000 -5942000000 -5479000000
+
+	-6383000000	-6819000000	-5496000000	-5942000000	-5479000000
++Purchase/Sale and Disposal of Property, Plant and Equipment, Net +Purchase of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Sale and Disposal of Property, Plant and Equipment -385000000 -259000000 -308000000 -1666000000 -370000000 +Purchase/Sale of Business, Net -4348000000 -3360000000 -3293000000 2195000000 -1375000000 +Purchase/Acquisition of Business -40860000000 -35153000000 -24949000000 -37072000000 -36955000000 +Purchase/Sale of Investments, Net +Purchase of Investments 36512000000 31793000000 21656000000 39267000000 35580000000
+
+	100000000	388000000	23000000	30000000	-57000000
++Sale of Investments +Other Investing Cash Flow -15254000000 +Purchase/Sale of Other Non-Current Assets, Net -16511000000 -15254000000 -15991000000 -13606000000 -9270000000 +Sales of Other Non-Current Assets -16511000000 -12610000000 -15991000000 -13606000000 -9270000000 +Cash Flow from Financing Activities -13473000000 -12610000000 -12796000000 -11395000000 -7904000000 +Cash Flow from Continuing Financing Activities 13473000000 -12796000000 -11395000000 -7904000000 +Issuance of/Payments for Common 343 sec cvxvxvcclpddf wearsStock, Net -42000000 +Payments for Common Stock 115000000 -42000000 -1042000000 -37000000 -57000000 +Proceeds from Issuance of Common Stock 115000000 6350000000 -1042000000 -37000000 -57000000 +Issuance of/Repayments for Debt, Net 6250000000 -6392000000 6699000000 900000000 00000 +Issuance of/Repayments for Long Term Debt, Net 6365000000 -2602000000 -7741000000 -937000000 -57000000 +Proceeds from Issuance of Long Term Debt +Repayments for Long Term Debt 2923000000 -2453000000 -2184000000 -1647000000 + +Proceeds from Issuance/Exercising of Stock Options/Warrants 00000 300000000 10000000 338000000000 +Other Financing Cash Flow +Cash and Cash Equivalents, End of Period +Change in Cash 20945000000 23719000000 23630000000 26622000000 26465000000 +Effect of Exchange Rate Changes 25930000000 235000000000) -3175000000 300000000 6126000000 +Cash and Cash Equivalents, Beginning of Period 181000000000 146000000000 183000000 -143000000 210000000 +Cash Flow Supplemental Section 23719000000000 26622000000000 26465000000000 20129000000000 +Change in Cash as Reported, Supplemental 2774000000 89000000 -2992000000 6336000000 +Income Tax Paid, Supplemental 13412000000 157000000 +ZACHRY T WOOD -4990000000 +Cash and Cash Equivalents, Beginning of Period + + +SC 13G/A +1 +us02079k1079_031122.txt + +us02079k1079_031122.txt + +SECURITIES AND EXCHANGE COMMISSION + +Washington, D.C. 20549 + +SCHEDULE 13G + +Under the Securities Exchange Act of 1934 + +(Amendment No: 4) + +ZACHRY T WOOD +-------------------------------------------------------- +(Name of Issuer) +
+
+Common Stock +-------------------------------------------------------- +(Title of Class of Securities) +02079K107 +-------------------------------------------------------- +(CUSIP Number) + +December 31, 2021 +-------------------------------------------------------- +(Date of Event Which Requires Filing of this Statement) + +Check the appropriate box to designate the rule pursuant to +which this Schedule is filed: + +[X] Rule 13d-1(b) +[ ] Rule 13d-1(c) +[ ] Rule 13d-1(d) + + +*The remainder of this cover page shall be filled out +for a reporting person's initial filing on this form with +respect to the subject class of securities, and for any +subsequent amendment containing information which +would alter the disclosures provided in a prior cover page. + +The information required in the remainder of this cover +page shall not be deemed to be "filed" for the purpose +of Section 18 of the Securities Exchange Act of 1934 +("Act") or otherwise subject to the liabilities of that +section of the Act but shall be subject to all other +provisions of the Act (however, see the Notes). + + + + + +CUSIP No. 02079K107 + +(1)Names of reporting persons. Zachry T Wood + + +(2) Check the appropriate box if a member of a group +(a) [ ] +(b) [X] + + +(3) SEC use only + +(4) Citizenship or place of organization + +Delaware + +Number of shares beneficially owned by each reporting person with: + +(5) Sole voting power +
+
+100% +(6) Shared voting power +
+
+100% +(7) Sole dispositive power + +100% +(8) Shared dispositive power +
+
+100% +(9) Aggregate amount beneficially owned by each reporting person +
+
+100% +(10) Check if the aggregate amount in Row (9) excludes certain shares + +(11) Percent of class represented by amount in Row 9 + +100% + +(12) Type of reporting person + +SP + + + + + +Item 1. + +Item 1(a) Name of issuer: +----------------------------------------------------------------------- + +ZACHRY T WOOD +ALPHABET + +Item 1(b) Address of issuer's principal executive offices: +----------------------------------------------------------------------- +5323 BRADFORD DR +DALLAS, TX 75235 +Business: +1600 AMPHITHEATRE PARKWAY +MOUNTAIN VIEW CA 94043 + + +Item 2. + + +2(a) ZachryTWoood +---------------------------------------------------------------------- +BlackRock, Inc. + + +2(b) 5323 BRADFORD DR DALLAS TX 75235 +----------------------------------------------------------------------- +BlackRock, Inc. +55 East 52nd Street +New York, NY 10055 + + +2(c) Citizenship: - [22/7] - CORRECTED +--------------------------------------------------------------------
+
+See Item 4 of Cover Page +2(d) Title of class of securities: +------------------------------------------------------------------- +
+
+Common Stock +2(e) CUSIP No.: +See Cover Page + + + + + + +Item 3. + +If this statement is filed pursuant to Rules 13d-1(b), or 13d-2(b) or (c), +check whether the person filing is a: +[ ] Broker or dealer registered under Section 15 of the Act; +[ ] Bank as defined in Section 3(a)(6) of the Act; +[ ] Insurance company as defined in Section 3(a)(19) of the Act; +[ ] Investment company registered under Section 8 of the +Investment Company Act of 1940; +[ ] An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E); +[ ] An employee benefit plan or endowment fund in accordance with
+
+   Rule 13d-1(b)(1)(ii)(F);
++[ ] A parent holding company or control person in accordance with
+
+   Rule 13d-1(b)(1)(ii)(G);
++[ ] A savings associations as defined in Section 3(b) of the Federal
+
+   Deposit Insurance Act (12 U.S.C. 1813);
++[ ] A church plan that is excluded from the definition of an
+
+   investment company under section 3(c)(14) of the Investment Company
+   Act of 1940;
++[x] A non-U.S. institution in accordance with
+
+   Rule 240.13d-1(b)(1)(ii)(J);
++[ ] Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K). If filing
+
+   as a non-U.S. institution in accordance with
+   Rule 240.13d-1(b)(1)(ii)(J), please specify the type of
+   institution:
++Item 4. Ownership + +Provide the following information regarding the aggregate number +and percentage of the class of securities of the issuer identified in Item 1. + + +Amount beneficially owned: +
+
+19224377 +Percent of class + +6.1% + +Number of shares as to which such person has: + +Sole power to vote or to direct the vote + + +Shared power to vote or to direct the vote + +Sole power to dispose or to direct the disposition of + +Shared power to dispose or to direct the disposition + +Item 5. + +Ownership of 5 Percent or Less of a Class. If this statement is being +filed to report the fact that as of the date hereof the reporting person +has ceased to be the beneficial owner of more than 5 percent of the +class of securities, check the following - [22/7] - + +Item 6. Ownership of More than 5 Percent on Behalf of Another Person +
+
+If any other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities, a statement to that effect should be included in response to this item and, if such interest relates to more than 5 percent of the class, such person should be identified. A listing of the shareholders of an investment company registered under the Investment Company Act of 1940 or the beneficiaries of employee benefit plan, pension fund or endowment fund is not required. Various persons have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of the common stock of ALPHABET INC. No, One person's, interest in the common stock of ALPHABET INC A, C, and BRK.B is more than five percent of the total outstanding common shares. +Item 7. Identification and Classification of the Subsidiary Which +Acquired the Security Being Reported on by the Parent Holding +Company or Control Person. + + +See Exhibit A + + +Item 8. Identification and Classification of Members of the Group + + +If a group has filed this schedule pursuant to Rule 13d-1(b)(ii)(J), +so indicate under Item 3(j) and attach an exhibit stating the identity +and Item 3 classification of each member of the group. If a group +has filed this schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d), +attach an exhibit stating the identity of each member of the group. + + +Item 9. Notice of Dissolution of Group + +Notice of dissolution of a group may be furnished as an exhibit +stating the date of the dissolution and that all further filings with +respect to transactions in the security reported on will be filed, +if required, by members of the group, in their individual capacity. + +See Item 5. + +Item 10. Certifications +By signing below I certify that, to the best of my knowledge and +belief, the securities referred to above were acquired and are +held in the ordinary course of business and were not acquired +and are not held for the purpose of or with the effect of changing +or influencing the control of the issuer of the securities and were +not acquired and are not held in connection with or as a participant +in any transaction having that purpose or effect. + +Signature.__\s +ZACHRY T O + +After reasonable inquiry and to the best of my knowledge and +belief, I certify that the information set forth in this statement +is true, complete and correct. + + +Dated: March 11, 2022 +BlackRock, Inc. + + +Signature: Spencer Fleming + + + +------------------------------------------- + +Name/Title Attorney-In-Fact + + +The original statement shall be signed by each person on whose +behalf the statement is filed or his authorized representative. +If the statement is signed on behalf of a person by his authorized +representative other than an executive officer or general partner +of the filing person, evidence of the representative's authority to +sign on behalf of such person shall be filed with the statement, +provided, however, that a power of attorney for this purpose +which is already on file with the Commission may be incorporated +by reference. The name and any title of each person who +signs the statement shall be typed or printed beneath his signature. + + + +Attention: Intentional misstatements or omissions of fact constitute +Federal criminal violations (see 18 U.S.C. 1001). + + +Exhibit A + + + +Subsidiary + +
+
+BlackRock Life Limited BlackRock International Limited BlackRock Advisors, LLC Aperio Group, LLC BlackRock (Netherlands) B.V. BlackRock Institutional Trust Company, National Association BlackRock Asset Management Ireland Limited BlackRock Financial Management, Inc. BlackRock Japan Co., Ltd. BlackRock Asset Management Schweiz AG BlackRock Investment Management, LLC FutureAdvisor, Inc. BlackRock Investment Management (UK) Limited BlackRock Asset Management Canada Limited BlackRock Asset Management Deutschland AG BlackRock (Luxembourg) S.A. BlackRock Investment Management (Australia) Limited BlackRock Advisors (UK) Limited BlackRock Fund Advisors BlackRock Asset Management North Asia Limited BlackRock (Singapore) Limited BlackRock Fund Managers Ltd +Entity beneficially owns 5% or greater of the outstanding +shares of the security class being reported on this +Schedule 13G. +Exhibit B + + +POWER OF ATTORNEY + +The undersigned, BLACKROCK, INC., a corporation duly organized +under the laws of the State of Delaware, United States (the +"Company"), does hereby make, constitute and appoint each of +Christopher Meade, Daniel Waltcher, Una Neary, Richard Cundiff, +Charles Park, Enda McMahon, Arlene Klein, Con Tzatzakis, Karen Clark, +David Maryles, Daniel Ronnen, John Stelley, Daniel Riemer, +Elizabeth Kogut, Maureen Gleeson, Daniel Kalish and Spencer Fleming acting +severally, as its true and lawful attorneys-in-fact, for the purpose of, from +time to time, executing in its name and on its behalf, whether the Company +individually or as representative of others, any and all documents, is acting +certificates, instruments, statements, other filings and amendments to the +foregoing (collectively, "documents") determined by such person to +be necessary or appropriate to comply with ownership or control-person +reporting requirements imposed by any United States or non-United States +governmental or regulatory authority, Including without limitation +Forms 3, 4, 5, 13D, 13F, 13G and 13H and any amendments to any of the +Foregoing as may be required to be filed with the Securities and +Exchange Commission, and delivering, furnishing or filing any +such documents with the appropriate governmental, regulatory +authority or other person, and giving and granting to each such +attorney-in-fact power and authority to act in the premises as fully +and to all intents and purposes as the Company might or could +do if personally present by one of its authorized signatories, +hereby ratifying and confirming all that said attorney-in-fact shall +lawfully do or cause to be done by virtue hereof. Any such +determination by an attorney-in-fact named herein shall be +conclusively evidenced by such person's execution, delivery, +furnishing or filing of the applicable document. + +This power of attorney shall expressly revoke the power of attorney +dated 8th day of December, 2015 in respect of the subject matter hereof, +shall be valid from the date hereof and shall remain in full force and +effect until either revoked in writing by the Company, or, in respect of +any attorney-in-fact named herein, until such person ceases to be an +employee of the Company or one of its affiliates. + + +IN WITNESS WHEREOF, the undersigned has caused this power of +attorney to be executed as of this 2nd day of January, 2019. + +BLACKROCK, INC. + + +By:_ /s/ + + + + + + + + + + + + + +\s_____________ +Name: Zachry Tyler Wood +Title: General Counsel + + + + + + + +:Build:: +const : +Name :bitcash : +title : BCS/USD +TOKEN :(BCHS\USD) : +secret +gemfile :'{'{'{'{'"$'' '"'['{'{'{'{['('('(c')')"('('(r')')']'}']'('{'[100000000'.'[00']'M']'}']'('['B'I'T'O'R'E'_34173'.1337'_189931']'(BCHS\USD')'}')''' ')]'}'}'}'"'' +='' ':'B'R'K'.'B' :, BRKUX, BRK.A, AJTXX(26.54B Last Year@https://am.jpmorganfunds.com/* +Alejandro MartinezAlejandro.martinez131@pnc.com** +Michael GoochMichael.gooch@pnc.com** +Michael Sotelo<Michael.sotelo@pnc.com** +Michael Allenmichael.allen10@pnc.com** +An official website of the United States government. Here's how you know + +Official websites use .gov +A .gov website belongs to an official government organization in the United States. + + +Secure .gov websites use HTTPS +A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. + +FBI +MORE +WHAT WE INVESTIGATE +Search FBI +Search FBI + +WHAT WE INVESTIGATE + +Terrorism +Counterintelligence +Cyber Crime +Public Corruption +Civil Rights +Organized Crime + More +News +Most Wanted +Business And Industry Partners +The Cyber Threat +Malicious cyber activity threatens the public’s safety and our national and economic security. The FBI’s cyber strategy is to impose risk and consequences on cyber adversaries. Our goal is to change the behavior of criminals and nation-states who believe they can compromise U.S. networks, steal financial and intellectual property, and put critical infrastructure at risk without facing risk themselves. To do this, we use our unique mix of authorities, capabilities, and partnerships to impose consequences against our cyber adversaries. + +The FBI is the lead federal agency for investigating cyber attacks and intrusions. We collect and share intelligence and engage with victims while working to unmask those committing malicious cyber activities, wherever they are. + +Learn more about what you can do to protect yourself from cyber criminals, how you can report cyber crime, and the Bureau's efforts in combating the evolving cyber threat.﻿ + +Private Sector Partners +Learn how businesses and organizations can work with the FBI to get ahead of the threat and make an impact on our cyber adversaries. + +Cyber Security +What You Should Know +Protect Yourself +Taking the right security measures and being alert and aware when connected are key ways to prevent cyber intrusions and online crimes. Learn how to protect your computer, network, and personal information. +Understand Common Crimes and Risks Online +Business email compromise (BEC) scams exploit the fact that so many of us rely on email to conduct business—both personal and professional—and it’s one of the most financially damaging online crimes. +Identity theft happens when someone steals your personal information, like your Social Security number, and uses it to commit theft or fraud. +Ransomware is a type of malicious software, or malware, that prevents you from accessing your computer files, systems, or networks and demands you pay a ransom for their return. +Spoofing and phishing are schemes aimed at tricking you into providing sensitive information to scammers. +Online predators are a growing threat to young people. +More common crimes and scams +Respond and Report +Depiction of banner being used in campaign to encourage the public to report Internet crime to the FBI's Internet Crime Complaint Center (IC3). +File a Report with the Internet Crime Complaint Center + +If you are the victim of online or internet-enabled crime, file a report with the Internet Crime Complaint Center (IC3) as soon as possible. Crime reports are used for investigative and intelligence purposes. Rapid reporting can also help support the recovery of lost funds. Visit ic3.gov for more information, including tips and information about current crime trends. + +Contact Your Local FBI Field Office +If you or your organization is the victim of a network intrusion, data breach, or ransomware attack, contact your nearest FBI field office or report it at tips.fbi.gov. + +Combating the Evolving Cyber Threat +Our adversaries look to exploit gaps in our intelligence and information security networks. The FBI is committed to working with our federal counterparts, our foreign partners, and the private sector to close those gaps. + +These partnerships allow us to defend networks, attribute malicious activity, sanction bad behavior, and take the fight to our adversaries overseas. The FBI fosters this team approach through unique hubs where government, industry, and academia form long-term trusted relationships to combine efforts against cyber threats. + +Within government, that hub is the National Cyber Investigative Joint Task Force (NCIJTF). The FBI leads this task force of more than 30 co-located agencies from the Intelligence Community and law enforcement. The NCIJTF is organized around mission centers based on key cyber threat areas and led by senior executives from partner agencies. Through these mission centers, operations and intelligence are integrated for maximum impact against U.S. adversaries. + +Only together can we achieve safety, security, and confidence in a digitally connected world. + +How We Work +Whether through developing innovative investigative techniques, using cutting-edge analytic tools, or forging new partnerships in our communities, the FBI continues to adapt to meet the challenges posed by the evolving cyber threat. + +The FBI has specially trained cyber squads in each of our 56 field offices, working hand-in-hand with interagency task force partners. +The rapid-response Cyber Action Team can deploy across the country within hours to respond to major incidents. +With cyber assistant legal attachés in embassies across the globe, the FBI works closely with our international counterparts to seek justice for victims of malicious cyber activity. +The Internet Crime Complaint Center (IC3) collects reports of Internet crime from the public. Using such complaints, the IC3’s Recovery Asset Team has assisted in freezing hundreds of thousands of dollars for victims of cyber crime. +CyWatch is the FBI’s 24/7 operations center and watch floor, providing around-the-clock support to track incidents and communicate with field offices across the country. +Cyber News +08.26.2022 FBI Dallas Encourages Businesses to Stay Vigilant for Cyber Threats, Partner with the FBI +08.26.2022 Iowa Woman Sentenced to Prison for Email Threats +08.26.2022 FBI Las Vegas Federal Fact Friday: Tech Support Fraud +08.24.2022 Former Investment Bank Employee Arrested for Cyberstalking +08.23.2022 FBI Tech Tuesday: Protecting Your Smart Devices from Swatting +08.22.2022 Phoenix Man Convicted of Cyberstalking +08.22.2022 FBI Philadelphia Urges Cybersecurity Awareness +08.22.2022 FBI Warns Individuals Employed in the Health Care Industry of the Ongoing Scam Involving the Impersonation of Law Enforcement and Government Officials +08.19.2022 Former Army Officer and Attorney Arrested on Cyberstalking Charge +08.18.2022 Man Sentenced to Over 10 Years for Role in International Romance Fraud Scheme +More News + +Featured Story +FBI Strategy Addresses Evolving Cyber Threat +FBI Strategy Addresses Evolving Cyber Threat +Additional Links, Resources, and Related Priorities +The Iran Threat +The Iran Threat +Threats from the Iranian regime and its terrorist partners are far reaching. The FBI is committed to identifying… + +InfraGard: Protecting Infrastructure +iGuardian: The FBI’s Industry-Focused Cyber Intrusion Reporting Platform +National Cyber Awareness System﻿ +Law Enforcement Cyber Incident Reporting +Stop.Think.Connect Campaign +Lawful Access﻿ +Law enforcement agencies all over the country are bumping up against “warrant-proof” encryption. This means that even with a warrant, law enforcement cannot obtain the electronic evidence needed to investigate and prosecute crimes or security threats. + +Most Wanted +Ten Most Wanted +Fugitives +Terrorism +Kidnappings / Missing Persons +Seeking Information +Bank Robbers +ECAP +ViCAP +About +Mission & Priorities +Leadership & Structure +Partnerships +Community Outreach +FAQs +News +Stories +Videos +Press Release +Speeches +Testimony +Podcasts and Radio +Photos +Español +Apps +Resources +Law Enforcement +Businesses +Victim Assistance +Reports & Publications +What We Investigate +Terrorism +Counterintelligence +Cyber Crime +Public Corruption +Civil Rights +Organized Crime +White-Collar Crime +Violent Crime +WMD +Contact Us +Field Offices +FBI Headquarters +Overseas Offices +Services +CJIS +CIRG +Laboratory Services +Training Academy +Operational Technology +Information Management +FBI Jobs +Submit a Tip +Crime Statistics +History +FOIPA +Scams & Safety +FBI Kids +FBI Tour +Additional Resources +Accessibility +eRulemaking +Freedom of Information / Privacy Act +Legal Notices +Legal Policies & Disclaimers +Privacy Policy +USA.gov +White House +No FEAR Act +Equal Opportunity + +FBI +FEDERAL BUREAU OF INVESTIGATION +FBI.gov Contact Center + +{% "requirements for furnishing Form 1099-G electronically : either furnish 1099-Gs electronically to recipients: or, considering electronic furnishing, rule and regulation. If upi, have questions,The TE/GE Office of Federal, State, and Local, Government has oversight for 1099-G filing for government entities. I’ll share how to successfully implement furnishing 1099-Gs electronically, discuss the requirements, and answer questions that many have about the process. Our goal is to provide all the information to help you implement an e-furnishing system for these information returns that complies with the rules and regulations.We all know that our income tax system relies on self-reporting of income, and most Americans depend on receiving and including income reported on various information returns. The likelihood of income being reported properly is greatly improved when information returns are prepared correctly and delivered to payees efficiently.Therefore, the IRS has focused for many years on e-filing and educating payers about e-furnishing to recipients. The Office of Federal State and Local Governments published a web article on this topic, and you can find it by going to IRS.gov and search "requirements for furnishing Form 1099-G electronically". You may want to refer to the article later to review the information provided. It contains many resource links, but the most important one we will be discussing today, which will be mentioned throughout, is Publication 1179, General Rules and Specifications for Substitute Forms 1096, 1098, 1099, 5498, W-2G, and 1042-S.Your best resource for developing a system to electronically furnish information returns is found in Section 4.6, Electronic Delivery of Recipient Statements on pages 28 and 29 of the publication. As is true with all IRS forms and publications, Publication 1179 can be accessed by going to IRS.gov and selecting 'Forms and Instructions'. You can view forms and publications online, download a PDF, or order hard copies via the Forms and Instructions page.Let's talk about the Form 1099-G, which is an information return that is used by government entities to report certain payments.Government entities are required to file and furnish Form 1099-G if payments were made throughout the year for: unemployment compensation; state or local income tax refunds, credits or offsets; Reemployment Trade Adjustment Assistance payments; taxable grants; and agricultural payments. You must also file Form 1099-G if you received payments on a commodity credit corporation loan. More details on the types of payments reportable can be found in the instructions for Form 1099-G, also available via IRS.gov.In general, the furnishing requirement is met by providing the recipient or payee with a paper copy of Form 1099-G by January 31 of the year following the year of payment. You must also file a copy of the 1099-G with the IRS before February 28, unless you file electronically, which allows for a due date of March 31st of the same year. The Internal Revenue Code and regulations allow for most information returns to be furnished electronically. +complete: list of allowable return's' ":" found on pages 28 of Pub. 1179, under Section 4.6, Electronic Delivery of Recipient Statements. The 2021 General Instructions for Certain Information Returns specifies who must file information returns, when and where to file them and information about electronic reporting.The instructions also cover correcting and voiding returns, providing statements to recipients, taxpayer identification numbers, backup withholding, penalties and more.With our focus today on furnishing 1099-Gs to recipients electronically what are the incentives to do so?Why migrate to furnishing Form 1099-G electronically to recipients? There are quite a few advantages to it.There may be significant cost benefits that result when paper and printing costs are reduced, mailing processes and fees are reduced if not eliminated, paper handling costs from filing, sorting, storing and shredding are reduced; eliminating re-typing and/or editing of documents reduces costs; and finally, accessibility is a factor. Distribution via secure web access and email is usually most cost-effective and convenient for recipients. How must it be done? In general, organizations will request affirmative consent, receive and document the consent, provide required notifications, and furnish statements to consenting payees electronically.Now let's go into a little more detail on these steps. To use electronic deliveries for information returns to payees, the payer must obtain an affirmative consent from each recipient to whom a statement will be furnished electronically.The consent must be made by the recipient electronically in a way that confirms the recipient can access the statement in the same electronic format in which it will be furnished. For example, if the Form 1099-G will be delivered as a portable document format, or PDF file, then the affirmative consent document format should also be in PDF. In addition, the payer must make certain notifications to each consenting individual. These will be addressed later in the presentation. What does the consent process look like? The first step in the process is to obtain consent from your payees.The procedures that follow were originally included in Revenue Procedure 2004-58 and have been annually updated without material change through and including the current Revenue Procedure 2021-27.You may refer to the affirmative consent procedures on pages 28 and 29 of Publication 1179, under Section 4.6, Electronic Delivery of Recipient Statements. The process begins with correspondence sent to each individual payee, requesting affirmative consent to electronic delivery of their Form 1099-G. The correspondence may be delivered by mail, electronic mail, in person, or via web site posting, and it must provide instructions on how to affirmatively consent.The correspondence must include the following statement in capital letters: "IMPORTANT TAX RETURN DOCUMENT AVAILABLE." If the correspondence is provided by electronic mail, the foregoing statement must be on the subject line of the electronic mail.If the electronic notice is returned as undeliverable and the correct electronic address cannot be obtained from the payee's records, or from the payee, then the furnisher must furnish the notice by mail, or in person, within 30 days after the electronic notice is returned.The following examples for securing consent are found in Regulation 31.6051-1. These examples apply to any electronically furnished information return. Example one: consent is requested via correspondence.The state sends the recipient a letter, stating the recipient may consent to receive the form electronically on a web site, instead of paper.The letter contains instructions explaining how to consent to receive the form electronically, by accessing the web site, downloading the consent document, completing the consent document, and emailing it back to the state.The consent document posted on the web site uses the same electronic format that the state will use for the electronically furnished form. The recipient reads the instructions and submits the consent in the manner provided in the instructions. The recipient has consented to receive the statements electronically in the manner described in the regulations. Example two: consent is requested via e-mail.The state sends the recipient an e-mail, stating the recipient may consent to receive the form electronically instead of paper format. The email contains an attachment, instructing the recipient how to consent to receive the form electronically.The e-mail attachment uses the same electronic format that the state will use for the electronically furnished form. The recipient opens the attachment, reads the instructions, and submits the consent in the manner provided in the instructions. The recipient has consented to receive the form electronically in the manner described in the regulations.Example three: consent is requested via a web site posting.The state posts a notice on its web site, stating the recipient may receive the form electronically instead of paper format. The web site contains instructions on how the recipient may access a secure web page and consent to receive the statements electronically By accessing the secure web page and giving consent, the recipient has consented to receive the form electronically in the manner described in the regulations. In each case, the payer took the steps to notify recipients by letter, email or web site posting about the availability of a consent election, prior to issuing returns electronically. Electronic statements are furnished to an individual only after that individual responded with an affirmative consent.If the payee does not consent, a paper document must be sent. As part of the consent process, the government entity must provide a statement with all the following notifications prominently displayed. There are seven notifications.Number one is, if the payee does not consent, a paper copy will be provided. Two, the scope and duration of the consent.Three, how to obtain a paper copy after giving consent.Four, how to withdraw the consent. Five, conditions under which an electronic statement will no longer be furnished.Six, procedures to update payee information. And Seven, a description of hardware and software required to access, print and retain a state-ment, and when it will no longer be available.If the government entity makes any hardware or software changes that create a risk that the recipient won't be able to access the statement, a notice of these changes must be provided to the recipient before changing the hardware or software. The notice must inform the recipient that a new consent to receive the form in the revised electronic format must be provided.After implementing the revised hardware and software changes, the furnisher must obtain a new consent or confirmation of consent from the recipient to receive the form electronically.You can refer to the affirmative consent procedures on pages 28 and 29 of Publication 1179, under Section 4.6.2, Consent. What do you need to do after you have secured consent? The government entity must place electronically posted Forms 1099-G on the applicable web site by January 31, the due date, and the statement must remain available until at least October 15 of that year.When Forms 1099-G are posted, the issuing entity must notify the consenting payees, either electronically or by mail. For payees who do not provide consent, or who withdraw their consent to receive the Form 1099-G electronically before the statement is furnished, the payer must provide a paper payee statement within the regular deadline.And again, the deadline would be January 31 for the Form 1099-G. As a payor, you should have a record of the payee consent for every statement you furnish electronically. If you fail to furnish the information in the required manner, this could result in the payee neglecting to report the income on their individual federal, state or local income tax returns. And this could subject them to enforcement actions, including penalties and possibly interest, by multiple government taxing authorities on any taxes that were due and owing. The affirmative consent requirement ensures each payee will either receive the statement on paper or agrees to the electronic delivery.Now here are a few reminders. One, the recipient must not have withdrawn the consent before the statement is furnished. Two, if the recipient subsequently withdraws their consent, your system must notify you and a paper reporting requirement must be resumed. You must provide a paper payee statement within the regular deadline, and again that is January 31 for Form 1099-Gs. Three, remember, a new consent to receive the statement electronically is required after any new hardware or new software is put into service. And four, all electronic statements must be in a format that conforms to the requirements as stated in Publication 1179.The affirmative consent requirements assure a payee knows the information statement will be furnished electronically, they have the right hardware and software to receive the information statement, and if they don't consent, a paper statement will be provided to them. I’ll share a few common questions we receive about this process and the answers next: The first question is, does the consent to receive the statement electronically have to be provided each tax year, or does it stay in effect until the payee withdraws the consent? The answer is the furnisher can make the determination regarding the scope and duration of the consent if the payee is informed. They can decide whether a consent to receive payee statements electronically lasts for each succeeding tax year, unless it is withdrawn or there is a change in hardware or software requirements, or whether the consent is only effective for the first information return required to be furnished following the date the consent is given. Remember, prior to furnishing the statements electronically, you must provide the recipient a statement with prominently displayed notices, including the scope and duration of the consent.The second question is whether the furnisher has met its obligation to furnish the information return if the payee has affirmatively consented to receive the information return electronically but does not actually retrieve the information return?The answer is they've met their obligation to furnish the info return under Internal Revenue Code Sections 6050B(b) and 6050E(b)if the payee affirmatively consents to receive it electronically. Section 401 of the Job Creation and Workers' Assistance Act of 2002 permits the electronic furnishing of all statements required under Section 6041 through 6050W, if the recipient consents to receive the statement in a manner similar to the one permitted by regulations under Section 6051, or in such other manner as provided by the Secretary.The next question is: Does the furnisher have to obtain affirmative consent to furnish the Form 1099-G electronically? The answer is the furnisher must obtain affirmative consent before they may furnish the Form 1099-G electronically.If a furnisher does not obtain affirmative consent, they must furnish the return by paper, or they will be in violation of the Internal Revenue Code and regulations.The fourth question is: Why should the furnisher comply with the affirmative consent requirement?The affirmative consent requirement assures the payee knows the information return or statement will be furnished electronically and has the right hardware and software to receive the information statement. If the payee does not know the statement is furnished electronically or does not have the right hardware and software to receive it electronically, they may not report income when required. This would result in loss of revenue and increased correspondence and compliance costs. Moreover, and this is not to say that the Internal Revenue Service is considering doing this, the legislative history to the Tax Reform Act of 1984 states, the conferees anticipate the Secretary would seriously consider terminating any exchange of returns or return information under Section 6103 with the state that does not report refunds to the taxpayer. This statement was in the House-Senate Conference Report, HR report number 861, at page 992, dated June 23, 1984.Question five is: What does the phrase 'must furnish a Form 1099-G' mean? The answer is the furnisher must either furnish the payee a paper copy of the Form 1099-G or furnish the Form 1099-G electronically by email or on a secure web site, if it has obtained affirmative consent by the payee.The next question is: Is it acceptable to stop mailing Form 1099-G and furnish the form electronically to the recipients? The answer is the furnisher may furnish the information return electronically if the payee has affirmatively consented to receive the information return electronically. Under current regulations, this means furnishing either by email or on a secure web site.And the last question is: What is a Form 4419 and who needs to file it? The answer is a Form 4419, Application for Filing Information Returns Electronically, is submitted by those payers or agents who file information returns with the IRS electronically. Please review the instructions to Form 4419 for information on how to fill out/submit Form 4419 to the IRS.I hope this has helped clarify the procedures to furnish recipients Form 1099-Gs electronically.These procedures include requesting affirmative consents, receiving and documenting consents, providing required notifications, and furnishing statements to consenting payees electronically" %}. Again, if you want more information, visit IRS.gov. Thank you and we hope you have a successful day.
+
+S-8 1 a20220726alphabets-8for202.htm S-8
+
+Registration No. 333-
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM S-8 REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 Alphabet Inc. (Exact Name of Registrant as Specified in Its Charter) | | | | | | | | +-- | -- | -- | -- | -- | -- | -- | -- | -- +Delaware | | 61-1767919 +Texas | | 88-1303491 +
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below hereby constitutes and appoints Sundar Pichai, Ruth M. Porat, Kent Walker, and Kathryn W. Hall, and each of them acting individually, as his or her true and lawful attorney-in-fact and agent, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities (unless revoked in writing), to sign any and all amendments (including post-effective amendments thereto) to the Registration Statement on Form S-8, and to file the same, with exhibits thereto and other documents in connection therewith, with the SEC, granting to such attorney-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as full to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that such attorney-in-fact and agents, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. Pursuant to the requirements of the Securities Act, the Registration Statement has been signed by the following persons in the capacities and on the date indicated S-8 1 a20220726alphabets-8for202.htm S-8 + + Registration No. 333- +UNITED STATES +SECURITIES AND EXCHANGE COMMISSION +Washington, D.C. 20549 + +FORM S-8 +REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 + +Alphabet Inc. +Zachry Tyler Wood + +Delaware 61-1767919 +Texas (EIN)88-1303491 +Texas (FIN)88-1656496 +(I.R.S. Employer Identification No.) + +1600 Amphitheatre Parkway +Mountain View, CA 94043 +(650) 253-0000 + +5323 BRADFORD DR +DALLAS, TX 75235 +(469) 697-4300 +(Address, including zip code, and telephone number, including area code, of Registrant’s principal executive offices) + +ALPHABET, INCOME & ROYALTY, Federal Individual Amended Return', REfunds, Credit Notes, Cash Refund' Quartlerly', 2021 Individual Income Tax Return, 1099s', 1040-ES Payment Voucher 1, 2, 3, 4, & V, Quarterly Annual , Semi-Annuals, Federal Repurchase Agreement Act, & Employee' Income Statements, Pay, and Outstanding, contingenci' +(Full Title of the Plan) +
+
+Zachry Tyler Wood +INDEPENDANT DIRECTOR +NASDAQGOOG(GOOGL). +5325 BRADFORD DR +DALLAS, TX 75235 +(469) 697-4300 +(Name, address and telephone number, including area code, of agent for service) +Copies to: +Jeffrey D. Karpf, Esq. +Kent Walker, Esq. +Kathryn W. Hall, Esq. +Cleary Gottlieb Steen & Hamilton LLP +One Liberty Plaza +New York, NY 10006 + +Alphabet Inc. +1600 Amphitheatre Parkway +Mountain View, CA 94043 +(650) 253-0000 + +Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. + +Large accelerated filer ☒ Accelerated filer ☐ +Non-accelerated filer ☐ Smaller reporting company ☐ +Emerging growth company ☐ + + +If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. ☐ + + +REGISTRATION OF ADDITIONAL SECURITIES PURSUANT TO GENERAL INSTRUCTION E OF +FORM S-8 +EXPLANATORY NOTE +This Registration Statement is being filed by Alphabet Inc., a Delaware corporation (the “Registrant”), to register 674778000 additional shares of its Class C capital stock, par value $113.20 per share (the “Class C Capital Stock”) issuable to eligible employees, consultants, contractors, and directors of the Registrant and its affiliates under the Registrant’s Amended and Restated 2021 Stock Plan (the “Plan”). On June 2, 2021, the Registrant filed with the U.S. Securities and Exchange Commission (the “SEC”): (i) Post-Effective Amendment to Form S-8 Registration Statement (File No. 001-37580) and (ii) Form S-8 Registration Statement (File No. 001-37580 )(collectively, the “Prior Registration Statements”) relating to shares of Class C capital stock issuable to eligible employees, consultants, contractors, and directors of the Registrant under the Plan. The Prior Registration Statements are currently effective. The Registration Statement relates to securities of the same class as those to which the Prior Registration Statements relate and is submitted in accordance with General Instruction E of Form S-8 regarding Registration of Additional Securities. Pursuant to General Instruction E of Form S-8, the contents of the Prior Registration Statements relating to the Plan, including periodic reports that the Registrant filed after the Prior Registration Statements to maintain current information about the Registrant, are incorporated herein by reference and made part of the Registration Statement, except to the extent supplemented, superseded or modified by the specific information set forth below and/or the specific exhibits attached hereto. + +PART II. INFORMATION REQUIRED IN REGISTRATION STATEMENT +Item 8. Exhibits. + +Exhibit +Number
+
+Exhibit Description +3.1‡ +Amended and Restated Certificate of Incorporation of Alphabet Inc., dated June 3, 2022 (incorporated by reference to Exhibit 3.01 filed with Registrant’s Current Report on Form 8-K (File No. 001-37580) filed with the SEC on June 3, 2022) +3.2‡ +Amended and Restated Bylaws of Alphabet Inc. dated October 21, 2020 (incorporated by reference to Exhibit 3.02 filed with Registrant’s Current Report on Form 8-K/A (File No. 001-37580), as filed with the SEC on October 29, 2020) +4.1‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan (incorporated by reference to Exhibit 10.01 filed with Registrant’s Current Report on Form 8-K (File No. 001-37580) filed with the SEC on June 3, 2022) +4.2‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan - Form of Alphabet Restricted Stock Unit Agreement (incorporated by reference to Exhibit 10.01.1 to Quarterly Report on Form 10-Q (file No. 001-37580), as filed with the SEC on July 28, 2021) +4.3‡ +Alphabet Inc. Amended and Restated 2021 Stock Plan - Form of Alphabet 2022 Non-CEO Performance Stock Unit Agreement (incorporated by reference to Exhibit 10.07.2 filed with the Registrant’s Annual Report on Form 10-K (File No. 001-37580), as filed with the SEC on February 2, 2022) +5.1* +Opinion of Cleary Gottlieb Steen & Hamilton LLP +23.1* +Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm +23.2* +Consent of Cleary Gottlieb Steen & Hamilton LLP (filed as part of Exhibit 5.1) +24.0* +Power of Attorney (included as part of the signature page of the Registration Statement) +107* +Filing Fee Table +* Filed herewith +‡ Incorporated herein by reference + + + +SIGNATURES + +Pursuant to the requirements of the Securities Act, the Registrant certifies that it has reasonable grounds to believe that it meets all of the requirements for filing on Form S-8 and has duly caused the Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Mountain View, State of California, on July 26, 2022. + +ALPHABET INC. +By: /S/ ZAK WOOD +Zachry Tyler Wood +Significance +Cerifying Officer or Authorized Signature +Indapendant Director + + + + +POWER OF ATTORNEY + +KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below hereby constitutes and appoints Sundar Pichai, Ruth M. Porat, Kent Walker, and Kathryn W. Hall, and each of them acting individually, as his or her true and lawful attorney-in-fact and agent, each with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities (unless revoked in writing), to sign any and all amendments (including post-effective amendments thereto) to the Registration Statement on Form S-8, and to file the same, with exhibits thereto and other documents in connection therewith, with the SEC, granting to such attorney-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as full to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that such attorney-in-fact and agents, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof. +Pursuant to the requirements of the Securities Act, the Registration Statement has been signed by the following persons in the capacities and on the date indicated +Zachry Tyler Wood +5323 BRADFORD DR +DALLAS, TX 75235 +CONSOLIDATED STATEMENTS OF CASH FLOWS - USD ($) $ in Millions 12 Months Ended
+
+Dec. 31, 2020 Dec. 31, 2019 Dec. 31, 2018 +Operating activities +Net income $ 40,269 $ 34,343 $ 30,736 +Adjustments: +Depreciation and impairment of property and equipment 12,905 10,856 8,164 +Amortization and impairment of intangible assets 792 925 871 +Stock-based compensation expense 12,991 10,794 9,353 +Deferred income taxes 1,390 173 778 +Gain on debt and equity securities, net (6,317) (2,798) (6,650) +Other 1,267 (592) (189) +Changes in assets and liabilities, net of effects of acquisitions: +Accounts receivable (6,524) (4,340) (2,169) +Income taxes, net 1,209 (3,128) (2,251) +Other assets (1,330) (621) (1,207) +Accounts payable 694 428 1,067 +Accrued expenses and other liabilities 5,504 7,170 8,614 +Accrued revenue share 1,639 1,273 483 +Deferred revenue 635 37 371 +Net cash provided by operating activities 65,124 54,520 47,971 +Investing activities +Purchases of property and equipment (22,281) (23,548) (25,139) +Purchases of marketable securities (136,576) (100,315) (50,158) +Maturities and sales of marketable securities 132,906 97,825 48,507 +Purchases of non-marketable investments (7,175) (1,932) (2,073) +Maturities and sales of non-marketable investments 1,023 405 1,752 +Acquisitions, net of cash acquired, and purchases of intangible assets (738) (2,515) (1,491) +Other investing activities 68 589 98 +Net cash used in investing activities (32,773) (29,491) (28,504) +Financing activities +Net payments related to stock-based award activities (5,720) (4,765) (4,993) +Repurchases of capital stock (31,149) (18,396) (9,075) +Proceeds from issuance of debt, net of costs 11,761 317 6,766 +Repayments of debt (2,100) (585) (6,827) +Proceeds from sale of interest in consolidated entities, net 2,800 220 950 +Net cash used in financing activities (24,408) (23,209) (13,179) +Effect of exchange rate changes on cash and cash equivalents 24 (23) (302) +Net increase in cash and cash equivalents 7,967 1,797 5,986 +Cash and cash equivalents at beginning of period 18,498 16,701 10,715 +Cash and cash equivalents at end of period 26,465 18,498 16,701 +Supplemental disclosures of cash flow information +Cash paid for taxes, net of refunds $ 4,990 $ 8,203 $ 5,671 +You have the right to get a free copy of your credit file disclosure, commonly called a credit report, once every 12 months, from each of the nationwide consumer credit reporting companies - Equifax, Experian and TransUnion. For instant access to your free credit report, visit www.annualcreditreport.com. +For more information on obtaining your free credit report, visit www.annualcreditreport.com or call 877-322-8228. +Use this form if you prefer to write to request your credit report from any, or all, of the nationwide consumer credit reporting companies. The following information is required to process your request. Omission of any information may delay your request. +Once complete, fold (do not staple or tape), place into a #10 envelope, affix required postage and mail to: +Annual Credit Report Request Service P.O. Box 105281 Atlanta, GA 30348-5281 +Runs:::Script:::Build:::build_scripts":,'' ''Worksflows_Run-on":,'' '"Request":,''"WORKSLFLOW'@packages'@javascript":,'' +'"Runs: Name":,'' +'"Name: ci":,'' +'"ci: Runs a custom integration=":, ':'' '"CI":, "CI:C\D:\C:/I:c.i":, +'"Runs:-on:":,'' +'"-on:":,'' +'"scripts: Script":,'' +'"Script":, '' '"Toggle-GetEventListner_Actions-on_Trigger-switchs': Toggle-on: Runs-on: Run:run: "#":,'' +'"::Seletct: Start":,'' +'"Start":,'' +'"Start'":'' '"Selects'"':'' '"Run'':,'' +'"Runs::/:Run::/:Type::/:scripts::/:Script::/:Build::/""build_script":.'"':,'' +'"Build_script'"':'' '"Build'' 'and'' 'Deploy":,'"'''' +"':'Build and Deploy : build_script":,'' +"build_script : DEPOSIT_TICKET'@'C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA//POST":,''":,'"'''' +'"'#':' DEPOSIT_TICKET : "SERVICE_ID":, :60600052''ci :Try calling :navigator.credentials.create(depository)=Try calling :navigator.credentials.create(C::\Users::\pnc.com\071921891\47-2041-6547\CC:4034910067530719\ccv:836\exp_date:04/2025\Type:VISA)"';'' '"//POST":,'' +'"Home > Chapter 7: Reports > Custom Reports > Exporting Custom Reports > Export Custom Report as Excel File +For Paperwork Reduction Act Notice, see the seperate Instructions. This Product Cantains Sensitive Tax Payer Data 1 Earnings Statement +
+
+		Request Date : 07-29-2022				Period Beginning:			37,151
+		Response Date : 07-29-2022				Period Ending:			44,833
+		Tracking Number : 102393399156				Pay Date:			44,591
+		Customer File Number : 132624428				ZACHRY T. 			WOOD
+						5,323	BRADFORD DR		
++important information Wage and Income Transcript
+
+		SSN Provided : XXX-XX-1725				DALLAS		TX 75235-8314	
+		Tax Periood Requested :  December, 2020							
+units					year to date	Other Benefits and			
+674678000					75,698,871,600	Information			
+					        	Pto Balance			
+					        	Total Work Hrs			
+Form W-2 Wage and Tax Statement					        	Important Notes			
++Employer : COMPANY PH Y: 650-253-0000
+
+Employer Identification Number (EIN) :XXXXX7919 BASIS OF PAY: BASIC/DILUTED EPS +INTU +2700 C +Quarterly Report on Form 10-Q, as filed with the Commission on +YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 3330.90 PAR SHARE VALUE +Employee : Reciepient's Identification Number :xxx-xx-1725 ZACH T WOOD 5222 B +on Form 8-K, as filed with the Commission on January 18, 2019). +Submission Type : Original document +Wages, Tips and Other Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5105000.00 510500000 Advice number: 650,001 +Federal Income Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1881380.00 188813800 Pay date: 44,669 +Social Security Wages : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137700.00 13770000 +Social Security Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 853700 xxxxxxxx6547 transit ABA +Medicare Wages and Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510500000 71,921,891 +Medicare Tax Withheld : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118166700 NON-NEGOTIABLE +Social Security Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Allocated Tips : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Dependent Care Benefits : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Deffered Compensation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Q" Nontaxable Combat Pay : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "W" Employer Contributions tp a Health Savings Account : . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "Y" Defferels under a section 409A nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . . 0 +Code "Z" Income under section 409A on a nonqualified Deferred Compensation plan : . . . . . . . . . . . . . . . . . 0 +Code "R" Employer's Contribution to MSA : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .' 0 +Code "S" Employer's Cotribution to Simple Account : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "T" Expenses Incurred for Qualified Adoptions : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "V" Income from exercise of non-statutory stock options : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 +Code "AA" Designated Roth Contributions under a Section 401 (k) Plan : . . . . . . . . . . . . . . . . . . . . 0 +Code "BB" Designated Roth Contributions under a Section 403 (b) Plan : . . . . . . . . . . . . . . . . . . . . . 0 +Code "DD" Cost of Employer-Sponsored Health Coverage : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . +Code "EE" Designated ROTH Contributions Under a Governmental Section 457 (b) Plan : . . . . . . . . . . . . . . . . . . . . . +Code "FF" Permitted benefits under a qualified small employer health reimbursment arrangement : . . . . . . . . . 0 +Code "GG" Income from Qualified Equity Grants Under Section 83 (i) : . . . . . . . . . . . . . . . . . . . . . . $0.00 +Code "HH" Aggregate Defferals Under section 83(i) Elections as of the Close of the Calendar Year : . . . . . . . 0 +Third Party Sick Pay Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Retirement Plan Indicator : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unanswered +Statutory Employee : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Not Statutory Employee +W2 Submission Type : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Original +W2 WHC SSN Validation Code : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correct SSN The U.S. Internal Revenue Code of 1986, as amended, the Treasury Regulations promulgated thereunder, published pronouncements of the Internal Revenue Service, which may be cited or used as precedents, and case law, any of which may be changed at any time with retroactive effect. No opinion is expressed on any matters other than those specifically referred to above. EMPLOYER IDENTIFICATION NUMBER: 61-1767919 EIN 61-1767919 FEIN 88-1303491 [DRAFT FORM OF TAX OPINION] ID: SSN: DOB: 37,305,581 633,441,725 34,622 ALPHABET Name Tax Period Total Social Security Medicare Withholding ZACHRY T WOOD Fed 941 Corporate Sunday, September 30, 2007 66,987 28,841 6,745 31,400 5323 BRADFORD DR Fed 941 West Subsidiary Sunday, September 30, 2007 17,115 7,369 1,723 8,023 DALLAS TX 75235-8314 Fed 941 South Subsidiary Sunday, September 30, 2007 23,906 10,293 2,407 11,206 ORIGINAL REPORT Fed 941 East Subsidiary Sunday, September 30, 2007 11,248 4,843 1,133 5,272 Income, Rents, & Royalty Fed 941 Corp - Penalty Sunday, September 30, 2007 27,199 11,710 2,739 12,749 INCOME STATEMENT Fed 940 Annual Unemp - Corp Sunday, September 30, 2007 17,028 GOOGL_income-statement_Quarterly_As_Originally_Reported TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020 Q1 2020 Q4 2019 Q3 2019 Gross Profit 146698000000 42337000000 37497000000 35653000000 31211000000 30,818,000,000 25,056,000,000 19,744,000,000 22,177,000,000 25,055,000,000 22,931,000,000 Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 64,133,000,000 34,071,000,000 Other Revenue 6,428,000,000 Cost of Revenue 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 Cost of Goods and Services 110939000000 32988000000 27621000000 26227000000 24103000000 -26,080,000,000 -21,117,000,000 -18,553,000,000 -18,982,000,000 -21,020,000,000 -17,568,000,000 Operating Income/Expenses 67984000000 20452000000 16466000000 16292000000 14774000000 -15,167,000,000 -13,843,000,000 -13,361,000,000 -14,200,000,000 -15,789,000,000 -13,754,000,000 Selling, General and Administrative Expenses 36422000000 11744000000 8772000000 8617000000 7289000000 -8,145,000,000 -6,987,000,000 -6,486,000,000 -7,380,000,000 -8,567,000,000 -7,200,000,000 General and Administrative Expenses 13510000000 4140000000 3256000000 3341000000 2773000000 -2,831,000,000 -2,756,000,000 -2,585,000,000 -2,880,000,000 -2,829,000,000 -2,591,000,000 Selling and Marketing Expenses 22912000000 7604000000 5516000000 5276000000 4516000000 -5,314,000,000 -4,231,000,000 -3,901,000,000 -4,500,000,000 -5,738,000,000 -4,609,000,000 Research and Development Expenses 31562000000 8708000000 7694000000 7675000000 7485000000 -7,022,000,000 -6,856,000,000 -6,875,000,000 -6,820,000,000 -7,222,000,000 -6,554,000,000 Total Operating Profit/Loss 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Non-Operating Income/Expenses, Total 12020000000 2517000000 2033000000 2624000000 4846000000 3,038,000,000 2,146,000,000 1,894,000,000 -220,000,000 1,438,000,000 -549,000,000 Total Net Finance Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 Net Interest Income/Expense 1153000000 261000000 310000000 313000000 269000000 333,000,000 412,000,000 420,000,000 565,000,000 604,000,000 608,000,000 Interest Expense Net of Capitalized Interest 346000000 117000000 77000000 76000000 76000000 -53,000,000 -48,000,000 -13,000,000 -21,000,000 -17,000,000 -23,000,000 Interest Income 1499000000 378000000 387000000 389000000 345000000 386,000,000 460,000,000 433,000,000 586,000,000 621,000,000 631,000,000 Net Investment Income 12364000000 2364000000 2207000000 2924000000 4869000000 3,530,000,000 1,957,000,000 1,696,000,000 -809,000,000 899,000,000 -1,452,000,000 Gain/Loss on Investments and Other Financial Instruments 12270000000 2478000000 2158000000 2883000000 4751000000 3,262,000,000 2,015,000,000 1,842,000,000 -802,000,000 399,000,000 -1,479,000,000 Income from Associates, Joint Ventures and Other Participating Interests 334000000 49000000 188000000 92000000 5000000 355,000,000 26,000,000 -54,000,000 74,000,000 460,000,000 -14,000,000 Gain/Loss on Foreign Exchange 240000000 163000000 139000000 51000000 113000000 -87,000,000 -84,000,000 -92,000,000 -81,000,000 40,000,000 41,000,000 Irregular Income/Expenses 0 0 0 0 0 0 0 0 Other Irregular Income/Expenses 0 0 0 0 0 0 0 0 Other Income/Expense, Non-Operating 1497000000 108000000 484000000 613000000 292000000 -825,000,000 -223,000,000 -222,000,000 24,000,000 -65,000,000 295,000,000 Pretax Income 90734000000 24402000000 23064000000 21985000000 21283000000 18,689,000,000 13,359,000,000 8,277,000,000 7,757,000,000 10,704,000,000 8,628,000,000 Provision for Income Tax 14701000000 3760000000 4128000000 3460000000 3353000000 -3,462,000,000 -2,112,000,000 -1,318,000,000 -921,000,000 -33,000,000 -1,560,000,000 Net Income from Continuing Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income after Extraordinary Items and Discontinued Operations 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income after Non-Controlling/Minority Interests 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Diluted Net Income Available to Common Stockholders 76033000000 20642000000 18936000000 18525000000 17930000000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Income Statement Supplemental Section Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Reported Effective Tax Rate 0 0 0 0 0 0 0 0 Reported Normalized Income 6,836,000,000 Reported Normalized Operating Profit 7,977,000,000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS 333.90 31 28 28 27 23 17 10 10 15 10 Basic EPS from Continuing Operations 114 31 28 28 27 22 17 10 10 15 10 Basic EPS from Discontinued Operations Diluted EPS 3330.90 31 28 27 26 22 16 10 10 15 10 Diluted EPS from Continuing Operations 3330.90 31 28 27 26 22 16 10 10 15 10 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Reported Normalized Diluted EPS 10 Basic EPS 114 31 28 28 27 23 17 10 10 15 10 Diluted EPS 112 31 28 27 26 22 16 10 10 15 10 Basic WASO 667650000 662664000 665758000 668958000 673220000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted WASO 677674000 672493000 676519000 679612000 682071000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Fiscal year end September 28th., 2022. | USD 31622,6:39 PM Morningstar.com Intraday Fundamental Portfolio View Print Report Print 3/6/2022 at 6:37 PM Current Value 15,335,150,186,014 GOOGL_income-statement_Quarterly_As_Originally_Reported Q4 2021 Cash Flow from Operating Activities, Indirect 24934000000 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Net Cash Flow from Continuing Operating Activities, Indirect 24934000000 25539000000 37497000000 31211000000 30,818,000,000 Cash Generated from Operating Activities 24934000000 25539000000 21890000000 19289000000 22,677,000,000 Income/Loss before Non-Cash Adjustment 20642000000 25539000000 21890000000 19289000000 22,677,000,000 Total Adjustments for Non-Cash Items 6517000000 18936000000 18525000000 17930000000 15,227,000,000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3439000000 3797000000 4236000000 2592000000 5,748,000,000 Depreciation and Amortization, Non-Cash Adjustment 3439000000 3304000000 2945000000 2753000000 3,725,000,000 Depreciation, Non-Cash Adjustment 3215000000 3304000000 2945000000 2753000000 3,725,000,000 Amortization, Non-Cash Adjustment 224000000 3085000000 2730000000 2525000000 3,539,000,000 Stock-Based Compensation, Non-Cash Adjustment 3954000000 219000000 215000000 228000000 186,000,000 Taxes, Non-Cash Adjustment 1616000000 3874000000 3803000000 3745000000 3,223,000,000 Investment Income/Loss, Non-Cash Adjustment 2478000000 1287000000 379000000 1100000000 1,670,000,000 Gain/Loss on Financial Instruments, Non-Cash Adjustment 2478000000 2158000000 2883000000 4751000000 -3,262,000,000 Other Non-Cash Items 14000000 2158000000 2883000000 4751000000 -3,262,000,000 Changes in Operating Capital 2225000000 64000000 8000000 255000000 392,000,000 Change in Trade and Other Receivables 5819000000 2806000000 871000000 1233000000 1,702,000,000 Change in Trade/Accounts Receivable 5819000000 2409000000 3661000000 2794000000 -5,445,000,000 Change in Other Current Assets 399000000 2409000000 3661000000 2794000000 -5,445,000,000 Change in Payables and Accrued Expenses 6994000000 1255000000 199000000 7000000 -738,000,000 Change in Trade and Other Payables 1157000000 3157000000 4074000000 4956000000 6,938,000,000 Change in Trade/Accounts Payable 1157000000 238000000 130000000 982000000 963,000,000 Change in Accrued Expenses 5837000000 238000000 130000000 982000000 963,000,000 Change in Deferred Assets/Liabilities 368000000 2919000000 4204000000 3974000000 5,975,000,000 Change in Other Operating Capital 3369000000 272000000 3000000 137000000 207,000,000 Change in Prepayments and Deposits 3041000000 1082000000 785000000 740,000,000 Cash Flow from Investing Activities 11016000000 Cash Flow from Continuing Investing Activities 11016000000 10050000000 9074000000 5383000000 -7,281,000,000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net 6383000000 10050000000 9074000000 5383000000 -7,281,000,000 Purchase of Property, Plant and Equipment 6383000000 6819000000 5496000000 5942000000 -5,479,000,000 Sale and Disposal of Property, Plant and Equipment 6819000000 5496000000 5942000000 -5,479,000,000 Purchase/Sale of Business, Net 385000000 Purchase/Acquisition of Business 385000000 259000000 308000000 1666000000 -370,000,000 Purchase/Sale of Investments, Net 4348000000 259000000 308000000 1666000000 -370,000,000 Purchase of Investments 40860000000 3360000000 3293000000 2195000000 -1,375,000,000 Sale of Investments 36512000000 35153000000 24949000000 37072000000 -36,955,000,000 Other Investing Cash Flow 100000000 31793000000 21656000000 39267000000 35,580,000,000 Purchase/Sale of Other Non-Current Assets, Net 388000000 23000000 30000000 -57,000,000 Sales of Other Non-Current Assets Cash Flow from Financing Activities 16511000000 15254000000 Cash Flow from Continuing Financing Activities 16511000000 15254000000 15991000000 13606000000 -9,270,000,000 Issuance of/Payments for Common Stock, Net 13473000000 12610000000 15991000000 13606000000 -9,270,000,000 Payments for Common Stock 13473000000 12610000000 12796000000 11395000000 -7,904,000,000 Proceeds from Issuance of Common Stock 12796000000 11395000000 -7,904,000,000 Issuance of/Repayments for Debt, Net 115000000 42000000 Issuance of/Repayments for Long Term Debt, Net 115000000 42000000 1042000000 37000000 -57,000,000 Proceeds from Issuance of Long Term Debt 6250000000 6350000000 1042000000 37000000 -57,000,000 Repayments for Long Term Debt 6365000000 6392000000 6699000000 900000000 0 Proceeds from Issuance/Exercising of Stock Options/Warrants 2923000000 2602000000 7741000000 937000000 -57,000,000 2453000000 2184000000 -1,647,000,000 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 0 300000000 10000000 338,000,000,000 Effect of Exchange Rate Changes 20945000000 23719000000 23630000000 26622000000 26,465,000,000 Cash and Cash Equivalents, Beginning of Period 25930000000 235000000000 3175000000 300000000 6,126,000,000 Cash Flow Supplemental Section 181000000000 146000000000 183000000 143000000 210,000,000 Change in Cash as Reported, Supplemental 23719000000000 23630000000000 26622000000000 26465000000000 20,129,000,000,000 Income Tax Paid, Supplemental 2774000000 89000000 2992000000 6,336,000,000 Cash and Cash Equivalents, Beginning of Period 13412000000 157000000 -4,990,000,000 12 Months Ended Q4 2020 Q4 2019 Income Statement USD in "000'"s Repayments for Long Term Debt Dec. 31, 2020 Dec. 31, 2019 Costs and expenses: Cost of revenues 182527 161,857 Research and development Sales and marketing 84732 71,896 General and administrative 27573 26,018 European Commission fines 17946 18,464 Total costs and expenses 11052 9,551 Income from operations 0 1,697 Other income (expense), net 141303 127,626 Income before income taxes 41224 34,231 Provision for income taxes 6858000000 5,394 Net income 22677000000 19,289,000,000 *include interest paid, capital obligation, and underweighting 22677000000 19,289,000,000 22677000000 19,289,000,000 Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)-- Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) For Paperwork Reduction Act Notice, see the seperate Instructions. JPMORGAN TRUST III A/R Aging Summary As of July 28, 2022 ZACHRY T WOOD Days over due Effeective Tax Rate Prescribed by the Secretary of the Treasury. 44591 31 - 60 61 - 90 91 and over TOTAL £134,839.00 Alphabet Inc. =USD('"'$'"'-in'-millions)" Ann. Rev. Date £43,830.00 £43,465.00 £43,100.00 £42,735.00 £42,369.00 Revenues £161,857.00 £136,819.00 £110,855.00 £90,272.00 £74,989.00 Cost of revenues -£71,896.00 -£59,549.00 -£45,583.00 -£35,138.00 -£28,164.00 Gross profit £89,961.00 £77,270.00 £65,272.00 £55,134.00 £46,825.00 Research and development -£26,018.00 -£21,419.00 -£16,625.00 -£13,948.00 -£12,282.00 Sales and marketing -£18,464.00 -£16,333.00 -£12,893.00 -£10,485.00 -£9,047.00 General and administrative -£9,551.00 -£8,126.00 -£6,872.00 -£6,985.00 -£6,136.00 European Commission fines -£1,697.00 -£5,071.00 -£2,736.00 — — Income from operations £34,231.00 £26,321.00 £26,146.00 £23,716.00 £19,360.00 Interest income £2,427.00 £1,878.00 £1,312.00 £1,220.00 £999.00:,'' +'"Publish::":,''' +'"Launch::":,'' +'"Release::":,'' +'"Deploy::":, "Deposit'@47-2041-6547'@071921891'@pnc.com/mybusiness/":,'' +'"const":,'' +'"322,203 63,069,282 90,262,454 11,073,033 15,576,684 260,314,845 +:Build:: +PUBLISH: +LAUNCH: +RELEASE: +DEPLOY :AUTOMATE +AUTOMATE :DISPATCH 👍 ::From 4e8bc6c0180cbeb882f6c425ff38a41db1a79e76 Mon Sep 17 00:00:00 2001 +From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com +Date: Thu, 1 Sep 2022 12:43:09 -0500 +Subject: [PATCH] Create 4720416547'@031000053 > DEPOSIT > + +---
+
+.../4720416547'@031000053 > DEPOSIT > | 36 +++++++++++++++++++ 1 file changed, 36 insertions(+) create mode 100644 .github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +diff --git a/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > b/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +new file mode 100644 +index 00000000..9f0ebb86 +--- /dev/null ++++ b/.github/workflows/071921891/4720416547'@031000053 > DEPOSIT > +@@ -0,0 +1,36 @@ ++# This is a basic workflow to help you get started with Actions ++ ++name: CI ++ ++# Controls when the workflow will run ++on: ++ # Triggers the workflow on push or pull request events but only for the "master" branch ++ push: ++ branches: [ "master" ] ++ pull_request: ++ branches: [ "master" ] ++ ++ # Allows you to run this workflow manually from the Actions tab ++ workflow_dispatch: ++ ++# A workflow run is made up of one or more jobs that can run sequentially or in parallel ++jobs: ++ # This workflow contains a single job called "build" ++ build: ++ # The type of runner that the job will run on ++ runs-on: ubuntu-latest ++ ++ # Steps represent a sequence of tasks that will be executed as part of the job ++ steps: ++ # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it ++ - uses: actions/checkout@v3 ++ ++ # Runs a single command using the runners shell ++ - name: Run a one-line script ++ run: echo Hello, world! ++ ++ # Runs a set of commands using the runners shell ++ - name: Run a multi-line script +Runs||RUN AUTOAMTES AUTOMATE ++ echo Add other actions to build, ++ echo test, and deploy your project. : +DISPATCH :AUTOMATE +AUTOMATES +424B3 1 d424b3.htm FORM 424B3
+
+Table of Contents Filed Pursuant to Rule 424(b)(3)
+
+Registration No. 333-145109
+
+Prospectus dated May 1, 2008
+
+Chase Issuance Trust
+
+Issuing Entity
+
+Chase Bank USA, National Association
+
+Sponsor, Depositor, Originator, Administrator and Servicer
+
+The issuing entity—
+
+| • | | may periodically issue notes in a series comprised of one or more classes or tranches; +-- | -- | -- | -- +
+
+“Principal Collections” means, for any month, the sum of (1) for credit card receivables designated for inclusion in the issuing entity, all collections other than those designated as Finance Charge Collections on revolving credit card accounts designated for that month and (2) for any collateral certificate designated for inclusion in the issuing entity, all collections of principal receivables, including Collateral Certificate Principal Shortfall Payments, allocated to the holder of that collateral certificate for that month.
+
+“Principal Payment Date” means, for any series, class or tranche of notes, any date on which a payment in respect of principal is to be made.
+
+“Rapid Amortization Period” means (1) for Series 2002-CC, the period beginning on and including the pay out commencement date and ending on the earlier of the Series 2002-CC termination date and the First USA Master Trust Termination Date and (2) for Series 2004-CC, the period beginning on and including the pay out commencement date and ending on the earlier of the Series 2004-CC termination date and the Chase Master Trust Termination Date.
+
+“Rating Agency” means, with respect to each series, the rating agency or agencies, if any, specified in the related prospectus supplement.
+
+“Receivables Servicing Fee” means, for any month, one-twelfth of the product of (1) the Receivables Servicing Fee Percentage and (2) the Issuing Entity Average Principal Balance for that month.
+
+172
+
+Table of Contents “Receivables Servicing Fee Percentage” means, 1.50% for so long as Chase Bank USA, National Association is the servicer, or 2.00% if Chase Bank USA, National Association is no longer the servicer.
+
+“Recoveries” means Chase Master Trust Recoveries, First USA Master Trust Recoveries or Issuing Entity Recoveries, as applicable.
+
+“Regulation AB” shall mean Subpart 229.1100 — Asset Backed Securities (Regulation AB), 17 C.F.R. §§229.1100-229.1123, as such may be amended from time to time, and subject to such clarification and interpretation as have been provided by the SEC in the adopting release (Asset-Backed Securities, Securities Act Release No. 33-8518, 70 Fed. Reg. 1,506, 1,531 (Jan. 7, 2005)) or by the staff of the SEC, or as may be provided by the SEC or its staff from time to time.
+
+“Removal Date” means the date of any removal of credit card receivables in revolving credit card accounts from the First USA Master Trust Portfolio or the Chase Master Trust Portfolio, as applicable.
+
+“Required Transferor Amount” means, for any month, the product of (1) with respect to any date of determination, the aggregate outstanding dollar amount of receivables in the issuing entity that are principal receivables as of the close of business on the last day of that month and (2) the Required Transferor Amount Percentage.
+
+“Required Transferor Amount Percentage” means 4% or such other percentage as will be designated from time to time by the servicer, but, if that other percentage is less than 4%, the servicer must have provided to the indenture trustee and the collateral agent (A) an Issuing Entity Tax Opinion, and (B) written confirmation from each rating agency that has rated any outstanding notes that the change will not result in the reduction, qualification with negative implications or withdrawal of its then-current rating of any outstanding notes.
+
+“Revolving Period” means a First USA Collateral Certificate Revolving Period or a Chase Collateral Certificate Revolving Period.
+
+“Scheduled Principal Payment Date” means, for any series, class or tranche of notes, the date on which the stated principal amount of that series, class or tranche is expected to be repaid.
+
+“SEC” means the United States Securities and Exchange Commission, as from time to time constituted, created under the Securities Exchange Act of 1934, as amended.
+
+“Segregated Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Segregated Finance Charge Collections.”
+
+“Servicing Fee” means, for any month, the product of (1) the Receivables Servicing Fee for that month and (2) the CHASEseries Floating Allocation Percentage for that month.
+
+“Servicing Fee Percentage” means, for any month, the annualized percentage equivalent of a fraction, the numerator of which is the Servicing Fee and the denominator of which is the Nominal Liquidation Amount used in the calculation of the CHASEseries Floating Allocation Percentage for that month.
+
+“SFAS 140” means Statement of Financial Accounting Standards No. 140, Accounting for Transfers and Servicing of Financial Assets and Extinguishments of Liabilities, a replacement of FASB Statement 125, or any replacement FASB Statement, or amendment or interpretation thereof.
+
+“Shared Excess Available Finance Charge Collections” means, for any month, as of the related determination date, with respect to any series of notes in Shared Excess Available Finance Charge Collections Group A, the sum of (1) the amount of Available Finance Charge Collections with respect to that month,
+
+173
+
+Table of Contents available after application to cover targeted deposits to the interest funding account, payment of the Servicing Fee and application to cover any unfunded CHASEseries Default Amount or any deficits in the Nominal Liquidation Amount of the notes, targeted deposits to the Class C reserve account, if applicable, and any other payments in respect of CHASEseries notes and (2) the Finance Charge Collections remaining after all required payments and deposits from all other series identified as belonging to Shared Excess Available Finance Charge Collections Group A which the applicable indenture supplements for those series specify are to be treated as “Shared Excess Available Finance Charge Collections.”
+
+“Shared Excess Available Finance Charge Collections Group A” means the various series of notes—which will include the CHASEseries notes—that may be designated as a single group for the purpose of sharing Shared Excess Available Finance Charge Collections.
+
+“Shared Excess Available Principal Collections” means, for any month, the sum of (1) with respect to the notes, the amount of Available Principal Collections remaining after all required applications of those amounts described in “Deposit and Application of Funds in the Issuing Entity—Application of Available Principal Collections,” (2) with respect to any series of notes other than the CHASEseries, the Principal Collections allocated to that series of notes remaining after all required payments and deposits that are specified to be treated as “Shared Excess Available Principal Collections” in the applicable indenture supplement, and (3) the aggregate amount on deposit in the excess funding account following any deposit or withdrawal made during that month as described in “Sources of Funds to Pay the Notes—Issuing Entity Bank Accounts.”
+
+“Transfer Date” means the Business Day immediately prior to the applicable distribution date for any series of certificates issued by the Chase Master Trust or the First USA Master Trust.
+
+“Transferor Amount” means, for any month, an amount equal to (1) the Pool Balance for that month minus (2) the aggregate Nominal Liquidation Amount of all notes as of the close of business on the last day of that month.
+
+“Transferor Certificate” means (1) the certificate representing the Transferor Amount or (2) the uncertificated interest in the issuing entity comprising the Transferor Amount.
+
+“Transferor Percentage” means, for any month, 100% minus the sum of the aggregate CHASEseries Noteholder Percentage of all series outstanding with respect to Principal Collections, Finance Charge Collections, the Receivables Servicing Fee or the Default Amount, as applicable.
+
+“Trust Portfolios” means the First USA Master Trust Portfolio, the Chase Master Trust Portfolio and the issuing entity portfolio.
+
+“UCC” means the Uniform Commercial Code as in effect from time to time in the applicable jurisdiction.
+
+“Unapplied Excess Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Excess Finance Charge Collections and Unapplied Master Trust Level Excess Finance Charge Collections.”
+
+“Unapplied Master Trust Level Excess Finance Charge Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Excess Finance Charge Collections and Unapplied Master Trust Level Excess Finance Charge Collections.”
+
+“Unapplied Master Trust Level Principal Collections” has the meaning described in “Deposit and Application of Funds in the Issuing Entity—Unapplied Master Trust Level Principal Collections.”
+
+174
+
+-::Run'@https:://pnc.com/https:://pnc.com/README.md/README.md/071921891/071921891/README.md/README.md/47-2041-6547/47-2041-6547/README.md/README.md + + + + +Show | Show +-- | -- +Show + + ADP Payments
+
+Home > Chapter 7: Reports > Sample Custom Reports > Echeck (ACH) Transaction Report
+
+ECHECK (ACH) TRANSACTION REPORT Use this configuration to create a report containing all of the Echeck (ACH) transactions processed in your ADP Payments account for any given date range.
+
+To create an Echeck (ACH) Transaction report, follow the steps for Creating Custom Reports described above, and use the following filters:sample_report_achtrans.jpg
+
+Check both the Transactions and the Customers checkboxes in the Include in Report section.
+
+Set the Date Range filters to “all,” select a rolling date range, or enter a custom Start date and End date. Then select whether you want to Report on transactions by “Enter date” or “Settle date.”
+
+In the Payment Options section, check only the E-Check box in the Type section.
+
+In the Payment Options section, check the All box under Status.
+
+Suggested fields to add to the report:
+
+Transaction.Transaction ID
+
+Transaction.Transaction Date
+
+Transaction.Status
+
+Transaction.Payment Type
+
+Transaction.Amount
+
+Transaction.Masked Account Number
+
+Transaction.Estimated Settle Date
+
+Transaction.Actual Settlement Date
+
+Transaction.Invoice Number
+
+Transaction.Schedule Id
+
+Customer.Customer ID
+
+Customer.Account Number
+
+Customer.Company
+
+Customer.First Name
+
+Customer.Last Name
+
+Customer.Billing City
+
+Customer.Billing State
+
+Customer.Phone 1
+
+Customer.Email
+
+Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Sample Custom Reports > Echeck (ACH) Transaction Report + +ECHECK (ACH) TRANSACTION REPORT +Use this configuration to create a report containing all of the Echeck (ACH) transactions processed in your ADP Payments account for any given date range. + + + +To create an Echeck (ACH) Transaction report, follow the steps for Creating Custom Reports described above, and use the following filters:sample_report_achtrans.jpg + +Check both the Transactions and the Customers checkboxes in the Include in Report section. + +Set the Date Range filters to “all,” select a rolling date range, or enter a custom Start date and End date. Then select whether you want to Report on transactions by “Enter date” or “Settle date.” + +In the Payment Options section, check only the E-Check box in the Type section. + +In the Payment Options section, check the All box under Status. + +Suggested fields to add to the report: + +Transaction.Transaction ID + +Transaction.Transaction Date + +Transaction.Status + +Transaction.Payment Type + +Transaction.Amount + +Transaction.Masked Account Number + +Transaction.Estimated Settle Date + +Transaction.Actual Settlement Date + +Transaction.Invoice Number + +Transaction.Schedule Id + +Customer.Customer ID + +Customer.Account Number + +Customer.Company + +Customer.First Name + +Customer.Last Name + +Customer.Billing City + +Customer.Billing State + +Customer.Phone 1 + +Customer.Email
+
++Next › +Click the Action button associated with the report, then click “Add Quick Link.” + +add_quick_link.png + + +You will now see the report in the Reports Quick Links list. +NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name. + +quick_link_report_added00027.jpg +Next › + +Show | Show +-- | -- +Show + + ADP Payments
+Home > Chapter 7: Reports > Custom Reports > Adding Custom Report Quick Links
+
+ADDING CUSTOM REPORT QUICK LINKS Custom reports can be added to the Reports Quick Links section in side navigation by following the steps below. (For more information on Reports Quick Links see Reports Quick Links above.)
+
+Locate the report you want to add in the custom reports table.
+
+Click the Action button associated with the report, then click “Add Quick Link.”
+
+add_quick_link.png You will now see the report in the Reports Quick Links list. NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name.
+
+quick_link_report_added00027.jpg Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Adding Custom Report Quick Links + +ADDING CUSTOM REPORT QUICK LINKS +Custom reports can be added to the Reports Quick Links section in side navigation by following the steps below. (For more information on Reports Quick Links see Reports Quick Links above.) + + + +Locate the report you want to add in the custom reports table. + +Click the Action button associated with the report, then click “Add Quick Link.” + +add_quick_link.png + + +You will now see the report in the Reports Quick Links list. +NOTE: If the report name is too long for the side bar, it will be abbreviated with ellipses. Mouse over the link to see the full report name. + +quick_link_report_added00027.jpg +Next › +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Unsubscribe to a Custom Report + +Unsubscribe to a Custom Report +You can unsubscribe to a custom report at any time. Simply follow the steps below: + +Locate the report to which you want to unsubscribe in the custom reports table. +NOTE: You will know a report has a subscription attached to it if you see an entry in the Subscription field. + +Click the Action button, then click the “Unsubscribe” link. + +unsubscribe_link_custom_report.jpg + + +A pop-up window appears asking you to confirm this request. Click “yes” to continue, or “no” to leave the subscription as is. + +confirm_unsubscribe.jpg +You return to the custom reports table, and the entry in the Subscription column of the table for your report will be blank. + +noate.gif + +You can unsubscribe to any report in the system regardless of the user who created the subscription. So if you don’t recognize a subscription, it’s a good idea to check with your colleagues before removing it. + + + +Next › +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Unsubscribe to a Custom Report + +Unsubscribe to a Custom Report +You can unsubscribe to a custom report at any time. Simply follow the steps below: + +Locate the report to which you want to unsubscribe in the custom reports table. +NOTE: You will know a report has a subscription attached to it if you see an entry in the Subscription field. + +Click the Action button, then click the “Unsubscribe” link. + +unsubscribe_link_custom_report.jpg + + +A pop-up window appears asking you to confirm this request. Click “yes” to continue, or “no” to leave the subscription as is. + +confirm_unsubscribe.jpg +You return to the custom reports table, and the entry in the Subscription column of the table for your report will be blank. + +noate.gif + +You can unsubscribe to any report in the system regardless of the user who created the subscription. So if you don’t recognize a subscription, it’s a good idea to check with your colleagues before removing it. + + + +Next › + +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Subscribe to a Custom Report + +Subscribe to a Custom Report +Follow the steps below to subscribe to a custom report: + +Locate the report to which you want to subscribe in the custom reports table on the Reports dashboard. + +Click the Action button, then click the “Subscribe” link. + +subscribe_link_custom_report.jpg + + +The New subscription pop-up window appears. + +new_subscription_custom_report.jpg + + +Enter the email address to which you want the reports sent in the Email address field. + +Click the down-arrow in the Frequency drop-down box to select how often you want the report emailed. + +If you select “Weekly” or “Every other week” you will see a second drop-down box in which to select the day of the week you want the report sent. + +If you select “Specific day of month,” you will see a second drop-down box in which to select the day of the month you want the report sent. + + + +subscribe_select_frequency.jpg +In the Report types section, select how you would like to receive the report. Select “PDF” for an Adobe Acrobat file, or select “XLS” for an Excel file. +NOTE: You can open the file in Excel and then change its format to import data into other programs. + +noate.gif + +The file provided is an XLSX file. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. + +Click the “save” button. + +You will return to the custom reports table, and you will now see the frequency of your subscription in the Subscription field in the table. + +subscription_entered.jpg + + +You will receive an email with your report on the next scheduled date. +NOTE: Scheduled reports cannot be programmed for the current date. For example, if today is Monday and I program a report to be emailed weekly on Mondays, I won’t get the first email until Monday of next week. + +noate.gif + +You can’t make changes to subscription settings once they are saved. If you want to change a subscription, for example to change the email address to which the report is sent, or to change the frequency, you need to unsubscribe to the report (see Unsubscribe to a Custom Report below) then subscribe again using the new settings. + +Next › + +Show | Show +-- | -- +Show + + Next ›
+
+Show +ADP Payments + + +Home > Chapter 7: Reports > Custom Reports > Subscribing to Custom Reports > Subscribe to a Custom Report + +Subscribe to a Custom Report +Follow the steps below to subscribe to a custom report: + +Locate the report to which you want to subscribe in the custom reports table on the Reports dashboard. + +Click the Action button, then click the “Subscribe” link. + +subscribe_link_custom_report.jpg + + +The New subscription pop-up window appears. + +new_subscription_custom_report.jpg + + +Enter the email address to which you want the reports sent in the Email address field. + +Click the down-arrow in the Frequency drop-down box to select how often you want the report emailed. + +If you select “Weekly” or “Every other week” you will see a second drop-down box in which to select the day of the week you want the report sent. + +If you select “Specific day of month,” you will see a second drop-down box in which to select the day of the month you want the report sent. + + + +subscribe_select_frequency.jpg +In the Report types section, select how you would like to receive the report. Select “PDF” for an Adobe Acrobat file, or select “XLS” for an Excel file. +NOTE: You can open the file in Excel and then change its format to import data into other programs. + +noate.gif + +The file provided is an XLSX file. If you are using an older version of Excel, you can install the Microsoft Compatibility Pack so that you can open XLSX files. + +Click the “save” button. + +You will return to the custom reports table, an
+
+
+On Sat, Oct 15, 2022 at 11:24 AM ZACHRY WOOD <zachryiixixiiwood@gmail.com> wrote:
+Amount	Employee Payment Report ADP
+$22,662,983,361,013.70	Report Range:	Tips
+$215,014.49	Name: ZACHRY T. WOOD SSN: 13	$0.00
+0	Payment Summary
+22,662,983,361,014	Salary	Vacation hourly	OT
+$0.00	$3,361,013.70
+$8,385,561,229,657.00	Bonus	$0.00	$0.00
+$13,330.90	$0.00	Other Wages 1	Other Wages 2
+532,580,113,436	Total	$0.00	$0.00
+0	22,662,983,361,014
+0	Deduction Summary
+Amount	Health Insurance
+$13,330.90	$0.00
+328,613,309,009	Tax Summary
+$441.70	Federal Tax	$7.00	Total Tax
+$840.00	$8,385,561,229,657@3,330.90	Local Tax
+$0.00
+$0.00	Advanced EIC Payment	$8,918,141,356,423.43
+$0.00	$0.00	Total
+401K
+$0.00	$0.00
+Social Security Tax Medicare TaxState Tax
+$532,580,113,050)
+$9,246,754,678,763.00
+Q4 2021	Q3 2021	Q2 2021	Q1 2021	Q4 2020
+$24,934,000,000.00	$25,539,000,000.00	$37,497,000,000.00	$31,211,000,000.00	$30,818,000,000.00
+$24,934,000,000.00	$25,539,000,000.00	$21,890,000,000.00	$19,289,000,000.00	$22,677,000,000.00
+$24,934,000,000.00	$25,539,000,000.00	$21,890,000,000.00	$19,289,000,000.00	$22,677,000,000.00
+$20,642,000,000.00	$18,936,000,000.00	$18,525,000,000.00	$17,930,000,000.00	$15,227,000,000.00
+$6,517,000,000.00	$3,797,000,000.00	$4,236,000,000.00	$2,592,000,000.00	$5,748,000,000.00
+$3,439,000,000.00	$3,304,000,000.00	$2,945,000,000.00	$2,753,000,000.00	$3,725,000,000.00
+$3,439,000,000.00	$3,304,000,000.00	$2,945,000,000.00	$2,753,000,000.00	$3,725,000,000.00
+$3,215,000,000.00	$3,085,000,000.00	$2,730,000,000.00	$2,525,000,000.00	$3,539,000,000.00
+$224,000,000.00	$219,000,000.00	$215,000,000.00	$228,000,000.00	$186,000,000.00
+$3,954,000,000.00	$3,874,000,000.00	$3,803,000,000.00	$3,745,000,000.00	$3,223,000,000.00
+$1,616,000,000.00	-$1,287,000,000.00	$379,000,000.00	$1,100,000,000.00	$1,670,000,000.00
+-$2,478,000,000.00	-$2,158,000,000.00	-$2,883,000,000.00	-$4,751,000,000.00	-$3,262,000,000.00
+-$2,478,000,000.00	-$2,158,000,000.00	-$2,883,000,000.00	-$4,751,000,000.00	-$3,262,000,000.00
+-$14,000,000.00	$64,000,000.00	-$8,000,000.00	-$255,000,000.00	$392,000,000.00
+-$2,225,000,000.00	$2,806,000,000.00	-$871,000,000.00	-$1,233,000,000.00	$1,702,000,000.00
+-$5,819,000,000.00	-$2,409,000,000.00	-$3,661,000,000.00	$2,794,000,000.00	-$5,445,000,000.00
+-$5,819,000,000.00	-$2,409,000,000.00	-$3,661,000,000.00	$2,794,000,000.00	-$5,445,000,000.00
+-$399,000,000.00	-$1,255,000,000.00	-$199,000,000.00	$7,000,000.00	-$738,000,000.00
+$6,994,000,000.00	$3,157,000,000.00	$4,074,000,000.00	-$4,956,000,000.00	$6,938,000,000.00
+$1,157,000,000.00	$238,000,000.00	-$130,000,000.00	-$982,000,000.00	$963,000,000.00
+$1,157,000,000.00	$238,000,000.00	-$130,000,000.00	-$982,000,000.00	$963,000,000.00
+$5,837,000,000.00	$2,919,000,000.00	$4,204,000,000.00	-$3,974,000,000.00	$5,975,000,000.00
+$368,000,000.00	$272,000,000.00	-$3,000,000.00	$137,000,000.00	$207,000,000.00
+-$3,369,000,000.00	$3,041,000,000.00	-$1,082,000,000.00	$785,000,000.00	$740,000,000.00
+-$11,016,000,000.00	-$10,050,000,000.00	-$9,074,000,000.00	-$5,383,000,000.00	-$7,281,000,000.00
+-$11,016,000,000.00	-$10,050,000,000.00	-$9,074,000,000.00	-$5,383,000,000.00	-$7,281,000,000.00
+-$6,383,000,000.00	-$6,819,000,000.00	-$5,496,000,000.00	-$5,942,000,000.00	-$5,479,000,000.00
+-$6,383,000,000.00	-$6,819,000,000.00	-$5,496,000,000.00	-$5,942,000,000.00	-$5,479,000,000.00
+-$385,000,000.00	-$259,000,000.00	-$308,000,000.00	-$1,666,000,000.00	-$370,000,000.00
+-$385,000,000.00	-$259,000,000.00	-$308,000,000.00	-$1,666,000,000.00	-$370,000,000.00
+-$4,348,000,000.00	-$3,360,000,000.00	-$3,293,000,000.00	$2,195,000,000.00	-$1,375,000,000.00
+-$40,860,000,000.00	-$35,153,000,000.00	-$24,949,000,000.00	-$37,072,000,000.00	-$36,955,000,000.00
+$36,512,000,000.00	$31,793,000,000.00	$21,656,000,000.00	$39,267,000,000.00	$35,580,000,000.00
+$100,000,000.00	$388,000,000.00	$23,000,000.00	$30,000,000.00	-$57,000,000.00
+-$15,254,000,000.00
+-$16,511,000,000.00	-$15,254,000,000.00	-$15,991,000,000.00	-$13,606,000,000.00	-$9,270,000,000.00
+-$16,511,000,000.00	-$12,610,000,000.00	-$15,991,000,000.00	-$13,606,000,000.00	-$9,270,000,000.00
+-$13,473,000,000.00	-$12,610,000,000.00	-$12,796,000,000.00	-$11,395,000,000.00	-$7,904,000,000.00
+$13,473,000,000.00	-$12,796,000,000.00	-$11,395,000,000.00	-$7,904,000,000.00
+-$42,000,000.00
+$115,000,000.00	-$42,000,000.00	-$1,042,000,000.00	-$37,000,000.00	-$57,000,000.00
+$115,000,000.00	$6,350,000,000.00	-$1,042,000,000.00	-$37,000,000.00	-$57,000,000.00
+$6,250,000,000.00	-$6,392,000,000.00	$6,699,000,000.00	$900,000,000.00	$0.00
+$6,365,000,000.00	-$2,602,000,000.00	-$7,741,000,000.00	-$937,000,000.00	-$57,000,000.00
+$2,923,000,000.00	-$2,453,000,000.00	-$2,184,000,000.00	-$1,647,000,000.00
+$0.00	$300,000,000.00	$10,000,000.00	$338,000,000,000.00
+$20,945,000,000.00	$23,719,000,000.00	$23,630,000,000.00	$26,622,000,000.00	$26,465,000,000.00
+$25,930,000,000.00	$235,000,000,000.00	-$3,175,000,000.00	$300,000,000.00	$6,126,000,000.00
+$181,000,000,000.00	$146,000,000,000.00
+$62.50	Reverse Corporate ACH Debit Effective 04-26-22	Reference number
+"PLEASE READ THE IMPORTANT DISCLOSURES BELOW
+COD : 633441725
+CIF Department (Online Banking) Business Checking's Account: 47-2041-6547 P7-PFSC-04-F Business Type: Sole Proprietorship/Partnership Corporation 500 First Avenue ALPHABET Pittsburgh, PA 15219-3128 5323 BRADFORD DR NON-NEGOTIABLE DALLAS TX 75235 8313 ZACHRY, TYLER, WOOD 4/18/2022 650-2530-000 469-697-4300 SIGNATURE Time Zone: Eastern Central Mountain Pacific Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value" "($143,000,000.00) $210,000,000.00 $23,719,000,000,000.00 $26,622,000,000,000.00 $26,465,000,000,000.00 $20,129,000,000,000.00 $2,774,000,000.00 $89,000,000.00 $2,992,000,000.00 $6,336,000,000.00 $13,412,000,000.00 $157,000,000.00 $4,990,000,000.00 Q4 2020Q4 2019 Dec. 31, 2020Dec. 31, 2019 $182,527.00 $161,857.00 $84,732.00 $71,896.00 $27,573.00 $26,018.00 $17,946.00 $18,464.00 $11,052.00 $9,551.00 $0.00 $1,697.00 $141,303.00 $127,626.00 $41,224.00 $34,231.00 $6,858,000,000.00 $5,394.00 $22,677,000,000.00 $19,289,000,000.00 $22,677,000,000.00 $19,289,000,000.00 $22,677,000,000.00 $19,289,000,000.00 $20,210,418.00 RateUnitsTotalYTDTaxes / DeductionsCurrentYTD --$70,842,745,000.00 $70,842,745,000.00 Federal Withholding$0.00 $0.00 FICA - Social Security$0.00 $8,853.60 FICA - Medicare$0.00 $0.00 Employer Taxes FUTA$0.00 $0.00 SUTA$0.00 $0.00 EIN: 61-1767919 SSN: 633441725 Gross $70,842,745,000.00 Earnings Statement Taxes / DeductionsStub Number: 1 $0.00 Net PaySSNPay SchedulePay PeriodSep 28, 2022 to Sep 29, 2023Pay Date$44,669.00 $70,842,745,000.00 XXX-XX-1725Annually CHECK NUMBER 221116905560140 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $257,637,000,000.00 $75,325,000,000.00 $65,118,000,000.00 $61,880,000,000.00 $55,314,000,000.00 $56,898,000,000.00 $46,173,000,000.00 $38,297,000,000.00 $41,159,000,000.00 $46,075,000,000.00 $40,499,000,000.00 $78,714,000,000.00 $21,885,000,000.00 $21,031,000,000.00 $19,361,000,000.00 $16,437,000,000.00 $15,651,000,000.00 $11,213,000,000.00 $6,383,000,000.00 $7,977,000,000.00 $9,266,000,000.00 $9,177,000,000.00 $0.16 $0.18 $0.16 $0.16 $0.16 $0.16 $0.12 $0.18 $6,836,000,000.00 $7,977,000,000.00 $113.88 $31.15 $28.44 $27.69 $26.63 $22.54 $16.55 $10.21 $9.96 $15.49 $10.20 $113.88 $31.12 $28.44 $27.69 $26.63 $22.46 $16.55 $10.21 $9.96 $15.47 $10.20 $112.20 $30.69 $27.99 $27.26 $26.29 $22.30 $16.40 $10.13 $9.87 $15.35 $10.12 $112.20 $30.67 $27.99 $27.26 $26.29 $22.23 $16.40 $10.13 $9.87 $15.33 $10.12 $667,650,000.00 $662,664,000.00 $665,758,000.00 $668,958,000.00 $673,220,000.00 $675,581,000.00 $679,449,000.00 $681,768,000.00 $686,465,000.00 $688,804,000.00 $692,741,000.00 $677,674,000.00 $672,493,000.00 $676,519,000.00 $679,612,000.00 $682,071,000.00 $682,969,000.00 $685,851,000.00 $687,024,000.00 $692,267,000.00 $695,193,000.00 $698,199,000.00 $9.87 $113.88 $31.15 $28.44 $27.69 $26.63 $22.54 $16.55 $10.21 $9.96 $15.49 $10.20 $1.00 $112.20 $30.69 $27.99 $27.26 $26.29 $22.30 $16.40 $10.13 $9.87 $15.35 $10.12 $667,650,000.00 $662,664,000.00 $665,758,000.00 $668,958,000.00 $673,220,000.00 $675,581,000.00 $679,449,000.00 $681,768,000.00 $686,465,000.00 $688,804,000.00 $692,741,000.00 $677,674,000.00 $672,493,000.00 $676,519,000.00 $679,612,000.00 $682,071,000.00 $682,969,000.00 $685,851,000.00 $687,024,000.00 $692,267,000.00 $695,193,000.00 $698,199,000.00 Amount Transaction descriptionFor the period 04/13/2022 to 04/29/2022 ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3"" $22,116,905,560,149.00 Reference number Amount Transaction description $22,116,905,560,149.00 $62.50 Corporate ACH Quickbooks 180041ntuit 1940868 Reference number $22,116,905,560,149.00 Amount Transaction description on your next statement as a single line item entitled Service Waived - New Customer Period $36.00 Returned Item Fee (nsf)
+Amount
+$0.00
+$0.00
+('PNCBANK
+É
+#NAME?
+step 2: Add together checks and other deductions listed in your account register but not on your statement.
+C'eck Deduction Descretio•	Anount
+account or benefit, or in payment of the individual obligations of, any individual obligations of any such persons to the Bank without regard to the disposition or purpose of same as allowed by applicable law.
+Taxpayer I.D. Number (TIN)
+(Customer"")"	633-44-1725
+Revolving Credits. Resolved that in connection with any extension of credit obtained by any of the persons authorized in Section 5 above, that permit the Customer to effect multiple advances or draws under such credit, any of the persons listed in Sections 5 (Loans and Extensions of Credit) and 3 (Withdrawals and Endorsements) Resolution for ALPHABET Telephonic and Facsimile Requests. Resolved that the Bank is authorized to take any action authorized hereunder based upon (i) the telephone request of any person purporting to be a person authorized to act hereunder, (ii) the signature of any person authorized to act hereunder that is delivered to the Bank by facsimile transmission, or (iii) the telex originated by any of such persons, tested in accordance with such testing : Tr R •d Ming procedures as may be established between the Customer and the Bank from time to time. General. Resolved that a certified copy of these resolutions be delivered to the Bank; that the persons specified herein are vested with authority to act and may designate successor persons to act on behalf of Customer without further authority from the Customer or governing body; and that Bank may rely on the authority given by this resolution until actual receipt by the Bank of a certified copy of a new resolution modifying or revoking the Customer Copy, page 2 of 4 Withdrawals and Transfers. Resolved that the Bank is authorized to make payments from the account(s) of Customer according to any check, draft, bill of exchange, acceptance or other written instrument or direction signed by any one of the following individuals, officers or designated agents, and that such designated individuals may also otherwise transfer, or enter into agreements with Bank concerning the transfer, of funds from Customer's account(s), whether by telephone, telegraph, computer or any other manner:
+45999-0023
+44658
+SS-4
+CP 575 A
+75235
+We assigned you
+This EIN will identify you, your business accounts, tax returns, and
+If the information is
+Please	b
+6.35-
+8
+Total Year to Date	3,
+Total for this Period
+36	36
+18
+t ly of
+Items	Amount	Checks and Other Deductions Description	Items	Amount
+1	62.5	ACH Deductions	1	62.5	he
+Service Charges and Fees	1	36
+1	62.5	Total	2	98.5
+Date	Ledger balance	Date	Ledger balance
+(279	62.50-	44678	36
+Ledger balance * You' 202 otm corr esti TM 27.8414.76% 63500 53.: 202 2160 gro 550 ovr
+525000
+$0.001 0.00% 367500
+$708,750.00 Medium Wide
+Standard
+ING payments, or replying to any related correspondence,
+If the information is
+We assigned you
+44658
+44658
+44658	If the information is
+44658
+44658
+Plea S
+If there is a balance due on the return (s)
+If you were not in business or did not hire any employees PI If you
+#NAME?
+Primary account number: 47-2041-6547 Page 1 of 3
+1022462	Q 304	Number of enclosures: 0
+For 24-hour banking sign on to PNC Bank Online Banking on pnc.com FREE Online Bill Pay For customer service call 1-877-BUS-BNKG PNC accepts Telecommunications Relay Service (TRS) calls.	9
+Para servicio en espalol, 1877.BUS-BNKC, Moving? Please contact your local branch. @ Write to: Customer Service PO Box 609 Pittsburgh , PA 15230-9738 Visit us at PNC.com/smaIIbusiness
+Date of this notice:
+44658
+Zachry Tyler Wood Alphabet	Employer Identification Number: 88-1656496
+Checks and other deductions	Ending balance	Form:	SS-4
+Deposits and other additions	Number of this notice:	CP 575 A
+#ERROR!	98.50 Average ledger balance	36.00- Average collected balance	For assistance you may call ug at:
+6.35-	6.35-	1-800-829-4933
+Total Year to Date
+Total for this Period
+36	36	IF YOU WRITE, ATTATCHA TYE STUB AT OYE END OF THIS NOTICE.
+Items	Amount	Checks and Other Deductions Description	Items	Amount
+1	62.5	ACH Deductions	1	62.5	We assigned you
+Service Charges and Fees	1	36
+1	62.5	Total	2	98.5
+Date	Date	Ledger balance	If the information is
+Ledger balance Ledger balance 0 44677 62.50- 44678 36 Form 940 44658 Berkshire Hathaway For the period 04/13/2022 to 04/29/2022 44680 ZACHRY TYLER WOOD Primary account number: 47-2041-6547 Page 2 of 3 Please Page 2 of 3
+did not hire any employee
+Referenc numb
+$ Current Shares $ Market % Price $ Change % Change Held Value Weight 2749.75 21.24 0.78 500000000 1374875000000 5.65 2749.75 0.78 9,000,000,000.00 24,747,750,000,000.00 101.67 1 0 0 65000000 65000000 0 1 0 0 1 1 0 1 0 0 -9000000 -9000000 0 1 0 0 127537500000 127537500000 0.52 1 0 0 -1909,957,000,000.00 -1909957000000 -7.85 201780000000 0.84 24340261500001 99.99 T Lc•s Detail .. May u 2022
+• OCE
+GOOG	Morningstar Rating
+Ascending
+Export
+41609	41974	42339	2021-12
+41244
+44166
+42705	43070	43435	43800
+50175	59825	66001	74989	$257,637.00	$257,637.00
+90272	110855	136819	161857	182527
+58.9	56.8	61.1	62.4	$56.90	$56.90
+61.1	58.9	56.5	55.6	53.6
+12760	13966	16496	19360	23716	28882	31392	35928	41224	$78,714.00	$78,714.00
+$30.60	$30.60
+25.4	23.3	25	25.8	26.3	26.1	22.9	22.2	22.6
+10737	12920	14444	16348	19478	12662	30736	34343	40269	$76,033.00	$76,033.00
+16.16	18.79	20.57	22.84	27.85	18	43.7	49.16	58.61	$112.20	$112.20
+665	678	687	693	699	704	703	699	687	$678.00	$678.00
+145.08	169.12	193.99	226.11	244.18	283.25	315.33	$369.37	$380.70
+16619	18659	22376	26024	36036	37091	47971	54520	65124	$91,652.00	$91,652.00
+-3273	-7358	-10959	-9915	-10212	-13184	-25139	-23548	-22281	-$24,640.00	-$24,640.00
+Mil	13346	11301	11417	16109	25824	23907	22832	30972	42843	$67,012.00	$67,012.00
+16.92	21.15	33.65	34.57	32.49	40.72	49.3	$96.52
+46117	56978	63880	70804	88652	100125	101056	107357	117462	$123,889.00
+Growth	Cash Flow	Financial Health	Efficiency Ratios
+2012-12 2013-12	41974	42339	42705	43070	43435	43800	44166	2021-12	TTY
+100.00 100.00	100	100	100	100	100	100	100	$100.00	$100.00
+41.12 43.22	38.93	37.56	38.92	41.12	43.52	44.42	46.42	$43.06	$43.06
+58.88 56.78	61.07	62.44	61.08	58.88	56.48	55.58	53.58	$56.94	$56.94
+19.91 20.14	21.18	20.25	19.35	17.83	17.88	17.31	15.89	$14.14	$14.14
+13.54 13.29	14.9	16.38	15.45	15	15.65	16.07	15.11	$12.25	$12.25
+25.43 23.34	24.99	25.82	26.27	26.05	22.94	22.2	22.59	$30.55	$30.55
+1.25 0.89	1.16	0.39	0.48	-1.52	2.57	2.28	3.76	$4.67	$4.67
+26.68 24.23	26.15	26.21	26.75	24.53	25.52	24.48	26.34	$35.22	$35.22
+2012-12 2013-12	41974	42339	42705	43070	43435	43800	44166	2021-12	TTM
+19.41 15.74	19.3	16.81	19.35	53.44	11.96	13.33	16.25	$16.20	$16.20
+21.40 21.60	21.88	21.1	21.58	11.42	22.46	21.22	$22.06	$29.51	$29.51
+0.60 0.58	0.55	0.54	0.57	0.61	0.64	0.64	$0.61	$0.76	$0.76
+12.91 12.62	11.93	11.36	12.37	6.94	14.29	13.5	$13.52	$22.40	$22.40
+1.31 1.27	1.25	1.23	1.2	1.29	1.31	1.37	$1.44	$1.43	$1.43
+16.54 16.25	15.06	14.08	15.02	8.69	18.62	18.12	$19.00	$32.07	32,07
+14.66 14.52	13.77	12.82	14.02	7.98	17.26	16.15	$16.63	$28.36	$28.36
+160.36 175.65	171.88	189.95	195.76	250.48	307.25	397.25	$357.16	$263.24	$263.24
+' '	wo	oo•ooo'ooo'08L'voz	POOM 101K' Ousn
+ALPHABÉT L.L.C. Profit and Loss Detail January 1 - May 22, 2022
+TRANSACTION NUM TYPE NAME MEMO/DESCRIPTION SPLIT AMOUNT BALANCE
+1004
+Sales Receipt
+Internal Revenue Service (IRS) - Internal Revenue Service 1111 Constitution Ave. N.W. Washinton DC 20535	Transaction description Effective 04-27-22 Amount 36.00 Reverse ACH Debit	Business Checking	0	0
+Effective 04-26-22
+Reference number
+22116905560140
+Sales Receipt	1003	Internal Revenue Service (IRS) - Internal Revenue Service 1111 Constitution Ave. N.W. Washinton DC 20535	Transaction description Effective 04-26-22 Amount 62.50 Reverse ACH Debit	Business Checking	70,842,743,866.00 70,842,743,866.00
+Effective 04-26-22 Reference number
+22116905560149
+70842743866
+70842743866
+00022116905560149 All figures are estimates based on samples—money amounts are in ZAC thousands of dollars - INCOME	Accounts Payable (XP)
+bitcoin'	Accounts
+Bill	7364071921891
+Payable (AP)	#ERROR!
+SVCCHRG
+Business Checking	62.5	62.5
+fees
+ard fees	62.5
+12753754062
+1275379063
+$58,0849egeoa50
+Transaction Amount description 62.50 Reverse Corporate ACH Debit Effective 04-26-22	Referernce number	the due dates shown, you can call us at
+|00022116905560149|	If you
+Transaction Amount description Reference number 70842743866 Corporate ACH Quickbooks 180041ntuit 1940868 |00022116905560149|
+Transaction Amount descripton Reference 0 number |00022116905560149|
+Amount
+62.5
+36
+98.5	Waived -	Waived - New Customer Period
+PNCBANK
+Volume
+The activity detail section of your statement to your account register. All items in your account register that also appear on your statement. Remember to begin with the ending date of your last statement. (An asterisk { * } will appear in the Checks section if there is a gap in the listing of consecutive check numbers.) Any deposits or additions including interest payments and ATM or electronic deposits listed on the statement that are not already entered in your register. Any account deductions including fees and ATM or electronic deductions listed on the statement that are not already entered in your register. step 2: Add together checks and other deductions listed in your account register but not on your statement. Amount Check Deduction Descrption Amount
+on Deposit: NON-NEGOTIABLE Employee Payment Report ADP $22,662,983,361,013.70 Report Range: Tips
+$215,014.49 Name: ZACHRY T. WOOD SSN: 13 $0.00
+0 Payment Summary
+22,662,983,361,014 Salary Vacation hourly OT
+$0.00 $3,361,013.70
+$8,385,561,229,657.00 Bonus $0.00 $0.00
+$13,330.90 $0.00 Other Wages 1 Other Wages 2 532,580,113,436 Total $0.00 $0.00
+0 22,662,983,361,014
+0 Deduction Summary Amount Health Insurance
+$13,330.90 $0.00
+3J2P8,M61O3R,3G09A,0N09TRUTaSxTSIum0m0a0r0y02965 TOTAL (includes tax of (0.00)) 64,454,859,587.62
+$840.00 $8,385,561,229,657@3,330.90 Local Tax
+$0.00
+$0.00 Advanced EIC Payment $8,918,141,356,423.43Page 1 of 1
+Total A=$22934637118600
+22934637118600
+Total A + $22934637118600
+Subtotal=$22934637118600
+$	22934637118600
+$	22934637118600
+Total B22934637118600
+0
+
+
+On Sat, Oct 15, 2022 at 10:54 AM ZACHRY WOOD <zachryiixixiiwood@gmail.com> wrote:
+NTERNAL REVENUE SERVICE,PO BOX 1214,CHARLOTTE, NC 28201-1214ALINE Pay, FSDD, ADPCheck, WGPS, Garnishment Services, EBTS, Benefit Services, Other Bank Bank Address Account Name ABA DDA Collection Method JPMorgan Chase One Chase Manhattan Plaza New York, NY 10005 ADP Tax Services 021000021 323269036 Reverse Wire Impound Deutsche Bank 60 Wall Street New York, NY 10005-2858 ADP Tax Services 021001033 00416217 Reverse Wire Impound Tax & 401(k) Bank Bank Address Account Name ABA DDA Collection Method JPMorgan Chase One Chase Manhattan Plaza New York, NY 10005 ADP Tax Services 021000021 9102628675 Reverse Wire Impound Deutsche Bank 60 Wall Street New York, NY 10005-2858 ADP Tax Services 021001033 00153170 Reverse Wire Impound Workers Compensation Bank Bank Address Account Name ABA DDA Collection Method JPMorgan Chase One Chase Manhattan Plaza New York, NY 10005 ADP Tax Services 021000021 304939315 Reverse Wire Impound NOTICE CLIENT acknowledges that if sufficient funds are there-in, are. Have, been, and Will: Be Available Soley for the purposees of ZACHRY TYLER WOOD AT HIS DISCREATION AS ADVISED BY :ZACHRY :TYLER : WOOD :DOB 1994-10-15 :SSN :633441725 :ONLY. As, So. It Stands, that. The date, required due recoginition of funds and services to be provided by :ADP :passed by :and unders those sunch same provisionings clauses and terms and conditions have. VOID this Agreement and causeing NOTICE TO CHANGE IN STATMENT OF BENIFICIAL OWNERSHIP TO BE GRANTED TO ZACHRY TYLER WOOOD("1) ":,:"CLIENT "=" NOW+OWNER":, "will immediately become solely responsible for all tax deposits and filings, all employee wages, all wage garnishments, all CLIENT third- party payments (e.g., vendor payments) and all related penalties and interest due then and thereafter, (2) any and all ADP Services may, at ADP’s option, be immediately terminated, (3) neither BANK nor ADP will have any further obligation to CLIENT or any third party with respect to any such Services and (4) ADP may take such action as it deems appropriate to collect ADP’s Fees for Services. Client shall not initiate any ACH transactions utilizing ADP’s services that constitute International ACH transactions without first (i) notifying ADP of such IAT transactions in writing utilizing ADP’s Declaration of International ACH Transaction form (or such other form as directed by ADP) and (ii) complying with the requirements applicable to IAT transactions. ADP shall not be liable for any delay or failure in processing any ACH transaction due to Client’s failure to so notify ADP of Client’s IAT transactions or Client’s failure to comply with applicable IAT requirements. EXHIBIT A ZACHRY WOOD15 $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000For Disclosure, Privacy Act, and Paperwork Reduction ActNotice, see separate instructions. $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000Cat. No. 11320B $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000Form 1040 (2021) $76,033,000,000.00 20,642,000,000 18,936,000,000Reported Normalized and Operating Income/ExpenseSupplemental SectionTotal Revenue as Reported, Supplemental $257,637,000,000.00 75,325,000,000 65,118,000,000 61,880,000,000 55,314,000,000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000Total Operating Profit/Loss as Reported, Supplemental $78,714,000,000.00 21,885,000,000 21,031,000,000 19,361,000,000 16,437,000,000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000Reported Effective Tax Rate $0.16 0.179 0.157 0.158 0.158 0.159 0.119 0.181Reported Normalized Income 6,836,000,000Reported Normalized Operating Profit 7,977,000,000Other Adjustments to Net Income Available to CommonStockholdersDiscontinued OperationsBasic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2Basic EPS from Continuing Operations $113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2Basic EPS from Discontinued OperationsDiluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12Diluted EPS from Continuing Operations $112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12Diluted EPS from Discontinued OperationsBasic Weighted Average Shares Outstanding $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000Reported Normalized Diluted EPS 9.87Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000Fiscal year end September 28th., 2022. | USDFor Paperwork Reduction Act Notice, see the seperateInstructions.THIS NOTE IS LEGAL TENDERTENDERFOR ALL DEBTS, PUBLIC ANDPRIVATECurrent ValueUnappropriated, Affiliated, Securities, at Value.(1) For subscriptions, your payment method on file will be automatically charged monthly/annually at the then-current list price until you cancel. If you have a discount it will apply to the then-current list price until it expires. To cancel your subscription at any time, go to Account & Settings and cancel the subscription. (2) For one-time services, your payment method on file will reflect the charge in the amount referenced in this invoice. Terms, conditions, pricing, features, service, and support options are subject to change without notice.All dates and times are Pacific Standard Time (PST).INTERNAL REVENUE SERVICE, $20,210,418.00 PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00 Earnings FICA - Social Security $0.00 $8,853.60 Commissions FICA - Medicare $0.00 $0.00 Employer Taxes FUTA $0.00 $0.00 SUTA $0.00 $0.00 EIN: 61-1767ID91:900037305581 SSN: 633441725 YTD Gross Gross $70,842,745,000.00 $70,842,745,000.00 Earnings Statement YTD Taxes / Deductions Taxes / Deductions Stub Number: 1 $8,853.60 $0.00 YTD Net Pay net, pay. SSN Pay Schedule Paid Period Sep 28, 2022 to Sep 29, 2023 15-Apr-22 Pay Day 18-Apr-22 $70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually Sep 28, 2022 to Sep 29, 2023 CHECK DATE CHECK NUMBER 001000 18-Apr-22 PAY TO THE : ZACHRY WOOD ORDER OF :Office of the 46th President Of The United States. 117th US Congress Seal Of The US Treasury Department, 1769 W.H.W. DC, US 2022. : INTERNAL REVENUE SERVICE,PO BOX 1214,CHARLOTTE, NC 28201-1214 CHECK AMOUNT $70,842,745,000.00 Pay ZACHRY.WOOD********** :NON-NEGOTIABLE : VOID AFTER 14 DAYS INTERNAL REVENUE SERVICE :000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $18,525,000,000.00 $17,930,000,000.00 $15,227,000,000.00 $11,247,000,000.00 $6,959,000,000.00 $6,836,000,000.00 $10,671,000,000.00 $7,068,000,000.00 $76,033,000,000.00 $20,642,000,000.00 $18,936,000,000.00 $257,637,000,000.00 $75,325,000,000.00 $65,118,000,000.00 $61,880,000,000.00 $55,314,000,000.00 $56,898,000,000.00 $46,173,000,000.00 $38,297,000,000.00 $41,159,000,000.00 $46,075,000,000.00 $40,499,000,000.00 $78,714,000,000.00 $21,885,000,000.00 $21,031,000,000.00 $19,361,000,000.00 $16,437,000,000.00 $15,651,000,000.00 $11,213,000,000.00 $6,383,000,000.00 $7,977,000,000.00 $9,266,000,000.00 $9,177,000,000.00 $0.16 $0.18 $0.16 $0.16 $0.16 $0.16 $0.12 $0.18 $6,836,000,000.00 $7,977,000,000.00 $113.88 $31.15 $28.44 $27.69 $26.63 $22.54 $16.55 $10.21 $9.96 $15.49 $10.20 $113.88 $31.12 $28.44 $27.69 $26.63 $22.46 $16.55 $10.21 $9.96 $15.47 $10.20 $112.20 $30.69 $27.99 $27.26 $26.29 $22.30 $16.40 $10.13 $9.87 $15.35 $10.12 $112.20 $30.67 $27.99 $27.26 $26.29 $22.23 $16.40 $10.13 $9.87 $15.33 $10.12 $667,650,000.00 $662,664,000.00 $665,758,000.00 $668,958,000.00 $673,220,000.00 $675,581,000.00 $679,449,000.00 $681,768,000.00 $686,465,000.00 $688,804,000.00 $692,741,000.00 $677,674,000.00 $672,493,000.00 $676,519,000.00 $679,612,000.00 $682,071,000.00 $682,969,000.00 $685,851,000.00 $687,024,000.00 $692,267,000.00 $695,193,000.00 $698,199,000.00 $9.87 $113.88 $31.15 $28.44 $27.69 $26.63 $22.54 $16.55 $10.21 $9.96 $15.49 $10.20 $1.00 $112.20 $30.69 $27.99 $27.26 $26.29 $22.30 $16.40 $10.13 $9.87 $15.35 $10.12 $667,650,000.00 $662,664,000.00 $665,758,000.00 $668,958,000.00 $673,220,000.00 $675,581,000.00 $679,449,000.00 $681,768,000.00 $686,465,000.00 $688,804,000.00 $692,741,000.00 $677,674,000.00 $672,493,000.00 $676,519,000.00 $679,612,000.00 $682,071,000.00 $682,969,000.00 $685,851,000.00 $687,024,000.00 $692,267,000.00 $695,193,000.00 $698,199,000.00 : $70,842,745,000.00 633-44-1725 Annually : branches: - main : on: schedule: - cron: "0 2 * * 1-5 : obs: my_job: name :deploy to staging : runs-on :ubuntu-18.04 :The available virtual machine types are:ubuntu-latest, ubuntu-18.04, or ubuntu-16.04 :windows-latest :# :Controls when the workflow will run :"#":, "Triggers the workflow on push or pull request events but only for the "Masterbranch" branch :":, push: EFT information Routing number: 021000021Payment account ending: 9036Name on the account: ADPTax reporting informationInternal Revenue ServiceUnited States Department of the TreasuryMemphis, TN 375001-1498Tracking ID: 1023934415439Customer File Number: 132624428Date of Issue: 07-29-2022ZACHRY T WOOD3050 REMOND DR APT 1206DALLAS, TX 75211Taxpayer's Name: ZACH T WOOTaxpayer Identification Number: XXX-XX-1725Tax Period: December, 2018Return: 1040 ZACHRY TYLER WOOD 5323 BRADFORD DRIVE DALLAS TX 75235 EMPLOYER IDENTIFICATION NUMBER :611767919 :FIN :xxxxx4775 THE 101YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM $0.001 TO 33611.5895286 :State Income TaxTotal Work HrsBonusTrainingYour federal taxable wages this period are $22,756,988,716,000.00Net.Important Notes0.001 TO 112.20 PAR SHARE VALUETot*$70,842,743,866.00$22,756,988,716,000.00$22,756,988,716,000.001600 AMPIHTHEATRE PARKWAYMOUNTAIN VIEW CA 94043Statement of Assets and Liabilities As of  Mountain View, C.A. 94043
+Taxable Maritial Status: Single Exemptions/Allowances TX: 28 Federal 941 Deposit Report ADP Report Range5/4/2022 - 6/4/2022 Local ID: EIN: 63-3441725State ID: 633441725 Employee NAumboeurn:t3 Description 5/4/2022 - 6/4/2022 Payment Amount (Total) $9,246,754,678,763.00 Display All
+
+Social Security (Employee + Employer) $26,661.80
+Medicare (Employee + Employer) $861,193,422,444.20 Hourly
+Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800 Note: This report is generated based on the payroll data for your reference only. Please contact IRS office for special cases such as late payment, previous overpayment, penalty and others. Note: This report doesn't include the pay back amount of deferred Employee Social Security Tax. Commission Employer Customized Report ADP Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00 EIN: Customized Report Amount Employee Payment Report ADP Employee Number: 3 Description Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips Taxable SS Wages $215,014.49 Name: SSN: $0.00 Taxable SS Tips $0 Payment Summary Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT Advanced EIC Payment $0.00 $3,361,013.70 Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00 Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2 Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00 State Income Tax Withheld $0.00 $22,662,983,361,013.70 Local Income Tax Withheld Customized Employer Tax Report $0.00 Deduction Summary Description Amount Health Insurance Employer SS Tax Employer Medicare Tax $13,330.90 $0.00 Federal Unemployment Tax $328,613,309,008.67 Tax Summary State Unemployment Tax $441.70 Federal Tax Total Tax Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax Health Insurance $0.00 401K $0.00 Advanced EIC Payment $8,918,141,356,423.43 $0.00 $0.00 Total 401K $0.00 $0.00 Social Security Tax Medicare TaxState Tax $532,580,113,050) 3/6/2022 at 6:37 PM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 GOOGL_income�statement_Quarterly_As_Originally_Reported 24,934,000,000 25,539,000,000 37,497,000,000 31,211,000,000 30,818,000,000 24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000 Cash Flow from Operating Activities, Indirect 24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000 Net Cash Flow from Continuing Operating Activities, Indirect 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 Cash Generated from Operating Activities 6,517,000,000 3,797,000,000 4,236,000,000 2,592,000,000 5,748,000,000 Income/Loss before Non-Cash Adjustment 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000 Total Adjustments for Non-Cash Items 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000 Depreciation, Amortization and Depletion, Non-Cash Adjustment 3,215,000,000 3,085,000,000 2,730,000,000 2,525,000,000 3,539,000,000 Depreciation and Amortization, Non-Cash Adjustment 224,000,000 219,000,000 215,000,000 228,000,000 186,000,000 Depreciation, Non-Cash Adjustment 3,954,000,000 3,874,000,000 3,803,000,000 3,745,000,000 3,223,000,000 Amortization, Non-Cash Adjustment 1,616,000,000 -1,287,000,000 379,000,000 1,100,000,000 1,670,000,000 Stock-Based Compensation, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000 Taxes, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000 Investment Income/Loss, Non-Cash Adjustment -14,000,000 64,000,000 -8,000,000 -255,000,000 392,000,000 Gain/Loss on Financial Instruments, Non-Cash Adjustment -2,225,000,000 2,806,000,000 -871,000,000 -1,233,000,000 1,702,000,000 Other Non-Cash Items -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000 Changes in Operating Capital -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000 Change in Trade and Other Receivables -399,000,000 -1,255,000,000 -199,000,000 7,000,000 -738,000,000 Change in Trade/Accounts Receivable 6,994,000,000 3,157,000,000 4,074,000,000 -4,956,000,000 6,938,000,000 Change in Other Current Assets 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000 Change in Payables and Accrued Expenses 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000 Change in Trade and Other Payables 5,837,000,000 2,919,000,000 4,204,000,000 -3,974,000,000 5,975,000,000 Change in Trade/Accounts Payable 368,000,000 272,000,000 -3,000,000 137,000,000 207,000,000 Change in Accrued Expenses -3,369,000,000 3,041,000,000 -1,082,000,000 785,000,000 740,000,000 Change in Deferred Assets/Liabilities Change in Other Operating Capital -11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000 Change in Prepayments and Deposits -11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000 Cash Flow from Investing Activities Cash Flow from Continuing Investing Activities -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000 -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000 Purchase/Sale and Disposal of Property, Plant and Equipment, Net Purchase of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000 Sale and Disposal of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000 Purchase/Sale of Business, Net -4,348,000,000 -3,360,000,000 -3,293,000,000 2,195,000,000 -1,375,000,000 Purchase/Acquisition of Business -40,860,000,000 -35,153,000,000 -24,949,000,000 -37,072,000,000 -36,955,000,000 Purchase/Sale of Investments, Net Purchase of Investments 36,512,000,000 31,793,000,000 21,656,000,000 39,267,000,000 35,580,000,000 100,000,000 388,000,000 23,000,000 30,000,000 -57,000,000 Sale of Investments Other Investing Cash Flow -15,254,000,000 Purchase/Sale of Other Non-Current Assets, Net -16,511,000,000 -15,254,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000 Sales of Other Non-Current Assets -16,511,000,000 -12,610,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000 Cash Flow from Financing Activities -13,473,000,000 -12,610,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000 Cash Flow from Continuing Financing Activities 13,473,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000 Issuance of/Payments for Common Stock, Net -42,000,000 Payments for Common Stock 115,000,000 -42,000,000 -1,042,000,000 -37,000,000 -57,000,000 Proceeds from Issuance of Common Stock 115,000,000 6,350,000,000 -1,042,000,000 -37,000,000 -57,000,000 Issuance of/Repayments for Debt, Net 6,250,000,000 -6,392,000,000 6,699,000,000 900,000,000 0 Issuance of/Repayments for Long Term Debt, Net 6,365,000,000 -2,602,000,000 -7,741,000,000 -937,000,000 -57,000,000 Proceeds from Issuance of Long Term Debt Repayments for Long Term Debt 2,923,000,000 -2,453,000,000 -2,184,000,000 -1,647,000,000 Proceeds from Issuance/Exercising of Stock Options/Warrants 0 300,000,000 10,000,000 3.38E+11 Other Financing Cash Flow Cash and Cash Equivalents, End of Period Change in Cash 20,945,000,000 23,719,000,000 23,630,000,000 26,622,000,000 26,465,000,000 Effect of Exchange Rate Changes 25930000000) 235000000000) -3,175,000,000 300,000,000 6,126,000,000 Cash and Cash Equivalents, Beginning of Period PAGE="$USD(181000000000)".XLS BRIN="$USD(146000000000)".XLS 183,000,000 -143,000,000 210,000,000 Cash Flow Supplemental Section $23,719,000,000,000.00 $26,622,000,000,000.00 $26,465,000,000,000.00 $20,129,000,000,000.00 Change in Cash as Reported, Supplemental 2,774,000,000 89,000,000 -2,992,000,000 6,336,000,000 Income Tax Paid, Supplemental 13,412,000,000 157,000,000 ZACHRY T WOOD -4990000000 Cash and Cash Equivalents, Beginning of Period Department of the Treasury Internal Revenue Service Q4 2020 Q4 2019 Calendar Year Due: 04/18/2022 Dec. 31, 2020 Dec. 31, 2019 USD in "000'"s Repayments for Long Term Debt 182527 161857 Costs and expenses: Cost of revenues 84732 71896 Research and development 27573 26018 Sales and marketing 17946 18464 General and administrative 11052 9551 European Commission fines 0 1697 Total costs and expenses 141303 127626 Income from operations 41224 34231 Other income (expense), net 6858000000 5394 Income before income taxes 22,677,000,000 19,289,000,000 Provision for income taxes 22,677,000,000 19,289,000,000 Net income 22,677,000,000 19,289,000,000 *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) *include interest paid, capital obligation, and underweighting Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share) Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share) ALPHABET 88-1303491 5323 BRADFORD DR, DALLAS, TX 75235-8314 Employee Info United States Department of The Treasury Employee Id: 9999999998 IRS No. 000000000000 INTERNAL REVENUE SERVICE, $20,210,418.00 PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00 Earnings FICA - Social Security $0.00 $8,853.60 Commissions FICA - Medicare $0.00 $0.00 Employer Taxes FUTA $0.00 $0.00 SUTA $0.00 $0.00 EIN: 61-1767ID91:900037305581 SSN: 633441725 YTD Gross Gross $70,842,745,000.00 $70,842,745,000.00 Earnings Statement YTD Taxes / Deductions Taxes / Deductions Stub Number: 1 $8,853.60 $0.00 YTD Net Pay Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 18-Apr-22 $70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually CHECK DATE CHECK NUMBER 18-Apr-22 **$70,842,745,000.00 THIS IS NOT A CHECK CHECK AMOUNT VOID INTERNAL REVENUE SERVICE, PO BOX 1214, CHARLOTTE, NC 28201-1214 ZACHRY WOOD 15 $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Cat. No. 11320B $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000 Form 1040 (2021) $76,033,000,000.00 20,642,000,000 18,936,000,000 Reported Normalized and Operating Income/Expense Supplemental Section Total Revenue as Reported, Supplemental $257,637,000,000.00 75,325,000,000 65,118,000,000 61,880,000,000 55,314,000,000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000 Total Operating Profit/Loss as Reported, Supplemental $78,714,000,000.00 21,885,000,000 21,031,000,000 19,361,000,000 16,437,000,000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000 Reported Effective Tax Rate $0.16 0.179 0.157 0.158 0.158 0.159 0.119 0.181 Reported Normalized Income 6,836,000,000 Reported Normalized Operating Profit 7,977,000,000 Other Adjustments to Net Income Available to Common Stockholders Discontinued Operations Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 Basic EPS from Continuing Operations $113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2 Basic EPS from Discontinued Operations Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12 Diluted EPS from Continuing Operations $112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12 Diluted EPS from Discontinued Operations Basic Weighted Average Shares Outstanding $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 Reported Normalized Diluted EPS 9.87 Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1 Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12 Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000 Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000 ￼￼
+We'll be back shortly.
+
+For real-time updates, follow @ChaseSupport on Twitter.
+
+Our advisors are available weekdays, 7 AM to 9 PM ET, and Saturdays from 8 AM to 5 PM ET.
+
+Telephone bankers may be able to access some account information while our site is unavailable.
+
+You can reach them at one of the numbers below:
+
+
+Person Checking, Savings & CD1-800-935-9935Mortgages1-800-848-9136Business Banking1-800-242-7338Auto Loans & Leases1-800-336-6675Home Equity Line of Credit Loans1-800-836-5656Student Loans1-800-487-4404Retirement self-directed Accounts1-800-776-6061J.P.Morgan Securities1-888-807-6898Chase private Client (or contact your Private Client Banker)1-888-994-5626Investments/Retirement1-800-392-5749Credit CardsCall the number on the back of your credit cardChase Commercial OnlineSMCall your Client Service Professional or Client Service Officer 28, 2022Fiscal' year' s end | September 28th.Total (includes tax of (00.00)":, Company Registration No: CIK0000835271. Registered Office: 1600 AMPITHEATRE PARKWAY MOUNTAIN VIEW C.A., 94043, United States Department of the National. CREDIT NOTE Internal Revenue Service (IRS) - Internal Revenue Service - 1111 Constitution Ave., N.W. Washinton, D.C. 20535 633441725 ZACHRY T WOOD 132-62-4428 Zachry Tyler Wood III 5323 BRADFORD DR DALLAS TX 75235-8313 UNITED STATES [1:L] #1125612613 S-8 1 a20220726alphabets-8for202.htm S-8
+Registration No. 333-33333
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+United States Department of The Treasury 19289000000.00 Unted States Department of The Treasury
+
+19289000000 19289000000 Federal 941 Deposit Report
+
+ADP
+
+Report Range5/4/2022 - 6/4/2022" Local ID: EIN: 63-3441725 State ID: 633441725 "Employee Number: 3
+
+Description" Amount 5/4/2022 - 6/4/2022 Payment Amount (Total) $9,246,754,678,763 Display All
+
+Social Security (Employee + Employer) 26661.8 Medicare (Employee + Employer) 861193422444 Hourly Federal Income Tax 8385561229657 2.2663E+15 "Note: This report is generated based on the payroll data for your reference only. Please contact IRS office for special cases such as late payment, previous overpayment, penalty and others. Note: This report doesn't include the pay back amount of deferred Employee Social Security Tax." Commission "Employer Customized Report
+
+ADP
+
+Report Range5/4/2022 - 6/4/2022" 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 EIN: Report : Range: 5/4/2022 - 6/4/2022 Local ID: EIN: 63-3441725 State ID: 633441725 Employee Number: 3 Transaction description: Amount 5/4/2022 - 6/4/2022 Payment Amount (Total) $9,246,754,678,763 Display All
+
+Social Security (Employee + Employer) 26661.8 Medicare (Employee + Employer) 861193422444 Federal Income Tax 8385561229657 2.2663E+15 Note: This report is generated based on the payroll data for your reference only. Please contact IRS office for special cases such as late payment, previous overpayment, penalty and others. Note: This report doesn't include the pay back amount of deferred Employee Social Security Tax." Commission":"2267700000000000" Employer Customized Report(IRS USE ONLY) 575 A 575 WOOD B 99999999999 03-18-2022 SS-4 Report Range5/4/2022 - 6/4/2022" 88-1656496 state ID: 633441725 State: All Local ID: 00037305581 2267700 EIN: 88-1303491 : Customized Report Amount "Employee Payment Report ADP" "Employee Number: 3 Description" Wages, Tips and Other Compensation 22662983361014 Report Range: Tips Taxable SS Wages 215014.49 "Name: 17 Station Street, 3rd Floor, Brookline, MA 02445, USA \SignaturePage\S\65025300004696974300\EXECUTOR\ADMINISTRATOR\AUTHORIZEDSIGNATUREAUTHORIZEDSIGNATUREAUTHORIZEDSIGNATUREAUTHORIZEDSIGNATUREAUTHORIZEDSIGNATUREAUTHORIZEDSIGNATURE
+
+
+On Sat, Oct 15, 2022 at 7:38 AM ZACHRY WOOD <zachryiixixiiwood@gmail.com> wrote:
+GLctxObject
+: 
+GLctx
+: 
+WebGL2RenderingContext
+currentProgram
+: 
+null
+dibvbi
+: 
+null
+disjointTimerQueryExt
+: 
+EXTDisjointTimerQueryWebGL2 {}
+mdibvbi
+: 
+null
+multiDrawWebgl
+: 
+WebGLMultiDraw {}
+canvas
+: 
+canvas.ink-engine
+drawingBufferColorSpace
+: 
+"srgb"
+drawingBufferHeight
+: 
+636
+drawingBufferWidth
+: 
+826
+unpackColorSpace
+: 
+"srgb"
+[[Prototype]]
+: 
+WebGL2RenderingContext
+ACTIVE_ATTRIBUTES
+: 
+35721
+ACTIVE_TEXTURE
+: 
+34016
+ACTIVE_UNIFORMS
+: 
+35718
+ACTIVE_UNIFORM_BLOCKS
+: 
+35382
+ALIASED_LINE_WIDTH_RANGE
+: 
+33902
+ALIASED_POINT_SIZE_RANGE
+: 
+33901
+ALPHA
+: 
+6406
+ALPHA_BITS
+: 
+3413
+ALREADY_SIGNALED
+: 
+37146
+ALWAYS
+: 
+519
+ANY_SAMPLES_PASSED
+: 
+35887
+ANY_SAMPLES_PASSED_CONSERVATIVE
+: 
+36202
+ARRAY_BUFFER
+: 
+34962
+ARRAY_BUFFER_BINDING
+: 
+34964
+ATTACHED_SHADERS
+: 
+35717
+BACK
+: 
+1029
+BLEND
+: 
+3042
+BLEND_COLOR
+: 
+32773
+BLEND_DST_ALPHA
+: 
+32970
+BLEND_DST_RGB
+: 
+32968
+BLEND_EQUATION
+: 
+32777
+BLEND_EQUATION_ALPHA
+: 
+34877
+BLEND_EQUATION_RGB
+: 
+32777
+BLEND_SRC_ALPHA
+: 
+32971
+BLEND_SRC_RGB
+: 
+32969
+BLUE_BITS
+: 
+3412
+BOOL
+: 
+35670
+BOOL_VEC2
+: 
+35671
+BOOL_VEC3
+: 
+35672
+BOOL_VEC4
+: 
+35673
+BROWSER_DEFAULT_WEBGL
+: 
+37444
+BUFFER_SIZE
+: 
+34660
+BUFFER_USAGE
+: 
+34661
+BYTE
+: 
+5120
+CCW
+: 
+2305
+CLAMP_TO_EDGE
+: 
+33071
+COLOR
+: 
+6144
+COLOR_ATTACHMENT0
+: 
+36064
+COLOR_ATTACHMENT1
+: 
+36065
+COLOR_ATTACHMENT2
+: 
+36066
+COLOR_ATTACHMENT3
+: 
+36067
+COLOR_ATTACHMENT4
+: 
+36068
+COLOR_ATTACHMENT5
+: 
+36069
+COLOR_ATTACHMENT6
+: 
+36070
+COLOR_ATTACHMENT7
+: 
+36071
+COLOR_ATTACHMENT8
+: 
+36072
+COLOR_ATTACHMENT9
+: 
+36073
+COLOR_ATTACHMENT10
+: 
+36074
+COLOR_ATTACHMENT11
+: 
+36075
+COLOR_ATTACHMENT12
+: 
+36076
+COLOR_ATTACHMENT13
+: 
+36077
+COLOR_ATTACHMENT14
+: 
+36078
+COLOR_ATTACHMENT15
+: 
+36079
+COLOR_BUFFER_BIT
+: 
+16384
+COLOR_CLEAR_VALUE
+: 
+3106
+COLOR_WRITEMASK
+: 
+3107
+COMPARE_REF_TO_TEXTURE
+: 
+34894
+COMPILE_STATUS
+: 
+35713
+COMPRESSED_TEXTURE_FORMATS
+: 
+34467
+CONDITION_SATISFIED
+: 
+37148
+CONSTANT_ALPHA
+: 
+32771
+CONSTANT_COLOR
+: 
+32769
+CONTEXT_LOST_WEBGL
+: 
+37442
+COPY_READ_BUFFER
+: 
+36662
+COPY_READ_BUFFER_BINDING
+: 
+36662
+COPY_WRITE_BUFFER
+: 
+36663
+COPY_WRITE_BUFFER_BINDING
+: 
+36663
+CULL_FACE
+: 
+2884
+CULL_FACE_MODE
+: 
+2885
+CURRENT_PROGRAM
+: 
+35725
+CURRENT_QUERY
+: 
+34917
+CURRENT_VERTEX_ATTRIB
+: 
+34342
+CW
+: 
+2304
+DECR
+: 
+7683
+DECR_WRAP
+: 
+34056
+DELETE_STATUS
+: 
+35712
+DEPTH
+: 
+6145
+DEPTH24_STENCIL8
+: 
+35056
+DEPTH32F_STENCIL8
+: 
+36013
+DEPTH_ATTACHMENT
+: 
+36096
+DEPTH_BITS
+: 
+3414
+DEPTH_BUFFER_BIT
+: 
+256
+DEPTH_CLEAR_VALUE
+: 
+2931
+DEPTH_COMPONENT
+: 
+6402
+DEPTH_COMPONENT16
+: 
+33189
+DEPTH_COMPONENT24
+: 
+33190
+DEPTH_COMPONENT32F
+: 
+36012
+DEPTH_FUNC
+: 
+2932
+DEPTH_RANGE
+: 
+2928
+DEPTH_STENCIL
+: 
+34041
+DEPTH_STENCIL_ATTACHMENT
+: 
+33306
+DEPTH_TEST
+: 
+2929
+DEPTH_WRITEMASK
+: 
+2930
+DITHER
+: 
+3024
+DONT_CARE
+: 
+4352
+DRAW_BUFFER0
+: 
+34853
+DRAW_BUFFER1
+: 
+34854
+DRAW_BUFFER2
+: 
+34855
+DRAW_BUFFER3
+: 
+34856
+DRAW_BUFFER4
+: 
+34857
+DRAW_BUFFER5
+: 
+34858
+DRAW_BUFFER6
+: 
+34859
+DRAW_BUFFER7
+: 
+34860
+DRAW_BUFFER8
+: 
+34861
+DRAW_BUFFER9
+: 
+34862
+DRAW_BUFFER10
+: 
+34863
+DRAW_BUFFER11
+: 
+34864
+DRAW_BUFFER12
+: 
+34865
+DRAW_BUFFER13
+: 
+34866
+DRAW_BUFFER14
+: 
+34867
+DRAW_BUFFER15
+: 
+34868
+DRAW_FRAMEBUFFER
+: 
+36009
+DRAW_FRAMEBUFFER_BINDING
+: 
+36006
+DST_ALPHA
+: 
+772
+DST_COLOR
+: 
+774
+DYNAMIC_COPY
+: 
+35050
+DYNAMIC_DRAW
+: 
+35048
+DYNAMIC_READ
+: 
+35049
+ELEMENT_ARRAY_BUFFER
+: 
+34963
+ELEMENT_ARRAY_BUFFER_BINDING
+: 
+34965
+EQUAL
+: 
+514
+FASTEST
+: 
+4353
+FLOAT
+: 
+5126
+FLOAT_32_UNSIGNED_INT_24_8_REV
+: 
+36269
+FLOAT_MAT2
+: 
+35674
+FLOAT_MAT2x3
+: 
+35685
+FLOAT_MAT2x4
+: 
+35686
+FLOAT_MAT3
+: 
+35675
+FLOAT_MAT3x2
+: 
+35687
+FLOAT_MAT3x4
+: 
+35688
+FLOAT_MAT4
+: 
+35676
+FLOAT_MAT4x2
+: 
+35689
+FLOAT_MAT4x3
+: 
+35690
+FLOAT_VEC2
+: 
+35664
+FLOAT_VEC3
+: 
+35665
+FLOAT_VEC4
+: 
+35666
+FRAGMENT_SHADER
+: 
+35632
+FRAGMENT_SHADER_DERIVATIVE_HINT
+: 
+35723
+FRAMEBUFFER
+: 
+36160
+FRAMEBUFFER_ATTACHMENT_ALPHA_SIZE
+: 
+33301
+FRAMEBUFFER_ATTACHMENT_BLUE_SIZE
+: 
+33300
+FRAMEBUFFER_ATTACHMENT_COLOR_ENCODING
+: 
+33296
+FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE
+: 
+33297
+FRAMEBUFFER_ATTACHMENT_DEPTH_SIZE
+: 
+33302
+FRAMEBUFFER_ATTACHMENT_GREEN_SIZE
+: 
+33299
+FRAMEBUFFER_ATTACHMENT_OBJECT_NAME
+: 
+36049
+FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE
+: 
+36048
+FRAMEBUFFER_ATTACHMENT_RED_SIZE
+: 
+33298
+FRAMEBUFFER_ATTACHMENT_STENCIL_SIZE
+: 
+33303
+FRAMEBUFFER_ATTACHMENT_TEXTURE_CUBE_MAP_FACE
+: 
+36051
+FRAMEBUFFER_ATTACHMENT_TEXTURE_LAYER
+: 
+36052
+FRAMEBUFFER_ATTACHMENT_TEXTURE_LEVEL
+: 
+36050
+FRAMEBUFFER_BINDING
+: 
+36006
+FRAMEBUFFER_COMPLETE
+: 
+36053
+FRAMEBUFFER_DEFAULT
+: 
+33304
+FRAMEBUFFER_INCOMPLETE_ATTACHMENT
+: 
+36054
+FRAMEBUFFER_INCOMPLETE_DIMENSIONS
+: 
+36057
+FRAMEBUFFER_INCOMPLETE_MISSING_ATTACHMENT
+: 
+36055
+FRAMEBUFFER_INCOMPLETE_MULTISAMPLE
+: 
+36182
+FRAMEBUFFER_UNSUPPORTED
+: 
+36061
+FRONT
+: 
+1028
+FRONT_AND_BACK
+: 
+1032
+FRONT_FACE
+: 
+2886
+FUNC_ADD
+: 
+32774
+FUNC_REVERSE_SUBTRACT
+: 
+32779
+FUNC_SUBTRACT
+: 
+32778
+GENERATE_MIPMAP_HINT
+: 
+33170
+GEQUAL
+: 
+518
+GREATER
+: 
+516
+GREEN_BITS
+: 
+3411
+HALF_FLOAT
+: 
+5131
+HIGH_FLOAT
+: 
+36338
+HIGH_INT
+: 
+36341
+IMPLEMENTATION_COLOR_READ_FORMAT
+: 
+35739
+IMPLEMENTATION_COLOR_READ_TYPE
+: 
+35738
+INCR
+: 
+7682
+INCR_WRAP
+: 
+34055
+INT
+: 
+5124
+INTERLEAVED_ATTRIBS
+: 
+35980
+INT_2_10_10_10_REV
+: 
+36255
+INT_SAMPLER_2D
+: 
+36298
+INT_SAMPLER_2D_ARRAY
+: 
+36303
+INT_SAMPLER_3D
+: 
+36299
+INT_SAMPLER_CUBE
+: 
+36300
+INT_VEC2
+: 
+35667
+INT_VEC3
+: 
+35668
+INT_VEC4
+: 
+35669
+INVALID_ENUM
+: 
+1280
+INVALID_FRAMEBUFFER_OPERATION
+: 
+1286
+INVALID_INDEX
+: 
+4294967295
+INVALID_OPERATION
+: 
+1282
+INVALID_VALUE
+: 
+1281
+INVERT
+: 
+5386
+KEEP
+: 
+7680
+LEQUAL
+: 
+515
+LESS
+: 
+513
+LINEAR
+: 
+9729
+LINEAR_MIPMAP_LINEAR
+: 
+9987
+LINEAR_MIPMAP_NEAREST
+: 
+9985
+LINES
+: 
+1
+(...)
+attributes
+: 
+alpha
+: 
+true
+antialias
+: 
+true
+depth
+: 
+true
+enableExtensionsByDefault
+: 
+1
+explicitSwapControl
+: 
+0
+failIfMajorPerformanceCaveat
+: 
+false
+majorVersion
+: 
+2
+minorVersion
+: 
+0
+powerPreference
+: 
+"default"
+premultipliedAlpha
+: 
+true
+preserveDrawingBuffer
+: 
+false
+proxyContextToMainThread
+: 
+0
+renderViaOffscreenBackBuffer
+: 
+0
+stencil
+: 
+false
+[[Prototype]]
+: 
+Object
+handle
+: 
+7302488
+initExtensionsDone
+: 
+true
+version
+: 
+2
+[[Prototype]]
+: 
+Object
+accessKey
+: 
+""
+ariaAtomic
+: 
+null
+ariaAutoComplete
+: 
+null
+ariaBusy
+: 
+null
+ariaChecked
+: 
+null
+ariaColCount
+: 
+null
+ariaColIndex
+: 
+null
+ariaColSpan
+: 
+null
+ariaCurrent
+: 
+null
+ariaDescription
+: 
+null
+ariaDisabled
+: 
+null
+ariaExpanded
+: 
+null
+ariaHasPopup
+: 
+null
+ariaHidden
+: 
+null
+ariaInvalid
+: 
+null
+ariaKeyShortcuts
+: 
+null
+ariaLabel
+: 
+"Use “Open in PDF viewer” in the “More options” menu to open this file with screenreader support"
+ariaLevel
+: 
+null
+ariaLive
+: 
+null
+ariaModal
+: 
+null
+ariaMultiLine
+: 
+null
+ariaMultiSelectable
+: 
+null
+ariaOrientation
+: 
+null
+ariaPlaceholder
+: 
+null
+ariaPosInSet
+: 
+null
+ariaPressed
+: 
+null
+ariaReadOnly
+: 
+null
+ariaRelevant
+: 
+null
+ariaRequired
+: 
+null
+ariaRoleDescription
+: 
+null
+ariaRowCount
+: 
+null
+ariaRowIndex
+: 
+null
+ariaRowSpan
+: 
+null
+ariaSelected
+: 
+null
+ariaSetSize
+: 
+null
+ariaSort
+: 
+null
+ariaValueMax
+: 
+null
+ariaValueMin
+: 
+null
+ariaValueNow
+: 
+null
+ariaValueText
+: 
+null
+assignedSlot
+: 
+null
+attributeStyleMap
+: 
+StylePropertyMap {size: 4}
+attributes
+: 
+NamedNodeMap {0: class, 1: tabindex, 2: width, 3: height, 4: style, 5: aria-label, class: class, tabindex: tabindex, width: width, height: height, style: style, …}
+autocapitalize
+: 
+""
+autofocus
+: 
+false
+baseURI
+: 
+"chrome-untrusted://media-app/app.html"
+childElementCount
+: 
+0
+childNodes
+: 
+NodeList []
+children
+: 
+HTMLCollection []
+classList
+: 
+DOMTokenList ['ink-engine', value: 'ink-engine']
+className
+: 
+"ink-engine"
+clientHeight
+: 
+848
+clientLeft
+: 
+0
+clientTop
+: 
+0
+clientWidth
+: 
+1101
+contentEditable
+: 
+"inherit"
+dataset
+: 
+DOMStringMap {}
+dir
+: 
+""
+draggable
+: 
+false
+elementTiming
+: 
+""
+enterKeyHint
+: 
+""
+firstChild
+: 
+null
+firstElementChild
+: 
+null
+height
+: 
+636
+hidden
+: 
+false
+id
+: 
+""
+inert
+: 
+false
+innerHTML
+: 
+""
+innerText
+: 
+""
+inputMode
+: 
+""
+isConnected
+: 
+true
+isContentEditable
+: 
+false
+lang
+: 
+""
+lastChild
+: 
+null
+lastElementChild
+: 
+null
+localName
+: 
+"canvas"
+namespaceURI
+: 
+"http://www.w3.org/1999/xhtml"
+nextElementSibling
+: 
+div.post-canvas-tab-target
+nextSibling
+: 
+div.post-canvas-tab-target
+nodeName
+: 
+"CANVAS"
+nodeType
+: 
+1
+nodeValue
+: 
+null
+nonce
+: 
+""
+offsetHeight
+: 
+848
+offsetLeft
+: 
+0
+offsetParent
+: 
+div.ink-emscripten-engine
+offsetTop
+: 
+0
+offsetWidth
+: 
+1101
+onabort
+: 
+null
+onanimationend
+: 
+null
+onanimationiteration
+: 
+null
+onanimationstart
+: 
+null
+onauxclick
+: 
+null
+onbeforecopy
+: 
+null
+onbeforecut
+: 
+null
+onbeforeinput
+: 
+null
+onbeforematch
+: 
+null
+onbeforepaste
+: 
+null
+onbeforexrselect
+: 
+null
+onblur
+: 
+null
+oncancel
+: 
+null
+oncanplay
+: 
+null
+oncanplaythrough
+: 
+null
+onchange
+: 
+null
+onclick
+: 
+null
+onclose
+: 
+null
+oncontextlost
+: 
+null
+oncontextmenu
+: 
+null
+oncontextrestored
+: 
+null
+oncopy
+: 
+null
+oncuechange
+: 
+null
+oncut
+: 
+null
+ondblclick
+: 
+null
+ondrag
+: 
+null
+ondragend
+: 
+null
+ondragenter
+: 
+null
+ondragleave
+: 
+null
+ondragover
+: 
+null
+ondragstart
+: 
+null
+ondrop
+: 
+null
+ondurationchange
+: 
+null
+onemptied
+: 
+null
+onended
+: 
+null
+onerror
+: 
+null
+onfocus
+: 
+null
+onformdata
+: 
+null
+onfullscreenchange
+: 
+null
+onfullscreenerror
+: 
+null
+ongotpointercapture
+: 
+null
+oninput
+: 
+null
+oninvalid
+: 
+null
+onkeydown
+: 
+null
+onkeypress
+: 
+null
+onkeyup
+: 
+null
+onload
+: 
+null
+onloadeddata
+: 
+null
+onloadedmetadata
+: 
+null
+onloadstart
+: 
+null
+onlostpointercapture
+: 
+null
+onmousedown
+: 
+null
+onmouseenter
+: 
+null
+onmouseleave
+: 
+null
+onmousemove
+: 
+null
+onmouseout
+: 
+null
+onmouseover
+: 
+null
+onmouseup
+: 
+null
+onmousewheel
+: 
+null
+onpaste
+: 
+null
+onpause
+: 
+null
+onplay
+: 
+null
+onplaying
+: 
+null
+onpointercancel
+: 
+null
+onpointerdown
+: 
+null
+onpointerenter
+: 
+null
+onpointerleave
+: 
+null
+onpointermove
+: 
+null
+onpointerout
+: 
+null
+onpointerover
+: 
+null
+onpointerrawupdate
+: 
+null
+onpointerup
+: 
+null
+onprogress
+: 
+null
+onratechange
+: 
+null
+onreset
+: 
+null
+onresize
+: 
+null
+onscroll
+: 
+null
+onsearch
+: 
+null
+onsecuritypolicyviolation
+: 
+null
+onseeked
+: 
+null
+onseeking
+: 
+null
+onselect
+: 
+null
+onselectionchange
+: 
+null
+onselectstart
+: 
+null
+onslotchange
+: 
+null
+onstalled
+: 
+null
+onsubmit
+: 
+null
+onsuspend
+: 
+null
+ontimeupdate
+: 
+null
+ontoggle
+: 
+null
+ontransitioncancel
+: 
+null
+ontransitionend
+: 
+null
+ontransitionrun
+: 
+null
+ontransitionstart
+: 
+null
+onvolumechange
+: 
+null
+onwaiting
+: 
+null
+onwebkitanimationend
+: 
+null
+onwebkitanimationiteration
+: 
+null
+onwebkitanimationstart
+: 
+null
+onwebkitfullscreenchange
+: 
+null
+onwebkitfullscreenerror
+: 
+null
+onwebkittransitionend
+: 
+null
+onwheel
+: 
+null
+outerHTML
+: 
+"<canvas class=\"ink-engine\" tabindex=\"0\" width=\"826\" height=\"636\" style=\"width: 1101.33px; height: 848px; left: 0px; top: 0px;\" aria-label=\"Use “Open in PDF viewer” in the “More options” menu to open this file with screenreader support\"></canvas>"
+outerText
+: 
+""
+ownerDocument
+: 
+document
+parentElement
+: 
+div.ink-emscripten-engine
+parentNode
+: 
+div.ink-emscripten-engine
+part
+: 
+DOMTokenList [value: '']
+prefix
+: 
+null
+previousElementSibling
+: 
+style
+previousSibling
+: 
+style
+role
+: 
+null
+scrollHeight
+: 
+848
+scrollLeft
+: 
+0
+scrollTop
+: 
+0
+scrollWidth
+: 
+1101
+shadowRoot
+: 
+null
+slot
+: 
+""
+spellcheck
+: 
+true
+style
+: 
+CSSStyleDeclaration {0: 'width', 1: 'height', 2: 'left', 3: 'top', accentColor: '', additiveSymbols: '', alignContent: '', alignItems: '', alignSelf: '', …}
+tabIndex
+: 
+0
+tagName
+: 
+"CANVAS"
+textContent
+: 
+""
+title
+: 
+""
+translate
+: 
+true
+virtualKeyboardPolicy
+: 
+""
+width
+: 
+826
+
+On Sat, Oct 15, 2022 at 12:32 AM ZACHRY WOOD <zachryiixixiiwood@gmail.com> wrote:
+**From 8b87b6af796ab6f69aaef0a8dc7543cd19cc2bd7 Mon Sep 17 00:00:00 2001 From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com Date: Wed, 7 Sep 2022 05:48:53 -0500 Subject: [PATCH 1/4] Update README.md
+
+README.md | 57 +++++++++++++++++++------------------------------------ 1 file changed, 20 insertions(+), 37 deletions(-)
+
+diff --git a/README.md b/README.md index 95c30ba..407c65c 100644 --- a/README.md +++ b/README.md @@ -1,40 +1,23 @@ -'"#''#'':'':'':' :BEGINS ::''
+-'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian-
+-::Run :On :-ostats :-On :-on :Run :RUns :run::
+-:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : -::
+-:GLOW7 :
+-:Build :: :
+-:-starts
+-:AUTOMATE
+-::ALL ::
+-:'#''#'::
+-:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE
+-:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:
+--starts :Run ::
+-# my.sig'@#1 :
+-# BITORE :
+-# bitore.sig :
+-# Bitore.sigs :
+-# Runs :Return :'Run :'' ::Runs :'"'' +'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED '' +'REPOSITORYIES"@ZACHRYTYLERWOODADMINISTRATOR'@'.IT'.GIT'.GIST'.GITHUB'.COM'@.github.gists'@.Github.com/gists/secrets/BITORE/((c)(r))/BITORE_34173/'' ':RUNS'' :'' '::'' +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian'-'' +'::Run :On :-ostats :-On :-on :Run :RUns'' ':run:'' ':'' +':Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/WindosXP89_98/Intel82_86/Mozilla/5.0/'-latest''' :'' +':GLOW7'' ':'' +':Build'':'':'' ':'' +':-starts':'' +':AUTOMATE'' ':'' +'::ALL :: +':'#''#':: +':## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE'' +':ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:'' +'-starts :Run :: +'# my.sig'@'#1'/my'.sigs/bitore.'sig'/BITCORE'' ':'"'' +'# ''BITORE : +'#'' 'bitore.sig : +'#'' 'Bitore.sigs : +'#'' 'Runs'' ':'' +':Return'' ':'' '"Runs":',':'' 'Run'' ':'':'Runs'-on':' Run'' '"':'':'"''
+
+From 3b07024434b7edf008a33e86381227a0863c23a7 Mon Sep 17 00:00:00 2001 From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com Date: Wed, 7 Sep 2022 05:59:53 -0500 Subject: [PATCH 2/4] Update README.md
+
+README.md | 81 ++++++++++++++++++++++++++++++++++++++++++++++++++++--- 1 file changed, 77 insertions(+), 4 deletions(-)
+
+diff --git a/README.md b/README.md index 407c65c..81a751b 100644 --- a/README.md +++ b/README.md @@ -1,23 +1,96 @@ -'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED '' -'REPOSITORYIES"@ZACHRYTYLERWOODADMINISTRATOR'@'.IT'.GIT'.GIST'.GITHUB'.COM'@.github.gists'@.Github.com/gists/secrets/BITORE/((c)(r))/BITORE_34173/'' ':RUNS'' :'' '::'' +'"':'':Runs'':'-'On'':'':''-on'':'"'' +'"'#''!''/''usr''/''bin''/''bash''/''Usrs''/''bin''/''BASH'' +'"'"#''#'':'':'':' :BEGINS ::'' + +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian- + +::Run :On :-ostats :-On :-on :Run :RUns :run:: + +:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : +:: + +:GLOW7 : + +:Build :: : + + +:-starts + +:AUTOMATE + +::ALL :: + +:'#''#':: + +:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE + +:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigslog :logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts: + +-starts :Run :: + +# my.sig'@#1 : + +# BITORE : + +# bitore.sig : + +# Bitore.sigs : + +# Runs :Return :'Run :'' ::Runs :'"'''"'' '''':'''':'''':'' + + +''''':'' '"'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED '' + +'"REPOSITORYIES'@Z'A'C'H'R'Y'T'Y'L'E'R''W'O'O'D'A'D'M'I'N'I'S'T'R'A'TO'R'@'.I'T'.'G'I'T'.'G'I'S'T'.'G'I'T'H'U'B''.'C'O'M'@'.github'.gists'@.'Git'Hub'.com'/'' +'gist'/secrets'/BITORE'/'('(c')'.'(r')'')'/BITORE'_34173'.1337'/'/NPRT'' + +'"'/'/POST''' + +':RUNS'' :'' '::'' + '#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian'-'' + '::Run :On :-ostats :-On :-on :Run :RUns'' ':run:'' ':'' + ':Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/WindosXP89_98/Intel82_86/Mozilla/5.0/'-latest''' :'' + ':GLOW7'' ':'' + ':Build'':'':'' ':'' + ':-starts':'' + ':AUTOMATE'' ':'' + '::ALL :: + ':'#''#':: -':## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE'' + +':'':''#''#'':'':'"'' ':'':''#'':''Gideon.sigs/bitore.sig/BITCORE'"'' + +'"src'.dist/'.dir'/'.dist'@sun.java.org'@'containers.io'@mojoejoejoejoe/moejoejoejoe/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog + +:AUTOMATE'' + ':ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigslog :logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:'' + '-starts :Run :: + '# my.sig'@'#1'/my'.sigs/bitore.'sig'/BITCORE'' ':'"'' + '# ''BITORE : + '#'' 'bitore.sig : + '#'' 'Bitore.sigs : + '#'' 'Runs'' ':'' -':Return'' ':'' '"Runs":',':'' 'Run'' ':'':'Runs'-on':' Run'' '"':'':'"'' + +':Return'' ':'' '"Runs":',':'' 'Run'' ':'':'Runs'-on':' Run'' '"':'':'"''''''':'':BEGIN'':'':'"'' + +'BEGIN'' + +'GLOW7':'' '"'.'Txt'.'Docx'"''''
+
+From 3cb1fc96b8f82a753b762eb191910aa65a810a3a Mon Sep 17 00:00:00 2001 From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com Date: Wed, 7 Sep 2022 06:00:30 -0500 Subject: [PATCH 3/4] Update README.md
+
+README.md | 37 +++++++++++++++++++++++++++++++++++++ 1 file changed, 37 insertions(+)
+
+diff --git a/README.md b/README.md index 81a751b..980d663 100644 --- a/README.md +++ b/README.md @@ -1,3 +1,40 @@ +'"#''#'':'':'':' :BEGINS ::'' + +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian- + +::Run :On :-ostats :-On :-on :Run :RUns :run:: + +:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : +:: + +:GLOW7 : + +:Build :: : + + +:-starts + +:AUTOMATE + +::ALL :: + +:'#''#':: + +:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE + +:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts: + +-starts :Run :: + +# my.sig'@#1 : + +# BITORE : + +# bitore.sig : + +# Bitore.sigs : + +# Runs :Return :'Run :'' ::Runs :'"'' '"':'':Runs'':'-'On'':'':''-on'':'"'' '"'#''!''/''usr''/''bin''/''bash''/''Usrs''/''bin''/''BASH'' '"'"#''#'':'':'':' :BEGINS ::''
+
+From 0c86eb3f2b7f90544a7481516d64685a249585c3 Mon Sep 17 00:00:00 2001 From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com Date: Wed, 7 Sep 2022 06:10:03 -0500 Subject: [PATCH 4/4] BITCORE (#2)
+
+Bitore.sigs | 23 +++++++++ README.md | 133 ---------------------------------------------------- 2 files changed, 23 insertions(+), 133 deletions(-) create mode 100644 Bitore.sigs delete mode 100644 README.md
+
+diff --git a/Bitore.sigs b/Bitore.sigs new file mode 100644 index 0000000..407c65c --- /dev/null +++ b/Bitore.sigs @@ -0,0 +1,23 @@ +'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED '' +'REPOSITORYIES"@ZACHRYTYLERWOODADMINISTRATOR'@'.IT'.GIT'.GIST'.GITHUB'.COM'@.github.gists'@.Github.com/gists/secrets/BITORE/((c)(r))/BITORE_34173/'' ':RUNS'' :'' '::'' +'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian'-'' +'::Run :On :-ostats :-On :-on :Run :RUns'' ':run:'' ':'' +':Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/WindosXP89_98/Intel82_86/Mozilla/5.0/'-latest''' :'' +':GLOW7'' ':'' +':Build'':'':'' ':'' +':-starts':'' +':AUTOMATE'' ':'' +'::ALL :: +':'#''#':: +':## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE'' +':ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:'' +'-starts :Run :: +'# my.sig'@'#1'/my'.sigs/bitore.'sig'/BITCORE'' ':'"'' +'# ''BITORE : +'#'' 'bitore.sig : +'#'' 'Bitore.sigs : +'#'' 'Runs'' ':'' +':Return'' ':'' '"Runs":',':'' 'Run'' ':'':'Runs'-on':' Run'' '"':'':'"'' + + + diff --git a/README.md b/README.md deleted file mode 100644 index 980d663..0000000 --- a/README.md +++ /dev/null @@ -1,133 +0,0 @@ -'"#''#'':'':'':' :BEGINS ::''
+-'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian-
+-::Run :On :-ostats :-On :-on :Run :RUns :run::
+-:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : -::
+-:GLOW7 :
+-:Build :: :
+-:-starts
+-:AUTOMATE
+-::ALL ::
+-:'#''#'::
+-:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE
+-:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:
+--starts :Run ::
+-# my.sig'@#1 :
+-# BITORE :
+-# bitore.sig :
+-# Bitore.sigs :
+-# Runs :Return :'Run :'' ::Runs :'"'' -'"':'':Runs'':'-'On'':'':''-on'':'"'' -'"'#''!''/''usr''/''bin''/''bash''/''Usrs''/''bin''/''BASH'' -'"'"#''#'':'':'':' :BEGINS ::''
+-'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian-
+-::Run :On :-ostats :-On :-on :Run :RUns :run::
+-:Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/windos-latest : -::
+-:GLOW7 :
+-:Build :: :
+-:-starts
+-:AUTOMATE
+-::ALL ::
+-:'#''#'::
+-:## ::#gideons.sigs/bitore.sig/BITCORE.dist/.dir/src/code'@meojojojojo/mowjojojo/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog :AUTOMATE
+-:ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:
+--starts :Run ::
+-# my.sig'@#1 :
+-# BITORE :
+-# bitore.sig :
+-# Bitore.sigs :
+-# Runs :Return :'Run :'' ::Runs :'"'''"'' '''':'''':'''':''
+-''''':'' '"'"'#''#'':'':BEGIN:#::##:'"#''#'':'':'':' :BEGINS :BEGIB : BUILD AND DEPLOY PUBLISHS LAUNCHED ''
+-'"REPOSITORYIES'@Z'A'C'H'R'Y'T'Y'L'E'R''W'O'O'D'A'D'M'I'N'I'S'T'R'A'TO'R'@'.I'T'.'G'I'T'.'G'I'S'T'.'G'I'T'H'U'B''.'C'O'M'@'.github'.gists'@.'Git'Hub'.com'/'' -'gist'/secrets'/BITORE'/'('(c')'.'(r')'')'/BITORE'_34173'.1337'/'/NPRT''
+-'"'/'/POST'''
+-':RUNS'' :'' '::''
+-'#!/usr/bin/bash/Users/bin/Bash'@mojoejoejoejoe/repositories/usr/bin/bash/Users/bin/Bash/frostie'"'$'"'' '@debian-artifact'@neizt/"@vastiles/V8-debian'-''
+-'::Run :On :-ostats :-On :-on :Run :RUns'' ':run:'' ':''
+-':Build ::debian-artifacts.rpdm.tar.gz'@linux32_86/INtel82/WindosXP89_98/Intel82_86/Mozilla/5.0/'-latest''' :''
+-':GLOW7'' ':''
+-':Build'':'':'' ':''
+-':-starts':''
+-':AUTOMATE'' ':''
+-'::ALL ::
+-':'#''#'::
+-':'':''#''#'':'':'"'' ':'':''#'':''Gideon.sigs/bitore.sig/BITCORE'"''
+-'"src'.dist/'.dir'/'.dist'@sun.java.org'@'containers.io'@mojoejoejoejoe/moejoejoejoe/README.md/README.md'@pika@.dir/.dist-index'@v%":,.cacheslog
+-:AUTOMATE''
+-':ALL AUTOMATES ALL :SCRIPTS : build_scripts'@#1/my..sigs*log :*logs: All :automatically :;-on: Runs: Run-on: R:Run ::AUTOMATE :Starts :-starts:''
+-'-starts :Run ::
+-'# my.sig'@'#1'/my'.sigs/bitore.'sig'/BITCORE'' ':'"''
+-'# ''BITORE :
+:Build::
+United States Department of the Treasury +General Counsel +(Administrative & Law) +1500 Pennsylvania Avenue +Washington, D.C. 20220-1219 Paid Period 2019-09-28 - 2021-09-29 +Room.#1402 - Paid Date 2022-04-18
+
+						Pay Date	2022-04-18	
++main. +1 (202) 622-2000] EIN xxxxx7919 TIN xxx-xx-1725 DoB 1994-10-15
+
+	-	Q1	70842745000	70842745000				
++main. +1 (202) 622-2000] Gross Q2 70842745000 70842745000 Rate 00000 00000
+
+	70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	00000	08854	
+	Taxes / Deductions		Stub Number: 1		FICA - Medicare	00000	00000	
+	00000	Rate			Employer Taxes			
+	Net Pay				FUTA	00000	00000	
+	70842745000				SUTA	00000	00000	
+			This period	YTD	Taxes / Deductions	Current	YTD	
+		Pay Schedulec	70842745000	70842745000	Federal Withholding	00000	00000	
+		Annually	70842745000	70842745000	Federal Withholding	00000	00000	
+		Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+		Q3	70842745000	70842745000	Federal Withholding	00000	00000	
+		Q4	70842745000	70842745000	Federal Withholding	00000	00000	
+		CHECK NO.			FICA - Social Security	00000	08854	
+	20210418			FICA - Medicare	00000	00000	
+-							
+-							
++INTERNAL REVENUE SERVICE, +PO BOX 1214, +CHARLOTTE, NC 28201-1214 + +ZACHRY WOOD +00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Cat. No. 11320B 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000 +Form 1040 (2021) 76033000000 20642000000 18936000000 +Reported Normalized and Operating Income/Expense Supplemental Section +Total Revenue as Reported, Supplemental 257637000000 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000 41159000000 46075000000 40499000000 +Total Operating Profit/Loss as Reported, Supplemental 78714000000 21885000000 21031000000 19361000000 16437000000 15651000000 11213000000 6383000000 7977000000 9266000000 9177000000 +Reported Effective Tax Rate 00000 00000 00000 00000 00000 00000 00000 00000 +Reported Normalized Income 6836000000 +Reported Normalized Operating Profit 7977000000 +Other Adjustments to Net Income Available to Common Stockholders +Discontinued Operations +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Basic EPS from Continuing Operations 00114 00031 00028 00028 00027 00022 00017 00010 00010 00015 00010 +Basic EPS from Discontinued Operations +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Continuing Operations 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Diluted EPS from Discontinued Operations +Basic Weighted Average Shares Outstanding 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted Weighted Average Shares Outstanding 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Reported Normalized Diluted EPS 00010 +Basic EPS 00114 00031 00028 00028 00027 00023 00017 00010 00010 00015 00010 +Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010 +Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000 +Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000 +Fiscal year end September 28th., 2022. | USD + +For Paperwork Reduction Act Notice, see the seperate Instructions. :Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@zakwarlord7 
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+github
+/
+docs
+Public
+Code
+Issues
+75
+Pull requests
+91
+Discussions
+Actions
+Projects
+3
+Security
+Insights
+Comparing changes
+Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also .
+      Able to merge. These branches can be automatically merged.
+Discuss and review the changes in this comparison with others. Learn about pull requests
+ 1 commit
+ 1 file changed
+ 1 contributor
+Commits on Oct 21, 2022
+Update index.md
+
+@zakwarlord7
+zakwarlord7 committed now
+  
+Showing  with 1,496 additions and 131 deletions.
+ 1,627  
+content/index.md
+@@ -1,131 +1,1496 @@
+---
+title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
+featuredLinks:
+  gettingStarted:
+    - /get-started/quickstart/set-up-git
+    - /github/authenticating-to-github/connecting-to-github-with-ssh
+    - /repositories/creating-and-managing-repositories
+    - /github/writing-on-github/basic-writing-and-formatting-syntax
+  popular:
+    - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+    - /authentication
+    - /get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
+    - /get-started/getting-started-with-git/managing-remote-repositories
+    - /pages
+redirect_from:
+  - /github
+  - /articles
+  - /common-issues-and-questions
+  - /troubleshooting-common-issues
+versions: '*'
+children:
+  - search
+  - get-started
+  - account-and-profile
+  - authentication
+  - repositories
+  - admin
+  - billing
+  - site-policy
+  - organizations
+  - code-security
+  - pull-requests
+  - issues
+  - actions
+  - copilot
+  - codespaces
+  - packages
+  - search-github
+  - developers
+  - rest
+  - graphql
+  - github-cli
+  - discussions
+  - sponsors
+  - communities
+  - pages
+  - education
+  - desktop
+  - early-access
+  - support
+childGroups:
+  - name: Get started
+    octicon: RocketIcon
+    children:
+      - get-started
+      - account-and-profile
+      - authentication
+      - billing
+      - site-policy
+  - name: Collaborative coding
+    octicon: CommentDiscussionIcon
+    children:
+      - codespaces
+      - repositories
+      - pull-requests
+      - discussions
+      - copilot
+  - name: CI/CD and DevOps
+    octicon: GearIcon
+    children:
+      - actions
+      - packages
+      - pages
+  - name: Security
+    octicon: ShieldLockIcon
+    children:
+      - code-security
+      - code-security/supply-chain-security
+      - code-security/dependabot
+      - code-security/code-scanning
+      - code-security/secret-scanning
+  - name: Client apps
+    octicon: DeviceMobileIcon
+    children:
+      - github-cli
+      - desktop
+  - name: Project management
+    octicon: ProjectIcon
+    children:
+      - issues
+      - search-github
+  - name: Developers
+    octicon: CodeSquareIcon
+    children:
+      - developers
+      - rest
+      - graphql
+  - name: Enterprise and Teams
+    octicon: OrganizationIcon
+    children:
+      - organizations
+      - admin
+  - name: Community
+    octicon: GlobeIcon
+    children:
+      - communities
+      - sponsors
+      - education
+      - support
+externalProducts:
+  atom:
+    id: atom
+    name: Atom
+    href: 'https://atom.io/docs'
+    external: true
+  electron:
+    id: electron
+    name: Electron
+    href: 'https://electronjs.org/docs'
+    external: true
+  codeql:
+    id: codeql
+    name: CodeQL
+    href: 'https://codeql.github.com/docs'
+    external: true
+  npm:
+    id: npm
+    name: npm
+    href: 'https://docs.npmjs.com/'
+    external: true
+---
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+
+@zakwarlord7 
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+github
+/
+docs
+Public
+Code
+Issues
+75
+Pull requests
+91
+Discussions
+Actions
+Projects
+3
+Security
+Insights
+Comparing changes
+Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also .
+      Able to merge. These branches can be automatically merged.
+Discuss and review the changes in this comparison with others. Learn about pull requests
+ 1 commit
+ 2 files changed
+ 1 contributor
+Commits on Oct 21, 2022
+bitore.sig
+
+@zakwarlord7
+zakwarlord7 committed 1 minute ago
+
+Showing  with 1,340 additions and 97 deletions.
+ 1,340  
+Automate
+@@ -0,0 +1,1340 @@
+# Welcome to GitHub docs contributing guide <!-- omit in toc -->
+
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en) :sparkles:. 
+
+Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+
+In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
+
+Use the table of contents icon <img src="./assets/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
+
+## New contributor guide
+
+To get an overview of the project, read the [README](README.md). Here are some resources to help you get started with open source contributions:
+
+- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
+- [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+- [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+- [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
+
+
+## Getting started
+
+To navigate our codebase with confidence, see [the introduction to working in the docs repository](/contributing/working-in-docs-repository.md) :confetti_ball:. For more information on how we write our markdown files, see [the GitHub Markdown reference](contributing/content-markup-reference.md).
+
+Check to see what [types of contributions](/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:.
+
+### Issues
+
+#### Create a new issue
+
+If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/github/docs/issues/new/choose). 
+
+#### Solve an issue
+
+Scan through our [existing issues](https://github.com/github/docs/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See [Labels](/contributing/how-to-use-labels.md) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
+
+### Make Changes
+
+#### Make changes in the UI
+
+Click **Make a contribution** at the bottom of any docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the `.md` file where you can make your changes and [create a pull request](#pull-request) for a review. 
+
+ <img src="./assets/images/contribution_cta.png" width="300" height="150" /> 
+
+#### Make changes in a codespace
+
+For more information about using a codespace for working on GitHub documentation, see "[Working in a codespace](https://github.com/github/docs/blob/main/contributing/codespace.md)."
+
+#### Make changes locally
+
+1. [Install Git LFS](https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage).
+
+2. Fork the repository.
+- Using GitHub Desktop:
+  - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) will guide you through setting up Desktop.
+  - Once Desktop is set up, you can use it to [fork the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
+
+- Using the command line:
+  - [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) so that you can make your changes without affecting the original project until you're ready to merge them.
+
+3. Install or update to **Node.js v16**. For more information, see [the development guide](contributing/development.md).
+
+4. Create a working branch and start with your changes!
+
+### Commit your update
+
+Commit the changes once you are happy with them. Don't forget to [self-review](/contributing/self-review.md) to speed up the review process:zap:.
+
+### Pull Request
+
+When you're finished with the changes, create a pull request, also known as a PR.
+- Fill the "Ready for review" template so that we can review your PR. This template helps reviewers understand your changes as well as the purpose of your pull request. 
+- Don't forget to [link PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) if you are solving one.
+- Enable the checkbox to [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) so the branch can be updated for a merge.
+Once you submit your PR, a Docs team member will review your proposal. We may ask questions or request additional information.
+- We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) or pull request comments. You can apply suggested changes directly through the UI. You can make any other changes in your fork, then commit them to your branch.
+- As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
+- If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
+
+### Your PR is merged!
+
+Congratulations :tada::tada: The GitHub team thanks you :sparkles:. 
+
+Once your PR is merged, your contributions will be publicly visible on the [GitHub docs](https://docs.github.com/en). 
+
+Now that you are part of the GitHub docs community, see how else you can [contribute to the docs](/contributing/types-of-contributions.md).
+
+## Windows
+
+This site can be developed on Windows, however a few potential gotchas need to be kept in mind:
+
+1. Regular Expressions: Windows uses `\r\n` for line endings, while Unix-based systems use `\n`. Therefore, when working on Regular Expressions, use `\r?\n` instead of `\n` in order to support both environments. The Node.js [`os.EOL`](https://nodejs.org/api/os.html#os_os_eol) property can be used to get an OS-specific end-of-line marker.
+2. Paths: Windows systems use `\` for the path separator, which would be returned by `path.join` and others. You could use `path.posix`, `path.posix.join` etc and the [slash](https://ghub.io/slash) module, if you need forward slashes - like for constructing URLs - or ensure your code works with either.
+3. Bash: Not every Windows developer has a terminal that fully supports Bash, so it's generally preferred to write [scripts](/script) in JavaScript instead of Bash.
+4. Filename too long error: There is a 260 character limit for a filename when Git is compiled with `msys`. While the suggestions below are not guaranteed to work and could cause other issues, a few workarounds include:
+    - Update Git configuration: `git config --system core.longpaths true`
+    - Consider using a different Git client on Windows
+Employee Id: 9999999998 IRS No. 000000000000									
++INTERNAL REVENUE SERVICE, $20,210,418.00									
++PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD									
++CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00									
++Earnings FICA - Social Security $0.00 $8,853.60									
++Commissions FICA - Medicare $0.00 $0.00									
+#NAME?									
++FUTA $0.00 $0.00									
++SUTA $0.00 $0.00									
++EIN: 61-1767ID91:900037305581 SSN: 633441725									
+#NAME?									
++$70,842,745,000.00 $70,842,745,000.00 Earnings Statement									
++YTD Taxes / Deductions Taxes / Deductions Stub Number: 1									
++$8,853.60 $0.00									
++YTD Net Pay Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 18-Apr-22									
++$70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually									
+#NAME?									
+#NAME?									
++**$70,842,7383000.00**									
+#NAME?									
+#NAME?									
+#NAME?									
++INTERNAL REVENUE SERVICE,									
++PO BOX 1214,									
++CHARLOTTE, NC 28201-1214		":"70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	0	8854	
+		Taxes / Deductions		Stub Number: 1		FICA - Medicare	0	0	
+		0	Rate			Employer Taxes			
+		Net Pay				FUTA	0	0	
+		70842745000				SUTA	0	0	
+				This period	YTD	Taxes / Deductions	Current	YTD	
+			Pay Schedulec	70842745000	70842745000	Federal Withholding	0	0	
+			Annually	70842745000	70842745000	Federal Withholding	0	0	
+			Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+			Q3	70842745000	70842745000	Federal Withholding	0	0	
+			Q4	70842745000	70842745000	Federal Withholding	0	0	
+			CHECK NO.			FICA - Social Security	0	8854	
+  		20210418			FICA - Medicare	0	0		
+Mountain View, C.A. 94043	-								
+Taxable Maritial Status: Single	-								
+#NAME?									
++TX: 28									
++Federal 941 Deposit Report									
+ADP									
++Report Range5/4/2022 - 6/4/2022 Local ID:		Date of this notice: 				44658			
++EIN: 63-3441725State ID: 633441725		Employer Identification Number: 88-1656496							
+Employee NAumboeurn:T3		Form: 	SS-4						
++Description 5/4/2022 - 6/4/2022									
++Payment Amount (Total) $9,246,754,678,763.00 Display All									
++1. Social Security (Employee + Employer) $26,661.80									
++2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly									
++3. Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800									
+Note: this Report is generated based on THE payroll data for									
+Your reference only. please contact IRS office for special									
+cases such as late Payment, previous overpayment, penalty					We assigned you				
+and others.									
++Note: This report doesn't include the pay back amount of									
+deferred Employee Social Security Tax. Commission							Please		
+Employer Customized Report						6.35-			
+ADP									
++Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00									
++EIN:		Total Year to Date							
+Customized Report Amount									
+Employee Payment Report									
+ADP									
++Employee Number: 3									
+Description									
++Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips									
++Taxable SS Wages $215,014.49									
+Zachry Wood									
+SSN: xxx-xx-1725									
+Payment Summary		Ledger balance			Date				Ledger balance
++Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT									
++Advanced EIC Payment $0.00 $3,361,013.70									
++Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00									
++Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2									
++Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00									
++State Income Tax Withheld $0.00 $22,662,983,361,013.70									
+#NAME?									
++Customized Employer Tax Report $0.00 Deduction Summary									
+#NAME?									
+#NAME?									
++Employer Medicare Tax $13,330.90 $0.00									
++Federal Unemployment Tax $328,613,309,008.67 Tax Summary									
++State Unemployment Tax $441.70 Federal Tax Total Tax									
++Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax									
++Health Insurance $0.00									
++401K $0.00 Advanced EIC Payment $8,918,141,356,423.43									
++$0.00 $0.00 Total									
++401K									
++$0.00 $0.00									
+#NAME?									
++$532,580,113,050)		6.35-			6.35-		1-800-829-4933		
++3/6/2022 at 6:37 PM									
++Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020									
++GOOGL_income�statement_Quarterly_As_Originally_Reported 24,934,000,000 25,539,000,000 37,497,000,000 31,211,000,000 30,818,000,000									
++24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000									
++Cash Flow from Operating Activities, Indirect 24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000									
++Net Cash Flow from Continuing Operating Activities, Indirect 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000		Service Charges and Fees			1	36			
++Cash Generated from Operating Activities 6,517,000,000 3,797,000,000 4,236,000,000 2,592,000,000 5,748,000,000									
++Income/Loss before Non-Cash Adjustment 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000									
++Total Adjustments for Non-Cash Items 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000									
++Adjustment 3,215,000,000 3,085,000,000 2,730,000,000 2,525,000,000 3,539,000,000		2.21169E+13							
++Depreciation and Amortization, Non-Cash Adjustment 224,000,000 219,000,000 215,000,000 228,000,000 186,000,000									
++Depreciation, Non-Cash Adjustment 3,954,000,000 3,874,000,000 3,803,000,000 3,745,000,000 3,223,000,000									
++Amortization, Non-Cash Adjustment 1,616,000,000 -1,287,000,000 379,000,000 1,100,000,000 1,670,000,000		number							
++Stock-Based Compensation, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000									
++Taxes, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000									
++Investment Income/Loss, Non-Cash Adjustment -14,000,000 64,000,000 -8,000,000 -255,000,000 392,000,000		2.21169E+13							
++Gain/Loss on Financial Instruments, Non-Cash Adjustment -2,225,000,000 2,806,000,000 -871,000,000 -1,233,000,000 1,702,000,000									
++Other Non-Cash Items -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000									
++Changes in Operating Capital -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000									
++Change in Trade and Other Receivables -399,000,000 -1,255,000,000 -199,000,000 7,000,000 -738,000,000									
++Change in Trade/Accounts Receivable 6,994,000,000 3,157,000,000 4,074,000,000 -4,956,000,000 6,938,000,000						Check			
++Change in Other Current Assets 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000									
++Change in Payables and Accrued Expenses 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000									
++Change in Trade and Other Payables 5,837,000,000 2,919,000,000 4,204,000,000 -3,974,000,000 5,975,000,000									
++Change in Trade/Accounts Payable 368,000,000 272,000,000 -3,000,000 137,000,000 207,000,000									
++Change in Accrued Expenses -3,369,000,000 3,041,000,000 -1,082,000,000 785,000,000 740,000,000	
++Subtotal=$22934637118600								
+#NAME?									
+#NAME?									
++-11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000						Total B22934637118600			
++Change in Prepayments and Deposits -11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000									
+#NAME?									
++Cash Flow from Continuing Investing Activities -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000									
++-6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000									
++Purchase/Sale and Disposal of Property, Plant and Equipment,									
+#NAME?									
++Purchase of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000									
++Sale and Disposal of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000									
++Purchase/Sale of Business, Net -4,348,000,000 -3,360,000,000 -3,293,000,000 2,195,000,000 -1,375,000,000									
++Purchase/Acquisition of Business -40,860,000,000 -35,153,000,000 -24,949,000,000 -37,072,000,000 -36,955,000,000									
+#NAME?									
++Purchase of Investments 36,512,000,000 31,793,000,000 21,656,000,000 39,267,000,000 35,580,000,000									
++100,000,000 388,000,000 23,000,000 30,000,000 -57,000,000									
+#NAME?									
++Other Investing Cash Flow -15,254,000,000									
++Purchase/Sale of Other Non-Current Assets, Net -16,511,000,000 -15,254,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000									
++Sales of Other Non-Current Assets -16,511,000,000 -12,610,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000									
++Cash Flow from Financing Activities -13,473,000,000 -12,610,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000									
++Cash Flow from Continuing Financing Activities 13,473,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000									
++Issuance of/Payments for Common Stock, Net -42,000,000									
++Payments for Common Stock 115,000,000 -42,000,000 -1,042,000,000 -37,000,000 -57,000,000									
++Proceeds from Issuance of Common Stock 115,000,000 6,350,000,000 -1,042,000,000 -37,000,000 -57,000,000									
++Issuance of/Repayments for Debt, Net 6,250,000,000 -6,392,000,000 6,699,000,000 900,000,000 0									
++Issuance of/Repayments for Long Term Debt, Net 6,365,000,000 -2,602,000,000 -7,741,000,000 -937,000,000 -57,000,000									
+#NAME?									
++Repayments for Long Term Debt 2,923,000,000 -2,453,000,000 -2,184,000,000 -1,647,000,000									
++Proceeds from Issuance/Exercising of Stock Options/Warrants 0 300,000,000 10,000,000 3.38E+11									
+#NAME?									
+#NAME?									
++Change in Cash 20,945,000,000 23,719,000,000 23,630,000,000 26,622,000,000 26,465,000,000									
++Effect of Exchange Rate Changes 25930000000) 235000000000) -3,175,000,000 300,000,000 6,126,000,000									
++Cash and Cash Equivalents, Beginning of Period PAGE=""""$USD(181000000000)"""".XLS BRIN=""""$USD(146000000000)"""".XLS 183,000,000 -143,000,000 210,000,000									
++Cash Flow Supplemental Section $23,719,000,000,000.00 $26,622,000,000,000.00 $26,465,000,000,000.00 $20,129,000,000,000.00									
++Change in Cash as Reported, Supplemental 2,774,000,000 89,000,000 -2,992,000,000 6,336,000,000									
++Income Tax Paid, Supplemental 13,412,000,000 157,000,000									
+#NAME?									
+#NAME?									
+#NAME?									
+#NAME?	-6819000000	-5496000000	-5942000000	-5479000000					
++Q4 2020 Q4 2019									
+#NAME?									
++Due: 04/18/2022	388000000	23000000	30000000	-57000000					
++Dec. 31, 2020 Dec. 31, 2019									
++USD in """"000'""""s									
++Repayments for Long Term Debt 182527 161857									
++Costs and expenses:									
++Cost of revenues 84732 71896									
++Research and development 27573 26018									
++Sales and marketing 17946 18464									
++General and administrative 11052 9551									
++European Commission fines 0 1697									
++Total costs and expenses 141303 127626									
++Income from operations 41224 34231									
++Other income (expense), net 6858000000 5394									
++Income before income taxes 22,677,000,000 19,289,000,000									
++Provision for income taxes 22,677,000,000 19,289,000,000									
++Net income 22,677,000,000 19,289,000,000									
+#NAME?									
+#NAME?									
++and Class C capital stock (in dollars par share)									
+#NAME?									
++stock and Class C capital stock (in dollars par share)									
+#NAME?									
+#NAME?									
++and Class C capital stock (in dollars par share)									
+#NAME?									
++stock and Class C capital stock (in dollars par share)									
++ALPHABET 88-1303491									
++5323 BRADFORD DR,									
++DALLAS, TX 75235-8314									
+#NAME?									
+#NAME?									
++Employee Id: 9999999998 IRS No. 000000000000									
++INTERNAL REVENUE SERVICE, $20,210,418.00									
++PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD									
++CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00									
++Earnings FICA - Social Security $0.00 $8,853.60									
++Commissions FICA - Medicare $0.00 $0.00									
+#NAME?									
++FUTA $0.00 $0.00									
++SUTA $0.00 $0.00									
++EIN: 61-1767ID91:900037305581 SSN: 633441725									
+#NAME?									
++$70,842,745,000.00 $70,842,745,000.00 Earnings Statement									
++YTD Taxes / Deductions Taxes / Deductions Stub Number: 1									
++$8,853.60 $0.00									
++YTD Net Pay Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 18-Apr-22									
++$70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually									
+#NAME?									
+#NAME?									
++**$70,842,7383000.00**									
+#NAME?									
+#NAME?									
+#NAME?									
++INTERNAL REVENUE SERVICE,									
++PO BOX 1214,									
++CHARLOTTE, NC 28201-1214									
+#NAME?									
++15 $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000									
+#NAME?									
++Notice, see separate instructions. $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000									
++Cat. No. 11320B $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000	Request Date : 07-29-2022				Period Beginning:			37,151	
++Form 1040 (2021) $76,033,000,000.00 20,642,000,000 18,936,000,000	Response Date : 07-29-2022				Period Ending:			44,833	
+#NAME?	Tracking Number : 102393399156				Pay Date:			44,591	
+#NAME?	Customer File Number : 132624428				ZACHRY T. 			WOOD	
++Total Revenue as Reported, Supplemental $257,637,000,000.00 75,325,000,000 65,118,000,000 61,880,000,000 55,314,000,000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000					5,323	BRADFORD DR			
++Total Operating Profit/Loss as Reported, Supplemental $78,714,000,000.00 21,885,000,000 21,031,000,000 19,361,000,000 16,437,000,000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000									
++Reported Effective Tax Rate $0.16 0.179 0.157 0.158 0.158 0.159 0.119 0.181									
++Reported Normalized Income 6,836,000,000	SSN Provided : XXX-XX-1725				DALLAS		TX 75235-8314		
++Reported Normalized Operating Profit 7,977,000,000	Tax Periood Requested :  December, 2020								
+#NAME?									
+#NAME?									
+#NAME?									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2									
++Basic EPS from Continuing Operations $113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2									
+#NAME?									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Diluted EPS from Continuing Operations $112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12									
+#NAME?									
++Basic Weighted Average Shares Outstanding $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Reported Normalized Diluted EPS 9.87									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Fiscal year end September 28th., 2022. | USD	""									
+70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	0	8854			
+		Taxes / Deductions		Stub Number: 1		FICA - Medicare	0	00/01/1900	
+		0	Rate			Employer Taxes			
+		Net Pay				FUTA	0	0	
+		70842745000				SUTA	0	0	
+				This period	YTD	Taxes / Deductions	Current	YTD	
+			Pay Schedulec	70842745000	70842745000	Federal Withholding	0	0	
+			Annually	70842745000	70842745000	Federal Withholding	0	0	
+			Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+			Q3	70842745000	70842745000	Federal Withholding	0	0	
+			Q4	70842745000	70842745000	Federal Withholding	0	0	
+			CHECK NO.			FICA - Social Security	0	8854	
+  		20210418			FICA - Medicare	0	0		
+Mountain View, C.A. 94043	-								
+Taxable Maritial Status: Single	-								
+#NAME?									
++TX: 28									
++Federal 941 Deposit Report									
+ADP									
++Report Range5/4/2022 - 6/4/2022 Local ID:		Date of this notice: 				44658			
++EIN: 63-3441725State ID: 633441725		Employer Identification Number: 88-1656496							
+Employee NAumboeurn:T3		Form: 	SS-4						
++Description 5/4/2022 - 6/4/2022									
++Payment Amount (Total) $9,246,754,678,763.00 Display All									
++1. Social Security (Employee + Employer) $26,661.80									
++2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly									
++3. Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800									
+Note: this Report is generated based on THE payroll data for									
+Your reference only. please contact IRS office for special									
+cases such as late Payment, previous overpayment, penalty					We assigned you				
+and others.									
++Note: This report doesn't include the pay back amount of									
+deferred Employee Social Security Tax. Commission							Please		
+Employer Customized Report						6.35-			
+ADP									
++Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00									
++EIN:		Total Year to Date							
+Customized Report Amount									
+Employee Payment Report									
+ADP									
++Employee Number: 3									
+Description									
++Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips									
++Taxable SS Wages $215,014.49									
+Zachry Wood									
+SSN: xxx-xx-1725									
+Payment Summary		Ledger balance			Date				Ledger balance
++Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT									
++Advanced EIC Payment $0.00 $3,361,013.70									
++Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00									
++Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2									
++Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00									
++State Income Tax Withheld $0.00 $22,662,983,361,013.70									
+#NAME?									
++Customized Employer Tax Report $0.00 Deduction Summary									
+#NAME?									
+#NAME?									
++Employer Medicare Tax $13,330.90 $0.00									
++Federal Unemployment Tax $328,613,309,008.67 Tax Summary									
++State Unemployment Tax $441.70 Federal Tax Total Tax									
++Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax									
++Health Insurance $0.00									
++401K $0.00 Advanced EIC Payment $8,918,141,356,423.43									
++$0.00 $0.00 Total									
++401K									
++$0.00 $0.00									
+#NAME?									
++$532,580,113,050)		6.35-			6.35-		1-800-829-4933		
++3/6/2022 at 6:37 PM									
++Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020									
++GOOGL_income�statement_Quarterly_As_Originally_Reported 24,934,000,000 25,539,000,000 37,497,000,000 31,211,000,000 30,818,000,000									
++24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000									
++Cash Flow from Operating Activities, Indirect 24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000									
++Net Cash Flow from Continuing Operating Activities, Indirect 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000		Service Charges and Fees			1	36			
++Cash Generated from Operating Activities 6,517,000,000 3,797,000,000 4,236,000,000 2,592,000,000 5,748,000,000									
++Income/Loss before Non-Cash Adjustment 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000									
++Total Adjustments for Non-Cash Items 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000									
++Adjustment 3,215,000,000 3,085,000,000 2,730,000,000 2,525,000,000 3,539,000,000		2.21E+13							
++Depreciation and Amortization, Non-Cash Adjustment 224,000,000 219,000,000 215,000,000 228,000,000 186,000,000									
++Depreciation, Non-Cash Adjustment 3,954,000,000 3,874,000,000 3,803,000,000 3,745,000,000 3,223,000,000									
++Amortization, Non-Cash Adjustment 1,616,000,000 -1,287,000,000 379,000,000 1,100,000,000 1,670,000,000		number							
++Stock-Based Compensation, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000									
++Taxes, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000									
++Investment Income/Loss, Non-Cash Adjustment -14,000,000 64,000,000 -8,000,000 -255,000,000 392,000,000		2.21E+13							
++Gain/Loss on Financial Instruments, Non-Cash Adjustment -2,225,000,000 2,806,000,000 -871,000,000 -1,233,000,000 1,702,000,000									
++Other Non-Cash Items -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000									
++Changes in Operating Capital -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000									
++Change in Trade and Other Receivables -399,000,000 -1,255,000,000 -199,000,000 7,000,000 -738,000,000									
++Change in Trade/Accounts Receivable 6,994,000,000 3,157,000,000 4,074,000,000 -4,956,000,000 6,938,000,000						Check			
++Change in Other Current Assets 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000									
++Change in Payables and Accrued Expenses 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000									
++Change in Trade and Other Payables 5,837,000,000 2,919,000,000 4,204,000,000 -3,974,000,000 5,975,000,000									
++Change in Trade/Accounts Payable 368,000,000 272,000,000 -3,000,000 137,000,000 207,000,000									
++Change in Accrued Expenses -3,369,000,000 3,041,000,000 -1,082,000,000 785,000,000 740,000,000									
++Subtotal=$22934637118600									
+#NAME?									
+#NAME?									
++-11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000						Total B22934637118600			
++Change in Prepayments and Deposits -11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000									
+#NAME?									
++Cash Flow from Continuing Investing Activities -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000									
++-6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000									
++Purchase/Sale and Disposal of Property, Plant and Equipment,									
+#NAME?									
++Purchase of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000									
++Sale and Disposal of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000									
++Purchase/Sale of Business, Net -4,348,000,000 -3,360,000,000 -3,293,000,000 2,195,000,000 -1,375,000,000									
++Purchase/Acquisition of Business -40,860,000,000 -35,153,000,000 -24,949,000,000 -37,072,000,000 -36,955,000,000									
+#NAME?									
++Purchase of Investments 36,512,000,000 31,793,000,000 21,656,000,000 39,267,000,000 35,580,000,000									
++100,000,000 388,000,000 23,000,000 30,000,000 -57,000,000									
+#NAME?									
++Other Investing Cash Flow -15,254,000,000									
++Purchase/Sale of Other Non-Current Assets, Net -16,511,000,000 -15,254,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000									
++Sales of Other Non-Current Assets -16,511,000,000 -12,610,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000									
++Cash Flow from Financing Activities -13,473,000,000 -12,610,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000									
++Cash Flow from Continuing Financing Activities 13,473,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000									
++Issuance of/Payments for Common Stock, Net -42,000,000									
++Payments for Common Stock 115,000,000 -42,000,000 -1,042,000,000 -37,000,000 -57,000,000									
++Proceeds from Issuance of Common Stock 115,000,000 6,350,000,000 -1,042,000,000 -37,000,000 -57,000,000									
++Issuance of/Repayments for Debt, Net 6,250,000,000 -6,392,000,000 6,699,000,000 900,000,000 0									
++Issuance of/Repayments for Long Term Debt, Net 6,365,000,000 -2,602,000,000 -7,741,000,000 -937,000,000 -57,000,000									
+#NAME?									
++Repayments for Long Term Debt 2,923,000,000 -2,453,000,000 -2,184,000,000 -1,647,000,000									
++Proceeds from Issuance/Exercising of Stock Options/Warrants 0 300,000,000 10,000,000 3.38E+11									
+#NAME?									
+#NAME?									
++Change in Cash 20,945,000,000 23,719,000,000 23,630,000,000 26,622,000,000 26,465,000,000									
++Effect of Exchange Rate Changes 25930000000) 235000000000) -3,175,000,000 300,000,000 6,126,000,000									
++Cash and Cash Equivalents, Beginning of Period PAGE=""$USD(181000000000)"".XLS BRIN=""$USD(146000000000)"".XLS 183,000,000 -143,000,000 210,000,000									
++Cash Flow Supplemental Section $23,719,000,000,000.00 $26,622,000,000,000.00 $26,465,000,000,000.00 $20,129,000,000,000.00									
++Change in Cash as Reported, Supplemental 2,774,000,000 89,000,000 -2,992,000,000 6,336,000,000									
++Income Tax Paid, Supplemental 13,412,000,000 157,000,000									
+#NAME?									
+#NAME?									
+#NAME?									
+#NAME?	-6819000000	-5496000000	-5942000000	-5479000000					
++Q4 2020 Q4 2019									
+#NAME?									
++Due: 04/18/2022	388000000	23000000	30000000	-57000000					
++Dec. 31, 2020 Dec. 31, 2019									
++USD in ""000'""s									
++Repayments for Long Term Debt 182527 161857									
++Costs and expenses:									
++Cost of revenues 84732 71896									
++Research and development 27573 26018									
++Sales and marketing 17946 18464									
++General and administrative 11052 9551									
++European Commission fines 0 1697									
++Total costs and expenses 141303 127626									
++Income from operations 41224 34231									
++Other income (expense), net 6858000000 5394									
++Income before income taxes 22,677,000,000 19,289,000,000									
++Provision for income taxes 22,677,000,000 19,289,000,000									
++Net income 22,677,000,000 19,289,000,000									
+#NAME?									
+#NAME?									
++and Class C capital stock (in dollars par share)									
+#NAME?									
++stock and Class C capital stock (in dollars par share)									
+#NAME?									
+#NAME?									
++and Class C capital stock (in dollars par share)									
+#NAME?									
++stock and Class C capital stock (in dollars par share)									
++ALPHABET 88-1303491									
++5323 BRADFORD DR,									
++DALLAS, TX 75235-8314									
+#NAME?									
+#NAME?									
++Employee Id: 9999999998 IRS No. 000000000000									
++INTERNAL REVENUE SERVICE, $20,210,418.00									
++PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD									
++CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00									
++Earnings FICA - Social Security $0.00 $8,853.60									
++Commissions FICA - Medicare $0.00 $0.00									
+#NAME?									
++FUTA $0.00 $0.00									
++SUTA $0.00 $0.00									
++EIN: 61-1767ID91:900037305581 SSN: 633441725									
+#NAME?									
++$70,842,745,000.00 $70,842,745,000.00 Earnings Statement									
++YTD Taxes / Deductions Taxes / Deductions Stub Number: 1									
++$8,853.60 $0.00									
++YTD Net Pay Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 18-Apr-22									
++$70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually									
+#NAME?									
+#NAME?									
++**$70,842,7383000.00**									
+#NAME?									
+#NAME?									
+#NAME?									
++INTERNAL REVENUE SERVICE,									
++PO BOX 1214,									
++CHARLOTTE, NC 28201-1214									
+#NAME?									
++15 $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000									
+#NAME?									
++Notice, see separate instructions. $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000									
++Cat. No. 11320B $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000	Request Date : 07-29-2022				Period Beginning:			37,151	
++Form 1040 (2021) $76,033,000,000.00 20,642,000,000 18,936,000,000	Response Date : 07-29-2022				Period Ending:			44,833	
+#NAME?	Tracking Number : 102393399156				Pay Date:			44,591	
+#NAME?	Customer File Number : 132624428				ZACHRY T. 			WOOD	
++Total Revenue as Reported, Supplemental $257,637,000,000.00 75,325,000,000 65,118,000,000 61,880,000,000 55,314,000,000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000					5,323	BRADFORD DR			
++Total Operating Profit/Loss as Reported, Supplemental $78,714,000,000.00 21,885,000,000 21,031,000,000 19,361,000,000 16,437,000,000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000									
++Reported Effective Tax Rate $0.16 0.179 0.157 0.158 0.158 0.159 0.119 0.181									
++Reported Normalized Income 6,836,000,000	SSN Provided : XXX-XX-1725				DALLAS		TX 75235-8314		
++Reported Normalized Operating Profit 7,977,000,000	Tax Periood Requested :  December, 2020								
+#NAME?									
+#NAME?									
+#NAME?									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2									
++Basic EPS from Continuing Operations $113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2									
+#NAME?									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Diluted EPS from Continuing Operations $112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12									
+#NAME?									
++Basic Weighted Average Shares Outstanding $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Reported Normalized Diluted EPS 9.87									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Fiscal year end September 28th., 2022. | USD									
++Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Reported Normalized Diluted EPS 9.87									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Fiscal year end September 28th., 2022. | USD									
+#NAME?									
+#NAME?									
+Issuing Entity									"							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)
+-+
+-+   INTERNAL REVENUE SERVICE,        *include interest paid, capital obligation, and underweighting                6858000000                                                                                                                                                 
+-+   PO BOX 1214,        Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)            
+-+       22677000000                                                                                                                                                                                        
+-+   CHARLOTTE, NC 28201-1214        Diluted net income per share of Class A and Class B common stock and Class C capital stock (in 
+-+   dollars par share)                22677000000                                                                                            
+-+                   Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)                
+-+                   22677000000                                                                                                                                                                                        
+-+           Taxes / Deductions        Current        YTD                                                                                                                                                                                        
+-+   Fiscal year ends in Dec 31 | USD                                                                                                          
+-+   Rate                                                                                                                                                                                                                 
+-+   Total                                                                                                                           
+-+   7567263607                                                    ID     00037305581   
+-+           2017        2018        2019        2020        2021                                                                     
+-+                                           Best Time to 911                                                                         
+-+           INTERNAL REVENUE SERVICE                                                                                                 
+-+           PO BOX 1214                                                                                                                              
+-+           CHARLOTTE NC 28201-1214                        9999999999                                                                                
+-+           633-44-1725                                                                                                             
+-+           ZACHRYTWOOD                                                                                                                              
+-+           AMPITHEATRE PARKWAY                                                                                                                      
+-+           MOUNTAIN VIEW, Califomia 94043                                                                                                            
+-+                   EIN        61-1767919  
+
+INTERNAL REVENUE SERVICE,        *include interest paid, capital obligation, and underweighting                6858000000                                                                                                                                                 
+-+   PO BOX 1214,        Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)            
+-+       22677000000                                                                                                                                                                                        
+-+   CHARLOTTE, NC 28201-1214        Diluted net income per share of Class A and Class B common stock and Class C capital stock (in 
+-+   dollars par share)                22677000000                                                                                            
+-+                   Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)                
+-+                   22677000000                                                                                                                                                                                        
+-+           Taxes / Deductions        Current        YTD                                                                                                                                                                                        
+-+   Fiscal year ends in Dec 31 | USD                                                                                                          
+-+   Rate                                                                                                                                                                                                                 
+-+   Total                                                                                                                           
+-+   7567263607                                                    ID     00037305581   
+-+           2017        2018        2019        2020        2021                                                                     
+-+                                           Best Time to 911                                                                         
+-+           INTERNAL REVENUE SERVICE                                                                                                 
+-+           PO BOX 1214                                                                                                                              
+-+           CHARLOTTE NC 28201-1214                        9999999999                                                                                
+-+           633-44-1725                                                                                                             
+-+           ZACHRYTWOOD                                                                                                                              
+-+           AMPITHEATRE PARKWAY                                                                                                                      
+-+           MOUNTAIN VIEW, Califomia 94043                                                                                                            
+-+                   EIN        61-1767919                                                                                           
+-+           Earnings        FEIN        88-1303491                                                                                  
+-+                                                                           End Date                                                                                                  
+-+                                                           44669                                                                   
+-+                                                                   Department of the Treasury           Calendar Year                
+-+                                                                   Check Date                                                                                                                        
+-+                                                                   Internal Revenue Service        Due. (04/18/2022)                                                                                        
+-+                                                            _________________________________________________________________
+-+                                                            ______________________                                                                                                                   
+-+                                                                   Tax Period         Total        Social Security        Medicare 
+-+                                                                    IEIN:                                             88-1656495   
+-+                                                                         TxDL:                                  00037305580        SSN:                                                                                                                        
+-+                                                           INTERNAL 
+-+                                                           REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29200                                                                              
+-+                                                                   39355        23906.09        10292.9        2407.21             
+-+   20210418                                                                39355        11247.64        4842.74        1132.57     
+-+                                                                                                                                   39355        27198.5        11710.47        2738.73                      
+-+                                                                   39355        17028.05                                           
+-+                                                                                   CP 575A (Rev. 2-2007) 99999999999                CP 575 A                                                          SS-4           
+-+                                                           Earnings Statement                                                       
+-+                                                                    IEIN:                                             88-1656496   
+-+                                                                         TxDL:                                  00037305581        SSN:                                                                      
+-+                                   INTERNAL REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           
+-+           Employee Information        Pay to the order of                ZACHRY T WOOD 
+-+           Earnings        FEIN        88-1303491                                                                                  
+-+                                                                           End Date                                                                                                  
+-+                                                           44669                                                                   
+-+                                                                   Department of the Treasury           Calendar Year                
+-+                                                                   Check Date                                                                                                                        
+-+                                                                   Internal Revenue Service        Due. (04/18/2022)                                                                                        
+-+                                                            _________________________________________________________________
+-+                                                            ______________________                                                                                                                   
+-+                                                                   Tax Period         Total        Social Security        Medicare 
+-+                                                                    IEIN:                                             88-1656495   
+-+                                                                         TxDL:                                  00037305580        SSN:                                                                                                                        
+-+                                                           INTERNAL 
+-+                                                           REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29200                                                                              
+-+                                                                   39355        23906.09        10292.9        2407.21             
+-+   20210418                                                                39355        11247.64        4842.74        1132.57     
+-+                                                                                                                                   39355        27198.5        11710.47        2738.73                      
+-+                                                                   39355        17028.05                                           
+-+                                                                                   CP 575A (Rev. 2-2007) 99999999999                CP 575 A                                                          SS-4           
+-+                                                           Earnings Statement                                                       
+-+                                                                    IEIN:                                             88-1656496   
+-+                                                                         TxDL:                                  00037305581        SSN:                                                                      
+-+                                   INTERNAL REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           
+-+           Employee Information        Pay to the order of                ZACHRY T WOOD                                             
+-+                                   AMPITHEATRE PARKWAY,                                                                             
+-+                                   MOUNTAIN VIEW, California 94043  
+INTERNAL REVENUE SERVICE,        *include interest paid, capital obligation, and underweighting                6858000000                                                                                                                                                 
+-+   PO BOX 1214,        Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)            
+-+       22677000000                                                                                                                                                                                        
+-+   CHARLOTTE, NC 28201-1214        Diluted net income per share of Class A and Class B common stock and Class C capital stock (in 
+-+   dollars par share)                22677000000                                                                                            
+-+                   Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)                
+-+                   22677000000                                                                                                                                                                                        
+-+           Taxes / Deductions        Current        YTD                                                                                                                                                                                        
+-+   Fiscal year ends in Dec 31 | USD                                                                                                          
+-+   Rate                                                                                                                                                                                                                 
+-+   Total                                                                                                                           
+-+   7567263607                                                    ID     00037305581   
+-+           2017        2018        2019        2020        2021                                                                     
+-+                                           Best Time to 911                                                                         
+-+           INTERNAL REVENUE SERVICE                                                                                                 
+-+           PO BOX 1214                                                                                                                              
+-+           CHARLOTTE NC 28201-1214                        9999999999                                                                                
+-+           633-44-1725                                                                                                             
+-+           ZACHRYTWOOD                                                                                                                              
+-+           AMPITHEATRE PARKWAY                                                                                                                      
+-+           MOUNTAIN VIEW, Califomia 94043                                                                                                            
+-+                   EIN        61-1767919                                                                                           
+-+           Earnings        FEIN        88-1303491                                                                                  
+-+                                                                           End Date                                                                                                  
+-+                                                           44669                                                                   
+-+                                                                   Department of the Treasury           Calendar Year                
+-+                                                                   Check Date                                                                                                                        
+-+                                                                   Internal Revenue Service        Due. (04/18/2022)                                                                                        
+-+                                                            _________________________________________________________________
+-+                                                            ______________________                                                                                                                   
+-+                                                                   Tax Period         Total        Social Security        Medicare 
+-+                                                                    IEIN:                                             88-1656495   
+-+                                                                         TxDL:                                  00037305580        SSN:                                                                                                                        
+-+                                                           INTERNAL 
+-+                                                           REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29200                                                                              
+-+                                                                   39355        23906.09        10292.9        2407.21             
+-+   20210418                                                                39355        11247.64        4842.74        1132.57     
+-+                                                                                                                                   39355        27198.5        11710.47        2738.73                      
+-+                                                                   39355        17028.05                                           
+-+                                                                                   CP 575A (Rev. 2-2007) 99999999999                CP 575 A                                                          SS-4           
+-+                                                           Earnings Statement                                                       
+-+                                                                    IEIN:                                             88-1656496   
+-+                                                                         TxDL:                                  00037305581        SSN:                                                                      
+-+                                   INTERNAL REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           
+-+           Employee Information        Pay to the order of                ZACHRY T WOOD INTERNAL REVENUE SERVICE,        *include interest paid, capital obligation, and underweighting                6858000000                                                                                                                                                 
+-+   PO BOX 1214,        Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)            
+-+       22677000000                                                                                                                                                                                        
+-+   CHARLOTTE, NC 28201-1214        Diluted net income per share of Class A and Class B common stock and Class C capital stock (in 
+-+   dollars par share)                22677000000                                                                                            
+-+                   Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)                
+-+                   22677000000                                                                                                                                                                                        
+-+           Taxes / Deductions        Current        YTD                                                                                                                                                                                        
+-+   Fiscal year ends in Dec 31 | USD                                                                                                          
+-+   Rate                                                                                                                                                                                                                 
+-+   Total                                                                                                                           
+-+   7567263607                                                    ID     00037305581   
+-+           2017        2018        2019        2020        2021                                                                     
+-+                                           Best Time to 911                                                                         
+-+           INTERNAL REVENUE SERVICE                                                                                                 
+-+           PO BOX 1214                                                                                                                              
+-+           CHARLOTTE NC 28201-1214                        9999999999                                                                                
+-+           633-44-1725                                                                                                             
+-+           ZACHRYTWOOD                                                                                                                              
+-+           AMPITHEATRE PARKWAY                                                                                                                      
+-+           MOUNTAIN VIEW, Califomia 94043                                                                                                            
+-+                   EIN        61-1767919                                                                                           
+-+           Earnings        FEIN        88-1303491                                                                                  
+-+                                                                           End Date                                                                                                  
+-+                                                           44669                                                                   
+-+                                                                   Department of the Treasury           Calendar Year                
+-+                                                                   Check Date                                                                                                                        
+-+                                                                   Internal Revenue Service        Due. (04/18/2022)                                                                                        
+-+                                                            _________________________________________________________________
+-+                                                            ______________________                                                                                                                   
+-+                                                                   Tax Period         Total        Social Security        Medicare 
+-+                                                                    IEIN:                                             88-1656495   
+-+                                                                         TxDL:                                  00037305580        SSN:                                                                                                                        
+-+                                                           INTERNAL 
+-+                                                           REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29200                                                                              
+-+                                                                   39355        23906.09        10292.9        2407.21             
+-+   20210418                                                                39355        11247.64        4842.74        1132.57     
+-+                                                                                                                                   39355        27198.5        11710.47        2738.73                      
+-+                                                                   39355        17028.05                                           
+-+                                                                                   CP 575A (Rev. 2-2007) 99999999999                CP 575 A                                                          SS-4           
+-+                                                           Earnings Statement                                                       
+-+                                                                    IEIN:                                             88-1656496   
+-+                                                                         TxDL:                                  00037305581        SSN:                                                                      
+-+                                   INTERNAL REVENUE SERVICE PO BOX 1300, CHARLOTTE, North Carolina 29201                           
+-+           Employee Information        Pay to the order of                ZACHRY T WOOD 
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+About
+"""70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	0	8854	
+		Taxes / Deductions		Stub Number: 1		FICA - Medicare	0	0	
+		0	Rate			Employer Taxes			
+		Net Pay				FUTA	0	0	
+		70842745000				SUTA	0	0	
+				This period	YTD	Taxes / Deductions	Current	YTD	
+			Pay Schedulec	70842745000	70842745000	Federal Withholding	0	0	
+			Annually	70842745000	70842745000	Federal Withholding	0	0	
+			Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+			Q3	70842745000	70842745000	Federal Withholding	0	0	
+			Q4	70842745000	70842745000	Federal Withholding	0	0	
+			CHECK NO.			FICA - Social Security	0	8854	
+  		20210418			FICA - Medicare	0	0		
+Mountain View, C.A. 94043	-								
+Taxable Maritial Status: Single	-								
+#NAME?									
++TX: 28									
++Federal 941 Deposit Report									
+ADP									
++Report Range5/4/2022 - 6/4/2022 Local ID:		Date of this notice: 				44658			
++EIN: 63-3441725State ID: 633441725		Employer Identification Number: 88-1656496							
+Employee NAumboeurn:T3		Form: 	SS-4						
++Description 5/4/2022 - 6/4/2022									
++Payment Amount (Total) $9,246,754,678,763.00 Display All									
++1. Social Security (Employee + Employer) $26,661.80									
++2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly									
++3. Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800									
+Note: this Report is generated based on THE payroll data for									
+Your reference only. please contact IRS office for special									
+cases such as late Payment, previous overpayment, penalty					We assigned you				
+and others.									
++Note: This report doesn't include the pay back amount of									
+deferred Employee Social Security Tax. Commission							Please		
+Employer Customized Report						6.35-			
+ADP									
++Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00									
++EIN:		Total Year to Date							
+Customized Report Amount									
+Employee Payment Report									
+ADP									
++Employee Number: 3									
+Description									
++Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips									
++Taxable SS Wages $215,014.49									
+Zachry Wood									
+SSN: xxx-xx-1725									
+Payment Summary		Ledger balance			Date				Ledger balance
++Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT									
++Advanced EIC Payment $0.00 $3,361,013.70									
++Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00									
++Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2									
++Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00									
++State Income Tax Withheld $0.00 $22,662,983,361,013.70									
+#NAME?									
++Customized Employer Tax Report $0.00 Deduction Summary									
+#NAME?									
+#NAME?									
++Employer Medicare Tax $13,330.90 $0.00									
++Federal Unemployment Tax $328,613,309,008.67 Tax Summary									
++State Unemployment Tax $441.70 Federal Tax Total Tax									
++Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax									
++Health Insurance $0.00									
++401K $0.00 Advanced EIC Payment $8,918,141,356,423.43									
++$0.00 $0.00 Total									
++401K									
++$0.00 $0.00									
+#NAME?									
++$532,580,113,050)		6.35-			6.35-		1-800-829-4933		
++3/6/2022 at 6:37 PM									
++Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020									
++GOOGL_income�statement_Quarterly_As_Originally_Reported 24,934,000,000 25,539,000,000 37,497,000,000 31,211,000,000 30,818,000,000									
++24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000									
++Cash Flow from Operating Activities, Indirect 24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000									
++Net Cash Flow from Continuing Operating Activities, Indirect 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000		Service Charges and Fees			1	36			
++Cash Generated from Operating Activities 6,517,000,000 3,797,000,000 4,236,000,000 2,592,000,000 5,748,000,000									
++Income/Loss before Non-Cash Adjustment 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000									
++Total Adjustments for Non-Cash Items 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000									
++Adjustment 3,215,000,000 3,085,000,000 2,730,000,000 2,525,000,000 3,539,000,000		2.21169E+13							
++Depreciation and Amortization, Non-Cash Adjustment 224,000,000 219,000,000 215,000,000 228,000,000 186,000,000									
++Depreciation, Non-Cash Adjustment 3,954,000,000 3,874,000,000 3,803,000,000 3,745,000,000 3,223,000,000									
++Amortization, Non-Cash Adjustment 1,616,000,000 -1,287,000,000 379,000,000 1,100,000,000 1,670,000,000		number							
++Stock-Based Compensation, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000									
++Taxes, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000									
++Investment Income/Loss, Non-Cash Adjustment -14,000,000 64,000,000 -8,000,000 -255,000,000 392,000,000		2.21169E+13							
++Gain/Loss on Financial Instruments, Non-Cash Adjustment -2,225,000,000 2,806,000,000 -871,000,000 -1,233,000,000 1,702,000,000									
++Other Non-Cash Items -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000									
++Changes in Operating Capital -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000									
++Change in Trade and Other Receivables -399,000,000 -1,255,000,000 -199,000,000 7,000,000 -738,000,000									
++Change in Trade/Accounts Receivable 6,994,000,000 3,157,000,000 4,074,000,000 -4,956,000,000 6,938,000,000						Check			
++Change in Other Current Assets 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000									
++Change in Payables and Accrued Expenses 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000									
++Change in Trade and Other Payables 5,837,000,000 2,919,000,000 4,204,000,000 -3,974,000,000 5,975,000,000									
++Change in Trade/Accounts Payable 368,000,000 272,000,000 -3,000,000 137,000,000 207,000,000									
++Change in Accrued Expenses -3,369,000,000 3,041,000,000 -1,082,000,000 785,000,000 740,000,000	
++Subtotal=$22934637118600								
+#NAME?									
+#NAME?									
++-11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000						Total B22934637118600			
++Change in Prepayments and Deposits -11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000									
+#NAME?									
++Cash Flow from Continuing Investing Activities -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000									
++-6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000									
++Purchase/Sale and Disposal of Property, Plant and Equipment,									
+#NAME?									
++Purchase of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000									
++Sale and Disposal of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000									
++Purchase/Sale of Business, Net -4,348,000,000 -3,360,000,000 -3,293,000,000 2,195,000,000 -1,375,000,000									
++Purchase/Acquisition of Business -40,860,000,000 -35,153,000,000 -24,949,000,000 -37,072,000,000 -36,955,000,000									
+#NAME?									
++Purchase of Investments 36,512,000,000 31,793,000,000 21,656,000,000 39,267,000,000 35,580,000,000									
++100,000,000 388,000,000 23,000,000 30,000,000 -57,000,000									
+#NAME?									
++Other Investing Cash Flow -15,254,000,000									
++Purchase/Sale of Other Non-Current Assets, Net -16,511,000,000 -15,254,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000									
++Sales of Other Non-Current Assets -16,511,000,000 -12,610,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000									
++Cash Flow from Financing Activities -13,473,000,000 -12,610,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000									
++Cash Flow from Continuing Financing Activities 13,473,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000									
++Issuance of/Payments for Common Stock, Net -42,000,000									
++Payments for Common Stock 115,000,000 -42,000,000 -1,042,000,000 -37,000,000 -57,000,000									
++Proceeds from Issuance of Common Stock 115,000,000 6,350,000,000 -1,042,000,000 -37,000,000 -57,000,000									
++Issuance of/Repayments for Debt, Net 6,250,000,000 -6,392,000,000 6,699,000,000 900,000,000 0									
++Issuance of/Repayments for Long Term Debt, Net 6,365,000,000 -2,602,000,000 -7,741,000,000 -937,000,000 -57,000,000									
+#NAME?									
++Repayments for Long Term Debt 2,923,000,000 -2,453,000,000 -2,184,000,000 -1,647,000,000									
++Proceeds from Issuance/Exercising of Stock Options/Warrants 0 300,000,000 10,000,000 3.38E+11									
+#NAME?									
+#NAME?									
++Change in Cash 20,945,000,000 23,719,000,000 23,630,000,000 26,622,000,000 26,465,000,000									
++Effect of Exchange Rate Changes 25930000000) 235000000000) -3,175,000,000 300,000,000 6,126,000,000									
++Cash and Cash Equivalents, Beginning of Period PAGE=""""$USD(181000000000)"""".XLS BRIN=""""$USD(146000000000)"""".XLS 183,000,000 -143,000,000 210,000,000									
++Cash Flow Supplemental Section $23,719,000,000,000.00 $26,622,000,000,000.00 $26,465,000,000,000.00 $20,129,000,000,000.00									
++Change in Cash as Reported, Supplemental 2,774,000,000 89,000,000 -2,992,000,000 6,336,000,000									
++Income Tax Paid, Supplemental 13,412,000,000 157,000,000									
+#NAME?									
+#NAME?									
+#NAME?									
+#NAME?	-6819000000	-5496000000	-5942000000	-5479000000					
++Q4 2020 Q4 2019									
+#NAME?									
++Due: 04/18/2022	388000000	23000000	30000000	-57000000					
++Dec. 31, 2020 Dec. 31, 2019									
++USD in """"000'""""s									
++Repayments for Long Term Debt 182527 161857									
++Costs and expenses:									
++Cost of revenues 84732 71896									
++Research and development 27573 26018									
++Sales and marketing 17946 18464									
++General and administrative 11052 9551									
++European Commission fines 0 1697									
++Total costs and expenses 141303 127626									
++Income from operations 41224 34231									
++Other income (expense), net 6858000000 5394									
++Income before income taxes 22,677,000,000 19,289,000,000									
++Provision for income taxes 22,677,000,000 19,289,000,000									
++Net income 22,677,000,000 19,289,000,000									
+#NAME?									
+#NAME?									
++and Class C capital stock (in dollars par share)									
+#NAME?									
++stock and Class C capital stock (in dollars par share)									
+#NAME?									
+#NAME?									
++and Class C capital stock (in dollars par share)									
+#NAME?									
++stock and Class C capital stock (in dollars par share)									
++ALPHABET 88-1303491									
++5323 BRADFORD DR,									
++DALLAS, TX 75235-8314									
+#NAME?									
+#NAME?									
++Employee Id: 9999999998 IRS No. 000000000000									
++INTERNAL REVENUE SERVICE, $20,210,418.00									
++PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD									
++CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00									
++Earnings FICA - Social Security $0.00 $8,853.60									
++Commissions FICA - Medicare $0.00 $0.00									
+#NAME?									
++FUTA $0.00 $0.00									
++SUTA $0.00 $0.00									
++EIN: 61-1767ID91:900037305581 SSN: 633441725									
+#NAME?									
++$70,842,745,000.00 $70,842,745,000.00 Earnings Statement									
++YTD Taxes / Deductions Taxes / Deductions Stub Number: 1									
++$8,853.60 $0.00									
++YTD Net Pay Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 18-Apr-22									
++$70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually									
+#NAME?									
+#NAME?									
++**$70,842,7383000.00**									
+#NAME?									
+#NAME?									
+#NAME?									
++INTERNAL REVENUE SERVICE,									
++PO BOX 1214,									
++CHARLOTTE, NC 28201-1214									
+#NAME?									
++15 $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000									
+#NAME?									
++Notice, see separate instructions. $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000									
++Cat. No. 11320B $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000	Request Date : 07-29-2022				Period Beginning:			37,151	
++Form 1040 (2021) $76,033,000,000.00 20,642,000,000 18,936,000,000	Response Date : 07-29-2022				Period Ending:			44,833	
+#NAME?	Tracking Number : 102393399156				Pay Date:			44,591	
+#NAME?	Customer File Number : 132624428				ZACHRY T. 			WOOD	
++Total Revenue as Reported, Supplemental $257,637,000,000.00 75,325,000,000 65,118,000,000 61,880,000,000 55,314,000,000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000					5,323	BRADFORD DR			
++Total Operating Profit/Loss as Reported, Supplemental $78,714,000,000.00 21,885,000,000 21,031,000,000 19,361,000,000 16,437,000,000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000									
++Reported Effective Tax Rate $0.16 0.179 0.157 0.158 0.158 0.159 0.119 0.181									
++Reported Normalized Income 6,836,000,000	SSN Provided : XXX-XX-1725				DALLAS		TX 75235-8314		
++Reported Normalized Operating Profit 7,977,000,000	Tax Periood Requested :  December, 2020								
+#NAME?									
+#NAME?									
+#NAME?									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2									
++Basic EPS from Continuing Operations $113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2									
+#NAME?									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Diluted EPS from Continuing Operations $112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12									
+#NAME?									
++Basic Weighted Average Shares Outstanding $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Reported Normalized Diluted EPS 9.87									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Fiscal year end September 28th., 2022. | USD	""									
+70842745000	XXX-XX-1725	Earnings Statement		FICA - Social Security	0	8854			
+		Taxes / Deductions		Stub Number: 1		FICA - Medicare	0	00/01/1900	
+		0	Rate			Employer Taxes			
+		Net Pay				FUTA	0	0	
+		70842745000				SUTA	0	0	
+				This period	YTD	Taxes / Deductions	Current	YTD	
+			Pay Schedulec	70842745000	70842745000	Federal Withholding	0	0	
+			Annually	70842745000	70842745000	Federal Withholding	0	0	
+			Units	Q1	TTM	Taxes / Deductions	Current	YTD	
+			Q3	70842745000	70842745000	Federal Withholding	0	0	
+			Q4	70842745000	70842745000	Federal Withholding	0	0	
+			CHECK NO.			FICA - Social Security	0	8854	
+  		20210418			FICA - Medicare	0	0		
+Mountain View, C.A. 94043	-								
+Taxable Maritial Status: Single	-								
+#NAME?									
++TX: 28									
++Federal 941 Deposit Report									
+ADP									
++Report Range5/4/2022 - 6/4/2022 Local ID:		Date of this notice: 				44658			
++EIN: 63-3441725State ID: 633441725		Employer Identification Number: 88-1656496							
+Employee NAumboeurn:T3		Form: 	SS-4						
++Description 5/4/2022 - 6/4/2022									
++Payment Amount (Total) $9,246,754,678,763.00 Display All									
++1. Social Security (Employee + Employer) $26,661.80									
++2. Medicare (Employee + Employer) $861,193,422,444.20 Hourly									
++3. Federal Income Tax $8,385,561,229,657.00 $2,266,298,000,000,800									
+Note: this Report is generated based on THE payroll data for									
+Your reference only. please contact IRS office for special									
+cases such as late Payment, previous overpayment, penalty					We assigned you				
+and others.									
++Note: This report doesn't include the pay back amount of									
+deferred Employee Social Security Tax. Commission							Please		
+Employer Customized Report						6.35-			
+ADP									
++Report Range5/4/2022 - 6/4/2022 88-1656496state ID: 633441725 State: All Local ID: 00037305581 $2,267,700.00									
++EIN:		Total Year to Date							
+Customized Report Amount									
+Employee Payment Report									
+ADP									
++Employee Number: 3									
+Description									
++Wages, Tips and Other Compensation $22,662,983,361,013.70 Report Range: Tips									
++Taxable SS Wages $215,014.49									
+Zachry Wood									
+SSN: xxx-xx-1725									
+Payment Summary		Ledger balance			Date				Ledger balance
++Taxable Medicare Wages $22,662,983,361,013.70 Salary Vacation hourly OT									
++Advanced EIC Payment $0.00 $3,361,013.70									
++Federal Income Tax Withheld $8,385,561,229,657 Bonus $0.00 $0.00									
++Employee SS Tax Withheld $13,330.90 $0.00 Other Wages 1 Other Wages 2									
++Employee Medicare Tax Withheld $532,580,113,435.53 Total $0.00 $0.00									
++State Income Tax Withheld $0.00 $22,662,983,361,013.70									
+#NAME?									
++Customized Employer Tax Report $0.00 Deduction Summary									
+#NAME?									
+#NAME?									
++Employer Medicare Tax $13,330.90 $0.00									
++Federal Unemployment Tax $328,613,309,008.67 Tax Summary									
++State Unemployment Tax $441.70 Federal Tax Total Tax									
++Customized Deduction Report $840 $8,385,561,229,657@3,330.90 Local Tax									
++Health Insurance $0.00									
++401K $0.00 Advanced EIC Payment $8,918,141,356,423.43									
++$0.00 $0.00 Total									
++401K									
++$0.00 $0.00									
+#NAME?									
++$532,580,113,050)		6.35-			6.35-		1-800-829-4933		
++3/6/2022 at 6:37 PM									
++Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020									
++GOOGL_income�statement_Quarterly_As_Originally_Reported 24,934,000,000 25,539,000,000 37,497,000,000 31,211,000,000 30,818,000,000									
++24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000									
++Cash Flow from Operating Activities, Indirect 24,934,000,000 25,539,000,000 21,890,000,000 19,289,000,000 22,677,000,000									
++Net Cash Flow from Continuing Operating Activities, Indirect 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000		Service Charges and Fees			1	36			
++Cash Generated from Operating Activities 6,517,000,000 3,797,000,000 4,236,000,000 2,592,000,000 5,748,000,000									
++Income/Loss before Non-Cash Adjustment 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000									
++Total Adjustments for Non-Cash Items 3,439,000,000 3,304,000,000 2,945,000,000 2,753,000,000 3,725,000,000									
++Adjustment 3,215,000,000 3,085,000,000 2,730,000,000 2,525,000,000 3,539,000,000		2.21E+13							
++Depreciation and Amortization, Non-Cash Adjustment 224,000,000 219,000,000 215,000,000 228,000,000 186,000,000									
++Depreciation, Non-Cash Adjustment 3,954,000,000 3,874,000,000 3,803,000,000 3,745,000,000 3,223,000,000									
++Amortization, Non-Cash Adjustment 1,616,000,000 -1,287,000,000 379,000,000 1,100,000,000 1,670,000,000		number							
++Stock-Based Compensation, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000									
++Taxes, Non-Cash Adjustment -2,478,000,000 -2,158,000,000 -2,883,000,000 -4,751,000,000 -3,262,000,000									
++Investment Income/Loss, Non-Cash Adjustment -14,000,000 64,000,000 -8,000,000 -255,000,000 392,000,000		2.21E+13							
++Gain/Loss on Financial Instruments, Non-Cash Adjustment -2,225,000,000 2,806,000,000 -871,000,000 -1,233,000,000 1,702,000,000									
++Other Non-Cash Items -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000									
++Changes in Operating Capital -5,819,000,000 -2,409,000,000 -3,661,000,000 2,794,000,000 -5,445,000,000									
++Change in Trade and Other Receivables -399,000,000 -1,255,000,000 -199,000,000 7,000,000 -738,000,000									
++Change in Trade/Accounts Receivable 6,994,000,000 3,157,000,000 4,074,000,000 -4,956,000,000 6,938,000,000						Check			
++Change in Other Current Assets 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000									
++Change in Payables and Accrued Expenses 1,157,000,000 238,000,000 -130,000,000 -982,000,000 963,000,000									
++Change in Trade and Other Payables 5,837,000,000 2,919,000,000 4,204,000,000 -3,974,000,000 5,975,000,000									
++Change in Trade/Accounts Payable 368,000,000 272,000,000 -3,000,000 137,000,000 207,000,000									
++Change in Accrued Expenses -3,369,000,000 3,041,000,000 -1,082,000,000 785,000,000 740,000,000									
++Subtotal=$22934637118600									
+#NAME?									
+#NAME?									
++-11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000						Total B22934637118600			
++Change in Prepayments and Deposits -11,016,000,000 -10,050,000,000 -9,074,000,000 -5,383,000,000 -7,281,000,000									
+#NAME?									
++Cash Flow from Continuing Investing Activities -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000									
++-6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000									
++Purchase/Sale and Disposal of Property, Plant and Equipment,									
+#NAME?									
++Purchase of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000									
++Sale and Disposal of Property, Plant and Equipment -385,000,000 -259,000,000 -308,000,000 -1,666,000,000 -370,000,000									
++Purchase/Sale of Business, Net -4,348,000,000 -3,360,000,000 -3,293,000,000 2,195,000,000 -1,375,000,000									
++Purchase/Acquisition of Business -40,860,000,000 -35,153,000,000 -24,949,000,000 -37,072,000,000 -36,955,000,000									
+#NAME?									
++Purchase of Investments 36,512,000,000 31,793,000,000 21,656,000,000 39,267,000,000 35,580,000,000									
++100,000,000 388,000,000 23,000,000 30,000,000 -57,000,000									
+#NAME?									
++Other Investing Cash Flow -15,254,000,000									
++Purchase/Sale of Other Non-Current Assets, Net -16,511,000,000 -15,254,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000									
++Sales of Other Non-Current Assets -16,511,000,000 -12,610,000,000 -15,991,000,000 -13,606,000,000 -9,270,000,000									
++Cash Flow from Financing Activities -13,473,000,000 -12,610,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000									
++Cash Flow from Continuing Financing Activities 13,473,000,000 -12,796,000,000 -11,395,000,000 -7,904,000,000									
++Issuance of/Payments for Common Stock, Net -42,000,000									
++Payments for Common Stock 115,000,000 -42,000,000 -1,042,000,000 -37,000,000 -57,000,000									
++Proceeds from Issuance of Common Stock 115,000,000 6,350,000,000 -1,042,000,000 -37,000,000 -57,000,000									
++Issuance of/Repayments for Debt, Net 6,250,000,000 -6,392,000,000 6,699,000,000 900,000,000 0									
++Issuance of/Repayments for Long Term Debt, Net 6,365,000,000 -2,602,000,000 -7,741,000,000 -937,000,000 -57,000,000									
+#NAME?									
++Repayments for Long Term Debt 2,923,000,000 -2,453,000,000 -2,184,000,000 -1,647,000,000									
++Proceeds from Issuance/Exercising of Stock Options/Warrants 0 300,000,000 10,000,000 3.38E+11									
+#NAME?									
+#NAME?									
++Change in Cash 20,945,000,000 23,719,000,000 23,630,000,000 26,622,000,000 26,465,000,000									
++Effect of Exchange Rate Changes 25930000000) 235000000000) -3,175,000,000 300,000,000 6,126,000,000									
++Cash and Cash Equivalents, Beginning of Period PAGE=""$USD(181000000000)"".XLS BRIN=""$USD(146000000000)"".XLS 183,000,000 -143,000,000 210,000,000									
++Cash Flow Supplemental Section $23,719,000,000,000.00 $26,622,000,000,000.00 $26,465,000,000,000.00 $20,129,000,000,000.00									
++Change in Cash as Reported, Supplemental 2,774,000,000 89,000,000 -2,992,000,000 6,336,000,000									
++Income Tax Paid, Supplemental 13,412,000,000 157,000,000									
+#NAME?									
+#NAME?									
+#NAME?									
+#NAME?	-6819000000	-5496000000	-5942000000	-5479000000					
++Q4 2020 Q4 2019									
+#NAME?									
++Due: 04/18/2022	388000000	23000000	30000000	-57000000					
++Dec. 31, 2020 Dec. 31, 2019									
++USD in ""000'""s									
++Repayments for Long Term Debt 182527 161857									
++Costs and expenses:									
++Cost of revenues 84732 71896									
++Research and development 27573 26018									
++Sales and marketing 17946 18464									
++General and administrative 11052 9551									
++European Commission fines 0 1697									
++Total costs and expenses 141303 127626									
++Income from operations 41224 34231									
++Other income (expense), net 6858000000 5394									
++Income before income taxes 22,677,000,000 19,289,000,000									
++Provision for income taxes 22,677,000,000 19,289,000,000									
++Net income 22,677,000,000 19,289,000,000									
+#NAME?									
+#NAME?									
++and Class C capital stock (in dollars par share)									
+#NAME?									
++stock and Class C capital stock (in dollars par share)									
+#NAME?									
+#NAME?									
++and Class C capital stock (in dollars par share)									
+#NAME?									
++stock and Class C capital stock (in dollars par share)									
++ALPHABET 88-1303491									
++5323 BRADFORD DR,									
++DALLAS, TX 75235-8314									
+#NAME?									
+#NAME?									
++Employee Id: 9999999998 IRS No. 000000000000									
++INTERNAL REVENUE SERVICE, $20,210,418.00									
++PO BOX 1214, Rate Units Total YTD Taxes / Deductions Current YTD									
++CHARLOTTE, NC 28201-1214 - - $70,842,745,000.00 $70,842,745,000.00 Federal Withholding $0.00 $0.00									
++Earnings FICA - Social Security $0.00 $8,853.60									
++Commissions FICA - Medicare $0.00 $0.00									
+#NAME?									
++FUTA $0.00 $0.00									
++SUTA $0.00 $0.00									
++EIN: 61-1767ID91:900037305581 SSN: 633441725									
+#NAME?									
++$70,842,745,000.00 $70,842,745,000.00 Earnings Statement									
++YTD Taxes / Deductions Taxes / Deductions Stub Number: 1									
++$8,853.60 $0.00									
++YTD Net Pay Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 18-Apr-22									
++$70,842,736,146.40 $70,842,745,000.00 XXX-XX-1725 Annually									
+#NAME?									
+#NAME?									
++**$70,842,7383000.00**									
+#NAME?									
+#NAME?									
+#NAME?									
++INTERNAL REVENUE SERVICE,									
++PO BOX 1214,									
++CHARLOTTE, NC 28201-1214									
+#NAME?									
++15 $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000									
+#NAME?									
++Notice, see separate instructions. $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000									
++Cat. No. 11320B $76,033,000,000.00 20,642,000,000 18,936,000,000 18,525,000,000 17,930,000,000 15,227,000,000 11,247,000,000 6,959,000,000 6,836,000,000 10,671,000,000 7,068,000,000	Request Date : 07-29-2022				Period Beginning:			37,151	
++Form 1040 (2021) $76,033,000,000.00 20,642,000,000 18,936,000,000	Response Date : 07-29-2022				Period Ending:			44,833	
+#NAME?	Tracking Number : 102393399156				Pay Date:			44,591	
+#NAME?	Customer File Number : 132624428				ZACHRY T. 			WOOD	
++Total Revenue as Reported, Supplemental $257,637,000,000.00 75,325,000,000 65,118,000,000 61,880,000,000 55,314,000,000 56,898,000,000 46,173,000,000 38,297,000,000 41,159,000,000 46,075,000,000 40,499,000,000					5,323	BRADFORD DR			
++Total Operating Profit/Loss as Reported, Supplemental $78,714,000,000.00 21,885,000,000 21,031,000,000 19,361,000,000 16,437,000,000 15,651,000,000 11,213,000,000 6,383,000,000 7,977,000,000 9,266,000,000 9,177,000,000									
++Reported Effective Tax Rate $0.16 0.179 0.157 0.158 0.158 0.159 0.119 0.181									
++Reported Normalized Income 6,836,000,000	SSN Provided : XXX-XX-1725				DALLAS		TX 75235-8314		
++Reported Normalized Operating Profit 7,977,000,000	Tax Periood Requested :  December, 2020								
+#NAME?									
+#NAME?									
+#NAME?									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2									
++Basic EPS from Continuing Operations $113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2									
+#NAME?									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Diluted EPS from Continuing Operations $112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12									
+#NAME?									
++Basic Weighted Average Shares Outstanding $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Reported Normalized Diluted EPS 9.87									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Fiscal year end September 28th., 2022. | USD									
++Diluted Weighted Average Shares Outstanding $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Reported Normalized Diluted EPS 9.87									
++Basic EPS $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 10.2 1									
++Diluted EPS $112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35 10.12									
++Basic WASO $667,650,000.00 662,664,000 665,758,000 668,958,000 673,220,000 675,581,000 679,449,000 681,768,000 686,465,000 688,804,000 692,741,000									
++Diluted WASO $677,674,000.00 672,493,000 676,519,000 679,612,000 682,071,000 682,969,000 685,851,000 687,024,000 692,267,000 695,193,000 698,199,000									
++Fiscal year end September 28th., 2022. | USD			
+
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+ 97  
+CONTRIBUTING.md
+@@ -1,97 +0,0 @@
+# Welcome to GitHub docs contributing guide <!-- omit in toc -->
+
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en) :sparkles:. 
+
+Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+
+In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
+
+Use the table of contents icon <img src="./assets/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
+
+## New contributor guide
+
+To get an overview of the project, read the [README](README.md). Here are some resources to help you get started with open source contributions:
+
+- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
+- [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+- [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+- [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
+
+
+## Getting started
+
+To navigate our codebase with confidence, see [the introduction to working in the docs repository](/contributing/working-in-docs-repository.md) :confetti_ball:. For more information on how we write our markdown files, see [the GitHub Markdown reference](contributing/content-markup-reference.md).
+
+Check to see what [types of contributions](/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:.
+
+### Issues
+
+#### Create a new issue
+
+If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/github/docs/issues/new/choose). 
+
+#### Solve an issue
+
+Scan through our [existing issues](https://github.com/github/docs/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See [Labels](/contributing/how-to-use-labels.md) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
+
+### Make Changes
+
+#### Make changes in the UI
+
+Click **Make a contribution** at the bottom of any docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the `.md` file where you can make your changes and [create a pull request](#pull-request) for a review. 
+
+ <img src="./assets/images/contribution_cta.png" width="300" height="150" /> 
+
+#### Make changes in a codespace
+
+For more information about using a codespace for working on GitHub documentation, see "[Working in a codespace](https://github.com/github/docs/blob/main/contributing/codespace.md)."
+
+#### Make changes locally
+
+1. [Install Git LFS](https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage).
+
+2. Fork the repository.
+- Using GitHub Desktop:
+  - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) will guide you through setting up Desktop.
+  - Once Desktop is set up, you can use it to [fork the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
+
+- Using the command line:
+  - [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) so that you can make your changes without affecting the original project until you're ready to merge them.
+
+3. Install or update to **Node.js v16**. For more information, see [the development guide](contributing/development.md).
+
+4. Create a working branch and start with your changes!
+
+### Commit your update
+
+Commit the changes once you are happy with them. Don't forget to [self-review](/contributing/self-review.md) to speed up the review process:zap:.
+
+### Pull Request
+
+When you're finished with the changes, create a pull request, also known as a PR.
+- Fill the "Ready for review" template so that we can review your PR. This template helps reviewers understand your changes as well as the purpose of your pull request. 
+- Don't forget to [link PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) if you are solving one.
+- Enable the checkbox to [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) so the branch can be updated for a merge.
+Once you submit your PR, a Docs team member will review your proposal. We may ask questions or request additional information.
+- We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) or pull request comments. You can apply suggested changes directly through the UI. You can make any other changes in your fork, then commit them to your branch.
+- As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
+- If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
+
+### Your PR is merged!
+
+Congratulations :tada::tada: The GitHub team thanks you :sparkles:. 
+
+Once your PR is merged, your contributions will be publicly visible on the [GitHub docs](https://docs.github.com/en). 
+
+Now that you are part of the GitHub docs community, see how else you can [contribute to the docs](/contributing/types-of-contributions.md).
+
+## Windows
+
+This site can be developed on Windows, however a few potential gotchas need to be kept in mind:
+
+1. Regular Expressions: Windows uses `\r\n` for line endings, while Unix-based systems use `\n`. Therefore, when working on Regular Expressions, use `\r?\n` instead of `\n` in order to support both environments. The Node.js [`os.EOL`](https://nodejs.org/api/os.html#os_os_eol) property can be used to get an OS-specific end-of-line marker.
+2. Paths: Windows systems use `\` for the path separator, which would be returned by `path.join` and others. You could use `path.posix`, `path.posix.join` etc and the [slash](https://ghub.io/slash) module, if you need forward slashes - like for constructing URLs - or ensure your code works with either.
+3. Bash: Not every Windows developer has a terminal that fully supports Bash, so it's generally preferred to write [scripts](/script) in JavaScript instead of Bash.
+4. Filename too long error: There is a 260 character limit for a filename when Git is compiled with `msys`. While the suggestions below are not guaranteed to work and could cause other issues, a few workarounds include:
+    - Update Git configuration: `git config --system core.longpaths true`
+    - Consider using a different Git client on Windows
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+- [22/8] Have you followed the [contributing guidelines](https://github.com/github/opensource.guide/blob/HEAD/CONTRIBUTING.md)?
+- [22/8] Have you explained what your changes do, and why they add value to the Guides?
 
 **Please note: we will close your PR without comment if you do not check the boxes above and provide ALL requested information.**
 
