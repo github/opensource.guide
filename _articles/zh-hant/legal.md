@@ -143,7 +143,7 @@ redirect_from: /zh-tw/legal/
 </aside>
 
 * **發佈什麼：**[（幾乎） 所有？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)如果你們的法律團隊瞭解並投資於你們公司的開源策略，他們將是你們最好的幫助，而不是阻礙你們的努力。
-* **合規性：**即使你們公司沒有發佈任何開源專案，他們也會使用別人的開源軟件。[意識和過程](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻煩，產品延遲發佈和訴訟。
+* **合規性：**即使你們公司沒有發佈任何開源專案，他們也會使用別人的開源軟件。[意識和過程](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻煩，產品延遲發佈和訴訟。
 
 <aside markdown="1" class="pquote">
   組織必須具有適合["允許"和"copyleft"]類別的許可協議和合規性策略。首先，記錄適用於你們所使用的開源軟件的許可條款（包括子組件和依賴項）。

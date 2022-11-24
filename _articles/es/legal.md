@@ -28,7 +28,7 @@ Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que 
 
 ## ¿Son p&uacute;blicos los proyectos de c&oacute;digo abierto de GitHub?
 
-Cuando t&uacute; [creas un nuevo proyecto](https://help.GitHub.com/articles/creating-a-new-repository/) en GitHub, tienes la opci&oacute;n de hacerlo **privado** o **p&uacute;blico**.
+Cuando t&uacute; [creas un nuevo proyecto](https://help.github.com/articles/creating-a-new-repository/) en GitHub, tienes la opci&oacute;n de hacerlo **privado** o **p&uacute;blico**.
 
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Tienes suerte, porque hoy, las licencias de c&oacute;digo abierto est&aacute;n e
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), y [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) son las licencias de c&oacute;digo abierto m&aacute;s populares, pero tambi&eacute;n tienes otras opciones para elegir. Puedes encontrar un texto completo sobre estas licencias, e instrucciones de uso de las mismas en [choosealicense.com](https://choosealicense.com/).
 
-Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una licencia](https://help.GitHub.com/articles/open-source-licensing/).
+Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una licencia](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -151,7 +151,7 @@ A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a
 
 * **Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s capaces de ayudar en lugar de dificultar tus esfuerzos.
 
-* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
+* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
 
 <aside markdown="1" class="pquote">
   Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias.

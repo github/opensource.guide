@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Set up Git repository
-      uses: actions/checkout@v2.4.0
+      uses: actions/checkout@v3
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
@@ -16,7 +16,7 @@ jobs:
         bundler-cache: true
 
     - name: Set up Node
-      uses: actions/setup-node@v2.5.1
+      uses: actions/setup-node@v3
 
     - name: Bootstrap
       run: script/bootstrap

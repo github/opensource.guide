@@ -1,0 +1,31 @@
+el:
+  locale_name: Ελληνικά
+  nav:
+    about: Σχετικά με
+    contribute: Συνεισφορά
+  index:
+    lead: Το λογισμικό ανοιχτού κώδικα υλοποιείται από ανθρώπους σαν εσάς. Μάθετε πώς να ξεκινήσετε και να αναπτύξετε το δικό σας πρότζεκτ.
+    opensourcefriday: Είναι Παρασκευή! Επενδύστε μερικές ώρες συνεισφέροντας στο λογισμικό που χρησιμοποιείτε και αγαπάτε
+  article:
+    table_of_contents: Πίνακας Περιεχομένων
+    back_to_all_guides: Επιστροφή σε όλους τους οδηγούς
+    related_guides: Σχετικοί Οδηγοί
+  footer:
+    contribute:
+      heading: Συνεισφορά
+      description: Θέλετε να κάνετε μια πρόταση; Αυτό το περιεχόμενο είναι ανοιχτού κώδικα. Βοηθήστε μας να το βελτιώσουμε.
+      button: Συνεισφορά
+    subscribe:
+      heading: Μείνετε σε επαφή
+      description: Ενημερωθείτε πρώτοι για τις πιο πρόσφατες συμβουλές ανοιχτού κώδικα του GitHub.
+      label: Ηλεκτρονική διεύθυνση
+      button: Εγγραφή
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] με [love] από το [github] και [friends]"
+      # Label for code octicon
+      code_label: κώδικας
+      # Label for love octicon
+      love_label: αγάπη
+      # Label for the contributors link
+      friends_label: φίλους

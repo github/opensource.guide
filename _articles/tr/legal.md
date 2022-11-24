@@ -145,7 +145,7 @@ Daha uzun vadede hukuk ekibiniz, şirketin açık kaynaklara katılımından dah
 </aside>
 
 * **Neyi yayınlama:** [(Neredeyse) her şey?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Eğer yasal ekibiniz şirketinizin açık kaynaklı stratejisini anlıyor ve yatırım yapıyorsa, çabalarınızı engellemekten ziyade en iyi şekilde yardım edebileceklerdir.
-* **Uyumluluk:** Şirketiniz herhangi bir açık kaynaklı proje yayınlamamış olsa bile, başkalarının açık kaynaklı yazılımını kullanır. [Farkındalık ve süreç](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) baş ağrısını, ürün gecikmelerini ve davaları önleyebilir.
+* **Uyumluluk:** Şirketiniz herhangi bir açık kaynaklı proje yayınlamamış olsa bile, başkalarının açık kaynaklı yazılımını kullanır. [Farkındalık ve süreç](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) baş ağrısını, ürün gecikmelerini ve davaları önleyebilir.
 
 <aside markdown="1" class="pquote">
   Kuruluşların hem \["izin verilen" hem de "copyleft"\] kategorilerine uyan bir lisans ve uyum stratejisi olmalıdır. Bu, alt bileşenler ve bağımlılıklar dahil, kullanmakta olduğunuz açık kaynaklı yazılım için geçerli olan lisans terimlerinin kaydını tutmakla başlar.

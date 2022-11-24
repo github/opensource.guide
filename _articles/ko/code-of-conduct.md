@@ -10,7 +10,7 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## 행동강령이 왜 필요할까요?
 
 행동강령은 프로젝트 참가자의 행동에 대한 기대치를 설정하는 문서입니다. 행동강령을 채택하고, 시행하면 커뮤니티에 긍정적인 사회적 분위기를 조성하는데 도움이 될 수 있습니다.
 
@@ -18,7 +18,7 @@ related:
 
 행동강령은 건강하고, 건설적인 커뮤니티 행동을 촉진할 수 있도록 해줍니다. 능동적으로 행동하면 자신이나 다른 사람들이 프로젝트에 피로를 느끼게 될 가능성을 낮추고, 누군가가 동의하지 않을 때 조치를 취할 수 있도록 도와줍니다.
 
-## Establishing a code of conduct
+## 행동강령 수립하기
 
 가능한 빨리 행동강령을 수립하십시오: 이상적으로, 처음 프로젝트를 만들 때입니다.
 
@@ -35,7 +35,7 @@ related:
 
 프로젝트의 최상단 디렉토리에 CODE_OF_CONDUCT 파일을 놓고 CONTRIBUTING 또는 README 파일에서 링크하여 커뮤니티에 표시되게 하십시오.
 
-## Deciding how you'll enforce your code of conduct
+## 행동강령을 어떻게 시행할 것인지 결정하기
 
 <aside markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
@@ -60,7 +60,7 @@ related:
 
 영감을 얻으려면, Django의 [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/)를 확인해봅시다(프로젝트의 크기에 따라 이 포괄적인 것을 필요로 하지 않을 수도 있습니다).
 
-## Enforcing your code of conduct
+## 행동강령을 시행하기
 
 때로는, 최선의 노력에도 불구하고, 누군가 이 코드를 위반하는 행동을 취할 때가 있습니다. 부정적인 행동이나 유해한 행동을 해결할 수 있는 몇 가지 방법이 있습니다.
 
@@ -99,7 +99,7 @@ related:
 
 금지 회원은 영구적이고 회피 할 수 없는 관점의 차이를 나타나기 때문에 가볍게 생각해서는 안됩니다. 해결 방법에 도달할 수 없다는 것이 명백 할 때만 이러한 조치를 취해야합니다.
 
-## Your responsibilities as a maintainer
+## 메인테이너로서의 책임
 
 행동강령은 임의적으로 집행되는 법이 아닙니다. 귀하는 행동강령의 집행자이며 행동강령이 정하는 규칙을 준수하는 것은 귀하의 책임입니다.
 
@@ -109,6 +109,6 @@ _기술적인_ 행동강령을 위반하지 않는 행동 보고서는 여전히
 
 결국, 메인테이너로서, 당신은 수용 가능한 행동에 대한 기준을 설정하고 시행합니다. 프로젝트의 커뮤니티 가치를 형성 할 수 있는 능력이 있으며, 참여자는 이러한 가치를 공정하고 균등하게 적용할 것을 기대합니다.
 
-## Encourage the behavior you want to see in the world 🌎
+## 당신이 이 세상에서 보고 싶은 행동을 장려하기 🌎
 
 프로젝트가 적대적이거나 환영받지 못하는 것처럼 보일 때, 다른 사람이 행동을 용인하는 사람이 한 명이라도 더 많은 기여자를 잃을 위험이 있으며, 그 중 일부는 절대 만나지 못할 수도 있습니다. 행동강령을 채택하거나 시행하는 것이 항상 쉬운 것은 아니지만, 친숙한 환경 조성은 커뮤니티 성장을 도울 것입니다.
