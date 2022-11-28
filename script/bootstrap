@@ -4,7 +4,7 @@ set -e
 
 cd "$(dirname "$0")/.."
 
-if [[ -z "${SKIP_BUNDLE}" ]]; then
+if [[ -z "${SKIP_BUNDLER}" ]]; then
   echo "==> Installing gem dependencies…"
   bundle check --path vendor/gems &>/dev/null || {
     time bundle install --binstubs bin --path vendor/gems
