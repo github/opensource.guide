@@ -20,8 +20,6 @@ jobs:
 
     - name: Bootstrap
       run: script/bootstrap
-      env:
-        SKIP_BUNDLER: true
 
     - name: Tests
       run: script/test
