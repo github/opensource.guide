@@ -10,6 +10,8 @@ url_ignores = [
   "https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/",
   %r{^https?://twitter\.com/},
   %r{^https?://(www\.)?kickstarter\.com/},
+  %r{^https://guides\.github\.com/},
+  %r{^https://help\.github\.com/},
 ]
 
 HTMLProofer::Runner.new(

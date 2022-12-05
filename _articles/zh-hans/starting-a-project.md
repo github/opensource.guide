@@ -361,4 +361,4 @@ redirect_from: /zh-cn/starting-a-project/
 
 ## 你做到了!
 
-恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，你正在为自己或者他人创造学习和成长的机会。
+恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit，comment和pull request，你正在为自己或者他人创造学习和成长的机会。
