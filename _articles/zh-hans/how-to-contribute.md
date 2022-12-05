@@ -187,7 +187,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 * **问题追踪:** 这里是人们讨论项目相关问题的地方。
 * **Pull requests:** 审核代码、以及相关的问题讨论。
-* **论坛或邮件列表:** 一些项目会使用会话式的主题（例如 _"How do I..."_ 或 _"What do you think about..."_ 来替代 Bug 报告或特性请求）。然而有一些项目关于讨论全部实用问题追踪。
+* **论坛或邮件列表:** 一些项目会使用会话式的主题（例如 _"How do I..."_ 或 _"What do you think about..."_ 来替代 Bug 报告或特性请求）。然而有一些项目关于讨论全部使用问题追踪。
 * **即时在线聊天:** 有一些项目会使用聊天频道（诸如 Slack 或 IRC），从而能够随意的谈话、协作和快速交流。
 
 ## 找一个项目开始贡献
@@ -380,7 +380,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 ### 有效沟通
 
-无论你处于什么样的目的：仅仅是一次性的贡献，亦或是永久性的加入社区，都得和他人进行沟通和交往，这是你要在开源圈发展必须修炼的技能。
+无论你出于什么样的目的：仅仅是一次性的贡献，亦或是永久性的加入社区，都得和他人进行沟通和交往，这是你要在开源圈发展必须修炼的技能。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">

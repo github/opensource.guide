@@ -145,7 +145,7 @@ A longo prazo, sua equipe jurídica pode fazer mais para ajudar a empresa a obte
 </aside>
 
 * **O que liberar:** [(Quase) tudo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Se a sua equipe jurídica entender e investir na estratégia open source da sua empresa, ela será mais capaz de ajudar do que atrapalhar seus esforços.
-* **Conformidade:** Mesmo que sua empresa não libere nenhum projeto open source, ela usa o software open source dos outros. [Conscientização e processo](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) pode evitar dores de cabeça, atrasos de produtos e ações judiciais.
+* **Conformidade:** Mesmo que sua empresa não libere nenhum projeto open source, ela usa o software open source dos outros. [Conscientização e processo](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) pode evitar dores de cabeça, atrasos de produtos e ações judiciais.
 
 <aside markdown="1" class="pquote">
   Organizações devem ter uma estratégia de licença e conformidade funcionando que encaixe ambas as categorias \["permissive" e "copyleft"\]. Isso começa com a manutenção de um registro dos termos de licença que se aplicam ao software open source que você está utilizando — incluindo subcomponentes e dependências.

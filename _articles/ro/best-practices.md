@@ -137,7 +137,7 @@ Nu ar trebui să ai nevoie de mai mult de 1-2 enunțuri pentru a răspunde. De e
 Dacă gândul de a spune „nu” te îngrozește, nu ești singur. După cum @jessfraz [a spus](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > Am discutat cu întreținători din câteva proiecte diferite cu sursă deschisă, Mesos, Kubernetes, Chromium, și ei toți cad de acord că una dintre cele mai grele părți de a fi un întreținător este să spui „Nu” la patch-uri pe care nu le vrei.
-> 
+>
 > I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
 
 Nu te simți vinovat în legătură cu a nu vrea să accepți contribuția cuiva. Prima regulă a open source, [după](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"Nu este temporar, da este pentru totdeauna.”_ În timp ce a empatiza cu entuziasmul altei persoane este un lucru bun, a respinge o contribuție nu este același lucru cu a respinge persoana din spatele ei.
@@ -214,7 +214,7 @@ Dacă alți oameni sunt entuziaști în legătură cu direcția lui, dă-le perm
 @progrium [a găsit că](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentarea viziunii pentru proiectul său, [Dokku](https://github.com/dokku/dokku), a ajutat aceste scopuri să trăiască mai departe chiar și după ce el a ieșit din proiect:
 
 > Am scris o pagină de wiki descriind ce îmi doream și de ce îmi doream acele lucruri. Din anumite motive a venit ca o surpriză că întreținătorii au început să miște proiectul în acea direcție! S-a întâmplat exact cum aș fi făcut-o eu? Nu întotdeauna. Dar totuși a adus proiectul mai aproape de ceea ce scrisesem.
-> 
+>
 > I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
 
 ### Lasă-i pe ceilalți să construiască soluțiile de care au nevoie
@@ -241,7 +241,7 @@ Copierea proiectului nu trebuie să fie un lucru rău. Fiind capabil să copiezi
 Același lucru se aplică unui utilizator care chiar dorește o soluție pentru care pur și simplu nu ai lățimea de bandă să o construiești. A oferi API-uri și cârlige de personalizare poate să-i ajute pe alții să-și satisfacă nevoile lor, fără să trebuiască să modifice sursa direct. @orta [a găsit că](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) încurajarea plugin-urilor pentru CocoaPods a dus la „unele dintre cele mai interesante idei":
 
 > Este aproape inevitabil ca odată ce un proiect devine mare, întreținătorii să trebuiască să devină tot mai conservatori în legătură cu felul în care ei introduc cod nou. Devii bun la a spune „nu”, dar o mulțime de oameni au nevoi legitime. Astfel, în schimb sfârșești prin a-ți transforma unealta într-o platformă.
-> 
+>
 > It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
 
 ## Cheamă roboții
@@ -316,7 +316,7 @@ Exact la fel ca oricare alt fel de muncă, luarea de pauze dese te va păstra re
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

@@ -45,7 +45,7 @@ Em comparação, um processo de código fechado seria ir a um restaurante e pedi
 
 * **Adoção e remixing:** Projetos open source podem ser utilizados por qualquer um para praticamente qualquer propósito. As pessoas podem até mesmo utilizá-lo para construir outras coisas. [WordPress](https://github.com/WordPress), por exemplo, começou como um fork de um projeto chamado [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparência:** Qualquer um pode inspecionar um projeto open source por erros ou inconsistências. A transparência importa a gorvernos como a [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou os [Estados Unidos](https://sourcecode.cio.gov/), industrias regulamentadas como bancos ou industrias de saúde, e softwares de segurança como [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparência:** Qualquer um pode inspecionar um projeto open source por erros ou inconsistências. A transparência importa a governos como a [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou os [Estados Unidos](https://sourcecode.cio.gov/), indústrias regulamentadas como bancos ou indústrias de saúde, e softwares de segurança como [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source não é só sobre software. Você pode tornar qualquer coisa open source, de conjuntos de dados a livros. Dê uma olhada no [GitHub Explore](https://github.com/explore) por ideias do que você pode tornar open source.
 
@@ -69,9 +69,9 @@ Se você ainda não está convencido, reserve um momento para pensar sobre quais
 
 ### Definindo os seus objetivos
 
-Os objetivos podem te ajudar a descrobrir no que trabalhar, para o que dizer não, e onde você precisa da ajuda de outros. Comece perguntando a si mesmo, _por que estou tornando esse projeto open source?_
+Os objetivos podem te ajudar a descobrir no que trabalhar, para o que dizer não, e onde você precisa da ajuda de outros. Comece perguntando a si mesmo, _por que estou tornando esse projeto open source?_
 
-Não há uma resposta definitiva para essa questão. Você pode ter múltiplos objetivos para um dado projeto, ou direfentes projetos com diferentes objetivos.
+Não há uma resposta definitiva para essa questão. Você pode ter múltiplos objetivos para um dado projeto, ou diferentes projetos com diferentes objetivos.
 
 Se seu único objetivo é mostrar seu trabalho, você pode não querer contribuições e até mesmo deixar isso claro em seu README. Por outro lado, se você procura contribuidores, você investirá um certo tempo em produzir uma documentação clara e fazer com que os novatos se sintam bem vindos.
 

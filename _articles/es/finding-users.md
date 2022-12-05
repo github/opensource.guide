@@ -1,7 +1,7 @@
 ---
 lang: es
 title: Encontrando Usuarios Para Tu Proyecto
-description: Ayuda a tu proyecto de c&oacute;digo abierto a crecer poni&oacute;ndolo en manos de usuarios satisfechos.
+description: Ayuda a tu proyecto de c&oacute;digo abierto a crecer poni&eacute;ndolo en manos de usuarios satisfechos.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
