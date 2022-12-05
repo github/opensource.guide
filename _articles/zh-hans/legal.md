@@ -13,7 +13,7 @@ redirect_from: /zh-cn/legal/
 
 ## 理解开源的法律含义
 
-向世界分享你们具有创造性的工作，是一个多么令人激动和有价值的经历。这也意味着你们必须担心一堆你们不清楚的法律问题。幸运的是，你们不必从头开始。我们已经涵盖了你们的法律需求。（在你们行动前，请确定阅读了我们的[免责声明](/notices/)。）
+向世界分享你们具有创造性的工作，是一个多么令人激动和有价值的经历。然而这也意味着你们必须担心一堆你们不清楚的法律问题。幸运的是，你们不必从头开始。我们已经涵盖了你们的法律需求。（在你们行动前，请确定阅读了我们的[免责声明](/notices/)。）
 
 ## 为什么人们这么关心开源的法律方面问题？
 
@@ -144,7 +144,7 @@ redirect_from: /zh-cn/legal/
 </aside>
 
 * **发布什么：**[（几乎） 所有？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)如果你们的法律团队了解并投资于你们公司的开源策略，他们将是你们最好的帮助，而不是阻碍你们的努力。
-* **合规性：**即使你们公司没有发布任何开源项目，他们也会使用别人的开源软件。[意识和过程](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻烦，产品延迟发布和诉讼。
+* **合规性：**即使你们公司没有发布任何开源项目，他们也会使用别人的开源软件。[意识和过程](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻烦，产品延迟发布和诉讼。
 
 <aside markdown="1" class="pquote">
   组织必须具有适合["允许"和"copyleft"]类别的许可协议和合规性策略。首先，记录适用于你们所使用的开源软件的许可条款（包括子组件和依赖项）。

@@ -47,7 +47,7 @@ Si tu proyecto est&aacute; hosteado en GitHub, [puedes ver](https://help.github.
 
 * **Contenido popular:** Te informa sobre las partes del proyecto que la gente m&aacute;s visita.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) puede brindarte una l&iacute;nea base para medir popularidad. No necesariamente tiene que ver con uso o cantidad de decargas, si no m&aacute;s bien según la cantidad de notoriedad de tu proyecto.
+[GitHub stars](https://help.github.com/articles/about-stars/) puede brindarte una l&iacute;nea base para medir popularidad. No necesariamente tiene que ver con uso o cantidad de descargas, si no m&aacute;s bien según la cantidad de notoriedad de tu proyecto.
 
 Quiz&aacute;s tambi&eacute;n quieras [rastrear la forma que te descubren desde lugares espec&iacute;ficos](https://opensource.com/business/16/6/pirate-metrics): por ejemplo, Google PageRank, tr&aacute;fico que hace referencia a tu p&aacute;gina web del proyecto, o referencias desde otros proyectos.
 
