@@ -222,7 +222,7 @@ U kunt een README lezen en een incorrecte link of typefout vinden. Of je bent ee
 
 > [28% van de losse bijdragen](https://www.igor.pro.br/publica/papers/saner2016.pdf) aan open source zijn documentatie, zoals een typefout, herformattering of het schrijven van een vertaling.
 
-Als u op zoek bent naar bestaande problemen die u kunt oplossen, heeft elk open source-project een '/ contribute'-pagina die beginnersvriendelijke problemen belicht waarmee u kunt beginnen. Navigeer naar de hoofdpagina van de repository op GitHub en voeg '/ contribute' toe aan het einde van de URL (bijvoorbeeld [`https://github.com/facebook/react/contribute`](https://github.com/facebook/contribute/contribute)).
+Als u op zoek bent naar bestaande problemen die u kunt oplossen, heeft elk open source-project een '/ contribute'-pagina die beginnersvriendelijke problemen belicht waarmee u kunt beginnen. Navigeer naar de hoofdpagina van de repository op GitHub en voeg '/ contribute' toe aan het einde van de URL (bijvoorbeeld [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
 U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekken van en bijdragen aan nieuwe projecten:
 
