@@ -116,7 +116,6 @@ Mencari tajaan berfungsi dengan baik jika anda sudah mempunyai khalayak atau rep
 Beberapa contoh projek yang ditaja termasuk:
 
 * **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** organisasi bukan untung yang membayar untuk bekerja [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan projek infrastruktur Ruby yang lain
 
 ### Buat aliran pendapatan

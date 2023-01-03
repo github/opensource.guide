@@ -115,7 +115,6 @@ related:
 Вот несколько примеров спонсируемых проектов:
 
 * **[webpack](https://github.com/webpack)** привлекает деньги от компаний и частных лиц [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** [спонсируется через Patreon](https://github.com/open-source/stories/yyx990803)
 * **[вместе с Ruby](https://rubytogether.org/),** - некоммерческая организация, которая платит за работу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), и над другими проектами инфраструктуры Ruby
 
 ### Создайте поток доходов

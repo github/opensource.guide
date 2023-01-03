@@ -107,7 +107,6 @@ redirect_from: /zh-cn/getting-paid/
 一些获得组织资助的项目案例：
 
 * **[webpack](https://github.com/webpack),**  [通过 OpenCollective](https://opencollective.com/webpack) 从公司和个人来筹集资金
-* **[Vue](https://github.com/vuejs/vue),** 由 @yyx990803 创建，[通过 Patreon](https://github.com/open-source/stories/yyx990803) 获得资助
 * **[Ruby Together](https://rubytogether.org/),** 由 @indirect 创建的非盈利组织 ，为诸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基础设施项目提供资金支持
 
 尽管开源日渐的流行，但是为项目寻找资金仍处于试验阶段。目前所收集到的包括：

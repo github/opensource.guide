@@ -110,7 +110,6 @@ Seiring dengan popularitas open source, menemukan pendanaan untuk proyek masih b
 Mencari sponsor bisa dilakukan jika Anda memiliki pengguna atau reputasi yang kuat, atau proyek Anda sangat populer. Beberapa proyek yang disponsori meliputi:
 
 * **[webpack](https://github.com/webpack)** mendapatkan pendanaan dari perusahaan dan perseorangan [melalui OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** [didanai melalui Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** organisasi nirlaba yang membayar untuk bekerja pada [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan proyek infrastruktur Ruby lainnya.
 
 ### Menciptakan pendapatan

@@ -116,7 +116,6 @@ Encontrar patrocínio funciona bem se você já tem uma forte audiência ou repu
 Alguns exemplos de patrocínio incluem:
 
 * O **[webpack](https://github.com/webpack)** arrecada dinheiro de empresas e indivíduos [através do OpenCollective](https://opencollective.com/webpack)
-* O **[Vue](https://github.com/vuejs/vue)** é [financiado através do Patreon](https://github.com/open-source/stories/yyx990803)
 * A **[Ruby Together](https://rubytogether.org/),** é uma organização sem fins lucrativos que paga pelo trabalho no [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), e outros projetos de infraestrutura do Ruby.
 
 ### Crie um fluxo de receita

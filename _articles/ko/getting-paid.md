@@ -111,7 +111,6 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 스폰서 프로젝트의 몇 가지 예는 다음과 같습니다.
 
 * **[webpack](https://github.com/webpack)** 는 [OpenCollective를 통해](https://opencollective.com/webpack) 회사와 개인에게 돈을 모읍니다
-* **[Vue](https://github.com/vuejs/vue)** 는 [Patreon를 통해 펀드됩니다](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/)는,** [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) 및 기타 Ruby 인프라 프로젝트에 대한 비용을 지불하는 비영리 단체입니다.
 
 ### 수입원 만들기

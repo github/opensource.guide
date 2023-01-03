@@ -111,7 +111,6 @@ Trouver des commandites fonctionne bien si vous avez déjà un public ou une ré
 Quelques exemples de projets sponsorisés incluent:
 
 * **[webpack](https://github.com/webpack)** collecte des fonds auprès des entreprises et des particuliers [via OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** est [financé par Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** une organisation à but non lucratif qui paie pour travailler sur [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), et d'autres projets d'infrastructure Ruby
 
 ### Créer un flux de revenus

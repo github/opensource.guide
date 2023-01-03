@@ -111,7 +111,6 @@ related:
 நிதியளிக்கும் திட்டங்களின் சில உதாரணங்கள் பின்வருமாறு:
 
 * **[வெப்பேக்](https://github.com/webpack)** நிறுவனங்கள் மற்றும் தனிநபர்களிடமிருந்து [OpenCollective மூலம்](https://opencollective.com/webpack) நிதி திரட்டுகிறது
-* **[Vue](https://github.com/vuejs/vue)**  [பேட்ரன் மூலம் நிதியளிக்கப்பட்டது](https://github.com/open-source/stories/yyx990803)
 * **[ரூபி டுகேதர்](https://rubytogether.org/),**  [பண்ட்லர்](https://github.com/bundler/bundler), [ரூபிஜெம்ஸ்](https://github.com/rubygems/rubygems), மற்றும் பிற ரூபி உள்கட்டமைப்பு திட்டங்களுக்கு பணிக்கு பணம் செலுத்துகின்ற ஒரு இலாப நோக்கமற்ற அமைப்பு
 
 ### வருவாய் நீரோடை உருவாக்கவும்

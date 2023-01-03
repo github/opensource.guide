@@ -153,7 +153,6 @@ Găsirea sponsorizărilor funcționează bine dacă ai deja un public puternic s
 Câteva exemple de proiecte sponsorizate includ:
 
 * **[webpack](https://github.com/webpack)** strânge bani de la companii și indivizi [prin OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** este [finanțat prin Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** o organizație nonprofit care plătește pentru munca pe [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), și alte proiecte de infrastructură Ruby
 
 ### Creează un flux de venit
