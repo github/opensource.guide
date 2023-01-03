@@ -82,18 +82,6 @@ Heutzutage werden viele Leute für Open-Source in Teil- oder Vollzeit bezahlt. D
 
 Es ist einfacher, sich für Open-Source-Arbeiten zu entscheiden, wenn Ihr Arbeitgeber das Projekt tatsächlich nutzt. Wenn nicht, werden Sie kreativ: Vielleicht nutzt Ihr Arbeitgeber nicht das Projekt, aber Python, und die Pflege eines beliebten Python-Projekts hilft dabei, neue Python-Entwickler\*innen anzuziehen. Vielleicht sieht Ihr Arbeitgeber dadurch generell entwicklerfreundlicher aus.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-
-  Wie viele Andere auch, kämpfte ich mit der Last, ein Open-Source-Projekt aufrechtzuerhalten. Als ich mit Open Source anfing, blieb ich lange auf Arbeit, um daran zu arbeiten, oder fing nach dem Feierabend direkt wieder an. (...) Mit meinem Chef besprach ich diese mir im Weg stehenden Probleme, aber weil wir Babel selbst nutzten, entwickelten wir Ideen, um die Open-Source-Aufgaben zu integrieren.
-
-  _Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel._
-
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Wenn Sie kein existierendes Open-Source-Projekt haben, an dem Sie gerne arbeiten würden, sondern lieber Ihre aktuellen Arbeitsergebnisse quell-offen hätten, sollten Sie Ihren Arbeitgeber bitten, einen Teil seiner internen Software zu öffnen.
 
 Viele Unternehmen entwickeln Open-Source-Programme, um ihre Marke aufzubauen und Talente zu rekrutieren.
@@ -146,7 +134,6 @@ Sponsoren lassen sich einfacher finden, wenn Sie bereits ein starkes Publikum od
 Hier einige Beispiele für gesponsorte Projekte:
 
 * **[webpack](https://github.com/webpack)** sammelt Geld von Firmen und Einzelpersonen [mittels OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** wird [mittels Patreon finanziert](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** eine nicht-Gewinn-orientierte Organisation zahlt für die Arbeit an [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), und anderen Ruby-Infrastrukturprojekten
 
 ### Eine Einnahmequelle schaffen

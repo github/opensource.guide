@@ -68,14 +68,6 @@ related:
 
 코드를 작성하는 것을 좋아해도, 다른 유형의 기여는 프로젝트에 참여하고 다른 커뮤니티 구성원을 만날 수 있는 좋은 방법입니다. 이러한 관계를 구축하면 프로젝트의 다른 부분에서 작업할 기회를 얻을 수 있습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories”](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### 행사 계획 짜는 걸 좋아하세요?
 
 * [NodeSchool을 위해 @fzamperin이 했던 것처럼](https://github.com/nodeschool/organizers/issues/406), 프로젝트에 관한 워크샵이나 미팅 조직하기

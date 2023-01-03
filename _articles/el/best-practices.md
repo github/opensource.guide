@@ -237,7 +237,7 @@ related:
 * Το [mention-bot](https://github.com/facebook/mention-bot) αναφέρει πιθανούς αναθεωρητές (reviewers) για τα pull requests
 * Το [Danger](https://github.com/danger/danger) βοηθά στην αυτοματοποίηση της αναθεώρησης κώδικα (code review)
 * Το [no-response](https://github.com/probot/no-response) κλείνει θέματα στα οποία ο συγγραφέας δεν έχει απαντήσει σε ένα αίτημα για περισσότερες πληροφορίες
-* Το [dependabot-preview](https://github.com/marketplace/dependabot-preview) ελέγχει τα αρχεία εξαρτήσεων σας κάθε μέρα για ξεπερασμένες απαιτήσεις και ανοίγει μεμονωμένα pull requests για όποια βρει
+* Το [dependabot](https://github.com/dependabot) ελέγχει τα αρχεία εξαρτήσεων σας κάθε μέρα για ξεπερασμένες απαιτήσεις και ανοίγει μεμονωμένα pull requests για όποια βρει
 
 Για αναφορές σφαλμάτων και άλλες κοινές συνεισφορές, το GitHub διαθέτει [Πρότυπα ζητημάτων και πρότυπα αιτημάτων](https://github.com/blog/2111-issue-and-pull-request-templates), τα οποία μπορείτε να δημιουργήσετε για να βελτιώσετε την επικοινωνία που λαμβάνετε. Ο @TalAter δημιούργησε έναν οδηγό [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) για να σας βοηθήσει να γράψετε τα πρότυπα των ζητημάτων και των PR σας.
 

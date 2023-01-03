@@ -224,7 +224,7 @@ Pada proses _consensus seeking_, anggota komunitas mendiskusikan masalah utama s
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Salah satu alasan kenapa sistem voting tidak berlaku untuk masalah Atom adalah karena tim Atom tidak akan mengikuti sistem voting pada setiap kasusnya. Seringkali kami harus memilih apa yang kami rasa benar meskipun tidak populer. (...) Apa yang bisa saya tawarkan dan janjikan...adalah karena itu merupakan pekerjaan saya untuk mendengarkan komunitas.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

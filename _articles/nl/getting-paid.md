@@ -78,17 +78,6 @@ Tegenwoordig worden veel mensen betaald om part- of fulltime aan open source te 
 
 Het is gemakkelijker om een pleidooi te houden voor open source-werk als je werkgever het project ook daadwerkelijk gebruikt, maar wees creatief met je pitch. Misschien gebruikt je werkgever het project niet, maar ze gebruiken Python, en het onderhouden van een populair Python-project helpt nieuwe Python-ontwikkelaars aan te trekken. Misschien zorgt het ervoor dat uw werkgever er in het algemeen ontwikkelaarvriendelijker uitziet.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Zoals velen in open source, worstelde ik met de last om een project te onderhouden. Toen ik voor het eerst met open source begon, bleef ik gewoon te laat om eraan te werken of toen ik thuiskwam. (...) Ik was in staat om met mijn baas de problemen te bespreken waarmee ik werd geconfronteerd en we kwamen met ideeën over hoe we open source-taken konden integreren met ons eigen gebruik van Babel.
-
-  _Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel._
-
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Open source-onderhouder verhalen"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Als je geen bestaand open source-project hebt waaraan je zou willen werken, maar liever hebt dat je huidige werkoutput open source is, pleit er dan voor dat je werkgever een deel van hun interne software open source maakt.
 
 Veel bedrijven ontwikkelen open source-programma's om hun merk op te bouwen en talent van hoge kwaliteit te werven.
@@ -142,7 +131,6 @@ Het vinden van sponsoring werkt goed als je al een sterk publiek of een sterke r
 Enkele voorbeelden van gesponsorde projecten zijn:
 
 * **[webpack](https://github.com/webpack)** zamelt geld in bij bedrijven en particulieren [via OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** wordt [gefinancierd via Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** een non-profitorganisatie die betaalt voor werk aan [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), en andere Ruby-infrastructuurprojecten
 
 ### Creëer een inkomstenstroom

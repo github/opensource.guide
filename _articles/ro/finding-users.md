@@ -192,21 +192,6 @@ Nu este niciodată prea devreme, sau prea tâziu, să începi să-ți construie�
 
 Nu există o soluție peste noapte de a construi un public. Obținerea încrederii și respectului celorlalți ia timp, și construirea reputației tale nu se sfârșește niciodată.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  <p>
-    PhantomJS a fost lansat prima dată la începutul lui 2011. (...) Am răspândit cuvântul prin căile obișnuite: am tweet-uit despre el, am scris postări de blog despre lucruri pe care le poți face cu el, l-am menționat în timpul variatelor discuții din întâlniri. Când a devenit mai cunoscut în 2014, am început să țin prezentări despre el.
-  </p>
-  <p>
-    <em>
-      PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
-    </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## Continuă!
 
 Este posibil să dureze mult înainte ca utilizatorii să observe proiectul tău cu sursă deschisă. Este în regulă! Unele dintre cele mai populare proiecte de astăzi au avut nevoie de ani pentru a atinge nivele înalte de activitate. Concentrează-te pe a construi relații în loc de a spera că proiectul tău va câștiga popularitate în mod spontan. Fii răbdător, și continuă să împărtășești munca ta cu cei care o apreciază.

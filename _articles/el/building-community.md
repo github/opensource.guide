@@ -225,7 +225,7 @@ related:
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Ένα μέρος του λόγου για τον οποίο δεν υπάρχει ένα σύστημα ψηφοφορίας για τα θέματα Atom είναι επειδή η ομάδα Atom δεν πρόκειται να ακολουθήσει ένα σύστημα ψηφοφορίας σε όλες τις περιπτώσεις. Μερικές φορές πρέπει να επιλέγουμε αυτό που θεωρούμε σωστό ακόμα και αν δεν είναι δημοφιλές. (...) Αυτό που μπορώ να προσφέρω και δεσμεύομαι να κάνω... είναι ότι η δουλειά μου είναι να ακούω την κοινότητα.
   <p markdown="1" class="pquote-credit">
-- @lee-dohm on [Η διαδικασία λήψης αποφάσεων του Atom](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+- @lee-dohm on Η διαδικασία λήψης αποφάσεων του Atom
   </p>
 </aside>
 

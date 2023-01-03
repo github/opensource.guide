@@ -66,14 +66,6 @@ related:
 
 もし雇用主がそのプロジェクトを使っているのであれば、オープンソース活動をするのはより簡単になるでしょう。しかし、説明の仕方はよく練る必要があります。そのプロジェクトを使っていないかもしれませんが、 Python を使っているとすれば、 Python の有名なプロジェクトに関わることで新しい Python 開発者を惹き付ける役に立つでしょう。こう説明することで、雇用主はより友好的になるでしょう。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  オープンソースを行っている多くの人のように、プロジェクト運営の重荷に苦しんでいました。はじめてオープンソース活動を始めた時、私は遅い時間か、家に帰ってすぐにオープンソース活動を行っていました。 (...) 私が直面していた問題について上司と話すことができたため、自分たちが使っていたBabelに関するタスクを普段の仕事に取り込む良い方法を思いつきました。
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 もし取り組みたい既存のオープンソース活動がないけれども、現在の仕事の成果をオープンソースにしたいと望んでいる場合は、社内のソフトウェアをオープンソース化する事例を作りましょう。
 
 多くの企業が、ブランド構築と有能な開発者の採用のためにオープンソースプログラムを作っています。
@@ -123,7 +115,6 @@ related:
 あなたが既に協力者や強力な名声を築いていたり、プロジェクトが非常に有名なのであれば、スポンサーを探すのはうまくいくでしょう。スポンサーを得たプロジェクトの例を幾つか挙げます：
 
 * **[webpack](https://github.com/webpack)** は [OpenCollective を通じて](https://opencollective.com/webpack)企業や個人から資金を得ています。
-* **[Vue](https://github.com/vuejs/vue)** は [Patreon を通じて資金を得ています](https://github.com/open-source/stories/yyx990803)。
 * **[Ruby Together](https://rubytogether.org/)** という非営利団体は [bundler](https://github.com/bundler/bundler) や [RubyGems](https://github.com/rubygems/rubygems) といった Ruby の基盤プロジェクトに資金を提供しています。
 
 ### 収益源を作る
