@@ -255,7 +255,7 @@ Een paar voorbeelden:
 * [mention-bot](https://github.com/facebook/mention-bot) vermeldt potentiële reviewers voor pull-aanvragen
 * [Danger](https://github.com/danger/danger) helpt bij het automatiseren van codebeoordeling
 * [no-response](https://github.com/probot/no-response) sluit issues af waarbij de auteur niet heeft gereageerd op een verzoek om meer informatie
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) controleert uw afhankelijkheidsbestanden elke dag op verouderde vereisten en opent individuele pull-verzoeken voor alle gevonden items
+* [dependabot](https://github.com/dependabot) controleert uw afhankelijkheidsbestanden elke dag op verouderde vereisten en opent individuele pull-verzoeken voor alle gevonden items
 
 Voor bugrapporten en andere veelvoorkomende bijdragen heeft GitHub [Issue-sjablonen en Pull Request-sjablonen](https://github.com/blog/2111-issue-and-pull-request-templates), die u kunt maken om de communicatie die u ontvangt te stroomlijnen. @TalAter heeft een [Kies je eigen avonturengids](https://www.talater.com/open-source-templates/#/) gemaakt om u te helpen bij het schrijven van uw issue en PR-sjablonen.
 

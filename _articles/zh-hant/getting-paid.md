@@ -67,14 +67,6 @@ redirect_from: /zh-tw/getting-paid/
 
 如果你的老闆使用了該開源專案，贊助的事情自然就比較好談，盡量發揮創意地去向雇主提案。也可能雇主沒有使用到開源專案，但他們有使用 Python ，用來經營一個熱門的專案，吸引有興趣的 Python 開發者，又或者都不是，那老闆也至少營造了一個對開發者友善的環境。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/588473?v=3&s=460" class="pquote-avatar" alt="avatar">
-  就像很多開源專案的故事一樣，我花了大量的時間來維護專案。當我第一次開始爲開源做事情的時候，我在公司待到很晚才回家。（...)然後我就和老闆談，就開源的任務當作本來的工作來做。
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["一位維護者的故事"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 如果你現在還沒有爲開源專案做工作，但是你希望你現在所做得成績開源出來，那麼你可以和你的老闆講，奉勸他將內部的軟體開源。
 
 很多公司都在開發開源專案，從而能夠打造自己的品牌，以及希望僱傭到高質量的人才。
@@ -115,7 +107,6 @@ redirect_from: /zh-tw/getting-paid/
 一些獲得組織資助的專案案例：
 
 * **[webpack](https://github.com/webpack),**  [通過 OpenCollective](https://opencollective.com/webpack) 從公司和個人來籌集資金
-* **[Vue](https://github.com/vuejs/vue),** 由 @yyx990803 創建，[通過 Patreon](https://github.com/open-source/stories/yyx990803)獲得資助
 * **[Ruby Together](https://rubytogether.org/),** 由 @indirect 創建的非盈利組織 ，爲諸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基礎設施專案提供資金支持
 
 儘管開源日漸的流行，但是爲專案尋找資金仍然是處於試驗中。目前所收集到的包括：

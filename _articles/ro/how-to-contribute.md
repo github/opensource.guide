@@ -82,21 +82,6 @@ O neînțelegere comună despre contribuirea la open source este că trebuie să
 
 Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale grozavă de a te implica într-un proiect și de a întâlni alți membri ai comunității. Construind aceste relații îți va da oportunități de a lucra pe alte părți ale proiectului.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  <p>
-    Întâi am luat legătura cu echipa de dezvoltare Python (numită și python-dev) când am trimis email la lista de email-uri în 17 iunie 2002 pentru a-mi accepta patch-ul. Am prins repede bug-ul din sursa deschisă, și am decis să încep să organizez rezumatele email-urilor pentru grup. Ei mi-au dat o scuză grozavă pentru a cere clarificări despre un subiect, dar mai critic am putut observa când cineva indica ceva ce necesita rezolvare.
-  </p>
-  <p>
-    <em>
-      I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
-    </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Îți place să planifici evenimente?
 
 * Organizează ateliere sau întâlniri despre proiect, [precum @fzamperin a făcut pentru NodeSchool](https://github.com/nodeschool/organizers/issues/406)

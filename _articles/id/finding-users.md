@@ -145,14 +145,6 @@ Tidak pernah terlalu cepat, atau terlambat untuk membangun reputasi Anda. Meskip
 
 Tidak ada solusi cepat untuk membangun pengguna. Mendapatkan kepercayaan dan penghargaan membutuhkan waktu, dan proses membangun reputasi tidak pernah selesai.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS dirilis pertama kalinya di awal 2011. (...) Saya menyebarkan dengan cara yang sederhana: Saya menuliskan tweet, saya menuliskan di blog tentang apa yang bisa Anda lakukan, saya menjelaskannya pada berbagai acara pertemuan. Ketika proyek ini mulai dikenal pada 2014, Saya mulai memberikan presentasi tentang proyek ini.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## Teruslah Berjuang!
 
 Seringkali membutuhkan waktu yang sangat lama sebelum orang lain mulai memperhatikan proyek open source Anda. Tidak masalah! Sebagian dari proyek open source yang terkenal saat ini membutuhkan waktu bertahun-tahun untuk mencapai aktivitas yang tinggi seperti saat ini. Fokus pada membangun relasi dibandingkan mencari jalan pintas.Bersabarlah dan terus berbagi pekerjaan Anda dengan mereka yang menghargainya.

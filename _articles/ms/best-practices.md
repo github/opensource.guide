@@ -237,7 +237,7 @@ Terdapat [pelbagai alat tersedia](https://github.com/showcases/tools-for-open-so
 * [mention-bot](https://github.com/facebook/mention-bot) menyebut pengulas berpotensi untuk permintaan tarik
 * [Danger](https://github.com/danger/danger) membantu mengautomasikan semakan kod
 * [no-response](https://github.com/probot/no-response) menutup masalah di mana pengarang tidak menjawab permintaan untuk mendapatkan maklumat lebih lanjut
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) memeriksa fail kebergantungan anda setiap hari untuk keperluan yang ketinggalan zaman dan membuka permintaan tarikan individu untuk apa sahaja yang dijumpainya
+* [dependabot](https://github.com/dependabot) memeriksa fail kebergantungan anda setiap hari untuk keperluan yang ketinggalan zaman dan membuka permintaan tarikan individu untuk apa sahaja yang dijumpainya
 
 Fatau laporan pepijat dan sumbangan umum lain, GitHub mempunyai [Templat Masalah dan Templat Tarik Permintaan] (<https://github.com/blog/2111-issue-and-pull-request-templates>), yang boleh anda buat untuk melancarkan komunikasi anda terima. @TalAter membuat [Pilih panduan Pengembaraan Anda Sendiri] (<https://www.talater.com/open-source-templates/#/>) untuk membantu anda menulis isu dan templat PR anda.
 

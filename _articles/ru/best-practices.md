@@ -237,7 +237,7 @@ related:
 * [mention-bot](https://github.com/facebook/mention-bot) упоминает потенциальных ревьюеров для пул-реквеста
 * [Danger](https://github.com/danger/danger) помогает автоматизировать проверку кода
 * [no-response](https://github.com/probot/no-response) закрывает ишью, если автор не предоставил дополнительную информацию
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) ежедневно следует за актуальностью зависимостей, и если находит что-то новое, то открывает отдельные пул-реквесты
+* [dependabot](https://github.com/dependabot) ежедневно следует за актуальностью зависимостей, и если находит что-то новое, то открывает отдельные пул-реквесты
 
 Для сообщений об ошибках и других общих проблем на GitHub есть [шаблоны для ишью и пул-реквеста](https://github.com/blog/2111-issue-and-pull-request-templates), которые можно создать для упрощения взаимодействия с сообществом. @TalAter создал [руководство Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/), чтобы помочь вам написать собственные шаблоны ишью и пул-реквеста.
 

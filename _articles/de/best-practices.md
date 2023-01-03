@@ -265,7 +265,7 @@ Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfro
 * [mention-bot](https://github.com/facebook/mention-bot) erwähnt potentielle Reviewer für Pull Requests
 * [Danger](https://github.com/danger/danger) hilft bei der Automatisierung des Code Review
 * [no-response](https://github.com/probot/no-response) schließt Issues deren Autor\*in nicht auf Nachfragen antwortet
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) prüft bekannte Abhängigkeitsdateien täglich und eröffnet Pull Requests, sobald Aktualisierungen verfügbar werden
+* [dependabot](https://github.com/dependabot) prüft bekannte Abhängigkeitsdateien täglich und eröffnet Pull Requests, sobald Aktualisierungen verfügbar werden
 
 Für Fehlerberichte und andere allgemeine Beiträge hat GitHub [Issue- und Pull-Request-Templates](https://github.com/blog/2111-issue-and-pull-request-templates), die Sie erstellen können, um die Kommunikation zu optimieren. @TalAter hat einen [Choose Your Own Adventure Guide](https://www.talater.com/open-source-templates/#/) erstellt, der Ihnen beim Schreiben dieser Vorlagen hilft.
 

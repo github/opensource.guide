@@ -143,14 +143,6 @@ Nunca é cedo demais ou tarde demais para iniciar a construir sua reputação. M
 
 Não há uma solução instantânea para a construção de uma audiência. Ganhar a confiança e o respeito dos outros leva tempo, e a construção de sua reputação nunca acaba.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS foi lançado pela primeira vez no início de 2011. (...) Eu espalhei a palavra da maneira usual: Eu "twittava" sobre isso, escrevia posts de blog sobre o que você pode fazer com isso, o mencionei durante várias discussões em meetups. Quando ficou mais conhecido em 2014, comecei a fazer apresentações sobre o assunto.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## Continue assim!
 
 Pode levar um longo tempo antes das pessoas notarem seu projeto open source. Está tudo bem! Alguns dos projetos mais populares hoje levaram anos para atingir os níveis mais altos de atividade. Concentre-se em construir relacionamentos em vez de esperar que seu projeto espontâneamente ganhe popularidade. Seja paciente, e mantenha-se compartilhando seu trabalho com aqueles que o apreciam.

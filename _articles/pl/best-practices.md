@@ -242,7 +242,7 @@ Dostępnych jest [wiele dostępnych narzędzi](https://github.com/showcases/tool
 * [mention-bot](https://github.com/facebook/mention-bot) wymienia potencjalnych recenzentów dla pull requestów
 * [Danger](https://github.com/danger/danger) pomaga zautomatyzować code review
 * [no-response](https://github.com/probot/no-response) zamyka issues gdzie autor nie odpowiedział na request lub więcej informacji
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) sprawdza pliki zależności każdego dnia pod kątem nieaktualnych wymagań i otwiera indywidualne pull requesty dla każdego, kogo znajdzie
+* [dependabot](https://github.com/dependabot) sprawdza pliki zależności każdego dnia pod kątem nieaktualnych wymagań i otwiera indywidualne pull requesty dla każdego, kogo znajdzie
 
 W przypadku raportów o błędach i innych typowych treści GitHub ma [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), które możesz utworzyć, aby usprawnić otrzymywaną komunikację. @TalAter stworzył [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) aby pomóc Ci napisać swój issue i szablony PR.
 
