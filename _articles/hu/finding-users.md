@@ -41,7 +41,7 @@ Segíts az embereknek megjegyezni a projektedet azáltal, hogy egyetlen pontra, 
 
 **Legyen egyértelmű, hogy hol népszerűsíted a munkád.** Ez lehet Twitter vagy IRC csatorna, vagy GitHub URL, amely könnyen elérhető mindenkinek. Ezek a helyek a projekt növekvő közösségének is helyet biztosítanak.
 
-Ha még nem szeretnél projekthez köthető kommunikációs csatornákat kiépíteni, akkor a saját Twitter vagy GitHub helyeiden is meg tudod azt tenni. A Twitter vagy GitHub azonosító alapján a felhasználók tudni fogják hogyan érjenek el téged és a projektet. Ha eseményen vagy szakmai találkozókon adsz elő, akkor bizonyosodj meg róla, hogy ezeket a elérhetőségeket feltüntetted az előadásodban. 
+Ha még nem szeretnél projekthez köthető kommunikációs csatornákat kiépíteni, akkor a saját Twitter vagy GitHub helyeiden is meg tudod azt tenni. A Twitter vagy GitHub azonosító alapján a felhasználók tudni fogják hogyan érjenek el téged és a projektet. Ha eseményen vagy szakmai találkozókon adsz elő, akkor bizonyosodj meg róla, hogy ezeket a elérhetőségeket feltüntetted az előadásodban.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
@@ -142,14 +142,6 @@ A fent vázolt stratégiák mellett a legjobb módja annak, hogy részvételre b
 Soha sincs túl késő vagy túl korán a hírnév építéséhez. Még ha el is indítottad a saját projektedet, folyamatosan keresd a lehetőséget arra, hogy másoknak segíts.
 
 Nem létezik olyan módszer, amivel hirtelen közönséget és hírnevet tudsz szerezni. A bizalom és tisztelet megszerzéséhez idő kell, és a hírnév építése sohasem érhet véget.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  A PhantomJS 2011 elején jelent meg először. (...) A hírét a szokásos módon terjesztettem: Twitter-en írtam róla, írtam Blog-ot arról hogyan és mire jó, és számos szakmai összejövetelen beszélgettem róla. 2014-re, mikorra ismertté vált, elkezdtem önálló előadásokat is tartani.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Tarts ki!
 

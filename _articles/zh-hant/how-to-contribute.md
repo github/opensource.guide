@@ -69,14 +69,6 @@ redirect_from: /zh-tw/how-to-contribute/
 
 即便你樂於寫程式，撰寫程式以外的貢獻對於專案來說也是舉足輕重的，維繫這樣的關係也能讓你獲得與專案的其他成員共事的機會。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我第一次接觸 Python 開發團隊（簡稱 python-dev）是在 2002年6月17日，當時我向郵件列表寄了一份請求接受補丁的信，接著我決定為工作小組蒐集整理郵件摘要，後來他們甚至給了我一個機會去諮詢某個主題，這當中的關鍵是，我能注意到有人指出哪些東西必須要處裡。
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["系統維護者的故事"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### **你是否熱衷於規劃活動？**
 
 * 為專案舉辦一個工作坊或線下聚會，[例如 @fzamperin 為 NodeSchool 所做的](https://github.com/nodeschool/organizers/issues/406)

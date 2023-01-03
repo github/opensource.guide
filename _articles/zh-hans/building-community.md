@@ -231,7 +231,7 @@ README [不仅仅是一组指令](../starting-a-project/#撰写自述文件)。�
 Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情况下都不会遵循投票系统。有时我们必须选择我们认为是对的事，即使它不流行。（。。。）我能通过社区的反馈知道我能够提供什么以及做什么样的工作。
 
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 决策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom 决策流程
   </p>
 </aside>
 

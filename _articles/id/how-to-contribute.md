@@ -68,14 +68,6 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
 
 Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan cara yang baik untuk bisa berpartisipasi pada proyek dan bertemu dengan anggota komunitas lainnya. Membangun hubungan tersebut akan memberikan Anda kesempatan untuk bekerja pada bagian lain dari proyek.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Saya pertama kali menghubungi tim pengembang Python (python-dev) ketika saya mengirimkan pesan email kepada mailing list pada 17 Juni 2002 tentang perbaikan dari saya. Saya dengan cepat menemukan kesalahan, dan memutuskan untuk mulai memilih email dari grup. Mereka memberikan saya alasan yang baik untuk bertanya tentang klarifikasi sebuah topik, tetapi yang lebih penting lagi saya mampu mendeteksi apabila seseorang menunjukkan sesuatu yang perlu diperbaiki.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Apakah Anda suka merencanakan kegiatan?
 
 * Mengelola workshop atau acara pertemuan tentang proyek, [seperti yang dilakukan @fzamperin untuk NodeSchool](https://github.com/nodeschool/organizers/issues/406)

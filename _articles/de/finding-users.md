@@ -171,18 +171,6 @@ Es ist nie zu früh oder zu spät, um mit dem Aufbau eines guten Rufs zu beginne
 
 Ein Publikum aufzubauen, schafft man nicht über Nacht. Das Vertrauens und den Respekt anderer zu gewinnen, nimmt Zeit in Anspruch, und der Aufbau Ihres Rufes endet nie.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-
-  PhantomJS wurde Anfang 2011 zum ersten Mal veröffentlicht. (...) Ich verkündete dies auf die übliche Art und Weise: Ich twitterte darüber, ich schrieb Blog-Posts über Dinge, die man damit machen könnte, ich erwähnte es in verschiedenen Diskussionen in Meetups. Als es 2014 bekannter wurde, fing ich an, Vorträge darüber zu halten.
-
-  _PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it._
-
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## Weitermachen!
 
 Es kann lange dauern, bis Leute Ihr Open-Source-Projekt bemerken. Das ist in Ordnung! Einige der populärsten Projekte erreichten erst nach Jahren ein hohes Aktivitätsniveau. Konzentrieren Sie sich darauf, Kontakte aufzubauen, anstatt zu hoffen, dass Ihr Projekt spontan an Popularität gewinnt. Seien Sie geduldig und teilen Sie Ihre Arbeit mit denen, die sie zu schätzen wissen.

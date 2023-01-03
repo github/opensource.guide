@@ -226,7 +226,7 @@ related:
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   بخشی از دلیل اینکه چرا یک سامانه رای گیری برای موضوعات اتمی وجود ندارد بدین خاطر است که تیم اتمی قصد ندارد که از یک سیستم رای گیری در همه موارد بهره گیرد. گاهی اوقات ما باید آنچیزی را انتخاب کنیم که درست است حتی اگر آن معروف نباشد. (...) آنچه من می توانم پیشنهاد کنم و برای انجام آن تقاضا کنم این است که کار من این است که به انجمن گوش فرا دهم.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

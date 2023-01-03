@@ -66,14 +66,6 @@ Bugün, birçok insana yarı zamanlı veya tam zamanlı olarak açık kaynak üz
 
 Eğer işvereniniz projeyi gerçekten kullanıyorsa, işiniz daha kolay, ancak adımınızda yaratıcı olun. Belki işvereniniz projeyi kullanmaz, ancak Python'u kullanır ve popüler bir Python projesini sürdürmek yeni Python geliştiricilerini çekmeye yardımcı olur. Belki işvereninizin genel olarak geliştirici dostu görünmesini sağlar.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Açık kaynak kodlu birçok kişi gibi ben de bir projeyi sürdürme yüküyle mücadele ediyordum. Açık kaynak yapmaya ilk başladığımda, üzerinde çalışmak için geç saatlere kadar ofiste kaldım ya da eve geldiğimde uğraştım. (...) Patronumla karşılaştığım sorunları tartışabildim ve Babel'i kendi kullanımımıza göre açık kaynak kodlu görevleri nasıl dahil edebileceğimize dair fikirler bulduk.
-  <p markdown="1" class="pquote-credit">
-- @hzoo, ["Geliştirici Hikayeleri"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Üzerinde çalışmak istediğiniz bir açık kaynak projeniz yoksa, ancak mevcut iş çıktınızın açık kaynaklı olmasını tercih ederseniz, işvereninizin kendi iç yazılımlarının bir kısmının kaynağını açması için bir öneride bulunun.
 
 Birçok şirket markalarını geliştirmek ve kaliteli yetenekler kazanmak için açık kaynaklı programlar geliştiriyor.
@@ -123,7 +115,6 @@ Açık kaynağın popülaritesi arttıkça, projelere fon bulmak için hala dene
 Sponsorluk bulmak, zaten güçlü bir kitleye veya şöhrete sahipseniz veya projeniz çok popülerse işe yarar. Sponsorlu projelere birkaç örnek:
 
 * **[webpack](https://github.com/webpack)** [OpenCollective](https://opencollective.com/webpack) üzerinden şirketler ve bireylerden para topladı
-* **[Vue](https://github.com/vuejs/vue)** [Patreon](https://github.com/open-source/stories/yyx990803) üzerinden finanse ediliyor
 * **[Ruby Together](https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
 
 ### Bir gelir akışı oluşturun
