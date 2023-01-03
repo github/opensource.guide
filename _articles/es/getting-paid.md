@@ -66,14 +66,6 @@ Hoy en d&iacute;a, muchas personas reciben pagos por trabajos a tiempo parcial o
 
 Es m&aacute;s f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu empleador usa el proyecto, pero ponte creativo. Puede que tu empleador no use el proyecto, pero usa Python, y mantener un proyecto popular de Python puede atraer nuevos desarrolladores de Python. Tambi&eacute;n puede que haga que tu empleador se vea m&aacute;s desarrollador-amigable en general.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforz&aacute;ndome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) Fui capaz de discutir con mi jefe los problemas que estaba enfrentando y nos surgieron ideas sobre c&oacute;mo podr&iacute;amos incorporar las tareas de c&oacute;digo abierto dado nuestro propio uso de Babel.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Si tu no tienes un excitante proyecto de c&oacute;digo abierto en el que quisieras trabajar, pero te gustar&iacute;a que tu actual trabajo genere aportes al c&oacute;digo abierto, establece un acuerdo con tu empleador para aportar algo del software interno de la organizaci&oacute;n a la comunidad de c&oacute;digo abierto.
 
 Muchas empresas est&aacute;n desarrollando programas de c&oacute;digo abierto para construir su marca y reclutar talentos de calidad.
@@ -119,7 +111,6 @@ Encontrar sponsors funciona si tienes una fuerte audiencia o reputaci&oacute;n y
 Algunos ejemplos comunes de proyectos sponsoreados incluyen:
 
 * **[webpack](https://github.com/webpack)** genera dinero de empresas e individuos [a trav&eacute;s de OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** es [financiado a trav&eacute;s de Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** una organizaci&oacute;n sin fines de lucro que paga por el trabajo en [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), y otros proyectos de la infraestructura de Ruby.
 
 ### Crea un flujo de ingresos.

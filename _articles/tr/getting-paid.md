@@ -66,14 +66,6 @@ Bugün, birçok insana yarı zamanlı veya tam zamanlı olarak açık kaynak üz
 
 Eğer işvereniniz projeyi gerçekten kullanıyorsa, işiniz daha kolay, ancak adımınızda yaratıcı olun. Belki işvereniniz projeyi kullanmaz, ancak Python'u kullanır ve popüler bir Python projesini sürdürmek yeni Python geliştiricilerini çekmeye yardımcı olur. Belki işvereninizin genel olarak geliştirici dostu görünmesini sağlar.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Açık kaynak kodlu birçok kişi gibi ben de bir projeyi sürdürme yüküyle mücadele ediyordum. Açık kaynak yapmaya ilk başladığımda, üzerinde çalışmak için geç saatlere kadar ofiste kaldım ya da eve geldiğimde uğraştım. (...) Patronumla karşılaştığım sorunları tartışabildim ve Babel'i kendi kullanımımıza göre açık kaynak kodlu görevleri nasıl dahil edebileceğimize dair fikirler bulduk.
-  <p markdown="1" class="pquote-credit">
-- @hzoo, ["Geliştirici Hikayeleri"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Üzerinde çalışmak istediğiniz bir açık kaynak projeniz yoksa, ancak mevcut iş çıktınızın açık kaynaklı olmasını tercih ederseniz, işvereninizin kendi iç yazılımlarının bir kısmının kaynağını açması için bir öneride bulunun.
 
 Birçok şirket markalarını geliştirmek ve kaliteli yetenekler kazanmak için açık kaynaklı programlar geliştiriyor.

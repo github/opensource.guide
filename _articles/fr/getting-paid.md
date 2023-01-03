@@ -66,14 +66,6 @@ Aujourd'hui, beaucoup de gens sont payés pour travailler à temps plein ou à t
 
 Il est plus facile de plaider en faveur du travail open source si votre employeur utilise réellement le projet, mais soyez créatif avec votre argumentaire. Peut-être que votre employeur n'utilise pas le projet, mais ils utilisent Python, et le maintien d'un projet populaire Python aide à attirer de nouveaux développeurs Python. Peut-être que cela rend votre employeur plus convivial en général.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Comme beaucoup en open source, je me débattais avec le fardeau de maintenir un projet. Quand j'ai commencé à faire de l'open source, je restais juste en retard pour travailler dessus ou juste quand je rentrais à la maison. (...) J'ai pu discuter avec mon patron des problèmes auxquels je faisais face et nous avons eu des idées sur la façon dont nous pourrions intégrer des tâches open source étant donné notre propre utilisation de Babel.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Si vous n'avez pas de projet Open Source sur lequel vous souhaitez travailler, mais préférez que votre travail actuel soit ouvert, demandez à votre employeur d'ouvrir certains de ses logiciels internes.
 
 De nombreuses entreprises développent des programmes open source pour construire leur marque et recruter des talents de qualité.
