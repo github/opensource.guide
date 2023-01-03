@@ -72,14 +72,6 @@ Kesalahpahaman umum mengenai menyumbang kepada sumber terbuka ialah anda perlu m
 
 Walaupun anda suka menulis kod, jenis sumbangan lain adalah kaedah terbaik untuk terlibat dengan projek dan bertemu dengan ahli komuniti lain. Membina hubungan tersebut akan memberi anda peluang untuk bekerja di bahagian lain projek.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Saya pertama kali menghubungi pasukan pengembangan Python (aka python-dev) ketika saya menghantar e-mel kepada senarai mel pada 17 Jun 2002 mengenai penerimaan tampalan saya. Saya dengan cepat menangkap bug sumber terbuka, dan memutuskan untuk mula menguruskan pencernaan e-mel untuk kumpulan itu. Mereka memberi saya alasan yang baik untuk meminta penjelasan mengenai sesuatu topik, tetapi lebih kritikal saya dapat melihat ketika seseorang menunjukkan sesuatu yang perlu diperbaiki.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Adakah anda suka merancang acara?
 
 * Mengadakan bengkel atau pertemuan mengenai projek tersebut,[like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)

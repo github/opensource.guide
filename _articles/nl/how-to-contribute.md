@@ -77,17 +77,6 @@ Een veel voorkomende misvatting over bijdragen aan open source is dat je code mo
 
 Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige manier om bij een project betrokken te raken en andere leden van de gemeenschap te ontmoeten. Door die relaties op te bouwen, krijg je de kans om aan andere delen van het project te werken.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Ik nam voor het eerst contact op met het Python-ontwikkelingsteam (ook bekend als python-dev) toen ik de mailinglijst op 17 juni 2002 e-mailde over het accepteren van mijn patch. Ik ontdekte snel de open source-bug en besloot om e-mailsamenvattingen voor de groep te gaan beheren. Ze gaven me een geweldig excuus om opheldering over een onderwerp te vragen, maar kritischer merkte ik dat iemand op iets wees dat moest worden opgelost.
-  
-  _I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing._
-  
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Houd je van het plannen van evenementen?
 
 * Organiseer workshops of meetups over het project, [zoals @fzamperin deed voor NodeSchool](https://github.com/nodeschool/organizers/issues/406)

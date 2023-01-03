@@ -68,15 +68,6 @@ Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programo
 
 Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való részvételnek vagy hogy találkozz közösségi tagokkal az, hogy más jellegű hozzájárulásod van a projekthez. Ezeknek a kapcsolatoknak a kiépítése lehetőséget teremt arra, hogy a projekt egyéb részein dolgozz.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Az első kapcsolatom a Python fejlesztői csapattal (python-dev) az volt, amikor a 2002 június 17-én kértem őket a levelező listán, hogy fogadják el a javításomat.
-  Gyorsan rákattantam a nyílt forráskódra, így elhatároztam, hogy kezelni fogom a csoport levelezési listáját. Nagyszerű lehetőséget biztosítottak, hogy az adott témában a kérdéseket tisztázzuk, de még fontosabb, hogy észrevettem, ha valaki rámutatott valamire, ami javításra szorult.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Fenntartói Történetek"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Szeretsz rendezvényt szervezni?
 
 * Szervezz gyakorlati előadásokat vagy találkozókat a projektről, [ahogy @fzamperin csinálja a NodeSchool-nál](https://github.com/nodeschool/organizers/issues/406)

@@ -68,14 +68,6 @@ Um equívoco comum sobre contribuir para o open source é que você precisa cont
 
 Mesmo se você gosta de escrever código, outros tipos de contribuições são uma ótima maneira de se envolver com um projeto e conhecer outros membros da comunidade. Construir esses relacionamentos lhe dará oportunidades de trabalhar em outras partes do projeto.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Eu entrei em contato com a equipe de desenvolvimento do Python (também conhecida como python-dev) quando enviei um email para a lista de discussão em 17 de junho de 2002 sobre a aceitação do meu patch. Eu rapidamente peguei o bug do open source e decidi começar a curar os resumos de e-mail para o grupo. Eles me deram uma ótima desculpa para pedir esclarecimentos sobre um tópico, mas, mais criticamente, pude perceber quando alguém apontou algo que precisava ser consertado.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Você gosta de planejar eventos?
 
 * Organize workshops ou encontros sobre o projeto, [como @fzamperin fez para NodeSchool](https://github.com/nodeschool/organizers/issues/406)

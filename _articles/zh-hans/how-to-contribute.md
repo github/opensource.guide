@@ -69,14 +69,6 @@ redirect_from: /zh-cn/how-to-contribute/
 
 即使你是一位开发者，非代码的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  我第一次接触 Python 开发团队（简称 python-dev）是在 2002年6月17日，当时我是向其邮件列表发送了一份邮件，是关于请求通过我的补丁的。我很快就又发现了开源的 bug，于是决定开始为小组收集邮件摘要，然后他们给了我一个澄清问题的理由，但是更加重要的是，我能够捕获到某人指出需要修复的问题。
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["维护者的故事"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### 是否热衷于规划事件？
 
 * 为项目组织研讨会或线下分享，[一如 @fzamperin 为 NodeSchool 所做的那样](https://github.com/nodeschool/organizers/issues/406)
