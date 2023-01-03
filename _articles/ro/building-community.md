@@ -277,7 +277,7 @@ Uneori, votarea este o departajare necesară. Totuși, cât de mult poți, accen
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @lee-dohm privind [procesul de luare a deciziilor al Atom](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm privind procesul de luare a deciziilor al Atom
   </p>
 </aside>
 

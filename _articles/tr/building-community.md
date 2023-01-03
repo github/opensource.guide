@@ -225,7 +225,7 @@ Bir uzlaşma arayışı sürecinde, topluluk üyeleri yeterince duyulduğunu his
   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/lee-dohm?s=180">
   Atom sorunları için bir oylama sisteminin bulunmamasının bir nedeni de Atom ekibinin her durumda bir oylama sistemini takip etmemesi. Bazen popüler olmasa bile neyin doğru olduğunu düşündüğümüzü seçmek zorundayız. (...) Yapabileceğim ve yapmayı taahhüt edebileceğim şey, toplumu dinlemek benim işim.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 
