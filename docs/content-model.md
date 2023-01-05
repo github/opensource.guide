@@ -23,7 +23,7 @@ We use quotes in the guide to illustrate a point through an anecdote. Pull quote
 
 ### Image
 
-Images help visually illustrate a point. Some images are instructive, such as a graph. Other images are visual, such as a webpage screenshot. We should have lots of these.
+Images help visually illustrate a point. Some images are instructive, such as a graph. Other images are visual, such as a webpage screenshot. There should be lots of these.
 
 ### Data vignette
 
