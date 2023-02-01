@@ -1,4 +1,5 @@
 ---
+---
 lang: nl
 title: Tips voor een open source-beheerder
 description: Uw leven gemakkelijker maken als open source-beheerder, van het documenteren van processen tot het benutten van uw gemeenschap.
