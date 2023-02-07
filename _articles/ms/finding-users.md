@@ -143,14 +143,6 @@ Tidak terlalu awal, atau terlambat, untuk mula membina reputasi anda Walaupun an
 
 Tidak ada penyelesaian semalam untuk membina penonton. Memperoleh kepercayaan dan penghormatan orang lain memerlukan masa, dan membina reputasi anda tidak akan pernah berakhir.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS dilancarkan untuk pertama kalinya pada awal tahun 2011. (...) Saya menyebarkan berita dengan cara biasa: Saya tweet mengenainya, saya menulis catatan blog mengenai perkara-perkara yang boleh anda lakukan dengannya, saya menyebutnya semasa pelbagai perbincangan dalam perjumpaan. Ketika menjadi lebih terkenal pada tahun 2014, saya mula memberikan persembahan mengenainya.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## Terus!
 
 Mungkin memerlukan masa yang lama sebelum orang melihat projek sumber terbuka anda. Tak mengapa! Beberapa projek yang paling popular hari ini mengambil masa bertahun-tahun untuk mencapai tahap aktiviti yang tinggi. Fokus pada membina hubungan dan bukannya berharap projek anda mendapat populariti secara spontan. Bersabarlah, dan teruskan berkongsi karya anda dengan mereka yang menghargainya.

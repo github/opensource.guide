@@ -222,7 +222,7 @@ Sob o processo de busca por um consenso, membros da comunidade discutem questõe
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Parte da razão do porquê um sistema de votos não existe para as issues do Atom é porque o time do Atom não irá seguir um sistema de votação em todos os casos. Algumas vezes temos de escolher o que acreditamos que é certo, mesmo que isso seja impopular. (...) O que posso oferecer e prometer fazer ... é que é meu trabalho ouvir a comunidade.
   <p markdown="1" class="pquote-credit">
-  — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+  — @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

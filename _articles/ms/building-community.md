@@ -225,7 +225,7 @@ Di bawah proses pencarian konsensus, anggota masyarakat membincangkan masalah ut
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Sebahagian daripada sebab mengapa sistem pemungutan suara tidak ada untuk Masalah Atom adalah kerana pasukan Atom tidak akan mengikuti sistem pengundian dalam semua hal. Kadang-kadang kita harus memilih apa yang kita rasa betul walaupun tidak popular. (...) Apa yang dapat saya tawarkan dan berjanji untuk dilakukan ... adalah tugas saya untuk mendengarkan masyarakat.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

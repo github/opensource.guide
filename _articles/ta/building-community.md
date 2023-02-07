@@ -224,7 +224,7 @@ related:
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   ஆட்டம்(Atom) குழு அனைத்து சந்தர்ப்பங்களிலும் வாக்களிப்பு முறையை பின்பற்றுவதற்குப் போவதில்லை என்பதால் Atom சிக்கல்களுக்கு ஒரு வாக்கெடுப்பு முறை இல்லை. சில நேரங்களில் நாம் எது சரியானது என்று நினைக்கிறோமோ அதை தேர்வு செய்வது சரியே அது செல்வாக்கற்றதாக இருந்தாலும். (...) நான் என்ன செய்ய முடியும் மற்றும் செய்ய உறுதிமொழி கொடுக்கமுடியும் ... சமூகத்தை கவனிப்பது என் வேலை என்று ஆகிறது.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

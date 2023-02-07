@@ -32,8 +32,9 @@ Voor een diepere duik in berichten, bekijk Mozilla's ["Persona's en paden"](http
 
 <aside markdown="1" class="pquote">
   U hebt idealiter een enkele "home"-URL nodig die u kunt promoten en waarnaar u mensen kunt verwijzen met betrekking tot uw project. U hoeft niet te spetteren op een mooie sjabloon of zelfs een domeinnaam, maar uw project heeft een centraal punt nodig.
-  
+
   _You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point._
+
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["Hoe u het woord over uw code kunt verspreiden"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
@@ -48,8 +49,9 @@ Als u nog geen verkooppunten voor uw project wilt opzetten, promoot dan uw eigen
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   Een fout die ik in die vroege dagen maakte (...) was dat ik geen Twitter-account voor het project startte. Twitter is een geweldige manier om mensen op de hoogte te houden van een project en om mensen constant aan het project bloot te stellen.
-  
+
   _A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project._
+
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["Geschiedenis van Apache Storm en geleerde lessen"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
@@ -74,8 +76,9 @@ Profiteer van bestaande online communities en platforms om uw publiek te bereike
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Elk programma heeft zeer specifieke functies die slechts een fractie van de gebruikers nuttig zullen vinden. Spam niet zoveel mogelijk mensen. Richt uw inspanningen in plaats daarvan op gemeenschappen die baat hebben bij kennis van uw project.
-  
+
   _Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project._
+
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing voor open source-projecten"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
@@ -102,8 +105,9 @@ Als je [nieuw bent bij spreken in het openbaar](https://speaking.io/), begin dan
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Ik was behoorlijk zenuwachtig om naar PyCon te gaan. Ik hield een lezing, ik zou daar maar een paar mensen leren kennen, ik ging een hele week. (...) Ik had me echter geen zorgen moeten maken. PyCon was fenomenaal geweldig! (...) Iedereen was ongelooflijk vriendelijk en extravert, zo erg dat ik zelden tijd vond om niet met mensen te praten!
-  
+
   _I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!_
+
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["Hoe ik heb geleerd om te stoppen met piekeren en van PyCon te houden"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
@@ -116,8 +120,9 @@ Concentreer u tijdens het schrijven van uw lezing op wat uw publiek interessant 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Wanneer u begint met het schrijven van uw lezing, ongeacht wat uw onderwerp is, kan het helpen als u uw lezing ziet als een verhaal dat u aan mensen vertelt.
-  
+
   _When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people._
+
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["Hoe u een Tech Conferentie Lezing voorbereidt en schrijft"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
@@ -130,8 +135,9 @@ Zoek naar conferenties die specifiek zijn voor uw taal of ecosysteem. Voordat u 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   Ik schreef heel vriendelijk naar de JSConf-mensen en smeekte hen om me een slot te geven waar ik het op JSConf EU kon presenteren. (...) Ik was enorm bang toen ik dit ding presenteerde waar ik al een half jaar aan werkte. (...) De hele tijd dacht ik alleen maar: oh mijn God. Wat doe ik hier?
-  
+
   _I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?_
+
   <p markdown="1" class="pquote-credit">
 — @ry, ["Historie van Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
@@ -146,8 +152,9 @@ Door nieuwkomers te helpen, middelen te delen en doordachte bijdragen te leveren
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   De enige reden waarom urllib3 tegenwoordig de populairste Python-bibliotheek van derden is, is omdat het deel uitmaakt van verzoeken.
-  
+
   _The only reason urllib3 is the most popular third-party Python library today is because it's part of requests._
+
   <p markdown="1" class="pquote-credit">
 — @shazow, ["Hoe u uw open source-project kunt laten floreren"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
@@ -156,16 +163,6 @@ Door nieuwkomers te helpen, middelen te delen en doordachte bijdragen te leveren
 Het is nooit te vroeg of te laat om uw reputatie op te bouwen. Zelfs als u uw eigen project al hebt gelanceerd, blijf zoeken naar manieren om anderen te helpen.
 
 Er is geen oplossing van de ene op de andere dag om een publiek op te bouwen. Het vertrouwen en respect van anderen winnen kost tijd, en het opbouwen van uw reputatie houdt nooit op.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS werd begin 2011 voor het eerst uitgebracht. (...) Ik verspreidde het woord op de gebruikelijke manieren: ik twitterde erover, ik schreef blogposts over dingen die je ermee kon doen, ik noemde het tijdens verschillende discussies in meetups. Toen het in 2014 bekender werd, ben ik er presentaties over gaan geven.
-  
-  _PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it._
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Open source-beheerder verhalen"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Keep at it!
 

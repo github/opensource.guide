@@ -143,14 +143,6 @@ Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.c
 
 하룻밤 사이에 청중을 확보하는 비법 같은 것은 없습니다. 사람들의 신뢰와 존경심을 얻는 데에는 시간이 필요하고, 평판은 아무리 오래 관리해도 그 끝이 없습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories”](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## 계속해 나가세요!
 
 사람들이 여러분의 프로젝트에 관심을 갖는 데 오랜 시간이 걸릴 수도 있지만 괜찮습니다! 유명한 프로젝트 중 몇몇은 지금의 경지에 다다르기 위해 몇 년이 들었습니다. 프로젝트가 갑자기 유명해지기를 바라는 대신 관계를 쌓는 데 집중하세요. 인내심을 가지고, 여러분의 노력에 고마워하는 사람들과 작업을 계속 공유하세요.

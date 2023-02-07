@@ -229,7 +229,7 @@ README [不僅僅是指導手冊](../starting-a-project/#編寫自述文件)。�
 Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊並不會遵循投票的結果。有時我們必須選擇我們認為是對的事，即使它不是主流看法。（...）我能做的是傾聽社群的意見，這也是我能保證提供的服務。
 
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 決策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom 決策流程
   </p>
 </aside>
 

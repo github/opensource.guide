@@ -237,7 +237,7 @@ related:
 * ابزار [mention-bot](https://github.com/facebook/mention-bot)، به بازبین‌های بالقوه برای «درخواست pull»ها خبر می دهد.
 * ابزار [Danger](https://github.com/danger/danger)، به بررسی و بازبینی اتوماتیک کد کمک می‌کند.
 * ابزار [no-response](https://github.com/probot/no-response)، مسائلی را که نویسنده به درخواست‌ها برای اطلاعات بیشتر پاسخ نداده است، می‌بندد.
-* ابزار [dependabot-preview](https://github.com/marketplace/dependabot-preview)، هر روز «فایل‌های وابسته» (مثل کتابخانه‌ها یا کلاس‌های جانبی یا ماژول‌ها) شما را از نظر الزامات منسوخ شده بررسی می‌کند و «درخواست‌های pull» را برای هر موردی که پیدا می‌کند، باز می‌کند.
+* ابزار [dependabot](https://github.com/dependabot)، هر روز «فایل‌های وابسته» (مثل کتابخانه‌ها یا کلاس‌های جانبی یا ماژول‌ها) شما را از نظر الزامات منسوخ شده بررسی می‌کند و «درخواست‌های pull» را برای هر موردی که پیدا می‌کند، باز می‌کند.
 
 برای گزارش اشکالات (bug) و سایر مشارکت‌های متداول، GitHub دارای [قالب‌های طرح مشکل و قالب‌های درخواست‌های pull](https://github.com/blog/2111-issue-and-pull-request-templates) است، که می‌توانید برای کارآمد ساختن ارتباطاتی که دریافت می‌کنید، استفاده کنید. «TalAter»، برای کمک کردن به شما برای طرح مشکلات و مسائل روابط عمومی (PR templates)، ابزار [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) را ساخت.
 

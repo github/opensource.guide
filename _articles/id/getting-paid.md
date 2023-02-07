@@ -66,14 +66,6 @@ Saat ini, banyak orang dibayar untuk bekerja secara paruh waktu atau penuh pada 
 
 Akan lebih mudah untuk mendiskusikan proyek open source jika yang mempekerjakan Anda menggunakan proyek tersebut, tetapi tetap kreatiflah dalam usaha negosiasi Anda. Mungkin mereka tidak menggunakan proyek tersebut, tetapi mereka menggunakan Python, dan mengelola proyek Python yang populer akan membantu mengundang pengembang Python yang baru. Mungkin hal ini membuat perusahaan Anda lebih ramah terhadap pengembang secara umum.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Seperti halnya yang lain pada open source, saya mendapatkan masalah dengan beban mengelola sebuah proyek. Ketika saya pertama kalinya melakukan open source, saya biasa lembur untuk mengerjakannya atau ketika saya pulang ke rumah. (...) Saya mampu mendiskusikannya dengan pimpinan saya tentang isu yang saya alami dan kami mendapatkan ide tentang bagaimana kami dapat menyertakan tugas open source pada penggunaan Babel kami sendiri.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Jika Anda tidak memiliki proyek open source yang ingin Anda kerjakan, tetapi Anda berharap pekerjaan Anda saat ini dibuat dalam bentuk open source, ajukan ke perusahaan Anda untuk membuka perangkat lunak internal mereka pada open source.
 
 Banyak perusahaan mengembangkan program open source untuk membangun citra mereka dan merekrut talenta berkualitas.
@@ -118,7 +110,6 @@ Seiring dengan popularitas open source, menemukan pendanaan untuk proyek masih b
 Mencari sponsor bisa dilakukan jika Anda memiliki pengguna atau reputasi yang kuat, atau proyek Anda sangat populer. Beberapa proyek yang disponsori meliputi:
 
 * **[webpack](https://github.com/webpack)** mendapatkan pendanaan dari perusahaan dan perseorangan [melalui OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** [didanai melalui Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** organisasi nirlaba yang membayar untuk bekerja pada [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan proyek infrastruktur Ruby lainnya.
 
 ### Menciptakan pendapatan
