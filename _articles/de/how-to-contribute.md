@@ -28,7 +28,7 @@ Zu Open Source beizutragen, kann ein lohnender Weg sein, um nahezu alle erdenkli
 
 Warum tragen Menschen zu Open Source bei? Es gibt viele Gründe!
 
-### Software verbessern, auf die Sie sich verlassen.
+### Software verbessern, auf die Sie sich verlassen
 
 Viele Open-Source-Beitragende waren vorher Nutzer\*innen der Software, zu der sie beitragen. Wenn Sie einen Fehler in einer von Ihnen verwendeten Open-Source-Software finden, sollten Sie sich im Quellcode umsehen, ob Sie den Fehler evtl. selbst patchen können. Wenn ja, ist einen Patch einzureichen der beste Weg sicherzustellen, dass Ihre Kolleg\*innen (und Sie selbst, wenn Sie auf die nächste Version aktualisieren) davon profitieren können.
 
@@ -52,7 +52,7 @@ Per Definition ist Ihre gesamte Open-Source-Arbeit öffentlich. Sie erstellen au
 
 Softwareentwicklung ist eine soziale Tätigkeit, und Open-Source-Projekte bieten Führungserfahrungen, denn es müssen z.B. Konflikte gelöst, Teams organisiert und Aufgaben priorisiert werden.
 
-### Es ist ermutigend, auch kleine Änderungen vornehmen zu können.
+### Es ist ermutigend, auch kleine Änderungen vornehmen zu können
 
 Sie müssen nicht lebenslang an Open Source mithelfen. Haben Sie schon einmal einen Tippfehler auf einer Website gesehen und sich gewünscht, dass ihn jemand beheben würde? Bei einem Open-Source-Projekt können Sie genau das tun. Open Source hilft Leuten, selbst in die Hand zu nehmen, wie sie die Welt erleben, und das ist an sich schon befriedigend.
 
@@ -78,7 +78,7 @@ Ein weit verbreiteter Irrtum! Aber in Wirklichkeit sind es oft andere Projektasp
   </p>
 </aside>
 
-Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglichkeit, sich an einem Projekt zu beteiligen und andere Leute aus der Community zu treffen. Solche Beziehungen aufzubauen, ebnet Ihnen den Weg zur Mitarbeit an anderen Projektaspekten.
+Auch wenn Sie gerne Code schreiben, gibt es vielleicht bessere Möglichkeiten, sich an einem Projekt zu beteiligen und andere Leute aus der Community zu treffen. Solche Beziehungen aufzubauen, ebnet Ihnen den Weg zur Mitarbeit an anderen Projektaspekten.
 
 ### Planen Sie gerne Veranstaltungen?
 
@@ -485,7 +485,7 @@ Unabhängig davon, ob Sie ein\*e einmalige\*r Beitragende\*r sind oder versuchen
   </p>
 </aside>
 
-Bevor Sie ein Issue oder Pull Request aufmachen oder eine Frage im Chat stellen, sollten Sie diese Punkte im Hinterkopf behalten, damit Ihre Ideen effektiv rüberkommen.
+Bevor Sie ein Issue oder einen Pull Request aufmachen oder eine Frage im Chat stellen, sollten Sie diese Punkte im Hinterkopf behalten, damit Ihre Ideen effektiv rüberkommen.
 
 **Erklären Sie den Kontext.** Bringen Sie andere schnell auf den neuesten Stand. Wenn Sie auf einen Fehler stoßen, erklären Sie, was Sie zu tun versuchen und wie Sie ihn reproduzieren können. Wenn Sie eine neue Idee vorschlagen, erklären Sie deren Nutzen für das Projekt (nicht nur für Sie!).
 
@@ -529,13 +529,13 @@ Bevor Sie ein Issue oder Pull Request aufmachen oder eine Frage im Chat stellen,
 
 Bevor Sie etwas tun, sollten Sie kurz sicherstellen, dass Ihre Idee nicht schon an anderer Stelle besprochen wurde. Überfliegen Sie die README des Projekts, Issues (offen und geschlossen), die Mailingliste und Stack Overflow. Sie müssen nicht stundenlang alles durchgehen, aber eine schnelle Suche nach ein paar Schlüsselbegriffen bringt Sie weiter.
 
-Wenn Sie Ihre Idee woanders nicht finden können, sind Sie bereit für den ersten Schritt. Wenn sich das Projekt auf GitHub befindet, werden Sie Ihre Idee vermutlich als Issue kommunizieren, oder ein Pull Request stellen:
+Wenn Sie Ihre Idee woanders nicht finden können, sind Sie bereit für den ersten Schritt. Wenn sich das Projekt auf GitHub befindet, werden Sie Ihre Idee vermutlich als Issue kommunizieren oder einen Pull Request erstellen:
 
 * **Issues** sind wie ein Gespräch oder eine Diskussion.
 * **Pull Requests** sind der Beginn der Arbeit an einer Lösung.
 * **Eine unkomplizierte Kommunikation,** wie z.B. die Klärung einer Vorgehensweise oder Frage, versuchen Sie es in Stack Overflow, IRC, Slack oder anderen Chat-Kanälen, falls das Projekt über solche verfügt.
 
-Bevor Sie ein Issue oder Pull Request öffnen, überprüfen Sie die Beitragsdokumentationen des Projekts (normalerweise eine Datei namens CONTRIBUTING, oder in der README), um zu verstehen, was in Anfragen erwünscht ist. Beispielsweise kann das Projekt verlangen, dass Sie einer Vorlage folgen oder Tests verwenden.
+Bevor Sie ein Issue oder einen Pull Request öffnen, überprüfen Sie die Beitragsdokumentationen des Projekts (normalerweise eine Datei namens CONTRIBUTING, oder in der README), um zu verstehen, was in Anfragen erwünscht ist. Beispielsweise kann das Projekt verlangen, dass Sie einer Vorlage folgen oder Tests verwenden.
 
 Wenn Sie einen substantiellen Beitrag leisten wollen, öffnen Sie einen Issue, bevor Sie daran arbeiten. Bevor Sie Arbeiten ausführen, die möglicherweise nicht angenommen werden, schauen Sie sich das Projekt lieber eine Weile an (auf GitHub, [auf "Watch" klicken](https://help.github.com/articles/watching-repositories/), um über alle Konversationen informiert zu werden), und lernen die Community-Mitglieder kennen.
 
@@ -565,16 +565,16 @@ Tipps für die Kommunikation zu Issues:
 * **Wenn ein Issue vor einer Weile geöffnet wurde,** ist es möglich, dass es woanders bearbeitet wird, oder bereits gelöst wurde. Daher bitten Sie um Bestätigung, bevor Sie mit der Arbeit beginnen.
 * **Wenn Sie ein Issue geöffnet haben, aber die Antwort später selbst herausgefunden haben,** kommentieren Sie das Issue, um anderen Leuten die Antwort mitzuteilen. Schließen Sie danach das Issue. Auch die Dokumentation dieses Ergebnisses ist ein Beitrag zum Projekt.
 
-### ein Pull Request erstellen
+### Einen Pull Request erstellen
 
-In den folgenden Situationen sollten Sie in der Regel ein Pull Request öffnen:
+In den folgenden Situationen sollten Sie in der Regel einen Pull Request öffnen:
 
 * Triviale Korrekturen einreichen (z.B. eines Tippfehlers, eines defekten Links oder eines offensichtlichen Fehlers)
 * Beginn der Arbeit an einem Beitrag, um den Sie bereits gebeten wurden oder den Sie bereits in einem Issue diskutiert haben.
 
-Ein Pull Request muss keine fertige Arbeit darstellen. Es ist in der Regel besser, es frühzeitig zu starten, damit andere zuschauen oder Feedback zu Ihrem Fortschritt geben können. Markieren Sie es einfach als "WIP" (Work in Progress) in der Betreffzeile. Sie können später jederzeit weitere Commits hinzufügen.
+Einen Pull Request muss keine fertige Arbeit darstellen. Es ist in der Regel besser, es frühzeitig zu starten, damit andere zuschauen oder Feedback zu Ihrem Fortschritt geben können. Markieren Sie es einfach als "WIP" (Work in Progress) in der Betreffzeile. Sie können später jederzeit weitere Commits hinzufügen.
 
-Wenn das Projekt auf GitHub läuft, können Sie hier ein Pull Request stellen:
+Wenn das Projekt auf GitHub läuft, können Sie hier einen Pull Request stellen:
 
 * **[Forken Sie das Repository](https://guides.github.com/activities/forking/)** und klonen Sie es lokal. Verbinden Sie Ihr lokales mit dem ursprünglichen "upstream"-Repository, indem Sie es als Remote hinzufügen. Pullen Sie Änderungen von "upstream" möglichst oft, damit Sie auf dem Laufenden bleiben, und Konflikte beim Einreichen Ihres Pull Requests weniger wahrscheinlich werden. ([detailliertere Anweisungen finden Sie hier](https://help.github.com/articles/syncing-a-fork/).)
 * **[Erstellen Sie einen Branch](https://guides.github.com/introduction/flow/)** für Ihre Änderungen.
@@ -583,7 +583,7 @@ Wenn das Projekt auf GitHub läuft, können Sie hier ein Pull Request stellen:
 * **Testen Sie Ihre Änderungen!** Führen Sie vorhandene Tests aus und erstellen bei Bedarf neue. Egal ob es Tests gibt oder nicht, stellen Sie sicher, dass Ihre Änderungen das bestehende Projekt nicht brechen.
 * **Tragen Sie im Stil des Projekts bei,** nach bestem Wissen und Gewissen. Dies kann bedeuten, dass Sie Einrückungen, Semikolons oder Kommentare anders verwenden als in Ihrem eigenen Repository, aber es erleichtert dem oder der Betreuer\*in das Zusammenführen, und anderen das Verständnis und die Pflege in der Zukunft.
 
-Wenn dies Ihr erstes Pull Request ist, sehen Sie sich [Make a Pull Request](http://makeapullrequest.com/) an, die @kentcdodds als Video-Tutorial erstellt hat. Sie können auch üben, ein Pull Request in @Roshanjossey\s "[First Contributions](https://github.com/Roshanjossey/first-contributions)"-Repository zu erstellen.
+Wenn dies Ihr erster Pull Request ist, sehen Sie sich [Make a Pull Request](http://makeapullrequest.com/) an, die @kentcdodds als Video-Tutorial erstellt hat. Sie können auch üben, ein Pull Request in @Roshanjossey\s "[First Contributions](https://github.com/Roshanjossey/first-contributions)"-Repository zu erstellen.
 
 ## Was passiert, nachdem Sie einen Beitrag eingereicht haben?
 
@@ -605,7 +605,7 @@ Wenn Sie höflich nachhaken und trotzdem niemand antwortet, könnte dies für im
 
 Es ist üblich, dass Sie aufgefordert werden, Änderungen an Ihrem Beitrag vorzunehmen, z.B. bezüglich des Umfangs Ihrer Idee oder bezüglich Ihres Code.
 
-Wenn jemand Änderungen vorschlägt, reagieren Sie darauf. Der- oder diejenige hat sich die Zeit genommen, Ihren Beitrag zu überprüfen. Ein Pull Request zu eröffnen aber nicht weiterzuverfolgen, ist schlechter Stil. Wenn Sie nicht wissen, wie Sie Änderungen vornehmen sollen, recherchieren Sie dies und bitten um Hilfe, wenn Sie sie brauchen.
+Wenn jemand Änderungen vorschlägt, reagieren Sie darauf. Der- oder diejenige hat sich die Zeit genommen, Ihren Beitrag zu überprüfen. Einen Pull Request zu eröffnen, aber nicht weiterzuverfolgen, ist schlechter Stil. Wenn Sie nicht wissen, wie Sie Änderungen vornehmen sollen, recherchieren Sie dies und bitten um Hilfe, wenn Sie sie brauchen.
 
 Wenn Sie keine Zeit mehr haben, an dem Problem zu arbeiten (zum Beispiel, wenn das Thema seit Monaten vor sich hin brodelt aber sich Ihre Umstände geändert haben), lassen Sie es den Maintainer\*in wissen, damit sie oder er keine Antwort erwartet. Vielleicht übernimmt jemand anderes Ihren Pull Request.
 
