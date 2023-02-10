@@ -143,14 +143,6 @@ Il n'est jamais trop tôt ou trop tard pour commencer à bâtir votre réputatio
 
 Il n'y a pas de solution du jour au lendemain pour créer un public. Gagner la confiance et le respect des autres prend du temps, et bâtir votre réputation ne s'arrête jamais.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS a été publié pour la première fois début 2011. (...) J'ai répandu le mot de la manière habituelle: j'ai tweeté à ce sujet, j'ai écrit des articles sur ce que vous pouviez faire avec, je l'ai mentionné lors de diverses discussions dans les meetups. Quand il est devenu plus connu en 2014, j'ai commencé à faire des présentations à ce sujet.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## Persévèrez !
 
 Cela peut prendre beaucoup de temps avant que les gens remarquent votre projet open source. C'est bon ! Certains des projets les plus populaires aujourd'hui ont pris des années pour atteindre des niveaux d'activité élevés. Concentrez-vous sur l'établissement de relations au lieu d'espérer que votre projet gagnera spontanément en popularité. Soyez patient et continuez à partager votre travail avec ceux qui l'apprécient.

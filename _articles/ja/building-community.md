@@ -224,7 +224,7 @@ README は[単なる手順書以上の存在です](../starting-a-project/#readm
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Atom の Issue に投票システムが存在しない理由の一部は、 Atom チームはあらゆるケースにおいて投票システムを使うわけではないからです。時には、あまり支持されていなくても、正しいと感じることを選ぶ必要があります。（中略）私が提供し、実施すると固く約束するのは…、コミュニティの意見に耳を傾けることが私の仕事であるということです。
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

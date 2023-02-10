@@ -74,16 +74,6 @@ Obecnie wiele osób otrzymuje wynagrodzenie za pracę w niepełnym lub pełnym w
 
 Łatwiej jest uzasadnić pracę z otwartym kodem źródłowym, jeśli twój pracodawca faktycznie korzysta z projektu, ale dobrym pomysłem byłoby kreatywne uzasadnienie swojej prośby. Być może twój pracodawca nie korzysta z projektu, ale używa Pythona, a utrzymanie popularnego projektu w Pythonie pomaga przyciągnąć nowych deweloperów języka Python. Może to sprawić, że twój pracodawca będzie wydawał się bardziej atrakcyjny dla innych programistów.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Jeśli nie masz istniejącego projektu typu open source, nad którym chciałbyś pracować, możesz poprosić swojego pracodawcę aby wydał część wewnętrznego oprogramowania jako open source.
 
 Wiele firm opracowywuje programy typu open source, aby budować swoją markę i rekrutować utalentowanych pracowników.
@@ -136,7 +126,6 @@ Znalezienie sponsorów działa dobrze, jeśli masz już odpowiednią publicznoś
 Kilka przykładów sponsorowanych projektów to:
 
 * **[webpack](https://github.com/webpack)** zbiera pieniądze od firm i osób prywatnych [poprzez OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** jest [finansowany przez Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** organizacja non-profit, która płaci za pracę [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), i inne projekty infrastruktury Ruby
 
 ### Utwórz strumień przychodów

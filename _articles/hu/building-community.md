@@ -225,7 +225,7 @@ Konszenzuskeresési folyamat keretében a közösség tagjai megbeszélik a legf
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Az egyik ok, amiért nem létezik szavazási rendszer az Atom Issues számára az, hogy az Atom csapata nem minden esetben követi a szavazás módszerét. Időnként azt kell választanunk, hogy mit érzünk helyesnek, még akkor is, ha az nem éppen népszerű. (...) Amit felajánlhatok és vállalhatok az, hogy a közösség meghallgatása az én dolgom.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm az [Atom döntési folyamata](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm az Atom döntési folyamata
   </p>
 </aside>
 

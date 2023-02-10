@@ -66,14 +66,6 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 고용주가 프로젝트를 실제로 사용하고 오픈소스 작업에 대한 사례를 만드는 것이 더 쉽지만, 자신의 계획대로 창의력을 발휘하십시오. 어쩌면 고용주가 프로젝트를 사용하지 않고 파이썬을 이용한 인기있는 파이썬 프로젝트를 유지한다면, 새로운 파이썬 개발자를 유치할 수 있습니다. 어쩌면 고용주가 일반적으로 더 개발자 친화적인 것처럼 보일 수도 있습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["메인테이너 이야기"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 기존의 오픈소스 프로젝트가 없지만 현재 작업 결과물이 오픈소스인 경우, 고용주가 내부 소프트웨어의 일부를 스스로 오픈할 수 있는 사례를 작성하십시오.
 
 많은 기업들이 브랜드를 구축하고 우수한 인재를 영입하기 위해 오픈소스 프로그램을 개발하고 있습니다.
@@ -119,7 +111,6 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 스폰서 프로젝트의 몇 가지 예는 다음과 같습니다.
 
 * **[webpack](https://github.com/webpack)** 는 [OpenCollective를 통해](https://opencollective.com/webpack) 회사와 개인에게 돈을 모읍니다
-* **[Vue](https://github.com/vuejs/vue)** 는 [Patreon를 통해 펀드됩니다](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/)는,** [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) 및 기타 Ruby 인프라 프로젝트에 대한 비용을 지불하는 비영리 단체입니다.
 
 ### 수입원 만들기

@@ -143,14 +143,6 @@ Django の共同作者の [@adrianholovaty](https://news.ycombinator.com/item?id
 
 一夜で人々を引きつけるようなやり方はありません。信頼や尊敬を得るには時間がかかりますし、評判を築く事は永遠に終わることはありません。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS は2011年初頭に初めてリリースされました。（中略）私は普通のやり方でメッセージを広めていきました：プロジェクトについてツイートし、人々がこのプロジェクトを使うことでできることについてブログポストを書き、ミートアップの様々な議論で言及しました。2014年にもっと知られるようになった時、プロジェクトについてプレゼンテーションをし始めました。
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## やり続けよう！
 
 人々があなたのオープンソースプロジェクトに気づくまでには時間がかかるかもしれません。それで良いのです！今日最も有名なプロジェクトの中には活発になるまでに何年もかかったものもあります。あなたのプロジェクトが自然と人気を獲得するのを願うのではなく、関係を構築することに集中しましょう。あなたのプロジェクトを喜んでくれる人に対して、辛抱強く、やっていることを伝え続けましょう。

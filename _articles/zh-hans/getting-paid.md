@@ -67,14 +67,6 @@ redirect_from: /zh-cn/getting-paid/
 
 如果你的老板使用到了相应的项目，那么人们找到对应的开源工作就顺理成章，当然这需要你有足够的能力来担当。也有的情况是老板没有使用到相应的开源项目，但是用到了诸如 Python 之类的开源编程语言，那么能够维护流行的开源编程语言项目可以帮助老板吸引到相应的开发者。又或者都不是，那老板也可以获得对开发者友好的口碑。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  就像很多开源项目的故事一样，我花了大量的时间来维护项目。当我第一次开始为开源做事情的时候，我在公司待到很晚才回家。（...)然后我就和老板谈，就开源的任务当作本来的工作来做。
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["一名维护者的故事"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 如果你现在还没有为开源项目做工作，但是你希望你现在所做得成绩开源出来，那么你可以和你的老板讲，奉劝他将内部的软件开源。
 
 很多公司都在开发开源项目，从而能够打造自己的品牌，以及希望雇佣到高质量的人才。
@@ -115,7 +107,6 @@ redirect_from: /zh-cn/getting-paid/
 一些获得组织资助的项目案例：
 
 * **[webpack](https://github.com/webpack),**  [通过 OpenCollective](https://opencollective.com/webpack) 从公司和个人来筹集资金
-* **[Vue](https://github.com/vuejs/vue),** 由 @yyx990803 创建，[通过 Patreon](https://github.com/open-source/stories/yyx990803) 获得资助
 * **[Ruby Together](https://rubytogether.org/),** 由 @indirect 创建的非盈利组织 ，为诸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基础设施项目提供资金支持
 
 尽管开源日渐的流行，但是为项目寻找资金仍处于试验阶段。目前所收集到的包括：
