@@ -3,6 +3,7 @@ on:
   push:
     branches: master
   pull_request: []
+  merge_group:
 jobs:
   tests:
     runs-on: ubuntu-latest
