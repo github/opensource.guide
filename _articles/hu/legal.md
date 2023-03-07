@@ -134,13 +134,13 @@ Ha a céged első nyílt forráskódú projektjének publikálásán dolgozol, a
 
 Hosszabb távon a jogi csapat többet tehet azért, hogy segítsen a vállalatnak profitálni a nyílt forráskódból és közben biztonságban tudhassa magát:
 
-* **Munkavállalói hozzájárulás szabályozása:** Fontold meg olyan vállalati irányelv kidolgozását, amely meghatározza, hogy a munkavállalók hogyan járulnak hozzá a nyílt forráskódú projektekhez. Az egyértelmű szabályozás csökkenti a zavart az alkalmazottak körében, és segít abban, hogy a vállalat érdekeinek megfelelően járuljanak hozzá a nyílt forráskódú projektekhez, akár munkájuk részeként, akár szabadidejükben. Jó példa erre a Rackspace féle [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Munkavállalói hozzájárulás szabályozása:** Fontold meg olyan vállalati irányelv kidolgozását, amely meghatározza, hogy a munkavállalók hogyan járulnak hozzá a nyílt forráskódú projektekhez. Az egyértelmű szabályozás csökkenti a zavart az alkalmazottak körében, és segít abban, hogy a vállalat érdekeinek megfelelően járuljanak hozzá a nyílt forráskódú projektekhez, akár munkájuk részeként, akár szabadidejükben. Jó példa erre a Rackspace féle [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   A (nyílt forráskódú) javítások (patch-ek) szellemi tulajdonának elengedése építi a munkavállaló tudásbázisát és hírnevét. Ez azt mutatja, hogy a vállalat befektet a munkavállaló fejlődésébe, valamint erősíti az önállóság és autonómia érzését. Mindezek magasabb morálhoz és a jobb munkavállalók megtartáshoz is vezetnek.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
