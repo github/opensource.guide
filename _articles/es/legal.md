@@ -139,13 +139,13 @@ Si est&aacute;s lanzando el primer proyecto de c&oacute;digo abierto de tu empre
 
 A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a obtener su participaci&oacute;n en c&oacute;digo abierto y mantenerse a salvo:
 
-* **Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Liberar el IP asociado con un parche genera la base de conocimientos y la reputaci&oacute;n del empleado. Demuestra que la empresa invierte en el desarrollo del empleado y crea un sentido de autonom&iacute;a y autonom&iacute;a. Todos estos beneficios tambi&eacute;n conducen a una mayor moral y mejor retenci&oacute;n de empleados.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
      </p>
 </aside>
 
