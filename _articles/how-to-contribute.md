@@ -370,6 +370,20 @@ A project that is friendly and welcoming signals that they will be receptive to 
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
+## Finding Good First Issues
+Good first issues are issues on an open source project that are specifically tagged or labeled to indicate that they are ideal for new contributors who are looking to get started with contributing to the project. These issues are typically smaller in scope and complexity, making them easier to understand and complete, and they may also come with detailed instructions or guidance on how to approach them.
+
+Finding good first issues can be a great way to start contributing to an open source project. Here are a few ways to find them:
+
+Check the project's issue tracker: Many open source projects use issue trackers like GitHub Issues to manage their development. Look for issues labeled with "good first issue," "beginner-friendly," "help wanted," or similar tags.
+
+Look for projects that explicitly list good first issues: Some projects maintain a list of issues specifically tailored to new contributors. Look for pages on the project's website or in its documentation that list these issues.
+
+Use tools like GitHub's "Explore" feature: GitHub has a feature called "Explore" that lets you search for projects based on different criteria, including labels like "good first issue" or "help wanted."
+
+Ask for recommendations: If you know people in the open source community or are part of a group or forum related to the project, ask for recommendations for good first issues to work on.
+
+When you've found a good first issue to work on, make sure to read the instructions carefully, ask questions if you're unsure, and follow the project's contribution guidelines. Remember that the goal of working on a good first issue is to learn and get more involved in the project, so don't be afraid to ask for help or guidance along the way.
 
 ## How to submit a contribution
 
