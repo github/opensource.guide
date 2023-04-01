@@ -29,6 +29,7 @@ related:
 
 untranslated:
   type: TrueClass
+start
 
 redirect_from:
   type: String

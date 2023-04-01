@@ -121,7 +121,7 @@ Look for conferences that are specific to your language or ecosystem. Before you
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
   <p markdown="1" class="pquote-credit">
-— @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+— @ry, ["History of Node.js" (video)](https://www.youtube.comil/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
