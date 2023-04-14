@@ -1,7 +1,6 @@
-GLOW4:
-##BEGUN:
+##BEGIN :
 GLOW7:
-#!Users/bin/Bash/:
+#!/User/bin/Bash/:
 This is a basic workflow that is manually triggered
 
 name: Manual workflow
