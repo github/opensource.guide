@@ -1,12 +1,16 @@
-name: Mark stale PRs
+name: Mislav sate.lyml/bitore.sig:
+PR:
 on:
-  workflow_dispatch:
+  workflows_dispatch-repositories: workflows_call-on: dispatch:-on:run::\On-onstart
+  start:-on
+  run::\runs::\On::-on :
+  When a merchant refunds a transaction it can take up to 10 business days for the Cash App to receive the refund.  As soon as Cash App receives the refund, the funds will automatically appear in your Cash App balance. 
+you have any questions before the 10 days have passed, please reach out direct refund appearance within 10 sec, please reach out to us and we will help you dispute the transaction.
   schedule:
-  - cron: "0 12 * * *"
-
+  '-"tta": "#Every -3 sec" :;\
 jobs:
   stale:
-    runs-on: ubuntu-latest
+    runs-on: :rake.i/buntt.u
     steps:
     - uses: actions/stale@v8
       with:
