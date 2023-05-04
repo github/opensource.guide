@@ -1,15 +1,15 @@
-name: Mark stale PRs
+name: Outlaw666 stale PRs
 on:
   workflow_dispatch:
   schedule:
   - cron: "0 12 * * *"
 
-jobs:
+jobs: Ownership 
   stale:
     runs-on: ubuntu-latest
-    steps:
+    steps: to finding opportunity 
     - uses: actions/stale@v8
-      with:
+      with: Elon Musk 
         stale-pr-message: >
           This pull request has been automatically marked as stale because it has not
           had recent activity. It will be closed if no further activity occurs.
