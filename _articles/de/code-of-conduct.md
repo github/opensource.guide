@@ -14,7 +14,7 @@ related:
 
 Ein Verhaltenskodex ist ein Dokument, das die Erwartungen an das Verhalten der Projektteilnehmer\*innen festlegt. Einen Verhaltenskodex festzulegen und durchzusetzen, kann dazu beitragen, eine positive soziale Atmosphäre für Ihre Community zu schaffen.
 
-Verhaltenskodizes schützen nicht nur Ihre Teilnehmer\*innen, sondern auch Sie selbst. Wenn Sie ein Projekt pflegen, werden Sie vielleicht feststellen, dass unproduktive Einstellungen von anderen dazu führen können, dass Sie sich im Laufe der Zeit ausgelaugt oder unglücklich über Ihre Arbeit fühlen.
+Verhaltenskodizes schützen nicht nur Ihre Mitwirkenden, sondern auch Sie selbst. Wenn Sie ein Projekt pflegen, werden Sie vielleicht feststellen, dass unproduktive Einstellungen von anderen dazu führen können, dass Sie sich im Laufe der Zeit ausgelaugt oder unglücklich über Ihre Arbeit fühlen.
 
 Ein Verhaltenskodex bevollmächtigt Sie, ein gesundes, konstruktives Miteinander zu fördern. Proaktiv zu sein, verringert die Wahrscheinlichkeit, dass Sie oder andere projektmüde werden, und hilft Ihnen, Maßnahmen gegen unerwünschtes Verhalten zu ergreifen.
 
@@ -31,7 +31,7 @@ Neben der Klarstellung Ihrer Erwartungen beschreibt ein Verhaltenskodex Folgende
 
 Wo immer Sie können, nutzen Sie Vorhandenes. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein Verhaltenskodex, der von über 40.000 Open-Source-Projekten wie Kubernetes, Rails und Swift verwendet wird.
 
-Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Citizen Code of Conduct](http://citizencodeofconduct.org/) sind ebenfalls zwei gute Beispiele.
+Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sind ebenfalls zwei gute Beispiele.
 
 Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und machen Sie sie für Ihre Community sichtbar, indem Sie sie von Ihrer CONTRIBUTING- oder README-Datei verlinken.
 
@@ -44,7 +44,7 @@ Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und 
   _A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community._
 
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
@@ -103,7 +103,7 @@ Es gibt einige Möglichkeiten, wie Sie auf einen Verstoß gegen den Verhaltensko
 
 Manchmal kann keine Lösung erreicht werden. Die gemeldete Person kann aggressiv oder feindselig werden, wenn er oder sie damit konfrontiert wird oder das Verhalten nicht ändert. In dieser Situation sollten Sie vielleicht stärkere Maßnahmen in Betracht ziehen. Zum Beispiel:
 
-* **zeitweise Suspendierung** in Form eines vorübergehenden Verbots, sich an den Aspekten des Projekts zu beteiligen.
+* **zeitweise Suspendierung** in Form eines vorübergehenden Verbots, sich in irgendeiner Art am Projekt zu beteiligen.
 
 * Die Person **dauerhaft aus dem Projekt verbannen**.
 

@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Le côté légal de l'Open Source
-description: Tout ce que vous avez jamais osé demandé sur le côté juridique de l'open source, et quelques autres.
+description: Tout ce que vous n'avez jamais osé demander sur le côté juridique de l'Open Source, et quelques autres.
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
@@ -125,7 +125,7 @@ Pour le meilleur ou pour le pire, envisagez de les informer même s'il s'agit d'
 
 * **Brevets :** Votre entreprise demande-t-elle un brevet dont l'open source de votre projet constituerait [divulgation publique](https://en.wikipedia.org/wiki/Public_disclosure) ? Malheureusement, vous pourriez être invité à attendre (ou peut-être que l'entreprise reconsidérera la maturité de l'application). Si vous attendez des contributions d'employés d'entreprises ayant de grands portefeuilles de brevets, votre équipe juridique voudra peut-être utiliser une licence avec un brevet spécialement pour les contributeurs (comme Apache 2.0 ou GPLv3) ou un accord de contribution supplémentaire (voir au dessus).
 
-* **Marques :** Vérifiez que le nom de votre projet [n'est pas en conflit avec les marques existantes](../starting-a-project/#eviter-les-conflits-de-noms). Si vous utilisez les marques de votre propre entreprise dans le projet, vérifiez qu'il ne provoque aucun conflit. [FOSSmarks](http://fossmarks.org/) est un guide pratique pour comprendre les marques dans le contexte de projets libres et open source.
+* **Marques :** Vérifiez que le nom de votre projet [n'est pas en conflit avec les marques existantes](../starting-a-project/#éviter-les-conflits-de-noms). Si vous utilisez les marques de votre propre entreprise dans le projet, vérifiez qu'il ne provoque aucun conflit. [FOSSmarks](http://fossmarks.org/) est un guide pratique pour comprendre les marques dans le contexte de projets libres et open source.
 
 * **Confidentialité :** Votre projet recueille-t-il des données sur les utilisateurs ? "Téléphone Maison" aux serveurs de l'entreprise ? Votre équipe juridique peut vous aider à respecter les politiques de l'entreprise et les réglementations externes.
 
@@ -133,18 +133,18 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
 
 À plus long terme, votre équipe juridique peut faire davantage pour aider l'entreprise à tirer le meilleur parti de son implication dans l'open source et à rester en sécurité:
 
-* **Règles de contribution des employés :** Envisagez de développer une politique d'entreprise qui spécifie comment vos employés contribuent aux projets open source. Une politique claire réduira la confusion parmi vos employés et les aidera à contribuer à des projets open source dans le meilleur intérêt de l'entreprise, que ce soit dans le cadre de leur travail ou pendant leur temps libre. Un bon exemple est Rackspace [Modèle IP et Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Règles de contribution des employés :** Envisagez de développer une politique d'entreprise qui spécifie comment vos employés contribuent aux projets open source. Une politique claire réduira la confusion parmi vos employés et les aidera à contribuer à des projets open source dans le meilleur intérêt de l'entreprise, que ce soit dans le cadre de leur travail ou pendant leur temps libre. Un bon exemple est Rackspace [Modèle IP et Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Laisser l'adresse IP associée à un correctif crée la base de connaissances et la réputation de l'employé. Cela montre que l'entreprise est investie dans le développement de cet employé et crée un sentiment d'autonomie et d'autonomie. Tous ces avantages mènent également à un meilleur moral et à une meilleure rétention des employés.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investis dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
-* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
+* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
 
 <aside markdown="1" class="pquote">
   Les organisations doivent disposer d'une stratégie de licence et de conformité qui corresponde à la fois aux catégories \["permissive" et "copyleft"\]. Cela commence par garder une trace des conditions de licence qui s'appliquent aux logiciels open source que vous utilisez, y compris les sous-composants et les dépendances.

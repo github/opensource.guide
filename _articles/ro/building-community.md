@@ -3,10 +3,6 @@ lang: ro
 title: Clădirea comunităților primitoare
 description: Construirea unei comunități care încurajează oamenii să folosească, să contribuie la, și să promoveze proiectul tău
 class: building
-toc:
-  setting-your-project-up-for-success: "Configurarea proiectului tău pentru succes"
-  growing-your-community: "Dezvoltarea comunității tale"
-  resolving-conflicts: "Rezolvarea conflictelor"
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -72,7 +68,7 @@ Majoritatea contributorilor la sursă deschisă sunt „contributori ocazionali�
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -204,7 +200,7 @@ Vezi dacă poți găsi moduri de a împărți proprietatea cu comunitatea ta câ
 
 * Dacă proiectul tău este pe GitHub, **mută-ți proiectul din contul tău personal într-o [Organizație](https://help.github.com/articles/creating-a-new-organization-account/)** și adaugă cel puțin un administrator de rezervă. Organizațiile fac mai ușor să lucrezi pe proiecte cu colaboratori externi.
 
-Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprints/1233.pdf) unul sau doi întreținători care fac cea mai multă muncă. Cu cât mai mare este proiectul tău, și mai mare comunitatea ta, cu atât mai ușor este să găsești ajutor.
+Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprints/1233/) unul sau doi întreținători care fac cea mai multă muncă. Cu cât mai mare este proiectul tău, și mai mare comunitatea ta, cu atât mai ușor este să găsești ajutor.
 
 În timp ce poate tu nu găsești întotdeauna pe cineva să răspundă la apel, punând un semnal acolo crește șansele ca alți oameni să intre pe teren. Și cu cât începi mai devreme, cu atât mai devreme oamenii pot ajuta.
 
@@ -248,7 +244,7 @@ Slujba ta în calitate de întreținător este să ferești aceste situații de 
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -281,7 +277,7 @@ Uneori, votarea este o departajare necesară. Totuși, cât de mult poți, accen
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @lee-dohm privind [procesul de luare a deciziilor al Atom](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm privind procesul de luare a deciziilor al Atom
   </p>
 </aside>
 

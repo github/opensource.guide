@@ -176,7 +176,7 @@ CONTRIBUTING ファイルはあなたのプロジェクトにどうやって参�
 
 > まずはじめに、 Active Admin へのコントリビュートを考えてくれてありがとうございます。あなたのような人々が Active Admin を偉大なツールにしているのです。
 
-あなたのプロジェクトの最初期では、 CONTRIBUTING ファイルはシンプルで大丈夫です。常にバグの報告の仕方かイシューの登録の仕方、コントリビュートをする際の技術的な要求（テストなど）を書くようにしましょう。
+あなたのプロジェクトの最初期では、 CONTRIBUTING ファイルはシンプルで大丈夫です。常にバグの報告の仕方かイシューの登録の仕方、コントリビュートをする際の技術的な要求（テストなど）を書くようにしましょう。
 
 時間が経つにつれて、 CONTRIBUTING ファイルに頻繁に聞かれる質問を加えるでしょう。こういった情報を書くことによって、同じ質問を何度も繰り返ししてくる人が減っていくでしょう。
 
@@ -243,13 +243,13 @@ README に CONTRIBUTING ファイルへのリンクをすることで、より�
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   メーリングリストのすべてのスレッドに関わるようにしましたし、模範的な行動を示し、人々に親切にし、イシューを真剣に捉え、何より助けになるようにしました。しばらくすると、人々は質問をするだけでなく、質問に答えたり、何よりも嬉しいことに私のスタイルを真似してくれたのです。
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
 暖かく、排他的でない言葉遣い（一人の人を指すときであっても「彼ら」を使う、といったような）をすることで、あなたのプロジェクトで新しいコントリビューターが歓迎されていると感じてもらうことに繋がります。シンプルな言葉遣いをすることにこだわりましょう。あなたのプロジェクトを見る人の多くは英語のネイティブスピーカーではないかもしれません。
 
-あなたがどう文書を書くかに加えて、あなたのコーディングスタイルもプロジェクトのブランドの一分になるかもしれません。 [Angular](https://github.com/johnpapa/angular-styleguide) と [jQuery](https://contribute.jquery.org/style-guide/js/) の2つは厳密なコーディングスタイルとガイドラインを持つプロジェクトの例です。
+あなたがどう文書を書くかに加えて、あなたのコーディングスタイルもプロジェクトのブランドの一部になるかもしれません。 [Angular](https://github.com/johnpapa/angular-styleguide) と [jQuery](https://contribute.jquery.org/style-guide/js/) の2つは厳密なコーディングスタイルとガイドラインを持つプロジェクトの例です。
 
 かならずしもプロジェクトを始める際にスタイルガイドを書く必要はありませんし、とにかく異なるコーディングスタイルを盛り込むのが楽しいと思うかもしれません。しかし、あなたの文書やコーディングスタイルが異なるタイプの人々を惹きつけることもあれば落胆させることもあるということを予期しておくべきです。プロジェクトの最初期はあなたが望む先例を作る良い機会です。
 

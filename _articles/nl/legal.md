@@ -3,14 +3,6 @@ lang: nl
 title: De juridische kant van open source
 description: Alles wat je je ooit hebt afgevraagd over de juridische kant van open source, en een paar dingen die je niet deed.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Waarom geven mensen zoveel om de juridische kant van open source?"
-  are-public-github-projects-open-source: "Zijn openbare GitHub-projecten open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Geef me gewoon de TL;DR over wat ik nodig heb om mijn project te beschermen"
-  which-open-source-license-is-appropriate-for-my-project: "Welke open source-licentie is geschikt voor mijn project?"
-  what-if-i-want-to-change-the-license-of-my-project: "Wat moet ik doen als ik de licentie van mijn project wil wijzigen?"
-  does-my-project-need-an-additional-contributor-agreement: "Heeft mijn project een aanvullende contribuantenovereenkomst nodig?"
-  what-does-my-companys-legal-team-need-to-know: "Wat moet het juridische team van mijn bedrijf weten?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -147,7 +139,7 @@ Als u het eerste open source-project van uw bedrijf uitbrengt, is het bovenstaan
 
 Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen meer uit zijn betrokkenheid bij open source te halen en veilig te blijven:
 
-* **Beleid inzake werknemersbijdragen:** Overweeg om een ​​bedrijfsbeleid te ontwikkelen dat aangeeft hoe uw werknemers bijdragen aan open source-projecten. Een duidelijk beleid zal de verwarring onder uw medewerkers verminderen en hen helpen bij te dragen aan open source-projecten in het belang van het bedrijf, zowel als onderdeel van hun baan als in hun vrije tijd. Een goed voorbeeld is Rackspace's [Model IP and Open Source Contribution Policy] (https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Beleid inzake werknemersbijdragen:** Overweeg om een ​​bedrijfsbeleid te ontwikkelen dat aangeeft hoe uw werknemers bijdragen aan open source-projecten. Een duidelijk beleid zal de verwarring onder uw medewerkers verminderen en hen helpen bij te dragen aan open source-projecten in het belang van het bedrijf, zowel als onderdeel van hun baan als in hun vrije tijd. Een goed voorbeeld is Rackspace's [Model IP and Open Source Contribution Policy] (https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -156,12 +148,12 @@ Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen 
   _Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention._
 
   <p markdown="1" class="pquote-credit">
-— @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Wat vrij te geven:** [(Bijna) alles?] (Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Als uw juridische team het begrijpt en geïnvesteerd in de open source-strategie van uw bedrijf, zullen ze u het beste kunnen helpen in plaats van hinderen.
-* **Naleving:** Zelfs als uw bedrijf geen open source-projecten vrijgeeft, gebruikt het open source-software van anderen. [Bewustwording en proces](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) kan hoofdpijn, productvertragingen, en rechtszaken voorkomen.
+* **Naleving:** Zelfs als uw bedrijf geen open source-projecten vrijgeeft, gebruikt het open source-software van anderen. [Bewustwording en proces](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) kan hoofdpijn, productvertragingen, en rechtszaken voorkomen.
 
 <aside markdown="1" class="pquote">
   Organisaties moeten een licentie- en nalevingsstrategie hebben die past in de categorieën \["tolerant" en "copyleft"\]. Dit begint met het bijhouden van de licentievoorwaarden die van toepassing zijn op de open source-software die u gebruikt, inclusief subcomponenten en afhankelijkheden.

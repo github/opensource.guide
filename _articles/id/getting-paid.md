@@ -66,14 +66,6 @@ Saat ini, banyak orang dibayar untuk bekerja secara paruh waktu atau penuh pada 
 
 Akan lebih mudah untuk mendiskusikan proyek open source jika yang mempekerjakan Anda menggunakan proyek tersebut, tetapi tetap kreatiflah dalam usaha negosiasi Anda. Mungkin mereka tidak menggunakan proyek tersebut, tetapi mereka menggunakan Python, dan mengelola proyek Python yang populer akan membantu mengundang pengembang Python yang baru. Mungkin hal ini membuat perusahaan Anda lebih ramah terhadap pengembang secara umum.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Seperti halnya yang lain pada open source, saya mendapatkan masalah dengan beban mengelola sebuah proyek. Ketika saya pertama kalinya melakukan open source, saya biasa lembur untuk mengerjakannya atau ketika saya pulang ke rumah. (...) Saya mampu mendiskusikannya dengan pimpinan saya tentang isu yang saya alami dan kami mendapatkan ide tentang bagaimana kami dapat menyertakan tugas open source pada penggunaan Babel kami sendiri.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Jika Anda tidak memiliki proyek open source yang ingin Anda kerjakan, tetapi Anda berharap pekerjaan Anda saat ini dibuat dalam bentuk open source, ajukan ke perusahaan Anda untuk membuka perangkat lunak internal mereka pada open source.
 
 Banyak perusahaan mengembangkan program open source untuk membangun citra mereka dan merekrut talenta berkualitas.
@@ -101,6 +93,7 @@ Proyek-proyek yang berasal dari perusahaan besar, seperti [Go](https://github.co
 
 Akhirnya, melihat dari kondisi pribadi Anda, Anda bisa mencoba mengumpulkan uang secara mandiri untuk mendanai proyek open source Anda. Sebagai contoh:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon mendanai pekerjaannya pada [Redux](https://github.com/reactjs/redux) melalui [kampanye Patreon crowdfunding](https://redux.js.org/)
 * @andrewgodwin mendanai pekerjaan pada migrasi skema Django [melalui kampanye Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -117,7 +110,6 @@ Seiring dengan popularitas open source, menemukan pendanaan untuk proyek masih b
 Mencari sponsor bisa dilakukan jika Anda memiliki pengguna atau reputasi yang kuat, atau proyek Anda sangat populer. Beberapa proyek yang disponsori meliputi:
 
 * **[webpack](https://github.com/webpack)** mendapatkan pendanaan dari perusahaan dan perseorangan [melalui OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** [didanai melalui Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** organisasi nirlaba yang membayar untuk bekerja pada [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan proyek infrastruktur Ruby lainnya.
 
 ### Menciptakan pendapatan
@@ -128,7 +120,7 @@ Anda mungkin memberikan tambahan biaya untuk dukungan komersial, opsi hosting, a
 * **[Travis CI](https://github.com/travis-ci)** menawarkan versi berbayar untuk produknya
 * **[Ghost](https://github.com/TryGhost/Ghost)** bersifat nirlaba dengan layanan pembayaran
 
-Beberapa proyek yang populer, seperti [npm](https://github.com/npm/npm) dan [Docker](https://github.com/docker/docker), bahkan mengajukan pendanaan pada venture capital untuk mendukung pertumbuhan bisnisnya.
+Beberapa proyek yang populer, seperti [npm](https://github.com/npm/cli) dan [Docker](https://github.com/docker/docker), bahkan mengajukan pendanaan pada venture capital untuk mendukung pertumbuhan bisnisnya.
 
 ### Mengajukan hibah pendanaan
 

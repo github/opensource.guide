@@ -3,13 +3,6 @@ lang: nl
 title: Hoe u kunt bijdragen aan Open Source
 description: Wil je bijdragen aan open source? Een gids voor het maken van open source-bijdragen, voor beginners en veteranen.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Waarom bijdragen aan open source?"
-  what-it-means-to-contribute: "Wat het betekent om bij te dragen"
-  orienting-yourself-to-a-new-project: "Je oriënteren op een nieuw project"
-  finding-a-project-to-contribute-to: "Een project vinden om aan bij te dragen"
-  how-to-submit-a-contribution: "Hoe u een bijdrage kunt indienen"
-  what-happens-after-you-submit-a-contribution: "Wat gebeurt er nadat u een bijdrage heeft ingeleverd?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -83,17 +76,6 @@ Een veel voorkomende misvatting over bijdragen aan open source is dat je code mo
 </aside>
 
 Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige manier om bij een project betrokken te raken en andere leden van de gemeenschap te ontmoeten. Door die relaties op te bouwen, krijg je de kans om aan andere delen van het project te werken.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Ik nam voor het eerst contact op met het Python-ontwikkelingsteam (ook bekend als python-dev) toen ik de mailinglijst op 17 juni 2002 e-mailde over het accepteren van mijn patch. Ik ontdekte snel de open source-bug en besloot om e-mailsamenvattingen voor de groep te gaan beheren. Ze gaven me een geweldig excuus om opheldering over een onderwerp te vragen, maar kritischer merkte ik dat iemand op iets wees dat moest worden opgelost.
-  
-  _I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing._
-  
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### Houd je van het plannen van evenementen?
 
@@ -229,7 +211,7 @@ U kunt een README lezen en een incorrecte link of typefout vinden. Of je bent ee
 
 > [28% van de losse bijdragen](https://www.igor.pro.br/publica/papers/saner2016.pdf) aan open source zijn documentatie, zoals een typefout, herformattering of het schrijven van een vertaling.
 
-Als u op zoek bent naar bestaande problemen die u kunt oplossen, heeft elk open source-project een '/ contribute'-pagina die beginnersvriendelijke problemen belicht waarmee u kunt beginnen. Navigeer naar de hoofdpagina van de repository op GitHub en voeg '/ contribute' toe aan het einde van de URL (bijvoorbeeld [`https://github.com/facebook/react/contribute`](https://github.com/facebook/contribute/contribute)).
+Als u op zoek bent naar bestaande problemen die u kunt oplossen, heeft elk open source-project een '/ contribute'-pagina die beginnersvriendelijke problemen belicht waarmee u kunt beginnen. Navigeer naar de hoofdpagina van de repository op GitHub en voeg '/ contribute' toe aan het einde van de URL (bijvoorbeeld [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
 U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekken van en bijdragen aan nieuwe projecten:
 
@@ -241,7 +223,7 @@ U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekke
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Een checklist voordat u bijdraagt
 

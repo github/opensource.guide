@@ -134,18 +134,18 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
 
 長期的には、法務部門は企業がオープンソースに関わることでより多くのことを安全に獲得する助けとなります：
 
-* **従業員のコントリビュートポリシー：** 従業員がどのようにオープンソースにコントリビュートするかを定めた社内規約を作ることを検討しましょう。明確な規約を作ることで従業員同士の混乱も減りますし、従業員に対して企業が最も関心のあるオープンソースプロジェクトに業務の一環であれ空き時間でコントリビュートする手助けにもなります。 Rackspace の [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) が良い例です。
+* **従業員のコントリビュートポリシー：** 従業員がどのようにオープンソースにコントリビュートするかを定めた社内規約を作ることを検討しましょう。明確な規約を作ることで従業員同士の混乱も減りますし、従業員に対して企業が最も関心のあるオープンソースプロジェクトに業務の一環であれ空き時間でコントリビュートする手助けにもなります。 Rackspace の [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) が良い例です。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   パッチに関連した知的財産を手放すことで従業員の知識ベースと名声を築く事ができます。そうすることで、その企業は従業員の能力を高め、自律的に働くことに投資していることを示すことができます。こういったメリットは、モラルの向上や従業員の維持にも繋がります。
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **何をリリースすべきですか？：** [(ほぼ)すべて？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) もし法務部門が企業のオープンソース戦略を理解し、それに投資している場合は、あなたの努力を妨害するよりもむしろ助けとなってくれるでしょう。
-* **コンプライアンス：** たとえあなたの企業が 1 つもオープンソースプロジェクトをリリースしていないとしても、他の人のオープンソースソフトウェアを使っているはずです。 [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
+* **コンプライアンス：** たとえあなたの企業が 1 つもオープンソースプロジェクトをリリースしていないとしても、他の人のオープンソースソフトウェアを使っているはずです。 [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
 
 <aside markdown="1" class="pquote">
 組織は、\[「寛容」と「コピーレフト」\]の両方のカテゴリにフィットするライセンス戦略、コンプライアンス戦略を確立しなければなりません。まずは使っているオープンソースソフトウェアとそのサブコンポーネント、依存関係に適用されているライセンス条項の記録を保持する所から始めましょう。

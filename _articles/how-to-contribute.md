@@ -3,13 +3,6 @@ lang: en
 title: How to Contribute to Open Source
 description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
-toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -78,14 +71,6 @@ A common misconception about contributing to open source is that you need to con
 </aside>
 
 Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### Do you like planning events?
 
@@ -230,7 +215,7 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### A checklist before you contribute
 
@@ -249,7 +234,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the master branch. On GitHub, you can see this information on a repository's homepage.
+Look at the commit activity on the main branch. On GitHub, you can see this information on a repository's homepage.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -410,7 +395,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 >
 > 😢 _"X is broken! Please fix it."_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you're trying to learn.
+**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate it when you demonstrate that you're trying to learn.
 
 > 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
 >
@@ -485,7 +470,7 @@ You should usually open a pull request in the following situations:
 * Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 * Start work on a contribution that was already asked for, or that you've already discussed, in an issue
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just open it as a "draft" or mark as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
 
 If the project is on GitHub, here's how to submit a pull request:
 

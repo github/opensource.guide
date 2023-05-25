@@ -3,12 +3,6 @@ lang: ms
 title: Memulakan Projek Sumber Terbuka
 description: Ketahui lebih lanjut mengenai dunia sumber terbuka dan bersiap sedia untuk melancarkan projek anda sendiri.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "Apa dan mengapa sumber terbuka"
-  should-i-launch-my-own-open-source-project: "Sekiranya saya melancarkan projek sumber terbuka saya sendiri?"
-  launching-your-own-open-source-project: "Melancarkan projek sumber terbuka anda sendiri"
-  naming-and-branding-your-project: "Menamakan dan menjenamakan projek anda"
-  your-pre-launch-checklist: "Senarai semak pra-pelancaran anda"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -249,7 +243,7 @@ Sama ada dokumentasi rasmi atau e-mel biasa, gaya penulisan anda adalah sebahagi
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Saya cuba terlibat dengan setiap urutan dalam senarai mel, dan menunjukkan tingkah laku teladan, bersikap baik kepada orang lain, memandang serius masalah mereka dan berusaha untuk membantu secara keseluruhan. Selepas beberapa ketika, orang-orang tidak hanya bertanya, tetapi membantu menjawabnya, dan dengan rasa gembira saya, mereka meniru gaya saya.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

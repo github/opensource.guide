@@ -30,7 +30,7 @@ redirect_from: /zh-tw/building-community/
 * **讓大家很容易上手。** [一份好閱讀的 README](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-02.md#編寫readme)以及清晰的程式碼範例，讓大家很容易的上手。
 * **清楚的說明該如何貢獻**，使用[你的CONTRIBUTING file](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-02.md#編寫你的貢獻指南)並持續更新issues。
 
-在 [GitHub 2017 開源調查報告](http://opensourcesurvey.org/2017/)中指出，令人困惑或不完整的說明文件是開源使用者最大的困擾，好的說明文建會吸引人們與專案互動。總有一天，會有人開啟一個 issue 或 PR。盡量使用這些工具讓人們有機會朝漏斗的下方邁進。
+在 [GitHub 2017 開源調查報告](http://opensourcesurvey.org/2017/)中指出，令人困惑或不完整的說明文件是開源使用者最大的困擾，好的說明文件會吸引人們與專案互動。總有一天，會有人開啟一個 issue 或 PR。盡量使用這些工具讓人們有機會朝漏斗的下方邁進。
 
 * **當有人選擇了你們的專案，記得對他們表示謝意！** 因為可能只是一次不愉快的經歷，就足以讓一些人再也不想回來。
 * **及時回應。** 如果一個月都沒有回答他們的 issue，他們可能也早就忘記了你們的專案。
@@ -56,7 +56,7 @@ redirect_from: /zh-tw/building-community/
   你是否參加過一個（技術）活動，你不認識在場的人，但似乎每個人都在自己的小組裡像老朋友一樣聊天？（…）現在想像，你想為一個開源專案做貢獻，但是你不知道為什麼這樣是辦得到的。
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["持續發展開源"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["持續發展開源"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -170,7 +170,7 @@ redirect_from: /zh-tw/building-community/
 
 * 如果專案是放在 GitHub 上，那麼 **將專案從你們的個人賬號轉移到一個[組織](https://help.github.com/articles/collaborating-with-groups-in-organizations/)**，加入至少一個備份管理員。組織能讓社群與來自外界的貢獻，彼此協作的工作變得更加容易。
 
-事實上很多專案[只有一個或者兩個維護者](https://peerj.com/preprints/1233.pdf)去做大部分的工作。隨著社群變得越來越大，就會有更多的人參與進來。
+事實上很多專案[只有一個或者兩個維護者](https://peerj.com/preprints/1233/)去做大部分的工作。隨著社群變得越來越大，就會有更多的人參與進來。
 
 雖然並不是一直都有人在回答問題，但是你可以去試著增加一些機會，讓他人有能夠參與的機會，越是儘早開始，越是能夠獲得幫助。
 
@@ -201,7 +201,7 @@ redirect_from: /zh-tw/building-community/
   作為一名維護者，尊重你們的貢獻者是一件重要的事。他們經常會感情用事的去看待你的意見。
 
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["保持和善，要麼滾蛋"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["保持和善，要麼滾蛋"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -229,7 +229,7 @@ README [不僅僅是指導手冊](../starting-a-project/#編寫自述文件)。�
 Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊並不會遵循投票的結果。有時我們必須選擇我們認為是對的事，即使它不是主流看法。（...）我能做的是傾聽社群的意見，這也是我能保證提供的服務。
 
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 決策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom 決策流程
   </p>
 </aside>
 

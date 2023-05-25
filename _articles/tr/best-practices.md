@@ -3,13 +3,6 @@ lang: tr
 title: Geliştiriciler İçin Örnek Yöntemler
 description: Belgelendirme işlemlerinden topluluğunuzu güçlendirmeye kadar açık bir kaynak geliştiricisi olarak hayatınızı kolaylaştırın.
 class: best-practices
-toc:
-  what-does-it-mean-to-be-a-maintainer: Geliştirici olmak ne demektir?
-  documenting-your-processes: İşlemlerinizi belgeleme
-  learning-to-say-no: Hayır demeyi öğrenme
-  leverage-your-community: Topluluğunuzdan yararlanma
-  bring-in-the-robots: Robotları kullanın
-  its-okay-to-hit-pause: Duraklatmak sorun değildir
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -244,7 +237,7 @@ Bakım çalışmalarının bazı yönlerini otomatikleştirmeye yardımcı olaca
 * [mention-bot](https://github.com/facebook/mention-bot) PR talepleri için potansiyel denetçilerden bahseder
 * [Danger](https://github.com/danger/danger) kod incelemesini otomatikleştirmeye yardımcı olur
 * [no-response](https://github.com/probot/no-response) geliştiricilerin uzun süre yanıt vermediği sorunları kapatır
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
+* [dependabot](https://github.com/dependabot) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
 
 Hata raporları ve diğer genel katkılar için GitHub, aldığınız iletişimi kolaylaştırmak için oluşturabileceğiniz [Sorun Şablonlarına ve PR İsteği Şablonlarına](https://github.com/blog/2111-issue-and-pull-request-templates) sahiptir. @TalAter sorununuzu ve PR şablonlarınızı yazmanıza yardımcı olmak için [Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/) rehberini geliştirdi.
 
@@ -272,7 +265,7 @@ Tıpkı diğer tüm işlerde olduğu gibi, düzenli molalar vermek de işinizi y
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   WP-CLI’yı geliştirirken, önce kendimi mutlu etmem gerektiğini ve katılımım konusunda net sınırlar koymam gerektiğini keşfettim. Bulduğum en iyi denge, normal çalışma programımın bir parçası olarak haftada 2-5 saat. Bu benim katılımımı bir tutku olarak kalmasını sağlıyor ve iş gibi hissetmekten koruyor. Üzerinde çalıştığım konulara öncelik verdiğim için, en önemli olduğunu düşündüğüm konuda düzenli ilerleme sağlayabiliyorum.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

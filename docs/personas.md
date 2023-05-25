@@ -10,7 +10,7 @@
 
 * Sees self as ultimate decisionmaker
 
-* Still building community reputation
+* Still building a community reputation
 
 * Has never open sourced a project before
 
@@ -84,7 +84,7 @@
 
 * Likely feels some sense of ownership over the project ("We are open sourcing this project to the community")
 
-* Company plays a clear role in decisionmaking
+* Company plays a clear role in decision making
 
 * May not have open sourced a project before
 

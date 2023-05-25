@@ -54,7 +54,7 @@ Mendorong kontributor lain adalah sebuah investasi pada diri Anda juga. Ketika A
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Apakah Anda pernah menghadiri sebuah acara dimana Anda tidak mengenal siapapun, tetapi orang lain tampak saling mengenal satu sama lain dan berbicara seperti sahabat dekat? (...) Sekarang bayangkan Anda ingin berkontribusi pada proyek open source, namun Anda tidak dapat melihat kenapa dan bagaimana ini bisa terjadi.
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -168,7 +168,7 @@ Cari cara untuk bisa berbagi kepemilikan dengan komunitas Anda sebanyak mungkin.
 
 * Jika proyek Anda berada pada GitHub, **pindahkan proyek Anda dari akun personal ke [Organisasi](https://help.github.com/articles/creating-a-new-organization-account/)** dan tambahkan paling tidak satu admin cadangan. Organisasi mempermudah pekerjaan kolaborasi dengan kolaborator eksternal.
 
-Kenyataannya adalah [sebagian besar proyek hanya memiliki](https://peerj.com/preprints/1233.pdf) satu atau dua pengeloa yang melakukan sebagian besar pekerjaan. Semakin besar proyek Anda, dan semakin besar komunitas Anda, semakin mudah untuk menemukan bantuan.
+Kenyataannya adalah [sebagian besar proyek hanya memiliki](https://peerj.com/preprints/1233/) satu atau dua pengeloa yang melakukan sebagian besar pekerjaan. Semakin besar proyek Anda, dan semakin besar komunitas Anda, semakin mudah untuk menemukan bantuan.
 
 Meskipun tidak selalu mudah untuk mendapatkan orang yang memenuhi panggilan Anda, memberikan sinyal akan meningkatkan peluang dimana orang lain akan ikut terlibat. Dan semakin cepat Anda melakukannya, semakin cepat pula orang akan datang membantu.
 
@@ -198,7 +198,7 @@ Tugas Anda sebagai pengelola adalah menjaga situasi ini agar tidak sampai memunc
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Sebagai pengelola proyek, sangatlah penting untuk menghargai kontributor Anda. Mereka seringkali menerima apa yang Anda sampaikan secara personal.
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -224,7 +224,7 @@ Pada proses _consensus seeking_, anggota komunitas mendiskusikan masalah utama s
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Salah satu alasan kenapa sistem voting tidak berlaku untuk masalah Atom adalah karena tim Atom tidak akan mengikuti sistem voting pada setiap kasusnya. Seringkali kami harus memilih apa yang kami rasa benar meskipun tidak populer. (...) Apa yang bisa saya tawarkan dan janjikan...adalah karena itu merupakan pekerjaan saya untuk mendengarkan komunitas.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

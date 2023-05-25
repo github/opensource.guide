@@ -54,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   これまでに（技術）イベントに参加して、知り合いが誰もおらず、周りは皆グループになって古くからの友人同士のように話しているといった経験をしたことはありませんか？（中略）オープンソースプロジェクトにコントリビュートをしたいと思っているのに、なぜ、またはどのようにそのプロジェクトが立ち上がったのかがわからないという状況を想像してみて下さい。
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -168,7 +168,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 * もしプロジェクトが GitHub 上にあるのであれば、 **プロジェクトをあなた個人のアカウントから [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** に移し、最低でも一人代わりの管理者を追加しましょう。 Organization によって外部の協力者と一緒にプロジェクト上での作業をしやすくなります。
 
-実際のところ、[ほとんどのプロジェクトはたった](https://peerj.com/preprints/1233.pdf) 一人か二人のメンテナーしかおらず、彼らがほとんどの作業を行っています。プロジェクトやコミュニティが大きくなるほど、協力者を見つけるのがより簡単になります。
+実際のところ、[ほとんどのプロジェクトはたった](https://peerj.com/preprints/1233/) 一人か二人のメンテナーしかおらず、彼らがほとんどの作業を行っています。プロジェクトやコミュニティが大きくなるほど、協力者を見つけるのがより簡単になります。
 
 常に要求に応じてくれる人が見つかるとは限りませんが、そういったシグナルを出しておくことで、協力してくれる人が出てくるチャンスが増えます。そしてより早く始めると、より早く人々が助けてくれるでしょう。
 
@@ -198,7 +198,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   プロジェクトのメンテナーとして、コントリビューターに対して敬意を払うのは非常に重要です。彼らはあなたの言うことを非常に個人的に捉えることがよくあります。
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -224,7 +224,7 @@ README は[単なる手順書以上の存在です](../starting-a-project/#readm
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Atom の Issue に投票システムが存在しない理由の一部は、 Atom チームはあらゆるケースにおいて投票システムを使うわけではないからです。時には、あまり支持されていなくても、正しいと感じることを選ぶ必要があります。（中略）私が提供し、実施すると固く約束するのは…、コミュニティの意見に耳を傾けることが私の仕事であるということです。
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 
