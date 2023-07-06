@@ -138,7 +138,7 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  パッチに関連した知的財産を手放すことで従業員の知識ベースと名声を築く事ができます。そうすることで、その企業は従業員の能力を高め、自律的に働くことに投資していることを示すことができます。こういったメリットは、モラルの向上や従業員の維持にも繋がります。
+  パッチに関連した知的財産を手放すことで従業員の知識ベースと名声を築く事ができます。そうすることで、その企業は従業員の能力を高め、自律的に働くことに投資していることを示すことができます。こういったメリットは、士気の向上や従業員の維持にも繋がります。
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
