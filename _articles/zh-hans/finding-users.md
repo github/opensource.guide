@@ -6,8 +6,8 @@ class: finding
 order: 3
 image: /assets/images/cards/finding.png
 related:
-    - beginners
-    - building
+  - beginners
+  - building
 redirect_from: /zh-cn/finding-users/
 ---
 
