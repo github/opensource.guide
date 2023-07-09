@@ -1,7 +1,9 @@
----
-lang: en
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+network-pi-sim-card/rules 
+language:English language 
+title: NFP-policy
+any member of this community must be a verified pioneer
+cheating activities are highly prohibited and attracts suspensions or blocking of the victim's from access the community 
+any age grade is eligible to be a PARTICIPANT 
 class: coc
 order: 8
 image: /assets/images/cards/coc.png
@@ -28,13 +30,13 @@ In addition to communicating your expectations, a code of conduct describes the 
 * Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
 * What happens if someone violates the code of conduct
 * How someone can report violations
-
+failure to abide by the rules of the community attract to any punishments declared by the founders 
 Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
-
+any illegal activity from any source account is prohibited and would be restricted and will not be allowed to access the community information or view the community activities 
 The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) are also two good code of conduct examples.
 
 Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
-
+http://NF.privacy.policy.com
 ## Deciding how you'll enforce your code of conduct
 
 <aside markdown="1" class="pquote">
@@ -56,9 +58,8 @@ You should give people a private way (such as an email address) to report a code
 
 Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+community contact info:+2349077438639/+2348109933923
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
 
 ## Enforcing your code of conduct
 
