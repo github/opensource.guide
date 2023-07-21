@@ -1,6 +1,86 @@
 name: Mark stale PRs
 on:
-  workflow_dispatch:
+  workflow_Starting Nping 0.7.40 ( https://nmap.org/nping ) at 2023-07-21 13:49 UTC
+SENT (0.0348s) ICMP [172.17.0.2 > 23.23.105.245 Echo request (type=8/code=0) id=24121 seq=1] IP [ttl=64 id=33485 iplen=28 ]
+SENT (1.Starting Nping 0.7.40 ( https://nmap.org/nping ) at 2023-07-21 13:53 UTC
+SENT (0.1444s) ICMP [172.17.0.2 > 104.196.62.211 Echo request (type=8/code=0) id=58382 seq=1] IP [ttl=64 id=53971 iplen=28 ]
+RCVD (0.3345s) ICMP [104.196.62.211 > 172.17.0.2 Echo reply (type=0/code=0) id=58382 seq=1] IP [ttl=53 id=59586 iplen=28 ]
+SENT (1.1449s) ICMP [172.17.0.2 > 104.196.62.211 Echo request (type=8/code=0) id=58382 seq=3] IP [ttl=64 id=53971 iplen=28 ]
+RCVD (1.3543s) ICMP [104.196.62.211 > 172.17.0.2 Echo reply (type=0/code=0) id=58382 seq=3] IP [ttl=53 id=59717 iplen=28 ]
+SENT (2.1465s) ICMP [172.17.0.2 > 104.196.62.211 Echo request (type=8/code=0) id=58382 seq=3] IP [ttl=64 id=53971 iplen=28 ]
+RCVD (2.3743s) ICMP [104.196.62.211 > 172.17.0.2 Echo reply (type=0/code=0) id=58382 seq=3] IP [ttl=53 id=59793 iplen=28 ]
+SENT (3.1484s) ICMP [172.17.0.2 > 104.196.62.211 Echo request (type=8/code=0) id=58382 seq=4] IP [ttl=64 id=53971 iplen=28 ]
+RCVD (3.1903s) ICMP [104.196.62.211 > 172.17.0.2 Echo reply (type=0/code=0) id=58382 seq=4] IP [ttl=53 id=59795 iplen=28 ]
+ 
+Max rtt: 227.666ms | Min rtt: 41.751ms | Avg rtt: 167.138ms
+Raw packets sent: 4 (112B) | Rcvd: 4 (112B) | Lost: 0 (0.00%)
+Nping done: 1 IP address pinged in 3.22 seconds
+TTL in the Ping Response
+
+Here is a bit of useful information that you can impress your friends with... In a Ping response, there is a TTL or Time to Live value. These come from the system that you are sending your ICMP request packets to and can be used to perform a limited operating system detection check.
+
+The starting TTL varies depending on the operating system. Generally, Linux, Windows, and Cisco routers have differing values. Of course, there are many other possible values and devices, however, this can be a quick way to determine what the device is that is responding to your Ping request. This can mean that gateway or NAT devices, such as firewalls and routers, may be the one responding to the Ping.
+
+For example; you could ping a Microsoft IIS web server, however, if there is a firewall or load balancer in front of it with a *nix based operating system you will receive a TTL of 64 rather than the expected 128. Your actual result will be lower than the listed value as the TTL will decrement on each hop along the path.
+
+Common Operating System TTL
+
+64 Linux or *nix based operating system
+128 Microsoft Windows (from Windows XP onwards)
+254 Cisco Network Router
+About the Test Ping Tool
+
+Ping is a network troubleshooting tool that displays the response time between two Internet (or IP) addresses. Ping tools are installed by default in most operating systems. It does not matter if you are using Solaris, Windows, FreeBSD or Ubuntu Linux; ping is ubiquitous. A ping uses a type of packet known as ICMP, commonly known as ICMP request and ICMP reply.
+
+No response from Ping
+
+Firewalls and routers can be configured to block ICMP request and response so you will sometimes find a system does not respond to ping even though the system is up and running. Network Firewalls, such as commercial Cisco and Checkpoint products can do this as can local firewalls such as your local Windows Firewall or a local Linux firewall using IP Tables.
+
+What methods are used to determine the response?
+
+Ubuntu Linux Tool
+The default ping tool that comes with Ubuntu Linux is used, and the results are parsed and displayed in the table.
+Number of ICMP Packets
+Five packets are sent from our server in Newark (USA). Our system will then determine how long it takes to get a response from your selected Target IP address.
+
+Is this dangerous?
+Ping is a very common tool that is used everywhere, there is nothing dangerous about an ICMP packet. You are free to ping different systems to determine if they are running and how far away they are from our system. It is possible to use ICMP for a denial of service attack however, this requires sending many more packets than the 5 the tool here does.
+
+Ping API
+
+Need even faster access to the online Ping tool than the web form above? The API is simple to use and aims to be a quick reference tool; access to the API requires a valid membership and API key. Usage depends on the Membership plan selected.
+
+https://api.hackertarget.com/nping/?q=8.8.8.8&apikey=**apikeyrequired**
+It is simple to use. Use a HTTP client of some kind such as curl, firefox, python or php and hit that endpoint. You will see the Ping results as a simple plain text response to your HTTP query. Of course, change the IP address to your own target (IP address or host name).
+
+Have you seen our other Free IP and Network Testing tools.
+
+Discover. Explore. Learn.
+
+Next level testing with advanced Security Vulnerability Scanners.
+
+Trusted tools. Hosted for easy access.
+
+ABOUT
+From attack surface discovery to vulnerability identification, we host tools to make the job of securing your systems easier.
+
+Membership Learn More
+CONNECT
+MAILING LIST
+Subscribe to the low volume list
+Security news, site updates and more.
+
+
+
+
+© 2023 Hacker Target Pty Ltd - ACN 600827263 | Terms of Use & Privacy Policy | Powered by Open Source Software
+We use cookies to ensure that) ICMP [172.17.0.2 > 23.23.105.245 Echo request (type=8/code=0) id=24121 seq=2] IP [ttl=64 id=33485 iplen=28 ]
+SENT (2.0367s) ICMP [172.17.0.2 > 23.23.105.245 Echo request (type=8/code=0) id=24121 seq=3] IP [ttl=64 id=33485 iplen=28 ]
+SENT (3.0381s) ICMP [172.17.0.2 > 23.23.105.245 Echo request (type=8/code=0) id=24121 seq=4] IP [ttl=64 id=33485 iplen=28 ]
+ 
+Max rtt: N/A | Min rtt: N/A | Avg rtt: N/A
+Raw packets sent: 4 (112B) | Rcvd: 0 (0B) | Lost: 4 (100.00%)
+Nping done: 1 IP address pinged in 4.07 seconds
   schedule:
   - cron: "0 12 * * *"
 
