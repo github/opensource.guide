@@ -45,7 +45,7 @@ It's important to understand what causes us to get burned out. Here are a few co
   </p>
 </aside>
 
-* **Not saying ‘no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
@@ -154,7 +154,6 @@ My software is gratis, but my time and attention is not.
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, , maintainer of Leaflet
   </p>
 </aside>
-
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
