@@ -2,8 +2,7 @@
 lang: en
 title: Maintaining Balance for Open Source Maintainers
 description: Tips for self-care and avoiding burnout as a maintainer.
-class: b
-alance
+class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
