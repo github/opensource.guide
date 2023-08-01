@@ -2,7 +2,8 @@
 lang: en
 title: Maintaining Balance for Open Source Maintainers
 description: Tips for self-care and avoiding burnout as a maintainer.
-class: balance
+class: b
+alance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
@@ -32,7 +33,7 @@ Take time to reflect on what parts of open source maintenance energizes you. Und
 
 ### Reflect on what causes you to get out of balance and stressed out
 
-It’s important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
 
 * **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
 
@@ -44,7 +45,7 @@ It’s important to understand what causes us to get burned out. Here are a few 
   </p>
 </aside>
 
-* **Not saying ‘no’:** It can be easy to take on more responsibilities than you should on an open source project. Whether it’s from users, contributors, or other maintainers – we can’t always live up to their expectations.
+* **Not saying ‘no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
@@ -58,7 +59,7 @@ It’s important to understand what causes us to get burned out. Here are a few 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it’s harder to never see anybody or talk to anybody.
+ Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
   </p>
@@ -73,10 +74,10 @@ It’s important to understand what causes us to get burned out. Here are a few 
   </p>
 </aside>
 
-* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you’re paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
 
 <aside markdown="1" class="pquote">
-  With paid open source, conflict between employer’s focus and what’s best for the community
+  With paid open source, conflict between employer's focus and what's best for the community
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
@@ -86,10 +87,10 @@ It’s important to understand what causes us to get burned out. Here are a few 
 
 Can you keep up your pace for 10 weeks? 10 months? 10 years?
 
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla’s [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
+There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla's [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
 
 <aside markdown="1" class="pquote">
- I’m a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
+ I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
@@ -103,7 +104,7 @@ This will look different for each maintainer, and will change depending on your 
 
   You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
 
-* **Explore funding:** Whether you’re looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you’re thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
@@ -122,19 +123,19 @@ This will look different for each maintainer, and will change depending on your 
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night’s sleep can make a big difference in your ability to sustain your efforts long-term.
+* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
 
   If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I’m finding more opportunity to sprinkle ‘moments of creativity’ in the middle of the day rather than trying to switch off in evening.
+ I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
   </p>
 </aside>
 
-* **Set boundaries:** You can’t say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
@@ -144,7 +145,7 @@ To meaningfully trust others on these axes, you cannot be someone who says yes t
   </p>
 </aside>
 
-  Learn to be firm in shutting down toxic behavior and negative interactions. It’s okay to not give energy to things you don’t care about.
+  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
@@ -176,7 +177,7 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
 * [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla’s Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
 
 ## Contributors
 
