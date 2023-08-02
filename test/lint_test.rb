@@ -18,6 +18,7 @@ describe "lint test" do
         end
  # Define a test to check if the frontmatter has valid fields
         it "has valid fields" do
+          # Call the 'assert_valid_fields' method to perform the validation
           assert_valid_fields @data, site.data["fields"]
         end
       end
