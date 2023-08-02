@@ -1,3 +1,4 @@
+# Load the required helper file for the tests
 require_relative "./helper"
 
 describe "lint test" do
