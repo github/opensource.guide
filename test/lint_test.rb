@@ -1,6 +1,6 @@
 # Load the required helper file for the tests
 require_relative "./helper"
-
+# Define the test suite named "lint test"
 describe "lint test" do
   pages.each do |page|
     next unless page["path"].match?(/\.md$/)
