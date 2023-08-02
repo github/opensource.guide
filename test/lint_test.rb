@@ -16,7 +16,7 @@ describe "lint test" do
           # Load raw metadata to skip defaults
           @data = SafeYAML.load_file(page["path"])
         end
-
+ # Define a test to check if the frontmatter has valid fields
         it "has valid fields" do
           assert_valid_fields @data, site.data["fields"]
         end
