@@ -149,7 +149,7 @@ To meaningfully trust others on these axes, you cannot be someone who says yes t
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
 My software is gratis, but my time and attention is not.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, , maintainer of Leaflet
+— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
   </p>
 </aside>
 
