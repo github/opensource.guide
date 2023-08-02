@@ -24,7 +24,7 @@ describe "lint test" do
       end
     end
   end
-
+# Define a helper method to assert the validity of fields in the data against a set of expected fields
   def assert_valid_fields(data, fields)
     extra_fields = data.keys - fields.keys
     assert extra_fields.empty?, "Unexpected metadata: #{extra_fields.inspect}"
