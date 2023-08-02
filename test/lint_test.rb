@@ -9,6 +9,7 @@ describe "lint test" do
     next unless page["path"].match?(/\.md$/)
 
     describe page["path"] do
+       # Create a nested test suite for the current page's 'path'
       describe "frontmatter" do
         before do
           # Load raw metadata to skip defaults
