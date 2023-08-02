@@ -11,6 +11,7 @@ describe "lint test" do
     describe page["path"] do
        # Create a nested test suite for the current page's 'path'
       describe "frontmatter" do
+         # Before running each test, load the raw metadata from the page's 'path'
         before do
           # Load raw metadata to skip defaults
           @data = SafeYAML.load_file(page["path"])
