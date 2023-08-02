@@ -3,7 +3,9 @@ require_relative "./helper"
 # Define the test suite named "lint test"
 describe "lint test" do
   # Loop through each 'page' in the 'pages' collection
+  
   pages.each do |page|
+    # Skip the current page if its 'path' does not match the pattern /\.md$/
     next unless page["path"].match?(/\.md$/)
 
     describe page["path"] do
