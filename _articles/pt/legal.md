@@ -32,7 +32,7 @@ Quando você [cria um novo projeto](https://help.github.com/articles/creating-a-
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Tornar seu projeto no GitHub publico não é o mesmo que licenciar seu projeto.** Projetos publicos são cobertos pelos [Termos de Servicos do GitHub](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), o que permite que outras pessoas vejam e copiem seu projeto, mas seu trabalho vem sem permissões.
+**Tornar seu projeto no GitHub publico não é o mesmo que licenciar seu projeto.** Projetos publicos são cobertos pelos [Termos de Servicos do GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), o que permite que outras pessoas vejam e copiem seu projeto, mas seu trabalho vem sem permissões.
 
 Se você quiser que outras pessoas usem, distribuam, modifiquem ou contribuam com seu projeto, você precisa incluir uma licença open source. Por exemplo, alguém não pode usar legalmente qualquer parte de seu projeto do GitHub em seu código pessoal, mesmo que seu projeto seja público, a menos que você conceda explicitamente a eles o direito de fazer isso.
 
@@ -89,7 +89,7 @@ Como alternativa, você pode fazer com que os colaboradores concordem com antece
 
 ## Meu projeto precisa de um contrato de contribuição adicional?
 
-Provavelmente não. Para a grande maioria dos projetos open source, uma licença open source serve implicitamente como a licença de entrada (de contribuidores) e de saída (para outros contribuidores e usuários). Se o seu projeto estiver no GitHub, os Termos de Serviço do GitHub tratam "entrada=saída" como o [padrão explícito](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Provavelmente não. Para a grande maioria dos projetos open source, uma licença open source serve implicitamente como a licença de entrada (de contribuidores) e de saída (para outros contribuidores e usuários). Se o seu projeto estiver no GitHub, os Termos de Serviço do GitHub tratam "entrada=saída" como o [padrão explícito](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
 Um contrato de contribuidor adicional - geralmente chamado de Contrato de Licença de Contribuidor (CLA) -- pode criar trabalho administrativo para os mantenedores do projeto. Quanto trabalho um contrato adiciona depende do projeto e da implementação. Um acordo simples pode exigir que os contribuidores confirmem, com um clique, que têm os direitos necessários para contribuir com a licença open source do projeto. Um acordo mais complicado pode exigir revisão legal e aprovação dos empregadores dos colaboradores.
 
@@ -134,18 +134,18 @@ Se você está lançando o primeiro projeto open source da sua empresa, as dicas
 
 A longo prazo, sua equipe jurídica pode fazer mais para ajudar a empresa a obter mais de seu envolvimento em open source e permanecer segura:
 
-* **Políticas de contribuição para funcionários:** Considere desenvolver uma política corporativa que especifique como seus funcionários contribuem para projetos open source. Uma política clara reduzirá a confusão entre seus funcionários e os ajudará a contribuir para projetos open source no melhor interesse da empresa, seja como parte de seus trabalhos ou em seu tempo livre. Um bom exemplo é o  [Modelo de propriedade intelectual e políticas de contribuição para projetos abertos](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) da Rackspace.
+* **Políticas de contribuição para funcionários:** Considere desenvolver uma política corporativa que especifique como seus funcionários contribuem para projetos open source. Uma política clara reduzirá a confusão entre seus funcionários e os ajudará a contribuir para projetos open source no melhor interesse da empresa, seja como parte de seus trabalhos ou em seu tempo livre. Um bom exemplo é o  [Modelo de propriedade intelectual e políticas de contribuição para projetos abertos](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) da Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Liberar a propriedade intelectual associada com um patch constrói a base de conhecimento do funcionário e sua reputação. Mostra que a empresa é empenhada no desenvolvimento desse funcionário e cria um senso de emponderamento e autonomia. Todos esses benefícios também levam a uma maior moral e uma melhor retenção de funcionários.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **O que liberar:** [(Quase) tudo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Se a sua equipe jurídica entender e investir na estratégia open source da sua empresa, ela será mais capaz de ajudar do que atrapalhar seus esforços.
-* **Conformidade:** Mesmo que sua empresa não libere nenhum projeto open source, ela usa o software open source dos outros. [Conscientização e processo](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) pode evitar dores de cabeça, atrasos de produtos e ações judiciais.
+* **Conformidade:** Mesmo que sua empresa não libere nenhum projeto open source, ela usa o software open source dos outros. [Conscientização e processo](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) pode evitar dores de cabeça, atrasos de produtos e ações judiciais.
 
 <aside markdown="1" class="pquote">
   Organizações devem ter uma estratégia de licença e conformidade funcionando que encaixe ambas as categorias \["permissive" e "copyleft"\]. Isso começa com a manutenção de um registro dos termos de licença que se aplicam ao software open source que você está utilizando — incluindo subcomponentes e dependências.

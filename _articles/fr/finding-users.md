@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: Trouver des utilisateurs pour votre projet
-description: Aidez votre projet open source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
+description: Aidez votre projet Open Source à se développer en le mettant entre les mains d'utilisateurs satisfaits.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -142,14 +142,6 @@ Aider les nouveaux arrivants, partager des ressources et apporter une contributi
 Il n'est jamais trop tôt ou trop tard pour commencer à bâtir votre réputation. Même si vous avez déjà lancé votre propre projet, continuez de chercher des moyens d'aider les autres.
 
 Il n'y a pas de solution du jour au lendemain pour créer un public. Gagner la confiance et le respect des autres prend du temps, et bâtir votre réputation ne s'arrête jamais.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS a été publié pour la première fois début 2011. (...) J'ai répandu le mot de la manière habituelle: j'ai tweeté à ce sujet, j'ai écrit des articles sur ce que vous pouviez faire avec, je l'ai mentionné lors de diverses discussions dans les meetups. Quand il est devenu plus connu en 2014, j'ai commencé à faire des présentations à ce sujet.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Persévèrez !
 

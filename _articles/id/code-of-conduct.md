@@ -31,7 +31,7 @@ Selain mengkomunikasikan ekspektasi Anda, kode etik juga menjelaskan beberapa ha
 
 Apabila dimungkinkan, gunakan yang sudah ada. [Contributor Covenant](https://www.contributor-covenant.org/) adalah kode etik yang bisa digunakan dan sudah digunakan oleh lebih dari 40.000 proyek open source, termasuk Kubernetes, Rails, dan Swift.
 
-[Kode etik Django](https://www.djangoproject.com/conduct/) dan [Kode etik Warga](http://citizencodeofconduct.org/) adalah dua contoh kode etik yang bagus.
+[Kode etik Django](https://www.djangoproject.com/conduct/) dan [Kode etik Warga](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) adalah dua contoh kode etik yang bagus.
 
 Tempatkan dokumen CODE_OF_CONDUCT pada induk direktori proyek Anda, dan hubungkan dari dokumen README sehingga terlihat dengan jelas oleh komunitas Anda.
 
@@ -40,7 +40,7 @@ Tempatkan dokumen CODE_OF_CONDUCT pada induk direktori proyek Anda, dan hubungka
 <aside markdown="1" class="pquote">
   Kode etik yang tidak (bisa) diterapkan jauh lebih jelek dibandingkan tanpa kode etik sama sekali: hal ini mengirimkan pesan bahwa nilai dari kode etik tidaklah penting atau dihargai pada komunitas Anda.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
@@ -54,7 +54,7 @@ Anda harus menjelaskan bagaimana kode etik Anda akan diterapkan **_sebelum_** pe
 
 Anda harus memberikan sebuah jalan yang pribadi (seperti alamat email) untuk melaporkan pelanggaran kode etik dan menjelaskan siapa yang menerima laporan tersebut. Penerima laporan bisa jadi pengelola, sekelompok orang pengelola, atau tim kode etik.
 
-Jangan lupa bahwa seseorang mungkin melaporkan pelanggaran terhadap orang yang akan menerima laporan tersebut. Pada kasus ini, berikan opsi untuk melaporkan pelanggaran pada orang lain. Misalnya, @ctb dan @mr-c [menjelaskan pada proyek mereka](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Jangan lupa bahwa seseorang mungkin melaporkan pelanggaran terhadap orang yang akan menerima laporan tersebut. Pada kasus ini, berikan opsi untuk melaporkan pelanggaran pada orang lain. Misalnya, @ctb dan @mr-c [menjelaskan pada proyek mereka](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Perilaku kasar, melecehkan, atau perilaku lainnya yang tidak dapat diterima dapat dilaporkan dengan mengirimkan email pada **khmer-project@idyll.org** yang akan sampai pada C. Titus Brown dan Michael R. Crusoe. Untuk melaporkan masalah pada salah satu dari mereka, kirimkan email pada **Judi Brown Clarke, Ph.D.** Direktur  Diversity pada BEACON Center untuk Studi Evolusi, sebuah pusat studi NSF untuk Ilmu Pengetahuan dan Teknologi.*
 

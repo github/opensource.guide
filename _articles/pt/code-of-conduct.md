@@ -31,7 +31,7 @@ Além de comunicar aquilo que você espera, um código de conduta descreve o seg
 
 Sempre que possível, use exemplos passados. O [Contributor Covenant](https://contributor-covenant.org/) é um código de conduta que é usado por mais de 40.000 projetos _open source_, incluindo Kubernetes, Rails, e Swift.
 
-O [Django Code of Conduct](https://www.djangoproject.com/conduct/) e o [Citizen Code of Conduct](http://citizencodeofconduct.org/) são, tambémm, outros dois bons exemplos de códigos de conduta.
+O [Django Code of Conduct](https://www.djangoproject.com/conduct/) e o [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) são, tambémm, outros dois bons exemplos de códigos de conduta.
 
 Coloque um arquivo CODE_OF_CONDUCT no diretório raiz do seu projeto, e faça-o visivel a sua comunidade criando um link para ele no arquivo CONTRIBUTING ou README.
 
@@ -40,7 +40,7 @@ Coloque um arquivo CODE_OF_CONDUCT no diretório raiz do seu projeto, e faça-o 
 <aside markdown="1" class="pquote">
   Um código de conduta que não é (ou não pode ser) aplicado é pior do que não ter nenhum código de conduta: isso passa a mensagem de que os valores no código de conduta não são, na verdade, importantes ou respeitados em sua comunidade.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
@@ -54,7 +54,7 @@ Você deve explicar como o seu código de conduta será aplicado **_antes_** que
 
 Você deve sempre dar as pessoas um modo privado (como um endereço de e-mail) para relatarem uma violação do código de conduta e informar os reponsáveis por receber as queixas. Pode ser um mantenedor, um grupo de mantenedores, ou um grupo de trabalho do código de conduta.
 
-Não se esqueça de que alguém pode querer relatar uma violação sobre alguém que receba esses relatos. Neste caso, dê a eles uma opção para relatar violações a outra pessoa. Por exemplo, @ctb e @mr-c [explicam em seu projeto](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Não se esqueça de que alguém pode querer relatar uma violação sobre alguém que receba esses relatos. Neste caso, dê a eles uma opção para relatar violações a outra pessoa. Por exemplo, @ctb e @mr-c [explicam em seu projeto](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > Casos de comportamento abusivo, de assédio, ou de outra forma inaceitável podem ser relatados enviando um e-mail para **khmer-project@idyll.org**, chegando somente a C. Titus Brown e Michael R. Crusoe. Para relatar um problema envolvendo algum deles, por favor envie um e-mail para **Judi Brown Clarke, Ph.D.**, o Diretor de Diversidade no Centro BEACON para o Estudo da Evolução em Ação, um Centro NSF para Ciência e Tecnologia.*
 

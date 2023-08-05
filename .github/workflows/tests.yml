@@ -1,0 +1,28 @@
+name: GitHub Actions CI
+on:
+  push:
+    branches: master
+  pull_request: []
+  merge_group:
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Git repository
+      uses: actions/checkout@v3
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+
+    - name: Set up Node
+      uses: actions/setup-node@v3
+
+    - name: Bootstrap
+      run: script/bootstrap
+      env:
+        SKIP_BUNDLER: true
+
+    - name: Tests
+      run: script/test

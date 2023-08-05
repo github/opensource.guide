@@ -32,7 +32,7 @@ Ketika Anda [membuat proyek baru](https://help.github.com/articles/creating-a-ne
 
 ![create repository](/assets/images/legal/repo-create-name.png)
 
-**Membuat proyek GitHub Anda sebagai publik tidaklah sama dengan melisensikan proyek Anda.** Proyek publik dibahas pada [Perjanjian Layanan GitHub](https://help.github.com/articles/github-terms-of-service/#f-copyright-and-content-ownership), yang mengijinkan orang lain untuk melihat dan melakukan fork terhadap proyek Anda, tetapi jika tidak, maka tidak ada hak akses terhadap proyek Anda.
+**Membuat proyek GitHub Anda sebagai publik tidaklah sama dengan melisensikan proyek Anda.** Proyek publik dibahas pada [Perjanjian Layanan GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang mengijinkan orang lain untuk melihat dan melakukan fork terhadap proyek Anda, tetapi jika tidak, maka tidak ada hak akses terhadap proyek Anda.
 
 Jika Anda menginginkan orang lain untuk bisa menggunakan, menyalin, memodifikasi, atau berkontribusi balik pada proyek Anda, Anda perlu menyertakan sebuah lisensi open source. Sebagai contoh, seseorang tidak dapat menggunakan sembarang bagian dari proyek GitHub Anda pada kode mereka secara legal, meskipun bersifat publik, kecuali Anda memberikan ijin kepada mereka.
 
@@ -88,7 +88,7 @@ Alternatif lain, Anda bisa mendapatkan persetujuan kontributor di awal (melalui 
 
 ## Apakah proyek saya membutuhkan perjanjian kontributor tambahan?
 
-Kemungkinan tidak. Untuk sebagian besar proyek open source, lisensi open source secara implisit berfungsi sebagai lisensi inbound (dari kontributor) dan outbound (bagi kontributor dan pengguna lainnya). Jika proyek Anda berada pada GitHub, Perjanjian Layanan GitHub membuat aturan "inbound=outbound" [default secara eksplisit](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+Kemungkinan tidak. Untuk sebagian besar proyek open source, lisensi open source secara implisit berfungsi sebagai lisensi inbound (dari kontributor) dan outbound (bagi kontributor dan pengguna lainnya). Jika proyek Anda berada pada GitHub, Perjanjian Layanan GitHub membuat aturan "inbound=outbound" [default secara eksplisit](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
 Sebuah perjanjian kontributor tambahan -- seringkali disebut Contributor License Agreement (CLA) -- bisa menimbulkan pekerjaan administratif tambahan bagi pengelola proyek. Seberapa banyak pekerjaan tersebut tergantung dari proyek dan implementasinya. Sebuah perjanjian yang sederhana mungkin meminta kontributor untuk melakukan konfirmasi dengan satu klik, bahwa mereka memiliki hak yang cukup untuk berkontribusi dibawah lisensi open source. Perjanjian yang lebih kompleks mungkin membutuhkan review hukum dan tanda tangan dari perusahaan yang memperkerjakan kontributor tersebut.
 
@@ -133,18 +133,18 @@ Jika Anda merilis proyek open source perusahaan Anda pertama kalinya, informasi 
 
 Dalam jangka panjang, tim hukum Anda bisa melakukan lebih banyak lagi dengan membantu perusahaan untuk mendapatkan lebih banyak dari keterlibatannya pada open source:
 
-* **Kebijakan kontribusi karyawan:** Pertimbangkan untuk mengembangkan kebijakan perusahaan yang menentukan bagaimana karyawan berkontribusi pada proyek open source. Sebuah kebijakan yang jelas akan mengurangi kebingungan  pada karyawan Anda dan membantu mereka untuk berkontribusi pada proyek open source yang penting bagi perusahaan, baik sebagai bagian dari pekerjaan mereka atau dimasa senggang mereka. Sebuah contoh bagus adalah [Model IP dan Kebijakan Kontribusi Open Source](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) milik Rackspace.
+* **Kebijakan kontribusi karyawan:** Pertimbangkan untuk mengembangkan kebijakan perusahaan yang menentukan bagaimana karyawan berkontribusi pada proyek open source. Sebuah kebijakan yang jelas akan mengurangi kebingungan  pada karyawan Anda dan membantu mereka untuk berkontribusi pada proyek open source yang penting bagi perusahaan, baik sebagai bagian dari pekerjaan mereka atau dimasa senggang mereka. Sebuah contoh bagus adalah [Model IP dan Kebijakan Kontribusi Open Source](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) milik Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Membiarkan IP yang terkait dengan patch membangun basis pengetahuan dan reputasi karyawan. Ini menunjukkan bahwa perusahaan menekankan pengembangan karyawan dan menciptakan rasa pemberdayaan dan otonomi. Semua manfaat ini juga menyebabkan semangat kerja lebih tinggi dan retensi karyawan yang lebih baik.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Apa yang dirilis:** [(Hampir) semuanya?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) jika tim hukum Anda memahami dan berinvestasi pada strategi open source perusahaan Anda, mereka akan banyak membantu dibandingkan merugikan Anda.
-* **Kesesuaian:** Meskipun perusahaan Anda tidak merilis proyek open source, perusahaan Anda menggunakan perangkat lunak open source milik orang lain. [Kewaspadaandan proses](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) bisa mencegah masalah, keterlambatan produk, dan tuntutan hukum.
+* **Kesesuaian:** Meskipun perusahaan Anda tidak merilis proyek open source, perusahaan Anda menggunakan perangkat lunak open source milik orang lain. [Kewaspadaandan proses](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) bisa mencegah masalah, keterlambatan produk, dan tuntutan hukum.
 
 <aside markdown="1" class="pquote">
   Organisasi harus memiliki lisensi dan strategi penyesuaian yang sesuai untuk kategori \["permissive" dan "copyleft"\]. Hal ini dimulai dengan menyimpan catatan dari istilah lisensi yang digunakan pada perangkat lunak open source yang Anda gunakan — termasuk sub komponen dan ketergantungannya.

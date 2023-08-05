@@ -19,9 +19,6 @@ description:
 class:
   type: String
 
-toc:
-  type: Hash
-
 order:
   type: Integer
 
@@ -32,3 +29,6 @@ related:
 
 untranslated:
   type: TrueClass
+
+redirect_from:
+  type: String
