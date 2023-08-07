@@ -1,5 +1,6 @@
 ---
 lang: en
+untranslated: true
 title: Maintaining Balance for Open Source Maintainers
 description: Tips for self-care and avoiding burnout as a maintainer.
 class: balance
