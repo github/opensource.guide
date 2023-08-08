@@ -9,16 +9,11 @@ url_ignores = [
   "https://scripts.sil.org/ofl",
   "https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/",
   "https://pages.18f.gov/open-source-guide/making-readmes-readable/",
-  "https://github.com/sponsors",
-  "https://github.com/sponsors/community",
-  "https://github.com/travis-ci",
-  "https://github.com/webpack",
-  "https://github.com/stuartlynn/puffin_facts",
-  "https://github.com/tryghost/ghost",
   %r{^https?://twitter\.com/},
   %r{^https?://(www\.)?kickstarter\.com/},
   %r{^https://guides\.github\.com/},
   %r{^https://help\.github\.com/},
+  %r{^https://\.github\.com/},
 ]
 
 HTMLProofer::Runner.new(
