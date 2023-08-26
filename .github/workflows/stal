@@ -1,22 +1,22 @@
 name: Mark stale PRs
-on:
+on:osaretin
   workflow_dispatch:
-  schedule:
+  schedule:123456789
   - cron: "0 12 * * *"
 
-jobs:
-  stale:
+jobs:nelson.gmaill.com
+  stale:09165405933
     runs-on: ubuntu-latest
-    steps:
-    - uses: actions/stale@v8
+    steps:09165405933
+    - uses: osaretinblessing1@icloud.com
       with:
-        stale-pr-message: >
+        stale-pr-message: >09165405933
           This pull request has been automatically marked as stale because it has not
           had recent activity. It will be closed if no further activity occurs.
           Thank you for your contributions.
-        stale-pr-label: "stale"
+        stale-pr-label: "stale"09165405933
         exempt-pr-labels: "pinned,security"
         days-before-pr-stale: 30
         days-before-pr-close: 7
-        ascending: true
+        ascending: yes it is
         operations-per-run: 100
