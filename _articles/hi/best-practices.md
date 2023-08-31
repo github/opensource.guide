@@ -45,7 +45,7 @@ related:
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   मैंने इसे गलती से किया। मैंने किसी पूर्ण समाधान को लाने के लिए प्रयास नहीं किया। आधे-पूरे समाधान की जगह, मुझे खेद है कि मैंने यह नहीं कहा "मेरे पास इसके लिए अभी समय नहीं है, लेकिन मैं इसे दीर्घकालिक सूची में जोड़ दूंगा जिसे हमारे लिए अच्छा हो सकता है।"
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["नए ओपन सोर्स अनुरक्षकों के लिए युक्तियाँ"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
@@ -102,7 +102,7 @@ related:
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   बड़े स्केल के ओपन सोर्स प्रोजेक्ट्स के समर्थन को हैंडल करने की कुंजी है, मुद्दों को आगे बढ़ाने की कोशिश करें। मुद्दों को ठप करने से बचने का प्रयास करें। यदि आप एक iOS डेवलपर हैं, तो आप जानते हैं कि रेडर्स (radars) सबमिट करना कितना खिचड़ हो सकता है। आप 2 साल बाद प्रतिक्रिया प्राप्त कर सकते हैं, और आपको नवीनतम iOS संस्करण के साथ पुनः प्रयास करने की सलाह दी जा सकती है।
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["ओपन सोर्स समुदायों को स्केल करना"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
@@ -149,7 +149,7 @@ You shouldn't need more than 1-2 sentences to respond. For example, when a user 
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   आदर्श रूप से, उन्हें CONTRIBUTING.md फ़ाइल में समझाएं कि वे भविष्य में काम शुरू करने से पहले बेहतर संकेत कैसे प्राप्त कर सकते हैं कि क्या स्वीकार किया जाएगा या क्या नहीं।
   <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["कृपया पुल अनुरोध बंद करें"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
@@ -179,7 +179,7 @@ You shouldn't need more than 1-2 sentences to respond. For example, when a user 
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   मैं कह रहा था, "हाँ, कोई भी शामिल हो सकता है, आपके पास बहुत अधिक कोडिंग विशेषज्ञता होनी आवश्यक नहीं है [...]।" हमारे पास लोगों ने [एक कार्यक्रम में] आने के लिए साइन अप किया था और तभी मैं वास्तव में सोच रहा था: क्या यह सच है, जो मैं कह रहा हूं? वहाँ 40 लोग आने वाले हैं, और ऐसा नहीं है कि मैं उनमें से प्रत्येक के साथ बैठ सकता हूँ...लेकिन लोग एक साथ आए, और यह काम कर गया। जैसे ही एक व्यक्ति को यह मिल गया, वे अपने पड़ोसी को सिखा सकते थे।
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
+—  @lmccart, ["ओपन सोर्स" का क्या मतलब है? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
@@ -201,7 +201,7 @@ You shouldn't need more than 1-2 sentences to respond. For example, when a user 
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   मैं 80% उपयोग के मामले को पूरा करता हूं। यदि आप यूनिकॉर्न में से एक हैं, तो कृपया मेरे काम को छोड़ दें। मैं नाराज नहीं होऊंगा! मेरी सार्वजनिक परियोजनाएँ लगभग हमेशा सबसे आम समस्याओं को हल करने के लिए होती हैं; मैं या तो अपने काम को आगे बढ़ाकर या इसे विस्तारित करके गहराई तक जाना आसान बनाने की कोशिश करता हूं।
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["मैं पीआर क्यों बंद करता हूँ?"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
@@ -227,7 +227,7 @@ You shouldn't need more than 1-2 sentences to respond. For example, when a user 
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   मेरा मानना ​​है कि उन सभी कोड के लिए परीक्षण आवश्यक हैं जिन पर लोग काम करते हैं। यदि कोड पूरी तरह से और पूरी तरह से सही था, तो इसमें बदलाव की आवश्यकता नहीं होगी - हम केवल तभी कोड लिखते हैं जब कुछ गलत होता है, चाहे वह "यह क्रैश हो जाता है" या "इसमें ऐसी और ऐसी सुविधा का अभाव है"। और चाहे आप जो भी बदलाव कर रहे हों, आपके द्वारा गलती से पेश किए गए किसी भी प्रतिगमन को पकड़ने के लिए परीक्षण आवश्यक हैं।
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust का सामुदायिक स्वचालन"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

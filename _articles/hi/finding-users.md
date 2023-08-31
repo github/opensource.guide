@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+lang: hi
+title: अपने प्रोजेक्ट के लिए उपयोगकर्ता ढूँढना
+description: अपने ओपन सोर्स प्रोजेक्ट को खुश उपयोगकर्ताओं के हाथों में पहुंचाकर उसे बढ़ने में मदद करें।
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -10,139 +10,139 @@ related:
   - building
 ---
 
-## Spreading the word
+## बातों का प्रसार
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+ऐसा कोई नियम नहीं है जो कहता हो कि लॉन्च करते समय आपको एक ओपन सोर्स प्रोजेक्ट का प्रचार करना होगा। ओपन सोर्स में काम करने के कई संतोषजनक कारण हैं जिनका लोकप्रियता से कोई लेना-देना नहीं है। यह आशा करने के बजाय कि अन्य लोग आपके ओपन सोर्स प्रोजेक्ट को ढूंढेंगे और उसका उपयोग करेंगे, आपको अपनी कड़ी मेहनत के बारे में प्रचार करना होगा!
 
-## Figure out your message
+## अपने संदेश का पता लगाएं
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+इससे पहले कि आप अपने प्रोजेक्ट को बढ़ावा देने का वास्तविक काम शुरू करें, आपको यह समझाने में सक्षम होना चाहिए कि यह क्या करता है और यह क्यों मायने रखता है।
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+आपके प्रोजेक्ट को क्या अलग या दिलचस्प बनाता है? आपने इसे क्यों बनाया? इन प्रश्नों का स्वयं उत्तर देने से आपको अपने प्रोजेक्ट के महत्व के बारे में बताने में मदद मिलेगी।
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+याद रखें कि लोग उपयोगकर्ता के रूप में शामिल होते हैं, और अंततः योगदानकर्ता बन जाते हैं, क्योंकि आपका प्रोजेक्ट उनके लिए एक समस्या का समाधान करता है। जब आप अपने प्रोजेक्ट के संदेश और मूल्य के बारे में सोचते हैं, तो उन्हें इस नजरिए से देखने का प्रयास करें कि उपयोगकर्ता और योगदानकर्ता क्या चाहते हैं।
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+उदाहरण के लिए, @robb अपने प्रोजेक्ट को स्पष्ट रूप से बताने के लिए कोड उदाहरणों का उपयोग करता है, [Cartography](https://github.com/robb/Cartography), उपयोगी है:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+मैसेजिंग के बारे में गहराई से जानने के लिए मोज़िला देखें ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) उपयोगकर्ता व्यक्तित्व विकसित करने के लिए व्यायाम।
 
-## Help people find and follow your project
+## अपने प्रोजेक्ट को ढूंढने और उसका अनुसरण करने में लोगों की सहायता करें
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  आपको आदर्श रूप से एक एकल "होम" यूआरएल की आवश्यकता है जिसे आप प्रचारित कर सकें और अपने प्रोजेक्ट के संबंध में लोगों को इंगित कर सकें। आपको किसी फैंसी टेम्पलेट या यहां तक ​​कि एक डोमेन नाम पर छपने की ज़रूरत नहीं है, लेकिन आपके प्रोजेक्ट को एक केंद्र बिंदु की आवश्यकता है।
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["अपने कोड के बारे में प्रचार कैसे करें"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+लोगों को एक ही नामस्थान की ओर इंगित करके अपना प्रोजेक्ट ढूंढने और याद रखने में सहायता करें।
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**अपने काम को बढ़ावा देने के लिए एक स्पष्ट हैंडल रखें।** एक ट्विटर हैंडल, GitHub URL, या IRC चैनल लोगों को आपके प्रोजेक्ट की ओर इंगित करने का एक आसान तरीका है। ये आउटलेट आपके प्रोजेक्ट के बढ़ते समुदाय को एकत्रित होने की जगह भी देते हैं।
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides.
+यदि आप अभी तक अपने प्रोजेक्ट के लिए आउटलेट स्थापित नहीं करना चाहते हैं, तो अपने हर काम में अपने स्वयं के ट्विटर या GitHub हैंडल को बढ़ावा दें। आपके ट्विटर या GitHub हैंडल को बढ़ावा देने से लोगों को पता चलेगा कि आपसे कैसे संपर्क किया जाए या आपके काम का अनुसरण किया जाए। यदि आप किसी बैठक या कार्यक्रम में बोलते हैं, तो सुनिश्चित करें कि आपकी संपर्क जानकारी आपके बायो या स्लाइड में शामिल है।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+ उन शुरुआती दिनों में मैंने जो गलती की थी (...) वह थी प्रोजेक्ट के लिए ट्विटर अकाउंट शुरू न करना। ट्विटर लोगों को किसी प्रोजेक्ट के बारे में अपडेट रखने के साथ-साथ लोगों को प्रोजेक्ट के बारे में लगातार अवगत कराने का एक शानदार तरीका है।
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["अपाचे तूफान का इतिहास और इससे सीखे गए सबक"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**अपने प्रोजेक्ट के लिए एक वेबसाइट बनाने पर विचार करें।** एक वेबसाइट आपके प्रोजेक्ट को मित्रवत और नेविगेट करने में आसान बनाती है, खासकर जब इसे स्पष्ट दस्तावेज़ीकरण और ट्यूटोरियल के साथ जोड़ा जाता है। एक वेबसाइट होने से यह भी पता चलता है कि आपका प्रोजेक्ट सक्रिय है जिससे आपके दर्शकों को इसका उपयोग करने में अधिक सहजता महसूस होगी। लोगों को अपने प्रोजेक्ट का उपयोग करने के तरीके के बारे में विचार देने के लिए उदाहरण प्रदान करें।
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django के सह-निर्माता ने कहा कि एक वेबसाइट _"प्रारंभिक दिनों में Django के साथ हमने जो किया वह अब तक का सबसे अच्छा काम था"_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+यदि आपका प्रोजेक्ट GitHub पर होस्ट किया गया है, तो आप इसका उपयोग कर सकते हैं [GitHub Pages](https://pages.github.com/) आसानी से एक वेबसाइट बनाने के लिए. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), और [Middleman](https://middlemanapp.com/) हैं [a few examples](https://github.com/showcases/github-pages-examples) उत्कृष्ट, व्यापक वेबसाइटें।
 
 ![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+अब जब भी आपके पास अपने प्रोजेक्ट के लिए एक संदेश है, और लोगों के लिए आपके प्रोजेक्ट को आकर्षित करने का एक आसान तरीका है, तो वहां आएं और अपने दर्शकों से बात करें!
 
-## Go where your project's audience is (online)
+## वहां जाएं जहां आपके प्रोजेक्ट के दर्शक हैं (ऑनलाइन)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+ऑनलाइन आउटरीच बात को तेजी से साझा करने और फैलाने का एक शानदार तरीका है। ऑनलाइन चैनलों का उपयोग करके, आपके पास बहुत व्यापक दर्शकों तक पहुंचने की क्षमता है।
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+अपने दर्शकों तक पहुंचने के लिए मौजूदा ऑनलाइन समुदायों और प्लेटफार्मों का लाभ उठाएं। यदि आपका ओपन सोर्स प्रोजेक्ट एक सॉफ्टवेयर प्रोजेक्ट है, तो आप संभवतः अपने दर्शकों को ढूंढ सकते हैं [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), या [Quora](https://www.quora.com/). वे चैनल ढूंढें जहां आपको लगता है कि लोगों को आपके काम से सबसे अधिक लाभ होगा या वे आपके काम के बारे में उत्साहित होंगे।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  प्रत्येक प्रोग्राम में बहुत विशिष्ट कार्य होते हैं जो केवल कुछ ही उपयोगकर्ताओं को उपयोगी लगेंगे। जितना संभव हो उतने लोगों को स्पैम न करें। इसके बजाय, अपने प्रयासों को उन समुदायों पर लक्षित करें जिन्हें आपके प्रोजेक्ट के बारे में जानने से लाभ होगा।
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["ओपन सोर्स प्रोजेक्ट्स के लिए मार्केटिंग"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+देखें कि क्या आप अपने प्रोजेक्ट को प्रासंगिक तरीकों से साझा करने के तरीके ढूंढ सकते हैं:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **प्रासंगिक ओपन सोर्स प्रोजेक्ट्स और समुदायों को जानें।** कभी-कभी, आपको सीधे अपने प्रोजेक्ट का प्रचार करने की ज़रूरत नहीं होती है। यदि आपका प्रोजेक्ट पायथन का उपयोग करने वाले डेटा वैज्ञानिकों के लिए एकदम सही है, तो पायथन डेटा विज्ञान समुदाय को जानें। जैसे-जैसे लोग आपको जानने लगेंगे, आपके काम के बारे में बात करने और साझा करने के स्वाभाविक अवसर पैदा होंगे।
+* **उन लोगों को ढूंढें जो उस समस्या का अनुभव कर रहे हैं जिसे आपका प्रोजेक्ट हल करता है।** उन लोगों के लिए संबंधित मंचों के माध्यम से खोजें जो आपके प्रोजेक्ट के लक्षित दर्शकों में आते हैं। उनके प्रश्न का उत्तर दें और समाधान के रूप में अपनी परियोजना का सुझाव देने के लिए, जब उचित हो, एक चतुराईपूर्ण तरीका खोजें।
+* **प्रतिक्रिया के लिए पूछें।** ऐसे दर्शकों के सामने अपना और अपने काम का परिचय दें जिन्हें यह प्रासंगिक और दिलचस्प लगे। इस बारे में स्पष्ट रहें कि आपको क्या लगता है कि आपके प्रोजेक्ट से किसे लाभ होगा। वाक्य को पूरा करने का प्रयास करें: _"मुझे लगता है कि मेरा प्रोजेक्ट वास्तव में एक्स की मदद करेगा, जो Y_ करने की कोशिश कर रहे हैं"। केवल अपने काम का प्रचार करने के बजाय दूसरों की प्रतिक्रिया सुनें और उसका जवाब दें।
 
-Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
+सामान्यतया, बदले में चीज़ें मांगने से पहले दूसरों की मदद करने पर ध्यान केंद्रित करें। क्योंकि कोई भी किसी प्रोजेक्ट को आसानी से ऑनलाइन प्रमोट कर सकता है, इसलिए बहुत शोर होगा। भीड़ से अलग दिखने के लिए, लोगों को यह संदर्भ दें कि आप कौन हैं, न कि केवल वह जो आप चाहते हैं।
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
+यदि कोई आपकी आरंभिक पहुंच पर ध्यान नहीं देता है या प्रतिक्रिया नहीं देता है, तो निराश न हों! अधिकांश प्रोजेक्ट लॉन्च एक पुनरावृत्तीय प्रक्रिया है जिसमें महीनों या वर्षों का समय लग सकता है। यदि आपको पहली बार कोई प्रतिक्रिया नहीं मिलती है, तो एक अलग रणनीति आज़माएं, या पहले दूसरों के काम में मूल्य जोड़ने के तरीकों की तलाश करें। अपने प्रोजेक्ट को प्रचारित करने और लॉन्च करने में समय और समर्पण लगता है।
 
-## Go where your project's audience is (offline)
+## वहां जाएं जहां आपके प्रोजेक्ट के दर्शक हैं (ऑफ़लाइन)
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![सार्वजनिक रूप से बोलना](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+ऑफ़लाइन कार्यक्रम दर्शकों के बीच नई परियोजनाओं को बढ़ावा देने का एक लोकप्रिय तरीका है। वे व्यस्त दर्शकों तक पहुंचने और गहरे मानवीय संबंध बनाने का एक शानदार तरीका हैं, खासकर यदि आप डेवलपर्स तक पहुंचने में रुचि रखते हैं।
 
-If you're [new to public speaking](https://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+यदि आप [सार्वजनिक भाषण में नए](https://peaking.io/) हैं, तो एक स्थानीय बैठक ढूंढ़कर शुरुआत करें जो आपके प्रोजेक्ट की भाषा या पारिस्थितिकी तंत्र से संबंधित हो।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  मैं PyCon जाने को लेकर काफी घबराया हुआ था। मैं एक भाषण दे रहा था, मैं वहां केवल कुछ लोगों को जानने वाला था, मैं पूरे एक सप्ताह के लिए जा रहा था। (...) हालाँकि, मुझे चिंतित नहीं होना चाहिए था। PyCon असाधारण रूप से अद्भुत था! (...) हर कोई अविश्वसनीय रूप से मिलनसार और मिलनसार था, इतना कि मुझे लोगों से बात न करने का समय ही नहीं मिल पाता था!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["मैंने चिंता करना बंद करना और पाइकॉन से प्यार करना कैसे सीखा"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+यदि आपने पहले कभी किसी कार्यक्रम में बात नहीं की है, तो घबराहट महसूस होना बिल्कुल सामान्य है! याद रखें कि आपके दर्शक वहां हैं क्योंकि वे वास्तव में आपके काम के बारे में सुनना चाहते हैं।
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+जब आप अपनी बात लिखते हैं, तो इस बात पर ध्यान केंद्रित करें कि आपके दर्शकों को क्या दिलचस्प लगेगा और उन्हें क्या लाभ मिलेगा। अपनी भाषा मित्रतापूर्ण एवं सुगम्य रखें। मुस्कुराएं, सांस लें और आनंद लें।
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  जब आप अपनी बातचीत लिखना शुरू करते हैं, तो इससे कोई फर्क नहीं पड़ता कि आपका विषय क्या है, अगर आप अपनी बातचीत को एक कहानी के रूप में देखते हैं जो आप लोगों को बताते हैं तो इससे मदद मिल सकती है।
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— लीना रेनहार्ड, ["टेक कॉन्फ्रेंस टॉक की तैयारी और लेखन कैसे करें"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+जब आप तैयार महसूस करें, तो अपने प्रोजेक्ट को बढ़ावा देने के लिए एक सम्मेलन में बोलने पर विचार करें। सम्मेलन आपको अधिक लोगों तक पहुँचने में मदद कर सकते हैं, कभी-कभी दुनिया भर से।
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+ऐसे सम्मेलनों की तलाश करें जो आपकी भाषा या पारिस्थितिकी तंत्र के लिए विशिष्ट हों। अपना भाषण प्रस्तुत करने से पहले, उपस्थित लोगों के लिए अपनी बात तैयार करने के लिए सम्मेलन पर शोध करें और सम्मेलन में बोलने के लिए स्वीकार किए जाने की संभावना बढ़ाएं। आप अक्सर सम्मेलन के वक्ताओं को देखकर अपने दर्शकों के बारे में अंदाजा लगा सकते हैं।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  मैंने JSConf के लोगों को बहुत अच्छा लिखा और उनसे विनती की कि वे मुझे एक स्लॉट दें जहां मैं इसे JSConf EU में प्रस्तुत कर सकूं। (...) जिस चीज़ पर मैं छह महीने से काम कर रहा था, उसे पेश करते हुए मैं बेहद डरा हुआ था। (...) पूरे समय मैं बस यही सोच रहा था, हे भगवान। मैं यहां क्या कर रहा हूं?
   <p markdown="1" class="pquote-credit">
-— @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+— @ry, ["Node.js का इतिहास" (वीडियो)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
-## Build a reputation
+## प्रतिष्ठा बनायें
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+ऊपर उल्लिखित रणनीतियों के अलावा, लोगों को अपने प्रोजेक्ट में साझा करने और योगदान करने के लिए आमंत्रित करने का सबसे अच्छा तरीका उनकी परियोजनाओं को साझा करना और योगदान देना है।
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+नए लोगों की मदद करना, संसाधन साझा करना और दूसरों की परियोजनाओं में विचारशील योगदान देना आपको सकारात्मक प्रतिष्ठा बनाने में मदद करेगा। ओपन सोर्स समुदाय में एक सक्रिय सदस्य होने से लोगों को आपके काम के संदर्भ में मदद मिलेगी और आपके प्रोजेक्ट पर ध्यान देने और साझा करने की अधिक संभावना होगी। अन्य ओपन सोर्स परियोजनाओं के साथ संबंध विकसित करने से आधिकारिक साझेदारी भी हो सकती है।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  आज urllib3 सबसे लोकप्रिय तृतीय-पक्ष पायथन लाइब्रेरी है, इसका एकमात्र कारण यह है कि यह अनुरोधों का हिस्सा है।
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
+— @shazow, ["अपने ओपन सोर्स प्रोजेक्ट को कैसे सफल बनाएं"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+अपनी प्रतिष्ठा बनाना शुरू करने के लिए कभी भी बहुत जल्दी या बहुत देर नहीं होती है। भले ही आपने अपना खुद का प्रोजेक्ट पहले ही लॉन्च कर दिया हो, दूसरों की मदद करने के तरीकों की तलाश जारी रखें।
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+दर्शक वर्ग बनाने का कोई रातोरात समाधान नहीं है। दूसरों का विश्वास और सम्मान हासिल करने में समय लगता है, और आपकी प्रतिष्ठा बनाना कभी ख़त्म नहीं होता।
 
-## Keep at it!
+## बने रहिए!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+लोगों को आपके ओपन सोर्स प्रोजेक्ट पर ध्यान देने में काफी समय लग सकता है। वह ठीक है! आज की कुछ सबसे लोकप्रिय परियोजनाओं को गतिविधि के उच्च स्तर तक पहुंचने में वर्षों लग गए। यह आशा करने के बजाय कि आपका प्रोजेक्ट अनायास लोकप्रियता हासिल कर लेगा, संबंध बनाने पर ध्यान केंद्रित करें। धैर्य रखें और अपना काम उन लोगों के साथ साझा करते रहें जो इसकी सराहना करते हैं।
