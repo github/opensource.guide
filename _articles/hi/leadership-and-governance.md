@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+lang: hi
+title: नेतृत्व और शासन
+description: निर्णय लेने के लिए औपचारिक नियमों से बढ़ते ओपन सोर्स प्रोजेक्ट्स को फायदा हो सकता है।
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -10,147 +10,148 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## अपने बढ़ते प्रोजेक्ट के लिए प्रशासन को समझना
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+आपका प्रोजेक्ट बढ़ रहा है, लोग इसमें लगे हुए हैं और आप इस चीज़ को जारी रखने के लिए प्रतिबद्ध हैं। इस स्तर पर, आप सोच रहे होंगे कि नियमित परियोजना योगदानकर्ताओं को अपने वर्कफ़्लो में कैसे शामिल किया जाए, चाहे वह किसी को प्रतिबद्ध पहुंच प्रदान करना हो या सामुदायिक बहस को हल करना हो। यदि आपके कोई प्रश्न हैं, तो हमें उत्तर मिल गए हैं।
 
-## What are examples of formal roles used in open source projects?
+## ओपन सोर्स प्रोजेक्ट्स में उपयोग की जाने वाली औपचारिक भूमिकाओं के उदाहरण क्या हैं?
 
-Many projects follow a similar structure for contributor roles and recognition.
+कई परियोजनाएँ योगदानकर्ता भूमिकाओं और मान्यता के लिए समान संरचना का पालन करती हैं।
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+हालाँकि, इन भूमिकाओं का वास्तव में क्या मतलब है, यह पूरी तरह आप पर निर्भर है। यहां कुछ प्रकार की भूमिकाएं दी गई हैं जिन्हें आप पहचान सकते हैं:
 
-* **Maintainer**
-* **Contributor**
-* **Committer**
+* **रखरखाव**
+* **योगदान देने वाला**
+* **कमिटर**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**कुछ परियोजनाओं के लिए, "रखरखावकर्ता"** किसी परियोजना में प्रतिबद्ध पहुंच वाले एकमात्र लोग होते हैं। अन्य परियोजनाओं में, वे केवल वे लोग हैं जो रीडमी में अनुरक्षक के रूप में सूचीबद्ध हैं।
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+एक अनुरक्षक आवश्यक रूप से ऐसा व्यक्ति नहीं है जो आपके प्रोजेक्ट के लिए कोड लिखता हो। यह कोई ऐसा व्यक्ति हो सकता है जिसने आपके प्रोजेक्ट को प्रचारित करने के लिए बहुत काम किया हो, या लिखित दस्तावेज़ीकरण किया हो जिसने प्रोजेक्ट को दूसरों के लिए अधिक सुलभ बना दिया हो। चाहे वे दिन-प्रतिदिन कुछ भी करें, एक अनुरक्षक संभवतः वह व्यक्ति होता है जो परियोजना की दिशा में ज़िम्मेदारी महसूस करता है और इसे सुधारने के लिए प्रतिबद्ध है।
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**एक "योगदानकर्ता" कोई भी हो सकता है** जो किसी मुद्दे या पुल अनुरोध पर टिप्पणी करता है, जो लोग परियोजना में मूल्य जोड़ते हैं (चाहे वह मुद्दों का परीक्षण करना हो, कोड लिखना हो, या घटनाओं का आयोजन करना हो), या मर्ज किए गए पुल अनुरोध वाला कोई भी व्यक्ति (शायद योगदानकर्ता की सबसे संकीर्ण परिभाषा।)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[ Node.js के लिया,\] प्रत्येक व्यक्ति जो किसी मुद्दे पर टिप्पणी करने या कोड सबमिट करने के लिए आता है, वह प्रोजेक्ट समुदाय का सदस्य होता है। बस उन्हें देखने में सक्षम होने का मतलब है कि उन्होंने उपयोगकर्ता से योगदानकर्ता बनने की सीमा पार कर ली है।
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**शब्द "कमिटर"** का उपयोग कमिट एक्सेस, जो एक विशिष्ट प्रकार की जिम्मेदारी है, को योगदान के अन्य रूपों से अलग करने के लिए किया जा सकता है।
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+हालाँकि आप अपनी परियोजना भूमिकाओं को अपनी इच्छानुसार किसी भी तरह परिभाषित कर सकते हैं, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) योगदान के और अधिक रूपों को प्रोत्साहित करना। आप उन लोगों को औपचारिक रूप से पहचानने के लिए नेतृत्व की भूमिकाओं का उपयोग कर सकते हैं जिन्होंने आपके प्रोजेक्ट में उत्कृष्ट योगदान दिया है, भले ही उनके तकनीकी कौशल कुछ भी हों।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  आप शायद मुझे Django के "आविष्कारक" के रूप में जानते होंगे...लेकिन वास्तव में मैं वह व्यक्ति हूं जिसे किसी चीज़ के बनने के एक साल बाद उस पर काम करने के लिए नियुक्त किया गया था। (...) लोगों को संदेह है कि मैं अपने प्रोग्रामिंग कौशल के कारण सफल हूं...लेकिन मैं अधिक से अधिक एक औसत प्रोग्रामर हूं।
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## मैं इन नेतृत्व भूमिकाओं को कैसे औपचारिक बनाऊं?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+अपनी नेतृत्व भूमिकाओं को औपचारिक बनाने से लोगों को स्वामित्व महसूस करने में मदद मिलती है और समुदाय के अन्य सदस्यों को पता चलता है कि मदद के लिए किससे संपर्क करना चाहिए।
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+एक छोटी परियोजना के लिए, नेताओं को नामित करना आपके README या CONTRIBUTORS टेक्स्ट फ़ाइल में उनके नाम जोड़ने जितना आसान हो सकता है।
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+किसी बड़े प्रोजेक्ट के लिए, यदि आपके पास कोई वेबसाइट है, तो एक टीम पेज बनाएं या वहां अपने प्रोजेक्ट लीडरों की सूची बनाएं। उदाहरण के लिए, [Postgres](https://github.com/postgres/postgres/) के पास एक [comprehensive team page](https://www.postgresql.org/community/contributors/) प्रत्येक योगदानकर्ता के लिए संक्षिप्त प्रोफ़ाइल के साथ।
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+यदि आपके प्रोजेक्ट में बहुत सक्रिय योगदानकर्ता समुदाय है, तो आप अनुरक्षकों की एक "कोर टीम" बना सकते हैं, या ऐसे लोगों की उपसमितियां भी बना सकते हैं जो विभिन्न मुद्दे क्षेत्रों (उदाहरण के लिए, सुरक्षा, समस्या निवारण, या सामुदायिक आचरण) का स्वामित्व लेते हैं। लोगों को वे भूमिकाएँ सौंपने के बजाय स्वयं संगठित होने दें और उनके लिए स्वेच्छा से काम करने दें जिनके बारे में वे सबसे अधिक उत्साहित हैं।
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[हम\] कई "उपटीमों" के साथ कोर टीम को पूरक करें। प्रत्येक उपटीम एक विशिष्ट क्षेत्र पर केंद्रित है, जैसे, भाषा डिज़ाइन या पुस्तकालय। (...) समग्र रूप से परियोजना के लिए वैश्विक समन्वय और एक मजबूत, सुसंगत दृष्टिकोण सुनिश्चित करने के लिए, प्रत्येक उपटीम का नेतृत्व कोर टीम के एक सदस्य द्वारा किया जाता है।
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
+नेतृत्व दल एक निर्दिष्ट चैनल बनाना चाह सकते हैं (जैसे आईआरसी पर) या परियोजना पर चर्चा करने के लिए नियमित रूप से मिलना चाहते हैं (जैसे गिटर या गूगल हैंगआउट पर)। आप उन बैठकों को सार्वजनिक भी कर सकते हैं ताकि अन्य लोग सुन सकें। [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), उदाहरण के लिए, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+एक बार जब आप नेतृत्व की भूमिकाएँ स्थापित कर लें, तो यह दस्तावेज करना न भूलें कि लोग उन्हें कैसे प्राप्त कर सकते हैं! कोई आपके प्रोजेक्ट में अनुरक्षक कैसे बन सकता है या उपसमिति में कैसे शामिल हो सकता है, इसके लिए एक स्पष्ट प्रक्रिया स्थापित करें और इसे अपने में लिखें GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+उपकरण जैसे [Vossibility](https://github.com/icecrime/vossibility-stack) आपको सार्वजनिक रूप से ट्रैक करने में मदद मिल सकती है कि प्रोजेक्ट में कौन योगदान दे रहा है (या नहीं दे रहा है)। इस जानकारी का दस्तावेजीकरण करने से समुदाय की इस धारणा से बचा जा सकता है कि रखरखाव करने वाले एक समूह हैं जो निजी तौर पर अपने निर्णय लेते हैं।
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
+अंत में, यदि आपका प्रोजेक्ट GitHub पर है, तो अपने प्रोजेक्ट को अपने व्यक्तिगत खाते से किसी संगठन में ले जाने और कम से कम एक बैकअप व्यवस्थापक जोड़ने पर विचार करें। [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) अनुमतियों और एकाधिक रिपॉजिटरी को प्रबंधित करना और अपने प्रोजेक्ट की विरासत को सुरक्षित रखना आसान बनाएं [shared ownership](../building-community/#share-ownership-of-your-project).
 
-## When should I give someone commit access?
+## मुझे किसी को प्रतिबद्ध पहुंच कब देनी चाहिए?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+कुछ लोग सोचते हैं कि आपको योगदान देने वाले हर व्यक्ति को प्रतिबद्ध पहुंच देनी चाहिए। ऐसा करने से अधिक लोग आपके प्रोजेक्ट पर स्वामित्व महसूस करने के लिए प्रोत्साहित हो सकते हैं।
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+दूसरी ओर, विशेष रूप से बड़ी, अधिक जटिल परियोजनाओं के लिए, आप केवल उन लोगों को प्रतिबद्ध पहुंच देना चाह सकते हैं जिन्होंने अपनी प्रतिबद्धता प्रदर्शित की है। इसे करने का कोई एक सही तरीका नहीं है - वही करें जो आपको सबसे अधिक आरामदायक लगे!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+यदि आपका प्रोजेक्ट GitHub पर है, तो आप इसका उपयोग कर सकते हैं [protected branches](https://help.github.com/articles/about-protected-branches/) यह प्रबंधित करना कि कौन किसी विशेष शाखा में जा सकता है, और किन परिस्थितियों में।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  जब भी कोई आपको पुल अनुरोध भेजता है, तो उन्हें अपने प्रोजेक्ट तक पहुंच प्रदान करें। हालाँकि यह पहली बार में अविश्वसनीय रूप से बेवकूफी भरा लग सकता है, इस रणनीति का उपयोग करने से आप GitHub की वास्तविक शक्ति को उजागर कर सकेंगे। (...) एक बार लोगों के पास प्रतिबद्ध पहुंच हो जाने के बाद, उन्हें चिंता नहीं रहती कि उनका पैच अलग हो सकता है...जिससे उन्हें इसमें और अधिक काम करना पड़ेगा।
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## ओपन सोर्स परियोजनाओं के लिए कुछ सामान्य शासन संरचनाएँ क्या हैं?
 
-There are three common governance structures associated with open source projects.
+ओपन सोर्स परियोजनाओं से जुड़ी तीन सामान्य शासन संरचनाएँ हैं।
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **बीडीएफएल:** बीडीएफएल का अर्थ है "जीवन के लिए परोपकारी तानाशाह"। इस संरचना के तहत, सभी प्रमुख परियोजना निर्णयों पर एक व्यक्ति (आमतौर पर परियोजना का प्रारंभिक लेखक) का अंतिम अधिकार होता है। [Python](https://github.com/python) एक उत्कृष्ट उदाहरण है. छोटी परियोजनाएँ संभवतः डिफ़ॉल्ट रूप से बीडीएफएल हैं, क्योंकि केवल एक या दो अनुरक्षक होते हैं। किसी कंपनी में शुरू हुआ प्रोजेक्ट भी बीडीएफएल श्रेणी में आ सकता है।
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **मेरिटोक्रेसी:** **(नोट: शब्द "मेरिटोक्रेसी" कुछ समुदायों के लिए नकारात्मक अर्थ रखता है और इसका एक नकारात्मक प्रभाव है[complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** योग्यतातंत्र के तहत, सक्रिय परियोजना योगदानकर्ताओं (जो "योग्यता" प्रदर्शित करते हैं) को औपचारिक निर्णय लेने की भूमिका दी जाती है। निर्णय आम तौर पर शुद्ध मतदान सर्वसम्मति के आधार पर किए जाते हैं। योग्यतातंत्र की अवधारणा का सूत्रपात किसके द्वारा किया गया था? [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) 
+योग्यतातंत्र हैं. योगदान केवल अपना प्रतिनिधित्व करने वाले व्यक्तियों द्वारा ही किया जा सकता है, किसी कंपनी द्वारा नहीं।
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
+* **उदार योगदान:** उदार योगदान मॉडल के तहत, जो लोग सबसे अधिक काम करते हैं उन्हें सबसे प्रभावशाली माना जाता है, लेकिन यह वर्तमान कार्य पर आधारित है न कि ऐतिहासिक योगदान पर। प्रमुख परियोजना निर्णय शुद्ध वोट के बजाय सर्वसम्मति प्राप्त करने की प्रक्रिया (प्रमुख शिकायतों पर चर्चा) के आधार पर किए जाते हैं, और यथासंभव अधिक से अधिक सामुदायिक दृष्टिकोणों को शामिल करने का प्रयास किया जाता है। उदार योगदान मॉडल का उपयोग करने वाली परियोजनाओं के लोकप्रिय उदाहरणों में शामिल हैं [Node.js](https://foundation.nodejs.org/) और [Rust](https://www.rust-lang.org/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+आपको किसका उपयोग करना चाहिए? यह आप पर निर्भर करता है! हर मॉडल के फायदे और फायदे हैं। और यद्यपि वे पहली बार में काफी भिन्न लग सकते हैं, तीनों मॉडलों में जितना वे दिखते हैं उससे कहीं अधिक समानता है। यदि आप इनमें से किसी एक मॉडल को अपनाने में रुचि रखते हैं, तो इन टेम्पलेट्स को देखें:
 
 * [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## क्या मुझे अपना प्रोजेक्ट लॉन्च करते समय शासन दस्तावेज़ों की आवश्यकता होगी?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+आपके प्रोजेक्ट के प्रशासन को लिखने का कोई सही समय नहीं है, लेकिन एक बार जब आप अपने समुदाय की गतिशीलता को देख लेंगे तो इसे परिभाषित करना बहुत आसान हो जाएगा। ओपन सोर्स गवर्नेंस के बारे में सबसे अच्छी (और सबसे कठिन) बात यह है कि इसे समुदाय द्वारा आकार दिया जाता है!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+हालाँकि, कुछ शुरुआती दस्तावेज़ अनिवार्य रूप से आपके प्रोजेक्ट के प्रशासन में योगदान देंगे, इसलिए आप जो कर सकते हैं उसे लिखना शुरू कर दें। उदाहरण के लिए, आप व्यवहार के लिए स्पष्ट अपेक्षाओं को परिभाषित कर सकते हैं, या आपके प्रोजेक्ट के लॉन्च पर भी आपकी योगदानकर्ता प्रक्रिया कैसे काम करती है।
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+यदि आप एक ओपन सोर्स प्रोजेक्ट लॉन्च करने वाली कंपनी का हिस्सा हैं, तो लॉन्च से पहले इस बारे में आंतरिक चर्चा करना उचित है कि आपकी कंपनी प्रोजेक्ट को आगे बढ़ाने के बारे में कैसे बनाए रखने और निर्णय लेने की उम्मीद करती है। हो सकता है कि आप सार्वजनिक रूप से यह स्पष्ट करना चाहें कि आपकी कंपनी इस परियोजना में कैसे शामिल होगी (या नहीं करेगी!)।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  हम GitHub पर प्रोजेक्ट प्रबंधित करने के लिए छोटी टीमें नियुक्त करते हैं जो वास्तव में Facebook पर इन पर काम कर रही हैं। उदाहरण के लिए, रिएक्ट एक रिएक्ट इंजीनियर द्वारा चलाया जाता है।
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## यदि कॉर्पोरेट कर्मचारी अंशदान जमा करना शुरू कर दें तो क्या होगा?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+सफल ओपन सोर्स परियोजनाओं का उपयोग कई लोगों और कंपनियों द्वारा किया जाता है, और कुछ कंपनियों के पास अंततः राजस्व धाराएं परियोजना से जुड़ी हो सकती हैं। उदाहरण के लिए, कोई कंपनी किसी वाणिज्यिक सेवा पेशकश में परियोजना के कोड को एक घटक के रूप में उपयोग कर सकती है।
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+जैसे-जैसे परियोजना अधिक व्यापक रूप से उपयोग की जाती है, इसमें विशेषज्ञता रखने वाले लोगों की मांग अधिक हो जाती है - आप उनमें से एक हो सकते हैं! - और कभी-कभी उन्हें प्रोजेक्ट में किए गए काम के लिए भुगतान मिलेगा।
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+व्यावसायिक गतिविधि को सामान्य और विकास ऊर्जा के एक अन्य स्रोत के रूप में मानना ​​महत्वपूर्ण है। निःसंदेह, भुगतान किए गए डेवलपर्स को अवैतनिक डेवलपर्स की तुलना में विशेष व्यवहार नहीं मिलना चाहिए; प्रत्येक योगदान का मूल्यांकन उसकी तकनीकी खूबियों के आधार पर किया जाना चाहिए। हालाँकि, लोगों को व्यावसायिक गतिविधि में शामिल होने में सहज महसूस करना चाहिए, और किसी विशेष वृद्धि या सुविधा के पक्ष में बहस करते समय अपने उपयोग के मामलों को बताने में सहज महसूस करना चाहिए।
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+"वाणिज्यिक" "ओपन सोर्स" के साथ पूरी तरह से संगत है। "वाणिज्यिक" का सीधा सा मतलब है कि इसमें कहीं न कहीं पैसा शामिल है - कि सॉफ्टवेयर का उपयोग वाणिज्य में किया जाता है, जो कि एक परियोजना के अपनाने के रूप में तेजी से संभव है। (जब ओपन सोर्स सॉफ़्टवेयर का उपयोग गैर-ओपन-सोर्स उत्पाद के हिस्से के रूप में किया जाता है, तो समग्र उत्पाद अभी भी "मालिकाना" सॉफ़्टवेयर होता है, हालांकि, ओपन सोर्स की तरह, इसका उपयोग वाणिज्यिक या गैर-व्यावसायिक उद्देश्यों के लिए किया जा सकता है।)
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+किसी भी अन्य की तरह, व्यावसायिक रूप से प्रेरित डेवलपर्स अपने योगदान की गुणवत्ता और मात्रा के माध्यम से परियोजना में प्रभाव प्राप्त करते हैं। जाहिर है, एक डेवलपर जिसे उसके समय के लिए भुगतान किया जाता है, वह उस व्यक्ति से अधिक काम करने में सक्षम हो सकता है जिसे भुगतान नहीं किया जाता है, लेकिन यह ठीक है: भुगतान कई संभावित कारकों में से एक है जो किसी के काम को प्रभावित कर सकता है। अपनी परियोजना चर्चाओं को योगदानों पर केंद्रित रखें, न कि उन बाहरी कारकों पर जो लोगों को योगदान देने में सक्षम बनाते हैं।
 
-## Do I need a legal entity to support my project?
+## क्या मुझे अपने प्रोजेक्ट का समर्थन करने के लिए एक कानूनी इकाई की आवश्यकता है?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+जब तक आप पैसे का प्रबंधन नहीं कर रहे हों, आपको अपने ओपन सोर्स प्रोजेक्ट का समर्थन करने के लिए किसी कानूनी इकाई की आवश्यकता नहीं है।
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+उदाहरण के लिए, यदि आप एक वाणिज्यिक व्यवसाय बनाना चाहते हैं, तो आप एक सी कॉर्प या एलएलसी स्थापित करना चाहेंगे (यदि आप अमेरिका में स्थित हैं)। यदि आप केवल अपने ओपन सोर्स प्रोजेक्ट से संबंधित अनुबंध कार्य कर रहे हैं, तो आप एकमात्र मालिक के रूप में धन स्वीकार कर सकते हैं, या एलएलसी स्थापित कर सकते हैं (यदि आप अमेरिका में स्थित हैं)।
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+यदि आप अपने ओपन सोर्स प्रोजेक्ट के लिए दान स्वीकार करना चाहते हैं, तो आप एक दान बटन सेट कर सकते हैं (उदाहरण के लिए पेपैल या स्ट्राइप का उपयोग करके), लेकिन पैसा तब तक कर-कटौती योग्य नहीं होगा जब तक कि आप एक योग्य गैर-लाभकारी संस्था (501c3, यदि आप अमेरिका में हैं)।
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+कई परियोजनाएँ एक गैर-लाभकारी संस्था स्थापित करने की परेशानी से गुज़रना नहीं चाहती हैं, इसलिए वे इसके बजाय एक गैर-लाभकारी राजकोषीय प्रायोजक ढूंढती हैं। एक राजकोषीय प्रायोजक आपकी ओर से दान स्वीकार करता है, आमतौर पर दान के एक प्रतिशत के बदले में। [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) ओर [Open Collective](https://opencollective.com/opensource) ऐसे संगठनों के उदाहरण हैं जो ओपन सोर्स परियोजनाओं के लिए वित्तीय प्रायोजक के रूप में काम करते हैं।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  हमारा लक्ष्य एक ऐसा बुनियादी ढाँचा प्रदान करना है जिसका उपयोग समुदाय स्वयं टिकाऊ होने के लिए कर सकें, इस प्रकार एक ऐसा वातावरण तैयार करना है जहाँ सभी — योगदानकर्ताओं, समर्थकों, प्रायोजकों — को इससे ठोस लाभ मिले।
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
+— @piamancini, ["दान ढांचे से आगे बढ़ना"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+यदि आपका प्रोजेक्ट किसी निश्चित भाषा या पारिस्थितिकी तंत्र से निकटता से जुड़ा हुआ है, तो एक संबंधित सॉफ़्टवेयर फ़ाउंडेशन भी हो सकता है जिसके साथ आप काम कर सकते हैं। उदाहरण के लिए, [Python Software Foundation](https://www.python.org/psf/) मदद करता है [PyPI](https://pypi.org/), पायथन पैकेज मैनेजर का, और [Node.js Foundation](https://foundation.nodejs.org/) मदद करता है [Express.js](https://expressjs.com/) का, एक नोड-आधारित ढांचा।

@@ -1,7 +1,7 @@
 ---
-lang: en
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+lang: hi
+title: ओपन सोर्स का कानूनी पक्ष
+description: ओपन सोर्स के कानूनी पक्ष के बारे में आपने जो कुछ भी सोचा है, और कुछ चीजें जो आपने नहीं सोची हैं।
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
@@ -10,149 +10,153 @@ related:
   - leadership
 ---
 
-## Understanding the legal implications of open source
+## ओपन सोर्स के कानूनी निहितार्थ को समझना
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, you don't have to start from scratch. We've got your legal needs covered. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+अपने रचनात्मक कार्य को दुनिया के साथ साझा करना एक रोमांचक और पुरस्कृत अनुभव हो सकता है। इसका मतलब यह भी हो सकता है कि कई कानूनी चीजें जिनके बारे में आप नहीं जानते कि आपको चिंता करने की ज़रूरत है। शुक्र है, आपको शून्य से शुरुआत करने की ज़रूरत नहीं है। हमने आपकी कानूनी ज़रूरतें पूरी कर ली हैं। (इससे पहले कि आप गहराई से जानें, हमारा पढ़ना सुनिश्चित करें [disclaimer](/notices/).)
 
-## Why do people care so much about the legal side of open source?
+## लोग ओपन सोर्स के कानूनी पक्ष की इतनी परवाह क्यों करते हैं?
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+ख़ुशी है कि आपने पूछा! जब आप कोई रचनात्मक कार्य (जैसे लेखन, ग्राफ़िक्स, या कोड) करते हैं, तो वह कार्य डिफ़ॉल्ट रूप से विशेष कॉपीराइट के अंतर्गत होता है। यानी, कानून मानता है कि आपके काम के लेखक के रूप में, आपको यह कहने का अधिकार है कि दूसरे इसके साथ क्या कर सकते हैं।
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+सामान्य तौर पर, इसका मतलब यह है कि कोई भी अन्य व्यक्ति टेक-डाउन, शेक-डाउन या मुकदमेबाजी के जोखिम के बिना आपके काम का उपयोग, प्रतिलिपि, वितरण या संशोधन नहीं कर सकता है।
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need a license that explicitly states these permissions.
+हालाँकि, ओपन सोर्स एक असामान्य परिस्थिति है, क्योंकि लेखक को उम्मीद है कि अन्य लोग काम का उपयोग, संशोधन और साझा करेंगे। लेकिन चूँकि कानूनी डिफ़ॉल्ट अभी भी अनन्य कॉपीराइट है, इसलिए आपको एक ऐसे लाइसेंस की आवश्यकता है जो इन अनुमतियों को स्पष्ट रूप से बताता हो।
 
-If you don't apply an open source license, everybody who contributes to your project also becomes an exclusive copyright holder of their work. That means nobody can use, copy, distribute, or modify their contributions -- and that "nobody" includes you.
+यदि आप ओपन सोर्स लाइसेंस लागू नहीं करते हैं, तो आपके प्रोजेक्ट में योगदान देने वाला प्रत्येक व्यक्ति भी अपने काम का विशेष कॉपीराइट धारक बन जाता है। इसका मतलब है कि कोई भी उनके योगदान का उपयोग, प्रतिलिपि, वितरण या संशोधन नहीं कर सकता है - और उस "कोई भी" में आप शामिल नहीं हैं।
 
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
+अंततः, आपके प्रोजेक्ट में लाइसेंस आवश्यकताओं वाली निर्भरताएँ हो सकती हैं जिनके बारे में आपको जानकारी नहीं थी। आपके प्रोजेक्ट के समुदाय, या आपके नियोक्ता की नीतियों के लिए, आपके प्रोजेक्ट को विशिष्ट ओपन सोर्स लाइसेंस का उपयोग करने की भी आवश्यकता हो सकती है। हम नीचे इन स्थितियों को कवर करेंगे।
 
-## Are public GitHub projects open source?
+## क्या सार्वजनिक GitHub परियोजनाएँ खुला स्रोत हैं?
 
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
+जब आप GitHub पर [एक नया प्रोजेक्ट बनाते हैं](https://help.github.com/articles/creating-a-new-repository/), तो आपके पास रिपॉजिटरी को **private** या **public** बनाने का विकल्प होता है।
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+**अपने GitHub प्रोजेक्ट को सार्वजनिक बनाना आपके प्रोजेक्ट को लाइसेंस देने के समान नहीं है।** सार्वजनिक परियोजनाएँ इसके अंतर्गत आती हैं [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), जो दूसरों को आपके प्रोजेक्ट को देखने और फोर्क करने की अनुमति देता है, लेकिन अन्यथा आपका काम बिना किसी अनुमति के आता है।
 
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
+यदि आप चाहते हैं कि अन्य लोग आपके प्रोजेक्ट का उपयोग, वितरण, संशोधन या योगदान करें, तो आपको एक ओपन सोर्स लाइसेंस शामिल करना होगा। उदाहरण के लिए, कोई व्यक्ति आपके GitHub प्रोजेक्ट के किसी भी हिस्से को अपने कोड में कानूनी रूप से उपयोग नहीं कर सकता, भले ही वह सार्वजनिक हो, जब तक कि आप स्पष्ट रूप से उन्हें ऐसा करने का अधिकार नहीं देते।
 
-## Just give me the TL;DR on what I need to protect my project.
+## बस मुझे टीएल;डीआर दें कि मुझे अपने प्रोजेक्ट की सुरक्षा के लिए क्या चाहिए।
 
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
+आप भाग्यशाली हैं, क्योंकि आज, ओपन सोर्स लाइसेंस मानकीकृत और उपयोग में आसान हैं। आप किसी मौजूदा लाइसेंस को सीधे अपने प्रोजेक्ट में कॉपी-पेस्ट कर सकते हैं।
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 
+सबसे लोकप्रिय ओपन सोर्स लाइसेंस हैं, लेकिन चुनने के लिए अन्य विकल्प भी हैं। आप इन लाइसेंसों का पूरा पाठ और उनका उपयोग करने के तरीके के बारे में निर्देश यहां पा सकते हैं[choosealicense.com](https://choosealicense.com/).
 
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+जब आप GitHub पर एक नया प्रोजेक्ट बनाएंगे, तो आप होंगे [लाइसेंस जोड़ने के लिए कहा गया](https://help.github.com/articles/open-source-licensing/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
+  एक मानकीकृत लाइसेंस कानूनी प्रशिक्षण के बिना उन लोगों के लिए एक प्रॉक्सी के रूप में कार्य करता है ताकि वे जान सकें कि वे सॉफ़्टवेयर के साथ क्या कर सकते हैं और क्या नहीं। जब तक बिल्कुल आवश्यक न हो, कस्टम, संशोधित या गैर-मानक शब्दों से बचें, जो एजेंसी कोड के डाउनस्ट्रीम उपयोग में बाधा के रूप में काम करेंगे।
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
 </aside>
 
-## Which open source license is appropriate for my project?
+## मेरे प्रोजेक्ट के लिए कौन सा ओपन सोर्स लाइसेंस उपयुक्त है?
 
-If you're starting from a blank slate, it's hard to go wrong with the [MIT License](https://choosealicense.com/licenses/mit/). It's short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You'll be able to release the project under a different license if you ever need to.
+यदि आप कोरी स्लेट से शुरुआत कर रहे हैं, तो इसमें गलत होना कठिन है [MIT License](https://choosealicense.com/licenses/mit/). यह संक्षिप्त है, समझने में बहुत आसान है, और किसी को भी कुछ भी करने की अनुमति देता है जब तक कि वे आपके कॉपीराइट नोटिस सहित लाइसेंस की एक प्रति अपने पास रखते हैं। यदि आपको कभी आवश्यकता होगी तो आप प्रोजेक्ट को एक अलग लाइसेंस के तहत जारी करने में सक्षम होंगे।
 
-Otherwise, picking the right open source license for your project depends on your objectives.
+अन्यथा, आपके प्रोजेक्ट के लिए सही ओपन सोर्स लाइसेंस चुनना आपके उद्देश्यों पर निर्भर करता है।
 
-Your project very likely has (or will have) **dependencies**. For example, if you're open sourcing a Node.js project, you'll probably use libraries from the Node Package Manager (npm). Each of those libraries you depend on will have its own open source license. If each of their licenses is "permissive" (gives the public permission to use, modify, and share, without any condition for downstream licensing), you can use any license you want. Common permissive licenses include MIT, Apache 2.0, ISC, and BSD.
+आपके प्रोजेक्ट की बहुत संभावना है (या होगी) **dependencies**. उदाहरण के लिए, यदि आप Node.js प्रोजेक्ट की ओपन सोर्सिंग कर रहे हैं, तो आप संभवतः नोड पैकेज मैनेजर (npm) से लाइब्रेरी का उपयोग करेंगे। आप जिन पुस्तकालयों पर निर्भर हैं उनमें से प्रत्येक के पास अपना स्वयं का ओपन सोर्स लाइसेंस होगा। यदि उनका प्रत्येक लाइसेंस "अनुमोदनात्मक" है (डाउनस्ट्रीम लाइसेंसिंग के लिए बिना किसी शर्त के जनता को उपयोग, संशोधन और साझा करने की अनुमति देता है), तो आप अपने इच्छित किसी भी लाइसेंस का उपयोग कर सकते हैं। सामान्य अनुमेय लाइसेंस में एमआईटी, अपाचे 2.0, आईएससी और बीएसडी शामिल हैं।
 
-On the other hand, if any of your dependencies' licenses are "strong copyleft" (also gives public same permissions, subject to condition of using the same license downstream), then your project will have to use the same license. Common strong copyleft licenses include GPLv2, GPLv3, and AGPLv3.
+दूसरी ओर, यदि आपकी किसी निर्भरता का लाइसेंस "मजबूत कॉपीलेफ्ट" है (सार्वजनिक रूप से समान अनुमतियाँ देता है, समान लाइसेंस डाउनस्ट्रीम का उपयोग करने की शर्त के अधीन), तो आपके प्रोजेक्ट को उसी लाइसेंस का उपयोग करना होगा। सामान्य मजबूत कॉपीलेफ़्ट लाइसेंस में GPLv2, GPLv3, और AGPLv3 शामिल हैं।
 
-You may also want to consider the **communities** you hope will use and contribute to your project:
+आप शायद उन **communities** पर भी विचार करना चाहेंगे जिनका आप उपयोग करेंगे और आपके प्रोजेक्ट में योगदान देंगे:
 
-* **Do you want your project to be used as a dependency by other projects?** Probably best to use the most popular license in your relevant community. For example, [MIT](https://choosealicense.com/licenses/mit/) is the most popular license for [npm libraries](https://libraries.io/search?platforms=NPM).
-* **Do you want your project to appeal to large businesses?** A large business will likely want an express patent license from all contributors. In this case, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
-* **Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) or (if they also do not wish to contribute to closed source services) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) will go over well.
+* **क्या आप चाहते हैं कि आपकी परियोजना का उपयोग अन्य परियोजनाओं द्वारा निर्भरता के रूप में किया जाए?** संभवतः आपके प्रासंगिक समुदाय में सबसे लोकप्रिय लाइसेंस का उपयोग करना सबसे अच्छा है। उदाहरण के लिए, [MIT](https://choosealicense.com/licenses/mit/) 
+के लिए सबसे लोकप्रिय लाइसेंस है [npm libraries](https://libraries.io/search?platforms=NPM).
+* **क्या आप चाहते हैं कि आपका प्रोजेक्ट बड़े व्यवसायों को पसंद आए?** एक बड़ा व्यवसाय संभवतः सभी योगदानकर्ताओं से एक एक्सप्रेस पेटेंट लाइसेंस चाहेगा। इस मामले में, [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) has you (and them) covered.
+* **क्या आप चाहते हैं कि आपका प्रोजेक्ट उन योगदानकर्ताओं को आकर्षित करे जो नहीं चाहते कि उनके योगदान का उपयोग बंद स्रोत सॉफ़्टवेयर में किया जाए?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) या (यदि वे भी बंद स्रोत सेवाओं में योगदान नहीं करना चाहते हैं) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) 
+अच्छा चलेगा।
 
-Your **company** may have specific licensing requirements for its open source projects. For example, it may require a permissive license so that the company can use your project in the company's closed source product. Or your company may require a strong copyleft license and an additional contributor agreement (see below) so that only your company, and nobody else, can use your project in closed source software. Or your company may have certain needs related to standards, social responsibility, or transparency, any of which could require a particular licensing strategy. Talk to your [company's legal department](#what-does-my-companys-legal-team-need-to-know).
+आपकी **कंपनी** को अपने ओपन सोर्स प्रोजेक्ट्स के लिए विशिष्ट लाइसेंसिंग आवश्यकताएं हो सकती हैं। उदाहरण के लिए, इसके लिए एक अनुमेय लाइसेंस की आवश्यकता हो सकती है ताकि कंपनी आपके प्रोजेक्ट का उपयोग कंपनी के बंद स्रोत उत्पाद में कर सके। या आपकी कंपनी को एक मजबूत कॉपीलेफ्ट लाइसेंस और एक अतिरिक्त योगदानकर्ता समझौते (नीचे देखें) की आवश्यकता हो सकती है ताकि केवल आपकी कंपनी, और कोई नहीं, बंद स्रोत सॉफ़्टवेयर में आपके प्रोजेक्ट का उपयोग कर सके। या आपकी कंपनी को मानकों, सामाजिक जिम्मेदारी, या पारदर्शिता से संबंधित कुछ ज़रूरतें हो सकती हैं, जिनमें से किसी के लिए एक विशेष लाइसेंसिंग रणनीति की आवश्यकता हो सकती है। आप अपने [कंपनी का कानूनी विभाग](#what-does-my-companys-legal-team-need-to-know) से बातें करें।
 
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you'd like to see other options, check out [choosealicense.com](https://choosealicense.com) to find the right license for your project, even if it [isn't software](https://choosealicense.com/non-software/).
+जब आप GitHub पर एक नया प्रोजेक्ट बनाते हैं, तो आपको लाइसेंस चुनने का विकल्प दिया जाता है। ऊपर उल्लिखित लाइसेंसों में से एक को शामिल करने से आपका GitHub प्रोजेक्ट खुला स्रोत बन जाएगा। यदि आप अन्य विकल्प देखना चाहते हैं, तो देखें [choosealicense.com](https://choosealicense.com) अपने प्रोजेक्ट के लिए सही लाइसेंस ढूँढ़ने के लिए, भले ही वह हो [isn't software](https://choosealicense.com/non-software/).
 
-## What if I want to change the license of my project?
+## यदि मैं अपने प्रोजेक्ट का लाइसेंस बदलना चाहूँ तो क्या होगा?
 
-Most projects never need to change licenses. But occasionally circumstances change.
+अधिकांश परियोजनाओं को कभी भी लाइसेंस बदलने की आवश्यकता नहीं होती है। लेकिन कभी-कभी हालात बदल जाते हैं.
 
-For example, as your project grows it adds dependencies or users, or your company changes strategies, any of which could require or want a different license. Also, if you neglected to license your project from the start, adding a license is effectively the same as changing licenses. There are three fundamental things to consider when adding or changing your project's license:
+उदाहरण के लिए, जैसे-जैसे आपका प्रोजेक्ट बढ़ता है, इसमें निर्भरताएँ या उपयोगकर्ता जुड़ते हैं, या आपकी कंपनी रणनीतियाँ बदलती है, जिनमें से किसी को भी अलग लाइसेंस की आवश्यकता हो सकती है या चाहिए। साथ ही, यदि आपने शुरू से ही अपने प्रोजेक्ट को लाइसेंस देने की उपेक्षा की है, तो लाइसेंस जोड़ना प्रभावी रूप से लाइसेंस बदलने के समान है। अपने प्रोजेक्ट का लाइसेंस जोड़ते या बदलते समय विचार करने योग्य तीन मूलभूत बातें हैं:
 
-**It's complicated.** Determining license compatibility and compliance and who holds copyright can get complicated and confusing very quickly. Switching to a new but compatible license for new releases and contributions is different from relicensing all existing contributions. Involve your legal team at the first hint of any desire to change licenses. Even if you have or can obtain permission from your project's copyright holders for a license change, consider the impact of the change on your project's other users and contributors. Think of a license change as a "governance event" for your project that will more likely go smoothly with clear communications and consultation with your project's stakeholders. All the more reason to choose and use an appropriate license for your project from its inception!
+**यह जटिल है।** लाइसेंस अनुकूलता और अनुपालन का निर्धारण करना और कॉपीराइट किसके पास है, यह बहुत जल्दी जटिल और भ्रमित करने वाला हो सकता है। नई रिलीज़ और योगदान के लिए नए लेकिन संगत लाइसेंस पर स्विच करना सभी मौजूदा योगदानों को दोबारा लाइसेंस देने से अलग है। लाइसेंस बदलने की इच्छा के पहले संकेत पर अपनी कानूनी टीम को शामिल करें। भले ही आपके पास लाइसेंस परिवर्तन के लिए अपने प्रोजेक्ट के कॉपीराइट धारकों से अनुमति है या आप प्राप्त कर सकते हैं, फिर भी अपने प्रोजेक्ट के अन्य उपयोगकर्ताओं और योगदानकर्ताओं पर परिवर्तन के प्रभाव पर विचार करें। अपने प्रोजेक्ट के लिए लाइसेंस परिवर्तन को एक "गवर्नेंस इवेंट" के रूप में सोचें, जो आपके प्रोजेक्ट के हितधारकों के साथ स्पष्ट संचार और परामर्श के साथ आसानी से चलेगा। शुरुआत से ही अपने प्रोजेक्ट के लिए उपयुक्त लाइसेंस चुनने और उसका उपयोग करने का और भी अधिक कारण!
 
-**Your project's existing license.** If your project's existing license is compatible with the license you want to change to, you could just start using the new license. That's because if license A is compatible with license B, you'll comply with the terms of A while complying with the terms of B (but not necessarily vice versa). So if you're currently using a permissive license (e.g., MIT), you could change to a license with more conditions, so long as you retain a copy of the MIT license and any associated copyright notices (i.e., continue to comply with the MIT license's minimal conditions). But if your current license is not permissive (e.g., copyleft, or you don't have a license) and you aren't the sole copyright holder, you couldn't just change your project's license to MIT. Essentially, with a permissive license the project's copyright holders have given permission in advance to change licenses.
+**आपके प्रोजेक्ट का मौजूदा लाइसेंस।** यदि आपके प्रोजेक्ट का मौजूदा लाइसेंस उस लाइसेंस के अनुकूल है जिसे आप बदलना चाहते हैं, तो आप नए लाइसेंस का उपयोग शुरू कर सकते हैं। ऐसा इसलिए है क्योंकि यदि लाइसेंस ए लाइसेंस बी के साथ संगत है, तो आप बी की शर्तों का अनुपालन करते समय ए की शर्तों का अनुपालन करेंगे (लेकिन जरूरी नहीं कि इसका विपरीत भी हो)। इसलिए यदि आप वर्तमान में एक अनुमेय लाइसेंस (उदाहरण के लिए, एमआईटी) का उपयोग कर रहे हैं, तो आप अधिक शर्तों वाले लाइसेंस में बदल सकते हैं, जब तक कि आप एमआईटी लाइसेंस और किसी भी संबंधित कॉपीराइट नोटिस की एक प्रति अपने पास रखते हैं (यानी, इसका अनुपालन करना जारी रखते हैं। एमआईटी लाइसेंस की न्यूनतम शर्तें)। लेकिन यदि आपका वर्तमान लाइसेंस अनुमेय नहीं है (उदाहरण के लिए, कॉपीलेफ्ट, या आपके पास लाइसेंस नहीं है) और आप एकमात्र कॉपीराइट धारक नहीं हैं, तो आप अपने प्रोजेक्ट के लाइसेंस को एमआईटी में नहीं बदल सकते। मूलतः, अनुमेय लाइसेंस के साथ परियोजना के कॉपीराइट धारकों ने लाइसेंस बदलने की अग्रिम अनुमति दे दी है।
 
-**Your project's existing copyright holders.** If you're the sole contributor to your project then either you or your company is the project's sole copyright holder. You can add or change to whatever license you or your company wants to. Otherwise there may be other copyright holders that you need agreement from in order to change licenses. Who are they? People who have commits in your project is a good place to start. But in some cases copyright will be held by those people's employers. In some cases people will have only made minimal contributions, but there's no hard and fast rule that contributions under some number of lines of code are not subject to copyright. What to do? It depends. For a relatively small and young project, it may be feasible to get all existing contributors to agree to a license change in an issue or pull request. For large and long-lived projects, you may have to seek out many contributors and even their heirs. Mozilla took years (2001-2006) to relicense Firefox, Thunderbird, and related software.
+**आपके प्रोजेक्ट के मौजूदा कॉपीराइट धारक।** यदि आप अपने प्रोजेक्ट में एकमात्र योगदानकर्ता हैं तो या तो आप या आपकी कंपनी प्रोजेक्ट के एकमात्र कॉपीराइट धारक हैं। आप या आपकी कंपनी जो भी लाइसेंस जोड़ना या बदलना चाहती है, आप उसे जोड़ या बदल सकते हैं। अन्यथा ऐसे अन्य कॉपीराइट धारक भी हो सकते हैं जिनसे लाइसेंस बदलने के लिए आपको सहमति की आवश्यकता होगी। कौन हैं वे? जिन लोगों की आपके प्रोजेक्ट में प्रतिबद्धता है, वे शुरुआत करने के लिए एक अच्छी जगह हैं। लेकिन कुछ मामलों में कॉपीराइट उन लोगों के नियोक्ताओं के पास होगा। कुछ मामलों में लोगों ने केवल न्यूनतम योगदान दिया होगा, लेकिन ऐसा कोई सख्त नियम नहीं है कि कोड की कुछ पंक्तियों के तहत योगदान कॉपीराइट के अधीन नहीं है। क्या करें? निर्भर करता है। अपेक्षाकृत छोटी और युवा परियोजना के लिए, सभी मौजूदा योगदानकर्ताओं को किसी मुद्दे या पुल अनुरोध में लाइसेंस परिवर्तन के लिए सहमत करना संभव हो सकता है। बड़ी और लंबे समय तक चलने वाली परियोजनाओं के लिए, आपको कई योगदानकर्ताओं और यहां तक ​​कि उनके उत्तराधिकारियों की तलाश करनी पड़ सकती है। मोज़िला को फ़ायरफ़ॉक्स, थंडरबर्ड और संबंधित सॉफ़्टवेयर को पुनः लाइसेंस देने में वर्षों (2001-2006) लग गए।
 
-Alternatively, you can have contributors agree in advance (via an additional contributor agreement -- see below) to certain license changes under certain conditions, beyond those allowed by your existing open source license. This shifts the complexity of changing licenses a bit. You'll need more help from your lawyers up front, and you'll still want to clearly communicate with your project's stakeholders when executing a license change.
+वैकल्पिक रूप से, आप अपने मौजूदा ओपन सोर्स लाइसेंस द्वारा अनुमत शर्तों से परे, कुछ शर्तों के तहत कुछ लाइसेंस परिवर्तनों के लिए योगदानकर्ताओं को पहले से सहमत कर सकते हैं (एक अतिरिक्त योगदानकर्ता समझौते के माध्यम से - नीचे देखें)। इससे लाइसेंस बदलने की जटिलता कुछ हद तक बदल जाती है। आपको पहले से ही अपने वकीलों से अधिक सहायता की आवश्यकता होगी, और लाइसेंस परिवर्तन निष्पादित करते समय आप अभी भी अपने प्रोजेक्ट के हितधारकों के साथ स्पष्ट रूप से संवाद करना चाहेंगे।
 
-## Does my project need an additional contributor agreement?
+## क्या मेरे प्रोजेक्ट को अतिरिक्त योगदानकर्ता समझौते की आवश्यकता है?
 
-Probably not. For the vast majority of open source projects, an open source license implicitly serves as both the inbound (from contributors) and outbound (to other contributors and users) license. If your project is on GitHub, the GitHub Terms of Service make "inbound=outbound" the [explicit default](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+शायद नहीं। अधिकांश ओपन सोर्स परियोजनाओं के लिए, एक ओपन सोर्स लाइसेंस अंतर्निहित रूप से इनबाउंड (योगदानकर्ताओं से) और आउटबाउंड (अन्य योगदानकर्ताओं और उपयोगकर्ताओं के लिए) लाइसेंस दोनों के रूप में कार्य करता है।यदि आपका प्रोजेक्ट GitHub पर है, तो GitHub सेवा की शर्तें "इनबाउंड = आउटबाउंड" बनाती हैं [explicit default](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
 
-An additional contributor agreement -- often called a Contributor License Agreement (CLA) -- can create administrative work for project maintainers. How much work an agreement adds depends on the project and implementation. A simple agreement might require that contributors confirm, with a click, that they have the rights necessary to contribute under the project open source license. A more complicated agreement might require legal review and sign-off from contributors' employers.
+एक अतिरिक्त योगदानकर्ता समझौता - जिसे अक्सर Contributor License Agreement (CLA) कहा जाता है - परियोजना अनुरक्षकों के लिए प्रशासनिक कार्य बना सकता है। एक समझौता कितना काम जोड़ता है यह परियोजना और कार्यान्वयन पर निर्भर करता है। एक साधारण समझौते के लिए आवश्यक हो सकता है कि योगदानकर्ता एक क्लिक के साथ पुष्टि करें कि उनके पास प्रोजेक्ट ओपन सोर्स लाइसेंस के तहत योगदान करने के लिए आवश्यक अधिकार हैं। अधिक जटिल समझौते के लिए कानूनी समीक्षा और योगदानकर्ताओं के नियोक्ताओं से हस्ताक्षर की आवश्यकता हो सकती है।
 
-Also, by adding "paperwork" that some believe is unnecessary, hard to understand, or unfair (when the agreement recipient gets more rights than contributors or the public do via the project's open source license), an additional contributor agreement may be perceived as unfriendly to the project's community.
+साथ ही, "कागजी कार्रवाई" जोड़कर, जो कुछ लोगों का मानना ​​है कि अनावश्यक, समझने में कठिन या अनुचित है (जब समझौते के प्राप्तकर्ता को परियोजना के ओपन सोर्स लाइसेंस के माध्यम से योगदानकर्ताओं या जनता की तुलना में अधिक अधिकार मिलते हैं), एक अतिरिक्त योगदानकर्ता समझौते को अमित्र माना जा सकता है परियोजना के समुदाय के लिए।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
-    We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
+    हमने Node.js के लिए CLA को हटा दिया है। ऐसा करने से Node.js योगदानकर्ताओं के लिए प्रवेश की बाधा कम हो जाती है जिससे योगदानकर्ता आधार का विस्तार होता है।
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
-Some situations where you may want to consider an additional contributor agreement for your project include:
+कुछ स्थितियाँ जहाँ आप अपने प्रोजेक्ट के लिए अतिरिक्त योगदानकर्ता समझौते पर विचार करना चाह सकते हैं उनमें शामिल हैं:
 
-* Your lawyers want all contributors to expressly accept (_sign_, online or offline) contribution terms, perhaps because they feel the open source license itself is not enough (even though it is!). If this is the only concern, a contributor agreement that affirms the project's open source license should be enough. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is a good example of a lightweight additional contributor agreement.
-* You or your lawyers want developers to represent that each commit they make is authorized. A [Developer Certificate of Origin](https://developercertificate.org/) requirement is how many projects achieve this. For example, the Node.js community [uses](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) the DCO [instead](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) of their prior CLA. A simple option to automate enforcement of the DCO on your repository is the [DCO Probot](https://github.com/probot/dco).
-* Your project uses an open source license that does not include an express patent grant (such as MIT), and you need a patent grant from all contributors, some of whom may work for companies with large patent portfolios that could be used to target you or the project's other contributors and users. The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) is a commonly used additional contributor agreement that has a patent grant mirroring the one found in the Apache License 2.0.
-* Your project is under a copyleft license, but you also need to distribute a proprietary version of the project. You'll need every contributor to assign copyright to you or grant you (but not the public) a permissive license. The [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) is an example this type of agreement.
-* You think your project might need to change licenses over its lifetime and want contributors to agree in advance to such changes.
+* आपके वकील चाहते हैं कि सभी योगदानकर्ता स्पष्ट रूप से (_साइन_, ऑनलाइन या ऑफलाइन) योगदान शर्तों को स्वीकार करें, शायद इसलिए क्योंकि उन्हें लगता है कि ओपन सोर्स लाइसेंस ही पर्याप्त नहीं है (भले ही यह है!)। यदि यह एकमात्र चिंता का विषय है, तो एक योगदानकर्ता समझौता जो परियोजना के ओपन सोर्स लाइसेंस की पुष्टि करता है, पर्याप्त होना चाहिए। [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) हल्के अतिरिक्त योगदानकर्ता समझौते का एक अच्छा उदाहरण है।
+* आप या आपके वकील चाहते हैं कि डेवलपर्स यह प्रतिनिधित्व करें कि उनकी प्रत्येक प्रतिबद्धता अधिकृत है. [Developer Certificate of Origin](https://developercertificate.org/) आवश्यकता यह है कि कितनी परियोजनाएँ इसे प्राप्त करती हैं। उदाहरण के लिए, Node.js समुदाय [uses](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) DCO [instead](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) उनके पूर्व CLI का। आपके भंडार पर डीसीओ के प्रवर्तन को स्वचालित करने का एक सरल विकल्प है [DCO Probot](https://github.com/probot/dco).
+*आपका प्रोजेक्ट एक ओपन सोर्स लाइसेंस का उपयोग करता है जिसमें एक्सप्रेस पेटेंट अनुदान (जैसे एमआईटी) शामिल नहीं है, और आपको सभी योगदानकर्ताओं से पेटेंट अनुदान की आवश्यकता है, जिनमें से कुछ बड़े पेटेंट पोर्टफोलियो वाली कंपनियों के लिए काम कर सकते हैं जिनका उपयोग आपको लक्षित करने के लिए किया जा सकता है या परियोजना के अन्य योगदानकर्ता और उपयोगकर्ता। The [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) आमतौर पर इस्तेमाल किया जाने वाला अतिरिक्त योगदानकर्ता समझौता है जिसमें अपाचे लाइसेंस 2.0 में पाए गए पेटेंट अनुदान को प्रतिबिंबित किया गया है।
+* आपका प्रोजेक्ट कॉपीलेफ्ट लाइसेंस के अंतर्गत है, लेकिन आपको प्रोजेक्ट का मालिकाना संस्करण भी वितरित करने की आवश्यकता है। आपको प्रत्येक योगदानकर्ता से आपको कॉपीराइट सौंपने या आपको (लेकिन जनता को नहीं) अनुमेय लाइसेंस देने की आवश्यकता होगी। [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) इस प्रकार के समझौते का एक उदाहरण है.
+* आपको लगता है कि आपके प्रोजेक्ट को अपने जीवनकाल में लाइसेंस बदलने की आवश्यकता हो सकती है और आप चाहते हैं कि योगदानकर्ता ऐसे परिवर्तनों के लिए पहले से सहमत हों।
 
-If you do need to use an additional contributor agreement with your project, consider using an integration such as [CLA assistant](https://github.com/cla-assistant/cla-assistant) to minimize contributor distraction.
+यदि आपको अपने प्रोजेक्ट के साथ एक अतिरिक्त योगदानकर्ता समझौते का उपयोग करने की आवश्यकता है, तो एक एकीकरण का उपयोग करने पर विचार करें [CLA assistant](https://github.com/cla-assistant/cla-assistant) योगदानकर्ता व्याकुलता को कम करने के लिए।
 
-## What does my company's legal team need to know?
+## मेरी कंपनी की कानूनी टीम को क्या जानना आवश्यक है?
 
-If you're releasing an open source project as a company employee, first, your legal team should know that you're open sourcing a project.
+यदि आप एक कंपनी कर्मचारी के रूप में एक ओपन सोर्स प्रोजेक्ट जारी कर रहे हैं, तो सबसे पहले, आपकी कानूनी टीम को पता होना चाहिए कि आप एक प्रोजेक्ट को ओपन सोर्स कर रहे हैं।
 
-For better or worse, consider letting them know even if it's a personal project. You probably have an "employee IP agreement" with your company that gives them some control of your projects, especially if they are at all related to the company's business or you use any company resources to develop the project. Your company _should_ easily give you permission, and maybe already has through an employee-friendly IP agreement or a company policy. If not, you can negotiate (for example, explain that your project serves the company's professional learning and development objectives for you), or avoid working on your project until you find a better company.
+बेहतर या बदतर के लिए, उन्हें बताने पर विचार करें, भले ही यह एक व्यक्तिगत परियोजना हो। संभवत: आपके पास अपनी कंपनी के साथ एक "कर्मचारी आईपी समझौता" है जो उन्हें आपकी परियोजनाओं पर कुछ नियंत्रण देता है, खासकर यदि वे कंपनी के व्यवसाय से संबंधित हैं या आप परियोजना को विकसित करने के लिए किसी कंपनी के संसाधनों का उपयोग करते हैं। आपकी कंपनी को आपको आसानी से अनुमति देनी चाहिए, और शायद पहले से ही एक कर्मचारी-अनुकूल आईपी समझौते या कंपनी नीति के माध्यम से अनुमति दे दी है। यदि नहीं, तो आप बातचीत कर सकते हैं (उदाहरण के लिए, समझाएं कि आपका प्रोजेक्ट आपके लिए कंपनी के पेशेवर शिक्षण और विकास उद्देश्यों को पूरा करता है), या जब तक आपको एक बेहतर कंपनी नहीं मिल जाती, तब तक अपने प्रोजेक्ट पर काम करने से बचें।
 
-**If you're open sourcing a project for your company,** then definitely let them know. Your legal team probably already has policies for what open source license (and maybe additional contributor agreement) to use based on the company's business requirements and expertise around ensuring your project complies with the licenses of its dependencies. If not, you and they are in luck! Your legal team should be eager to work with you to figure this stuff out. Some things to think about:
+**यदि आप अपनी कंपनी के लिए किसी प्रोजेक्ट की ओपन सोर्सिंग कर रहे हैं,** तो उन्हें अवश्य बताएं। आपकी कानूनी टीम के पास संभवतः पहले से ही नीतियां हैं कि कंपनी की व्यावसायिक आवश्यकताओं और विशेषज्ञता के आधार पर किस ओपन सोर्स लाइसेंस (और शायद अतिरिक्त योगदानकर्ता समझौते) का उपयोग किया जाए ताकि यह सुनिश्चित हो सके कि आपका प्रोजेक्ट उसकी निर्भरता के लाइसेंस का अनुपालन करता है। यदि नहीं, तो आप और वे भाग्यशाली हैं! आपकी कानूनी टीम को इस चीज़ का पता लगाने के लिए आपके साथ काम करने के लिए उत्सुक होना चाहिए। सोचने लायक कुछ बातें:
 
-* **Third party material:** Does your project have dependencies created by others or otherwise include or use others' code? If these are open source, you'll need to comply with the materials' open source licenses. That starts with choosing a license that works with the third party open source licenses (see above). If your project modifies or distributes third party open source material, then your legal team will also want to know that you're meeting other conditions of the third party open source licenses such as retaining copyright notices. If your project uses others' code that doesn't have an open source license, you'll probably have to ask the third party maintainers to [add an open source license](https://choosealicense.com/no-license/#for-users), and if you can't get one, stop using their code in your project.
+* **तृतीय पक्ष सामग्री:** क्या आपके प्रोजेक्ट में दूसरों द्वारा बनाई गई निर्भरताएँ हैं या अन्यथा दूसरों के कोड को शामिल या उपयोग करते हैं? यदि ये ओपन सोर्स हैं, तो आपको सामग्रियों के ओपन सोर्स लाइसेंस का अनुपालन करना होगा। इसकी शुरुआत एक ऐसे लाइसेंस को चुनने से होती है जो तीसरे पक्ष के ओपन सोर्स लाइसेंस के साथ काम करता है (ऊपर देखें)। यदि आपका प्रोजेक्ट तृतीय पक्ष ओपन सोर्स सामग्री को संशोधित या वितरित करता है, तो आपकी कानूनी टीम यह भी जानना चाहेगी कि आप तृतीय पक्ष ओपन सोर्स लाइसेंस की अन्य शर्तों को पूरा कर रहे हैं जैसे कि कॉपीराइट नोटिस बनाए रखना। यदि आपका प्रोजेक्ट दूसरों के कोड का उपयोग करता है जिसके पास ओपन सोर्स लाइसेंस नहीं है, तो आपको संभवतः तीसरे पक्ष के अनुरक्षकों से पूछना होगा [एक ओपन सोर्स लाइसेंस जोड़ें](https://choosealicense.com/no-license/#for-users), और यदि आपको कोई नहीं मिल सकता है, तो अपने प्रोजेक्ट में उनके कोड का उपयोग करना बंद कर दें।
 
-* **Trade secrets:** Consider whether there is anything in the project that the company does not want to make available to the general public. If so, you could open source the rest of your project, after extracting the material you want to keep private.
+* **व्यापार रहस्य:** विचार करें कि क्या परियोजना में ऐसा कुछ है जिसे कंपनी आम जनता के लिए उपलब्ध नहीं कराना चाहती है। यदि ऐसा है, तो जिस सामग्री को आप निजी रखना चाहते हैं, उसे निकालने के बाद आप अपने प्रोजेक्ट के बाकी हिस्से को ओपन सोर्स कर सकते हैं।
 
-* **Patents:** Is your company applying for a patent of which open sourcing your project would constitute [public disclosure](https://en.wikipedia.org/wiki/Public_disclosure)? Sadly, you might be asked to wait (or maybe the company will reconsider the wisdom of the application). If you're expecting contributions to your project from employees of companies with large patent portfolios, your legal team may want you to use a license with an express patent grant from contributors (such as Apache 2.0 or GPLv3), or an additional contributor agreement (see above).
+* **पेटेंट:** क्या आपकी कंपनी किसी ऐसे पेटेंट के लिए आवेदन कर रही है जिसके ओपन सोर्सिंग से आपका प्रोजेक्ट [सार्वजनिक प्रकटीकरण](https://en.wikipedia.org/wiki/Public_disclosure) बनेगा? अफसोस की बात है, आपको प्रतीक्षा करने के लिए कहा जा सकता है (या हो सकता है कि कंपनी आवेदन की समझदारी पर पुनर्विचार करेगी)। यदि आप बड़े पेटेंट पोर्टफोलियो वाली कंपनियों के कर्मचारियों से अपने प्रोजेक्ट में योगदान की उम्मीद कर रहे हैं, तो आपकी कानूनी टीम चाहती है कि आप योगदानकर्ताओं (जैसे अपाचे 2.0 या जीपीएलवी 3) से एक्सप्रेस पेटेंट अनुदान के साथ लाइसेंस का उपयोग करें, या एक अतिरिक्त योगदानकर्ता अनुबंध ( ऊपर देखें)।
 
-* **Trademarks:** Double check that your project's name [does not conflict with any existing trademarks](../starting-a-project/#avoiding-name-conflicts). If you use your own company trademarks in the project, check that it does not cause any conflicts. [FOSSmarks](http://fossmarks.org/) is a practical guide to understanding trademarks in the context of free and open source projects.
+* **ट्रेडमार्क:** दोबारा जांचें कि आपके प्रोजेक्ट का नाम [किसी भी मौजूदा ट्रेडमार्क के साथ टकराव नहीं करता है](../starting-a-project/#avoiding-name-conflicts)। यदि आप प्रोजेक्ट में अपनी कंपनी के ट्रेडमार्क का उपयोग करते हैं, तो जांच लें कि इससे कोई टकराव न हो। [FOSSmarks](http://fossmarks.org/) मुक्त और मुक्त स्रोत परियोजनाओं के संदर्भ में ट्रेडमार्क को समझने के लिए एक व्यावहारिक मार्गदर्शिका है।
 
-* **Privacy:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
+* **गोपनीयता:** क्या आपका प्रोजेक्ट उपयोगकर्ताओं पर डेटा एकत्र करता है? कंपनी सर्वर के लिए "फ़ोन होम"? आपकी कानूनी टीम कंपनी की नीतियों और बाहरी नियमों का अनुपालन करने में आपकी सहायता कर सकती है।
 
-If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
+यदि आप अपनी कंपनी का पहला ओपन सोर्स प्रोजेक्ट जारी कर रहे हैं, तो उपरोक्त पूरा करने के लिए पर्याप्त से अधिक है (लेकिन चिंता न करें, अधिकांश परियोजनाओं को कोई बड़ी चिंता नहीं उठानी चाहिए)।
 
-Longer term, your legal team can do more to help the company get more from its involvement in open source, and stay safe:
+लंबी अवधि में, आपकी कानूनी टीम कंपनी को ओपन सोर्स में अपनी भागीदारी से अधिक लाभ प्राप्त करने और सुरक्षित रहने में मदद करने के लिए और अधिक प्रयास कर सकती है:
 
-* **Employee contribution policies:** Consider developing a corporate policy that specifies how your employees contribute to open source projects. A clear policy will reduce confusion among your employees and help them contribute to open source projects in the company's best interest, whether as part of their jobs or in their free time. A good example is Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
+* **कर्मचारी योगदान नीतियां:** एक कॉर्पोरेट नीति विकसित करने पर विचार करें जो निर्दिष्ट करती है कि आपके कर्मचारी ओपन सोर्स परियोजनाओं में कैसे योगदान करते हैं। एक स्पष्ट नीति आपके कर्मचारियों के बीच भ्रम को कम करेगी और उन्हें कंपनी के सर्वोत्तम हित में ओपन सोर्स परियोजनाओं में योगदान करने में मदद करेगी, चाहे वह उनकी नौकरी के हिस्से के रूप में हो या उनके खाली समय में। एक अच्छा उदाहरण रैकस्पेस की [मॉडल आईपी और ओपन सोर्स योगदान नीति](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) है।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
+पैच से जुड़े आईपी को देने से कर्मचारी के ज्ञान का आधार और प्रतिष्ठा बनती है। यह दर्शाता है कि कंपनी ने उस कर्मचारी के विकास में निवेश किया है और सशक्तिकरण और स्वायत्तता की भावना पैदा की है। इन सभी लाभों से उच्च मनोबल और बेहतर कर्मचारी प्रतिधारण भी होता है।
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["एक मॉडल आईपी और ओपन सोर्स योगदान नीति"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
-* **What to release:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) If your legal team understands and is invested in your company's open source strategy, they'll be best able to help rather than hinder your efforts.
-* **Compliance:** Even if your company doesn't release any open source projects, it uses others' open source software. [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
+* **क्या जारी करें:** [(लगभग) सब कुछ?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) यदि आपकी कानूनी टीम समझती है और है यदि आपने अपनी कंपनी की ओपन सोर्स रणनीति में निवेश किया है, तो वे आपके प्रयासों में बाधा डालने के बजाय मदद करने में सर्वोत्तम रूप से सक्षम होंगे।
+* **अनुपालन:** भले ही आपकी कंपनी कोई ओपन सोर्स प्रोजेक्ट जारी नहीं करती है, यह दूसरों के ओपन सोर्स सॉफ़्टवेयर का उपयोग करती है। [जागरूकता और प्रक्रिया](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) सिरदर्द, उत्पाद में देरी और मुकदमों को रोक सकती है .
 
 <aside markdown="1" class="pquote">
-  Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
+  संगठनों के पास एक लाइसेंस और अनुपालन रणनीति होनी चाहिए जो \["अनुमोदनात्मक" और "कॉपीलेफ्ट"\] दोनों श्रेणियों में फिट हो। इसकी शुरुआत उन लाइसेंसिंग शर्तों का रिकॉर्ड रखने से होती है जो आपके द्वारा उपयोग किए जा रहे ओपन सोर्स सॉफ़्टवेयर पर लागू होती हैं - जिसमें उप-घटक और निर्भरताएं शामिल हैं।
   <p markdown="1" class="pquote-credit">
-— Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+— Heather Meeker, ["ओपन सोर्स सॉफ्टवेयर: अनुपालन की मूल बातें और सर्वोत्तम प्रथाएं"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
 </aside>
 
-* **Patents:** Your company may wish to join the [Open Invention Network](https://www.openinventionnetwork.com/), a shared defensive patent pool to protect members' use of major open source projects, or explore other [alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
-* **Governance:** Especially if and when it makes sense to move a project to a [legal entity outside of the company](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
+* **पेटेंट:** आपकी कंपनी प्रमुख ओपन सोर्स परियोजनाओं के सदस्यों के उपयोग की सुरक्षा के लिए एक साझा रक्षात्मक पेटेंट पूल [ओपन इन्वेंशन नेटवर्क](https://www.openinventionnetwork.com/) में शामिल होना चाह सकती है, या अन्वेषण कर सकती है अन्य [वैकल्पिक पेटेंट लाइसेंसिंग](https://www.eff.org/document/hacking-patent-system-2016).
+
+* **शासन:** विशेष रूप से यदि और जब किसी प्रोजेक्ट को स्थानांतरित करना उचित हो [कंपनी के बाहर कानूनी इकाई](../leadership-and-governance/#do-i-need-a-legal-entity-to-support-my-project).
