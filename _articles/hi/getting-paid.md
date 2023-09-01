@@ -88,7 +88,7 @@ OSS प्रौद्योगिकी उद्योग को बड़े 
 यदि आप अपने वर्तमान नियोक्ता को ओपन सोर्स कार्य को प्राथमिकता देने के लिए मना नहीं सकते हैं, तो एक नया नियोक्ता ढूंढने पर विचार करें जो ओपन सोर्स में कर्मचारी योगदान को प्रोत्साहित करता हो। ऐसी कंपनियों की तलाश करें जो ओपन सोर्स कार्य के प्रति अपना समर्पण स्पष्ट करती हों। उदाहरण के लिए:
 
 *कुछ कंपनियाँ, जैसे [Netflix](https://netflix.github.io/) या [PayPal](https://paypal.github.io/), के पास ऐसी वेबसाइटें हैं जो ओपन सोर्स में उनकी भागीदारी को उजागर करती हैं।
-* [Zalando](https://opensource.zalando.com) ने [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) उनके कर्मचारियों के लिए प्रकाशन किया।
+*[Zalando](https://opensource.zalando.com) ने [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) उनके कर्मचारियों के लिए प्रकाशन किया।
 
 ऐसी परियोजनाएँ जो किसी बड़ी कंपनी में उत्पन्न हुईं, जैसे [Go](https://github.com/golang) या [React](https://github.com/facebook/react), ओपन सोर्स पर काम करने के लिए लोगों को नियोजित करने की भी संभावना है।
 
