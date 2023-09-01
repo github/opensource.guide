@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+lang: hi
+title: एक ओपन सोर्स प्रोजेक्ट शुरू करना
+description: ओपन सोर्स की दुनिया के बारे में और जानें और अपना खुद का प्रोजेक्ट लॉन्च करने के लिए तैयार हो जाएं।
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png
@@ -10,280 +10,279 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## खुले स्रोत का "क्या" और "क्यों"।
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+तो क्या आप ओपन सोर्स के साथ शुरुआत करने के बारे में सोच रहे हैं? बधाई हो! दुनिया आपके योगदान की सराहना करती है. आइए बात करें कि ओपन सोर्स क्या है और लोग ऐसा क्यों करते हैं।
 
-### What does "open source" mean?
+### "ओपन सोर्स" का क्या मतलब है?
 
-When a project is open source, that means **anybody is free to use, study, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+जब कोई प्रोजेक्ट ओपन सोर्स होता है, तो इसका मतलब है कि **कोई भी किसी भी उद्देश्य के लिए आपके प्रोजेक्ट का उपयोग, अध्ययन, संशोधन और वितरण करने के लिए स्वतंत्र है।** ये अनुमतियाँ [एक ओपन सोर्स लाइसेंस](https://opensource.org/licenses)  के माध्यम से लागू की जाती हैं।
 
-Open source is powerful because it lowers the barriers to adoption and collaboration, allowing people to spread and improve projects quickly. Also because it gives users a potential to control their own computing, relative to closed source. For example, a business using open source software has the option to hire someone to make custom improvements to the software, rather than relying exclusively on a closed source vendor's product decisions.
+खुला स्रोत शक्तिशाली है क्योंकि यह अपनाने और सहयोग की बाधाओं को कम करता है, जिससे लोगों को परियोजनाओं को तेजी से फैलाने और सुधारने की अनुमति मिलती है। इसके अलावा, क्योंकि यह उपयोगकर्ताओं को बंद स्रोत के सापेक्ष, अपने स्वयं के कंप्यूटिंग को नियंत्रित करने की क्षमता देता है। उदाहरण के लिए, ओपन सोर्स सॉफ़्टवेयर का उपयोग करने वाले व्यवसाय के पास किसी बंद स्रोत विक्रेता के उत्पाद निर्णयों पर विशेष रूप से निर्भर रहने के बजाय सॉफ़्टवेयर में कस्टम सुधार करने के लिए किसी को नियुक्त करने का विकल्प होता है।
 
-_Free software_ refers to the same set of projects as _open source_. Sometimes you'll also see [these terms](https://en.wikipedia.org/wiki/Free_and_open-source_software) combined as "free and open source software" (FOSS) or "free, libre, and open source software" (FLOSS). _Free_ and _libre_ refer to freedom, [not price](#does-open-source-mean-free-of-charge).
+_मुफ़्त सॉफ़्टवेयर_ परियोजनाओं के उसी सेट को संदर्भित करता है जो _ओपन सोर्स_ है। कभी-कभी आप [इन शर्तों](https://en.wikipedia.org/wiki/Free_and_open-source_software) को "फ्री और ओपन सोर्स सॉफ्टवेयर" (FOSS) या "फ्री, लिब्रे और ओपन सोर्स सॉफ्टवेयर" के रूप में भी देखेंगे। (दाँत साफ करने का धागा)। _मुक्त_ और _मुक्ति_ का तात्पर्य स्वतंत्रता से है, [कीमत से नहीं](#does-open-source-mean-free-of-charge)।
 
-### Why do people open source their work?
+### लोग अपना काम ओपन सोर्स क्यों करते हैं?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+ ओपन सोर्स का उपयोग करने और सहयोग करने से मुझे जो सबसे फायदेमंद अनुभव मिलता है, वह उन रिश्तों से आता है जो मैं उन अन्य डेवलपर्स के साथ बनाता हूं जो मेरे जैसी ही कई समस्याओं का सामना कर रहे हैं।
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+— @kentcdodds, ["ओपन सोर्स में आना मेरे लिए कितना अद्भुत रहा है"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
-[There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
+[इसके कई कारण हैं](https://ben.balter.com/2015/11/23/why-open-source/) कोई व्यक्ति या संगठन किसी प्रोजेक्ट को ओपन सोर्स क्यों करना चाहेगा। कुछ उदाहरणों में शामिल हैं:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+* **सहयोग:** ओपन सोर्स प्रोजेक्ट दुनिया में किसी से भी बदलाव स्वीकार कर सकते हैं। [व्यायाम](https://github.com/exercism/), उदाहरण के लिए, 350 से अधिक योगदानकर्ताओं वाला एक प्रोग्रामिंग अभ्यास मंच है।
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
+* **अडॉप्टेशन और रीमिक्सिंग:** ओपन सोर्स प्रोजेक्ट्स का उपयोग कोई भी लगभग किसी भी उद्देश्य के लिए कर सकता है। लोग इसका उपयोग अन्य चीजें बनाने में भी कर सकते हैं। [WordPress](https://github.com/WordPress), उदाहरण के लिए, किसी मौजूदा प्रोजेक्ट के फोर्क के रूप में शुरू किया गया, [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparency:** Anyone can inspect an open source project for errors or असंगतियाँ जैसी सरकारों के लिए पारदर्शिता मायने रखती है [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) या[United States](https://sourcecode.cio.gov/), बैंकिंग या स्वास्थ्य देखभाल जैसे विनियमित उद्योग और सुरक्षा सॉफ्टवेयर जैसे [Let's Encrypt](https://github.com/letsencrypt).
 
-Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
+ओपन सोर्स सिर्फ सॉफ्टवेयर के लिए ही नहीं है। आप डेटा सेट से लेकर किताबों तक सब कुछ ओपन सोर्स कर सकते हैं। आप और क्या स्रोत खोल सकते हैं, इस बारे में विचारों के लिए [गिटहब एक्सप्लोर](https://github.com/explore) देखें।
 
-### Does open source mean "free of charge"?
+### क्या ओपन सोर्स का मतलब "निःशुल्क" है?
+ओपन सोर्स का सबसे बड़ा आकर्षण यह है कि इसमें पैसा खर्च नहीं होता है। हालाँकि, "निःशुल्क", खुले स्रोत के समग्र मूल्य का एक उपोत्पाद है।
 
-One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
+क्योंकि [एक ओपन सोर्स लाइसेंस के लिए आवश्यक है](https://opensource.org/osd-annotated) कि कोई भी आपके प्रोजेक्ट को लगभग किसी भी उद्देश्य के लिए उपयोग, संशोधित और साझा कर सकता है, प्रोजेक्ट स्वयं निःशुल्क होते हैं। यदि प्रोजेक्ट के उपयोग में पैसे खर्च होते हैं, तो कोई भी कानूनी तौर पर इसकी प्रतिलिपि बना सकता है और इसके बजाय मुफ़्त संस्करण का उपयोग कर सकता है।
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+परिणामस्वरूप, अधिकांश ओपन सोर्स प्रोजेक्ट मुफ़्त हैं, लेकिन "निःशुल्क" ओपन सोर्स परिभाषा का हिस्सा नहीं है। ओपन सोर्स की आधिकारिक परिभाषा का अनुपालन करते हुए, दोहरे लाइसेंसिंग या सीमित सुविधाओं के माध्यम से अप्रत्यक्ष रूप से ओपन सोर्स परियोजनाओं के लिए शुल्क लेने के कई तरीके हैं।
 
-As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
+## क्या मुझे अपना स्वयं का ओपन सोर्स प्रोजेक्ट लॉन्च करना चाहिए?
 
-## Should I launch my own open source project?
+संक्षिप्त उत्तर हां है, क्योंकि परिणाम चाहे जो भी हो, अपना खुद का प्रोजेक्ट लॉन्च करना यह सीखने का एक शानदार तरीका है कि ओपन सोर्स कैसे काम करता है।
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+यदि आपने पहले कभी कोई प्रोजेक्ट ओपन सोर्स नहीं किया है, तो आप इस बात से घबरा सकते हैं कि लोग क्या कहेंगे, या कोई नोटिस करेगा या नहीं। यदि यह आपके जैसा लगता है, तो आप अकेले नहीं हैं!
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+ओपन सोर्स कार्य किसी भी अन्य रचनात्मक गतिविधि की तरह है, चाहे वह लेखन हो या पेंटिंग। अपने काम को दुनिया के साथ साझा करना डरावना लग सकता है, लेकिन बेहतर होने का एकमात्र तरीका अभ्यास करना है - भले ही आपके पास दर्शक न हों।
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+यदि आप अभी तक आश्वस्त नहीं हैं, तो एक क्षण रुककर सोचें कि आपके लक्ष्य क्या हो सकते हैं।
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+### अपने लक्ष्य निर्धारित करना
 
-### Setting your goals
+लक्ष्य आपको यह पता लगाने में मदद कर सकते हैं कि किस पर काम करना है, किस चीज़ को ना कहना है और आपको कहाँ दूसरों से मदद की ज़रूरत है। अपने आप से यह पूछकर शुरुआत करें, _मैं इस प्रोजेक्ट का ओपन सोर्सिंग क्यों कर रहा हूँ?_
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+इस प्रश्न का कोई भी सही उत्तर नहीं है। आपके पास एक ही प्रोजेक्ट के लिए कई लक्ष्य हो सकते हैं, या अलग-अलग लक्ष्यों वाली अलग-अलग परियोजनाएँ हो सकती हैं।
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
-
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+यदि आपका एकमात्र लक्ष्य अपना काम दिखाना है, तो हो सकता है कि आप योगदान भी न चाहें, और अपने README में ऐसा कहें भी नहीं। दूसरी ओर, यदि आप योगदानकर्ता चाहते हैं, तो आप स्पष्ट दस्तावेज़ीकरण और नए लोगों का स्वागत महसूस कराने में समय लगाएंगे।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  किसी बिंदु पर मैंने एक कस्टम UIAlertView बनाया जिसका मैं उपयोग कर रहा था...और मैंने इसे खुला स्रोत बनाने का निर्णय लिया। इसलिए मैंने इसे अधिक गतिशील बनाने के लिए संशोधित किया और GitHub पर अपलोड किया। मैंने अपना पहला दस्तावेज़ अन्य डेवलपर्स को यह समझाते हुए लिखा कि इसे अपनी परियोजनाओं पर कैसे उपयोग किया जाए। संभवतः किसी ने कभी इसका उपयोग नहीं किया क्योंकि यह एक साधारण परियोजना थी लेकिन मैं अपने योगदान के बारे में अच्छा महसूस कर रहा था।
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
+— @mavris, ["स्व-सिखाया गया सॉफ़्टवेयर डेवलपर्स: ओपन सोर्स हमारे लिए क्यों महत्वपूर्ण है"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+जैसे-जैसे आपका प्रोजेक्ट बढ़ता है, आपके समुदाय को आपसे कोड के अलावा और भी बहुत कुछ की आवश्यकता हो सकती है। मुद्दों पर प्रतिक्रिया देना, कोड की समीक्षा करना और अपने प्रोजेक्ट का प्रचार-प्रसार करना एक ओपन सोर्स प्रोजेक्ट में सभी महत्वपूर्ण कार्य हैं।
 
-While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
+जबकि आप गैर-कोडिंग कार्यों पर कितना समय बिताएंगे, यह आपके प्रोजेक्ट के आकार और दायरे पर निर्भर करेगा, आपको उन्हें स्वयं संबोधित करने या आपकी सहायता के लिए किसी को ढूंढने के लिए एक अनुरक्षक के रूप में तैयार रहना चाहिए।
 
-**If you're part of a company open sourcing a project,** make sure your project has the internal resources it needs to thrive. You'll want to identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
+**यदि आप किसी प्रोजेक्ट की ओपन सोर्सिंग करने वाली कंपनी का हिस्सा हैं,**सुनिश्चित करें कि आपके प्रोजेक्ट के पास आंतरिक संसाधन हैं जो उसे आगे बढ़ाने के लिए आवश्यक हैं। आप यह पहचानना चाहेंगे कि लॉन्च के बाद प्रोजेक्ट को बनाए रखने के लिए कौन ज़िम्मेदार है, और आप उन कार्यों को अपने समुदाय के साथ कैसे साझा करेंगे।
 
-If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early.
+यदि आपको परियोजना के प्रचार, संचालन और रखरखाव के लिए समर्पित बजट या स्टाफिंग की आवश्यकता है, तो बातचीत जल्दी शुरू करें।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+ जैसे ही आप प्रोजेक्ट को ओपन सोर्स करना शुरू करते हैं, यह सुनिश्चित करना महत्वपूर्ण है कि आपकी प्रबंधन प्रक्रियाएं आपके प्रोजेक्ट के आसपास के समुदाय के योगदान और क्षमताओं को ध्यान में रखती हैं। परियोजना के प्रमुख पहलुओं में उन योगदानकर्ताओं को शामिल करने से न डरें जो आपके व्यवसाय में कार्यरत नहीं हैं - खासकर यदि वे लगातार योगदानकर्ता हैं।
   <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
+— @captainsafia, ["तो आप एक प्रोजेक्ट को ओपन सोर्स करना चाहते हैं, है ना?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
 </aside>
 
-### Contributing to other projects
+### अन्य परियोजनाओं में योगदान देना
 
-If your goal is to learn how to collaborate with others or understand how open source works, consider contributing to an existing project. Start with a project that you already use and love. Contributing to a project can be as simple as fixing typos or updating documentation.
+यदि आपका लक्ष्य यह सीखना है कि दूसरों के साथ कैसे सहयोग करें या यह समझें कि ओपन सोर्स कैसे काम करता है, तो किसी मौजूदा प्रोजेक्ट में योगदान देने पर विचार करें। उस प्रोजेक्ट से शुरुआत करें जिसे आप पहले से ही उपयोग करते हैं और पसंद करते हैं। किसी प्रोजेक्ट में योगदान देना टाइप की त्रुटियों को ठीक करने या दस्तावेज़ीकरण को अपडेट करने जितना आसान हो सकता है।
 
-If you're not sure how to get started as a contributor, check out our [How to Contribute to Open Source guide](../how-to-contribute/).
+यदि आप निश्चित नहीं हैं कि योगदानकर्ता के रूप में शुरुआत कैसे करें, तो हमारी जाँच करें [ओपन सोर्स गाइड में योगदान कैसे करें](../how-to-contribute/).
 
-## Launching your own open source project
+## अपना स्वयं का ओपन सोर्स प्रोजेक्ट लॉन्च करना
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+अपने काम का स्रोत खोलने का कोई सही समय नहीं है। आप किसी विचार का स्रोत खोल सकते हैं, कोई कार्य प्रगति पर है, या वर्षों तक बंद स्रोत रहने के बाद।
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+आम तौर पर कहें तो, आपको अपने प्रोजेक्ट को तब ओपन सोर्स करना चाहिए जब आप दूसरों को अपने काम को देखने और उस पर फीडबैक देने में सहज महसूस करें।
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+इससे कोई फर्क नहीं पड़ता कि आप अपने प्रोजेक्ट को किस चरण में खोलने का निर्णय लेते हैं, प्रत्येक प्रोजेक्ट में निम्नलिखित दस्तावेज़ शामिल होने चाहिए:
 
 * [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Code of conduct](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+एक अनुरक्षक के रूप में, ये घटक आपको अपेक्षाओं को संप्रेषित करने, योगदान प्रबंधित करने और सभी के कानूनी अधिकारों (आपके अपने अधिकारों सहित) की रक्षा करने में मदद करेंगे। वे आपके सकारात्मक अनुभव प्राप्त करने की संभावनाओं को उल्लेखनीय रूप से बढ़ा देते हैं।
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+यदि आपका प्रोजेक्ट GitHub पर है, तो इन फ़ाइलों को अनुशंसित फ़ाइल नामों के साथ अपनी रूट निर्देशिका में डालने से GitHub को उन्हें पहचानने और स्वचालित रूप से आपके पाठकों के सामने लाने में मदद मिलेगी।
 
-### Choosing a license
+### लाइसेंस चुनना
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+एक ओपन सोर्स लाइसेंस यह गारंटी देता है कि अन्य लोग बिना किसी प्रभाव के आपके प्रोजेक्ट का उपयोग, प्रतिलिपि, संशोधन और योगदान कर सकते हैं। यह आपको जटिल कानूनी स्थितियों से भी बचाता है। **ओपन सोर्स प्रोजेक्ट लॉन्च करते समय आपको एक लाइसेंस शामिल करना होगा।**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+क़ानूनी काम कोई मज़ेदार नहीं है. अच्छी खबर यह है कि आप मौजूदा लाइसेंस को कॉपी करके अपने रिपॉजिटरी में पेस्ट कर सकते हैं। आपकी मेहनत की रक्षा करने में केवल एक मिनट लगेगा।
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), और [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) सबसे लोकप्रिय ओपन सोर्स लाइसेंस हैं, लेकिन [अन्य विकल्प भी हैं](https://choosealicense.com).
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+जब आप GitHub पर एक नया प्रोजेक्ट बनाते हैं, तो आपको लाइसेंस चुनने का विकल्प दिया जाता है। ओपन सोर्स लाइसेंस शामिल करने से आपका GitHub प्रोजेक्ट ओपन सोर्स बन जाएगा।
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![एक लाइसेंस चुनें](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+यदि आपके पास ओपन सोर्स प्रोजेक्ट के प्रबंधन के कानूनी पहलुओं के बारे में अन्य प्रश्न या चिंताएं हैं, [हमने आपका ध्यान रखा है](../legal/).
 
-### Writing a README
+### एक README लिखना
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+READMEs आपके प्रोजेक्ट का उपयोग कैसे करें यह समझाने के अलावा और भी बहुत कुछ करते हैं। वे यह भी बताते हैं कि आपका प्रोजेक्ट क्यों मायने रखता है, और आपके उपयोगकर्ता इसके साथ क्या कर सकते हैं।
 
-In your README, try to answer the following questions:
+अपने README में निम्नलिखित प्रश्नों के उत्तर देने का प्रयास करें:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* यह प्रोजेक्ट क्या करता है?
+* यह प्रोजेक्ट उपयोगी क्यों है?
+* मैं कैसे शुरू करूँ?
+* यदि मुझे आवश्यकता हो तो मुझे और सहायता कहां से मिल सकती है?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+आप अपने README का उपयोग अन्य प्रश्नों के उत्तर देने के लिए कर सकते हैं, जैसे कि आप योगदान कैसे संभालते हैं, परियोजना के लक्ष्य क्या हैं, और लाइसेंस और एट्रिब्यूशन के बारे में जानकारी। यदि आप योगदान स्वीकार नहीं करना चाहते हैं, या आपका प्रोजेक्ट अभी तक उत्पादन के लिए तैयार नहीं है, तो इस जानकारी को लिख लें।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  बेहतर दस्तावेज़ीकरण का अर्थ है अधिक उपयोगकर्ता, कम समर्थन अनुरोध और अधिक योगदानकर्ता। (...) याद रखें कि आपके पाठक आप नहीं हैं। ऐसे लोग भी हो सकते हैं जो किसी प्रोजेक्ट में आ सकते हैं जिनके पास पूरी तरह से अलग अनुभव हों।
   <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["लिखें ताकि आपके शब्द पढ़े जा सकें (वीडियो)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+कभी-कभी, लोग README लिखने से बचते हैं क्योंकि उन्हें लगता है कि परियोजना अधूरी है, या वे योगदान नहीं चाहते हैं। इसे लिखने के ये सभी बहुत अच्छे कारण हैं।
 
-For more inspiration, try using @dguo's ["Make a README" guide](https://www.makeareadme.com/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+अधिक प्रेरणा के लिए, @dguo's का ["एक README बनाएं" मार्गदर्शिका](https://www.makeareadme.com/) उपयोग करने का प्रयास करें या @PurpleBooth's [README टेम्पलेट](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) संपूर्ण README लिखने के लिए।
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+जब आप रूट डायरेक्टरी में एक README फ़ाइल शामिल करते हैं, तो GitHub स्वचालित रूप से इसे रिपॉजिटरी होमपेज पर प्रदर्शित करेगा।
 
-### Writing your contributing guidelines
+### अपने योगदान संबंधी दिशानिर्देश लिखना
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+एक योगदान फ़ाइल आपके दर्शकों को बताती है कि आपके प्रोजेक्ट में कैसे भाग लेना है। उदाहरण के लिए, आप निम्न पर जानकारी शामिल कर सकते हैं:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* बग रिपोर्ट कैसे दर्ज करें ([इश्यू और पुल रिक्वेस्ट टेम्प्लेट्स का उपयोग](https://github.com/blog/2111-issue-and-pull-request-templates)) करने का प्रयास करें।
+* नई सुविधा का सुझाव कैसे दें
+* अपना वातावरण कैसे स्थापित करें और परीक्षण कैसे चलाएं
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+तकनीकी विवरण के अलावा, योगदान फ़ाइल योगदान के लिए आपकी अपेक्षाओं को संप्रेषित करने का एक अवसर है, जैसे:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* आप जिस प्रकार के योगदान की तलाश कर रहे हैं
+* परियोजना के लिए आपका रोडमैप या विज़न
+* योगदानकर्ताओं को आपसे कैसे संपर्क करना चाहिए (या नहीं करना चाहिए)।
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+गर्मजोशीपूर्ण, मैत्रीपूर्ण लहजे का उपयोग करना और योगदान के लिए विशिष्ट सुझाव देना (जैसे दस्तावेज़ लिखना, या वेबसाइट बनाना) नवागंतुकों को भाग लेने के लिए स्वागत और उत्साहित महसूस कराने में काफी मदद कर सकता है।
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) with:
+उदाहरण के लिए, [सक्रिय व्यवस्थापक](https://github.com/activeadmin/activeadmin/) प्रारंभ होता है [इसकी योगदान मार्गदर्शिका](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) के साथ:
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+>सबसे पहले, सक्रिय व्यवस्थापक में योगदान देने पर विचार करने के लिए धन्यवाद। यह आप जैसे लोग ही हैं जो एक्टिव एडमिन को इतना बढ़िया टूल बनाते हैं।
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+आपके प्रोजेक्ट के शुरुआती चरणों में, आपकी CONTRIBUTING फ़ाइल सरल हो सकती है। योगदान देने के लिए आपको हमेशा यह समझाना चाहिए कि बग या फ़ाइल समस्याओं की रिपोर्ट कैसे करें, और कोई तकनीकी आवश्यकताएं (जैसे परीक्षण) कैसे करें।
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+समय के साथ, आप अपनी योगदान फ़ाइल में अन्य अक्सर पूछे जाने वाले प्रश्न जोड़ सकते हैं। इस जानकारी को लिखने का मतलब है कि कम लोग आपसे वही प्रश्न बार-बार पूछेंगे।
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+अपनी CONTRIBUTING फ़ाइल लिखने में अधिक सहायता के लिए, देखें @nayafia's [contributing गाइड टेम्पलेट](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) या @mozilla's ["CONTRIBUTING.md कैसे बनाएं।"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+अपनी CONTRIBUTING फ़ाइल को अपने README से लिंक करें, ताकि अधिक लोग इसे देख सकें। यदि आप [CONTRIBUTING फ़ाइल को अपने प्रोजेक्ट के भंडार में रखते हैं](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), जब कोई योगदानकर्ता कोई समस्या उत्पन्न करता है या पुल अनुरोध खोलता है तो GitHub स्वचालित रूप से आपकी फ़ाइल से लिंक हो जाएगा।
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![योगदान दिशानिर्देश](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### Establishing a code of conduct
+### आचार संहिता की स्थापना
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+ हम सभी के पास ऐसे अनुभव हैं जहां हमें संभवतः दुरुपयोग का सामना करना पड़ा है या तो एक अनुरक्षक के रूप में यह समझाने की कोशिश कर रहा है कि कुछ को एक निश्चित तरीके से क्यों होना चाहिए, या एक उपयोगकर्ता के रूप में... एक साधारण प्रश्न पूछना। (...) आचार संहिता एक आसानी से संदर्भित और लिंक करने योग्य दस्तावेज़ बन जाती है जो इंगित करती है कि आपकी टीम रचनात्मक चर्चा को बहुत गंभीरता से लेती है।
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
+— @mlynch, ["ओपन सोर्स को एक खुशहाल जगह बनाना"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
-Finally, a code of conduct helps set ground rules for behavior for your project's participants. This is especially valuable if you're launching an open source project for a community or company. A code of conduct empowers you to facilitate healthy, constructive community behavior, which will reduce your stress as a maintainer.
+अंत में, एक आचार संहिता आपके प्रोजेक्ट के प्रतिभागियों के लिए व्यवहार के लिए बुनियादी नियम निर्धारित करने में मदद करती है। यह विशेष रूप से मूल्यवान है यदि आप किसी समुदाय या कंपनी के लिए एक ओपन सोर्स प्रोजेक्ट लॉन्च कर रहे हैं। आचार संहिता आपको स्वस्थ, रचनात्मक सामुदायिक व्यवहार की सुविधा प्रदान करने का अधिकार देती है, जो एक अनुरक्षक के रूप में आपके तनाव को कम करेगा।
 
-For more information, check out our [Code of Conduct guide](../code-of-conduct/).
+अधिक जानकारी के लिए, हमारी जाँच करें [आचार संहिता मार्गदर्शिका](../code-of-conduct/).
 
-In addition to communicating _how_ you expect participants to behave, a code of conduct also tends to describe who these expectations apply to, when they apply, and what to do if a violation occurs.
+यह बताने के अलावा कि आप प्रतिभागियों से कैसे व्यवहार करने की अपेक्षा करते हैं, आचार संहिता यह भी बताती है कि ये अपेक्षाएं किस पर लागू होती हैं, कब लागू होती हैं और उल्लंघन होने पर क्या करना चाहिए।
 
-Much like open source licenses, there are also emerging standards for codes of conduct, so you don't have to write your own. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), including Kubernetes, Rails, and Swift. No matter which text you use, you should be prepared to enforce your code of conduct when necessary.
+ओपन सोर्स लाइसेंस की तरह, आचार संहिता के लिए भी उभरते मानक हैं, इसलिए आपको अपना खुद का लिखने की ज़रूरत नहीं है। [योगदानकर्ता वाचा](https://contributor-covenant.org/) एक ड्रॉप-इन आचार संहिता है जिसका उपयोग [40,000 से अधिक ओपन सोर्स प्रोजेक्ट्स](https://www.contributor-covenant.org/adopters) द्वारा किया जाता है। कुबेरनेट्स, रेल्स और स्विफ्ट सहित। इससे कोई फर्क नहीं पड़ता कि आप किस पाठ का उपयोग करते हैं, आपको आवश्यकता पड़ने पर अपनी आचार संहिता लागू करने के लिए तैयार रहना चाहिए।
 
-Paste the text directly into a CODE_OF_CONDUCT file in your repository. Keep the file in your project's root directory so it's easy to find, and link to it from your README.
+टेक्स्ट को सीधे अपने रिपॉजिटरी में एक Code_OF_CONDUCT फ़ाइल में पेस्ट करें। फ़ाइल को अपने प्रोजेक्ट की रूट डायरेक्टरी में रखें ताकि इसे ढूंढना आसान हो, और इसे अपने README से लिंक करें।
 
-## Naming and branding your project
+## अपने प्रोजेक्ट का नामकरण और ब्रांडिंग करना
 
-Branding is more than a flashy logo or catchy project name. It's about how you talk about your project, and who you reach with your message.
+ब्रांडिंग एक आकर्षक लोगो या आकर्षक प्रोजेक्ट नाम से कहीं अधिक है। यह इस बारे में है कि आप अपने प्रोजेक्ट के बारे में कैसे बात करते हैं, और आप अपना संदेश किस तक पहुंचाते हैं।
 
-### Choosing the right name
+### सही नाम चुनना
 
-Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
+ऐसा नाम चुनें जो याद रखने में आसान हो और, आदर्श रूप से, प्रोजेक्ट क्या करता है, इसका कुछ अंदाज़ा देता हो। उदाहरण के लिए:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+* [Sentry](https://github.com/getsentry/sentry) क्रैश रिपोर्टिंग के लिए ऐप्स पर नज़र रखता है
+* [Thin](https://github.com/macournoyer/thin) एक तेज़ और सरल रूबी वेब सर्वर है
 
-If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
+यदि आप किसी मौजूदा प्रोजेक्ट पर निर्माण कर रहे हैं, तो उपसर्ग के रूप में उनके नाम का उपयोग करने से यह स्पष्ट करने में मदद मिल सकती है कि आपका प्रोजेक्ट क्या करता है (उदाहरण के लिए, [node-fetch](https://github.com/bitinn/node-fetch) window.fetch` को Node.js पर लाता है)।
 
-Consider clarity above all. Puns are fun, but remember that some jokes might not translate to other cultures or people with different experiences from you. Some of your potential users might be company employees: you don't want to make them uncomfortable when they have to explain your project at work!
+स्पष्टता को सर्वोपरि मानें। चुटकुले मजेदार हैं, लेकिन याद रखें कि कुछ चुटकुले अन्य संस्कृतियों या आपसे अलग अनुभव वाले लोगों पर लागू नहीं हो सकते हैं। आपके कुछ संभावित उपयोगकर्ता कंपनी के कर्मचारी हो सकते हैं: जब उन्हें कार्यस्थल पर आपके प्रोजेक्ट के बारे में बताना हो तो आप उन्हें असहज नहीं करना चाहेंगे!
 
-### Avoiding name conflicts
+### नाम के झगड़ों से बचना
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[समान नाम वाले ओपन सोर्स प्रोजेक्ट की जांच करें](http://ivantomic.com/projects/ospnc/), खासकर यदि आप एक ही भाषा या पारिस्थितिकी तंत्र साझा करते हैं। यदि आपका नाम किसी लोकप्रिय मौजूदा प्रोजेक्ट से मेल खाता है, तो आप अपने दर्शकों को भ्रमित कर सकते हैं।
 
-If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
+यदि आप अपने प्रोजेक्ट का प्रतिनिधित्व करने के लिए एक वेबसाइट, ट्विटर हैंडल या अन्य संपत्तियां चाहते हैं, तो सुनिश्चित करें कि आपको अपने इच्छित नाम मिल सकें। आदर्श रूप से, मन की शांति के लिए [अभी उन नामों को आरक्षित करें](https://instantdomainsearch.com/), भले ही आप अभी उनका उपयोग करने का इरादा नहीं रखते हों।
 
-Make sure that your project's name doesn't infringe upon any trademarks. A company might ask you to take down your project later on, or even take legal action against you. It's just not worth the risk.
+सुनिश्चित करें कि आपके प्रोजेक्ट का नाम किसी भी ट्रेडमार्क का उल्लंघन नहीं करता है। कोई कंपनी बाद में आपसे अपना प्रोजेक्ट वापस लेने के लिए कह सकती है, या आपके खिलाफ कानूनी कार्रवाई भी कर सकती है। यह जोखिम के लायक ही नहीं है।
 
-You can check the [WIPO Global Brand Database](http://www.wipo.int/branddb/en/) for trademark conflicts. If you're at a company, this is one of the things your [legal team can help you with](../legal/).
+आप ट्रेडमार्क विवादों के लिए [WIPO ग्लोबल ब्रांड डेटाबेस](http://www.wipo.int/branddb/en/) की जांच कर सकते हैं। यदि आप किसी कंपनी में हैं, तो यह उन चीजों में से एक है जिसमें आपकी [कानूनी टीम आपकी मदद कर सकती है।](../legal/)
 
-Finally, do a quick Google search for your project name. Will people be able to easily find your project? Does something else appear in the search results that you wouldn't want them to see?
+अंत में, अपने प्रोजेक्ट के नाम के लिए त्वरित Google खोज करें। क्या लोग आपका प्रोजेक्ट आसानी से ढूंढ पाएंगे? क्या खोज परिणामों में कुछ और दिखाई देता है जो आप नहीं चाहेंगे कि वे देखें?
 
-### How you write (and code) affects your brand, too!
+### आप कैसे लिखते हैं (और कोड) आपके ब्रांड को भी प्रभावित करता है!
 
-Throughout the life of your project, you'll do a lot of writing: READMEs, tutorials, community documents, responding to issues, maybe even newsletters and mailing lists.
+अपने प्रोजेक्ट के पूरे जीवनकाल में, आप बहुत सारा लेखन करेंगे: रीडमी, ट्यूटोरियल, सामुदायिक दस्तावेज़, मुद्दों पर प्रतिक्रिया देना, शायद न्यूज़लेटर और मेलिंग सूचियाँ भी।
 
-Whether it's official documentation or a casual email, your writing style is part of your project's brand. Consider how you might come across to your audience and whether that is the tone you wish to convey.
+चाहे वह आधिकारिक दस्तावेज हो या कोई आकस्मिक ईमेल, आपकी लेखन शैली आपके प्रोजेक्ट के ब्रांड का हिस्सा है। इस बात पर विचार करें कि आप अपने दर्शकों के सामने कैसे आ सकते हैं और क्या आप यही लहजा बताना चाहते हैं।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+  मैंने मेलिंग सूची के हर सूत्र में शामिल होने और अनुकरणीय व्यवहार दिखाने, लोगों के साथ अच्छा व्यवहार करने, उनके मुद्दों को गंभीरता से लेने और समग्र रूप से मददगार बनने की कोशिश की। थोड़ी देर के बाद, लोग न केवल प्रश्न पूछने के लिए, बल्कि उत्तर देने में भी मदद करने के लिए इधर-उधर रुके और मुझे पूरी खुशी हुई, उन्होंने मेरी शैली की नकल की।
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl [CouchDB](https://github.com/apache/couchdb), ["सतत खुला स्रोत"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html) पर।
   </p>
 </aside>
 
-Using warm, inclusive language (such as "them", even when referring to the single person) can go a long way in making your project feel welcoming to new contributors. Stick to simple language, as many of your readers may not be native English speakers.
+गर्मजोशीपूर्ण, समावेशी भाषा (जैसे कि "उन्हें", यहां तक ​​कि जब एक व्यक्ति का जिक्र हो) का उपयोग करना आपके प्रोजेक्ट को नए योगदानकर्ताओं का स्वागत करने में काफी मदद कर सकता है। सरल भाषा पर कायम रहें, क्योंकि हो सकता है कि आपके कई पाठक मूल अंग्रेजी बोलने वाले न हों।
 
-Beyond how you write words, your coding style may also become part of your project's brand. [Angular](https://angular.io/guide/styleguide) and [jQuery](https://contribute.jquery.org/style-guide/js/) are two examples of projects with rigorous coding styles and guidelines.
+शब्दों को लिखने के तरीके के अलावा, आपकी कोडिंग शैली भी आपके प्रोजेक्ट के ब्रांड का हिस्सा बन सकती है। [Angular](https://angular.io/guide/styleguide) और [jQuery](https://contribute.jquery.org/style-guide/js/) कठोर कोडिंग शैलियों और दिशानिर्देशों वाली परियोजनाओं के दो उदाहरण हैं।
 
-It isn't necessary to write a style guide for your project when you're just starting out, and you may find that you enjoy incorporating different coding styles into your project anyway. But you should anticipate how your writing and coding style might attract or discourage different types of people. The earliest stages of your project are your opportunity to set the precedent you wish to see.
+जब आप अभी शुरुआत कर रहे हों तो अपने प्रोजेक्ट के लिए स्टाइल गाइड लिखना आवश्यक नहीं है, और आप पाएंगे कि आप वैसे भी अपने प्रोजेक्ट में विभिन्न कोडिंग शैलियों को शामिल करने का आनंद लेते हैं। लेकिन आपको यह अनुमान लगाना चाहिए कि आपकी लेखन और कोडिंग शैली विभिन्न प्रकार के लोगों को कैसे आकर्षित या हतोत्साहित कर सकती है। आपके प्रोजेक्ट के शुरुआती चरण आपके लिए वह मिसाल कायम करने का अवसर हैं जो आप देखना चाहते हैं।
 
-## Your pre-launch checklist
+## आपकी प्री-लॉन्च चेकलिस्ट
 
-Ready to open source your project? Here's a checklist to help. Check all the boxes? You're ready to go! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) and pat yourself on the back.
+क्या आप अपना प्रोजेक्ट ओपन सोर्स करने के लिए तैयार हैं? मदद के लिए यहां एक चेकलिस्ट दी गई है। सभी बक्सों की जाँच करें? आप जाने के लिए तैयार हैं! ["प्रकाशित करें" पर क्लिक करें](https://help.github.com/articles/making-a-private-repository-public/) और अपनी पीठ थपथपाएं।
 
-**Documentation**
+**दस्तावेज़ीकरण**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    प्रोजेक्ट में ओपन सोर्स लाइसेंस के साथ LICENSE फ़ाइल है।
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    प्रोजेक्ट में बुनियादी दस्तावेज़ हैं (README, CONTRIBUTING, Code_OF_CONDUCT)।
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    नाम याद रखना आसान है, प्रोजेक्ट क्या करता है इसका कुछ अंदाजा देता है, और किसी मौजूदा प्रोजेक्ट के साथ टकराव नहीं करता है या ट्रेडमार्क का उल्लंघन नहीं करता है।
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    समस्या कतार अद्यतन है, जिसमें मुद्दे स्पष्ट रूप से व्यवस्थित और लेबल किए गए हैं।
   </label>
 </div>
 
@@ -292,65 +291,65 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    प्रोजेक्ट सुसंगत कोड सम्मेलनों और स्पष्ट फ़ंक्शन/विधि/चर नामों का उपयोग करता है।
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    इरादों और किनारे के मामलों का दस्तावेजीकरण करते हुए कोड पर स्पष्ट रूप से टिप्पणी की गई है।
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+    पुनरीक्षण इतिहास, मुद्दों या पुल अनुरोधों में कोई संवेदनशील सामग्री नहीं है (उदाहरण के लिए, पासवर्ड या अन्य गैर-सार्वजनिक जानकारी)।
   </label>
 </div>
 
-**People**
+**लोग**
 
-If you're an individual:
+यदि आप एक व्यक्ति हैं:
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  आपने कानूनी विभाग से बात की है और/या अपनी कंपनी की आईपी और ओपन सोर्स नीतियों को समझा है (यदि आप कहीं कर्मचारी हैं)।
   </label>
 </div>
 
-If you're a company or organization:
+यदि आप एक कंपनी या संगठन हैं:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    आपने अपने कानूनी विभाग से बात की है।
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    आपके पास परियोजना की घोषणा और प्रचार के लिए एक मार्केटिंग योजना है।
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    कोई व्यक्ति सामुदायिक अंतःक्रियाओं के प्रबंधन के लिए प्रतिबद्ध है (issues का जवाब देना, reviewing और merging pull requests)
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    कम से कम दो लोगों के पास परियोजना तक प्रशासनिक पहुंच है।
   </label>
 </div>
 
-## You did it!
+## तुमने यह किया!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+आपके पहले प्रोजेक्ट की ओपन सोर्सिंग के लिए बधाई। परिणाम चाहे जो भी हो, सार्वजनिक रूप से काम करना समुदाय के लिए एक उपहार है। प्रत्येक प्रतिबद्धता, टिप्पणी और अनुरोध के साथ, आप अपने लिए और दूसरों के लिए सीखने और बढ़ने के अवसर पैदा कर रहे हैं।
