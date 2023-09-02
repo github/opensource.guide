@@ -150,7 +150,7 @@ You shouldn't need more than 1-2 sentences to respond. For example, when a user 
   </p>
 </aside>
 
-कभी-कभी, जब आप ना कहते हैं, तो आपका संभावित योगदानकर्ता परेशान हो सकता है या आपके निर्णय की आलोचना कर सकता है। यदि उनका व्यवहार शत्रुतापूर्ण हो जाए, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) या यदि वे रचनात्मक रूप से सहयोग करने के इच्छुक नहीं हैं, तो उन्हें अपने समुदाय से हटा भी दें।
+कभी-कभी, जब आप ना कहते हैं, तो आपका संभावित योगदानकर्ता परेशान हो सकता है या आपके निर्णय की आलोचना कर सकता है। यदि उनका व्यवहार शत्रुतापूर्ण हो जाए, [स्थिति को शांत करने के लिए कदम उठाएं](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) या यदि वे रचनात्मक रूप से सहयोग करने के इच्छुक नहीं हैं, तो उन्हें अपने समुदाय से हटा भी दें।
 
 ### मार्गदर्शन को गले लगाओ
 
@@ -166,11 +166,11 @@ You shouldn't need more than 1-2 sentences to respond. For example, when a user 
 
 यदि आप मदद के लिए दूसरों की तलाश कर रहे हैं, तो आसपास पूछकर शुरुआत करें।
 
-नए योगदानकर्ताओं को प्राप्त करने का एक तरीका स्पष्ट रूप से है [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). इसके बाद GitHub इन मुद्दों को प्लेटफ़ॉर्म पर विभिन्न स्थानों पर प्रदर्शित करेगा, जिससे उनकी दृश्यता बढ़ेगी।
+नए योगदानकर्ताओं को प्राप्त करने का एक तरीका स्पष्ट रूप से है [ऐसे लेबल मुद्दे जो शुरुआती लोगों के लिए निपटने के लिए काफी सरल हैं](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). इसके बाद GitHub इन मुद्दों को प्लेटफ़ॉर्म पर विभिन्न स्थानों पर प्रदर्शित करेगा, जिससे उनकी दृश्यता बढ़ेगी।
 
 जब आप नए योगदानकर्ताओं को बार-बार योगदान करते हुए देखें, तो अधिक जिम्मेदारी देकर उनके काम को पहचानें। दस्तावेज़ बनाएं कि यदि अन्य लोग चाहें तो नेतृत्व की भूमिका में कैसे विकसित हो सकते हैं।
 
-दूसरों को इसके लिए प्रोत्साहित करना[share ownership of the project](../building-community/#share-ownership-of-your-project) आपके स्वयं के कार्यभार को बहुत कम कर सकता है, जैसा कि @lmccart ने अपने प्रोजेक्ट पर पाया, [p5.js](https://github.com/processing/p5.js).
+दूसरों को इसके लिए प्रोत्साहित करना [अपने प्रोजेक्ट का स्वामित्व साझा करें](../building-community/#अपने-प्रोजेक्ट-का-स्वामित्व-साझा-करें) आपके स्वयं के कार्यभार को बहुत कम कर सकता है, जैसा कि @lmccart ने अपने प्रोजेक्ट पर पाया, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
@@ -184,7 +184,7 @@ You shouldn't need more than 1-2 sentences to respond. For example, when a user 
 
 यदि अन्य लोग इसकी दिशा को लेकर उत्साहित हैं, तो उन्हें प्रतिबद्ध पहुंच प्रदान करें या औपचारिक रूप से नियंत्रण किसी और को सौंप दें। यदि किसी ने आपके प्रोजेक्ट को फोर्क किया है और इसे कहीं और सक्रिय रूप से बनाए रख रहा है, तो अपने मूल प्रोजेक्ट से फोर्क को जोड़ने पर विचार करें। यह बहुत अच्छा है कि इतने सारे लोग चाहते हैं कि आपका प्रोजेक्ट चालू रहे!
 
-@progrium [found that](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) अपने प्रोजेक्ट, [डोक्कू](https://github.com/dokku/dokku) के लिए विज़न का दस्तावेजीकरण करने से, प्रोजेक्ट से दूर जाने के बाद भी उन लक्ष्यों को जीवित रखने में मदद मिली:
+@progrium [ने पाया कि](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) अपने प्रोजेक्ट, [Dokku](https://github.com/dokku/dokku) के लिए विज़न का दस्तावेजीकरण करने से, प्रोजेक्ट से जाने के बाद भी उन लक्ष्यों को जीवित रखने में मदद मिली:
 
 > मैंने एक विकी पेज लिखा जिसमें बताया गया कि मैं क्या चाहता था और मैं यह क्यों चाहता था। किसी कारण से यह मेरे लिए आश्चर्य की बात थी कि अनुरक्षकों ने परियोजना को उस दिशा में आगे बढ़ाना शुरू कर दिया! क्या यह बिल्कुल वैसा ही हुआ जैसा मैंने इसे किया था? हमेशा नहीं। लेकिन फिर भी यह परियोजना को मैंने जो लिखा था उसके करीब ले आया।
 
