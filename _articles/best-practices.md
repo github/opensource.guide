@@ -134,7 +134,7 @@ To reduce the volume of unwanted contributions in the first place, explain your 
 
 If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
 
-* Fill out a issue or PR template/checklist
+* Fill out an issue or PR template/checklist
 * Open an issue before submitting a PR
 
 If they don't follow your rules, close the issue immediately and point to your documentation.
