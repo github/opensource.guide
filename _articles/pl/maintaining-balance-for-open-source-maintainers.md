@@ -8,7 +8,7 @@ order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+W miarę jak popularność projektu open source rośnie, ważne staje się ustalenie jasnych granic, które pomogą zachować równowagę, aby zachować świeżość i produktywność na dłuższą metę.
 
 To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
 
