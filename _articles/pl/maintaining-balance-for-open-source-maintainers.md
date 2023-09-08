@@ -44,7 +44,7 @@ Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych t
   </p>
 </aside>
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **Nie mówienie 'nie':** Łatwo jest wziąć na siebie więcej obowiązków niż jest to konieczne w projekcie open source. Niezależnie od tego, czy chodzi o użytkowników, współpracowników czy innych opiekunów - nie zawsze możemy spełnić ich oczekiwania.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
