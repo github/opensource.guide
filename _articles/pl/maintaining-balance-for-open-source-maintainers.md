@@ -24,11 +24,11 @@ Czym więc jest ekologia osobista? Zgodnie z <a href="https://rockwoodleadership
 
 Przyjmując koncepcję osobistej ekologii, opiekunowie mogą aktywnie unikać wypalenia, traktować priorytetowo dbanie o siebie i utrzymywać poczucie równowagi, aby wykonywać swoją najlepszą pracę.
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## Wskazówki dotyczące dbania o siebie i unikania wypalenia zawodowego w roli opiekuna:
 
-### Identify your motivations for working in open source
+### Określ swoje motywacje do pracy w open source
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+Poświęć trochę czasu na zastanowienie się nad tym, jakie części utrzymania open source cię energetyzują. Zrozumienie swoich motywacji może pomóc w ustaleniu priorytetów pracy w sposób, który sprawi, że będziesz zaangażowany i gotowy na nowe wyzwania. Niezależnie od tego, czy chodzi o pozytywne opinie użytkowników, radość ze współpracy i kontaktów towarzyskich ze społecznością, czy też satysfakcję z zagłębiania się w kod, rozpoznanie motywacji może pomóc w skupieniu się na pracy.
 
 ### Reflect on what causes you to get out of balance and stressed out
 
