@@ -54,7 +54,7 @@ Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych t
   </p>
 </aside>
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **Praca w samotności:** Bycie opiekunem może być niezwykle samotne. Nawet jeśli pracujesz z grupą opiekunów, ostatnie kilka lat było trudne dla osobistego zwoływania rozproszonych zespołów.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
