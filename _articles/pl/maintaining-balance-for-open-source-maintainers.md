@@ -103,7 +103,7 @@ Będzie to wyglądać inaczej dla każdego opiekuna i będzie się zmieniać w z
 
   Możesz także szukać sposobów na zaangażowanie społeczności użytkowników, aby regularnie otrzymywać informacje zwrotne i zrozumieć znaczenie swojej pracy w open source.
 
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **Znajdź finansowanie:** Niezależnie od tego, czy szukasz pieniędzy na pizzę, czy próbujesz przejść na pełny etat open source, istnieje wiele zasobów, które mogą Ci pomóc! Pierwszym krokiem jest włączenie opcji [Sponsorzy GitHub](https://github.com/sponsors), aby umożliwić innym sponsorowanie twojej pracy open source. Jeśli myślisz o przejściu na pełny etat, zgłoś się do następnej rundy [GitHub Accelerator](http://accelerator.github.com/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
