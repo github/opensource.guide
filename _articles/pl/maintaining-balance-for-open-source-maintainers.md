@@ -122,9 +122,9 @@ Będzie to wyglądać inaczej dla każdego opiekuna i będzie się zmieniać w z
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
+* **Odpoczynek i regeneracja:** Znajdź czas na swoje hobby i zainteresowania poza open source. Weź wolne weekendy, aby się zrelaksować i zregenerować - i ustaw swój [status GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status), aby odzwierciedlał twoją dostępność! Dobry sen może mieć duży wpływ na twoją zdolność do utrzymania wysiłków w dłuższej perspektywie.
 
-  If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
+  Jeśli pewne aspekty projektu sprawiają ci szczególną przyjemność, postaraj się tak zaplanować pracę, abyś mógł doświadczać ich w ciągu dnia.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
