@@ -144,7 +144,7 @@ To meaningfully trust others on these axes, you cannot be someone who says yes t
   </p>
 </aside>
 
-  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+  Naucz się stanowczo odrzucać szkodliwe zachowania i negatywne interakcje. W dobrym tonie jest nie poświęcać energii rzeczom, na których ci nie zależy.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
