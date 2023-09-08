@@ -113,7 +113,7 @@ Będzie to wyglądać inaczej dla każdego opiekuna i będzie się zmieniać w z
   </p>
 </aside>
 
-* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **Korzystaj z narzędzi:** Poznaj narzędzia takie jak [GitHub Copilot](https://github.com/features/copilot/) i [GitHub Actions](https://github.com/features/actions), aby zautomatyzować proste zadania i uwolnić swój czas na bardziej znaczący wkład.
 
 <aside markdown="1" class="pquote">
  Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
