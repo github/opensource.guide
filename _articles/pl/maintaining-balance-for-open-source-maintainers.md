@@ -162,7 +162,7 @@ It's no secret that open source maintenance has its dark sides, and one of these
   </p>
 </aside>
 
-Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
+Pamiętaj, że ekologia osobista to ciągła praktyka, która będzie ewoluować w miarę postępów w podróży open source. Traktując priorytetowo dbanie o siebie i utrzymywanie poczucia równowagi, możesz wnieść swój wkład w społeczność open source w sposób skuteczny i zrównoważony, zapewniając zarówno dobre samopoczucie, jak i sukces swoich projektów na dłuższą metę.
 
 ## Additional Resources
 
