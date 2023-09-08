@@ -82,9 +82,9 @@ Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych t
   </p>
 </aside>
 
-### Watch out for signs of burnout
+### Zwróć uwagę na oznaki wypalenia
 
-Can you keep up your pace for 10 weeks? 10 months? 10 years?
+Czy jesteś w stanie utrzymać tempo przez 10 tygodni? 10 miesięcy? 10 lat?
 
 There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla's [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
 
