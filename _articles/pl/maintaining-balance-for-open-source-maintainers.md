@@ -177,11 +177,11 @@ Pamiętaj, że ekologia osobista to ciągła praktyka, która będzie ewoluować
 * [Otwartość zarządzania](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
 * Program warsztatów został zaczerpnięty z serii [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org)
 
-## Contributors
+## Współtwórcy
 
-Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+Bardzo dziękujemy wszystkim opiekunom, którzy podzielili się z nami swoimi doświadczeniami i wskazówkami na potrzeby tego przewodnika!
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from: 
+Ten przewodnik został napisany przez [@abbycabs](https://github.com/abbycabs) z wkładem od:
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
@@ -218,4 +218,4 @@ This guide was written by [@abbycabs](https://github.com/abbycabs) with contribu
 [@thisisnic](https://github.com/thisisnic)
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
-[@waldyrious](https://github.com/waldyrious) + many others!
+[@waldyrious](https://github.com/waldyrious) + wiele innych osób!
