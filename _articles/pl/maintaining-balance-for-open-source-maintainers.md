@@ -134,7 +134,7 @@ Będzie to wyglądać inaczej dla każdego opiekuna i będzie się zmieniać w z
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **Wyznacz granice:** Nie możesz zgodzić się na każdą prośbę. Może to być tak proste, jak powiedzenie: "Nie mogę się tym teraz zająć i nie planuję tego w przyszłości" lub wyszczególnienie tego, co chcesz zrobić, a czego nie, w pliku README. Na przykład, można powiedzieć: "Łączę tylko PR-y, które mają jasno wymienione powody, dla których zostały stworzone" lub "Przeglądam sprawy tylko we czwartki od 18:00 do 19:00". Określa to oczekiwania wobec innych i daje ci coś, na co możesz wskazać w innych momentach, aby pomóc zmniejszyć wymagania ze strony współpracowników lub użytkowników dotyczące twojego czasu.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
