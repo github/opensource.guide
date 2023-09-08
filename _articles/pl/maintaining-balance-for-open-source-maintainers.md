@@ -99,9 +99,9 @@ Istnieją narzędzia, takie jak [Burnout Checklist](https://governingopen.com/re
 
 Będzie to wyglądać inaczej dla każdego opiekuna i będzie się zmieniać w zależności od etapu życia i innych czynników zewnętrznych. Ale oto kilka tematów, które usłyszeliśmy:
 
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
+* **Odciążenie społeczności:** Delegowanie i znajdowanie współpracowników może zmniejszyć obciążenie pracą. Posiadanie wielu osób do kontaktu w sprawie projektu może pomóc ci zrobić sobie przerwę bez zmartwień. Nawiązuj kontakty z innymi opiekunami i szerszą społecznością - w grupach takich jak [Maintainer Community](http://maintainers.github.com/). Może to być świetne źródło wzajemnego wsparcia i nauki.
 
-  You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
+  Możesz także szukać sposobów na zaangażowanie społeczności użytkowników, aby regularnie otrzymywać informacje zwrotne i zrozumieć znaczenie swojej pracy w open source.
 
 * **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
 
