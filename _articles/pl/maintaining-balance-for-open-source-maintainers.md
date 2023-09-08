@@ -64,7 +64,7 @@ Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych t
   </p>
 </aside>
 
-* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+* **Niewystarczająca ilość czasu lub zasobów:** Jest to szczególnie prawdziwe w przypadku opiekunów-wolontariuszy, którzy muszą poświęcić swój wolny czas na pracę nad projektem.
 
 <aside markdown="1" class="pquote">
   [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
