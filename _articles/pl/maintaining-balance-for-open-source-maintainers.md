@@ -34,7 +34,7 @@ Poświęć trochę czasu na zastanowienie się nad tym, jakie części utrzymani
 
 Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych tematów, które zaobserwowaliśmy wśród opiekunów open source:
 
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **Brak pozytywnych opinii:** Użytkownicy są znacznie bardziej skłonni do zgłaszania swoich skarg. Jeśli wszystko działa świetnie, mają tendencję do milczenia. Może to być zniechęcające, gdy widzi się rosnącą listę problemów bez pozytywnych opinii pokazujących, w jaki sposób Twój wkład robi różnicę.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
