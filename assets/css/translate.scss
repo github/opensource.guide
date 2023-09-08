@@ -1,0 +1,40 @@
+// Translation results of " Section x" in articles
+// Autor: Olsza
+// License: CC-BY-4.0
+
+// Enter the locale code and the translation of "Section" in the language.
+// The country code should be the same as the value of the lang attribute in html (use "-" instead of "_")
+$section_translation: (
+        "de": "",
+        "el": "",
+        "en": "",
+        "es": "",
+        "fa": "",
+        "fr": "",
+        "hu": "",
+        "id": "",
+        "ja": "",
+        "ko": "",
+        "ms": "",
+        "nl": "",
+        "pl": "Rozdział",
+        "pt": "",
+        "ro": "",
+        "ru": "",
+        "ta": "",
+        "tr": "",
+        "zh-hant": "",
+        "zh-hans": "",
+);
+
+@each $locale, $translation in $section_translation {
+  @if $translation != "" {
+    html[lang="#{$locale}"] .article-body {
+      @for $i from 1 through 9 {
+        h2:nth-of-type(#{$i}):before {
+          content: "#{$translation} #{$i}";
+        }
+      }
+    }
+  }
+}
