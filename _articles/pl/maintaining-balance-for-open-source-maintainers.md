@@ -1,8 +1,8 @@
 ---
-lang: en
+lang: pl
 untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+title: Utrzymanie równowagi dla opiekunów Open Source
+description: Wskazówki dotyczące dbania o siebie i unikania wypalenia jako opiekun.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
