@@ -95,9 +95,9 @@ Istnieją narzędzia, takie jak [Burnout Checklist](https://governingopen.com/re
   </p>
 </aside>
 
-### What would you need to continue sustaining yourself and your community?
+### Czego potrzebujesz, aby utrzymać siebie i swoją społeczność?
 
-This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
+Będzie to wyglądać inaczej dla każdego opiekuna i będzie się zmieniać w zależności od etapu życia i innych czynników zewnętrznych. Ale oto kilka tematów, które usłyszeliśmy:
 
 * **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
 
