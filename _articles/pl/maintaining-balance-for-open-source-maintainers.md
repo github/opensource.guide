@@ -22,7 +22,7 @@ Czym więc jest ekologia osobista? Zgodnie z <a href="https://rockwoodleadership
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+Przyjmując koncepcję osobistej ekologii, opiekunowie mogą aktywnie unikać wypalenia, traktować priorytetowo dbanie o siebie i utrzymywać poczucie równowagi, aby wykonywać swoją najlepszą pracę.
 
 ## Tips for Self-Care and Avoiding Burnout as a Maintainer:
 
