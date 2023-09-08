@@ -30,9 +30,9 @@ Przyjmując koncepcję osobistej ekologii, opiekunowie mogą aktywnie unikać wy
 
 Poświęć trochę czasu na zastanowienie się nad tym, jakie części utrzymania open source cię energetyzują. Zrozumienie swoich motywacji może pomóc w ustaleniu priorytetów pracy w sposób, który sprawi, że będziesz zaangażowany i gotowy na nowe wyzwania. Niezależnie od tego, czy chodzi o pozytywne opinie użytkowników, radość ze współpracy i kontaktów towarzyskich ze społecznością, czy też satysfakcję z zagłębiania się w kod, rozpoznanie motywacji może pomóc w skupieniu się na pracy.
 
-### Reflect on what causes you to get out of balance and stressed out
+### Zastanów się, co powoduje, że tracisz równowagę i stresujesz się
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych tematów, które zaobserwowaliśmy wśród opiekunów open source:
 
 * **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
 
