@@ -73,7 +73,7 @@ Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych t
   </p>
 </aside>
 
-* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **Sprzeczne oczekiwania:** Open source jest pełne grup o różnych motywacjach, co może być trudne w obsłudze. Jeśli płacą ci za pracę nad open source, interesy twojego pracodawcy mogą być czasami sprzeczne ze społecznością.
 
 <aside markdown="1" class="pquote">
   With paid open source, conflict between employer's focus and what's best for the community
