@@ -164,18 +164,18 @@ It's no secret that open source maintenance has its dark sides, and one of these
 
 Pamiętaj, że ekologia osobista to ciągła praktyka, która będzie ewoluować w miarę postępów w podróży open source. Traktując priorytetowo dbanie o siebie i utrzymywanie poczucia równowagi, możesz wnieść swój wkład w społeczność open source w sposób skuteczny i zrównoważony, zapewniając zarówno dobre samopoczucie, jak i sukces swoich projektów na dłuższą metę.
 
-## Additional Resources
+## Dodatkowe materiały
 
-* [Maintainer Community](http://maintainers.github.com/)
-* [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
+* [Społeczność opiekunów](http://maintainers.github.com/)
+* [Umowa społeczna open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
 * [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg 
-* [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
+* [Jak radzić sobie z toksycznymi ludźmi](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
-* [Personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
-* [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Zestaw do samooceny ekologii osobistej](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
+* [Sztuka przywództwa](https://rockwoodleadership.org/art-of-leadership/), Rockwood
+* [Mówienie "nie"](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
+* [Otwartość zarządzania](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
+* Program warsztatów został zaczerpnięty z serii [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org)
 
 ## Contributors
 
