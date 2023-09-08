@@ -86,7 +86,7 @@ Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych t
 
 Czy jesteś w stanie utrzymać tempo przez 10 tygodni? 10 miesięcy? 10 lat?
 
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla's [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
+Istnieją narzędzia, takie jak [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) od [@shaunagm](https://github.com/shaunagm) i od Mozilla [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) , które mogą pomóc ci zastanowić się nad twoim obecnym tempem i sprawdzić, czy są jakieś poprawki, które możesz wprowadzić. Niektórzy opiekunowie używają również technologii do monitorowania takich wskaźników jak jakość snu i zmienność tętna (oba powiązane ze stresem).
 
 <aside markdown="1" class="pquote">
  I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
