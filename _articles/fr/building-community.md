@@ -192,7 +192,7 @@ Pour la plupart, si vous avez cultivé une communauté amicale et respectueuse e
 
 Lorsque votre communauté est aux prises avec un problème difficile, la colère peut monter. Les gens peuvent devenir fâchés ou frustrés et s'en prendre à un autre ou à vous.
 
-Votre travail en tant que mainteneur consiste à éviter l'escalade de ces situations. Même si vous avez une opinion forte sur le sujet, essayez de prendre la position d'un modérateur ou d'un facilitateur, plutôt que de vous jeter dans la bagarre et de faire valoir vos points de vue. Si quelqu'un est méchant ou accapare la conversation, [agissez immédiatement](../building-community/#ne-tol&egrave;rez-pas-les-mauvais-acteurs) pour garder les discussions civiles et productives.
+Votre travail en tant que mainteneur consiste à éviter l'escalade de ces situations. Même si vous avez une opinion forte sur le sujet, essayez de prendre la position d'un modérateur ou d'un facilitateur, plutôt que de vous jeter dans la bagarre et de faire valoir vos points de vue. Si quelqu'un est méchant ou accapare la conversation, [agissez immédiatement](../building-community/#ne-tolérez-pas-les-mauvais-acteurs) pour garder les discussions civiles et productives.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
