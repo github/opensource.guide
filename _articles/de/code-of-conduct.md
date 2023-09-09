@@ -14,7 +14,7 @@ related:
 
 Ein Verhaltenskodex ist ein Dokument, das die Erwartungen an das Verhalten der Projektteilnehmer\*innen festlegt. Einen Verhaltenskodex festzulegen und durchzusetzen, kann dazu beitragen, eine positive soziale Atmosphäre für Ihre Community zu schaffen.
 
-Verhaltenskodizes schützen nicht nur Ihre Teilnehmer\*innen, sondern auch Sie selbst. Wenn Sie ein Projekt pflegen, werden Sie vielleicht feststellen, dass unproduktive Einstellungen von anderen dazu führen können, dass Sie sich im Laufe der Zeit ausgelaugt oder unglücklich über Ihre Arbeit fühlen.
+Verhaltenskodizes schützen nicht nur Ihre Mitwirkenden, sondern auch Sie selbst. Wenn Sie ein Projekt pflegen, werden Sie vielleicht feststellen, dass unproduktive Einstellungen von anderen dazu führen können, dass Sie sich im Laufe der Zeit ausgelaugt oder unglücklich über Ihre Arbeit fühlen.
 
 Ein Verhaltenskodex bevollmächtigt Sie, ein gesundes, konstruktives Miteinander zu fördern. Proaktiv zu sein, verringert die Wahrscheinlichkeit, dass Sie oder andere projektmüde werden, und hilft Ihnen, Maßnahmen gegen unerwünschtes Verhalten zu ergreifen.
 
@@ -103,7 +103,7 @@ Es gibt einige Möglichkeiten, wie Sie auf einen Verstoß gegen den Verhaltensko
 
 Manchmal kann keine Lösung erreicht werden. Die gemeldete Person kann aggressiv oder feindselig werden, wenn er oder sie damit konfrontiert wird oder das Verhalten nicht ändert. In dieser Situation sollten Sie vielleicht stärkere Maßnahmen in Betracht ziehen. Zum Beispiel:
 
-* **zeitweise Suspendierung** in Form eines vorübergehenden Verbots, sich an den Aspekten des Projekts zu beteiligen.
+* **zeitweise Suspendierung** in Form eines vorübergehenden Verbots, sich in irgendeiner Art am Projekt zu beteiligen.
 
 * Die Person **dauerhaft aus dem Projekt verbannen**.
 

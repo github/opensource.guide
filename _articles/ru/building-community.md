@@ -225,7 +225,7 @@ related:
   <img src = "https://avatars.githubusercontent.com/lee-dohm?s=180" class = "pquote-avatar" alt = "avatar">
   Отчасти причина того, что система голосования не применяется для проблем Atom, заключается в том, что команда Atom не собирается следовать системе голосования во всех случаях. Иногда нам приходится выбирать то, что мы считаем правильным, даже если это непопулярно. (...) Что я могу предложить и обещаю сделать... так это то, что моя работа — слушать сообщество.
   <p markdown = "1" class = "pquote-credit">
-— @lee-dohm о [процессе принятия решений в Atom](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm о процессе принятия решений в Atom
   </p>
 </aside>
 

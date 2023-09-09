@@ -237,7 +237,7 @@ A jó hír egy népszerű projekt fenntartásához az, hogy más karbantartók v
 * [mention-bot](https://github.com/facebook/mention-bot) a beolvasztási kérelemben megemlíti automatikusan a lehetséges embereket, akik a kódot majd átnézik (kód review)
 * [Danger](https://github.com/danger/danger) segít automatizálni a kód review-t
 * [no-response](https://github.com/probot/no-response) lezárja azokat az issue-kat, amelyekben az issue szerzője nem válaszolt a további információkérésre
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) minden nap ellenőrzi a függőségeket, ha talál frissebb verziót, akkor automatikusan beolvasztási kérelmet készít az új verzió számmal
+* [dependabot](https://github.com/dependabot) minden nap ellenőrzi a függőségeket, ha talál frissebb verziót, akkor automatikusan beolvasztási kérelmet készít az új verzió számmal
 
 A hiba jelzésekhez és más általános hozzájárulásokhoz a GitHub biztosít egy [hiba jelzés és beolvasztási kérelem formanyomtatványt](https://github.com/blog/2111-issue-and-pull-request-templates), amellyel egyszerűsíteni és egységesíteni tudod ezek beadását. @TalAter készített egy [Választásos Kalandjátékot](https://www.talater.com/open-source-templates/#/) hogy segítse ezen formanyomtatványok elkészítését.
 

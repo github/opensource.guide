@@ -144,14 +144,6 @@ redirect_from: /zh-tw/finding-users/
 
 建立用戶群沒有一蹴而就的方法。獲取別人的新人和尊重需要時間，同樣，建立聲望的過程也永遠不會停止。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
-  PhantomJS公開第一個版本的時候實在2011年初。我也就是用一些常規的方法來推廣：發Twitter，寫博客告訴別人可以用它來做什麼，在各種各樣的聚會上我都提到過它。當2014年他已經廣爲人知的時候。我才開始做關於它的演講。
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
 ## 保持精進
 
 有時候，讓人麼注意你的開源專案會花費很多時間。但是沒關係！現在很多流行的專案也都是花了很多年才有今天的活躍度。把重點放在建立聲望上而不是企圖一夜成名。耐心一點，一如既往的和那些可能會從中受益的人們分享你的專案。

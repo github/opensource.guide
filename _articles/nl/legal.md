@@ -139,7 +139,7 @@ Als u het eerste open source-project van uw bedrijf uitbrengt, is het bovenstaan
 
 Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen meer uit zijn betrokkenheid bij open source te halen en veilig te blijven:
 
-* **Beleid inzake werknemersbijdragen:** Overweeg om een ​​bedrijfsbeleid te ontwikkelen dat aangeeft hoe uw werknemers bijdragen aan open source-projecten. Een duidelijk beleid zal de verwarring onder uw medewerkers verminderen en hen helpen bij te dragen aan open source-projecten in het belang van het bedrijf, zowel als onderdeel van hun baan als in hun vrije tijd. Een goed voorbeeld is Rackspace's [Model IP and Open Source Contribution Policy] (https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Beleid inzake werknemersbijdragen:** Overweeg om een ​​bedrijfsbeleid te ontwikkelen dat aangeeft hoe uw werknemers bijdragen aan open source-projecten. Een duidelijk beleid zal de verwarring onder uw medewerkers verminderen en hen helpen bij te dragen aan open source-projecten in het belang van het bedrijf, zowel als onderdeel van hun baan als in hun vrije tijd. Een goed voorbeeld is Rackspace's [Model IP and Open Source Contribution Policy] (https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -148,12 +148,12 @@ Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen 
   _Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention._
 
   <p markdown="1" class="pquote-credit">
-— @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Wat vrij te geven:** [(Bijna) alles?] (Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Als uw juridische team het begrijpt en geïnvesteerd in de open source-strategie van uw bedrijf, zullen ze u het beste kunnen helpen in plaats van hinderen.
-* **Naleving:** Zelfs als uw bedrijf geen open source-projecten vrijgeeft, gebruikt het open source-software van anderen. [Bewustwording en proces](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) kan hoofdpijn, productvertragingen, en rechtszaken voorkomen.
+* **Naleving:** Zelfs als uw bedrijf geen open source-projecten vrijgeeft, gebruikt het open source-software van anderen. [Bewustwording en proces](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) kan hoofdpijn, productvertragingen, en rechtszaken voorkomen.
 
 <aside markdown="1" class="pquote">
   Organisaties moeten een licentie- en nalevingsstrategie hebben die past in de categorieën \["tolerant" en "copyleft"\]. Dit begint met het bijhouden van de licentievoorwaarden die van toepassing zijn op de open source-software die u gebruikt, inclusief subcomponenten en afhankelijkheden.

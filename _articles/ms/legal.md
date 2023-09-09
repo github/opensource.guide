@@ -134,18 +134,18 @@ Sekiranya anda melepaskan projek sumber terbuka pertama syarikat anda, perkara d
 
 Jangka panjang, pasukan undang-undang anda boleh melakukan lebih banyak perkara untuk membantu syarikat mendapatkan lebih banyak hasil daripada penglibatannya dalam sumber terbuka, dan tetap selamat:
 
-* **Dasar sumbangan pekerja:** Pertimbangkan untuk mengembangkan polisi korporat yang menentukan bagaimana pekerja anda menyumbang untuk projek sumber terbuka. Dasar yang jelas akan mengurangkan kekeliruan di kalangan pekerja anda dan membantu mereka menyumbang kepada projek sumber terbuka demi kepentingan syarikat, sama ada sebagai sebahagian daripada pekerjaan mereka atau pada masa lapang. Contoh yang baik ialah Rackspace [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Dasar sumbangan pekerja:** Pertimbangkan untuk mengembangkan polisi korporat yang menentukan bagaimana pekerja anda menyumbang untuk projek sumber terbuka. Dasar yang jelas akan mengurangkan kekeliruan di kalangan pekerja anda dan membantu mereka menyumbang kepada projek sumber terbuka demi kepentingan syarikat, sama ada sebagai sebahagian daripada pekerjaan mereka atau pada masa lapang. Contoh yang baik ialah Rackspace [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Membiarkan IP yang berkaitan dengan patch membina asas pengetahuan dan reputasi pekerja. Ini menunjukkan bahawa syarikat dilaburkan dalam pengembangan pekerja tersebut dan mewujudkan rasa pemberdayaan dan autonomi. Semua faedah ini juga membawa kepada semangat kerja yang lebih tinggi dan pengekalan pekerja yang lebih baik.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Apa yang hendak dilepaskan:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Sekiranya pasukan undang-undang anda memahami dan dilaburkan dalam strategi sumber terbuka syarikat anda, mereka akan dapat membantu dan bukannya menghalang usaha anda.
-* **Pematuhan:** Walaupun syarikat anda tidak mengeluarkan projek sumber terbuka, ia menggunakan perisian sumber terbuka orang lain. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) dapat mencegah sakit kepala, kelewatan produk, dan tuntutan mahkamah.
+* **Pematuhan:** Walaupun syarikat anda tidak mengeluarkan projek sumber terbuka, ia menggunakan perisian sumber terbuka orang lain. [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) dapat mencegah sakit kepala, kelewatan produk, dan tuntutan mahkamah.
 
 <aside markdown="1" class="pquote">
   Organisasi mesti mempunyai strategi lesen dan pematuhan yang sesuai dengan kedua kategori [["permisive" dan "copyleft" \]. Ini bermula dengan mencatat syarat-syarat pelesenan yang berlaku untuk perisian sumber terbuka yang Anda gunakan - termasuk subkomponen dan dependensi.

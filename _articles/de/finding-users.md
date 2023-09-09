@@ -26,7 +26,7 @@ Code-Beispiele wie @robb sie verwendet, können klar kommunizieren, warum sein P
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-Tiefere Einblicke in das Thema "Botschaften", finden Sie in Mozillas ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)-Übung zur Entwicklung von Personas.
+Tiefere Einblicke in das Thema "Botschaften" finden Sie in Mozillas ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/)-Übung zur Entwicklung von Personas.
 
 ## Helfen Sie Menschen dabei, Ihr Projekt zu finden und zu beobachten
 
@@ -73,7 +73,7 @@ Nun, da Sie die Botschaft Ihres Projekt klargestellt haben, und seine einfache A
 
 Internetkommunikation ist ein großartiger Weg, um die Botschaft Ihres Projektes schnell zu verbreiten und verteilen zu lassen: Online-Kanälen bieten das Potenzial, ein sehr breites Publikum zu erreichen.
 
-Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr Publikum zu erreichen. Wenn es sich bei Ihrem Open Source Projekt um ein Softwareprojekt handelt, erreichen Sie Ihr Publikum wahrscheinlich auf [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), oder [Quora](https://www.quora.com/). Finden Sie die Kanäle, von denen Sie denken, dass die Menschen am meisten von Ihrer Arbeit profitieren werden, oder sich begeistern lassen.
+Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr Publikum zu erreichen. Wenn es sich bei Ihrem Open-Source-Projekt um ein Softwareprojekt handelt, erreichen Sie Ihr Publikum wahrscheinlich auf [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), oder [Quora](https://www.quora.com/). Finden Sie die Kanäle, von denen Sie denken, dass die Menschen am meisten von Ihrer Arbeit profitieren werden, oder sich begeistern lassen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
@@ -89,7 +89,7 @@ Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr 
 
 Finden Sie Wege, um Ihr Projekt auf relevante Art und Weise mit anderen zu teilen:
 
-* **Lernen Sie relevante Open Source Projekte und Communities kennen.** Manchmal müssen Sie nicht direkt für Ihr Projekt werben. Wenn Ihr Projekt perfekt für Datenwissenschaftler geeignet ist, die Python nutzen, lernen Sie die Python Data Science Community kennen. Wenn die Leute Sie kennenlernen, ergeben sich natürliche Gelegenheiten, über Ihre Arbeit zu sprechen und sie mit anderen zu teilen.
+* **Lernen Sie relevante Open-Source-Projekte und Communities kennen.** Manchmal müssen Sie nicht direkt für Ihr Projekt werben. Wenn Ihr Projekt perfekt für Datenwissenschaftler geeignet ist, die Python nutzen, lernen Sie die Python Data Science Community kennen. Wenn die Leute Sie kennenlernen, ergeben sich natürliche Gelegenheiten, über Ihre Arbeit zu sprechen und sie mit anderen zu teilen.
 * **Finden Sie Personen, die mit dem Problem konfrontiert sind, das Ihr Projekt löst.** Suchen Sie in verwandten Foren nach Personen, die in die Zielgruppe Ihres Projekts fallen, beantworten Sie deren Fragen und finden Sie einen taktvollen Weg, um Ihr Projekt als Lösung vorzuschlagen.
 * **Bitten Sie um Feedback.** Stellen Sie sich und Ihre Arbeit einem Publikum vor, das Sie für relevant und interessant hält, und geben Sie an, wer Ihrer Meinung nach von Ihrem Projekt profitieren könnte. Versuchen Sie, diesen Satz zu vervollständigen: _"Ich denke, dass mein Projekt wirklich den X helfen würde, die versuchen, Y zu tun."_. Hören Sie zu und reagieren Sie auf das Feedback anderer, anstatt einfach nur Ihre Arbeit anzupreisen.
 
@@ -169,19 +169,7 @@ Wenn Sie Neuankömmlingen helfen, Ressourcen gemeinsam nutzen und durchdachte Be
 
 Es ist nie zu früh oder zu spät, um mit dem Aufbau eines guten Rufs zu beginnen. Auch wenn Sie bereits ein eigenes Projekt gestartet haben, suchen Sie weiterhin nach Möglichkeiten, anderen zu helfen.
 
-Ein Publikum aufzubauen, schafft man nicht über Nacht. Das Vertrauens und den Respekt anderer zu gewinnen, nimmt Zeit in Anspruch, und der Aufbau Ihres Rufes endet nie.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-
-  PhantomJS wurde Anfang 2011 zum ersten Mal veröffentlicht. (...) Ich verkündete dies auf die übliche Art und Weise: Ich twitterte darüber, ich schrieb Blog-Posts über Dinge, die man damit machen könnte, ich erwähnte es in verschiedenen Diskussionen in Meetups. Als es 2014 bekannter wurde, fing ich an, Vorträge darüber zu halten.
-
-  _PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it._
-
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
+Ein Publikum aufzubauen schafft man nicht über Nacht. Das Vertrauens und den Respekt anderer zu gewinnen, nimmt Zeit in Anspruch, und der Aufbau Ihres Rufes endet nie.
 
 ## Weitermachen!
 

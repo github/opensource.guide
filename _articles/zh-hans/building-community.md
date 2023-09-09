@@ -132,7 +132,7 @@ redirect_from: /zh-cn/building-community/
 
 随着项目的成长，好的文档会变得愈加重要。临时贡献者或路人是不可能一下子就对项目非常熟悉，一份好的文档，能够很快找到他们需要的。
 
-在 CONTRIBUTING 文件里，需要明确告诉新来的贡献者该如何开始。而且若是可能为了想要达到这个目的，还需要准备一个专门的部分。
+在 CONTRIBUTING 文件里，需要明确告诉新来的贡献者该如何开始。你甚至可能为此专门准备一个独立的部分：例如 [Django](https://github.com/django/django), 就提供一个专门的首页面来欢迎和指导新晋贡献者。
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
@@ -144,7 +144,7 @@ redirect_from: /zh-cn/building-community/
 
 例如，这里是[Rubinius](https://github.com/rubinius/rubinius/)如何开始[它的贡献指南](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md)：
 
-> 我们想感谢你们使用Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够找到你们的issue。
+> 我们想感谢你们使用Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够解决你们的issue。
 
 ### 共享项目所有权
 
@@ -164,7 +164,7 @@ redirect_from: /zh-cn/building-community/
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **在项目中添加一个贡献者或者作者文件** 用于记录每一个参与贡献的人。
+* **在项目中添加一个贡献者文件(CONTRIBUTORS) 或者作者文件(AUTHORS)** 用于记录每一个参与贡献的人。
 
 * 如果社区有了一定的规模，那么 **发送一封信或者发表一篇博客** 感谢贡献者们。Rust的[Rust周报](https://this-week-in-rust.org/)和Hoodie的[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)就是两个非常好的范例。
 
@@ -174,7 +174,7 @@ redirect_from: /zh-cn/building-community/
 
 事实上很多项目只有一个或者两个做大量工作的维护者。随着项目以及社区越来越大，就会有更多的人参与进来。
 
-虽然并不是一直都有人在回答问题，但是你可以去增加一些信号，以让他人有能够接触的机会，越是尽早开始，越是能够获得帮助。
+虽然并不是一直都有人在回答问题，但是你可以去增加一些信号，以让他人有能够加入的机会，越是尽早开始，越是能够获得帮助。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
@@ -213,8 +213,8 @@ redirect_from: /zh-cn/building-community/
 
 ### 将你们的README视为最高法则
 
-README [不仅仅是一组指令](../starting-a-project/#撰写自述文件)。它也是一个谈论目标、产品愿景和路线的地方。
-如果人们过分专注于讨论特定功能的优点，它可能有助于重新审视您的README，并谈论项目的更高的愿景。关注README也会使对话变得个人化，所以可以进行建设性的讨论。
+README [不仅仅是一个简单的说明](../starting-a-project/#撰写自述文件)。它也是一个谈论目标、产品愿景和路线的地方。
+如果人们过分专注于讨论特定功能的优点，那么你可能需要重新审视您的README，并谈论项目的更高的愿景。关注README也会使对话变得个人化，所以可以进行建设性的讨论。
 
 ### 专注过程，而不是结果
 
@@ -231,7 +231,7 @@ README [不仅仅是一组指令](../starting-a-project/#撰写自述文件)。�
 Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情况下都不会遵循投票系统。有时我们必须选择我们认为是对的事，即使它不流行。（。。。）我能通过社区的反馈知道我能够提供什么以及做什么样的工作。
 
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 决策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom 决策流程
   </p>
 </aside>
 

@@ -66,14 +66,6 @@ Hari ini, banyak orang dibayar untuk bekerja secara sambilan atau sepenuh masa d
 
 Lebih mudah untuk membuat kes untuk kerja sumber terbuka jika majikan anda benar-benar menggunakan projek ini, tetapi kreatif dengan usaha anda. Mungkin majikan anda tidak menggunakan projek itu, tetapi mereka menggunakan Python, dan mengekalkan projek Python yang popular membantu menarik pemaju Python baru. Mungkin itu menjadikan majikan anda kelihatan lebih mesra pemaju secara amnya.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Seperti banyak sumber terbuka, saya bergelut dengan beban penyelenggaraan projek. Ketika mula-mula mula melakukan open source, saya selalu terlambat untuk mengerjakannya atau tepat ketika saya pulang ke rumah. (...) Saya dapat membincangkan masalah yang saya hadapi dengan bos saya dan kami mendapat idea tentang bagaimana kami dapat memasukkan tugas sumber terbuka memandangkan penggunaan Babel oleh kami sendiri.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Sekiranya anda tidak mempunyai projek sumber terbuka yang sedia ada, anda ingin mengusahakannya, tetapi lebih suka bahawa hasil kerja anda sekarang bersumber terbuka, buatlah majikan anda membuka sumber perisian dalaman mereka.
 
 Banyak syarikat sedang mengembangkan program sumber terbuka untuk membina jenama mereka dan merekrut bakat berkualiti.
@@ -124,7 +116,6 @@ Mencari tajaan berfungsi dengan baik jika anda sudah mempunyai khalayak atau rep
 Beberapa contoh projek yang ditaja termasuk:
 
 * **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** organisasi bukan untung yang membayar untuk bekerja [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan projek infrastruktur Ruby yang lain
 
 ### Buat aliran pendapatan
