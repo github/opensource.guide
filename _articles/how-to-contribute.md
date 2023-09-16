@@ -174,16 +174,16 @@ A project also has documentation. These files are usually listed in the top leve
 
 * **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
 * **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
+* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to. A good example of an effective Contributing Guide would be the one from [Codecademy's Docs repository](https://www.codecademy.com/resources/docs/contribution-guide).  
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects like [Astro Docs](https://docs.astro.build/en/contribute/#contributing-to-docs).
 
 Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress.
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+* **Issue tracker:** Where people discuss issues related to the project.  
+* **Pull requests:** Where people discuss and review changes that are in progress whether its to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint-fix.yml), use certain GitHub Action flows to automate and quicken their code reviews.  
+* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations. A good example of this would be [CHAOSS' weekly Newsletter](https://chaoss.community/news/)
+* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges. A good example of this would be [EddieHub's Discord community](http://discord.eddiehub.org/).
 
 ## Finding a project to contribute to
 
@@ -201,7 +201,7 @@ Open source isn't an exclusive club; it's made by people just like you. "Open so
 
 You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> According to a study conducted by Igor Steinmacher and other Computer Science researchers,[28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as  typo fixes, reformatting, or writing a translation.
 
 If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -215,6 +215,7 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### A checklist before you contribute
 
@@ -233,7 +234,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the main branch. On GitHub, you can see this information on a repository's homepage.
+Look at the commit activity on the main branch. On GitHub, you can see this information in the Insights tab of a repository's homepage, such as[Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
