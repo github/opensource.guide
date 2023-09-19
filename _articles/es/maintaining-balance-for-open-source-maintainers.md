@@ -10,10 +10,9 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 A medida que un proyecto de código abierto gana popularidad, se vuelve importante establecer límites claros que te ayuden a mantener el equilibrio para mantenerte actualizado y productivo a largo plazo.
 
-
 Para obtener información sobre la experiencia de los mantenedores y sus estrategias para hallar el balance, realizamos un taller con 40 miembros de la <a href="http://maintainers.github.com/">Comunidad de Mantenedores</a>, permitiéndonos aprender de primera mano sobre sus experiencias con el Burnout en el código abierto y las prácticas que les han ayudado a mantener el equilibrio en su trabajo. Aquí es donde entra en juego el concepto de ecología personal.
 
-Entonces, ¿qué es ecología personal? Como lo <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism"> describe el the Rockwood Leadership Institute</a>, implica <strong> “mantener el equilibrio, el ritmo y la eficiencia para sostener nuestra energía durante toda la vida.”</strong> Esto enmarcó nuestras conversaciones, ayudando a los mantenedores a reconocer sus acciones y contribuciones como partes de un ecosistema más grande que evoluciona con el tiempo. El Burnout, un síndrome resultante del estrés crónico en el lugar de trabajo [según lo define la OMS](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), no es infrecuente entre los mantenedores. Esto a menudo conduce a una pérdida de motivación, incapacidad para concentrarse y falta de empatía por los contribuyentes y la comunidad con la que trabaja.
+Entonces, ¿qué es ecología personal? Como lo <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism"> describe el the Rockwood Leadership Institute</a>, implica "<strong>mantener el equilibrio, el ritmo y la eficiencia para sostener nuestra energía durante toda la vida.”</strong>" Esto enmarcó nuestras conversaciones, ayudando a los mantenedores a reconocer sus acciones y contribuciones como partes de un ecosistema más grande que evoluciona con el tiempo. El Burnout, un síndrome resultante del estrés crónico en el lugar de trabajo [según lo define la OMS](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), no es infrecuente entre los mantenedores. Esto a menudo conduce a una pérdida de motivación, incapacidad para concentrarse y falta de empatía por los contribuyentes y la comunidad con la que trabaja.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -87,7 +86,7 @@ Con el código abierto de pago, el conflicto entre el interés del empleador y l
 
 ¿Puedes mantener tu ritmo durante 10 semanas? ¿10 meses? ¿10 años?
 
-Hay herramientas como [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) y el [Kit de autoevaluación de ecología personal ](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) de Mozilla que pueden ayudarte a reflexionar sobre tu ritmo actual y ver si hay algún ajuste que puedas hacer. Algunos mantenedores también utilizan tecnología vestible para realizar un seguimiento de parámetros como la calidad del sueño y la variabilidad de la frecuencia cardiaca (ambos relacionados con el estrés).
+Hay herramientas como [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) y el [Kit de autoevaluación de ecología personal](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) de Mozilla que pueden ayudarte a reflexionar sobre tu ritmo actual y ver si hay algún ajuste que puedas hacer. Algunos mantenedores también utilizan tecnología vestible para realizar un seguimiento de parámetros como la calidad del sueño y la variabilidad de la frecuencia cardiaca (ambos relacionados con el estrés).
 
 <aside markdown="1" class="pquote">
  Creo mucho en los vestibles. Con la que hay ciencia detrás de ellos, puedes entender cómo podrías haberlo hecho mejor y cómo llegar a un estado óptimo de lo que quieres hacer.
@@ -173,7 +172,7 @@ Recuerda que la ecología personal es una práctica continua que evolucionará a
 * [SustainOSS](https://sustainoss.org/)
 * [Kit de autoevaluación de ecología personal](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
 * [El arte del liderazgo](https://rockwoodleadership.org/art-of-leadership/)
-* [Diciendo No ](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
+* [Diciendo No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Gobierno Abierto](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
 * La agenda del taller fue tomado de [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
 
