@@ -1,14 +1,15 @@
 ---
-lang: en
+lang: es
 untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+title: Manteniendo el equilibrio para Mantenedores de Código Abierto
+description: Consejos para el autocuidado y evitar el burnout como mantenedor.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+A medida que un proyecto de código abierto gana popularidad, se vuelve importante establecer límites claros que le ayuden a mantener el equilibrio para mantenerse actualizado y productivo a largo plazo.
+
 
 To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
 
