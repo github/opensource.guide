@@ -2,187 +2,186 @@
 lang: es
 untranslated: true
 title: Manteniendo el equilibrio para Mantenedores de Código Abierto
-description: Consejos para el autocuidado y evitar el burnout como mantenedor.
+description: Consejos para el autocuidado y evitar el Burnout como mantenedor.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-A medida que un proyecto de código abierto gana popularidad, se vuelve importante establecer límites claros que le ayuden a mantener el equilibrio para mantenerse actualizado y productivo a largo plazo.
+A medida que un proyecto de código abierto gana popularidad, se vuelve importante establecer límites claros que te ayuden a mantener el equilibrio para mantenerte actualizado y productivo a largo plazo.
 
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+Para obtener información sobre la experiencia de los mantenedores y sus estrategias para hallar el balance, realizamos un taller con 40 miembros de la <a href="http://maintainers.github.com/">Comunidad de Mantenedores</a>, permitiéndonos aprender de primera mano sobre sus experiencias con el Burnout en el código abierto y las prácticas que les han ayudado a mantener el equilibrio en su trabajo. Aquí es donde entra en juego el concepto de ecología personal.
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+Entonces, ¿qué es ecología personal? Como lo <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism"> describe el the Rockwood Leadership Institute</a>, implica <strong> “mantener el equilibrio, el ritmo y la eficiencia para sostener nuestra energía durante toda la vida.”</strong> Esto enmarcó nuestras conversaciones, ayudando a los mantenedores a reconocer sus acciones y contribuciones como partes de un ecosistema más grande que evoluciona con el tiempo. El Burnout, un síndrome resultante del estrés crónico en el lugar de trabajo [según lo define la OMS](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), no es infrecuente entre los mantenedores. Esto a menudo conduce a una pérdida de motivación, incapacidad para concentrarse y falta de empatía por los contribuyentes y la comunidad con la que trabaja.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
-  I was unable to focus or start on a task. I had a lack of empathy for users.
+No podía concentrarme o comenzar una tarea. Me faltaba empatía por los usuarios.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, mantenedor del servidor de transmisión en vivo Owncast, sobre el impacto del burnout en su trabajo de código abierto
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+Al adoptar el concepto de ecología personal, los mantenedores pueden evitar de manera proactiva el burnout, priorizar el cuidado personal y mantener un sentido de equilibrio para hacer su mejor trabajo.
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## Consejos para el Autocuidado y Evitar el Burnout como Mantenedor:
 
-### Identify your motivations for working in open source
+### Identifica tus motivaciones para trabajar con código abierto
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+Tomate el tiempo para reflexionar sobre qué partes del mantenimiento de código abierto te dan energía. Comprender tus motivaciones puede ayudarte a priorizar el trabajo de una manera que te mantenga comprometido y listo para nuevos desafíos. Ya sean los comentarios positivos de los usuarios, la alegría de colaborar y socializar con la comunidad o la satisfacción de sumergirse en el código, reconocer tus motivaciones puede ayudarte a guiar tu enfoque.
 
-### Reflect on what causes you to get out of balance and stressed out
+### Reflexiona sobre qué te provoca desequilibrio y estrés
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+Es importante comprender qué nos causa agotamiento. Aquí hay algunos temas comunes que vimos entre los mantenedores de código abierto:
 
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **Falta de comentarios positivos:** Es mucho más probable que los usuarios se comuniquen cuando tienen una queja. Si todo funciona bien, tienden a permanecer en silencio. Puede resultar desalentador ver una lista creciente de problemas sin comentarios positivos que muestren cómo sus contribuciones están marcando la diferencia.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
-  Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
+A veces se siente un poco como gritar al vacío y encuentro que la retroalimentación realmente me da energía. Tenemos muchos usuarios felices pero silenciosos.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
+— <a href="https://github.com/thisisnic">@thisisnic</a>, Mantenedora de Apache Arrow
   </p>
 </aside>
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **No decir 'no':** Puede resultar fácil asumir más responsabilidades de las que deberías en un proyecto de código abierto. Ya sean usuarios, contribuyentes u otros mantenedores, no siempre podemos estar a la altura de sus expectativas.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
+  Descubrí que estaba asumiendo más de lo que debería y que tenía que hacer el trabajo de varias personas, como ocurre comúnmente en FOSS.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
+— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, mantenedor de Termux, sobre las causas del Burnout en su trabajo
   </p>
 </aside>
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **Trabajar solo:** Ser mantenedor puede resultar increíblemente solitario. Incluso si trabajas con un grupo de mantenedores, los últimos años han sido difíciles para convocar equipos de manera física.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
+Especialmente desde el COVID y el trabajar desde casa es más difícil ver o hablar con cualquiera.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, mantenedor del servidor de transmisión en vivo Owncast, sobre el impacto del burnout en su trabajo de código abierto
   </p>
 </aside>
 
-* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+* **No hay suficiente tiempo ni recursos:** Esto es especialmente cierto para los mantenedores voluntarios que tienen que sacrificar su tiempo libre para trabajar en un proyecto.
 
 <aside markdown="1" class="pquote">
-  [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
+ [Me gustaría tener] más apoyo financiero, para poder concentrarme en el trabajo de código abierto sin gastar mis ahorros y sabiendo que tendré que hacer muchas contrataciones para compensarlo más adelante.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— Mantenedor de código abierto
   </p>
 </aside>
 
-* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **Demandas contradictorias:**  El código abierto está lleno de grupos con diferentes motivaciones, lo que puede ser difícil de navegar. Si te pagan por hacer código abierto, los intereses de tu empleador a veces pueden estar reñidos con los de la comunidad.
 
 <aside markdown="1" class="pquote">
-  With paid open source, conflict between employer's focus and what's best for the community
+Con el código abierto de pago, el conflicto entre el interés del empleador y lo que es mejor para la comunidad
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— mantenedor de código abierto
   </p>
 </aside>
 
-### Watch out for signs of burnout
+### Cuidado con los signos del Burnout
 
-Can you keep up your pace for 10 weeks? 10 months? 10 years?
+¿Puedes mantener tu ritmo durante 10 semanas? ¿10 meses? ¿10 años?
 
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla's [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
+Hay herramientas como [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) y el [Kit de autoevaluación de ecología personal ](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) de Mozilla que pueden ayudarte a reflexionar sobre tu ritmo actual y ver si hay algún ajuste que puedas hacer. Algunos mantenedores también utilizan tecnología vestible para realizar un seguimiento de parámetros como la calidad del sueño y la variabilidad de la frecuencia cardiaca (ambos relacionados con el estrés).
 
 <aside markdown="1" class="pquote">
- I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
+ Creo mucho en los vestibles. Con la que hay ciencia detrás de ellos, puedes entender cómo podrías haberlo hecho mejor y cómo llegar a un estado óptimo de lo que quieres hacer.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— mantenedor de código abierto
   </p>
 </aside>
 
-### What would you need to continue sustaining yourself and your community?
+### ¿Qué necesitarías para seguir sosteniéndote a ti mismo y a tu comunidad?
 
-This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
+Esto será diferente para cada mantenedor, y cambiará según la fase de tu vida y otros factores externos. Pero aquí hay algunos tópicos que escuchamos:
 
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
+* **Apóyate en la comunidad:** Delegar y encontrar contribuidores puede aliviar la carga de trabajo. Tener varios puntos de contacto para un proyecto puede ayudarte a tomarte un descanso sin preocuparte. Conecta con otros mantenedores y con la comunidad en general en grupos como la [Comunidad de Mantenedores](http://maintainers.github.com/). Este puede ser un gran recurso de apoyo y aprendizaje entre pares.
 
-  You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
+  También puedes buscar formas de interactuar con la comunidad de usuarios, de modo que puedas escuchar regularmente sus comentarios y comprender el impacto de tu trabajo de código abierto.
 
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **Explora la financiación:** Tanto si buscas dinero para una pizza como si quieres dedicarte a tiempo completo al código abierto, hay muchos recursos que te pueden ayudar. Como primer paso, considera activar [GitHub Sponsors](https://github.com/sponsors) para permitir que otros patrocinen tu trabajo de código abierto. Si estás pensando en dar el salto a tiempo completo, presenta tu candidatura para la próxima ronda de [GitHub Accelerator](http://accelerator.github.com/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
- I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
+Hace un tiempo participé en un podcast y estuvimos charlando sobre el mantenimiento y la sostenibilidad del código abierto. Me di cuenta de que incluso un pequeño número de personas apoyando mi trabajo en GitHub me ayudó a tomar rápidamente la decisión de no sentarme delante de un juego, sino de hacer una pequeña cosa con código abierto.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
+— <a href="https://github.com/mansona">@mansona</a>, mantenedor de EmberJS
   </p>
 </aside>
 
-* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **Usa herramientas:** Explora herramientas como [GitHub Copilot](https://github.com/features/copilot/) y [GitHub Actions](https://github.com/features/actions) para automatizar tareas mundanas y ganar tiempo libre para contribuciones más significativas.
 
 <aside markdown="1" class="pquote">
- Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
+ usa [Copilot](https://github.com/features/copilot/) para lo aburrido - haz tu las cosas divertidas
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— mantenedor de código abierto
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
+* **Descanso y recarga:** Dedica tiempo a tus hobbies e intereses fuera del código abierto. Tómate los fines de semana libres para desconectar y rejuvenecer, actualiza tu [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) ¡para reflejar tu disponibilidad! Una buena noche de sueño puede marcar una gran diferencia en tu capacidad para mantener tus esfuerzos a largo plazo.
 
-  If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
+  Si ciertos aspectos de tu proyecto te resultan especialmente agradables, intenta estructurar tu trabajo de modo que puedas experimentarlos a lo largo del día.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
+Estoy encontrando más oportunidades de esparcir "momentos de creatividad" a mitad del día, en lugar de intentar desconectar por la noche.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
+— <a href="https://github.com/danielroe">@danielroe</a>, mantenedor de Nuxt
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **Establece límites:** No puedes decir que sí a todas las solicitudes. Esto puede ser tan sencillo como decir: "No puedo hacer eso ahora mismo y no tengo planes de hacerlo en el futuro", o enumerar lo que te interesa hacer y lo que no en el archivo README. Por ejemplo, podrías decir: "Sólo fusiono pull request que tengan una lista clara de las razones por las que se hicieron", o "Sólo reviso problemas un jueves de por medio de 6 a 7 pm". Esto establece expectativas para los demás, y te da cosas que redirigir  hacia otros momentos, para ayudar a reducir las demandas de los colaboradores o usuarios sobre tu tiempo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
+Para confiar significativamente en los demás en estos ejes, no puedes ser alguien que dice sí a todas las peticiones. Al hacerlo, no mantienes límites, ni profesional ni personalmente, y no serás un compañero de trabajo fiable.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
+— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, Mantenedor de Homebrew [Diciendo no](https://mikemcquaid.com/saying-no/)
   </p>
 </aside>
 
-  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+ Aprende a ser firme a la hora de acabar con los comportamientos tóxicos y las interacciones negativas. Está bien no dar energía a cosas que no te importan.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-My software is gratis, but my time and attention is not.
+Mi software es gratis, pero mi tiempo y atención no lo son
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
+— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, mantenedor de Leaflet
   </p>
 </aside>
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.  
+  <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar"> No es ningún secreto que el mantenimiento del código abierto tiene sus lados oscuros, y uno de ellos es tener que interactuar a veces con personas bastante desagradecidas, engreídas o directamente tóxicas. A medida que aumenta la popularidad de un proyecto, también lo hace la frecuencia de este tipo de interacción, lo que se suma a la carga que soportan los mantenedores y posiblemente se convierta en un factor de riesgo importante para el Burnout del mantenedor.  
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+— <a href="https://github.com/foosel">@foosel</a>, mantenedora de Octoprint  [Como lidiar con personas tóxicas](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
 </aside>
 
-Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
+Recuerda que la ecología personal es una práctica continua que evolucionará a medida que avances en tu viaje por el código abierto. Si das prioridad al autocuidado y mantienes un sentido del equilibrio, podrás contribuir a la comunidad del código abierto de forma eficaz y sostenible, garantizando tanto tu bienestar como el éxito de tus proyectos a largo plazo.
 
-## Additional Resources
+## Recursos Adicionales
 
-* [Maintainer Community](http://maintainers.github.com/)
-* [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
+* [Comunidad de Mantenedores](http://maintainers.github.com/)
+* [El contrato social del código abierto](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
 * [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg 
-* [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
+* [Como lidiar con personas tóxicas](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
-* [Personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
-* [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Kit de autoevaluación de ecología personal](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
+* [El arte del liderazgo](https://rockwoodleadership.org/art-of-leadership/)
+* [Diciendo No ](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
+* [Gobierno Abierto](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
+* La agenda del taller fue tomado de [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
 
-## Contributors
+## Contribuidores
 
-Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+¡Muchas gracias a todos los mantenedores que compartieron sus experiencias y consejos con nosotros para esta guía!
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from: 
+Esta guía fue escrita por [@abbycabs](https://github.com/abbycabs) con contribuciones de:
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
@@ -219,4 +218,4 @@ This guide was written by [@abbycabs](https://github.com/abbycabs) with contribu
 [@thisisnic](https://github.com/thisisnic)
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
-[@waldyrious](https://github.com/waldyrious) + many others!
+[@waldyrious](https://github.com/waldyrious) + ¡muchos otros!
