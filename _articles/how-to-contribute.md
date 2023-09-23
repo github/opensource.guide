@@ -431,11 +431,11 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
 Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by opening an issue or pull request:
+If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by doing the following:
 
-* **Issues** are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution
-* **For lightweight communication,** such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+* **Raising an Issue:** These are like starting a conversation or discussion
+* **Pull requests** are for starting work on a solution.
+* **Communication Channels:** If the project has a designated Discord, IRC, or Slack channel, consider starting a conversation or asking for clarification about your contribution.
 
 Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
 
@@ -467,10 +467,10 @@ Tips for communicating on issues:
 
 You should usually open a pull request in the following situations:
 
-* Submit trivial fixes (for example, a typo, a broken link or an obvious error)
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue
+* Submit small fixes such a typo, a broken link or an obvious error.
+* Start work on a contribution that was already asked for, or that you've already discussed, in an issue.
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just open it as a "draft" or mark as a "WIP" (Work in Progress) in the subject line. You can always add more commits later.
+A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just open it as a "draft" or mark as a "WIP" (Work in Progress) in the subject line or "Notes to Reviewers" sections if provided (or you can just create your own. Like this: `**## Notes to Reviewer**`). You can always add more commits later.
 
 If the project is on GitHub, here's how to submit a pull request:
 
@@ -478,18 +478,16 @@ If the project is on GitHub, here's how to submit a pull request:
 * **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
 * **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
 * **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don't break the existing project.
+* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. It's important to make sure your changes don't break the existing project.
 * **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
-## What happens after you submit a contribution
+## What happens after you submit your contribution
 
-You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
+Before we start celebrating, one of the following will happen after you submit your contribution:
 
-After you submit a contribution, one of the following will happen:
-
-### 😭 You don't get a response.
+### 😭 You don't get a response
 
 Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
@@ -497,24 +495,24 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 **Don't** reach out to that person privately; remember that public communication is vital to open source projects.
 
-If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+If you give a polite reminder and still do not receive a response, it's possible that nobody will ever respond. It's not a great feeling, but don't let that discourage you! 😄 There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
-### 🚧 Someone requests changes to your contribution.
+### 🚧 Someone requests changes to your contribution
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
 When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it. A good example of this would be [the feedback that another contributor has given to @a-m-lamb on their pull request to Codecademy's Docs](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286). 
 
-If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
+If you don't have time to work on the issue anymore due to reasons such as the conversation has been going on for months, and your circumstances have changed or you're unable to find a solution, let the maintainer know so that they can open the issue for someone else, like [@RitaDee did for an issue at OpenSauced's app repository](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 Your contribution doesn't get accepted
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 Your contribution gets accepted
 
 Hooray! You've successfully made an open source contribution!
 
-## You did it!
+## You did it! 🎉
 
 Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
