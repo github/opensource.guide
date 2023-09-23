@@ -180,7 +180,7 @@ A project also has documentation. These files are usually listed in the top leve
 
 Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
-* **Issue tracker:** Where people discuss issues related to the project.  
+* **Issue tracker:** Where people discuss issues related to the project.
 * **Pull requests:** Where people discuss and review changes that are in progress whether its to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint-fix.yml), use certain GitHub Action flows to automate and quicken their code reviews.  
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations. A good example of this would be [CHAOSS' weekly Newsletter](https://chaoss.community/news/)
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges. A good example of this would be [EddieHub's Discord community](http://discord.eddiehub.org/).
