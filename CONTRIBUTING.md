@@ -1,3 +1,4 @@
+![Screenshot_20230918-030514-570](https://github.com/github/opensource.guide/assets/145803255/65709291-8621-42ac-8af5-29d5f1422bdb)
 ---
 layout: default
 ---
@@ -58,6 +59,7 @@ Once you have that set up, run:
 
 ## Community
 
-Discussions about the Open Source Guides take place on this repository's [Issues](https://github.com/github/opensource.guide/issues) and [Pull Requests](https://github.com/github/opensource.guide/pulls) sections. Anybody is welcome to join these conversations.
+Discussions about the Open Source Guides take place on this repository's [Issues](https://github.com/github/opensouCONTRIBUTING.md
+rce.guide/issues) and [Pull Requests](https://github.com/github/opensource.guide/pulls) sections. Anybody is welcome to join these conversations.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
