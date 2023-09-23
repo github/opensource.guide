@@ -493,7 +493,7 @@ Hopefully you [checked the project for signs of activity](#a-checklist-before-yo
 
 If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
 
-**Don't** reach out to that person privately; remember that public communication is vital to open source projects.
+**Don't reach out to that person privately**; remember that public communication is vital to open source projects.
 
 If you give a polite reminder and still do not receive a response, it's possible that nobody will ever respond. It's not a great feeling, but don't let that discourage you! 😄 There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
