@@ -3,10 +3,6 @@ lang: tr
 title: Misafirperver Topluluklar Oluşturma
 description: İnsanları projenizi kullanmaya, katkıda bulunmaya ve uyarlamaya teşvik eden bir topluluk oluşturmak.
 class: building
-toc:
-  setting-your-project-up-for-success: Projenizi başarı için hazırlamak
-  growing-your-community: Topluluğunuzu büyütmek
-  resolving-conflicts: Çatışmaları çözmek
 order: 4
 image: /assets/images/cards/building.png
 related:
@@ -127,7 +123,7 @@ Bu tür insanlara karşı sıfır tolerans politikası benimsemek için elinizde
 
 Projenizin önemsiz yönleriyle ilgili düzenli tartışmalar, sizin de dahil olmak üzere diğerlerini önemli görevlere odaklanmaktan alıkoyuyor. Projenize gelen yeni insanlar bu konuşmaları görebilir ve katılmak istemeyebilir.
 
-Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davran%C4%B1%C5%9F-kural-listesini-g%C3%BC%C3%A7lendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
+Projenizde olumsuz davranışlar olduğunu gördüğünüzde, herkese açık olarak uyarın. Nazikçe ama sert bir tonda, davranışlarının neden kabul edilebilir olmadığını açıklayın. Sorun devam ederse, [onlardan gitmelerini istemeniz](../code-of-conduct/#davran%C4%B1%C5%9F-kurallar%C4%B1n%C4%B1z%C4%B1-g%C3%BC%C3%A7lendirmek) gerekebilir. [Davranış kuralları listeniz](../code-of-conduct/) bu konuşmalar için yapıcı bir rehber olabilir.
 
 ### Katkıda bulunan katılımcılarla oldukları yerde tanışın
 
@@ -173,7 +169,7 @@ Mülkiyetinizi topluluğunuzla mümkün olduğunca paylaşmanın yollarını bul
 
 * Projeniz GitHub'daysa, **projenizi kişisel hesabınızdan bir [Organizasyona](https://help.github.com/articles/creating-a-new-organization-account/) hesabına taşıyın** ve en az bir yedek yönetici ekleyin. Organizasyon hesapları, harici çalışanlarla projeler üzerinde çalışmayı kolaylaştırır.
 
-Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.com/preprints/1233.pdf) bir veya iki geliştirici vardır. Projeniz büyüdükçe ve topluluğunuz büyüdükçe, yardım bulmak o kadar kolay olur.
+Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.com/preprints/1233/) bir veya iki geliştirici vardır. Projeniz büyüdükçe ve topluluğunuz büyüdükçe, yardım bulmak o kadar kolay olur.
 
 Çağrıya her zaman cevap verecek birini bulamayacak olsanız da, bir mesaj bırakmak, diğer kişilerin girme şansını arttırır.
 
@@ -229,7 +225,7 @@ Bir uzlaşma arayışı sürecinde, topluluk üyeleri yeterince duyulduğunu his
   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/lee-dohm?s=180">
   Atom sorunları için bir oylama sisteminin bulunmamasının bir nedeni de Atom ekibinin her durumda bir oylama sistemini takip etmemesi. Bazen popüler olmasa bile neyin doğru olduğunu düşündüğümüzü seçmek zorundayız. (...) Yapabileceğim ve yapmayı taahhüt edebileceğim şey, toplumu dinlemek benim işim.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

@@ -3,12 +3,6 @@ lang: nl
 title: Een open source-project starten
 description: Leer meer over de wereld van open source en bereid je voor om je eigen project te lanceren.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "Het wat en waarom van open source"
-  should-i-launch-my-own-open-source-project: "Moet ik mijn eigen open source-project lanceren?"
-  launching-your-own-open-source-project: "Uw eigen open source-project lanceren"
-  naming-and-branding-your-project: "Geef uw project een naam en branding"
-  your-pre-launch-checklist: "Uw checklist vóór de lancering"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -22,7 +16,7 @@ Dus je denkt erover om aan de slag te gaan met open source? Gefeliciteerd! De we
 
 ### Wat betekent "open source"?
 
-Als een project open source is, betekent dit **dat iedereen vrij is om uw project voor elk doel te gebruiken, bestuderen, wijzigen en distribueren.** Deze machtigingen worden afgedwongen via [een open source-licentie](https://opensource.org/licenties).
+Als een project open source is, betekent dit **dat iedereen vrij is om uw project voor elk doel te gebruiken, bestuderen, wijzigen en distribueren.** Deze machtigingen worden afgedwongen via [een open source-licentie](https://opensource.org/licenses).
 
 Open source is krachtig omdat het de barrières voor acceptatie en samenwerking verlaagt, waardoor mensen projecten snel kunnen verspreiden en verbeteren. Ook omdat het gebruikers de mogelijkheid geeft om hun eigen computergebruik te beheersen, in vergelijking met closed source. Een bedrijf dat open source software gebruikt, heeft bijvoorbeeld de mogelijkheid om iemand in te huren om aangepaste verbeteringen aan de software aan te brengen, in plaats van uitsluitend te vertrouwen op de productbeslissingen van een closed source-leverancier.
 

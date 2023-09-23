@@ -66,14 +66,6 @@ Hoje, muitas pessoas são pagas para trabalhar parcial ou integralmente com open
 
 É mais fácil convencer o seu empregador se sua empresa, de fato, utilizar o seu projeto, mas seja criativo com a sua proposta. Talvez seu projeto não seja utilizado, mas Python sim, e manter um projeto Python popular ajude a atrair novos desenvolvedores Python. Pode fazer com que sua empresa pareça mais developer-friendly, de um modo geral.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Como muitos no open source, eu estava sustentando o fardo de manter um projeto. Quando eu comecei com o open source, eu costumava ficar acordado até tarde para trabalhar nisso ou assim que chegava em casa. (...) Eu tive a oportunidade de discutir com meu chefe sobre os problemas que estava enfrentando e tivemos várias ideias sobre como poderíamos incorporar tarefas open source baseadas no nosso próprio uso do Babel.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Se você não tem um projeto open source no qual gostaria de contribuir, mas contribuiria se o que fosse produzido no seu trabalho fosse de open source, convença o seu empregador a abrir o código de alguns dos softwares internos da empresa.
 
 Muitas empresas estão desenvolvendo programas open source para construir suar marca e recrutar talentos de qualidade.
@@ -124,7 +116,6 @@ Encontrar patrocínio funciona bem se você já tem uma forte audiência ou repu
 Alguns exemplos de patrocínio incluem:
 
 * O **[webpack](https://github.com/webpack)** arrecada dinheiro de empresas e indivíduos [através do OpenCollective](https://opencollective.com/webpack)
-* O **[Vue](https://github.com/vuejs/vue)** é [financiado através do Patreon](https://github.com/open-source/stories/yyx990803)
 * A **[Ruby Together](https://rubytogether.org/),** é uma organização sem fins lucrativos que paga pelo trabalho no [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), e outros projetos de infraestrutura do Ruby.
 
 ### Crie um fluxo de receita

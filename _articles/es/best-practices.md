@@ -14,7 +14,7 @@ related:
 
 Si tu trabajo es mantener un proyecto de c&oacute;digo abierto que mucha gente usa, probablemente te hayas percatado que pasas m&aacute;s tiempo respondiendo issues que programando.
 
-En etapas tempranas de un proyecto, pasas tiempo experimentando con ideas nuevas y tomando decisiones en base a lo que te gusta. A medida que tu proyecto crece en popularidad, te encontrar&aacute;s en una situaci&oacute;n en la que trabajar&aacute;s con tus usuarios y colaboradores cada vez m&aacute;s.
+En etapas tempranas de un proyecto, pasas tiempo experimentando con ideas nuevas y tomando decisiones con base a lo que te gusta. A medida que tu proyecto crece en popularidad, te encontrar&aacute;s en una situaci&oacute;n en la que trabajar&aacute;s con tus usuarios y colaboradores cada vez m&aacute;s.
 
 Mantener un proyecto requiere m&aacute;s que solamente c&oacute;digo. Estas tareas no suelen ser tenidas en cuenta, pero son igual de importantes para un proyecto en crecimiento. Hemos reunido algunas ideas que har&aacute;n tu vida m&aacute;s f&aacute;cil, desde el proceso de documentaci&oacute;n hasta sacar el m&aacute;ximo provecho de la comunidad.
 
@@ -30,11 +30,12 @@ Aunque no seas del tipo de persona que escribe p&aacute;rrafos completos, tener 
 
 ### Dejando en claro la visi&oacute;n de tu proyecto
 
-Comienza escribiendo los objetivos de tu proyecto. Agr&eacute;galos a tu archivo README, o crea un archivo separado llamado VISION. Si existen otros artefactos que puedan ayudar, como un mapa del proyecto, h&aacute;zlos p&uacute;blicos tambi&eacute;n
+Comienza escribiendo los objetivos de tu proyecto. Agr&eacute;galos a tu archivo README, o crea un archivo separado llamado VISION. Si existen otros artefactos que puedan ayudar, como un mapa del proyecto, h&aacute;zlos p&uacute;blicos tambi&eacute;n.
 
-Llevando una clara, documentada visi&oacute;n te mantiene en foco y ayuda a evitar el mal entendimiento del alcance por parte de otros colaboradores.
+Llevando una clara visi&oacute;n documentada, te mantiene en foco y ayuda a evitar el mal entendimiento del alcance por parte de otros colaboradores.
 
-Por ejemplo, @lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo ayud&oacute; a darse cuenta que peticiones priorizar. Como un mantenedor de c&oacute;digo novato, se lament&oacute; de no ser fiel al alcance del proyecto cuando recibi&oacute; su primer pedido de funcionalidad por [Slate](https://github.com/lord/slate).
+Por ejemplo:
+@lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo ayud&oacute; a darse cuenta que peticiones priorizar. Como un mantenedor de c&oacute;digo novato, se lament&oacute; de no ser fiel al alcance del proyecto cuando recibi&oacute; su primer pedido de funcionalidad por [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
@@ -46,7 +47,7 @@ Por ejemplo, @lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo
 
 ### Comunicar tus expectativas
 
-Algunas veces puede que sea complicado detallar las reglas para que otra gente pueda contribuir. Puedes llegar a sentir que est&aacute;s comport&aacute;ndote como un policia o arruinando la diversi&oacute;n para los dem&aacute;s.
+Algunas veces puede que sea complicado detallar las reglas para que otra gente pueda contribuir. Puedes llegar a sentir que est&aacute;s comport&aacute;ndote como un policía o arruinando la diversi&oacute;n para los dem&aacute;s.
 
 Escritas y aplicadas de manera justa, sin embargo, las buenas reglas dan poder a los mantenedores de c&oacute;digo. Evitan que te arrastren a hacer cosas que no quieres hacer.
 
@@ -54,13 +55,13 @@ La mayor&iacute;a de las personas que se encuentran con tu proyecto no saben nad
 
 ¡Est&aacute; perfectamente bien! S&oacute;lo aseg&uacute;rate de que la gente lo sepa.
 
-Si el mantenimiento de tu proyecto es a tiempo parcial o simplemente ser voluntario, se honesto acerca de cu&aacute;nto tiempo tienes. Esto no es lo mismo que cu&aacute;nto tiempo piensas que el proyecto requiere, o cu&aacute;nto tiempo otros quieren que gastes.
+Si el mantenimiento de tu proyecto es a tiempo parcial o simplemente ser voluntario, sé honesto acerca de cu&aacute;nto tiempo tienes. Esto no es lo mismo que cu&aacute;nto tiempo piensas que el proyecto requiere, o cu&aacute;nto tiempo otros quieren que gastes.
 
 Aqu&iacute; hay algunas reglas que vale la pena anotar:
 
-* C&oacute;mo se revisa y acepta una contribuci&oacute;n (_¿Necesitan hacer testing? ¿Alguna plantilla que deban utilizar para las issues?_)
-* Los tipos de contribuciones que acepatar&aacute;s (_¿S&oacute;lo quieres ayuda con una parte del c&oacute;digo?_)
-* Cuando es apropieado hacer seguimiento (_eg. "Puede esperar una respuesta de un mantenedor de c&oacute;digo dentro de los pr&oacute;ximos 7 d&iacute;as. Si no ha o&iacute;do nada para entonces, no dude en hacer ping al hilo."_)
+* C&oacute;mo se revisa y acepta una contribuci&oacute;n (_¿Necesitan hacer pruebas? ¿Alguna plantilla que deban utilizar para las issues?_)
+* Los tipos de contribuciones que aceptar&aacute;s (_¿S&oacute;lo quieres ayuda con una parte del c&oacute;digo?_)
+* Cuando es apropiado hacer seguimiento (_eg. "Puede esperar una respuesta de un mantenedor de c&oacute;digo dentro de los pr&oacute;ximos 7 d&iacute;as. Si no ha o&iacute;do nada para entonces, no dude en hacer ping al hilo."_)
 * Cuanto tiempo dedicas al proyecto (_eg. "S&oacute;lo invertimos unas 5 horas semanales en este proyecto"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), y [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) son algunos ejemplos de proyectos con reglas claras para mantenedores y colaboradores.
@@ -114,7 +115,7 @@ Si no quieres aceptar una contribuci&oacute;n:
 * **Comparte informaci&oacute;n relevante**, si la tienes. Si notas peticiones repetidas de cosas que no deseas aceptar, agr&eacute;galas a tu documentaci&oacute;n para evitar explicar siempre lo mismo.
 * **Cierra la solicitud**
 
-no deber&iacute;as necesitar m&aacute;s de 1-2 oraciones para responder. por ejemplo, cuando un usuario de [celery](https://github.com/celery/celery/) report&oacute; un error relacionado a Windows, @berkerpeksag [respondi&oacute; con](https://github.com/celery/celery/issues/3383):
+no deber&iacute;as necesitar m&aacute;s de 1-2 oraciones para responder. Por ejemplo, cuando un usuario de [celery](https://github.com/celery/celery/) report&oacute; un error relacionado a Windows, @berkerpeksag [respondi&oacute; con](https://github.com/celery/celery/issues/3383):
 
 [celery screenshot](/assets/images/best-practices/celery.png)
 
@@ -153,7 +154,7 @@ A veces, cuando dices que no, tu contribuyente potencial puede molestarse o crit
 
 Tal vez alguien en tu comunidad env&iacute;e regularmente contribuciones que no cumplen con los est&aacute;ndares de tu proyecto. Puede ser frustrante para ambas partes pasar repetidamente por el proceso de rechazo.
 
-Si ves que alguien est&aacute; entusiasmado con tu proyecto, pero necesita un poco de pr&aacute;ctica, ten paciencia. Explica claramente en cada situaci&oacute;n por qu&eacute; sus contribuciones no cumplen con las expectativas del proyecto. Trata de asignarles una tarea m&aacute;s f&aacute;cil o menos ambigua, como una issue marcada como _"good first issue,"_ , para entrar en calor. Si tienes tiempo, considera mentorearlos a trav&eacute;s de su primera contribuci&oacute;n, o encuentra a alguien m&aacute;s en tu comunidad que est&eacute; dispuesto a ser mentor de ellos.
+Si ves que alguien est&aacute; entusiasmado con tu proyecto, pero necesita un poco de pr&aacute;ctica, ten paciencia. Explica claramente en cada situaci&oacute;n por qu&eacute; sus contribuciones no cumplen con las expectativas del proyecto. Trata de asignarles una tarea m&aacute;s f&aacute;cil o menos ambigua, como una issue marcada como _"good first issue,"_ , para entrar en calor. Si tienes tiempo, considera asesorando a trav&eacute;s de su primera contribuci&oacute;n, o encuentra a alguien m&aacute;s en tu comunidad que est&eacute; dispuesto a ser mentor de ellos.
 
 ## Aprovechando la comunidad
 
@@ -169,7 +170,7 @@ Alentar a otros a [compartir la propiedad del proyecto](../building-community/#c
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  Estuve diciendo, "Si, cualquier persona puede formar parte, no necesitas tener mucha experiencia en programaci&oacute;n [...]." Hemos tenido personas incriptas [a eventos] y ah&iacute; fue cuando me pregunt&eacute;: es esto cierto, lo que estuve diciendo? Habr&aacute;n 40 personas que se presentar&aacute;n, y no es como si pudiera sentarme con cada uno de ellos...Pero la gente se reuni&oacute;, y funcion&oacute;. tan pronto como una persona lo consiguiera, podr&iacute;a ense&ntilde;arle a sus vecinos.
+  Estuve diciendo, "Si, cualquier persona puede formar parte, no necesitas tener mucha experiencia en programaci&oacute;n [...]." Hemos tenido personas inscriptas [a eventos] y ah&iacute; fue cuando me pregunt&eacute;: es esto cierto, lo que estuve diciendo? Habr&aacute;n 40 personas que se presentar&aacute;n, y no es como si pudiera sentarme con cada uno de ellos...Pero la gente se reuni&oacute;, y funcion&oacute;. tan pronto como una persona lo consiguiera, podr&iacute;a ense&ntilde;arle a sus vecinos.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["¿Qu&eacute; significa, al fin y al cabo, "C&oacute;digo Abierto"? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
@@ -259,7 +260,7 @@ Al igual que cualquier otro tipo de trabajo, tomar pausas regulares te mantendr&
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Durante el mantenimiento de WP-CLI, descubr&iacute; que tengo que preocuparme por mi felicidad primero, y establecer l&iacute;mites claros en mi participaci&oacute;n. El mejor equilibrio que he encontrado es 2-5 horas por semana, como parte de mi horario de trabajo normal. Esto mantiene mi participaci&oacute;n una pasi&oacute;n, y de sentirse demasiado como el trabajo. Como priorizo ​​las issues en las que estoy trabajando, puedo hacer progresos regulares en lo que creo que es lo m&aacute;s importante.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Mis condolencias, ahora eres el mantenedor de un proyecto de c&oacute;digo abierto popular"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Mis condolencias, ahora eres el mantenedor de un proyecto de c&oacute;digo abierto popular"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

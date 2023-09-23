@@ -168,7 +168,7 @@ Voyez si vous pouvez trouver le moyen de partager la propriété avec votre comm
 
 * Si votre projet est sur GitHub, **déplacez votre projet de votre compte personnel vers un [compte Organisation](https://help.github.com/articles/creating-a-new-organization-account/)** et ajoutez au moins un administrateur de sauvegarde. Les organisations facilitent le travail sur des projets avec des collaborateurs externes.
 
-La réalité est que [la plupart des projets ont seulement](https://peerj.com/preprints/1233.pdf) un ou deux mainteneurs qui font la plupart du travail. Plus votre projet est important et plus votre communauté est grande, plus il est facile de trouver de l'aide.
+La réalité est que [la plupart des projets ont seulement](https://peerj.com/preprints/1233/) un ou deux mainteneurs qui font la plupart du travail. Plus votre projet est important et plus votre communauté est grande, plus il est facile de trouver de l'aide.
 
 Même s'il se peut que vous ne trouviez pas toujours quelqu'un pour répondre à l'appel, envoyer un signal augmente les chances que d'autres personnes interviennent. Plus tôt vous commencerez, plus tôt les gens pourront vous aider.
 
@@ -224,7 +224,7 @@ Dans le cadre d'un processus de recherche de consensus, les membres de la commun
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Une partie de la raison pour laquelle un système de vote n'existe pas pour les issues Atom est parce que l'équipe Atom ne va pas suivre un système de vote dans tous les cas. Parfois, nous devons choisir ce que nous ressentons, même si c'est impopulaire. (...) Ce que je peux offrir et m'engager à faire... c'est que c'est mon travail d'écouter la communauté.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

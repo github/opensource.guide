@@ -3,14 +3,6 @@ lang: ro
 title: Latura juridică a open source
 description: Tot ce te-ai întrebat vreodată de latura juridică a open source, și câteva lucruri de care nu te-ai întrebat.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "De ce oamenilor le pasă atât de mult de partea juridică a open source?"
-  are-public-github-projects-open-source: "Sunt proiectele GitHub publice open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Doar dă-mi TL;DR-ul a ce-mi trebuie pentru a-mi proteja proiectul."
-  which-open-source-license-is-appropriate-for-my-project: "Ce licență open source este potrivită pentru proiectul meu?"
-  what-if-i-want-to-change-the-license-of-my-project: "Ce se întâmplă dacă vreau să schimb licența proiectului meu?"
-  does-my-project-need-an-additional-contributor-agreement: "Proiectul meu are nevoie de o înțelegere cu contributorii în plus?"
-  what-does-my-companys-legal-team-need-to-know: "Ce trebuie să știe echipa juridică a companiei mele?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -155,7 +147,7 @@ Dacă lansezi primul proiect cu sursă deschisă al companiei, ce este scris mai
 
 Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta compania să obțină mai mult din implicarea ei în open source, și pentru a rămâne în siguranță:
 
-* **Politici de contribuție a angajaților:** Consideră dezvoltarea unei politici corporative care specifică felul în care angajații dumneavoastră contribuie la proiecte cu sursă deschisă. O politică clară va reduce confuzia în rândul angajaților dumneavoastră și îi va ajuta să contribuie la proiecte cu sursă deschisă în interesul companiei, fie ca parte a locurilor lor de muncă sau în timpul lor liber. Un exemplu este [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) al Rackspace.
+* **Politici de contribuție a angajaților:** Consideră dezvoltarea unei politici corporative care specifică felul în care angajații dumneavoastră contribuie la proiecte cu sursă deschisă. O politică clară va reduce confuzia în rândul angajaților dumneavoastră și îi va ajuta să contribuie la proiecte cu sursă deschisă în interesul companiei, fie ca parte a locurilor lor de muncă sau în timpul lor liber. Un exemplu este [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) al Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -168,12 +160,12 @@ Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta com
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Ce să lansezi:** [(Aproape) totul?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Dacă echipa voastră juridică înțelege și este investită în strategia open source a companiei voastre, ei vor fi cel mai bine capabili să te ajute în loc să împiedice eforturile tale.
-* **Conformare:** Chiar dacă compania ta nu lansează niciun proiect cu sursă deschisă, ea folosește software open source al altora. [Conștientizarea și procesul](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) pot preveni dureri de cap, întârzieri de produs, și procese.
+* **Conformare:** Chiar dacă compania ta nu lansează niciun proiect cu sursă deschisă, ea folosește software open source al altora. [Conștientizarea și procesul](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) pot preveni dureri de cap, întârzieri de produs, și procese.
 
 <aside markdown="1" class="pquote">
   <p>

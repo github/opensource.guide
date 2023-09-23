@@ -3,15 +3,6 @@ lang: nl
 title: Leiderschap en bestuur
 description: Groeiende open source-projecten kunnen profiteren van formele regels voor het nemen van beslissingen.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: "Inzicht in governance voor uw groeiende project"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "Wat zijn voorbeelden van formele rollen die worden gebruikt in open source-projecten?"
-  how-do-i-formalize-these-leadership-roles: "Hoe formaliseer ik deze leiderschapsrollen?"
-  when-should-i-give-someone-commit-access: "Wanneer moet ik iemand commit-toegang geven?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Wat zijn enkele van de algemene bestuursstructuren voor open source-projecten?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Heb ik beheersdocumenten nodig wanneer ik mijn project start?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "Wat gebeurt er als bedrijfsmedewerkers bijdragen beginnen in te dienen?"
-  do-i-need-a-legal-entity-to-support-my-project: "Heb ik een juridische entiteit nodig om mijn project te ondersteunen?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:

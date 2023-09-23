@@ -68,14 +68,6 @@ related:
 
 たとえコードを書くことが好きであったとしても、他の種類のコントリビュートはプロジェクトに関わり、他のコミュニティメンバーに会う良いやり方です。このような関係を作ることはそのプロジェクトの他の部分に関わる人と仕事をする機会を与えてくれます。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  私が初めて Python 開発チーム(別名 python-dev )と接触したのは、2002年6月17日に私のパッチを受け入れてもらうためにメーリングリストにメールをした時でした。私はすぐにオープンソースバグに遭遇し、グループのためにメールの要約を整理し始めることにしました。彼らは、私の各トピックについての質問に寛大に接してくれましたが、更に非常に重要だったのが、誰かが修正が必要であるなにかを指摘した時にすぐに気づくことができるようになったということでした。
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### イベントを計画するのが好きですか？
 
 * [@fzamperin が NodeSchool でやったように](https://github.com/nodeschool/organizers/issues/406)ワークショップやミートアップを開催する

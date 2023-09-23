@@ -168,7 +168,7 @@ Cari cara untuk bisa berbagi kepemilikan dengan komunitas Anda sebanyak mungkin.
 
 * Jika proyek Anda berada pada GitHub, **pindahkan proyek Anda dari akun personal ke [Organisasi](https://help.github.com/articles/creating-a-new-organization-account/)** dan tambahkan paling tidak satu admin cadangan. Organisasi mempermudah pekerjaan kolaborasi dengan kolaborator eksternal.
 
-Kenyataannya adalah [sebagian besar proyek hanya memiliki](https://peerj.com/preprints/1233.pdf) satu atau dua pengeloa yang melakukan sebagian besar pekerjaan. Semakin besar proyek Anda, dan semakin besar komunitas Anda, semakin mudah untuk menemukan bantuan.
+Kenyataannya adalah [sebagian besar proyek hanya memiliki](https://peerj.com/preprints/1233/) satu atau dua pengeloa yang melakukan sebagian besar pekerjaan. Semakin besar proyek Anda, dan semakin besar komunitas Anda, semakin mudah untuk menemukan bantuan.
 
 Meskipun tidak selalu mudah untuk mendapatkan orang yang memenuhi panggilan Anda, memberikan sinyal akan meningkatkan peluang dimana orang lain akan ikut terlibat. Dan semakin cepat Anda melakukannya, semakin cepat pula orang akan datang membantu.
 
@@ -224,7 +224,7 @@ Pada proses _consensus seeking_, anggota komunitas mendiskusikan masalah utama s
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Salah satu alasan kenapa sistem voting tidak berlaku untuk masalah Atom adalah karena tim Atom tidak akan mengikuti sistem voting pada setiap kasusnya. Seringkali kami harus memilih apa yang kami rasa benar meskipun tidak populer. (...) Apa yang bisa saya tawarkan dan janjikan...adalah karena itu merupakan pekerjaan saya untuk mendengarkan komunitas.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

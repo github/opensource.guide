@@ -9,22 +9,19 @@ layout: default
 
     <h1 class="h0-mktg lh-condensed text-center mb-3">{{ page.title }}</h1>
     <p class="lead text-center text-gray col-md-8 mx-auto mb-4 position-relative">{{ page.description }}</p>
-    {% if page.lang == "en" %}
     <nav class="toc mb-4 mb-md-6">
       <div class="Box col-sm-8 col-md-4 col-lg-3 mx-auto">
         <a class="toc-trigger d-block text-center p-3">
-          <span class="text-black">{{ t.article.table_of_contents }}</span><svg height="18" class="octicon octicon-triangle-down ml-2 fill-blue v-align-middle icon-flip" viewBox="0 0 12 16" version="1.1" width="13" role="img"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"></path></svg>
+          <span class="text-black">{{ t.article.table_of_contents }}</span><svg height="18"
+            class="octicon octicon-triangle-down ml-2 fill-blue v-align-middle icon-flip" viewBox="0 0 12 16"
+            version="1.1" width="13" role="img">
+            <path fill-rule="evenodd" d="M0 5l6 6 6-6z"></path>
+          </svg>
         </a>
-        <ol class="toc-list list-style-none">
-          {% for section in page.toc %}
-          <li class="border-top">
-            <a href="#{{ section[0] }}" class="d-block py-3 px-3">{{ section[1] }}</a>
-          </li>
-          {% endfor %}
-        </ol>
+        {% include jekyll-toc.html html=content h_max=2 ordered=true class="toc-list list-style-none"
+        item_class="border-top" anchor_class="d-block py-3 px-3" %}
       </div>
     </nav>
-    {% endif %}
     <div class="col-sm-10 mx-auto lh-none cover-img">
       <img src="{{ site.baseurl }}/assets/images/illos/{{ page.class }}.svg" alt="{{ page.title }}">
     </div>
@@ -46,13 +43,14 @@ layout: default
 <div class="container-lg p-responsive mx-auto border-top text-center pt-5">
   <h2 class="h2-mktg">{{ t.article.related_guides }}</h2>
   <div class="gutter-sm d-flex flex-wrap flex-items-stretch pb-md-6">
-  {% for related in page.related %}
+    {% for related in page.related %}
     {% assign article = site.articles | where: 'lang', page.lang | where: 'class', related | first %}
     <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
       <a href="{{ article.url | relative_url }}" class="guide-cover {{ article.class }} Box height-full d-block">
 
         <div class="lh-none guide-cover-img text-center pt-4">
-          <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
+          <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class=""
+            alt="{{ article.title }} illustration">
         </div>
 
         <div class="flex-self-end p-4 text-center p-lg-5">
@@ -66,7 +64,7 @@ layout: default
 
       </a>
     </div>
-  {% endfor %}
+    {% endfor %}
   </div>
 </div>
 {% endif %}

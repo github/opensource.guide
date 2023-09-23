@@ -12,12 +12,12 @@ related:
 
 ## Warum manche Menschen finanzielle Unterstützung suchen
 
-Ein Großteil der Open-Source-Arbeit wird ehrenamtlich geleistet, z.B. wenn jemand in einem Projekt, das er benutzt, auf einen Fehler stößt und eine schnelle Lösung vorschlägt. Außerdem basteln viele Leute einfach in ihrer Freizeit an einem Open-Source-Projekt.
+Ein Großteil der Open-Source-Arbeit wird ehrenamtlich geleistet, z.B. wenn jemand in einem Projekt, das er/sie benutzt, auf einen Fehler stößt und eine schnelle Lösung vorschlägt. Außerdem basteln viele Leute einfach in ihrer Freizeit an einem Open-Source-Projekt.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 
-  Ich war auf der Suche nach einem Hobby-Programmierprojekt, mit dem ich mich während der Weihnachtswoche beschäftigen konnte. (...) Ich hatte einen Heimcomputer und nicht viel anderes an der Hand und entschied mich, einen Interpreter für die neue Skriptsprache zu schreiben, über die ich in letzter Zeit nachgedacht hatte. (...) Ich wählte Python als Arbeitstitel.
+  Ich war auf der Suche nach einem Hobby-Programmierprojekt, mit dem ich mich während der Weihnachtswoche beschäftigen konnte. (...) Ich hatte einen Heimcomputer und nicht viel anderes an der Hand und entschied mich, einen Interpreter für die neue Skriptsprache zu schreiben, über die ich in letzter Zeit nachgedacht hatte. (...) Ich nannte sie Python.
 
   _I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title._
 
@@ -29,7 +29,7 @@ Ein Großteil der Open-Source-Arbeit wird ehrenamtlich geleistet, z.B. wenn jema
 Es gibt viele Gründe, warum eine Person _nicht_ für ihre Open-Source-Arbeit bezahlt werden möchte.
 
 * **Sie haben vielleicht schon einen Vollzeitjob, den sie lieben,** und der ihnen ermöglicht, in ihrer Freizeit einen Beitrag zu Open-Source-Software zu leisten.
-* **Sie mögen Open Source als Hobby,** oder als kreative Flucht und wollen sich finanziell nicht verpflichtet fühlen, an ihren Projekten arbeiten zu müssen.
+* **Sie mögen Open-Source als Hobby,** oder als kreative Flucht und wollen sich finanziell nicht verpflichtet fühlen, an ihren Projekten arbeiten zu müssen.
 * **Sie ziehen andere Vorteile aus ihren Open-Source-Beiträgen,** wie z.B. den Aufbau ihres Rufs oder Portfolios, das Erlernen neuer Fertigkeiten oder das Gefühl, in einer Gemeinschaft eingebettet zu sein.
 
 <aside markdown="1" class="pquote">
@@ -44,14 +44,14 @@ Es gibt viele Gründe, warum eine Person _nicht_ für ihre Open-Source-Arbeit be
   </p>
 </aside>
 
-Für andere kann eine Bezahlung die einzige Möglichkeit sein, sich an Open Source zu beteiligen. Sei es, weil das Projekt ständige oder zeitintensive Mitarbeit erfordert, oder seien es persönliche Gründe.
+Für andere kann eine Bezahlung die einzige Möglichkeit sein, sich an Open-Source zu beteiligen. Sei es, weil das Projekt ständige oder zeitintensive Mitarbeit erfordert, oder seien es persönliche Gründe.
 
 Populäre Projekte aufrecht zu erhalten, kann eine große Verantwortung sein, die 10 oder 20 Stunden pro Woche in Anspruch nimmt, statt nur ein paar Stunden pro Monat.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
 
-  Fragen Sie irgendeine\*n Open-Source-Projektbetreuer\*in, und sie oder er wird Ihnen sagen, wie viel Arbeit im Management eines Projekts steckt. Sie haben Kunden. Sie beheben Probleme für sie. Sie erschaffen neue Funktionen. Das alles wird zu einem echten Zeitaufwand.
+  Fragen Sie irgendeine\*n Open-Source-Projektbetreuer\*in, und er oder sie wird Ihnen sagen, wie viel Arbeit im Management eines Projekts steckt. Sie haben Kunden. Sie beheben Probleme für sie. Sie erschaffen neue Funktionen. Das alles wird zu einem echten Zeitaufwand.
 
   _Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time._
 
@@ -65,7 +65,7 @@ Bezahlte Arbeit ermöglicht Leuten aus verschiedenen Lebenssituationen heraus, s
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
 
-  OSS bringt massive Vorteile für die Technologieindustrie, was wiederum Vorteile für alle Branchen bedeutet. (...) Solange jedoch die einzigen Leute, die sich darauf konzentrieren können, die Glücklichen und die Besessenen sind, dann gibt es ein riesiges ungenutztes Potenzial.
+  OSS bringt massive Vorteile für die Technologieindustrie, was wiederum Vorteile für alle Branchen bedeutet. (...) Solange jedoch die einzigen Leute, die sich darauf konzentrieren können, die Glücklichen und die Besessenen sind, gibt es ein riesiges ungenutztes Potenzial.
 
   _OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential._
 
@@ -82,34 +82,22 @@ Heutzutage werden viele Leute für Open-Source in Teil- oder Vollzeit bezahlt. D
 
 Es ist einfacher, sich für Open-Source-Arbeiten zu entscheiden, wenn Ihr Arbeitgeber das Projekt tatsächlich nutzt. Wenn nicht, werden Sie kreativ: Vielleicht nutzt Ihr Arbeitgeber nicht das Projekt, aber Python, und die Pflege eines beliebten Python-Projekts hilft dabei, neue Python-Entwickler\*innen anzuziehen. Vielleicht sieht Ihr Arbeitgeber dadurch generell entwicklerfreundlicher aus.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-
-  Wie viele Andere auch, kämpfte ich mit der Last, ein Open-Source-Projekt aufrechtzuerhalten. Als ich mit Open Source anfing, blieb ich lange auf Arbeit, um daran zu arbeiten, oder fing nach dem Feierabend direkt wieder an. (...) Mit meinem Chef besprach ich diese mir im Weg stehenden Probleme, aber weil wir Babel selbst nutzten, entwickelten wir Ideen, um die Open-Source-Aufgaben zu integrieren.
-
-  _Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel._
-
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Wenn Sie kein existierendes Open-Source-Projekt haben, an dem Sie gerne arbeiten würden, sondern lieber Ihre aktuellen Arbeitsergebnisse quell-offen hätten, sollten Sie Ihren Arbeitgeber bitten, einen Teil seiner internen Software zu öffnen.
 
 Viele Unternehmen entwickeln Open-Source-Programme, um ihre Marke aufzubauen und Talente zu rekrutieren.
 
-@hueniverse z.B., fand heraus, dass es finanzielle Gründe gab, die [Investition von Walmart in Open Source zu rechtfertigten.](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Und @jamesgpearce fand heraus, dass Facebooks Open-Source-Program [den Unterschied in der Personalakquise](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) machte:
+@hueniverse z.B., fand heraus, dass es finanzielle Gründe gab, die [Investition von Walmart in Open-Source zu rechtfertigten.](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Und @jamesgpearce fand heraus, dass Facebooks Open-Source-Program [den Unterschied in der Personalakquise](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) machte:
 
 > Es ist eng mit unserer Hackerkultur und der Wahrnehmung unseres Unternehmens verbunden. Wir fragten unsere Angestellten: "Kanntet ihr das Open-Source-Programm von Facebook?". Zwei Drittel sagten "Ja". Die Hälfte sagte, dass das Programm positiv zu ihrer Entscheidung beigetragen hat, für uns zu arbeiten. Das sind keine marginalen Zahlen, und ein sich hoffentlich fortsetzender Trend.
 >
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
-Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwischen Gemeinschafts- und Unternehmenstätigkeit klar zu halten, denn Open Source erhält sich letztlich durch Beiträge von Menschen auf der ganzen Welt. Und das ist größer als jedes einzelne Unternehmen oder jeder einzelne Standort.
+Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwischen Gemeinschafts- und Unternehmenstätigkeit klar zu halten, denn Open-Source erhält sich letztlich durch Beiträge von Menschen auf der ganzen Welt. Und das ist größer als jedes einzelne Unternehmen oder jeder einzelne Standort.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
 
-  Die Arbeit an Open Source ist eine seltene und wunderbare Gelegenheit, aber Sie sollten dabei nicht auf Ihre Leidenschaft verzichten müssen. Denn die sollte der Grund für Ihre Bezahlung durch ein Unternehmen sein.
+  Die Arbeit an Open-Source ist eine seltene und wunderbare Gelegenheit, aber Sie sollten dabei nicht auf Ihre Leidenschaft verzichten müssen. Denn die sollte der Grund für Ihre Bezahlung durch ein Unternehmen sein.
 
   _Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you._
 
@@ -118,12 +106,12 @@ Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwische
   </p>
 </aside>
 
-Wenn Sie Ihren derzeitigen Arbeitgeber nicht davon überzeugen können, Open-Source-Arbeit zu priorisieren, sollten Sie sich überlegen, einen neuen Arbeitgeber zu finden, der Mitarbeit an Open Source fördert. Zum Beispiel:
+Wenn Sie Ihren derzeitigen Arbeitgeber nicht davon überzeugen können, Open-Source-Arbeit zu priorisieren, sollten Sie sich überlegen, einen neuen Arbeitgeber zu finden, der Mitarbeit an Open-Source fördert. Zum Beispiel:
 
 * Manche Firmen, wie [Netflix](https://netflix.github.io/) oder [PayPal](https://paypal.github.io/), zeigen ihr Open-Source-Engagement auf ihren Webseiten
 * [Zalando](https://opensource.zalando.com) veröffentlicht seine [Open-Source-Beitragsrichtlinie](https://opensource.zalando.com/docs/using/contributing/) für Angestellte
 
-Aus einer großen Firma stammende Projekte, wie z.B. [Go](https://github.com/golang) oder [React](https://github.com/facebook/react), stellen vermutlich auch weiterhin Leute für Open-Source-Arbeit an.
+Aus einer großen Firma stammende Projekte, wie z.B. [Go](https://github.com/golang) oder [React](https://github.com/facebook/react), stellen u. U. auch weiterhin Leute für Open-Source-Arbeit an.
 
 Außerdem können Sie versuchen, abhängig von Ihren persönlichen Umständen, selbstständig Geld zu sammeln, um Ihre Open-Source-Arbeit zu finanzieren, zum Beispiel:
 
@@ -137,7 +125,7 @@ Abgesehen von Vereinbarungen für einzelne Projektteilnehmer\*innen, sammeln Pro
 
 Geld von einer Organisation kann verwendet werden, aktuelle Projektteilnehmer\*innen zu bezahlen, die Kosten für den Betrieb des Projekts zu decken (z.B. Hosting-Gebühren) oder in neue Funktionen oder Ideen zu investieren.
 
-Da Open Source populärer wird, ist die Finanzierung von Projekten immer noch experimentell, aber es gibt einige allgemeine Optionen.
+Da Open-Source populärer wird, ist die Finanzierung von Projekten immer noch experimentell, aber es gibt einige allgemeine Optionen.
 
 ### Geld mittels Crowdfunding-Kampagnen oder Sponsoren einsammeln
 
@@ -146,7 +134,6 @@ Sponsoren lassen sich einfacher finden, wenn Sie bereits ein starkes Publikum od
 Hier einige Beispiele für gesponsorte Projekte:
 
 * **[webpack](https://github.com/webpack)** sammelt Geld von Firmen und Einzelpersonen [mittels OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** wird [mittels Patreon finanziert](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** eine nicht-Gewinn-orientierte Organisation zahlt für die Arbeit an [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), und anderen Ruby-Infrastrukturprojekten
 
 ### Eine Einnahmequelle schaffen
@@ -163,7 +150,7 @@ Einige populäre Projekte, wie z.B. [npm](https://github.com/npm/cli) und [Docke
 
 Einige Softwarestiftungen und Unternehmen bieten Zuschüsse für Open-Source-Arbeiten an. Manchmal können Zuschüsse an Einzelpersonen ausgezahlt werden, ohne eine juristische Person für das Projekt zu gründen.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** erhielt eine Förderung des [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** erhielt eine Förderung des [Mozilla Open-Source Support](https://www.mozilla.org/en-US/grants/)
 * Arbeiten an **[OpenMRS](https://github.com/openmrs)** wurden von [Stripes Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees) gefördert
 * **[Libraries.io](https://github.com/librariesio)** erhielt Fördermittel der [Sloan Foundation](https://sloan.org/programs/digital-technology)
 * Die **[Python Software Foundation](https://www.python.org/psf/grants/)** fördert Python-relvante Arbeiten
@@ -174,19 +161,19 @@ Weitere, detaillierter erklärte Möglichkeiten, um für Open-Source-Arbeit beza
 
 Egal ob Ihr Projekt eine neue Idee umsetzt, oder schon seit Jahren besteht: Sie sollten sich Gedanken über passende Finanzierung machen, Geldquellen identifizieren, und diesen ein überzeugendes Argument liefern können.
 
-Egal, ob Sie für Ihre eigene Zeit oder für ein Projekt Geld sammeln möchten, Sie sollten in der Lage sein, die folgenden Fragen zu beantworten.
+Egal, ob Sie für Ihre eigene Zeit bezahlen oder für ein Projekt Geld sammeln möchten, sollten Sie in der Lage sein, die folgenden Fragen zu beantworten.
 
 ### Einfluss
 
-Warum ist dieses Projekt nützlich? Warum gefällt es Ihren (potenziellen) Nutzer\*innen so gut? Wo wird es in fünf Jahren sein?
+Wie kann dieses Projekt von Nutzen sein? Warum gefällt es Ihren (potenziellen) Nutzer\*innen so gut? Wo wird es in fünf Jahren sein?
 
 ### Wichtigkeit
 
-Versuchen Sie Beweise für die Wichtigkeit Ihres Projektes zu sammeln: Metriken, Anekdoten oder Referenzen. Gibt es Unternehmen oder bemerkenswerte Personen, die Ihr Projekt gerade nutzen? Falls nicht, hat es jemand Bekanntes empfohlen?
+Versuchen Sie Beweise für die Wichtigkeit Ihres Projektes zu sammeln: Metriken, Anekdoten oder Referenzen. Gibt es Unternehmen oder wichtige Personen, die Ihr Projekt gerade nutzen? Falls nicht, hat eine bekannte Person es befürwortet?
 
 ### Nutzen für die Geldgeber
 
-Geldgeber (sei es Ihr\*e Arbeitgeber\*in oder eine Förderstiftung) werden von vielen Anderen angesprochen: Warum sollte gerade Ihr Projekt unterstützt werden? Wie profitiert der Geldgeber selbst davon?
+Geldgeber (seien es Ihr\*e Arbeitgeber\*in oder eine Förderstiftung) werden von vielen anderen angesprochen: Warum sollte gerade Ihr Projekt unterstützt werden? Wie profitiert der Geldgeber selbst davon?
 
 ### Nutzung der Gelder
 
@@ -210,4 +197,4 @@ Hat der Geldgeber irgendwelche Anforderungen an die Auszahlung? Müssen Sie beis
 
 ## Experimentieren und nicht aufgeben
 
-Es ist nicht einfach, Geld zu sammeln. Egal ob Sie ein Open-Source-Projekt, einen gemeinnützigen Verein oder ein Software-Startup betreiben. In den meisten Fällen müssen Sie kreativ werden. Identifizieren Sie den Modus der Bezahlung, stellen Sie Recherchen an und versetzen Sie sich selbst in die Rolle der Geldgeber\*innen. Dies wird Ihnen beim Finden eines überzeugenden Argumentes für die Finanzierung helfen.
+Es ist nicht einfach, Geld zu sammeln. Egal ob Sie ein Open-Source-Projekt, einen gemeinnützigen Verein oder ein Software-Startup betreiben. In den meisten Fällen müssen Sie kreativ werden. Identifizieren Sie die Art der Bezahlung, stellen Sie Recherchen an und versetzen Sie sich selbst in die Rolle der Geldgeber\*innen. Dies wird Ihnen beim Finden eines überzeugenden Argumentes für die Finanzierung helfen.

@@ -3,12 +3,6 @@ lang: ms
 title: Tatakelakuan Anda
 description: Memudahkan tingkah laku masyarakat yang sihat dan konstruktif dengan menerapkan dan menguatkuasakan tatakelakuan.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "Mengapa saya memerlukan tatakelakuan?"
-  establishing-a-code-of-conduct: "Menetapkan tatakelakuan"
-  deciding-how-youll-enforce-your-code-of-conduct: "Memutuskan bagaimana anda akan melaksanakan tatakelakuan anda"
-  enforcing-your-code-of-conduct: "Menguatkuasakan tatakelakuan anda"
-  your-responsibilities-as-a-maintainer: "Tanggungjawab anda sebagai penjaga"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -46,7 +40,7 @@ Letakkan fail CODE_OF_CONDUCT di direktori root projek anda, dan jadikan ia dapa
 <aside markdown="1" class="pquote">
   Kod tingkah laku yang tidak (atau tidak dapat) ditegakkan lebih buruk daripada tidak ada kod tingkah laku sama sekali: ia menghantar mesej bahawa nilai-nilai dalam kod tingkah laku sebenarnya tidak penting atau dihormati dalam komuniti anda.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

@@ -3,13 +3,6 @@ lang: ms
 title: Mencari Pengguna untuk Projek Anda
 description: Bantu projek sumber terbuka anda berkembang dengan mendapatkannya di tangan pengguna yang gembira.
 class: finding
-toc:
-  spreading-the-word: "Menyebarkan berita"
-  figure-out-your-message: "Cari tahu mesej anda"
-  help-people-find-and-follow-your-project: "Bantu orang mencari dan mengikuti projek anda"
-  go-where-your-projects-audience-is-online: "Pergi ke tempat penonton projek anda (dalam talian)"
-  go-where-your-projects-audience-is-offline: "Pergi ke tempat khalayak projek anda (luar talian)"
-  build-a-reputation: "Membina reputasi"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -149,14 +142,6 @@ Membantu pendatang baru, berkongsi sumber, dan memberikan sumbangan yang teliti 
 Tidak terlalu awal, atau terlambat, untuk mula membina reputasi anda Walaupun anda sudah melancarkan projek anda sendiri, teruskan mencari cara untuk menolong orang lain.
 
 Tidak ada penyelesaian semalam untuk membina penonton. Memperoleh kepercayaan dan penghormatan orang lain memerlukan masa, dan membina reputasi anda tidak akan pernah berakhir.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS dilancarkan untuk pertama kalinya pada awal tahun 2011. (...) Saya menyebarkan berita dengan cara biasa: Saya tweet mengenainya, saya menulis catatan blog mengenai perkara-perkara yang boleh anda lakukan dengannya, saya menyebutnya semasa pelbagai perbincangan dalam perjumpaan. Ketika menjadi lebih terkenal pada tahun 2014, saya mula memberikan persembahan mengenainya.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Terus!
 

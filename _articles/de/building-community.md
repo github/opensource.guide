@@ -14,33 +14,33 @@ related:
 
 Ihr gerade gestartetes Projekt wird schon verbreitet und Leute schauen vorbei? Fantastisch! Wie überzeugen Sie sie, da zu bleiben?
 
-Eine einladende, offenherzige Gemeinschaft ist eine Investition in die Zukunft und in den Ruf Ihres Projekts. Wenn Ihr Projekt gerade erst die initialen Kontributionen erfährt, fangen Sie damit an, den frühen Kontributor\*innen eine positive Erfahrung zu bereiten, und machen Sie es ihnen leicht, wiederzukommen.
+Eine einladende, offenherzige Gemeinschaft ist eine Investition in die Zukunft und in den Ruf Ihres Projekts. Wenn Ihr Projekt gerade erst die initialen Beiträge erfährt, fangen Sie damit an, den frühen Mitwirkenden eine positive Erfahrung zu bereiten, und machen Sie es ihnen leicht, wiederzukommen.
 
 ### Geben Sie Leuten das Gefühl, willkommen zu sein
 
-Die Community Ihres Projekts kann nach @MikeMcQuaid als "Kontributorentrichter" ([contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)) aufgefasst werden:
+Die Community Ihres Projekts kann nach @MikeMcQuaid als "Mitwirkendenrichter" ([contributor funnel](https://speakerdeck.com/mikemcquaid/the-open-source-contributor-funnel)) aufgefasst werden:
 
 ![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-Während Sie Ihre Community aufbauen, überlegen Sie sich, wie jemand am Eingang des Trichters (potenzielle\*r Benutzer\*in) theoretisch den Weg nach unten finden könnte (aktiver\* Mitstreiter\*in). Ihr Ziel ist es, jede Phase des Mithelfens möglichst reibungslos zu gestalten. Denn wenn die Leute "leichte Beute" machen können, ermutigt sie dies zu weiteren Beiträgen.
+Während Sie Ihre Community aufbauen, überlegen Sie sich, wie jemand am Eingang des Trichters (potenzielle\*r Benutzer\*in) theoretisch den Weg nach unten finden könnte (aktive\*r Mitstreiter\*in). Ihr Ziel ist es, jede Phase des Mithelfens möglichst reibungslos zu gestalten. Denn wenn die Leute "leichte Beute" machen können, ermutigt sie dies zu weiteren Beiträgen.
 
 Beginnen Sie mit der Dokumentation:
 
 * **Helfen Sie beim Einstieg in ihr Projekt.** [Eine freundliche README](../starting-a-project/#eine-readme-schreiben) und anschauliche Codebeispiele erleichtern Allen, die auf Ihr Projekt stoßen, den Einstieg.
 * **Erklären Sie in klaren Worten, wie Leute beitragen sollen**, bspw. in [einer CONTRIBUTING-Datei](../starting-a-project/#ihre-beitragsrichtlinien-aufschreiben), und indem Sie die Issues stets aktuell halten.
-* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen* geeignete Issues explizit kenntlich machen (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
+* **Good first issues**: Um neuen Mitwirkenden den Einstieg zu erleichtern, sollten Sie [für Anfänger\*innen geeignete Issues explizit kenntlich machen (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden, ohne sich erst durch vermutlich zu schwere Issues durchkämpfen zu müssen.
 
-[GitHubs 2017er Open-Source-Umfrage](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
+[GitHubs Open-Source-Umfrage aus dem Jahr 2017](http://opensourcesurvey.org/2017/) zeigte, dass unvollständige oder verwirrende Dokumentation das größte Problem für Open-Source-Anwender\*innen ist. Eine gute Dokumentation lädt zur Interaktion mit Ihrem Projekt ein. Wenn jemand ein Issue oder Pull Request erstellt, bietet sich für Sie die Möglichkeit, diese Person durch den Trichter zu bugsieren.
 
 * **Wenn Leute neu zu Ihrem Projekt hinzustoßen, danken Sie ihnen für ihr Interesse!** Ansonsten braucht es nur eine negative Erfahrung, um jemanden nachhaltig abzuschrecken.
 * **Antworten Sie schnell.** Wenn Sie einen Monat lang nicht auf jemandes Issue reagieren, ist es wahrscheinlich, dass diese Person Ihr Projekt bereits vergessen hat.
-* **Nehmen Sie verschiedener Beitragsarten an.** Viele Mitwirkende beginnen mit einem Fehlerbericht oder einer kleinen Korrektur: Es gibt [viele Möglichkeiten, einen Beitrag zu leisten](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet) zu einem Projekt. Lassen Sie Leute so helfen, wie diese es möchten.
+* **Nehmen Sie unterschiedliche Arten von Beiträgen an.** Viele Mitwirkende beginnen mit einem Fehlerbericht oder einer kleinen Korrektur: Es gibt [viele Möglichkeiten, einen Beitrag zu leisten](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet) zu einem Projekt. Lassen Sie Leute so helfen, wie diese es möchten.
 * **Wenn es einen Beitrag gibt, mit dem Sie nicht einverstanden sind,** bedanken Sie sich trotzdem, aber [erklären warum](../best-practices/#lernen-nein-zu-sagen) die Idee nicht in den Projektrahmen passt. Verlinken Sie auf relevante Dokumentation, wenn vorhanden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
 
-  Zu Open Source beizutragen ist für Manche einfacher als für andere. Manche haben Angst, angeschrien zu werden, weil sie etwas nicht richtig machen könnten oder einfach nicht hineinpassen. (...) Indem man den Mitwirkenden die Möglichkeiten gibt, auch mit sehr geringen technischen Kenntnissen (Dokumentation, Abschriften von Webinhalten, etc.) beitragen zu können, kann man diese Bedenken stark reduzieren.
+  Zu Open-Source beitragen ist für manche einfacher als für andere. Manche haben Angst, angeschrien zu werden, weil sie etwas nicht richtig machen könnten oder einfach nicht hineinpassen. (...) Indem man den Mitwirkenden die Möglichkeiten gibt, auch mit sehr geringen technischen Kenntnissen (Dokumentation, Abschriften von Webinhalten, etc.) beitragen zu können, kann man diese Bedenken stark reduzieren.
 
   Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
 
@@ -73,7 +73,7 @@ Wenn Sie Dinge aufschreiben, können mehr Leute an jedem Schritt des Weges teiln
 
 Dinge aufzuschreiben, ist mehr als nur technische Dokumentation. Wenn Sie den Drang verspüren, etwas aufzuschreiben oder Ihr Projekt privat zu diskutieren, fragen Sie sich, ob Sie es nicht doch öffentlich machen können.
 
-Seien Sie transparent was die Roadmap Ihres Projekts angeht, die Arten von Beiträgen, nach denen Sie suchen, wie Beiträge überprüft werden, oder warum Sie bisherige Entscheidungen so getroffen haben.
+Seien Sie transparent, was die Roadmap Ihres Projekts angeht, die Arten von Beiträgen, nach denen Sie suchen, wie Beiträge überprüft werden, oder warum Sie bisherige Entscheidungen so getroffen haben.
 
 Wenn Sie feststellen, dass mehrere Benutzer\*innen auf das gleiche Problem stoßen, dokumentieren Sie die Antworten in der README.
 
@@ -83,15 +83,15 @@ Alles zu dokumentieren, gilt auch für Ihre Arbeit. Wenn Sie an einem umfangreic
 
 ### Antworten Sie schnell
 
-Wenn Sie [für Ihr Projekt werben](../finding-users), werden Leute Ihnen Rückmeldungen geben. Vielleicht in Form von Fragen, wie etwas in Ihrem Projekt funktioniert, oder sie brauchen Starthilfe bei der Benutzung.
+Wenn Sie [für Ihr Projekt werben](../finding-users), werden Sie sicherlich Rückmeldungen geben - vielleicht in Form von Fragen, wie etwas in Ihrem Projekt funktioniert, oder wo sie Hilfe für die Benutzung finden können.
 
-Versuchen Sie, schnell zu reagieren, wenn jemand ein Issue oder Pull Request einreicht, oder eine Frage zu Ihrem Projekt stellt. Eine schnell Antwort gibt den Leuten das Gefühl, an einem Dialog teilzunehmen, und das kann ermutigend wirken, weiter mitzuhelfen.
+Versuchen Sie, schnell zu reagieren, wenn jemand ein Issue oder Pull Request einreicht, oder eine Frage zu Ihrem Projekt stellt. Eine schnelle Antwort gibt den Leuten das Gefühl, an einem Dialog teilzunehmen, und das kann ermutigend wirken, weiter mitzuhelfen.
 
-Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft die frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull Request an [Middleman](https://github.com/middleman/middleman/pull/1466):
+Auch wenn Sie die Anfrage nicht sofort inhaltlich prüfen können, hilft eine frühzeitige Bestätigung, das Engagement zu erhöhen. Ein Beispiel: @tdreyno reagiert auf einen Pull Request an [Middleman](https://github.com/middleman/middleman/pull/1466):
 
 ![Pull Request an Middleman](/assets/images/building-community/middleman_pr.png)
 
-[Eine Mozilla-Studie fand heraus, dass](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) Kontributor\*innen, deren Codebeitrag innerhalb von 48 Stunden überprüft wurde, deutlich häufiger nochmal mithalfen.
+[Eine Mozilla-Studie fand heraus, dass](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) Mitwirkende, deren Codebeitrag innerhalb von 48 Stunden überprüft wurde, deutlich häufiger nochmal mithalfen.
 
 Ihr Projekt kann an allen möglichen Stellen des Internets besprochen werden, wie z.B. auf Stack Overflow, Twitter oder Reddit. Dort können Sie Benachrichtigungen einrichten, um über Erwähnungen Ihres Projektes informiert zu werden.
 
@@ -99,13 +99,13 @@ Ihr Projekt kann an allen möglichen Stellen des Internets besprochen werden, wi
 
 Es gibt zwei Gründe, Ihrer Gemeinschaft einen Ort der Begegnung zu geben.
 
-Der erste Grund ist, Menschen mit gemeinsamen Interessen zu helfen, sich kennenzulernen. Menschen mit gemeinsamen Interessen wollen sich zwangsläufig treffen können, um über diese zu reden. Wenn die Kommunikation öffentlich und zugänglich ist, kann jede\*r die Archive lesen, um sich auf den neuesten Stand zu bringen und sich daran zu beteiligen.
+Der erste Grund ist, Menschen mit gemeinsamen Interessen zu helfen, sich kennenzulernen. Menschen mit gemeinsamen Interessen wollen sich zwangsläufig treffen können, um über diese zu reden. Wenn die Kommunikation öffentlich und zugänglich ist, kann jeder die Archive lesen, um sich auf den neuesten Stand zu bringen und sich daran zu beteiligen.
 
 Der zweite Grund nützt Ihnen selbst: Wenn Sie den Leuten _keinen_ öffentlichen Ort geben, um über Ihr Projekt zu sprechen, werden sie wahrscheinlich direkt mit Ihnen in Verbindung treten. Am Anfang mag es einfach erscheinen, hin und wieder mal auf private Nachrichten zu antworten, aber mit der Zeit, besonders wenn Ihr Projekt populär wird, werden Sie sich erschöpft fühlen und der Versuchung widerstehen, mit Leuten über Ihr Projekt privat zu kommunizieren, anstatt sie an einen bestimmten öffentlichen Kanal zu verweisen.
 
-Öffentliche Kommunikation kann ganz einfach sein: Bitten Sie Leute, ein Issue zu öffnen, anstatt Ihnen direkt eine E-Mail zu schreiben oder in Ihr Blog zu kommentieren. Sie können für Leute, die über Ihr Projekt sprechen möchten, auch eine Mailingliste einrichten oder einen Twitter-Account, einen Slack- oder IRC-Kanal. Oder all dies gleichzeitig ausprobieren!
+Öffentliche Kommunikation kann ganz einfach sein: Bitten Sie Leute, ein Issue zu öffnen, anstatt Ihnen direkt eine E-Mail zu schreiben oder in Ihr Blog zu kommentieren. Sie können für Leute, die über Ihr Projekt sprechen möchten, auch eine Mailingliste einrichten oder einen Twitter-Account, einen Slack- oder IRC-Kanal. Oder gleich alles auf einmal!
 
-[Kubernetes' Kops](https://github.com/kubernetes/kops#getting-involved) legt alle zwei Wochen Bürozeiten fest, um den Mitgliedern der Gemeinschaft zu helfen:
+[Kubernetes' Kops](https://github.com/kubernetes/kops#getting-involved) legt alle zwei Wochen Bürozeiten fest, um den Mitglieder*innen der Gemeinschaft zu helfen:
 
 > Die Kops-Betreuer\*innen haben sich bereit erklärt, Zeit einzuplanen für die Arbeit mit Neuankömmlingen, die Unterstützung von Pull Requests, sowie für die Diskussion über neue Funktionen.
 >
@@ -141,7 +141,7 @@ Wenn Sie ein destruktives Verhalten in Ihrem Projekt beobachten, sprechen Sie es
 
 ### Holen Sie Mitwirkende dort ab, wo sie sich stehen
 
-Eine gute Dokumentation wird nur immer wichtiger, je mehr Ihre Community wächst. Gelegenheitskontributor\*innen, die mit Ihrem Projekt nicht vertraut sind, lesen Ihre Dokumentation, um schnell den nötigen Überblick zu bekommen.
+Eine gute Dokumentation wird immer wichtiger, je mehr Ihre Community wächst. Mitwirkende, die nur gelegentlich Beiträge leisten und damit mit Ihrem Projekt nicht zwingend vertraut sind, lesen Ihre Dokumentation, um schnell den nötigen Überblick zu bekommen.
 
 Geben Sie in Ihrer CONTRIBUTING-Datei explizit an, wie sie anfangen sollen. Vielleicht möchten Sie sogar eine eigene Sektion für diesen Zweck einrichten: [Django](https://github.com/django/django) zum Beispiel, hat eine spezielle Startseite, die neue Mitwirkende willkommen heißt.
 
@@ -151,7 +151,7 @@ Die Liste der Issues sollte durchsortiert sein, Bugs z.B. als solche markiert, s
 
 Nicht zuletzt sollten Sie die Dokumentation nutzen, um Leute mit offenen Armen zu empfangen und ihnen Schritt-für-Schritt zu helfen.
 
-Sie werden mit den meisten Leuten, die auf Ihr Projekt stoßen nie interagieren. Ihnen könnten Beiträge entgehen, weil jemand sich eingeschüchtert fühlte, oder nicht herausfand, was es denn zu tun gab. Schon ein paar freundliche Worte können verhindern, dass jemand einfach weiter zieht.
+Sie werden mit den meisten Leuten, die auf Ihr Projekt stoßen, nie interagieren. Ihnen könnten Beiträge entgehen, weil jemand sich eingeschüchtert fühlte, oder nicht herausfand, was es denn zu tun gab. Schon ein paar freundliche Worte können verhindern, dass jemand einfach weiter zieht.
 
 Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kontributionsratgeber](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) mit:
 
@@ -173,9 +173,9 @@ Zum Beispiel: [Rubinius](https://github.com/rubinius/rubinius/) beginnt [den Kon
   </p>
 </aside>
 
-Leute sind begeistert davon, an Projekten mitzuwirken, wenn sie ein Gefühl für Verantwortung bekommen. Das bedeutet nicht, dass Sie Ihre Projektvision umdrehen müssen, oder Beiträge annehmen, die Sie nicht wollen. Je mehr Anerkennung Sie anderen Menschen jedoch zollen, desto eher werden diese bei Ihrem Projekt bleiben.
+Leute sind begeistert davon, an Projekten mitzuwirken, wenn sie ein Gefühl für Verantwortung bekommen. Das bedeutet nicht, dass Sie Ihre Projektvision umdrehen müssen, oder Beiträge annehmen, die Sie nicht wollen. Je mehr Anerkennung Sie anderen Menschen jedoch schenken, desto eher werden diese bei Ihrem Projekt bleiben.
 
-Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie möglich mit Ihren Projektteilnehmer\*innen zu teilen:
+Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie möglich mit Ihren Projektteilnehmern\*innen zu teilen:
 
 * **Lassen Sie einfache (unkritische) Bugs unangetastet.** Nutzen Sie diese stattdessen als Gelegenheit, neue Mitwirkende zu rekrutieren, oder helfen Sie einem hilfsbereiten Neuling, den Prozess eines Bug-Fixes zu durchlaufen. Es mag zunächst unnatürlich erscheinen, aber Ihre Investition wird sich im Laufe der Zeit auszahlen. @michaeljoseph hat zum Beispiel einen Mitwirkenden gebeten, einen Pull Request zu einem der folgenden Probleme in [Cookiecutter](https://github.com/audreyr/cookiecutter) zu stellen, anstatt es selbst zu beheben.
 
@@ -185,11 +185,11 @@ Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie mögli
 
 * Wenn Sie schon eine etwas größere Gemeinschaft versammelt haben, **senden Sie eine Rundmail oder schreiben ins Blog**, dass Sie Kontributor\*innen danken. Rusts [This Week in Rust](https://this-week-in-rust.org/) und Hoodies [Shoutout-Grüße](http://hood.ie/blog/shoutouts-week-24.html) sind zwei gute Beispiele dafür.
 
-* **Geben Sie allen Kontributor\*innen Schreibzugriff.** @felixge fand heraus, dass dies Leute [zu mehr Feinschliff ihrer Beiträge anspornt](https://felixge.de/2013/03/11/the-pull-request-hack.html), und gewann sogar neue Maintainer\*innen für Projekte, an denen er selbst schon eine Weile nicht mehr arbeitete.
+* **Geben Sie allen Mitwirkenden Schreibzugriff.** @felixge fand heraus, dass dies Leute [zu mehr Feinschliff ihrer Beiträge anspornt](https://felixge.de/2013/03/11/the-pull-request-hack.html), und gewann sogar neue Maintainer\*innen für Projekte, an denen er selbst schon eine Weile nicht mehr arbeitete.
 
 * Wenn Ihr Projekt auf GitHub liegt, **verschieben Sie es von Ihrem Privat-Konto in das einer [Organisation](https://help.github.com/articles/creating-a-new-organization-account/)** und fügen Sie zur Sicherheit mindestens eine\*n weitere\*n Administrator\*in hinzu. Organisationen machen die Zusammenarbeit mit externen Mithelfenden einfacher.
 
-Realistischerweise haben [die meisten Projekte](https://peerj.com/preprints/1233.pdf) nur einen oder zwei Verantwortliche, welche die meiste Arbeit erledigen. Ja größer Ihr Projekt, und je größer seine Nutzer\*innengemeinschaft, desteo einfacher wird es sein, Hilfe zu finden.
+Realistischerweise haben [die meisten Projekte](https://peerj.com/preprints/1233/) nur einen oder zwei Verantwortliche, welche die meiste Arbeit erledigen. Ja größer Ihr Projekt, und je größer seine Nutzer\*innengemeinschaft, desto einfacher wird es sein, Hilfe zu finden.
 
 Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhöht so ein Signals doch die Wahrscheinlichkeit, dass Andere mitmachen. Je früher Sie damit anfangen, desto eher können die Leute helfen.
 
@@ -211,13 +211,13 @@ In der Anfangsphase Ihres Projekts ist es einfach, wichtige Entscheidungen zu tr
 
 Je beliebter Ihr Projekt wird, desto mehr Menschen werden sich für von Ihnen getroffene Entscheidungen interessieren. Selbst wenn Sie keine große Gemeinschaft von Mitwirkenden haben: Wenn Ihr Projekt viele Benutzer\*innen hat, werden darunter Leute sein, die sich über Entscheidungen auslassen oder ihre eigenen Themen ansprechen.
 
-Wenn Sie eine freundliche, respektvolle Gemeinschaft gepflegt und Ihre Prozesse offen dokumentiert haben, sollten Alle zur Lösungsfindung in der Lage sein. Aber manchmal stoßen Sie auf ein Problem, das etwas schwieriger zu lösen ist.
+Wenn Sie eine freundliche, respektvolle Gemeinschaft gepflegt und Ihre Prozesse offen dokumentiert haben, sollten alle zur Lösungsfindung in der Lage sein. Aber manchmal stoßen Sie auf ein Problem, das etwas schwieriger zu lösen ist.
 
 ### Setzen Sie die Messlatte für Freundlichkeit
 
-Wenn sich Ihre Gemeinschaft mit einem schwierigen Thema auseinandersetzt, können sich Gemüter schnell mal erhitzen. Menschen können wütend oder frustriert werden und es an Anderen oder an Ihnen auslassen.
+Wenn sich Ihre Gemeinschaft mit einem schwierigen Thema auseinandersetzt, können sich Gemüter schnell mal erhitzen. Menschen können wütend oder frustriert werden und es an anderen oder an Ihnen auslassen.
 
-Ihre Aufgabe als Maintainer\*in ist es, solche Situationen vor einer Eskalation zu bewahren. Selbst wenn Sie eine klare eigene Meinung zu diesem Thema haben, versuchen Sie, die moderierende Position einzunehmen, anstatt sich in den Kampf zu stürzen und Ihre Ansichten durchzusetzen. Wenn jemand unfreundlich wird oder das Gespräch an sich reißt, [handeln Sie sofort](../building-community/#dulden-sie-keine-destruktiven-akteure), um die Diskussionen zivil und produktiv zu halten.
+Ihre Aufgabe als Maintainer\*in ist es, solche Situationen vor einer Eskalation zu schützen. Selbst wenn Sie eine klare eigene Meinung zu diesem Thema haben, versuchen Sie, die moderierende Position einzunehmen, anstatt sich in den Kampf zu stürzen und Ihre Ansichten durchzusetzen. Wenn jemand unfreundlich wird oder das Gespräch an sich reißt, [handeln Sie sofort](../building-community/#dulden-sie-keine-destruktiven-akteure), um die Diskussionen zivil und produktiv zu halten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -233,7 +233,7 @@ Ihre Aufgabe als Maintainer\*in ist es, solche Situationen vor einer Eskalation 
 
 Andere Leute erwarten von Ihnen, ein gutes Beispiel abzugeben. Sie können immer noch Enttäuschung, Unzufriedenheit oder Besorgnis ausdrücken, aber tun Sie dies auf eine ruhige Art und Weise.
 
-Es ist nicht einfach, einen kühlen Kopf zu bewahren, aber Führung zu zeigen, verbessert die Gesundheit der Gemeinschaft. Das Internet wird es Ihnen danken!
+Es ist nicht einfach, einen kühlen Kopf zu bewahren, aber Führung zu zeigen, verbessert die Gesundheit der Gemeinschaft. Das Internet wird Ihnen dafür danken!
 
 ### Nutzen Sie die README als Verfassung
 
@@ -241,41 +241,41 @@ Ihre README-Datei ist [mehr als nur eine Anleitung](../starting-a-project/#eine-
 
 ### Der Weg ist das Ziel
 
-Einige Projekte nutzen einen Abstimmungsprozess, um wichtige Entscheidungen zu treffen. Auf den ersten Blick ist es sinnvoll, so eine Antwort zu finden, anstatt sich gegenseitig zuzuhören und auf die Sichtweisen Anderer einzugehen.
+Einige Projekte eigene "Abstimmungsprozesse", um wichtige Entscheidungen zu treffen. Auf den ersten Blick ist es sinnvoll, so eine Antwort zu finden, anstatt sich gegenseitig zuzuhören und auf die Sichtweisen anderer einzugehen.
 
-Abstimmungen können aber politisch werden, wenn sich die Community-Mitglieder unter Druck gesetzt fühlen, sich gegenseitig einen Gefallen zu tun oder auf eine bestimmte Wahl zu treffen. Außerdem stimmt nicht jede\*r mit ab, z.B. weil es ein [stille Mehrheit](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in Ihrer Gemeinschaft geben könnte, oder neue Benutzer\*innen einfach nicht wussten, dass eine Abstimmung stattfindet.
+Abstimmungen können aber politisch werden, wenn sich die Community-Mitglieder unter Druck gesetzt fühlen, sich gegenseitig einen Gefallen zu tun oder eine bestimmte Wahl zu treffen. Außerdem stimmt nicht jeder mit ab, z.B. weil es ein [stille Mehrheit](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) in Ihrer Gemeinschaft geben könnte, oder neue Benutzer\*innen einfach nicht wussten, dass eine Abstimmung stattfindet.
 
-Manchmal ist eine Abstimmung notwendig, um ein Patt aufzulösen. Aber soviel Sie können, betonen Sie die [Konsensfindung](https://de.wikipedia.org/wiki/Konsensprinzip) statt des Konsenses an sich.
+Manchmal ist eine Abstimmung notwendig, um ein Patt aufzulösen. Versuchen Sie daher - so gut es geht - die [Konsensfindung](https://de.wikipedia.org/wiki/Konsensprinzip) statt den Konsens selbst zu betonen.
 
-Im Rahmen der Konsensfindungsprozesses diskutieren die Mitglieder der Gemeinschaft wichtige Anliegen, bis sie das Gefühl haben, angemessen gehört worden zu sein, und wenn nur noch geringe Bedenken bestehen, kommt die Gemeinschaft voran. Die Konsensfindung erkennt an, dass eine Gemeinschaft möglicherweise keine perfekte Antwort finden kann. Stattdessen priorisiert sie das Zuhören und die Diskussion.
+Im Rahmen der Konsensfindungsprozesses diskutieren die Mitglieder der Gemeinschaft wichtige Anliegen, bis sie das Gefühl haben, angemessen gehört worden zu sein. Wenn dann nur noch geringe Bedenken bestehen, kommt die Gemeinschaft voran. Die Konsensfindung erlaubt auch, dass eine Gemeinschaft möglicherweise keine perfekte Antwort finden kann. Stattdessen priorisiert sie das Zuhören und die Diskussion.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
 
-  Für Atom-Issues gibt es kein Abstimmungssystem, weil z.B. das Atom-Team nicht in allen Fällen einem Abstimmungssystem folgen würde. Manchmal müssen wir uns für etwas entscheiden, das wir für richtig halten, auch wenn es unbeliebt ist. (...) Was ich anbieten und versprechen kann: Es ist meine Aufgabe, der Community zuzuhören.
+  Für Issues bei Atom gibt es kein Abstimmungssystem, weil z.B. das Atom-Team nicht in allen Fällen einem Abstimmungssystem folgen würde. Manchmal müssen wir uns für etwas entscheiden, das wir für richtig halten, auch wenn es unbeliebt ist. (...) Was ich anbieten und versprechen kann: Es ist meine Aufgabe, der Community zuzuhören.
 
   _Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do (...) is that it is my job to listen to the community._
 
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 
 Auch wenn Sie als Projektbetreuer\*in keine Konsensfindung betreiben möchten, ist es wichtig, dass die Leute ein offenes Ohr bei Ihnen finden. Anderen zuzuhören, und sich für die Lösung ihrer Probleme einzusetzen, hilft beim Entschärfen sensibler Situationen sehr. Lassen Sie Ihren Worten aber auch Taten folgen.
 
-Überstürzen Sie Entscheidungen nicht, nur um eine Lösung herbeizuführen. Stellen Sie sicher, dass jede\*r sich gehört fühlt und dass alle Informationen öffentlich gemacht wurden, bevor Sie sich auf eine Entscheidung zubewegen.
+Überstürzen Sie Entscheidungen nicht, nur um eine Lösung herbeizuführen. Stellen Sie sicher, dass jeder sich gehört fühlt und dass alle Informationen öffentlich gemacht wurden, bevor Sie sich auf eine Entscheidung zubewegen.
 
 ### Halten Sie Diskussionen fokussiert auf Aktionen
 
 Diskussionen sind wichtig, aber es gibt einen Unterschied zwischen produktiven und unproduktiven Gesprächen.
 
-Fördern Sie Diskussionen, die sich aktiv auf eine Lösung zubewegen: Wenn klar ist, dass Dinge zerredet werden, oder die Konversation vom Thema abweicht, persönliche Anfeindungen passieren, oder die Leute sich über kleine Details streiten, ist es Zeit für eine Beendigung der Diskussion.
+Fördern Sie Diskussionen, die sich aktiv auf eine Lösung zubewegen: Wenn klar wird, dass Dinge zerredet werden, oder die Konversation vom Thema abweicht, persönliche Anfeindungen passieren, oder die Leute sich über kleine Details streiten, ist es Zeit für eine Beendigung der Diskussion.
 
 Die Fortsetzung solcher Diskussionen ist nicht nur schlecht für das jeweilige Thema, sondern auch für die Gesundheit Ihrer Gemeinschaft. Die Botschaft zu vermitteln, dass unproduktive Diskussionen erlaubt oder sogar gefördert werden, könnte Leute zukünftig davon abgehalten werden, Probleme anzusprechen oder zu lösen.
 
-Bei jedem Diskussionsbeitrag ihrerseits, oder von Anderen, sollten Sie sich fragen _"Wie bringt uns dies einer Lösung näher?"_
+Bei jedem Diskussionsbeitrag ihrerseits, oder von anderen, sollten Sie sich fragen _"Wie bringt uns dies einer Lösung näher?"_
 
-Falls die Diskussion abdriftet, fragen Sie die Teilnehmer\*innen: _"Welche Schritte sollten wir als nächstes gehen?"_ um sie wieder zu fokussieren.
+Falls die Diskussion abdriftet, fragen Sie die Teilnehmer\*innen: _"Welche Schritte sollten wir als nächstes gehen?"_, um sie wieder zu fokussieren.
 
 Wenn eine Diskussion offensichtlich nirgendwo hinführt, es keine klaren Maßnahmen zu ergreifen gibt, oder schon welche ergriffen wurden, schließen Sie das Issue und erklären Sie, warum Sie es geschlossen haben.
 
@@ -293,15 +293,15 @@ Wenn eine Diskussion offensichtlich nirgendwo hinführt, es keine klaren Maßnah
 
 ### Wählen Sie Auseinandersetzungen mit Bedacht
 
-Der Kontext ist wichtig: Überlegen Sie, wer an der Diskussion beteiligt ist und wie die Diskutanten den Rest der Gemeinschaft repräsentieren.
+Der Kontext ist wichtig: Überlegen Sie, wer an der Diskussion beteiligt ist und wie die Teilnehmer\*innen den Rest der Gemeinschaft repräsentieren.
 
-Ist jeder in der Community verärgert oder gar mit diesem Thema beschäftigt? Oder ist er ein\*e einzelner Unruhestifter\*in? Berücksichtigen Sie nicht nur die Aktiven, sondern vergessen Sie Ihre stillen Community-Mitglieder nicht.
+Ist jeder in der Community verärgert oder gar mit diesem Thema beschäftigt? Ist er oder sie ein\*e einzelne\*r Unruhestifter\*in? Berücksichtigen Sie nicht nur die Aktiven, sondern vergessen Sie Ihre stillen Community-Mitglieder\*innen nicht.
 
 Wenn das Thema nicht die breiteren Bedürfnisse Ihrer Gemeinschaft widerspiegelt, müssen Sie vielleicht nur die Sorgen einiger Weniger anerkennen. Wenn es sich um ein wiederkehrendes Problem ohne klare Lösung handelt, weisen Sie sie auf frühere Diskussionen hin und schließen Sie das Issue.
 
 ### Identifizieren Sie einen Community-Tiebreaker
 
-Mit einer positiven Herangehensweise und klarer Kommunikation sind die schwierigsten Situationen lösbar. Aber auch in einem produktiven Gespräch kann es einfach zu Meinungsverschiedenheiten kommen. Identifizieren Sie dann eine Person oder Gruppe, die quasi als Schiedsrichter\*in fungieren kann.
+Mit einer positiven Herangehensweise und klarer Kommunikation sind selbst die schwierigsten Situationen lösbar. Aber auch in einem produktiven Gespräch kann es einfach zu Meinungsverschiedenheiten kommen. Identifizieren Sie dann eine Person oder Gruppe, die als Schiedsrichter\*in fungieren kann.
 
 Ein\*e solche\*r Schiedsrichter\*in kann die oder der Hauptverantwortliche für das Projekt sein, oder eine kleine Gruppe von Leuten, die über eine Entscheidung abstimmen. Idealerweise haben Sie einen Tiebreaker und den damit verbundenen Prozess in einer GOVERNANCE-Datei identifiziert, bevor Sie diese verwenden müssen.
 

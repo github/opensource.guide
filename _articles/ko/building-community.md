@@ -10,7 +10,7 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## 프로젝트의 성공을 위해 준비하기
 
 여러분의 프로젝트가 공개되었습니다. 홍보를 하니 찾아오는 사람들도 생겼습니다. 멋지군요! 그들을 곁에 머물게 하려면 이제 어떻게 해야 할까요?
 
@@ -33,7 +33,7 @@ related:
 
 * **새로운 사람이 프로젝트에 찾아오면 그들의 관심에 감사를 표하세요!** 처음 온 사람은 단 한 번의 부정적인 경험으로도 다시 프로젝트에 돌아오지 않게 될 수 있습니다.
 * **적극적으로 반응하세요.** 이슈에 한 달 이상 반응하지 않았다면 이슈를 올린 사람은 이미 여러분의 프로젝트를 잊었을지도 모릅니다.
-* **열린 마음을 가지고 다양한 유형의 기여를 받아들이세요.** 많은 기여자들이 처음에는 버그 제보나 작은 수정에서부터 시작합니다. 프로젝트에 기여하는 데에는 [다양한 방법](../how-to-contribute/#what-it-means-to-contribute)이 있습니다. 그들이 원하는 방식으로 여러분을 도울 수 있게 하세요.
+* **열린 마음을 가지고 다양한 유형의 기여를 받아들이세요.** 많은 기여자들이 처음에는 버그 제보나 작은 수정에서부터 시작합니다. 프로젝트에 기여하는 데에는 [다양한 방법](../how-to-contribute/#기여한다는-것의-의미)이 있습니다. 그들이 원하는 방식으로 여러분을 도울 수 있게 하세요.
 * **받아들일 수 없는 기여가 있다면,** 먼저 그들의 아이디어에 감사하고, 왜 그 기여가 프로젝트의 의도에 맞지 않는지 [이유를 설명](../best-practices/#거절하는-법-배우기)하세요. 관련 문서가 있다면 링크를 첨부하는 것이 좋습니다.
 
 <aside markdown="1" class="pquote">
@@ -102,7 +102,7 @@ related:
 
 공개적인 의사소통은 중요하지만 예외도 있습니다. 보안 관련 이슈나 민감한 행동 강령 위반 사항이 바로 그것입니다. 이러한 문제는 비공개적으로 보고될 수 있어야 합니다. 개인 이메일을 사용하기 꺼려진다면 프로젝트를 위한 이메일 주소를 준비하세요.
 
-## Growing your community
+## 커뮤니티 성장시키기
 
 커뮤니티는 아주 강력한 힘을 지니고 있습니다. 그 힘은 어떻게 다루느냐에 따라 축복이 될 수도, 저주가 될 수도 있습니다. 성장하는 커뮤니티를 파괴의 힘이 아닌 창조의 힘으로 이끄는 방법을 알아봅시다.
 
@@ -122,7 +122,7 @@ related:
 
 프로젝트의 사소한 면에 대한 반복적인 논쟁은 여러분을 포함한 구성원이 보다 중요한 일에 집중하는 것을 방해합니다. 여러분의 프로젝트에 새로 찾아온 사람들이 이런 논쟁을 보면 프로젝트에 참여하고 싶지 않을 것입니다.
 
-여러분의 프로젝트에서 행해지는 옳지 않은 행동을 발견한다면, 친절하지만 완고하게 어째서 그런 행동이 용납될 수 없는지 공적으로 설명하세요. 문제가 지속된다면 [그들을 떠나보내야 할 수도 있습니다](../code-of-conduct/#enforcing-your-code-of-conduct). 프로젝트 [행동 강령](../code-of-conduct/)이 이런 대화의 적절한 지침이 될 것입니다.
+여러분의 프로젝트에서 행해지는 옳지 않은 행동을 발견한다면, 친절하지만 완고하게 어째서 그런 행동이 용납될 수 없는지 공적으로 설명하세요. 문제가 지속된다면 [그들을 떠나보내야 할 수도 있습니다](../code-of-conduct/#행동강령을-시행하기). 프로젝트 [행동 강령](../code-of-conduct/)이 이런 대화의 적절한 지침이 될 것입니다.
 
 ### 기여자에게 먼저 다가가세요
 
@@ -169,7 +169,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 * 여러분의 프로젝트가 GitHub에서 진행되고 있다면 **프로젝트를 개인 계정에서 [조직 계정](https://help.github.com/articles/creating-a-new-organization-account/)으로 옮기고** 예비 관리자를 등록하세요. 조직 계정을 활용하면 외부의 협력자들과 함께 일하기 더 쉽습니다.
 
-현실에서 [대부분의 프로젝트](https://peerj.com/preprints/1233.pdf)는 한두 명의 관리자가 거의 모든 일을 담당합니다. 여러분의 프로젝트와 커뮤니티가 성장할수록 위 방법이 도움을 구하기 좋습니다.
+현실에서 [대부분의 프로젝트](https://peerj.com/preprints/1233/)는 한두 명의 관리자가 거의 모든 일을 담당합니다. 여러분의 프로젝트와 커뮤니티가 성장할수록 위 방법이 도움을 구하기 좋습니다.
 
 항상 도움을 줄 수 있는 사람을 찾을 수 있는 것은 아니지만, 신호를 보내는 것은 그럴 확률을 높입니다. 여러분이 일찍 시작할수록 사람들은 더 빨리 도울 수 있습니다.
 
@@ -181,7 +181,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
   </p>
 </aside>
 
-## Resolving conflicts
+## 갈등 해결하기
 
 프로젝트 초기에는 결정을 내리기 쉽습니다. 하고 싶은 일이 있다면, 얼마든 그렇게 하세요.
 
@@ -225,7 +225,7 @@ README 파일은 [단순한 안내서 이상](../starting-a-project/#readme-파�
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom’s decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom’s decision making process
   </p>
 </aside>
 
@@ -271,6 +271,6 @@ README 파일은 [단순한 안내서 이상](../starting-a-project/#readme-파�
 
 해결사는 마지막 방책으로서 쓰여야 합니다. 의견이 엇갈리는 이슈는 여러분의 커뮤니티가 배우고 성장할 기회입니다. 이러한 기회를 놓치지 말고 협력적인 과정을 통해 가능한 해결책을 향해 나아가세요.
 
-## Community is the ❤️ of open source
+## 커뮤니티는 오픈소스의 ❤️으로
 
 건강하고 번성하는 커뮤니티는 매주 오픈소스에 채워지는 수천 시간의 연료가 됩니다. 많은 기여자들이 오픈소스에 기여하(거나 하지 않)는 이유로서 다른 기여자들을 꼽습니다. 커뮤니티의 힘을 건설적으로 다루는 법을 배움으로써 여러분은 누군가가 잊을 수 없는 오픈소스 경험을 가질 수 있도록 도울 것입니다.

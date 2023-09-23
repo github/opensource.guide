@@ -3,12 +3,6 @@ lang: ro
 title: Codul tău de conduită
 description: Facilitează comportamente constructive și sănătoase în comunitate prin adoptarea și impunerea unui cod de conduită.
 class: coc
-toc:
-  why-do-i-need-a-code-of-conduct: "De ce am nevoie de un cod de conduită?"
-  establishing-a-code-of-conduct: "Stabilirea unui cod de conduită"
-  deciding-how-youll-enforce-your-code-of-conduct: "Decizând cum îți vei impune codul de conduită"
-  enforcing-your-code-of-conduct: "Impunerea codului tău de conduită"
-  your-responsibilities-as-a-maintainer: "Responsabilitățile tale în calitate de întreținător"
 order: 8
 image: /assets/images/cards/coc.png
 related:
@@ -53,7 +47,7 @@ Amplasează un fișier CODE_OF_CONDUCT în directorul rădăcină al proiectului
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

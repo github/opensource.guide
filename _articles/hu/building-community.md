@@ -169,7 +169,7 @@ Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mérték
 
 * Ha a projekted a GitHub-on van, **akkor mozgasd a projektet át a személyes fiókod alól a [Szervezeti Fiók](https://help.github.com/articles/creating-a-new-organization-account/)** alá és adj hozzá legalább egy admint még biztonság esetére. Az Szervezeti Fiók alkalmasabb külső résztvevők bevonására.
 
-A valóságban [a legtöbb projektnek](https://peerj.com/preprints/1233.pdf) csak egy, két karbantartója van. Minél nagyobb a projekted, és a közösséged, annál könnyebb segítséget találni.
+A valóságban [a legtöbb projektnek](https://peerj.com/preprints/1233/) csak egy, két karbantartója van. Minél nagyobb a projekted, és a közösséged, annál könnyebb segítséget találni.
 
 Bár nem mindig válaszolnak a felhívásodra, de egy jelzés kiküldése növeli az esélyét, hogy valaki reagál majd rá. És minél előbb megteszed ezt, annál hamarabb segíthetnek az emberek.
 
@@ -225,7 +225,7 @@ Konszenzuskeresési folyamat keretében a közösség tagjai megbeszélik a legf
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Az egyik ok, amiért nem létezik szavazási rendszer az Atom Issues számára az, hogy az Atom csapata nem minden esetben követi a szavazás módszerét. Időnként azt kell választanunk, hogy mit érzünk helyesnek, még akkor is, ha az nem éppen népszerű. (...) Amit felajánlhatok és vállalhatok az, hogy a közösség meghallgatása az én dolgom.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm az [Atom döntési folyamata](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm az Atom döntési folyamata
   </p>
 </aside>
 

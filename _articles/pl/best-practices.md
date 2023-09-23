@@ -52,7 +52,7 @@ Zapisywanie zasad może być denerwujące. Czasami możesz mieć wrażenie, że 
 
 Napisane i rzetelnie egzekwowane dobre zasady, jednak upoważniają opiekunów. Zapobiegają wciągnięciu cię w robienie rzeczy, których nie chcesz robić.
 
-Większość ludzi, którzy natkną się na twój projekt, nie wie nic o tobie ani twoich okolicznościach. Mogą założyć, że zarabiasz za pracę nad tym, zwłaszcza jeśli jest to coś, z czego regularnie korzystają i na którym polegają. Może w pewnym momencie poświęcisz dużo czasu na swój projekt, ale teraz jesteś zajęty nową pracą lub członkiem rodziny.
+Większość ludzi, którzy natkną się na twój projekt, nie wie nic o tobie ani twoich okolicznościach. Mogą założyć, że zarabiasz za pracę nad tym, zwłaszcza jeśli jest to coś, z czego regularnie korzystają i na czym polegają. Może w pewnym momencie poświęcałeś dużo czasu na swój projekt, ale teraz jesteś zajęty nową pracą lub członkiem rodziny.
 
 Wszystko to jest w porządku! Upewnij się tylko, że inni wiedzą o tym.
 
@@ -161,7 +161,7 @@ Jeśli widzisz, że ktoś jest entuzjastycznie nastawiony do twojego projektu, a
 
 ## Wykorzystaj swoją społeczność
 
-Nie musisz robić wszystkiego sam. Społeczność twojego projektu istnieje bez powodu! Nawet jeśli nie masz jeszcze aktywnej społeczności współautorów, jeśli masz wielu użytkowników, włącz ich do pracy.
+Nie musisz robić wszystkiego sam. Społeczność twojego projektu nie istnieje bez powodu! Nawet jeśli nie masz jeszcze aktywnej społeczności współautorów, jeśli masz wielu użytkowników, włącz ich do pracy.
 
 ### Udostępnij obciążenie pracą
 
@@ -242,7 +242,7 @@ Dostępnych jest [wiele dostępnych narzędzi](https://github.com/showcases/tool
 * [mention-bot](https://github.com/facebook/mention-bot) wymienia potencjalnych recenzentów dla pull requestów
 * [Danger](https://github.com/danger/danger) pomaga zautomatyzować code review
 * [no-response](https://github.com/probot/no-response) zamyka issues gdzie autor nie odpowiedział na request lub więcej informacji
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) sprawdza pliki zależności każdego dnia pod kątem nieaktualnych wymagań i otwiera indywidualne pull requesty dla każdego, kogo znajdzie
+* [dependabot](https://github.com/dependabot) sprawdza pliki zależności każdego dnia pod kątem nieaktualnych wymagań i otwiera indywidualne pull requesty dla każdego, kogo znajdzie
 
 W przypadku raportów o błędach i innych typowych treści GitHub ma [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), które możesz utworzyć, aby usprawnić otrzymywaną komunikację. @TalAter stworzył [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) aby pomóc Ci napisać swój issue i szablony PR.
 
@@ -271,7 +271,7 @@ Podobnie jak w przypadku każdego innego rodzaju pracy, regularne przerwy sprawi
   <i>
   In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.</i>
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

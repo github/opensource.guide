@@ -3,11 +3,6 @@ lang: en
 title: Getting Paid for Open Source Work
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
-  funding-your-own-time: "Funding your own time"
-  finding-funding-for-your-project: "Finding funding for your project"
-  building-a-case-for-financial-support: "Building a case for financial support"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -17,7 +12,7 @@ related:
 
 ## Why some people seek financial support
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Much of the work of open source is voluntary. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
@@ -71,14 +66,6 @@ Today, many people get paid to work part- or full-time on open source. The most 
 
 It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
 
 Many companies are developing open source programs to build their brand and recruit quality talent.
@@ -119,7 +106,7 @@ Finally, sometimes open source projects put bounties on issues that you might co
 
 Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing in new features or ideas.
 
 As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
 
@@ -129,7 +116,6 @@ Finding sponsorships works well if you have a strong audience or reputation alre
 A few examples of sponsored projects include:
 
 * **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** is [funded through Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
 
 ### Create a revenue stream

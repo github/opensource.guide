@@ -3,12 +3,6 @@ lang: nl
 title: Open source-statistieken
 description: Neem weloverwogen beslissingen om uw open source-project te laten gedijen door het succes ervan te meten en bij te houden.
 class: metrics
-toc:
-  why-measure-anything: "Waarom iets meten?"
-  discovery: "Ontdekking"
-  usage: "Gebruik"
-  retention: "Retention"
-  maintainer-activity: "open source beheerdersactiviteit"
 order: 9
 image: /assets/images/cards/metrics.png
 related:

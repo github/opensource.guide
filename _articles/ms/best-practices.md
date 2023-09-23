@@ -36,7 +36,7 @@ Mulakan dengan menuliskan matlamat projek anda. Tambahkan mereka ke README anda,
 
 Mempunyai visi yang jelas dan didokumentasikan membuat anda tetap fokus dan membantu anda mengelakkan "jangkauan skop" dari sumbangan orang lain.
 
-Sebagai contoh, @lord mendapati bahawa mempunyai visi projek membantunya mengetahui permintaan mana yang perlu diluangkan. Sebagai penyelenggara baru, dia menyesal tidak berpegang pada skop projeknya ketika dia mendapat permintaan fitur pertama untuk [Slate] (https://github.com/lord/slate).
+Sebagai contoh, @lord mendapati bahawa mempunyai visi projek membantunya mengetahui permintaan mana yang perlu diluangkan. Sebagai penyelenggara baru, dia menyesal tidak berpegang pada skop projeknya ketika dia mendapat permintaan fitur pertama untuk [Slate] (<https://github.com/lord/slate>).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
@@ -215,7 +215,7 @@ Salah satu cara terpenting untuk mengautomasikan projek anda adalah dengan menam
 
 Ujian membantu penyumbang merasa yakin bahawa mereka tidak akan merosakkan apa-apa. Mereka juga memudahkan anda menyemak dan menerima sumbangan dengan cepat. Semakin responsif anda, semakin aktif komuniti anda.
 
-Sediakan ujian automatik yang akan dijalankan pada semua sumbangan yang masuk, dan pastikan ujian anda dapat dijalankan dengan mudah secara tempatan oleh penyumbang. Wajibkan semua sumbangan kod lulus ujian anda sebelum dapat dihantar. Anda akan membantu menetapkan standard kualiti minimum untuk semua penyerahan. [Pemeriksaan status yang diperlukan] (https://help.github.com/articles/about-required-status-checks/) di GitHub dapat membantu memastikan tiada perubahan digabungkan tanpa ujian anda lulus.
+Sediakan ujian automatik yang akan dijalankan pada semua sumbangan yang masuk, dan pastikan ujian anda dapat dijalankan dengan mudah secara tempatan oleh penyumbang. Wajibkan semua sumbangan kod lulus ujian anda sebelum dapat dihantar. Anda akan membantu menetapkan standard kualiti minimum untuk semua penyerahan. [Pemeriksaan status yang diperlukan] (<https://help.github.com/articles/about-required-status-checks/>) di GitHub dapat membantu memastikan tiada perubahan digabungkan tanpa ujian anda lulus.
 
 Sekiranya anda menambahkan ujian, pastikan untuk menerangkan bagaimana ia berfungsi dalam fail CONTRIBUTING anda.
 
@@ -237,11 +237,11 @@ Terdapat [pelbagai alat tersedia](https://github.com/showcases/tools-for-open-so
 * [mention-bot](https://github.com/facebook/mention-bot) menyebut pengulas berpotensi untuk permintaan tarik
 * [Danger](https://github.com/danger/danger) membantu mengautomasikan semakan kod
 * [no-response](https://github.com/probot/no-response) menutup masalah di mana pengarang tidak menjawab permintaan untuk mendapatkan maklumat lebih lanjut
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) memeriksa fail kebergantungan anda setiap hari untuk keperluan yang ketinggalan zaman dan membuka permintaan tarikan individu untuk apa sahaja yang dijumpainya
+* [dependabot](https://github.com/dependabot) memeriksa fail kebergantungan anda setiap hari untuk keperluan yang ketinggalan zaman dan membuka permintaan tarikan individu untuk apa sahaja yang dijumpainya
 
-Fatau laporan pepijat dan sumbangan umum lain, GitHub mempunyai [Templat Masalah dan Templat Tarik Permintaan] (https://github.com/blog/2111-issue-and-pull-request-templates), yang boleh anda buat untuk melancarkan komunikasi anda terima. @TalAter membuat [Pilih panduan Pengembaraan Anda Sendiri] (https://www.talater.com/open-source-templates/#/) untuk membantu anda menulis isu dan templat PR anda.
+Fatau laporan pepijat dan sumbangan umum lain, GitHub mempunyai [Templat Masalah dan Templat Tarik Permintaan] (<https://github.com/blog/2111-issue-and-pull-request-templates>), yang boleh anda buat untuk melancarkan komunikasi anda terima. @TalAter membuat [Pilih panduan Pengembaraan Anda Sendiri] (<https://www.talater.com/open-source-templates/#/>) untuk membantu anda menulis isu dan templat PR anda.
 
-Untuk menguruskan pemberitahuan e-mel anda, anda boleh menyiapkan [penapis e-mel] (https://github.com/blog/2203-email-updates-about-your-own-activity) untuk disusun mengikut keutamaan.
+Untuk menguruskan pemberitahuan e-mel anda, anda boleh menyiapkan [penapis e-mel] (<https://github.com/blog/2203-email-updates-about-your-own-activity>) untuk disusun mengikut keutamaan.
 
 Sekiranya anda ingin mendapatkan sedikit lebih maju, panduan gaya dan pelapis dapat menyeragamkan sumbangan projek dan menjadikannya lebih mudah untuk disemak dan diterima.
 
@@ -257,7 +257,7 @@ Mungkin anda merasa terharu atau rasa takut yang semakin meningkat ketika anda m
 
 Burnout adalah masalah yang nyata dan meluas dalam kerja sumber terbuka, terutama di kalangan penyelenggara. Sebagai penjaga, kebahagiaan anda adalah syarat yang tidak dapat dirundingkan untuk kelangsungan projek sumber terbuka mana pun.
 
-Walaupun tidak boleh dikatakan, berehat sebentar! Anda tidak perlu menunggu sehingga anda merasa terbakar untuk bercuti. @brettcannon, pemaju teras Python, memutuskan untuk mengambil [percutian selama sebulan] (https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) setelah 14 tahun OSS sukarela bekerja.
+Walaupun tidak boleh dikatakan, berehat sebentar! Anda tidak perlu menunggu sehingga anda merasa terbakar untuk bercuti. @brettcannon, pemaju teras Python, memutuskan untuk mengambil [percutian selama sebulan] (<https://snarky.ca/why-i-took-october-off-from-oss-volunteering/>) setelah 14 tahun OSS sukarela bekerja.
 
 Sama seperti jenis pekerjaan lain, berehat sebentar akan membuat anda segar, gembira, dan gembira dengan pekerjaan anda.
 
@@ -265,7 +265,7 @@ Sama seperti jenis pekerjaan lain, berehat sebentar akan membuat anda segar, gem
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Dalam mengekalkan WP-CLI, saya mendapati bahawa saya harus membuat diri saya bahagia terlebih dahulu, dan menetapkan batasan yang jelas mengenai penglibatan saya. Imbangan terbaik yang saya dapati adalah 2-5 jam seminggu, sebagai sebahagian daripada jadual kerja biasa saya. Ini menjadikan penglibatan saya menjadi minat, dan daripada merasa terlalu suka bekerja. Kerana saya mengutamakan masalah yang sedang saya jalankan, saya dapat membuat kemajuan secara berkala terhadap perkara yang saya rasa paling penting.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Takziah, anda sekarang menjadi penyelenggara projek sumber terbuka yang popular"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Takziah, anda sekarang menjadi penyelenggara projek sumber terbuka yang popular"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

@@ -94,7 +94,7 @@ redirect_from: /zh-cn/best-practices/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  管理大型开源项目的关键就是保证 issue 活跃。尽量避免让 issue 停滞不前。如果你是一个IOS开发者，你会知道<abbr title="提交问题到 Apple 的 Radar bug 跟踪系统">提交雷达</abbr>是多么让人沮丧。您可能会在2年后收到回复，并被告知要再次使用最新版本的iOS。
+  管理大型开源项目的关键就是保证 issue 活跃。尽量避免让 issue 停滞不前。如果你是一个iOS开发者，你会知道<abbr title="提交问题到 Apple 的 Radar bug 跟踪系统">提交雷达</abbr>是多么让人沮丧。您可能会在2年后收到回复，并被告知要再次使用最新版本的iOS。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["开源社区黑客增长"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
@@ -255,7 +255,7 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   我是 WP-CLI 的维护者，我发现我需要首先让自己开心，在开源项目和其他事情之间设定清楚的界限。我发现最好的平衡点就是每周在日常的工作安排中花 2-5 小时在这上面。这会让我从感觉太累到保持持续的激情。因为我给我需要解决的 issue 标上了优先级，从而我能够在我认为重要的事情上有所进展。
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["我的悼文，你现在是一个非常流行的项目的维护者"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["我的悼文，你现在是一个非常流行的项目的维护者"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

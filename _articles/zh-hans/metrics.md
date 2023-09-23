@@ -85,7 +85,7 @@ redirect_from: /zh-cn/metrics/
 
 可能会经常用的衡量社区的指标包括：
 
-* **贡献者的总数和每个贡献者的提交次数：** 有多少贡献者，哪些是活跃的，哪些是不活跃。github上，你可以在"Graphs" -> "Contributors"面板查看这些信息。目前，这个图标只计算了那些往仓库默认分支推送的贡献者。
+* **贡献者的总数和每个贡献者的提交次数：** 有多少贡献者，哪些是活跃的，哪些是不活跃。GitHub上，你可以在"Graphs" -> "Contributors"面板查看这些信息。目前，这个图标只计算了那些往仓库默认分支推送的贡献者。
 
 ![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
@@ -119,7 +119,7 @@ redirect_from: /zh-cn/metrics/
 
 * 一个issue保持打开状态的时间（也就代表一个问题保持没有被解决状态的时间）。
 * 一个issue是否因为一个PR得到了解决。
-* 陈旧的iuuse是否被关闭了（被解决的问题应该关闭）。
+* 陈旧的issue是否被关闭了（被解决的问题应该关闭）。
 * 合并一个PR的时间。
 
 ## 通过统计 📊 来了解人们的习惯

@@ -10,7 +10,7 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## 왜 누군가는 재정적 지원을 찾을까
 
 대부분의 오픈소스 작업은 자원봉사입니다. 예를 들어, 누군가가 사용하는 프로젝트에서 버그를 발견하고 빠른 버그픽스를 제출하거나, 여가 시간에 오픈소스 프로젝트를 사용하여 재미있는 작업을 할 수 있습니다.
 
@@ -60,19 +60,11 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 재정 지원을 찾고 있다면, 고려해야 할 두 가지 경로가 있습니다. 기여자로서 자신의 시간을 투자하거나, 프로젝트에 대한 조직 자금을 찾을 수 있습니다.
 
-## Funding your own time
+## 당신이 들인 시간에 대한 펀딩을 받기
 
 오늘날, 많은 사람들이 오픈소스에서 파트 타임 또는 풀 타임으로 일하기 위해 돈을 받습니다. 당신의 시간에 대한 대금을 받는 가장 일반적인 방법은 고용주와 상담하는 것입니다.
 
 고용주가 프로젝트를 실제로 사용하고 오픈소스 작업에 대한 사례를 만드는 것이 더 쉽지만, 자신의 계획대로 창의력을 발휘하십시오. 어쩌면 고용주가 프로젝트를 사용하지 않고 파이썬을 이용한 인기있는 파이썬 프로젝트를 유지한다면, 새로운 파이썬 개발자를 유치할 수 있습니다. 어쩌면 고용주가 일반적으로 더 개발자 친화적인 것처럼 보일 수도 있습니다.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["메인테이너 이야기"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
 
 기존의 오픈소스 프로젝트가 없지만 현재 작업 결과물이 오픈소스인 경우, 고용주가 내부 소프트웨어의 일부를 스스로 오픈할 수 있는 사례를 작성하십시오.
 
@@ -105,7 +97,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 * @gaearon은 [Patreon crowdfunding campaign](https://redux.js.org/)을 통해 [Redux](https://github.com/reactjs/redux)에 대한 그의 작업에 펀드했습니다.
 * @andrewgodwin은 Django 스키마 마이그레이션 작업을 [Kickstarter 캠페인을 통해](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) 펀드했습니다.
 
-## Finding funding for your project
+## 당신의 프로젝트에 대한 펀딩을 찾기
 
 개인 기여자를 위한 준비 외에도, 때로는 프로젝트가 회사, 개인 또는 다른 사람들로부터 지속적인 자금 마련을 위해 펀드를 모으는 경우가 있습니다.
 
@@ -119,7 +111,6 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 스폰서 프로젝트의 몇 가지 예는 다음과 같습니다.
 
 * **[webpack](https://github.com/webpack)** 는 [OpenCollective를 통해](https://opencollective.com/webpack) 회사와 개인에게 돈을 모읍니다
-* **[Vue](https://github.com/vuejs/vue)** 는 [Patreon를 통해 펀드됩니다](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/)는,** [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) 및 기타 Ruby 인프라 프로젝트에 대한 비용을 지불하는 비영리 단체입니다.
 
 ### 수입원 만들기
@@ -143,7 +134,7 @@ I was looking for a "hobby" programming project that would keep me occupied duri
 
 보다 자세한 옵션과 사례 연구를 원할 경우, @nayafia [가이드 작성](https://github.com/nayafia/lemonade-stand)을 통해 오픈소스 저작물에 대한 대가를 받을 수 있습니다. 다른 유형의 기금에는 여러 가지 기술이 필요하기 때문에 어떤 옵션이 가장 적합한 지 알아 내려면 장점을 고려하십시오.
 
-## Building a case for financial support
+## 재정적 지원을 받기 위한 근거를 갖추기
 
 프로젝트가 새로운 아이디어이든, 수년간 지속되어 왔든 타겟 기금 제공자를 파악하고 중요한 사건을 만드는데 중요하게 고려되야합니다.
 
@@ -177,6 +168,6 @@ I was looking for a "hobby" programming project that would keep me occupied duri
   </p>
 </aside>
 
-## Experiment and don't give up
+## 시도해 보고 포기하지 마세요!
 
 오픈소스 프로젝트, 비영리 단체, 소프트웨어 스타트업 등 많은 돈을 모으는 것은 쉽지 않습니다. 대부분의 경우 창의력을 발휘해야합니다. 어떻게 돈을 받고, 연구를 하고, 재밌는 사람의 신발에 몸을 두는지를 확인하면 자금 지원에 대한 설득력있는 사례를 구축하는 데 도움이됩니다.
