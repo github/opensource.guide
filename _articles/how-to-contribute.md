@@ -501,7 +501,7 @@ If you give a polite reminder and still do not receive a response, it's possible
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it. A good example of this would be [the feedback that another contributor has given to @a-m-lamb on their pull request to Codecademy's Docs](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286). 
+When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it. A good example of this would be [the feedback that another contributor has given to @a-m-lamb on their pull request to Codecademy's Docs](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
 
 If you don't have time to work on the issue anymore due to reasons such as the conversation has been going on for months, and your circumstances have changed or you're unable to find a solution, let the maintainer know so that they can open the issue for someone else, like [@RitaDee did for an issue at OpenSauced's app repository](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 
