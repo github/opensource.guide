@@ -28,11 +28,11 @@ Enfin, votre projet peut avoir des dépendances avec des exigences de licence do
 
 ## Les projets publics GitHub sont-ils open source
 
-Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creating-a-new-repository/) sur GitHub, vous avez la possibilité de créer le repository **privée** ou **public**.
+Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creating-a-new-repository/) sur GitHub, vous avez la possibilité de créer le repository **privé** ou **public**.
 
 ![Créer un référentiel](/assets/images/legal/repo-create-name.png)
 
-**Rendre public votre projet GitHub n'est pas la même chose que la licence de votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais votre travail n'est pas autorisé.
+**Rendre public votre projet GitHub est différent d'appliquer une licence à votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais par défaut aucune permission ne leur est accordé sur votre travail.
 
 Si vous souhaitez que d'autres personnes utilisent, distribuent, modifient ou contribuent à votre projet, vous devez inclure une licence open source. Par exemple, quelqu'un ne peut légalement utiliser aucune partie de votre projet GitHub dans son code, même s'il est public, à moins que vous ne lui donniez explicitement le droit de le faire.
 
