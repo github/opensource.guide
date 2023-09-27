@@ -69,4 +69,3 @@ Ecco alcune regole che potresti voler considerare:
 ### Mantenere la comunicazione pubblica
 
 Non dimenticare di documentare anche le tue interazioni. Ovunque tu possa, mantieni la comunicazione sul tuo progetto pubblica. Se qualcuno cerca di contattarti in privato per discutere una richiesta di funzionalit&agrave; o un bisogno di supporto, indirizzalo educatamente verso un canale di comunicazione pubblico, come una mailing list o un issue tracker.
-
