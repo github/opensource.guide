@@ -36,7 +36,6 @@ Una buona documentazione invita le persone a interagire con il tuo progetto. Eve
 * **Mantieni una mentalit&agrave; aperta riguardo ai tipi di contributi che accetterai.** Molti collaboratori iniziano segnalando un errore o con una piccola correzione. Ci sono [molti modi per contribuire](../how-to-contribute/#cosa-significa-contribuire) a un progetto. Permetti alle persone di aiutare nel modo in cui vogliono aiutare.
 * **Se c'&egrave; qualche contributo con cui non sei d'accordo,** ringrazialo per la sua idea e [spiega perch&eacute;](../best-practices/#imparando-a-dire-no) non si adatta all'ambito del progetto, collegando la documentazione pertinente se ne hai.
 
-
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Contribuir con codigo abierto es mas facil para algunos que para otros. Hay mucho miedo de recibir un alarido por no haber hecho algo bien o simplemente por no encajar. (...) Al dar a los colaboradores un lugar para contribuir con aspectos de muy baja competencia tecnica (documentacion, reduccion del contenido web, etc) puedes ayudar a reducir esas preocupaciones significativamente.
