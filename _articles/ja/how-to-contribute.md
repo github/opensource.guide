@@ -207,7 +207,6 @@ README を読んで、壊れたリンクやタイポを見つけるかもしれ�
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
