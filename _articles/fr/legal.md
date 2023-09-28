@@ -28,11 +28,11 @@ Enfin, votre projet peut avoir des dépendances avec des exigences de licence do
 
 ## Les projets publics GitHub sont-ils open source
 
-Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creating-a-new-repository/) sur GitHub, vous avez la possibilité de créer le repository **privée** ou **public**.
+Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creating-a-new-repository/) sur GitHub, vous avez la possibilité de créer le repository **privé** ou **public**.
 
 ![Créer un référentiel](/assets/images/legal/repo-create-name.png)
 
-**Rendre public votre projet GitHub n'est pas la même chose que la licence de votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais votre travail n'est pas autorisé.
+**Rendre public votre projet GitHub est différent d'appliquer une licence à votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais par défaut aucune permission ne leur est accordé sur votre travail.
 
 Si vous souhaitez que d'autres personnes utilisent, distribuent, modifient ou contribuent à votre projet, vous devez inclure une licence open source. Par exemple, quelqu'un ne peut légalement utiliser aucune partie de votre projet GitHub dans son code, même s'il est public, à moins que vous ne lui donniez explicitement le droit de le faire.
 
@@ -117,7 +117,7 @@ Si vous publiez un projet open source en tant qu'employé de l'entreprise, votre
 
 Pour le meilleur ou pour le pire, envisagez de les informer même s'il s'agit d'un projet personnel. Vous avez probablement avec votre entreprise un "accord IP d'employé" qui lui donne un certain contrôle sur vos projets, surtout s'ils sont liés à l'activité de l'entreprise ou si vous utilisez les ressources de l'entreprise pour développer le projet. Votre entreprise _devrait_ vous donner facilement la permission, et peut-être déjà à travers un accord de propriété intellectuelle favorable aux employés ou une politique d'entreprise. Sinon, vous pouvez négocier (par exemple, expliquer que votre projet répond aux objectifs d'apprentissage et de développement professionnel de l'entreprise pour vous), ou éviter de travailler sur votre projet jusqu'à ce que vous trouviez une meilleure entreprise.
 
-**Si vous êtes ouvrez la source d'un projet pour votre entreprise**, alors faites-le savoir. Votre équipe juridique a sans doute déjà des politiques de quelle licence open source (et peut-être un accord de contribution supplémentaire) à utiliser en fonction des besoins d'affaires de l'entreprise et de l'expertise assurant autour de votre projet est conforme aux licences de ses dépendances. Sinon, vous et ils ont de la chance! Votre équipe juridique devrait être impatiente de travailler avec vous pour comprendre ces choses. Quelques points à penser:
+**Si vous ouvrez la source d'un projet pour votre entreprise**, alors faites-le savoir. Votre équipe juridique a sans doute déjà des politiques de quelle licence open source (et peut-être un accord de contribution supplémentaire) à utiliser en fonction des besoins d'affaires de l'entreprise et de l'expertise assurant autour de votre projet est conforme aux licences de ses dépendances. Sinon, vous et ils ont de la chance! Votre équipe juridique devrait être impatiente de travailler avec vous pour comprendre ces choses. Quelques points à penser:
 
 * **Matériel de tiers :** Votre projet a-t-il des dépendances créées par d'autres ou inclut ou utilise le code d'autres personnes ? Si ceux-ci sont open source, vous devrez vous conformer aux licences open source des matériaux. Cela commence par choisir une licence qui fonctionne avec les licences open source tierces (voir ci-dessus). Si votre projet modifie ou distribue du matériel Open Source tiers, votre équipe juridique voudra également savoir que vous remplissez d'autres conditions des licences Open Source tierces, telles que la conservation des avis de copyright. Si votre projet utilise le code d'autres personnes n'ayant pas de licence Open Source, vous devrez probablement demander aux responsables de la maintenance tiers d'[ajouter une licence Open Source](https://choosealicense.com/no-license/#for-users), et si vous ne pouvez pas en obtenir un, arrêtez d'utiliser leur code dans votre projet.
 
@@ -143,7 +143,7 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
   </p>
 </aside>
 
-* **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investis dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
+* **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investie dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
 * **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
 
 <aside markdown="1" class="pquote">
@@ -153,5 +153,5 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
   </p>
 </aside>
 
-* **Brevets :** Votre entreprise voudra peut-être rejoindre le [Open Invention Network](https://www.openinventionnetwork.com/), un pool de brevets défensif partagé pour protéger l'utilisation de projets open source majeurs par les membres, ou explorer autre [licence alternative de brevet](https://www.eff.org/document/hacking-patent-system-2016).
+* **Brevets :** Votre entreprise voudra peut-être rejoindre le [Open Invention Network](https://www.openinventionnetwork.com/), un pool de brevets défensif partagé pour protéger l'utilisation de projets open source majeurs par les membres, ou explorer une autre [licence alternative de brevet](https://www.eff.org/document/hacking-patent-system-2016).
 * **Gouvernance :** Surtout si et quand il est logique de transférer un projet à une [entité juridique extérieure à l'entreprise](../leadership-and-governance/#ai-je-besoin-dune-entit&eacute;-l&eacute;gale-pour-soutenir-mon-projet).
