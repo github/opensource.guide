@@ -475,7 +475,7 @@ Tips for communicating on issues:
 
 You should usually open a pull request in the following situations:
 
-* Submit small fixes such a typo, a broken link or an obvious error.
+* Submit small fixes such as a typo, a broken link or an obvious error.
 * Start work on a contribution that was already asked for, or that you've already discussed, in an issue.
 
 A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just open it as a "draft" or mark as a "WIP" (Work in Progress) in the subject line or "Notes to Reviewers" sections if provided (or you can just create your own. Like this: `**## Notes to Reviewer**`). You can always add more commits later.
