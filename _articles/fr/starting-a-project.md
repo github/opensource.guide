@@ -290,7 +290,7 @@ Prêt à lancer votre projet open source ? Voici une checklist pour vous aider. 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    La liste des problèmes est à jour, avec des problèmes clairement organisés et labelisés
+    La liste des problèmes est à jour, avec des problèmes clairement organisés et labellisés
   </label>
 </div>
 
