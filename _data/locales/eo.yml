@@ -1,0 +1,31 @@
+eo:
+  locale_name: Esperanto
+  nav:
+    about: Pri
+    contribute: Kontribuu
+  index:
+    lead: Libera programaro fariĝis de personoj ĵus kiel vi. Lernu kiel lanĉi kaj kreski vian projekton.
+    opensourcefriday: Ĝi estas vendredo! Investi kelkajn horon kontrubi al la programaroj ke vi uzas kaj amas
+  article:
+    table_of_contents: Enhavotabelo 
+    back_to_all_guides: Revenu al ĉiuj manlibroj
+    related_guides: Rilata manlibroj
+  footer:
+    contribute:
+      heading: Kontribuu
+      description: Ĉu vi volas sugesti ion? Ĉi tiu enhavo estas libera. Helpu nin plibonigas ĝin.
+      button: Kontribuu
+    subscribe:
+      heading: Resti informita
+      description: Estu unuan personoj aŭdi pri la freŝaj malfermitkoda konsiletoj kaj resursoj el GitHub.
+      label: Retpoŝtadreso 
+      button: Abonu
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] kun [love] de [github] kaj [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: friends
