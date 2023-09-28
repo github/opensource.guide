@@ -24,8 +24,8 @@ $section_translation: (
         "ru": "",
         "ta": "",
         "tr": "",
-        "zh-hant": "",
-        "zh-hans": "",
+        "zh-hant": "章節",
+        "zh-hans": "章节",
 );
 
 @each $locale, $translation in $section_translation {
