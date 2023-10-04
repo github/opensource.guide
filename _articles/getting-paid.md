@@ -117,6 +117,9 @@ A few examples of sponsored projects include:
 
 * **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
 * **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[Appwrite ](https://github.com/appwrite)** raises money from sponsors <br>
+
+> Interested in Crowdfunding? Read it [here](https://www.investopedia.com/terms/c/crowdfunding.asp) 😉
 
 ### Create a revenue stream
 
@@ -141,9 +144,9 @@ For more detailed options and case studies, @nayafia [wrote a guide](https://git
 
 ## Building a case for financial support
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Whether your project is a new idea or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Whether you're looking to pay for your own time or fundraise for a project, you should be able to answer the following questions.
 
 ### Impact
 
@@ -176,3 +179,19 @@ Does the funder have any requirements around disbursal? For example, you may nee
 ## Experiment and don't give up
 
 Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+
+
+<br>
+
+
+
+
+### For your read
+
+[Article on Forbes](https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/?sh=73d44e534fd4)
+
+
+[Article on Cult](https://cult.honeypot.io/reads/6-ways-you-make-money-as-an-open-source-business/)
+
+
+[from UNICEF](https://www.unicef.org/innovation/media/206/file/Open%20Source%20Business%20Model.pdf) 
