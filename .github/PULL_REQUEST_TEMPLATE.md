@@ -1,3 +1,5 @@
+<h1> Checklist before initiating a Pull Request </h1>
+
 - [ ] Have you followed the [contributing guidelines](https://github.com/github/opensource.guide/blob/HEAD/CONTRIBUTING.md)?
 - [ ] Have you explained what your changes do, and why they add value to the Guides?
 
