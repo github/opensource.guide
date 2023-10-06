@@ -1,16 +1,16 @@
 ---
 lang: de
-untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+untranslated: false
+title: Balance für Open-Source-Maintainer halten
+description: Tipps zur Selbsthilfe und zur Vermeidung von Burnout als Maintainer.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+Wenn ein Open-Source-Projekt immer beliebter wird, ist es wichtig, sich klare Grenzen zu setzen, um die Balance zu halten, damit man auf lange Sicht motiviert und produktiv bleibt. 
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+Um Einblicke in die Erfahrungen von Maintainern und ihre Strategien, eine Balance zu finden, zu gewinnen, haben wir einen Workshop mit 40 Mitgliedern der <a href="http://maintainers.github.com/">Maintainer-Community</a> durchgeführt. So konnten wir aus erster Hand von ihren Erfahrungen mit Burnout in der Open-Source-Branche und den Praktiken lernen, die ihnen geholfen haben, bei ihrer Arbeit eine Balance zu halten. An dieser Stelle kommt das Konzept der persönlichen Ökologie ins Spiel.
 
 So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
 
@@ -22,25 +22,25 @@ So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprof
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+Indem sie sich mit dem Konzept der persönlichen Ökologie vertraut machen, können Maintainer Burnout vorbeugen, der eigenen Gesundheit Priorität einräumen und ein Gefühl der Ausgeglichenheit bewahren, um ihre Bestleistung zu erbringen.
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## Tipps zur Selbsthilfe und zur Vorbeugung von Burnout als Maintainer:
 
-### Identify your motivations for working in open source
+### Erkennen Sie Ihre Motivation für Open-Source-Arbeit
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+Nehmen Sie sich Zeit, darüber nachzudenken, was Sie an der Pflege von Open-Source-Projekten reizt. Wenn Sie Ihre Motivationen verstehen, können Sie die Arbeit so priorisieren, dass Sie engagiert und bereit für neue Herausforderungen bleiben. Ob es das positive Feedback der Benutzer ist, die Freude an der Zusammenarbeit und am Austausch mit der Gemeinschaft oder die Befriedigung, in den Code einzutauchen - das Erkennen Ihrer Motivationen kann Ihnen helfen, Ihren Fokus zu richten.
 
-### Reflect on what causes you to get out of balance and stressed out
+### Überlegen Sie, was Sie aus dem Gleichgewicht und in Stress bringt
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+Es ist wichtig zu verstehen, was die Ursachen für Burnout sind. Hier sind ein paar gemeinsame Ursachen, die wir bei Open-Source-Betreuern festgestellt haben:
 
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **Mangel an positivem Feedback:** Nutzer sind viel eher bereit, Beschwerden zu äußern, wenn sie ein Problem haben. Wenn alles gut läuft, schweigen sie eher. Es kann entmutigend sein, eine wachsende Liste von Problemen zu sehen, ohne positives Feedback, das zeigt, wie Ihre Beiträge etwas bewirken.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
-  Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
+  Manchmal fühlt es sich so an, als würde man ins Leere schreien, und ich finde, dass mich dieses Feedback wirklich anspornt. Wir haben viele glückliche, aber stille Nutzer.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
+— <a href="https://github.com/thisisnic">@thisisnic</a>, Maintainer von Apache Arrow
   </p>
 </aside>
 
