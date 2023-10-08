@@ -16,9 +16,9 @@ So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprof
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
-  I was unable to focus or start on a task. I had a lack of empathy for users.
+  Ich war nicht in der Lage, mich zu konzentrieren oder mit einer Aufgabe zu beginnen. Mir fehlte es an Empathie für die Benutzer.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, Maintainer des Owncast Live-Streaming-Servers, über die Folgen von Burnout auf seine Arbeit mit Open Source
   </p>
 </aside>
 
@@ -44,17 +44,17 @@ Es ist wichtig zu verstehen, was die Ursachen für Burnout sind. Hier sind ein p
   </p>
 </aside>
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **Nicht "Nein" sagen:** Es kann leicht passieren, dass man bei einem Open-Source-Projekt mehr Verantwortung übernimmt, als man sollte. Ob von Nutzern, Mitwirkenden oder anderen Betreuern - wir können nicht immer ihren Erwartungen gerecht werden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
+  Ich stellte fest, dass ich mehr als eine Aufgabe übernehmen und die Arbeit mehrerer Personen erledigen musste, wie es bei FOSS üblich ist.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
+— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, Maintainer von Termux, über die Ursachen von Burnout bei seiner Arbeit
   </p>
 </aside>
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **Alleine arbeiten:** Ein Maintainer zu sein, kann unglaublich einsam sein. Selbst wenn Sie mit einer Gruppe von Betreuern zusammenarbeiten, war es in den letzten Jahren schwierig, sich persönlich mit zerstreuten Teams zu treffen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
