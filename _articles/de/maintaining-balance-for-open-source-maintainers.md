@@ -58,44 +58,44 @@ Es ist wichtig zu verstehen, was die Ursachen für Burnout sind. Hier sind ein p
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
+ Vor allem seit Corona und der Arbeit von zu Hause aus ist es schwieriger, nie jemanden zu sehen oder mit jemandem zu sprechen.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, Maintainer des Owncast Live-Streaming-Servers, über die Folgen von Burnout auf seine Open-Source-Arbeit
   </p>
 </aside>
 
-* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+* **Nicht genug Zeit oder Ressourcen:** Dies gilt insbesondere für freiwillige Maintainer, die ihre Freizeit für die Arbeit an einem Projekt opfern müssen.
 
 <aside markdown="1" class="pquote">
-  [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
+  [Ich hätte gerne] mehr finanzielle Unterstützung, sodass ich mich auf die Open-Source-Arbeit konzentrieren kann, ohne mein Erspartes aufzubrauchen und zu wissen, dass ich später eine Menge Auftragsarbeiten erledigen muss, um das zu kompensieren.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— Open-Source-Maintainer
   </p>
 </aside>
 
-* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **Unterschiedliche Forderungen:**  Open Source ist voll von Gruppen mit unterschiedlichen Motivationen, die schwer zu durchschauen sind. Wenn Sie für Ihre Arbeit an Open Source bezahlt werden, können die Interessen Ihres Arbeitgebers manchmal mit denen der Community kollidieren.
 
 <aside markdown="1" class="pquote">
-  With paid open source, conflict between employer's focus and what's best for the community
+  Bei kommerziellen Produkten mit offenem Quellcode besteht ein Konflikt zwischen den Interessen des Arbeitgebers und dem, was das Beste für die Gemeinschaft ist
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— Open-Source-Maintainer
   </p>
 </aside>
 
-### Watch out for signs of burnout
+### Halte Ausschau nach Zeichen für Burnout
 
-Can you keep up your pace for 10 weeks? 10 months? 10 years?
+Können Sie Ihr Tempo 10 Wochen lang beibehalten? 10 Monate? 10 Jahre?
 
 There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla's [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
 
 <aside markdown="1" class="pquote">
- I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
+ Ich bin ein großer Befürworter von guten Wearables. Mit der Wissenschaft dahinter kann man verstehen, was man hätte besser machen können und wie man seine Ziele optimal erreichen kann.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— Open-Source-Maintainer
   </p>
 </aside>
 
-### What would you need to continue sustaining yourself and your community?
+### Was brauchen Sie, um sich und Ihre Gemeinschaft weiterhin zu erhalten?
 
 This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
 
