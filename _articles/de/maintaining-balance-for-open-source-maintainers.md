@@ -97,19 +97,19 @@ There are tools like the [Burnout Checklist](https://governingopen.com/resources
 
 ### Was brauchen Sie, um sich und Ihre Gemeinschaft weiterhin zu erhalten?
 
-This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
+Dies wird für jeden Betreuer unterschiedlich sein und sich je nach Lebensphase und anderen äußeren Faktoren ändern. Aber hier sind ein paar Aspekte, die wir gehört haben:
 
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
+* **Vertrauen Sie der Community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
 
-  You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
+  Sie können auch nach Möglichkeiten suchen, mit der Nutzergemeinde in Kontakt zu treten, damit Sie regelmäßig Feedback erhalten und die Auswirkungen Ihrer Open-Source-Arbeit verstehen.
 
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **Finanzierung erforschen:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
- I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
+ Ich war vor einiger Zeit in einem Podcast und wir sprachen über die Instandhaltung von Open Source und Nachhaltigkeit. Ich fand, dass selbst eine kleine Anzahl von Leuten, die meine Arbeit auf GitHub unterstützen, mir geholfen hat, eine schnelle Entscheidung zu treffen, nicht vor einem Spiel zu sitzen, sondern stattdessen eine kleine Sache mit Open Source zu machen.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
+— <a href="https://github.com/mansona">@mansona</a>, Maintainer von EmberJS
   </p>
 </aside>
 
@@ -118,13 +118,13 @@ This will look different for each maintainer, and will change depending on your 
 <aside markdown="1" class="pquote">
  Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— Open-Source-Maintainer
   </p>
 </aside>
 
 * **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
 
-  If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
+  Wenn Ihnen bestimmte Aspekte Ihres Projekts besonders viel Spaß machen, versuchen Sie, Ihre Arbeit so zu strukturieren, dass Sie sie während des Tages erleben können.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
