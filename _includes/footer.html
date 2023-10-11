@@ -1,5 +1,6 @@
 {% assign t = site.data.locales[page.lang][page.lang] %}
-<button id="scrollToTopButton" title="Go to top">Scroll to Top</button>
+
+<button id="scrollToTop" title="Go to top">Scroll to Top</button>
 <footer class="bg-white border-top text-center pt-5">
   <div class="container-lg p-responsive mx-auto">
 
@@ -36,8 +37,8 @@
                     class="form-input required email d-block col-10 mx-auto py-2 px-3 mb-3" id="mce-EMAIL"
                     autocomplete="home email">
                   <input type="checkbox" value="1" name="group[9617][1]" id="mce-group[9617]-9617-0" checked="checked"
-                    style="display:none">
-                  <input type="submit" value="{{ t.footer.subscribe.button }}" name="subscribe"
+                    style="display:none
+                  <input type="submit" value="{{ t.footer.subscribe.button }}" name="Subscribe"
                     id="mc-embedded-subscribe" class="btn btn-outline">
                 </div>
                 <div id="mce-responses" class="clear">
