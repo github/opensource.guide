@@ -10,7 +10,7 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## Unveiling the Essence: Understanding the "What" and "Why" of Open Source
 
 So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
 
