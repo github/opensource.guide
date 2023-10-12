@@ -12,7 +12,7 @@ Wenn ein Open-Source-Projekt immer beliebter wird, ist es wichtig, sich klare Gr
 
 Um Einblicke in die Erfahrungen von Maintainern und ihre Strategien, eine Balance zu finden, zu gewinnen, haben wir einen Workshop mit 40 Mitgliedern der <a href="http://maintainers.github.com/">Maintainer-Community</a> durchgeführt. So konnten wir aus erster Hand von ihren Erfahrungen mit Burnout in der Open-Source-Branche und den Praktiken lernen, die ihnen geholfen haben, bei ihrer Arbeit eine Balance zu halten. An dieser Stelle kommt das Konzept der persönlichen Ökologie ins Spiel.
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+Was also ist persönliche Ökologie? <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">Laut dem Rockwood Leadership Institute</a> geht es darum, "<strong>das Gleichgewicht, das Tempo und die Effizienz aufrechtzuerhalten, um unsere Energie ein Leben lang zu erhalten</strong>." Dies gab unseren Gesprächen einen Rahmen und half den Maintainern, ihre Beiträge als Teil eines größeren Ökosystems zu erkennen, das sich im Laufe der Zeit weiterentwickelt. Burnout, ein Syndrom, das aus chronischem Stress am Arbeitsplatz resultiert, wie [von der WHO definiert](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), ist unter Maintainern keine Seltenheit. Dies führt oft zu einem Motivationsverlust, einer Unfähigkeit, sich zu konzentrieren, und einem Mangel an Empathie für die Mitwirkenden und die Community, mit der man arbeitet.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -67,7 +67,7 @@ Es ist wichtig zu verstehen, was die Ursachen für Burnout sind. Hier sind ein p
 * **Nicht genug Zeit oder Ressourcen:** Dies gilt insbesondere für freiwillige Maintainer, die ihre Freizeit für die Arbeit an einem Projekt opfern müssen.
 
 <aside markdown="1" class="pquote">
-  [Ich hätte gerne] mehr finanzielle Unterstützung, sodass ich mich auf die Open-Source-Arbeit konzentrieren kann, ohne mein Erspartes aufzubrauchen und zu wissen, dass ich später eine Menge Auftragsarbeiten erledigen muss, um das zu kompensieren.
+  Ich hätte gerne mehr finanzielle Unterstützung, sodass ich mich auf die Open-Source-Arbeit konzentrieren kann, ohne mein Erspartes aufzubrauchen und zu wissen, dass ich später eine Menge Auftragsarbeiten erledigen muss, um das zu kompensieren.
   <p markdown="1" class="pquote-credit">
 — Open-Source-Maintainer
   </p>
@@ -86,7 +86,7 @@ Es ist wichtig zu verstehen, was die Ursachen für Burnout sind. Hier sind ein p
 
 Können Sie Ihr Tempo 10 Wochen lang beibehalten? 10 Monate? 10 Jahre?
 
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla's [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
+Es gibt Tools wie die [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) von [@shaunagm](https://github.com/shaunagm) und Mozillas [Personal Ecology Self-Assessment Kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), die Ihnen dabei helfen können, Ihr aktuelles Tempo zu reflektieren und zu sehen, ob Sie Anpassungen vornehmen können. Einige Betreuer verwenden auch Wearables, um Messwerte wie Schlafqualität und Herzfrequenzvariabilität (die beide mit Stress in Verbindung stehen) zu verfolgen.
 
 <aside markdown="1" class="pquote">
  Ich bin ein großer Befürworter von guten Wearables. Mit der Wissenschaft dahinter kann man verstehen, was man hätte besser machen können und wie man seine Ziele optimal erreichen kann.
@@ -113,10 +113,10 @@ Dies wird für jeden Betreuer unterschiedlich sein und sich je nach Lebensphase 
   </p>
 </aside>
 
-* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **Tools einsetzen:** Entdecken Sie Tools wie [GitHub Copilot](https://github.com/features/copilot/) und [GitHub Actions](https://github.com/features/actions), um alltägliche Aufgaben zu automatisieren und Zeit für sinnvollere Beiträge zu gewinnen.
 
 <aside markdown="1" class="pquote">
- Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
+ Verwenden Sie [Copilot](https://github.com/features/copilot/) für die langweiligen Dinge - machen Sie die Dinge, die Ihnen Spaß machen
   <p markdown="1" class="pquote-credit">
 — Open-Source-Maintainer
   </p>
