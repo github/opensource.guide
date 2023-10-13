@@ -122,49 +122,49 @@ Dies wird für jeden Betreuer unterschiedlich sein und sich je nach Lebensphase 
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
+* **Ausruhen und regenerieren:** Nehmen Sie sich Zeit für Ihre Hobbys und Interessen außerhalb von Open Source. Nehmen Sie sich am Wochenende frei, um sich zu entspannen und zu erholen - und stellen Sie Ihren [GitHub-Status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) so ein, dass er Ihre Verfügbarkeit widerspiegelt! Erholsamer Schlaf kann einen großen Unterschied machen, wenn es darum geht, Ihre Leistung langfristig aufrechtzuerhalten.
 
   Wenn Ihnen bestimmte Aspekte Ihres Projekts besonders viel Spaß machen, versuchen Sie, Ihre Arbeit so zu strukturieren, dass Sie sie während des Tages erleben können.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
+ Ich finde mehr Zeit, um "kreative Momente" in den Tag zu bringen, als dass ich versuche, am Abend abzuschalten.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
+— <a href="https://github.com/danielroe">@danielroe</a>, Maintainer von Nuxt
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **Grenzen setzen:** Sie können nicht zu jeder Anfrage Ja sagen. Das kann so einfach sein, wie zu sagen: "Das kann ich im Moment nicht machen und ich habe auch nicht vor, es in Zukunft zu machen", oder in der README aufzulisten, was Sie gerne machen würden und was nicht. Sie könnten zum Beispiel sagen: "Ich führe nur PRs zusammen, die eine klare Begründung haben, warum sie gemacht wurden", oder "Ich überprüfe Probleme nur abwechselnd donnerstags von 18 - 19 Uhr". Das setzt Erwartungen für andere und gibt Ihnen etwas, auf das Sie zu anderen Zeiten verweisen können, um Forderungen von Mitwirkenden oder Benutzern nach Ihrer Zeit zu deeskalieren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
+Um auf diesen Säulen wirklich vertrauen zu können, darf man nicht zu jeder Anfrage Ja sagen. Wenn Sie das tun, halten Sie sich weder beruflich noch persönlich an Grenzen und werden kein verlässlicher Mitarbeiter sein.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
+— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, Maintainer von Homebrew zum [Nein-Sagen](https://mikemcquaid.com/saying-no/)
   </p>
 </aside>
 
-  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+  Lernen Sie, giftiges Verhalten und negative Interaktionen konsequent zu unterbinden. Es ist in Ordnung, keine Energie für Dinge aufzuwenden, die Ihnen egal sind.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-My software is gratis, but my time and attention is not.
+Meine Software ist gratis, aber meine Zeit und Aufmerksamkeit sind es nicht.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
+— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, Maintainer von Leaflet
   </p>
 </aside>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.  
+Es ist kein Geheimnis, dass die Entwicklung von Open-Source-Projekten auch ihre Schattenseiten hat, und eine davon ist, dass man manchmal mit undankbaren, überheblichen oder regelrecht toxischen Leuten interagieren muss. Mit zunehmender Popularität eines Projekts steigt auch die Häufigkeit dieser Interaktion, was die Belastung der Maintainer erhöht und möglicherweise zu einem bedeutenden Risikofaktor für ein Burnout der Maintainer wird.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+— <a href="https://github.com/foosel">@foosel</a>, Maintainer von Octoprint zu [Umgang mit toxischen Leuten](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
 </aside>
 
-Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
+Denken Sie daran, dass persönliche Ökologie eine fortlaufende Praxis ist, die sich im Laufe Ihrer Open-Source-Reise weiterentwickeln wird. Indem Sie Ihre Selbstfürsorge in den Vordergrund stellen und ein Gleichgewicht aufrechterhalten, können Sie einen effektiven und nachhaltigen Beitrag zur Open-Source-Gemeinschaft leisten und sowohl Ihr Wohlbefinden als auch den Erfolg Ihrer Projekte auf lange Sicht sicherstellen.
 
-## Additional Resources
+## Weitere Artikel
 
 * [Maintainer Community](http://maintainers.github.com/)
 * [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
@@ -177,11 +177,11 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
 * Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
 
-## Contributors
+## Mitwirkende
 
-Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+Vielen Dank an alle Maintainer, die uns ihre Erfahrungen und Tipps für diesen Leitfaden zur Verfügung gestellt haben!
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from: 
+Dieser Leitfaden wurde von [@abbycabs](https://github.com/abbycabs) geschrieben mit Beiträgen von: 
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
@@ -218,4 +218,5 @@ This guide was written by [@abbycabs](https://github.com/abbycabs) with contribu
 [@thisisnic](https://github.com/thisisnic)
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
-[@waldyrious](https://github.com/waldyrious) + many others!
+[@waldyrious](https://github.com/waldyrious)
+[@WebSnke(https://github.com/WebSnke)] + vielen anderen!
