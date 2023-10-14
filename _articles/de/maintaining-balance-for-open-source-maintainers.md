@@ -219,4 +219,4 @@ Dieser Leitfaden wurde von [@abbycabs](https://github.com/abbycabs) geschrieben 
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
 [@waldyrious](https://github.com/waldyrious)
-[@WebSnke(https://github.com/WebSnke)] + vielen anderen!
+[@WebSnke](https://github.com/WebSnke) + vielen anderen!
