@@ -10,9 +10,9 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 当一个开源项目越来越受欢迎时，设定清晰的边界来帮助您长时间保持活力和生产力就变得尤为重要了。
 
-为了深入了解维护者的经验及他们如何找到工作平衡，我们与<a href="http://maintainers.github.com/">维护者社区</a>的 40 名成员举办了一个 workshop。通过这样的方式，我们得以学习到他们在开源领域所经历的疲劳过度的第一手情况，以及他们采取了哪些实践来在工作中维持平衡。这正是“个人生态学”概念得以应用的场景。
+为了深入了解维护者的经验及他们如何找到工作平衡，我们与<a href="http://maintainers.github.com/">维护者社区</a>的 40 名成员举办了一个 workshop。通过这样的方式，我们得以学习到他们在开源领域所经历的疲劳过度的第一手情况，以及他们采取了哪些实践来在工作中维持平衡。这正是"个人生态学"概念得以应用的场景。
 
-那么，个人生态学是什么？根据 <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">Rockwood Leadership Institute 的描述</a>，它是“<strong>在我们的一生中，维持平衡、节奏和效率以保持能量</strong>”。这种观点为我们的交流提供了一个结构，帮助维护者意识到随时间发展，他们的行为和贡献是一个更大的生态系统中的组成部分。根据[世卫组织的定义](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281)，由长时间的工作压力引起的综合症状，即“疲劳过度”，在维护者中并不罕见。这常常会导致失去工作动力、无法集中精力，以及对与之合作的贡献者和社区感到缺乏同情和理解。
+那么，个人生态学是什么？根据 <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">Rockwood Leadership Institute 的描述</a>，它是"<strong>在我们的一生中，维持平衡、节奏和效率以保持能量</strong>”。这种观点为我们的交流提供了一个结构，帮助维护者意识到随时间发展，他们的行为和贡献是一个更大的生态系统中的组成部分。根据[世卫组织的定义](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281)，由长时间的工作压力引起的综合症状，即"疲劳过度"，在维护者中并不罕见。这常常会导致失去工作动力、无法集中精力，以及对与之合作的贡献者和社区感到缺乏同情和理解。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -128,17 +128,17 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
-我发现在一天当中找到更多机会去散播“创意时刻”比起在晚上尝试放松更为有益。
+我发现在一天当中找到更多机会去散播"创意时刻"比起在晚上尝试放松更为有益。
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>，Nuxt 的维护者
   </p>
 </aside>
 
-* **设定界限：** 您不能对每个请求都回应“好”。您可以简单地回答：“我现在做不到，而且未来可能也不会这么做。”或者在 README 中明确列出您愿意做和不愿意做的事情。例如，您可以写：“我只会合并那些清晰解释了为何创建的 PR。”或者，“我只在每两周的星期四的6-7点审查问题。”这样可以为他人设定预期，并在其他时间为您提供一个可以参考的依据，从而减少贡献者或用户对您时间的要求。
+* **设定界限：** 您不能对每个请求都回应"好"。您可以简单地回答："我现在做不到，而且未来可能也不会这么做。"或者在 README 中明确列出您愿意做和不愿意做的事情。例如，您可以写："我只会合并那些清晰解释了为何创建的 PR。”或者，"我只在每两周的星期四的6-7点审查问题。”这样可以为他人设定预期，并在其他时间为您提供一个可以参考的依据，从而减少贡献者或用户对您时间的要求。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-为了在这些方面真正赢得他人的信任，你不能是一个对每个请求都说“是”的人。这样做意味着你没有设定职业和个人的界限，也难以成为一个可靠的合作伙伴。
+为了在这些方面真正赢得他人的信任，你不能是一个对每个请求都说"是"的人。这样做意味着你没有设定职业和个人的界限，也难以成为一个可靠的合作伙伴。
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>，Homebrew 的维护者在 [Saying No](https://mikemcquaid.com/saying-no/) 上
   </p>
@@ -173,9 +173,9 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * [SustainOSS](https://sustainoss.org/)
 * [个人生态自评工具包](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
 * [Rockwood领导艺术](https://rockwoodleadership.org/art-of-leadership/)
-* [说“不”](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
+* [说"不"](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop 议程改编自 [Mozilla’s Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) 系列活动
+* Workshop 议程改编自 [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) 系列活动
 
 ## 贡献者
 
