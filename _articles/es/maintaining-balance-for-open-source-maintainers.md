@@ -219,4 +219,4 @@ Esta guía fue escrita por [@abbycabs](https://github.com/abbycabs) con contribu
 [@thisisnic](https://github.com/thisisnic)
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
-[@waldyrious](https://github.com/waldyrious) + many others!
+[@waldyrious](https://github.com/waldyrious) + muchos más!
