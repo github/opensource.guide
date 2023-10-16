@@ -183,7 +183,6 @@ Recuerda, la ecología personal es una práctica continua que evolucionará a me
 
 Esta guía fue escrita por [@abbycabs](https://github.com/abbycabs) con contribuciones de:
 
-
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
 [@antfu](https://github.com/antfu)
