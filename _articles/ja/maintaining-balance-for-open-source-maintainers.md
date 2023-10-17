@@ -33,7 +33,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ### バランスを崩し、ストレスを感じる原因を振り返る
 
 燃え尽きてしまう原因を理解することは重要です。オープンソースのメンテナーの間で見られるいくつかの共通のテーマは以下の通りです。
-* **肯定的なフィードバックの欠如:** ユーザーは苦情があるときに接触する可能性が高いです。全てが順調に進んでいる場合、ユーザーは黙っている傾向があります。あなたの貢献がどのような変化をもたらしているかを示すポジティブなフィードバックないまま、問題のリストが増えていくのを見るのは、がっかりするでしょう。
+* **肯定的なフィードバックの欠如:** ユーザーは苦情があるときに接触する可能性が高いです。全てが順調に進んでいる場合、ユーザーは黙っている傾向があります。あなたの貢献がどのような変化をもたらしているかを示すポジティブなフィードバックがないまま、問題のリストが増えていくのを見るのは、がっかりするでしょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
@@ -53,7 +53,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-* **一人での作業:** メンテナーであることは非常に孤独です。例え同じメンテナーのグループで働いていたとしても、ここ数年、分散チームを直接集めるのは難しくなっている。
+* **一人での作業:** メンテナーであることは非常に孤独です。例え同じメンテナーのグループで働いていたとしても、ここ数年、分散チームを直接集めるのは難しくなっています。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -66,7 +66,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * **時間やリソースの不足:** これは特にプロジェクトに取り組むために自分の自由な時間を犠牲にしなければならないボランティアのメンテナーにとって特に当てはまります。
 
 <aside markdown="1" class="pquote">
-  もっと経済的なサポートが欲しい。それによって私の貯金を使い果たさずに、後でそれを補うための多くの契約をする必要がなく、オープンソースの作業に専念できるのに。
+私はもっと経済的なサポートが欲しいのです。そうすれば、私の貯金を使い果たすことなくオープンソースの仕事に専念でき、後に多くの契約業務を行って補わなければならないというプレッシャーも感じずに済みます。
   <p markdown="1" class="pquote-credit">
 — オープンソースのメンテナー
   </p>
@@ -75,7 +75,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * **矛盾する要求:**  オープンソースは様々な動機を持ったグループで溢れており、その間を行き来するのは難しいことがあります。オープンソースの仕事で給料をもらっている場合、雇用主の利益はコミュニティの利益と対立することがあります。
 
 <aside markdown="1" class="pquote">
-  有料のオープンソースでは、雇用主が重視するものとコミュニティにとっての最善のものとの間に葛藤が生じる。
+  有料のオープンソースでは、雇用主が重視するものとコミュニティにとっての最善のものとの間に葛藤が生じます。
   <p markdown="1" class="pquote-credit">
 — オープンソースのメンテナー
   </p>
@@ -96,18 +96,17 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 ### 自分自身とコミュニティを維持し続けるためには何が必要だろうか？
 
-これは各メンテナーによって異なるだろうし、生活の段階や外部要因によって変わるでしょう。しかし、以下は私たちが耳にしたいくつかのテーマです：
+これは各メンテナーによって異なり、生活の段階や外部要因によって変わるでしょう。しかし、以下は私たちが耳にしたいくつかのテーマです：
 
 * **コミュニティに頼る:** 仕事の委譲や貢献者の探し方は、仕事の負担を軽減できます。プロジェクトの連絡窓口を複数持つことで、心配することなく休憩を取ることができます。[Maintainer Community](http://maintainers.github.com/) のようなグループで他のメンテナーや広いコミュニティと繋がることができます。これは、相互支援や学びのための素晴らしいリソースとなるでしょう。
 
   ユーザーコミュニティとの交流方法も探して、定期的にフィードバックを受け取り、オープンソースの作業の影響を理解することができます。
 
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on  to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
-* **資金調達をさぐる:** ピザのお金を探しているのか、フルタイムのオープンソースを探しているのか、サポートするリソースはたくさんあります！最初のステップとして、[GitHub Sponsors](https://github.com/sponsors)を有効にして、他の人があなたのオープンソースの作業をスポンサーすることを許可します。フルタイムに移行することを考えている場合は、次回の　[GitHub Accelerator](http://accelerator.github.com/)　に応募してみて下さい。
+* **資金調達をさぐる:** ピザのお金を探しているのか、フルタイムのオープンソースを探しているのか、サポートするリソースはたくさんあります！最初のステップとして、[GitHub Sponsors](https://github.com/sponsors)を有効にして、他の人があなたのオープンソースの作業をスポンサーすることを許可します。フルタイムに移行することを考えている場合は、次回の [GitHub Accelerator](http://accelerator.github.com/) に応募してみて下さい。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
- ある時、ポッドキャストに出演して、オープンソースのメンテナンスや持続可能性について話していました。GitHub での私の作業をサポートする少数の人々が、ゲームの前に座るのではなく、オープンソースでちょっとしたことをするという素早い決定を下すのに役立ったことに気づきました。
+ 少し前にポッドキャストに出演し、オープンソースの維持と持続性について話していました。GitHubで私の作業をサポートしてくれる少数の人々がいるだけで、ゲームの前に座るのではなく、オープンソースでちょっとしたことをする決断をすぐに下す助けとなることに気づきました。
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mansona">@mansona</a>, EmberJS のメンテナー
   </p>
@@ -128,27 +127,27 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- 私は、夜にオフにするのではなく、日中に『創造的な瞬間』を散りばめる機会を増やしています。
+ 夜にリラックスするよりも、日中に「創造的なひととき」を取り入れる機会が増えてきていると感じています。
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, Nuxt のメンテナー
   </p>
 </aside>
 
-* **境界線を設ける:** すべてのリクエストに「 Yes 」と言えません。これは、「今すぐにはできませんし、今後もその予定はありません」と言うだけのことかもしれません。また、README でやりたいこととやりたくないことをリストアップすることもできます。たとえば、「明確に理由を示して作成された PR のみをマージします。」とか、「issue をレビューするのは、隔週木曜日の午後6時から7時までです。」などを言うことができます。こうすることで、他の人たちに期待を持たせることができますし、他の時に、投稿者やユーザーからの時間に対する要求を緩和するのに役立つ何かを示すことができます。
+* **境界線を設ける:** 全ての要求に「 Yes 」と言うわけにはいきません。これは、「今すぐそれに対応することはできませんし、将来的にも考えていません」とシンプルに伝えることや、READMEに自分が取り組みたいことや取り組みたくないことを明記することも含みます。例として、「明確な理由が示されたPRだけをマージする」とか、「隔週の木曜日の18時から19時にだけ問題をレビューする」といったことを伝えることができます。これにより、他の人たちに対する期待値を明確にし、また、あなたの時間に求められることに対して柔軟に対応するための基準を提供することができます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-これらの軸において、他人を有意義に信頼するためには、全ての要求に対して Yes と答えるような人間になってはいけない。そうすることで、仕事上でも個人的にも境界線を保てず、信頼できる同僚にはなれない。
+これらの点で他者を真に信頼するためには、全ての要求に「 Yes 」と答えるような人であってはいけません。そうすることで、プロフェッショナルにもプライベートにも境界線を持たなくなり、信頼性のある同僚としての立場も失ってしまいます。
   <p markdown="1" class="pquote-credit">
   — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, Homebrew のメンテナー、 [Saying No](https://mikemcquaid.com/saying-no/) にて
   </p>
 </aside>
 
-  不利益な行動や否定的な交流を断ち切る毅然とした態度を身につけましょう。どうでもいいことにはエネルギーを使わなくても大丈夫です。。
+  不利益な行動や否定的な交流を断ち切る毅然とした態度を身につけましょう。どうでもいいことにはエネルギーを使わなくても大丈夫です。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-私のソフトウェアは無償だが、私の時間と気配りは無償ではない。
+私のソフトウェアは無料で提供していますが、私の時間やエネルギーは無料ではありません。
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, Leaflet のメンテナー
   </p>
@@ -156,13 +155,13 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-オープンソースのメンテナンスに暗い側面があるのは周知の事実で、そのひとつが、時に恩知らずで権利意識が強く、あるいは明らかに有害な人々と接しなければならないことだ。プロジェクトの人気が高まるにつれて、このような交流の頻度も増え、メンテナーの負担が増し、おそらくメンテナーが燃え尽きる重大な危険因子となる。
+オープンソースのメンテナンスに暗い面があるのは、誰もが知っていることです。その中には、ありがたみを感じない人や、過度な権利を主張する人、あるいは明らかにトラブルを起こす人との接触が含まれます。プロジェクトが人気を集めるにつれて、このようなやり取りが増え、メンテナの負担が増大し、その結果、燃え尽きるリスクが高まることが考えられます。
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel">@foosel</a>, Octoprint のメンテナー、 [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs) にて
   </p>
 </aside>
 
-パーソナルエコロジーは、オープンソースの旅が進むにつれて進化していく、現在進行形の実践であることを忘れないでください。セルフケアを優先し、両立を保つことで、効果的かつ持続的にオープンソースコミュニティに貢献することができ、長期的に自分の幸福とプロジェクトの成功の両方を確保することができます。
+忘れないでください、パーソナルエコロジーは継続的な実践であり、オープンソースの旅を進める中で進化していきます。自分自身のケアを優先し、バランスを保つことで、効果的かつ持続可能にオープンソースコミュニティに貢献できます。これにより、あなた自身の幸福とプロジェクトの長期的な成功の両方を確保することができます。
 
 ## その他のリソース
 
