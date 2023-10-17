@@ -1,6 +1,5 @@
 ---
 lang: ja
-untranslated: true
 title: オープンソースメンテナーのバランス維持
 description: メンテナンス担当者としてのセルフケアと燃え尽き症候群を避けるためのヒント。
 class: balance
