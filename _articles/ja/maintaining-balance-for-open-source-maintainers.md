@@ -1,174 +1,174 @@
 ---
 lang: ja
 untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+title: オープンソースメンテナーのバランス維持
+description: メンテナンス担当者としてのセルフケアと燃え尽き症候群を避けるためのヒント。
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+人気のあるオープンソースプロジェクトが成長するにつれて、バランスを保ち、長期的にリフレッシュし、生産性を維持するために明確な境界線を設定することが必要になります。
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+メンテナーの経験とバランスを取るための戦略を知るために、私たちは 40 人の <a href="http://maintainers.github.com/">maintainer community</a> のメンバーとワークショップを行い、彼らのオープンソースでの燃え尽き症候群に対する第一線での経験と、バランスを保つための実践を学ぶことができました。ここで「パーソナルエコロジー」という概念が登場します。
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+「パーソナルエコロジー」とはなんでしょうか？<a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a> によると、「<strong>生涯にわたってエネルギーを維持するために、バランス、ペース、効率を維持すること</strong>」を意味します。これにより、私たちの会話のフレームワークを作り、メンテナーが自分の行動や貢献を、時間とともに進化する大きな生態系の一部であると認識する助けとなりました。燃え尽き症候群は、[WHO によって定義されるように](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281) 、慢性的な職場でのストレスから生じる症候群であり、メンテナーの間では珍しくありません。これは、モチベーションの喪失、集中力の欠如、および共同作業者やコミュニティとの共感の欠如に繋がります。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
-  I was unable to focus or start on a task. I had a lack of empathy for users.
+  私は仕事を始めることや集中することができませんでした。ユーザーに対して共感の欠如がありました。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, Owncast ライブストリーミングサーバーのメンタナー、燃え尽き症候群がオープンソースの仕事に与える影響について語る
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+パーソナルエコロジーの概念を取り入れることで、燃え尽き症候群を積極的に回避し、セルフケアを優先し、最高の仕事をするためのバランスを維持することができます。
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## メンテナーとしてのセルフケアと燃え尽き症候群を回避するためのヒント
 
-### Identify your motivations for working in open source
+### オープンソースで働く動機を明確にする
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+オープンソースのメンテナンスのどの部分にあなたの活力が湧いてくるか、じっくり考えてみましょう。あなたのモチベーション理解することで、新しい課題に取り組む準備ができ、仕事に優先順位をつけることができます。ユーザーからの好意的なフィードバックであれ、コミュニティとの協力や交流の喜び、コードに没頭する満足感など、あなたのモチベーションを認識することで、集中力を高める指針になります。
 
-### Reflect on what causes you to get out of balance and stressed out
+### バランスを崩し、ストレスを感じる原因を振り返る
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
-
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+燃え尽きてしまう原因を理解することは重要です。オープンソースのメンテナーの間で見られるいくつかの共通のテーマは以下の通りです。
+* **肯定的なフィードバックの欠如:** ユーザーは苦情があるときに接触する可能性が高いです。全てが順調に進んでいる場合、ユーザーは黙っている傾向があります。あなたの貢献がどのような変化をもたらしているかを示すポジティブなフィードバックないまま、問題のリストが増えていくのを見るのは、がっかりするでしょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
-  Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
+  まるで虚空に叫ぶようなもので、フィードバックが本当に活力を与えてくれます。私たちには、幸せだけど静かなユーザーがたくさんいます。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
+— <a href="https://github.com/thisisnic">@thisisnic</a>, Apache Arrow のメンテナー
   </p>
 </aside>
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **「No」と言わない:** オープンソースプロジェクトでは、必要以上の責任を負うことは簡単です。それがユーザーであれ、貢献者であれ、他のメンテナーであれ、彼らの期待に答えられるとは限りません。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
+  私は、自分が一人で行うべきこと以上のことを引き受けて、多くの人々の仕事をしなければならないことに気がつきました。これは FOSS でよく行われています。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
+— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, Termux のメンテナー
   </p>
 </aside>
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **一人での作業:** メンテナーであることは非常に孤独です。例え同じメンテナーのグループで働いていたとしても、ここ数年、分散チームを直接集めるのは難しくなっている。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
+ 特に COVID 以降、自宅で仕事をするようになってからは、誰とも会わず、誰とも話さない方が難しいです。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, Owncast ライブストリーミングサーバーのメンタナー、燃え尽き症候群がオープンソースの仕事に与える影響について語る
   </p>
 </aside>
 
-* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+* **時間やリソースの不足:** これは特にプロジェクトに取り組むために自分の自由な時間を犠牲にしなければならないボランティアのメンテナーにとって特に当てはまります。
 
 <aside markdown="1" class="pquote">
-  [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
+  もっと経済的なサポートが欲しい。それによって私の貯金を使い果たさずに、後でそれを補うための多くの契約をする必要がなく、オープンソースの作業に専念できるのに。
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— オープンソースのメンテナー
   </p>
 </aside>
 
-* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **矛盾する要求:**  オープンソースは様々な動機を持ったグループで溢れており、その間を行き来するのは難しいことがあります。オープンソースの仕事で給料をもらっている場合、雇用主の利益はコミュニティの利益と対立することがあります。
 
 <aside markdown="1" class="pquote">
-  With paid open source, conflict between employer's focus and what's best for the community
+  有料のオープンソースでは、雇用主が重視するものとコミュニティにとっての最善のものとの間に葛藤が生じる。
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— オープンソースのメンテナー
   </p>
 </aside>
 
-### Watch out for signs of burnout
+### 燃え尽きの兆候に注意
 
-Can you keep up your pace for 10 weeks? 10 months? 10 years?
+あなたは 10 週間、10 ヶ月、10 年とこのペースを続けることができますか？
 
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla's [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
+[@shaunagm](https://github.com/shaunagm) による [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) や Mozilla の[自己評価キット](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw)のようなツールがあり、自分の現在のペースを振り返り、調整できる点があるかどうかを確認することができます。一部のメンテナーは、睡眠の質や心拍数変動 (両方ともストレスに関連している) のような指標を追跡するためにウェアラブル技術も利用しています。
 
 <aside markdown="1" class="pquote">
- I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
+ 私は良質なウェアラブル技術を強く信じています。その背後にある科学的根拠によって、どのように改善的できたかや、目指す状態を最適にする方法を理解することができます。
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— オープンソースのメンテナー
   </p>
 </aside>
 
-### What would you need to continue sustaining yourself and your community?
+### 自分自身とコミュニティを維持し続けるためには何が必要だろうか？
 
-This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
+これは各メンテナーによって異なるだろうし、生活の段階や外部要因によって変わるでしょう。しかし、以下は私たちが耳にしたいくつかのテーマです：
 
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
+* **コミュニティに頼る:** 仕事の委譲や貢献者の探し方は、仕事の負担を軽減できます。プロジェクトの連絡窓口を複数持つことで、心配することなく休憩を取ることができます。[Maintainer Community](http://maintainers.github.com/) のようなグループで他のメンテナーや広いコミュニティと繋がることができます。これは、相互支援や学びのための素晴らしいリソースとなるでしょう。
 
-  You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
+  ユーザーコミュニティとの交流方法も探して、定期的にフィードバックを受け取り、オープンソースの作業の影響を理解することができます。
 
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on  to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **資金調達をさぐる:** ピザのお金を探しているのか、フルタイムのオープンソースを探しているのか、サポートするリソースはたくさんあります！最初のステップとして、[GitHub Sponsors](https://github.com/sponsors)を有効にして、他の人があなたのオープンソースの作業をスポンサーすることを許可します。フルタイムに移行することを考えている場合は、次回の　[GitHub Accelerator](http://accelerator.github.com/)　に応募してみて下さい。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
- I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
+ ある時、ポッドキャストに出演して、オープンソースのメンテナンスや持続可能性について話していました。GitHub での私の作業をサポートする少数の人々が、ゲームの前に座るのではなく、オープンソースでちょっとしたことをするという素早い決定を下すのに役立ったことに気づきました。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
+— <a href="https://github.com/mansona">@mansona</a>, EmberJS のメンテナー
   </p>
 </aside>
 
-* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **ツールを使う:** [GitHub Copilot](https://github.com/features/copilot/) や [GitHub Actions](https://github.com/features/actions) のようなツールを使って、退屈な作業を自動化し、より意味のある貢献のために時間を確保しましょう。
 
 <aside markdown="1" class="pquote">
- Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
+ 退屈な時に [Copilot](http://github.com/features/copilot/) を使って、楽しいことをしましょう。
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— オープンソースメンテナー
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
+* **休息と充電:** オープンソース以外の趣味や興味の時間を作りましょう。週末は休んでリフレッシュし、[GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) に反映させましょう！一晩ぐっすり眠れるかどうかで、長期的な努力を継続できるかどうかが大きく変わってきます。
 
-  If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
+  プロジェクトのある側面が特に楽しいと感じるのであれば、その楽しさを 1 日を通して体験できるように仕事を構成してみましょう。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
+ 私は、夜にオフにするのではなく、日中に『創造的な瞬間』を散りばめる機会を増やしています。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
+— <a href="https://github.com/danielroe">@danielroe</a>, Nuxt のメンテナー
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **境界線を設ける:** すべてのリクエストに「 Yes 」と言えません。これは、「今すぐにはできませんし、今後もその予定はありません」と言うだけのことかもしれません。また、README でやりたいこととやりたくないことをリストアップすることもできます。たとえば、「明確に理由を示して作成された PR のみをマージします。」とか、「issue をレビューするのは、隔週木曜日の午後6時から7時までです。」などを言うことができます。こうすることで、他の人たちに期待を持たせることができますし、他の時に、投稿者やユーザーからの時間に対する要求を緩和するのに役立つ何かを示すことができます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
+これらの軸において、他人を有意義に信頼するためには、全ての要求に対して Yes と答えるような人間になってはいけない。そうすることで、仕事上でも個人的にも境界線を保てず、信頼できる同僚にはなれない。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
+  — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, Homebrew のメンテナー、 [Saying No](https://mikemcquaid.com/saying-no/) にて
   </p>
 </aside>
 
-  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+  不利益な行動や否定的な交流を断ち切る毅然とした態度を身につけましょう。どうでもいいことにはエネルギーを使わなくても大丈夫です。。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-My software is gratis, but my time and attention is not.
+私のソフトウェアは無償だが、私の時間と気配りは無償ではない。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
+— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, Leaflet のメンテナー
   </p>
 </aside>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.  
+オープンソースのメンテナンスに暗い側面があるのは周知の事実で、そのひとつが、時に恩知らずで権利意識が強く、あるいは明らかに有害な人々と接しなければならないことだ。プロジェクトの人気が高まるにつれて、このような交流の頻度も増え、メンテナーの負担が増し、おそらくメンテナーが燃え尽きる重大な危険因子となる。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+— <a href="https://github.com/foosel">@foosel</a>, Octoprint のメンテナー、 [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs) にて
   </p>
 </aside>
 
-Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
+パーソナルエコロジーは、オープンソースの旅が進むにつれて進化していく、現在進行形の実践であることを忘れないでください。セルフケアを優先し、両立を保つことで、効果的かつ持続的にオープンソースコミュニティに貢献することができ、長期的に自分の幸福とプロジェクトの成功の両方を確保することができます。
 
-## Additional Resources
+## その他のリソース
 
 * [Maintainer Community](http://maintainers.github.com/)
 * [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
-* [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg 
+* [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
@@ -177,11 +177,11 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
 * Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
 
-## Contributors
+## 貢献者
 
-Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+このガイドのために経験やヒントを提供してくれた全てのメンテナーに感謝します！
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from: 
+このガイドブックは、[@abbycabs](https://github.com/abbycabs) によって作成されました。：
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
