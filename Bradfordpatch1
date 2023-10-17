@@ -1,0 +1,5 @@
+https://github.com/cli/cli/discussions/8200#discussion-574406https://codespaces.new/github/opensource.guide/pull/3058?quickstart=1https://github.com/codespaces/badge.svgbradford80USA:patch-1git fetch [<options>] [<repository> [<refspec>…​]]
+git fetch [<options>] <group>
+git fetch --multiple [<options>] [(<repository> | <group>)…​]
+git fetch --all [<options>]
+DESCRIPTIONhttps://github.com/matter-labs/zksync-web-era-docs/pull/750/files#conversations-menu
