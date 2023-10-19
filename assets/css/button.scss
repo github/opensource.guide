@@ -4,11 +4,18 @@
     bottom: 20px;
     right: 20px;
     z-index: 99;
-    font-size: 16px;
     background-color: #333;
     color: #fff;
     border: none;
     cursor: pointer;
-    padding: 10px;
-    border-radius: 4px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; 
+    text-align: center;
+    font-size: 24px;
+    line-height: 50px;
+  }
+  
+  #scrollToTopButton::before {
+    content: '\2191'; /* Unicode for an upwards arrow */
   }
