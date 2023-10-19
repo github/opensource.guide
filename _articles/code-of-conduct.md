@@ -109,6 +109,6 @@ A report of behavior that doesn't _technically_ violate the code of conduct may 
 
 In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
 
-## Encourage the behavior you want to see in the world 🌎
+## Encourage the behavior we want to see in the world 🌎
 
 When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
