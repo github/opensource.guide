@@ -5,7 +5,7 @@ description: Impara di più sul mondo dell'open source e preparati a lanciare il
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png
-	@@ -10,354 +10,345 @@ related:
+related:
   - building
 ---
 
