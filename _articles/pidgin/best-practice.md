@@ -55,7 +55,7 @@ If to maintain your project na part-time or you dey do am because you volunteer,
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) na some examples of projects wey get rules for maintainers and contributors.
 
-### Make Your Communication Public
+### Make Sure Your Communication Commot For Outside
 
 No forget to write down your talks. Where you fit, make all your communication for your project public. If person try contact you for private to discuss feature request or support matter, tell am politely make e follow public channel yarn you like mailing list or issue tracker.
 
@@ -69,7 +69,7 @@ Saying no no dey fun, but make you try yarn "Your contribution no dey follow thi
 
 You go fit yarn no for plenty situations wey you go see as maintainer like feature requests wey no follow your project plan or person wey dey disturb discussion.
 
-### Make the chitchat dey friendly
+### Make the talk-talk dey friendly
 
 One important place wey you go practice how to talk no be yes na for your issue and pull request queue. As person wey dey maintain project, e dey natural say you go dey see suggestions wey you no go want accept.
 
@@ -93,9 +93,9 @@ E better make you quick-close contributions wey you sabi say you no wan accept a
 
 If you no wan accept one contribution:
 
-* **Thank them** for their contribution
+* **Tell them thank you** for their contribution
 * **Explain why e no follow** within the project's scope, and offer clear suggestions for how e fit improve, if you sabi. Make sure say you dey friendly but firm.
-* **Attach link to relevant documentation**, if you get am. If you dey see people dey request the same thing wey you no dey ready to accept, put am for your documentation so that you no go dey repeat yourself.
+* **Link waeh get Relevant documentation na him you go add**, if you get am. If you dey see people dey request the same thing wey you no dey ready to accept, put am for your documentation so that you no go dey repeat yourself.
 * **Close the request**
 
 You no need talk pass 1-2 sentences for response. For example, when person wey dey use [celery](https://github.com/celery/celery/) report say e get one Windows-related error, @berkerpeksag [reply like this](https://github.com/celery/celery/issues/3383):
@@ -133,17 +133,17 @@ Although e fit seem like say this approach no dey friendly at first, but e dey b
 
 Sometimes, when you talk no, person fit vex or criticize your decision. If their behavior come bad, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if them no dey ready to work together positively.
 
-### Show Love for Mentorship
+### Dey Show Love for Mentorship
 
 E fit happen say one person for your community dey always submit contributions wey no meet your project standards. E fit dey vex both parties as them dey reject their work every time.
 
 If you see say person dey show interest for your project but e just need small touch, be patient. Make you clear for every situation why their contributions no dey up to the project standards. Try to show them where them fit do better, maybe by working on one small or less complex task, like issue wey dem mark "good first issue," to give them confidence. If you get time, you fit mentor them as them dey do their first contribution, or you find person for your community wey go fit mentor them.
 
-## Tap into your community
+## Put hand inside your community
 
 You no need to do everything alone. Your project community dey exist for one reason! Even if you no get active community of contributors yet, if plenty people dey use your project, make them help you.
 
-### Share the workload
+### Make you share the work
 
 If you dey find people wey go fit help, start to ask around.
 
@@ -167,7 +167,7 @@ If other people dey happy about the project direction, give them access to make 
 
 > I write one wiki page wey describe wetin I want and why I want am. For some reason, e shock me as the maintainers begin move the project in that direction! E no always dey exactly how I go do am? Not every time. But e still bring the project close to wetin I write down.
 
-### Make others build their own solutions
+### Make other pesin build them own solutions
 
 If potential contributor get another idea for your project and e no follow your own idea, you fit encourage am gently to work on their own fork.
 
@@ -207,7 +207,7 @@ If you add tests, make sure say you explain how them dey work for your CONTRIBUT
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### Carry tools use am to automate basic maintenance tasks
 
 The good news about maintaining a popular project be say other maintainers fit don face similar challenges and build solutions for them.
 
