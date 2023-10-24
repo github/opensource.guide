@@ -85,19 +85,6 @@ Dedique um tempo para refletir sobre quais aspectos da manutenção em código a
 
 Você consegue manter seu ritmo por 10 semanas? 10 meses? 10 anos?
 
-Existem ferramentas como a [Lista de Verificação de Esgotamento](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) e o [kit de autoavaliação de ecologia pessoal da Mozilla](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) que podem ajudá-lo a refletir sobre seu ritmo atual e ver se há ajustes que você pode fazer. Alguns mantenedores também usam tecnologia vestível para acompanhar métricas como qualidade do sono e variabilidade da frequência cardíaca (ambas relacionadas ao estresse).
-
-<aside markdown="1" class="pquote">
- Sou um grande defensor dos dispositivos vestíveis. Com a ciência por trás deles, você pode entender como poderia ter se saído melhor e como atingir um estado ideal do que deseja fazer.
-  <p markdown="1" class="pquote-credit">
-— mantenedor de código aberto
-  </p>
-</aside>
-
-### Fique atento aos sinais de esgotamento
-
-Você consegue manter seu ritmo por 10 semanas? 10 meses? 10 anos?
-
 Existem ferramentas como a [Lista de Verificação de Esgotamento](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) e o [kit de autoavaliação de ecologia pessoal da Mozilla](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) que podem ajudá-lo a refletir sobre seu ritmo atual e ver se há ajustes que você pode fazer. Alguns mantenedores também usam tecnologia vestível para acompanhar métricas como qualidade do sono e variabilidade da frequência cardíaca (ambas ligadas ao estresse).
 
 <aside markdown="1" class="pquote">
