@@ -10,295 +10,294 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## اوپن سورس میں کیوں تعاون کریں؟
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  \[freenode\] پر کام کرنے سے مجھے بہت سی مہارتیں حاصل کرنے میں مدد ملی جنہیں میں نے بعد میں یونیورسٹی میں اپنی تعلیم اور اپنی اصل ملازمت کے لیے استعمال کیا۔ مجھے لگتا ہے کہ اوپن سورس پروجیکٹس پر کام کرنے سے مجھے اتنی ہی مدد ملتی ہے جتنی اس پروجیکٹ کی مدد کرتی ہے!
   <p markdown="1" class="pquote-credit">
 — [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+اوپن سورس میں تعاون کرنا سیکھنے، سکھانے اور تجربہ بنانے کا ایک فائدہ مند طریقہ ہو سکتا ہے جس کا آپ تصور کر سکتے ہیں۔
 
-Why do people contribute to open source? Plenty of reasons!
+لوگ اوپن سورس میں کیوں حصہ ڈالتے ہیں؟ بہت سی وجوہات!
 
-### Improve software you rely on
+### سافٹ ویئر کو بہتر بنائیں جس پر آپ انحصار کرتے ہیں۔
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+بہت سارے اوپن سورس تعاون کنندگان سافٹ ویئر کے استعمال کنندہ بن کر شروع کرتے ہیں جس میں وہ تعاون کرتے ہیں۔ جب آپ کو اوپن سورس سافٹ ویئر میں کوئی بگ ملتا ہے جسے آپ استعمال کرتے ہیں، تو آپ ماخذ کو دیکھنا چاہیں گے کہ آیا آپ اسے خود ہی پیچ کر سکتے ہیں۔ اگر ایسا ہے تو، اس بات کو یقینی بنانے کا بہترین طریقہ ہے کہ آپ کے دوست (اور خود جب آپ اگلی ریلیز پر اپ ڈیٹ کریں گے) اس سے فائدہ اٹھا سکیں گے۔
 
-### Improve existing skills
+### موجودہ مہارتوں کو بہتر بنائیں
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+چاہے یہ کوڈنگ ہو، یوزر انٹرفیس ڈیزائن، گرافک ڈیزائن، تحریر، یا تنظیم، اگر آپ مشق کی تلاش میں ہیں، تو آپ کے لیے اوپن سورس پروجیکٹ پر ایک کام ہے۔
 
-### Meet people who are interested in similar things
+### ایسے لوگوں سے ملیں جو اسی طرح کی چیزوں میں دلچسپی رکھتے ہیں۔
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+پرجوش، خوش آئند کمیونٹیز کے ساتھ اوپن سورس پروجیکٹس لوگوں کو سالوں تک واپس آتے رہتے ہیں۔ بہت سے لوگ اوپن سورس میں اپنی شرکت کے ذریعے زندگی بھر کی دوستی قائم کرتے ہیں، چاہے وہ کانفرنسوں میں ایک دوسرے کے ساتھ چل رہے ہوں یا رات گئے آن لائن چیٹس کے بارے میں۔
 
-### Find mentors and teach others
+### سرپرست تلاش کریں اور دوسروں کو سکھائیں۔
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+مشترکہ پروجیکٹ پر دوسروں کے ساتھ کام کرنے کا مطلب ہے کہ آپ کو یہ بتانا پڑے گا کہ آپ کام کیسے کرتے ہیں، اور ساتھ ہی دوسرے لوگوں سے بھی مدد طلب کریں۔ سیکھنے اور سکھانے کے عمل اس میں شامل ہر فرد کے لیے ایک تکمیلی سرگرمی ہو سکتے ہیں۔
 
-### Build public artifacts that help you grow a reputation (and a career)
+### عوامی نمونے بنائیں جو آپ کو شہرت (اور کیریئر) بڑھانے میں مدد کرتے ہیں۔
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+تعریف کے مطابق، آپ کا تمام اوپن سورس کام عوامی ہے، جس کا مطلب ہے کہ آپ کو مفت مثالیں ملتی ہیں کہ آپ کیا کر سکتے ہیں اس کے مظاہرے کے طور پر کہیں بھی لے جائیں۔
 
-### Learn people skills
+### لوگوں کے ہنر سیکھیں۔
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+اوپن سورس قیادت اور انتظامی مہارتوں کی مشق کرنے کے مواقع فراہم کرتا ہے، جیسے تنازعات کو حل کرنا، لوگوں کی ٹیموں کو منظم کرنا، اور کام کو ترجیح دینا۔
 
-### It's empowering to be able to make changes, even small ones
+### تبدیلیاں کرنے کے قابل ہونا بااختیار بناتا ہے، یہاں تک کہ چھوٹی بھی
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+اوپن سورس میں شرکت سے لطف اندوز ہونے کے لیے آپ کو تاحیات شراکت دار بننے کی ضرورت نہیں ہے۔ کیا آپ نے کبھی کسی ویب سائٹ پر ٹائپنگ کی غلطی دیکھی ہے، اور خواہش کی ہے کہ کوئی اسے ٹھیک کردے؟ اوپن سورس پروجیکٹ پر، آپ ایسا ہی کر سکتے ہیں۔ اوپن سورس لوگوں کو ان کی زندگیوں پر ایجنسی محسوس کرنے میں مدد کرتا ہے اور وہ دنیا کا تجربہ کیسے کرتے ہیں، اور یہ بذات خود اطمینان بخش ہے۔
 
-## What it means to contribute
+## حصہ ڈالنے کا کیا مطلب ہے۔
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+اگر آپ ایک نئے اوپن سورس تعاون کنندہ ہیں، تو یہ عمل خوفناک ہو سکتا ہے۔ آپ کو صحیح پروجیکٹ کیسے ملتا ہے؟ اگر آپ کوڈ کرنا نہیں جانتے تو کیا ہوگا؟ اگر کچھ غلط ہو جائے تو کیا ہوگا؟
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+پریشانی کی بات نہیں! اوپن سورس پروجیکٹ میں شامل ہونے کے ہر طرح کے طریقے ہیں، اور چند تجاویز آپ کو اپنے تجربے سے زیادہ سے زیادہ فائدہ اٹھانے میں مدد کریں گی۔
 
-### You don't have to contribute code
+### آپ کو کوڈ میں تعاون کرنے کی ضرورت نہیں ہے۔
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+اوپن سورس میں تعاون کرنے کے بارے میں ایک عام غلط فہمی یہ ہے کہ آپ کو کوڈ میں تعاون کرنے کی ضرورت ہے۔ درحقیقت، یہ اکثر کسی پروجیکٹ کے دوسرے حصے ہوتے ہیں جو [سب سے زیادہ نظرانداز یا نظر انداز کیے جاتے ہیں](https://github.com/blog/2195-the-shape-of-open-source)۔ آپ اس قسم کے تعاون کے ساتھ حصہ لینے کی پیشکش کر کے اس پروجیکٹ پر ایک _بڑا_ احسان کریں گے!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  میں CocoaPods پر اپنے کام کے لیے مشہور رہا ہوں، لیکن زیادہ تر لوگ یہ نہیں جانتے کہ میں اصل میں CocoaPods ٹول پر کوئی حقیقی کام نہیں کرتا ہوں۔ پروجیکٹ پر میرا وقت زیادہ تر دستاویزات اور برانڈنگ پر کام کرنے میں صرف ہوتا ہے۔
+
   <p markdown="1" class="pquote-credit">
 — [@orta](https://github.com/orta), ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+یہاں تک کہ اگر آپ کوڈ لکھنا پسند کرتے ہیں تو، دوسرے قسم کے تعاون کسی پروجیکٹ میں شامل ہونے اور کمیونٹی کے دیگر اراکین سے ملنے کا بہترین طریقہ ہیں۔ ان تعلقات کو استوار کرنے سے آپ کو پروجیکٹ کے دوسرے حصوں پر کام کرنے کے مواقع ملیں گے۔
 
-### Do you like planning events?
+### کیا آپ ایونٹس کی منصوبہ بندی کرنا پسند کرتے ہیں؟
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* پروجیکٹ کے بارے میں ورکشاپس یا میٹنگز کا اہتمام کریں، [جیسے @fzamperin نے NodeSchool کے لیے کیا](https://github.com/nodeschool/organizers/issues/406)
+* پروجیکٹ کی کانفرنس کا اہتمام کریں (اگر ان کے پاس ہے)
+* کمیونٹی کے اراکین کو صحیح کانفرنسیں تلاش کرنے اور بولنے کے لیے تجاویز جمع کرانے میں مدد کریں۔
 
-### Do you like to design?
+### کیا آپ ڈیزائن کرنا پسند کرتے ہیں؟
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* پراجیکٹ کے استعمال کو بہتر بنانے کے لیے ترتیب کو دوبارہ ترتیب دیں۔
+* پروجیکٹ کی نیویگیشن یا مینوز کو دوبارہ ترتیب دینے اور بہتر کرنے کے لیے صارف کی تحقیق کریں، [جیسے ڈروپل تجویز کرتا ہے](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* پراجیکٹ کو مستقل بصری ڈیزائن بنانے میں مدد کرنے کے لیے ایک اسٹائل گائیڈ جمع کریں۔
+* ٹی شرٹس یا نئے لوگو کے لیے آرٹ بنائیں، [جیسے hapi.js کے تعاون کرنے والوں نے کیا](https://github.com/hapijs/contrib/issues/68)
 
-### Do you like to write?
+### کیا آپ لکھنا پسند کرتے ہیں؟
 
-* Write and improve the project's documentation, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
+* پروجیکٹ کی دستاویزات لکھیں اور بہتر بنائیں، [جیسے @CBID2 نے OpenSauced کی دستاویزات کے لیے کیا](https://github.com/open-sauced/docs/pull/151)
+* مثالوں کا ایک فولڈر بنائیں جس میں دکھایا گیا ہے کہ پروجیکٹ کیسے استعمال ہوتا ہے۔
+* پروجیکٹ کے لیے ایک نیوز لیٹر شروع کریں، یا میلنگ لسٹ سے ہائی لائٹس کیوریٹ کریں، [جیسے @opensauced نے اپنے پروڈکٹ کے لیے کیا](https://news.opensauced.pizza/about/)
+* پروجیکٹ کے لیے سبق لکھیں، [جیسا کہ PyPA کے معاونین نے کیا](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* پروجیکٹ کی دستاویزات کے لیے ترجمہ لکھیں، [جیسے @frontendwizard نے فری کوڈ کیمپ کے سی ایس ایس فلیکس باکس چیلنج کی ہدایات کے لیے کیا](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  سنجیدگی سے، \[دستاویزات\] بہت اہم ہے۔ اب تک کی دستاویزات بہت اچھی ہیں اور بابل کی ایک قاتل خصوصیت رہی ہے۔ ایسے حصے ہیں جو یقینی طور پر کچھ کام استعمال کرسکتے ہیں اور یہاں تک کہ ایک پیراگراف کا اضافہ یہاں یا وہاں انتہائی تعریف کی جاتی ہے۔
+
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### کیا آپ کو منظم کرنا پسند ہے؟
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* ڈپلیکیٹ ایشوز سے لنک کریں، اور چیزوں کو منظم رکھنے کے لیے نئے ایشو لیبل تجویز کریں۔
+* کھلے مسائل کو دیکھیں اور پرانے کو بند کرنے کا مشورہ دیں، [جیسے @nzakas نے ESLint کے لیے کیا](https://github.com/eslint/eslint/issues/6765)
+* بحث کو آگے بڑھانے کے لیے حال ہی میں کھولے گئے مسائل پر واضح سوالات پوچھیں۔
 
-### Do you like to code?
+### کیا آپ کوڈ کرنا پسند کرتے ہیں؟
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* نمٹنے کے لیے ایک کھلا مسئلہ تلاش کریں، [جیسے @dianjin نے لیفلیٹ کے لیے کیا](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* پوچھیں کہ کیا آپ ایک نیا فیچر لکھنے میں مدد کر سکتے ہیں۔
+* خودکار پروجیکٹ سیٹ اپ
+* ٹولنگ اور ٹیسٹنگ کو بہتر بنائیں
 
-### Do you like helping people?
+### کیا آپ لوگوں کی مدد کرنا پسند کرتے ہیں؟
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* پراجیکٹ کے بارے میں سوالات کے جواب دیں جیسے کہ اسٹیک اوور فلو ([اس پوسٹگریس مثال کی طرح)(https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying) -to-ge)) یا Reddit
+* کھلے مسائل پر لوگوں کے سوالات کے جوابات دیں۔
+* ڈسکشن بورڈز یا بات چیت کے چینلز کو معتدل کرنے میں مدد کریں۔
 
-### Do you like helping others code?
+### کیا آپ دوسروں کو کوڈ میں مدد کرنا پسند کرتے ہیں؟
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* دوسرے لوگوں کی گذارشات پر کوڈ کا جائزہ لیں۔
+* پراجیکٹ کو کس طرح استعمال کیا جا سکتا ہے اس کے لیے سبق لکھیں۔
+* کسی اور تعاون کنندہ کو سرپرست کی پیشکش، [جیسے @ereichert نے @bronzdoc on Rust کے لیے کیا](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### آپ کو صرف سافٹ ویئر پروجیکٹس پر کام کرنے کی ضرورت نہیں ہے!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+اگرچہ "اوپن سورس" سے اکثر سافٹ ویئر مراد ہوتا ہے، آپ کسی بھی چیز پر تعاون کر سکتے ہیں۔ ایسی کتابیں، ترکیبیں، فہرستیں اور کلاسیں ہیں جو اوپن سورس پروجیکٹس کے طور پر تیار ہوتی ہیں۔
 
-For example:
+مثال کے طور پر:
 
-* @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
-* @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
-* @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
+* @sindresorhus ["خوبصورت" فہرستوں کی فہرست تیار کرتا ہے](https://github.com/sindresorhus/awesome)
+* @h5bp فرنٹ اینڈ ڈویلپر امیدواروں کے لیے [ممکنہ انٹرویو کے سوالات کی فہرست](https://github.com/h5bp/Front-end-Developer-Interview-Questions) برقرار رکھتا ہے۔
+* @stuartlynn اور @nicole-a-tesla نے ایک [پفنز کے بارے میں تفریحی حقائق کا مجموعہ] بنایا (https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+یہاں تک کہ اگر آپ سافٹ ویئر ڈویلپر ہیں، دستاویزی پروجیکٹ پر کام کرنے سے آپ کو اوپن سورس میں شروع کرنے میں مدد مل سکتی ہے۔ ایسے پروجیکٹس پر کام کرنا اکثر کم خوفزدہ ہوتا ہے جن میں کوڈ شامل نہیں ہوتا ہے، اور تعاون کا عمل آپ کا اعتماد اور تجربہ بڑھاتا ہے۔
 
-## Orienting yourself to a new project
+## اپنے آپ کو ایک نئے پروجیکٹ کی طرف راغب کرنا
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+  اگر آپ کسی ایشو ٹریکر پر جاتے ہیں اور چیزیں الجھی ہوئی لگتی ہیں، تو یہ صرف آپ ہی نہیں ہیں۔ ان ٹولز کے لیے بہت زیادہ مضمر علم کی ضرورت ہوتی ہے، لیکن لوگ اس پر تشریف لے جانے میں آپ کی مدد کر سکتے ہیں اور آپ ان سے سوالات پوچھ سکتے ہیں۔
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
 </aside>
 
-For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
+ٹائپنگ فکس کے علاوہ کسی بھی چیز کے لیے، اوپن سورس میں تعاون کرنا پارٹی میں اجنبیوں کے گروپ کے ساتھ چلنے کے مترادف ہے۔ اگر آپ لاماس کے بارے میں بات کرنا شروع کرتے ہیں، جب وہ گولڈ فش کے بارے میں گہری بحث میں تھے، تو وہ شاید آپ کو قدرے عجیب نظر سے دیکھیں گے۔
 
-Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
+اپنی تجاویز کے ساتھ آنکھیں بند کر کے کودنے سے پہلے، کمرے کو پڑھنے کا طریقہ سیکھ کر شروع کریں۔ ایسا کرنے سے اس بات کے امکانات بڑھ جاتے ہیں کہ آپ کے خیالات کو دیکھا اور سنا جائے گا۔
 
-### Anatomy of an open source project
+### ایک اوپن سورس پروجیکٹ کی اناٹومی۔
 
-Every open source community is different.
+ہر اوپن سورس کمیونٹی مختلف ہے۔
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+ایک اوپن سورس پروجیکٹ پر سال گزارنے کا مطلب ہے کہ آپ نے ایک اوپن سورس پروجیکٹ کو جان لیا ہے۔ ایک مختلف پروجیکٹ پر جائیں، اور آپ کو الفاظ، اصول، اور مواصلات کے انداز بالکل مختلف معلوم ہو سکتے ہیں۔
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+اس نے کہا، بہت سے اوپن سورس پروجیکٹ اسی طرح کے تنظیمی ڈھانچے کی پیروی کرتے ہیں۔ کمیونٹی کے مختلف کرداروں اور مجموعی عمل کو سمجھنے سے آپ کو کسی بھی نئے پروجیکٹ کی طرف تیزی سے توجہ حاصل کرنے میں مدد ملے گی۔
 
-A typical open source project has the following types of people:
+ایک عام اوپن سورس پروجیکٹ میں درج ذیل قسم کے لوگ ہوتے ہیں:
 
-* **Author:** The person/s or organization that created the project
-* **Owner:** The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
-* **Maintainers:** Contributors who are responsible for driving the vision and managing the organizational aspects of the project (They may also be authors or owners of the project.)
-* **Contributors:** Everyone who has contributed something back to the project
-* **Community Members:** People who use the project. They might be active in conversations or express their opinion on the project's direction
+* **مصنف:** وہ شخص یا تنظیم جس نے پروجیکٹ بنایا
+* **مالک:** وہ شخص جس کی تنظیم یا ذخیرہ پر انتظامی ملکیت ہے (ہمیشہ اصل مصنف کی طرح نہیں ہوتا)
+* ** دیکھ بھال کرنے والے:** تعاون کرنے والے جو وژن کو آگے بڑھانے اور پروجیکٹ کے تنظیمی پہلوؤں کو منظم کرنے کے ذمہ دار ہیں (وہ پروجیکٹ کے مصنف یا مالک بھی ہوسکتے ہیں۔)
+*** شراکت دار:** ہر وہ شخص جس نے پروجیکٹ میں کچھ حصہ دیا ہے۔
+* **کمیونٹی ممبرز:** وہ لوگ جو پروجیکٹ استعمال کرتے ہیں۔ وہ بات چیت میں سرگرم ہو سکتے ہیں یا پروجیکٹ کی سمت پر اپنی رائے کا اظہار کر سکتے ہیں۔
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page, or in the repository for governance documentation, to find this information.
+بڑے پروجیکٹس میں ذیلی کمیٹیاں یا ورکنگ گروپس بھی ہوسکتے ہیں جن کی توجہ مختلف کاموں پر مرکوز ہوتی ہے، جیسے ٹولنگ، ٹرائیج، کمیونٹی اعتدال اور ایونٹ آرگنائزنگ۔ اس معلومات کو تلاش کرنے کے لیے کسی پروجیکٹ کی ویب سائٹ پر "ٹیم" کے صفحے، یا گورننس دستاویزات کے ذخیرے میں دیکھیں۔
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+ایک پروجیکٹ کے پاس دستاویزات بھی ہیں۔ یہ فائلیں عام طور پر ذخیرے کے اوپری درجے میں درج ہوتی ہیں۔
 
-* **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
-* **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
-* **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to. A good example of an effective Contributing Guide would be the one from [Codecademy's Docs repository](https://www.codecademy.com/resources/docs/contribution-guide).
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
-* **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects like [Astro Docs](https://docs.astro.build/en/contribute/#contributing-to-docs).
+* **لائسنس:** تعریف کے مطابق، ہر اوپن سورس پروجیکٹ کے پاس [اوپن سورس لائسنس](https://choosealicense.com) ہونا ضروری ہے۔ اگر پروجیکٹ کے پاس لائسنس نہیں ہے تو یہ اوپن سورس نہیں ہے۔
+* **README:** README ایک ہدایت نامہ ہے جو کمیونٹی کے نئے اراکین کو پروجیکٹ میں خوش آمدید کہتا ہے۔ یہ بتاتا ہے کہ پروجیکٹ کیوں مفید ہے اور کیسے شروع کیا جائے۔
+* **کنٹریبیوٹنگ:** جہاں READMEs لوگوں کو پروجیکٹ کو _استعمال_ کرنے میں مدد کرتے ہیں، وہیں تعاون کرنے والے دستاویزات لوگوں کو پروجیکٹ میں _contributing_ کرنے میں مدد کرتے ہیں۔ یہ بتاتا ہے کہ کن قسم کے تعاون کی ضرورت ہے اور یہ عمل کیسے کام کرتا ہے۔ اگرچہ ہر پروجیکٹ میں CONTRIBUTING فائل نہیں ہوتی ہے، لیکن اس کی موجودگی اس بات کا اشارہ دیتی ہے کہ یہ تعاون کرنے کے لیے ایک خوش آئند پروجیکٹ ہے۔ ایک مؤثر تعاون کرنے والی گائیڈ کی ایک اچھی مثال [Codecademy's Docs repository](https://www.codecademy.com/resources/docs/contribution-guide) سے ہوگی۔
+* **CODE_OF_CONDUCT:** ضابطہ اخلاق شرکا سے وابستہ رویے کے لیے بنیادی اصول طے کرتا ہے اور ایک دوستانہ، خوش آئند ماحول کو آسان بنانے میں مدد کرتا ہے۔ اگرچہ ہر پروجیکٹ میں CODE_OF_CONDUCT فائل نہیں ہوتی ہے، لیکن اس کی موجودگی اس بات کا اشارہ دیتی ہے کہ یہ تعاون کرنے کے لیے ایک خوش آئند پروجیکٹ ہے۔
+* **دیگر دستاویزات:** اضافی دستاویزات ہو سکتی ہیں، جیسے سبق، واک تھرو، یا گورننس پالیسیاں، خاص طور پر بڑے پروجیکٹس جیسے [Astro Docs](https://docs.astro.build/en/contribute/#contributing دستاویزات سے)۔
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+آخر میں، اوپن سورس پروجیکٹس بحث کو منظم کرنے کے لیے درج ذیل ٹولز کا استعمال کرتے ہیں۔ آرکائیوز کو پڑھنے سے آپ کو ایک اچھی تصویر ملے گی کہ کمیونٹی کس طرح سوچتی ہے اور کام کرتی ہے۔
 
-* **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress whether its to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint-fix.yml), use certain GitHub Action flows to automate and quicken their code reviews.  
-* **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations. A good example of this would be [CHAOSS' weekly Newsletter](https://chaoss.community/news/)
-* **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges. A good example of this would be [EddieHub's Discord community](http://discord.eddiehub.org/).
+*** ایشو ٹریکر:** جہاں لوگ پروجیکٹ سے متعلق مسائل پر بات کرتے ہیں۔
+* **درخواستیں کھینچیں:** جہاں لوگ ان تبدیلیوں پر تبادلہ خیال کرتے ہیں اور ان کا جائزہ لیتے ہیں جو جاری ہیں کہ آیا یہ شراکت کنندہ کے کوڈ، گرامر کا استعمال، تصاویر کا استعمال، وغیرہ کو بہتر بنانا ہے۔ کچھ پروجیکٹس، جیسے [MDN Web Docs](https: //github.com/mdn/content/blob/main/.github/workflows/markdown-lint-fix.yml)، اپنے کوڈ کے جائزوں کو خودکار اور تیز کرنے کے لیے مخصوص GitHub ایکشن فلو استعمال کریں۔
+* **ڈسکشن فورمز یا میلنگ لسٹ:** کچھ پروجیکٹس ان چینلز کو گفت و شنید کے موضوعات کے لیے استعمال کر سکتے ہیں (مثال کے طور پر، _"میں کیسے..."_ یا _"آپ کا کیا خیال ہے..."_ بگ کی بجائے رپورٹس یا فیچر کی درخواستیں)۔ دوسرے تمام بات چیت کے لیے ایشو ٹریکر استعمال کرتے ہیں۔ اس کی ایک اچھی مثال [CHAOSS' ہفتہ وار نیوز لیٹر](https://chaoss.community/news/) ہوگی۔
+* **مطابقت پذیر چیٹ چینل:** کچھ پروجیکٹس آرام دہ گفتگو، تعاون، اور فوری تبادلے کے لیے چیٹ چینلز (جیسے Slack یا IRC) استعمال کرتے ہیں۔ اس کی ایک اچھی مثال [EddieHub's Discord community](http://discord.eddiehub.org/) ہوگی۔
 
-## Finding a project to contribute to
+## شراکت کے لیے ایک پروجیکٹ تلاش کرنا
 
-Now that you've figured out how open source projects work, it's time to find a project to contribute to!
+اب جب کہ آپ یہ جان چکے ہیں کہ اوپن سورس پروجیکٹس کس طرح کام کرتے ہیں، اب وقت آگیا ہے کہ اس میں تعاون کرنے کے لیے کوئی پروجیکٹ تلاش کیا جائے!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said:, _"Ask not what your country can do for you - ask what you can do for your country."_
+اگر آپ نے پہلے کبھی اوپن سورس میں تعاون نہیں کیا ہے، تو امریکی صدر جان ایف کینیڈی سے کچھ مشورہ لیں، جنہوں نے ایک بار کہا تھا:، _"یہ مت پوچھو کہ آپ کا ملک آپ کے لیے کیا کر سکتا ہے - پوچھیں کہ آپ اپنے ملک کے لیے کیا کر سکتے ہیں۔"_
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
-  Ask not what your country can do for you - ask what you can do for your country.
+  یہ مت پوچھو کہ آپ کا ملک آپ کے لیے کیا کر سکتا ہے بلکہ پوچھیں کہ آپ اپنے ملک کے لیے کیا کر سکتے ہیں۔
   <p markdown="1" class="pquote-credit">
 — [_John f. Kennedy Library_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
   </p>
 </aside>
 
-Contributing to open source happens at all levels, across projects. You don't need to overthink what exactly your first contribution will be, or how it will look.
+اوپن سورس میں تعاون ہر سطح پر، تمام پروجیکٹس میں ہوتا ہے۔ آپ کو یہ سوچنے کی ضرورت نہیں ہے کہ آپ کا پہلا حصہ بالکل کیا ہوگا، یا یہ کیسا نظر آئے گا۔
 
-Instead, start by thinking about the projects you already use, or want to use. The projects you'll actively contribute to are the ones you find yourself coming back to.
+اس کے بجائے، ان منصوبوں کے بارے میں سوچ کر شروع کریں جو آپ پہلے سے استعمال کرتے ہیں، یا استعمال کرنا چاہتے ہیں۔ جن منصوبوں میں آپ فعال طور پر تعاون کریں گے وہ وہی ہیں جن پر آپ خود کو واپس آتے ہوئے پائیں گے۔
 
-Within those projects, whenever you catch yourself thinking that something could be better or different, act on your instinct.
+ان منصوبوں کے اندر، جب بھی آپ اپنے آپ کو یہ سوچتے ہیں کہ کچھ بہتر یا مختلف ہو سکتا ہے، اپنی جبلت پر عمل کریں۔
 
-Open source isn't an exclusive club; it's made by people just like you. "Open source" is just a fancy term for treating the world's problems as fixable.
+اوپن سورس کوئی خصوصی کلب نہیں ہے۔ یہ آپ جیسے لوگوں نے بنایا ہے۔ "اوپن سورس" دنیا کے مسائل کو حل کرنے کے قابل سمجھنے کے لیے صرف ایک فینسی اصطلاح ہے۔
 
-You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
+آپ README کو اسکین کر سکتے ہیں اور ایک ٹوٹا ہوا لنک یا ٹائپو تلاش کر سکتے ہیں۔ یا آپ ایک نئے صارف ہیں اور آپ نے دیکھا کہ کچھ ٹوٹا ہوا ہے، یا کوئی مسئلہ جو آپ کے خیال میں واقعی دستاویزات میں ہونا چاہیے۔ اسے نظر انداز کرنے اور آگے بڑھنے، یا کسی اور سے اسے ٹھیک کرنے کے لیے کہنے کے بجائے، دیکھیں کہ کیا آپ اندر جا کر مدد کر سکتے ہیں۔ اوپن سورس کا یہی مطلب ہے!
 
-> According to a study conducted by Igor Steinmacher and other Computer Science researchers, [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as  typo fixes, reformatting, or writing a translation.
+> Igor Steinmacher اور کمپیوٹر سائنس کے دیگر محققین کی طرف سے کی گئی ایک تحقیق کے مطابق، اوپن سورس کے لیے [28% غیر معمولی تعاون](https://www.igor.pro.br/publica/papers/saner2016.pdf) دستاویزات ہیں، جیسے جیسا کہ ٹائپنگ ٹھیک کرنا، دوبارہ فارمیٹ کرنا، یا ترجمہ لکھنا۔
 
-If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
+اگر آپ موجودہ مسائل کی تلاش کر رہے ہیں جس کو آپ ٹھیک کر سکتے ہیں، تو ہر اوپن سورس پروجیکٹ میں ایک `/contribute` صفحہ ہوتا ہے جو ابتدائی دوستانہ مسائل کو نمایاں کرتا ہے جس سے آپ شروعات کر سکتے ہیں۔ GitHub پر مخزن کے مرکزی صفحہ پر جائیں، اور URL کے آخر میں `/contribute` شامل کریں (مثال کے طور پر [`https://github.com/facebook/react/contribute`](https://github. com/facebook/react/contribute))۔
 
-You can also use one of the following resources to help you discover and contribute to new projects:
+آپ نئے پروجیکٹس کو دریافت کرنے اور ان میں تعاون کرنے میں مدد کے لیے درج ذیل وسائل میں سے ایک بھی استعمال کر سکتے ہیں:
 
-* [GitHub Explore](https://github.com/explore/)
-* [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](https://www.firsttimersonly.com/)
+* [گٹ ہب ایکسپلور](https://github.com/explore/)
+* [اوپن سورس فرائیڈے](https://opensourcefriday.com)
+* [صرف فرسٹ ٹائمرز](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
-* [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](https://up-for-grabs.net/)
-* [First Contributions](https://firstcontributions.github.io)
+* [24 پل کی درخواستیں](https://24pullrequests.com/)
+* [اپ فار گرابس](https://up-for-grabs.net/)
+* [پہلی شراکتیں](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 * [OpenSauced](https://opensauced.pizza/)
 
-### A checklist before you contribute
+### آپ کے تعاون سے پہلے ایک چیک لسٹ
 
-When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
+جب آپ کو کوئی ایسا پروجیکٹ مل جاتا ہے جس میں آپ تعاون کرنا چاہتے ہیں، تو اس بات کو یقینی بنانے کے لیے فوری اسکین کریں کہ پروجیکٹ شراکت قبول کرنے کے لیے موزوں ہے۔ ورنہ آپ کی محنت کا جواب کبھی نہیں مل سکتا۔
 
-Here's a handy checklist to evaluate whether a project is good for new contributors.
+یہ جانچنے کے لیے ایک آسان چیک لسٹ ہے کہ آیا کوئی پروجیکٹ نئے تعاون کنندگان کے لیے اچھا ہے۔
 
-**Meets the definition of open source**
+**اوپن سورس کی تعریف پر پورا اترتا ہے**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Does it have a license? Usually, there is a file called LICENSE in the root of the repository.
+کیا اس کا لائسنس ہے؟ عام طور پر، ذخیرے کی جڑ میں LICENSE نامی ایک فائل ہوتی ہے۔
   </label>
 </div>
 
-**Project actively accepts contributions**
+**پروجیکٹ فعال طور پر شراکتیں قبول کرتا ہے**
 
-Look at the commit activity on the main branch. On GitHub, you can see this information in the Insights tab of a repository's homepage, such as[Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
+مرکزی برانچ پر کمٹ کی سرگرمی کو دیکھیں۔ GitHub پر، آپ یہ معلومات ذخیرہ کے ہوم پیج کے بصیرت والے ٹیب میں دیکھ سکتے ہیں، جیسے [Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  When was the latest commit?
-  </label>
+تازہ ترین عہد کب تھا؟  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  How many contributors does the project have?
-  </label>
+اس منصوبے کے کتنے شراکت دار ہیں؟  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)
+لوگ کتنی بار ارتکاب کرتے ہیں؟ (گٹ ہب پر، آپ اسے اوپر والے بار میں "کمیٹس" پر کلک کر کے تلاش کر سکتے ہیں۔)
   </label>
 </div>
 
-Next, look at the project's issues.
+اگلا، پروجیکٹ کے مسائل کو دیکھیں۔
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    How many open issues are there?
+کتنے کھلے مسائل ہیں؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to issues when they are opened?
-  </label>
+کیا دیکھ بھال کرنے والے مسائل کا فوری جواب دیتے ہیں جب وہ کھولے جاتے ہیں؟  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the issues?
+کیا مسائل پر فعال بحث ہے؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Are the issues recent?
+کیا مسائل حالیہ ہیں؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
+   کیا مسائل بند ہو رہے ہیں؟ (GitHub پر، بند مسائل کو دیکھنے کے لیے مسائل کے صفحہ پر "بند" ٹیب پر کلک کریں۔)
   </label>
 </div>
 
@@ -307,41 +306,41 @@ Now do the same for the project's pull requests.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+کھلی پل کی کتنی درخواستیں ہیں؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Do maintainers respond quickly to pull requests when they are opened?
+کیا دیکھ بھال کرنے والے درخواستوں کو کھولنے پر فوری جواب دیتے ہیں؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Is there active discussion on the pull requests?
+کیا پل کی درخواستوں پر فعال بحث ہے؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Are the pull requests recent?
+کیا پل کی درخواستیں حالیہ ہیں؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
+   کسی بھی پل کی درخواستوں کو حال ہی میں کتنا ملایا گیا؟ (GitHub پر، بند PRs دیکھنے کے لیے Pull Requests صفحہ پر "بند" ٹیب پر کلک کریں۔)
   </label>
 </div>
 
-**Project is welcoming**
+**منصوبہ خوش آئند ہے**
 
-A project that is friendly and welcoming signals that they will be receptive to new contributors.
+ایک ایسا پروجیکٹ جو دوستانہ اور خوش آئند سگنل ہے کہ وہ نئے شراکت داروں کے لیے قبول کریں گے۔
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
