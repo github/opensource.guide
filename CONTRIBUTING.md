@@ -1,5 +1,5 @@
 ---
-layout: default
+Layout: default
 ---
 
 # Contributing to Open Source Guides
