@@ -32,7 +32,7 @@ Un mantenedor no necesariamente tiene que ser alguien que escribe c&oacute;digo 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Para [Node.js](https://nodejs.org/es/), cada persona que se presenta para comentar un problema o env&iacute;a c&oacute;digo es un miembro de la comunidad de un proyecto. S&oacute;lo ser capaz de verlos significa que han cruzado la l&iacute;nea de ser un usuario a ser un contribuyente.
+  [Para Node.js], cada persona que se presenta para comentar un problema o env&iacute;a c&oacute;digo es un miembro de la comunidad de un proyecto. S&oacute;lo ser capaz de verlos significa que han cruzado la l&iacute;nea de ser un usuario a ser un contribuyente.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
