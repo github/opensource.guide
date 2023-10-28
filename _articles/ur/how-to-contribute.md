@@ -345,181 +345,178 @@ Now do the same for the project's pull requests.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Do the maintainers respond helpfully to questions in issues?
-  </label>
+کیا دیکھ بھال کرنے والے مسائل میں سوالات کا مددگار جواب دیتے ہیں؟  </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
+   کیا ایشوز، ڈسکشن فورم، اور چیٹ میں لوگ دوستانہ ہیں (مثال کے طور پر، IRC یا Slack)؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Do pull requests get reviewed?
-  </label>
+کیا پل کی درخواستوں کا جائزہ لیا جاتا ہے؟  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Do maintainers thank people for their contributions?
-  </label>
+کیا دیکھ بھال کرنے والے لوگوں کے تعاون کے لیے ان کا شکریہ ادا کرتے ہیں؟  </label>
 </div>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+جب بھی آپ کوئی لمبا دھاگہ دیکھتے ہیں، دھاگے میں دیر سے آنے والے بنیادی ڈویلپرز کے اسپاٹ چیک جوابات۔ کیا وہ تعمیری طور پر خلاصہ کر رہے ہیں، اور شائستہ رہتے ہوئے دھاگے کو فیصلے تک پہنچانے کے لیے اقدامات کر رہے ہیں؟ اگر آپ دیکھتے ہیں کہ بہت سی شعلہ جنگیں چل رہی ہیں، تو یہ اکثر اس بات کی علامت ہے کہ توانائی ترقی کی بجائے بحث میں جا رہی ہے۔
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
 </aside>
 
-## How to submit a contribution
+## شراکت جمع کرنے کا طریقہ
 
-You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
+آپ کو اپنی پسند کا پروجیکٹ مل گیا ہے، اور آپ اپنا حصہ ڈالنے کے لیے تیار ہیں۔ آخرکار! اپنا تعاون صحیح طریقے سے حاصل کرنے کا طریقہ یہاں ہے۔
 
-### Communicating effectively
+### مؤثر طریقے سے بات چیت کرنا
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+چاہے آپ ایک وقتی تعاون کرنے والے ہوں یا کسی کمیونٹی میں شامل ہونے کی کوشش کر رہے ہوں، دوسروں کے ساتھ کام کرنا ان سب سے اہم مہارتوں میں سے ایک ہے جسے آپ اوپن سورس میں تیار کریں گے۔
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  \[ایک نئے تعاون کنندہ کے طور پر،\] میں نے جلدی سے محسوس کیا کہ اگر میں مسئلہ کو بند کرنے کے قابل ہونا چاہتا ہوں تو مجھے سوالات پوچھنے ہوں گے۔ میں نے کوڈ بیس کے ذریعے سکیم کیا۔ ایک بار جب مجھے کچھ احساس ہوا کہ کیا ہو رہا ہے، میں نے مزید سمت طلب کی۔ اور voilà! میں اپنی مطلوبہ تمام متعلقہ تفصیلات حاصل کرنے کے بعد اس مسئلے کو حل کرنے میں کامیاب رہا۔
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+اس سے پہلے کہ آپ کوئی مسئلہ کھولیں یا درخواست کریں، یا چیٹ میں کوئی سوال پوچھیں، ان نکات کو ذہن میں رکھیں تاکہ آپ کے خیالات کو مؤثر طریقے سے سامنے آنے میں مدد ملے۔
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**سیاق و سباق دیں۔** دوسروں کو تیزی سے تیز رفتار بنانے میں مدد کریں۔ اگر آپ کو کوئی غلطی ہو رہی ہے تو وضاحت کریں کہ آپ کیا کرنے کی کوشش کر رہے ہیں اور اسے دوبارہ کیسے بنایا جائے۔ اگر آپ کوئی نیا آئیڈیا تجویز کر رہے ہیں تو وضاحت کریں کہ آپ کو کیوں لگتا ہے کہ یہ پروجیکٹ کے لیے مفید ہوگا (صرف آپ کے لیے نہیں!)
 
-> 😇 _"X doesn't happen when I do Y"_
+> 😇 _"X نہیں ہوتا جب میں Y کرتا ہوں"_
 >
-> 😢 _"X is broken! Please fix it."_
+> 😢 _"X ٹوٹ گیا ہے! براہ کرم اسے ٹھیک کریں۔"_
 
-**Do your homework beforehand.** It's OK not to know things, but show that you tried. Before asking for help, be sure to check a project's README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate it when you demonstrate that you're trying to learn.
+**اپنا ہوم ورک پہلے سے کر لیں۔** چیزوں کو نہ جاننا ٹھیک ہے، لیکن دکھائیں کہ آپ نے کوشش کی۔ مدد طلب کرنے سے پہلے، کسی پروجیکٹ کی README، دستاویزات، مسائل (کھلی یا بند)، میلنگ لسٹ، اور جواب کے لیے انٹرنیٹ پر تلاش کرنا یقینی بنائیں۔ لوگ اس کی تعریف کریں گے جب آپ یہ ظاہر کریں گے کہ آپ سیکھنے کی کوشش کر رہے ہیں۔
 
-> 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
+> 😇 _"مجھے یقین نہیں ہے کہ X کو کیسے نافذ کیا جائے۔ میں نے مدد کے دستاویزات کو چیک کیا اور مجھے کوئی تذکرہ نہیں ملا۔"_
 >
-> 😢 _"How do I X?"_
+>😢 _"میں ایکس کیسے کروں؟"_
 
-**Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+**درخواستوں کو مختصر اور براہ راست رکھیں۔** بالکل ای میل بھیجنے کی طرح، ہر تعاون، چاہے کتنا ہی آسان یا مددگار ہو، کسی اور کے جائزے کی ضرورت ہوتی ہے۔ بہت سے منصوبوں میں مدد کے لیے دستیاب لوگوں سے زیادہ آنے والی درخواستیں ہوتی ہیں۔ مختصر ہونا۔ آپ اس موقع کو بڑھا دیں گے کہ کوئی آپ کی مدد کر سکے گا۔
 
-> 😇 _"I'd like to write an API tutorial."_
+> 😇 _"میں ایک API ٹیوٹوریل لکھنا چاہوں گا۔"_
 >
-> 😢 _"I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you..."_
+>😢 _"میں دوسرے دن ہائی وے پر گاڑی چلا رہا تھا اور گیس کے لیے رک گیا، اور تب مجھے یہ حیرت انگیز خیال آیا کہ ہمیں کچھ کرنا چاہیے، لیکن اس سے پہلے کہ میں اس کی وضاحت کروں، میں آپ کو دکھاتا ہوں..."_
 
-**Keep all communication public.** Although it's tempting, don't reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+**تمام مواصلات کو عوامی رکھیں۔** اگرچہ یہ پرکشش ہے، لیکن نجی طور پر دیکھ بھال کرنے والوں تک نہ پہنچیں جب تک کہ آپ کو حساس معلومات (جیسے سیکیورٹی کا مسئلہ یا اخلاق کی سنگین خلاف ورزی) کا اشتراک کرنے کی ضرورت نہ ہو۔ جب آپ گفتگو کو عام رکھتے ہیں تو زیادہ لوگ آپ کے تبادلے سے سیکھ سکتے ہیں اور فائدہ اٹھا سکتے ہیں۔ بات چیت، اپنے آپ میں، شراکت ہو سکتی ہے۔
 
-> 😇 _(as a comment) "@-maintainer Hi there! How should we proceed on this PR?"_
+> 😇 _(ایک تبصرہ کے طور پر) "@-maintainer ہیلو! ہمیں اس PR پر کیسے آگے بڑھنا چاہئے؟"_
 >
-> 😢 _(as an email) "Hey there, sorry to bother you over email, but I was wondering if you've had a chance to review my PR"_
+😢
 
-**It's okay to ask questions (but be patient!).** Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you'd want them to show to you.
+**سوال پوچھنا ٹھیک ہے (لیکن صبر کریں!)۔** ہر کوئی کسی وقت اس پروجیکٹ میں نیا تھا، اور یہاں تک کہ تجربہ کار شراکت داروں کو بھی کسی نئے پروجیکٹ کو دیکھتے وقت تیز رفتاری سے کام لینا پڑتا ہے۔ اسی علامت کے مطابق، یہاں تک کہ طویل عرصے سے دیکھ بھال کرنے والے بھی ہمیشہ منصوبے کے ہر حصے سے واقف نہیں ہوتے ہیں۔ انہیں وہی صبر دکھائیں جو آپ چاہتے ہیں کہ وہ آپ کو دکھائے۔
 
-> 😇 _"Thanks for looking into this error. I followed your suggestions. Here's the output."_
+> 😇 _"اس غلطی کو دیکھنے کا شکریہ۔ میں نے آپ کی تجاویز پر عمل کیا۔ آؤٹ پٹ یہ ہے۔"_
 >
-> 😢 _"Why can't you fix my problem? Isn't this your project?"_
+>😢 _"آپ میرا مسئلہ حل کیوں نہیں کر سکتے؟ کیا یہ آپ کا پروجیکٹ نہیں ہے؟"_
 
-**Respect community decisions.** Your ideas may differ from the community's priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+**کمیونٹی کے فیصلوں کا احترام کریں۔** آپ کے خیالات کمیونٹی کی ترجیحات یا وژن سے مختلف ہو سکتے ہیں۔ وہ رائے پیش کر سکتے ہیں یا آپ کے خیال پر عمل نہ کرنے کا فیصلہ کر سکتے ہیں۔ جب کہ آپ کو بحث کرنی چاہیے اور سمجھوتے کی تلاش کرنی چاہیے، مینٹینرز کو آپ کے فیصلے کے ساتھ آپ کی مرضی سے زیادہ دیر تک رہنا ہوگا۔ اگر آپ ان کی سمت سے متفق نہیں ہیں، تو آپ ہمیشہ اپنے کانٹے پر کام کر سکتے ہیں یا اپنا پروجیکٹ شروع کر سکتے ہیں۔
 
-> 😇 _"I'm disappointed you can't support my use case, but as you've explained it only affects a minor portion of users, I understand why. Thanks for listening."_
+> 😇 _"میں مایوس ہوں کہ آپ میرے استعمال کے معاملے کی حمایت نہیں کر سکتے، لیکن جیسا کہ آپ نے وضاحت کی ہے کہ یہ صرف صارفین کے ایک معمولی حصے کو متاثر کرتا ہے، میں سمجھتا ہوں کیوں۔ سننے کا شکریہ۔"_
 >
-> 😢 _"Why won't you support my use case? This is unacceptable!"_
+>😢 _"آپ میرے استعمال کے معاملے کی حمایت کیوں نہیں کریں گے؟ یہ ناقابل قبول ہے!"_
 
-**Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+**سب سے بڑھ کر، اسے بہترین رکھیں۔** اوپن سورس پوری دنیا کے ساتھیوں پر مشتمل ہے۔ سیاق و سباق زبانوں، ثقافتوں، جغرافیوں اور ٹائم زونز میں گم ہو جاتا ہے۔ اس کے علاوہ، تحریری موڈ کو ٹون یا موڈ بتانا مشکل بنا دیتا ہے۔ ان گفتگو میں نیک نیتی کا خیال رکھیں۔ شائستگی سے کسی آئیڈیا کو پیچھے دھکیلنا، مزید سیاق و سباق طلب کرنا، یا اپنی پوزیشن کو مزید واضح کرنا ٹھیک ہے۔ بس انٹرنیٹ کو اس سے بہتر جگہ چھوڑنے کی کوشش کریں جب آپ نے اسے پایا۔
 
-### Gathering context
+### سیاق و سباق جمع کرنا
 
-Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+کچھ بھی کرنے سے پہلے، اس بات کو یقینی بنانے کے لیے فوری جانچ پڑتال کریں کہ آپ کے خیال پر کہیں اور بات نہیں کی گئی ہے۔ پروجیکٹ کے README، مسائل (کھلے اور بند)، میلنگ لسٹ، اور اسٹیک اوور فلو کو سکیم کریں۔ آپ کو ہر چیز میں گھنٹوں گزارنے کی ضرورت نہیں ہے، لیکن چند کلیدی اصطلاحات کی فوری تلاش ایک طویل سفر طے کرتی ہے۔
 
-If you can't find your idea elsewhere, you're ready to make a move. If the project is on GitHub, you'll likely communicate by doing the following:
+اگر آپ کو اپنا آئیڈیا کہیں اور نہیں ملتا ہے، تو آپ آگے بڑھنے کے لیے تیار ہیں۔ اگر پروجیکٹ GitHub پر ہے، تو آپ ممکنہ طور پر درج ذیل کام کرکے بات چیت کریں گے:
 
-* **Raising an Issue:** These are like starting a conversation or discussion
-* **Pull requests** are for starting work on a solution.
-* **Communication Channels:** If the project has a designated Discord, IRC, or Slack channel, consider starting a conversation or asking for clarification about your contribution.
+* **مسئلہ اٹھانا:** یہ بات چیت یا بحث شروع کرنے کی طرح ہیں۔
+* **پل کی درخواستیں** حل پر کام شروع کرنے کے لیے ہیں۔
+* **مواصلاتی چینلز:** اگر پروجیکٹ کے پاس ایک نامزد ڈسکارڈ، آئی آر سی، یا سلیک چینل ہے، تو بات چیت شروع کرنے یا اپنے تعاون کے بارے میں وضاحت طلب کرنے پر غور کریں۔
 
-Before you open an issue or pull request, check the project's contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+اس سے پہلے کہ آپ کوئی ایشو کھولیں یا درخواست کریں، پروجیکٹ کے تعاون کرنے والے دستاویزات (عام طور پر ایک فائل جسے CONTRIBUTING کہا جاتا ہے، یا README میں) چیک کریں، یہ دیکھنے کے لیے کہ آیا آپ کو کوئی خاص چیز شامل کرنے کی ضرورت ہے۔ مثال کے طور پر، وہ پوچھ سکتے ہیں کہ آپ کسی ٹیمپلیٹ کی پیروی کریں، یا آپ سے ٹیسٹ استعمال کرنے کا مطالبہ کریں۔
 
-If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+اگر آپ کوئی خاطر خواہ حصہ ڈالنا چاہتے ہیں تو اس پر کام کرنے سے پہلے پوچھنے کے لیے کوئی مسئلہ کھولیں۔ اس منصوبے کو تھوڑی دیر کے لیے دیکھنا مفید ہے۔(on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) تمام بات چیت کے بارے میں مطلع کرنے کے لیے) اور ایسے کام کرنے سے پہلے جو شاید قبول نہ کیے جائیں، کمیونٹی کے اراکین کو جانیں۔
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+  آپ فعال طور پر استعمال کیے جانے والے ایک پروجیکٹ کو لینے، اسے GitHub پر "دیکھنے" اور ہر شمارے اور PR کو پڑھنے سے <em>بہت کچھ</em> سیکھیں گے۔
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
 </aside>
 
-### Opening an issue
+### ایک مسئلہ کھولنا
 
-You should usually open an issue in the following situations:
+آپ کو عام طور پر درج ذیل حالات میں ایک مسئلہ کھولنا چاہئے:
 
-* Report an error you can't solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* ایک غلطی کی اطلاع دیں جسے آپ خود حل نہیں کرسکتے ہیں۔
+* ایک اعلیٰ سطحی موضوع یا خیال پر بحث کریں (مثال کے طور پر کمیونٹی، وژن یا پالیسیاں)
+* ایک نئی خصوصیت یا دیگر پروجیکٹ آئیڈیا تجویز کریں۔
 
-Tips for communicating on issues:
+مسائل پر بات چیت کے لیے تجاویز:
 
-* **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
-* **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
-* **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
+*** اگر آپ کو کوئی کھلا مسئلہ نظر آتا ہے جس سے آپ نمٹنا چاہتے ہیں، تو اس مسئلے پر تبصرہ کریں تاکہ لوگوں کو معلوم ہو سکے کہ آپ اس پر ہیں۔ اس طرح، لوگوں کے آپ کے کام کی نقل تیار کرنے کا امکان کم ہوتا ہے۔
+**اگر کوئی مسئلہ کچھ دیر پہلے کھولا گیا تھا،** ممکن ہے کہ اسے کہیں اور حل کیا جا رہا ہو، یا پہلے ہی حل ہو چکا ہو، اس لیے کام شروع کرنے سے پہلے تصدیق کے لیے تبصرہ کریں۔
+**اگر آپ نے کوئی مسئلہ کھولا، لیکن بعد میں خود ہی اس کا جواب معلوم کر لیا،** لوگوں کو بتانے کے لیے اس مسئلے پر تبصرہ کریں، پھر مسئلہ کو بند کریں۔ یہاں تک کہ اس نتیجہ کی دستاویز کرنا بھی اس منصوبے میں ایک شراکت ہے۔
 
-### Opening a pull request
+### پل کی درخواست کھولنا
 
-You should usually open a pull request in the following situations:
+آپ کو عام طور پر درج ذیل حالات میں پل کی درخواست کھولنی چاہیے:
 
-* Submit small fixes such as a typo, a broken link or an obvious error.
-* Start work on a contribution that was already asked for, or that you've already discussed, in an issue.
+* چھوٹی اصلاحات جمع کروائیں جیسے کہ ٹائپنگ کی غلطی، ٹوٹا ہوا لنک یا کوئی واضح غلطی۔
+* اس شراکت پر کام شروع کریں جو پہلے ہی طلب کیا گیا تھا، یا جس پر آپ پہلے ہی کسی مسئلے میں بات کر چکے ہیں۔
 
-A pull request doesn't have to represent finished work. It's usually better to open a pull request early on, so others can watch or give feedback on your progress. Just open it as a "draft" or mark as a "WIP" (Work in Progress) in the subject line or "Notes to Reviewers" sections if provided (or you can just create your own. Like this: `**## Notes to Reviewer**`). You can always add more commits later.
+پل کی درخواست کو ختم شدہ کام کی نمائندگی کرنے کی ضرورت نہیں ہے۔ پل کی درخواست کو جلد کھولنا عام طور پر بہتر ہوتا ہے، تاکہ دوسرے آپ کی پیشرفت کو دیکھ سکیں یا اپنی رائے دے سکیں۔ اسے صرف ایک "ڈرافٹ" کے طور پر کھولیں یا مضمون کی لائن میں "WIP" (کام جاری ہے) کے بطور نشان زد کریں یا اگر فراہم کیا گیا ہو تو "نوٹز ٹو ریویورز" سیکشنز (یا آپ صرف اپنا بنا سکتے ہیں۔ اس طرح: `**## جائزہ لینے والے کے لیے نوٹس**`)۔ آپ بعد میں ہمیشہ مزید کمٹ شامل کر سکتے ہیں۔
 
-If the project is on GitHub, here's how to submit a pull request:
+اگر پروجیکٹ GitHub پر ہے تو، یہاں پل کی درخواست جمع کرنے کا طریقہ ہے:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** and clone it locally. Connect your local to the original "upstream" repository by adding it as a remote. Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).)
-* **[Create a branch](https://guides.github.com/introduction/flow/)** for your edits.
-* **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
-* **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-* **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. It's important to make sure your changes don't break the existing project.
-* **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+* **[Fork the repository](https://guides.github.com/activities/forking/)** اور اسے مقامی طور پر کلون کریں۔ اپنے مقامی کو ریموٹ کے طور پر شامل کرکے اصل "اپ اسٹریم" ریپوزٹری سے جوڑیں۔ "اپ اسٹریم" سے اکثر تبدیلیاں کریں تاکہ آپ اپ ٹو ڈیٹ رہیں تاکہ جب آپ اپنی پل کی درخواست جمع کرائیں تو انضمام کے تنازعات کا امکان کم ہوگا۔ (مزید تفصیلی ہدایات دیکھیں[here](https://help.github.com/articles/syncing-a-fork/).)
+* **[Create a branch](https://guides.github.com/introduction/flow/)** آپ کی ترامیم کے لیے۔
+* **کسی بھی متعلقہ مسائل کا حوالہ دیں** یا اپنے PR میں معاون دستاویزات (مثال کے طور پر، "کلوز #37۔")
+*** اگر آپ کی تبدیلیوں میں HTML/CSS میں فرق شامل ہے تو اس سے پہلے اور بعد کے اسکرین شاٹس شامل کریں۔ تصاویر کو اپنی پل کی درخواست کے باڈی میں گھسیٹیں اور چھوڑیں۔
+* **اپنی تبدیلیوں کی جانچ کریں!** اپنی تبدیلیاں کسی بھی موجودہ ٹیسٹ کے خلاف چلائیں اگر وہ موجود ہیں اور ضرورت پڑنے پر نئی بنائیں۔ یہ یقینی بنانا ضروری ہے کہ آپ کی تبدیلیاں موجودہ پروجیکٹ کو نہ توڑیں۔
+**پروجیکٹ کے انداز میں اپنا حصہ ڈالیں** اپنی بہترین صلاحیتوں سے۔ اس کا مطلب ہو سکتا ہے کہ انڈینٹ، نیم کالون یا تبصرے آپ کے اپنے ذخیرے میں استعمال کرنے سے مختلف ہوں، لیکن دیکھ بھال کرنے والے کے لیے ضم کرنا، دوسروں کو مستقبل میں سمجھنا اور برقرار رکھنا آسان بناتا ہے۔
 
-If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
+اگر یہ آپ کی پہلی پل ریکوئسٹ ہے تو، [Make a Pull Request](http://makeapullrequest.com/) کو دیکھیں، جسے @kentcdodds نے واک تھرو ویڈیو ٹیوٹوریل کے طور پر بنایا ہے۔ آپ @Roshanjossey کی تخلیق کردہ [First Contributions](https://github.com/Roshanjossey/first-contributions) ریپوزٹری میں پل کی درخواست کرنے کی مشق بھی کر سکتے ہیں۔
 
-## What happens after you submit your contribution
+## آپ اپنا تعاون جمع کروانے کے بعد کیا ہوتا ہے۔
 
-Before we start celebrating, one of the following will happen after you submit your contribution:
+اس سے پہلے کہ ہم جشن منانا شروع کریں، درج ذیل میں سے ایک آپ کے تعاون جمع کرانے کے بعد ہو گا:
 
-### 😭 You don't get a response
+### 😭 آپ کو کوئی جواب نہیں ملتا
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+امید ہے کہ آپ نے شراکت کرنے سے پہلے [سرگرمی کے آثار کے لیے پروجیکٹ کو چیک کیا ہے](#a-checklist-before-you-contribute)۔ ایک فعال پروجیکٹ پر بھی، تاہم، یہ ممکن ہے کہ آپ کے تعاون کو جواب نہ ملے۔
 
-If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+اگر آپ کو ایک ہفتے سے زیادہ وقت میں کوئی جواب نہیں ملا ہے تو، اسی تھریڈ میں شائستگی سے جواب دینا، کسی سے جائزہ لینے کے لیے کہنا مناسب ہے۔ اگر آپ اپنے تعاون کا جائزہ لینے کے لیے صحیح شخص کا نام جانتے ہیں، تو آپ اس تھریڈ میں ان کا @-ذکر کر سکتے ہیں۔
 
-**Don't reach out to that person privately**; remember that public communication is vital to open source projects.
+**اس شخص سے نجی طور پر رابطہ نہ کریں**؛ یاد رکھیں کہ اوپن سورس پروجیکٹس کے لیے عوامی رابطہ بہت ضروری ہے۔
 
-If you give a polite reminder and still do not receive a response, it's possible that nobody will ever respond. It's not a great feeling, but don't let that discourage you! 😄 There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
+اگر آپ شائستہ یاد دہانی دیتے ہیں اور پھر بھی جواب نہیں ملتا ہے، تو یہ ممکن ہے کہ کوئی بھی جواب نہ دے۔ یہ ایک اچھا احساس نہیں ہے، لیکن اس سے آپ کی حوصلہ شکنی نہ ہونے دیں! 😄 آپ کو جواب نہ ملنے کی بہت سی ممکنہ وجوہات ہیں، بشمول ذاتی حالات جو آپ کے قابو سے باہر ہو سکتے ہیں۔ کوئی دوسرا پروجیکٹ یا تعاون کرنے کا طریقہ تلاش کرنے کی کوشش کریں۔ اگر کچھ بھی ہے تو، یہ ایک اچھی وجہ ہے کہ کمیونٹی کے دیگر اراکین کے مشغول اور جوابدہ ہونے سے پہلے اپنا حصہ ڈالنے میں زیادہ وقت نہ لگائیں۔
 
-### 🚧 Someone requests changes to your contribution
+### 🚧 کوئی آپ کے تعاون میں تبدیلی کی درخواست کرتا ہے۔
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+یہ عام بات ہے کہ آپ سے اپنے تعاون میں تبدیلیاں کرنے کے لیے کہا جائے گا، چاہے وہ آپ کے خیال کے دائرہ کار پر رائے ہو، یا آپ کے کوڈ میں تبدیلیاں ہوں۔
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it. A good example of this would be [the feedback that another contributor has given to @a-m-lamb on their pull request to Codecademy's Docs](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
+جب کوئی تبدیلی کی درخواست کرتا ہے، تو جوابدہ بنیں۔ انہوں نے آپ کے تعاون کا جائزہ لینے کے لیے وقت نکالا ہے۔ PR کھولنا اور دور چلنا بری شکل ہے۔ اگر آپ تبدیلیاں کرنا نہیں جانتے ہیں تو مسئلہ کی تحقیق کریں، پھر اگر آپ کو ضرورت ہو تو مدد طلب کریں۔ اس کی ایک اچھی مثال یہ ہوگی [وہ تاثرات جو ایک اور تعاون کنندہ نے @a-m-lamb کو Codecademy's Docs میں اپنی پل کی درخواست پر دیا ہے](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286)۔
 
-If you don't have time to work on the issue anymore due to reasons such as the conversation has been going on for months, and your circumstances have changed or you're unable to find a solution, let the maintainer know so that they can open the issue for someone else, like [@RitaDee did for an issue at OpenSauced's app repository](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
+اگر مہینوں سے بات چیت جاری رہنے جیسی وجوہات کی بنا پر آپ کے پاس اس مسئلے پر مزید کام کرنے کا وقت نہیں ہے، اور آپ کے حالات بدل گئے ہیں یا آپ کوئی حل تلاش کرنے سے قاصر ہیں، تو دیکھ بھال کرنے والے کو بتائیں تاکہ وہ کسی اور کے لیے مسئلہ کھولیں، جیسے [@RitaDee نے OpenSauced's app repository میں کسی مسئلے کے لیے کیا](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346)۔
 
-### 👎 Your contribution doesn't get accepted
+### 👎 آپ کا تعاون قبول نہیں کیا جائے گا۔
 
-Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
+آپ کا تعاون آخر میں قبول کیا جا سکتا ہے یا نہیں۔ امید ہے کہ آپ نے پہلے ہی اس میں زیادہ کام نہیں کیا ہوگا۔ اگر آپ کو یقین نہیں ہے کہ اسے کیوں قبول نہیں کیا گیا، تو دیکھ بھال کرنے والے سے رائے اور وضاحت طلب کرنا بالکل مناسب ہے۔ تاہم، بالآخر، آپ کو اس بات کا احترام کرنے کی ضرورت ہوگی کہ یہ ان کا فیصلہ ہے۔ جھگڑا نہ کریں اور دشمنی نہ کریں۔ اگر آپ متفق نہیں ہیں تو آپ کا ہمیشہ خیرمقدم ہے اور اپنے ورژن پر کام کریں!
 
-### 🎉 Your contribution gets accepted
+### 🎉 آپ کا تعاون قبول ہو جاتا ہے۔
 
-Hooray! You've successfully made an open source contribution!
+ہورے! آپ نے کامیابی کے ساتھ اوپن سورس کا تعاون کیا ہے!
 
-## You did it! 🎉
+## تم نے یہ کیا! 🎉
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+چاہے آپ نے اپنا پہلا اوپن سورس تعاون کیا ہو، یا آپ تعاون کرنے کے نئے طریقے تلاش کر رہے ہوں، ہمیں امید ہے کہ آپ کارروائی کرنے کے لیے متاثر ہوں گے۔ یہاں تک کہ اگر آپ کا تعاون قبول نہیں کیا گیا تھا، تب بھی جب کوئی مینٹینر آپ کی مدد کرنے کی کوشش کرتا ہے تو شکریہ کہنا نہ بھولیں۔ اوپن سورس آپ جیسے لوگوں نے بنایا ہے: ایک مسئلہ، پل کی درخواست، تبصرہ، یا ایک وقت میں ہائی فائیو۔
