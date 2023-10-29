@@ -10,7 +10,7 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## ओपन सोर्स में योगदान क्यों करें?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
@@ -207,9 +207,9 @@ related:
 
 नई परियोजनाओं को खोजने और उनमें योगदान देने में सहायता के लिए आप निम्नलिखित संसाधनों में से किसी एक का भी उपयोग कर सकते हैं:
 
-* [GitHub Explore](https://github.com/explore/)
-* [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](https://www.firsttimersonly.com/)
+* [GitHub समन्वेषण](https://github.com/explore/)
+* [Open Source शुक्रवार](https://opensourcefriday.com)
+* [पहली बार आने वाले](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
