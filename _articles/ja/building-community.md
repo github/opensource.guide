@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: 居心地の良いコミュニティを築こう
-description: 人々があなたのプロジェクトを使ったり、コントリビュートしたり、人に伝えたくなるようなコミュニティを築きましょう
+description: 人々があなたのプロジェクトを使ったり、コントリビュートしたり、人に伝えたくなるようなコミュニティを築きましょう。
 class: building
 order: 4
 image: /assets/images/cards/building.png
