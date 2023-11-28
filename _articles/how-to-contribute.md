@@ -195,7 +195,7 @@ If you've never contributed to open source before, take some advice from U.S. Pr
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
   Ask not what your country can do for you - ask what you can do for your country.
   <p markdown="1" class="pquote-credit">
-— [_John f. Kennedy Library_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
+— [_John F. Kennedy Library_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
   </p>
 </aside>
 
