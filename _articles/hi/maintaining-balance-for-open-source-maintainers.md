@@ -86,7 +86,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 क्या आप 10 सप्ताह तक अपनी गति बनाए रख सकते हैं? दस महीने? 10 वर्ष?
 
-उपकरण जैसे [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) [@shaunagm](https://github.com/shaunagm) से और मोज़िला का [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) इससे आपको अपनी वर्तमान गति पर विचार करने और यह देखने में मदद मिल सकती है कि क्या आप कोई समायोजन कर सकते हैं। कुछ अनुरक्षक नींद की गुणवत्ता और हृदय गति परिवर्तनशीलता (दोनों तनाव से जुड़े हुए हैं) जैसे मेट्रिक्स को ट्रैक करने के लिए पहनने योग्य तकनीक का भी उपयोग करते हैं।
+उपकरण जैसे [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) [@shaunagm](https://github.com/shaunagm) से और मोज़िला का इससे आपको अपनी वर्तमान गति पर विचार करने और यह देखने में मदद मिल सकती है कि क्या आप कोई समायोजन कर सकते हैं। कुछ अनुरक्षक नींद की गुणवत्ता और हृदय गति परिवर्तनशीलता (दोनों तनाव से जुड़े हुए हैं) जैसे मेट्रिक्स को ट्रैक करने के लिए पहनने योग्य तकनीक का भी उपयोग करते हैं।
 
 <aside markdown="1" class="pquote">
  मैं अच्छे पहनने योग्य वस्तुओं में बड़ा विश्वास रखता हूँ। इसके पीछे के विज्ञान से, आप समझ सकते हैं कि आप कैसे बेहतर कर सकते थे और आप जो करना चाहते हैं उसकी इष्टतम स्थिति कैसे प्राप्त करें।
@@ -171,7 +171,6 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * [अनकर्लड](https://daniel.haxx.se/uncurled/), डेनियल स्टेनबर्ग
 * [जहरीले लोगों से कैसे निपटें](https://www.youtube.com/watch?v=7lIpP3GEyXs), जीना हाउजगे
 * [सस्टेनओएसएस](https://sustainoss.org/)
-* [व्यक्तिगत पारिस्थितिकी स्व-मूल्यांकन किट](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), मोज़िला
 * [नेतृत्व की रॉकवुड कला](https://rockwoodleadership.org/art-of-leadership/)
 * [नहीं कहना](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), माइक मैकक्यूएड
 * [गवर्निंग ओपन](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
