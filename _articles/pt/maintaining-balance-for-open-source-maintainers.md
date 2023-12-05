@@ -85,9 +85,7 @@ Dedique um tempo para refletir sobre quais aspectos da manutenção em código a
 
 Você consegue manter seu ritmo por 10 semanas? 10 meses? 10 anos?
 
-
 Existem ferramentas como a [Lista de Verificação de Esgotamento](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) que podem ajudá-lo a refletir sobre seu ritmo atual e ver se há ajustes que você pode fazer. Alguns mantenedores também usam tecnologia vestível para acompanhar métricas como qualidade do sono e variabilidade da frequência cardíaca (ambas ligadas ao estresse).
-
 
 <aside markdown="1" class="pquote">
  Sou um grande defensor de dispositivos vestíveis de qualidade. Com a ciência por trás deles, você pode entender como poderia ter se saído melhor e como atingir um estado ideal do que deseja fazer.
@@ -176,7 +174,6 @@ Lembre-se, a ecologia pessoal é uma prática contínua que evoluirá à medida 
 * [Dizer Não](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Governança do Código Aberto](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
 * A agenda do workshop foi adaptada a partir da série [Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) da Mozilla.
-
 
 ## Contribuidores
 
