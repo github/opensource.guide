@@ -86,7 +86,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 您能夠保持這種節奏達10週嗎？10個月？10年？
 
-有一些工具，例如來自 [@shaunagm](https://github.com/shaunagm) 的 [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) 和 Mozilla 的 [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw)，可以幫助您反思您目前的節奏，並查看是否有任何調整的空間。一些維護者還使用可穿戴技術來追蹤睡眠質量和心率變異性等指標（這些都與壓力有關）。
+有一些工具，例如來自 [@shaunagm](https://github.com/shaunagm) 的 [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) 和 可以幫助您反思您目前的節奏，並查看是否有任何調整的空間。一些維護者還使用可穿戴技術來追蹤睡眠質量和心率變異性等指標（這些都與壓力有關）。
 
 <aside markdown="1" class="pquote">
  我非常相信優質的可穿戴設備。有了背後的科學知識，您可以了解如何做得更好，以及如何達到您想要達到的最佳狀態。
@@ -169,7 +169,6 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg 
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
-* [Personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
 * [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)

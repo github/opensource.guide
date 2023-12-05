@@ -105,7 +105,7 @@ redirect_from: /zh-cn/legal/
 
 一些情况下你们可能想要为你们的项目考虑一个额外的贡献协议：
 
-* 你们的律师想要所有的贡献者明确接受贡献者条款，或者因为他们觉得只有开源许可协议还远远不够。如果这是唯一的问题，那么有肯定项目开源许可协议的贡献者协议就足够了。[jQuery个人贡献者许可协议](https://contribute.jquery.org/CLA/)就是一个很好的轻量级的个人贡献者协议。对于一些项目来说，[Developer Certificate of Origin](https://github.com/probot/dco)是一个很好的先择。
+* 你们的律师想要所有的贡献者明确接受贡献者条款，或者因为他们觉得只有开源许可协议还远远不够。如果这是唯一的问题，那么有肯定项目开源许可协议的贡献者协议就足够了。[jQuery个人贡献者许可协议](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/)就是一个很好的轻量级的个人贡献者协议。对于一些项目来说，[Developer Certificate of Origin](https://github.com/probot/dco)是一个很好的先择。
 * 你们的项目使用的开放源许可协议不包括明确的专利授权（如MIT），你们需要所有贡献者的专利授权，这些可能适合用于你们公司的专利组合或者项目的其他贡献者和用户。[Apache 个人贡献者许可协议](https://www.apache.org/licenses/icla.txt)是一种常用的附加贡献者协议，其具有与Apache许可2.0中的专利许可相同的专利许可。
 * 如果你们的项目使用的是copyleft许可协议，但你们也需要分发项目的专有版本。那你们需要每个贡献者分配版权给你们或者授予你们许可权。[MongoDB贡献者协议](https://www.mongodb.com/legal/contributor-agreement)就是这中类型的。
 * 你们认为你们的项目在其有效期内需要更换许可协议，以及事先得到贡献者的同意。

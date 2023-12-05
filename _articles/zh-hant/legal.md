@@ -105,7 +105,7 @@ redirect_from: /zh-tw/legal/
 
 一些情況下你們可能想要爲你們的專案考慮一個額外的貢獻協議：
 
-* 你們的律師想要所有的貢獻者明確接受貢獻者條款，或者因爲他們覺得只有開源許可協議還遠遠不夠。如果這是唯一的問題，那麼有肯定專案開源許可協議的貢獻者協議就足夠了。[jQuery個人貢獻者許可協議](https://contribute.jquery.org/CLA/)就是一個很好的輕量級的個人貢獻者協議。對於一些專案來說，[Developer Certificate of Origin](https://github.com/probot/dco)是一個很好的先例。
+* 你們的律師想要所有的貢獻者明確接受貢獻者條款，或者因爲他們覺得只有開源許可協議還遠遠不夠。如果這是唯一的問題，那麼有肯定專案開源許可協議的貢獻者協議就足夠了。[jQuery個人貢獻者許可協議](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/)就是一個很好的輕量級的個人貢獻者協議。對於一些專案來說，[Developer Certificate of Origin](https://github.com/probot/dco)是一個很好的先例。
 * 你們的專案使用的開放源許可協議不包括明確的專利授權（如MIT），你們需要所有貢獻者的專利授權，這些可能適合用於你們公司的專利組合或者專案的其他貢獻者和用戶。[Apache 個人貢獻者許可協議](https://www.apache.org/licenses/icla.txt)是一種常用的附加貢獻者協議，其具有與Apache許可2.0中的專利許可相同的專利許可。
 * 如果你們的專案使用的是copyleft許可協議，但你們也需要分發專案的專有版本。那你們需要每個貢獻者分配版權給你們或者授予你們許可權。[MongoDB貢獻者協議](https://www.mongodb.com/legal/contributor-agreement)就是這中類型的。
 * 你們認爲你們的專案在其有效期內需要更換許可協議，以及事先得到貢獻者的同意。

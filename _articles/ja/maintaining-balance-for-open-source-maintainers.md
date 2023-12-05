@@ -85,7 +85,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 あなたは 10 週間、10 ヶ月、10 年とこのペースを続けることができますか？
 
-[@shaunagm](https://github.com/shaunagm) による [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) や Mozilla の[自己評価キット](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw)のようなツールがあり、自分の現在のペースを振り返り、調整できる点があるかどうかを確認することができます。一部のメンテナーは、睡眠の質や心拍数変動 (両方ともストレスに関連している) のような指標を追跡するためにウェアラブル技術も利用しています。
+[@shaunagm](https://github.com/shaunagm) による [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) や のようなツールがあり、自分の現在のペースを振り返り、調整できる点があるかどうかを確認することができます。一部のメンテナーは、睡眠の質や心拍数変動 (両方ともストレスに関連している) のような指標を追跡するためにウェアラブル技術も利用しています。
 
 <aside markdown="1" class="pquote">
  私は良質なウェアラブル技術を強く信じています。その背後にある科学的根拠によって、どのように改善的できたかや、目指す状態を最適にする方法を理解することができます。
@@ -170,7 +170,6 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
-* [Personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
 * [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
