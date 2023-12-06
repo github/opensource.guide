@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: オープンソースプロジェクトを始めよう
-description: オープンソースの世界のことをもっと学び、あなた自身のプロジェクトを立ち上げる準備をしましょう
+description: オープンソースの世界のことをもっと学び、あなた自身のプロジェクトを立ち上げる準備をしましょう。
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png
