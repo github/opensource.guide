@@ -86,7 +86,7 @@ Es importante entender qué nos lleva al agotamiento. Aquí hay algunas temas co
 
 ¿Puedes mantener tu ritmo durante 10 semanas? ¿10 meses? ¿10 años?
 
-Existen herramientas como la [Lista de verificación de agotamiento](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) y el [kit de autoevaluación de ecología personal de Mozilla](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) que pueden ayudarte a reflexionar sobre tu ritmo actual y ver si hay ajustes que puedas hacer. Algunos contribuidores también utilizan tecnología portátil para realizar un seguimiento de métricas como la calidad del sueño y la variabilidad de la frecuencia cardíaca (ambas vinculadas al estrés).
+Existen herramientas como la [Lista de verificación de agotamiento](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) que pueden ayudarte a reflexionar sobre tu ritmo actual y ver si hay ajustes que puedas hacer. Algunos contribuidores también utilizan tecnología portátil para realizar un seguimiento de métricas como la calidad del sueño y la variabilidad de la frecuencia cardíaca (ambas vinculadas al estrés).
 
 <aside markdown="1" class="pquote">
   Soy un gran creyente en las buenas tecnologías portátiles. Con la ciencia detrás de ello, puedes entender cómo podrías haberlo hecho mejor y cómo llegar a un estado óptimo de lo que quieres hacer.
@@ -171,7 +171,6 @@ Recuerda, la ecología personal es una práctica continua que evolucionará a me
 * [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg
 * [Cómo lidiar con personas tóxicas](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
-* [Kit de autoevaluación de ecología personal](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
 * [Cómo decir no](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Gobernanza del Código Abierto](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)

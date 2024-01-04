@@ -86,7 +86,7 @@ Es ist wichtig zu verstehen, was die Ursachen für Burnout sind. Hier sind ein p
 
 Können Sie Ihr Tempo 10 Wochen lang beibehalten? 10 Monate? 10 Jahre?
 
-Es gibt Tools wie die [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) von [@shaunagm](https://github.com/shaunagm) und Mozillas [Personal Ecology Self-Assessment Kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), die Ihnen dabei helfen können, Ihr aktuelles Tempo zu reflektieren und zu sehen, ob Sie Anpassungen vornehmen können. Einige Betreuer verwenden auch Wearables, um Messwerte wie Schlafqualität und Herzfrequenzvariabilität (die beide mit Stress in Verbindung stehen) zu verfolgen.
+Es gibt Tools wie die [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) von [@shaunagm](https://github.com/shaunagm) die Ihnen dabei helfen können, Ihr aktuelles Tempo zu reflektieren und zu sehen, ob Sie Anpassungen vornehmen können. Einige Betreuer verwenden auch Wearables, um Messwerte wie Schlafqualität und Herzfrequenzvariabilität (die beide mit Stress in Verbindung stehen) zu verfolgen.
 
 <aside markdown="1" class="pquote">
  Ich bin ein großer Befürworter von guten Wearables. Mit der Wissenschaft dahinter kann man verstehen, was man hätte besser machen können und wie man seine Ziele optimal erreichen kann.
@@ -171,7 +171,6 @@ Denken Sie daran, dass persönliche Ökologie eine fortlaufende Praxis ist, die 
 * [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg 
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
-* [Personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
 * [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
