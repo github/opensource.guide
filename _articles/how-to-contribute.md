@@ -242,7 +242,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the main branch. On GitHub, you can see this information in the Insights tab of a repository's homepage, such as[Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
+Look at the commit activity on the main branch. On GitHub, you can see this information in the Insights tab of a repository's homepage, such as [Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
