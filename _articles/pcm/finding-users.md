@@ -1,5 +1,5 @@
 ---
-lang: pidgin
+lang: pcm
 title: How to find the people to helep your project
 description: You go helep your open source project grow if you bin put am with people waeh dey happy happy.
 class: finding

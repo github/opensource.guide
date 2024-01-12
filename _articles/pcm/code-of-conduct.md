@@ -1,5 +1,5 @@
 ---
-lang: pidgin
+lang: pcm
 title: Una Code of Conduct
 description: Make community people dey behave well and do constructive tins, by accepting and enforcing the code of conduct.
 class: coc
