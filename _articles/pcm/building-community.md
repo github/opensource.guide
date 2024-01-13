@@ -85,7 +85,7 @@ Even if you no fit review the request immediately, acknowledge am early to help 
 
 A Mozilla study talk say if dem review code within 48 hours, plenty contributors dey return and contribute again.
 
-Any talku talku about your project fit dey happen for other places online like Stack Overflow, Twitter, or Reddit. You fit set notification for some of these places so dem go alert you if person talk about your project.
+Any talku-talku about your project fit dey happen for other places online like Stack Overflow, Twitter, or Reddit. You fit set notification for some of these places so dem go alert you if person talk about your project.
 
 ### Make you create one place where your community go gather
 
@@ -175,7 +175,7 @@ As your project dey begin, e dey easy to make major decisions. When you wan do s
 
 As your project dey popular, more people go dey chook eye for the decisions wey you dey take. Even if you no get big community of contributors, if your project get many users, people go wan add their mouth for the decisions or raise their own issues.
 
-Aside small-small issues wey e clear say your community go fit resolve, sometimes you fit see say one issue dey tough small small.
+Aside small-small issues wey e clear say your community go fit resolve, sometimes you fit see say one issue dey tough small-small.
 
 ### Arrange everything make kindness dey
 
