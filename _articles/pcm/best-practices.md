@@ -1,5 +1,5 @@
 ---
-lang: pidgin
+lang: pcm
 title: Best Practices for Maintainers
 description: Learn how to make your life easy as an open source maintainer, from documentation to community collaboration. Make sense of maintaining open source projects with these top-notch tips.
 class: best-practices
@@ -42,16 +42,16 @@ As @lord don talk, project vision fit help you know wetin you go fit work on. As
 
 E fit hard you to write down rules. Sometimes you fit think say you dey police people or say you dey dull dem vibe.
 
-But if you write rules fairly and you dey follow am, e go empower you. E go prevent you from doing tins wey you no like. People wey see your project fit no sabi your condition or circumstances. Dem fit think say dem dey pay you for the work wey you dey do, especially if na wetin dem dey use well well. Dem fit even think say you dey busy with new work or family matter.
+But if you write rules fairly and you dey follow am, e go empower you. E go prevent you from doing tins wey you no like. People wey see your project fit no sabi your condition or circumstances. Dem fit think say dem dey pay you for the work wey you dey do, especially if na wetin dem dey use well-well. Dem fit even think say you dey busy with new work or family matter.
 
 E good make people sabi dis tins.
 
 If to maintain your project na part-time or you dey do am because you volunteer, make you talk the time wey you get. E no be say na the time wey your project need or wetin people dey ask you for, na the time wey you get na e you go talk. E fit good if you write down some rules like:
 
-- How dem go review contribution (dem need test? Issue template?)
-- The kind of contribution wey dem go accept (you wan make dem help you with specific part of your code?)
-- When e go make sense for dem to follow up (e.g., "you fit expect response from maintainer within 7 days, if you no see any response by then, you fit ping the thread")
-- How much time you dey spend for the project (e.g., "we dey spend like 5 hours per week on this project")
+* How dem go review contribution (dem need test? Issue template?)
+* The kind of contribution wey dem go accept (you wan make dem help you with specific part of your code?)
+* When e go make sense for dem to follow up (e.g., "you fit expect response from maintainer within 7 days, if you no see any response by then, you fit ping the thread")
+* How much time you dey spend for the project (e.g., "we dey spend like 5 hours per week on this project")
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) na some examples of projects wey get rules for maintainers and contributors.
 
@@ -65,7 +65,7 @@ If you meet other maintainers or you take big decision for private, write the co
 
 You don write down wetin you want, but people never read your documentation well. Sometimes you go still remind them say knowledge dey your documentation.
 
-Saying no no dey fun, but make you try yarn "Your contribution no dey follow this project criteria" e no too personal like "I no like your contribution."
+Saying "no" no dey fun, but make you try yarn "Your contribution no dey follow this project criteria" e no too personal like "I no like your contribution."
 
 You go fit yarn no for plenty situations wey you go see as maintainer like feature requests wey no follow your project plan or person wey dey disturb discussion.
 
@@ -89,7 +89,7 @@ If you come across one contribution wey you no wan accept, your first reaction f
 
 No just allow one contribution wey you no want dey open because you dey feel bad or you dey try to dey nice. As time dey go, the issues and PRs wey you never answer go make your project come dey feel like say e too stress you and dey intimidate you.
 
-E better make you quick-close contributions wey you sabi say you no wan accept am. If your project don already gather plenti matter wey never resolve, @steveklabnik get some advice on [how to quickly arrange the issues] so e go dey efficient. (https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+E better make you quick-close contributions wey you sabi say you no wan accept am. If your project don already gather plenti matter wey never resolve, @steveklabnik get some advice on [how to quickly arrange the issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) so e go dey efficient.
 
 If you no wan accept one contribution:
 
@@ -245,7 +245,7 @@ Just like any other work, make you dey take regular breaks so you go dey refresh
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https/danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
@@ -257,4 +257,4 @@ Taking breaks no only apply to vacations, e fit include say you no wan do open s
 
 ## Make you dey take care of yourself first!
 
-To maintaining one popular project require different skills from the first first time of growth, but e no dey less rewarding. As one maintainer, you go dey practice leadership and personal skills for one level wey few people fit experience. Though e no dey easy to manage, setting clear boundaries and only taking on wetin you dey comfortable with go help you dey happy, refreshed, and productive.
+To maintaining one popular project require different skills from the first-first time of growth, but e no dey less rewarding. As one maintainer, you go dey practice leadership and personal skills for one level wey few people fit experience. Though e no dey easy to manage, setting clear boundaries and only taking on wetin you dey comfortable with go help you dey happy, refreshed, and productive.

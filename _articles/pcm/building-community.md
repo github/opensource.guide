@@ -141,7 +141,7 @@ You no go fit talk with most people wey go show for your project. Some people fi
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  Una leaders go get different opinions, as all healthy communities should! The thing be say, you gas take steps to make sure the loudest voice no dey always win by tiring people out, and that small small voices for our midst, we dey hear am.
+  Una leaders go get different opinions, as all healthy communities should! The thing be say, you gas take steps to make sure the loudest voice no dey always win by tiring people out, and that small-small voices for our midst, we dey hear am.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["Wetin makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
@@ -191,7 +191,6 @@ Make your head nor dey hot e nor easy, but as you set good example, e go make yo
 
 Your README [no be only set of instructions](../starting-a-project/#writing-a-readme). E also na place to yan about your goals, product vision, and roadmap. If people dey focus too much on top argument about one particular feature, e fit help if you go back your README, talk about the higher vision of your project. To focus on your README go even make the matter no dey personal, so that you go fit yan-kick with sense.
 
-
 ### Make we focus for the journey, nor be the destination
 
 Some projects dey use voting process to take make major decisions. E fit look sensible for eye at first, but voting dey show say them dey find 'answer,' instead of say them dey listen to each other concerns.
@@ -235,7 +234,6 @@ If the talk clear nor dey waka, e nor get clear action to take, or the right act
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
-
 
 ### Choose your battles with sense
 

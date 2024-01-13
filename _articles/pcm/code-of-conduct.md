@@ -24,10 +24,10 @@ Make you try your best to arrange code of conduct early, if you fit, ideally whe
 
 Apart from just communicating your expectations, code of conduct fit describe the following:
 
-- Where the code of conduct dey apply _(only on issues and pull requests, or community activities like events?)_
-- Whom the code of conduct dey apply to _(community members and maintainers, but what about sponsors?)_
-- Wetin go happen if person violate the code of conduct
-- How person fit report violations
+* Where the code of conduct dey apply _(only on issues and pull requests, or community activities like events?)_
+* Whom the code of conduct dey apply to _(community members and maintainers, but what about sponsors?)_
+* Wetin go happen if person violate the code of conduct
+* How person fit report violations
 
 Anywhere way you fit, try to use previous example. The [Contributor Covenant](https://contributor-covenant.org/) na code of conduct wey many open source projects, including Kubernetes, Rails, and Swift, don use, and e fit serve as example.
 
@@ -46,11 +46,11 @@ Put one CODE_OF_CONDUCT file for your project's main directory, and make sure sa
 
 You suppose explain how you go enforce your code of conduct **_before_** person violate am. Some reasons why you suppose do am be say:
 
-- E show say you dey serious about action when e dey necessary.
+* E show say you dey serious about action when e dey necessary.
 
-- Your community go dey reassured say complaints go dey reviewed.
+* Your community go dey reassured say complaints go dey reviewed.
 
-- You go reassure your community say the review process go dey fair and transparent, if at any time dem dey investigated for violation.
+* You go reassure your community say the review process go dey fair and transparent, if at any time dem dey investigated for violation.
 
 You suppose give people private way (like email address) to report code of conduct violation and explain who go receive that report. E fit be maintainer, group of maintainers, or code of conduct working group.
 
@@ -87,15 +87,15 @@ If person report say somebody violate the code of conduct, e na you suppose hand
 
 You fit respond to code of conduct violation for different ways:
 
-- **Warn the person wey dey involved publicly** and explain how their behavior affect others, preferably for the place where e happen. If possible, public communication go show the rest of the community say you dey serious about the code of conduct. Make you dey kind but firm for your communication.
+* **Warn the person wey dey involved publicly** and explain how their behavior affect others, preferably for the place where e happen. If possible, public communication go show the rest of the community say you dey serious about the code of conduct. Make you dey kind but firm for your communication.
 
-- **Privately reach out to the person** wey dey involved to explain how their behavior affect others. You fit use private communication channel if the situation get sensitive personal information. If you communicate privately with person, e good make you CC those wey first report the situation, so dem go know say you don take action. Ask the person wey report make e agree before you CC am.
+* **Privately reach out to the person** wey dey involved to explain how their behavior affect others. You fit use private communication channel if the situation get sensitive personal information. If you communicate privately with person, e good make you CC those wey first report the situation, so dem go know say you don take action. Ask the person wey report make e agree before you CC am.
 
 Sometimes, you fit no fit resolve the matter. The person wey dey involved fit dey aggressive or hostile when you confront am, or e no fit change their behavior. For this kind situation, you fit consider stronger action. For example:
 
-- **Suspend the person** wey dey involved for the project, you go enforce am through temporary ban wey go stop am from participating for any aspect of the project.
+* **Suspend the person** wey dey involved for the project, you go enforce am through temporary ban wey go stop am from participating for any aspect of the project.
 
-- **Permanently ban** the person from the project.
+* **Permanently ban** the person from the project.
 
 Make you no take banning members lightly, e be like say e be something wey no fit change and no fit reconcile different perspectives. You suppose only take these measures if e clear say you no fit resolve the matter.
 
