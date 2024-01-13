@@ -1,5 +1,5 @@
 ---
-lang: pidgin
+lang: pcm
 title: Na Welcoming Communities we go Build
 description: Make you build one community wey go encourage people make them use, contribute, and promote your project.
 class: building
@@ -35,7 +35,7 @@ Start with your documentation:
 * **When new person land for your project, thank them for their interest!** E fit just take one bad experience for person to no wan come back again.
 * **Be responsive.** If you no respond to their issue for one month, e possible say them don forget your project.
 * **Open mind about the types of contributions wey you go accept.** Many contributors start with one bug report or one small fix. Many ways dey to contribute to one project. Make people fit help the way wey them wan help.
-* **If one person submit one contribution wey you no gree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) e no follow your project scope, and you fit add link to the relevant documentation wey you get.
+* **If one person submit one contribution wey you no gree with,** thank them for their idea and [explain why](../best-practices/#sabi-to-say-no) e no follow your project scope, and you fit add link to the relevant documentation wey you get.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -119,7 +119,7 @@ Do your best make you get zero-tolerance policy for these kind people. If you no
 
 Regular debates on top small-small parts of your project dey distract others, and even you, from focusing on important work. New people wey show for your project fit see these arguments and no wan join.
 
-Any time you see bad behavior wey dey happen for your project, yan am out for public. Explain, with kind but firm words, why their behavior no good. If the problem no stop, you fit need [tell them make dem waka](../code-of-conduct/#enforcing-your-code-of-conduct). Your [code of conduct](../code-of-conduct/) fit be useful guide for these talks.
+Any time you see bad behavior wey dey happen for your project, yan am out for public. Explain, with kind but firm words, why their behavior no good. If the problem no stop, you fit need [tell them make dem waka](../code-of-conduct/#how-you-go-take-think-your-code-of-conduct-to-stand-gidi-gba). Your [code of conduct](../code-of-conduct/) fit be useful guide for these talks.
 
 ### Meet contributors where dem dey
 
@@ -181,7 +181,7 @@ Aside small-small issues wey e clear say your community go fit resolve, sometime
 
 When your community dey tackle one yeye issue, tempers fit dey rise. People fit vex or feel frustrated and dem fit they chook mouth for each other or for your matter.
 
-Your work as maintainer na to make sure say these situations no go high. Even if you get strong opinion on top the matter, try play moderator or facilitator role, no just enter the matter dey force your views. If person no dey polite or e dey use mouth scatter discussions, [take action immediately](../building-community/#dont-tolerate-bad-actors) to make sure say discussions dey civil and productive.
+Your work as maintainer na to make sure say these situations no go high. Even if you get strong opinion on top the matter, try play moderator or facilitator role, no just enter the matter dey force your views. If person no dey polite or e dey use mouth scatter discussions, [take action immediately](../building-community/#no-dey-tolerate-bad-actors) to make sure say discussions dey civil and productive.
 
 Other people dey look you for guidance. Set example wey go make sense. You fit still yan your disappointment, sorrow or concern, but do am calmly.
 
