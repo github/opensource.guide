@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: 行動規範
-description: 行動規範を採用し遵守してもらうことで、健全で建設的なコミュニティ作りを促進しよう
+description: 行動規範を採用し遵守してもらうことで、健全で建設的なコミュニティ作りを促進しよう。
 class: coc
 order: 8
 image: /assets/images/cards/coc.png

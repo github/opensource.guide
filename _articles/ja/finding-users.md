@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: あなたのプロジェクトのユーザーを見つけよう
-description: あなたのプロジェクトを喜んで使ってくれるユーザーを獲得してプロジェクトを拡大しよう
+description: あなたのプロジェクトを喜んで使ってくれるユーザーを獲得してプロジェクトを拡大しよう。
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
