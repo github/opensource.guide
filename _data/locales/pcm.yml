@@ -1,0 +1,31 @@
+pcm:
+  locale_name: Pidgin
+  nav:
+    about: About
+    contribute: Put hand
+  index:
+    lead: Open source software na people wey dey like you epp build am. Learn how to start and make your project big.
+    opensourcefriday: Na Friday! Spend few hours to contribute to the software wey you dey use and love.
+  article:
+    table_of_contents: Table of Contents
+    back_to_all_guides: Abeg, make I run go back to all those guides
+    related_guides: Related Guides
+    footer:
+    contribute:
+      heading: Put hand
+      description: You wan yan something? This mata wey dey here, e fit be your own. Abeg, helep us make e better.
+      button: Put hand
+    subscribe:
+      heading: Make we dey in contact
+      description: Make you be the first wey go hear about GitHub's latest open source tips and resources..
+      label: Email adiress
+      button: Folow
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] with [love] by [github] and [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: padi
