@@ -39,7 +39,7 @@ redirect_from: /zh-cn/building-community/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比较低的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
+  对一些人来说，为开源做贡献比其他人更容易。有很多人害怕因为做得不对或不合群而被骂。这些情感需求是项目最难解决的问题，但通过为贡献者提供一个技术熟练度很低的贡献空间（文档、网页内容标记等），可以大大减少这些担忧。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
