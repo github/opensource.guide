@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: 居心地の良いコミュニティを築こう
-description: 人々があなたのプロジェクトを使ったり、コントリビュートしたり、人に伝えたくなるようなコミュニティを築きましょう
+description: 人々があなたのプロジェクトを使ったり、コントリビュートしたり、人に伝えたくなるようなコミュニティを築きましょう。
 class: building
 order: 4
 image: /assets/images/cards/building.png
@@ -148,7 +148,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   リーダーたちは異なる意見を持っていることでしょう。あらゆる健全なコミュニティはそうあるべきなのです！しかし、大きな声が人々を疲弊させることによって必ずしも勝つとは限らず、目立たない少数派の声も聞き入れられるように対策を講じる必要があります。
   <p markdown="1" class="pquote-credit">
-— @@sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
