@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+lang: bg
+title: Изграждане на приветливи общности
+description: Изграждане на общност, която насърчава хората да използват, допринасят и евангелизират вашия проект.
 class: building
 order: 4
 image: /assets/images/cards/building.png
@@ -10,44 +10,44 @@ related:
   - coc
 ---
 
-## Setting your project up for success
+## Настройване на вашия проект за успех
 
-You've launched your project, you're spreading the word, and people are checking it out. Awesome! Now, how do you get them to stick around?
+Току-що стартирахте проекта си, разпространявате информацията и хората го следват. Брилянтно! Сега, как да ги накараш да останат?
 
-A welcoming community is an investment into your project's future and reputation. If your project is just starting to see its first contributions, start by giving early contributors a positive experience, and make it easy for them to keep coming back.
+Гостоприемната общност е инвестиция в бъдещето на вашия проект и вашата репутация. Ако вашият проект едва започва да вижда първите си приноси, започнете, като дадете положителен опит на първите сътрудници и ги улеснете да се връщат отново.
 
-### Make people feel welcome
+### Накарайте хората да се чувстват добре дошли
 
-One way to think about your project's community is through what @MikeMcQuaid calls the [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+Един от начините да мислите за общността на вашия проект е чрез това, което @MikeMcQuaid нарича [фуния на сътрудниците](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
-![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![Фуния на сътрудник](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-As you build your community, consider how someone at the top of the funnel (a potential user) might theoretically make their way to the bottom (an active maintainer). Your goal is to reduce friction at each stage of the contributor experience. When people have easy wins, they will feel incentivized to do more.
+Докато изграждате общността си, помислете как някой на върха на фунията (потенциален потребител) може теоретично да си проправи път надолу (активен поддържащ). Вашата цел е да намалите триенето на всеки етап от опита на сътрудници. Когато хората имат лесни победи, те ще бъдат стимулирани да правят повече.
 
-Start with your documentation:
+Започнете с вашата документация:
 
-* **Make it easy for someone to use your project.** [A friendly README](../starting-a-project/#writing-a-readme) and clear code examples will make it easier for anyone who lands on your project to get started.
-* **Clearly explain how to contribute**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and keeping your issues up-to-date.
-* **Good first issues**: To help new contributors get started, consider explicitly [labeling issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing useful contributions, and reducing friction from users tackling issues that are too hard for their level.
+* **Улеснете го за тези, които трябва да използват проекта.** [Приятелски README документ](../starting-a-project/#writing-a-readme) aи ясни примери за кодове ще улеснят всеки, който попадне на вашия проект, да започне.
+* **Обяснете ясно как да допринесат**, използвайки [вашият CONTRIBUTING архив](../starting-a-project/#writing-your-contributing-guidelines) и поддържане на вашите проблеми актуални.
+* **Добри първи издания**: За да помогнете на новите сътрудници да започнат, мислете ясно за [подчертаване на теми, които са достатъчно прости, за да се справи начинаещият](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). След това GitHub ще покаже тези проблеми на различни места в платформата, увеличавайки полезните приноси и намалявайки напрежението от потребителите, които се справят с проблеми, които са твърде трудни за тяхното ниво.
 
-[GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) showed incomplete or confusing documentation is the biggest problem for open source users. Good documentation invites people to interact with your project. Eventually, someone will open an issue or pull request. Use these interactions as opportunities to move them down the funnel.
+[Проучване на GitHub за отворен код от 2017 г](http://opensourcesurvey.org/2017/) показа, че непълната или объркваща документация е най-големият проблем за потребителите с отворен код. Добрата документация приканва хората да взаимодействат с вашия проект. В крайна сметка някой ще отвори проблем или заявка. Използвайте тези взаимодействия като възможности да ги преместите надолу по фунията..
 
-* **When someone new lands on your project, thank them for their interest!** It only takes one negative experience to make someone not want to come back.
-* **Be responsive.** If you don't respond to their issue for a month, chances are, they've already forgotten about your project.
-* **Be open-minded about the types of contributions you'll accept.** Many contributors start with a bug report or a small fix. There are [many ways to contribute](../how-to-contribute/#what-it-means-to-contribute) to a project. Let people help how they want to help.
-* **If there's a contribution you disagree with,** thank them for their idea and [explain why](../best-practices/#learning-to-say-no) it doesn't fit into the scope of the project, linking to relevant documentation if you have it.
+* **Когато някой нов се присъедини към вашия проект, благодарете му за проявения интерес!** Необходим е само един негативен опит, за да накара някой да не иска да се върне.
+* **Бъдете отзивчиви.** Ако не отговорите на въпроса им в продължение на един месец, има вероятност те вече да са забравили за вашия проект.
+* **Бъдете непредубедени относно видовете вноски, които ще приемете.** Много сътрудници започват с доклад за грешка или малка корекция. Има [много начини да допринесете](../how-to-contribute/#what-it-means-to-contribute) за даден проект. Нека хората помагат по начина, по който искат.
+* **Ако има принос, с който не сте съгласни,** thank them for their idea and [обясни защо](../best-practices/#learning-to-say-no) не се вписва в обхвата на проекта, като се позовавате на съответната документация, ако я имате.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
+  Приносът към отворен код е по-лесен за някои, отколкото за други. Има голям страх да не бъдете извикани, че не правите нещо правилно или просто не се вписвате. (...) Като предоставяте на сътрудниците място да допринасят с много ниска техническа компетентност (документация, маркиране на уеб съдържание и т.н.), можете значително да намалите тези опасения.
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+— @mikeal, ["Разрастване на база от сътрудници в съвременния отворен код"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 
-The majority of open source contributors are "casual contributors": people who contribute to a project only occasionally. A casual contributor may not have time to get fully up to speed with your project, so your job is to make it easy for them to contribute.
+Повечето сътрудници с отворен код са „случайни сътрудници“: хора, които допринасят за проект само от време на време. Случаен сътрудник може да няма време да се запознае напълно с вашия проект, така че вашата работа е да го улесните да допринася.
 
-Encouraging other contributors is an investment in yourself, too. When you empower your biggest fans to run with the work they're excited about, there's less pressure to do everything yourself.
+Насърчаването на други сътрудници е инвестиция и във вас самите. Когато дадете възможност на най-големите си фенове да работят с работата, която ги вълнува, има по-малко натиск да правите всичко сами.
 
 ### Document everything
 

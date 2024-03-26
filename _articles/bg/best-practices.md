@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+lang: bg
+title: Най-добри практики за поддържащи код
+description: Улесняване на живота ви като поддържащ отворен код, от документиране на процеси до използване на вашата общност.
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
