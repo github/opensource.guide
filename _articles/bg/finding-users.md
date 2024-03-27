@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+lang: bg
+title: Намиране на потребители за вашия проект
+description: Помогнете на вашия проект с отворен код да се развие, като го предоставите в ръцете на щастливи потребители.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -10,139 +10,139 @@ related:
   - building
 ---
 
-## Spreading the word
+## Разпространяване на думата
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+Няма правило, което да казва, че трябва да рекламирате проект с отворен код, когато стартирате. Има много основателни причини да работите с отворен код, които нямат нищо общо с популярността. Вместо да се надявате, че другите ще намерят и използват вашия проект с отворен код, вие трябва да разпространите думата за вашата упорита работа!
 
-## Figure out your message
+## Разберете съобщението си
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+Преди да започнете действителната работа по популяризиране на вашия проект, трябва да можете да обясните какво прави и защо има значение.
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+Какво прави вашия проект различен или интересен? Защо го създадохте? Отговорът на тези въпроси сам ще ви помогне да съобщите значението на вашия проект.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+Не забравяйте, че хората се включват като потребители и в крайна сметка стават сътрудници, защото вашият проект решава проблем вместо тях. Докато мислите за посланието и стойността на вашия проект, опитайте се да ги видите през призмата на това, което _потребителите и сътрудниците_ може да искат.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+Например, @robb използва примери за код, за да съобщи ясно защо неговият проект, [Картография](https://github.com/robb/Cartography), е полезен:
 
-![Cartography README](/assets/images/finding-users/cartography.jpg)
+![Картография README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+За по-задълбочено потапяне в съобщенията вижте упражнението на Mozilla [„Личности и пътеки“](https://mozillascience.github.io/working-open-workshop/personas_pathways/) за разработване на потребителски персони.
 
 ## Help people find and follow your project
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  В идеалния случай се нуждаете от един „начален“ URL адрес, който можете да рекламирате и да насочвате хората към вашия проект. Не е нужно да се занимавате с изискан шаблон или дори име на домейн, но вашият проект се нуждае от фокусна точка.
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["Как да разпространявате информация за своя код"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+Помогнете на хората да намерят и запомнят вашия проект, като ги насочите към едно пространство от имена.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**Имайте ясен манипулатор, за да популяризирате работата си.** Twitter манипулатор, GitHub URL или IRC канал е лесен начин да насочите хората към вашия проект. Тези изходи също дават място за събиране на нарастващата общност на вашия проект.
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides.
+Ако все още не желаете да създавате изходи за вашия проект, популяризирайте свой собствен Twitter или GitHub манипулатор във всичко, което правите. Популяризирането на вашия Twitter или GitHub ще позволи на хората да знаят как да се свържат с вас или да следят работата ви. Ако говорите на среща или събитие, уверете се, че вашата информация за контакт е включена във вашата биография или слайдове.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  Грешка, която направих в онези ранни дни (...) беше, че не започнах Twitter акаунт за проекта. Twitter е чудесен начин да информирате хората за даден проект, както и постоянно да излагате на хората информация за проекта.
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["История на Apache Storm и извлечени уроци"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**Помислете за създаване на уебсайт за вашия проект.** Уеб сайтът прави проекта ви по-удобен и лесен за навигация, особено когато е съчетан с ясна документация и уроци. Наличието на уебсайт също предполага, че вашият проект е активен, което ще накара вашата аудитория да се чувства по-комфортно при използването му. Дайте примери, за да дадете на хората идеи как да използват вашия проект.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), съ-създател на Django, каза, че уебсайтът е _"далеч най-доброто нещо, което направихме с Django в ранните дни"_ .
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+Ако вашият проект се хоства в GitHub, можете да използвате [GitHub Pages](https://pages.github.com/), за да създадете лесно уебсайт. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/) и [Middleman](https://middlemanapp.com/) са [няколко примера] (https://github.com/showcases/github-pages-examples) от отлични, изчерпателни уебсайтове.
 
-![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![Начална страница на Vagrant](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+Сега, след като имате съобщение за вашия проект и лесен начин за хората да го намерят, нека да излезем и да поговорим с вашата аудитория!
 
-## Go where your project's audience is (online)
+## Отидете там, където е аудиторията на вашия проект (онлайн)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+Онлайн обхватът е чудесен начин за бързо споделяне и разпространение на информацията. Използвайки онлайн канали, вие имате потенциала да достигнете до много широка аудитория.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+Възползвайте се от съществуващите онлайн общности и платформи, за да достигнете до вашата аудитория. Ако вашият проект с отворен код е софтуерен проект, вероятно можете да намерите аудиторията си в [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News ](https://news.ycombinator.com/) или [Quora](https://www.quora.com/). Намерете каналите, от които смятате, че хората ще имат най-голяма полза или ще бъдат развълнувани от вашата работа.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  Всяка програма има много специфични функции, които само малка част от потребителите ще намерят полезни. Не изпращайте спам на възможно най-много хора. Вместо това насочете усилията си към общности, които ще имат полза от това да знаят за вашия проект.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["Маркетинг за проекти с отворен код"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+Вижте дали можете да намерите начини да споделите проекта си по подходящи начини:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **Запознайте се с подходящи проекти и общности с отворен код.** Понякога не е нужно директно да рекламирате проекта си. Ако вашият проект е идеален за специалисти по данни, които използват Python, запознайте се с общността за наука за данни на Python. Когато хората ви опознаят, ще се появят естествени възможности да говорите и споделяте работата си.
+* **Намерете хора, които се сблъскват с проблема, който вашият проект решава.** Потърсете в свързани форуми за хора, които попадат в целевата аудитория на вашия проект. Отговорете на техния въпрос и намерете тактичен начин, когато е подходящо, да предложите вашия проект като решение.
+* **Поискайте обратна връзка.** Представете себе си и работата си на публика, която ще я намери за подходяща и интересна. Бъдете конкретни относно това кой смятате, че ще има полза от вашия проект. Опитайте се да завършите изречението: _"Мисля, че моят проект наистина ще помогне на X, които се опитват да направят Y_". Слушайте и отговаряйте на отзивите на другите, вместо просто да популяризирате работата си.
 
-Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
+Най-общо казано, фокусирайте се върху това да помагате на другите, преди да поискате неща в замяна. Тъй като всеки може лесно да рекламира проект онлайн, ще има много шум. За да се откроите от тълпата, дайте на хората контекст за това кой сте, а не само това, което искате.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
+Ако никой не обърне внимание или не отговори на първоначалния ви обхват, не се обезсърчавайте! Повечето стартирания на проекти са итеративен процес, който може да отнеме месеци или години. Ако не получите отговор от първия път, опитайте различна тактика или първо потърсете начини да добавите стойност към работата на другите. Популяризирането и стартирането на вашия проект изисква време и отдаденост.
 
-## Go where your project's audience is (offline)
+## Отидете там, където е аудиторията на вашия проект (офлайн)
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![Публично говорене](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+Офлайн събитията са популярен начин за популяризиране на нови проекти пред публика. Те са чудесен начин да достигнете до ангажирана аудитория и да изградите по-дълбоки човешки връзки, особено ако се интересувате от достигане до разработчици.
 
-If you're [new to public speaking](https://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+Ако сте [нов в публичното говорене](https://speaking.io/), започнете, като намерите местна среща, която е свързана с езика или екосистемата на вашия проект.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  Бях доста нервен да отида в PyCon. Изнасях лекция, щях да се запозная само с няколко души там, отидох за цяла седмица. (...) Все пак не трябваше да се притеснявам. PyCon беше феноменално страхотен! (...) Всички бяха невероятно дружелюбни и общителни, толкова много, че рядко намирах време да не говоря с хората!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["Как се научих да спра да се тревожа и да обичам PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+Ако никога преди не сте говорили на събитие, напълно нормално е да се чувствате нервни! Не забравяйте, че публиката ви е там, защото те наистина искат да чуят за работата ви.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+Докато пишете речта си, съсредоточете се върху това, което аудиторията ви ще намери за интересно и от което ще извлече полза. Поддържайте езика си приятелски настроен и достъпен. Усмихвайте се, дишайте и се забавлявайте.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  Когато започнете да пишете речта си, независимо каква е темата ви, може да ви помогне, ако видите речта си като история, която разказвате на хората.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["Как да подготвим и напишем разговор за техническа конференция"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+Когато се почувствате готови, обмислете да говорите на конференция, за да популяризирате проекта си. Конференциите могат да ви помогнат да достигнете до повече хора, понякога от цял свят.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+Потърсете конференции, които са специфични за вашия език или екосистема. Преди да изпратите своята реч, проучете конференцията, за да пригодите лекцията си за присъстващите и да увеличите шансовете си да бъдете приети да говорите на конференцията. Често можете да добиете представа за аудиторията си, като погледнете говорителите на конференцията.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  Писах много мило на хората от JSConf и ги помолих да ми дадат място, където мога да го представя на JSConf EU. (...) Бях изключително уплашен, представяйки това нещо, върху което работих шест месеца. (...) През цялото време си мислех, о, Боже мой. Какво правя тук?
   <p markdown="1" class="pquote-credit">
-— @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+— @ry, ["История на Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
 ## Build a reputation
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+В допълнение към стратегиите, описани по-горе, най-добрият начин да поканите хората да споделят и да допринесат за вашия проект е да споделяте и да допринесете за техните проекти.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+Подпомагането на новодошлите, споделянето на ресурси и обмисленият принос към чужди проекти ще ви помогнат да изградите положителна репутация. Това, че сте активен член в общността с отворен код, ще помогне на хората да имат контекст за вашата работа и е по-вероятно да обърнат внимание и да споделят вашия проект. Развитието на връзки с други проекти с отворен код може дори да доведе до официални партньорства.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  Единствената причина urllib3 да е най-популярната библиотека на Python на трети страни днес е, че е част от заявките.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
+— @shazow, ["Как да накарате своя проект с отворен код да процъфтява"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+Никога не е твърде рано или твърде късно да започнете да изграждате репутацията си. Дори ако вече сте стартирали свой собствен проект, продължавайте да търсите начини да помагате на другите.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+Няма еднодневно решение за изграждане на аудитория. Спечелването на доверието и уважението на другите отнема време и изграждането на вашата репутация никога не свършва.
 
-## Keep at it!
+## Продължавайте!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+Може да отнеме много време, преди хората да забележат вашия проект с отворен код. Това е добре! Някои от най-популярните проекти днес отнеха години, за да достигнат високи нива на активност. Съсредоточете се върху изграждането на взаимоотношения, вместо да се надявате, че вашият проект спонтанно ще спечели популярност. Бъдете търпеливи и продължавайте да споделяте работата си с тези, които я оценяват.

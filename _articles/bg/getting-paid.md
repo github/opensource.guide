@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+lang: bg
+title: Получаване на заплащане за работа с отворен код
+description: Поддържайте работата си с отворен код, като получите финансова подкрепа за вашето време или за вашия проект.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -10,169 +10,169 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## Защо някои хора търсят финансова подкрепа
 
-Much of the work of open source is voluntary. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Голяма част от работата с отворен код е доброволна. Например, някой може да се натъкне на грешка в проект, който използва, и да изпрати бързо решение, или може да му хареса да бърника с проект с отворен код в свободното си време.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Търсех "хоби" проект за програмиране, който да ме занимава през седмицата около Коледа. (...) Имах домашен компютър и нищо друго в ръцете си. Реших да напиша интерпретатор за новия скриптов език, за който си мислех напоследък. (...) Избрах Python като работно заглавие.
   <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
+— @gvanrossum, ["Програмиране на Python"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Има много причини, поради които човек не би искал да получава заплащане за работата си с отворен код.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Те може вече да имат работа на пълен работен ден, която обичат,** което им позволява да допринасят за отворен код в свободното си време.
+* **Харесва им да мислят за отворения код като за хоби** или творческо бягство и не искат да се чувстват финансово задължени да работят по проектите си.
+* **Те получават други ползи от приноса си към отворен код,** като например изграждане на репутация или портфолио, усвояване на нови умения или чувство за близост до общност.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  Финансовите дарения наистина добавят чувство за отговорност за някои. (...) За нас е важно, в глобално свързания, забързан свят, в който живеем, да можем да кажем „не сега, искам да правя нещо съвсем различно“.
   <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
+— @alloy, ["Защо не приемаме дарения"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
+За други, особено когато приносът е в ход или изисква значително време, получаването на плащане за принос към отворен код е единственият начин да участват, било защото проектът го изисква, или поради лични причини.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Поддържането на популярни проекти може да бъде значителна отговорност, като отнема 10 или 20 часа на седмица вместо няколко часа на месец.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+  Попитайте всеки поддържащ проект с отворен код и той ще ви разкаже за реалността на количеството работа, което отива в управлението на проект. Имате клиенти. Вие решавате проблеми вместо тях. Вие създавате нови функции. Това се превръща в истинска нужда от вашето време.
   <p markdown="1" class="pquote-credit">
-— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+— @ashedryden, ["Етиката на неплатения труд и OSS общността"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Paid work also enables people from different walks of life to make meaningful contributions. Some people cannot afford to spend unpaid time on open source projects, based on their current financial position, debt, or family or other caretaking obligations. That means the world never sees contributions from talented people who can't afford to volunteer their time. This has ethical implications, as @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), since work that is done is biased in favor of those who already have advantages in life, who then gain additional advantages based on their volunteer contributions, while others who are not able to volunteer then don't get later opportunities, which reinforces the current lack of diversity in the open source community.
+Платената работа също дава възможност на хора от различни сфери на живота да дадат значим принос. Някои хора не могат да си позволят да прекарват неплатено време в проекти с отворен код въз основа на текущото си финансово състояние, дълг или семейни или други задължения за грижа. Това означава, че светът никога не вижда приноси от талантливи хора, които не могат да си позволят да отделят доброволно времето си. Това има етични последици, както @ashedryden [описа](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), тъй като свършената работа е предубедени в полза на онези, които вече имат предимства в живота, които след това получават допълнителни предимства въз основа на техния доброволен принос, докато други, които не могат да бъдат доброволци, след това не получават по-късни възможности, което засилва текущата липса на разнообразие в отворения код общност.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+   OSS носи огромни ползи за технологичната индустрия, което от своя страна означава ползи за всички индустрии. (...) Въпреки това, ако единствените хора, които могат да се съсредоточат върху това, са късметлиите и обсебените, тогава има огромен неизползван потенциал.
   <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
+— @isaacs, ["Пари и отворен код"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
-If you're looking for financial support, there are two paths to consider. You can fund your own time as a contributor, or you can find organizational funding for the project.
+Ако търсите финансова подкрепа, трябва да обмислите два начина. Можете да финансирате собственото си време като сътрудник или можете да намерите организационно финансиране за проекта.
 
-## Funding your own time
+## Финансиране на вашето собствено време
 
-Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
+Днес много хора получават заплащане, за да работят на непълен или пълен работен ден с отворен код. Най-често срещаният начин да получите заплащане за времето си е да говорите с вашия работодател.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+По-лесно е да направите аргумент за работа с отворен код, ако вашият работодател действително използва проекта, но бъдете креативни с представянето си. Може би вашият работодател не използва проекта, но той използва Python и поддържането на популярен проект на Python помага за привличането на нови разработчици на Python. Може би това кара вашия работодател да изглежда по-приятелски настроен към разработчиците като цяло.
 
-If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
+Ако нямате съществуващ проект с отворен код, върху който бихте искали да работите, но предпочитате текущата ви работа да е с отворен код, помолете вашия работодател да отвори част от техния вътрешен софтуер.
 
-Many companies are developing open source programs to build their brand and recruit quality talent.
+Много компании разработват програми с отворен код, за да изградят своята марка и да наемат качествени таланти.
 
-@hueniverse, for example, found that there were financial reasons to justify [Walmart's investment in open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). And @jamesgpearce found that Facebook's open source program [made a difference](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) in recruiting:
+@hueniverse например установи, че има финансови причини, които да оправдаят [инвестицията на Walmart в отворен код](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in- open-source-isn-t-cheap.html). И @jamesgpearce установи, че програмата с отворен код на Facebook [има значение](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) при набирането на персонал:
 
-> It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
+> Тя е тясно свързана с нашата хакерска култура и начина, по който нашата организация се възприемаше. Попитахме нашите служители: „Знаехте ли за софтуерната програма с отворен код във Facebook?“. Две трети казаха "Да". Половината казаха, че програмата е допринесла положително за решението им да работят за нас. Това не са пределни числа и се надявам, че тенденцията ще продължи.
 
-If your company goes down this route, it's important to keep the boundaries between community and corporate activity clear. Ultimately, open source sustains itself through contributions from people all over the world, and that's bigger than any one company or location.
+Ако вашата компания тръгне по този път, важно е да поддържате ясни границите между общността и корпоративната дейност. В крайна сметка отвореният код се поддържа чрез принос от хора по целия свят и това е по-голямо от която и да е компания или местоположение.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+  Получаването на заплащане за работа с отворен код е рядка и прекрасна възможност, но не трябва да се отказвате от страстта си в процеса. Вашата страст трябва да е причината, поради която компаниите искат да ви плащат.
   <p markdown="1" class="pquote-credit">
-— @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
+— @jessfraz, ["Размити линии"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
 </aside>
 
-If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
+Ако не можете да убедите настоящия си работодател да даде приоритет на работата с отворен код, помислете за намиране на нов работодател, който насърчава приноса на служителите към отворен код. Потърсете компании, които подчертават своята отдаденост на работата с отворен код. Например:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Zalando](https://opensource.zalando.com) published its [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) for employees
+* Някои компании, като [Netflix](https://netflix.github.io/) или [PayPal](https://paypal.github.io/), имат уебсайтове, които подчертават тяхното участие в отворен код
+* [Zalando](https://opensource.zalando.com) публикува своята [политика за принос с отворен код](https://opensource.zalando.com/docs/using/contributing/) за служители
 
-Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+Проекти, които произхождат от голяма компания, като [Go](https://github.com/golang) или [React](https://github.com/facebook/react), will also likely employ people to work on open source.
 
-Depending on your personal circumstances, you can try raising money independently to fund your open source work. For example:
+В зависимост от вашите лични обстоятелства можете да опитате да съберете пари независимо, за да финансирате работата си с отворен код. Например:
 
-* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
-* @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @Homebrew (и [много други поддържащи и организации](https://github.com/sponsors/community)) финансират работата си чрез [Спонсори на GitHub](https://github.com/sponsors)
+* @gaearon финансира работата си върху [Redux](https://github.com/reactjs/redux) чрез [кампания за групово финансиране на Patreon](https://redux.js.org/)
+* @andrewgodwin финансира работа по миграции на схема на Django [чрез кампания на Kickstarter] (https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
-Finally, sometimes open source projects put bounties on issues that you might consider helping with.
+И накрая, понякога проекти с отворен код дават премии за проблеми, за които може да обмислите да помогнете.
 
-* @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their JavaScript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+* @ConnorChristie успя да получи плащане за [помощ](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F %2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol работят по своята JavaScript библиотека [чрез награда за gitcoin](https://gitcoin.co/).
+* @mamiM направи японски преводи за @MetaMask след [изданието беше финансирано от Bounties Network](https://explorer.bounties.network/bounty/134).
 
-## Finding funding for your project
+## Намиране на финансиране за вашия проект
 
-Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
+Освен договореностите за отделни сътрудници, понякога проектите набират пари от компании, физически лица или други за финансиране на текуща работа.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing in new features or ideas.
+Организационното финансиране може да отиде за плащане на настоящи сътрудници, покриване на разходите за управление на проекта (като такси за хостинг) или инвестиране в нови функции или идеи.
 
-As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
+Тъй като популярността на отворения код нараства, намирането на финансиране за проекти все още е експериментално, но има няколко общи опции.
 
-### Raise money for your work through crowdfunding campaigns or sponsorships
+### Съберете пари за работата си чрез кампании за групово финансиране или спонсорство
 
-Finding sponsorships works well if you have a strong audience or reputation already, or your project is very popular.
-A few examples of sponsored projects include:
+Намирането на спонсорство работи добре, ако вече имате силна публика или репутация или проектът ви е много популярен.
+Няколко примера за спонсорирани проекти включват:
 
-* **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[webpack](https://github.com/webpack)** събира пари от компании и физически лица [чрез OpenCollective](https://opencollective.com/webpack)
+* **[Ruby Together](https://rubytogether.org/),** организация с нестопанска цел, която плаща за работата по [bundler](https://github.com/bundler/bundler), [RubyGems](https ://github.com/rubygems/rubygems) и други Ruby инфраструктурни проекти
 
-### Create a revenue stream
+### Създайте поток от приходи
 
-Depending on your project, you may be able to charge for commercial support, hosted options, or additional features. A few examples include:
+В зависимост от вашия проект може да имате възможност да таксувате за търговска поддръжка, хоствани опции или допълнителни функции. Няколко примера включват:
 
-* **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
-* **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
+* **[Sidekiq](https://github.com/mperham/sidekiq)** предлага платени версии за допълнителна поддръжка
+* **[Travis CI](https://github.com/travis-ci)** предлага платени версии на своя продукт
+* **[Ghost](https://github.com/TryGhost/Ghost)** е организация с нестопанска цел с платена управлявана услуга
 
-Some popular projects, like [npm](https://github.com/npm/cli) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+Някои популярни проекти, като [npm](https://github.com/npm/cli) и [Docker](https://github.com/docker/docker), дори набират рисков капитал, за да подкрепят растежа на своя бизнес.
 
-### Apply for grant funding
+### Кандидатствайте за безвъзмездно финансиране
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+Някои софтуерни фондации и компании предлагат грантове за работа с отворен код. Понякога грантовете могат да се изплащат на физически лица, без да се създава юридическо лице за проекта.
 
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[Прочетете документите](https://github.com/rtfd/readthedocs.org)** получи субсидия от [Поддръжка на Mozilla Open Source](https://www.mozilla.org/en-US/ субсидии/)
+* Работата по **[OpenMRS](https://github.com/openmrs)** е финансирана от [Retreat за отворен код на Stripe](https://stripe.com/blog/open-source-retreat-2016-grantees )
+* **[Libraries.io](https://github.com/librariesio)** получи грант от [Фондация Слоун](https://sloan.org/programs/digital-technology)
+* **[Python Software Foundation](https://www.python.org/psf/grants/)** предлага грантове за работа, свързана с Python
 
-For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
+За по-подробни опции и казуси @nayafia [написа ръководство](https://github.com/nayafia/lemonade-stand) за получаване на заплащане за работа с отворен код. Различните видове финансиране изискват различни умения, така че преценете силните си страни, за да разберете коя опция работи най-добре за вас.
 
-## Building a case for financial support
+## Изграждане на случай за финансова подкрепа
 
-Whether your project is a new idea, or has been around for years, you should expect to put significant thought into identifying your target funder and making a compelling case.
+Независимо дали вашият проект е нова идея или съществува от години, трябва да очаквате да вложите значителни мисли в идентифицирането на вашия целеви финансист и в представянето на убедителни аргументи.
 
-Whether you're looking to pay for your own time, or fundraise for a project, you should be able to answer the following questions.
+Независимо дали искате да платите за собственото си време или да наберете средства за проект, трябва да можете да отговорите на следните въпроси.
 
-### Impact
+### Въздействие
 
-Why is this project useful? Why do your users, or potential users, like it so much? Where will it be in five years?
+Защо този проект е полезен? Защо вашите потребители или потенциални потребители го харесват толкова много? Къде ще бъде след пет години?
 
-### Traction
+### Сцепление
 
-Try to collect evidence that your project matters, whether it's metrics, anecdotes, or testimonials. Are there any companies or noteworthy people using your project right now? If not, has a prominent person endorsed it?
+Опитайте се да съберете доказателства, че вашият проект има значение, независимо дали става дума за показатели, анекдоти или препоръки. Има ли компании или забележителни хора, които използват вашия проект в момента? Ако не, виден човек го е одобрил?
 
-### Value to funder
+### Стойност за финансиращия
 
-Funders, whether your employer or a grantmaking foundation, are frequently approached with opportunities. Why should they support your project over any other opportunity? How do they personally benefit?
+До финансиращите, независимо дали вашият работодател или фондация, предоставяща безвъзмездни средства, често се обръщат с възможности. Защо трябва да подкрепят вашия проект пред всяка друга възможност? Как се облагодетелстват те лично?
 
-### Use of funds
+### Използване на средства
 
-What, exactly, will you accomplish with the proposed funding? Focus on project milestones or outcomes rather than paying a salary.
+Какво точно ще постигнете с предложеното финансиране? Съсредоточете се върху важни етапи или резултати на проекта, вместо да плащате заплата.
 
-### How you'll receive the funds
+### Как ще получите средствата
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
+Финансиращият има ли някакви изисквания относно изплащането? Например, може да се наложи да сте организация с нестопанска цел или да имате фискален спонсор с нестопанска цел. Или може би средствата трябва да бъдат дадени на отделен изпълнител, а не на организация. Тези изисквания варират между финансиращите, така че не забравяйте да направите проучването си предварително.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+  От години ние сме водещият ресурс за икони, удобни за уебсайтове, с общност от над 20 милиона души и сме представени в над 70 милиона уебсайта, включително Whitehouse.gov. (...) Версия 4 беше преди три години. Уеб технологиите се промениха много оттогава и честно казано, Font Awesome малко остаря. (...) Ето защо представяме Font Awesome 5. Модернизираме и пренаписваме CSS и преработваме всяка икона от горе до долу. Говорим за по-добър дизайн, по-добра последователност и по-добра четливост.
   <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+— @davegandy, [Font Awesome Kickstarter видео](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
-## Experiment and don't give up
+## Експериментирайте и не се отказвайте
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Събирането на пари не е лесно, независимо дали сте проект с отворен код, организация с нестопанска цел или стартиращ софтуер, и в повечето случаи изисква от вас да проявите креативност. Определянето на начина, по който искате да получавате заплащане, извършването на вашите проучвания и поставянето на мястото на вашия финансиращ ще ви помогне да изградите убедителна аргументация за финансиране.

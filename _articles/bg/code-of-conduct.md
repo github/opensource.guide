@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+lang: bg
+title: Вашият кодекс на поведение
+description: Улеснявайте здравословното и конструктивно поведение на общността чрез приемане и прилагане на кодекс на поведение.
 class: coc
 order: 8
 image: /assets/images/cards/coc.png
@@ -10,105 +10,105 @@ related:
   - leadership
 ---
 
-## Why do I need a code of conduct?
+## Защо имам нужда от кодекс на поведение?
 
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
+Кодексът на поведение е документ, който определя очакванията за поведение на участниците във вашия проект. Приемането и прилагането на кодекс на поведение може да помогне за създаването на положителна социална атмосфера за вашата общност.
 
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
+Кодексите на поведение помагат да защитите не само вашите участници, но и себе си. Ако поддържате проект, може да откриете, че непродуктивното отношение на другите участници може да ви накара да се почувствате изтощени или нещастни от работата си с течение на времето.
 
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
+Кодексът на поведение ви дава възможност да улесните здравословното, конструктивно поведение в общността. Проактивността намалява вероятността вие или другите да се уморите от вашия проект и ви помага да предприемете действия, когато някой направи нещо, с което не сте съгласни.
 
-## Establishing a code of conduct
+## Създаване на кодекс на поведение
 
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
+Опитайте се да създадете кодекс на поведение възможно най-рано: в идеалния случай, когато за първи път създавате своя проект.
 
-In addition to communicating your expectations, a code of conduct describes the following:
+В допълнение към съобщаването на вашите очаквания, кодексът на поведение описва следното:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+* Където кодексът на поведение влиза в сила _(само при проблеми и заявки за изтегляне или дейности на общността като събития?)_
+* За кого се прилага кодексът на поведение _(членове на общността и поддържащи лица, но какво да кажем за спонсори?)_
+* Какво се случва, ако някой наруши кодекса на поведение
+* Как някой може да докладва за нарушения
 
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
+Където можете, използвайте предшестващо състояние на техниката. [Споразумението на сътрудниците](https://contributor-covenant.org/) е код за поведение, който се използва от над 40 000 проекта с отворен код, включително Kubernetes, Rails и Swift.
 
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) are also two good code of conduct examples.
+[Кодексът на поведение на Django](https://www.djangoproject.com/conduct/) и [Кодексът на поведение на гражданите](https://web.archive.org/web/20200330154000/http://citizencodeofconduct. org/) също са два добри примера на кодекс на поведение.
 
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
+Поставете файл CODE_OF_CONDUCT в основната директория на вашия проект и го направете видим за вашата общност, като го свържете от вашия CONTRIBUTING или README файл.
 
-## Deciding how you'll enforce your code of conduct
+## Решете как ще наложите своя кодекс на поведение
 
 <aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+  Един неприложен (или неприложим) кодекс на поведение е по-лош от липсата на кодекс на поведение: той изпраща съобщението, че ценностите на кодекса на поведение всъщност не са важни или уважавани във вашата общност.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+— [Инициатива Ада](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
+Трябва да обясните как вашият кодекс за поведение ще бъде прилаган **_преди_** нарушение. Има няколко причини да го направите:
 
-* It demonstrates that you are serious about taking action when it's needed.
+* Демонстрира, че сте сериозни относно предприемането на действия, когато е необходимо.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+* Вашата общност ще се почувства по-уверена, че оплакванията действително се преглеждат.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+* Ще уверите вашата общност, че процесът на преглед е честен и прозрачен, ако някога се окажат разследвани за нарушение.
 
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
+Трябва да дадете на хората личен начин (като имейл адрес) да докладват за нарушение на кодекса на поведение и да обясните кой получава този доклад. Това може да бъде поддържащ, група от поддържащи или работна група за кодекс на поведение.
 
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Не забравяйте, че някой може да поиска да докладва за нарушение на лице, което получава тези доклади. В този случай им дайте възможност да докладват за нарушения на някой друг. Например @ctb и @mr-c [обясняват за техния проект](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github. com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Случаи на злоупотреба, тормоз или по друг начин неприемливо поведение могат да бъдат докладвани чрез имейл **khmer-project@idyll.org**, който отива само до C. Titus Brown и Michael R. Crusoe. За да съобщите за проблем, свързан с някой от тях, моля, изпратете имейл до **Judi Brown Clarke, Ph.D.** директора по разнообразието в BEACON Center for the Study of Evolution in Action, Център за науки и технологии на NSF.*
 
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
+За вдъхновение вижте [ръководството за прилагане] на Django (https://www.djangoproject.com/conduct/enforcement-manual/) (въпреки че може да не се нуждаете от нещо толкова изчерпателно, в зависимост от размера на вашия проект).
 
-## Enforcing your code of conduct
+## Налагане на вашия кодекс на поведение
 
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
+Понякога, въпреки всичките ви усилия, някой ще направи нещо, което нарушава този кодекс. Има няколко начина за справяне с негативното или вредно поведение, когато се появи.
 
-### Gather information about the situation
+### Съберете информация за ситуацията
 
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
+Отнасяйте се към гласа на всеки член на общността също толкова важен, колкото и вашия собствен. Ако получите доклад, че някой е нарушил кодекса за поведение, приемете го сериозно и проучете въпроса, дори ако не съвпада с вашия собствен опит с този човек. Това сигнализира на вашата общност, че цените тяхната гледна точка и се доверявате на тяхната преценка.
 
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
+Въпросният член на общността може да е повторен нарушител, който постоянно кара другите да се чувстват неудобно, или може да е казал или направил нещо само веднъж. И в двата случея могат да бъдат основание за предприемане на действие в зависимост от контекста.
 
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
+Преди да отговорите, дайте си време да разберете какво се е случило. Прочетете миналите коментари и разговори на човека, за да разберете по-добре кои са те и защо може да са действали по този начин. Опитайте се да съберете гледни точки, различни от вашата собствена, за този човек и неговото поведение.
 
 <aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+  Не се въвличайте в спор. Не се отклонявайте да се занимавате с поведението на някой друг, преди да сте приключили с разглеждането на въпроса. Съсредоточете се върху това, от което се нуждаете.
   <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+— Stephanie Zvan, ["Значи си имате политика. Сега какво?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
 </aside>
 
-### Take appropriate action
+### Предприемете подходящи действия
 
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
+След като съберете и обработите достатъчно информация, ще трябва да решите какво да правите. Докато обмисляте следващите си стъпки, не забравяйте, че вашата цел като модератор е да насърчите безопасна, уважителна и съвместна среда. Помислете не само как да се справите с въпросната ситуация, но и как вашият отговор ще повлияе на останалата част от поведението и очакванията на вашата общност в бъдеще.
 
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
+Когато някой съобщи за нарушение на кодекса на поведение, ваша, а не негова работа е да се справите с него. Понякога репортерът разкрива информация с голям риск за своята кариера, репутация или физическа безопасност. Принуждаването им да се изправят срещу насилника си може да постави репортера в компрометираща позиция. Трябва да поддържате директна комуникация с въпросното лице, освен ако репортерът изрично не поиска друго.
 
-There are a few ways you might respond to a code of conduct violation:
+Има няколко начина, по които можете да реагирате на нарушение на кодекса на поведение:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+* **Дайте публично предупреждение на въпросното лице** и обяснете как поведението му е повлияло негативно на другите, за предпочитане в канала, където се е случило. Когато е възможно, публичната комуникация предава на останалата част от общността, че приемате кодекса за поведение сериозно. Бъдете мили, но твърди в общуването си.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+* **Свържете се лично с въпросното лице**, за да обясните как поведението му е повлияло негативно на другите. Може да искате да използвате личен канал за комуникация, ако ситуацията включва чувствителна лична информация. Ако общувате с някого насаме, добра идея е да изпратите CC на онези, които първи са съобщили за ситуацията, за да знаят, че сте предприели действия. Помолете подалото сигнал лице за съгласие, преди да му изпратите CC.
 
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
+Понякога не може да се постигне решение. Въпросното лице може да стане агресивно или враждебно, когато се сблъскаш с него или да не промени поведението си. В тази ситуация може да обмислите предприемането на по-строги действия. Например:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+* **Забрана на въпросното лице** от проекта, наложено чрез временна забрана за участие във всеки аспект на проекта
 
-* **Permanently ban** the person from the project
+* **Забранете за постоянно** лицето от проекта
 
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
+Забраната на членове не трябва да се приема с лека ръка и представлява постоянна и непримирима разлика в гледните точки. Трябва да предприемате тези мерки само когато е ясно, че не може да се постигне решение.
 
-## Your responsibilities as a maintainer
+## Вашите отговорности като поддържащ
 
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
+Кодексът на поведение не е закон, който се прилага произволно. Вие сте наложителят на кодекса за поведение и е ваша отговорност да следвате правилата, установени от кодекса за поведение.
 
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
+Като поддържащ вие установявате насоките за вашата общност и налагате тези насоки в съответствие с правилата, изложени във вашия кодекс за поведение. Това означава да приемате сериозно всеки сигнал за нарушение на кодекса за поведение. На репортера се дължи задълбочено и справедливо разглеждане на жалбата им. Ако установите, че поведението, за което са докладвали, не е нарушение, съобщете им го ясно и обяснете защо няма да предприемете действия по него. Какво ще направят с това зависи от тях: да толерират поведението, с което са имали проблем, или да спрат да участват в общността.
 
-A report of behavior that doesn't _technically_ violate the code of conduct may still indicate that there is a problem in your community, and you should investigate this potential problem and act accordingly. This may include revising your code of conduct to clarify acceptable behavior and/or talking to the person whose behavior was reported and telling them that while they did not violate the code of conduct, they are skirting the edge of what is expected and are making certain participants feel uncomfortable.
+Докладът за поведение, което _технически_ не нарушава кодекса за поведение, все още може да показва, че има проблем във вашата общност и вие трябва да проучите този потенциален проблем и да действате съответно. Това може да включва преразглеждане на вашия кодекс за поведение, за да се изясни приемливото поведение и/или разговор с лицето, чието поведение е докладвано, и да му кажете, че макар да не е нарушил кодекса за поведение, те заобикалят ръба на очакваното и правят сигурни участниците се чувстват неудобно.
 
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
+В крайна сметка, като поддържащ, вие определяте и налагате стандартите за приемливо поведение. Вие имате способността да оформяте ценностите на общността на проекта и участниците очакват от вас да налагате тези ценности по справедлив и равностоен начин.
 
-## Encourage the behavior you want to see in the world 🌎
+## Насърчавайте поведението, което искате да видите в света 🌎
 
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.
+Когато даден проект изглежда враждебен или неприветлив, дори ако това е само един човек, чието поведение се толерира от другите, рискувате да загубите много повече сътрудници, някои от които може дори никога да не срещнете. Не винаги е лесно да приемете или наложите кодекс на поведение, но насърчаването на гостоприемна среда ще помогне на вашата общност да расте.
