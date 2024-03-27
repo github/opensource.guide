@@ -1,170 +1,170 @@
 ---
-lang: en
+lang: bg
 untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+title: Поддържане на баланс за поддържащите отворен код
+description: Съвети за самообслужване и избягване на прегаряне като поддържащ.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+Тъй като популярността на проекта с отворен код нараства, става важно да поставите ясни граници, които да ви помогнат да поддържате баланс, за да останете освежени и продуктивни в дългосрочен план.
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+За да придобием представа за опита на поддържащите и техните стратегии за намиране на баланс, проведохме семинар с 40 членове на <a href="http://maintainers.github.com/">общността на поддържащите</a>, което ни позволи да се поучат от техния опит от първа ръка с бърнаут в отворен код и практиките, които са им помогнали да поддържат баланс в работата си. Тук влиза в действие концепцията за лична екология.
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+И така, какво е лична екология? Като <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance% 2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">описано от Rockwood Leadership Institute</a>, то включва "<strong>поддържане на баланс, темпо и ефективност за поддържане на енергията ни през целия живот</strong>." Това рамкира нашите разговори, помагайки на поддържащите да разпознаят своите действия и приноси като части от по-голяма екосистема, която се развива с течение на времето. Бърнаут, синдром в резултат на хроничен стрес на работното място, както [дефиниран от СЗО](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281) , не е необичайно сред поддържащите. Това често води до загуба на мотивация, невъзможност за фокусиране и липса на съпричастност към сътрудниците и общността, с която работите.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
-  I was unable to focus or start on a task. I had a lack of empathy for users.
+  Не можах да се съсредоточа или да започна задача. Липсваше ми съчувствие към потребителите.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, поддържащ сървъра за стрийминг на живо Owncast, за въздействието на прегарянето върху неговата работа с отворен код
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+Възприемайки концепцията за лична екология, поддържащите могат проактивно да избягват прегарянето, да дават приоритет на грижата за себе си и да поддържат чувство за баланс, за да вършат най-добрата си работа.
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## Съвети за самообслужване и избягване на прегаряне като поддържащ персонал:
 
-### Identify your motivations for working in open source
+### Определете вашите мотивации за работа с отворен код
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+Отделете време, за да помислите кои части от поддръжката с отворен код ви зареждат с енергия. Разбирането на вашата мотивация може да ви помогне да приоритизирате работата по начин, който ви държи ангажирани и готови за нови предизвикателства. Независимо дали става въпрос за положителната обратна връзка от потребителите, радостта от сътрудничеството и общуването с общността или удовлетворението от гмуркането в кода, разпознаването на вашите мотивации може да ви помогне да насочите фокуса си.
 
-### Reflect on what causes you to get out of balance and stressed out
+### Помислете какво ви кара да излизате от баланс и да сте стресирани
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+Важно е да разберем какво ни кара да изгаряме. Ето няколко общи теми, които видяхме сред поддържащите отворен код:
 
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **Липса на положителна обратна връзка:** Много по-вероятно е потребителите да се свържат, когато имат оплакване. Ако всичко работи добре, те са склонни да мълчат. Може да е обезкуражаващо да видите нарастващ списък от проблеми без положителната обратна връзка, показваща как вашият принос прави разликата.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
-  Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
+  Понякога се чувствам малко като да крещя в празнотата и откривам, че обратната връзка наистина ме зарежда с енергия. Имаме много щастливи, но тихи потребители.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
+— <a href="https://github.com/thisisnic">@thisisnic</a>, поддържащ Apache Arrow
   </p>
 </aside>
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **Да не казваш „не“:** Може да е лесно да поемеш повече отговорности, отколкото би трябвало за проект с отворен код. Независимо дали е от потребители, сътрудници или други поддържащи – ние не винаги можем да оправдаем техните очаквания.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
+  Открих, че поемам повече от един и трябва да върша работата на множество хора, както обикновено се прави във FOSS.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
+— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, поддържащ Termux, за това какво причинява прегаряне в тяхната работа
   </p>
 </aside>
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **Да работиш сам:** Да си поддържащ може да бъде невероятно самотен. Дори ако работите с група поддържащи, последните няколко години бяха трудни за свикване на разпределени екипи лично.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
+ Особено след COVID и работата от вкъщи е по-трудно никога да не виждаш никого или да говориш с никого.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, поддържащ сървъра за стрийминг на живо Owncast, за въздействието на прегарянето върху неговата работа с отворен код
   </p>
 </aside>
 
-* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+* **Няма достатъчно време или ресурси:** Това е особено вярно за поддържащи доброволци, които трябва да жертват свободното си време, за да работят по проект.
 
 <aside markdown="1" class="pquote">
-  [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
+  [Бих искал да имам] повече финансова подкрепа, за да мога да се съсредоточа върху работата с отворен код, без да изразходвам спестяванията си и да знам, че ще трябва да сключвам много договори, за да компенсирам това по-късно.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— поддържащ отворен код
   </p>
 </aside>
 
-* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **Противоречиви изисквания: ** Отвореният код е пълен с групи с различни мотивации, които могат да бъдат трудни за ориентиране. Ако ви се плаща да работите с отворен код, интересите на вашия работодател понякога могат да бъдат в противоречие с общността.
 
 <aside markdown="1" class="pquote">
-  With paid open source, conflict between employer's focus and what's best for the community
+  С платен отворен код, конфликт между фокуса на работодателя и най-доброто за общността
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— поддържащ отворен код
   </p>
 </aside>
 
-### Watch out for signs of burnout
+### Внимавайте за признаци на прегаряне
 
-Can you keep up your pace for 10 weeks? 10 months? 10 years?
+Можете ли да поддържате темпото си 10 седмици? 10 месеца? 10 години?
 
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
+Има инструменти като [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) от [@shaunagm](https://github.com/shaunagm), които могат да ви помогнат помислете върху текущото си темпо и вижте дали има някакви корекции, които можете да направите. Някои поддържащи също използват технология за носене, за да проследяват показатели като качество на съня и променливост на сърдечната честота (и двете свързани със стреса).
 
 <aside markdown="1" class="pquote">
- I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
+ Аз съм голям привърженик на добрите облекла. С науката зад това можете да разберете как бихте могли да се справите по-добре и как да стигнете до оптимално състояние на това, което искате да правите.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— поддържащ отворен код
   </p>
 </aside>
 
-### What would you need to continue sustaining yourself and your community?
+### От какво се нуждаете, за да продължите да поддържате себе си и общността си?
 
-This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
+Това ще изглежда различно за всеки поддържащ и ще се променя в зависимост от вашата фаза от живота и други външни фактори. Но ето няколко теми, които чухме:
 
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
+* **Разчитайте на общността:** Делегирането и намирането на сътрудници може да облекчи работното натоварване. Наличието на множество точки за контакт за даден проект може да ви помогне да си починете, без да се притеснявате. Свържете се с други поддържащи и по-широката общност – в групи като [Maintainer Community](http://maintainers.github.com/). Това може да бъде чудесен ресурс за партньорска подкрепа и обучение.
 
-  You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
+   Можете също така да търсите начини да се ангажирате с потребителската общност, така че да можете редовно да чувате обратна връзка и да разбирате въздействието на вашата работа с отворен код.
 
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **Разгледайте финансирането:** Независимо дали търсите малко пари за пица или се опитвате да преминете на пълен работен ден към отворен код, има много ресурси, които да ви помогнат! Като първа стъпка помислете дали да не включите [Спонсорите на GitHub](https://github.com/sponsors), за да позволите на други да спонсорират вашата работа с отворен код. Ако обмисляте да преминете към пълен работен ден, кандидатствайте за следващия кръг на [GitHub Accelerator](http://accelerator.github.com/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
- I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
+ Бях в подкаст преди малко и си говорехме за поддръжка с отворен код и устойчивост. Открих, че дори малък брой хора, които подкрепят работата ми в GitHub, ми помогнаха да взема бързо решение да не седя пред игра, а вместо това да направя едно малко нещо с отворен код.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
+— <a href="https://github.com/mansona">@mansona</a>, поддържащ EmberJS
   </p>
 </aside>
 
-* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **Използвайте инструменти:** Разгледайте инструменти като [GitHub Copilot](https://github.com/features/copilot/) и [GitHub Actions](https://github.com/features/actions), за да автоматизирате светски задачи и освободете времето си за по-значими приноси.
 
 <aside markdown="1" class="pquote">
- Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
+ Use [Copilot](https://github.com/features/copilot/) за скучните неща - правете забавните неща
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— поддържащ отворен код
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
+* **Почивка и презареждане:** Отделете време за вашите хобита и интереси извън отворен код. Вземете почивни дни, за да се отпуснете и да се подмладите – и задайте своя [статус в GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your- profile/personalizing-your-profile#setting-a-status), за да отразява вашата наличност! Добрият нощен сън може да направи голяма разлика в способността ви да поддържате усилията си в дългосрочен план.
 
-  If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
+   Ако намирате определени аспекти от вашия проект за особено приятни, опитайте се да структурирате работата си, така че да можете да я изживявате през целия си ден.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
+ Намирам повече възможност да поръся „моменти на творчество“ в средата на деня, вместо да се опитвам да се изключа вечер.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
+— <a href="https://github.com/danielroe">@danielroe</a>, поддържащ Nuxt
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **Задайте граници:** Не можете да кажете „да“ на всяка молба. Това може да бъде толкова просто, колкото да кажете: „Не мога да стигна до това в момента и нямам планове за бъдещето“ или да посочите какво искате да правите и какво да не правите в README. Например, можете да кажете: „Аз обединявам само PR-и, които имат ясно изброени причини, поради които са направени“, или „Преглеждам проблемите само в четвъртък от 18 до 19 часа“. Това определя очакванията за другите и ви дава нещо да посочите в други моменти, за да помогнете за намаляване на изискванията от сътрудници или потребители във вашето време.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
+За да се доверите смислено на другите по тези оси, не можете да сте някой, който казва „да“ на всяка молба. Правейки това, вие не поддържате никакви граници, професионално или лично, и няма да бъдете надежден колега.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
+— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, поддържащ Homebrew на [Saying No](https://mikemcquaid.com/saying-no/)
   </p>
 </aside>
 
-  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+  Научете се да сте твърди в спирането на токсичното поведение и негативните взаимодействия. Добре е да не давате енергия на неща, които не ви интересуват.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-My software is gratis, but my time and attention is not.
+Моят софтуер е безплатен, но моето време и внимание не са.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
+— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, поддържащ Leaflet
   </p>
 </aside>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.  
+Не е тайна, че поддръжката с отворен код има своите тъмни страни и една от тях е понякога да се налага да взаимодействате с доста неблагодарни, имащи право или направо токсични хора. С нарастването на популярността на даден проект нараства и честотата на този вид взаимодействие, което увеличава тежестта, поета от поддържащите, и вероятно се превръща в значителен рисков фактор за прегаряне на поддържащия.  
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+— <a href="https://github.com/foosel">@foosel</a>, поддържащ Octoprint на [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
 </aside>
 
-Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
+Не забравяйте, че личната екология е постоянна практика, която ще се развива, докато напредвате във вашето пътуване с отворен код. Като приоритизирате грижата за себе си и поддържате чувството за баланс, можете да допринесете за общността с отворен код ефективно и устойчиво, гарантирайки както вашето благополучие, така и успеха на вашите проекти в дългосрочен план.
 
-## Additional Resources
+## Допълнителни ресурси
 
 * [Maintainer Community](http://maintainers.github.com/)
 * [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
@@ -176,11 +176,11 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
 * Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
 
-## Contributors
+## Сътрудници
 
-Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+Много благодаря на всички поддържащи, които споделиха своя опит и съвети с нас за това ръководство!
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from: 
+Това ръководство е написано от [@abbycabs](https://github.com/abbycabs) с принос от: 
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
@@ -217,4 +217,4 @@ This guide was written by [@abbycabs](https://github.com/abbycabs) with contribu
 [@thisisnic](https://github.com/thisisnic)
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
-[@waldyrious](https://github.com/waldyrious) + many others!
+[@waldyrious](https://github.com/waldyrious) + много други!

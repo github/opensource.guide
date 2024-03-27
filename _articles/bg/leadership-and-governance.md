@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+lang: bg
+title: Лидерство и управление
+description: Разрастващите се проекти с отворен код могат да се възползват от формалните правила за вземане на решения.
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -10,147 +10,147 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## Разбиране на управлението за вашия разрастващ се проект
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+Вашият проект се разраства, хората са ангажирани и вие сте ангажирани да поддържате това нещо. На този етап може да се чудите как да включите редовни сътрудници на проекта във вашия работен процес, независимо дали става дума за даване на достъп за ангажимент или разрешаване на дебати в общността. Ако имате въпроси, ние имаме отговори.
 
-## What are examples of formal roles used in open source projects?
+## Какви са примерите за официални роли, използвани в проекти с отворен код?
 
-Many projects follow a similar structure for contributor roles and recognition.
+Много проекти следват подобна структура за роли на сътрудници и признание.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+Какво всъщност означават тези роли обаче, зависи изцяло от вас. Ето няколко типа роли, които може да разпознаете:
 
-* **Maintainer**
-* **Contributor**
-* **Committer**
+* **Поддържащ**
+* **Сътрудник**
+* **Комитер**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**За някои проекти „поддържащите“** са единствените хора в проект с достъп за ангажиране. В други проекти те са просто хората, които са изброени в README като поддържащи.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+Поддържащият не е задължително да е някой, който пише код за вашия проект. Може да е някой, който е свършил много работа по евангелизирането на вашия проект, или писмена документация, която е направила проекта по-достъпен за другите. Независимо от това, което прави всеки ден, поддържащият вероятно е някой, който се чувства отговорен за посоката на проекта и се е ангажирал да го подобри.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**„Сътрудник“ може да бъде всеки**, който коментира проблем или заявка за изтегляне, хора, които добавят стойност към проекта (независимо дали става въпрос за сортиране на проблеми, писане на код или организиране на събития), или всеки с обединена заявка за изтегляне (може би най-тясната дефиниция на сътрудник).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[За Node.js,\] всеки човек, който се появява, за да коментира проблем или да изпрати код, е член на общността на проекта. Само възможността да ги видите означава, че са преминали границата от потребител до сътрудник.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**Терминът „извършител“** може да се използва за разграничаване на достъпа за ангажиране, който е специфичен тип отговорност, от други форми на принос.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+Въпреки че можете да дефинирате ролите си в проекта както желаете, [помислете дали да не използвате по-широки дефиниции](../how-to-contribute/#what-it-means-to-contribute), за да насърчите повече форми на принос. Можете да използвате лидерски роли, за да признаете официално хора, които са направили изключителен принос към вашия проект, независимо от техните технически умения.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+  Може да ме познавате като „изобретателя“ на Django...но всъщност аз съм човекът, който беше нает да работи върху нещо година след като то вече беше направено. (...) Хората подозират, че съм успешен благодарение на уменията ми за програмиране...но в най-добрия случай съм среден програмист.
   <p markdown="1" class="pquote-credit">
-— @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
+— @jacobian, ["Основна бележка на PyCon 2015" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## Как да формализирам тези лидерски роли?
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+Формализирането на вашите лидерски роли помага на хората да се чувстват собственост и казва на другите членове на общността към кого да търсят помощ.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+За по-малък проект определянето на лидери може да бъде толкова просто, колкото добавянето на техните имена към вашия README или текстов файл CONTRIBUTORS.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+За по-голям проект, ако имате уебсайт, създайте страница на екип или избройте ръководителите на проекта си там. Например [Postgres](https://github.com/postgres/postgres/) има [изчерпателна екипна страница](https://www.postgresql.org/community/contributors/) с кратки профили за всеки участник.
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+Ако вашият проект има много активна общност на сътрудници, можете да сформирате „основен екип“ от поддържащи или дори подкомитети от хора, които поемат отговорност за различни проблемни области (например сигурност, сортиране на проблеми или поведение на общността). Позволете на хората да се самоорганизират и доброволно изпълняват ролите, които ги вълнуват най-много, вместо да ги възлагат.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[Ние\] допълваме основния екип с няколко "подекипа". Всеки подекип е фокусиран върху конкретна област, например езиков дизайн или библиотеки. (...) За да се осигури глобална координация и силна, съгласувана визия за проекта като цяло, всеки подекип се ръководи от член на основния екип.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
+— ["RFC за управление на Rust"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
+Лидерските екипи може да искат да създадат определен канал (като в IRC) или да се срещат редовно, за да обсъждат проекта (като в Gitter или Google Hangout). Можете дори да направите тези срещи публични, така че други хора да могат да слушат. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), например, [поема работно време всяка седмица](https://github.com/cucumber/cucumber-ruby/blob/HEAD/ CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+След като сте установили лидерски роли, не забравяйте да документирате как хората могат да ги постигнат! Установете ясен процес за това как някой може да стане поддържащ или да се присъедини към подкомисия във вашия проект и го напишете във вашия GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+Инструменти като [Vossibility](https://github.com/icecrime/vossibility-stack) могат да ви помогнат публично да проследите кой (или не) прави принос към проекта. Документирането на тази информация избягва възприемането на общността, че поддържащите са клика, която взема решенията си частно.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
+И накрая, ако проектът ви е в GitHub, помислете за преместване на проекта от личния ви акаунт в организация и добавяне на поне един резервен администратор. [Организациите на GitHub](https://help.github.com/articles/creating-a-new-organization-account/) улесняват управлението на разрешения и множество хранилища и защитават наследството на вашия проект чрез [споделена собственост](.. /building-community/#share-ownership-of-your-project).
 
-## When should I give someone commit access?
+## Кога трябва да дам на някого достъп за ангажиране?
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+Някои хора смятат, че трябва да дадете достъп за ангажиране на всеки, който направи принос. Това може да насърчи повече хора да почувстват собственост върху вашия проект.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+От друга страна, особено за по-големи, по-сложни проекти, може да искате да дадете достъп за ангажиране само на хора, които са демонстрирали своя ангажимент. Няма един правилен начин да го направите - направете това, което ви прави най-удобно!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+Ако вашият проект е в GitHub, можете да използвате [защитени клонове](https://help.github.com/articles/about-protected-branches/), за да управлявате кой може да насочва към определен клон и при какви обстоятелства.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  Всеки път, когато някой ви изпрати заявка за изтегляне, дайте му достъп до вашия проект. Въпреки че в началото може да звучи невероятно глупаво, използването на тази стратегия ще ви позволи да разгърнете истинската сила на GitHub. (...) След като хората имат достъп за ангажиране, те вече не се притесняват, че корекцията им може да остане необединена... което ги кара да положат много повече работа в нея.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["Хакът на заявка за изтегляне"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## Какви са някои от общите структури на управление за проекти с отворен код?
 
-There are three common governance structures associated with open source projects.
+Има три общи структури на управление, свързани с проекти с отворен код.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL означава „Доброжелателен диктатор за цял живот“. При тази структура един човек (обикновено първоначалният автор на проекта) има последната дума за всички основни решения по проекта. [Python](https://github.com/python) е класически пример. По-малките проекти вероятно са BDFL по подразбиране, защото има само един или двама поддържащи. Проект, който произхожда от компания, може също да попадне в категорията BDFL.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **Меритокрация:** **(Забележка: терминът „меритокрация“ носи отрицателни конотации за някои общности и има [сложна социална и политическа история](http://geekfeminism.wikia.com/wiki/Meritocracy).) ** При меритокрацията на активните участници в проекти (тези, които демонстрират „заслуги“) се дава официална роля за вземане на решения. Решенията обикновено се вземат въз основа на чист консенсус при гласуване. Концепцията за меритокрация е въведена от [Фондация Apache](https://www.apache.org/); [всички проекти на Apache](https://www.apache.org/index.html#projects-list) са меритокрации. Вноски могат да се правят само от лица, представляващи себе си, а не от компания.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
+* **Либерален принос:** При либерален модел на принос хората, които вършат най-много работа, се признават за най-влиятелни, но това се основава на текуща работа, а не на исторически принос. Решенията за големи проекти се вземат въз основа на процес на търсене на консенсус (обсъждане на основните оплаквания), а не на чисто гласуване, и се стремят да включват възможно най-много гледни точки на общността. Популярни примери за проекти, които използват либерален модел на принос, включват [Node.js](https://foundation.nodejs.org/) и [Rust](https://www.rust-lang.org/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+Кое трябва да използвате? От теб зависи! Всеки модел има предимства и компромиси. И въпреки че в началото може да изглеждат доста различни, и трите модела имат повече общо, отколкото изглежда. Ако се интересувате от приемането на един от тези модели, вижтеthese templates:
 
 * [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## Имам ли нужда от документи за управление, когато стартирам проекта си?
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+Няма подходящ момент да запишете управлението на вашия проект, но е много по-лесно да го дефинирате, след като видите как се развива динамиката на вашата общност. Най-добрата (и най-трудната) част от управлението с отворен код е, че е оформено от общността!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+Някои ранни документи обаче неизбежно ще допринесат за управлението на вашия проект, така че започнете да записвате каквото можете. Например, можете да дефинирате ясни очаквания за поведение или как работи вашият процес на сътрудник, дори при стартирането на вашия проект.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+Ако сте част от компания, стартираща проект с отворен код, струва си да проведете вътрешна дискусия преди стартирането за това как вашата компания очаква да поддържа и да взема решения за напредъка на проекта. Можете също така да искате публично да обясните нещо конкретно за това как вашата компания ще (или няма!) да бъде включена в проекта.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  Назначаваме малки екипи за управление на проекти в GitHub, които всъщност работят върху тях във Facebook. Например React се управлява от React инженер.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## Какво се случва, ако корпоративните служители започнат да изпращат вноски?
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+Успешните проекти с отворен код се използват от много хора и компании и някои компании може в крайна сметка да имат потоци от приходи, които в крайна сметка да са свързани с проекта. Например, една компания може да използва кода на проекта като един компонент в предлагането на търговска услуга.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+Тъй като проектът се използва по-широко, хората, които имат опит в него, стават все по-търсени - вие може да сте един от тях! - и понякога ще получават заплащане за работата, която вършат в проекта.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+Важно е търговската дейност да се третира като нормална и просто като още един източник на енергия за развитие. Разбира се, платените разработчици не трябва да получават специално отношение спрямо неплатените; всеки принос трябва да бъде оценен според техническите си качества. Въпреки това, хората трябва да се чувстват комфортно да участват в търговска дейност и да се чувстват комфортно да посочват своите случаи на употреба, когато спорят в полза на определено подобрение или функция.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+"Комерсиален" е напълно съвместим с "отворен код". „Търговски“ просто означава, че някъде има замесени пари – че софтуерът се използва в търговията, което е все по-вероятно, тъй като даден проект получава приемане. (Когато софтуер с отворен код се използва като част от продукт с неотворен код, цялостният продукт все още е „патентован“ софтуер, въпреки че, подобно на отворен код, може да се използва за търговски или нетърговски цели.)
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+Като всеки друг, комерсиално мотивираните разработчици печелят влияние в проекта чрез качеството и количеството на техния принос. Очевидно програмист, който получава заплащане за времето си, може да е в състояние да направи повече от някой, който не получава заплащане, но това е добре: плащането е само един от многото възможни фактори, които могат да повлияят на това колко прави някой. Поддържайте дискусиите по проекта си фокусирани върху приноса, а не върху външните фактори, които позволяват на хората да направят този принос.
 
-## Do I need a legal entity to support my project?
+## Нуждая ли се от юридическо лице, което да поддържа моя проект?
 
-You don't need a legal entity to support your open source project unless you're handling money.
+Нямате нужда от юридическо лице, за да поддържате вашия проект с отворен код, освен ако не боравите с пари.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+Например, ако искате да създадете търговски бизнес, ще искате да създадете C Corp или LLC (ако сте базирани в САЩ). Ако просто работите по договор, свързан с вашия проект с отворен код, можете да приемате пари като едноличен собственик или да създадете LLC (ако сте базирани в САЩ).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+Ако искате да приемате дарения за вашия проект с отворен код, можете да настроите бутон за дарение (с помощта на PayPal или Stripe, например), но парите няма да се приспадат от данъци, освен ако не сте квалифицирана организация с нестопанска цел (501c3, ако вие сте в САЩ).
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+Много проекти не желаят да преминат през неприятностите при създаването на организация с нестопанска цел, така че вместо това намират фискален спонсор с нестопанска цел. Фискален спонсор приема дарения от ваше име, обикновено в замяна на процент от дарението. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/ ), [Linux Foundation](https://www.linuxfoundation.org/projects) и [Open Collective](https://opencollective.com/opensource) са примери за организации, които служат като фискални спонсори за проекти с отворен код.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  Нашата цел е да предоставим инфраструктура, която общностите могат да използват, за да бъдат самоустойчиви, като по този начин създаваме среда, в която всички —„сътрудници, поддръжници, спонсори — извличат конкретни ползи от това.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
+— @piamancini, ["Преминаване извън рамката на благотворителността"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+Ако вашият проект е тясно свързан с определен език или екосистема, може да има и свързана софтуерна основа, с която можете да работите. Например [Python Software Foundation](https://www.python.org/psf/) помага за поддръжката на [PyPI](https://pypi.org/), мениджъра на пакети на Python и [Node.js Foundation](https://foundation.nodejs.org/) помага за поддръжката на [Express.js](https://expressjs.com/), базирана на възли рамка.

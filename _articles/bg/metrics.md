@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+lang: bg
+title: Показатели за отворен код
+description: Вземете информирани решения, за да помогнете на вашия проект с отворен код да процъфтява, като измервате и проследявате неговия успех.
 class: metrics
 order: 9
 image: /assets/images/cards/metrics.png
@@ -10,119 +10,119 @@ related:
   - best-practices
 ---
 
-## Why measure anything?
+## Защо да измервате нещо?
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+Данните, когато се използват разумно, могат да ви помогнат да вземете по-добри решения като поддържащ отворен код.
 
-With more information, you can:
+С повече информация можете:
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+* Разберете как потребителите реагират на нова функция
+* Разберете откъде идват новите потребители
+* Идентифицирайте и решете дали да поддържате извънреден случай на употреба или функционалност
+* Определете количествено популярността на вашия проект
+* Разберете как се използва вашият проект
+* Събирайте пари чрез спонсорства и безвъзмездни средства
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+Например [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) открива, че Google Анализ им помага да приоритизират работата:
 
-> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+> Homebrew се предоставя безплатно и се управлява изцяло от доброволци в свободното им време. В резултат на това нямаме ресурсите да направим подробни потребителски проучвания на потребителите на Homebrew, за да решим как най-добре да проектираме бъдещи функции и да дадем приоритет на текущата работа. Анонимните обобщени потребителски анализи ни позволяват да приоритизираме поправки и функции въз основа на това как, къде и кога хората използват Homebrew.
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
+Популярността не е всичко. Всеки влиза в отворен код по различни причини. Ако целта ви като поддържащ отворен код е да покажете работата си, да сте прозрачни относно кода си или просто да се забавлявате, показателите може да не са важни за вас.
 
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
+Ако се интересувате от разбирането на вашия проект на по-дълбоко ниво, прочетете за начини да анализирате дейността на вашия проект.
 
-## Discovery
+## Откритие
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
+Преди някой да може да използва или да допринесе обратно за вашия проект, той трябва да знае, че той съществува. Запитайте се: _хората намират ли този проект?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Графика на трафика](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
+Ако вашият проект се хоства в GitHub, [можете да видите](https://help.github.com/articles/about-repository-graphs/#traffic) колко хора попадат на вашия проект и откъде идват. От страницата на вашия проект щракнете върху „Прозрения“, след това върху „Трафик“. На тази страница можете да видите:
 
-* **Total page views:** Tells you how many times your project was viewed
+* **Общ брой показвания на страници:** Ви казва колко пъти е бил прегледан вашият проект
 
-* **Total unique visitors:** Tells you how many people viewed your project
+* **Общ брой уникални посетители:** Ви казва колко души са видели проекта Ви
 
-* **Referring sites:** Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
+* **Препоръчващи сайтове:** Ви казва откъде идват посетителите. Този показател може да ви помогне да разберете къде да достигнете до аудиторията си и дали усилията ви за промоция работят.
 
-* **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
+* **Популярно съдържание:** Ви казва къде отиват посетителите във вашия проект, разбити по показвания на страници и уникални посетители.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[Звездите на GitHub](https://help.github.com/articles/about-stars/) също могат да помогнат за предоставяне на основна мярка за популярност. Въпреки че звездите на GitHub не са непременно свързани с изтегляния и използване, те могат да ви кажат колко хора обръщат внимание на работата ви.
 
-You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
+Може също да искате да [проследите откриваемостта на конкретни места](https://opensource.com/business/16/6/pirate-metrics): например Google PageRank, трафик от препоръчани потребители от уебсайта на вашия проект или препоръчани потребители от други отворени изходни проекти или уебсайтове.
 
-## Usage
+## Използване
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they'll feel compelled to do something. The second question you'll want to ask is: _are people using this project?_
+Хората намират вашия проект в това диво и лудо нещо, което наричаме интернет. В идеалния случай, когато видят вашия проект, те ще се почувстват принудени да направят нещо. Вторият въпрос, който ще искате да зададете е: _хората използват ли този проект?_
 
-If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project's downloads.
+Ако използвате мениджър на пакети, като npm или RubyGems.org, за разпространение на вашия проект, може да сте в състояние да проследявате изтеглянията на вашия проект.
 
-Each package manager may use a slightly different definition of "download", and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+Всеки мениджър на пакети може да използва малко по-различна дефиниция на „изтегляне“ и изтеглянията не са непременно свързани с инсталиранията или използването, но предоставя някаква базова линия за сравнение. Опитайте да използвате [Libraries.io](https://libraries.io/), за да проследявате статистическите данни за използването в много популярни мениджъри на пакети.
 
-If your project is on GitHub, navigate again to the "Traffic" page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+Ако вашият проект е в GitHub, отворете отново страницата „Трафик“. Можете да използвате [графиката за клониране](https://github.com/blog/1873-clone-graphs), за да видите колко пъти вашият проект е бил клониран за даден ден, разбити на общия брой клонинги и уникални клонинги.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![Графика за клониране](/assets/images/metrics/clone_graph.png)
 
-If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+Ако употребата е ниска в сравнение с броя на хората, които са открили вашия проект, трябва да имате предвид два проблема. Или:
 
-* Your project isn't successfully converting your audience, or
-* You're attracting the wrong audience
+* Вашият проект не преобразува успешно вашата аудитория, или
+* Привличате грешната аудитория
 
-For example, if your project lands on the front page of Hacker News, you'll probably see a spike in discovery (traffic), but a lower conversion rate, because you're reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you're more likely to see a high conversion rate from a targeted audience.
+Например, ако вашият проект попадне на първа страница на Hacker News, вероятно ще видите скок в откриването (трафик), но по-нисък процент на реализация, защото достигате до всички в Hacker News. Ако обаче вашият Ruby проект бъде представен на Ruby конференция, е по-вероятно да видите висок процент на реализация от целева аудитория.
 
-Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you're facing.
+Опитайте се да разберете откъде идва вашата аудитория и помолете другите за обратна връзка на страницата на вашия проект, за да разберете с кой от тези два проблема се сблъсквате.
 
-Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+След като разберете, че хората използват вашия проект, може да искате да опитате да разберете какво правят с него. Надграждат ли го, като разклоняват вашия код и добавят функции? Използват ли го за наука или за бизнес?
 
-## Retention
+## Задържане
 
-People are finding your project and they're using it. The next question you'll want to ask yourself is: _are people contributing back to this project?_
+Хората намират вашия проект и го използват. Следващият въпрос, който ще искате да си зададете, е: _хората допринасят ли обратно за този проект?_
 
-It's never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is _popular_ (many people use it) but not _supported_ (not enough maintainer time to meet demand).
+Никога не е твърде рано да започнете да мислите за сътрудници. Без други хора да се намесят, рискувате да се поставите в нездравословна ситуация, в която вашият проект е _популярен_ (много хора го използват), но не е _поддържан_ (няма достатъчно време за поддръжка, за да отговори на търсенето).
 
-Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+Задържането също така изисква [приток на нови сътрудници](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), тъй като предишните активни сътрудници в крайна сметка ще продължат напред към други неща.
 
-Examples of community metrics that you may want to regularly track include:
+Примери за показатели на общността, които може да искате да проследявате редовно, включват:
 
-* **Total contributor count and number of commits per contributor:** Tells you how many contributors you have, and who's more or less active. On GitHub, you can view this under "Insights" -> "Contributors." Right now, this graph only counts contributors who have committed to the default branch of the repository.
+* **Общ брой сътрудници и брой ангажименти на сътрудник:** Ви казва колко сътрудници имате и кой е повече или по-малко активен. В GitHub можете да видите това под „Прозрения“ -> „Сътрудници“. В момента тази графика отчита само сътрудници, които са се ангажирали с клона по подразбиране на хранилището.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Графика на сътрудник](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **First time, casual, and repeat contributors:** Helps you track whether you're getting new contributors, and whether they come back. (Casual contributors are contributors with a low number of commits. Whether that's one commit, less than five commits, or something else is up to you.) Without new contributors, your project's community can become stagnant.
+* **Първи, случайни и повторни сътрудници:** Помага ви да проследите дали получавате нови сътрудници и дали те се връщат. (Случайните сътрудници са сътрудници с малък брой ангажименти. Дали това е един комит, по-малко от пет ангажимента или нещо друго зависи от вас.) Без нови сътрудници общността на вашия проект може да изпадне в застой.
 
-* **Number of open issues and open pull requests:** If these numbers get too high, you might need help with issue triaging and code reviews.
+* **Брой отворени проблеми и отворени заявки за изтегляне: ** Ако тези числа станат твърде високи, може да се нуждаете от помощ при сортирането на проблеми и прегледите на кода.
 
-* **Number of _opened_ issues and _opened_ pull requests:** Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+* **Брой _отворени_ проблеми и _отворени_ заявки за изтегляне: ** Отворените проблеми означават, че някой се интересува достатъчно от вашия проект, за да отвори проблем. Ако този брой се увеличи с течение на времето, това предполага, че хората се интересуват от вашия проект.
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Видове приноси: ** Например ангажименти, коригиране на правописни грешки или грешки или коментиране на проблем.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+  Отвореният код е нещо повече от код. Успешните проекти с отворен код включват принос на код и документация заедно с разговори за тези промени.
   <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+— @arfon, ["Формата на отворения код"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
 </aside>
 
-## Maintainer activity
+## Поддържаща дейност
 
-Finally, you'll want to close the loop by making sure your project's maintainers are able to handle the volume of contributions received. The last question you'll want to ask yourself is: _am I (or are we) responding to our community?_
+И накрая, ще искате да затворите цикъла, като се уверите, че поддържащите вашия проект са в състояние да се справят с обема на получените вноски. Последният въпрос, който ще искате да си зададете е: _отговарям ли (или ние) на нашата общност?_
 
-Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+Неотзивчивите поддържащи се превръщат в пречка за проекти с отворен код. Ако някой изпрати принос, но никога не получи отговор от поддържащия, той може да се почувства обезсърчен и да напусне.
 
-[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+[Изследване от Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) предполага, че отзивчивостта на поддържащия е критичен фактор за насърчаване на повтарящи се приноси.
 
-Consider [tracking how long it takes for you (or another maintainer) to respond to contributions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/), whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Помислете за [проследяване колко време отнема на вас (или на друг поддържащ) да отговорите на приносите](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/), дали проблем или заявка за изтегляне. Отговорът не изисква предприемане на действие. Може да бъде толкова просто, колкото да кажете: _„Благодаря за вашето изпращане! Ще прегледам това през следващата седмица.“_
 
-You could also measure the time it takes to move between stages in the contribution process, such as:
+Можете също да измерите времето, необходимо за преминаване между етапите в процеса на принос, като например:
 
-* Average time an issue remains open
-* Whether issues get closed by PRs
-* Whether stale issues get closed
-* Average time to merge a pull request
+*Средно време, през което проблемът остава отворен
+* Дали проблемите се затварят от PR
+* Дали остарелите проблеми се затварят
+* Средно време за обединяване на заявка за изтегляне
 
-## Use 📊 to learn about people
+## Използвайте 📊, за да научите за хората
 
-Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+Разбирането на показателите ще ви помогне да изградите активен, разрастващ се проект с отворен код. Дори и да не проследявате всеки показател на таблото за управление, използвайте рамката по-горе, за да фокусирате вниманието си върху типа поведение, което ще помогне на вашия проект да процъфтява.
 
-[CHAOSS](https://chaoss.community/) is a welcoming, open source community focused on analytics, metrics and software for community health.
+[CHAOSS](https://chaoss.community/) е гостоприемна общност с отворен код, фокусирана върху анализи, показатели и софтуер за здравето на общността.
