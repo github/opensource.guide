@@ -62,6 +62,16 @@ blockquote {
   line-height: 0;
 }
 
+nav.main-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10; 
+  background-color: #fff; 
+  transition: all 0.3s ease-in-out;
+}
+
 .main-links {
   a {
     &:hover {
