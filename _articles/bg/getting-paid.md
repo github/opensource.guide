@@ -30,7 +30,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Финансовите дарения наистина добавят чувство за отговорност за някои. (...) За нас е важно, в глобално свързания, забързан свят, в който живеем, да можем да кажем „не сега, искам да правя нещо съвсем различно“.
+  Финансовите дарения наистина добавят чувство за отговорност за някои. (...) За нас е важно, в глобално свързания, забързан свят, в който живеем, да можем да кажем "не сега, искам да правя нещо съвсем различно".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Защо не приемаме дарения"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
@@ -70,9 +70,9 @@ related:
 
 Много компании разработват програми с отворен код, за да изградят своята марка и да наемат качествени таланти.
 
-@hueniverse например установи, че има финансови причини, които да оправдаят [инвестицията на Walmart в отворен код](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in- open-source-isn-t-cheap.html). И @jamesgpearce установи, че програмата с отворен код на Facebook [има значение](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) при набирането на персонал:
+@hueniverse например установи, че има финансови причини, които да оправдаят [инвестицията на Walmart в отворен код](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). И @jamesgpearce установи, че програмата с отворен код на Facebook [има значение](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) при набирането на персонал:
 
-> Тя е тясно свързана с нашата хакерска култура и начина, по който нашата организация се възприемаше. Попитахме нашите служители: „Знаехте ли за софтуерната програма с отворен код във Facebook?“. Две трети казаха "Да". Половината казаха, че програмата е допринесла положително за решението им да работят за нас. Това не са пределни числа и се надявам, че тенденцията ще продължи.
+> Тя е тясно свързана с нашата хакерска култура и начина, по който нашата организация се възприемаше. Попитахме нашите служители: "Знаехте ли за софтуерната програма с отворен код във Facebook?". Две трети казаха "Да". Половината казаха, че програмата е допринесла положително за решението им да работят за нас. Това не са пределни числа и се надявам, че тенденцията ще продължи.
 
 Ако вашата компания тръгне по този път, важно е да поддържате ясни границите между общността и корпоративната дейност. В крайна сметка отвореният код се поддържа чрез принос от хора по целия свят и това е по-голямо от която и да е компания или местоположение.
 
@@ -95,11 +95,11 @@ related:
 
 * @Homebrew (и [много други поддържащи и организации](https://github.com/sponsors/community)) финансират работата си чрез [Спонсори на GitHub](https://github.com/sponsors)
 * @gaearon финансира работата си върху [Redux](https://github.com/reactjs/redux) чрез [кампания за групово финансиране на Patreon](https://redux.js.org/)
-* @andrewgodwin финансира работа по миграции на схема на Django [чрез кампания на Kickstarter] (https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* @andrewgodwin финансира работа по миграции на схема на Django [чрез кампания на Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 И накрая, понякога проекти с отворен код дават премии за проблеми, за които може да обмислите да помогнете.
 
-* @ConnorChristie успя да получи плащане за [помощ](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F %2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol работят по своята JavaScript библиотека [чрез награда за gitcoin](https://gitcoin.co/).
+* @ConnorChristie успя да получи плащане за [помощ](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol работят по своята JavaScript библиотека [чрез награда за gitcoin](https://gitcoin.co/).
 * @mamiM направи японски преводи за @MetaMask след [изданието беше финансирано от Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Намиране на финансиране за вашия проект

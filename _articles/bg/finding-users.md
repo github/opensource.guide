@@ -26,7 +26,7 @@ related:
 
 ![Картография README](/assets/images/finding-users/cartography.jpg)
 
-За по-задълбочено потапяне в съобщенията вижте упражнението на Mozilla [„Личности и пътеки“](https://mozillascience.github.io/working-open-workshop/personas_pathways/) за разработване на потребителски персони.
+За по-задълбочено потапяне в съобщенията вижте упражнението на Mozilla ["Личности и пътеки"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) за разработване на потребителски персони.
 
 ## Help people find and follow your project
 
@@ -55,7 +55,7 @@ related:
 
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), съ-създател на Django, каза, че уебсайтът е _"далеч най-доброто нещо, което направихме с Django в ранните дни"_ .
 
-Ако вашият проект се хоства в GitHub, можете да използвате [GitHub Pages](https://pages.github.com/), за да създадете лесно уебсайт. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/) и [Middleman](https://middlemanapp.com/) са [няколко примера] (https://github.com/showcases/github-pages-examples) от отлични, изчерпателни уебсайтове.
+Ако вашият проект се хоства в GitHub, можете да използвате [GitHub Pages](https://pages.github.com/), за да създадете лесно уебсайт. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/) и [Middleman](https://middlemanapp.com/) са [няколко примера](https://github.com/showcases/github-pages-examples) от отлични, изчерпателни уебсайтове.
 
 ![Начална страница на Vagrant](/assets/images/finding-users/vagrant_homepage.png)
 
