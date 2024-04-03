@@ -140,7 +140,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
 За да се доверите смислено на другите по тези оси, не можете да сте някой, който казва "да" на всяка молба. Правейки това, вие не поддържате никакви граници, професионално или лично, и няма да бъдете надежден колега.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, поддържащ Homebrew на [Saying No](https://mikemcquaid.com/saying-no/)
+— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, поддържащ Homebrew на [Казвайки не](https://mikemcquaid.com/saying-no/)
   </p>
 </aside>
 
@@ -148,7 +148,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-Моят софтуер е безплатен, но моето време и внимание не са.
+    Моят софтуер е безплатен, но моето време и внимание не са.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, поддържащ Leaflet
   </p>
@@ -156,7 +156,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-Не е тайна, че поддръжката с отворен код има своите тъмни страни и една от тях е понякога да се налага да взаимодействате с доста неблагодарни, имащи право или направо токсични хора. С нарастването на популярността на даден проект нараства и честотата на този вид взаимодействие, което увеличава тежестта, поета от поддържащите, и вероятно се превръща в значителен рисков фактор за прегаряне на поддържащия.  
+    Не е тайна, че поддръжката с отворен код има своите тъмни страни и една от тях е понякога да се налага да взаимодействате с доста неблагодарни, имащи право или направо токсични хора. С нарастването на популярността на даден проект нараства и честотата на този вид взаимодействие, което увеличава тежестта, поета от поддържащите, и вероятно се превръща в значителен рисков фактор за прегаряне на поддържащия.  
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel">@foosel</a>, поддържащ Octoprint на [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
