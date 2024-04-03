@@ -116,7 +116,7 @@ related:
 Няколко примера за спонсорирани проекти включват:
 
 * **[webpack](https://github.com/webpack)** събира пари от компании и физически лица [чрез OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** организация с нестопанска цел, която плаща за работата по [bundler](https://github.com/bundler/bundler), [RubyGems](https ://github.com/rubygems/rubygems) и други Ruby инфраструктурни проекти
+* **[Ruby Together](https://rubytogether.org/),** организация с нестопанска цел, която плаща за работата по [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) и други Ruby инфраструктурни проекти
 
 ### Създайте поток от приходи
 
@@ -132,8 +132,8 @@ related:
 
 Някои софтуерни фондации и компании предлагат грантове за работа с отворен код. Понякога грантовете могат да се изплащат на физически лица, без да се създава юридическо лице за проекта.
 
-* **[Прочетете документите](https://github.com/rtfd/readthedocs.org)** получи субсидия от [Поддръжка на Mozilla Open Source](https://www.mozilla.org/en-US/ субсидии/)
-* Работата по **[OpenMRS](https://github.com/openmrs)** е финансирана от [Retreat за отворен код на Stripe](https://stripe.com/blog/open-source-retreat-2016-grantees )
+* **[Прочетете документите](https://github.com/rtfd/readthedocs.org)** получи субсидия от [Поддръжка на Mozilla Open Source](https://www.mozilla.org/en-US/grants/)
+* Работата по **[OpenMRS](https://github.com/openmrs)** е финансирана от [Retreat за отворен код на Stripe](https://stripe.com/blog/open-source-retreat-2016-grantees)
 * **[Libraries.io](https://github.com/librariesio)** получи грант от [Фондация Слоун](https://sloan.org/programs/digital-technology)
 * **[Python Software Foundation](https://www.python.org/psf/grants/)** предлага грантове за работа, свързана с Python
 
