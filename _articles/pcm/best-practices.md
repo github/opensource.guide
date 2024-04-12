@@ -149,7 +149,7 @@ If you dey find people wey go fit help, start to ask around.
 
 One way to get new contributors be to [label issues wey dey simple for beginners to work on](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub go show these issues for different places for the platform, e go make them dey easier to see.
 
-When you see new contributors wey dey make repeated contributions, make you acknowledge their work and give them more responsibility. Write down how other people fit grow into leadership roles if them wan. Make you encourage others to [share ownership of the project](../building-community/#share-ownership-of-your-project) because e fit reduce your own workload, just like @lmccart find out for her project, [p5.js](https://github.com/processing/p5.js).
+When you see new contributors wey dey make repeated contributions, make you acknowledge their work and give them more responsibility. Write down how other people fit grow into leadership roles if them wan. Make you encourage others to [share ownership of the project](../building-community/#share-the-person-waeh-get-your-project) because e fit reduce your own workload, just like @lmccart find out for her project, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
