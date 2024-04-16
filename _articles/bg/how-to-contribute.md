@@ -10,7 +10,7 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Защо да допринасяте за отворен код?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
