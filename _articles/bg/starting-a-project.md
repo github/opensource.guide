@@ -287,7 +287,7 @@ CONTRIBUTING файл казва на вашата публика как да у
   </label>
 </div>
 
-**Code**
+**Код**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
