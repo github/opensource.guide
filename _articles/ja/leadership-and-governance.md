@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: リーダーシップと組織運営
-description: 意思決定するためのルールを決めることで、オープンソースプロジェクトを成長させる助けとなります
+description: 意思決定するためのルールを決めることで、オープンソースプロジェクトを成長させる助けとなります。
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png

@@ -47,7 +47,7 @@ If you're writing content, see the [style guide](./docs/styleguide.md) to help y
 
 ## Setting up your environment
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/).
+This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/) along with [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
 Once you have that set up:
 
