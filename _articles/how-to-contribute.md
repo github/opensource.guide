@@ -393,6 +393,7 @@ Whether you're a one-time contributor or trying to join a community, working wit
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
+  //sample typing
 </aside>
 
 Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
