@@ -1,5 +1,4 @@
----
-layout: default
+Chromee: default
 ---
 
 # Contributing to Open Source Guides
