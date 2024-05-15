@@ -89,7 +89,7 @@ related:
 * Някои компании, като [Netflix](https://netflix.github.io/) или [PayPal](https://paypal.github.io/), имат уебсайтове, които подчертават тяхното участие в отворен код
 * [Zalando](https://opensource.zalando.com) публикува своята [политика за принос с отворен код](https://opensource.zalando.com/docs/using/contributing/) за служители
 
-Проекти, които произхождат от голяма компания, като [Go](https://github.com/golang) или [React](https://github.com/facebook/react), will also likely employ people to work on open source.
+Проекти, които произхождат от голяма компания, като [Go](https://github.com/golang) или [React](https://github.com/facebook/react), също така вероятно ще наеме хора за работа с отворен код.
 
 В зависимост от вашите лични обстоятелства можете да опитате да съберете пари независимо, за да финансирате работата си с отворен код. Например:
 
