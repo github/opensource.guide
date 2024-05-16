@@ -165,7 +165,7 @@ Vedi se riesci a trovare modi per condividere il più possibile la proprietà co
 
 * Se hai una community numerosa, **invia una newsletter o scrivi un post sul blog** ringraziando i contributori. [This Week in Rust](https://this-week-in-rust.org/) di Rust e [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) di Hood sono due ottimi esempi.
 
-* **Concedi l'accesso al commit a ogni collaboratore.** @felixge ha scoperto che rendeva le persone [più entusiaste di migliorare le proprie soluzioni](https://felixge.de/2013/03/11/the-pull -request-hack. html) e ha anche trovato nuovi manutentori per progetti su cui non lavorava da un po'.
+* **Concedi l'accesso al commit a ogni collaboratore.** @felixge ha scoperto che rendeva le persone [più entusiaste di migliorare le proprie soluzioni](https://felixge.de/2013/03/11/the-pull-request-hack.html) e ha anche trovato nuovi manutentori per progetti su cui non lavorava da un po'.
 
 * Se il tuo progetto è su GitHub, **sposta il tuo progetto dal tuo account personale a [Organizzazione](https://help.github.com/articles/creating-a-new-organization-account/)** e aggiungilo a almeno un amministratore di backup. Le organizzazioni facilitano il lavoro di progetto con collaboratori esterni.
 

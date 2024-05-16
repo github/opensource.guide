@@ -222,7 +222,7 @@ Pensa prima alla chiarezza. I giochi di parole sono divertenti, ma ricorda che a
 
 ### Evitare conflitti di nomi
 
-[Verifica la presenza di progetti open source con nomi simili](http://ivatomic.com/projects/ospnc/), soprattutto se condividi la stessa lingua o ecosistema. Se il tuo nome si sovrappone a un popolare progetto esistente, potresti confondere il tuo pubblico.
+[Verifica la presenza di progetti open source con nomi simili](https://ivatomic.com/), soprattutto se condividi la stessa lingua o ecosistema. Se il tuo nome si sovrappone a un popolare progetto esistente, potresti confondere il tuo pubblico.
 
 Se desideri che un sito web, un account Twitter o altre proprietà rappresentino il tuo progetto, assicurati di poter ottenere i nomi che desideri. Idealmente, [salva questi nomi adesso](https://instantdomainsearch.com/) per la massima tranquillità, anche se non intendi ancora utilizzarli.
 
