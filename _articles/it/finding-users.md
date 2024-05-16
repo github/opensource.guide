@@ -28,7 +28,7 @@ Ad esempio, @robb utilizza esempi di codice per comunicare chiaramente perché i
 
 Per un approfondimento sulla messaggistica, consulta l'esercizio ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) di Mozilla sullo sviluppo dei personaggi degli utenti.
 
-## Помогнете на хората да намерят и следват вашия проект
+## Aiuta le persone a trovare e seguire il tuo progetto
 
 <aside markdown="1" class="pquote">
   Idealmente, hai bisogno di un URL "home" che puoi promuovere e indirizzare le persone al tuo progetto. Non devi preoccuparti di un modello fantasioso o addirittura di un nome di dominio, ma il tuo progetto ha bisogno di un punto focale.

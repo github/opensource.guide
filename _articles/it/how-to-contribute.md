@@ -97,7 +97,7 @@ Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo 
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Seriamente, la \[documentazione\] è estremamente importante. La documentazione finora è stata eccezionale ed è una caratteristica fondamentale di Babel. Ci sono sezioni che potrebbero sicuramente funzionare, e anche aggiungere un paragrafo qua o là è molto apprezzato.
   <p markdown="1" class="pquote-credit">
-— @kittens, ["Покана за сътрудници"](https://github.com/babel/babel/issues/1347)
+— @kittens, ["Invito per contribuire"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 

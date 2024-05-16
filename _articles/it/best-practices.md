@@ -113,9 +113,9 @@ Se non desideri accettare una donazione:
 * **Grazie** per il loro contributo.
 * **Spiegare perché non soddisfa** l'ambito del progetto e offrire chiari suggerimenti per il miglioramento, se possibile. Lo so, gentile ma fermo.
 * **Condividi informazioni rilevanti** se ne hai. Se noti ripetute richieste di cose che non vuoi accettare, aggiungile alla tua documentazione per evitare di spiegare sempre la stessa cosa.
-* **Затворете заявката**
+* **Chiudi la richiesta**
 
-Non dovresti avere più di 1-2 frasi a cui rispondere. Ad esempio, quando un utente [celery](https://github.com/celery/celery/) segnalato un errore relativo a Windows, @berkerpeksag [той отговори с](https://github.com/celery/celery/issues/3383):
+Non dovresti avere più di 1-2 frasi a cui rispondere. Ad esempio, quando un utente [celery](https://github.com/celery/celery/) segnalato un errore relativo a Windows, @berkerpeksag [lui a risposto con](https://github.com/celery/celery/issues/3383):
 
 [celery screenshot](/assets/images/best-practices/celery.png)
 
@@ -166,7 +166,7 @@ Se stai cercando altri a cui unirsi, inizia chiedendo in giro.
 
 Quando vedi nuovi contributori che contribuiscono ripetutamente, dovresti riconoscere il loro lavoro offrendo loro maggiori responsabilità. Documenta come gli altri possono ottenere ruoli di leadership, se lo desiderano.
 
-Incoraggiare gli altri a [condividere la proprietà del progetto](../building-community/#споделете-собствеността-върху-вашия-проект) può ridurre significativamente il carico di lavoro, come ha trovato @lmccart nel suo progetto, [p5.js](https://github.com/processing/p5.js).
+Incoraggiare gli altri a [condividere la proprietà del progetto](../building-community/#condividi-la-proprietà-del-tuo-progetto) può ridurre significativamente il carico di lavoro, come ha trovato @lmccart nel suo progetto, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
