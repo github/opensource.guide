@@ -101,7 +101,7 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     हमने Node.js के लिए CLA को हटा दिया है। ऐसा करने से Node.js योगदानकर्ताओं के लिए प्रवेश की बाधा कम हो जाती है जिससे योगदानकर्ता आधार का विस्तार होता है।
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

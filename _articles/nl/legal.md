@@ -104,7 +104,7 @@ Door ook 'papierwerk' toe te voegen waarvan sommigen denken dat het onnodig, moe
     _We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base._
 
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Node.js-bijdragen verbreden"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Node.js-bijdragen verbreden"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 Enkele situaties waarin u wellicht een aanvullende bijdrageovereenkomst voor uw project wilt overwegen, zijn onder meer:

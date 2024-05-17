@@ -99,7 +99,7 @@ Além disso, adicionando "papelada" que alguns acreditam ser desnecessária, dif
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Nós eliminamos o CLA do Node.js. Isso reduziu a barreira de entrada para contribuidores Node.js, consequentemente expandindo a base de contribuidores.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

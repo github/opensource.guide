@@ -100,7 +100,7 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Премахнахме CLA за Node.js. Това намалява бариерата за навлизане на сътрудниците на Node.js, като по този начин разширява базата на сътрудниците.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Разширяване на Node.js приноси"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Разширяване на Node.js приноси"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

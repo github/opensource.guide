@@ -98,7 +98,7 @@ Ayrıca, bazılarının gereksiz olduğuna, anlaşılmasının zor veya haksız 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   Node.js için CLA'yı kaldırdık. Bunu yapmak, Node.js katılımcısı için giriş engelini azalttı ve böylece katılımcı tabanını genişletti.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
