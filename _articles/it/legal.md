@@ -100,7 +100,7 @@ Inoltre, aggiungendo "documentazione" che alcuni ritengono non necessaria, diffi
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Abbiamo rimosso il CLA per Node.js. Ciò riduce la barriera all’ingresso per i contributori di Node.js, espandendo così la base dei contributori.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Estensione dei contributi Node.js"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Estensione dei contributi Node.js"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
