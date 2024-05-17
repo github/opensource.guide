@@ -16,7 +16,7 @@ Quindi stai pensando di iniziare con l'open source? Congratulazioni! Il mondo ap
 
 ### Cosa significa "open source"?
 
-Quando un progetto è open source, significa che **chiunque è libero di utilizzare, studiare, modificare e distribuire il tuo progetto per qualsiasi scopo.** Queste autorizzazioni si applicano tramite la [licenza open source](https://opensource.org/licenze).
+Quando un progetto è open source, significa che **chiunque è libero di utilizzare, studiare, modificare e distribuire il tuo progetto per qualsiasi scopo.** Queste autorizzazioni si applicano tramite la [licenza open source](https://opensource.org/licenses).
 
 L’open source è potente perché abbassa le barriere all’adozione e alla collaborazione, consentendo alle persone di distribuire e migliorare rapidamente i progetti. Anche perché offre agli utenti la possibilità di controllare i propri computer, rispetto al closed source. Ad esempio, un'azienda che utilizza software open source ha la possibilità di assumere qualcuno per apportare miglioramenti personalizzati al software invece di affidarsi esclusivamente alle soluzioni di prodotto di un fornitore closed source.
 
