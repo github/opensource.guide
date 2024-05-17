@@ -98,7 +98,7 @@ Amikor ez olyan "papírmunkát" okoz, amit egyesek szükségtelennek, nehezen é
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Megszüntettük a CLA-kat a Node.js projektben. Ezzel csökkenthető a közreműködői belépés előtt álló akadályok száma, ezáltal növelve a projektben résztvevők bázisát.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

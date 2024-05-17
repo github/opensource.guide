@@ -98,7 +98,7 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Εξαλείψαμε το CLA για το Node.js. Με αυτόν τον τρόπο μειώνουμε το εμπόδιο εισόδου για τους συνεισφέροντες του Node.js, διευρύνοντας έτσι τη βάση των συνεισφερόντων.
   <p markdown="1" class="pquote-credit">
-- @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+- @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

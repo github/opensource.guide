@@ -98,7 +98,7 @@ Juga, dengan menambahkan "kertas kerja" yang diyakini oleh beberapa orang tidak 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
    Kami telah menghilangkan CLA untuk Node.js. Melakukan ini mengurangkan halangan kemasukan penyumbang Node.js sehingga memperluas pangkalan penyumbang.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
