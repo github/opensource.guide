@@ -116,7 +116,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * **Използвайте инструменти:** Разгледайте инструменти като [GitHub Copilot](https://github.com/features/copilot/) и [GitHub Actions](https://github.com/features/actions), за да автоматизирате светски задачи и освободете времето си за по-значими приноси.
 
 <aside markdown="1" class="pquote">
- Use [Copilot](https://github.com/features/copilot/) за скучните неща - правете забавните неща
+ Използвайте [Copilot](https://github.com/features/copilot/) за скучните неща - правете забавните неща
   <p markdown="1" class="pquote-credit">
 — поддържащ отворен код
   </p>
@@ -158,7 +158,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
     Не е тайна, че поддръжката с отворен код има своите тъмни страни и една от тях е понякога да се налага да взаимодействате с доста неблагодарни, имащи право или направо токсични хора. С нарастването на популярността на даден проект нараства и честотата на този вид взаимодействие, което увеличава тежестта, поета от поддържащите, и вероятно се превръща в значителен рисков фактор за прегаряне на поддържащия.  
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/foosel">@foosel</a>, поддържащ Octoprint на [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+— <a href="https://github.com/foosel">@foosel</a>, поддържащ Octoprint на [Как да се справим с токсичните хора](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
 </aside>
 

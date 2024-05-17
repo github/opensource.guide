@@ -146,11 +146,11 @@ Puoi utilizzare il file README per rispondere ad altre domande, ad esempio come 
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Una migliore documentazione significa più utenti, meno richieste di supporto e più contributori. (...) Ricorda che i tuoi lettori non sei tu. Ci sono persone che possono venire a un progetto che hanno background completamente diversi.
   <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Пишете така, че думите ви да се четат (видео)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @tracymakes, ["Scrivi in ​​modo che le tue parole vengano lette (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
-Понякога хората избягват да пишат README, защото смятат, че проектът е незавършен или не искат приноси. Всичко това са много добри причини да напиша такъв.
+A volte le persone evitano di scrivere un README perché pensano che il progetto sia incompiuto o non vogliono contributi. Questi sono tutti ottimi motivi per scriverne uno.
 
 Per ulteriore ispirazione, prova a utilizzare [la guida "Crea un README" di @dguo](https://www.makeareadme.com/) o [README nel modello](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) di @PurpleBooth per scrivere un completo README.
 
@@ -191,7 +191,7 @@ Collega il tuo file CONTRIBUTE dal tuo README in modo che più persone possano v
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   Tutti abbiamo avuto esperienze in cui ci siamo imbattuti in quello che probabilmente era un abuso, sia come manutentore che cercava di spiegare perché qualcosa dovrebbe essere in un certo modo, sia come utente... che poneva una semplice domanda. (...) Il Codice di condotta diventa un documento con riferimenti e collegamenti facili che dimostra che il vostro team prende molto sul serio il discorso costruttivo.
   <p markdown="1" class="pquote-credit">
-— @mlynch, ["Rendere l’open source un luogo più felice"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
+— @mlynch, ["Rendere l'open source un luogo più felice"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
 </aside>
 
@@ -216,7 +216,7 @@ Scegli un nome che sia facile da ricordare e che, idealmente, dia un'idea di ci�
 * [Sentry](https://github.com/getsentry/sentry) monitora le applicazioni di segnalazione degli arresti anomali
 * [Thin](https://github.com/macournoyer/thin) è un server web Ruby facile e veloce
 
-Se stai sviluppando un progetto esistente, usare il loro nome come prefisso può aiutarti a chiarire cosa fa il tuo progetto (ad esempio [node-fetch](https://github.com/bitinn/node-fetch) porta `window .fetch ` a Node.js).
+Se stai sviluppando un progetto esistente, usare il loro nome come prefisso può aiutarti a chiarire cosa fa il tuo progetto (ad esempio [node-fetch](https://github.com/bitinn/node-fetch) porta `window.fetch` a Node.js).
 
 Pensa prima alla chiarezza. I giochi di parole sono divertenti, ma ricorda che alcune battute potrebbero non essere applicabili ad altre culture o persone con esperienze diverse dalle tue. Alcuni dei tuoi potenziali utenti potrebbero essere dipendenti dell'azienda: non vuoi farli sentire a disagio quando devono spiegare il tuo progetto al lavoro!
 
@@ -305,7 +305,7 @@ Pronto per aprire il tuo progetto? Ecco una lista di controllo per aiutarti. Sel
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Няма чувствителни материали в хронологията на редакциите, проблеми или заявки за изтегляне (например пароли или друга непублична информация)
+    Nessun materiale sensibile nella cronologia delle modifiche, nei problemi o nelle richieste pull (ad esempio password o altre informazioni non pubbliche)
   </label>
 </div>
 
@@ -316,7 +316,7 @@ Se sei un privato:
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Говорили сте с правния отдел и/или разбирате политиките за IP и отворен код на вашата компания (ако сте служител някъде)
+  Hai parlato con l'ufficio legale e/o hai compreso le politiche open source e IP della tua azienda (se sei un dipendente da qualche parte)
   </label>
 </div>
 
