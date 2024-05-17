@@ -18,7 +18,7 @@ Non esiste una regola che dice che devi pubblicizzare un progetto open source al
 
 Prima di iniziare il lavoro vero e proprio di promozione del tuo progetto, devi essere in grado di spiegare cosa fa e perché è importante.
 
-Cosa rende il tuo progetto diverso o interessante? Perché l'hai creato? Rispondere solo a queste domande ti aiuterà a comunicare l’importanza del tuo progetto.
+Cosa rende il tuo progetto diverso o interessante? Perché l'hai creato? Rispondere solo a queste domande ti aiuterà a comunicare l'importanza del tuo progetto.
 
 Ricorda che le persone vengono coinvolte come utenti e alla fine diventano contributori perché il tuo progetto risolve loro un problema. Mentre pensi al messaggio e al valore del tuo progetto, prova a vederlo attraverso la lente di ciò che _utenti e contributori_ potrebbero desiderare.
 
@@ -81,7 +81,7 @@ Vedi se riesci a trovare modi per condividere il tuo progetto in modi appropriat
 * **Trova persone che affrontano il problema risolto dal tuo progetto.** Cerca nei forum correlati le persone che rientrano nel pubblico target del tuo progetto. Rispondi alla loro domanda e trova un modo discreto, se appropriato, per presentare il tuo progetto come soluzione.
 * **Chiedi feedback.** Presenta te stesso e il tuo lavoro a un pubblico che lo troverà pertinente e interessante. Sii specifico su chi ritieni trarrà beneficio dal tuo progetto. Prova a completare la frase: _"Penso che il mio progetto aiuterà davvero X persone che stanno cercando di fare Y_". Ascolta e rispondi al feedback degli altri invece di limitarti a promuovere il tuo lavoro.
 
-In generale, concentrati sull’aiutare gli altri prima di chiedere qualcosa in cambio. Dato che chiunque può facilmente pubblicizzare un progetto online, ci sarà molto fermento. Per distinguerti dalla massa, dai alle persone un contesto su chi sei, non solo cosa vuoi.
+In generale, concentrati sull'aiutare gli altri prima di chiedere qualcosa in cambio. Dato che chiunque può facilmente pubblicizzare un progetto online, ci sarà molto fermento. Per distinguerti dalla massa, dai alle persone un contesto su chi sei, non solo cosa vuoi.
 
 Se nessuno presta attenzione o risponde al tuo contatto iniziale, non scoraggiarti! La maggior parte dei lanci di progetti sono un processo iterativo che può richiedere mesi o anni. Se non ricevi risposta la prima volta, prova una tattica diversa o cerca prima modi per aggiungere valore al lavoro degli altri. Promuovere e lanciare il tuo progetto richiede tempo e dedizione.
 

@@ -18,7 +18,7 @@ Quindi stai pensando di iniziare con l'open source? Congratulazioni! Il mondo ap
 
 Quando un progetto è open source, significa che **chiunque è libero di utilizzare, studiare, modificare e distribuire il tuo progetto per qualsiasi scopo.** Queste autorizzazioni si applicano tramite la [licenza open source](https://opensource.org/licenses).
 
-L’open source è potente perché abbassa le barriere all’adozione e alla collaborazione, consentendo alle persone di distribuire e migliorare rapidamente i progetti. Anche perché offre agli utenti la possibilità di controllare i propri computer, rispetto al closed source. Ad esempio, un'azienda che utilizza software open source ha la possibilità di assumere qualcuno per apportare miglioramenti personalizzati al software invece di affidarsi esclusivamente alle soluzioni di prodotto di un fornitore closed source.
+L'open source è potente perché abbassa le barriere all'adozione e alla collaborazione, consentendo alle persone di distribuire e migliorare rapidamente i progetti. Anche perché offre agli utenti la possibilità di controllare i propri computer, rispetto al closed source. Ad esempio, un'azienda che utilizza software open source ha la possibilità di assumere qualcuno per apportare miglioramenti personalizzati al software invece di affidarsi esclusivamente alle soluzioni di prodotto di un fornitore closed source.
 
 _Software Libero_ si riferisce allo stesso insieme di progetti di _Open Source_. A volte vedrai anche [questi termini](https://en.wikipedia.org/wiki/Free_and_open-source_software) combinati come "software libero e open source" (FOSS) o "software libero e open source" (FLOSS). _Free_ e _libre_ si riferiscono alla libertà, [non al prezzo](#open-source-significa-gratuito).
 
@@ -64,7 +64,7 @@ Se non sei ancora convinto, prenditi un momento per pensare a quali potrebbero e
 
 Gli obiettivi possono aiutarti a capire su cosa lavorare, a cosa dire di no e dove hai bisogno dell'aiuto degli altri. Inizia chiedendoti _perché sto utilizzando questo progetto open source?_
 
-Non esiste un’unica risposta corretta a questa domanda. Puoi avere più obiettivi per un progetto o progetti diversi con obiettivi diversi.
+Non esiste un'unica risposta corretta a questa domanda. Puoi avere più obiettivi per un progetto o progetti diversi con obiettivi diversi.
 
 Se il tuo unico obiettivo è mettere in mostra il tuo lavoro, potresti non volere nemmeno un contributo e addirittura dirlo nel tuo README. D'altra parte, se desideri contributori, investirai tempo in una documentazione chiara e farai sentire i nuovi arrivati ​​i benvenuti.
 
@@ -135,8 +135,8 @@ I README fanno molto di più che spiegare come utilizzare il tuo progetto. Spieg
 
 Nel README, prova a rispondere alle seguenti domande:
 
-*Cosa fa questo progetto?
-*Perché è utile questo progetto?
+* Cosa fa questo progetto?
+* Perché è utile questo progetto?
 * Come iniziare?
 * Dove posso ottenere ulteriore aiuto se ne ho bisogno?
 
@@ -166,7 +166,7 @@ Un file CONTRIBUTO indica al tuo pubblico come partecipare al tuo progetto. Ad e
 
 Oltre ai dettagli tecnici, il file CONTRIBUTI è un'opportunità per comunicare le vostre aspettative per i contributi, come ad esempio:
 
-*I tipi di contributi che stai cercando
+* I tipi di contributi che stai cercando
 * La tua tabella di marcia o visione per il progetto
 * Come i contributori dovrebbero (o non dovrebbero) contattarti
 

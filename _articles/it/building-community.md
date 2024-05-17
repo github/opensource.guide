@@ -71,7 +71,7 @@ Se noti che molti utenti hanno lo stesso problema, documenta le risposte nel REA
 
 Per le riunioni, valuta la possibilità di pubblicare i tuoi appunti o i tuoi appunti in un thread correlato. Il feedback che otterrai da questo livello di trasparenza potrebbe sorprenderti.
 
-Documentare tutto vale anche per il lavoro che svolgi. Se stai lavorando a un aggiornamento importante del tuo progetto, inseriscilo in una richiesta pull e contrassegnalo come work in progress (WIP). In questo modo, altre persone possono sentirsi coinvolte fin dall’inizio nel processo.
+Documentare tutto vale anche per il lavoro che svolgi. Se stai lavorando a un aggiornamento importante del tuo progetto, inseriscilo in una richiesta pull e contrassegnalo come work in progress (WIP). In questo modo, altre persone possono sentirsi coinvolte fin dall'inizio nel processo.
 
 ### Sii reattivo
 
@@ -157,7 +157,7 @@ Le persone sono entusiaste di contribuire ai progetti quando sentono un senso di
 
 Vedi se riesci a trovare modi per condividere il più possibile la proprietà con la tua comunità. Ecco alcune idee:
 
-* **Evita di correggere bug facili (non critici).** Usali invece come opportunità per reclutare nuovi contributori o fare da mentore a qualcuno che vorrebbe contribuire. All’inizio può sembrare innaturale, ma il tuo investimento verrà ripagato nel tempo. Ad esempio, @michaeljoseph ha chiesto a un collaboratore di inviare una richiesta pull per il problema [Cookiecutter](https://github.com/audreyr/cookiecutter) di seguito invece di risolverlo da solo.
+* **Evita di correggere bug facili (non critici).** Usali invece come opportunità per reclutare nuovi contributori o fare da mentore a qualcuno che vorrebbe contribuire. All'inizio può sembrare innaturale, ma il tuo investimento verrà ripagato nel tempo. Ad esempio, @michaeljoseph ha chiesto a un collaboratore di inviare una richiesta pull per il problema [Cookiecutter](https://github.com/audreyr/cookiecutter) di seguito invece di risolverlo da solo.
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
@@ -187,7 +187,7 @@ Nelle prime fasi del tuo progetto, prendere decisioni importanti è facile. Quan
 
 Man mano che il tuo progetto diventa più popolare, sempre più persone saranno interessate alle decisioni che prendi. Anche se non hai una grande comunità di contributori, se il tuo progetto ha molti utenti, troverai persone che valutano soluzioni o sollevano i propri problemi.
 
-Nella maggior parte dei casi, se hai coltivato una comunità amichevole e rispettosa e hai documentato apertamente i tuoi processi, la tua comunità dovrebbe essere in grado di trovare una soluzione. Ma a volte ti imbatti in un problema un po’ più difficile da risolvere.
+Nella maggior parte dei casi, se hai coltivato una comunità amichevole e rispettosa e hai documentato apertamente i tuoi processi, la tua comunità dovrebbe essere in grado di trovare una soluzione. Ma a volte ti imbatti in un problema un po' più difficile da risolvere.
 
 ### Stabilisci lo standard di civiltà
 
@@ -219,7 +219,7 @@ Il voto può diventare politico quando i membri della comunità si sentono spint
 
 A volte è richiesto un voto di parità. Tuttavia, per quanto puoi, enfatizza ["la ricerca del consenso"](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making), piuttosto che consenso.
 
-In un processo di ricerca del consenso, i membri della comunità discutono le preoccupazioni chiave finché non sentono di essere stati adeguatamente ascoltati. Quando rimangono solo preoccupazioni secondarie, la comunità va avanti. La ricerca del consenso riconosce che una comunità potrebbe non essere in grado di arrivare a una risposta perfetta. Invece, dà priorità all’ascolto e alla discussione.
+In un processo di ricerca del consenso, i membri della comunità discutono le preoccupazioni chiave finché non sentono di essere stati adeguatamente ascoltati. Quando rimangono solo preoccupazioni secondarie, la comunità va avanti. La ricerca del consenso riconosce che una comunità potrebbe non essere in grado di arrivare a una risposta perfetta. Invece, dà priorità all'ascolto e alla discussione.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
@@ -269,7 +269,7 @@ Con un buon comportamento e una comunicazione chiara, le situazioni più diffici
 
 Un livellatore può essere il principale sostenitore del progetto, oppure può essere un piccolo gruppo di persone che prendono una decisione in base a un voto. Idealmente, è necessario definire un livellatore e la procedura associata in un file GOVERNANCE prima di doverlo utilizzare.
 
-La decisione sulla parità dovrebbe essere l'ultima risorsa. Le questioni di divisione rappresentano un’opportunità per la tua comunità di crescere e imparare. Cogli queste opportunità e utilizza un processo collaborativo per procedere verso la risoluzione quando possibile.
+La decisione sulla parità dovrebbe essere l'ultima risorsa. Le questioni di divisione rappresentano un'opportunità per la tua comunità di crescere e imparare. Cogli queste opportunità e utilizza un processo collaborativo per procedere verso la risoluzione quando possibile.
 
 ## La community è ❤️ open source
 

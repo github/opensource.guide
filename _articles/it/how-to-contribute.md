@@ -50,7 +50,7 @@ L'open source offre opportunità per esercitare capacità di leadership e gestio
 
 ### Essere in grado di apportare cambiamenti, anche piccoli, dà potere
 
-Non è necessario essere un collaboratore permanente per apprezzare la partecipazione all'open source. Hai mai visto un errore di battitura su un sito web e vorresti che qualcuno lo correggesse? In un progetto open source, puoi fare proprio questo. L’open source aiuta le persone a sentirsi indipendenti riguardo alla propria vita e al modo in cui sperimentano il mondo, e questo di per sé è soddisfacente.
+Non è necessario essere un collaboratore permanente per apprezzare la partecipazione all'open source. Hai mai visto un errore di battitura su un sito web e vorresti che qualcuno lo correggesse? In un progetto open source, puoi fare proprio questo. L'open source aiuta le persone a sentirsi indipendenti riguardo alla propria vita e al modo in cui sperimentano il mondo, e questo di per sé è soddisfacente.
 
 ## Cosa significa contribuire
 
@@ -70,7 +70,7 @@ Un malinteso comune riguardo al contributo all'open source è che si debba contr
   </p>
 </aside>
 
-Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo per essere coinvolto in un progetto e incontrare altri membri della comunità. Costruire queste relazioni ti darà l’opportunità di lavorare su altre parti del progetto.
+Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo per essere coinvolto in un progetto e incontrare altri membri della comunità. Costruire queste relazioni ti darà l'opportunità di lavorare su altre parti del progetto.
 
 ### Ti piace pianificare eventi?
 
@@ -433,7 +433,7 @@ Prima di aprire un problema o una richiesta pull o porre una domanda in chat, ti
 >
 > 😢 _"Perché non supporti il ​​mio caso d'uso? Questo è inaccettabile!"_
 
-**Soprattutto, mantienilo elegante.** L'open source è composto da contributori provenienti da tutto il mondo. Si perde il contesto tra lingue, culture, aree geografiche e fusi orari. Inoltre, la comunicazione scritta rende più difficile trasmettere il tono o l’umore. Assumi buone intenzioni in queste conversazioni. Va bene rifiutare educatamente un'idea, chiedere più contesto o chiarire ulteriormente la tua posizione. Prova solo a lasciare Internet in un posto migliore di quando l'hai trovato.
+**Soprattutto, mantienilo elegante.** L'open source è composto da contributori provenienti da tutto il mondo. Si perde il contesto tra lingue, culture, aree geografiche e fusi orari. Inoltre, la comunicazione scritta rende più difficile trasmettere il tono o l'umore. Assumi buone intenzioni in queste conversazioni. Va bene rifiutare educatamente un'idea, chiedere più contesto o chiarire ulteriormente la tua posizione. Prova solo a lasciare Internet in un posto migliore di quando l'hai trovato.
 
 ### Raccogli il contesto
 

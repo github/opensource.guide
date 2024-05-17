@@ -119,7 +119,7 @@ Non dovresti avere più di 1-2 frasi a cui rispondere. Ad esempio, quando un ute
 
 [celery screenshot](/assets/images/best-practices/celery.png)
 
-Se l’idea di dire di no ti terrorizza, non sentirti sola. Come @jessfraz [dice](https://blog.jessfraz.com/post/the-art-of-closing/):
+Se l'idea di dire di no ti terrorizza, non sentirti sola. Come @jessfraz [dice](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > Ho parlato con manutentori del codice di molti diversi progetti open source, Mesos, Kubernetes, Chromium, e sono tutti d'accordo sul fatto che una delle parti più difficili dell'essere un manutentore del codice è: dire "No" alle patch che non vuoi utilizzare
 
@@ -242,7 +242,7 @@ Se vuoi diventare un po' più avanzato, le guide di stile possono standardizzare
 
 Tuttavia, se i tuoi standard sono troppo complessi, possono aumentare gli ostacoli alla contribuzione. Assicurati di aggiungere solo regole per rendere la vita più semplice a tutti.
 
-Se non sei sicuro di quali strumenti utilizzare, controlla cosa stanno facendo altri progetti popolari, in particolare quelli nel tuo ecosistema. Ad esempio, come si presenta il processo di contribuzione per gli altri moduli Node? Anche l’utilizzo di strumenti e approcci simili faciliterà. Rendi il tuo processo più familiare ai tuoi associati target.
+Se non sei sicuro di quali strumenti utilizzare, controlla cosa stanno facendo altri progetti popolari, in particolare quelli nel tuo ecosistema. Ad esempio, come si presenta il processo di contribuzione per gli altri moduli Node? Anche l'utilizzo di strumenti e approcci simili faciliterà. Rendi il tuo processo più familiare ai tuoi associati target.
 
 ## È una bella pausa
 

@@ -62,7 +62,7 @@ Se stai cercando un sostegno finanziario, ci sono due modi da considerare. Puoi 
 
 ## Finanziare il proprio tempo
 
-Oggi molte persone vengono pagate per lavorare part-time o full-time nell’open source. Il modo più comune per essere pagato per il tuo tempo è parlare con il tuo datore di lavoro.
+Oggi molte persone vengono pagate per lavorare part-time o full-time nell'open source. Il modo più comune per essere pagato per il tuo tempo è parlare con il tuo datore di lavoro.
 
 È più semplice sostenere il lavoro open source se il tuo datore di lavoro utilizza effettivamente il progetto, ma sii creativo con la tua presentazione. Forse il tuo datore di lavoro non utilizza il progetto, ma usa Python e il mantenimento di un progetto Python popolare aiuta ad attrarre nuovi sviluppatori Python. Forse fa sembrare il tuo datore di lavoro più amichevole agli sviluppatori in generale.
 
@@ -99,7 +99,7 @@ A seconda delle tue circostanze personali, puoi provare a raccogliere fondi in m
 
 Infine, a volte i progetti open source offrono premi per problemi che potresti considerare di aiutare.
 
-* @ConnorChristie è riuscito a essere pagato per [aiuto](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F% 2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol sta lavorando sulla propria libreria JavaScript [tramite ricompensa gitcoin](https://gitcoin.co/).
+* @ConnorChristie è riuscito a essere pagato per [aiuto](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol stanno lavorando sulla propria libreria JavaScript [tramite ricompensa gitcoin](https://gitcoin.co/).
 * @mamiM ha realizzato traduzioni giapponesi per @MetaMask dopo [il rilascio è stato finanziato da Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Trovare finanziamenti per il tuo progetto
@@ -108,7 +108,7 @@ Oltre agli accordi per i singoli contributori, i progetti a volte raccolgono fon
 
 I finanziamenti organizzativi possono essere utilizzati per pagare i contributori attuali, coprire i costi di gestione del progetto (come le tariffe di hosting) o investire in nuove funzionalità o idee.
 
-Con la crescente popolarità dell’open source, trovare finanziamenti per i progetti è ancora sperimentale, ma esistono alcune opzioni comuni.
+Con la crescente popolarità dell'open source, trovare finanziamenti per i progetti è ancora sperimentale, ma esistono alcune opzioni comuni.
 
 ### Raccogli fondi per il tuo lavoro attraverso il crowdfunding o campagne di sponsorizzazione
 
@@ -163,7 +163,7 @@ Cosa otterrete esattamente con il finanziamento proposto? Concentrarsi sulle tap
 
 ### Come riceverai i fondi
 
-Il finanziatore ha dei requisiti di rimborso? Ad esempio, potrebbe essere necessario essere un'organizzazione senza scopo di lucro o avere uno sponsor fiscale senza scopo di lucro. O forse i fondi dovrebbero essere assegnati a un singolo appaltatore piuttosto che a un’organizzazione. Questi requisiti variano tra i finanziatori, quindi assicurati di fare le tue ricerche in anticipo.
+Il finanziatore ha dei requisiti di rimborso? Ad esempio, potrebbe essere necessario essere un'organizzazione senza scopo di lucro o avere uno sponsor fiscale senza scopo di lucro. O forse i fondi dovrebbero essere assegnati a un singolo appaltatore piuttosto che a un'organizzazione. Questi requisiti variano tra i finanziatori, quindi assicurati di fare le tue ricerche in anticipo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">

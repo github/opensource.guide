@@ -67,7 +67,7 @@ Se il tuo progetto ha una comunità di contributori molto attiva, puoi formare u
   </p>
 </aside>
 
-I team dirigenti potrebbero voler creare un canale designato (come su IRC) o incontrarsi regolarmente per discutere del progetto (come su Gitter o Google Hangout). Puoi anche rendere pubbliche queste riunioni in modo che altre persone possano ascoltarle. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), ad esempio, [prende ore di lavoro ogni settimana](https://github.com/cucumber/cucumber-ruby/blob/HEAD/ CONTRIBUIRE .md#talking-with-other-devs).
+I team dirigenti potrebbero voler creare un canale designato (come su IRC) o incontrarsi regolarmente per discutere del progetto (come su Gitter o Google Hangout). Puoi anche rendere pubbliche queste riunioni in modo che altre persone possano ascoltarle. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), ad esempio, [prende ore di lavoro ogni settimana](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUIRE.md#talking-with-other-devs).
 
 Una volta stabiliti i ruoli di leadership, assicurati di documentare come le persone possono raggiungerli! Stabilisci un processo chiaro su come qualcuno può diventare un sostenitore o unirsi a un sottocomitato nel tuo progetto e scrivilo nel tuo GOVERNANCE.md.
 
@@ -129,7 +129,7 @@ I progetti open source di successo vengono utilizzati da molte persone e aziende
 
 Man mano che il progetto diventa più diffuso, le persone con esperienza in esso diventano più richieste: potresti essere uno di loro! - e talvolta verranno pagati per il lavoro svolto sul progetto.
 
-È importante considerare l'attività commerciale come una cosa normale e semplicemente come un'altra fonte di energia per lo sviluppo. Naturalmente, gli sviluppatori pagati non dovrebbero ricevere un trattamento speciale rispetto a quelli non pagati; ogni contributo dovrebbe essere giudicato in base ai suoi meriti tecnici. Tuttavia, le persone dovrebbero sentirsi a proprio agio nell’impegnarsi in attività commerciali e sentirsi a proprio agio nel citare i propri casi d’uso quando si discute a favore di un particolare miglioramento o funzionalità.
+È importante considerare l'attività commerciale come una cosa normale e semplicemente come un'altra fonte di energia per lo sviluppo. Naturalmente, gli sviluppatori pagati non dovrebbero ricevere un trattamento speciale rispetto a quelli non pagati; ogni contributo dovrebbe essere giudicato in base ai suoi meriti tecnici. Tuttavia, le persone dovrebbero sentirsi a proprio agio nell'impegnarsi in attività commerciali e sentirsi a proprio agio nel citare i propri casi d'uso quando si discute a favore di un particolare miglioramento o funzionalità.
 
 "Commerciale" è pienamente compatibile con "open source". "Commerciale" significa semplicemente che da qualche parte sono coinvolti dei soldi, che il software viene utilizzato commercialmente, il che è sempre più probabile man mano che un progetto ottiene l'accettazione. (Quando il software open source viene utilizzato come parte di un prodotto non open source, il prodotto complessivo è ancora software "proprietario", sebbene, come l'open source, possa essere utilizzato per scopi commerciali e non commerciali.)
 

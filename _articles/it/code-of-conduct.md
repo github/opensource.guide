@@ -12,7 +12,7 @@ related:
 
 ## Perché ho bisogno di un codice di condotta?
 
-Un codice di condotta è un documento che definisce le aspettative comportamentali dei partecipanti al tuo progetto. L’adozione e l’applicazione di un codice di condotta può contribuire a creare un’atmosfera sociale positiva per la tua comunità.
+Un codice di condotta è un documento che definisce le aspettative comportamentali dei partecipanti al tuo progetto. L'adozione e l'applicazione di un codice di condotta può contribuire a creare un'atmosfera sociale positiva per la tua comunità.
 
 I codici di condotta aiutano a proteggere non solo i tuoi partecipanti ma anche te stesso. Se stai portando avanti un progetto, potresti scoprire che l'atteggiamento improduttivo degli altri partecipanti può farti sentire svuotato o insoddisfatto del tuo lavoro nel tempo.
 
@@ -36,6 +36,7 @@ Usa la tecnica precedente dove puoi. [Accordo dei contributori](https://contribu
 Inserisci un file CODE_OF_CONDUCT nella directory principale del tuo progetto e rendilo visibile alla tua comunità collegandolo dal tuo file CONTRIBUTING o README.
 
 ## Decidi come applicherai il tuo codice di condotta
+
 <aside markdown="1" class="pquote">
   Un codice di condotta non applicato (o inapplicabile) è peggio di nessun codice di condotta: invia il messaggio che i valori del codice di condotta non sono realmente importanti o rispettati nella tua comunità.
   <p markdown="1" class="pquote-credit">
@@ -90,13 +91,13 @@ Esistono diversi modi per rispondere a una violazione del codice di condotta:
 
 * **Contatta di persona la persona in questione** per spiegare in che modo il suo comportamento ha influenzato negativamente gli altri. Potresti voler utilizzare un canale di comunicazione privato se la situazione coinvolge informazioni personali sensibili. Se stai comunicando con qualcuno in privato, è una buona idea mettere in copia coloro che per primi hanno segnalato la situazione in modo che sappiano che hai preso provvedimenti. Chiedere il consenso all'informatore prima di inviarlo in CC.
 
-A volte non è possibile raggiungere alcuna soluzione. La persona in questione può diventare aggressiva o ostile quando confrontata o non cambiare il proprio comportamento. In questa situazione, potresti prendere in considerazione l’idea di intraprendere azioni più drastiche. Per esempio:
+A volte non è possibile raggiungere alcuna soluzione. La persona in questione può diventare aggressiva o ostile quando confrontata o non cambiare il proprio comportamento. In questa situazione, potresti prendere in considerazione l'idea di intraprendere azioni più drastiche. Per esempio:
 
 * **Espulsione della persona in questione** dal progetto, imposta tramite un'interdizione temporanea dalla partecipazione a qualsiasi aspetto del progetto
 
 * **Permanente** banna la persona dal progetto
 
-L’esclusione dei membri non dovrebbe essere presa alla leggera e rappresenta una divergenza di opinioni permanente e inconciliabile. Dovresti adottare queste misure solo quando è chiaro che non è possibile raggiungere una soluzione.
+L'esclusione dei membri non dovrebbe essere presa alla leggera e rappresenta una divergenza di opinioni permanente e inconciliabile. Dovresti adottare queste misure solo quando è chiaro che non è possibile raggiungere una soluzione.
 
 ## Le tue responsabilità come manutentore
 

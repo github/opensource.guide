@@ -116,10 +116,10 @@ Prendi in considerazione [il monitoraggio del tempo impiegato da te (o da un alt
 
 Puoi anche misurare il tempo necessario per passare da una fase all'altra del processo di contribuzione, ad esempio:
 
-*Tempo medio in cui il problema rimane aperto
+* Tempo medio in cui il problema rimane aperto
 * Se i problemi vengono risolti dai PR
 * Se i problemi obsoleti sono chiusi
-*Tempo medio per unire una richiesta pull
+* Tempo medio per unire una richiesta pull
 
 ## Usa 📊 per conoscere le persone
 
