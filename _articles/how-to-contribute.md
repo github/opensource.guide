@@ -195,7 +195,7 @@ If you've never contributed to open source before, take some advice from U.S. Pr
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
   Ask not what your country can do for you - ask what you can do for your country.
   <p markdown="1" class="pquote-credit">
-— [_John f. Kennedy Library_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
+— [_John F. Kennedy Library_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
   </p>
 </aside>
 
@@ -242,7 +242,7 @@ Here's a handy checklist to evaluate whether a project is good for new contribut
 
 **Project actively accepts contributions**
 
-Look at the commit activity on the main branch. On GitHub, you can see this information in the Insights tab of a repository's homepage, such as[Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
+Look at the commit activity on the main branch. On GitHub, you can see this information in the Insights tab of a repository's homepage, such as [Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">

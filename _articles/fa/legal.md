@@ -98,7 +98,7 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     ما «توافق‌نامه مجوز مشارکت‌کننده» را برای «Node.js» حذف کردیم. انجام این کار موانع ورود مشارکت‌کنندگان به Node.js را کاهش می‌دهد و در نتیجه میزان مشارکت‌کنندگان را گسترش می‌دهد.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

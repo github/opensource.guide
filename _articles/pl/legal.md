@@ -102,13 +102,13 @@ Ponadto poprzez dodanie „dokumentacji”, którą niektórzy uważają za niep
     We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
    </i>
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Niektóre sytuacje, w których warto rozważyć zawarcie dodatkowej umowy wnoszącej wkład dla twojego projektu, obejmują:
 
-* Twoi prawnicy chcą, aby wszyscy współtwórcy wyraźnie zaakceptowali warunki udziału (_sign_, online lub offline), być może dlatego, że uważają, że sama licencja typu open source nie wystarczy (nawet jeśli jest!). Jeśli jest to jedyny problem, wystarczy umowa współtwórcy, która potwierdza licencję open source projektu. [Umowa licencyjna na indywidualnego dostawcę jQuery](https://contribute.jquery.org/CLA/) jest dobrym przykładem niewielkiej dodatkowej umowy na współautora.
+* Twoi prawnicy chcą, aby wszyscy współtwórcy wyraźnie zaakceptowali warunki udziału (_sign_, online lub offline), być może dlatego, że uważają, że sama licencja typu open source nie wystarczy (nawet jeśli jest!). Jeśli jest to jedyny problem, wystarczy umowa współtwórcy, która potwierdza licencję open source projektu. [Umowa licencyjna na indywidualnego dostawcę jQuery](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) jest dobrym przykładem niewielkiej dodatkowej umowy na współautora.
 * Ty lub twoi prawnicy chcielibyście, aby programiści oświadczyli, że każde dokonane przez nich zatwierdzenie jest dozwolone. Wymaganiem [Developer Certificate of Origin](https://developercertificate.org/) jest to, ile projektów to osiąga. Na przykład społeczność Node.js [używa](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) DCO [zamiast](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) wcześniejszego CLA. Prostą opcją zautomatyzowania wymuszania kontroli DCO w repozytorium jest [DCO Probot](https://github.com/probot/dco).
 * Twój projekt wykorzystuje licencję typu open source, która nie obejmuje wyraźnej granty patentowej (takiej jak MIT), i potrzebujesz grantu patentowego od wszystkich autorów, z których niektórzy mogą pracować dla firm z dużymi portfelami patentowymi, które mogłyby być wykorzystane do Ciebie lub inni uczestnicy projektu i użytkownicy. [Umowa licencyjna na indywidualnego dostawcę Apache](https://www.apache.org/licenses/icla.pdf) to powszechnie stosowana dodatkowa umowa na współautora, której udzielenie patentowe odzwierciedla kopię zawartą w licencji Apache 2.0.
 * Twój projekt jest objęty licencją copyleft, ale musisz także rozpowszechniać zastrzeżoną wersję projektu. Będziesz potrzebował każdego współtwórcy, aby przypisać Ci prawa autorskie lub udzielić (ale nie publicznie) zezwolenia na korzystanie z licencji. [Umowa współtwórcy MongoDB](https://www.mongodb.com/legal/contributor-agreement) jest przykładem tego rodzaju umowy.
