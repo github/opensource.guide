@@ -99,13 +99,13 @@ Além disso, adicionando "papelada" que alguns acreditam ser desnecessária, dif
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Nós eliminamos o CLA do Node.js. Isso reduziu a barreira de entrada para contribuidores Node.js, consequentemente expandindo a base de contribuidores.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Algumas situações em que você pode querer considerar um contrato de contribuição adicional para o seu projeto incluem:
 
-* Seus advogados querem que todos os colaboradores aceitem expressamente os termos de contribuição (_assinem_, online ou offline), talvez porque achem que a licença open source em si não é suficiente (mesmo que seja!). Se essa for a única preocupação, um acordo de contribuidores que afirme a licença open source do projeto deve ser suficiente. O [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) é um bom exemplo de um acordo de contribuição adicional leve. Para alguns projetos, um [Certificado de Origem do Desenvolvedor](https://github.com/probot/dco) pode ser uma alternativa.
+* Seus advogados querem que todos os colaboradores aceitem expressamente os termos de contribuição (_assinem_, online ou offline), talvez porque achem que a licença open source em si não é suficiente (mesmo que seja!). Se essa for a única preocupação, um acordo de contribuidores que afirme a licença open source do projeto deve ser suficiente. O [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) é um bom exemplo de um acordo de contribuição adicional leve. Para alguns projetos, um [Certificado de Origem do Desenvolvedor](https://github.com/probot/dco) pode ser uma alternativa.
 * Seu projeto usa uma licença open source que não inclui uma concessão de patente expressa (como MIT) e você precisa de uma concessão de patente de todos os contribuidores, alguns dos quais podem trabalhar para empresas com grandes portfólios de patentes que poderiam ser usados contra você ou os outros contribuidores e usuários do projeto. O [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) é um contrato de contribuição adicional comumente usado que tem uma concessão de patente espelhando a encontrada na Licença Apache 2.0.
 * Seu projeto está sob uma licença copyleft, mas você também precisa distribuir uma versão proprietária do projeto. Você precisará que todo colaborador assine, garantindo a você ou lhe outorgando direitos autorais (mas não ao público) uma licença permissiva. O [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) é um exemplo desse tipo de acordo.
 * Você acha que seu projeto talvez precise alterar as licenças ao longo de sua vida útil e deseja que os colaboradores concordem antecipadamente com essas alterações.

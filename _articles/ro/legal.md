@@ -112,13 +112,13 @@ De asemenea, prin adăugarea de „hârtii” pe care unii le cred nenecesare, g
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Unele situații în care ai putea dori să consideri un acord suplimentar de contributor pentru proiectul tău includ:
 
-* Avocații tăi vor ca toți contributorii să accepte în mod expres (_semneze_, online sau offline) termenii de contribuție, poate deoarece ei simt că licența open source în sine nu este destul (chiar dacă este!). Dacă aceasta este singura îngrijorare, un acord de contributor care afirmă licența de sursă deschisă a proiectului ar trebui să fie destul. [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) este un exemplu bun de un acord suplimentar ușor de contributor. Pentru unele proiecte, un [Developer Certificate of Origin](https://github.com/probot/dco) poate fi o alternativă.
+* Avocații tăi vor ca toți contributorii să accepte în mod expres (_semneze_, online sau offline) termenii de contribuție, poate deoarece ei simt că licența open source în sine nu este destul (chiar dacă este!). Dacă aceasta este singura îngrijorare, un acord de contributor care afirmă licența de sursă deschisă a proiectului ar trebui să fie destul. [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) este un exemplu bun de un acord suplimentar ușor de contributor. Pentru unele proiecte, un [Developer Certificate of Origin](https://github.com/probot/dco) poate fi o alternativă.
 * Proiectul tău folosește o licență de sursă deschisă care nu include o acordare expresă de brevet (cum ar fi MIT), și ai nevoie de o acordare de brevet de la toți contributorii, dintre care unii ar putea lucra pentru companii cu portofolii largi de brevete care ar putea să fie folosite să te țintească pe tine sau pe ceilalți contributori și utilizatori ai proiectului. [Individual Contributor License Agreement al Apache](https://www.apache.org/licenses/icla.pdf) este un acord suplimentar de contributor folosit în mod obișnuit care are o acordare de brevet oglindind-o pe cea găsită în Apache License 2.0.
 * Proiectul tău se află sub o licență copyleft, dar tu trebuie de asemenea să distribui o versiune de proprietate a proiectului. Îți va trebui ca fiecare contributor să-ți atribuie drepturile de autor ție sau să-ți acorde ție (dar nu publicului) o licență permisivă. [Contributor Agreement al MongoDB](https://www.mongodb.com/legal/contributor-agreement) este un exemplu de acest tip de acord.
 * Te gândești că proiectul tău ar putea necesita schimbarea licențelor de-a lungul duratei lui de viață și dorești ca acești contributori să fie de acord în avans cu asemenea schimbări.

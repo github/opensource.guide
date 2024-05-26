@@ -1,187 +1,184 @@
 ---
 lang: zh-hant
-untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+untranslated: false
+title: 保持平衡——開源專案維護者的指南
+description: 作為一名維護者，照顧自己並避免疲憊的小建議。
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+隨著一個開源專案的受歡迎程度不斷增長，設定清晰的界限變得至關重要，以幫助您保持平衡，確保長期保持清新和高效。
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+為了深入了解維護者的經驗以及他們尋找平衡的策略，我們與<a href="http://maintainers.github.com/">Maintainer Community</a>的40名成員一起進行了一個工作坊，讓我們能夠從他們在開源領域遭受疲憊的第一手經驗中學習，以及幫助他們在工作中保持平衡的實踐。這就是個人生態學的概念派上用場的地方。
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+那麼，什麼是個人生態學？正如<a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">Rockwood Leadership Institute所描述的</a>，它涉及"<strong>保持平衡、節奏和效率，以維持我們在長期活動中的能量</strong>。" 這個概念幫助維護者認識到他們的行為和貢獻是一個隨時間演變的更大生態系統的一部分。在維護者中，經常出現由於長期的工作壓力而導致的疲憊，這通常會導致動機的喪失，無法集中注意力，以及對您一起工作的貢獻者和社區缺乏同理心。根據世界衛生組織的定義，疲憊是一種由於長期的工作場所壓力而引起的綜合症狀，這種情況在維護者中並不少見。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
-  I was unable to focus or start on a task. I had a lack of empathy for users.
+  我無法專注或開始進行任務。我對使用者缺乏同理心。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>，Owncast直播流媒體伺服器的維護者，談到疲憊對他的開源工作的影響
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+透過擁抱個人生態學的概念，維護者可以主動避免疲憊，優先考慮自我照顧，並保持平衡感，以便做出最佳的工作表現。
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## 作為維護者的自我照顧和避免疲憊的建議：
 
-### Identify your motivations for working in open source
+### 辨識您參與開源工作的動機
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+花些時間反思開源維護中哪些部分能夠為您注入活力。了解您的動機可以幫助您以一種讓自己保持參與和迎接新挑戰的方式來優先考慮工作。無論是來自使用者的積極反饋、與社區合作和社交的樂趣，還是深入研究程式碼所帶來的滿足感，認識自己的動機可以幫助引導您的關注點。
 
-### Reflect on what causes you to get out of balance and stressed out
+### 反思是什麼使您失去平衡並感到壓力重重
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+了解導致我們感到疲憊的原因至關重要。以下是一些我們在開源維護者中常見的主題：
 
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **缺乏積極的回饋：** 使用者更有可能在他們有投訴時聯絡您。如果一切都運作良好，他們通常會保持沉默。看到問題清單不斷增長，卻沒有積極的回饋顯示您的貢獻正在產生影響，可能會讓人感到沮喪。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
-  Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
+  有時候感覺有點像在虛空中呼喊，我發現回饋真的能給我帶來活力。我們有很多滿意但寡言的使用者。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
+— <a href="https://github.com/thisisnic">@thisisnic</a>，Apache Arrow的維護者
   </p>
 </aside>
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **不說"不"：** 在開源專案中，很容易承擔比您應該負責的更多責任。無論是來自使用者、貢獻者還是其他維護者，我們不能總是滿足他們的期望。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
+  我發現我承擔了比應該的更多責任，需要做多人份的工作，就像在自由開源軟體中常見的那樣。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
+— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>，Termux的維護者，談到導致他工作疲憊的原因
   </p>
 </aside>
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **單獨工作：** 做一名維護者可能會讓人感到極度孤獨。即使您與一組維護者一起工作，過去幾年來，因分散的團隊難以親自聚會而變得困難。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
+  特別是自從COVID疫情以來，在家工作使得很難再見到人或與人交談。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>，Owncast直播流媒體伺服器的維護者，談到疲憊對他的開源工作的影響
   </p>
 </aside>
 
-* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+* **時間和資源不足：** 對於那些必須犧牲自己的空閒時間來參與項目的志願維護者來說，這一點尤其真實。
 
 <aside markdown="1" class="pquote">
-  [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
+  [我希望有] 更多的財務支持，這樣我就可以專注於開源工作，而不會消耗我的積蓄，並知道以後必須做很多合同工作來彌補。
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— 開源維護者
   </p>
 </aside>
 
-* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **需求衝突：** 開源充滿了擁有不同動機的群體，這可能很難應對。如果您受薪工作於開源項目，您的雇主的利益有時可能與社區的利益相衝突。
 
 <aside markdown="1" class="pquote">
-  With paid open source, conflict between employer's focus and what's best for the community
+  有薪開源中，雇主的關注點與社區最佳利益之間的衝突
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— 開源維護者
   </p>
 </aside>
 
-### Watch out for signs of burnout
+### 注意疲憊的跡象
 
-Can you keep up your pace for 10 weeks? 10 months? 10 years?
+您能夠保持這種節奏達10週嗎？10個月？10年？
 
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) and Mozilla's [personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
+有一些工具，例如來自 [@shaunagm](https://github.com/shaunagm) 的 [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) 和 可以幫助您反思您目前的節奏，並查看是否有任何調整的空間。一些維護者還使用可穿戴技術來追蹤睡眠質量和心率變異性等指標（這些都與壓力有關）。
 
 <aside markdown="1" class="pquote">
- I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
+ 我非常相信優質的可穿戴設備。有了背後的科學知識，您可以了解如何做得更好，以及如何達到您想要達到的最佳狀態。
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— 開源維護者
   </p>
 </aside>
 
-### What would you need to continue sustaining yourself and your community?
+### 您需要什麼來持續支持自己和您的社群？
 
-This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
+對每位維護者來說，這可能因年齡階段和其他外部因素而有所不同。但以下是一些我們聽到的主題：
 
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
+* **依賴社群：** 委託和找到貢獻者可以減輕工作負荷。項目有多個聯絡點可以幫助您在休息時不必擔心。與其他維護者和更廣泛的社群建立聯繫，例如 [Maintainer Community](http://maintainers.github.com/)。這可以是同儕支持和學習的重要資源。
 
-  You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
+您還可以尋找與使用者社群互動的方式，以便定期聽取反饋並了解您的開源工作的影響。
 
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **探索資金支持：** 無論您是尋找一些額外的財政支持，還是嘗試全職投入開源，都有許多資源可以幫助您！作為第一步，考慮啟用 [GitHub Sponsors](https://github.com/sponsors)，以允許其他人贊助您的開源工作。如果您考慮轉向全職，請申請下一輪的 [GitHub Accelerator](http://accelerator.github.com/)。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
- I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
+ 我一段時間前參加了一個播客，我們討論了開源維護和可持續性的問題。我發現即使有少數人在 GitHub 上支持我的工作，也能迅速決定不玩遊戲，而是做一點點開源工作。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
+— <a href="https://github.com/mansona">@mansona</a>，EmberJS的維護者
   </p>
 </aside>
 
-* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **使用工具：** 探索工具，如 [GitHub Copilot](https://github.com/features/copilot/) 和 [GitHub Actions](https://github.com/features/actions)，以自動化乏味的任務，釋放更多時間進行有意義的貢獻。
 
 <aside markdown="1" class="pquote">
- Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
+ 使用 [Copilot](https://github.com/features/copilot/) 來處理沉悶的事情 - 做有趣的事情
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— 開源維護者
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
+* **休息和恢復：** 為自己的興趣和愛好留出時間，遠離開源項目的工作。週末休息一下，放鬆身心，並設定您的 [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) 以反映您的可用性！一晚好的睡眠對於您長期維護努力的能力可能會產生重大影響。
 
-  If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
+如果您發現項目的某些方面特別令人愉快，請嘗試結構化您的工作，以便您可以在一天中體驗到這些樂趣。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
+ 我發現在白天更多機會嵌入"創造性時刻"，而不是試圖在晚上關掉。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
+— <a href="https://github.com/danielroe">@danielroe</a>，Nuxt的維護者
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **設定界限：** 您無法對每個請求都答應。這可以是簡單地說，"我現在無法處理這個，並且將來也沒有計劃"，或在 README 中列出您有興趣和不願意做的事情。例如，您可以說："我只會合併明確列出為什麼要這樣做的 PR"，或者，"我只會在每兩週的週四晚上 6 點到 7 點之間審查問題。" 這會讓其他人對您的期望有所了解，並且在其他時候有助於緩解貢獻者或使用者對您的時間的需求。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
+要在這些方面真正信任其他人，您不能成為對每個請求都說"是"的人。這樣一來，您就不會在專業或個人方面保持界限，也不會成為可靠的同事。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
+— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>，Homebrew的維護者，在 [Saying No](https://mikemcquaid.com/saying-no/) 上談及
+
   </p>
 </aside>
-
-  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+學會堅定地制止有毒行為和負面互動。不對您不關心的事情付出精力是可以接受的。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-My software is gratis, but my time and attention is not.
+我的軟件是免費的，但我的時間和關注不是。
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
+— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>，Leaflet的維護者
   </p>
 </aside>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.  
-  <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+開源維護有其黑暗面，其中之一是有時必須與相當不感激、自以為是或明顯有毒的人互動。隨著項目的受歡迎程度增加，這種互動的頻率也增加，增加了維護者的負擔，可能成為維護者疲憊的重要風險因素。
   </p>
 </aside>
 
-Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
+請記住，個人生態學是一個不斷演變的實踐，隨著您在開源之旅中的進展而變化。通過優先考慮自我照顧和保持平衡感，您可以有效且持久地貢獻於開源社群，確保自己的幸福以及項目的長期成功。
 
-## Additional Resources
+## 額外資源
 
 * [Maintainer Community](http://maintainers.github.com/)
 * [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
 * [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg 
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
-* [Personal ecology self-assessment kit](https://docs.google.com/document/d/1duOYQ6EbcDTH_CK6ux3BGRiVYptGTUMOtndZbbwulOY/edit#heading=h.mn38481ischw), Mozilla
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
 * [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
 * [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
 * Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
 
-## Contributors
+## 貢獻者
 
-Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+非常感謝所有與我們分享他們經驗和建議的維護者！
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from: 
+本指南由[@abbycabs](https://github.com/abbycabs)撰寫，[@jianan1104](https://github.com/jianan1104)翻譯，並得到以下貢獻者的貢獻：
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
@@ -218,4 +215,4 @@ This guide was written by [@abbycabs](https://github.com/abbycabs) with contribu
 [@thisisnic](https://github.com/thisisnic)
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
-[@waldyrious](https://github.com/waldyrious) + many others!
+[@waldyrious](https://github.com/waldyrious) + 很多人!

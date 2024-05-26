@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: オープンソースで金銭を得る
-description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう
+description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう。
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
