@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Building Welcoming Communities
+title:
 description: Building a community that encourages people to use, contribute to, and evangelize your project.
 class: building
 order: 4
@@ -273,4 +273,4 @@ Your tiebreaker should be a last resort. Divisive issues are an opportunity for 
 
 ## Community is the ❤️ of open source
 
-Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience.
+Healthy, thriving communities fuel the thousands of hours poured into open source every week. Many contributors point to other people as the reason for working - or not working - on open source. By learning how to tap into that power constructively, you'll help someone out there have an unforgettable open source experience. If you're looking for more ways to build your open source community, check out the chapter ["Building and Nurturing a Welcoming and Supportive Community" in OpenSauced's "Becoming a Maintainer" course](https://intro.opensauced.pizza/#/becoming-a-maintainer/building-community?id=building-and-nurturing-a-welcoming-and-supportive-community).
