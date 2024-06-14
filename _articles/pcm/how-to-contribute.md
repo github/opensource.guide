@@ -90,7 +90,7 @@ Even if you like to write code, other types of contributions are a great way to 
 * Write and improve the project's documentation, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
 * Curate a folder of examples showing how the project is used
 * Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Write tutorials for the project, [like PyPA's contributors did](https://packaging.python.org/)
 * Write a translation for the project's documentation, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
 <aside markdown="1" class="pquote">

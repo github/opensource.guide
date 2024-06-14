@@ -94,7 +94,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 * Napisz i popraw dokumentację projektu
 * Wybierz folder z przykładami pokazującymi, w jaki sposób projekt jest używany
 * Rozpocznij biuletyn dotyczący projektu lub wybieraj najważniejsze informacje z listy mailingowej
-* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA](https://packaging.python.org/)
 * Napisz tłumaczenie dokumentacji projektu
 
 <aside markdown="1" class="pquote">

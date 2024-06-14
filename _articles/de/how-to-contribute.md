@@ -98,7 +98,7 @@ Auch wenn Sie gerne Code schreiben, gibt es vielleicht bessere Möglichkeiten, s
 * Erstellen und verbessern Sie die Projektdokumentation
 * Erstellen Sie eine Übersicht von Anwendungsbeispielen, welche die Verwendungsmöglichkeiten der Software zeigen
 * Starten Sie einen Newsletter für das Projekt oder kuratieren Sie Highlights aus der Mailingliste
-* Schreiben Sie Tutorials für das Projekt, so [wie die Mitwirkenden von PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Schreiben Sie Tutorials für das Projekt, so [wie die Mitwirkenden von PyPA](https://packaging.python.org/)
 * Übersetzen Sie die Projektdokumentation
 
 <aside markdown="1" class="pquote">

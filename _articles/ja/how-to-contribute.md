@@ -86,7 +86,7 @@ related:
 * プロジェクトのドキュメントを書いたり改善する
 * プロジェクトがどのように使われているかの事例を選別する
 * プロジェクトのニュースレターを始めたり、メーリングリストのハイライトを整理する
-* [PyPA のコントリビューターがやったように](https://github.com/pypa/python-packaging-user-guide/issues/194)、プロジェクトのチュートリアルを書く
+* [PyPA のコントリビューターがやったように](https://packaging.python.org/)、プロジェクトのチュートリアルを書く
 * プロジェクトのドキュメントを翻訳する
 
 <aside markdown="1" class="pquote">
