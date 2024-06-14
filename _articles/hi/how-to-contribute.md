@@ -132,7 +132,7 @@ related:
 
 उदाहरण के लिए:
 
-* @sindresorhas एक ["भयानक" सूचियों की सूची तैयार करता है](https://github.com/sindresorhas/awesome)
+* @sindresorhus एक ["भयानक" सूचियों की सूची तैयार करता है](https://github.com/sindresorhus/awesome)
 * @h5bp फ्रंट-एंड डेवलपर उम्मीदवारों के लिए [संभावित साक्षात्कार प्रश्नों की सूची] (https://github.com/h5bp/Front-end-Developer-Interview-Questions) रखता है
 * @stuartlynn और @nicole-a-tesla ने [पफिन्स के बारे में मजेदार तथ्यों का संग्रह](https://github.com/stuartlynn/puffin_facts) बनाया।
 
