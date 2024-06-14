@@ -8,21 +8,17 @@ jobs:
   tests:
     runs-on: ubuntu-latest
     steps:
-    - name: Set up Git repository
-      uses: actions/checkout@v4
-
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        bundler-cache: true
-
-    - name: Set up Node
-      uses: actions/setup-node@v4
-
-    - name: Bootstrap
-      run: script/bootstrap
-      env:
-        SKIP_BUNDLER: true
-
-    - name: Tests
-      run: script/test
+      - name: Set up Git repository
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@ff740bc00a01b3a50fffc55a1071b1060eeae9dc # v1
+        with:
+          bundler-cache: true
+      - name: Set up Node
+        uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4
+      - name: Bootstrap
+        run: script/bootstrap
+        env:
+          SKIP_BUNDLER: true
+      - name: Tests
+        run: script/test

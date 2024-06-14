@@ -98,7 +98,7 @@ Yஉங்கள் திட்டம் **சார்புகள்** கொ
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     நாம் CLA ஐ Node.js க்கு அகற்றினோம். இதை செய்வதால், Node.js பங்களிப்பாளர்களுக்கு நுழைவுக்கான தடையை குறைக்கிறது, இதனால் பங்களிப்பு தளத்தை அதிகரிக்கிறது.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Node.js பங்களிப்புகளை அதிகரிக்கிறது"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Node.js பங்களிப்புகளை அதிகரிக்கிறது"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

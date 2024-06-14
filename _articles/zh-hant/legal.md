@@ -99,7 +99,7 @@ redirect_from: /zh-tw/legal/
   <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
     我們已經刪除了Node.js的CLA。這樣做降低了Node.js貢獻者的參與門檻，從而吸引更多的貢獻者。
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

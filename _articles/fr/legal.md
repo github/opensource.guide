@@ -98,7 +98,7 @@ En outre, en ajoutant de la "paperasse" jugée inutile, difficile à comprendre 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Nous avons éliminé le CLA pour Node.js. Cela réduit la barrière à l'entrée pour les contributeurs Node.js, élargissant ainsi la base des contributeurs.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

@@ -112,7 +112,7 @@ De asemenea, prin adăugarea de „hârtii” pe care unii le cred nenecesare, g
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
