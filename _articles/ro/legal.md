@@ -32,7 +32,7 @@ Când tu [creezi un proiect nou](https://help.github.com/articles/creating-a-new
 
 ![Creează depozit](/assets/images/legal/repo-create-name.png)
 
-**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
+**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
 
 Dacă dorești ca alții să folosească, să distribuie, să modifice, sau să contribuie înapoi la proiectul tău, tu trebuie să incluzi o licență open source. De exemplu, cineva nu poate în mod legal folosi nicio parte a proiectului tău GitHub în codul lor, chiar dacă este public, decât dacă tu le dai în mod explicit dreptul să facă acest lucru.
 

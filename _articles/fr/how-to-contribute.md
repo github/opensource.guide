@@ -86,7 +86,7 @@ Même si vous aimez écrire du code, d'autres types de contributions sont un exc
 * Écrire et améliorer la documentation du projet
 * Curate un dossier d'exemples montrant comment le projet est utilisé
 * Démarrer un bulletin d'information pour le projet, ou organiser des faits marquants de la liste de diffusion
-* Rédiger des tutoriels pour le projet, [comme les contributeurs de PyPA l'ont fait](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Rédiger des tutoriels pour le projet, [comme les contributeurs de PyPA l'ont fait](https://packaging.python.org/)
 * Écrire une traduction pour la documentation du projet
 
 <aside markdown="1" class="pquote">
