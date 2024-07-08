@@ -3,14 +3,6 @@ lang: ro
 title: Latura juridică a open source
 description: Tot ce te-ai întrebat vreodată de latura juridică a open source, și câteva lucruri de care nu te-ai întrebat.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "De ce oamenilor le pasă atât de mult de partea juridică a open source?"
-  are-public-github-projects-open-source: "Sunt proiectele GitHub publice open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Doar dă-mi TL;DR-ul a ce-mi trebuie pentru a-mi proteja proiectul."
-  which-open-source-license-is-appropriate-for-my-project: "Ce licență open source este potrivită pentru proiectul meu?"
-  what-if-i-want-to-change-the-license-of-my-project: "Ce se întâmplă dacă vreau să schimb licența proiectului meu?"
-  does-my-project-need-an-additional-contributor-agreement: "Proiectul meu are nevoie de o înțelegere cu contributorii în plus?"
-  what-does-my-companys-legal-team-need-to-know: "Ce trebuie să știe echipa juridică a companiei mele?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -40,7 +32,7 @@ Când tu [creezi un proiect nou](https://help.github.com/articles/creating-a-new
 
 ![Creează depozit](/assets/images/legal/repo-create-name.png)
 
-**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
+**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
 
 Dacă dorești ca alții să folosească, să distribuie, să modifice, sau să contribuie înapoi la proiectul tău, tu trebuie să incluzi o licență open source. De exemplu, cineva nu poate în mod legal folosi nicio parte a proiectului tău GitHub în codul lor, chiar dacă este public, decât dacă tu le dai în mod explicit dreptul să facă acest lucru.
 
@@ -120,13 +112,13 @@ De asemenea, prin adăugarea de „hârtii” pe care unii le cred nenecesare, g
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Unele situații în care ai putea dori să consideri un acord suplimentar de contributor pentru proiectul tău includ:
 
-* Avocații tăi vor ca toți contributorii să accepte în mod expres (_semneze_, online sau offline) termenii de contribuție, poate deoarece ei simt că licența open source în sine nu este destul (chiar dacă este!). Dacă aceasta este singura îngrijorare, un acord de contributor care afirmă licența de sursă deschisă a proiectului ar trebui să fie destul. [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) este un exemplu bun de un acord suplimentar ușor de contributor. Pentru unele proiecte, un [Developer Certificate of Origin](https://github.com/probot/dco) poate fi o alternativă.
+* Avocații tăi vor ca toți contributorii să accepte în mod expres (_semneze_, online sau offline) termenii de contribuție, poate deoarece ei simt că licența open source în sine nu este destul (chiar dacă este!). Dacă aceasta este singura îngrijorare, un acord de contributor care afirmă licența de sursă deschisă a proiectului ar trebui să fie destul. [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) este un exemplu bun de un acord suplimentar ușor de contributor. Pentru unele proiecte, un [Developer Certificate of Origin](https://github.com/probot/dco) poate fi o alternativă.
 * Proiectul tău folosește o licență de sursă deschisă care nu include o acordare expresă de brevet (cum ar fi MIT), și ai nevoie de o acordare de brevet de la toți contributorii, dintre care unii ar putea lucra pentru companii cu portofolii largi de brevete care ar putea să fie folosite să te țintească pe tine sau pe ceilalți contributori și utilizatori ai proiectului. [Individual Contributor License Agreement al Apache](https://www.apache.org/licenses/icla.pdf) este un acord suplimentar de contributor folosit în mod obișnuit care are o acordare de brevet oglindind-o pe cea găsită în Apache License 2.0.
 * Proiectul tău se află sub o licență copyleft, dar tu trebuie de asemenea să distribui o versiune de proprietate a proiectului. Îți va trebui ca fiecare contributor să-ți atribuie drepturile de autor ție sau să-ți acorde ție (dar nu publicului) o licență permisivă. [Contributor Agreement al MongoDB](https://www.mongodb.com/legal/contributor-agreement) este un exemplu de acest tip de acord.
 * Te gândești că proiectul tău ar putea necesita schimbarea licențelor de-a lungul duratei lui de viață și dorești ca acești contributori să fie de acord în avans cu asemenea schimbări.
@@ -155,7 +147,7 @@ Dacă lansezi primul proiect cu sursă deschisă al companiei, ce este scris mai
 
 Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta compania să obțină mai mult din implicarea ei în open source, și pentru a rămâne în siguranță:
 
-* **Politici de contribuție a angajaților:** Consideră dezvoltarea unei politici corporative care specifică felul în care angajații dumneavoastră contribuie la proiecte cu sursă deschisă. O politică clară va reduce confuzia în rândul angajaților dumneavoastră și îi va ajuta să contribuie la proiecte cu sursă deschisă în interesul companiei, fie ca parte a locurilor lor de muncă sau în timpul lor liber. Un exemplu este [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) al Rackspace.
+* **Politici de contribuție a angajaților:** Consideră dezvoltarea unei politici corporative care specifică felul în care angajații dumneavoastră contribuie la proiecte cu sursă deschisă. O politică clară va reduce confuzia în rândul angajaților dumneavoastră și îi va ajuta să contribuie la proiecte cu sursă deschisă în interesul companiei, fie ca parte a locurilor lor de muncă sau în timpul lor liber. Un exemplu este [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) al Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -168,12 +160,12 @@ Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta com
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Ce să lansezi:** [(Aproape) totul?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Dacă echipa voastră juridică înțelege și este investită în strategia open source a companiei voastre, ei vor fi cel mai bine capabili să te ajute în loc să împiedice eforturile tale.
-* **Conformare:** Chiar dacă compania ta nu lansează niciun proiect cu sursă deschisă, ea folosește software open source al altora. [Conștientizarea și procesul](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) pot preveni dureri de cap, întârzieri de produs, și procese.
+* **Conformare:** Chiar dacă compania ta nu lansează niciun proiect cu sursă deschisă, ea folosește software open source al altora. [Conștientizarea și procesul](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) pot preveni dureri de cap, întârzieri de produs, și procese.
 
 <aside markdown="1" class="pquote">
   <p>

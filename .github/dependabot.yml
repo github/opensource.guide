@@ -1,0 +1,48 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: "/"
+    schedule:
+      interval: daily
+      time: "10:00"
+      timezone: Europe/Vienna
+    pull-request-branch-name:
+      separator: "-"
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+    commit-message:
+      prefix: "chore(deps)"
+    groups:
+      dependencies:
+        applies-to: version-updates
+        update-types:
+          - "minor"
+          - "patch"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule: 
+     interval: daily
+    open-pull-requests-limit: 99
+    rebase-strategy: disabled
+    commit-message:
+      prefix: "chore(deps)"
+    groups:
+      dependencies:
+        applies-to: version-updates
+        update-types:
+          - "minor"
+          - "patch"
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: daily
+    versioning-strategy: increase
+    open-pull-requests-limit: 99
+    commit-message:
+      prefix: "chore(deps)"
+    groups:
+      dependencies:
+        applies-to: version-updates
+        update-types:
+          - "minor"
+          - "patch"

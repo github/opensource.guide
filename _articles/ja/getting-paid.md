@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: オープンソースで金銭を得る
-description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう
+description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう。
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -66,14 +66,6 @@ related:
 
 もし雇用主がそのプロジェクトを使っているのであれば、オープンソース活動をするのはより簡単になるでしょう。しかし、説明の仕方はよく練る必要があります。そのプロジェクトを使っていないかもしれませんが、 Python を使っているとすれば、 Python の有名なプロジェクトに関わることで新しい Python 開発者を惹き付ける役に立つでしょう。こう説明することで、雇用主はより友好的になるでしょう。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  オープンソースを行っている多くの人のように、プロジェクト運営の重荷に苦しんでいました。はじめてオープンソース活動を始めた時、私は遅い時間か、家に帰ってすぐにオープンソース活動を行っていました。 (...) 私が直面していた問題について上司と話すことができたため、自分たちが使っていたBabelに関するタスクを普段の仕事に取り込む良い方法を思いつきました。
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 もし取り組みたい既存のオープンソース活動がないけれども、現在の仕事の成果をオープンソースにしたいと望んでいる場合は、社内のソフトウェアをオープンソース化する事例を作りましょう。
 
 多くの企業が、ブランド構築と有能な開発者の採用のためにオープンソースプログラムを作っています。
@@ -101,12 +93,13 @@ related:
 
 あなた個人の状況によっては、あなた個人でオープンソース活動に資金を出してもらう試みをすることも可能です。例えば：
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon は [Patreon でのクラウドファンディング](https://redux.js.org/)を通じて、 [Redux](https://github.com/reactjs/redux) の活動の資金を得ています。
 * @andrewgodwin は [Kickstarter のキャンペーン](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)を通じて、 Django のスキーママイグレーションの活動の資金を得ています。
 
 最後に、オープンソースプロジェクトの中には問題解決を手伝ってもらうために報奨金を提示しているものもあります。
 
-* @ConnorChristie は [gitcoin の報奨金制度](https://gitcoin.co/)で @MARKETProtocol が javascript ライブラリの作業を[手伝う](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14)ことで金銭を得ました。
+* @ConnorChristie は [gitcoin の報奨金制度](https://gitcoin.co/)で @MARKETProtocol が JavaScript ライブラリの作業を[手伝う](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14)ことで金銭を得ました。
 * @mamiM は @MetaMask の日本語訳作業が [Bounties Network に資金提供された際に](https://beta.bounties.network/bounty/v1/134)、その作業を行いました。
 
 ## あなたのプロジェクトへの資金提供を探そう
@@ -122,7 +115,6 @@ related:
 あなたが既に協力者や強力な名声を築いていたり、プロジェクトが非常に有名なのであれば、スポンサーを探すのはうまくいくでしょう。スポンサーを得たプロジェクトの例を幾つか挙げます：
 
 * **[webpack](https://github.com/webpack)** は [OpenCollective を通じて](https://opencollective.com/webpack)企業や個人から資金を得ています。
-* **[Vue](https://github.com/vuejs/vue)** は [Patreon を通じて資金を得ています](https://github.com/open-source/stories/yyx990803)。
 * **[Ruby Together](https://rubytogether.org/)** という非営利団体は [bundler](https://github.com/bundler/bundler) や [RubyGems](https://github.com/rubygems/rubygems) といった Ruby の基盤プロジェクトに資金を提供しています。
 
 ### 収益源を作る
@@ -133,7 +125,7 @@ related:
 * **[Travis CI](https://github.com/travis-ci)** は、製品の有償版を提供しています。
 * **[Ghost](https://github.com/TryGhost/Ghost)** は、有償のマネージドサービスを提供する非営利サービスです。
 
-[npm](https://github.com/npm/npm) や [Docker](https://github.com/docker/docker) のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
+[npm](https://github.com/npm/cli) や [Docker](https://github.com/docker/docker) のような有名なプロジェクトでは、ビジネスの成長を支えるためにベンチャーキャピタルから資金調達をしています。
 
 ### 助成金に応募する
 

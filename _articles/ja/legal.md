@@ -32,7 +32,7 @@ GitHub 上で[新しいプロジェクトを作る](https://help.github.com/arti
 
 ![リポジトリの作成](/assets/images/legal/repo-create-name.png)
 
-**GitHub 上のプロジェクトをパブリックにするということと、プロジェクトにライセンスを設定することは同じではありません。** パブリックプロジェクトは [GitHub の Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) によって保護されます。これによって、他の人があなたのプロジェクトを見たりフォークすることを許可します。しかし、それ以外の点については許可していません。
+**GitHub 上のプロジェクトをパブリックにするということと、プロジェクトにライセンスを設定することは同じではありません。** パブリックプロジェクトは [GitHub の Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) によって保護されます。これによって、他の人があなたのプロジェクトを見たりフォークすることを許可します。しかし、それ以外の点については許可していません。
 
 もし、他に人に対してプロジェクトの利用、配布、変更、コントリビュートをしてもらいたいと思うのであれば、オープンソースライセンスをプロジェクトに含める必要があります。たとえあなたのプロジェクトがパブリックだったとしても、もしあなたがプロジェクトのソースコードを他のプロジェクトで使って良いと明記しない限りは、他の人はそのプロジェクトのコードのどの部分も合法的に使うことができません。
 
@@ -92,20 +92,20 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
 
 追加のコントリビューターアグリーメントはしばしば Contributor License Agreement (CLA) と呼ばれます。これを作ることで、プロジェクトのメンテナーは運用上の手間が必要になってきます。どのくらいの手間がかかるかはプロジェクトとやり方によります。簡単な同意であれば、コントリビューターに対してプロジェクトのオープンソースライセンスに従ってコントリビュートする権利があるとクリックひとつで同意できる様になるでしょう。より複雑な同意になると、法務のレビューとコントリビューターの雇用主の署名が必要になるかもしれません。
 
-加えて、「書類作業」が必要になることによって、中にはその作業が不必要、理解しがたい、公正ではない（プロジェクトのオープンソースライセンスによって、同意を受ける人や一般の人がコントリビューターより多くの権利を得る場合）と感じる人が出てくるかもしれません。このような状況では、追加のコントリビューターアグリーメントはプロジェクトのコミュニティからは有効的でないと受け取られるかもしれません。
+加えて、「書類作業」が必要になることによって、中にはその作業が不必要、理解しがたい、公正ではない（プロジェクトのオープンソースライセンスによって、同意を受ける人や一般の人がコントリビューターより多くの権利を得る場合）と感じる人が出てくるかもしれません。このような状況では、追加のコントリビューターアグリーメントはプロジェクトのコミュニティからは友好的でないと受け取られるかもしれません。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   Node.js では CLA を廃止しました。こうすることによって、 Node.js のコントリビューターになる敷居が下がり、コントリビューターの層を広げる事ができます。
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 追加のコントリビューターアグリーメントがプロジェクトに必要になってくるケースにはこういったものがあります：
 
-* あなたの弁護士が全てのコントリビューターが明示的にコントリビュート規約に同意する（オンラインかオフラインでの _サイン_）必要があると判断した場合。これはおそらく、オープンソースライセンスだけでは十分でない（たとえ実際には十分だったとしても！）と感じているからでしょう。もしこれが唯一の懸念なのであれば、あるオープンソースライセンスを支持する旨のコントリビューターアグリーメントで十分なはずです。 [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) が、軽量な追加のコントリビューターアグリーメントの良い例です。
-* あなたや弁護士が、開発者が行う全てのコミットは承認されていると表明してほしいと考える場合。[Developer Certificate of Origin](https://developercertificate.org/) の要件はこれを達成するプロジェクトの数です。例えば、Node.js コミュニティは彼らが以前使っていた CLA の[代わりに](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution)、DCO を[使っています](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md)。あなたのリポジトリでDCOの執行を自動化するためのシンプルなオプションは [DCO Probot](https://github.com/probot/dco) を使うことです。
+* あなたの弁護士が全てのコントリビューターが明示的にコントリビュート規約に同意する（オンラインかオフラインでの _サイン_）必要があると判断した場合。これはおそらく、オープンソースライセンスだけでは十分でない（たとえ実際には十分だったとしても！）と感じているからでしょう。もしこれが唯一の懸念なのであれば、あるオープンソースライセンスを支持する旨のコントリビューターアグリーメントで十分なはずです。 [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) が、軽量な追加のコントリビューターアグリーメントの良い例です。
+* あなたや弁護士が、開発者が行う全てのコミットは承認されていると表明してほしいと考える場合。[Developer Certificate of Origin](https://developercertificate.org/) の要件はこれを達成するプロジェクトの数です。例えば、Node.js コミュニティは彼らが以前使っていた CLA の[代わりに](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution)、DCO を[使っています](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md)。あなたのリポジトリでDCOの執行を自動化するためのシンプルなオプションは [DCO Probot](https://github.com/probot/dco) を使うことです。
 * プロジェクトで使っているオープンソースライセンスに特許許諾が明記されておらず（ MIT ライセンスのように）、全てのコントリビューターから特許許諾を取る必要がある場合。これは、コントリビューターの中にあなたのプロジェクトやプロジェクトのコントリビューター、ユーザーを巨大な特許ポートフォリオの対象にする企業があるかもしれないためです。 [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) は、 Apache License 2.0 に記載されている特許許諾をコピーした追加のコントリビューターアグリーメントで、一般的に使われています。
 * プロジェクトがコピーレフトライセンスを使っているが、プロプライエタリバージョンも提供する必要がある場合。この場合、全てのコントリビューターから、コピーライトをあなたに割り当てるか、寛容なライセンスを（パブリックに対してではなく）あなたに対して許諾する必要があるでしょう。 [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) はこの種の同意の例です。
 * プロジェクトが成熟するに連れてライセンスを変更する必要があると考えており、コントリビューターに前もってライセンス変更の同意を得ておきたい場合。
@@ -134,18 +134,18 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
 
 長期的には、法務部門は企業がオープンソースに関わることでより多くのことを安全に獲得する助けとなります：
 
-* **従業員のコントリビュートポリシー：** 従業員がどのようにオープンソースにコントリビュートするかを定めた社内規約を作ることを検討しましょう。明確な規約を作ることで従業員同士の混乱も減りますし、従業員に対して企業が最も関心のあるオープンソースプロジェクトに業務の一環であれ空き時間でコントリビュートする手助けにもなります。 Rackspace の [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) が良い例です。
+* **従業員のコントリビュートポリシー：** 従業員がどのようにオープンソースにコントリビュートするかを定めた社内規約を作ることを検討しましょう。明確な規約を作ることで従業員同士の混乱も減りますし、従業員に対して企業が最も関心のあるオープンソースプロジェクトに業務の一環であれ空き時間でコントリビュートする手助けにもなります。 Rackspace の [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) が良い例です。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  パッチに関連した知的財産を手放すことで従業員の知識ベースと名声を築く事ができます。そうすることで、その企業は従業員の能力を高め、自律的に働くことに投資していることを示すことができます。こういったメリットは、モラルの向上や従業員の維持にも繋がります。
+  パッチに関連した知的財産を手放すことで従業員の知識ベースと名声を築く事ができます。そうすることで、その企業は従業員の能力を高め、自律的に働くことに投資していることを示すことができます。こういったメリットは、士気の向上や従業員の維持にも繋がります。
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **何をリリースすべきですか？：** [(ほぼ)すべて？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) もし法務部門が企業のオープンソース戦略を理解し、それに投資している場合は、あなたの努力を妨害するよりもむしろ助けとなってくれるでしょう。
-* **コンプライアンス：** たとえあなたの企業が 1 つもオープンソースプロジェクトをリリースしていないとしても、他の人のオープンソースソフトウェアを使っているはずです。 [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
+* **コンプライアンス：** たとえあなたの企業が 1 つもオープンソースプロジェクトをリリースしていないとしても、他の人のオープンソースソフトウェアを使っているはずです。 [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
 
 <aside markdown="1" class="pquote">
 組織は、\[「寛容」と「コピーレフト」\]の両方のカテゴリにフィットするライセンス戦略、コンプライアンス戦略を確立しなければなりません。まずは使っているオープンソースソフトウェアとそのサブコンポーネント、依存関係に適用されているライセンス条項の記録を保持する所から始めましょう。

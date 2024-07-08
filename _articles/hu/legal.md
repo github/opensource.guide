@@ -32,7 +32,7 @@ Amikor [létrehozol egy új projektet](https://help.github.com/articles/creating
 
 ![Projekt létrehozása](/assets/images/legal/repo-create-name.png)
 
-**A GitHub projekt nyilvánossága nem azonos a projekt licencével!** A publikus projekt fogalma itt van definiálva: [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ami engedélyezi ezek megtekintését, vagy e célból ennek elágaztatását (fork), de más egyebet nem.
+**A GitHub projekt nyilvánossága nem azonos a projekt licencével!** A publikus projekt fogalma itt van definiálva: [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ami engedélyezi ezek megtekintését, vagy e célból ennek elágaztatását (fork), de más egyebet nem.
 
 Ha azt szeretnéd, hogy mások használhassák, terjesszék, módosítsák vagy hozzájáruljanak a projekthez, meg kell nevezned egy nyílt forráskódú licencet. Például attól, hogy a projekt nyilvános, még senki sem jogosult bármely részének törvényes használatára, kivéve, ha kifejezetten feljogosítod erre a megfelelő licenccel.
 
@@ -98,14 +98,14 @@ Amikor ez olyan "papírmunkát" okoz, amit egyesek szükségtelennek, nehezen é
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Megszüntettük a CLA-kat a Node.js projektben. Ezzel csökkenthető a közreműködői belépés előtt álló akadályok száma, ezáltal növelve a projektben résztvevők bázisát.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Egyes helyzetekben, szükséges lehet további, a projekthez kapcsolódó közreműködői megállapodást kötni:
 
-* A jogászok azt szeretnék, ha minden résztvevő kifejezetten elfogadná (_aláírná_, online vagy offline) a közreműködői feltételeket, talán azért, mert úgy érzik, hogy a nyílt forráskódú licenc nem elég (annak ellenére, hogy ez nem így van!). Ha csak ez az egyetlen gond, akkor elegendőnek kell lennie a nyílt forráskódú licencnek, és egy azt megerősítő közreműködői megállapodásnak. A [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) egy jó példa egy érthető, könnyen használható CLA-nak.
-* Te vagy a jogászok azt szeretnék, hogy a fejlesztők minden commit-ja jogilag megállja a helyét. Ezt a projektek a [Developer Certificate of Origin](https://developercertificate.org/) segítségével érik el. Például, a Node.js közösség a saját CLA-juk helyett [inkább](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) a DCO-t [használja](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md). A DCO automatikus kikényszerítése egy Git repository-n legegyszerűbben a [DCO Probot-tal](https://github.com/probot/dco) érhető el.
+* A jogászok azt szeretnék, ha minden résztvevő kifejezetten elfogadná (_aláírná_, online vagy offline) a közreműködői feltételeket, talán azért, mert úgy érzik, hogy a nyílt forráskódú licenc nem elég (annak ellenére, hogy ez nem így van!). Ha csak ez az egyetlen gond, akkor elegendőnek kell lennie a nyílt forráskódú licencnek, és egy azt megerősítő közreműködői megállapodásnak. A [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) egy jó példa egy érthető, könnyen használható CLA-nak.
+* Te vagy a jogászok azt szeretnék, hogy a fejlesztők minden commit-ja jogilag megállja a helyét. Ezt a projektek a [Developer Certificate of Origin](https://developercertificate.org/) segítségével érik el. Például, a Node.js közösség a saját CLA-juk helyett [inkább](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) a DCO-t [használja](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md). A DCO automatikus kikényszerítése egy Git repository-n legegyszerűbben a [DCO Probot-tal](https://github.com/probot/dco) érhető el.
 * A projekt egy olyan nyílt forráskódú licencet használ, amely nem tartalmaz kifejezetten szabadalom használati engedélyt (például MIT), így szükséges egy szabadalom használati engedély nyilatkozat minden résztvevőtől, akik közül néhányan nagy szabadalom portfólióval rendelkező cégeknek dolgoznak, amelyek a szabadalmaikat felhasználva támadhatnak téged vagy a projekt többi résztvevőjét és felhasználóit. Az [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) egy elterjedten használt kiegészítő közreműködői megállapodás, ami az Apache License 2.0 licencben szereplő szabadalom használati jogosultságot tartalmazza.
 * A projekted "copyleft" licencelésű, de a projektből egy szabadalmaztatott, saját verziót is terjeszteni szeretnél. Minden résztvevőnek át kell ruháznia rád a szerzői jogait, hogy megengedje neked (de nem a nyilvánosságnak) a szabad felhasználást. A [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) egy ilyen típusú megállapodás.
 * Úgy gondolod, hogy a projekt élete során szükség lehet a licenc módosítására, és azt szeretnéd, hogy a közreműködők előre elfogadják az ilyen jellegű változtatásokat.
@@ -134,18 +134,18 @@ Ha a céged első nyílt forráskódú projektjének publikálásán dolgozol, a
 
 Hosszabb távon a jogi csapat többet tehet azért, hogy segítsen a vállalatnak profitálni a nyílt forráskódból és közben biztonságban tudhassa magát:
 
-* **Munkavállalói hozzájárulás szabályozása:** Fontold meg olyan vállalati irányelv kidolgozását, amely meghatározza, hogy a munkavállalók hogyan járulnak hozzá a nyílt forráskódú projektekhez. Az egyértelmű szabályozás csökkenti a zavart az alkalmazottak körében, és segít abban, hogy a vállalat érdekeinek megfelelően járuljanak hozzá a nyílt forráskódú projektekhez, akár munkájuk részeként, akár szabadidejükben. Jó példa erre a Rackspace féle [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/). 
+* **Munkavállalói hozzájárulás szabályozása:** Fontold meg olyan vállalati irányelv kidolgozását, amely meghatározza, hogy a munkavállalók hogyan járulnak hozzá a nyílt forráskódú projektekhez. Az egyértelmű szabályozás csökkenti a zavart az alkalmazottak körében, és segít abban, hogy a vállalat érdekeinek megfelelően járuljanak hozzá a nyílt forráskódú projektekhez, akár munkájuk részeként, akár szabadidejükben. Jó példa erre a Rackspace féle [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   A (nyílt forráskódú) javítások (patch-ek) szellemi tulajdonának elengedése építi a munkavállaló tudásbázisát és hírnevét. Ez azt mutatja, hogy a vállalat befektet a munkavállaló fejlődésébe, valamint erősíti az önállóság és autonómia érzését. Mindezek magasabb morálhoz és a jobb munkavállalók megtartáshoz is vezetnek.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Mit kell kiadni:** [(Majdnem) mindent?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Ha a jogi csapat megérti és hajlandó munkát befektetni a vállalat nyílt forráskódú stratégiájába, akkor az inkább segíteni fog, mint akadályozni.
-* **Megfelelés:** Még ha a céged nem is fejleszt nyílt forráskódot, biztosan használja azt. A [tudatosság és folytonosság](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) megakadályozhatja a fejfájást, a késedelmeket és a pereket.
+* **Megfelelés:** Még ha a céged nem is fejleszt nyílt forráskódot, biztosan használja azt. A [tudatosság és folytonosság](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) megakadályozhatja a fejfájást, a késedelmeket és a pereket.
 
 <aside markdown="1" class="pquote">
   A szervezeteknek rendelkezniük kell olyan licenc- és megfelelőségi stratégiával, amely megfelel mind a „megengedő”, mind a „copyleft” kategóriáknak. Ez azzal kezdődik, hogy nyilvántartást vezetnek az általad használt nyílt forráskódú szoftverekre vonatkozó licencfeltételekről, beleértve az alkomponenseket és a függőségeket.

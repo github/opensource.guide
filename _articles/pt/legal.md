@@ -32,7 +32,7 @@ Quando você [cria um novo projeto](https://help.github.com/articles/creating-a-
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Tornar seu projeto no GitHub publico não é o mesmo que licenciar seu projeto.** Projetos publicos são cobertos pelos [Termos de Servicos do GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), o que permite que outras pessoas vejam e copiem seu projeto, mas seu trabalho vem sem permissões.
+**Tornar seu projeto no GitHub publico não é o mesmo que licenciar seu projeto.** Projetos publicos são cobertos pelos [Termos de Servicos do GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), o que permite que outras pessoas vejam e copiem seu projeto, mas seu trabalho vem sem permissões.
 
 Se você quiser que outras pessoas usem, distribuam, modifiquem ou contribuam com seu projeto, você precisa incluir uma licença open source. Por exemplo, alguém não pode usar legalmente qualquer parte de seu projeto do GitHub em seu código pessoal, mesmo que seu projeto seja público, a menos que você conceda explicitamente a eles o direito de fazer isso.
 
@@ -99,13 +99,13 @@ Além disso, adicionando "papelada" que alguns acreditam ser desnecessária, dif
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Nós eliminamos o CLA do Node.js. Isso reduziu a barreira de entrada para contribuidores Node.js, consequentemente expandindo a base de contribuidores.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Algumas situações em que você pode querer considerar um contrato de contribuição adicional para o seu projeto incluem:
 
-* Seus advogados querem que todos os colaboradores aceitem expressamente os termos de contribuição (_assinem_, online ou offline), talvez porque achem que a licença open source em si não é suficiente (mesmo que seja!). Se essa for a única preocupação, um acordo de contribuidores que afirme a licença open source do projeto deve ser suficiente. O [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) é um bom exemplo de um acordo de contribuição adicional leve. Para alguns projetos, um [Certificado de Origem do Desenvolvedor](https://github.com/probot/dco) pode ser uma alternativa.
+* Seus advogados querem que todos os colaboradores aceitem expressamente os termos de contribuição (_assinem_, online ou offline), talvez porque achem que a licença open source em si não é suficiente (mesmo que seja!). Se essa for a única preocupação, um acordo de contribuidores que afirme a licença open source do projeto deve ser suficiente. O [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) é um bom exemplo de um acordo de contribuição adicional leve. Para alguns projetos, um [Certificado de Origem do Desenvolvedor](https://github.com/probot/dco) pode ser uma alternativa.
 * Seu projeto usa uma licença open source que não inclui uma concessão de patente expressa (como MIT) e você precisa de uma concessão de patente de todos os contribuidores, alguns dos quais podem trabalhar para empresas com grandes portfólios de patentes que poderiam ser usados contra você ou os outros contribuidores e usuários do projeto. O [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) é um contrato de contribuição adicional comumente usado que tem uma concessão de patente espelhando a encontrada na Licença Apache 2.0.
 * Seu projeto está sob uma licença copyleft, mas você também precisa distribuir uma versão proprietária do projeto. Você precisará que todo colaborador assine, garantindo a você ou lhe outorgando direitos autorais (mas não ao público) uma licença permissiva. O [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) é um exemplo desse tipo de acordo.
 * Você acha que seu projeto talvez precise alterar as licenças ao longo de sua vida útil e deseja que os colaboradores concordem antecipadamente com essas alterações.
@@ -134,18 +134,18 @@ Se você está lançando o primeiro projeto open source da sua empresa, as dicas
 
 A longo prazo, sua equipe jurídica pode fazer mais para ajudar a empresa a obter mais de seu envolvimento em open source e permanecer segura:
 
-* **Políticas de contribuição para funcionários:** Considere desenvolver uma política corporativa que especifique como seus funcionários contribuem para projetos open source. Uma política clara reduzirá a confusão entre seus funcionários e os ajudará a contribuir para projetos open source no melhor interesse da empresa, seja como parte de seus trabalhos ou em seu tempo livre. Um bom exemplo é o  [Modelo de propriedade intelectual e políticas de contribuição para projetos abertos](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) da Rackspace.
+* **Políticas de contribuição para funcionários:** Considere desenvolver uma política corporativa que especifique como seus funcionários contribuem para projetos open source. Uma política clara reduzirá a confusão entre seus funcionários e os ajudará a contribuir para projetos open source no melhor interesse da empresa, seja como parte de seus trabalhos ou em seu tempo livre. Um bom exemplo é o  [Modelo de propriedade intelectual e políticas de contribuição para projetos abertos](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) da Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Liberar a propriedade intelectual associada com um patch constrói a base de conhecimento do funcionário e sua reputação. Mostra que a empresa é empenhada no desenvolvimento desse funcionário e cria um senso de emponderamento e autonomia. Todos esses benefícios também levam a uma maior moral e uma melhor retenção de funcionários.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **O que liberar:** [(Quase) tudo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Se a sua equipe jurídica entender e investir na estratégia open source da sua empresa, ela será mais capaz de ajudar do que atrapalhar seus esforços.
-* **Conformidade:** Mesmo que sua empresa não libere nenhum projeto open source, ela usa o software open source dos outros. [Conscientização e processo](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) pode evitar dores de cabeça, atrasos de produtos e ações judiciais.
+* **Conformidade:** Mesmo que sua empresa não libere nenhum projeto open source, ela usa o software open source dos outros. [Conscientização e processo](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) pode evitar dores de cabeça, atrasos de produtos e ações judiciais.
 
 <aside markdown="1" class="pquote">
   Organizações devem ter uma estratégia de licença e conformidade funcionando que encaixe ambas as categorias \["permissive" e "copyleft"\]. Isso começa com a manutenção de um registro dos termos de licença que se aplicam ao software open source que você está utilizando — incluindo subcomponentes e dependências.

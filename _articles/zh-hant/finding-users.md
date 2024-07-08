@@ -40,9 +40,9 @@ redirect_from: /zh-tw/finding-users/
 
 通過引導他們到一個唯一的地址來幫助人們發現和記住你的專案。
 
-**要有一個推廣的主陣地。**一個Twitter賬號，Github鏈接，或者IRC頻道是引導人們查看你們專案的一個簡單的方式。這些方式也給你日益增長的社群一個討論的好地方。
+**要有一個推廣的主陣地。**一個Twitter賬號，GitHub鏈接，或者IRC頻道是引導人們查看你們專案的一個簡單的方式。這些方式也給你日益增長的社群一個討論的好地方。
 
-如果你目前還不想給你的專案搞這麼多亂七八糟的東西，而且還要在有機會的時候推廣你的Twitter帳號和Github帳號。舉個例子，如果你某一個討論會或者活動上發言要保證在你的簡歷或者幻燈片上包含這些資訊。只有這樣人們才會知道怎麼找到你或者關注你的工作。
+如果你目前還不想給你的專案搞這麼多亂七八糟的東西，而且還要在有機會的時候推廣你的Twitter帳號和GitHub帳號。舉個例子，如果你某一個討論會或者活動上發言要保證在你的簡歷或者幻燈片上包含這些資訊。只有這樣人們才會知道怎麼找到你或者關注你的工作。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -143,14 +143,6 @@ redirect_from: /zh-tw/finding-users/
 種一棵樹最好的時候是十年前，其次是現在。所以何時開始建立你的聲望都不晚。即使是你早就已經建立了自己的專案，還是要繼續找辦法幫助別人。
 
 建立用戶群沒有一蹴而就的方法。獲取別人的新人和尊重需要時間，同樣，建立聲望的過程也永遠不會停止。
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
-  PhantomJS公開第一個版本的時候實在2011年初。我也就是用一些常規的方法來推廣：發Twitter，寫博客告訴別人可以用它來做什麼，在各種各樣的聚會上我都提到過它。當2014年他已經廣爲人知的時候。我才開始做關於它的演講。
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## 保持精進
 

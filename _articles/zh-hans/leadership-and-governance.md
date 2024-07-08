@@ -13,7 +13,7 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 ## 了解社区治理对快速发展的项目的重要性
 
-当项目开始有条不紊的进行，人员也开始稳定，那么你就应该开始社区的治理了。对于社区的治理，你或许有一些疑问，诸如如何将常规项目的贡献者纳入你的工作流？如何才能判断应该赋予谁提交的权限？又或者是如何解决社区的债务？如果你对这些有疑问的话，我们这里会尽力帮你解决。
+当项目开始有条不紊的进行，人员也开始稳定，那么你就应该开始社区的治理了。对于社区的治理，你或许有一些疑问，诸如如何将常规项目的贡献者纳入你的工作流？如何才能判断应该赋予谁提交的权限？又或者是如何解决社区的争论？如果你对这些有疑问的话，我们这里会尽力帮你解决。
 
 ## 开源项目中常见的角色有哪些？
 
@@ -25,9 +25,9 @@ redirect_from: /zh-cn/leadership-and-governance/
 * **贡献者**
 * **修订者**
 
-**对于某些项目来说， "维护者"** 就是唯一拥有提交权限的人。然而在其它的一些项目中， they're simply the people who are listed in the README as maintainers.
+**对于某些项目来说， "维护者"** 就是唯一拥有提交权限的人。然而在其它的一些项目中，他们只是在 README 文件中列为维护者的人。
 
-作为一名维护者，不一定非得一定要为项目撰写代码。Ta有可能是项目的布道师，为项目的宣传做了很多的工作，又或者是撰写文档让更多的人参与进来。不管他们每天做什么，维护者就是那些对项目方向负责的人，并致力于项目的改进。
+作为一名维护者，不一定非得要为项目撰写代码。Ta有可能是项目的布道师，为项目的宣传做了很多的工作，又或者是撰写文档让更多的人参与进来。不管他们每天做什么，维护者就是那些对项目方向负责的人，并致力于项目的改进。
 
 **作为 "贡献者" 可以是任何人** ，只要Ta提出issue或PR 就叫做贡献者，那些为项目作出有价值的都算（无论是分类问题，编写代码还是组织会议），又或者是将他们的PR合并进主干的（或许这个定义是最接近所谓的贡献者的）。
 
@@ -57,19 +57,19 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 对于一个较小的项目来讲，指定领导者，只需要在 README 或 CONTRIBUTORS 文本文件中写上他们的名字即可。
 
-对于稍大型点的项目，如果你已经拥有了网页的话，那么请创建一个团队的页面，或者创建一个团队领导的页面。举例来说， [PostgreSQL](https://github.com/postgres/postgres/) 就拥有一个[很全面地团队页面](https://www.postgresql.org/community/contributors/) ，而且每位贡献者都拥有简短的介绍。
+对于稍大型点的项目，如果你已经拥有了网页的话，那么请创建一个团队的页面，或者创建一个团队领导的页面。举例来说， [PostgreSQL](https://github.com/postgres/postgres/) 就拥有一个[很全面的团队页面](https://www.postgresql.org/community/contributors/) ，而且每位贡献者都拥有简短的介绍。
 
 如果你的项目拥有非常活跃的贡献者社区，你或许会专门建立一个维护者的"核心团队"，甚至是根据不同的话题所有者成立子的委员会（例如，安全，问题筛选，或者是社区准则）。让人们自行组织、且能够让志愿者自行找到自己喜欢的角色，而不是去分配他们。
 
 <aside markdown="1" class="pquote">
   \[我们\] 为核心团队设立多个"子团队"。每个子团队都会专门的聚焦于某个特定的领域，举例来说，语言设计或程序库(...) 为了确保全局的协调和健壮，会将整体的项目设置为同一个愿景，每个子团队是由核心团队的一员。
   <p markdown="1" class="pquote-credit">
-— ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
 领导者团队或许要创建一个指定的频道（如IRC），又或者是参与项目的日常讨论（如Gitter或Google Hangout）。你需要将这些会议可以公开访问，以便让人们方便倾听。举例来说，
- [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就会[每周开一次会议，每次持续几小时](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+ [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就会[每周开一次会议，每次持续几小时](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 一旦你建立了领导力角色，一定不要忘记撰写文档，告诉人们如何成为领导者！要为如何成为一名维护者或加入到项目的子委员会创建一个清晰的流程，并将之写入 GOVERNANCE.md 文件。
 
@@ -98,11 +98,11 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 关于开源项目有三类通用的相关治理结构。
 
-* **BDFL:** BDFL 是 "仁慈的独裁者生活" 的缩写. 在此结构下，有一个人（通常是项目的最初的作者）拥有项目中所有的最后决定权。[Python](https://github.com/python) 就是一个非常经典的例子。较小的项目可能默认就是 BDFL 结构，因为他一般就是一到两位维护者。若是公司组织的项目也极有可能会采用BDFL结构。
+* **BDFL:** BDFL 是 "终身仁慈独裁者" 的缩写. 在此结构下，有一个人（通常是项目的最初的作者）拥有项目中所有的最后决定权。[Python](https://github.com/python) 就是一个非常经典的例子。较小的项目可能默认就是 BDFL 结构，因为他一般就是一到两位维护者。若是公司组织的项目也极有可能会采用BDFL结构。
 
 * **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是"精英"）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](https://www.apache.org/)提出；[所有的Apache 项目](https://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
 
-* **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的共享。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://foundation.nodejs.org/) 和 [Rust](https://www.rust-lang.org/)。
+* **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的贡献。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://foundation.nodejs.org/) 和 [Rust](https://www.rust-lang.org/)。
 
 应该选择哪一种模式了呢？由你自己来做决定！每个模式都有优点，也有缺点。虽然上面的描述乍一看，这三种模式有着很大的不同，其实不然，它们还是有着共同点的。如果你对上述三种模式有兴趣，可以采用下面的模版：
 
@@ -112,9 +112,9 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 ## 启动项目时是否需要治理文档？
 
-其实没有什么合适的时间来撰写项目的治理，但是一旦你看到社区活跃起来就更容易定义。开源治理最好（也是最难）的部分是它由社区塑造！
+其实没有什么合适的时间来撰写项目的治理，但是一旦你看到社区活跃起来，就更容易定义它。开源治理最好（也是最难）的部分是它由社区塑造！
 
-在项目的治理中，一些早期的文档将会不可避免的，然而也不必太强求，写下你所能够想到的。举例来说，你可以将某些预期的行为定义清楚，贡献的流程是如何的，或者项目是如何启动的，等等。
+然而，一些早期文档将不可避免地影响项目的治理，因此请一开始就写下您能写下的内容。举例来说，你可以将某些预期的行为定义清楚，贡献的流程是如何的，或者项目是如何启动的，等等。
 
 如果你要开源公司的项目，那么在发布之前，有必要进行内部讨论，了解你的公司希望如何维护并做出有关项目进展的决策。你可能还想公开解释贵公司将如何（或不会！）参与项目的具体内容。
 
@@ -146,7 +146,7 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 如果你打算让自己的开源项目接受捐赠的话，你可以创建一个捐赠按钮（使用PayPal或Stripe，举例来说），但是你要知道，这些钱并非是免税的，除非你是认证过的非盈利性组织（在美国的话，诸如501c3）。
 
-很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](https://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/foundation/), [Linux 基金会](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
+很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](https://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/foundation/), [Linux 基金会](https://www.linuxfoundation.org/projects) 以及 [Open Collective](https://opencollective.com/opensource) 等。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
@@ -156,4 +156,4 @@ redirect_from: /zh-cn/leadership-and-governance/
   </p>
 </aside>
 
-如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.org/)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://foundation.nodejs.org/) 支撑着 [Express.js](https://expressjs.com/)，一款基于Node的框架。
+如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.org/)，一款优秀的Python包管理器；又比如[Node.js 基金会](https://foundation.nodejs.org/) 支持着 [Express.js](https://expressjs.com/)，一款基于Node的框架。

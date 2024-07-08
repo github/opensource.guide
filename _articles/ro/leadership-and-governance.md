@@ -3,15 +3,6 @@ lang: ro
 title: Conducere și guvernare
 description: Proiectele în creștere cu sursă deschisă pot beneficia de reguli formale pentru luarea deciziilor.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: "Înțelegerea guvernării pentru proiectul tău în creștere"
-  what-are-examples-of-formal-roles-used-in-open-source-projects: "Care sunt exemplele de roluri formale utilizate în proiecte cu sursă deschisă?"
-  how-do-i-formalize-these-leadership-roles: "Cum formalizez aceste roluri de conducere?"
-  when-should-i-give-someone-commit-access: "Când ar trebui să dau cuiva acces de commit?"
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: "Care sunt unele dintre structurile obișnuite de guvernanță pentru proiectele cu sursă deschisă?"
-  do-i-need-governance-docs-when-i-launch-my-project: "Am nevoie de documente de guvernare atunci când lansez proiectul meu?"
-  what-happens-if-corporate-employees-start-submitting-contributions: "Ce se întâmplă dacă angajați din companii încep să trimită contribuții?"
-  do-i-need-a-legal-entity-to-support-my-project: "Am nevoie de o entitate juridică pentru a-mi susține proiectul?"
 order: 6
 image: /assets/images/cards/leadership.png
 related:
@@ -93,11 +84,11 @@ Dacă proiectul tău are o comunitate de contributori foarte activă, ai putea s
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Echipele de conducere ar putea dori să creeze un canal desemnat (cum ar fi pe IRC) sau să se întâlnească periodic să discute despre proiect (cum ar fi pe Gitter sau Google Hangouts). Poți chiar face aceste întâlniri publice astfel încât alți oameni pot asculta. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), de exemplu, [găzduiește ore de lucru săptămânal](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Echipele de conducere ar putea dori să creeze un canal desemnat (cum ar fi pe IRC) sau să se întâlnească periodic să discute despre proiect (cum ar fi pe Gitter sau Google Hangouts). Poți chiar face aceste întâlniri publice astfel încât alți oameni pot asculta. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), de exemplu, [găzduiește ore de lucru săptămânal](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Odată ce ai stabilit roluri de conducere, nu uita să documentezi modul în care oamenii pot să le atingă! Stabilește un proces clar pentru cum cineva poate deveni un întreținător sau să se alăture unui subcomitet în cadrul proiectului tău, și scrie aceasta în GOVERNANCE.md-ul tău.
 
