@@ -1,0 +1,31 @@
+en:
+  locale_name: العربية
+  nav:
+    about: عن الموضوع
+    contribute: مساهمة
+  index:
+    lead:     برمجيات المصدر المفتوح يتم صنعها و توفيرها من قبل أُناسٍ أمثالك. تعلم معنا كيف يمكنك المساهمة و تطوير مشاريعك.
+    opensourcefriday: اليومُ الجمعة! ابذل سويعاتٍ قليلةً في المساهمة للبرمجية التي تحبها و تحتاجها 
+  article:
+    table_of_contents: فهرس المحتويات
+    back_to_all_guides: رجوع للمرشد الجامع
+    related_guides: Related Guides
+  footer:
+    contribute:
+      heading: ساهِم
+      description: هل لديك اقتراحات؟
+      button: ساهِم
+    subscribe:
+      heading: تواصَل
+      description: كُن أولَ من تصله آخر أخبار المصادر المفتوحة لــ"جِت هَب"
+      label: بريد الكتروني
+      button: اشترك في النشرة
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] with [love] by [github] and [friends]"
+      # Label for code octicon
+      code_label: كود
+      # Label for love octicon
+      love_label: بالحب
+      # Label for the contributors link
+      friends_label: أصدقاء
