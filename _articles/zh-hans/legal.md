@@ -1,7 +1,7 @@
 ---
 lang: zh-hans
 title: 开源的法律保护
-description: 对于开源你应该了解的所有法律知识。
+description: 关于开源你应该了解的所有法律知识。
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
@@ -17,9 +17,9 @@ redirect_from: /zh-cn/legal/
 
 ## 为什么人们这么关心开源的法律方面问题？
 
-很高兴你们提问了！当你们做创造性工作（例如写作，图形或代码）时，该作品默认为专有版权（copyright）。也就是说，法律承认你们是你们作品的作者，他人在没有经得你们同意的情况下不能使用你们的工作。
+很高兴你们提问了！当你们做创造性工作（例如写作，绘图或编码）时，该作品默认为专有版权（copyright）。也就是说，法律承认你们是你们作品的作者，他人在没有经得你们同意的情况下不能使用你们的工作。
 
-一般来说，这意味着没有人可以在没有你们授权的情况下使用，复制，分发或者修改你们的工作。
+通常而言，这代表除创作者本身外，任何人若试图使用、复制、分发或更改此作品，都将置身于被迫中止、面临勒索，甚至陷入法律纠纷的危险之中。
 
 然而，开源有着不一样的情况。因为作者希望他人使用，修改以及分享他们的工作。但因为法律默认依然是专有版权（copyright），所以你们需要一个明确说明这些权限的协议。
 
@@ -33,9 +33,9 @@ redirect_from: /zh-cn/legal/
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**公开你们的GitHub项目与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
+**公开你们的GitHub项目与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
 
-如果你们想让他人使用，复制，修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你们的项目是公开的，但没有你们的授权，一些人是不能合法在他们的代码中使用你们GitHub项目中的任何部分。
+如果你们想让他人使用、复制、修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你的GitHub项目是公开的，除非你明确授权，否则他人在法律上无权将你项目中的任何内容用于自己的代码之中。
 
 ## 如何保护我们的项目
 
@@ -89,7 +89,7 @@ redirect_from: /zh-cn/legal/
 
 ## 我们的项目需要额外的贡献者协议吗？
 
-可能不要。对于大多数的开源项目，一个开源许可协议可作用与所有贡献者和用户。
+可能不要。对于大多数的开源项目，一个开源许可协议可作用于所有贡献者和用户。
 
 贡献者协议会给维护者带来额外的管理工作。这些协议增加了多少工作得取决去项目和实施。简单的协议可能要求贡献者确认和点击，在项目的开源许可协议下他们有权利贡献。更复杂的协议可能需要法律的审查和贡献者的雇主的签字。
 
@@ -99,13 +99,13 @@ redirect_from: /zh-cn/legal/
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     我们已经删除了Node.js的CLA。这样做降低了Node.js贡献者的参与门槛，从而吸引更多的贡献者。
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 一些情况下你们可能想要为你们的项目考虑一个额外的贡献协议：
 
-* 你们的律师想要所有的贡献者明确接受贡献者条款，或者因为他们觉得只有开源许可协议还远远不够。如果这是唯一的问题，那么有肯定项目开源许可协议的贡献者协议就足够了。[jQuery个人贡献者许可协议](https://contribute.jquery.org/CLA/)就是一个很好的轻量级的个人贡献者协议。对于一些项目来说，[Developer Certificate of Origin](https://github.com/probot/dco)是一个很好的先择。
+* 你们的律师想要所有的贡献者明确接受贡献者条款，或者因为他们觉得只有开源许可协议还远远不够。如果这是唯一的问题，那么有肯定项目开源许可协议的贡献者协议就足够了。[jQuery个人贡献者许可协议](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/)就是一个很好的轻量级的个人贡献者协议。对于一些项目来说，[Developer Certificate of Origin](https://github.com/probot/dco)是一个很好的先择。
 * 你们的项目使用的开放源许可协议不包括明确的专利授权（如MIT），你们需要所有贡献者的专利授权，这些可能适合用于你们公司的专利组合或者项目的其他贡献者和用户。[Apache 个人贡献者许可协议](https://www.apache.org/licenses/icla.txt)是一种常用的附加贡献者协议，其具有与Apache许可2.0中的专利许可相同的专利许可。
 * 如果你们的项目使用的是copyleft许可协议，但你们也需要分发项目的专有版本。那你们需要每个贡献者分配版权给你们或者授予你们许可权。[MongoDB贡献者协议](https://www.mongodb.com/legal/contributor-agreement)就是这中类型的。
 * 你们认为你们的项目在其有效期内需要更换许可协议，以及事先得到贡献者的同意。

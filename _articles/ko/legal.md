@@ -32,7 +32,7 @@ related:
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**GitHub 프로젝트를 공개하는 것은 프로젝트 라이센싱과 동일하지 않습니다.** 공개 프로젝트는 [GitHub의 서비스 약관](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)에 명시되어 있으며, 다른 사람들이 프로젝트를 보거나 포크할 수는 있지만, 다른 권한은 없습니다.
+**GitHub 프로젝트를 공개하는 것은 프로젝트 라이센싱과 동일하지 않습니다.** 공개 프로젝트는 [GitHub의 서비스 약관](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)에 명시되어 있으며, 다른 사람들이 프로젝트를 보거나 포크할 수는 있지만, 다른 권한은 없습니다.
 
 다른 사람들이 프로젝트를 사용, 복사, 수정 또는 다시 사용할 수 있게 하려면, 오픈소스 라이선스를 포함해야 합니다. 예를 들어, GitHub 프로젝트가 공개되어 있다 하더라도 명시적으로 권한을 부여하지 않는다면, 그 코드의 어느 부분도 사용할 수 없습니다. 
 
@@ -98,13 +98,13 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Node.js 기여 확대"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Node.js 기여 확대"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 프로젝트에 대한 추가 기여자 계약을 고려할 수 있는 몇 가지 상황은 다음과 같습니다:
 
-* 변호사는 기여자가 오픈소스 라이선스 자체가 충분하지 않다고 생각하기 때문에 모든 기여자가 기여 조항을 명시적으로 (_sign_, 온라인 또는 오프라인) 받아들이기를 원합니다. 이것이 유일한 관심사라면, 프로젝트의 오픈소스 라이선스를 인정하는 기여자 계약만으로 충분할 것입니다. [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/)는 경량 추가 제공자 계약의 좋은 예입니다. 일부 프로젝트의 경우, [개발자 인증서 발급](https://github.com/probot/dco)을 사용할 수 있습니다.
+* 변호사는 기여자가 오픈소스 라이선스 자체가 충분하지 않다고 생각하기 때문에 모든 기여자가 기여 조항을 명시적으로 (_sign_, 온라인 또는 오프라인) 받아들이기를 원합니다. 이것이 유일한 관심사라면, 프로젝트의 오픈소스 라이선스를 인정하는 기여자 계약만으로 충분할 것입니다. [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/)는 경량 추가 제공자 계약의 좋은 예입니다. 일부 프로젝트의 경우, [개발자 인증서 발급](https://github.com/probot/dco)을 사용할 수 있습니다.
 * 귀하의 프로젝트는 익스프레스 특허 부여 (MIT 등)가 포함되지 않은 오픈소스 라이선스를 사용하며, 모든 기여자의 특허 허여가 필요합니다. 그 중 일부는 귀하를 타겟으로 삼을 수 있는 대규모 특허 포트폴리오를 보유한 회사 또는 프로젝트의 다른 참여자 및 사용자가 사용할 수 있습니다. [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf)는 일반적으로 사용되는 추가 기여자 계약으로 Apache License 2.0에서 발견된 특허권 부여를 미러링합니다.
 * 프로젝트에 카피레프트 라이선스가 있지만, 프로젝트의 독점 버전을 배포해야 합니다. 모든 저작권자가 저작권을 양도하거나 관할권을 부여할 수 있는 허가권을 사용자에게 부여해야합니다. [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement)는 이러한 유형의 계약입니다.
 * 평생동안 프로젝트를 변경하고 기여자가 그러한 변경 사항에 동의하기를 원한다고 생각하십시오.
@@ -133,13 +133,13 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 
 장기적으로, 법률팀은 오픈소스에 대한 참여를 통해 더 많은 것을 얻고, 안전을 유지할 수 있도록 더 많은 일을 할 수 있습니다:
 
-* **직원 기여 정책:** 직원이 오픈소스 프로젝트에 기여하는 방법을 지정하는 기업 정책을 개발하는 것을 고려하십시오. 분명한 정책은 직원들 사이의 혼란을 줄이고 작업의 일부 또는 자유 시간에 상관없이, 회사의 이익을 최대한 활용하여 오픈소스 프로젝트에 기여할 수 있도록 지원합니다. 좋은 예시는 Rackspace의 [모델 IP 및 오픈소스 기여 정책](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)입니다.
+* **직원 기여 정책:** 직원이 오픈소스 프로젝트에 기여하는 방법을 지정하는 기업 정책을 개발하는 것을 고려하십시오. 분명한 정책은 직원들 사이의 혼란을 줄이고 작업의 일부 또는 자유 시간에 상관없이, 회사의 이익을 최대한 활용하여 오픈소스 프로젝트에 기여할 수 있도록 지원합니다. 좋은 예시는 Rackspace의 [모델 IP 및 오픈소스 기여 정책](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)입니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["모델 IP 및 공개 소스 기여 정책"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["모델 IP 및 공개 소스 기여 정책"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 

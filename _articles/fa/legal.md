@@ -30,7 +30,7 @@ related:
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**عمومی کردن پروژه‌تان در «GitHub» به منزلۀ مجوزدار کردن پروژه نیست.** پروژه‌های عمومی‌ای که [تحت شرایط خدمات «GitHub»](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) قرار می‌گیرند این امکان را برای افراد میسر می‌سازد که پروژه شما را مشاهده کنند و آن را فورک (fork) کنند، اما در غیر این افراد همچین اجازه‌ای ندارند.
+**عمومی کردن پروژه‌تان در «GitHub» به منزلۀ مجوزدار کردن پروژه نیست.** پروژه‌های عمومی‌ای که [تحت شرایط خدمات «GitHub»](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) قرار می‌گیرند این امکان را برای افراد میسر می‌سازد که پروژه شما را مشاهده کنند و آن را فورک (fork) کنند، اما در غیر این افراد همچین اجازه‌ای ندارند.
 
 اگر می‌خواهید دیگران از پروژۀ شما استفاده کنند، آن را توزیع دهند یا اصلاح نمایند و در آن مشارکت کنند، باید پروانۀ مخصوص پروژه‌های متن باز داشته باشید. به عنوان مثال، کسی قانونا نمی‌تواند از هر بخشی از پروژۀ «GitHub» شما در کد خود استفاده کند، حتی اگر عمومی باشد؛ مگر اینکه صریحاً به او اجازۀ چنین کاری را بدهید.
 
@@ -98,7 +98,7 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     ما «توافق‌نامه مجوز مشارکت‌کننده» را برای «Node.js» حذف کردیم. انجام این کار موانع ورود مشارکت‌کنندگان به Node.js را کاهش می‌دهد و در نتیجه میزان مشارکت‌کنندگان را گسترش می‌دهد.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
@@ -136,13 +136,13 @@ related:
 
 در بلند مدت، تیم حقوقی می‌تواند کمک بیشتری به شرکت کند تا از مشارکت خود در پروژه‌های متن باز بهره‌ی بیشتری ببرد و در امان بماند:
 
-* **سیاست های مربوط به مشارکت کارمندان:** سیاست‌هایی را تدوین کنید که مشخص سازد کارمندان شما در پروژه‌های متن باز چه نوع مشارکتی داشته باشند. داشتن سیاست‌های مشخص و واضح باعث کاهش سردرگمی در بین کارمندان و کمک به آن‌ها در مشارکت هرچه بهتر در پروژه‌های متن باز شرکت می‌شود؛ چه به عنوان بخشی از شغل آنها و چه به صورت فعالیت در اوقات فراغت‌شان. یک مثال خوب، [مدل‌های استاندارد و سیاست‌های همکاری در پروژه‌های متن باز](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) «Rackspace» است.
+* **سیاست های مربوط به مشارکت کارمندان:** سیاست‌هایی را تدوین کنید که مشخص سازد کارمندان شما در پروژه‌های متن باز چه نوع مشارکتی داشته باشند. داشتن سیاست‌های مشخص و واضح باعث کاهش سردرگمی در بین کارمندان و کمک به آن‌ها در مشارکت هرچه بهتر در پروژه‌های متن باز شرکت می‌شود؛ چه به عنوان بخشی از شغل آنها و چه به صورت فعالیت در اوقات فراغت‌شان. یک مثال خوب، [مدل‌های استاندارد و سیاست‌های همکاری در پروژه‌های متن باز](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) «Rackspace» است.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   منتشر کردن شناسه همراه با مشخصات سازندۀ پَچ، باعث ایجاد اعتبار و شناخته شدن کارمند می‌شود. این کار نشان می‌دهد که شرکت در توسعۀ کارمندان سرمایه‌گذاری کرده و باعث به وجود آمدن حس اختیار و استقلال کارمندان می‌شود. تمامی این منفعت‌ها، منجر به روحیۀ بالاتر و حفظ بهتر کارمندان می‌شود.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 

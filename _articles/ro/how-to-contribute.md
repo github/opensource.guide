@@ -100,7 +100,7 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
 * Scrie și îmbunătățește documentația proiectului
 * Selectează un dosar de exemple arătând cum este folosit proiectul
 * Începe un buletin informativ pentru proiect, sau selectează sublinieri din lista de email-uri
-* Scrie tutoriale pentru proiect, [cum au făcut contribuitorii PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Scrie tutoriale pentru proiect, [cum au făcut contribuitorii PyPA](https://packaging.python.org/)
 * Scrie o traducere pentru documentația proiectului
 
 <aside markdown="1" class="pquote">
@@ -237,7 +237,6 @@ Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să d
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 

@@ -32,7 +32,7 @@ Cuando t&uacute; [creas un nuevo proyecto](https://help.github.com/articles/crea
 
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
 
-**Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [los T&eacute;rminos de Servicio de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
+**Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [los T&eacute;rminos de Servicio de GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
 
 Si quieres que otros usen, copien, modifiquen, o contribuyan a tu proyecto, debes incluir una licencia de c&oacute;digo abierto. Por ejemplo, nadie puede usar legalmente cualquier parte de tu proyecto de GitHub en su c&oacute;digo, incluso si es p&uacute;blico, a menos que expl&iacute;citamente le concedas dicho derecho.
 
@@ -99,13 +99,13 @@ Tambi&eacute;n, al a&ntilde;adir "papeleo" que algunos consideran innecesario, d
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Hemos eliminado la CLA para Node.js. Esto, reduce la barrera de entrada para colaboradores de Node.js, ampliando as&iacute; la base de contribuyentes.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Algunas situaciones en las cuales deber&iacute;as considerar un acuerdo adicional de colaboradores pueden ser:
 
-* Tus abogados quieren que todos los colaboradores acepten expresamente (_firma_, online o offline) los t&eacute;rminos de contribuci&oacute;n, quiz&aacute;s porque sienten que una licencia de c&oacute;digo abierto no es suficiente (incluso cuando lo sea!). Si esta es la &uacute;nica preocupaci&oacute;n, un acuerdo adicional de colaboradores que afirme la licencia de c&oacute;digo abierto del proyecto, deber&iacute;a ser suficiente. El [Acuerdo Adicional de colaboradores Individual de jQuery](https://contribute.jquery.org/CLA/) es un buen ejemplo de un acuerdo adicional de colaboradores ligero. Para algunos proyectos, un [Certificado de Origen del Desarrollador](https://GitHub.com/probot/dco) puede ser una alternativa a&uacute;n m&aacute;s simple.
+* Tus abogados quieren que todos los colaboradores acepten expresamente (_firma_, online o offline) los t&eacute;rminos de contribuci&oacute;n, quiz&aacute;s porque sienten que una licencia de c&oacute;digo abierto no es suficiente (incluso cuando lo sea!). Si esta es la &uacute;nica preocupaci&oacute;n, un acuerdo adicional de colaboradores que afirme la licencia de c&oacute;digo abierto del proyecto, deber&iacute;a ser suficiente. El [Acuerdo Adicional de colaboradores Individual de jQuery](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) es un buen ejemplo de un acuerdo adicional de colaboradores ligero. Para algunos proyectos, un [Certificado de Origen del Desarrollador](https://GitHub.com/probot/dco) puede ser una alternativa a&uacute;n m&aacute;s simple.
 
 * Tu proyecto usa una licencia de c&oacute;digo abierto que no incluye una concesi&oacute;n de patentes explicita (como MIT), y necesitas una concesi&oacute;n de patentes por parte de todos los colaboradores, algunos de los cuales quiz&aacute;s trabajen para empresas con grandes cantidades de patentes que podr&iacute;an utilizarse para dirigirse a usted o a otros contribuyentes y usuarios del proyecto. El [Acuerdo Adicional de colaboradores Individual de Apache](https://www.apache.org/licenses/icla.pdf) es un acuerdo adicional de colaboradores que posee una concesi&oacute;n de patentes reflejando el que se encuentra en Apache License 2.0.
 
@@ -139,13 +139,13 @@ Si est&aacute;s lanzando el primer proyecto de c&oacute;digo abierto de tu empre
 
 A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a obtener su participaci&oacute;n en c&oacute;digo abierto y mantenerse a salvo:
 
-* **Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Liberar el IP asociado con un parche genera la base de conocimientos y la reputaci&oacute;n del empleado. Demuestra que la empresa invierte en el desarrollo del empleado y crea un sentido de autonom&iacute;a y autonom&iacute;a. Todos estos beneficios tambi&eacute;n conducen a una mayor moral y mejor retenci&oacute;n de empleados.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
      </p>
 </aside>
 

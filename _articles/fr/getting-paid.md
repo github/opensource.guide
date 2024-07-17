@@ -16,7 +16,7 @@ Une grande partie du travail open source est volontaire. Par exemple, une person
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-  Je cherchais un projet de programmation comme "hobby" qui me garderait occupé pendant la semaine autour de Noël. (...) J'avais un ordinateur à la maison, et pas grand-chose d'autre dans les mains. J'ai décidé d'écrire un interprèteur pour le nouveau langage de script auquel j'avais pensé récemment. (...) J'ai choisi Python comme titre de travail.
+  Je cherchais un projet de programmation comme "hobby" qui me garderait occupé pendant la semaine autour de Noël. (...) J'avais un ordinateur à la maison, et pas grand-chose d'autre dans les mains. J'ai décidé d'écrire un interpréteur pour le nouveau langage de script auquel j'avais pensé récemment. (...) J'ai choisi Python comme titre de travail.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>

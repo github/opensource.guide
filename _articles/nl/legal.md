@@ -32,7 +32,7 @@ Wanneer je [een nieuw project maakt](https://help.github.com/articles/creating-a
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Het openbaar maken van uw GitHub-project is niet hetzelfde als het licentiëren van uw project.** Openbare projecten vallen onder de [Servicevoorwaarden van GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), waarmee anderen uw project kunnen bekijken en splitsen (_een fork_), maar uw werk heeft verder geen rechten.
+**Het openbaar maken van uw GitHub-project is niet hetzelfde als het licentiëren van uw project.** Openbare projecten vallen onder de [Servicevoorwaarden van GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), waarmee anderen uw project kunnen bekijken en splitsen (_een fork_), maar uw werk heeft verder geen rechten.
 
 Als u wilt dat anderen uw project gebruiken, distribueren, wijzigen of eraan bijdragen, moet u een open source-licentie opnemen. Iemand kan bijvoorbeeld geen enkel deel van je GitHub-project legaal in zijn code gebruiken, zelfs niet als het openbaar is, tenzij je hem expliciet het recht geeft om dit te doen.
 
@@ -104,12 +104,12 @@ Door ook 'papierwerk' toe te voegen waarvan sommigen denken dat het onnodig, moe
     _We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base._
 
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Node.js-bijdragen verbreden"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Node.js-bijdragen verbreden"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 Enkele situaties waarin u wellicht een aanvullende bijdrageovereenkomst voor uw project wilt overwegen, zijn onder meer:
 
-* Uw advocaten willen dat alle bijdragers uitdrukkelijk (_tekenen_, online of offline) contributievoorwaarden accepteren, misschien omdat ze vinden dat de open source-licentie zelf niet voldoende is (ook al is het dat wel!). Als dit de enige zorg is, zou een bijdragersovereenkomst moeten volstaan ​​die de open source-licentie van het project bevestigt. De [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is een goed voorbeeld van een lichtgewicht aanvullende overeenkomst voor bijdragers.
+* Uw advocaten willen dat alle bijdragers uitdrukkelijk (_tekenen_, online of offline) contributievoorwaarden accepteren, misschien omdat ze vinden dat de open source-licentie zelf niet voldoende is (ook al is het dat wel!). Als dit de enige zorg is, zou een bijdragersovereenkomst moeten volstaan ​​die de open source-licentie van het project bevestigt. De [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) is een goed voorbeeld van een lichtgewicht aanvullende overeenkomst voor bijdragers.
 * U of uw advocaten willen dat ontwikkelaars verklaren dat elke toezegging die ze doen, geautoriseerd is. Een [Developer Certificate of Origin](https://developercertificate.org/) vereiste is hoeveel projecten dit bereiken. De Node.js-community [gebruikt](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) bijvoorbeeld de DCO [in plaats daarvan](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) van hun eerdere cao. Een eenvoudige optie om de handhaving van de DCO op uw repository te automatiseren, is de [DCO Probot] (https://github.com/probot/dco).
 * Uw project maakt gebruik van een open source-licentie die geen uitdrukkelijke octrooiverlening omvat (zoals MIT), en u hebt een octrooiverlening nodig van alle bijdragers, van wie sommigen mogelijk werken voor bedrijven met grote octrooiportefeuilles die kunnen worden gebruikt om u te targeten of de andere bijdragers en gebruikers van het project. De [Apache-licentieovereenkomst voor individuele bijdragers](https://www.apache.org/licenses/icla.pdf) is een veelgebruikte aanvullende overeenkomst voor bijdragers met een octrooiverlening die overeenkomt met die in de Apache-licentie 2.0.
 * Uw project valt onder een auteursplichtlicentie, maar u moet ook een eigen versie van het project distribueren. Je hebt elke bijdrager nodig om het auteursrecht aan jou toe te wijzen of jou (maar niet het publiek) een permissieve licentie te verlenen. De [MongoDB-bijdragersovereenkomst](https://www.mongodb.com/legal/contributor-agreement) is een voorbeeld van dit type overeenkomst.
@@ -139,7 +139,7 @@ Als u het eerste open source-project van uw bedrijf uitbrengt, is het bovenstaan
 
 Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen meer uit zijn betrokkenheid bij open source te halen en veilig te blijven:
 
-* **Beleid inzake werknemersbijdragen:** Overweeg om een ​​bedrijfsbeleid te ontwikkelen dat aangeeft hoe uw werknemers bijdragen aan open source-projecten. Een duidelijk beleid zal de verwarring onder uw medewerkers verminderen en hen helpen bij te dragen aan open source-projecten in het belang van het bedrijf, zowel als onderdeel van hun baan als in hun vrije tijd. Een goed voorbeeld is Rackspace's [Model IP and Open Source Contribution Policy] (https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Beleid inzake werknemersbijdragen:** Overweeg om een ​​bedrijfsbeleid te ontwikkelen dat aangeeft hoe uw werknemers bijdragen aan open source-projecten. Een duidelijk beleid zal de verwarring onder uw medewerkers verminderen en hen helpen bij te dragen aan open source-projecten in het belang van het bedrijf, zowel als onderdeel van hun baan als in hun vrije tijd. Een goed voorbeeld is Rackspace's [Model IP and Open Source Contribution Policy] (https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -148,7 +148,7 @@ Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen 
   _Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention._
 
   <p markdown="1" class="pquote-credit">
-— @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 

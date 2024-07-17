@@ -95,7 +95,7 @@ Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige ma
 * Schrijf en verbeter de projectdocumentatie
 * Beheer een map met voorbeelden die laten zien hoe het project wordt gebruikt
 * Start een nieuwsbrief voor het project of cureer hoogtepunten uit de mailinglijst
-* Schrijf tutorials voor het project, [zoals de bijdragers van PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Schrijf tutorials voor het project, [zoals de bijdragers van PyPA](https://packaging.python.org/)
 * Schrijf een vertaling voor de documentatie van het project
 
 <aside markdown="1" class="pquote">
@@ -221,7 +221,6 @@ U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekke
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 

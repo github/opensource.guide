@@ -32,7 +32,7 @@ Bila kamu [create a new project](https://help.github.com/articles/creating-a-new
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Membuat projek GitHub anda umum tidak sama dengan melesenkan projek anda.** Projek awam dilindungi oleh [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang membolehkan orang lain melihat dan melengkapkan projek anda, tetapi pekerjaan anda sebaliknya tidak mempunyai kebenaran.
+**Membuat projek GitHub anda umum tidak sama dengan melesenkan projek anda.** Projek awam dilindungi oleh [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang membolehkan orang lain melihat dan melengkapkan projek anda, tetapi pekerjaan anda sebaliknya tidak mempunyai kebenaran.
 
 Sekiranya anda ingin orang lain menggunakan, menyebarkan, mengubah suai, atau menyumbang kembali ke projek anda, anda perlu memasukkan lesen sumber terbuka. Sebagai contoh, seseorang tidak boleh menggunakan bahagian projek GitHub anda secara sah dalam kod mereka, walaupun secara terbuka, melainkan anda secara jelas memberi mereka hak untuk melakukannya.
 
@@ -98,13 +98,13 @@ Juga, dengan menambahkan "kertas kerja" yang diyakini oleh beberapa orang tidak 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
    Kami telah menghilangkan CLA untuk Node.js. Melakukan ini mengurangkan halangan kemasukan penyumbang Node.js sehingga memperluas pangkalan penyumbang.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Beberapa situasi di mana anda mungkin ingin mempertimbangkan perjanjian penyumbang tambahan untuk projek anda termasuk:
 
-* Peguam anda mahu semua penyumbang menerima secara jelas syarat-syarat sumbangan (_sign_, online atau offline), mungkin kerana mereka merasakan lesen sumber terbuka itu sendiri tidak mencukupi (walaupun sudah!). Sekiranya ini satu-satunya masalah, perjanjian penyumbang yang mengesahkan lesen sumber terbuka projek harus mencukupi. The [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) adalah contoh yang baik dari perjanjian penyumbang tambahan ringan.
+* Peguam anda mahu semua penyumbang menerima secara jelas syarat-syarat sumbangan (_sign_, online atau offline), mungkin kerana mereka merasakan lesen sumber terbuka itu sendiri tidak mencukupi (walaupun sudah!). Sekiranya ini satu-satunya masalah, perjanjian penyumbang yang mengesahkan lesen sumber terbuka projek harus mencukupi. The [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) adalah contoh yang baik dari perjanjian penyumbang tambahan ringan.
 * Anda atau peguam anda mahu pembangun menyatakan bahawa setiap komitmen yang mereka buat diberi kuasa. [Developer Certificate of Origin](https://developercertificate.org/) keperluannya adalah berapa banyak projek yang mencapainya. Contohnya, komuniti Node.js [uses](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) DCO [instead](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) CLA mereka yang terdahulu. Pilihan mudah untuk mengotomatisasi pelaksanaan DCO di repositori anda adalah [DCO Probot](https://github.com/probot/dco).
 * Projek anda menggunakan lesen sumber terbuka yang tidak termasuk pemberian paten ekspres (seperti MIT), dan anda memerlukan pemberian paten dari semua penyumbang, beberapa di antaranya mungkin bekerja untuk syarikat yang mempunyai portfolio paten besar yang dapat digunakan untuk menargetkan anda atau penyumbang dan pengguna projek yang lain. [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf) adalah perjanjian penyumbang tambahan yang biasa digunakan yang mempunyai pemberian hak paten seperti yang terdapat dalam Apache License 2.0.
 * Projek anda di bawah lesen copyleft, tetapi anda juga perlu mengedarkan versi proprietari projek tersebut. Anda memerlukan setiap penyumbang untuk memberikan hak cipta kepada anda atau memberi anda (tetapi bukan orang ramai) lesen yang mengizinkan. The [MongoDB Contributor Agreement](https://www.mongodb.com/legal/contributor-agreement) adalah contoh jenis perjanjian ini.
@@ -134,13 +134,13 @@ Sekiranya anda melepaskan projek sumber terbuka pertama syarikat anda, perkara d
 
 Jangka panjang, pasukan undang-undang anda boleh melakukan lebih banyak perkara untuk membantu syarikat mendapatkan lebih banyak hasil daripada penglibatannya dalam sumber terbuka, dan tetap selamat:
 
-* **Dasar sumbangan pekerja:** Pertimbangkan untuk mengembangkan polisi korporat yang menentukan bagaimana pekerja anda menyumbang untuk projek sumber terbuka. Dasar yang jelas akan mengurangkan kekeliruan di kalangan pekerja anda dan membantu mereka menyumbang kepada projek sumber terbuka demi kepentingan syarikat, sama ada sebagai sebahagian daripada pekerjaan mereka atau pada masa lapang. Contoh yang baik ialah Rackspace [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Dasar sumbangan pekerja:** Pertimbangkan untuk mengembangkan polisi korporat yang menentukan bagaimana pekerja anda menyumbang untuk projek sumber terbuka. Dasar yang jelas akan mengurangkan kekeliruan di kalangan pekerja anda dan membantu mereka menyumbang kepada projek sumber terbuka demi kepentingan syarikat, sama ada sebagai sebahagian daripada pekerjaan mereka atau pada masa lapang. Contoh yang baik ialah Rackspace [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Membiarkan IP yang berkaitan dengan patch membina asas pengetahuan dan reputasi pekerja. Ini menunjukkan bahawa syarikat dilaburkan dalam pengembangan pekerja tersebut dan mewujudkan rasa pemberdayaan dan autonomi. Semua faedah ini juga membawa kepada semangat kerja yang lebih tinggi dan pengekalan pekerja yang lebih baik.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 

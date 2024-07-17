@@ -88,7 +88,7 @@ related:
 * Γράφετε και βελτιώνετε την τεκμηρίωση του έργου
 * Επιμεληθείτε έναν φάκελο με παραδείγματα που δείχνουν πώς χρησιμοποιείται το έργο
 * Ξεκινήστε ένα ενημερωτικό δελτίο για το έργο, ή επιμεληθείτε τα σημαντικότερα σημεία από τη λίστα αλληλογραφίας
-* Γράφετε εκπαιδευτικά προγράμματα για το έργο, [όπως έκαναν οι συντελεστές του PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Γράφετε εκπαιδευτικά προγράμματα για το έργο, [όπως έκαναν οι συντελεστές του PyPA](https://packaging.python.org/)
 * Γράψτε μια μετάφραση για την τεκμηρίωση του έργου
 
 <aside markdown="1" class="pquote">
@@ -211,7 +211,6 @@ related:
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 

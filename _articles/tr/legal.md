@@ -32,7 +32,7 @@ GitHub'da [yeni bir proje oluşturduğunuzda](https://help.github.com/articles/c
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**GitHub projenizi herkese açık hale getirmek, projenizi lisanslamakla aynı değildir.** Genel projeler, başkalarının projenizi görüntülemesine ve düzenlemesine izin veren [GitHub'ın Hizmet Koşulları](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) kapsamındadır, gizli yaparsanız işiniz başkalarına izinsizdir.
+**GitHub projenizi herkese açık hale getirmek, projenizi lisanslamakla aynı değildir.** Genel projeler, başkalarının projenizi görüntülemesine ve düzenlemesine izin veren [GitHub'ın Hizmet Koşulları](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) kapsamındadır, gizli yaparsanız işiniz başkalarına izinsizdir.
 
 Başkalarının projenizi kullanmasını, dağıtmasını, değiştirmesini veya katkıda bulunmasını istiyorsanız, açık kaynaklı bir lisans eklemeniz gerekir. Örneğin, birileri, açıkça yapma hakkını vermediğiniz sürece, kamuya açık olsa bile, GitHub projenizin herhangi bir bölümünü yasalarında kullanamaz.
 
@@ -98,13 +98,13 @@ Ayrıca, bazılarının gereksiz olduğuna, anlaşılmasının zor veya haksız 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   Node.js için CLA'yı kaldırdık. Bunu yapmak, Node.js katılımcısı için giriş engelini azalttı ve böylece katılımcı tabanını genişletti.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Projeniz için ek bir katılımcı sözleşmesi düşünmek isteyebileceğiniz bazı durumlar şunlardır:
 
-* Avukatlarınız açık kaynak lisanslarını yeterli bulmadıklarından (öyle olsa bile!)  tüm katılımcıları katılımcı sözleşmelerimi açıkça kabul etmek (çevrimiçi veya çevrimdışı _işaretlemelerini_) isteyebilir. Bu tek endişe ise, projenin açık kaynaklı lisansını onaylayan bir katılımcı sözleşmesi yeterli olmalıdır. [JQuery Bireysel Katılımcı Lisans Sözleşmesi](https://contribute.jquery.org/CLA/), hafif bir ek katılımcı sözleşmesi için iyi bir örnektir. Bazı projeler için, [Developer Certificate of Origin](https://github.com/probot/dco) alternatif olabilir.
+* Avukatlarınız açık kaynak lisanslarını yeterli bulmadıklarından (öyle olsa bile!)  tüm katılımcıları katılımcı sözleşmelerimi açıkça kabul etmek (çevrimiçi veya çevrimdışı _işaretlemelerini_) isteyebilir. Bu tek endişe ise, projenin açık kaynaklı lisansını onaylayan bir katılımcı sözleşmesi yeterli olmalıdır. [JQuery Bireysel Katılımcı Lisans Sözleşmesi](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/), hafif bir ek katılımcı sözleşmesi için iyi bir örnektir. Bazı projeler için, [Developer Certificate of Origin](https://github.com/probot/dco) alternatif olabilir.
 * Projeniz, açık bir patent hibesi (MIT gibi) içermeyen bir açık kaynak lisansı kullanıyor ve bazıları sizi hedeflemek için kullanılabilecek büyük patent portföyleri olan şirketler için çalışabilecek tüm katılımcılardan bir patent hibesine ihtiyacınız var. [Apache Individual Contributor License Agreement](https://www.apache.org/licenses/icla.pdf)  Apache License 2.0. lisansında bulunan ve çokça kullanılan bir katılımcı sözleşmesidir.
 * Projeniz bir copyleft lisansı altında, ancak aynı zamanda projenin tescilli bir versiyonunu da dağıtmanız gerekiyor. Size telif hakkı veren veya size (ancak halka değil) izin veren bir lisans veren her katılımcıya ihtiyacınız olacaktır. [MongoDB Katılımcı Anlaşması](https://www.mongodb.com/legal/contributor-agreement) bu tür bir anlaşma örneğidir.
 * Projenizin ömrü boyunca lisansları değiştirmesi gerekebileceğini ve katkıda bulunanların bu tür değişiklikleri önceden kabul etmesini isteyebileceğinizi düşünüyorsunuz.
@@ -134,13 +134,13 @@ Daha iyi veya daha kötüsü, kişisel bir proje olsa bile, onlara bildirmeyi d�
 
 Daha uzun vadede hukuk ekibiniz, şirketin açık kaynaklara katılımından daha fazlasını elde etmesi ve güvende kalması için daha fazlasını yapabilir:
 
-* **Çalışanlar için katkı politikaları:** Çalışanlarınızın açık kaynaklı projelere nasıl katkıda bulunduğunu belirten bir kurumsal politika geliştirmeyi düşünün. Açık bir politika, çalışanlarınız arasındaki karmaşayı azaltacaktır ve işlerinin bir parçası olarak veya boş zamanlarında, şirketin çıkarlarına faydalı olacak şekilde açık kaynak projelere katkıda bulunmalarına yardımcı olacaktır. Buna iyi bir örnek Rackspace'in [Model IP'si ve Açık Kaynak Katkı Politikası](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)'dır.
+* **Çalışanlar için katkı politikaları:** Çalışanlarınızın açık kaynaklı projelere nasıl katkıda bulunduğunu belirten bir kurumsal politika geliştirmeyi düşünün. Açık bir politika, çalışanlarınız arasındaki karmaşayı azaltacaktır ve işlerinin bir parçası olarak veya boş zamanlarında, şirketin çıkarlarına faydalı olacak şekilde açık kaynak projelere katkıda bulunmalarına yardımcı olacaktır. Buna iyi bir örnek Rackspace'in [Model IP'si ve Açık Kaynak Katkı Politikası](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)'dır.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Bir yama ile ilgili IP'nin serbest bırakılması, çalışanın bilgi birikimini ve itibarını arttırır. Şirketin bu çalışanın gelişimine yatırım yaptığını ve bir güçlendirme ve özerklik duygusu yarattığını göstermektedir. Tüm bu faydalar ayrıca daha yüksek moral ve daha iyi bir çalışanın kalmasına yol açmaktadır.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["Bir Model IP ve Açık Kaynak Katkı Politikası"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["Bir Model IP ve Açık Kaynak Katkı Politikası"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 

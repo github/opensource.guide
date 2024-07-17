@@ -90,7 +90,7 @@ related:
 * اسناد پروژه را بنویسید و اصلاح کنید
 * پوشه‌ی نمونه‌ها را تنظیم کنید تا نحوه‌ی استفاده‌ی پروژه را نشان دهد
 * برای پروژه یک خبرنامه راه‌اندازی کنید، یا شاخصه‌های آن را نوشته و تنظیم کنید
-* برای پروژه، مطالب آموزشی بنویسید، مانند مشارکت‌کننده‌هایی که برای [PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194) مطالب آموزشی نوشتند
+* برای پروژه، مطالب آموزشی بنویسید، مانند مشارکت‌کننده‌هایی که برای [PyPA](https://packaging.python.org/) مطالب آموزشی نوشتند
 * مستندات پروژه را به زبانی دیگر ترجمه کنید
 
 <aside markdown="1" class="pquote">
@@ -214,7 +214,6 @@ related:
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://www.sourcesort.com/)
 

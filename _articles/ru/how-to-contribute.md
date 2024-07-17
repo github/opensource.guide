@@ -90,7 +90,7 @@ related:
 * Напишите и улучшите документацию по проекту
 * Создайте папку с примерами по использованию проекта
 * Запустите рассылку новостей по проекту или освещайте самое важное из списка рассылки
-* Составьте обучающие руководства по проекту, [как это сделали участники PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Составьте обучающие руководства по проекту, [как это сделали участники PyPA](https://packaging.python.org/)
 * Переведите документацию проекта
 
 <aside markdown="1" class="pquote">
@@ -213,7 +213,6 @@ related:
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 

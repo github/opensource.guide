@@ -86,7 +86,7 @@ related:
 * 프로젝트 문서 작성 및 개선하기
 * 프로젝트 사용법을 보여주는 예제 폴더 선별하기
 * 프로젝트의 뉴스레터 발행을 시작하거나 메일링 리스트의 하이라이트를 관리하기
-* [PyPA의 기여처럼](https://github.com/pypa/python-packaging-user-guide/issues/194), 프로젝트 튜토리얼 작성하기
+* [PyPA의 기여처럼](https://packaging.python.org/), 프로젝트 튜토리얼 작성하기
 * 프로젝트 문서 번역 작성하기
 
 <aside markdown="1" class="pquote">
@@ -185,7 +185,9 @@ related:
 
 오픈소스 프로젝트가 어떻게 작동하는지 알았으니, 이제 기여할 프로젝트를 찾아야 합니다!
 
-이전에 오픈소스에 기여한 적이 없다면, 케네디 미국 전 대통령으로부터 조언을 구하세요. _"Ask not what your country can do for you - ask what you can do for your country."_
+이전에 오픈 소스에 기여한 적이 없다면, 미국 존 케네디 대통령의 명언을 떠올려보세요. 
+_"Ask not what your country can do for you - ask what you can do for your country."_
+_"국가가 나를 위해 무엇을 해줄 것을 바라기에 앞서, 내가 국가를 위해 무엇을 할 것인가를 생각해야 한다."_
 
 오픈소스에 기여하는 것은 프로젝트 전반에 걸쳐 모든 수준에서 발생합니다. 여러분의 첫 번째 기여가 정확히 무엇이고 어떻게 보일지 생각할 필요가 없습니다.
 
@@ -207,7 +209,6 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 

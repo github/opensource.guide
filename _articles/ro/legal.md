@@ -32,7 +32,7 @@ Când tu [creezi un proiect nou](https://help.github.com/articles/creating-a-new
 
 ![Creează depozit](/assets/images/legal/repo-create-name.png)
 
-**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
+**A face proiectul tău GitHub public nu este același lucru cu licențierea proiectului tău.** Proiectele publice sunt acoperite de [Termenii serviciului GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), care permite altora să vadă și să bifurce proiectul tău, dar munca ta în rest vine fără permisiuni.
 
 Dacă dorești ca alții să folosească, să distribuie, să modifice, sau să contribuie înapoi la proiectul tău, tu trebuie să incluzi o licență open source. De exemplu, cineva nu poate în mod legal folosi nicio parte a proiectului tău GitHub în codul lor, chiar dacă este public, decât dacă tu le dai în mod explicit dreptul să facă acest lucru.
 
@@ -112,13 +112,13 @@ De asemenea, prin adăugarea de „hârtii” pe care unii le cred nenecesare, g
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Unele situații în care ai putea dori să consideri un acord suplimentar de contributor pentru proiectul tău includ:
 
-* Avocații tăi vor ca toți contributorii să accepte în mod expres (_semneze_, online sau offline) termenii de contribuție, poate deoarece ei simt că licența open source în sine nu este destul (chiar dacă este!). Dacă aceasta este singura îngrijorare, un acord de contributor care afirmă licența de sursă deschisă a proiectului ar trebui să fie destul. [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) este un exemplu bun de un acord suplimentar ușor de contributor. Pentru unele proiecte, un [Developer Certificate of Origin](https://github.com/probot/dco) poate fi o alternativă.
+* Avocații tăi vor ca toți contributorii să accepte în mod expres (_semneze_, online sau offline) termenii de contribuție, poate deoarece ei simt că licența open source în sine nu este destul (chiar dacă este!). Dacă aceasta este singura îngrijorare, un acord de contributor care afirmă licența de sursă deschisă a proiectului ar trebui să fie destul. [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) este un exemplu bun de un acord suplimentar ușor de contributor. Pentru unele proiecte, un [Developer Certificate of Origin](https://github.com/probot/dco) poate fi o alternativă.
 * Proiectul tău folosește o licență de sursă deschisă care nu include o acordare expresă de brevet (cum ar fi MIT), și ai nevoie de o acordare de brevet de la toți contributorii, dintre care unii ar putea lucra pentru companii cu portofolii largi de brevete care ar putea să fie folosite să te țintească pe tine sau pe ceilalți contributori și utilizatori ai proiectului. [Individual Contributor License Agreement al Apache](https://www.apache.org/licenses/icla.pdf) este un acord suplimentar de contributor folosit în mod obișnuit care are o acordare de brevet oglindind-o pe cea găsită în Apache License 2.0.
 * Proiectul tău se află sub o licență copyleft, dar tu trebuie de asemenea să distribui o versiune de proprietate a proiectului. Îți va trebui ca fiecare contributor să-ți atribuie drepturile de autor ție sau să-ți acorde ție (dar nu publicului) o licență permisivă. [Contributor Agreement al MongoDB](https://www.mongodb.com/legal/contributor-agreement) este un exemplu de acest tip de acord.
 * Te gândești că proiectul tău ar putea necesita schimbarea licențelor de-a lungul duratei lui de viață și dorești ca acești contributori să fie de acord în avans cu asemenea schimbări.
@@ -147,7 +147,7 @@ Dacă lansezi primul proiect cu sursă deschisă al companiei, ce este scris mai
 
 Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta compania să obțină mai mult din implicarea ei în open source, și pentru a rămâne în siguranță:
 
-* **Politici de contribuție a angajaților:** Consideră dezvoltarea unei politici corporative care specifică felul în care angajații dumneavoastră contribuie la proiecte cu sursă deschisă. O politică clară va reduce confuzia în rândul angajaților dumneavoastră și îi va ajuta să contribuie la proiecte cu sursă deschisă în interesul companiei, fie ca parte a locurilor lor de muncă sau în timpul lor liber. Un exemplu este [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) al Rackspace.
+* **Politici de contribuție a angajaților:** Consideră dezvoltarea unei politici corporative care specifică felul în care angajații dumneavoastră contribuie la proiecte cu sursă deschisă. O politică clară va reduce confuzia în rândul angajaților dumneavoastră și îi va ajuta să contribuie la proiecte cu sursă deschisă în interesul companiei, fie ca parte a locurilor lor de muncă sau în timpul lor liber. Un exemplu este [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) al Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -160,7 +160,7 @@ Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta com
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 

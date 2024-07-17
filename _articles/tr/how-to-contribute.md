@@ -90,7 +90,7 @@ Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve d
 * Proje dokümantasyonunu yazın ve geliştirin
 * Projenin nasıl kullanıldığını gösteren örnekler oluşturun
 * Proje için bir bülten başlatın veya posta listesinden önemli noktaları açığa çıkarın
-* [PyPA'nın katılımcılarının yaptığı gibi](https://github.com/pypa/python-packaging-user-guide/issues/194) proje için dersler yazın
+* [PyPA'nın katılımcılarının yaptığı gibi](https://packaging.python.org/) proje için dersler yazın
 * Projenin dokümantasyonu için çeviri yapın
 
 <aside markdown="1" class="pquote">
@@ -213,7 +213,6 @@ Yeni projeleri keşfetmenize ve katkıda bulunmanıza yardımcı olmak için aş
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 

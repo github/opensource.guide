@@ -87,7 +87,7 @@ redirect_from: /zh-tw/how-to-contribute/
 * 撰寫和改善專案的說明文件
 * 策劃一個資料夾來蒐集專案的實際應用案例
 * 辦一個專案的電子報，或者蒐整郵件列表的摘要
-* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://packaging.python.org/)
 * 翻譯專案的說明文件
 
 <aside markdown="1" class="pquote">
@@ -204,7 +204,6 @@ redirect_from: /zh-tw/how-to-contribute/
 
 * [GitHub 探索](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
-* [你的第一個 PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)

@@ -134,7 +134,7 @@ To reduce the volume of unwanted contributions in the first place, explain your 
 
 If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
 
-* Fill out a issue or PR template/checklist
+* Fill out an issue or PR template/checklist
 * Open an issue before submitting a PR
 
 If they don't follow your rules, close the issue immediately and point to your documentation.
@@ -173,7 +173,7 @@ Encouraging others to [share ownership of the project](../building-community/#sh
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
+  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbour.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>

@@ -86,7 +86,7 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 * Írd és javítsd a projekt dokumentációját
 * Tarts karban egy példa könyvtárat a projekt használatáról
 * Indíts hírlevelet a projektről, vagy a levelező listáról készít összefoglalót
-* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://packaging.python.org/)
 * Fordíts le a projekt dokumentációját
 
 <aside markdown="1" class="pquote">
@@ -209,7 +209,6 @@ Az alábbiakban találsz néhány oldalt, amelyek segítenek abban, hogy felfede
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
