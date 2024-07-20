@@ -1,6 +1,4 @@
-            - name: Setup Node.js environment;
-	-uses: (actions/setup-node@v4.0.3)
-  with:
+ with:
     # Set always-auth in npmrc.
     always-auth: # optional, default is false
     # Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.
