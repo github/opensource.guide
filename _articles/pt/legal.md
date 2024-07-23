@@ -32,7 +32,7 @@ Quando você [cria um novo projeto](https://help.github.com/articles/creating-a-
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Tornar seu projeto no GitHub publico não é o mesmo que licenciar seu projeto.** Projetos publicos são cobertos pelos [Termos de Servicos do GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), o que permite que outras pessoas vejam e copiem seu projeto, mas seu trabalho vem sem permissões.
+**Tornar seu projeto no GitHub publico não é o mesmo que licenciar seu projeto.** Projetos publicos são cobertos pelos [Termos de Servicos do GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), o que permite que outras pessoas vejam e copiem seu projeto, mas seu trabalho vem sem permissões.
 
 Se você quiser que outras pessoas usem, distribuam, modifiquem ou contribuam com seu projeto, você precisa incluir uma licença open source. Por exemplo, alguém não pode usar legalmente qualquer parte de seu projeto do GitHub em seu código pessoal, mesmo que seu projeto seja público, a menos que você conceda explicitamente a eles o direito de fazer isso.
 

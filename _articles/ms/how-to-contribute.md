@@ -90,7 +90,7 @@ Walaupun anda suka menulis kod, jenis sumbangan lain adalah kaedah terbaik untuk
 * Tulis dan perbaiki dokumentasi projek
 * Buat folder contoh yang menunjukkan bagaimana projek itu digunakan
 * Mulakan buletin untuk projek ini, atau pilih sorotan dari senarai surat
-* Tulis tutorial untuk projek itu,[like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Tulis tutorial untuk projek itu,[like PyPA's contributors did](https://packaging.python.org/)
 * Tulis terjemahan untuk dokumentasi projek
 
 <aside markdown="1" class="pquote">

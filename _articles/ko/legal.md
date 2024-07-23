@@ -32,7 +32,7 @@ related:
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**GitHub 프로젝트를 공개하는 것은 프로젝트 라이센싱과 동일하지 않습니다.** 공개 프로젝트는 [GitHub의 서비스 약관](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)에 명시되어 있으며, 다른 사람들이 프로젝트를 보거나 포크할 수는 있지만, 다른 권한은 없습니다.
+**GitHub 프로젝트를 공개하는 것은 프로젝트 라이센싱과 동일하지 않습니다.** 공개 프로젝트는 [GitHub의 서비스 약관](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)에 명시되어 있으며, 다른 사람들이 프로젝트를 보거나 포크할 수는 있지만, 다른 권한은 없습니다.
 
 다른 사람들이 프로젝트를 사용, 복사, 수정 또는 다시 사용할 수 있게 하려면, 오픈소스 라이선스를 포함해야 합니다. 예를 들어, GitHub 프로젝트가 공개되어 있다 하더라도 명시적으로 권한을 부여하지 않는다면, 그 코드의 어느 부분도 사용할 수 없습니다. 
 
