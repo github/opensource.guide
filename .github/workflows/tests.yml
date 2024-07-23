@@ -1,4 +1,4 @@
-name: GitHub Actions CI
+[![GitHub Actions CI](https://github.com/github/opensource.guide/actions/workflows/tests.yml/badge.svg)](https://github.com/github/opensource.guide/actions/workflows/tests.yml)name: GitHub Actions CI
 on:
   push:
     branches: master
