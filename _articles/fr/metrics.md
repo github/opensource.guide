@@ -17,9 +17,9 @@ Les données, lorsqu'elles sont utilisées à bon escient, peuvent vous aider à
 Avec plus d'informations, vous pouvez:
 
 * Comprendre comment les utilisateurs répondent à une nouvelle fonctionnalité
-* Déterminez d'où viennent les nouveaux utilisateurs
+* Déterminer d'où viennent les nouveaux utilisateurs
 * Identifier, et décider de soutenir, un cas d'utilisation aberrant ou une fonctionnalité
-* Quantifiez la popularité de votre projet
+* Quantifier la popularité de votre projet
 * Comprendre comment votre projet est utilisé
 * Recueillir de l'argent grâce à des parrainages et des subventions
 
@@ -49,15 +49,15 @@ Si votre projet est hébergé sur GitHub, [vous pouvez voir](https://help.github
 
 [Les étoiles de GitHub](https://help.github.com/articles/about-stars/) peuvent également aider à fournir une mesure de base de popularité. Bien que les étoiles GitHub ne correspondent pas nécessairement aux téléchargements et à l'utilisation, elles peuvent vous dire combien de personnes prennent en compte votre travail.
 
-Vous pouvez également [suivre la découvrabilité dans des lieux spécifiques](https://opensource.com/business/16/6/pirate-metrics): par exemple, Google PageRank, le trafic de redirection depuis le site Web de votre projet ou les renvois d'autres sites ouverts. projets source ou sites Web.
+Vous pouvez également [suivre la découvrabilité dans des lieux spécifiques](https://opensource.com/business/16/6/pirate-metrics): par exemple, Google PageRank, le trafic de redirection depuis le site Web de votre projet ou les renvois d'autres sites ouverts, projets source ou sites Web.
 
 ## Usage
 
 Les gens trouvent votre projet sur cette chose sauvage et folle que nous appelons l'Internet. Idéalement, quand ils verront votre projet, ils se sentiront obligés de faire quelque chose. La deuxième question que vous voudrez poser est: _Est-ce que les gens utilisent ce projet ?_
 
-Si vous utilisez un gestionnaire de paquets, tel que npm ou RubyGems.org, pour distribuer votre projet, vous pourrez peut-être suivre les téléchargements de votre projet.
+Si vous utilisez un gestionnaire de paquets pour distribuer votre projet, tels que npm ou RubyGems.org, vous pourrez peut-être suivre les téléchargements de votre projet.
 
-Chaque gestionnaire de paquets peut utiliser une définition légèrement différente de "téléchargement", et les téléchargements ne sont pas nécessairement corrélés aux installations ou à l'utilisation, mais il fournit une base de comparaison. Essayez d'utiliser [Libraries.io](https://libraries.io/) pour suivre les statistiques d'utilisation de nombreux gestionnaires de paquets populaires.
+Chaque gestionnaire de paquets peut utiliser une définition légèrement différente de "téléchargement", et les téléchargements ne sont pas nécessairement corrélés aux installations ou à l'utilisation, mais ils fournissent une base de comparaison. Essayez d'utiliser [Libraries.io](https://libraries.io/) pour suivre les statistiques d'utilisation de nombreux gestionnaires de paquets populaires.
 
 Si votre projet est sur GitHub, naviguez à nouveau vers la page "Trafic". Vous pouvez utiliser le [graphe clone](https://github.com/blog/1873-clone-graphs) pour voir combien de fois votre projet a été cloné un jour donné, ventilé par clone total et clonage unique.
 
@@ -88,15 +88,13 @@ Les exemples de statistiques de communauté que vous souhaitez suivre régulièr
 
 ![Graphique des contributeurs](/assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
+* **Types de contributions:** Par exemple, s'il s'agit de commits, de corrections de fautes de frappe ou de bugs, de commentaires sur une issue.
 
 * **Premiers contributeurs occasionnels et répétitifs :** Vous aide à savoir si vous recevez de nouveaux contributeurs et s'ils reviennent. (Les contributeurs occasionnels sont des contributeurs avec un faible nombre de commit, que ce soit un commit, moins de cinq commits, ou autre chose selon vos critères.) Sans de nouveaux contributeurs, la communauté de votre projet peut devenir stagnante.
 
 * **Nombre d'issues ouvertes et de Pull Request ouvertes :** Si ces chiffres sont trop élevés, vous aurez peut-être besoin d'aide pour le tri des issues et les révisions de code.
 
 * **Nombre d'issue _opened_ et de pull request _opened_ :** Les issues ouvertes signifient que quelqu'un se soucie suffisamment de votre projet pour ouvrir une issue. Si ce nombre augmente avec le temps, cela suggère que les gens s'intéressent à votre projet.
-
-* **Types de contributions :** Par exemple, commit, corrige des fautes de frappe ou des bugs, ou commente une issue.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
@@ -119,8 +117,8 @@ Pensez à suivre le temps qu'il vous faut (ou à un autre responsable) pour rép
 Vous pouvez également mesurer le temps nécessaire pour passer d'une étape à l'autre du processus de contribution, par exemple:
 
 * Temps moyen d'ouverture d'une issue
-* Si les issues sont fermés par des PR
-* Si les issues périmés se ferment
+* Si les issues sont fermées par des PR
+* Si les issues périmées se ferment
 * Temps moyen pour merger une pull request
 
 ## Utilisez 📊 pour en savoir plus sur les gens
