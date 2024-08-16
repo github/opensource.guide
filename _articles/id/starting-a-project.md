@@ -45,7 +45,7 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
 
 * **Adopsi dan menggabungkan:** Proyek open source bisa digunakan oleh siapapun untuk hampir semua tujuan. Bahkan bisa digunakan untuk membangun proyek lain. [WordPress](https://github.com/WordPress), sebagai contoh, dimulai dari hasil _fork_ dari proyek yang sudah ada bernama [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparansi:** Setiap orang dapat melihat kesalahan atau inkonsistensi pada proyek open source. Transparansi sangat penting bagi pemerintah seperti [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) atau  [Amerika Serikat](https://sourcecode.cio.gov/), industri yang memiliki regulasi seperti perbankan atau kesehatan, dan perangkat lunak keamanan seperti [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparansi:** Setiap orang dapat melihat kesalahan atau inkonsistensi pada proyek open source. Transparansi sangat penting bagi pemerintah seperti [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) atau  [Amerika Serikat](https://www.cio.gov/2016/08/11/peoples-code.html), industri yang memiliki regulasi seperti perbankan atau kesehatan, dan perangkat lunak keamanan seperti [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source bukan hanya untuk perangkat lunak saja. Anda bisa membuka tentang apa saja mulai dari kumpulan data hingga buku. Silahkan lihat [GitHub Explore](https://github.com/explore) untuk ide yang dapat Anda buka sebagai open source.
 
