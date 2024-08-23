@@ -38,7 +38,7 @@ _Software Libero_ si riferisce allo stesso insieme di progetti di _Open Source_.
 
 * **Adozione e remix:** i progetti open source possono essere utilizzati da chiunque per quasi tutti gli scopi. Le persone possono persino usarlo per costruire altre cose. [WordPress](https://github.com/WordPress), ad esempio, è iniziato come fork di un progetto esistente chiamato [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Trasparenza:** chiunque può verificare la presenza di bug o incoerenze in un progetto open source. La trasparenza è importante per governi come la [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o gli [Stati Uniti](https://sourcecode.cio.gov/), settori regolamentati come quello bancario o sanitario e software di sicurezza come [Let's Encrypt](https://github.com/letsencrypt).
+* **Trasparenza:** chiunque può verificare la presenza di bug o incoerenze in un progetto open source. La trasparenza è importante per governi come la [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o gli [Stati Uniti](https://www.cio.gov/2016/08/11/peoples-code.html), settori regolamentati come quello bancario o sanitario e software di sicurezza come [Let's Encrypt](https://github.com/letsencrypt).
 
 L'open source non riguarda solo il software. Puoi aprire qualsiasi cosa, dai set di dati ai libri. Dai un'occhiata a [GitHub Explore](https://github.com/explore) per idee su cos'altro puoi aprire.
 

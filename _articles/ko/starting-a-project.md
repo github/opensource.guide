@@ -45,7 +45,7 @@ related:
 
 * **채택과 재가공:** 오픈소스 프로젝트는 거의 모든 용도로 누구나 사용할 수 있습니다. 심지어 사람들이 그 프로젝트를 기반으로 다른 프로젝트를 만들 수도 있습니다. 예컨대 [WordPress](https://github.com/WordPress)는 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md)라는 기존 프로젝트의 포크로 시작했습니다.
 
-* **투명성:** 누구나 오픈소스 프로젝트에서 오류나 불일치를 검사 할 수 있습니다. 투명성은 [불가리아](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)나 [미국](https://sourcecode.cio.gov/) 같은 정부, 은행 또는 의료 같은 규제 대상 산업, Let's Encrypt 등의 보안 소프트웨어에는 투명성이 중요합니다.
+* **투명성:** 누구나 오픈소스 프로젝트에서 오류나 불일치를 검사 할 수 있습니다. 투명성은 [불가리아](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)나 [미국](https://www.cio.gov/2016/08/11/peoples-code.html) 같은 정부, 은행 또는 의료 같은 규제 대상 산업, Let's Encrypt 등의 보안 소프트웨어에는 투명성이 중요합니다.
 
 오픈소스는 소프트웨어만을 위한 것이 아닙니다. 데이터 세트에서부터 서적에 이르기까지 모두 오픈소스로 만들 수 있습니다. [GitHub Explore](https://github.com/explore)에서 다른 오픈소스 아이디어를 확인해 보세요.
 
