@@ -86,7 +86,7 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 * Írd és javítsd a projekt dokumentációját
 * Tarts karban egy példa könyvtárat a projekt használatáról
 * Indíts hírlevelet a projektről, vagy a levelező listáról készít összefoglalót
-* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://packaging.python.org/)
 * Fordíts le a projekt dokumentációját
 
 <aside markdown="1" class="pquote">

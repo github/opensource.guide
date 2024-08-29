@@ -32,7 +32,7 @@ GitHub 上で[新しいプロジェクトを作る](https://help.github.com/arti
 
 ![リポジトリの作成](/assets/images/legal/repo-create-name.png)
 
-**GitHub 上のプロジェクトをパブリックにするということと、プロジェクトにライセンスを設定することは同じではありません。** パブリックプロジェクトは [GitHub の Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) によって保護されます。これによって、他の人があなたのプロジェクトを見たりフォークすることを許可します。しかし、それ以外の点については許可していません。
+**GitHub 上のプロジェクトをパブリックにするということと、プロジェクトにライセンスを設定することは同じではありません。** パブリックプロジェクトは [GitHub の Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants) によって保護されます。これによって、他の人があなたのプロジェクトを見たりフォークすることを許可します。しかし、それ以外の点については許可していません。
 
 もし、他に人に対してプロジェクトの利用、配布、変更、コントリビュートをしてもらいたいと思うのであれば、オープンソースライセンスをプロジェクトに含める必要があります。たとえあなたのプロジェクトがパブリックだったとしても、もしあなたがプロジェクトのソースコードを他のプロジェクトで使って良いと明記しない限りは、他の人はそのプロジェクトのコードのどの部分も合法的に使うことができません。
 

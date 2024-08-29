@@ -90,7 +90,7 @@ Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo 
 * Scrivi e migliora la documentazione del progetto, [come ha fatto @CBID2 per la documentazione di OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Preparare una cartella di esempi che mostrano come viene utilizzato il progetto
 * Avvia una newsletter del progetto o cura i punti salienti della mailing list, [come ha fatto @opensauced per il suo prodotto](https://news.opensauced.pizza/about/)
-* Scrivi tutorial per il progetto, [come hanno fatto i contributori PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Scrivi tutorial per il progetto, [come hanno fatto i contributori PyPA](https://packaging.python.org/)
 * Scrivi una traduzione per la documentazione del progetto, [come ha fatto @frontendwizard per le istruzioni CSS Flexbox della sfida freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
 <aside markdown="1" class="pquote">
@@ -181,7 +181,7 @@ C'è anche la documentazione del progetto. Questi file sono generalmente elencat
 Infine, i progetti open source utilizzano i seguenti strumenti per organizzare la discussione. Leggere gli archivi ti darà una buona idea di come pensa e funziona la comunità.
 
 * **Tracciamento dei problemi:** dove le persone discutono questioni relative al progetto.
-* **Richieste pull:** quando le persone discutono e rivedono le modifiche in corso, sia che si tratti di migliorare l'ordine del codice dei contributori, l'utilizzo della grammatica, l'utilizzo delle immagini, ecc. Alcuni progetti, come [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint-fix.yml), utilizzano determinati flussi di azioni GitHub per automatizzare e velocizzare le loro revisioni del codice.
+* **Richieste pull:** quando le persone discutono e rivedono le modifiche in corso, sia che si tratti di migliorare l'ordine del codice dei contributori, l'utilizzo della grammatica, l'utilizzo delle immagini, ecc. Alcuni progetti, come [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint.yml), utilizzano determinati flussi di azioni GitHub per automatizzare e velocizzare le loro revisioni del codice.
 * **Forum di discussione o mailing list:** Alcuni progetti possono utilizzare questi canali per argomenti di conversazione (ad esempio _"Come..."_ o _"Cosa ne pensi di..."_ invece di segnalazioni di bug o richieste per le funzioni). Altri utilizzano il tracker dei problemi per tutte le chiamate. Un buon esempio di ciò potrebbe essere la [newsletter settimanale CHAOSS](https://chaoss.community/news/)
 * **Canale di chat sincrono:** alcuni progetti utilizzano canali di chat (come Slack o IRC) per conversazioni informali, collaborazione e scambi rapidi. Un buon esempio di ciò potrebbe essere [EddieHub Discord Community](http://discord.eddiehub.org/).
 

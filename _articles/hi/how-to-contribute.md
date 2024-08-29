@@ -90,7 +90,7 @@ related:
 * प्रोजेक्ट के दस्तावेज़ीकरण को लिखें और सुधारें
 * प्रोजेक्ट का उपयोग कैसे किया जाता है, यह दर्शाने वाले उदाहरणों का एक फ़ोल्डर बनाएं
 * प्रोजेक्ट के लिए एक न्यूज़लेटर शुरू करें, या मेलिंग सूची से हाइलाइट्स क्यूरेट करें
-* प्रोजेक्ट के लिए ट्यूटोरियल लिखें, [जैसे PyPA के योगदानकर्ताओं ने किया](https://github.com/pypa/python-package-user-guide/issues/194)
+* प्रोजेक्ट के लिए ट्यूटोरियल लिखें, [जैसे PyPA के योगदानकर्ताओं ने किया](https://packaging.python.org/)
 * परियोजना के दस्तावेज़ीकरण के लिए एक अनुवाद लिखें
 
 <aside markdown="1" class="pquote">
@@ -132,7 +132,7 @@ related:
 
 उदाहरण के लिए:
 
-* @sindresorhas एक ["भयानक" सूचियों की सूची तैयार करता है](https://github.com/sindresorhas/awesome)
+* @sindresorhus एक ["भयानक" सूचियों की सूची तैयार करता है](https://github.com/sindresorhus/awesome)
 * @h5bp फ्रंट-एंड डेवलपर उम्मीदवारों के लिए [संभावित साक्षात्कार प्रश्नों की सूची] (https://github.com/h5bp/Front-end-Developer-Interview-Questions) रखता है
 * @stuartlynn और @nicole-a-tesla ने [पफिन्स के बारे में मजेदार तथ्यों का संग्रह](https://github.com/stuartlynn/puffin_facts) बनाया।
 

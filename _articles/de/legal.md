@@ -32,7 +32,7 @@ Wenn Sie [ein neues Projekt auf GitHub erstellen](https://help.github.com/articl
 
 ![Ein Repo erstellen](/assets/images/legal/repo-create-name.png)
 
-**Ihr GitHub-Projekt öffentlich zu machen, ist nicht dasselbe, wie eine Lizenz zu vergeben.** Öffentliche Projekte unterliegen [GitHubs Servicebedingungen](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), die Anderen das Ansehen und Forken Ihres Projektes erlauben. Dies bringt allerdings keine weiteren Erlaubnisse für Ihr Werk mit sich.
+**Ihr GitHub-Projekt öffentlich zu machen, ist nicht dasselbe, wie eine Lizenz zu vergeben.** Öffentliche Projekte unterliegen [GitHubs Servicebedingungen](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), die Anderen das Ansehen und Forken Ihres Projektes erlauben. Dies bringt allerdings keine weiteren Erlaubnisse für Ihr Werk mit sich.
 
 Wenn Sie anderen die Nutzung, Verbreitung, Modifikation Ihres Projektes sowie das Beitragen erlauben möchten, müssen Sie eine Open-Source-Lizenz vergeben. Beispielsweise darf legalerweise kein Mensch irgendeinen Teil Ihres GitHub-Projektes in seinen/ihren eigenen Code nutzen (selbst wenn er öffentlich ist), solange Sie nicht das Recht dazu explizit eingeräumt haben.
 

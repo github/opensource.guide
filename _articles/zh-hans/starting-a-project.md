@@ -46,7 +46,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 * **采用和重组：** 任何人几乎可以出于任何目的使用开源项目。人们甚至可以使用它来构建其他东西。例如，[WordPress](https://github.com/WordPress) 就是派生自一个名为 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) 的现有项目。
 
-* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
+* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://www.cio.gov/2016/08/11/peoples-code.html)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
 
 开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 来找找有什么是你可以开源的。
 

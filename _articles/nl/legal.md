@@ -32,7 +32,7 @@ Wanneer je [een nieuw project maakt](https://help.github.com/articles/creating-a
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Het openbaar maken van uw GitHub-project is niet hetzelfde als het licentiëren van uw project.** Openbare projecten vallen onder de [Servicevoorwaarden van GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), waarmee anderen uw project kunnen bekijken en splitsen (_een fork_), maar uw werk heeft verder geen rechten.
+**Het openbaar maken van uw GitHub-project is niet hetzelfde als het licentiëren van uw project.** Openbare projecten vallen onder de [Servicevoorwaarden van GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), waarmee anderen uw project kunnen bekijken en splitsen (_een fork_), maar uw werk heeft verder geen rechten.
 
 Als u wilt dat anderen uw project gebruiken, distribueren, wijzigen of eraan bijdragen, moet u een open source-licentie opnemen. Iemand kan bijvoorbeeld geen enkel deel van je GitHub-project legaal in zijn code gebruiken, zelfs niet als het openbaar is, tenzij je hem expliciet het recht geeft om dit te doen.
 

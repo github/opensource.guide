@@ -67,7 +67,7 @@ Se il tuo progetto ha una comunità di contributori molto attiva, puoi formare u
   </p>
 </aside>
 
-I team dirigenti potrebbero voler creare un canale designato (come su IRC) o incontrarsi regolarmente per discutere del progetto (come su Gitter o Google Hangout). Puoi anche rendere pubbliche queste riunioni in modo che altre persone possano ascoltarle. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), ad esempio, [prende ore di lavoro ogni settimana](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUIRE.md#talking-with-other-devs).
+I team dirigenti potrebbero voler creare un canale designato (come su IRC) o incontrarsi regolarmente per discutere del progetto (come su Gitter o Google Hangout). Puoi anche rendere pubbliche queste riunioni in modo che altre persone possano ascoltarle. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), ad esempio, [prende ore di lavoro ogni settimana](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Una volta stabiliti i ruoli di leadership, assicurati di documentare come le persone possono raggiungerli! Stabilisci un processo chiaro su come qualcuno può diventare un sostenitore o unirsi a un sottocomitato nel tuo progetto e scrivilo nel tuo GOVERNANCE.md.
 

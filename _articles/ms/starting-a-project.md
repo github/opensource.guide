@@ -38,7 +38,7 @@ _Perisian percuma_ merujuk kepada set projek yang sama dengan _open source_. Kad
 
 * **Adopsi dan pencampuran semula:** Projek sumber terbuka dapat digunakan oleh siapa saja untuk hampir semua tujuan. Orang bahkan boleh menggunakannya untuk membina perkara lain.[WordPress](https://github.com/WordPress),sebagai contoh, dimulakan sebagai garpu projek sedia ada yang dipanggil [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Ketelusan:** Sesiapa sahaja dapat memeriksa projek sumber terbuka untuk kesilapan atau ketidakkonsistenan. Perkara ketelusan kepada kerajaan seperti [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://sourcecode.cio.gov/),industri terkawal seperti perbankan atau penjagaan kesihatan, dan perisian keselamatan seperti [Let's Encrypt](https://github.com/letsencrypt).
+* **Ketelusan:** Sesiapa sahaja dapat memeriksa projek sumber terbuka untuk kesilapan atau ketidakkonsistenan. Perkara ketelusan kepada kerajaan seperti [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://www.cio.gov/2016/08/11/peoples-code.html),industri terkawal seperti perbankan atau penjagaan kesihatan, dan perisian keselamatan seperti [Let's Encrypt](https://github.com/letsencrypt).
 
 Sumber terbuka bukan hanya untuk perisian. Anda boleh membuka sumber semuanya dari set data hingga buku. Lihatlah[GitHub Explore](https://github.com/explore)untuk idea mengenai apa lagi yang boleh anda buka sumber.
 

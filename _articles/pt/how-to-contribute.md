@@ -86,7 +86,7 @@ Mesmo se você gosta de escrever código, outros tipos de contribuições são u
 * Escreva e melhore a documentação do projeto
 * Organize uma pasta de exemplos mostrando como o projeto é usado
 * Inicie uma newsletter para o projeto ou selecione resumos da lista de discussão
-* Escreva tutoriais para o projeto, [como os contribuidores do PyPA fizeram](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Escreva tutoriais para o projeto, [como os contribuidores do PyPA fizeram](https://packaging.python.org/)
 * Escreva uma tradução para a documentação do projeto
 
 <aside markdown="1" class="pquote">

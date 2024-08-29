@@ -90,7 +90,7 @@ Even if you like to write code, other types of contributions are a great way to 
 * Write and improve the project's documentation, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
 * Curate a folder of examples showing how the project is used
 * Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Write tutorials for the project, [like PyPA's contributors did](https://packaging.python.org/)
 * Write a translation for the project's documentation, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
 <aside markdown="1" class="pquote">
@@ -181,7 +181,7 @@ A project also has documentation. These files are usually listed in the top leve
 Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
 * **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress whether its to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint-fix.yml), use certain GitHub Action flows to automate and quicken their code reviews.  
+* **Pull requests:** Where people discuss and review changes that are in progress whether its to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint.yml), use certain GitHub Action flows to automate and quicken their code reviews.  
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations. A good example of this would be [CHAOSS' weekly Newsletter](https://chaoss.community/news/)
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges. A good example of this would be [EddieHub's Discord community](http://discord.eddiehub.org/).
 
