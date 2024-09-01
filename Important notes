@@ -1,0 +1,31 @@
+
+### **GitHub Open Source Project Disclaimer & Licensing Overview**
+
+**1. Legal Disclaimer:**
+   - **No Legal Advice:** GitHub does not provide legal advice. The information in this guide is not legal counsel. Always consult with your own legal counsel for specific legal questions, especially before making decisions about your project.
+   - **No Attorney-Client Relationship:** Communicating with GitHub or contributing to the guide does not create an attorney-client relationship.
+
+**2. Open Source Licensing:**
+   - **Content License (CC-BY-4.0):** 
+     - Allows usage of content for almost any purpose, as long as you provide appropriate credit and adhere to the license terms.
+   - **Code License (CC0-1.0):** 
+     - Code in the repository is in the public domain, meaning it can be used without restriction, except for specific components under the MIT license or SIL OFL 1.1.
+   - **Exceptions:**
+     - Primer components in `node_modules` are licensed under MIT.
+     - Octicons images are under SIL OFL 1.1.
+
+**3. Contribution Terms:**
+   - **Licenses:** When contributing to the repository, your contributions are licensed under the same terms (CC-BY-4.0 for content, CC0-1.0 for code).
+   - **Trademarks:** GitHub trademarks (such as logos) are not covered by these licenses and must follow GitHub’s specific trademark guidelines.
+
+**4. Third-Party Content:**
+   - **Django Example:**
+     - Content from other projects like Django is used with permission and is subject to its own licensing terms, which must be followed.
+
+**5. Important Reminders:**
+   - **Uncertainty:** Running an open-source project involves risks and uncertainties. This guide is not foolproof and may contain errors.
+   - **Research and Consultation:** Always do your own research and consult with legal and project management experts to ensure compliance and best practices.
+
+---
+
+This summary captures the key points and provides a quick reference to the essential legal and licensing considerations for anyone using or contributing to the open-source project on GitHub.
