@@ -2,8 +2,10 @@ name: GitHub Actions CI
 on:
   push:
     branches: master
-  pull_request: []
+  pull_request:
   merge_group:
+permissions:
+  contents: read
 jobs:
   tests:
     runs-on: ubuntu-latest
