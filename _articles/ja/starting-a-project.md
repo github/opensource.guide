@@ -38,7 +38,7 @@ _フリーソフトウェア_ という言葉も _オープンソース_ と同�
 
 * **取り入れて再構成：** オープンソースプロジェクトは誰しもがほとんどいかなる理由のためにも使えるものです。人々は他のものを作るためにでも使うことができます。例えば [WordPress](https://github.com/WordPress) は、 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) と呼ばれる既存のプロジェクトのフォークとして始まりました。
 
-* **透明性：** 誰でもオープンソースプロジェクトにエラーがないかや一貫していないところがないか調べることができます。透明性は[ブルガリア](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)や[アメリカ](https://sourcecode.cio.gov/)のような政府、銀行やヘルスケアのような規制産業、 [Let's Encrypt](https://github.com/letsencrypt) のようなセキュリティソフトウェアにとって重要です。
+* **透明性：** 誰でもオープンソースプロジェクトにエラーがないかや一貫していないところがないか調べることができます。透明性は[ブルガリア](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)や[アメリカ](https://www.cio.gov/2016/08/11/peoples-code.html)のような政府、銀行やヘルスケアのような規制産業、 [Let's Encrypt](https://github.com/letsencrypt) のようなセキュリティソフトウェアにとって重要です。
 
 オープンソースはソフトウェアのためだけのものでもありません。データセットから本まであらゆるものをオープンソースにできるのです。他になにかオープンソースにできるものはないかアイデアを得るために [GitHub Explore](https://github.com/explore) をチェックしてみましょう。
 

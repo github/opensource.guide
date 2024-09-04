@@ -41,7 +41,7 @@ _Vrije software (Free software)_ verwijst naar dezelfde reeks projecten als _ope
 
 * **Adoptie en remixen:** Open source-projecten kunnen door iedereen voor bijna elk doel worden gebruikt. Mensen kunnen er zelfs andere dingen mee bouwen. [WordPress](https://github.com/WordPress) is bijvoorbeeld begonnen als een splitsing van een bestaand project met de naam [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparantie:** Iedereen kan een open source-project inspecteren op fouten of inconsistenties. Transparantie is belangrijk voor regeringen zoals [Bulgarije](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) of de [Verenigde Staten](https://sourcecode.cio.gov/), gereguleerde industrieën zoals het bankwezen of de gezondheidszorg, en beveiligingssoftware zoals [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparantie:** Iedereen kan een open source-project inspecteren op fouten of inconsistenties. Transparantie is belangrijk voor regeringen zoals [Bulgarije](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) of de [Verenigde Staten](https://www.cio.gov/2016/08/11/peoples-code.html), gereguleerde industrieën zoals het bankwezen of de gezondheidszorg, en beveiligingssoftware zoals [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source is niet alleen voor software. U kunt alles openen, van datasets tot boeken. Bekijk [GitHub Explore](https://github.com/explore) voor ideeën over wat je nog meer kunt open source.
 

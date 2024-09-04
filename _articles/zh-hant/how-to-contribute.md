@@ -87,7 +87,7 @@ redirect_from: /zh-tw/how-to-contribute/
 * 撰寫和改善專案的說明文件
 * 策劃一個資料夾來蒐集專案的實際應用案例
 * 辦一個專案的電子報，或者蒐整郵件列表的摘要
-* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://packaging.python.org/)
 * 翻譯專案的說明文件
 
 <aside markdown="1" class="pquote">
