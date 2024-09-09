@@ -40,7 +40,7 @@ _Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwart
 
 * **Adopcja i remiksowanie:** projekty open source mogą być wykorzystywane przez każdego do prawie dowolnego celu. Ludzie mogą nawet używać go do budowania innych rzeczy. [WordPress](https://github.com/WordPress), na przykład, zaczął się jako rozwidlenie istniejącego projektu o nazwie [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparentność:** Każdy może sprawdzić projekt open source pod kątem błędów lub niespójności. Przejrzystość ma znaczenie dla rządów takich jak [Bułgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) lub [Stany Zjednoczone](https://sourcecode.cio.gov/), regulowane branże, takie jak bankowość lub opieka zdrowotna, oraz oprogramowanie zabezpieczające, takie jak [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparentność:** Każdy może sprawdzić projekt open source pod kątem błędów lub niespójności. Przejrzystość ma znaczenie dla rządów takich jak [Bułgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) lub [Stany Zjednoczone](https://www.cio.gov/2016/08/11/peoples-code.html), regulowane branże, takie jak bankowość lub opieka zdrowotna, oraz oprogramowanie zabezpieczające, takie jak [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source to nie tylko oprogramowanie. Możesz otworzyć wszystko, od zbiorów danych po książki. Sprawdź [GitHub Explore](https://github.com/explore), aby uzyskać pomysły na to, co jeszcze możesz otworzyć.
 
