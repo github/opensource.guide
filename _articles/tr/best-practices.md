@@ -6,8 +6,8 @@ class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
-  - metrics
-  - leadership
+- metrics
+- leadership
 ---
 
 ## Geliştirici olmak ne demektir?
@@ -60,10 +60,10 @@ Projenizi yarı zamanlı veya tamamen gönüllü olarak sürdürmekteyseniz, ne 
 
 Yazmaya değer birkaç kural:
 
-- Bir katkı nasıl gözden geçirilir ve kabul edilir ( _Testlere ihtiyaçları var mı? Bir sorun şablonu var mı?_ )
-- Kabul edeceğiniz katkı türleri ( _Kodunuzun yalnızca belirli bir bölümünde yardım mı istiyorsunuz?_ )
-- Bekleme süresi ne kadardır (_örneğin, "7 gün içinde bir bakıcıdan bir yanıt bekleyebilirsiniz. O zamana kadar bir şey duymadıysanız, ipliğe ping atmaktan çekinmeyin."_)
-- Projeye ne kadar zaman harcıyorsunuz (_örneğin, "Bu projeye haftada sadece 5 saat harcıyoruz"_)
+* Bir katkı nasıl gözden geçirilir ve kabul edilir ( _Testlere ihtiyaçları var mı? Bir sorun şablonu var mı?_ )
+* Kabul edeceğiniz katkı türleri ( _Kodunuzun yalnızca belirli bir bölümünde yardım mı istiyorsunuz?_ )
+* Bekleme süresi ne kadardır (_örneğin, "7 gün içinde bir bakıcıdan bir yanıt bekleyebilirsiniz. O zamana kadar bir şey duymadıysanız, ipliğe ping atmaktan çekinmeyin."_)
+* Projeye ne kadar zaman harcıyorsunuz (_örneğin, "Bu projeye haftada sadece 5 saat harcıyoruz"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/HEAD/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) ve [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) geliştiriciler ve katkıda bulunanlar için temel kuralları olan projelere birkaç örnektir.
 
@@ -111,10 +111,10 @@ Kabul etmek istemediğinizi bildiğiniz katkıları derhal kapatmak daha iyidir.
 
 Bir katkıyı kabul etmek istemiyorsanız:
 
-- Katkıdan dolayı **teşekkür edin**.
-- **Neden proje kapsamına girmediğini açıklayın** ve mümkünse iyileştirme için net önerilerde bulunun. Nazik ama kararlı olun.
-- Varsa, **ilgili belgelere link verin**. Kabul etmek istemediğiniz şeyler için tekrarlanan istekler fark ederseniz, tekrar etmemek için bunları belgelerinize ekleyin.
-- **İsteği kapatın.**
+* Katkıdan dolayı **teşekkür edin**.
+* **Neden proje kapsamına girmediğini açıklayın** ve mümkünse iyileştirme için net önerilerde bulunun. Nazik ama kararlı olun.
+* Varsa, **ilgili belgelere link verin**. Kabul etmek istemediğiniz şeyler için tekrarlanan istekler fark ederseniz, tekrar etmemek için bunları belgelerinize ekleyin.
+* **İsteği kapatın.**
 
 Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [Celery](https://github.com/celery/celery/) kullanıcısı Windows ile ilgili bir hata bildirdiğinde, @berkerpeksag [verdiği cevap](https://github.com/celery/celery/issues/3383):
 
@@ -134,8 +134,8 @@ Sonuçta, eğer bir katkı yeterince iyi değilse, kabul etme yükümlülüğün
 
 Çok fazla düşük kaliteli katkı alıyorsanız, katkıda bulunanların önceden biraz çalışma yapmasını isteyin, örneğin:
 
-- Bir sorun veya PR şablonunu veya kontrol listesi doldurma
-- PR göndermeden önce bir sorun açma
+* Bir sorun veya PR şablonunu veya kontrol listesi doldurma
+* PR göndermeden önce bir sorun açma
 
 Kurallarınıza uymuyorlarsa, belgelerinizi referans göstererek sorunu hemen kapatın.
 
@@ -233,11 +233,11 @@ Popüler bir projeyi sürdürmenin iyi haberi, diğer geliştiricilerin de benze
 
 Bakım çalışmalarının bazı yönlerini otomatikleştirmeye yardımcı olacak [çeşitli araçlar vardır](https://github.com/showcases/tools-for-open-source). Birkaç örnek:
 
-- [semantic-release](https://github.com/semantic-release/semantic-release) sürümlerinizi otomatikleştirir
-- [mention-bot](https://github.com/facebook/mention-bot) PR talepleri için potansiyel denetçilerden bahseder
-- [Danger](https://github.com/danger/danger) kod incelemesini otomatikleştirmeye yardımcı olur
-- [no-response](https://github.com/probot/no-response) geliştiricilerin uzun süre yanıt vermediği sorunları kapatır
-- [dependabot](https://github.com/dependabot) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
+* [semantic-release](https://github.com/semantic-release/semantic-release) sürümlerinizi otomatikleştirir
+* [mention-bot](https://github.com/facebook/mention-bot) PR talepleri için potansiyel denetçilerden bahseder
+* [Danger](https://github.com/danger/danger) kod incelemesini otomatikleştirmeye yardımcı olur
+* [no-response](https://github.com/probot/no-response) geliştiricilerin uzun süre yanıt vermediği sorunları kapatır
+* [dependabot](https://github.com/dependabot) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
 
 Hata raporları ve diğer genel katkılar için GitHub, aldığınız iletişimi kolaylaştırmak için oluşturabileceğiniz [Sorun Şablonlarına ve PR İsteği Şablonlarına](https://github.com/blog/2111-issue-and-pull-request-templates) sahiptir. @TalAter sorununuzu ve PR şablonlarınızı yazmanıza yardımcı olmak için [Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/) rehberini geliştirdi.
 
