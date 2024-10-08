@@ -1,16 +1,16 @@
 ---
 lang: tr
 untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+title: Açık Kaynak Geliştiricileri için Dengeyi Korumak
+description: Bir açık kaynak geliştiricisi olarak öz bakım ve tükenmişlikten kaçınmak için ipuçları.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+Açık kaynaklı bir projenin popülaritesi arttıkça, uzun vadede yenilenmiş ve üretken kalmak için dengeyi korumanıza yardımcı olacak net sınırlar belirlemek önemli hale gelir. 
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+Bakımcıların deneyimleri ve dengeyi bulma stratejileri hakkında bilgi edinmek için <a href=“http://maintainers.github.com/”>Bakımcı Topluluğu</a>'nun 40 üyesiyle bir atölye çalışması gerçekleştirdik ve açık kaynakta tükenmişlikle ilgili ilk elden deneyimlerini ve işlerinde dengeyi korumalarına yardımcı olan uygulamaları öğrenmemizi sağladık. Kişisel ekoloji kavramı burada devreye giriyor.
 
 So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
 
